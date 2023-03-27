@@ -22,15 +22,15 @@ topics:
   - AI Hardware
 
 related:
-  - title: "AI Working Magic On Financial Services Firms"
-    excerpt: "With AI having a real impact on both workflows and the bottom line, firms around the world are pushing past the early adoption phase and working to scale AI across their organizat"
-    publishedDateTime: 2023-03-22T12:59:00Z
-    webUrl: "https://www.forbes.com/sites/chris-perry/2023/03/22/ai-working-magic-on-financial-services-firms/"
+  - title: "Business Services Becoming More Reliant on Artificial Intelligence as AI Market Value Exceeds $130 Billion"
+    excerpt: "Grand View Research continued: \"Companies adopt AI services to reduce their overall operational costs, yielding more profit. Artificial Intelligence as a Service, or AIaaS, is being used by companies to obtain a competitive advantage over the cloud."
+    publishedDateTime: 2023-03-23T15:59:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/03/23/9782437.htm"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 20
 
 secured: "MoFx+jmx3RB8jARoXgIG3LwUXxTl3xBdwMaiSgdVCOpf+lSGDdwiwVs91Gzs/3IFLKXGyNJI2CPSXgDMWvo+hnrOADxbugpy78JKdrsk85l8/K6/Z+j8mETWySw3TXb67rf2O4B480a+joAW92M4lNiRg0ZH2b7zABAiS/K5Dsvze7SSBJ9WtE7Ay0jjoAq+4kIUjjBEwo5h+Rl1ScniVwXQ0CSRh3KX2bEm5l1xdWMnZuucdk4sGiG7XRtQJPe9uwHYpDKjyG2lenoXEER3NyqKYcKXTNOEz4f4EDe9RQnB/+BEZGhjEZFpuNSq7fs38Knd497agBRDIhAtmPgLgsbvcMw7kPyNzQqqyN495Ik=;s2fyfcc2PtODhKuTVZIIEw=="
 ---

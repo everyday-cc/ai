@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Ubisoft Is Using AI to Write Dialogue for Video Game Characters"
-    excerpt: "I've been working at PCMag since November 2016, covering all areas of technology and video game news. Before that I spent nearly 15 years working at Geek.com as a writer and editor. I also spent the first six years after leaving university as a ..."
-    publishedDateTime: 2023-03-22T12:29:00Z
-    webUrl: "https://www.pcmag.com/news/ubisoft-is-using-ai-to-write-dialogue-for-video-game-characters"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
 
 secured: "KOTa1VjnDaFRNd78Vqg+EIcaNl+MZoixBhh723T0MaCGwOCu1qQVc6yXHooPtFJWblak2YceXbs8XHwbCKuYNSldVRYIxskOWJmOY+qiRqGCY7nef0ycdrxkBvg3DnMHigR7cXnCcegtNmzSCwtSUgqEM/Pih7cguEYxM+1PYvv9A2AzzJytP0dgO1lKZ940fbtQdxeHv4MPm9DUw6F5aImGieuUS6HnOgaIZZFZ/hGyDE6R37J1m2bCsJFZ/v57ErllwQCqiQcP6k4InthCxGUkLxkKpmnOELr0GgXMXDo+9f0+/JJ7i6D09ZvCCHHSXsx+eGp5bfcHDHCXtwa852dxvrrTBIPyecfdhPOcmT0=;fCqGHaqwslfoiedJCNdHfw=="
 ---

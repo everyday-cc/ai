@@ -52,22 +52,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 54
-  - title: "Singletons are using AI to help them come up with the perfect chat-up lines on Tinder"
-    excerpt: "Many AI chatbots have existed in the past, however, ChatGPT is considered by many to be one of the best. The chatbot can also do more than just answer questions, it can be used to generate text, translate language and analyse sentiment. As the software ..."
-    publishedDateTime: 2023-03-22T11:16:00Z
-    webUrl: "https://www.irishmirror.ie/lifestyle/technology/pick-up-lines-chatgpt-ai-29521341"
-    ampWebUrl: "https://www.irishmirror.ie/lifestyle/technology/pick-up-lines-chatgpt-ai-29521341.amp"
-    cdnAmpWebUrl: "https://www-irishmirror-ie.cdn.ampproject.org/c/s/www.irishmirror.ie/lifestyle/technology/pick-up-lines-chatgpt-ai-29521341.amp"
-    type: article
-    provider:
-      name: Irish Daily Mirror
-      domain: irishmirror.ie
-    quality: 52
-    images:
-      - url: "https://i2-prod.irishmirror.ie/incoming/article29521540.ece/ALTERNATES/s1200/0_GettyImages-1247150492.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ku7f0MNeBH8LljfOxEOBCV2iOskS5eDAzoY6bWQQCGKoJlm92BLWWtKtS9NEsknMNM3u5k7s2izUDoO2xjvhAN0Bg79nh+1fBs27fTaK6LYQe7PyxQlgiKWvvOu0SOxuIjRJSGS/w3j92aIZ3nsa8rRud/dY9Ue+wgtge/cPSIhBuf5GDE7F1lIOLGs8Y8eEWcOe9eQJ0/DCMBVIFvgJuF1O6kabF+FpYWQ8btYEbDx+u8tPUvCg195uTdLReoCkEvoM+Dg5cGHswxTGqOM0p3zJl56YvduNBFKQHR0IwQK8wNxS1/L6t4NfLO+DHiGKz71Hye8m+Yk7bAr6SwdHgMFlBS34bIZfN2jF21m5BfA=;6t0XEGHsDm+nV047IegxIQ=="
 ---

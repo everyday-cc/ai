@@ -53,15 +53,6 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 19
-  - title: "Pimloc hires US sales leader, taking its AI-powered video privacy and analytics technology to North America"
-    excerpt: "Pimloc, the company using artificial intelligence (AI) to anonymise personal data in videos announces the hire of its first sales leader in North America, Tom Fashola, who will serve as Vice"
-    publishedDateTime: 2023-03-22T11:51:00Z
-    webUrl: "https://www.sourcesecurity.com/news/pimloc-hires-sales-leader-ai-powered-co-1643361442-ga.1679471839.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 18
   - title: "Workplace Analytics and AI-Powered Skills-Mapping Platforms Named ISG Startup Challenge Winners"
     excerpt: "Technology platforms that facilitate collaboration and improved workplace experience and identify strengths and gaps in workforce skills were voted the winners of ISG Startup Challenges at events hosted in London and New York by Information Services Group (ISG) (Nasdaq: III),"
     publishedDateTime: 2023-03-24T21:24:00Z

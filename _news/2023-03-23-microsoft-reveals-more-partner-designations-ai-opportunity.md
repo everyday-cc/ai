@@ -226,20 +226,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 55
-  - title: "Nvidia teams up in Microsoft Azure pact"
-    excerpt: "Nvidia cloud based services  The maker of graphics cards named after a Roman vengence daemon, Nvidia has teamed up with the software King of the World, Microsoft. The darkish pact will see two Nvidia cloud-based services hosted by Microsoft Azure."
-    publishedDateTime: 2023-03-22T11:55:00Z
-    webUrl: "https://www.fudzilla.com/news/56576-nvidia-teams-up-in-microsoft-azure-pact"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/c8e5e25d6ca5acd51fb2adbfbdab9ff6_L.jpg"
-        width: 620
-        height: 498
-        isCached: true
   - title: "AI wars: Elon Musk attacks Microsoft over ChatGPT tech access"
     excerpt: "Elon Musk, the CEO of Tesla and Twitter, may have just stepped up his attacks on Microsoft in the ongoing conflict over artificial intelligence (AI)."
     publishedDateTime: 2023-03-25T09:25:00Z

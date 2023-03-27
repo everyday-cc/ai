@@ -215,20 +215,6 @@ related:
         width: 680
         height: 357
         isCached: true
-  - title: "Nvidia teams up in Microsoft Azure pact"
-    excerpt: "Nvidia cloud based services  The maker of graphics cards named after a Roman vengence daemon, Nvidia has teamed up with the software King of the World, Microsoft. The darkish pact will see two Nvidia cloud-based services hosted by Microsoft Azure."
-    publishedDateTime: 2023-03-22T11:55:00Z
-    webUrl: "https://www.fudzilla.com/news/56576-nvidia-teams-up-in-microsoft-azure-pact"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/c8e5e25d6ca5acd51fb2adbfbdab9ff6_L.jpg"
-        width: 620
-        height: 498
-        isCached: true
   - title: "Microsoft Reveals More Partner Designations, AI Opportunity"
     excerpt: "A second upcoming designation is for learning partners ... commitment with Azure intellectual property (IP) co-sell eligible products and services. Partners will also gain the ability to transact containers and virtual machine (VM) software reservations ..."
     publishedDateTime: 2023-03-22T20:43:00Z

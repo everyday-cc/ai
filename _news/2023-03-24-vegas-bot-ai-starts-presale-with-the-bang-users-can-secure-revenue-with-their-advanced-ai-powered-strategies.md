@@ -25,37 +25,70 @@ images:
     isCached: true
 
 related:
-  - title: "How PR Professionals Can Use Artificial Intelligence Tools To Enhance Their Work"
-    excerpt: "Are robots taking over our jobs? That’s the million-dollar question people across many different industries have been asking as the world of artificial intelligence continues to advance at a rapid speed. But the fact of the matter is technology has been ..."
-    publishedDateTime: 2023-03-22T11:32:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/amp/"
+  - title: "There's No Such Thing as Artificial Intelligence"
+    excerpt: "According to its proponents, we will all live in the “metaverse,” build our financial infrastructure on “web3” and power our lives with “artificial intelligence.” All three of these terms are mirages that have raked in billions of dollars ..."
+    publishedDateTime: 2023-03-26T07:27:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-03-26/even-with-chat-gpt-4-there-s-no-such-thing-as-artificial-intelligence"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f5b7915a5d68b0459dfcbb7/0x0.jpg?format=jpg&width=1200"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iU7LUSykyhPA/v1/1200x800.jpg"
         width: 1200
         height: 800
         isCached: true
-  - title: "Publishers demand to be paid for AI using their work"
-    excerpt: "ChatGPT, Bard, and all AI tools are trained on existing work, and quote that work without the originators being paid or cited in most cases — and publishers say this can't continue."
-    publishedDateTime: 2023-03-24T11:52:00Z
-    webUrl: "https://appleinsider.com/articles/23/03/24/publishers-demand-to-be-paid-for-ai-using-their-work"
-    ampWebUrl: "https://appleinsider.com/articles/23/03/24/publishers-demand-to-be-paid-for-ai-using-their-work/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/03/24/publishers-demand-to-be-paid-for-ai-using-their-work/amp/"
+  - title: "Google's AI teams are experiencing a brain drain. Here's where its top researchers are now."
+    excerpt: "Considered a breakthrough in natural language processing, the Transformer model helps an AI understand meaning by looking at each ... on BERT and is considered well-suited for tasks like translation and summarizing. Sharan Narang, another contributor ..."
+    publishedDateTime: 2023-03-23T09:16:00Z
+    webUrl: "https://www.businessinsider.com/google-ai-teams-brain-drain-researchers-leave-2023-3"
     type: article
     provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 57
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
     images:
-      - url: "https://photos5.appleinsider.com/gallery/53636-107803-000-lead-AI-and-Publishers-d2-xl.jpg"
-        width: 1280
-        height: 720
+      - url: "https://i.insider.com/641bd7c8b7834100191ae5c7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "From brain waves, this AI can sketch what you're picturing"
+    excerpt: "Some experts say in the wrong hands, the AI model could be used for interrogations or surveillance. “I think the line is very thin between what could be empowering and oppressive,” said Nita Farahany, a Duke University professor of law and ethics in ..."
+    publishedDateTime: 2023-03-25T12:05:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/brain-waves-ai-can-sketch-picturing-rcna76096"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 49
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "The London-based CLM provider’s latest offerings are powered by a combination of AI technologies including OpenAI’s latest GPT model GPT-4, Microsoft Azure, IBM Watson and ContractPodAi’s own proprietary AI. SALI’s new API and web application can ..."
+    publishedDateTime: 2023-03-25T17:15:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/03/25/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Vegas Bot AI starts Presale with the bang, users can secure revenue with their advanced AI-powered strategies"
+    excerpt: "With Chatbot AI's rising popularity, Vegas Bot AI strives to take natural language processing and machine learning a notch higher to better serve customers globally. Chatbot AI And Its Features Chatbot AI is a computer software that uses natural language ..."
+    publishedDateTime: 2023-03-23T13:54:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31475133/vegas-bot-ai-starts-presale-with-the-bang-users-can-secure-revenue-with-their-advanced-ai-powered-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "FoKeU3FXICyi4yNZVQ+DpaL9JZ2blC9LPSdrBXAPT7fZOQWmhH4H3C3mhJQv+OV/G3CSeYHJQ2pyHCYfoxxWfnvWLZZRVSEv5+qvepzrMCt0wv5EOeHcikgE8AiuK8vWE4y8fot0POAUfDd08FuTN3WmEF1xuQ2mjkD53JFnfGC9vZHszzNHMMRGYB9rqdsQ3PJONisaXiC1+Wh+kW5DcflVKHx1gIpkW4P1Uc/pwP4U9bLMK5A2MDHTQ0o4BED9+IfaAkUzlirHtw1psC38NOLYM0BBpgUuhxBVH/3zDbS2Z0Xdetw4mTiY87qYPtWHm8BMEwlxLWCLn5tUciwjeMdS92MLXtwNvZQq4P/JCVzW9jk6BRNWdnf2J0VwlnuR5Gro2coxzM1f1TBtuOA3clRn2DV1BOktNzXhCf4kBcTq+CDYk3LEeBh1VzgyEyZWb5hVPYyqLwoGn3H4sacZN1fUwwsAJeNXbRd2qNtChNODQXVsqnRkjDvg2JbcNahQSZNwxkR8k7dzQoNaz6Bolw==;UybTHUjb9jyz54dKn3KNpQ=="

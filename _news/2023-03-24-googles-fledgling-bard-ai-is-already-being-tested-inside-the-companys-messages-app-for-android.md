@@ -19,19 +19,49 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence makes another leap, now into services for the visually impaired"
-    excerpt: "Chat-bots and artificial intelligence are capturing headlines. Applications for this new technology are exciting, surprising and, of course, come with risks. Now, artificial intelligence. is helping people who are vision impaired navigate the world around ..."
-    publishedDateTime: 2023-03-23T17:02:00Z
-    webUrl: "https://www.wbur.org/radioboston/2023/03/23/artificial-intelligence-makes-another-leap-now-into-services-for-the-visually-impaired"
+  - title: "Publishers demand to be paid for AI using their work"
+    excerpt: "ChatGPT, Bard, and all AI tools are trained on existing work, and quote that work without the originators being paid or cited in most cases — and publishers say this can't continue."
+    publishedDateTime: 2023-03-24T11:52:00Z
+    webUrl: "https://appleinsider.com/articles/23/03/24/publishers-demand-to-be-paid-for-ai-using-their-work"
+    ampWebUrl: "https://appleinsider.com/articles/23/03/24/publishers-demand-to-be-paid-for-ai-using-their-work/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/03/24/publishers-demand-to-be-paid-for-ai-using-their-work/amp/"
     type: article
     provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 48
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 57
     images:
-      - url: "https://wordpress.wbur.org/wp-content/uploads/2016/06/Radio-Boston-Artwork-Tile-3000px_wbur-1.jpg"
-        width: 3000
-        height: 3000
+      - url: "https://photos5.appleinsider.com/gallery/53636-107803-000-lead-AI-and-Publishers-d2-xl.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "How AI is Creating Explosive Demand for Training Data"
+    excerpt: "Artificial Intelligence (AI) has rapidly evolved in recent years, leading to groundbreaking innovations and transforming various industries. One crucial factor driving this progress is the availability and quality of training data."
+    publishedDateTime: 2023-03-26T16:59:00Z
+    webUrl: "https://www.unite.ai/how-ai-is-creating-explosive-demand-for-training-data/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/03/fabio-ballasina-wEL2zPX3jDg-unsplash-942x600.jpg"
+        width: 942
+        height: 600
+        isCached: true
+  - title: "The AI Big-Leagues Helping Employers Keep Track Of Their Workers' Benefits And Incentives"
+    excerpt: "Nearly all of Amazon's primary services utilize AI, including its voice-activated assistant, Alexa, cashier-less grocery stores, Amazon Go, and its cloud infrastructure software, Amazon Web Services Sagemaker. For the business side of things, amazon ..."
+    publishedDateTime: 2023-03-25T03:21:00Z
+    webUrl: "https://menafn.com/1105859688/The-AI-Big-Leagues-Helping-Employers-Keep-Track-Of-Their-Workers-Benefits-And-Incentives"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/updates/pr/2023-03/24/V_2e0d2image_story.jpeg"
+        width: 1000
+        height: 500
         isCached: true
 
 secured: "MxWPyEs8euiJtX+nEtnny9G+9luej0mvR+guQo8cYMP2b7YRiWnQF8JAKCkS5mlYTARfIVUwPsNWwCRZSsWgbjUSLbnDMo4SHWJX0WrQkr8eE4hdQNyhuukKlJJ4zqqoZRhpvsxfgyOcPUdFlfG14qsS1UnUdO5hasTzmey0zkslPrtNNxFEd7DzFtF0h49YZKWHttzKjy9gOoIMUQCjfV9ylXoUHTHBX3dCb6c3QP5Dhz53uM1Q7BIm4EeDyZ6DH+n3q9KYOzrMQ2e8jBlQxyLZjbacRQxcSja1be2bdNgUl+f2XbK63rgee9TFgx2BAA5VXEn4SkaykU2BJXDo0nIv4jr3fyxqJUSv+RWhLvQ=;i0KvE/qHlXL3kQN4aFsjUA=="

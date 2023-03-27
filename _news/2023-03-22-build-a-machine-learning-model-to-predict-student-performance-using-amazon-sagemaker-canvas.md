@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-machine-lear
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-machine-learning-model-to-predict-student-performance-using-amazon-sagemaker-canvas/"
 type: article
 quality: 96
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -53,22 +53,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 54
-  - title: "Singletons are using AI to help them come up with the perfect chat-up lines on Tinder"
-    excerpt: "Many AI chatbots have existed in the past, however, ChatGPT is considered by many to be one of the best. The chatbot can also do more than just answer questions, it can be used to generate text, translate language and analyse sentiment. As the software ..."
-    publishedDateTime: 2023-03-22T11:16:00Z
-    webUrl: "https://www.irishmirror.ie/lifestyle/technology/pick-up-lines-chatgpt-ai-29521341"
-    ampWebUrl: "https://www.irishmirror.ie/lifestyle/technology/pick-up-lines-chatgpt-ai-29521341.amp"
-    cdnAmpWebUrl: "https://www-irishmirror-ie.cdn.ampproject.org/c/s/www.irishmirror.ie/lifestyle/technology/pick-up-lines-chatgpt-ai-29521341.amp"
-    type: article
-    provider:
-      name: Irish Daily Mirror
-      domain: irishmirror.ie
-    quality: 52
-    images:
-      - url: "https://i2-prod.irishmirror.ie/incoming/article29521540.ece/ALTERNATES/s1200/0_GettyImages-1247150492.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "kBe3trolXtxHIbq7BN2gidUY98fJQvzh8C1zwnv4ByD+jWrMk/pXASGM0z6hdm9TKzHzI66ldRCi8jpCBSMSK9iHjVMlaGZ5Y0+FfqdC/UH4FiNt3NcvTDeEm7ddtUGA4iPkqbqszDMotUwbnX3KTtacKArpQniRgEsRmriBr8aOc9nk317sTyPjyQIkrZOnCPEVfcGBVg26cSVwuykB1GNxOhtZtLzNZdVvURK5OFqzFVNcjlDheUTUBOU6gmlLez/qlDOwW5vR3ZFUgeC2hxPwvzLdhhXFolNPpng7s/h3IMHXL389sv/Hf0Zy//EGhwvtY2NreeJApPVDj13M5cxGCAuJH57//YK2EBRSAzA=;uwOyNgKEFzjXtROczHBSCA=="
 ---

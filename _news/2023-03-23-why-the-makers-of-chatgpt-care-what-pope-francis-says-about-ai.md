@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How AI and ChatGPT can embrace engineering education?"
-    excerpt: "Hence, large language model based generative AI platforms like ChatGPT and Bing Chat can be a ... The ability of ChatGPT to summarise, shorten, elaborate, rephrase, and translate text can also help students improve their writing skills."
-    publishedDateTime: 2023-03-22T11:44:00Z
-    webUrl: "https://www.livemint.com/news/india/how-ai-and-chatgpt-can-embrace-engineering-education-11679484916404.html"
-    ampWebUrl: "https://www.livemint.com/news/india/how-ai-and-chatgpt-can-embrace-engineering-education/amp-11679484916404.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/how-ai-and-chatgpt-can-embrace-engineering-education/amp-11679484916404.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 76
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/03/22/600x338/67bbde00-68bf-11ed-b05f-f3a699bb92b4_1668940894952_1679485118056_1679485118056.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "ChatGPT As A Platform Gets Bigger And Bolder As OpenAI Rolls Out Plugins For All Kinds Of Add-On Apps, Stewing Up AI Ethics And AI Law"
     excerpt: "Voila, your software package suddenly can do all manner of Natural Language Processing (NLP). All told, this meant that the uses of ChatGPT could expand immensely. Firms that provide apps were thirstily lured to the ChatGPT API like a siren call."
     publishedDateTime: 2023-03-25T11:02:00Z
@@ -120,20 +104,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/03/396571328.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Enchanted by ChatGPT, Bill Gates calls AI 2nd revolutionary tech after GPU"
-    excerpt: "Artificial intelligence (AI) is the second truly significant technological revolution in Bill Gates' 67 years of life, according to a recent blog by the Microsoft co-founder."
-    publishedDateTime: 2023-03-22T12:34:00Z
-    webUrl: "https://interestingengineering.com/innovation/bill-gates-calls-ai-2nd-revolutionary-tech-after-gpu"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/03/22/image/jpeg/bKUV73fV7Eo9MBNXW2tyMvZ8GtUcng4pQOjWxOey.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Codie.ai, first consultative AI assistant based on OpenAI ChatGPT"
     excerpt: "Codie.ai has launched an AI assistant to transform how businesses interact with their customers. The platform interacts with customers human-likely and provides information about products and services of the company or retailer. London-based startup Codie ..."

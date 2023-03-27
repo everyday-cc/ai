@@ -52,15 +52,6 @@ related:
       name: India West
       domain: indiawest.com
     quality: 34
-  - title: "Indian-origin Intel GPU chief Raja Koduri quits to start generative AI startup"
-    excerpt: "Indian-American Raja Koduri, head of Intel's Accelerated Computing Systems and Graphics Group, has quit the chip-making major to form his own generative artificial intelligence (AI) startup."
-    publishedDateTime: 2023-03-22T12:17:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/indian-origin-intel-gpu-chief-raja-koduri-quits-to-form-generative-ai-startup/articleshow/98913026.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 30
 
 secured: "Vu8XWoSqZQdu7dha1vJ4tJNEljB5WajwNttl7zvfS/fUVe/xRrmRbgzvmHz9giN6UCYQXjLfz1nZQ7icnZG3iSiGltEJpY0dz7sAifXmWQIb2kza+fvJekou03KAA2ELpIjxAkFe3z70Ooe1I35qs6EptqCKnXALjvorILKLK36kkqZ4Gh1wbqe5YhwqKSzTX3ZlcQXKmixRAQzufXjAaJZYh7osdVaIR3E5BGa2hIBbp7D0Whjp2nuAaV6yXjgpu0ZEC98EObqMBIUFSeApwG3NE5S/JkTZ9R6vwd/VALD3Sbanzf8Z83uwyF23TIc8isd+oAnMxp8Vs0lgz/cC/g47xgSb8pNTlLaxSr7KO/gL7ydul8JcZjTKOvZOYPlsUCZUaPscpwEHlJyyBVpPFhbDz7HjrsCLBhd3ZwOs5NyOj/+SyBLx3RBqy5oS19hXrRN2la4Gpk3ABDYzih6g8/f7HvvXPItGtRH0qyYtKPZtJYADKc1X5+yPJMyEVqWr6pqGVYKC2Ty5lwLylN5f6g==;eNUwH5DdlrHfvrj1ICfBgQ=="
 ---

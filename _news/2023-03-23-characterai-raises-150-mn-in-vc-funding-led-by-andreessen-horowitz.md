@@ -309,15 +309,6 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 20
-  - title: "Google Invites Public To Test Drive Its AI Chatbot Bard"
-    excerpt: "Microsoft has been working on several language models that endeavor to improve natural language processing and generation across a variety of applications, including translation, sentiment analysis, and question-answering. Bard also departs from ChatGPT by ..."
-    publishedDateTime: 2023-03-22T12:00:00Z
-    webUrl: "https://www.technewsworld.com/story/google-invites-public-to-test-drive-its-ai-chatbot-bard-178066.html"
-    type: article
-    provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 19
   - title: "Tread a Careful Legal Path Around AI Chatbots"
     excerpt: "A company, which will remain nameless, recently contacted GlobeSt.com about a commercial real estate service that incorporated ChatGPT’s natural language processing. An interesting concept, but when asked about potential issues of copyright, the firm ..."
     publishedDateTime: 2023-03-24T11:52:00Z

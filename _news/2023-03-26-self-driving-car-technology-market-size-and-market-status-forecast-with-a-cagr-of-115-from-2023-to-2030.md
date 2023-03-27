@@ -23,15 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "Neural Network Software Market Size, 2023 Trends and Opportunities, CAGR and Value Chain Study to 2031"
-    excerpt: "The neural network software is a tool used for ANN research and development, stimulation, and application (artificial neural network). The program refers to devices that resemble brains in certain ways and may have science fiction implications. Some of the ..."
-    publishedDateTime: 2023-03-25T07:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-size-2023-trends-and-opportunities-cagr-and-value-chain-study-to-2031-2023-03-24"
+  - title: "Millimeter Wave Radar for Self-Driving Car Market Business Overview 2023, and Forecast to 2030 | Robert Bosch, Denson, Hella"
+    excerpt: "The report offers actionable and valuable market insights of Millimeter Wave Radar for Self-Driving Car Market. The"
+    publishedDateTime: 2023-03-24T11:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/millimeter-wave-radar-for-self-driving-car-market-business-overview-2023-and-forecast-to-2030-robert-bosch-denson-hella-2023-03-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 27
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

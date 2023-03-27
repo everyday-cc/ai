@@ -23,62 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Global Automotive Speech Recognition System Market to Grow from 2023-2026"
-    excerpt: "Mar 24, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global Automotive Speech"
-    publishedDateTime: 2023-03-24T11:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automotive-speech-recognition-system-market-to-grow-from-2023-2026-2023-03-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision Software Market | Global Various Tendencies Industry Report 2029"
-    excerpt: "Mar 24, 2023 (The Expresswire) -- [122+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Computer Vision Software Market” Size 2023 Key players Profiled in the ..."
-    publishedDateTime: 2023-03-24T14:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-global-various-tendencies-industry-report-2029-2023-03-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self Tanning Products Market 2023 | Future Exploration by 2027"
-    excerpt: "Mar (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Latest “Self Tanning Products"
-    publishedDateTime: 2023-03-26T10:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-tanning-products-market-2023-future-exploration-by-2027-2023-03-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Automatic Speech Recognition(ASR) Software Market Outlook: Predictions and Projections for 2028 And Beyond"
-    excerpt: "Global Automatic Speech Recognition(ASR) Software Market Report (123 Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https ..."
-    publishedDateTime: 2023-03-24T18:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-outlook-predictions-and-projections-for-2028-and-beyond-2023-03-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Get Your Hands on the Ultimate Mobile Phone Facial Recognition Technology Market Research Report [2023-2030]"
     excerpt: "Our Most Recent Research Report Indicates that Mobile Phone Facial Recognition Technology Market is Set to Undergo Significant Changes in 2023 Compared to the Previous Year. [115 Pages Report] Our Mobile Phone Facial Recognition Technology Market research ..."
     publishedDateTime: 2023-03-23T09:59:00Z
@@ -93,15 +37,34 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence for Edge Devices Market Report | Global Forecast From 2023 To 2030"
-    excerpt: "The growth of the Artificial Intelligence for Edge Devices Market was mainly operate by the expand RandD spending across the globe. Some of the Major top players describe in the research are , Microsoft, Baidu, NVIDIA, Arm, Horizon Robotics, MediaTek ..."
-    publishedDateTime: 2023-03-24T10:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-report-global-forecast-from-2023-to-2030-2023-03-24"
+  - title: "Cloud Natural Language Processing Market Size, and Research Report 2023 Consumption Share, Applications, Types and Forecast to 2031"
+    excerpt: "Mar 22, 2023 (Alliance News via COMTEX) -- Report Ocean's recent report provides an accurate and comprehensive research analysis of the Cloud Natural Language Processingmarket with a primary focus on the present and past market conditions. The global Cloud ..."
+    publishedDateTime: 2023-03-22T22:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-size-and-research-report-2023-consumption-share-applications-types-and-forecast-to-2031-2023-03-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Image Recognition Market Research Report | Industry Forecast & Size USD 86.001 Billion By 2025"
+    excerpt: "(MENAFN- EIN Presswire) image recognition market research. Facial recognition technology advancements and the growing popularity of media cloud services are significantly support"
+    publishedDateTime: 2023-03-24T13:48:00Z
+    webUrl: "https://menafn.com/1105853898/Image-Recognition-Market-Research-Report-Industry-Forecast-Size-USD-86001-Billion-By-2025"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 12
+    images:
+      - url: "https://menafn.com/updates/pr/2023-03/24/EP_add13image_story.jpeg"
+        width: 1083
+        height: 567
+        isCached: true
 
 secured: "Yp8iS9GxvtqUZacY4fcxdj62EoPl0xSi/CO4W5XgwjZHRu7Px3KG5jms05/g8gE29HVd6Ngg0cTmBhZJHDYY9dPdCfA9TVi9MaDXW+FWxTEmlzkqSoUWyoiF3m2NpSzUI0VTBJFI07tH5XEhGxvF2FUGU8mYmyXyjOcUzH7Dk+khcSRjKie9/HKgg8kciWETrIbF7K5/P645dxs6oB8jeU4urhtms/RWgQPzP8Au5M4q7RLdt+VzUp35w1VayIgkE69+SUh3qVCfN38VX+ZOQ4qlpa/nXZ8q0SgRSbMUcPtpruvjRLu/OtrjnfdgrW3CJzFke78rzA8lz25F12rj7FazPQ5azwMermn+7Zsptx0=;GN6xR4er0gqmomY2HUo55g=="
 ---

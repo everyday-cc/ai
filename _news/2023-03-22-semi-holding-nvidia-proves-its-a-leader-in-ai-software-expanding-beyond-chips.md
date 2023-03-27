@@ -164,15 +164,6 @@ related:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
     quality: 19
-  - title: "NVIDIA Launches Inference Platforms for Large Language Models and Generative AI Workloads"
-    excerpt: "NVIDIA launched four inference platforms optimized for a diverse set of rapidly emerging generative AI applications — helping developers quickly build specialized, AI-powered applications that can deliver new services and insights."
-    publishedDateTime: 2023-03-22T12:59:00Z
-    webUrl: "https://insidebigdata.com/2023/03/22/nvidia-launches-inference-platforms-for-large-language-models-and-generative-ai-workloads/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 10
 
 secured: "pIve/Z82kZyjjbUOv4nn4SCOQRO9EmFMW1vPZkGIvRzwwJ/83CvmUTkOE4HMGj52HFC0P5B9DPZf0TE59ePdqA5vL0kxsAfudxLdhp24ovBIksVC7ECzQgYGG+Scm4txw7OmHnIjnvEBRUDlh/uQQzjOZbcNqpeF/2n/a3o5svyjASHrq6Cccfc7tEmY38YSzr8zspH8ffQril0E1WdmWfOWAoNke7IwFd4MHF5AkiNrtVs5C8LFRIOxeM/AzyzQuvMCx5hTULtCZirodrClrAVxa9omzv/HgCyDQ1eFwzhjDTP87iQF6Js3RtDGGz7QIrkyovrGIyPBukyk5VZT4qTvP9fG5t3BRMmUHCVA++lJ2p2RXHVfq4e6ou0D4ig9AUELFsA0PECaOK04gdIlPmnp61sw9uNH8RzPcy2pIIzsAThwjAfTzvoYbJ2imfLrS5DBKcF9QQzOBe8W/3KqHWKs5Y41NMT98SAW/PgcoBBtVAxonQbE4UqeKH0NpT+6yu7MZSNqSXgO63GHl7onQg==;zHg4byA0njE9IpzUC3TlkA=="
 ---

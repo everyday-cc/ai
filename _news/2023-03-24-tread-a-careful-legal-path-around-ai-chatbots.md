@@ -310,15 +310,6 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 20
-  - title: "Google Invites Public To Test Drive Its AI Chatbot Bard"
-    excerpt: "Microsoft has been working on several language models that endeavor to improve natural language processing and generation across a variety of applications, including translation, sentiment analysis, and question-answering. Bard also departs from ChatGPT by ..."
-    publishedDateTime: 2023-03-22T12:00:00Z
-    webUrl: "https://www.technewsworld.com/story/google-invites-public-to-test-drive-its-ai-chatbot-bard-178066.html"
-    type: article
-    provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 19
   - title: "Character.AI raises $150 mn in VC funding led by Andreessen Horowitz"
     excerpt: "Character.AI has raised $150 million in a new VC funding round led by Andreessen Horowitz that valued the AI chatbot startup at $1 billion. Character.AI is also in talks with cloud providers for more strategic investment, Reuters news report said."
     publishedDateTime: 2023-03-23T12:46:00Z

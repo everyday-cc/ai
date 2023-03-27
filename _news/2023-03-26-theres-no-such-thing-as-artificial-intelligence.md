@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/opinion/articles/2023-03-26/even-with-ch
 webUrl: "https://www.bloomberg.com/opinion/articles/2023-03-26/even-with-chat-gpt-4-there-s-no-such-thing-as-artificial-intelligence"
 type: article
 quality: 67
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
+        isCached: true
+  - title: "Vegas Bot AI starts Presale with the bang, users can secure revenue with their advanced AI-powered strategies"
+    excerpt: "Vegas Bot AI, a revolutionary technology startup that aims to enhance customer interactions with businesses by developing a highly natural conversational experience, introduces the Vegas Bot AI Token Launch."
+    publishedDateTime: 2023-03-23T22:31:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-vegas-bot-ai-starts-presale-with-bang-users-/2023/03/23/9782463.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 20
+    images:
+      - url: "https://api.blockchainwire.io/uploads/OceanDigitalPR/editor_image/7f4ed462-e0a4-48f6-bbbc-53ea14eae198.png"
+        width: 622
+        height: 209
         isCached: true
 
 secured: "tLhnJEgf8f/w+wl9nLbYCOsz1d2BWh6WFG4GQuIkVnABraBcpHoC1p6gXs+j0LGEReNN9KsqGBIJc/6aQTkICQT1z+CFjto9qP+bMSXyevlPjHXOTZm+HDqZEdCKLFxUyQlokw6K5MxmRxXMte5mSK4pxRvX50matAzmCHBX1aN6HQwZgtHO1JGc+5fEZoNLRrmLVs9ZXob/8QAICucQFkioO7lgu9y4PzoP+OtxwqpGMcALDZYlVOv7XmdvdDuySKdM8H45eoYtgEQx5Ftdq5n5WsaGykVCEFGzK7/ckcnTIywbyVmfukwu+AYSlbaR4nYYXH0wxd1UoLZ77SsSCXhwapyzh+u9b3BnbMaW8DM11/OWggKvvICmykTGTwgybzL1g/XGfosQsuDtONkPpqEsou1ALIZdXClHfQDEy+JXKMcR8d1GON08kknFCkkbpGX4V9NwayDPQSnBujnIRBIhvAUQgGDbT4Pu7JaC34TQq9b5TXt2M2ascYnxhBaH8mfQpZZXDVdxpQ/gfVP1WQ==;ApdCO6RX7R0ux2xiT173vA=="

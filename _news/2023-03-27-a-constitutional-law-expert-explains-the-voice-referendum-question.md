@@ -197,20 +197,6 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 24
-  - title: "What are Australia's plans for Indigenous Voice?"
-    excerpt: "Australians expect to vote this year in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known a"
-    publishedDateTime: 2023-03-23T11:32:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/australias-plans-indigenous-voice-98067981"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 24
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_5071c5553ca54e833bc104657e359e5c_4x3_992.jpg"
-        width: 992
-        height: 744
-        isCached: true
   - title: "What Are Australia’s Plans for the ‘Indigenous Voice’?"
     excerpt: "But Voice proponents argue that recognition in the constitution of Indigenous Australians was an important element of the reform. Victoria state created an elected First People’s Assembly of Victoria in 2019 but that is focused on creating a treaty ..."
     publishedDateTime: 2023-03-23T15:10:00Z

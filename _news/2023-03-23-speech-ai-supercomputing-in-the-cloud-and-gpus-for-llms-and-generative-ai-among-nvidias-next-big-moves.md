@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/speech-ai-supercomputing-cloud-gpus-llms-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/speech-ai-supercomputing-cloud-gpus-llms-generative-ai-nvidia-next-big-moves/amp/"
 type: article
 quality: 89
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -164,15 +164,6 @@ related:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
     quality: 19
-  - title: "NVIDIA Launches Inference Platforms for Large Language Models and Generative AI Workloads"
-    excerpt: "NVIDIA launched four inference platforms optimized for a diverse set of rapidly emerging generative AI applications — helping developers quickly build specialized, AI-powered applications that can deliver new services and insights."
-    publishedDateTime: 2023-03-22T12:59:00Z
-    webUrl: "https://insidebigdata.com/2023/03/22/nvidia-launches-inference-platforms-for-large-language-models-and-generative-ai-workloads/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 10
 
 secured: "vyLPx6YZiud0/HGPwUNkidcdKzuz/NVEciDD/rFpobnZcXyawJ2nBaMf/lx06vDkKjnaIOCGbMP691hmkBow/+0OD8XJJ1a66rIg808Bm2dXk2xDadFNItVqNkkJS3FTU/SoqWPwAA6+7CMrAz2He5tYfhq9VWMgo/jDF/MdSOxBppcYTO74CxgX08t0a35CLvXqGKoW6HmxqhcDQ0vBR6tRLjgPKfR+FToJI8Qz4vUN1WdG8Rm7Jyr+qP7sJdIs0hOPDvTrpHrC+/6Oq3oOhNc9zUkJaqp5Qq3r0+m0nSq+CgK6PMzLOtLnxA82sMmapvn4MW8tgaAen8zIcQfYmG+KmKRRo/x+iZaDTZTNC/FKWXlg0C3KZA55lQhGKBJl5/LXnhd58NNxY6m9yENJThQB3BH8zCjw4D+rXbso+OFhVK0tp8Eylnv7qf9c3l+0XCEkiGCe9XBBCh+ItaT6CtoqysuUV4v2fQmzrUwd/JFzS8mNwnbaQWOxCOzZq2p/Y6138jsRnbwPAFiXSiIJZg==;Pxoiv8bO7FQ2z7bn4v3cKA=="
 ---

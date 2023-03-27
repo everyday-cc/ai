@@ -48,22 +48,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How AI and ChatGPT can embrace engineering education?"
-    excerpt: "Hence, large language model based generative AI platforms like ChatGPT and Bing Chat can be a ... The ability of ChatGPT to summarise, shorten, elaborate, rephrase, and translate text can also help students improve their writing skills."
-    publishedDateTime: 2023-03-22T11:44:00Z
-    webUrl: "https://www.livemint.com/news/india/how-ai-and-chatgpt-can-embrace-engineering-education-11679484916404.html"
-    ampWebUrl: "https://www.livemint.com/news/india/how-ai-and-chatgpt-can-embrace-engineering-education/amp-11679484916404.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/how-ai-and-chatgpt-can-embrace-engineering-education/amp-11679484916404.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 76
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/03/22/600x338/67bbde00-68bf-11ed-b05f-f3a699bb92b4_1668940894952_1679485118056_1679485118056.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Texas lawmaker uses ChatGPT to deliver remarks on AI bill"
     excerpt: "That’s why we need HB 2060.” He said the council created by this proposal would monitor use of AI by state agencies, examine the need for a code of ethics for AI systems and recommend policies to protect Texans’ privacy. “House Bill 2060 is a ..."
     publishedDateTime: 2023-03-22T20:38:00Z
@@ -111,20 +95,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/03/396571328.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Enchanted by ChatGPT, Bill Gates calls AI 2nd revolutionary tech after GPU"
-    excerpt: "Artificial intelligence (AI) is the second truly significant technological revolution in Bill Gates' 67 years of life, according to a recent blog by the Microsoft co-founder."
-    publishedDateTime: 2023-03-22T12:34:00Z
-    webUrl: "https://interestingengineering.com/innovation/bill-gates-calls-ai-2nd-revolutionary-tech-after-gpu"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/03/22/image/jpeg/bKUV73fV7Eo9MBNXW2tyMvZ8GtUcng4pQOjWxOey.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Why the makers of ChatGPT care what Pope Francis says about AI"
     excerpt: "In January, Pope Francis addressed tech-industry leaders from companies such as Microsoft and IBM as well as members of the Jewish and Muslim communities during a conference on ethics in AI at the Vatican. The pope urged them to “ensure that the ..."

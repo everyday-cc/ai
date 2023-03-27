@@ -51,22 +51,6 @@ related:
         width: 1150
         height: 575
         isCached: true
-  - title: "Singletons are using AI to help them come up with the perfect chat-up lines on Tinder"
-    excerpt: "Many AI chatbots have existed in the past, however, ChatGPT is considered by many to be one of the best. The chatbot can also do more than just answer questions, it can be used to generate text, translate language and analyse sentiment. As the software ..."
-    publishedDateTime: 2023-03-22T11:16:00Z
-    webUrl: "https://www.irishmirror.ie/lifestyle/technology/pick-up-lines-chatgpt-ai-29521341"
-    ampWebUrl: "https://www.irishmirror.ie/lifestyle/technology/pick-up-lines-chatgpt-ai-29521341.amp"
-    cdnAmpWebUrl: "https://www-irishmirror-ie.cdn.ampproject.org/c/s/www.irishmirror.ie/lifestyle/technology/pick-up-lines-chatgpt-ai-29521341.amp"
-    type: article
-    provider:
-      name: Irish Daily Mirror
-      domain: irishmirror.ie
-    quality: 52
-    images:
-      - url: "https://i2-prod.irishmirror.ie/incoming/article29521540.ece/ALTERNATES/s1200/0_GettyImages-1247150492.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "D/PkBI1Nr+1MqhbEP/61Z2g1lU08Vg7vcAi7jxquHpFbAE1yJEDn5AOVf0U8TOfFVexTJTJzjR+dkl1jgtAZ54JMMS/FNe+Bgp7BaTZTvbsXeD7hJcI6rOEWDIiR9JK+v8Iq79ysLDnfxB6JmSY5i5HzXDp6KXwcZMzhYUitp5VJs8hk98wAAzk8Y7GEuuDiW9t1c1yiZlPD+Zss05MkwLt4xIgrUFC0z2NNnydxW3iyc9jI6T90iIW+wtvTNWRpRMiToa71u1P8mM0ZPgXGCXzVe6lZtLNdZhZqTFHKkXJj8w+RZM1GsNnivJuf1Md25d3GbPXKCfeTAvO/lHGHAo88pim+XUaizjEYt04jkSs=;XrlArtLlCDWzQaI/Z5GrDw=="
 ---
