@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-27T18:53:00Z
 originalUrl: "https://nypost.com/2023/03/27/botox-alters-brain-activity-connected-to-emotions-study-says/"
 webUrl: "https://nypost.com/2023/03/27/botox-alters-brain-activity-connected-to-emotions-study-says/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: New York Post

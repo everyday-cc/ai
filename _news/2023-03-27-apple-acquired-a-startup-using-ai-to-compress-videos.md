@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/27/apple-acquired-a-startup-using-ai-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/27/apple-acquired-a-startup-using-ai-to-compress-videos/amp/"
 type: article
 quality: 87
-heat: 187
+heat: 188
 published: true
 
 provider:

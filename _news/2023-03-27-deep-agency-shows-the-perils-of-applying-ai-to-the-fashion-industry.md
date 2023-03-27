@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-ap
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 109
 published: true
 
 provider:

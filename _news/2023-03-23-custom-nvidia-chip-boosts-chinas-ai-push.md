@@ -71,6 +71,20 @@ related:
         width: 1800
         height: 1200
         isCached: true
+  - title: "Here’s How Nvidia Is Powering The ChatGPT Frenzy"
+    excerpt: "ChatGPT owes a large part of its capabilities to the powerful computing hardware developed by Nvidia. In this article, we'll"
+    publishedDateTime: 2023-03-27T11:40:00Z
+    webUrl: "https://www.techbooky.com/heres-how-nvidia-is-powering-the-chatgpt-frenzy/"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 24
+    images:
+      - url: "https://i0.wp.com/www.techbooky.com/wp-content/uploads/2023/03/chatgpt-nvidia.webp?fit=1600%2C900&ssl=1"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "5uVeOlFIaZzcyCQ+lvJRyNRp1EJifqZrs0d5bBmuGLviAC3Ts2YfCGTXOt/Z9VEdZkMmpBQfSVXlgIPnnL81s7rBxWC0TMvbFkPPynlSCD/iVEyyZQQTtuMmv4uh4YTA7hgdOjhXE1CxlvJvOoTQM3tVsA8L6ZjS2hi1x0PLGY1Nv6tC9nLizpiCNFXJsXozVomVC7enFB7V6mrmBLjAeoclpltH1SetxY2yoqxZAtUQLbQiBm5EC3BkUJyC8u7XFXYrPbM7sr6UHhdBiPzM1K9oB9LipQB019W2o65iuxIitn/WEY3RLv625l4V0s7FTdwCLHLxx9X8MHaDQIGCm+7OMiCIkbQmJfKEtoWGkMA=;7H27ivQ9r3IYAUuIZSBJVw=="
 ---

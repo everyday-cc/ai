@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/data-through-a-prism-ai-powered-analysis-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/data-through-a-prism-ai-powered-analysis-key-to-gleaning-data-insights/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

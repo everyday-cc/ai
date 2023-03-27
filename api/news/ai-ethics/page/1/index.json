@@ -133,59 +133,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-25-chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law.md",
-      "title": "ChatGPT As A Platform Gets Bigger And Bolder As OpenAI Rolls Out Plugins For All Kinds Of Add-On Apps, Stewing Up AI Ethics And AI Law",
-      "excerpt": "Voila, your software package suddenly can do all manner of Natural Language Processing (NLP). All told, this meant that the uses of ChatGPT could expand immensely. Firms that provide apps were thirstily lured to the ChatGPT API like a siren call.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641e9f1ebcc461207e4ff60a/0x0.jpg?format=jpg&crop=2085,1173,x76,y10,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/amp/",
-      "publishedDateTime": "2023-03-25T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2023-03-24-trump-arrested-putin-jailed-fake-ai-images-spread-online.md",
       "title": "Trump arrested? Putin jailed? Fake AI images spread online",
       "excerpt": "He even stated clearly in his Twitter thread that the images were AI-generated. Still, the images were enough ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging ...",
@@ -237,7 +184,7 @@
       "originalUrl": "https://www.newsweek.com/lenient-rules-biotech-research-put-world-risk-will-ai-do-same-1789686",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -261,6 +208,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-adobes-thoughts-on-the-ethics-of-ai-generated-images-and-paying-its-contributors-for-them.md",
+      "title": "Adobe’s thoughts on the ethics of AI-generated images (and paying its contributors for them)",
+      "excerpt": "Indeed, Adobe itself put AI ethics in the spotlight because the company clearly believes that this is, in part, what allows it to differentiate its generative AI offerings from those of its ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/22/adobes-thoughts-on-the-ethics-of-ai-generated-images-and-paying-its-contributors-for-them/",
+      "originalUrl": "https://techcrunch.com/2023/03/22/adobes-thoughts-on-the-ethics-of-ai-generated-images-and-paying-its-contributors-for-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/adobe_summit.jpg?resize=1200,904",
+          "width": 1200,
+          "height": 904,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/22/adobes-thoughts-on-the-ethics-of-ai-generated-images-and-paying-its-contributors-for-them/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/adobes-thoughts-on-the-ethics-of-ai-generated-images-and-paying-its-contributors-for-them/amp/",
+      "publishedDateTime": "2023-03-22T15:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

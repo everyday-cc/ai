@@ -2,6 +2,298 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-25-ai-and-the-metaverse-the-mark-zuckerberg-way.md",
+      "title": "AI and the Metaverse, the Mark Zuckerberg Way",
+      "excerpt": "CEO Mark Zuckerberg truly buried the metaverse? Or is this simply the Tribune's own interpretation? The headline was based on a Zuckerberg post on Facebook and Instagram about Meta’s technology plans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ai-and-the-metaverse-the-mark-zuckerberg-way",
+      "originalUrl": "https://www.nasdaq.com/articles/ai-and-the-metaverse-the-mark-zuckerberg-way",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ai-and-the-metaverse-the-mark-zuckerberg-way?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-and-the-metaverse-the-mark-zuckerberg-way?amp",
+      "publishedDateTime": "2023-03-24T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-how-generative-ai-stole-only-part-of-the-show-at-the-gdc-the-deanbeat.md",
+      "title": "How generative AI stole only part of the show at the GDC | The DeanBeat",
+      "excerpt": "Weili Dai’s Story Machine also showed a vision for using generative AI for art or game programming with a new startup dubbed Robot Invader. I learned about how generative AI and other forms of AI will become so much more efficient in a matter of months ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/how-generative-ai-stole-only-part-of-the-show-at-the-gdc-the-deanbeat/",
+      "originalUrl": "https://venturebeat.com/games/how-generative-ai-stole-only-part-of-the-show-at-the-gdc-the-deanbeat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/inworld-ai.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 694,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/how-generative-ai-stole-only-part-of-the-show-at-the-gdc-the-deanbeat/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/how-generative-ai-stole-only-part-of-the-show-at-the-gdc-the-deanbeat/amp/",
+      "publishedDateTime": "2023-03-24T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-machine-learning-market-outlook-examining-demand-and-growth-projections-across-industries-till-2030.md",
+      "title": "Machine Learning Market Outlook: Examining Demand and Growth Projections Across Industries till 2030",
+      "excerpt": "Mar 24, 2023 (Alliance News via COMTEX) -- Quadintel offers a thorough analysis of the Machine Learning Market, including assessments of business solutions, studies and advancements, applications, advantages, benefits, and breadth. This market research ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-outlook-examining-demand-and-growth-projections-across-industries-till-2030-2023-03-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-outlook-examining-demand-and-growth-projections-across-industries-till-2030-2023-03-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-24T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying.md",
+      "title": "Bill Gates's Open Letter Suggests AI's Potential Is Both Exciting And Terrifying",
+      "excerpt": "Its 30% increase in share price since the start of the year is also likely boosted by its acquisition of AI healthcare company Caption Health. Chip company Nvidia, which is announcing AI partnerships all over the place at the moment, is now collaborating ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/03/24/bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/03/24/bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641dd727f27107071e4ff5b1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/03/24/bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/03/24/bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying/amp/",
+      "publishedDateTime": "2023-03-24T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-can-pepper-content-save-the-creator-economy-from-the-ai-monster.md",
+      "title": "Can Pepper Content Save The Creator Economy From The AI Monster?",
+      "excerpt": "Pepper Content's new content marketing platform incorporates generative AI rather than seeking to compete with it",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidprosser/2023/03/24/can-pepper-content-save-the-creator-economy-from-the-ai-monster/",
+      "originalUrl": "https://www.forbes.com/sites/davidprosser/2023/03/24/can-pepper-content-save-the-creator-economy-from-the-ai-monster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641b4ba8bc846d86cd161d37/0x0.jpg?format=jpg&crop=1616,757,x0,y282,safe&width=1200",
+          "width": 1200,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2023/03/24/can-pepper-content-save-the-creator-economy-from-the-ai-monster/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/03/24/can-pepper-content-save-the-creator-economy-from-the-ai-monster/amp/",
+      "publishedDateTime": "2023-03-24T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-the-trump-ai-deepfakes-had-an-unintended-side-effect.md",
+      "title": "The Trump AI Deepfakes Had an Unintended Side Effect",
+      "excerpt": "The most crucial element of the fake Trump-arrest images is not that they are misleading. It is that they are cinematic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theatlantic.com/culture/archive/2023/03/fake-trump-arrest-images-ai-generated-deepfakes/673510/",
+      "originalUrl": "https://www.theatlantic.com/culture/archive/2023/03/fake-trump-arrest-images-ai-generated-deepfakes/673510/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/nrpGbUrI5ioXdZCF06ZFpxZIT2o=/0x31:1450x786/1200x625/media/img/mt/2023/03/a1Screen_Shot_2023_03_23_at_5.22.18_PM_copy/original.png",
+          "width": 1200,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-24T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-24-trump-arrested-putin-jailed-fake-ai-images-spread-online.md",
       "title": "Trump arrested? Putin jailed? Fake AI images spread online",
       "excerpt": "He even stated clearly in his Twitter thread that the images were AI-generated. Still, the images were enough ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging ...",
@@ -53,7 +345,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-global-various-tendencies-industry-report-2029-2023-03-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 231,
+      "heat": 241,
       "tags": null,
       "images": [
         {
@@ -105,7 +397,7 @@
       "originalUrl": "https://www.entrepreneur.com/en-ae/starting-a-business/hazenai-a-ksa-startup-using-deep-learning-to-drive-road/448318",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -157,7 +449,7 @@
       "originalUrl": "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -261,7 +553,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/03/24/how-ai-can-help-you-develop-emotional-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -501,6 +793,49 @@
       ]
     },
     {
+      "path": "_news/2023-03-24-airport-gets-facial-recognition-technology.md",
+      "title": "Airport gets facial recognition technology",
+      "excerpt": "Cameras installed at the Jinnah International Airport equipped with facial recognition technology have been made operational, with the Federal Investigation Agency (FIA) and the Civil Aviation Authority (CAA) to manage it jointly. The surveillance system ...",
+      "sourceUrl": null,
+      "webUrl": "https://tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology",
+      "originalUrl": "https://tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.tribune.com.pk/media/images/1857356-facialrecognitionx-1543564330/1857356-facialrecognitionx-1543564330.jpg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology?amp=1",
+      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology?amp=1",
+      "publishedDateTime": "2023-03-23T23:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Express Tribune",
+        "domain": "tribune.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-24-kloudgin-achieves-aws-energy-competency-status.md",
       "title": "KloudGin Achieves AWS Energy Competency Status",
       "excerpt": "SUNNYVALE, Calif., (BUSINESS WIRE) -- KloudGin, Inc., a leading provider of artificial intelligence (AI) cloud-based field service, work and asset management solutions, today announced that it has achieved Amazon Web Services (AWS) Energy Competency status.",
@@ -561,7 +896,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-by-2031-2023-03-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -840,49 +1175,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-24-watch-hyundai-revealed-a-one-armed-robot-that-charges-your-electric-car-for-you.md",
-      "title": "Watch: Hyundai revealed a one-armed robot that charges your electric car for you",
-      "excerpt": "Then, using a camera and artificial intelligence, the ACR guides the charging plug into the right spot and charging begins. All the while, the car's driver can either kick back inside or simply walk away. The robot's screen displays charging progress ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/hyundai-electric-car-charging-robot-ioniq-6-tesla-snake-2023-3",
-      "originalUrl": "https://www.businessinsider.com/hyundai-electric-car-charging-robot-ioniq-6-tesla-snake-2023-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-23T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-24-artificial-intelligence-can-predict-genetics-of-cancerous-brain-tumors-study.md",
       "title": "Artificial Intelligence can predict genetics of cancerous brain tumors: Study",
       "excerpt": "Researchers have developed an AI-based diagnostic screening system called DeepGlioma that uses rapid imaging to analyze tumor specimens taken during an operation and detect genetic mutations more rapidly.",
@@ -922,309 +1214,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-7-artificial-intelligence-examples-in-everyday-life.md",
-      "title": "7 artificial intelligence examples in everyday life",
-      "excerpt": "Applications of artificial intelligence in healthcare include patient monitoring, medication research and medical imaging. Medical picture analysis, anomaly detection and diagnosis support are all ...",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/7-artificial-intelligence-examples-in-everyday-life",
-      "originalUrl": "https://cointelegraph.com/news/7-artificial-intelligence-examples-in-everyday-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDMvOTA0MmY2NzAtN2UxYy00NmM5LWE0ZmEtODQ2ZDExODdjYzQyLmpwZw==.jpg",
-          "width": 740,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/7-artificial-intelligence-examples-in-everyday-life/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/7-artificial-intelligence-examples-in-everyday-life/amp",
-      "publishedDateTime": "2023-03-23T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-donald-trump-shares-fake-ai-created-image-of-himself-on-truth-social.md",
-      "title": "Donald Trump Shares Fake AI-Created Image Of Himself On Truth Social",
-      "excerpt": "Donald Trump shared an image of himself on Thursday morning over at Truth Social. And it’s almost certainly fake.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mattnovak/2023/03/23/donald-trump-shares-fake-ai-created-image-of-himself-on-truth-social/",
-      "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/03/23/donald-trump-shares-fake-ai-created-image-of-himself-on-truth-social/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641c91172d00a7f17e8a9f01/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/03/23/donald-trump-shares-fake-ai-created-image-of-himself-on-truth-social/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/03/23/donald-trump-shares-fake-ai-created-image-of-himself-on-truth-social/amp/",
-      "publishedDateTime": "2023-03-23T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-for-smarter-robots-just-add-humans.md",
-      "title": "For Smarter Robots, Just Add Humans",
-      "excerpt": "OpenAI’s COO and manager of the OpenAI Startup Fund says. For humans to help robots with teleoperation, AI might also need to be developed to ease the collaboration between person and machine. Chelsea Finn, an assistant professor at UC Berkeley ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/fast-forward-for-smarter-robots-just-add-humans/",
-      "originalUrl": "https://www.wired.com/story/fast-forward-for-smarter-robots-just-add-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/641b9a323491f4dd17124cb5/master/pass/Sanctuary-AI-Robot-Still-Fast-Foward-Business.jpg",
-          "width": 2143,
-          "height": 1210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/fast-forward-for-smarter-robots-just-add-humans/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/fast-forward-for-smarter-robots-just-add-humans/amp",
-      "publishedDateTime": "2023-03-23T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-google-opens-early-access-to-bard-ai-prompts-small-bump-in-stock-price.md",
-      "title": "Google Opens Early Access To Bard AI, Prompts Small Bump In Stock Price",
-      "excerpt": "Adobe broke the news this week at its Adobe Summit that its new generative AI image suite, Adobe Firefly, will be coming to its apps like Photoshop and Illustrator soon - and the waitlist to try it out is already open. Adobe is partnering with chip ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/03/23/google-opens-early-access-to-bard-ai-prompts-small-bump-in-stock-price/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/03/23/google-opens-early-access-to-bard-ai-prompts-small-bump-in-stock-price/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641c7d0dd57fc229c2eb4782/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/03/23/google-opens-early-access-to-bard-ai-prompts-small-bump-in-stock-price/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/03/23/google-opens-early-access-to-bard-ai-prompts-small-bump-in-stock-price/amp/",
-      "publishedDateTime": "2023-03-23T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-join-3000-students-learning-to-code-with-python-in-this-19-bootcamp.md",
-      "title": "Join 3,000 students learning to code with Python in this $19 bootcamp",
-      "excerpt": "Go from beginner to intermediate with 130 hours of training in the most popular coding language. Get your Python bundle today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/complete-python-certification-bundle/",
-      "originalUrl": "https://www.techrepublic.com/article/complete-python-certification-bundle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/03/tra232323-python-coding-bundle.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/complete-python-certification-bundle/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/complete-python-certification-bundle/amp/",
-      "publishedDateTime": "2023-03-23T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-aqara-smart-video-doorbell-g4-with-on-device-ai-facial-recognition-launched.md",
-      "title": "Aqara Smart Video Doorbell G4 with on-device AI facial recognition Launched",
-      "excerpt": "Smart home accessory maker and Xiaomi ecological chain company Aqara has launched its first video doorbell, the Aqara Smart Video Doorbell G4, which is compatible with HomeKit Secure Video and features facial recognition. The device has a 1080p camera and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/03/23/aqara-smart-video-doorbell-g4-on-device-ai-facial-recognition-launched/",
-      "originalUrl": "https://www.gizmochina.com/2023/03/23/aqara-smart-video-doorbell-g4-on-device-ai-facial-recognition-launched/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/03/aqara-G4-launch.jpg",
-          "width": 1600,
-          "height": 890,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-23T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

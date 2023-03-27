@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automated Machine Learning (AutoML) Market 2023 Size and Forecast to 2030"
-    excerpt: "“Global Automated Machine Learning (AutoML) market has witnessed a growth from USD million to USD million from 2017 to 2022. With a CAGR of this market is estimated to reach USD million in 2029.”Ask for Sample Report GlobalAutomated Machine Learning ..."
-    publishedDateTime: 2023-03-23T03:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-2023-size-and-forecast-to-2030-2023-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 85
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning Operations (MLOps) Market Outlook by 2031"
     excerpt: "The \"Machine Learning Operations (MLOps) Market\" study describes how the technology industry is evolving and how major"
     publishedDateTime: 2023-03-25T01:44:00Z
@@ -85,29 +71,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "3D Facial Recognition Systems Market Size by 2031"
-    excerpt: "The \"3D Facial Recognition Systems Market\" study describes how the technology industry is evolving and how major"
-    publishedDateTime: 2023-03-23T01:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-size-by-2031-2023-03-22"
+  - title: "AI (Artificial Intelligence) Image Recognition Market 2023 Expected to Reach Significant Rate by 2031"
+    excerpt: "Image Recognition Market\" study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short-term challenges they face. One major attraction about AI (Artificial ..."
+    publishedDateTime: 2023-03-27T21:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-artificial-intelligence-image-recognition-market-2023-expected-to-reach-significant-rate-by-2031-2023-03-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision Development Market Growth by 2031"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 22, 2023 (The Expresswire) -- The \"Computer Vision Development Market\" study describes how the technology industry is evolving and how major and emerging players in the ..."
-    publishedDateTime: 2023-03-23T01:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-development-market-growth-by-2031-2023-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

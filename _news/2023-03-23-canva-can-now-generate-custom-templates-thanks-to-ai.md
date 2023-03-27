@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-ge
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-generate-custom-templates-thanks-to-ai/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Canva’s new AI tools might replace your video editor"
-    excerpt: "and they can automatically translate it with Canva’s new AI-powered translate feature that supports more than 100 languages. Once you have the initial design, Canva has Magic Edit and Magic Eraser to help you refine it. Magic Eraser speaks for itself ..."
-    publishedDateTime: 2023-03-23T05:00:00Z
-    webUrl: "https://www.digitaltrends.com/computing/canva-new-ai-tools-might-replace-video-editor/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/canva-new-ai-tools-might-replace-video-editor/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/canva-new-ai-tools-might-replace-video-editor/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 89
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/03/canva-magic-edit.jpg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Canva unveils a series of new features, including several AI-powered tools"
     excerpt: "Canva is introducing a series of new features, including a suite of new AI-powered tools, along with additional highly-requested features."
     publishedDateTime: 2023-03-23T13:05:00Z

@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Machine Learning Executive Talks Rise, Future of Generative AI"
+    excerpt: "Keegan Hines, a former Georgetown adjunct professor and the current vice president of machine learning at Arthur AI, discussed the rapid rise in generative Artificial Intelligence (AI) programs and Georgetown’s potential in adapting to software like ChatGPT. The Master of Science in Data Science and Analytics program in the Graduate School of Arts & Sciences […]"
+    publishedDateTime: 2023-03-27T20:41:00Z
+    webUrl: "https://thehoya.com/machine-learning-executive-talks-rise-future-of-generative-ai/"
+    type: article
+    provider:
+      name: The Hoya
+      domain: thehoya.com
+    quality: 56
+    images:
+      - url: "https://static.shareasale.com/image/113278/mia-banner-ad-6.jpg"
+        width: 720
+        height: 300
+        isCached: true
 
 secured: "R9W/US2QaQpzvVI02o1mdRmBSY9JsYhDKt/r2v2M4CI6cOSoSgZ3CP8MlVjd7I7uGWA4OZ06kLqGA/JYNTrdIwExA+/0xBtk3hIpHnIsmTF4wVrK9xn8p/yE+ahPLTzpA4Wz++htfrQbIgxPod8CWXuYiIhirETVFmCCq+fBljM0PVtCUjgnKeMgTIUUIWTOWjgkEWRl5/8uHckl/z1yTYaEOGM8fuLkJBUqQG7nDrGnWpf3naxFm2pMyli0MO1jlr5IYc/4dw7/xkOrxs2ndiS8Lwry2Hv3ANtxZmBDlmBpWM7ctk/g3J5cWxmv+a3/jvuI0ZASjQjaIoi38OninJKMVLLKaojgOvimffavZKAxDX+uQoUuS+ZSvqvqvRQ4eBaSzkxt3hIO9Fql45xxuzxPOqRSzb4iM3X1UV2rF3EXo2QpsZkKRiQsZ7ev3GJ+gdRcD2BPqxoDSaOysNWl5OdNtd85AnJIc/35xbo2akrXwhdj4ww0h848rtqhgxe62oYYF9WIbwjiuGa9hNbwcw==;hAjHw+CFLrHESSa5vyAkYQ=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-27T17:42:00Z
 originalUrl: "https://www.houstonchronicle.com/neighborhood/moco/news/article/woodlands-student-wins-ai-suicide-risk-study-17854793.php"
 webUrl: "https://www.houstonchronicle.com/neighborhood/moco/news/article/woodlands-student-wins-ai-suicide-risk-study-17854793.php"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: Houston Chronicle
@@ -13,7 +16,14 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
-secured: "QS6CUpUR5oUckIrn5UZhqB1Jgx7VRZ7hLvfKOvVMUvFYyxOIDTxVZ6TRwPQgzWmIKkulPa3g7N15lFFLU6bpNfQY4dQoJE0ULMN9p1EMhsfPupCDCzX1qJFa8bcJUO5tzp+aKb54l2JLhKdn3s0/0H6N8hIIfBD73fpkfIJ99uo+mDExVJFd/7VSRchS8ZoSxw6EjPzl3cpo42CYatZJWGs+N8rvNcPGS4xpJgje5wMlCpAt/vXGkbGPQw8/tlcWOqkRJIx0oKPkuDfaK4Q8MwL8AoQ1DsoCCp9g5BClFA/PKB9kolg9GvUf1HdPNCBlmqy2lai19nGPxScP+1ke7yIkuiSwnci6UCnK4Cgr4QbSZ6a39KjG1ueQoIFRqFYjYQvgE4YQYcUry2k8niJHJNF1fW4dZcqO5KObz7cr79QZFX64y2R2/4PrYQ7fxAbizqVNvfGAsqzhUmis1BrfRUUQ/S+yehMFt6FYHPgnWXhiRZFJLkdXalzaoP/MTDpClxXAZKvSAEND5rEUHhh0Lg==;XmcqNwn0HFqW5K3RwEO7Ag=="
+images:
+  - url: "https://s.hdnux.com/photos/01/32/01/73/23600852/3/rawImage.jpg"
+    width: 2048
+    height: 1365
+    isCached: true
+
+secured: "LLtbI+rJpme3TbHEIYlrORFgDy1HTnu/9+0KYgxKeBzyIuw59PvaXtdVxHe3BxbHaQ28yRcANHZ2NG3lw4ufBHwdw0mGquGKzE8Q2IpEvAg35iOJgUNuUpTI3sOv7ym4kbL7ZuL1tZMTZBRuu+/TgtiLGwlInjhPF7d1LI+xj/nI/1ZEO+GhsXpsd8VsLZsqWWLZ4x1qk2s66XYsadxcxElp4jFSRmHw4ifIaxkwB4bSnTYoIjBh4C2YIFI0PpBKvfQ8cr35xvnk9mq4XtQDb8wDacOTujoRSIVB9pI7yT/6ciOvR5bRxnLsfNblEUaAq/7klcZbxerfWCgf+RDdmn62fPIZxhk55MUv+cZ9hKo=;C1EEtUUobNBXGJsZA4JO3A=="
 ---
 

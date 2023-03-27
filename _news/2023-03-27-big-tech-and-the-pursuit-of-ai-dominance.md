@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/technology/big-tech-and-the-pursuit-of-ai-d
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/big-tech-and-the-pursuit-of-ai-dominance/amp-11679904285056.html"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Mint
@@ -27,21 +27,28 @@ images:
     isCached: true
 
 related:
-  - title: "The dirty secret of artificial intelligence"
-    excerpt: "The emergence of tools such as ChatGPT triggers warnings about a fivefold increase in global data center energy consumption"
-    publishedDateTime: 2023-03-23T17:31:00Z
-    webUrl: "https://english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html"
-    ampWebUrl: "https://english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html?outputType=amp"
-    cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html?outputType=amp"
+  - title: "Venture capitalists race to land next AI deal on Big Tech's turf"
+    excerpt: "There’s an investment craze over generative artificial intelligence, the subset of AI that exploded in popularity with ChatGPT, the chatbot from startup OpenAI. Such technology can create virtually any text, image or other content on command after having ..."
+    publishedDateTime: 2023-03-25T06:00:00Z
+    webUrl: "https://www.reuters.com/article/ai-investment-idCAKBN2VQ0QP"
     type: article
     provider:
-      name: El País in English
-      domain: elpais.com
-    quality: 59
+      name: Reuters
+      domain: reuters.com
+    quality: 47
+  - title: "Generative AI Tools Threaten Big Tech's Digital Advertising Dominance"
+    excerpt: "Generative AI could undercut that revenue at a time the digital advertising ... Jamie MacEwan, a senior media analyst at the research firm Enders Analysis, said he sees ChatGPT as a potential factor in influencing where ad spend is directed."
+    publishedDateTime: 2023-03-23T10:24:00Z
+    webUrl: "https://www.law.com/corpcounsel/2023/03/23/generative-ai-tools-threaten-big-techs-digital-advertising-dominance/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
     images:
-      - url: "https://images.english.elpais.com/resizer/Oo8dX2wdbnK6WqZbRNyg8m8-B14=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/5RVNKRJZIVCNHI3TG52ZHSGNHQ.jpeg"
-        width: 1200
-        height: 800
+      - url: "https://images.law.com/contrib/content/uploads/sites/390/2023/03/Google-search-result-767x633-1.jpg"
+        width: 767
+        height: 633
         isCached: true
 
 secured: "fsGgQkJC+eB+D+UBJOUMaC7bNcuNDp3OWjq6TdsfT7650UDwpva7QM2BfQkF69VhF2UcvQ2EujILsLuiuMhLPZsZaut/9+otZpKwMoO87tPiDIEdEBkA5mbEa5Xs6LvKFMQi6COjUt9OFOtTBmIDwDwAt3t7+cJbX3zbeE2LzYXRKiWWQGOd3HOZSybxkVFKOLdU9hAPRQZ63YDymsMrYvxvMoUQqyLxmHtFJ4W+3ovzkxkjt6s80YOi73jrDHS0sBsWqLZ3Ufj2YsKKmdBLDXu2xb8KRAP8FXOEHgY/WT26u5XDJv+JniU4qukZn4mrfjdeDMnWCXY5C/WlZ4aG3Xl3gzFkMowROyt3qBUNICBiTITpLaUcqfUNkublUCg5p9J2ByRfuDridgR4A/1OGOfi0jAenlemY6EQMWKa6whqh71IfIceBlRqD+fCvJ84N4b00ASRlmajvPtYhZmR1VJOLmHuXlK1wK73V8qqzKxTNkRhOx7byiOl9wYfVHALUxRoaOi45W+U1ugrKjkuLA==;rr1WpZAxUeeQSgZ7Wibd7g=="

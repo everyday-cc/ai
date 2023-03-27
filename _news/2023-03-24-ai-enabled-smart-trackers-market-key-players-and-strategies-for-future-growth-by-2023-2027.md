@@ -37,7 +37,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 103
+    quality: 105
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -122,20 +122,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 82
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Consulting Market 2023 Size and Forecast to 2030"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 22, 2023 (The Expresswire) -- Artificial Intelligence (AI) Consulting Marketinformation for each competitor includes (Tryolabs, LeaderGPU, Mckinsey and Company ..."
-    publishedDateTime: 2023-03-23T03:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-consulting-market-2023-size-and-forecast-to-2030-2023-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 79
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -351,6 +337,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "GPU Database Market Outlook and Forecast till 2030"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- The \"GPU Database Market\" study describes how the technology industry is evolving and how major and emerging players in the industry are ..."
+    publishedDateTime: 2023-03-27T20:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/gpu-database-market-outlook-and-forecast-till-2030-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Legal Tech Artificial Intelligence Market: Recent Growing Trend 2031"
+    excerpt: "Mar 27, 2023 (The Expresswire) -- The \"Legal Tech Artificial Intelligence Market\" study describes how the ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors. Market Growth Reports is the credible ..."
+    publishedDateTime: 2023-03-27T20:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-recent-growing-trend-2031-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence & Advanced Machine Learning Market Sales Outlook 2023 Up-to-date Development Data and Market Trends Forecast to 2027"
     excerpt: "Competitive Landscape The market analysis entails a section solely dedicated for major players in the Global Artificial Intelligence and Advanced Machine Learning Market wherein our analysts provide an insight to the financial statements of all the major ..."
     publishedDateTime: 2023-03-23T07:52:00Z
@@ -388,6 +402,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Computer Vision Market Size 2023 to 2026 Size and Share Survey Report"
+    excerpt: "Mar 27, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Computer Vision Market\" report provides a thorough examination of the present and projected situation of the sector. The research ..."
+    publishedDateTime: 2023-03-27T20:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-market-size-2023-to-2026-size-and-share-survey-report-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -640,6 +668,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition Biometrics Market Size, Share and Forecast 2031"
+    excerpt: "Mar 27, 2023 (The Expresswire) -- [124+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Voice Recognition Biometrics Market” Size 2023 Key players Profiled in ..."
+    publishedDateTime: 2023-03-27T21:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-biometrics-market-size-share-and-forecast-2031-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial intelligence (AI) in Supply Chain and Logistics Market Size, Share and Forecast 2031"
+    excerpt: "Also, it splits Artificial intelligence (AI) in Supply Chain and Logistics market Segmentation by Type and by Applications to fully and deeply research and reveal market profile and prospects. Increasing use of is expected to drive the growth of the ..."
+    publishedDateTime: 2023-03-27T18:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-size-share-and-forecast-2031-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
   - title: "Artificial Intelligence in Platform as a Service (PaaS) Market Is Booming Worldwide Forecast 2023-2029"
     excerpt: "Mar 24, 2023 (The Expresswire) -- Latest Report will contain the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence in Platform as a Service (PaaS) Market in Information and Communication Technology , Information ..."
     publishedDateTime: 2023-03-24T07:58:00Z
@@ -672,6 +723,15 @@ related:
     excerpt: "Mar 25, 2023 (The Expresswire) -- Report Highlights with 100 pages:-\"The global Computer Vision market size was valued at USD 33776.14 million in 2022 and is expected to expand at a CAGR of 32.03% ..."
     publishedDateTime: 2023-03-25T15:13:00Z
     webUrl: "https://www.marketwatch.com/press-release/latest-computer-vision-market-2023-in-us-forecast-2031-2023-03-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+  - title: "Natural Language Processing Market 2023: Growing Opportunities by 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- The global \"Natural Language Processing Market\" research study presents an in-depth analysis of the market's revenue, size, and volume."
+    publishedDateTime: 2023-03-27T18:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2023-growing-opportunities-by-2028-2023-03-27"
     type: article
     provider:
       name: MarketWatch
@@ -770,6 +830,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023 to 2030 Artificial Intelligence in Insurance Market Installation, Application and Type"
+    excerpt: "The Artificial Intelligence in Insurance market has witnessed a growth from USD million to USD million from 2017 to 2022. With a CAGR of Percent, this market is estimated to reach USD million in 2029. The report focuses on the Artificial Intelligence in ..."
+    publishedDateTime: 2023-03-27T19:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-to-2030-artificial-intelligence-in-insurance-market-installation-application-and-type-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
   - title: "North America Deep Learning Neural Networks (DNNs) Market Essential Business Expansion Strategies and Key Players 2023 to 2031"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (Alliance News via COMTEX) -- North America deep learning neural networks (DNNs) market is expected to register healthy CAGR in the forecast period of 2019 to 2026."
     publishedDateTime: 2023-03-24T18:21:00Z
@@ -802,6 +871,24 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
+  - title: "2029 Forecast Voice Recognition Software Market by Growth Rate, Sparked Innovation with Top Players"
+    excerpt: "Mar 27, 2023 (The Expresswire) -- [105+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Voice Recognition Software Market” Size 2023 Key players Profiled in ..."
+    publishedDateTime: 2023-03-27T19:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2029-forecast-voice-recognition-software-market-by-growth-rate-sparked-innovation-with-top-players-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 20
+  - title: "2029 Forecast Data Science and Machine-Learning Platforms Market by Growth Rate, Sparked Innovation with Top Players"
+    excerpt: "Mar 27, 2023 (The Expresswire) -- [122+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Data Science and Machine-Learning Platforms Market” Size 2023 Key ..."
+    publishedDateTime: 2023-03-27T18:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2029-forecast-data-science-and-machine-learning-platforms-market-by-growth-rate-sparked-innovation-with-top-players-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 11
 
 secured: "n521C2duLUv/0kmAB2azWpcIx6B2HuYxQ6itu9vAKNrQr/dzJ0G4yY1Vd8nyBfLnlgABc76vxwePndO9uMg5s4H3xHqkFI/OS+bo1K3AW/g2cDEFvxS/ph36pC3jsuLtcq/+jMe+3sAvfMwmJlnIiYLt+O+x9WRip1mkPrxBVgQWSgJVcQ4mQNqWdS6YJQ0k5u5RqEuPpBSFhn7RF2d9DkF9OllUV/PfBK1nyXq4b1aWZoYxd/OFnbTMrD5ZOB/iDb748xsTbfbZWdSNCa1hLwONsWDJ+9WLDHc4SKRxUTX5Hi85Kl5QPE+0GFQE0vcgTRaOW+SZykmVyDGQgk/OXS2RDhrZLwVfVFAFQ+FTOIs=;v0ZOuIZ1U9a3AEkWklqOng=="
 ---

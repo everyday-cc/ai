@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-27T17:59:00Z
 originalUrl: "https://www.afr.com/technology/ai-is-meant-to-improve-your-job-these-aussies-don-t-buy-it-20230220-p5clzx"
 webUrl: "https://www.afr.com/technology/ai-is-meant-to-improve-your-job-these-aussies-don-t-buy-it-20230220-p5clzx"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Australian Financial Review

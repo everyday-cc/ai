@@ -214,6 +214,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 49
+  - title: "Retro Chatbot: ChatGPT comes to MS-DOS with new AI client"
+    excerpt: "In this case, he turned his attention to MS-DOS, a text-only operating system first released in 1981, and ChatGPT, an AI-powered large language model (LLM ... proxy that can run on a modern computer and translate the requests and responses between the ..."
+    publishedDateTime: 2023-03-27T19:41:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/03/retro-chatbot-chatgpt-comes-to-ms-dos-with-new-ai-client/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 49
   - title: "a16z Leads $150M Series A Round in Chatbot Startup Character AI"
     excerpt: "Venture capitalist firms are always on the lookout for the next big thing, and Andreessen Horowitz is no exception. They recently announced an investment in Character AI, a software development company,"
     publishedDateTime: 2023-03-23T23:43:00Z

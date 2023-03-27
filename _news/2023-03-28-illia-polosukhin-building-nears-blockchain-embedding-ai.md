@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-27T17:30:00Z
 originalUrl: "https://www.coindesk.com/consensus-magazine/2023/03/27/illia-polosukhin-future-of-near/"
 webUrl: "https://www.coindesk.com/consensus-magazine/2023/03/27/illia-polosukhin-future-of-near/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: CoinDesk

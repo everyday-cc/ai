@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-27T18:34:00Z
 originalUrl: "https://www.polygon.com/ai-artificial-intelligence/23658270/puffer-coat-pope-ai-art-fake-midjourney"
 webUrl: "https://www.polygon.com/ai-artificial-intelligence/23658270/puffer-coat-pope-ai-art-fake-midjourney"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Polygon

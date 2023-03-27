@@ -168,7 +168,7 @@
       "originalUrl": "https://www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-ai-in-the-enterpriseuse-cases--early-learnings/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -213,59 +213,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-25-chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law.md",
-      "title": "ChatGPT As A Platform Gets Bigger And Bolder As OpenAI Rolls Out Plugins For All Kinds Of Add-On Apps, Stewing Up AI Ethics And AI Law",
-      "excerpt": "Voila, your software package suddenly can do all manner of Natural Language Processing (NLP). All told, this meant that the uses of ChatGPT could expand immensely. Firms that provide apps were thirstily lured to the ChatGPT API like a siren call.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641e9f1ebcc461207e4ff60a/0x0.jpg?format=jpg&crop=2085,1173,x76,y10,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/amp/",
-      "publishedDateTime": "2023-03-25T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2023-03-24-while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers.md",
       "title": "While OpenAI has been working on text and images, iGenius has been working on GPT for numbers",
       "excerpt": "And with algorithms, natural language processing and user-created metadata, or what iGenius calls advanced conversational AI, the complexity of data quality can be improved and elevated. Gartner has dubbed this ‘conversational analytics.’ Virtualizing ...",
@@ -274,7 +221,7 @@
       "originalUrl": "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -327,7 +274,7 @@
       "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-generate-custom-templates-thanks-to-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1483,6 +1430,58 @@
         "name": "Mena FN",
         "domain": "menafn.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-10-the-search-for-simpler-analytics.md",
+      "title": "The ‘Search’ For Simpler Analytics",
+      "excerpt": "Given that “set” refers to a type of yoghurt, a list of numbers, a race start call , something the sun does, some dishes, putting an object down, a television studio & a place where badgers live - you can see why we need large language models to define the relationships between one word & another.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/03/10/the-search-for-simpler-analytics/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/03/10/the-search-for-simpler-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/640b1da0ec0c457c717aa269/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/03/10/the-search-for-simpler-analytics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/03/10/the-search-for-simpler-analytics/amp/",
+      "publishedDateTime": "2023-03-10T03:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

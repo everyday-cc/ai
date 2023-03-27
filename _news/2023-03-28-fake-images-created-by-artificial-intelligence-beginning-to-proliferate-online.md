@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-27T19:36:00Z
 originalUrl: "https://www.nysun.com/article/fake-images-created-by-artificial-intelligence-beginning-to-proliferate-online"
 webUrl: "https://www.nysun.com/article/fake-images-created-by-artificial-intelligence-beginning-to-proliferate-online"
 type: article
+quality: 13
+heat: -1
+published: false
 
 provider:
   name: New York Sun
@@ -13,6 +16,52 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "AI technology may be able to generate our mind’s images"
+    excerpt: "Researchers are developing artificial intelligence technology they say could generate the very images in our brains. NBC News’ Jacob Ward shares more on the extraordinary research and the concerns about what mind reading technology could mean for the future."
+    publishedDateTime: 2023-03-24T23:30:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/ai-technology-may-be-able-to-generate-our-mind-s-images-166796869820"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo166796869820"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo166796869820"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/1679700278944_nn_jwa_ai_mind_reading_230324_1920x1080-1zk213.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "How to use Bing’s free Image Creator to generate AI images"
+    excerpt: "Microsoft launched its new Bing Image Creator this week -- here's how to use it, even if you aren't in the Bing preview."
+    publishedDateTime: 2023-03-23T21:02:00Z
+    webUrl: "https://bgr.com/tech/how-to-use-bings-free-image-creator-to-generate-ai-images/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/03/Bing-Image-Creator.jpg?quality=82&strip=all"
+        width: 2560
+        height: 1440
+        isCached: true
+  - title: "DOD’s Maynard Holliday Says Department is Looking into Generative AI for Decision Support"
+    excerpt: "The DOD is working with IBM and the Defense Advanced Research Projects Agency to develop a neuromorphic inference chip, called NorthPole, that’s based on human brain architecture and co-locates memory and compute. “We’re going to be able to do AI at ..."
+    publishedDateTime: 2023-03-24T09:55:00Z
+    webUrl: "https://www.govconwire.com/2023/03/dods-maynard-holliday-says-department-is-looking-into-generative-ai/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 30
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2023/03/Maynard-Holliday_1200x628.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "GgTXvaNXQ7++ssKpvnFS2HfoxNJrsjt53TOOXX5y806OcfUg8dZFhG/ORfHMvdYqmS8bumUQL5U3V7POps++RxJE6xDxOih0NofexXVE1qftcY0J0s0Y+2D55NG7v+f3wVSfUIyFwLshG+roNrE4YfO1QZwtvLM2A6e31y/E5LZbbqnKWqmg9M/yiO08i8az+sp+4A54Sv4jddO/MzluU2cyFR/vdThylhYYy5xoeHVI/AUNwxVumBhMf8g0hyj9REiCxBOhLjr9m00rCLhWEBWZ/tBIHDZOrPW0hWBl/kbnfqffplp3MMSnCGm029Cj7bXIGxSoqYv+DjlN8OdLzZtc9c0bBFbOqoQNJS5Y6JIHBLLXVEb4NkdIMuWwoBSqzWloVs6L5vqOprhQrT2pJ6C9YxqMWMAA21NlF2Xek50Fx3EqBZY05pEawqj/Z6qYlkFh4dpea47XQg7SK61n75u5vr6Q0iYRMTbMiUGxfps/I1ByuB0cveEbSgKcwmLrO5dYYZGEb1i53wv5MhPDyg==;XjxgFFvGHdKUWlCc7kTItg=="
 ---

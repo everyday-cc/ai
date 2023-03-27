@@ -191,6 +191,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023 Computer Vision System Market Size, Growth | Global Industry Trends [2029]"
+    excerpt: "Mar 27, 2023 (The Expresswire) -- [116+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Computer Vision System Market” Size 2023 Key players Profiled in the ..."
+    publishedDateTime: 2023-03-27T18:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-system-market-size-growth-global-industry-trends-2029-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
   - title: "2023 Artificial Intelligence in Manufacturing and Supply Chain Market Size, Growth | Global Industry Trends [2029]"
     excerpt: "Mar 23, 2023 (The Expresswire) -- [103+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Artificial Intelligence in Manufacturing and Supply Chain Market” Size ..."
     publishedDateTime: 2023-03-23T18:38:00Z

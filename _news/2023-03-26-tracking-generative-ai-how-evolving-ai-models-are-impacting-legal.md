@@ -62,6 +62,15 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 49
+  - title: "AI Taking Flight in the U.S. Air Force"
+    excerpt: "Tesla is already moving to a full self-driving mode, and Waymo is preparing for new driverless prototypes ... became the first military aircraft to fly with artificial intelligence as its copilot. The copilot is named ARTUµ, the algorithm behind the ..."
+    publishedDateTime: 2023-03-27T18:12:00Z
+    webUrl: "https://www.nasdaq.com/articles/ai-taking-flight-in-the-u.s.-air-force"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
 
 secured: "1980jEITi9w2rwgm442YVEk22vHb/aotAh+FZylNlOqVLGaTOZi72dKUT6P+U/kusC1yeIAhpXZeQltO2CemytCSwEAD+vECEluM4JKAUfnYVSOBukF2VpxJcpnQM1wPwOnvE7lJ0gmCxnbX/ah4E9BvoqE9jDBeFCV4eeZQeO/Do29L4oD78HV+FQ0uI1UJoJP9ggKW7K5BAN12f77eSflgwOCFME5MzHU/qcn2cuasSFU0JlUb/QuKOYKw02tgSYxq/DP7j/myhKX1X3G4XID4fw827bXX+5nB8drBC6iUw71RNJtxPsYRw4fBfhKwUXwvB9jmgvwrkD/7TCtpqf7FDvqs2y5k55rbs16FFHFTLrLfbiLjMJv+JslusVvQ0wnuf6jDsh1EQfcCFdhdKP7CmDHoQ9IIxj5UyUj61wa4yj8lIQwy+EAzOzMrjBtITD4rj2z4TPzoClxnGRIY/o1fZqdg45PmMuhwjneZ2U5Xxl6wgQfGm8lrZYRhohR6no3tJ2ExkOpmBb2KpSdbfQ==;89/fx55XLUgySlWQZdVqMQ=="
 ---

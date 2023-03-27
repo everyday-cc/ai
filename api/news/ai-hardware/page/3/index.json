@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-08-nvidia-gtc-attendees-get-an-exclusive-look-at-microsofts-ai-tech.md",
+      "title": "Nvidia GTC attendees get an exclusive look at Microsoft’s AI tech",
+      "excerpt": "Add these Microsoft sessions at GTC to your conference schedule to learn about the latest Azure AI infrastructure and use cases.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidia-gtc-attendees-get-an-exclusive-look-at-microsofts-ai-tech/",
+      "originalUrl": "https://venturebeat.com/ai/nvidia-gtc-attendees-get-an-exclusive-look-at-microsofts-ai-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/AdobeStock_432173706.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nvidia-gtc-attendees-get-an-exclusive-look-at-microsofts-ai-tech/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-gtc-attendees-get-an-exclusive-look-at-microsofts-ai-tech/amp/",
+      "publishedDateTime": "2023-03-07T14:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-06-microsoft-edge-canary-can-now-upscale-videos-using-the-power-of-ai-and-your-gpu.md",
       "title": "Microsoft Edge Canary can now upscale videos using the power of AI and your GPU",
       "excerpt": "The feature uses machine learning, artificial intelligence, and the power of a PC's GPU to increase the resolution of videos to up to 720p. The functionality is now available in Microsoft Edge ...",
@@ -1343,58 +1396,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-nvidia-stock-rises-after-slight-beat-driven-by-ai-chips.md",
-      "title": "Nvidia stock rises after slight beat driven by A.I. chips",
-      "excerpt": "Data center revenue, which includes AI chips, rose 11% on an annual basis to $3.62 billion. In this article Nvidia stock rose more than 8% in extended trading Wednesday after the company reported ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/02/22/nvidia-nvda-earnings-q4-2023.html",
-      "originalUrl": "https://www.cnbc.com/2023/02/22/nvidia-nvda-earnings-q4-2023.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107121389-16636908112022-09-20t154548z_456040631_rc23lw99akst_rtrmadp_0_nvidia-gaming.jpeg?v=1677103157",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/22/nvidia-nvda-earnings-q4-2023.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/22/nvidia-nvda-earnings-q4-2023.html",
-      "publishedDateTime": "2023-02-23T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-27T18:56:00Z
 originalUrl: "https://www.voanews.com/a/ethiopian-journalist-recognized-for-giving-voice-to-survivors-of-conflict-/7023950.html"
 webUrl: "https://www.voanews.com/a/ethiopian-journalist-recognized-for-giving-voice-to-survivors-of-conflict-/7023950.html"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Voice of America

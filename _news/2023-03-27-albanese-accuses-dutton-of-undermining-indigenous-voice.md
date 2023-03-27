@@ -38,22 +38,6 @@ related:
       name: Sydney Morning Herald
       domain: smh.com.au
     quality: 39
-  - title: "‘We’re all in’, declares an emotional Albanese as he launches the wording for the Voice referendum"
-    excerpt: "A legal group advised the referendum working group. The PM stressed the practical value of a Voice in closing the gap of indigenous disadvantage. While this was about recognition, he said, more importantly it was about “making a practical difference ..."
-    publishedDateTime: 2023-03-23T04:56:00Z
-    webUrl: "https://theconversation.com/were-all-in-declares-an-emotional-albanese-as-he-launches-the-wording-for-the-voice-referendum-202435"
-    ampWebUrl: "https://theconversation.com/amp/were-all-in-declares-an-emotional-albanese-as-he-launches-the-wording-for-the-voice-referendum-202435"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/were-all-in-declares-an-emotional-albanese-as-he-launches-the-wording-for-the-voice-referendum-202435"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 30
-    images:
-      - url: "https://images.theconversation.com/files/517084/original/file-20230323-14-6oa8u0.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
   - title: "Climate policy in Anthony Albanese‘s push for Indigenous voice to parliament"
     excerpt: "The Greens have upheld the need for the voice to provide advice on policies such as the safeguard mechanism in a rebuke to Anthony Albanese, arguing the climate policy – and the coal and gas projects it could affect – directly impacts upon Indigenous Australians."
     publishedDateTime: 2023-03-27T11:21:00Z

@@ -62,7 +62,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-global-various-tendencies-industry-report-2029-2023-03-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 231,
+      "heat": 241,
       "tags": null,
       "images": [
         {
@@ -93,6 +93,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-airport-gets-facial-recognition-technology.md",
+      "title": "Airport gets facial recognition technology",
+      "excerpt": "Cameras installed at the Jinnah International Airport equipped with facial recognition technology have been made operational, with the Federal Investigation Agency (FIA) and the Civil Aviation Authority (CAA) to manage it jointly. The surveillance system ...",
+      "sourceUrl": null,
+      "webUrl": "https://tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology",
+      "originalUrl": "https://tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.tribune.com.pk/media/images/1857356-facialrecognitionx-1543564330/1857356-facialrecognitionx-1543564330.jpg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology?amp=1",
+      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology?amp=1",
+      "publishedDateTime": "2023-03-23T23:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Express Tribune",
+        "domain": "tribune.com.pk",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1371,58 +1414,6 @@
         "name": "Orange County Register",
         "domain": "ocregister.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-which-stores-are-scanning-your-face-no-one-knows.md",
-      "title": "Which Stores Are Scanning Your Face? No One Knows.",
-      "excerpt": "Our reporter took a five-mile walk around Manhattan to find businesses that are using facial recognition technology. Send any friend a story As a subscriber, you have 10 gift articles to give each ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/03/10/technology/facial-recognition-stores.html",
-      "originalUrl": "https://www.nytimes.com/2023/03/10/technology/facial-recognition-stores.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/03/12/multimedia/00face-walk-msg-fbcl/00face-walk-msg-fbcl-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/03/10/technology/facial-recognition-stores.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/10/technology/facial-recognition-stores.amp.html",
-      "publishedDateTime": "2023-03-10T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

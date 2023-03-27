@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-and-driverl
 webUrl: "https://www.marketwatch.com/press-release/self-driving-and-driverless-cars-market-by-2031-2023-03-26"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://images.barrons.com/im-383342/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Aston University project improves its driverless vehicle’s capabilities"
-    excerpt: "Aston University has completed a two-year Knowledge Transfer Partnership (KTP) with Coventry-based global transport technology firm Aurrigo, resulting in a sophisticated machine vision solution making its autonomous vehicles more capable."
-    publishedDateTime: 2023-03-23T02:32:00Z
-    webUrl: "https://indiaeducationdiary.in/aston-university-project-improves-its-driverless-vehicles-capabilities/"
-    ampWebUrl: "https://indiaeducationdiary.in/aston-university-project-improves-its-driverless-vehicles-capabilities/amp/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/aston-university-project-improves-its-driverless-vehicles-capabilities/amp/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 59
-    images:
-      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2023/03/Autopod-UI-1.jpg?fit=671%2C512&ssl=1"
-        width: 671
-        height: 512
         isCached: true
   - title: "Millimeter Wave Radar for Self-Driving Car Market Business Overview 2023, and Forecast to 2030 | Robert Bosch, Denson, Hella"
     excerpt: "The report offers actionable and valuable market insights of Millimeter Wave Radar for Self-Driving Car Market. The"

@@ -26,6 +26,38 @@ images:
     isCached: true
 
 related:
+  - title: "5 ways OpenAI’s ChatGPT plugins could change the AI game | The AI Beat"
+    excerpt: "While the rest of the world went about its business, I noodled about the implications of OpenAI’s latest ChatGPT chess move. You’ve likely heard by now that OpenAI unveiled plugins that link its conversational AI ChatGPT to the real world."
+    publishedDateTime: 2023-03-27T19:22:00Z
+    webUrl: "https://venturebeat.com/ai/5-ways-openais-chatgpt-plugins-could-change-the-ai-game-the-ai-beat/"
+    ampWebUrl: "https://venturebeat.com/ai/5-ways-openais-chatgpt-plugins-could-change-the-ai-game-the-ai-beat/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/5-ways-openais-chatgpt-plugins-could-change-the-ai-game-the-ai-beat/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-30.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "OpenAI's ambitious master plan to conquer rivals like Google in the AI race hinges on pure speed"
+    excerpt: "The chatbot kickstarted an avalanche of discussion around the future of work, AI ethics, and changing the dynamic of the tech workforce. This wasn't always the case. OpenAI was founded in 2015 by current CEO Sam Altman, Elon Musk, and others. Musk left the ..."
+    publishedDateTime: 2023-03-27T21:20:00Z
+    webUrl: "https://www.businessinsider.com/openai-secret-weapon-ai-race-google-is-speed-2023-3"
+    ampWebUrl: "https://www.businessinsider.com/openai-secret-weapon-ai-race-google-is-speed-2023-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-secret-weapon-ai-race-google-is-speed-2023-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
+    images:
+      - url: "https://i.insider.com/6421fe9a8c966b0019498dd8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "ChatGPT As A Platform Gets Bigger And Bolder As OpenAI Rolls Out Plugins For All Kinds Of Add-On Apps, Stewing Up AI Ethics And AI Law"
     excerpt: "Voila, your software package suddenly can do all manner of Natural Language Processing (NLP). All told, this meant that the uses of ChatGPT could expand immensely. Firms that provide apps were thirstily lured to the ChatGPT API like a siren call."
     publishedDateTime: 2023-03-25T11:02:00Z
@@ -42,21 +74,63 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How to use ChatGPT and other generative AI for business and in life"
-    excerpt: "New AI language models are garnering a lot of interest ... ChatGPT can even help you with translation. - It can assist you in writing essays or long-form copy. - You can have a pleasant conversation with ChatGPT. - You can also use it to play games."
-    publishedDateTime: 2023-03-26T09:21:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/features/how-to-use-chatgpt-and-other-generative-ai-for-business-and-in-life-10313271.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/features/how-to-use-chatgpt-and-other-generative-ai-for-business-and-in-life-10313271.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/features/how-to-use-chatgpt-and-other-generative-ai-for-business-and-in-life-10313271.html/amp"
+  - title: "Creators Shouldn't Overlook These Powerful Uses for AI Like ChatGPT"
+    excerpt: "Artificial intelligence is all the creator economy seems to be talking ... meaningful outcomes than clicks and views could undo decades of progress in corporate ethics and responsibility. In the past, business leaders were considered solely responsible ..."
+    publishedDateTime: 2023-03-27T20:08:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/how-creators-can-harness-the-power-of-ai-like-everyone-else/446730"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/03/396571328.jpg"
-        width: 1280
-        height: 720
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1679674530-GettyImages-1248338284-1.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "OpenAI's ChatGPT is 'only possible' with Microsoft Azure, says Microsoft"
+    excerpt: "\"Only Microsoft Azure provides the GPUs, the InfiniBand networking, and the unique AI infrastructure necessary to build these types of transformational AI models at scale, which is why OpenAI chose to partner with Microsoft,” said Scott Guthrie ..."
+    publishedDateTime: 2023-03-23T22:12:00Z
+    webUrl: "https://www.windowscentral.com/microsoft/openais-chatgpt-is-only-possible-with-microsoft-azure"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 68
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/DCgdavJhRVMwg9d6aF6JXY-1200-80.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "I made ChatGPT talk to itself - and the results weren’t what I expected"
+    excerpt: "My approach to ChatGPT and its burgeoning (and possibly career-threatening) success both within the tech industry and beyond our little digital bubble has been largely the same, with some small alterations."
+    publishedDateTime: 2023-03-27T06:00:00Z
+    webUrl: "https://www.techradar.com/features/i-made-chatgpt-talk-to-itself-and-the-results-werent-what-i-expected"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/PU2t7kMJ9SFBTJYerGD8ve-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Up to 80 PERCENT of US jobs could be impacted by ChatGPT-like AI in coming years, study warns"
+    excerpt: "translation, speech recognition, and instrumental track recognition. The team conducted the research by linking 10 AI-powered applications - such as language - to 52 human abilities to understand if any closely relate. The results showed that ..."
+    publishedDateTime: 2023-03-27T15:24:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11907527/Up-80-PERCENT-jobs-impacted-ChatGPT-like-AI-coming-years-study-warns.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11907527/amp/Up-80-PERCENT-jobs-impacted-ChatGPT-like-AI-coming-years-study-warns.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11907527/amp/Up-80-PERCENT-jobs-impacted-ChatGPT-like-AI-coming-years-study-warns.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 48
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2023/03/27/16/69164461-0-image-a-6_1679930230131.jpg"
+        width: 636
+        height: 382
         isCached: true
   - title: "ChatGPT: Who and what is behind the artificial intelligence tool changing the tech landscape"
     excerpt: "Since the introduction of the artificial intelligence tool ChatGPT in November 2022, the new technology has displayed the power and potential that AI can have on our lives. Open AI CEO Sam Altman, the company behind ChatGPT, admitted earlier this month ..."
@@ -102,6 +176,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "The Promise and Peril of OpenAI and Chat GPT"
+    excerpt: "It is quite possible that 2023 will be “the year of artificial intelligence.” It seems impossible to scan the news without encountering an article either extolling the advantages generative artificial intelligence models or raising concerns about its misuse."
+    publishedDateTime: 2023-03-27T13:42:00Z
+    webUrl: "https://www.law.com/newyorklawjournal/2023/03/27/the-promise-and-peril-of-openai-and-chat-gpt/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/389/2023/03/LANZA.jpg"
+        width: 1062
+        height: 900
+        isCached: true
   - title: "Codie.ai, first consultative AI assistant based on OpenAI ChatGPT"
     excerpt: "Codie.ai has launched an AI assistant to transform how businesses interact with their customers. The platform interacts with customers human-likely and provides information about products and services of the company or retailer. London-based startup Codie ..."
     publishedDateTime: 2023-03-24T21:11:00Z
@@ -115,6 +203,22 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
+        isCached: true
+  - title: "Exploring potential applications for ChatGPT in nuclear medicine and molecular imaging"
+    excerpt: "Developed by OpenAI, ChatGPT is a natural language processing chatbot that can intelligently respond to questions. In conversations with users, the chatbot always \"pays attention\" and remembers the thread of the dialogue. It is available in more than 90 ..."
+    publishedDateTime: 2023-03-27T20:14:00Z
+    webUrl: "https://medicalxpress.com/news/2023-03-exploring-potential-applications-chatgpt-nuclear.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-03-exploring-potential-applications-chatgpt-nuclear.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-03-exploring-potential-applications-chatgpt-nuclear.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 36
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-2.jpg"
+        width: 1920
+        height: 1451
         isCached: true
   - title: "Paper written using ChatGPT demonstrates opportunities and challenges of AI in academia"
     excerpt: "ChatGPT has the potential to create increasing and exciting opportunities—but also poses significant challenges—for the academic community, according to an innovative study written in large part using the software."
@@ -130,6 +234,33 @@ related:
         width: 1719
         height: 872
         isCached: true
+  - title: "How watermarks can help protect against fraud with generative AI like ChatGPT"
+    excerpt: "There are reasonable and technologically feasible interventions that can be used to help mitigate abuses with generative AI like ChatGPT and DALL-E."
+    publishedDateTime: 2023-03-27T13:00:00Z
+    webUrl: "https://www.fastcompany.com/90871934/how-watermarks-can-help-protect-against-fraud-with-generative-ai-like-chatgpt"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 14
+  - title: "SoundHound Launches Chat AI Voice Assistant With Access to ChatGPT on Android, iOS"
+    excerpt: "SoundHound's proprietary technology is claimed to intelligently select the right response by combining access to GPT, and real-time knowledge domains."
+    publishedDateTime: 2023-03-24T13:36:00Z
+    webUrl: "https://www.gadgets360.com/apps/news/soundhound-chatgpt-android-ios-app-smart-ai-voice-assistant-features-details-3890346"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 13
+  - title: "Can ChatGPT invent a new language? AI bot stuns Twitter user with some jaw-dropping responses"
+    excerpt: "ChatGPT’s efficiency with generating content from scratch is well known. However, a Twitter user challenged the bot with a unique task."
+    publishedDateTime: 2023-03-24T04:13:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-invents-new-language-chronosentia-8515039/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 8
   - title: "AI News roundup: OpenAI adds plugin support to ChatGPT, Mozilla opens new AI startup and more"
     excerpt: "The AI chatbot became popular in just a matter of weeks — way ... Invite your friends and family to sign up for MC Tech 3, our daily newsletter that breaks down the biggest tech and startup stories of the day"
     publishedDateTime: 2023-03-24T13:32:00Z

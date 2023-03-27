@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-ai-in-the-enterpriseuse-cases--early-learnings/amp/"
 type: article
 quality: 91
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning Executive Talks Rise, Future of Generative AI"
+    excerpt: "Keegan Hines, a former Georgetown adjunct professor and the current vice president of machine learning at Arthur AI, discussed the rapid rise in generative Artificial Intelligence (AI) programs and Georgetown’s potential in adapting to software like ChatGPT. The Master of Science in Data Science and Analytics program in the Graduate School of Arts & Sciences […]"
+    publishedDateTime: 2023-03-27T20:41:00Z
+    webUrl: "https://thehoya.com/machine-learning-executive-talks-rise-future-of-generative-ai/"
+    type: article
+    provider:
+      name: The Hoya
+      domain: thehoya.com
+    quality: 56
+    images:
+      - url: "https://static.shareasale.com/image/113278/mia-banner-ad-6.jpg"
+        width: 720
+        height: 300
+        isCached: true
   - title: "How AI Is Changing The Future Of Creative Enterprise"
     excerpt: "AI tools that were once complex and time-consuming are now faster and more consumer-friendly. Soon, the line between \"professional\" and \"consumer\" software tools will blur as they merge and significantly impact business models."
     publishedDateTime: 2023-03-27T12:44:00Z

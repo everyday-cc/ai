@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/opinion/articles/2023-03-26/even-with-ch
 webUrl: "https://www.bloomberg.com/opinion/articles/2023-03-26/even-with-chat-gpt-4-there-s-no-such-thing-as-artificial-intelligence"
 type: article
 quality: 67
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
     provider:
       name: NBC News
       domain: nbcnews.com
+    quality: 49
+  - title: "AI Taking Flight in the U.S. Air Force"
+    excerpt: "Tesla is already moving to a full self-driving mode, and Waymo is preparing for new driverless prototypes ... became the first military aircraft to fly with artificial intelligence as its copilot. The copilot is named ARTUµ, the algorithm behind the ..."
+    publishedDateTime: 2023-03-27T18:12:00Z
+    webUrl: "https://www.nasdaq.com/articles/ai-taking-flight-in-the-u.s.-air-force"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 49
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-27T19:25:00Z
 originalUrl: "https://www.dailymaverick.co.za/opinionista/2023-03-27-ai-and-the-employment-crisis-friend-or-foe/"
 webUrl: "https://www.dailymaverick.co.za/opinionista/2023-03-27-ai-and-the-employment-crisis-friend-or-foe/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Daily Maverick

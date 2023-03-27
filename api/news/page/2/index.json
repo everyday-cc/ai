@@ -2,6 +2,352 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-27-loud-days-integrates-ai-and-machine-learning-into-its-proprietary-technology.md",
+      "title": "Loud Days Integrates AI And Machine Learning Into Its Proprietary Technology",
+      "excerpt": "Loud Days has built proprietary AI and Machine Learning technologies that are transforming the way it approaches marketing & media for clients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bandt.com.au/loud-days-integrates-ai-and-machine-learning-into-its-proprietary-technology/",
+      "originalUrl": "https://www.bandt.com.au/loud-days-integrates-ai-and-machine-learning-into-its-proprietary-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bandt.com.au/information/uploads/2023/03/Untitled-design-3-750x375.png",
+          "width": 750,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-26T15:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "B and T",
+        "domain": "bandt.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-27-ai-chip-for-data-centerss-market-analysis-2023-with-focus-on-business-opportunity.md",
+      "title": "AI Chip for Data Centerss Market Analysis 2023 with Focus on Business Opportunity",
+      "excerpt": "The \"AI Chip for Data Centers Market\" [NEW FORECAST REPORT] 2023 analysis gives thorough assessment of a market within",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-chip-for-data-centerss-market-analysis-2023-with-focus-on-business-opportunity-2023-03-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-chip-for-data-centerss-market-analysis-2023-with-focus-on-business-opportunity-2023-03-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-26T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-27-clinical-natural-language-processing-market-analysis-explosive-growth-opportunity-by-2029.md",
+      "title": "Clinical Natural Language Processing Market Analysis: Explosive Growth Opportunity by 2029",
+      "excerpt": "The report [ 113 pages] focuses on the Clinical Natural Language Processing market size, segmentation mainly covering product type [MachineTranslation, InformationExtraction, AutomaticSummarization, TextandVoiceProcessing],",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/clinical-natural-language-processing-market-analysis-explosive-growth-opportunity-by-2029-2023-03-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/clinical-natural-language-processing-market-analysis-explosive-growth-opportunity-by-2029-2023-03-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-26T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-27-googles-generative-ai-system-bard-has-the-potential-to-revolutionize-healthcare.md",
+      "title": "Google’s Generative AI System, Bard, Has The Potential To Revolutionize Healthcare",
+      "excerpt": "J.P. Morgan Insights recently published an article titled “Is Generative AI a Game Changer?” explaining that “Generative AI — a category of artificial intelligence algorit",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/saibala/2023/03/26/googles-generative-ai-system-bard-has-the-potential-to-revolutionize-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/saibala/2023/03/26/googles-generative-ai-system-bard-has-the-potential-to-revolutionize-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6420a8765c54a09c9fe2d103/0x0.jpg?format=jpg&crop=4170,2346,x6,y54,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/saibala/2023/03/26/googles-generative-ai-system-bard-has-the-potential-to-revolutionize-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/03/26/googles-generative-ai-system-bard-has-the-potential-to-revolutionize-healthcare/amp/",
+      "publishedDateTime": "2023-03-26T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-27-vinai-democratizes-ai-in-vietnam-as-dr-hung-bui-sails-are-set-high.md",
+      "title": "VinAI Democratizes AI In Vietnam As Dr. Hung Bui Sails Are Set High",
+      "excerpt": "This article profiles Dr. Hung Bui, CEO of VIN.ai, an operating unit in the VinGroup in Vietnam, and summarizes his vision, research accomplishments of his scientists and the tremendous pride he has for his team achieving global stature as one of the top AI research labs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/03/26/vinai-democratizes-ai-in-vietnam-as-dr-hung-bui-sails-are-set-high/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/03/26/vinai-democratizes-ai-in-vietnam-as-dr-hung-bui-sails-are-set-high/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64176c4f26816377fd7ffb6c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/03/26/vinai-democratizes-ai-in-vietnam-as-dr-hung-bui-sails-are-set-high/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/03/26/vinai-democratizes-ai-in-vietnam-as-dr-hung-bui-sails-are-set-high/amp/",
+      "publishedDateTime": "2023-03-26T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-26-most-jobs-soon-to-be-influenced-by-artificial-intelligence-research-out-of-openai-and-university-of-pennsylvania-suggests.md",
+      "title": "Most Jobs Soon To Be ‘Influenced’ By Artificial Intelligence, Research Out Of OpenAI And University Of Pennsylvania Suggests",
+      "excerpt": "Jobs requiring college education will see the highest impacts, and in many cases, at least half of peoples’ tasks may be affected by generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/03/26/most-jobs-soon-to-be-influenced-by-artificial-intelligence-research-out-of-openai-and-university-of-pennsylvania-suggests/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/03/26/most-jobs-soon-to-be-influenced-by-artificial-intelligence-research-out-of-openai-and-university-of-pennsylvania-suggests/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6420726c40a1a435bb10b24f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/03/26/most-jobs-soon-to-be-influenced-by-artificial-intelligence-research-out-of-openai-and-university-of-pennsylvania-suggests/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/03/26/most-jobs-soon-to-be-influenced-by-artificial-intelligence-research-out-of-openai-and-university-of-pennsylvania-suggests/amp/",
+      "publishedDateTime": "2023-03-26T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-26-icmr-releases-first-ethical-guidelines-for-ai-in-healthcare.md",
+      "title": "ICMR releases first ethical guidelines for AI in healthcare",
+      "excerpt": "The guidelines aim to establish an ethical framework for the development of AI-based tools that can benefit all stakeholders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/india/icmr-releases-first-ethical-guidelines-for-ai-in-healthcare-11679845618748.html",
+      "originalUrl": "https://www.livemint.com/news/india/icmr-releases-first-ethical-guidelines-for-ai-in-healthcare-11679845618748.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/03/26/600x338/cervical_cancer__1679845856883_1679845857081_1679845857081.webp",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/india/icmr-releases-first-ethical-guidelines-for-ai-in-healthcare/amp-11679845618748.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/icmr-releases-first-ethical-guidelines-for-ai-in-healthcare/amp-11679845618748.html",
+      "publishedDateTime": "2023-03-26T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-03-26-cryptocurrencies-add-nothing-useful-to-society-says-chip-maker-nvidia.md",
       "title": "Cryptocurrencies add nothing useful to society, says chip-maker Nvidia",
       "excerpt": "Tech chief says the development of chatbots is a more worthwhile use of processing power than crypto mining",
@@ -10,7 +356,7 @@
       "originalUrl": "https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining?ref=upstract.com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -114,7 +460,7 @@
       "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-03-26/even-with-chat-gpt-4-there-s-no-such-thing-as-artificial-intelligence",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -165,7 +511,7 @@
       "originalUrl": "https://www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-ai-in-the-enterpriseuse-cases--early-learnings/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -218,7 +564,7 @@
       "originalUrl": "https://www.forbes.com/sites/saibala/2023/03/25/microsoft-plans-to-use-ai-to-solve-a-huge-pain-point-for-doctors/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 294,
+      "heat": 304,
       "tags": null,
       "images": [
         {
@@ -270,7 +616,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-latest-growth-research-by-top-players-2023-2028-2023-03-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -374,7 +720,7 @@
       "originalUrl": "https://venturebeat.com/ai/data-through-a-prism-ai-powered-analysis-key-to-gleaning-data-insights/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -466,59 +812,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law.md",
-      "title": "ChatGPT As A Platform Gets Bigger And Bolder As OpenAI Rolls Out Plugins For All Kinds Of Add-On Apps, Stewing Up AI Ethics And AI Law",
-      "excerpt": "Voila, your software package suddenly can do all manner of Natural Language Processing (NLP). All told, this meant that the uses of ChatGPT could expand immensely. Firms that provide apps were thirstily lured to the ChatGPT API like a siren call.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641e9f1ebcc461207e4ff60a/0x0.jpg?format=jpg&crop=2085,1173,x76,y10,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/amp/",
-      "publishedDateTime": "2023-03-25T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
       ]
     },
     {
@@ -634,7 +927,7 @@
       "originalUrl": "https://www.gizmochina.com/2023/03/25/china-ai-ambitions-funding-chip-import-issues/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -720,7 +1013,7 @@
       "originalUrl": "https://www.nbcnews.com/nightly-news/video/ai-technology-may-be-able-to-generate-our-mind-s-images-166796869820",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -950,298 +1243,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-ai-and-the-metaverse-the-mark-zuckerberg-way.md",
-      "title": "AI and the Metaverse, the Mark Zuckerberg Way",
-      "excerpt": "CEO Mark Zuckerberg truly buried the metaverse? Or is this simply the Tribune's own interpretation? The headline was based on a Zuckerberg post on Facebook and Instagram about Meta’s technology plans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ai-and-the-metaverse-the-mark-zuckerberg-way",
-      "originalUrl": "https://www.nasdaq.com/articles/ai-and-the-metaverse-the-mark-zuckerberg-way",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ai-and-the-metaverse-the-mark-zuckerberg-way?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-and-the-metaverse-the-mark-zuckerberg-way?amp",
-      "publishedDateTime": "2023-03-24T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-how-generative-ai-stole-only-part-of-the-show-at-the-gdc-the-deanbeat.md",
-      "title": "How generative AI stole only part of the show at the GDC | The DeanBeat",
-      "excerpt": "Weili Dai’s Story Machine also showed a vision for using generative AI for art or game programming with a new startup dubbed Robot Invader. I learned about how generative AI and other forms of AI will become so much more efficient in a matter of months ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/how-generative-ai-stole-only-part-of-the-show-at-the-gdc-the-deanbeat/",
-      "originalUrl": "https://venturebeat.com/games/how-generative-ai-stole-only-part-of-the-show-at-the-gdc-the-deanbeat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/inworld-ai.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 694,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/how-generative-ai-stole-only-part-of-the-show-at-the-gdc-the-deanbeat/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/how-generative-ai-stole-only-part-of-the-show-at-the-gdc-the-deanbeat/amp/",
-      "publishedDateTime": "2023-03-24T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-machine-learning-market-outlook-examining-demand-and-growth-projections-across-industries-till-2030.md",
-      "title": "Machine Learning Market Outlook: Examining Demand and Growth Projections Across Industries till 2030",
-      "excerpt": "Mar 24, 2023 (Alliance News via COMTEX) -- Quadintel offers a thorough analysis of the Machine Learning Market, including assessments of business solutions, studies and advancements, applications, advantages, benefits, and breadth. This market research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-outlook-examining-demand-and-growth-projections-across-industries-till-2030-2023-03-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-outlook-examining-demand-and-growth-projections-across-industries-till-2030-2023-03-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-24T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying.md",
-      "title": "Bill Gates's Open Letter Suggests AI's Potential Is Both Exciting And Terrifying",
-      "excerpt": "Its 30% increase in share price since the start of the year is also likely boosted by its acquisition of AI healthcare company Caption Health. Chip company Nvidia, which is announcing AI partnerships all over the place at the moment, is now collaborating ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/03/24/bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/03/24/bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641dd727f27107071e4ff5b1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/03/24/bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/03/24/bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying/amp/",
-      "publishedDateTime": "2023-03-24T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-can-pepper-content-save-the-creator-economy-from-the-ai-monster.md",
-      "title": "Can Pepper Content Save The Creator Economy From The AI Monster?",
-      "excerpt": "Pepper Content's new content marketing platform incorporates generative AI rather than seeking to compete with it",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidprosser/2023/03/24/can-pepper-content-save-the-creator-economy-from-the-ai-monster/",
-      "originalUrl": "https://www.forbes.com/sites/davidprosser/2023/03/24/can-pepper-content-save-the-creator-economy-from-the-ai-monster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641b4ba8bc846d86cd161d37/0x0.jpg?format=jpg&crop=1616,757,x0,y282,safe&width=1200",
-          "width": 1200,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2023/03/24/can-pepper-content-save-the-creator-economy-from-the-ai-monster/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/03/24/can-pepper-content-save-the-creator-economy-from-the-ai-monster/amp/",
-      "publishedDateTime": "2023-03-24T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-the-trump-ai-deepfakes-had-an-unintended-side-effect.md",
-      "title": "The Trump AI Deepfakes Had an Unintended Side Effect",
-      "excerpt": "The most crucial element of the fake Trump-arrest images is not that they are misleading. It is that they are cinematic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/culture/archive/2023/03/fake-trump-arrest-images-ai-generated-deepfakes/673510/",
-      "originalUrl": "https://www.theatlantic.com/culture/archive/2023/03/fake-trump-arrest-images-ai-generated-deepfakes/673510/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/nrpGbUrI5ioXdZCF06ZFpxZIT2o=/0x31:1450x786/1200x625/media/img/mt/2023/03/a1Screen_Shot_2023_03_23_at_5.22.18_PM_copy/original.png",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-24T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

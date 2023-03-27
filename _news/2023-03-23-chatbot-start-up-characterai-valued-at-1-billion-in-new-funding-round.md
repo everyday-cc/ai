@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2023/03/23/technology/chatbot-characterai-ch
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/23/technology/chatbot-characterai-chatgpt-valuation.amp.html"
 type: article
 quality: 89
-heat: 309
+heat: 319
 published: true
 
 provider:
@@ -203,6 +203,15 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
+    quality: 49
+  - title: "Retro Chatbot: ChatGPT comes to MS-DOS with new AI client"
+    excerpt: "In this case, he turned his attention to MS-DOS, a text-only operating system first released in 1981, and ChatGPT, an AI-powered large language model (LLM ... proxy that can run on a modern computer and translate the requests and responses between the ..."
+    publishedDateTime: 2023-03-27T19:41:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/03/retro-chatbot-chatgpt-comes-to-ms-dos-with-new-ai-client/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
     quality: 49
   - title: "Character.AI Hits Unicorn Status With $150M Raise As AI Craze Continues"
     excerpt: "Personalized chatbot startup Character.AI closed a $150 million Series A at a $1 billion valuation led by Andreessen Horowitz."

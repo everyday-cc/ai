@@ -46,22 +46,6 @@ related:
       name: Sydney Morning Herald
       domain: smh.com.au
     quality: 39
-  - title: "‘We’re all in’, declares an emotional Albanese as he launches the wording for the Voice referendum"
-    excerpt: "A legal group advised the referendum working group. The PM stressed the practical value of a Voice in closing the gap of indigenous disadvantage. While this was about recognition, he said, more importantly it was about “making a practical difference ..."
-    publishedDateTime: 2023-03-23T04:56:00Z
-    webUrl: "https://theconversation.com/were-all-in-declares-an-emotional-albanese-as-he-launches-the-wording-for-the-voice-referendum-202435"
-    ampWebUrl: "https://theconversation.com/amp/were-all-in-declares-an-emotional-albanese-as-he-launches-the-wording-for-the-voice-referendum-202435"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/were-all-in-declares-an-emotional-albanese-as-he-launches-the-wording-for-the-voice-referendum-202435"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 30
-    images:
-      - url: "https://images.theconversation.com/files/517084/original/file-20230323-14-6oa8u0.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
 
 secured: "jSrt3XKflDw74FiZhOnCrQhR4sV8PcB56GD4gmBuuINJrT+l0qHyRLbN2EG8mUz4qyeX6JjAVM2ON1z2+z9m2A0/1ZsJenITxBHDJ2L7hNe/lROjix/adHbJ5+/qrw0yj5mGQyxl+fKtsnAH7PFQEZIVjzkEG2O7jor2rCQ//ON+bRU3VAFg7hEAdlFKaJEdJvo9iN9w1BWsVTcfiJyuYwW5H8qDuNh88p09Stv3Jg55IBQcjUCOq49iPdaBrj6NVUvLRJ1jR5R/m0tAWHfOVmXp05IzxYoK9JddvqwfpYjIPrS9Ch5SqtxAoBuoekr/GMHi0CQSARpqwLvr/NgS5LPFqzHWYdgT1H63Mk3YR9CZ/dfLG7EEW3kO9IZ5Jdh3TtJ8Xs676hx0VEWm0fqXyqnb2DqThrXWE87pfjGq/FL+fSQH3onyzmf6XD3tt2OZ7NqupyMeo2pp7MQ6ZAis9XLgM4PdTJ88vzO4T8QcyNKaiajnkGENflIBJqXJwLqjgpoBroyo8dzlq3oXR31crQ==;dMQNvx7TZpIL+NihaAnJKQ=="
 ---

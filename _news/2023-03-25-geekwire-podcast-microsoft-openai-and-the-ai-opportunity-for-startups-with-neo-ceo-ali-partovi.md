@@ -249,6 +249,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
+  - title: "Microsoft beefs up partner programs with AI and go-to-market differentiation"
+    excerpt: "The new capabilities embraced Microsoft's search engine Bing, Dynamics 365 Copilot, ChatGPT in Azure Open AI Service as well as a specialisation for partners for AI and machine learning in Azure. \"We believe AI will fundamentally change every software ..."
+    publishedDateTime: 2023-03-27T21:42:00Z
+    webUrl: "https://www.reseller.co.nz/article/706392/microsoft-beefs-up-partner-programs-with-ai-and-go-to-market-differentiation/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 51
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/nicole_dezen_microsoft.jpg"
+        width: 504
+        height: 315
+        isCached: true
   - title: "Microsoft unveils plans to use AI feature in Outlook, Excel and more"
     excerpt: "On the other hand, AI critics worry it will bring more harm than good ... generate humanlike responses and perform a wide range of language-related tasks such as language translation, text summarization [and] sentiment analysis.” The GPT-3.5 architecture ..."
     publishedDateTime: 2023-03-23T18:20:00Z

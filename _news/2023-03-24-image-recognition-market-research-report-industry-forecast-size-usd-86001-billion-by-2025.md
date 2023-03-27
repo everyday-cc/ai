@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1105853898/Image-Recognition-Market-Research-Re
 webUrl: "https://menafn.com/1105853898/Image-Recognition-Market-Research-Report-Industry-Forecast-Size-USD-86001-Billion-By-2025"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Get Your Hands on the Ultimate Mobile Phone Facial Recognition Technology Market Research Report [2023-2030]"
-    excerpt: "Our Most Recent Research Report Indicates that Mobile Phone Facial Recognition Technology Market is Set to Undergo Significant Changes in 2023 Compared to the Previous Year. [115 Pages Report] Our Mobile Phone Facial Recognition Technology Market research ..."
-    publishedDateTime: 2023-03-23T09:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/get-your-hands-on-the-ultimate-mobile-phone-facial-recognition-technology-market-research-report-2023-2030-2023-03-23"
+  - title: "Emotion Detection and Recognition Market to surpass US$ 40.5 Billion by 2030, Says Coherent Market Insights (CMI)"
+    excerpt: "On the basis of software and services, the market is segmented into facial recognition, speech and voice recognition, and biosensing. The facial recognition segment is expected to dominate the global market over the forecast period, towing to increasing ..."
+    publishedDateTime: 2023-03-27T13:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31511105/emotion-detection-and-recognition-market-to-surpass-us-40-5-billion-by-2030-says-coherent-market-i"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 5
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "j6C26WUD0nQtgoeS3ZYo8/qRqVoEF+iDz3pdKrvgWVUVBmZgNHtpqUkcC6oiBaqAIE2Maq8sXJBn/RNtV3TjhtQ3+G4vXO1EYfAPNUYzWpk8C6LStRVWhOwPTyvNCZW+rqdTGApAxyL9+EuttzrPj3iJ8RWCqH7MfZv71ps5R8l4m/jXgnVYYLptZEZY75oWLIbO1VdBwl9/uP65iu4zd7pfJcf7LOqS6VgnTJPgUP9CB8eG/2+uVt1pySAuozxMdeonajKOFq6E6ql2xPAx2CMwq4j+3BBGt9MV3i5rflgX0wTB97Y24sLqguNNgBbmD3xpW0iS2M1SrTeRh+P4Eqt5nmTAxuAeqdRQHUz/R3e9hwH+t1tsc9xQY83dPG1OMDCI72O9/4gnhyt6YzXfa87e0D42T6z7OwOdB1MIr+kxCPRS1hV6NMGA/8ckEMWLsoLkjIMwhU6XFqGITGuhdzjTI8wHSUbBPp9CY3Iufq2pkzw1pWtvOl7XUsKr0kCl5nQubbdwSOPg87WZNFHYMA==;iWaV+9vJsuFwWVBbHzcobQ=="

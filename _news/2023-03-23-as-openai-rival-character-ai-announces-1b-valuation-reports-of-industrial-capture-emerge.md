@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/as-openai-rival-character-ai-announces-1b
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/as-openai-rival-character-ai-announces-1b-valuation-reports-of-industrial-capture-emerge/amp/"
 type: article
 quality: 78
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 800
     height: 411
     isCached: true
-
-related:
-  - title: "Risk of ‘industrial capture’ looms over AI revolution"
-    excerpt: "The phenomenon, which AI experts refer to as “industrial capture”, was quantified in a paper published by researchers from the Massachusetts Institute of Technology in the journal Science earlier this month,"
-    publishedDateTime: 2023-03-23T05:00:00Z
-    webUrl: "https://www.ft.com/content/e9ebfb8d-428d-4802-8b27-a69314c421ce"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
-        isCached: true
 
 secured: "kSC0H0chPBD+SDUKMNvAYqXpHsYuB4fYM4leRNr8OcjXR6nWSiVuRhpNoUraUA4YEKDsJ6/7NHpNpk8iLSGW0VB2vcWjfgqr/K1f0jzUsrSDqO6/W0GsQYdE4b44PJhYoFMJtik4XcB+Jvbhmj3gDn+fJEy1p98MSlNIYRpTmRFVhFMgV5IArzuqv+5TrKuupFz8MzhitR7rw9rU9dW0eD5dgIzvZRHHjkkzOjHoyrinbdlTPmuHXeaeABjfXCE0pIyVGlAUy0SZJB0Fu2YdyFg0OP7oDr4eHOUiS1UJr/Pt91u0o7m6a1HCNdprbNpyGQpjV1xSJotnNKhXwhSggQ3xaHFbRerXJolaCvCJHTs8BiKee9tddji5FrwH5LVYqhmoGGigcQYB6vfy+IXADgBo8zBrHF9cAW3pUqtFdFXBBEqinECZpjzPwRdTxA82aKjkL5+69y7XUg21O6Fxtvsz7EGG8bHAFCNiIKq5pf/f692YmUYaz0AQM2vDoK+y9Obn5jRQsHs2pAmvmldDQg==;QV3kWy4fAZiAr11DeORTyw=="
 ---

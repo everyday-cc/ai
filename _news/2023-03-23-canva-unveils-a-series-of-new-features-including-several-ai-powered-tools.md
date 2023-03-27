@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Canva’s new AI tools might replace your video editor"
-    excerpt: "and they can automatically translate it with Canva’s new AI-powered translate feature that supports more than 100 languages. Once you have the initial design, Canva has Magic Edit and Magic Eraser to help you refine it. Magic Eraser speaks for itself ..."
-    publishedDateTime: 2023-03-23T05:00:00Z
-    webUrl: "https://www.digitaltrends.com/computing/canva-new-ai-tools-might-replace-video-editor/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/canva-new-ai-tools-might-replace-video-editor/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/canva-new-ai-tools-might-replace-video-editor/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 89
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/03/canva-magic-edit.jpg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Canva adds AI-powered design tools to its Visual Worksuite"
     excerpt: "The AI-powered tools will be available to users of ... A new Translate tool will automatically translate the text in designs to over 100 different languages, while Beat Synch will automatically match video footage to a soundtrack. Magic Write, which ..."
     publishedDateTime: 2023-03-23T05:31:00Z

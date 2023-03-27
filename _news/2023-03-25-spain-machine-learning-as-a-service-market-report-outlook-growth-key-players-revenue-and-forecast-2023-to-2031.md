@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Medicine Market 2023: Growing Opportunities by 2028"
+    excerpt: "It covers industry segments by Types [Hardware, Software, Service, ] and Applications [Healthcare Provider, Pharmaceutical and Biotechnology Company, Patient, Payer]. The report also provides a comprehensive outlook on the Artificial Intelligence in ..."
+    publishedDateTime: 2023-03-27T20:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-2023-growing-opportunities-by-2028-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-Check-out (SCO) Market: Key Players and Strategies for Future Growth by 2023-2027"
     excerpt: "How the opposition goes in what was in store connected with Self-Check-out (SCO)? Which is the most driving country in the Self-Check-out (SCO) industry? What are the Self-Check-out (SCO) market valuable open doors and dangers looked by the ..."
     publishedDateTime: 2023-03-23T09:26:00Z

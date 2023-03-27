@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI Taking Flight in the U.S. Air Force"
+    excerpt: "Tesla is already moving to a full self-driving mode, and Waymo is preparing for new driverless prototypes ... became the first military aircraft to fly with artificial intelligence as its copilot. The copilot is named ARTUµ, the algorithm behind the ..."
+    publishedDateTime: 2023-03-27T18:12:00Z
+    webUrl: "https://www.nasdaq.com/articles/ai-taking-flight-in-the-u.s.-air-force"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
     publishedDateTime: 2023-03-25T17:12:00Z

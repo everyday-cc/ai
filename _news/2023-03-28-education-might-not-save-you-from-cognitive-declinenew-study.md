@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-27T17:30:00Z
 originalUrl: "https://medicalxpress.com/news/2023-03-cognitive-declinenew.html"
 webUrl: "https://medicalxpress.com/news/2023-03-cognitive-declinenew.html"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: Medical Xpress

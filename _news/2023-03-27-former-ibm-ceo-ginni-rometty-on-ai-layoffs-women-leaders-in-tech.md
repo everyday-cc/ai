@@ -5,9 +5,11 @@ excerpt: "After retiring from IBM in 2020, Rometty spent two years writing \"Goo
 publishedDateTime: 2023-03-27T12:37:00Z
 originalUrl: "https://economictimes.indiatimes.com/tech/information-tech/former-ibm-ceo-ginni-rometty-on-ai-layoffs-women-leaders-in-tech/articleshow/99037495.cms"
 webUrl: "https://economictimes.indiatimes.com/tech/information-tech/former-ibm-ceo-ginni-rometty-on-ai-layoffs-women-leaders-in-tech/articleshow/99037495.cms"
+ampWebUrl: "https://m.economictimes.com/tech/information-tech/former-ibm-ceo-ginni-rometty-on-ai-layoffs-women-leaders-in-tech/amp_articleshow/99037495.cms"
+cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/former-ibm-ceo-ginni-rometty-on-ai-layoffs-women-leaders-in-tech/amp_articleshow/99037495.cms"
 type: article
-quality: 19
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -34,6 +36,6 @@ related:
         height: 2048
         isCached: true
 
-secured: "h2GPAiRY5WTJLPIfM2rSkdDNeWUpNC+p0Q320bmOBxHB1m2Rfb+T/6ZfM8Dn76ao9L1g02ne7kp+w3oYkScQvtfY3yK4Z/6+MytyzFqo85kGhOpDtAxMbFFB0xHj9frg6XE3SHX5jWs6WmHhmBm9q2mP1eF3DJV7eD0IW20LkUnX68K5A68pDVnHyY+MOQpDOoHM2wLhJrNUo1isw29t7xvTJQD+vu/b4gnKbwn3ozHsziYoAWX1AJjphd73nh26axlAytR5sUaVVIBjxZzAFr2fNvnRie9mLQH+HeAfH180kx2AXLsa96Y4lhTjwlyQYozcKoacvA4MmfGBbaXtBMTarGLmC3jHRLPtd4lSRk0=;t5N9sQvJdyRgGrTvrsR1ng=="
+secured: "1/Gt/Gk3XqJuBsqC6L9kVNYONMjlTMtL3fhG8MwoKWhWChndgZ1OZzG6UH29PUvg1uso2da7MlHh538+mrJyRmbR0UY8Cpzkrz/HjiPJVkwDV6ZW4wWRg6Z2mAHA4gDShT0rutIvPyFI+GfNkfAmT+VXHgznpBVUvpjfy4KKsDQZ14FfyWDtl8RNIIDtJeQEV98BOT7VZ6YlK37kF34egFb6NJTFpUBnu0EO8xZ1588Gwn4vT3JIIpFxvOvmKQ8ql1WDzpdrbKpejJSVwGQELKXvEk7e3mb5KmRtZwdmML7TNRP80lAZHodPVW5JctXbxpx5or5jq/IZeTRIbKYrJE9ybt0VWs+NJzDH1hhkff6f5ZMd0Xk5i3a1ijaYyXwcO0fUygff3AJELyqz5wi5Yks+Kj1eZe+pmECM/LrMrTB7FfhvZpb7IZu1gmAt9BdK1lL/0zZzh8k8qhhPLRylWYdtpCuVtKcXhkWZnKQJkpKptt0RWUsFJnO1I73lwLUO7+HtpTxc6G8IFezF1zaqaA==;CMEP2Wk5jHFZvG9sB8+kJw=="
 ---
 
