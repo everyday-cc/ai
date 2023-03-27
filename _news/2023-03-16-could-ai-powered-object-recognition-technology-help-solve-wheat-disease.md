@@ -15,12 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/676f5a93-24e3-4737-8dd4-9ab5b4ffcaca/Rendition/thumbnail/Content/Public"
-    width: 300
-    height: 225
-    isCached: true
-
-secured: "1a9AzEH/mWIVu8DBF8b/fg9g6qmT4zBt3lIOa/gftV1fhZrYwqDA7BPcPyAAavs84fPkzN+LPYuOhBX0vdiDkH94UjNHomIpFeo997iBJiFVyQTFF77cdINuDRDdxriyY8KvW6Qt7L2UvYomfqmV03ove2q7OGhUy8SfVGikhsc8JFaciKlvHoWq+JfGs/wSSSNLmAlWEANPQTz4FDoDyyv2MusjnFk0uQufwklWakcZlia4CSDwLxjJPfU6cTDuNihY9hLzPfYRu5C/AplLOwCZH7ZujnqFLPbxJSXI+FQozM8goQLNqFzHvNSR3MqsznylPsP8Rl+sJU3trj0e3IPU2UEl0DvEwc69sGIpNbU=;ipd9QB4MabNxy5giUpDtRg=="
+secured: "YzqwKzA10ITezWYXv5hyQdz381RqmSyK5BZb3H2zUnSWVOtNrXdl5J1Cgemmj0zJjwuFtCiwKIY54jaIjp6dy/IXSMz6YeSYNj+eTIYE83tCclCU5Nt3JxYF7xrYCOrbD1bChg07wtvgjzW/L+3jp10fi9Y596msxbOOD6i6+fLi7xuTwEvTRe34O62gpX+9RcKOdVB/Q4l9s9fn12wSi46RLpF3ChmActev5KSdo9yNj3NstvpsVnN1LAGhRViiDzXvDIJhaYEpbkIpF9s/4kBqTPovJpADlYB8thewj0sNHOdtTFW4dS//h3WU9KUmuBjqafb/fE5K7y6Gpj7e61YC4Tw765c2o4s0G0GlK18=;+cyHnAQcGW8IRc/zgpVFJQ=="
 ---
 

@@ -19,6 +19,8 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Machine Learning
+  - Microsoft AI
 
 images:
   - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/02/17/10/conceptual_trend_lines_data_tracking_monitoring_analytics_forecasting_future_whats_next_by_solarseven_gettyimages-1213574690_2400x1600-100877726-large-100919482-large.jpg?auto=webp&quality=85,70"
@@ -26,6 +28,6 @@ images:
     height: 800
     isCached: true
 
-secured: "Q9XIJ9vu19ff2QA3AHbjqHbVEGSKv6YscKZ308wLgTNSR0wIQIA8DOUKywxmNNo/Bd2v64fgLADcTbypvIftJzMy5YQJxs3aESaQ4y3d250FLvuG39/Hvzd4c0+frwfjNcxZOGbZhLkIu6BI6ZzRs1SH2KWc9UW/Qfs+NVw23fx5HmlKTdPW8TddWISC4srKowW5YdaalnQCoTQ4JvcyFZ31BLKFv3T5L/B40/kg7p1RIz/pypcKt5jzcyVfWGYAASCfu7LBi6ZbkFMeidnHD9Mfqb8KO72Kx1dEM6DSW8mP1IX6CbJLeXCUYeoAJsxWkRrGjmvjwVcHGF9YHg/vNwh9vo2r1d4WonQM9uLS06g=;h9zRFXuSYKCFKurPLjBoOg=="
+secured: "b2KffcpoOWgMxZnjMk291alIZ8ptAwCKhfrnjhpFkBqPYAn6u95Ac2bfWJQh2a9O1wiO83y2MtyqI4j/bjWqW60E1cxxxY0LDvjcWUfmvSrVSMYCj/Fl/NPGIY4rDFb0XHV2Db9540q2U5Axyjldy3SIy6Qb5rdXeRLY6jeyFKVW0iRFYxgKPUxeHFUrwp3b9EIbw1+jz1qapLGzDjc4SMEQ9qtc0DVJbpL1Ym6K2on1smTiAsiKbFP//4CGL5pVL4MciXahEYAf0Feo7cnn3/dVocW5SQX/Fav8Xbcv1DgwcgElzGainVGtYviumhSqNdPvXNSEkF2gWUdooSDNlXISYzQoViYtESq64nH6D5B89YscOwPZiEZ/UJn8RWygql45szBrbScv8h4PMb3EelxuF9h86rCUPch7cnbp/e+isGQ/onvGbcPcd3cpO4ZtZLl9xAdGlXhW234mU45PXKoND6Q7r83S/4hDKjoY0I/AnQue8ccYi3Xf2ICcJcIr9fn1eynvEru3Wky0EqfGZw==;wkn8kM7eXI0kaeeXhkRtQQ=="
 ---
 

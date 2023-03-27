@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2020-04/ethics.png"
@@ -42,6 +43,6 @@ related:
         height: 443
         isCached: true
 
-secured: "pihWc6LplOPgGZeyRQ9QP+II+xDgObkf4yGFkfdEqpc5FF+aqR3wKJEn3AYB31ocykeoKz/aY0Xf02jb/VLInc6kJla/h42rVSU4XnR20W+T7gD0hR93g5463mBaqi1XZugxtBcm2911MX/TLnBbbOwaWLUGnVqyTvgW3viZBi0Oz9hj3WGwGEp15/5FQwAlUSt9ezkKqu0rFzMtthgtOvaDy52iACETokBO9xeKYCQG7zes+inv3trKdONw05RqCWcCX7dCVjwECTZh31GtR9742stFDA79e1QrA82woxDkuhpsue0Jxn1RvZtsNdF1e1Dr2F7WRzhP6xmu6uv2JRkXir2QiQruWuz6UVLPYvs=;DkTGEpL5je+4eD4CQX3EaA=="
+secured: "nfXIa8LBY5w5E4wd37Uv05VaPETNfQqQiouoNlcjMM9BSQ4uq1Av6btgikTckiw4r7v/ogeYCqnmUPEBNR6dRjWE9s+UPVoXjlEZbp9GHAv5UbcFlyXzlA4Vx/QP3qQURM2YBio0AA84V/Ted0pWnzwqkZ3PIj/WQzmSyw8Q3OoT+tsyMkdiP6/7I7n2nDWhNQZCx8sVQayAie/wF9wbPaF2+CZU2bPRtz9eTZ51cWpmTABVM9UuG9of9xmZA5Y0WQw0rJXwD35ihd73euHKwQ5OFsIEHYqGrlzQXRidXYQNlatossDdsyqc135AV/kWOaiEWssXJXQEDcSw7ldtTrlajI6LviNrr7R7xYeIkMuWq2WxFrwmCF9mmvOiv9EwNYELibz8Aduw4SSp2fFR2dbX1CQuLdDAhAvwEygeFCHj9ku+95dXba/EeziW7w2lEPT8cFZbTSVr0xI5OOiMWDYbYeiNtcBLHQf8ay8H72nKz3X3m/Uoo1c0r+krqXUV0HnBcVxXgGVAPLz6iLGlcA==;CV5YlWl0qbUM/pSf5jkHhQ=="
 ---
 

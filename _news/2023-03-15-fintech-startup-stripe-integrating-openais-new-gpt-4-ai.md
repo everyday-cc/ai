@@ -1,17 +1,17 @@
 ---
 category: news
-title: "Fintech Startup Stripe Integrating OpenAI's New GPT-4 AI"
-excerpt: "Fintech Startup Stripe Integrating OpenAI's New GPT-4 AI By Anna Tong SAN FRANCISCO - Fintech startup Stripe is starting to integrate OpenAI's latest GPT-4 artificial intelligence model into its ..."
-publishedDateTime: 2023-03-15T15:09:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2023-03-15/fintech-startup-stripe-integrating-openais-new-gpt-4-ai"
-webUrl: "https://www.usnews.com/news/technology/articles/2023-03-15/fintech-startup-stripe-integrating-openais-new-gpt-4-ai"
+title: "Fintech startup Stripe integrating OpenAI's new GPT-4 AI"
+excerpt: "SAN FRANCISCO, March 15 - Fintech startup Stripe is starting to ... a new version of the powerful artificial intelligence (AI) technology that has powered chatbot sensation ChatGPT."
+publishedDateTime: 2023-03-15T15:01:00Z
+originalUrl: "https://www.reuters.com/technology/fintech-startup-stripe-integrating-openais-new-gpt-4-ai-2023-03-15/"
+webUrl: "https://www.reuters.com/technology/fintech-startup-stripe-integrating-openais-new-gpt-4-ai-2023-03-15/"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -19,6 +19,6 @@ topics:
   - AI in Finance
   - AI
 
-secured: "h4ma/N+YDaOsLiW2sDJhnlmf8ytQSpipNRHoeJH/bWE8grWfo+2mbshopeatx2oPX3472+ZOvrETxxP3JFEQgzbQYeZEJb0D1cwgLshszeVif+HUuEc0IGFw5J0xq3JhASzPpnQ35XIMclo8fyBQQcTvjFJU7BA4wLXC2Lvd7Mw7E9L7UelTLoOK1dILbLwvoSvs1oT5YMn35Ou4ekoyHqDNNIQN2xxCsOaGB4tqv9U9MAl/BXh7w25MRkUgbA3q/9xFbTGs0JG9jRwZ4TPagYBRQ7lT7DhEM/y6wfNpz+1+fdbUQwGclDBqgFwEeAd7bqPMcUN03UHOmH/SU7SXSYmK8J0gyhX99KDHaybfF7k=;d4RqzWROOlepqttw86k8nA=="
+secured: "qot4w+lKy0OTxoJ+F2pwcPnVclSiiQC6MvR8fSYtO5vPnvIb8OpVgBqkZqyzhm6QXmX8zi3L5MRvAMWW3kO6hquRwjQljETrt73oJJA5ceTn4ZbcIJ83vjgfy1S8nEYXbPGMSwg3vfzufWm2Nm1DqH3y8YnFForOk0imf2uXyDlKJYUBc/fMW0r01Ukb4YTNlr0k6g81OlhkJHHm2BIZ1FFiiVbCxRiZns0Q5fJW4UtBab7KrhQiJjjVhyVYzGwytvULeXLG9OHx6wZW/kknF5ORKYgNxO540CXicqxnqi6LZKduo4tl6dROfWyTeWe6+gPyhnotUmZET6aGcBqjeXLCtrIPuugHMFQxZL56pYo=;i0jSACnI5gbSjDWZvWFm0w=="
 ---
 
