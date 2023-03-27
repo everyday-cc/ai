@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A Closer Look on the Facial Recognition Access Control Solutionss Market| Opportunities and Challenges (2023 to 2029)"
+    excerpt: "The \"Facial Recognition Access Control Solutions Market\" analysis [UPDATED REPORT] 2023 provides an assessment of"
+    publishedDateTime: 2023-03-26T20:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/a-closer-look-on-the-facial-recognition-access-control-solutionss-market-opportunities-and-challenges-2023-to-2029-2023-03-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "TiCaP+yjvxecLih5Ox33yg87P3IYWgnLrw8/h0eSgP7JdffRet8Ja17x7ENEfEG/C3HvuG7zVFSdYjTilzD7H4cys6TUwA6/CPvaGEtL13oayp3/5ij7BLU40DpIGlQIirnXhhcHw4lrVjTwc6KfIzRO86pmSFQMa/iYWSXpWHzy8EsQNLDwNPQGtlD0oDdwvr12H1LqEe32sDDZgbG3d2Gyp6dsz+yRNKMTa+3RIsR//cC5FpJfUqdY5AuPolZQdL+vHVRICZ9dbtrfpSSw01JdvMOhzHbgg3Gu9Ny2asnO1bHns0pagDFjgh5/lv9hVt+LtF/Q3eaXiakmlfYxq+w/o4sJN5FnmHesJquhh+4=;LBHfendUb1EWtw2unuklSQ=="
 ---

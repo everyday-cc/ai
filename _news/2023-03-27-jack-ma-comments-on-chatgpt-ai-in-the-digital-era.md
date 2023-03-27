@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Jack Ma comments on ChatGPT, AI in the digital era"
-excerpt: "rather than being controlled by AI. Human brawn and brains may not match those of machines, but machines only have chips, while humans have \"heart\", Ma said. Ma said while the industrial era is knowledge-driven and characterized by knowledge-focused ..."
-publishedDateTime: 2023-03-27T09:32:00Z
-originalUrl: "https://www.chinadaily.com.cn/a/202303/27/WS64215c74a31057c47ebb6c95.html"
-webUrl: "https://www.chinadaily.com.cn/a/202303/27/WS64215c74a31057c47ebb6c95.html"
+excerpt: "A response by ChatGPT, an AI chatbot developed by OpenAI, is seen on its website in this illustration picture taken Feb 9, 2023. [Photo/Agencies] Jack Ma, founder of Alibaba Group"
+publishedDateTime: 2023-03-27T10:45:00Z
+originalUrl: "https://global.chinadaily.com.cn/a/202303/27/WS64215c74a31057c47ebb6c95.html"
+webUrl: "https://global.chinadaily.com.cn/a/202303/27/WS64215c74a31057c47ebb6c95.html"
 type: article
 quality: 39
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "http://img2.chinadaily.com.cn/images/202303/27/64215d5da31057c4b4b80291.jpeg"
+  - url: "https://img2.chinadaily.com.cn/images/202303/27/64215d5da31057c4b4b80291.jpeg"
     width: 720
     height: 480
     isCached: true
@@ -102,6 +102,6 @@ related:
       domain: indianexpress.com
     quality: 8
 
-secured: "EZZ4kIhmsjoi0XnLaMBpe07+WHgWnf7xXE08TfS/TQtEua6q1n3VvaMIwCEp5L5YO4F/vHf9WFmSAMZaZSgTkSH1/Yg6VFpCDGHMh0Pvwu3lL8GGEYfnjV0DJPmiWdKTjs1NNBnItbdQ676Rke1g99WzLuPC9Nu2n7EPCPV+aUrR9ozntIuPpcL2mw6F0ohZZMhGEw6D6s7VWMuc9IoQgFLLhJkFdmI1R4E2HN9vGT+c+qTYX/SEYUdJ8erBPJ/X942M9LDjEWfSNMVxNLT1BrUucolq5yEObS4xReRJLWYGKHFUltFJxQkYGf2Vo37eOwiKY4tq5HU4kRrUhxbnKN0zOqlgZ75WYwdPvTJSFZU=;2v5NgVJoAAcxwaMthT+drw=="
+secured: "/xW9U5siO2IUyqFIc/zyZBzFyG10kR1mndHX4OtKiDUIqZqw/oe9m2iGl0zctDQz2+tlxXH8Fi57B3IhBuBYHAuCmHkYPRfU2bkUmpGiOhR+x519q7QNK9UR6qar5NA4LsOqgR5hJkj3otYIWo0UYmZzS4BIUgE+qXAjYT0Omxg56ZaV+HAUN3MpD3+3xwbATHXaR/2iSUylpOwRjT+JHPvtHReoSRj6RLKSATQVsEYQGHkUXCPYzQPFHCCeCYzGNybBNnvPNaxgtCuWHgn3QGxzv7ghhPDCKxgC6eHhbhnXF8xUsEveSGd46S5oBxu4FO0wckbg8oxoLO0G4hscPqPoTakfoS2fySnu4k1pDqU=;QnWc5mpHyrj8f4d9wB4tjQ=="
 ---
 

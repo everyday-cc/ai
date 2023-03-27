@@ -7,7 +7,7 @@ originalUrl: "https://www.fastcompany.com/90869308/meet-the-jurors-for-the-2023-
 webUrl: "https://www.fastcompany.com/90869308/meet-the-jurors-for-the-2023-innovation-by-design-awards"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Olivier Awards 2023: we meet the pioneers winning this year's industry recognition award"
+    excerpt: "Following the Olivier industry recognition awards nominees’ lunch in London, winners Pippa Ailion, Andrew Bruce, Amanda Parker and Peter Wilson discuss their theatre careers and being celebrated by th"
+    publishedDateTime: 2023-03-27T10:25:00Z
+    webUrl: "https://www.thestage.co.uk/features/olivier-awards-2023-we-meet-the-pioneers-winning-this-years-industry-recognition-award"
+    type: article
+    provider:
+      name: The Stage
+      domain: thestage.co.uk
+    quality: 15
+    images:
+      - url: "https://d3s3zh7icgjwgd.cloudfront.net/AcuCustom/Sitename/DAM/273/5J0A4173_Standard.jpg"
+        width: 700
+        height: 455
+        isCached: true
 
 secured: "trz2V5Z7+u9lFOam4q5QuIdLYO4mCKXaoQI3KfBDU9mz5KTWvjsfb1LJ1tzSXMEBZ4qibOckIB6Jm0Xcu+zGEbOqwHGIaGJUNI1WbHIBF76vAyZzzcL2phwyrlzyhNd2mxgI5m/fnpQdy5EXmZ6HTVjOZLSmJKR+tMmym1pUzjc/Wgai5yltpjgix82TDQMk+JQqOwx/QKcx5E3phKgCqyVOm6isebm6mRoyuUkw3p8atM6CX2pwCFC1G2gkm5O6261n9GKH2jWwx76CiyBdHD6ZNL4/TVl5LTj371kp17ZZqMrT7ekBT6kHL0MCzJwP5z3YIWbCzcfrjJlxeJKssp1qwVKghwu4ImoTD3yrzf7Zi4DxUk9kPq/fpRm6N1pOZNhjWI72TY//gW3pwX7Q7ituXNMIDEH8eFqA12Z82ChVi0tXaoHbzzih+szsWVanQuJTRH9VCfXhcNcuZ0/hDI7esPLJFzg8x5L/hBjU2K+s0diYTac2JYoFQOGQrTn0apYYY+xK4V6pGnrTPO8NkQ==;w5ac5lGkVie380eT3gTFVw=="
 ---

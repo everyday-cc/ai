@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-excerpt: "The London-based CLM provider’s latest offerings are powered by a combination of AI technologies including OpenAI’s latest GPT model GPT-4, Microsoft Azure, IBM Watson and ContractPodAi’s own proprietary AI. SALI’s new API and web application can ..."
-publishedDateTime: 2023-03-25T17:15:00Z
-originalUrl: "https://www.law.com/legaltechnews/2023/03/25/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
-webUrl: "https://www.law.com/legaltechnews/2023/03/25/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+publishedDateTime: 2023-03-25T17:12:00Z
+originalUrl: "https://www.law.com/dailyreportonline/2023/03/25/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+webUrl: "https://www.law.com/dailyreportonline/2023/03/25/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
 type: article
 quality: 39
 heat: -1
@@ -107,6 +107,6 @@ related:
         height: 209
         isCached: true
 
-secured: "7HZjpPuf/0IW2mACzNRxW+sfSCmM5X9ziBrqj2xRQKYSChmB9Jsf5m6G22OKjLG8RlWr/X0B5hTleXP7cAqMdJh5bimw2vwkPg8qnH9goYZNukZLWseaHJWAiuE50vThaXCktLOyB89mfVWjTJzwLM94wBMvR9Eyh3NRsTFc5YmCRMcCO1cknPjHXxwgQAeR3mj1IAd8ETLrcResq2NXz65eCyfQ4quEdvm71PYuSBJYaEbdRVIAS/i6KxWt4VwA3r2yBYPgtJcjeac+SU/l4Ss2dvPqoLQR6lfFB3mB0cpHpEL+P4vwOuwyeXftCQaCwNGzo8puyGkErRSNCq77AgXy5LfWb/TE+v7eQ/clsNnWSjpi6vvmycDkTPHHXX4T2f2lcrEp2TC01IFTqZvsPTFkXLgimwAqNSPE8FIHxcI4xMFmGcPIoz72VrUeUBA8Ny1ReQold2tBeBbKpT21+W4jFDMT4EoY+eS/OxHhzCbkZkZC7vqj4dtsPx+LKVcef3DS75gy6+fo8IAZ0CJlbw==;xwSJp2Zb0ZIk3rZrFORirg=="
+secured: "Tijjv/OLm3eOhdLnuY/9fg2nbngVsu/cRhZV7MywBGHam79bytpC7ISP7zfWaLYDwm2fd0vBYIeblQl/HGX3u3VBb/1cyIms1Kg0RQu1LgMyKpqnpsMAYbOqpNJAviSWBT8dWRIMVCAgd12uSHWT0wsOcBMLAT59M9t/tm8I3SQe/ZnKvbSJ542QQ3mnkQjKSBg8KAVWE5OUYCIACngP6NqRr2Gka3tnhATu4EFd7E/YHhUwszJ2vewqwZvHWVQUktC4hDLaIFItpXZGHXU/zooPouHfZvvgWSGROysCI+IBc7y7btRtYGggvXX7huzdTVmNuZduSanPs1GtQ6rDSgPNW84aENckSaNIOVDq1LU=;v45HZm0NkhrGi29Xw6u8Ag=="
 ---
 

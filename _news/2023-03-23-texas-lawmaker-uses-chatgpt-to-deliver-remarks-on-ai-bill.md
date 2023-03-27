@@ -56,16 +56,16 @@ related:
         height: 500
         isCached: true
   - title: "Jack Ma comments on ChatGPT, AI in the digital era"
-    excerpt: "rather than being controlled by AI. Human brawn and brains may not match those of machines, but machines only have chips, while humans have \"heart\", Ma said. Ma said while the industrial era is knowledge-driven and characterized by knowledge-focused ..."
-    publishedDateTime: 2023-03-27T09:32:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202303/27/WS64215c74a31057c47ebb6c95.html"
+    excerpt: "A response by ChatGPT, an AI chatbot developed by OpenAI, is seen on its website in this illustration picture taken Feb 9, 2023. [Photo/Agencies] Jack Ma, founder of Alibaba Group"
+    publishedDateTime: 2023-03-27T10:45:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202303/27/WS64215c74a31057c47ebb6c95.html"
     type: article
     provider:
       name: 中国日报网
       domain: chinadaily.com.cn
     quality: 39
     images:
-      - url: "http://img2.chinadaily.com.cn/images/202303/27/64215d5da31057c4b4b80291.jpeg"
+      - url: "https://img2.chinadaily.com.cn/images/202303/27/64215d5da31057c4b4b80291.jpeg"
         width: 720
         height: 480
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://en.as.com/latest_news/bill-gates-predicts-how-artificial-int
 cdnAmpWebUrl: "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/latest_news/bill-gates-predicts-how-artificial-intelligence-will-evolve-n/?outputType=amp"
 type: article
 quality: 61
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -26,63 +26,6 @@ images:
     width: 644
     height: 362
     isCached: true
-
-related:
-  - title: "AI Will Revolutionize Your Inbox"
-    excerpt: "With the introduction of new AI services from Microsoft ... Copilot is built on Microsoft’s Azure cloud platform and plays well with other Microsoft apps and Salesforce. Shortwave is built atop Gmail and prides itself on being open and decentralized."
-    publishedDateTime: 2023-03-22T19:40:00Z
-    webUrl: "https://www.forbes.com/sites/lisabodell/2023/03/22/ai-will-revolutionize-your-inbox/"
-    ampWebUrl: "https://www.forbes.com/sites/lisabodell/2023/03/22/ai-will-revolutionize-your-inbox/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lisabodell/2023/03/22/ai-will-revolutionize-your-inbox/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641b57c6c1e78edb1f70461c/0x0.jpg?format=jpg&width=1200"
-        width: 1000
-        height: 562
-        isCached: true
-  - title: "Bill Gates praises artificial intelligence in blog post, calling it 'revolutionary'"
-    excerpt: "Microsoft co-founder Bill Gates on Tuesday described artificial intelligence (AI) as \"revolutionary\" and said it will need \"rules of the road\" as it continues to develop. In a Tuesday blog post, Gates touted AI, saying it will change how people live and ..."
-    publishedDateTime: 2023-03-23T00:02:00Z
-    webUrl: "https://www.foxbusiness.com/technology/bill-gates-praises-artificial-intelligence-blog-post-calling-revolutionary"
-    ampWebUrl: "https://www.foxbusiness.com/technology/bill-gates-praises-artificial-intelligence-blog-post-calling-revolutionary.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/bill-gates-praises-artificial-intelligence-blog-post-calling-revolutionary.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 68
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/1de5ea89-63db-4743-8c42-47f109937fcc/5c2392d4-be14-460d-884d-7c83d1dcb9d6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "MedTech Bigwigs in Spotlight as AI Revolutionizes Healthcare"
-    excerpt: "Per a report by Grand View Research, the global AI in cancer diagnostics market size was $93.2 million in 2021 and is expected to expand at a CAGR of 28.0% by 2030. Early detection of cancer is possible through AI for screening and diagnosis of cancer,"
-    publishedDateTime: 2023-03-24T17:02:00Z
-    webUrl: "https://www.nasdaq.com/articles/medtech-bigwigs-in-spotlight-as-ai-revolutionizes-healthcare"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
-  - title: "These are the 34 jobs OpenAI suggests will secure you against the AI revolution"
-    excerpt: "The creators of recent AI phenomenon, ChatGPT ... Additionally, LLMs can be used to translate content into different languages, which can help to reach a wider audience. And, I can be used to generate personalized content, such as news articles that ..."
-    publishedDateTime: 2023-03-23T15:12:00Z
-    webUrl: "https://www.pcgamer.com/these-are-the-34-jobs-openai-suggests-will-secure-you-against-the-ai-revolution/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 35
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ScPYLdpxFRGNZK7zfy5Lh6-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "9ORE1OoSOJHFNd3fDFyT3/Ewq4hwxq2b37FVP+4ig7uwuK2rmz5m1c55kynSH1VZGKgKSBR3qvfERTSKYzXJ80RIO2sqy4AKaOhg6uRsHwk0jDNR1bVAGN0JGi2V6JJcC3uIGEyls2anbzYwVjj5mORGEoea7eiVWOHhPdcYUxKSWsV4nH31xuvSHrx2hq/+kjNKSCFWOsdQlQUAuxPQxkFWrKiDDtj/ddO2m4uU2suqv47Bj/6Jm2+blcQhVuOSxUiibdwms5++sOklrkL42gx2XEg8VRlPKKucM+X1nglUhn4FADxFP/JyvCJ4/DC+/WH7NPZvZkSuGS4vphi/UGjIGB/gd1FQrPlLjAJ1T0U=;cWy/wa6bq26KGysXNcuKeg=="
 ---

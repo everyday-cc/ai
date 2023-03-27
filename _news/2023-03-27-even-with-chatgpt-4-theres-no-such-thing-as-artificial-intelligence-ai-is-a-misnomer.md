@@ -64,9 +64,9 @@ related:
       domain: nbcnews.com
     quality: 49
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "The London-based CLM provider’s latest offerings are powered by a combination of AI technologies including OpenAI’s latest GPT model GPT-4, Microsoft Azure, IBM Watson and ContractPodAi’s own proprietary AI. SALI’s new API and web application can ..."
-    publishedDateTime: 2023-03-25T17:15:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/03/25/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-03-25T17:12:00Z
+    webUrl: "https://www.law.com/dailyreportonline/2023/03/25/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
     type: article
     provider:
       name: Law

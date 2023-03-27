@@ -9,7 +9,7 @@ ampWebUrl: "https://abc7news.com/amp/cruise-ride-service-self-driving-cars-drive
 cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/cruise-ride-service-self-driving-cars-driverless-vehicles-san-francisco-storm/12993121/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Photos: Self-driving cars get tangled in downed Muni wires during storm"
-    excerpt: "While humans can see the road closure signs, viewer photos sent to KRON4 show autonomous vehicles cannot. Photos show two self-driving cars that apparently did not detect road closure tape and drove through the closed street due to downed Muni wires at the ..."
-    publishedDateTime: 2023-03-22T17:47:00Z
-    webUrl: "https://www.kron4.com/news/bay-area/photos-self-driving-cars-get-tangled-in-downed-muni-wires-during-storm/"
-    ampWebUrl: "https://www.kron4.com/news/bay-area/photos-self-driving-cars-get-tangled-in-downed-muni-wires-during-storm/amp/"
-    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/photos-self-driving-cars-get-tangled-in-downed-muni-wires-during-storm/amp/"
-    type: article
-    provider:
-      name: KRON4 News
-      domain: kron4.com
-    quality: 44
-    images:
-      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2023/03/Cruise-cars-2.jpg?w=1280"
-        width: 1280
-        height: 960
-        isCached: true
   - title: "Photos Emerge of Self-Driving Cars 'Tangled Up' During Storm"
     excerpt: "The storm that passed over San Francisco the night of March 21 was strong enough that it knocked out power and toppled trees. It also disabled some driverless cars that apparently should not have been out in the storm in the first place. A neighborhood ..."
     publishedDateTime: 2023-03-23T03:37:00Z

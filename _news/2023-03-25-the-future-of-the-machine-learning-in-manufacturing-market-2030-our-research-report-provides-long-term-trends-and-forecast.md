@@ -136,20 +136,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 44
-  - title: "2023, Automatic License Plate Recognition (ALPR) Systems Market Latest Research Report by 2028"
-    excerpt: "What are the most significant challenges that the Automatic License Plate Recognition (ALPR) Systems market could face in the future? Who are the leading companies on the Automatic License Plate Recognition (ALPR) Systems market? What are the main ..."
-    publishedDateTime: 2023-03-22T17:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-automatic-license-plate-recognition-alpr-systems-market-latest-research-report-by-2028-2023-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2023 Artificial Intelligence in Manufacturing and Supply Chain Market Size, Growth | Global Industry Trends [2029]"
     excerpt: "Mar 23, 2023 (The Expresswire) -- [103+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Artificial Intelligence in Manufacturing and Supply Chain Market” Size ..."
     publishedDateTime: 2023-03-23T18:38:00Z

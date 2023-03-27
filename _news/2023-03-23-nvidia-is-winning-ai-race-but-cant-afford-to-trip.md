@@ -44,6 +44,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "8 Big Announcements At Nvidia’s GTC 2023: From Generative AI Services to New GPUs"
+    excerpt: "improve GPU performance and make GPU computing more accessible. These included the DGX Cloud AI supercomputing service, the AI Foundations services for custom generative AI applications, the L4 and H100 NVL specialized GPUs, and the Omniverse Cloud ..."
+    publishedDateTime: 2023-03-22T21:28:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/8-big-announcements-at-nvidia-s-gtc-2023-from-generative-ai-services-to-new-gpus"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 49
+    images:
+      - url: "https://www.crn.com/resources/027f-1798c9f33803-b9db66b81116-1000/first-slide.jpeg"
+        width: 611
+        height: 458
+        isCached: true
 
 secured: "MAYXj6KWEFVNpLaxct3f4NwbuTeRYWWbo3HrQYxLKKJFwuPRgapkbt7APyO7n8Kc13msdGnymquscSoSWqN2hv8PtTKsR3JdkO2RlsXgAOwRlQaJqXrcnFixZiiy+Uu3J9+m/v6vcHYJAUU4Mu8p102URRrrnk8B/4KWEk2V7yA7PhkuXde2yxKD/m6+UNF3XhnUU9u3s2yRFAG/2MOBecL3b7Kk0C0E6UUAyngrIkMjLDS+5XGZWhnfU21m8rSB0HiMhzLEdpix5PNZewt7RgsBhMROEF6Mq/yGK2Cf5YaHKHtbhH1CVNFJTvKhuM+xkvdzEupn07r1vuu+4t3lIg5sa+qeCqOW+AFliKCS3GVVWQhySC3TMERzf84JewjukrCO8wDF5jxco4lDu9XyoOdb39fzUsM6pKII/XOWnIETuTNyMFeEy9sqDZwOo886mwPhN5MQ12whjZZd11cf4L8Gno4cH6VwuU2Qo6CHczAfDC6tU+T861wXtjiM68D0KZBaq2ClmTxOlIRYdHq31w==;aEgo4bICRmkKUTMUiBeskQ=="
 ---

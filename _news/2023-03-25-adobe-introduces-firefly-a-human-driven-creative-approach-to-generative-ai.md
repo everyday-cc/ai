@@ -30,38 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ethical AI art generation? Adobe Firefly may be the answer"
-    excerpt: "Since the mainstream debut of image synthesis models last year, the field has been fraught with issues around ethics and copyright. For example, the AI art generator called Stable Diffusion gained its ability to generate images from text descriptions after ..."
-    publishedDateTime: 2023-03-22T17:28:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/03/ethical-ai-art-generation-adobe-firefly-may-be-the-answer/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/03/ethical-ai-art-generation-adobe-firefly-may-be-the-answer/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/ethical-ai-art-generation-adobe-firefly-may-be-the-answer/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 104
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/03/adobe_firefly_hero-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Google’s Generative AI System, Bard, Has The Potential To Revolutionize Healthcare"
-    excerpt: "J.P. Morgan Insights recently published an article titled “Is Generative AI a Game Changer?” explaining that “Generative AI — a category of artificial intelligence algorit"
-    publishedDateTime: 2023-03-26T20:18:00Z
-    webUrl: "https://www.forbes.com/sites/saibala/2023/03/26/googles-generative-ai-system-bard-has-the-potential-to-revolutionize-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/saibala/2023/03/26/googles-generative-ai-system-bard-has-the-potential-to-revolutionize-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/03/26/googles-generative-ai-system-bard-has-the-potential-to-revolutionize-healthcare/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 98
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6420a8765c54a09c9fe2d103/0x0.jpg?format=jpg&crop=4170,2346,x6,y54,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Adobe launches Firefly generative AI creative engine at Summit"
     excerpt: "Adobe launched a palette of products and innovations, but the key advance is generative AI, centered on Adobe Firefly."
     publishedDateTime: 2023-03-23T04:30:00Z
@@ -78,22 +46,47 @@ related:
         width: 1387
         height: 799
         isCached: true
-  - title: "AI technology may be able to generate our mind’s images"
-    excerpt: "Researchers are developing artificial intelligence technology they say could generate the very images in our brains. NBC News’ Jacob Ward shares more on the extraordinary research and the concerns about what mind reading technology could mean for the future."
-    publishedDateTime: 2023-03-24T23:30:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/ai-technology-may-be-able-to-generate-our-mind-s-images-166796869820"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo166796869820"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo166796869820"
+  - title: "The Intersection Of AI And Human Creativity: Can Machines Really Be Creative?"
+    excerpt: "Explore the captivating world of AI creativity as we delve into the potential of machines to generate original content, blurring the lines between human and artificial ingenuity."
+    publishedDateTime: 2023-03-27T06:48:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/27/the-intersection-of-ai-and-human-creativity-can-machines-really-be-creative/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/27/the-intersection-of-ai-and-human-creativity-can-machines-really-be-creative/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/03/27/the-intersection-of-ai-and-human-creativity-can-machines-really-be-creative/amp/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/1679700278944_nn_jwa_ai_mind_reading_230324_1920x1080-1zk213.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64213c10fc7ed6f0a3eb47ae/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "How Artificial Intelligence Can Boost Creativity"
+    excerpt: "Artificial Intelligence(AI ... In the country’s rural parts, even the main healthcare facilities, let alone sub- centers, frequently face appallingly low staffing levels and lack basic amenities (Weforum.org, 2022). To assist in this scenario, AI ..."
+    publishedDateTime: 2023-03-23T11:40:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-can-boost-creativity/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-can-boost-creativity/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-can-boost-creativity/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/11/Pic-1-7.png"
+        width: 665
+        height: 381
+        isCached: true
+  - title: "This generative AI tool actually teaches kids how to write"
+    excerpt: "As ChatGPT threatens higher education, edtech startup Pressto is using AI to help kids learn to write. Tech world matriarch Esther Wojcicki is advising."
+    publishedDateTime: 2023-03-26T05:00:00Z
+    webUrl: "https://www.fastcompany.com/90869664/pressto-generative-ai-writing-education-esther-wojcicki"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "5Ya6DkSQsEfdwXqfq7PL40qgftA+bey7l/xglcnXqEd/BXY1ixZoa+rni5gO3Yts9prGWgQH8pNx1sMa8Ws9bKf3QMHwck4qGACpCQTGlwSluzgDTa1hx3PBUk9x/CqtEETrplz5adJ3tyb91xohyB2ZRN+PSGKJtyHLkoSE9e5jC2EfPDMCYVfja1ZodKM6BeUSlh96VNAkvhzJpUDeugddONWy5SXf6ryETpnwbHsuTJ3uA9UOkERHa0g9CdrQsCxIP9pDCY66bTUDAMOjMml1ztA/mxwUjYiLnzVSgFIhEDMS5BTBwOOf4ftAPJQFBGDUpD0Ph5Bs5Sd3itJmmVPC6LyKCL3LdV7uRGb0fxeJ+m+do8s3B2R+7nyj38Ec1FM34/TNt3B0T4V8++VFaoXj3idj97b/fskJAib577nN0u1ACVVugUUi3AWf4SScdxBiZnYBTsBdqyjbnhNWIF5lT3PuagOzQjH5wpCHuqL5fJfrK9UBi+XD2UEzFrj2hnu9t2I2Ik72GX1prEHT8g==;bloUghil4WBfjC4/ZBHiow=="
 ---

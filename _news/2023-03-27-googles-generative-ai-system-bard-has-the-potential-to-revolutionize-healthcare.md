@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/saibala/2023/03/26/googles-generative-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/03/26/googles-generative-ai-system-bard-has-the-potential-to-revolutionize-healthcare/amp/"
 type: article
 quality: 98
-heat: -1
-published: false
+heat: 128
+published: true
 
 provider:
   name: Forbes
@@ -31,70 +31,45 @@ images:
     isCached: true
 
 related:
-  - title: "Ethical AI art generation? Adobe Firefly may be the answer"
-    excerpt: "Since the mainstream debut of image synthesis models last year, the field has been fraught with issues around ethics and copyright. For example, the AI art generator called Stable Diffusion gained its ability to generate images from text descriptions after ..."
-    publishedDateTime: 2023-03-22T17:28:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/03/ethical-ai-art-generation-adobe-firefly-may-be-the-answer/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/03/ethical-ai-art-generation-adobe-firefly-may-be-the-answer/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/ethical-ai-art-generation-adobe-firefly-may-be-the-answer/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 104
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/03/adobe_firefly_hero-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Adobe launches Firefly generative AI creative engine at Summit"
-    excerpt: "Adobe launched a palette of products and innovations, but the key advance is generative AI, centered on Adobe Firefly."
-    publishedDateTime: 2023-03-23T04:30:00Z
-    webUrl: "https://www.techrepublic.com/article/adobe-firefly-ai-creative-engine-summit/"
-    ampWebUrl: "https://www.techrepublic.com/article/adobe-firefly-ai-creative-engine-summit/amp/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/adobe-firefly-ai-creative-engine-summit/amp/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 87
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/03/Hero-adobe-launches-firefly-AI.png"
-        width: 1387
-        height: 799
-        isCached: true
-  - title: "AI technology may be able to generate our mind’s images"
-    excerpt: "Researchers are developing artificial intelligence technology they say could generate the very images in our brains. NBC News’ Jacob Ward shares more on the extraordinary research and the concerns about what mind reading technology could mean for the future."
-    publishedDateTime: 2023-03-24T23:30:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/ai-technology-may-be-able-to-generate-our-mind-s-images-166796869820"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo166796869820"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo166796869820"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/1679700278944_nn_jwa_ai_mind_reading_230324_1920x1080-1zk213.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Adobe Introduces Firefly, A Human-Driven Creative Approach To Generative AI"
-    excerpt: "Vice President & Principal Analyst, Modern Work, Melody Brue, covers Adobe's generative AI announcement, Firefly, this week at its annual Adobe Summit conference."
-    publishedDateTime: 2023-03-24T21:28:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/03/24/adobe-introduces-firefly-a-human-driven-creative-approach-to-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/03/24/adobe-introduces-firefly-a-human-driven-creative-approach-to-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/03/24/adobe-introduces-firefly-a-human-driven-creative-approach-to-generative-ai/amp/"
+  - title: "AI Will Revolutionize Your Inbox"
+    excerpt: "With the introduction of new AI services from Microsoft ... Copilot is built on Microsoft’s Azure cloud platform and plays well with other Microsoft apps and Salesforce. Shortwave is built atop Gmail and prides itself on being open and decentralized."
+    publishedDateTime: 2023-03-22T19:40:00Z
+    webUrl: "https://www.forbes.com/sites/lisabodell/2023/03/22/ai-will-revolutionize-your-inbox/"
+    ampWebUrl: "https://www.forbes.com/sites/lisabodell/2023/03/22/ai-will-revolutionize-your-inbox/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lisabodell/2023/03/22/ai-will-revolutionize-your-inbox/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 85
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641e14bbd57fc229c2eb47d8/0x0.jpg?format=jpg&width=1200"
-        width: 1100
-        height: 733
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641b57c6c1e78edb1f70461c/0x0.jpg?format=jpg&width=1200"
+        width: 1000
+        height: 562
         isCached: true
+  - title: "Chat GPT vs. Google Bard: Generative AI Comparison"
+    excerpt: "Google runs it on top of its BERT AI language model as a way to answer questions, conduct sentiment analysis, and perform language translation. Its answers go far beyond those typically given during a traditional Google search. While ChatGPT can manage ..."
+    publishedDateTime: 2023-03-22T21:36:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/chat-gpt-vs-google-bard/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 69
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2022/01/Screen-Shot-2021-12-30-at-12.10.38-PM.png"
+        width: 412
+        height: 410
+        isCached: true
+  - title: "MedTech Bigwigs in Spotlight as AI Revolutionizes Healthcare"
+    excerpt: "Per a report by Grand View Research, the global AI in cancer diagnostics market size was $93.2 million in 2021 and is expected to expand at a CAGR of 28.0% by 2030. Early detection of cancer is possible through AI for screening and diagnosis of cancer,"
+    publishedDateTime: 2023-03-24T17:02:00Z
+    webUrl: "https://www.nasdaq.com/articles/medtech-bigwigs-in-spotlight-as-ai-revolutionizes-healthcare"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
 
 secured: "JW16Wfq//uBFrN9s+GSQVxKTo5WJqeLVtZbvGOtTt5nVUviH652MJiMvy/0QdZqeGHdc4cCCZUSBDn9EVNpPnI9mqn4sG3uZSlNFtbZAgbS585It15AJmWIDz2Xss1SggF3jwJqM/e9K0+3p2gcOWLJFTnWoltVwpieuesWoKhqAOkFMWrFV2cQGTNLuharOqGXrLCfr9YPuoaCaQTaz2R+CMKTuW/q0fteZPDuXKbTanSTAqlcyFBfXBsL5MzR2eQed7bjX/w6Uu5D3oNiMRYuycgUjLAKc0BV1V2JZFbrGNZrFhqPDY0sv0NmSLgHLxyOUJE9+qidB/KFhPC0SprcGpN0O+wbb4w9zrAE3n75dpPItBTjeh4Kb8AP/Wcb8OwTy6D8B0MyyepM8HANZimWyqBYt/3DWSQe3QosED2WjdMk3xBysRvMFlvUsAAQOFBk3bx6z2xI/XqSOY689lUUVDOvesOzWyJRsPOUNpcs0Zi6RRy2Ts2e9lUEWPwrOyO8nIZeL8ZL1zy0kamiAlg==;S0Oi7z4nNdM6WjCrzU4F/A=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://bgr.com/tech/how-to-use-bings-free-image-creator-to-genera
 webUrl: "https://bgr.com/tech/how-to-use-bings-free-image-creator-to-generate-ai-images/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,38 @@ images:
     width: 2560
     height: 1440
     isCached: true
+
+related:
+  - title: "AI technology may be able to generate our mind’s images"
+    excerpt: "Researchers are developing artificial intelligence technology they say could generate the very images in our brains. NBC News’ Jacob Ward shares more on the extraordinary research and the concerns about what mind reading technology could mean for the future."
+    publishedDateTime: 2023-03-24T23:30:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/ai-technology-may-be-able-to-generate-our-mind-s-images-166796869820"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo166796869820"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo166796869820"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/1679700278944_nn_jwa_ai_mind_reading_230324_1920x1080-1zk213.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "DOD’s Maynard Holliday Says Department is Looking into Generative AI for Decision Support"
+    excerpt: "The DOD is working with IBM and the Defense Advanced Research Projects Agency to develop a neuromorphic inference chip, called NorthPole, that’s based on human brain architecture and co-locates memory and compute. “We’re going to be able to do AI at ..."
+    publishedDateTime: 2023-03-24T09:55:00Z
+    webUrl: "https://www.govconwire.com/2023/03/dods-maynard-holliday-says-department-is-looking-into-generative-ai/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 30
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2023/03/Maynard-Holliday_1200x628.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "B2xrSlF/uCyYz32ssIW1STYdNtGRi/B/J7f6SMmzlTfmN0lufaLRYAcsu6cmkHL0V4b6MJDh50J5ASp4M26nfQcPdXrFERGRtgJ7BYEwqPzB4X71cxWs2XC1i3sMBlP/zdHJS21lv0rNjOpqKoioe5eZ4LWK88fFM5CC7X9N7nAszuXAw9qPWH0H7lyFsT+zAz2Y9JpmXL/nN8uut8XU6cG9BjCZFw5MnkgaF+F8ti1mPwkg7nD66ZDuJ2uC0nvy0FFcYFeGsi28dELVDFPYPncb2cvk4dpLRDBzNpYaPof0LxCnFJdkAEcYIJSk4byF5DLk1PK2ZYM2Cb9UFjpmAVA3JSIzAOq/QJhZKVMAgrtqDrwuYqluPeMQrE7wHaDrm25R527WcJ7kMH0L/hrBlH8u+ZcwoQIyBlTrmfiEw19JQqfHStcK1P7Yh8SrOrx7En9cgwPbkbz+Njk5C62o/wLyleR1RTYVsaGAJA9Oy5+qi9M/msCPPTMqustpAtZCHjXL1TJMdzWjrSIG3bexgQ==;Butrfs1jPWhKkMX2AlxLEQ=="
 ---

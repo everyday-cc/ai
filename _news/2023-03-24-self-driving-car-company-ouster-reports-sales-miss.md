@@ -74,19 +74,19 @@ related:
         width: 1312
         height: 738
         isCached: true
-  - title: "Driverless cars ready for hire in suburban Beijing"
-    excerpt: "Driverless taxis are now available for hire in suburban Beijing, marking a new chapter in intelligent transport, China Daily reported Monday. Beijing earlier in March granted licenses to Chinese tech giant Baidu and autonomous vehicle startup Pony."
-    publishedDateTime: 2023-03-27T06:48:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202303/27/WS6421366ba31057c47ebb6c06.html"
+  - title: "DRIVERLESS CARS READY FOR HIRE IN SUBURBAN BEIJING"
+    excerpt: "Driverless taxis are now available for hire in suburban Beijing, marking a new chapter in intelligent transport, Xinhua quoted the China Daily report on Monday. Beijing earlier in March granted licences to Chinese tech giant Baidu and autonomous vehicle startup Pony."
+    publishedDateTime: 2023-03-27T10:20:00Z
+    webUrl: "https://www.bernama.com/en/world/news.php?id=2176670"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
+      name: bernama
+      domain: bernama.com
     quality: 39
     images:
-      - url: "https://img2.chinadaily.com.cn/images/202303/27/6421366ba31057c4b4b7ffd4.jpeg"
-        width: 540
-        height: 360
+      - url: "https://www.bernama.com/storage/photos/01f08507f0fe30d5ac21553f5f861dd362f4f61fed9af"
+        width: 1110
+        height: 694
         isCached: true
   - title: "Millimeter Wave Radar for Self-Driving Car Market Business Overview 2023, and Forecast to 2030 | Robert Bosch, Denson, Hella"
     excerpt: "The report offers actionable and valuable market insights of Millimeter Wave Radar for Self-Driving Car Market. The"

@@ -134,6 +134,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 32
+  - title: "Pharmacists turn to artificial intelligence to the problem of Australians skipping medication"
+    excerpt: "A Melbourne-based software group says it can solve Australia’s $10bn a year problem of people forgetting or refusing to take prescription medication."
+    publishedDateTime: 2023-03-27T09:28:00Z
+    webUrl: "https://www.theaustralian.com.au/business/pharmacists-turn-to-artificial-intelligence-to-the-problem-of-australians-skipping-medication/news-story/6ff701fe37e3ddc6b54d434e8cd90fc9"
+    ampWebUrl: "https://www.theaustralian.com.au/business/pharmacists-turn-to-artificial-intelligence-to-the-problem-of-australians-skipping-medication/news-story/6ff701fe37e3ddc6b54d434e8cd90fc9?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/pharmacists-turn-to-artificial-intelligence-to-the-problem-of-australians-skipping-medication/news-story/6ff701fe37e3ddc6b54d434e8cd90fc9?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 28
   - title: "Australian PM Reveals Question For Indigenous Voice Referendum"
     excerpt: "If successful, the Voice will advise Parliament on issues relating to Indigenous peoples. It will also be put to voters that the constitution be amended to include a new chapter titled \"Recognition of Aboriginal and Torres Strait Islander Peoples\"."
     publishedDateTime: 2023-03-23T09:42:00Z

@@ -29,83 +29,48 @@ images:
     isCached: true
 
 related:
-  - title: "Speech AI, supercomputing in the cloud, and GPUs for LLMs and generative AI among Nvidia’s next big moves"
-    excerpt: "In this regard, the company unveiled NeMo and DGX Cloud on the software side, and Hopper GPU on the hardware one. NeMo, part of the Nvidia AI Foundations cloud services, creates AI-driven language and speech models. DGX Cloud is an infrastructure platform ..."
-    publishedDateTime: 2023-03-22T17:47:00Z
-    webUrl: "https://venturebeat.com/ai/speech-ai-supercomputing-cloud-gpus-llms-generative-ai-nvidia-next-big-moves/"
-    ampWebUrl: "https://venturebeat.com/ai/speech-ai-supercomputing-cloud-gpus-llms-generative-ai-nvidia-next-big-moves/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/speech-ai-supercomputing-cloud-gpus-llms-generative-ai-nvidia-next-big-moves/amp/"
+  - title: "Chip industry goes all-in on Artificial Intelligence"
+    excerpt: "But an industry long associated with volatility is quietly getting excited that artificial intelligence (AI) could be the key to some longer-term stability. US firm Nvidia dominates the market in specialised chips known as GPUs, which happen to be ideal ..."
+    publishedDateTime: 2023-03-25T11:28:00Z
+    webUrl: "https://www.newindianexpress.com/business/2023/mar/23/chip-industry-goes-all-in-on-artificial-intelligence-2558797.html"
+    ampWebUrl: "https://www.newindianexpress.com/business/2023/mar/23/chip-industry-goes-all-in-on-artificial-intelligence-2558797.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2023/mar/23/chip-industry-goes-all-in-on-artificial-intelligence-2558797.amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 76
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/07/conversation.jpg?w=1200&strip=all"
-        width: 1200
-        height: 850
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/3/23/w600X390/Accenture.jpg"
+        width: 600
+        height: 390
         isCached: true
-  - title: "NVIDIA Bets Big On Public Cloud To Deliver Its AI Supercomputing And Omniverse Platforms"
-    excerpt: "Machine learning PaaS providers including Google Cloud Vertex AI ... Google Cloud customers can also access L4 GPU through the Vertex AI ML PaaS. Microsoft Azure becomes the first public cloud to deliver NVIDIA’s Omniverse as a platform."
-    publishedDateTime: 2023-03-23T11:42:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/amp/"
+  - title: "BYD invests in China AI chip startup"
+    excerpt: "China automaker BYD has newly invested in Chinese AI chip startup Kunlunxin Technology, aiming to enhance its deployment in automotive AI chips solutions."
+    publishedDateTime: 2023-03-24T07:31:00Z
+    webUrl: "https://www.digitimes.com/news/a20230324PD207/automotive-ic-byd-horizon-robotics-nvidia.html?chid=10"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641c3a70b6a0326ff9054838/0x0.jpg?format=jpg&width=1200"
-        width: 1000
-        height: 562
-        isCached: true
-  - title: "8 Big Announcements At Nvidia’s GTC 2023: From Generative AI Services to New GPUs"
-    excerpt: "improve GPU performance and make GPU computing more accessible. These included the DGX Cloud AI supercomputing service, the AI Foundations services for custom generative AI applications, the L4 and H100 NVL specialized GPUs, and the Omniverse Cloud ..."
-    publishedDateTime: 2023-03-22T21:28:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/8-big-announcements-at-nvidia-s-gtc-2023-from-generative-ai-services-to-new-gpus"
+      name: Digi Times
+      domain: digitimes.com
+    quality: 36
+  - title: "Why AI Requires a New Chip Architecture"
+    excerpt: "According to Allied Market Research, the global artificial intelligence (AI) chip market is projected to reach $263.6 billion by 2031. The AI chip market is vast and can be segmented in a variety of different ways, including chip type, processing type ..."
+    publishedDateTime: 2023-03-24T08:11:00Z
+    webUrl: "https://www.design-reuse.com/industryexpertblogs/53710/why-ai-requires-a-new-chip-architecture.html"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 49
-    images:
-      - url: "https://www.crn.com/resources/027f-1798c9f33803-b9db66b81116-1000/first-slide.jpeg"
-        width: 611
-        height: 458
-        isCached: true
-  - title: "Nvidia unveils new AI Supercomputing Cloud Service"
-    excerpt: "Furthermore, Nvidia announced that it will roll out the DGX Super AI Computing System, which is equipped with 8 flagship A100 or H100 chips. For those unaware, the Ampere and Hopper chips that will be available in China are basically the A800 and H800 ..."
-    publishedDateTime: 2023-03-23T12:21:00Z
-    webUrl: "https://www.gizmochina.com/2023/03/23/nvidia-unveil-ai-supercomputing/"
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 34
+  - title: "Chips industry goes all-in on Artificial Intelligence"
+    excerpt: "But an industry long associated with volatility is quietly getting excited that artificial intelligence (AI ... PCs and electric cars to sophisticated weaponry, robotics and all other high-tech machinery. AI already features heavily in all of these ..."
+    publishedDateTime: 2023-03-23T12:35:00Z
+    webUrl: "https://www.newindianexpress.com/business/2023/mar/23/chips-industry-goes-all-in-on-artificial-intelligence-2558797.html"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 49
-  - title: "Nvidia announces H100 GPU SKU aimed at large language model and generative AI workloads"
-    excerpt: "Nvidia has developed a version of its H100 GPU specifically for large language model and generative AI development. The dual-GPU H100 NVL has more memory than the H100 SXM or PCIe, as well as more memory bandwith, key features for large AI models."
-    publishedDateTime: 2023-03-22T21:03:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-announces-h100-gpu-sku-aimed-at-large-language-model-and-generative-ai-workloads/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 46
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/nvidia-inference-platforms.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Nvidia launches DGX Cloud to offer GPU supercomputers-as-a-Service"
-    excerpt: "Offered through existing cloud providers, the DGX Cloud services provide access to dedicated clusters of Nvidia DGX hardware, which can be rented on a monthly basis. Each instance of DGX Cloud features eight Nvidia H100 or A100 80GB Tensor Core GPUs for a total of 640GB of GPU memory per node."
-    publishedDateTime: 2023-03-24T18:44:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-launches-dgx-cloud-to-offer-gpu-supercomputers-as-a-service/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
+      name: The New Indian Express
+      domain: newindianexpress.com
     quality: 19
 
 secured: "qi5WF2EBYNZ0SGtEZY3ZnoDFIfxWvfrsF5n7bN6t7T4l/GSszrapMrduRaewr6FCpxVHO3sBqcTLn/QHOvYGtWrwIUScajeC0NxXOFtlrIGwKbK7NiBz+qTvFWQnf3CG5kBv+s/VVcVjfwqX/RSvjrDC00tbMBkECztvelHP4b2e/9hfGjW0XT2kUAD4yNHQtqRT1m5bFMP3BhgO276RLFv7cDRORqAMCZfVbfvVT04htauXHrUhD3jBIRvKUHGTDtzGUz5C6B86cdgb8gpCQquqjljWkry9I3Kf7Eajrhce6ABMgSOZve2rwWPzgFZN7c/GNo8W61zUb6DelGD53YLSgNpwtnMbXFjSi/jSsKI=;VkGR7dsp+JE1NmfjBANHgg=="

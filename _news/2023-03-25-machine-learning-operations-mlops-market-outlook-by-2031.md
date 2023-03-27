@@ -71,6 +71,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023, Healthcare AI Market of the Future Size and Growth of the"
+    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  Moreover, the Healthcare AI Market Report includes data on research and development,"
+    publishedDateTime: 2023-03-27T04:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-healthcare-ai-market-of-the-future-size-and-growth-of-the-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI based Edge Computing Chip Market Outlook By 2031"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 26, 2023 (The Expresswire) -- The \"AI based Edge Computing Chip Market\" study describes how the technology industry is evolving and how major and emerging players in the ..."
+    publishedDateTime: 2023-03-27T11:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-based-edge-computing-chip-market-outlook-by-2031-2023-03-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Computer Vision Market | Global Various Tendencies Industry Report 2029"
     excerpt: "Mar 24, 2023 (The Expresswire) -- [112+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “AI in Computer Vision Market” Size 2023 Key players Profiled in the ..."
     publishedDateTime: 2023-03-24T15:19:00Z
@@ -481,15 +509,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
-  - title: "AI Medicine Software Market 2023 Size Industry, Current Trends, Demand and Size Share Estimation by 2029 with Top Players"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 22, 2023 (The Expresswire) -- AI Medicine Software Market Size 2023-2028 | New Report (117 Pages) | In This Reports AI Medicine Software Market and its business scene ..."
-    publishedDateTime: 2023-03-22T18:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-medicine-software-market-2023-size-industry-current-trends-demand-and-size-share-estimation-by-2029-with-top-players-2023-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
 
 secured: "1vTDGpMCsmwLIhKo6LSMXsQqKWxz6I7twB/jOhbxJiYuiCZ2A9FWl1u9Vg8qoLpXKbOkAK13JuzAdj09Fj5tKnCvzBCQwGJzA+BLMwqdrbhS7uqhBy6AtRM11SjTfkobMXAdWh1Ygom63XVri/7jF/0grOQkRh2gM540ezaHDOfe8ezWI4tD+hr7AOK4aKxDfBrKCWuZY3LcPc8L8LnpJXEWFfKiGh5g3CuOu52vUrxIZ4mtTj9Q6vWOc5z6RrMx/Qq2Z3VBS4IjqTHICjvFZpD0YWf6qqx9lVniK6+9gZsiQVTrYcm5Xs2/qPAWI34CfO64sLJU/1qdksjAo9v/ObgmE2yGqJlYGQyRElHIdT8=;p40fkRkiuubhTAocMXLfwQ=="
 ---

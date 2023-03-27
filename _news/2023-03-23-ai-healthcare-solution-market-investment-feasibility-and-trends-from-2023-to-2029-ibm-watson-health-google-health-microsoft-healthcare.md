@@ -103,6 +103,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft, Google, Amazon Look to Generative AI to Lift Cloud Businesses"
+    excerpt: "The cloud providers are using the tech behind ChatGPT to heat up demand for their services."
+    publishedDateTime: 2023-03-27T08:31:00Z
+    webUrl: "https://www.wsj.com/articles/microsoft-google-amazon-look-to-generative-ai-to-lift-cloud-businesses-7159a43f?mod=latest_headlines"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 83
+    images:
+      - url: "https://images.wsj.net/im-750908/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Microsoft Reportedly Threatens to Restrict Search Data From Rival AI Tools"
     excerpt: "At least two customers have been told their access to Microsoft's internet search index will be cut off if they continue to use it for their AI chatbots, Bloomberg reports."
     publishedDateTime: 2023-03-26T10:44:00Z

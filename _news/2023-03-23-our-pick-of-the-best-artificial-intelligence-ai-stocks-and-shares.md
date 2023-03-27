@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/advisor/in/investing/best-artificial-intell
 webUrl: "https://www.forbes.com/advisor/in/investing/best-artificial-intelligence-ai-stocks-shares/"
 type: article
 quality: 92
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Buy these 6 stocks to bet on the AI boom and future-proof your portfolio, according to a senior analyst"
-    excerpt: "\"I don't think there's any denying that AI is going to be the future,\" Brian Jankowski said. \"The question is: How do you go about playing that?\""
-    publishedDateTime: 2023-03-22T17:19:00Z
-    webUrl: "https://www.businessinsider.com/best-ai-stocks-to-buy-artificial-intelligence-data-centers-analyst-2023-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
 
 secured: "MKNxhAMdldzhJUjlD3JfhCBbjUQY98eS8Ts18XXjJ+p0tZdN4A/RRdR2VQmLGcqK0PEgcz9vUKBFmEH39/UrHoSabkyqH3HspweWCrcze4+l5bvdQ8T9+UR5mwB41Y/V9b9mhWSOgt29b+kbdVi17mo7oizV1ymkM+Yr0IAoAhNwC2/cY569h5CC6nEoHKsgoV15MWwmO/2kuCIU53sb2BkbMaiMvG3SKnvUsGj9O4y2KhdYzdhmnrPzkeiR+4ZhyNB+oXZEfk8lbek4sDea5NzIIVIXFWm/aS7Sdh1iIowXxI299xfp4/M199svBRKxkzCzTWgYBVTPxoHS2KpGf9NmwCXYFboKaph4sOzGCWgY4Ontsmh1SWxA2UR2VEeMteWjMH8IzB90cD+xl+0eOXQWnAoUcEIRBiDdLcL3iKSiEJKyhPmajpnfpDI+pUVPtCHFqRuKNQtM2VOnpIrcPBH26goJXwXxdCoPZapeAJX3ZxZ5qRYv/PPEKTlU7E7a6N1MWy8mNtuKikMyqr0cJA==;ZXvAyqjmTSjza+cFO3+aLg=="
 ---

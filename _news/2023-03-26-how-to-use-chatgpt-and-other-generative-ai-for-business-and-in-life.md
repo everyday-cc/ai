@@ -57,24 +57,6 @@ related:
         width: 1546
         height: 861
         isCached: true
-  - title: "CodiumAI debuts TestGPT, an AI-powered tool that tests code for errors"
-    excerpt: "CodiumAI has created an AI model called TestGPT that’s powered by OpenAI’s GPT-4 large language model. Its job is to assist developers in testing their code interactively, which it does by generating tests on the go."
-    publishedDateTime: 2023-03-22T17:34:00Z
-    webUrl: "https://siliconangle.com/2023/03/22/codiumai-debuts-testgpt-ai-powered-tool-tests-code-errors/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
-  - title: "This generative AI tool actually teaches kids how to write"
-    excerpt: "As ChatGPT threatens higher education, edtech startup Pressto is using AI to help kids learn to write. Tech world matriarch Esther Wojcicki is advising."
-    publishedDateTime: 2023-03-26T05:00:00Z
-    webUrl: "https://www.fastcompany.com/90869664/pressto-generative-ai-writing-education-esther-wojcicki"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "ZD9/F+nR9a3ahgGMptZ8mUjUvf63Ac61A37PwWeEuae0x2UpRgE1nivEJxuHb9/nP23V7lMLwY1bEOY9mo0J8NyiKQFpp35FzTrD91AVCsAzSmVlv47PDetrrR4XtLHZfBV2lh/oDOZ5qRLPZq0mK/iaCbOredIuA4VtRiy9aRjcBInnYSoZ1WVWA0YRIV5F15ODMfAMkIKryeK7+BzJDcNqEGnSO7HBQeSDA0o0z9n+7+xG4/GAArTHAOg3bX7XOhIaznFuFGKH9BPSDHD5nocj+9dZU7td4AIcVkYeuNs/lcP9vjnFJs6tvSpSG8jQ7goU/rjgO/+/9Il/tDDr2GI2QPZtqKN2B/ivRYvlWPQ=;YeX32szt9AsF2AXYbSTEnw=="
 ---

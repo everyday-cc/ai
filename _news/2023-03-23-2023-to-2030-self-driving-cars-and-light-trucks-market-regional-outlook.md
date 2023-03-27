@@ -135,6 +135,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Chatbot Market 2023 Size and Forecast to 2030"
+    excerpt: "\"Global Chatbot market size was valued at USD 22160.41 million in 2022 and is expected to expand at a CAGR of 18.0% during the forecast period, reaching USD 59834.65 million by 2028.\" The global Chatbot market size was valued at USD 22160."
+    publishedDateTime: 2023-03-27T01:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/chatbot-market-2023-size-and-forecast-to-2030-2023-03-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Sports Market Size 2023, Share, Trend Analysis, Company Profiles with Strategies, Supply Forecast 2031"
+    excerpt: "The global artificial intelligence in sports market size was US$ 1.8 billion in 2021. The global artificial intelligence in sports market size is forecast to reach US$ 19.9 billion by 2030, growing at a compound annual growth rate (CAGR) of 30."
+    publishedDateTime: 2023-03-27T09:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-sports-market-size-2023-share-trend-analysis-company-profiles-with-strategies-supply-forecast-2031-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "krDQzhFHYyTaT+C1vL935qt8S2vKUJe/E/xo18AadSEzmWof6geuOmi77dxKR0vdBRXa9DaHPS0PCTDPLyLMqroyOtSXgzrbwC0iSjJYvfjyjJgOFSkNicyFU8JvT0yoeWaBbnC23RD1FtrIrEn/sG32Yc0Mr7Ct1n4W/Wd8PFhYdwHZitUIzmRgXCqwvYRJ6hW+lXPFBbO8Bl7Pr6zPJo82f8Qr8AC+lUNR6i1Gi3BKsIdsizPASD8DBfi7UVwyOb8ttn27h7qCgr9JjYAUVXCLoS3MS3+GMIBxsZhiFhTH+9KGef8HEp6ANHwH/Btn0FIr3sAniaYW7KeT3+6EYBTx+zrzJtumPRmYj00p0fc=;xAd1ouzz2mGL8bgssq1krQ=="
 ---

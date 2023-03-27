@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Photos: Self-driving cars get tangled in downed Muni wires during storm"
-    excerpt: "While humans can see the road closure signs, viewer photos sent to KRON4 show autonomous vehicles cannot. Photos show two self-driving cars that apparently did not detect road closure tape and drove through the closed street due to downed Muni wires at the ..."
-    publishedDateTime: 2023-03-22T17:47:00Z
-    webUrl: "https://www.kron4.com/news/bay-area/photos-self-driving-cars-get-tangled-in-downed-muni-wires-during-storm/"
-    ampWebUrl: "https://www.kron4.com/news/bay-area/photos-self-driving-cars-get-tangled-in-downed-muni-wires-during-storm/amp/"
-    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/photos-self-driving-cars-get-tangled-in-downed-muni-wires-during-storm/amp/"
-    type: article
-    provider:
-      name: KRON4 News
-      domain: kron4.com
-    quality: 44
-    images:
-      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2023/03/Cruise-cars-2.jpg?w=1280"
-        width: 1280
-        height: 960
-        isCached: true
   - title: "2 Cruise self-driving cars ram into storm damage in SF neighborhood, company confirms"
     excerpt: "Two Cruise self-driving cars could be seen driving through yellow \"caution\" tape and on top of downed power lines. SAN FRANCISCO (KGO) -- A couple of driverless cars got caught in the middle of a closed-off intersection in San Francisco's Nob Hill ..."
     publishedDateTime: 2023-03-23T03:51:00Z

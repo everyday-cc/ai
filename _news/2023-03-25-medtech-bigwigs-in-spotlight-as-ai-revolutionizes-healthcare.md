@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Google’s Generative AI System, Bard, Has The Potential To Revolutionize Healthcare"
+    excerpt: "J.P. Morgan Insights recently published an article titled “Is Generative AI a Game Changer?” explaining that “Generative AI — a category of artificial intelligence algorit"
+    publishedDateTime: 2023-03-26T20:18:00Z
+    webUrl: "https://www.forbes.com/sites/saibala/2023/03/26/googles-generative-ai-system-bard-has-the-potential-to-revolutionize-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/saibala/2023/03/26/googles-generative-ai-system-bard-has-the-potential-to-revolutionize-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/03/26/googles-generative-ai-system-bard-has-the-potential-to-revolutionize-healthcare/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 98
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6420a8765c54a09c9fe2d103/0x0.jpg?format=jpg&crop=4170,2346,x6,y54,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI Will Revolutionize Your Inbox"
     excerpt: "With the introduction of new AI services from Microsoft ... Copilot is built on Microsoft’s Azure cloud platform and plays well with other Microsoft apps and Salesforce. Shortwave is built atop Gmail and prides itself on being open and decentralized."
     publishedDateTime: 2023-03-22T19:40:00Z
@@ -35,51 +51,19 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "Bill Gates praises artificial intelligence in blog post, calling it 'revolutionary'"
-    excerpt: "Microsoft co-founder Bill Gates on Tuesday described artificial intelligence (AI) as \"revolutionary\" and said it will need \"rules of the road\" as it continues to develop. In a Tuesday blog post, Gates touted AI, saying it will change how people live and ..."
-    publishedDateTime: 2023-03-23T00:02:00Z
-    webUrl: "https://www.foxbusiness.com/technology/bill-gates-praises-artificial-intelligence-blog-post-calling-revolutionary"
-    ampWebUrl: "https://www.foxbusiness.com/technology/bill-gates-praises-artificial-intelligence-blog-post-calling-revolutionary.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/bill-gates-praises-artificial-intelligence-blog-post-calling-revolutionary.amp"
+  - title: "Chat GPT vs. Google Bard: Generative AI Comparison"
+    excerpt: "Google runs it on top of its BERT AI language model as a way to answer questions, conduct sentiment analysis, and perform language translation. Its answers go far beyond those typically given during a traditional Google search. While ChatGPT can manage ..."
+    publishedDateTime: 2023-03-22T21:36:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/chat-gpt-vs-google-bard/"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 68
+      name: eWeek
+      domain: eweek.com
+    quality: 69
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/1de5ea89-63db-4743-8c42-47f109937fcc/5c2392d4-be14-460d-884d-7c83d1dcb9d6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Bill Gates predicts how artificial intelligence will evolve"
-    excerpt: "Microsoft co-founder Bill Gates has published a 7-page letter in which he talked about the importance that Artificial Intelligence will have in the future. Gates says that the development of this technology is “as fundamental as the creation of the ..."
-    publishedDateTime: 2023-03-23T11:09:00Z
-    webUrl: "https://en.as.com/latest_news/bill-gates-predicts-how-artificial-intelligence-will-evolve-n/"
-    ampWebUrl: "https://en.as.com/latest_news/bill-gates-predicts-how-artificial-intelligence-will-evolve-n/?outputType=amp"
-    cdnAmpWebUrl: "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/latest_news/bill-gates-predicts-how-artificial-intelligence-will-evolve-n/?outputType=amp"
-    type: article
-    provider:
-      name: as.com
-      domain: as.com
-    quality: 61
-    images:
-      - url: "https://img.asmedia.epimg.net/resizer/nTpb6iLmYPEvJT5zWPCza8Libqc=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/NASU7R2OHOUMLAJJLS3ELUUDUI.jpg"
-        width: 644
-        height: 362
-        isCached: true
-  - title: "These are the 34 jobs OpenAI suggests will secure you against the AI revolution"
-    excerpt: "The creators of recent AI phenomenon, ChatGPT ... Additionally, LLMs can be used to translate content into different languages, which can help to reach a wider audience. And, I can be used to generate personalized content, such as news articles that ..."
-    publishedDateTime: 2023-03-23T15:12:00Z
-    webUrl: "https://www.pcgamer.com/these-are-the-34-jobs-openai-suggests-will-secure-you-against-the-ai-revolution/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 35
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ScPYLdpxFRGNZK7zfy5Lh6-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.eweek.com/wp-content/uploads/2022/01/Screen-Shot-2021-12-30-at-12.10.38-PM.png"
+        width: 412
+        height: 410
         isCached: true
 
 secured: "BHYTuV+8dJylSsoEAzCuxizfiSGppfGZGZkhoAJhZgsQ4AsLxYlk6toHKLtkttdoR8hrsUKmb6KSkdIGiXIKv9PL7ooLWIcVPxPkEzmX9NMW+TIp5x5piNp9ChmioNN6HgTBTXMCP2LafKmtdwkkMtik1OMrVDFcwMvZN3WNTGtudCeF0tlT9sh3Q3wYCqYrUfGQr+7D29LcHAksfyKbQnsN4Y0FGJwyGqaQBuz8oWJ1LiVydo0qq8eqaWqd2QxcPzSzyjtbugwB+ki91wWCJpm4ogF5mbFPil1nPx6iFurmwUis4Op680gE02TKF3do2ZHOfmR6Qqyw2vbOzx0hx4bUXwkHzKSeC0NIykhCmq0=;CM730MBWb8j9t3GARDT7Sg=="

@@ -115,6 +115,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft, Google, Amazon Look to Generative AI to Lift Cloud Businesses"
+    excerpt: "The cloud providers are using the tech behind ChatGPT to heat up demand for their services."
+    publishedDateTime: 2023-03-27T08:31:00Z
+    webUrl: "https://www.wsj.com/articles/microsoft-google-amazon-look-to-generative-ai-to-lift-cloud-businesses-7159a43f?mod=latest_headlines"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 83
+    images:
+      - url: "https://images.wsj.net/im-750908/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Microsoft gains access to Open AI code base, trouble for Google?"
     excerpt: "Azure is Microsoft’s cloud computing service which will help developers build new AI systems by making OpenAI’s service models available to the market. Google retaliated recently with their AI offering Bard AI, a chatbot to compete with ChatGPT."
     publishedDateTime: 2023-03-24T08:41:00Z

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How Artificial Intelligence Can Boost Creativity"
-    excerpt: "Artificial Intelligence(AI ... In the country’s rural parts, even the main healthcare facilities, let alone sub- centers, frequently face appallingly low staffing levels and lack basic amenities (Weforum.org, 2022). To assist in this scenario, AI ..."
-    publishedDateTime: 2023-03-23T11:40:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-can-boost-creativity/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-can-boost-creativity/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-can-boost-creativity/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/11/Pic-1-7.png"
-        width: 665
-        height: 381
-        isCached: true
   - title: "Video Interview: NRO’s Aaron Weiner on How AI is Driving Intelligence Missions Forward"
     excerpt: "Executive Mosaic spoke with Dr. Aaron Weiner, director of the advanced systems and technology directorate at the National Reconnaissance Office, to better understand how the NRO is looking at the great power competition,"
     publishedDateTime: 2023-03-23T09:52:00Z
