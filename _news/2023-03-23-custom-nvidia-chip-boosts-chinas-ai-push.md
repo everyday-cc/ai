@@ -25,56 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "'A tough stock not to own.' Wall Street endorses Club name Nvidia, as it dominates AI"
-    excerpt: "\"Generative AI is marking an inflection point for AI and we continue ... Nvidia (NVDA) has demonstrated this week that both its chips and budding software offerings are integral to the future of artificial intelligence, bolstering the Club case in the ..."
-    publishedDateTime: 2023-03-22T20:40:00Z
-    webUrl: "https://www.cnbc.com/2023/03/22/a-tough-stock-not-to-own-wall-street-endorses-club-holding-nvidia.html"
+  - title: "Cryptocurrencies add nothing useful to society, says chip-maker Nvidia"
+    excerpt: "Tech chief says the development of chatbots is a more worthwhile use of processing power than crypto mining"
+    publishedDateTime: 2023-03-26T15:13:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 62
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107198977-1677173650792-huang.jpg?v=1679516659&w=1920&h=1080"
-        width: 1920
-        height: 1080
+      - url: "https://i.guim.co.uk/img/media/c1d4d5e50b04a1580bdaa1145b2dec10d47b8496/0_217_6520_3912/master/6520.jpg?width=620&quality=85&auto=format&fit=max&s=78bd8b0dece950e337e76dbba5a347a4"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Aetina Showcases Its Latest AI Solutions at NVIDIA GTC"
-    excerpt: "Aetina's New Edge Computing Systems and Platforms Are Powered by the Latest NVIDIA Jetson Orin System-on-Modules Aetina's NVIDIA-Certified System Tested with NVIDIA L4 Tensor Core GPU Aetina's SuperEdge AIS-D422-A1—an AI platform ideal for AI model ..."
-    publishedDateTime: 2023-03-24T05:18:00Z
-    webUrl: "https://www.asiaone.com/business/aetina-showcases-its-latest-ai-solutions-nvidia-gtc"
+  - title: "Cryptocurrencies add nothing useful to society, says chip-maker Nvidia"
+    excerpt: "Tech chief says the development of chatbots is a more worthwhile use of processing power than crypto mining"
+    publishedDateTime: 2023-03-26T19:13:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 39
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
     images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2023/Aetina_s_New_Edge_Computing_Systems_Platforms_Are_Powered_Latest_NVIDIA.jpg?h=5b470aab&itok=7c0fUUzZ"
-        width: 600
-        height: 316
+      - url: "https://i.guim.co.uk/img/media/c1d4d5e50b04a1580bdaa1145b2dec10d47b8496/0_217_6520_3912/master/6520.jpg?width=620&quality=85&auto=format&fit=max&s=78bd8b0dece950e337e76dbba5a347a4"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Nvidia stock could soar as the chipmaker's dominant position in AI is poised to reshape the tech industry, Bank of America says"
-    excerpt: "OpenAI has since integrated similar AI technology into Microsoft's Bing search engine, after the software giant poured $10 billion into the startup earlier this year. Companies large and small have capitalized on the interest by announcing big plans for AI ..."
-    publishedDateTime: 2023-03-22T19:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-price-target-ai-llm-tech-artificial-intelligence-stocks-2023-3"
+  - title: "Nvidia calls cryptocurrency useless for society, says its graphics cards are better used for AI"
+    excerpt: "Speaking to The Guardian, Nvidia Chief Technology Officer Micheal Kagan said that the processing power of the company's GPUs should be used for tasks more worthwhile"
+    publishedDateTime: 2023-03-27T10:16:00Z
+    webUrl: "https://techspot.com/news/98081-nvidia-calls-cryptocurrency-useless-society-gpus-better-used.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
-  - title: "ETFs That Allow You To Invest In Nvidia's AI Wave, Strategy to Bypass US - China Sanctions"
-    excerpt: "\"The age of AI demands cloud data center infrastructures to support extraordinary ... This week, Nvidia said it has similarly developed a China-export version of its H100 chip, making it eligible for export to China. The H800 mainly reduced the chip ..."
-    publishedDateTime: 2023-03-24T16:53:00Z
-    webUrl: "https://www.benzinga.com/news/23/03/31492548/etfs-that-allow-you-to-invest-in-nvidias-ai-wave-strategy-to-bypass-us-china-sanctions"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
+      name: TechSpot
+      domain: techspot.com
+    quality: 57
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/03/24/nvda.png?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
+      - url: "https://static.techspot.com/images2/news/bigimage/2018/11/2018-11-26-image-2.jpg"
+        width: 1800
+        height: 1200
         isCached: true
 
 secured: "5uVeOlFIaZzcyCQ+lvJRyNRp1EJifqZrs0d5bBmuGLviAC3Ts2YfCGTXOt/Z9VEdZkMmpBQfSVXlgIPnnL81s7rBxWC0TMvbFkPPynlSCD/iVEyyZQQTtuMmv4uh4YTA7hgdOjhXE1CxlvJvOoTQM3tVsA8L6ZjS2hi1x0PLGY1Nv6tC9nLizpiCNFXJsXozVomVC7enFB7V6mrmBLjAeoclpltH1SetxY2yoqxZAtUQLbQiBm5EC3BkUJyC8u7XFXYrPbM7sr6UHhdBiPzM1K9oB9LipQB019W2o65iuxIitn/WEY3RLv625l4V0s7FTdwCLHLxx9X8MHaDQIGCm+7OMiCIkbQmJfKEtoWGkMA=;7H27ivQ9r3IYAUuIZSBJVw=="

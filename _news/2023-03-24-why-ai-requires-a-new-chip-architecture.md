@@ -35,20 +35,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "NVIDIA goes all in on AI, shares progress at GTC"
-    excerpt: "These include AWS, Google Cloud, Azure, Oracle Cloud, and Alibaba Cloud. The company launched DGX Cloud, which enables access to an AI supercomputer right from a web browser. This removes the need to acquire, deploy, and manage on-premises infrastructure."
-    publishedDateTime: 2023-03-22T21:17:00Z
-    webUrl: "https://sdtimes.com/ai/nvidia-goes-all-in-on-ai-shares-progress-at-gtc/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 69
-    images:
-      - url: "https://sdtimes.com/images/sd-premium.png"
-        width: 628
-        height: 246
-        isCached: true
   - title: "BYD invests in China AI chip startup"
     excerpt: "China automaker BYD has newly invested in Chinese AI chip startup Kunlunxin Technology, aiming to enhance its deployment in automotive AI chips solutions."
     publishedDateTime: 2023-03-24T07:31:00Z

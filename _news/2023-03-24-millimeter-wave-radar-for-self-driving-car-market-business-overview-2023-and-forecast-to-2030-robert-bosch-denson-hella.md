@@ -75,36 +75,15 @@ related:
         width: 671
         height: 512
         isCached: true
-  - title: "Apple self-driving test program grows to over 200 drivers"
-    excerpt: "Apple has reported 16 total collisions in California since registering. The data shows Apple's continued commitment to testing self-driving tools for cars. It is registered alongside other manufacturers like Mercedes, Waymo, Tesla, Nvidia, and Zoox."
-    publishedDateTime: 2023-03-22T22:29:00Z
-    webUrl: "https://appleinsider.com/articles/23/03/22/apple-self-driving-test-program-grows-to-over-200-drivers"
-    ampWebUrl: "https://appleinsider.com/articles/23/03/22/apple-self-driving-test-program-grows-to-over-200-drivers/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/03/22/apple-self-driving-test-program-grows-to-over-200-drivers/amp/"
+  - title: "Driverless cars ready for hire in suburban Beijing"
+    excerpt: "Driverless taxis are now available for hire in suburban Beijing, marking a new chapter in intelligent transport, China Daily reported Monday. Beijing earlier in March granted licenses to Chinese tech giant Baidu and autonomous vehicle startup Pony."
+    publishedDateTime: 2023-03-27T06:48:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202303/27/WS6421366ba31057c47ebb6c06.html"
     type: article
     provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 44
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/53612-107732-Apple-Crossover-xl.jpg"
-        width: 1312
-        height: 738
-        isCached: true
-  - title: "DRIVERLESS CARS READY FOR HIRE IN SUBURBAN BEIJING"
-    excerpt: "Driverless taxis are now available for hire in suburban Beijing, marking a new chapter in intelligent transport, Xinhua quoted the China Daily report on Monday. Beijing earlier in March granted licences to Chinese tech giant Baidu and autonomous vehicle startup Pony."
-    publishedDateTime: 2023-03-27T10:20:00Z
-    webUrl: "https://www.bernama.com/en/world/news.php?id=2176670"
-    type: article
-    provider:
-      name: bernama
-      domain: bernama.com
-    quality: 39
-    images:
-      - url: "https://www.bernama.com/storage/photos/01f08507f0fe30d5ac21553f5f861dd362f4f61fed9af"
-        width: 1110
-        height: 694
-        isCached: true
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 19
   - title: "Self-driving Car Technology Market Size and Market Status Forecast with a CAGR of 11.5% from 2023 to 2030"
     excerpt: "The Self-driving Car Technology industry is a vital contributor to the economy and plays a significant role in the development of many nations. Market analysis of this sector typically involves an examination of various factors,"
     publishedDateTime: 2023-03-26T08:01:00Z

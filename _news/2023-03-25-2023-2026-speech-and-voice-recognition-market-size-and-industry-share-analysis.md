@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2023-A Detailed Analysis till 2028"
+    excerpt: "Mar 27, 2023 (The Expresswire) -- The report features the size of the global \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market” in 2023, along with a detailed profile of the key players. These players include [3M (Minnesota ..."
+    publishedDateTime: 2023-03-27T12:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2023-a-detailed-analysis-till-2028-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 98
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Report on Artificial Intelligence (AI) in Healthcare Market Size until 2026"
     excerpt: "The Global Artificial Intelligence (AI) in Healthcare Market 2022-2026 Research Report offers a comprehensive analysis of the market, providing valuable insights into the market status, size, share, SWOT and PESTLE analysis. The report examines the market ..."
     publishedDateTime: 2023-03-24T15:54:00Z
@@ -57,24 +71,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Education Market | Global Various Tendencies Industry Report 2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- Artificial Intelligence (AI) in Education Marketinformation for each End Users [, Higher Education, K-12 Education, Corporate Learning ..."
-    publishedDateTime: 2023-03-24T14:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-global-various-tendencies-industry-report-2029-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 88
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Cyber Security Market Size Escalating Demand to Drive Growth Through 2029"
-    excerpt: "Mar 23, 2023 (The Expresswire) -- The Final Report will analyze the Impact of Ongoing Recession On Your Business With Smart Market Solutions to Help Your Business Gain Edge over Competitors Complete Outline of the Worldwide Artificial Intelligence (AI ..."
-    publishedDateTime: 2023-03-23T15:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-size-escalating-demand-to-drive-growth-through-2029-2023-03-23"
+  - title: "Natural Language Processing (NLP) Market to Eyewitness Massive Growth 2023"
+    excerpt: "Natural Language Processing (NLP) Market Size 2023 | New Report (102 Pages) | Information Technology | In This"
+    publishedDateTime: 2023-03-27T04:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-to-eyewitness-massive-growth-2023-2023-03-27"
     type: article
     provider:
       name: MarketWatch
@@ -85,141 +85,71 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023 to 2030 Artificial Intelligence (AI) in Oil and Gas Market Regional Outlook"
-    excerpt: "Artificial Intelligence (AI) in Oil and Gas Market” Are a Collection of Information and Analysis Obtained From"
-    publishedDateTime: 2023-03-24T17:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-to-2030-artificial-intelligence-ai-in-oil-and-gas-market-regional-outlook-2023-03-24"
+  - title: "Healthcare Natural Language Processing (NLP) Market Share From 2023 And Unlimited Opportunities for New Companies"
+    excerpt: "Healthcare Natural Language Processing (NLP) Market Size 2023 | New Report (127 Pages) | Information Technology | In"
+    publishedDateTime: 2023-03-27T03:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-share-from-2023-and-unlimited-opportunities-for-new-companies-2023-03-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 77
+    quality: 80
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Agriculture Market Premium Research Report Forecast To 2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- Artificial Intelligence (AI) in Agriculture Marketinformation for each End Users [, Precision Farming, Livestock Monitoring, Agriculture ..."
-    publishedDateTime: 2023-03-24T06:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-premium-research-report-forecast-to-2029-2023-03-23"
+  - title: "Computer Vision Market research Report with Analysis 2023 To 2030"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (The Expresswire) -- The \"Computer Vision Market\" study describes how the technology industry is evolving and how major and emerging players in the industry are ..."
+    publishedDateTime: 2023-03-24T21:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-research-report-with-analysis-2023-to-2030-2023-03-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 74
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Food & Beverages Market Is Booming Worldwide Forecast 2023-2029"
-    excerpt: "Mar 23, 2023 (The Expresswire) -- Latest Report will contain the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence (AI) in Food and Beverages Market in ICT Industry. The Global Artificial Intelligence (AI ..."
-    publishedDateTime: 2023-03-23T17:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-beverages-market-is-booming-worldwide-forecast-2023-2029-2023-03-23"
+  - title: "Artificial Intelligence (AI) in Social Media Market Trends, Industry Demand and Scope, Top Players Analysis, Forecast 2023 - 2031"
+    excerpt: "Top “ Artificial Intelligence (AI) in Social Media Market ” Size 2023 Key players Profiled in the Report are [, Adobe System Incorporated., Facebook Inc., Clarabridge Inc., HootSuite Media Inc., Amazon Web Services Inc."
+    publishedDateTime: 2023-03-24T12:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-trends-industry-demand-and-scope-top-players-analysis-forecast-2023---2031-2023-03-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 70
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Real Estate Market 2023 Size Growing Rapidly with Recent Trends"
-    excerpt: "Mar 24, 2023 (The Expresswire) -- 360 Market Updates(360marketupdates.com) published a new research report on Artificial Intelligence (AI) in Real Estate Market 2023 with 117 Report Pages and enhance with self-explained tables, pie chart and graph in smart ..."
-    publishedDateTime: 2023-03-24T10:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-real-estate-market-2023-size-growing-rapidly-with-recent-trends-2023-03-24"
+  - title: "Automatic Speech Recognition Applications Market 2023 | Rising Demand in Upcoming Years till 2030 | 82 Pages Report"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- The Automatic Speech Recognition Applications Market (2023-2030) research report provides a detailed analysis of the market's various types ..."
+    publishedDateTime: 2023-03-23T10:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-applications-market-2023-rising-demand-in-upcoming-years-till-2030-82-pages-report-2023-03-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 70
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive System & Artificial Intelligence (AI) Systems Market Size, Revenue, and Forecast 2030"
-    excerpt: "Mar 24, 2023 (The Expresswire) -- 360 Market Updates(360marketupdates.com) published a new research report on Cognitive System and Artificial Intelligence (AI) Systems Market 2023 with 101 Report Pages and enhance with self-explained tables, pie chart and ..."
-    publishedDateTime: 2023-03-24T10:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-system-artificial-intelligence-ai-systems-market-size-revenue-and-forecast-2030-2023-03-24"
+  - title: "Clinical Natural Language Processing Market Trends, Industry Demand and Scope, Top Players Analysis, Forecast 2023 - 2031"
+    excerpt: "Mar 24, 2023 (The Expresswire) -- [108+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Clinical Natural Language Processing Market” Size 2023 Key players ..."
+    publishedDateTime: 2023-03-24T15:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/clinical-natural-language-processing-market-trends-industry-demand-and-scope-top-players-analysis-forecast-2023---2031-2023-03-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Food & Beverages Market | Global Various Tendencies Industry Report 2029"
-    excerpt: "Mar 23, 2023 (The Expresswire) -- [106+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Artificial Intelligence (AI) in Food and Beverages Market” Size 2023 ..."
-    publishedDateTime: 2023-03-23T22:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-beverages-market-global-various-tendencies-industry-report-2029-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Size, Trends, Growth Analysis, Share, Research Report and Forecast 2031"
-    excerpt: "Mar 22, 2023 (Alliance News via COMTEX) -- Report Ocean's recent report provides an accurate and comprehensive research analysis of the Natural Language Processing (NLP) in Healthcare and Life Sciencesmarket with a primary focus on the present and past ..."
-    publishedDateTime: 2023-03-22T22:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-size-trends-growth-analysis-share-research-report-and-forecast-2031-2023-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023-2029 Artificial Intelligence In Military Market: Business Growth Research"
-    excerpt: "Global “Artificial Intelligence In Military Market” Report 2023-2029 is a comprehensive analysis of the market, providing detailed insights into the industry's growth opportunities, challenges, and trends across all geographical regions. The report ..."
-    publishedDateTime: 2023-03-26T02:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2029-artificial-intelligence-in-military-market-business-growth-research-2023-03-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market Players to drive Merges and Acquisition Strategies to Expand Market Share, 2023-2030"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- Artificial Intelligence (AI) in Fintech Market Size 2023-2030 | New Report (75 Pages) | In This Reports Artificial Intelligence (AI ..."
-    publishedDateTime: 2023-03-23T10:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-players-to-drive-merges-and-acquisition-strategies-to-expand-market-share-2023-2030-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in BFSI Market Size 2023 Research Report by Industry Trends, Global Competitors Strategy, Segments and Forecast to 2031"
-    excerpt: "Mar 22, 2023 (Alliance News via COMTEX) -- The modern-day document posted via Report Ocean, titled \"Artificial Intelligence (AI) in BFSI Market:Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2023 to 2031,\" affords a complete ..."
-    publishedDateTime: 2023-03-22T22:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-size-2023-research-report-by-industry-trends-global-competitors-strategy-segments-and-forecast-to-2031-2023-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

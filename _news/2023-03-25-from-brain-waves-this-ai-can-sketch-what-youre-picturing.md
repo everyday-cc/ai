@@ -33,22 +33,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Even with ChatGPT-4, there's no such thing as Artificial Intelligence. AI is a misnomer"
-    excerpt: "The term, AI, breeds misunderstanding and helps its creators avoid culpability. Reasonable technologists have tried for years to replace “AI” with “machine learning” but that doesn’t trip off the tong"
-    publishedDateTime: 2023-03-27T06:38:00Z
-    webUrl: "https://www.moneycontrol.com/news/opinion/even-with-chatgpt-4-theres-no-such-thing-as-artificial-intelligence-ai-is-a-misnomer-10317181.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/opinion/even-with-chatgpt-4-theres-no-such-thing-as-artificial-intelligence-ai-is-a-misnomer-10317181.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/even-with-chatgpt-4-theres-no-such-thing-as-artificial-intelligence-ai-is-a-misnomer-10317181.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 64
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/03/396571328.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Google's AI teams are experiencing a brain drain. Here's where its top researchers are now."
     excerpt: "Considered a breakthrough in natural language processing, the Transformer model helps an AI understand meaning by looking at each ... on BERT and is considered well-suited for tasks like translation and summarizing. Sharan Narang, another contributor ..."
     publishedDateTime: 2023-03-23T09:16:00Z
@@ -76,34 +60,6 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
         width: 767
         height: 633
-        isCached: true
-  - title: "Vegas Bot AI starts Presale with the bang, users can secure revenue with their advanced AI-powered strategies"
-    excerpt: "With Chatbot AI's rising popularity, Vegas Bot AI strives to take natural language processing and machine learning a notch higher to better serve customers globally. Chatbot AI And Its Features Chatbot AI is a computer software that uses natural language ..."
-    publishedDateTime: 2023-03-23T13:54:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31475133/vegas-bot-ai-starts-presale-with-the-bang-users-can-secure-revenue-with-their-advanced-ai-powered-"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 20
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Vegas Bot AI starts Presale with the bang, users can secure revenue with their advanced AI-powered strategies"
-    excerpt: "Vegas Bot AI, a revolutionary technology startup that aims to enhance customer interactions with businesses by developing a highly natural conversational experience, introduces the Vegas Bot AI Token Launch."
-    publishedDateTime: 2023-03-23T22:31:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-vegas-bot-ai-starts-presale-with-bang-users-/2023/03/23/9782463.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 20
-    images:
-      - url: "https://api.blockchainwire.io/uploads/OceanDigitalPR/editor_image/7f4ed462-e0a4-48f6-bbbc-53ea14eae198.png"
-        width: 622
-        height: 209
         isCached: true
 
 secured: "M2efMxG4iN1KbcriYA4pIqxwqSqsRV4186/MB43VsOMufo12PvBeHPA9gWWM00x2jjmbN/CtZ9SdJqSEOi++ZV/KrSeFMjOj6Aayn7DFZtSJi7xkJB46LJU4ZiK3DGlBXeGA5twD0r8zv/P+pNk6HrvKX+VvU2Q95vDIucL7X2yluDYY9dqvs02FiRl4LJtnqlQMj4ei0zL858ao/w5BAyb6zT7V11QYD+jKdF7Edu3DX32ugAIVGfITn/kSOoBrkr95M/qRNrgr3Jl+Znxn/oO0H9w8VbK8cbVSHcJ/SAV9OaxhsvmSCaBKoCmq/Tzc+VSIpYwQWuAHgULdORFTxmtawgm+gA2Ecdn0bTdiZRWIw+q0vatX6Tc75CBHnnwbYKTjjPm2m9jWD6cbRGCwE6ECjvSfO72VRMm1cPZ/x0YD+FG5OkL1T9rKgRaGWOp8pkPqU0Xgy49dQkcv6jHn2TLE0lY9icUuQ/qY88JckiiZBGoGlFtjTes6UZgaO2rtuHJzWyP40u74VDUER3w9zg==;cmNNS16XnzCMyQBHwt9xjA=="

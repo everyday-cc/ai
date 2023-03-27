@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Social Media Market Trends, Industry Demand and Scope, Top Players Analysis, Forecast 2023 - 2031"
-    excerpt: "Top “ Artificial Intelligence (AI) in Social Media Market ” Size 2023 Key players Profiled in the Report are [, Adobe System Incorporated., Facebook Inc., Clarabridge Inc., HootSuite Media Inc., Amazon Web Services Inc."
-    publishedDateTime: 2023-03-24T12:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-trends-industry-demand-and-scope-top-players-analysis-forecast-2023---2031-2023-03-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Synthetic Data Generation Market Size, Key Segments, Share, Trends, Growth, and Forecast 2031"
     excerpt: "Global Synthetic Data Generation Market is valued at approximately USD 123.3 million in 2021 and is anticipated"
     publishedDateTime: 2023-03-24T11:10:00Z

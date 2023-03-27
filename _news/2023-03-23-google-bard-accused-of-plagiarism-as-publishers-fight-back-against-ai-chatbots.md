@@ -292,6 +292,15 @@ related:
       name: GlobeSt.com
       domain: globest.com
     quality: 19
+  - title: "ChatGPT – Can this AI chatbot replace human jobs?"
+    excerpt: "First things first, the debate should be on whether ChatGPT can replace job roles and not jobs. After it was launched in the market, we’ve already assessed its capabilities and at its present state, it is rightly triggering a debate on whether certain job roles are vulnerable to replacement."
+    publishedDateTime: 2023-03-27T11:10:00Z
+    webUrl: "https://www.techopedia.com/chatgpt-can-this-ai-chatbot-replace-human-jobsl"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 19
   - title: "Character.AI raises $150 mn in VC funding led by Andreessen Horowitz"
     excerpt: "Character.AI has raised $150 million in a new VC funding round led by Andreessen Horowitz that valued the AI chatbot startup at $1 billion. Character.AI is also in talks with cloud providers for more strategic investment, Reuters news report said."
     publishedDateTime: 2023-03-23T12:46:00Z

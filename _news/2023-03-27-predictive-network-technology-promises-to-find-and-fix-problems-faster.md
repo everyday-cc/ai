@@ -8,8 +8,8 @@ webUrl: "https://www.networkworld.com/article/3691891/predictive-network-technol
 ampWebUrl: "https://www.networkworld.com/article/3691891/predictive-network-technology-promises-to-find-and-fix-problems-faster.amp.html"
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3691891/predictive-network-technology-promises-to-find-and-fix-problems-faster.amp.html"
 type: article
-quality: 44
-heat: 44
+quality: 48
+heat: 48
 published: false
 
 provider:

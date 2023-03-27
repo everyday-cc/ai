@@ -295,6 +295,15 @@ related:
       name: GlobeSt.com
       domain: globest.com
     quality: 19
+  - title: "ChatGPT – Can this AI chatbot replace human jobs?"
+    excerpt: "First things first, the debate should be on whether ChatGPT can replace job roles and not jobs. After it was launched in the market, we’ve already assessed its capabilities and at its present state, it is rightly triggering a debate on whether certain job roles are vulnerable to replacement."
+    publishedDateTime: 2023-03-27T11:10:00Z
+    webUrl: "https://www.techopedia.com/chatgpt-can-this-ai-chatbot-replace-human-jobsl"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 19
   - title: "Here's why Character.AI chatbot founders say this week's unicorn funding is just a start"
     excerpt: "Running this type of AI can be expensive and, while you just raised a very large ... Clearly people love what we have to offer and that will help us start to monetize this in the not-too-distant future. Noam: Our first option is to monetize through ..."
     publishedDateTime: 2023-03-24T22:21:00Z

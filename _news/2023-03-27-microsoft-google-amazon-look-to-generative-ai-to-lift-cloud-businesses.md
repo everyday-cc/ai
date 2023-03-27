@@ -3,8 +3,8 @@ category: news
 title: "Microsoft, Google, Amazon Look to Generative AI to Lift Cloud Businesses"
 excerpt: "The cloud providers are using the tech behind ChatGPT to heat up demand for their services."
 publishedDateTime: 2023-03-27T08:31:00Z
-originalUrl: "https://www.wsj.com/articles/microsoft-google-amazon-look-to-generative-ai-to-lift-cloud-businesses-7159a43f?mod=latest_headlines"
-webUrl: "https://www.wsj.com/articles/microsoft-google-amazon-look-to-generative-ai-to-lift-cloud-businesses-7159a43f?mod=latest_headlines"
+originalUrl: "https://www.wsj.com/articles/microsoft-google-amazon-look-to-generative-ai-to-lift-cloud-businesses-7159a43f"
+webUrl: "https://www.wsj.com/articles/microsoft-google-amazon-look-to-generative-ai-to-lift-cloud-businesses-7159a43f"
 type: article
 quality: 83
 heat: -1
@@ -184,20 +184,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 55
-  - title: "Microsoft Reveals More Partner Designations, AI Opportunity"
-    excerpt: "A second upcoming designation is for learning partners ... commitment with Azure intellectual property (IP) co-sell eligible products and services. Partners will also gain the ability to transact containers and virtual machine (VM) software reservations ..."
-    publishedDateTime: 2023-03-22T20:43:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-reveals-more-partner-designations-ai-opportunity"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/027f-178ca52379f0-58443240c6f2-1000/microsoft-sign.jpeg"
-        width: 609
-        height: 457
-        isCached: true
   - title: "AI wars: Elon Musk attacks Microsoft over ChatGPT tech access"
     excerpt: "Elon Musk, the CEO of Tesla and Twitter, may have just stepped up his attacks on Microsoft in the ongoing conflict over artificial intelligence (AI)."
     publishedDateTime: 2023-03-25T09:25:00Z
@@ -212,6 +198,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI startup accelerator Neo will partner with OpenAI, Microsoft"
+    excerpt: "Neo will partner with OpenAI and Microsoft to give free software and advice to companies on artificial intelligence."
+    publishedDateTime: 2023-03-27T14:00:00Z
+    webUrl: "https://www.seattletimes.com/business/new-ai-startup-accelerator-will-partner-with-openai-microsoft/"
+    ampWebUrl: "https://www.seattletimes.com/business/new-ai-startup-accelerator-will-partner-with-openai-microsoft/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/new-ai-startup-accelerator-will-partner-with-openai-microsoft/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
   - title: "GeekWire Podcast: Microsoft, OpenAI, and the AI opportunity for startups, with Neo CEO Ali Partovi"
     excerpt: "Neo’s diverse team of employees and mentors has impacted its startup accelerator and venture portfolio, with 46% of its capital backing startups led by women or members of underrepresented groups. (Neo Photo) This week on the GeekWire Podcast: what AI me ..."
     publishedDateTime: 2023-03-25T16:18:00Z
@@ -249,6 +246,6 @@ related:
       domain: visualstudiomagazine.com
     quality: 17
 
-secured: "+1Vfn5leYyARG8ypxTtwtyRZ/wTpAjDRCnS+aKcx+HVk7bNoA55auD1BmkiuE1FST4aCt1geJA6VrSng+kwQ3rO8lvGIWFV521oY189oFmEKql3zR/rTAbfIDR1hATxc7YXinv7fZ0QXNKLbsbdqvtYFFVuMq1mpMAXoVc4J2snLpmpXBfDw2owMRzP+MpcKCI2P9VCp3jEoDTpp4jf/rNPDQs74aux5sVDeLNG80pZ3ohcBCse5dzudxZvmTjK5zjngsB9A3aegxDcLLk/OTEC7pWhbpw2XIOE5nL+hburgjF3p2PgJumdniDewpD5OMHsR+sjt5m138jKIKN8cCxrNlOnbzR3vnMALGqW/Ilp8zPgbs9toUWgmi9hjnIUbyYlLtgm7ZkUvX+AxJtxI0eTPAlBlmfmS6IP2b1ed7YxVh14uU04J0XeWWSAXA1B7iFj1tLFxBQFos84xVR5d1JduGCbaR/sTXVq7QcBLuMFIz3yRKGhMHb4gZFsfM5MxplhG6fstoZkIeWWJJo9MPA==;kGbFitW/n1gwy7bJb5+xsQ=="
+secured: "8y+1OPwuaiRwguLx0ptwIldFHHS/XkWlFJoMHHrwgfVckhK6N9BJkBR5EiBhH4boJPIwtC+7GiRBVV182NrOydaQusQ+9DVnW0rfgF4fM3ZdQKSXvIwa36VqGEzM7dfRO+/5M3N63IXnCkGJ6irTx5S85PD6nAKCJHf94CH3u1AHCpAFyWHx/RvdbXelNkBsMifwXF/PcrCHJ7ifwdVckAj+eKM+/qdSCAHfpyDBa3w2cICOMjoZ9XkQlN/XVaM7Q0bM1wE6ZMinO2fbnREc/nMuJnPEkB71K+Rv7qTiboEpUs9HkLSQnHtERrz4zE9/bPXCLl+Z0OqemxlgWOjwe96v/LN0N077kSSaARsZK14=;PPYEIIAhEt2YSXWomtUFDg=="
 ---
 

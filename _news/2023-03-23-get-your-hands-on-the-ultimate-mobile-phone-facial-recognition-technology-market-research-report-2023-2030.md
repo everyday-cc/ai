@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/get-your-hands-on-the-ul
 webUrl: "https://www.marketwatch.com/press-release/get-your-hands-on-the-ultimate-mobile-phone-facial-recognition-technology-market-research-report-2023-2030-2023-03-23"
 type: article
 quality: 50
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -29,29 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "Cloud Natural Language Processing Market Size, and Research Report 2023 Consumption Share, Applications, Types and Forecast to 2031"
-    excerpt: "Mar 22, 2023 (Alliance News via COMTEX) -- Report Ocean's recent report provides an accurate and comprehensive research analysis of the Cloud Natural Language Processingmarket with a primary focus on the present and past market conditions. The global Cloud ..."
-    publishedDateTime: 2023-03-22T22:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-size-and-research-report-2023-consumption-share-applications-types-and-forecast-to-2031-2023-03-22"
+  - title: "Latest Forecast for Artificial Intelligence In Manufacturing Market [2023-2030] | Stay Ahead of the Success"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- [110 Pages Report] Global “Artificial Intelligence In Manufacturing Market” [2023-2030] latest research report provides size ..."
+    publishedDateTime: 2023-03-23T22:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-forecast-for-artificial-intelligence-in-manufacturing-market-2023-2030-stay-ahead-of-the-success-2023-03-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market Latest Innovations and Future Expansion 2023-2029"
-    excerpt: "Mar 23, 2023 (The Expresswire) -- \"Speech and Voice Recognition Market\" Insights 2023 By Applications (Speech Recognition, Voice Recognition), By Types (Automotive, Consumer, Banking, Financial Services and Insurance, Retail, Education, Healthcare and ..."
-    publishedDateTime: 2023-03-23T19:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-latest-innovations-and-future-expansion-2023-2029-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
   - title: "Image Recognition Market Research Report | Industry Forecast & Size USD 86.001 Billion By 2025"
     excerpt: "(MENAFN- EIN Presswire) image recognition market research. Facial recognition technology advancements and the growing popularity of media cloud services are significantly support"
     publishedDateTime: 2023-03-24T13:48:00Z

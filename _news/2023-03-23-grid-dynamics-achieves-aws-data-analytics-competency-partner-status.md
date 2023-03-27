@@ -63,6 +63,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AWS brings real-time call analytics to Amazon Chime software development kit"
+    excerpt: "Developers can simply choose the AWS artificial intelligence service they’d like to use to analyze a specific call, such as voice analytics, Amazon Transcribe or Amazon Transcribe Call Analytics. To visualize these analytics, users can choose from Amazon ..."
+    publishedDateTime: 2023-03-27T15:13:00Z
+    webUrl: "https://siliconangle.com/2023/03/27/aws-brings-real-time-call-analytics-amazon-chime-sdk/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/Screenshot-from-2023-03-27-07-23-16.png"
+        width: 620
+        height: 377
+        isCached: true
+  - title: "Income Tax: How will AI, Machine learning, and data analytics simplify tax process in India?"
+    excerpt: "Here is how artificial intelligence, machine learning, and data analytics are used in the taxation process: What is presumptive taxation and how it is beneficial for small businesses, professionals? Expert explains"
+    publishedDateTime: 2023-03-27T12:42:00Z
+    webUrl: "https://www.zeebiz.com/personal-finance/income-tax/news-income-tax-how-will-ai-machine-learning-and-data-analytics-simplify-tax-process-in-india-227701"
+    type: article
+    provider:
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 23
   - title: "Workplace Analytics and AI-Powered Skills-Mapping Platforms Named ISG Startup Challenge Winners"
     excerpt: "Technology platforms that facilitate collaboration and improved workplace experience and identify strengths and gaps in workforce skills were voted the winners of ISG Startup Challenges at events hosted in London and New York by Information Services Group (ISG) (Nasdaq: III),"
     publishedDateTime: 2023-03-24T21:24:00Z

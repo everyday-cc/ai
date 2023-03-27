@@ -25,72 +25,95 @@ images:
     isCached: true
 
 related:
-  - title: "There's No Such Thing as Artificial Intelligence"
-    excerpt: "According to its proponents, we will all live in the “metaverse,” build our financial infrastructure on “web3” and power our lives with “artificial intelligence.” All three of these terms are mirages that have raked in billions of dollars ..."
-    publishedDateTime: 2023-03-26T07:27:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2023-03-26/even-with-chat-gpt-4-there-s-no-such-thing-as-artificial-intelligence"
+  - title: "Apple acquired a startup using AI to compress videos"
+    excerpt: "Apple has acquired a startup, WaveOne, that was developing tech to compress videos for more efficient streaming."
+    publishedDateTime: 2023-03-27T14:28:00Z
+    webUrl: "https://techcrunch.com/2023/03/27/apple-acquired-a-startup-using-ai-to-compress-videos/"
+    ampWebUrl: "https://techcrunch.com/2023/03/27/apple-acquired-a-startup-using-ai-to-compress-videos/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/27/apple-acquired-a-startup-using-ai-to-compress-videos/amp/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
+      name: YAHOO!Finance
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iU7LUSykyhPA/v1/1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1227849474.jpg?w=1024"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Even with ChatGPT-4, there's no such thing as Artificial Intelligence. AI is a misnomer"
-    excerpt: "The term, AI, breeds misunderstanding and helps its creators avoid culpability. Reasonable technologists have tried for years to replace “AI” with “machine learning” but that doesn’t trip off the tong"
-    publishedDateTime: 2023-03-27T06:38:00Z
-    webUrl: "https://www.moneycontrol.com/news/opinion/even-with-chatgpt-4-theres-no-such-thing-as-artificial-intelligence-ai-is-a-misnomer-10317181.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/opinion/even-with-chatgpt-4-theres-no-such-thing-as-artificial-intelligence-ai-is-a-misnomer-10317181.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/even-with-chatgpt-4-theres-no-such-thing-as-artificial-intelligence-ai-is-a-misnomer-10317181.html/amp"
+  - title: "Brazilian Startup Using AI To Tackle Recruitment Bias Aims For US Market"
+    excerpt: "Human resources startup Jobecam is about to take a significant new step ... By using artificial intelligence (AI) and machine learning, the system ranks candidates more suited to the job. The initial interview takes place with an automatically generated ..."
+    publishedDateTime: 2023-03-24T10:33:00Z
+    webUrl: "https://www.forbes.com/sites/angelicamarideoliveira/2023/03/24/brazilian-startup-using-ai-to-tackle-recruitment-bias-aims-for-us-market/"
+    ampWebUrl: "https://www.forbes.com/sites/angelicamarideoliveira/2023/03/24/brazilian-startup-using-ai-to-tackle-recruitment-bias-aims-for-us-market/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/angelicamarideoliveira/2023/03/24/brazilian-startup-using-ai-to-tackle-recruitment-bias-aims-for-us-market/amp/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 64
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/03/396571328.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641ccf3d95843f2edd8a9f03/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 1392
+        isCached: true
+  - title: "Apple acquires AI-powered video compression startup WaveOne"
+    excerpt: "WaveOne, a California-based startup that has been developing algorithms for compressing videos, has confirmed that it has been purchased by Apple. Founded in 2016, WaveOne sought to use machine learning for video compression. By employing artificial ..."
+    publishedDateTime: 2023-03-27T15:01:00Z
+    webUrl: "https://appleinsider.com/articles/23/03/27/apple-acquires-ai-powered-video-compression-startup-waveone"
+    ampWebUrl: "https://appleinsider.com/articles/23/03/27/apple-acquires-ai-powered-video-compression-startup-waveone/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/03/27/apple-acquires-ai-powered-video-compression-startup-waveone/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 57
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/45619-88794-Apple-Logo-Header-xl.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Google's AI teams are experiencing a brain drain. Here's where its top researchers are now."
-    excerpt: "Considered a breakthrough in natural language processing, the Transformer model helps an AI understand meaning by looking at each ... on BERT and is considered well-suited for tasks like translation and summarizing. Sharan Narang, another contributor ..."
-    publishedDateTime: 2023-03-23T09:16:00Z
-    webUrl: "https://www.businessinsider.com/google-ai-teams-brain-drain-researchers-leave-2023-3"
+  - title: "Stretching the AI startup boom"
+    excerpt: "Generative AI startups may be getting all the attention and venture checks right now, but the next fund raise may be a tougher road. Why it matters: The market downturn has been raining on startupland’s parade for the past year,"
+    publishedDateTime: 2023-03-25T13:17:00Z
+    webUrl: "https://www.axios.com/2023/03/25/ai-startup-boom-funding"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
+      name: Axios
+      domain: axios.com
+    quality: 37
     images:
-      - url: "https://i.insider.com/641bd7c8b7834100191ae5c7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://images.axios.com/WxnvNEr5uH5bJmlNzktoAtAILiw=/1366x768/smart/2023/03/24/1679691568441.jpg"
+        width: 1366
+        height: 768
         isCached: true
-  - title: "From brain waves, this AI can sketch what you're picturing"
-    excerpt: "Some experts say in the wrong hands, the AI model could be used for interrogations or surveillance. “I think the line is very thin between what could be empowering and oppressive,” said Nita Farahany, a Duke University professor of law and ethics in ..."
-    publishedDateTime: 2023-03-25T12:05:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/brain-waves-ai-can-sketch-picturing-rcna76096"
+  - title: "Apple Acquires WaveOne Startup Working on AI-Powered Video Compression"
+    excerpt: "Apple recently acquired WaveOne, a California-based startup that was developing AI algorithms for video compression, according to TechCrunch."
+    publishedDateTime: 2023-03-27T14:05:00Z
+    webUrl: "https://www.macrumors.com/2023/03/27/apple-reportedly-acquires-waveone/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 49
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-03-25T17:12:00Z
-    webUrl: "https://www.law.com/dailyreportonline/2023/03/25/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
+      name: MacRumors
+      domain: macrumors.com
+    quality: 37
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://images.macrumors.com/t/ihTXdqcXcQVGLfy75fYYMN0NB8c=/1600x/article-new/2023/03/WaveOne-Apple.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Apple bolsters its AI technology with acquisition of WaveOne startup"
+    excerpt: "The report says Apple “quietly” acquired the Mountain View-based company WaveOne, a startup that was “developing AI algorithms for compressing video.” Apple didn’t confirm the acquisition, but WaveOne executive Bob Stankosh revealed the news in a ..."
+    publishedDateTime: 2023-03-27T14:22:00Z
+    webUrl: "https://9to5mac.com/2023/03/27/apple-ai-acqusition-waveone/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/waveone-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Vegas Bot AI starts Presale with the bang, users can secure revenue with their advanced AI-powered strategies"
     excerpt: "With Chatbot AI's rising popularity, Vegas Bot AI strives to take natural language processing and machine learning a notch higher to better serve customers globally. Chatbot AI And Its Features Chatbot AI is a computer software that uses natural language ..."
@@ -106,6 +129,24 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "AI startups to watch"
+    excerpt: "Investors are pouring billions of dollars into AI startups in what is quickly becoming the latest tech gold rush. Leading the AI revolution is OpenAI, a startup from Sam Altman that created the fast-growing artificial intelligence chatbot ChatGPT,"
+    publishedDateTime: 2023-03-23T14:16:00Z
+    webUrl: "https://www.bizjournals.com/milwaukee/inno/stories/awards/2023/03/23/ai-startups-to-watch.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
+  - title: "AI startups to watch"
+    excerpt: "Leading the AI revolution is OpenAI, a startup from Sam Altman that created the fast-growing artificial intelligence chatbot ChatGPT, which this year reached 100 million monthly active users."
+    publishedDateTime: 2023-03-24T07:18:00Z
+    webUrl: "https://www.bizjournals.com/washington/inno/stories/awards/2023/03/23/ai-startups-to-watch.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "FoKeU3FXICyi4yNZVQ+DpaL9JZ2blC9LPSdrBXAPT7fZOQWmhH4H3C3mhJQv+OV/G3CSeYHJQ2pyHCYfoxxWfnvWLZZRVSEv5+qvepzrMCt0wv5EOeHcikgE8AiuK8vWE4y8fot0POAUfDd08FuTN3WmEF1xuQ2mjkD53JFnfGC9vZHszzNHMMRGYB9rqdsQ3PJONisaXiC1+Wh+kW5DcflVKHx1gIpkW4P1Uc/pwP4U9bLMK5A2MDHTQ0o4BED9+IfaAkUzlirHtw1psC38NOLYM0BBpgUuhxBVH/3zDbS2Z0Xdetw4mTiY87qYPtWHm8BMEwlxLWCLn5tUciwjeMdS92MLXtwNvZQq4P/JCVzW9jk6BRNWdnf2J0VwlnuR5Gro2coxzM1f1TBtuOA3clRn2DV1BOktNzXhCf4kBcTq+CDYk3LEeBh1VzgyEyZWb5hVPYyqLwoGn3H4sacZN1fUwwsAJeNXbRd2qNtChNODQXVsqnRkjDvg2JbcNahQSZNwxkR8k7dzQoNaz6Bolw==;UybTHUjb9jyz54dKn3KNpQ=="
 ---

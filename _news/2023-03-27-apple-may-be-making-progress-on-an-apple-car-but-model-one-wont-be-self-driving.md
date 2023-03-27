@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-27T13:17:00Z
 originalUrl: "https://www.mactech.com/2023/03/27/apple-may-be-making-progress-on-an-apple-car-but-model-one-wont-be-self-driving/"
 webUrl: "https://www.mactech.com/2023/03/27/apple-may-be-making-progress-on-an-apple-car-but-model-one-wont-be-self-driving/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: MacTech

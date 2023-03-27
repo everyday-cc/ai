@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023, The Artificial Intelligence in Life Sciences Market is Expected to Witness a Substantial Rise in Revenue"
+    excerpt: "Artificial Intelligence in Life Sciences Market Size 2023 | New Report (122 Pages) | Information Technology | In"
+    publishedDateTime: 2023-03-27T03:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-the-artificial-intelligence-in-life-sciences-market-is-expected-to-witness-a-substantial-rise-in-revenue-2023-03-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "w6yFteSDoDNdptaSs8Aamzxou62+y8JRHv8zt2H8EAARXFyisJU4tqulhLVfqgaVcYpWaGryL9umYyoPUptKurRa/ZTDPbwKg0TLqitLD7cfWpL8kXr0/KnIHapltrBGwdFWQYvkOqkmiPtg9LPQKsvmZZi8i0KQb7t4O57rnRK707fv8YM0qqJwzsXZzZBEXv+fXpLPuvCLr1VFQyDm3FGz4FnIaIW0040w09MW75acV6NFz1OM2HJuyQ4Lz6omGkQ+UgN2nmIrI7pQyyGnzR3XXO55ESlklXczI2axCNnIAZuwjn3ybyT7L/FIIBgmitBuLhjiVQQi9yF85pYQESjfRtFF4IDLg7BVMwttJ08=;BjxFS0Pe1GjIZ/+PHOH8Pw=="
 ---

@@ -29,29 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing (NLP) Market to Eyewitness Massive Growth 2023"
-    excerpt: "Natural Language Processing (NLP) Market Size 2023 | New Report (102 Pages) | Information Technology | In This"
-    publishedDateTime: 2023-03-27T04:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-to-eyewitness-massive-growth-2023-2023-03-27"
+  - title: "Artificial Intelligence in Fashion Retail Market to Experience a Significant Increase in Revenues"
+    excerpt: "Artificial Intelligence in Fashion Retail Market Size 2023 | New Report (105 Pages) | Information Technology | In"
+    publishedDateTime: 2023-03-27T04:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-fashion-retail-market-to-experience-a-significant-increase-in-revenues-2023-03-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 82
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare Natural Language Processing (NLP) Market Share From 2023 And Unlimited Opportunities for New Companies"
-    excerpt: "Healthcare Natural Language Processing (NLP) Market Size 2023 | New Report (127 Pages) | Information Technology | In"
+  - title: "Artificial Intelligence (AI) in Fintech Market is Booming Worldwide to Show Significant Growth over the Forecast 2023"
+    excerpt: "Artificial Intelligence (AI) in Fintech Market Size 2023 | New Report (116 Pages) | Information Technology | In"
     publishedDateTime: 2023-03-27T03:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-share-from-2023-and-unlimited-opportunities-for-new-companies-2023-03-26"
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-is-booming-worldwide-to-show-significant-growth-over-the-forecast-2023-2023-03-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 80
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

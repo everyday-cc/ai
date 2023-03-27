@@ -114,7 +114,7 @@ related:
   - title: "Microsoft, Google, Amazon Look to Generative AI to Lift Cloud Businesses"
     excerpt: "The cloud providers are using the tech behind ChatGPT to heat up demand for their services."
     publishedDateTime: 2023-03-27T08:31:00Z
-    webUrl: "https://www.wsj.com/articles/microsoft-google-amazon-look-to-generative-ai-to-lift-cloud-businesses-7159a43f?mod=latest_headlines"
+    webUrl: "https://www.wsj.com/articles/microsoft-google-amazon-look-to-generative-ai-to-lift-cloud-businesses-7159a43f"
     type: article
     provider:
       name: Wall Street Journal
@@ -194,20 +194,17 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 55
-  - title: "Microsoft Reveals More Partner Designations, AI Opportunity"
-    excerpt: "A second upcoming designation is for learning partners ... commitment with Azure intellectual property (IP) co-sell eligible products and services. Partners will also gain the ability to transact containers and virtual machine (VM) software reservations ..."
-    publishedDateTime: 2023-03-22T20:43:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-reveals-more-partner-designations-ai-opportunity"
+  - title: "AI startup accelerator Neo will partner with OpenAI, Microsoft"
+    excerpt: "Neo will partner with OpenAI and Microsoft to give free software and advice to companies on artificial intelligence."
+    publishedDateTime: 2023-03-27T14:00:00Z
+    webUrl: "https://www.seattletimes.com/business/new-ai-startup-accelerator-will-partner-with-openai-microsoft/"
+    ampWebUrl: "https://www.seattletimes.com/business/new-ai-startup-accelerator-will-partner-with-openai-microsoft/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/new-ai-startup-accelerator-will-partner-with-openai-microsoft/?amp=1"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 54
-    images:
-      - url: "https://www.crn.com/resources/027f-178ca52379f0-58443240c6f2-1000/microsoft-sign.jpeg"
-        width: 609
-        height: 457
-        isCached: true
   - title: "GeekWire Podcast: Microsoft, OpenAI, and the AI opportunity for startups, with Neo CEO Ali Partovi"
     excerpt: "Neo’s diverse team of employees and mentors has impacted its startup accelerator and venture portfolio, with 46% of its capital backing startups led by women or members of underrepresented groups. (Neo Photo) This week on the GeekWire Podcast: what AI me ..."
     publishedDateTime: 2023-03-25T16:18:00Z

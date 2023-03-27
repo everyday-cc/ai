@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-27T11:07:00Z
 originalUrl: "https://www.thesun.ie/news/10450003/sas-facial-expert-telltale-signs-putin-using-body-doubles/"
 webUrl: "https://www.thesun.ie/news/10450003/sas-facial-expert-telltale-signs-putin-using-body-doubles/"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Irish Sun

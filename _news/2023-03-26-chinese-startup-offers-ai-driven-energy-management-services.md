@@ -23,6 +23,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Chinese scientists develop new method to guarantee self-driving safety"
+    excerpt: "A research team from Tsinghua University has made a breakthrough in autonomous driving, developing a technology that allows vehicles to self-learn while driving to deal with unfamiliar situations, an innovation that could resolve self-driving safety concerns."
+    publishedDateTime: 2023-03-27T12:58:00Z
+    webUrl: "https://ukranews.com/en/news/921397-chinese-scientists-develop-new-method-to-guarantee-self-driving-safety"
+    type: article
+    provider:
+      name: Новости Украины
+      domain: ukranews.com
+    quality: 4
+
 secured: "25Zzy2X2PyyyhlAh56ElO/jaAKxeKZHLZXzUE2sHGu0WDif/Uftml9F6S9wCxhiP+Ug0Obou0z9hxt5Z/NJjP+flPqpJZTjqvrEnjlceSNSH6THyyjVASVYwuogbGqtHVPN0SD+yjYKWNJhacAi2ez/RyWPmhoTJ3lAbz5qfYNWo3IuJkwFNf2gdDF34zjMcG9fVtVQdky0bobTSBCCxaq+6VtV4CmsGprYb4/XHOZhC3Ekvlf6CFwzMysJq6KzWjvN8em3PBoesAuZrIuwkqYOC6nExte0pe58SB/FppY14nWULCtZfHmgQ6PO5DirHQdXofquP9USJGBPmVTK46cSEmgXfNcpFHLTd3AxfiIukswS/SIXBiH7osKaHtkwrprkO3qiFD3hdVYwDcPpoMr5sw03751p0HIwL0JgkEGICFlOqCvAoBxEM78kNzsL8hukwomUyIBRyIMzal83Q0UOfanRcvpBDuRVlNrqqCSSUdNvdUXALrPgDzjRM/LOCMzPdHNnHJibHwwUs/t60SA==;pI/AZzUAhwlOYayb0L/0YA=="
 ---
 

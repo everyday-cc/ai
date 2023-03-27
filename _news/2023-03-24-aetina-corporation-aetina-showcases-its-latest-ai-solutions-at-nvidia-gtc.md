@@ -41,6 +41,20 @@ related:
         width: 1500
         height: 844
         isCached: true
+  - title: "Aetina Showcases Its Latest AI Solutions at NVIDIA GTC"
+    excerpt: "Aetina's New Edge Computing Systems and Platforms Are Powered by the Latest NVIDIA Jetson Orin System-on-Modules Aetina's NVIDIA-Certified System Tested with NVIDIA L4 Tensor Core GPU Aetina's SuperEdge AIS-D422-A1—an AI platform ideal for AI model ..."
+    publishedDateTime: 2023-03-24T05:18:00Z
+    webUrl: "https://www.asiaone.com/business/aetina-showcases-its-latest-ai-solutions-nvidia-gtc"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 39
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2023/Aetina_s_New_Edge_Computing_Systems_Platforms_Are_Powered_Latest_NVIDIA.jpg?h=5b470aab&itok=7c0fUUzZ"
+        width: 600
+        height: 316
+        isCached: true
   - title: "Aetina Partners with Hailo to Launch Multi-Inference AI Solutions at the Edge during ISC West 2023"
     excerpt: "Aetina and Hailo join forces to launch multi-inference AI solutions that involve object recognition AI models, Aetina's AI inference platform—AIP-SQ67, and AI-MXM-H84A"
     publishedDateTime: 2023-03-24T00:30:00Z

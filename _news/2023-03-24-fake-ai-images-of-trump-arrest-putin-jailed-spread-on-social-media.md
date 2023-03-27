@@ -51,22 +51,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "AI-Generated Images Of Donald Trump Getting Arrested Foreshadow A Flood Of Memes, Fake News"
-    excerpt: "Images depicting the \"arrest\" of Former President Donald Trump spread over the internet, like a warning of the incoming misinformation flood."
-    publishedDateTime: 2023-03-22T20:35:00Z
-    webUrl: "https://www.forbes.com/sites/danidiplacido/2023/03/22/ai-generated-images-of-donald-trump-getting-arrested-foreshadow-a-flood-of-memes-fake-news/"
-    ampWebUrl: "https://www.forbes.com/sites/danidiplacido/2023/03/22/ai-generated-images-of-donald-trump-getting-arrested-foreshadow-a-flood-of-memes-fake-news/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2023/03/22/ai-generated-images-of-donald-trump-getting-arrested-foreshadow-a-flood-of-memes-fake-news/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 77
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641b60a2d07ab5f22c70461c/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 836
-        isCached: true
   - title: "Fake AI images of Putin, Trump being arrested spread online"
     excerpt: "He even stated clearly in his Twitter thread that the images were AI-generated. Still, the images were enough ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging ..."
     publishedDateTime: 2023-03-24T00:21:00Z

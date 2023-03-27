@@ -97,6 +97,40 @@
       ]
     },
     {
+      "path": "_news/2023-03-22-google-asks-london-court-to-throw-out-lawsuit-over-medical-records.md",
+      "title": "Google asks London court to throw out lawsuit over medical records",
+      "excerpt": "The Royal Free London NHS Trust transferred patient data to Google's artificial intelligence firm DeepMind Technologies in 2015 in relation to the development of a mobile app designed to analyse ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2023/03/22/google-asks-london-court-to-throw-out-lawsuit-over-medical-records",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2023/03/22/google-asks-london-court-to-throw-out-lawsuit-over-medical-records",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-21T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-everything-everywhere-is-going-to-change-all-at-once.md",
       "title": "Everything, Everywhere Is Going to Change All at Once",
       "excerpt": "Consider just one example that most people probably haven’t even heard of — the way DeepMind, an A.I. lab owned by Google parent Alphabet, recently used its AlphaFold A.I. system to solve one of the most wicked problems in science — at a speed and ...",
@@ -1419,49 +1453,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-an-important-next-step-on-our-ai-journey.md",
-      "title": "An important next step on our AI journey",
-      "excerpt": "Introducing Bard, Google's experimental conversational AI service powered by LaMDA — plus, new AI features in Search coming soon.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/bard-google-ai-search-updates/",
-      "originalUrl": "https://blog.google/technology/ai/bard-google-ai-search-updates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

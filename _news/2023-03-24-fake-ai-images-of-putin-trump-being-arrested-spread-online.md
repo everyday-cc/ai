@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "AI-Generated Images Of Donald Trump Getting Arrested Foreshadow A Flood Of Memes, Fake News"
-    excerpt: "Images depicting the \"arrest\" of Former President Donald Trump spread over the internet, like a warning of the incoming misinformation flood."
-    publishedDateTime: 2023-03-22T20:35:00Z
-    webUrl: "https://www.forbes.com/sites/danidiplacido/2023/03/22/ai-generated-images-of-donald-trump-getting-arrested-foreshadow-a-flood-of-memes-fake-news/"
-    ampWebUrl: "https://www.forbes.com/sites/danidiplacido/2023/03/22/ai-generated-images-of-donald-trump-getting-arrested-foreshadow-a-flood-of-memes-fake-news/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2023/03/22/ai-generated-images-of-donald-trump-getting-arrested-foreshadow-a-flood-of-memes-fake-news/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 77
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641b60a2d07ab5f22c70461c/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 836
-        isCached: true
   - title: "Trump Inexplicably Posts AI-Generated Photo of Himself Praying"
     excerpt: "The former president is missing a finger and has the smoothness of a daytime soap opera star in an AI-generated photo he posted on Truth Social Thursday."
     publishedDateTime: 2023-03-23T19:38:00Z

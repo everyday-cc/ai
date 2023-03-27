@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2018/11/2018-11-26-image-2.jpg"
         width: 1800
         height: 1200
+        isCached: true
+  - title: "Custom Nvidia chip boosts China's AI push"
+    excerpt: "The booth of Nvidia Corp during an expo in Hangzhou, Zhejiang province. LONG WEI/FOR CHINA DAILY . Nvidia, a US-based artificial intelligence chip company, said it has developed a"
+    publishedDateTime: 2023-03-23T09:45:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202303/23/WS641ba671a31057c47ebb6076.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 54
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202303/23/641ba671a31057c4b4b7c6d4.jpeg"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "TB6var4qiJOmfKIaH4E4ZSA6SGYipEn4T4490YfHlp/ddYKHLitW9WnFCxk4icZPNc1VlhiNqLZNvaY6uPE7cxsM6nRM4lh1kC7kGbYUJbcTEhow4i+P2HtoD2jy61qLkjpJJ7RdEwuM25fegdW9U3VRUM+VZw/Ce+Eb6fDcrLhlvfCrsX/YqCY9rYhCO/VjNuyv47daIML5mNY328blFwwYbRBHik4MmWPwt7ZAulgFBIX1ikTmXsjEVHG21FUrw9il5SoIFBuPlxHT42yCiIg9TRshJWH6v/JbdJYiEe7bQlP2p4bFe/C7HqBxUR9kYFabxpRIuhoy69jNwrBshPwxZ5ZwdZEKsfLfETheis0=;6p/E8sndR2mrRL27rq+R2w=="

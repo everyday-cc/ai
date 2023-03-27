@@ -43,22 +43,6 @@ related:
         width: 1267
         height: 850
         isCached: true
-  - title: "FG Set To Install Facial Recognition Technology At Major Airports"
-    excerpt: "The Federal Government has revealed its plans to install facial recognition technology at major airports across the country. Clem Agba, the Honourable Minister of State, Budget and National Planning, made this known on Wednesday when he hosted the Japanese ..."
-    publishedDateTime: 2023-03-22T22:23:00Z
-    webUrl: "https://www.informationng.com/2023/03/fg-set-to-install-facial-recognition-technology-at-major-airports.html"
-    ampWebUrl: "https://www.informationng.com/2023/03/fg-set-to-install-facial-recognition-technology-at-major-airports.html/amp"
-    cdnAmpWebUrl: "https://www-informationng-com.cdn.ampproject.org/c/s/www.informationng.com/2023/03/fg-set-to-install-facial-recognition-technology-at-major-airports.html/amp"
-    type: article
-    provider:
-      name: INFORMATION NIGERIA
-      domain: informationng.com
-    quality: 74
-    images:
-      - url: "https://www.informationng.com/wp-content/uploads/2023/03/MMIA.jpg"
-        width: 700
-        height: 420
-        isCached: true
   - title: "FG to install facial recognition gadgets at airports"
     excerpt: "The Federal Government has indicated plans to install facial recognition technology at major airports in the country. The Minister of State for Finance, Budget and National Planning, Clem Agba, made this known on Tuesday when he hosted the Japanese ..."
     publishedDateTime: 2023-03-23T00:02:00Z
@@ -89,15 +73,6 @@ related:
         width: 500
         height: 277
         isCached: true
-  - title: "FG to install facial recognition technology at airports"
-    excerpt: "The Federal Government has indicated plans to install facial recognition technology at major airports across the federation. The Honourable Minister of State, Budget and National Planning, Clem Agba, made this known on Wednesday when he hosted the Japanese ..."
-    publishedDateTime: 2023-03-22T19:39:00Z
-    webUrl: "https://punchng.com/fg-to-install-facial-recognition-technology-at-airports/"
-    type: article
-    provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 34
 
 secured: "kSdCYaTtnvbvb8oPDPnHeTi5Deus9qARncuDWQiXnOYGnUySpQj5oFPN+bPLrvuB4Y7EvNgWCfvNsuqLPB1CPlBpced6Vf5K74yayoNLFfHFGi5OFzfMVOS8jVX9riJnIEl50QY2BRAWUc65hxTL0FeEf56RsGj0iG3DnVvD5iE3MXmiv2vzGDchXfhsDry3vBasY3cJLgTx6LAnFUkTbVx08CqFNwWF9SAzPsKIislHpoBA7fyCgGSNkdnKm8tClcOxXwkigDbeVsRw9NJO7b5LQKfVkJh4BsnU4lgLfjr5Py3QeUG/XGH3t7+NaRRFSHc/pBBJebIxMknk++6OnFyMjY4RfJ4Oysvw7Yq4Y1aup83Lw8NItkL7Vv0nt9zSVSr0bkvv1xe2DE8u9OFGz/D+6s4D4I/ygSRX/t0RvMigFgsohoaNTIf71fnbFvcjKYfZgtUoGubLxp6vwMH7xB6GnklLUTHe+/aesFo3Kkzv7hQmHDiT55Ni3h/z4fGeutiPxQyVPRLEOvosfT7phw==;iA5f3bbzen8Uf7MRij0SsA=="
 ---

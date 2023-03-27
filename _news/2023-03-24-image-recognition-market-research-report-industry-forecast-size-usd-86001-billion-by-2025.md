@@ -39,29 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cloud Natural Language Processing Market Size, and Research Report 2023 Consumption Share, Applications, Types and Forecast to 2031"
-    excerpt: "Mar 22, 2023 (Alliance News via COMTEX) -- Report Ocean's recent report provides an accurate and comprehensive research analysis of the Cloud Natural Language Processingmarket with a primary focus on the present and past market conditions. The global Cloud ..."
-    publishedDateTime: 2023-03-22T22:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-size-and-research-report-2023-consumption-share-applications-types-and-forecast-to-2031-2023-03-22"
+  - title: "Latest Forecast for Artificial Intelligence In Manufacturing Market [2023-2030] | Stay Ahead of the Success"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- [110 Pages Report] Global “Artificial Intelligence In Manufacturing Market” [2023-2030] latest research report provides size ..."
+    publishedDateTime: 2023-03-23T22:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-forecast-for-artificial-intelligence-in-manufacturing-market-2023-2030-stay-ahead-of-the-success-2023-03-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market Latest Innovations and Future Expansion 2023-2029"
-    excerpt: "Mar 23, 2023 (The Expresswire) -- \"Speech and Voice Recognition Market\" Insights 2023 By Applications (Speech Recognition, Voice Recognition), By Types (Automotive, Consumer, Banking, Financial Services and Insurance, Retail, Education, Healthcare and ..."
-    publishedDateTime: 2023-03-23T19:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-latest-innovations-and-future-expansion-2023-2029-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
 
 secured: "j6C26WUD0nQtgoeS3ZYo8/qRqVoEF+iDz3pdKrvgWVUVBmZgNHtpqUkcC6oiBaqAIE2Maq8sXJBn/RNtV3TjhtQ3+G4vXO1EYfAPNUYzWpk8C6LStRVWhOwPTyvNCZW+rqdTGApAxyL9+EuttzrPj3iJ8RWCqH7MfZv71ps5R8l4m/jXgnVYYLptZEZY75oWLIbO1VdBwl9/uP65iu4zd7pfJcf7LOqS6VgnTJPgUP9CB8eG/2+uVt1pySAuozxMdeonajKOFq6E6ql2xPAx2CMwq4j+3BBGt9MV3i5rflgX0wTB97Y24sLqguNNgBbmD3xpW0iS2M1SrTeRh+P4Eqt5nmTAxuAeqdRQHUz/R3e9hwH+t1tsc9xQY83dPG1OMDCI72O9/4gnhyt6YzXfa87e0D42T6z7OwOdB1MIr+kxCPRS1hV6NMGA/8ckEMWLsoLkjIMwhU6XFqGITGuhdzjTI8wHSUbBPp9CY3Iufq2pkzw1pWtvOl7XUsKr0kCl5nQubbdwSOPg87WZNFHYMA==;iWaV+9vJsuFwWVBbHzcobQ=="
 ---

@@ -29,29 +29,71 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning-as-a-Service (MLaaS) Market SWOT Analysis till 2030"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (The Expresswire) -- “Machine Learning-as-a-Service (MLaaS) Market” Are a Collection of Information and Analysis Obtained From Diverse Sources to Aid ..."
-    publishedDateTime: 2023-03-24T22:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-swot-analysis-till-2030-2023-03-24"
+  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2023-A Detailed Analysis till 2028"
+    excerpt: "Mar 27, 2023 (The Expresswire) -- The report features the size of the global \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market” in 2023, along with a detailed profile of the key players. These players include [3M (Minnesota ..."
+    publishedDateTime: 2023-03-27T12:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2023-a-detailed-analysis-till-2028-2023-03-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 84
+    quality: 98
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine-Learning-as-a-Service Market Size in 2023 To 2030 | Amazon Web Services, BigML, Crunchbase"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (Heraldkeepers) -- New Jersey, United State- This \"Machine-Learning-as-a-Service Market\" report offers a thorough analysis of the industry, including forecasts ..."
-    publishedDateTime: 2023-03-24T18:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-in-2023-to-2030-amazon-web-services-bigml-crunchbase-2023-03-24"
+  - title: "Report on Artificial Intelligence (AI) in Healthcare Market Size until 2026"
+    excerpt: "The Global Artificial Intelligence (AI) in Healthcare Market 2022-2026 Research Report offers a comprehensive analysis of the market, providing valuable insights into the market status, size, share, SWOT and PESTLE analysis. The report examines the market ..."
+    publishedDateTime: 2023-03-24T15:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/report-on-artificial-intelligence-ai-in-healthcare-market-size-until-2026-2023-03-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 72
+    quality: 97
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023 Healthcare Artificial Intelligence (AI) Market Size, Growth | Global Industry Trends [2029]"
+    excerpt: "Mar 23, 2023 (The Expresswire) -- [118+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Healthcare Artificial Intelligence (AI) Market” Size 2023 Key players ..."
+    publishedDateTime: 2023-03-23T20:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-healthcare-artificial-intelligence-ai-market-size-growth-global-industry-trends-2029-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 88
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing (NLP) Market to Eyewitness Massive Growth 2023"
+    excerpt: "Natural Language Processing (NLP) Market Size 2023 | New Report (102 Pages) | Information Technology | In This"
+    publishedDateTime: 2023-03-27T04:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-to-eyewitness-massive-growth-2023-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Healthcare Natural Language Processing (NLP) Market Share From 2023 And Unlimited Opportunities for New Companies"
+    excerpt: "Healthcare Natural Language Processing (NLP) Market Size 2023 | New Report (127 Pages) | Information Technology | In"
+    publishedDateTime: 2023-03-27T03:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-share-from-2023-and-unlimited-opportunities-for-new-companies-2023-03-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 80
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -71,43 +113,48 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Europe Deep Learning Neural Networks (DNNs) Market Report on Industry Research, Growth Trends, and Competitive Analysis 2023 to 2031"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (Alliance News via COMTEX) -- Europe deep learning neural networks (DNNs) market is expected to register healthy CAGR in the forecast period of 2019 to 2026."
-    publishedDateTime: 2023-03-24T18:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/europe-deep-learning-neural-networks-dnns-market-report-on-industry-research-growth-trends-and-competitive-analysis-2023-to-2031-2023-03-24"
+  - title: "Artificial Intelligence (AI) in Social Media Market Trends, Industry Demand and Scope, Top Players Analysis, Forecast 2023 - 2031"
+    excerpt: "Top “ Artificial Intelligence (AI) in Social Media Market ” Size 2023 Key players Profiled in the Report are [, Adobe System Incorporated., Facebook Inc., Clarabridge Inc., HootSuite Media Inc., Amazon Web Services Inc."
+    publishedDateTime: 2023-03-24T12:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-trends-industry-demand-and-scope-top-players-analysis-forecast-2023---2031-2023-03-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Platform as a Service (PaaS) Market Is Booming Worldwide Forecast 2023-2029"
-    excerpt: "Mar 24, 2023 (The Expresswire) -- Latest Report will contain the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence in Platform as a Service (PaaS) Market in Information and Communication Technology , Information ..."
-    publishedDateTime: 2023-03-24T07:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-platform-as-a-service-paas-market-is-booming-worldwide-forecast-2023-2029-2023-03-24"
+  - title: "2023-2026 Speech and Voice Recognition Market Size and Industry Share Analysis"
+    excerpt: "The Global Speech and Voice Recognition Market 2022-2026 Research Report offers a comprehensive analysis of the market, providing valuable insights into the market status, size, share, SWOT and PESTLE analysis. The report examines the market growth ..."
+    publishedDateTime: 2023-03-25T07:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2026-speech-and-voice-recognition-market-size-and-industry-share-analysis-2023-03-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "North America Deep Learning Neural Networks (DNNs) Market Essential Business Expansion Strategies and Key Players 2023 to 2031"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (Alliance News via COMTEX) -- North America deep learning neural networks (DNNs) market is expected to register healthy CAGR in the forecast period of 2019 to 2026."
-    publishedDateTime: 2023-03-24T18:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-deep-learning-neural-networks-dnns-market-essential-business-expansion-strategies-and-key-players-2023-to-2031-2023-03-24"
+  - title: "Clinical Natural Language Processing Market Trends, Industry Demand and Scope, Top Players Analysis, Forecast 2023 - 2031"
+    excerpt: "Mar 24, 2023 (The Expresswire) -- [108+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Clinical Natural Language Processing Market” Size 2023 Key players ..."
+    publishedDateTime: 2023-03-24T15:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/clinical-natural-language-processing-market-trends-industry-demand-and-scope-top-players-analysis-forecast-2023---2031-2023-03-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "nFyLy/MMH7Qt+uu/WzBax8x5ZNRcVgk7DQVXvQnYoaJ35vFC1tQMMiUmjc3wuJ1ecdjSv/I/YBzapk8l6nGmncQ298NOIvt54ENnYf74rc4OF4wZNZamErwDjLjhSVBQITLA5nJNIrRlTcbYh74cZWcgFERu+x03jKqHY6MgegUxl60oD8QSdFsjGqiPoWHNZlA6Wd7VTU4j9B/URVIVlfdVkMLpQlG2w4LgmS/eGcd2qG+arqu5WhuZSBXIt17VNRjNTLAXjEHM/JFlMRW7tEDigr/CPq4HHiFcS/d5Jqa2avJtkhmkURVGECucQ59Io4kH7WxAIQ45u5wOMDABXScIl5s5RDGxMKEt2j4UxIQ=;3gSgP7ZQiWtzsn9+fnvU+g=="
 ---

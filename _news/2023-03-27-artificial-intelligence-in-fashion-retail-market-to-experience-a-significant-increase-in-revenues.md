@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-fashion-retail-market-to-experience-a-significant-increase-in-revenues-2023-03-27"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023, The Artificial Intelligence in Life Sciences Market is Expected to Witness a Substantial Rise in Revenue"
+    excerpt: "Artificial Intelligence in Life Sciences Market Size 2023 | New Report (122 Pages) | Information Technology | In"
+    publishedDateTime: 2023-03-27T03:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-the-artificial-intelligence-in-life-sciences-market-is-expected-to-witness-a-substantial-rise-in-revenue-2023-03-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-27T13:30:00Z
 originalUrl: "https://www.law.com/newyorklawjournal/2023/03/27/does-ai-infringe-ip-laws-when-it-uses-copyrighted-material-for-inspiration/"
 webUrl: "https://www.law.com/newyorklawjournal/2023/03/27/does-ai-infringe-ip-laws-when-it-uses-copyrighted-material-for-inspiration/"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Law

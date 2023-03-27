@@ -7,7 +7,7 @@ originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/GOOGL-Q/p
 webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/GOOGL-Q/pressreleases/15370906/is-it-too-late-to-buy-alphabet-stock/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 720
     height: 500
     isCached: true
+
+related:
+  - title: "Artificial Intelligence: Which Stocks To Buy"
+    excerpt: "Investor interest in artificial intelligence (AI) technology has skyrocketed over the past several months. There is immense potential in this new frontier. AI stocks are seen as the promising future, and they may very well be. But just like other market ..."
+    publishedDateTime: 2023-03-27T12:40:00Z
+    webUrl: "https://www.nasdaq.com/articles/artificial-intelligence-which-stocks-to-buy"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
 
 secured: "tpaNaQpZ3vTV9yx2aMxaW22g2ZxXa/rbdBbB9uLNAxICUJoMpNdbMrbttrTc64dsOmAjy22r3Qwa+rtJbFG51bIAN8FyDdaCUAxuGvCcFOgvFac89UdofrrK6zBlm0cO/5BPU+a+ZCe+sywGdd5Uo0cz9yafxkeh4R2JZprSGM/WGTAKosjfORs0QhzWR71gdPAyYRn22wXxsmrGxJXKxFAqW5h64RViTp+1TU229nvJTjijUgBtRTf6bkF7Xc2jk0U2uKShN0WlJwyzsu2LAT1Q4vgaaIZ6O3dU+zccIQa7VN/DjMi9UH5eWIpp/wjAI56mfHzVZawNWKYCg5Q3942yDA2ao12jRV9Y0Xg09Yg=;geeBBOFKx+2h4C7CPJTNcg=="
 ---

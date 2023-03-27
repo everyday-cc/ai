@@ -25,35 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Uncovering new opportunities with edge AI"
-    excerpt: "With technology ever-advancing, edge AI is within reach. How to build, validate and push new edge AI software into production."
-    publishedDateTime: 2023-03-26T22:20:00Z
-    webUrl: "https://venturebeat.com/ai/uncovering-new-opportunities-with-edge-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/uncovering-new-opportunities-with-edge-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/uncovering-new-opportunities-with-edge-ai/amp/"
+  - title: "Ten Questions With OpenAI On Reinforcement Learning With Human Feedback"
+    excerpt: "So navigating that is going to be challenging and involves machine learning interventions but also a broader social technical perspective. Are there interesting questions that come up or new challenges or new directions for this kind of research as ..."
+    publishedDateTime: 2023-03-27T15:02:00Z
+    webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2023/03/27/ten-questions-with-openai-on-reinforcement-learning-with-human-feedback/"
+    ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2023/03/27/ten-questions-with-openai-on-reinforcement-learning-with-human-feedback/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2023/03/27/ten-questions-with-openai-on-reinforcement-learning-with-human-feedback/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Forbes
+      domain: forbes.com
     quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1264510281.jpg?w=1200&strip=all"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641dcf2b94696554a1580d4a/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 629
+        height: 627
         isCached: true
-  - title: "Discover the Hidden Opportunities in the Artificial Intelligence Consulting Service Market [2023-2030]"
-    excerpt: "Our Most Recent Research Report Indicates that Artificial Intelligence Consulting Service Market is Set to Undergo Significant Changes in 2023 Compared to the Previous Year. [124 Pages Report] Our Artificial Intelligence Consulting Service Market research ..."
-    publishedDateTime: 2023-03-25T07:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/discover-the-hidden-opportunities-in-the-artificial-intelligence-consulting-service-market-2023-2030-2023-03-24"
+  - title: "Amazon, Google scramble to keep pace with OpenAI despite huge AI teams"
+    excerpt: "The numbers underscore how seriously the world's biggest technology firms have been taking their work on artificial intelligence, but also how slow and cautious they have been to create services"
+    publishedDateTime: 2023-03-27T07:01:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/amazon-google-scramble-to-keep-pace-with-openai-despite-huge-ai-teams-123032700316_1.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
+      name: Business Standard
+      domain: business-standard.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-12/05/full/1670214258-7178.png"
+        width: 512
+        height: 383
+        isCached: true
+  - title: "These are the 34 jobs OpenAI suggests will secure you against the AI revolution"
+    excerpt: "The creators of recent AI phenomenon, ChatGPT ... Additionally, LLMs can be used to translate content into different languages, which can help to reach a wider audience. And, I can be used to generate personalized content, such as news articles that ..."
+    publishedDateTime: 2023-03-23T15:12:00Z
+    webUrl: "https://www.pcgamer.com/these-are-the-34-jobs-openai-suggests-will-secure-you-against-the-ai-revolution/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 35
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ScPYLdpxFRGNZK7zfy5Lh6-1200-80.jpg"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
 
 secured: "XVUhl5HIE0ykF4AKHn/FDi4Sq2Fl0DnXDZQHRsg1XByQ/M7qNFxGxmVcpP9MATShvJ6XpZCMjc72QR2esDURigufIGpUb2MrDMOCKGkKir9veijjoMVkj2B2RirmkgP0FTKEXgJNsR3qXIGL/cAh+kWOxlEX6UqjO8J6uEmP5rUalkTPhzJgoA9MXb6jT8dKh04qiFCSxtTcPXdrbFG6xgAD2huBqEEn/A8aN5shYY2LAXaqKUihsghWJR1QSw/7/bexcyvtlw5X5Vsl899Ou0fD5d53j8j5TW59cE3CtrufiXy3me25leo83VtJxzLczy8+HXSHrFHs1Rf3boH9zxdiYfABy9fcwbnfIsHMPF/A7xBrPFbjDROjoHXtCMn7AvthfFD1Hnw2kaRNiKaIsfrpJ0XrBqt9CyHV56vccwjBrfNhxW0lX8v2V1+UuziYG0XQ0l/+BFWBC+Ot8WKDgUFd5FYTBpbmvQ+zfv8MRicvSjPwaCunFIql3GE0ShR0SkS1iv78obX/lnFgYhq/fg==;VLjSt4F/nP0jZfNPShJKVA=="

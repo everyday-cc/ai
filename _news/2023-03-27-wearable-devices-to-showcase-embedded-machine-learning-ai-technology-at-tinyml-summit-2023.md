@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-27T12:29:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-wearable-devices-showcase-embedded-machine-learning-ai-technology-/2023/03/27/9783328.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-wearable-devices-showcase-embedded-machine-learning-ai-technology-/2023/03/27/9783328.htm"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: TMCnet

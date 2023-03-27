@@ -69,36 +69,6 @@ related:
         width: 671
         height: 512
         isCached: true
-  - title: "Apple self-driving test program grows to over 200 drivers"
-    excerpt: "Apple has reported 16 total collisions in California since registering. The data shows Apple's continued commitment to testing self-driving tools for cars. It is registered alongside other manufacturers like Mercedes, Waymo, Tesla, Nvidia, and Zoox."
-    publishedDateTime: 2023-03-22T22:29:00Z
-    webUrl: "https://appleinsider.com/articles/23/03/22/apple-self-driving-test-program-grows-to-over-200-drivers"
-    ampWebUrl: "https://appleinsider.com/articles/23/03/22/apple-self-driving-test-program-grows-to-over-200-drivers/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/03/22/apple-self-driving-test-program-grows-to-over-200-drivers/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 44
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/53612-107732-Apple-Crossover-xl.jpg"
-        width: 1312
-        height: 738
-        isCached: true
-  - title: "DRIVERLESS CARS READY FOR HIRE IN SUBURBAN BEIJING"
-    excerpt: "Driverless taxis are now available for hire in suburban Beijing, marking a new chapter in intelligent transport, Xinhua quoted the China Daily report on Monday. Beijing earlier in March granted licences to Chinese tech giant Baidu and autonomous vehicle startup Pony."
-    publishedDateTime: 2023-03-27T10:20:00Z
-    webUrl: "https://www.bernama.com/en/world/news.php?id=2176670"
-    type: article
-    provider:
-      name: bernama
-      domain: bernama.com
-    quality: 39
-    images:
-      - url: "https://www.bernama.com/storage/photos/01f08507f0fe30d5ac21553f5f861dd362f4f61fed9af"
-        width: 1110
-        height: 694
-        isCached: true
   - title: "Millimeter Wave Radar for Self-Driving Car Market Business Overview 2023, and Forecast to 2030 | Robert Bosch, Denson, Hella"
     excerpt: "The report offers actionable and valuable market insights of Millimeter Wave Radar for Self-Driving Car Market. The"
     publishedDateTime: 2023-03-24T11:20:00Z
@@ -113,6 +83,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Driverless cars ready for hire in suburban Beijing"
+    excerpt: "Driverless taxis are now available for hire in suburban Beijing, marking a new chapter in intelligent transport, China Daily reported Monday. Beijing earlier in March granted licenses to Chinese tech giant Baidu and autonomous vehicle startup Pony."
+    publishedDateTime: 2023-03-27T06:48:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202303/27/WS6421366ba31057c47ebb6c06.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 19
 
 secured: "CtZAnUGeH18r6MWfAGWJYZFROyAO9lZTOp4fphUEi0XVbd03lhuum8N0hPszUEjD7KCgedpR+fx9o7SPOgsGc7v5J4Bgoc9o/mhGYofNut9ciyLXOIGjXVPmdwR4HLuSb9V5aLRWnFf4pqledVTrF57zkxhSB0h9lzY3c4vpmVtcv1894dn2UPa2dBJFdJ77Vqe1Z5mKoReHK0t+qvCxr/2aTUZw+5tmrFuVVCrvz/gFjlBfyqrmWtnhnsByyWecm8sYhhf92m/Vy2ti/lxFhmg3sfqPfdcJJayEcXQTwtJsj8hQxJ606VQsTkNExyHt9e9EsvGzzXQtVs8K0wq9SdlNkE9VTan07H8lC4M45n8=;Xz7lBdA5HECCWfd4PBJAew=="
 ---

@@ -98,20 +98,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automatic Speech Recognition Market Premium Research Report Forecast 2023 To 2029"
-    excerpt: "Mar 24, 2023 (The Expresswire) -- [128+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Automatic Speech Recognition Market” Size 2023 Key players Profiled in ..."
-    publishedDateTime: 2023-03-24T15:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-premium-research-report-forecast-2023-to-2029-2023-03-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automatic Speech Recognition(ASR) Software Market 2023 Size and Forecast to 2030"
     excerpt: "Automatic Speech Recognition(ASR) Software Marketinformation for each competitor includes (Nuance, LilySpeech,"
     publishedDateTime: 2023-03-27T01:48:00Z
@@ -154,15 +140,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023 to 2030 Self-Driving Cars and Light Trucks Market Regional Outlook"
-    excerpt: "The Self-Driving Cars and Light Trucks market has witnessed a growth from USD million to USD million from 2017 to 2022. With a CAGR of Percent this market is estimated to reach USD million in 2029. The report focuses on the Self-Driving Cars and Light ..."
-    publishedDateTime: 2023-03-22T19:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-to-2030-self-driving-cars-and-light-trucks-market-regional-outlook-2023-03-22"
+  - title: "Latest \"Computer Vision Market\" 2023 in US Forecast 2031"
+    excerpt: "Mar 25, 2023 (The Expresswire) -- Report Highlights with 100 pages:-\"The global Computer Vision market size was valued at USD 33776.14 million in 2022 and is expected to expand at a CAGR of 32.03% ..."
+    publishedDateTime: 2023-03-25T15:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-computer-vision-market-2023-in-us-forecast-2031-2023-03-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 34
+    quality: 49
 
 secured: "5TSAwym5NlHE5gBCvzBomOfCJjzFxl8OYYS6yTeGwAj52kx2129Vi6dcU24aHCvYLmlKH1PRG7DV9WPHcx2YUolFEotdo/2Zb1GlLOTIToc1Oxyc7mOho/1VMJf/DL/cJQGDMnA6iFRjTjK+A/A+X8Ksx7yo5krjSHaWfIj2SPzLlD7cMG8JIcgCRcl7+punQ69DEsv6RlonKY5UX6Uj+6AkWvN8HqbEKiU648CNE3UsqHdOM5ovpRbwyURiApHuN7ibouD4zYWDtkSskSRe89d+sy3T3fCE29naBErGlT/ii/yNbBVdLYToh1pO89tDGlvtjZ7Anxz19vlxjZc4FDfkafTJDwTIBTrC5tx332g=;/sP23P7uY2GDM88YvU6pmw=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-24T15:01:00Z
 originalUrl: "https://www.newscientist.com/article/2365864-is-gpt-4-already-showing-signs-of-artificial-general-intelligence/"
 webUrl: "https://www.newscientist.com/article/2365864-is-gpt-4-already-showing-signs-of-artificial-general-intelligence/"
 type: article
-quality: 22
-heat: 22
+quality: 24
+heat: 24
 published: false
 
 provider:

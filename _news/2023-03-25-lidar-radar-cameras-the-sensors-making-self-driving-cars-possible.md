@@ -24,6 +24,17 @@ images:
     height: 826
     isCached: true
 
+related:
+  - title: "Apple Car's Self-Driving System Reportedly Advances, Could Use Sensors From iPhone LiDAR Supplier"
+    excerpt: "Apple has made advancements with its self-driving system and could use LiDAR sensors from Wenmao, Economic Daily News reports. Apple has"
+    publishedDateTime: 2023-03-27T12:10:00Z
+    webUrl: "https://www.macrumors.com/2023/03/27/apple-car-self-driving-system-reportedly-advances/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 0
+
 secured: "gyVSnOt2Yif9iki6b/Ztt3eOCmOjZnz44kLFip4WKKZkzsfcvs8/8Ekd07xWVsVJuJPmghzNjVAe+8nYc6/UNsa4J/a1PZEUTigre1wGKoj+pKfO8GTdh0pZE8sJfj1Y/+6sY3cJL9OSUCKeMbpChVpEXlVAANU0m6DeX53R+U1rU95NqgXA+cLrwaTEXJMv/9dVILKm+LWzZzcxMVBE5+BTFwcMpwhSd484GcltmZrWztvoj/UisGl6VHkrHHiPkmOnSSzIwrBNlRTidHd+JtCL8tTr6O5HK0dgmpUU5WXYRcmkIsYe+mUF8BbAM20JmvyMPFbb1mElnuzIawgujYCIUY/Y2h2F1EMGdXeaXiA=;Cf+Z6yhMZudP9Qtzq+JuRg=="
 ---
 

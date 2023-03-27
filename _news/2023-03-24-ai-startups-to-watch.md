@@ -18,120 +18,53 @@ topics:
   - AI
 
 related:
-  - title: "Catch The Next Big Tech AI Wave: Startups Flock To OpenAI’s Chat GPT And DALL-E"
-    excerpt: "As the 2020s unfold, it's becoming increasingly clear that AI has the potential to generate significant wealth for those who can harness its power. Whether you're a startup founder looking to streamline your operations or a tech entrepreneur with a new ..."
-    publishedDateTime: 2023-03-22T20:41:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/03/22/catch-the-next-big-tech-ai-wave-startups-flock-to-openais-chat-gpt-and-dall-e/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/03/22/catch-the-next-big-tech-ai-wave-startups-flock-to-openais-chat-gpt-and-dall-e/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/03/22/catch-the-next-big-tech-ai-wave-startups-flock-to-openais-chat-gpt-and-dall-e/amp/"
+  - title: "Apple acquired a startup using AI to compress videos"
+    excerpt: "Apple has acquired a startup, WaveOne, that was developing tech to compress videos for more efficient streaming."
+    publishedDateTime: 2023-03-27T14:28:00Z
+    webUrl: "https://techcrunch.com/2023/03/27/apple-acquired-a-startup-using-ai-to-compress-videos/"
+    ampWebUrl: "https://techcrunch.com/2023/03/27/apple-acquired-a-startup-using-ai-to-compress-videos/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/27/apple-acquired-a-startup-using-ai-to-compress-videos/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
+      name: YAHOO!Finance
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641b66e3a9d4c17aad161d37/0x0.jpg?format=jpg&width=1200"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1227849474.jpg?w=1024"
         width: 1024
-        height: 1024
+        height: 683
         isCached: true
-  - title: "While OpenAI has been working on text and images, iGenius has been working on GPT for numbers"
-    excerpt: "And with algorithms, natural language processing and user-created metadata, or what iGenius calls advanced conversational AI, the complexity of data quality can be improved and elevated. Gartner has dubbed this ‘conversational analytics.’ Virtualizing ..."
-    publishedDateTime: 2023-03-24T13:20:00Z
-    webUrl: "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/"
-    ampWebUrl: "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 80
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/03/iGeniusxVB-2.png?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "ChatGPT As A Platform Gets Bigger And Bolder As OpenAI Rolls Out Plugins For All Kinds Of Add-On Apps, Stewing Up AI Ethics And AI Law"
-    excerpt: "Voila, your software package suddenly can do all manner of Natural Language Processing (NLP). All told, this meant that the uses of ChatGPT could expand immensely. Firms that provide apps were thirstily lured to the ChatGPT API like a siren call."
-    publishedDateTime: 2023-03-25T11:02:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/amp/"
+  - title: "Brazilian Startup Using AI To Tackle Recruitment Bias Aims For US Market"
+    excerpt: "Human resources startup Jobecam is about to take a significant new step ... By using artificial intelligence (AI) and machine learning, the system ranks candidates more suited to the job. The initial interview takes place with an automatically generated ..."
+    publishedDateTime: 2023-03-24T10:33:00Z
+    webUrl: "https://www.forbes.com/sites/angelicamarideoliveira/2023/03/24/brazilian-startup-using-ai-to-tackle-recruitment-bias-aims-for-us-market/"
+    ampWebUrl: "https://www.forbes.com/sites/angelicamarideoliveira/2023/03/24/brazilian-startup-using-ai-to-tackle-recruitment-bias-aims-for-us-market/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/angelicamarideoliveira/2023/03/24/brazilian-startup-using-ai-to-tackle-recruitment-bias-aims-for-us-market/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 74
+    quality: 86
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641e9f1ebcc461207e4ff60a/0x0.jpg?format=jpg&crop=2085,1173,x76,y10,safe&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641ccf3d95843f2edd8a9f03/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 1392
         isCached: true
-  - title: "New, Advanced GPT-4 AI Model Comes to GitHub Copilot, Azure OpenAI Service"
-    excerpt: "GPT-4, the advanced generative AI model from Microsoft partner OpenAI, is now powering the new GitHub Copilot X and the Azure OpenAI Service. In addition to adopting GPT-4 \"for a more personalized developer experience,\" GitHub Copilot X, the latest ..."
-    publishedDateTime: 2023-03-22T19:39:00Z
-    webUrl: "https://visualstudiomagazine.com/articles/2023/03/22/gpt-4-copilot-azure.aspx"
+  - title: "Apple acquires AI-powered video compression startup WaveOne"
+    excerpt: "WaveOne, a California-based startup that has been developing algorithms for compressing videos, has confirmed that it has been purchased by Apple. Founded in 2016, WaveOne sought to use machine learning for video compression. By employing artificial ..."
+    publishedDateTime: 2023-03-27T15:01:00Z
+    webUrl: "https://appleinsider.com/articles/23/03/27/apple-acquires-ai-powered-video-compression-startup-waveone"
+    ampWebUrl: "https://appleinsider.com/articles/23/03/27/apple-acquires-ai-powered-video-compression-startup-waveone/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/03/27/apple-acquires-ai-powered-video-compression-startup-waveone/amp/"
     type: article
     provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
-    quality: 52
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 57
     images:
-      - url: "https://visualstudiomagazine.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN1BlueSquaresBackground.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "Venture capitalists race to land next AI deal on Big Tech's turf"
-    excerpt: "There’s an investment craze over generative artificial intelligence, the subset of AI that exploded in popularity with ChatGPT, the chatbot from startup OpenAI. Such technology can create virtually any text, image or other content on command after having ..."
-    publishedDateTime: 2023-03-25T06:00:00Z
-    webUrl: "https://www.reuters.com/article/ai-investment-idCAKBN2VQ0QP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
-  - title: "ChatGPT: Who and what is behind the artificial intelligence tool changing the tech landscape"
-    excerpt: "Since the introduction of the artificial intelligence tool ChatGPT in November 2022, the new technology has displayed the power and potential that AI can have on our lives. Open AI CEO Sam Altman, the company behind ChatGPT, admitted earlier this month ..."
-    publishedDateTime: 2023-03-27T09:11:00Z
-    webUrl: "https://www.foxbusiness.com/media/chatgpt-who-what-behind-artificial-intelligence-tool-changing-tech"
-    ampWebUrl: "https://www.foxbusiness.com/media/chatgpt-who-what-behind-artificial-intelligence-tool-changing-tech.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/media/chatgpt-who-what-behind-artificial-intelligence-tool-changing-tech.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 46
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/f46d9c44-91e7-4795-95c8-3d296cc14d18/c4f2cd34-8b55-40f3-bbfc-32a36cde9a3a/1280x720/match/image.jpg"
+      - url: "https://photos5.appleinsider.com/gallery/45619-88794-Apple-Logo-Header-xl.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Amazon, Google scramble to keep pace with OpenAI despite huge AI teams"
-    excerpt: "The numbers underscore how seriously the world's biggest technology firms have been taking their work on artificial intelligence, but also how slow and cautious they have been to create services"
-    publishedDateTime: 2023-03-27T07:01:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/amazon-google-scramble-to-keep-pace-with-openai-despite-huge-ai-teams-123032700316_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 39
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-12/05/full/1670214258-7178.png"
-        width: 512
-        height: 383
-        isCached: true
-  - title: "Codie.ai, first consultative AI assistant based on OpenAI ChatGPT"
-    excerpt: "Codie.ai has launched an AI assistant to transform how businesses interact with their customers. The platform interacts with customers human-likely and provides information about products and services of the company or retailer. London-based startup Codie ..."
-    publishedDateTime: 2023-03-24T21:11:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/ab31499408/codie-ai-first-consultative-ai-assistant-based-on-openai-chatgpt"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
         isCached: true
   - title: "Stretching the AI startup boom"
     excerpt: "Generative AI startups may be getting all the attention and venture checks right now, but the next fund raise may be a tougher road. Why it matters: The market downturn has been raining on startupland’s parade for the past year,"
@@ -147,6 +80,62 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Apple Acquires WaveOne Startup Working on AI-Powered Video Compression"
+    excerpt: "Apple recently acquired WaveOne, a California-based startup that was developing AI algorithms for video compression, according to TechCrunch."
+    publishedDateTime: 2023-03-27T14:05:00Z
+    webUrl: "https://www.macrumors.com/2023/03/27/apple-reportedly-acquires-waveone/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 37
+    images:
+      - url: "https://images.macrumors.com/t/ihTXdqcXcQVGLfy75fYYMN0NB8c=/1600x/article-new/2023/03/WaveOne-Apple.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Apple bolsters its AI technology with acquisition of WaveOne startup"
+    excerpt: "The report says Apple “quietly” acquired the Mountain View-based company WaveOne, a startup that was “developing AI algorithms for compressing video.” Apple didn’t confirm the acquisition, but WaveOne executive Bob Stankosh revealed the news in a ..."
+    publishedDateTime: 2023-03-27T14:22:00Z
+    webUrl: "https://9to5mac.com/2023/03/27/apple-ai-acqusition-waveone/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/waveone-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Vegas Bot AI starts Presale with the bang, users can secure revenue with their advanced AI-powered strategies"
+    excerpt: "With Chatbot AI's rising popularity, Vegas Bot AI strives to take natural language processing and machine learning a notch higher to better serve customers globally. Chatbot AI And Its Features Chatbot AI is a computer software that uses natural language ..."
+    publishedDateTime: 2023-03-23T13:54:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31475133/vegas-bot-ai-starts-presale-with-the-bang-users-can-secure-revenue-with-their-advanced-ai-powered-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Vegas Bot AI starts Presale with the bang, users can secure revenue with their advanced AI-powered strategies"
+    excerpt: "Vegas Bot AI, a revolutionary technology startup that aims to enhance customer interactions with businesses by developing a highly natural conversational experience, introduces the Vegas Bot AI Token Launch."
+    publishedDateTime: 2023-03-23T22:31:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-vegas-bot-ai-starts-presale-with-bang-users-/2023/03/23/9782463.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 20
+    images:
+      - url: "https://api.blockchainwire.io/uploads/OceanDigitalPR/editor_image/7f4ed462-e0a4-48f6-bbbc-53ea14eae198.png"
+        width: 622
+        height: 209
+        isCached: true
   - title: "AI startups to watch"
     excerpt: "Investors are pouring billions of dollars into AI startups in what is quickly becoming the latest tech gold rush. Leading the AI revolution is OpenAI, a startup from Sam Altman that created the fast-growing artificial intelligence chatbot ChatGPT,"
     publishedDateTime: 2023-03-23T14:16:00Z
@@ -156,15 +145,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
-  - title: "AI News roundup: OpenAI adds plugin support to ChatGPT, Mozilla opens new AI startup and more"
-    excerpt: "The AI chatbot became popular in just a matter of weeks — way ... Invite your friends and family to sign up for MC Tech 3, our daily newsletter that breaks down the biggest tech and startup stories of the day"
-    publishedDateTime: 2023-03-24T13:32:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-openai-adds-plugin-support-to-chatgpt-mozilla-opens-new-ai-startup-and-more-10307071.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 6
 
 secured: "MNqUo1JsrSG8FAIgfXknwNah+YAq05Y4TmkctSoOw5iDonXRA2FPla5pAUsk6jVexJh4r1y8uk3elrVSVRJuSRZhM+3MfSSTnyiEfnLEMg6nlqaek4zZbiRfRPO7nlgpo11/CGiEb9u1ppMJXY+64EsOHO6y2PH4/D3yXwSPWkAn1rVUmq8OyQ1StHZ/12eD8FbCiFfX0mVHJlX+4+vOAKgon9XRxlGDm6J4oAkMDLFcoEYrvO3nfJJng1Q5RekRig96pQTAK2F02hFd9Kznrijg0OEYHiySndV4taXeqfR+PVOCjL0frufAFYD1VCopHwK35rPE2G6nn/HfPADKM4Ya5E82IVg5H1i1+ABqChc=;wbxY1bFVROQGoKcWCvENNQ=="
 ---

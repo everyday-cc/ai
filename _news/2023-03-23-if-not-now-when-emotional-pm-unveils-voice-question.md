@@ -279,6 +279,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 0
+  - title: "Greens senator Jordon Steele-John calls on Australia to question AUKUS pact as Jacinta Price continues to rail against Voice on Q+A"
+    excerpt: "Jacinta Price says the Voice has hijacked the concept of Indigenous recognition The former secretary of the US Navy backed Paul Keating in saying China is not looking to land troops in Australia Greens senator Jordon Steele-John called for Australia to ..."
+    publishedDateTime: 2023-03-27T13:35:00Z
+    webUrl: "https://www.abc.net.au/news/2023-03-28/aukus-questioned-qa-by-jordon-steele-john-price-the-voice/102152210"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 0
 
 secured: "ycEfE7E7FSZi+9vfy7XObco9hAQVggEuOw1NhtWXWCaJaRcphAKnktr3PvCVOXDs8p/W/iuvB8rVQe0B027Cq6rQwAjXWGEd6PpmqfosEHDoqkHuHl2UWDt6MXSIVQicpi/IQ5M4zYKjF8ocGGAAuISPMegdPEdv7BLIW18pHTMNtYJilPv/hfSuxFTUWg/gUwJydMHaeGqz0L4JDqrJA5XCZ7GUW5v1hqRu43i5kAdCWNMKFC08R7yIwkyPRr/Y1UnC6SjDoPlvvnMEN8cZPmQQqyBcvHuGiiQJjuOukpaMCX55CclBVv9+nDgDKfq/IQPZMUcer/twp7dcVFZQVavWTZACzYGTySVQpG1M8Pw=;O4H5xKTcoNCeC9f7bZPEYw=="
 ---

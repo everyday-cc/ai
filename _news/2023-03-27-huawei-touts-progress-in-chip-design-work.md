@@ -9,7 +9,7 @@ ampWebUrl: "https://techcentral.co.za/huawei-touts-progress-in-chip-design-work/
 cdnAmpWebUrl: "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/huawei-touts-progress-in-chip-design-work/223678/?amp=1"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1500
     height: 800
     isCached: true
+
+related:
+  - title: "Huawei touts progress replacing chip design software led by US"
+    excerpt: "HUAWEI Technologies Co. has developed software tools capable of designing chips as advanced as 14 nanometers, advancing efforts to help Chinese companies sidestep US sanctions and replace American technology."
+    publishedDateTime: 2023-03-27T12:51:00Z
+    webUrl: "https://businessmirror.com.ph/2023/03/27/huawei-touts-progress-replacing-chip-design-software-led-by-us/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 19
 
 secured: "u+8Mqz37ylxLAyA1iUXOMX+gncGzqD+9eDb8kQuX0H24G0G2sqzYQtMgMgLGUNFPV6b6dXTcL1KQoPFgrlk0MwUYfLcNPbtD3mTx5HlwVrpod/HIds0n5s4QsLnRYw2s8V5l6+Hsl2s+vXLTs5Zcv9Njo1gLd+k2pDkfGKKWPujXUuaLGjPOXOy8JJiKoRkcG71oOzWY6GsrI6RAC29o/PkcaOF+zx2WMM6S8nHDLZTOfMj0JupqbPXqasRLBWErTNGRUwiO1BeJV/so3OCgVEeTaaSDqq8juocqLI1V6WO+o5Ud9XR0i4vMzgr4rubLC49oAfgv+j5Fa762LH9yMxWmz+PHAG33L02DMnKnGCs=;S68gTVUqDPFYVm4WyNSwzw=="
 ---

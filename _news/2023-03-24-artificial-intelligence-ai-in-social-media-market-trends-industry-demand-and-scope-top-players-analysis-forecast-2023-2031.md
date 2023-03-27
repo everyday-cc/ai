@@ -29,71 +29,132 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence & Advanced Machine Learning Market Sales Outlook 2023 Up-to-date Development Data and Market Trends Forecast to 2027"
-    excerpt: "Competitive Landscape The market analysis entails a section solely dedicated for major players in the Global Artificial Intelligence and Advanced Machine Learning Market wherein our analysts provide an insight to the financial statements of all the major ..."
-    publishedDateTime: 2023-03-23T07:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-sales-outlook-2023-up-to-date-development-data-and-market-trends-forecast-to-2027-2023-03-23"
+  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2023-A Detailed Analysis till 2028"
+    excerpt: "Mar 27, 2023 (The Expresswire) -- The report features the size of the global \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market” in 2023, along with a detailed profile of the key players. These players include [3M (Minnesota ..."
+    publishedDateTime: 2023-03-27T12:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2023-a-detailed-analysis-till-2028-2023-03-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 98
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence and Cognitive Computing Market Premium Research Report Forecast 2023 To 2029"
-    excerpt: "Also, it splits Artificial Intelligence and Cognitive Computing market Segmentation by Type and by Applications to fully and deeply research and reveal market profile and prospects. The report provides a detailed evaluation of the market by highlighting ..."
-    publishedDateTime: 2023-03-23T18:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-premium-research-report-forecast-2023-to-2029-2023-03-23"
+  - title: "Report on Artificial Intelligence (AI) in Healthcare Market Size until 2026"
+    excerpt: "The Global Artificial Intelligence (AI) in Healthcare Market 2022-2026 Research Report offers a comprehensive analysis of the market, providing valuable insights into the market status, size, share, SWOT and PESTLE analysis. The report examines the market ..."
+    publishedDateTime: 2023-03-24T15:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/report-on-artificial-intelligence-ai-in-healthcare-market-size-until-2026-2023-03-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 97
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Synthetic Data Generation Market Size, Key Segments, Share, Trends, Growth, and Forecast 2031"
-    excerpt: "Global Synthetic Data Generation Market is valued at approximately USD 123.3 million in 2021 and is anticipated"
-    publishedDateTime: 2023-03-24T11:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/synthetic-data-generation-market-size-key-segments-share-trends-growth-and-forecast-2031-2023-03-24"
+  - title: "2023 Healthcare Artificial Intelligence (AI) Market Size, Growth | Global Industry Trends [2029]"
+    excerpt: "Mar 23, 2023 (The Expresswire) -- [118+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Healthcare Artificial Intelligence (AI) Market” Size 2023 Key players ..."
+    publishedDateTime: 2023-03-23T20:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-healthcare-artificial-intelligence-ai-market-size-growth-global-industry-trends-2029-2023-03-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 88
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Technology Market Analysis: Understanding The Current State and Future Trends 2023-2028"
-    excerpt: "Global Speech and Voice Recognition Technology Market Report (Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https://www.marketresearchguru ..."
-    publishedDateTime: 2023-03-24T18:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-analysis-understanding-the-current-state-and-future-trends-2023-2028-2023-03-24"
+  - title: "Natural Language Processing (NLP) Market to Eyewitness Massive Growth 2023"
+    excerpt: "Natural Language Processing (NLP) Market Size 2023 | New Report (102 Pages) | Information Technology | In This"
+    publishedDateTime: 2023-03-27T04:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-to-eyewitness-massive-growth-2023-2023-03-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 31
+    quality: 82
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing and Supply Chain Market Analysis: Understanding The Current State and Future Trends 2023-2028"
-    excerpt: "Global Artificial Intelligence in Manufacturing and Supply Chain Market Report (120 Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https ..."
-    publishedDateTime: 2023-03-24T18:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-and-supply-chain-market-analysis-understanding-the-current-state-and-future-trends-2023-2028-2023-03-24"
+  - title: "Healthcare Natural Language Processing (NLP) Market Share From 2023 And Unlimited Opportunities for New Companies"
+    excerpt: "Healthcare Natural Language Processing (NLP) Market Size 2023 | New Report (127 Pages) | Information Technology | In"
+    publishedDateTime: 2023-03-27T03:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-share-from-2023-and-unlimited-opportunities-for-new-companies-2023-03-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 30
+    quality: 80
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision Market research Report with Analysis 2023 To 2030"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (The Expresswire) -- The \"Computer Vision Market\" study describes how the technology industry is evolving and how major and emerging players in the industry are ..."
+    publishedDateTime: 2023-03-24T21:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-research-report-with-analysis-2023-to-2030-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023-2026 Speech and Voice Recognition Market Size and Industry Share Analysis"
+    excerpt: "The Global Speech and Voice Recognition Market 2022-2026 Research Report offers a comprehensive analysis of the market, providing valuable insights into the market status, size, share, SWOT and PESTLE analysis. The report examines the market growth ..."
+    publishedDateTime: 2023-03-25T07:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2026-speech-and-voice-recognition-market-size-and-industry-share-analysis-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automatic Speech Recognition Applications Market 2023 | Rising Demand in Upcoming Years till 2030 | 82 Pages Report"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- The Automatic Speech Recognition Applications Market (2023-2030) research report provides a detailed analysis of the market's various types ..."
+    publishedDateTime: 2023-03-23T10:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-applications-market-2023-rising-demand-in-upcoming-years-till-2030-82-pages-report-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Clinical Natural Language Processing Market Trends, Industry Demand and Scope, Top Players Analysis, Forecast 2023 - 2031"
+    excerpt: "Mar 24, 2023 (The Expresswire) -- [108+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Clinical Natural Language Processing Market” Size 2023 Key players ..."
+    publishedDateTime: 2023-03-24T15:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/clinical-natural-language-processing-market-trends-industry-demand-and-scope-top-players-analysis-forecast-2023---2031-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "h/XdZrGKnSy0Th5mB8+F+iPF5qOX6Wb/n8QNYx3cp4jc6lruMBPmRGwX68d/4Ok4SRtQwprHLNuJURRUM+UoXX/E0VXp5Iotga7JOLElJLazS803uq9eOXecCYkI89C4BBCWa9wM9Z3Ic5ISqj1vPLh/ewba7La/5OVQLJc+Al+4sOxEKQ+NEUN1mskq5jLI5f74MMSDlOErBNPSIRuR04Kix/happXRm/NJzoAEFAppBHBtN8G21DcbFI3DfhSdiKCQ9oZ4aCgu3z8JMyaP4w25YmiFaI9dAGUI1E+69zyntYX1dGmQ3QYXkwmwgtDsgbijCjY2ra6CwZ2ZyLB1S/dNunwAjAQRyGaIQiidH+o=;c3ddvg2HOp7uLLjuD4FKkA=="
 ---

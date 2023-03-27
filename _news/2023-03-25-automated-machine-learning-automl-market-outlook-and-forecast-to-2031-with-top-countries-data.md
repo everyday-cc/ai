@@ -86,20 +86,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automatic Speech Recognition Market Premium Research Report Forecast 2023 To 2029"
-    excerpt: "Mar 24, 2023 (The Expresswire) -- [128+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Automatic Speech Recognition Market” Size 2023 Key players Profiled in ..."
-    publishedDateTime: 2023-03-24T15:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-premium-research-report-forecast-2023-to-2029-2023-03-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automatic Speech Recognition(ASR) Software Market 2023 Size and Forecast to 2030"
     excerpt: "Automatic Speech Recognition(ASR) Software Marketinformation for each competitor includes (Nuance, LilySpeech,"
     publishedDateTime: 2023-03-27T01:48:00Z
@@ -142,6 +128,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Latest \"Computer Vision Market\" 2023 in US Forecast 2031"
+    excerpt: "Mar 25, 2023 (The Expresswire) -- Report Highlights with 100 pages:-\"The global Computer Vision market size was valued at USD 33776.14 million in 2022 and is expected to expand at a CAGR of 32.03% ..."
+    publishedDateTime: 2023-03-25T15:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-computer-vision-market-2023-in-us-forecast-2031-2023-03-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
   - title: "Artificial Intelligence in Sports Market Size 2023, Share, Trend Analysis, Company Profiles with Strategies, Supply Forecast 2031"
     excerpt: "The global artificial intelligence in sports market size was US$ 1.8 billion in 2021. The global artificial intelligence in sports market size is forecast to reach US$ 19.9 billion by 2030, growing at a compound annual growth rate (CAGR) of 30."
     publishedDateTime: 2023-03-27T09:04:00Z
@@ -156,15 +151,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023 to 2030 Self-Driving Cars and Light Trucks Market Regional Outlook"
-    excerpt: "The Self-Driving Cars and Light Trucks market has witnessed a growth from USD million to USD million from 2017 to 2022. With a CAGR of Percent this market is estimated to reach USD million in 2029. The report focuses on the Self-Driving Cars and Light ..."
-    publishedDateTime: 2023-03-22T19:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-to-2030-self-driving-cars-and-light-trucks-market-regional-outlook-2023-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
 
 secured: "GKbn3BkMQRze2YAiqXlxXjsszWMmu5PYtndKSFvVLzTBZb2vXl3ZpIquGkJwlURON0N6YuP441wn5GuI4B2NPgfftzAmMu/VbNWzn/ooTj/dfX7FRLv65T8/f6o+ZGVZEgq5gHehEYTYku53fRaS0jIbXBD3GnC9fYrUZA1CIpJR6wp9/+Rc8aANpXfS438Ra0AX4oGF0b0+3puY9nZ0qWAM61nGnvyRRyjDnly5kWTMvYSBGYyIk9i60ASAyhm+4vw4xBpBlaXWb2BVj35LHkelZoxZKY1ZHPEayt6/4tk998tFtBPuqXDGI/8nZSJ39m6rUZsvdWaCKu1JqCyDFABHxz351PuberK8k5eaWoM=;ws9iCmo44Quf3Wb21vv9rw=="
 ---

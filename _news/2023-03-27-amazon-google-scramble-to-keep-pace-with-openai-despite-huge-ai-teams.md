@@ -25,148 +25,50 @@ images:
     isCached: true
 
 related:
-  - title: "Catch The Next Big Tech AI Wave: Startups Flock To OpenAI’s Chat GPT And DALL-E"
-    excerpt: "As the 2020s unfold, it's becoming increasingly clear that AI has the potential to generate significant wealth for those who can harness its power. Whether you're a startup founder looking to streamline your operations or a tech entrepreneur with a new ..."
-    publishedDateTime: 2023-03-22T20:41:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/03/22/catch-the-next-big-tech-ai-wave-startups-flock-to-openais-chat-gpt-and-dall-e/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/03/22/catch-the-next-big-tech-ai-wave-startups-flock-to-openais-chat-gpt-and-dall-e/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/03/22/catch-the-next-big-tech-ai-wave-startups-flock-to-openais-chat-gpt-and-dall-e/amp/"
+  - title: "Ten Questions With OpenAI On Reinforcement Learning With Human Feedback"
+    excerpt: "So navigating that is going to be challenging and involves machine learning interventions but also a broader social technical perspective. Are there interesting questions that come up or new challenges or new directions for this kind of research as ..."
+    publishedDateTime: 2023-03-27T15:02:00Z
+    webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2023/03/27/ten-questions-with-openai-on-reinforcement-learning-with-human-feedback/"
+    ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2023/03/27/ten-questions-with-openai-on-reinforcement-learning-with-human-feedback/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2023/03/27/ten-questions-with-openai-on-reinforcement-learning-with-human-feedback/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 83
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641b66e3a9d4c17aad161d37/0x0.jpg?format=jpg&width=1200"
-        width: 1024
-        height: 1024
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641dcf2b94696554a1580d4a/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 627
         isCached: true
-  - title: "While OpenAI has been working on text and images, iGenius has been working on GPT for numbers"
-    excerpt: "And with algorithms, natural language processing and user-created metadata, or what iGenius calls advanced conversational AI, the complexity of data quality can be improved and elevated. Gartner has dubbed this ‘conversational analytics.’ Virtualizing ..."
-    publishedDateTime: 2023-03-24T13:20:00Z
-    webUrl: "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/"
-    ampWebUrl: "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/amp/"
+  - title: "Discovering Cohere AI and How It’s Different from OpenAI"
+    excerpt: "Cohere is focused on the customer's actual problems and the requests from many of their customers have been language-centric"
+    publishedDateTime: 2023-03-27T07:53:00Z
+    webUrl: "https://analyticsindiamag.com/discovering-cohere-ai-and-how-its-different-from-openai/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 80
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/03/iGeniusxVB-2.png?w=1200&strip=all"
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/Cohere-AI-.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "These are the 34 jobs OpenAI suggests will secure you against the AI revolution"
+    excerpt: "The creators of recent AI phenomenon, ChatGPT ... Additionally, LLMs can be used to translate content into different languages, which can help to reach a wider audience. And, I can be used to generate personalized content, such as news articles that ..."
+    publishedDateTime: 2023-03-23T15:12:00Z
+    webUrl: "https://www.pcgamer.com/these-are-the-34-jobs-openai-suggests-will-secure-you-against-the-ai-revolution/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 35
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ScPYLdpxFRGNZK7zfy5Lh6-1200-80.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "ChatGPT As A Platform Gets Bigger And Bolder As OpenAI Rolls Out Plugins For All Kinds Of Add-On Apps, Stewing Up AI Ethics And AI Law"
-    excerpt: "Voila, your software package suddenly can do all manner of Natural Language Processing (NLP). All told, this meant that the uses of ChatGPT could expand immensely. Firms that provide apps were thirstily lured to the ChatGPT API like a siren call."
-    publishedDateTime: 2023-03-25T11:02:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641e9f1ebcc461207e4ff60a/0x0.jpg?format=jpg&crop=2085,1173,x76,y10,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "New, Advanced GPT-4 AI Model Comes to GitHub Copilot, Azure OpenAI Service"
-    excerpt: "GPT-4, the advanced generative AI model from Microsoft partner OpenAI, is now powering the new GitHub Copilot X and the Azure OpenAI Service. In addition to adopting GPT-4 \"for a more personalized developer experience,\" GitHub Copilot X, the latest ..."
-    publishedDateTime: 2023-03-22T19:39:00Z
-    webUrl: "https://visualstudiomagazine.com/articles/2023/03/22/gpt-4-copilot-azure.aspx"
-    type: article
-    provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
-    quality: 52
-    images:
-      - url: "https://visualstudiomagazine.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN1BlueSquaresBackground.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "Venture capitalists race to land next AI deal on Big Tech's turf"
-    excerpt: "There’s an investment craze over generative artificial intelligence, the subset of AI that exploded in popularity with ChatGPT, the chatbot from startup OpenAI. Such technology can create virtually any text, image or other content on command after having ..."
-    publishedDateTime: 2023-03-25T06:00:00Z
-    webUrl: "https://www.reuters.com/article/ai-investment-idCAKBN2VQ0QP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
-  - title: "ChatGPT: Who and what is behind the artificial intelligence tool changing the tech landscape"
-    excerpt: "Since the introduction of the artificial intelligence tool ChatGPT in November 2022, the new technology has displayed the power and potential that AI can have on our lives. Open AI CEO Sam Altman, the company behind ChatGPT, admitted earlier this month ..."
-    publishedDateTime: 2023-03-27T09:11:00Z
-    webUrl: "https://www.foxbusiness.com/media/chatgpt-who-what-behind-artificial-intelligence-tool-changing-tech"
-    ampWebUrl: "https://www.foxbusiness.com/media/chatgpt-who-what-behind-artificial-intelligence-tool-changing-tech.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/media/chatgpt-who-what-behind-artificial-intelligence-tool-changing-tech.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 46
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/f46d9c44-91e7-4795-95c8-3d296cc14d18/c4f2cd34-8b55-40f3-bbfc-32a36cde9a3a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Codie.ai, first consultative AI assistant based on OpenAI ChatGPT"
-    excerpt: "Codie.ai has launched an AI assistant to transform how businesses interact with their customers. The platform interacts with customers human-likely and provides information about products and services of the company or retailer. London-based startup Codie ..."
-    publishedDateTime: 2023-03-24T21:11:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/ab31499408/codie-ai-first-consultative-ai-assistant-based-on-openai-chatgpt"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Stretching the AI startup boom"
-    excerpt: "Generative AI startups may be getting all the attention and venture checks right now, but the next fund raise may be a tougher road. Why it matters: The market downturn has been raining on startupland’s parade for the past year,"
-    publishedDateTime: 2023-03-25T13:17:00Z
-    webUrl: "https://www.axios.com/2023/03/25/ai-startup-boom-funding"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 37
-    images:
-      - url: "https://images.axios.com/WxnvNEr5uH5bJmlNzktoAtAILiw=/1366x768/smart/2023/03/24/1679691568441.jpg"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "AI startups to watch"
-    excerpt: "Investors are pouring billions of dollars into AI startups in what is quickly becoming the latest tech gold rush. Leading the AI revolution is OpenAI, a startup from Sam Altman that created the fast-growing artificial intelligence chatbot ChatGPT,"
-    publishedDateTime: 2023-03-23T14:16:00Z
-    webUrl: "https://www.bizjournals.com/milwaukee/inno/stories/awards/2023/03/23/ai-startups-to-watch.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
-  - title: "AI startups to watch"
-    excerpt: "Leading the AI revolution is OpenAI, a startup from Sam Altman that created the fast-growing artificial intelligence chatbot ChatGPT, which this year reached 100 million monthly active users."
-    publishedDateTime: 2023-03-24T07:18:00Z
-    webUrl: "https://www.bizjournals.com/washington/inno/stories/awards/2023/03/23/ai-startups-to-watch.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
-  - title: "AI News roundup: OpenAI adds plugin support to ChatGPT, Mozilla opens new AI startup and more"
-    excerpt: "The AI chatbot became popular in just a matter of weeks — way ... Invite your friends and family to sign up for MC Tech 3, our daily newsletter that breaks down the biggest tech and startup stories of the day"
-    publishedDateTime: 2023-03-24T13:32:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-openai-adds-plugin-support-to-chatgpt-mozilla-opens-new-ai-startup-and-more-10307071.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 6
 
 secured: "v7Lr2ObrC540z9csxmAP6eny3JgactRXL0YjQPhWpHfK9TH+X99Ih9/S6EvZmc+8qeqHDRXK6F0P+w3RCyCaFTeZeN6sLho3Q8DDChIomG+Ph2wpZD2nWufcmgsu5it8WTIcLVaZJuZVKlQKOewnW5adJEMmhjZ1Z2K5352A6ZOpwGRW+NxbM3/t7jfKiA2bgdPsxKE1AGveAaM9UMHJEF8to5NzqGF6YZRswMFtgX/pLAb6v3w6K+X4WPb3b0vWXJ9p9Li/qJWR3WaxCKnOBLGtfiyjg84Rbvt1sDNucjAht+pSS5V0ik70kEFZBybD9mfivSPZuVWWhhdsXZ5TRgrc4yn1itoh/e6Ejbjn2SAsv9eb0nNB0ssLQ+APwL2GQpJ6DjJxCB4OB1hK0Od3u3+PpD1gxZfoK6owG7gvh/v9TTaXhPcDnKYDixKSIcKDdR2pu6tU2VT+k9aZ3luRr5MzHJSvj2QQCATVpAKevcUJYt/gpMmmsBt3cXEZ9tUldA5uZl9/on0eoWQhAmpdew==;R2wtT1kxIi8VSOwrx4e7Cg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/uncovering-new-opportunities-with-edge-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/uncovering-new-opportunities-with-edge-ai/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Discovering Cohere AI and How It’s Different from OpenAI"
-    excerpt: "Cohere is focused on the customer's actual problems and the requests from many of their customers have been language-centric"
-    publishedDateTime: 2023-03-27T07:53:00Z
-    webUrl: "https://analyticsindiamag.com/discovering-cohere-ai-and-how-its-different-from-openai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/Cohere-AI-.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "i0lIsK/3q1brlFn5kTxR4NY49XswMhafEMsXpPy9P1W7YbhP7RfIsPdN9MaWR4gitIm2sgQvyCcL/7wvAe01veH/KoZP+GF09MpwmT+FPhbacZg6w16JM/Af9KELNpssdL6jodA+Lbyi7U3O6aHFkMSTEIjIV316R5bXAg7CM7tQRCQ4vqyOZTlx04tb0Ee6tmYiskRSLBmGczVwjRO/YjYp8QYkAnFGoaheGTdphh0CIE3ZeuAT9aJhmBGlq62ucGq0Tz9VDd5eF+PyNAtjKImJD1ueRQIhLEx2A22bE3LEOylDc3WZttaADu6QQdZX9xDQK+/anxrQlrisW8QrY9NS/cQP0/KTMpOIOyy+SaA4InrGJsFkN7q3k5BnTXhpUoUdhrra9k6RRjgTHBM0qvB1UGYv5YXDGtdSZdKHc7w/VYL8QfCMfErkaJEHGPcCxV/ZO09Rw03mI8LvqwbdlTotvXEiRgh8zi6akFGxcwUPugC8kCtgOmxRfgxsIajwIChK4MA9fQBn+zADHkcA8g==;oS2CPNz1TXkUwedC8Y7wTQ=="

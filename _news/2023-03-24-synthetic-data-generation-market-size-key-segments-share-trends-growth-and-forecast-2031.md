@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Social Media Market Trends, Industry Demand and Scope, Top Players Analysis, Forecast 2023 - 2031"
-    excerpt: "Top “ Artificial Intelligence (AI) in Social Media Market ” Size 2023 Key players Profiled in the Report are [, Adobe System Incorporated., Facebook Inc., Clarabridge Inc., HootSuite Media Inc., Amazon Web Services Inc."
-    publishedDateTime: 2023-03-24T12:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-trends-industry-demand-and-scope-top-players-analysis-forecast-2023---2031-2023-03-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence and Cognitive Computing Market Premium Research Report Forecast 2023 To 2029"
     excerpt: "Also, it splits Artificial Intelligence and Cognitive Computing market Segmentation by Type and by Applications to fully and deeply research and reveal market profile and prospects. The report provides a detailed evaluation of the market by highlighting ..."
     publishedDateTime: 2023-03-23T18:49:00Z

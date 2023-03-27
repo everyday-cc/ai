@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-ai-in-the-enterpriseuse-cases--early-learnings/amp/"
 type: article
 quality: 91
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "How AI Is Changing The Future Of Creative Enterprise"
+    excerpt: "AI tools that were once complex and time-consuming are now faster and more consumer-friendly. Soon, the line between \"professional\" and \"consumer\" software tools will blur as they merge and significantly impact business models."
+    publishedDateTime: 2023-03-27T12:44:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/27/how-ai-is-changing-the-future-of-creative-enterprise/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "5oewyYDuxx1ibMptSMf+2MjDYHOd69xbrx7xynqLfGqiJGRnXlp1meQFZiJvRGYOTQwHBjAafBKxBYmJb504fWNij9G23qdU5Z1TMkap6swsPQ8VZ0w6hEQdsRppxh2zX4aPhMfWGy89PEEWezpOMSVHE9+1SbdVjoVF6hfZ9+SQGQoCuqIRW20rGhLxnnT1SBolGh1iIeg/l9gPo7jJhEX9o+4LdqV+BhHWSJcxxydVN171Jc7r/1mO4ppOXoNVA84qhy8D30Zd2nyrTF0tQyFxR+W+ohlxgGt60geT662jEnSs/8O+Tp1Ac6zu7Peo9FQPatrYZ8xU34EKnCx3uvHoTDOGtshkenqcq54VQz8=;rzbu+fPXl63F7oE3DZdVBQ=="
 ---

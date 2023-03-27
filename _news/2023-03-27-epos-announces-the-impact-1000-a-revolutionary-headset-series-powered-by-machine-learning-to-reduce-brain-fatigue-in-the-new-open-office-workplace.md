@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-27T12:57:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/epos-announces-the-impact-1000-a-revolutionary-headset-series-powered-by-machine-learning-to-reduce-brain-fatigue-in-the-new-open-office-workplace-1032193816"
 webUrl: "https://markets.businessinsider.com/news/stocks/epos-announces-the-impact-1000-a-revolutionary-headset-series-powered-by-machine-learning-to-reduce-brain-fatigue-in-the-new-open-office-workplace-1032193816"
 type: article
+quality: 25
+heat: 25
+published: false
 
 provider:
   name: Business Insider

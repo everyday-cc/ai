@@ -26,85 +26,119 @@ images:
     isCached: true
 
 related:
-  - title: "There's No Such Thing as Artificial Intelligence"
-    excerpt: "According to its proponents, we will all live in the “metaverse,” build our financial infrastructure on “web3” and power our lives with “artificial intelligence.” All three of these terms are mirages that have raked in billions of dollars ..."
-    publishedDateTime: 2023-03-26T07:27:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2023-03-26/even-with-chat-gpt-4-there-s-no-such-thing-as-artificial-intelligence"
+  - title: "ChatGPT As A Platform Gets Bigger And Bolder As OpenAI Rolls Out Plugins For All Kinds Of Add-On Apps, Stewing Up AI Ethics And AI Law"
+    excerpt: "Voila, your software package suddenly can do all manner of Natural Language Processing (NLP). All told, this meant that the uses of ChatGPT could expand immensely. Firms that provide apps were thirstily lured to the ChatGPT API like a siren call."
+    publishedDateTime: 2023-03-25T11:02:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/amp/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iU7LUSykyhPA/v1/1200x800.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641e9f1ebcc461207e4ff60a/0x0.jpg?format=jpg&crop=2085,1173,x76,y10,safe&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Google's AI teams are experiencing a brain drain. Here's where its top researchers are now."
-    excerpt: "Considered a breakthrough in natural language processing, the Transformer model helps an AI understand meaning by looking at each ... on BERT and is considered well-suited for tasks like translation and summarizing. Sharan Narang, another contributor ..."
-    publishedDateTime: 2023-03-23T09:16:00Z
-    webUrl: "https://www.businessinsider.com/google-ai-teams-brain-drain-researchers-leave-2023-3"
+  - title: "How to use ChatGPT and other generative AI for business and in life"
+    excerpt: "New AI language models are garnering a lot of interest ... ChatGPT can even help you with translation. - It can assist you in writing essays or long-form copy. - You can have a pleasant conversation with ChatGPT. - You can also use it to play games."
+    publishedDateTime: 2023-03-26T09:21:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/features/how-to-use-chatgpt-and-other-generative-ai-for-business-and-in-life-10313271.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/features/how-to-use-chatgpt-and-other-generative-ai-for-business-and-in-life-10313271.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/features/how-to-use-chatgpt-and-other-generative-ai-for-business-and-in-life-10313271.html/amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
     images:
-      - url: "https://i.insider.com/641bd7c8b7834100191ae5c7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/03/396571328.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "From brain waves, this AI can sketch what you're picturing"
-    excerpt: "Some experts say in the wrong hands, the AI model could be used for interrogations or surveillance. “I think the line is very thin between what could be empowering and oppressive,” said Nita Farahany, a Duke University professor of law and ethics in ..."
-    publishedDateTime: 2023-03-25T12:05:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/brain-waves-ai-can-sketch-picturing-rcna76096"
+  - title: "ChatGPT: Who and what is behind the artificial intelligence tool changing the tech landscape"
+    excerpt: "Since the introduction of the artificial intelligence tool ChatGPT in November 2022, the new technology has displayed the power and potential that AI can have on our lives. Open AI CEO Sam Altman, the company behind ChatGPT, admitted earlier this month ..."
+    publishedDateTime: 2023-03-27T09:11:00Z
+    webUrl: "https://www.foxbusiness.com/media/chatgpt-who-what-behind-artificial-intelligence-tool-changing-tech"
+    ampWebUrl: "https://www.foxbusiness.com/media/chatgpt-who-what-behind-artificial-intelligence-tool-changing-tech.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/media/chatgpt-who-what-behind-artificial-intelligence-tool-changing-tech.amp"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 49
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-03-25T17:12:00Z
-    webUrl: "https://www.law.com/dailyreportonline/2023/03/25/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 46
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/f46d9c44-91e7-4795-95c8-3d296cc14d18/c4f2cd34-8b55-40f3-bbfc-32a36cde9a3a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Why the makers of ChatGPT care what Pope Francis says about AI"
+    excerpt: "In January, Pope Francis addressed tech-industry leaders from companies such as Microsoft and IBM as well as members of the Jewish and Muslim communities during a conference on ethics in AI at the Vatican. The pope urged them to “ensure that the ..."
+    publishedDateTime: 2023-03-23T13:56:00Z
+    webUrl: "https://www.americamagazine.org/faith/2023/03/23/chatgpt-machine-learning-catholic-244953"
     type: article
     provider:
-      name: Law
-      domain: law.com
+      name: America Magazine
+      domain: americamagazine.org
     quality: 39
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://www.americamagazine.org/sites/default/files/styles/article_image_750_x_503_/public/main_image/2023/03/23/rolf-van-root-oLthDWAG244-unsplash.jpg.jpg?itok=4H9L3l5G"
+        width: 750
+        height: 500
         isCached: true
-  - title: "Vegas Bot AI starts Presale with the bang, users can secure revenue with their advanced AI-powered strategies"
-    excerpt: "With Chatbot AI's rising popularity, Vegas Bot AI strives to take natural language processing and machine learning a notch higher to better serve customers globally. Chatbot AI And Its Features Chatbot AI is a computer software that uses natural language ..."
-    publishedDateTime: 2023-03-23T13:54:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31475133/vegas-bot-ai-starts-presale-with-the-bang-users-can-secure-revenue-with-their-advanced-ai-powered-"
+  - title: "Jack Ma comments on ChatGPT, AI in the digital era"
+    excerpt: "A response by ChatGPT, an AI chatbot developed by OpenAI, is seen on its website in this illustration picture taken Feb 9, 2023. [Photo/Agencies] Jack Ma, founder of Alibaba Group"
+    publishedDateTime: 2023-03-27T10:45:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202303/27/WS64215c74a31057c47ebb6c95.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202303/27/64215d5da31057c4b4b80291.jpeg"
+        width: 720
+        height: 480
+        isCached: true
+  - title: "Codie.ai, first consultative AI assistant based on OpenAI ChatGPT"
+    excerpt: "Codie.ai has launched an AI assistant to transform how businesses interact with their customers. The platform interacts with customers human-likely and provides information about products and services of the company or retailer. London-based startup Codie ..."
+    publishedDateTime: 2023-03-24T21:11:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/ab31499408/codie-ai-first-consultative-ai-assistant-based-on-openai-chatgpt"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 20
+    quality: 37
     images:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
         isCached: true
-  - title: "Vegas Bot AI starts Presale with the bang, users can secure revenue with their advanced AI-powered strategies"
-    excerpt: "Vegas Bot AI, a revolutionary technology startup that aims to enhance customer interactions with businesses by developing a highly natural conversational experience, introduces the Vegas Bot AI Token Launch."
-    publishedDateTime: 2023-03-23T22:31:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-vegas-bot-ai-starts-presale-with-bang-users-/2023/03/23/9782463.htm"
+  - title: "Paper written using ChatGPT demonstrates opportunities and challenges of AI in academia"
+    excerpt: "ChatGPT has the potential to create increasing and exciting opportunities—but also poses significant challenges—for the academic community, according to an innovative study written in large part using the software."
+    publishedDateTime: 2023-03-23T20:19:00Z
+    webUrl: "https://phys.org/news/2023-03-paper-written-chatgpt-opportunities-ai.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 20
+      name: Phys.org
+      domain: phys.org
+    quality: 29
     images:
-      - url: "https://api.blockchainwire.io/uploads/OceanDigitalPR/editor_image/7f4ed462-e0a4-48f6-bbbc-53ea14eae198.png"
-        width: 622
-        height: 209
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/paper-written-using-ch.jpg"
+        width: 1719
+        height: 872
         isCached: true
+  - title: "AI News roundup: OpenAI adds plugin support to ChatGPT, Mozilla opens new AI startup and more"
+    excerpt: "The AI chatbot became popular in just a matter of weeks — way ... Invite your friends and family to sign up for MC Tech 3, our daily newsletter that breaks down the biggest tech and startup stories of the day"
+    publishedDateTime: 2023-03-24T13:32:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-openai-adds-plugin-support-to-chatgpt-mozilla-opens-new-ai-startup-and-more-10307071.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 6
 
 secured: "RirERfHz8IFzt7K/C+cwwhIg15JH4pF7aDZ9NvY3Y6TGAqx/xeYNnS8+d1htSxPwlibulB5aHPpBAcLHTHTsMobheyie/CcynQBWt+3+FkAyl2ePaIZwQbAq0l0dDDPkTWRogIJz5WxaA1OfoIeEbQ5iOxFiOrOLq0KmXHTAN8GRcB4QZpthYvnabIy8yOVowHWQnDqndp9CHqafZR3/Yk67vFSe+aOPZwftMJRrAGYhjjRXB9FSWQJW9TBm+KQ8VkxJq+tCyRvnND9A7bu/841d4dtIGIlg/uOKvwjmjcJOnEMHvOFCbHoudTGjoM+hpfyCD++Eh22r0Sbs3WxEFhvWb0UwDhRuk1B+Zv3jCzI=;pZzut0rX910UyfFyGbU75w=="
 ---

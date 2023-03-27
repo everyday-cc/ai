@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-27T13:27:00Z
 originalUrl: "https://diginomica.com/fashion-victims-ai-helps-clothing-makers-fake-diversity-online"
 webUrl: "https://diginomica.com/fashion-victims-ai-helps-clothing-makers-fake-diversity-online"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Diginomica

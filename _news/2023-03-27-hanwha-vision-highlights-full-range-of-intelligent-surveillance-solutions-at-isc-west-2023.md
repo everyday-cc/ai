@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-27T13:37:00Z
 originalUrl: "https://www.securityinfowatch.com/isc-west/press-release/53042521/hanwha-vision-hanwha-vision-highlights-full-range-of-intelligent-surveillance-solutions-at-isc-west-2023"
 webUrl: "https://www.securityinfowatch.com/isc-west/press-release/53042521/hanwha-vision-hanwha-vision-highlights-full-range-of-intelligent-surveillance-solutions-at-isc-west-2023"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: Security
@@ -14,6 +17,22 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Emotion Detection and Recognition Market to surpass US$ 40.5 Billion by 2030, Says Coherent Market Insights (CMI)"
+    excerpt: "On the basis of software and services, the market is segmented into facial recognition, speech and voice recognition, and biosensing. The facial recognition segment is expected to dominate the global market over the forecast period, towing to increasing ..."
+    publishedDateTime: 2023-03-27T13:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31511105/emotion-detection-and-recognition-market-to-surpass-us-40-5-billion-by-2030-says-coherent-market-i"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 5
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "daky3JHgKnU6FTZWd2GivQwUlYB4FwQY1EPuca+Oi+0LaLciOOp82XNo0C0W2afcCrCxd88v26VRvGEQHW0Eia6x5eQUetTs43ldXwbCPjyQhVTnZfOQWLYkobzUsuG9MDbRWJzyX9FIcXP88HOfqVCRETGVQmyipBiaDLuNfrC9VCvqdmPHar893NrNQO5u35khpBIQCwXoFeA8QCMJQTivxzrAVhpY3oi4g8mXamGWFhDdxDCKDFP8zi2tFcoWZiqb1BuRCi1KdLsH8T6L0XZ6KD5YSTlhxYxfe/LjGdioI3mhjTEyXHh2jbSMJeOu25oqM2Ridt/QS3wWUq4TwOY8YK/2apwn3lsm/PtVAO/3J0y0vA3jCvMb9G8G1uL9QaugKS8Dtje+PI/LWtDiqtZ6XH1wLe220exEBnSLbS66v75kvZnr+pHIjjAWY/pEUYpOa7oqmTYX0EmbNMYDYvbhoGFd3dLg4BuEuvh4sHFuL6yK5XbkdJ5xasGOdcIJDhGTEjhQDTrJu8VVpCJqPw==;ljWnal6AApwC6j8y5UKGag=="
 ---

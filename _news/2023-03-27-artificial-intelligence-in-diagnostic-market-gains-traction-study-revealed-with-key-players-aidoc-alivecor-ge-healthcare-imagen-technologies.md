@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-27T10:14:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diagnostic-market-gains-traction-study-revealed-with-key-players-aidoc-alivecor-ge-healthcare-imagen-technologies-2023-03-27"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diagnostic-market-gains-traction-study-revealed-with-key-players-aidoc-alivecor-ge-healthcare-imagen-technologies-2023-03-27"
 type: article
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: MarketWatch

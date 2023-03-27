@@ -8,9 +8,9 @@ webUrl: "https://diginomica.com/ai-and-inequality-avoiding-social-upheaval-age-a
 ampWebUrl: "https://diginomica.com/ai-and-inequality-avoiding-social-upheaval-age-automation?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-and-inequality-avoiding-social-upheaval-age-automation?amp"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: Diginomica

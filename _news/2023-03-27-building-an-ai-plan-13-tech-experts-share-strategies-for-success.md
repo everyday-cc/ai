@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-27T12:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/27/building-an-ai-plan-13-tech-experts-share-strategies-for-success/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/27/building-an-ai-plan-13-tech-experts-share-strategies-for-success/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes
