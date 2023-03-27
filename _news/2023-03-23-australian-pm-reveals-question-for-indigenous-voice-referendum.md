@@ -139,22 +139,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 28
-  - title: "Australia politics live: Indigenous voice to parliament referendum wording to be announced by Anthony Albanese"
-    excerpt: "Davis again stressed that the voice needed to talk to executive government ... Davis noted 2023 marked the second decade of consultation and work around Indigenous constitutional recognition in Australia, pointing out there had been at least seven ..."
-    publishedDateTime: 2023-03-22T23:29:00Z
-    webUrl: "https://www.theguardian.com/australia-news/live/2023/mar/23/australia-politics-live-voice-referendum-wording-expected-this-morning-etihad-could-face-action-on-greenwashing-anthony-albanese-peter-dutton-indigenous-canberra-parliament?filterKeyEvents=false&page=with:block-641b8b3b8f0823818506b812"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/mar/23/australia-politics-live-voice-referendum-wording-expected-this-morning-etihad-could-face-action-on-greenwashing-anthony-albanese-peter-dutton-indigenous-canberra-parliament"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/mar/23/australia-politics-live-voice-referendum-wording-expected-this-morning-etihad-could-face-action-on-greenwashing-anthony-albanese-peter-dutton-indigenous-canberra-parliament"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 24
-    images:
-      - url: "https://i.guim.co.uk/img/media/5a1fb4cad80823f11a24b65dc058fbf7487abc81/0_0_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=f3f731bf62dfb3ec707a533289194508"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Here are the words of the Voice question"
     excerpt: "In recognition of Aboriginal and Torres Strait Islander peoples as the First Peoples of Australia: There shall be a body, to be called the Aboriginal and Torres Strait Islander Voice; The Aboriginal and Torres Strait Islander Voice may make representations ..."
     publishedDateTime: 2023-03-23T01:52:00Z
@@ -182,20 +166,6 @@ related:
       - url: "https://static.ffx.io/images/$zoom_0.3252%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_68%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_live_no_age_social_wm/df38d725996eb16f6833067fb7b4add2833502b9"
         width: 1200
         height: 628
-        isCached: true
-  - title: "The Voice Referendum question has been announced. This is what it means"
-    excerpt: "The government and the Referendum Working Group also announced the proposed wording that will be altered in the Australian Constitution if a 'yes' vote is successful. Australian Prime Minister Anthony Albanese surrounded by members of the First Nations ..."
-    publishedDateTime: 2023-03-23T00:11:00Z
-    webUrl: "https://www.sbs.com.au/nitv/article/the-referendum-questions-and-proposed-constitutional-changes-have-been-announced-heres-is-what-it-all-means/ljj6252cg"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 24
-    images:
-      - url: "https://images.sbs.com.au/dims4/default/771b09b/2147483647/strip/true/crop/8256x4644+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F20%2F30%2Ffe4b05e0410e96fd0fd9dfa256a4%2F20230323001778085236-original.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Voice referendum: ‘Why Australians should vote Yes’"
     excerpt: "Aussies will be asked whether they support constitutional recognition for the First Peoples of Australia in the form of an Aboriginal and Torres Strait Islander Voice. News.com.au spoke with Dean Parkin, director of the Yes Campaign, to determine why the ..."

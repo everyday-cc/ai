@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-market-
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-outlook-examining-demand-and-growth-projections-across-industries-till-2030-2023-03-24"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: MarketWatch
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Europe Deep Learning Neural Networks (DNNs) Market Report on Industry Research, Growth Trends, and Competitive Analysis 2023 to 2031"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (Alliance News via COMTEX) -- Europe deep learning neural networks (DNNs) market is expected to register healthy CAGR in the forecast period of 2019 to 2026."
+    publishedDateTime: 2023-03-24T18:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/europe-deep-learning-neural-networks-dnns-market-report-on-industry-research-growth-trends-and-competitive-analysis-2023-to-2031-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automatic Speech Recognition(ASR) Software Market Outlook: Predictions and Projections for 2028 And Beyond"
     excerpt: "Global Automatic Speech Recognition(ASR) Software Market Report (123 Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https ..."
     publishedDateTime: 2023-03-24T18:24:00Z

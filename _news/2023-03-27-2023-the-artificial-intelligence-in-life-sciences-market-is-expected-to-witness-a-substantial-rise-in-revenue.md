@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market is Booming Worldwide to Show Significant Growth over the Forecast 2023"
-    excerpt: "Artificial Intelligence (AI) in Fintech Market Size 2023 | New Report (116 Pages) | Information Technology | In"
-    publishedDateTime: 2023-03-27T03:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-is-booming-worldwide-to-show-significant-growth-over-the-forecast-2023-2023-03-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "wqD5K4nsCriOuZiCHQsvUjwlVTM37wdfSvMMeQ4Ng2p0CVPHr8tPik4B3Nv/QCqcziqi+mQ3oizHmR96reKMcXJkDQxSPbZ7lQq0iVwXpG/VHM3cmP6UcKb+VQWd0wpHO4rQQ31MfMVqXjT/nUfkscBwk2alDKzw4HXhOaPREIj/kHiv/+xT2dZjj6C4JkqdcSuhnnqM8VWFKkfwbl64b+E1aJLQItYJU/CXUHYp6Y2wHJk5KGjFaiTXoEerEUMqSBWh7EJjZz1yUeEvW0ye8aeKTnq2xSMZW4qg+Haq8i4N8vJnmjMs4lpaOKcS/W179L70LQVsVfQWHFAq8JWAh/rsU8bbuOtDHMLOFqFUVnk=;OewAbH/8LYiIo5uMvfzVIg=="
 ---

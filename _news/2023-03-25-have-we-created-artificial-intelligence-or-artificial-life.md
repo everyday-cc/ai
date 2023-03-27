@@ -3,13 +3,13 @@ category: news
 title: "Have We Created Artificial Intelligence or Artificial Life?"
 excerpt: "We have all been reading and hearing a lot about artificial intelligence (AI) recently because it is an absolute game-changer. As AI developers madly rush forward to develop and deploy AIs, we are reminded of the frenzied early days of the internet."
 publishedDateTime: 2023-03-25T14:46:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/tech-happy-life/202303/have-we-created-artificial-intelligence-or-artificial-life"
-webUrl: "https://www.psychologytoday.com/za/blog/tech-happy-life/202303/have-we-created-artificial-intelligence-or-artificial-life"
-ampWebUrl: "https://www.psychologytoday.com/za/blog/tech-happy-life/202303/have-we-created-artificial-intelligence-or-artificial-life?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/tech-happy-life/202303/have-we-created-artificial-intelligence-or-artificial-life?amp"
+originalUrl: "https://www.psychologytoday.com/us/blog/tech-happy-life/202303/have-we-created-artificial-intelligence-or-artificial-life"
+webUrl: "https://www.psychologytoday.com/us/blog/tech-happy-life/202303/have-we-created-artificial-intelligence-or-artificial-life"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/tech-happy-life/202303/have-we-created-artificial-intelligence-or-artificial-life?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/tech-happy-life/202303/have-we-created-artificial-intelligence-or-artificial-life?amp"
 type: article
-quality: 59
-heat: 59
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -17,7 +17,6 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
@@ -26,6 +25,6 @@ images:
     height: 800
     isCached: true
 
-secured: "fV9gJJ4+Zws3MDA0s1uD5b0/0qGP8oH4NeWb0GIRJhINdf5c1gzIKjllvIYtPuP2seQ67yJIptCWIYWm/yDgCgUe0NfSbc2Ztv6mx/++463xDo3j/t+9+eefpRYJ5+GcE86+Oy2XQ7W/n0f3XlEwBrAuLA+6fc/JHIEooF3oMSIjL4GKfLGJeXwgx6YHZnDz8fYxss9Sj0JVQ5PWZ5ytszfDzFX5eqrRXJRNEorHK/jDYE12UCjSiMgdEZUzAiMaeuqxM66OV6WPG9MxqLLlYUyPv0tMVqGWXL06GpvkI+QHuNq2Qs7z6XJDlDRFW6Hi9DKW1w3Tj8AC/EezDS5FbSVLdDRH1pA9fPheYq5r3zM=;PTHAhBMGOSpK49n9geXtQg=="
+secured: "Wy+iZg9yOrdR3HaqddrsNKUOaRXhQzn0kwoyrnj47bMDMWPt3EinMNNBJ8S/PRBhT0d6WYNV9dd7DwvPCInaZFlHRUVJt5RCINwfdDRevjixmFPEcWvHu6A+rLBfqMc05f+aNb0YcIbeWPLcqWildESZIWRHbwpWg6q6YaXzRd8Epso9WVRucqG/UK1xLnak2R4RoJICAQsXuRLCGpM+GdsIGzSUGnLX9wORtNPg5uZQw5dpcxQK/oUWn5+tk41RemLPYCZx4F8NkkBBUURTu1mXVejZs+yYkAT+mzSQCwWv6k1BeJfDadcsi/WPBdwvduJ8Up0++oL75Acl2VbyQA1RbR8N2rYyPcfjirWK3LA=;OfSvzM4dOLQx45iDxKXk+A=="
 ---
 

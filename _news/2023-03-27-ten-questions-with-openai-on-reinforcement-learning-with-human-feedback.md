@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2023/03/27/ten-questio
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2023/03/27/ten-questions-with-openai-on-reinforcement-learning-with-human-feedback/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/Cohere-AI-.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Zoom upgrades AI features with OpenAI to make meetings simpler"
+    excerpt: "“We are excited to bring many more capabilities with new large language models. Our unique approach to AI will give customers the flexibility ... for an expanded whiteboard service, automated translation tech, tools for hybrid workplace video calls ..."
+    publishedDateTime: 2023-03-27T15:49:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/zoom-iq-ai-openai-features-meetings-summary-compose"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/03/a-5.png"
+        width: 800
+        height: 600
         isCached: true
   - title: "These are the 34 jobs OpenAI suggests will secure you against the AI revolution"
     excerpt: "The creators of recent AI phenomenon, ChatGPT ... Additionally, LLMs can be used to translate content into different languages, which can help to reach a wider audience. And, I can be used to generate personalized content, such as news articles that ..."

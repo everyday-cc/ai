@@ -62,15 +62,6 @@ related:
         width: 320
         height: 213
         isCached: true
-  - title: "Anthony Albanese reveals Voice referendum question and provisions"
-    excerpt: "The Albanese government and the Voice working group have agreed on the provisions ... “This is not about symbolism – this is about recognition.”"
-    publishedDateTime: 2023-03-23T00:54:00Z
-    webUrl: "https://www.news.com.au/national/anthony-albanese-reveals-voice-referendum-question-and-provisions/video/f2c2f0fae0d281803b1ae5a017b3cc71"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 4
 
 secured: "jSrt3XKflDw74FiZhOnCrQhR4sV8PcB56GD4gmBuuINJrT+l0qHyRLbN2EG8mUz4qyeX6JjAVM2ON1z2+z9m2A0/1ZsJenITxBHDJ2L7hNe/lROjix/adHbJ5+/qrw0yj5mGQyxl+fKtsnAH7PFQEZIVjzkEG2O7jor2rCQ//ON+bRU3VAFg7hEAdlFKaJEdJvo9iN9w1BWsVTcfiJyuYwW5H8qDuNh88p09Stv3Jg55IBQcjUCOq49iPdaBrj6NVUvLRJ1jR5R/m0tAWHfOVmXp05IzxYoK9JddvqwfpYjIPrS9Ch5SqtxAoBuoekr/GMHi0CQSARpqwLvr/NgS5LPFqzHWYdgT1H63Mk3YR9CZ/dfLG7EEW3kO9IZ5Jdh3TtJ8Xs676hx0VEWm0fqXyqnb2DqThrXWE87pfjGq/FL+fSQH3onyzmf6XD3tt2OZ7NqupyMeo2pp7MQ6ZAis9XLgM4PdTJ88vzO4T8QcyNKaiajnkGENflIBJqXJwLqjgpoBroyo8dzlq3oXR31crQ==;dMQNvx7TZpIL+NihaAnJKQ=="
 ---

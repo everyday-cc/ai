@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Latest Forecast for Artificial Intelligence In Manufacturing Market [2023-2030] | Stay Ahead of the Success"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- [110 Pages Report] Global “Artificial Intelligence In Manufacturing Market” [2023-2030] latest research report provides size ..."
-    publishedDateTime: 2023-03-23T22:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-forecast-for-artificial-intelligence-in-manufacturing-market-2023-2030-stay-ahead-of-the-success-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "j6C26WUD0nQtgoeS3ZYo8/qRqVoEF+iDz3pdKrvgWVUVBmZgNHtpqUkcC6oiBaqAIE2Maq8sXJBn/RNtV3TjhtQ3+G4vXO1EYfAPNUYzWpk8C6LStRVWhOwPTyvNCZW+rqdTGApAxyL9+EuttzrPj3iJ8RWCqH7MfZv71ps5R8l4m/jXgnVYYLptZEZY75oWLIbO1VdBwl9/uP65iu4zd7pfJcf7LOqS6VgnTJPgUP9CB8eG/2+uVt1pySAuozxMdeonajKOFq6E6ql2xPAx2CMwq4j+3BBGt9MV3i5rflgX0wTB97Y24sLqguNNgBbmD3xpW0iS2M1SrTeRh+P4Eqt5nmTAxuAeqdRQHUz/R3e9hwH+t1tsc9xQY83dPG1OMDCI72O9/4gnhyt6YzXfa87e0D42T6z7OwOdB1MIr+kxCPRS1hV6NMGA/8ckEMWLsoLkjIMwhU6XFqGITGuhdzjTI8wHSUbBPp9CY3Iufq2pkzw1pWtvOl7XUsKr0kCl5nQubbdwSOPg87WZNFHYMA==;iWaV+9vJsuFwWVBbHzcobQ=="
 ---

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Deep Agency shows the perils of applying AI to the fashion industry"
+    excerpt: "Earlier this month, Danny Postma, the founder of Headlime, an AI-powered marketing copy startup that was recently acquired by Jasper, announced Deep Agency, a platform he describes as an “AI photo studio and modeling agency.” Using art-generating AI ..."
+    publishedDateTime: 2023-03-27T16:53:00Z
+    webUrl: "https://techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry/"
+    ampWebUrl: "https://techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2015/11/489474058a.jpg?resize=1200,799"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Chip industry goes all-in on Artificial Intelligence"
     excerpt: "But an industry long associated with volatility is quietly getting excited that artificial intelligence (AI) could be the key to some longer-term stability. US firm Nvidia dominates the market in specialised chips known as GPUs, which happen to be ideal ..."
     publishedDateTime: 2023-03-25T11:28:00Z
@@ -35,24 +51,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "BYD invests in China AI chip startup"
-    excerpt: "China automaker BYD has newly invested in Chinese AI chip startup Kunlunxin Technology, aiming to enhance its deployment in automotive AI chips solutions."
-    publishedDateTime: 2023-03-24T07:31:00Z
-    webUrl: "https://www.digitimes.com/news/a20230324PD207/automotive-ic-byd-horizon-robotics-nvidia.html?chid=10"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 36
-  - title: "Why AI Requires a New Chip Architecture"
-    excerpt: "According to Allied Market Research, the global artificial intelligence (AI) chip market is projected to reach $263.6 billion by 2031. The AI chip market is vast and can be segmented in a variety of different ways, including chip type, processing type ..."
-    publishedDateTime: 2023-03-24T08:11:00Z
-    webUrl: "https://www.design-reuse.com/industryexpertblogs/53710/why-ai-requires-a-new-chip-architecture.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 34
 
 secured: "HUucZwWmjWtT6Vsrt2EgmMKQNjBDpvZleQrKafHN9pZrXLJ3bzIcd9DVu6+OJ0LZ+Ar2jzhFzHAuMIXWcO8aAGI4nNzVdGYnVMlEIciStVjqqyKetYrW2EiS/IMoXxtV69Ez1kLkRGuUDO60kGAwKIQaZ/NOWH3GkIeI6vhATWXt0AAN/sY7xMmky6cL4OwyRAXnzfeMT4hdIomE50DVJ0su3b7I+ju7CrJiHGV49QMJ24p07uZTU5SuiYBFMfhQzBsBZcNOZ3lvzLBcqG7ggZn+H+uQxWtT+h5IOZptKnAwsyQfsVjCUrDCb9dc/mvOOCepxkvwmyHQAuNMTuPRP9G6AcvUOHTzSG8GPrj6SCkHUc7lTL/Fw6QyIVrhe6EMb+7zpin766AaC8bhwKgMgMZupLv5Zb/zQFBC+UYRv6oSB1aGWq/KRtcHJ+5t9lHkPRb6EuDmezSpGjOndSI3IJtLFPEf1ko6VrJF2IfPCrXKEV40eTEQlYm41NqTDAPEp4o6TQ0/BmvgfGPsc+e+EQ==;M2UKDbCW9M2zcuYIQ7RQHQ=="
 ---

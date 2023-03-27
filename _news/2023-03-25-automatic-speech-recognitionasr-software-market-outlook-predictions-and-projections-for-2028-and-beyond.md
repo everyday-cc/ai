@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Europe Deep Learning Neural Networks (DNNs) Market Report on Industry Research, Growth Trends, and Competitive Analysis 2023 to 2031"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (Alliance News via COMTEX) -- Europe deep learning neural networks (DNNs) market is expected to register healthy CAGR in the forecast period of 2019 to 2026."
+    publishedDateTime: 2023-03-24T18:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/europe-deep-learning-neural-networks-dnns-market-report-on-industry-research-growth-trends-and-competitive-analysis-2023-to-2031-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "iARJsh7pTjH4Tj0wGugm0E5JrG3Cf72BtErwXLAsewtq5pSm04Xio7U9GafmNp5xc0fzw/Q4zkT9EA3F+XfHUHMqeoZvTVsx7KveQgZwfMWDb7OUg+wpWWv155gYFa8vue0PcbS0wKfQK2FAh+nFP8iPT1ZGByIWfq1CSnpbTEOj49GmuY3jKToo97qCn0aMuRnX/J8J/cczM/RNw0ayHpHGmkQlo+L7HSrlNeBi8g/Pl3Why5KXRleLGNK1Z1iAFkVEk/c0AXgEN8RoRXB635F0AoMFJj/CDirJY1mq/kbcJ3orPQ/ourlPo37DjBTuVKF1fnDgNRKk36EYiDiug7ZHvpd4CWF60u6BFfdlmrI=;Nnew3P4OJl4ydJOkETw0Dw=="
 ---

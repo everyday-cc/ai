@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/saibala/2023/03/26/googles-generative-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/03/26/googles-generative-ai-system-bard-has-the-potential-to-revolutionize-healthcare/amp/"
 type: article
 quality: 98
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "2023, Healthcare AI Market of the Future Size and Growth of the"
+    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  Moreover, the Healthcare AI Market Report includes data on research and development,"
+    publishedDateTime: 2023-03-27T04:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-healthcare-ai-market-of-the-future-size-and-growth-of-the-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "MedTech Bigwigs in Spotlight as AI Revolutionizes Healthcare"
     excerpt: "Per a report by Grand View Research, the global AI in cancer diagnostics market size was $93.2 million in 2021 and is expected to expand at a CAGR of 28.0% by 2030. Early detection of cancer is possible through AI for screening and diagnosis of cancer,"
     publishedDateTime: 2023-03-24T17:02:00Z

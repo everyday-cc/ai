@@ -72,6 +72,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Apple acquires video compression startup that utilizes artificial intelligence"
+    excerpt: "Apple recently acquired WaveOne, a California-based startup that was developing AI algorithms for video compression, according to TechCrunch. Apple did not confirm the acquisition, but former WaveOne executive Bob Stankosh said a “sale of the company ..."
+    publishedDateTime: 2023-03-27T16:52:00Z
+    webUrl: "https://wraltechwire.com/2023/03/27/apple-acquires-video-compression-startup-that-utilizes-artificial-intelligence/"
+    ampWebUrl: "https://wraltechwire.com/2023/03/27/apple-acquires-video-compression-startup-that-utilizes-artificial-intelligence/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/03/27/apple-acquires-video-compression-startup-that-utilizes-artificial-intelligence/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 53
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2018/04/apple-logo-cnn-e1573585102933.jpg"
+        width: 581
+        height: 327
+        isCached: true
   - title: "Stretching the AI startup boom"
     excerpt: "Generative AI startups may be getting all the attention and venture checks right now, but the next fund raise may be a tougher road. Why it matters: The market downturn has been raining on startupland’s parade for the past year,"
     publishedDateTime: 2023-03-25T13:17:00Z
@@ -147,6 +163,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "FaKqXQjbDOu9juufTOFwkHglUg/HFx6Hu1/q/SPqrckfawtSyGpbBjJTX8+LMEtNmjoXQMUCMm/+TZdSFlryT9z4nKVkxcpx4boAngo8s9DiUGX6m195YV5G5LFZZ4O3ufG2ETGaFlUt46E5RaHHW5XcWWzNhfGQhBEkoUubSlLj9zsBfyzYXwOobhqkBdnppxKRA6GP4hdFJrG9EAtbnAY+W3VsmW0ZNrQWql4KcCxnC7Tu2EXq3b2z3HbguKpz76mHAQtjfXZPiAbpoKhgImWPlIExMDnnOTPWB7Dn3vGtUbkufW2XyxM71Cy3CgRXjoaVj/PNZ7bagQX1DgZfsoXmQHnRxVGWYrKqcUWkWLQ=;E7RMiLHEB7Ux8ykgOZKwsw=="
+secured: "p6nfeAhm9Pp5IKbfqNPkH2YfqOxIZFbl9LoEfTMkRFbvBKMBkHd5m26LlP1Pvy/8tIbBXIPaVUmSt2GIY79QEl1YRBxscZHLrfbdfe9inem3S+KvXVhMG91bQ6GjQnfvBwAx/B9hmtkyk/V1IWDbjqZviEOn7sVEiD2qvHbrmhg+uCdIYReZvbCSxRET4bW90m53Wc+XN6Me9G+9jJYvmnIbq+AOZ/TciQaDxBxSeLliMXEBtqA4N2kQX+avWWEe84q4sZoTyNs6CLYxah6PmdmaoFyIATN+fvRwTU2b2dOAMLhLpoqQkqxUEsej33I1A+UXw57u1+LzelHhefqzbF8IHm1ubfrCHVOQS8bkbkd+XbPgl24B04s/uoZfgdC0pwpZ1r0ChN8wpznfLWdudBRE/ytqG32P/5OC93VVcA2dYt92ry3hnPN7tszCuA1uzQG/G885mEnushdMDBMDl+Ot/rn3BzYUWr4l3vjWQtb1whmfxm7PLhWTjkSS9KaPO68fuZlxfh37Hg5+xTQSew==;KcQXzc8QvMOmidPV7CMtsA=="
 ---
 

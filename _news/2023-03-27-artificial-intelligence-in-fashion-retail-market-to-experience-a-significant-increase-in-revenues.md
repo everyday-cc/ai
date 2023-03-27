@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-fashion-retail-market-to-experience-a-significant-increase-in-revenues-2023-03-27"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Fintech Market is Booming Worldwide to Show Significant Growth over the Forecast 2023"
-    excerpt: "Artificial Intelligence (AI) in Fintech Market Size 2023 | New Report (116 Pages) | Information Technology | In"
-    publishedDateTime: 2023-03-27T03:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-is-booming-worldwide-to-show-significant-growth-over-the-forecast-2023-2023-03-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2023, The Artificial Intelligence in Life Sciences Market is Expected to Witness a Substantial Rise in Revenue"
     excerpt: "Artificial Intelligence in Life Sciences Market Size 2023 | New Report (122 Pages) | Information Technology | In"
     publishedDateTime: 2023-03-27T03:53:00Z

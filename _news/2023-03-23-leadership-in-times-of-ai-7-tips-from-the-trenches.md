@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/03/23/leadersh
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/03/23/leadership-in-times-of-ai-7-tips-from-the-trenches/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Leadership In The Age Of AI: How To Build Your AI Literacy"
+    excerpt: "Statistically speaking, your organization is likely already using artificial intelligence, and you probably have full-scale deployment of at least three AI applications. A recent survey revealed as much,"
+    publishedDateTime: 2023-03-27T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/27/leadership-in-the-age-of-ai-how-to-build-your-ai-literacy/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/27/leadership-in-the-age-of-ai-how-to-build-your-ai-literacy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/27/leadership-in-the-age-of-ai-how-to-build-your-ai-literacy/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641db2cbc8f7905940580d4a/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "e3irFo7lI5prgyWzJ2/sObh3SrDM4QtakQOFO44qTtKxHDpqcIwOeGPHba50IONoZB2ikg5OL2cqdBnfOKAV6wVSrcbx2Ks9h9BoK4SsK7FArWsSYb3PYbftJAZk9Wh4tkUSeTceFnl1e7KQOJqkzcp4Ro6H5aQnlsdUg+V7YVg1ONzuRqSoNpMpaJHSh4hXIT2nVAspevIJ//VVmSMuBE2g41XmMS2xpzNnXC23styVMLredN57jbsdLHk1Wg0hxlIqm86ROZCkldWBCRd+LoWPze/EgxvceSUjNedFTSOC0kv0nBMXfcF/sy0NGpfgolPY8NQxFPZq2g8+gtLwxUeOBBanvZslnQAk0KLfCl8=;DNmCm50esPJDjzb2IgKNKg=="
 ---

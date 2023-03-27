@@ -54,15 +54,6 @@ related:
         width: 320
         height: 213
         isCached: true
-  - title: "Anthony Albanese reveals Voice referendum question and provisions"
-    excerpt: "The Albanese government and the Voice working group have agreed on the provisions ... “This is not about symbolism – this is about recognition.”"
-    publishedDateTime: 2023-03-23T00:54:00Z
-    webUrl: "https://www.news.com.au/national/anthony-albanese-reveals-voice-referendum-question-and-provisions/video/f2c2f0fae0d281803b1ae5a017b3cc71"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 4
   - title: "Climate policy in Anthony Albanese‘s push for Indigenous voice to parliament"
     excerpt: "The Greens have upheld the need for the voice to provide advice on policies such as the safeguard mechanism in a rebuke to Anthony Albanese, arguing the climate policy – and the coal and gas projects it could affect – directly impacts upon Indigenous Australians."
     publishedDateTime: 2023-03-27T11:21:00Z

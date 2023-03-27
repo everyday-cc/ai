@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mozilla launches a new startup focused on ‘trustworthy’ AI"
-    excerpt: "Mozilla, the nonprofit behind software like Firefox, has launched a new startup, Mozilla.ai, focused on developing trustworthy AI systems."
-    publishedDateTime: 2023-03-23T00:39:00Z
-    webUrl: "https://techcrunch.com/2023/03/22/mozilla-launches-a-new-startup-focused-on-trustworthy-ai/"
-    ampWebUrl: "https://techcrunch.com/2023/03/22/mozilla-launches-a-new-startup-focused-on-trustworthy-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/mozilla-launches-a-new-startup-focused-on-trustworthy-ai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-956152050.jpg?resize=1200,900"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Mozilla introduces new startup to build open, trustworthy AI"
     excerpt: "Mozilla, the developer of the Firefox Internet browser, has introduced a new startup called Mozilla.ai, which the company hopes \"will build a trustworthy and independent open-source AI ecosystem\". The company said that it is initially investing $30 million ..."
     publishedDateTime: 2023-03-23T09:23:00Z

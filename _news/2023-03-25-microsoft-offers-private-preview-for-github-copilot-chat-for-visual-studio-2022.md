@@ -36,6 +36,22 @@ related:
         width: 1051
         height: 700
         isCached: true
+  - title: "Microsoft Teams takes off with AI-savvy Copilot integration"
+    excerpt: "Microsoft today announced a new version of Teams with AI-powered Copilot integration and notable speed and UX updates."
+    publishedDateTime: 2023-03-27T15:00:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-teams-takes-off-with-ai-savvy-copilot-integration/"
+    ampWebUrl: "https://venturebeat.com/ai/microsoft-teams-takes-off-with-ai-savvy-copilot-integration/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-teams-takes-off-with-ai-savvy-copilot-integration/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/microsoft-teams.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Can’t wait for Microsoft’s AI-generated presentations? Canva has it now"
     excerpt: "Magic Eraser is part of the Pro tier, like the AI-powered Beat Sync, as well as anything that includes your own branding, Canva said. As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written ..."
     publishedDateTime: 2023-03-23T05:25:00Z
@@ -149,6 +165,22 @@ related:
       - url: "https://s5.cdn.memeburn.com/wp-content/uploads/2023/03/Google-bard-1.jpg"
         width: 675
         height: 448
+        isCached: true
+  - title: "Amazon, Microsoft and Google's AI armies are huge, yet struggling to innovate"
+    excerpt: "New data show Amazon, Microsoft and Google have thousands of AI specialists, but they’re still playing catch-up to a tiny team at OpenAI."
+    publishedDateTime: 2023-03-27T17:47:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/amazon-microsoft-and-google-s-ai-armies-are-huge-yet-struggling-to-innovate-11679897432675.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/amazon-microsoft-and-google-s-ai-armies-are-huge-yet-struggling-to-innovate/amp-11679897432675.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/amazon-microsoft-and-google-s-ai-armies-are-huge-yet-struggling-to-innovate/amp-11679897432675.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 73
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/03/27/600x338/ai_1655840015732_1679897559934_1679897559934.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "How retailers are empowering business transformation with TCS and Microsoft Cloud"
     excerpt: "TCS specializes in AI-powered vision technologies like Microsoft Azure Percept to create ... portfolio of intellectual property using machine vision, conversational assistants, predictive analytics, machine learning, AI, and other capabilities on Microsoft ..."

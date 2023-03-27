@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "2023, Healthcare AI Market of the Future Size and Growth of the"
+    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  Moreover, the Healthcare AI Market Report includes data on research and development,"
+    publishedDateTime: 2023-03-27T04:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-healthcare-ai-market-of-the-future-size-and-growth-of-the-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "BHYTuV+8dJylSsoEAzCuxizfiSGppfGZGZkhoAJhZgsQ4AsLxYlk6toHKLtkttdoR8hrsUKmb6KSkdIGiXIKv9PL7ooLWIcVPxPkEzmX9NMW+TIp5x5piNp9ChmioNN6HgTBTXMCP2LafKmtdwkkMtik1OMrVDFcwMvZN3WNTGtudCeF0tlT9sh3Q3wYCqYrUfGQr+7D29LcHAksfyKbQnsN4Y0FGJwyGqaQBuz8oWJ1LiVydo0qq8eqaWqd2QxcPzSzyjtbugwB+ki91wWCJpm4ogF5mbFPil1nPx6iFurmwUis4Op680gE02TKF3do2ZHOfmR6Qqyw2vbOzx0hx4bUXwkHzKSeC0NIykhCmq0=;CM730MBWb8j9t3GARDT7Sg=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newindianexpress.com/business/2023/mar/23/chip-industry-
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2023/mar/23/chip-industry-goes-all-in-on-artificial-intelligence-2558797.amp"
 type: article
 quality: 76
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: The New Indian Express
@@ -28,24 +28,22 @@ images:
     isCached: true
 
 related:
-  - title: "BYD invests in China AI chip startup"
-    excerpt: "China automaker BYD has newly invested in Chinese AI chip startup Kunlunxin Technology, aiming to enhance its deployment in automotive AI chips solutions."
-    publishedDateTime: 2023-03-24T07:31:00Z
-    webUrl: "https://www.digitimes.com/news/a20230324PD207/automotive-ic-byd-horizon-robotics-nvidia.html?chid=10"
+  - title: "Deep Agency shows the perils of applying AI to the fashion industry"
+    excerpt: "Earlier this month, Danny Postma, the founder of Headlime, an AI-powered marketing copy startup that was recently acquired by Jasper, announced Deep Agency, a platform he describes as an “AI photo studio and modeling agency.” Using art-generating AI ..."
+    publishedDateTime: 2023-03-27T16:53:00Z
+    webUrl: "https://techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry/"
+    ampWebUrl: "https://techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry/amp/"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 36
-  - title: "Why AI Requires a New Chip Architecture"
-    excerpt: "According to Allied Market Research, the global artificial intelligence (AI) chip market is projected to reach $263.6 billion by 2031. The AI chip market is vast and can be segmented in a variety of different ways, including chip type, processing type ..."
-    publishedDateTime: 2023-03-24T08:11:00Z
-    webUrl: "https://www.design-reuse.com/industryexpertblogs/53710/why-ai-requires-a-new-chip-architecture.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 34
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2015/11/489474058a.jpg?resize=1200,799"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Chips industry goes all-in on Artificial Intelligence"
     excerpt: "But an industry long associated with volatility is quietly getting excited that artificial intelligence (AI ... PCs and electric cars to sophisticated weaponry, robotics and all other high-tech machinery. AI already features heavily in all of these ..."
     publishedDateTime: 2023-03-23T12:35:00Z

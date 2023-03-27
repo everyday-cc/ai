@@ -57,15 +57,6 @@ related:
         isCached: true
   - title: "'AI, can I deduct that?' The top five overlooked tax deductions and how AI can help you find more."
     excerpt: "The AI models are even trained to flag highly complex returns for ... When it comes to saving cash on gadgets, remember, many “budget” smartphones still start in the $500-$800 range, so be sure to shop for deals and look at all your options, including ..."
-    publishedDateTime: 2023-03-23T00:43:00Z
-    webUrl: "https://www.indystar.com/story/tech/2023/03/10/taxes-2022-chatgpt-deductions/11431668002/"
-    type: article
-    provider:
-      name: The Indianapolis Star
-      domain: indystar.com
-    quality: 3
-  - title: "'AI, can I deduct that?' The top five overlooked tax deductions and how AI can help you find more."
-    excerpt: "The AI models are even trained to flag highly complex returns for ... When it comes to saving cash on gadgets, remember, many “budget” smartphones still start in the $500-$800 range, so be sure to shop for deals and look at all your options, including ..."
     publishedDateTime: 2023-03-24T03:39:00Z
     webUrl: "https://www.cincinnati.com/story/tech/2023/03/10/taxes-2022-chatgpt-deductions/11431668002/"
     type: article

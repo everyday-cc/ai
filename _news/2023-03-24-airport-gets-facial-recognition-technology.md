@@ -43,22 +43,6 @@ related:
         width: 1267
         height: 850
         isCached: true
-  - title: "FG to install facial recognition gadgets at airports"
-    excerpt: "The Federal Government has indicated plans to install facial recognition technology at major airports in the country. The Minister of State for Finance, Budget and National Planning, Clem Agba, made this known on Tuesday when he hosted the Japanese ..."
-    publishedDateTime: 2023-03-23T00:02:00Z
-    webUrl: "https://punchng.com/fg-to-install-facial-recognition-gadgets-at-airports/"
-    ampWebUrl: "https://punchng.com/fg-to-install-facial-recognition-gadgets-at-airports/?amp"
-    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fg-to-install-facial-recognition-gadgets-at-airports/?amp"
-    type: article
-    provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 74
-    images:
-      - url: "https://cdn.punchng.com/wp-content/uploads/2022/08/12044237/Murtala-Muhammed-International-Airport-Lagos.jpg"
-        width: 750
-        height: 420
-        isCached: true
   - title: "Govt to install facial recognition technology at airports"
     excerpt: "The Federal Government is set to install facial recognition technology at major airports in Nigeria. This was made known by the Minister of State, Budget and National Planning, Prince Clem Ikanada Agba, when he hosted the Japanese Ambassador in Nigeria ..."
     publishedDateTime: 2023-03-23T08:45:00Z

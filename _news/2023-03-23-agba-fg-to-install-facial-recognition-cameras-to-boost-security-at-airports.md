@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thisdaylive.com/index.php/2023/03/23/agba-fg-to-install-
 cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/03/23/agba-fg-to-install-facial-recognition-cameras-to-boost-security-at-airports/amp/"
 type: article
 quality: 88
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "FG to install facial recognition gadgets at airports"
-    excerpt: "The Federal Government has indicated plans to install facial recognition technology at major airports in the country. The Minister of State for Finance, Budget and National Planning, Clem Agba, made this known on Tuesday when he hosted the Japanese ..."
-    publishedDateTime: 2023-03-23T00:02:00Z
-    webUrl: "https://punchng.com/fg-to-install-facial-recognition-gadgets-at-airports/"
-    ampWebUrl: "https://punchng.com/fg-to-install-facial-recognition-gadgets-at-airports/?amp"
-    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fg-to-install-facial-recognition-gadgets-at-airports/?amp"
-    type: article
-    provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 74
-    images:
-      - url: "https://cdn.punchng.com/wp-content/uploads/2022/08/12044237/Murtala-Muhammed-International-Airport-Lagos.jpg"
-        width: 750
-        height: 420
-        isCached: true
   - title: "Airport gets facial recognition technology"
     excerpt: "Cameras installed at the Jinnah International Airport equipped with facial recognition technology have been made operational, with the Federal Investigation Agency (FIA) and the Civil Aviation Authority (CAA) to manage it jointly. The surveillance system ..."
     publishedDateTime: 2023-03-24T06:02:00Z

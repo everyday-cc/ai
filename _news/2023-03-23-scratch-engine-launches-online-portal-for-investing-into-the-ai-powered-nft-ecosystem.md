@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/scratch-engine-lau
 webUrl: "https://markets.businessinsider.com/news/stocks/scratch-engine-launches-online-portal-for-investing-into-the-ai-powered-nft-ecosystem-1032187331"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,24 @@ provider:
 topics:
   - Facebook AI
   - AI
+
+related:
+  - title: "Turing launches AI-powered services to form engineering dream teams"
+    excerpt: "Turing’s Talent Cloud uses AI to eliminate the arduous task of matching highly qualified ... GCP, BigQuery, Node, React, Azure and Python. Turing designs its services using a distributed application framework and the microservices architecture to scale ..."
+    publishedDateTime: 2023-03-27T16:49:00Z
+    webUrl: "https://venturebeat.com/ai/turing-launches-ai-powered-services-to-form-engineering-dream-teams/"
+    ampWebUrl: "https://venturebeat.com/ai/turing-launches-ai-powered-services-to-form-engineering-dream-teams/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/turing-launches-ai-powered-services-to-form-engineering-dream-teams/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1168836247-e1664214930793.jpg?w=1200&strip=all"
+        width: 1200
+        height: 599
+        isCached: true
 
 secured: "sWRGSvmUsQoVO9R6OXA1ENY3fLCYS8LGjjCxpO5bUoCegR/5v0pwexMv71pkD6vSk/iWLoveRmOXLnTkbqPt8ea2cKsAPWbd7OhiJdeZxhU3YDM+TgMeKjYrEpi9sLmiWtl5AtEmP4xjuCve0RF/hp/Wo9JZ1H6SiomhR1hr2UK66NwZ27nsCYqCMKKoW2tgGwlQWFyHSuS8jlKzDS7TgylRZclAtiScXYm9VcvXomgGndYqXxWUzRTjkOmhwc3jnrbtrbXlmagS72YoGXVP5Fh1ZpemzzTSF2+PInisqfSviPLkIWFDItHauMywu5B2ZjGb31EXppn/8JUPUqyUYL6AD3JjQXoMNzig8AjSvsXXrrpYdZu/vq3/e/xCNS3ZkZIGiXi57F/AvOIxj2n15/OS2V6Z5lS1+lOGc6/tbCZCb3h4K9gGTZgNdMBhH24Cxi+mR/Rc011ps/V16g6wuiLw2Z0IojoesOJx4smjKG79/0W0GoUQGoOcyDBJRAWgbgCno+1VkM4JGXnPdQKD7A==;3O/iSIs8kSmDTyO2U4Bh9g=="
 ---

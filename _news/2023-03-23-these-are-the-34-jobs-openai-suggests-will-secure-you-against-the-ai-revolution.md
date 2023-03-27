@@ -69,6 +69,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Zoom upgrades AI features with OpenAI to make meetings simpler"
+    excerpt: "“We are excited to bring many more capabilities with new large language models. Our unique approach to AI will give customers the flexibility ... for an expanded whiteboard service, automated translation tech, tools for hybrid workplace video calls ..."
+    publishedDateTime: 2023-03-27T15:49:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/zoom-iq-ai-openai-features-meetings-summary-compose"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/03/a-5.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "Hb1LCHOylqPNhyg1nz+aLTBggh9+UkmLLfo14WKyPHZzxN5X2KMwSHqLocgapyGKPD/pdisl6PYA68VduQuuaqNPsX4jpZc6jsXNL881sZJzp3Dx5buNiMdnVgzlA2sBEJPDudzfzh25lwgs6seXXPvGJehZX+wv8xZztKBknGs6I/Wsvl0gahxT9eQRGyqMWvGti3utLDgztO/NmdnXqJRTj79WnQzWgOW/oOrO62bY3VDFZvWyERQGTeSSET349I+LvLPKFstRgssbUGW5+1cjGiVCZh3X3IR3gwLJtt7+gqV7tZof9GCKQ/BjT9mbXjCE5XR+AO8AC9JaB+zVA2zre1oRCZ47+U+m0k0amQVUL1UORod9jJkqAd2tMQ7aLKXpy1twD5ql7gB5aU9QaVpfZaUb0XAiWjw1aRvOtatNsnB12iSV1bEGBOhVjEH93Rzbg7h5/FmshkgzuRipCwMdky39x0VRRnrw0vsBw2hE+6662xZm6BtFB31R1CGx7WT4whcarbsnX8VMRb1bBg==;TGo/1By3Yfvm3JYwmJmLog=="
 ---
