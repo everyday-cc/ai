@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "Self-Driving and Driverless Cars Market by 2031"
+    excerpt: "What is the Self-Driving and Driverless Cars market growth? Self-Driving and Driverless Cars Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2029."
+    publishedDateTime: 2023-03-27T03:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-and-driverless-cars-market-by-2031-2023-03-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-Driving Car Company Ouster Reports Sales Miss"
+    excerpt: "Lidar maker Ouster reported sales that fell short of Wall Street estimates, but the company just wrapped up its merger with Velodyne, making the past less relevant than what is coming in 2023 and beyond. Ouster (ticker: OUST) reported sales of $11 million ..."
+    publishedDateTime: 2023-03-23T21:36:00Z
+    webUrl: "https://www.barrons.com/articles/ouster-stock-price-earnings-28349e3b"
+    ampWebUrl: "https://www.barrons.com/amp/articles/ouster-stock-price-earnings-28349e3b"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ouster-stock-price-earnings-28349e3b"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 61
+    images:
+      - url: "https://images.barrons.com/im-383342/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Aston University project improves its driverless vehicle’s capabilities"
     excerpt: "Aston University has completed a two-year Knowledge Transfer Partnership (KTP) with Coventry-based global transport technology firm Aurrigo, resulting in a sophisticated machine vision solution making its autonomous vehicles more capable."
     publishedDateTime: 2023-03-23T02:32:00Z
@@ -41,7 +71,46 @@ related:
         width: 671
         height: 512
         isCached: true
+  - title: "Apple self-driving test program grows to over 200 drivers"
+    excerpt: "Apple has reported 16 total collisions in California since registering. The data shows Apple's continued commitment to testing self-driving tools for cars. It is registered alongside other manufacturers like Mercedes, Waymo, Tesla, Nvidia, and Zoox."
+    publishedDateTime: 2023-03-22T22:29:00Z
+    webUrl: "https://appleinsider.com/articles/23/03/22/apple-self-driving-test-program-grows-to-over-200-drivers"
+    ampWebUrl: "https://appleinsider.com/articles/23/03/22/apple-self-driving-test-program-grows-to-over-200-drivers/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/03/22/apple-self-driving-test-program-grows-to-over-200-drivers/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 44
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/53612-107732-Apple-Crossover-xl.jpg"
+        width: 1312
+        height: 738
+        isCached: true
+  - title: "Millimeter Wave Radar for Self-Driving Car Market Business Overview 2023, and Forecast to 2030 | Robert Bosch, Denson, Hella"
+    excerpt: "The report offers actionable and valuable market insights of Millimeter Wave Radar for Self-Driving Car Market. The"
+    publishedDateTime: 2023-03-24T11:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/millimeter-wave-radar-for-self-driving-car-market-business-overview-2023-and-forecast-to-2030-robert-bosch-denson-hella-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-driving Car Technology Market Size and Market Status Forecast with a CAGR of 11.5% from 2023 to 2030"
+    excerpt: "The Self-driving Car Technology industry is a vital contributor to the economy and plays a significant role in the development of many nations. Market analysis of this sector typically involves an examination of various factors,"
+    publishedDateTime: 2023-03-26T08:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-technology-market-size-and-market-status-forecast-with-a-cagr-of-115-from-2023-to-2030-2023-03-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
 
-secured: "aMPJLWRPmv5FaBG+Mwqz0hBarsvWP9QmNhGMFTq3Dxbt8NpPuy1fSVyfZO/Gu7B3wWhF4pvAHv0le5S27eBDPp6HfIwWIt9zAlXJg1NYqlRPC1OcalHckwSF6QU13bRrJQqn5qxfa+NBUaTCfSw8xMu59qTlB1cGtOjTch7q74wYLHFW3qesBhkUGWvh0FJnD8cWPeSV4OsNFnuTLhj/dZ+6aFsKp/wx/7ElXfLRBgWIE0qpv/jAd+zvbHWKr8dvg7hGBayIaKnlxobWL3libgLYdx2mZqoSxbjJjC+7F2Cn4lU83BGeB7r9b40MNHR04BdMRooQzWIhO/bAUBbMfBp8QedMvMZijZEy7PQb98Y=;1VEq1cLY8i9P0B8jLYN3Nw=="
+secured: "p68Ky/RMVxnYx+0ess3JHXqy9hIRcEsgfZCG5ovMwanH0eNfNubXUHFJlFTaARaORfOYORmygD0nM4OQScrhMvpQIg9+QL+DqOnDfGoCMUbJD4Z8rrirzixlTD8DK8XFTikT+E5ItsU4Ild55znay3z9U3DB85aTMVrQ0juucHY+fsMUk3OytEupzscdMJT7k44LyK4TyGKhVt0VcKZaeG91bsVtTAWjcLUhJP1he72PNNna4KJsdieapL9O/pdTDxJgfvhXkUGgu+4QlwVw6RqGhLp54bhb3ABYLgvgF28qOX80JiBX1scYjaRX7Ex4DeomktndMAPZrMDsEvPj7kQaR8hTwQOTPsmFcvytq/MG6IYLghn3EIUL0cgTrG99Ig+DoZLp7Rvlo1utTcSzUnMAPSWv6V1gaK/lSVZl9x16TdV4is74aj5ZzC1wAiRkwFpn8DvHa2/KppNiLS2PIpsg4puz6EMex2f4xRKNeeQPZOQNq+MCo0cLWL/LZHWT8einXPUpvyr1L7Vu9VD/fQ==;Ww+/4VT7DIPIXHw1UBzm6A=="
 ---
 

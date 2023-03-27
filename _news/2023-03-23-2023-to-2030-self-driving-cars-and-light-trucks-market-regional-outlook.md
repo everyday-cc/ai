@@ -107,6 +107,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automatic Speech Recognition(ASR) Software Market 2023 Size and Forecast to 2030"
+    excerpt: "Automatic Speech Recognition(ASR) Software Marketinformation for each competitor includes (Nuance, LilySpeech,"
+    publishedDateTime: 2023-03-27T01:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-2023-size-and-forecast-to-2030-2023-03-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Software Market Size, Trends and Forecast 2030"
     excerpt: "Voice Recognition Software Market Insights 2023 by Types (Voice commands, dictation , Turning audio into text ,"
     publishedDateTime: 2023-03-25T03:26:00Z

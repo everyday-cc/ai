@@ -35,20 +35,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "This AI in Social Media market research report contributes to the growth of this industry."
-    excerpt: "This \" AI in Social Media Market \" report offers details on the size, scope, and potential of the industry. The research can assist companies in spotting industry possibilities and potential dangers."
-    publishedDateTime: 2023-03-22T16:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/this-ai-in-social-media-market-research-report-contributes-to-the-growth-of-this-industry-2023-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "BYD invests in China AI chip startup"
     excerpt: "China automaker BYD has newly invested in Chinese AI chip startup Kunlunxin Technology, aiming to enhance its deployment in automotive AI chips solutions."
     publishedDateTime: 2023-03-24T07:31:00Z

@@ -94,43 +94,6 @@ related:
         width: 1100
         height: 733
         isCached: true
-  - title: "Text to Video Generative AI Is Finally Here and It’s Weird as Hell"
-    excerpt: "Runway plans its Gen-2 text to video AI release, but the janky clip generator ModelScope may be the first AI video generator to catch the internet's attention."
-    publishedDateTime: 2023-03-22T15:45:00Z
-    webUrl: "https://gizmodo.com/text-to-video-ai-art-generator-runway-modelscope-ai-1850249431"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 67
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/41036d4b472fd76298e693d86d1531b9.gif"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Adobe Summit - generative AI takes a front-row seat"
-    excerpt: "It said multiple LLMs (large language models) would be used, including ChatGPT through Microsoft Azure OpenAI Service and Google Research ... For creators who don’t want their work used in training AI models, a new “Do Not Train” tag can be applied ..."
-    publishedDateTime: 2023-03-22T16:21:00Z
-    webUrl: "https://diginomica.com/adobe-summit-generative-ai-takes-front-row-seat"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 39
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-03/Screenshot%202023-03-22%20at%2016.17.21.png"
-        width: 764
-        height: 440
-        isCached: true
-  - title: "Adobe Announces Generative AI ‘Firefly’ Program And Wall Street Flocks Like A Moth To A Flame"
-    excerpt: "The digital media giant has announced AI generative tools will be added to its suite of apps Adobe stock rose 3.1% after the announcement, buoyed by a strong Q1 earnings report last week Things are looking up for Adobe stock after a challenging year for the tech sector,"
-    publishedDateTime: 2023-03-22T15:08:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/03/22/adobe-announces-generative-ai-firefly-program-and-wall-street-flocks-like-moth-to-a-flame/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 36
 
 secured: "zgI3FylQjEkMEeNrEsSACRycpQbO2kBSn5yl35zqXib+V0UVqHYEdm1y9Ns18iR7LM6K5YcHRuze04xqBmxm7NeqY/TKevLzZW/b5+lmlp9oN/8nCQdsCyPDpdqOfxmaaPGoDUoYlvMUgmW74lSHaASF56SGGzsOWn1F+2a9ek2HD+fvLUI9VAam28IkKYgZnSYULkm3s4tzwrkAyq8tVjml2Ma8aoIIaaVds9u+ci1YFU+0oVLRAXX2TIM11Y00rGccqeatLQQl69Lw7S5m1+QJZpxAd+0+1C8gQJhI8YlCUC5NHlmARSLHh3NzdRu5OzkY5Yup6kafU7l3gOrJx8pxwVg67I11538/FV0XLWimEVcxIBkadc/bXSlf1q1YUdOp7YEnS4KbMaoix5zFYxRfWq5lrZjn61fywm7oe6xuaa3c2uDZYC08r+mzyYmG5jy3EsApRQxrQc4dXiCkt8l2LdX6h5B708tKRJWHp5LIMp1CXFCL+WlRahM1v+z0X2ZzLuFgVYEZ+WEntxuWDw==;K8Nea2rsyB7x2ymGvJFakA=="
 ---

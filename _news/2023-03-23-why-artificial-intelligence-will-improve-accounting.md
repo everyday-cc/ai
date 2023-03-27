@@ -7,7 +7,7 @@ originalUrl: "https://www.accountingtoday.com/opinion/sages-harris-why-artificia
 webUrl: "https://www.accountingtoday.com/opinion/sages-harris-why-artificial-intelligence-will-improve-accounting"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Why are AI models getting cheaper as they improve?"
+    excerpt: "As AI technology develops, large-scale AI models such as GPT are seeing falling costs. So why are AI models becoming more affordable?"
+    publishedDateTime: 2023-03-27T08:00:00Z
+    webUrl: "https://technode.com/2023/03/27/why-are-ai-models-getting-cheaper-as-they-improve/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 41
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2023/03/186931823_m_normal_none-scaled.jpg?fit=2560%2C1340&ssl=1"
+        width: 2560
+        height: 1340
+        isCached: true
 
 secured: "npsrk3vXcjtUDCLjX6lG59bw2qTthtl4iVB62RVFh4mCQZOkZzKyC6DYu4j9JWIpcXcGHyoE7ccmhVT+/9YSNc/vpg9OuFeim7Oumcw+rQjeLK7iYbuYDczuiGO9Z0lO1jDYII0YvwjfYKUd5gptSQa2lHxOc0o4Hf+uRvv0vskQNQr7Q6dr6PIT0ZcocynENnGSVCsJpszCWChfGI6f9IGb4Hy0qK8PSYwLx2PRZt15GzT6Jp2JINd5KQetIw5cAivGdLS2k13SHWNsdyrNJGniUMRRxi++yRUeey1POuNriWE+o74ifqNLXl5cJd52AyAQwl2UVgPjAFagsHAqhOIhTSXkNex11vZ2kLmXIBNBp/uakXfyMwYhxEOjpO4vClbaEPUeN3yj4DCkTXZaP5eGh9IwZGdlz7ygh8zyyCm+ozAQdOmPHy1WJ1XY0PZCzEXvuo7xFpyI5UYkFgSXBBDFDd8rYZqW6sX5EzEblf9quGbgPDCjlSDjsFQk7Useik7msyTeR6r7bY5sw4Yx4g==;N4neu/1S7F/GsjBqQHdvwg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://bgr.com/tech/how-to-use-bings-free-image-creator-to-genera
 webUrl: "https://bgr.com/tech/how-to-use-bings-free-image-creator-to-generate-ai-images/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 2560
     height: 1440
     isCached: true
-
-related:
-  - title: "How to use DALL-E 2 to turn your creative visions into AI-generated art"
-    excerpt: "OpenAI, the company behind ChatGPT, has an art platform called DALL-E 2, and it creates images from text descriptions in seconds. We'll show you how."
-    publishedDateTime: 2023-03-22T16:18:00Z
-    webUrl: "https://www.zdnet.com/article/how-to-use-dall-e-2-to-turn-your-creative-visions-into-ai-generated-art/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 49
 
 secured: "B2xrSlF/uCyYz32ssIW1STYdNtGRi/B/J7f6SMmzlTfmN0lufaLRYAcsu6cmkHL0V4b6MJDh50J5ASp4M26nfQcPdXrFERGRtgJ7BYEwqPzB4X71cxWs2XC1i3sMBlP/zdHJS21lv0rNjOpqKoioe5eZ4LWK88fFM5CC7X9N7nAszuXAw9qPWH0H7lyFsT+zAz2Y9JpmXL/nN8uut8XU6cG9BjCZFw5MnkgaF+F8ti1mPwkg7nD66ZDuJ2uC0nvy0FFcYFeGsi28dELVDFPYPncb2cvk4dpLRDBzNpYaPof0LxCnFJdkAEcYIJSk4byF5DLk1PK2ZYM2Cb9UFjpmAVA3JSIzAOq/QJhZKVMAgrtqDrwuYqluPeMQrE7wHaDrm25R527WcJ7kMH0L/hrBlH8u+ZcwoQIyBlTrmfiEw19JQqfHStcK1P7Yh8SrOrx7En9cgwPbkbz+Njk5C62o/wLyleR1RTYVsaGAJA9Oy5+qi9M/msCPPTMqustpAtZCHjXL1TJMdzWjrSIG3bexgQ==;Butrfs1jPWhKkMX2AlxLEQ=="
 ---

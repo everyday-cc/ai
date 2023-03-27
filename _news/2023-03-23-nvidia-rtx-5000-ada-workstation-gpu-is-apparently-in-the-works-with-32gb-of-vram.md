@@ -24,17 +24,6 @@ images:
     height: 348
     isCached: true
 
-related:
-  - title: "NVIDIA announced six new workstation RTX Ada GPUs for laptops and desktops"
-    excerpt: "With the rise of AI research, models, and tools and NVIDIA GPU hardware being at the center of it all, today's news of six new NVIDIA RTX Ada Lovelace architecture GPUs for laptops and desktops is ..."
-    publishedDateTime: 2023-03-22T16:31:00Z
-    webUrl: "https://www.tweaktown.com/news/90800/nvidia-announced-six-new-workstation-rtx-ada-gpus-for-laptops-and-desktops/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 17
-
 secured: "Ge0v67N2mMwPYR+nOxjGDM6+6GdL1Kwqs3s0Z7C73qlrfC5ovIKnYXNSwykVFaawGH5HpZFxUosMuQQCEFZAj2kmpbttbz2kytOHPUbCR2yYm+JMRr40riqZHPm3lAgACLwRddBZb1mO/tzwZYyL6tJp0GvQsJrQJHk5Pj3/Au2nlkCUFI3IMNv0qs4bc5Tr4iRlGoady5/L188hapQ4moppor407w1eaH8TImqtt3kpAgup2Ru9OQhb0d1No//Dnu19wV26FwTkzLKwc8ULfwJmAPtBaMhdlH/wciqp9PlZjiEqtgTFS9GHMcmdPqM5FLE4P82ENTo0nBDPP5G7JCETC4iXGHLtZOPG1wZMj7fCgQ4DJx7VQWWn1vKcbI7QLDzI23JFmtmEl3p0TDRTfVkooiZyCuwnUmgGI4Wf7MGxN7c2q6MroyrxMfKae90oKZPbb6Fj1mfDNw/C9shMSAPCDRbxGusXmEeFSuWi/ZPUQRsMgVWn3BrZBeu4FyzufF8TViz3B1pLBWljbYvZ6Q==;RxnBrs3/LylIK9AX9nf0qQ=="
 ---
 

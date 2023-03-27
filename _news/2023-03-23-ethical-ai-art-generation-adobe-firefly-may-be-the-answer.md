@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/03/ethical-ai-ar
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/ethical-ai-art-generation-adobe-firefly-may-be-the-answer/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 144
 published: true
 
 provider:
@@ -95,43 +95,6 @@ related:
         width: 1100
         height: 733
         isCached: true
-  - title: "Text to Video Generative AI Is Finally Here and It’s Weird as Hell"
-    excerpt: "Runway plans its Gen-2 text to video AI release, but the janky clip generator ModelScope may be the first AI video generator to catch the internet's attention."
-    publishedDateTime: 2023-03-22T15:45:00Z
-    webUrl: "https://gizmodo.com/text-to-video-ai-art-generator-runway-modelscope-ai-1850249431"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 67
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/41036d4b472fd76298e693d86d1531b9.gif"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Adobe Summit - generative AI takes a front-row seat"
-    excerpt: "It said multiple LLMs (large language models) would be used, including ChatGPT through Microsoft Azure OpenAI Service and Google Research ... For creators who don’t want their work used in training AI models, a new “Do Not Train” tag can be applied ..."
-    publishedDateTime: 2023-03-22T16:21:00Z
-    webUrl: "https://diginomica.com/adobe-summit-generative-ai-takes-front-row-seat"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 39
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-03/Screenshot%202023-03-22%20at%2016.17.21.png"
-        width: 764
-        height: 440
-        isCached: true
-  - title: "Adobe Announces Generative AI ‘Firefly’ Program And Wall Street Flocks Like A Moth To A Flame"
-    excerpt: "The digital media giant has announced AI generative tools will be added to its suite of apps Adobe stock rose 3.1% after the announcement, buoyed by a strong Q1 earnings report last week Things are looking up for Adobe stock after a challenging year for the tech sector,"
-    publishedDateTime: 2023-03-22T15:08:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/03/22/adobe-announces-generative-ai-firefly-program-and-wall-street-flocks-like-moth-to-a-flame/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 36
 
 secured: "7oydx2pypMUKRcietnprHZoziXRNS8iJELnOVkqxD2UuZZaHxoPVP0oaqdnNFVmGLwWoHMU3giPQJfLeijW+MNY4V57kT6TVFByKqSXUsWkJrAkDxKW+fp2P2CjzsrPN8nM6n+kUm2kyIvB5DR5iBeMeGxDHHaFwiO3+UZmhOkIMPJxs00IW96MBV5ZsYq54sBpeZa0aMz0e+MzKoAPCy6vib7XwASzqDsLZjk8z5I6GKsNG52zbn1+NZFq48M8qm895qW+0YQGl2p6ENTx0txO3X7eaMSYCIN58mkUaqZzyshZbuzXx8s2Oq7DwVr79O2ywjLc3/ujKX2wp21n9yK37C7QMixYpZqlneCk15oUzqOync8TP/fGQ0R0a72pp7ROPjLZ4P3RqDZ74q8HQ2daMZauGAdoYa2b+h8zkP9mFBqnwbB79+3Gw0o+vXBBfc7p+Wlr41jFyNrNRRFKPMBcjty333tnahjPSDwQR8qRuZN9Qkov/9iCuha1tWVy1r2UwqwA5h2dgyChSl82iTA==;xIE23u67jrPsYPzzOe+PVw=="
 ---

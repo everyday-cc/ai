@@ -68,20 +68,6 @@ related:
         width: 644
         height: 362
         isCached: true
-  - title: "Bill Gates Says Artificial Intelligence Is the Most Revolutionary Technology in Decades"
-    excerpt: "Bill Gates said he believes artificial intelligence is the most revolutionary technology he has seen in decades, on par with computers, cellphones and the internet. “The development of AI is as fundamental as the creation of the microprocessor ..."
-    publishedDateTime: 2023-03-22T15:31:00Z
-    webUrl: "https://www.wsj.com/articles/bill-gates-says-artificial-intelligence-is-the-most-revolutionary-technology-in-decades-75fb8562"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 59
-    images:
-      - url: "https://images.wsj.net/im-748570/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "These are the 34 jobs OpenAI suggests will secure you against the AI revolution"
     excerpt: "The creators of recent AI phenomenon, ChatGPT ... Additionally, LLMs can be used to translate content into different languages, which can help to reach a wider audience. And, I can be used to generate personalized content, such as news articles that ..."
     publishedDateTime: 2023-03-23T15:12:00Z

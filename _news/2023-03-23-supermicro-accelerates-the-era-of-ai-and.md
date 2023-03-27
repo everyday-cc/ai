@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=13135
 webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1313596&cat=PR News Wire"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Supermicro Expands GPU Solutions Portfolio with Deskside Liquid-Cooled AI Development Platform, Powered by NVIDIA"
-    excerpt: "enabling a wide range of AI development and workloads to be run at a deskside,\" said Charles Liang, president and CEO of Supermicro. \"This exciting new GPU system will also have a completely built-in liquid cooling system, allowing leading-edge CPUs and ..."
-    publishedDateTime: 2023-03-22T15:45:00Z
-    webUrl: "https://www.asiaone.com/business/supermicro-expands-gpu-solutions-portfolio-deskside-liquid-cooled-ai-development-platform"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 33
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2023/Supermicro_Liquid_cooling_system.jpg?h=56d673df&itok=UoJQ21GI"
-        width: 600
-        height: 316
-        isCached: true
   - title: "Supermicro Accelerates the Era of AI and..."
     excerpt: "March 21, 2023 /PRNewswire/ --Supermicro, Inc. (NASDAQ: SMCI), a Total IT Solution Provider for AI/ML, Cloud, Storage, and 5G/Edge, today has announced that it has begun shipping its top-of-the-line new GPU servers that feature the latest NVIDIA HGX H100 8 ..."
     publishedDateTime: 2023-03-24T18:40:00Z

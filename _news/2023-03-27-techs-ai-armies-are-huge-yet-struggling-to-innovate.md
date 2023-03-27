@@ -25,17 +25,6 @@ images:
     height: 779
     isCached: true
 
-related:
-  - title: "Lawmakers struggle to differentiate AI and human emails"
-    excerpt: "Natural language models such as ChatGPT and GPT-4 open new opportunities for malicious actors to influence representative democracy, new Cornell research suggests."
-    publishedDateTime: 2023-03-22T17:00:00Z
-    webUrl: "https://phys.org/news/2023-03-lawmakers-struggle-differentiate-ai-human.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 17
-
 secured: "xyiuhfTbv87bmzG8AFJdVHgiLg544x6Ilu8SNAySiPvA12k+MoZjtoE6J8waVeCBX5fRhjQtScvWcQz4acgT705MYFhNtt/cEJGsD0DsiE9bY7LyMmO76yzwP5PCqX+ct+yMzNLNd5FmplMuj+lT3NOWrkczuQCwnmlMZ3dDy9I8nttnPRg5gz/5n7z6a7cqUDaY1DUWY14xQpwQfNycMTthfTd0FJzLy7GHZcSzMc7TMd1w2pzvqbCx8iFlFNtwJq5rLDuc3kMrFzA/F8sputM9IUAZ1GXHo5y3VcnWf5fmzH4A8GFIGyQQolTSMVLUstQTyX8GSjDCVJNSdzCt/oIc9Sf6nNFhHH2l4/+0T3I=;vIDh8vvwDMqEA5/LY/PQ7w=="
 ---
 

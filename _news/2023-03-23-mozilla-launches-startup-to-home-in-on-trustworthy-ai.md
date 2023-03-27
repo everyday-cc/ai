@@ -62,20 +62,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Mozilla Foundation’s Mark Sumner On Launching An AI Startup For All"
-    excerpt: "Mozilla, the not-for-profit force behind the Firefox browser, is launching an AI-focused startup with a mission to create an open source and trustworthy alternative to emerging heavyweights like ChatGPT. The company this morning announced that Moez Draief ..."
-    publishedDateTime: 2023-03-22T15:19:00Z
-    webUrl: "https://www.forbes.com/sites/dianebrady/2023/03/22/mozilla-foundations-mark-sumner-on-launching-an-ai-startup-for-all/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641b1ba9a188cb2bf44b289a/0x0.jpg?format=jpg&crop=1808,1018,x0,y93,safe&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Mozilla Launches AI-Focused Startup Called Mozilla.ai"
     excerpt: "Mozilla, the organization behind the Firefox browser, launched an artificial intelligence focused startup Wednesday, called Mozilla.ai. \"The vision for Mozilla.ai is to make it easy to develop trustworthy AI products,\" Mark Surman, Mozilla's executive ..."
     publishedDateTime: 2023-03-22T18:19:00Z
@@ -140,20 +126,6 @@ related:
       - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2017/0817vcrm_CrankyAdmin.jpg"
         width: 647
         height: 450
-        isCached: true
-  - title: "Mozilla launches Mozilla.ai to focus on ‘trustworthy AI’ with $30M in funding"
-    excerpt: "Mozilla Corp., the company behind the Firefox browser, today announced that it’s launching a new startup focused on building “trustworthy” artificial intelligence called Mozilla.ai with $30 million in funding. The newest wave of AI has been changing ..."
-    publishedDateTime: 2023-03-22T16:49:00Z
-    webUrl: "https://siliconangle.com/2023/03/22/mozilla-launches-mozilla-ai-focus-trustworthy-ai-30m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/artificial-intelligence-3382507_1920-geralt-Pixabay.jpeg"
-        width: 1920
-        height: 1280
         isCached: true
 
 secured: "rbPWiXZnO4oCIC8yiouK3oIvujcI8W/DgYN7fu3XUB/5ZgPhv/ID+AcUt1FS5TNTfPpaHdj7NmJ6OQO02rpbwGvVqWYAE93gMsDT/x+c3xO1tFX6qWFB3+RmfnFzRj6lYHY0aC8T32iDu2FkQJVMbz3JRVq+PhwJixta/Xv06tANiqolGmRp4+llqSBGS2+Ay1VlR6eptaWgzdM0ZSukiw3iYaIfEnQGxkBarpBIpZcy2gj7g8rATKUwbBssMc4QyU2brjke9HMdFOHNSMESheikO5V0CdKLBHMWKzpBmMD+gz1WyiByMBo6P4Fpm1okVuTMTslURKztU72oSW18FQE7QPMcIsorHrHkd3kBceDxeP3yr1BY7Qo18HZ4UD3PjRxLuPm8tHG77jMD7YVf1Zwi6T+PW8HbpdVxUqPthy2E6KNUaWKgqVB54i3ZygZxA9pgd/+Zo5/ruhAQskUi10LeIdUwdfUgtlB8hHuGQXLusJEFhjZCWo8UkPr4S8W5AncCS99x14qgZSXb9nYGQQ==;/L6Ae5YSTNO50MHDt6ggOQ=="

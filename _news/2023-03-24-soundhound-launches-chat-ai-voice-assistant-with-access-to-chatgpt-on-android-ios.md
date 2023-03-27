@@ -63,6 +63,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Jack Ma comments on ChatGPT, AI in the digital era"
+    excerpt: "rather than being controlled by AI. Human brawn and brains may not match those of machines, but machines only have chips, while humans have \"heart\", Ma said. Ma said while the industrial era is knowledge-driven and characterized by knowledge-focused ..."
+    publishedDateTime: 2023-03-27T09:32:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202303/27/WS64215c74a31057c47ebb6c95.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202303/27/64215d5da31057c4b4b80291.jpeg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Paper written using ChatGPT demonstrates opportunities and challenges of AI in academia"
     excerpt: "ChatGPT has the potential to create increasing and exciting opportunities—but also poses significant challenges—for the academic community, according to an innovative study written in large part using the software."
     publishedDateTime: 2023-03-23T20:19:00Z
@@ -76,20 +90,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/paper-written-using-ch.jpg"
         width: 1719
         height: 872
-        isCached: true
-  - title: "From ChatGPT-3.5 to ChatGPT-4: A Quantum Leap in Natural Language Processing and Multimodal Capabilities"
-    excerpt: "A cookie is a small piece of data (text file) that a website – when visited by a user – asks your browser to store on your device in order to remember information about you, such as your language preference or login information. Those cookies are set ..."
-    publishedDateTime: 2023-03-22T15:33:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2023/03/chatgpt-35-chatgpt-4-quantum-leap-natural-language-processing-and-multimodal-capabilities/384296/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 22
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2023/03/22/032223gpt4NG/open-graph.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Can ChatGPT invent a new language? AI bot stuns Twitter user with some jaw-dropping responses"
     excerpt: "ChatGPT’s efficiency with generating content from scratch is well known. However, a Twitter user challenged the bot with a unique task."

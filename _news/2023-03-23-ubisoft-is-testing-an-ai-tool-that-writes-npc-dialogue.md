@@ -9,7 +9,7 @@ ampWebUrl: "https://www.polygon.com/platform/amp/ai-artificial-intelligence/2365
 cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/ai-artificial-intelligence/23652201/ubisoft-ai-writing-tool-ghostwriter"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1400
     height: 815
     isCached: true
-
-related:
-  - title: "Ubisoft’s new AI tool automatically generates dialogue for non-playable game characters"
-    excerpt: "Ubisoft announced that it's using an AI \"Ghostwriter\" tool to automatically write dialogue for some NPCs in its games."
-    publishedDateTime: 2023-03-22T15:53:00Z
-    webUrl: "https://techcrunch.com/2023/03/22/ubisofts-new-ai-tool-automatically-generates-dialogue-for-non-playable-game-characters/"
-    ampWebUrl: "https://techcrunch.com/2023/03/22/ubisofts-new-ai-tool-automatically-generates-dialogue-for-non-playable-game-characters/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/ubisofts-new-ai-tool-automatically-generates-dialogue-for-non-playable-game-characters/amp/"
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: techcrunch.com
-    quality: 79
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1438362948.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "KOTa1VjnDaFRNd78Vqg+EIcaNl+MZoixBhh723T0MaCGwOCu1qQVc6yXHooPtFJWblak2YceXbs8XHwbCKuYNSldVRYIxskOWJmOY+qiRqGCY7nef0ycdrxkBvg3DnMHigR7cXnCcegtNmzSCwtSUgqEM/Pih7cguEYxM+1PYvv9A2AzzJytP0dgO1lKZ940fbtQdxeHv4MPm9DUw6F5aImGieuUS6HnOgaIZZFZ/hGyDE6R37J1m2bCsJFZ/v57ErllwQCqiQcP6k4InthCxGUkLxkKpmnOELr0GgXMXDo+9f0+/JJ7i6D09ZvCCHHSXsx+eGp5bfcHDHCXtwa852dxvrrTBIPyecfdhPOcmT0=;fCqGHaqwslfoiedJCNdHfw=="
 ---

@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Big tech and the pursuit of AI dominance"
-excerpt: "The announcements add to a spate of similar ones in the past month or so from America’s tech titans. Open AI, the startup which is part-owned by Microsoft and which created Chat GPT, an AI conversationalist that has taken the world by storm,"
-publishedDateTime: 2023-03-26T17:35:00Z
-originalUrl: "https://www.economist.com/business/2023/03/26/big-tech-and-the-pursuit-of-ai-dominance"
-webUrl: "https://www.economist.com/business/2023/03/26/big-tech-and-the-pursuit-of-ai-dominance"
+excerpt: "The announcements add to a spate of similar ones in the past month or so from America’s tech titans. OpenAI, the startup which is part-owned by Microsoft and which created ChatGPT , an AI conversationalist that has taken the world by storm,"
+publishedDateTime: 2023-03-27T08:20:00Z
+originalUrl: "https://www.livemint.com/technology/big-tech-and-the-pursuit-of-ai-dominance-11679904285056.html"
+webUrl: "https://www.livemint.com/technology/big-tech-and-the-pursuit-of-ai-dominance-11679904285056.html"
+ampWebUrl: "https://www.livemint.com/technology/big-tech-and-the-pursuit-of-ai-dominance/amp-11679904285056.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/big-tech-and-the-pursuit-of-ai-dominance/amp-11679904285056.html"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Economist
-  domain: economist.com
+  name: Mint
+  domain: livemint.com
 
 topics:
-  - Facebook AI
+  - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230401_WBD001.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.livemint.com/lm-img/img/2023/03/27/600x338/2-0-1390309169-istockphoto-1130152320-2048x2048-0_1679763214342_1679905001190_1679905001190.jpg"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -42,6 +44,6 @@ related:
         height: 800
         isCached: true
 
-secured: "/BnIRV1c7LFL5EOQLTij3ZDOly6b323N8wmi0C8rzHC6SEcOWBMVlpyAF04LPX7AOFkAzzhMhJat0BZQzIGX1BMgqHnaiEnIzVTlOaCWsKm+rtrwLD4Tmg8a0egtINi/MvJh+reGTLxXrWEQITThlfCK5dlZ7CDNxOnoYKfxlCKtg4RTUVBYWUPevUdYd7ROoKmGYK/+jyJsLpz2z7HRBiplsZvDHms8lcGtrNDDImBQkM757zHdeahkvPKdAdjCM3WDAzo31zXHLJnxTfO4lTDI2ZjM/eUsjWcqZ/FXB7+Bu5h48LimJuNY13ax3Z6d2VcwXYD3akSa7i8PzfWjmLSlF241a25t3Fb3hy78/WI=;JR6y7T99abvcFye+kBuTJQ=="
+secured: "Yc6hcFS6rn/6PWF0SFF1z6f4hJkpJSRxKvaoYFzqVF5cCU2yWyPDXKUS73AbE4LqXmZqnQJ03WAUvvW0JnSSpkCtbbHBt9s6G9/8PaXDrZnV7i9pwSNNyFsLz7Me/5Z2M95x/2C3dBmJuVGnnyRRcagM/QidB5NHUZAiVxS2sTGc7CFfWCvxpO2GloNVq3VtzXqvawx3DJkaLoI/u2NK4D0Wrd4th1kLEfrzkE/0OxyUsWuiLKsM55B5eFxnhu9JyEgluHCZcalu/0w1cMjzJ864PembR6fBHiAl4TGCNq3eBbjsIQlGFJUA1ttgiyW3cH21h9GzDJR9oBb3n4VQL+hC1QIqt9G9zeXS20KiVMg=;eJxIYhUHSNTXpG03Em7DpA=="
 ---
 

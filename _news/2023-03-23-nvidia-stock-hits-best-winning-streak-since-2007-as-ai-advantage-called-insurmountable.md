@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-stock-hits-best-winning
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-stock-hits-best-winning-streak-since-2007-as-ai-advantage-called-insurmountable-6b79a4e8"
 type: article
 quality: 80
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia Is Winning AI Race, But Can’t Afford to Trip"
-    excerpt: "The chip maker’s stock is near record valuation as it extends its lead even further with generative AI developments."
-    publishedDateTime: 2023-03-22T16:24:00Z
-    webUrl: "https://www.wsj.com/articles/nvidia-is-winning-ai-race-but-cant-afford-to-trip-10d9e75b"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
-    images:
-      - url: "https://images.wsj.net/im-748612/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Nvidia is winning AI race, but can’t afford to trip"
     excerpt: "The chip maker’s market value has now surpassed that of Tesla and Facebook-parent ... director of quantitative research for the firm. The bulk of Nvidia’s gains have come in the past three months, as the public launch of the AI-powered chatbot ..."
     publishedDateTime: 2023-03-22T21:24:00Z

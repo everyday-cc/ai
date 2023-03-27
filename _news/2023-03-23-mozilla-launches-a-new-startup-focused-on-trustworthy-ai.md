@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/22/mozilla-launches-a-new-startup-foc
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/mozilla-launches-a-new-startup-focused-on-trustworthy-ai/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 157
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/ff5780e5629ebbec515d37832c42980886f16da2/hub/2022/04/12/2ca4ed6b-469b-4336-bcf2-e2d7d648e77a/firefox-browser-logo-2022-001.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Mozilla Foundation’s Mark Sumner On Launching An AI Startup For All"
-    excerpt: "Mozilla, the not-for-profit force behind the Firefox browser, is launching an AI-focused startup with a mission to create an open source and trustworthy alternative to emerging heavyweights like ChatGPT. The company this morning announced that Moez Draief ..."
-    publishedDateTime: 2023-03-22T15:19:00Z
-    webUrl: "https://www.forbes.com/sites/dianebrady/2023/03/22/mozilla-foundations-mark-sumner-on-launching-an-ai-startup-for-all/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641b1ba9a188cb2bf44b289a/0x0.jpg?format=jpg&crop=1808,1018,x0,y93,safe&width=1200"
-        width: 1200
-        height: 676
         isCached: true
   - title: "Mozilla Launches AI-Focused Startup Called Mozilla.ai"
     excerpt: "Mozilla, the organization behind the Firefox browser, launched an artificial intelligence focused startup Wednesday, called Mozilla.ai. \"The vision for Mozilla.ai is to make it easy to develop trustworthy AI products,\" Mark Surman, Mozilla's executive ..."
@@ -140,20 +126,6 @@ related:
       - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2017/0817vcrm_CrankyAdmin.jpg"
         width: 647
         height: 450
-        isCached: true
-  - title: "Mozilla launches Mozilla.ai to focus on ‘trustworthy AI’ with $30M in funding"
-    excerpt: "Mozilla Corp., the company behind the Firefox browser, today announced that it’s launching a new startup focused on building “trustworthy” artificial intelligence called Mozilla.ai with $30 million in funding. The newest wave of AI has been changing ..."
-    publishedDateTime: 2023-03-22T16:49:00Z
-    webUrl: "https://siliconangle.com/2023/03/22/mozilla-launches-mozilla-ai-focus-trustworthy-ai-30m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/artificial-intelligence-3382507_1920-geralt-Pixabay.jpeg"
-        width: 1920
-        height: 1280
         isCached: true
 
 secured: "JDm9Goo0+ckxf4zPVZM0EBn+xtzV6G3HZPHkJzUCNN+bRizwmLIT5rUOqyESYsqe3lgk3+8FJIKj9MKFbxfZ7hhrrK+L6ZXkbvwt/fYSpxDZ/il8ylXBdgInTSqY5py2kgA2BIplTvWNhx1EJx3In/+PATs2qGrGlfELy4Acw68LzrZwZnGzU30WV0mkLEgFUz6Z2HkN+EG1h2/QEeoU6B82/5Jczkfk9CAh3MMIScUcYVqslTOr6ljSIXfGPYx9g8jp/FS1KOdZ7i7RG9daBzt7SIhryJoqI0plGJdtHPgoc5LmXl7LTdJEZ7IPdY9Xm5HwjjHkX0irdFQNdVJydXiDtMsx544gWsVs1r4TQcj3JvV7YUJcLCGhFoMaZigVgZCG+3ehicdDaYCORs2Uv4+c9o/AhsgncTV54RbDPOKbtJvq7x7BF4nvKE6tFJZydVTSDdDdMA4vIs3JCEXsCykpjwaH4+hWDTC7YbLTMar1ygfRTOdBYLbWe2z8KP7nQeTmUuM/RbSkfJy9bK1UsA==;fKBITTRMJDeD50DpQYcTdA=="

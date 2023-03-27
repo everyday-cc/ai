@@ -48,20 +48,6 @@ related:
         width: 1200
         height: 850
         isCached: true
-  - title: "Semi holding Nvidia proves its a leader in AI software, expanding beyond chips"
-    excerpt: "Separately, Nvidia launched four new \" inference platforms \" designed specifically for large language models (LLMs) and generative AI workloads. While Nvidia's chips have been essential to training the models that power generative AI applications ..."
-    publishedDateTime: 2023-03-22T15:41:00Z
-    webUrl: "https://www.cnbc.com/2023/03/22/semi-holding-nvidia-proves-its-a-leader-in-ai-software.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 82
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106747420-1602840895304-GettyImages-902419318_1.jpg?v=1679499588&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "NVIDIA goes all in on AI, shares progress at GTC"
     excerpt: "These include AWS, Google Cloud, Azure, Oracle Cloud, and Alibaba Cloud. The company launched DGX Cloud, which enables access to an AI supercomputer right from a web browser. This removes the need to acquire, deploy, and manage on-premises infrastructure."
     publishedDateTime: 2023-03-22T21:17:00Z
@@ -75,20 +61,6 @@ related:
       - url: "https://sdtimes.com/images/sd-premium.png"
         width: 628
         height: 246
-        isCached: true
-  - title: "TYAN’s AI Inference-Optimized Platforms Add Support for NVIDIA L4 Tensor Core GPU"
-    excerpt: "TYAN, an industry-leading server platform design manufacturer and a MiTAC Computing Technology Corporation subsidiary,"
-    publishedDateTime: 2023-03-22T16:22:00Z
-    webUrl: "https://www.datanami.com/this-just-in/tyans-ai-inference-optimized-platforms-add-support-for-nvidia-l4-tensor-core-gpu/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 49
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/01/AI-in-Finance-Summit-New-York-Main-Graphic.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "8 Big Announcements At Nvidia’s GTC 2023: From Generative AI Services to New GPUs"
     excerpt: "improve GPU performance and make GPU computing more accessible. These included the DGX Cloud AI supercomputing service, the AI Foundations services for custom generative AI applications, the L4 and H100 NVL specialized GPUs, and the Omniverse Cloud ..."
@@ -126,34 +98,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/nvidia-inference-platforms.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Supermicro announces new AI development platform powered by NVIDIA"
-    excerpt: "The company said the system is designed to accommodate high-performing CPUs and GPUs, suitable for AI/DL/ML and HPC applications. \"This exciting new GPU system will also have a completely built-in liquid cooling system, allowing leading-edge CPUs and GPUs ..."
-    publishedDateTime: 2023-03-22T16:13:00Z
-    webUrl: "https://seekingalpha.com/news/3950002-supermicro-announces-new-ai-development-platform-powered-by-nvidia"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
-    images:
-      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
-        width: 1200
-        height: 1200
-        isCached: true
-  - title: "Nvidia unveils DGX cloud, access to its supercomputers that power ChatGPT AI"
-    excerpt: "Nvidia has collaborated with Oracle Cloud, Microsoft Azure, Google Cloud, and other cloud providers to make its AI supercomputers accessible via cloud services."
-    publishedDateTime: 2023-03-22T15:50:00Z
-    webUrl: "https://interestingengineering.com/innovation/nvidia-unveils-dgx-cloud-access-to-supercomputers"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 36
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/03/22/image/jpeg/uZXsVGV9b3oXXPrcamtQN4NKj2sK5tVJQHkVWwzQ.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Nvidia launches DGX Cloud to offer GPU supercomputers-as-a-Service"
     excerpt: "Offered through existing cloud providers, the DGX Cloud services provide access to dedicated clusters of Nvidia DGX hardware, which can be rented on a monthly basis. Each instance of DGX Cloud features eight Nvidia H100 or A100 80GB Tensor Core GPUs for a total of 640GB of GPU memory per node."

@@ -36,20 +36,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "This AI in Social Media market research report contributes to the growth of this industry."
-    excerpt: "This \" AI in Social Media Market \" report offers details on the size, scope, and potential of the industry. The research can assist companies in spotting industry possibilities and potential dangers."
-    publishedDateTime: 2023-03-22T16:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/this-ai-in-social-media-market-research-report-contributes-to-the-growth-of-this-industry-2023-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Why AI Requires a New Chip Architecture"
     excerpt: "According to Allied Market Research, the global artificial intelligence (AI) chip market is projected to reach $263.6 billion by 2031. The AI chip market is vast and can be segmented in a variety of different ways, including chip type, processing type ..."
     publishedDateTime: 2023-03-24T08:11:00Z

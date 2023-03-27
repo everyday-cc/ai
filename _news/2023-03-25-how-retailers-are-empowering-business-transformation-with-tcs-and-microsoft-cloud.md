@@ -43,22 +43,6 @@ related:
         width: 1051
         height: 700
         isCached: true
-  - title: "Artificial intelligence dubbed 365 Copilot coming to documents you write, Microsoft says"
-    excerpt: "Artificial intelligence tools like ChatGPT are taking over the landscape of our everyday lives, and now Microsoft has just announced its own tool called 365 Copilot. It's meant to help people with work-related tasks, so anyone using it can be more productive."
-    publishedDateTime: 2023-03-22T15:33:00Z
-    webUrl: "https://www.foxnews.com/tech/artificial-intelligence-dubbed-365-copilot-coming-documents-write-microsoft-says"
-    ampWebUrl: "https://www.foxnews.com/tech/artificial-intelligence-dubbed-365-copilot-coming-documents-write-microsoft-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/artificial-intelligence-dubbed-365-copilot-coming-documents-write-microsoft-says.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 95
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/57fe17cf-29ba-4f20-8547-d7a31a8d6d83/bafceabc-1b05-4a4e-ae9c-2c97359e061a/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Can’t wait for Microsoft’s AI-generated presentations? Canva has it now"
     excerpt: "Magic Eraser is part of the Pro tier, like the AI-powered Beat Sync, as well as anything that includes your own branding, Canva said. As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written ..."
     publishedDateTime: 2023-03-23T05:25:00Z
@@ -142,22 +126,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/05PNmVt8nHVpVgrbjZy1kpb-1.fit_lim.size_1200x630.v1679827422.png"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Microsoft unveils plans to use AI feature in Outlook, Excel and more"
-    excerpt: "BestReviews is reader-supported and may earn an affiliate commission. Details. Everything you need to know about Microsoft’s new AI feature Artificial intelligence is quickly becoming a part of"
-    publishedDateTime: 2023-03-22T16:57:00Z
-    webUrl: "https://fox2now.com/news/national/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/"
-    ampWebUrl: "https://fox2now.com/news/national/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/"
-    cdnAmpWebUrl: "https://fox2now-com.cdn.ampproject.org/c/s/fox2now.com/news/national/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/"
-    type: article
-    provider:
-      name: Fox2Now St. Louis
-      domain: fox2now.com
-    quality: 76
-    images:
-      - url: "https://fox2now.com/wp-content/uploads/sites/14/2023/03/computer-software-best-microsoft-365-products-1.jpg?w=1280"
-        width: 760
-        height: 500
         isCached: true
   - title: "Microsoft gains access to Open AI code base, trouble for Google?"
     excerpt: "Azure is Microsoft’s cloud computing service which will help developers build new AI systems by making OpenAI’s service models available to the market. Google retaliated recently with their AI offering Bard AI, a chatbot to compete with ChatGPT."

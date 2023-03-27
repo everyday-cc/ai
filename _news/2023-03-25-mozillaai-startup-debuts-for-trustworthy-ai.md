@@ -72,20 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Mozilla Foundation’s Mark Sumner On Launching An AI Startup For All"
-    excerpt: "Mozilla, the not-for-profit force behind the Firefox browser, is launching an AI-focused startup with a mission to create an open source and trustworthy alternative to emerging heavyweights like ChatGPT. The company this morning announced that Moez Draief ..."
-    publishedDateTime: 2023-03-22T15:19:00Z
-    webUrl: "https://www.forbes.com/sites/dianebrady/2023/03/22/mozilla-foundations-mark-sumner-on-launching-an-ai-startup-for-all/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641b1ba9a188cb2bf44b289a/0x0.jpg?format=jpg&crop=1808,1018,x0,y93,safe&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Mozilla Launches AI-Focused Startup Called Mozilla.ai"
     excerpt: "Mozilla, the organization behind the Firefox browser, launched an artificial intelligence focused startup Wednesday, called Mozilla.ai. \"The vision for Mozilla.ai is to make it easy to develop trustworthy AI products,\" Mark Surman, Mozilla's executive ..."
     publishedDateTime: 2023-03-22T18:19:00Z
@@ -136,20 +122,6 @@ related:
       - url: "https://infotechlead.com/wp-content/uploads/2020/08/Mozilla-Firefox-at-MWC.jpg"
         width: 640
         height: 427
-        isCached: true
-  - title: "Mozilla launches Mozilla.ai to focus on ‘trustworthy AI’ with $30M in funding"
-    excerpt: "Mozilla Corp., the company behind the Firefox browser, today announced that it’s launching a new startup focused on building “trustworthy” artificial intelligence called Mozilla.ai with $30 million in funding. The newest wave of AI has been changing ..."
-    publishedDateTime: 2023-03-22T16:49:00Z
-    webUrl: "https://siliconangle.com/2023/03/22/mozilla-launches-mozilla-ai-focus-trustworthy-ai-30m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/artificial-intelligence-3382507_1920-geralt-Pixabay.jpeg"
-        width: 1920
-        height: 1280
         isCached: true
 
 secured: "Btw560gC7y3el9n8e+iEQQdR0I/InY5S7TUNN43t+95h0lLhhgo5mB4iGtKxaDOkqyPH00NUqerBOFeAZQyjAbEwZnUeJ6MMGg1NSZS9GzuJH/klNslVsP2i3DGH4Kw0+T+kDa7jRlYqguaa88RXt8DZzBrJi6/fAHYbt8EL8WwtegFgjdRDVBEJZy9/sZmMX8BrzOryjEbfF149BS+ggKmcPNKi6MvcsmKFluGdodzf5A3kGoieC54qr9KgsMYRwBeru2GqQ2dAABCqK6ndqOZTnRU7pR7/rJ1Yx+/DpeXQb98g+4/g+3p++wbVrUobcg72fHoQcdzWFxmroz+HX5vqq7jOJ31QSAPqzf7l6IEkWpBdJ3wEAe/yAyNyqjGrSyR+YTGxXSER1QELQzsQKfHEV4blqVz7e322Nk//HZnMartT3nvUfVANGIH5eln+fzrly4RqJqfciSvBvP/Xe6B3CZSmJfoVZE3z26agRzhEdVWpXz/xq4Z8jyl/mcds7Is0XFYxRXl8mi0fcZS6ZA==;+xPuyWVnIqkXeugEsLrJYQ=="

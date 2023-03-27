@@ -82,20 +82,6 @@ related:
         width: 644
         height: 362
         isCached: true
-  - title: "Bill Gates Says Artificial Intelligence Is the Most Revolutionary Technology in Decades"
-    excerpt: "Bill Gates said he believes artificial intelligence is the most revolutionary technology he has seen in decades, on par with computers, cellphones and the internet. “The development of AI is as fundamental as the creation of the microprocessor ..."
-    publishedDateTime: 2023-03-22T15:31:00Z
-    webUrl: "https://www.wsj.com/articles/bill-gates-says-artificial-intelligence-is-the-most-revolutionary-technology-in-decades-75fb8562"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 59
-    images:
-      - url: "https://images.wsj.net/im-748570/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "Hb1LCHOylqPNhyg1nz+aLTBggh9+UkmLLfo14WKyPHZzxN5X2KMwSHqLocgapyGKPD/pdisl6PYA68VduQuuaqNPsX4jpZc6jsXNL881sZJzp3Dx5buNiMdnVgzlA2sBEJPDudzfzh25lwgs6seXXPvGJehZX+wv8xZztKBknGs6I/Wsvl0gahxT9eQRGyqMWvGti3utLDgztO/NmdnXqJRTj79WnQzWgOW/oOrO62bY3VDFZvWyERQGTeSSET349I+LvLPKFstRgssbUGW5+1cjGiVCZh3X3IR3gwLJtt7+gqV7tZof9GCKQ/BjT9mbXjCE5XR+AO8AC9JaB+zVA2zre1oRCZ47+U+m0k0amQVUL1UORod9jJkqAd2tMQ7aLKXpy1twD5ql7gB5aU9QaVpfZaUb0XAiWjw1aRvOtatNsnB12iSV1bEGBOhVjEH93Rzbg7h5/FmshkgzuRipCwMdky39x0VRRnrw0vsBw2hE+6662xZm6BtFB31R1CGx7WT4whcarbsnX8VMRb1bBg==;TGo/1By3Yfvm3JYwmJmLog=="
 ---
