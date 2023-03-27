@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/opinion/columns/working-with-ai-robots-coul
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/working-with-ai-robots-could-worsen-human-work-cultures/amp-11679507470823.html"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "Competing with robots is making work worse (Opinion)"
-    excerpt: "Too many of us skip lunch, eschew breaks and work more feverishly, as if we're just brains attached to rather inefficient, fleshy hardware — the bodies that (irritatingly) get sick, break down and require regular feeding and rest."
-    publishedDateTime: 2023-03-22T08:00:00Z
-    webUrl: "https://www.houstonchronicle.com/opinion/outlook/article/robots-ai-chatgpt-work-stress-life-balance-tech-17852338.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/64/71/61/13868139/4/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
 
 secured: "YMudjf+aJzsjHZlTpe+azpEGYfzLFb48PuWhmTo9j6YQILberBHAGzRTFKrHBLH1L9Kp7ND27apWKiQhOPqgch4Kw1iOqxLAkU8Ckw8U4vCNo1LshFgBToj4dJCoRwcOoGkGw+0TRik+PZDtGNPazCWNWJj0hr6k9MUoFzikuBRSafUcPxSfsotQvSlbrIynguVldJrV2zQaE51YInEDZ8giczxYmLEWI6LvGOlWlgCEJLrnselhN3CR5peY5ZoN560xmmzyT87wqdO9emZADiA1Sfr36Fg3fLqnLSAi6d6yCp9s2pKGnvpbk0gu5w4UNGSFvknLJb0SrVUkI5827R7I0h+uu4uP1qcPMXcdtVo=;9PJ/R//eOuLzM35szgdX3A=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/03/24/how-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/03/24/how-ai-can-help-you-develop-emotional-intelligence/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 137
+published: true
 
 provider:
   name: Forbes
@@ -30,50 +30,68 @@ images:
     isCached: true
 
 related:
-  - title: "Green Intelligence: Why Data And AI Must Become More Sustainable"
-    excerpt: "As big data, machine learning, and artificial intelligence continue to gain prominence in information technology, experts are raising concerns about the environmental costs of computation — primarily data and AI’s carbon footprint and greenhouse gas ..."
-    publishedDateTime: 2023-03-22T07:30:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/22/green-intelligence-why-data-and-ai-must-become-more-sustainable/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/22/green-intelligence-why-data-and-ai-must-become-more-sustainable/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/03/22/green-intelligence-why-data-and-ai-must-become-more-sustainable/amp/"
+  - title: "How Artificial Intelligence Can Boost Creativity"
+    excerpt: "Artificial Intelligence(AI ... In the country’s rural parts, even the main healthcare facilities, let alone sub- centers, frequently face appallingly low staffing levels and lack basic amenities (Weforum.org, 2022). To assist in this scenario, AI ..."
+    publishedDateTime: 2023-03-23T11:40:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-can-boost-creativity/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-can-boost-creativity/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-can-boost-creativity/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641aadbcab36eced214b2898/0x0.jpg?format=jpg&width=1200"
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/11/Pic-1-7.png"
+        width: 665
+        height: 381
+        isCached: true
+  - title: "Intel Labs Advances Computer Vision Development with Two New AI Models"
+    excerpt: "VI-Depth 1.0 and MiDaS 3.1 open source AI models improve depth estimation for computer vision. Depth estimation is a challenging computer vision task required to create a wide range of applications in robotics,"
+    publishedDateTime: 2023-03-23T16:00:00Z
+    webUrl: "https://www.unite.ai/intel-labs-advances-computer-vision-development-with-two-new-ai-models/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 54
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/03/intellabs-1000x600.png"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Video Interview: NRO’s Aaron Weiner on How AI is Driving Intelligence Missions Forward"
+    excerpt: "Executive Mosaic spoke with Dr. Aaron Weiner, director of the advanced systems and technology directorate at the National Reconnaissance Office, to better understand how the NRO is looking at the great power competition,"
+    publishedDateTime: 2023-03-23T09:52:00Z
+    webUrl: "https://www.govconwire.com/2023/03/video-interview-nros-aaron-weiner-on-how-ai-is-driving-intelligence-missions/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 31
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2023/03/unnamed-file-147.png"
         width: 1200
-        height: 1200
+        height: 628
         isCached: true
-  - title: "Is GPT-4 already showing signs of artificial general intelligence?"
-    excerpt: "Microsoft researchers have claimed that OpenAI’s GPT-4 is capable of such a wide variety of tasks, in some cases exceeding human ability, that the artificial intelligence model is showing “sparks” of artificial general intelligence (AGI). Is this ..."
-    publishedDateTime: 2023-03-24T15:01:00Z
-    webUrl: "https://www.newscientist.com/article/2365864-is-gpt-4-already-showing-signs-of-artificial-general-intelligence/"
+  - title: "'AI, can I deduct that?' The top five overlooked tax deductions and how AI can help you find more."
+    excerpt: "The AI models are even trained to flag highly complex returns for ... When it comes to saving cash on gadgets, remember, many “budget” smartphones still start in the $500-$800 range, so be sure to shop for deals and look at all your options, including ..."
+    publishedDateTime: 2023-03-23T00:43:00Z
+    webUrl: "https://www.indystar.com/story/tech/2023/03/10/taxes-2022-chatgpt-deductions/11431668002/"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 22
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/03/24133532/SEI_149545430.jpg"
-        width: 1350
-        height: 899
-        isCached: true
-  - title: "Phenom High-Volume Hiring Earns 2023 Artificial Intelligence Excellence Award by Business Intelligence Group"
-    excerpt: "“Across various industries — including healthcare, early education ... including Gold for ‘Best Advance in AI for Business Impact,’ Business Intelligence Group's Artificial Intelligence Excellence Awards (3 consecutive years), and a regional ..."
-    publishedDateTime: 2023-03-23T15:17:00Z
-    webUrl: "https://www.eagletribune.com/region/phenom-high-volume-hiring-earns-2023-artificial-intelligence-excellence-award-by-business-intelligence-group/article_901fe5c6-62e4-5c2d-819e-7e96f7c8c45c.html"
+      name: The Indianapolis Star
+      domain: indystar.com
+    quality: 3
+  - title: "'AI, can I deduct that?' The top five overlooked tax deductions and how AI can help you find more."
+    excerpt: "The AI models are even trained to flag highly complex returns for ... When it comes to saving cash on gadgets, remember, many “budget” smartphones still start in the $500-$800 range, so be sure to shop for deals and look at all your options, including ..."
+    publishedDateTime: 2023-03-24T03:39:00Z
+    webUrl: "https://www.cincinnati.com/story/tech/2023/03/10/taxes-2022-chatgpt-deductions/11431668002/"
     type: article
     provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 20
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/2/cd/2cd0109d-3ddb-5573-9709-2b5184980159/641c6bb5545ab.image.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
+      name: The Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 3
 
 secured: "QlaoXSws6G6kfh3ejD6wLe3SJrlE9fSP3eXCqUgM4PevaTKWUjAi20Ssj7sRvUhT8DwzuooCkxT5z6NPwd4WSWMkIRsriZn6cV4t75B9aT8xK+e1kiuVTCeioQ1MbL0bEbtszDbiJDg5HjMN9l/8wO+/pcil8eZC3xwwmegRrCgaeR6rQdsOZAeJ0mjhn+BUIBd3JIBS5v7Xw+OTr1m0k61T+tMzNRPH6sL4LinGmzHDYEckWoi98ySBt+btFyNAJv+Xqp2/Nn8ceYarBST6tOoC1ErfBLqqqepk5iwrl/JzI5FhpBHBqNy8CnvMO+mw97y2tOLCDu8hOfthhV42qON3D4OeMfsjlOOUd2hAidZmxDkOWbaT00FM32ANPcF53z0yljynXqE3VDanrGlXpHb+Aw6luCjVZyO9MIfSRS/7t8s9++MLa6hQsqObdcicJcsavzjNutyNfN5DpVxlkvo61boE++yHy6cusf3xGENUWdlWtQd2LbgY38adA2c8keu5v9OSxQl3mEgEtnE++A==;aKh8YR9tUt5mCCI7VBhTRg=="
 ---

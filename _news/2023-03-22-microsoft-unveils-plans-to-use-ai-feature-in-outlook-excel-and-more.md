@@ -158,20 +158,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Daily Authority: ⚔️ Google outs Bard, Microsoft answers with new AI image maker"
-    excerpt: "They say all great stories start with a sense of Wonder. That’s why the folks over at Wonder Dynamics have introduced something called Wonder Studio. It’s an AI editing tool that can switch actors in a movie with CG characters! Imagine how much time ..."
-    publishedDateTime: 2023-03-22T08:17:00Z
-    webUrl: "https://www.androidauthority.com/daily-authority-march-22-2023-3300899/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 80
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-logo-loading.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Microsoft gains access to Open AI code base, trouble for Google?"
     excerpt: "Azure is Microsoft’s cloud computing service which will help developers build new AI systems by making OpenAI’s service models available to the market. Google retaliated recently with their AI offering Bard AI, a chatbot to compete with ChatGPT."
     publishedDateTime: 2023-03-24T08:41:00Z

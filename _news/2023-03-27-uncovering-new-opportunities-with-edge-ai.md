@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/uncovering-new-opportunities-with-edge-ai/"
 ampWebUrl: "https://venturebeat.com/ai/uncovering-new-opportunities-with-edge-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/uncovering-new-opportunities-with-edge-ai/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1264510281.jpg?w=1200&strip=all"
@@ -45,6 +46,6 @@ related:
         height: 630
         isCached: true
 
-secured: "53wekZfjhwoYJcfGPlUjRwv5PSpcWisYQDEVlCYu+ifzXD9l1iqg6/4xMgcKJkZZuS/8ScpAI285v2dPSy3RNHeU6v9YcbXS8J8JNz6sBNF+jzdWRKOKINlD8p5hI7cYxILYuGMLMZJbEfKmtaFXFLgTTrkEvijlYlrc1Xmh97Yu4oZVWq/I8ZSAgrZxDzQjv5Xcx/zFzr43JAF4+xHpedm5fZ54fgQ+m5kFavFjiRfLR4klOGCrQnnnFmkkf4XgqQlcrXuhDIsxyrVOkzEXZnOPLm68jd7CQBwM8654Y2xfxy9BgqAr0FtdCpMJmmuhJm63KHX0ShvxnJQDzP9LtnIfiZ9wi2UfEOKEVg6twt0=;PBMg8UBFAZGe8mZ9bTqyIA=="
+secured: "i0lIsK/3q1brlFn5kTxR4NY49XswMhafEMsXpPy9P1W7YbhP7RfIsPdN9MaWR4gitIm2sgQvyCcL/7wvAe01veH/KoZP+GF09MpwmT+FPhbacZg6w16JM/Af9KELNpssdL6jodA+Lbyi7U3O6aHFkMSTEIjIV316R5bXAg7CM7tQRCQ4vqyOZTlx04tb0Ee6tmYiskRSLBmGczVwjRO/YjYp8QYkAnFGoaheGTdphh0CIE3ZeuAT9aJhmBGlq62ucGq0Tz9VDd5eF+PyNAtjKImJD1ueRQIhLEx2A22bE3LEOylDc3WZttaADu6QQdZX9xDQK+/anxrQlrisW8QrY9NS/cQP0/KTMpOIOyy+SaA4InrGJsFkN7q3k5BnTXhpUoUdhrra9k6RRjgTHBM0qvB1UGYv5YXDGtdSZdKHc7w/VYL8QfCMfErkaJEHGPcCxV/ZO09Rw03mI8LvqwbdlTotvXEiRgh8zi6akFGxcwUPugC8kCtgOmxRfgxsIajwIChK4MA9fQBn+zADHkcA8g==;oS2CPNz1TXkUwedC8Y7wTQ=="
 ---
 

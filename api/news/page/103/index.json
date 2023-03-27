@@ -2,6 +2,40 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2023-01-05-luos-announces-integration-with-freedom-robotics-enabling-device-monitoring-and-control-over-the-internet-from-anywhere.md",
+      "title": "Luos Announces Integration with Freedom Robotics Enabling Device Monitoring and Control over the Internet from Anywhere",
+      "excerpt": "\"This integration brings a new level of simplicity and power to any cyber-physical system (CPS) with the ability to see and control microcontroller units (MCU) using the Freedom Robotics dashboard ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/01/b30278443/luos-announces-integration-with-freedom-robotics-enabling-device-monitoring-and-control-over-the-i",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/b30278443/luos-announces-integration-with-freedom-robotics-enabling-device-monitoring-and-control-over-the-i",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-05-investing-in-ai-stocks.md",
       "title": "Investing in AI Stocks",
       "excerpt": "Machine learning, or AI, involves training a system ... and improve the quality of care. In the financial services industry, via the company’s 2016 acquisition of Promontory Financial Group ...",
@@ -1028,49 +1062,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-baidu-granted-with-the-first-license-to-test-out-driverless-taxis-in-beijing.md",
-      "title": "Baidu granted with the first license to test out driverless taxis in Beijing",
-      "excerpt": "Following its success in Wuhan and Chongqing, Baidu received the first license to test driverless taxis in Beijing.",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2023/01/baidu-granted-with-the-first-license-to-test-out-driverless-taxis-in-beijing/",
-      "originalUrl": "https://techwireasia.com/2023/01/baidu-granted-with-the-first-license-to-test-out-driverless-taxis-in-beijing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techwireasia.com/wp-content/uploads/2023/01/Baidu-received-the-first-license-to-test-autonomous-vehicles-with-no-safety-operator-on-board-in-Beijing-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T16:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

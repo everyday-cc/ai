@@ -2,6 +2,58 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2023-02-06-getting-stakeholder-engagement-right-in-responsible-ai.md",
+      "title": "Getting stakeholder engagement right in responsible AI",
+      "excerpt": "Within the AI research community — a notoriously fast-moving field where it’s increasingly difficult to keep up — researchers decided to try applying machine learning (ML) to the stakeholder ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/getting-stakeholder-engagement-right-in-responsible-ai/",
+      "originalUrl": "https://venturebeat.com/ai/getting-stakeholder-engagement-right-in-responsible-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1130578350.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/getting-stakeholder-engagement-right-in-responsible-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/getting-stakeholder-engagement-right-in-responsible-ai/amp/",
+      "publishedDateTime": "2023-02-05T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-exclamation-point-sen-hoylman-sigal-on-grieving-families-act-msg-facial-recognition-more.md",
       "title": "Exclamation Point: Sen. Hoylman-Sigal on Grieving Families Act, MSG facial recognition & more",
       "excerpt": "Watch this bonus conversation with State Sen. Brad Hoylman-Sigal and Marcia Kramer exclusively on CBS News New York.",
@@ -937,49 +989,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-05-warn-your-children-robots-and-ai-are-coming-for-their-careers.md",
-      "title": "Warn your children: Robots and AI are coming for their careers",
-      "excerpt": "Science is making exponential advancements in the field of robotics and artificial intelligence. Surely, sooner or later, these advancements will impact most careers. The companies that produce or utilize such advancements might not be the sinister ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/technology/3841832-warn-your-children-robots-and-ai-are-coming-for-their-careers/",
-      "originalUrl": "https://thehill.com/opinion/technology/3841832-warn-your-children-robots-and-ai-are-coming-for-their-careers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/06/CA_robots_workers.jpg?w=1280",
-          "width": 1280,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/technology/3841832-warn-your-children-robots-and-ai-are-coming-for-their-careers/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/3841832-warn-your-children-robots-and-ai-are-coming-for-their-careers/amp/",
-      "publishedDateTime": "2023-02-04T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

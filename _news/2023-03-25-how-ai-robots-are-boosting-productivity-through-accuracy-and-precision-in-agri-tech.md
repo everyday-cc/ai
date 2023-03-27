@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/blockchain/how-ai-robots-are-boosti
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/blockchain/how-ai-robots-are-boosting-productivity-through-accuracy-and-precision-in-agri-tech/3021329/lite/"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Can Boost Creativity"
-    excerpt: "Artificial Intelligence(AI ... In the country’s rural parts, even the main healthcare facilities, let alone sub- centers, frequently face appallingly low staffing levels and lack basic amenities (Weforum.org, 2022). To assist in this scenario, AI ..."
-    publishedDateTime: 2023-03-23T11:40:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-can-boost-creativity/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-can-boost-creativity/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-can-boost-creativity/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/11/Pic-1-7.png"
-        width: 665
-        height: 381
-        isCached: true
   - title: "Knight Optical's Pumping up Productivity: How Robotics are Used in the Oil and Gas Industry"
     excerpt: "Advances in digitalisation, artificial intelligence (AI), cloud computing, and the Internet of Things (IoT) are contributing to the proliferation of robotic applications in the sector. Consequently, the use of robotics is expected to grow as these ..."
     publishedDateTime: 2023-03-23T13:50:00Z

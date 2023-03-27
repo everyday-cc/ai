@@ -2,6 +2,49 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2023-02-06-ai-startup-cohere-in-talks-to-raise-funding-at-6-bln-plus-valuation-sources.md",
+      "title": "AI startup Cohere in talks to raise funding at $6 bln plus valuation -sources",
+      "excerpt": "Cohere, an AI foundation model company that competes with Microsoft-backed OpenAI, is in talks to raise hundreds of millions of dollars in a funding round that could value the startup at more than $6 billion,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/ai-startup-cohere-talks-raise-funding-6-bln-plus-valuation-sources-2023-02-06/",
+      "originalUrl": "https://www.reuters.com/technology/ai-startup-cohere-talks-raise-funding-6-bln-plus-valuation-sources-2023-02-06/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T03:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-scammers-rush-to-capitalize-on-the-ai-bandwagon-with-get-rich-quick-schemes.md",
       "title": "Scammers rush to capitalize on the AI bandwagon with get-rich-quick schemes",
       "excerpt": "YouTube, Instagram, and TikTok are becoming polluted by individuals pushing AI and how you can use it to make yourself tens of thousands of dollars.",
@@ -879,49 +922,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-ai-in-agriculture-market-2023-new-report-is-grow-rapidly-with-phenomenal-trend-and-demand-between-2023-to-2028.md",
-      "title": "AI in Agriculture Market 2023 (New Report) is Grow Rapidly With Phenomenal Trend and Demand Between 2023 To 2028",
-      "excerpt": "Also provides an in-depth market evaluation by highlighting information on various aspects covering global drivers, barriers, and opportunities. This report is a comprehensive numerical analysis of the AI in Agriculture industry and provides data to make strategies for increasing market growth and success.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-agriculture-market-2023-new-report-is-grow-rapidly-with-phenomenal-trend-and-demand-between-2023-to-2028-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-agriculture-market-2023-new-report-is-grow-rapidly-with-phenomenal-trend-and-demand-between-2023-to-2028-2023-02-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T01:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

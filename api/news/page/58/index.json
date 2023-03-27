@@ -2,6 +2,39 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2023-02-07-c3ai-bigbearai-and-soundhound-stock-are-soaring-in-an-ai-feeding-frenzy.md",
+      "title": "C3.ai, BigBearAI, and SoundHound Stock Are Soaring in an AI Feeding Frenzy",
+      "excerpt": "Investors are in a feeding frenzy over artificial-intelligence software plays, and you have to think this isn’t going to end well. You can date the start of the AI stock craze to the Nov. 30 launch of ChatGPT,",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/c3-ai-stock-bigbearai-soundhound-51675712768",
+      "originalUrl": "https://www.barrons.com/articles/c3-ai-stock-bigbearai-soundhound-51675712768",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T11:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-the-evolution-of-artificial-intelligence.md",
       "title": "The evolution of Artificial Intelligence",
       "excerpt": "Artificial Intelligence (AI) has started coming around the corner and is becoming a part of our daily lives. But how did it become an important topic in today’s world? It all began when science fiction revealed the concept of humanoid robots. The first ...",
@@ -897,40 +930,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-magic-raises-23m-to-build-an-ai-driven-tool-to-help-developers-write-code.md",
-      "title": "Magic raises $23M to build an AI-driven tool to help developers write code",
-      "excerpt": "Magic AI Inc., a startup that’s building an artificial intelligence platform to generate code, said today that it has raised $23 million in new funding to build out its team and prepare its product for launch.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/02/06/magic-raises-23m-build-ai-driven-tool-help-developers-write-code/",
-      "originalUrl": "https://siliconangle.com/2023/02/06/magic-raises-23m-build-ai-driven-tool-help-developers-write-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

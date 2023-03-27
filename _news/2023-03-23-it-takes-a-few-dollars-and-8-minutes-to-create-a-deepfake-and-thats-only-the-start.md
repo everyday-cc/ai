@@ -52,6 +52,20 @@ related:
         width: 608
         height: 342
         isCached: true
+  - title: "We Need to Stop Freaking Out About AI Deepfakes"
+    excerpt: "While generative AI almost certainly won’t make our politics any better, it probably won’t make things meaningfully worse, because humans have already made them thoroughly bad."
+    publishedDateTime: 2023-03-25T06:47:00Z
+    webUrl: "https://www.thedailybeast.com/we-need-to-stop-freaking-out-about-ai-deepfakes"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1679715939/230324-deepfakes-hero1_hgciiq"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "LcFcDNUgT4Ummrzc5pjJUnP9JQPxqxM3icwicaqqyLOR2tAmkBSoa+CeFGCW52PTZUvle5VhimvELAaFBu8pKWxCF4U+LbRwGEbSFWw/N8A1vWxM00j04SVc8m0n6E8Nt+JERX4XttEuFZsEick/XNrP//VUw4U+jex8PxeevDbkgf4EVgO4aMpcE/98BoPHdq2s2BJ+PibvwggNAXyqV1PRaPPXoYMuptN6hQTAF1YkrO/i+B8uBdgNNBFGMxIYAbWQy7vmMC6C00gyzjsrJ3ruB+Evggigh6SZqcxrgJdVjgN9Qmsgv+mHL0QOF/P9vZcnpZQ2b+na0o9EovBchiFN0aCLpuzWSJxU4d+qoCI=;ll9h39oCFVpf4NdMFsv5MA=="
 ---

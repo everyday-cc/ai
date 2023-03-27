@@ -91,38 +91,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI Vs EU: ChatGPT Shakes Up Brussels Plans For Regulation"
-    excerpt: "Created by US startup OpenAI, ChatGPT appeared in November and was quickly seized upon by users amazed at its ability to answer difficult questions clearly, write sonnets or code"
-    publishedDateTime: 2023-03-22T08:45:00Z
-    webUrl: "https://www.barrons.com/news/ai-vs-eu-chatgpt-shakes-up-brussels-plans-for-regulation-3efe27c?refsec=topics_afp-news"
-    ampWebUrl: "https://www.barrons.com/amp/news/ai-vs-eu-chatgpt-shakes-up-brussels-plans-for-regulation-3efe27c"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-vs-eu-chatgpt-shakes-up-brussels-plans-for-regulation-3efe27c"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP2956653982247083189024971462670948033464---1.jpg"
-        width: 768
-        height: 512
-        isCached: true
-  - title: "AI vs EU: ChatGPT upends Brussels' intentions for regulation"
-    excerpt: "AI is in wide use, but the conversational robot ChatGPT has transformed how people view the technology — and how regulators should monitor it to protect against risks. Created by US startup OpenAI, ChatGPT appeared in November and was quickly seized upon ..."
-    publishedDateTime: 2023-03-22T08:42:00Z
-    webUrl: "https://www.thenews.com.pk/latest/1052758-ai-vs-eu-chatgpt-upends-brussels-intentions-for-regulation"
-    ampWebUrl: "https://www.thenews.com.pk/amp/1052758-ai-vs-eu-chatgpt-upends-brussels-intentions-for-regulation"
-    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1052758-ai-vs-eu-chatgpt-upends-brussels-intentions-for-regulation"
-    type: article
-    provider:
-      name: The News International
-      domain: thenews.com.pk
-    quality: 59
-    images:
-      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-03-22/1052758_010609_updates.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "Texas lawmaker uses ChatGPT to deliver remarks on AI bill"
     excerpt: "That’s why we need HB 2060.” He said the council created by this proposal would monitor use of AI by state agencies, examine the need for a code of ethics for AI systems and recommend policies to protect Texans’ privacy. “House Bill 2060 is a ..."
     publishedDateTime: 2023-03-22T20:38:00Z
@@ -155,22 +123,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "ChatGPT shakes up European Union's plans to regulate artificial intelligence"
-    excerpt: "The European Commission, the EU's executive arm, first announced a plan in April 2021 for an AI rulebook, and the European Parliament hopes to finalise its preferred AI Act text this month"
-    publishedDateTime: 2023-03-22T08:24:00Z
-    webUrl: "https://www.firstpost.com/world/chatgpt-shakes-up-european-unions-plans-to-regulate-artificial-intelligence-12331872.html"
-    ampWebUrl: "https://www.firstpost.com/world/chatgpt-shakes-up-european-unions-plans-to-regulate-artificial-intelligence-12331872.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/world/chatgpt-shakes-up-european-unions-plans-to-regulate-artificial-intelligence-12331872.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 56
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/02/What-ChatGPT-thinks-of-China-banning-AI-language-models-for-the-public-because-it-cant-be-censored-2.jpg"
-        width: 640
-        height: 362
-        isCached: true
   - title: "Enchanted by ChatGPT, Bill Gates calls AI 2nd revolutionary tech after GPU"
     excerpt: "Artificial intelligence (AI) is the second truly significant technological revolution in Bill Gates' 67 years of life, according to a recent blog by the Microsoft co-founder."
     publishedDateTime: 2023-03-22T12:34:00Z
@@ -185,17 +137,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "With AI-powered ChatGPT, the watchword is verify, don't blindly trust"
-    excerpt: "It’s not always accurate and at times it has added information I didn’t add.” He uses ChatGPT, launched by OpenAI in November, for numerous purposes including creating event listings for LISTnet gatherings."
-    publishedDateTime: 2023-03-22T08:00:00Z
-    webUrl: "https://www.newsday.com/business/columnists/jamie-herzlich/chatgpt-ai-v7t5yclo"
-    ampWebUrl: "https://www.newsday.com/amp/business/columnists/jamie-herzlich/chatgpt-ai-v7t5yclo"
-    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/columnists/jamie-herzlich/chatgpt-ai-v7t5yclo"
-    type: article
-    provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 39
   - title: "Why the makers of ChatGPT care what Pope Francis says about AI"
     excerpt: "In January, Pope Francis addressed tech-industry leaders from companies such as Microsoft and IBM as well as members of the Jewish and Muslim communities during a conference on ethics in AI at the Vatican. The pope urged them to “ensure that the ..."
     publishedDateTime: 2023-03-23T13:56:00Z

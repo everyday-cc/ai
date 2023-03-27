@@ -25,52 +25,79 @@ images:
     isCached: true
 
 related:
-  - title: "Green Intelligence: Why Data And AI Must Become More Sustainable"
-    excerpt: "As big data, machine learning, and artificial intelligence continue to gain prominence in information technology, experts are raising concerns about the environmental costs of computation — primarily data and AI’s carbon footprint and greenhouse gas ..."
-    publishedDateTime: 2023-03-22T07:30:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/22/green-intelligence-why-data-and-ai-must-become-more-sustainable/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/22/green-intelligence-why-data-and-ai-must-become-more-sustainable/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/03/22/green-intelligence-why-data-and-ai-must-become-more-sustainable/amp/"
+  - title: "Cresta Named Winner in 2023 Artificial Intelligence Excellence Awards"
+    excerpt: "PALO ALTO, Calif., March 23, 2023 /PRNewswire/ -- Cresta, a leading provider of generative AI for the contact center, announced today that Business Intelligence Group has named the company a winner in its Artificial Intelligence Excellence Awards program."
+    publishedDateTime: 2023-03-23T13:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cresta-named-winner-in-2023-artificial-intelligence-excellence-awards-1032187830"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641aadbcab36eced214b2898/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 1200
-        isCached: true
-  - title: "How AI Can Help You Develop Emotional Intelligence"
-    excerpt: "Emotional intelligence—or the ability to recognize, understand and manage one's own emotions and those of others—is a critical skill for effective leadership. Fortunately, advances in artificial intelligence (AI) are making it easier than ever to improve emotional intelligence."
-    publishedDateTime: 2023-03-24T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/03/24/how-ai-can-help-you-develop-emotional-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/03/24/how-ai-can-help-you-develop-emotional-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/03/24/how-ai-can-help-you-develop-emotional-intelligence/amp/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "SoftSmile Honored as 2023 Artificial Intelligence Excellence Award Winner"
+    excerpt: "Since 2012, the award program has been celebrating one-of-a-kind innovations and outstanding performance – and now, SoftSmile joins the distinguished roster, being recognized am"
+    publishedDateTime: 2023-03-23T19:01:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/23/9782481.htm"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 38
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62178c7d50cdde4206ea4192/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://mma.prnewswire.com/media/1699572/SoftSmile_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Is GPT-4 already showing signs of artificial general intelligence?"
-    excerpt: "Microsoft researchers have claimed that OpenAI’s GPT-4 is capable of such a wide variety of tasks, in some cases exceeding human ability, that the artificial intelligence model is showing “sparks” of artificial general intelligence (AGI). Is this ..."
-    publishedDateTime: 2023-03-24T15:01:00Z
-    webUrl: "https://www.newscientist.com/article/2365864-is-gpt-4-already-showing-signs-of-artificial-general-intelligence/"
+  - title: "Seno Medical's SenoGram® Decision Support Tool Named Winner in 2023 Artificial Intelligence Excellence Awards"
+    excerpt: "San Antonio, TX, March 23, 2023 (GLOBE NEWSWIRE) -- The Artificial Intelligence Excellence Awards program has selected Seno Medical's AI platform, SenoGram ® — exclusively available in conjunction with the company's Imagio ® Breast Imaging System ..."
+    publishedDateTime: 2023-03-23T13:36:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31474900/seno-medicals-senogram-decision-support-tool-named-winner-in-2023-artificial-intelligence-excellen"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 22
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
     images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/03/24133532/SEI_149545430.jpg"
-        width: 1350
-        height: 899
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
+  - title: "Messagepoint Named Winner in 2023 Artificial Intelligence Excellence Awards"
+    excerpt: "Messagepoint announced today it has been named a winner in the Business Intelligence Group’s Artificial Intelligence (AI) Excellence Awards. The AI Excellence Awards recognize organizations, products and people that use AI to solve real problems."
+    publishedDateTime: 2023-03-23T15:17:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/messagepoint-named-winner-in-2023-artificial-intelligence-excellence-awards/article_4c33d5e9-2993-5b3b-8fe4-fe446d45e09c.html"
+    type: article
+    provider:
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 17
+  - title: "Lattice Wins 2023 Artificial Intelligence Awards"
+    excerpt: "HILLSBORO, Ore.--(BUSINESS WIRE)--Lattice Semiconductor (NASDAQ: LSCC), the low power programmable leader, today announced that it won two Artificial Intelligence Excellence Awards from The Business Intelligence Group. The Lattice Avant™ FPGA platform ..."
+    publishedDateTime: 2023-03-23T20:03:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230323005005/en/Lattice-Wins-2023-Artificial-Intelligence-Awards"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 17
+  - title: "Messagepoint Named Winner in 2023 Artificial Intelligence Excellence Awards"
+    excerpt: "Messagepoint announced today it has been named a winner in the Business Intelligence Group’s Artificial Intelligence (AI) Excellence Awards. The AI Ex"
+    publishedDateTime: 2023-03-23T19:17:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230322005774/en/Messagepoint-Named-Winner-in-2023-Artificial-Intelligence-Excellence-Awards"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 17
+  - title: "Virtualitics Wins 2023 Artificial Intelligence Excellence Award"
+    excerpt: "Virtualitics Inc., an artificial intelligence and data exploration company, today announced it has been honored with a 2023 Artificial Intelligence Excellence Award from the Business Intelligence Group."
+    publishedDateTime: 2023-03-23T20:14:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/03/23/9782558.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "8c3mwtgL1d0HcN+KBaRiQKa4l2JJcMOSFgVa8DItHGWfkf+jGPAmY0mU+CU6ceA4ynPouyR7xSHcYRvmP9qpNOsen0hUl2bPrMZFLFoPSBVH4odD+PhL0kAsHP717x8iIaduGTLXNnqNLTE7mtXgSQVHfwIOk3wt+WCjKmQzJNeZ+ESh4DGZ0FFcF7xusqkShIO3GHWx5y+ylR0T8TJgiYT4zjXOp4RaHn83Emqv5HSM+6jcsH7eDjvk87Kzp+0+XP4/DpENI4G9pyblKE9Jx4w4dL7shl3Yyv7owJZJI4W51Dh9fVONx5nh007pPlyYYzkI/ByTcWBB12GePPquRPfxP9dmZWG95XSkG1kwX1GxfVxoTpUAnkCTqfcR6ni81g6agmmD2hA0lYSwVW8McK9EeszkuDLTiyPdzXXo8sCtelCk79F/bUvApny5Xpgl7q9ZyBxZRqawd7MXWgpJoJCSNxB2egn0O/Cof6JALqQqQwoWo+k2wvLifveVgqm6EelPTsN0TlIR9rQ3W1ju9A==;cYevwDUpsTCwhSUWa1zNiw=="
 ---

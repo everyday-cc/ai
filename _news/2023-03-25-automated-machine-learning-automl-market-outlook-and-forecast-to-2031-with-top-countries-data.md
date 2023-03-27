@@ -100,20 +100,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Oil and Gas Market Report | Global Forecast From 2023 To 2030"
-    excerpt: "Mar 21, 2023 (The Expresswire) -- 360 Market Updates(360marketupdates.com) published a new research report on Artificial Intelligence in Oil and Gas Market 2023 with 114 Report Pages and enhance with self-explained tables, pie chart and graph in smart format."
-    publishedDateTime: 2023-03-22T08:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-report-global-forecast-from-2023-to-2030-2023-03-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2023 to 2030 Self-Driving Cars and Light Trucks Market Regional Outlook"
     excerpt: "The Self-Driving Cars and Light Trucks market has witnessed a growth from USD million to USD million from 2017 to 2022. With a CAGR of Percent this market is estimated to reach USD million in 2029. The report focuses on the Self-Driving Cars and Light ..."
     publishedDateTime: 2023-03-22T19:43:00Z

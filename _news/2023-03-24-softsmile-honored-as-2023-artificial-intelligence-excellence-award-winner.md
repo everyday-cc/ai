@@ -34,6 +34,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Phenom High-Volume Hiring Earns 2023 Artificial Intelligence Excellence Award by Business Intelligence Group"
+    excerpt: "“Across various industries — including healthcare, early education ... including Gold for ‘Best Advance in AI for Business Impact,’ Business Intelligence Group's Artificial Intelligence Excellence Awards (3 consecutive years), and a regional ..."
+    publishedDateTime: 2023-03-23T15:17:00Z
+    webUrl: "https://www.eagletribune.com/region/phenom-high-volume-hiring-earns-2023-artificial-intelligence-excellence-award-by-business-intelligence-group/article_901fe5c6-62e4-5c2d-819e-7e96f7c8c45c.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 20
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/2/cd/2cd0109d-3ddb-5573-9709-2b5184980159/641c6bb5545ab.image.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Seno Medical's SenoGram® Decision Support Tool Named Winner in 2023 Artificial Intelligence Excellence Awards"
     excerpt: "San Antonio, TX, March 23, 2023 (GLOBE NEWSWIRE) -- The Artificial Intelligence Excellence Awards program has selected Seno Medical's AI platform, SenoGram ® — exclusively available in conjunction with the company's Imagio ® Breast Imaging System ..."
     publishedDateTime: 2023-03-23T13:36:00Z

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-27-uncovering-new-opportunities-with-edge-ai.md",
+      "title": "Uncovering new opportunities with edge AI",
+      "excerpt": "With technology ever-advancing, edge AI is within reach. How to build, validate and push new edge AI software into production.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/uncovering-new-opportunities-with-edge-ai/",
+      "originalUrl": "https://venturebeat.com/ai/uncovering-new-opportunities-with-edge-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1264510281.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/uncovering-new-opportunities-with-edge-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/uncovering-new-opportunities-with-edge-ai/amp/",
+      "publishedDateTime": "2023-03-26T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-25-top-5-stories-of-the-week-generative-ai-market-heating-up-even-more.md",
       "title": "Top 5 stories of the week: Generative AI market heating up (even more)",
       "excerpt": "This she found in a March 2021 AI research paper, “On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?” Although it led to firings, researchers decided it was time to look back at the explosive paper — which in hindsight ...",
@@ -1471,58 +1523,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-openai-has-grand-plans-for-agi-heres-another-way-to-read-its-manifesto-the-ai-beat.md",
-      "title": "OpenAI has grand ‘plans’ for AGI. Here’s another way to read its manifesto | The AI Beat",
-      "excerpt": "In this week's AI Beat, senior writer Sharon Goldman suggests an alternate reading of OpenAI's prophecy (oops, 'plan') for AGI and beyond.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/openai-has-grand-plans-for-agi-heres-another-way-to-read-its-manifesto-the-ai-beat/",
-      "originalUrl": "https://venturebeat.com/ai/openai-has-grand-plans-for-agi-heres-another-way-to-read-its-manifesto-the-ai-beat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/02/Your-paragraph-text-7.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/openai-has-grand-plans-for-agi-heres-another-way-to-read-its-manifesto-the-ai-beat/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/openai-has-grand-plans-for-agi-heres-another-way-to-read-its-manifesto-the-ai-beat/amp/",
-      "publishedDateTime": "2023-02-27T07:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

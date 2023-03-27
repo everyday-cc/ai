@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 625
         isCached: true
+  - title: "We Need to Stop Freaking Out About AI Deepfakes"
+    excerpt: "While generative AI almost certainly won’t make our politics any better, it probably won’t make things meaningfully worse, because humans have already made them thoroughly bad."
+    publishedDateTime: 2023-03-25T06:47:00Z
+    webUrl: "https://www.thedailybeast.com/we-need-to-stop-freaking-out-about-ai-deepfakes"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1679715939/230324-deepfakes-hero1_hgciiq"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "It takes a few dollars and 8 minutes to create a deepfake. And that's only the start"
     excerpt: "With just a photograph & 60 seconds of audio, you can now create a deepfake of yourself in just a matter of minutes by combining a few cheap AI tools. I've tried it myself, and the results are mind-blowing, even if they're not completely convincing."
     publishedDateTime: 2023-03-23T09:42:00Z

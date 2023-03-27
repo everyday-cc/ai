@@ -19,22 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Final voice referendum wording and constitutional amendment ‘very close’"
-    excerpt: "More talks between the advisory group and Anthony Albanese mean the exact wording could be released on Thursday"
-    publishedDateTime: 2023-03-22T09:04:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/mar/22/final-voice-referendum-wording-and-constitutional-amendment-very-close"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/mar/22/final-voice-referendum-wording-and-constitutional-amendment-very-close"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/mar/22/final-voice-referendum-wording-and-constitutional-amendment-very-close"
+  - title: "Albanese accuses Dutton of undermining Indigenous voice"
+    excerpt: "The prime minister says Peter Dutton has been undermining Indigenous voice support, as the opposition calls for legal advice on the proposal to be released."
+    publishedDateTime: 2023-03-27T01:43:00Z
+    webUrl: "https://thenewdaily.com.au/news/politics/australian-politics/2023/03/27/albanese-accuses-dutton-undermining-indigenous-voice/"
+    ampWebUrl: "https://thenewdaily.com.au/news/politics/australian-politics/2023/03/27/albanese-accuses-dutton-undermining-indigenous-voice/amp/"
+    cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/politics/australian-politics/2023/03/27/albanese-accuses-dutton-undermining-indigenous-voice/amp/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 43
+      name: thenewdaily
+      domain: thenewdaily.com.au
+    quality: 44
     images:
-      - url: "https://i.guim.co.uk/img/media/340e5bd8129d02fdb143158d634e32881ad67e12/0_75_3795_2277/master/3795.jpg?width=620&quality=85&auto=format&fit=max&s=4410c952c87f7d10a3fb7d3c0fc77f2c"
-        width: 620
-        height: 372
+      - url: "https://thenewdaily.com.au/wp-content/uploads/2023/03/1679881328-Albanese-Dutton-voice.jpg?resize=960,600"
+        width: 960
+        height: 600
         isCached: true
+  - title: "Albanese’s Voice announcement explained"
+    excerpt: "Loading The first clause simply states: “There shall be a body, to be called the Aboriginal and Torres Strait Islander Voice.” Before the three clauses, a line will be added saying: “In recognition of Aboriginal and Torres Strait Islander peoples as ..."
+    publishedDateTime: 2023-03-23T06:32:00Z
+    webUrl: "https://www.smh.com.au/politics/federal/albanese-s-voice-announcement-explained-20230323-p5cumy.html"
+    ampWebUrl: "https://amp.smh.com.au/politics/federal/albanese-s-voice-announcement-explained-20230323-p5cumy.html"
+    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/albanese-s-voice-announcement-explained-20230323-p5cumy.html"
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 39
   - title: "‘We’re all in’, declares an emotional Albanese as he launches the wording for the Voice referendum"
     excerpt: "A legal group advised the referendum working group. The PM stressed the practical value of a Voice in closing the gap of indigenous disadvantage. While this was about recognition, he said, more importantly it was about “making a practical difference ..."
     publishedDateTime: 2023-03-23T04:56:00Z

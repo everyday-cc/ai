@@ -62,22 +62,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "Next-gen Nvidia AI chips coming to cloud platforms"
-    excerpt: "At the chip maker’s annual developer conference on Tuesday, CEO Jensen Huang positioned Nvidia as the engine behind “the iPhone moment of AI”, as he’s taken to calling this inflection point in computing."
-    publishedDateTime: 2023-03-22T07:08:00Z
-    webUrl: "https://techcentral.co.za/next-gen-nvidia-ai-chips-coming-to-cloud-platforms/223517/"
-    ampWebUrl: "https://techcentral.co.za/next-gen-nvidia-ai-chips-coming-to-cloud-platforms/223517/?amp=1"
-    cdnAmpWebUrl: "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/next-gen-nvidia-ai-chips-coming-to-cloud-platforms/223517/?amp=1"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 74
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2023/03/jensen-huang-1500-800.jpg"
-        width: 1500
-        height: 800
-        isCached: true
   - title: "NVIDIA goes all in on AI, shares progress at GTC"
     excerpt: "These include AWS, Google Cloud, Azure, Oracle Cloud, and Alibaba Cloud. The company launched DGX Cloud, which enables access to an AI supercomputer right from a web browser. This removes the need to acquire, deploy, and manage on-premises infrastructure."
     publishedDateTime: 2023-03-22T21:17:00Z

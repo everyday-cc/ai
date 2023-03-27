@@ -2,6 +2,49 @@
   "page": 117,
   "value": [
     {
+      "path": "_news/2022-12-14-researchers-identify-new-immune-culprit-in-alzheimers-disease.md",
+      "title": "Researchers identify new 'immune culprit' in Alzheimer's disease",
+      "excerpt": "Advertisement According to Gate, the study offers new information on the role of the immune system in patients living with cognitive impairment, which is a symptom of Alzheimer's disease.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Health_News/2022/12/13/cerebrospinal-fluid-cognitive-impairment-study/8051670940934/",
+      "originalUrl": "https://www.upi.com/Health_News/2022/12/13/cerebrospinal-fluid-cognitive-impairment-study/8051670940934/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/8051670940934/2022/1/16709445212077/v1.5/Researchers-identify-new-immune-culprit-in-Alzheimers-disease.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/Health_News/2022/12/13/cerebrospinal-fluid-cognitive-impairment-study/8051670940934/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/Health_News/2022/12/13/cerebrospinal-fluid-cognitive-impairment-study/8051670940934/",
+      "publishedDateTime": "2022-12-13T08:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-14-emergent-color-categorization-in-a-neural-network-trained-for-object-recognition.md",
       "title": "Emergent color categorization in a neural network trained for object recognition",
       "excerpt": "Color is a prime example of categorical perception, yet it is unclear why and how color categories emerge. On the one hand, prelinguistic infants and several animals treat color categorically. On the other hand,",
@@ -1094,49 +1137,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-did-a-robot-write-this-we-need-watermarks-to-spot-ai.md",
-      "title": "Did a Robot write this? we need watermarks to spot AI",
-      "excerpt": "And remarkably, it will soon get better. OpenAI is widely expected to release its next iteration known as GPT-4 in the coming months, and early testers say it is better than anything that came before.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/opinion/did-a-robot-write-this-we-need-watermarks-to-spot-ai-9695701.html",
-      "originalUrl": "https://www.moneycontrol.com/news/opinion/did-a-robot-write-this-we-need-watermarks-to-spot-ai-9695701.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2021/05/Robot-rock-n-roll-monkey-FTfjMijq-Ws-unsplash.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/opinion/did-a-robot-write-this-we-need-watermarks-to-spot-ai-9695701.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/did-a-robot-write-this-we-need-watermarks-to-spot-ai-9695701.html/amp",
-      "publishedDateTime": "2022-12-12T20:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

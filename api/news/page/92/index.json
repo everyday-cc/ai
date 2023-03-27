@@ -2,6 +2,49 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2023-01-12-good-news-thursday-new-alzheimers-drug-slows-cognitive-decline-in-clinical0.md",
+      "title": "Good News Thursday: New Alzheimer’s drug slows cognitive decline in clinical...0",
+      "excerpt": "A new drug to treat Alzheimer’s was approved by the FDA last week to slow the cognitive decline that accompanies Alzheimer’s, a disease that affects memory and other mental functions.",
+      "sourceUrl": null,
+      "webUrl": "https://universe.byu.edu/2023/01/12/good-news-thursday-new-alzheimers-drug-slows-cognitive-decline-damar-hamlins-toy-drive-raises-8-6m-delta-plans-to-offer-free-wi-fi/",
+      "originalUrl": "https://universe.byu.edu/2023/01/12/good-news-thursday-new-alzheimers-drug-slows-cognitive-decline-damar-hamlins-toy-drive-raises-8-6m-delta-plans-to-offer-free-wi-fi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://universe.byu.edu/wp-content/uploads/2023/01/Untitled-design-63.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-12T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Digital Universe",
+        "domain": "byu.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-12-emagia-and-osmania-university-sign-pact-to-accelerate-ai-and-fintech-innovation.md",
       "title": "Emagia and Osmania University Sign Pact to Accelerate AI and Fintech Innovation",
       "excerpt": "Hyderabad Telangana [India] January 12 ANIGPRC Advancing its commitment to innovations and future-ready workforce Emagia USA today announced the launch of Fintech Innovation Labs at OU in collaboratio",
@@ -1069,40 +1112,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-researchers-investigate-when-how-healthcare-ai-models-will-fail.md",
-      "title": "Researchers Investigate When, How Healthcare AI Models Will Fail",
-      "excerpt": "Researchers are exploring strategies to identify when AI suggests a solution for clinical decision-making that isn’t effective in practice.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/researchers-investigate-when-how-healthcare-ai-models-will-fail",
-      "originalUrl": "https://healthitanalytics.com/news/researchers-investigate-when-how-healthcare-ai-models-will-fail",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/researchers-investigate-when-how-healthcare-ai-models-will-fail",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/researchers-investigate-when-how-healthcare-ai-models-will-fail",
-      "publishedDateTime": "2023-01-11T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
         "images": null,
         "publishers": null,
         "authors": null

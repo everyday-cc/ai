@@ -2,6 +2,58 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2023-01-17-how-soon-will-m3gan-become-reality-robot-ethicists-weigh-in.md",
+      "title": "How soon will M3gan become reality? Robot ethicists weigh in",
+      "excerpt": "believe that people should start interrogating the way robot toys will be marketed and sold. “I’m not concerned about what I saw in the trailer happening in real life – the AI becoming too ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/film/2023/jan/16/megan-film-robot-ai-ethics-real-life?ref=upstract.com",
+      "originalUrl": "https://www.theguardian.com/film/2023/jan/16/megan-film-robot-ai-ethics-real-life?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/8cbe1d6be565c48d135529109932104bb25ba2ae/0_0_7500_4500/master/7500.jpg?width=620&quality=85&auto=format&fit=max&s=d73b13b448bb94e1599a5791447aa36b",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/film/2023/jan/16/megan-film-robot-ai-ethics-real-life",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2023/jan/16/megan-film-robot-ai-ethics-real-life",
+      "publishedDateTime": "2023-01-16T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-17-peter-duttons-approach-to-referendum-on-indigenous-voice-straight-from-john-howards-playbook.md",
       "title": "Peter Dutton’s approach to referendum on Indigenous voice straight from John Howard’s playbook",
       "excerpt": "Indigenous people asked for the voice to be constitutionally entrenched in the Uluru statement from the Heart. The whole point of the exercise is constitutional recognition and if that is the ...",
@@ -1110,49 +1162,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-15-everseen-advances-computer-vision-ai-systems-for-global-retailers.md",
-      "title": "Everseen Advances Computer Vision AI Systems for Global Retailers",
-      "excerpt": "Expanded partner program and installations bring real-time loss prevention to more than half of the world's top 15 retailers Everseen, the leader in real-time computer vision AI for retailers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/01/p30423687/everseen-advances-computer-vision-ai-systems-for-global-retailers",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/p30423687/everseen-advances-computer-vision-ai-systems-for-global-retailers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-15T06:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],
