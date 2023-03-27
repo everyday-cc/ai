@@ -7,7 +7,7 @@ originalUrl: "https://insidebigdata.com/2023/03/24/oreilly-2023-tech-trends-repo
 webUrl: "https://insidebigdata.com/2023/03/24/oreilly-2023-tech-trends-report-reveals-growing-interest-in-artificial-intelligence-topics-driven-by-generative-ai-advancement/"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -23,63 +23,6 @@ images:
     width: 300
     height: 391
     isCached: true
-
-related:
-  - title: "Five trends set to transform fintech banking in 2023"
-    excerpt: "THE ARTICLES ON THESE PAGES ARE PRODUCED BY BUSINESS REPORTER, WHICH TAKES SOLE RESPONSIBILITY FOR THE CONTENTS"
-    publishedDateTime: 2023-03-22T06:54:00Z
-    webUrl: "https://www.independent.co.uk/news/business/business-reporter/fintech-banking-trends-transform-business-b2305087.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 39
-    images:
-      - url: "https://static.independent.co.uk/2023/03/21/13/klarpay-business-reporter-article-image.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Singapore-Based Fintech Company Aquariux Launches AQR Trader - A Retail Trading Platform Interface Tailored For Brokers"
-    excerpt: "With its clean design and enhanced trading capabilities boosted by trading tools from Acuity Signal Center, AQR Trader has recorded more than 3,000 user downloads following its beta launch. For the year ahead,"
-    publishedDateTime: 2023-03-24T09:14:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/03/24/9782853.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
-    images:
-      - url: "https://mma.prnewswire.com/media/2034304/AQR_Trader_Interface_Photo_Credit_Aquariux.jpg"
-        width: 400
-        height: 356
-        isCached: true
-  - title: "Pagaya Wins 2023 Fintech Breakthrough Award for Consumer Lending Innovation"
-    excerpt: "Pagaya has developed a unique AI-powered network, connecting its partners - financial services providers that originate assets with the assistance of Pagaya's technology - to third-party institutional investors,"
-    publishedDateTime: 2023-03-23T18:29:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-pagaya-wins-2023-fintech-breakthrough-award-consumer-lending-/2023/03/23/9782396.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
-  - title: "Lendbuzz Named 2023 \"Best Consumer Lending Platform\" in 7th Annual FinTech Breakthrough Awards Program"
-    excerpt: "Lendbuzz, the AI-based fintech company that is revolutionizing the auto finance market, today announced that it has been selected as winner of the \"Best Consumer Lending Platform\" award in the 7 th annual FinTech Breakthrough Awards,"
-    publishedDateTime: 2023-03-23T00:00:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/03/23/9782615.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-  - title: "Singapore-Based Fintech Company Aquariux Launches AQR Trader - A Retail Trading Platform Interface Tailored For Brokers"
-    excerpt: "With its clean design and enhanced trading capabilities boosted by trading tools from Acuity Signal Center, AQR Trader has recorded more than 3,000 user downloads following its beta launch. For the year ahead,"
-    publishedDateTime: 2023-03-24T18:51:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/03/24/9782853.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "CA2bVvFroNlQX+w/6+FePVEBCxRyyZiODG3XVpwV7+Gm19PITxRejjqbk7oxHrjvqhaeXtAvsH6qe6zGXstGX0ljNEe4EkoVxPwwPSMbtBxhlhWABfd8r6hr5WqPc0NG6RZyiHW1s0PFHnz5QzwCvTKRmpCi8HMmYSuzrxkGlEhbLuLbQVHzAznXo7EewKpD8Wcyhqt6O1kWk1Ux99132Ymvk5vawt0HES9UuDH1LLsslhCera1h9GSWe33KroRjePAyMSHmr6xzR4TzrIpAb6XwjrSONlSlJZZFYG/+ms/AX1quJ3Ngp4IkeesUjNv0aONjp3UcujoIC+aePQEA7Dw3RCVZno9YW7bd0k4ZRAOPjnD4/Gv1vLtT3vvUksFBS0vHRh04kWCOu2pWKzDFH3CSaZeJer04NGmTjVbcQytGfH06SWFhBA1AnvdmTX4DtnBH0A5kZCX+InprEY5oIsrLeV0/3zCjmqP7sqOxZ9X6Tir3oE0LwID4gSUtFdsFt+XiUTZ7RTBWugpAJ5GssA==;xfJz3ROeeQ39eBXwTAER/g=="
 ---

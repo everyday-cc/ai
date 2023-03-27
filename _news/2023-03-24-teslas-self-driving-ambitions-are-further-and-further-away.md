@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmodo.com.au/2023/03/teslas-self-driving-ambitions-are
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/03/teslas-self-driving-ambitions-are-further-and-further-away/amp/"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -96,15 +96,6 @@ related:
         width: 1600
         height: 1060
         isCached: true
-  - title: "The Tesla Of Lawn Mowers: Soon Your Cars Won't Be Your Only Self-Driving, All-Electric Vehicle"
-    excerpt: "From the increased prominence of micro-mobility scooters to self-driving food delivery drones, there is a clear trend of increased electrification. It seems the next phase of electrification is coming to a lawn near you. Graze Mowing is a startup raising ..."
-    publishedDateTime: 2023-03-22T05:11:00Z
-    webUrl: "https://www.benzinga.com/startups/23/03/31450867/the-tesla-of-lawn-mowers-soon-your-cars-wont-be-your-only-self-driving-all-electric-vehicle"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 7
 
 secured: "eHqKFBpQI97iK2Dghh8lgmsnqEF2iMcMbPjEnZ7iRS626RUq9Tn+Uc+Uy6XNdP7tLYbhe59z+5FNolcmQJm01f8A3qCfuBGoXwU3shoA1vJLH3Jd8VWaTrqNe0Nv2tPKhOupfrmdDUuoyO5NFH+dkToSM4bcBIJbSW8HDe9aOm7zQWS8pzRApn+xUoz2KTtFsXmiYCDwBKZQz2KhvEnweS5a/xZiV8L4N/pD1fcR/SVolB2SU1t29+z0fcxlIJiVXiqg3Gm3248ky7FpHAG5k3vdDdxIXeHOSz0LyKlNfBJg1CAstTKtLdJO7y5Djo9mjpl/tO5WgR1ESuw7DBBv3UtPQR5ba/sYjJ27YJbTL8A=;NYrkzR1Dw5H7m9abwmhWrg=="
 ---

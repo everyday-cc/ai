@@ -99,20 +99,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "You can now use Microsoft's AI to create images using just your words"
-    excerpt: "Microsoft has announced the Bing Image Creator. It uses OpenAI’s DALL.E neural network to create images from text prompts. The AI image generator is now available to try out on any browser and the new Bing preview. Just when Google opened up public ..."
-    publishedDateTime: 2023-03-22T05:34:00Z
-    webUrl: "https://www.androidauthority.com/bing-image-creator-3300886/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 84
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2022/03/Microsoft-logo-angled-MWC-2022.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "AI Healthcare Solution Market Investment Feasibility and Trends from 2023 to 2029 | IBM Watson Health, Google Health, Microsoft Healthcare"
     excerpt: "Mar 23, 2023 (Heraldkeepers) -- Tech/News-The AI Healthcare Solution Market is projected to grow ... application dominance are all included in the report by- IBM Watson Health, Google Health, Microsoft Healthcare, NVIDIA, GE Healthcare, Cerner Corporation ..."
     publishedDateTime: 2023-03-23T06:56:00Z
@@ -291,15 +277,6 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 50
-  - title: "Nvidia unveils new AI chips coming to Amazon, Google, and Microsoft cloud services"
-    excerpt: "These kinds of chip superclusters are part of a push by Nvidia to rent out supercomputing services through a new program called DGX Cloud, hosted by Oracle and soon Microsoft Azure and Google Cloud. Nvidia said the goal is to make accessing an AI ..."
-    publishedDateTime: 2023-03-22T05:39:00Z
-    webUrl: "https://mybroadband.co.za/news/cloud-hosting/484737-nvidia-unveils-new-ai-chips-coming-to-amazon-google-and-microsoft-cloud-services.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 45
   - title: "Microsoft unveils plans to use AI feature in Outlook, Excel and more"
     excerpt: "On the other hand, AI critics worry it will bring more harm than good ... generate humanlike responses and perform a wide range of language-related tasks such as language translation, text summarization [and] sentiment analysis.” The GPT-3.5 architecture ..."
     publishedDateTime: 2023-03-23T18:20:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/icmr-releases-first-ethical-guid
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/icmr-releases-first-ethical-guidelines-for-ai-in-healthcare/amp-11679845618748.html"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "ICMR Comes Up With First Ethical Guidelines For Application Of AI In Biomedical Research, Healthcare"
+    excerpt: "The guidelines are intended for all stakeholders involved in research on artificial intelligence in healthcare, including creators, developers, technicians, researchers, clinicians, ethics committees,"
+    publishedDateTime: 2023-03-26T23:52:00Z
+    webUrl: "https://www.outlookindia.com/national/icmr-comes-up-with-first-ethical-guidelines-for-application-of-ai-in-biomedical-research-healthcare-news-273446"
+    ampWebUrl: "https://www.outlookindia.com/national/icmr-comes-up-with-first-ethical-guidelines-for-application-of-ai-in-biomedical-research-healthcare-news-273446/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/icmr-comes-up-with-first-ethical-guidelines-for-application-of-ai-in-biomedical-research-healthcare-news-273446/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 76
+    images:
+      - url: "https://imgnew.outlookindia.com/public/uploads/articles/2020/4/12/Coronavirus_AP12_.jpg"
+        width: 900
+        height: 450
+        isCached: true
   - title: "ICMR comes up with first ethical guidelines for application of AI in biomedical research, healthcare"
     excerpt: "Read more about ICMR comes up with first ethical guidelines for application of AI in biomedical research, healthcare on Devdiscourse"
     publishedDateTime: 2023-03-26T11:23:00Z

@@ -91,22 +91,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Five AI stocks in focus amid ChatGPT frenzy"
-    excerpt: "Over the last couple of weeks, the buzzword around the tech world seems to be ChatGPT. From writing code to language translation, from writing blogs to cre.."
-    publishedDateTime: 2023-03-22T07:02:00Z
-    webUrl: "https://www.khaleejtimes.com/kt-network/five-ai-stocks-in-focus-amid-chatgpt-frenzy"
-    ampWebUrl: "https://www.khaleejtimes.com/kt-network/five-ai-stocks-in-focus-amid-chatgpt-frenzy?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/kt-network/five-ai-stocks-in-focus-amid-chatgpt-frenzy?amp=1"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 61
-    images:
-      - url: "https://image.khaleejtimes.com?uuid=ef87a930-16ab-5250-8a8a-ae9e2a32b3cd&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&width=1200&height=675&x=1.0E-5&y=1.0E-5"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI vs EU: ChatGPT upends Brussels' intentions for regulation"
     excerpt: "AI is in wide use, but the conversational robot ChatGPT has transformed how people view the technology — and how regulators should monitor it to protect against risks. Created by US startup OpenAI, ChatGPT appeared in November and was quickly seized upon ..."
     publishedDateTime: 2023-03-22T08:42:00Z

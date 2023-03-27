@@ -19,20 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Crypto AI Announces Its Launch, Using AI Machine Learning to Create Digital Asset"
-    excerpt: "Crypto AI ($CAI), an AI-powered NFT generator that uses machine learning algorithms to create unique digital assets, has announced its official launch in March 2023. The"
-    publishedDateTime: 2023-03-23T06:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31469135/crypto-ai-announces-its-launch-using-ai-machine-learning-to-create-digital-asset"
+  - title: "Loud Days Integrates AI And Machine Learning Into Its Proprietary Technology"
+    excerpt: "Loud Days has built proprietary AI and Machine Learning technologies that are transforming the way it approaches marketing & media for clients."
+    publishedDateTime: 2023-03-26T22:06:00Z
+    webUrl: "https://www.bandt.com.au/loud-days-integrates-ai-and-machine-learning-into-its-proprietary-technology/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 49
+      name: B and T
+      domain: bandt.com.au
+    quality: 51
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://www.bandt.com.au/information/uploads/2023/03/Untitled-design-3-750x375.png"
+        width: 750
+        height: 375
         isCached: true
+  - title: "3 Disruptive Technologies to Invest In That Aren’t AI"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) has become all the rage recently. This can"
+    publishedDateTime: 2023-03-24T02:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-disruptive-technologies-to-invest-in-that-arent-ai-1032189544"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "aBln0yc/Yi1UjCY7RkEYsEOkIkwlitoVmTbfVMe6JJBgtOq5qCKx+SANnJQbrBN4+KvX9aKeERa8YyjKAyZ+0jvDAiqL0Xi0qyIDbk0HOWwXqDRn+4Yx+W/koK0dOM3Wv3szwnuZBdSYgbFIgQAcPFaMnLKTvaTW/PwItWwl6Q6/P1M3wIy0RU8epGweA7QCppDPMmEhBv49ebOgiYPLvwlVhvF8yd0fNm6v2wllI3EPffJdML1td/+b1535zzknWMsnyblO1ssEeT1rI5/JYll+FGmpGdISL5g6vhh6eVgNPlVdhwhFzgeywc3zUuX0Gg/N62LxA92S/01er0C6MOr0uDIuqla2UUTEAh69rzG1X+lykooT5mzXQbyBTV51jWoXAE787JZ3DjJ9kA8+vC5LSg7hJPRVxVg8lG24j8QujHFaIvMd9PT+5j5QTXKuB0Bo9MR0zsTNQl+ZIeHqEdCTc+B3qJ64D/M9JGXxIXXsStMou/VRHgyTkfR5K23oxWkZihQXqmQ/pBv9nHhWGQ==;lV6pXaMMh8Rw7WMChC8FZw=="
 ---

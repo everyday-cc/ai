@@ -250,20 +250,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 49
-  - title: "Google opens sign-ups for its Bard AI chatbot"
-    excerpt: "Search and hyperscale computing giant Google said today that it has opened up access to Bard, a generative AI chatbot meant to compete with similar services offered by Microsoft and OpenAI, among others."
-    publishedDateTime: 2023-03-22T06:24:00Z
-    webUrl: "https://www.arnnet.com.au/article/706327/google-opens-sign-ups-its-bard-ai-chatbot/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/google_3200x2000.jpg"
-        width: 504
-        height: 315
-        isCached: true
   - title: "Character.AI Hits Unicorn Status With $150M Raise As AI Craze Continues"
     excerpt: "Personalized chatbot startup Character.AI closed a $150 million Series A at a $1 billion valuation led by Andreessen Horowitz."
     publishedDateTime: 2023-03-23T17:17:00Z

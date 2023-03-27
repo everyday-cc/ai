@@ -65,20 +65,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "OpenAI CEO Warns That Competitors Will Make AI That’s More Evil"
-    excerpt: "Concerned about OpenAI and the implications of its powerful AI tech? Fair, but CEO Sam Altman says you should probably focus your worry on its competition."
-    publishedDateTime: 2023-03-22T06:04:00Z
-    webUrl: "https://futurism.com/sam-altman-warns-competitors"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 39
-    images:
-      - url: "https://wp-assets.futurism.com/2023/03/sam-altman-warns-competitors-1.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI startups to watch"
     excerpt: "Investors are pouring billions of dollars into AI startups in what is quickly becoming the latest tech gold rush. Leading the AI revolution is OpenAI, a startup from Sam Altman that created the fast-growing artificial intelligence chatbot ChatGPT,"
     publishedDateTime: 2023-03-23T14:16:00Z

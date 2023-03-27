@@ -36,6 +36,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "ICMR Comes Up With First Ethical Guidelines For Application Of AI In Biomedical Research, Healthcare"
+    excerpt: "The guidelines are intended for all stakeholders involved in research on artificial intelligence in healthcare, including creators, developers, technicians, researchers, clinicians, ethics committees,"
+    publishedDateTime: 2023-03-26T23:52:00Z
+    webUrl: "https://www.outlookindia.com/national/icmr-comes-up-with-first-ethical-guidelines-for-application-of-ai-in-biomedical-research-healthcare-news-273446"
+    ampWebUrl: "https://www.outlookindia.com/national/icmr-comes-up-with-first-ethical-guidelines-for-application-of-ai-in-biomedical-research-healthcare-news-273446/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/icmr-comes-up-with-first-ethical-guidelines-for-application-of-ai-in-biomedical-research-healthcare-news-273446/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 76
+    images:
+      - url: "https://imgnew.outlookindia.com/public/uploads/articles/2020/4/12/Coronavirus_AP12_.jpg"
+        width: 900
+        height: 450
+        isCached: true
 
 secured: "sdayr6/b+64B8/ACRaqIvdDEyHv6aBhRy24UYAbOF98Wj2Hoq4+3bRZpNEFgaxnYhphsAZvxNmjO5FyNiEmEbee9JMFtXi/kuz6P80BIBDKvnnizFklIZngPFy/XNoegbtnGlsWlEAnW92ywIODFmI4EJkGEg7OUxmew0+wFjXa+IA/s93heV7GH67iUNiNyhoEiPuBWtaxsNxO1v/OlLDEBY2TUmFSrP48UGtgCqDMHW1zGh1Zlqzy8a+oYZA2QJe2TtBzsegah8vb5Uw300vDLhZQzyhBsldh9pvcdwGLkMnLr7oezBbOBmViFIH0uq/Tu8gO/uSFbtkoRZf0ZOcaIbFT+1Su8LRLNtbqTFcY=;Y9lIG/hxo8V2zafGMs3vBQ=="
 ---
