@@ -208,20 +208,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "China keenly developing homegrown AI GPUs for chatbot apps"
-    excerpt: "Chinese GPU developers including Jingjia Microelectronics and Innosilicon are developing homegrown AI GPUs at full throttle to keep up with the AI boom spurred by the growing popularity of ChatGPT, especially now that the US has banned Nvidia and AMD..."
-    publishedDateTime: 2023-03-22T09:29:00Z
-    webUrl: "https://www.digitimes.com/news/a20230322PD200/ai-gpu-china-ernie-bot-generative-ai-ic-design-distribution.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230322pd200_files/3_r.jpg"
-        width: 336
-        height: 224
-        isCached: true
   - title: "The Morning After: Google expands access to its AI chatbot, Bard"
     excerpt: "The big difference between Google and Bing’s integration is the alternative responses that Bard throws up alongside the conversation. You can click the dropdown arrow next to \"View other drafts\" at the top left of each chat bubble to see some other suggestions."
     publishedDateTime: 2023-03-22T13:12:00Z

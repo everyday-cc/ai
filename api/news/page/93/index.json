@@ -2,40 +2,6 @@
   "page": 93,
   "value": [
     {
-      "path": "_news/2023-01-11-researchers-investigate-when-how-healthcare-ai-models-will-fail.md",
-      "title": "Researchers Investigate When, How Healthcare AI Models Will Fail",
-      "excerpt": "Researchers are exploring strategies to identify when AI suggests a solution for clinical decision-making that isn’t effective in practice.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/researchers-investigate-when-how-healthcare-ai-models-will-fail",
-      "originalUrl": "https://healthitanalytics.com/news/researchers-investigate-when-how-healthcare-ai-models-will-fail",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/researchers-investigate-when-how-healthcare-ai-models-will-fail",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/researchers-investigate-when-how-healthcare-ai-models-will-fail",
-      "publishedDateTime": "2023-01-11T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-11-new-driverless-rideshare-cruise-caught-on-video-driving-in-the-wrong-lane-multiple-times.md",
       "title": "New driverless rideshare Cruise caught on video driving in the wrong lane multiple times",
       "excerpt": "AUSTIN, Texas — A new driverless rideshare, Cruise LLC, was seen driving in the wrong lane multiple times over the weekend. It's a rideshare company similar to Uber, except there's no human driver.",
@@ -1133,6 +1099,49 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-report-microsoft-could-invest-10b-in-openai-at-29b-valuation.md",
+      "title": "Report: Microsoft could invest $10B in OpenAI at $29B valuation",
+      "excerpt": "The sources believe that Microsoft could be joined by multiple venture capital firms in the investment. Internal OpenAI documents reportedly suggest that the group had sought to close the investment by the end of 2022,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/01/10/report-microsoft-invest-10b-openai-29b-valuation/",
+      "originalUrl": "https://siliconangle.com/2023/01/10/report-microsoft-invest-10b-openai-29b-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/microsoft.png",
+          "width": 718,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T10:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

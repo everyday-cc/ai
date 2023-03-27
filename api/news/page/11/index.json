@@ -2,49 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2023-03-16-how-ai-is-altering-health-care-in-michigan.md",
-      "title": "How AI is altering health care in Michigan",
-      "excerpt": "At CoreweIl Health in Grand Rapids, AI algorithms are deciphering patterns in a CAT scan that humans can’t see. Grand Blanc-based McLaren Health Care is using AI imaging analysis of stroke patients to pinpoint potentially fatal blood clots in the brain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-health-care-michigan",
-      "originalUrl": "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-health-care-michigan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bridgemi.com/sites/default/files/styles/large/public/2023-03/AI%20healthcare%20shutterstock.jpg?itok=F2c1uM73",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-health-care-michigan?amp",
-      "cdnAmpWebUrl": "https://www-bridgemi-com.cdn.ampproject.org/c/s/www.bridgemi.com/michigan-health-watch/how-ai-altering-health-care-michigan?amp",
-      "publishedDateTime": "2023-03-16T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bridge Magazine",
-        "domain": "bridgemi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-16-how-ai-is-altering-healthcare-in-michigan.md",
       "title": "How AI is altering healthcare in Michigan",
       "excerpt": "At CoreweIl Health in Grand Rapids, AI algorithms are deciphering patterns in a CAT scan that humans can’t see. Grand Blanc-based McLaren Health Care is using AI imaging analysis of stroke patients to pinpoint potentially fatal blood clots in the brain.",
@@ -1222,6 +1179,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shar.md",
+      "title": "Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shar",
+      "excerpt": "There is no recent news for this security. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/quotes/UBOT",
+      "originalUrl": "https://www.cnbc.com/quotes/UBOT",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

@@ -43,20 +43,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Raja Koduri leaves Intel to start generative AI gaming software company"
-    excerpt: "Having taken a leave of absence from his role as head of the Radeon Technologies Group at AMD in September 2017, Koduri a month later announced"
-    publishedDateTime: 2023-03-22T10:18:00Z
-    webUrl: "https://www.techspot.com/news/98029-raja-koduri-leaves-intel-start-generative-ai-gaming.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 67
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2017/11/2017-11-08-image-14.jpg"
-        width: 800
-        height: 489
-        isCached: true
   - title: "GPU Chief Raja Koduri Quits To Form Generative AI Startup"
     excerpt: "NEW DELHI, (IANS) – Indian American Raja Koduri, head of Intel’s Accelerated Computing Systems and Graphics Group, has quit the chip-making major to form his ... create a new software co around generative AI for gaming, media and entertainment ..."
     publishedDateTime: 2023-03-23T17:45:00Z

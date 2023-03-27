@@ -2,49 +2,6 @@
   "page": 116,
   "value": [
     {
-      "path": "_news/2022-12-14-amazons-alexa-adds-text-to-speech-gestures-and-captioning-features.md",
-      "title": "Amazon's Alexa Adds Text-to-Speech, Gestures and Captioning Features",
-      "excerpt": "Amazon on Tuesday added three new Alexa features to its Echo Show smart display that are geared toward improving accessibility. The first, called Gestures, lets users dismiss timers by just ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/home/smart-home/amazons-alexa-adds-text-to-speech-gestures-and-captioning-features/",
-      "originalUrl": "https://www.cnet.com/home/smart-home/amazons-alexa-adds-text-to-speech-gestures-and-captioning-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T16:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-14-minerva-university-ai-research-lab-turns-concepts-into-startups.md",
       "title": "Minerva University AI Research Lab Turns Concepts into Startups",
       "excerpt": "The Minerva University AI Research Lab has brought together groups of students to create and pitch their own AI tools, with an emphasis on addressing the ethical and technical concerns about the technology.",
@@ -1117,6 +1074,49 @@
         "AI Ethics",
         "AI in Robotics",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-researchers-identify-new-immune-culprit-in-alzheimers-disease.md",
+      "title": "Researchers identify new 'immune culprit' in Alzheimer's disease",
+      "excerpt": "Advertisement According to Gate, the study offers new information on the role of the immune system in patients living with cognitive impairment, which is a symptom of Alzheimer's disease.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Health_News/2022/12/13/cerebrospinal-fluid-cognitive-impairment-study/8051670940934/",
+      "originalUrl": "https://www.upi.com/Health_News/2022/12/13/cerebrospinal-fluid-cognitive-impairment-study/8051670940934/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/8051670940934/2022/1/16709445212077/v1.5/Researchers-identify-new-immune-culprit-in-Alzheimers-disease.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/Health_News/2022/12/13/cerebrospinal-fluid-cognitive-impairment-study/8051670940934/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/Health_News/2022/12/13/cerebrospinal-fluid-cognitive-impairment-study/8051670940934/",
+      "publishedDateTime": "2022-12-13T08:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

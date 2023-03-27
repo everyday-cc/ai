@@ -107,6 +107,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition Software Market Size, Trends and Forecast 2030"
+    excerpt: "Voice Recognition Software Market Insights 2023 by Types (Voice commands, dictation , Turning audio into text ,"
+    publishedDateTime: 2023-03-25T03:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-size-trends-and-forecast-2030-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "krDQzhFHYyTaT+C1vL935qt8S2vKUJe/E/xo18AadSEzmWof6geuOmi77dxKR0vdBRXa9DaHPS0PCTDPLyLMqroyOtSXgzrbwC0iSjJYvfjyjJgOFSkNicyFU8JvT0yoeWaBbnC23RD1FtrIrEn/sG32Yc0Mr7Ct1n4W/Wd8PFhYdwHZitUIzmRgXCqwvYRJ6hW+lXPFBbO8Bl7Pr6zPJo82f8Qr8AC+lUNR6i1Gi3BKsIdsizPASD8DBfi7UVwyOb8ttn27h7qCgr9JjYAUVXCLoS3MS3+GMIBxsZhiFhTH+9KGef8HEp6ANHwH/Btn0FIr3sAniaYW7KeT3+6EYBTx+zrzJtumPRmYj00p0fc=;xAd1ouzz2mGL8bgssq1krQ=="
 ---

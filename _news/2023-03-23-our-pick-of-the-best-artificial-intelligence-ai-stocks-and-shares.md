@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/advisor/in/investing/best-artificial-intell
 webUrl: "https://www.forbes.com/advisor/in/investing/best-artificial-intelligence-ai-stocks-shares/"
 type: article
 quality: 92
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/725453/artificial-intelligence-ai-on-circuit-board.jpg"
         width: 2359
         height: 1270
-        isCached: true
-  - title: "The 3 Best AI Stocks to Buy Right Now"
-    excerpt: "Better still, demand for the computing tools offered through Microsoft's Azure cloud infrastructure platform is ... In February, AWS formed a partnership with Hugging Face, a leading machine-learning development platform. AWS will make its highly regarded ..."
-    publishedDateTime: 2023-03-22T09:43:00Z
-    webUrl: "https://www.fool.com/investing/2023/03/22/the-best-ai-stocks-to-buy-right-now/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 73
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/725274/artificial-intellegence-ai-gettyimages-1345658982.jpg"
-        width: 2309
-        height: 1299
         isCached: true
   - title: "Why Most Analysts are Bearish on AI Stock"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips C3.ai (NYSE:AI) has pulled back in recent weeks, but it’s fair to say"

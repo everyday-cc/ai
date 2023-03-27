@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-automotive-speech
 webUrl: "https://www.marketwatch.com/press-release/global-automotive-speech-recognition-system-market-to-grow-from-2023-2026-2023-03-24"
 type: article
 quality: 68
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "LegalTech Artificial Intelligence Market Growth and Competitive Landscape 2023-2029"
-    excerpt: "Mar 22, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “LegalTech Artificial"
-    publishedDateTime: 2023-03-22T09:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/legaltech-artificial-intelligence-market-growth-and-competitive-landscape-2023-2029-2023-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self Tanning Products Market 2023 | Future Exploration by 2027"
     excerpt: "Mar (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Latest “Self Tanning Products"
     publishedDateTime: 2023-03-26T10:21:00Z
@@ -71,15 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive Collaboration Market Growth and Competitive Landscape 2023-2029"
-    excerpt: "Mar 22, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Cognitive Collaboration"
-    publishedDateTime: 2023-03-22T09:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-collaboration-market-growth-and-competitive-landscape-2023-2029-2023-03-22"
+  - title: "Automatic Speech Recognition(ASR) Software Market Outlook: Predictions and Projections for 2028 And Beyond"
+    excerpt: "Global Automatic Speech Recognition(ASR) Software Market Report (123 Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https ..."
+    publishedDateTime: 2023-03-24T18:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-outlook-predictions-and-projections-for-2028-and-beyond-2023-03-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -89,20 +89,6 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "Adobe unveils new image-generating AI tools designed not to plagiarize material"
-    excerpt: "For its line of advertising and marketing software, Adobe is also introducing text generating and conversational AI tools powered by models including Microsoft Corp.’s Azure OpenAI service. Salesforce Inc., which competes with some of Adobe’s ..."
-    publishedDateTime: 2023-03-22T09:04:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/03/22/adobe-unveils-new-image-generating-ai-tools-designed-not-to-plagiarize-material"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 35
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/03/22/1990032.jpg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "GitHub teases Copilot X, powered by GPT-4"
     excerpt: "Microsoft-owned entities such as Azure and GitHub are reaping the benefits of Microsoft’s multibillion, multiyear partnership with OpenAI."
     publishedDateTime: 2023-03-22T15:16:00Z

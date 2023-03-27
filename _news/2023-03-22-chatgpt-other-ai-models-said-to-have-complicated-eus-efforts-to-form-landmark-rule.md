@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Those Generative AI ChatGPT And GPT-4 Outputs And Interaction Might Be Portraying Too Much Humility For Our Own Good, Says AI Ethics And AI Law"
-    excerpt: "ChatGPT and its successor GPT-4 will often interact and produce outputted essays that seem to exhibit humility, but some in AI Ethics and AI Law worry that this is a troubling trend. Here's why."
-    publishedDateTime: 2023-03-22T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/22/those-generative-ai-chatgpt-and-gpt-4-outputs-and-interaction-might-be-portraying-too-much-humility-for-our-own-good-says-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/22/those-generative-ai-chatgpt-and-gpt-4-outputs-and-interaction-might-be-portraying-too-much-humility-for-our-own-good-says-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/22/those-generative-ai-chatgpt-and-gpt-4-outputs-and-interaction-might-be-portraying-too-much-humility-for-our-own-good-says-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641a5f449007f9459b4b2898/0x0.jpg?format=jpg&crop=1455,819,x110,y75,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Texas lawmaker uses ChatGPT to deliver remarks on AI bill"
     excerpt: "That’s why we need HB 2060.” He said the council created by this proposal would monitor use of AI by state agencies, examine the need for a code of ethics for AI systems and recommend policies to protect Texans’ privacy. “House Bill 2060 is a ..."
     publishedDateTime: 2023-03-22T20:38:00Z

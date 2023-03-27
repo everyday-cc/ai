@@ -29,50 +29,99 @@ images:
     isCached: true
 
 related:
-  - title: "A US Agency Rejected Face Recognition—and Landed in Big Trouble"
-    excerpt: "He’d decided that Login.gov, which provides a secure way to access dozens of government apps and websites, wouldn’t use selfies and face recognition to verify the identity of people creating new accounts. “The benefits of liveness/selfie do not ..."
-    publishedDateTime: 2023-03-22T11:00:00Z
-    webUrl: "https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/"
-    ampWebUrl: "https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/641a4ef3b19ad4e3186e06c8/master/pass/US-Govt-Breaks-Its-Own-Facial-Recognition-Rules-Business-1247661398.jpg"
-        width: 1800
-        height: 2400
-        isCached: true
-  - title: "Automatic Speech Recognition(ASR) Software Market Outlook: Predictions and Projections for 2028 And Beyond"
-    excerpt: "Global Automatic Speech Recognition(ASR) Software Market Report (123 Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https ..."
-    publishedDateTime: 2023-03-24T18:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-outlook-predictions-and-projections-for-2028-and-beyond-2023-03-24"
+  - title: "Automated Machine Learning (AutoML) Market 2023 Size and Forecast to 2030"
+    excerpt: "“Global Automated Machine Learning (AutoML) market has witnessed a growth from USD million to USD million from 2017 to 2022. With a CAGR of this market is estimated to reach USD million in 2029.”Ask for Sample Report GlobalAutomated Machine Learning ..."
+    publishedDateTime: 2023-03-23T03:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-2023-size-and-forecast-to-2030-2023-03-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 85
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Recognition dinner held for those in recovery"
-    excerpt: "Dana Walls, left, with Sara Blythe at the Recovery Recognition Dinner held March 10 at The Pines Evergreen Room in Seymour. The two women are good friends and met through Leaving the 99 Ministry. The Recovery Recognition Dinner was all about hope and possibilities."
-    publishedDateTime: 2023-03-24T06:00:00Z
-    webUrl: "https://tribtown.com/2023/03/24/recognition-dinner-held-for-those-in-recovery/"
+  - title: "Automated Machine Learning (AutoML) Market Outlook and Forecast to 2031 with Top Countries Data"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (The Expresswire) -- The \"Automated Machine Learning (AutoML) Market\" study describes how the technology industry is evolving and how major and emerging players ..."
+    publishedDateTime: 2023-03-24T20:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-outlook-and-forecast-to-2031-with-top-countries-data-2023-03-24"
     type: article
     provider:
-      name: Seymour Tribune
-      domain: tribtown.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
     images:
-      - url: "https://tribtown.com/wp-content/uploads/2023/03/130927434_web1_20230322st-girl-friends.jpg"
-        width: 801
-        height: 1068
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Artificial Intelligence in Manufacturing and Supply Chain Market LATEST REPORT 2023 to 2030"
+    excerpt: "The global Artificial Intelligence in Manufacturing and Supply Chain market size was valued at USD 1458669.56 million in 2022 and is expected to expand at a CAGR of 21.67% during the forecast period, reaching USD 4731719.69 million by 2028. The report ..."
+    publishedDateTime: 2023-03-24T21:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-and-supply-chain-market-latest-report-2023-to-2030-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Latest \"Machine Learning Market\" Dynamics and Forecast 2031"
+    excerpt: "Mar 25, 2023 (The Expresswire) -- Report Highlights with 115 pages:-\"The global Machine Learning market size was valued at USD 14304.85 million in 2022 and is expected to expand at a CAGR of 48.64% during the forecast period, reaching USD 154282.83 million ..."
+    publishedDateTime: 2023-03-25T22:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-machine-learning-market-dynamics-and-forecast-2031-2023-03-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Latest \"Facial Recognition Market\" Size, Competitors and Forecast to 2031"
+    excerpt: "Report Highlights with 98 pages: -\"The global Facial Recognition market size was valued at USD 4491.54 million in 2022"
+    publishedDateTime: 2023-03-25T14:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-facial-recognition-market-size-competitors-and-forecast-to-2031-2023-03-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automatic Speech Recognition Market Premium Research Report Forecast 2023 To 2029"
+    excerpt: "Mar 24, 2023 (The Expresswire) -- [128+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Automatic Speech Recognition Market” Size 2023 Key players Profiled in ..."
+    publishedDateTime: 2023-03-24T15:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-premium-research-report-forecast-2023-to-2029-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023 to 2030 Self-Driving Cars and Light Trucks Market Regional Outlook"
+    excerpt: "The Self-Driving Cars and Light Trucks market has witnessed a growth from USD million to USD million from 2017 to 2022. With a CAGR of Percent this market is estimated to reach USD million in 2029. The report focuses on the Self-Driving Cars and Light ..."
+    publishedDateTime: 2023-03-22T19:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-to-2030-self-driving-cars-and-light-trucks-market-regional-outlook-2023-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
 
 secured: "QUBkAkUWNBJ4a6X/HIwM+MoJoyJaf7IjcHt/Bb+b2YtQg9NLX3pS2TNMBiEqhL2XpvbWJtLNV2L/Gdes3G7SoJ59Yf24OqVIM7eQH814LJFxhrBJdqtZ4EyFnARFZwR7S5OLmKxEvFWygcIZUKlJmIQAGnBoYOnFZvUdNqdmwl7o1kxhTJ34A+s7QNqdFgPkWm9uDTUKHmr1d834AEhF6JIxpqQoFevbaYZ2Zm6tPL38eiDigysZTLVVZfObrkdAVkNPPH1Ff+7JMSKkuVDwsUcwI7xlJIkk2OABvjLSbaNfW4Navg30Hemvcar2lbthk6Vsfibf1F5W5q8g40zoOfsNWX4SGuIhDZVthPHYqF0=;Q59NoO+O88ZcSC5lQmAPUg=="
 ---

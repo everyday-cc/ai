@@ -1,21 +1,31 @@
 ---
 category: news
 title: "Workplace Analytics and AI-Powered Skills-Mapping Platforms Named ISG Startup Challenge Winners"
-excerpt: "STAMFORD, Conn.–(BUSINESS WIRE)–$III #ISGEvents–Technology platforms that facilitate collaboration and improved workplace experience and identify strengths and ..."
-publishedDateTime: 2023-03-24T16:42:00Z
-originalUrl: "https://www.01net.it/workplace-analytics-and-ai-powered-skills-mapping-platforms-named-isg-startup-challenge-winners/"
-webUrl: "https://www.01net.it/workplace-analytics-and-ai-powered-skills-mapping-platforms-named-isg-startup-challenge-winners/"
+excerpt: "Technology platforms that facilitate collaboration and improved workplace experience and identify strengths and gaps"
+publishedDateTime: 2023-03-24T15:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/workplace-analytics-and-ai-powered-skills-mapping-platforms-named-isg-startup-challenge-winners-2023-03-24"
+webUrl: "https://www.marketwatch.com/press-release/workplace-analytics-and-ai-powered-skills-mapping-platforms-named-isg-startup-challenge-winners-2023-03-24"
 type: article
-quality: 5
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Three Ways To Increase ROI On AI-Driven Data And Analytics Transformation"
@@ -62,6 +72,6 @@ related:
       domain: tmcnet.com
     quality: 5
 
-secured: "c8HIfpdB8siXBw2U/Yc7Pn8L/ml7JB7wq4QVAzDOFHU0kXpm5J+4wW+gT978rXgnk/y+jfI718YHNKf1qswT/rMirlhMFucKT8DOb9eSIfUmMuy7njxUU5DvCMIk9VLLi1AXBlzkFTpJlzGysbXkB4chQ9RwaJLx1k9RS4iIYSAzcwPIwGlcJeY1Vyq3eCa1e3/YkrXqANYAyATh6eN5hJrPmgRnHgdsfgJOg5fXOoSUehhviFzDs2LCc1+iFdma5p5FaBIr505/n72CJdpqo+cv6wlYzSGgMsea3kQ8A4xCARN5D9l5iat0s4Cne7NUaXFDSQlsV4h0uQMjvvHw0cp9ETyu4BiHmu9XiwBEOQhcBJrzokT4ePudh3nlFufukQBMUqD5UQR99GiTmvGOuAr3rTSJ5frDHyZf7VQ6mkHdABoyvz4Ob6AdPAlKnnX1/mJE8zxlW4IztK/SRr5vVixTUNXPaM2GCKa6BGRf9dGqKU1ec7lEvrRlg4wpnuXvs21/asDwwbQQdkF44RetQA==;VUto+2vSQKmro8rBR5Ikhw=="
+secured: "RyiUA05d/d7KwTwysUCDWozyq9fjxj279qBwT/snHatLaaNOxxOiI6Km2tV8cr1loQl+9Ey39DLM9PEIMWIQ9kOUdMdJEedQkxqtYY/OoxYJNhBNN66CGhXFMmXdQoGHFJ41fgB0Je7Hso180UxWpun7Q6MgkxYsKC+1Knd/dYTdkUoiKwZd0lcb2w4M00EtzNe7HP4mJwyEs4FxlX4ZulteGpgqBwm0jDYJaA1YOKx2qr2c6PcGf7qgLOTcMMmdOsxXNPqguBajHPuMQ43kUnfIcmN9QAJSg9W6K4yuot3R1WzjiUOJDgGca3nOtgna8JeWpNMA3VhzCsyB8vjgabe0ik5oGl94aSoI/3+dLTY=;6kPGj9fz3se6pNgWNUspjQ=="
 ---
 

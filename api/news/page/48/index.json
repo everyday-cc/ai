@@ -2,58 +2,6 @@
   "page": 48,
   "value": [
     {
-      "path": "_news/2023-02-10-your-essential-guide-to-generative-ai-chatgpt-via-the-super-bowl-plus-bonus-ai-ethics-and-ai-law-insights.md",
-      "title": "Your Essential Guide To Generative AI ChatGPT Via The Super Bowl, Plus Bonus AI Ethics And AI Law Insights",
-      "excerpt": "Those in AI Ethics and AI Law are notably worried about this burgeoning trend of outstretched claims. You might politely say that some people are overstating what today’s AI can actually do. They assume that AI has capabilities that we haven’t yet been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/10/your-essential-guide-to-generative-ai-chatgpt-and-the-super-bowl-plus-bonus-ai-ethics-and-ai-law-insights/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/10/your-essential-guide-to-generative-ai-chatgpt-and-the-super-bowl-plus-bonus-ai-ethics-and-ai-law-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63e5ee0f389df072e721a49e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/10/your-essential-guide-to-generative-ai-chatgpt-and-the-super-bowl-plus-bonus-ai-ethics-and-ai-law-insights/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/02/10/your-essential-guide-to-generative-ai-chatgpt-and-the-super-bowl-plus-bonus-ai-ethics-and-ai-law-insights/amp/",
-      "publishedDateTime": "2023-02-10T03:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-10-global-artificial-neural-networks-market-to-reach-13-billion-by-2030.md",
       "title": "Global Artificial Neural Networks Market To Reach $1.3 Billion By 2030",
       "excerpt": "New York, Feb. 10, 2023 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report 'Global Artificial Neural Networks Industry' - Food and fuel inflation will remain a persistent ...",
@@ -1159,6 +1107,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-10-sportradar-launches-computer-vision.md",
+      "title": "Sportradar launches Computer Vision",
+      "excerpt": "Sportradar has launched Computer Vision, a live tracking system for sports that utilises AI software. Computer Vision can analyse a live video feed at 120 frames per second, and collect 100 times ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.broadcastnow.co.uk/tech-innovation/sportradar-launches-computer-vision/5179002.article",
+      "originalUrl": "https://www.broadcastnow.co.uk/tech-innovation/sportradar-launches-computer-vision/5179002.article",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/5/2/2/1390522_sportradarcomputervisiontabletennis1_786333.jpg",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T08:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Broadcast",
+        "domain": "broadcastnow.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

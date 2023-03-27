@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Workplace Analytics and AI-Powered Skills-Mapping Platforms Named ISG Startup Challenge Winners"
+    excerpt: "Technology platforms that facilitate collaboration and improved workplace experience and identify strengths and gaps"
+    publishedDateTime: 2023-03-24T15:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/workplace-analytics-and-ai-powered-skills-mapping-platforms-named-isg-startup-challenge-winners-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Grid Dynamics Achieves AWS Data & Analytics Competency Partner Status"
     excerpt: "The AWS Data & Analytics Competency differentiates Grid Dynamics ... big data, analytics, search, artificial intelligence, cloud & DevOps, and application modernization. Grid Dynamics achieves high speed-to-market, quality, and efficiency by using ..."
     publishedDateTime: 2023-03-23T12:52:00Z
@@ -52,15 +66,6 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 18
-  - title: "Workplace Analytics and AI-Powered Skills-Mapping Platforms Named ISG Startup Challenge Winners"
-    excerpt: "STAMFORD, Conn.–(BUSINESS WIRE)–$III #ISGEvents–Technology platforms that facilitate collaboration and improved workplace experience and identify strengths and ..."
-    publishedDateTime: 2023-03-24T16:42:00Z
-    webUrl: "https://www.01net.it/workplace-analytics-and-ai-powered-skills-mapping-platforms-named-isg-startup-challenge-winners/"
-    type: article
-    provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 5
 
 secured: "7gHMTWNL1JzeLteXJoZp6zaC7vmQHto2lUAa6KIWxwIzqN/I2Eru+J3BFP/h4yegblCFQy7EldzHVXNQCnbI1E2tbT9/z1NcQCKcmXhzgHQ936j+qX2YYaNPNRMcUj7m+mIXctplnigH8nReO96LLQ55eM4sjvXLT7Hekby9fAxANGlNPltsOBFgTngcFmLiLecbDK38mBupCJT0OvFEcm6wbFhtlQ+fwqDPJfpWeGgneyxF/eb9sew8X3KUJVSaMyJ+TCojClZR2vEgqq+QHaqSVHxfxc6f4iQINVBGPPbRla7QXGNuX8MFiSrI3uLzfcHRkNLHxk/VOdqDbi7BksIEWG/qDYeCACozEmLisWA=;4WhPFUHIlsAUfcUbZz6Gcg=="
 ---

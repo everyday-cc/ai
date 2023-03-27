@@ -2,57 +2,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2023-03-13-grammarlys-new-ai-tool-can-do-more-than-check-your-spelling.md",
-      "title": "Grammarly's New AI Tool Can Do More Than Check Your Spelling",
-      "excerpt": "Grammarly can check your spelling and grammar in real-time, but it'll soon be able to do more than that. The company is expanding its artificial intelligence resources with a new generative AI tool called GrammarlyGo that the company says is intended to improve communication.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/grammarlys-new-ai-tool-can-do-more-than-check-your-spelling/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/grammarlys-new-ai-tool-can-do-more-than-check-your-spelling/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/180b84e91f88d00e04a2b302f44fb34e4cb87625/hub/2023/03/08/22777e2e-8f78-40b6-8f7c-5df081336227/grammarlygo-compose.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/grammarlys-new-ai-tool-can-do-more-than-check-your-spelling/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/grammarlys-new-ai-tool-can-do-more-than-check-your-spelling/",
-      "publishedDateTime": "2023-03-12T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-12-how-ai-and-machine-learning-are-revolutionising-business-intelligence.md",
       "title": "How AI and Machine Learning are revolutionising Business Intelligence",
       "excerpt": "This is where Artificial Intelligence (AI) and Machine Learning (ML) come in – they can help businesses to sift through the data noise and extract actionable insights.With the aid of automation ...",
@@ -1172,6 +1121,48 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-11-ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane.md",
+      "title": "Ex-Apple execs net $100 million in investments for AI startup Humane",
+      "excerpt": "Through its partnership with Volvo, Humane will work on a potential collaboration to apply AI in the automotive industry, the company said. “Our first device will enable people to bring AI with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.10news.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane",
+      "originalUrl": "https://www.10news.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/c6f27c8/2147483647/strip/true/crop/960x540+0+90/resize/1280x720!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1678464059_f3PddI.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.10news.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane?_amp=true",
+      "cdnAmpWebUrl": "https://www-10news-com.cdn.ampproject.org/c/s/www.10news.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane?_amp=true",
+      "publishedDateTime": "2023-03-10T08:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC 10 News",
+        "domain": "10news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Workplace Analytics and AI-Powered Skills-Mapping Platforms Named ISG Startup Challenge Winners"
+    excerpt: "Technology platforms that facilitate collaboration and improved workplace experience and identify strengths and gaps"
+    publishedDateTime: 2023-03-24T15:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/workplace-analytics-and-ai-powered-skills-mapping-platforms-named-isg-startup-challenge-winners-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pimloc hires US sales leader, taking its AI-powered video privacy and analytics technology to North America"
     excerpt: "Pimloc, the company using artificial intelligence (AI) to anonymise personal data in videos announces the hire of its first sales leader in North America, Tom Fashola, who will serve as Vice"
     publishedDateTime: 2023-03-22T11:51:00Z
@@ -44,15 +58,6 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 18
-  - title: "Workplace Analytics and AI-Powered Skills-Mapping Platforms Named ISG Startup Challenge Winners"
-    excerpt: "STAMFORD, Conn.–(BUSINESS WIRE)–$III #ISGEvents–Technology platforms that facilitate collaboration and improved workplace experience and identify strengths and ..."
-    publishedDateTime: 2023-03-24T16:42:00Z
-    webUrl: "https://www.01net.it/workplace-analytics-and-ai-powered-skills-mapping-platforms-named-isg-startup-challenge-winners/"
-    type: article
-    provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 5
   - title: "Workplace Analytics and AI-Powered Skills-Mapping Platforms Named ISG Startup Challenge Winners"
     excerpt: "Technology platforms that facilitate collaboration and improved workplace experience and identify strengths and gaps in workforce skills were voted the winners of ISG Startup Challenges at events hosted in London and New York by Information Services Group (ISG) (Nasdaq: III),"
     publishedDateTime: 2023-03-24T21:24:00Z

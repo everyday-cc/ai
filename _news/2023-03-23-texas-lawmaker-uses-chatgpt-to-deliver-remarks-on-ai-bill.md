@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Those Generative AI ChatGPT And GPT-4 Outputs And Interaction Might Be Portraying Too Much Humility For Our Own Good, Says AI Ethics And AI Law"
-    excerpt: "ChatGPT and its successor GPT-4 will often interact and produce outputted essays that seem to exhibit humility, but some in AI Ethics and AI Law worry that this is a troubling trend. Here's why."
-    publishedDateTime: 2023-03-22T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/22/those-generative-ai-chatgpt-and-gpt-4-outputs-and-interaction-might-be-portraying-too-much-humility-for-our-own-good-says-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/22/those-generative-ai-chatgpt-and-gpt-4-outputs-and-interaction-might-be-portraying-too-much-humility-for-our-own-good-says-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/22/those-generative-ai-chatgpt-and-gpt-4-outputs-and-interaction-might-be-portraying-too-much-humility-for-our-own-good-says-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641a5f449007f9459b4b2898/0x0.jpg?format=jpg&crop=1455,819,x110,y75,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "ChatGPT Alternatives: 10 AI Tools You Can Try To Become More Productive"
     excerpt: "ChatDOC is a ChatGPT-based file reading assistant the can quickly extract, locate and summarize information from doucments/PDFs. Google also launched its AI assistant Bard for limited countries. It will soon roll out to other countries as well."
     publishedDateTime: 2023-03-26T16:07:00Z

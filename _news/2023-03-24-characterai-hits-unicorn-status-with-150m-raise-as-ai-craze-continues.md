@@ -203,20 +203,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "China keenly developing homegrown AI GPUs for chatbot apps"
-    excerpt: "Chinese GPU developers including Jingjia Microelectronics and Innosilicon are developing homegrown AI GPUs at full throttle to keep up with the AI boom spurred by the growing popularity of ChatGPT, especially now that the US has banned Nvidia and AMD..."
-    publishedDateTime: 2023-03-22T09:29:00Z
-    webUrl: "https://www.digitimes.com/news/a20230322PD200/ai-gpu-china-ernie-bot-generative-ai-ic-design-distribution.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230322pd200_files/3_r.jpg"
-        width: 336
-        height: 224
-        isCached: true
   - title: "You wait ages for an AI chatbot to come along, then a whole bunch turn up. Why?"
     excerpt: "The fact that ChatGPT isn’t the only machine-learning program out there is down to the way in which tech breakthroughs arise"
     publishedDateTime: 2023-03-25T20:34:00Z

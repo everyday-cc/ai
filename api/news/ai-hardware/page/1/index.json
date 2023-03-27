@@ -46,49 +46,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-25-chinas-ai-ambitions-hindered-by-funding-and-chip-import-issues.md",
-      "title": "China’s AI ambitions hindered by funding and chip import issues",
-      "excerpt": "China’s tech giants are facing significant hurdles in their race to develop and dominate the artificial intelligence (AI) market, with censorship and a US clampdown on chip imports impeding progress. Last week, Baidu, one of China’s leading search ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/03/25/china-ai-ambitions-funding-chip-import-issues/",
-      "originalUrl": "https://www.gizmochina.com/2023/03/25/china-ai-ambitions-funding-chip-import-issues/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-24T23:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-25-bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying.md",
       "title": "Bill Gates's Open Letter Suggests AI's Potential Is Both Exciting And Terrifying",
       "excerpt": "Its 30% increase in share price since the start of the year is also likely boosted by its acquisition of AI healthcare company Caption Health. Chip company Nvidia, which is announcing AI partnerships all over the place at the moment, is now collaborating ...",
@@ -201,7 +158,7 @@
       "originalUrl": "https://www.forbes.com/advisor/in/investing/best-artificial-intelligence-ai-stocks-shares/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -361,7 +318,7 @@
       "originalUrl": "https://venturebeat.com/ai/speech-ai-supercomputing-cloud-gpus-llms-generative-ai-nvidia-next-big-moves/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -573,7 +530,7 @@
       "originalUrl": "https://www.business-standard.com/article/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1484,6 +1441,58 @@
         "name": "India TV",
         "domain": "indiatvnews.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-baidu-shares-fall-after-ernie-ai-chatbot-demo-disappoints.md",
+      "title": "Baidu shares fall after Ernie AI chatbot demo disappoints",
+      "excerpt": "For months, the company had diverted internal resources to building Ernie, two people said, including reallocating most of Baidu’s servers running Nvidia’s powerful A100 chips to the AI team. OpenAI’s release of ChatGPT last November had caught Baidu ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/baidu.jpg",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1&amp",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1&amp",
+      "publishedDateTime": "2023-03-17T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

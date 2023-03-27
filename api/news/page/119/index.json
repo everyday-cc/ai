@@ -2,57 +2,6 @@
   "page": 119,
   "value": [
     {
-      "path": "_news/2022-12-13-startup-podium-adds-to-the-growing-list-of-tech-layoffs.md",
-      "title": "Startup Podium Adds To The Growing List Of Tech Layoffs",
-      "excerpt": "Podium - the software designed to help small businesses \"build their online reputation\" - is joining the growing list of tech companies laying off staff. What are the impacts of recent tech layoffs? And how should investors adjust accordingly?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/12/12/startup-podium-adds-to-the-growing-list-of-tech-layoffs/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/12/12/startup-podium-adds-to-the-growing-list-of-tech-layoffs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63975eaad0868b400d3ef9b4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 832,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/12/12/startup-podium-adds-to-the-growing-list-of-tech-layoffs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/12/12/startup-podium-adds-to-the-growing-list-of-tech-layoffs/amp/",
-      "publishedDateTime": "2022-12-12T08:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-13-is-ai-a-risk-to-creativity-the-answer-is-not-so-simple.md",
       "title": "Is AI A Risk To Creativity? The Answer Is Not So Simple",
       "excerpt": "As AI continues to advance, some may be wondering whether or not AI is a risk or a resource. But the answer isn't so simple.",
@@ -1156,6 +1105,49 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-12-driverless-cars-on-cruise-control-are-coming-to-a-street-near-you.md",
+      "title": "Driverless cars on cruise control are coming to a street near you",
+      "excerpt": "Driverless cars have yet to reach the streets of Halifax, but perhaps residents should keep their eyes peeled. Though its cobblestones “might prove to be challenging”, Oliver Cameron, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetimes.co.uk/article/driverless-cars-on-cruise-control-are-coming-to-a-street-near-you-0dg8x8h8x",
+      "originalUrl": "https://www.thetimes.co.uk/article/driverless-cars-on-cruise-control-are-coming-to-a-street-near-you-0dg8x8h8x",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F55e9d2c8-7976-11ed-bcd8-855e06175970.jpg?crop=5382%2C3028%2C1307%2C1417&resize=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-11T16:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times",
+        "domain": "thetimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

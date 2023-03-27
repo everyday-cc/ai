@@ -2,58 +2,6 @@
   "page": 69,
   "value": [
     {
-      "path": "_news/2023-02-02-ai-company-co-founder-addresses-ethics-of-tom-cruise-deepfake-videos.md",
-      "title": "AI Company Co-Founder Addresses Ethics of Tom Cruise 'Deepfake' Videos",
-      "excerpt": "It started as an art project, then the Tom Cruise 'deepfake' videos went viral on TikTok. Now a co-founder of an artificial intelligence (AI)",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/currencies/ai-company-founder-addresses-ethics-of-tom-cruise-deepfake-videos-1032060499",
-      "originalUrl": "https://markets.businessinsider.com/news/currencies/ai-company-founder-addresses-ethics-of-tom-cruise-deepfake-videos-1032060499",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.coindesk.com/resizer/oko5AqArqAk7G2MGm1chPvIJZME=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PEPA47DVHRH6FDIZ2OELRYFTWM.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-01T13:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-01-how-to-decide-between-amazon-rekognition-image-and-video-api-for-video-moderation.md",
       "title": "How to decide between Amazon Rekognition image and video API for video moderation",
       "excerpt": "Almost 80% of today’s web content is user-generated, creating a deluge of content that organizations struggle to analyze with human-only processes. The availability of consumer information helps them make decisions, from buying a new pair of jeans to securing home loans. In a recent survey, 79% of consumers",
@@ -1186,6 +1134,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-01-self-driving-bus-project-to-test-journeys-without-staff-on-board.md",
+      "title": "Self-driving bus project to test journeys without staff on board",
+      "excerpt": "A project developing what the Government believes will be the world’s first full-size self-driving bus service will test if smaller vehicles can operate without a staff member on board.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/self-driving-bus-project-test-090554411.html",
+      "originalUrl": "https://www.aol.com/self-driving-bus-project-test-090554411.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/NhlezHhPYgc6MBQsjv_XFQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/41e76b554f0d9f59fe32c74991140f42",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-01T01:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

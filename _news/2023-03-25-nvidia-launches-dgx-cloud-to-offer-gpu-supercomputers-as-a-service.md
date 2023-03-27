@@ -158,24 +158,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Nvidia aims to bring AI to every industry"
-    excerpt: "ChatGPT is just the start of a rapid uptake of artificial intelligence (AI) across the board. With computing now advancing at what he called “lightspeed,” Nvidia founder and CEO Jensen Huang has announced a broad set of partnerships with Google,"
-    publishedDateTime: 2023-03-22T09:58:00Z
-    webUrl: "https://it-online.co.za/2023/03/22/nvidia-aims-to-bring-ai-to-every-industry/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
-  - title: "Nvidia lets any enterprise access an AI supercomputer"
-    excerpt: "Microsoft Azure is expected to begin hosting DGX Cloud next quarter ... amount and type of DGX infrastructure needed for each job. DGX Cloud includes Nvidia AI Enterprise, the software layer of the Nvidia AI platform, which provides end-to-end AI ..."
-    publishedDateTime: 2023-03-22T09:29:00Z
-    webUrl: "https://it-online.co.za/2023/03/22/nvidia-lets-any-enterprise-access-an-ai-supercomputer/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
   - title: "NVIDIA Launches Inference Platforms for Large Language Models and Generative AI Workloads"
     excerpt: "NVIDIA launched four inference platforms optimized for a diverse set of rapidly emerging generative AI applications — helping developers quickly build specialized, AI-powered applications that can deliver new services and insights."
     publishedDateTime: 2023-03-22T12:59:00Z

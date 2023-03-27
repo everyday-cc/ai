@@ -134,20 +134,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 32
-  - title: "Final Voice to Parliament referendum question takes shape"
-    excerpt: "\"Constitutional recognition through Voice should be an issue that is above partisan politics, and we are encouraged by a broad consensus in support of this Bill across the Parliament.\" The mobile polling period for remote communities will be extended to 19 ..."
-    publishedDateTime: 2023-03-22T10:50:00Z
-    webUrl: "https://www.sbs.com.au/news/article/final-voice-to-parliament-referendum-question-takes-shape/0piah7b6y"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 24
-    images:
-      - url: "https://images.sbs.com.au/dims4/default/83438e6/2147483647/strip/true/crop/2000x1125+0+104/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F7c%2F51%2Fb51c080a41b6bda06c721c683a0b%2Flinda-burney-parliament-aap.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Australian PM Reveals Question For Indigenous Voice Referendum"
     excerpt: "If successful, the Voice will advise Parliament on issues relating to Indigenous peoples. It will also be put to voters that the constitution be amended to include a new chapter titled \"Recognition of Aboriginal and Torres Strait Islander Peoples\"."
     publishedDateTime: 2023-03-23T09:42:00Z

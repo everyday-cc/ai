@@ -155,24 +155,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Nvidia aims to bring AI to every industry"
-    excerpt: "ChatGPT is just the start of a rapid uptake of artificial intelligence (AI) across the board. With computing now advancing at what he called “lightspeed,” Nvidia founder and CEO Jensen Huang has announced a broad set of partnerships with Google,"
-    publishedDateTime: 2023-03-22T09:58:00Z
-    webUrl: "https://it-online.co.za/2023/03/22/nvidia-aims-to-bring-ai-to-every-industry/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
-  - title: "Nvidia lets any enterprise access an AI supercomputer"
-    excerpt: "Microsoft Azure is expected to begin hosting DGX Cloud next quarter ... amount and type of DGX infrastructure needed for each job. DGX Cloud includes Nvidia AI Enterprise, the software layer of the Nvidia AI platform, which provides end-to-end AI ..."
-    publishedDateTime: 2023-03-22T09:29:00Z
-    webUrl: "https://it-online.co.za/2023/03/22/nvidia-lets-any-enterprise-access-an-ai-supercomputer/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
   - title: "Nvidia launches DGX Cloud to offer GPU supercomputers-as-a-Service"
     excerpt: "Offered through existing cloud providers, the DGX Cloud services provide access to dedicated clusters of Nvidia DGX hardware, which can be rented on a monthly basis. Each instance of DGX Cloud features eight Nvidia H100 or A100 80GB Tensor Core GPUs for a total of 640GB of GPU memory per node."
     publishedDateTime: 2023-03-24T18:44:00Z
