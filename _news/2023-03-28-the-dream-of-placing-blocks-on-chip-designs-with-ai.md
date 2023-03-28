@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 95
 published: true
 
 provider:

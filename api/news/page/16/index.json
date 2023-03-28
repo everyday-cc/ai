@@ -2,57 +2,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_news/2023-03-15-artificial-intelligence-is-going-to-destroy-social-media.md",
-      "title": "Artificial Intelligence Is Going To Destroy Social Media",
-      "excerpt": "It might be just another Friday on the calendar, but it’s actually the day a well-known social media company announced their own demise. It’s also the beginning of the end for all social media. What’s really happening here?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnbbrandon/2023/03/14/artificial-intelligence-is-going-to-destroy-social-media/",
-      "originalUrl": "https://www.forbes.com/sites/johnbbrandon/2023/03/14/artificial-intelligence-is-going-to-destroy-social-media/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6410d7349e3cc108f64167ff/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnbbrandon/2023/03/14/artificial-intelligence-is-going-to-destroy-social-media/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/03/14/artificial-intelligence-is-going-to-destroy-social-media/amp/",
-      "publishedDateTime": "2023-03-14T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-15-google-previews-generative-ai-features-for-workspace-users-developers.md",
       "title": "Google previews generative AI features for Workspace users, developers",
       "excerpt": "Computing giant Google announced today that it will release previews of three new AI features, including AI composition for Google Workspace, developer prototyping and coding via PaLM and MakerSuite,",
@@ -1170,6 +1119,58 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-the-philosopher-a-conversation-with-grady-booch.md",
+      "title": "The philosopher: A conversation with Grady Booch",
+      "excerpt": "Our recent conversation touched on both practical and philosophical aspects of human-computer interaction and co-evolution, artificial intelligence ... the world in its ability to carry out Rogerian therapy … or at least a fair illusion of it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3689914/the-philosopher-a-conversation-with-grady-booch.html",
+      "originalUrl": "https://www.infoworld.com/article/3689914/the-philosopher-a-conversation-with-grady-booch.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/03/grady-100938301-medium.jpg?auto=webp&quality=85,70",
+          "width": 300,
+          "height": 314,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3689914/the-philosopher-a-conversation-with-grady-booch.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3689914/the-philosopher-a-conversation-with-grady-booch.amp.html",
+      "publishedDateTime": "2023-03-14T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

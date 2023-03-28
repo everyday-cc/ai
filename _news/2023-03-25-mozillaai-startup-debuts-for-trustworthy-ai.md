@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mozilla introduces new startup to build open, trustworthy AI"
-    excerpt: "Mozilla, the developer of the Firefox Internet browser, has introduced a new startup called Mozilla.ai, which the company hopes \"will build a trustworthy and independent open-source AI ecosystem\". The company said that it is initially investing $30 million ..."
-    publishedDateTime: 2023-03-23T09:23:00Z
-    webUrl: "https://www.dailypioneer.com/2023/technology/mozilla-introduces-new-startup-to-build-open--trustworthy-ai.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 37
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2023/story/images/big/mozilla-introduces-new-startup-to-build-open--trustworthy-ai-2023-03-23.jpg"
-        width: 1000
-        height: 800
-        isCached: true
   - title: "Mozilla reveals AI startup with $30 million investment"
     excerpt: "Mozilla, the developer of the Firefox Internet browser, has introduced a new startup called Mozilla.ai to build an independent open-source AI ecosystem. Mozilla is initially investing $30 million to build this new startup. “The vision for Mozilla.ai is ..."
     publishedDateTime: 2023-03-23T17:30:00Z

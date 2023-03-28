@@ -9,7 +9,7 @@ ampWebUrl: "https://cointelegraph.com/news/7-artificial-intelligence-examples-in
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/7-artificial-intelligence-examples-in-everyday-life/amp"
 type: article
 quality: 61
-heat: 62
+heat: 61
 published: false
 
 provider:

@@ -54,49 +54,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-27-big-tech-and-the-pursuit-of-ai-dominance.md",
-      "title": "Big tech and the pursuit of AI dominance",
-      "excerpt": "The announcements add to a spate of similar ones in the past month or so from America’s tech titans. OpenAI, the startup which is part-owned by Microsoft and which created ChatGPT , an AI conversationalist that has taken the world by storm,",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/big-tech-and-the-pursuit-of-ai-dominance-11679904285056.html",
-      "originalUrl": "https://www.livemint.com/technology/big-tech-and-the-pursuit-of-ai-dominance-11679904285056.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/03/27/600x338/2-0-1390309169-istockphoto-1130152320-2048x2048-0_1679763214342_1679905001190_1679905001190.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/big-tech-and-the-pursuit-of-ai-dominance/amp-11679904285056.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/big-tech-and-the-pursuit-of-ai-dominance/amp-11679904285056.html",
-      "publishedDateTime": "2023-03-27T01:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-26-generative-ai-in-the-enterprise-use-cases-early-learnings.md",
       "title": "Generative AI In The Enterprise - Use Cases & Early Learnings",
       "excerpt": "GPT becomes an attractive alternative for companies looking to switch their manual call centers into a more responsive, always-on, and more efficient capability.",
@@ -158,7 +115,7 @@
       "originalUrl": "https://www.forbes.com/sites/saibala/2023/03/25/microsoft-plans-to-use-ai-to-solve-a-huge-pain-point-for-doctors/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 284,
+      "heat": 274,
       "tags": null,
       "images": [
         {
@@ -199,58 +156,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-these-3-ai-stocks-could-outperform-the-sp-500-in-a-bull-market.md",
-      "title": "These 3 AI Stocks Could Outperform the S&P 500 in a Bull Market",
-      "excerpt": "but Microsoft's hefty investments in OpenAI -- the start-up that created the \"generative AI\" chatbot ChatGPT -- might help Microsoft reach those estimates. Microsoft has already integrated ChatGPT into its search engine Bing and its Azure cloud ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/03/24/these-3-ai-stocks-outperform-sp-500-in-bull/",
-      "originalUrl": "https://www.fool.com/investing/2023/03/24/these-3-ai-stocks-outperform-sp-500-in-bull/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/725503/digital-brain.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-24T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -314,7 +219,7 @@
       "originalUrl": "https://www.forbes.com/advisor/in/investing/best-artificial-intelligence-ai-stocks-shares/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -1499,6 +1404,111 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-microsoft-365s-ai-powered-copilot-is-like-an-omniscient-version-of-clippy.md",
+      "title": "Microsoft 365’s AI-powered Copilot is like an omniscient version of Clippy",
+      "excerpt": "Microsoft also stressed its commitment to \"building responsibly.\" Despite allegedly laying off an entire team dedicated to AI ethics, Microsoft says it has \"a multidisciplinary team of researchers, engineers and policy experts\" looking for and mitigating ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/03/microsoft-365s-ai-powered-copilot-is-like-an-omniscient-version-of-clippy/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/03/microsoft-365s-ai-powered-copilot-is-like-an-omniscient-version-of-clippy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/ms-copilot-hero-800x489.jpeg",
+          "width": 800,
+          "height": 489,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/03/microsoft-365s-ai-powered-copilot-is-like-an-omniscient-version-of-clippy/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/microsoft-365s-ai-powered-copilot-is-like-an-omniscient-version-of-clippy/amp/",
+      "publishedDateTime": "2023-03-16T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-microsoft-tries-to-justify-ais-tendency-to-give-wrong-answers-by-saying-theyre-usefully-wrong.md",
+      "title": "Microsoft tries to justify AI's tendency to give wrong answers by saying they're 'usefully wrong'",
+      "excerpt": "Current AI technologies like ChatGPT can often produce inaccurate responses, which presents a problem as Microsoft adds AI to Word, Excel, and other products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/03/16/microsoft-justifies-ais-usefully-wrong-answers.html",
+      "originalUrl": "https://www.cnbc.com/2023/03/16/microsoft-justifies-ais-usefully-wrong-answers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107177565-1673483190912-gettyimages-1244789744-SKOREA_MICROSOFT.jpeg?v=1678992124",
+          "width": 4000,
+          "height": 2668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/03/16/microsoft-justifies-ais-usefully-wrong-answers.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/16/microsoft-justifies-ais-usefully-wrong-answers.html",
+      "publishedDateTime": "2023-03-16T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI",
         "Microsoft AI"
       ]

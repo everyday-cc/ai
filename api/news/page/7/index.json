@@ -2,57 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2023-03-22-bill-gates-ai-is-most-important-tech-advance-in-decades.md",
-      "title": "Bill Gates: AI is most important tech advance in decades",
-      "excerpt": "Developed by OpenAI, ChatGPT is an AI chatbot which is programmed to answer questions online using natural, human-like language. The team behind it in January 2023 received a multibillion dollar investment from Microsoft - where Mr Gates still serves as an advisor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-65032848",
-      "originalUrl": "https://www.bbc.com/news/technology-65032848",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/ABFB/production/_129072044_gettyimages-1247163886.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-65032848.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65032848.amp",
-      "publishedDateTime": "2023-03-21T12:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-22-microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps.md",
       "title": "Microsoft adds GPT-4 in Azure OpenAI Service for businesses to make their own AI apps",
       "excerpt": "Microsoft has been on a tear with its AI-related announcements over the last few days, and it's not stopping. Today, after revealing the new Bing Image Creator in its Bing Chat service, the company has just announced it is adding GPT-4 to its Azure OpenAI ...",
@@ -1221,6 +1170,49 @@
       "topics": [
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-cruise-wants-to-test-self-driving-cars-all-over-california.md",
+      "title": "Cruise wants to test self-driving cars all over California",
+      "excerpt": "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/",
+      "originalUrl": "https://www.cbsnews.com/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/21/e1471390-7c0a-4509-a92e-4b502f299e14/thumbnail/1200x630/df5a2ef88b525bb1e94fc02d6fe0e736/ap23079861951135.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/",
+      "publishedDateTime": "2023-03-21T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

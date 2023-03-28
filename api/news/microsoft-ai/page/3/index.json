@@ -2,110 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-03-10-reducing-costs-removing-complexity-and-unlocking-efficiencies-how-financial-services-organisations-in-anz-are-doing-more-with-less.md",
-      "title": "Reducing costs, removing complexity and unlocking efficiencies: How financial services organisations in ANZ are doing more with less",
-      "excerpt": "One of those is National Australia Bank (NAB), which used Microsoft’s Azure Cognitive Services and Bot Framework to create a unique chatbot to handle tech support requests from its 40,000-plus workforce. The chatbot saved NAB A$1.2 million in support ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/en-au/features/reducing-costs-removing-complexity-and-unlocking-efficiencies-how-financial-services-organisations-in-anz-are-doing-more-with-less/",
-      "originalUrl": "https://news.microsoft.com/en-au/features/reducing-costs-removing-complexity-and-unlocking-efficiencies-how-financial-services-organisations-in-anz-are-doing-more-with-less/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.microsoft.com/wp-content/uploads/prod/sites/66/2023/03/1920-x-original-OMB-10-24-hero-GettyImages-1341846254-1536x1024-1.jpg",
-          "width": 1536,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-ai-first-infrastructure-the-key-to-faster-time-to-market.md",
-      "title": "AI-first infrastructure: The key to faster time to market",
-      "excerpt": "Purpose-built cloud infrastructure is the best way to quickly and economically grow AI at scale to create business value and growth.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-first-infrastructure-the-key-to-faster-time-to-market/",
-      "originalUrl": "https://venturebeat.com/ai/ai-first-infrastructure-the-key-to-faster-time-to-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/02/AdobeStock_552748421.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-first-infrastructure-the-key-to-faster-time-to-market/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-first-infrastructure-the-key-to-faster-time-to-market/amp/",
-      "publishedDateTime": "2023-03-09T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-10-is-ai-the-perfect-ally-to-complete-digital-transformation.md",
       "title": "Is AI the Perfect Ally to Complete Digital Transformation?",
       "excerpt": "Digital transformation has become an indispensable initiative by organizations in the form of a wide range of technologies like SaaS, IoT (Internet of Things), VR (Virtual Reality), ML (Machine Learning),",
@@ -1364,6 +1260,92 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-microsoft-launches-new-cognitive-speech-services-features-to-accelerate-language-learning.md",
+      "title": "Microsoft Launches New Cognitive Speech Services Features to Accelerate Language Learning",
+      "excerpt": "Microsoft Azure Cognitive Speech Services is a comprehensive collection of technologies and services such as Speech to Text, Text to Speech, custom neural voice (CNV) Conversation Transcription ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2023/03/microsoft-cognitive-new-speech/",
+      "originalUrl": "https://www.infoq.com/news/2023/03/microsoft-cognitive-new-speech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2023/03/microsoft-cognitive-new-speech/en/headerimage/generatedHeaderImage-1677605516513.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T03:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-cognitive-dissonance-how-it-might-affect-our-health.md",
+      "title": "Cognitive Dissonance: How It Might Affect Our Health?",
+      "excerpt": "It is not necessary that our beliefs and behaviour are always in alignment. This phenomenon is called cognitive dissonance when we are caught between two conflicting ideas, beliefs, values and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehealthsite.com/diseases-conditions/cognitive-dissonance-how-it-might-affect-our-health-958211/",
+      "originalUrl": "https://www.thehealthsite.com/diseases-conditions/cognitive-dissonance-how-it-might-affect-our-health-958211/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://st1.thehealthsite.com/wp-content/uploads/2023/03/cognitive-dissonance.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehealthsite.com/diseases-conditions/cognitive-dissonance-how-it-might-affect-our-health-958211/amp/",
+      "cdnAmpWebUrl": "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/cognitive-dissonance-how-it-might-affect-our-health-958211/amp/",
+      "publishedDateTime": "2023-03-02T03:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheHealthSite",
+        "domain": "thehealthsite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

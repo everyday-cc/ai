@@ -64,20 +64,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Video Interview: NRO’s Aaron Weiner on How AI is Driving Intelligence Missions Forward"
-    excerpt: "Executive Mosaic spoke with Dr. Aaron Weiner, director of the advanced systems and technology directorate at the National Reconnaissance Office, to better understand how the NRO is looking at the great power competition,"
-    publishedDateTime: 2023-03-23T09:52:00Z
-    webUrl: "https://www.govconwire.com/2023/03/video-interview-nros-aaron-weiner-on-how-ai-is-driving-intelligence-missions/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 31
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2023/03/unnamed-file-147.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "XBMxVTgMMX7Bx14R9SCGY4fE5ujSlfkFKk7RDC83ouL3VwDv/PmqtwvX1zXB4mVB4mtQDA7HtLCTuQuf7smoNNc7KrtCElEs6T8S0MZyxOhEXh6baw25SxmSE42SwIkIsoPGNhnMzFRB9izGvsrpN/LaFfEX1IGYTWq2K344e6C9OfC/NHz+sz+E2Ob7Ksc9ZwcXK26NTEWXshv4wM67Iv6WxVadB5gVfStBrewFoO2x2Up0x/d5WLZRKDw4UJ2i866PZpShfoG2LO6IoNEi0qPxIHPvTLZ/2yWNx5BUQUkFZ34eSTopp4iPU3K2GPwSsKAl2vsUMKU66DS/J41AI2zhCL+d3kKXgG6mLMj10Uk=;Cb1nUGjA9X/SMKmGRGFjXw=="
 ---

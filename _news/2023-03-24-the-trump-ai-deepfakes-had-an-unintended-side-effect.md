@@ -7,7 +7,7 @@ originalUrl: "https://www.theatlantic.com/culture/archive/2023/03/fake-trump-arr
 webUrl: "https://www.theatlantic.com/culture/archive/2023/03/fake-trump-arrest-images-ai-generated-deepfakes/673510/"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1679715939/230324-deepfakes-hero1_hgciiq"
         width: 1200
         height: 675
-        isCached: true
-  - title: "It takes a few dollars and 8 minutes to create a deepfake. And that's only the start"
-    excerpt: "With just a photograph & 60 seconds of audio, you can now create a deepfake of yourself in just a matter of minutes by combining a few cheap AI tools. I've tried it myself, and the results are mind-blowing, even if they're not completely convincing."
-    publishedDateTime: 2023-03-23T09:42:00Z
-    webUrl: "https://www.houstonpublicmedia.org/npr/2023/03/23/1165146797/it-takes-a-few-dollars-and-8-minutes-to-create-a-deepfake-and-thats-only-the-start/"
-    type: article
-    provider:
-      name: Houston Public Media
-      domain: houstonpublicmedia.org
-    quality: 15
-    images:
-      - url: "https://media.npr.org/assets/img/2023/03/22/deep-fake-video_wide-aff9448244d5548a16621c82cede8c98956acc26.jpg"
-        width: 2396
-        height: 1348
         isCached: true
 
 secured: "y1EfEGrtX+vv56J8cL1fQg0nAKcbRKRD5gbQbbRn9XpeVg7mwue7bufrHcy0F4IFVKcbE2vypojHplTNcakF9Hpt3fzi2+n+Kjbm2CLgWvgUBLTTdJdaO+X1s4oPXb3OrdLZwpWqAOtfkZ+/zigHTzXZywx4FZownyBxCwsC40rhcG1jmHvAf8s8Ws1pxba95X3BeUexYIvUc2ko+lAftjHTraFKZ/PD3EQuTtOXMricoKpvepDw1LQiRbNLsXyCrUF3933QMklOrA/2mX2lgShoz23RI/p7Yot+SUrXGT3vIibLnf/cOqS2N5uC1QTrK4qgPnsBY6sjDrA/Y5W2ExINCLChJQ1HwoE0ACtgAiTxfsuC/dit4u9b6RHeArb+g4UqquyMfJyI026hTUzzhRFAFgD+Jla8A5h1wjziUJEpogfUmTDsvvDLwTOVUvs7uSf/m5/FbEyOnTAKno8W6Fj6U+b0/6y9VarRg9oooPI9HU+NqoVmW3CPkpKs7pCZT/bjJTAJ50CSuUONrBKgjg==;5jfkVxO3hGegxCDi3A0rgA=="

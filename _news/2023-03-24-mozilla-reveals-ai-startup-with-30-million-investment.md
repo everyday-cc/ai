@@ -7,7 +7,7 @@ originalUrl: "https://infotechlead.com/artificial-intelligence/mozilla-reveals-a
 webUrl: "https://infotechlead.com/artificial-intelligence/mozilla-reveals-ai-startup-with-30-million-investment-77522"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mozilla introduces new startup to build open, trustworthy AI"
-    excerpt: "Mozilla, the developer of the Firefox Internet browser, has introduced a new startup called Mozilla.ai, which the company hopes \"will build a trustworthy and independent open-source AI ecosystem\". The company said that it is initially investing $30 million ..."
-    publishedDateTime: 2023-03-23T09:23:00Z
-    webUrl: "https://www.dailypioneer.com/2023/technology/mozilla-introduces-new-startup-to-build-open--trustworthy-ai.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 37
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2023/story/images/big/mozilla-introduces-new-startup-to-build-open--trustworthy-ai-2023-03-23.jpg"
-        width: 1000
-        height: 800
-        isCached: true
   - title: "Mozilla.ai Startup Debuts for 'Trustworthy AI'"
     excerpt: "Mozilla, with a mantra of making \"browsers, apps, code and tools that put people before profit,\" seeks a different way with Mozilla.ai. As of now, the startup's web site basically consists of only this: [Click on image for larger view.] Mozilla.ai (source ..."
     publishedDateTime: 2023-03-24T21:32:00Z

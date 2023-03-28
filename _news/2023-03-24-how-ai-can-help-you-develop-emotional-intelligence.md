@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/03/24/how-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/03/24/how-ai-can-help-you-develop-emotional-intelligence/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://www.unite.ai/wp-content/uploads/2023/03/intellabs-1000x600.png"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Video Interview: NRO’s Aaron Weiner on How AI is Driving Intelligence Missions Forward"
-    excerpt: "Executive Mosaic spoke with Dr. Aaron Weiner, director of the advanced systems and technology directorate at the National Reconnaissance Office, to better understand how the NRO is looking at the great power competition,"
-    publishedDateTime: 2023-03-23T09:52:00Z
-    webUrl: "https://www.govconwire.com/2023/03/video-interview-nros-aaron-weiner-on-how-ai-is-driving-intelligence-missions/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 31
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2023/03/unnamed-file-147.png"
-        width: 1200
-        height: 628
         isCached: true
   - title: "'AI, can I deduct that?' The top five overlooked tax deductions and how AI can help you find more."
     excerpt: "The AI models are even trained to flag highly complex returns for ... When it comes to saving cash on gadgets, remember, many “budget” smartphones still start in the $500-$800 range, so be sure to shop for deals and look at all your options, including ..."

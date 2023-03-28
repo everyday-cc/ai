@@ -2,49 +2,6 @@
   "page": 25,
   "value": [
     {
-      "path": "_news/2023-03-07-artificial-intelligence-ai-robots-market-overview-of-its-size-trend-of-current-scenario-2028.md",
-      "title": "Artificial Intelligence (AI) Robots Market Overview Of Its Size, Trend Of Current Scenario 2028",
-      "excerpt": "(MENAFN- The Express Wire) The Global Research Report Artificial Intelligence (AI) Robots Market size was valued at USD 8919.76 million in 2022 'artificial intelligence (ai) robots market' report ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105720434/Artificial-Intelligence-AI-Robots-Market-Overview-Of-Its-Size-Trend-Of-Current-Scenario-2028",
-      "originalUrl": "https://menafn.com/1105720434/Artificial-Intelligence-AI-Robots-Market-Overview-Of-Its-Size-Trend-Of-Current-Scenario-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?362696",
-          "width": 374,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-07T03:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-07-will-a-robot-take-your-job-study-reveals-the-careers-that-face-the-highest-risk-of-being-replaced-by-ai-with-call-centre-workers-english.md",
       "title": "Will a robot take YOUR job? Study reveals the careers that face the highest risk of being replaced by AI - with call centre workers, English and History teachers topping the list",
       "excerpt": "They did this by linking 10 AI-powered applications, like translation, language modelling and image generation, to 52 human abilities, like oral comprehension and arm-hand steadiness.",
@@ -1126,6 +1083,50 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-choosing-between-azure-and-aws-the-ultimate-guide.md",
+      "title": "Choosing Between Azure and AWS: The Ultimate Guide",
+      "excerpt": "The Ultimate Guide\" provides a comprehensive comparison of the two most popular cloud computing platforms, Azure and AWS. It covers various factors like workloads, pricing, support, and security, which should be considered before making a decision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2369506-choosing-between-azure-and-aws-the-ultimate-guide",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2369506-choosing-between-azure-and-aws-the-ultimate-guide",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/06_03_2023_14_52_33_9477074.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2369506-choosing-between-azure-and-aws-the-ultimate-guide?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2369506-choosing-between-azure-and-aws-the-ultimate-guide?amp",
+      "publishedDateTime": "2023-03-06T01:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
       ]
     }
   ],

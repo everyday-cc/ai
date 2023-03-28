@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/27/apple-acquired-a-startup-using-ai-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/27/apple-acquired-a-startup-using-ai-to-compress-videos/amp/"
 type: article
 quality: 87
-heat: 207
+heat: 198
 published: true
 
 provider:
@@ -135,20 +135,6 @@ related:
       - url: "https://images.macrumors.com/t/ihTXdqcXcQVGLfy75fYYMN0NB8c=/1600x/article-new/2023/03/WaveOne-Apple.jpeg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Apple bolsters its AI technology with acquisition of WaveOne startup"
-    excerpt: "The report says Apple “quietly” acquired the Mountain View-based company WaveOne, a startup that was “developing AI algorithms for compressing video.” Apple didn’t confirm the acquisition, but WaveOne executive Bob Stankosh revealed the news in a ..."
-    publishedDateTime: 2023-03-27T14:22:00Z
-    webUrl: "https://9to5mac.com/2023/03/27/apple-ai-acqusition-waveone/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/waveone-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Vegas Bot AI starts Presale with the bang, users can secure revenue with their advanced AI-powered strategies"
     excerpt: "With Chatbot AI's rising popularity, Vegas Bot AI strives to take natural language processing and machine learning a notch higher to better serve customers globally. Chatbot AI And Its Features Chatbot AI is a computer software that uses natural language ..."

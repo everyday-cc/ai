@@ -37,6 +37,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Immaculate AI images of Pope Francis trick the masses"
+    excerpt: "The pope image, created using Midjourney v5 (an AI image synthesis model), first appeared in a tweet by a user named Leon ( @skyferrori) on Saturday and quickly began circulating as part of other meme tweets featuring similar images as well,"
+    publishedDateTime: 2023-03-27T21:42:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/03/the-power-of-ai-compels-you-to-believe-this-fake-image-of-pope-in-a-puffy-coat/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/03/the-power-of-ai-compels-you-to-believe-this-fake-image-of-pope-in-a-puffy-coat/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/the-power-of-ai-compels-you-to-believe-this-fake-image-of-pope-in-a-puffy-coat/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/03/tomaz_Pope_Francis_in_a_1990s_white_puffer_jacket_30527b3d-32f8-4074-8a15-a3b92963f528-640x426.png"
+        width: 640
+        height: 426
+        isCached: true
   - title: "Pope Francis: An ethical AI respects human dignity"
     excerpt: "Credit: Vatican Media Pope Francis said he welcomes the regulation of artificial intelligence so that it might contribute to a better world. He also said he is reassured to know many people working on new technologies put ethics, the common good ..."
     publishedDateTime: 2023-03-27T16:00:00Z

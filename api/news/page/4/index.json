@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-03-24-oracle-new-ai-enabling-features-to-mysql-heatwave.md",
-      "title": "Oracle New AI-Enabling Features To MySQL HeatWave",
-      "excerpt": "MySQL HeatWave simplifies this process with its AutoML features for accelerating the development of machine-learning models. AutoML allows you to train models and generate inferences and explanations without ever extracting the data from the MySQL database.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/03/23/oracle-new-ai-enabling-features-to-mysql-heatwave/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/03/23/oracle-new-ai-enabling-features-to-mysql-heatwave/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641caea87aa7f07c504ff5b1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/03/23/oracle-new-ai-enabling-features-to-mysql-heatwave/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/03/23/oracle-new-ai-enabling-features-to-mysql-heatwave/amp/",
-      "publishedDateTime": "2023-03-23T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-24-best-spring-cleaning-robot-vacuum-deals.md",
       "title": "Best spring cleaning robot vacuum deals",
       "excerpt": "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ...",
@@ -356,7 +304,7 @@
       "originalUrl": "https://www.gizmochina.com/2023/03/23/aqara-smart-video-doorbell-g4-on-device-ai-facial-recognition-launched/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -614,7 +562,7 @@
       "originalUrl": "https://www.forbes.com/advisor/in/investing/best-artificial-intelligence-ai-stocks-shares/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -1246,6 +1194,57 @@
         "name": "NBC News",
         "domain": "nbcnews.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-mozilla-launches-a-new-startup-focused-on-trustworthy-ai.md",
+      "title": "Mozilla launches a new startup focused on ‘trustworthy’ AI",
+      "excerpt": "Mozilla, the nonprofit behind software like Firefox, has launched a new startup, Mozilla.ai, focused on developing trustworthy AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/22/mozilla-launches-a-new-startup-focused-on-trustworthy-ai/",
+      "originalUrl": "https://techcrunch.com/2023/03/22/mozilla-launches-a-new-startup-focused-on-trustworthy-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-956152050.jpg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/22/mozilla-launches-a-new-startup-focused-on-trustworthy-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/mozilla-launches-a-new-startup-focused-on-trustworthy-ai/amp/",
+      "publishedDateTime": "2023-03-22T17:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/technology/big-tech-and-the-pursuit-of-ai-d
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/big-tech-and-the-pursuit-of-ai-dominance/amp-11679904285056.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Mint
@@ -36,20 +36,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "Generative AI Tools Threaten Big Tech's Digital Advertising Dominance"
-    excerpt: "Generative AI could undercut that revenue at a time the digital advertising ... Jamie MacEwan, a senior media analyst at the research firm Enders Analysis, said he sees ChatGPT as a potential factor in influencing where ad spend is directed."
-    publishedDateTime: 2023-03-23T10:24:00Z
-    webUrl: "https://www.law.com/corpcounsel/2023/03/23/generative-ai-tools-threaten-big-techs-digital-advertising-dominance/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/390/2023/03/Google-search-result-767x633-1.jpg"
-        width: 767
-        height: 633
-        isCached: true
 
 secured: "fsGgQkJC+eB+D+UBJOUMaC7bNcuNDp3OWjq6TdsfT7650UDwpva7QM2BfQkF69VhF2UcvQ2EujILsLuiuMhLPZsZaut/9+otZpKwMoO87tPiDIEdEBkA5mbEa5Xs6LvKFMQi6COjUt9OFOtTBmIDwDwAt3t7+cJbX3zbeE2LzYXRKiWWQGOd3HOZSybxkVFKOLdU9hAPRQZ63YDymsMrYvxvMoUQqyLxmHtFJ4W+3ovzkxkjt6s80YOi73jrDHS0sBsWqLZ3Ufj2YsKKmdBLDXu2xb8KRAP8FXOEHgY/WT26u5XDJv+JniU4qukZn4mrfjdeDMnWCXY5C/WlZ4aG3Xl3gzFkMowROyt3qBUNICBiTITpLaUcqfUNkublUCg5p9J2ByRfuDridgR4A/1OGOfi0jAenlemY6EQMWKa6whqh71IfIceBlRqD+fCvJ84N4b00ASRlmajvPtYhZmR1VJOLmHuXlK1wK73V8qqzKxTNkRhOx7byiOl9wYfVHALUxRoaOi45W+U1ugrKjkuLA==;rr1WpZAxUeeQSgZ7Wibd7g=="
 ---

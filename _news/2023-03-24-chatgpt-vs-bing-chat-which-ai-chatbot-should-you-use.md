@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-vs-bing-chat/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-vs-bing-chat/"
 type: article
 quality: 89
-heat: 459
+heat: 449
 published: true
 
 provider:
@@ -176,20 +176,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/0606kPUb7UJUANK86dXckjx-2.fit_lim.size_1200x630.v1679585246.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "AI chatbot Character.AI, with no revenue, raises $150 mln led by Andreessen Horowitz"
-    excerpt: "Character.AI has raised $150 million in a new funding round led by Andreessen Horowitz that valued the AI chatbot startup at $1 billion, and it's in talks with cloud providers for more strategic investment, the company told Reuters. The billion-dollar ..."
-    publishedDateTime: 2023-03-23T10:42:00Z
-    webUrl: "https://www.reuters.com/technology/ai-chatbot-characterai-with-no-revenue-raises-150-mln-led-by-andreessen-horowitz-2023-03-23/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 60
-    images:
-      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=134"
-        width: 1200
-        height: 628
         isCached: true
   - title: "How to use ChatGPT and other generative AI for business and in life"
     excerpt: "New AI language models are garnering a lot of interest ... ChatGPT can even help you with translation. - It can assist you in writing essays or long-form copy. - You can have a pleasant conversation with ChatGPT. - You can also use it to play games."

@@ -57,20 +57,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Australian PM Reveals Question For Indigenous Voice Referendum"
-    excerpt: "If successful, the Voice will advise Parliament on issues relating to Indigenous peoples. It will also be put to voters that the constitution be amended to include a new chapter titled \"Recognition of Aboriginal and Torres Strait Islander Peoples\"."
-    publishedDateTime: 2023-03-23T09:42:00Z
-    webUrl: "https://menafn.com/1105843794/Australian-PM-Reveals-Question-For-Indigenous-Voice-Referendum"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2023-03/23/I_a8f83image_story.jpg"
-        width: 400
-        height: 291
-        isCached: true
   - title: "Australian PM announces question for Indigenous Voice to Parliament referendum"
     excerpt: "Albanese was clear that the Voice would not have any form of veto power over the Government or legislation. Further, it was stated that the proposed changes would “enshrine two fundamental principles: Recognition and Consultation” within the Australian ..."
     publishedDateTime: 2023-03-23T13:21:00Z

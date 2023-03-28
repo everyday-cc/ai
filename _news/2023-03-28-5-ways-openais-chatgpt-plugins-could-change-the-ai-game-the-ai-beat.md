@@ -176,20 +176,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "AI chatbot Character.AI, with no revenue, raises $150 mln led by Andreessen Horowitz"
-    excerpt: "Character.AI has raised $150 million in a new funding round led by Andreessen Horowitz that valued the AI chatbot startup at $1 billion, and it's in talks with cloud providers for more strategic investment, the company told Reuters. The billion-dollar ..."
-    publishedDateTime: 2023-03-23T10:42:00Z
-    webUrl: "https://www.reuters.com/technology/ai-chatbot-characterai-with-no-revenue-raises-150-mln-led-by-andreessen-horowitz-2023-03-23/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 60
-    images:
-      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=134"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "How to use ChatGPT and other generative AI for business and in life"
     excerpt: "New AI language models are garnering a lot of interest ... ChatGPT can even help you with translation. - It can assist you in writing essays or long-form copy. - You can have a pleasant conversation with ChatGPT. - You can also use it to play games."
     publishedDateTime: 2023-03-26T09:21:00Z
@@ -514,6 +500,6 @@ related:
       domain: bizjournals.com
     quality: 8
 
-secured: "GAG9fD7tlWNfqCfuLpRa5qPEG94qEwT2GWhn4aLpOZfZ/Z49IEu60KsTV1dgqMw4Wf4y6OKj5NJkksVFJPVynfPD1HZ8X578wS0UE4bAtNY8lwK51gYXdD6kh7C64kNCyDLbbDLnbbOA7CHeJbiJbVV5MrfIgNJCzqJN1mzLyZi/fJXNdK0Su0+o9rInYznWUbwnuFWnpiVvQio9MbePf8SoD/4aOtWnOewcJehV5/+1NFgaFo6y8Ef9fq73tgeaIIEBqJFVNdsngEuV1JR5/26Q6x7QdVomtf0DWjg+zghSlV5sO0n78LodkZlwerx1Z7wP0NV4nfMcHOC48N+2Vao/TcWKOObvONUGgLGPQI0=;GLfU8KI7Dxt+01NU3uJeZA=="
+secured: "2LZ5KLpBfGBFWtmUYdyQYhDWhJHxxKYRrWEpIJOT/M2nG3ivLGDba+zNlj+V2uMCgI6AM3Ec/1Y/dYqps4LLLcIEmIUBag5bMBUN7YeFC4ZwZNMn6ew3k5Ew6D4F3oc0YWDZpk8WjNX0+IeOFLgjte2ZZ09E257AeR7P0QF0DlUF8C23DTcM6HmDAModYUGdWjY+mPe/e1xYYHkCBwV4vpPllPt3CzUfjqiHaScRt6S+rmKvOI+DAKFBwcfVash3VOzMPUZ/Cc1D5OIv92sUT15+kVJ/Blo8TKwrDal9SUQJfIEZabc2cxgTOdNjphdbtYYVlKEmaOplRSpIgcZX3TxbSArgulQcKSoMwZWZ7Jlq4VrISjR6vWz9eaVLhq4DxYhRk343K1o5h7uuiHWjEneHA9WhTK1dnWHpoyFjusV7/IiXw4ZVbHL5VTsR+C1dzDZB3EfrsnNeNSI8Cz2YjMC1kpNUsvDqHCMwJkwZ/UAPQmecwKfPphMeLKRmLVf8gdLFXBZtKBGQj8IUbyWX3A==;KcNpbiy0IE9A6+WITDE1rA=="
 ---
 

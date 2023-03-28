@@ -9,7 +9,7 @@ ampWebUrl: "https://tribune.com.pk/story/2407828/airport-gets-facial-recognition
 cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology?amp=1"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Get Your Hands on the Ultimate Mobile Phone Facial Recognition Technology Market Research Report [2023-2030]"
-    excerpt: "Our Most Recent Research Report Indicates that Mobile Phone Facial Recognition Technology Market is Set to Undergo Significant Changes in 2023 Compared to the Previous Year. [115 Pages Report] Our Mobile Phone Facial Recognition Technology Market research ..."
-    publishedDateTime: 2023-03-23T09:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/get-your-hands-on-the-ultimate-mobile-phone-facial-recognition-technology-market-research-report-2023-2030-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial recognition techniques nail robbers"
     excerpt: "Warrant officer Vanishree Abdul Rahim was the SAPS facial recognition techniques expert who did an analysis. She testified in court how she was able to determine that the accused were the same individuals seen in different instances, in the CCTV footage ..."
     publishedDateTime: 2023-03-26T11:12:00Z

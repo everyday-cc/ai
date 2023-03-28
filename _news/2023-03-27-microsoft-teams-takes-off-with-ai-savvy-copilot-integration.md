@@ -61,20 +61,6 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "Microsoft Is All-In on AI: 2 Ways It Will Benefit"
-    excerpt: "In addition to software, Microsoft is also testing AI chatbot integration into its popular Azure cloud computing services. The company calls it Azure OpenAI Service, and its capabilities span content generation, summarizing conversations, and code generation."
-    publishedDateTime: 2023-03-23T10:10:00Z
-    webUrl: "https://www.fool.com/investing/2023/03/23/microsoft-is-all-in-on-ai-2-ways-it-will-benefit/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/725379/gettyimages-1145585734.jpg"
-        width: 2190
-        height: 1369
-        isCached: true
   - title: "Microsoft Threatens to Restrict Data From Rival AI Search Tools"
     excerpt: "Microsoft Corp. has threatened to cut off access to its internet-search data, which it licenses to rival search engines, if they don’t stop using it as the basis for their own artificial intelligence chat products,"
     publishedDateTime: 2023-03-25T00:28:00Z

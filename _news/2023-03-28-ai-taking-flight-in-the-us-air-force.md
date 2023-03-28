@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Google's AI teams are experiencing a brain drain. Here's where its top researchers are now."
-    excerpt: "Considered a breakthrough in natural language processing, the Transformer model helps an AI understand meaning by looking at each ... on BERT and is considered well-suited for tasks like translation and summarizing. Sharan Narang, another contributor ..."
-    publishedDateTime: 2023-03-23T09:16:00Z
-    webUrl: "https://www.businessinsider.com/google-ai-teams-brain-drain-researchers-leave-2023-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-    images:
-      - url: "https://i.insider.com/641bd7c8b7834100191ae5c7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "From brain waves, this AI can sketch what you're picturing"
     excerpt: "Some experts say in the wrong hands, the AI model could be used for interrogations or surveillance. “I think the line is very thin between what could be empowering and oppressive,” said Nita Farahany, a Duke University professor of law and ethics in ..."
     publishedDateTime: 2023-03-25T12:05:00Z

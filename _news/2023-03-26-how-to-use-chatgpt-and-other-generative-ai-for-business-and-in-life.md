@@ -189,20 +189,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "AI chatbot Character.AI, with no revenue, raises $150 mln led by Andreessen Horowitz"
-    excerpt: "Character.AI has raised $150 million in a new funding round led by Andreessen Horowitz that valued the AI chatbot startup at $1 billion, and it's in talks with cloud providers for more strategic investment, the company told Reuters. The billion-dollar ..."
-    publishedDateTime: 2023-03-23T10:42:00Z
-    webUrl: "https://www.reuters.com/technology/ai-chatbot-characterai-with-no-revenue-raises-150-mln-led-by-andreessen-horowitz-2023-03-23/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 60
-    images:
-      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=134"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Intimate AI chatbot connections raise questions over tech's therapeutic role"
     excerpt: "As artificial intelligence gains more capabilities the public has flocked ... Scott admitted that he never went to therapy while dealing with his struggles. \"In hindsight, yeah, maybe that would've been a good idea,\" he said. Turkle said it is important ..."
     publishedDateTime: 2023-03-23T15:36:00Z

@@ -2,57 +2,6 @@
   "page": 88,
   "value": [
     {
-      "path": "_news/2023-01-18-why-are-getty-and-shutterstock-on-opposite-sides-of-the-ai-legal-debate.md",
-      "title": "Why are Getty and Shutterstock on opposite sides of the AI legal debate?",
-      "excerpt": "It has become clear that Getty and Shutterstock have diverged in their efforts to deal with the escalating legal issues around generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-are-getty-and-shutterstock-on-opposite-sides-of-the-ai-legal-debate/",
-      "originalUrl": "https://venturebeat.com/ai/why-are-getty-and-shutterstock-on-opposite-sides-of-the-ai-legal-debate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/01/Untitled-design-8.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-are-getty-and-shutterstock-on-opposite-sides-of-the-ai-legal-debate/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-are-getty-and-shutterstock-on-opposite-sides-of-the-ai-legal-debate/amp/",
-      "publishedDateTime": "2023-01-17T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-18-dlr-launches-ground-breaking-robot-control-software.md",
       "title": "DLR Launches Ground-Breaking Robot Control Software'",
       "excerpt": "Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control software. This innovative software -introduced for ...",
@@ -1144,6 +1093,58 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-defending-democracy-and-liberty-in-the-face-of-chinas-challenge.md",
+      "title": "Defending Democracy And Liberty In The Face Of China's Challenge",
+      "excerpt": "The newly established House Select Committee on Strategic Competition between the United States and the Chinese Communist Party holds crucial responsibility in addressing the challenges posed by the CCP.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/divyanshkaushik/2023/01/17/defending-democracy-and-liberty-in-the-face-of-chinas-challenge/",
+      "originalUrl": "https://www.forbes.com/sites/divyanshkaushik/2023/01/17/defending-democracy-and-liberty-in-the-face-of-chinas-challenge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c215b2b85b7aac67c92cf4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 777,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/divyanshkaushik/2023/01/17/defending-democracy-and-liberty-in-the-face-of-chinas-challenge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/divyanshkaushik/2023/01/17/defending-democracy-and-liberty-in-the-face-of-chinas-challenge/amp/",
+      "publishedDateTime": "2023-01-17T02:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

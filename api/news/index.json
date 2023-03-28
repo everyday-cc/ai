@@ -61,7 +61,7 @@
       "originalUrl": "https://www.nbcnews.com/tech/pope-francis-ai-generated-images-fool-internet-rcna76838",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -92,6 +92,60 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-the-top-artificial-intelligence-trends-for-2023-published-in-info-tech-research-groups-latest-report.md",
+      "title": "The Top Artificial Intelligence Trends for 2023 Published in Info-Tech Research Group's Latest Report",
+      "excerpt": "The firm's new report provides an overview of the eight trends that will continue to drive AI innovation over the coming months. TORONTO, March 27, 2023 /PRNewswire/ - To help tech leaders and their organizations stay on top of the latest technology shifts ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-top-artificial-intelligence-trends-for-2023-published-in-info-tech-research-group-s-latest-report-1032195237",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-top-artificial-intelligence-trends-for-2023-published-in-info-tech-research-group-s-latest-report-1032195237",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2041482/Info_Tech_Research_Group_The_Top_Artificial_Intelligence_Trends.jpg",
+          "width": 400,
+          "height": 222,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-27T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare",
+        "Facebook AI"
       ]
     },
     {
@@ -147,7 +201,7 @@
       "originalUrl": "https://www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -337,7 +391,7 @@
       "originalUrl": "https://techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -491,7 +545,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-application-product-sales-and-forecast-2023-2031-2023-03-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 775,
+      "heat": 735,
       "tags": null,
       "images": [
         {
@@ -753,7 +807,7 @@
       "originalUrl": "https://techcrunch.com/2023/03/27/apple-acquired-a-startup-using-ai-to-compress-videos/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 207,
+      "heat": 198,
       "tags": null,
       "images": [
         {
@@ -995,49 +1049,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-27-big-tech-and-the-pursuit-of-ai-dominance.md",
-      "title": "Big tech and the pursuit of AI dominance",
-      "excerpt": "The announcements add to a spate of similar ones in the past month or so from America’s tech titans. OpenAI, the startup which is part-owned by Microsoft and which created ChatGPT , an AI conversationalist that has taken the world by storm,",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/big-tech-and-the-pursuit-of-ai-dominance-11679904285056.html",
-      "originalUrl": "https://www.livemint.com/technology/big-tech-and-the-pursuit-of-ai-dominance-11679904285056.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/03/27/600x338/2-0-1390309169-istockphoto-1130152320-2048x2048-0_1679763214342_1679905001190_1679905001190.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/big-tech-and-the-pursuit-of-ai-dominance/amp-11679904285056.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/big-tech-and-the-pursuit-of-ai-dominance/amp-11679904285056.html",
-      "publishedDateTime": "2023-03-27T01:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-27-athens-debuts-with-interdisciplinary-film-festival-combining-ai-art-and-fashion.md",
       "title": "Athens Debuts With Interdisciplinary Film Festival Combining AI, Art, And Fashion",
       "excerpt": "The Athens Fashion Film Festival returned on March 14th for the fourth year with an interdisciplinary theme of “Art-istic OR Art-ificial?\" held at the Athens Conservatory under the leadership of Nicole Alexandropoulou,",
@@ -1200,7 +1211,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/self-driving-and-driverless-cars-market-by-2031-2023-03-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 110,
       "tags": null,
       "images": [
         {

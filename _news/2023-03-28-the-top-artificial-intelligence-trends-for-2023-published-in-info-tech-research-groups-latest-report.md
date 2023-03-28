@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-top-artificial
 webUrl: "https://markets.businessinsider.com/news/stocks/the-top-artificial-intelligence-trends-for-2023-published-in-info-tech-research-group-s-latest-report-1032195237"
 type: article
 quality: 58
-heat: -1
-published: false
+heat: 78
+published: true
 
 provider:
   name: Business Insider
@@ -31,21 +31,33 @@ images:
     isCached: true
 
 related:
-  - title: "Lenient Rules for Biotech Research Put the World at Risk. Will AI Do the Same?"
-    excerpt: "ethics and public sectors to review and give guidance on the creation and evolution of AI programs that can be intentionally or inadvertently used to harm or control others. As Kevin Roose's story shows, we can be both pleasantly surprised and ..."
-    publishedDateTime: 2023-03-23T09:16:00Z
-    webUrl: "https://www.newsweek.com/lenient-rules-biotech-research-put-world-risk-will-ai-do-same-1789686"
-    ampWebUrl: "https://www.newsweek.com/lenient-rules-biotech-research-put-world-risk-will-ai-do-same-1789686?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lenient-rules-biotech-research-put-world-risk-will-ai-do-same-1789686?amp=1"
+  - title: "The Future of State-Sponsored AI Research in China"
+    excerpt: "An intelligent robot in the AI-themed smart park, featuring artificial intelligence (AI) applications from Chinese search engine giant Baidu, in Haidian District ... The two main organizations driving the advancement of generative AI technologies are ..."
+    publishedDateTime: 2023-03-24T16:20:00Z
+    webUrl: "https://thediplomat.com/2023/03/the-future-of-state-sponsored-ai-research-in-china/"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 85
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 41
     images:
-      - url: "https://d.newsweek.com/en/full/2210251/chatgpt.jpg"
-        width: 3000
-        height: 1999
+      - url: "https://thediplomat.com/wp-content/uploads/2023/03/sizes/td-story-s-2/thediplomat_2023-03-24-150332.jpg"
+        width: 600
+        height: 453
+        isCached: true
+  - title: "O’Reilly 2023 Tech Trends Report Reveals Growing Interest in Artificial Intelligence Topics, Driven by Generative AI Advancement"
+    excerpt: "O’Reilly, a premier source for insight-driven learning on technology and business, announced the findings of its annual Technology Trends for 2023 report, which examines the most sought-after technology topics consumed by the 2."
+    publishedDateTime: 2023-03-24T13:00:00Z
+    webUrl: "https://insidebigdata.com/2023/03/24/oreilly-2023-tech-trends-report-reveals-growing-interest-in-artificial-intelligence-topics-driven-by-generative-ai-advancement/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 25
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2021/02/Snowflake_report_cover.png"
+        width: 300
+        height: 391
         isCached: true
 
 secured: "DTxsjIPlCuT5kmBP/G4NeazHe40DFLul7LFrlbTdKnEPrNPXCC7IuizSPtnB6fYa7FNRI96Z0kWa92AGoSiW0eJQvQuI/9ukIZDw/be4MoM/x8P+AVV/azFbbqQXqHfSBnaqHoEOXqqnU+15T9LhLkB2mPTtzTr6biYCCxbhBg5DkmevMVlaSiX4P+Q6ATBoMMU+mKF6z0k/bx5vU9Z+MjEES+5Jlli0Lnjic6YO6O1AqaT9Qk7JUKMsuW3c3JyzFmJ1Uld/elc9/D5rb97n417B4XfOrAzuJhJdRmGzoN6MKgvvStdjdjlYxXjcrhoHAG/2mngUjr25hWkxDt3rDoGzHns65RsYbtMk4txYgnBFsHIzNScpGS6c8bq0ZdlWDaW/wu/yZfQvK8DSF1/u3Fg3UkL/85RLsxnc2pXwEmd1pewfr47xGRreviv4UmymbHscjRzYVf7IufbnduAO5Jk6aAjt0yguK8wi+YEs4IdaGFCiR7rvCd7D4UxbkYH17qPyb/AYR659XdSx5m6wNw==;eMC7aeejaJSUXN2Q8GvfMw=="

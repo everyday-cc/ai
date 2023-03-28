@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-and-driverl
 webUrl: "https://www.marketwatch.com/press-release/self-driving-and-driverless-cars-market-by-2031-2023-03-26"
 type: article
 quality: 69
-heat: 109
+heat: 110
 published: true
 
 provider:

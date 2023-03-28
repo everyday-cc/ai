@@ -82,6 +82,22 @@ related:
         width: 900
         height: 450
         isCached: true
+  - title: "Public health, AI and ethics"
+    excerpt: "First, we must note that medical ethics in the country are far from where they ought ... In this environment, a potent new tool needs to be handled with great care. Increased reliance on AI for diagnosis may sound cool to many, but the system is far ..."
+    publishedDateTime: 2023-03-28T03:51:00Z
+    webUrl: "https://tribune.com.pk/story/2408472/public-health-ai-and-ethics"
+    ampWebUrl: "https://tribune.com.pk/story/2408472/public-health-ai-and-ethics?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2408472/public-health-ai-and-ethics?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 74
+    images:
+      - url: "https://i.tribune.com.pk/media/images/1078711-MuhammadHamidZamanNew-1459790290/1078711-MuhammadHamidZamanNew-1459790290.JPG"
+        width: 800
+        height: 600
+        isCached: true
   - title: "ICMR releases first ethical guidelines for AI application in biomedical research, healthcare"
     excerpt: "The Indian Council of Medical Research (ICMR) has come up with the country’s first Ethical Guidelines for the Application of Artificial Intelligence in Biomedical Research and Healthcare to provide an ethical framework for the development of AI-based ..."
     publishedDateTime: 2023-03-27T07:43:00Z

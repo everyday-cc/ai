@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/saibala/2023/03/25/microsoft-plans-to-u
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/03/25/microsoft-plans-to-use-ai-to-solve-a-huge-pain-point-for-doctors/amp/"
 type: article
 quality: 104
-heat: 284
+heat: 274
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/725637/chatbot-smartphone-person.jpg"
         width: 2121
         height: 1414
-        isCached: true
-  - title: "Microsoft Is All-In on AI: 2 Ways It Will Benefit"
-    excerpt: "In addition to software, Microsoft is also testing AI chatbot integration into its popular Azure cloud computing services. The company calls it Azure OpenAI Service, and its capabilities span content generation, summarizing conversations, and code generation."
-    publishedDateTime: 2023-03-23T10:10:00Z
-    webUrl: "https://www.fool.com/investing/2023/03/23/microsoft-is-all-in-on-ai-2-ways-it-will-benefit/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/725379/gettyimages-1145585734.jpg"
-        width: 2190
-        height: 1369
         isCached: true
   - title: "Microsoft Threatens to Restrict Data From Rival AI Search Tools"
     excerpt: "Microsoft Corp. has threatened to cut off access to its internet-search data, which it licenses to rival search engines, if they don’t stop using it as the basis for their own artificial intelligence chat products,"

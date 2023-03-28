@@ -2,41 +2,6 @@
   "page": 122,
   "value": [
     {
-      "path": "_news/2022-12-12-bolstering-the-safety-of-self-driving-cars-with-a-deep-learning-based-object-detection-system.md",
-      "title": "Bolstering the safety of self-driving cars with a deep learning-based object detection system",
-      "excerpt": "Self-driving cars need to implement efficient, effective, and accurate detection systems to provide a safe and reliable experience to its users. To this end, an international research team has now developed an end-to-end neural network that,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/974123",
-      "originalUrl": "https://www.eurekalert.org/news-releases/974123",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-12-12-botz-global-x-robotics-artificial-intelligence-thematic-etf.md",
       "title": "BOTZ Global X Robotics & Artificial Intelligence Thematic ETF",
       "excerpt": "The chart has 1 X axis displaying Time. Data ranges from 2021-12-09 00:00:00 to 2022-12-12 00:00:00. The chart has 1 Y axis displaying values. Data ranges from -50.35 to 3.4.",
@@ -1113,6 +1078,49 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-10-waymo-driverless-cars-being-tested-in-socal-for-ride-hailing-service-are-they-safe.md",
+      "title": "Waymo driverless cars being tested in SoCal for ride-hailing service. Are they safe?",
+      "excerpt": "But there is no driver. \"The driverless car shows up, so there's no one in the front seat. They get in the car, and they hit 'start ride.' The car opens based off the phone's Bluetooth ...",
+      "sourceUrl": null,
+      "webUrl": "https://abc7.com/waymo-cars-ride-hail-driverless-vehicles-autonomous/12541908/",
+      "originalUrl": "https://abc7.com/waymo-cars-ride-hail-driverless-vehicles-autonomous/12541908/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/12541329_120722-kabc-5pm-waymo-testing-vid.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7.com/amp/waymo-cars-ride-hail-driverless-vehicles-autonomous/12541908/",
+      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/waymo-cars-ride-hail-driverless-vehicles-autonomous/12541908/",
+      "publishedDateTime": "2022-12-10T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7",
+        "domain": "abc7.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

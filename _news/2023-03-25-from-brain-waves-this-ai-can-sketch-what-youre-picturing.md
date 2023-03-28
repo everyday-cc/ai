@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Google's AI teams are experiencing a brain drain. Here's where its top researchers are now."
-    excerpt: "Considered a breakthrough in natural language processing, the Transformer model helps an AI understand meaning by looking at each ... on BERT and is considered well-suited for tasks like translation and summarizing. Sharan Narang, another contributor ..."
-    publishedDateTime: 2023-03-23T09:16:00Z
-    webUrl: "https://www.businessinsider.com/google-ai-teams-brain-drain-researchers-leave-2023-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-    images:
-      - url: "https://i.insider.com/641bd7c8b7834100191ae5c7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AI Taking Flight in the U.S. Air Force"
     excerpt: "Tesla is already moving to a full self-driving mode, and Waymo is preparing for new driverless prototypes ... became the first military aircraft to fly with artificial intelligence as its copilot. The copilot is named ARTUµ, the algorithm behind the ..."
     publishedDateTime: 2023-03-27T18:12:00Z

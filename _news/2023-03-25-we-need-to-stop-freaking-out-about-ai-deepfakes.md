@@ -52,20 +52,6 @@ related:
         width: 608
         height: 342
         isCached: true
-  - title: "It takes a few dollars and 8 minutes to create a deepfake. And that's only the start"
-    excerpt: "With just a photograph & 60 seconds of audio, you can now create a deepfake of yourself in just a matter of minutes by combining a few cheap AI tools. I've tried it myself, and the results are mind-blowing, even if they're not completely convincing."
-    publishedDateTime: 2023-03-23T09:42:00Z
-    webUrl: "https://www.houstonpublicmedia.org/npr/2023/03/23/1165146797/it-takes-a-few-dollars-and-8-minutes-to-create-a-deepfake-and-thats-only-the-start/"
-    type: article
-    provider:
-      name: Houston Public Media
-      domain: houstonpublicmedia.org
-    quality: 15
-    images:
-      - url: "https://media.npr.org/assets/img/2023/03/22/deep-fake-video_wide-aff9448244d5548a16621c82cede8c98956acc26.jpg"
-        width: 2396
-        height: 1348
-        isCached: true
 
 secured: "BMp2JOyuCG2wXpHcYaKSDyCbuzH4lwzD0fS608ABFdTdAWHARnNQswZx2SBEAGWRE9eAY8QbG7Py1CTXdLIw63CSJfBriZKacLgpZTxypH/DSlHzn/kjtjDHgvfS6RucFqjsCa/gzrDpNk7McfrNLJuLQy3qO3KUHTb8TgyBTohvHp1eUI6vHAQafZo9TneZuJ0MhJMap/NzbpvleEFR+sTqv6qQ5pURTK0KapxB3ifV2GkDC7yTzK3e7n+mHVNWDgtOLfYggLvOmSqgaLESKORqpB6p5+N+CsE/1+HumsVm417syarCRradkG+f82ynZ6wsRiVuSFw4NXwMOFJsd9b94JNpEPFMAlt6APjXRZqgG3afEEa1ypxZ4YvS1Qb7vyCPNoTizxU/t5xt/DaK4O+P6wGCIRAuwid/Fq+92Xj9i7lXCkiocVe5LUs3pmg5pqnOUSN3bEwPNCgIlWhSqar91irdNj30dQjPy3yDfQucNposjQga6pGaSCo6fOn5NJNefj4L4ZcsddTsKIEPkA==;7SLaVkmGizJSfwewtxwIYQ=="
 ---

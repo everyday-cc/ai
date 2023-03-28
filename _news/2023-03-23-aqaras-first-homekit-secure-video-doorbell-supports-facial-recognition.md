@@ -41,20 +41,6 @@ related:
         width: 1600
         height: 890
         isCached: true
-  - title: "Aqara Releases Video Doorbell G4 With Facial Recognition and HomeKit Secure Video Support"
-    excerpt: "Smart home accessory maker Aqara today launched its first video doorbell, the HomeKit-enabled G4 with facial recognition. The Video Doorbell G4 features a 1080p camera and is compatible with ‌HomeKit Secure Video‌, along with support for local ..."
-    publishedDateTime: 2023-03-23T09:38:00Z
-    webUrl: "https://www.macrumors.com/2023/03/23/aqara-video-doorbell-g4-homekit/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 30
-    images:
-      - url: "https://images.macrumors.com/t/LcBZOIGsnaqTuBG2Tg1wLnr9Ipc=/1600x/article-new/2023/03/aqara-G4-doorbell.jpg"
-        width: 1600
-        height: 890
-        isCached: true
   - title: "Aqara Releases Video Doorbell G4 with Facial Recognition to Global Markets"
     excerpt: "Similar to Aqara's Camera Hub G3, the Aqara Smart Video Doorbell G4 features AI-based facial recognition, which is executed locally on device for faster response and privacy protection. Moreover, facial recognition of the doorbell can be used as an automation trigger,"
     publishedDateTime: 2023-03-23T14:48:00Z

@@ -51,6 +51,22 @@ related:
         width: 600
         height: 390
         isCached: true
+  - title: "The Psychology of Artificial Intelligence"
+    excerpt: "But what about two decades later? I posed the question earlier posed to participants now to the artificial intelligence software ChatGPT. Order the sensibility of the following three sentences: “after wading barefoot in the lake, Erik used his towel to ..."
+    publishedDateTime: 2023-03-28T00:14:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/keeping-those-words-in-mind/202303/the-psychology-of-artificial-intelligence"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/keeping-those-words-in-mind/202303/the-psychology-of-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/keeping-those-words-in-mind/202303/the-psychology-of-artificial-intelligence?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/psychology%20of%20artificial%20intelligence.jpg?itok=jnh-9PYH"
+        width: 1528
+        height: 800
+        isCached: true
 
 secured: "HUucZwWmjWtT6Vsrt2EgmMKQNjBDpvZleQrKafHN9pZrXLJ3bzIcd9DVu6+OJ0LZ+Ar2jzhFzHAuMIXWcO8aAGI4nNzVdGYnVMlEIciStVjqqyKetYrW2EiS/IMoXxtV69Ez1kLkRGuUDO60kGAwKIQaZ/NOWH3GkIeI6vhATWXt0AAN/sY7xMmky6cL4OwyRAXnzfeMT4hdIomE50DVJ0su3b7I+ju7CrJiHGV49QMJ24p07uZTU5SuiYBFMfhQzBsBZcNOZ3lvzLBcqG7ggZn+H+uQxWtT+h5IOZptKnAwsyQfsVjCUrDCb9dc/mvOOCepxkvwmyHQAuNMTuPRP9G6AcvUOHTzSG8GPrj6SCkHUc7lTL/Fw6QyIVrhe6EMb+7zpin766AaC8bhwKgMgMZupLv5Zb/zQFBC+UYRv6oSB1aGWq/KRtcHJ+5t9lHkPRb6EuDmezSpGjOndSI3IJtLFPEf1ko6VrJF2IfPCrXKEV40eTEQlYm41NqTDAPEp4o6TQ0/BmvgfGPsc+e+EQ==;M2UKDbCW9M2zcuYIQ7RQHQ=="
 ---
