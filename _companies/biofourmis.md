@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 57
+heat: 42
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "KYwL2Plg5Ml8POeit7UEXG21XGlDm6JNXJUTj6K6W9RFnJubfI6Rjb2PREhADEt677LVwG7SkNNDHpfr873sGWo4Lbhp8tO/ZCTCxPE4x//qv1UBIiGXDB1RLTdbJTNia7e/Z+IiifyjDPjqLT1Pl6Wns3W0c9o75qPnamYDRq0JM2nALYDKgG+0QKjPtklMhb4vR3f9FYXRLu+JkVt8U2qPdOY98dCLnVF0waP5nOy9wjvTZ83hyDn/6mhOdPRJf0UtxLgMXSC284hJV0TGzopAZ5o+rlRwQp0BjmFZsfGe2uziJrLbte5XVaPtc+dPPyLooYQ3WIqZSwfHrNm8BAEGawFFIeUo7FFsAU1I5twHmqH9CVor4h6qTggz/+HXOdAlxjAh8Fpp/thbpNSNhfWAgvi0vQ9/VfpurQ3DUhc=;3DMUPfv+51l46TlI1rX0/w=="
+secured: "gtF5Q3RFYrsE3Ilq3z/t2K+axEcJrT5dnIwkfZVj7FKugrhglTbgMFjt1gYtgDCCyoRc96hvF2sFILudX3MSLV/er1ybveYk0S6KP/Gstozd2PhUyoVRrnk7HrNC5liO5DUt3gnzM/E7tmpaLCIAirlf6VP/+88OGNg4lBQaAYZR44CCioeXCPsw4aItOulDmv6hTP89L07CDaK3LaMDnd3Qr3yDGpOr7OBlBPJdribHw2Ww081bITcI7n6AOePWhCpIfiF2rVUoqIPo1RXEqhFWzhuv0ebM2AV6UM1Ws94X7MJ/rGnIMQMa04qIY+fb4uN5JULS4KQW4YbH9g6hpQ47KdrpxeO17Of/JjEQIHSq7o67Jq+G8jJiIIjn/FaqfmkIDWryvk27aXbOWLfBhs5VNIyEHhjzX8jxGIXP830=;d80ec9TS6e+s0DenP5YDGg=="
 ---
 

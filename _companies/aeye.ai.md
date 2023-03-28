@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "AEyeInc"
   url: "https://twitter.com/AEyeInc"
-  followers: 1834
+  followers: 1833
 
 size: 11-50 employees
 yearFounded: 2013
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=L7OeqXiQdkI"
 
-secured: "wGVdZnskd+zCGXM7t3M4U+KMy9Qa7ObpJzHq7iJRNHKSvHJ5RGFwRVq+t/KQuXFvRtMVHhkeBYFes2+l++i+4vDJmeyvlUKUQ1vLQ5j4hTL2k4z59X3MHE7CmPi+BN3Qq1JFyrqMmCkfzCReRpwnUmuuXX6KhX0TnMnmHUBkGe7ZI+eD5VsOYDqJFXu4eJuzP5gqvJYAUDbRwls+7AwfJwGmFBDQ2aoPUyFrENVW1xR6ugXFfpnNuYwye2fX1cPR8yEJZOmMqwAYvcY7U5Wc3t/tDyZDUYVsIWk0j50qQhTkoNdMrSS+DOc0fmPt6TeK+CRqk2gx/Rfw6FRl2opCTAezSBbLDycI19kHP4OlR+aTLKnAZQ9kjQ4JQGQ0fU8tuAA6E+Iz4V+ris/+LMQwtthFbci2y/rIGKjtIwK6Wac=;tPe7DHNrZqN+ZyHWchVocg=="
+secured: "yxpdj0k5skcezRhAjRyoX91mQoWStMa9Xe3nkHsy50f3I79fEIQxoO+wXxLJR6xzaBN+4N1V1TcwVGkEu/FmhB6aXjGf1DV0qUQ4rpPP9KTkEkg03D3NKupF5reCHFTMmMD6auSSpBTWKvq7w6Rd0RxB08s0bt4ZCh7RoluhHtK81sScVMVIc42MCFuMAQB3f0Q5DbdanomXyW9tKhwGVJE3rDk94EnXTmW1H1BoRKx1oqHiFEodRTUQ6goZlLD9jozZJ+UZhzHPd3BYsU1qt4QsQhz2IAWY3FywIcqAgejabyPc9en5i5mRE6F+0ZqoACPfzfBDzwYH+JJxyGgLBZj1G2vG9f2bomm7TUqDHR/J/1HDDYmnAlg+6Z+99T+S3duc+u6Q8fhF6LFtghFOuqqwLsc/FjGV1VCTINs8LGk=;ZYUxd4ET68ifmDU5+PyIDQ=="
 ---
 

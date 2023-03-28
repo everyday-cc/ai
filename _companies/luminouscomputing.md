@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "LuminousAI"
   url: "https://twitter.com/LuminousAI"
-  followers: 1572
+  followers: 1573
 
 size: 2-10 employees
 yearFounded: 2018
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=mzAX5DS3xYw"
 
-secured: "aO0DoSJxwDRN1aSXDRUeq7esJmhIJMTSSvmdsbkbPvxbq2GrWQ+IALCChHP7EA8BT8TgdI76Z+PnsG+7zapTj4D4oUiyrEB4XyAn6WBvjZpXJZkiNR9WBT9JKjUABUjcJO/q8u/YvAY4izeXbMYj1VPm9zxsaHshZ3zmmbHYEwvge8XCrhkkZ8SfEkKxa8KPCviKpl5i6EdSxiR/ZXQlz3NdWQ4a7JXLfAX7PIDwxK3JmeUOhG0qnDorjdZanN6191ivZFkzNd+4/ZBTMpXGYdPPNq/p2hEYa5fcdID/bTfx39s0nKxtpI+XdvSozVjSaKAZuFRaMg0tViL999r/XGTFTId17HrNE6n7X3m57lg9hTY8ajGwSqW+5Pu2KBhAOyNjpn/nxs6kCBqdSkho+iVb7i7LGvWXAPR7URvWHhE=;YNgj6C+EbkGfnchfaBZ71w=="
+secured: "qdT243Fx0GvpCE/Nv/aN91UYHO1uDlrkRd+xL+PUeIQsoE2eA+xYWKwtOeEcgP1iJOkgwTiIu+foLiVc7XmeNOBReCXaYLZDbIfp11ZtYyS6AdSunkKL9FhQE/S88DpKCdRi9j1VDuQUAArptSV574//KY7iRCCIKvq2HFhQ/twt96jjq1/vIUJPWhjN79FgcaMaDOj69yWbfAuBIRT+fEdCPCUCFzWmZhk/ub7NY5Xsaa0JISCMPZBUL6o/qPeTg+FI8X7flWA+cxRVVa4TMvLtLXfRzDScxBO8kVZYjqWnKZIaMurqy/xf5C1RYgAVQlcfswHGHITr3p+dhUr6QPPsd+bBcA+lpSiulYuQB/1pP+9bg2w6EME5PS6kitsQA6+VLY7XSWFrNJpeXJLKlndNK+srkO5vbj4BGHjSz1c=;O8FECtsJi8OpyIGYZAjMbQ=="
 ---
 
