@@ -33,15 +33,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Messagepoint Named Winner in 2023 Artificial Intelligence Excellence Awards"
-    excerpt: "Messagepoint announced today it has been named a winner in the Business Intelligence Group’s Artificial Intelligence (AI) Excellence Awards. The AI Excellence Awards recognize organizations, products and people that use AI to solve real problems."
-    publishedDateTime: 2023-03-23T15:17:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/messagepoint-named-winner-in-2023-artificial-intelligence-excellence-awards/article_4c33d5e9-2993-5b3b-8fe4-fe446d45e09c.html"
-    type: article
-    provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 17
   - title: "Virtualitics Wins 2023 Artificial Intelligence Excellence Award"
     excerpt: "Virtualitics Inc., an artificial intelligence and data exploration company, today announced it has been honored with a 2023 Artificial Intelligence Excellence Award from the Business Intelligence Group."
     publishedDateTime: 2023-03-23T20:14:00Z

@@ -8,7 +8,7 @@ webUrl: "https://www.dqindia.com/from-automation-to-innovation-how-artificial-in
 ampWebUrl: "https://www.dqindia.com/from-automation-to-innovation-how-artificial-intelligence-is-transforming-the-enterprise/amp/"
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/from-automation-to-innovation-how-artificial-intelligence-is-transforming-the-enterprise/amp/"
 type: article
-quality: 28
+quality: 32
 heat: -1
 published: false
 
@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
 related:
   - title: "AI-ification: Welcome To The Next Business Revolution"

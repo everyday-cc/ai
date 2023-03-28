@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/turing-launches-ai-powered-services-to-fo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/turing-launches-ai-powered-services-to-form-engineering-dream-teams/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Scratch Engine Launches Online Portal for Investing into the AI-Powered NFT Ecosystem"
-    excerpt: "Scratch Engine Inc., the decentralized finance technology company, has launched an online portal powered by DealMaker allowing for direct investment in its first-of-its kind AI-powered non-fungible ... Engine Inc. — the NFT research, assessment, and ..."
-    publishedDateTime: 2023-03-23T15:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/scratch-engine-launches-online-portal-for-investing-into-the-ai-powered-nft-ecosystem-1032187331"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
   - title: "Turing Launches New Tech Consulting & Services Model Powered by AI"
     excerpt: "PALO ALTO, CA /  / March 27, 2023 / Turing, an AI-powered technology company, today announced the official launch of Turing Services, a modern-age tech consulting and services model that combines the unmatched speed and deep vetting quality of the company's Intelligent Talent Cloud with its U."
     publishedDateTime: 2023-03-27T21:56:00Z

@@ -156,20 +156,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Australia's Canva Adds AI Tools To Take On Microsoft, Google"
-    excerpt: "Bloomberg Australian design software company Canva Inc. is accelerating its expansion into digital workplace products, adding artificial inte"
-    publishedDateTime: 2023-03-23T16:55:00Z
-    webUrl: "https://menafn.com/1105846065/Australias-Canva-Adds-AI-Tools-To-Take-On-Microsoft-Google"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 56
-    images:
-      - url: "https://menafn.com/updates/pr/2023-03/23/TP_bcdc8image_story.jpg"
-        width: 680
-        height: 357
-        isCached: true
   - title: "Microsoft just launched a Notion AI competitor called Loop. Here's how you can access it"
     excerpt: "Loop enables you to collaboratively create documents using any Microsoft Office application, like Outlook, Teams, or Word."
     publishedDateTime: 2023-03-24T21:23:00Z

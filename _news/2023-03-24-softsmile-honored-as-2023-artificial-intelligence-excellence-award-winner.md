@@ -26,15 +26,6 @@ images:
 
 related:
   - title: "Messagepoint Named Winner in 2023 Artificial Intelligence Excellence Awards"
-    excerpt: "Messagepoint announced today it has been named a winner in the Business Intelligence Group’s Artificial Intelligence (AI) Excellence Awards. The AI Excellence Awards recognize organizations, products and people that use AI to solve real problems."
-    publishedDateTime: 2023-03-23T15:17:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/messagepoint-named-winner-in-2023-artificial-intelligence-excellence-awards/article_4c33d5e9-2993-5b3b-8fe4-fe446d45e09c.html"
-    type: article
-    provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 17
-  - title: "Messagepoint Named Winner in 2023 Artificial Intelligence Excellence Awards"
     excerpt: "Messagepoint announced today it has been named a winner in the Business Intelligence Group’s Artificial Intelligence (AI) Excellence Awards. The AI Ex"
     publishedDateTime: 2023-03-23T19:17:00Z
     webUrl: "https://www.businesswire.com/news/home/20230322005774/en/Messagepoint-Named-Winner-in-2023-Artificial-Intelligence-Excellence-Awards"

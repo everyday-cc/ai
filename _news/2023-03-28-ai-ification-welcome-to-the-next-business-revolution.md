@@ -40,7 +40,7 @@ related:
     provider:
       name: Dataquest
       domain: dqindia.com
-    quality: 28
+    quality: 32
 
 secured: "/wkfiY9fiBcACg1/Gk9n9MVzUWLlK/vaDwYR42oSSEFdu7707Y/OISEXhC9DovpwtZuCbl4soRCYBT0njjjfP35s0MMuQRsYBGMeuu1B+PMQaEAyr3uLCjbz5oNgftZdoVyJ3CLDt0f0A17wPSAUkFDHbIKEZPN3yiytZZ7BCU37Zy2mLkz4QYdGWniOQSmOC6pQ/dgi4gFJlaX8b0RWafH7Weo5R+ECSJuKu3eDBmkrb+KjSNaM0hC6t7dv9f6Zj8QIYMbloffuJgser6ofICwBXeb/J2wet0BD1rRW0ALwYUCClFvVgfOz7bxxZUOWX2PwBMkfLxKsIB9xm2vOgp3C29z4VvvvAiTIUArGoR8=;GUT1tdhSjRDCD+/3O/K9Xg=="
 ---

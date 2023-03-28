@@ -113,10 +113,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AIoT Edge AI Chip Market Facts and Figures by 2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- The AIoT Edge AI Chip Market report provides a comprehensive analysis of the global market, covering both qualitative and quantitative ..."
-    publishedDateTime: 2023-03-27T23:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aiot-edge-ai-chip-market-facts-and-figures-by-2029-2023-03-27"
+  - title: "AI Accelerator Chip Market Growth and Forecast till 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- The \"AI Accelerator Chip Market\" Study Describes how the technology industry is evolving and how major and emerging players in the industry ..."
+    publishedDateTime: 2023-03-28T09:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-growth-and-forecast-till-2028-2023-03-27"
     type: article
     provider:
       name: MarketWatch
@@ -127,15 +127,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Cyber Security Market Size Escalating Demand to Drive Growth Through 2029"
-    excerpt: "Mar 23, 2023 (The Expresswire) -- The Final Report will analyze the Impact of Ongoing Recession On Your Business With Smart Market Solutions to Help Your Business Gain Edge over Competitors Complete Outline of the Worldwide Artificial Intelligence (AI ..."
-    publishedDateTime: 2023-03-23T15:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-size-escalating-demand-to-drive-growth-through-2029-2023-03-23"
+  - title: "AIoT Edge AI Chip Market Facts and Figures by 2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- The AIoT Edge AI Chip Market report provides a comprehensive analysis of the global market, covering both qualitative and quantitative ..."
+    publishedDateTime: 2023-03-27T23:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aiot-edge-ai-chip-market-facts-and-figures-by-2029-2023-03-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 82
+    quality: 84
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -556,6 +556,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence HPC Cloud Market Future Trends Demand 2023, and Forecast to 2031"
+    excerpt: "Which are the driving factors of the Artificial Intelligence HPC Cloud market? Growing demand for [Aerospace, Manufacturing, Financial, Genomics, Healthcare, Media And Entertainment, Oil And Gas, Retail] around the world has had a direct impact on the ..."
+    publishedDateTime: 2023-03-28T09:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-hpc-cloud-market-future-trends-demand-2023-and-forecast-to-2031-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Medicine Market Future Trends Demand 2023, and Forecast to 2031"
+    excerpt: "Which are the driving factors of the Artificial Intelligence in Medicine market? Growing demand for [Healthcare Provider, Pharmaceutical and Biotechnology Company, Patient, Payer] around the world has had a direct impact on the growth of the Artificial ..."
+    publishedDateTime: 2023-03-28T09:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-future-trends-demand-2023-and-forecast-to-2031-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

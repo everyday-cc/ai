@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/03/23/oracle-new-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/03/23/oracle-new-ai-enabling-features-to-mysql-heatwave/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -49,20 +49,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Oracle’s MySQL HeatWave gets embedded machine learning capabilities"
-    excerpt: "Oracle is bundling some popular machine learning applications into the engine including support for anomaly detection, recommendation and multivariate time series forecasting. Anomaly detection is popular in financial services for uses such as determining ..."
-    publishedDateTime: 2023-03-23T15:10:00Z
-    webUrl: "https://siliconangle.com/2023/03/23/oracles-mysql-heatwave-gets-embedded-machine-learning-capabilities/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 43
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/landscape-2806202_1920.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "zOVWQ/zQ6bSud/8xCFu1b9E2dm65y/OmHl/lSmW9vDDJsv+GB8+3JmWZavOfdycuqDYE5PTWWrDjgx7bxul9Dzkhtob5M5yjh7PUeH+KqbE6Vp+zK2e4idhLJU9jWRHaAy7D8TrU8wQkOodFXqhXbgo37SD3qh5q0esI/7GkWZ0+p3tDjkE3OUHrmpnmPG6pyrB88t4l/lt5pThlbHhZQ1nCkTHko23F1hTTAck0I3HV0t/iQyb0XqeUl3lDVmyd7HxspMKoTX3v+EfG15pteEp/cpSnNUCpXnyw75ce3p7fFF6V3WYwB/rKrtL1X0jM/RkXUEEnbUlWLzTy/xUtr00/RjZrhOcaz0RMBYXGMgN31BhwF4d5xrAXER3L/CiqGvIoRsF5N0YG/INzwOfTK6r4AiFDc5Nf1LR0V1y5iXwZEd9V4qB94HxXoNaAS7m5787Pls1zTGUprAbUwR8vC9iZSHw8ypj3gsp5TV+xXod3QSXem76HUoOmwTD4s5x6f93XT98S4tU2fpRdX5+kAQ==;BUVsh3HlDJbQSijwIK90UA=="
 ---

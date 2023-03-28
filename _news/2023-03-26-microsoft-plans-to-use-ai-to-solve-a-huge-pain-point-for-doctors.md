@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/saibala/2023/03/25/microsoft-plans-to-u
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/03/25/microsoft-plans-to-use-ai-to-solve-a-huge-pain-point-for-doctors/amp/"
 type: article
 quality: 104
-heat: 274
+heat: 264
 published: true
 
 provider:
@@ -150,20 +150,6 @@ related:
       - url: "https://www.cio.com/wp-content/uploads/2023/03/image-retail-custom-2-B4LLS.jpg?quality=50&strip=all&w=1024"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Australia's Canva Adds AI Tools To Take On Microsoft, Google"
-    excerpt: "Bloomberg Australian design software company Canva Inc. is accelerating its expansion into digital workplace products, adding artificial inte"
-    publishedDateTime: 2023-03-23T16:55:00Z
-    webUrl: "https://menafn.com/1105846065/Australias-Canva-Adds-AI-Tools-To-Take-On-Microsoft-Google"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 56
-    images:
-      - url: "https://menafn.com/updates/pr/2023-03/23/TP_bcdc8image_story.jpg"
-        width: 680
-        height: 357
         isCached: true
   - title: "Microsoft just launched a Notion AI competitor called Loop. Here's how you can access it"
     excerpt: "Loop enables you to collaboratively create documents using any Microsoft Office application, like Outlook, Teams, or Word."

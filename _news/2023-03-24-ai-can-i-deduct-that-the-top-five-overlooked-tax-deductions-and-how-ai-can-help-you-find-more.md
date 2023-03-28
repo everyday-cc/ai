@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Intel Labs Advances Computer Vision Development with Two New AI Models"
-    excerpt: "VI-Depth 1.0 and MiDaS 3.1 open source AI models improve depth estimation for computer vision. Depth estimation is a challenging computer vision task required to create a wide range of applications in robotics,"
-    publishedDateTime: 2023-03-23T16:00:00Z
-    webUrl: "https://www.unite.ai/intel-labs-advances-computer-vision-development-with-two-new-ai-models/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 54
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/03/intellabs-1000x600.png"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "XBMxVTgMMX7Bx14R9SCGY4fE5ujSlfkFKk7RDC83ouL3VwDv/PmqtwvX1zXB4mVB4mtQDA7HtLCTuQuf7smoNNc7KrtCElEs6T8S0MZyxOhEXh6baw25SxmSE42SwIkIsoPGNhnMzFRB9izGvsrpN/LaFfEX1IGYTWq2K344e6C9OfC/NHz+sz+E2Ob7Ksc9ZwcXK26NTEWXshv4wM67Iv6WxVadB5gVfStBrewFoO2x2Up0x/d5WLZRKDw4UJ2i866PZpShfoG2LO6IoNEi0qPxIHPvTLZ/2yWNx5BUQUkFZ34eSTopp4iPU3K2GPwSsKAl2vsUMKU66DS/J41AI2zhCL+d3kKXgG6mLMj10Uk=;Cb1nUGjA9X/SMKmGRGFjXw=="
 ---

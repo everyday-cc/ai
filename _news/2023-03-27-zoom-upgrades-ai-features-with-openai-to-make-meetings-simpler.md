@@ -69,20 +69,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "These are the 34 jobs OpenAI suggests will secure you against the AI revolution"
-    excerpt: "The creators of recent AI phenomenon, ChatGPT ... Additionally, LLMs can be used to translate content into different languages, which can help to reach a wider audience. And, I can be used to generate personalized content, such as news articles that ..."
-    publishedDateTime: 2023-03-23T15:12:00Z
-    webUrl: "https://www.pcgamer.com/these-are-the-34-jobs-openai-suggests-will-secure-you-against-the-ai-revolution/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 35
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ScPYLdpxFRGNZK7zfy5Lh6-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Zoom adds generative AI to Zoom IQ; partners with OpenAI"
     excerpt: "Zoom announced a new host of AI-backed capabilities for its “smart companion” tool, doubling down on its CEO’s promise of helping customers benefit from the technology."
     publishedDateTime: 2023-03-27T12:46:00Z

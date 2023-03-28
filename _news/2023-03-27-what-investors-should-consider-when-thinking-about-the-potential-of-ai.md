@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/27/what-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/27/what-investors-should-consider-when-thinking-about-the-potential-of-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence [What Think Tanks are thinking]"
-    excerpt: "This note gathers links to the recent publications and commentaries from many international think tanks on artificial Intelligence."
-    publishedDateTime: 2023-03-23T17:00:00Z
-    webUrl: "https://epthinktank.eu/2023/03/23/artificial-intelligence-what-think-tanks-are-thinking-2/"
-    type: article
-    provider:
-      name: EP Research Service
-      domain: epthinktank.eu
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/epthinktank.eu/wp-content/uploads/2023/03/EPRS_BRIE_TT_745695_Artificial_Intelligence_final.jpeg?fit=820%2C513&#038;ssl=1"
-        width: 820
-        height: 513
-        isCached: true
   - title: "\"Godfather of artificial intelligence\" weighs in on the past and potential of AI"
     excerpt: "Artificial intelligence is more prevalent than ever, with OpenAI, Microsoft and Google all offering easily available AI tools. The technology could change the world, but experts also say it's something to be cautious of. Some chatbots are even advanced ..."
     publishedDateTime: 2023-03-25T13:31:00Z

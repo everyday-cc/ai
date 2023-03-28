@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/03/24/how-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/03/24/how-ai-can-help-you-develop-emotional-intelligence/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Labs Advances Computer Vision Development with Two New AI Models"
-    excerpt: "VI-Depth 1.0 and MiDaS 3.1 open source AI models improve depth estimation for computer vision. Depth estimation is a challenging computer vision task required to create a wide range of applications in robotics,"
-    publishedDateTime: 2023-03-23T16:00:00Z
-    webUrl: "https://www.unite.ai/intel-labs-advances-computer-vision-development-with-two-new-ai-models/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 54
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/03/intellabs-1000x600.png"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "'AI, can I deduct that?' The top five overlooked tax deductions and how AI can help you find more."
     excerpt: "The AI models are even trained to flag highly complex returns for ... When it comes to saving cash on gadgets, remember, many “budget” smartphones still start in the $500-$800 range, so be sure to shop for deals and look at all your options, including ..."
     publishedDateTime: 2023-03-24T03:39:00Z

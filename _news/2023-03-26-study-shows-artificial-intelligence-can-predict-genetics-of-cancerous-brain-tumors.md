@@ -43,20 +43,6 @@ related:
         height: 450
         isCached: true
   - title: "Artificial intelligence predicts genetics of cancerous brain tumors in under 90 seconds"
-    excerpt: "Using artificial intelligence, researchers have discovered how to screen for genetic mutations in cancerous brain tumors in under 90 seconds—and possibly streamline the diagnosis and treatment of gliomas, a study suggests. A team of neurosurgeons and ..."
-    publishedDateTime: 2023-03-23T16:41:00Z
-    webUrl: "https://medicalxpress.com/news/2023-03-artificial-intelligence-genetics-cancerous-brain.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 46
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-25.jpg"
-        width: 1035
-        height: 582
-        isCached: true
-  - title: "Artificial intelligence predicts genetics of cancerous brain tumors in under 90 seconds"
     excerpt: "Using artificial intelligence, researchers have discovered how to screen for genetic mutations in cancerous brain tumors in under 90 seconds — and possibly streamline the diagnosis and treatment of gliomas, a study suggests. A team of neurosurgeons and ..."
     publishedDateTime: 2023-03-23T19:04:00Z
     webUrl: "https://www.eurekalert.org/news-releases/983793"

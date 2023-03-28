@@ -76,20 +76,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "These are the 34 jobs OpenAI suggests will secure you against the AI revolution"
-    excerpt: "The creators of recent AI phenomenon, ChatGPT ... Additionally, LLMs can be used to translate content into different languages, which can help to reach a wider audience. And, I can be used to generate personalized content, such as news articles that ..."
-    publishedDateTime: 2023-03-23T15:12:00Z
-    webUrl: "https://www.pcgamer.com/these-are-the-34-jobs-openai-suggests-will-secure-you-against-the-ai-revolution/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 35
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ScPYLdpxFRGNZK7zfy5Lh6-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "dz9NV3HGitOdeouaqrWtn02TDlgxB0IN3/UksEEz24vXkVEune2G7oS/OgFH1xKduEWLuRkTW3xWeFh7Pat8xWuh6SYu8iBBsrwupSc4Rjw1/JX317tr8+7OaSvXjz1jykBTZF+7IQlizXz6EcZZveqLocS4Dp35PvuI2YubsTv7GqHusO//QSm/rUWmOAIjwiTuWjKICqalbrCwlqGkl0+GRA6XwD+8SZGBsD7ks+bBv/jOsyPd+KGgwVwYGkNf4Cf+tVL85SSTKyMvTskXBlsSFe3TQ6nO1dxwrU/06Up+tJC7ctzzDyYKOtnA8eBTw9+XS2vJOAp5hNCQ+ucm2g6qqD8cA+8wbNdBBzJSBbH6BlnEwkVTFtERACXGP5dhaFO1YaKrNuJFxEsvxp0SKzd8FGED8iVZ34NnkKcTM63/spjnWqjn/RS7b6WXPSrl3J6emZlN9d83X6dyHa2Do9d45/pT58EXYOaPki7UnC9ZvLyovqStdVMIAzLw+cEYAOxTMDznQvFKNdIH0CRcyQ==;Pc1ZtLsmBR3q8pW0s8e6cA=="
 ---

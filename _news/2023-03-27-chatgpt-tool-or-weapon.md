@@ -111,20 +111,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Google Bard accused of plagiarism as publishers fight back against AI chatbots"
-    excerpt: "Bard missed all the finer nuances of the comparison, and ended up highlighting only the gaming aspect of the two chips, thereby offering an incomplete analysis. Plagiarism by an AI chatbot is nothing new. According to The Wall Street Journal, Google Bard ..."
-    publishedDateTime: 2023-03-23T15:18:00Z
-    webUrl: "https://www.techspot.com/news/98049-google-bard-accused-plagiarism-publishers-fight-back-against.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 65
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2023/03/2023-03-23-image-14.jpg"
-        width: 2500
-        height: 1620
-        isCached: true
   - title: "Even with ChatGPT-4, there's no such thing as Artificial Intelligence. AI is a misnomer"
     excerpt: "The term, AI, breeds misunderstanding and helps its creators avoid culpability. Reasonable technologists have tried for years to replace “AI” with “machine learning” but that doesn’t trip off the tong"
     publishedDateTime: 2023-03-27T06:38:00Z
@@ -171,22 +157,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Intimate AI chatbot connections raise questions over tech's therapeutic role"
-    excerpt: "As artificial intelligence gains more capabilities the public has flocked ... Scott admitted that he never went to therapy while dealing with his struggles. \"In hindsight, yeah, maybe that would've been a good idea,\" he said. Turkle said it is important ..."
-    publishedDateTime: 2023-03-23T15:36:00Z
-    webUrl: "https://abcnews.go.com/Technology/intimate-ai-chatbot-connections-raise-questions-techs-therapeutic/story?id=98014798"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/intimate-ai-chatbot-connections-raise-questions-techs-therapeutic/story?id=98014798"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/intimate-ai-chatbot-connections-raise-questions-techs-therapeutic/story?id=98014798"
-    type: article
-    provider:
-      name: ABC News
-      domain: abcnews.go.com
-    quality: 56
-    images:
-      - url: "https://s.abcnews.com/images/Technology/ntl-4-scott-sarina-abc-ps-230322_1679507960689_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "I made ChatGPT talk to itself - and the results weren’t what I expected"
     excerpt: "My approach to ChatGPT and its burgeoning (and possibly career-threatening) success both within the tech industry and beyond our little digital bubble has been largely the same, with some small alterations."
     publishedDateTime: 2023-03-27T06:00:00Z
@@ -217,15 +187,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "ChatGPT, OpenAI’s text-generating AI system, has taken the world by storm ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed ..."
-    publishedDateTime: 2023-03-23T16:40:00Z
-    webUrl: "https://techcrunch.com/2023/03/23/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
   - title: "Retro Chatbot: ChatGPT comes to MS-DOS with new AI client"
     excerpt: "In this case, he turned his attention to MS-DOS, a text-only operating system first released in 1981, and ChatGPT, an AI-powered large language model (LLM ... proxy that can run on a modern computer and translate the requests and responses between the ..."
     publishedDateTime: 2023-03-27T19:41:00Z

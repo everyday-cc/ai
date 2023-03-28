@@ -48,20 +48,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Oracle’s MySQL HeatWave gets embedded machine learning capabilities"
-    excerpt: "Oracle is bundling some popular machine learning applications into the engine including support for anomaly detection, recommendation and multivariate time series forecasting. Anomaly detection is popular in financial services for uses such as determining ..."
-    publishedDateTime: 2023-03-23T15:10:00Z
-    webUrl: "https://siliconangle.com/2023/03/23/oracles-mysql-heatwave-gets-embedded-machine-learning-capabilities/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 43
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/landscape-2806202_1920.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "htsT9iXTaoDQnqrtw+Or2bwFNWXUt97pqHnICql2lvT1rFMNDqrCurNQS2pQHkAp5TlJQGg8HActCAJuiIYe+d67HCJppYo3uY6FBQWkF1x83hu8hZr/+VWDVt0NqWe3KFHtubgo0yeStT4GTQzGevTzQyUVDFBhlfwbtHpPXtVXcyPWOWwScO4b6NPteiPe9HI+uqhyQBjpZBrR9mFYs/3GfCRkX6Mw19lavDkuG8ibEoT7FKBzkctnDO9ZGBV5NLRHh+1zFWfZvH75V/9cvg3NcQkMkhrLhwjeMn6BHJvvnnf5OuB2C5fQVkr3hw6K6lQYr622EFZeW0WTvRYBw+53pi/eFfgIpbOQTPnCBRxpIhuzLT7NQO1cqLZhgNe3MJlN0yHc4RhwHcLyWVm1Hz+KpdvkBr5cLCGRmCVxHS26K+ii0c7pOnZlSopwpXqZ7VcuV9bT0rZZE1h0Y8kSbcDyQJKUV16FPn/ByRfL/nSJHEQoV/olYgcJwzbNShSd5BbPoaMi0hDQDZpkbWnjIg==;Lu/+dIKWB4iPV6LRXhBJSA=="
 ---

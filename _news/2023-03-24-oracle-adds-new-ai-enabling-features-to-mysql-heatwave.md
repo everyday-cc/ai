@@ -48,20 +48,6 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 49
-  - title: "Oracle’s MySQL HeatWave gets embedded machine learning capabilities"
-    excerpt: "Oracle is bundling some popular machine learning applications into the engine including support for anomaly detection, recommendation and multivariate time series forecasting. Anomaly detection is popular in financial services for uses such as determining ..."
-    publishedDateTime: 2023-03-23T15:10:00Z
-    webUrl: "https://siliconangle.com/2023/03/23/oracles-mysql-heatwave-gets-embedded-machine-learning-capabilities/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 43
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/landscape-2806202_1920.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "e52T0KNhoat6iMxFUVozFExkzSGMw4DuwWJPlENc28vuuUSjtbCQuX34e+nN8+u2MPw57x40ZMErz5k//w0ECfp17oS7QOiLGjqe5h7cgoDlFvtBSnmjKMZ+vyeiWfUiRBHJVIYR8KogHo7/wIH2ZoIsLmdtTDHO6w8ATK8GWngrjgrLjuh1/oaH3doJ0FD5FyvKO0Nuy2B/VsDplGdPtl8F7TnJ433ud9/ysuWagTlDG10MQ+LwLR4yq9NQVGSn+vnRldNsNKSscnI/KJWLQa4lhckiMQJ4FII57iXkz5+lOk9p5NqQM6MTd8YUUKEDys9UW3yuV5q9fnPikN3WDaFQ+pl3xPX9qYV4MUfv2lRyjVwb4gwzfF/4rFw6zEcbJgV0NL/Iej+DgMhUvIC393Glg5rWa05rwIDgHOSBz8UbLPM+onYGSZAYof+1/iHHVxGTukP3UTddFT4rzpfW5qsntqwGD1uPvSBPVi0TWEzyNZSR2qIeurPI+Qydj6tW099n+/p5VtRyNWLHx0L4HQ==;DCs1lrp2XSGqYn5HO3dPHg=="
 ---
