@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/22/canva-new-features-including-suite
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/canva-new-features-including-suite-of-ai-powered-tools/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202303/untitled_design_0-sixteen_nine.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Canva embraces AI with a new suite of brand management features and tools"
-    excerpt: "Other new features include Beat Sync, which automatically matches video footage to the soundtrack, an AI-powered translation feature supporting over 100 languages, and Magic Write, a service that creates content from a simple text prompt. Canva has also ..."
-    publishedDateTime: 2023-03-23T07:44:00Z
-    webUrl: "https://siliconangle.com/2023/03/23/canva-embraces-ai-new-suite-brand-management-features-tools/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 38
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/canva.png"
-        width: 1197
-        height: 631
         isCached: true
   - title: "Introducing a new era of AI-powered experiences in Dynamics 365 Business Central"
     excerpt: "Microsoft Dynamics 365 Business Central brings the power of AI to businesses with features that help companies perform better. Learn more."

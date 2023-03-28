@@ -48,15 +48,6 @@ related:
         width: 820
         height: 513
         isCached: true
-  - title: "Seven things to know about Responsible AI"
-    excerpt: "When we build tools within Microsoft to help us identify and measure and mitigate responsible AI challenges, we bake those tools into our Azure machine learning (ML) development platform so our customers can also use them for their own benefit."
-    publishedDateTime: 2023-03-23T09:01:00Z
-    webUrl: "https://news.microsoft.com/en-gb/2023/03/23/seven-things-to-know-about-responsible-ai/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 19
 
 secured: "FZbAyu+L0XDQTZJJFI7LHWrGD29L3F+/OpEiMgOCZ/Ap8didTe/gwbWEI1GbljKd6KfTjqkE2UITyeYjgxfDNiNk/Eicj03vewzAinnD8SPf+QpNSTL+Wy9aL6IewiGM5kokJg6052xPcQXhNx4bMryWPcW9qXTVxnnzAhfLBVLVbg99gC3w2QX+2zmYM2OsJ1Am4VeGimDXeZF0mYrG9QzZ9HvenmmzE62P/ZIndlepDHWJPKI1o4sqx0Xx5FqlKhhuhVgjpXRZ8rdVujnl6ayV3yA3zQVv9IhrrImQes1Y5VSszXcJAYwJzhAdlwJS0RlFzIwvIANoArIcM376PXiZNvuJ3blOLGeeSA4ALQJWOdi0sbOuCriP6AtyEF+KfOREWlkYubDyl2ANcsQuSBisFoNrmGOBKl8oXsmrch7GG3ldD1oQ3VuJ6nCyRRnjtRLxEIOaiUAvWnO0RHvIOvssFz7P5oyUtw2u5PON6IdAQhciAxVWmaWF1An9kfvt+RrWJ6MzUO1XFiHm5L7+Vw==;cXLllAEqRiymKO6MXKymBQ=="
 ---

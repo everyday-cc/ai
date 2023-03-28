@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 629
         isCached: true
+  - title: "Creating magic with Coke and AI"
+    excerpt: "Forget all that future dystopia stuff: now you can use AI to make your very own Coke ads. This is Fast Company’s Brand Hit or Miss of the Week."
+    publishedDateTime: 2023-03-24T15:54:00Z
+    webUrl: "https://www.fastcompany.com/video/creating-magic-with-coke-and-ai/GR4wKIjr"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "yzZtUTrYstd8ASyyJmMnc3RgQDuzrbDxsYxUYV/Psq0qI7MIW8Kn0/Ma4W7BHnDQzgTgqDdO0bNH3Xe8RJNOhZQMMBIeJC+OGjmCVxYEoUthVS+7REntpvA9rCrAkj77mw0Yt/99qc5M6vaHlZ0ollUWNjb1LNa+L99WYz2YtCDUZttPgy+b9bqjNwEby8pDZN1EXAvmnjcKeSCZarGhnMiH67QBE88B7KxQnt+iBq1xeAN2Q+7tUqr63679u799hF1gCmQEe2LA7xNJSdufPa39rHj6MYtIK69viRz/hW6WVqpLjGORksMjwl6C33Cliv0VAuo5A49PBwAMuaGOchgVBX2K+BgENIAY7WRE7/I=;rOp1Co7mlxLgn8bTHm6qYA=="
 ---

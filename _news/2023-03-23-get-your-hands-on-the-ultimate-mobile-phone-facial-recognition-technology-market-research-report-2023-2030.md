@@ -45,20 +45,6 @@ related:
         width: 640
         height: 426
         isCached: true
-  - title: "Govt to install facial recognition technology at airports"
-    excerpt: "The Federal Government is set to install facial recognition technology at major airports in Nigeria. This was made known by the Minister of State, Budget and National Planning, Prince Clem Ikanada Agba, when he hosted the Japanese Ambassador in Nigeria ..."
-    publishedDateTime: 2023-03-23T08:45:00Z
-    webUrl: "https://thenationonlineng.net/govt-to-install-facial-recognition-technology-at-airports/"
-    type: article
-    provider:
-      name: The Nation Newspaper
-      domain: thenationonlineng.net
-    quality: 54
-    images:
-      - url: "https://nation-media-assets.storage.googleapis.com/wp-content/uploads/2023/03/23094446/facial-recognition.jpg"
-        width: 500
-        height: 277
-        isCached: true
   - title: "Facial recognition techniques nail robbers"
     excerpt: "Warrant officer Vanishree Abdul Rahim was the SAPS facial recognition techniques expert who did an analysis. She testified in court how she was able to determine that the accused were the same individuals seen in different instances, in the CCTV footage ..."
     publishedDateTime: 2023-03-26T11:12:00Z

@@ -98,6 +98,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "Modern Hire Recognized as a Winner of the Business Intelligence Group's 2023 Artificial Intelligence Excellence Awards"
+    excerpt: "Modern Hire, the enterprise hiring platform that uses advanced selection science to mitigate bias and predict candidate fit, today announced it has been recognized as a winner of The Business Intelligence Group's inaugural Artificial Intelligence Excellence Awards."
+    publishedDateTime: 2023-03-23T18:15:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/03/23/9782412.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "RbPHUYa1olUcaddWmI07ByTfS/yyiaafYy25OsnuSTfFJ6WG2NCZFPmWmXkoEMHDqlxS2NihUfnChQydBTy/XZVh0aItPcpnGNW9SEzyZReqEpqXP7d5djCJfXcgMeZNRUMS2v/DAilkBJukkmV7s5xyylQN6qC2lHQzQMRp8QTF3bmvseHqNJFfmWQ6kZ/QFycYGcaKbYWHQkMs3b0IHfZaehewDNYy+grQLNPOZapsESbSKzhH4SWYG8IQcenXD6ry/XSsEf8u6tAPy387c6qbVQNEJB2VyW5Pap5HQqSdHEC9ElnGP/FCB8/idWntf+kfOgRo7JTX3Od5FytxooZmjNR0ehS2EQLYlLS0YBs=;QD41RTBmebpZt3u9528cNg=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/blockchain/how-ai-robots-are-boosti
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/blockchain/how-ai-robots-are-boosting-productivity-through-accuracy-and-precision-in-agri-tech/3021329/lite/"
 type: article
 quality: 68
-heat: 78
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Financial Express
@@ -27,15 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Knight Optical's Pumping up Productivity: How Robotics are Used in the Oil and Gas Industry"
-    excerpt: "Advances in digitalisation, artificial intelligence (AI), cloud computing, and the Internet of Things (IoT) are contributing to the proliferation of robotic applications in the sector. Consequently, the use of robotics is expected to grow as these ..."
-    publishedDateTime: 2023-03-23T13:50:00Z
-    webUrl: "https://optics.org/press/5692"
+  - title: "How AI Marketing Tools Can Accelerate Your Business and Productivity"
+    excerpt: "In other words, AI marketing tools are like having a marketing team of robots that work around the clock to help ... improve the customer experience, and reduce costs. Start exploring the world of AI marketing tools and watch your business accelerate ..."
+    publishedDateTime: 2023-03-24T05:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/how-ai-marketing-tools-can-accelerate-your-business-and-productivity-2023-03-23"
     type: article
     provider:
-      name: Optics
-      domain: optics.org
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "+0J0CfQF6Jj1oep/ZU/5tgO3zNPVJCkopjUEw3pqiSYxXcngG7ihbksiisTDBy6Ue79ZxIupnLJ47c65EcZTAqNAJF6WHwWLVglfqUcnUIsrzdD5udfuXhIee0vE9Oc0e1quZcf+rXtXZcdAdePtuqt269sAWukC+l7xxOd9QXMMHlBqywxyiTnDKwd0XQBl+M+J0AYikFYSBTJejQ8C7+8cfHUf+pHfgUnqRRv9CSzAE2bSyOMY83BuA+sSoUm4OLELYi3RffzkMhYjGZsqYMZOyXmvAKiv5gKF8EZYPuTbaEIMj3wDaLF5gluRaOGg6tiUMJYuSiX6YnY8xRaAGI4T/E1Pkz4olfJJQeixuLg=;uTC5kOanVsEgLyZk1AylpQ=="
 ---

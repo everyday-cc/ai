@@ -49,15 +49,6 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 27
-  - title: "Seven things to know about Responsible AI"
-    excerpt: "When we build tools within Microsoft to help us identify and measure and mitigate responsible AI challenges, we bake those tools into our Azure machine learning (ML) development platform so our customers can also use them for their own benefit."
-    publishedDateTime: 2023-03-23T09:01:00Z
-    webUrl: "https://news.microsoft.com/en-gb/2023/03/23/seven-things-to-know-about-responsible-ai/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 19
 
 secured: "T0nHe2KWp8N6us89fnascft7NPkGeHk+7k6rHqKSB2qJsPYgxDL6BNggPxoHvMY+y6N4nRJugZ64cfrH4PR84jyHwrrCCJ6q23AZ+EMfVuUIuZPzE4vMSd4wnYUrGILXCkTbGlrEKzGeclamZKHoU0vvWwoluSP7pB7mp5QpGzwAgKJQMxWaUzLFk25Egfx/06m1unb7JDkDIT3r6GRtEWzsZaLAeTMPyJ/36m1aWbX+Li9Sw1bfJjPorSAjMXMMahUl42o7e0PgeOpOmU0baedN5BMep72MuxJaKDmauamQz1MFqDpe1402Q18YqgjF1u3uMOPh+XM6IaeNHo/eK89arGF5pWS9RoLlHBhnXFb0A/fTG9k042YrSq/zl9/bpKz1NmBGdWrut4wFv3yfxbQ9ErDQTBdd9TlpjdKXVDjhMaON0qWca4bkpyDkd1lEP9D7mCBjqnpRUe3HIxNtvrpemxQ41KW0reLjstAP1ZXB8ttngpNUAn34MjSh6JEhdu3VsM3YEQ106KemNEUX9g==;p9zNt8pkToxyOC2SP1KCVA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/27/what-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/27/what-investors-should-consider-when-thinking-about-the-potential-of-ai/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 27
-  - title: "Seven things to know about Responsible AI"
-    excerpt: "When we build tools within Microsoft to help us identify and measure and mitigate responsible AI challenges, we bake those tools into our Azure machine learning (ML) development platform so our customers can also use them for their own benefit."
-    publishedDateTime: 2023-03-23T09:01:00Z
-    webUrl: "https://news.microsoft.com/en-gb/2023/03/23/seven-things-to-know-about-responsible-ai/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 19
 
 secured: "w/jHjioAhtQHgC4B2nzv9Ywr0zahMQpXqTRm74cCHpN3bQwex/OmQxLAkEjmZuN+exi85ELS+/ZX8AZGaLxv1LmHO6t5raHPQcklDXnUOmvhFYdDSe3Btk/bj+y470uasnPvbDT+Kk4fyc2XhQf9UTjj3FcSQUAFcuGzNEZf4PuBEaIWdKsvLhclHi543F9CwapTjegAhtgOWzfZaOEfio2kscCLKKBD9QgH336+bjJ14m5w9YQdlzRs6sKyR5xQmeK8VQgb5eKJjyaS1aTqM2CoM5w+poijEUUuiDh7M9oAqt46r2CSvPQ79uAJEBIHfk4rqtG21mhS8+em2NdQmkxtvk4NiMR/uE+xq/rF9QIVC2cxvA4Oth4nFiFHWEekGYrUbrGtXWsVPlzPqOilArsuqjkOHScN07QRu15c6RmeWyok4+aD2YNUfTW/w5I0zc+wdfCyRhNu+MTaakHc9c9C0Oc7YgqgR9aeKMjg6WLb8HBtk+p3DD3aiUDndjWNtg958wE1Fdvmp0yaKKmAhg==;Tkt5vGIWTeb2Lk1i5Dwy1w=="
 ---

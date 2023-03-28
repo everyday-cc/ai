@@ -7,7 +7,7 @@ originalUrl: "https://optics.org/press/5692"
 webUrl: "https://optics.org/press/5692"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "How AI robots are boosting productivity through accuracy and precision in agri-tech"
-    excerpt: "Within this the global artificial intelligence robots market size is expected to be worth around USD 54.3 billion by 2030. Whether one is consumed or cautious about AI making a mainstream splash, it is critical for professionals, business leaders and ..."
-    publishedDateTime: 2023-03-25T05:45:00Z
-    webUrl: "https://www.financialexpress.com/blockchain/how-ai-robots-are-boosting-productivity-through-accuracy-and-precision-in-agri-tech/3021329/"
-    ampWebUrl: "https://www.financialexpress.com/blockchain/how-ai-robots-are-boosting-productivity-through-accuracy-and-precision-in-agri-tech/3021329/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/blockchain/how-ai-robots-are-boosting-productivity-through-accuracy-and-precision-in-agri-tech/3021329/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 68
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/03/Master-Logo-Original.jpg?w=1024"
-        width: 1024
-        height: 740
-        isCached: true
 
 secured: "bw0+VcsEhS360loIgiG9YfBGxLBLafcv2mDrY+OqlxJ9xA+1pM1XwcemJscl4i7uMO/gUiEUl7vLiBPJF9/kOsF2eoIMM5cF/F+RYz0t/alv4MQ7PQT8BxjKvoORFyU5sanMkjwp7at45ap0v2VJOL5KfQP1a7Opu9QvfvJUSFRp8gCBQcWpxTer4zf/qejcFgupCiR25+DWlYdikfd7bd3wpiJZ6RKLXhjPFUtTzzSUVjkxD51QzCLXApxeROMPstRYYDULP2HzmX2/epwWXM99F0n/oyUKmWSWOMBmLMpqP/f/lvZYqUBD8Rq4FRoo9af4R4ySaSk2OSlNIfm5HZC4/CoB0TsJyRrMkSYCLkzmxlMTjJuSZBDQJvCFhIL8YMQGSUoWxw9atlX97jBg7EZsI6dL2KcSNVf7kEYbfk2Dq/a1aW1zNp0g8tNGkkIZ4GloesuEsirytprHsjdnlyj2f0QCNHXMXQfIji/Cbv6wLFwFoir0dauxqr5+CrYGJJ3nv/1OGxfrx9z4T3ifaA==;epPl7yHhBVYiHGHlgwEQ9A=="
 ---

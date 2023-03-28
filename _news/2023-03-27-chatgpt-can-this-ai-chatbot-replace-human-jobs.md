@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Chatbot Start-Up Character.AI Valued at $1 Billion in New Funding Round"
-    excerpt: "Founded by ex-Google employees, the Silicon Valley company is among the few start-ups poised to compete with OpenAI, the creator of ChatGPT."
-    publishedDateTime: 2023-03-23T09:01:00Z
-    webUrl: "https://www.nytimes.com/2023/03/23/technology/chatbot-characterai-chatgpt-valuation.html"
-    ampWebUrl: "https://www.nytimes.com/2023/03/23/technology/chatbot-characterai-chatgpt-valuation.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/23/technology/chatbot-characterai-chatgpt-valuation.amp.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 89
-    images:
-      - url: "https://static01.nyt.com/images/2023/03/23/multimedia/23CHARACTERAI-1-qkjc/23CHARACTERAI-1-qkjc-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "ChatGPT vs. Bing Chat: Which AI chatbot should you use?"
     excerpt: "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ..."
     publishedDateTime: 2023-03-23T21:58:00Z
@@ -50,6 +34,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/e63ab95bd77e8d21991d7936a5538a8084aae9fe/2023/03/23/709c574b-b938-4c25-9c87-8728af5dfb4b/2022.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "5 ways OpenAI’s ChatGPT plugins could change the AI game | The AI Beat"
+    excerpt: "While the rest of the world went about its business, I noodled about the implications of OpenAI’s latest ChatGPT chess move. You’ve likely heard by now that OpenAI unveiled plugins that link its conversational AI ChatGPT to the real world."
+    publishedDateTime: 2023-03-27T19:22:00Z
+    webUrl: "https://venturebeat.com/ai/5-ways-openais-chatgpt-plugins-could-change-the-ai-game-the-ai-beat/"
+    ampWebUrl: "https://venturebeat.com/ai/5-ways-openais-chatgpt-plugins-could-change-the-ai-game-the-ai-beat/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/5-ways-openais-chatgpt-plugins-could-change-the-ai-game-the-ai-beat/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-30.png?w=1200&strip=all"
+        width: 1200
+        height: 750
         isCached: true
   - title: "ChatGPT vs. Google Bard vs. Bing: Which AI Chatbot Gives the Best Answers?"
     excerpt: "If you are looking for a system to translate languages, then Bing AI might be a good choice. And if you are looking for a system to generate comprehensive and informative responses, then Google Bard might be a good choice.\" In other words, Bard thinks it's ..."
@@ -80,6 +80,20 @@ related:
       - url: "https://images.wsj.net/im-749471/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Creators Shouldn't Overlook These Powerful Uses for AI Like ChatGPT"
+    excerpt: "Artificial intelligence is all the creator economy seems to be talking ... meaningful outcomes than clicks and views could undo decades of progress in corporate ethics and responsibility. In the past, business leaders were considered solely responsible ..."
+    publishedDateTime: 2023-03-27T20:08:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/how-creators-can-harness-the-power-of-ai-like-everyone-else/446730"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1679674530-GettyImages-1248338284-1.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Nine AI Chatbots You Can Play With Right Now"
     excerpt: "“As an AI language model, I don’t have the physical characteristics ... vanilla creme filling with a touch of extra brain power in the form of chocolate chips or another ingredient that represents knowledge and intelligence.” Fun!"
@@ -137,6 +151,22 @@ related:
         width: 2500
         height: 1620
         isCached: true
+  - title: "Even with ChatGPT-4, there's no such thing as Artificial Intelligence. AI is a misnomer"
+    excerpt: "The term, AI, breeds misunderstanding and helps its creators avoid culpability. Reasonable technologists have tried for years to replace “AI” with “machine learning” but that doesn’t trip off the tong"
+    publishedDateTime: 2023-03-27T06:38:00Z
+    webUrl: "https://www.moneycontrol.com/news/opinion/even-with-chatgpt-4-theres-no-such-thing-as-artificial-intelligence-ai-is-a-misnomer-10317181.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/opinion/even-with-chatgpt-4-theres-no-such-thing-as-artificial-intelligence-ai-is-a-misnomer-10317181.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/even-with-chatgpt-4-theres-no-such-thing-as-artificial-intelligence-ai-is-a-misnomer-10317181.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 64
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/03/396571328.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "ChatGPT Busy? 7 AI Chatbot Alternatives Ready to Answer Your Burning Questions"
     excerpt: "If you're in the mood to talk, but ChatGPT is overloaded, you have other AI chatbot options, including Google's Bard, Microsoft's Bing, ChatSonic, and YouChat."
     publishedDateTime: 2023-03-25T17:41:00Z
@@ -165,21 +195,21 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Ex-Google employees' A.I. chatbot startup valued at $1 billion after Andreessen Horowitz funding"
-    excerpt: "Character.AI said it raised $150 million in a funding round led by Andreessen Horowitz. The startup's founders helped create the architecture used in today's popular chatbots. Andreessen previously bet big on crypto and social audio, driving valuations up ..."
-    publishedDateTime: 2023-03-23T19:28:00Z
-    webUrl: "https://www.cnbc.com/2023/03/23/characterai-valued-at-1-billion-after-150-million-round-from-a16z.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/03/23/characterai-valued-at-1-billion-after-150-million-round-from-a16z.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/23/characterai-valued-at-1-billion-after-150-million-round-from-a16z.html"
+  - title: "How to use ChatGPT and other generative AI for business and in life"
+    excerpt: "New AI language models are garnering a lot of interest ... ChatGPT can even help you with translation. - It can assist you in writing essays or long-form copy. - You can have a pleasant conversation with ChatGPT. - You can also use it to play games."
+    publishedDateTime: 2023-03-26T09:21:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/features/how-to-use-chatgpt-and-other-generative-ai-for-business-and-in-life-10313271.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/features/how-to-use-chatgpt-and-other-generative-ai-for-business-and-in-life-10313271.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/features/how-to-use-chatgpt-and-other-generative-ai-for-business-and-in-life-10313271.html/amp"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
+      name: moneycontrol.com
+      domain: moneycontrol.com
     quality: 59
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/102177477-468005219.jpg?v=1679599585"
-        width: 5561
-        height: 3707
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/03/396571328.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Intimate AI chatbot connections raise questions over tech's therapeutic role"
     excerpt: "As artificial intelligence gains more capabilities the public has flocked ... Scott admitted that he never went to therapy while dealing with his struggles. \"In hindsight, yeah, maybe that would've been a good idea,\" he said. Turkle said it is important ..."
@@ -196,6 +226,20 @@ related:
       - url: "https://s.abcnews.com/images/Technology/ntl-4-scott-sarina-abc-ps-230322_1679507960689_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "I made ChatGPT talk to itself - and the results weren’t what I expected"
+    excerpt: "My approach to ChatGPT and its burgeoning (and possibly career-threatening) success both within the tech industry and beyond our little digital bubble has been largely the same, with some small alterations."
+    publishedDateTime: 2023-03-27T06:00:00Z
+    webUrl: "https://www.techradar.com/features/i-made-chatgpt-talk-to-itself-and-the-results-werent-what-i-expected"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/PU2t7kMJ9SFBTJYerGD8ve-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "You wait ages for an AI chatbot to come along, then a whole bunch turn up. Why?"
     excerpt: "The fact that ChatGPT isn’t the only machine-learning program out there is down to the way in which tech breakthroughs arise"
@@ -231,19 +275,65 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
-  - title: "Character.AI Hits Unicorn Status With $150M Raise As AI Craze Continues"
-    excerpt: "Personalized chatbot startup Character.AI closed a $150 million Series A at a $1 billion valuation led by Andreessen Horowitz."
-    publishedDateTime: 2023-03-23T17:17:00Z
-    webUrl: "https://news.crunchbase.com/ai-robotics/character-ai-unicorn-venture-funding/"
+  - title: "Up to 80 PERCENT of US jobs could be impacted by ChatGPT-like AI in coming years, study warns"
+    excerpt: "translation, speech recognition, and instrumental track recognition. The team conducted the research by linking 10 AI-powered applications - such as language - to 52 human abilities to understand if any closely relate. The results showed that ..."
+    publishedDateTime: 2023-03-27T15:24:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11907527/Up-80-PERCENT-jobs-impacted-ChatGPT-like-AI-coming-years-study-warns.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11907527/amp/Up-80-PERCENT-jobs-impacted-ChatGPT-like-AI-coming-years-study-warns.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11907527/amp/Up-80-PERCENT-jobs-impacted-ChatGPT-like-AI-coming-years-study-warns.html"
     type: article
     provider:
-      name: news.crunchbase
-      domain: crunchbase.com
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 48
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2023/03/27/16/69164461-0-image-a-6_1679930230131.jpg"
+        width: 636
+        height: 382
+        isCached: true
+  - title: "ChatGPT: Who and what is behind the artificial intelligence tool changing the tech landscape"
+    excerpt: "Since the introduction of the artificial intelligence tool ChatGPT in November 2022, the new technology has displayed the power and potential that AI can have on our lives. Open AI CEO Sam Altman, the company behind ChatGPT, admitted earlier this month ..."
+    publishedDateTime: 2023-03-27T09:11:00Z
+    webUrl: "https://www.foxbusiness.com/media/chatgpt-who-what-behind-artificial-intelligence-tool-changing-tech"
+    ampWebUrl: "https://www.foxbusiness.com/media/chatgpt-who-what-behind-artificial-intelligence-tool-changing-tech.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/media/chatgpt-who-what-behind-artificial-intelligence-tool-changing-tech.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 46
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/f46d9c44-91e7-4795-95c8-3d296cc14d18/c4f2cd34-8b55-40f3-bbfc-32a36cde9a3a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Why the makers of ChatGPT care what Pope Francis says about AI"
+    excerpt: "In January, Pope Francis addressed tech-industry leaders from companies such as Microsoft and IBM as well as members of the Jewish and Muslim communities during a conference on ethics in AI at the Vatican. The pope urged them to “ensure that the ..."
+    publishedDateTime: 2023-03-23T13:56:00Z
+    webUrl: "https://www.americamagazine.org/faith/2023/03/23/chatgpt-machine-learning-catholic-244953"
+    type: article
+    provider:
+      name: America Magazine
+      domain: americamagazine.org
     quality: 39
     images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/AI_robotics_Unicorn.jpg"
-        width: 900
-        height: 506
+      - url: "https://www.americamagazine.org/sites/default/files/styles/article_image_750_x_503_/public/main_image/2023/03/23/rolf-van-root-oLthDWAG244-unsplash.jpg.jpg?itok=4H9L3l5G"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Jack Ma comments on ChatGPT, AI in the digital era"
+    excerpt: "A response by ChatGPT, an AI chatbot developed by OpenAI, is seen on its website in this illustration picture taken Feb 9, 2023. [Photo/Agencies] Jack Ma, founder of Alibaba Group"
+    publishedDateTime: 2023-03-27T10:45:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202303/27/WS64215c74a31057c47ebb6c95.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202303/27/64215d5da31057c4b4b80291.jpeg"
+        width: 720
+        height: 480
         isCached: true
   - title: "a16z Leads $150M Series A Round in Chatbot Startup Character AI"
     excerpt: "Venture capitalist firms are always on the lookout for the next big thing, and Andreessen Horowitz is no exception. They recently announced an investment in Character AI, a software development company,"
@@ -259,6 +349,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Codie.ai, first consultative AI assistant based on OpenAI ChatGPT"
+    excerpt: "Codie.ai has launched an AI assistant to transform how businesses interact with their customers. The platform interacts with customers human-likely and provides information about products and services of the company or retailer. London-based startup Codie ..."
+    publishedDateTime: 2023-03-24T21:11:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/ab31499408/codie-ai-first-consultative-ai-assistant-based-on-openai-chatgpt"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Revealed: Jobs most at risk from artificial intelligence chatbot ChatGPT"
     excerpt: "round 80 per cent of US workers could see their jobs impacted by artificial intelligence chatbot ChatGPT, a study found. ChatGPT is a free AI “chatbot” which can be used to do anything from writing essays to creating diet plans and helping users to ..."
     publishedDateTime: 2023-03-26T07:29:00Z
@@ -272,6 +376,22 @@ related:
       - url: "https://static.standard.co.uk/2022/12/20/17/20172519-11b276fe-6c3b-481d-a99a-14ae76e0b1cf.jpg?width=1200&width=1200&auto=webp&quality=75"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Exploring potential applications for ChatGPT in nuclear medicine and molecular imaging"
+    excerpt: "Developed by OpenAI, ChatGPT is a natural language processing chatbot that can intelligently respond to questions. In conversations with users, the chatbot always \"pays attention\" and remembers the thread of the dialogue. It is available in more than 90 ..."
+    publishedDateTime: 2023-03-27T20:14:00Z
+    webUrl: "https://medicalxpress.com/news/2023-03-exploring-potential-applications-chatgpt-nuclear.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-03-exploring-potential-applications-chatgpt-nuclear.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-03-exploring-potential-applications-chatgpt-nuclear.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 36
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-2.jpg"
+        width: 1920
+        height: 1451
         isCached: true
   - title: "Man says he formed romantic attachment with AI chatbot — and he's not alone"
     excerpt: "ABC News' Ashan Singh sits down with one of the 2 million users of Replika, a conversational chatbot program that is quickly gaining traction online."
@@ -287,19 +407,44 @@ related:
         width: 608
         height: 342
         isCached: true
-  - title: "The Week’s 10 Biggest Funding Rounds: Benefits Startup Gravie And Character.AI Lock Up Huge Rounds"
-    excerpt: "Want to keep track of the largest startup funding deals in 2023 with our new curated list of $100 million-plus venture deals to U.S.-based companies? Check out our new Megadeals Tracker here. This is a weekly feature that runs down the week’s top 10 ..."
-    publishedDateTime: 2023-03-24T18:44:00Z
-    webUrl: "https://news.crunchbase.com/venture/biggest-funding-rounds-gravie-character-ai/"
+  - title: "Paper written using ChatGPT demonstrates opportunities and challenges of AI in academia"
+    excerpt: "ChatGPT has the potential to create increasing and exciting opportunities—but also poses significant challenges—for the academic community, according to an innovative study written in large part using the software."
+    publishedDateTime: 2023-03-23T20:19:00Z
+    webUrl: "https://phys.org/news/2023-03-paper-written-chatgpt-opportunities-ai.html"
     type: article
     provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 23
+      name: Phys.org
+      domain: phys.org
+    quality: 29
     images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg"
-        width: 900
-        height: 506
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/paper-written-using-ch.jpg"
+        width: 1719
+        height: 872
+        isCached: true
+  - title: "ChatGPT: tool or weapon?"
+    excerpt: "There is ChatGPT or GPT-4, but what is GPT anyway? GPT stands for Generative Pre-trained Transformer a program which has the ability to perform natural language processing tasks, such as answering questions, summarizing texts and making term papers!"
+    publishedDateTime: 2023-03-27T09:47:00Z
+    webUrl: "https://www.bworldonline.com/opinion/2023/03/27/513146/chatgpt-tool-or-weapon/"
+    ampWebUrl: "https://www.bworldonline.com/opinion/2023/03/27/513146/chatgpt-tool-or-weapon/?amp"
+    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/opinion/2023/03/27/513146/chatgpt-tool-or-weapon/?amp"
+    type: article
+    provider:
+      name: BusinessWorld
+      domain: bworldonline.com
+    quality: 24
+  - title: "Here’s How Nvidia Is Powering The ChatGPT Frenzy"
+    excerpt: "ChatGPT owes a large part of its capabilities to the powerful computing hardware developed by Nvidia. In this article, we'll"
+    publishedDateTime: 2023-03-27T11:40:00Z
+    webUrl: "https://www.techbooky.com/heres-how-nvidia-is-powering-the-chatgpt-frenzy/"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 24
+    images:
+      - url: "https://i0.wp.com/www.techbooky.com/wp-content/uploads/2023/03/chatgpt-nvidia.webp?fit=1600%2C900&ssl=1"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Tencent plans to rollout WeChat Chatbot Similar to ChatGPT, but says not in a rush to be the first"
     excerpt: "Tencent’s Chatbot is called ‘HunyuanAide’. The chatbot will use the Tencent Hunyuan AI model which has the capacity for natural language processing, multimodal content understanding, computer vision, content creation, and more. Hunyuan AI gives ..."
@@ -310,6 +455,15 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 20
+  - title: "Is ChatGPT Smart Enough To Practice Mental Health Therapy?"
+    excerpt: "Online therapy is a booming industry ... recently surveyed several dozen mental health experts and bot developers actively involved with artificial intelligence chatbot projects. Some respondents rejected the reliability of AI tools to replace human ..."
+    publishedDateTime: 2023-03-23T12:00:00Z
+    webUrl: "https://www.technewsworld.com/story/is-chatgpt-smart-enough-to-practice-mental-health-therapy-178064.html"
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 19
   - title: "Tread a Careful Legal Path Around AI Chatbots"
     excerpt: "A company, which will remain nameless, recently contacted GlobeSt.com about a commercial real estate service that incorporated ChatGPT’s natural language processing. An interesting concept, but when asked about potential issues of copyright, the firm ..."
     publishedDateTime: 2023-03-24T11:52:00Z
@@ -319,15 +473,33 @@ related:
       name: GlobeSt.com
       domain: globest.com
     quality: 19
-  - title: "Character.AI raises $150 mn in VC funding led by Andreessen Horowitz"
-    excerpt: "Character.AI has raised $150 million in a new VC funding round led by Andreessen Horowitz that valued the AI chatbot startup at $1 billion. Character.AI is also in talks with cloud providers for more strategic investment, Reuters news report said."
-    publishedDateTime: 2023-03-23T12:46:00Z
-    webUrl: "https://infotechlead.com/tech/character-ai-raises-150-mn-in-vc-funding-led-by-andreessen-horowitz-77512"
+  - title: "How watermarks can help protect against fraud with generative AI like ChatGPT"
+    excerpt: "There are reasonable and technologically feasible interventions that can be used to help mitigate abuses with generative AI like ChatGPT and DALL-E."
+    publishedDateTime: 2023-03-27T13:00:00Z
+    webUrl: "https://www.fastcompany.com/90871934/how-watermarks-can-help-protect-against-fraud-with-generative-ai-like-chatgpt"
     type: article
     provider:
-      name: infotechlead
-      domain: infotechlead.com
-    quality: 17
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 14
+  - title: "SoundHound Launches Chat AI Voice Assistant With Access to ChatGPT on Android, iOS"
+    excerpt: "SoundHound's proprietary technology is claimed to intelligently select the right response by combining access to GPT, and real-time knowledge domains."
+    publishedDateTime: 2023-03-24T13:36:00Z
+    webUrl: "https://www.gadgets360.com/apps/news/soundhound-chatgpt-android-ios-app-smart-ai-voice-assistant-features-details-3890346"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 13
+  - title: "Can ChatGPT invent a new language? AI bot stuns Twitter user with some jaw-dropping responses"
+    excerpt: "ChatGPT’s efficiency with generating content from scratch is well known. However, a Twitter user challenged the bot with a unique task."
+    publishedDateTime: 2023-03-24T04:13:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-invents-new-language-chronosentia-8515039/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 8
   - title: "Here's why Character.AI chatbot founders say this week's unicorn funding is just a start"
     excerpt: "Running this type of AI can be expensive and, while you just raised a very large ... Clearly people love what we have to offer and that will help us start to monetize this in the not-too-distant future. Noam: Our first option is to monetize through ..."
     publishedDateTime: 2023-03-24T22:21:00Z

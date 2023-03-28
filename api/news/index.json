@@ -2,6 +2,99 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-28-3-key-trends-for-2023-low-codeno-code-generative-ai-and-the-evolution-of-programming.md",
+      "title": "3 key trends for 2023: Low code/no code, generative AI and the evolution of programming",
+      "excerpt": "Why tech trends this year will include increased use of low-code/no-code tools and generative AI, and fundamental changes to programming.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/programming-development/3-key-trends-for-2023-low-code-no-code-generative-ai-and-the-evolution-of-programming/",
+      "originalUrl": "https://venturebeat.com/programming-development/3-key-trends-for-2023-low-code-no-code-generative-ai-and-the-evolution-of-programming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1033717116.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/programming-development/3-key-trends-for-2023-low-code-no-code-generative-ai-and-the-evolution-of-programming/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/programming-development/3-key-trends-for-2023-low-code-no-code-generative-ai-and-the-evolution-of-programming/amp/",
+      "publishedDateTime": "2023-03-27T18:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-ai-generated-images-of-pope-francis-in-puffer-jacket-fool-the-internet.md",
+      "title": "AI-generated images of Pope Francis in puffer jacket fool the internet",
+      "excerpt": "The viral images are one of the first instances of wide-scale misinformation stemming from artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/pope-francis-ai-generated-images-fool-internet-rcna76838",
+      "originalUrl": "https://www.nbcnews.com/tech/pope-francis-ai-generated-images-fool-internet-rcna76838",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-03/230327-pope-francis-mn-1540-44bd14.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna76838",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna76838",
+      "publishedDateTime": "2023-03-27T16:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-28-wearable-devices-to-showcase-embedded-machine-learning-ai-technology-at-tinyml-summit-2023.md",
       "title": "Wearable Devices To Showcase Embedded Machine Learning AI Technology At Tinyml Summit 2023",
       "excerpt": "The Company will demonstrate how its AI-based neural input technology interprets neural signals to control digital devices using touchless finger",
@@ -85,57 +178,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-5-ways-openais-chatgpt-plugins-could-change-the-ai-game-the-ai-beat.md",
-      "title": "5 ways OpenAI’s ChatGPT plugins could change the AI game | The AI Beat",
-      "excerpt": "While the rest of the world went about its business, I noodled about the implications of OpenAI’s latest ChatGPT chess move. You’ve likely heard by now that OpenAI unveiled plugins that link its conversational AI ChatGPT to the real world.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/5-ways-openais-chatgpt-plugins-could-change-the-ai-game-the-ai-beat/",
-      "originalUrl": "https://venturebeat.com/ai/5-ways-openais-chatgpt-plugins-could-change-the-ai-game-the-ai-beat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 267,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-30.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/5-ways-openais-chatgpt-plugins-could-change-the-ai-game-the-ai-beat/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/5-ways-openais-chatgpt-plugins-could-change-the-ai-game-the-ai-beat/amp/",
-      "publishedDateTime": "2023-03-27T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -398,7 +440,7 @@
       "originalUrl": "https://www.techrepublic.com/article/how-to-use-gptzero-check-ai-generated-text/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -492,49 +534,6 @@
         "AI",
         "AI in Sales",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-pope-francis-an-ethical-ai-respects-human-dignity.md",
-      "title": "Pope Francis: An ethical AI respects human dignity",
-      "excerpt": "Credit: Vatican Media Pope Francis said he welcomes the regulation of artificial intelligence so that it might contribute to a better world. He also said he is reassured to know many people working on new technologies put ethics, the common good ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.catholicnewsagency.com/news/253947/pope-francis-an-ethical-ai-respects-human-dignity",
-      "originalUrl": "https://www.catholicnewsagency.com/news/253947/pope-francis-an-ethical-ai-respects-human-dignity",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.catholicnewsagency.com/storage/image/mtc4775.jpg?w=720&h=480",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.catholicnewsagency.com/amp/news/253947/pope-francis-an-ethical-ai-respects-human-dignity",
-      "cdnAmpWebUrl": "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/253947/pope-francis-an-ethical-ai-respects-human-dignity",
-      "publishedDateTime": "2023-03-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Catholic News Agency",
-        "domain": "catholicnewsagency.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     },
     {
@@ -805,7 +804,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/27/what-investors-should-consider-when-thinking-about-the-potential-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {

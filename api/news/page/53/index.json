@@ -2,6 +2,57 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2023-02-09-bret-taylor-former-co-ceo-of-salesforce-to-create-ai-startup-with-google-veteran.md",
+      "title": "Bret Taylor, Former Co-CEO of Salesforce, to Create AI Startup With Google Veteran",
+      "excerpt": "Bret Taylor, the former co-chief executive of Salesforce Inc., is launching an artificial-intelligence startup with a longtime veteran of Google, becoming the latest big name to dive into the race to try to cash in on AI. Mr. Taylor—who has backed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/bret-taylor-former-co-ceo-of-salesforce-to-create-ai-startup-with-google-veteran-11675898772",
+      "originalUrl": "https://www.wsj.com/articles/bret-taylor-former-co-ceo-of-salesforce-to-create-ai-startup-with-google-veteran-11675898772",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-720709/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T14:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-the-plateauing-of-cognitive-ability-among-top-earners.md",
       "title": "The plateauing of cognitive ability among top earners",
       "excerpt": "The researchers combine wage data from Swedish population registers with scores from cognitive ability tests taken from military conscripts at age 18-19. \"This data trove permits us to test ...",
@@ -1087,50 +1138,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-why-amazon-web-services-is-going-to-space.md",
-      "title": "Why Amazon Web Services Is Going To Space",
-      "excerpt": "Credit: Blue Origin Back on Earth, AWS already provides cloud-computing services to the space industry—for example, to satellite companies such as HawkEye 360, a radio-frequency-sniffing satellite operator that used the Amazon SageMaker Autopilot ...",
-      "sourceUrl": null,
-      "webUrl": "https://aviationweek.com/aerospace/commercial-space/why-amazon-web-services-going-space",
-      "originalUrl": "https://aviationweek.com/aerospace/commercial-space/why-amazon-web-services-going-space",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://aviationweek.com/sites/default/files/styles/crop_freeform/public/2023-02/aws-1_d-orbit_promo.jpg?itok=DJnXFHYI",
-          "width": 595,
-          "height": 335,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T02:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Aviation Week",
-        "domain": "aviationweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

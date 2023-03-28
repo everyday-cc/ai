@@ -18,56 +18,92 @@ topics:
   - AI
 
 related:
-  - title: "Modernize your apps and accelerate business growth with AI"
-    excerpt: "At Microsoft, we’re committed to democratizing AI and giving you access to advanced generative AI models. As part of that commitment, in 2019, we started a long-term partnership with OpenAI. In January 2023, we announced the third phase of this partnership, including the general availability of Azure"
-    publishedDateTime: 2023-03-23T07:07:47Z
-    webUrl: "https://azure.microsoft.com/blog/modernize-your-apps-and-accelerate-business-growth-with-ai/"
+  - title: "Cresta Named Winner in 2023 Artificial Intelligence Excellence Awards"
+    excerpt: "PALO ALTO, Calif., March 23, 2023 /PRNewswire/ -- Cresta, a leading provider of generative AI for the contact center, announced today that Business Intelligence Group has named the company a winner in its Artificial Intelligence Excellence Awards program."
+    publishedDateTime: 2023-03-23T13:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cresta-named-winner-in-2023-artificial-intelligence-excellence-awards-1032187830"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 89
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "SoftSmile Honored as 2023 Artificial Intelligence Excellence Award Winner"
+    excerpt: "Since 2012, the award program has been celebrating one-of-a-kind innovations and outstanding performance – and now, SoftSmile joins the distinguished roster, being recognized am"
+    publishedDateTime: 2023-03-23T19:01:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/23/9782481.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 38
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/53d6248f-d174-44f3-b838-b6cae4798126.png"
-        width: 660
-        height: 284
+      - url: "https://mma.prnewswire.com/media/1699572/SoftSmile_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "How AI Marketing Tools Can Accelerate Your Business and Productivity"
-    excerpt: "In other words, AI marketing tools are like having a marketing team of robots that work around the clock to help ... improve the customer experience, and reduce costs. Start exploring the world of AI marketing tools and watch your business accelerate ..."
-    publishedDateTime: 2023-03-24T05:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/how-ai-marketing-tools-can-accelerate-your-business-and-productivity-2023-03-23"
+  - title: "Phenom High-Volume Hiring Earns 2023 Artificial Intelligence Excellence Award by Business Intelligence Group"
+    excerpt: "“Across various industries — including healthcare, early education ... including Gold for ‘Best Advance in AI for Business Impact,’ Business Intelligence Group's Artificial Intelligence Excellence Awards (3 consecutive years), and a regional ..."
+    publishedDateTime: 2023-03-23T15:17:00Z
+    webUrl: "https://www.eagletribune.com/region/phenom-high-volume-hiring-earns-2023-artificial-intelligence-excellence-award-by-business-intelligence-group/article_901fe5c6-62e4-5c2d-819e-7e96f7c8c45c.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 86
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 20
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/2/cd/2cd0109d-3ddb-5573-9709-2b5184980159/641c6bb5545ab.image.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market Trends for Business Growth 2023-2027 with Strategies"
-    excerpt: "Mar 26, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Latest “Artificial Intelligence"
-    publishedDateTime: 2023-03-26T12:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-trends-for-business-growth-2023-2027-with-strategies-2023-03-26"
+  - title: "Seno Medical's SenoGram® Decision Support Tool Named Winner in 2023 Artificial Intelligence Excellence Awards"
+    excerpt: "San Antonio, TX, March 23, 2023 (GLOBE NEWSWIRE) -- The Artificial Intelligence Excellence Awards program has selected Seno Medical's AI platform, SenoGram ® — exclusively available in conjunction with the company's Imagio ® Breast Imaging System ..."
+    publishedDateTime: 2023-03-23T13:36:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31474900/seno-medicals-senogram-decision-support-tool-named-winner-in-2023-artificial-intelligence-excellen"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Creating magic with Coke and AI"
-    excerpt: "Forget all that future dystopia stuff: now you can use AI to make your very own Coke ads. This is Fast Company’s Brand Hit or Miss of the Week."
-    publishedDateTime: 2023-03-24T15:54:00Z
-    webUrl: "https://www.fastcompany.com/video/creating-magic-with-coke-and-ai/GR4wKIjr"
+  - title: "Messagepoint Named Winner in 2023 Artificial Intelligence Excellence Awards"
+    excerpt: "Messagepoint announced today it has been named a winner in the Business Intelligence Group’s Artificial Intelligence (AI) Excellence Awards. The AI Excellence Awards recognize organizations, products and people that use AI to solve real problems."
+    publishedDateTime: 2023-03-23T15:17:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/messagepoint-named-winner-in-2023-artificial-intelligence-excellence-awards/article_4c33d5e9-2993-5b3b-8fe4-fe446d45e09c.html"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 17
+  - title: "Lattice Wins 2023 Artificial Intelligence Awards"
+    excerpt: "HILLSBORO, Ore.--(BUSINESS WIRE)--Lattice Semiconductor (NASDAQ: LSCC), the low power programmable leader, today announced that it won two Artificial Intelligence Excellence Awards from The Business Intelligence Group. The Lattice Avant™ FPGA platform ..."
+    publishedDateTime: 2023-03-23T20:03:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230323005005/en/Lattice-Wins-2023-Artificial-Intelligence-Awards"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 17
+  - title: "Messagepoint Named Winner in 2023 Artificial Intelligence Excellence Awards"
+    excerpt: "Messagepoint announced today it has been named a winner in the Business Intelligence Group’s Artificial Intelligence (AI) Excellence Awards. The AI Ex"
+    publishedDateTime: 2023-03-23T19:17:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230322005774/en/Messagepoint-Named-Winner-in-2023-Artificial-Intelligence-Excellence-Awards"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 17
+  - title: "Virtualitics Wins 2023 Artificial Intelligence Excellence Award"
+    excerpt: "Virtualitics Inc., an artificial intelligence and data exploration company, today announced it has been honored with a 2023 Artificial Intelligence Excellence Award from the Business Intelligence Group."
+    publishedDateTime: 2023-03-23T20:14:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/03/23/9782558.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 17
 
 secured: "/EoShMHqENRWXqVSjF4tfH2AV3lWXSF7b0PAZCI/wpVOoqM2UDgukAfVjdCK1rgy/1ZxoH8RAh/Jp3SHZDvC5VPfEOlmVCmcis4C/gNlYGfXH8k2OL25LQreArzU+8QvUl9S4q4uOIlEYKLYZ/0JGFzVLgt/LEHj1nbz3t5yATTnR5GkoEzL2J+fazjq7MWc6iHeFiKea6eW3z0jC49GPYoSpNYXlVCJMaCO3xIq6s1TTcIARjD8bSMG2NruEdlRohR/UghNAcRmRGaMGsWYB5pQehTfD32dzX1FJM9fF8ubt/6pa+qcNNuuJx9rZNhJ8ekVzunDUpopDBPhLZ8Gjnj2EiSvpQNzT815vDJ71YSmWPBGkxtWFdPJf0xjN3xbnzPsff8qMkxjQy+WBKGUdvcPltBS0wl0fIvY5Ev8xVVAefS5vGk5P6XkB3HE/bLmyJuXwkTSyUvGgxmnaA6G/vCzVNUWoNJ+5qNcOguKj0OdmcVWNFb8tWBCOLh4V+4oNkoCca4NKOMNW6LiolVhwQ==;hY+OyzQGQ7/7SMCmItl25w=="

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Australia unveils referendum question on Indigenous recognition"
-    excerpt: "The referendum – to be held between October and December – will seek to enshrine in the constitution recognition of Indigenous people ... called the “Aboriginal and Torres Strait Islander Voice”. An emotional Albanese said on Thursday that such ..."
-    publishedDateTime: 2023-03-23T07:28:00Z
-    webUrl: "https://www.aljazeera.com/news/2023/3/23/australia-unveils-referendum-question-on-indigenous-recognition"
-    ampWebUrl: "https://www.aljazeera.com/amp/news/2023/3/23/australia-unveils-referendum-question-on-indigenous-recognition"
-    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2023/3/23/australia-unveils-referendum-question-on-indigenous-recognition"
-    type: article
-    provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 44
-    images:
-      - url: "https://www.aljazeera.com/wp-content/uploads/2023/03/2023-03-23T022255Z_939719998_RC2CZZ909LCY_RTRMADP_3_AUSTRALIA-POLITICS-INDIGENOUS.jpg?resize=1920%2C1440"
-        width: 1920
-        height: 1440
-        isCached: true
   - title: "Indigenous Voice: Australia PM unveils plan for historic constitution vote"
     excerpt: "Australia took a step today towards a historical referendum to give Aboriginal and Torres Strait Islanders recognition in the constitution and, for the first time, a voice on matters that affect their lives. In an emotional address, Prime Minister Anthony ..."
     publishedDateTime: 2023-03-23T13:51:00Z
@@ -73,31 +57,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "A constitutional law expert explains the Voice referendum question"
-    excerpt: "Since then, this wording has been the subject of intense discussion and debate in the Referendum Working Group, comprised of Indigenous representatives, which has been advising the government. It has also been scrutinised by the Constitutional Expert Group,"
-    publishedDateTime: 2023-03-26T20:58:00Z
-    webUrl: "https://www.australiangeographic.com.au/news/2023/03/a-constitutional-law-expert-explains-the-voice-referendum-question/"
-    type: article
-    provider:
-      name: Australian Geographic
-      domain: australiangeographic.com.au
-    quality: 39
-    images:
-      - url: "https://www.australiangeographic.com.au/wp-content/uploads/2023/03/shutterstock_1020070705.jpg"
-        width: 1000
-        height: 750
-        isCached: true
-  - title: "Pharmacists turn to artificial intelligence to the problem of Australians skipping medication"
-    excerpt: "A Melbourne-based software group says it can solve Australia’s $10bn a year problem of people forgetting or refusing to take prescription medication."
-    publishedDateTime: 2023-03-27T09:28:00Z
-    webUrl: "https://www.theaustralian.com.au/business/pharmacists-turn-to-artificial-intelligence-to-the-problem-of-australians-skipping-medication/news-story/6ff701fe37e3ddc6b54d434e8cd90fc9"
-    ampWebUrl: "https://www.theaustralian.com.au/business/pharmacists-turn-to-artificial-intelligence-to-the-problem-of-australians-skipping-medication/news-story/6ff701fe37e3ddc6b54d434e8cd90fc9?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/pharmacists-turn-to-artificial-intelligence-to-the-problem-of-australians-skipping-medication/news-story/6ff701fe37e3ddc6b54d434e8cd90fc9?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 28
   - title: "Australian PM Reveals Question For Indigenous Voice Referendum"
     excerpt: "If successful, the Voice will advise Parliament on issues relating to Indigenous peoples. It will also be put to voters that the constitution be amended to include a new chapter titled \"Recognition of Aboriginal and Torres Strait Islander Peoples\"."
     publishedDateTime: 2023-03-23T09:42:00Z
@@ -111,31 +70,6 @@ related:
       - url: "https://menafn.com/updates/pr/2023-03/23/I_a8f83image_story.jpg"
         width: 400
         height: 291
-        isCached: true
-  - title: "Voice referendum: ‘Why Australians should vote Yes’"
-    excerpt: "Aussies will be asked whether they support constitutional recognition for the First Peoples of Australia in the form of an Aboriginal and Torres Strait Islander Voice. News.com.au spoke with Dean Parkin, director of the Yes Campaign, to determine why the ..."
-    publishedDateTime: 2023-03-23T07:35:00Z
-    webUrl: "https://www.news.com.au/national/politics/voice-referendum-why-australians-should-vote-yes/news-story/90d078482ed48514024a7754e79d9a68"
-    ampWebUrl: "https://www.news.com.au/national/politics/voice-referendum-why-australians-should-vote-yes/news-story/90d078482ed48514024a7754e79d9a68?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/voice-referendum-why-australians-should-vote-yes/news-story/90d078482ed48514024a7754e79d9a68?amp"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 24
-  - title: "Dutton undermining Indigenous recognition: Albanese"
-    excerpt: "Labor is holding the line on its refusal to release expert legal advice about the Voice to parliament proposal, firing back at the opposition over the plan."
-    publishedDateTime: 2023-03-27T06:46:00Z
-    webUrl: "https://www.afr.com/politics/federal/dutton-undermining-indigenous-recognition-albanese-20230327-p5cvjc"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.1939%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/f9e4b0ade331e5c9aa07e2b71cb4f17c5dd465dc"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Australian PM announces question for Indigenous Voice to Parliament referendum"
     excerpt: "Albanese was clear that the Voice would not have any form of veto power over the Government or legislation. Further, it was stated that the proposed changes would “enshrine two fundamental principles: Recognition and Consultation” within the Australian ..."

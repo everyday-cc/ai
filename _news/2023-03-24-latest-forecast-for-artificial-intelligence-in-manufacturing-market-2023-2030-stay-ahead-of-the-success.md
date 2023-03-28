@@ -378,20 +378,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence & Advanced Machine Learning Market Sales Outlook 2023 Up-to-date Development Data and Market Trends Forecast to 2027"
-    excerpt: "Competitive Landscape The market analysis entails a section solely dedicated for major players in the Global Artificial Intelligence and Advanced Machine Learning Market wherein our analysts provide an insight to the financial statements of all the major ..."
-    publishedDateTime: 2023-03-23T07:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-sales-outlook-2023-up-to-date-development-data-and-market-trends-forecast-to-2027-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Latest \"Facial Recognition Market\" Size, Competitors and Forecast to 2031"
     excerpt: "Report Highlights with 98 pages: -\"The global Facial Recognition market size was valued at USD 4491.54 million in 2022"
     publishedDateTime: 2023-03-25T14:00:00Z
@@ -601,6 +587,20 @@ related:
     excerpt: "Top “ Artificial Intelligence (AI) in Social Media Market ” Size 2023 Key players Profiled in the Report are [, Adobe System Incorporated., Facebook Inc., Clarabridge Inc., HootSuite Media Inc., Amazon Web Services Inc."
     publishedDateTime: 2023-03-24T12:50:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-trends-industry-demand-and-scope-top-players-analysis-forecast-2023---2031-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Assisted Robots Market Size, and Research Report 2023 by Production, Consumption Analysis, Product Types and Forecast to 2031"
+    excerpt: "The term artificial intelligence (AI) refers to the use of a computer to model or replicate intelligent behaviour. Robots are outfitted with a variety of artificial intelligence programmes that assist in a variety of industrial and daily tasks, thereby ..."
+    publishedDateTime: 2023-03-27T23:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-assisted-robots-market-size-and-research-report-2023-by-production-consumption-analysis-product-types-and-forecast-to-2031-2023-03-27"
     type: article
     provider:
       name: MarketWatch

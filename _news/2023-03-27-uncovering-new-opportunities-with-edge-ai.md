@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/uncovering-new-opportunities-with-edge-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/uncovering-new-opportunities-with-edge-ai/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Creating magic with Coke and AI"
+    excerpt: "Forget all that future dystopia stuff: now you can use AI to make your very own Coke ads. This is Fast Company’s Brand Hit or Miss of the Week."
+    publishedDateTime: 2023-03-24T15:54:00Z
+    webUrl: "https://www.fastcompany.com/video/creating-magic-with-coke-and-ai/GR4wKIjr"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "i0lIsK/3q1brlFn5kTxR4NY49XswMhafEMsXpPy9P1W7YbhP7RfIsPdN9MaWR4gitIm2sgQvyCcL/7wvAe01veH/KoZP+GF09MpwmT+FPhbacZg6w16JM/Af9KELNpssdL6jodA+Lbyi7U3O6aHFkMSTEIjIV316R5bXAg7CM7tQRCQ4vqyOZTlx04tb0Ee6tmYiskRSLBmGczVwjRO/YjYp8QYkAnFGoaheGTdphh0CIE3ZeuAT9aJhmBGlq62ucGq0Tz9VDd5eF+PyNAtjKImJD1ueRQIhLEx2A22bE3LEOylDc3WZttaADu6QQdZX9xDQK+/anxrQlrisW8QrY9NS/cQP0/KTMpOIOyy+SaA4InrGJsFkN7q3k5BnTXhpUoUdhrra9k6RRjgTHBM0qvB1UGYv5YXDGtdSZdKHc7w/VYL8QfCMfErkaJEHGPcCxV/ZO09Rw03mI8LvqwbdlTotvXEiRgh8zi6akFGxcwUPugC8kCtgOmxRfgxsIajwIChK4MA9fQBn+zADHkcA8g==;oS2CPNz1TXkUwedC8Y7wTQ=="
 ---

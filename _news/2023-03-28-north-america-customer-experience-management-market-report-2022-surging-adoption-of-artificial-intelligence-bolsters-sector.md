@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-27T22:04:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/03/n31521776/north-america-customer-experience-management-market-report-2022-surging-adoption-of-artificial-int"
 webUrl: "https://www.benzinga.com/pressreleases/23/03/n31521776/north-america-customer-experience-management-market-report-2022-surging-adoption-of-artificial-int"
 type: article
-quality: 12
-heat: 12
+quality: 14
+heat: 14
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"

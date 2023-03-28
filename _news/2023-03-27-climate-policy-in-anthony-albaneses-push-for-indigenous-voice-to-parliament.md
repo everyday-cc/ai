@@ -35,6 +35,20 @@ related:
         width: 960
         height: 600
         isCached: true
+  - title: "Dutton undermining Indigenous recognition: Albanese"
+    excerpt: "Labor is holding the line on its refusal to release expert legal advice about the Voice to parliament proposal, firing back at the opposition over the plan."
+    publishedDateTime: 2023-03-27T06:46:00Z
+    webUrl: "https://www.afr.com/politics/federal/dutton-undermining-indigenous-recognition-albanese-20230327-p5cvjc"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 24
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.1939%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/f9e4b0ade331e5c9aa07e2b71cb4f17c5dd465dc"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "jSrt3XKflDw74FiZhOnCrQhR4sV8PcB56GD4gmBuuINJrT+l0qHyRLbN2EG8mUz4qyeX6JjAVM2ON1z2+z9m2A0/1ZsJenITxBHDJ2L7hNe/lROjix/adHbJ5+/qrw0yj5mGQyxl+fKtsnAH7PFQEZIVjzkEG2O7jor2rCQ//ON+bRU3VAFg7hEAdlFKaJEdJvo9iN9w1BWsVTcfiJyuYwW5H8qDuNh88p09Stv3Jg55IBQcjUCOq49iPdaBrj6NVUvLRJ1jR5R/m0tAWHfOVmXp05IzxYoK9JddvqwfpYjIPrS9Ch5SqtxAoBuoekr/GMHi0CQSARpqwLvr/NgS5LPFqzHWYdgT1H63Mk3YR9CZ/dfLG7EEW3kO9IZ5Jdh3TtJ8Xs676hx0VEWm0fqXyqnb2DqThrXWE87pfjGq/FL+fSQH3onyzmf6XD3tt2OZ7NqupyMeo2pp7MQ6ZAis9XLgM4PdTJ88vzO4T8QcyNKaiajnkGENflIBJqXJwLqjgpoBroyo8dzlq3oXR31crQ==;dMQNvx7TZpIL+NihaAnJKQ=="
 ---

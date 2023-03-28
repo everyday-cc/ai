@@ -18,57 +18,36 @@ topics:
   - AI
 
 related:
-  - title: "Modernize your apps and accelerate business growth with AI"
-    excerpt: "At Microsoft, we’re committed to democratizing AI and giving you access to advanced generative AI models. As part of that commitment, in 2019, we started a long-term partnership with OpenAI. In January 2023, we announced the third phase of this partnership, including the general availability of Azure"
-    publishedDateTime: 2023-03-23T07:07:47Z
-    webUrl: "https://azure.microsoft.com/blog/modernize-your-apps-and-accelerate-business-growth-with-ai/"
+  - title: "Uncovering new opportunities with edge AI"
+    excerpt: "With technology ever-advancing, edge AI is within reach. How to build, validate and push new edge AI software into production."
+    publishedDateTime: 2023-03-26T22:20:00Z
+    webUrl: "https://venturebeat.com/ai/uncovering-new-opportunities-with-edge-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/uncovering-new-opportunities-with-edge-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/uncovering-new-opportunities-with-edge-ai/amp/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 89
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/53d6248f-d174-44f3-b838-b6cae4798126.png"
-        width: 660
-        height: 284
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1264510281.jpg?w=1200&strip=all"
+        width: 1200
+        height: 629
         isCached: true
-  - title: "How AI Marketing Tools Can Accelerate Your Business and Productivity"
-    excerpt: "In other words, AI marketing tools are like having a marketing team of robots that work around the clock to help ... improve the customer experience, and reduce costs. Start exploring the world of AI marketing tools and watch your business accelerate ..."
-    publishedDateTime: 2023-03-24T05:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/how-ai-marketing-tools-can-accelerate-your-business-and-productivity-2023-03-23"
+  - title: "Discover the Hidden Opportunities in the Artificial Intelligence Consulting Service Market [2023-2030]"
+    excerpt: "Our Most Recent Research Report Indicates that Artificial Intelligence Consulting Service Market is Set to Undergo Significant Changes in 2023 Compared to the Previous Year. [124 Pages Report] Our Artificial Intelligence Consulting Service Market research ..."
+    publishedDateTime: 2023-03-25T07:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/discover-the-hidden-opportunities-in-the-artificial-intelligence-consulting-service-market-2023-2030-2023-03-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 86
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market Trends for Business Growth 2023-2027 with Strategies"
-    excerpt: "Mar 26, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Latest “Artificial Intelligence"
-    publishedDateTime: 2023-03-26T12:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-trends-for-business-growth-2023-2027-with-strategies-2023-03-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Modern Hire Recognized as a Winner of the Business Intelligence Group's 2023 Artificial Intelligence Excellence Awards"
-    excerpt: "Modern Hire, the enterprise hiring platform that uses advanced selection science to mitigate bias and predict candidate fit, today announced it has been recognized as a winner of The Business Intelligence Group's inaugural Artificial Intelligence Excellence Awards."
-    publishedDateTime: 2023-03-23T18:15:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/03/23/9782412.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "JAlr/GjEFKYrHHercTAOUJwMX8B4xXaavoXYkNMBewKz38HV0P1ryaa/0cC6hXrBqDEceNqS3bGRDJS1Q+M9eQg/III4ZOZlAJ1ES9uFdTtQ0wwDiLejh2hjuRMbaSBku6/iXXRvdakRBb1/cV8ZKyXEOlFFh7e8/ZAxP6BXjpd70FtbLkV0zwSc9g2pQiYM3tSv+KNk9FQ6ADZnl1IYF+mFIcV8XYqTxI4BusL3ioeO+Ih/KQWq0MQzlvTsfRjXc6XLd+FQzc5eUwKJUOHkqf00k9CLPbMqsluqj/N93e+fYAnZvyquQHgs7YUvsOeLQvnYYXmxaAOzZ750u5ulmlhe9HHHNFJCEkapjeaRDFXLbAFgqP5E6cRTUtlEkfcNFZZqAtxi2yqeWp+z1+KxT1HrG8zt4SCEggOjOxQv+L6/mYQd0/ct6pm57io2r/0k4XHXz7ZSenbgKfCGdoCEpU/XFViZDgkgtujq5BRFrHnkjOKohwI/wkWCxWID85YoybGLGZ1cDJoE+FMQjMCE0Q==;yB4mRRcoPD0zLOr4qsN6iw=="
 ---

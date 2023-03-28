@@ -9,7 +9,7 @@ ampWebUrl: "https://tribune.com.pk/story/2407828/airport-gets-facial-recognition
 cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology?amp=1"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Govt to install facial recognition technology at airports"
-    excerpt: "The Federal Government is set to install facial recognition technology at major airports in Nigeria. This was made known by the Minister of State, Budget and National Planning, Prince Clem Ikanada Agba, when he hosted the Japanese Ambassador in Nigeria ..."
-    publishedDateTime: 2023-03-23T08:45:00Z
-    webUrl: "https://thenationonlineng.net/govt-to-install-facial-recognition-technology-at-airports/"
-    type: article
-    provider:
-      name: The Nation Newspaper
-      domain: thenationonlineng.net
-    quality: 54
-    images:
-      - url: "https://nation-media-assets.storage.googleapis.com/wp-content/uploads/2023/03/23094446/facial-recognition.jpg"
-        width: 500
-        height: 277
-        isCached: true
   - title: "Get Your Hands on the Ultimate Mobile Phone Facial Recognition Technology Market Research Report [2023-2030]"
     excerpt: "Our Most Recent Research Report Indicates that Mobile Phone Facial Recognition Technology Market is Set to Undergo Significant Changes in 2023 Compared to the Previous Year. [115 Pages Report] Our Mobile Phone Facial Recognition Technology Market research ..."
     publishedDateTime: 2023-03-23T09:59:00Z
