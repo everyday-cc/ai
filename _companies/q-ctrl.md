@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "qctrlHQ"
   url: "https://twitter.com/qctrlHQ"
-  followers: 5338
+  followers: 5339
 
 size: 11-50 employees
 yearFounded: 2017
