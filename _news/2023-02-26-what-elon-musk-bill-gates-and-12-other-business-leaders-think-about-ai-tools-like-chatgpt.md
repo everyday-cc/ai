@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/5f73621374fe5b0018a8dfcf?width=1200&format=jpeg"

@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6421fbe4d81802b564e2d103/0x0.jpg?format=jpg&crop=2118,1413,x0,y145,safe&width=1200"
@@ -443,6 +444,6 @@ related:
       domain: bizjournals.com
     quality: 8
 
-secured: "TJ+iplzdXDhU5KPdKb/iBtKEvnj71v0pWFsq/2//Me6fqszw7Fl/w2GuRjMSxPyYeJoBwi3OG1OTPNXZY3p71k0L5PgqMi10A9bdAKK/NBGGzVUCb9yzBC8RPU3r5LiDXUYxqR54uC4GGCegE/BM+rM2ogLnOD8CY3Rbf9nIRdZvT8Ck1IQ82jRA59CdUet1RYYAAHQZHr2LRrToxZP7m/XvVoCSA1TXS3VPRFcVzHTtnTXXnWeo6+NPmulEV8NgdL1/677eomPGqXM5SW+d+RfcrkGMEFuxMulhFrQOlp8S/x9AgIvu92NM6582WgpeSXw3Y5p7H9KfPR6fWb4X01y+tRojvfvzJp12xMQeA4I=;qkb5xsKOxcYIb4BVmTEpHw=="
+secured: "TSM9q7/UYHRgloZZs3jT43FzKlMwToWX/BJZFZDiiJGgHDfX4Y4+UaIY6SnaubNJMpXICEHiMOh38gLxee3/Gq35Er6gnnF8wWnm2ipJaut2tjWSDxmjrYfLinZ0pdmxwIR6KCKFQupEzfVAehken7vT+7yIsCfMGVEQFYqyeGP6wUGfoEqqb4/PXfRYI9oNEXT/+4F/Ue//JICJNnLc1SRRM9a8MO/743fhxbsZ+f6yY0o2lAwKY/HUCsX54udULUvRatyB5mB5RiYWaWu5o+wtTctuHYOiQI9Bc51x32Tw5WBad1B4n+URlaIxfqwz3pEeUHIdhQ0HSCCVCdh4uKp/fYy3bSQRXZ7DUFaVknHOI1sl6t392bsFnWYZ72ZZInKPO7IslLE3LyA65RA2eX3zzw+1DedJbKzHM3Ol7Au/012NC1klQg40DtG7lTugLzql94vrUkNYUdhtyMWFfYy23bcECpa/sPDUEveGzyQ88IPRx8xySuLD+3Icw/Nq+ToFiLlKtA57P11CeTvmsQ==;JlGpLGFQgF/sA+XuWWPTbw=="
 ---
 
