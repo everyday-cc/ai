@@ -3,7 +3,7 @@ name: "John Krafcik"
 bio: "Lately, but never all at once: airports, trucks, cars, coffee, autonomy, batteries, democracy, education 🇺🇲 🇩🇪 🇧🇷"
 location: Mountain View, CA
 type: "profile"
-heat: 32
+heat: 0
 
 website: https://t.co/i1uBCCpct5
 
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "John Krafcik"
 
-secured: "1AlUTRQapeK3uo3GuypMlXpEBdTpM2m+jYRGqd7mSdA0wYZfEvZMHs4KzPOwdu5X9NJk/cGDhmm6r3toHPB3IcDo9vQM07wNBWqSx/Nbkv7jkXwWD5kLib/Q98JVIcUR8Z1B28Cv22aj5z72maE/h0j+C0lp2lAPjv+1kFQcCLplVuNu/z8S4SHhr3CW3zO4TEburRBfTQHeulh4u+PYdNIprBGL13W0BICFDl1dkZAjTZueL1BWbfeS7p06+X8k7chFSJiCR2aL0HmqI3ORPxD8UScBPJiyuAGAJDU+HX288fQjRBTAATMLICltd6GPe7dWiezvy6WlU6JBPMmkuaCmU/z2RyunhfkeBjCc7cSg5hA1etcvYqzct3x48/R3ftreoObhFMuO20s8+oBRfhMzoOUxwt/ee/8U/rmeK3M=;8KQf1ca/eLxboFPcLWKlkQ=="
+secured: "pTjHg+/k7hmgRkDt3fW/BbpGNzU1dceQCbGwBnHQoaxtKztV63XIlf8zw/UokxqegNLS2pffvjW8+RZG03ClAQOLz6TgViF0gh5H1r8F5HpN7BZQ5AZY/Due9EbKqgSG783q+7mGE71MCbKFiLrIs/97mSVbTWBPZ7dl5T+9jksCXCxMcijounrGt5yIe8H1FjaDJV0fRh5QNjy05J4/Xm5P+DKDS+gLyP3m+1st4qDbT1x17eHSyqZsoWBIlvDBYhY6NsLhdcVW7UcH5UIZkL8/AaRtSf5FTtRunpa9ipcLBMThaqTggswMhu4cGF19Ed20n+lL0tbRnN5NgW4DQ9+ppxcdo8JQ41c2tFT+eXPzuSep37HrdsyHv2bW/XqaB36Qsi5/DERt6g5Ya+0Ml9zPabHopMlNJxyyZYPfKZs=;IJ1gyN3vT6B4EH6k6qJU1Q=="
 ---
 
