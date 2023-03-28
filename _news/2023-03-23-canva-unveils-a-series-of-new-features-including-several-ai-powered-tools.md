@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2023/03/22/canva-new-features-including-suite
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/canva-new-features-including-suite-of-ai-powered-tools/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: YAHOO!News
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Canva Can Now Generate Custom Templates, Thanks To AI"
-    excerpt: "Recognizing the need for global communication, Canva's Translate tool allows users to convert their text into over 100 different languages with just a click, broadening their audience reach. Finally, Magic Write, Canva’s AI-powered copywriting assistant ..."
-    publishedDateTime: 2023-03-23T06:48:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-generate-custom-templates-thanks-to-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-generate-custom-templates-thanks-to-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-generate-custom-templates-thanks-to-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641bf062a1a89bcbfdca4c2c/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Canva adds AI-powered design tools to its Visual Worksuite"
-    excerpt: "The AI-powered tools will be available to users of ... A new Translate tool will automatically translate the text in designs to over 100 different languages, while Beat Synch will automatically match video footage to a soundtrack. Magic Write, which ..."
-    publishedDateTime: 2023-03-23T05:31:00Z
-    webUrl: "https://www.computerworld.com/article/3691300/canva-adds-ai-powered-design-tools-to-its-visual-worksuite.html"
-    ampWebUrl: "https://www.computerworld.com/article/3691300/canva-adds-ai-powered-design-tools-to-its-visual-worksuite.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3691300/canva-adds-ai-powered-design-tools-to-its-visual-worksuite.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2022/08/canva-user-100931239-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Canva introduces new AI-powered 'Magic' features including Magic Eraser, Beat Sync, more"
     excerpt: "Canva has announced a new translate feature that will allow users to translate text on their design in more than 100 languages. The new Magic Eraser AI feature lets users erase a particular object or replace it with another. They can also give a ..."
     publishedDateTime: 2023-03-23T11:25:00Z
@@ -92,6 +60,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/canva.png"
         width: 1197
         height: 631
+        isCached: true
+  - title: "Introducing a new era of AI-powered experiences in Dynamics 365 Business Central"
+    excerpt: "Microsoft Dynamics 365 Business Central brings the power of AI to businesses with features that help companies perform better. Learn more."
+    publishedDateTime: 2023-03-23T14:59:00Z
+    webUrl: "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/23/introducing-a-new-era-of-ai-powered-experiences-in-dynamics-365-business-central/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 34
+    images:
+      - url: "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/03/WCO18_helicopterFactory_008_v2.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "GYFfh1tkrxhBjMXYJPz1k1RfSQze0JWNM99YHw27OplXzJBpdV4NYKTOWtdpi0/YDzazLksTMvHSEGTo4W+MMgSzdVHhzmQtqcqEhEBLr3h0V9feK3eJbkHWgkKFXFJ3Ezo9C2UJXtYLNu4ikLNs8EUrvz0XmItv9pU88Y7OKZfpji5uRohWe19QskfDsGypZdbhg33NceDSO+WuPq6P0V9nk2RqVnXGMNVHLHgavEWE1XJZHI2b9RLFbXRORFnl7Y1Vb4fNTIfJRWEHsrvagrEXaQWgTff+hGb5ymmkDufsUALp0NEWwCypIYWjV/9RWmKj5AXG8fGjTzVgor4afLExuDH0OwNATwv45BAA/q67C45gWk7kUeX2DRpjIEeXwxYA/tOsNx1EH8uzVYSIotYZgRKV5f0i1rljeFWjfnibGWIbfpwpsnBOkUn7MPitBFW/Q1rKwG8OVgNYUioPUOSNXswVahPwzmSKvbCTpYzv3LD0X/bKwQ5D5DoIQAQCu2VaxW48Y83HhP2+blAF9w==;+eY72Ien+krcnCVvieRWYA=="

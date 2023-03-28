@@ -107,6 +107,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AIoT Edge AI Chip Market Facts and Figures by 2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- The AIoT Edge AI Chip Market report provides a comprehensive analysis of the global market, covering both qualitative and quantitative ..."
+    publishedDateTime: 2023-03-27T23:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aiot-edge-ai-chip-market-facts-and-figures-by-2029-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Cyber Security Market Size Escalating Demand to Drive Growth Through 2029"
     excerpt: "Mar 23, 2023 (The Expresswire) -- The Final Report will analyze the Impact of Ongoing Recession On Your Business With Smart Market Solutions to Help Your Business Gain Edge over Competitors Complete Outline of the Worldwide Artificial Intelligence (AI ..."
     publishedDateTime: 2023-03-23T15:58:00Z
@@ -736,6 +750,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+  - title: "2029 Forecast Voice And Speech Recognition Software Market by Growth Rate, Sparked Innovation with Top Players"
+    excerpt: "Businesses Across the Globe Expected to Do Better in 2023 Top “Voice And Speech Recognition Software Market” Size 2023 Key players Profiled in the Report are [, Nuance Communications, Inc., Advanced Voice Recognition Systems, Inc., BioTrust ID B.V ..."
+    publishedDateTime: 2023-03-27T22:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2029-forecast-voice-and-speech-recognition-software-market-by-growth-rate-sparked-innovation-with-top-players-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in ICT (Information and Communications Technology) Market Share Analysis, Environment Development Trend In 2023"
     excerpt: "Detailed Table of Content of Global AI in ICT (Information and Communications Technology) Market Research Report 2023 1 AI in ICT (Information and Communications Technology) Market Overview 1.1 Product Overview and Scope of AI in ICT (Information and ..."
     publishedDateTime: 2023-03-23T10:37:00Z

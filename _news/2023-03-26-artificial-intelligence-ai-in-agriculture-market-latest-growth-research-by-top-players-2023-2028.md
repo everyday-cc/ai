@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-latest-growth-research-by-top-players-2023-2028-2023-03-25"
 type: article
 quality: 71
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -80,6 +80,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Medical Robots Market Size To Grow At A CAGR Of 22.30% Between 2023 And 2028"
+    excerpt: "Besides, medical robots are also leveraging artificial intelligence (AI) and computer vision to gain detailed information during surgical procedures and improve overall patient outcomes. The rising cases of brain disorders, the increasing focus on reducing ..."
+    publishedDateTime: 2023-03-27T23:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-medical-robots-market-size-to-grow-at-a-cagr-of-2230-between-2023-and-2028-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

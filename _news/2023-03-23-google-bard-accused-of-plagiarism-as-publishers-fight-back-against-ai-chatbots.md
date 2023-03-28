@@ -91,6 +91,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Nine AI Chatbots You Can Play With Right Now"
+    excerpt: "“As an AI language model, I don’t have the physical characteristics ... vanilla creme filling with a touch of extra brain power in the form of chocolate chips or another ingredient that represents knowledge and intelligence.” Fun!"
+    publishedDateTime: 2023-03-27T21:56:00Z
+    webUrl: "https://www.theatlantic.com/technology/archive/2023/03/chatgpt-generative-ai-chatbots-bing-google-bard/673533/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 69
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/Z3BPrDp4DkR14Qofe0L19FO_inQ=/0x41:1917x1039/1200x625/media/img/mt/2023/03/AI_Chatbot_still/original.jpg"
+        width: 1200
+        height: 625
+        isCached: true
   - title: "AI chatbots compared: Bard vs. Bing vs. ChatGPT"
     excerpt: "Anyway, all that aside, let’s start with seeing how the chatbots fare in what should ... but I’d like to have seen the BIOS changes or dual-channel parts picked up properly. If AI chatbots aren’t factually reliable (and they’re not), then they ..."
     publishedDateTime: 2023-03-24T15:40:00Z

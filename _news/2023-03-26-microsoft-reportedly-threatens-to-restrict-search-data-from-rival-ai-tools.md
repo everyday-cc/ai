@@ -61,20 +61,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Can’t wait for Microsoft’s AI-generated presentations? Canva has it now"
-    excerpt: "Magic Eraser is part of the Pro tier, like the AI-powered Beat Sync, as well as anything that includes your own branding, Canva said. As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written ..."
-    publishedDateTime: 2023-03-23T05:25:00Z
-    webUrl: "https://www.pcworld.com/article/1665426/cant-wait-for-microsofts-ai-powerpoint-switch-to-canva-instead.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 86
-    images:
-      - url: "https://www.pcworld.com/wp-content/uploads/2023/03/Magic-Presentations.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Better AI Stock: Microsoft vs. Nvidia"
     excerpt: "Microsoft has an early mover advantage in the generative AI market thanks to OpenAI and ChatGPT. Nvidia's dominance in GPUs and the importance of these chips in generative AI applications could help it remain a top AI stock. With a purported investment of ..."
     publishedDateTime: 2023-03-24T21:20:00Z
@@ -88,20 +74,6 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/725637/chatbot-smartphone-person.jpg"
         width: 2121
         height: 1414
-        isCached: true
-  - title: "AI Healthcare Solution Market Investment Feasibility and Trends from 2023 to 2029 | IBM Watson Health, Google Health, Microsoft Healthcare"
-    excerpt: "Mar 23, 2023 (Heraldkeepers) -- Tech/News-The AI Healthcare Solution Market is projected to grow ... application dominance are all included in the report by- IBM Watson Health, Google Health, Microsoft Healthcare, NVIDIA, GE Healthcare, Cerner Corporation ..."
-    publishedDateTime: 2023-03-23T06:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-healthcare-solution-market-investment-feasibility-and-trends-from-2023-to-2029-ibm-watson-health-google-health-microsoft-healthcare-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft Is All-In on AI: 2 Ways It Will Benefit"
     excerpt: "In addition to software, Microsoft is also testing AI chatbot integration into its popular Azure cloud computing services. The company calls it Azure OpenAI Service, and its capabilities span content generation, summarizing conversations, and code generation."

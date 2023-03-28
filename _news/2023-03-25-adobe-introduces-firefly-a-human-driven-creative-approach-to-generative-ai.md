@@ -71,6 +71,15 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 17
+  - title: "Big banks invest in generative AI startup Hazy"
+    excerpt: "Hazy won the $1 million Microsoft Innovate AI prize for the best AI startup in Europe and has signed up big name clients, including financial services giants Nationwide and Wells Fargo. Harry Keen, CEO, Hazy, says: \"This funding will solidify our position ..."
+    publishedDateTime: 2023-03-27T23:01:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42044/big-banks-invest-in-generative-ai-startup-hazy"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 17
 
 secured: "5Ya6DkSQsEfdwXqfq7PL40qgftA+bey7l/xglcnXqEd/BXY1ixZoa+rni5gO3Yts9prGWgQH8pNx1sMa8Ws9bKf3QMHwck4qGACpCQTGlwSluzgDTa1hx3PBUk9x/CqtEETrplz5adJ3tyb91xohyB2ZRN+PSGKJtyHLkoSE9e5jC2EfPDMCYVfja1ZodKM6BeUSlh96VNAkvhzJpUDeugddONWy5SXf6ryETpnwbHsuTJ3uA9UOkERHa0g9CdrQsCxIP9pDCY66bTUDAMOjMml1ztA/mxwUjYiLnzVSgFIhEDMS5BTBwOOf4ftAPJQFBGDUpD0Ph5Bs5Sd3itJmmVPC6LyKCL3LdV7uRGb0fxeJ+m+do8s3B2R+7nyj38Ec1FM34/TNt3B0T4V8++VFaoXj3idj97b/fskJAib577nN0u1ACVVugUUi3AWf4SScdxBiZnYBTsBdqyjbnhNWIF5lT3PuagOzQjH5wpCHuqL5fJfrK9UBi+XD2UEzFrj2hnu9t2I2Ik72GX1prEHT8g==;bloUghil4WBfjC4/ZBHiow=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-ml-plat
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-by-2031-2023-03-23"
 type: article
 quality: 86
-heat: 176
+heat: 186
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- The \"Self-Driving or Driverless Cars Market\" study describes how the technology industry is evolving and how major and emerging players in ..."
     publishedDateTime: 2023-03-24T03:44:00Z
     webUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-size-by-2031-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence In RegTech Market: Recent Growing Trend 2031"
+    excerpt: "The \"Artificial Intelligence In RegTech Market\" study describes how the technology industry is evolving and how major"
+    publishedDateTime: 2023-03-27T16:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-recent-growing-trend-2031-2023-03-27"
     type: article
     provider:
       name: MarketWatch

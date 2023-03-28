@@ -55,6 +55,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
+  - title: "Bill Gates says AI will revolutionize healthcare like the internet, mobile phones"
+    excerpt: "Bill Gates says artificial intelligence will change the way people get healthcare as much as the internet and mobile phones have and could make health more equitable around the globe. \"For one thing, [AIs will] help healthcare workers make the most of ..."
+    publishedDateTime: 2023-03-27T22:01:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/bill-gates-says-ai-will-revolutionize-healthcare-like-the-internet-mobile-phones.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 49
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "YaEwlYKdbw82Nj9i58ppJ3SliNsEmXP/es3vr1td594E8ci2FtKeYjpfR9dlBM3xotaZ0H9ptlgND/mm7eTSnuJeHqFYeAq8lDLsC3zRY7a7oNXZLgm7nxMHl73GGlMojGcXnWQaWC8SFsJ+f/VmI2tpk+L2Xf1VMstfolSBmDOSVoE3HSoY7flUMwtvn6ayq+FMX0fDU4JU0QymV1viKFIQI3NK8Ou+pnwb8m645KprXJUFz3vB1/CG+5xbBh8hxrntggGHQNW9GjS1mvyJXKE5GP4j9x6uVC49KYuKAG3ZMaNVjAposno8CnObZCzSchLAzVFAgteY4M/HGKMlrVHjubC1tVZR2TGACkt+ILE=;gnFNz9yGcu0mUxpoWbkoTw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/advisor/in/investing/best-artificial-intell
 webUrl: "https://www.forbes.com/advisor/in/investing/best-artificial-intelligence-ai-stocks-shares/"
 type: article
 quality: 92
-heat: 112
+heat: 113
 published: true
 
 provider:

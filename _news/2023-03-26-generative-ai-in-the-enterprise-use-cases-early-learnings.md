@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-ai-in-the-enterpriseuse-cases--early-learnings/amp/"
 type: article
 quality: 91
-heat: 113
+heat: 111
 published: true
 
 provider:

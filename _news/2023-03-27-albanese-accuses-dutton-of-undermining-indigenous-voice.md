@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Albanese’s Voice announcement explained"
-    excerpt: "Loading The first clause simply states: “There shall be a body, to be called the Aboriginal and Torres Strait Islander Voice.” Before the three clauses, a line will be added saying: “In recognition of Aboriginal and Torres Strait Islander peoples as ..."
-    publishedDateTime: 2023-03-23T06:32:00Z
-    webUrl: "https://www.smh.com.au/politics/federal/albanese-s-voice-announcement-explained-20230323-p5cumy.html"
-    ampWebUrl: "https://amp.smh.com.au/politics/federal/albanese-s-voice-announcement-explained-20230323-p5cumy.html"
-    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/albanese-s-voice-announcement-explained-20230323-p5cumy.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 39
   - title: "Climate policy in Anthony Albanese‘s push for Indigenous voice to parliament"
     excerpt: "The Greens have upheld the need for the voice to provide advice on policies such as the safeguard mechanism in a rebuke to Anthony Albanese, arguing the climate policy – and the coal and gas projects it could affect – directly impacts upon Indigenous Australians."
     publishedDateTime: 2023-03-27T11:21:00Z

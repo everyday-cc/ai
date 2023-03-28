@@ -7,7 +7,7 @@ originalUrl: "https://www.joplinglobe.com/region/national_business/exactech-grow
 webUrl: "https://www.joplinglobe.com/region/national_business/exactech-grows-ai-expertise-with-exclusive-machine-learning-based-software-licensing-agreement-and-team-of/article_5e07cd8c-1314-5cff-b7f9-95c77581c1eb.html"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Exactech Grows AI Expertise with Exclusive Machine-Learning Based Software Licensing Agreement and Team of Data Scientists"
+    excerpt: "Additionally, Exactech is pleased to announce that it has hired an established team of machine learning researchers and engineers that will further accelerate Exactech’s ML research and development capabilities and improve its ability to produce ..."
+    publishedDateTime: 2023-03-27T23:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/exactech-grows-ai-expertise-with-exclusive-machine-learning-based-software-licensing-agreement-and-team-of-data-scientists-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Texm7+vMhnwWovqFwaZEqXxbcwt85LSUAEIBOZjm9YyCLPLbfRGs0uwtYniecFRP+kPVGgqFdSKc4lXBsk59U5LfqRfuw55ic6yH+r4WP9yxyWkHGVEtff0O86jFWIptAZwZxtuL5e3EtMTQ3pFh3SaQFSiCUjz5ygtf1wuF9gGy71HxQ1axIHlmoOFbBjVHc2bnymhggtSzCrg6I6pqlCuC3pFMFp2GBTtn5PtFVft5oo8MntX7wFGhCQjjgUSmONddU+i68Zg6EY96f+eOUzukbwa8JoXbdrTkJMkOJGnsncXG/LS51D0qTo6ow+0GdFvKME5NFmfRcrBwwZqryyjbokyoGmxlKf5JVSiHy7c=;FKI8VKpp/A/6OAyF4zhizA=="
 ---

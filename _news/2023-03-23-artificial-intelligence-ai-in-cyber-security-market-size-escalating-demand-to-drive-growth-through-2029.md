@@ -113,6 +113,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AIoT Edge AI Chip Market Facts and Figures by 2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- The AIoT Edge AI Chip Market report provides a comprehensive analysis of the global market, covering both qualitative and quantitative ..."
+    publishedDateTime: 2023-03-27T23:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aiot-edge-ai-chip-market-facts-and-figures-by-2029-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Vision Chip Market Future Trends Demand 2023, and Forecast to 2030 |Ambarella"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (Heraldkeepers) -- The AI Vision Chip Market Report provides exclusive vital statistics, data, information, trends, and competitive landscape details in this ..."
     publishedDateTime: 2023-03-24T08:00:00Z
@@ -728,6 +742,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+  - title: "2029 Forecast Voice And Speech Recognition Software Market by Growth Rate, Sparked Innovation with Top Players"
+    excerpt: "Businesses Across the Globe Expected to Do Better in 2023 Top “Voice And Speech Recognition Software Market” Size 2023 Key players Profiled in the Report are [, Nuance Communications, Inc., Advanced Voice Recognition Systems, Inc., BioTrust ID B.V ..."
+    publishedDateTime: 2023-03-27T22:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2029-forecast-voice-and-speech-recognition-software-market-by-growth-rate-sparked-innovation-with-top-players-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing Market 2023: Growing Opportunities by 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- The global \"Natural Language Processing Market\" research study presents an in-depth analysis of the market's revenue, size, and volume."
     publishedDateTime: 2023-03-27T18:16:00Z

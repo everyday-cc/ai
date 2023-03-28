@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/artificial-intelligence-godfather-ai-po
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/artificial-intelligence-godfather-ai-possibly-wiping-humanity-not-inconceivable.amp"
 type: article
 quality: 91
-heat: 92
+heat: 91
 published: true
 
 provider:

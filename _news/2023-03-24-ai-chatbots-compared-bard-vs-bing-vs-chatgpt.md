@@ -90,6 +90,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Nine AI Chatbots You Can Play With Right Now"
+    excerpt: "“As an AI language model, I don’t have the physical characteristics ... vanilla creme filling with a touch of extra brain power in the form of chocolate chips or another ingredient that represents knowledge and intelligence.” Fun!"
+    publishedDateTime: 2023-03-27T21:56:00Z
+    webUrl: "https://www.theatlantic.com/technology/archive/2023/03/chatgpt-generative-ai-chatbots-bing-google-bard/673533/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 69
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/Z3BPrDp4DkR14Qofe0L19FO_inQ=/0x41:1917x1039/1200x625/media/img/mt/2023/03/AI_Chatbot_still/original.jpg"
+        width: 1200
+        height: 625
+        isCached: true
   - title: "A 16-Month-Old Chatbot Startup, Character.AI, Is Now a $1 Billion Unicorn"
     excerpt: "A 16-month-old chatbot startup is now a $1 billion unicorn. Character.AI, a Silicon Valley company started by two former Google employees, said Thursday it raised $150 million in a new funding round led by well-known venture-capital firm Andreessen Horowitz."
     publishedDateTime: 2023-03-23T14:19:00Z

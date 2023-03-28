@@ -39,7 +39,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://mma.prnewswire.com/media/2041482/Info_Tech_Research_Group_The_Top_Artificial_Intelligence_Trends.jpg"
         width: 400

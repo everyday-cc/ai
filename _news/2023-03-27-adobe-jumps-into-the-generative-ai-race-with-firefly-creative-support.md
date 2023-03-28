@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/03/27/adobe-jumps-int
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/03/27/adobe-jumps-into-the-generative-ai-race-with-firefly-creative-support/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -70,6 +70,15 @@ related:
     provider:
       name: Fast Company
       domain: fastcompany.com
+    quality: 17
+  - title: "Big banks invest in generative AI startup Hazy"
+    excerpt: "Hazy won the $1 million Microsoft Innovate AI prize for the best AI startup in Europe and has signed up big name clients, including financial services giants Nationwide and Wells Fargo. Harry Keen, CEO, Hazy, says: \"This funding will solidify our position ..."
+    publishedDateTime: 2023-03-27T23:01:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42044/big-banks-invest-in-generative-ai-startup-hazy"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
     quality: 17
 
 secured: "XSdiNy2x9QdczlRU/pQOUWkkvax5mGUpqq7fHMbltveqPBhr8k+rYfFoKGsbzOID5/JmEgpl9Q487zcH6M3kLKxXO7Zcs5ovS2rQA7Lkz7bokNu0my8DPjea7kafHlWum1SrKrin8BX/WCIW3WvLAZsiyEOLK2s3ZzRh8wmvImeV3XGo+c3fp5iwEP2YVHSrkOEILbXoz3to8ak7cnUf6iuZkmcSNoFLN1LYgQiAPN8K/KWUYVbvAywS5GbA0C3Z0rDFhtcAWs+uZ+lfiou9nCjF8odyJv8Vn8QCKd+I32UkXeO3RNoT2aW3ccVwgSpeESMFoXc+7viAXf7WlxaID2Y8SwVuUDdaf6BwzOWqStk=;X69Pr9xHSyfGf1Af3Fxcvw=="

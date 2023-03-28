@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Medical Robots Market Size To Grow At A CAGR Of 22.30% Between 2023 And 2028"
+    excerpt: "Besides, medical robots are also leveraging artificial intelligence (AI) and computer vision to gain detailed information during surgical procedures and improve overall patient outcomes. The rising cases of brain disorders, the increasing focus on reducing ..."
+    publishedDateTime: 2023-03-27T23:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-medical-robots-market-size-to-grow-at-a-cagr-of-2230-between-2023-and-2028-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "9hx6xYJ/1qqqQFArWtNRiVeGk0u4h6lsX5LgbadgpA2FQ5nZxkSJmENZ2MPIb3deUuHbc+Gh9K+679gUamz6qAMnjzXlRrJjdW65i+ZptukIuLE/vLibPZTv7sQ3oMPJ458PcMAObwwtJA5kwARD/dJPSBDSrR9Ok+WRytxT37+Q46ZmJBfqgcYGWBC50uhTttJEFceeuQoW1XzR1w4E/zUfE5RLjT4B4jeZx7BBYBYZEiz0uxlJfk/se5mGx1yl3O80bNemceJv0PDft37IQM5Yrc2/F4Fxh1CcbqnbI7gH3pgBFttSJgyhvbbuT0ptYSa8rqM5DvE48JjU/LpFtN83KFkqub6eUq+iacdrsKY=;ng6gQC/ZsTRhjeZOsCSzoQ=="
 ---

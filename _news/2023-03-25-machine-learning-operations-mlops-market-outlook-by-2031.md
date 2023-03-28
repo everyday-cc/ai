@@ -113,6 +113,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In RegTech Market: Recent Growing Trend 2031"
+    excerpt: "The \"Artificial Intelligence In RegTech Market\" study describes how the technology industry is evolving and how major"
+    publishedDateTime: 2023-03-27T16:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-recent-growing-trend-2031-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in sextech Market Size by 2031"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (The Expresswire) -- The \"Artificial Intelligence in sextech Market\" study describes how the technology industry is evolving and how major and emerging players ..."
     publishedDateTime: 2023-03-24T16:02:00Z

@@ -35,17 +35,6 @@ related:
         width: 960
         height: 600
         isCached: true
-  - title: "Albanese’s Voice announcement explained"
-    excerpt: "Loading The first clause simply states: “There shall be a body, to be called the Aboriginal and Torres Strait Islander Voice.” Before the three clauses, a line will be added saying: “In recognition of Aboriginal and Torres Strait Islander peoples as ..."
-    publishedDateTime: 2023-03-23T06:32:00Z
-    webUrl: "https://www.smh.com.au/politics/federal/albanese-s-voice-announcement-explained-20230323-p5cumy.html"
-    ampWebUrl: "https://amp.smh.com.au/politics/federal/albanese-s-voice-announcement-explained-20230323-p5cumy.html"
-    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/albanese-s-voice-announcement-explained-20230323-p5cumy.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 39
 
 secured: "jSrt3XKflDw74FiZhOnCrQhR4sV8PcB56GD4gmBuuINJrT+l0qHyRLbN2EG8mUz4qyeX6JjAVM2ON1z2+z9m2A0/1ZsJenITxBHDJ2L7hNe/lROjix/adHbJ5+/qrw0yj5mGQyxl+fKtsnAH7PFQEZIVjzkEG2O7jor2rCQ//ON+bRU3VAFg7hEAdlFKaJEdJvo9iN9w1BWsVTcfiJyuYwW5H8qDuNh88p09Stv3Jg55IBQcjUCOq49iPdaBrj6NVUvLRJ1jR5R/m0tAWHfOVmXp05IzxYoK9JddvqwfpYjIPrS9Ch5SqtxAoBuoekr/GMHi0CQSARpqwLvr/NgS5LPFqzHWYdgT1H63Mk3YR9CZ/dfLG7EEW3kO9IZ5Jdh3TtJ8Xs676hx0VEWm0fqXyqnb2DqThrXWE87pfjGq/FL+fSQH3onyzmf6XD3tt2OZ7NqupyMeo2pp7MQ6ZAis9XLgM4PdTJ88vzO4T8QcyNKaiajnkGENflIBJqXJwLqjgpoBroyo8dzlq3oXR31crQ==;dMQNvx7TZpIL+NihaAnJKQ=="
 ---

@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer vision data analytics in the spotlight for retail and small businesses"
+    excerpt: "Lumeo, which designs computer vision technology, and the video analytics firm BriefCam both have new offerings targeting retail businesses."
+    publishedDateTime: 2023-03-27T20:27:00Z
+    webUrl: "https://www.biometricupdate.com/202303/computer-vision-data-analytics-in-the-spotlight-for-retail-and-small-businesses"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 50
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/03144630/smart-camera-edge-device-retail.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Income Tax: How will AI, Machine learning, and data analytics simplify tax process in India?"
     excerpt: "Here is how artificial intelligence, machine learning, and data analytics are used in the taxation process: What is presumptive taxation and how it is beneficial for small businesses, professionals? Expert explains"
     publishedDateTime: 2023-03-27T12:42:00Z

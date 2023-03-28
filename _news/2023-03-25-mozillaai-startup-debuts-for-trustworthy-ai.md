@@ -38,20 +38,6 @@ related:
         width: 1000
         height: 800
         isCached: true
-  - title: "Mozilla introduces new startup to set up open, trustworthy AI"
-    excerpt: "Mozilla, the developer of the Firefox Internet browser, has introduced a new startup called Mozilla.ai, which the company hopes \"will build a trustworthy and independent open-source AI ecosystem\". The company said that it is initially investing $30 million ..."
-    publishedDateTime: 2023-03-23T06:57:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/mozilla-introduces-new-startup-to-set-up-open-trustworthy-ai-nid-221811-cid-19.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 37
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/wh3Y5Pgp.jpg"
-        width: 570
-        height: 367
-        isCached: true
   - title: "Mozilla reveals AI startup with $30 million investment"
     excerpt: "Mozilla, the developer of the Firefox Internet browser, has introduced a new startup called Mozilla.ai to build an independent open-source AI ecosystem. Mozilla is initially investing $30 million to build this new startup. “The vision for Mozilla.ai is ..."
     publishedDateTime: 2023-03-23T17:30:00Z
