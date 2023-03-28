@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-ml-plat
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-by-2031-2023-03-23"
 type: article
 quality: 86
-heat: 186
+heat: 196
 published: true
 
 provider:
@@ -146,6 +146,20 @@ related:
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 26, 2023 (The Expresswire) -- Machine Learning-as-a-Service (MLaaS) Market Size 2023 | New Report (99 Pages) | Information Technology | In This Reports Machine Learning ..."
     publishedDateTime: 2023-03-27T12:24:00Z
     webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-to-observer-consistent-development-all-through-forecast-period-2023-2023-03-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Camera Market 2023 Estimated to Perceive Exponential Growth till 2031"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- The \"Deep Learning Camera Market\" Study Describes how the technology industry is evolving and how major and emerging players in the industry ..."
+    publishedDateTime: 2023-03-28T10:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-2023-estimated-to-perceive-exponential-growth-till-2031-2023-03-27"
     type: article
     provider:
       name: MarketWatch

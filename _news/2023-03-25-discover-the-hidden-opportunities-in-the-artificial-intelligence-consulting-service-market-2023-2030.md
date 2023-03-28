@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 629
         isCached: true
+  - title: "Examining the Artificial Intelligence and Cognitive Computing Market from 2023-Opportunities and Challenges Ahead"
+    excerpt: "Detailed Table of Content of Global Artificial Intelligence and Cognitive Computing Market Research Report 2023 1 Artificial Intelligence and Cognitive Computing Market Overview 1.1 Product Overview and Scope of Artificial Intelligence and Cognitive ..."
+    publishedDateTime: 2023-03-28T10:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/examining-the-artificial-intelligence-and-cognitive-computing-market-from-2023-opportunities-and-challenges-ahead-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Creating magic with Coke and AI"
     excerpt: "Forget all that future dystopia stuff: now you can use AI to make your very own Coke ads. This is Fast Company’s Brand Hit or Miss of the Week."
     publishedDateTime: 2023-03-24T15:54:00Z

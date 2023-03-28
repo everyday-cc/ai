@@ -41,6 +41,31 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fake AI images of Putin, Trump being arrested spread online"
+    excerpt: "He even stated clearly in his Twitter thread that the images were AI-generated. Still, the images were enough ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging ..."
+    publishedDateTime: 2023-03-24T00:21:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/fake-ai-images-of-putin-trump-being-arrested-spread-online"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/fake-ai-images-of-putin-trump-being-arrested-spread-online"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/fake-ai-images-of-putin-trump-being-arrested-spread-online"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 59
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/03/AP23082535352740-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Fake AI images of Trump arrest, Putin jailed, spread on social media"
+    excerpt: "He even stated clearly in his Twitter thread that the images were AI-generated. Still, the images were enough ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging ..."
+    publishedDateTime: 2023-03-23T19:19:00Z
+    webUrl: "https://www.fox10phoenix.com/news/fake-ai-images-of-trump-arrest-putin-jailed-spread-on-social-media"
+    type: article
+    provider:
+      name: FOX 10 Phoenix
+      domain: fox10phoenix.com
+    quality: 19
   - title: "Trump arrested? Putin jailed? Fake AI images spread online"
     excerpt: "Read more about chatbots and other AI developments It's not clear who created the image ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging technologies, said he worries ..."
     publishedDateTime: 2023-03-25T19:36:00Z

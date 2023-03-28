@@ -213,15 +213,6 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 50
-  - title: "Microsoft unveils plans to use AI feature in Outlook, Excel and more"
-    excerpt: "On the other hand, AI critics worry it will bring more harm than good ... generate humanlike responses and perform a wide range of language-related tasks such as language translation, text summarization [and] sentiment analysis.” The GPT-3.5 architecture ..."
-    publishedDateTime: 2023-03-23T18:20:00Z
-    webUrl: "https://wgno.com/news/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/"
-    type: article
-    provider:
-      name: WGNO
-      domain: wgno.com
-    quality: 36
   - title: "Microsoft Offers Private Preview for GitHub Copilot Chat for Visual Studio 2022"
     excerpt: "Since its 2021 introduction, Microsoft and Microsoft-owned GitHub have been evolving the Copilot extension beyond code-completion capabilities to take advantage of new breakthroughs like natural language processing (NLP) tech that powers the sentient ..."
     publishedDateTime: 2023-03-24T18:26:00Z

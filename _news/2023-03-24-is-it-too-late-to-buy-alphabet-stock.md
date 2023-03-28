@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence: Which Stocks To Buy"
-    excerpt: "Investor interest in artificial intelligence (AI) technology has skyrocketed over the past several months. There is immense potential in this new frontier. AI stocks are seen as the promising future, and they may very well be. But just like other market ..."
-    publishedDateTime: 2023-03-27T12:40:00Z
-    webUrl: "https://www.nasdaq.com/articles/artificial-intelligence-which-stocks-to-buy"
+  - title: "Is Alphabet a Good AI Stock to Buy Right Now?"
+    excerpt: "Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More The tech giant didn't impress with its new AI-driven chatbot, but its use of AI in other areas is a key ..."
+    publishedDateTime: 2023-03-28T11:21:00Z
+    webUrl: "https://www.fool.com/investing/2023/03/28/is-alphabet-a-good-ai-stock-to-buy-right-now/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 47
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/722086/ai-cloud_computing-technicians_in_data_server_room-gettyimages-1194430840.jpg"
+        width: 2309
+        height: 1299
+        isCached: true
 
 secured: "tpaNaQpZ3vTV9yx2aMxaW22g2ZxXa/rbdBbB9uLNAxICUJoMpNdbMrbttrTc64dsOmAjy22r3Qwa+rtJbFG51bIAN8FyDdaCUAxuGvCcFOgvFac89UdofrrK6zBlm0cO/5BPU+a+ZCe+sywGdd5Uo0cz9yafxkeh4R2JZprSGM/WGTAKosjfORs0QhzWR71gdPAyYRn22wXxsmrGxJXKxFAqW5h64RViTp+1TU229nvJTjijUgBtRTf6bkF7Xc2jk0U2uKShN0WlJwyzsu2LAT1Q4vgaaIZ6O3dU+zccIQa7VN/DjMi9UH5eWIpp/wjAI56mfHzVZawNWKYCg5Q3942yDA2ao12jRV9Y0Xg09Yg=;geeBBOFKx+2h4C7CPJTNcg=="
 ---

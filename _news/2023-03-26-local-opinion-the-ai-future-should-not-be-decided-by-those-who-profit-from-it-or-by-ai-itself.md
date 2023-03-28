@@ -7,7 +7,7 @@ originalUrl: "https://tucson.com/opinion/local/local-opinion-the-ai-future-shoul
 webUrl: "https://tucson.com/opinion/local/local-opinion-the-ai-future-should-not-be-decided-by-those-who-profit-from-it/article_328f0660-c9c4-11ed-9952-dfc5fb31b7ff.html"
 type: article
 quality: 5
-heat: 5
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Opinion: India Must Drink More Than AI Kool-Aid, Make It Work For People"
+    excerpt: "was developed to standardise formats for language datasets, models, and benchmarks. Since its inception just a year ago, the Bhashini initiative has developed over 380 open-source AI models. These models encompass speech recognition, machine translation ..."
+    publishedDateTime: 2023-03-28T10:27:00Z
+    webUrl: "https://www.ndtv.com/opinion/india-must-drink-more-than-ai-kool-aid-make-it-work-for-people-3859368"
+    ampWebUrl: "https://www.ndtv.com/opinion/india-must-drink-more-than-ai-kool-aid-make-it-work-for-people-3859368/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/opinion/india-must-drink-more-than-ai-kool-aid-make-it-work-for-people-3859368/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 58
+    images:
+      - url: "https://c.ndtvimg.com/2023-03/ckndooo_man-getty-650_625x300_28_March_23.jpg"
+        width: 1200
+        height: 738
+        isCached: true
 
 secured: "qkeunUj6JZleqrV9fckgoq9L288e0i7ASMVFzbRpAmXCzySGYkke2mrvGlgGeXatJ+0A4PZtrij4JfkDTIOpA+r1iVf2UiKerCN5nELT9Rhmy4+tliJLSeRUA0iWHAdVtb0/cix642dQNpfxwOkPgwKXtNROZEmCvz9fS6yeDl0rq6i39ZPwfWkRyWwI8TUkBQpa1/qXSVtYt0t1NdxlEk0zDCIyiT7pFf5Ipd6aGq/GoOywa4Knp34lRNAO3EBi1aoHFriyaq8gXMNvgKGG5ebfFwyK0syJ2es/zI0ch97A5C9D+ENFrWE9K4tRW4Nij9ZpmG9/IZVtp6WnepK8J7jRW0V3q1SXMmJW76wZvYJG0LCo4j+P/m8cUKMobZqWFKz5IMnzeXQg9lnQgylOuDVfJw/bUcvBb8yxSqnpav8aDnp6bdTHxJY5EO/B0ralAuhacthpp54uq+oN2DEiVrd7McZm1hvYHZEu+wSo7eUguuN86AqKyKwm1xjv8uLibR36hwBEKf9B75wkeA+jjQ==;PQr2x2tp8QuAitoBGVB4hA=="
 ---

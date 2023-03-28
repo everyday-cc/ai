@@ -27,51 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump Shares Fake AI-Created Image Of Himself On Truth Social"
-    excerpt: "Donald Trump shared an image of himself on Thursday morning over at Truth Social. And it’s almost certainly fake."
-    publishedDateTime: 2023-03-23T18:07:00Z
-    webUrl: "https://www.forbes.com/sites/mattnovak/2023/03/23/donald-trump-shares-fake-ai-created-image-of-himself-on-truth-social/"
-    ampWebUrl: "https://www.forbes.com/sites/mattnovak/2023/03/23/donald-trump-shares-fake-ai-created-image-of-himself-on-truth-social/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/03/23/donald-trump-shares-fake-ai-created-image-of-himself-on-truth-social/amp/"
+  - title: "Trump arrested? Putin jailed? Fake AI images spread online"
+    excerpt: "He even stated clearly in his Twitter thread that the images were AI-generated. Still, the images were enough ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging ..."
+    publishedDateTime: 2023-03-24T15:39:00Z
+    webUrl: "https://www.cbsnews.com/atlanta/news/trump-arrested-putin-jailed-fake-ai-images-spread-online/"
+    ampWebUrl: "https://www.cbsnews.com/amp/atlanta/news/trump-arrested-putin-jailed-fake-ai-images-spread-online/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/atlanta/news/trump-arrested-putin-jailed-fake-ai-images-spread-online/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: CBS News
+      domain: cbsnews.com
+    quality: 61
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641c91172d00a7f17e8a9f01/0x0.jpg?format=jpg&width=1200"
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/24/f9534e5d-eaf7-482d-ad18-5ec6fb9c6f99/thumbnail/1200x630/1c0c350325c27fbf196c9fc67af86a45/ap23082535352740.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Even Trump Shared A Fake AI Image Of Himself: Here’s How To Spot A Deepfake"
-    excerpt: "Deepfakes first came about in 2017 after a Reddit user posted pornography with the adult actors’ faces swapped for the faces of celebrities."
-    publishedDateTime: 2023-03-24T19:58:00Z
-    webUrl: "https://www.forbes.com/sites/ariannajohnson/2023/03/24/even-trump-shared-a-fake-ai-image-of-himself-heres-how-to-spot-a-deepfake/"
-    ampWebUrl: "https://www.forbes.com/sites/ariannajohnson/2023/03/24/even-trump-shared-a-fake-ai-image-of-himself-heres-how-to-spot-a-deepfake/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ariannajohnson/2023/03/24/even-trump-shared-a-fake-ai-image-of-himself-heres-how-to-spot-a-deepfake/amp/"
+  - title: "Trump arrested? Putin jailed? Fake AI images spread online"
+    excerpt: "Fake images of former President Donald Trump being arrested by New York City police and Russian President Vladimir Putin behind prison bars have flooded social media in recent days. Both"
+    publishedDateTime: 2023-03-25T09:30:00Z
+    webUrl: "https://omaha.com/lifestyles/article_d08bfae2-f22b-5f42-9f80-70914f2eb01c.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
+      name: Omaha.com
+      domain: omaha.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641dfb1c54068a83394ff5b7/0x0.jpg?format=jpg&crop=1291,727,x153,y119,safe&width=1200"
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/a/23/a234ee18-91ec-5e25-a0f7-a49daa84be17/641cda56c45b6.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
-        height: 676
-        isCached: true
-  - title: "Trump Inexplicably Posts AI-Generated Photo of Himself Praying"
-    excerpt: "The former president is missing a finger and has the smoothness of a daytime soap opera star in an AI-generated photo he posted on Truth Social Thursday."
-    publishedDateTime: 2023-03-23T19:38:00Z
-    webUrl: "https://www.thedailybeast.com/donald-trump-inexplicably-posts-ai-pic-of-himself-praying"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_506,w_900,x_0,y_36/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1679603023/Fr7KKTSaYAATbbb_mihj6f"
-        width: 900
-        height: 506
+        height: 630
         isCached: true
   - title: "Fake AI images of Trump arrest, Putin jailed, spread on social media"
     excerpt: "He even stated clearly in his Twitter thread that the images were AI-generated. Still, the images were enough ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging ..."
@@ -81,6 +65,15 @@ related:
     provider:
       name: FOX 10 Phoenix
       domain: fox10phoenix.com
+    quality: 19
+  - title: "Trump arrested? Putin jailed? Fake AI images spread online"
+    excerpt: "Read more about chatbots and other AI developments It's not clear who created the image ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging technologies, said he worries ..."
+    publishedDateTime: 2023-03-25T19:36:00Z
+    webUrl: "https://dothaneagle.com/news/national/trump-arrested-putin-jailed-fake-ai-images-spread-online/article_454199f0-cb43-11ed-8dd6-f7a6b9be4d72.html"
+    type: article
+    provider:
+      name: Dothan Eagle
+      domain: dothaneagle.com
     quality: 19
 
 secured: "UxHwYQGrQPtlzm7vcnyPENVXC5ADJaHnLIvMBMSO5fWRJBgzoR7P869Mb5+E1jEAYFGRHphLT9kjx2kdFUkt5E3C5hw24FNc+vzuMGdkgJSKOPOhczcO0W7oO7eXHhsDnt7G8ue3G1iZeONO4UcOOh26Zpwc143J0r75IixOF6WJsjfSjqHEwViYWC9Clt+kmv2G3UY7Royw3OMIj4hL+pTrjvYbuhTHoVojEUV71M/OSDKDG5oK++cEicD4dekwri1UQAIPYTc95Y41hlxhPHmpzJLITi+aMVZ5t9vlIaqGehGycSS2cAoNlYi6L/qNsvLhWGfYySxJEfdQHWD3F8kcRPq0rUSyDnBmiRf+9ac=;D33LYzfJEozPRq52JQWFjQ=="

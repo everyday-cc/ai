@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/uncovering-new-opportunities-with-edge-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/uncovering-new-opportunities-with-edge-ai/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Examining the Artificial Intelligence and Cognitive Computing Market from 2023-Opportunities and Challenges Ahead"
+    excerpt: "Detailed Table of Content of Global Artificial Intelligence and Cognitive Computing Market Research Report 2023 1 Artificial Intelligence and Cognitive Computing Market Overview 1.1 Product Overview and Scope of Artificial Intelligence and Cognitive ..."
+    publishedDateTime: 2023-03-28T10:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/examining-the-artificial-intelligence-and-cognitive-computing-market-from-2023-opportunities-and-challenges-ahead-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -169,6 +169,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Camera Market 2023 Estimated to Perceive Exponential Growth till 2031"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- The \"Deep Learning Camera Market\" Study Describes how the technology industry is evolving and how major and emerging players in the industry ..."
+    publishedDateTime: 2023-03-28T10:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-2023-estimated-to-perceive-exponential-growth-till-2031-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "X6V64H57tpI+NEEweC+nK9IBKmJWtbuMUSvf5R5NO8WHcxpZQOBqqC3f3VUmtaiMC8GwZ8ZbdMGUASidDYBMHfG1+yAEhipzE2TqMdRZRDxwtpqwHsURDtNdk7SJB2YePMcl3dWm65eIM5a7rcaPfBhME6k0KSh0PK7ENVw5H8tN5Ifs6V0Lkz46c5RppXhezXzINdr3QdQkpx0Bcs5hipnAFqJnUcODKJaS+YvBbR1DVH6cFtYEFJV9274bp6amB5LNODIISMyqW4bIhDkwPnBR2UfeG5dgAEICsG4H8fpWoHmYTm8C41XmLFczpKK4moGwkAT0AXCvpZWl62vmiohzM/1ofP4iH9L5j9eRoGM=;TNGeHFVYdKD1vqK6FVssHw=="
 ---

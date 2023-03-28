@@ -9,7 +9,7 @@ ampWebUrl: "https://tribune.com.pk/story/2407828/airport-gets-facial-recognition
 cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology?amp=1"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Putin curbs dissent using facial recognition powered by US tech"
+    excerpt: "There officers told the 51-year-old bank employee that the metro's facial recognition system had flagged him for detention because of his political activism. A little over a week earlier Chernyshov stood alone by a fountain in central Moscow's Pushkin ..."
+    publishedDateTime: 2023-03-28T11:08:00Z
+    webUrl: "https://www.channelnewsasia.com/world/putin-dissent-russia-facial-recognition-us-tech-kremlin-opponents-3379491"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--QV5Kf8eZ--/c_crop,h_720,w_1280,x_0,y_0/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/03/28/2023-03-28T095000Z_601502695_RC2I20AJPG1K_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-DETENTIONS.JPG?itok=abhcfLmH"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Facial recognition techniques nail robbers"
     excerpt: "Warrant officer Vanishree Abdul Rahim was the SAPS facial recognition techniques expert who did an analysis. She testified in court how she was able to determine that the accused were the same individuals seen in different instances, in the CCTV footage ..."
     publishedDateTime: 2023-03-26T11:12:00Z

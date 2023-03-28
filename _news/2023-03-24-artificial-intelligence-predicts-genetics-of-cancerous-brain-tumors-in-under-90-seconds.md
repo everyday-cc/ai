@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence can predict genetics of cancerous brain tumors: Study"
-    excerpt: "Researchers have developed an AI-based diagnostic screening system called DeepGlioma that uses rapid imaging to analyze tumor specimens taken during an operation and detect genetic mutations more rapidly."
-    publishedDateTime: 2023-03-23T18:43:00Z
-    webUrl: "https://theprint.in/science/artificial-intelligence-can-predict-genetics-of-cancerous-brain-tumors-study/1468042/"
-    ampWebUrl: "https://theprint.in/science/artificial-intelligence-can-predict-genetics-of-cancerous-brain-tumors-study/1468042/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/science/artificial-intelligence-can-predict-genetics-of-cancerous-brain-tumors-study/1468042/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 71
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2023/03/ANI-20230323182750.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Study shows artificial Intelligence can predict genetics of cancerous brain tumors"
     excerpt: "Researchers have made an AI-based diagnostic screening system called DeepGlioma that uses rapid imaging to analyze tumor specimens taken during an operation and detect genetic mutations more rapidly."
     publishedDateTime: 2023-03-26T15:35:00Z

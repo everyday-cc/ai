@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/saibala/2023/03/25/microsoft-plans-to-u
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/03/25/microsoft-plans-to-use-ai-to-solve-a-huge-pain-point-for-doctors/amp/"
 type: article
 quality: 104
-heat: 264
+heat: 254
 published: true
 
 provider:
@@ -208,15 +208,6 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 50
-  - title: "Microsoft unveils plans to use AI feature in Outlook, Excel and more"
-    excerpt: "On the other hand, AI critics worry it will bring more harm than good ... generate humanlike responses and perform a wide range of language-related tasks such as language translation, text summarization [and] sentiment analysis.” The GPT-3.5 architecture ..."
-    publishedDateTime: 2023-03-23T18:20:00Z
-    webUrl: "https://wgno.com/news/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/"
-    type: article
-    provider:
-      name: WGNO
-      domain: wgno.com
-    quality: 36
   - title: "Improving ESG performance in financial services on Microsoft Cloud"
     excerpt: "Overcoming data-related challenges will be key for banks and other financial institutions to make progress ... that produce environmentally friendly goods and services. Leadership teams are also learning that ESG initiatives can boost business performance."
     publishedDateTime: 2023-03-24T19:14:00Z

@@ -154,6 +154,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Camera Market 2023 Estimated to Perceive Exponential Growth till 2031"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- The \"Deep Learning Camera Market\" Study Describes how the technology industry is evolving and how major and emerging players in the industry ..."
+    publishedDateTime: 2023-03-28T10:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-2023-estimated-to-perceive-exponential-growth-till-2031-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Video Conferencing Transcribing Market Size by 2031"
     excerpt: "Many major technology players are [Nuance, Voicea, IBM WATSON, TranscribeMe, Verbit.ai, Otter.ai, QNAP, Google, Sonix, Amazon Transcribe, Trint] have been looking into Video Conferencing Transcribing as a way to increase their market share and reach ..."
     publishedDateTime: 2023-03-24T03:31:00Z

@@ -72,6 +72,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Apple acquires AI-driven video compression startup WaveOne"
+    excerpt: "Apple has quietly acquired WaveOne, a California-based startup that develops AI algorithms for video compression."
+    publishedDateTime: 2023-03-28T10:29:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/apple-acquires-ai-driven-video-compression-startup-waveone-789998"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/apple-acquires-ai-driven-video-compression-startup-waveone-789998"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/apple-acquires-ai-driven-video-compression-startup-waveone-789998"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 57
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/03/28/1343883-pp.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "WaveOne AI-powered video compression startup acquired by Apple"
     excerpt: "AI has been quite topical since the breakout success of ChatGPT last year, and many have wondered if and how the world’s biggest company would adapt similar technology. Now, Apple has acquired WaveOne, and AI-powered video compression software."
     publishedDateTime: 2023-03-27T22:19:00Z
@@ -145,20 +161,6 @@ related:
       - url: "https://images.macrumors.com/t/ihTXdqcXcQVGLfy75fYYMN0NB8c=/1600x/article-new/2023/03/WaveOne-Apple.jpeg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Apple Acquires AI-Driven Video Compression Startup Waveone"
-    excerpt: "San Francisco, March 28 (IANS) Apple has quietly acquired WaveOne, a California-based startup that develops AI algorithms for video compression. Although Apple did not announce the acquisition, Bob Stankosh, WaveOne's former head of sales and business ..."
-    publishedDateTime: 2023-03-28T04:41:00Z
-    webUrl: "https://menafn.com/1105877849/Apple-Acquires-AI-Driven-Video-Compression-Startup-Waveone"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2023-03/28/I_7e310image_story.jpg"
-        width: 400
-        height: 267
         isCached: true
   - title: "Vegas Bot AI starts Presale with the bang, users can secure revenue with their advanced AI-powered strategies"
     excerpt: "Vegas Bot AI, a revolutionary technology startup that aims to enhance customer interactions with businesses by developing a highly natural conversational experience, introduces the Vegas Bot AI Token Launch."

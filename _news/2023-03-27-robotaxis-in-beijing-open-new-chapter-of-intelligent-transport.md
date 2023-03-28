@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "Robotaxis ready for hire in Beijing"
-    excerpt: "The city granted licenses to operate fully driverless robotaxi services to Chinese tech ... It then processes and judges through artificial intelligence algorithms to achieve autonomous driving. The robotaxi is also expected to pave the way for the ..."
-    publishedDateTime: 2023-03-28T07:40:00Z
-    webUrl: "https://technology.inquirer.net/122572/robotaxis-ready-for-hire-in-beijing"
+    excerpt: "Baidu and Pony.ai offer robotaxi services to residents who can hail a ride through their respective apps. Read more at straitstimes.com."
+    publishedDateTime: 2023-03-28T04:23:00Z
+    webUrl: "https://www.straitstimes.com/asia/east-asia/robotaxis-ready-for-hire-in-beijing"
     type: article
     provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
+      name: The Straits Times
+      domain: straitstimes.com
     quality: 24
     images:
-      - url: "https://technology.inquirer.net/files/2023/03/Robotaxis-ready-for-hire-in-Beijing-620x413.png"
-        width: 620
-        height: 413
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/03/28/2023-02-24T091626Z1015371487RC2DHZ9J56USRTRMADP3CHINA-BAIDU-ROBOTAXI_0.JPG?VersionId=HxXfJcKv5tlwiqtpycUUlxsqiwZhQgsB"
+        width: 860
+        height: 573
         isCached: true
 
 secured: "qxjVXr9UCWLO/W15V32fENFfp9Fwr4uQVKvzXY0FJt/N6AVVSLo5eQf/+LeW/im1fSolwYRj/Pa3DbHjcQ0CRpCKXDmIxQLmfowNMOVKUlmiYXzQJHRT/p2JOesHC2MMPV7xFvE8jEc9RgZZB2NUIH7ulOfNz2iV6BrL+n5VhIm/yIynu+RD2MqC7SVHhF3UxoKxzjRmRbKv7rPUrdfinazvcutyk+1uXomUFzPhKkXFxsGfDuDkoKxtm5eh3y2Rnk70mxKAt370eKPio/bTwIIQYTzS3KMz0yXLl62U+k2B44qeW7xdVarID4e6U4Bfv5Vf8/GdN8wiEFdX5U7aClwONrEujU4DCOG0C84R6xP31R/80Df+HM/Ng24Q9CHMOLwzmoOBXQyONsgPc3aMPjc1teNnWlT0Dz9+jBWWGc7ubEzbmdQpMCgTQHnfzTpLnnSR7ot8ib/F9E/qXkErRz5DZxWJDMjh9mcr9LnMYi4Tpev6gBwdtxHCYnBXqvgLHd3ontGIbf7DdQfEBDYFpg==;1iZU47tiCit3z4/de5tisQ=="

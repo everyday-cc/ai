@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Oracle adds machine learning features to MySQL HeatWave"
-    excerpt: "Oracle is adding new machine learning features to its data analytics cloud service MySQL HeatWave. MySQL HeatWave combines OLAP (online analytical processing), OLTP (online transaction processing), machine learning, and AI-driven automation in a ..."
-    publishedDateTime: 2023-03-23T18:17:00Z
-    webUrl: "https://www.infoworld.com/article/3691614/oracle-adds-machine-learning-features-to-mysql-heatwave.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 49
 
 secured: "e52T0KNhoat6iMxFUVozFExkzSGMw4DuwWJPlENc28vuuUSjtbCQuX34e+nN8+u2MPw57x40ZMErz5k//w0ECfp17oS7QOiLGjqe5h7cgoDlFvtBSnmjKMZ+vyeiWfUiRBHJVIYR8KogHo7/wIH2ZoIsLmdtTDHO6w8ATK8GWngrjgrLjuh1/oaH3doJ0FD5FyvKO0Nuy2B/VsDplGdPtl8F7TnJ433ud9/ysuWagTlDG10MQ+LwLR4yq9NQVGSn+vnRldNsNKSscnI/KJWLQa4lhckiMQJ4FII57iXkz5+lOk9p5NqQM6MTd8YUUKEDys9UW3yuV5q9fnPikN3WDaFQ+pl3xPX9qYV4MUfv2lRyjVwb4gwzfF/4rFw6zEcbJgV0NL/Iej+DgMhUvIC393Glg5rWa05rwIDgHOSBz8UbLPM+onYGSZAYof+1/iHHVxGTukP3UTddFT4rzpfW5qsntqwGD1uPvSBPVi0TWEzyNZSR2qIeurPI+Qydj6tW099n+/p5VtRyNWLHx0L4HQ==;DCs1lrp2XSGqYn5HO3dPHg=="
 ---

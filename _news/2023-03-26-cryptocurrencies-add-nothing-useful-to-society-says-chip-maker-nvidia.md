@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Guardian
@@ -46,6 +46,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/c1d4d5e50b04a1580bdaa1145b2dec10d47b8496/0_217_6520_3912/master/6520.jpg?width=620&quality=85&auto=format&fit=max&s=78bd8b0dece950e337e76dbba5a347a4"
         width: 620
         height: 372
+        isCached: true
+  - title: "Nvidia claims crypto ‘useless’ for society as company continues AI push"
+    excerpt: "Nvidia's CTO, Michael Kagan has said in a statement that Crypto adds nothing \"useful for society\" compared to the company's efforts in AI and other applications."
+    publishedDateTime: 2023-03-27T17:58:00Z
+    webUrl: "https://www.dexerto.com/tech/nvidia-claims-crypto-useless-for-society-2097078/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 39
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/03/27/Nvidia-Crypto.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "TB6var4qiJOmfKIaH4E4ZSA6SGYipEn4T4490YfHlp/ddYKHLitW9WnFCxk4icZPNc1VlhiNqLZNvaY6uPE7cxsM6nRM4lh1kC7kGbYUJbcTEhow4i+P2HtoD2jy61qLkjpJJ7RdEwuM25fegdW9U3VRUM+VZw/Ce+Eb6fDcrLhlvfCrsX/YqCY9rYhCO/VjNuyv47daIML5mNY328blFwwYbRBHik4MmWPwt7ZAulgFBIX1ikTmXsjEVHG21FUrw9il5SoIFBuPlxHT42yCiIg9TRshJWH6v/JbdJYiEe7bQlP2p4bFe/C7HqBxUR9kYFabxpRIuhoy69jNwrBshPwxZ5ZwdZEKsfLfETheis0=;6p/E8sndR2mrRL27rq+R2w=="

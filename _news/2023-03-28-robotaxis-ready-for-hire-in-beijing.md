@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Robotaxis ready for hire in Beijing"
-excerpt: "The city granted licenses to operate fully driverless robotaxi services to Chinese tech ... It then processes and judges through artificial intelligence algorithms to achieve autonomous driving. The robotaxi is also expected to pave the way for the ..."
-publishedDateTime: 2023-03-28T07:40:00Z
-originalUrl: "https://technology.inquirer.net/122572/robotaxis-ready-for-hire-in-beijing"
-webUrl: "https://technology.inquirer.net/122572/robotaxis-ready-for-hire-in-beijing"
+excerpt: "Baidu and Pony.ai offer robotaxi services to residents who can hail a ride through their respective apps. Read more at straitstimes.com."
+publishedDateTime: 2023-03-28T04:23:00Z
+originalUrl: "https://www.straitstimes.com/asia/east-asia/robotaxis-ready-for-hire-in-beijing"
+webUrl: "https://www.straitstimes.com/asia/east-asia/robotaxis-ready-for-hire-in-beijing"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Philippine Daily Inquirer
-  domain: inquirer.net
+  name: The Straits Times
+  domain: straitstimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://technology.inquirer.net/files/2023/03/Robotaxis-ready-for-hire-in-Beijing-620x413.png"
-    width: 620
-    height: 413
+  - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/03/28/2023-02-24T091626Z1015371487RC2DHZ9J56USRTRMADP3CHINA-BAIDU-ROBOTAXI_0.JPG?VersionId=HxXfJcKv5tlwiqtpycUUlxsqiwZhQgsB"
+    width: 860
+    height: 573
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 480
         isCached: true
 
-secured: "XXjhX5/67wcGueZ7zLjvCTXlt5bnbFP3WerC++q7y2o2qT954JFcXeaylYAycRmBmlCob41HKQPSUMEDcH7W5va4OLvpwolSlL6tKbd3DpXtzgWv9WjRkk7iHltd1VSp6oe7z2LMC6MgihMkn9e0XMTp0sHaMYJFY76yYs39LZJ1+k/zXJe6YnCfKveZ25Bfb+FG2A/ZUL4KOI7vgf7064LTeg+ikwkHCsqykJN+McOXIfCCBCxJuk93qv2D4+gplvDci1EVJo3gJHUbMcjjeUvZk++FPP67BO9e9pw6qcHnA8XVMdB/Ok5QBbPKUZ0n0GUpjuUgfS3OBtNUuw9gSSvoC6FlLBWS+IlSbIYNLQ8=;3zXO2brbjxwcacmnMYvKMQ=="
+secured: "NPTn93lJAVMw5Weh4hTrlqgpgXQbEY0Qk7QbYrhajc6KVNiKP8aP7H6CCj6ErCyNJs053qsq/k20ZhnyURRxFcSVBeZ5HyjTndpsmCu0HbD0x/6WLz0Wz2fl12erLyZoILtXGBnKa2wQP+0HGSHir11H1AuGTObcl7jgtGc/ba690+fWmrULGM8WKlsaCEtgBT6r3m12P9+9kPtG9p768zZ8Dgauqcl8wk2nKCDVxulbrlWCIspn/H+dYBvqepVzq7Gn74+KI8xXV7ajatqPPQhtmWTG9bXc8fqEpkL82c49Mcsf06hFriMFHmziWmVF66CECw++u/Rs3JGg3N66EJ5+/0XBxeNW06AWVlcdUqY=;wtyPpYnch/i0HMH+Q3M07w=="
 ---
 

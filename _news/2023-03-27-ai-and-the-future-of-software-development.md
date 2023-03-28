@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3691892/ai-and-the-future-of-softw
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3691892/ai-and-the-future-of-software-development.amp.html"
 type: article
 quality: 87
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://www.slashgear.com/img/gallery/why-oblivions-npc-rampage-matters-for-the-future-of-ai-development/l-intro-1679602246.jpg"
         width: 1600
         height: 902
-        isCached: true
-  - title: "The dirty secret of artificial intelligence"
-    excerpt: "The emergence of tools such as ChatGPT triggers warnings about a fivefold increase in global data center energy consumption"
-    publishedDateTime: 2023-03-23T17:31:00Z
-    webUrl: "https://english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html"
-    ampWebUrl: "https://english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html?outputType=amp"
-    cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html?outputType=amp"
-    type: article
-    provider:
-      name: El País in English
-      domain: elpais.com
-    quality: 59
-    images:
-      - url: "https://images.english.elpais.com/resizer/Oo8dX2wdbnK6WqZbRNyg8m8-B14=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/5RVNKRJZIVCNHI3TG52ZHSGNHQ.jpeg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Big tech and the pursuit of AI dominance"
     excerpt: "The announcements add to a spate of similar ones in the past month or so from America’s tech titans. OpenAI, the startup which is part-owned by Microsoft and which created ChatGPT , an AI conversationalist that has taken the world by storm,"

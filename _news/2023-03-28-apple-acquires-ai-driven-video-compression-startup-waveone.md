@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Apple Acquires AI-Driven Video Compression Startup Waveone"
-excerpt: "San Francisco, March 28 (IANS) Apple has quietly acquired WaveOne, a California-based startup that develops AI algorithms for video compression. Although Apple did not announce the acquisition, Bob Stankosh, WaveOne's former head of sales and business ..."
-publishedDateTime: 2023-03-28T04:41:00Z
-originalUrl: "https://menafn.com/1105877849/Apple-Acquires-AI-Driven-Video-Compression-Startup-Waveone"
-webUrl: "https://menafn.com/1105877849/Apple-Acquires-AI-Driven-Video-Compression-Startup-Waveone"
+title: "Apple acquires AI-driven video compression startup WaveOne"
+excerpt: "Apple has quietly acquired WaveOne, a California-based startup that develops AI algorithms for video compression."
+publishedDateTime: 2023-03-28T10:29:00Z
+originalUrl: "https://www.thehansindia.com/technology/tech-news/apple-acquires-ai-driven-video-compression-startup-waveone-789998"
+webUrl: "https://www.thehansindia.com/technology/tech-news/apple-acquires-ai-driven-video-compression-startup-waveone-789998"
+ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/apple-acquires-ai-driven-video-compression-startup-waveone-789998"
+cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/apple-acquires-ai-driven-video-compression-startup-waveone-789998"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: The Hans India
+  domain: thehansindia.com
 
 topics:
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2023-03/28/I_7e310image_story.jpg"
-    width: 400
-    height: 267
+  - url: "https://assets.thehansindia.com/h-upload/2023/03/28/1343883-pp.jpg"
+    width: 1200
+    height: 720
     isCached: true
 
 related:
@@ -184,6 +186,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "eBB3z+WWriaWifgW1GY1J2HI44/ODDRGbrHVRiKUxXEp8ah87finAV2B1nCOps9Q28sbKLRu2hqmXS4YGpB0W50EHQ0RjIfQEVa2A0OteR8iV/1YAeIh7HPShPPEsx9HR5+EuadIg1zemzrOj+mwD6G/2QhLP6mjnGONb9LFM1cE2kxPhv1NaKYa+pa60NtyDWsR37GursVOyLHzml+yUB1OIm0qwPdxfwVSef0C6jBlWwJkWQctSRF6nKXpNdMPcqIQ3X01y2vDc1E6gmXXrbbLJugx+9AVBKPbsMs/YTwQIcxATd8Mj2v/MP9IMWukQbD/7xsxeCR/5iJj7S/wHojtg7nX3omRjw871k5Zn9Ong8CJlN6oSiWHD5umPIHuZbOqsWwllQ5Ef0S2wVAieMcvy9aRCEIHf5GzPVEeN1mWkRmC/xe2WubnQzrcI+RTjuMxYjup4zpfebzCAl5tk8xVzU89/tF2u4xqO1IVTp+NeJo5KiYApXFlh9I+TRd90E1v0rKTw7CLUkpFJ1ujHA==;U3AqQtQTlcNXO/w5dlkm2Q=="
+secured: "3+UHO4UX4FuMJF9yDBC/ShRkDlJfKipZespgVNMalrZ0Er5oZQoHYygDKmhxcROZnD0RNlRerae9tEwjmvzfWOWy2PVBkJ6IV8CGkeB/RPmBCVYp+Q16W4FF64Dsq8Ci+Zre7FbzRxYBBZ8p14MNrPLVYT1SCRHpC8yqRdlioruOc0CeHgwPVYy248fs46cRQFx1RkwFg8J//VCi5bZiepmUAYCFSaa362JAa1zHhwgQbmBYxVJkBoV7tysyPhNjfHaUo6rqWfnuss7y54vyW740IUOfJDr6q5NJRFopf5PuBWffYBqYDTyUhd83eIPWAH+UiJgA6HJLkgOXaiD/jEyurEjXFDHyvaG4p+yk7IM=;gMMiM1y8MVhs2UuACcLVTQ=="
 ---
 

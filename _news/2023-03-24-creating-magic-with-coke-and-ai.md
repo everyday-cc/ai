@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Examining the Artificial Intelligence and Cognitive Computing Market from 2023-Opportunities and Challenges Ahead"
+    excerpt: "Detailed Table of Content of Global Artificial Intelligence and Cognitive Computing Market Research Report 2023 1 Artificial Intelligence and Cognitive Computing Market Overview 1.1 Product Overview and Scope of Artificial Intelligence and Cognitive ..."
+    publishedDateTime: 2023-03-28T10:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/examining-the-artificial-intelligence-and-cognitive-computing-market-from-2023-opportunities-and-challenges-ahead-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "JAlr/GjEFKYrHHercTAOUJwMX8B4xXaavoXYkNMBewKz38HV0P1ryaa/0cC6hXrBqDEceNqS3bGRDJS1Q+M9eQg/III4ZOZlAJ1ES9uFdTtQ0wwDiLejh2hjuRMbaSBku6/iXXRvdakRBb1/cV8ZKyXEOlFFh7e8/ZAxP6BXjpd70FtbLkV0zwSc9g2pQiYM3tSv+KNk9FQ6ADZnl1IYF+mFIcV8XYqTxI4BusL3ioeO+Ih/KQWq0MQzlvTsfRjXc6XLd+FQzc5eUwKJUOHkqf00k9CLPbMqsluqj/N93e+fYAnZvyquQHgs7YUvsOeLQvnYYXmxaAOzZ750u5ulmlhe9HHHNFJCEkapjeaRDFXLbAFgqP5E6cRTUtlEkfcNFZZqAtxi2yqeWp+z1+KxT1HrG8zt4SCEggOjOxQv+L6/mYQd0/ct6pm57io2r/0k4XHXz7ZSenbgKfCGdoCEpU/XFViZDgkgtujq5BRFrHnkjOKohwI/wkWCxWID85YoybGLGZ1cDJoE+FMQjMCE0Q==;yB4mRRcoPD0zLOr4qsN6iw=="
 ---

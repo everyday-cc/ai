@@ -71,6 +71,34 @@ related:
         width: 1800
         height: 1200
         isCached: true
+  - title: "AI could be key to optimising chip design, Nvidia says"
+    excerpt: "Nvidia Corp has released a paper showing how a combination of artificial intelligence (AI) techniques could find the best ways to place transistors on silicon chips. Nvidia Corp, the world's leading designer of computer chips used in AI, has shown new ..."
+    publishedDateTime: 2023-03-28T10:42:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2023/03/ai-could-be-key-to-optimising-chip-design-nvidia-says/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 54
+    images:
+      - url: "https://eandt.theiet.org/media/16225/nvidia-cambridge-1_gpu-closeup.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=132699737820000000"
+        width: 1200
+        height: 450
+        isCached: true
+  - title: "Key paper on AI chip design might be overstated"
+    excerpt: "Terminator not coming for chip designers A key Google-led research paper claiming machine-learning software can design better chips faster than humans has been called into question after a new study disputed its results."
+    publishedDateTime: 2023-03-28T11:12:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/56610-key-paper-on-ai-chip-design-might-be-overstated"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/68d425fd6b707bcebf12c496882c2580_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Aetina Showcases Its Latest AI Solutions at NVIDIA GTC"
     excerpt: "Aetina's New Edge Computing Systems and Platforms Are Powered by the Latest NVIDIA Jetson Orin System-on-Modules Aetina's NVIDIA-Certified System Tested with NVIDIA L4 Tensor Core GPU Aetina's SuperEdge AIS-D422-A1—an AI platform ideal for AI model ..."
     publishedDateTime: 2023-03-24T05:18:00Z

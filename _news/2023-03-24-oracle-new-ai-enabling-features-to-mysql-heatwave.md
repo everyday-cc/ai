@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/03/23/oracle-new-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/03/23/oracle-new-ai-enabling-features-to-mysql-heatwave/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Oracle adds machine learning features to MySQL HeatWave"
-    excerpt: "Oracle is adding new machine learning features to its data analytics cloud service MySQL HeatWave. MySQL HeatWave combines OLAP (online analytical processing), OLTP (online transaction processing), machine learning, and AI-driven automation in a ..."
-    publishedDateTime: 2023-03-23T18:17:00Z
-    webUrl: "https://www.infoworld.com/article/3691614/oracle-adds-machine-learning-features-to-mysql-heatwave.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 49
   - title: "Oracle Adds New AI-Enabling Features To MySQL HeatWave"
     excerpt: "Oracle announces the latest batch of updates to HeatWave that bring new capabilities for enterprise machine learning, AI-driven automation, and multi-cloud support."
     publishedDateTime: 2023-03-23T19:59:00Z

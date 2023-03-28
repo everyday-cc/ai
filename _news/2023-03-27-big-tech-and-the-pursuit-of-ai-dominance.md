@@ -57,22 +57,6 @@ related:
         width: 1600
         height: 902
         isCached: true
-  - title: "The dirty secret of artificial intelligence"
-    excerpt: "The emergence of tools such as ChatGPT triggers warnings about a fivefold increase in global data center energy consumption"
-    publishedDateTime: 2023-03-23T17:31:00Z
-    webUrl: "https://english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html"
-    ampWebUrl: "https://english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html?outputType=amp"
-    cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html?outputType=amp"
-    type: article
-    provider:
-      name: El País in English
-      domain: elpais.com
-    quality: 59
-    images:
-      - url: "https://images.english.elpais.com/resizer/Oo8dX2wdbnK6WqZbRNyg8m8-B14=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/5RVNKRJZIVCNHI3TG52ZHSGNHQ.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "UT preps students for the future of artificial intelligence"
     excerpt: "KNOXVILLE, Tenn. (WATE) — The University of Tennessee has partnered with the AI Education Project in a call to action for advanced AI literacy. The initiative is focused on connecting K-12 students with education innovations that align with 21st-century ..."
     publishedDateTime: 2023-03-24T03:00:00Z

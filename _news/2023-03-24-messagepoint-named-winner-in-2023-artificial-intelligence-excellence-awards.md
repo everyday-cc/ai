@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "SoftSmile Honored as 2023 Artificial Intelligence Excellence Award Winner"
-    excerpt: "Since 2012, the award program has been celebrating one-of-a-kind innovations and outstanding performance – and now, SoftSmile joins the distinguished roster, being recognized am"
-    publishedDateTime: 2023-03-23T19:01:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/03/23/9782481.htm"
+  - title: "Lattice Wins 2023 Artificial Intelligence Awards"
+    excerpt: "HILLSBORO, Ore.--(BUSINESS WIRE)--Lattice Semiconductor (NASDAQ: LSCC), the low power programmable leader, today announced that it won two Artificial Intelligence Excellence Awards from The Business Intelligence Group. The Lattice Avant™ FPGA platform ..."
+    publishedDateTime: 2023-03-23T20:03:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230323005005/en/Lattice-Wins-2023-Artificial-Intelligence-Awards"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 38
-    images:
-      - url: "https://mma.prnewswire.com/media/1699572/SoftSmile_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 17
   - title: "Virtualitics Wins 2023 Artificial Intelligence Excellence Award"
     excerpt: "Virtualitics Inc., an artificial intelligence and data exploration company, today announced it has been honored with a 2023 Artificial Intelligence Excellence Award from the Business Intelligence Group."
     publishedDateTime: 2023-03-23T20:14:00Z
@@ -42,15 +37,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "Modern Hire Recognized as a Winner of the Business Intelligence Group's 2023 Artificial Intelligence Excellence Awards"
-    excerpt: "Modern Hire, the enterprise hiring platform that uses advanced selection science to mitigate bias and predict candidate fit, today announced it has been recognized as a winner of The Business Intelligence Group's inaugural Artificial Intelligence Excellence Awards."
-    publishedDateTime: 2023-03-23T18:15:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/03/23/9782412.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "vA8G4O5SGUGnXKiZYk/cZmqfMCGB4x6js+ROHIlGF7U2pp3uB/jiS2IBy5qVYipm1St2+8x2MyvXtnIb2ExLOb8u0sDwEM5J4LHrhFeDE1Ks0KRRr5b6XsOSNbpzM9k5xQvP1IvBuPDrDJUMPQxoOorymcTZD6etbCwniZsfyo5dTiuA8akyGAyHddptfEZHAtro1vuhKJ//rO8y9WK3QSfgbUw4Ip2jUEGxFTVWiYCncdJygDcTlBbxyxwE8yUIk/2r4LEDHWOSP0zRzFEDQ12FYzLvne+tQtwupcLCC4gYUhfv12+vht0dz6PQjODcL7YrDtvlwFC4YD3IKSrxvXFJv8oRophKDqmh41SxXbM=;hz3FEFyqBTCNVnTECsIfPA=="
 ---

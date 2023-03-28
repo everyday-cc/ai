@@ -47,6 +47,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Nvidia claims crypto ‘useless’ for society as company continues AI push"
+    excerpt: "Nvidia's CTO, Michael Kagan has said in a statement that Crypto adds nothing \"useful for society\" compared to the company's efforts in AI and other applications."
+    publishedDateTime: 2023-03-27T17:58:00Z
+    webUrl: "https://www.dexerto.com/tech/nvidia-claims-crypto-useless-for-society-2097078/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 39
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/03/27/Nvidia-Crypto.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "YJYCQIL0xZzke56v2vOaskrboXBPWsFRYldjyPPVReHuPGa4XiBRMoetrpCr1Bia98fuW+ef7KMsUVlYTefsqRJ8kkQaL1JQWKkVwR8Hg5tmdT1QMsKvpjYbghBWPlm6Rqi9mbJsC+67uhVfE9t4v1UyEjuqpCw52rbds86Z3R0+mq8ul2OT9hbBMVxwUw1rNf/hd/VUcCSeUVeSFgysqgxbSC8pMriASfxBQTHbs3Kvu0EUhLKKZHsLpQ77fEofjS8B7bHqa0JrTrBzOlaDIb882Lr5nanIeZ/9G+180vnBICNwINSqSLkSUGtvuHURxYnazBVJCcnm2En1p8ATUK+OPy5o4yOfWA2lU2VuWr0=;SPWQS6MJA+vK29XjrApEPA=="
 ---

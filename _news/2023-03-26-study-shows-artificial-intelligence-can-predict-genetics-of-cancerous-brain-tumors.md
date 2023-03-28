@@ -9,8 +9,8 @@ ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2394293-stu
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2394293-study-shows-artificial-intelligence-can-predict-genetics-of-cancerous-brain-tumors?amp"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: devdiscourse
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence can predict genetics of cancerous brain tumors: Study"
-    excerpt: "Researchers have developed an AI-based diagnostic screening system called DeepGlioma that uses rapid imaging to analyze tumor specimens taken during an operation and detect genetic mutations more rapidly."
-    publishedDateTime: 2023-03-23T18:43:00Z
-    webUrl: "https://theprint.in/science/artificial-intelligence-can-predict-genetics-of-cancerous-brain-tumors-study/1468042/"
-    ampWebUrl: "https://theprint.in/science/artificial-intelligence-can-predict-genetics-of-cancerous-brain-tumors-study/1468042/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/science/artificial-intelligence-can-predict-genetics-of-cancerous-brain-tumors-study/1468042/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 71
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2023/03/ANI-20230323182750.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Artificial intelligence predicts genetics of cancerous brain tumors in under 90 seconds"
     excerpt: "Using artificial intelligence, researchers have discovered how to screen for genetic mutations in cancerous brain tumors in under 90 seconds — and possibly streamline the diagnosis and treatment of gliomas, a study suggests. A team of neurosurgeons and ..."
     publishedDateTime: 2023-03-23T19:04:00Z

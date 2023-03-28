@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-global-various-tendencies-industry-report-2029-2023-03-24"
 type: article
 quality: 81
-heat: 221
+heat: 211
 published: true
 
 provider:
@@ -178,15 +178,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
-  - title: "2023 Artificial Intelligence in Manufacturing and Supply Chain Market Size, Growth | Global Industry Trends [2029]"
-    excerpt: "Mar 23, 2023 (The Expresswire) -- [103+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Artificial Intelligence in Manufacturing and Supply Chain Market” Size ..."
-    publishedDateTime: 2023-03-23T18:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-in-manufacturing-and-supply-chain-market-size-growth-global-industry-trends-2029-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
   - title: "Artificial Intelligence for Edge Devices Market Report | Global Forecast From 2023 To 2030"
     excerpt: "The growth of the Artificial Intelligence for Edge Devices Market was mainly operate by the expand RandD spending across the globe. Some of the Major top players describe in the research are , Microsoft, Baidu, NVIDIA, Arm, Horizon Robotics, MediaTek ..."
     publishedDateTime: 2023-03-24T10:01:00Z
