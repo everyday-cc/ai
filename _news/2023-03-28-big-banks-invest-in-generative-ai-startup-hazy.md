@@ -66,6 +66,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "For generative AI to thrive, fintechs must act responsibly"
+    excerpt: "ChatGPT has taken the world by storm, but crucial that fintechs take a responsible and ethical approach to its development and implementation."
+    publishedDateTime: 2023-03-28T07:35:00Z
+    webUrl: "https://www.altfi.com/article/10551_for-generative-ai-to-thrive-fintechs-must-act-responsibly"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 39
+    images:
+      - url: "https://www.altfi.com/images/ext/equifax-and-altfi-report-march-2023-mpu.png"
+        width: 300
+        height: 250
+        isCached: true
   - title: "This generative AI tool actually teaches kids how to write"
     excerpt: "As ChatGPT threatens higher education, edtech startup Pressto is using AI to help kids learn to write. Tech world matriarch Esther Wojcicki is advising."
     publishedDateTime: 2023-03-26T05:00:00Z

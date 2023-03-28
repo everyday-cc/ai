@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "ChatGPT vs. Google Bard vs. Bing: Which AI Chatbot Gives the Best Answers?"
-    excerpt: "If you are looking for a system to translate languages, then Bing AI might be a good choice. And if you are looking for a system to generate comprehensive and informative responses, then Google Bard might be a good choice.\" In other words, Bard thinks it's ..."
-    publishedDateTime: 2023-03-23T13:58:00Z
-    webUrl: "https://www.pcmag.com/news/chatgpt-vs-google-bard-vs-microsoft-bing-which-ai-chatbot-gives-best-answers"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 71
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03hxl67L6BOEuU7RuYTxAXH-5.fit_lim.size_1200x630.v1679516177.png"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "A 16-Month-Old Chatbot Startup With No Revenue Is Now a $1 Billion Unicorn"
     excerpt: "A 16-month-old chatbot startup is now a $1 billion unicorn. Character.AI, a Silicon Valley company started by two former Google employees, said Thursday it raised $150 million in a new funding round led by well-known venture-capital firm Andreessen Horowitz."
     publishedDateTime: 2023-03-23T20:58:00Z
@@ -127,20 +113,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/JDt6b0saEHni9d599POntWzuF4E=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440534/AI_Hands_A_Bernis_01.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "A 16-Month-Old Chatbot Startup, Character.AI, Is Now a $1 Billion Unicorn"
-    excerpt: "A 16-month-old chatbot startup is now a $1 billion unicorn. Character.AI, a Silicon Valley company started by two former Google employees, said Thursday it raised $150 million in a new funding round led by well-known venture-capital firm Andreessen Horowitz."
-    publishedDateTime: 2023-03-23T14:19:00Z
-    webUrl: "https://www.wsj.com/articles/a-16-month-old-chatbot-startup-character-ai-is-now-a-1-billion-unicorn-97aa194f"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 66
-    images:
-      - url: "https://images.wsj.net/im-749471/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Google Bard accused of plagiarism as publishers fight back against AI chatbots"
     excerpt: "Bard missed all the finer nuances of the comparison, and ended up highlighting only the gaming aspect of the two chips, thereby offering an incomplete analysis. Plagiarism by an AI chatbot is nothing new. According to The Wall Street Journal, Google Bard ..."
@@ -297,20 +269,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/f46d9c44-91e7-4795-95c8-3d296cc14d18/c4f2cd34-8b55-40f3-bbfc-32a36cde9a3a/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Why the makers of ChatGPT care what Pope Francis says about AI"
-    excerpt: "In January, Pope Francis addressed tech-industry leaders from companies such as Microsoft and IBM as well as members of the Jewish and Muslim communities during a conference on ethics in AI at the Vatican. The pope urged them to “ensure that the ..."
-    publishedDateTime: 2023-03-23T13:56:00Z
-    webUrl: "https://www.americamagazine.org/faith/2023/03/23/chatgpt-machine-learning-catholic-244953"
-    type: article
-    provider:
-      name: America Magazine
-      domain: americamagazine.org
-    quality: 39
-    images:
-      - url: "https://www.americamagazine.org/sites/default/files/styles/article_image_750_x_503_/public/main_image/2023/03/23/rolf-van-root-oLthDWAG244-unsplash.jpg.jpg?itok=4H9L3l5G"
-        width: 750
-        height: 500
         isCached: true
   - title: "Jack Ma comments on ChatGPT, AI in the digital era"
     excerpt: "A response by ChatGPT, an AI chatbot developed by OpenAI, is seen on its website in this illustration picture taken Feb 9, 2023. [Photo/Agencies] Jack Ma, founder of Alibaba Group"

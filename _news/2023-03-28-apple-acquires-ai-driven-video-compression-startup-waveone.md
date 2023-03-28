@@ -146,19 +146,19 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Vegas Bot AI starts Presale with the bang, users can secure revenue with their advanced AI-powered strategies"
-    excerpt: "With Chatbot AI's rising popularity, Vegas Bot AI strives to take natural language processing and machine learning a notch higher to better serve customers globally. Chatbot AI And Its Features Chatbot AI is a computer software that uses natural language ..."
-    publishedDateTime: 2023-03-23T13:54:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31475133/vegas-bot-ai-starts-presale-with-the-bang-users-can-secure-revenue-with-their-advanced-ai-powered-"
+  - title: "Apple quietly acquires AI-driven video compression startup WaveOne"
+    excerpt: "Apple has quietly acquired WaveOne, a California-based startup that develops AI algorithms for video compression"
+    publishedDateTime: 2023-03-28T05:47:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/apple-quietly-acquires-ai-driven-video-compression-startup-waveone-123032800223_1.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 20
+      name: Business Standard
+      domain: business-standard.com
+    quality: 37
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-03/15/full/1678859871-6936.jpg"
+        width: 620
+        height: 464
         isCached: true
   - title: "Vegas Bot AI starts Presale with the bang, users can secure revenue with their advanced AI-powered strategies"
     excerpt: "Vegas Bot AI, a revolutionary technology startup that aims to enhance customer interactions with businesses by developing a highly natural conversational experience, introduces the Vegas Bot AI Token Launch."
@@ -175,15 +175,6 @@ related:
         height: 209
         isCached: true
   - title: "AI startups to watch"
-    excerpt: "Investors are pouring billions of dollars into AI startups in what is quickly becoming the latest tech gold rush. Leading the AI revolution is OpenAI, a startup from Sam Altman that created the fast-growing artificial intelligence chatbot ChatGPT,"
-    publishedDateTime: 2023-03-23T14:16:00Z
-    webUrl: "https://www.bizjournals.com/milwaukee/inno/stories/awards/2023/03/23/ai-startups-to-watch.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
-  - title: "AI startups to watch"
     excerpt: "Leading the AI revolution is OpenAI, a startup from Sam Altman that created the fast-growing artificial intelligence chatbot ChatGPT, which this year reached 100 million monthly active users."
     publishedDateTime: 2023-03-24T07:18:00Z
     webUrl: "https://www.bizjournals.com/washington/inno/stories/awards/2023/03/23/ai-startups-to-watch.html"
@@ -193,6 +184,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "lPz5Av+mjD/bqg5jqIq7lEsL8KkykEJP5p45TzRpLQAMdopVa0osr9BXUm89Y3KcBN+jINqasGOFVgiLEQMhtdHTbNoFOiLhR7VUVLIk+P0OpISa0shmJt8sE/IqTofyD7pz1KKNo3GlrOLfyiqlp2lb6L2CEIavpWZ72vqTxSGDkKsFHYNONWCQ4spNHvUwVQWWbqkfzn2QNH180Dg+EHEUupGPi3fnGA6iJVDtI6+a7bzPbmN1hbvw5kHinPuSBB1RaqmXlli2xG6fPXHATDg6AZSvgmlcul/40pNDDig7k+h7Yx44m5+fBo+dTEJBgDhAQsf32pBR+uoq3ECJSvqSomB20ALwU2+lGEh5ZxA=;EvHFRzfPiqaLtvoWiA9RfQ=="
+secured: "eBB3z+WWriaWifgW1GY1J2HI44/ODDRGbrHVRiKUxXEp8ah87finAV2B1nCOps9Q28sbKLRu2hqmXS4YGpB0W50EHQ0RjIfQEVa2A0OteR8iV/1YAeIh7HPShPPEsx9HR5+EuadIg1zemzrOj+mwD6G/2QhLP6mjnGONb9LFM1cE2kxPhv1NaKYa+pa60NtyDWsR37GursVOyLHzml+yUB1OIm0qwPdxfwVSef0C6jBlWwJkWQctSRF6nKXpNdMPcqIQ3X01y2vDc1E6gmXXrbbLJugx+9AVBKPbsMs/YTwQIcxATd8Mj2v/MP9IMWukQbD/7xsxeCR/5iJj7S/wHojtg7nX3omRjw871k5Zn9Ong8CJlN6oSiWHD5umPIHuZbOqsWwllQ5Ef0S2wVAieMcvy9aRCEIHf5GzPVEeN1mWkRmC/xe2WubnQzrcI+RTjuMxYjup4zpfebzCAl5tk8xVzU89/tF2u4xqO1IVTp+NeJo5KiYApXFlh9I+TRd90E1v0rKTw7CLUkpFJ1ujHA==;U3AqQtQTlcNXO/w5dlkm2Q=="
 ---
 

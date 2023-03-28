@@ -25,63 +25,88 @@ images:
     isCached: true
 
 related:
-  - title: "Aetina Teams Up With Hailo To Introduce Multi-Inference AI Solutions At The Edge During ISC West 2023"
-    excerpt: "Aetina & Hailo join forces to launch multi-inference AI solutions that involve object recognition AI models, Aetina's AI inference platform."
-    publishedDateTime: 2023-03-26T16:02:00Z
-    webUrl: "https://enterprisetalk.com/news/aetina-teams-up-with-hailo-to-introduce-multi-inference-ai-solutions-at-the-edge-during-isc-west-2023/"
-    ampWebUrl: "https://enterprisetalk.com/news/aetina-teams-up-with-hailo-to-introduce-multi-inference-ai-solutions-at-the-edge-during-isc-west-2023/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/aetina-teams-up-with-hailo-to-introduce-multi-inference-ai-solutions-at-the-edge-during-isc-west-2023/amp/"
+  - title: "Nvidia shows how AI can improve chip design"
+    excerpt: "Nvidia, the world’s leading designer of computer chips used in creating artificial intelligence, on Monday showed new research that explains how AI can be used to improve chip design. The process of designing a chip involves deciding where to place tens of billion of tiny on-off switches called transistors on a piece of silicon to create working chips."
+    publishedDateTime: 2023-03-28T05:32:00Z
+    webUrl: "https://techcentral.co.za/nvidia-shows-how-ai-can-improve-chip-design/223714/"
+    ampWebUrl: "https://techcentral.co.za/nvidia-shows-how-ai-can-improve-chip-design/223714/?amp=1"
+    cdnAmpWebUrl: "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/nvidia-shows-how-ai-can-improve-chip-design/223714/?amp=1"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 44
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 74
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/03/Aetina-Teams-Up-With-Hailo-To-Introduce-Multi-Inference-AI-Solutions-At-The-Edge-During-ISC-West-2023.jpg"
+      - url: "https://techcentral.co.za/wp-content/uploads/2022/06/nvidia-1500-800.jpg"
         width: 1500
-        height: 844
+        height: 800
         isCached: true
-  - title: "Aetina Corporation: Aetina Showcases Its Latest AI Solutions at NVIDIA GTC"
-    excerpt: "The platforms, paired with the NVIDIA A2 Tensor Core GPU and the NVIDIA RTX A4500 graphics card, are NVIDIA-Certified Systems, ideal for use with NVIDIA software tools to run AI training and inference with better performance. Aetina's NVIDIA-Certified ..."
-    publishedDateTime: 2023-03-24T03:05:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58641034-aetina-corporation-aetina-showcases-its-latest-ai-solutions-at-nvidia-gtc-008.htm"
+  - title: "The Dream Of Placing Blocks On Chip Designs With AI"
+    excerpt: "“This work demonstrates the effectiveness of combining GPU-accelerated placers with AI/ML multi-objective parameter optimization,” Agnesina and Ren wrote. “Furthermore, given the importance of scalability in modern chip design flows, we hope this ..."
+    publishedDateTime: 2023-03-27T19:50:00Z
+    webUrl: "https://www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/"
+    ampWebUrl: "https://www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/amp/"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 37
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 74
     images:
-      - url: "https://mma.prnewswire.com/media/2038846/Aetina_s_New_Edge_Computing_Systems_Platforms_Are_Powered_Latest_NVIDIA.jpg"
-        width: 400
-        height: 209
+      - url: "http://www.nextplatform.com/wp-content/uploads/2023/03/Nvidia-AutoDMP.jpg"
+        width: 1999
+        height: 1126
         isCached: true
-  - title: "Aetina Partners with Hailo to Launch Multi-Inference AI Solutions at the Edge during ISC West 2023"
-    excerpt: "Aetina and Hailo join forces to launch multi-inference AI solutions that involve object recognition AI models, Aetina's AI inference platform—AIP-SQ67, and AI-MXM-H84A"
-    publishedDateTime: 2023-03-24T00:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31485508/aetina-partners-with-hailo-to-launch-multi-inference-ai-solutions-at-the-edge-during-isc-west-2023"
+  - title: "Nvidia calls cryptocurrency useless for society, says its graphics cards are better used for AI"
+    excerpt: "Speaking to The Guardian, Nvidia Chief Technology Officer Micheal Kagan said that the processing power of the company's GPUs should be used for tasks more worthwhile"
+    publishedDateTime: 2023-03-27T10:16:00Z
+    webUrl: "https://techspot.com/news/98081-nvidia-calls-cryptocurrency-useless-society-gpus-better-used.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 57
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2018/11/2018-11-26-image-2.jpg"
+        width: 1800
+        height: 1200
+        isCached: true
+  - title: "AI Becoming More Prominent In Chip Design"
+    excerpt: "The good and bad of more data, and how AI can leverage that data to optimize designs and improve reliability. Semiconductor Engineering sat down to talk about the role of AI in managing data and improving designs,"
+    publishedDateTime: 2023-03-27T07:01:00Z
+    webUrl: "https://semiengineering.com/ai-becoming-more-prominent-in-chip-design/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 54
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/Black-Gold-AdobeStock_421176269-07-07-21-scaled.jpeg?fit=2560%2C1080&ssl=1"
+        width: 2560
+        height: 1080
+        isCached: true
+  - title: "Nvidia’s show new AI research to improve chip design"
+    excerpt: "Nvidia’s reinforcement learning research introduced a second layer of AI to chip transistors for improved results. (Reuters pic) NEW YORK: Nvidia Corp, the world’s leading designer of computer chips used in creating artificial intelligence, on Monday ..."
+    publishedDateTime: 2023-03-28T03:38:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/03/28/nvidias-show-new-ai-research-to-improve-chip-design/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 34
+  - title: "ETFs That Allow You To Invest In Nvidia's AI Wave, Strategy to Bypass US - China Sanctions"
+    excerpt: "\"The age of AI demands cloud data center infrastructures to support extraordinary ... This week, Nvidia said it has similarly developed a China-export version of its H100 chip, making it eligible for export to China. The H800 mainly reduced the chip ..."
+    publishedDateTime: 2023-03-24T16:53:00Z
+    webUrl: "https://www.benzinga.com/news/23/03/31492548/etfs-that-allow-you-to-invest-in-nvidias-ai-wave-strategy-to-bypass-us-china-sanctions"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 25
+    quality: 29
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Aetina Corporation: Aetina Partners with Hailo to Launch Multi-Inference AI Solutions at the Edge during ISC West 2023"
-    excerpt: "Aetina and Hailo join forces to launch multi-inference AI solutions that involve object recognition AI models, Aetina's AI inference platform-AIP-SQ67"
-    publishedDateTime: 2023-03-24T03:38:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58640762-aetina-corporation-aetina-partners-with-hailo-to-launch-multi-inference-ai-solutions-at-the-edge-during-isc-west-2023-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 15
-    images:
-      - url: "https://mma.prnewswire.com/media/2039160/Aetina_Partners_Hailo_Launch_Multi_Inference_AI_Solutions_That_Involve_AI.jpg"
-        width: 400
-        height: 209
+      - url: "https://cdn.benzinga.com/files/images/story/2023/03/24/nvda.png?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "HCXx0WcC8xV9639lcYBLOvtp0GX/TQ8txx2Q6poiJ0KCKM+jp8Cv0kKIkfQVVql2sI8qnwUH3Un2JKAjNH2vpmQ2gQpvk+ci9QSZSZNmAfbqoDIOcbauExCK2/tX0ebiERThoObXnqOiR60jtXw1OOW5KcTC3AdnNgAZ4QTYUx5cApF8bsIGVXa0vHBzlXIyX1XE6tRWTNEX5mgZzCUWY9AunQ3aYb9nidpE8g6YiKfU2tcxncs0+onp2Kmu4yUIs/1n7w4N6svc4dOKoARt3jk5+FW2oIbpriXuZnbwG8v984h+5JUKIfbhH0hefts7ygNWtt6uZ0voEFhJJ6U0xbcx07bou1i8xjgKixxuGsY=;7jKJSxotzhgT5FschD1EwA=="

@@ -7,7 +7,7 @@ originalUrl: "https://futurism.com/the-byte/google-bard-accused-plagiarizing-no-
 webUrl: "https://futurism.com/the-byte/google-bard-accused-plagiarizing-no-credit"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
 
 related:
   - title: "What can Google's AI-powered Bard do? We tested it for you"
+    excerpt: "That is the Shakespearean question an Associated Press reporter sought to answer while testing out Google's artificially intelligent chatbot. The recently rolled-out bot dubbed Bard is the internet search giant's answer to the ChatGPT tool that Microsoft has been melding into its Bing search engine and other software."
+    publishedDateTime: 2023-03-27T13:47:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/googles-ai-powered-bard-tested-98157098"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/googles-ai-powered-bard-tested-98157098"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/googles-ai-powered-bard-tested-98157098"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_14ee02cb71b32f0e1fc87a4173c03796_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "What can Google's AI-powered Bard do? We tested it for you"
     excerpt: "A portion of Google's Bard website is shown in Glenside, Pa., Monday,. The recently rolled-out bot dubbed Bard is the internet search giant's answer to the ChatGPT"
     publishedDateTime: 2023-03-27T21:49:00Z
     webUrl: "https://www.chron.com/news/politics/article/what-can-google-s-ai-powered-bard-do-we-tested-17862559.php"
@@ -39,6 +55,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "If you haven’t tested artificial intelligence and experienced its power, here’s how"
+    excerpt: "Hello. Meet ChatGPT, an artificial intelligence invention that you can try for yourself. I’ll show you how. Microsoft Bing offers a similar artificial intelligence -- or AI – tool. Last week Google introduced its version call Bard. I’ve tried all three."
+    publishedDateTime: 2023-03-24T19:16:00Z
+    webUrl: "https://www.dallasnews.com/news/watchdog/2023/03/24/if-you-havent-tested-artificial-intelligence-and-experienced-its-power-heres-how/"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 11
 
 secured: "90g3NaRDKv8McAxLomVut3uMPOXvMw+gLwQoBidk3KN4aWzg2h7hqjqCFheER8DS9W1PPBV+wb+eunFYtQspCZUl9ZPA3mMNyxB986Jnxux64GT3LQy7KFhg15Y52g0T/JanPSka8Lpb1w6AItEmIPPi0w/Px6GarEkljsNus6o2M15T5WddFQZQK+Evp/AWTv2XiDwl1b0hUSKnVsY0rZsqSPWrHgQSEAbsOQCdjwFwsF9f1240TDhSfgTokkaihf3FZMkhIp+WQo79OV0YwSg94B7TBgb/e8DFapxGSSMMQGLSSh8EQmd4MzvXMrkJwUCzc5NVPPwIY1zdVMrJL1WLqbdBoVZep3BBCaFZD/fb9cFpasQVH9EWvCmez9w3yXRCF1+lBDbM67CAGDGj0T4T/VEmeo0NOh2mXlIlXz+n1Z3EDg6IsoZVf9xp9hBphVvqq9TxciP64EPJsVnvLKbS3pTEdn09535sab09RUviq4YxApKJIkrtGh033jlxD2ukZ3aEB1+CiLG4/u30Ww==;VTcQrFF0MyLLS7Eldjv45w=="
 ---

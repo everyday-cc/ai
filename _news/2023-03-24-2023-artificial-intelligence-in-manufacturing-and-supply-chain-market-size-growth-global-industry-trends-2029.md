@@ -185,15 +185,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
-  - title: "AI-Powered Cognitive Search Market Premium Research Report Forecast 2023 To 2029"
-    excerpt: "Businesses Across the Globe Expected to Do Better in 2023 Top “AI-Powered Cognitive Search Market” Size 2023 Key players Profiled in the Report are [, IBM Watson, Coveo, Squirro, Micro Focus, Mindbreeze, BMC Software, BA Insight, Lucidworks ..."
-    publishedDateTime: 2023-03-23T14:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-powered-cognitive-search-market-premium-research-report-forecast-2023-to-2029-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
   - title: "Artificial Intelligence for Edge Devices Market Report | Global Forecast From 2023 To 2030"
     excerpt: "The growth of the Artificial Intelligence for Edge Devices Market was mainly operate by the expand RandD spending across the globe. Some of the Major top players describe in the research are , Microsoft, Baidu, NVIDIA, Arm, Horizon Robotics, MediaTek ..."
     publishedDateTime: 2023-03-24T10:01:00Z

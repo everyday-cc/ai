@@ -66,20 +66,6 @@ related:
       name: The Desert Sun
       domain: desertsun.com
     quality: 34
-  - title: "Cruise plans ambitious self-driving expansion"
-    excerpt: "Self-driving technology company Cruise is expanding its California ambitions beyond San Francisco. Company executives asked California regulators Monday to amend their existing permit to allow for testing of autonomous vehicles throughout the state."
-    publishedDateTime: 2023-03-23T14:48:00Z
-    webUrl: "https://www.autonews.com/mobility-report/cruise-seeks-self-driving-expansion-across-california"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/CRUISE-MAIN_0.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "R4myw8Mbf37S/MWJFQFDhd8jL4bgdBj5w14AyKtwDnw7pDeq8VdfDEIGtGuDCAPBbsca0ANE7bYb3OTI+lZ1CavKhG59rGnfZflL/BQ61OlFiI1Xc1oi3trGvMJNuEh3DhhJbcLvETElRrS5qxKal8X4WC2XP+ootzq2AohVYsW1Atg1ta+32AkqHLBYd415qgulaBQCEBVn5qk3gPpzEQcYD56OH6lv4A8lap7AbpwJ4r/8ttJroJnNzX0XhgyDGwXYVHvB2ybkpNrCcW4DI1n1gOKc3zm2mjVurITDO4pcuChJSCYYOK1TOjmexCePM0CRdhzniFlPlHj7X9vjDb7ea1s575q1T9tPMaIZKow=;bzmkNSRjrCt/o5DVXEGGPQ=="
 ---

@@ -26,34 +26,137 @@ images:
     isCached: true
 
 related:
-  - title: "The Top Artificial Intelligence Trends for 2023 Published in Info-Tech Research Group's Latest Report"
-    excerpt: "The firm's new report provides an overview of the eight trends that will continue to drive AI innovation over the coming months. TORONTO, March 27, 2023 /PRNewswire/ - To help tech leaders and their organizations stay on top of the latest technology shifts ..."
-    publishedDateTime: 2023-03-27T21:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-top-artificial-intelligence-trends-for-2023-published-in-info-tech-research-group-s-latest-report-1032195237"
+  - title: "AI and the future of software development"
+    excerpt: "Just ask Jaana Dogan, a distinguished software engineer at GitHub. According to Dogan, “People are too focused on code generation and completely ignore that LLMs are useful for code analysis.” In other words,"
+    publishedDateTime: 2023-03-27T09:00:00Z
+    webUrl: "https://www.infoworld.com/article/3691892/ai-and-the-future-of-software-development.html"
+    ampWebUrl: "https://www.infoworld.com/article/3691892/ai-and-the-future-of-software-development.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3691892/ai-and-the-future-of-software-development.amp.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
     images:
-      - url: "https://mma.prnewswire.com/media/2041482/Info_Tech_Research_Group_The_Top_Artificial_Intelligence_Trends.jpg"
-        width: 400
-        height: 222
+      - url: "https://images.idgesg.net/images/article/2019/05/ai-vendor-relationship-management_artificial-intelligence_hand-on-virtual-screen-100795246-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "O’Reilly 2023 Tech Trends Report Reveals Growing Interest in Artificial Intelligence Topics, Driven by Generative AI Advancement"
-    excerpt: "O’Reilly, a premier source for insight-driven learning on technology and business, announced the findings of its annual Technology Trends for 2023 report, which examines the most sought-after technology topics consumed by the 2."
-    publishedDateTime: 2023-03-24T13:00:00Z
-    webUrl: "https://insidebigdata.com/2023/03/24/oreilly-2023-tech-trends-report-reveals-growing-interest-in-artificial-intelligence-topics-driven-by-generative-ai-advancement/"
+  - title: "Why Oblivion's NPC Rampage Matters For The Future Of AI Development"
+    excerpt: "We're in the early days of widely accessible, large language model-trained AI and this level of public exposure has led to a lot of questions and concerns being raised about the technology, the ethics around it, and its potential impact on humanity."
+    publishedDateTime: 2023-03-23T20:28:00Z
+    webUrl: "https://www.slashgear.com/1237314/why-oblivions-npc-rampage-matters-for-the-future-of-ai-development/"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 25
+      name: SlashGear
+      domain: slashgear.com
+    quality: 69
     images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2021/02/Snowflake_report_cover.png"
-        width: 300
-        height: 391
+      - url: "https://www.slashgear.com/img/gallery/why-oblivions-npc-rampage-matters-for-the-future-of-ai-development/l-intro-1679602246.jpg"
+        width: 1600
+        height: 902
         isCached: true
+  - title: "The dirty secret of artificial intelligence"
+    excerpt: "The emergence of tools such as ChatGPT triggers warnings about a fivefold increase in global data center energy consumption"
+    publishedDateTime: 2023-03-23T17:31:00Z
+    webUrl: "https://english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html"
+    ampWebUrl: "https://english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html?outputType=amp"
+    cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html?outputType=amp"
+    type: article
+    provider:
+      name: El País in English
+      domain: elpais.com
+    quality: 59
+    images:
+      - url: "https://images.english.elpais.com/resizer/Oo8dX2wdbnK6WqZbRNyg8m8-B14=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/5RVNKRJZIVCNHI3TG52ZHSGNHQ.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Big tech and the pursuit of AI dominance"
+    excerpt: "The announcements add to a spate of similar ones in the past month or so from America’s tech titans. OpenAI, the startup which is part-owned by Microsoft and which created ChatGPT , an AI conversationalist that has taken the world by storm,"
+    publishedDateTime: 2023-03-27T08:20:00Z
+    webUrl: "https://www.livemint.com/technology/big-tech-and-the-pursuit-of-ai-dominance-11679904285056.html"
+    ampWebUrl: "https://www.livemint.com/technology/big-tech-and-the-pursuit-of-ai-dominance/amp-11679904285056.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/big-tech-and-the-pursuit-of-ai-dominance/amp-11679904285056.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/03/27/600x338/2-0-1390309169-istockphoto-1130152320-2048x2048-0_1679763214342_1679905001190_1679905001190.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "UT preps students for the future of artificial intelligence"
+    excerpt: "KNOXVILLE, Tenn. (WATE) — The University of Tennessee has partnered with the AI Education Project in a call to action for advanced AI literacy. The initiative is focused on connecting K-12 students with education innovations that align with 21st-century ..."
+    publishedDateTime: 2023-03-24T03:00:00Z
+    webUrl: "https://www.wate.com/news/education-schools/ut-preparing-students-for-ai/"
+    ampWebUrl: "https://www.wate.com/news/education-schools/ut-preparing-students-for-ai/amp/"
+    cdnAmpWebUrl: "https://www-wate-com.cdn.ampproject.org/c/s/www.wate.com/news/education-schools/ut-preparing-students-for-ai/amp/"
+    type: article
+    provider:
+      name: WATE 6 On Your Side
+      domain: wate.com
+    quality: 57
+    images:
+      - url: "https://www.wate.com/wp-content/uploads/sites/42/2023/03/AP23080575494759.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Bill Gates weighs in on the future of artificial intelligence"
+    excerpt: "While Gates acknowledges that AI has the potential to do great good, depending on government intervention, he is equally concerned by the potential harms."
+    publishedDateTime: 2023-03-26T01:39:00Z
+    webUrl: "https://www.jpost.com/business-and-innovation/all-news/article-735412"
+    ampWebUrl: "https://m.jpost.com/business-and-innovation/all-news/article-735412/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/all-news/article-735412/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 57
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImage/260786"
+        width: 640
+        height: 428
+        isCached: true
+  - title: "Visions for the Future of Artificial Intelligence"
+    excerpt: "Financial services, healthcare, and manufacturing use AI-enabled technologies to restructure operations and address previously unsolvable"
+    publishedDateTime: 2023-03-24T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/visions-for-the-future-of-artificial-intelligence-nid-10556.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 39
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/7kxusa2pac450-308.jpg"
+        width: 450
+        height: 308
+        isCached: true
+  - title: "A tool of efficiency and risks: How AI allows for more creativity in software development"
+    excerpt: "Gates teaches a course required for computer science students called Ethics for Computers and Society. The use of AI in programming is a major discussion point in his course. \"There's no question that because these technologies are so ubiquitous and ..."
+    publishedDateTime: 2023-03-26T22:04:00Z
+    webUrl: "https://www.ksl.com/article/50600376/a-tool-of-efficiency-and-risks-how-ai-allows-for-more-creativity-in-software-development"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 30
+    images:
+      - url: "https://img.ksl.com/slc/2920/292088/29208830.jpeg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
+  - title: "Artificial intelligence and head scab"
+    excerpt: "Fusarium head blight causes a lot of economic losses in wheat, and the associated toxin, deoxynivalenol (DON), can cause issues for human and animal health. The disease has been a big deterrent for people growing wheat in the Eastern U."
+    publishedDateTime: 2023-03-26T22:45:00Z
+    webUrl: "https://ocj.com/2023/03/artificial-intelligence-and-head-scab/"
+    type: article
+    provider:
+      name: Ohio Ag Net
+      domain: ocj.com
+    quality: 19
 
 secured: "+nkXfPTI/zCcxKZlZR5zOFakO3zhmKfMNDRGCnfRd/lAVCSXZltlM01t8CeNQ5TQ4BujU+MUnO73N0tIvERYwrREDyBZBjocMIcB7XPyp5ixW2tuv39SwIXnlZ06jMZrx/6eho8CY1eb/zKEyBN4oQLbvpdoW13nnCwsXT7TtUKGeYimX4x4MNwG/5h02Cc7D1gwlT6m8+UN/x5OJBzCiWU/xh0UiucMHhYyClgmVIFsMhbwAKm5Xejb2fdr2fqoZvfxJxf1R1smSKQLfIosx03yA3n597fAKg5cisM2gFUaZOuS0/Q8BZzEA9apgg17S+Es09xEu/9DvR1QwNKLCOJtqo05ZufS0y5SO3F/exdFOJywNah0FKiZ9rHzPUBSCQpRfmgXkkn4SQY9R/U9lw7gyyoyuoYaxLld8QKqSoNNf2/Vninnmgf5RCGgeA4PhdvrhCFKJ0i8NLJ8iZrpr8FtK/4PdmufZiwpXgts5Esdr+7AZrpa8hDR3Ux/gNxc2O/i+TyqJdSBlcLGiD7Bqg==;o4i5o6ZOijRY54GVZJtBLg=="
 ---

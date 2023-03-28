@@ -39,20 +39,6 @@ related:
         width: 400
         height: 222
         isCached: true
-  - title: "The Future of State-Sponsored AI Research in China"
-    excerpt: "An intelligent robot in the AI-themed smart park, featuring artificial intelligence (AI) applications from Chinese search engine giant Baidu, in Haidian District ... The two main organizations driving the advancement of generative AI technologies are ..."
-    publishedDateTime: 2023-03-24T16:20:00Z
-    webUrl: "https://thediplomat.com/2023/03/the-future-of-state-sponsored-ai-research-in-china/"
-    type: article
-    provider:
-      name: The Diplomat
-      domain: thediplomat.com
-    quality: 41
-    images:
-      - url: "https://thediplomat.com/wp-content/uploads/2023/03/sizes/td-story-s-2/thediplomat_2023-03-24-150332.jpg"
-        width: 600
-        height: 453
-        isCached: true
 
 secured: "CA2bVvFroNlQX+w/6+FePVEBCxRyyZiODG3XVpwV7+Gm19PITxRejjqbk7oxHrjvqhaeXtAvsH6qe6zGXstGX0ljNEe4EkoVxPwwPSMbtBxhlhWABfd8r6hr5WqPc0NG6RZyiHW1s0PFHnz5QzwCvTKRmpCi8HMmYSuzrxkGlEhbLuLbQVHzAznXo7EewKpD8Wcyhqt6O1kWk1Ux99132Ymvk5vawt0HES9UuDH1LLsslhCera1h9GSWe33KroRjePAyMSHmr6xzR4TzrIpAb6XwjrSONlSlJZZFYG/+ms/AX1quJ3Ngp4IkeesUjNv0aONjp3UcujoIC+aePQEA7Dw3RCVZno9YW7bd0k4ZRAOPjnD4/Gv1vLtT3vvUksFBS0vHRh04kWCOu2pWKzDFH3CSaZeJer04NGmTjVbcQytGfH06SWFhBA1AnvdmTX4DtnBH0A5kZCX+InprEY5oIsrLeV0/3zCjmqP7sqOxZ9X6Tir3oE0LwID4gSUtFdsFt+XiUTZ7RTBWugpAJ5GssA==;xfJz3ROeeQ39eBXwTAER/g=="
 ---

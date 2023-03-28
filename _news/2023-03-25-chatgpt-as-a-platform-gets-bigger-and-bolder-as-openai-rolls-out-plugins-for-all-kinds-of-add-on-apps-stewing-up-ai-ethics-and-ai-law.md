@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-plat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/amp/"
 type: article
 quality: 74
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -32,15 +32,22 @@ images:
     isCached: true
 
 related:
-  - title: "AI News roundup: OpenAI adds plugin support to ChatGPT, Mozilla opens new AI startup and more"
-    excerpt: "The AI chatbot became popular in just a matter of weeks — way ... Invite your friends and family to sign up for MC Tech 3, our daily newsletter that breaks down the biggest tech and startup stories of the day"
-    publishedDateTime: 2023-03-24T13:32:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-openai-adds-plugin-support-to-chatgpt-mozilla-opens-new-ai-startup-and-more-10307071.html"
+  - title: "OpenAI's ambitious master plan to conquer rivals like Google in the AI race hinges on pure speed"
+    excerpt: "The chatbot kickstarted an avalanche of discussion around the future of work, AI ethics, and changing the dynamic of the tech workforce. This wasn't always the case. OpenAI was founded in 2015 by current CEO Sam Altman, Elon Musk, and others. Musk left the ..."
+    publishedDateTime: 2023-03-27T21:20:00Z
+    webUrl: "https://www.businessinsider.com/openai-secret-weapon-ai-race-google-is-speed-2023-3"
+    ampWebUrl: "https://www.businessinsider.com/openai-secret-weapon-ai-race-google-is-speed-2023-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-secret-weapon-ai-race-google-is-speed-2023-3?amp"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 6
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
+    images:
+      - url: "https://i.insider.com/6421fe9a8c966b0019498dd8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "Tzh012g5YnzAQTznmZ6t008ZZY45xqwkIa9zjDy7CkK4xsFrCD4tuHncDfCNIrqjO5q7hcWOFpV6ECcvzO83rc4J+ZtTb55C2jrwWA1J/vfvF8lqYD5sEx5FT9wy5T8MxFM+Hlstr45OayVw4Exe1DanfaygFaWMnDbYyznQ0yw0390AzeGkg0RfkVA3GccDiRMxfs3LsqQrWdRm30zLVOCBbIeX3suUoVRVbJXcx+P46jvE6YCVhnML00a0bu2fr8ewwHFbctWnEYD44Ce7MsYTMwZ9aOQvKx1SocZy2RlbeyfLExG+/PMffaV1nYxGxfxpvF1Mmpj/3A3LE3WNbdd8uOViyJPALUcTUOmnhKgbaMwfOzb2A6QqWkRhz+PzwSJDOPplBd6D8pLf8KOZ4Kj4quMFExST96cEYjsCNyJmpz4BbQ8iwymabSjoHdZJnU+hYgICu7IqSLNW8enixJLUeE/qwycFR+t6R6P2+gU6u5jieC6OETn1fHftJp94YjFMSvmuU88mOUUwTkkELA==;vNBk/nU74rZqv6OfSVNehw=="
 ---

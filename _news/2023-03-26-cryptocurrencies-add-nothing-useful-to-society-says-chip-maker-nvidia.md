@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Guardian
@@ -47,29 +47,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Nvidia calls cryptocurrency useless for society, says its graphics cards are better used for AI"
-    excerpt: "Speaking to The Guardian, Nvidia Chief Technology Officer Micheal Kagan said that the processing power of the company's GPUs should be used for tasks more worthwhile"
-    publishedDateTime: 2023-03-27T10:16:00Z
-    webUrl: "https://techspot.com/news/98081-nvidia-calls-cryptocurrency-useless-society-gpus-better-used.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 57
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2018/11/2018-11-26-image-2.jpg"
-        width: 1800
-        height: 1200
-        isCached: true
-  - title: "Nvidia’s show new AI research to improve chip design"
-    excerpt: "Nvidia’s reinforcement learning research introduced a second layer of AI to chip transistors for improved results. (Reuters pic) NEW YORK: Nvidia Corp, the world’s leading designer of computer chips used in creating artificial intelligence, on Monday ..."
-    publishedDateTime: 2023-03-28T03:38:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/03/28/nvidias-show-new-ai-research-to-improve-chip-design/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 34
 
 secured: "TB6var4qiJOmfKIaH4E4ZSA6SGYipEn4T4490YfHlp/ddYKHLitW9WnFCxk4icZPNc1VlhiNqLZNvaY6uPE7cxsM6nRM4lh1kC7kGbYUJbcTEhow4i+P2HtoD2jy61qLkjpJJ7RdEwuM25fegdW9U3VRUM+VZw/Ce+Eb6fDcrLhlvfCrsX/YqCY9rYhCO/VjNuyv47daIML5mNY328blFwwYbRBHik4MmWPwt7ZAulgFBIX1ikTmXsjEVHG21FUrw9il5SoIFBuPlxHT42yCiIg9TRshJWH6v/JbdJYiEe7bQlP2p4bFe/C7HqBxUR9kYFabxpRIuhoy69jNwrBshPwxZ5ZwdZEKsfLfETheis0=;6p/E8sndR2mrRL27rq+R2w=="
 ---

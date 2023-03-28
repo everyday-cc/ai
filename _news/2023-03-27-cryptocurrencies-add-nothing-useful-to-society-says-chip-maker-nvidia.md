@@ -47,29 +47,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Nvidia calls cryptocurrency useless for society, says its graphics cards are better used for AI"
-    excerpt: "Speaking to The Guardian, Nvidia Chief Technology Officer Micheal Kagan said that the processing power of the company's GPUs should be used for tasks more worthwhile"
-    publishedDateTime: 2023-03-27T10:16:00Z
-    webUrl: "https://techspot.com/news/98081-nvidia-calls-cryptocurrency-useless-society-gpus-better-used.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 57
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2018/11/2018-11-26-image-2.jpg"
-        width: 1800
-        height: 1200
-        isCached: true
-  - title: "Nvidia’s show new AI research to improve chip design"
-    excerpt: "Nvidia’s reinforcement learning research introduced a second layer of AI to chip transistors for improved results. (Reuters pic) NEW YORK: Nvidia Corp, the world’s leading designer of computer chips used in creating artificial intelligence, on Monday ..."
-    publishedDateTime: 2023-03-28T03:38:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/03/28/nvidias-show-new-ai-research-to-improve-chip-design/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 34
 
 secured: "YJYCQIL0xZzke56v2vOaskrboXBPWsFRYldjyPPVReHuPGa4XiBRMoetrpCr1Bia98fuW+ef7KMsUVlYTefsqRJ8kkQaL1JQWKkVwR8Hg5tmdT1QMsKvpjYbghBWPlm6Rqi9mbJsC+67uhVfE9t4v1UyEjuqpCw52rbds86Z3R0+mq8ul2OT9hbBMVxwUw1rNf/hd/VUcCSeUVeSFgysqgxbSC8pMriASfxBQTHbs3Kvu0EUhLKKZHsLpQ77fEofjS8B7bHqa0JrTrBzOlaDIb882Lr5nanIeZ/9G+180vnBICNwINSqSLkSUGtvuHURxYnazBVJCcnm2En1p8ATUK+OPy5o4yOfWA2lU2VuWr0=;SPWQS6MJA+vK29XjrApEPA=="
 ---

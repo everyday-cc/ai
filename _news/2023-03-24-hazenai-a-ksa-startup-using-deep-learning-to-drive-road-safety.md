@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-ae/starting-a-business/hazenai-a-k
 webUrl: "https://www.entrepreneur.com/en-ae/starting-a-business/hazenai-a-ksa-startup-using-deep-learning-to-drive-road/448318"
 type: article
 quality: 84
-heat: 85
+heat: 84
 published: true
 
 provider:

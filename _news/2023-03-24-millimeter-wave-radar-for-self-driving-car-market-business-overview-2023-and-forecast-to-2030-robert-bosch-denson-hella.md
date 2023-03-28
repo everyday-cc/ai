@@ -60,6 +60,22 @@ related:
         height: 640
         isCached: true
   - title: "Driverless cars ready for hire in suburban Beijing"
+    excerpt: "It added that Baidu plans to expand its autonomous ride-hailing services to 65 cities in 2025 and 100 in 2030. China’s self-driving taxi service is expected to reach 1.3 trillion (188.6 billion U.S. dollars) by 2030, accounting for 60 percent of the ..."
+    publishedDateTime: 2023-03-28T06:50:00Z
+    webUrl: "https://dailytimes.com.pk/1078112/driverless-cars-ready-for-hire-in-suburban-beijing/"
+    ampWebUrl: "https://dailytimes.com.pk/1078112/driverless-cars-ready-for-hire-in-suburban-beijing/amp/"
+    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/1078112/driverless-cars-ready-for-hire-in-suburban-beijing/amp/"
+    type: article
+    provider:
+      name: Daily Times
+      domain: dailytimes.com.pk
+    quality: 59
+    images:
+      - url: "https://dailytimes.com.pk/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
+  - title: "Driverless cars ready for hire in suburban Beijing"
     excerpt: "Driverless taxis are now available for hire in suburban Beijing, marking a new chapter in intelligent transport, China Daily reported Monday. Beijing earlier in March granted licenses to Chinese tech giant Baidu and autonomous vehicle startup Pony."
     publishedDateTime: 2023-03-27T06:48:00Z
     webUrl: "https://global.chinadaily.com.cn/a/202303/27/WS6421366ba31057c47ebb6c06.html"

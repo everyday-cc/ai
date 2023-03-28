@@ -26,19 +26,47 @@ images:
     isCached: true
 
 related:
-  - title: "Image Recognition Market Research Report | Industry Forecast & Size USD 86.001 Billion By 2025"
-    excerpt: "(MENAFN- EIN Presswire) image recognition market research. Facial recognition technology advancements and the growing popularity of media cloud services are significantly support"
-    publishedDateTime: 2023-03-24T13:48:00Z
-    webUrl: "https://menafn.com/1105853898/Image-Recognition-Market-Research-Report-Industry-Forecast-Size-USD-86001-Billion-By-2025"
+  - title: "Automatic Speech Recognition(ASR) Software Market Share | Business till 2030"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- “Automatic Speech Recognition(ASR) Software Market” Are a Collection of Information and Analysis Obtained From Diverse Sources to Aid ..."
+    publishedDateTime: 2023-03-28T07:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-share-business-till-2030-2023-03-27"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 12
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
     images:
-      - url: "https://menafn.com/updates/pr/2023-03/24/EP_add13image_story.jpeg"
-        width: 1083
-        height: 567
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "VOICE RECOGNITION SYSTEM Market | Newsest Research"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- [128 Insights] Top “VOICE RECOGNITION SYSTEM Market” Size 2023 Key players Profiled in the Report are [Nuance Communications ..."
+    publishedDateTime: 2023-03-28T07:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-system-market-newsest-research-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automatic Speech Recognition(ASR) Software Market Outlook: Predictions and Projections for 2028 And Beyond"
+    excerpt: "Global Automatic Speech Recognition(ASR) Software Market Report (123 Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https ..."
+    publishedDateTime: 2023-03-24T18:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-outlook-predictions-and-projections-for-2028-and-beyond-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "nxkM245VKO5N/5+bmmfxzBoWTpolxUqZTbif2f0xRvIQmiLNkIordnDvByP+9hfV+4B/wO6kUaI2rkPZTea5SAWmmSywdXPDRTQmpQqOIJcnEQE+QKbBKOpyjAHUHv3ptQGGkZ1/TAMeycfxtT8RpTEDeNLYvzT5M82aXZEjOXS+hb9Ri2D1ZjW2YK4T0T442KRMqyRFoMzzKdsbYfAdPA8pKStuO05zgwIlaYjQv7CowvMn28wp8vc8CR6ZRtA9Ses38NnRgOkEYMhq9NNqVsNvYMmnMFE8SnKJ4t8W7q7CGPvh2nxo8Zw0bQ59rHUgEs6ZubOP0QwlHmF2OaDKWpQD/rTQlTQiArfWSnKo/p0=;RN8AIe3rqYqnv0XXao5QKQ=="

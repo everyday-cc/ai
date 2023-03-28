@@ -51,20 +51,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Cruise plans ambitious self-driving expansion"
-    excerpt: "Self-driving technology company Cruise is expanding its California ambitions beyond San Francisco. Company executives asked California regulators Monday to amend their existing permit to allow for testing of autonomous vehicles throughout the state."
-    publishedDateTime: 2023-03-23T14:48:00Z
-    webUrl: "https://www.autonews.com/mobility-report/cruise-seeks-self-driving-expansion-across-california"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/CRUISE-MAIN_0.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Which car has the best self-driving tech?"
     excerpt: "The vision is that assisted driving will eventually develop to enable full self-driving, with the benefit of unlocking road safety benefits and freeing up the time we spend travelling. Much work has already been done by international regulators and the UK ..."
     publishedDateTime: 2023-03-25T09:01:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://it.tmcnet.com/news/2023/03/23/9782481.htm"
 webUrl: "https://it.tmcnet.com/news/2023/03/23/9782481.htm"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,43 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cresta Named Winner in 2023 Artificial Intelligence Excellence Awards"
-    excerpt: "PALO ALTO, Calif., March 23, 2023 /PRNewswire/ -- Cresta, a leading provider of generative AI for the contact center, announced today that Business Intelligence Group has named the company a winner in its Artificial Intelligence Excellence Awards program."
-    publishedDateTime: 2023-03-23T13:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cresta-named-winner-in-2023-artificial-intelligence-excellence-awards-1032187830"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "Phenom High-Volume Hiring Earns 2023 Artificial Intelligence Excellence Award by Business Intelligence Group"
-    excerpt: "“Across various industries — including healthcare, early education ... including Gold for ‘Best Advance in AI for Business Impact,’ Business Intelligence Group's Artificial Intelligence Excellence Awards (3 consecutive years), and a regional ..."
-    publishedDateTime: 2023-03-23T15:17:00Z
-    webUrl: "https://www.eagletribune.com/region/phenom-high-volume-hiring-earns-2023-artificial-intelligence-excellence-award-by-business-intelligence-group/article_901fe5c6-62e4-5c2d-819e-7e96f7c8c45c.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 20
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/2/cd/2cd0109d-3ddb-5573-9709-2b5184980159/641c6bb5545ab.image.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Seno Medical's SenoGram® Decision Support Tool Named Winner in 2023 Artificial Intelligence Excellence Awards"
-    excerpt: "San Antonio, TX, March 23, 2023 (GLOBE NEWSWIRE) -- The Artificial Intelligence Excellence Awards program has selected Seno Medical's AI platform, SenoGram ® — exclusively available in conjunction with the company's Imagio ® Breast Imaging System ..."
-    publishedDateTime: 2023-03-23T13:36:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31474900/seno-medicals-senogram-decision-support-tool-named-winner-in-2023-artificial-intelligence-excellen"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 20
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Messagepoint Named Winner in 2023 Artificial Intelligence Excellence Awards"
     excerpt: "Messagepoint announced today it has been named a winner in the Business Intelligence Group’s Artificial Intelligence (AI) Excellence Awards. The AI Excellence Awards recognize organizations, products and people that use AI to solve real problems."
     publishedDateTime: 2023-03-23T15:17:00Z
@@ -70,15 +33,6 @@ related:
     provider:
       name: The Bakersfield Californian
       domain: bakersfield.com
-    quality: 17
-  - title: "Lattice Wins 2023 Artificial Intelligence Awards"
-    excerpt: "HILLSBORO, Ore.--(BUSINESS WIRE)--Lattice Semiconductor (NASDAQ: LSCC), the low power programmable leader, today announced that it won two Artificial Intelligence Excellence Awards from The Business Intelligence Group. The Lattice Avant™ FPGA platform ..."
-    publishedDateTime: 2023-03-23T20:03:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230323005005/en/Lattice-Wins-2023-Artificial-Intelligence-Awards"
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
     quality: 17
   - title: "Messagepoint Named Winner in 2023 Artificial Intelligence Excellence Awards"
     excerpt: "Messagepoint announced today it has been named a winner in the Business Intelligence Group’s Artificial Intelligence (AI) Excellence Awards. The AI Ex"

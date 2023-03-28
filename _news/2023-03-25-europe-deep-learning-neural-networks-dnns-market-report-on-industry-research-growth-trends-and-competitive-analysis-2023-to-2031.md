@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automatic Speech Recognition(ASR) Software Market Outlook: Predictions and Projections for 2028 And Beyond"
-    excerpt: "Global Automatic Speech Recognition(ASR) Software Market Report (123 Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https ..."
-    publishedDateTime: 2023-03-24T18:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-outlook-predictions-and-projections-for-2028-and-beyond-2023-03-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "CRC4KREkprEz8pNaPyOwtAMO6gHrzsYDJhmkcgYk63bqtkzrKODuDBdVjxfQxmTidUXcIkyMNIiH9eyRtZWvVOu1tXZnDOEq/ec5L+I4V2FHfTq3cNrv17xaepym3yCYNZTzZq7fPym4Id9e8N33lL8qFqmWW1fGE+yyLFFDXOV5OKhq1dDS90RN7xryWMdk/KS1pjcTMyGhhZEQWkED8DhKft7P8pLAZ6L3w/phe+998E3PC3vsFVelhC7lf2ezJUEILrSY2w+NA2KqTwLnAC7aYANu1ikQdaNJLlWwxZJQ3mBGTlV/ksJ5gDATA7XMGpK/9FA4OuUM9J6MrRe5AhD4PGBYgjNNGhZww3rmEZs=;Sy0suQA3icBSv8g9kXU09A=="
 ---

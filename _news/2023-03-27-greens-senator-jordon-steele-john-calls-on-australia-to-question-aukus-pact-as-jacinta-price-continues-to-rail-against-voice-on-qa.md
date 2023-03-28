@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Indigenous Voice: Australia PM unveils plan for historic constitution vote"
-    excerpt: "Australia took a step today towards a historical referendum to give Aboriginal and Torres Strait Islanders recognition in the constitution and, for the first time, a voice on matters that affect their lives. In an emotional address, Prime Minister Anthony ..."
-    publishedDateTime: 2023-03-23T13:51:00Z
-    webUrl: "https://www.thedailystar.net/news/world/africa-rest-the-world/australia/news/indigenous-voice-australia-pm-unveils-plan-historic-constitution-vote-3278891"
-    ampWebUrl: "https://www.thedailystar.net/news/world/africa-rest-the-world/australia/news/indigenous-voice-australia-pm-unveils-plan-historic-constitution-vote-3278891?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/news/world/africa-rest-the-world/australia/news/indigenous-voice-australia-pm-unveils-plan-historic-constitution-vote-3278891?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 42
-    images:
-      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/03/23/australian_pm.jpg?itok=kx7miOtH"
-        width: 750
-        height: 393
-        isCached: true
   - title: "Australian PM unveils question for historic referendum on Indigenous recognition"
     excerpt: "Anthony Albanese was visibly emotional as he revealed the wording of the question he hopes to put to 26 million Australians later this year."
     publishedDateTime: 2023-03-23T15:34:00Z
@@ -67,6 +51,17 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Pharmacists turn to artificial intelligence to the problem of Australians skipping medication"
+    excerpt: "A Melbourne-based software group says it can solve Australia’s $10bn a year problem of people forgetting or refusing to take prescription medication."
+    publishedDateTime: 2023-03-27T09:28:00Z
+    webUrl: "https://www.theaustralian.com.au/business/pharmacists-turn-to-artificial-intelligence-to-the-problem-of-australians-skipping-medication/news-story/6ff701fe37e3ddc6b54d434e8cd90fc9"
+    ampWebUrl: "https://www.theaustralian.com.au/business/pharmacists-turn-to-artificial-intelligence-to-the-problem-of-australians-skipping-medication/news-story/6ff701fe37e3ddc6b54d434e8cd90fc9?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/pharmacists-turn-to-artificial-intelligence-to-the-problem-of-australians-skipping-medication/news-story/6ff701fe37e3ddc6b54d434e8cd90fc9?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 28
   - title: "What Are Australia’s Plans for the ‘Indigenous Voice’?"
     excerpt: "But Voice proponents argue that recognition in the constitution of Indigenous Australians was an important element of the reform. Victoria state created an elected First People’s Assembly of Victoria in 2019 but that is focused on creating a treaty ..."
     publishedDateTime: 2023-03-23T15:10:00Z
@@ -81,20 +76,6 @@ related:
         width: 600
         height: 399
         isCached: true
-  - title: "Australian PM announces question for Indigenous Voice to Parliament referendum"
-    excerpt: "Albanese was clear that the Voice would not have any form of veto power over the Government or legislation. Further, it was stated that the proposed changes would “enshrine two fundamental principles: Recognition and Consultation” within the Australian ..."
-    publishedDateTime: 2023-03-23T13:21:00Z
-    webUrl: "https://www.jurist.org/news/2023/03/australian-pm-announces-referendum-question-for-indigenous-voice-to-parliament/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 20
-    images:
-      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2022/09/Parliament_House_at_dusk_Canberra_ACT.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Albanese praises South Australia’s Voice with historic Bill set to pass"
     excerpt: "“Today is a day of healing, recognition and a step forward in South Australia’s relationship with First Nations people,” he said. “For too long, decisions have been made for Aboriginal and Torres Strait Islander people, and not by them. “The ..."
     publishedDateTime: 2023-03-25T19:02:00Z
@@ -104,15 +85,6 @@ related:
       name: The Courier-Mail
       domain: couriermail.com.au
     quality: 19
-  - title: "South Australia becomes the first state to introduce First Nations Voice to parliament"
-    excerpt: "Picture: NCA NewsWire / Brenton Edwards “It is my pleasure as South Australia’s 36th governor to give assent to the First Nations Voice Bill 2023,” she said. “Today I restate my commitment to supporting recognition in our state, and working side-by ..."
-    publishedDateTime: 2023-03-26T02:45:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/south-australia-becomes-the-first-state-to-introduce-first-nations-voice-to-parliament/news-story/4b77956aaa3a6f9705eb2f6bc41cc39c"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 0
 
 secured: "p5RqR3CUm8GVH9pYCRyDP/ElA9CGGcERIvkm/cibxyYgQ+OCYcO7tl+BEAq+4pRAkA8uwzV24KpMQ1Od8TN027enbrOpQ4D8ZaYC7olW5tMY5ccxH6WGBqCUMhZEd0Lj7MnhzDyUR9mNQ2r5vdeWWTsR1kbheZ7LXSMkDBOmrZEJ51BP2Mt9TgGGC2r33sCTRWEd+mszdP7SBeP0eqdgDPHrp9bFYJN5QjgiozwJQ+HmkJ6dxXkxBAXTUUqwNZkIXHk7unBIu9iDYH8aw6IHZj79QFB2boeXOlsZyWKzQWNtMi9k/0OChPhq3zPKB+3/faB2u0wuYiXZ5OIkIQ9gk/lZHr5ZygmqiQNPRhPqpk+Jb5rqlnASXHO/0bJeL1Pz5LxZwKzPe4UNIVrwOoNmjEEy860ik6QoDTMYIDoaQ7fgmvOQ43/CcbhR0zs0Qpsu4BJEFSctdjssV0Cg5xOMXhoeNg64jo1hs36rRZxcjBp1ZyiAl9SpY8jkKuAhnrNNFYr+Kp6RO7SVRIRo5M5Ruw==;YbIUV0ahr9+a8LlR2ezn7A=="
 ---

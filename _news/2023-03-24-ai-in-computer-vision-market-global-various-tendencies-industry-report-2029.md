@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-global-various-tendencies-industry-report-2029-2023-03-24"
 type: article
 quality: 81
-heat: 231
+heat: 221
 published: true
 
 provider:
@@ -178,15 +178,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
-  - title: "AI-Powered Cognitive Search Market Premium Research Report Forecast 2023 To 2029"
-    excerpt: "Businesses Across the Globe Expected to Do Better in 2023 Top “AI-Powered Cognitive Search Market” Size 2023 Key players Profiled in the Report are [, IBM Watson, Coveo, Squirro, Micro Focus, Mindbreeze, BMC Software, BA Insight, Lucidworks ..."
-    publishedDateTime: 2023-03-23T14:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-powered-cognitive-search-market-premium-research-report-forecast-2023-to-2029-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
   - title: "2023 Artificial Intelligence in Manufacturing and Supply Chain Market Size, Growth | Global Industry Trends [2029]"
     excerpt: "Mar 23, 2023 (The Expresswire) -- [103+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Artificial Intelligence in Manufacturing and Supply Chain Market” Size ..."
     publishedDateTime: 2023-03-23T18:38:00Z

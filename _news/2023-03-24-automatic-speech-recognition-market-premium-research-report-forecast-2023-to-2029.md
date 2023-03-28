@@ -463,10 +463,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence and Machine Learning Market: Size, Share, Trend, Application analysis and Forecast 2029"
-    excerpt: "Mar 23, 2023 (The Expresswire) -- A new elaborated report titled as Global Artificial Intelligence and Machine Learning Market is now released by industry research based on comprehensive study of the market. Knowledge about the future market trends as well ..."
-    publishedDateTime: 2023-03-23T14:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-share-trend-application-analysis-and-forecast-2029-2023-03-23"
+  - title: "Automatic Speech Recognition(ASR) Software Market 2023 Size and Forecast to 2030"
+    excerpt: "Automatic Speech Recognition(ASR) Software Marketinformation for each competitor includes (Nuance, LilySpeech,"
+    publishedDateTime: 2023-03-27T01:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-2023-size-and-forecast-to-2030-2023-03-26"
     type: article
     provider:
       name: MarketWatch
@@ -477,15 +477,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automatic Speech Recognition(ASR) Software Market 2023 Size and Forecast to 2030"
-    excerpt: "Automatic Speech Recognition(ASR) Software Marketinformation for each competitor includes (Nuance, LilySpeech,"
-    publishedDateTime: 2023-03-27T01:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-2023-size-and-forecast-to-2030-2023-03-26"
+  - title: "Artificial Intelligence (AI) in Food & Beverages Market Highlights by 2029: Global Opportunities and Trends"
+    excerpt: "Mar 28, 2023 (The Expresswire) -- [New 106 Pages Report] A Recently published “Artificial Intelligence (AI) in Food and Beverages Market” Size (2023) research report offers a comprehensive analysis on Top Key Companies (ABB Ltd., Key Technology Inc ..."
+    publishedDateTime: 2023-03-28T07:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-beverages-market-highlights-by-2029-global-opportunities-and-trends-2023-03-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023, A Research Report on the Computer Vision Market With Statistics and Forecasts"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2023 (The Expresswire) -- Computer Vision Market Size 2023 | New Report (99 Pages) | Information Technology | In This Reports Computer Vision Market Top Computer ..."
+    publishedDateTime: 2023-03-28T07:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-a-research-report-on-the-computer-vision-market-with-statistics-and-forecasts-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

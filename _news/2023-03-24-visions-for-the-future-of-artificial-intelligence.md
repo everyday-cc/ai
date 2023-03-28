@@ -25,19 +25,67 @@ images:
     isCached: true
 
 related:
-  - title: "The Future Of Education Will Tap AI, Not Be Replaced By It, This Founder Says"
-    excerpt: "According to Under 30 Europe lister Joel Hellermark, the future of artificial intelligence and machine learning is rife with possibilities that can help the ways in which humans learn and collaborate,"
-    publishedDateTime: 2023-03-24T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/oliviapeluso/2023/03/24/the-future-of-education-will-tap-ai-not-be-replaced-by-it-this-founder-says/"
+  - title: "AI and the future of software development"
+    excerpt: "Just ask Jaana Dogan, a distinguished software engineer at GitHub. According to Dogan, “People are too focused on code generation and completely ignore that LLMs are useful for code analysis.” In other words,"
+    publishedDateTime: 2023-03-27T09:00:00Z
+    webUrl: "https://www.infoworld.com/article/3691892/ai-and-the-future-of-software-development.html"
+    ampWebUrl: "https://www.infoworld.com/article/3691892/ai-and-the-future-of-software-development.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3691892/ai-and-the-future-of-software-development.amp.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641d2b19c49f86e711580d4a/0x0.jpg?format=jpg&crop=3823,3824,x0,y515,safe&width=1200"
+      - url: "https://images.idgesg.net/images/article/2019/05/ai-vendor-relationship-management_artificial-intelligence_hand-on-virtual-screen-100795246-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 1200
+        height: 800
+        isCached: true
+  - title: "Why Oblivion's NPC Rampage Matters For The Future Of AI Development"
+    excerpt: "We're in the early days of widely accessible, large language model-trained AI and this level of public exposure has led to a lot of questions and concerns being raised about the technology, the ethics around it, and its potential impact on humanity."
+    publishedDateTime: 2023-03-23T20:28:00Z
+    webUrl: "https://www.slashgear.com/1237314/why-oblivions-npc-rampage-matters-for-the-future-of-ai-development/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 69
+    images:
+      - url: "https://www.slashgear.com/img/gallery/why-oblivions-npc-rampage-matters-for-the-future-of-ai-development/l-intro-1679602246.jpg"
+        width: 1600
+        height: 902
+        isCached: true
+  - title: "The dirty secret of artificial intelligence"
+    excerpt: "The emergence of tools such as ChatGPT triggers warnings about a fivefold increase in global data center energy consumption"
+    publishedDateTime: 2023-03-23T17:31:00Z
+    webUrl: "https://english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html"
+    ampWebUrl: "https://english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html?outputType=amp"
+    cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html?outputType=amp"
+    type: article
+    provider:
+      name: El País in English
+      domain: elpais.com
+    quality: 59
+    images:
+      - url: "https://images.english.elpais.com/resizer/Oo8dX2wdbnK6WqZbRNyg8m8-B14=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/5RVNKRJZIVCNHI3TG52ZHSGNHQ.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Big tech and the pursuit of AI dominance"
+    excerpt: "The announcements add to a spate of similar ones in the past month or so from America’s tech titans. OpenAI, the startup which is part-owned by Microsoft and which created ChatGPT , an AI conversationalist that has taken the world by storm,"
+    publishedDateTime: 2023-03-27T08:20:00Z
+    webUrl: "https://www.livemint.com/technology/big-tech-and-the-pursuit-of-ai-dominance-11679904285056.html"
+    ampWebUrl: "https://www.livemint.com/technology/big-tech-and-the-pursuit-of-ai-dominance/amp-11679904285056.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/big-tech-and-the-pursuit-of-ai-dominance/amp-11679904285056.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/03/27/600x338/2-0-1390309169-istockphoto-1130152320-2048x2048-0_1679763214342_1679905001190_1679905001190.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "UT preps students for the future of artificial intelligence"
     excerpt: "KNOXVILLE, Tenn. (WATE) — The University of Tennessee has partnered with the AI Education Project in a call to action for advanced AI literacy. The initiative is focused on connecting K-12 students with education innovations that align with 21st-century ..."
@@ -71,6 +119,43 @@ related:
         width: 640
         height: 428
         isCached: true
+  - title: "The Future of State-Sponsored AI Research in China"
+    excerpt: "An intelligent robot in the AI-themed smart park, featuring artificial intelligence (AI) applications from Chinese search engine giant Baidu, in Haidian District ... The two main organizations driving the advancement of generative AI technologies are ..."
+    publishedDateTime: 2023-03-24T16:20:00Z
+    webUrl: "https://thediplomat.com/2023/03/the-future-of-state-sponsored-ai-research-in-china/"
+    type: article
+    provider:
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 41
+    images:
+      - url: "https://thediplomat.com/wp-content/uploads/2023/03/sizes/td-story-s-2/thediplomat_2023-03-24-150332.jpg"
+        width: 600
+        height: 453
+        isCached: true
+  - title: "A tool of efficiency and risks: How AI allows for more creativity in software development"
+    excerpt: "Gates teaches a course required for computer science students called Ethics for Computers and Society. The use of AI in programming is a major discussion point in his course. \"There's no question that because these technologies are so ubiquitous and ..."
+    publishedDateTime: 2023-03-26T22:04:00Z
+    webUrl: "https://www.ksl.com/article/50600376/a-tool-of-efficiency-and-risks-how-ai-allows-for-more-creativity-in-software-development"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 30
+    images:
+      - url: "https://img.ksl.com/slc/2920/292088/29208830.jpeg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
+  - title: "Artificial intelligence and head scab"
+    excerpt: "Fusarium head blight causes a lot of economic losses in wheat, and the associated toxin, deoxynivalenol (DON), can cause issues for human and animal health. The disease has been a big deterrent for people growing wheat in the Eastern U."
+    publishedDateTime: 2023-03-26T22:45:00Z
+    webUrl: "https://ocj.com/2023/03/artificial-intelligence-and-head-scab/"
+    type: article
+    provider:
+      name: Ohio Ag Net
+      domain: ocj.com
+    quality: 19
 
 secured: "vz6udqYCQ4Q+D5eta01UzLriCTTD1cFGbOhyT+LtzSk4tvgU3ojw38UiwWGF3IxsrMNjim71yO/yMjJkdAXeuDG/Ha1RHU2cYr90zcUY4xhwDyULV54a8AqBFIyk5WzbU7facq9m7vB9a3BExcrrNvuSxzNCgB1OZ1Iym8cG09Nzk3bynq89FVITdl02U/XJZkuC/qZuxTtsDL0G0EAWIPjbrKEgZouNigoARUtR0OKgzgDPPSkqjV/MuK9WrZiht8FaIIJIFuo2r2A1XHp+Q/uSk690sgZ0LeuYI+OsHwadtE68ATgg6CMBp1TBl29wnU6V+rT+s9qT0npyW3cRgtlxvTCe0JCKSh6lWWkoKwIyZKsObxPnJiS8ImA0haUpnrfmWOz/HvodDGSRAm36X23+KRuf5I/nH0FWA5npFwP6LQ0gZUzDRzeaPQA2RQtX/41Brdx4Cm6Pv1QsHbxUFdys2xH0A9AySRReeAORwPNkAmE2M8UqwKT7dKW8hiXRP02R85VEZVB68cD8Xdkicg==;HNdKfnt95N78qWEPyiiCow=="
 ---
