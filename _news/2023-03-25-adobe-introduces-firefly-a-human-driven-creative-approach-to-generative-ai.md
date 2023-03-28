@@ -30,94 +30,39 @@ images:
     isCached: true
 
 related:
-  - title: "Adobe Jumps Into The Generative AI Race With Firefly Creative Support"
-    excerpt: "Last week at Adobe Summit, the company announced its first generative AI service, Adobe Firefly. Analyzing Adobe's offering and the overall generative AI landscape. What should Adobe customers expect and when can they gain access to the new services."
-    publishedDateTime: 2023-03-27T14:47:00Z
-    webUrl: "https://www.forbes.com/sites/danielnewman/2023/03/27/adobe-jumps-into-the-generative-ai-race-with-firefly-creative-support/"
-    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/03/27/adobe-jumps-into-the-generative-ai-race-with-firefly-creative-support/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/03/27/adobe-jumps-into-the-generative-ai-race-with-firefly-creative-support/amp/"
+  - title: "Generative AI set to affect 300 million jobs across major economies"
+    excerpt: "The investment bank said on Monday that “generative” AI systems such as ChatGPT, which can create content that is indistinguishable from human output, could spark a productivity boom that would eventually raise annual global gross domestic product by 7 percent over a 10-year period."
+    publishedDateTime: 2023-03-28T13:30:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/03/generative-ai-set-to-affect-300-million-jobs-across-major-economies/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/03/generative-ai-set-to-affect-300-million-jobs-across-major-economies/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/generative-ai-set-to-affect-300-million-jobs-across-major-economies/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Ars Technica
+      domain: arstechnica.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6421aa2b32ea51d1c18a9f03/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/03/empty-office-800x563.jpg"
+        width: 800
+        height: 563
         isCached: true
-  - title: "The Intersection Of AI And Human Creativity: Can Machines Really Be Creative?"
-    excerpt: "Explore the captivating world of AI creativity as we delve into the potential of machines to generate original content, blurring the lines between human and artificial ingenuity."
-    publishedDateTime: 2023-03-27T06:48:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/27/the-intersection-of-ai-and-human-creativity-can-machines-really-be-creative/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/27/the-intersection-of-ai-and-human-creativity-can-machines-really-be-creative/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/03/27/the-intersection-of-ai-and-human-creativity-can-machines-really-be-creative/amp/"
+  - title: "Generative AI set to affect 300mn jobs across major economies"
+    excerpt: "The investment bank said on Monday that “generative” AI systems such as ChatGPT, which can create content that is indistinguishable from human output, could spark a productivity boom that would eventually raise annual global gross domestic product by 7 per cent over a 10-year period."
+    publishedDateTime: 2023-03-27T16:30:00Z
+    webUrl: "https://www.ft.com/content/7dec4483-ad34-4007-bb3a-7ac925643999"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64213c10fc7ed6f0a3eb47ae/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "As Adobe Shows Its Generative AI Hand, Hollywood Grapples With Changing World"
-    excerpt: "Adobe joined the generative AI gold rush, announcing Firefly and other additions to its creative and marketing software tools. But for Oscar-winning screenwriter Aaron Sorkin and the Writers Guild of America,"
-    publishedDateTime: 2023-03-28T06:33:00Z
-    webUrl: "https://www.forbes.com/sites/dbloom/2023/03/28/as-adobe-shows-its-generative-ai-hand-hollywood-grapples-with-changing-world/"
-    ampWebUrl: "https://www.forbes.com/sites/dbloom/2023/03/28/as-adobe-shows-its-generative-ai-hand-hollywood-grapples-with-changing-world/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dbloom/2023/03/28/as-adobe-shows-its-generative-ai-hand-hollywood-grapples-with-changing-world/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/642280892f0c387d9de2d105/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How AI Is Integrating Into The Workforce"
-    excerpt: "Over the decades, automation has evolved from textile machinery, through programmable logic controllers and computer numerical control machines, to now include robotics and artificial ... As people start to use AI for more advanced work projects, they ..."
-    publishedDateTime: 2023-03-28T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/28/how-ai-is-integrating-into-the-workforce/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 51
-  - title: "For generative AI to thrive, fintechs must act responsibly"
-    excerpt: "ChatGPT has taken the world by storm, but crucial that fintechs take a responsible and ethical approach to its development and implementation."
-    publishedDateTime: 2023-03-28T07:35:00Z
-    webUrl: "https://www.altfi.com/article/10551_for-generative-ai-to-thrive-fintechs-must-act-responsibly"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
-    quality: 39
-    images:
-      - url: "https://www.altfi.com/images/ext/equifax-and-altfi-report-march-2023-mpu.png"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "This generative AI tool actually teaches kids how to write"
-    excerpt: "As ChatGPT threatens higher education, edtech startup Pressto is using AI to help kids learn to write. Tech world matriarch Esther Wojcicki is advising."
-    publishedDateTime: 2023-03-26T05:00:00Z
-    webUrl: "https://www.fastcompany.com/90869664/pressto-generative-ai-writing-education-esther-wojcicki"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
+      name: The Financial Times
+      domain: ft.com
     quality: 17
-  - title: "Big banks invest in generative AI startup Hazy"
-    excerpt: "Hazy won the $1 million Microsoft Innovate AI prize for the best AI startup in Europe and has signed up big name clients, including financial services giants Nationwide and Wells Fargo. Harry Keen, CEO, Hazy, says: \"This funding will solidify our position ..."
-    publishedDateTime: 2023-03-27T23:01:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42044/big-banks-invest-in-generative-ai-startup-hazy"
+  - title: "Generative AI set to affect 300mn jobs across major economies"
+    excerpt: "The investment bank said on Monday that “generative” AI systems such as ChatGPT, which can create content that is indistinguishable from human output, could spark a productivity boom that would eventually raise annual global gross domestic product by 7 per cent over a 10-year period."
+    publishedDateTime: 2023-03-27T21:16:00Z
+    webUrl: "https://www.ft.com/content/7dec4483-ad34-4007-bb3a-7ac925643999?shareType=nongift"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
+      name: The Financial Times
+      domain: ft.com
     quality: 17
 
 secured: "5Ya6DkSQsEfdwXqfq7PL40qgftA+bey7l/xglcnXqEd/BXY1ixZoa+rni5gO3Yts9prGWgQH8pNx1sMa8Ws9bKf3QMHwck4qGACpCQTGlwSluzgDTa1hx3PBUk9x/CqtEETrplz5adJ3tyb91xohyB2ZRN+PSGKJtyHLkoSE9e5jC2EfPDMCYVfja1ZodKM6BeUSlh96VNAkvhzJpUDeugddONWy5SXf6ryETpnwbHsuTJ3uA9UOkERHa0g9CdrQsCxIP9pDCY66bTUDAMOjMml1ztA/mxwUjYiLnzVSgFIhEDMS5BTBwOOf4ftAPJQFBGDUpD0Ph5Bs5Sd3itJmmVPC6LyKCL3LdV7uRGb0fxeJ+m+do8s3B2R+7nyj38Ec1FM34/TNt3B0T4V8++VFaoXj3idj97b/fskJAib577nN0u1ACVVugUUi3AWf4SScdxBiZnYBTsBdqyjbnhNWIF5lT3PuagOzQjH5wpCHuqL5fJfrK9UBi+XD2UEzFrj2hnu9t2I2Ik72GX1prEHT8g==;bloUghil4WBfjC4/ZBHiow=="

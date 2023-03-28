@@ -2,9 +2,9 @@
 category: news
 title: "Buy Nvidia Stock Because the Chip Maker Is an AI Play, Says Analyst"
 excerpt: "Bernstein is getting more bullish on demand for Nvidia semiconductors based upon the growth potential of artificial-intelligence training applications. On Tuesday, analyst Stacy Rasgon reiterated his Outperform rating for Nvidia stock (ticker: NVDA), and ..."
-publishedDateTime: 2023-03-28T15:35:00Z
-originalUrl: "https://www.barrons.com/articles/nvidia-stock-buy-ai-chip-2c81821f"
-webUrl: "https://www.barrons.com/articles/nvidia-stock-buy-ai-chip-2c81821f"
+publishedDateTime: 2023-03-28T15:39:00Z
+originalUrl: "https://www.barrons.com/articles/nvidia-stock-buy-ai-chip-2c81821f?refsec=technology"
+webUrl: "https://www.barrons.com/articles/nvidia-stock-buy-ai-chip-2c81821f?refsec=technology"
 ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-buy-ai-chip-2c81821f"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-buy-ai-chip-2c81821f"
 type: article
@@ -228,6 +228,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 34
 
-secured: "o3wrbUOCDWDlQtB5O33W0hOuTzbLKb4jHpyzo7ck0sFIqUjp/wqNdIafXB+Qm4wRYWK8EjwKp3V3BHJcSDmqbdQxKxmJ9G2m9wdvEb3DO+kp0uQdIfxJPvtnd6hvqotnJXzJebpEjgoyJx7S1v5bDSDnEKGm7xQN8lZ5BZAOWfIYuaPYApSDpHQHZPkZM5WFVV25iA1Lb6u4M3BWnwZIIsWhvqqpypcw3MuXpJ9CAVitSF9BLHxdbZzI0WtMoeBhHT5mrlS+v6NBZsCoJbmaDJQmI0ruxtJ46fsCd/zNJRwfRpzp7xsZXZsN8sOJP52BHZk+CPTii/PNbRhhnIE5ITbcL99O1uM9+FI+FYdXdFk=;yRQJbZgMG33cxQoummFoXw=="
+secured: "8BVFplW/b1q4aTlJgTkj7Qig5Y/MU+micX6d7Kqp4ACLTvxHoWoIt9OlxPug/qMscNyfihz9J8IAFLvI/rIunxwNXnKbSnRezZP+HsbLdu2SRZlVHrGkToTkNkqETFl33dXT0DpGYf6//bqQdfkiGmBK3HJrGfiE7CF59WzpschvZUhCdhaeasnTVpDf/7kAzHTVhvLNHpyZLu70fhiOjSrcu9VIr2JEanku8RMgbHNQTy2L/XkW38EcfnmPfMmXDkoKmRSlVohoqrSCtDwZtnCkmFZG/sFRRp6NZ1ydBtvTnHjZtjDrd8K0z9tHpAL5Lq95tEOe1skkSHv7o6cSpaeNco5MMbXdFr1I2gR0EKQ=;nDfA/whZLrOlmPbGrLiKTQ=="
 ---
 

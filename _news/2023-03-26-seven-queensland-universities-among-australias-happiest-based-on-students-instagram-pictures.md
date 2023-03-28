@@ -35,6 +35,20 @@ related:
         width: 8000
         height: 6000
         isCached: true
+  - title: "Four of the happiest colleges in the United States are in Texas, report says"
+    excerpt: "The report used an AI emotion recognition tool, Amazon Rekognition API, to find out which universities boasted the \"highest proportions of happy faces\" on Instagram. However, two Texas universities beat out the University of Texas at Austin, as Texas ..."
+    publishedDateTime: 2023-03-28T16:47:00Z
+    webUrl: "https://www.expressnews.com/news/texas/article/texas-colleges-happiest-us-17864457.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 21
+    images:
+      - url: "https://s.hdnux.com/photos/01/24/25/20/22107140/7/rawImage.jpg"
+        width: 1600
+        height: 1120
+        isCached: true
 
 secured: "PfGZ9Ybl8unuVzKqUIyWkb3vfsFwsr6z9Eq5bGhT2NYGtNVd6WFK7guDtUEITGIf1cU+dhFCu8cSnWuP20YhXK6fgUeJ17pudaDf06U+w9esl4ddzsgt8L46nG3IS75grK68QiXBCwdq3FZUgpLJoI8Ht1hRZosKRpNra/u1zfTaMVgBJiYPcJoPTJHHOuqNIE1AzeLiyINNgX1H6QcgKl4WeTdctyf4SpQm1SyGpoO0kJ7mEM7/ahVFQJIhiKMjHx0jIXhHENVjsYMz+9S8aVDpDO7getQWfh3P8QC1oaWGCiaN6JgXUAp8XwE1KNgRn55Bce5HH7ZTGEXSt0t7xnSS4w0Ul6BRlPGxLVUpq9Mvvkr1Vnb2CRLWPxq7VMWq++4++sXiZQ/w3JUbBXviuJ4+jSACxsr1ibqeuz4yocYiyI0IigYgrNJ1f+XOUNqE951lrC6Ov0YGx89WVu6lNVE+glfTrXpYXOf+EUflsQcfEXUSM3Nr2hoGIkK94CCzBfeRBJNomBCUotULUpkb7A==;2/jL5kbr/PryA7y7JIrh7w=="
 ---

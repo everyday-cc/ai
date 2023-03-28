@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/03/27/adobe-jumps-int
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/03/27/adobe-jumps-into-the-generative-ai-race-with-firefly-creative-support/amp/"
 type: article
 quality: 87
-heat: 157
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,53 +30,35 @@ images:
     isCached: true
 
 related:
-  - title: "Adobe Introduces Firefly, A Human-Driven Creative Approach To Generative AI"
-    excerpt: "Vice President & Principal Analyst, Modern Work, Melody Brue, covers Adobe's generative AI announcement, Firefly, this week at its annual Adobe Summit conference."
-    publishedDateTime: 2023-03-24T21:28:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/03/24/adobe-introduces-firefly-a-human-driven-creative-approach-to-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/03/24/adobe-introduces-firefly-a-human-driven-creative-approach-to-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/03/24/adobe-introduces-firefly-a-human-driven-creative-approach-to-generative-ai/amp/"
+  - title: "Hugging Face reveals generative AI performance gains with Intel hardware"
+    excerpt: "Learn More Nvidia’s A100 GPU accelerator has enabled groundbreaking innovations in generative AI, powering cutting-edge research that is reshaping what artificial intelligence can achieve. But in the fiercely competitive field of AI hardware, others are ..."
+    publishedDateTime: 2023-03-28T17:00:00Z
+    webUrl: "https://venturebeat.com/ai/hugging-face-reveals-generative-ai-performance-gains-with-intel-hardware/"
+    ampWebUrl: "https://venturebeat.com/ai/hugging-face-reveals-generative-ai-performance-gains-with-intel-hardware/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/hugging-face-reveals-generative-ai-performance-gains-with-intel-hardware/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 90
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641e14bbd57fc229c2eb47d8/0x0.jpg?format=jpg&width=1200"
-        width: 1100
-        height: 733
+      - url: "https://venturebeat.com/wp-content/uploads/2023/01/VB_Intel-xeo-4_1200px.jpg?w=1200&strip=all"
+        width: 1200
+        height: 804
         isCached: true
-  - title: "The Intersection Of AI And Human Creativity: Can Machines Really Be Creative?"
-    excerpt: "Explore the captivating world of AI creativity as we delve into the potential of machines to generate original content, blurring the lines between human and artificial ingenuity."
-    publishedDateTime: 2023-03-27T06:48:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/27/the-intersection-of-ai-and-human-creativity-can-machines-really-be-creative/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/27/the-intersection-of-ai-and-human-creativity-can-machines-really-be-creative/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/03/27/the-intersection-of-ai-and-human-creativity-can-machines-really-be-creative/amp/"
+  - title: "Nvidia Harnesses AI Power to Optimize Chip Design and Performance"
+    excerpt: "Nvidia has revealed new research demonstrating how AI can be utilized to optimize chip design. This groundbreaking research could potentially change the way chips are designed, ultimately leading to improved cost, speed, and power consumption for the ..."
+    publishedDateTime: 2023-03-28T13:58:00Z
+    webUrl: "https://www.gizmochina.com/2023/03/28/nvidia-harnesses-ai-power-to-optimize-chip-design-and-performance/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Gizmochina
+      domain: gizmochina.com
     quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64213c10fc7ed6f0a3eb47ae/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "As Adobe Shows Its Generative AI Hand, Hollywood Grapples With Changing World"
-    excerpt: "Adobe joined the generative AI gold rush, announcing Firefly and other additions to its creative and marketing software tools. But for Oscar-winning screenwriter Aaron Sorkin and the Writers Guild of America,"
-    publishedDateTime: 2023-03-28T06:33:00Z
-    webUrl: "https://www.forbes.com/sites/dbloom/2023/03/28/as-adobe-shows-its-generative-ai-hand-hollywood-grapples-with-changing-world/"
-    ampWebUrl: "https://www.forbes.com/sites/dbloom/2023/03/28/as-adobe-shows-its-generative-ai-hand-hollywood-grapples-with-changing-world/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dbloom/2023/03/28/as-adobe-shows-its-generative-ai-hand-hollywood-grapples-with-changing-world/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/642280892f0c387d9de2d105/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/03/nvidia-harnesses-ai-power-to-optimize-chip-design-and-performance.jpeg"
+        width: 1098
+        height: 732
         isCached: true
   - title: "How AI Is Integrating Into The Workforce"
     excerpt: "Over the decades, automation has evolved from textile machinery, through programmable logic controllers and computer numerical control machines, to now include robotics and artificial ... As people start to use AI for more advanced work projects, they ..."
@@ -87,38 +69,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 51
-  - title: "For generative AI to thrive, fintechs must act responsibly"
-    excerpt: "ChatGPT has taken the world by storm, but crucial that fintechs take a responsible and ethical approach to its development and implementation."
-    publishedDateTime: 2023-03-28T07:35:00Z
-    webUrl: "https://www.altfi.com/article/10551_for-generative-ai-to-thrive-fintechs-must-act-responsibly"
+  - title: "O’Reilly 2023 Tech Trends Report Reveals Growing Interest in Artificial Intelligence Topics, Driven by Generative AI Advancement"
+    excerpt: "O’Reilly, a premier source for insight-driven learning on technology and business, announced the findings of its annual Technology Trends for 2023 report, which examines the most sought-after technology topics consumed by the 2."
+    publishedDateTime: 2023-03-24T13:00:00Z
+    webUrl: "https://insidebigdata.com/2023/03/24/oreilly-2023-tech-trends-report-reveals-growing-interest-in-artificial-intelligence-topics-driven-by-generative-ai-advancement/"
     type: article
     provider:
-      name: altfi
-      domain: altfi.com
-    quality: 39
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 25
     images:
-      - url: "https://www.altfi.com/images/ext/equifax-and-altfi-report-march-2023-mpu.png"
+      - url: "https://insidebigdata.com/wp-content/uploads/2021/02/Snowflake_report_cover.png"
         width: 300
-        height: 250
+        height: 391
         isCached: true
-  - title: "This generative AI tool actually teaches kids how to write"
-    excerpt: "As ChatGPT threatens higher education, edtech startup Pressto is using AI to help kids learn to write. Tech world matriarch Esther Wojcicki is advising."
-    publishedDateTime: 2023-03-26T05:00:00Z
-    webUrl: "https://www.fastcompany.com/90869664/pressto-generative-ai-writing-education-esther-wojcicki"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
-  - title: "Big banks invest in generative AI startup Hazy"
-    excerpt: "Hazy won the $1 million Microsoft Innovate AI prize for the best AI startup in Europe and has signed up big name clients, including financial services giants Nationwide and Wells Fargo. Harry Keen, CEO, Hazy, says: \"This funding will solidify our position ..."
-    publishedDateTime: 2023-03-27T23:01:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42044/big-banks-invest-in-generative-ai-startup-hazy"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
 
 secured: "XSdiNy2x9QdczlRU/pQOUWkkvax5mGUpqq7fHMbltveqPBhr8k+rYfFoKGsbzOID5/JmEgpl9Q487zcH6M3kLKxXO7Zcs5ovS2rQA7Lkz7bokNu0my8DPjea7kafHlWum1SrKrin8BX/WCIW3WvLAZsiyEOLK2s3ZzRh8wmvImeV3XGo+c3fp5iwEP2YVHSrkOEILbXoz3to8ak7cnUf6iuZkmcSNoFLN1LYgQiAPN8K/KWUYVbvAywS5GbA0C3Z0rDFhtcAWs+uZ+lfiou9nCjF8odyJv8Vn8QCKd+I32UkXeO3RNoT2aW3ccVwgSpeESMFoXc+7viAXf7WlxaID2Y8SwVuUDdaf6BwzOWqStk=;X69Pr9xHSyfGf1Af3Fxcvw=="
 ---

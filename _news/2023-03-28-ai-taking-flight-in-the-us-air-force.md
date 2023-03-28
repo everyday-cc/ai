@@ -42,20 +42,6 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 49
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-03-25T17:12:00Z
-    webUrl: "https://www.law.com/dailyreportonline/2023/03/25/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
 
 secured: "1FferJhDV6KRcbL+EojeF0gZA0nt1ZZo3Jsek3UHuR+Y+cwlepaJ9Q3STlUW0A7o+WMQDtntI5ktYLCsLCLsie5MHY/U/YUfV2X2ynpeMYb6NFxnxb/K58VGsFMgUXziTa7YryKkMJXKoyvuxtQBYK+u7EdxENJy04NNmU4JwWUosm1/xaJhuGeRrYkV+z5KEDVouRmrP7aNe4ytbU7an1KJ7f4qjuVzUWcCYYJvk0RxvrT+MArR+OF3+Nm04RBNhSpuNh9qVUcTSxvGUeGcySQjsLvQVbEuDDTYbKWJc9fKL1cS623OSvSAdD1wtRqp72+5VXal0VgwIybIzE8unDZk9jRVMk4MzEmboSOKlHI=;atZTT1MocuNa0mWN6GO8EQ=="
 ---

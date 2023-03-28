@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "For generative AI to thrive, fintechs must act responsibly"
+    excerpt: "ChatGPT has taken the world by storm, but crucial that fintechs take a responsible and ethical approach to its development and implementation."
+    publishedDateTime: 2023-03-28T07:35:00Z
+    webUrl: "https://www.altfi.com/article/10551_for-generative-ai-to-thrive-fintechs-must-act-responsibly"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 39
+    images:
+      - url: "https://www.altfi.com/images/ext/equifax-and-altfi-report-march-2023-mpu.png"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "veYOYnZJL1HSn47HuKQH4d62ZX8jFNWhKGxbGQt1sTBhtCf6l59Hg3DdLgAGqBkIJf71Dl6BbYDv5qhfM6Vemnk/sb3iDF8QuajgqDJ8F6xpunjR2sbOLl8CZ3dmcfR3bmnxbs5HnXe1dUolI9qa832bxk/QIUKbsg84xq7rWY+e4GDmZzOU6+XO16btCMDPhLP06gYkojR5ey4m5edxWijljgpBy5O+wWlZe7dN1Vj8aLEEX4HGd3YiFAXICeGuw01qb89gVmqe3mbLis0cV/F+jmBn5erT8vHnEecYmJwCBzFzWyortyTxmKzBHBoZI3+jzYcV2Ip9qatjGde5/XG/iBlUzhePKcFPmbQeGKw=;PsIuBn31NE0ELmFwpyNVeQ=="
 ---

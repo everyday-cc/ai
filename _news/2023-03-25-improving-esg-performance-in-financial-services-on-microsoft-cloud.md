@@ -100,6 +100,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "QualityKiosk announces a strategic partnership with Microsoft Power Platform to empower customers to create efficient and flexible solutions"
+    excerpt: "QualityKiosk Technologies, one of the largest independent digital quality assurance specialists and a pioneer in providing intelligent automation solutions, is excited to announce its strategic partnership with the Microsoft Power Platform line of business."
+    publishedDateTime: 2023-03-28T17:35:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20230328/4055073.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "vPaP1TP/1wMI3mi9Wfj6/RTZRIPadALQ8MyeZfgktAtWoERimsToOVMrji+x36kYbXThCqR8YC9YFIARjtJV90eQFPOhmG5nR/vtEVeJ97vRgaSDxSrllpilVY89OevnmW+g+bgNKjw9l0mFcJSl/oqLG5F7IchLRC6F6+2pQFownqMGWM/ADRMuwmPuhueigBnwuux3h4eN7fCixNBnXvuCx9eEO6lczql8jgwW+Ouh6rU98LV/uwxYPiKNP7FKrXTdILtI7c205A+gPva9YlRSC6W9/RrwcOtL6bsEb43mF9L4Qh+0jMDdxToBTKgTjFvFCG5pQAH485TK3Xr88B+8y60N2HhXoQe4uvd88Hi1kU7nfWPRtTehu9PmAEYgMrRJYATdBuUsgFYbHXrsz3C59br7kZvM3qS1h+nnIQDvg+b013hEB4/hmZuHMlqDRib4kfX+y6txWmpw7H0FhRqV+UeSBSh2SHfiOMPjPQBI++wG+KQS3dXLMPJt6ZD105Ugi4lQSsjhme0f9BE7pw==;yp8Z/McVLQQzMnI+DSm0Mg=="
 ---

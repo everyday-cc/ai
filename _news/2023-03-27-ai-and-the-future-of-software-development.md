@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3691892/ai-and-the-future-of-softw
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3691892/ai-and-the-future-of-software-development.amp.html"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -91,20 +91,6 @@ related:
       - url: "https://thediplomat.com/wp-content/uploads/2023/03/sizes/td-story-s-2/thediplomat_2023-03-24-150332.jpg"
         width: 600
         height: 453
-        isCached: true
-  - title: "Visions for the Future of Artificial Intelligence"
-    excerpt: "Financial services, healthcare, and manufacturing use AI-enabled technologies to restructure operations and address previously unsolvable"
-    publishedDateTime: 2023-03-24T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/visions-for-the-future-of-artificial-intelligence-nid-10556.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/7kxusa2pac450-308.jpg"
-        width: 450
-        height: 308
         isCached: true
   - title: "A tool of efficiency and risks: How AI allows for more creativity in software development"
     excerpt: "Gates teaches a course required for computer science students called Ethics for Computers and Society. The use of AI in programming is a major discussion point in his course. \"There's no question that because these technologies are so ubiquitous and ..."

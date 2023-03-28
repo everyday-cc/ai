@@ -19,6 +19,34 @@ topics:
   - AI
 
 related:
+  - title: "A shared agenda for responsible AI progress"
+    excerpt: "AI can be hugely beneficial to society if citizens, educators, academics, civil society and governments unite to shape it responsibly."
+    publishedDateTime: 2023-03-28T16:00:00Z
+    webUrl: "https://blog.google/technology/ai/a-shared-agenda-for-responsible-ai-progress/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 89
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Copy_of_Kent_Walker_Keyword_AI_final.width-1300.png"
+        width: 1300
+        height: 733
+        isCached: true
+  - title: "Who is responsible when artificial intelligence goes wrong?"
+    excerpt: "ARTIFICIAL Intelligence (AI) has the ability to transform our lives ... AI or advanced technologies fail to perform or cause harm as the functioning of AI and robotics often consists of many parties – from the developer, the manufacturer, the provider ..."
+    publishedDateTime: 2023-03-28T01:01:00Z
+    webUrl: "https://www.irishnews.com/business/2023/03/28/news/who_is_responsible_when_artificial_intelligence_goes_wrong_-3160931/"
+    type: article
+    provider:
+      name: The Irish News
+      domain: irishnews.com
+    quality: 39
+    images:
+      - url: "https://binaries.irishnews.com/2023/03/24/114607434-843ac0fb-1457-4fd1-888b-d78144a3043e.jpg"
+        width: 900
+        height: 472
+        isCached: true
   - title: "Many of world’s biggest banks lack transparent policies for responsible AI"
     excerpt: "whereas European banks more often lead responsible AI within their data ethics teams. Evident co-founder Annabel Ayles said: “European banks which view responsible AI through a lens of data ethics, potentially due to the dominance of General Data ..."
     publishedDateTime: 2023-03-27T14:58:00Z

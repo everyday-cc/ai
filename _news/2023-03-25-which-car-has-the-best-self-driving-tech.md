@@ -41,22 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "We Were Told We’d All Be Riding in Self-Driving Cars by Now. Where Are They?"
-    excerpt: "According to predictions made nearly a decade ago, we should be riding around in self-driving vehicles today. It’s now clear the autonomous vehicle revolution was overhyped. Proponents woefully underestimated the technological challenges. It turns out ..."
-    publishedDateTime: 2023-03-23T23:32:00Z
-    webUrl: "https://www.gizmodo.com.au/2023/03/what-happened-to-self-driving-cars/"
-    ampWebUrl: "https://www.gizmodo.com.au/2023/03/what-happened-to-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/03/what-happened-to-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: gizmodo
-      domain: gizmodo.com.au
-    quality: 41
-    images:
-      - url: "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/03/24/gizmodo-12.png?quality=80&resize=1280,720"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "California must address failures of Tesla's self-driving cars"
     excerpt: "California leaders needs to do what the National Highway Traffic Safety Administration so far failed to achieve: Keep Californians safe from Tesla’s flawed Full Self-Driving beta software. A nationwide recall of 362,758 Tesla vehicles equipped with ..."
     publishedDateTime: 2023-03-24T18:01:00Z

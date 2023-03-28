@@ -103,20 +103,6 @@ related:
         width: 600
         height: 453
         isCached: true
-  - title: "Visions for the Future of Artificial Intelligence"
-    excerpt: "Financial services, healthcare, and manufacturing use AI-enabled technologies to restructure operations and address previously unsolvable"
-    publishedDateTime: 2023-03-24T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/visions-for-the-future-of-artificial-intelligence-nid-10556.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/7kxusa2pac450-308.jpg"
-        width: 450
-        height: 308
-        isCached: true
   - title: "Artificial intelligence and head scab"
     excerpt: "Fusarium head blight causes a lot of economic losses in wheat, and the associated toxin, deoxynivalenol (DON), can cause issues for human and animal health. The disease has been a big deterrent for people growing wheat in the Eastern U."
     publishedDateTime: 2023-03-26T22:45:00Z

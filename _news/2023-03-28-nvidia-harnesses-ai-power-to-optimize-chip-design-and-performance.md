@@ -7,8 +7,8 @@ originalUrl: "https://www.gizmochina.com/2023/03/28/nvidia-harnesses-ai-power-to
 webUrl: "https://www.gizmochina.com/2023/03/28/nvidia-harnesses-ai-power-to-optimize-chip-design-and-performance/"
 type: article
 quality: 84
-heat: 154
-published: true
+heat: -1
+published: false
 
 provider:
   name: Gizmochina
@@ -29,104 +29,62 @@ images:
     isCached: true
 
 related:
-  - title: "Cryptocurrencies add nothing useful to society, says chip-maker Nvidia"
-    excerpt: "Tech chief says the development of chatbots is a more worthwhile use of processing power than crypto mining"
-    publishedDateTime: 2023-03-26T15:13:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
+  - title: "Hugging Face reveals generative AI performance gains with Intel hardware"
+    excerpt: "Learn More Nvidia’s A100 GPU accelerator has enabled groundbreaking innovations in generative AI, powering cutting-edge research that is reshaping what artificial intelligence can achieve. But in the fiercely competitive field of AI hardware, others are ..."
+    publishedDateTime: 2023-03-28T17:00:00Z
+    webUrl: "https://venturebeat.com/ai/hugging-face-reveals-generative-ai-performance-gains-with-intel-hardware/"
+    ampWebUrl: "https://venturebeat.com/ai/hugging-face-reveals-generative-ai-performance-gains-with-intel-hardware/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/hugging-face-reveals-generative-ai-performance-gains-with-intel-hardware/amp/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 90
     images:
-      - url: "https://i.guim.co.uk/img/media/c1d4d5e50b04a1580bdaa1145b2dec10d47b8496/0_217_6520_3912/master/6520.jpg?width=620&quality=85&auto=format&fit=max&s=78bd8b0dece950e337e76dbba5a347a4"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Cryptocurrencies add nothing useful to society, says chip-maker Nvidia"
-    excerpt: "Tech chief says the development of chatbots is a more worthwhile use of processing power than crypto mining"
-    publishedDateTime: 2023-03-26T19:13:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/c1d4d5e50b04a1580bdaa1145b2dec10d47b8496/0_217_6520_3912/master/6520.jpg?width=620&quality=85&auto=format&fit=max&s=78bd8b0dece950e337e76dbba5a347a4"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "AI could be key to optimising chip design, Nvidia says"
-    excerpt: "Nvidia Corp has released a paper showing how a combination of artificial intelligence (AI) techniques could find the best ways to place transistors on silicon chips. Nvidia Corp, the world's leading designer of computer chips used in AI, has shown new ..."
-    publishedDateTime: 2023-03-28T10:42:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2023/03/ai-could-be-key-to-optimising-chip-design-nvidia-says/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 54
-    images:
-      - url: "https://eandt.theiet.org/media/16225/nvidia-cambridge-1_gpu-closeup.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=132699737820000000"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/01/VB_Intel-xeo-4_1200px.jpg?w=1200&strip=all"
         width: 1200
-        height: 450
+        height: 804
         isCached: true
-  - title: "Key paper on AI chip design might be overstated"
-    excerpt: "Terminator not coming for chip designers A key Google-led research paper claiming machine-learning software can design better chips faster than humans has been called into question after a new study disputed its results."
-    publishedDateTime: 2023-03-28T11:12:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/56610-key-paper-on-ai-chip-design-might-be-overstated"
+  - title: "Adobe Jumps Into The Generative AI Race With Firefly Creative Support"
+    excerpt: "Last week at Adobe Summit, the company announced its first generative AI service, Adobe Firefly. Analyzing Adobe's offering and the overall generative AI landscape. What should Adobe customers expect and when can they gain access to the new services."
+    publishedDateTime: 2023-03-27T14:47:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2023/03/27/adobe-jumps-into-the-generative-ai-race-with-firefly-creative-support/"
+    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/03/27/adobe-jumps-into-the-generative-ai-race-with-firefly-creative-support/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/03/27/adobe-jumps-into-the-generative-ai-race-with-firefly-creative-support/amp/"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/68d425fd6b707bcebf12c496882c2580_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
-  - title: "Aetina Showcases Its Latest AI Solutions at NVIDIA GTC"
-    excerpt: "Aetina's New Edge Computing Systems and Platforms Are Powered by the Latest NVIDIA Jetson Orin System-on-Modules Aetina's NVIDIA-Certified System Tested with NVIDIA L4 Tensor Core GPU Aetina's SuperEdge AIS-D422-A1—an AI platform ideal for AI model ..."
-    publishedDateTime: 2023-03-24T05:18:00Z
-    webUrl: "https://www.asiaone.com/business/aetina-showcases-its-latest-ai-solutions-nvidia-gtc"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 39
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2023/Aetina_s_New_Edge_Computing_Systems_Platforms_Are_Powered_Latest_NVIDIA.jpg?h=5b470aab&itok=7c0fUUzZ"
-        width: 600
-        height: 316
-        isCached: true
-  - title: "ETFs That Allow You To Invest In Nvidia's AI Wave, Strategy to Bypass US - China Sanctions"
-    excerpt: "\"The age of AI demands cloud data center infrastructures to support extraordinary ... This week, Nvidia said it has similarly developed a China-export version of its H100 chip, making it eligible for export to China. The H800 mainly reduced the chip ..."
-    publishedDateTime: 2023-03-24T16:53:00Z
-    webUrl: "https://www.benzinga.com/news/23/03/31492548/etfs-that-allow-you-to-invest-in-nvidias-ai-wave-strategy-to-bypass-us-china-sanctions"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/03/24/nvda.png?width=1200&height=800&fit=crop"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6421aa2b32ea51d1c18a9f03/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Supermicro Expands GPU Solutions Portfolio with Deskside Liquid-Cooled AI Development Platform, Powered by NVIDIA"
-    excerpt: "enabling a wide range of AI development and workloads to be run at a deskside,\" said Charles Liang, president and CEO of Supermicro. \"This exciting new GPU system will also have a completely built-in liquid cooling system, allowing leading-edge CPUs and ..."
-    publishedDateTime: 2023-03-24T18:40:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1313996&cat=PR News Wire"
+  - title: "How AI Is Integrating Into The Workforce"
+    excerpt: "Over the decades, automation has evolved from textile machinery, through programmable logic controllers and computer numerical control machines, to now include robotics and artificial ... As people start to use AI for more advanced work projects, they ..."
+    publishedDateTime: 2023-03-28T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/28/how-ai-is-integrating-into-the-workforce/"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 13
+      name: Forbes
+      domain: forbes.com
+    quality: 51
+  - title: "O’Reilly 2023 Tech Trends Report Reveals Growing Interest in Artificial Intelligence Topics, Driven by Generative AI Advancement"
+    excerpt: "O’Reilly, a premier source for insight-driven learning on technology and business, announced the findings of its annual Technology Trends for 2023 report, which examines the most sought-after technology topics consumed by the 2."
+    publishedDateTime: 2023-03-24T13:00:00Z
+    webUrl: "https://insidebigdata.com/2023/03/24/oreilly-2023-tech-trends-report-reveals-growing-interest-in-artificial-intelligence-topics-driven-by-generative-ai-advancement/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 25
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2021/02/Snowflake_report_cover.png"
+        width: 300
+        height: 391
+        isCached: true
 
-secured: "7+3NVM3cfe8UHVmpV3hhpxNpHgS5Wo78isnpYAKX6bztBy/RMXoKjUqckTeMZ1C3yX61xxcig3oZWk/yDSZqOrV7t07uFeNSba2bmm4biAV5k9GBDmbpXqqHN4tioU2i6+fBszv8ux5WoMMfUb65yBnwwNJcxzanS5zl67edVlN7M/2hUCBQ8A7DjBPciQNj7PHZqfOzD0TArMFTX0kT4uD09IDknIAerQt3xsj1yqbn2/iYdh9mWwOh428M61A/yxvWqZ4qrLGnXNDvRjpQ9+eBGJhydZmjxylcyOayskdGV+M+s6KRGmc4kzOvAyqTcOTgjEmoitQT1A7ixN4ksS3f16Y36oLXHSons9AP+cY=;l3K6DaEwDnqGYPe3o4UasQ=="
+secured: "zsmrQMv51nrzD3LRLZuR5sZuVarfgGtZdjGohNW2HJXdmM3NTamPk0WlRn6L1KPA5IFELnPjsFwuUcLk/enIFb6xphGhvrvdrSa9jICwjGdZXo6duLCLqogqji9iJJqaTPHOGAf81JBAg+EOzYcD5G4YcLgCUuJ7MKcMLM+OOvLnTdnb7F5ONPdqEQdrCNKnAp0+O8IXNr+wTJ5rBy4M9RUexyWWOelpljeBQ2xwcqQ2uxXdW3FBjv+A/StM0vJkQpaU9i18DyzQptA+aBuLHrbKrAsFaRrrQwCN3KuTMDkwBtWXPtVZs7+6coEuZdF017Zlg6teqSfYobIo2CLF3RfI4k9y1X68o4Y0neMXbWZv6vEK76BBC0cjjTDhkcDcjwrBH2qGIdeqnNY5IRW/E89FZbuw3DpNj5OegPLonCT7ZO6nvrTjXvp6chSSdcNgR1XSs1Id4ztXzBQOcQ5URiTTYSLMpt3BtFiPHP5cRP87sNfqubLYSCSH10omWGlFVU1XwnJfuFsZ8ljeyk5oRg==;2HGdwZ6Y0FEi8qjo7Ao79Q=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.computerweekly.com/news/365534192/Many-banks-lack-tran
 webUrl: "https://www.computerweekly.com/news/365534192/Many-banks-lack-transparent-responsible-AI-policies"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,34 @@ topics:
   - AI
 
 related:
+  - title: "A shared agenda for responsible AI progress"
+    excerpt: "AI can be hugely beneficial to society if citizens, educators, academics, civil society and governments unite to shape it responsibly."
+    publishedDateTime: 2023-03-28T16:00:00Z
+    webUrl: "https://blog.google/technology/ai/a-shared-agenda-for-responsible-ai-progress/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 89
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Copy_of_Kent_Walker_Keyword_AI_final.width-1300.png"
+        width: 1300
+        height: 733
+        isCached: true
+  - title: "Who is responsible when artificial intelligence goes wrong?"
+    excerpt: "ARTIFICIAL Intelligence (AI) has the ability to transform our lives ... AI or advanced technologies fail to perform or cause harm as the functioning of AI and robotics often consists of many parties – from the developer, the manufacturer, the provider ..."
+    publishedDateTime: 2023-03-28T01:01:00Z
+    webUrl: "https://www.irishnews.com/business/2023/03/28/news/who_is_responsible_when_artificial_intelligence_goes_wrong_-3160931/"
+    type: article
+    provider:
+      name: The Irish News
+      domain: irishnews.com
+    quality: 39
+    images:
+      - url: "https://binaries.irishnews.com/2023/03/24/114607434-843ac0fb-1457-4fd1-888b-d78144a3043e.jpg"
+        width: 900
+        height: 472
+        isCached: true
   - title: "No Evidence of Responsible AI Activity in Eight of the World’s Largest Banks"
     excerpt: "Banks across North America and Europe are failing to publicly report on their approaches to responsible AI development, according to research from Evident, an independent intelligence platform that seeks to accelerate the successful adoption of AI in business."
     publishedDateTime: 2023-03-27T13:52:00Z

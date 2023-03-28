@@ -49,20 +49,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "a16z Leads $150M Series A Round in Chatbot Startup Character AI"
-    excerpt: "Venture capitalist firms are always on the lookout for the next big thing, and Andreessen Horowitz is no exception. They recently announced an investment in Character AI, a software development company,"
-    publishedDateTime: 2023-03-23T23:43:00Z
-    webUrl: "https://decrypt.co/news-explorer?pinned=137644&title=a16z-leads-150m-series-a-round-in-chatbot-startup-character-ai"
-    type: article
-    provider:
-      name: decrypt
-      domain: decrypt.co
-    quality: 37
-    images:
-      - url: "https://cdn.decrypt.co/wp-content/uploads/2022/12/Artificial-Intelligence-gID_2.png"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "From Chatbots to RL to GANs, here’s our essential AI glossary for marketers"
     excerpt: "What’s the difference between machine learning and deep learning? You’re about to find out. This glossary can serve as a linguistic primer as you begin to navigate the world of AI."
     publishedDateTime: 2023-03-27T10:00:00Z

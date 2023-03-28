@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-28T13:02:00Z
 originalUrl: "https://siliconangle.com/2023/03/28/collaborative-machine-learning-startup-fedml-raises-6m-train-deploy-customize-ai-anywhere/"
 webUrl: "https://siliconangle.com/2023/03/28/collaborative-machine-learning-startup-fedml-raises-6m-train-deploy-customize-ai-anywhere/"
 type: article
-quality: 55
+quality: 57
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/0_3hy1w5rvyWCK_6Ef.png"
@@ -65,6 +66,6 @@ related:
       domain: forbes.com
     quality: 47
 
-secured: "ectvGc7G1ojejk+/7C5n9WI8hzAODM9vpDZrTejHuMKtQzm8HFBFIBqQwi1zAvb0eRj0cYXDfn2yle/B6X9dNkJoXHf8FTyLa1jjMLR4JzYQ9f/eaEXPmgt3GTeU2NzKjNSeZqCYFzhr0tBPXjIMcQAh84BuQTV2YBBgco6vPzdcANZ/0fDXgzgDSUJIJZ5dSEDa0PkB86MRRPIcmbWi2FIAGdMjUHwh8TxmsX2wYvxQKFkZ/CUG+c5TXE6e4RXySjVhiTKHS3cFJN3xZ4pZCfxODT0FjdG+EyB8n+NOj1rVd/T8KtD6ai1aXQWXmdh+BLJv9pon4//RW5rBCu588mAkNmg1PcZO4nYSbiST4SI=;vicFnNdZga4sbBl4EVgJSw=="
+secured: "0O07/RjdVlG5SnVGK1EOjYxQZltdxIOI9BuZJP6It87dJAC1ssBVnxmZhOrUpDNw9hjiM5rqSmmtvztVaQai32C6FlHF2vU3UnNCPX3QJ3M4js5C4YkKzAji4gGTVCJew+SLbIknWSoPLApnRTiRLOsJu/amd8QEY0q68+8l6dVqCsUSmvS53xq9mU1wIo3n1VK2RQjbi24Yzy/WLWPR/eO/HB+Mguot4rE8h+40DIPIFORZtf71zXKYcr4ksPXnyjEatuhrAKg2nzOgWGB7f7RamQQxQnE0Jgk+o52u9b9Tgo7GXEzfBeUAwYtf0gHZdCy5clCBKkqRcI+OQEQf3F498DzXShYgND8jBDpGBZtTotBbqtxVETSrGvxdkHFganqye7pz7TuWzYbs46g9pnpuqet4rz65u4VDIuuNFJ5TWMt2MSIOi4cSgYvaO5cn/qFGc1BOepDYecFWHTi84h4FkQUyui9rTmw2mrmJMJROMGw7P/E6PdyYeG4KSKuS8QnR+rFW76x+jtuPmGyt+w==;l1R7fiZohV/c6YXOq0gWjQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://healthitanalytics.com/news/amp/ai-prediction-tool-identifies
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/ai-prediction-tool-identifies-chemotherapy-drug-toxicity-risk"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 480
     height: 320
     isCached: true
-
-related:
-  - title: "Evaxion’s AI technology leads to identification of new viral targets for cancer immunotherapy"
-    excerpt: "Evaxion Biotech A/S has developed a new proprietary artificial intelligence (AI) platform technology, Observ, to identify a new source of targets for personalized cancer therapy, potentially enabling treatment for patients with cold tumors,"
-    publishedDateTime: 2023-03-24T00:00:00Z
-    webUrl: "https://www.bioworld.com/articles/695435-evaxions-ai-technology-leads-to-identification-of-new-viral-targets-for-cancer-immunotherapy"
-    type: article
-    provider:
-      name: BioWorld
-      domain: bioworld.com
-    quality: 43
-    images:
-      - url: "https://www.bioworld.com/ext/resources/Stock-images/AI/AI-digital-health.png?height=635&t=1588275743&width=1200"
-        width: 847
-        height: 635
-        isCached: true
 
 secured: "2MzM6bDqQbuR/afcASCqWGigz/uGkaoQpaBHr3a9XQ+tQvR8I/msdX/fMZcJsny3pBTqObpMIWWtDKd0vxbbmIY+sIbozldq7GPujfvRCeyEd/2bh7T7c8pLzRvC/WNDfGjkkQQOJXWQj6JW5j2Xtia9eCCA2H7UgcS5iUHsglPs0oyQXT5jDi5YfCbDxW/4CnZPdm7kpR1wAA4nEEqx3b8PuWb7MA/ng5V6WXy1DjfXGVzo/WueIJ9TERqoi2Vonz/ffFUS5XZcBsGjSZkeGsh240F5K141nt6GNimTBEs0CPQghJ7Tq4FE9jqXyI+2UaatSM4wtHEYmojlyoOfO6RA14QsRgGdioll9E8y5MTvRivs9R7bYTfeFJ36sqhfrv4l1hzFCztx1Dy8LCAOgNdIdvGyNr32mzR50OOmQDP6AsdepA8mihVDtdoJEQeHv480UC99RveFytud921HMMtX9oxQCk24uqC7tm7NithZK1GVXg2osZH+n3RXz6mvNfRjJPqSGf50JHgAvKYzwA==;pis3OyUQQE1Jwe5GB3jeVw=="
 ---

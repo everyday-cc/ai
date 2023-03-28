@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-28T15:32:00Z
 originalUrl: "https://www.theverge.com/2023/3/28/23659711/microsoft-security-copilot-gpt-4-ai-tool-features"
 webUrl: "https://www.theverge.com/2023/3/28/23659711/microsoft-security-copilot-gpt-4-ai-tool-features"
 type: article
-quality: 100
+quality: 102
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - AI
   - AI in Security
   - Microsoft AI
+  - AI Ethics
 
 images:
   - url: "https://cdn.vox-cdn.com/thumbor/5X0IGMLrTUsRnyo97W-GRqDZBiA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347781/STK095_Microsoft_03.jpg"

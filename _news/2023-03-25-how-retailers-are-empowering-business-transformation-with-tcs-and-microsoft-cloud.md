@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/465442/how-retailers-are-empowering-busi
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/465442/how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.html/amp/"
 type: article
 quality: 69
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -100,6 +100,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "QualityKiosk announces a strategic partnership with Microsoft Power Platform to empower customers to create efficient and flexible solutions"
+    excerpt: "QualityKiosk Technologies, one of the largest independent digital quality assurance specialists and a pioneer in providing intelligent automation solutions, is excited to announce its strategic partnership with the Microsoft Power Platform line of business."
+    publishedDateTime: 2023-03-28T17:35:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20230328/4055073.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "g9EZ0a0Pwg6zPlwhm2lshaY0IznPjx5k9I8X1/Io6uN+IaL1UuARlW2Ek9lWc5GRdskptXwF3amMNxEhGE2D6Rtm/c6VYFWHR0sIeJVN74SUreWxvUGr4m8dnSexQ8nHAjb25dpjLA9J/DFQQDfjGQAn7Rhuo/8qd9qJ5V4EwXcmuwhzs9Sdxv36rQUn7uv1hnbvK1TVu8ZS/mgjbTxQVtqI40uAet8dJCca6g3HJJ0dcXcngoSDmntbxXX8cVIH2MKaf5ZbJRpBS+G6iRqZBlrfc1ezC3LS3StOajMTbaeQJpOOReBqs1jEbY+wYJP43tFSHwbTp76hZCLIBVCNMGw9Zg0WBw4G+etUDunNgwUDEpJh3IMM01jF0rqFSDYw4zYmdKbcz8bYdlHdQ2sS6Us0/klaU4ZYpqyw1efrPCxTuwEnDLUHgfJEL3aNt2yy2Z7pjvyfPX+ZOdOs3XSQo7mEucfKKBLBpCLnL5YXcPY9QeIaNhsBDWNkI+2PQ9vIlsdV+CiGHZF8nNN+WNqsbA==;0cbGNKrG8l+XNwcILDhgZw=="
 ---

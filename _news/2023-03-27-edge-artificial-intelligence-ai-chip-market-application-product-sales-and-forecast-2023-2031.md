@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/edge-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-application-product-sales-and-forecast-2023-2031-2023-03-27"
 type: article
 quality: 105
-heat: 855
+heat: 895
 published: true
 
 provider:
@@ -91,6 +91,20 @@ related:
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2023 (The Expresswire) -- The \"AI Solutions for Healthcare Market\" Growth report for 2023 is a comprehensive study that provides valuable insights into the industry's ..."
     publishedDateTime: 2023-03-28T15:02:00Z
     webUrl: "https://www.marketwatch.com/press-release/ai-solutions-for-healthcare-market-2023-2028-future-updates-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Healthcare AI Market 2023 Size and Forecast to 2030"
+    excerpt: "Mar 28, 2023 (The Expresswire) -- Healthcare AI Marketinformation for each competitor includes (GENERAL ELECTRIC, IBM Watson Health, Intel Corporation, Next IT Corp, Google, DEEP GENOMICS, Koninklijke Philips N.V, General Vision, NVIDIA Corporation ..."
+    publishedDateTime: 2023-03-28T17:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-2023-size-and-forecast-to-2030-2023-03-28"
     type: article
     provider:
       name: MarketWatch
@@ -437,6 +451,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market 2023 Size and Forecast to 2030"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2023 (The Expresswire) -- Facial Recognition Marketinformation for each competitor includes (Safran SA, Cognitec Systems GmbH, Synaptics Inc., ASSA ABLOY AB,, Thales ..."
+    publishedDateTime: 2023-03-28T17:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-size-and-forecast-to-2030-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Latest \"Facial Recognition Market\" Size, Competitors and Forecast to 2031"
     excerpt: "Report Highlights with 98 pages: -\"The global Facial Recognition market size was valued at USD 4491.54 million in 2022"
     publishedDateTime: 2023-03-25T14:00:00Z
@@ -455,6 +483,20 @@ related:
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 25, 2023 (The Expresswire) -- The “Artificial Intelligence AI in Construction Market” [80 Pages] offers comprehensive analysis of both historical and future ..."
     publishedDateTime: 2023-03-25T22:41:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-latest-growth-research-by-top-players-2023-2028-2023-03-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Processor Chip Market 2023 (Exclusive Report) Includes Size, Share and Forecast Through 2030"
+    excerpt: "Mar 28, 2023 (Alliance News via COMTEX) -- Quadintel published a recovery-based report for Global Deep Learning Processor Chip Market that provides crucial details on company opportunities, growth plans, trends, innovations, the competitive landscape in ..."
+    publishedDateTime: 2023-03-28T15:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-processor-chip-market-2023-exclusive-report-includes-size-share-and-forecast-through-2030-2023-03-28"
     type: article
     provider:
       name: MarketWatch
@@ -938,6 +980,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 36
+  - title: "Artificial Intelligence in Agriculture Market Growth, Outlook, Share, Size, Segmentation Analysis, Revenue and Forecast 2023 to 2031"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2023 (Alliance News via COMTEX) -- Global Artificial Intelligence in Agriculture Market is valued at approximately USD 1.0 billion in 2020 and is anticipated to grow ..."
+    publishedDateTime: 2023-03-28T15:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-growth-outlook-share-size-segmentation-analysis-revenue-and-forecast-2023-to-2031-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Assistant Market Size, Revenue, and Forecast 2030"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2023 (The Expresswire) -- 360 Market Updates(360marketupdates.com) published a new research report on Voice Assistant Market 2023 with 101 Report Pages and enhance ..."
     publishedDateTime: 2023-03-28T13:28:00Z

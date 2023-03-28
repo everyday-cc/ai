@@ -7,8 +7,8 @@ originalUrl: "https://www.americanbanker.com/payments/news/buy-now-pay-later-fin
 webUrl: "https://www.americanbanker.com/payments/news/buy-now-pay-later-fintechs-lean-on-ai-to-survive-the-banking-crisis"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: American Banker
@@ -38,6 +38,20 @@ related:
       - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
         width: 1200
         height: 1200
+        isCached: true
+  - title: "For generative AI to thrive, fintechs must act responsibly"
+    excerpt: "ChatGPT has taken the world by storm, but crucial that fintechs take a responsible and ethical approach to its development and implementation."
+    publishedDateTime: 2023-03-28T07:35:00Z
+    webUrl: "https://www.altfi.com/article/10551_for-generative-ai-to-thrive-fintechs-must-act-responsibly"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 39
+    images:
+      - url: "https://www.altfi.com/images/ext/equifax-and-altfi-report-march-2023-mpu.png"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "p0/nl4mSWBRQOwhyfxaj3HDfL+V/9NVZjxDz6AYdIt6jPaKsGQz7if888cXzE3EqBptqUrt1Jzg7WQV7mgLiqNiY0OQrSQDQWZRxh6rVcWWkAQgxAhUX/Uk1sSre3aSRMJuXP7bGkWDzD/4niLfS3CbVzTjeyKUZyKzYafNTIrdFvM6OMdN6HgjqxCRd4QoeHP6rx2rAZZQbWilz2ObUiv+cRry07zCGG95hi8QkalrEFjQ257ZDvQVRznfpswcvAkVwV3hKtLsaoy5yi1Fep/6eoTnt4h+TKsHBs9wMastLjTSbeqdXnW7AO/I5Xpoe/OQcgpPwcP9F5icOzaZ1sdGFDj0bBy29KiTZUgTrae8=;Gmj3+kjeo3S9oJ2X2gZiVA=="

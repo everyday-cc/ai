@@ -95,7 +95,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 100
+    quality: 102
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/5X0IGMLrTUsRnyo97W-GRqDZBiA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347781/STK095_Microsoft_03.jpg"
         width: 1200
@@ -164,6 +164,6 @@ related:
         height: 574
         isCached: true
 
-secured: "zP11acy/WULJGZfoy7eqbON4tn9CtgI/0jnrM3HfNMp9AiIAMSzZU38s9ShLjY2bmLPCadiJNc0OA1g92gtNfnAhtso48yWVdvIVzICTXcdjnYGzMvd/6YkvK2v5zsKyUCsCJq1uqbn2KyD08sWTwUZWvn2F0dPkPkQ9Hw0dA327mUDJ/Jx5LtWFZky/Q1JL2xxo2LISqIO6VGEuYhPO2DjDmw8iCNT9VjvcQ76YmJZb1L+SqKRsCOcWSaJRXBroEk5+1kpeHxoU3WO6kTduRBJRmLuAEoxD8Hat6q+lPTNgQXwxwXD28Y0gq/g02Q2CFI7GiKACwpQ26HC2MZHakxeL6xd1UKL5uBAaGHujaCc=;p4x04GelcrFYiMy0F3fRbQ=="
+secured: "hAKMK5bMGSV3xy7OGT07CpVK3quYs7/dDSjeT5ZjP1qDA75hFTFmwCrStxngTjo4xMaTtw8kTN4wHojzDoeM2PDVE0eEBTmYfow3b+zzl1gTWgWLRPg1XX46I8CIiLJOzI0ueWgtl212FggkpfMYtxw5+MOggQ9kRJ+xuZ4xWVloNfhOAAncLjQuTGgCV2HEfSNSExOBplVSbBa4Aw+hmbmALTaBu4vhQap8YA5ftqOAkk2Zv2OrhL70i8Ugr2WwormQrNf3KOMqJqFGpepxH/MOHpbFPp+mZr38qCprzpSKHAey3xyULq3ytNxMEUcE6G9Uv/YXNTGPc9QsVm+BpABfJQYGId0F0E900sBDl0aUdIDS6v/ZG6q7ueKByOOeSpoqrGGhWIMstcdgecaAKS/cnM7EgnV4d4RENut6D3HiAhMaWZVrFs+uQ+T7Orvur26bK2U98wbRV5WUIPOsz0neGndCCMSyUa0UivSAgiB+dqa4FtRl2a6HQbcumBKjJNvRswOjWPbPPNquIkQChg==;4ivU39DKENZNb7H21+uA7g=="
 ---
 

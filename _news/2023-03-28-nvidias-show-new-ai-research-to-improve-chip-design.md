@@ -95,8 +95,8 @@ related:
         isCached: true
   - title: "Buy Nvidia Stock Because the Chip Maker Is an AI Play, Says Analyst"
     excerpt: "Bernstein is getting more bullish on demand for Nvidia semiconductors based upon the growth potential of artificial-intelligence training applications. On Tuesday, analyst Stacy Rasgon reiterated his Outperform rating for Nvidia stock (ticker: NVDA), and ..."
-    publishedDateTime: 2023-03-28T15:35:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-buy-ai-chip-2c81821f"
+    publishedDateTime: 2023-03-28T15:39:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-buy-ai-chip-2c81821f?refsec=technology"
     ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-buy-ai-chip-2c81821f"
     cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-buy-ai-chip-2c81821f"
     type: article

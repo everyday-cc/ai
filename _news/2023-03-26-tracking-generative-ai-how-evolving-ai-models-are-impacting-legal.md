@@ -25,38 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "There's No Such Thing as Artificial Intelligence"
-    excerpt: "According to its proponents, we will all live in the “metaverse,” build our financial infrastructure on “web3” and power our lives with “artificial intelligence.” All three of these terms are mirages that have raked in billions of dollars ..."
-    publishedDateTime: 2023-03-26T07:27:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2023-03-26/even-with-chat-gpt-4-there-s-no-such-thing-as-artificial-intelligence"
+  - title: "As Adobe Shows Its Generative AI Hand, Hollywood Grapples With Changing World"
+    excerpt: "Adobe joined the generative AI gold rush, announcing Firefly and other additions to its creative and marketing software tools. But for Oscar-winning screenwriter Aaron Sorkin and the Writers Guild of America,"
+    publishedDateTime: 2023-03-28T06:33:00Z
+    webUrl: "https://www.forbes.com/sites/dbloom/2023/03/28/as-adobe-shows-its-generative-ai-hand-hollywood-grapples-with-changing-world/"
+    ampWebUrl: "https://www.forbes.com/sites/dbloom/2023/03/28/as-adobe-shows-its-generative-ai-hand-hollywood-grapples-with-changing-world/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dbloom/2023/03/28/as-adobe-shows-its-generative-ai-hand-hollywood-grapples-with-changing-world/amp/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iU7LUSykyhPA/v1/1200x800.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/642280892f0c387d9de2d105/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "From brain waves, this AI can sketch what you're picturing"
-    excerpt: "Some experts say in the wrong hands, the AI model could be used for interrogations or surveillance. “I think the line is very thin between what could be empowering and oppressive,” said Nita Farahany, a Duke University professor of law and ethics in ..."
-    publishedDateTime: 2023-03-25T12:05:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/brain-waves-ai-can-sketch-picturing-rcna76096"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 49
-  - title: "AI Taking Flight in the U.S. Air Force"
-    excerpt: "Tesla is already moving to a full self-driving mode, and Waymo is preparing for new driverless prototypes ... became the first military aircraft to fly with artificial intelligence as its copilot. The copilot is named ARTUµ, the algorithm behind the ..."
-    publishedDateTime: 2023-03-27T18:12:00Z
-    webUrl: "https://www.nasdaq.com/articles/ai-taking-flight-in-the-u.s.-air-force"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
 
 secured: "1980jEITi9w2rwgm442YVEk22vHb/aotAh+FZylNlOqVLGaTOZi72dKUT6P+U/kusC1yeIAhpXZeQltO2CemytCSwEAD+vECEluM4JKAUfnYVSOBukF2VpxJcpnQM1wPwOnvE7lJ0gmCxnbX/ah4E9BvoqE9jDBeFCV4eeZQeO/Do29L4oD78HV+FQ0uI1UJoJP9ggKW7K5BAN12f77eSflgwOCFME5MzHU/qcn2cuasSFU0JlUb/QuKOYKw02tgSYxq/DP7j/myhKX1X3G4XID4fw827bXX+5nB8drBC6iUw71RNJtxPsYRw4fBfhKwUXwvB9jmgvwrkD/7TCtpqf7FDvqs2y5k55rbs16FFHFTLrLfbiLjMJv+JslusVvQ0wnuf6jDsh1EQfcCFdhdKP7CmDHoQ9IIxj5UyUj61wa4yj8lIQwy+EAzOzMrjBtITD4rj2z4TPzoClxnGRIY/o1fZqdg45PmMuhwjneZ2U5Xxl6wgQfGm8lrZYRhohR6no3tJ2ExkOpmBb2KpSdbfQ==;89/fx55XLUgySlWQZdVqMQ=="
 ---
