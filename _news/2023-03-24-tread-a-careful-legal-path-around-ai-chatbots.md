@@ -441,15 +441,6 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 20
-  - title: "Is ChatGPT Smart Enough To Practice Mental Health Therapy?"
-    excerpt: "Online therapy is a booming industry ... recently surveyed several dozen mental health experts and bot developers actively involved with artificial intelligence chatbot projects. Some respondents rejected the reliability of AI tools to replace human ..."
-    publishedDateTime: 2023-03-23T12:00:00Z
-    webUrl: "https://www.technewsworld.com/story/is-chatgpt-smart-enough-to-practice-mental-health-therapy-178064.html"
-    type: article
-    provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 19
   - title: "ChatGPT – Can this AI chatbot replace human jobs?"
     excerpt: "First things first, the debate should be on whether ChatGPT can replace job roles and not jobs. After it was launched in the market, we’ve already assessed its capabilities and at its present state, it is rightly triggering a debate on whether certain job roles are vulnerable to replacement."
     publishedDateTime: 2023-03-27T11:10:00Z

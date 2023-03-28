@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Leadership In The Age Of AI: How To Build Your AI Literacy"
+    excerpt: "Statistically speaking, your organization is likely already using artificial intelligence, and you probably have full-scale deployment of at least three AI applications. A recent survey revealed as much,"
+    publishedDateTime: 2023-03-27T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/27/leadership-in-the-age-of-ai-how-to-build-your-ai-literacy/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/27/leadership-in-the-age-of-ai-how-to-build-your-ai-literacy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/27/leadership-in-the-age-of-ai-how-to-build-your-ai-literacy/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641db2cbc8f7905940580d4a/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The Psychology of Artificial Intelligence"
     excerpt: "But what about two decades later? I posed the question earlier posed to participants now to the artificial intelligence software ChatGPT. Order the sensibility of the following three sentences: “after wading barefoot in the lake, Erik used his towel to ..."
     publishedDateTime: 2023-03-28T00:14:00Z
@@ -60,15 +76,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Chips industry goes all-in on Artificial Intelligence"
-    excerpt: "But an industry long associated with volatility is quietly getting excited that artificial intelligence (AI ... PCs and electric cars to sophisticated weaponry, robotics and all other high-tech machinery. AI already features heavily in all of these ..."
-    publishedDateTime: 2023-03-23T12:35:00Z
-    webUrl: "https://www.newindianexpress.com/business/2023/mar/23/chips-industry-goes-all-in-on-artificial-intelligence-2558797.html"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 19
 
 secured: "esfe/jniR3FoJvQLyXljl4Xyz06oGkSJoi0s/gaPl18UIH54lwyUVn8avcoOVd/kkRtYxtauSi7l9vaoaEpqudGvepWti0HEqQEu5Bdd8uyEMG+dJzhqYmzHsW4mJvowRtlc4BvOC0d1IbnJXksS9CSWlogwhggAQKDzZY5nA3n3dHi3NzQRK3iqqrDsuZXRCQoDCXr51Ph5friZTbJYxEGb1tH2ykx+BI30f4DJ48vwZ1IXxmubwWI99O5mVa39VKoZ9OQmBUsfbnCEZwerQKPfJZGQu37X0TQ04XZFPjjYkseV+cE5I9u2YZHbJYLMGObkr3BoAJIZ6bVy3nKYIQrcv3vjshVuMdWRR1JfPp+g+rzIFTWXzIUGFjWSyDKKi1/wn8N3F9Z2ycX+URKb5MMccdgsS5CZ0BtOExGMEJdwDMoUY/f+VG4OO35aWUnsLbvIfyqFUJe1BRXsHkPZQTuLng8sbi23dlaQ7JwQwyYBiSzE66rk0PRvfejh8c/Y4QEjf8G0vGGX4R62PcujZA==;P2w5pUtNz54W6ZOjB/yY1g=="
 ---

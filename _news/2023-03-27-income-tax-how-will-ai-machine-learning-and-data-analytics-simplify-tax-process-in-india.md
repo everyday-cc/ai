@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI and Big Data Analytics in Telecom Market Size and Forecast till 2031"
+    excerpt: "The \"AI and Big Data Analytics in Telecom Market\" study describes how the technology industry is evolving and how major"
+    publishedDateTime: 2023-03-27T16:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-size-and-forecast-till-2031-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Workplace Analytics and AI-Powered Skills-Mapping Platforms Named ISG Startup Challenge Winners"
     excerpt: "Technology platforms that facilitate collaboration and improved workplace experience and identify strengths and gaps"
     publishedDateTime: 2023-03-24T15:00:00Z
@@ -91,15 +105,6 @@ related:
         width: 620
         height: 377
         isCached: true
-  - title: "Grid Dynamics Achieves AWS Data & Analytics Competency Partner Status"
-    excerpt: "The AWS Data & Analytics Competency differentiates Grid Dynamics ... big data, analytics, search, artificial intelligence, cloud & DevOps, and application modernization. Grid Dynamics achieves high speed-to-market, quality, and efficiency by using ..."
-    publishedDateTime: 2023-03-23T12:52:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58635098-grid-dynamics-achieves-aws-data-analytics-competency-partner-status-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 19
   - title: "Workplace Analytics and AI-Powered Skills-Mapping Platforms Named ISG Startup Challenge Winners"
     excerpt: "Technology platforms that facilitate collaboration and improved workplace experience and identify strengths and gaps in workforce skills were voted the winners of ISG Startup Challenges at events hosted in London and New York by Information Services Group (ISG) (Nasdaq: III),"
     publishedDateTime: 2023-03-24T21:24:00Z

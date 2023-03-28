@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/03/23/characterai-valued-at-1-billion-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/23/characterai-valued-at-1-billion-after-150-million-round-from-a16z.html"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 5561
     height: 3707
     isCached: true
-
-related:
-  - title: "Character.AI raises $150 mn in VC funding led by Andreessen Horowitz"
-    excerpt: "Character.AI has raised $150 million in a new VC funding round led by Andreessen Horowitz that valued the AI chatbot startup at $1 billion. Character.AI is also in talks with cloud providers for more strategic investment, Reuters news report said."
-    publishedDateTime: 2023-03-23T12:46:00Z
-    webUrl: "https://infotechlead.com/tech/character-ai-raises-150-mn-in-vc-funding-led-by-andreessen-horowitz-77512"
-    type: article
-    provider:
-      name: infotechlead
-      domain: infotechlead.com
-    quality: 17
 
 secured: "UGNZAfA5n0zOarXK55jOtGaUEaglxLDMKkdv6WzU2OsO3YCMzPjdGNryI2ZIFeGp7pee7nnUT3NLjaTzVlhDr0ySeUeFhFz3P7y0l42ahb1Lu3LtLY2pwKID9qDRcsZ4l87rimZWuLmQQbVt9IdebJBxEBg0zym0nTR21JWwYFvwuF4n93I2wLeuCFwVy6bO0X2QqUl2EBrgUwPZQ4pgLQsyfznL02npoa6wyYQZA0gfSu55V10o2ZoDwxzJci/I4e/JgulofVk1/tkXHGUHXPXfmeFgNwEbidi5Xxcgebl1YQbTVKHcIS/wcR0yODtHL4ZB+83Cd/kFOX9M5EJD3XrTWNgIH3h7YpCpl8NTuD4=;cDI0seg4C6d/5etAiczLdQ=="
 ---

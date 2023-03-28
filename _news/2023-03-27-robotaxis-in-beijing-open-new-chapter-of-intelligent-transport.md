@@ -24,6 +24,22 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "Robotaxis ready for hire in Beijing"
+    excerpt: "The city granted licenses to operate fully driverless robotaxi services to Chinese tech ... It then processes and judges through artificial intelligence algorithms to achieve autonomous driving. The robotaxi is also expected to pave the way for the ..."
+    publishedDateTime: 2023-03-28T04:49:00Z
+    webUrl: "https://www.straitstimes.com/asia/east-asia/robotaxis-ready-for-hire-in-beijing"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 24
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/03/28/2023-02-24T091626Z1015371487RC2DHZ9J56USRTRMADP3CHINA-BAIDU-ROBOTAXI.JPG?VersionId=xo3pHYuQiOmQOUty79tJAc9w.pPV09LO"
+        width: 860
+        height: 573
+        isCached: true
+
 secured: "qxjVXr9UCWLO/W15V32fENFfp9Fwr4uQVKvzXY0FJt/N6AVVSLo5eQf/+LeW/im1fSolwYRj/Pa3DbHjcQ0CRpCKXDmIxQLmfowNMOVKUlmiYXzQJHRT/p2JOesHC2MMPV7xFvE8jEc9RgZZB2NUIH7ulOfNz2iV6BrL+n5VhIm/yIynu+RD2MqC7SVHhF3UxoKxzjRmRbKv7rPUrdfinazvcutyk+1uXomUFzPhKkXFxsGfDuDkoKxtm5eh3y2Rnk70mxKAt370eKPio/bTwIIQYTzS3KMz0yXLl62U+k2B44qeW7xdVarID4e6U4Bfv5Vf8/GdN8wiEFdX5U7aClwONrEujU4DCOG0C84R6xP31R/80Df+HM/Ng24Q9CHMOLwzmoOBXQyONsgPc3aMPjc1teNnWlT0Dz9+jBWWGc7ubEzbmdQpMCgTQHnfzTpLnnSR7ot8ib/F9E/qXkErRz5DZxWJDMjh9mcr9LnMYi4Tpev6gBwdtxHCYnBXqvgLHd3ontGIbf7DdQfEBDYFpg==;1iZU47tiCit3z4/de5tisQ=="
 ---
 

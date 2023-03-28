@@ -147,6 +147,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Apple Acquires AI-Driven Video Compression Startup Waveone"
+    excerpt: "San Francisco, March 28 (IANS) Apple has quietly acquired WaveOne, a California-based startup that develops AI algorithms for video compression. Although Apple did not announce the acquisition, Bob Stankosh, WaveOne's former head of sales and business ..."
+    publishedDateTime: 2023-03-28T04:41:00Z
+    webUrl: "https://menafn.com/1105877849/Apple-Acquires-AI-Driven-Video-Compression-Startup-Waveone"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2023-03/28/I_7e310image_story.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Vegas Bot AI starts Presale with the bang, users can secure revenue with their advanced AI-powered strategies"
     excerpt: "Vegas Bot AI, a revolutionary technology startup that aims to enhance customer interactions with businesses by developing a highly natural conversational experience, introduces the Vegas Bot AI Token Launch."
     publishedDateTime: 2023-03-23T22:31:00Z

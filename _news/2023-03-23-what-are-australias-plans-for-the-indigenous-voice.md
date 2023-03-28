@@ -57,6 +57,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Australia politics live: Labor MP says Coalition trying to ‘muddy the waters’ on Indigenous voice"
+    excerpt: "The other point to make is the voice can make representation, and that is what First Nations people asking for … They are also asking for recognition in our constitution but also asking to be consulted. Ultimately any decision on any policy matter is ..."
+    publishedDateTime: 2023-03-28T05:54:00Z
+    webUrl: "https://www.theguardian.com/australia-news/live/2023/mar/28/australia-politics-live-labor-anthony-albanese-housing-future-fund-senate-greens-pocock-nsw-election-minority-chris-minns-climate-gas-bandt-bowen-safeguard?page=with%3Ablock-64227db78f0893440cca2b33"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/mar/28/australia-politics-live-labor-anthony-albanese-housing-future-fund-senate-greens-pocock-nsw-election-minority-chris-minns-climate-gas-bandt-bowen-safeguard"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/mar/28/australia-politics-live-labor-anthony-albanese-housing-future-fund-senate-greens-pocock-nsw-election-minority-chris-minns-climate-gas-bandt-bowen-safeguard"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 31
+    images:
+      - url: "https://i.guim.co.uk/img/media/c2f8376cba09107d88a7d020647636dda49f1c51/0_58_5472_3283/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=ba3972900ca200d33a0070ca5a3270af"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Australian PM announces question for Indigenous Voice to Parliament referendum"
     excerpt: "Albanese was clear that the Voice would not have any form of veto power over the Government or legislation. Further, it was stated that the proposed changes would “enshrine two fundamental principles: Recognition and Consultation” within the Australian ..."
     publishedDateTime: 2023-03-23T13:21:00Z

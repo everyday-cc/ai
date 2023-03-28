@@ -27,20 +27,6 @@ images:
 related:
   - title: "PubMatic Partners with Proximic by Comscore, Giving Media Buyers Scalable, ID-less Targeting Solutions"
     excerpt: "They are powered by Proximic's industry-leading contextual natural language processing engine and intelligent categorization technology, allowing marketers and media companies to drive incremental reach and performance at scale without IDs. Data from ..."
-    publishedDateTime: 2023-03-23T11:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31471080/pubmatic-partners-with-proximic-by-comscore-giving-media-buyers-scalable-id-less-targeting-solutio"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 8
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "PubMatic Partners with Proximic by Comscore, Giving Media Buyers Scalable, ID-less Targeting Solutions"
-    excerpt: "They are powered by Proximic's industry-leading contextual natural language processing engine and intelligent categorization technology, allowing marketers and media companies to drive incremental reach and performance at scale without IDs. Data from ..."
     publishedDateTime: 2023-03-23T19:28:00Z
     webUrl: "https://it.tmcnet.com/news/2023/03/23/9782112.htm"
     type: article

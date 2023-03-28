@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/22/canva-new-features-including-suite
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/canva-new-features-including-suite-of-ai-powered-tools/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Canva introduces new AI-powered 'Magic' features including Magic Eraser, Beat Sync, more"
-    excerpt: "Canva has announced a new translate feature that will allow users to translate text on their design in more than 100 languages. The new Magic Eraser AI feature lets users erase a particular object or replace it with another. They can also give a ..."
-    publishedDateTime: 2023-03-23T11:25:00Z
-    webUrl: "https://www.businesstoday.in/technology/news/story/canva-introduces-new-ai-powered-magic-features-including-magic-eraser-beat-sync-more-374582-2023-03-23"
-    ampWebUrl: "https://www.businesstoday.in/amp/technology/news/story/canva-introduces-new-ai-powered-magic-features-including-magic-eraser-beat-sync-more-374582-2023-03-23"
-    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/technology/news/story/canva-introduces-new-ai-powered-magic-features-including-magic-eraser-beat-sync-more-374582-2023-03-23"
-    type: article
-    provider:
-      name: Business Today
-      domain: businesstoday.in
-    quality: 50
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202303/untitled_design_0-sixteen_nine.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Introducing a new era of AI-powered experiences in Dynamics 365 Business Central"
     excerpt: "Microsoft Dynamics 365 Business Central brings the power of AI to businesses with features that help companies perform better. Learn more."
     publishedDateTime: 2023-03-23T14:59:00Z

@@ -433,15 +433,6 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 20
-  - title: "Is ChatGPT Smart Enough To Practice Mental Health Therapy?"
-    excerpt: "Online therapy is a booming industry ... recently surveyed several dozen mental health experts and bot developers actively involved with artificial intelligence chatbot projects. Some respondents rejected the reliability of AI tools to replace human ..."
-    publishedDateTime: 2023-03-23T12:00:00Z
-    webUrl: "https://www.technewsworld.com/story/is-chatgpt-smart-enough-to-practice-mental-health-therapy-178064.html"
-    type: article
-    provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 19
   - title: "Tread a Careful Legal Path Around AI Chatbots"
     excerpt: "A company, which will remain nameless, recently contacted GlobeSt.com about a commercial real estate service that incorporated ChatGPT’s natural language processing. An interesting concept, but when asked about potential issues of copyright, the firm ..."
     publishedDateTime: 2023-03-24T11:52:00Z
@@ -497,6 +488,6 @@ related:
       domain: bizjournals.com
     quality: 8
 
-secured: "QKlX5af2VqDdZp2f2REOUa0LxBsHSL7jQ02g5JYrC7w/WhfQvhVfDxyDi/i/a1Y3zK5cD6vvozQR+MtGq6uEy/KNfrptzymNJHy48gOGOFo7kkQo1LUXFjaUSNiayj9wylQNXRAqRWS2gG2uBhOPslnrRgOl17qMWtooi5hcCj5lapkFgu+lZjd7f6lMbgMmwIuVAFrfMc7GNNtEJzfzyxJ3Hqsc5OW5GD3xhW6zJWuRRXx01c4PPfH9R0FoNjHqJ/0IPNCOnZoW+bCrtqv8ZqHLUN/XDVLK5UD1deAKTjFtdDKWG2ghD0gWgbFU7rifYS5B3OavDd6FMD8JFi0ra0ohU7Wez4KKDlc7b2ov8sY=;fRQ9xxhGnT/7pj4IUMB9Fg=="
+secured: "ukPi+Ro+4x75DDfIoxDdIkmRi2CX4yy4wCow3cldpl4j/TtROWtU0QCLDxyayr02By4G6sOD8dfloyvOox46uqkja/V5l2u2DVYVGWeuKwzTAURvGA42bOC6eH8MH63hvP0zmLZ7Aq8euJjRMrEKxytQ+NKkKqLIpkAhtQC6ttRi76Yu88DC2ewqIeTpZSeRkhAYh80P2Lx8VGmnNXpEMueeZKp7wVyUhCq8PPMzFvUS2cx4Y49hXT/ReuH0nnp/iowAeGNI2/VJDHOiq5WUGW6VWlGnzsaWXVetAOXPqaAkM/gFJplqNeARoNCL8lpNTs1sLrfAh2EfTpylkmuTgiEA4ASoFF+PHalafEsohpVMXW62l8Evwhld7jwRzLBz9sRrK9q0h7LVkLrgKrzrOU1cqwzDnhTFfrSRXcr1kBAhm3hMPx1BZLmcw2NYkZpUTW5tTDwYx8XtZ8Lj/ZtoWjZ3i0VQ9rIuZTq9+Ixyvdx+NAv0TBFmxLb8b+Mw62FQ/hpaqswUmd4y1mwBubNMjA==;YA3ie+o/43mUvCE7ow43+g=="
 ---
 

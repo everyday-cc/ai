@@ -252,20 +252,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market Size and Forecast till 2031"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- The \"Deep Learning Market\" study describes how the technology industry is evolving and how major and emerging players in the industry are ..."
-    publishedDateTime: 2023-03-23T11:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-and-forecast-till-2031-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Processor Market: Forecast for 2023-2027 with Emerging Technologies"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (The Expresswire) -- The \"AI Processor Market\" research report is a comprehensive study that provides valuable insights into the industry's growth potential ..."
     publishedDateTime: 2023-03-24T06:39:00Z
@@ -322,10 +308,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market 2023 Size and Forecast to 2030"
+    excerpt: "Artificial intelligence (AI), the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings. Artificial intelligence is technology that appears to emulate human performance typically by learning ..."
+    publishedDateTime: 2023-03-27T01:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2023-size-and-forecast-to-2030-2023-03-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Neural Network Market | Insights and Opportunities for 2023-2027"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 26, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The report also covers emerging trends and recent ..."
     publishedDateTime: 2023-03-27T05:04:00Z
     webUrl: "https://www.marketwatch.com/press-release/neural-network-market-insights-and-opportunities-for-2023-2027-2023-03-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market 2023: Growing Opportunities by 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- The global \"Facial Recognition Market\" research study presents an in-depth analysis of the market's revenue, size, and volume. It covers ..."
+    publishedDateTime: 2023-03-28T05:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-growing-opportunities-by-2028-2023-03-27"
     type: article
     provider:
       name: MarketWatch

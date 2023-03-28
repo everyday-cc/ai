@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Canva introduces new AI-powered 'Magic' features including Magic Eraser, Beat Sync, more"
-    excerpt: "Canva has announced a new translate feature that will allow users to translate text on their design in more than 100 languages. The new Magic Eraser AI feature lets users erase a particular object or replace it with another. They can also give a ..."
-    publishedDateTime: 2023-03-23T11:25:00Z
-    webUrl: "https://www.businesstoday.in/technology/news/story/canva-introduces-new-ai-powered-magic-features-including-magic-eraser-beat-sync-more-374582-2023-03-23"
-    ampWebUrl: "https://www.businesstoday.in/amp/technology/news/story/canva-introduces-new-ai-powered-magic-features-including-magic-eraser-beat-sync-more-374582-2023-03-23"
-    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/technology/news/story/canva-introduces-new-ai-powered-magic-features-including-magic-eraser-beat-sync-more-374582-2023-03-23"
-    type: article
-    provider:
-      name: Business Today
-      domain: businesstoday.in
-    quality: 50
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202303/untitled_design_0-sixteen_nine.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "XRuB6qe0X1x30RNqbvG2zlUbEbRaf4WyRUig1/86G4lL9W9B04IiyUaCC1jNqWczcEGSpUDY7zX7E4LEhY100agGfLJY3VPO8hQKYFznak+BPyULie88AEEyAyg8AVqkOBwB1MqsJpTQVyU+vZBb0tJq1vR8mwQXy/uFTQrGzzJTBiHqVHk3mNV09uqJj/2PayEerlz/ZjJLJX+JJMamHPuEzk1pyWz3WjrpyRAUtGKQl0vlSJfocCktlAW7QK1Ql0I9pFm6wNuMq9XheN3GwZENt4pLstmkfUQ+50TpPJufMCQsJHrI1vT2YL8K+JJGA8bartM0x2DLBAUJdyBB5VA6/Ci8CGIetq/EE5NOKeflAWUGdl8aTdRAOheQeOCIZs/jA7fxmM1ZWpF5LtF8f0Fs1gY4dIK9iVp1WwfWcHdn0SoDHD1UX/WInjmZ5rQkq99C+EuOu9ckagCpUQoRauly6WExYE1pOrYbDMO82DFZxTGnOUH3p/NQgHC9TEwuzyzwtcwD3h12jQs+bUVjqw==;J09gldchhZ7W1MitdN5STA=="
 ---

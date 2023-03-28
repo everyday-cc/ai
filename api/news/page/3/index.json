@@ -355,7 +355,7 @@
       "originalUrl": "https://www.cbsnews.com/atlanta/news/trump-arrested-putin-jailed-fake-ai-images-spread-online/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -386,7 +386,8 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -606,7 +607,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/03/24/how-ai-can-help-you-develop-emotional-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1141,7 +1142,7 @@
       "originalUrl": "https://www.zdnet.com/article/chatgpt-vs-bing-chat/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 449,
+      "heat": 439,
       "tags": null,
       "images": [
         {
