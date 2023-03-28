@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-28T13:00:00Z
 originalUrl: "https://www.forbes.com/sites/karlfreund/2023/03/28/cerebras-publishes-7-trained-generative-ai-models-to-open-source/"
 webUrl: "https://www.forbes.com/sites/karlfreund/2023/03/28/cerebras-publishes-7-trained-generative-ai-models-to-open-source/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes

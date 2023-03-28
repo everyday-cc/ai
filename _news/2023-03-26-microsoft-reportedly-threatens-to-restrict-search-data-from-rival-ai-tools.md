@@ -29,38 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Plans To Use AI To Solve A Huge Pain Point For Doctors"
-    excerpt: "Healthcare organizations use patient charts to code and bill for services provided. Documentation also acts as a record of the patient journey, which has become especially important in the growing landscape of healthcare litigation."
-    publishedDateTime: 2023-03-26T01:07:00Z
-    webUrl: "https://www.forbes.com/sites/saibala/2023/03/25/microsoft-plans-to-use-ai-to-solve-a-huge-pain-point-for-doctors/"
-    ampWebUrl: "https://www.forbes.com/sites/saibala/2023/03/25/microsoft-plans-to-use-ai-to-solve-a-huge-pain-point-for-doctors/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/03/25/microsoft-plans-to-use-ai-to-solve-a-huge-pain-point-for-doctors/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641f96ad5984a6dfc1580d4a/0x0.jpg?format=jpg&width=1200"
-        width: 1051
-        height: 700
-        isCached: true
-  - title: "Microsoft Teams takes off with AI-savvy Copilot integration"
-    excerpt: "Microsoft today announced a new version of Teams with AI-powered Copilot integration and notable speed and UX updates."
-    publishedDateTime: 2023-03-27T15:00:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-teams-takes-off-with-ai-savvy-copilot-integration/"
-    ampWebUrl: "https://venturebeat.com/ai/microsoft-teams-takes-off-with-ai-savvy-copilot-integration/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-teams-takes-off-with-ai-savvy-copilot-integration/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/02/microsoft-teams.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Better AI Stock: Microsoft vs. Nvidia"
     excerpt: "Microsoft has an early mover advantage in the generative AI market thanks to OpenAI and ChatGPT. Nvidia's dominance in GPUs and the importance of these chips in generative AI applications could help it remain a top AI stock. With a purported investment of ..."
     publishedDateTime: 2023-03-24T21:20:00Z
@@ -89,19 +57,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft, Google, Amazon Look to Generative AI to Lift Cloud Businesses"
-    excerpt: "The cloud providers are using the tech behind ChatGPT to heat up demand for their services."
-    publishedDateTime: 2023-03-27T08:31:00Z
-    webUrl: "https://www.wsj.com/articles/microsoft-google-amazon-look-to-generative-ai-to-lift-cloud-businesses-7159a43f"
+  - title: "Microsoft unveils plans to use AI feature in Outlook, Excel and more"
+    excerpt: "On the other hand, AI critics worry it will bring more harm ... and perform a wide range of language-related tasks such as language translation, text summarization [and] sentiment analysis.”"
+    publishedDateTime: 2023-03-24T14:10:00Z
+    webUrl: "https://wgntv.com/news/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/"
+    ampWebUrl: "https://wgntv.com/news/nexstar-media-wire/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/"
+    cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/nexstar-media-wire/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 83
+      name: WGN-TV
+      domain: wgntv.com
+    quality: 76
     images:
-      - url: "https://images.wsj.net/im-750908/social"
-        width: 1280
-        height: 640
+      - url: "https://wgntv.com/wp-content/uploads/sites/5/2023/03/computer-software-best-microsoft-365-products-1.jpg?w=1280"
+        width: 760
+        height: 500
         isCached: true
   - title: "Microsoft gains access to Open AI code base, trouble for Google?"
     excerpt: "Azure is Microsoft’s cloud computing service which will help developers build new AI systems by making OpenAI’s service models available to the market. Google retaliated recently with their AI offering Bard AI, a chatbot to compete with ChatGPT."
@@ -119,6 +89,38 @@ related:
         width: 675
         height: 448
         isCached: true
+  - title: "Buy Nvidia Stock Because the Chip Maker Is an AI Play, Says Analyst"
+    excerpt: "Bernstein is getting more bullish on demand for Nvidia semiconductors based upon the growth potential of artificial-intelligence training applications. On Tuesday, analyst Stacy Rasgon reiterated his Outperform rating for Nvidia stock (ticker: NVDA), and ..."
+    publishedDateTime: 2023-03-28T15:35:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-buy-ai-chip-2c81821f"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-buy-ai-chip-2c81821f"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-buy-ai-chip-2c81821f"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://images.barrons.com/im-752355/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Nvidia shows how AI can improve chip design"
+    excerpt: "Nvidia, the world’s leading designer of computer chips used in creating artificial intelligence, on Monday showed new research that explains how AI can be used to improve chip design. The process of designing a chip involves deciding where to place tens of billion of tiny on-off switches called transistors on a piece of silicon to create working chips."
+    publishedDateTime: 2023-03-28T05:32:00Z
+    webUrl: "https://techcentral.co.za/nvidia-shows-how-ai-can-improve-chip-design/223714/"
+    ampWebUrl: "https://techcentral.co.za/nvidia-shows-how-ai-can-improve-chip-design/223714/?amp=1"
+    cdnAmpWebUrl: "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/nvidia-shows-how-ai-can-improve-chip-design/223714/?amp=1"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 74
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2022/06/nvidia-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
   - title: "Amazon, Microsoft and Google's AI armies are huge, yet struggling to innovate"
     excerpt: "New data show Amazon, Microsoft and Google have thousands of AI specialists, but they’re still playing catch-up to a tiny team at OpenAI."
     publishedDateTime: 2023-03-27T17:47:00Z
@@ -135,22 +137,29 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "How retailers are empowering business transformation with TCS and Microsoft Cloud"
-    excerpt: "TCS specializes in AI-powered vision technologies like Microsoft Azure Percept to create ... portfolio of intellectual property using machine vision, conversational assistants, predictive analytics, machine learning, AI, and other capabilities on Microsoft ..."
-    publishedDateTime: 2023-03-24T20:08:00Z
-    webUrl: "https://www.cio.com/article/465442/how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.html"
-    ampWebUrl: "https://www.cio.com/article/465442/how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/465442/how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.html/amp/"
+  - title: "The US government wants to help you spot flaws in Microsoft cloud services"
+    excerpt: "The US government has built an open source tool to help security teams spot flaws in Microsoft cloud services easier. Built by the U.S. Cybersecurity & Infrastructure Security Agency (CISA ..."
+    publishedDateTime: 2023-03-24T20:10:00Z
+    webUrl: "https://www.techradar.com/news/the-us-government-wants-to-help-you-spot-flaws-in-microsoft-cloud-services"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 69
+      name: TechRadar
+      domain: techradar.com
+    quality: 67
     images:
-      - url: "https://www.cio.com/wp-content/uploads/2023/03/image-retail-custom-2-B4LLS.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
+      - url: "https://cdn.mos.cms.futurecdn.net/RXjTpHQERsFQaUFEMYn96f-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Google Partners with AI Startup Replit to Take on Microsoft’s GitHub"
+    excerpt: "Alphabet Inc.’s Google is striking a partnership to combine its artificial intelligence language models with software from startup Replit Inc. that helps ... will rely on Google’s language-generation AI to improve its ability to suggest blocks ..."
+    publishedDateTime: 2023-03-28T13:19:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-03-28/google-partners-with-ai-startup-replit-to-take-on-microsoft-s-github"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 64
   - title: "Microsoft just launched a Notion AI competitor called Loop. Here's how you can access it"
     excerpt: "Loop enables you to collaboratively create documents using any Microsoft Office application, like Outlook, Teams, or Word."
     publishedDateTime: 2023-03-24T21:23:00Z
@@ -199,33 +208,29 @@ related:
         width: 504
         height: 315
         isCached: true
-  - title: "GeekWire Podcast: Microsoft, OpenAI, and the AI opportunity for startups, with Neo CEO Ali Partovi"
-    excerpt: "Neo’s diverse team of employees and mentors has impacted its startup accelerator and venture portfolio, with 46% of its capital backing startups led by women or members of underrepresented groups. (Neo Photo) This week on the GeekWire Podcast: what AI me ..."
-    publishedDateTime: 2023-03-25T16:18:00Z
-    webUrl: "https://www.geekwire.com/2023/geekwire-podcast-openai-microsoft-and-the-ai-opportunity-for-startups-with-neo-ceo-ali-partovi/"
+  - title: "Microsoft Begins Adding Cloud PC Option"
+    excerpt: "Microsoft has been constantly working to bring changes and improvements to Windows 11 and the next generation of Windows, i.e. Windows 12, at the same"
+    publishedDateTime: 2023-03-24T16:56:00Z
+    webUrl: "https://www.techworm.net/2023/03/microsoft-begins-adding-cloud-pc-option.html"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 50
-  - title: "Improving ESG performance in financial services on Microsoft Cloud"
-    excerpt: "Overcoming data-related challenges will be key for banks and other financial institutions to make progress ... that produce environmentally friendly goods and services. Leadership teams are also learning that ESG initiatives can boost business performance."
-    publishedDateTime: 2023-03-24T19:14:00Z
-    webUrl: "https://www.cio.com/article/465423/improving-esg-performance-in-financial-services-on-microsoft-cloud.html"
+      name: techworm.net
+      domain: techworm.net
+    quality: 39
+    images:
+      - url: "https://www.techworm.net/wp-content/uploads/2023/03/Windows-11-Cloud-PC.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Nvidia’s show new AI research to improve chip design"
+    excerpt: "Nvidia’s reinforcement learning research introduced a second layer of AI to chip transistors for improved results. (Reuters pic) NEW YORK: Nvidia Corp, the world’s leading designer of computer chips used in creating artificial intelligence, on Monday ..."
+    publishedDateTime: 2023-03-28T03:38:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/03/28/nvidias-show-new-ai-research-to-improve-chip-design/"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 21
-  - title: "Microsoft Offers Private Preview for GitHub Copilot Chat for Visual Studio 2022"
-    excerpt: "Since its 2021 introduction, Microsoft and Microsoft-owned GitHub have been evolving the Copilot extension beyond code-completion capabilities to take advantage of new breakthroughs like natural language processing (NLP) tech that powers the sentient ..."
-    publishedDateTime: 2023-03-24T18:26:00Z
-    webUrl: "https://visualstudiomagazine.com/articles/2023/03/24/visual-studio-chat.aspx"
-    type: article
-    provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
-    quality: 17
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 34
 
 secured: "dy4gk7tDYbhKKMC9k+X2KVA9uyAdW+ENUTw3thy2Bp6scf1PM73SU6ZLtMjTIQH6d+0xiyBmXC9k8oqm4L30tqvfMibdcR48kjlUkZB3bB1PLjQfrnrTmEAu1MJjKDl9REBvHOlZPlrKKcZdT9zt8jOhgJSuCLKfcWs6xWiIQ/EdOLgOEs7FIscAZRl4jtM1l3VC5q7dqmu8Q+FWATttM8iakH+0stSiO0VRPE8exMvjSxgATGvPSyVkq5jBQzvYKFmh9QkV9mMNCP9zd23fPzaCba1YlSrla0HUfrqPcotJMHQEjaD6HLga73gnuGNjzvqZ7WGQxtMuKTSzsrM9dMMeVTt63MbrJ2V+yblEe2UDClUtjYigj9g+UfZFWGtMkm7G+3PEpSuFN9gaei9kFhuX2v5pNtTyH0NWPRKmf9LPpIi48hkYEqYT73mBvalpcet0zxWMGsj4eyJ7eu2x7mRn18D2EwFLBVAnyNc7jgKus+jZSHrJv2Itn7CKeo6anLCGmFEg1qhx0g0o2c+vFQ==;R264s3dk90xCvPV0fFyaow=="
 ---

@@ -41,21 +41,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-Driving Car Company Ouster Reports Sales Miss"
-    excerpt: "Lidar maker Ouster reported sales that fell short of Wall Street estimates, but the company just wrapped up its merger with Velodyne, making the past less relevant than what is coming in 2023 and beyond. Ouster (ticker: OUST) reported sales of $11 million ..."
-    publishedDateTime: 2023-03-23T21:36:00Z
-    webUrl: "https://www.barrons.com/articles/ouster-stock-price-earnings-28349e3b"
-    ampWebUrl: "https://www.barrons.com/amp/articles/ouster-stock-price-earnings-28349e3b"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ouster-stock-price-earnings-28349e3b"
+  - title: "ChatGPT, driverless trucks, robots and technology to change Australia but blue collar workers safe"
+    excerpt: "Dr Andrew Miller, who will address the Urban Development Institute's Congress in Perth on Tuesday, said artificial intelligence ... Belle A trial run of driverless trucks in Melbourne last ..."
+    publishedDateTime: 2023-03-26T09:47:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-11893039/amp/ChatGPT-driverless-trucks-robots-technology-change-Australia-blue-collar-workers-safe.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-11893039/amp/ChatGPT-driverless-trucks-robots-technology-change-Australia-blue-collar-workers-safe.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11893039/amp/ChatGPT-driverless-trucks-robots-technology-change-Australia-blue-collar-workers-safe.html"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 61
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 45
     images:
-      - url: "https://images.barrons.com/im-383342/social"
-        width: 1280
-        height: 640
+      - url: "https://i.dailymail.co.uk/1s/2023/03/23/04/69017629-0-image-a-22_1679546391085.jpg"
+        width: 636
+        height: 382
         isCached: true
   - title: "Millimeter Wave Radar for Self-Driving Car Market Business Overview 2023, and Forecast to 2030 | Robert Bosch, Denson, Hella"
     excerpt: "The report offers actionable and valuable market insights of Millimeter Wave Radar for Self-Driving Car Market. The"

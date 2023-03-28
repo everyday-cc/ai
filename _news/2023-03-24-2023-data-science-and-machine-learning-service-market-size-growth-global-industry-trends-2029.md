@@ -114,20 +114,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023 Mobile Speech Recognition Software Market Size, Growth | Global Industry Trends [2029]"
-    excerpt: "Mar 23, 2023 (The Expresswire) -- [115+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Mobile Speech Recognition Software Market” Size 2023 Key players ..."
-    publishedDateTime: 2023-03-23T22:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-mobile-speech-recognition-software-market-size-growth-global-industry-trends-2029-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence for Accounting Market | Global Various Tendencies Industry Report 2029"
     excerpt: "Businesses Across the Globe Expected to Do Better in 2023 Top “Artificial Intelligence for Accounting Market” Size 2023 Key players Profiled in the Report are [, IBM, Google, AWS, Kore.ai, Hyper Anna, Botkeeper, SMACC, Deloitte, YayPay, MindBridge ..."
     publishedDateTime: 2023-03-24T14:53:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-ai-in-the-enterpriseuse-cases--early-learnings/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://static.shareasale.com/image/113278/mia-banner-ad-6.jpg"
         width: 720
         height: 300
+        isCached: true
+  - title: "Collaborative machine learning startup FedML raises $6M to train, deploy and customize AI anywhere"
+    excerpt: "The startup has also signed 10 enterprise contracts spanning industries such as healthcare, financial services, retail, logistics, smart cities, Web3 and generative AI. Constellation Research Inc. Vice President and Principal Analyst Andy Thurai told ..."
+    publishedDateTime: 2023-03-28T13:02:00Z
+    webUrl: "https://siliconangle.com/2023/03/28/collaborative-machine-learning-startup-fedml-raises-6m-train-deploy-customize-ai-anywhere/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 55
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/0_3hy1w5rvyWCK_6Ef.png"
+        width: 1400
+        height: 785
         isCached: true
   - title: "How AI Is Changing The Future Of Creative Enterprise"
     excerpt: "AI tools that were once complex and time-consuming are now faster and more consumer-friendly. Soon, the line between \"professional\" and \"consumer\" software tools will blur as they merge and significantly impact business models."

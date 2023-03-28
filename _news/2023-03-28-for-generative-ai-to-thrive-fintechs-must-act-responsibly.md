@@ -89,6 +89,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How AI Is Integrating Into The Workforce"
+    excerpt: "Over the decades, automation has evolved from textile machinery, through programmable logic controllers and computer numerical control machines, to now include robotics and artificial ... As people start to use AI for more advanced work projects, they ..."
+    publishedDateTime: 2023-03-28T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/28/how-ai-is-integrating-into-the-workforce/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 51
   - title: "This generative AI tool actually teaches kids how to write"
     excerpt: "As ChatGPT threatens higher education, edtech startup Pressto is using AI to help kids learn to write. Tech world matriarch Esther Wojcicki is advising."
     publishedDateTime: 2023-03-26T05:00:00Z

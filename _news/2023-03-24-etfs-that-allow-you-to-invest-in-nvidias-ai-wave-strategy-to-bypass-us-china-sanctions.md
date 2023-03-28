@@ -25,65 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia shows how AI can improve chip design"
-    excerpt: "Nvidia, the world’s leading designer of computer chips used in creating artificial intelligence, on Monday showed new research that explains how AI can be used to improve chip design. The process of designing a chip involves deciding where to place tens of billion of tiny on-off switches called transistors on a piece of silicon to create working chips."
-    publishedDateTime: 2023-03-28T05:32:00Z
-    webUrl: "https://techcentral.co.za/nvidia-shows-how-ai-can-improve-chip-design/223714/"
-    ampWebUrl: "https://techcentral.co.za/nvidia-shows-how-ai-can-improve-chip-design/223714/?amp=1"
-    cdnAmpWebUrl: "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/nvidia-shows-how-ai-can-improve-chip-design/223714/?amp=1"
+  - title: "Nvidia Harnesses AI Power to Optimize Chip Design and Performance"
+    excerpt: "Nvidia has revealed new research demonstrating how AI can be utilized to optimize chip design. This groundbreaking research could potentially change the way chips are designed, ultimately leading to improved cost, speed, and power consumption for the ..."
+    publishedDateTime: 2023-03-28T13:58:00Z
+    webUrl: "https://www.gizmochina.com/2023/03/28/nvidia-harnesses-ai-power-to-optimize-chip-design-and-performance/"
     type: article
     provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 74
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 84
     images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2022/06/nvidia-1500-800.jpg"
-        width: 1500
-        height: 800
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/03/nvidia-harnesses-ai-power-to-optimize-chip-design-and-performance.jpeg"
+        width: 1098
+        height: 732
         isCached: true
-  - title: "The Dream Of Placing Blocks On Chip Designs With AI"
-    excerpt: "“This work demonstrates the effectiveness of combining GPU-accelerated placers with AI/ML multi-objective parameter optimization,” Agnesina and Ren wrote. “Furthermore, given the importance of scalability in modern chip design flows, we hope this ..."
-    publishedDateTime: 2023-03-27T19:50:00Z
-    webUrl: "https://www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/"
-    ampWebUrl: "https://www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/amp/"
+  - title: "Cryptocurrencies add nothing useful to society, says chip-maker Nvidia"
+    excerpt: "Tech chief says the development of chatbots is a more worthwhile use of processing power than crypto mining"
+    publishedDateTime: 2023-03-26T15:13:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 74
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
     images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2023/03/Nvidia-AutoDMP.jpg"
-        width: 1999
-        height: 1126
+      - url: "https://i.guim.co.uk/img/media/c1d4d5e50b04a1580bdaa1145b2dec10d47b8496/0_217_6520_3912/master/6520.jpg?width=620&quality=85&auto=format&fit=max&s=78bd8b0dece950e337e76dbba5a347a4"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Nvidia calls cryptocurrency useless for society, says its graphics cards are better used for AI"
-    excerpt: "Speaking to The Guardian, Nvidia Chief Technology Officer Micheal Kagan said that the processing power of the company's GPUs should be used for tasks more worthwhile"
-    publishedDateTime: 2023-03-27T10:16:00Z
-    webUrl: "https://techspot.com/news/98081-nvidia-calls-cryptocurrency-useless-society-gpus-better-used.html"
+  - title: "Cryptocurrencies add nothing useful to society, says chip-maker Nvidia"
+    excerpt: "Tech chief says the development of chatbots is a more worthwhile use of processing power than crypto mining"
+    publishedDateTime: 2023-03-26T19:13:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 57
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2018/11/2018-11-26-image-2.jpg"
-        width: 1800
-        height: 1200
-        isCached: true
-  - title: "AI Becoming More Prominent In Chip Design"
-    excerpt: "The good and bad of more data, and how AI can leverage that data to optimize designs and improve reliability. Semiconductor Engineering sat down to talk about the role of AI in managing data and improving designs,"
-    publishedDateTime: 2023-03-27T07:01:00Z
-    webUrl: "https://semiengineering.com/ai-becoming-more-prominent-in-chip-design/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 54
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/Black-Gold-AdobeStock_421176269-07-07-21-scaled.jpeg?fit=2560%2C1080&ssl=1"
-        width: 2560
-        height: 1080
+      - url: "https://i.guim.co.uk/img/media/c1d4d5e50b04a1580bdaa1145b2dec10d47b8496/0_217_6520_3912/master/6520.jpg?width=620&quality=85&auto=format&fit=max&s=78bd8b0dece950e337e76dbba5a347a4"
+        width: 620
+        height: 372
         isCached: true
   - title: "AI could be key to optimising chip design, Nvidia says"
     excerpt: "Nvidia Corp has released a paper showing how a combination of artificial intelligence (AI) techniques could find the best ways to place transistors on silicon chips. Nvidia Corp, the world's leading designer of computer chips used in AI, has shown new ..."
@@ -127,15 +113,15 @@ related:
         width: 600
         height: 316
         isCached: true
-  - title: "Nvidia’s show new AI research to improve chip design"
-    excerpt: "Nvidia’s reinforcement learning research introduced a second layer of AI to chip transistors for improved results. (Reuters pic) NEW YORK: Nvidia Corp, the world’s leading designer of computer chips used in creating artificial intelligence, on Monday ..."
-    publishedDateTime: 2023-03-28T03:38:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/03/28/nvidias-show-new-ai-research-to-improve-chip-design/"
+  - title: "Supermicro Expands GPU Solutions Portfolio with Deskside Liquid-Cooled AI Development Platform, Powered by NVIDIA"
+    excerpt: "enabling a wide range of AI development and workloads to be run at a deskside,\" said Charles Liang, president and CEO of Supermicro. \"This exciting new GPU system will also have a completely built-in liquid cooling system, allowing leading-edge CPUs and ..."
+    publishedDateTime: 2023-03-24T18:40:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1313996&cat=PR News Wire"
     type: article
     provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 34
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 13
 
 secured: "J8zDpRdikF4AMt3PtzEc/Jl1Iz6VQHhW++u4ugPVWSmkmQNWZZebTw/l32QOq+SO34vPYehXoWZD2WGyuTOqVCoHwCRFNOLXJq5uNl1Zpdnnz5TxNiClpVaEzIDqrkEcfE1rjFXwfy3Lo4sbiN7KT56ouaoL6YMPoTFiw55//iSV1vLwDmdRF9k6yn5tBc/MyqNFj62heH9/mipHLe46zCRygEnVr2UFXdoCJTabKkCkfXy4rSgj/fl1VsP48b6ofbf+7c4+iDto76JhesVXChGZMjCqRFIbzL/ccCsvKyxP378DdFUYeAvxMHYh7snAqgfgeLiZn9NeZDoP+HQD7kLF1Kmk0d0Hynbqlyk2ekA=;Bx4wRKeZcGZUMmMMZG4gwg=="
 ---

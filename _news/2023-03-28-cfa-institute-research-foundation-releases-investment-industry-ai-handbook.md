@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-28T13:00:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/cfa-institute-research-foundation-releases-investment-industry-ai-handbook-1032196869"
 webUrl: "https://markets.businessinsider.com/news/stocks/cfa-institute-research-foundation-releases-investment-industry-ai-handbook-1032196869"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Business Insider

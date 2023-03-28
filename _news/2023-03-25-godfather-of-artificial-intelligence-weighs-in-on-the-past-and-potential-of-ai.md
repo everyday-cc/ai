@@ -5,8 +5,10 @@ excerpt: "Artificial intelligence is more prevalent than ever, with OpenAI, Micr
 publishedDateTime: 2023-03-25T13:31:00Z
 originalUrl: "https://www.cbsnews.com/news/godfather-of-artificial-intelligence-weighs-in-on-the-past-and-potential-of-artificial-intelligence/"
 webUrl: "https://www.cbsnews.com/news/godfather-of-artificial-intelligence-weighs-in-on-the-past-and-potential-of-artificial-intelligence/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/godfather-of-artificial-intelligence-weighs-in-on-the-past-and-potential-of-artificial-intelligence/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/godfather-of-artificial-intelligence-weighs-in-on-the-past-and-potential-of-artificial-intelligence/"
 type: article
-quality: 27
+quality: 69
 heat: -1
 published: false
 
@@ -16,6 +18,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/03/25/2f4abaf1-2be1-4573-9b70-aeb0be95846a/thumbnail/1200x630/91165d82d72c65c7aceeeab050bb1c0d/0325-satmo-aimirman-silvabraga-1827095-640x360.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "What Investors Should Consider When Thinking About The Potential Of AI"
@@ -35,6 +44,6 @@ related:
         height: 848
         isCached: true
 
-secured: "FZbAyu+L0XDQTZJJFI7LHWrGD29L3F+/OpEiMgOCZ/Ap8didTe/gwbWEI1GbljKd6KfTjqkE2UITyeYjgxfDNiNk/Eicj03vewzAinnD8SPf+QpNSTL+Wy9aL6IewiGM5kokJg6052xPcQXhNx4bMryWPcW9qXTVxnnzAhfLBVLVbg99gC3w2QX+2zmYM2OsJ1Am4VeGimDXeZF0mYrG9QzZ9HvenmmzE62P/ZIndlepDHWJPKI1o4sqx0Xx5FqlKhhuhVgjpXRZ8rdVujnl6ayV3yA3zQVv9IhrrImQes1Y5VSszXcJAYwJzhAdlwJS0RlFzIwvIANoArIcM376PXiZNvuJ3blOLGeeSA4ALQJWOdi0sbOuCriP6AtyEF+KfOREWlkYubDyl2ANcsQuSBisFoNrmGOBKl8oXsmrch7GG3ldD1oQ3VuJ6nCyRRnjtRLxEIOaiUAvWnO0RHvIOvssFz7P5oyUtw2u5PON6IdAQhciAxVWmaWF1An9kfvt+RrWJ6MzUO1XFiHm5L7+Vw==;cXLllAEqRiymKO6MXKymBQ=="
+secured: "2Z/FMG4kAchVlsQFQ4OJPYmtl4qfoOuezVFn3Xa1FQhZLoYs/FVnACqkjIp4adxgP+04JiNKEwDt/P5TGyXQqYUTIb7MoH2Va63BPGGmLXrerPaY0sB6MsOWcdNgYheFQnn1Lw3r21V0ZI1FN094Dx/JS85WC/YtNweq90LlxBC4IGAXjG6apJWiGn1xJTb3Y11WdHJqluCVq5uYQcWD75ljpdV03sX7Fsrs0Z1sSNbzTZxDm6w5RFmH8V9DRrtgHJKL3kixmy4TeVlQurY86BPZLbjfyNXpV2oNDbCVYn8KazksgPdg966f6+VXh9/xaWPIwS2/lczYsTfJIverwJCOE2y8EEbybQO7KyUjRis=;h/uAeYgr5FeWOcTN45/Peg=="
 ---
 

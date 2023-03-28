@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT vs. Bing Chat: Which AI chatbot should you use?"
-    excerpt: "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ..."
-    publishedDateTime: 2023-03-23T21:58:00Z
-    webUrl: "https://www.zdnet.com/article/chatgpt-vs-bing-chat/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-vs-bing-chat/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-vs-bing-chat/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/e63ab95bd77e8d21991d7936a5538a8084aae9fe/2023/03/23/709c574b-b938-4c25-9c87-8728af5dfb4b/2022.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "5 ways OpenAI’s ChatGPT plugins could change the AI game | The AI Beat"
     excerpt: "While the rest of the world went about its business, I noodled about the implications of OpenAI’s latest ChatGPT chess move. You’ve likely heard by now that OpenAI unveiled plugins that link its conversational AI ChatGPT to the real world."
     publishedDateTime: 2023-03-27T19:22:00Z
@@ -56,6 +40,38 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "OpenAI's ambitious master plan to conquer rivals like Google in the AI race hinges on pure speed"
+    excerpt: "The chatbot kickstarted an avalanche of discussion around the future of work, AI ethics, and changing the dynamic of the tech workforce. This wasn't always the case. OpenAI was founded in 2015 by current CEO Sam Altman, Elon Musk, and others. Musk left the ..."
+    publishedDateTime: 2023-03-27T21:20:00Z
+    webUrl: "https://www.businessinsider.com/openai-secret-weapon-ai-race-google-is-speed-2023-3"
+    ampWebUrl: "https://www.businessinsider.com/openai-secret-weapon-ai-race-google-is-speed-2023-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-secret-weapon-ai-race-google-is-speed-2023-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
+    images:
+      - url: "https://i.insider.com/6421fe9a8c966b0019498dd8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "ChatGPT As A Platform Gets Bigger And Bolder As OpenAI Rolls Out Plugins For All Kinds Of Add-On Apps, Stewing Up AI Ethics And AI Law"
+    excerpt: "Voila, your software package suddenly can do all manner of Natural Language Processing (NLP). All told, this meant that the uses of ChatGPT could expand immensely. Firms that provide apps were thirstily lured to the ChatGPT API like a siren call."
+    publishedDateTime: 2023-03-25T11:02:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641e9f1ebcc461207e4ff60a/0x0.jpg?format=jpg&crop=2085,1173,x76,y10,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Adjust Your AI Startup Dreams About Using ChatGPT Because OpenAI Says There Are These Starkly Prohibited Uses, Per AI Ethics And AI Law"
     excerpt: "Into all of this comes a slew of AI Ethics and AI Law considerations. I’ll be interweaving AI Ethics and AI Law related considerations into this discussion. The Things That You Cannot Use ChatGPT For I’ll give you a quick guided tour of the things you ..."
     publishedDateTime: 2023-03-28T11:06:00Z
@@ -66,27 +82,25 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 72
+    quality: 74
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6421fbe4d81802b564e2d103/0x0.jpg?format=jpg&crop=2118,1413,x0,y145,safe&width=1200"
         width: 1200
         height: 801
         isCached: true
-  - title: "A 16-Month-Old Chatbot Startup With No Revenue Is Now a $1 Billion Unicorn"
-    excerpt: "A 16-month-old chatbot startup is now a $1 billion unicorn. Character.AI, a Silicon Valley company started by two former Google employees, said Thursday it raised $150 million in a new funding round led by well-known venture-capital firm Andreessen Horowitz."
-    publishedDateTime: 2023-03-23T20:58:00Z
-    webUrl: "https://www.wsj.com/articles/a-16-month-old-chatbot-startup-character-ai-is-now-a-1-billion-unicorn-97aa194f?mod=tech_lead_pos6"
-    ampWebUrl: "https://www.wsj.com/amp/articles/a-16-month-old-chatbot-startup-character-ai-is-now-a-1-billion-unicorn-97aa194f"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/a-16-month-old-chatbot-startup-character-ai-is-now-a-1-billion-unicorn-97aa194f"
+  - title: "AI computing startup Cerebras releases open source ChatGPT-like models"
+    excerpt: "Startup Cerebras System's new AI supercomputer Andromeda is seen at a data center in Santa Clara, California, U.S. October 2022. Rebecca Lewington/Cerebras Systems/Handout via REUTERS OAKLAND, California, March 28 (Reuters) - Artificial intelligence chip ..."
+    publishedDateTime: 2023-03-28T13:15:00Z
+    webUrl: "https://www.reuters.com/technology/ai-computing-startup-cerebras-releases-open-source-chatgpt-like-models-2023-03-28/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 70
+      name: Reuters
+      domain: reuters.com
+    quality: 69
     images:
-      - url: "https://images.wsj.net/im-749471/social"
-        width: 1280
-        height: 640
+      - url: "https://www.reuters.com/resizer/X6BvTKg1qgtNP1KK2SsEO00zaJM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WYSQLIVVLRILDAPGVO3O6B37DI.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Creators Shouldn't Overlook These Powerful Uses for AI Like ChatGPT"
     excerpt: "Artificial intelligence is all the creator economy seems to be talking ... meaningful outcomes than clicks and views could undo decades of progress in corporate ethics and responsibility. In the past, business leaders were considered solely responsible ..."
@@ -102,19 +116,21 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Nine AI Chatbots You Can Play With Right Now"
-    excerpt: "“As an AI language model, I don’t have the physical characteristics ... vanilla creme filling with a touch of extra brain power in the form of chocolate chips or another ingredient that represents knowledge and intelligence.” Fun!"
-    publishedDateTime: 2023-03-27T21:56:00Z
-    webUrl: "https://www.theatlantic.com/technology/archive/2023/03/chatgpt-generative-ai-chatbots-bing-google-bard/673533/"
+  - title: "Can ChatGPT versions make its way in healthcare and research?- Ft. Dr. Raju Vaishya"
+    excerpt: "Medical information and healthcare have also gained an ample amount of importance in the tech world. Recently, OpenAI Inc. launched a new chatbot, called ChatGPT that interacts in a conversational way and its dialogue format makes it user-friendly and fast."
+    publishedDateTime: 2023-03-28T03:29:00Z
+    webUrl: "https://medicaldialogues.in/mdtv/medicine/videos/can-chatgpt-versions-make-its-way-in-healthcare-and-research-ft-dr-raju-vaishya-109087"
+    ampWebUrl: "https://medicaldialogues.in/amp/mdtv/medicine/videos/can-chatgpt-versions-make-its-way-in-healthcare-and-research-ft-dr-raju-vaishya-109087"
+    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/mdtv/medicine/videos/can-chatgpt-versions-make-its-way-in-healthcare-and-research-ft-dr-raju-vaishya-109087"
     type: article
     provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 69
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 68
     images:
-      - url: "https://cdn.theatlantic.com/thumbor/Z3BPrDp4DkR14Qofe0L19FO_inQ=/0x41:1917x1039/1200x625/media/img/mt/2023/03/AI_Chatbot_still/original.jpg"
-        width: 1200
-        height: 625
+      - url: "https://medicaldialogues.in/h-upload/2023/03/27/206163-why-sudden-increase-in-melioidosis-cases-in-india-1500-900px.jpg"
+        width: 1500
+        height: 900
         isCached: true
   - title: "AI chatbots compared: Bard vs. Bing vs. ChatGPT"
     excerpt: "Anyway, all that aside, let’s start with seeing how the chatbots fare in what should ... but I’d like to have seen the BIOS changes or dual-channel parts picked up properly. If AI chatbots aren’t factually reliable (and they’re not), then they ..."
@@ -160,22 +176,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "How to use ChatGPT and other generative AI for business and in life"
-    excerpt: "New AI language models are garnering a lot of interest ... ChatGPT can even help you with translation. - It can assist you in writing essays or long-form copy. - You can have a pleasant conversation with ChatGPT. - You can also use it to play games."
-    publishedDateTime: 2023-03-26T09:21:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/features/how-to-use-chatgpt-and-other-generative-ai-for-business-and-in-life-10313271.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/features/how-to-use-chatgpt-and-other-generative-ai-for-business-and-in-life-10313271.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/features/how-to-use-chatgpt-and-other-generative-ai-for-business-and-in-life-10313271.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/03/396571328.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Can ChatGPT Change the Face of Healthcare?"
     excerpt: "regulations must be put in place to ensure no inaccuracies are made Many are still reluctant about the role of artificial intelligence (AI) in our lives, but it might be time to accept that AI has the power to transform healthcare. Obviously, AI can't ..."
     publishedDateTime: 2023-03-28T11:37:00Z
@@ -205,22 +205,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/PU2t7kMJ9SFBTJYerGD8ve-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "You wait ages for an AI chatbot to come along, then a whole bunch turn up. Why?"
-    excerpt: "The fact that ChatGPT isn’t the only machine-learning program out there is down to the way in which tech breakthroughs arise"
-    publishedDateTime: 2023-03-25T20:34:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/mar/25/you-wait-ages-for-an-ai-chatbot-to-come-along-then-a-whole-bunch-turn-up-chatgpt"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/mar/25/you-wait-ages-for-an-ai-chatbot-to-come-along-then-a-whole-bunch-turn-up-chatgpt"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/mar/25/you-wait-ages-for-an-ai-chatbot-to-come-along-then-a-whole-bunch-turn-up-chatgpt"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 53
-    images:
-      - url: "https://i.guim.co.uk/img/media/627962723bc07f627f6aba673483b3007ea10485/0_201_5717_3430/master/5717.jpg?width=620&quality=85&auto=format&fit=max&s=9ad313080aa74f8c8c2c1bc82cbe0ac8"
-        width: 620
-        height: 372
         isCached: true
   - title: "Retro Chatbot: ChatGPT comes to MS-DOS with new AI client"
     excerpt: "In this case, he turned his attention to MS-DOS, a text-only operating system first released in 1981, and ChatGPT, an AI-powered large language model (LLM ... proxy that can run on a modern computer and translate the requests and responses between the ..."
@@ -277,18 +261,18 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "a16z Leads $150M Series A Round in Chatbot Startup Character AI"
-    excerpt: "Venture capitalist firms are always on the lookout for the next big thing, and Andreessen Horowitz is no exception. They recently announced an investment in Character AI, a software development company,"
-    publishedDateTime: 2023-03-23T23:43:00Z
-    webUrl: "https://decrypt.co/news-explorer?pinned=137644&title=a16z-leads-150m-series-a-round-in-chatbot-startup-character-ai"
+  - title: "The Promise and Peril of OpenAI and Chat GPT"
+    excerpt: "It is quite possible that 2023 will be “the year of artificial intelligence.” It seems impossible to scan the news without encountering an article either extolling the advantages generative artificial intelligence models or raising concerns about its misuse."
+    publishedDateTime: 2023-03-27T13:42:00Z
+    webUrl: "https://www.law.com/newyorklawjournal/2023/03/27/the-promise-and-peril-of-openai-and-chat-gpt/"
     type: article
     provider:
-      name: decrypt
-      domain: decrypt.co
-    quality: 37
+      name: Law
+      domain: law.com
+    quality: 39
     images:
-      - url: "https://cdn.decrypt.co/wp-content/uploads/2022/12/Artificial-Intelligence-gID_2.png"
-        width: 1600
+      - url: "https://images.law.com/contrib/content/uploads/sites/389/2023/03/LANZA.jpg"
+        width: 1062
         height: 900
         isCached: true
   - title: "Codie.ai, first consultative AI assistant based on OpenAI ChatGPT"
@@ -321,59 +305,6 @@ related:
         width: 1920
         height: 1451
         isCached: true
-  - title: "Man says he formed romantic attachment with AI chatbot — and he's not alone"
-    excerpt: "ABC News' Ashan Singh sits down with one of the 2 million users of Replika, a conversational chatbot program that is quickly gaining traction online."
-    publishedDateTime: 2023-03-24T11:47:00Z
-    webUrl: "https://abcnews.go.com/Nightline/video/man-formed-romantic-attachment-ai-chatbot-98094006"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 35
-    images:
-      - url: "https://s.abcnews.com/images/Nightline/230324_ntl_artificial_intelligence_1254_hpMain_16x9_608.jpg"
-        width: 608
-        height: 342
-        isCached: true
-  - title: "Paper written using ChatGPT demonstrates opportunities and challenges of AI in academia"
-    excerpt: "ChatGPT has the potential to create increasing and exciting opportunities—but also poses significant challenges—for the academic community, according to an innovative study written in large part using the software."
-    publishedDateTime: 2023-03-23T20:19:00Z
-    webUrl: "https://phys.org/news/2023-03-paper-written-chatgpt-opportunities-ai.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 29
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/paper-written-using-ch.jpg"
-        width: 1719
-        height: 872
-        isCached: true
-  - title: "ChatGPT: tool or weapon?"
-    excerpt: "There is ChatGPT or GPT-4, but what is GPT anyway? GPT stands for Generative Pre-trained Transformer a program which has the ability to perform natural language processing tasks, such as answering questions, summarizing texts and making term papers!"
-    publishedDateTime: 2023-03-27T09:47:00Z
-    webUrl: "https://www.bworldonline.com/opinion/2023/03/27/513146/chatgpt-tool-or-weapon/"
-    ampWebUrl: "https://www.bworldonline.com/opinion/2023/03/27/513146/chatgpt-tool-or-weapon/?amp"
-    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/opinion/2023/03/27/513146/chatgpt-tool-or-weapon/?amp"
-    type: article
-    provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 24
-  - title: "Here’s How Nvidia Is Powering The ChatGPT Frenzy"
-    excerpt: "ChatGPT owes a large part of its capabilities to the powerful computing hardware developed by Nvidia. In this article, we'll"
-    publishedDateTime: 2023-03-27T11:40:00Z
-    webUrl: "https://www.techbooky.com/heres-how-nvidia-is-powering-the-chatgpt-frenzy/"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 24
-    images:
-      - url: "https://i0.wp.com/www.techbooky.com/wp-content/uploads/2023/03/chatgpt-nvidia.webp?fit=1600%2C900&ssl=1"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Tencent plans to rollout WeChat Chatbot Similar to ChatGPT, but says not in a rush to be the first"
     excerpt: "Tencent’s Chatbot is called ‘HunyuanAide’. The chatbot will use the Tencent Hunyuan AI model which has the capacity for natural language processing, multimodal content understanding, computer vision, content creation, and more. Hunyuan AI gives ..."
     publishedDateTime: 2023-03-24T12:29:00Z
@@ -383,15 +314,6 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 20
-  - title: "Tread a Careful Legal Path Around AI Chatbots"
-    excerpt: "A company, which will remain nameless, recently contacted GlobeSt.com about a commercial real estate service that incorporated ChatGPT’s natural language processing. An interesting concept, but when asked about potential issues of copyright, the firm ..."
-    publishedDateTime: 2023-03-24T11:52:00Z
-    webUrl: "https://www.globest.com/2023/03/24/tread-a-careful-legal-path-around-ai-chatbots/"
-    type: article
-    provider:
-      name: GlobeSt.com
-      domain: globest.com
-    quality: 19
   - title: "ChatGPT – Can this AI chatbot replace human jobs?"
     excerpt: "First things first, the debate should be on whether ChatGPT can replace job roles and not jobs. After it was launched in the market, we’ve already assessed its capabilities and at its present state, it is rightly triggering a debate on whether certain job roles are vulnerable to replacement."
     publishedDateTime: 2023-03-27T11:10:00Z
@@ -428,15 +350,15 @@ related:
       name: The Indian Express
       domain: indianexpress.com
     quality: 8
-  - title: "Here's why Character.AI chatbot founders say this week's unicorn funding is just a start"
-    excerpt: "Running this type of AI can be expensive and, while you just raised a very large ... Clearly people love what we have to offer and that will help us start to monetize this in the not-too-distant future. Noam: Our first option is to monetize through ..."
-    publishedDateTime: 2023-03-24T22:21:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/03/24/q-a-interview-with-characterai-founders.html"
+  - title: "AI News roundup: OpenAI adds plugin support to ChatGPT, Mozilla opens new AI startup and more"
+    excerpt: "The AI chatbot became popular in just a matter of weeks — way ... Invite your friends and family to sign up for MC Tech 3, our daily newsletter that breaks down the biggest tech and startup stories of the day"
+    publishedDateTime: 2023-03-24T13:32:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-openai-adds-plugin-support-to-chatgpt-mozilla-opens-new-ai-startup-and-more-10307071.html"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 8
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 6
 
 secured: "m2WZ8EW49thO4D469nN8Cb1QuvuWN9+20gyX3r/oLKleI1RUxBbFsrMJ4XLdmmkocfeY9ZJtEzARPCvsVfg7n55JJD3mdVEAd2smCW35obfMa0Yq/a8ASwh+YtwSSIYx9zJMCSF6+sw88Rfbvfml6n31WmgJTx8JOX+Ax7+SMKPAbSfeRsDMFgoYUNKc9148OULe9he3chmtS3rWoG/RjbB03ZhCNqz1jF7/JeqcMrZA8gJLplJB/o85HcjdARFQGkfAl7iLTxKnNDkSipe6V7yUIzmQ5KEO8HWKlxXnawLc5akaiz2p+JhzeT62kbZ6eMX+NYWZXQY6p0rPuL2NRtEzbj1bNQCwY/golm8k5p8=;sogjqZJX4zjh5/X4oF4XJg=="
 ---

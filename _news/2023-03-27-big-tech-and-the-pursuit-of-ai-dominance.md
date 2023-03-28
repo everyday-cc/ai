@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Why Oblivion's NPC Rampage Matters For The Future Of AI Development"
-    excerpt: "We're in the early days of widely accessible, large language model-trained AI and this level of public exposure has led to a lot of questions and concerns being raised about the technology, the ethics around it, and its potential impact on humanity."
-    publishedDateTime: 2023-03-23T20:28:00Z
-    webUrl: "https://www.slashgear.com/1237314/why-oblivions-npc-rampage-matters-for-the-future-of-ai-development/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 69
-    images:
-      - url: "https://www.slashgear.com/img/gallery/why-oblivions-npc-rampage-matters-for-the-future-of-ai-development/l-intro-1679602246.jpg"
-        width: 1600
-        height: 902
-        isCached: true
   - title: "UT preps students for the future of artificial intelligence"
     excerpt: "KNOXVILLE, Tenn. (WATE) — The University of Tennessee has partnered with the AI Education Project in a call to action for advanced AI literacy. The initiative is focused on connecting K-12 students with education innovations that align with 21st-century ..."
     publishedDateTime: 2023-03-24T03:00:00Z

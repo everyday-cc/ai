@@ -9,7 +9,7 @@ ampWebUrl: "https://appleinsider.com/articles/23/03/24/publishers-demand-to-be-p
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/03/24/publishers-demand-to-be-paid-for-ai-using-their-work/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Google’s fledgling Bard AI is already being tested inside the company’s Messages app for Android"
-    excerpt: "Google’s new Bard AI is designed to be a helpful and informative companion for anyone who wants to learn more about the world around them or get things done. It can be used to answer questions, generate creative content,"
-    publishedDateTime: 2023-03-23T19:54:00Z
-    webUrl: "https://chromeunboxed.com/google-messages-bard-ai-integration"
-    type: article
-    provider:
-      name: chromeunboxed.com
-      domain: chromeunboxed.com
-    quality: 6
 
 secured: "GWLDxJhuPuQNH2Ii9nkkTQKuU76d0Qekfk8BcrGWm04UkUKNyRYYso+2e+TAwt//3kajyQgXocZRHQ6dzPg0PHFZQEV3CobWIaTaESZcNC97o9mn5/H5QeRbIKcmx9iWK1tqAMoTuLr39i+1238jizSjtOIwUOYeSN9v3jrNseCsvfS+VLFawDp+8lwxMzxVCUI740XhxICkk2HqRGwM2dCrwwI1ZWRL6m2U2K0Ghs2S+rXRxq4poywMIQf7ditRqCHh+O/ZiG6OcBWRooThxLO/p514AfkrA1MDxWZ535Wt10olNs7cUDmM+XynxpoRsgaXnzITkbna3gFxfM9an0nmXjDQUtSrDMlT5nq18TOGGLU3JNed6d4iO8htgdmf8b3cZ4dfoReaJoIFcD6kofmjAMZefWHazrtVMlfAS49n9gq2DZe80IEgjmJzrwqFmTUF+k9ZDAIXC76cmrPEdM6RxVKvRBC9s2bPVC3yCMRHWbaKHf3RHAgxPNVn0O9ugMS4ky3nPziZ8JHNBGPGDw==;QuHENd+PMJADVnWbDLYDyw=="
 ---

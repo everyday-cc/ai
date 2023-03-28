@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023 Healthcare Artificial Intelligence (AI) Market Size, Growth | Global Industry Trends [2029]"
-    excerpt: "Mar 23, 2023 (The Expresswire) -- [118+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Healthcare Artificial Intelligence (AI) Market” Size 2023 Key players ..."
-    publishedDateTime: 2023-03-23T20:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-healthcare-artificial-intelligence-ai-market-size-growth-global-industry-trends-2029-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 88
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing (NLP) Market to Eyewitness Massive Growth 2023"
     excerpt: "Natural Language Processing (NLP) Market Size 2023 | New Report (102 Pages) | Information Technology | In This"
     publishedDateTime: 2023-03-27T04:02:00Z
@@ -114,6 +100,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural language processing (NLP) Market Analysis Geography Trends, Demand and Forecasts 2030| Apple Incorporation, Dolbey Systems, Google"
+    excerpt: "Mar 28, 2023 (Heraldkeepers) -- New Jersey, United State: Infinity Business Insights has announced the release of its latest report on Natural language processing (NLP) Market. It provides an in-depth analysis of the drivers, restraints, market dynamics ..."
+    publishedDateTime: 2023-03-28T12:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-geography-trends-demand-and-forecasts-2030-apple-incorporation-dolbey-systems-google-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
 
 secured: "Dsv/obW3p+yhvQRwfPKjxk4vNtFhUMbcD/9wVtgWVjy54u9PeFWuaLxmIGqctHrn/wajyp1rNv/ryYZfzco/UACqgbnmksGeosKOecr2YVV0t2KMp676sGD4yWZpI/v0bxenjBjO1FFMKzNp04Jb7/FtkWMSzHRYGm3hGdc2uVltyrHUC5v/CS3Ka4RWBjWEVyT3xV9IhtzIyCH34C1gMknVwUSb1KRSqYT3rJqaeS13i4Cf36XX5rHRnMRkjqUYGPPcc8O0fCd85IHfn0/32Qqb8MZkEMLpQz9yOiU50jcVtL+62VirzNMBM3/Sf3/PcF7/GcOUt8TyEBz1aiSe6xdfx31NjEGekEIF4NvjyMY=;h3Co2x0U5aSfdxUs4Eywtw=="
 ---

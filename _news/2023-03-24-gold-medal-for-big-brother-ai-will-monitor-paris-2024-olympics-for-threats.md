@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/gold-medal-for-big-brother-ai-will-moni
 webUrl: "https://www.pcmag.com/news/gold-medal-for-big-brother-ai-will-monitor-paris-2024-olympics-for-threats"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: PC Magazine
@@ -26,17 +26,6 @@ images:
     width: 1120
     height: 630
     isCached: true
-
-related:
-  - title: "France looks to AI-powered surveillance to secure Olympics"
-    excerpt: "France's National Assembly on Thursday approved the use of Artificial Intelligence (AI) video surveillance during the 2024 Paris Olympics, overlooking warnings from civil rights groups that the technology posed a threat to civil liberties."
-    publishedDateTime: 2023-03-23T19:55:00Z
-    webUrl: "https://www.reuters.com/technology/france-looks-ai-powered-surveillance-secure-olympics-2023-03-23/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
 
 secured: "8jZSBdFcB9xHsxFlo7yfN3A3dbmZ50OPd1wWGoYOlYo0XWgDORnYiyjMz2AbfJIQRj1G8m+fxxhhMN4IQl1cCOT+v2Fsum9mDuQv13eGeBquv3G3Z3SWEgtYJytkiL9q6j97Mfgy6ctkZeqcRBaJhCjhjYxqD7mrx8ZPSdUDKgG1kHEow38hfDH0PmRo38hfYbKYuPV+e8H+iYDD9ChfLIQ+uelGcshh7mjOwj+Vs90xvHTaMrYSBtS++hNG5AFAYlY08/tSF9+ddmPkLWIXP3mS07VzguYPvWqQG9qwW/k/VrOUv89UlieWDTd9BlIrtD+CmHwFxHSPCEBO8vnh2rEjybMEVmPLWGnI5I7oVAom0EgI+wIE/xo8Nh01qx4BgTqgxihT2t9tlfNB2+w+CXw25c4oA0LcY0flR5qgvRexV/SJE8eYW4S91F8j1yQPJIxrTLCHNHn+H+b0xCWKwxJXWCu+Jp/Fq1iwrad/lxzAW+92p8DMuBHTPwLhp4OZAJg00GZPncY+YntpNtgJkg==;j8eMMkLGptjhTLA4BFQHxA=="
 ---

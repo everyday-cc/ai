@@ -15,6 +15,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "BIxcvESjIAtbtjNIvlm4xzZOvKBfkvGsbukfX4hnWB4bofrtnr/Agnya2LUbKJnumJNVPofwXFoAFQpr7dpLK6ziaxkoqQItuOuMM8ewdec2qDHGcuDqXb5VYsAAe/imlslPoawjcIUvMtLtswHsscqbTRdR26akWBh7u/02jhuq0jDHZ75o/GOI6FEuS/vPkhShvzjN2D1RUEA3okl92fX5pO06BRQEzBuIx0TE5Yyf+jyoXAOIoEMXj2YUPkB44dZvrdPAhWWVUNo420UgrEGyEptHLGO471qL9dFo8mrNS4fa/tdVKabhKniPAt+FFk83+QZYEpcpGUV0XFGDvy8tlnJl9HLc2JCxTCh/Uv4=;TUtTjzJv/CCc2p+t6zVy8w=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/c7/fc76f7fb-baee-5458-90c9-105d723aa214/64187c3bc92ed.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "89aIJvDQOdRruKBAHC6RSVDvz7srA1Dd9/IyDD+/R4aystexnfR+ZnCW5IWcQZmelh3TcDj19Ee9f+bVXBx5k6sR3SA8xPpqkRJYd3XWPzmmVsjAK9I/gtInfMMvFYJHm6fcpKcSAkXfjhWnIE5j/1YM00XbrtLqJ5FnR8vL7tWdP7Snk9sNvwfwqe5SXWfU0pZhMjNqVFexajQi5Qj2ovW93C7UVi9oRG/zX9VDVdZ4LPSTrrWAU5H83pb5T2wQmE2RD5bzdXZtbsfLfWf1d8RhjyDgo5LS2bssYNwxoS60kMGWhUfxMn079Kqj7oCVuVagJiivn25Tm2lZPb+zFdf4smntppbOQ34MrZH88Lg=;qe+zdabnGicXRpnJJJ3TBg=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-28T13:22:00Z
 originalUrl: "https://www.asiaone.com/business/ibm-brings-generative-ai-commentary-and-hole-hole-player-predictions-masters-digital"
 webUrl: "https://www.asiaone.com/business/ibm-brings-generative-ai-commentary-and-hole-hole-player-predictions-masters-digital"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Asia One

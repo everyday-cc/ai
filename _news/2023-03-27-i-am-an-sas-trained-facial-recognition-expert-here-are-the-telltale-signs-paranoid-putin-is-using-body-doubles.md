@@ -20,8 +20,8 @@ topics:
 
 related:
   - title: "Facial recognition is helping Putin curb dissent with the aid of US tech"
-    excerpt: "Facial recognition equipment is pictured at the exhibition during the Sixth Eastern Economic Forum in Vladivostok, Russia, in 2021. LONDON — Andrey Chernyshov had just entered a Moscow metro station on his way to an anti-war protest last May ..."
-    publishedDateTime: 2023-03-28T11:04:00Z
+    excerpt: "Facial recognition equipment is pictured at the exhibition during the Sixth Eastern Economic Forum in Vladivostok, Russia, in 2021.  LONDON — Andrey Chernyshov had just entered a Moscow metro station on his way to an anti-war protest last May,"
+    publishedDateTime: 2023-03-28T11:00:00Z
     webUrl: "https://www.stltoday.com/news/national/facial-recognition-is-helping-putin-curb-dissent-with-the-aid-of-us-tech/article_993af131-23e1-5844-8bc6-1dea6eabbb81.html"
     type: article
     provider:

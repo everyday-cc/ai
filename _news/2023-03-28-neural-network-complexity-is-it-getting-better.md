@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-28T12:31:00Z
 originalUrl: "https://venturebeat.com/ai/neural-network-complexity-is-it-getting-better/"
 webUrl: "https://venturebeat.com/ai/neural-network-complexity-is-it-getting-better/"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: VentureBeat

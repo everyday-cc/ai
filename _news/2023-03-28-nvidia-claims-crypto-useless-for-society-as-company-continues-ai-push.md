@@ -25,37 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Cryptocurrencies add nothing useful to society, says chip-maker Nvidia"
-    excerpt: "Tech chief says the development of chatbots is a more worthwhile use of processing power than crypto mining"
-    publishedDateTime: 2023-03-26T15:13:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
+  - title: "Nvidia calls cryptocurrency useless for society, says its graphics cards are better used for AI"
+    excerpt: "Speaking to The Guardian, Nvidia Chief Technology Officer Micheal Kagan said that the processing power of the company's GPUs should be used for tasks more worthwhile"
+    publishedDateTime: 2023-03-27T10:16:00Z
+    webUrl: "https://techspot.com/news/98081-nvidia-calls-cryptocurrency-useless-society-gpus-better-used.html"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
+      name: TechSpot
+      domain: techspot.com
+    quality: 57
     images:
-      - url: "https://i.guim.co.uk/img/media/c1d4d5e50b04a1580bdaa1145b2dec10d47b8496/0_217_6520_3912/master/6520.jpg?width=620&quality=85&auto=format&fit=max&s=78bd8b0dece950e337e76dbba5a347a4"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Cryptocurrencies add nothing useful to society, says chip-maker Nvidia"
-    excerpt: "Tech chief says the development of chatbots is a more worthwhile use of processing power than crypto mining"
-    publishedDateTime: 2023-03-26T19:13:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/c1d4d5e50b04a1580bdaa1145b2dec10d47b8496/0_217_6520_3912/master/6520.jpg?width=620&quality=85&auto=format&fit=max&s=78bd8b0dece950e337e76dbba5a347a4"
-        width: 620
-        height: 372
+      - url: "https://static.techspot.com/images2/news/bigimage/2018/11/2018-11-26-image-2.jpg"
+        width: 1800
+        height: 1200
         isCached: true
 
 secured: "9OOZMPA/rptAXw3kncokHAQsGrx9YYTHNtrimhr1H+k9UESKakpqllFmRFXQGLxniy9yz8jei2HqKoxhKCMl6NcC/Te0E2g/z7HLos1zIORldWdH+IhWQlRM25sYhu3p1krckrptLrnEhxM5PRAazr94iu4wnPApgypJavDfCdxl7X5i+czsTcai6hS3cMEGnVjQVM5CsXVGKra5L9PiEmGkKbJfwMH9+bWNG1JY22aLelJq7QDHKUe6g8x1s33N6GXEMeYgp7a3lsi6FwBiFq1cTVBV2XEmlePh6CE1yvduHIw/bq7MZQp72C+xXfTZwXcq4R5MZN4BWHPW1g6tPhT9sRehYHmfdSOR4Tb3jxT5pwYoih8DhGKRy1Yo4dk9xfYxVXRH7kUN943m/Eb3ClwlT8Og9L+VzMufu6pg8ovc4fkdwb9wmHsn/wb9eoiRrkmDkXUzBXrRTQIjnsCeuQPQ0g54zfXAWbTMaliSoM3AhUeRLsJzmxe6vCaguIv8BXRSg50GOTl2LGvJQQ8lug==;AnDIC065GTY7okwJfpek3w=="

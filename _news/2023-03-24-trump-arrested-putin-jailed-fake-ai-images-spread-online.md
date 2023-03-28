@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/atlanta/news/trump-arrested-putin-jailed
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/atlanta/news/trump-arrested-putin-jailed-fake-ai-images-spread-online/"
 type: article
 quality: 61
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Fake AI images of Trump arrest, Putin jailed, spread on social media"
-    excerpt: "He even stated clearly in his Twitter thread that the images were AI-generated. Still, the images were enough ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging ..."
-    publishedDateTime: 2023-03-23T19:19:00Z
-    webUrl: "https://www.fox10phoenix.com/news/fake-ai-images-of-trump-arrest-putin-jailed-spread-on-social-media"
-    type: article
-    provider:
-      name: FOX 10 Phoenix
-      domain: fox10phoenix.com
-    quality: 19
   - title: "Trump arrested? Putin jailed? Fake AI images spread online"
     excerpt: "Read more about chatbots and other AI developments It's not clear who created the image ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging technologies, said he worries ..."
     publishedDateTime: 2023-03-25T19:36:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-28T13:39:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58676636-schneider-electric-machine-learning-and-ai-combined-can-boost-energy-and-chemical-production-200.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58676636-schneider-electric-machine-learning-and-ai-combined-can-boost-energy-and-chemical-production-200.htm"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: Finanznachrichten

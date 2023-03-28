@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-28T12:25:00Z
 originalUrl: "https://www.businesswireindia.com/ntt-launches-scalable-cloud-native-managed-detection-and-response-security-service-83786.html"
 webUrl: "https://www.businesswireindia.com/ntt-launches-scalable-cloud-native-managed-detection-and-response-security-service-83786.html"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Business Wire

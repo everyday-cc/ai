@@ -9,8 +9,8 @@ ampWebUrl: "https://techcentral.co.za/nvidia-shows-how-ai-can-improve-chip-desig
 cdnAmpWebUrl: "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/nvidia-shows-how-ai-can-improve-chip-design/223714/?amp=1"
 type: article
 quality: 74
-heat: 154
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCentral
@@ -27,91 +27,196 @@ images:
     isCached: true
 
 related:
-  - title: "The Dream Of Placing Blocks On Chip Designs With AI"
-    excerpt: "“This work demonstrates the effectiveness of combining GPU-accelerated placers with AI/ML multi-objective parameter optimization,” Agnesina and Ren wrote. “Furthermore, given the importance of scalability in modern chip design flows, we hope this ..."
-    publishedDateTime: 2023-03-27T19:50:00Z
-    webUrl: "https://www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/"
-    ampWebUrl: "https://www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/amp/"
+  - title: "Better AI Stock: Microsoft vs. Nvidia"
+    excerpt: "Microsoft has an early mover advantage in the generative AI market thanks to OpenAI and ChatGPT. Nvidia's dominance in GPUs and the importance of these chips in generative AI applications could help it remain a top AI stock. With a purported investment of ..."
+    publishedDateTime: 2023-03-24T21:20:00Z
+    webUrl: "https://www.fool.com/investing/2023/03/24/better-ai-stock-microsoft-vs-nvidia/"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
+      name: The Motley Fool
+      domain: fool.com
+    quality: 86
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/725637/chatbot-smartphone-person.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
+  - title: "Microsoft Threatens to Restrict Data From Rival AI Search Tools"
+    excerpt: "Microsoft Corp. has threatened to cut off access to its internet-search data, which it licenses to rival search engines, if they don’t stop using it as the basis for their own artificial intelligence chat products,"
+    publishedDateTime: 2023-03-25T00:28:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-03-25/microsoft-threatens-to-restrict-bing-data-from-rival-ai-search-tools"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEBCvguQnGgQ/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Microsoft Reportedly Threatens to Restrict Search Data From Rival AI Tools"
+    excerpt: "At least two customers have been told their access to Microsoft's internet search index will be cut off if they continue to use it for their AI chatbots, Bloomberg reports."
+    publishedDateTime: 2023-03-26T10:44:00Z
+    webUrl: "https://www.pcmag.com/news/microsoft-reportedly-threatens-to-restrict-search-data-from-rival-ai-tools"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 82
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05PNmVt8nHVpVgrbjZy1kpb-1.fit_lim.size_1200x630.v1679827422.png"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Microsoft unveils plans to use AI feature in Outlook, Excel and more"
+    excerpt: "On the other hand, AI critics worry it will bring more harm ... and perform a wide range of language-related tasks such as language translation, text summarization [and] sentiment analysis.”"
+    publishedDateTime: 2023-03-24T14:10:00Z
+    webUrl: "https://wgntv.com/news/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/"
+    ampWebUrl: "https://wgntv.com/news/nexstar-media-wire/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/"
+    cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/nexstar-media-wire/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/"
+    type: article
+    provider:
+      name: WGN-TV
+      domain: wgntv.com
+    quality: 76
+    images:
+      - url: "https://wgntv.com/wp-content/uploads/sites/5/2023/03/computer-software-best-microsoft-365-products-1.jpg?w=1280"
+        width: 760
+        height: 500
+        isCached: true
+  - title: "Microsoft gains access to Open AI code base, trouble for Google?"
+    excerpt: "Azure is Microsoft’s cloud computing service which will help developers build new AI systems by making OpenAI’s service models available to the market. Google retaliated recently with their AI offering Bard AI, a chatbot to compete with ChatGPT."
+    publishedDateTime: 2023-03-24T08:41:00Z
+    webUrl: "https://memeburn.com/2023/03/microsoft-gains-access-to-open-ai-code-base-trouble-for-google/"
+    ampWebUrl: "https://memeburn.com/2023/03/microsoft-gains-access-to-open-ai-code-base-trouble-for-google/?amp=1"
+    cdnAmpWebUrl: "https://memeburn-com.cdn.ampproject.org/c/s/memeburn.com/2023/03/microsoft-gains-access-to-open-ai-code-base-trouble-for-google/?amp=1"
+    type: article
+    provider:
+      name: Memeburn
+      domain: memeburn.com
     quality: 74
     images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2023/03/Nvidia-AutoDMP.jpg"
-        width: 1999
-        height: 1126
+      - url: "https://s5.cdn.memeburn.com/wp-content/uploads/2023/03/Google-bard-1.jpg"
+        width: 675
+        height: 448
         isCached: true
-  - title: "Nvidia calls cryptocurrency useless for society, says its graphics cards are better used for AI"
-    excerpt: "Speaking to The Guardian, Nvidia Chief Technology Officer Micheal Kagan said that the processing power of the company's GPUs should be used for tasks more worthwhile"
-    publishedDateTime: 2023-03-27T10:16:00Z
-    webUrl: "https://techspot.com/news/98081-nvidia-calls-cryptocurrency-useless-society-gpus-better-used.html"
+  - title: "Buy Nvidia Stock Because the Chip Maker Is an AI Play, Says Analyst"
+    excerpt: "Bernstein is getting more bullish on demand for Nvidia semiconductors based upon the growth potential of artificial-intelligence training applications. On Tuesday, analyst Stacy Rasgon reiterated his Outperform rating for Nvidia stock (ticker: NVDA), and ..."
+    publishedDateTime: 2023-03-28T15:35:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-buy-ai-chip-2c81821f"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-buy-ai-chip-2c81821f"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-buy-ai-chip-2c81821f"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 57
+      name: Barron's
+      domain: barrons.com
+    quality: 74
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2018/11/2018-11-26-image-2.jpg"
-        width: 1800
-        height: 1200
+      - url: "https://images.barrons.com/im-752355/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "AI Becoming More Prominent In Chip Design"
-    excerpt: "The good and bad of more data, and how AI can leverage that data to optimize designs and improve reliability. Semiconductor Engineering sat down to talk about the role of AI in managing data and improving designs,"
-    publishedDateTime: 2023-03-27T07:01:00Z
-    webUrl: "https://semiengineering.com/ai-becoming-more-prominent-in-chip-design/"
+  - title: "Amazon, Microsoft and Google's AI armies are huge, yet struggling to innovate"
+    excerpt: "New data show Amazon, Microsoft and Google have thousands of AI specialists, but they’re still playing catch-up to a tiny team at OpenAI."
+    publishedDateTime: 2023-03-27T17:47:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/amazon-microsoft-and-google-s-ai-armies-are-huge-yet-struggling-to-innovate-11679897432675.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/amazon-microsoft-and-google-s-ai-armies-are-huge-yet-struggling-to-innovate/amp-11679897432675.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/amazon-microsoft-and-google-s-ai-armies-are-huge-yet-struggling-to-innovate/amp-11679897432675.html"
     type: article
     provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
+      name: Mint
+      domain: livemint.com
+    quality: 73
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/03/27/600x338/ai_1655840015732_1679897559934_1679897559934.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "The US government wants to help you spot flaws in Microsoft cloud services"
+    excerpt: "The US government has built an open source tool to help security teams spot flaws in Microsoft cloud services easier. Built by the U.S. Cybersecurity & Infrastructure Security Agency (CISA ..."
+    publishedDateTime: 2023-03-24T20:10:00Z
+    webUrl: "https://www.techradar.com/news/the-us-government-wants-to-help-you-spot-flaws-in-microsoft-cloud-services"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 67
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/RXjTpHQERsFQaUFEMYn96f-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Google Partners with AI Startup Replit to Take on Microsoft’s GitHub"
+    excerpt: "Alphabet Inc.’s Google is striking a partnership to combine its artificial intelligence language models with software from startup Replit Inc. that helps ... will rely on Google’s language-generation AI to improve its ability to suggest blocks ..."
+    publishedDateTime: 2023-03-28T13:19:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-03-28/google-partners-with-ai-startup-replit-to-take-on-microsoft-s-github"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 64
+  - title: "Microsoft just launched a Notion AI competitor called Loop. Here's how you can access it"
+    excerpt: "Loop enables you to collaboratively create documents using any Microsoft Office application, like Outlook, Teams, or Word."
+    publishedDateTime: 2023-03-24T21:23:00Z
+    webUrl: "https://www.zdnet.com/home-and-office/smart-office/microsoft-just-launched-a-notion-ai-competitor-called-loop-heres-how-you-can-access-it/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 55
+  - title: "AI wars: Elon Musk attacks Microsoft over ChatGPT tech access"
+    excerpt: "Elon Musk, the CEO of Tesla and Twitter, may have just stepped up his attacks on Microsoft in the ongoing conflict over artificial intelligence (AI)."
+    publishedDateTime: 2023-03-25T09:25:00Z
+    webUrl: "https://interestingengineering.com/culture/ai-elon-musk-attacks-microsoft-chatgpt-access"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
     quality: 54
     images:
-      - url: "https://semiengineering.com/wp-content/uploads/Black-Gold-AdobeStock_421176269-07-07-21-scaled.jpeg?fit=2560%2C1080&ssl=1"
-        width: 2560
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/03/25/image/jpeg/6d7CeY62RxFsKuxAliFamIlh8wObxQboQdFHROq9.jpg"
+        width: 1920
         height: 1080
         isCached: true
-  - title: "AI could be key to optimising chip design, Nvidia says"
-    excerpt: "Nvidia Corp has released a paper showing how a combination of artificial intelligence (AI) techniques could find the best ways to place transistors on silicon chips. Nvidia Corp, the world's leading designer of computer chips used in AI, has shown new ..."
-    publishedDateTime: 2023-03-28T10:42:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2023/03/ai-could-be-key-to-optimising-chip-design-nvidia-says/"
+  - title: "AI startup accelerator Neo will partner with OpenAI, Microsoft"
+    excerpt: "Neo will partner with OpenAI and Microsoft to give free software and advice to companies on artificial intelligence."
+    publishedDateTime: 2023-03-27T14:00:00Z
+    webUrl: "https://www.seattletimes.com/business/new-ai-startup-accelerator-will-partner-with-openai-microsoft/"
+    ampWebUrl: "https://www.seattletimes.com/business/new-ai-startup-accelerator-will-partner-with-openai-microsoft/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/new-ai-startup-accelerator-will-partner-with-openai-microsoft/?amp=1"
     type: article
     provider:
-      name: IET
-      domain: theiet.org
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 54
-    images:
-      - url: "https://eandt.theiet.org/media/16225/nvidia-cambridge-1_gpu-closeup.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=132699737820000000"
-        width: 1200
-        height: 450
-        isCached: true
-  - title: "Key paper on AI chip design might be overstated"
-    excerpt: "Terminator not coming for chip designers A key Google-led research paper claiming machine-learning software can design better chips faster than humans has been called into question after a new study disputed its results."
-    publishedDateTime: 2023-03-28T11:12:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/56610-key-paper-on-ai-chip-design-might-be-overstated"
+  - title: "Microsoft beefs up partner programs with AI and go-to-market differentiation"
+    excerpt: "The new capabilities embraced Microsoft's search engine Bing, Dynamics 365 Copilot, ChatGPT in Azure Open AI Service as well as a specialisation for partners for AI and machine learning in Azure. \"We believe AI will fundamentally change every software ..."
+    publishedDateTime: 2023-03-27T21:42:00Z
+    webUrl: "https://www.reseller.co.nz/article/706392/microsoft-beefs-up-partner-programs-with-ai-and-go-to-market-differentiation/"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 51
     images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/68d425fd6b707bcebf12c496882c2580_L.jpg"
-        width: 620
-        height: 465
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/nicole_dezen_microsoft.jpg"
+        width: 504
+        height: 315
         isCached: true
-  - title: "Aetina Showcases Its Latest AI Solutions at NVIDIA GTC"
-    excerpt: "Aetina's New Edge Computing Systems and Platforms Are Powered by the Latest NVIDIA Jetson Orin System-on-Modules Aetina's NVIDIA-Certified System Tested with NVIDIA L4 Tensor Core GPU Aetina's SuperEdge AIS-D422-A1—an AI platform ideal for AI model ..."
-    publishedDateTime: 2023-03-24T05:18:00Z
-    webUrl: "https://www.asiaone.com/business/aetina-showcases-its-latest-ai-solutions-nvidia-gtc"
+  - title: "Microsoft Begins Adding Cloud PC Option"
+    excerpt: "Microsoft has been constantly working to bring changes and improvements to Windows 11 and the next generation of Windows, i.e. Windows 12, at the same"
+    publishedDateTime: 2023-03-24T16:56:00Z
+    webUrl: "https://www.techworm.net/2023/03/microsoft-begins-adding-cloud-pc-option.html"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
+      name: techworm.net
+      domain: techworm.net
     quality: 39
     images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2023/Aetina_s_New_Edge_Computing_Systems_Platforms_Are_Powered_Latest_NVIDIA.jpg?h=5b470aab&itok=7c0fUUzZ"
-        width: 600
-        height: 316
+      - url: "https://www.techworm.net/wp-content/uploads/2023/03/Windows-11-Cloud-PC.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Nvidia’s show new AI research to improve chip design"
     excerpt: "Nvidia’s reinforcement learning research introduced a second layer of AI to chip transistors for improved results. (Reuters pic) NEW YORK: Nvidia Corp, the world’s leading designer of computer chips used in creating artificial intelligence, on Monday ..."
@@ -122,20 +227,6 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
-  - title: "ETFs That Allow You To Invest In Nvidia's AI Wave, Strategy to Bypass US - China Sanctions"
-    excerpt: "\"The age of AI demands cloud data center infrastructures to support extraordinary ... This week, Nvidia said it has similarly developed a China-export version of its H100 chip, making it eligible for export to China. The H800 mainly reduced the chip ..."
-    publishedDateTime: 2023-03-24T16:53:00Z
-    webUrl: "https://www.benzinga.com/news/23/03/31492548/etfs-that-allow-you-to-invest-in-nvidias-ai-wave-strategy-to-bypass-us-china-sanctions"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/03/24/nvda.png?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "z3oIEcTKrpKcsLbeCikPRCPEz+tIVWnoYrWRex5d+TJL7YFtiT7rWYCCLNBnUwRhWICA1OWNZMxnT/KoMsSEZZep9STgWLQWAUDuoc/An6Nolwjpu4XQtvamtA7pS7EsP7NMg+B0qJ6W06CAmhL5Z5//Qd1cExpcXYlcMtMjC7rfnVnrmPQEE38GrwXfjSx8K+21bQ1kcXwLWi8WkJ0JJMMhq+OADP9eg/4R4Nm//QzR0bCrTynUrl7bmrdYM+LH8IrNwV9z4tQvDr6LBrlkldPDBX0UiDrMbWo4FwvXUycUBrUisadhdswuqJKk0X8m3I9Rs/hwk0rOrxxISQrjkC0T9LUeFg9HJYy3QPZpGH8zcRVMntXmTyh4cAb0iUvmQWw3d59a+vyjnpPY0vmo3NrhyPtU/McoyWvG06DPj1wm3V7k/v4v6iIG1LX9GNi9XqL3vYOSG+hMU5TLjgflVqnWLCpwVOqyvJ7Hvm51TXPb/UWD7e1ip4D3Zk3d/Uoy1AHMwcE18Ql8GlXLque8jQ==;ynkHNUCXj6xTBI6DMeiMhg=="
 ---

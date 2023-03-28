@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/chroma-weaviate-pinecone-raise-fun
 webUrl: "https://www.businessinsider.com/chroma-weaviate-pinecone-raise-funding-a16z-index-vector-database-ai-2023-3"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Ex-Google employees' A.I. chatbot startup valued at $1 billion after Andreessen Horowitz funding"
-    excerpt: "Character.AI said it raised $150 million in a funding round led by Andreessen Horowitz. The startup's founders helped create the architecture used in today's popular chatbots. Andreessen previously bet big on crypto and social audio, driving valuations up ..."
-    publishedDateTime: 2023-03-23T19:28:00Z
-    webUrl: "https://www.cnbc.com/2023/03/23/characterai-valued-at-1-billion-after-150-million-round-from-a16z.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/03/23/characterai-valued-at-1-billion-after-150-million-round-from-a16z.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/23/characterai-valued-at-1-billion-after-150-million-round-from-a16z.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 59
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/102177477-468005219.jpg?v=1679599585"
-        width: 5561
-        height: 3707
-        isCached: true
 
 secured: "d1OuSntDbAS30jnioDzBkyKrU9mMkkP2O9ku5bwaeBH+kB2cd2G/wNdoJFJpAYSyHAlANSBTzPm6Aq2X7B4Bu3MrO0L1UEfwtRQ9TK49BFnNuz9pi5mDf2Ci6gI0cvZwZSsQgXwXXeoYJKmrLDFbJ6Z/s5xpDcqdDTb7k1V1HPzXL73Q/f4GSVOVtVadlAmE8ggoe37fri9bNooyN9crUuvri7fdS1/XSs2in/3w0oT3ChWF0Ype164YOEy9VfSdvAD0gatB7x/LYay57y2iAB4Nxea11pufJFu6YI91Wv8oUVrZJHIPeJYgZRIhopY3iQUh10g4O860sGsK2soGKHVbJ+/J7jCAoFrMFtZDPsY8OrjduqSOvZgzkTjy9po7SnqB/VWwXsPO+E97unK+8ETmnfD0juAfVy2ZT78MyuE0z11aMwIFlT/Rlvh+A+6DQVOUCih7Fe/enVLGEddwQBUY56uaq66KIpNXV9goiv5uIaaCvytfKH0lbCiK1H/GyNGpvyZtnKSpGisnI3tbUA==;6L3shJxdB0W6E38tDAhq5A=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-25T22:04:00Z
 originalUrl: "https://www.theguardian.com/commentisfree/2023/mar/25/tiktok-china-cognitive-warfare-us-ban"
 webUrl: "https://www.theguardian.com/commentisfree/2023/mar/25/tiktok-china-cognitive-warfare-us-ban"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Guardian

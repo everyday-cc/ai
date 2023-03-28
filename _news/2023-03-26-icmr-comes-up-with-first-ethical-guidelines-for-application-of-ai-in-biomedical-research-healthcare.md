@@ -36,20 +36,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Large Language Models & AI In Healthcare"
-    excerpt: "The rise of large-scale neural networks and advancements in natural language processing (NLP) techniques have enabled the creation of increasingly powerful language models. All of those models are so-called transformers and were initially introduced in ..."
-    publishedDateTime: 2023-03-27T16:40:00Z
-    webUrl: "https://www.forbes.com/sites/lutzfinger/2023/03/27/large-language-models--ai-in-healthcare/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6421c3745b11f5954010b24d/0x0.jpg?format=jpg&crop=1080,1080,x0,y0,safe&width=1200"
-        width: 1080
-        height: 1080
-        isCached: true
   - title: "Artificial Intelligence In Indian Healthcare System: ICMR Releases First Ethical Guidelines"
     excerpt: "In a major development in the healthcare system in India, the Department of Health Research and ICMR's Artificial Intelligence Cell have released the first-ever ethical guidelines for applying artificial intelligence in biomedical research and healthcare structure in the country."
     publishedDateTime: 2023-03-27T06:39:00Z

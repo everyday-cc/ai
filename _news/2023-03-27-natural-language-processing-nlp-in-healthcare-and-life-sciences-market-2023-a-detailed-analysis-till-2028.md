@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "2023 Healthcare Artificial Intelligence (AI) Market Size, Growth | Global Industry Trends [2029]"
-    excerpt: "Mar 23, 2023 (The Expresswire) -- [118+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Healthcare Artificial Intelligence (AI) Market” Size 2023 Key players ..."
-    publishedDateTime: 2023-03-23T20:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-healthcare-artificial-intelligence-ai-market-size-growth-global-industry-trends-2029-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 88
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing (NLP) Market to Eyewitness Massive Growth 2023"
     excerpt: "Natural Language Processing (NLP) Market Size 2023 | New Report (102 Pages) | Information Technology | In This"
     publishedDateTime: 2023-03-27T04:02:00Z
@@ -114,6 +100,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural language processing (NLP) Market Analysis Geography Trends, Demand and Forecasts 2030| Apple Incorporation, Dolbey Systems, Google"
+    excerpt: "Mar 28, 2023 (Heraldkeepers) -- New Jersey, United State: Infinity Business Insights has announced the release of its latest report on Natural language processing (NLP) Market. It provides an in-depth analysis of the drivers, restraints, market dynamics ..."
+    publishedDateTime: 2023-03-28T12:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-geography-trends-demand-and-forecasts-2030-apple-incorporation-dolbey-systems-google-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
 
 secured: "JfAKc42uibwuyn9wzyjFb9lHB/M2fUHN09QOQTpo4eozq8kUFXKaQ846i4bHWFwxWo+Jg5P/i7tZpmJh0ZnN7wY+po6PrNnt1QJRG/Zl+NrXu/cEPjrK2Ttnk6Sz5H4RsbbLFA6U/egdx9RFtA7AsiLCLv4MmaGuYDadieohaBf4FFhWSO7YKvTojnmxPlqORJeq7qHc4nP54Id8aWpaM3Di7uj91DCrR+eHuDETsJFKMhzXlyQ3HjGM/bbDwQNAA20dpoXeyXyW91GB97+lhSBtrU86zUNy6vp7RhkTfkywVN/pzEBcEBQatAiJAIqnPAJC/4OAdK3L/+ZZcJY0KY7E0QFcyAghN/sIfKMhKts=;MjvV10E8X3C3hTc7+Tj37Q=="
 ---

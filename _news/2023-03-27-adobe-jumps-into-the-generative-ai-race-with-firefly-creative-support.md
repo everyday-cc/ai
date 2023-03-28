@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/03/27/adobe-jumps-int
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/03/27/adobe-jumps-into-the-generative-ai-race-with-firefly-creative-support/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -78,6 +78,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How AI Is Integrating Into The Workforce"
+    excerpt: "Over the decades, automation has evolved from textile machinery, through programmable logic controllers and computer numerical control machines, to now include robotics and artificial ... As people start to use AI for more advanced work projects, they ..."
+    publishedDateTime: 2023-03-28T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/28/how-ai-is-integrating-into-the-workforce/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 51
   - title: "For generative AI to thrive, fintechs must act responsibly"
     excerpt: "ChatGPT has taken the world by storm, but crucial that fintechs take a responsible and ethical approach to its development and implementation."
     publishedDateTime: 2023-03-28T07:35:00Z

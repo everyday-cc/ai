@@ -56,15 +56,6 @@ related:
         width: 942
         height: 600
         isCached: true
-  - title: "Google’s fledgling Bard AI is already being tested inside the company’s Messages app for Android"
-    excerpt: "Google’s new Bard AI is designed to be a helpful and informative companion for anyone who wants to learn more about the world around them or get things done. It can be used to answer questions, generate creative content,"
-    publishedDateTime: 2023-03-23T19:54:00Z
-    webUrl: "https://chromeunboxed.com/google-messages-bard-ai-integration"
-    type: article
-    provider:
-      name: chromeunboxed.com
-      domain: chromeunboxed.com
-    quality: 6
 
 secured: "4b/IbnTR+/WRxVxYvZ9eQuZR3popXbflMZIsJeL+eq0zNCy8XSy8cChYoZgN1La0/4rIsFeJ94OKNcypPiy2mzy50jUpiQxEz/Z1gDQxoF++Th0KtZsiGk4cvsTwqcrAEkQ9NNL1rlhZLHg41FfPkrUXgZQ0tzV3Qzh5EGxNq1u4tWA0+/180wScUqbmJRPjQVYDBCvISQEk+R3RKquGrGyJzpFwmFHab5hzZJEqLML1DylbeMlqtvozHS5DMq8P+xnMN3TJ3CPdAICpVGQ9FV5kaRdWTYTGO27QKx6hyh/yH3Ay/mDkMVq0Cuhuc57dGN4HgjBif5Rf+WY0RI4Hk9Qkk3x1X7mTKbsqLtgaTGysQYo+CkADw6VafBIZVS+TjrsdD6CP5yvcmlL8F7mdHj76Zc5z1LGyAyYLS/OjFRS3wLozsgrR4KfyOqsqSELImwcO7wukB1k2LTpFdpxJdcTzobcWGBPDP7z5W1xMehxLqVt03BSuQUeo4joFB9OuLatE1N073jWexZ2I6JY0ow==;lEnte8ttOM2uNvpW691eFg=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-24T15:41:00Z
 originalUrl: "https://hbr.org/2023/03/how-machine-learning-can-improve-the-customer-experience"
 webUrl: "https://hbr.org/2023/03/how-machine-learning-can-improve-the-customer-experience"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://hbr.org/resources/images/article_assets/2023/03/Mar23_24_1401980646.jpg"

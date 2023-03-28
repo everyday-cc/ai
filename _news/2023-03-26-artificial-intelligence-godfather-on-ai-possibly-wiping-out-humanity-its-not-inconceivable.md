@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/artificial-intelligence-godfather-ai-po
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/artificial-intelligence-godfather-ai-possibly-wiping-humanity-not-inconceivable.amp"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Artificial intelligence ‘godfather’ on AI possibly wiping out humanity: ‘Not inconceivable’"
+    excerpt: "Geoffrey Hinton, a computer scientist who has been called “the godfather of artificial intelligence”, says it is “not inconceivable” that AI may develop to the point where it poses a ..."
+    publishedDateTime: 2023-03-26T13:13:00Z
+    webUrl: "https://nypost.com/2023/03/26/artificial-intelligence-could-threaten-humanity-scientist/"
+    ampWebUrl: "https://nypost.com/2023/03/26/artificial-intelligence-could-threaten-humanity-scientist/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/03/26/artificial-intelligence-could-threaten-humanity-scientist/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 64
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000008804240.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "gh+DB352ccgQe3IRRCwfnIiuL0MKx1n73TP8aoe4IkPXktbueyJnOD2neyDs/v41SPOhTh1iZ/hc7XIlVn3OtAFD51k7zK7/ckT257vkHGQwYXm6Qf6U+0Nok+FTxgC9HsDZMizcyz+yJC7MbDyNLm0iqLVYVDELFqCv22LVoFyVpvz8F0GKZjkOK4AzEqB639cqCoUbU8kMxLXvvilA0s0Rzct6ltdgNtlLTkoZe1fYmBo/V/S/irz2lMA0OKoMfrxCoyRVrRth6/iC5DclDbMKmmKO2VRv+f6Y4StyplwQmnC0MLftJK0ho1F1M9zKeszEH5Lkr0QbWuvICFZ8hhjdt9du+/5OJeL2atvFskYGF4RCD++UpB+LihkFRNtF5yZuilLh8RcMpavkVgpsjTWiKa1u9fpY3oni/2/tqhfys6Ke3iAkfmC9bC9q45iaVoArGuycN64CvCI5gEQe9Yc+mrfbw6ODdy5i9tsJOkOGK/E19zRdNEv1+eZ6hcc3NrUtiHGCxhLAx0rngOWwAw==;f/aNbtocbkPU3Hk5szzfPQ=="
 ---

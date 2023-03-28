@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-28T12:45:00Z
 originalUrl: "https://www.forbes.com/sites/davidhambling/2023/03/28/does-russias-smartest-weapon-have-an-american-brain/"
 webUrl: "https://www.forbes.com/sites/davidhambling/2023/03/28/does-russias-smartest-weapon-have-an-american-brain/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes

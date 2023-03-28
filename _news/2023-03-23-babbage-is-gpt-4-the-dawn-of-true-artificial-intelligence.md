@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230325_PDP505.jpg"

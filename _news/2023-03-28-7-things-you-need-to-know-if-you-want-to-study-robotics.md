@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-28T09:08:00Z
 originalUrl: "https://www.devdiscourse.com/article/technology/2396349-7-things-you-need-to-know-if-you-want-to-study-robotics"
 webUrl: "https://www.devdiscourse.com/article/technology/2396349-7-things-you-need-to-know-if-you-want-to-study-robotics"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: devdiscourse

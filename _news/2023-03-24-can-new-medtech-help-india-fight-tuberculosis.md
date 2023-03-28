@@ -26,22 +26,6 @@ images:
     height: 1000
     isCached: true
 
-related:
-  - title: "How new medtech is helping India fight tuberculosis?"
-    excerpt: "Advances in medical technologies, that came with the inclusion of Artificial Intelligence (AI), Machine Learning, Internet of Things (IoT), and deep tech, have revolutionised diagnosis of tuberculosis (TB) -- the world's largest infectious disease killer -- in India,"
-    publishedDateTime: 2023-03-23T20:30:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1063154"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 24
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/CODP_032323_11.jpg"
-        width: 550
-        height: 289
-        isCached: true
-
 secured: "SEtjNI4NNhxVSK61oz4qFdXk25OWGlC/oFZ3Qn4f87ZEtljtGlgfkzXTXPHATJvhGMckBgstF6JFKOJDzfsdsHsojNCWbOcWcXjHANHCvMo28PdalpDU9wmtyxiRWI7JYbCwMA9MNxfcq8WZMVi/IYecEsETgAgRfYLWWoZJJfZkqcBHnxggz+C+p21Euc20xO6GhooJ7wseqqsLjPer5yMTgR6g1u9gx3TEWY4hn6+cUxtweIzhLbQwvd+XDFv7JSb17tWY7BVL09uHzFf0s0DQdZ8bo9yllZFOlDDLl2hcHLSPOz8xvLdewoE5tYAMrAa81SkZF+63ZJ1nwzL+P5kWDtSSewsKs3Xz8P3bxrEdZav3tr4jbb6cPxldig8bfaLS4KUYcBtD5+vxOFeKbZHebOjFJ3aRX+pxUrkOszlo+p6aWm0SjBGNIRJdt+BILdLWc45nBgH5PXLVlceDcJGWL+unQM14FGOHG3V2+pOEzeRJG53wVAuJZPiJiYd7rmtERun5BZPBuk/u0S4wlg==;ghpN/4tX3+7CQ8NL3bRj1w=="
 ---
 

@@ -114,6 +114,15 @@ related:
         width: 581
         height: 327
         isCached: true
+  - title: "Apple acquires content-aware AI video compression startup"
+    excerpt: "Apple acquired a startup specializing in AI-based video compression earlier this year, it has emerged, but it isn’t yet clear how the company plans to use the technology. As is generally the case when Apple makes an acquisition, there has been no ..."
+    publishedDateTime: 2023-03-28T13:39:00Z
+    webUrl: "https://www.macworld.com/article/1674030/apple-acquires-waveone-ai-video-compression.html"
+    type: article
+    provider:
+      name: Macworld
+      domain: macworld.com
+    quality: 47
   - title: "Apple acquires AI-powered video compression startup WaveOne"
     excerpt: "Using machine learning and AI, WaveOne wanted to change how compression worked on ... That means it could run without the need for new chips to process the machine learning technology in data centers or consumer TVs and devices. Even small amounts of ..."
     publishedDateTime: 2023-03-27T18:20:00Z
@@ -169,20 +178,6 @@ related:
       - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-03/15/full/1678859871-6936.jpg"
         width: 620
         height: 464
-        isCached: true
-  - title: "Vegas Bot AI starts Presale with the bang, users can secure revenue with their advanced AI-powered strategies"
-    excerpt: "Vegas Bot AI, a revolutionary technology startup that aims to enhance customer interactions with businesses by developing a highly natural conversational experience, introduces the Vegas Bot AI Token Launch."
-    publishedDateTime: 2023-03-23T22:31:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-vegas-bot-ai-starts-presale-with-bang-users-/2023/03/23/9782463.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 20
-    images:
-      - url: "https://api.blockchainwire.io/uploads/OceanDigitalPR/editor_image/7f4ed462-e0a4-48f6-bbbc-53ea14eae198.png"
-        width: 622
-        height: 209
         isCached: true
 
 secured: "MNqUo1JsrSG8FAIgfXknwNah+YAq05Y4TmkctSoOw5iDonXRA2FPla5pAUsk6jVexJh4r1y8uk3elrVSVRJuSRZhM+3MfSSTnyiEfnLEMg6nlqaek4zZbiRfRPO7nlgpo11/CGiEb9u1ppMJXY+64EsOHO6y2PH4/D3yXwSPWkAn1rVUmq8OyQ1StHZ/12eD8FbCiFfX0mVHJlX+4+vOAKgon9XRxlGDm6J4oAkMDLFcoEYrvO3nfJJng1Q5RekRig96pQTAK2F02hFd9Kznrijg0OEYHiySndV4taXeqfR+PVOCjL0frufAFYD1VCopHwK35rPE2G6nn/HfPADKM4Ya5E82IVg5H1i1+ABqChc=;wbxY1bFVROQGoKcWCvENNQ=="

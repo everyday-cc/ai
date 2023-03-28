@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo166796869820"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo166796869820"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to use Bing’s free Image Creator to generate AI images"
-    excerpt: "Microsoft launched its new Bing Image Creator this week -- here's how to use it, even if you aren't in the Bing preview."
-    publishedDateTime: 2023-03-23T21:02:00Z
-    webUrl: "https://bgr.com/tech/how-to-use-bings-free-image-creator-to-generate-ai-images/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/03/Bing-Image-Creator.jpg?quality=82&strip=all"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "DOD’s Maynard Holliday Says Department is Looking into Generative AI for Decision Support"
     excerpt: "The DOD is working with IBM and the Defense Advanced Research Projects Agency to develop a neuromorphic inference chip, called NorthPole, that’s based on human brain architecture and co-locates memory and compute. “We’re going to be able to do AI at ..."
     publishedDateTime: 2023-03-24T09:55:00Z

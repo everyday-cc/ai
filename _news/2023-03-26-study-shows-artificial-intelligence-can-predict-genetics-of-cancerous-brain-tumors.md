@@ -9,8 +9,8 @@ ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2394293-stu
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2394293-study-shows-artificial-intelligence-can-predict-genetics-of-cancerous-brain-tumors?amp"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: devdiscourse
@@ -24,17 +24,6 @@ images:
     width: 1280
     height: 960
     isCached: true
-
-related:
-  - title: "Artificial intelligence predicts genetics of cancerous brain tumors in under 90 seconds"
-    excerpt: "Using artificial intelligence, researchers have discovered how to screen for genetic mutations in cancerous brain tumors in under 90 seconds — and possibly streamline the diagnosis and treatment of gliomas, a study suggests. A team of neurosurgeons and ..."
-    publishedDateTime: 2023-03-23T19:04:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/983793"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
 
 secured: "qpy2hVvFSPwOiKMYj2ZSW+zr/Bnxa++RPea6YNH2+WWCZkhOgx1tOPpqFw0n94htoXYlhnXs7a+XaQMhHY+jQ+O019IW1dwOOV/nae/FBnoXInkGLsw3n6FXBdX/Z+DQ9XAJHvJfzN3LqPN4zJmOlV5UP1N8D1fCCxnbu6q0Bq4LbjJz4w2XGsC/pGyKW0tepJKlUpuR8oIiTnEmci2x/NmyOXLnEu38gTq12X/XuL/jJN4xiNpUtM5dH27OhEeFj+uR4JTFOijgTHODQycbNBF/XzOwxNjDC0JWnhd4yoh1r0P3FbsZmF2J4xlG28hgZtjNrGBuZvYTBgXFA/yOCMkkpuQRQqfkby7QWl8HDWDMPdnLHAAhean3ADdNPW48z9OAcgZ57NgOGHN558G1QuJ3EDy58aOYb+7HqmhcLYMV5c54XHuXQW7FuOORWoKKOfG74VrcQUsxEkUgsQn/Vc165EReekbKEOA+oZTse+/Y5dtQo8c1morRrtCDfzYjyFLEZ9x9ZtuCiaxE9ZzuvQ==;KyzCfc72QJYMmaO+cgkuyQ=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-28T13:11:00Z
 originalUrl: "https://medicalxpress.com/news/2023-03-first-of-its-kind-reveals-facial-transplant-recipient.html"
 webUrl: "https://medicalxpress.com/news/2023-03-first-of-its-kind-reveals-facial-transplant-recipient.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Medical Xpress

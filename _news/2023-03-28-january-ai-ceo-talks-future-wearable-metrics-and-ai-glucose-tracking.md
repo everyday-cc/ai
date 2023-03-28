@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-28T12:07:00Z
 originalUrl: "https://www.wareable.com/wearable-tech/january-ai-ceo-talks-wearables-and-ai-glucose-tracking"
 webUrl: "https://www.wareable.com/wearable-tech/january-ai-ceo-talks-wearables-and-ai-glucose-tracking"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Wareable

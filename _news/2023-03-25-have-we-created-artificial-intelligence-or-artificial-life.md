@@ -5,7 +5,12 @@ excerpt: "We have all been reading and hearing a lot about artificial intelligen
 publishedDateTime: 2023-03-25T14:46:00Z
 originalUrl: "https://www.psychologytoday.com/us/blog/tech-happy-life/202303/have-we-created-artificial-intelligence-or-artificial-life"
 webUrl: "https://www.psychologytoday.com/us/blog/tech-happy-life/202303/have-we-created-artificial-intelligence-or-artificial-life"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/tech-happy-life/202303/have-we-created-artificial-intelligence-or-artificial-life?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/tech-happy-life/202303/have-we-created-artificial-intelligence-or-artificial-life?amp"
 type: article
+quality: 57
+heat: 57
+published: false
 
 provider:
   name: Psychology Today
@@ -14,6 +19,12 @@ provider:
 topics:
   - AI
 
-secured: "DA7+xtVxGsetxFGXoU13yjC1GbwQQfKsSqiLnRt1dDP2I9U/5JtagvWEMJqwEfJ1XjG5z9gRuCxGixyxG25Gdq49WwD+l+25O9pvtaidOaA1Tj0P3kpiiRsTvJK1YI0RM8AMGxMeWA3O85PUHp+R0eUgWN/1cA/EPit+et+HqkhoJ6uLJrvQ/PhJdECNptY8KPI+kBbe710m6nQ59edZtftIMm8so+Z6TTr8rD+lrxvjaOeMF3A5qd0B5J243JPcqUOJ146PTdrG7lBABydIYUMmljibGCf0qsZC538guutcVhh2XUpZxBRqjvF2x4hisTS8th2GEH0uqs9oD05TmdPCDGliAHBxxsLsofrN1x00rxJInntr90RwaW6tO/lFSANTEk48Z75Jld8WNRj3JciA8TiFv6D27YsMQ1WRe8X3vVd64W5v77eoyyXR0w0Wrna4t0uBxx93u2sA6l1X9Ht5MgqHVC5Icj+sif+f3/siu/fpW7gwQNM9TlvTxp6nJHZBwk/x4Vg4xoFLsEUeAQ==;i2XVT6WbDucR/2Lm26U1pA=="
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/Artificial%20Life.jpg?itok=yq9DsIHE"
+    width: 1528
+    height: 800
+    isCached: true
+
+secured: "RDf4VXd8lEV7GdZDOUlsb6VzBbyA2UoJrf8k7w2sFvnzwmZYCoAPcq7IyChhkIuoGTununjbIgZoD+rXG1mpF+PuPhhIkgt8ztCGmA23fcVvT6L+56QLTKBBmtVZPDlP1/Nt3qPNTpsMwoGlw0HjduHbHLtEXZXOBLkzFuS13C6GdKMmQj4rkJs80U4Bj6kyJdRZnHE+PXo4VJag3exjHJtZIvgG/ylJ/u6Y0rCNQEjNSr2jSOiIyKGnOhGPfEP9EcOUO59N2f2/oer1cCNdjs5rF3kTfN3IrTu0SAMWJ6QhcOWDdJ6D2fixh1YON4y60pVIQg5MRSXeHcF5NqphRtVVHy5tUJuGy7UNoHBxSkM=;4n3TpPhrCLS3+Q3skkMOHw=="
 ---
 

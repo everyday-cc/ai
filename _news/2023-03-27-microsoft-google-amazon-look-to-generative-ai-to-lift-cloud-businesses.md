@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Security Copilot harnesses AI to give superpowers to cybersecurity fighters"
+    excerpt: "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ..."
+    publishedDateTime: 2023-03-28T15:36:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 116
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/25070a0ca82841cd88b3eb8f12b525d93af19696/2023/03/28/a5988217-ae81-4ae4-9aae-0416874b7761/gettyimages-1208358547.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft Plans To Use AI To Solve A Huge Pain Point For Doctors"
     excerpt: "Healthcare organizations use patient charts to code and bill for services provided. Documentation also acts as a record of the patient journey, which has become especially important in the growing landscape of healthcare litigation."
     publishedDateTime: 2023-03-26T01:07:00Z
@@ -61,171 +77,96 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Better AI Stock: Microsoft vs. Nvidia"
-    excerpt: "Microsoft has an early mover advantage in the generative AI market thanks to OpenAI and ChatGPT. Nvidia's dominance in GPUs and the importance of these chips in generative AI applications could help it remain a top AI stock. With a purported investment of ..."
-    publishedDateTime: 2023-03-24T21:20:00Z
-    webUrl: "https://www.fool.com/investing/2023/03/24/better-ai-stock-microsoft-vs-nvidia/"
+  - title: "Microsoft enlists AI to supercharge PC security and hinder hackers"
+    excerpt: "If the world’s top businesses eventually trust Security Copilot, that may assure you that AI can help secure your PC, too. As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for ..."
+    publishedDateTime: 2023-03-28T15:31:00Z
+    webUrl: "https://www.pcworld.com/article/1674223/microsoft-enlists-security-copilot-ai-to-fight-hackers.html"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 86
+      name: PC World
+      domain: pcworld.com
+    quality: 103
     images:
-      - url: "https://g.foolcdn.com/editorial/images/725637/chatbot-smartphone-person.jpg"
-        width: 2121
-        height: 1414
+      - url: "https://www.pcworld.com/wp-content/uploads/2023/03/cybersecurity_main.png?w=1024"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Microsoft Threatens to Restrict Data From Rival AI Search Tools"
-    excerpt: "Microsoft Corp. has threatened to cut off access to its internet-search data, which it licenses to rival search engines, if they don’t stop using it as the basis for their own artificial intelligence chat products,"
-    publishedDateTime: 2023-03-25T00:28:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-03-25/microsoft-threatens-to-restrict-bing-data-from-rival-ai-search-tools"
+  - title: "Microsoft Security Copilot is a new GPT-4 AI assistant for cybersecurity"
+    excerpt: "After announcing an AI-powered Copilot assistant for Office apps ... so we think it’s important to get it to a small group of folks and start that process of learning and to make this the best possible product and make sure we’re delivering it ..."
+    publishedDateTime: 2023-03-28T15:32:00Z
+    webUrl: "https://www.theverge.com/2023/3/28/23659711/microsoft-security-copilot-gpt-4-ai-tool-features"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 84
+      name: The Verge
+      domain: theverge.com
+    quality: 100
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEBCvguQnGgQ/v1/1200x800.jpg"
+      - url: "https://cdn.vox-cdn.com/thumbor/5X0IGMLrTUsRnyo97W-GRqDZBiA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347781/STK095_Microsoft_03.jpg"
         width: 1200
-        height: 800
+        height: 628
         isCached: true
-  - title: "Microsoft Reportedly Threatens to Restrict Search Data From Rival AI Tools"
-    excerpt: "At least two customers have been told their access to Microsoft's internet search index will be cut off if they continue to use it for their AI chatbots, Bloomberg reports."
-    publishedDateTime: 2023-03-26T10:44:00Z
-    webUrl: "https://www.pcmag.com/news/microsoft-reportedly-threatens-to-restrict-search-data-from-rival-ai-tools"
+  - title: "Cyber Security Experts Warn About Artificial Intelligence"
+    excerpt: "NASHVILLE, Tenn. (WSMV) - Cyber security experts said scammers will soon be using artificial intelligence to steal people’s identities and money. The deception could reach levels people have not experienced before. Nashville resident Johnathan Bellomy ..."
+    publishedDateTime: 2023-03-24T18:52:00Z
+    webUrl: "https://www.wsmv.com/2023/03/24/cyber-security-experts-warn-about-artificial-intelligence/"
+    ampWebUrl: "https://www.wsmv.com/2023/03/24/cyber-security-experts-warn-about-artificial-intelligence/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wsmv-com.cdn.ampproject.org/c/s/www.wsmv.com/2023/03/24/cyber-security-experts-warn-about-artificial-intelligence/?outputType=amp"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 82
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05PNmVt8nHVpVgrbjZy1kpb-1.fit_lim.size_1200x630.v1679827422.png"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Microsoft gains access to Open AI code base, trouble for Google?"
-    excerpt: "Azure is Microsoft’s cloud computing service which will help developers build new AI systems by making OpenAI’s service models available to the market. Google retaliated recently with their AI offering Bard AI, a chatbot to compete with ChatGPT."
-    publishedDateTime: 2023-03-24T08:41:00Z
-    webUrl: "https://memeburn.com/2023/03/microsoft-gains-access-to-open-ai-code-base-trouble-for-google/"
-    ampWebUrl: "https://memeburn.com/2023/03/microsoft-gains-access-to-open-ai-code-base-trouble-for-google/?amp=1"
-    cdnAmpWebUrl: "https://memeburn-com.cdn.ampproject.org/c/s/memeburn.com/2023/03/microsoft-gains-access-to-open-ai-code-base-trouble-for-google/?amp=1"
-    type: article
-    provider:
-      name: Memeburn
-      domain: memeburn.com
+      name: WSMV
+      domain: wsmv.com
     quality: 74
     images:
-      - url: "https://s5.cdn.memeburn.com/wp-content/uploads/2023/03/Google-bard-1.jpg"
-        width: 675
-        height: 448
+      - url: "https://gray-wsmv-prod.cdn.arcpublishing.com/resizer/IrnKKI4UvFdCPGdJ5gVjzvW_-r8=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/IFOWQQNSEFEW7NAODZF7YOJYXQ.png"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Amazon, Microsoft and Google's AI armies are huge, yet struggling to innovate"
-    excerpt: "New data show Amazon, Microsoft and Google have thousands of AI specialists, but they’re still playing catch-up to a tiny team at OpenAI."
-    publishedDateTime: 2023-03-27T17:47:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/amazon-microsoft-and-google-s-ai-armies-are-huge-yet-struggling-to-innovate-11679897432675.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/amazon-microsoft-and-google-s-ai-armies-are-huge-yet-struggling-to-innovate/amp-11679897432675.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/amazon-microsoft-and-google-s-ai-armies-are-huge-yet-struggling-to-innovate/amp-11679897432675.html"
+  - title: "Streaming Services and Cybersecurity"
+    excerpt: "The popularity of streaming platforms and apps have exploded in recent years. Streaming services have now become the norm, rather than the exception, as more households “cut the cord” with their cable providers."
+    publishedDateTime: 2023-03-27T19:37:00Z
+    webUrl: "https://securityboulevard.com/2023/03/streaming-services-and-cybersecurity/"
+    ampWebUrl: "https://securityboulevard.com/2023/03/streaming-services-and-cybersecurity/amp/"
+    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2023/03/streaming-services-and-cybersecurity/amp/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 73
+      name: Security Boulevard
+      domain: securityboulevard.com
+    quality: 44
     images:
-      - url: "https://www.livemint.com/lm-img/img/2023/03/27/600x338/ai_1655840015732_1679897559934_1679897559934.jpg"
-        width: 600
-        height: 337
+      - url: "https://www.arkoselabs.com/wp-content/uploads/protecting-media-and-streaming-businesses-from-fraud-and-abuse-list.jpg"
+        width: 1200
+        height: 473
         isCached: true
-  - title: "How retailers are empowering business transformation with TCS and Microsoft Cloud"
-    excerpt: "TCS specializes in AI-powered vision technologies like Microsoft Azure Percept to create ... portfolio of intellectual property using machine vision, conversational assistants, predictive analytics, machine learning, AI, and other capabilities on Microsoft ..."
-    publishedDateTime: 2023-03-24T20:08:00Z
-    webUrl: "https://www.cio.com/article/465442/how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.html"
-    ampWebUrl: "https://www.cio.com/article/465442/how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/465442/how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.html/amp/"
+  - title: "Pope Francis the fashion icon? Detecting AI images reaches 'uncanny valley,' cybersecurity expert warns"
+    excerpt: "Those images, created through artificial intelligence (AI)-generator model Midjourney, were uploaded to Facebook and Reddit groups dedicated ... If you're feeling alone or dissatisfied, a new research suggests that watching live sports in person may ..."
+    publishedDateTime: 2023-03-28T02:44:00Z
+    webUrl: "https://www.ctvnews.ca/sci-tech/pope-francis-the-fashion-icon-detecting-ai-images-reaches-uncanny-valley-cybersecurity-expert-warns-1.6331639"
+    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/3/27/1_6331639.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/3/27/1_6331639.amp.html"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 69
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 43
     images:
-      - url: "https://www.cio.com/wp-content/uploads/2023/03/image-retail-custom-2-B4LLS.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
+      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/3/3/1_6298063.jpg"
+        width: 1020
+        height: 574
         isCached: true
-  - title: "Microsoft just launched a Notion AI competitor called Loop. Here's how you can access it"
-    excerpt: "Loop enables you to collaboratively create documents using any Microsoft Office application, like Outlook, Teams, or Word."
-    publishedDateTime: 2023-03-24T21:23:00Z
-    webUrl: "https://www.zdnet.com/home-and-office/smart-office/microsoft-just-launched-a-notion-ai-competitor-called-loop-heres-how-you-can-access-it/"
+  - title: "Deep Instinct Appoints Ed Carter as Chief Revenue Officer to Scale Growth of Prevention-first Cybersecurity"
+    excerpt: "AI-based deep learning (DL) framework, announced that Ed Carter has joined the company as Chief Revenue Officer. In this role, Carter will drive Deep Instinct's growth and expansion with enterprise customers, technology and channel partners, and MSSPs ..."
+    publishedDateTime: 2023-03-28T13:50:00Z
+    webUrl: "https://www.eagletribune.com/region/deep-instinct-appoints-ed-carter-as-chief-revenue-officer-to-scale-growth-of-prevention-first/article_94b029d9-2255-5d29-8c0e-94bbdaf6878e.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 55
-  - title: "AI wars: Elon Musk attacks Microsoft over ChatGPT tech access"
-    excerpt: "Elon Musk, the CEO of Tesla and Twitter, may have just stepped up his attacks on Microsoft in the ongoing conflict over artificial intelligence (AI)."
-    publishedDateTime: 2023-03-25T09:25:00Z
-    webUrl: "https://interestingengineering.com/culture/ai-elon-musk-attacks-microsoft-chatgpt-access"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 6
     images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/03/25/image/jpeg/6d7CeY62RxFsKuxAliFamIlh8wObxQboQdFHROq9.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/0/88/08890cf6-4595-51ce-bf75-c55a89ad1038/6422ea597baa3.image.jpg?crop=1288%2C676%2C0%2C466&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "AI startup accelerator Neo will partner with OpenAI, Microsoft"
-    excerpt: "Neo will partner with OpenAI and Microsoft to give free software and advice to companies on artificial intelligence."
-    publishedDateTime: 2023-03-27T14:00:00Z
-    webUrl: "https://www.seattletimes.com/business/new-ai-startup-accelerator-will-partner-with-openai-microsoft/"
-    ampWebUrl: "https://www.seattletimes.com/business/new-ai-startup-accelerator-will-partner-with-openai-microsoft/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/new-ai-startup-accelerator-will-partner-with-openai-microsoft/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 54
-  - title: "Microsoft beefs up partner programs with AI and go-to-market differentiation"
-    excerpt: "The new capabilities embraced Microsoft's search engine Bing, Dynamics 365 Copilot, ChatGPT in Azure Open AI Service as well as a specialisation for partners for AI and machine learning in Azure. \"We believe AI will fundamentally change every software ..."
-    publishedDateTime: 2023-03-27T21:42:00Z
-    webUrl: "https://www.reseller.co.nz/article/706392/microsoft-beefs-up-partner-programs-with-ai-and-go-to-market-differentiation/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 51
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/nicole_dezen_microsoft.jpg"
-        width: 504
-        height: 315
-        isCached: true
-  - title: "GeekWire Podcast: Microsoft, OpenAI, and the AI opportunity for startups, with Neo CEO Ali Partovi"
-    excerpt: "Neo’s diverse team of employees and mentors has impacted its startup accelerator and venture portfolio, with 46% of its capital backing startups led by women or members of underrepresented groups. (Neo Photo) This week on the GeekWire Podcast: what AI me ..."
-    publishedDateTime: 2023-03-25T16:18:00Z
-    webUrl: "https://www.geekwire.com/2023/geekwire-podcast-openai-microsoft-and-the-ai-opportunity-for-startups-with-neo-ceo-ali-partovi/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 50
-  - title: "Improving ESG performance in financial services on Microsoft Cloud"
-    excerpt: "Overcoming data-related challenges will be key for banks and other financial institutions to make progress ... that produce environmentally friendly goods and services. Leadership teams are also learning that ESG initiatives can boost business performance."
-    publishedDateTime: 2023-03-24T19:14:00Z
-    webUrl: "https://www.cio.com/article/465423/improving-esg-performance-in-financial-services-on-microsoft-cloud.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 21
-  - title: "Microsoft Offers Private Preview for GitHub Copilot Chat for Visual Studio 2022"
-    excerpt: "Since its 2021 introduction, Microsoft and Microsoft-owned GitHub have been evolving the Copilot extension beyond code-completion capabilities to take advantage of new breakthroughs like natural language processing (NLP) tech that powers the sentient ..."
-    publishedDateTime: 2023-03-24T18:26:00Z
-    webUrl: "https://visualstudiomagazine.com/articles/2023/03/24/visual-studio-chat.aspx"
-    type: article
-    provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
-    quality: 17
 
 secured: "jqCG42CnVKzdrnbYT/sU+EqHeKpq3XS/MhGTGZpLZ/0ssJ3sab+9X8a/E8Tec1BNdcx7o33f5v7sqwH8vxHP+yii5YNtVzoiGTDeJgyCAvdl7TR/R+30LHbs+ZypamWDQlfzUS1xGspJQChLc1t+xQo87WAJeJcywqZuRReqwI3qNZZgjgg0V7INWhnizqvf/OPe8VrmOeKg2NvX1XOCs14QC6ATJHfO533pGmk/ucxUznmgO9dgdXZJyF3tdX9EuAWwK6xGpM8V/oNomyZSnOOMbnnteDK+6XCgI5IVVaUD8wC05LnxIqmw9b9XlujYiIBpf3xa9vIeHu/2KLjJOtPO0bJ0zLKwmqq0nnzUpOvGQdzrrWBxQXCu8W6s61jzWRVTjtSsRe/qgJwyDAtKJyEYkve36C88YxydC5QQfquFHSMitr7cdEpxSePC6/PXT/8LzB9PYM1hmIDDBTZuELS4n+MEDQOVDn1hjo3O99SFgsaD6IcwHgLEtXlf5oStJwJZXY8P77U3joEyjViIwQ==;I3s3eTJDTi/xJwV3E8AngQ=="
 ---

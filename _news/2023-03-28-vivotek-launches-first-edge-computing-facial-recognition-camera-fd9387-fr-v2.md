@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-28T13:03:00Z
 originalUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/vivotek-first-edge-computing-facial-recognition-camera-fd9387-fr-v2-co-1795-ga-npr.1679984482.html"
 webUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/vivotek-first-edge-computing-facial-recognition-camera-fd9387-fr-v2-co-1795-ga-npr.1679984482.html"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: SourceSecurity

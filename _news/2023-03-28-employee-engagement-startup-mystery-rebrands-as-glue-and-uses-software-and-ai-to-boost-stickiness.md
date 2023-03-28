@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-28T13:02:00Z
 originalUrl: "https://www.geekwire.com/2023/employee-engagement-startup-mystery-rebrands-as-glue-and-uses-software-and-ai-to-boost-stickiness/"
 webUrl: "https://www.geekwire.com/2023/employee-engagement-startup-mystery-rebrands-as-glue-and-uses-software-and-ai-to-boost-stickiness/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: GeekWire

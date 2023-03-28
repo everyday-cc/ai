@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023 Healthcare Artificial Intelligence (AI) Market Size, Growth | Global Industry Trends [2029]"
-    excerpt: "Mar 23, 2023 (The Expresswire) -- [118+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Healthcare Artificial Intelligence (AI) Market” Size 2023 Key players ..."
-    publishedDateTime: 2023-03-23T20:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-healthcare-artificial-intelligence-ai-market-size-growth-global-industry-trends-2029-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 88
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Healthcare Natural Language Processing (NLP) Market Share From 2023 And Unlimited Opportunities for New Companies"
     excerpt: "Healthcare Natural Language Processing (NLP) Market Size 2023 | New Report (127 Pages) | Information Technology | In"
     publishedDateTime: 2023-03-27T03:52:00Z
@@ -113,6 +99,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural language processing (NLP) Market Analysis Geography Trends, Demand and Forecasts 2030| Apple Incorporation, Dolbey Systems, Google"
+    excerpt: "Mar 28, 2023 (Heraldkeepers) -- New Jersey, United State: Infinity Business Insights has announced the release of its latest report on Natural language processing (NLP) Market. It provides an in-depth analysis of the drivers, restraints, market dynamics ..."
+    publishedDateTime: 2023-03-28T12:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-geography-trends-demand-and-forecasts-2030-apple-incorporation-dolbey-systems-google-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
 
 secured: "hNJYm2+pwprd7OKOHrHQ0AHOw7zzcHeEDnv3UMLQkIBSFS1ETWtkh+hbOqlGMlLdCf22Vuu+NWA3gma5P9+BSrR8nya/VARQq6+gRnYWirh75X1kxwM3/1NGeih7we9z5Y+bJKEEG/JOuAHYgeDHaEEtnV0+Ddzdctk3jgz8LamVKX+KPbAqJN9QzRPhMWtwou13PXIoY33Q2ujXYbX1O1XoSQF/D+AwlbO1TVjMD+IP8mvelbmtoERxqk1Fz2ZzHp+cUsIzV4dhSsVWHoaut2eHp6+zTqgZKeVX/q+3Ik2IRFxaOAvJN50a6kt5qSDomaP7y1Zk2WT59QTMaWHCuGfhConRby+J7Awj/ViT+yc=;bj5UEQdQtZDlvwVy71EsvQ=="
 ---
