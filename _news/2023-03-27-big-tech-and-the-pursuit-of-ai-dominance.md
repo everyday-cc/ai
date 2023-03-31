@@ -54,6 +54,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 85
+  - title: "Will Layoffs by Big Tech Players Hurt Ethical AI Development?"
+    excerpt: "In this period, the company received some complaints about biases, inaccuracies and inappropriate behavior of this AI model. This Zacks Rank #3 (Hold) company dissolved the entire ethics and society team last January, with the company stating that the ..."
+    publishedDateTime: 2023-03-31T15:57:00Z
+    webUrl: "https://www.nasdaq.com/articles/will-layoffs-by-big-tech-players-hurt-ethical-ai-development"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
   - title: "How AI Is Changing The Future Of Creative Enterprise"
     excerpt: "AI tools that were once complex and time-consuming are now faster and more consumer-friendly. Soon, the line between \"professional\" and \"consumer\" software tools will blur as they merge and significantly impact business models."
     publishedDateTime: 2023-03-27T12:44:00Z

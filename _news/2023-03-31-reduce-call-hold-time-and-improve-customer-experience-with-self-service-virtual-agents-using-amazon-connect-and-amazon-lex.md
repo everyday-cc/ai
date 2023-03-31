@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-31T19:34:57Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/reduce-call-hold-time-and-improve-customer-experience-with-self-service-virtual-agents-using-amazon-connect-and-amazon-lex/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/reduce-call-hold-time-and-improve-customer-experience-with-self-service-virtual-agents-using-amazon-connect-and-amazon-lex/"
 type: article
+quality: 43
+heat: 43
+published: false
 
 provider:
   name: AWS

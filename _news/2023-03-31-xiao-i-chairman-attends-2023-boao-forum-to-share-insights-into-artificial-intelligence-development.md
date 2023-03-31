@@ -24,6 +24,17 @@ images:
     height: 316
     isCached: true
 
+related:
+  - title: "Xiao-I Chairman Attends 2023 Boao Forum to Share Insights into Artificial Intelligence Development"
+    excerpt: "Earlier this month, Xiao-I went public on the Nasdaq Global Market through an initial public offering, launching its globalization strategy while continuously increasing investment in core technology research and development as well as international market development."
+    publishedDateTime: 2023-03-31T21:05:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/03/31/9787018.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 20
+
 secured: "WF5Q5sCUhsOnoRLUl9jzwdg/rrK6Qr6KRb5l97QtiH4UqWxZ2Jkx7ouTun5O39LpOLZ9uN7KaY8NXDWcXtGEA5A1icRujkS/AI1TT4n0+WkXCj5r4v6H0v7l0QKwByhKva4CWCi+op9INu+2e5ONOMdteRk58Kvbjqi1HWi5dgzEHXu3qZb6pCYCbnffCAXdU7DXpgHUtwB9kYEInmxspCpUlOrdJDvJ+rBmR47tRj+9nPr2PEsRYnkxrtJi0nx5pvHeKQaBFckeyoiUVuHm0hOuduzCm3PIxYusNDJQuH7E72R6YsMSTWP/QsWFf6lG9byH1HHiPBx0lzJRPbWeQiZyhb7QkWnC1PVsArwSzFE=;DejZ6A4HpywtrmC5ZXFgsA=="
 ---
 

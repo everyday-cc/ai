@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Rutgers executes exclusive license with AI startup developed at school"
+    excerpt: "The Rutgers University Office for Research announced March 30 it is executing an exclusive license with Steg.AI, a startup based on artificial intelligence that was developed at Rutgers and founded by double graduate Eric Wengrowski and School of ..."
+    publishedDateTime: 2023-03-31T18:37:00Z
+    webUrl: "https://njbiz.com/rutgers-executes-exclusive-license-with-ai-startup-developed-at-school/"
+    type: article
+    provider:
+      name: NJBIZ
+      domain: njbiz.com
+    quality: 17
 
 secured: "Texm7+vMhnwWovqFwaZEqXxbcwt85LSUAEIBOZjm9YyCLPLbfRGs0uwtYniecFRP+kPVGgqFdSKc4lXBsk59U5LfqRfuw55ic6yH+r4WP9yxyWkHGVEtff0O86jFWIptAZwZxtuL5e3EtMTQ3pFh3SaQFSiCUjz5ygtf1wuF9gGy71HxQ1axIHlmoOFbBjVHc2bnymhggtSzCrg6I6pqlCuC3pFMFp2GBTtn5PtFVft5oo8MntX7wFGhCQjjgUSmONddU+i68Zg6EY96f+eOUzukbwa8JoXbdrTkJMkOJGnsncXG/LS51D0qTo6ow+0GdFvKME5NFmfRcrBwwZqryyjbokyoGmxlKf5JVSiHy7c=;FKI8VKpp/A/6OAyF4zhizA=="
 ---

@@ -40,6 +40,22 @@ related:
         width: 1400
         height: 1050
         isCached: true
+  - title: "How to Tell If a Photo Is an AI-Generated Fake"
+    excerpt: "Artificial-intelligence-powered image-generating systems are making fake photographs so hard to detect that we need AI to catch them"
+    publishedDateTime: 2023-03-31T19:53:00Z
+    webUrl: "https://www.scientificamerican.com/article/how-to-tell-if-a-photo-is-an-ai-generated-fake/"
+    ampWebUrl: "https://www.scientificamerican.com/article/how-to-tell-if-a-photo-is-an-ai-generated-fake/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/how-to-tell-if-a-photo-is-an-ai-generated-fake/?amp=true"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 57
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/7E7FD7C7-3196-4FCA-AD72E37FF06781BA.jpg"
+        width: 790
+        height: 496
+        isCached: true
 
 secured: "n+pgYeyHdyKZJykSrXTBB14ZSaaacRcfnSpqT5sL9wl98A41yObcIN4H7h6td7pktE5+B4XK3VwzyFxsvFAXoCJajwG1DPXE4SiLAUO9yKCxo8dWrBrI3kMBM/Jw5ryXuh06WBCNv7QI3x5nRoFDydDvYZu/bmFFT8cpO3D3X/jsee9I59UYlSjxiTu1QsacsYlignDU0nBO5e22tqoGn7GdFe+8xXOUehSQPNhbzGQOOrUJjXOg7AimQqAeYIORnJEM30yXh1ao4Y0xGVAfP6SxSCSjLsFWqSXHdminmlQXCABhxKrUtvT+MBQIHch7WNvu/4gPOcNva7uFSpQMrlSI+BQc5vMqiaiFRdc5CUM=;Qw46xoy9MEas+DWl4EEFkg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/30/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/30/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
 type: article
 quality: 89
-heat: 399
+heat: 409
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-30.png?w=1200&strip=all"
         width: 1200
         height: 750
+        isCached: true
+  - title: "York student uses AI chatbot to get parking fine revoked"
+    excerpt: "Millie Houlton said she did not have the time to think about crafting her own response so turned to the chatbot A student has successfully appealed against a £60 parking fine by using a letter written by an artificial intelligence chatbot."
+    publishedDateTime: 2023-03-31T13:17:00Z
+    webUrl: "https://www.bbc.com/news/uk-england-york-north-yorkshire-65126772?at_bbc_team=editorial&at_link_id=DB580568-CFB3-11ED-A862-CC944744363C&at_ptr_name=twitter&at_link_origin=BBCNews&at_link_type=web_link&at_campaign_type=owned&at_format=link"
+    ampWebUrl: "https://www.bbc.com/news/uk-england-york-north-yorkshire-65126772.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-york-north-yorkshire-65126772.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/5980/production/_129221922_millypict.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Is Generative AI Such As ChatGPT Going To Undermine The Famed Attorney-Client Privilege, Frets AI Law And AI Ethics"
     excerpt: "Worries are that generative AI such as ChatGPT could undermine the revered attorney-client privilege. Here's the issue and what you need to do about it."

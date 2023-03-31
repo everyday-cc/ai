@@ -7,7 +7,7 @@ originalUrl: "https://www.stltoday.com/news/national/facial-recognition-is-helpi
 webUrl: "https://www.stltoday.com/news/national/facial-recognition-is-helping-putin-curb-dissent-with-the-aid-of-us-tech/article_993af131-23e1-5844-8bc6-1dea6eabbb81.html"
 type: article
 quality: 53
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Facial recognition is helping Putin curb dissent with the aid of U.S. tech"
+    excerpt: "Reuters review of more than 2,000 court cases shows facial recognition cameras have played an important role in the arrests of hundreds of protesters Author of the article: Andrey Chernyshov had ..."
+    publishedDateTime: 2023-03-29T19:01:00Z
+    webUrl: "https://nationalpost.com/news/world/facial-recognition-is-helping-russia-curb-dissent"
+    type: article
+    provider:
+      name: National Post
+      domain: nationalpost.com
+    quality: 32
   - title: "I am an SAS-trained facial recognition expert – here are the telltale signs paranoid Putin IS using body doubles"
     excerpt: "AN SAS-trained facial recognition expert believes Vladimir Putin is so paranoid about being assassinated that he is using body doubles. Graham Yuill has revealed the telltale signs that he says"
     publishedDateTime: 2023-03-27T11:07:00Z

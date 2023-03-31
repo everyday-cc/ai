@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3691892/ai-and-the-future-of-softw
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3691892/ai-and-the-future-of-software-development.amp.html"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 85
+  - title: "Will Layoffs by Big Tech Players Hurt Ethical AI Development?"
+    excerpt: "In this period, the company received some complaints about biases, inaccuracies and inappropriate behavior of this AI model. This Zacks Rank #3 (Hold) company dissolved the entire ethics and society team last January, with the company stating that the ..."
+    publishedDateTime: 2023-03-31T15:57:00Z
+    webUrl: "https://www.nasdaq.com/articles/will-layoffs-by-big-tech-players-hurt-ethical-ai-development"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
   - title: "Big tech and the pursuit of AI dominance"
     excerpt: "The announcements add to a spate of similar ones in the past month or so from America’s tech titans. OpenAI, the startup which is part-owned by Microsoft and which created ChatGPT , an AI conversationalist that has taken the world by storm,"
     publishedDateTime: 2023-03-27T08:20:00Z

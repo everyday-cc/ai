@@ -67,6 +67,17 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "Things to consider with the use of giant AI experiments and the safety of Black travelers"
+    excerpt: "For example, there are AI translation tools that are specifically designed to translate non-standard varieties of a language, which can help to ensure that BIPOC travelers are able to communicate effectively while traveling. Overall, the impact of AI on ..."
+    publishedDateTime: 2023-03-31T18:08:00Z
+    webUrl: "https://www.newsobserver.com/detour/article273827310.html"
+    ampWebUrl: "https://amp.newsobserver.com/detour/article273827310.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/detour/article273827310.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 32
 
 secured: "jMXHEJMa8raBVjPZw3aO3Tz4UhfQBrlnAoiro/Ilq2JaXuHn9bc4/X0+tGr5g0B+azS8l5H8wW3kLhEaTNgXEW1CmXOVnxip4xMxdRMe4tLO+Mp3X1CWU2YhRN9c/m1DA+7/RpwWCZRTyhR1MezPucO/QcdWPfqnq5BrRRTXsQP8eFdO3ifwsPEq8kZvWeSMa+/UpVBOeNqzfmm2XSWTDt8wAYOgUeF9qILLf9JVXLiT4VDFLMmnLCi2SjiiIo1hv8cqXbO+r/v1du71UeT84le7677eQDuiLOEWoY80C2QqNKPGxIAokeSah6Btv1MgcHk6qfBOLjkRzLLqEBj13JF1npPaPwhOtDcPQSn24+QevOA5x+5pueremMEfiVveC43QiRw2bpledzoiCJ/DsePnotdxGzUaYT57Wcn0AZo1pMxrDp7prJxEQaEyv6SQjdPUFvwVY8RseqpF6d+TbraJ/pw08QlvrenUPTUTRtXCojbN0hQP9YoRd5PSCgcWM/adGHtgjGvQhjebPh1FZw==;/li4vCyl5yGuqBW0bhyCsw=="
 ---

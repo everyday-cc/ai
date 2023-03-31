@@ -37,34 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023, Healthcare AI Market of the Future Size and Growth of the"
-    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  Moreover, the Healthcare AI Market Report includes data on research and development,"
-    publishedDateTime: 2023-03-27T04:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-healthcare-ai-market-of-the-future-size-and-growth-of-the-2023-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 86
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing (NLP) Market to Eyewitness Massive Growth 2023"
-    excerpt: "Natural Language Processing (NLP) Market Size 2023 | New Report (102 Pages) | Information Technology | In This"
-    publishedDateTime: 2023-03-27T04:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-to-eyewitness-massive-growth-2023-2023-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing (NLP) in Healthcare Market by 2031"
     excerpt: "The \"Natural Language Processing (NLP) in Healthcare Market\" study describes how the technology industry is evolving"
     publishedDateTime: 2023-03-29T19:28:00Z
@@ -74,20 +46,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 81
-  - title: "Healthcare Natural Language Processing (NLP) Market Share From 2023 And Unlimited Opportunities for New Companies"
-    excerpt: "Healthcare Natural Language Processing (NLP) Market Size 2023 | New Report (127 Pages) | Information Technology | In"
-    publishedDateTime: 2023-03-27T03:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-share-from-2023-and-unlimited-opportunities-for-new-companies-2023-03-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 80
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning as a Service (MLaaS) Market 2023: Growing Opportunities by 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- The global \"Machine Learning as a Service (MLaaS) Market\" research study presents an in-depth analysis of the market's revenue, size ..."
     publishedDateTime: 2023-03-27T21:23:00Z
@@ -125,6 +83,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing Market 2023: Growing Opportunities by 2028"
+    excerpt: "The global \"Natural Language Processing Market\" research study presents an in-depth analysis of the market's revenue,"
+    publishedDateTime: 2023-03-29T05:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2023-growing-opportunities-by-2028-2023-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
 
 secured: "BB3J+UK9pbAOdDvzIlHthJTYBsA71n+aOSIGT4/NVdHAtP2jJJnx8nCa66hTj+6ixkxrCOMXFPauW+T7WZyrDhcQhzRxJdnV5DGfOHoRYBM45t8Uz+Yx7orZoJGMXnRPcuw4OsiDj1fWlubYHqaVtvwJPMTJBRZES2whU0UP7/dsh1hxh2dyo+VYztu0NZIDl+oqAqcCN7An3vF8XKiuMxqbPvbNv1peHT2FYuxJDPWrk0ocxECjmZ78Zkz58tvHmRx5Ndk0hCPQvZET4skO+QwyyosldTrfr7U9bOLkNihI8Biq1WNoB/JBhqMScPVS3BFt/stDDLmtzFFxpivBmznHNAOYG37AcPkICVuFNo4=;9RcePhM6c/tNygellOjCRw=="
 ---

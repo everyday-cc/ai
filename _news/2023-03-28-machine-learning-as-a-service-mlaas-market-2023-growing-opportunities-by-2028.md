@@ -43,34 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023, Healthcare AI Market of the Future Size and Growth of the"
-    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  Moreover, the Healthcare AI Market Report includes data on research and development,"
-    publishedDateTime: 2023-03-27T04:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-healthcare-ai-market-of-the-future-size-and-growth-of-the-2023-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 86
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing (NLP) Market to Eyewitness Massive Growth 2023"
-    excerpt: "Natural Language Processing (NLP) Market Size 2023 | New Report (102 Pages) | Information Technology | In This"
-    publishedDateTime: 2023-03-27T04:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-to-eyewitness-massive-growth-2023-2023-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing (NLP) in Healthcare Market by 2031"
     excerpt: "The \"Natural Language Processing (NLP) in Healthcare Market\" study describes how the technology industry is evolving"
     publishedDateTime: 2023-03-29T19:28:00Z
@@ -80,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 81
-  - title: "Healthcare Natural Language Processing (NLP) Market Share From 2023 And Unlimited Opportunities for New Companies"
-    excerpt: "Healthcare Natural Language Processing (NLP) Market Size 2023 | New Report (127 Pages) | Information Technology | In"
-    publishedDateTime: 2023-03-27T03:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-share-from-2023-and-unlimited-opportunities-for-new-companies-2023-03-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 80
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing (NLP) Market Top Players by 2031"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 29, 2023 (The Expresswire) -- The \"Natural Language Processing (NLP) Market\" study describes how the technology industry is evolving and how major and emerging players in ..."
     publishedDateTime: 2023-03-30T03:43:00Z
@@ -117,6 +75,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing Market 2023: Growing Opportunities by 2028"
+    excerpt: "The global \"Natural Language Processing Market\" research study presents an in-depth analysis of the market's revenue,"
+    publishedDateTime: 2023-03-29T05:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2023-growing-opportunities-by-2028-2023-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
   - title: "Natural language processing (NLP) Market Analysis Geography Trends, Demand and Forecasts 2030| Apple Incorporation, Dolbey Systems, Google"
     excerpt: "Mar 28, 2023 (Heraldkeepers) -- New Jersey, United State: Infinity Business Insights has announced the release of its latest report on Natural language processing (NLP) Market. It provides an in-depth analysis of the drivers, restraints, market dynamics ..."
     publishedDateTime: 2023-03-28T12:13:00Z

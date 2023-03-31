@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-31T19:31:00Z
 originalUrl: "https://www.inc.com/soren-kaplan/artificial-intelligence-ai-will-disrupt-consulting-industry.html"
 webUrl: "https://www.inc.com/soren-kaplan/artificial-intelligence-ai-will-disrupt-consulting-industry.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Inc

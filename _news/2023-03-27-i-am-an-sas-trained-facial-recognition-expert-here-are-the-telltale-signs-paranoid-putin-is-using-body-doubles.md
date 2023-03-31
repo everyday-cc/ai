@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Facial recognition is helping Putin curb dissent with the aid of U.S. tech"
+    excerpt: "Reuters review of more than 2,000 court cases shows facial recognition cameras have played an important role in the arrests of hundreds of protesters Author of the article: Andrey Chernyshov had ..."
+    publishedDateTime: 2023-03-29T19:01:00Z
+    webUrl: "https://nationalpost.com/news/world/facial-recognition-is-helping-russia-curb-dissent"
+    type: article
+    provider:
+      name: National Post
+      domain: nationalpost.com
+    quality: 32
 
 secured: "+2BP1med9T+UJYMnogQtZfsiNDpaaUPGZDgn+xfCBtL4v9vFNlXiGt49KX5zhzT+gAm2qMzPXsdcLjosqdDY1ee0aYuMRFeHaFG0gS5uwrukcM3b6od8DycANj7ZfvnhYYGfBYcNB139ee3L21TCOvZ+DvpfZh7OVin/TwZa28EhZu4J4WFatizoUcUtR3/UG+01ksw7LObyT8sJhPuvZez5pnFyiixL89sDqGf/sWxCLpAiUtUciYiVCphN4y7syFbAtDckgBoo0qNd3Vl8kC8YGBip4AH5rzWQBPllFXLQbU8HJkYu5HTb9s3fyXEcSLS/h5hRh/0Omg8xU4DwtWLyhvzf42M7WQ7VGDVg0OfLdyRrdTwnSRd1QhDArcCE54JnOTmJHzUE7+I6ZvY3q3Ak9VmPSRBCBYTsF8rIp59KpdLGJ6Agz2THSAKJM2FW7Ft5KYIk4p7BqZHMITnMPemDr9Wt6jPygh0mqsyrfnoccgL9OBOxUTKBL13tITmoqZt25uwxH6NEQQIhw7KwIQ==;3qRajiwpmjPPt5GUGUqfNA=="
 ---

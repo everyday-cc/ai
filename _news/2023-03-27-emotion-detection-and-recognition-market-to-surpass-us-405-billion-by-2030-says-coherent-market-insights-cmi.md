@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Fashion Retail Market to Experience a Significant Increase in Revenues"
-    excerpt: "Artificial Intelligence in Fashion Retail Market Size 2023 | New Report (105 Pages) | Information Technology | In"
-    publishedDateTime: 2023-03-27T04:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-fashion-retail-market-to-experience-a-significant-increase-in-revenues-2023-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence In RegTech Market: Recent Growing Trend 2031"
     excerpt: "The \"Artificial Intelligence In RegTech Market\" study describes how the technology industry is evolving and how major"
     publishedDateTime: 2023-03-27T16:32:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-31T18:22:00Z
 originalUrl: "https://www.beckershospitalreview.com/ehrs/what-will-the-next-generation-of-ehrs-look-like-5-cios-weigh-in.html"
 webUrl: "https://www.beckershospitalreview.com/ehrs/what-will-the-next-generation-of-ehrs-look-like-5-cios-weigh-in.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Becker's Hospital Review

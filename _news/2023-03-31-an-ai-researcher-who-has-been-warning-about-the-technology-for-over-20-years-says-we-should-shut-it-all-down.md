@@ -62,6 +62,17 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "Things to consider with the use of giant AI experiments and the safety of Black travelers"
+    excerpt: "For example, there are AI translation tools that are specifically designed to translate non-standard varieties of a language, which can help to ensure that BIPOC travelers are able to communicate effectively while traveling. Overall, the impact of AI on ..."
+    publishedDateTime: 2023-03-31T18:08:00Z
+    webUrl: "https://www.newsobserver.com/detour/article273827310.html"
+    ampWebUrl: "https://amp.newsobserver.com/detour/article273827310.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/detour/article273827310.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 32
   - title: "‘I Have No Idea What I’m Talking About’: Jesse Watters Throws in the Towel During Rant About Artificial Intelligence"
     excerpt: "Jesse Watters’ co-hosts cracked up when he admitted he has “no idea” what he’s talking about during a segment on artificial intelligence ... “Most Americans are worried about robots taking their jobs,” Watters said on Wednesday’s episode ..."
     publishedDateTime: 2023-03-29T22:25:00Z

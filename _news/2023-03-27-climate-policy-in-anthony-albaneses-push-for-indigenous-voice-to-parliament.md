@@ -19,35 +19,37 @@ topics:
   - AI
 
 related:
-  - title: "Albanese accuses Dutton of undermining Indigenous voice"
-    excerpt: "The prime minister says Peter Dutton has been undermining Indigenous voice support, as the opposition calls for legal advice on the proposal to be released."
-    publishedDateTime: 2023-03-27T01:43:00Z
-    webUrl: "https://thenewdaily.com.au/news/politics/australian-politics/2023/03/27/albanese-accuses-dutton-undermining-indigenous-voice/"
-    ampWebUrl: "https://thenewdaily.com.au/news/politics/australian-politics/2023/03/27/albanese-accuses-dutton-undermining-indigenous-voice/amp/"
-    cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/politics/australian-politics/2023/03/27/albanese-accuses-dutton-undermining-indigenous-voice/amp/"
+  - title: "Anthony Albanese criticises ‘very strange’ question on whether voice will have input on energy policy"
+    excerpt: "Prime minister says people shouldn’t look for ‘distractions’ on voice to parliament’s ability to advise executive government"
+    publishedDateTime: 2023-03-27T09:10:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/mar/27/anthony-albanese-criticises-very-strange-question-on-whether-voice-will-have-input-on-energy-policy"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/mar/27/anthony-albanese-criticises-very-strange-question-on-whether-voice-will-have-input-on-energy-policy"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/mar/27/anthony-albanese-criticises-very-strange-question-on-whether-voice-will-have-input-on-energy-policy"
     type: article
     provider:
-      name: thenewdaily
-      domain: thenewdaily.com.au
-    quality: 44
+      name: The Guardian
+      domain: theguardian.com
+    quality: 29
     images:
-      - url: "https://thenewdaily.com.au/wp-content/uploads/2023/03/1679881328-Albanese-Dutton-voice.jpg?resize=960,600"
-        width: 960
-        height: 600
+      - url: "https://i.guim.co.uk/img/media/9e1bdb1fce1f323afd01854185f435c24f55288e/0_77_6973_4184/master/6973.jpg?width=620&quality=85&auto=format&fit=max&s=df1dbfe10ecddb501b3643dddd41353c"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Dutton undermining Indigenous recognition: Albanese"
-    excerpt: "Labor is holding the line on its refusal to release expert legal advice about the Voice to parliament proposal, firing back at the opposition over the plan."
-    publishedDateTime: 2023-03-27T06:46:00Z
-    webUrl: "https://www.afr.com/politics/federal/dutton-undermining-indigenous-recognition-albanese-20230327-p5cvjc"
+  - title: "Tony Abbott says the Voice to Parliament referendum will be a 'lose-lose situation' as he called on the Anthony Albanese to change course"
+    excerpt: "And if the Voice doesn’t get up, there will be a lot of “embittered indigenous people” and the cause of Constitutional recognition will be “badly set back.” Mr Abbott said Mr Albanese’s approach to the referendum campaign was the “wrong way ..."
+    publishedDateTime: 2023-03-27T11:32:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/tony-abbott-says-the-voice-to-parliament-referendum-will-be-a-loselose-situation-as-he-called-on-the-anthony-albanese-to-change-course/news-story/d8cc400d7024d2fa713086ade707853e"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/tony-abbott-says-the-voice-to-parliament-referendum-will-be-a-loselose-situation-as-he-called-on-the-anthony-albanese-to-change-course/news-story/d8cc400d7024d2fa713086ade707853e?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/tony-abbott-says-the-voice-to-parliament-referendum-will-be-a-loselose-situation-as-he-called-on-the-anthony-albanese-to-change-course/news-story/d8cc400d7024d2fa713086ade707853e?amp"
     type: article
     provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 11
     images:
-      - url: "https://static.ffx.io/images/$zoom_0.1939%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/f9e4b0ade331e5c9aa07e2b71cb4f17c5dd465dc"
-        width: 1200
-        height: 628
+      - url: "https://content.api.news/v3/images/bin/79a00247f4e83da8662cc245b78ee7be"
+        width: 649
+        height: 366
         isCached: true
 
 secured: "jSrt3XKflDw74FiZhOnCrQhR4sV8PcB56GD4gmBuuINJrT+l0qHyRLbN2EG8mUz4qyeX6JjAVM2ON1z2+z9m2A0/1ZsJenITxBHDJ2L7hNe/lROjix/adHbJ5+/qrw0yj5mGQyxl+fKtsnAH7PFQEZIVjzkEG2O7jor2rCQ//ON+bRU3VAFg7hEAdlFKaJEdJvo9iN9w1BWsVTcfiJyuYwW5H8qDuNh88p09Stv3Jg55IBQcjUCOq49iPdaBrj6NVUvLRJ1jR5R/m0tAWHfOVmXp05IzxYoK9JddvqwfpYjIPrS9Ch5SqtxAoBuoekr/GMHi0CQSARpqwLvr/NgS5LPFqzHWYdgT1H63Mk3YR9CZ/dfLG7EEW3kO9IZ5Jdh3TtJ8Xs676hx0VEWm0fqXyqnb2DqThrXWE87pfjGq/FL+fSQH3onyzmf6XD3tt2OZ7NqupyMeo2pp7MQ6ZAis9XLgM4PdTJ88vzO4T8QcyNKaiajnkGENflIBJqXJwLqjgpoBroyo8dzlq3oXR31crQ==;dMQNvx7TZpIL+NihaAnJKQ=="

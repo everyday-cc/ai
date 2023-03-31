@@ -27,79 +27,45 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving and Driverless Cars Market by 2031"
-    excerpt: "What is the Self-Driving and Driverless Cars market growth? Self-Driving and Driverless Cars Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2029."
-    publishedDateTime: 2023-03-27T03:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-and-driverless-cars-market-by-2031-2023-03-26"
+  - title: "Bill Gates says self-driving cars will be as revolutionary as the PC after riding in one"
+    excerpt: "Those services, like GM's Cruise and Alphabet's Waymo, use detailed maps and programming to operate only in certain sections of cities. In contrast, Wayve (much like Tesla) wants to develop an artificial-intelligence-enabled vehicle that can learn to drive ..."
+    publishedDateTime: 2023-03-31T15:48:00Z
+    webUrl: "https://www.businessinsider.com/bill-gates-ai-self-driving-cars-as-revolutionary-as-pc-2023-3"
+    ampWebUrl: "https://www.businessinsider.com/bill-gates-ai-self-driving-cars-as-revolutionary-as-pc-2023-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bill-gates-ai-self-driving-cars-as-revolutionary-as-pc-2023-3?amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://i.insider.com/6426f238ed593e00183f6aa0?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "While On-Road Driverless Slows, Ag-Tech Autonomy Players Are Plowing Ahead"
-    excerpt: "Enabling driverless operations by integrating sensors and software ... while GrAI Matter Labs is developing artificial intelligence via “brain-inspired chips that behave like humans do” to optimize devices assisting humans in the field."
-    publishedDateTime: 2023-03-30T20:22:00Z
-    webUrl: "https://www.forbes.com/sites/richardbishop1/2023/03/30/while-on-road-driverless-slows-ag-tech-autonomy-players-are-plowing-ahead/"
-    ampWebUrl: "https://www.forbes.com/sites/richardbishop1/2023/03/30/while-on-road-driverless-slows-ag-tech-autonomy-players-are-plowing-ahead/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2023/03/30/while-on-road-driverless-slows-ag-tech-autonomy-players-are-plowing-ahead/amp/"
+  - title: "Bill Gates says AI will revolutionize healthcare like the internet, mobile phones"
+    excerpt: "Bill Gates says artificial intelligence will change the way people get healthcare as much as the internet and mobile phones have and could make health more equitable around the globe. \"For one thing, [AIs will] help healthcare workers make the most of ..."
+    publishedDateTime: 2023-03-27T22:01:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/bill-gates-says-ai-will-revolutionize-healthcare-like-the-internet-mobile-phones.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-  - title: "Driverless cars ready for hire in suburban Beijing"
-    excerpt: "It added that Baidu plans to expand its autonomous ride-hailing services to 65 cities in 2025 and 100 in 2030. China’s self-driving taxi service is expected to reach 1.3 trillion (188.6 billion U.S. dollars) by 2030, accounting for 60 percent of the ..."
-    publishedDateTime: 2023-03-28T06:50:00Z
-    webUrl: "https://dailytimes.com.pk/1078112/driverless-cars-ready-for-hire-in-suburban-beijing/"
-    ampWebUrl: "https://dailytimes.com.pk/1078112/driverless-cars-ready-for-hire-in-suburban-beijing/amp/"
-    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/1078112/driverless-cars-ready-for-hire-in-suburban-beijing/amp/"
-    type: article
-    provider:
-      name: Daily Times
-      domain: dailytimes.com.pk
-    quality: 59
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 49
     images:
-      - url: "https://dailytimes.com.pk/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Google's self-driving vehicle company Waymo returns to Austin to test new driverless tech"
-    excerpt: "Even more self-driving vehicles will be tested in Austin, as Waymo, one of the first companies to test autonomous vehicles in Central Texas, returns. Austin’s reputation as a hotbed for autonomous technology continues as Waymo plans to once again test ..."
-    publishedDateTime: 2023-03-31T11:16:00Z
-    webUrl: "https://www.statesman.com/story/business/technology/2023/03/31/google-self-driving-vehicle-company-waymo-returns-austin-texas/70065082007/"
+  - title: "Bill Gates Says Self-Driving Cars Will Change Transportation Like PCs Transformed Work: 'Close To Tipping Point'"
+    excerpt: "Autonomous vehicles (AV) will change transportation like the way personal computers changed office work, Bill Gates wrote in his blog. Gates wrote that he believes autonomous vehicles will reach a tipping point within the next decade. “Right now, we're ..."
+    publishedDateTime: 2023-03-31T12:52:00Z
+    webUrl: "https://www.benzinga.com/news/23/03/31607947/bill-gates-says-self-driving-cars-will-change-transportation-like-pcs-transformed-work-close-to-tipp"
     type: article
     provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 25
-  - title: "Japan to designate lane for self-driving cars and route for drones"
-    excerpt: "The Japanese government has unveiled a plan to set up a dedicated lane for self-driving vehicles on a highway and establish a flight route for drones for delivery use. The move is part of an initiative to expand digital technologies nationwide. Prime ..."
-    publishedDateTime: 2023-03-31T06:59:00Z
-    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20230331_20/"
-    type: article
-    provider:
-      name: NHK
-      domain: nhk.or.jp
-    quality: 24
-    images:
-      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20230331_20_1237700_L.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Driverless cars ready for hire in suburban Beijing"
-    excerpt: "Driverless taxis are now available for hire in suburban Beijing, marking a new chapter in intelligent transport, China Daily reported Monday. Beijing earlier in March granted licenses to Chinese tech giant Baidu and autonomous vehicle startup Pony."
-    publishedDateTime: 2023-03-27T06:48:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202303/27/WS6421366ba31057c47ebb6c06.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 19
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "a2lJQvU3TpNY8Ibpq7VLmezvXJ49riblkRakRgML7rRr1+oi6MYkR3wGSjQt0WhSZN+Psz5fkcBKSJHpsyH7RdXEwwei8PFta9HsAsLX4fDnpOFyPyTKg2mcx5MI5WIS5HnM0fU4ILCVvFSWSmz5ab/xEuohjpVv/NxsyHTHcwhRelkx7zWLB8RVx7PYHTorbEbVSNf/Xr40e/NDkZoAThDP/1DEhklV2R9dgFhWiO8k/4WyHPKB4mEPHSamHs3WzLvYYX4lOVwyB6qXL3oKThFXYEVv9NJqClkicCG+eggFbC9AdQ+qtacRBn5Kms78qAJznLmbYzkfJFnXUZUTAtjox5k7IW7LYRJF//v7RC86LXIaiBFaj8XvCGgBf9/7dhIhhj3NL/V+Wk0xkss0EpDzelHJkMsZKIbrr76UHd3mELpmEpDtc1NXJRHdjMXCl0O/toFHzvpnvBbGDK2CjBFoEo8t9WMWzyfptbqqTQiytMxq3rMUR69M+t1hd78fFUOcbDcj8U37QPXtBGXCQA==;Q1Rd2IWs+EnXUqX3YZ9xcw=="
 ---

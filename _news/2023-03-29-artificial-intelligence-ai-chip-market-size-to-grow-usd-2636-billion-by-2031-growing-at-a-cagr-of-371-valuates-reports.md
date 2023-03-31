@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-28T22:39:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chip-market-size-grow-usd-/2023/03/28/9784803.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chip-market-size-grow-usd-/2023/03/28/9784803.htm"
 type: article
-quality: 23
-heat: 23
+quality: 25
+heat: 25
 published: false
 
 provider:

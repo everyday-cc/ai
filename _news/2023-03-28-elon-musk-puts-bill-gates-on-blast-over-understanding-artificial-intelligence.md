@@ -36,6 +36,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 58
+  - title: "Like a Stopped Clock, Elon Musk Is Right About AI"
+    excerpt: "Given the known and unknown risks that smart technologists associate with “generative” AI, the industry should err on the side of caution. None other than OpenAI, the startup at the center of the AI controversy and the Silicon Valley current “It ..."
+    publishedDateTime: 2023-03-31T21:49:00Z
+    webUrl: "https://www.barrons.com/articles/elon-musk-is-right-about-ai-f508989d"
+    ampWebUrl: "https://www.barrons.com/amp/articles/elon-musk-is-right-about-ai-f508989d"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/elon-musk-is-right-about-ai-f508989d"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://images.barrons.com/im-755329/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Elon Musk calls for artificial intelligence pause"
     excerpt: "Musk and hundreds of other tech industry experts are calling for a pause on experiments, calling the new technology a risk to society unless there’s proper oversight. ABC News’ Andrea Fujii explains."
     publishedDateTime: 2023-03-30T12:07:00Z

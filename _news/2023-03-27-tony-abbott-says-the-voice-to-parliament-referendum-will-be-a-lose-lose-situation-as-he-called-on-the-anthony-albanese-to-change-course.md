@@ -43,6 +43,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Climate policy in Anthony Albanese‘s push for Indigenous voice to parliament"
+    excerpt: "The Greens have upheld the need for the voice to provide advice on policies such as the safeguard mechanism in a rebuke to Anthony Albanese, arguing the climate policy – and the coal and gas projects it could affect – directly impacts upon Indigenous Australians."
+    publishedDateTime: 2023-03-27T11:21:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/climate-policy-in-anthony-albaneses-push-for-indigenous-voice-to-parliament/news-story/a2add347768dcd4a38d1d63c3632006b"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 1
 
 secured: "SJj2BSg76Uku0XC2EVM7cDlXwlJKjo6vcfdD8zeesFgfu8Gviisn0A4MSYPwZEIvM2XuNCAQQT406bladPZOUSXib81FCI39vJDHxHoOdd5M4K0A/L1p59N+l+M7Gnnq42mV0c+UTXaMMQDsur+/WZGOkwx1EDGIoQrOcuugz9XHucGq7Q7vFSFzyNF7qYBe06qQ5pWmmYglHktyxvqT68BHvYjIbP1dOvWoB336uoHQiQNrtMZTPhVjQG2EVuEUXqgualZqz7mCk5Lj8oceg3ED2lViXG+49ktG4HY7NqaczjWf5DVmVwPDu5Z3rgy1HtDm8adKGQ5SxDUItqXO+CsIRW1DB4EgmGLBHiYKrTr2v+C6zASsQ7UfR0+Bd1LTaosZZ2EH+FsBcBnvo91NPk4FclPDS64CFGyujaDl38wVGSv0v8WTAlj1uxleqdCLpzxt9JlP+naEGA21+D6qZZkX3lZddU/shSZjI2u9Y7mOjlUySB6soGci3aYtIWog4m01ZG2xkUVYZhLtWQGyNA==;Lgbp7tG/xo7jPPo8dkKaRw=="
 ---

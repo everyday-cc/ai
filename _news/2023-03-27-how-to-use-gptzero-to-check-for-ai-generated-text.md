@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/how-to-use-gptzero-check-ai-gen
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/how-to-use-gptzero-check-ai-generated-text/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "How to Tell If a Photo Is an AI-Generated Fake"
+    excerpt: "Artificial-intelligence-powered image-generating systems are making fake photographs so hard to detect that we need AI to catch them"
+    publishedDateTime: 2023-03-31T19:53:00Z
+    webUrl: "https://www.scientificamerican.com/article/how-to-tell-if-a-photo-is-an-ai-generated-fake/"
+    ampWebUrl: "https://www.scientificamerican.com/article/how-to-tell-if-a-photo-is-an-ai-generated-fake/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/how-to-tell-if-a-photo-is-an-ai-generated-fake/?amp=true"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 57
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/7E7FD7C7-3196-4FCA-AD72E37FF06781BA.jpg"
+        width: 790
+        height: 496
+        isCached: true
   - title: "Reliably detecting AI-generated text is mathematically impossible"
     excerpt: "The ease with which artificial intelligence can generate and paraphrase language means that detectors to spot AI content will only be as accurate as flipping a coin"
     publishedDateTime: 2023-03-30T09:30:00Z

@@ -5,7 +5,12 @@ excerpt: "Seeking to explore the capabilities of neural networks for recognizing
 publishedDateTime: 2023-03-29T14:34:00Z
 originalUrl: "https://techxplore.com/news/2023-03-neural-networks-motion.html"
 webUrl: "https://techxplore.com/news/2023-03-neural-networks-motion.html"
+ampWebUrl: "https://techxplore.com/news/2023-03-neural-networks-motion.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-neural-networks-motion.amp"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: techxplore
@@ -15,6 +20,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "LNDLGo3OqoMDVg3MUcPD55Mup5vi2Uzl3m2s6W3ktNO4W/xPwXzNWOkfqJD3c82BLz4PqbbFoVI8JMvY+t3j/oJM+Le8yURLcKbh8Un2K5vb3XEjWOuek4EYaiJXEKck6CHp0IdV8axriEgz4krbKngmOijt9vC7bxOuHA/UGCGLN9eH1iOt6HxqqsMh/iPfg3WGCQ/Y7X9kOOH/2GsV1cblDRW/YkdqLXysFCaPobHka2oBD9yM0wTQ1+okHrDj49D3szR4Uq2y4MAnO26kqmyoTQMy6ikftA46PC7OSqzbNyvgIE0hmjPeXmf4fJOlguNGf0F/+CLin5j6VUIpntoSL3D4mm6PukJCgUuyq3Xwq+ovxeDHctrcVNVroeAO299yfuhtOWagdsVglbtrd4yBnWpHEnGU0LgVTwdFFTrN2o3lryPTh01h2ApT2pFpdGABThT/w1f5G0QfyHxLNS6sD8hgWdVvK8hAB21zurgelKQyMwLSduGdOa5gCQ2shLJ+sT8YYIQn5Msc4aTzjw==;afOPEH/V9xg5RPuqkS7qeg=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/when-it-comes-to-neura.jpg"
+    width: 660
+    height: 304
+    isCached: true
+
+secured: "dlqiUXQ6EnMefqrnO1vQpEbfAD+waTNHJna75ez7Dp6bM7Ci4/qXdsx/MNfEGetnuWnvLGibykaHrYKVn38ZbQel1jhCh61t46ccolZbo2PUbV4UIiinDbE/iRIEpd8KbJl8trrcTbUfCa/893i6btGGYYzFRLPU2OAQ/uWvyPEfdRkTiF+onaNyibl4Jem/iKOXQGekaeSsDuWf5jrQ5CxoPvqJeTj6e6IgUUeif1sgEQjcakdAQrCPgVLEsBU/IDiZugyHLRGXWprrKSxSFXDgPuUtkHiE1lOepEvFgxCipQk8jBv7wap3DpLlhGJ9de25S4Yg/Rc54wtOmK1E9jrcAiFLh1ymfrOGcmL1dB4=;SvWJ1ugyy4Z5MZEza6DUFQ=="
 ---
 

@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Rutgers executes exclusive license with AI startup developed at school"
+    excerpt: "The Rutgers University Office for Research announced March 30 it is executing an exclusive license with Steg.AI, a startup based on artificial intelligence that was developed at Rutgers and founded by double graduate Eric Wengrowski and School of ..."
+    publishedDateTime: 2023-03-31T18:37:00Z
+    webUrl: "https://njbiz.com/rutgers-executes-exclusive-license-with-ai-startup-developed-at-school/"
+    type: article
+    provider:
+      name: NJBIZ
+      domain: njbiz.com
+    quality: 17
   - title: "Exactech Grows AI Expertise with Exclusive Machine-Learning Based Software Licensing Agreement and Team of Data Scientists"
     excerpt: "Exactech, a developer and producer of innovative implants, instrumentation, and smart technologies for joint replacement surgery, announced today it has exclusively licensed new software from Advata that will extend the capabilities of its innovative ..."
     publishedDateTime: 2023-03-27T15:06:00Z

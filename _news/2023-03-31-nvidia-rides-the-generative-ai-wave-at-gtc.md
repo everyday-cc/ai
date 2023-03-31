@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/03/31/nvidia-rides-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/03/31/nvidia-rides-the-generative-ai-wave-at-gtc/amp/"
 type: article
 quality: 93
-heat: 234
+heat: 244
 published: true
 
 provider:
@@ -182,6 +182,15 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
+    quality: 19
+  - title: "A Peek Into The Future Of AI Inference At Nvidia"
+    excerpt: "that Nvidia Research has put into a test chip for AI inference and that Dally explained at length. Before diving into these, Dally gave some perspectives on the inference performance improvements between the “Kepler” and “Hopper” GPU generations ..."
+    publishedDateTime: 2023-03-31T19:22:00Z
+    webUrl: "https://www.nextplatform.com/2023/03/31/a-peek-into-the-future-of-ai-inference-at-nvidia/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
     quality: 19
   - title: "Multiple red flags are not yet slowing the generative AI train"
     excerpt: "The champions of AI have long argued that this general purpose technology will produce an unprecedented surge in productivity and creativity; its critics fear it carries alarming present-day risks and may even pose an existential threat to humanity in future."

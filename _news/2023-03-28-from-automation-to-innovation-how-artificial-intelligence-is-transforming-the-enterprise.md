@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Automation does not mean elimination: AI’s role in job security"
+    excerpt: "New research shows us that only 50% of employees see technology as a strong asset for efficiency. IT teams are currently drivers of technology innovation implementation for their organizations, and IT optimization is slated to be the third largest AI use ..."
+    publishedDateTime: 2023-03-31T18:07:00Z
+    webUrl: "https://venturebeat.com/ai/automation-does-not-mean-elimination-ais-role-in-job-security/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
   - title: "Revolutionizing Translation: How AI is Changing the Language Industry"
     excerpt: "The rise of AI has made it easier, faster, and more accurate to translate text and speech from one language to another. In this post, we will explore the ways in which AI has transformed the translation industry. The most significant way in which AI has ..."
     publishedDateTime: 2023-03-28T11:19:00Z

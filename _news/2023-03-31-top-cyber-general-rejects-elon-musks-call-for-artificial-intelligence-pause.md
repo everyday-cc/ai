@@ -29,6 +29,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 58
+  - title: "Like a Stopped Clock, Elon Musk Is Right About AI"
+    excerpt: "Given the known and unknown risks that smart technologists associate with “generative” AI, the industry should err on the side of caution. None other than OpenAI, the startup at the center of the AI controversy and the Silicon Valley current “It ..."
+    publishedDateTime: 2023-03-31T21:49:00Z
+    webUrl: "https://www.barrons.com/articles/elon-musk-is-right-about-ai-f508989d"
+    ampWebUrl: "https://www.barrons.com/amp/articles/elon-musk-is-right-about-ai-f508989d"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/elon-musk-is-right-about-ai-f508989d"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://images.barrons.com/im-755329/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Elon Musk puts Bill Gates on blast over understanding artificial intelligence"
     excerpt: "Elon Musk took a dig at Bill Gates after the Microsoft founder wrote that he's been meeting with OpenAI since 2016, way before the release of ChatGPT."
     publishedDateTime: 2023-03-28T05:32:00Z

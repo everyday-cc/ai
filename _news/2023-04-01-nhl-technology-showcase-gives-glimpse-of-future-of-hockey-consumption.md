@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-31T19:12:00Z
 originalUrl: "https://www.nhl.com/news/nhl-technology-showcase-gives-glimpse-of-future-of-hockey-consumption/c-342952272"
 webUrl: "https://www.nhl.com/news/nhl-technology-showcase-gives-glimpse-of-future-of-hockey-consumption/c-342952272"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: National Hockey League

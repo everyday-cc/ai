@@ -25,81 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving and Driverless Cars Market by 2031"
-    excerpt: "What is the Self-Driving and Driverless Cars market growth? Self-Driving and Driverless Cars Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2029."
-    publishedDateTime: 2023-03-27T03:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-and-driverless-cars-market-by-2031-2023-03-26"
+  - title: "Japanese Expressway Is Getting A Lane Just For Self-Driving Trucks"
+    excerpt: "A lane on Japan’s busiest expressway will soon be dedicated to self-driving trucks as the country looks to ramp up the introduction of autonomous driving technologies. Japanese media reports that the lane will run for approximately 100 km (62 miles ..."
+    publishedDateTime: 2023-03-31T11:02:00Z
+    webUrl: "https://www.carscoops.com/2023/03/japanese-expressway-is-getting-a-lane-just-for-self-driving-trucks/"
+    ampWebUrl: "https://www.carscoops.com/2023/03/japanese-expressway-is-getting-a-lane-just-for-self-driving-trucks/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/03/japanese-expressway-is-getting-a-lane-just-for-self-driving-trucks/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "While On-Road Driverless Slows, Ag-Tech Autonomy Players Are Plowing Ahead"
-    excerpt: "Enabling driverless operations by integrating sensors and software ... while GrAI Matter Labs is developing artificial intelligence via “brain-inspired chips that behave like humans do” to optimize devices assisting humans in the field."
-    publishedDateTime: 2023-03-30T20:22:00Z
-    webUrl: "https://www.forbes.com/sites/richardbishop1/2023/03/30/while-on-road-driverless-slows-ag-tech-autonomy-players-are-plowing-ahead/"
-    ampWebUrl: "https://www.forbes.com/sites/richardbishop1/2023/03/30/while-on-road-driverless-slows-ag-tech-autonomy-players-are-plowing-ahead/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2023/03/30/while-on-road-driverless-slows-ag-tech-autonomy-players-are-plowing-ahead/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-  - title: "Driverless cars ready for hire in suburban Beijing"
-    excerpt: "It added that Baidu plans to expand its autonomous ride-hailing services to 65 cities in 2025 and 100 in 2030. China’s self-driving taxi service is expected to reach 1.3 trillion (188.6 billion U.S. dollars) by 2030, accounting for 60 percent of the ..."
-    publishedDateTime: 2023-03-28T06:50:00Z
-    webUrl: "https://dailytimes.com.pk/1078112/driverless-cars-ready-for-hire-in-suburban-beijing/"
-    ampWebUrl: "https://dailytimes.com.pk/1078112/driverless-cars-ready-for-hire-in-suburban-beijing/amp/"
-    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/1078112/driverless-cars-ready-for-hire-in-suburban-beijing/amp/"
-    type: article
-    provider:
-      name: Daily Times
-      domain: dailytimes.com.pk
-    quality: 59
-    images:
-      - url: "https://dailytimes.com.pk/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
-  - title: "To Make Self-Driving Cars Safer, Expose Them to Terrible Drivers"
-    excerpt: "Self-driving cars are taking longer to arrive on our roads than we thought they would. Auto industry experts and tech companies predicted they’d be here by 2020 and go mainstream by 2021. But it turns out that putting cars on the road without drivers is ..."
-    publishedDateTime: 2023-03-31T14:02:00Z
-    webUrl: "https://singularityhub.com/2023/03/31/to-make-self-driving-cars-safer-expose-them-to-terrible-drivers/"
-    ampWebUrl: "https://singularityhub.com/2023/03/31/to-make-self-driving-cars-safer-expose-them-to-terrible-drivers/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/03/31/to-make-self-driving-cars-safer-expose-them-to-terrible-drivers/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
+      name: Carscoops
+      domain: carscoops.com
     quality: 44
     images:
-      - url: "https://singularityhub.com/wp-content/uploads/2023/03/self-driving-cars.jpg"
-        width: 1068
-        height: 601
+      - url: "https://www.carscoops.com/wp-content/uploads/2023/03/Japanese-Expressway-a-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Google's self-driving vehicle company Waymo returns to Austin to test new driverless tech"
-    excerpt: "Even more self-driving vehicles will be tested in Austin, as Waymo, one of the first companies to test autonomous vehicles in Central Texas, returns. Austin’s reputation as a hotbed for autonomous technology continues as Waymo plans to once again test ..."
-    publishedDateTime: 2023-03-31T11:16:00Z
-    webUrl: "https://www.statesman.com/story/business/technology/2023/03/31/google-self-driving-vehicle-company-waymo-returns-austin-texas/70065082007/"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 25
-  - title: "Driverless cars ready for hire in suburban Beijing"
-    excerpt: "Driverless taxis are now available for hire in suburban Beijing, marking a new chapter in intelligent transport, China Daily reported Monday. Beijing earlier in March granted licenses to Chinese tech giant Baidu and autonomous vehicle startup Pony."
-    publishedDateTime: 2023-03-27T06:48:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202303/27/WS6421366ba31057c47ebb6c06.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 19
 
 secured: "8gfhoBOvUWkMr6airIPjCD4G5l+V4YLdTSVWa1gwid+H9gQuX4WJiM8tocHzdhXU+AiUQ4MPjbdPs4MboBTQ4gXbl3bOzl/OO+4aB0++H5KoZlvDYnilP1tThIaP5p0WeflvX8PUi+4BFOfGWW+g2b5pkWpqh2VMmgZ5PK+dqbL+tcdjROJpLTS5Ng7wdXPe8VfeuHGAk8h/9EmhDkigVoxi1F33lB3Ba1juWv/pAANpTPJRHP4QMCH64eSaombPanD8Xj4rJFvD4EN4LnlWRMs/Tudky2zh+jhtQDkwPlMi3VqsS7+wICGL61TvSI5aCwR0TeR3U9Ot+6hQMbpqDlMlNpd3DHyAxQT2KMNtPtMdXfK2NwLjD3j1NAp4Y3QTJBNPLplGhIq1QEVTwnkViKPcxTKfONGCb7+rXhAw5tYQ7Jr9w65AfKY/k9f8P/NK1Etc+W6aCi4JxIIp2+6QTrsNuQetgyGkQN8ret/UEcqDon527tatBf0W10VsTSEdCoicNxK8xdwl+NQw9zE0HA==;ZyHlUCjLGwur7EVFsubI9A=="
 ---

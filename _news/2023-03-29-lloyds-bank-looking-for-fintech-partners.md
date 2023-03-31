@@ -65,6 +65,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 4
+  - title: "Agent IQ's Lynq Platform Recognized As A Highly Commended Finalist in FinTech Futures' 2023 Banking Tech Awards USA"
+    excerpt: "The Banking Tech Awards USA acknowledges the achievements and successes of the banking and financial technology market in the United States. Agent IQ was selected as a finalist for \"FinTech of the Future\" award,"
+    publishedDateTime: 2023-03-31T19:24:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/03/31/9786985.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "CAlSxmbhjg0XY+KZ45sQiHC9Exp1Qb40xtOFA2GOoh+g78ZBb4LlZNb5qvYFiHm8QnDxtjnaLUJrRiUmo3WOA1hfz5HV36f0xa1i0UD30/e8yO17QDJE6UBSmmu4yzKQc2fK4JYlokI23pUvnnaOYuoWaYtICnfuyqRQBmmjP4NyVnm5OIwAxd+itY+PJ2Hp5E0AYLZRKzI09ct6sLldOJoGeZU2xYSxrviz8vCfGDpHMmHgpFPwl7cQ2mJvku9cIvUqfakCEaGUAbufrowzbq+pdZ6NYGekg89Qx1oO8aoa4yG6xxPBJXXbJsg/UeAr8bhQk3KoTnFAB4w+IL1Tlo2KF9yfF5i66OnJIubDf/3vkChiXKiZEvgnI6ccitV6yM+Z6plwo4sXJx4hTTX+2iMWKlMLI4oHc+2XLdmBmhZkG2dGQHQvWfO55Me097FqnUASuj1i7ootQQXl/v5RdtZ2w37RVh1RnbepPW/G8ckt2qXeypH9S+MEzoiP1KiGi6hTSC1u59SZk2Lq+bmKUQ==;7HDLG4rG8gbw65U2gQ19qQ=="
 ---

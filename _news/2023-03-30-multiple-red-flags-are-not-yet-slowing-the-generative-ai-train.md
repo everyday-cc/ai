@@ -184,6 +184,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "A Peek Into The Future Of AI Inference At Nvidia"
+    excerpt: "that Nvidia Research has put into a test chip for AI inference and that Dally explained at length. Before diving into these, Dally gave some perspectives on the inference performance improvements between the “Kepler” and “Hopper” GPU generations ..."
+    publishedDateTime: 2023-03-31T19:22:00Z
+    webUrl: "https://www.nextplatform.com/2023/03/31/a-peek-into-the-future-of-ai-inference-at-nvidia/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 19
 
 secured: "6cs8VqPYOkt8cJiQnIIHedRh054vbX9bB58FItdKM04Wwgq25pdGJFhpOjX/m9geiguwZXYxRcoJpbzr1xP+85O97V21D/+cc893hKV0r9xV/GaTaTXVyqcVfcPLgkB89crbBKHOcKVJMjtr/Ll4Iy2AjVDRytOcVjK26jpGLmlu9B4NbPIDHScvd0BlS2URcYLyHh7WlyBI2DfH/PU9xGtgGa57xFd7XUHWWc8hJ4sOWNJVWqc/zUEUD0TuZAHeCN4r0hP4AZDxmmYVzxaKg6OOC4lBR5Zaw4MNoSYMxKqpKUDtqImwqMiimeFLT+QtlSdjBnfLnQMaH5M27Xi91vQV54qhFNdfUBHoHEfo4ST6T5IPmXejsIRtiure//lDMUenO+dExUWKwxRdy37LvZjpi0AybLysZAqZ2uTwyVd456aM4sRdEdbtY4KSQyvrltCBAhGy5TqefSgBCIem/XynvAIGN09Nyk/3e9baAbtjKhFz7FV8zBU2NocQPZ557istdXqFCiaxZCCX5iUb4A==;W8UgwpysPh9a4O1i/ocR1w=="
 ---

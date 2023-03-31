@@ -25,31 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Albanese accuses Dutton of undermining Indigenous voice"
-    excerpt: "The prime minister says Peter Dutton has been undermining Indigenous voice support, as the opposition calls for legal advice on the proposal to be released."
-    publishedDateTime: 2023-03-27T01:43:00Z
-    webUrl: "https://thenewdaily.com.au/news/politics/australian-politics/2023/03/27/albanese-accuses-dutton-undermining-indigenous-voice/"
-    ampWebUrl: "https://thenewdaily.com.au/news/politics/australian-politics/2023/03/27/albanese-accuses-dutton-undermining-indigenous-voice/amp/"
-    cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/politics/australian-politics/2023/03/27/albanese-accuses-dutton-undermining-indigenous-voice/amp/"
+  - title: "Speechless Recognition: Can AI Transcribe a Language It Has Never Heard?"
+    excerpt: "Multilingual ASR for low-resource and endangered languages aids preservation and revitalization efforts and boosts language coverage."
+    publishedDateTime: 2023-03-31T10:00:00Z
+    webUrl: "https://slator.com/speechless-recognition-can-ai-transcribe-language-its-never-heard/"
     type: article
     provider:
-      name: thenewdaily
-      domain: thenewdaily.com.au
-    quality: 44
-    images:
-      - url: "https://thenewdaily.com.au/wp-content/uploads/2023/03/1679881328-Albanese-Dutton-voice.jpg?resize=960,600"
-        width: 960
-        height: 600
-        isCached: true
-  - title: "Climate policy in Anthony Albanese‘s push for Indigenous voice to parliament"
-    excerpt: "The Greens have upheld the need for the voice to provide advice on policies such as the safeguard mechanism in a rebuke to Anthony Albanese, arguing the climate policy – and the coal and gas projects it could affect – directly impacts upon Indigenous Australians."
-    publishedDateTime: 2023-03-27T11:21:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/climate-policy-in-anthony-albaneses-push-for-indigenous-voice-to-parliament/news-story/a2add347768dcd4a38d1d63c3632006b"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 1
+      name: Slator
+      domain: slator.com
+    quality: 33
 
 secured: "mrAanpwVCufVy0FLzUCfFqLtEgHr67pKV8tLU4XVLgHHDeoh0ywAspOgBDF4XGc1gYygsetdOZpgoGT3/nzVHh757/Ae0uOJSBJlOxQyVrJcCv1A+pFP01bj1bkpCqEDDOrYXgHMHMKao98yvMZ3dY7ZG3/AICBl+Lm8L2TY5PPdhbugV/lwghHZFGqCAPohYK2zgSJhHo7wrAlyGl6C/u3g/TZ0y3Ur3t7HIrf41oKPnEy0Kpmg4bWkSw4E5Dg2oMElBbVaJGqvAdCZo8732rEJRD//JwwaysMdbTLjtmQ2pqt0vhXN7Uw9EZAZMHaCUYrG/SzV60iY85YNNsV0oa7d9eEXX3hVCdgKPCJqyQK7eO20faWf8lgGZmi8B1/qxGc0KHzbyCv9hWUoLC23i8PuWGrgKtp9khR2CEIgFX6cbssGCA/SPcvb91dCvLejZ+HIxrBoTpGrTWvLqkM9ygPErdetnmR6XyDRYWjb0YmRMn6pm+AQvR756bEuGh2HgG1PWTodDF8pQslCvo36Ng==;muf+DXkO7f6TXKmdotrLaw=="
 ---

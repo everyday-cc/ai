@@ -7,7 +7,7 @@ originalUrl: "https://www.benzinga.com/startups/23/03/31609312/elon-musk-sam-alt
 webUrl: "https://www.benzinga.com/startups/23/03/31609312/elon-musk-sam-altman-say-scary-good-ai-is-on-the-way-heres-how-retail-is-investing-millions"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "The Contradictions of Sam Altman, AI Crusader"
+    excerpt: "Sam Altman, the 37-year-old startup-minting guru at the forefront of the artificial intelligence boom, has long dreamed of a future in which computers could converse and learn like humans. One of his clearest childhood memories is sitting up late in his ..."
+    publishedDateTime: 2023-03-31T18:24:00Z
+    webUrl: "https://www.wsj.com/articles/chatgpt-sam-altman-artificial-intelligence-openai-b0e1c8c9"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
 
 secured: "sA72dxZ47Tn8nmkj7EvLlqFNv0GAKGnJwX+dyz7Z7BRta8pGvBoj5JCwGWgwv0gzl7IZW7c+4ydfi0i/IwA/wqdgR0gPCSbTwlZABkYUXehIyTHF3sI086DBfL/9/FDsCMu/FunWW3FUjn875KpgNIEWQyYti5ercMg9WpRhPi79OxvrzahjFzFcKi7gR05mOIWr/PrvUqPUR3NyCpAV2+NVfZVMYUefsiqB8kVC2+i4vgfL6KmgW966ihVwQBdYfJ0qPt/l/ihvJPrsehhU1ArwT+uZ71ArhVzg3J2pRzk+XrvXgixpR6jlk+fn8mttD+l7skQaU+QCexfQZrb/ReRezv/3muWhFRrJzNhc5b8=;KP7iTo83GgoFQKFxicv47g=="
 ---

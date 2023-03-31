@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-31T18:54:00Z
 originalUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20230401_05/"
 webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20230401_05/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: NHK
