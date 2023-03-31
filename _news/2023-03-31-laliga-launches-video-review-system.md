@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-31T13:59:00Z
 originalUrl: "https://menafn.com/1105918192/Laliga-Launches-Video-Review-System"
 webUrl: "https://menafn.com/1105918192/Laliga-Launches-Video-Review-System"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Mena FN

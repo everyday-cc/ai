@@ -7,7 +7,7 @@ originalUrl: "https://www.computerweekly.com/news/365534185/Lloyds-bank-looking-
 webUrl: "https://www.computerweekly.com/news/365534185/Lloyds-bank-looking-for-fintech-partners"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,54 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Fintech Trends To Look Out For In 2023"
+    excerpt: "The fintech industry is continuously evolving, driven by advances in technology and changes in consumer behaviour. 2023 will witness significant trends in AI and machine learning, blockchain, digital banking and mobile payments, cybersecurity and fraud ..."
+    publishedDateTime: 2023-03-31T13:26:00Z
+    webUrl: "https://www.forbes.com/advisor/in/investing/fintech-trends-2023/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 34
+  - title: "German Fintech Sector Continued to Grow and Mature in 2022"
+    excerpt: "In 2022, the German fintech sector continued to grow and mature, on a back of solid funding activity, a dynamic merger and acquisition (M&A) landscape, and growing usage of digital financial services,"
+    publishedDateTime: 2023-03-27T05:43:00Z
+    webUrl: "https://fintechnews.ch/fintechgermany/german-fintech-sector-continued-to-grow-and-mature-in-2022/59211/"
+    type: article
+    provider:
+      name: fintechnews
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2023/03/German-Fintech-Sector-Continued-to-Grow-and-Mature-in-2022.png?x30842"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "4 Disruptive Technologies That are Shaping the Fintech Industry"
+    excerpt: "Fintech is one of the top beneficiaries of innovation and technological advancement. Over the years, technology has revolutionized how people see, spend, move, and invest money. In this article, you will learn about four innovative technologies shaping the Fintech industry."
+    publishedDateTime: 2023-03-28T03:14:00Z
+    webUrl: "https://techbullion.com/4-disruptive-technologies-that-are-shaping-the-fintech-industry/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/03/526827d12190d21a5d44f9d06e37c0a3.jpeg"
+        width: 848
+        height: 565
+        isCached: true
+  - title: "Key Environmental Trends To Look Out For Across The Fintech Industry"
+    excerpt: "But now, in a bid to attract eco-conscious customers and implement more sustainable industry practices, there are several environmentally focused fintech trends we expect to see come to dominate the industry,"
+    publishedDateTime: 2023-03-30T14:01:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/03/30/9786256.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "CAlSxmbhjg0XY+KZ45sQiHC9Exp1Qb40xtOFA2GOoh+g78ZBb4LlZNb5qvYFiHm8QnDxtjnaLUJrRiUmo3WOA1hfz5HV36f0xa1i0UD30/e8yO17QDJE6UBSmmu4yzKQc2fK4JYlokI23pUvnnaOYuoWaYtICnfuyqRQBmmjP4NyVnm5OIwAxd+itY+PJ2Hp5E0AYLZRKzI09ct6sLldOJoGeZU2xYSxrviz8vCfGDpHMmHgpFPwl7cQ2mJvku9cIvUqfakCEaGUAbufrowzbq+pdZ6NYGekg89Qx1oO8aoa4yG6xxPBJXXbJsg/UeAr8bhQk3KoTnFAB4w+IL1Tlo2KF9yfF5i66OnJIubDf/3vkChiXKiZEvgnI6ccitV6yM+Z6plwo4sXJx4hTTX+2iMWKlMLI4oHc+2XLdmBmhZkG2dGQHQvWfO55Me097FqnUASuj1i7ootQQXl/v5RdtZ2w37RVh1RnbepPW/G8ckt2qXeypH9S+MEzoiP1KiGi6hTSC1u59SZk2Lq+bmKUQ==;7HDLG4rG8gbw65U2gQ19qQ=="
 ---

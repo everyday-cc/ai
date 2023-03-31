@@ -2,6 +2,84 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-12-10-short-cognitive-behavioral-therapy-program-is-also-effective-at-reducing-anxiety-among-school-children.md",
+      "title": "Short cognitive behavioral therapy program is also effective at reducing anxiety among school children",
+      "excerpt": "To remedy this, a preventive intervention based on Cognitive Behavioral Therapy (CBT) for children, Journey of the Brave, was developed and introduced in Japanese schools in 2014. While the ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-12-short-cognitive-behavioral-therapy-effective.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-12-short-cognitive-behavioral-therapy-effective.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T08:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-high-vitamin-d-in-brain-associated-with-improved-cognitive-function-study.md",
+      "title": "High Vitamin D In Brain Associated With Improved Cognitive Function: Study",
+      "excerpt": "A group of researchers from the United States has completed the first investigation on vitamin D levels in brain tissue, specifically in adults with various rates of cognitive impairment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.onlymyhealth.com/high-vitamin-d-associated-with-improved-cognitive-function-1670591924",
+      "originalUrl": "https://www.onlymyhealth.com/high-vitamin-d-associated-with-improved-cognitive-function-1670591924",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.onlymyhealth.com/imported/images/2022/December/09_Dec_2022/main_vitamindandbrain.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.onlymyhealth.com/amp/high-vitamin-d-associated-with-improved-cognitive-function-1670591924",
+      "cdnAmpWebUrl": "https://www-onlymyhealth-com.cdn.ampproject.org/c/s/www.onlymyhealth.com/amp/high-vitamin-d-associated-with-improved-cognitive-function-1670591924",
+      "publishedDateTime": "2022-12-09T05:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Onlymyhealth",
+        "domain": "onlymyhealth.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-tecnotree-advances-to-acquire-top-aiml-platform-cognitivescale-in-north-america-to-further-enhance-5g-use-case-penetration.md",
       "title": "Tecnotree Advances to Acquire Top AIML Platform - CognitiveScale in North America to further Enhance 5G Use case Penetration",
       "excerpt": "Tecnotree is a market leader in 5G digital Business Support Systems (BSS), with AI/ML capabilities and multi-cloud extensibility. Tecnotree’s global footprint with over 90 Telecom customers in 70 countries around the world,",
@@ -1151,92 +1229,6 @@
       "provider": {
         "name": "KY3",
         "domain": "ky3.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-study-hearing-aids-may-help-slow-cognitive-decline.md",
-      "title": "Study: Hearing aids may help slow cognitive decline",
-      "excerpt": "A new study indicates that hearing aids may help delay or reduce dementia and cognitive decline. The findings were published Monday in the medical journal JAMA Neurology. Research has shown that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kshb.com/news/national/study-hearing-aids-may-help-slow-cognitive-decline",
-      "originalUrl": "https://www.kshb.com/news/national/study-hearing-aids-may-help-slow-cognitive-decline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/bf26fc3/2147483647/strip/true/crop/5000x2813+0+261/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F05%2Faf%2F9457e6804e6cb66a3c6e41cdead0%2Fap22334703657980.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kshb.com/news/national/study-hearing-aids-may-help-slow-cognitive-decline?_amp=true",
-      "cdnAmpWebUrl": "https://www-kshb-com.cdn.ampproject.org/c/s/www.kshb.com/news/national/study-hearing-aids-may-help-slow-cognitive-decline?_amp=true",
-      "publishedDateTime": "2022-12-06T07:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSHB Kansas City",
-        "domain": "kshb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-if-you-want-to-improve-your-cognitive-abilities-learn-piano.md",
-      "title": "If you want to improve your cognitive abilities, learn piano",
-      "excerpt": "“We know that playing and listening to music often bring joy to our lives, but with this study, we were interested in learning more about the direct effects a short period of music learning can have on our cognitive abilities,” commented Petrin",
-      "sourceUrl": null,
-      "webUrl": "https://www.biotechniques.com/neuroscience/if-you-want-to-improve-your-cognitive-abilities-learn-the-piano/",
-      "originalUrl": "https://www.biotechniques.com/neuroscience/if-you-want-to-improve-your-cognitive-abilities-learn-the-piano/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.biotechniques.com/wp-content/uploads/2022/12/piano.png",
-          "width": 602,
-          "height": 258,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BioTechniques",
-        "domain": "biotechniques.com",
         "images": null,
         "publishers": null,
         "authors": null

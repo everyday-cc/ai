@@ -52,6 +52,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 67
+  - title: "To Make Self-Driving Cars Safer, Expose Them to Terrible Drivers"
+    excerpt: "Self-driving cars are taking longer to arrive on our roads than we thought they would. Auto industry experts and tech companies predicted they’d be here by 2020 and go mainstream by 2021. But it turns out that putting cars on the road without drivers is ..."
+    publishedDateTime: 2023-03-31T14:02:00Z
+    webUrl: "https://singularityhub.com/2023/03/31/to-make-self-driving-cars-safer-expose-them-to-terrible-drivers/"
+    ampWebUrl: "https://singularityhub.com/2023/03/31/to-make-self-driving-cars-safer-expose-them-to-terrible-drivers/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/03/31/to-make-self-driving-cars-safer-expose-them-to-terrible-drivers/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 44
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2023/03/self-driving-cars.jpg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "Google's self-driving vehicle company Waymo returns to Austin to test new driverless tech"
     excerpt: "Even more self-driving vehicles will be tested in Austin, as Waymo, one of the first companies to test autonomous vehicles in Central Texas, returns. Austin’s reputation as a hotbed for autonomous technology continues as Waymo plans to once again test ..."
     publishedDateTime: 2023-03-31T11:16:00Z

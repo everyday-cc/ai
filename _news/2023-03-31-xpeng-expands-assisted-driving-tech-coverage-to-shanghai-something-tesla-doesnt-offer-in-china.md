@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/03/31/xpeng-expands-assisted-driving-t
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/31/xpeng-expands-assisted-driving-tech-coverage-to-shanghai-something-tesla-doesnt-offer-in-china.html"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
     provider:
       name: Slate
       domain: slate.com
+    quality: 19
+  - title: "XPeng brings assisted driving tech to Shanghai"
+    excerpt: "The launch of the assisted driving features by XPeng (XPEV) is a differentiator for the automaker with rival Tesla (TSLA). \"Tesla doesn’t really pump Autopilot in China and they don’t offer Full Self Driving (FSD) in China, whereas Xpeng really leaned ..."
+    publishedDateTime: 2023-03-31T12:32:00Z
+    webUrl: "https://seekingalpha.com/news/3953094-xpeng-brings-assisted-driving-tech-to-shanghai"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
     quality: 19
 
 secured: "8HvUaaWWRzZOjgWrCWJ8pQ7BSBQoXx3ApgFA+JCcB3Jc/+mhz3t4Ma1BHlxp2lTqJx0SvO2c0Wtw1ew8Ctf9PtnMZy91TD05HoZoM6THdbqz327NmINFg+MmyIojcVPUzqUSMqyFSKcTvaO3crYtHkLnxYQGYFsG87ujcMCMSWfMlxeSd9nkl/aq/8mLtezfwJBjWQdX/6RMl+LPBC+v9ZanfpWZQW1Owi+4JODAfrpSUYc8b2d8XXyvL4O1PWKoO1s274m56WvODf/DPwudH2DE/tYfm9g9SYogLmVBqZLDlEqcvAbxQYg83baVLSSGF3o1AUxlCE8D6fau9QskFNJJ4wntav8yNYjoBjY1b10=;X5xGoAp41nNnKWRR0d4lAg=="

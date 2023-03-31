@@ -2,10 +2,13 @@
 category: news
 title: "Elon Musk & Sam Altman Say Scary Good AI Is On The Way – Here's How Retail Is Investing Millions"
 excerpt: "For example, RAD AI is a startup pioneering the world’s first AI marketing platform built to understand emotion. RAD AI launched a community round, which means anyone can invest in RAD AI. To Invest in RAD AI, click here. RAD AI has already raised over $ ..."
-publishedDateTime: 2023-03-31T12:45:00Z
-originalUrl: "https://www.benzinga.com/startups/23/03/31607655/elon-musk-sam-altman-say-scary-good-ai-is-on-the-way-heres-how-retail-is-investing-millions"
-webUrl: "https://www.benzinga.com/startups/23/03/31607655/elon-musk-sam-altman-say-scary-good-ai-is-on-the-way-heres-how-retail-is-investing-millions"
+publishedDateTime: 2023-03-31T13:59:00Z
+originalUrl: "https://www.benzinga.com/startups/23/03/31609312/elon-musk-sam-altman-say-scary-good-ai-is-on-the-way-heres-how-retail-is-investing-millions"
+webUrl: "https://www.benzinga.com/startups/23/03/31609312/elon-musk-sam-altman-say-scary-good-ai-is-on-the-way-heres-how-retail-is-investing-millions"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: Benzinga.com
@@ -14,6 +17,12 @@ provider:
 topics:
   - AI
 
-secured: "koJkWTleCJa3CdZszpGNW94jrqzq24vqC3C77JtUHAsotFVG+FxTuJ5vQpRMOgJfMRGYEmEsZCoyFhBrSw2V9+LEqCrCNLXPBu/dIQ4aY8DB0BjuTZdIbpbfH/EVG4kr3fXsXLelRpa60ImZsWMxlnGP5eM6ZoR5rx9EZmGZoWq9xlmdXQUGZVa7PKIkSznOeM7ojDx2c2x4jk0OoktEtuCN5mvCw0x8MIK+sn8YZbtrzI4pKcWFDm0w9iI5BkkXLaESKN72RAZlhZsuytFrpwHINXb5egXDslrTbaXvnjuPSykPHAYeB0eI6Tv0/O90EqU5GQLcd2ClFq1JE4/yMtC7uhVj58FrNZzyPMN0oE0=;KLRXt6siPruoacXcfsZfeQ=="
+images:
+  - url: "https://cdn.benzinga.com/files/images/story/2023/03/31/000muskai.jpg?width=1200&height=800&fit=crop"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "sA72dxZ47Tn8nmkj7EvLlqFNv0GAKGnJwX+dyz7Z7BRta8pGvBoj5JCwGWgwv0gzl7IZW7c+4ydfi0i/IwA/wqdgR0gPCSbTwlZABkYUXehIyTHF3sI086DBfL/9/FDsCMu/FunWW3FUjn875KpgNIEWQyYti5ercMg9WpRhPi79OxvrzahjFzFcKi7gR05mOIWr/PrvUqPUR3NyCpAV2+NVfZVMYUefsiqB8kVC2+i4vgfL6KmgW966ihVwQBdYfJ0qPt/l/ihvJPrsehhU1ArwT+uZ71ArhVzg3J2pRzk+XrvXgixpR6jlk+fn8mttD+l7skQaU+QCexfQZrb/ReRezv/3muWhFRrJzNhc5b8=;KP7iTo83GgoFQKFxicv47g=="
 ---
 

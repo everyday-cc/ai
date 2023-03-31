@@ -3,20 +3,26 @@ category: news
 title: "Putin is using facial recognition surveillance to nab dissenters before they can protest"
 excerpt: "Facial recognition has long been criticized as an overreaching and oftentimes racist surveillance tool. It has also been utilized in places like Hong Kong to identify and track those who"
 publishedDateTime: 2023-03-28T19:30:00Z
-originalUrl: "https://omaha.com/news/world/putin-is-using-facial-recognition-surveillance-to-nab-dissenters-before-they-can-protest/video_265c3478-b187-5531-aeda-649e07cdb4bb.html"
-webUrl: "https://omaha.com/news/world/putin-is-using-facial-recognition-surveillance-to-nab-dissenters-before-they-can-protest/video_265c3478-b187-5531-aeda-649e07cdb4bb.html"
+originalUrl: "https://www.stltoday.com/news/world/video_7c3aa00e-473a-5f8b-9155-04bdd1292009.html"
+webUrl: "https://www.stltoday.com/news/world/video_7c3aa00e-473a-5f8b-9155-04bdd1292009.html"
 type: article
-quality: 10
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/7/c3/7c3aa00e-473a-5f8b-9155-04bdd1292009/64230f5f9acf5.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "European Parliament calls for a ban on facial recognition"
@@ -47,6 +53,6 @@ related:
       domain: govtech.com
     quality: 41
 
-secured: "S9fS12cW/5zC8OZY+F7PP31GNTOvn8xPtbUxMmncRiXMTlrDf23y0I7XQ6SBP+KEYRzbhL5IFlwSH/2+ZyR36e3bbe4uFXGw9ATrX23930GJFGFBds7eHPf4ntDi7gpvZPq8Gby6XHUn3LgHEuvsJ9kjehrvIDrbVdvT2fE8I0Yn5l/2h10mU8PsGISkQSWa5VtIg/9y1+LvsUbmLf5uQMDjTXbnUfYzZ7PitALXx71ahH8voz3nTDeD09SovtKYaGBVXeH52gpf7QKgV5Gx0LNJR1H4cw/Vq+B7AQ6Zv7ir+dEVT0TvQiYv5ygc/8jSxwSk66hFGMGQ/EUFUZMeG2m+8uIcrRKLUJCidjuCofs7+3u0uuQoHjWGRtQsOBBkbIlkER7Kb4wipMWvUaSYy767d+0xTrLhwhlUv13gVxq7By0PcnwCsJE4AUCEIIvIYtOjbzjhkLRSJMniRjuLhQgJLBxx76LLS3ng8T7o/HRAg2kYDiCUXQDtbdfOJmYLTHltE8WYX7QHnpkpBZpSHA==;wTDzNLaBVLWZtv5BLlq3hQ=="
+secured: "ImbVWAIyThFNSlXLXiVHSOGk99QCQy1dX6/Xmf9MEnCQLzmp2j/i239huQkyRp/krTv4K//vQmK7YjjNrTUq4Zy2QUFTulLwIFI3lqsp6EjXRUnz//QrugpznUpr7vJWvERx4bIFdSF37KVhTJV5ZY5gChQx1oMVLLk0SV/sHYAeLjmXtveTXOIiZ08RyTjRDhhQWq1wVEwrwKr6ZJtXYvJ6PdoK/Hl+C4jdlltyInRf061SgQw+7DIx8P0dRvxAUMfXO7TiJoVGvUZYMlV5z3+KAYDNhqx39PbQ+kzLZQCnbCVBdUZrKxln+uhXKMmPqgfEugZ128jENKuMfdL5HYvo1nwu3mTURrCuUAVk6MI=;leh2I/lrSo+EHgE/DZCf7Q=="
 ---
 

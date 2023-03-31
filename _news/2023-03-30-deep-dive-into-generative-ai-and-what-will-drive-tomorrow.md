@@ -159,6 +159,15 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
+  - title: "How Generative AI Will Change Sales"
+    excerpt: "As the power of this disruptive technology grows exponentially, it’s possible to start realizing value in weeks, not months. One strategy for quick results is to integrate capabilities into existing sales systems. For example, generative AI can improve ..."
+    publishedDateTime: 2023-03-31T13:02:00Z
+    webUrl: "https://hbr.org/2023/03/how-generative-ai-will-change-sales"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 34
   - title: "Academic unit at BU adopts guidelines for use of generative AI"
     excerpt: "At Boston University, professor Wesley Wildman’s Data, Society and Ethics class has made a critical first step toward addressing those concerns, crafting a policy that guides how both students and instructors should use advanced AI. BU’s Faculty of ..."
     publishedDateTime: 2023-03-28T09:01:00Z
@@ -168,6 +177,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "Multiple red flags are not yet slowing the generative AI train"
+    excerpt: "The champions of AI have long argued that this general purpose technology will produce an unprecedented surge in productivity and creativity; its critics fear it carries alarming present-day risks and may even pose an existential threat to humanity in future."
+    publishedDateTime: 2023-03-30T12:57:00Z
+    webUrl: "https://www.ft.com/content/89647443-29c7-421f-86aa-5a12af6268c0"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "DM8WlBv1pE3h2hjsF8OUq6xPIW4ctZe5EeEvfencMfVlzSZeNu0q60U3zaOJCripE3/WWNIFdAifqO0f8W82LwE8+6Pei5CEtwrR9nM//YGo5Y//0QupucmC/TmrkI8BT4Ynv7QzN3Q6Pa01nn5JceBhIEpz9YuFK6dunQUyq5Q+RIiOJWxvMV084t2xRPh3PWsxYox2KXmshSMbhp6ZJulozqHBOJlH534O1+bJWe2gZUOdYsXM2TcS/GX5lG1jXAluKt5bvaYuaJthFyc7+mW+nkYjZa+rqw9K0g5aNX5ZYzfowb8EJClX2+LhRieTh4ZKi4oASAXlyOhZFC2tGL39N75VPL7NKm3kGeGzeJLUVOKoS4hIDguHRu0ALBG1V/9Es3CHB1qdQvV255Q1A5dVD3dhd6d5XKb35ELMI6Jg+pRH35XCsM/Twk88Y4sBtWsFoWlTzHQowKuSf24gbPziza0nIW6m/iqFYxK/uB0oXD3JplycCBctBHP4Eqhq/mW1JptjcpYY+hKOHMK0Og==;nOsV+oCWd7HKK3rkxvfUzw=="
 ---

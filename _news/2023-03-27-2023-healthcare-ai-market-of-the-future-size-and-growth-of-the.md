@@ -30,45 +30,103 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s Generative AI System, Bard, Has The Potential To Revolutionize Healthcare"
-    excerpt: "J.P. Morgan Insights recently published an article titled “Is Generative AI a Game Changer?” explaining that “Generative AI — a category of artificial intelligence algorit"
-    publishedDateTime: 2023-03-26T20:18:00Z
-    webUrl: "https://www.forbes.com/sites/saibala/2023/03/26/googles-generative-ai-system-bard-has-the-potential-to-revolutionize-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/saibala/2023/03/26/googles-generative-ai-system-bard-has-the-potential-to-revolutionize-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/03/26/googles-generative-ai-system-bard-has-the-potential-to-revolutionize-healthcare/amp/"
+  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2023-A Detailed Analysis till 2028"
+    excerpt: "Mar 27, 2023 (The Expresswire) -- The report features the size of the global \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market” in 2023, along with a detailed profile of the key players. These players include [3M (Minnesota ..."
+    publishedDateTime: 2023-03-27T12:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2023-a-detailed-analysis-till-2028-2023-03-27"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 98
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6420a8765c54a09c9fe2d103/0x0.jpg?format=jpg&crop=4170,2346,x6,y54,safe&width=1200"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Bill Gates says AI will revolutionize healthcare like the internet, mobile phones"
-    excerpt: "Bill Gates says artificial intelligence will change the way people get healthcare as much as the internet and mobile phones have and could make health more equitable around the globe. \"For one thing, [AIs will] help healthcare workers make the most of ..."
-    publishedDateTime: 2023-03-27T22:01:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/bill-gates-says-ai-will-revolutionize-healthcare-like-the-internet-mobile-phones.html"
+  - title: "Natural Language Processing (NLP) Market to Eyewitness Massive Growth 2023"
+    excerpt: "Natural Language Processing (NLP) Market Size 2023 | New Report (102 Pages) | Information Technology | In This"
+    publishedDateTime: 2023-03-27T04:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-to-eyewitness-massive-growth-2023-2023-03-27"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing (NLP) in Healthcare Market by 2031"
+    excerpt: "The \"Natural Language Processing (NLP) in Healthcare Market\" study describes how the technology industry is evolving"
+    publishedDateTime: 2023-03-29T19:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-by-2031-2023-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 81
+  - title: "Healthcare Natural Language Processing (NLP) Market Share From 2023 And Unlimited Opportunities for New Companies"
+    excerpt: "Healthcare Natural Language Processing (NLP) Market Size 2023 | New Report (127 Pages) | Information Technology | In"
+    publishedDateTime: 2023-03-27T03:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-share-from-2023-and-unlimited-opportunities-for-new-companies-2023-03-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 80
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning as a Service (MLaaS) Market 2023: Growing Opportunities by 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- The global \"Machine Learning as a Service (MLaaS) Market\" research study presents an in-depth analysis of the market's revenue, size ..."
+    publishedDateTime: 2023-03-27T21:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2023-growing-opportunities-by-2028-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 79
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing (NLP) Market Top Players by 2031"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 29, 2023 (The Expresswire) -- The \"Natural Language Processing (NLP) Market\" study describes how the technology industry is evolving and how major and emerging players in ..."
+    publishedDateTime: 2023-03-30T03:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-top-players-by-2031-2023-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+  - title: "Artificial Intelligence in Healthcare Market [2023], Global Demand, Industry Size, Revenue Analysis, Regional Share and Competitive Landscape"
+    excerpt: "TheArtificial Intelligence in Healthcare Marketreport offers insights into the latest trends. This report provides"
+    publishedDateTime: 2023-03-28T10:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2023-global-demand-industry-size-revenue-analysis-regional-share-and-competitive-landscape-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 49
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Multiple red flags are not yet slowing the generative AI train"
-    excerpt: "The champions of AI have long argued that this general purpose technology will produce an unprecedented surge in productivity and creativity; its critics fear it carries alarming present-day risks and may even pose an existential threat to humanity in future."
-    publishedDateTime: 2023-03-30T12:57:00Z
-    webUrl: "https://www.ft.com/content/89647443-29c7-421f-86aa-5a12af6268c0"
+  - title: "Natural language processing (NLP) Market Analysis Geography Trends, Demand and Forecasts 2030| Apple Incorporation, Dolbey Systems, Google"
+    excerpt: "Mar 28, 2023 (Heraldkeepers) -- New Jersey, United State: Infinity Business Insights has announced the release of its latest report on Natural language processing (NLP) Market. It provides an in-depth analysis of the drivers, restraints, market dynamics ..."
+    publishedDateTime: 2023-03-28T12:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-geography-trends-demand-and-forecasts-2030-apple-incorporation-dolbey-systems-google-2023-03-28"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
 
 secured: "YaEwlYKdbw82Nj9i58ppJ3SliNsEmXP/es3vr1td594E8ci2FtKeYjpfR9dlBM3xotaZ0H9ptlgND/mm7eTSnuJeHqFYeAq8lDLsC3zRY7a7oNXZLgm7nxMHl73GGlMojGcXnWQaWC8SFsJ+f/VmI2tpk+L2Xf1VMstfolSBmDOSVoE3HSoY7flUMwtvn6ayq+FMX0fDU4JU0QymV1viKFIQI3NK8Ou+pnwb8m645KprXJUFz3vB1/CG+5xbBh8hxrntggGHQNW9GjS1mvyJXKE5GP4j9x6uVC49KYuKAG3ZMaNVjAposno8CnObZCzSchLAzVFAgteY4M/HGKMlrVHjubC1tVZR2TGACkt+ILE=;gnFNz9yGcu0mUxpoWbkoTw=="
 ---

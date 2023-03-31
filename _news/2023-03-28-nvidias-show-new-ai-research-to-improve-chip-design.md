@@ -149,6 +149,15 @@ related:
       name: gadgets360
       domain: gadgets360.com
     quality: 34
+  - title: "How Generative AI Will Change Sales"
+    excerpt: "As the power of this disruptive technology grows exponentially, it’s possible to start realizing value in weeks, not months. One strategy for quick results is to integrate capabilities into existing sales systems. For example, generative AI can improve ..."
+    publishedDateTime: 2023-03-31T13:02:00Z
+    webUrl: "https://hbr.org/2023/03/how-generative-ai-will-change-sales"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 34
   - title: "Deep Dive Into Generative AI and What Will Drive Tomorrow"
     excerpt: "While the banking crisis may have interrupted funding flows for a limited period, the hype cycle in generative AI has momentum with staying power."
     publishedDateTime: 2023-03-30T14:06:00Z
@@ -167,6 +176,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "Multiple red flags are not yet slowing the generative AI train"
+    excerpt: "The champions of AI have long argued that this general purpose technology will produce an unprecedented surge in productivity and creativity; its critics fear it carries alarming present-day risks and may even pose an existential threat to humanity in future."
+    publishedDateTime: 2023-03-30T12:57:00Z
+    webUrl: "https://www.ft.com/content/89647443-29c7-421f-86aa-5a12af6268c0"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "+3Y8gFtaSfTBjmS2JnDdlzHVgip6LAnqlGiOfzlLjg4hN6UPzh48kBVtol8sYEr8PWJK6I+UHoKM44xoDkbosfKFNals4M4ZZyToHCtnOH7JhkASxx+0Y7kBA2eNWvmU18Uy4A+MieEhUOCXhZm5ne6WnnEakUDqamVqX4taxq1c204eFpllS85QpY8WRlUOs9vXVmHb17gxx0yVQHkM2Q0sfgZpyxWviAVorh/PFx0JOMy51iZghUMCTbrrJ9mFe5JWp3PtoZOheKhSAC6TERHuNnaIV9hLAvDOw0dA2ZBYzIu2RoXCuOjde/QisoN68If3Y0wCZl8e/M65TVcHwuFLb/4w0dHWwdEakPGM7Pia+p3Gf0UUNdiQtGmgPtVbW38Aj8oPRaWmOKxNn5ZV7HDJ1n26M6Yeq8LdcHUZIzxqXmGLUNLJhiyjAHNZyP1I7sPHFElgLOnVORFQOmZ+/MNArzTZ8Zs5BeK75XlIoMM70SK2QbH7V36FJvsw6gu6TxYuBmrq+0OQgqNCjE9Qhw==;CxmYLnTQvmD6UYUSNO4c5Q=="
 ---

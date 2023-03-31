@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-30T07:00:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/03/n31573074/data-collection-and-labeling-market-worth-17-10-billion-by-2030-grand-view-research-inc"
 webUrl: "https://www.benzinga.com/pressreleases/23/03/n31573074/data-collection-and-labeling-market-worth-17-10-billion-by-2030-grand-view-research-inc"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

@@ -2,6 +2,257 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-29-synopsys-expands-its-ai-powered-eda-chip-design-tool-suite-to-overcome-systemic-complexity.md",
+      "title": "Synopsys Expands Its AI-Powered EDA Chip Design Tool Suite To Overcome Systemic Complexity",
+      "excerpt": "At its longstanding SNUG Conference, currently underway at the Santa Clara Convention Center in California, Synopsys unveiled powerful additions to its AI-enhanced Electronic Design Automation (EDA) tools suite,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2023/03/29/synopsys-expands-it-ai-powered-eda-chip-design-tool-suite-to-overcome-systemic-complexity/",
+      "originalUrl": "https://www.forbes.com/sites/marcochiappetta/2023/03/29/synopsys-expands-it-ai-powered-eda-chip-design-tool-suite-to-overcome-systemic-complexity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2023/03/29/synopsys-expands-it-ai-powered-eda-chip-design-tool-suite-to-overcome-systemic-complexity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2023/03/29/synopsys-expands-it-ai-powered-eda-chip-design-tool-suite-to-overcome-systemic-complexity/amp/",
+      "publishedDateTime": "2023-03-29T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-29-former-white-house-ai-policy-advisor-slams-sen-chris-murphys-fear-mongering-chatgpt-tweets.md",
+      "title": "Former White House AI policy advisor slams Sen. Chris Murphy’s ‘fear-mongering’ ChatGPT tweets",
+      "excerpt": "Because the hypotheticals around generative AI are not as critical as the real harms. If ChatGPT are going used in, as being claimed, in a suicide hotline, people are gonna get hurt. We can wait till then, or we can start saying that any system that gets ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/former-white-house-ai-policy-advisor-slams-sen-chris-murphys-fear-mongering-chatgpt-tweets/",
+      "originalUrl": "https://venturebeat.com/ai/former-white-house-ai-policy-advisor-slams-sen-chris-murphys-fear-mongering-chatgpt-tweets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-31.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/former-white-house-ai-policy-advisor-slams-sen-chris-murphys-fear-mongering-chatgpt-tweets/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/former-white-house-ai-policy-advisor-slams-sen-chris-murphys-fear-mongering-chatgpt-tweets/amp/",
+      "publishedDateTime": "2023-03-28T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-enable-predictive-maintenance-for-line-of-business-users-with-amazon-lookout-for-equipment.md",
+      "title": "Enable predictive maintenance for line of business users with Amazon Lookout for Equipment",
+      "excerpt": "Predictive maintenance is a data-driven maintenance strategy for monitoring industrial assets in order to detect anomalies in equipment operations and health that could lead to equipment failures. Through proactive monitoring of an asset’s condition, maintenance personnel can be alerted before issues",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enable-predictive-maintenance-for-line-of-business-users-with-amazon-lookout-for-equipment/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enable-predictive-maintenance-for-line-of-business-users-with-amazon-lookout-for-equipment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/28/predictive-maintenance-lookout.jpg",
+          "width": 1151,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-28T10:12:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-29-hugging-face-reveals-generative-ai-performance-gains-with-intel-hardware.md",
+      "title": "Hugging Face reveals generative AI performance gains with Intel hardware",
+      "excerpt": "Learn More Nvidia’s A100 GPU accelerator has enabled groundbreaking innovations in generative AI, powering cutting-edge research that is reshaping what artificial intelligence can achieve. But in the fiercely competitive field of AI hardware, others are ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/hugging-face-reveals-generative-ai-performance-gains-with-intel-hardware/",
+      "originalUrl": "https://venturebeat.com/ai/hugging-face-reveals-generative-ai-performance-gains-with-intel-hardware/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/01/VB_Intel-xeo-4_1200px.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 804,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/hugging-face-reveals-generative-ai-performance-gains-with-intel-hardware/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/hugging-face-reveals-generative-ai-performance-gains-with-intel-hardware/amp/",
+      "publishedDateTime": "2023-03-28T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-a-shared-agenda-for-responsible-ai-progress.md",
+      "title": "A shared agenda for responsible AI progress",
+      "excerpt": "AI can be hugely beneficial to society if citizens, educators, academics, civil society and governments unite to shape it responsibly.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/a-shared-agenda-for-responsible-ai-progress/",
+      "originalUrl": "https://blog.google/technology/ai/a-shared-agenda-for-responsible-ai-progress/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Copy_of_Kent_Walker_Keyword_AI_final.width-1300.png",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-28T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-28-best-spring-cleaning-robot-vacuum-deals.md",
       "title": "Best spring cleaning robot vacuum deals",
       "excerpt": "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ...",
@@ -108,7 +359,7 @@
       "originalUrl": "https://venturebeat.com/security/security-risks-evolve-with-release-of-gpt-4/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -990,250 +1241,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-openais-ambitious-master-plan-to-conquer-rivals-like-google-in-the-ai-race-hinges-on-pure-speed.md",
-      "title": "OpenAI's ambitious master plan to conquer rivals like Google in the AI race hinges on pure speed",
-      "excerpt": "The chatbot kickstarted an avalanche of discussion around the future of work, AI ethics, and changing the dynamic of the tech workforce. This wasn't always the case. OpenAI was founded in 2015 by current CEO Sam Altman, Elon Musk, and others. Musk left the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/openai-secret-weapon-ai-race-google-is-speed-2023-3",
-      "originalUrl": "https://www.businessinsider.com/openai-secret-weapon-ai-race-google-is-speed-2023-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6421fe9a8c966b0019498dd8?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/openai-secret-weapon-ai-race-google-is-speed-2023-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-secret-weapon-ai-race-google-is-speed-2023-3?amp",
-      "publishedDateTime": "2023-03-27T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-wearable-devices-to-showcase-embedded-machine-learning-ai-technology-at-tinyml-summit-2023.md",
-      "title": "Wearable Devices To Showcase Embedded Machine Learning AI Technology At Tinyml Summit 2023",
-      "excerpt": "The Company will demonstrate how its AI-based neural input technology interprets neural signals to control digital devices using touchless finger",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105870880/Wearable-Devices-To-Showcase-Embedded-Machine-Learning-AI-Technology-At-Tinyml-Summit-2023",
-      "originalUrl": "https://menafn.com/1105870880/Wearable-Devices-To-Showcase-Embedded-Machine-Learning-AI-Technology-At-Tinyml-Summit-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?359227",
-          "width": 400,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-the-dream-of-placing-blocks-on-chip-designs-with-ai.md",
-      "title": "The Dream Of Placing Blocks On Chip Designs With AI",
-      "excerpt": "“This work demonstrates the effectiveness of combining GPU-accelerated placers with AI/ML multi-objective parameter optimization,” Agnesina and Ren wrote. “Furthermore, given the importance of scalability in modern chip design flows, we hope this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/",
-      "originalUrl": "https://www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.nextplatform.com/wp-content/uploads/2023/03/Nvidia-AutoDMP.jpg",
-          "width": 1999,
-          "height": 1126,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/amp/",
-      "publishedDateTime": "2023-03-27T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-artificial-intelligence-glossary-neural-networks-and-other-terms-explained.md",
-      "title": "Artificial Intelligence Glossary: Neural Networks and Other Terms Explained",
-      "excerpt": "Neural network: A mathematical system, modeled on the human brain, that learns skills by finding statistical patterns in data. It consists of layers of artificial neurons: The first layer receives the input data, and the last layer outputs the results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/article/ai-artificial-intelligence-glossary.html",
-      "originalUrl": "https://www.nytimes.com/article/ai-artificial-intelligence-glossary.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/03/27/pageoneplus/27OnTechAI-Part1-STILL/27OnTechAI-Part1-STILL-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/article/ai-artificial-intelligence-glossary.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/article/ai-artificial-intelligence-glossary.amp.html",
-      "publishedDateTime": "2023-03-27T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-uppercentile-spearheads-ai-ethics-charter-initiative-for-healthcare-seeks-input-from-the-industry.md",
-      "title": "Uppercentile Spearheads AI Ethics Charter Initiative for Healthcare, Seeks Input from the Industry",
-      "excerpt": "Mar 27, 2023 (Prodigy PressWire via COMTEX) -- Uppercentile, an emerging player in healthcare solutions, announces its initiative to develop a template AI Ethics Charter for hospitals and healthcare professionals, aimed at ensuring responsible ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/uppercentile-spearheads-ai-ethics-charter-initiative-for-healthcare-seeks-input-from-the-industry-2023-03-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/uppercentile-spearheads-ai-ethics-charter-initiative-for-healthcare-seeks-input-from-the-industry-2023-03-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI",
         "AI in Healthcare"
       ]

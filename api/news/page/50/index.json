@@ -2,6 +2,238 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2023-02-14-amazons-new-self-driving-robotaxis-may-soon-be-hitting-public-roads.md",
+      "title": "Amazon's new self-driving robotaxis may soon be hitting public roads",
+      "excerpt": "Amazon's self-driving vehicle unit known as Zoox has successfully tested its robotaxi on a public road using employees as passengers.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7news.com/amazon-robotaxis-selfdriving-cars-taxis/12810849/",
+      "originalUrl": "https://abc7news.com/amazon-robotaxis-selfdriving-cars-taxis/12810849/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/12811548_amazon-robo-taxis-TN-img.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7news.com/amp/amazon-robotaxis-selfdriving-cars-taxis/12810849/",
+      "cdnAmpWebUrl": "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/amazon-robotaxis-selfdriving-cars-taxis/12810849/",
+      "publishedDateTime": "2023-02-13T20:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7 San Francisco",
+        "domain": "abc7news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-14-ev-x-ai-heres-how-ai-advancements-can-kick-start-ev-stocks.md",
+      "title": "EV x AI: Here’s How AI Advancements Can Kick Start EV Stocks",
+      "excerpt": "Through improved AI, engineers can foster positive outcomes for EVs and raise the investment proposition of their stocks. Popular EV stocks on TipRanks According to a September 2022 report by the International Energy Agency, “Electric car sales reached a ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ev-x-ai-here-s-how-ai-advancements-can-kick-start-ev-stocks-1032092590",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ev-x-ai-here-s-how-ai-advancements-can-kick-start-ev-stocks-1032092590",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/02/image-337-1024x460.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 1024,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-13T20:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-14-states-face-recognition-app-for-pensioners-annual-verification.md",
+      "title": "State’s face recognition app for pensioners’ annual verification",
+      "excerpt": "Meanwhile, a meeting of the Pradhan Mantri Adarsh Gram Yojana convergence committee, constituted for successful operation, effective implementation and monitoring of the scheme was organised at ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/articleshow/97899465.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/articleshow/97899465.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-97907398,width-1070,height-580,imgsize-1288749,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/amp_articleshow/97899465.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/amp_articleshow/97899465.cms",
+      "publishedDateTime": "2023-02-13T19:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-14-check-out-more-than-50-pitch-decks-used-by-fintechs-to-raise-millions-in-funding-from-top-vcs.md",
+      "title": "Check out more than 50 pitch decks used by fintechs to raise millions in funding from top VCs",
+      "excerpt": "This 11-page pitch deck helped Hum Capital, a fintech using AI to match investors with startups, raise a $9 million Series A. There's more venture capital flowing into Latin America than ever ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/fintech-pitch-deck-fundraise-lance-altruist-honeybook-digital-finance-startups-2021-5",
+      "originalUrl": "https://www.businessinsider.com/fintech-pitch-deck-fundraise-lance-altruist-honeybook-digital-finance-startups-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62b31d286ab6180018cfe44d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/fintech-pitch-deck-fundraise-lance-altruist-honeybook-digital-finance-startups-2021-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fintech-pitch-deck-fundraise-lance-altruist-honeybook-digital-finance-startups-2021-5?amp",
+      "publishedDateTime": "2023-02-13T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-14-ford-invests-in-argo-ai-a-new-artificial-intelligence-company-in-drive-for-autonomous-vehicle-leadership.md",
+      "title": "Ford invests in Argo AI, a new artificial intelligence company, in drive for autonomous vehicle leadership",
+      "excerpt": "“We are at an inflection point in using artificial intelligence in a wide range of applications, and the successful deployment of self-driving cars will fundamentally change how people and goods ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/pr/ford-invests-argo-ai-new-artificial-intelligence-company-drive-autonomous-vehicle-lead-0",
+      "originalUrl": "https://www.albawaba.com/business/pr/ford-invests-argo-ai-new-artificial-intelligence-company-drive-autonomous-vehicle-lead-0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im/pr_new/Peter_Rander_Argo_AI_COO__Mark_Fields_Ford_president_and_CEO__Bryan_Salesky_Argo_AI_CEO__and_Raj_Nair_Ford_EVP.jpg?itok=SxB5EILv",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/ford-invests-argo-ai-new-artificial-intelligence-company-drive-autonomous-vehicle-lead-0",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/ford-invests-argo-ai-new-artificial-intelligence-company-drive-autonomous-vehicle-lead-0",
+      "publishedDateTime": "2023-02-13T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-14-global-artificial-intelligence-in-cancer-diagnostics-market-report-2022-to-2030-players-include-pfizer-therapixel-sophia-genetics-and-freenome.md",
       "title": "Global Artificial Intelligence in Cancer Diagnostics Market Report 2022 to 2030: Players Include Pfizer, Therapixel, Sophia Genetics and Freenome",
       "excerpt": "The global Artificial Intelligence in Cancer Diagnostics Market size is expected to reach USD 4,841.84 million by 2030. The report gives a detailed insight into current market dynamics and provides an analysis of future market growth.",
@@ -950,240 +1182,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-warren-buffetts-secret-portfolio-owns-3-brand-name-ai-stocks.md",
-      "title": "Warren Buffett's Secret Portfolio Owns 3 Brand-Name AI Stocks",
-      "excerpt": "The other key growth driver for IBM is AI. Although supercomputer Watson is perhaps the best example of IBM's AI and analytics in action, it's far from the most practical. Instead, IBM offers an abundance of services incorporating AI and machine-learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/02/13/warren-buffett-secret-portfolio-owns-3-ai-stocks/",
-      "originalUrl": "https://www.fool.com/investing/2023/02/13/warren-buffett-secret-portfolio-owns-3-ai-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/720055/warren-buffett-berkshire-hathaway-brka-brkb-motley-fool.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-13T02:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-sportradar-unveils-ground-breaking-ai-driven-computer-vision-at-ice-london.md",
-      "title": "Sportradar unveils ground-breaking AI-driven Computer Vision at ICE London",
-      "excerpt": "Sportradar used last week’s ICE London as a high-profile launchpad for its brand-new AI-driven Computer Vision technology.",
-      "sourceUrl": null,
-      "webUrl": "https://sbcnews.co.uk/sportsbook/2023/02/13/sportradar-computer-vision/",
-      "originalUrl": "https://sbcnews.co.uk/sportsbook/2023/02/13/sportradar-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resources.sbcnews.co.uk/sbcnews/2023/02/Blank-660-x-330-29.jpg",
-          "width": 660,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sbcnews.co.uk/sportsbook/2023/02/13/sportradar-computer-vision/?amp=1",
-      "cdnAmpWebUrl": "https://sbcnews-co-uk.cdn.ampproject.org/c/s/sbcnews.co.uk/sportsbook/2023/02/13/sportradar-computer-vision/?amp=1",
-      "publishedDateTime": "2023-02-13T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "sbcnews.co.uk",
-        "domain": "sbcnews.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-ai-etfs-are-rallying-this-year-as-chatgpt-hysteria-heats-up-what-to-know-before-jumping-in.md",
-      "title": "A.I. ETFs are rallying this year as ChatGPT hysteria heats up. What to know before jumping in",
-      "excerpt": "So far this year, AI-focused funds such as the iShares Robotics & Artificial Intelligence Multisector and the ARK Autonomous Technology & Robotics , are higher by about 19% each. ARKQ YTD mountain ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/02/12/what-to-know-about-ai-focused-etfs-as-chatgpt-craze-takes-hold.html",
-      "originalUrl": "https://www.cnbc.com/2023/02/12/what-to-know-about-ai-focused-etfs-as-chatgpt-craze-takes-hold.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107167129-1671131974126-gettyimages-1245565704-raa-openaich221212_npWP2.jpeg?v=1676204570&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-12T21:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-how-to-stop-ai-from-eating-journalism.md",
-      "title": "How to Stop AI From Eating Journalism",
-      "excerpt": "It’s important to note here that, for the most part, there are no agreed upon or well-established rules around AI and the ethics of journalism. The technology just hasn’t existed long enough ...",
-      "sourceUrl": null,
-      "webUrl": "https://inthesetimes.com/article/ai-artificial-intelligence-journalism-chatgpt-media-ethics",
-      "originalUrl": "https://inthesetimes.com/article/ai-artificial-intelligence-journalism-chatgpt-media-ethics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.us-east-1.amazonaws.com/in-these-times/_1200x630_crop_center-center_82_none/GettyImages-1246519304.jpg?mtime=1675780540",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-12T17:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "In These Times",
-        "domain": "inthesetimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-5-key-features-of-machine-learning.md",
-      "title": "5 key features of machine learning",
-      "excerpt": "Machine learning has a wide range of applications in the finance, healthcare, marketing and transportation industries. It is used to analyze and process large amounts of data, make predictions ...",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/5-key-features-of-machine-learning",
-      "originalUrl": "https://cointelegraph.com/news/5-key-features-of-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDIvZjE4YzMyNmItYWRlMC00N2MyLThjMzAtZWY5ZGYxZjA3NDlkLmpwZw==.jpg",
-          "width": 740,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/5-key-features-of-machine-learning/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/5-key-features-of-machine-learning/amp",
-      "publishedDateTime": "2023-02-12T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

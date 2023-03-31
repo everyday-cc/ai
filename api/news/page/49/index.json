@@ -2,6 +2,250 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2023-02-15-wasixcap-expert-lists-3-stocks-to-watch-amid-chatgpt-craze.md",
+      "title": "Wasixcap Expert lists 3 Stocks to watch amid ChatGPT Craze",
+      "excerpt": "This is also the case with ChatGPT because various tech companies are now looking to harness the potential of machine learning and AI to drive their businesses forward. Three companies, Microsoft, Alphabet,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/wasixcap-expert-lists-3-stocks-to-watch-amid-chatgpt-craze-2023-02-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/wasixcap-expert-lists-3-stocks-to-watch-amid-chatgpt-craze-2023-02-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-14T21:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-15-ai-and-ml-are-transforming-industries-sigma-solve-us.md",
+      "title": "AI and ML are Transforming Industries | Sigma Solve US",
+      "excerpt": "All around the globe, businesses are experiencing the best times of their lives following the advent of AI and ML. Artificial Intelligence and Machin",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105576649/AI-and-ML-are-Transforming-Industries-Sigma-Solve-US",
+      "originalUrl": "https://menafn.com/1105576649/AI-and-ML-are-Transforming-Industries-Sigma-Solve-US",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-02/15/pr_15391_30ff920e_image_story.png",
+          "width": 960,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-14T19:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-02-15-aviation-milestone-artificial-intelligence-flew-a-modified-f-16-fighter-jet-for-over-17-hours.md",
+      "title": "Aviation milestone: artificial intelligence flew a modified F-16 fighter jet for over 17 hours",
+      "excerpt": "An artificial intelligence algorithm developed by the U.S. military flew a modified F-16 fighter jet for over 17 hours in December, officials announced this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/science/aviation-milestone-artificial-intelligence-flew-modified-f-16-fighter-jet-17-hours",
+      "originalUrl": "https://www.foxnews.com/science/aviation-milestone-artificial-intelligence-flew-modified-f-16-fighter-jet-17-hours",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4fcfcfe-799c-4cea-bbc5-9bfdc780e1b3/388ca3a4-1bcf-4315-bfda-8df14b078210/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/science/aviation-milestone-artificial-intelligence-flew-modified-f-16-fighter-jet-17-hours.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/aviation-milestone-artificial-intelligence-flew-modified-f-16-fighter-jet-17-hours.amp",
+      "publishedDateTime": "2023-02-14T18:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-02-15-congress-has-had-a-hands-off-approach-to-big-tech-will-the-ai-arms-race-be-any-different.md",
+      "title": "Congress has had a hands-off approach to Big Tech. Will the AI arms race be any different?",
+      "excerpt": "Washington has long balked at regulating Silicon Valley. But as ChatGPT gains popularity, tech-savvy lawmakers are pushing Congress to put limits on artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/congress/congress-hands-approach-big-tech-will-ai-arms-race-different-rcna70389",
+      "originalUrl": "https://www.nbcnews.com/politics/congress/congress-hands-approach-big-tech-will-ai-arms-race-different-rcna70389",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-11/221114-capitol-building-mb-0705-ddeb59.jpg",
+          "width": 6000,
+          "height": 4000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna70389",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna70389",
+      "publishedDateTime": "2023-02-14T17:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-15-a-link-between-hearing-voices-and-hearing-your-own-voice.md",
+      "title": "A Link Between Hearing Voices and Hearing Your Own Voice",
+      "excerpt": "The more the brain’s self-recognition network is disturbed by the surgery ... “Every time she heard her voice, she thought it was someone else,” Dr. Orepic said. “And when she hears someone else, she says ‘It’s me.’”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/02/14/science/sound-own-voice-bone-conduction.html",
+      "originalUrl": "https://www.nytimes.com/2023/02/14/science/sound-own-voice-bone-conduction.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/14/science/14tb-hearing-voices/14tb-hearing-voices-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/02/14/science/sound-own-voice-bone-conduction.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/02/14/science/sound-own-voice-bone-conduction.amp.html",
+      "publishedDateTime": "2023-02-14T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-15-25-real-life-robots-that-already-exist.md",
       "title": "25 Real-Life Robots That Already Exist",
       "excerpt": "Most people think that the goal for roboticists is to create robots with human-level artificial intelligence, says Robin Murphy, PhD, a professor of computer science and engineering at Texas A&M ...",
@@ -914,238 +1158,6 @@
       "provider": {
         "name": "Supply Chain",
         "domain": "supplychainbrain.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-14-amazons-new-self-driving-robotaxis-may-soon-be-hitting-public-roads.md",
-      "title": "Amazon's new self-driving robotaxis may soon be hitting public roads",
-      "excerpt": "Amazon's self-driving vehicle unit known as Zoox has successfully tested its robotaxi on a public road using employees as passengers.",
-      "sourceUrl": null,
-      "webUrl": "https://abc7news.com/amazon-robotaxis-selfdriving-cars-taxis/12810849/",
-      "originalUrl": "https://abc7news.com/amazon-robotaxis-selfdriving-cars-taxis/12810849/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/12811548_amazon-robo-taxis-TN-img.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc7news.com/amp/amazon-robotaxis-selfdriving-cars-taxis/12810849/",
-      "cdnAmpWebUrl": "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/amazon-robotaxis-selfdriving-cars-taxis/12810849/",
-      "publishedDateTime": "2023-02-13T20:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC7 San Francisco",
-        "domain": "abc7news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-14-ev-x-ai-heres-how-ai-advancements-can-kick-start-ev-stocks.md",
-      "title": "EV x AI: Here’s How AI Advancements Can Kick Start EV Stocks",
-      "excerpt": "Through improved AI, engineers can foster positive outcomes for EVs and raise the investment proposition of their stocks. Popular EV stocks on TipRanks According to a September 2022 report by the International Energy Agency, “Electric car sales reached a ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ev-x-ai-here-s-how-ai-advancements-can-kick-start-ev-stocks-1032092590",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ev-x-ai-here-s-how-ai-advancements-can-kick-start-ev-stocks-1032092590",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/02/image-337-1024x460.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 1024,
-          "height": 460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-13T20:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-14-states-face-recognition-app-for-pensioners-annual-verification.md",
-      "title": "State’s face recognition app for pensioners’ annual verification",
-      "excerpt": "Meanwhile, a meeting of the Pradhan Mantri Adarsh Gram Yojana convergence committee, constituted for successful operation, effective implementation and monitoring of the scheme was organised at ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/articleshow/97899465.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/articleshow/97899465.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-97907398,width-1070,height-580,imgsize-1288749,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1069,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/amp_articleshow/97899465.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/amp_articleshow/97899465.cms",
-      "publishedDateTime": "2023-02-13T19:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-14-check-out-more-than-50-pitch-decks-used-by-fintechs-to-raise-millions-in-funding-from-top-vcs.md",
-      "title": "Check out more than 50 pitch decks used by fintechs to raise millions in funding from top VCs",
-      "excerpt": "This 11-page pitch deck helped Hum Capital, a fintech using AI to match investors with startups, raise a $9 million Series A. There's more venture capital flowing into Latin America than ever ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/fintech-pitch-deck-fundraise-lance-altruist-honeybook-digital-finance-startups-2021-5",
-      "originalUrl": "https://www.businessinsider.com/fintech-pitch-deck-fundraise-lance-altruist-honeybook-digital-finance-startups-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62b31d286ab6180018cfe44d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/fintech-pitch-deck-fundraise-lance-altruist-honeybook-digital-finance-startups-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fintech-pitch-deck-fundraise-lance-altruist-honeybook-digital-finance-startups-2021-5?amp",
-      "publishedDateTime": "2023-02-13T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-14-ford-invests-in-argo-ai-a-new-artificial-intelligence-company-in-drive-for-autonomous-vehicle-leadership.md",
-      "title": "Ford invests in Argo AI, a new artificial intelligence company, in drive for autonomous vehicle leadership",
-      "excerpt": "“We are at an inflection point in using artificial intelligence in a wide range of applications, and the successful deployment of self-driving cars will fundamentally change how people and goods ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/ford-invests-argo-ai-new-artificial-intelligence-company-drive-autonomous-vehicle-lead-0",
-      "originalUrl": "https://www.albawaba.com/business/pr/ford-invests-argo-ai-new-artificial-intelligence-company-drive-autonomous-vehicle-lead-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im/pr_new/Peter_Rander_Argo_AI_COO__Mark_Fields_Ford_president_and_CEO__Bryan_Salesky_Argo_AI_CEO__and_Raj_Nair_Ford_EVP.jpg?itok=SxB5EILv",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/ford-invests-argo-ai-new-artificial-intelligence-company-drive-autonomous-vehicle-lead-0",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/ford-invests-argo-ai-new-artificial-intelligence-company-drive-autonomous-vehicle-lead-0",
-      "publishedDateTime": "2023-02-13T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
         "images": null,
         "publishers": null,
         "authors": null

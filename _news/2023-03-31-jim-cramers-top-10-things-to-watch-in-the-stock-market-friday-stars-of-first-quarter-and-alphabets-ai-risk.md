@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-31T13:15:00Z
 originalUrl: "https://www.cnbc.com/2023/03/31/cramers-top-things-in-stock-market-friday-stars-of-q1-alphabet-ai-risk.html"
 webUrl: "https://www.cnbc.com/2023/03/31/cramers-top-things-in-stock-market-friday-stars-of-q1-alphabet-ai-risk.html"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: CNBC

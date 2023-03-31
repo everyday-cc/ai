@@ -2,6 +2,41 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-02-09-report-identifies-ethical-challenges-risks-with-the-use-of-artificial-intelligence-in-healthcare.md",
+      "title": "Report Identifies Ethical Challenges, Risks with the Use of Artificial Intelligence in Healthcare",
+      "excerpt": "A recent report released by World Health Organisation (WHO), has identified the ethical challenges and risks with the use of Artificial Intelligence (AI) in healthcare. The report however gave six ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisdaylive.com/index.php/2021/08/12/report-identifies-ethical-challenges-risks-with-the-use-of-artificial-intelligence-in-healthcare/",
+      "originalUrl": "https://www.thisdaylive.com/index.php/2021/08/12/report-identifies-ethical-challenges-risks-with-the-use-of-artificial-intelligence-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This Day",
+        "domain": "thisdaylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-artificial-intelligence-is-being-studied-to-improve-cancer-care.md",
       "title": "Artificial Intelligence is being studied to improve cancer care",
       "excerpt": "BOSTON - Artificial intelligence has been in the headlines a lot recently and there are two new ways it's being studied to help improve lung and breast cancer care. Lung cancer kills more people worldwide than the three next deadliest cancers combined ...",
@@ -1144,61 +1179,6 @@
       "topics": [
         "AI in Healthcare",
         "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-artificial-intelligences-new-role-in-medicine-finance-and-other-industries-how-computer-learning-is-changing-every-corner-of-the-market.md",
-      "title": "Artificial Intelligence's New Role In Medicine, Finance And Other Industries - How Computer Learning Is Changing Every Corner Of The Market",
-      "excerpt": "Artificial intelligence is impacting medicine, finance and many other industries. Here’s what you need to know about AI and how it may affect your life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/02/02/artificial-intelligences-new-role-in-medicine-finance-and-other-industrieshow-computer-learning-is-changing-every-corner-of-the-market/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/02/artificial-intelligences-new-role-in-medicine-finance-and-other-industrieshow-computer-learning-is-changing-every-corner-of-the-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61f01b473249d51126526723/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 639,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/02/02/artificial-intelligences-new-role-in-medicine-finance-and-other-industrieshow-computer-learning-is-changing-every-corner-of-the-market/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/02/artificial-intelligences-new-role-in-medicine-finance-and-other-industrieshow-computer-learning-is-changing-every-corner-of-the-market/amp/",
-      "publishedDateTime": "2023-02-02T08:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance",
-        "AI in Healthcare",
         "AI in Autos"
       ]
     }

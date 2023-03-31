@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-31T11:18:00Z
 originalUrl: "https://www.eagletribune.com/region/onesoft-solutions-inc-reports-q4-and-annual-results-for-fiscal-2022-and-reiterates-fiscal-2023/article_6658c856-c78c-5e0a-8414-223a79e51e53.html"
 webUrl: "https://www.eagletribune.com/region/onesoft-solutions-inc-reports-q4-and-annual-results-for-fiscal-2022-and-reiterates-fiscal-2023/article_6658c856-c78c-5e0a-8414-223a79e51e53.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Eagle-Tribune

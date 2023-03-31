@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-31T12:52:00Z
 originalUrl: "https://www.benzinga.com/news/23/03/31607947/bill-gates-says-self-driving-cars-will-change-transportation-like-pcs-transformed-work-close-to-tipp"
 webUrl: "https://www.benzinga.com/news/23/03/31607947/bill-gates-says-self-driving-cars-will-change-transportation-like-pcs-transformed-work-close-to-tipp"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

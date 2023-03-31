@@ -71,29 +71,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "A tool of efficiency and risks: How AI allows for more creativity in software development"
-    excerpt: "Gates teaches a course required for computer science students called Ethics for Computers and Society. The use of AI in programming is a major discussion point in his course. \"There's no question that because these technologies are so ubiquitous and ..."
-    publishedDateTime: 2023-03-26T22:04:00Z
-    webUrl: "https://www.ksl.com/article/50600376/a-tool-of-efficiency-and-risks-how-ai-allows-for-more-creativity-in-software-development"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 30
-    images:
-      - url: "https://img.ksl.com/slc/2920/292088/29208830.jpeg?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
-        isCached: true
-  - title: "Artificial intelligence and head scab"
-    excerpt: "Fusarium head blight causes a lot of economic losses in wheat, and the associated toxin, deoxynivalenol (DON), can cause issues for human and animal health. The disease has been a big deterrent for people growing wheat in the Eastern U."
-    publishedDateTime: 2023-03-26T22:45:00Z
-    webUrl: "https://ocj.com/2023/03/artificial-intelligence-and-head-scab/"
-    type: article
-    provider:
-      name: Ohio Ag Net
-      domain: ocj.com
-    quality: 19
 
 secured: "nODNUFbiwdTNMfFt3kycaPRHQVMI2RMwHMnLb2FMuPEYNp/MX8oOVd+rmi3wVQwJZG23lSQT9701IVXIhYCRZ6ZFKGNV4Z0sFTgVDZ8tTzqUn2F+R6VlTOhUVuabp4Udv9L1+6+E8Q8zCRY+l9HGnnlRehES3/h1+XlAivzn3scqdOF0R3XNa3lryEHBOU/OBTDtw+j9gY2v7x0l4uvNniCsY9LgFkt9giXSbmxFM/0cZOGDyM7Sa6EU4WGneiIff3onZzhVdn/chJHLafSBtYudCRqR6+5pcJX+k3Uq3/W3X3vYKnEyB04ay6uLzHYuG+ZwClAkFoD+l0yIlnvPtZoYLoLn5NAmscLZ8m+bo2s=;LMGsZmDy0aDz8GQtzOaq3w=="
 ---

@@ -2,24 +2,28 @@
 category: news
 title: "WiMi Develops Deep Learning-Based 3D Target Recognition Algorithm System"
 excerpt: "Deep learning can simulate the human brain's visual system with its characteristics of passing from concrete to abstraction and multiple layers. By building multilayer neural networks, the system extracts and abstracts feature from the original information ..."
-publishedDateTime: 2023-03-31T12:10:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/wimi-develops-deep-learning-based-3d-target-recognition-algorithm-system-1032206780"
-webUrl: "https://markets.businessinsider.com/news/stocks/wimi-develops-deep-learning-based-3d-target-recognition-algorithm-system-1032206780"
+publishedDateTime: 2023-03-31T14:40:00Z
+originalUrl: "https://www.asiaone.com/business/wimi-develops-deep-learning-based-3d-target-recognition-algorithm-system"
+webUrl: "https://www.asiaone.com/business/wimi-develops-deep-learning-based-3d-target-recognition-algorithm-system"
 type: article
+quality: 38
+heat: 38
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Machine Learning
   - AI
-  - Natural Language Processing
 
-secured: "6vOiLiEgYNa75OLul9Y/p697hQiXIpzFVY2UovVR1Y2gOkgJf9UUOOtOjY8yXFdVq93PJ4zRdSgY/b8tYkQg6sNrynFtE3vLl8X+R6JAUxo7u4y9lkrsDnsl84lhN7YeuSrtSBxadiwceTSbMWQYarQnk5EPasN+9TUfDqJdCTy7XpugbsXPH9UAxMV2Gdm990mRXlspr5nY2/tiGxOkVbqCIaFQvJ/7L2O/faj9y6Q4fqjD39Ag6lOrt7Id9v4wJPcakrnTdZvuTA5Ryo0nDzifokkxfKbdsKTJO75ypVl+sfiM/Z4pBzzP/OL90rxVZ26V0QhG1TRDOZ2H+r5xgKa/9s2w2Co74T1RVbLaCOE=;NK44bpDic8jQTxzvhetQbA=="
+images:
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2023/pr-newswire_500_4_2027.jpg?h=7de12b8a&itok=YGVwsZ-_"
+    width: 600
+    height: 316
+    isCached: true
+
+secured: "oZTYx8gGgzKqCjDnC6INN0ld6OPFOQr4tJlRbY7CGTQaExcZbPBx/CGmGTodJAtn5PmldsZRfMgOa+vxFiXgT+W536M4aNgdjI1VOVlIqX7BXJ8hQs9oGzpWXv58agwfet6+BG9r4DcNqj49i2VRc3+l+SGN8y3YL4/35N+uM2qZD6ldn8nd3ucvdW3OEtvML8xfKk4NTalrO2hPgKQ8Do54Fla4R4cFsxAd5JwuKPsWC9i6gEAsN84K96imI8tfXC3hSZO9PSqxoaNiQrxlnptbiNJ5c3R5iMWO1b6R0DQAQ4I+8jSBj3sRgT3r1Qux42wy5gOClONGLyrp7zt/yMx3pklIMQuh/j50JC7ywRo=;EkR/I5jtcm1mV/y6RrfshQ=="
 ---
 

@@ -2,6 +2,222 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2023-01-12-amd-proved-that-apple-skipping-4nm-chips-isnt-a-big-deal.md",
+      "title": "AMD proved that Apple skipping 4nm chips isn't a big deal",
+      "excerpt": "AMD said at CES that its use of a 4nm process helps its new chips beat two-year old Apple Silicon, but in doing so, it revealed that a jump to 4nm was not a big deal for Apple's future chip releases.",
+      "sourceUrl": null,
+      "webUrl": "https://appleinsider.com/articles/23/01/12/amd-proved-that-apple-skipping-4nm-chips-isnt-a-big-deal",
+      "originalUrl": "https://appleinsider.com/articles/23/01/12/amd-proved-that-apple-skipping-4nm-chips-isnt-a-big-deal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/52360-104443-449911-Ryzen-3-Key-Art_01_0003_5K-xl.jpg",
+          "width": 1312,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://appleinsider.com/articles/23/01/12/amd-proved-that-apple-skipping-4nm-chips-isnt-a-big-deal/amp/",
+      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/01/12/amd-proved-that-apple-skipping-4nm-chips-isnt-a-big-deal/amp/",
+      "publishedDateTime": "2023-01-12T06:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-12-scientists-weigh-in-on-the-ethics-of-next-generation-ai.md",
+      "title": "Scientists Weigh in on the Ethics of Next-Generation AI",
+      "excerpt": "The release of a powerful and publicly available AI has raised questions about the technology's potential and points of concern.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextgov.com/emerging-tech/2023/01/scientists-weigh-ethics-next-generation-ai/381617/",
+      "originalUrl": "https://www.nextgov.com/emerging-tech/2023/01/scientists-weigh-ethics-next-generation-ai/381617/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.nextgov.com/media/img/cd/2023/01/09/010923AING/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-12T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nextgov",
+        "domain": "nextgov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-12-exploring-ai-for-tech-marketing.md",
+      "title": "Exploring AI for Tech Marketing",
+      "excerpt": "Can AI improve your marketing and help grow your business? Contributor Nick Wassenberg whips up some prompts and explores.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.mn/news/exploring-ai-for-tech-marketing",
+      "originalUrl": "https://tech.mn/news/exploring-ai-for-tech-marketing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tech.mn/hs-fs/hubfs/ai%20tech%20marketing%201.png?width=1634&height=758&name=ai%20tech%20marketing%201.png",
+          "width": 1634,
+          "height": 758,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.mn/news/exploring-ai-for-tech-marketing?hs_amp=true",
+      "cdnAmpWebUrl": "https://tech-mn.cdn.ampproject.org/c/s/tech.mn/news/exploring-ai-for-tech-marketing?hs_amp=true",
+      "publishedDateTime": "2023-01-12T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TECH",
+        "domain": "tech.mn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-01-12-good-news-thursday-new-alzheimers-drug-slows-cognitive-decline-in-clinical0.md",
+      "title": "Good News Thursday: New Alzheimer’s drug slows cognitive decline in clinical...0",
+      "excerpt": "A new drug to treat Alzheimer’s was approved by the FDA last week to slow the cognitive decline that accompanies Alzheimer’s, a disease that affects memory and other mental functions.",
+      "sourceUrl": null,
+      "webUrl": "https://universe.byu.edu/2023/01/12/good-news-thursday-new-alzheimers-drug-slows-cognitive-decline-damar-hamlins-toy-drive-raises-8-6m-delta-plans-to-offer-free-wi-fi/",
+      "originalUrl": "https://universe.byu.edu/2023/01/12/good-news-thursday-new-alzheimers-drug-slows-cognitive-decline-damar-hamlins-toy-drive-raises-8-6m-delta-plans-to-offer-free-wi-fi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://universe.byu.edu/wp-content/uploads/2023/01/Untitled-design-63.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-12T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Digital Universe",
+        "domain": "byu.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-12-emagia-and-osmania-university-sign-pact-to-accelerate-ai-and-fintech-innovation.md",
+      "title": "Emagia and Osmania University Sign Pact to Accelerate AI and Fintech Innovation",
+      "excerpt": "Hyderabad Telangana [India] January 12 ANIGPRC Advancing its commitment to innovations and future-ready workforce Emagia USA today announced the launch of Fintech Innovation Labs at OU in collaboratio",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/273355684/emagia-and-osmania-university-sign-pact-to-accelerate-ai-and-fintech-innovation",
+      "originalUrl": "https://www.bignewsnetwork.com/news/273355684/emagia-and-osmania-university-sign-pact-to-accelerate-ai-and-fintech-innovation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/MmVlMjZjNmEtN2I.jpg",
+          "width": 630,
+          "height": 473,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-12T02:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-12-stylish-savage-and-smarter-lenovo-unveils-the-worlds-most-powerful-16-inch-ai-tuned-gaming-laptops-and-an-ecosystem-of-gaming-products.md",
       "title": "Stylish, Savage, and Smarter: Lenovo unveils the world’s most powerful 16-inch AI-tuned gaming laptops and an ecosystem of gaming products",
       "excerpt": "Lenovo Legion lineup of battle-ready PCs, monitors, and accessories are unveiled, setting a new standard in PC gaming for 2023 that give",
@@ -898,221 +1114,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-imagination-unveils-img-dxt-gpu-for-mobile-games-with-ray-tracing.md",
-      "title": "Imagination unveils IMG DXT GPU for mobile games with ray tracing",
-      "excerpt": "Imagination Technologies has unveiled its new IMG DXT graphics processing unit (GPU) for mobile games with ray-tracing features.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/imagination-unveils-img-dxt-gpu-for-mobile-games-with-ray-tracing/",
-      "originalUrl": "https://venturebeat.com/games/imagination-unveils-img-dxt-gpu-for-mobile-games-with-ray-tracing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/01/imag.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/imagination-unveils-img-dxt-gpu-for-mobile-games-with-ray-tracing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/imagination-unveils-img-dxt-gpu-for-mobile-games-with-ray-tracing/amp/",
-      "publishedDateTime": "2023-01-11T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-large-language-models-will-define-artificial-intelligence.md",
-      "title": "Large Language Models Will Define Artificial Intelligence",
-      "excerpt": "In recent months, the Internet has been set ablaze with the introduction for the public beta of ChatGPT. People across the world shared their thoughts on such an incredible development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/01/11/large-language-models-will-define-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/01/11/large-language-models-will-define-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63bdffc05989c30c33964a41/0x0.jpg?format=jpg&width=1200",
-          "width": 640,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/01/11/large-language-models-will-define-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/01/11/large-language-models-will-define-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-01-11T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-bioxcel-therapeutics-announces-promising-top-line-results-from-phase-2-trial-of-bxcl701-in-aggressive-form-of-rare-prostate-cancer.md",
-      "title": "BioXcel Therapeutics Announces Promising Top-Line Results from Phase 2 Trial of BXCL701 in Aggressive Form of Rare Prostate Cancer",
-      "excerpt": "BioXcel Therapeutics, Inc. (Nasdaq: BTAI), a biopharmaceutical company utilizing artificial intelligence approaches to develop transformative medicines in neuroscience and immuno-oncology, today announced promising top-line data from its Phase 2 trial of BXCL701,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-bioxcel-therapeutics-announces-promising-top-line-results-from-/2023/01/11/9741357.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-bioxcel-therapeutics-announces-promising-top-line-results-from-/2023/01/11/9741357.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-11T05:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-researchers-investigate-when-how-healthcare-ai-models-will-fail.md",
-      "title": "Researchers Investigate When, How Healthcare AI Models Will Fail",
-      "excerpt": "Researchers are exploring strategies to identify when AI suggests a solution for clinical decision-making that isn’t effective in practice.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/researchers-investigate-when-how-healthcare-ai-models-will-fail",
-      "originalUrl": "https://healthitanalytics.com/news/researchers-investigate-when-how-healthcare-ai-models-will-fail",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/researchers-investigate-when-how-healthcare-ai-models-will-fail",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/researchers-investigate-when-how-healthcare-ai-models-will-fail",
-      "publishedDateTime": "2023-01-11T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-new-driverless-rideshare-cruise-caught-on-video-driving-in-the-wrong-lane-multiple-times.md",
-      "title": "New driverless rideshare Cruise caught on video driving in the wrong lane multiple times",
-      "excerpt": "AUSTIN, Texas — A new driverless rideshare, Cruise LLC, was seen driving in the wrong lane multiple times over the weekend. It's a rideshare company similar to Uber, except there's no human driver.",
-      "sourceUrl": null,
-      "webUrl": "https://www.khou.com/article/traffic/cruise-driverless-rideshare-austin-bike-lane/269-c8826ccb-526b-42f5-9e96-8437740ff21b",
-      "originalUrl": "https://www.khou.com/article/traffic/cruise-driverless-rideshare-austin-bike-lane/269-c8826ccb-526b-42f5-9e96-8437740ff21b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.khou.com/assets/KVUE/images/adc61435-61cc-4e7b-bf6b-f1f20e3cc86e/adc61435-61cc-4e7b-bf6b-f1f20e3cc86e_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khou.com/amp/article/tech/cruise-driverless-rideshare-austin-bike-lane/269-c8826ccb-526b-42f5-9e96-8437740ff21b",
-      "cdnAmpWebUrl": "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/tech/cruise-driverless-rideshare-austin-bike-lane/269-c8826ccb-526b-42f5-9e96-8437740ff21b",
-      "publishedDateTime": "2023-01-11T03:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KHOU 11",
-        "domain": "khou.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -50,13 +50,13 @@ related:
       domain: theinformation.com
     quality: 33
   - title: "GPT-4 draws more heat as AI advocates file FTC complaint against OpenAI"
-    excerpt: "An AI advocacy group’s complaint arrived the same week FTC Chair Lina Khan said AI was top of mind for the agency while speaking at an antitrust summit."
-    publishedDateTime: 2023-03-30T23:52:00Z
-    webUrl: "https://www.ciodive.com/news/FTC-complaint-AI-Lina-Khan-CAIDP-OpenAI/646458/"
+    excerpt: "The office includes data scientists, data engineers, AI specialists and design ethics specialists, Khan said during the Monday summit. Within the first few days of posting job openings, the office received between 300-400 applications. “We're also now ..."
+    publishedDateTime: 2023-03-31T12:55:00Z
+    webUrl: "https://www.marketingdive.com/news/FTC-complaint-AI-Lina-Khan-CAIDP-OpenAI/646487/"
     type: article
     provider:
-      name: CIO Dive
-      domain: ciodive.com
+      name: Marketing Dive
+      domain: marketingdive.com
     quality: 19
 
 secured: "JxRK+qdHNWqpr2xJ9DZVZDx836TWUPdB/v2kFdpzyzLEw5hSllUYvfQHl5hBYBXaNznACu+YY3kvHQWjHNzAPymlHqc69mpDr0lK5HXiDlQug+2UTxPKRjR329B8ktAXiPIIHpczags30ypqRIfO5ktbrCDevtx1poMmV7xYNnxuVYX5Jzz/UEu8wU6rKJQDVCu/kiT7R3AvJ//UDqWHPAIfcStjQri1oeFAj3R0e1+GThJmjwcmI28TkmvD2RrGZufeihmTwwFr4U4wUuriv0ffQ6sjZez469BDFH6vIEIFQK4VQ/R1S+fND+zcL2gi62ib6pKdKpI3dClhlL+KhbrGufBnUYnUMdXx8YkrtmEIbkZNbvFK1gFvOXGqSuL8d65ya1Km/CcDekF6/X7zJHaJusnewNs4jYrq2FzNrIkbDm6Dm6+tqjo+JuTJCW9cRqFiwvdeKunQRyl5nvkvQtBHJWo6Gplnfv0Hip3ne6L6db+tGQH8iL+PhGTrYHzyIhEE8JVRe+TjAnp+KeVrcw==;J2Nm6Md1LrKxVFkiy7PpNA=="

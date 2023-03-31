@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-27T07:58:00Z
 originalUrl: "https://www.chinadaily.com.cn/a/202303/27/WS6420dbcea31057c47ebb69ea.html"
 webUrl: "https://www.chinadaily.com.cn/a/202303/27/WS6420dbcea31057c47ebb69ea.html"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: 中国日报网
@@ -15,6 +18,28 @@ topics:
   - AI in Autos
   - AI
 
-secured: "sHrp6yOf6JBZGUkhmHKF3kfLAeYbQR41M+pIktiw/o70943xHzQMgHVMVDDNRXJNk+xcANU5tWEMfLtTDG4LO6OjOu+2Cy6YEIqcgqscKDB+l5qZsjSlMrSsLFeQnBeQNJDHs9SHnkVc+Q0mr0NTX4NnIGbZSoLcuf4cNExFKYVJXCVERyJnYb/tlb022z8bh77EJcwST22NC11UpZDZvHicy2HZn3h63GwKIc5aMjPaxBAuX5mbozBYrpk2n36aI3Rv+cijXYMVxUVQe68YfQ9W1Apxi6H86woFFqxoByEa8IFD5VL6b3VjuHRVhqciQR6ta2oXYyPwoELcN/k7fggvkf638hpyVpNCH3x49qI=;IZ59/wbkcfWyeqpj5tdLLg=="
+images:
+  - url: "http://img2.chinadaily.com.cn/images/202303/27/642108a1a31057c4b4b7fe1d.jpeg"
+    width: 720
+    height: 480
+    isCached: true
+
+related:
+  - title: "Robotaxis ready for hire in Beijing"
+    excerpt: "Baidu and Pony.ai offer robotaxi services to residents who can hail a ride through their respective apps. Read more at straitstimes.com."
+    publishedDateTime: 2023-03-28T04:23:00Z
+    webUrl: "https://www.straitstimes.com/asia/east-asia/robotaxis-ready-for-hire-in-beijing"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 24
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/03/28/2023-02-24T091626Z1015371487RC2DHZ9J56USRTRMADP3CHINA-BAIDU-ROBOTAXI_0.JPG?VersionId=HxXfJcKv5tlwiqtpycUUlxsqiwZhQgsB"
+        width: 860
+        height: 573
+        isCached: true
+
+secured: "Jl9fIDJtZC2DuzBp+PcfGKJvDCCU2ng3Ya+QoivpnbuYS4FJDCNsoWujQ3NeF/+47oNnNh2ohJInu4ulDkiqZ940PrZDBzYZKj9kdJnzaQ0uJhBsl+SUBrwSfZLZpzsk3s3rdDaQ4+CNVjdtMR2qNGsa0x5S+EdCGnOi7cRDTsEcOjVMJhOH86uBvaSLlfoZ505FEwpxBuGb/q2FC4qmn004tQAakAiZO1m0tqg7xnDSxXEfoJf/5/Hn90znvYQJjBcLZM9cqlP1mPCkLLjauMTVwMYQOm8pU5VlkKpuTIDTCXPkmsqiRpDhgRSi4Bg+B5zvMSdZpeaASP7RFx1pChnnt3HXVxsDMKQ7Y1+J1iA=;lnmtZn83hR4jrU2pkinuOA=="
 ---
 

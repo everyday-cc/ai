@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023, Healthcare AI Market of the Future Size and Growth of the"
+    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  Moreover, the Healthcare AI Market Report includes data on research and development,"
+    publishedDateTime: 2023-03-27T04:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-healthcare-ai-market-of-the-future-size-and-growth-of-the-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing (NLP) in Healthcare Market by 2031"
     excerpt: "The \"Natural Language Processing (NLP) in Healthcare Market\" study describes how the technology industry is evolving"
     publishedDateTime: 2023-03-29T19:28:00Z

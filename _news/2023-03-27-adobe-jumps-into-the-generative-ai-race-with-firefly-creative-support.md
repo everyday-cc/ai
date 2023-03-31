@@ -153,6 +153,15 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
+  - title: "How Generative AI Will Change Sales"
+    excerpt: "As the power of this disruptive technology grows exponentially, it’s possible to start realizing value in weeks, not months. One strategy for quick results is to integrate capabilities into existing sales systems. For example, generative AI can improve ..."
+    publishedDateTime: 2023-03-31T13:02:00Z
+    webUrl: "https://hbr.org/2023/03/how-generative-ai-will-change-sales"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 34
   - title: "Deep Dive Into Generative AI and What Will Drive Tomorrow"
     excerpt: "While the banking crisis may have interrupted funding flows for a limited period, the hype cycle in generative AI has momentum with staying power."
     publishedDateTime: 2023-03-30T14:06:00Z
@@ -171,6 +180,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "Multiple red flags are not yet slowing the generative AI train"
+    excerpt: "The champions of AI have long argued that this general purpose technology will produce an unprecedented surge in productivity and creativity; its critics fear it carries alarming present-day risks and may even pose an existential threat to humanity in future."
+    publishedDateTime: 2023-03-30T12:57:00Z
+    webUrl: "https://www.ft.com/content/89647443-29c7-421f-86aa-5a12af6268c0"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "XSdiNy2x9QdczlRU/pQOUWkkvax5mGUpqq7fHMbltveqPBhr8k+rYfFoKGsbzOID5/JmEgpl9Q487zcH6M3kLKxXO7Zcs5ovS2rQA7Lkz7bokNu0my8DPjea7kafHlWum1SrKrin8BX/WCIW3WvLAZsiyEOLK2s3ZzRh8wmvImeV3XGo+c3fp5iwEP2YVHSrkOEILbXoz3to8ak7cnUf6iuZkmcSNoFLN1LYgQiAPN8K/KWUYVbvAywS5GbA0C3Z0rDFhtcAWs+uZ+lfiou9nCjF8odyJv8Vn8QCKd+I32UkXeO3RNoT2aW3ccVwgSpeESMFoXc+7viAXf7WlxaID2Y8SwVuUDdaf6BwzOWqStk=;X69Pr9xHSyfGf1Af3Fxcvw=="
 ---

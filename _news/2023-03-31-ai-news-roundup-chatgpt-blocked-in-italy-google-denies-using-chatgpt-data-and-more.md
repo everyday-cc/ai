@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-31T13:44:00Z
 originalUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-chatgpt-blocked-in-italy-google-denies-using-chatgpt-data-and-more-10338071.html"
 webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-chatgpt-blocked-in-italy-google-denies-using-chatgpt-data-and-more-10338071.html"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: moneycontrol.com

@@ -163,6 +163,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Is ChaGPT Fast Becoming ChatMD? Introducing Generative AI To Healthcare"
+    excerpt: "Syntegra is a startup using generative AI to create synthetic health data and its technology is being tested by Janssen Pharmaceutical Cos., a drug company owned by Johnson & Johnson. The synthetic data has been validated by Janssen’s data scientists ..."
+    publishedDateTime: 2023-03-31T13:57:00Z
+    webUrl: "https://www.forbes.com/sites/gilpress/2023/03/31/is-chagpt-fast-becoming-chatmd-introducing-generative-ai-to-healthcare/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "UAE: These jobs will be decimated by AI, automation, ChatGPT"
     excerpt: "Millions of jobs will bear the brunt of advanced artificial intelligence. Technology and HR executives ... Lastly, jobs of drivers will gradually disappear once driverless vehicles become the norm in the UAE,” she said. Nicki Wilson, managing director ..."
     publishedDateTime: 2023-03-31T05:34:00Z
@@ -308,17 +317,6 @@ related:
         width: 320
         height: 320
         isCached: true
-  - title: "York student uses AI chatbot to get parking fine revoked"
-    excerpt: "Millie Houlton said she did not have the time to think about crafting her own response so turned to the chatbot A student has successfully appealed a £60 parking fine by using a letter written by an artificial intelligence chatbot."
-    publishedDateTime: 2023-03-30T16:21:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-65126772?at_format=link&at_campaign=Social_Flow&at_campaign_type=owned&at_link_origin=BBCTech&at_link_type=web_link&at_link_id=33750B12-CF17-11ED-A862-CC944744363C&at_ptr_name=twitter&at_bbc_team=editorial&at_medium=social"
-    ampWebUrl: "https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-65126772.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-york-north-yorkshire-65126772.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
   - title: "How ChatGPT is Transforming Enterprise Search with Natural Language Processing"
     excerpt: "ChatGPT solution that companies must consider to achieve their long-term objectives to increase customer satisfaction."
     publishedDateTime: 2023-03-30T15:28:00Z
@@ -402,6 +400,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "York student uses AI chatbot to get parking fine revoked"
+    excerpt: "Milly Houlton said she did not have the time to think about crafting her own response so turned to the chatbot A student has successfully appealed a £60 parking fine by using a letter written by an artificial intelligence chatbot."
+    publishedDateTime: 2023-03-30T16:21:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-65126772"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 17
   - title: "How watermarks can help protect against fraud with generative AI like ChatGPT"
     excerpt: "There are reasonable and technologically feasible interventions that can be used to help mitigate abuses with generative AI like ChatGPT and DALL-E."
     publishedDateTime: 2023-03-27T13:00:00Z

@@ -154,6 +154,15 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
+  - title: "How Generative AI Will Change Sales"
+    excerpt: "As the power of this disruptive technology grows exponentially, it’s possible to start realizing value in weeks, not months. One strategy for quick results is to integrate capabilities into existing sales systems. For example, generative AI can improve ..."
+    publishedDateTime: 2023-03-31T13:02:00Z
+    webUrl: "https://hbr.org/2023/03/how-generative-ai-will-change-sales"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 34
   - title: "Deep Dive Into Generative AI and What Will Drive Tomorrow"
     excerpt: "While the banking crisis may have interrupted funding flows for a limited period, the hype cycle in generative AI has momentum with staying power."
     publishedDateTime: 2023-03-30T14:06:00Z
@@ -172,6 +181,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "Multiple red flags are not yet slowing the generative AI train"
+    excerpt: "The champions of AI have long argued that this general purpose technology will produce an unprecedented surge in productivity and creativity; its critics fear it carries alarming present-day risks and may even pose an existential threat to humanity in future."
+    publishedDateTime: 2023-03-30T12:57:00Z
+    webUrl: "https://www.ft.com/content/89647443-29c7-421f-86aa-5a12af6268c0"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "zsmrQMv51nrzD3LRLZuR5sZuVarfgGtZdjGohNW2HJXdmM3NTamPk0WlRn6L1KPA5IFELnPjsFwuUcLk/enIFb6xphGhvrvdrSa9jICwjGdZXo6duLCLqogqji9iJJqaTPHOGAf81JBAg+EOzYcD5G4YcLgCUuJ7MKcMLM+OOvLnTdnb7F5ONPdqEQdrCNKnAp0+O8IXNr+wTJ5rBy4M9RUexyWWOelpljeBQ2xwcqQ2uxXdW3FBjv+A/StM0vJkQpaU9i18DyzQptA+aBuLHrbKrAsFaRrrQwCN3KuTMDkwBtWXPtVZs7+6coEuZdF017Zlg6teqSfYobIo2CLF3RfI4k9y1X68o4Y0neMXbWZv6vEK76BBC0cjjTDhkcDcjwrBH2qGIdeqnNY5IRW/E89FZbuw3DpNj5OegPLonCT7ZO6nvrTjXvp6chSSdcNgR1XSs1Id4ztXzBQOcQ5URiTTYSLMpt3BtFiPHP5cRP87sNfqubLYSCSH10omWGlFVU1XwnJfuFsZ8ljeyk5oRg==;2HGdwZ6Y0FEi8qjo7Ao79Q=="
 ---

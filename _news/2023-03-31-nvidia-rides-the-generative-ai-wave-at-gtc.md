@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/03/31/nvidia-rides-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/03/31/nvidia-rides-the-generative-ai-wave-at-gtc/amp/"
 type: article
 quality: 93
-heat: 214
+heat: 234
 published: true
 
 provider:
@@ -156,6 +156,15 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
+  - title: "How Generative AI Will Change Sales"
+    excerpt: "As the power of this disruptive technology grows exponentially, it’s possible to start realizing value in weeks, not months. One strategy for quick results is to integrate capabilities into existing sales systems. For example, generative AI can improve ..."
+    publishedDateTime: 2023-03-31T13:02:00Z
+    webUrl: "https://hbr.org/2023/03/how-generative-ai-will-change-sales"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 34
   - title: "Deep Dive Into Generative AI and What Will Drive Tomorrow"
     excerpt: "While the banking crisis may have interrupted funding flows for a limited period, the hype cycle in generative AI has momentum with staying power."
     publishedDateTime: 2023-03-30T14:06:00Z
@@ -174,6 +183,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "Multiple red flags are not yet slowing the generative AI train"
+    excerpt: "The champions of AI have long argued that this general purpose technology will produce an unprecedented surge in productivity and creativity; its critics fear it carries alarming present-day risks and may even pose an existential threat to humanity in future."
+    publishedDateTime: 2023-03-30T12:57:00Z
+    webUrl: "https://www.ft.com/content/89647443-29c7-421f-86aa-5a12af6268c0"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "8MwxBeBp0sMaXSvbfqxU+c0mFvgA6m1hjKfbPgszbxESVTmHbLvyAMKoNFyTrzqUAXDKb99x1ja+oKs4ih/fStlhGQIj3zChQXojqmwJXW4TmLG8ScrFo72vZA7VvVkunrrrzFzaCKgJwdySsqPO9OkEY2k4lClfqHIkqcX3v4TpIElo7uu3F4FLdcklO2vs5kPIa+Pb0q0YEbxnPf/3/lspFL/ZkfqtRQldI9Pmi4l8hvIZpD4dfPtInmhXEgviw+bOiyIqNluU+VRVEP9/BrdNSe6/LTbLQLbv0AYPB/ZAxK6qdQMSHVpUEyHOJcoIn0kTJbFRw0bjqa1DGJerEWom9VbrV8XJIt9/A7X4u56WR1f2il93PGYPZ5HZEXd3U13NSQ+jqLmUAA96KMRPCpHX8uLOKxLEb0AdZOatyPaHW35NRKE8K1v5w2eb5JO/1URYaAD+cuCq2K58RmffzZ5f7Y3LHf3ViO63Wk28dRwWMVb8IWP5O+HrW0A7n+YNBMXI4eP89/J4cr7zeKSwPg==;BJpiV8rPWsN9hZS2XfEwqg=="
 ---

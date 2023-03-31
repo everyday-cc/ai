@@ -8,7 +8,7 @@ webUrl: "https://www.businessinsider.com/ai-researcher-issued-warning-about-tech
 ampWebUrl: "https://www.businessinsider.com/ai-researcher-issued-warning-about-technology-shut-it-all-down-2023-3?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-researcher-issued-warning-about-technology-shut-it-all-down-2023-3?amp"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 

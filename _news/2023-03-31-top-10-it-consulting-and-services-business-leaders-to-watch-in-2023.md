@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-31T13:07:00Z
 originalUrl: "https://www.entrepreneur.com/en-au/leadership/top-10-it-consulting-and-services-business-leaders-to-watch/448793"
 webUrl: "https://www.entrepreneur.com/en-au/leadership/top-10-it-consulting-and-services-business-leaders-to-watch/448793"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Entrepreneur

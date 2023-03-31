@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-31T12:47:00Z
 originalUrl: "https://medicalxpress.com/news/2023-03-microrobot-capable-neural-networks-sectioning.html"
 webUrl: "https://medicalxpress.com/news/2023-03-microrobot-capable-neural-networks-sectioning.html"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Medical Xpress

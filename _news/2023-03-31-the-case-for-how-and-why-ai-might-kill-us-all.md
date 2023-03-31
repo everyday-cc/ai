@@ -6,9 +6,9 @@ publishedDateTime: 2023-03-31T09:28:00Z
 originalUrl: "https://newatlas.com/technology/ai-danger-kill-everyone"
 webUrl: "https://newatlas.com/technology/ai-danger-kill-everyone"
 type: article
-quality: 69
-heat: -1
-published: false
+quality: 71
+heat: 91
+published: true
 
 provider:
   name: New Atlas
@@ -21,6 +21,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://assets.newatlas.com/dims4/default/f8f2c4a/2147483647/strip/true/crop/1344x706+0+95/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F2d%2Fe3%2F024b16504003a3cc42d21bec425f%2Floz-a-small-child-holds-a-cookie-out-towards-a-much-larger-scar-c3bb1789-1343-47b7-9871-7521a59cb98a.png&na.image_optimisation=0"
@@ -53,20 +54,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/fVQKZg5pKIAqEGgwL6dVKdUIZnw=/0x0:5320x3779/1200x628/filters:focal(2660x1890:2661x1891)/cdn.vox-cdn.com/uploads/chorus_asset/file/24542737/1249642666.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Upcoming Landmarks in Artificial Intelligence"
-    excerpt: "Robot police dogs that don’t need oiling, autonomous dental floss, and other neato perks on the road to the Singularity."
-    publishedDateTime: 2023-03-27T10:00:00Z
-    webUrl: "https://www.newyorker.com/magazine/2023/04/03/upcoming-landmarks-in-artificial-intelligence"
-    type: article
-    provider:
-      name: The New Yorker
-      domain: newyorker.com
-    quality: 37
-    images:
-      - url: "https://media.newyorker.com/photos/641b32f4dd09cd057679a241/16:9/w_1280,c_limit/230403_r42114.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "OKw93AlFaofW5HSBsqxmltOSmz90s6A+MuaXDZiLgD1S+bVkc0CrA4EBy7T5P59ALS1jaR/Mhuedxky2ny70ab2RjVuYsW6wu6Wkw0XtxAeT11gnqSqzLrM1bvW6wJhyaXhBYBAgsmK0UsZGY0MZPkGEn2V5AuFSyvYNmhBMnI5BSOmNS5DMtLbtPcvODJzXXO46URPVbMDdLBqOjHNeOK/DHxJG9IUfI8a2Bl5zJv0g/nJqGh1AugQgEKpO7JJ2Oe6WBfk10juElqwW8RnSTY7SmwgTOOfEzac5gwyo/h68BLCUQdJZy6DqRPDTyFt0uZwThf+cTkrpimxSvZhWkecedPrYcQM7yFLHdYwK1BNnMRvsZPRS9Y2Hzxxpi97tNAlLjDVKZPhbXtMG5Th2iD0pEAWBD4n1M1a0QF6K0rk0Os5sc28Sg/YV9b15yjCA5vnOy2E4wYZS08afuhFl+obaWw+z/X8FEqII3uty5/wTx5MchVR2MP4ySwSD5CYynTVHNnSr2Rg+upzMPOscjQ==;xRiIOPXH8uhYivHKWXIH6g=="

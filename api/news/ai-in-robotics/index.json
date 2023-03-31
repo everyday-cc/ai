@@ -2,6 +2,164 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-31-goldman-sachs-predicts-300-million-jobs-will-be-lost-or-degraded-by-artificial-intelligence.md",
+      "title": "Goldman Sachs Predicts 300 Million Jobs Will Be Lost Or Degraded By Artificial Intelligence",
+      "excerpt": "While the startup ecosystem has stalled due to adverse economic ... to wage declines among blue-collar workers replaced or degraded by automation. Artificial intelligence, robotics and new sophisticated technologies have caused a vast chasm in wealth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2023/03/31/goldman-sachs-predicts-300-million-jobs-will-be-lost-or-degraded-by-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2023/03/31/goldman-sachs-predicts-300-million-jobs-will-be-lost-or-degraded-by-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/615077097475eceab8f6ae3e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2023/03/31/goldman-sachs-predicts-300-million-jobs-will-be-lost-or-degraded-by-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/03/31/goldman-sachs-predicts-300-million-jobs-will-be-lost-or-degraded-by-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-03-31T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-31-could-this-self-driving-ev-charging-robot-be-a-game-changer.md",
+      "title": "Could this self-driving EV charging robot be a game changer?",
+      "excerpt": "The orange-and-white automatic self-drive EV charging robot is waterproof and shockproof, and it’s got deep learning, 5G, V2X, simultaneous localization and mapping, and other tech capabilities. China-based NaaS says the robot can complete the charging ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2023/03/31/self-driving-ev-charging-robot/",
+      "originalUrl": "https://electrek.co/2023/03/31/self-driving-ev-charging-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/03/NaaS-EV-mobile-charging-robot.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-31T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-03-31-the-case-for-how-and-why-ai-might-kill-us-all.md",
+      "title": "The case for how and why AI might kill us all",
+      "excerpt": "Some believe AI is flat-out going to wipe out all of biological life at ... inspired by the way the human brain connects concepts. It worked with Microsoft Azure to build the hardware to run it, then fed it billions and billions of bits of human text ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/technology/ai-danger-kill-everyone",
+      "originalUrl": "https://newatlas.com/technology/ai-danger-kill-everyone",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/f8f2c4a/2147483647/strip/true/crop/1344x706+0+95/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F2d%2Fe3%2F024b16504003a3cc42d21bec425f%2Floz-a-small-child-holds-a-cookie-out-towards-a-much-larger-scar-c3bb1789-1343-47b7-9871-7521a59cb98a.png&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-31T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-03-30-5-artificial-intelligence-etfs-for-investors-to-ride-the-ai-wave-plus-one-bonus-alternative.md",
       "title": "5 Artificial Intelligence ETFs For Investors To Ride The AI Wave - Plus One Bonus Alternative",
       "excerpt": "It invests in a diverse range of stocks in the robotics, automation and AI sectors. As well as investing in the tech more broadly, ROBO also has a focus on healthcare, where automation and artificial intelligence can help save lives, as well as drive ...",
@@ -1316,137 +1474,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-ai-news-roundup-ai-advancements-google-and-microsoft-germanys-healthcare-robots-and-ai-in-the-workplace.md",
-      "title": "AI News Roundup | AI Advancements: Google and Microsoft, Germany's healthcare robots, and AI in the workplace",
-      "excerpt": "Google, Microsoft aim to increase productivity through AI integration in popular productivity apps. Google and Microsoft are on a mission to remove the drudgery from computing, by",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/ai-news-roundup-ai-advancements-google-and-microsoft-germanys-healthcare-robots-and-ai-in-the-workplace-10287821.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/ai-news-roundup-ai-advancements-google-and-microsoft-germanys-healthcare-robots-and-ai-in-the-workplace-10287821.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/03/9-garmi-robot-in-germany.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/ai-news-roundup-ai-advancements-google-and-microsoft-germanys-healthcare-robots-and-ai-in-the-workplace-10287821.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/ai-news-roundup-ai-advancements-google-and-microsoft-germanys-healthcare-robots-and-ai-in-the-workplace-10287821.html/amp",
-      "publishedDateTime": "2023-03-21T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-why-its-simpler-for-ais-to-write-about-art-than-for-robots-to-do-your-laundry.md",
-      "title": "Why it’s simpler for AIs to write about art than for robots to do your laundry",
-      "excerpt": "That’s because Sanctuary AI robots appear to be what science fiction writers have warned us about: intelligent machines that look like us and take away our jobs. Indeed, this narrative trope has been with us for as long as the word ‘robot’ has (coined in the 1920 play,",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/why-its-simpler-ais-write-about-art-robots-do-your-laundry",
-      "originalUrl": "https://diginomica.com/why-its-simpler-ais-write-about-art-robots-do-your-laundry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2023-03/46AB53B9-9ACD-4EAF-8AF4-C97E46A33986.jpeg",
-          "width": 1170,
-          "height": 847,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/why-its-simpler-ais-write-about-art-robots-do-your-laundry?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/why-its-simpler-ais-write-about-art-robots-do-your-laundry?amp",
-      "publishedDateTime": "2023-03-21T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-local-robotics-team-advances-in-international-competitiion.md",
-      "title": "Local robotics team advances in international competitiion",
-      "excerpt": "Local students once again are advancing to an international robotics competition. For Inspiration and Recognition of Science and Technology, or FIRST, is an international youth organization that operates several major student competitions,",
-      "sourceUrl": null,
-      "webUrl": "https://qctimes.com/news/local/education/local-robotics-team-advances-in-international-competitiion/article_f90bfc3b-7124-5179-a7e8-37955ccfbefe.html",
-      "originalUrl": "https://qctimes.com/news/local/education/local-robotics-team-advances-in-international-competitiion/article_f90bfc3b-7124-5179-a7e8-37955ccfbefe.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/f/90/f90bfc3b-7124-5179-a7e8-37955ccfbefe/6418bacde55a4.preview.png?crop=1000%2C525%2C0%2C97&resize=1000%2C525&order=crop%2Cresize",
-          "width": 1000,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quad-City Times",
-        "domain": "qctimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

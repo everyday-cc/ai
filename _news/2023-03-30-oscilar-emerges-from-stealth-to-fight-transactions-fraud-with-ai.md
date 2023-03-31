@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-30T16:50:00Z
 originalUrl: "https://techcrunch.com/2023/03/30/oscilar-emerges-from-stealth-to-fight-transactions-fraud-with-ai/"
 webUrl: "https://techcrunch.com/2023/03/30/oscilar-emerges-from-stealth-to-fight-transactions-fraud-with-ai/"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: YAHOO!News

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-31T12:14:00Z
 originalUrl: "https://www.entrepreneur.com/en-in/news-and-trends/meet-robby-the-robot-a-chatgptbitcoin-product-by/448792"
 webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/meet-robby-the-robot-a-chatgptbitcoin-product-by/448792"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Entrepreneur

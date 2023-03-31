@@ -35,6 +35,15 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "XPeng brings assisted driving tech to Shanghai"
+    excerpt: "The launch of the assisted driving features by XPeng (XPEV) is a differentiator for the automaker with rival Tesla (TSLA). \"Tesla doesn’t really pump Autopilot in China and they don’t offer Full Self Driving (FSD) in China, whereas Xpeng really leaned ..."
+    publishedDateTime: 2023-03-31T12:32:00Z
+    webUrl: "https://seekingalpha.com/news/3953094-xpeng-brings-assisted-driving-tech-to-shanghai"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "jhfyRfbNGVCoY07Op1B19zOSNJ+zBBWaBAI/v7/mmvuEWUOTM/1XF/ThfHGkguoQQPyO8oKIyY7AoQz3bk9cPrsTRqbzIO+H4oW+c2JMs0/j9RTVDuxTkkhopRyQqjm4AqZlN23451n3rdzS8T1GOfLrMVzdvZ+hw1eklvumfogKzLN3z6CiF0KNbPENhHc2RAjK4dUc0+sY9asWD2++y6M8lytH7RwIc1ZeSXM5pDq3Oetqi3iIMcuL+E0gTe3F5e0fleiSwklzoiRGM0PicQWOxorLTErAtV7w6iUkaTTT1lmvuU3Nl66kHK7HCaOJRHAYohO3f4DuvbHd4WNmqqBl+g8JRWLzVWR+7I9GN/l2/Ccxwl2faBJWP9DL0YIsrdPSQAsdWTkRFy1m/EckSXWrSus+y+n89CW8Rlc7C9KiMSZBQ3KyujxVfa1NbCt4THDWz9Nbkzhqw89GFHUGVw3bWmio+hlzsdOGy+/Qcd3VNRQCcK9+SBPEttbQwlmL+OEPKgzM6J0sx93uF5D6ZQ==;hrFtIy/8iPN3f5THyHb3BQ=="
 ---

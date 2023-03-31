@@ -2,6 +2,248 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-03-20-the-state-of-self-driving-cars-autonomous-advances.md",
+      "title": "The State of Self-Driving Cars: Autonomous Advances",
+      "excerpt": "Significant advances have been made in the technology that powers self-driving cars in the last decade, but there's still further to go. We dive into the",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/article/2644-the-state-of-self-driving-cars/",
+      "originalUrl": "https://www.techspot.com/article/2644-the-state-of-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/articles-info/2644/images/2023-03-18-image.jpg",
+          "width": 4000,
+          "height": 2666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-artificial-intelligence-in-healthcare-market-is-expected-to-grow-at-a-significant-cagr-of-3873.md",
+      "title": "Artificial Intelligence In Healthcare Market Is Expected To Grow At A Significant CAGR Of 38.73%",
+      "excerpt": "Artificial intelligence in the healthcare market was valued at USD 9.81 billion in 2022. It is projected to reach USD 258.5 billion at a CAGR of 38.73% NEW YORK CITY, NEW YORK, UNITED STATES ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105816169/Artificial-Intelligence-In-Healthcare-Market-Is-Expected-To-Grow-At-A-Significant-CAGR-Of-3873",
+      "originalUrl": "https://menafn.com/1105816169/Artificial-Intelligence-In-Healthcare-Market-Is-Expected-To-Grow-At-A-Significant-CAGR-Of-3873",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-03/20/EP_dfbe7image_story.jpeg",
+          "width": 764,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-artificial-intelligence-in-security-market-research-report-2023-cagr-status-growth-forecast-by-2029.md",
+      "title": "Artificial Intelligence in Security Market Research Report 2023: CAGR Status & Growth Forecast by 2029",
+      "excerpt": "Mar 20, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Artificial Intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-report-2023-cagr-status-growth-forecast-by-2029-2023-03-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-report-2023-cagr-status-growth-forecast-by-2029-2023-03-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T02:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-fujitsu-pushes-ai-ethics-in-small-lab-initiative.md",
+      "title": "Fujitsu pushes AI ethics in small lab initiative",
+      "excerpt": "Japan-based Fujitsu teamed with a local women's university to jointly work on AI ethics to promote gender equality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobileworldlive.com/asia/asia-news/fujitsu-pushes-ai-ethics-in-small-lab-initiative/",
+      "originalUrl": "https://www.mobileworldlive.com/asia/asia-news/fujitsu-pushes-ai-ethics-in-small-lab-initiative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mobileworldlive.com/wp-content/uploads/2023/02/Fujitsu.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mobileworldlive.com/asia/asia-news/fujitsu-pushes-ai-ethics-in-small-lab-initiative/amp/",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/asia/asia-news/fujitsu-pushes-ai-ethics-in-small-lab-initiative/amp/",
+      "publishedDateTime": "2023-03-20T02:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-3-ways-ambitious-entrepreneurs-are-using-ai.md",
+      "title": "3 Ways Ambitious Entrepreneurs Are Using AI",
+      "excerpt": "If you’re not incorporating artificial intelligence into your work in some way, you’re behind the curve. Even the most suspicious and non-technical entrepreneurs could save time and money making use of the tools available,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/03/20/3-ways-ambitious-entrepreneurs-are-using-ai/",
+      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/03/20/3-ways-ambitious-entrepreneurs-are-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63fe4eb9a0f2b525e607b7f9/0x0.jpg?format=jpg&crop=1892,1065,x0,y39,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/03/20/3-ways-ambitious-entrepreneurs-are-using-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/03/20/3-ways-ambitious-entrepreneurs-are-using-ai/amp/",
+      "publishedDateTime": "2023-03-20T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-20-beyond-the-hype-what-you-really-need-to-know-about-ai-in-2023.md",
       "title": "Beyond The Hype: What You Really Need To Know About AI In 2023",
       "excerpt": "AI is not the future; it's here now and embedded in our daily lives. It's important to understand its impact on jobs, businesses, and industries, and to develop ethical and explainable AI to build trust.",
@@ -908,233 +1150,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-beijing-greenlights-operation-of-unmanned-self-driving-vehicles.md",
-      "title": "Beijing greenlights operation of unmanned self-driving vehicles",
-      "excerpt": "BEIJING -- Beijing greenlighted the commercial operation of autonomous driving service without in ... operated respectively by Chinese tech giant Baidu and autonomous vehicle startup Pony.ai ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202303/19/WS64164d23a31057c47ebb542b.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202303/19/WS64164d23a31057c47ebb542b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202303/19/64164d23a31057c4b4b783c8.jpeg",
-          "width": 721,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-19T00:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores.md",
-      "title": "Self-driving trucks to deliver robot-fulfilled grocery orders to Kroger stores",
-      "excerpt": "California-based Gatik is pitching its autonomous vehicle deliveries as a way for retailers to cut costs and save time in their constant effort to be in stock by using frequent deliveries from small self-driving trucks instead of big semitrailers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.html",
-      "originalUrl": "https://www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/f/75/f75e53ee-c4cc-11ed-ba06-bfbde1bf6eb1/641474090a371.image.jpg?resize=1024%2C678",
-          "width": 1024,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.amp.html",
-      "cdnAmpWebUrl": "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.amp.html",
-      "publishedDateTime": "2023-03-18T21:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Item",
-        "domain": "dailyitem.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-chinese-firm-to-launch-robot-taxis.md",
-      "title": "Chinese firm to launch robot taxis",
-      "excerpt": "Chinese tech company Baidu has announced that it can now operate robotaxis in a part of the capital city of Beijing with no human staff or driver inside. According to CNBC, the move eliminates the labor cost for operating self-driving taxis — up to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://punchng.com/chinese-firm-to-launch-robot-taxis/",
-      "originalUrl": "https://punchng.com/chinese-firm-to-launch-robot-taxis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.punchng.com/wp-content/uploads/2017/09/21153552/Baidus-Self-Driving-Car.jpg",
-          "width": 561,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://punchng.com/chinese-firm-to-launch-robot-taxis/?amp",
-      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/chinese-firm-to-launch-robot-taxis/?amp",
-      "publishedDateTime": "2023-03-18T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Punch Newspapers",
-        "domain": "punchng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-microsoft-and-baidu-team-up-to-boost-development-of-self-driving-car-technologies.md",
-      "title": "Microsoft and Baidu team up to boost development of self-driving car technologies",
-      "excerpt": "Microsoft and Chinese search giant Baidu have announced a new partnership ... to help bring safe self-driving vehicles to market more quickly. According to research from McKinsey, up to 15% ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-and-baidu-team-up-to-boost-development-of-self-driving-car-technologies/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-and-baidu-team-up-to-boost-development-of-self-driving-car-technologies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2017/07/1500392516_microsoft-baidu-cars_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-and-baidu-team-up-to-boost-development-of-self-driving-car-technologies/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-baidu-team-up-to-boost-development-of-self-driving-car-technologies/",
-      "publishedDateTime": "2023-03-18T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-cognitive-dissonance-and-mental-gymnastics.md",
-      "title": "Cognitive dissonance and mental gymnastics",
-      "excerpt": "And that's the dissonance. Sana Qadar: But cognitive dissonance doesn't just arise when we do something bad. It takes a certain amount of dissonance to get yourself off to the gym when you'd ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/radionational/programs/allinthemind/cognitive-dissonance-mental-gymnastics/102057908",
-      "originalUrl": "https://www.abc.net.au/radionational/programs/allinthemind/cognitive-dissonance-mental-gymnastics/102057908",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://live-production.wcms.abc-cdn.net.au/8352f7fdf25d04acde4c44d21872c3c8?impolicy=wcms_crop_resize&cropH=2755&cropW=4897&xPos=0&yPos=337&width=862&height=485",
-          "width": 862,
-          "height": 485,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-18T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

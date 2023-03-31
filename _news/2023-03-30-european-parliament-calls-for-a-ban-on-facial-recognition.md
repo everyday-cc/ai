@@ -41,12 +41,17 @@ related:
   - title: "Putin is using facial recognition surveillance to nab dissenters before they can protest"
     excerpt: "Facial recognition has long been criticized as an overreaching and oftentimes racist surveillance tool. It has also been utilized in places like Hong Kong to identify and track those who"
     publishedDateTime: 2023-03-28T19:30:00Z
-    webUrl: "https://omaha.com/news/world/putin-is-using-facial-recognition-surveillance-to-nab-dissenters-before-they-can-protest/video_265c3478-b187-5531-aeda-649e07cdb4bb.html"
+    webUrl: "https://www.stltoday.com/news/world/video_7c3aa00e-473a-5f8b-9155-04bdd1292009.html"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 10
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 30
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/7/c3/7c3aa00e-473a-5f8b-9155-04bdd1292009/64230f5f9acf5.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "1VvlRYmsVmXTgSR0/VNZ6fZ8hTYH5rPMK0LforCFGaBd+1Ui3BYaUkiBkuKIhp8K+v0dXJzRX9cYovTnYtfShf1Vz+kacW1Gh5m4QMgV9dfnCnpZGfK2SasmQzAaFCtMQl+PAaEsoupuRCZMaEoVuj8L/3t6ME33zmy4gN2WCkEWz515jICGBDuZXVWxL6lG1PssV0LE0QFIPdk3gfQSll1Cihdgwl+H21Iu4IZHEDD+0uRvobGed0Q4enmg23HwksJGZD2qDwLQ9aARIpjDCsg8biS5pUgmp/O+tTB4nJxNfBfPuZtE3XzgfTbOiJU3EP7D+VRMqMILxcfhIW+m5ecvOjLySRUTnmpfDHta0ok=;+M+YlOZTMH+bJac6/i/XwQ=="
 ---

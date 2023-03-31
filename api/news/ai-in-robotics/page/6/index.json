@@ -2,6 +2,126 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-02-09-ai-and-robot-innovation-to-boost-shanghais-economic-development.md",
+      "title": "AI and robot innovation to boost Shanghai's economic development",
+      "excerpt": "Employees of Shanghai-based robot firm JAKA are attending a two-week training program, with the company's global expansion plan. A dozen employees from various countries including Russia, Spain and Mexico are attending a two-week cobot operation training program at Shanghai-based JAKA.",
+      "sourceUrl": null,
+      "webUrl": "https://www.shine.cn/biz/tech/2302096038/",
+      "originalUrl": "https://www.shine.cn/biz/tech/2302096038/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://obj.shine.cn/files/2023/02/10/2cc07d0b-ccd7-49dd-93a1-dd3090a89ebe_0.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T04:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SHINE",
+        "domain": "shine.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-barista-robot-that-can-make-20-drinks-and-manage-coffee-shops-on-duty-in-south-korea.md",
+      "title": "Barista robot that can make 20 drinks and manage coffee shops on duty in South Korea",
+      "excerpt": "The AI Barista Robot, which uses a robotic arm powered by “advanced artificial intelligence”, can even close your cup lid when serving beverages, according to its creators. Not content with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.standard.co.uk/tech/barista-robot-south-korea-coffee-shops-b1056117.html",
+      "originalUrl": "https://www.standard.co.uk/tech/barista-robot-south-korea-coffee-shops-b1056117.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.standard.co.uk/2023/01/27/12/FnXAng6aUAAxxcY.jpeg?width=1200&width=1200&auto=webp&quality=75",
+          "width": 1200,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.standard.co.uk/tech/barista-robot-south-korea-coffee-shops-b1056117.html",
+      "cdnAmpWebUrl": "https://www-standard-co-uk.cdn.ampproject.org/c/s/www.standard.co.uk/tech/barista-robot-south-korea-coffee-shops-b1056117.html",
+      "publishedDateTime": "2023-02-08T17:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "London Evening Standard",
+        "domain": "standard.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-what-happens-when-you-mash-generative-ai-with-robotics-carnegie-mellon-scientists-dream-up-an-answer.md",
+      "title": "What happens when you mash generative AI with robotics? Carnegie Mellon scientists dream up an answer",
+      "excerpt": "It’s a question that’s roiled industry stakeholders and armchair intellectuals for the past few years, ever since generative AI splashed onto ... But they start with some semantic goals.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/90847320/generative-ai-art-robot-carnegie-mellon-frida-scientists",
+      "originalUrl": "https://www.fastcompany.com/90847320/generative-ai-art-robot-carnegie-mellon-frida-scientists",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T15:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-08-climbing-robot-performs-leading-edge-blade-repair-in-the-field.md",
       "title": "Climbing robot performs leading-edge blade repair in the field",
       "excerpt": "Leading-edge blade damage can compromise the aerodynamic performance of a wind turbine by up to 3%. Following five years of development, and drawing on the experience of a small team of mechanical, electronic,",
@@ -1064,109 +1184,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-when-my-dad-was-sick-i-started-googling-grief-then-i-couldnt-escape-it.md",
-      "title": "When my dad was sick, I started Googling grief. Then I couldn’t escape it.",
-      "excerpt": "Googler, coping with uncertainty by trying to learn as much as I can about whatever might be coming. That included my father’s throat cancer. Initially I focused on the purely medical. I endeavored to learn as much as I could about molecular biomarkers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/02/06/1067794/escape-grief-content-unsubscribe-facebook-instagram-amazon-recommendation-algorithms/",
-      "originalUrl": "https://www.technologyreview.com/2023/02/06/1067794/escape-grief-content-unsubscribe-facebook-instagram-amazon-recommendation-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/02/06/1067794/escape-grief-content-unsubscribe-facebook-instagram-amazon-recommendation-algorithms/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/02/06/1067794/escape-grief-content-unsubscribe-facebook-instagram-amazon-recommendation-algorithms/amp/",
-      "publishedDateTime": "2023-02-06T02:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-the-robots-revolutionising-chemistry.md",
-      "title": "The robots revolutionising chemistry",
-      "excerpt": "Researchers working with automated systems are pushing the boundaries of what chemists can achieve in the lab, reports James Mitchell Crow",
-      "sourceUrl": null,
-      "webUrl": "https://www.chemistryworld.com/features/the-robots-revolutionising-chemistry/4016798.article",
-      "originalUrl": "https://www.chemistryworld.com/features/the-robots-revolutionising-chemistry/4016798.article",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chemistry World",
-        "domain": "chemistryworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-segway-launches-navimow-robotic-lawnmower-in-uk.md",
-      "title": "Segway launches Navimow robotic lawnmower in UK",
-      "excerpt": "Segway has launched its award-winning smart robotic lawnmower, Navimow in the UK, along with the innovative new AI-powered VisionFence Sensor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekamagazine.co.uk/content/news/segway-launches-navimow-robotic-lawnmower-in-uk",
-      "originalUrl": "https://www.eurekamagazine.co.uk/content/news/segway-launches-navimow-robotic-lawnmower-in-uk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T01:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eureka Magazine",
-        "domain": "eurekamagazine.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

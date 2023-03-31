@@ -2,6 +2,223 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2023-03-06-artificial-intelligence-can-predict-cancer-survival-using-data-from-a-single-consultation.md",
+      "title": "Artificial Intelligence Can Predict Cancer Survival Using Data From a Single Consultation",
+      "excerpt": "Artificial intelligence can predict survival in cancer patients using information from a patient’s initial consultation with an oncologist, a study suggests.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cancertherapyadvisor.com/home/news/artificial-intelligence-predict-cancer-survival-data-single-consultation/",
+      "originalUrl": "https://www.cancertherapyadvisor.com/home/news/artificial-intelligence-predict-cancer-survival-data-single-consultation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cancer Therapy Advisor",
+        "domain": "cancertherapyadvisor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-brainchip-extends-ai-machine-learning-in-space-and-time-with-bio-inspired-neural-networks.md",
+      "title": "Brainchip Extends AI, Machine Learning In Space And Time With Bio-Inspired Neural Networks",
+      "excerpt": "Brainchip has introduced a new generation of its unique, bio-inspired Akida line of licensable, configurable neural processing IP.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/06/brainchip-extends-ai-machine-learning-in-space-and-time-with-bio-inspired-neural-networks/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/06/brainchip-extends-ai-machine-learning-in-space-and-time-with-bio-inspired-neural-networks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/640214b4c8c9ba097d058205/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 691,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/06/brainchip-extends-ai-machine-learning-in-space-and-time-with-bio-inspired-neural-networks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/03/06/brainchip-extends-ai-machine-learning-in-space-and-time-with-bio-inspired-neural-networks/amp/",
+      "publishedDateTime": "2023-03-06T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-ai-and-machine-learning-powered-devron-cover-whale-to-enable-safer-roads.md",
+      "title": "AI and Machine Learning-Powered Devron, Cover Whale to Enable Safer Roads",
+      "excerpt": "Devron, which claims to be the leader in AI and machine learning for distributed and ... Learn Finance and Get Certified at nocost with 365 Financial Analyst FromMarch 1 to 21, the new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2023/03/203315-ai-and-machine-learning-powered-devron-cover-whale-to-enable-safer-roads/",
+      "originalUrl": "https://www.crowdfundinsider.com/2023/03/203315-ai-and-machine-learning-powered-devron-cover-whale-to-enable-safer-roads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T03:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-adoption-of-generative-ai-what-should-enterprises-consider.md",
+      "title": "Adoption Of Generative AI: What Should Enterprises Consider?",
+      "excerpt": "To ensure that generative AI is approached with caution, it is essential to thoroughly evaluate how it can be incorporated into your company's processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/06/adoption-of-generative-ai-what-should-enterprises-consider/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/06/adoption-of-generative-ai-what-should-enterprises-consider/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6401f00fffe104e0998619c1/0x0.jpg?format=jpg&width=1200",
+          "width": 1054,
+          "height": 658,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/06/adoption-of-generative-ai-what-should-enterprises-consider/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/06/adoption-of-generative-ai-what-should-enterprises-consider/amp/",
+      "publishedDateTime": "2023-03-06T02:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-choosing-between-azure-and-aws-the-ultimate-guide.md",
+      "title": "Choosing Between Azure and AWS: The Ultimate Guide",
+      "excerpt": "The Ultimate Guide\" provides a comprehensive comparison of the two most popular cloud computing platforms, Azure and AWS. It covers various factors like workloads, pricing, support, and security, which should be considered before making a decision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2369506-choosing-between-azure-and-aws-the-ultimate-guide",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2369506-choosing-between-azure-and-aws-the-ultimate-guide",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/06_03_2023_14_52_33_9477074.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2369506-choosing-between-azure-and-aws-the-ultimate-guide?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2369506-choosing-between-azure-and-aws-the-ultimate-guide?amp",
+      "publishedDateTime": "2023-03-06T01:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-06-ai-education-market-likely-to-boost-future-growth-with-ibm-watson-knewton-dreambox-renaissance-learning.md",
       "title": "AI Education Market Likely to Boost Future Growth with IBM Watson, Knewton, DreamBox, Renaissance Learning",
       "excerpt": "The report gives an abstract and quantitative examination of the Global AI Education Market. The examination relies upon the division of the AI Education which focuses on monetary and non-money related factors impacting the AI Education improvement.",
@@ -869,240 +1086,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-05-nasa-captures-sequestered-carbon-of-99-billion-trees-with-deep-learning-and-satellite-images.md",
-      "title": "NASA captures sequestered carbon of 9.9 billion trees with deep-learning and satellite images",
-      "excerpt": "Researchers applied deep-learning-based tree mapping, manually trained on about 90,000 trees, to a data set of nearly 300,000 satellite images to measure more than 9.9 billion woody plants that ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-03-nasa-captures-sequestered-carbon-billion.html",
-      "originalUrl": "https://phys.org/news/2023-03-nasa-captures-sequestered-carbon-billion.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/nasa-captures-sequeste.jpg",
-          "width": 2133,
-          "height": 1906,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-03-nasa-captures-sequestered-carbon-billion.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-03-nasa-captures-sequestered-carbon-billion.amp",
-      "publishedDateTime": "2023-03-04T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-05-openai-launches-an-api-for-chatgpt-a-startup-attempts-a-humanoid-robot-and-salesforce-turns-it-around.md",
-      "title": "OpenAI launches an API for ChatGPT, a startup attempts a humanoid robot, and Salesforce turns it around",
-      "excerpt": "Experts across climate, mobility, fintech, AI and machine learning ... Hydrogen powered: Startup Universal Hydrogen took to the air this week with the largest hydrogen fuel cell ever to fly.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/04/openai-launches-an-api-for-chatgpt-a-startup-attempts-a-humanoid-robot-and-salesforce-turns-it-around/",
-      "originalUrl": "https://techcrunch.com/2023/03/04/openai-launches-an-api-for-chatgpt-a-startup-attempts-a-humanoid-robot-and-salesforce-turns-it-around/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1173441590.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/04/openai-launches-an-api-for-chatgpt-a-startup-attempts-a-humanoid-robot-and-salesforce-turns-it-around/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/04/openai-launches-an-api-for-chatgpt-a-startup-attempts-a-humanoid-robot-and-salesforce-turns-it-around/amp/",
-      "publishedDateTime": "2023-03-04T15:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-05-lewis-can-artificial-intelligence-be-evil.md",
-      "title": "Lewis: Can artificial intelligence be evil?",
-      "excerpt": "In the year 2050, the world was a vastly different place, controlled by advanced AI systems that governed everything from transportation to health care. However, a series of bizarre incidents began to occur across",
-      "sourceUrl": null,
-      "webUrl": "https://www.vaildaily.com/opinion/lewis-can-artificial-intelligence-be-evil/",
-      "originalUrl": "https://www.vaildaily.com/opinion/lewis-can-artificial-intelligence-be-evil/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vaildaily.com/wp-content/uploads/sites/7/2022/07/MarkLewis-1-683x1024.jpeg",
-          "width": 683,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-04T14:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vail Daily",
-        "domain": "vaildaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-05-cognitive-impairment-in-multiple-sclerosis-tied-to-diet.md",
-      "title": "Cognitive Impairment in Multiple Sclerosis Tied to Diet",
-      "excerpt": "Among 563 MS patients in a clinical cohort, higher adherence to a Mediterranean diet predicted a 20% lower risk for cognitive impairment (OR 0.80, 95% CI 0.73-0.89), reported Ilana Katz Sand ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/meetingcoverage/aan/103374",
-      "originalUrl": "https://www.medpagetoday.com/meetingcoverage/aan/103374",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/103xxx/103374.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-04T09:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-04-generative-ai-could-lower-drug-prices-heres-how.md",
-      "title": "Generative AI could lower drug prices. Here's how",
-      "excerpt": "In the future, specifying a drug target may be like sitting down to ChatGPT. After a few clicks, you'll have your novel therapeutic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/generative-ai-could-lower-drug-prices-heres-how/",
-      "originalUrl": "https://www.zdnet.com/article/generative-ai-could-lower-drug-prices-heres-how/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/c0b475ddb6f590c029a299c2b88a7e1c3985eb3a/2023/02/28/edd460d3-73b8-4ce6-ace5-c6dac00ee94a/abci-de-novo-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai-could-lower-drug-prices-heres-how/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-could-lower-drug-prices-heres-how/",
-      "publishedDateTime": "2023-03-04T06:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }
