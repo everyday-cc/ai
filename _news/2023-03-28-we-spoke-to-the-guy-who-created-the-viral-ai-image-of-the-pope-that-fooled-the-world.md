@@ -7,7 +7,7 @@ originalUrl: "https://www.buzzfeednews.com/article/chrisstokelwalker/pope-puffy-
 webUrl: "https://www.buzzfeednews.com/article/chrisstokelwalker/pope-puffy-jacket-ai-midjourney-image-creator-interview"
 type: article
 quality: 60
-heat: 71
+heat: 70
 published: true
 
 provider:

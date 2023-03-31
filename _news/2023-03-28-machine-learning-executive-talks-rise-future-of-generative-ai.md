@@ -26,45 +26,65 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI In The Enterprise - Use Cases & Early Learnings"
-    excerpt: "GPT becomes an attractive alternative for companies looking to switch their manual call centers into a more responsive, always-on, and more efficient capability."
-    publishedDateTime: 2023-03-26T01:29:00Z
-    webUrl: "https://www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-ai-in-the-enterpriseuse-cases--early-learnings/"
-    ampWebUrl: "https://www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-ai-in-the-enterpriseuse-cases--early-learnings/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-ai-in-the-enterpriseuse-cases--early-learnings/amp/"
+  - title: "What’s new in Azure Data & AI: Azure is built for generative AI apps"
+    excerpt: "OpenAI launched ChatGPT in December 2022, immediately inspiring people and companies to pioneer novel use cases for large language models. It’s no wonder that ChatGPT reached 1 million users within a week of launch and 100 million users within two months, making it the fastest-growing consumer application"
+    publishedDateTime: 2023-03-30T09:00:10Z
+    webUrl: "https://azure.microsoft.com/blog/what-s-new-in-azure-data-and-ai-azure-is-built-for-generative-ai-apps/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "How AI is Creating Explosive Demand for Training Data"
+    excerpt: "Artificial Intelligence (AI) has rapidly evolved in recent years, leading to groundbreaking innovations and transforming various industries. One crucial factor driving this progress is the availability and quality of training data."
+    publishedDateTime: 2023-03-26T16:59:00Z
+    webUrl: "https://www.unite.ai/how-ai-is-creating-explosive-demand-for-training-data/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.unite.ai/wp-content/uploads/2023/03/fabio-ballasina-wEL2zPX3jDg-unsplash-942x600.jpg"
+        width: 942
+        height: 600
         isCached: true
-  - title: "Collaborative machine learning startup FedML raises $6M to train, deploy and customize AI anywhere"
-    excerpt: "The startup has also signed 10 enterprise contracts spanning industries such as healthcare, financial services, retail, logistics, smart cities, Web3 and generative AI. Constellation Research Inc. Vice President and Principal Analyst Andy Thurai told ..."
-    publishedDateTime: 2023-03-28T13:02:00Z
-    webUrl: "https://siliconangle.com/2023/03/28/collaborative-machine-learning-startup-fedml-raises-6m-train-deploy-customize-ai-anywhere/"
+  - title: "Academic unit at BU adopts guidelines for use of generative AI"
+    excerpt: "At Boston University, professor Wesley Wildman’s Data, Society and Ethics class has made a critical first step toward addressing those concerns, crafting a policy that guides how both students and instructors should use advanced AI. BU’s Faculty of ..."
+    publishedDateTime: 2023-03-28T09:01:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2023/03/28/colleges-setting-guidelines-for-use-of-chatgpt-ot.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 57
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/0_3hy1w5rvyWCK_6Ef.png"
-        width: 1400
-        height: 785
-        isCached: true
-  - title: "How AI Is Changing The Future Of Creative Enterprise"
-    excerpt: "AI tools that were once complex and time-consuming are now faster and more consumer-friendly. Soon, the line between \"professional\" and \"consumer\" software tools will blur as they merge and significantly impact business models."
-    publishedDateTime: 2023-03-27T12:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/27/how-ai-is-changing-the-future-of-creative-enterprise/"
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
+  - title: "New Report Details How Generative AI Impacts Work"
+    excerpt: "Aberdeen's latest research offers insight into the ways professionals use generative AI today, as well as how AI might affect work in the future."
+    publishedDateTime: 2023-03-29T15:11:00Z
+    webUrl: "https://www.extremetech.com/computing/new-report-details-how-generative-ai-impacts-work"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
+  - title: "Big banks invest in generative AI startup Hazy"
+    excerpt: "Hazy won the $1 million Microsoft Innovate AI prize for the best AI startup in Europe and has signed up big name clients, including financial services giants Nationwide and Wells Fargo. Harry Keen, CEO, Hazy, says: \"This funding will solidify our position ..."
+    publishedDateTime: 2023-03-27T23:01:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42044/big-banks-invest-in-generative-ai-startup-hazy"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 17
+  - title: "How Businesses Can Win with Generative AI: UiPath to Unveil Latest AI-Powered Automation Innovations"
+    excerpt: "UiPath (NYSE: PATH), a leading enterprise automation software company, today announced its annual UiPath AI Summit will take place March 30, offering viewers around the world insight into strategies for adopting the newest AI to bolster their automation initiatives and practical guidance from leading AI and automation industry use cases."
+    publishedDateTime: 2023-03-30T15:28:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-how-businesses-w-with-generative-ai-uipath-unveil-/2023/03/30/9786220.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "XVDBj+f0kmzflOJC+tEhTu9vgx+cTvcqVkus4q2+YkLf2nluY98XMYu8OjGQQv56ptvq4tkVGS8FctLTl/j2Z7tftzo6G6aYFRD5+bdz2lmI5+bnBDUTSlt5WGHT2kZV/a2r4bBOWozBDhBhzkPnzgAPXiBRCyMmBpP6EDxcqhzLqgWOLSAHdzEw3wgbGneqBjKf2w/+gftqlz7nkC4BbaDhJfaoKoZJuwrxhOLuL81ipMBvjsjtHt+iIbD1ki8gMdESW1aHLtcbaVQESISdnOMSM/4thVar03SNTkYxPhNpuANYVSoy253VL/IPzZC1Luk3lj3sGiIrCYQmvWEIMiV5UwoYzdX7TgQRIA2gkUE=;7Ot8OCsvUQyIwhTF+0IqvQ=="
 ---

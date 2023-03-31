@@ -26,16 +26,16 @@ images:
 
 related:
   - title: "Robotaxis in Beijing open new chapter of intelligent transport"
-    excerpt: "The scenes in science-fiction movies of people riding unmanned vehicles are becoming increasingly realistic, demonstrated by the recent availability of robotaxis in Beijing, which can be hired via mobile apps."
-    publishedDateTime: 2023-03-27T02:23:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202303/27/WS6420dbcea31057c47ebb69ea.html"
+    excerpt: "CHINA DAILY Driverless cars ready for hire in suburb ... It then processes and judges through artificial intelligence algorithms to achieve autonomous driving. The robotaxi is also expected ..."
+    publishedDateTime: 2023-03-27T07:58:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202303/27/WS6420dbcea31057c47ebb69ea.html"
     type: article
     provider:
       name: 中国日报网
       domain: chinadaily.com.cn
     quality: 24
     images:
-      - url: "https://img2.chinadaily.com.cn/images/202303/27/642108a1a31057c4b4b7fe1d.jpeg"
+      - url: "http://img2.chinadaily.com.cn/images/202303/27/642108a1a31057c4b4b7fe1d.jpeg"
         width: 720
         height: 480
         isCached: true

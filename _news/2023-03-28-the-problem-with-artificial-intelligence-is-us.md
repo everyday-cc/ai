@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-28T16:45:00Z
 originalUrl: "https://www.christiancentury.org/article/features/problem-artificial-intelligence-us"
 webUrl: "https://www.christiancentury.org/article/features/problem-artificial-intelligence-us"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.christiancentury.org/sites/default/files/images/detail/pexels-federico-orlandi-3260626.jpg"
@@ -68,6 +69,15 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "7 Best AI Stocks Of 2023"
+    excerpt: "Artificial intelligence (AI) is suddenly everywhere. You can thank the release of ChatGPT in November 2022 for setting off the current wave of interest in AI applications. The startup behind ChatGPT is called OpenAI,"
+    publishedDateTime: 2023-03-28T18:57:00Z
+    webUrl: "https://www.forbes.com/advisor/investing/best-ai-stocks/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "QQ1eeHMhj9fj/dkn8axY2+72rF2C4n32mqEnGg3r8aQioUMOZ6O4Lv/SLZXA3W4pOLnkW0VhET/d7BM4wzkLaB2gUAzccCcUQT5PINYHkNo4N7DFQZGLLdsfRySvEgzyEdgMbktXrC3J9YvRbFZ0ARZ6+20O5feHJ/xSV80iw1IMtGD6JnYcg8NVyxTebG68XKu6gSmb2aeedBwYoMMMeWFyFQc9WFv9wVI3NMcPNl+Nx8Y8UK9SxR0VE9BjUD/UTbKzxaAmMFH6C7tiikyHvwMQdId1zAKQAE/J7WsFnI11ToRHC5831UyEiW97GSh+DoGgKWG0FPlxnZzwVhjqArbMcYNjup5I2x86MHB/2uE=;veT5nt6ETD5mGFyiZk5c3w=="
 ---

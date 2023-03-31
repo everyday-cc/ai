@@ -23,22 +23,6 @@ images:
     height: 603
     isCached: true
 
-related:
-  - title: "Astrophysicists Show How To “Weigh” Galaxy Clusters With Artificial Intelligence"
-    excerpt: "Scholars have used a machine learning algorithm to generate new equations that help solve a fundamental problem in astrophysics"
-    publishedDateTime: 2023-03-24T05:02:00Z
-    webUrl: "https://spaceref.com/science-and-exploration/astrophysicists-show-how-to-weigh-galaxy-clusters-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: SpaceRef
-      domain: spaceref.com
-    quality: 32
-    images:
-      - url: "https://media2.spaceref.com/wp-content/uploads/2023/03/23210132/Low-Res_galaxy_cluster.png.png"
-        width: 1279
-        height: 720
-        isCached: true
-
 secured: "KxDRcJSg2pO1qvgspUjCiFpmSzyWVYEMdEEGfhsC21HBz+prO2KP66Z7O1VjDk0sePBgn9kdteADGkaoIQj1riyPDfhk2rOa84ySX7S68PqAEqOgdLax54aSu9ILt1W8uAw++SNkf5znjHwxbGuqSgHb6Uy53C99dCNIclbhWQeDt6kFMHvLGgpktPkZvFjhDmfUFkHQrO3s6TOb6Km3mk9e0nqvp2QxTye2d4928pCr91o9SkMbCOXsd+iMDxh0xul+iCJU0GfybtrG5ox+U5NexS0Nf6bnI5MzLyHPZ0y7zRRGZcv1DAIA28/DSaPqgNr81w49mBPgOuAkR36kK/UpPXXyt/kPwVvNGOrvX0RiL3Ee+neIPhg6MYQGqvtjE8d2PQGVRf9FxGsF69vyzlMpnM1o9cUi44WHieFl1XZvSjXx9z/em36SinHTNZfvAdzAtvxrztlcL+XW8EMWFzvcGzUn1QVOPRm7yp3K7EoX/SsxZpAZJKV6IkF9p4JTzOztaoNjvcstbTUhjPjtFQ==;ROp/0pB1eRKtg6EeXFF9jQ=="
 ---
 

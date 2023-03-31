@@ -69,20 +69,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 51
-  - title: "O’Reilly 2023 Tech Trends Report Reveals Growing Interest in Artificial Intelligence Topics, Driven by Generative AI Advancement"
-    excerpt: "O’Reilly, a premier source for insight-driven learning on technology and business, announced the findings of its annual Technology Trends for 2023 report, which examines the most sought-after technology topics consumed by the 2."
-    publishedDateTime: 2023-03-24T13:00:00Z
-    webUrl: "https://insidebigdata.com/2023/03/24/oreilly-2023-tech-trends-report-reveals-growing-interest-in-artificial-intelligence-topics-driven-by-generative-ai-advancement/"
+  - title: "Deep Dive Into Generative AI and What Will Drive Tomorrow"
+    excerpt: "While the banking crisis may have interrupted funding flows for a limited period, the hype cycle in generative AI has momentum with staying power."
+    publishedDateTime: 2023-03-30T14:06:00Z
+    webUrl: "https://www.law.com/nationallawjournal/2023/03/30/deep-dive-into-generative-ai-and-what-will-drive-tomorrow/"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 25
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2021/02/Snowflake_report_cover.png"
-        width: 300
-        height: 391
-        isCached: true
+      name: Law
+      domain: law.com
+    quality: 21
 
 secured: "XSdiNy2x9QdczlRU/pQOUWkkvax5mGUpqq7fHMbltveqPBhr8k+rYfFoKGsbzOID5/JmEgpl9Q487zcH6M3kLKxXO7Zcs5ovS2rQA7Lkz7bokNu0my8DPjea7kafHlWum1SrKrin8BX/WCIW3WvLAZsiyEOLK2s3ZzRh8wmvImeV3XGo+c3fp5iwEP2YVHSrkOEILbXoz3to8ak7cnUf6iuZkmcSNoFLN1LYgQiAPN8K/KWUYVbvAywS5GbA0C3Z0rDFhtcAWs+uZ+lfiou9nCjF8odyJv8Vn8QCKd+I32UkXeO3RNoT2aW3ccVwgSpeESMFoXc+7viAXf7WlxaID2Y8SwVuUDdaf6BwzOWqStk=;X69Pr9xHSyfGf1Af3Fxcvw=="
 ---

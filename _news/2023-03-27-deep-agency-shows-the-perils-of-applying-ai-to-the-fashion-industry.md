@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-ap
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry/amp/"
 type: article
 quality: 87
-heat: 119
+heat: 107
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/641db2cbc8f7905940580d4a/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Chip industry goes all-in on Artificial Intelligence"
-    excerpt: "But an industry long associated with volatility is quietly getting excited that artificial intelligence (AI) could be the key to some longer-term stability. US firm Nvidia dominates the market in specialised chips known as GPUs, which happen to be ideal ..."
-    publishedDateTime: 2023-03-25T11:28:00Z
-    webUrl: "https://www.newindianexpress.com/business/2023/mar/23/chip-industry-goes-all-in-on-artificial-intelligence-2558797.html"
-    ampWebUrl: "https://www.newindianexpress.com/business/2023/mar/23/chip-industry-goes-all-in-on-artificial-intelligence-2558797.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2023/mar/23/chip-industry-goes-all-in-on-artificial-intelligence-2558797.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 76
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/3/23/w600X390/Accenture.jpg"
-        width: 600
-        height: 390
         isCached: true
   - title: "The Psychology of Artificial Intelligence"
     excerpt: "But what about two decades later? I posed the question earlier posed to participants now to the artificial intelligence software ChatGPT. Order the sensibility of the following three sentences: “after wading barefoot in the lake, Erik used his towel to ..."

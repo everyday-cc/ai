@@ -25,63 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Airport gets facial recognition technology"
-    excerpt: "Cameras installed at the Jinnah International Airport equipped with facial recognition technology have been made operational, with the Federal Investigation Agency (FIA) and the Civil Aviation Authority (CAA) to manage it jointly. The surveillance system ..."
-    publishedDateTime: 2023-03-24T06:02:00Z
-    webUrl: "https://tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology"
-    ampWebUrl: "https://tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology?amp=1"
+  - title: "Facial recognition is helping Putin curb dissent with the aid of US tech"
+    excerpt: "Facial recognition equipment is pictured at the exhibition during the Sixth Eastern Economic Forum in Vladivostok, Russia, in 2021.  LONDON — Andrey Chernyshov had just entered a Moscow metro station on his way to an anti-war protest last May,"
+    publishedDateTime: 2023-03-28T11:00:00Z
+    webUrl: "https://www.stltoday.com/news/national/facial-recognition-is-helping-putin-curb-dissent-with-the-aid-of-us-tech/article_993af131-23e1-5844-8bc6-1dea6eabbb81.html"
     type: article
     provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 74
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 53
     images:
-      - url: "https://i.tribune.com.pk/media/images/1857356-facialrecognitionx-1543564330/1857356-facialrecognitionx-1543564330.jpg"
-        width: 640
-        height: 426
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/93/993af131-23e1-5844-8bc6-1dea6eabbb81/6422c31341ace.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Facial recognition techniques nail robbers"
-    excerpt: "Warrant officer Vanishree Abdul Rahim was the SAPS facial recognition techniques expert who did an analysis. She testified in court how she was able to determine that the accused were the same individuals seen in different instances, in the CCTV footage ..."
-    publishedDateTime: 2023-03-26T11:12:00Z
-    webUrl: "https://www.iol.co.za/sunday-tribune/news/facial-recognition-techniques-nail-robbers-a4e61131-5582-4ae3-bece-cfd32c6eafcb"
+  - title: "TEST DO NOT FILE: Facial recognition is helping Putin curb dissent with the aid of U.S. tech"
+    excerpt: "REUTERS/Marko Djurica/File Photo A Reuters review of more than 2,000 court cases shows how Russia uses facial recognition to identify and sweep up the Kremlin's opponents. Our Standards: The Thomson Reuters Trust Principles. Europecategory Sweden summons ..."
+    publishedDateTime: 2023-03-29T18:00:00Z
+    webUrl: "https://www.reuters.com/world/test-do-not-file-facial-recognition-is-helping-putin-curb-dissent-with-aid-us-2023-03-29/"
     type: article
     provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 34
-  - title: "UMich respiratory therapists and technologists seek union recognition"
-    excerpt: "it comes down to things like having that voice in our staffing ratios, in our scheduling policies, our PTO and vacation leave,” Wells said. Shannon Beadle, a respiratory therapist at Mott, emphasized the ways in which union recognition with SEIU would ..."
-    publishedDateTime: 2023-03-24T01:15:00Z
-    webUrl: "https://www.michigandaily.com/news/administration/umich-respiratory-therapists-and-technologists-seek-union-recognition/"
+      name: Reuters
+      domain: reuters.com
+    quality: 53
+  - title: "I am an SAS-trained facial recognition expert – here are the telltale signs paranoid Putin IS using body doubles"
+    excerpt: "AN SAS-trained facial recognition expert believes Vladimir Putin is so paranoid about being assassinated that he is using body doubles. Graham Yuill has revealed the telltale signs that he says"
+    publishedDateTime: 2023-03-27T11:07:00Z
+    webUrl: "https://www.thesun.ie/news/10450003/sas-facial-expert-telltale-signs-putin-using-body-doubles/"
     type: article
     provider:
-      name: The Michigan Daily
-      domain: michigandaily.com
-    quality: 24
-    images:
-      - url: "https://www.michigandaily.com/wp-content/uploads/2023/03/Untitled_Artwork-copy-1.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "Facial recognition techniques link gang to spate of betting outlet robberies"
-    excerpt: "Warrant officer Vanishree Abdul Rahim was the SAPS facial recognition techniques expert who did an analysis. She testified in court how she was able to determine that the accused were the same individuals seen in different instances, in the CCTV footage ..."
-    publishedDateTime: 2023-03-26T10:33:00Z
-    webUrl: "https://www.iol.co.za/sunday-tribune/news/facial-recognition-techniques-link-gang-to-spate-of-betting-outlet-robberies-a4e61131-5582-4ae3-bece-cfd32c6eafcb"
+      name: Irish Sun
+      domain: thesun.ie
+    quality: 13
+  - title: "Putin is using facial recognition surveillance to nab dissenters before they can protest"
+    excerpt: "Facial recognition has long been criticized as an overreaching and oftentimes racist surveillance tool. It has also been utilized in places like Hong Kong to identify and track those who"
+    publishedDateTime: 2023-03-28T19:30:00Z
+    webUrl: "https://omaha.com/news/world/putin-is-using-facial-recognition-surveillance-to-nab-dissenters-before-they-can-protest/video_265c3478-b187-5531-aeda-649e07cdb4bb.html"
     type: article
     provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 16
-  - title: "JP Morgan pilots palm and face-recognition technology in US"
-    excerpt: "If successful, there will be a wider roll-out of the technology in the US next year. After enrolling, customers will be able to pay for purchases through face or palm scans without the need for a card, phone or cash. Biometric payments schemes will also ..."
-    publishedDateTime: 2023-03-27T11:21:00Z
-    webUrl: "https://www.computerweekly.com/news/365534158/JP-Morgan-pilots-palm-and-face-recognition-technology-in-US"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 4
+      name: Omaha.com
+      domain: omaha.com
+    quality: 10
 
 secured: "w/fPqFVLYk88yvzep6gM5kFO/PPANo+e5ap5KN16xmBYpDlJXcfFI13CsScjm9d540JMNgVzf1Q5Z4vt8k/udTwEPI9d8b/UWzXHj/Y63MsTtEKtEYLtiLSuE0+w14um+Jzw6e+I765bn45M9gtJIZt/dBrgBTaH8ALD627vl9Ph98Q0zQnT4ZjMdQxaP5kQgCxomEeimw22pSuwotgx3vZErxj0QK9fgGPgTPgZ5uSGf5eevTgY1nMuWECb0O7OQN0Wlauvnj2G/0CtSn9yIBdkwK11rLQ4gYZj3yNzAfuIJM6PuxNCaWx5Mm0EkLJF1ohhKGjJVQJfhoS6CagNb2UUI/06u/4ZL39H+kJh14bgidEuoaUq6Tqo9ovKpfyanP0Ae7OkZLLuEBwSTSBfNa6FApNIB3u30wxImj+iQGXb00sKytjyOmsEtpEJ0Pcq3H+ikpvXm0i/palNUYGbaQNaDw8LJeEacw3PU/2pCYX7bswc3lje4ousCfRc9zkdBWu0v8nWuHQeWBspxLir8g==;b1meElXA77wXNyinn0xlxQ=="
 ---

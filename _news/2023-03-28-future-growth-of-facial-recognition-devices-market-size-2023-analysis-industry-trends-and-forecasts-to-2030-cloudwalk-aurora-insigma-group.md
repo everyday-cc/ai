@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/future-growth-of-facial-
 webUrl: "https://www.marketwatch.com/press-release/future-growth-of-facial-recognition-devices-market-size-2023-analysis-industry-trends-and-forecasts-to-2030-cloudwalk-aurora-insigma-group-2023-03-28"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Synthetic Data Generation Market Size, Key Segments, Share, Trends, Growth, and Forecast 2031"
-    excerpt: "Global Synthetic Data Generation Market is valued at approximately USD 123.3 million in 2021 and is anticipated"
-    publishedDateTime: 2023-03-24T11:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/synthetic-data-generation-market-size-key-segments-share-trends-growth-and-forecast-2031-2023-03-24"
+  - title: "High Speed Computer Vision Systems Market Size 2023: Share, Technology, Growth, Opportunities, Insight 2030 | Basler AG, Cognex, Datalogic, FLIR"
+    excerpt: "Mar 28, 2023 (Heraldkeepers) -- United States – The market research carried out in this large scale High Speed Computer Vision Systems market report succors clients to forecast investment in an emerging market, expansion of market share or success of a ..."
+    publishedDateTime: 2023-03-28T17:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/high-speed-computer-vision-systems-market-size-2023-share-technology-growth-opportunities-insight-2030-basler-ag-cognex-datalogic-flir-2023-03-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

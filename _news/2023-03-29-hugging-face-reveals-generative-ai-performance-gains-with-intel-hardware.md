@@ -71,21 +71,16 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 51
-  - title: "O’Reilly 2023 Tech Trends Report Reveals Growing Interest in Artificial Intelligence Topics, Driven by Generative AI Advancement"
-    excerpt: "O’Reilly, a premier source for insight-driven learning on technology and business, announced the findings of its annual Technology Trends for 2023 report, which examines the most sought-after technology topics consumed by the 2."
-    publishedDateTime: 2023-03-24T13:00:00Z
-    webUrl: "https://insidebigdata.com/2023/03/24/oreilly-2023-tech-trends-report-reveals-growing-interest-in-artificial-intelligence-topics-driven-by-generative-ai-advancement/"
+  - title: "Deep Dive Into Generative AI and What Will Drive Tomorrow"
+    excerpt: "While the banking crisis may have interrupted funding flows for a limited period, the hype cycle in generative AI has momentum with staying power."
+    publishedDateTime: 2023-03-30T14:06:00Z
+    webUrl: "https://www.law.com/nationallawjournal/2023/03/30/deep-dive-into-generative-ai-and-what-will-drive-tomorrow/"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 25
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2021/02/Snowflake_report_cover.png"
-        width: 300
-        height: 391
-        isCached: true
+      name: Law
+      domain: law.com
+    quality: 21
 
-secured: "BRr0CWs9liC3Ct/G6zGIZucNrn9++y9cCLmFVOTI8LpcUqT7Qj6Uu+VKYY0ReRS4ZF6DSUceiYpprT7PQ+uH+73T3gaS5ncG4wHJO3sgrMdGuK4bqP5L8Rd/O6VUrncx9PlTRwy88ztKDPIx8rEtv4Mv9G7pg7oM3RFIisAVVouL3uChdpIV200Y7b62bMb53R74bWwdInyZxTX3IuiwWmc4R4NVvbevaZWlmUE2wVxt5h5KROhbfHWt293trG0UuMcuNx4gP7rOpH1HVsE9d5t942x2Tkl3PuIxDTyrnFIXeGOHwPTe35sbce40P64PKJvZHQneXpsYMHNV2s5JpI7eKDxoHGZOMXH3n0zK3N0=;+6Ptfidcqc/mXzGxfyXcKw=="
+secured: "P9MJvZS15ryrharfCusQAJ5S/4z6SJKHX978EnyIrDRliRuzZJvTS7NdNiiP1J2GoeTYt4arMBhWkQbL/CTlKNgwqbOCTFHDgcceusbGWVzzTcbedr/h9ZM9OTOwW2MYCGxmfEKFldtFrmjY/Woztst5ez5qVDFSIEwwNudaNAlOuaRm2CuQvQ3yEX9MLkGJf91wagpW84gh+1VtJIzTAzsaE6oS4f12rWymT4PwiF6SxpMRkfe0j/sDko28M4DHmryWI0L3BpD4swKAJs+mY/J/eULQMQb1c6SeEDYb6Xs9jb99IXAE09TrCYbq877B0KGMeqGWU84p2SoSY67fyqCWx2zFGDxom5VXJpoEIEIGd+RkcmVlm2mZqdbrjGCFf2HodwEqFvIsIbG/YkqCtifWnT7SAotD3jIEvTV7XLmUqQJzXT9UsJC7FAXA1clsKST/6yo6I+NBq+cPVOtQ2bU3uFbL673uyu6mi7Zl67DAskCXt+gTnEHYABE9sdVO1KCGU9z/qoyQSX9qiVYm7w==;WqPPqET46qiqbAXw3WuNOQ=="
 ---
 

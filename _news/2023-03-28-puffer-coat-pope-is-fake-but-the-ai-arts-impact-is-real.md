@@ -17,17 +17,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "This Tweet Is Proof Lawmakers Aren’t Ready for the AI Boom"
-    excerpt: "We aren’t ready.” ChatGPT taught itself to do advanced chemistry. It wasn't built into the model. Nobody programmed it to learn complicated chemistry. It decided to teach itself, then made its knowledge available to anyone who asked."
-    publishedDateTime: 2023-03-28T02:49:00Z
-    webUrl: "https://www.thedailybeast.com/senator-chris-murphys-chatgpt-tweet-is-proof-lawmakers-arent-ready-for-the-ai-boom"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 17
-
 secured: "9gtfM8WWRDBnQMDcwEBQke5qtRTkNXvq8ZezmOv/JAN1qLUSeRk8SpitptiqPNW/x94j+gBplTulNmXf0TSNhICvFD13GFadyJSYIofwUsaxgTsfa3o/+aGI3lFbOvYF6P3DhgzYaEpp4UdEZ2Nat/pWnoVBLpGWbi9Dx2qaP2pwaLIK/Zh4WeAFVu8TkA7U3wj5Tv6PS7zxbSBqsJ90ojWDEKdfGd7F3C5imgowSC7iiawXYSZRcuppcVCKk40W/dlbCjl5VoICUAujWweyCy5RI+LtOifSLi3UpzmIaKWWlHn8eBrvhnAer8IoLXFA9AM42Nt9HVgspej4wzo4F3e+L22SudrbtrouzkWTd374NcSLjJpjdfC9rIOytSJvwgjHMJqm6D+s0ycF48cMyTzXKCPHQb3afk1LYKj0+AuidB35EtXK637nMlDdFX3+F74LeNotCxujSUCIDjtikrmjA9B5cT1WpZi+Ds7dHKBeeod43JiJhTg/tAyzLC7gh61E6qVVs5dgXgjcPLNdOg==;79AEge59ktRjOPr/CliJOQ=="
 ---
 

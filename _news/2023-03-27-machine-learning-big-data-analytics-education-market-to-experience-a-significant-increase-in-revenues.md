@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-big-dat
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-big-data-analytics-education-market-to-experience-a-significant-increase-in-revenues-2023-03-26"
 type: article
 quality: 70
-heat: -1
-published: false
+heat: 150
+published: true
 
 provider:
   name: MarketWatch
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Three Ways To Increase ROI On AI-Driven Data And Analytics Transformation"
-    excerpt: "Digital transformation is in full throttle, but it’s not all smooth sailing for companies. Why is it so hard to get it right?"
-    publishedDateTime: 2023-03-24T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/24/three-ways-to-increase-roi-on-ai-driven-data-and-analytics-transformation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/24/three-ways-to-increase-roi-on-ai-driven-data-and-analytics-transformation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/24/three-ways-to-increase-roi-on-ai-driven-data-and-analytics-transformation/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f2ab1b715bcd65fed3786e4/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "AI and Big Data Analytics in Telecom Market Size and Forecast till 2031"
     excerpt: "The \"AI and Big Data Analytics in Telecom Market\" study describes how the technology industry is evolving and how major"
     publishedDateTime: 2023-03-27T16:32:00Z
@@ -60,19 +44,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Workplace Analytics and AI-Powered Skills-Mapping Platforms Named ISG Startup Challenge Winners"
-    excerpt: "Technology platforms that facilitate collaboration and improved workplace experience and identify strengths and gaps"
-    publishedDateTime: 2023-03-24T15:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/workplace-analytics-and-ai-powered-skills-mapping-platforms-named-isg-startup-challenge-winners-2023-03-24"
+  - title: "Clinical Natural Language Processing Market Analysis: Explosive Growth Opportunity by 2029"
+    excerpt: "The report [ 113 pages] focuses on the Clinical Natural Language Processing market size, segmentation mainly covering product type [MachineTranslation, InformationExtraction, AutomaticSummarization, TextandVoiceProcessing],"
+    publishedDateTime: 2023-03-26T20:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/clinical-natural-language-processing-market-analysis-explosive-growth-opportunity-by-2029-2023-03-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Xoriant X-CELERATE Insights Analytics Solution Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to X·CELERATE Insights to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies SUNNYVALE,"
+    publishedDateTime: 2023-03-29T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-xoriant-x-celerate-insights-analytics-solution-now-available-/2023/03/29/9785521.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 57
+    images:
+      - url: "https://mma.prnewswire.com/media/449859/PRNE_Xoriant_Logo.jpg"
+        width: 400
+        height: 260
         isCached: true
   - title: "Computer vision data analytics in the spotlight for retail and small businesses"
     excerpt: "Lumeo, which designs computer vision technology, and the video analytics firm BriefCam both have new offerings targeting retail businesses."
@@ -87,6 +85,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/03144630/smart-camera-edge-device-retail.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "2023, The Artificial Intelligence in Life Sciences Market is Expected to Witness a Substantial Rise in Revenue"
+    excerpt: "Artificial Intelligence in Life Sciences Market Size 2023 | New Report (122 Pages) | Information Technology | In"
+    publishedDateTime: 2023-03-27T03:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-the-artificial-intelligence-in-life-sciences-market-is-expected-to-witness-a-substantial-rise-in-revenue-2023-03-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AWS brings real-time call analytics to Amazon Chime software development kit"
     excerpt: "Developers can simply choose the AWS artificial intelligence service they’d like to use to analyze a specific call, such as voice analytics, Amazon Transcribe or Amazon Transcribe Call Analytics. To visualize these analytics, users can choose from Amazon ..."
@@ -111,15 +123,15 @@ related:
       name: Zee Business
       domain: zeebiz.com
     quality: 23
-  - title: "Workplace Analytics and AI-Powered Skills-Mapping Platforms Named ISG Startup Challenge Winners"
-    excerpt: "Technology platforms that facilitate collaboration and improved workplace experience and identify strengths and gaps in workforce skills were voted the winners of ISG Startup Challenges at events hosted in London and New York by Information Services Group (ISG) (Nasdaq: III),"
-    publishedDateTime: 2023-03-24T21:24:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/03/24/9783050.htm"
+  - title: "Axis Communications Unveils New Devices at ISC West, Underscoring Its Commitment to Deep Learning and Advanced Analytics"
+    excerpt: "Axis Communications, the industry leader in video surveillance, announced the debut of its latest product and solutions offering at the ISC West security conference in Las Vegas, NV. The unveiling will include a series of panoramic cameras,"
+    publishedDateTime: 2023-03-29T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/03/29/9785666.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 5
+    quality: 0
 
 secured: "SdprZ266/x9Fpv8xqRI1f2CUmN4X3JzrhfFprEl4P0mGGqN+QzM19k7kdO1JkGMJjXf9viCVxVFFqdEIdKzZqozpJaGimMCE2GSdVubbpSHCPDAPOFTinwkzpRGabxIu49s2elrix0PbWNOC6nBhcfq5ZcIcMWvvke+SWOyhfY9q8AHsm7WSKe80BnTcguQkZA7GyX20jABPm3Y1PBdtyYOdM84/3jzo1+7qfMoMnaWPI4vOvnvoHh9XDK+PBV+IL9lUwoXr+/o2choS7zStqUw12O3ArAU1iUKo7Y3gZ7YG21s1aJ2E4z4Qvr6bqnpdzkwOwSGNewe+BcgP/nOpOBbHF5ZTj0egkE4TdZGJZ0E=;ZJ7qEQaprLE3yDE9rPZo9w=="
 ---

@@ -1,18 +1,22 @@
 ---
 category: news
 title: "IBM Brings Generative AI Commentary and Hole-by-Hole Player Predictions to the Masters Digital Experience"
-excerpt: "the IBM Consulting team leveraged AutoAI capabilities in IBM Watson Studio to train AI models using six years of Masters data — more than 120,000 golf shots. After the completion of a given hole, the hole-by-hole projections are updated to reflect the ..."
-publishedDateTime: 2023-03-28T13:22:00Z
-originalUrl: "https://www.asiaone.com/business/ibm-brings-generative-ai-commentary-and-hole-hole-player-predictions-masters-digital"
-webUrl: "https://www.asiaone.com/business/ibm-brings-generative-ai-commentary-and-hole-hole-player-predictions-masters-digital"
+excerpt: "Experts from IBM iX, the experience design partner within IBM Consulting, worked with the Masters digital team to leverage multiple foundation models aEUR\" including IBM Watson Text-to-Speech - to train the AI in the unique language of golf at the Masters,"
+publishedDateTime: 2023-03-28T12:02:00Z
+originalUrl: "https://www.marketwatch.com/press-release/ibm-brings-generative-ai-commentary-and-hole-by-hole-player-predictions-to-the-masters-digital-experience-2023-03-28"
+webUrl: "https://www.marketwatch.com/press-release/ibm-brings-generative-ai-commentary-and-hole-by-hole-player-predictions-to-the-masters-digital-experience-2023-03-28"
 type: article
-quality: 2
-heat: -1
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
@@ -34,6 +38,6 @@ related:
         height: 539
         isCached: true
 
-secured: "1QXYb0TU3g8AIDnH0mfzwv2qZaJO4+MvyPquZhoXF3ayRRKVtzpB8+kdywcquMEMU8BnTpCvhkpUDEj8+hMY1V55FR9pPNNwfarRdrtURD6wBw8TzWq9aoNa3bPPNeXaeDWV6uIM/H22MbIMnLCTbN7aQXLGen3KqOT7HoCeK5ZhFX9ULZFZH6KcWkgz4tPPcBKrk510VfJDJqBnynivcthSQv7hu8jQVNH2Km1eYAtGXvxx0wpY3DJ4kWmgzeGlbb2b2eqVkIuyR4cLtNIGoRFHIDoKpa7SzbXMFCtt939OoTqhvcj6hnAlB9REthlGDDW88glCm3AzmSvrQ7rit5//VCjomXFv2SM0D61lHzz5zf0ZO5JVwTPohfl+V7xGwtgHGFGFxSZPVPp6xABgtTJIhcxD/yZReJ5Q/UxkXTHP/7xqvqfCHEtYwjRvLGoDeEwZ52zk95wgorT0PcRL3u2QdjS9g2NFXnY0tbTdRZHcXF9GJK0TAz4wWJhaicboj10g9pLjGxaM+dp5XIvmBg==;guG+5969HBAUytoqHOMyBg=="
+secured: "UTbHKnuPpKAd2fj/+7e/X4rFQz5bjInIOxhDnO0FHI4ybRneE9EYxImdPJ8zuzpawmMyqgi4lixhkskrkYVskjWRXCfcxoyr+JRw2cE24ADt+oo2rd8NcvdXIUS4AqEV8DzRT3kJ89yETjHdtiqNwBxIRvnaO+keqRctjOdw3IhMLvH38tzL871MZqHCDaCPUSajjND3f/QdlBTyNwr9suyG0L/JW0bRyt6Xw3dbmeZYmg4S8PFM38H6VT4UyetxeYJ6m3WrpDRALaDnOc9KFeEct+QHej2ml2w6Xo7LbE5VfFdgRpsliu5o9Sce+Wo5cQHrD/Pv2VY/pIyQ0yrpYw7PDaIW6E+AAmEBuUCJPuk=;eOInKN4aAvnOz1xcjMDoUQ=="
 ---
 

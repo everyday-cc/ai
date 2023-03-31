@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-chip-for-data-centers
 webUrl: "https://www.marketwatch.com/press-release/ai-chip-for-data-centerss-market-analysis-2023-with-focus-on-business-opportunity-2023-03-26"
 type: article
 quality: 79
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Manufacturing Market Trends for Business Growth 2023-2027 with Strategies"
+    excerpt: "Mar 26, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Latest “Artificial Intelligence"
+    publishedDateTime: 2023-03-26T12:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-trends-for-business-growth-2023-2027-with-strategies-2023-03-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "A Closer Look on the Facial Recognition Access Control Solutionss Market| Opportunities and Challenges (2023 to 2029)"
     excerpt: "The \"Facial Recognition Access Control Solutions Market\" analysis [UPDATED REPORT] 2023 provides an assessment of"
     publishedDateTime: 2023-03-26T20:43:00Z

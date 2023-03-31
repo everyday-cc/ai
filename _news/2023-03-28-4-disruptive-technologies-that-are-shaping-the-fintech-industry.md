@@ -25,20 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Rounds that matter: Fintech’s fortunes, DAO dreams, Asia’s reseller revival"
-    excerpt: "Fintech founders should take note ... It has already backed projects like Guild, Stability AI, Lens and Metalabel. Such tooling will actually help take DAOs to a level where they can realize some, if not all, of the potential that fully decentralized ..."
-    publishedDateTime: 2023-03-25T14:08:00Z
-    webUrl: "https://techcrunch.com/2023/03/25/etoro-kredivo-kream-big-rounds/"
+  - title: "German Fintech Sector Continued to Grow and Mature in 2022"
+    excerpt: "In 2022, the German fintech sector continued to grow and mature, on a back of solid funding activity, a dynamic merger and acquisition (M&A) landscape, and growing usage of digital financial services,"
+    publishedDateTime: 2023-03-27T05:43:00Z
+    webUrl: "https://fintechnews.ch/fintechgermany/german-fintech-sector-continued-to-grow-and-mature-in-2022/59211/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 52
+      name: fintechnews
+      domain: fintechnews.ch
+    quality: 24
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1300750034.jpg?resize=1200,800"
-        width: 1200
-        height: 800
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2023/03/German-Fintech-Sector-Continued-to-Grow-and-Mature-in-2022.png?x30842"
+        width: 1024
+        height: 567
         isCached: true
+  - title: "Key Environmental Trends To Look Out For Across The Fintech Industry"
+    excerpt: "But now, in a bid to attract eco-conscious customers and implement more sustainable industry practices, there are several environmentally focused fintech trends we expect to see come to dominate the industry,"
+    publishedDateTime: 2023-03-30T14:01:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/03/30/9786256.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "/e0xQ3DuTV3A8+0xq8U+04aSdJju7rcgvZPR4h++OA5IHNWpxjW74xBtBRxpepjavgJzR/3l3OwSKW4sP/RvuoPkxNdOMo5fi/mE+fdMNUvQ5ySQtNoqF2dRWQyucqoqpGtLQe2pTXc1TcjUJVvuIo9Y+BhPK6plRQ+q+PbjbMrbxOcMEkuBs0Ip1UtkC4jJAbtjsSxtbhTDgTf0O5TG76TikHUUr8ClCydkseTGQ2lcWHovSLZIVyiyZsAtCnvNrlzj3Hwl+SJoFYc5b+KBoZ9bakDclE34LwAFz3sKczPZ3yPxggVuNS9tYFYip6sEi+/HdGd0mv09nnZEEx2mqCjuWHRQDdOcmOVb93/54vO2zwiRMqh0Iw6GuV2Naqb7NDk19sKylSvBmFx3tQRRh4DJ2AmoxmTq+8pZSIRL7OVj/Ihi3WUGDkogpRicjEFQRAIjRlWNN4jYPbznrSN+zekZL8hUY2O3Yhpczym4rcn5Ubbca6YKGkfBZUizSiM0JEm1Be6jTfkFQnFLj8AIaw==;ZhEmLXuLpAnFGuU15t4N7g=="
 ---

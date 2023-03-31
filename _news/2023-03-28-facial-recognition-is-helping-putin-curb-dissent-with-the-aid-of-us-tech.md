@@ -7,8 +7,8 @@ originalUrl: "https://www.stltoday.com/news/national/facial-recognition-is-helpi
 webUrl: "https://www.stltoday.com/news/national/facial-recognition-is-helping-putin-curb-dissent-with-the-aid-of-us-tech/article_993af131-23e1-5844-8bc6-1dea6eabbb81.html"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 93
+published: true
 
 provider:
   name: St. Louis Post-Dispatch
@@ -25,6 +25,29 @@ images:
     isCached: true
 
 related:
+  - title: "TEST DO NOT FILE: Facial recognition is helping Putin curb dissent with the aid of U.S. tech"
+    excerpt: "REUTERS/Marko Djurica/File Photo A Reuters review of more than 2,000 court cases shows how Russia uses facial recognition to identify and sweep up the Kremlin's opponents. Our Standards: The Thomson Reuters Trust Principles. Europecategory Sweden summons ..."
+    publishedDateTime: 2023-03-29T18:00:00Z
+    webUrl: "https://www.reuters.com/world/test-do-not-file-facial-recognition-is-helping-putin-curb-dissent-with-aid-us-2023-03-29/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 53
+  - title: "How Putin curbs dissent using facial recognition powered by US tech"
+    excerpt: "There officers told the 51-year-old bank employee that the metro's facial recognition system had flagged him for detention because of his political activism. A little over a week earlier Chernyshov stood alone by a fountain in central Moscow's Pushkin ..."
+    publishedDateTime: 2023-03-28T11:08:00Z
+    webUrl: "https://www.channelnewsasia.com/world/putin-dissent-russia-facial-recognition-us-tech-kremlin-opponents-3379491"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--QV5Kf8eZ--/c_crop,h_720,w_1280,x_0,y_0/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/03/28/2023-03-28T095000Z_601502695_RC2I20AJPG1K_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-DETENTIONS.JPG?itok=abhcfLmH"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "I am an SAS-trained facial recognition expert – here are the telltale signs paranoid Putin IS using body doubles"
     excerpt: "AN SAS-trained facial recognition expert believes Vladimir Putin is so paranoid about being assassinated that he is using body doubles. Graham Yuill has revealed the telltale signs that he says"
     publishedDateTime: 2023-03-27T11:07:00Z
@@ -34,6 +57,15 @@ related:
       name: Irish Sun
       domain: thesun.ie
     quality: 13
+  - title: "Putin is using facial recognition surveillance to nab dissenters before they can protest"
+    excerpt: "Facial recognition has long been criticized as an overreaching and oftentimes racist surveillance tool. It has also been utilized in places like Hong Kong to identify and track those who"
+    publishedDateTime: 2023-03-28T19:30:00Z
+    webUrl: "https://omaha.com/news/world/putin-is-using-facial-recognition-surveillance-to-nab-dissenters-before-they-can-protest/video_265c3478-b187-5531-aeda-649e07cdb4bb.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 10
 
 secured: "93h3oZBbI8shtoXshR7xJc612UPqtAKcefEwwO7DHn+w4EK8+GH44puKeNdvjGch7Rn1k4Dry6jDso2wADswhXa2iqfSdOD1dpL1JoEUHoYMD+3XphsP8QQPPjvm/JXjg0A5dCTijCMv+GdH8DUhWJfi8TxD6buYMDqfnYhEpN06IBG9ahZ+zyFMB9Ha1qONVaBqhFxJNA/ZgQPpXKyGZ+uEsEmQhnz8jKXV0khzSihMlX8bL/HpmSYCT1C45nvDffqUYb2DDE6bypPgZ4MfD6Mlg4de27wOPJsv3RrlF9rBaSa6fjx7AHxysk78C70eYGtRnkO3X+1XyURpvnc9uoeDX3iBu50CT1Z6yh+0TlGHKbt1588e2VwvlLQ6p5pakKifyvjOMqfPH2IdTAGHYnJKW4YyNiDQpnUq2xBo5RRRx/Y9uTolvb85VCwRcRWVpbXbMOX+GEdqfX8i1WaLLjAKVZGkc06hTp0OfCYna8Hur8z56Powqm27F/SbjNfNnrC3++pnBYWJOq2KTtLfhA==;8UeKth8DaTgu4o14x/IEgw=="
 ---

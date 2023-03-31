@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "MedTech Bigwigs in Spotlight as AI Revolutionizes Healthcare"
-    excerpt: "Per a report by Grand View Research, the global AI in cancer diagnostics market size was $93.2 million in 2021 and is expected to expand at a CAGR of 28.0% by 2030. Early detection of cancer is possible through AI for screening and diagnosis of cancer,"
-    publishedDateTime: 2023-03-24T17:02:00Z
-    webUrl: "https://www.nasdaq.com/articles/medtech-bigwigs-in-spotlight-as-ai-revolutionizes-healthcare"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
   - title: "Bill Gates says AI will revolutionize healthcare like the internet, mobile phones"
     excerpt: "Bill Gates says artificial intelligence will change the way people get healthcare as much as the internet and mobile phones have and could make health more equitable around the globe. \"For one thing, [AIs will] help healthcare workers make the most of ..."
     publishedDateTime: 2023-03-27T22:01:00Z
@@ -69,6 +60,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Multiple red flags are not yet slowing the generative AI train"
+    excerpt: "The champions of AI have long argued that this general purpose technology will produce an unprecedented surge in productivity and creativity; its critics fear it carries alarming present-day risks and may even pose an existential threat to humanity in future."
+    publishedDateTime: 2023-03-30T12:57:00Z
+    webUrl: "https://www.ft.com/content/89647443-29c7-421f-86aa-5a12af6268c0"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "YaEwlYKdbw82Nj9i58ppJ3SliNsEmXP/es3vr1td594E8ci2FtKeYjpfR9dlBM3xotaZ0H9ptlgND/mm7eTSnuJeHqFYeAq8lDLsC3zRY7a7oNXZLgm7nxMHl73GGlMojGcXnWQaWC8SFsJ+f/VmI2tpk+L2Xf1VMstfolSBmDOSVoE3HSoY7flUMwtvn6ayq+FMX0fDU4JU0QymV1viKFIQI3NK8Ou+pnwb8m645KprXJUFz3vB1/CG+5xbBh8hxrntggGHQNW9GjS1mvyJXKE5GP4j9x6uVC49KYuKAG3ZMaNVjAposno8CnObZCzSchLAzVFAgteY4M/HGKMlrVHjubC1tVZR2TGACkt+ILE=;gnFNz9yGcu0mUxpoWbkoTw=="
 ---

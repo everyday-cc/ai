@@ -45,15 +45,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "MedTech Bigwigs in Spotlight as AI Revolutionizes Healthcare"
-    excerpt: "Per a report by Grand View Research, the global AI in cancer diagnostics market size was $93.2 million in 2021 and is expected to expand at a CAGR of 28.0% by 2030. Early detection of cancer is possible through AI for screening and diagnosis of cancer,"
-    publishedDateTime: 2023-03-24T17:02:00Z
-    webUrl: "https://www.nasdaq.com/articles/medtech-bigwigs-in-spotlight-as-ai-revolutionizes-healthcare"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
   - title: "Bill Gates says AI will revolutionize healthcare like the internet, mobile phones"
     excerpt: "Bill Gates says artificial intelligence will change the way people get healthcare as much as the internet and mobile phones have and could make health more equitable around the globe. \"For one thing, [AIs will] help healthcare workers make the most of ..."
     publishedDateTime: 2023-03-27T22:01:00Z
@@ -68,6 +59,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Multiple red flags are not yet slowing the generative AI train"
+    excerpt: "The champions of AI have long argued that this general purpose technology will produce an unprecedented surge in productivity and creativity; its critics fear it carries alarming present-day risks and may even pose an existential threat to humanity in future."
+    publishedDateTime: 2023-03-30T12:57:00Z
+    webUrl: "https://www.ft.com/content/89647443-29c7-421f-86aa-5a12af6268c0"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "JW16Wfq//uBFrN9s+GSQVxKTo5WJqeLVtZbvGOtTt5nVUviH652MJiMvy/0QdZqeGHdc4cCCZUSBDn9EVNpPnI9mqn4sG3uZSlNFtbZAgbS585It15AJmWIDz2Xss1SggF3jwJqM/e9K0+3p2gcOWLJFTnWoltVwpieuesWoKhqAOkFMWrFV2cQGTNLuharOqGXrLCfr9YPuoaCaQTaz2R+CMKTuW/q0fteZPDuXKbTanSTAqlcyFBfXBsL5MzR2eQed7bjX/w6Uu5D3oNiMRYuycgUjLAKc0BV1V2JZFbrGNZrFhqPDY0sv0NmSLgHLxyOUJE9+qidB/KFhPC0SprcGpN0O+wbb4w9zrAE3n75dpPItBTjeh4Kb8AP/Wcb8OwTy6D8B0MyyepM8HANZimWyqBYt/3DWSQe3QosED2WjdMk3xBysRvMFlvUsAAQOFBk3bx6z2xI/XqSOY689lUUVDOvesOzWyJRsPOUNpcs0Zi6RRy2Ts2e9lUEWPwrOyO8nIZeL8ZL1zy0kamiAlg==;S0Oi7z4nNdM6WjCrzU4F/A=="
 ---

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Anthem Blue Cross Introduces Virtual-First Health Plans, Helping California Members Access Convenient, Affordable Care Options"
-    excerpt: "Members can choose virtual care, allowing for high-quality care at a lower cost Anthem Blue Cross (Anthem) in California today announced its Virtual-First health plans to eligible members in select co"
-    publishedDateTime: 2023-03-27T13:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/b31511099/anthem-blue-cross-introduces-virtual-first-health-plans-helping-california-members-access-convenie"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Anthem Blue Cross and Blue Shield in Missouri Introduces Virtual-First Health Plans, Helping Members Access Convenient, Affordable Care Options"
     excerpt: "Anthem Blue Cross and Blue Shield in Missouri (Anthem) today announced its Virtual-First health plans to eligible members in select commercial health plans. Virtual-First plans give individuals affordable access to virtual care options,"
     publishedDateTime: 2023-03-28T14:20:00Z

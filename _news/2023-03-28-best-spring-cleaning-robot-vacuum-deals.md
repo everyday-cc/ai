@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-spring-cleaning-robot-va
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-spring-cleaning-robot-vacuum-deals-2023-03-28/"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: CBS News
@@ -28,20 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Lots of great robot vacuums are on sale for under $500 just in time for spring cleaning"
+  - title: "Lots of self-emptying robot vacuums are on sale for under $500 just in time for spring cleaning"
     excerpt: "What sets the JetBot AI apart is an onboard ... WiFi-enabled robot vacuums can be synced with a smartphone app to control scheduling, manual start, and cleaning settings, as well as telling ..."
-    publishedDateTime: 2023-03-24T21:50:00Z
+    publishedDateTime: 2023-03-30T09:00:00Z
     webUrl: "https://mashable.com/deals/best-robot-vacuum-deals"
     type: article
     provider:
       name: Mashable
       domain: mashable.com
-    quality: 61
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/00Mn3035vqXT3udlVYKH7UG/hero-image.fill.size_1200x675.v1638483738.png"
-        width: 1200
-        height: 675
-        isCached: true
+    quality: 37
 
 secured: "W2cYZ6nSPs4m01Wo1wyYSW/6vZiwjrw4NbTXv7Ei+QB160htkSGM8mnd/VwSTuukWVZT5Cnnq60QqZ1aXLCTTODNUyTylIJUFYTXxRP+ROAKF0yXKWjfTSMULDmOVM8jHwAcQC0P2CeUysoAcyiHRrxC+4LmH2j0fb6urY0K7JDkfnwoJ7TUoU/PBCNYdJSIbfWJT+lQXUkas1p/HIZPWIV6nXov9jMCzpdbXmpdNzZwTtEa7D3dDldW0rmkNzjgNI2iNLOFKDVEEMCXv9qWpNDZSfnlEmzYiV4lgE0yYSBEefnhRn9mQXyEcY2muZONq5HJNSsTDw8hxoNaxFInOD9XnG1MBcFo5SG3zm4UQW0=;Z/KX5SiaDFwQBJIw7lC0fQ=="
 ---

@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://hackaday.com/wp-content/uploads/2023/02/LaserGlass_thumbnail.png?w=600&#038;h=600"

@@ -25,6 +25,47 @@ images:
     isCached: true
 
 related:
+  - title: "Buy Nvidia Stock Because the Chip Maker Is an AI Play, Says Analyst"
+    excerpt: "Bernstein is getting more bullish on demand for Nvidia semiconductors based upon the growth potential of artificial-intelligence training applications. On Tuesday, analyst Stacy Rasgon reiterated his Outperform rating for Nvidia stock (ticker: NVDA), and ..."
+    publishedDateTime: 2023-03-28T15:39:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-buy-ai-chip-2c81821f?refsec=technology"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-buy-ai-chip-2c81821f"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-buy-ai-chip-2c81821f"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://images.barrons.com/im-752355/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Nvidia shows how AI can improve chip design"
+    excerpt: "Nvidia, the world’s leading designer of computer chips used in creating artificial intelligence, on Monday showed new research that explains how AI can be used to improve chip design. The process of designing a chip involves deciding where to place tens of billion of tiny on-off switches called transistors on a piece of silicon to create working chips."
+    publishedDateTime: 2023-03-28T05:32:00Z
+    webUrl: "https://techcentral.co.za/nvidia-shows-how-ai-can-improve-chip-design/223714/"
+    ampWebUrl: "https://techcentral.co.za/nvidia-shows-how-ai-can-improve-chip-design/223714/?amp=1"
+    cdnAmpWebUrl: "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/nvidia-shows-how-ai-can-improve-chip-design/223714/?amp=1"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 74
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2022/06/nvidia-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
+  - title: "Nvidia shows new research on using AI to improve chip designs"
+    excerpt: "March 27 (Reuters) - Nvidia Corp (NVDA.O), the world's leading designer of computer chips used in creating artificial intelligence, on Monday showed new research that explains how AI can be used ..."
+    publishedDateTime: 2023-03-28T00:47:00Z
+    webUrl: "https://www.reuters.com/technology/nvidia-shows-new-research-using-ai-improve-chip-designs-2023-03-28/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 64
   - title: "Cryptocurrencies add nothing useful to society, says chip-maker Nvidia"
     excerpt: "Tech chief says the development of chatbots is a more worthwhile use of processing power than crypto mining"
     publishedDateTime: 2023-03-26T15:13:00Z
@@ -71,6 +112,20 @@ related:
         width: 1800
         height: 1200
         isCached: true
+  - title: "NVDA Stock Analysis: Why Most Of Nvidia's AI-Driven Upside Potential May Already Be Discounted"
+    excerpt: "NVIDIA Corp. (NASDAQ: NVDA) has been the best-performing stock of the Nasdaq 100 index since the start of the year."
+    publishedDateTime: 2023-03-29T19:57:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvda-stock-analysis-why-most-of-nvidia-s-ai-driven-upside-potential-may-already-be-discounted-1032201340"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/03/29/nvidia_headquarters.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "AI could be key to optimising chip design, Nvidia says"
     excerpt: "Nvidia Corp has released a paper showing how a combination of artificial intelligence (AI) techniques could find the best ways to place transistors on silicon chips. Nvidia Corp, the world's leading designer of computer chips used in AI, has shown new ..."
     publishedDateTime: 2023-03-28T10:42:00Z
@@ -85,20 +140,44 @@ related:
         width: 1200
         height: 450
         isCached: true
-  - title: "Nvidia claims crypto ‘useless’ for society as company continues AI push"
-    excerpt: "Nvidia's CTO, Michael Kagan has said in a statement that Crypto adds nothing \"useful for society\" compared to the company's efforts in AI and other applications."
-    publishedDateTime: 2023-03-27T17:58:00Z
-    webUrl: "https://www.dexerto.com/tech/nvidia-claims-crypto-useless-for-society-2097078/"
+  - title: "Nvidia Is More Than AI Chips. The Stock Has Software Upside, Says Analyst."
+    excerpt: "Piper Sandler analyst Harsh Kumar increased his price target on Nvidia stock to $300 from $275 and reaffirmed his Overweight rating."
+    publishedDateTime: 2023-03-29T18:59:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-upside-chip-1f7a9348"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-upside-chip-1f7a9348"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-upside-chip-1f7a9348"
     type: article
     provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 39
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/03/27/Nvidia-Crypto.jpg"
-        width: 1600
-        height: 900
-        isCached: true
+      name: Barron's
+      domain: barrons.com
+    quality: 52
+  - title: "Nvidia's New Research Shows How AI Can Be Used to Improve Chip Design"
+    excerpt: "Nvidia released a paper on Monday showing that it could use a combination of AI techniques to find better ways to place big groups of transistors."
+    publishedDateTime: 2023-03-28T07:17:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/nvidia-ai-based-research-improves-chip-designs-3899263"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 34
+  - title: "Nvidia’s show new AI research to improve chip design"
+    excerpt: "Nvidia’s reinforcement learning research introduced a second layer of AI to chip transistors for improved results. (Reuters pic) NEW YORK: Nvidia Corp, the world’s leading designer of computer chips used in creating artificial intelligence, on Monday ..."
+    publishedDateTime: 2023-03-28T03:38:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/03/28/nvidias-show-new-ai-research-to-improve-chip-design/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 34
+  - title: "ProHawk Vision Restoration Plugin Aims to Boost Vision AI Accuracy in NVIDIA Metropolis Applications"
+    excerpt: "Powered by NVIDIA GPUs, ProHawk Vision can quickly fix low-quality video in as little as 3 milliseconds, resulting in output that is undetectable to the human eye. The ProHawk Vision Restoration Plugin automatically analyzes every frame of the video,"
+    publishedDateTime: 2023-03-29T15:00:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/accwirecq-2023-3-29-prohawk-vision-restoration-plugin-aims-to-boost-vision-ai-accuracy-in-nvidia-metropolis-applications"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 4
 
 secured: "ukPi+Ro+4x75DDfIoxDdIkmRi2CX4yy4wCow3cldpl4j/TtROWtU0QCLDxyayr02By4G6sOD8dfloyvOox46uqkja/V5l2u2DVYVGWeuKwzTAURvGA42bOC6eH8MH63hvP0zmLZ7Aq8euJjRMrEKxytQ+NKkKqLIpkAhtQC6ttRi76Yu88DC2ewqIeTpZSeRkhAYh80P2Lx8VGmnNXpEMueeZKp7wVyUhCq8PPMzFvUS2cx4Y49hXT/ReuH0nnp/iowAeGNI2/VJDHOiq5WUGW6VWlGnzsaWXVetAOXPqaAkM/gFJplqNeARoNCL8lpNTs1sLrfAh2EfTpylkmuTgiEA4ASoFF+PHalafEsohpVMXW62l8Evwhld7jwRzLBz9sRrK9q0h7LVkLrgKrzrOU1cqwzDnhTFfrSRXcr1kBAhm3hMPx1BZLmcw2NYkZpUTW5tTDwYx8XtZ8Lj/ZtoWjZ3i0VQ9rIuZTq9+Ixyvdx+NAv0TBFmxLb8b+Mw62FQ/hpaqswUmd4y1mwBubNMjA==;YA3ie+o/43mUvCE7ow43+g=="
 ---

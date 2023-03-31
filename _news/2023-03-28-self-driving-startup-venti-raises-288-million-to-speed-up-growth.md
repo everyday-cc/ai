@@ -60,6 +60,33 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI search startup raises $26 million to offer rival to Google"
+    excerpt: "Perplexity AI, which makes a conversational search engine using artificial intelligence, has raised $25.6 million in a funding round led by New Enterprise Associates, the latest deal in the booming AI sector."
+    publishedDateTime: 2023-03-30T14:39:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/mar/28/ai-search-start-up-raises-26-million-to-offer-riva/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 19
+  - title: "Impact Observatory raises $5.9 million to apply AI to satellite imagery"
+    excerpt: "Impact Observatory raises $5.9 million to apply AI to satellite imagery Impact Observatory, a company that pairs satellite imagery with artificial intelligence for mapping and monitoring, raised $5.9 million in seed funding."
+    publishedDateTime: 2023-03-29T23:34:00Z
+    webUrl: "https://spacenews.com/impact-observatory-raises-5-9-million-to-apply-ai-to-satellite-imagery/"
+    type: article
+    provider:
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 19
+  - title: "AI satellite mapping startup Impact Observatory raises funding in D.C."
+    excerpt: "A D.C. serial entrepreneur raised a multimillion-dollar seed round for his latest venture, an AI-powered geospatial mapping startup called Impact Observatory. And now, he's planning a hiring spree."
+    publishedDateTime: 2023-03-29T13:00:00Z
+    webUrl: "https://www.bizjournals.com/washington/inno/stories/news/2023/03/29/impact-observatory-ai-dc-satellite-mapping-funding.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "boF9oSmNJrkHkGqTncPnuZqTXyywDxvTLvEhnhDIWCERN90TUUpOeV8mnlV4eHtO1fDgTc3HtOby+9AeDmWl8B/M/R9pAvWoqMzVAdQOyp81Lpu06pYlCNhs0/u8OxH94QmiP4xWXkU4zGZ9A8bbalc7GAV8iU3R/u408xIwbJHqfzrawyNKx5RsJbXUrn31mMHihSwyRS3aQ8vGc0yKBozMcPEX5WoURoYHpOVaFiT8tWqlj76Jm8AQgyQJRnGk6YcaCLH/pWcUoNvAbn/Ix/2XmVaoUtLKJhQdSTG8zsezyGClK0rPWnQ/K5fC+7Ju3stec7D6oz5bWhqNjiz1R6QSKcHPetgnkmpbtlwLAko=;zfdaUJgJ+jjMYPKj8O5WRg=="
 ---

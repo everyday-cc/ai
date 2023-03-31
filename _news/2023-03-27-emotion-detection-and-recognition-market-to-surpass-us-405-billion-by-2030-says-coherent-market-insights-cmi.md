@@ -26,47 +26,125 @@ images:
     isCached: true
 
 related:
-  - title: "Automatic Speech Recognition(ASR) Software Market Share | Business till 2030"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- “Automatic Speech Recognition(ASR) Software Market” Are a Collection of Information and Analysis Obtained From Diverse Sources to Aid ..."
-    publishedDateTime: 2023-03-28T07:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-share-business-till-2030-2023-03-27"
+  - title: "AI (Artificial Intelligence) Image Recognition Market 2023 Expected to Reach Significant Rate by 2031"
+    excerpt: "Image Recognition Market\" study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short-term challenges they face. One major attraction about AI (Artificial ..."
+    publishedDateTime: 2023-03-27T21:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-artificial-intelligence-image-recognition-market-2023-expected-to-reach-significant-rate-by-2031-2023-03-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 71
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "VOICE RECOGNITION SYSTEM Market | Newsest Research"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- [128 Insights] Top “VOICE RECOGNITION SYSTEM Market” Size 2023 Key players Profiled in the Report are [Nuance Communications ..."
-    publishedDateTime: 2023-03-28T07:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-system-market-newsest-research-2023-03-27"
+  - title: "Artificial Intelligence in Fashion Retail Market to Experience a Significant Increase in Revenues"
+    excerpt: "Artificial Intelligence in Fashion Retail Market Size 2023 | New Report (105 Pages) | Information Technology | In"
+    publishedDateTime: 2023-03-27T04:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-fashion-retail-market-to-experience-a-significant-increase-in-revenues-2023-03-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Automatic Speech Recognition(ASR) Software Market Outlook: Predictions and Projections for 2028 And Beyond"
-    excerpt: "Global Automatic Speech Recognition(ASR) Software Market Report (123 Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https ..."
-    publishedDateTime: 2023-03-24T18:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-outlook-predictions-and-projections-for-2028-and-beyond-2023-03-24"
+  - title: "Artificial Intelligence In RegTech Market: Recent Growing Trend 2031"
+    excerpt: "The \"Artificial Intelligence In RegTech Market\" study describes how the technology industry is evolving and how major"
+    publishedDateTime: 2023-03-27T16:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-recent-growing-trend-2031-2023-03-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Deep Learning Camera Market 2023 Estimated to Perceive Exponential Growth till 2031"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- The \"Deep Learning Camera Market\" Study Describes how the technology industry is evolving and how major and emerging players in the industry ..."
+    publishedDateTime: 2023-03-28T10:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-2023-estimated-to-perceive-exponential-growth-till-2031-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence & Advanced Machine Learning Market Top Players By 2031"
+    excerpt: "The \"Artificial Intelligence and Advanced Machine Learning Market\" Study Describes how the technology industry is"
+    publishedDateTime: 2023-03-30T06:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-top-players-by-2031-2023-03-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+  - title: "Speech and Voice Recognition Market 2023: Growth Trends and Opportunities by 2027"
+    excerpt: "Mar 26, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Latest “Speech and Voice"
+    publishedDateTime: 2023-03-26T12:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-2023-growth-trends-and-opportunities-by-2027-2023-03-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market 2023: Growing Opportunities by 2028"
+    excerpt: "The global \"Facial Recognition Market\" research study presents an in-depth analysis of the market's revenue, size,"
+    publishedDateTime: 2023-03-29T04:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-growing-opportunities-by-2028-2023-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+  - title: "Speech Recognition Market New Ready Report Analysis 2028"
+    excerpt: "Top “ Speech Recognition Market ” Size 2023 Key players Profiled in the Report are [VoiceVault, Microsoft, Agnitio, ReadSpeaker Holding, LumenVox, Raytheon BBN Technologies, ATandT, Fluent, Iflytek, Nuance,"
+    publishedDateTime: 2023-03-29T04:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-new-ready-report-analysis-2028-2023-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+  - title: "Top \"Image Recognition in Retail Market\" Future 2023-2031, With 113 Pages"
+    excerpt: "Report Highlights with 113 pages: -\"The global Image Recognition in Retail market size was valued at USD 1743.25 million"
+    publishedDateTime: 2023-03-29T01:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/top-image-recognition-in-retail-market-future-2023-2031-with-113-pages-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+  - title: "Electric Vehicle Market To Reach $823.75 Billion By 2030 With Development Of Self-Driving Electric Vehicle Technology"
+    excerpt: "Furthermore, factors such as technological advancements, proactive government initiatives and development of self-driving electric vehicle technology are expected to create ample opportunities for the key players operating in the electric vehicle market."
+    publishedDateTime: 2023-03-28T05:22:00Z
+    webUrl: "https://menafn.com/1105877883/Electric-Vehicle-Market-To-Reach-82375-Billion-By-2030-With-Development-Of-Self-Driving-Electric-Vehicle-Technology"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 1
+    images:
+      - url: "https://menafn.com/updates/pr/2023-03/28/EP_3d0c1image_story.jpeg"
+        width: 890
+        height: 466
         isCached: true
 
 secured: "nxkM245VKO5N/5+bmmfxzBoWTpolxUqZTbif2f0xRvIQmiLNkIordnDvByP+9hfV+4B/wO6kUaI2rkPZTea5SAWmmSywdXPDRTQmpQqOIJcnEQE+QKbBKOpyjAHUHv3ptQGGkZ1/TAMeycfxtT8RpTEDeNLYvzT5M82aXZEjOXS+hb9Ri2D1ZjW2YK4T0T442KRMqyRFoMzzKdsbYfAdPA8pKStuO05zgwIlaYjQv7CowvMn28wp8vc8CR6ZRtA9Ses38NnRgOkEYMhq9NNqVsNvYMmnMFE8SnKJ4t8W7q7CGPvh2nxo8Zw0bQ59rHUgEs6ZubOP0QwlHmF2OaDKWpQD/rTQlTQiArfWSnKo/p0=;RN8AIe3rqYqnv0XXao5QKQ=="

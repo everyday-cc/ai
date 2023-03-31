@@ -24,20 +24,26 @@ topics:
   - AI in Autos
 
 related:
-  - title: "These 3 AI Stocks Could Outperform the S&P 500 in a Bull Market"
-    excerpt: "but Microsoft's hefty investments in OpenAI -- the start-up that created the \"generative AI\" chatbot ChatGPT -- might help Microsoft reach those estimates. Microsoft has already integrated ChatGPT into its search engine Bing and its Azure cloud ..."
-    publishedDateTime: 2023-03-24T10:24:00Z
-    webUrl: "https://www.fool.com/investing/2023/03/24/these-3-ai-stocks-outperform-sp-500-in-bull/"
+  - title: "Artificial Intelligence: Which Stocks To Buy"
+    excerpt: "Investor interest in artificial intelligence (AI) technology has skyrocketed over the past several months. There is immense potential in this new frontier. AI stocks are seen as the promising future, and they may very well be. But just like other market ..."
+    publishedDateTime: 2023-03-27T12:40:00Z
+    webUrl: "https://www.nasdaq.com/articles/artificial-intelligence-which-stocks-to-buy"
+    ampWebUrl: "https://www.nasdaq.com/articles/artificial-intelligence-which-stocks-to-buy?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-which-stocks-to-buy?amp"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 69
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/725503/digital-brain.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
+  - title: "The 3 Best Tech Stocks to Buy for Exposure to Artificial Intelligence"
+    excerpt: "Microsoft’s (NASDAQ:MSFT) AI research division, Microsoft Research, has made significant contributions to the field of AI. For instance, developing the deep learning framework CNTK (Microsoft Cognitive Toolkit). Furthermore, the company is partnering ..."
+    publishedDateTime: 2023-03-29T20:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-tech-stocks-to-buy-for-exposure-to-artificial-intelligence-1032201489"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "JEjmlQb6DglIhIMmFk1lmix4skT9iMv+lA5vx2xJze0D5BGm3MvDCmGqO2vGYZnFDBoN3U+JY7KWBjyTaAyvz39Du0/4nG2OOEJ45G4ZgvwTwQw5WO2eXRmrXhdUTil+aF4IdEYA/pn8TM6EnTAaviNv+sXz3GTAT/ckutCLPOfDca3DpWw0LkLr6WgDhKG+PS+16RZHAYTfhdIUiltX4GdGS8yj5HHkVbf1XlC3umiYad2hxH9UOMITBeG1GIhwffrP1g11TcD6d1jvJIGEAyVDc2CfOrN/HBUI0TVn94xVywexp1WUOaMhc8MFBvoSLGF5qDHx5nP/fIwSg8M8SpeNNdGu01iBEmVMEp7bjHiFUC2Eo6Fjz3bsG/ZQ7C/iag8ypCg2+0KVeSoYjDEpR8FvpibEK94Xl1uY56/ivrEyaJDelVe8jBES8b1m6S/nNNvcKH6WXOwlfT36DDS1WUZNhi6NAhJmSP36Ox5dMoRJYCSl7CF2zWyZt6DxUipBByllKFRg1frFL2XuVCG+sg==;9cZYjfnJQa/TLrJ9QuDWwQ=="
 ---

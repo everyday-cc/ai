@@ -33,6 +33,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "While On-Road Driverless Slows, Ag-Tech Autonomy Players Are Plowing Ahead"
+    excerpt: "Enabling driverless operations by integrating sensors and software ... while GrAI Matter Labs is developing artificial intelligence via “brain-inspired chips that behave like humans do” to optimize devices assisting humans in the field."
+    publishedDateTime: 2023-03-30T20:22:00Z
+    webUrl: "https://www.forbes.com/sites/richardbishop1/2023/03/30/while-on-road-driverless-slows-ag-tech-autonomy-players-are-plowing-ahead/"
+    ampWebUrl: "https://www.forbes.com/sites/richardbishop1/2023/03/30/while-on-road-driverless-slows-ag-tech-autonomy-players-are-plowing-ahead/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2023/03/30/while-on-road-driverless-slows-ag-tech-autonomy-players-are-plowing-ahead/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
   - title: "Driverless cars ready for hire in suburban Beijing"
     excerpt: "It added that Baidu plans to expand its autonomous ride-hailing services to 65 cities in 2025 and 100 in 2030. China’s self-driving taxi service is expected to reach 1.3 trillion (188.6 billion U.S. dollars) by 2030, accounting for 60 percent of the ..."
     publishedDateTime: 2023-03-28T06:50:00Z
@@ -49,45 +60,6 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "ChatGPT, driverless trucks, robots and technology to change Australia but blue collar workers safe"
-    excerpt: "Dr Andrew Miller, who will address the Urban Development Institute's Congress in Perth on Tuesday, said artificial intelligence ... Belle A trial run of driverless trucks in Melbourne last ..."
-    publishedDateTime: 2023-03-26T09:47:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-11893039/amp/ChatGPT-driverless-trucks-robots-technology-change-Australia-blue-collar-workers-safe.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-11893039/amp/ChatGPT-driverless-trucks-robots-technology-change-Australia-blue-collar-workers-safe.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11893039/amp/ChatGPT-driverless-trucks-robots-technology-change-Australia-blue-collar-workers-safe.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 45
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2023/03/23/04/69017629-0-image-a-22_1679546391085.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "Millimeter Wave Radar for Self-Driving Car Market Business Overview 2023, and Forecast to 2030 | Robert Bosch, Denson, Hella"
-    excerpt: "The report offers actionable and valuable market insights of Millimeter Wave Radar for Self-Driving Car Market. The"
-    publishedDateTime: 2023-03-24T11:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/millimeter-wave-radar-for-self-driving-car-market-business-overview-2023-and-forecast-to-2030-robert-bosch-denson-hella-2023-03-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-driving Car Technology Market Size and Market Status Forecast with a CAGR of 11.5% from 2023 to 2030"
-    excerpt: "The Self-driving Car Technology industry is a vital contributor to the economy and plays a significant role in the development of many nations. Market analysis of this sector typically involves an examination of various factors,"
-    publishedDateTime: 2023-03-26T08:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-technology-market-size-and-market-status-forecast-with-a-cagr-of-115-from-2023-to-2030-2023-03-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
 
 secured: "4T2vfBjGAzRfaIV6D9r/TZX8hJsp7D3yow5TcPBf3UYbPVNwtykUVi/POEUA/xJtFqo4EuYWY3eXc52w0NjK1YUHRnWRhRDEbFu27WWqD28lTGnD92cnYFGeTDftTqFMWXa4XJE0Wo15je1j9VZNPgyQDeiyTToURqouad3+KPwxIy3QAKwHRZ404q5vRApibKakQ0Xch0c0Y8hNZym9hh8RByBS1t0d/yqU3gPMpx8tvca7cI32qsrqkz3cZd16PMv390ptrb6LGf/thIhEM7RjJVdvE64Y24zKmiy0NzlHAlKsnfHabyXExFb1/BXR/2ObQpbApAgp4AIpREu7uo/8Y67h6nrzmqPeYU482AZF3E9NPstWXS6QBZ4FNg1FmM4l2+GM3vjbDHgP7WW9kVh95gFKJrxCpJpPZKYAeRvgT8nrWH4hYrZrh/ZAgac7n72PjYgBKdFSjQe2KjY52c5LBSM/aXQuwBAFVp7hl9+HJAH264K8vYnydJd3rdWoh99Z6uQGrrNJ7argO6hBHw==;moYSd43HCXY8pPmafoUKBw=="
 ---

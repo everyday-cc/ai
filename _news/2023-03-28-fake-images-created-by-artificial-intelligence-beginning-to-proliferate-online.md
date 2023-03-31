@@ -18,36 +18,65 @@ topics:
   - AI
 
 related:
-  - title: "AI technology may be able to generate our mind’s images"
-    excerpt: "Researchers are developing artificial intelligence technology they say could generate the very images in our brains. NBC News’ Jacob Ward shares more on the extraordinary research and the concerns about what mind reading technology could mean for the future."
-    publishedDateTime: 2023-03-24T23:30:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/ai-technology-may-be-able-to-generate-our-mind-s-images-166796869820"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo166796869820"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo166796869820"
+  - title: "AI-generated images of Pope Francis in puffer jacket fool the internet"
+    excerpt: "The viral images are one of the first instances of wide-scale misinformation stemming from artificial intelligence."
+    publishedDateTime: 2023-03-27T23:20:00Z
+    webUrl: "https://www.nbcnews.com/tech/pope-francis-ai-generated-images-fool-internet-rcna76838"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna76838"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna76838"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 87
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/1679700278944_nn_jwa_ai_mind_reading_230324_1920x1080-1zk213.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-03/230327-pope-francis-mn-1540-44bd14.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "DOD’s Maynard Holliday Says Department is Looking into Generative AI for Decision Support"
-    excerpt: "The DOD is working with IBM and the Defense Advanced Research Projects Agency to develop a neuromorphic inference chip, called NorthPole, that’s based on human brain architecture and co-locates memory and compute. “We’re going to be able to do AI at ..."
-    publishedDateTime: 2023-03-24T09:55:00Z
-    webUrl: "https://www.govconwire.com/2023/03/dods-maynard-holliday-says-department-is-looking-into-generative-ai/"
+  - title: "Immaculate AI images of Pope Francis trick the masses"
+    excerpt: "The pope image, created using Midjourney v5 (an AI image synthesis model), first appeared in a tweet by a user named Leon ( @skyferrori) on Saturday and quickly began circulating as part of other meme tweets featuring similar images as well,"
+    publishedDateTime: 2023-03-27T21:42:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/03/the-power-of-ai-compels-you-to-believe-this-fake-image-of-pope-in-a-puffy-coat/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/03/the-power-of-ai-compels-you-to-believe-this-fake-image-of-pope-in-a-puffy-coat/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/the-power-of-ai-compels-you-to-believe-this-fake-image-of-pope-in-a-puffy-coat/amp/"
     type: article
     provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 30
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
     images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2023/03/Maynard-Holliday_1200x628.jpg"
-        width: 1200
-        height: 628
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/03/tomaz_Pope_Francis_in_a_1990s_white_puffer_jacket_30527b3d-32f8-4074-8a15-a3b92963f528-640x426.png"
+        width: 640
+        height: 426
         isCached: true
+  - title: "Pope Francis: An ethical AI respects human dignity"
+    excerpt: "Credit: Vatican Media Pope Francis said he welcomes the regulation of artificial intelligence so that it might contribute to a better world. He also said he is reassured to know many people working on new technologies put ethics, the common good ..."
+    publishedDateTime: 2023-03-27T16:00:00Z
+    webUrl: "https://www.catholicnewsagency.com/news/253947/pope-francis-an-ethical-ai-respects-human-dignity"
+    ampWebUrl: "https://www.catholicnewsagency.com/amp/news/253947/pope-francis-an-ethical-ai-respects-human-dignity"
+    cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/253947/pope-francis-an-ethical-ai-respects-human-dignity"
+    type: article
+    provider:
+      name: Catholic News Agency
+      domain: catholicnewsagency.com
+    quality: 74
+    images:
+      - url: "https://www.catholicnewsagency.com/storage/image/mtc4775.jpg?w=720&h=480"
+        width: 720
+        height: 480
+        isCached: true
+  - title: "Pope Francis: Ethical Artificial Intelligence Respects Human Dignity"
+    excerpt: "Vatican Media Pope Francis said he welcomes the regulation of artificial intelligence so that it might contribute to a better world. He also said he is reassured to know many people working on new technologies put ethics, the common good and the human ..."
+    publishedDateTime: 2023-03-27T16:21:00Z
+    webUrl: "https://www.ncregister.com/cna/pope-francis-ethical-artificial-intelligence-respects-human-dignity"
+    ampWebUrl: "https://www.ncregister.com/cna/pope-francis-ethical-artificial-intelligence-respects-human-dignity?amp"
+    cdnAmpWebUrl: "https://www-ncregister-com.cdn.ampproject.org/c/s/www.ncregister.com/cna/pope-francis-ethical-artificial-intelligence-respects-human-dignity?amp"
+    type: article
+    provider:
+      name: National Catholic Register
+      domain: ncregister.com
+    quality: 56
 
 secured: "GgTXvaNXQ7++ssKpvnFS2HfoxNJrsjt53TOOXX5y806OcfUg8dZFhG/ORfHMvdYqmS8bumUQL5U3V7POps++RxJE6xDxOih0NofexXVE1qftcY0J0s0Y+2D55NG7v+f3wVSfUIyFwLshG+roNrE4YfO1QZwtvLM2A6e31y/E5LZbbqnKWqmg9M/yiO08i8az+sp+4A54Sv4jddO/MzluU2cyFR/vdThylhYYy5xoeHVI/AUNwxVumBhMf8g0hyj9REiCxBOhLjr9m00rCLhWEBWZ/tBIHDZOrPW0hWBl/kbnfqffplp3MMSnCGm029Cj7bXIGxSoqYv+DjlN8OdLzZtc9c0bBFbOqoQNJS5Y6JIHBLLXVEb4NkdIMuWwoBSqzWloVs6L5vqOprhQrT2pJ6C9YxqMWMAA21NlF2Xek50Fx3EqBZY05pEawqj/Z6qYlkFh4dpea47XQg7SK61n75u5vr6Q0iYRMTbMiUGxfps/I1ByuB0cveEbSgKcwmLrO5dYYZGEb1i53wv5MhPDyg==;XjxgFFvGHdKUWlCc7kTItg=="
 ---

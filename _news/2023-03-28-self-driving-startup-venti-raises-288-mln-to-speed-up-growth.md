@@ -60,6 +60,33 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI search startup raises $26 million to offer rival to Google"
+    excerpt: "Perplexity AI, which makes a conversational search engine using artificial intelligence, has raised $25.6 million in a funding round led by New Enterprise Associates, the latest deal in the booming AI sector."
+    publishedDateTime: 2023-03-30T14:39:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/mar/28/ai-search-start-up-raises-26-million-to-offer-riva/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 19
+  - title: "Impact Observatory raises $5.9 million to apply AI to satellite imagery"
+    excerpt: "Impact Observatory raises $5.9 million to apply AI to satellite imagery Impact Observatory, a company that pairs satellite imagery with artificial intelligence for mapping and monitoring, raised $5.9 million in seed funding."
+    publishedDateTime: 2023-03-29T23:34:00Z
+    webUrl: "https://spacenews.com/impact-observatory-raises-5-9-million-to-apply-ai-to-satellite-imagery/"
+    type: article
+    provider:
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 19
+  - title: "AI satellite mapping startup Impact Observatory raises funding in D.C."
+    excerpt: "A D.C. serial entrepreneur raised a multimillion-dollar seed round for his latest venture, an AI-powered geospatial mapping startup called Impact Observatory. And now, he's planning a hiring spree."
+    publishedDateTime: 2023-03-29T13:00:00Z
+    webUrl: "https://www.bizjournals.com/washington/inno/stories/news/2023/03/29/impact-observatory-ai-dc-satellite-mapping-funding.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "KaEHolPRoO3fZqfZo+ErZZPNHH2FxWRu79MqWYQvt29dBva6b9Uy1UnOo42oerZbaH30GEPMTNdOIvpRfIQfYlbHDLZHrk1LsDLz0CarqPmxzxUxN31XVjGq4l2lqJRriL3F0O5eRdNyM0yebv+OwoOgMMkexCdkKuOVht6VZhgCbRiqvQ0iSFNG29LQ76+UbNa+Tcr9Ww/SiXWQ4LQ1O5Kd1PkOqwqfAKj8AtRh+0W4tbqqiZpgBttJ8mbBENFN4tFN+v/daOBYfCa4NFa0SIdutC/kBzlGjocVpbb5DFxtblBaTOXfXCM8vrXezJOuklevisQ39mc0a8cxH8o9Cx4pTd9pySPeF8slHYxPNKk=;ownR7XtSInotp4a+2odElg=="
 ---

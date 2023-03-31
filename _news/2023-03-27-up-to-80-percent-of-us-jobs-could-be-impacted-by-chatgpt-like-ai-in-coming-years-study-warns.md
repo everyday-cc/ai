@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "ChatGPT As A Platform Gets Bigger And Bolder As OpenAI Rolls Out Plugins For All Kinds Of Add-On Apps, Stewing Up AI Ethics And AI Law"
-    excerpt: "Voila, your software package suddenly can do all manner of Natural Language Processing (NLP). All told, this meant that the uses of ChatGPT could expand immensely. Firms that provide apps were thirstily lured to the ChatGPT API like a siren call."
-    publishedDateTime: 2023-03-25T11:02:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641e9f1ebcc461207e4ff60a/0x0.jpg?format=jpg&crop=2085,1173,x76,y10,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Adjust Your AI Startup Dreams About Using ChatGPT Because OpenAI Says There Are These Starkly Prohibited Uses, Per AI Ethics And AI Law"
     excerpt: "Into all of this comes a slew of AI Ethics and AI Law considerations. I’ll be interweaving AI Ethics and AI Law related considerations into this discussion. The Things That You Cannot Use ChatGPT For I’ll give you a quick guided tour of the things you ..."
     publishedDateTime: 2023-03-28T11:06:00Z
@@ -135,20 +119,17 @@ related:
         width: 1500
         height: 900
         isCached: true
-  - title: "AI chatbots compared: Bard vs. Bing vs. ChatGPT"
-    excerpt: "Anyway, all that aside, let’s start with seeing how the chatbots fare in what should ... but I’d like to have seen the BIOS changes or dual-channel parts picked up properly. If AI chatbots aren’t factually reliable (and they’re not), then they ..."
-    publishedDateTime: 2023-03-24T15:40:00Z
-    webUrl: "https://www.theverge.com/2023/3/24/23653377/ai-chatbots-comparison-bard-bing-chatgpt-gpt-4"
+  - title: "OpenAI’s GPT-4 violates FTC rules, argues AI policy group"
+    excerpt: "The FTC received a new complaint today from the Center for AI and Digital Policy that calls for an investigation of OpenAI and GPT-4."
+    publishedDateTime: 2023-03-30T21:29:00Z
+    webUrl: "https://venturebeat.com/ai/openais-gpt-4-violates-ftc-rules-argues-ai-policy-group/"
+    ampWebUrl: "https://venturebeat.com/ai/openais-gpt-4-violates-ftc-rules-argues-ai-policy-group/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/openais-gpt-4-violates-ftc-rules-argues-ai-policy-group/amp/"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 67
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/JDt6b0saEHni9d599POntWzuF4E=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440534/AI_Hands_A_Bernis_01.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Even with ChatGPT-4, there's no such thing as Artificial Intelligence. AI is a misnomer"
     excerpt: "The term, AI, breeds misunderstanding and helps its creators avoid culpability. Reasonable technologists have tried for years to replace “AI” with “machine learning” but that doesn’t trip off the tong"
     publishedDateTime: 2023-03-27T06:38:00Z
@@ -165,20 +146,37 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "ChatGPT Busy? 7 AI Chatbot Alternatives Ready to Answer Your Burning Questions"
-    excerpt: "If you're in the mood to talk, but ChatGPT is overloaded, you have other AI chatbot options, including Google's Bard, Microsoft's Bing, ChatSonic, and YouChat."
-    publishedDateTime: 2023-03-25T17:41:00Z
-    webUrl: "https://www.pcmag.com/news/chatgpt-alternatives-ai-chatbots-ready-to-answer-your-burning-questions"
+  - title: "FTC should investigate OpenAI and halt GPT-4 releases, AI research group says"
+    excerpt: "A nonprofit AI research group wants the Federal Trade Commission to investigate OpenAI, Inc. and halt releases of GPT-4. OpenAI \"has released a product GPT-4 for the consumer market that is biased, deceptive,"
+    publishedDateTime: 2023-03-30T19:00:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/03/ftc-should-investigate-openai-and-halt-gpt-4-releases-ai-research-group-says/"
+    ampWebUrl: "https://arstechnica.com/tech-policy/2023/03/ftc-should-investigate-openai-and-halt-gpt-4-releases-ai-research-group-says/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/03/ftc-should-investigate-openai-and-halt-gpt-4-releases-ai-research-group-says/amp/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 64
+  - title: "AI Ethics Group Says ChatGPT Violates FTC Rules, Calls for Investigation"
+    excerpt: "The complaint claims OpenAI's GPT model fails to meet standards of safety laid out by the FTC and asks for development to be paused."
+    publishedDateTime: 2023-03-30T19:30:00Z
+    webUrl: "https://gizmodo.com/caidp-ftc-complaint-against-openai-chatgpt-safety-1850282906"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
     quality: 63
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/0606kPUb7UJUANK86dXckjx-2.fit_lim.size_1200x630.v1679585246.jpg"
-        width: 1120
-        height: 630
-        isCached: true
+  - title: "Is Generative AI Such As ChatGPT Going To Undermine The Famed Attorney-Client Privilege, Frets AI Law And AI Ethics"
+    excerpt: "Worries are that generative AI such as ChatGPT could undermine the revered attorney-client privilege. Here's the issue and what you need to do about it."
+    publishedDateTime: 2023-03-30T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/30/is-generative-ai-such-as-chatgpt-going-to-undermine-the-famed-attorney-client-privilege-frets-ai-law-and-ai-ethics/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/30/is-generative-ai-such-as-chatgpt-going-to-undermine-the-famed-attorney-client-privilege-frets-ai-law-and-ai-ethics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/30/is-generative-ai-such-as-chatgpt-going-to-undermine-the-famed-attorney-client-privilege-frets-ai-law-and-ai-ethics/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 62
   - title: "Can ChatGPT Change the Face of Healthcare?"
     excerpt: "regulations must be put in place to ensure no inaccuracies are made Many are still reluctant about the role of artificial intelligence (AI) in our lives, but it might be time to accept that AI has the power to transform healthcare. Obviously, AI can't ..."
     publishedDateTime: 2023-03-28T11:37:00Z
@@ -195,6 +193,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "EY announces modernization of payroll employee care using ChatGPT In Azure OpenAI"
+    excerpt: "Leverages ChatGPT In Azure OpenAI service to build proof of concept in collaboration with Microsoft to scale an enterprise-ready payroll chatbot"
+    publishedDateTime: 2023-03-29T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ey-announces-modernization-of-payroll-employee-care-using-chatgpt-in-azure-openai-1032200456"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
   - title: "I made ChatGPT talk to itself - and the results weren’t what I expected"
     excerpt: "My approach to ChatGPT and its burgeoning (and possibly career-threatening) success both within the tech industry and beyond our little digital bubble has been largely the same, with some small alterations."
     publishedDateTime: 2023-03-27T06:00:00Z
@@ -228,7 +235,7 @@ related:
     provider:
       name: Fox Business
       domain: foxbusiness.com
-    quality: 46
+    quality: 48
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/f46d9c44-91e7-4795-95c8-3d296cc14d18/c4f2cd34-8b55-40f3-bbfc-32a36cde9a3a/1280x720/match/image.jpg"
         width: 1280
@@ -262,34 +269,6 @@ related:
         width: 1062
         height: 900
         isCached: true
-  - title: "Codie.ai, first consultative AI assistant based on OpenAI ChatGPT"
-    excerpt: "Codie.ai has launched an AI assistant to transform how businesses interact with their customers. The platform interacts with customers human-likely and provides information about products and services of the company or retailer. London-based startup Codie ..."
-    publishedDateTime: 2023-03-24T21:11:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/ab31499408/codie-ai-first-consultative-ai-assistant-based-on-openai-chatgpt"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Revealed: Jobs most at risk from artificial intelligence chatbot ChatGPT"
-    excerpt: "round 80 per cent of US workers could see their jobs impacted by artificial intelligence chatbot ChatGPT, a study found. ChatGPT is a free AI “chatbot” which can be used to do anything from writing essays to creating diet plans and helping users to ..."
-    publishedDateTime: 2023-03-26T07:29:00Z
-    webUrl: "https://www.standard.co.uk/news/world/chatgpt-openai-jobs-labour-market-united-states-b1069985.html"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 36
-    images:
-      - url: "https://static.standard.co.uk/2022/12/20/17/20172519-11b276fe-6c3b-481d-a99a-14ae76e0b1cf.jpg?width=1200&width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Exploring potential applications for ChatGPT in nuclear medicine and molecular imaging"
     excerpt: "Developed by OpenAI, ChatGPT is a natural language processing chatbot that can intelligently respond to questions. In conversations with users, the chatbot always \"pays attention\" and remembers the thread of the dialogue. It is available in more than 90 ..."
     publishedDateTime: 2023-03-27T20:14:00Z
@@ -306,15 +285,26 @@ related:
         width: 1920
         height: 1451
         isCached: true
-  - title: "Tencent plans to rollout WeChat Chatbot Similar to ChatGPT, but says not in a rush to be the first"
-    excerpt: "Tencent’s Chatbot is called ‘HunyuanAide’. The chatbot will use the Tencent Hunyuan AI model which has the capacity for natural language processing, multimodal content understanding, computer vision, content creation, and more. Hunyuan AI gives ..."
-    publishedDateTime: 2023-03-24T12:29:00Z
-    webUrl: "https://www.gizmochina.com/2023/03/24/tencent-wechat-chatbot-similar-chatgpt/"
+  - title: "Musk, scientists call for halt to artificial intelligence race sparked by ChatGPT"
+    excerpt: "Prominent computer scientists and other tech industry notables want a 6-month pause to consider the risks of artificial intelligence."
+    publishedDateTime: 2023-03-30T01:51:00Z
+    webUrl: "https://www.boston.com/news/technology/2023/03/29/musk-scientists-call-for-halt-to-artificial-intelligence-race-sparked-by-chatgpt/"
+    ampWebUrl: "https://www.boston.com/news/technology/2023/03/29/musk-scientists-call-for-halt-to-artificial-intelligence-race-sparked-by-chatgpt/?amp=1"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/technology/2023/03/29/musk-scientists-call-for-halt-to-artificial-intelligence-race-sparked-by-chatgpt/?amp=1"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 20
+      name: Boston.com
+      domain: boston.com
+    quality: 34
+  - title: "Chappaqua School District Tackles Thorny Issues Of ChatGPT, AI And Machine Learning"
+    excerpt: "Faculty learned about artificial intelligence and machine learning and explored the impact on education, instruction and students."
+    publishedDateTime: 2023-03-30T18:35:00Z
+    webUrl: "https://patch.com/new-york/chappaqua/chappaqua-school-district-tackles-thorny-issues-chatgpt-ai-machine-learning"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 28
   - title: "ChatGPT – Can this AI chatbot replace human jobs?"
     excerpt: "First things first, the debate should be on whether ChatGPT can replace job roles and not jobs. After it was launched in the market, we’ve already assessed its capabilities and at its present state, it is rightly triggering a debate on whether certain job roles are vulnerable to replacement."
     publishedDateTime: 2023-03-27T11:10:00Z
@@ -323,6 +313,24 @@ related:
     provider:
       name: Techopedia
       domain: techopedia.com
+    quality: 19
+  - title: "Avochato Announces Integration with ChatGPT-4 by OpenAI"
+    excerpt: "With the integration of ChatGPT-, users of the Avochato platform will have the ability to leverage this technology to respond to customer inquiries with increased accuracy and efficiency, providing a more seamless and intuitive communication experience."
+    publishedDateTime: 2023-03-30T18:31:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/03/30/9786589.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "GPT-4 draws more heat as AI advocates file FTC complaint against OpenAI"
+    excerpt: "An AI advocacy group’s complaint arrived the same week FTC Chair Lina Khan said AI was top of mind for the agency while speaking at an antitrust summit."
+    publishedDateTime: 2023-03-30T23:52:00Z
+    webUrl: "https://www.ciodive.com/news/FTC-complaint-AI-Lina-Khan-CAIDP-OpenAI/646458/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
     quality: 19
   - title: "How watermarks can help protect against fraud with generative AI like ChatGPT"
     excerpt: "There are reasonable and technologically feasible interventions that can be used to help mitigate abuses with generative AI like ChatGPT and DALL-E."
@@ -333,33 +341,6 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 14
-  - title: "SoundHound Launches Chat AI Voice Assistant With Access to ChatGPT on Android, iOS"
-    excerpt: "SoundHound's proprietary technology is claimed to intelligently select the right response by combining access to GPT, and real-time knowledge domains."
-    publishedDateTime: 2023-03-24T13:36:00Z
-    webUrl: "https://www.gadgets360.com/apps/news/soundhound-chatgpt-android-ios-app-smart-ai-voice-assistant-features-details-3890346"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 13
-  - title: "Can ChatGPT invent a new language? AI bot stuns Twitter user with some jaw-dropping responses"
-    excerpt: "ChatGPT’s efficiency with generating content from scratch is well known. However, a Twitter user challenged the bot with a unique task."
-    publishedDateTime: 2023-03-24T04:13:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-invents-new-language-chronosentia-8515039/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 8
-  - title: "AI News roundup: OpenAI adds plugin support to ChatGPT, Mozilla opens new AI startup and more"
-    excerpt: "The AI chatbot became popular in just a matter of weeks — way ... Invite your friends and family to sign up for MC Tech 3, our daily newsletter that breaks down the biggest tech and startup stories of the day"
-    publishedDateTime: 2023-03-24T13:32:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-openai-adds-plugin-support-to-chatgpt-mozilla-opens-new-ai-startup-and-more-10307071.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 6
 
 secured: "l2a3CkcICfSAp7wgmUqZW4NmR15STHpHeo3/6c0vHqigm+pKZkNJsP4Mb0vAFvvAYwazYzJKKQcOqHTwBZO4O4i/i6Mmxvokk8KvGNBg09RPDh/XA4gosfh1UI2DdYP3UB30jnddIWkpPQKciMx/qTBv7gkooN1t6fLI2C/YAaqv7J1P7tO/7rBypcq5a2rW31O1YaM+JNyXmI/h0PW4U5NLenLquynWZqBAqAdaUnhEnHzddkOK0T1G6S1LhHz32c9XebmNc4m+ygH2xx2wqcLQr0TbWSVCXDM8+Odle1sKZ2XDyt1gcekznvIxayJezDDl3OVt6EGIZWesvGRydv3/cMabhjQ63WkZ9TnUtkw=;R4X0ZynxgQ83sftwQxXYyw=="
 ---

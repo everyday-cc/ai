@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Ethics of Creating A.I.-Generated Images of Public Figures"
+    excerpt: "As the ethics of A.I. are being called into question ... “I am convinced that the development of artificial intelligence and machine learning has the potential to contribute in a positive way to the future of humanity,” he said, per Vatican News."
+    publishedDateTime: 2023-03-30T22:11:00Z
+    webUrl: "https://www.smithsonianmag.com/smart-news/is-it-unethical-to-create-ai-generated-images-of-public-figures-180981900/"
+    type: article
+    provider:
+      name: Smithsonian Magazine
+      domain: smithsonianmag.com
+    quality: 19
 
 secured: "Y4q6aVmbhL+iQ0JP9PNbXnhvQ9yavrDSYjRyBaslXiVZAGp4PHu7W+C93DRi0zBzcaTDvPyc9YpKNfB5Kt8SthkqsxRtAiB8NFj5XCpovmZehQQEZkycIq7TpDolEq8+zlmbSRgKH9MhXT9aYsXLZEhHMMFrcC0mmMKYKe3MIDcvSmWGGaSHvrnIkUcPzzHKRNYEZaOC5xhnLpdsTgJbe3c1iezsI85tNfEqbzwheTBILHLtYs9qJvuz3uqGkk7aJWM+CcFECHBbq8J0pcRo6K/1+5+O/+neXdXAr7y6CTYg11EhRerimUb1Hta4eVWqciydgDaj4BhTa/i1MyrQk0qgBpaGC4u/7FZ/SiVnf/0=;zm5j4xsYeP9fTJhoC9gLQg=="
 ---

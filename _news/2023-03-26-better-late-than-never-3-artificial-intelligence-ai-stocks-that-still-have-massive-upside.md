@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/03/26/better-late-never-3-ai-s
 webUrl: "https://www.fool.com/investing/2023/03/26/better-late-never-3-ai-stocks-massive-upside/"
 type: article
 quality: 75
-heat: 75
+heat: 76
 published: true
 
 provider:

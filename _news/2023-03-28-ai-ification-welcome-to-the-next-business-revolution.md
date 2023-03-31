@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jodiecook/2023/03/28/ai-ification-welco
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/03/28/ai-ification-welcome-to-the-next-business-revolution/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Revolutionizing Translation: How AI is Changing the Language Industry"
+    excerpt: "The rise of AI has made it easier, faster, and more accurate to translate text and speech from one language to another. In this post, we will explore the ways in which AI has transformed the translation industry. The most significant way in which AI has ..."
+    publishedDateTime: 2023-03-28T11:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/revolutionizing-translation-how-ai-is-changing-the-language-industry-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
   - title: "From automation to innovation: How artificial intelligence is transforming the enterprise"
     excerpt: "In recent years, artificial intelligence (AI) has become a buzzword in the business world, with many companies recognizing its potential to transform the way they operate. AI is increasingly being used to automate routine tasks, improve customer ..."
     publishedDateTime: 2023-03-28T07:40:00Z

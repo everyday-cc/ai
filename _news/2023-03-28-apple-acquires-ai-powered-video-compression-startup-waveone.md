@@ -41,22 +41,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Brazilian Startup Using AI To Tackle Recruitment Bias Aims For US Market"
-    excerpt: "Human resources startup Jobecam is about to take a significant new step ... By using artificial intelligence (AI) and machine learning, the system ranks candidates more suited to the job. The initial interview takes place with an automatically generated ..."
-    publishedDateTime: 2023-03-24T10:33:00Z
-    webUrl: "https://www.forbes.com/sites/angelicamarideoliveira/2023/03/24/brazilian-startup-using-ai-to-tackle-recruitment-bias-aims-for-us-market/"
-    ampWebUrl: "https://www.forbes.com/sites/angelicamarideoliveira/2023/03/24/brazilian-startup-using-ai-to-tackle-recruitment-bias-aims-for-us-market/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/angelicamarideoliveira/2023/03/24/brazilian-startup-using-ai-to-tackle-recruitment-bias-aims-for-us-market/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641ccf3d95843f2edd8a9f03/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 1392
-        isCached: true
   - title: "Apple acquires AI-powered video compression startup WaveOne"
     excerpt: "WaveOne, a California-based startup that has been developing algorithms for compressing videos, has confirmed that it has been purchased by Apple. Founded in 2016, WaveOne sought to use machine learning for video compression. By employing artificial ..."
     publishedDateTime: 2023-03-27T15:01:00Z
@@ -130,20 +114,6 @@ related:
       name: Macworld
       domain: macworld.com
     quality: 47
-  - title: "Stretching the AI startup boom"
-    excerpt: "Generative AI startups may be getting all the attention and venture checks right now, but the next fund raise may be a tougher road. Why it matters: The market downturn has been raining on startupland’s parade for the past year,"
-    publishedDateTime: 2023-03-25T13:17:00Z
-    webUrl: "https://www.axios.com/2023/03/25/ai-startup-boom-funding"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 37
-    images:
-      - url: "https://images.axios.com/WxnvNEr5uH5bJmlNzktoAtAILiw=/1366x768/smart/2023/03/24/1679691568441.jpg"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "Apple Acquires WaveOne Startup Working on AI-Powered Video Compression"
     excerpt: "Apple recently acquired WaveOne, a California-based startup that was developing AI algorithms for video compression, according to TechCrunch."
     publishedDateTime: 2023-03-27T14:05:00Z
@@ -172,15 +142,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "AI startups to watch"
-    excerpt: "Leading the AI revolution is OpenAI, a startup from Sam Altman that created the fast-growing artificial intelligence chatbot ChatGPT, which this year reached 100 million monthly active users."
-    publishedDateTime: 2023-03-24T07:18:00Z
-    webUrl: "https://www.bizjournals.com/washington/inno/stories/awards/2023/03/23/ai-startups-to-watch.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "TlsgXMMTescfLLZBlGcevHanYv7Ex+ps4UjnEHmzM8Oxxmej9OBmlkjOuU7Q4RIXnZzVefjU4jco3kmp9Ccig+n0F7iFnzlTVgHqCXpO0l0lr4AGcJdWXHoL9fNqrUyUoAZ+k+Ca0EiawfL4HjZiVMDWCWUqvYOFLBPHesLoErjuymzuGXulHosCa+V+HgJr9OfGhpFikuzhvY8eVFVGvx4pTN0h9LTGfo6pllHH41SPV1tE4/+AE5OgBfiYheHqsqj98tb7CaZ5u1Loo7RNJSduAmAIFZBS3gzUurYUtGlqKOKDAuazfYGmx55GCqNHOhgKePqaDR+LEEfp2E4Wk4qyTng88EV4XTC4q99wGzw=;UiNCzmm/wlWKBBtLfgmpMA=="
 ---

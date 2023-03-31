@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Revolutionizing Translation: How AI is Changing the Language Industry"
+    excerpt: "The rise of AI has made it easier, faster, and more accurate to translate text and speech from one language to another. In this post, we will explore the ways in which AI has transformed the translation industry. The most significant way in which AI has ..."
+    publishedDateTime: 2023-03-28T11:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/revolutionizing-translation-how-ai-is-changing-the-language-industry-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
 
 secured: "otac7DKuQtSOWfCAXj+YbmsWUkjuqKDUq6YdS3TBIpqz9cXRXQXS8ePRyk16PDqIsC09u1hSuW4UG5qeK2S3Rmz3Ewetx254iTedsGSR7Ey2uPuh5apkYdYWEU+AwtQrwPux9g0AEV3vkPXPpnX7S1IxkmsuqpSZHJoqbmxMCqPP4Ui2sW//hVUVltItysYTqze/tnpdKUHULMmVq8tDQdvuw0RISVYPhA1UkfgRYE8II9CTB+Q2Me0fIyb7RfnNbmUmtc0Etvq0tUK6JBcKrA28y+TY+AiI2fW2iGV07gu9ClX17FDCylYHZ9GP1URlpNByzdYLZ/VdDUJLlAwziR4s1f2NtkaZSW1eyAC9Y2T+zo7nftfijv8uRDb4rkmB/OK62yWmqlxJpvMVJpU/phuqDrsnjtsCunLM5a0aii0U26C7AkDdUSX7Ymn+oSCHcf0E577WjjxbYxoXgV3TvBO5OjnX4+C9XBBsNV9Jdfr640QGePiBsYKPud7iqZk9npQr59ypZOydIazhebzjDg==;DRipHHrQ2ltfRAjUET+u4Q=="
 ---

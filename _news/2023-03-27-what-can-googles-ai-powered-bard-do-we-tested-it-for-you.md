@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/googles-ai-powered-bar
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/googles-ai-powered-bard-tested-98157098"
 type: article
 quality: 57
-heat: 87
-published: true
+heat: 67
+published: false
 
 provider:
   name: ABC
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google's Bard AI Credibly Accused of Plagiarizing Without Credit"
-    excerpt: "On Wednesday, we reported that Google's finally unveiled Bard AI wasted no time to start spewing ridiculous ... and 9% faster when the chips are overclocked.\" And Bard's response: \"The AMD Ryzen 9 7950X3D is faster than the Intel Core i9-13900K in gaming."
-    publishedDateTime: 2023-03-24T17:28:00Z
-    webUrl: "https://futurism.com/the-byte/google-bard-accused-plagiarizing-no-credit"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 39
-    images:
-      - url: "https://wp-assets.futurism.com/2023/03/google-bard-plagiarized-article.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "What can Google's AI-powered Bard do? We tested it for you"
     excerpt: "A portion of Google's Bard website is shown in Glenside, Pa., Monday,. The recently rolled-out bot dubbed Bard is the internet search giant's answer to the ChatGPT"
     publishedDateTime: 2023-03-27T21:49:00Z
@@ -54,15 +40,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "If you haven’t tested artificial intelligence and experienced its power, here’s how"
-    excerpt: "Hello. Meet ChatGPT, an artificial intelligence invention that you can try for yourself. I’ll show you how. Microsoft Bing offers a similar artificial intelligence -- or AI – tool. Last week Google introduced its version call Bard. I’ve tried all three."
-    publishedDateTime: 2023-03-24T19:16:00Z
-    webUrl: "https://www.dallasnews.com/news/watchdog/2023/03/24/if-you-havent-tested-artificial-intelligence-and-experienced-its-power-heres-how/"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 11
 
 secured: "CulARw6s0alDRf83f6/PYOg7FbAzzQVfHCdCHI7BhdskGoZYKo5UToCg33sTxXZ5TZCnRYc6Daf9cnN9MY+lpqXzxjIT9yivageQrlRirb+ByFUCXIvkSG2NkuLNzaXacsMI8G7ekvrhcJqH2E5sWL0zs+QNhbe9CLbcGx8M7vCdtgnA34Tfed/J0TGk9pQNJmHkSFNexv7dpCPpfkQIxQbqINGGCfygZFfasittVrG5UPi7IXSYYV/riIwjRisi97Mjfmejix6ncrL/6EKLeYTK7EOMKVth3WLzRVshEaPnmR7g2/RMz1BOAj8eAiogqTsdTxw7gOj2kGJ/vokihhGZk7Ye/i41ZSE3HkfdQY3G0AEh7UNfJHFbKpFURGhs302fHD64XzfcUatJgGfl5bFgiZmaZvgsYKeVQDcHlpdLDTBmTmDb26PYfaFN3rSdg5DsxS35Fem9WlQunhKrbmMrF1xDd5Q6rKPsq007n8OotVBh/hgQ6tpBMEBPy7S7xa99A5HBgkw6/8+ESb/FMQ==;nPM2mrz88lPMrijw7Az1uw=="
 ---

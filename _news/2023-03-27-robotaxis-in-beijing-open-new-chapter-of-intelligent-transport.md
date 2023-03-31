@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Robotaxis in Beijing open new chapter of intelligent transport"
-excerpt: "The scenes in science-fiction movies of people riding unmanned vehicles are becoming increasingly realistic, demonstrated by the recent availability of robotaxis in Beijing, which can be hired via mobile apps."
-publishedDateTime: 2023-03-27T02:23:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202303/27/WS6420dbcea31057c47ebb69ea.html"
-webUrl: "https://global.chinadaily.com.cn/a/202303/27/WS6420dbcea31057c47ebb69ea.html"
+excerpt: "CHINA DAILY Driverless cars ready for hire in suburb ... It then processes and judges through artificial intelligence algorithms to achieve autonomous driving. The robotaxi is also expected ..."
+publishedDateTime: 2023-03-27T07:58:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202303/27/WS6420dbcea31057c47ebb69ea.html"
+webUrl: "https://www.chinadaily.com.cn/a/202303/27/WS6420dbcea31057c47ebb69ea.html"
 type: article
 quality: 24
 heat: 24
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://img2.chinadaily.com.cn/images/202303/27/642108a1a31057c4b4b7fe1d.jpeg"
+  - url: "http://img2.chinadaily.com.cn/images/202303/27/642108a1a31057c4b4b7fe1d.jpeg"
     width: 720
     height: 480
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 573
         isCached: true
 
-secured: "qxjVXr9UCWLO/W15V32fENFfp9Fwr4uQVKvzXY0FJt/N6AVVSLo5eQf/+LeW/im1fSolwYRj/Pa3DbHjcQ0CRpCKXDmIxQLmfowNMOVKUlmiYXzQJHRT/p2JOesHC2MMPV7xFvE8jEc9RgZZB2NUIH7ulOfNz2iV6BrL+n5VhIm/yIynu+RD2MqC7SVHhF3UxoKxzjRmRbKv7rPUrdfinazvcutyk+1uXomUFzPhKkXFxsGfDuDkoKxtm5eh3y2Rnk70mxKAt370eKPio/bTwIIQYTzS3KMz0yXLl62U+k2B44qeW7xdVarID4e6U4Bfv5Vf8/GdN8wiEFdX5U7aClwONrEujU4DCOG0C84R6xP31R/80Df+HM/Ng24Q9CHMOLwzmoOBXQyONsgPc3aMPjc1teNnWlT0Dz9+jBWWGc7ubEzbmdQpMCgTQHnfzTpLnnSR7ot8ib/F9E/qXkErRz5DZxWJDMjh9mcr9LnMYi4Tpev6gBwdtxHCYnBXqvgLHd3ontGIbf7DdQfEBDYFpg==;1iZU47tiCit3z4/de5tisQ=="
+secured: "1n50wFh4Z1PKJjWrTYEJSQ36rnlLrWt/RMsj9x86tgwp9DmWojCHXK2JyDlwoPxbpeQj60IJHvvfrod1syyi2fZNYEcEfd/QgC9x4rT4pd6YyR+hvJo4ZYbnWD8vMTE5GDRoq2u6v6Aa242O0Au4b3gYruJpjN2PoN8pnv+EZI2IolEPi9K4HcRbjafVoyPN5c3FPXz6X1oCLRshrp16OAkatGNYoY5ZwKl2xm2DCY1bk042y8ix7gm/BcaIsGqtMc/pXF+gxYQ5iON8PDX2S6U28y6KEGijz1qm52hV6vijo/jfpPcCBUjkHnYhyxYqfV+eRkmQgH4pZJ8rQLpX3g1a2ohAx6M+Lx9Z2dhoROo=;0TVupkOdXmE3MhQcKrWbNg=="
 ---
 

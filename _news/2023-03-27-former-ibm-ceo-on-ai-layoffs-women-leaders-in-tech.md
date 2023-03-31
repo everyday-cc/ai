@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Former IBM CEO on AI, layoffs, women leaders in tech"
-excerpt: "This photo provided by Frontier PR shows former IBM CEO Ginni Rometty. After retiring from IBM in 2020, Rometty spent two years writing “Good Power,\" a book she describes as a m"
-publishedDateTime: 2023-03-27T16:11:00Z
-originalUrl: "https://www.chron.com/business/article/former-ibm-ceo-on-ai-layoffs-women-leaders-in-17861789.php"
-webUrl: "https://www.chron.com/business/article/former-ibm-ceo-on-ai-layoffs-women-leaders-in-17861789.php"
+excerpt: "Just before Rometty became IBM's first woman CEO, the company's AI-powered computer Watson outwitted two of the most successful contestants in the history of the game show “Jeopardy!\""
+publishedDateTime: 2023-03-27T12:29:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/former-ibm-ceo-ai-layoffs-women-leaders-tech-98147831"
+webUrl: "https://abcnews.go.com/Business/wireStory/former-ibm-ceo-ai-layoffs-women-leaders-tech-98147831"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: ABC News
+  domain: abcnews.go.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/32/05/22/23614605/3/rawImage.jpg"
-    width: 1638
-    height: 2048
+  - url: "https://s.abcnews.com/images/Business/wirestory_9835eafd038b790563f6bbaa2e8963f8_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -36,7 +36,16 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 39
+  - title: "Former IBM CEO on AI, layoffs, women leaders in tech"
+    excerpt: "The recent buzz surrounding artificial intelligence and mass layoffs roiling the technology industry is familiar ground for Ginni Rometty, whose nearly 40-year career at IBM culminated in her being promoted to CEO in 2012."
+    publishedDateTime: 2023-03-28T18:14:00Z
+    webUrl: "https://www.stltoday.com/business/former-ibm-ceo-on-ai-layoffs-women-leaders-in-tech/article_e51cd543-7a91-53ce-8655-3c8a11d7aaf0.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 19
 
-secured: "BttaWvAgVOx8nPvt6BSE77WdHWb4THNA+G2NTgH19RbFYQc/NxI0dksmsra92QYZ05lCcEEBOjvYDEgtUKZ1iDkidDK34pC+qpiJ+j+VYQ6Zp1jDU8EovwBGK19Hyl3t22A9uDvKjl2nkZhUnUG1JbCHRI1B7oJD4WXqo7A6tKhyjszLjRK8ek3QAUZh/t5prBE7lk2Uf5FlLf4fDMnywftZfCF5wI5mStL32Fh9ubxHv14Uja4mza5zqza48Q3Yy/Re/ekotD4BwexxX3nLigOn2K7IfgOMjWjHZPQD+No4/b7Ddgao9UzJ1ELUwQcqiPh4S1JcYw1Nn5FeaPflV92nm12lRDRUxtIJHPkJJNe/TyaOngrqdCyhxRAGgQfLhrRiaChm1Gb3tNuf6zW4S6yQ5F3wBksxUtGUfvyFQ5UufFU+0cd0BK3BSZnUZ7NG6JYC8JtmuAXuOsKivsI11OLBgeO3lRcv3ZHl7LORuAiwz+SL3iVylRE6Fo3VSyA2y+X4IBQYoCF03YbfHLDP9A==;D7tN5lbeP7K8vdlphgnJCg=="
+secured: "2pT/6HTCV0eovrV0dgw2MUPCsLNbzHaN/N/qJdRze5Cbou4DE6lxumJukFRjxh9ZxgcY0vfFwB4sfKO8sMBEek6CF2U6vR275xEqoFX9c0z9kNSEqW1mYT8w+nfX+HbyB7SUo5QYr+/7l6RpQd3AuJvzQNRa6wmW2360vAUCv4AX3eAgu4J0C2SEP4uauLepdiaMegKbcSdcSSH+yH4nlO0PLk3JLqaYM+cK65CAn6leG9Kg0PoJylncZqNlgKJg5g4EsH9CcSLuSbM0ql+26/roqpoIjlDauLn36WSYnUyLsVnUgTDZWJFUn+DVJUa8L+2d/H5Qh1AhH12bor2rig+volOfkrIZexVubwrPW48=;vFGVer/DQYksYsTRDl/juQ=="
 ---
 

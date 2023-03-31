@@ -70,20 +70,15 @@ related:
         width: 1098
         height: 732
         isCached: true
-  - title: "O’Reilly 2023 Tech Trends Report Reveals Growing Interest in Artificial Intelligence Topics, Driven by Generative AI Advancement"
-    excerpt: "O’Reilly, a premier source for insight-driven learning on technology and business, announced the findings of its annual Technology Trends for 2023 report, which examines the most sought-after technology topics consumed by the 2."
-    publishedDateTime: 2023-03-24T13:00:00Z
-    webUrl: "https://insidebigdata.com/2023/03/24/oreilly-2023-tech-trends-report-reveals-growing-interest-in-artificial-intelligence-topics-driven-by-generative-ai-advancement/"
+  - title: "Deep Dive Into Generative AI and What Will Drive Tomorrow"
+    excerpt: "While the banking crisis may have interrupted funding flows for a limited period, the hype cycle in generative AI has momentum with staying power."
+    publishedDateTime: 2023-03-30T14:06:00Z
+    webUrl: "https://www.law.com/nationallawjournal/2023/03/30/deep-dive-into-generative-ai-and-what-will-drive-tomorrow/"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 25
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2021/02/Snowflake_report_cover.png"
-        width: 300
-        height: 391
-        isCached: true
+      name: Law
+      domain: law.com
+    quality: 21
 
 secured: "UStFV2HwIth05gOr4AaoeMO0AuW8u8kOkXtNiEbSVS8vqEqThdUUQf1KkfcH0Q5RoMTrSCyqNE2RteW8e2Bz6bv7kRHRfngy8bQaLxfemZNsg8pHc7DJCeQVLPlMFtbeovPYnWZD5Cf6pgiRs6/OpyT3/sTPFd0uU1c7V7FCvRJmlWS0vwT8HE2lhfAFjeHSRLwGvTpzyOHWGmbmjutuszAAE0bUGBaw8DVkOlOWDhoV4XqB2aBvvxYa2qFapmRtBCNmb88X2I+iy3haq5FLW4cDyqMG+wWyfjqYg4Mqj+/dOSnAtgD08c+CERcQXW8+Tp66b+7MiIzupeGsO5EMhSrlQLNCXtKfSJTJ7meqkE/VMFRJ/Lm6UVQz563TKyJcWVgWxjUQsfRu+W+wsCY9meFlI5E7GbeEYFDfuTDYrEVWDstfqEohk5qhoupA2F1WYrrYo5BpBGi5m5AaDkvpYoPXHSPd9ZGt1p8KxPmYJbxZXj7ltkBSVjktHmD+fFTOPZcef7OcTC64cLbTb4M4YQ==;JFUUqGyMzrur5yi19B2opw=="
 ---

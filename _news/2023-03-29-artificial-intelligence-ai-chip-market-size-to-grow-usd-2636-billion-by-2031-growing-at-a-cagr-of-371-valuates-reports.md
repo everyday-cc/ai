@@ -1,45 +1,41 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) Chip Market Size to Grow USD 263.6 Billion by 2031, growing at a CAGR of 37.1% | Valuates Reports"
-excerpt: "BANGALORE, India, March 28, 2023 /PRNewswire/ -- The Global AI Chip Market is Segmented by by Chip Type (GPU, ASIC, FPGA, CPU, Others), by Processing Type (Edge, Cloud), by Technology (System On Chip, System in Package, Multi Chip Module, Others), by ..."
-publishedDateTime: 2023-03-28T17:04:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/03/n31535168/artificial-intelligence-ai-chip-market-size-to-grow-usd-263-6-billion-by-2031-growing-at-a-cagr-of"
-webUrl: "https://www.benzinga.com/pressreleases/23/03/n31535168/artificial-intelligence-ai-chip-market-size-to-grow-usd-263-6-billion-by-2031-growing-at-a-cagr-of"
+excerpt: "The global artificial intelligence chip market was valued at USD 11.2 billion in 2021 and is projected to reach USD 263.6 billion by 2031, growing at a CAGR of 37.1% from 2022 to 2031. Artificial intelligence chip market expansion is impacted by ongoing technical developments as well as a rise in demand for artificial intelligence processors and brain chip solutions."
+publishedDateTime: 2023-03-28T22:39:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chip-market-size-grow-usd-/2023/03/28/9784803.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chip-market-size-grow-usd-/2023/03/28/9784803.htm"
 type: article
-quality: 41
-heat: 41
+quality: 25
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
+  - AI in Healthcare
+  - AI in Robotics
 
 related:
-  - title: "Image Recognition Market Research Report | Industry Forecast & Size USD 86.001 Billion By 2025"
-    excerpt: "(MENAFN- EIN Presswire) image recognition market research. Facial recognition technology advancements and the growing popularity of media cloud services are significantly support"
-    publishedDateTime: 2023-03-24T13:48:00Z
-    webUrl: "https://menafn.com/1105853898/Image-Recognition-Market-Research-Report-Industry-Forecast-Size-USD-86001-Billion-By-2025"
+  - title: "Global Medical Robots Market Size To Grow At A CAGR Of 22.30% Between 2023 And 2028"
+    excerpt: "Besides, medical robots are also leveraging artificial intelligence (AI) and computer vision to gain detailed information during surgical procedures and improve overall patient outcomes. The rising cases of brain disorders, the increasing focus on reducing ..."
+    publishedDateTime: 2023-03-27T23:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-medical-robots-market-size-to-grow-at-a-cagr-of-2230-between-2023-and-2028-2023-03-27"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 12
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
     images:
-      - url: "https://menafn.com/updates/pr/2023-03/24/EP_add13image_story.jpeg"
-        width: 1083
-        height: 567
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
-secured: "ttImgE/wNW0QLZ1LiuWF1UVHOD21yrBEubv1QZL1hw9F+gcb5k2y11X6brNjfjHjNpsV/w1APV7gDDWNjdyKvc+GN11wB0Q67mS88oIYkSrV4oNWN91GrbNsbzqnClCpLYT2VnkF/WS6ZJBFxSg88cB3uu9jnDr8G1e2Rah45xzcpl280P84ypQDDBp0y8pNz9ZL+AoLi+BIL9veh9Fs/QOu0YU8VoVMaG5980CjDtMH/EPKBl8PSTCYgHc00dIhBsKjBWAc7ZwliCtSDry+nt8DyLmwDiiNptQp5BdIxuNr0D3mPjxTZgqpaNrRkfbxlNoZbZGJpkpIe50idRLZBtGsxLbw23ZuzSQryT1lgR4=;ccbkWnT7aDLpHSkMOOCJkQ=="
+secured: "/i2k8xeqbtX/bzWDuRYhm2Wpalv+sKS5MYclzMjeowZGK5KTpKIwcf3MsWvDCsTh541UF71vlqbZThyOwzsw2J2vsAAY8G3pXwn/UmPhrFYPUvCUqjWKo+lSeiTCGQcKniHWFflsDOoMF13VtG0VB1+pmvGITZKHEoX5DBnVTvLz3+9qeyWQake9+v06Yh1xx7kviVN73rRfHHtEOaMUPbXPX9ixwIoLPktOCADZEFWXhkeZoeqzBZWs3gIWtAEriBHZDP5sVR+18QfvotVl3WAyMuKf0aLwzNBZ8fW5d6Df5JQpGlXnbWyViycFSO5DwlAvRzid9spOYLBDcBdubhCnU6Hq3TPhArVt6Uua+5A=;YKvgm2lsucWiGADUEC1j0Q=="
 ---
 

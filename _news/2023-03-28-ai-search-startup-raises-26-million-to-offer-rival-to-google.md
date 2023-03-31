@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-03-28/ai-search-start
 webUrl: "https://www.bloomberg.com/news/articles/2023-03-28/ai-search-startup-raises-26-million-to-offer-rival-to-google"
 type: article
 quality: 67
-heat: 97
+heat: 127
 published: true
 
 provider:
@@ -60,6 +60,33 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI search startup raises $26 million to offer rival to Google"
+    excerpt: "Perplexity AI, which makes a conversational search engine using artificial intelligence, has raised $25.6 million in a funding round led by New Enterprise Associates, the latest deal in the booming AI sector."
+    publishedDateTime: 2023-03-30T14:39:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/mar/28/ai-search-start-up-raises-26-million-to-offer-riva/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 19
+  - title: "Impact Observatory raises $5.9 million to apply AI to satellite imagery"
+    excerpt: "Impact Observatory raises $5.9 million to apply AI to satellite imagery Impact Observatory, a company that pairs satellite imagery with artificial intelligence for mapping and monitoring, raised $5.9 million in seed funding."
+    publishedDateTime: 2023-03-29T23:34:00Z
+    webUrl: "https://spacenews.com/impact-observatory-raises-5-9-million-to-apply-ai-to-satellite-imagery/"
+    type: article
+    provider:
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 19
+  - title: "AI satellite mapping startup Impact Observatory raises funding in D.C."
+    excerpt: "A D.C. serial entrepreneur raised a multimillion-dollar seed round for his latest venture, an AI-powered geospatial mapping startup called Impact Observatory. And now, he's planning a hiring spree."
+    publishedDateTime: 2023-03-29T13:00:00Z
+    webUrl: "https://www.bizjournals.com/washington/inno/stories/news/2023/03/29/impact-observatory-ai-dc-satellite-mapping-funding.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "XHm9RV6V0LpA7vQDTfIEvS+JxDIRm9nyjHIU4SFnKdPAuYok1lfTIsmP/Z9yK7HU5a308P2hN3iKYdFedudIXF4rz3yCklaDA6tBcVZkIqM22T8qgQicCHQY4YY1n+mLgjS77EGJvNug24Dz5EzrgXOaTBWy8LBcI00Jkxr/iV3PETWnzWs9xwXzSxglIgNqgTWhf0tVoytZfisjpDZ3HbrcVZRZnxOt/srxkBWs+HP+ug91+MWXN0VNrk67XHF5wa6qzcranMNH+cN7zHE5f/4KdJ8OxsWog116wqfUVZgHyH0y58hK+nnNZ7Ug9B8oNf+y1rnd+CIoylUVQ4K1u5yhhT3L2JMb/S9/wQSbBS6yD8lKFmF735Vv2WFs47t7cpMHHfiF2ajAp7n+R+5tCqlrj6tcWXbEO5ai/n0VLXWtwlxhAc2WUrzhGOMEOOI/XtJj/9asG/FfEdi7ci/8ZJSjDEuD3XKaq4tdve+JGX+KNNSPhSZQrnZw93+qpeDkPvBcntOlFXgOYcpNV+Ambw==;qxi+EochtupEFtTX9AthGQ=="
 ---

@@ -69,6 +69,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "AI ethics group asks FTC to investigate OpenAI"
+    excerpt: "The Center for AI and Digital Policy, or CAIDP, made the request in an FTC complaint released today. At the center of the complaint is the GPT-4 model that OpenAI debuted earlier this month. GPT-4 is the startup’s most advanced neural network to date."
+    publishedDateTime: 2023-03-30T19:02:00Z
+    webUrl: "https://siliconangle.com/2023/03/30/ai-ethics-group-asks-ftc-investigate-openai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
   - title: "Zoom adds generative AI to Zoom IQ; partners with OpenAI"
     excerpt: "Zoom announced a new host of AI-backed capabilities for its “smart companion” tool, doubling down on its CEO’s promise of helping customers benefit from the technology."
     publishedDateTime: 2023-03-27T12:46:00Z

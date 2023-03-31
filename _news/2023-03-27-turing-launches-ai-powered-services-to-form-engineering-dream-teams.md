@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/turing-launches-ai-powered-services-to-fo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/turing-launches-ai-powered-services-to-form-engineering-dream-teams/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,17 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Pioneering The Predictive AI Wave In Powering The Hiring Automation Vehicle"
+    excerpt: "The company’s products, ~ Ng-NeXT Test and Selectright.ai, are as revolutionary as the founders’ empowering, growth-focused mindset."
+    publishedDateTime: 2023-03-31T00:00:00Z
+    webUrl: "https://www.outlookindia.com/business-spotlight/pioneering-the-predictive-ai-wave-in-powering-the-hiring-automation-vehicle-news-274649"
+    ampWebUrl: "https://www.outlookindia.com/business-spotlight/pioneering-the-predictive-ai-wave-in-powering-the-hiring-automation-vehicle-news-274649/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/pioneering-the-predictive-ai-wave-in-powering-the-hiring-automation-vehicle-news-274649/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 37
 
 secured: "70Tt/Vt/wEzmTbun38pVcRIgHYramdRGJoCkmPv5AFa+/io7ZVy6FMfmG5BOg551PtRXewbSCGx9NGWvWyaj5psDw2vqwiF0mZ3MqVjw2BKSYkpiwMBo099SxckJam0f5PvR2m/BtAsz6r7pTManK1B9ZAhJ7zb0ks9mNsL0aHWte8pxqLUkGO+yuBoCDBmrhWlNXKiqIWIE2IlavNEOSE2bYGfSvessMq077j3TJztwNrHMRUE1z3jEShSGiKFzDcpRwI8KgnDzm3Ku1y/JjMqZ5p8pIVP/zWs1IbKf/HaesoqNtupuXwe9cpwf9kjnFavmHYlP3zWnkUKbW4IBGy3UtWyJPeaBvO/cE5fSQzYIbwvg8Z6MmSsm9FL9m/J/9L/jFsS80ZcUUYmCt7y8UEq8hY8P4JBRbRI/4PsChRa01AmcC2wWD6aQsCrH3+q57nunJ8lnHYKRfoKXvXzv8jdm3am7w4/sG82+BieT2hYg2Xlvw6Imyiz0uPmj9xT0HmOSfTGcsP462zM3JeV4Rw==;b/0cs2L/Qnc4Aepltdl2CA=="
 ---

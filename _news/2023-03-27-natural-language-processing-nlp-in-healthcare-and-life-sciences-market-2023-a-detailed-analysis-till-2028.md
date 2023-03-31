@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2023-a-detailed-analysis-till-2028-2023-03-27"
 type: article
 quality: 98
-heat: 158
+heat: 168
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing (NLP) in Healthcare Market by 2031"
+    excerpt: "The \"Natural Language Processing (NLP) in Healthcare Market\" study describes how the technology industry is evolving"
+    publishedDateTime: 2023-03-29T19:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-by-2031-2023-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 81
   - title: "Healthcare Natural Language Processing (NLP) Market Share From 2023 And Unlimited Opportunities for New Companies"
     excerpt: "Healthcare Natural Language Processing (NLP) Market Size 2023 | New Report (127 Pages) | Information Technology | In"
     publishedDateTime: 2023-03-27T03:52:00Z
@@ -72,6 +81,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing (NLP) Market Top Players by 2031"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 29, 2023 (The Expresswire) -- The \"Natural Language Processing (NLP) Market\" study describes how the technology industry is evolving and how major and emerging players in ..."
+    publishedDateTime: 2023-03-30T03:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-top-players-by-2031-2023-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
   - title: "Artificial Intelligence in Life Sciences Market: Size and Growth Opportunities 2023-2029"
     excerpt: "Mar 26, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Artificial Intelligence in"
     publishedDateTime: 2023-03-26T11:41:00Z
@@ -81,20 +99,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023-2026 Speech and Voice Recognition Market Size and Industry Share Analysis"
-    excerpt: "The Global Speech and Voice Recognition Market 2022-2026 Research Report offers a comprehensive analysis of the market, providing valuable insights into the market status, size, share, SWOT and PESTLE analysis. The report examines the market growth ..."
-    publishedDateTime: 2023-03-25T07:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2026-speech-and-voice-recognition-market-size-and-industry-share-analysis-2023-03-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

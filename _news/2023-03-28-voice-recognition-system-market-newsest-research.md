@@ -43,34 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automatic Speech Recognition(ASR) Software Market Outlook: Predictions and Projections for 2028 And Beyond"
-    excerpt: "Global Automatic Speech Recognition(ASR) Software Market Report (123 Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https ..."
-    publishedDateTime: 2023-03-24T18:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-outlook-predictions-and-projections-for-2028-and-beyond-2023-03-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Emotion Detection and Recognition Market to surpass US$ 40.5 Billion by 2030, Says Coherent Market Insights (CMI)"
-    excerpt: "On the basis of software and services, the market is segmented into facial recognition, speech and voice recognition, and biosensing. The facial recognition segment is expected to dominate the global market over the forecast period, towing to increasing ..."
-    publishedDateTime: 2023-03-27T13:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31511105/emotion-detection-and-recognition-market-to-surpass-us-40-5-billion-by-2030-says-coherent-market-i"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 5
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "1X2k1pPLInWIVUdIInRim1E0jcdZctW2sYxI8464RrOgPWZize/SRZjxKpg9vzs30RpQ/xOqUHgk4bvpEyzpSD7wdCehPmzC2gy4inGQmJOo34xVhNdzTPrKb0ZXVnl+ko9YAVIi7eWDrw4RkYvOvgVSQhOlqzQMywIMpvy/0ioC6bt48GDLXy/1a8niK8YGgtZ2H/z/i11wwYmx0K5HZN1Ch/VwnUck8c0y8VehclqElk1/0DUXFsJir+hR8l5BpUJSlMaFbh6RKueTWgRdYnrwe54rJBkUAKkzhF+9J4RckhiGK4AVYeXfkaJnk1X+942RlorbmboDOwfEVT3FJgY8VimUbvbaJ4hRryb6uCM=;ja32ahIn2bs01RO1bdIg8A=="
 ---

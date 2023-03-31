@@ -39,54 +39,17 @@ related:
         width: 1200
         height: 625
         isCached: true
-  - title: "You wait ages for an AI chatbot to come along, then a whole bunch turn up. Why?"
-    excerpt: "The fact that ChatGPT isn’t the only machine-learning program out there is down to the way in which tech breakthroughs arise"
-    publishedDateTime: 2023-03-25T20:34:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/mar/25/you-wait-ages-for-an-ai-chatbot-to-come-along-then-a-whole-bunch-turn-up-chatgpt"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/mar/25/you-wait-ages-for-an-ai-chatbot-to-come-along-then-a-whole-bunch-turn-up-chatgpt"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/mar/25/you-wait-ages-for-an-ai-chatbot-to-come-along-then-a-whole-bunch-turn-up-chatgpt"
+  - title: "York student uses AI chatbot to get parking fine revoked"
+    excerpt: "Millie Houlton said she did not have the time to think about crafting her own response so turned to the chatbot A student has successfully appealed a £60 parking fine by using a letter written by an artificial intelligence chatbot."
+    publishedDateTime: 2023-03-30T16:21:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-65126772?at_format=link&at_campaign=Social_Flow&at_campaign_type=owned&at_link_origin=BBCTech&at_link_type=web_link&at_link_id=33750B12-CF17-11ED-A862-CC944744363C&at_ptr_name=twitter&at_bbc_team=editorial&at_medium=social"
+    ampWebUrl: "https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-65126772.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-york-north-yorkshire-65126772.amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 53
-    images:
-      - url: "https://i.guim.co.uk/img/media/627962723bc07f627f6aba673483b3007ea10485/0_201_5717_3430/master/5717.jpg?width=620&quality=85&auto=format&fit=max&s=9ad313080aa74f8c8c2c1bc82cbe0ac8"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Man says he formed romantic attachment with AI chatbot — and he's not alone"
-    excerpt: "ABC News' Ashan Singh sits down with one of the 2 million users of Replika, a conversational chatbot program that is quickly gaining traction online."
-    publishedDateTime: 2023-03-24T11:47:00Z
-    webUrl: "https://abcnews.go.com/Nightline/video/man-formed-romantic-attachment-ai-chatbot-98094006"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 35
-    images:
-      - url: "https://s.abcnews.com/images/Nightline/230324_ntl_artificial_intelligence_1254_hpMain_16x9_608.jpg"
-        width: 608
-        height: 342
-        isCached: true
-  - title: "Tread a Careful Legal Path Around AI Chatbots"
-    excerpt: "A company, which will remain nameless, recently contacted GlobeSt.com about a commercial real estate service that incorporated ChatGPT’s natural language processing. An interesting concept, but when asked about potential issues of copyright, the firm ..."
-    publishedDateTime: 2023-03-24T11:52:00Z
-    webUrl: "https://www.globest.com/2023/03/24/tread-a-careful-legal-path-around-ai-chatbots/"
-    type: article
-    provider:
-      name: GlobeSt.com
-      domain: globest.com
-    quality: 19
-  - title: "Here's why Character.AI chatbot founders say this week's unicorn funding is just a start"
-    excerpt: "Running this type of AI can be expensive and, while you just raised a very large ... Clearly people love what we have to offer and that will help us start to monetize this in the not-too-distant future. Noam: Our first option is to monetize through ..."
-    publishedDateTime: 2023-03-24T22:21:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/03/24/q-a-interview-with-characterai-founders.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 8
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
 
 secured: "mTLasrIaN8ikQJKLYYOngqsW1jINLRb0bdsiNWVrZYIO5brSImMfYxZDVuCJeI0ZqMW/xN4moV3meZOrS90dg+9Cp9XgKx4KNpZkP1W1iDiOj/RKCB8yE61EOLnhxwN4OR1KZDuvYUaCvkbuECLkMO4ETuY6Fldo19KtNu7iIZA6iqjDaWm48J0ln51qmbdk4e7R/EAEkAs6gq9Ir0HAoc+fJDL8JmpQ9VduVA3XEX0V5nmkSVoe/DrFeLkZ1NK9z8YAT/ZpRtoNlPCnM0EoGMOQAxZWIX6NNPlhuSkz92ndSRVW29F/tEwypzC6+IOB9r9jSUbN2Fn13XL7sUK47b+eWDUluB5BPeYeaAzoEzYXQtZhbcWWVXhOhdtN8v90mWVm5n8jYrbJ0xrkImGNf3GmCN355WKvoiDELmMuTJ9vMR45+FICw5NXx3IJJxMKbCSau77tiC22AO4EASIL49cdiqN0djKIdJlP2K/934XrSwk4t9b5iNlTeFRSWL+r5L771sS8nwo58PBlPxpuhw==;Nohbmi4MVDScxYQqET12yw=="
 ---

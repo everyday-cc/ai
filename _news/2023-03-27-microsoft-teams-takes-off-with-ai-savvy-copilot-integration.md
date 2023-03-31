@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft Plans To Use AI To Solve A Huge Pain Point For Doctors"
-    excerpt: "Healthcare organizations use patient charts to code and bill for services provided. Documentation also acts as a record of the patient journey, which has become especially important in the growing landscape of healthcare litigation."
-    publishedDateTime: 2023-03-26T01:07:00Z
-    webUrl: "https://www.forbes.com/sites/saibala/2023/03/25/microsoft-plans-to-use-ai-to-solve-a-huge-pain-point-for-doctors/"
-    ampWebUrl: "https://www.forbes.com/sites/saibala/2023/03/25/microsoft-plans-to-use-ai-to-solve-a-huge-pain-point-for-doctors/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/03/25/microsoft-plans-to-use-ai-to-solve-a-huge-pain-point-for-doctors/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641f96ad5984a6dfc1580d4a/0x0.jpg?format=jpg&width=1200"
-        width: 1051
-        height: 700
-        isCached: true
   - title: "Microsoft enlists AI to supercharge PC security and hinder hackers"
     excerpt: "If the world’s top businesses eventually trust Security Copilot, that may assure you that AI can help secure your PC, too. As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for ..."
     publishedDateTime: 2023-03-28T15:31:00Z
@@ -104,22 +88,6 @@ related:
       - url: "https://images.wsj.net/im-750908/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Cyber Security Experts Warn About Artificial Intelligence"
-    excerpt: "NASHVILLE, Tenn. (WSMV) - Cyber security experts said scammers will soon be using artificial intelligence to steal people’s identities and money. The deception could reach levels people have not experienced before. Nashville resident Johnathan Bellomy ..."
-    publishedDateTime: 2023-03-24T18:52:00Z
-    webUrl: "https://www.wsmv.com/2023/03/24/cyber-security-experts-warn-about-artificial-intelligence/"
-    ampWebUrl: "https://www.wsmv.com/2023/03/24/cyber-security-experts-warn-about-artificial-intelligence/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wsmv-com.cdn.ampproject.org/c/s/www.wsmv.com/2023/03/24/cyber-security-experts-warn-about-artificial-intelligence/?outputType=amp"
-    type: article
-    provider:
-      name: WSMV
-      domain: wsmv.com
-    quality: 74
-    images:
-      - url: "https://gray-wsmv-prod.cdn.arcpublishing.com/resizer/IrnKKI4UvFdCPGdJ5gVjzvW_-r8=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/IFOWQQNSEFEW7NAODZF7YOJYXQ.png"
-        width: 800
-        height: 450
         isCached: true
   - title: "Streaming Services and Cybersecurity"
     excerpt: "The popularity of streaming platforms and apps have exploded in recent years. Streaming services have now become the norm, rather than the exception, as more households “cut the cord” with their cable providers."

@@ -45,29 +45,17 @@ related:
         width: 1200
         height: 629
         isCached: true
-  - title: "Discover the Hidden Opportunities in the Artificial Intelligence Consulting Service Market [2023-2030]"
-    excerpt: "Our Most Recent Research Report Indicates that Artificial Intelligence Consulting Service Market is Set to Undergo Significant Changes in 2023 Compared to the Previous Year. [124 Pages Report] Our Artificial Intelligence Consulting Service Market research ..."
-    publishedDateTime: 2023-03-25T07:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/discover-the-hidden-opportunities-in-the-artificial-intelligence-consulting-service-market-2023-2030-2023-03-24"
+  - title: "Artificial intelligence: Strange new world or opportunity?"
+    excerpt: "Blair says there are still factors that come with advancement that people consider cons. \"Whether it's robotics, animation, artificial intelligence, those are things that can replace humans. That's the whole thing about artificial intelligence: they're ..."
+    publishedDateTime: 2023-03-30T01:47:00Z
+    webUrl: "https://www.lex18.com/news/lex-in-depth/artificial-intelligence-strange-new-world-or-opportunity"
+    ampWebUrl: "https://www.lex18.com/news/lex-in-depth/artificial-intelligence-strange-new-world-or-opportunity?_amp=true"
+    cdnAmpWebUrl: "https://www-lex18-com.cdn.ampproject.org/c/s/www.lex18.com/news/lex-in-depth/artificial-intelligence-strange-new-world-or-opportunity?_amp=true"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Creating magic with Coke and AI"
-    excerpt: "Forget all that future dystopia stuff: now you can use AI to make your very own Coke ads. This is Fast Company’s Brand Hit or Miss of the Week."
-    publishedDateTime: 2023-03-24T15:54:00Z
-    webUrl: "https://www.fastcompany.com/video/creating-magic-with-coke-and-ai/GR4wKIjr"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
+      name: lex18
+      domain: lex18.com
+    quality: 39
 
 secured: "BwuzF6eITkqs9Q8htP+b3tQJdCgtqi07/wzL2tNSBwv+vyz+/hYEmE2BJ24dyquEOBl5TVl7dFMkRVZXj8SMGJijywog7yyQNbkt3D57azLdk1zUJzt705rm+aAIEJ+AYWAl3agPG2KPYX9WMn2wsQI6/JAihjPCIH2tx5liymTE+UiXkHKk7I1m4zm/Y2tH/pz3NPdAIzedk2WEfiYG6+ecg1HHi5tM1fMgR3Lc0doY7L2YqDkux2a9GJcUul8dzkBFDZCNoq2+op/86/4dT5vB7tHkQdvpQWpv6sqNQ8A3NqxSzN1VRK9S9MyBG8v2FQRGCKfmT4O57NYG3EOSjifhRtZLGw6F48qaI/C4u0c=;coyo1+XQxUVRJpVlXc72hg=="
 ---

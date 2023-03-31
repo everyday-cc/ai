@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Bill Gates's Open Letter Suggests AI's Potential Is Both Exciting And Terrifying"
-    excerpt: "Its 30% increase in share price since the start of the year is also likely boosted by its acquisition of AI healthcare company Caption Health. Chip company Nvidia, which is announcing AI partnerships all over the place at the moment, is now collaborating ..."
-    publishedDateTime: 2023-03-24T17:01:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/03/24/bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying/"
-    ampWebUrl: "https://www.forbes.com/sites/qai/2023/03/24/bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/03/24/bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying/amp/"
+  - title: "Top Tech Talent Warns of AI's Threat to Human Existence in Open Letter"
+    excerpt: "Musk, Wozniak, and Yang are among more than a thousand tech leaders asking for time to establish human safety parameters around AI."
+    publishedDateTime: 2023-03-29T21:24:00Z
+    webUrl: "https://www.darkreading.com/application-security/top-tech-talent-ai-threat-human-existence-open-letter"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641dd727f27107071e4ff5b1/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 801
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltdb995904a557b3cd/642493015d4cd93f170e8185/openai_SOPA_Images_Limited_Alamy.jpg"
+        width: 8000
+        height: 5336
         isCached: true
 
 secured: "zCvd8McUJ0+A1oupuvPSiJPtO19EK91jt+vuRX6nPQ8rOEMCcYCDjZm68L/F9eZC6ahDfe3b7POv6kCyCMrAEL9B58bqnfAkNuMuWwJ331pz8qjdQ2ybRt6qNhKgxjcZik7p+QPeOmCO42DVWY3q2bTm0F10RsqpW59/purLvPOaBOnx3fzBYdja8uZ6pQw9ufZuc15nr9P3U0HESc1KLc32mXD+vUu+4+ErR1ig0wMMTp0ZqpzfbIpsrzd6z+z0n5hwDyUrDt1peTwb4zs5pbpqAYWO8kP2zuD24REnxd+6zV2aAjNnyhmtn1DUjbEAkiQOlaBYpsxq6vzEa0amecxZGTzg9V6GPTmXcXXjonE=;Z2r6r/rPoKqCIzv2v/rFCw=="

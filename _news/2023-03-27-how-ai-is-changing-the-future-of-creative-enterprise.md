@@ -22,50 +22,81 @@ topics:
   - AI
 
 related:
-  - title: "Generative AI In The Enterprise - Use Cases & Early Learnings"
-    excerpt: "GPT becomes an attractive alternative for companies looking to switch their manual call centers into a more responsive, always-on, and more efficient capability."
-    publishedDateTime: 2023-03-26T01:29:00Z
-    webUrl: "https://www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-ai-in-the-enterpriseuse-cases--early-learnings/"
-    ampWebUrl: "https://www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-ai-in-the-enterpriseuse-cases--early-learnings/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-ai-in-the-enterpriseuse-cases--early-learnings/amp/"
+  - title: "AI and the future of software development"
+    excerpt: "Just ask Jaana Dogan, a distinguished software engineer at GitHub. According to Dogan, “People are too focused on code generation and completely ignore that LLMs are useful for code analysis.” In other words,"
+    publishedDateTime: 2023-03-27T09:00:00Z
+    webUrl: "https://www.infoworld.com/article/3691892/ai-and-the-future-of-software-development.html"
+    ampWebUrl: "https://www.infoworld.com/article/3691892/ai-and-the-future-of-software-development.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3691892/ai-and-the-future-of-software-development.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/05/ai-vendor-relationship-management_artificial-intelligence_hand-on-virtual-screen-100795246-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Synopsys.ai: New AI Solutions Across The Entire Chip Development Workflow"
+    excerpt: "The company has added Verification and Test AI tools to its already-successful Design tools, DSO.ai, with more to come."
+    publishedDateTime: 2023-03-29T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2023/03/29/synopsysai-new-ai-solutions-across-the-entire-chip-workflow/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/03/29/synopsysai-new-ai-solutions-across-the-entire-chip-workflow/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/03/29/synopsysai-new-ai-solutions-across-the-entire-chip-workflow/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Collaborative machine learning startup FedML raises $6M to train, deploy and customize AI anywhere"
-    excerpt: "The startup has also signed 10 enterprise contracts spanning industries such as healthcare, financial services, retail, logistics, smart cities, Web3 and generative AI. Constellation Research Inc. Vice President and Principal Analyst Andy Thurai told ..."
-    publishedDateTime: 2023-03-28T13:02:00Z
-    webUrl: "https://siliconangle.com/2023/03/28/collaborative-machine-learning-startup-fedml-raises-6m-train-deploy-customize-ai-anywhere/"
+    quality: 85
+  - title: "Big tech and the pursuit of AI dominance"
+    excerpt: "The announcements add to a spate of similar ones in the past month or so from America’s tech titans. OpenAI, the startup which is part-owned by Microsoft and which created ChatGPT , an AI conversationalist that has taken the world by storm,"
+    publishedDateTime: 2023-03-27T08:20:00Z
+    webUrl: "https://www.livemint.com/technology/big-tech-and-the-pursuit-of-ai-dominance-11679904285056.html"
+    ampWebUrl: "https://www.livemint.com/technology/big-tech-and-the-pursuit-of-ai-dominance/amp-11679904285056.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/big-tech-and-the-pursuit-of-ai-dominance/amp-11679904285056.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 57
+      name: Mint
+      domain: livemint.com
+    quality: 59
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/0_3hy1w5rvyWCK_6Ef.png"
-        width: 1400
-        height: 785
+      - url: "https://www.livemint.com/lm-img/img/2023/03/27/600x338/2-0-1390309169-istockphoto-1130152320-2048x2048-0_1679763214342_1679905001190_1679905001190.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Machine Learning Executive Talks Rise, Future of Generative AI"
-    excerpt: "Keegan Hines, a former Georgetown adjunct professor and the current vice president of machine learning at Arthur AI, discussed the rapid rise in generative Artificial Intelligence (AI) programs and Georgetown’s potential in adapting to software like ChatGPT. The Master of Science in Data Science and Analytics program in the Graduate School of Arts & Sciences […]"
-    publishedDateTime: 2023-03-27T20:41:00Z
-    webUrl: "https://thehoya.com/machine-learning-executive-talks-rise-future-of-generative-ai/"
+  - title: "A tool of efficiency and risks: How AI allows for more creativity in software development"
+    excerpt: "Gates teaches a course required for computer science students called Ethics for Computers and Society. The use of AI in programming is a major discussion point in his course. \"There's no question that because these technologies are so ubiquitous and ..."
+    publishedDateTime: 2023-03-26T22:04:00Z
+    webUrl: "https://www.ksl.com/article/50600376/a-tool-of-efficiency-and-risks-how-ai-allows-for-more-creativity-in-software-development"
     type: article
     provider:
-      name: The Hoya
-      domain: thehoya.com
-    quality: 56
+      name: KSL
+      domain: ksl.com
+    quality: 30
     images:
-      - url: "https://static.shareasale.com/image/113278/mia-banner-ad-6.jpg"
-        width: 720
-        height: 300
+      - url: "https://img.ksl.com/slc/2920/292088/29208830.jpeg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
         isCached: true
+  - title: "Artificial intelligence and head scab"
+    excerpt: "Fusarium head blight causes a lot of economic losses in wheat, and the associated toxin, deoxynivalenol (DON), can cause issues for human and animal health. The disease has been a big deterrent for people growing wheat in the Eastern U."
+    publishedDateTime: 2023-03-26T22:45:00Z
+    webUrl: "https://ocj.com/2023/03/artificial-intelligence-and-head-scab/"
+    type: article
+    provider:
+      name: Ohio Ag Net
+      domain: ocj.com
+    quality: 19
+  - title: "Biodiversity and the future of food served by the cloud"
+    excerpt: "Sponsored: Cloud technology is a critical ingredient to safeguarding biodiversity, securing food’s future and enabling a healthy planet."
+    publishedDateTime: 2023-03-30T07:48:00Z
+    webUrl: "https://www.greenbiz.com/article/biodiversity-and-future-food-served-cloud"
+    type: article
+    provider:
+      name: GreenBiz
+      domain: greenbiz.com
+    quality: 4
 
 secured: "R9W/US2QaQpzvVI02o1mdRmBSY9JsYhDKt/r2v2M4CI6cOSoSgZ3CP8MlVjd7I7uGWA4OZ06kLqGA/JYNTrdIwExA+/0xBtk3hIpHnIsmTF4wVrK9xn8p/yE+ahPLTzpA4Wz++htfrQbIgxPod8CWXuYiIhirETVFmCCq+fBljM0PVtCUjgnKeMgTIUUIWTOWjgkEWRl5/8uHckl/z1yTYaEOGM8fuLkJBUqQG7nDrGnWpf3naxFm2pMyli0MO1jlr5IYc/4dw7/xkOrxs2ndiS8Lwry2Hv3ANtxZmBDlmBpWM7ctk/g3J5cWxmv+a3/jvuI0ZASjQjaIoi38OninJKMVLLKaojgOvimffavZKAxDX+uQoUuS+ZSvqvqvRQ4eBaSzkxt3hIO9Fql45xxuzxPOqRSzb4iM3X1UV2rF3EXo2QpsZkKRiQsZ7ev3GJ+gdRcD2BPqxoDSaOysNWl5OdNtd85AnJIc/35xbo2akrXwhdj4ww0h848rtqhgxe62oYYF9WIbwjiuGa9hNbwcw==;hAjHw+CFLrHESSa5vyAkYQ=="
 ---

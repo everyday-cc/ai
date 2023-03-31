@@ -41,15 +41,6 @@ related:
         width: 1600
         height: 1120
         isCached: true
-  - title: "Seven Queensland universities among Australia’s ‘happiest’, based on students’ Instagram pictures"
-    excerpt: "Australia’s happiest universities, according to analysis by Resume.io and NeoMam Studios. Photo: Supplied. The Amazon Rekognition API tool analyses faces in photos of faces and calculates a percentage of how likely it is that face is expressing happiness."
-    publishedDateTime: 2023-03-26T03:49:00Z
-    webUrl: "https://www.couriermail.com.au/queensland-education/tertiary/seven-queensland-universities-among-australias-happiest-based-on-students-instagram-pictures/news-story/dc68ce51b45b7aeb83e2e83f9179488f"
-    type: article
-    provider:
-      name: The Courier-Mail
-      domain: couriermail.com.au
-    quality: 0
 
 secured: "DSXZkXNFaWiN8FP7vIC8hOUOEoFnXxbemYCftfNY4QOl2PJ6GNysDeXstS4dOEsJFTR1fx0gkOp7uLP24kaFC7N6OMjS0X2tb1lytfm+kKHrht9M+oBEhVYAnHhMTc67mz2lYTXcqKv7K87bg2rh97d6O46vnWSo4uohfJ/yz7Bn/FDn5J+C/Hq+F8NGYiw4vzq8KylPmv3wUDr29pZmxx5VLyQNRjMW1y8BOAzRsX1DcrYWKM1rfaYRMbnTLRR50eT9FzDDTl7xatOtSp2PC4QcMnVNjqj6abqVdnuIZ4oL/ze1D54TaO9KorN6GYrnzNt/2w/EVQTZCXzS0R/mabs62tnfV6GE3QUfGvTEOx+6nQqOBZIaL0GhHU9NguBBncpbZfETEDWO0gOOggxziZ2PcBXmRR8jN90wC5I6DqkXNrHJ6uzkO6jme1fq91jjaLbSYsYWSN5YoyJb6oG6Y4bSTtgGlxDTVGaMSmW4CiS01fp2PYXmiFUei49HJAYyjI6q7C2V08p9F2opDfGeLA==;6LV0vL2Yttcu8mFGpE8BXQ=="
 ---

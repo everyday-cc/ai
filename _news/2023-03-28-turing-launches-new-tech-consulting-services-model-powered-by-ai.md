@@ -40,6 +40,17 @@ related:
         width: 1200
         height: 599
         isCached: true
+  - title: "Pioneering The Predictive AI Wave In Powering The Hiring Automation Vehicle"
+    excerpt: "The company’s products, ~ Ng-NeXT Test and Selectright.ai, are as revolutionary as the founders’ empowering, growth-focused mindset."
+    publishedDateTime: 2023-03-31T00:00:00Z
+    webUrl: "https://www.outlookindia.com/business-spotlight/pioneering-the-predictive-ai-wave-in-powering-the-hiring-automation-vehicle-news-274649"
+    ampWebUrl: "https://www.outlookindia.com/business-spotlight/pioneering-the-predictive-ai-wave-in-powering-the-hiring-automation-vehicle-news-274649/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/pioneering-the-predictive-ai-wave-in-powering-the-hiring-automation-vehicle-news-274649/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 37
 
 secured: "7NswjTCGzRduEC2xINtYi2jQLVPz3O+OPQc0dDeciFVx23PF3J4SBys4BHQzyvzw4BYZbqE5/6ImQ6Ojz+20aMTbueouIKUFkq8m1kRf0u67RQzPouxieBvllogGoN4KL7K4NrWlxajfr0HsVmUAMK+nMG2HCIbaZADjWKmxBl2ECQEEGutenk5BipIZd1NdjQ0Lma6/HRgH2X8mxYN5JlLMjiUpfyDX84F6OX5APR8zG3LD9wN/KiBT9hpDbQ4DYxvAQBQ+1hWp82dqvXnL6vPa6BuO6Qf+67cO5wbWtY6PbmI7uTO9Jpdd/FVdvKGxUTdcNUwFd11Mfq+bTm8QfFgPsEie0MwXGKcDDkZVRsI=;aOX4dZmi0JtoL9OwVm4F+g=="
 ---

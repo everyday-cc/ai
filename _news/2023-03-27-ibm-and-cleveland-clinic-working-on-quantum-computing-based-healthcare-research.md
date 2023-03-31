@@ -24,15 +24,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "How artificial intelligence could be used in Cleveland schools"
-    excerpt: "CLEVELAND (WJW) – Artificial intelligence called Amira will be piloted in the Cleveland Metropolitan School District this spring. It comes amid heated debate and even bans in districts including ..."
-    publishedDateTime: 2023-03-24T02:00:00Z
-    webUrl: "https://fox8.com/news/how-artificial-intelligence-could-be-used-in-cleveland-schools/"
-    type: article
-    provider:
-      name: FOX8 Cleveland
-      domain: fox8.com
-    quality: 19
   - title: "IBM and Cleveland Clinic Officially Debut Quantum Computer Dedicated to Healthcare Research"
     excerpt: "\"By combining the power of quantum computing, artificial intelligence and other next-generation technologies with Cleveland Clinic's world-renowned leadership in healthcare and life sciences, we hope to ignite a new era of accelerated discovery.\""
     publishedDateTime: 2023-03-27T13:00:00Z

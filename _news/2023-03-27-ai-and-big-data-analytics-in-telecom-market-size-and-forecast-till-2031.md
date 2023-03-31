@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Three Ways To Increase ROI On AI-Driven Data And Analytics Transformation"
-    excerpt: "Digital transformation is in full throttle, but it’s not all smooth sailing for companies. Why is it so hard to get it right?"
-    publishedDateTime: 2023-03-24T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/24/three-ways-to-increase-roi-on-ai-driven-data-and-analytics-transformation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/24/three-ways-to-increase-roi-on-ai-driven-data-and-analytics-transformation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/24/three-ways-to-increase-roi-on-ai-driven-data-and-analytics-transformation/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f2ab1b715bcd65fed3786e4/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Machine Learning & Big Data Analytics Education Market to Experience a Significant Increase in Revenues"
     excerpt: "Machine Learning and Big Data Analytics Education Market Size 2023 | New Report (96 Pages) | Information Technology |"
     publishedDateTime: 2023-03-27T03:47:00Z
@@ -59,19 +43,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Workplace Analytics and AI-Powered Skills-Mapping Platforms Named ISG Startup Challenge Winners"
-    excerpt: "Technology platforms that facilitate collaboration and improved workplace experience and identify strengths and gaps"
-    publishedDateTime: 2023-03-24T15:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/workplace-analytics-and-ai-powered-skills-mapping-platforms-named-isg-startup-challenge-winners-2023-03-24"
+  - title: "Clinical Natural Language Processing Market Analysis: Explosive Growth Opportunity by 2029"
+    excerpt: "The report [ 113 pages] focuses on the Clinical Natural Language Processing market size, segmentation mainly covering product type [MachineTranslation, InformationExtraction, AutomaticSummarization, TextandVoiceProcessing],"
+    publishedDateTime: 2023-03-26T20:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/clinical-natural-language-processing-market-analysis-explosive-growth-opportunity-by-2029-2023-03-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Xoriant X-CELERATE Insights Analytics Solution Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to X·CELERATE Insights to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies SUNNYVALE,"
+    publishedDateTime: 2023-03-29T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-xoriant-x-celerate-insights-analytics-solution-now-available-/2023/03/29/9785521.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 57
+    images:
+      - url: "https://mma.prnewswire.com/media/449859/PRNE_Xoriant_Logo.jpg"
+        width: 400
+        height: 260
         isCached: true
   - title: "Computer vision data analytics in the spotlight for retail and small businesses"
     excerpt: "Lumeo, which designs computer vision technology, and the video analytics firm BriefCam both have new offerings targeting retail businesses."
@@ -86,6 +84,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/03144630/smart-camera-edge-device-retail.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "2023, The Artificial Intelligence in Life Sciences Market is Expected to Witness a Substantial Rise in Revenue"
+    excerpt: "Artificial Intelligence in Life Sciences Market Size 2023 | New Report (122 Pages) | Information Technology | In"
+    publishedDateTime: 2023-03-27T03:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-the-artificial-intelligence-in-life-sciences-market-is-expected-to-witness-a-substantial-rise-in-revenue-2023-03-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AWS brings real-time call analytics to Amazon Chime software development kit"
     excerpt: "Developers can simply choose the AWS artificial intelligence service they’d like to use to analyze a specific call, such as voice analytics, Amazon Transcribe or Amazon Transcribe Call Analytics. To visualize these analytics, users can choose from Amazon ..."
@@ -110,15 +122,15 @@ related:
       name: Zee Business
       domain: zeebiz.com
     quality: 23
-  - title: "Workplace Analytics and AI-Powered Skills-Mapping Platforms Named ISG Startup Challenge Winners"
-    excerpt: "Technology platforms that facilitate collaboration and improved workplace experience and identify strengths and gaps in workforce skills were voted the winners of ISG Startup Challenges at events hosted in London and New York by Information Services Group (ISG) (Nasdaq: III),"
-    publishedDateTime: 2023-03-24T21:24:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/03/24/9783050.htm"
+  - title: "Axis Communications Unveils New Devices at ISC West, Underscoring Its Commitment to Deep Learning and Advanced Analytics"
+    excerpt: "Axis Communications, the industry leader in video surveillance, announced the debut of its latest product and solutions offering at the ISC West security conference in Las Vegas, NV. The unveiling will include a series of panoramic cameras,"
+    publishedDateTime: 2023-03-29T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/03/29/9785666.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 5
+    quality: 0
 
 secured: "GjFkVaM0Xc/aYpGXsbl4B1mrknpPA+xCYuzuBU8Ro1L5w+vStYRiZpFUwu6aWGM6dLUpZ/57zZTCd8kXOnEwBqzfsNzsx26C/qsAd+joGj1P0OxZGGp6sWtSTUur1phPuMrac6L1ZTNSFD7QTq6euwMXUlc3uK6hUgaE+q9ywryEzQlYWtxIyRx0Bz9g4/7QTYFb6R5h+3Vi/8SAL40jT8xd2WPjC2yYJZ7bT2YVo023DFsBubZkOb3XMCfM6IdKtrFKEOoQVXx4TGRxAvAGa3VJtB2ZCSvoDE/pPmOkLaL/IIP8UHtAYXJdodcFjCSstb/YQEwLQyFAmv9lzgFMq810FDWiuISsQoliCPYNlMw=;K1ilwcP46mO4buq1WKAVJQ=="
 ---

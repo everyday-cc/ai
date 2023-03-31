@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/could-british-government-compete-us-private-c
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/could-british-government-compete-us-private-companies-creating-artificial-general-intelligence?amp"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -27,20 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Is GPT-4 already showing signs of artificial general intelligence?"
-    excerpt: "Microsoft researchers have claimed that OpenAI’s GPT-4 is capable of such a wide variety of tasks, in some cases exceeding human ability, that the artificial intelligence model is showing “sparks” of artificial general intelligence (AGI). Is this ..."
-    publishedDateTime: 2023-03-24T15:01:00Z
-    webUrl: "https://www.newscientist.com/article/2365864-is-gpt-4-already-showing-signs-of-artificial-general-intelligence/"
+  - title: "Global L1 Self-driving Vehicle Market 2023 [Intelligence Report] | Gain the Competitive Edge"
+    excerpt: "Global L1 Self-driving Vehicle Market Status and Prospect | New Report [2023-2030] of 115 Pages | Industry report"
+    publishedDateTime: 2023-03-28T10:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-l1-self-driving-vehicle-market-2023-intelligence-report-gain-the-competitive-edge-2023-03-28"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 24
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/03/24133532/SEI_149545430.jpg"
-        width: 1350
-        height: 899
-        isCached: true
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
 
 secured: "3WwngKIqVyEKUYezJwTrbPLV3oJPP6aJuhhK+2MBbaRJCegQLVjgnS9M04ccQrexjNh/Ik4XnY45PpV8Fr2DjlXrNlLYXAgyaCP3i+I+HYkZKk3G10tYUpM1uq8rfdyN3aBZiLw4OCwPDDOmoZ7orIX4sVG/CTa5U7EaYxODir5eroYRJ8HESwVHbBOextlFvtbqF2210tXz3HNkSKx1PbwVetGvhrCFdMNiofYfhOwhe2K1mWRN7QWLII3Yyb1xPTS+rNxBA2E3WZjeenX82g18TsmlkrH3Laz+HKQQwIDvpQAjQCuGrvU0lrq7nCAfXMV3v/3j8/WiCg/w9jMPsY/+bGLFuGU3tyVACcHxi0w=;krQ2XB8MisujME89qcjulQ=="
 ---

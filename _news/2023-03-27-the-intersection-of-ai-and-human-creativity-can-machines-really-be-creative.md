@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/27/the-intersection
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/03/27/the-intersection-of-ai-and-human-creativity-can-machines-really-be-creative/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "The Ethics of Creating A.I.-Generated Images of Public Figures"
+    excerpt: "As the ethics of A.I. are being called into question ... “I am convinced that the development of artificial intelligence and machine learning has the potential to contribute in a positive way to the future of humanity,” he said, per Vatican News."
+    publishedDateTime: 2023-03-30T22:11:00Z
+    webUrl: "https://www.smithsonianmag.com/smart-news/is-it-unethical-to-create-ai-generated-images-of-public-figures-180981900/"
+    type: article
+    provider:
+      name: Smithsonian Magazine
+      domain: smithsonianmag.com
+    quality: 19
 
 secured: "3nQnTin6rOoseNcZ3XC0JJ3tVFMKcH7ZEzquysDvC5G3JbM2V2AMvguBX7Kh2x08ASDhumAPXYwZeop1vw5uBOdPJMplW3lGaTCwL156yuLPsMyaILRrGqxtrWCjovo3URtJM0bteGfiH8Kip0IFf7nJLiBAbWfhGMF1LMyM3yBEgVinLwMm/4FoQW1jz4veqaTz5PNrMI/P6Y6e7iLmcIenpgqUErUpud8/RJFEAgAxAqHOlUS7veZGAiiubAAvzm6+d2R7ZyySRMRYI7kBlBLNdhnTfo9nGwaaFv3TXfUZvxiE9BywXwXlFjVCUMUXd58TlaVoq/a1RN/D1cOerh45p5srAk3YtwMih9bO3SjFN0b+o8TDB/wL9Lm8oC5b5/Gw8u81yC1A+g4NbB8MHtSrUOFirG0SdX2YLYvqDU0LaYGp8fU+VehI+BaGVQDPaKVtbhXp6vSchbxc+D/5SxbzMAb10FxCt4tKvegDuDLaD1n4aoigfXPWcJKHbW63WO4rYvK1HbAdnQpncfldSw==;SiTykMOUvBguheGjT/Awkg=="
 ---

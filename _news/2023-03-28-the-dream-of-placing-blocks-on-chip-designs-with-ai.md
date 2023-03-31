@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/amp/"
 type: article
 quality: 74
-heat: 105
+heat: 114
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "7 Best AI Stocks Of 2023"
+    excerpt: "Artificial intelligence (AI) is suddenly everywhere. You can thank the release of ChatGPT in November 2022 for setting off the current wave of interest in AI applications. The startup behind ChatGPT is called OpenAI,"
+    publishedDateTime: 2023-03-28T18:57:00Z
+    webUrl: "https://www.forbes.com/advisor/investing/best-ai-stocks/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "The problem with artificial intelligence is us"
     excerpt: "The race to create the best artificial intelligence chatbot is on. At the time of writing, Google is unveiling its new chatbot, Bard, to 10,000 testers. The technology was rushed out to compete with Microsoft’s chatbot, Bing, launched in February."
     publishedDateTime: 2023-03-28T16:45:00Z
@@ -63,7 +72,7 @@ related:
     provider:
       name: The Christian Century
       domain: christiancentury.org
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.christiancentury.org/sites/default/files/images/detail/pexels-federico-orlandi-3260626.jpg"
         width: 6000

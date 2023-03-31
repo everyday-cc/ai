@@ -5,10 +5,12 @@ excerpt: "Tesla is already moving to a full self-driving mode, and Waymo is prep
 publishedDateTime: 2023-03-27T18:12:00Z
 originalUrl: "https://www.nasdaq.com/articles/ai-taking-flight-in-the-u.s.-air-force"
 webUrl: "https://www.nasdaq.com/articles/ai-taking-flight-in-the-u.s.-air-force"
+ampWebUrl: "https://www.nasdaq.com/articles/ai-taking-flight-in-the-u.s.-air-force?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-taking-flight-in-the-u.s.-air-force?amp"
 type: article
-quality: 49
-heat: -1
-published: false
+quality: 69
+heat: 89
+published: true
 
 provider:
   name: Nasdaq
@@ -19,30 +21,35 @@ topics:
   - AI
 
 related:
-  - title: "There's No Such Thing as Artificial Intelligence"
-    excerpt: "According to its proponents, we will all live in the “metaverse,” build our financial infrastructure on “web3” and power our lives with “artificial intelligence.” All three of these terms are mirages that have raked in billions of dollars ..."
-    publishedDateTime: 2023-03-26T07:27:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2023-03-26/even-with-chat-gpt-4-there-s-no-such-thing-as-artificial-intelligence"
+  - title: "The US government is gearing up for an AI antitrust fight"
+    excerpt: "She warned that major companies may “start to panic” at an upset in the tech order — “sometimes having to resort to anticompetitive tactics to protect their moats and protect their dominance.” Kanter added that the current model of AI is ..."
+    publishedDateTime: 2023-03-28T17:27:00Z
+    webUrl: "https://www.theverge.com/2023/3/28/23660101/ai-competition-ftc-doj-lina-khan-jonathan-kanter-antitrust-summit"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
+      name: The Verge
+      domain: theverge.com
     quality: 67
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iU7LUSykyhPA/v1/1200x800.jpg"
+      - url: "https://cdn.vox-cdn.com/thumbor/fVQKZg5pKIAqEGgwL6dVKdUIZnw=/0x0:5320x3779/1200x628/filters:focal(2660x1890:2661x1891)/cdn.vox-cdn.com/uploads/chorus_asset/file/24542737/1249642666.jpg"
         width: 1200
-        height: 800
+        height: 628
         isCached: true
-  - title: "From brain waves, this AI can sketch what you're picturing"
-    excerpt: "Some experts say in the wrong hands, the AI model could be used for interrogations or surveillance. “I think the line is very thin between what could be empowering and oppressive,” said Nita Farahany, a Duke University professor of law and ethics in ..."
-    publishedDateTime: 2023-03-25T12:05:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/brain-waves-ai-can-sketch-picturing-rcna76096"
+  - title: "Upcoming Landmarks in Artificial Intelligence"
+    excerpt: "Robot police dogs that don’t need oiling, autonomous dental floss, and other neato perks on the road to the Singularity."
+    publishedDateTime: 2023-03-27T10:00:00Z
+    webUrl: "https://www.newyorker.com/magazine/2023/04/03/upcoming-landmarks-in-artificial-intelligence"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 49
+      name: The New Yorker
+      domain: newyorker.com
+    quality: 37
+    images:
+      - url: "https://media.newyorker.com/photos/641b32f4dd09cd057679a241/16:9/w_1280,c_limit/230403_r42114.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "1FferJhDV6KRcbL+EojeF0gZA0nt1ZZo3Jsek3UHuR+Y+cwlepaJ9Q3STlUW0A7o+WMQDtntI5ktYLCsLCLsie5MHY/U/YUfV2X2ynpeMYb6NFxnxb/K58VGsFMgUXziTa7YryKkMJXKoyvuxtQBYK+u7EdxENJy04NNmU4JwWUosm1/xaJhuGeRrYkV+z5KEDVouRmrP7aNe4ytbU7an1KJ7f4qjuVzUWcCYYJvk0RxvrT+MArR+OF3+Nm04RBNhSpuNh9qVUcTSxvGUeGcySQjsLvQVbEuDDTYbKWJc9fKL1cS623OSvSAdD1wtRqp72+5VXal0VgwIybIzE8unDZk9jRVMk4MzEmboSOKlHI=;atZTT1MocuNa0mWN6GO8EQ=="
+secured: "ptl+dCZOB9/xI8vhHCOeH7CT40bVCZjifESl1tDKwq/jsPcn1AYoT0GMe/fIP542r5QLJp/fno+Z9Lg3q+eGa5gq01J03FJnXAXwSfH5C5WQP9VJwyV2hfZvq5W24c1HFbWU121lNC0S8pSRvoUIxtcjDlhMD9+M+k6x2HYWSgl4OskZCHvhxp6DqYDxaHj4fV1UMu/GO/l8tT2LN767z7+st+xn+9xVxa5ONsWx1GI3kDHvve/oa3MhDbzAMBEsm0g6OvXJTUVIohV0SJRK882pITZV0ZNnkcKo32OMQ+H16tauy33rctQbKxcYDl429opnzO+WmivsiVOAfwwqWF6u9hyG0EoradG50J27TKFLJF8jva5uQ5KF34EAUEoK8TkO+F1NjsgqVqr6YSUT/hs+/nl1GDjfXSOS5sVHLqLUWh33R59oGvzdxWK5FVPPf3mrS9tVmUr94HYwx3JgAglayTtqDo+7HTSkLmSyAqJlaIs1DvoA2cYDNTcTuOBjdlVjrfm9pJoArYFFlk/CIA==;W1JfshHjOYOaEs20hh0bEg=="
 ---
 

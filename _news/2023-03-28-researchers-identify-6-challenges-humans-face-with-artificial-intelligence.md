@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-03-humans-artificial-intelligence.a
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-humans-artificial-intelligence.amp"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 2600
     height: 1699
     isCached: true
+
+related:
+  - title: "6 Challenges – Identified by Scientists – That Humans Face With Artificial Intelligence"
+    excerpt: "A study led by a professor from the University of Central Florida has identified six challenges that must be overcome in order to improve our relationship with artificial intelligence (AI) and guarantee its ethical and fair utilization."
+    publishedDateTime: 2023-03-30T07:43:00Z
+    webUrl: "https://scitechdaily.com/6-challenges-identified-by-scientists-that-humans-face-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 9
 
 secured: "OkNRzPXC6ZPvmQgIqN+TlaG4/ZCqkYEWHQ5m10CCdG4BX+fTefY8uhwLyLH0UvZ6ttpMrD/ThCL7kL7sbFwliF8XZfQ/qkYRDzweLhLHrLUSSrb/+cwtmdibMr1RDLcTolpi9TdEB+y6IxsvoWDDSVMJD0vkQTCDKhxMf6piVW+ZGYsJqu4c1eUse9kpX7okdsMDPOYJk5pmJoMOcs291tl8g67NXzPKBlJhCOqttg+KoxEwtoK2j9AoeAp6R638qu1dIOsA+J+Kat/Ul4B2L/mNPgwbXOjFI5Ex95ADO29S3Mu/rpKkD1LGh1ERkex67hXBf1hqwphJ7NJ5vgvWetemJV0DyCsATf+l4YyE0h7HtO+uAXz0P0zdEUoOYHJ8KDDXLOXoA+aZ1WxS308UTCV8DswGWATchYsSNHjBVSxi1JQuUt3gXgSRdn+l5Nzw7YnS7sKVGnLx7WBhNP7Lmw3NLlCpZO4P26iz2f9kQSKwjdWQHVivl6ic3i0rlY5TaOYH1St2pRAotQJ8gwcdiA==;S+eNt3RC3MTy/JpUpKaivw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2023/03/26/artificial-intelligence-could-threaten
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/03/26/artificial-intelligence-could-threaten-humanity-scientist/amp/"
 type: article
 quality: 64
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: New York Post
@@ -27,22 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence 'godfather' on AI possibly wiping out humanity: ‘It's not inconceivable’"
-    excerpt: "Geoffrey Hinton, a computer scientist who has been called \"the godfather of artificial intelligence\", says it is \"not inconceivable\" that AI may develop to the point where it poses a threat to humanity. The computer scientist sat down with CBS News this ..."
-    publishedDateTime: 2023-03-25T22:30:00Z
-    webUrl: "https://www.foxnews.com/tech/artificial-intelligence-godfather-ai-possibly-wiping-humanity-not-inconceivable"
-    ampWebUrl: "https://www.foxnews.com/tech/artificial-intelligence-godfather-ai-possibly-wiping-humanity-not-inconceivable.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/artificial-intelligence-godfather-ai-possibly-wiping-humanity-not-inconceivable.amp"
+  - title: "\"Godfather\" of Artificial Intelligence Says It May Eliminate Humanity"
+    excerpt: "Geoffrey Hinton is often credited as the \"godfather\" of artificial intelligence, having worked with artificial neural networks for much of his professional life. Now that artificial intelligence—or AI—is more readily available than it has ever been before,"
+    publishedDateTime: 2023-03-29T04:05:00Z
+    webUrl: "https://comicbook.com/irl/news/godfather-ai-geoffrey-hinton-artificial-intelligence-could-eliminate-humanity/"
+    ampWebUrl: "https://comicbook.com/irl/amp/news/godfather-ai-geoffrey-hinton-artificial-intelligence-could-eliminate-humanity/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/irl/amp/news/godfather-ai-geoffrey-hinton-artificial-intelligence-could-eliminate-humanity/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 91
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0bd0e383-31e0-4b20-b860-95eb669914f9/84efbaae-2846-497f-8bd1-c4c88a7b524b/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 41
 
 secured: "vVRKAc3sFTigiAUjVG+5mtq16N2Qep8bQjEW1LCPTRqSYld6NEWZB1iYm44/A9vpA5wPJWk5Xjgbmhri4+3o5JJrqclYm/99OYM4J7zdDiXZTRAS4P/iRxua71Ta7/lwnPxAZsMhmbr1VUuSsbQHoR0QgRC1YCDlTX9AWdQ0eKpkfCLgUo5s2pP6YTpGrnMQLSpAapIV90HoJ4N8WRGuxxHub4lqe5LZrOpCJaQN590dQS4HDvhhaGMmjGaL68z/BYLPHBNC54cQQJPc7NiU6po9JzzW4+cjtbTnGxGUoJmgSQqC2wm/jzUsjZsN5gN0WzBycWPeX8lzQ3Vg3thK8Aka9SLnOkt77zcNTNTPHeg=;o1metSrOiJ1QeeRmHVVLIg=="
 ---

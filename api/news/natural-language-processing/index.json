@@ -10,7 +10,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-share-business-till-2030-2023-03-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -115,7 +115,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2023-a-detailed-analysis-till-2028-2023-03-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -157,58 +157,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-clinical-natural-language-processing-market-analysis-explosive-growth-opportunity-by-2029.md",
-      "title": "Clinical Natural Language Processing Market Analysis: Explosive Growth Opportunity by 2029",
-      "excerpt": "The report [ 113 pages] focuses on the Clinical Natural Language Processing market size, segmentation mainly covering product type [MachineTranslation, InformationExtraction, AutomaticSummarization, TextandVoiceProcessing],",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/clinical-natural-language-processing-market-analysis-explosive-growth-opportunity-by-2029-2023-03-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/clinical-natural-language-processing-market-analysis-explosive-growth-opportunity-by-2029-2023-03-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-26T13:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {
@@ -1483,6 +1431,50 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-03-11-microsoft-introduces-ai-assistant-google-usm-advances-more-news.md",
+      "title": "Microsoft Introduces AI Assistant, Google USM Advances, More News",
+      "excerpt": "Google Universal Speech Model (USM) for AI Language Google researchers have ... voice-controlled devices and language translation. Google has already used the USM to develop a new speech ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-experience/microsoft-introduces-ai-assistant-google-usm-advances-more-news/",
+      "originalUrl": "https://www.cmswire.com/digital-experience/microsoft-introduces-ai-assistant-google-usm-advances-more-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/e768317140584cc4a0f2f6974e4f445b.ashx",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-experience/microsoft-introduces-ai-assistant-google-usm-advances-more-news/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/microsoft-introduces-ai-assistant-google-usm-advances-more-news/amp/",
+      "publishedDateTime": "2023-03-10T17:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

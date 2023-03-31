@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/global-medical-robots-ma
 webUrl: "https://www.marketwatch.com/press-release/global-medical-robots-market-size-to-grow-at-a-cagr-of-2230-between-2023-and-2028-2023-03-27"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 73
+published: true
 
 provider:
   name: MarketWatch
@@ -29,76 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence AI in Agriculture Market: Latest Growth Research by Top Players 2023-2028"
-    excerpt: "Artificial Intelligence (AI) in Agriculture Market size is being driven by the growing adoption of the robots in agriculture. Increasing consumption and rising requirement of better yield of crops are estimated to be one of the major factors that is ..."
-    publishedDateTime: 2023-03-25T22:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-latest-growth-research-by-top-players-2023-2028-2023-03-25"
+  - title: "Artificial Intelligence (AI) Chip Market Size to Grow USD 263.6 Billion by 2031, growing at a CAGR of 37.1% | Valuates Reports"
+    excerpt: "The global artificial intelligence chip market was valued at USD 11.2 billion in 2021 and is projected to reach USD 263.6 billion by 2031, growing at a CAGR of 37.1% from 2022 to 2031. Artificial intelligence chip market expansion is impacted by ongoing technical developments as well as a rise in demand for artificial intelligence processors and brain chip solutions."
+    publishedDateTime: 2023-03-28T22:39:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chip-market-size-grow-usd-/2023/03/28/9784803.htm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in IoT Market Growth by 2031"
-    excerpt: "One major attraction about Artificial Intelligence in IoT Industry is its growth rate. Many major technology players are [Anagog, Microsoft, Softweb Solutions, Salesforce, Imagimob, GE, AWS, Thingstel, PTC, Hitachi, Autoplant Systems India Pvt. Ltd., IBM ..."
-    publishedDateTime: 2023-03-24T14:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-growth-by-2031-2023-03-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Neural Networks Market Growth Research 2023-2029 with Key Suppliers"
-    excerpt: "Mar 26, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Artificial Neural Networks"
-    publishedDateTime: 2023-03-26T11:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-growth-research-2023-2029-with-key-suppliers-2023-03-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Medicine Market 2023: Growing Opportunities by 2028"
-    excerpt: "It covers industry segments by Types [Hardware, Software, Service, ] and Applications [Healthcare Provider, Pharmaceutical and Biotechnology Company, Patient, Payer]. The report also provides a comprehensive outlook on the Artificial Intelligence in ..."
-    publishedDateTime: 2023-03-27T20:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-2023-growing-opportunities-by-2028-2023-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Spain Machine Learning as a Service Market Report Outlook, Growth, Key Players, Revenue, and Forecast 2023 to 2031"
-    excerpt: "Market Segmentation Spain Machine Learning as a Service Market By Service (Managed ... Augmented & Virtual Reality), End User (Banking, Financial Services, and Insurance, IT and Telecom, Research and Academic, Government and Public Sector, Retail ..."
-    publishedDateTime: 2023-03-24T19:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/spain-machine-learning-as-a-service-market-report-outlook-growth-key-players-revenue-and-forecast-2023-to-2031-2023-03-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 25
 
 secured: "KhMTr1MDx/FB6zOvNm8KWDZFb7jfrwCRpWQdqet+qWpQkVk52+F45a/Y6XH5WfWP6U+DF3vM/3+Tx17j3i93rFraUaD+j8u28rQZqAo3gGMc8FIMoxdAPWNeeZDZ7RBBQdffKXDM5Giq7tmO28dP5k/ukDz6s4iX3F0VZJ+f3/ONmlrcztCqovplvmr5R1rdEWyYAiq4V9X9TuiGT2x6QSylYvC2O+9m3rc2OIBO8M3MdM4hlZUUxJY1BOg4gX5Kyr7+nxq+0Vsl8nj+CV06NdCJHfcY+KxemTl+hUrWjnWMAjUOtPTGwkJVJN9RkL08FcapXGbu3SzavJYmVzXfgxA5e+v8Z6PwbTkbkq37e0k=;TWJMsuT1/DAL0A2Znn7TKw=="
 ---

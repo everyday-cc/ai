@@ -55,15 +55,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "MedTech Bigwigs in Spotlight as AI Revolutionizes Healthcare"
-    excerpt: "Per a report by Grand View Research, the global AI in cancer diagnostics market size was $93.2 million in 2021 and is expected to expand at a CAGR of 28.0% by 2030. Early detection of cancer is possible through AI for screening and diagnosis of cancer,"
-    publishedDateTime: 2023-03-24T17:02:00Z
-    webUrl: "https://www.nasdaq.com/articles/medtech-bigwigs-in-spotlight-as-ai-revolutionizes-healthcare"
+  - title: "Multiple red flags are not yet slowing the generative AI train"
+    excerpt: "The champions of AI have long argued that this general purpose technology will produce an unprecedented surge in productivity and creativity; its critics fear it carries alarming present-day risks and may even pose an existential threat to humanity in future."
+    publishedDateTime: 2023-03-30T12:57:00Z
+    webUrl: "https://www.ft.com/content/89647443-29c7-421f-86aa-5a12af6268c0"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "5giG0VuubbQ+XyqLFCcZ1fp36xJ5yXQKd69fjGLnntqg3h0BsPmIByAHuxVwLcNtqiHmgNh25o5TH98C0uo3lxf668tjKxEfYTLPaYf5Mze4BZRvfOlc9NZDie/iY1gqOpmDFO15DyKtR/YYT2ccFHlrc62FAGvvny0PaCKdZsl1Li2Va27eP5yZIaOmP6s6zLloi9ZMmjTCsHdJylVCRZvFvwx3xSsjmGIgqiTvFTxrjtAyJluSe/bCTvgm9LfkELqwMSVpXmsGQrRrjilUmi8CXNH1xTDB9eqNsNohiBhuvJxDJQwrLKTZ305jCEbkmCcYXzEN66oHU1Jqyj1V+gK54iibfUD0vvoa2Q5Mmi4=;N7RxySBNwoQSu/BwzWM3Tw=="
 ---
