@@ -2,7 +2,7 @@
 name: "Parashift AG"
 overview: "Accelerating paradigm shifts in the financial industry by leveraging new technologies."
 type: "profile"
-heat: 42
+heat: 54
 
 website: https://parashift.io/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "parashift_ai"
   url: "https://twitter.com/parashift_ai"
-  followers: 179
+  followers: 180
 
 size: 11-50 employees
 yearFounded: 2018
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "hSKEKKQ/8VXRTXum1lZChZSWYrFCawlx11jjfAczakUqdDek8L5mx97YuBmnVAyn3E+DUJR2T0oL82qhJXFtR97I0GKDWQkK6aNUvGGnN6W2p2DbVABBzqQw5Nfb3wRo9cTK8I9XrLgCvxGVSbFAqPa/0cYpeq8z2z9uESgwk6YXvJ4+YNwHFWbihoRQXwrH1kvYGEw+wqKMKswp53YNPyc0ZAVIPuWcyBVR3jCw6qdlcdGp0jt4Vg/v1LaTJKIcqs0vrFHLLI06v2AIuQZimtyyLY1OkXfHddW7pqJLafEMpiE30ufFAWq5YXMGoDHa9jzziz1oPGjGXead4HCGvsThAdfi5p1W3EK43GCBPegPHt0XEZBBlOe7jOaPn+ea6V9eUb0Su908roR26JaBLg==;t0Ejn5TCsQ8FGrSUhdBIZw=="
+secured: "GUut97o/BwK5TS+IQdyaax4UNs6eQqWeZq3sDpAcGmmCa9G8ZSKsFUp0dmtrOsC+52s27hRTi/bqnv+kV6noOUminuBdrx6/0RB9ZYen2Z7QPDcWj9n2QhR/7Ui4nQhBLz82dQk21EDdWVh1UzMHyohqVdLQyod3paSHbhTrYT5d2uyfB0JE22k+yesuwti4/usIaFiGgCnbZ/IHYegtMLf8W+5K6/ivbIe0B/u4wKt8QjJn2vBr/+3it4KpILesp3IqUjddJki1Y+acC6Yim9ADwxIcAad3lFKxGR7ajf8WmuevEq62MC9JYNu9GW48e4HqVWrjjnkYeWDv3fwGQ+zyEU/6gTIEu7453Km1E9WE0PxhFiwVd26hLA3ofC4CpwdC65Oi5xR/CU4Dnd3hQg==;xPJWqdqrW+agl6aenr80VQ=="
 ---
 
