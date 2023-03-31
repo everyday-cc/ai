@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Google and Replit’s Quest to Become the Next Copilot X"
-excerpt: "Google Cloud’s partnership with Replit will strengthen its hold in the developer environment space, and compete with Microsoft."
-publishedDateTime: 2023-03-30T10:44:00Z
-originalUrl: "https://analyticsindiamag.com/google-and-replits-quest-to-become-the-next-copilot-x-2/"
-webUrl: "https://analyticsindiamag.com/google-and-replits-quest-to-become-the-next-copilot-x-2/"
+excerpt: "Google Cloud recently announced its partnership with ‘Replit’, a cloud-based integrated development environment that allows developers to write and deploy codes in various programming languages from their web browsers."
+publishedDateTime: 2023-03-30T10:00:00Z
+originalUrl: "https://analyticsindiamag.com/google-and-replits-quest-to-become-the-next-copilot-x/"
+webUrl: "https://analyticsindiamag.com/google-and-replits-quest-to-become-the-next-copilot-x/"
 type: article
 quality: 24
 heat: 24
@@ -35,6 +35,6 @@ related:
       domain: siliconangle.com
     quality: 17
 
-secured: "dpAuFz8849knrmbfm9ruNA4HVJTMdcnxMWfmvG5xUUaJxibEgveu+KMtwuDNMlZ9/ZW9Fz9Y04cDhvd5nRN2c6NTuKfQ8xaXqQoXYIlaGZExXdEbE7equw9GPc03JNKCVHyQyxcE9fSJ99dLQPY/EW7WJmYKvmWVYnWsr8qZTqmwNLm9uuwKEusMiaqCRWZ2OSBsWa4MyPYkcuzFsYXA8Sp152w52vre8sErLluYSwR2TpMOXBQXKHJkkTfYzGEYRgJYxVZGcPObGdu7jdCkOA/NKx7jOYHr51S19V+0hjIH9ff062iQs1GFFT5vujH6Y9Pw/UOG8Chv9EitIxBmjuMz65iYfGLEA7qykY7K1gI=;tmfswbOWqV9pQaruQ6/idw=="
+secured: "SG9taRHJdIqWGD3j4T926B4zD4b8zv2OdWdqIDGVb33lBygEx/pmlS4WiZDlSHgJ/gXMitwkdb9kJWsGX51XOqseunZZDVxNJNyB379wI5HfSXW3vxlrUEdHtd46VdT9isRJMEm9S7T1CpRYYQOBZNQDu2ONR9vZGkWc/mmePO112kqve45Ax9ell6w6ZDBBsxFglqgwR4gu9Ycy8Jo7TWrp1d1prdHroMGIaMEheHFfpGif9JBVX9mKxi8VMR564gQM+MB6yz/9ECnbwiRNebmf0YJTqFlXHe2b7LkoyP4qtrtQ5Yw17OR7TW8lOBwd6nk2Fdgw5VsQyITArvho6w059mXEl8tFNm1fPLy5u1A=;CRgOoISwAx6DImMPDqJzTQ=="
 ---
 

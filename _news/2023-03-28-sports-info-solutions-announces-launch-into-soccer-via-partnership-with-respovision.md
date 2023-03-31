@@ -7,7 +7,7 @@ originalUrl: "https://markets.buffalonews.com/buffnews/article/accwirecq-2023-3-
 webUrl: "https://markets.buffalonews.com/buffnews/article/accwirecq-2023-3-28-sports-info-solutions-announces-launch-into-soccer-via-partnership-with-respovision"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "CSI and Hawk AI Partner To Release AI-Driven Solutions for Fraud and Anti-Money Laundering"
+    excerpt: "CSI, a leading provider of end-to-end fintech and regtech solutions, announced today it has partnered with Hawk AI, a leading global provider of anti-money laundering (AML) and fraud prevention technology for banks and payment companies,"
+    publishedDateTime: 2023-03-28T17:02:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/03/28/9784224.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "UmfBTcHaJJRPFwb4J9UpC7vcbHyY1yWRA2z1c5W3xuHcAwOOHFQ+KxYX7Ir5N4rwNafQtKCE1OZ8gVdQOQwJQAPnfIjieV6nRim0NWlUse2s67d9prVUTgg/d0TB+WAk6gwzh5tyvxNyDjd2nUvGjhoHa93vpU76KwGOqMsIxyiPEY0cN1JnVe/WQ+c9jkOi8w41LpcXv9f6GuImx6CNVtA6QFezJtNQtTLFS+q50gr+XDkSOAgTTWD40vbo4/ptNNH2x7OsUHbBItos87qfAer0VpRGkFdGT8A1oihNcIbquia9XzetLp2M7np7/Rt/T6Cp7etjS3J1JWv3V47BP8nj4Zh3gtdWGPzKIrotBuo=;1GXvQJV4N/hLlh9evLHOnA=="
 ---

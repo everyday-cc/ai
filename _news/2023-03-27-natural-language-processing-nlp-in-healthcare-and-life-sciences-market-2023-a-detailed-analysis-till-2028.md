@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2023-a-detailed-analysis-till-2028-2023-03-27"
 type: article
 quality: 98
-heat: 158
+heat: 168
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
+  - title: "Artificial Intelligence in Healthcare Market [2023], Global Demand, Industry Size, Revenue Analysis, Regional Share and Competitive Landscape"
+    excerpt: "TheArtificial Intelligence in Healthcare Marketreport offers insights into the latest trends. This report provides"
+    publishedDateTime: 2023-03-28T10:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2023-global-demand-industry-size-revenue-analysis-regional-share-and-competitive-landscape-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural language processing (NLP) Market Analysis Geography Trends, Demand and Forecasts 2030| Apple Incorporation, Dolbey Systems, Google"
     excerpt: "Mar 28, 2023 (Heraldkeepers) -- New Jersey, United State: Infinity Business Insights has announced the release of its latest report on Natural language processing (NLP) Market. It provides an in-depth analysis of the drivers, restraints, market dynamics ..."
     publishedDateTime: 2023-03-28T12:13:00Z

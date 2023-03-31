@@ -52,6 +52,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 67
+  - title: "Japan to designate lane for self-driving cars and route for drones"
+    excerpt: "The Japanese government has unveiled a plan to set up a dedicated lane for self-driving vehicles on a highway and establish a flight route for drones for delivery use. The move is part of an initiative to expand digital technologies nationwide. Prime ..."
+    publishedDateTime: 2023-03-31T06:59:00Z
+    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20230331_20/"
+    type: article
+    provider:
+      name: NHK
+      domain: nhk.or.jp
+    quality: 24
+    images:
+      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20230331_20_1237700_L.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Driverless cars ready for hire in suburban Beijing"
     excerpt: "Driverless taxis are now available for hire in suburban Beijing, marking a new chapter in intelligent transport, China Daily reported Monday. Beijing earlier in March granted licenses to Chinese tech giant Baidu and autonomous vehicle startup Pony."
     publishedDateTime: 2023-03-27T06:48:00Z

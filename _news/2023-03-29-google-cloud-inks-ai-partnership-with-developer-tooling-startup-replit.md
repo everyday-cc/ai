@@ -19,9 +19,9 @@ topics:
 
 related:
   - title: "Google and Replit’s Quest to Become the Next Copilot X"
-    excerpt: "Google Cloud’s partnership with Replit will strengthen its hold in the developer environment space, and compete with Microsoft."
-    publishedDateTime: 2023-03-30T10:44:00Z
-    webUrl: "https://analyticsindiamag.com/google-and-replits-quest-to-become-the-next-copilot-x-2/"
+    excerpt: "Google Cloud recently announced its partnership with ‘Replit’, a cloud-based integrated development environment that allows developers to write and deploy codes in various programming languages from their web browsers."
+    publishedDateTime: 2023-03-30T10:00:00Z
+    webUrl: "https://analyticsindiamag.com/google-and-replits-quest-to-become-the-next-copilot-x/"
     type: article
     provider:
       name: Analytics India Magazine

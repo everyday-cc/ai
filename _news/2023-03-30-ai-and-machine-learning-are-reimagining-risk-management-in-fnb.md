@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-30T06:38:00Z
 originalUrl: "https://www.itnewsafrica.com/2023/03/ai-and-machine-learning-are-reimagining-risk-management-in-fnb/"
 webUrl: "https://www.itnewsafrica.com/2023/03/ai-and-machine-learning-are-reimagining-risk-management-in-fnb/"
 type: article
-quality: 36
-heat: 36
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI
   - Machine Learning
 
-secured: "XSdn2dKwHX1GVgH1Om4gQ7VJ/t+ZvenOA8A/aA04GWY6tKkEz0PVSHLKGpuXk+2/uYiHLd9wKyXbqmSafLJsVO3vHnSUSIx72aOND0wq8VbxfwtXYZgrwpOmNhbGCTVrFodw1L27uHXNWDJ/IS/njowHPCH0GPdjVhmTNNdFxNkxPHhUNJBaviReJoUVWwtJdJpO9+xYQOjCyUhAPQ7Kcw/wsAjVeqPKhFL4uQqTUMNLGPlY/VIxigU98aOYEdSjd1TznbcueCaRjrVP9htE85CA8vQt3k9SXHZQqVrvtykbg2waRGcs3OkK+/jjK+510Wzkyp675CijqqPsjM+aaVIsObUW2tbWihci1s+6jcc=;Qq4SKoFxmWkolgqGEUtZaA=="
+images:
+  - url: "https://www.itnewsafrica.com/wp-content/uploads/2023/03/Dr-Mark-Nasila-696x452.jpg"
+    width: 696
+    height: 452
+    isCached: true
+
+secured: "Pru4ycq3fJO4URyoz283kZFLgZF0IWrHAad9nSIs/yzSbX0pgc809y3LoVYvGASjRuibHsH7lDPbp+F+M2I7ozBq/kn4ToxdNN220uDEUUgZihxpoeV8j6aOVqKfp8DxBbztiOt7hZfeeJ/XNp8vU60BU/2BnMqY25JwhR9NO6GEdl/wykf67q8fk1vhbQXRLHF6GiJZYb+8YsHA7JSSeeknJyeKuVfLjLbcBp1K4diuO77Bo0NaL06pQYNN+s6mZIJvOmUOd5VlqTnut7Eg//v29FkM9yT6M8TwmzEPSlHPhzovn+kfYG+WS+tDC6rOU+s0jaoPDBgyEniuDj7fwWPN+da/jg36F5LKCYR0eHE=;zWwr8fNEo0EtBiC6CuCVBg=="
 ---
 

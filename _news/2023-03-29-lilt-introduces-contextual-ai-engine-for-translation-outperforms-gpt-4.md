@@ -7,7 +7,7 @@ originalUrl: "https://slator.com/lilt-introduces-contextual-ai-engine-translatio
 webUrl: "https://slator.com/lilt-introduces-contextual-ai-engine-translation-outperforms-gpt-4/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -20,14 +20,19 @@ topics:
 
 related:
   - title: "Lilt introduces Contextual AI Engine for Translation; Outperforms Google Translate and GPT-4 on accuracy, latency and cost"
-    excerpt: "Lilt, the most advanced AI solution for enterprise translation, today announced the launch of Contextual AI Engine, a new GPT-style model for verified, enterprise-grade translation that delivers superior performance to GPT-4 and Google Translate."
-    publishedDateTime: 2023-03-29T00:00:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/03/29/9785436.htm"
+    excerpt: "Lilt, the most advanced AI solution for enterprise translation, today announced the launch of Contextual AI Engine, a"
+    publishedDateTime: 2023-03-29T13:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/lilt-introduces-contextual-ai-engine-for-translation-outperforms-google-translate-and-gpt-4-on-accuracy-latency-and-cost-2023-03-29"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ode8LYT2p6xGQ++Ft3E671sVvLApd7mm5CbV3+8sVRmrOFi+Q6RBSU2fkqFndnL/1vrQfEJkAJKk3Dy6+e0gwmA6g/zubgXgMJSRb2UApipwKU8MdOq//RQQO4m91R+lzcEhz8DSGdBXbCsghJvyrd5TUACsds3cQgx1IW6g8saR0H4HcGDUnqMpF+mBn9n+62ytXs8xLr/4yUpUd2NjeCbkSAXJbFaa5V0doZHY23Y24oPpKOaYGA09SWzJrb7U9cyX/rJ2uux0AFsGwr7zyOp6QWHnRvPTB/5oQXROADJWsqOeWoQfpp7Tg/m2Vsgh+TulgvHoAgaZKKaL7nWakqqAekR2jG+Fy6Xy/RBaXZuT0OMrduuHGQ09E0RHDRfuVP/RD9exCN/LxT6iMNguhbHoxzYvjVBzuBMoi3T+fU2CI2uJoZvIKQJYwSA16g2P/kh6Acmf293/UgT2RLCEqbtt1Bok/4kwxRVOcDr8v3puxIPVYOqGj/gVKD6AMpO8tpIxb8TrcAzQSNOmecUWjQ==;sWMMf2wXWfMvxwh1R6yIJQ=="
 ---

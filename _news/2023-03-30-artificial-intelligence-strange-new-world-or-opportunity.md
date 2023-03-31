@@ -8,7 +8,7 @@ webUrl: "https://www.lex18.com/news/lex-in-depth/artificial-intelligence-strange
 ampWebUrl: "https://www.lex18.com/news/lex-in-depth/artificial-intelligence-strange-new-world-or-opportunity?_amp=true"
 cdnAmpWebUrl: "https://www-lex18-com.cdn.ampproject.org/c/s/www.lex18.com/news/lex-in-depth/artificial-intelligence-strange-new-world-or-opportunity?_amp=true"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
@@ -19,6 +19,12 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://x-default-stgec.uplynk.com/ausw/slices/143/93a4878cfc9b474598be8dfc4ae03e4c/1437185b0ab440df8827d06759f46062/poster_0f6f4e00cb5642519d8d8bff140d7ff6.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Uncovering new opportunities with edge AI"
@@ -52,6 +58,6 @@ related:
         height: 630
         isCached: true
 
-secured: "DimirOWDYT9+MeXyC5cbBoAZQdSnhCgxd1EapMwY0rk2mNlhASYIcWYEJ5pFSkZ87r5pMvFfoS0RUyi+hxpAgg6ah0wvLqPUWYMDdZqQHw/Omhody2A68I1/10TOOyLk2zjC/XKzsmW4oVolIIVUOTo/ntsXpQWbh4ZhG8o5QKhuXhaM5ByY/gOM52VQFGxED6IiXp3N0hPqaC/wedLoeoOlqcpVn3iVIEbepbr3Oozpa89wp6yKU4kJHDBqwcm7+hofIcroiNOdxXfIK6/K6XcWI7XLmYpl21dNxyLOcDjqxsKGMyIMz2l7UZH+yO+dq9F9x6bK0J2vEvwXS7KcicxTi2SgGCuX8o9Chtnl7/g=;6jRC9MOmVf5SolgcmpBF9g=="
+secured: "QkaCZJx728mN5NUF5S4ea6/+uFEeyxiriwffEI5yRUA04myDku6C9ucfOh6whN5/F9C/PMKuHTu3vEyV3s6gy6cM3zOH6iaKCVGlH7+jDGma05RwMzOz9RjawtV0aKyWeCDGWSPgAGEUhsZnGKbHxS1NwAAIi06wyFyKRvPzq1ceOv7IV5egyEqIic4aAvWDsMQQyI363BqowsdyiWz0MN5uqy4HlHyconwV9W4y2HUOngk65Ylm/Z5hlJTqtTqRZ7HAZ4Q2SxnS0xPl2ht5A9m0Yvc5LmWyEpzu8eaxhbUYpK08f3W3FREVumY/CxAnD19jLydFqUW1Xd8K6jA5v+9wm/gc00cJ/01hR7sB4QQ=;YAuJtlWE0Duq7AMS4tmcwA=="
 ---
 

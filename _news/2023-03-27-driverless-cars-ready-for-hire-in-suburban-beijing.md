@@ -60,6 +60,20 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "Japan to designate lane for self-driving cars and route for drones"
+    excerpt: "The Japanese government has unveiled a plan to set up a dedicated lane for self-driving vehicles on a highway and establish a flight route for drones for delivery use. The move is part of an initiative to expand digital technologies nationwide. Prime ..."
+    publishedDateTime: 2023-03-31T06:59:00Z
+    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20230331_20/"
+    type: article
+    provider:
+      name: NHK
+      domain: nhk.or.jp
+    quality: 24
+    images:
+      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20230331_20_1237700_L.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "4T2vfBjGAzRfaIV6D9r/TZX8hJsp7D3yow5TcPBf3UYbPVNwtykUVi/POEUA/xJtFqo4EuYWY3eXc52w0NjK1YUHRnWRhRDEbFu27WWqD28lTGnD92cnYFGeTDftTqFMWXa4XJE0Wo15je1j9VZNPgyQDeiyTToURqouad3+KPwxIy3QAKwHRZ404q5vRApibKakQ0Xch0c0Y8hNZym9hh8RByBS1t0d/yqU3gPMpx8tvca7cI32qsrqkz3cZd16PMv390ptrb6LGf/thIhEM7RjJVdvE64Y24zKmiy0NzlHAlKsnfHabyXExFb1/BXR/2ObQpbApAgp4AIpREu7uo/8Y67h6nrzmqPeYU482AZF3E9NPstWXS6QBZ4FNg1FmM4l2+GM3vjbDHgP7WW9kVh95gFKJrxCpJpPZKYAeRvgT8nrWH4hYrZrh/ZAgac7n72PjYgBKdFSjQe2KjY52c5LBSM/aXQuwBAFVp7hl9+HJAH264K8vYnydJd3rdWoh99Z6uQGrrNJ7argO6hBHw==;moYSd43HCXY8pPmafoUKBw=="
 ---

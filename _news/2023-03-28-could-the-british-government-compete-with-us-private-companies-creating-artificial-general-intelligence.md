@@ -27,15 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Global L1 Self-driving Vehicle Market 2023 [Intelligence Report] | Gain the Competitive Edge"
-    excerpt: "Global L1 Self-driving Vehicle Market Status and Prospect | New Report [2023-2030] of 115 Pages | Industry report"
-    publishedDateTime: 2023-03-28T10:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-l1-self-driving-vehicle-market-2023-intelligence-report-gain-the-competitive-edge-2023-03-28"
+  - title: "The problem with artificial intelligence? It’s neither artificial nor intelligent"
+    excerpt: "Let’s retire this hackneyed term: while ChatGPT is good at pattern-matching, the human mind does so much more writes Evgeny Morozov"
+    publishedDateTime: 2023-03-30T16:34:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/mar/30/artificial-intelligence-chatgpt-human-mind?trk=public_post_comment-text"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/mar/30/artificial-intelligence-chatgpt-human-mind"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/mar/30/artificial-intelligence-chatgpt-human-mind"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
+      name: The Guardian
+      domain: theguardian.com
+    quality: 52
+    images:
+      - url: "https://i.guim.co.uk/img/media/f0e8868552d7e05cfb940313d4a2e39a75c1ae24/0_120_4000_2547/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=a9865f80773b35dce1612a42c159b755"
+        width: 620
+        height: 395
+        isCached: true
 
 secured: "3WwngKIqVyEKUYezJwTrbPLV3oJPP6aJuhhK+2MBbaRJCegQLVjgnS9M04ccQrexjNh/Ik4XnY45PpV8Fr2DjlXrNlLYXAgyaCP3i+I+HYkZKk3G10tYUpM1uq8rfdyN3aBZiLw4OCwPDDOmoZ7orIX4sVG/CTa5U7EaYxODir5eroYRJ8HESwVHbBOextlFvtbqF2210tXz3HNkSKx1PbwVetGvhrCFdMNiofYfhOwhe2K1mWRN7QWLII3Yyb1xPTS+rNxBA2E3WZjeenX82g18TsmlkrH3Laz+HKQQwIDvpQAjQCuGrvU0lrq7nCAfXMV3v/3j8/WiCg/w9jMPsY/+bGLFuGU3tyVACcHxi0w=;krQ2XB8MisujME89qcjulQ=="
 ---
