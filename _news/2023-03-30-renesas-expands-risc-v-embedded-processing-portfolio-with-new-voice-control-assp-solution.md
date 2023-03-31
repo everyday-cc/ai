@@ -2,13 +2,10 @@
 category: news
 title: "Renesas Expands RISC-V Embedded Processing Portfolio with New Voice-Control ASSP Solution"
 excerpt: "Renesas Electronics Corporation (TSE: 6723), a premier supplier of advanced semiconductor solutions, today extended its industry-leading RISC-V portfolio with the first RISC-V MCU designed for voice-controlled HMI (human-machine interface) systems."
-publishedDateTime: 2023-03-30T15:15:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-renesas-expands-risc-v-embedded-processing-portfolio-with-/2023/03/30/9786236.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-renesas-expands-risc-v-embedded-processing-portfolio-with-/2023/03/30/9786236.htm"
+publishedDateTime: 2023-03-30T15:34:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/03/30/9786236.htm"
+webUrl: "https://it.tmcnet.com/news/2023/03/30/9786236.htm"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
   name: TMCnet
@@ -18,6 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "izuYPWOX2S6//ojCbsX+rAmjWcOxEYlgaN6jpuDhiTeZ62cgyS7U+enRQVYqi3x7+QmzJVU3nwSEeiX19+P1AOhxy1Hp6mSIJSa4UlTM7WH2lR5TA6l1Y0yHM1ntViqzIwj3ea5Ds/8TpOFnf0HmJmlzvZvGYV5BmxJbkMpq6WPuKb6TU53JN5YGNJWX63ZuT+15jjCqazWnP4exZtlDbOLOY6MDDxxoL4VUpauWJX4TdXBPNkcwzNlG9RQ+hwAop+vao/+SAn+raKML8ys9OFmcGCbVZGMKoIqWvZ7AXBUJjbwy53bwdeeAmLrpp6npBaugfCnGK395WDn1JD8o2LYNtijctNcv/qgvGLPs4khaKGqDNI2965m/FiFrlpzY5R8JjaKwOQh2zaJu3upbRPPdty2ItAmSckF2r+vwB8V+p7Gi7CgVW7mebTjrQavwEYG9gEXl8BK483vKtIkaGKDTTVlHHsjSNr2aTpEs4QOICyUFTOr0fUUwO4lYzFXPc0dQkw5UpVs2R2qHG7XBAg==;mspv/IOC+ufFNi5pc8ZxyQ=="
+secured: "b4t96Clb9nTXbtB2+VWJskwsawOZuVSDKkIPOR8dCUiYhLtb9Wjrc8cRanTKZPvM5AdHNKyk9HCu81fR2bgQIXh6bVfjRfAnXoYILjTb7j1yW4dxOQClYI3Mo8hEpO+IJwJuQqCPfPZpy3s0KacLS2JtLP1Q9VuR0aW+rtAZZ4l6Xe2heHitS6EZMs0og+o2im2YinT1NZoiXtcKZA9I3uvNQUht+eqQ+D+inxI6t5iPCg5VJ0/EXE17U8MmpteUB78Q8fbe1GfdQ5dj4j70AKEJ67ZOv6st+t/6OszCSJ7SH37L93Xyuq4ucOiWCfDYkkaG2rnxATpD0sZulf5fHfGTAMbdLZFYfNSwgmHLCsTF16KRmgK3DoBOiTLrIblUQ9N0oxFwfJq7PYxchLgglVKrujLsIb0WYwRog/oj3s/+e/7bo1sPTxymOu+uOTLrtocMnA1XRUTgDHtQYd637cGjzWzRwLPe/npDjGvcsstL7yHfnypFi+xlc5kjLS9C02Kc37gTX9NDQ4ZGlFO2lA==;eVGeasTHwHb3ouu7B2C7MA=="
 ---
 

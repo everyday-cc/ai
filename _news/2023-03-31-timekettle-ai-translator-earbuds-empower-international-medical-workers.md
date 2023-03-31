@@ -1,29 +1,24 @@
 ---
 category: news
 title: "Timekettle AI Translator Earbuds Empower International Medical Workers"
-excerpt: "Language barriers lead to a lack of unanimity on cultural identity and understanding of medical professionals and patients, which can result in miscommunication and even misdiagnosis by medical professionals. Timekettle's world-first AI translator earbuds ..."
-publishedDateTime: 2023-03-31T12:01:00Z
-originalUrl: "https://www.asiaone.com/business/timekettle-ai-translator-earbuds-empower-international-medical-workers"
-webUrl: "https://www.asiaone.com/business/timekettle-ai-translator-earbuds-empower-international-medical-workers"
+excerpt: "The four-day event brought together medical experts from over 30 countries to share their knowledge and expertise on the latest trends and innovations in dentistry and spinal care. Language barriers have always been a significant challenge for such international conferences."
+publishedDateTime: 2023-03-31T13:44:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/timekettle-ai-translator-earbuds-empower-international-medical-workers-1032206719"
+webUrl: "https://markets.businessinsider.com/news/stocks/timekettle-ai-translator-earbuds-empower-international-medical-workers-1032206719"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Mar2023/Timekettle_products_provide_language_support_medical_professionals_13th_Global_Implantology.jpg?itok=lwmn3zph"
-    width: 600
-    height: 450
-    isCached: true
-
-secured: "L0C30lA5L7DzM4z54ZboEnHG/fDKd7Y58otnI8O6e3+CAn1NwxH5j38A6lIY3lFoQeWMLUjgGjgDR0qHptV72X11Kf2i2heTRDAa2ss92ZmqekApuUGfC9C3/+hhJOv6bghtWkr3OpJqNTCbqqotE9v4knmcOV3U1X1uR90Cqnyte0QkuGjPmjjsrnylnM88hKLkHpFpzwNjROF811++cfS9JA2DEyhmOtXccxPHjnG5fSEVBdc5mXmlLM/1LEk+ZjiLTnQggqbqdWW4fNvtPf/PPxrKDATBjU6G0O0jVBDcZE/HWVerOR6iCwpwFA3U+rrmRJH8neIusMopBdC7mkYm7EBfAeDIxtOS/eOYaPvKai7ALHF7QeLBEy9oF0+wsP5JEiXO+/1U6Wca8XuH408oIdXuPdy0x7ZSGVt1Nv2XP+pkcacPZHtKIRPPDOvZs79dG2BhL6OqsJG2XLigAXjP/1ZHwGz/0U8sB2bTOJExeisUSjD+QwhkSIh72x4ki7OUcJygxopJ/Pjmf0xiMQ==;3Kcc1xz63OwXuhLDYKOCaw=="
+secured: "LpjOz5RuLj4SleE8ma5vjdFRSv2MsDXLFdm6gl1QuOG+SFTFBkNnQ2kzANo1wdWPsMDUSMfiJ2/Ux0JIXC1ue/QtiTuc8OM0PXLKqPz1czaBgOYwrRJtTVsk5XorIwwipAtS2UIayHm9+1Pd1LA6B7S8EzRitHcxUiEAdJQF9FEhBsoxNq1j7O+WyPLfWQhYf6dcQlLsd6KuZZu5nkdPmHHUNm3Vlsk1ShEMrkI747hkdsEw5KW9TTcgshj4SBPZ/uKogk4kiYXM/oUDuKNDtWKR8/L62pU5POz4ru/GWecUg4K3QAMTCZ986ZBEk9c6xK8Xxyk07ne2uae6CgAjnzdzckYCeJaMGh5hmbpfQErz1pH0BcxD98FpF4LKrb1Soua02bgNfZsh6+JRaZnto3j7KLNPfzLt6qiGsKuO2Yxm/7URfq6p9YkXqhv2x2wtd2U1A1PVl6YgV1NSG11fuk4eTE2NayW/yYVu5cvJ8q71VgWVGbrfp7dp/hFYNcefISpekZUzK+znx8BDbFhVOQ==;CBupLmVk3iTv1DDdxbY3YQ=="
 ---
 

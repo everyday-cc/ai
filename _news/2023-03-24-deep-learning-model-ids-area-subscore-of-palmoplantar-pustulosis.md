@@ -1,28 +1,20 @@
 ---
 category: news
-title: "Deep learning model IDs area subscore of palmoplantar pustulosis"
-excerpt: "A deep learning model can accurately evaluate the area subscore of the Palmoplantar Pustulosis Area and Severity Index (PPPASI), according to a study published online Feb. 23 in the Journal of ..."
-publishedDateTime: 2023-03-23T18:01:00Z
-originalUrl: "https://medicalxpress.com/news/2023-03-deep-ids-area-subscore-palmoplantar.html"
-webUrl: "https://medicalxpress.com/news/2023-03-deep-ids-area-subscore-palmoplantar.html"
-ampWebUrl: "https://medicalxpress.com/news/2023-03-deep-ids-area-subscore-palmoplantar.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-03-deep-ids-area-subscore-palmoplantar.amp"
+title: "Deep Learning Model IDs Area Subscore of Palmoplantar Pustulosis"
+excerpt: "A deep learning model can accurately evaluate the area subscore of the Palmoplantar Pustulosis Area and Severity Index (PPPASI), according to a study published online Feb. 23 in the Journal of Dermatology."
+publishedDateTime: 2023-03-24T07:00:00Z
+originalUrl: "https://www.physiciansweekly.com/deep-learning-model-ids-area-subscore-of-palmoplantar-pustulosis/?pagetype=dermatology&pwpagesubtype=dermatology-latest"
+webUrl: "https://www.physiciansweekly.com/deep-learning-model-ids-area-subscore-of-palmoplantar-pustulosis/?pagetype=dermatology&pwpagesubtype=dermatology-latest"
 type: article
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Too Old to Operate
+  domain: physiciansweekly.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2023/deep-learning-model-id.jpg"
-    width: 800
-    height: 599
-    isCached: true
-
-secured: "AuPqU1DbPge8gyCOr80fptpvC16mi4SY7LasCCyimlQFSCiaI7tuhG2pgrZDU4GaA8pHxumxhoRErrAe1uai3AllTobH0c7XdXGFxKFKnPgF2GrnAvINdiFApOndDx01YwbgEtl5tdScgJSUnzJx1jIaiUt2mj8BDE32AtqH/vlMa2d//wR7uOUaELjpxRAXP2lTd31an/Q6OyIC9sqyy/iwv0QwnoxP3aUjxniERv6AYolZVB9UkDEJv6vx0k3fG/7hXCFizweJvAAvfPLyZuGMKOHsiMgT2FFW7/F68Y+j0FU2Kz+T+nDuFpV2fMTKiJgNO6heA9qVoshiJMR7zcQCUMKy/+FLKMGTlQYgyyw=;ySn3dcoqnVAuxvjUYDlUjw=="
+secured: "nRfz0EXS+rYhv3iHsF14hkkYnNMzs8aALk3AO7r/SASFUg7hLwLML3fdh4W/ifYxo7buHfgVhcB5osxkKV0XO5tjZ5XR796PerN6r0bvW1TJhDr6RZsnAco+iG6EkIWaPz/nHsCkhCUmkdmb+50zPk0AayQtJDPjZ7DsqDPJDs1WF3G/BRID4DrfXRfTNMX8uz+682h0Cpcz2IUv9kKg7s/t5DdpsfsNDK6vs7I5N6D/8P3iVhb9iTL0JpcIe2yqon5pdRpBg7QuXVNCEEn0wiSeUGYCAsWuL3Ptiy4QwCt8Hp7AsDzBxduuEJwtLpcJ2OjtqdGLXqTJYHONrKL2Tx5WWILnmSY9/9qPR/qpNflxuI3yvLhTQnHGqjUyG9XLFydir0NLqQY9ztSe3Bb5I0YDW5qLoOqA4tYtWSjsJHQMMGBn5GMmeTEng69izQipoqrQJpFWRWyWNE/6z/zTotOhQSh/Xnil184xzEMNPFfHiUQHrWlzxjZ+4mvWech6u+tPta3JE6jWDwMbJrv98Q==;yFsp+Uxn9lzZH1/ZIDLFjg=="
 ---
 

@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - AI Hardware
+  - AI in Healthcare
 
 secured: "CYkSeYDij0G35BnOHiB6oDJO9bP69lSOZipZIuwXXZI7kuSfSJ01mbFxw3r/Hq+P1KsfOUCh/kzLgbNJ1e0gGuEMMVRsiaiyfTyquIuzfPE6j/IM5CTeb/r+OkcDpmRP8O2TZw54oorbShlimFNhBWjvaidLql92bJEiSub/DnxPJvazTpM3LrxMWg+bw5eB2yqGak+f8xqBoN/aTrDCEErRTDXh+hidnSVy/Mb8IhYnLiq667Fnifsag23/UzZWV/VKnCaxEsNBuLe3OEjRQpZShT7m1l9XZFbZl70dtBR9Ngf0hmFLHEeJf7zOND+G/+5ivwThIci0UvfCYiK6eBFNk3mjOn/Au+xrxnoZ3OY=;vidI8y1RO5xiPjVDGIg5Dw=="
 ---
