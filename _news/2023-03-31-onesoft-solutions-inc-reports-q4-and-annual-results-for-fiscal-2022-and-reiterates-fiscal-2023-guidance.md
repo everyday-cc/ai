@@ -6,9 +6,6 @@ publishedDateTime: 2023-03-31T11:18:00Z
 originalUrl: "https://www.eagletribune.com/region/onesoft-solutions-inc-reports-q4-and-annual-results-for-fiscal-2022-and-reiterates-fiscal-2023/article_6658c856-c78c-5e0a-8414-223a79e51e53.html"
 webUrl: "https://www.eagletribune.com/region/onesoft-solutions-inc-reports-q4-and-annual-results-for-fiscal-2022-and-reiterates-fiscal-2023/article_6658c856-c78c-5e0a-8414-223a79e51e53.html"
 type: article
-quality: 7
-heat: 7
-published: false
 
 provider:
   name: Eagle-Tribune
@@ -18,12 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
-    width: 600
-    height: 333
-    isCached: true
-
-secured: "7/gUKy8lUv0ZybuWmY0orSQawFG94WawA05a9itMlb8fQs5B8GmPVS7xY/MdWEOj0SDpHV+C/qsw+OU6kiWjVern4edwQIKN3q+W6i2qoLuceNu6Z9LlWjlc/kE3eb82WwgRqs5Fvd//5vIO4Ln4/jPWL9VqaOOx2o4v1i4a5D0bFjmVvD0HX/MLO/h89w9pJqmiVsei2UedlkLE3zT0xdhZtiEA4CloDxXQ45g1AuSoSaoPL7liQ5IswPUlT6gCCljD94crFDh0ESvs2sAauQyYAHZS9TPV6G4TgzkcBvA575NFO+wesHlU+sWqBAH4z48UEZ2LtcD3kX4a/hLDrCEWdroIKonFUfFkq1WFNAU=;L/w4k2CiSXXn6hYOO/NfzQ=="
+secured: "ie+vX3QLnSGCkiGstDVy0R0Y8RCAZtLShEXb4UDaAh7KQp2mA1M21MizmRj8w/U7Ch3SaZcQRZsOkLwkUOa4BwPezoORz1f+FdQvbDYFGBE3L2weWOY3a9FSiSCyxlml1OYB14YsUGreyGwiSxobye4lCk/k4vnaTW2XvfwbT4KHbZfSyg64SE2Dr0bnzbkRB8/d9ehDk1hkRCGGu/vfIL7A9R/VyyFdgHRoljeqXx4qJMU7GORCw0p1Ge3r8mzdbqn67hHkdBreesnd861Gs1bSi6ZNj73fCthlmeIcUDJg6QAQ5viZ74ycMZUbYBLp6VuKUVz8oIVga0eu/n+Ik7bdwsmV6SwTyX0Ir5evqqg=;V0tyokrCJbQe/b8Qkb694w=="
 ---
 
