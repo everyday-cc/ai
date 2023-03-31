@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/global-medical-robots-ma
 webUrl: "https://www.marketwatch.com/press-release/global-medical-robots-market-size-to-grow-at-a-cagr-of-2230-between-2023-and-2028-2023-03-27"
 type: article
 quality: 63
-heat: 73
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,15 +29,71 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Chip Market Size to Grow USD 263.6 Billion by 2031, growing at a CAGR of 37.1% | Valuates Reports"
-    excerpt: "The global artificial intelligence chip market was valued at USD 11.2 billion in 2021 and is projected to reach USD 263.6 billion by 2031, growing at a CAGR of 37.1% from 2022 to 2031. Artificial intelligence chip market expansion is impacted by ongoing technical developments as well as a rise in demand for artificial intelligence processors and brain chip solutions."
-    publishedDateTime: 2023-03-28T22:39:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chip-market-size-grow-usd-/2023/03/28/9784803.htm"
+  - title: "Artificial Intelligence Delivery Robot Market Report | Global Forecast From 2023 To 2030"
+    excerpt: "The Global Artificial Intelligence Delivery Robot market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2027. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-03-29T23:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-report-global-forecast-from-2023-to-2030-2023-03-29"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Platform as a Service (PaaS) Market Report | Global Forecast From 2023 To 2030"
+    excerpt: "Market Updates(360marketupdates.com) published a new research report on Artificial Intelligence in Platform as"
+    publishedDateTime: 2023-03-28T11:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-platform-as-a-service-paas-market-report-global-forecast-from-2023-to-2030-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Governance Market Analysis Report | 2023-2029"
+    excerpt: "The Global AI Governance market is anticipated to rise at a considerable rate during the forecast period. The market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-03-30T00:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-analysis-report-2023-2029-2023-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+  - title: "Global In-Vehicle AI Robot Market Is Anticipated To Reach US$ 190.7 Million By The End Of 2032"
+    excerpt: "(MENAFN- Ameliorate Digital Consultancy) The in-vehicle AI robot market is a growing industry that involves the integration of artificial intelligence (AI ... Optimus Ride, Waymo, AutoX, Bosch, Morris Garage, Nauto, and Predii are among the leading ..."
+    publishedDateTime: 2023-03-28T17:49:00Z
+    webUrl: "https://menafn.com/1105884848/Global-In-Vehicle-AI-Robot-Market-Is-Anticipated-To-Reach-US-1907-Million-By-The-End-Of-2032"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 44
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?653119"
+        width: 570
+        height: 250
+        isCached: true
+  - title: "Global Speech and Voice Recognition Technology Market Size 2023 to 2026 Size and Share Survey Report"
+    excerpt: "Global \"Speech and Voice Recognition Technology Market\" report provides a thorough examination of the present and projected situation of the sector. The research offers useful information about, among other things, the market's size, share, growth ..."
+    publishedDateTime: 2023-03-29T04:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-technology-market-size-2023-to-2026-size-and-share-survey-report-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "KhMTr1MDx/FB6zOvNm8KWDZFb7jfrwCRpWQdqet+qWpQkVk52+F45a/Y6XH5WfWP6U+DF3vM/3+Tx17j3i93rFraUaD+j8u28rQZqAo3gGMc8FIMoxdAPWNeeZDZ7RBBQdffKXDM5Giq7tmO28dP5k/ukDz6s4iX3F0VZJ+f3/ONmlrcztCqovplvmr5R1rdEWyYAiq4V9X9TuiGT2x6QSylYvC2O+9m3rc2OIBO8M3MdM4hlZUUxJY1BOg4gX5Kyr7+nxq+0Vsl8nj+CV06NdCJHfcY+KxemTl+hUrWjnWMAjUOtPTGwkJVJN9RkL08FcapXGbu3SzavJYmVzXfgxA5e+v8Z6PwbTkbkq37e0k=;TWJMsuT1/DAL0A2Znn7TKw=="
 ---

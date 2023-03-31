@@ -34,19 +34,19 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Machine Learning Executive Talks Rise, Future of Generative AI"
-    excerpt: "Keegan Hines, a former Georgetown adjunct professor and the current vice president of machine learning at Arthur AI, discussed the rapid rise in generative Artificial Intelligence (AI) programs and Georgetown’s potential in adapting to software like ChatGPT. The Master of Science in Data Science and Analytics program in the Graduate School of Arts & Sciences […]"
-    publishedDateTime: 2023-03-27T20:41:00Z
-    webUrl: "https://thehoya.com/machine-learning-executive-talks-rise-future-of-generative-ai/"
+  - title: "Generative AI Tools Use Custom Data to Power More Business Functions"
+    excerpt: "Tapping industry-specific data in areas such as financial management or marketing provides an edge in a crowded AI market, analysts say."
+    publishedDateTime: 2023-03-30T15:51:00Z
+    webUrl: "https://www.wsj.com/articles/generative-ai-tools-use-custom-data-to-power-more-business-functions-2f158dbb"
     type: article
     provider:
-      name: The Hoya
-      domain: thehoya.com
-    quality: 56
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://static.shareasale.com/image/113278/mia-banner-ad-6.jpg"
-        width: 720
-        height: 300
+      - url: "https://images.wsj.net/im-753646/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "How AI is Creating Explosive Demand for Training Data"
     excerpt: "Artificial Intelligence (AI) has rapidly evolved in recent years, leading to groundbreaking innovations and transforming various industries. One crucial factor driving this progress is the availability and quality of training data."
@@ -62,15 +62,6 @@ related:
         width: 942
         height: 600
         isCached: true
-  - title: "Academic unit at BU adopts guidelines for use of generative AI"
-    excerpt: "At Boston University, professor Wesley Wildman’s Data, Society and Ethics class has made a critical first step toward addressing those concerns, crafting a policy that guides how both students and instructors should use advanced AI. BU’s Faculty of ..."
-    publishedDateTime: 2023-03-28T09:01:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2023/03/28/colleges-setting-guidelines-for-use-of-chatgpt-ot.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
   - title: "New Report Details How Generative AI Impacts Work"
     excerpt: "Aberdeen's latest research offers insight into the ways professionals use generative AI today, as well as how AI might affect work in the future."
     publishedDateTime: 2023-03-29T15:11:00Z
@@ -99,6 +90,6 @@ related:
       domain: tmcnet.com
     quality: 6
 
-secured: "bQ6EKy9D6WZtasNYi1xHJb4FOHXwf1npRKS+ZgnLLNur26Y5/RHZaB+SX3y/NrRS57c47UUbAGf+TdTFjWONY8om8WieBaLT4iU/eXLbH/yAdADqE6HPyGSbjMO+OJxEvqioKikT8sMYwz0rKHodUEPhMpZgakwwddCKTw9WlUaA7fQv1KNsA65iMnsYrF3vElG0zYD9UXpAcrsPZoCJST30P1wAGbxcIopqlvESRc9s1K687M+FelwlVTzuhM47rfvBc9XaVz9nvGL56dqC6PpM3bL/TOsuODCa4ibvB4JI+nclOg1txzPk+x7uku7Fnf0XdqU7XpJTJdWeEYi5yx6SjOTOJPe+mzjz/vxS7WA=;QSjjR16J7Vq6D5p5w9dG6Q=="
+secured: "Bl3JWZGiGDFTpb3zn5dVgHaLIBK0bzqyt0m2zUhB1KGedJWnXUC/E9UYXbVu06Pree46vi918b0TmbeScyYDkLfaaNcyqUEMR1ypoWIb6zubMuGBKuS7mNbJpbHdYZUU8md7kS5FZci/hyEBPm0FJ2p8O1eAu1WtO+9jn15Q660VR7U3pm7puDGqUwSaUuZxdR2Y5UZPXdU69+gHKPb1+CmJVXKN+85/utCVSvhRIGAb6gl29GynyOrGcetnbKmIEmc8r9Era6HPEt6aR7Qj2mtQUE3rdBTiFgrYKceWg6owCFQhHh/sVJvRPHndrRsYi12ti+R3iptcqISw6CUgcT0uvMad25I5kus7Qa62JR7EWdJdipoOCHjxvhZ1UbMSM2JAnQkWSiiP82qO/G9890nxB3dyOXqX1gXu0o+IsDhPZUmiJLnPuetoRKkXj1i4dnWB9SjMviHfm9Lf7qm4o57CR8FHweftK0ffKQwwtTOCcXToxrQyZfdLCpEBebwUpD1MW0bo21B76V1qMNviyA==;GdvKgXdUVaNWaE2Mig0FDg=="
 ---
 

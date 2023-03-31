@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/03/generative-ai
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/generative-ai-set-to-affect-300-million-jobs-across-major-economies/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Major Cloud Providers Seek to Rejuvenate Sales With Generative AI"
-    excerpt: "Microsoft (Nasdaq: MSFT) and Google are investing in generative artificial intelligence tools to drive revenue performance in their cloud businesses, The Wall Street Journal reported Monday. Sources told WSJ that Microsoft CEO Satya Nadella has discussed how AI on the Azure cloud platform could help companies improve efficiency through presentations at the company’s sales meetings."
-    publishedDateTime: 2023-03-29T11:00:00Z
-    webUrl: "https://www.govconwire.com/2023/03/tech-companies-seek-to-address-slowing-cloud-sales-with-generative-ai/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 36
   - title: "Generative AI set to affect 300mn jobs across major economies"
     excerpt: "The investment bank said on Monday that “generative” AI systems such as ChatGPT, which can create content that is indistinguishable from human output, could spark a productivity boom that would eventually raise annual global gross domestic product by 7 per cent over a 10-year period."
     publishedDateTime: 2023-03-27T16:30:00Z

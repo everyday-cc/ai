@@ -91,20 +91,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
-  - title: "Speech and Voice Recognition Market 2023: Growth Trends and Opportunities by 2027"
-    excerpt: "Mar 26, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Latest “Speech and Voice"
-    publishedDateTime: 2023-03-26T12:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-2023-growth-trends-and-opportunities-by-2027-2023-03-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Market 2023: Growing Opportunities by 2028"
     excerpt: "The global \"Facial Recognition Market\" research study presents an in-depth analysis of the market's revenue, size,"
     publishedDateTime: 2023-03-29T04:59:00Z
@@ -132,20 +118,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
-  - title: "Global Speech and Voice Recognition Technology Market Size 2023 to 2026 Size and Share Survey Report"
-    excerpt: "Global \"Speech and Voice Recognition Technology Market\" report provides a thorough examination of the present and projected situation of the sector. The research offers useful information about, among other things, the market's size, share, growth ..."
-    publishedDateTime: 2023-03-29T04:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-technology-market-size-2023-to-2026-size-and-share-survey-report-2023-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Electric Vehicle Market To Reach $823.75 Billion By 2030 With Development Of Self-Driving Electric Vehicle Technology"
     excerpt: "Furthermore, factors such as technological advancements, proactive government initiatives and development of self-driving electric vehicle technology are expected to create ample opportunities for the key players operating in the electric vehicle market."
     publishedDateTime: 2023-03-28T05:22:00Z

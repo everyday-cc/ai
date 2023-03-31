@@ -202,6 +202,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 59
+  - title: "UAE: These jobs will be decimated by AI, automation, ChatGPT"
+    excerpt: "Millions of jobs will bear the brunt of advanced artificial intelligence. Technology and HR executives ... Lastly, jobs of drivers will gradually disappear once driverless vehicles become the norm in the UAE,” she said. Nicki Wilson, managing director ..."
+    publishedDateTime: 2023-03-31T05:34:00Z
+    webUrl: "https://www.zawya.com/en/economy/global/uae-these-jobs-will-be-decimated-by-ai-automation-chatgpt-pd99nr3m"
+    ampWebUrl: "https://www.zawya.com/en/economy/global/uae-these-jobs-will-be-decimated-by-ai-automation-chatgpt-pd99nr3m?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/economy/global/uae-these-jobs-will-be-decimated-by-ai-automation-chatgpt-pd99nr3m?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: "https://static.zawya.com/version/c:ZDA5MDJlMTMtZWQwMC00:NTc0OWVk/openai-chatgpt.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
   - title: "I made ChatGPT talk to itself - and the results weren’t what I expected"
     excerpt: "My approach to ChatGPT and its burgeoning (and possibly career-threatening) success both within the tech industry and beyond our little digital bubble has been largely the same, with some small alterations."
     publishedDateTime: 2023-03-27T06:00:00Z

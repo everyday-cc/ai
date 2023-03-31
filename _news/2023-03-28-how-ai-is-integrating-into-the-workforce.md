@@ -40,45 +40,6 @@ related:
         width: 1200
         height: 804
         isCached: true
-  - title: "Adobe Jumps Into The Generative AI Race With Firefly Creative Support"
-    excerpt: "Last week at Adobe Summit, the company announced its first generative AI service, Adobe Firefly. Analyzing Adobe's offering and the overall generative AI landscape. What should Adobe customers expect and when can they gain access to the new services."
-    publishedDateTime: 2023-03-27T14:47:00Z
-    webUrl: "https://www.forbes.com/sites/danielnewman/2023/03/27/adobe-jumps-into-the-generative-ai-race-with-firefly-creative-support/"
-    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/03/27/adobe-jumps-into-the-generative-ai-race-with-firefly-creative-support/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/03/27/adobe-jumps-into-the-generative-ai-race-with-firefly-creative-support/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6421aa2b32ea51d1c18a9f03/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Nvidia Harnesses AI Power to Optimize Chip Design and Performance"
-    excerpt: "Nvidia has revealed new research demonstrating how AI can be utilized to optimize chip design. This groundbreaking research could potentially change the way chips are designed, ultimately leading to improved cost, speed, and power consumption for the ..."
-    publishedDateTime: 2023-03-28T13:58:00Z
-    webUrl: "https://www.gizmochina.com/2023/03/28/nvidia-harnesses-ai-power-to-optimize-chip-design-and-performance/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 84
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/03/nvidia-harnesses-ai-power-to-optimize-chip-design-and-performance.jpeg"
-        width: 1098
-        height: 732
-        isCached: true
-  - title: "Deep Dive Into Generative AI and What Will Drive Tomorrow"
-    excerpt: "While the banking crisis may have interrupted funding flows for a limited period, the hype cycle in generative AI has momentum with staying power."
-    publishedDateTime: 2023-03-30T14:06:00Z
-    webUrl: "https://www.law.com/nationallawjournal/2023/03/30/deep-dive-into-generative-ai-and-what-will-drive-tomorrow/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 21
 
 secured: "UStFV2HwIth05gOr4AaoeMO0AuW8u8kOkXtNiEbSVS8vqEqThdUUQf1KkfcH0Q5RoMTrSCyqNE2RteW8e2Bz6bv7kRHRfngy8bQaLxfemZNsg8pHc7DJCeQVLPlMFtbeovPYnWZD5Cf6pgiRs6/OpyT3/sTPFd0uU1c7V7FCvRJmlWS0vwT8HE2lhfAFjeHSRLwGvTpzyOHWGmbmjutuszAAE0bUGBaw8DVkOlOWDhoV4XqB2aBvvxYa2qFapmRtBCNmb88X2I+iy3haq5FLW4cDyqMG+wWyfjqYg4Mqj+/dOSnAtgD08c+CERcQXW8+Tp66b+7MiIzupeGsO5EMhSrlQLNCXtKfSJTJ7meqkE/VMFRJ/Lm6UVQz563TKyJcWVgWxjUQsfRu+W+wsCY9meFlI5E7GbeEYFDfuTDYrEVWDstfqEohk5qhoupA2F1WYrrYo5BpBGi5m5AaDkvpYoPXHSPd9ZGt1p8KxPmYJbxZXj7ltkBSVjktHmD+fFTOPZcef7OcTC64cLbTb4M4YQ==;JFUUqGyMzrur5yi19B2opw=="
 ---

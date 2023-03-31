@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 848
         isCached: true
+  - title: "Don't ignore warnings over potential dangers of artificial intelligence"
+    excerpt: "[iStockphoto] On Wednesday, over 1000 tech industry leaders signed an open letter urging Artificial Intelligence (AI) labs to stop developing advanced forms of AI. To many, this does not come as a surprise as one of the most prolific geniuses of the last ..."
+    publishedDateTime: 2023-03-31T04:16:00Z
+    webUrl: "https://www.standardmedia.co.ke/opinion/article/2001470006/do-not-ignore-warnings-over-potential-dangers-of-artificial-intelligence"
+    type: article
+    provider:
+      name: standardmedia.co.ke
+      domain: standardmedia.co.ke
+    quality: 37
+    images:
+      - url: "https://cdn.standardmedia.co.ke/images/articles/thumbnails/6gWVuZH97mihs5y6lquTjiLu8ooDP7KNSSZTmdmj.jpg"
+        width: 800
+        height: 500
+        isCached: true
 
 secured: "jMXHEJMa8raBVjPZw3aO3Tz4UhfQBrlnAoiro/Ilq2JaXuHn9bc4/X0+tGr5g0B+azS8l5H8wW3kLhEaTNgXEW1CmXOVnxip4xMxdRMe4tLO+Mp3X1CWU2YhRN9c/m1DA+7/RpwWCZRTyhR1MezPucO/QcdWPfqnq5BrRRTXsQP8eFdO3ifwsPEq8kZvWeSMa+/UpVBOeNqzfmm2XSWTDt8wAYOgUeF9qILLf9JVXLiT4VDFLMmnLCi2SjiiIo1hv8cqXbO+r/v1du71UeT84le7677eQDuiLOEWoY80C2QqNKPGxIAokeSah6Btv1MgcHk6qfBOLjkRzLLqEBj13JF1npPaPwhOtDcPQSn24+QevOA5x+5pueremMEfiVveC43QiRw2bpledzoiCJ/DsePnotdxGzUaYT57Wcn0AZo1pMxrDp7prJxEQaEyv6SQjdPUFvwVY8RseqpF6d+TbraJ/pw08QlvrenUPTUTRtXCojbN0hQP9YoRd5PSCgcWM/adGHtgjGvQhjebPh1FZw==;/li4vCyl5yGuqBW0bhyCsw=="
 ---

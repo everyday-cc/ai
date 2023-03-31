@@ -75,6 +75,15 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "Kinaxis Brings Concurrent Supply Chain Planning to Microsoft Azure Marketplace"
+    excerpt: "With supply chain elevated to a board-level topic, digital transformation of planning has become a top initiative. By bringing RapidResponse to the Microsoft Azure Marketplace, more companies will be able to take advantage of the supply chain agility Kinaxis delivers,"
+    publishedDateTime: 2023-03-29T21:50:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-kinaxis-brings-concurrent-supply-cha-planning-microsoft-azure-/2023/03/29/9785140.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 45
   - title: "Tech’s AI Armies Are Huge, Yet Struggling to Innovate"
     excerpt: "New data show Amazon, Microsoft and Google have thousands of AI specialists, but they’re still playing catch-up to a tiny team at OpenAI."
     publishedDateTime: 2023-03-27T00:03:00Z
@@ -107,6 +116,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 34
+  - title: "MTN to migrate OSS/BSS to Microsoft Azure"
+    excerpt: "South Africa-based MTN has joined the growing list of telcos that are making the move to public cloud. The company on Monday announced it has embarked on a programme of work to migrate various systems to Microsoft Azure."
+    publishedDateTime: 2023-03-30T15:38:00Z
+    webUrl: "https://telecoms.com/520948/mtn-to-migrate-oss-bss-to-microsoft-azure/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 34
   - title: "QualityKiosk announces a Strategic Partnership with Microsoft Power Platform"
     excerpt: "Founded in 1975, Microsoft Corporation is one of the largest American multinational technology corporations producing computer software, consumer electronics, personal computers, and related services. With their Power Platform, Microsoft is encouraging ..."
     publishedDateTime: 2023-03-28T12:08:00Z
@@ -117,6 +135,6 @@ related:
       domain: livemint.com
     quality: 16
 
-secured: "46kYBKGmrk9f4ajrxy/EsIRQIo7bYsq+BMmudWAr9DJ/zmWhXMMle52Qu6Pzlo7F0TAVKragrwld9C8OZl1Ni4xsxbjHVaOPPPsQ3YLMcnjKPnHBiGXM/eu6gMVLweMhdYMU8rgLRJ0hDm12bhvEEEkHqC3hPNwvxZ7UDjXPQzRJZ3e76zUJW15TY/eC5kM8FUmFxIXRnZ97EKVMCPPM7SXoCOZ5aJqi0ZCebbMSPuhQJN91d0Q90NNQZemG0UFwmJ33OSiunsBQY6BYPZxQH2ZxES74CAlciWmNa8OT8SjsiqhUsMxmFGw5gvSJQiXZt/o395/lFCuego3OmeNKKMJcFT9pgnHbJnXbrEqk0qQ=;j/mMca72p5LvPznX9U3KOQ=="
+secured: "h/F8In/klTzKYmqOhtVyYWAVnhQPcclzVOsFtwikz6FNrVSOVtPLuQLAZ3Hbi6KxTFXA38jfmUIqXbQEUrEA798oZooRJJQ++ImAz04CtBCJAFuJXbrtRQNCY2rvmWb8Z8r9D5OD5LlE2JprnBh0xWqdmfxLUcu81LxVIK8qQpTqDM0hChDABTPCjnqnWClYkfnY3gRYc5TjuJgoNXl3UNOFogdnE7HCYRMfmZ+pfWeBtwd9zokQh6OfsKdAeEAVkbO9QZtWt3lVMquNXXwgyHC+vxNZVRUDKLIFgwZrOBMjKAFSn53Ej2fgOKTdi6Bek/4L1WdvRbCM6l7VnVhKsqW1zz2wO/0ZVgEcJrb35lCHH4J9yOLWJpPmuYJH7UID/DysPbvePshJMlisUyJKFVr8xrUIEsVpJNDEBkjY/qN0HUI40gywnaHO+lEGvULNSyGBMD5JkqhWQFgE8t0xwWaQv2YSQ/hiyjqX3nGzg0XMkoCsgikwwyFQhV8ilmwJEET9DJkkaGn5d+jfydBvUQ==;avKHtlkwgawAW+ps1EPKvg=="
 ---
 

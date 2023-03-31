@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/27/what-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/27/what-investors-should-consider-when-thinking-about-the-potential-of-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Don't ignore warnings over potential dangers of artificial intelligence"
+    excerpt: "[iStockphoto] On Wednesday, over 1000 tech industry leaders signed an open letter urging Artificial Intelligence (AI) labs to stop developing advanced forms of AI. To many, this does not come as a surprise as one of the most prolific geniuses of the last ..."
+    publishedDateTime: 2023-03-31T04:16:00Z
+    webUrl: "https://www.standardmedia.co.ke/opinion/article/2001470006/do-not-ignore-warnings-over-potential-dangers-of-artificial-intelligence"
+    type: article
+    provider:
+      name: standardmedia.co.ke
+      domain: standardmedia.co.ke
+    quality: 37
+    images:
+      - url: "https://cdn.standardmedia.co.ke/images/articles/thumbnails/6gWVuZH97mihs5y6lquTjiLu8ooDP7KNSSZTmdmj.jpg"
+        width: 800
+        height: 500
+        isCached: true
   - title: "‘I Have No Idea What I’m Talking About’: Jesse Watters Throws in the Towel During Rant About Artificial Intelligence"
     excerpt: "Jesse Watters’ co-hosts cracked up when he admitted he has “no idea” what he’s talking about during a segment on artificial intelligence ... “Most Americans are worried about robots taking their jobs,” Watters said on Wednesday’s episode ..."
     publishedDateTime: 2023-03-29T22:25:00Z

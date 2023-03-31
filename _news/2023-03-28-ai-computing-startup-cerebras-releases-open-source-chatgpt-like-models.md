@@ -190,6 +190,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 59
+  - title: "UAE: These jobs will be decimated by AI, automation, ChatGPT"
+    excerpt: "Millions of jobs will bear the brunt of advanced artificial intelligence. Technology and HR executives ... Lastly, jobs of drivers will gradually disappear once driverless vehicles become the norm in the UAE,” she said. Nicki Wilson, managing director ..."
+    publishedDateTime: 2023-03-31T05:34:00Z
+    webUrl: "https://www.zawya.com/en/economy/global/uae-these-jobs-will-be-decimated-by-ai-automation-chatgpt-pd99nr3m"
+    ampWebUrl: "https://www.zawya.com/en/economy/global/uae-these-jobs-will-be-decimated-by-ai-automation-chatgpt-pd99nr3m?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/economy/global/uae-these-jobs-will-be-decimated-by-ai-automation-chatgpt-pd99nr3m?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: "https://static.zawya.com/version/c:ZDA5MDJlMTMtZWQwMC00:NTc0OWVk/openai-chatgpt.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
   - title: "I made ChatGPT talk to itself - and the results weren’t what I expected"
     excerpt: "My approach to ChatGPT and its burgeoning (and possibly career-threatening) success both within the tech industry and beyond our little digital bubble has been largely the same, with some small alterations."
     publishedDateTime: 2023-03-27T06:00:00Z
@@ -346,6 +362,6 @@ related:
       domain: fastcompany.com
     quality: 14
 
-secured: "WHWsQMFE580aEo9KAQJPH+/ENNNiKKz+R0a7XhwRafSDgSscBxmdZPAua0/Dv9HgAAOzwV5Dke5bimJMp2clnd9Og3W2X4nvFuNyxnvDl8EgrQQVxBYEAWEvnt5aXVrGDalbTyEp1i3a1ZprxiFWN3dXkXkKkFwYZUsSvpyKCizpfiVbkbu6Fe8DRReyUnZXRHjPFAJKJRnzsq3b9pIKAEwbRoehddXee3v3CjoK7aiyyXxWTbngoZK8E+1xsvtu6GqfPj0z/3H064+cxECxfFXL2DM9O75PTwRgp7U0k3FSxrBG0J3HrhLGhFVm/9YLIEKMaRSCtXRnW+u5KhZ548WSFSmqatW79A+X6DaZkPE=;arXUpBMvFlE6vnHDt1/dyg=="
+secured: "mGylCgamTTN0Iq3jsPGS90rBKwnb5jB+kDlnmhWxCYkP0VK90avABJZl0OrcVgmevsFpkicpQrOkniVjRmuGJOjjtYxt6mwpnhG3CS6O3oqDyutT6n1YTlWtn+u+F8vLpw2yah2soNhBdBs+YtSjiMlx4sKNLgeV27WSQcVI7tv+aPinNHQsRHLlQQDBRD1NqQoNU4UkmfWKld3jn3mSll/tf82Ict6ZsM1eOxKmAWvWc8QLW6NJI1eYCeSXbwTAUODm+kSsxkVfJdH/Vu+nYp3tYnWGjnlUEGnBp8V83VG0FgAv6bxZfg89xpFy3y87AjHv7s09YQZO7Q28L0u4kfyYshKlHlp9CwPWorKYECFIJZuNb7YqsNSVOahoe6VuVcovqgbn9h0j1B54CzcHatWzEgReqUVyzU+mwRLdf7Xe1mRv2e63VRQWMCzgxCVSDBurVauIy1pMjtHl6RHMUzBjSh37RHFWUnpZjAZT+q15B7Z27O/MimCoWmGmdpvoC4K/1mgdXogrB01G2aMt7Q==;dVzObWlyo2w1O0RCuonwOw=="
 ---
 

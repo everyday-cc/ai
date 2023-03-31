@@ -90,15 +90,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "ICMR comes up with first ethical guidelines for application of AI in biomedical research, healthcare"
-    excerpt: "Read more about ICMR comes up with first ethical guidelines for application of AI in biomedical research, healthcare on Devdiscourse"
-    publishedDateTime: 2023-03-26T11:23:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2394074-icmr-comes-up-with-first-ethical-guidelines-for-application-of-ai-in-biomedical-research-healthcare"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 36
 
 secured: "UudcF3ryyAMuYMiy0ur7VcLnFMWeYxR1oVNCd6u5m1MT4F5p91jJlhyU8vnOmpZxPQbtDmAvVf0pbVzN4oqx2mhq+z2XEwqxmuZzu1IEE6/TOrGeSeJ0+AUQD2LcQ/nT1iPfqCKnKpyL7HeJMIFycbtTC17TFCiNPNrj8rwt3gQdIDZpM+vyxDNHkojLdpLdt7GW0eui5tx8kPdqesYfS1pHoKt6i58dLfDShfOqmo1GSdbb2HVNW1eaj+CgLV+3VKnEYGZATvspdbR+pQAqLSI154JTE7/E1cGZL0VfWtKc+Sr/4Rdr+5SGdBYIGCxZoSEWJJ4GPzE6M/wsxncPkfdfkZUJf2LEzDm4XK+OVjw=;tAcpEp/7kvp6h0taYDJ+qA=="
 ---

@@ -23,6 +23,52 @@ topics:
   - AI
 
 related:
+  - title: "Nvidia Rides The Generative AI Wave At GTC"
+    excerpt: "Microsoft is incorporating AI technology into Bing for search and chat and in Microsoft 365 as its Copilot assistant to work tasks. All of these services run on Nvidia GPUs. Microsoft Azure cloud services are already using the new Nvidia H100 GPUs in ..."
+    publishedDateTime: 2023-03-31T04:29:00Z
+    webUrl: "https://www.forbes.com/sites/tiriasresearch/2023/03/31/nvidia-rides-the-generative-ai-wave-at-gtc/"
+    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/03/31/nvidia-rides-the-generative-ai-wave-at-gtc/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/03/31/nvidia-rides-the-generative-ai-wave-at-gtc/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64265ed735054b4de58ad28b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 899
+        isCached: true
+  - title: "Adobe Jumps Into The Generative AI Race With Firefly Creative Support"
+    excerpt: "Last week at Adobe Summit, the company announced its first generative AI service, Adobe Firefly. Analyzing Adobe's offering and the overall generative AI landscape. What should Adobe customers expect and when can they gain access to the new services."
+    publishedDateTime: 2023-03-27T14:47:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2023/03/27/adobe-jumps-into-the-generative-ai-race-with-firefly-creative-support/"
+    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/03/27/adobe-jumps-into-the-generative-ai-race-with-firefly-creative-support/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/03/27/adobe-jumps-into-the-generative-ai-race-with-firefly-creative-support/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6421aa2b32ea51d1c18a9f03/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Nvidia Harnesses AI Power to Optimize Chip Design and Performance"
+    excerpt: "Nvidia has revealed new research demonstrating how AI can be utilized to optimize chip design. This groundbreaking research could potentially change the way chips are designed, ultimately leading to improved cost, speed, and power consumption for the ..."
+    publishedDateTime: 2023-03-28T13:58:00Z
+    webUrl: "https://www.gizmochina.com/2023/03/28/nvidia-harnesses-ai-power-to-optimize-chip-design-and-performance/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 84
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/03/nvidia-harnesses-ai-power-to-optimize-chip-design-and-performance.jpeg"
+        width: 1098
+        height: 732
+        isCached: true
   - title: "Buy Nvidia Stock Because the Chip Maker Is an AI Play, Says Analyst"
     excerpt: "Bernstein is getting more bullish on demand for Nvidia semiconductors based upon the growth potential of artificial-intelligence training applications. On Tuesday, analyst Stacy Rasgon reiterated his Outperform rating for Nvidia stock (ticker: NVDA), and ..."
     publishedDateTime: 2023-03-28T15:39:00Z
@@ -55,79 +101,19 @@ related:
         width: 1500
         height: 800
         isCached: true
-  - title: "Cryptocurrencies add nothing useful to society, says chip-maker Nvidia"
-    excerpt: "Tech chief says the development of chatbots is a more worthwhile use of processing power than crypto mining"
-    publishedDateTime: 2023-03-26T15:13:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
+  - title: "Machine Learning Executive Talks Rise, Future of Generative AI"
+    excerpt: "Keegan Hines, a former Georgetown adjunct professor and the current vice president of machine learning at Arthur AI, discussed the rapid rise in generative Artificial Intelligence (AI) programs and Georgetown’s potential in adapting to software like ChatGPT. The Master of Science in Data Science and Analytics program in the Graduate School of Arts & Sciences […]"
+    publishedDateTime: 2023-03-27T20:41:00Z
+    webUrl: "https://thehoya.com/machine-learning-executive-talks-rise-future-of-generative-ai/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
+      name: The Hoya
+      domain: thehoya.com
+    quality: 56
     images:
-      - url: "https://i.guim.co.uk/img/media/c1d4d5e50b04a1580bdaa1145b2dec10d47b8496/0_217_6520_3912/master/6520.jpg?width=620&quality=85&auto=format&fit=max&s=78bd8b0dece950e337e76dbba5a347a4"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Cryptocurrencies add nothing useful to society, says chip-maker Nvidia"
-    excerpt: "Tech chief says the development of chatbots is a more worthwhile use of processing power than crypto mining"
-    publishedDateTime: 2023-03-26T19:13:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/c1d4d5e50b04a1580bdaa1145b2dec10d47b8496/0_217_6520_3912/master/6520.jpg?width=620&quality=85&auto=format&fit=max&s=78bd8b0dece950e337e76dbba5a347a4"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Nvidia calls cryptocurrency useless for society, says its graphics cards are better used for AI"
-    excerpt: "Speaking to The Guardian, Nvidia Chief Technology Officer Micheal Kagan said that the processing power of the company's GPUs should be used for tasks more worthwhile"
-    publishedDateTime: 2023-03-27T10:16:00Z
-    webUrl: "https://techspot.com/news/98081-nvidia-calls-cryptocurrency-useless-society-gpus-better-used.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 57
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2018/11/2018-11-26-image-2.jpg"
-        width: 1800
-        height: 1200
-        isCached: true
-  - title: "NVDA Stock Analysis: Why Most Of Nvidia's AI-Driven Upside Potential May Already Be Discounted"
-    excerpt: "NVIDIA Corp. (NASDAQ: NVDA) has been the best-performing stock of the Nasdaq 100 index since the start of the year."
-    publishedDateTime: 2023-03-29T19:57:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvda-stock-analysis-why-most-of-nvidia-s-ai-driven-upside-potential-may-already-be-discounted-1032201340"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/03/29/nvidia_headquarters.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "AI could be key to optimising chip design, Nvidia says"
-    excerpt: "Nvidia Corp has released a paper showing how a combination of artificial intelligence (AI) techniques could find the best ways to place transistors on silicon chips. Nvidia Corp, the world's leading designer of computer chips used in AI, has shown new ..."
-    publishedDateTime: 2023-03-28T10:42:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2023/03/ai-could-be-key-to-optimising-chip-design-nvidia-says/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 54
-    images:
-      - url: "https://eandt.theiet.org/media/16225/nvidia-cambridge-1_gpu-closeup.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=132699737820000000"
-        width: 1200
-        height: 450
+      - url: "https://static.shareasale.com/image/113278/mia-banner-ad-6.jpg"
+        width: 720
+        height: 300
         isCached: true
   - title: "Nvidia Is More Than AI Chips. The Stock Has Software Upside, Says Analyst."
     excerpt: "Piper Sandler analyst Harsh Kumar increased his price target on Nvidia stock to $300 from $275 and reaffirmed his Overweight rating."
@@ -140,6 +126,15 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 52
+  - title: "Major Cloud Providers Seek to Rejuvenate Sales With Generative AI"
+    excerpt: "Microsoft (Nasdaq: MSFT) and Google are investing in generative artificial intelligence tools to drive revenue performance in their cloud businesses, The Wall Street Journal reported Monday. Sources told WSJ that Microsoft CEO Satya Nadella has discussed how AI on the Azure cloud platform could help companies improve efficiency through presentations at the company’s sales meetings."
+    publishedDateTime: 2023-03-29T11:00:00Z
+    webUrl: "https://www.govconwire.com/2023/03/tech-companies-seek-to-address-slowing-cloud-sales-with-generative-ai/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 36
   - title: "Nvidia's New Research Shows How AI Can Be Used to Improve Chip Design"
     excerpt: "Nvidia released a paper on Monday showing that it could use a combination of AI techniques to find better ways to place big groups of transistors."
     publishedDateTime: 2023-03-28T07:17:00Z
@@ -158,29 +153,24 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
-  - title: "Here’s How Nvidia Is Powering The ChatGPT Frenzy"
-    excerpt: "ChatGPT owes a large part of its capabilities to the powerful computing hardware developed by Nvidia. In this article, we'll"
-    publishedDateTime: 2023-03-27T11:40:00Z
-    webUrl: "https://www.techbooky.com/heres-how-nvidia-is-powering-the-chatgpt-frenzy/"
+  - title: "Deep Dive Into Generative AI and What Will Drive Tomorrow"
+    excerpt: "While the banking crisis may have interrupted funding flows for a limited period, the hype cycle in generative AI has momentum with staying power."
+    publishedDateTime: 2023-03-30T14:06:00Z
+    webUrl: "https://www.law.com/nationallawjournal/2023/03/30/deep-dive-into-generative-ai-and-what-will-drive-tomorrow/"
     type: article
     provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 24
-    images:
-      - url: "https://i0.wp.com/www.techbooky.com/wp-content/uploads/2023/03/chatgpt-nvidia.webp?fit=1600%2C900&ssl=1"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "ProHawk Vision Restoration Plugin Aims to Boost Vision AI Accuracy in NVIDIA Metropolis Applications"
-    excerpt: "Powered by NVIDIA GPUs, ProHawk Vision can quickly fix low-quality video in as little as 3 milliseconds, resulting in output that is undetectable to the human eye. The ProHawk Vision Restoration Plugin automatically analyzes every frame of the video,"
-    publishedDateTime: 2023-03-29T15:00:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/accwirecq-2023-3-29-prohawk-vision-restoration-plugin-aims-to-boost-vision-ai-accuracy-in-nvidia-metropolis-applications"
+      name: Law
+      domain: law.com
+    quality: 21
+  - title: "Academic unit at BU adopts guidelines for use of generative AI"
+    excerpt: "At Boston University, professor Wesley Wildman’s Data, Society and Ethics class has made a critical first step toward addressing those concerns, crafting a policy that guides how both students and instructors should use advanced AI. BU’s Faculty of ..."
+    publishedDateTime: 2023-03-28T09:01:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2023/03/28/colleges-setting-guidelines-for-use-of-chatgpt-ot.html"
     type: article
     provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 4
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "RvRdZJbMKPbU4bS//IOhzeS1QTnJpS5mW5cBnTd6qJG03h+NNKVZDV27io+ri82IwVd003TXNZ6QO8mpU/2FC/Xa+IlvgtVFU3oZqb54KPZAM7kU+Glfd4JHybjE0mDDI9OZJ2H2OGp4PfZxE/vGelZgq6kg15WboiQ8ox5U2g8rqJNVsmzSzxVu2Xw7O/qLSFy3ecUlZqLOGsUn/xZaAFNElTQ6CuyLGJfnqrC292rStQ+tQBv+TyDc5C49i1bcJiEM+ZjoR3CYFDewDfI1Rbg8UbbxAX/auRm0rCfsCXOcna389gtamIvID8cwE8IezOcq6YZ5yI84LAqXcKuj0pU7An2QW8COdMfFIXbHi48=;73pj/e1rMFiXHB+fRzpv/Q=="
 ---

@@ -1,0 +1,64 @@
+---
+category: news
+title: "Elon Musk among experts urging a halt to AI training"
+excerpt: "They have signed an open letter warning of potential risks, and say the race to develop AI systems is out of control. Twitter chief Elon Musk is among those who want training of AIs above a certain capacity to be halted for at least six months."
+publishedDateTime: 2023-03-30T13:54:00Z
+originalUrl: "https://www.bbc.co.uk/news/technology-65110030?at_campaign=Social_Flow&at_medium=social&at_bbc_team=editorial&at_campaign_type=owned&at_link_type=web_link&at_format=link&at_link_origin=BBCNews&at_ptr_name=twitter&at_link_id=F9347918-CE37-11ED-B2E8-F7EC4744363C"
+webUrl: "https://www.bbc.co.uk/news/technology-65110030?at_campaign=Social_Flow&at_medium=social&at_bbc_team=editorial&at_campaign_type=owned&at_link_type=web_link&at_format=link&at_link_origin=BBCNews&at_ptr_name=twitter&at_link_id=F9347918-CE37-11ED-B2E8-F7EC4744363C"
+ampWebUrl: "https://www.bbc.co.uk/news/technology-65110030.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65110030.amp"
+type: article
+quality: 57
+heat: 87
+published: true
+
+provider:
+  name: BBC
+  domain: bbc.co.uk
+
+topics:
+  - AI
+
+images:
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1345A/production/_129183987_gettyimages-1239416791.jpg"
+    width: 1024
+    height: 576
+    isCached: true
+
+related:
+  - title: "Elon Musk Mocks Bill Gates's Knowledge Of Artificial Intelligence, ‘His Understanding Of AI Was....’,"
+    excerpt: "Twitter boss thinks that Bill Gates' knowledge of AI was constantly confined and still is. Elon Musk has recently spoken out a lot about the risks posed by AI. Particularly now that AI chatbots like ChatGPT,"
+    publishedDateTime: 2023-03-28T09:41:00Z
+    webUrl: "https://in.mashable.com/tech/49716/elon-musk-mocks-bill-gatess-knowledge-of-artificial-intelligence-his-understanding-of-ai-was"
+    type: article
+    provider:
+      name: in.mashable
+      domain: mashable.com
+    quality: 49
+  - title: "AI doesn’t belong everywhere. Stop using a hammer to make lasagna."
+    excerpt: "To remind us of the risks of technology as the wrong solution to the wrong problem, today I am adding Instacart, Levi’s and the other examples above to The Tech Friend’s AI Juicero hall of fame. The name comes from an infamous Silicon Valley start-up."
+    publishedDateTime: 2023-03-28T16:32:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/03/28/silly-uses-ai-are-giving-me-flashbacks-flatulence-apps/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L3TBKDU7QZEGNLUUGDFTROTZPY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Hear from the experts: using machine learning and AI to grow your business"
+    excerpt: "Across two events on February 9 and 16, SmartCompany and AWS dived into all things AI and machine learning. In his introduction speech, host Simon Crerar referenced the wide-eyed futurism of science fiction films like Blade Runner."
+    publishedDateTime: 2023-03-29T22:00:00Z
+    webUrl: "https://www.smartcompany.com.au/partner-content/articles/hear-from-the-experts-using-machine-learning-and-ai-to-grow-your-business/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 34
+
+secured: "7ZczVzecQlqpdTX5dcVDI1iVcM6zCELRt9NaBG0KxQIhONJPq60GSD1lEXJMGh2U6l9Lk7sJU/vhJYVM4hbaOg8Qsb04NbVMOt393KeWTiiIJnROHBG+XAhn43ozFzkRzDakg3ZtyLM/urLvoOWJimKaIym4XkthBr5VIgS6FPOvLXikUzcCAH5XZq1dcW41GPG17BJraS70DWTuk3vKJECyZSclHDXo+VRt2JBD2HCp0oU2IL6kaPSxOutmhgECe/RPh0YBP6duKVlik1pnJnUQKawvOpNPtjK3PUMs4IpR8PtR/ZRWelgSKCurPolxcke1soiEP4tti0HLfMUzoY0bDROaDD9l1DYwQDmB9Ww=;++zmoqgt/8wz3JVc5Cf+RA=="
+---
+

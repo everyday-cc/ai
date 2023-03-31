@@ -97,20 +97,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
-  - title: "Artificial Intelligence in Life Sciences Market: Size and Growth Opportunities 2023-2029"
-    excerpt: "Mar 26, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Artificial Intelligence in"
-    publishedDateTime: 2023-03-26T11:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-life-sciences-market-size-and-growth-opportunities-2023-2029-2023-03-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "BB3J+UK9pbAOdDvzIlHthJTYBsA71n+aOSIGT4/NVdHAtP2jJJnx8nCa66hTj+6ixkxrCOMXFPauW+T7WZyrDhcQhzRxJdnV5DGfOHoRYBM45t8Uz+Yx7orZoJGMXnRPcuw4OsiDj1fWlubYHqaVtvwJPMTJBRZES2whU0UP7/dsh1hxh2dyo+VYztu0NZIDl+oqAqcCN7An3vF8XKiuMxqbPvbNv1peHT2FYuxJDPWrk0ocxECjmZ78Zkz58tvHmRx5Ndk0hCPQvZET4skO+QwyyosldTrfr7U9bOLkNihI8Biq1WNoB/JBhqMScPVS3BFt/stDDLmtzFFxpivBmznHNAOYG37AcPkICVuFNo4=;9RcePhM6c/tNygellOjCRw=="
 ---

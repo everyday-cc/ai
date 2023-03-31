@@ -50,15 +50,6 @@ related:
         width: 1536
         height: 863
         isCached: true
-  - title: "Facial recognition techniques nail robbers"
-    excerpt: "Warrant officer Vanishree Abdul Rahim was the SAPS facial recognition techniques expert who did an analysis. She testified in court how she was able to determine that the accused were the same individuals seen in different instances, in the CCTV footage ..."
-    publishedDateTime: 2023-03-26T11:12:00Z
-    webUrl: "https://www.iol.co.za/sunday-tribune/news/facial-recognition-techniques-nail-robbers-a4e61131-5582-4ae3-bece-cfd32c6eafcb"
-    type: article
-    provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 34
 
 secured: "2LuyEAniurDKQ4cSTvWPPlnjbUzfn7r2kHOxQMNhnAgIt3CQAVP2UeACVSC7ZbpeAwdpCrf0qVxJ/EcB2obddTltY/as97yTtTWVAt7s59c5KTW8FADw6tnJddhqKOAirjN0Jvi1h4ovgC559CB+6a2ObAzNv0f/dkEtYeeBCH9hDZ0zRQp7LjnfTZsYIymccCD+uBqUDgM+UO8D2axeyvI88d6TmlKOEeME1kHofZpL4FXjpe990hH922rEJM+hM3DmEHTd6rji2Q8GOUwgQlrhU00HtrmsFp0lBxI0oLDgeIB2buRf1JfqWmCqL6kuao6rn6EBb+ohGCPtiD8dxPGxKPlEegTAK5tRQx3eE8I=;sRg1I8RVVFe1qM1HtLKaPA=="
 ---

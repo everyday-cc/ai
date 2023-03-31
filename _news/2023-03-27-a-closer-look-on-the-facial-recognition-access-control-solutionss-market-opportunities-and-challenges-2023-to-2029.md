@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market Trends for Business Growth 2023-2027 with Strategies"
-    excerpt: "Mar 26, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Latest “Artificial Intelligence"
-    publishedDateTime: 2023-03-26T12:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-trends-for-business-growth-2023-2027-with-strategies-2023-03-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "OXnsIrcYGkgzaAFMvmCbd0J47SeYzXGlMXIdPGTbdUB6u5tmahrUXBWsdI+4HErzijXacZUS6gR8hnKcuVl2dGQ835erVCEThrIbdkeB6Kxe49TNa9QERkha40W3h2WN4W83p9ifP5OHziEOCGVxuMnX1yijoi9jPl7TW/RqAiio8nCckgKlOFDF1zzBmmNzmQo4aivkjkgFQLPH/4RMWm0I5jiook6DjkDqRPsIC/o8kwD1kE8VcAYQUWeo72Sc1fvfwvRnsqb+fnhPToWycBfTNKLZOybwuO31Mg+jPRZUWTFqTNL/mRC9SSeJ58Z9HSTdYl95IffyJQtHiF0lcPfA6aTAP22j4J7k7rCSJCc=;d38tqpEDwTp2WVAfmfcs+A=="
 ---

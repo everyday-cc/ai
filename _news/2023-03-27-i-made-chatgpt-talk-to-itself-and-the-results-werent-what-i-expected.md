@@ -204,6 +204,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 59
+  - title: "UAE: These jobs will be decimated by AI, automation, ChatGPT"
+    excerpt: "Millions of jobs will bear the brunt of advanced artificial intelligence. Technology and HR executives ... Lastly, jobs of drivers will gradually disappear once driverless vehicles become the norm in the UAE,” she said. Nicki Wilson, managing director ..."
+    publishedDateTime: 2023-03-31T05:34:00Z
+    webUrl: "https://www.zawya.com/en/economy/global/uae-these-jobs-will-be-decimated-by-ai-automation-chatgpt-pd99nr3m"
+    ampWebUrl: "https://www.zawya.com/en/economy/global/uae-these-jobs-will-be-decimated-by-ai-automation-chatgpt-pd99nr3m?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/economy/global/uae-these-jobs-will-be-decimated-by-ai-automation-chatgpt-pd99nr3m?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: "https://static.zawya.com/version/c:ZDA5MDJlMTMtZWQwMC00:NTc0OWVk/openai-chatgpt.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Retro Chatbot: ChatGPT comes to MS-DOS with new AI client"
     excerpt: "In this case, he turned his attention to MS-DOS, a text-only operating system first released in 1981, and ChatGPT, an AI-powered large language model (LLM ... proxy that can run on a modern computer and translate the requests and responses between the ..."
     publishedDateTime: 2023-03-27T19:41:00Z

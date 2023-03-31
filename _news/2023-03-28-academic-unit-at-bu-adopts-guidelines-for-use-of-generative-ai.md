@@ -19,15 +19,93 @@ topics:
   - AI
 
 related:
-  - title: "What’s new in Azure Data & AI: Azure is built for generative AI apps"
-    excerpt: "OpenAI launched ChatGPT in December 2022, immediately inspiring people and companies to pioneer novel use cases for large language models. It’s no wonder that ChatGPT reached 1 million users within a week of launch and 100 million users within two months, making it the fastest-growing consumer application"
-    publishedDateTime: 2023-03-30T09:00:10Z
-    webUrl: "https://azure.microsoft.com/blog/what-s-new-in-azure-data-and-ai-azure-is-built-for-generative-ai-apps/"
+  - title: "Nvidia Rides The Generative AI Wave At GTC"
+    excerpt: "Microsoft is incorporating AI technology into Bing for search and chat and in Microsoft 365 as its Copilot assistant to work tasks. All of these services run on Nvidia GPUs. Microsoft Azure cloud services are already using the new Nvidia H100 GPUs in ..."
+    publishedDateTime: 2023-03-31T04:29:00Z
+    webUrl: "https://www.forbes.com/sites/tiriasresearch/2023/03/31/nvidia-rides-the-generative-ai-wave-at-gtc/"
+    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/03/31/nvidia-rides-the-generative-ai-wave-at-gtc/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/03/31/nvidia-rides-the-generative-ai-wave-at-gtc/amp/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64265ed735054b4de58ad28b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 899
+        isCached: true
+  - title: "Adobe Jumps Into The Generative AI Race With Firefly Creative Support"
+    excerpt: "Last week at Adobe Summit, the company announced its first generative AI service, Adobe Firefly. Analyzing Adobe's offering and the overall generative AI landscape. What should Adobe customers expect and when can they gain access to the new services."
+    publishedDateTime: 2023-03-27T14:47:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2023/03/27/adobe-jumps-into-the-generative-ai-race-with-firefly-creative-support/"
+    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/03/27/adobe-jumps-into-the-generative-ai-race-with-firefly-creative-support/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/03/27/adobe-jumps-into-the-generative-ai-race-with-firefly-creative-support/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6421aa2b32ea51d1c18a9f03/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Nvidia Harnesses AI Power to Optimize Chip Design and Performance"
+    excerpt: "Nvidia has revealed new research demonstrating how AI can be utilized to optimize chip design. This groundbreaking research could potentially change the way chips are designed, ultimately leading to improved cost, speed, and power consumption for the ..."
+    publishedDateTime: 2023-03-28T13:58:00Z
+    webUrl: "https://www.gizmochina.com/2023/03/28/nvidia-harnesses-ai-power-to-optimize-chip-design-and-performance/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
     quality: 84
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/03/nvidia-harnesses-ai-power-to-optimize-chip-design-and-performance.jpeg"
+        width: 1098
+        height: 732
+        isCached: true
+  - title: "Buy Nvidia Stock Because the Chip Maker Is an AI Play, Says Analyst"
+    excerpt: "Bernstein is getting more bullish on demand for Nvidia semiconductors based upon the growth potential of artificial-intelligence training applications. On Tuesday, analyst Stacy Rasgon reiterated his Outperform rating for Nvidia stock (ticker: NVDA), and ..."
+    publishedDateTime: 2023-03-28T15:39:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-buy-ai-chip-2c81821f?refsec=technology"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-buy-ai-chip-2c81821f"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-buy-ai-chip-2c81821f"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://images.barrons.com/im-752355/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Nvidia shows how AI can improve chip design"
+    excerpt: "Nvidia, the world’s leading designer of computer chips used in creating artificial intelligence, on Monday showed new research that explains how AI can be used to improve chip design. The process of designing a chip involves deciding where to place tens of billion of tiny on-off switches called transistors on a piece of silicon to create working chips."
+    publishedDateTime: 2023-03-28T05:32:00Z
+    webUrl: "https://techcentral.co.za/nvidia-shows-how-ai-can-improve-chip-design/223714/"
+    ampWebUrl: "https://techcentral.co.za/nvidia-shows-how-ai-can-improve-chip-design/223714/?amp=1"
+    cdnAmpWebUrl: "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/nvidia-shows-how-ai-can-improve-chip-design/223714/?amp=1"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 74
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2022/06/nvidia-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
+  - title: "Nvidia shows new research on using AI to improve chip designs"
+    excerpt: "March 27 (Reuters) - Nvidia Corp (NVDA.O), the world's leading designer of computer chips used in creating artificial intelligence, on Monday showed new research that explains how AI can be used ..."
+    publishedDateTime: 2023-03-28T00:47:00Z
+    webUrl: "https://www.reuters.com/technology/nvidia-shows-new-research-using-ai-improve-chip-designs-2023-03-28/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 64
   - title: "Machine Learning Executive Talks Rise, Future of Generative AI"
     excerpt: "Keegan Hines, a former Georgetown adjunct professor and the current vice president of machine learning at Arthur AI, discussed the rapid rise in generative Artificial Intelligence (AI) programs and Georgetown’s potential in adapting to software like ChatGPT. The Master of Science in Data Science and Analytics program in the Graduate School of Arts & Sciences […]"
     publishedDateTime: 2023-03-27T20:41:00Z
@@ -42,61 +120,53 @@ related:
         width: 720
         height: 300
         isCached: true
-  - title: "Micron posts biggest-ever loss, but says generative AI will drive new demand for memory chips"
-    excerpt: "After taking into account stock-based compensation and restructuring costs, Micron posted a loss of $1.91 per share. Revenue for the period came to $3.69 billion, down from $7.79 billion in sales one year earlier."
-    publishedDateTime: 2023-03-29T02:19:00Z
-    webUrl: "https://siliconangle.com/2023/03/28/micron-posts-biggest-ever-loss-says-generative-ai-will-drive-new-demand-memory-chips/"
+  - title: "Nvidia Is More Than AI Chips. The Stock Has Software Upside, Says Analyst."
+    excerpt: "Piper Sandler analyst Harsh Kumar increased his price target on Nvidia stock to $300 from $275 and reaffirmed his Overweight rating."
+    publishedDateTime: 2023-03-29T18:59:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-upside-chip-1f7a9348"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-upside-chip-1f7a9348"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-upside-chip-1f7a9348"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 43
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/sanjaymehrotra-800x533-768x512.jpeg"
-        width: 768
-        height: 512
-        isCached: true
-  - title: "How AI is Creating Explosive Demand for Training Data"
-    excerpt: "Artificial Intelligence (AI) has rapidly evolved in recent years, leading to groundbreaking innovations and transforming various industries. One crucial factor driving this progress is the availability and quality of training data."
-    publishedDateTime: 2023-03-26T16:59:00Z
-    webUrl: "https://www.unite.ai/how-ai-is-creating-explosive-demand-for-training-data/"
+      name: Barron's
+      domain: barrons.com
+    quality: 52
+  - title: "Major Cloud Providers Seek to Rejuvenate Sales With Generative AI"
+    excerpt: "Microsoft (Nasdaq: MSFT) and Google are investing in generative artificial intelligence tools to drive revenue performance in their cloud businesses, The Wall Street Journal reported Monday. Sources told WSJ that Microsoft CEO Satya Nadella has discussed how AI on the Azure cloud platform could help companies improve efficiency through presentations at the company’s sales meetings."
+    publishedDateTime: 2023-03-29T11:00:00Z
+    webUrl: "https://www.govconwire.com/2023/03/tech-companies-seek-to-address-slowing-cloud-sales-with-generative-ai/"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/03/fabio-ballasina-wEL2zPX3jDg-unsplash-942x600.jpg"
-        width: 942
-        height: 600
-        isCached: true
-  - title: "New Report Details How Generative AI Impacts Work"
-    excerpt: "Aberdeen's latest research offers insight into the ways professionals use generative AI today, as well as how AI might affect work in the future."
-    publishedDateTime: 2023-03-29T15:11:00Z
-    webUrl: "https://www.extremetech.com/computing/new-report-details-how-generative-ai-impacts-work"
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 36
+  - title: "Nvidia's New Research Shows How AI Can Be Used to Improve Chip Design"
+    excerpt: "Nvidia released a paper on Monday showing that it could use a combination of AI techniques to find better ways to place big groups of transistors."
+    publishedDateTime: 2023-03-28T07:17:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/nvidia-ai-based-research-improves-chip-designs-3899263"
     type: article
     provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
-  - title: "Big banks invest in generative AI startup Hazy"
-    excerpt: "Hazy won the $1 million Microsoft Innovate AI prize for the best AI startup in Europe and has signed up big name clients, including financial services giants Nationwide and Wells Fargo. Harry Keen, CEO, Hazy, says: \"This funding will solidify our position ..."
-    publishedDateTime: 2023-03-27T23:01:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42044/big-banks-invest-in-generative-ai-startup-hazy"
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 34
+  - title: "Nvidia’s show new AI research to improve chip design"
+    excerpt: "Nvidia’s reinforcement learning research introduced a second layer of AI to chip transistors for improved results. (Reuters pic) NEW YORK: Nvidia Corp, the world’s leading designer of computer chips used in creating artificial intelligence, on Monday ..."
+    publishedDateTime: 2023-03-28T03:38:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/03/28/nvidias-show-new-ai-research-to-improve-chip-design/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
-  - title: "How Businesses Can Win with Generative AI: UiPath to Unveil Latest AI-Powered Automation Innovations"
-    excerpt: "UiPath (NYSE: PATH), a leading enterprise automation software company, today announced its annual UiPath AI Summit will take place March 30, offering viewers around the world insight into strategies for adopting the newest AI to bolster their automation initiatives and practical guidance from leading AI and automation industry use cases."
-    publishedDateTime: 2023-03-30T15:28:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-how-businesses-w-with-generative-ai-uipath-unveil-/2023/03/30/9786220.htm"
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 34
+  - title: "Deep Dive Into Generative AI and What Will Drive Tomorrow"
+    excerpt: "While the banking crisis may have interrupted funding flows for a limited period, the hype cycle in generative AI has momentum with staying power."
+    publishedDateTime: 2023-03-30T14:06:00Z
+    webUrl: "https://www.law.com/nationallawjournal/2023/03/30/deep-dive-into-generative-ai-and-what-will-drive-tomorrow/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
+      name: Law
+      domain: law.com
+    quality: 21
 
 secured: "8Nfqmf42rP3hC/yoNUCL/aAWQaGpJyCTlgouJ+Jv11/yvfCYiXbJIwEK4o6az6Ry5P+lDLFopFAKOkj2sJA5cslfJymfqgIFNmEOtsLYeEw0GDZbXAYW+ME/Hc5i9CQrXidFotZ9JjbXQIdb9lE12RJuUp13i4sqhXEk/5WYD19HIgBMJ6vp8gZ2lom8idMzH6QHkVecSZ/H6dPSVlYGB9QODyquDN2ax0smiF1A1QmX3Q7kmhDsQx4cNsxBPDEEommyd9wK3P5IBM5oijAVg7k8Nw65K3YWYvaTRvgPm81jma1T2LIfIvndjGgYcMhf5z6HsmkD74WsO06UHiB4icEkxZ3/r1f52xKoMJwXAHAgrLVCJj2DjhXIqGqE+jC9m6OJsvCC6QJhFNQE6dKcJW5NxvaWe/HbextEkh3qrWnPqiFU7NUBHXrW/6Vokct9rEUTLfEE9BjUXg0j0ZkCYqwgtsJuV8GL6Ajns3mbPwxYmxcD3hqeZPHZ1L1JeW9d/8XPgZLscnmWiasp9ZSrOQ==;u3N74vFFhxBKL3bVyjs0rg=="
 ---

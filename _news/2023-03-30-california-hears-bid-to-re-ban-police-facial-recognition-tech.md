@@ -36,15 +36,6 @@ related:
         width: 1536
         height: 863
         isCached: true
-  - title: "Facial recognition techniques nail robbers"
-    excerpt: "Warrant officer Vanishree Abdul Rahim was the SAPS facial recognition techniques expert who did an analysis. She testified in court how she was able to determine that the accused were the same individuals seen in different instances, in the CCTV footage ..."
-    publishedDateTime: 2023-03-26T11:12:00Z
-    webUrl: "https://www.iol.co.za/sunday-tribune/news/facial-recognition-techniques-nail-robbers-a4e61131-5582-4ae3-bece-cfd32c6eafcb"
-    type: article
-    provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 34
   - title: "Anthem Blue Cross Introduces Virtual-First Health Plans, Helping California Members Access Convenient, Affordable Care Options"
     excerpt: "Members can choose virtual care, allowing for high-quality care at a lower cost Anthem Blue Cross (Anthem) in California today announced its Virtual-First health plans to eligible members in select co"
     publishedDateTime: 2023-03-27T13:00:00Z

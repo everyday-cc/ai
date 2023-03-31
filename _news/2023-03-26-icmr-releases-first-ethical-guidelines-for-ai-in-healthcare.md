@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/icmr-releases-first-ethical-guid
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/icmr-releases-first-ethical-guidelines-for-ai-in-healthcare/amp-11679845618748.html"
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -90,15 +90,6 @@ related:
         width: 325
         height: 325
         isCached: true
-  - title: "ICMR comes up with first ethical guidelines for application of AI in biomedical research, healthcare"
-    excerpt: "Read more about ICMR comes up with first ethical guidelines for application of AI in biomedical research, healthcare on Devdiscourse"
-    publishedDateTime: 2023-03-26T11:23:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2394074-icmr-comes-up-with-first-ethical-guidelines-for-application-of-ai-in-biomedical-research-healthcare"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 36
 
 secured: "CCm0DIYVnmYfbSaSaZNWCdcE0Wqn9jWqYocj07/JHTXqbMGdlzTeWQUNuoH4UqWh2GoEmEC/PiiFbsftTOyKx/W9KjdM7e8YsL7DEWj6XzGxY+/NJ9IypvgnMX3Q4n9CGadOx9LL+KGE1kw0tQlc+0wtlW76QRf0iNAe/lEgoEC2NL+iwJ800yth0kp+2vsZDuUVMIQ8J/3tOdpx7AZ85ViU+1gEHkR2Sr+73GKgSaRO0VHbmskXijcCfowszatNeI7/sx8i4Y6e+hkep0v7LiMJgHHsVvJKPPrcyDwILWCcaI2bymorAS4zzxCuPYbDWc2P/sfhUNTc3BuzvPVkxsp/2hgHT1DRjVNtVLwY7RKQNqr/BzXfwnq/abBnrm19Koxr1VfKA84FsVHJfNsB0G29+HeXd8CC730rMZVIJqxiSIssrTHT1hnCH2izTnv5QXc+3H9LyE7CThzlwPw1XqLguT5VnnwHxsKSV5O4CR1EF1KEd0repg5pBYaq1OUq/ntEA8CVcYPvVMsIfp8EoQ==;dpj6p8PMholm/qjrEPstCA=="
 ---
