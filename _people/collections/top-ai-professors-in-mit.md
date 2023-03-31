@@ -2,7 +2,7 @@
 name: "Top AI Professors in MIT"
 bio: ""
 type: "collection"
-heat: 231
+heat: 244
 
 query: item.affiliation.name contains 'MIT'
 
