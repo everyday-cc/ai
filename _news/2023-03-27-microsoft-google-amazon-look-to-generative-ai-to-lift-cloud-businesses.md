@@ -89,6 +89,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "In the AI era, Microsoft is the new Google, and vice-versa"
+    excerpt: "Microsoft's AI efforts suggest that the company has traded places with Google when it comes to the cool factor."
+    publishedDateTime: 2023-03-30T14:00:00Z
+    webUrl: "https://www.androidauthority.com/microsoft-new-google-ai-opinion-3302336/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 84
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Bing-Chat-on-phone-4.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Streaming Services and Cybersecurity"
     excerpt: "The popularity of streaming platforms and apps have exploded in recent years. Streaming services have now become the norm, rather than the exception, as more households “cut the cord” with their cable providers."
     publishedDateTime: 2023-03-27T19:37:00Z

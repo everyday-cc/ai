@@ -9,8 +9,8 @@ ampWebUrl: "https://tribune.com.pk/story/2408472/public-health-ai-and-ethics?amp
 cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2408472/public-health-ai-and-ethics?amp=1"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 144
+published: true
 
 provider:
   name: The Express Tribune
@@ -27,68 +27,88 @@ images:
     isCached: true
 
 related:
-  - title: "ICMR releases first ethical guidelines for AI in healthcare"
-    excerpt: "The guidelines aim to establish an ethical framework for the development of AI-based tools that can benefit all stakeholders."
-    publishedDateTime: 2023-03-26T15:52:00Z
-    webUrl: "https://www.livemint.com/news/india/icmr-releases-first-ethical-guidelines-for-ai-in-healthcare-11679845618748.html"
-    ampWebUrl: "https://www.livemint.com/news/india/icmr-releases-first-ethical-guidelines-for-ai-in-healthcare/amp-11679845618748.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/icmr-releases-first-ethical-guidelines-for-ai-in-healthcare/amp-11679845618748.html"
+  - title: "Data and AI Ethics Market 2023 Size Growing Rapidly with Recent Trends"
+    excerpt: "Market Updates(360marketupdates.com) published a new research report on Data and AI Ethics Market 2023 with 110"
+    publishedDateTime: 2023-03-29T02:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2023-size-growing-rapidly-with-recent-trends-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+  - title: "With artificial intelligence, age is just a number"
+    excerpt: "Well, one where a runway show was not just built using artificial intelligence (AI) but also had older people as models. You see, many would argue that fashion is ageist and that most people who walk the runways are young Gen Zs and Millennials who appeal to a certain demographic."
+    publishedDateTime: 2023-03-27T06:17:00Z
+    webUrl: "https://mg.co.za/friday/2023-03-27-with-artificial-intelligence-age-is-just-a-number/"
+    ampWebUrl: "https://mg.co.za/friday/2023-03-27-with-artificial-intelligence-age-is-just-a-number/?amp"
+    cdnAmpWebUrl: "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/friday/2023-03-27-with-artificial-intelligence-age-is-just-a-number/?amp"
+    type: article
+    provider:
+      name: Mail & Guardian
+      domain: mg.co.za
+    quality: 59
+    images:
+      - url: "https://mg.co.za/wp-content/uploads/2023/03/slickcityceo_Elder_african_black_woman_walking_on_a_runwayparis_1e7535e1-7d57-4512-a0ca-c0cabdc0392e.png"
+        width: 896
+        height: 1344
+        isCached: true
+  - title: "Mint Explainer: What are the promises and perils of AI in health?"
+    excerpt: "The Indian Council of Medical Research (ICMR) recently released broad ethical guidelines on the use of artificial intelligence (AI ... using cognitive behaviour therapy techniques and on-demand support. Another high-potential area is epidemiology ..."
+    publishedDateTime: 2023-03-31T07:34:00Z
+    webUrl: "https://www.livemint.com/opinion/online-views/mint-explainer-what-are-the-promises-and-perils-of-ai-in-health-11680247109305.html"
+    ampWebUrl: "https://www.livemint.com/opinion/online-views/mint-explainer-what-are-the-promises-and-perils-of-ai-in-health/amp-11680247109305.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/mint-explainer-what-are-the-promises-and-perils-of-ai-in-health/amp-11680247109305.html"
     type: article
     provider:
       name: Mint
       domain: livemint.com
-    quality: 91
+    quality: 59
     images:
-      - url: "https://www.livemint.com/lm-img/img/2023/03/26/600x338/cervical_cancer__1679845856883_1679845857081_1679845857081.webp"
+      - url: "https://www.livemint.com/lm-img/img/2023/03/31/600x338/GERMANY-POPULATION-TECHNOLOGY-HEALTH-SCIENCE-0_168_1680247753658_1680247753862_1680247753862.jpg"
         width: 600
-        height: 337
+        height: 338
         isCached: true
-  - title: "Artificial Intelligence In Indian Healthcare System: ICMR Releases First Ethical Guidelines"
-    excerpt: "In a major development in the healthcare system in India, the Department of Health Research and ICMR's Artificial Intelligence Cell have released the first-ever ethical guidelines for applying artificial intelligence in biomedical research and healthcare structure in the country."
-    publishedDateTime: 2023-03-27T06:39:00Z
-    webUrl: "https://www.thehealthsite.com/news/artificial-intelligence-in-indian-healthcare-system-icmr-releases-first-ethical-guidelines-965130/"
-    ampWebUrl: "https://www.thehealthsite.com/news/artificial-intelligence-in-indian-healthcare-system-icmr-releases-first-ethical-guidelines-965130/amp/"
-    cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-in-indian-healthcare-system-icmr-releases-first-ethical-guidelines-965130/amp/"
+  - title: "The problem with artificial intelligence is us"
+    excerpt: "The race to create the best artificial intelligence chatbot is on. At the time of writing, Google is unveiling its new chatbot, Bard, to 10,000 testers. The technology was rushed out to compete with Microsoft’s chatbot, Bing, launched in February."
+    publishedDateTime: 2023-03-28T16:45:00Z
+    webUrl: "https://www.christiancentury.org/article/features/problem-artificial-intelligence-us"
     type: article
     provider:
-      name: TheHealthSite
-      domain: thehealthsite.com
-    quality: 81
+      name: The Christian Century
+      domain: christiancentury.org
+    quality: 39
     images:
-      - url: "https://st1.thehealthsite.com/wp-content/uploads/2023/03/AI-in-healthcare.png"
-        width: 1024
-        height: 682
+      - url: "https://www.christiancentury.org/sites/default/files/images/detail/pexels-federico-orlandi-3260626.jpg"
+        width: 6000
+        height: 4000
         isCached: true
-  - title: "ICMR Comes Up With First Ethical Guidelines For Application Of AI In Biomedical Research, Healthcare"
-    excerpt: "The guidelines are intended for all stakeholders involved in research on artificial intelligence in healthcare, including creators, developers, technicians, researchers, clinicians, ethics committees,"
-    publishedDateTime: 2023-03-26T23:52:00Z
-    webUrl: "https://www.outlookindia.com/national/icmr-comes-up-with-first-ethical-guidelines-for-application-of-ai-in-biomedical-research-healthcare-news-273446"
-    ampWebUrl: "https://www.outlookindia.com/national/icmr-comes-up-with-first-ethical-guidelines-for-application-of-ai-in-biomedical-research-healthcare-news-273446/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/icmr-comes-up-with-first-ethical-guidelines-for-application-of-ai-in-biomedical-research-healthcare-news-273446/amp"
+  - title: "AI Ethics: Not Eventually, but Now"
+    excerpt: "As Moore’s law makes way for specially designed AI acceleration, ethics research is becoming increasingly important. With many technologies trained to learn from experience, such research is not only relevant in anticipation of some distant dystopian future — it is vital today,"
+    publishedDateTime: 2023-03-30T18:36:00Z
+    webUrl: "https://www.thecrimson.com/article/2023/3/30/editorial-ai-ethics-now/"
     type: article
     provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 76
-    images:
-      - url: "https://imgnew.outlookindia.com/public/uploads/articles/2020/4/12/Coronavirus_AP12_.jpg"
-        width: 900
-        height: 450
-        isCached: true
-  - title: "ICMR releases first ethical guidelines for AI application in biomedical research, healthcare"
-    excerpt: "The Indian Council of Medical Research (ICMR) has come up with the country’s first Ethical Guidelines for the Application of Artificial Intelligence in Biomedical Research and Healthcare to provide an ethical framework for the development of AI-based ..."
-    publishedDateTime: 2023-03-27T07:43:00Z
-    webUrl: "https://www.dailypioneer.com/2023/india/icmr-releases-first-ethical-guidelines-for-ai-application-in-biomedical-research--healthcare.html"
+      name: The Harvard Crimson
+      domain: thecrimson.com
+    quality: 34
+  - title: "Healthians adds Artificial Intelligence based innovation to its Smart Report feature"
+    excerpt: "Humans always want their lives to be easier and better, and this constant hunger is what Healthians is satisfying by helping people simplify tasks that seem complicated. One such struggle for healthcare consumers is to read and understand their medical reports without any professional help."
+    publishedDateTime: 2023-03-30T11:20:00Z
+    webUrl: "https://www.afaqs.com/companies/healthians-adds-artificial-intelligence-based-innovation-to-its-smart-report-feature"
     type: article
     provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 60
-    images:
-      - url: "https://www.dailypioneer.com/images/logo.jpg"
-        width: 325
-        height: 325
-        isCached: true
+      name: AFAQS
+      domain: afaqs.com
+    quality: 12
+  - title: "CSI and Hawk AI Partner To Release AI-Driven Solutions for Fraud and Anti-Money Laundering"
+    excerpt: "CSI, a leading provider of end-to-end fintech and regtech solutions, announced today it has partnered with Hawk AI, a leading global provider of anti-money laundering (AML) and fraud prevention technology for banks and payment companies,"
+    publishedDateTime: 2023-03-28T17:02:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/03/28/9784224.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "x76T0X6/h40hldN1XqrK/SHH82GNATeLEWc5xBEG2GSsvkj772WG4SpEqOh9MwrNAmMnx4ogPnJVj8kCJDFkWzKxjNGSBBZ6CbGVRGzAP/ZSuZoLA+ZzP/Rv+QtZTsEkbYs5Zk5BONtoe0hHadGLxw21ZAQIJbsWzSokrsdIuMAXtR9X95vgSfTk1f0ahD9D0EN45QUGve6vUdg7fIcHcLi49aG63+lJc9hPU54pMBpGSA7clSC5dyTK5oGTZ2WoI7EaOdsTnzvEe1VkoiEhW6yb1qGAF3n+dzc2ZEA5kEEtEIAZqG5owvsrQBi8ZIz6XXtcEqtH5r8ey7Oi2wuy7Q8OIuerkHRvpnpkn+e6TReEiby6eu2nRpLLZl2zKZOVJfyqvgT92NsMuXV8HuC8kyGsakkZ1d9WxEm5IX1D8BfFw1JsqH2Z6qKRWWTuwx+eDDWXDWtL3MvLTLJ50dxPsQQq8puRiMY7xZWzOIp66yyGKHjxO1flBFIjJjsLeLgf9AU0hBhGjDvgmfswErJEzQ==;43WoGd40UvppbjBi6rWiGw=="
 ---

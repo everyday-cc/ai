@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/public-safety/california-hears-bid-to-re-ban
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/california-hears-bid-to-re-ban-police-facial-recognition-tech?_amp=true"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -22,34 +22,31 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Meet the Facial Recognition Giant Helping Bangalore Police"
-    excerpt: "Honeywell Automation India Limited today announced that it has successfully implemented phase one of the Bangalore Safe City project."
-    publishedDateTime: 2023-03-28T13:47:00Z
-    webUrl: "https://analyticsindiamag.com/meet-the-facial-recognition-giant-helping-bangalore-police/"
+  - title: "European Parliament calls for a ban on facial recognition"
+    excerpt: "The European Parliament today called for a ban on police use of facial recognition technology in public places, and on predictive policing, a controversial practice that involves using AI tools in hopes of profiling potential criminals before a crime is ..."
+    publishedDateTime: 2023-03-30T11:11:00Z
+    webUrl: "https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/?ref=blog.salesforceairesearch.com"
+    ampWebUrl: "https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/amp/?ref=blog.salesforceairesearch.com"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/amp/?ref=blog.salesforceairesearch.com"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
+      name: Politico Europe
+      domain: politico.eu
+    quality: 59
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/surv-b_11zon-1536x863-1.jpg"
-        width: 1536
-        height: 863
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/10/06/GettyImages-1168367649-scaled.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Anthem Blue Cross Introduces Virtual-First Health Plans, Helping California Members Access Convenient, Affordable Care Options"
-    excerpt: "Members can choose virtual care, allowing for high-quality care at a lower cost Anthem Blue Cross (Anthem) in California today announced its Virtual-First health plans to eligible members in select co"
-    publishedDateTime: 2023-03-27T13:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/b31511099/anthem-blue-cross-introduces-virtual-first-health-plans-helping-california-members-access-convenie"
+  - title: "Putin is using facial recognition surveillance to nab dissenters before they can protest"
+    excerpt: "Facial recognition has long been criticized as an overreaching and oftentimes racist surveillance tool. It has also been utilized in places like Hong Kong to identify and track those who"
+    publishedDateTime: 2023-03-28T19:30:00Z
+    webUrl: "https://omaha.com/news/world/putin-is-using-facial-recognition-surveillance-to-nab-dissenters-before-they-can-protest/video_265c3478-b187-5531-aeda-649e07cdb4bb.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
+      name: Omaha.com
+      domain: omaha.com
+    quality: 10
 
 secured: "f/ttu/xca0vY2VCn1PtsiYstmNnVcrP9cnP8na3ll9U1D4drkaqXUF4OCkMh/dhx0Qoa0Qu8vDc/RibE1zeCXajHpFKX0+mVyEheNfpqcGv1GKQrwA8APKIVRorLdnvPOZY6yxSsYaOPifXxC16E6DPwtPXF2uBKD6S1b8KsvsA9PfmUY6YLZk8j0Pv3raltwCh8XZerveYDcwk56S0iyWHNI8BJJqiKStkmTM4GcX+lohdSTF8DTvuohFZ3IwkRI8pd8zgzLeRjBC2urv8eQJng/UDO2y/O2bAkw1nD0qQr5z9nvYNG0XwW9B2KPj9jxsLA7c6O4KDbadpk1v6iSpX2F3g9U4Qfm9rq9zmeDUvSvUQCdYJlHduJ70rnHDeeajeMTmu4cYgJW1iAPrSFnuzhWX08UKtZPrQoMx4Fnnc1hPzuJyfJi/Aj5djAJFyZSiy7u3X7/ZTiDLG8GnlXJtUyEYgDhGeCzMxD7pAeypNADDWeuUl4UANrQuigffewy8IuIzzD3GlXLtpccnhWRQ==;L79snht01Gqv55QOjP2sBg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/opinion/online-views/mint-explainer-what-ar
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/mint-explainer-what-are-the-promises-and-perils-of-ai-in-health/amp-11680247109305.html"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,90 @@ images:
     width: 600
     height: 338
     isCached: true
+
+related:
+  - title: "Public health, AI and ethics"
+    excerpt: "First, we must note that medical ethics in the country are far from where they ought ... In this environment, a potent new tool needs to be handled with great care. Increased reliance on AI for diagnosis may sound cool to many, but the system is far ..."
+    publishedDateTime: 2023-03-28T03:51:00Z
+    webUrl: "https://tribune.com.pk/story/2408472/public-health-ai-and-ethics"
+    ampWebUrl: "https://tribune.com.pk/story/2408472/public-health-ai-and-ethics?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2408472/public-health-ai-and-ethics?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 74
+    images:
+      - url: "https://i.tribune.com.pk/media/images/1078711-MuhammadHamidZamanNew-1459790290/1078711-MuhammadHamidZamanNew-1459790290.JPG"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Data and AI Ethics Market 2023 Size Growing Rapidly with Recent Trends"
+    excerpt: "Market Updates(360marketupdates.com) published a new research report on Data and AI Ethics Market 2023 with 110"
+    publishedDateTime: 2023-03-29T02:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2023-size-growing-rapidly-with-recent-trends-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+  - title: "With artificial intelligence, age is just a number"
+    excerpt: "Well, one where a runway show was not just built using artificial intelligence (AI) but also had older people as models. You see, many would argue that fashion is ageist and that most people who walk the runways are young Gen Zs and Millennials who appeal to a certain demographic."
+    publishedDateTime: 2023-03-27T06:17:00Z
+    webUrl: "https://mg.co.za/friday/2023-03-27-with-artificial-intelligence-age-is-just-a-number/"
+    ampWebUrl: "https://mg.co.za/friday/2023-03-27-with-artificial-intelligence-age-is-just-a-number/?amp"
+    cdnAmpWebUrl: "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/friday/2023-03-27-with-artificial-intelligence-age-is-just-a-number/?amp"
+    type: article
+    provider:
+      name: Mail & Guardian
+      domain: mg.co.za
+    quality: 59
+    images:
+      - url: "https://mg.co.za/wp-content/uploads/2023/03/slickcityceo_Elder_african_black_woman_walking_on_a_runwayparis_1e7535e1-7d57-4512-a0ca-c0cabdc0392e.png"
+        width: 896
+        height: 1344
+        isCached: true
+  - title: "The problem with artificial intelligence is us"
+    excerpt: "The race to create the best artificial intelligence chatbot is on. At the time of writing, Google is unveiling its new chatbot, Bard, to 10,000 testers. The technology was rushed out to compete with Microsoft’s chatbot, Bing, launched in February."
+    publishedDateTime: 2023-03-28T16:45:00Z
+    webUrl: "https://www.christiancentury.org/article/features/problem-artificial-intelligence-us"
+    type: article
+    provider:
+      name: The Christian Century
+      domain: christiancentury.org
+    quality: 39
+    images:
+      - url: "https://www.christiancentury.org/sites/default/files/images/detail/pexels-federico-orlandi-3260626.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
+  - title: "AI Ethics: Not Eventually, but Now"
+    excerpt: "As Moore’s law makes way for specially designed AI acceleration, ethics research is becoming increasingly important. With many technologies trained to learn from experience, such research is not only relevant in anticipation of some distant dystopian future — it is vital today,"
+    publishedDateTime: 2023-03-30T18:36:00Z
+    webUrl: "https://www.thecrimson.com/article/2023/3/30/editorial-ai-ethics-now/"
+    type: article
+    provider:
+      name: The Harvard Crimson
+      domain: thecrimson.com
+    quality: 34
+  - title: "Healthians adds Artificial Intelligence based innovation to its Smart Report feature"
+    excerpt: "Humans always want their lives to be easier and better, and this constant hunger is what Healthians is satisfying by helping people simplify tasks that seem complicated. One such struggle for healthcare consumers is to read and understand their medical reports without any professional help."
+    publishedDateTime: 2023-03-30T11:20:00Z
+    webUrl: "https://www.afaqs.com/companies/healthians-adds-artificial-intelligence-based-innovation-to-its-smart-report-feature"
+    type: article
+    provider:
+      name: AFAQS
+      domain: afaqs.com
+    quality: 12
+  - title: "CSI and Hawk AI Partner To Release AI-Driven Solutions for Fraud and Anti-Money Laundering"
+    excerpt: "CSI, a leading provider of end-to-end fintech and regtech solutions, announced today it has partnered with Hawk AI, a leading global provider of anti-money laundering (AML) and fraud prevention technology for banks and payment companies,"
+    publishedDateTime: 2023-03-28T17:02:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/03/28/9784224.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "DK+7s43g4AdjKW88pho98P6B+HuM5y8tCpvB5jseWTiZeJ6HbwyjapUIjJA8gAbezLEWA5SFBjAsZlUAWe4e5QITSOHDO8I61LI0RvPJzrPMXU1isRK3uTEctGqeOYlW2IuSkf+26KR6qiwd8N0qCos4Iqr2ACIH6C1F5L/FZSZFOtiGpUnvl0XpEkhL1MucRqjmYZjmL58vsLQ8hsaIFOrscLNa6q8wpFubnOx+da+srlMYkw48xpREy780TN02dQoLy7Xp9B1jzKTeJXNzSv4uOLs6NoavccwKZJswF7LDWxEo/HNzcfGde3H5KquZEgBbB9KPELYTdee+dpNYyaRMvWxq72CdRlGlO/bWTCA=;8zkyASCEl0HFfn76zBfp/A=="
 ---

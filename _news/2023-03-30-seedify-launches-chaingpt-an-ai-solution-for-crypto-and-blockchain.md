@@ -21,15 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Blocktrace Builds AI Chatbot to Simplify Blockchain Transaction Tracking"
-    excerpt: "Launched in 2018 by software engineer Shaun MaGruder, whose background includes work as the head of training at blockchain forensics firm, Chainalysis, Blocktrace is an AI-fortified blockchain forensic and analytical service provider."
-    publishedDateTime: 2023-03-30T02:54:00Z
-    webUrl: "https://decrypt.co/124928/blocktrace-introduces-ai-chatbot-for-easy-blockchain-transaction-tracking"
-    type: article
-    provider:
-      name: decrypt
-      domain: decrypt.co
-    quality: 20
   - title: "Illia Polosukhin: Building Near's Blockchain, Embedding AI"
     excerpt: "The co-founder, a speaker at CoinDesk’s Consensus festival, said Near is taking on Ethereum and already boasts 25 million accounts and 446,000 daily transactions."
     publishedDateTime: 2023-03-27T17:30:00Z

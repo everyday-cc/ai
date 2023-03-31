@@ -360,6 +360,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
+  - title: "Artificial Intelligence in IoT Market 2023 Growth, Trend and Outlook till 2031"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 30, 2023 (The Expresswire) -- Artificial Intelligence in IoT Marketinformation for each competitor includes (IBM, Arundo, SAS, GE, SAP, Uptake, Microsoft, Autoplant ..."
+    publishedDateTime: 2023-03-31T09:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-2023-growth-trend-and-outlook-till-2031-2023-03-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2023-2029 Global Cloud-based AI Chip Market Growth Analysis Report"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2023 (The Expresswire) -- The Cloud-based AI Chip Market report provides a comprehensive analysis of the global market, covering both qualitative and quantitative ..."
     publishedDateTime: 2023-03-28T12:42:00Z

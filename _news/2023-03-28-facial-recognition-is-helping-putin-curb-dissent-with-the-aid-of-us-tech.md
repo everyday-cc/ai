@@ -7,7 +7,7 @@ originalUrl: "https://www.stltoday.com/news/national/facial-recognition-is-helpi
 webUrl: "https://www.stltoday.com/news/national/facial-recognition-is-helping-putin-curb-dissent-with-the-aid-of-us-tech/article_993af131-23e1-5844-8bc6-1dea6eabbb81.html"
 type: article
 quality: 53
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
       name: Irish Sun
       domain: thesun.ie
     quality: 13
-  - title: "Putin is using facial recognition surveillance to nab dissenters before they can protest"
-    excerpt: "Facial recognition has long been criticized as an overreaching and oftentimes racist surveillance tool. It has also been utilized in places like Hong Kong to identify and track those who"
-    publishedDateTime: 2023-03-28T19:30:00Z
-    webUrl: "https://omaha.com/news/world/putin-is-using-facial-recognition-surveillance-to-nab-dissenters-before-they-can-protest/video_265c3478-b187-5531-aeda-649e07cdb4bb.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 10
 
 secured: "93h3oZBbI8shtoXshR7xJc612UPqtAKcefEwwO7DHn+w4EK8+GH44puKeNdvjGch7Rn1k4Dry6jDso2wADswhXa2iqfSdOD1dpL1JoEUHoYMD+3XphsP8QQPPjvm/JXjg0A5dCTijCMv+GdH8DUhWJfi8TxD6buYMDqfnYhEpN06IBG9ahZ+zyFMB9Ha1qONVaBqhFxJNA/ZgQPpXKyGZ+uEsEmQhnz8jKXV0khzSihMlX8bL/HpmSYCT1C45nvDffqUYb2DDE6bypPgZ4MfD6Mlg4de27wOPJsv3RrlF9rBaSa6fjx7AHxysk78C70eYGtRnkO3X+1XyURpvnc9uoeDX3iBu50CT1Z6yh+0TlGHKbt1588e2VwvlLQ6p5pakKifyvjOMqfPH2IdTAGHYnJKW4YyNiDQpnUq2xBo5RRRx/Y9uTolvb85VCwRcRWVpbXbMOX+GEdqfX8i1WaLLjAKVZGkc06hTp0OfCYna8Hur8z56Powqm27F/SbjNfNnrC3++pnBYWJOq2KTtLfhA==;8UeKth8DaTgu4o14x/IEgw=="
 ---

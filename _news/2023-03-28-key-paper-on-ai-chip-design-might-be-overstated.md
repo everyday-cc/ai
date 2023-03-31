@@ -64,20 +64,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "The problem with artificial intelligence is us"
-    excerpt: "The race to create the best artificial intelligence chatbot is on. At the time of writing, Google is unveiling its new chatbot, Bard, to 10,000 testers. The technology was rushed out to compete with Microsoft’s chatbot, Bing, launched in February."
-    publishedDateTime: 2023-03-28T16:45:00Z
-    webUrl: "https://www.christiancentury.org/article/features/problem-artificial-intelligence-us"
-    type: article
-    provider:
-      name: The Christian Century
-      domain: christiancentury.org
-    quality: 39
-    images:
-      - url: "https://www.christiancentury.org/sites/default/files/images/detail/pexels-federico-orlandi-3260626.jpg"
-        width: 6000
-        height: 4000
-        isCached: true
 
 secured: "+xe+64Cooi6h+lImS8Jk030Amwwdw357mKsx2XHVwqtNGi/BDbf4RK9ge3ANwuWMAuckU33uPrl33fhQPyeEJklcBa884yStfvxE3MQNMwZhr7vaCSqkI+1q3VUTnkLCouTe3J0GJl6hpTDZpOwlyWItnVqb3K08cucnZRaG1h5bho2WjBKrFiwmwaQybpUcxmKGMSwlGv8bRwkQbKAVSYTznjXPmGnzpFYvevg6eMV6r72zflsqs3Se7vi7W4RJ7BztjWoQFaX2MgNgW/w208hvoUqaT8wIUKO1hvJy9eUKdpQuwKZB818/MTclQYYKu3VN0VoukGCZhhJjXVxSDe76qlNsOs9BzJoFJMLFc0M5LOz2DNCc5Z3/CMQj279lTIcyHeUxJszs+uTEiPClUIpoPAwZI2y+IdPZbL9ZGWRHtIMtoihBBUoOu/ZQ2wh22aoEh34PG/Y13ITdHivrZGH6xXzkdfjKwRdK86ApnQfu8ESWveku1+kVsSQZoaLDoDK9xoJNqzqwfnE/g+1Beg==;9e1Nhjb7A4KnJIxH/dwumA=="
 ---

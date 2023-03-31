@@ -56,20 +56,6 @@ related:
         width: 768
         height: 512
         isCached: true
-  - title: "How AI is Creating Explosive Demand for Training Data"
-    excerpt: "Artificial Intelligence (AI) has rapidly evolved in recent years, leading to groundbreaking innovations and transforming various industries. One crucial factor driving this progress is the availability and quality of training data."
-    publishedDateTime: 2023-03-26T16:59:00Z
-    webUrl: "https://www.unite.ai/how-ai-is-creating-explosive-demand-for-training-data/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/03/fabio-ballasina-wEL2zPX3jDg-unsplash-942x600.jpg"
-        width: 942
-        height: 600
-        isCached: true
   - title: "Big banks invest in generative AI startup Hazy"
     excerpt: "Hazy won the $1 million Microsoft Innovate AI prize for the best AI startup in Europe and has signed up big name clients, including financial services giants Nationwide and Wells Fargo. Harry Keen, CEO, Hazy, says: \"This funding will solidify our position ..."
     publishedDateTime: 2023-03-27T23:01:00Z

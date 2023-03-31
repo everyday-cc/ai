@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-security-copilot-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters/"
 type: article
 quality: 116
-heat: 186
+heat: 196
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/5X0IGMLrTUsRnyo97W-GRqDZBiA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347781/STK095_Microsoft_03.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "In the AI era, Microsoft is the new Google, and vice-versa"
+    excerpt: "Microsoft's AI efforts suggest that the company has traded places with Google when it comes to the cool factor."
+    publishedDateTime: 2023-03-30T14:00:00Z
+    webUrl: "https://www.androidauthority.com/microsoft-new-google-ai-opinion-3302336/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 84
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Bing-Chat-on-phone-4.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Microsoft, Google, Amazon Look to Generative AI to Lift Cloud Businesses"
     excerpt: "The cloud providers are using the tech behind ChatGPT to heat up demand for their services."

@@ -57,15 +57,6 @@ related:
       name: Irish Sun
       domain: thesun.ie
     quality: 13
-  - title: "Putin is using facial recognition surveillance to nab dissenters before they can protest"
-    excerpt: "Facial recognition has long been criticized as an overreaching and oftentimes racist surveillance tool. It has also been utilized in places like Hong Kong to identify and track those who"
-    publishedDateTime: 2023-03-28T19:30:00Z
-    webUrl: "https://omaha.com/news/world/putin-is-using-facial-recognition-surveillance-to-nab-dissenters-before-they-can-protest/video_265c3478-b187-5531-aeda-649e07cdb4bb.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 10
 
 secured: "w/fPqFVLYk88yvzep6gM5kFO/PPANo+e5ap5KN16xmBYpDlJXcfFI13CsScjm9d540JMNgVzf1Q5Z4vt8k/udTwEPI9d8b/UWzXHj/Y63MsTtEKtEYLtiLSuE0+w14um+Jzw6e+I765bn45M9gtJIZt/dBrgBTaH8ALD627vl9Ph98Q0zQnT4ZjMdQxaP5kQgCxomEeimw22pSuwotgx3vZErxj0QK9fgGPgTPgZ5uSGf5eevTgY1nMuWECb0O7OQN0Wlauvnj2G/0CtSn9yIBdkwK11rLQ4gYZj3yNzAfuIJM6PuxNCaWx5Mm0EkLJF1ohhKGjJVQJfhoS6CagNb2UUI/06u/4ZL39H+kJh14bgidEuoaUq6Tqo9ovKpfyanP0Ae7OkZLLuEBwSTSBfNa6FApNIB3u30wxImj+iQGXb00sKytjyOmsEtpEJ0Pcq3H+ikpvXm0i/palNUYGbaQNaDw8LJeEacw3PU/2pCYX7bswc3lje4ousCfRc9zkdBWu0v8nWuHQeWBspxLir8g==;b1meElXA77wXNyinn0xlxQ=="
 ---

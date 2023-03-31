@@ -51,20 +51,6 @@ related:
         width: 768
         height: 512
         isCached: true
-  - title: "How AI is Creating Explosive Demand for Training Data"
-    excerpt: "Artificial Intelligence (AI) has rapidly evolved in recent years, leading to groundbreaking innovations and transforming various industries. One crucial factor driving this progress is the availability and quality of training data."
-    publishedDateTime: 2023-03-26T16:59:00Z
-    webUrl: "https://www.unite.ai/how-ai-is-creating-explosive-demand-for-training-data/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/03/fabio-ballasina-wEL2zPX3jDg-unsplash-942x600.jpg"
-        width: 942
-        height: 600
-        isCached: true
   - title: "New Report Details How Generative AI Impacts Work"
     excerpt: "Aberdeen's latest research offers insight into the ways professionals use generative AI today, as well as how AI might affect work in the future."
     publishedDateTime: 2023-03-29T15:11:00Z

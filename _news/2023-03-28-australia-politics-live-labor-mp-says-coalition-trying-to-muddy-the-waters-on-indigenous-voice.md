@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/mar/28/australi
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/mar/28/australia-politics-live-labor-anthony-albanese-housing-future-fund-senate-greens-pocock-nsw-election-minority-chris-minns-climate-gas-bandt-bowen-safeguard"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,35 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "Pearson says campaign ready for success as voice taken out of politicians’ hands"
+    excerpt: "Noel Pearson, the consequential figure of the modern movement for constitutional change in recognition of Indigenous Australians, says the voice campaign is ready for success. “The question is now headed towards the Australian people and will soon be out ..."
+    publishedDateTime: 2023-03-31T09:33:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/pearson-says-campaign-ready-for-success-as-voice-taken-out-of-politicians-hands/news-story/c24d84835dcc18d3529b7a49bf8fc5ff"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/pearson-says-campaign-ready-for-success-as-voice-taken-out-of-politicians-hands/news-story/c24d84835dcc18d3529b7a49bf8fc5ff?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/pearson-says-campaign-ready-for-success-as-voice-taken-out-of-politicians-hands/news-story/c24d84835dcc18d3529b7a49bf8fc5ff?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 34
+  - title: "Noel Pearson ‘absolutely heartbroken’ conservatives who held create the Voice are abandoning it"
+    excerpt: "As a lawyer, academic, and founder of the Cape York Institute, Mr Pearson has been intimately involved in the drive for constitutional recognition of Indigenous Australians, up to and including the campaign for a Voice to Parliament. Speaking to Sky News ..."
+    publishedDateTime: 2023-03-28T11:44:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/noel-pearson-absolutely-heartbroken-conservatives-who-held-create-the-voice-are-abandoning-it/news-story/52536472bbe359d528dd672adb56163d"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/noel-pearson-absolutely-heartbroken-conservatives-who-held-create-the-voice-are-abandoning-it/news-story/52536472bbe359d528dd672adb56163d?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/noel-pearson-absolutely-heartbroken-conservatives-who-held-create-the-voice-are-abandoning-it/news-story/52536472bbe359d528dd672adb56163d?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 32
+    images:
+      - url: "https://content.api.news/v3/images/bin/fdbc7dc24caffd66c05e015ecfbd5494"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "KYbmW+PRGp1K3zPFn/cKRIE7+Oj4gBwosRC/SehVMu4J9lFly+wiYZIBdL/J+2h+XjpxzP/DO/OOlB+4urVVZANpy3+WJ8y/hwPRgqDJbg7iHXmUyeej2moG/Lp6eIpamS5gOWwVz6dMeImig4JAd0KqbD/sBtY4zhf8zWdSYyW4lkOMPKANft1kpi0Mv10wKYaFIyZiKl0gq7l216as4B3z1vf2Yz4HTx+r3+U5SKknwa0F2ZD7R/M5IxCj7c61bYisawL6oeW7YyODbwo7S40QFglc3NMCQgAo1JjUdTrNgddXgtwgdA+Rd0TbjwaoNf06ZnvOiRBHR9TqVThQA3Dd4+jwtzD76zaHUexH4P0=;evDTkkGonfrjdEARJ9qCtg=="
 ---

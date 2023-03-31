@@ -361,6 +361,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
+  - title: "Artificial Intelligence in IoT Market 2023 Growth, Trend and Outlook till 2031"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 30, 2023 (The Expresswire) -- Artificial Intelligence in IoT Marketinformation for each competitor includes (IBM, Arundo, SAS, GE, SAP, Uptake, Microsoft, Autoplant ..."
+    publishedDateTime: 2023-03-31T09:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-2023-growth-trend-and-outlook-till-2031-2023-03-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automatic Speech Recognition(ASR) Software Market 2023 Size and Forecast to 2030"
     excerpt: "Automatic Speech Recognition(ASR) Software Marketinformation for each competitor includes (Nuance, LilySpeech,"
     publishedDateTime: 2023-03-27T01:48:00Z

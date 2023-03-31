@@ -25,59 +25,90 @@ images:
     isCached: true
 
 related:
-  - title: "The Dream Of Placing Blocks On Chip Designs With AI"
-    excerpt: "“This work demonstrates the effectiveness of combining GPU-accelerated placers with AI/ML multi-objective parameter optimization,” Agnesina and Ren wrote. “Furthermore, given the importance of scalability in modern chip design flows, we hope this ..."
-    publishedDateTime: 2023-03-27T19:50:00Z
-    webUrl: "https://www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/"
-    ampWebUrl: "https://www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/amp/"
+  - title: "Public health, AI and ethics"
+    excerpt: "First, we must note that medical ethics in the country are far from where they ought ... In this environment, a potent new tool needs to be handled with great care. Increased reliance on AI for diagnosis may sound cool to many, but the system is far ..."
+    publishedDateTime: 2023-03-28T03:51:00Z
+    webUrl: "https://tribune.com.pk/story/2408472/public-health-ai-and-ethics"
+    ampWebUrl: "https://tribune.com.pk/story/2408472/public-health-ai-and-ethics?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2408472/public-health-ai-and-ethics?amp=1"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
+      name: The Express Tribune
+      domain: tribune.com.pk
     quality: 74
     images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2023/03/Nvidia-AutoDMP.jpg"
-        width: 1999
-        height: 1126
+      - url: "https://i.tribune.com.pk/media/images/1078711-MuhammadHamidZamanNew-1459790290/1078711-MuhammadHamidZamanNew-1459790290.JPG"
+        width: 800
+        height: 600
         isCached: true
-  - title: "AI Becoming More Prominent In Chip Design"
-    excerpt: "The good and bad of more data, and how AI can leverage that data to optimize designs and improve reliability. Semiconductor Engineering sat down to talk about the role of AI in managing data and improving designs,"
-    publishedDateTime: 2023-03-27T07:01:00Z
-    webUrl: "https://semiengineering.com/ai-becoming-more-prominent-in-chip-design/"
+  - title: "Data and AI Ethics Market 2023 Size Growing Rapidly with Recent Trends"
+    excerpt: "Market Updates(360marketupdates.com) published a new research report on Data and AI Ethics Market 2023 with 110"
+    publishedDateTime: 2023-03-29T02:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2023-size-growing-rapidly-with-recent-trends-2023-03-28"
     type: article
     provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+  - title: "With artificial intelligence, age is just a number"
+    excerpt: "Well, one where a runway show was not just built using artificial intelligence (AI) but also had older people as models. You see, many would argue that fashion is ageist and that most people who walk the runways are young Gen Zs and Millennials who appeal to a certain demographic."
+    publishedDateTime: 2023-03-27T06:17:00Z
+    webUrl: "https://mg.co.za/friday/2023-03-27-with-artificial-intelligence-age-is-just-a-number/"
+    ampWebUrl: "https://mg.co.za/friday/2023-03-27-with-artificial-intelligence-age-is-just-a-number/?amp"
+    cdnAmpWebUrl: "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/friday/2023-03-27-with-artificial-intelligence-age-is-just-a-number/?amp"
+    type: article
+    provider:
+      name: Mail & Guardian
+      domain: mg.co.za
+    quality: 59
     images:
-      - url: "https://semiengineering.com/wp-content/uploads/Black-Gold-AdobeStock_421176269-07-07-21-scaled.jpeg?fit=2560%2C1080&ssl=1"
-        width: 2560
-        height: 1080
+      - url: "https://mg.co.za/wp-content/uploads/2023/03/slickcityceo_Elder_african_black_woman_walking_on_a_runwayparis_1e7535e1-7d57-4512-a0ca-c0cabdc0392e.png"
+        width: 896
+        height: 1344
         isCached: true
-  - title: "Key paper on AI chip design might be overstated"
-    excerpt: "Terminator not coming for chip designers A key Google-led research paper claiming machine-learning software can design better chips faster than humans has been called into question after a new study disputed its results."
-    publishedDateTime: 2023-03-28T11:12:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/56610-key-paper-on-ai-chip-design-might-be-overstated"
+  - title: "Mint Explainer: What are the promises and perils of AI in health?"
+    excerpt: "The Indian Council of Medical Research (ICMR) recently released broad ethical guidelines on the use of artificial intelligence (AI ... using cognitive behaviour therapy techniques and on-demand support. Another high-potential area is epidemiology ..."
+    publishedDateTime: 2023-03-31T07:34:00Z
+    webUrl: "https://www.livemint.com/opinion/online-views/mint-explainer-what-are-the-promises-and-perils-of-ai-in-health-11680247109305.html"
+    ampWebUrl: "https://www.livemint.com/opinion/online-views/mint-explainer-what-are-the-promises-and-perils-of-ai-in-health/amp-11680247109305.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/mint-explainer-what-are-the-promises-and-perils-of-ai-in-health/amp-11680247109305.html"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
+      name: Mint
+      domain: livemint.com
+    quality: 59
     images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/68d425fd6b707bcebf12c496882c2580_L.jpg"
-        width: 620
-        height: 465
+      - url: "https://www.livemint.com/lm-img/img/2023/03/31/600x338/GERMANY-POPULATION-TECHNOLOGY-HEALTH-SCIENCE-0_168_1680247753658_1680247753862_1680247753862.jpg"
+        width: 600
+        height: 338
         isCached: true
-  - title: "7 Best AI Stocks Of 2023"
-    excerpt: "Artificial intelligence (AI) is suddenly everywhere. You can thank the release of ChatGPT in November 2022 for setting off the current wave of interest in AI applications. The startup behind ChatGPT is called OpenAI,"
-    publishedDateTime: 2023-03-28T18:57:00Z
-    webUrl: "https://www.forbes.com/advisor/investing/best-ai-stocks/"
+  - title: "AI Ethics: Not Eventually, but Now"
+    excerpt: "As Moore’s law makes way for specially designed AI acceleration, ethics research is becoming increasingly important. With many technologies trained to learn from experience, such research is not only relevant in anticipation of some distant dystopian future — it is vital today,"
+    publishedDateTime: 2023-03-30T18:36:00Z
+    webUrl: "https://www.thecrimson.com/article/2023/3/30/editorial-ai-ethics-now/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
+      name: The Harvard Crimson
+      domain: thecrimson.com
+    quality: 34
+  - title: "Healthians adds Artificial Intelligence based innovation to its Smart Report feature"
+    excerpt: "Humans always want their lives to be easier and better, and this constant hunger is what Healthians is satisfying by helping people simplify tasks that seem complicated. One such struggle for healthcare consumers is to read and understand their medical reports without any professional help."
+    publishedDateTime: 2023-03-30T11:20:00Z
+    webUrl: "https://www.afaqs.com/companies/healthians-adds-artificial-intelligence-based-innovation-to-its-smart-report-feature"
+    type: article
+    provider:
+      name: AFAQS
+      domain: afaqs.com
+    quality: 12
+  - title: "CSI and Hawk AI Partner To Release AI-Driven Solutions for Fraud and Anti-Money Laundering"
+    excerpt: "CSI, a leading provider of end-to-end fintech and regtech solutions, announced today it has partnered with Hawk AI, a leading global provider of anti-money laundering (AML) and fraud prevention technology for banks and payment companies,"
+    publishedDateTime: 2023-03-28T17:02:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/03/28/9784224.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "QQ1eeHMhj9fj/dkn8axY2+72rF2C4n32mqEnGg3r8aQioUMOZ6O4Lv/SLZXA3W4pOLnkW0VhET/d7BM4wzkLaB2gUAzccCcUQT5PINYHkNo4N7DFQZGLLdsfRySvEgzyEdgMbktXrC3J9YvRbFZ0ARZ6+20O5feHJ/xSV80iw1IMtGD6JnYcg8NVyxTebG68XKu6gSmb2aeedBwYoMMMeWFyFQc9WFv9wVI3NMcPNl+Nx8Y8UK9SxR0VE9BjUD/UTbKzxaAmMFH6C7tiikyHvwMQdId1zAKQAE/J7WsFnI11ToRHC5831UyEiW97GSh+DoGgKWG0FPlxnZzwVhjqArbMcYNjup5I2x86MHB/2uE=;veT5nt6ETD5mGFyiZk5c3w=="
 ---

@@ -19,52 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Facial recognition is helping Putin curb dissent with the aid of US tech"
-    excerpt: "Facial recognition equipment is pictured at the exhibition during the Sixth Eastern Economic Forum in Vladivostok, Russia, in 2021.  LONDON — Andrey Chernyshov had just entered a Moscow metro station on his way to an anti-war protest last May,"
-    publishedDateTime: 2023-03-28T11:00:00Z
-    webUrl: "https://www.stltoday.com/news/national/facial-recognition-is-helping-putin-curb-dissent-with-the-aid-of-us-tech/article_993af131-23e1-5844-8bc6-1dea6eabbb81.html"
+  - title: "European Parliament calls for a ban on facial recognition"
+    excerpt: "The European Parliament today called for a ban on police use of facial recognition technology in public places, and on predictive policing, a controversial practice that involves using AI tools in hopes of profiling potential criminals before a crime is ..."
+    publishedDateTime: 2023-03-30T11:11:00Z
+    webUrl: "https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/?ref=blog.salesforceairesearch.com"
+    ampWebUrl: "https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/amp/?ref=blog.salesforceairesearch.com"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/amp/?ref=blog.salesforceairesearch.com"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 53
+      name: Politico Europe
+      domain: politico.eu
+    quality: 59
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/93/993af131-23e1-5844-8bc6-1dea6eabbb81/6422c31341ace.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/10/06/GettyImages-1168367649-scaled.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "TEST DO NOT FILE: Facial recognition is helping Putin curb dissent with the aid of U.S. tech"
-    excerpt: "REUTERS/Marko Djurica/File Photo A Reuters review of more than 2,000 court cases shows how Russia uses facial recognition to identify and sweep up the Kremlin's opponents. Our Standards: The Thomson Reuters Trust Principles. Europecategory Sweden summons ..."
-    publishedDateTime: 2023-03-29T18:00:00Z
-    webUrl: "https://www.reuters.com/world/test-do-not-file-facial-recognition-is-helping-putin-curb-dissent-with-aid-us-2023-03-29/"
+  - title: "California Hears Bid to Re-Ban Police Facial Recognition Tech"
+    excerpt: "“Body cameras and facial recognition software could be used for any purpose. There are no regulations. There are no best practices.” Many who advocate for restoring limits or bans cite concerns that the tool can make mistakes — prompting officers to ..."
+    publishedDateTime: 2023-03-29T21:35:00Z
+    webUrl: "https://www.govtech.com/public-safety/california-hears-bid-to-re-ban-police-facial-recognition-tech"
+    ampWebUrl: "https://www.govtech.com/public-safety/california-hears-bid-to-re-ban-police-facial-recognition-tech?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/california-hears-bid-to-re-ban-police-facial-recognition-tech?_amp=true"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 53
-  - title: "How Putin curbs dissent using facial recognition powered by US tech"
-    excerpt: "There officers told the 51-year-old bank employee that the metro's facial recognition system had flagged him for detention because of his political activism. A little over a week earlier Chernyshov stood alone by a fountain in central Moscow's Pushkin ..."
-    publishedDateTime: 2023-03-28T11:08:00Z
-    webUrl: "https://www.channelnewsasia.com/world/putin-dissent-russia-facial-recognition-us-tech-kremlin-opponents-3379491"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--QV5Kf8eZ--/c_crop,h_720,w_1280,x_0,y_0/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/03/28/2023-03-28T095000Z_601502695_RC2I20AJPG1K_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-DETENTIONS.JPG?itok=abhcfLmH"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "I am an SAS-trained facial recognition expert – here are the telltale signs paranoid Putin IS using body doubles"
-    excerpt: "AN SAS-trained facial recognition expert believes Vladimir Putin is so paranoid about being assassinated that he is using body doubles. Graham Yuill has revealed the telltale signs that he says"
-    publishedDateTime: 2023-03-27T11:07:00Z
-    webUrl: "https://www.thesun.ie/news/10450003/sas-facial-expert-telltale-signs-putin-using-body-doubles/"
-    type: article
-    provider:
-      name: Irish Sun
-      domain: thesun.ie
-    quality: 13
+      name: Government Technology
+      domain: govtech.com
+    quality: 41
 
 secured: "S9fS12cW/5zC8OZY+F7PP31GNTOvn8xPtbUxMmncRiXMTlrDf23y0I7XQ6SBP+KEYRzbhL5IFlwSH/2+ZyR36e3bbe4uFXGw9ATrX23930GJFGFBds7eHPf4ntDi7gpvZPq8Gby6XHUn3LgHEuvsJ9kjehrvIDrbVdvT2fE8I0Yn5l/2h10mU8PsGISkQSWa5VtIg/9y1+LvsUbmLf5uQMDjTXbnUfYzZ7PitALXx71ahH8voz3nTDeD09SovtKYaGBVXeH52gpf7QKgV5Gx0LNJR1H4cw/Vq+B7AQ6Zv7ir+dEVT0TvQiYv5ygc/8jSxwSk66hFGMGQ/EUFUZMeG2m+8uIcrRKLUJCidjuCofs7+3u0uuQoHjWGRtQsOBBkbIlkER7Kb4wipMWvUaSYy767d+0xTrLhwhlUv13gVxq7By0PcnwCsJE4AUCEIIvIYtOjbzjhkLRSJMniRjuLhQgJLBxx76LLS3ng8T7o/HRAg2kYDiCUXQDtbdfOJmYLTHltE8WYX7QHnpkpBZpSHA==;wTDzNLaBVLWZtv5BLlq3hQ=="
 ---

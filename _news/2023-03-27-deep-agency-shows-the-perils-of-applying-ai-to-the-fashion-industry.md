@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-ap
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/psychology%20of%20artificial%20intelligence.jpg?itok=jnh-9PYH"
         width: 1528
         height: 800
+        isCached: true
+  - title: "Here’s how the crypto industry is using artificial intelligence"
+    excerpt: "The use of artificial intelligence (AI) in crypto, though still in its very infant stages, has shown prospects for growth. According to statistics, the blockchain AI market is projected to grow from $220.5 million in 2020 to $973.6 million in 2027 at a ..."
+    publishedDateTime: 2023-03-31T08:59:00Z
+    webUrl: "https://cointelegraph.com/news/here-s-how-the-crypto-industry-is-using-artificial-intelligence"
+    ampWebUrl: "https://cointelegraph.com/news/here-s-how-the-crypto-industry-is-using-artificial-intelligence/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/here-s-how-the-crypto-industry-is-using-artificial-intelligence/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 57
+    images:
+      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDMvMmRiYjAyMzMtNTgwOC00MTUxLTk5OGUtNzUzNjUzMmNjY2QzLmpwZw==.jpg"
+        width: 740
+        height: 493
         isCached: true
 
 secured: "kMZCEMXmsSaY507b+MEcFTA5muk+GUYNnJmaXIGb04mSgzmguWO4TgN/q+0CT1ZPoclstnLXlUAxijo0+ARuXipqw0QjMS3XnbXU5zs62wxNJZFYKp0+qKmvlVcbZbJrq0dxaRj+db+z/pa9XMhM7IeZI2pO+zQzrzYnDXfy/dO4EH6HRhzYdHLXdsx33D8YwRyqUuWqSCaRi6yY5L2FYnEZvb6HgcMptm+XTmdLwdThvgaIAooYd7w3Ui322HKuBIHgAbE6NsFBuHlqLIKaEQJpoeB8kBNNjG6zacAlOZMP6BfvaWsvodoBDBK9EETaT8AVjK1E8XMBc8mcDrGLp2loD99fyzchuowyLW8tLts=;d8e+aUjkqifULvMZJgFkVg=="

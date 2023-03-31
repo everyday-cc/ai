@@ -29,15 +29,6 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 39
-  - title: "Blocktrace Builds AI Chatbot to Simplify Blockchain Transaction Tracking"
-    excerpt: "Launched in 2018 by software engineer Shaun MaGruder, whose background includes work as the head of training at blockchain forensics firm, Chainalysis, Blocktrace is an AI-fortified blockchain forensic and analytical service provider."
-    publishedDateTime: 2023-03-30T02:54:00Z
-    webUrl: "https://decrypt.co/124928/blocktrace-introduces-ai-chatbot-for-easy-blockchain-transaction-tracking"
-    type: article
-    provider:
-      name: decrypt
-      domain: decrypt.co
-    quality: 20
 
 secured: "k9ZiFD7oMlT2TVAZb1hO3noMQSVxzWtSssf6nLtQOUCC3eR9SXzHEay/v8q1JuEEjJkGRsoMKWTjcYqRW9OA4CV1x99rd/Gj1YFGFbtAmxRK5vDxpWhzJG3xsNdOhHOk7MNv3WYMgbzPKtOSyqKMNEZ6BWqbon2pwfDFGUi1ENGtM83VgZ+Z4530UVYJUavwwOgCYyI2SX/K2gfbT+ZKWGFXHVNhZu+jzr7ba1p7LprH0b1Jn3a1c25cfKS5bBIuMla9uQh+zvRiS2HwOEe1Qy9Qkh0xsORHVd31hUCVzubN0mCW5F7sqn5p1YX9VrYO+Qif0mK05Dk6OKcI0hi+8KycRuWg/2RLTo2Dm9h7CKBN6yrrVZhyo/XbY4Gw1aek4hS13pIy/6HcUiuEDVTgKY+aAnKjN6zqNLXdSSfzKo9oxzMUli3IHlKV73Mw9B1goR1ORy/eEgUCxz2nawPl1zWc16Kmj8OHNrHwC1WYIMw71PC/ZErINsYpoPNCSnDq/rJPaRkmHroFeLGcZtVVnw==;q7V6J0D9gaY2bOevSN4n4g=="
 ---

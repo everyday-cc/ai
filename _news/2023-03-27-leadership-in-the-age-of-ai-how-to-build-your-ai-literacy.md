@@ -62,6 +62,22 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Here’s how the crypto industry is using artificial intelligence"
+    excerpt: "The use of artificial intelligence (AI) in crypto, though still in its very infant stages, has shown prospects for growth. According to statistics, the blockchain AI market is projected to grow from $220.5 million in 2020 to $973.6 million in 2027 at a ..."
+    publishedDateTime: 2023-03-31T08:59:00Z
+    webUrl: "https://cointelegraph.com/news/here-s-how-the-crypto-industry-is-using-artificial-intelligence"
+    ampWebUrl: "https://cointelegraph.com/news/here-s-how-the-crypto-industry-is-using-artificial-intelligence/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/here-s-how-the-crypto-industry-is-using-artificial-intelligence/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 57
+    images:
+      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDMvMmRiYjAyMzMtNTgwOC00MTUxLTk5OGUtNzUzNjUzMmNjY2QzLmpwZw==.jpg"
+        width: 740
+        height: 493
+        isCached: true
 
 secured: "xpW+cc/YdrjIbOreGeO0HfFq6rGn5+gu8j92O2NkucK91ipUwGFMZytd1djaTe9Xa9h8Scshat2HdH4RColxAhoi4QBcm3GbzXkVEfsyE6wFEqS532ms5rt9rJ4Al2YE5EBf17T0KrI39aORg/rbW8iLavr3aKM3FC62NEMzYgGF2dTN58YLRpIfDcc08q3xKivhWZAy3aylJZZDCKt4U0MNeGngr1AqIMjsSOS4H8zFw99VeFy++5vGxoISKaFvqmM6bpfj2nRqyld+J/MY1RjFVFj+R2mdpoRDGuOUSnQNgqgTowlDhsJsydVDlWeKk33T+hAmdhg7zpFDtqgR7bH4AlX9VAvJewnVKbKcwtCoypGdxyiGwuL8RfHM8CZR3yvwHlgUr1kkvTbTuU32nBWplcs/IqJMiQzpfegc71dpZ0Ls+1miVUJLvLcBmg7nVJmxBFSXOcf6tJLUS5lhEt17IIH7SgtJJvIFi81UGHbjPiA+tAN45wcbzXBhiG1/yULPErsXUaeK5tRxSPPTQQ==;ttuahp7nQE7c/oThMOLFRw=="
 ---

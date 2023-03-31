@@ -31,22 +31,6 @@ images:
 related:
   - title: "Cryptocurrencies add nothing useful to society, says chip-maker Nvidia"
     excerpt: "Tech chief says the development of chatbots is a more worthwhile use of processing power than crypto mining"
-    publishedDateTime: 2023-03-26T15:13:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/c1d4d5e50b04a1580bdaa1145b2dec10d47b8496/0_217_6520_3912/master/6520.jpg?width=620&quality=85&auto=format&fit=max&s=78bd8b0dece950e337e76dbba5a347a4"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Cryptocurrencies add nothing useful to society, says chip-maker Nvidia"
-    excerpt: "Tech chief says the development of chatbots is a more worthwhile use of processing power than crypto mining"
     publishedDateTime: 2023-03-26T19:13:00Z
     webUrl: "https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
     ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
@@ -86,20 +70,6 @@ related:
     quality: 39
     images:
       - url: "https://editors.dexerto.com/wp-content/uploads/2023/03/27/Nvidia-Crypto.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Here’s How Nvidia Is Powering The ChatGPT Frenzy"
-    excerpt: "ChatGPT owes a large part of its capabilities to the powerful computing hardware developed by Nvidia. In this article, we'll"
-    publishedDateTime: 2023-03-27T11:40:00Z
-    webUrl: "https://www.techbooky.com/heres-how-nvidia-is-powering-the-chatgpt-frenzy/"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 24
-    images:
-      - url: "https://i0.wp.com/www.techbooky.com/wp-content/uploads/2023/03/chatgpt-nvidia.webp?fit=1600%2C900&ssl=1"
         width: 1600
         height: 900
         isCached: true

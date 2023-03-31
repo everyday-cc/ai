@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/what-s-new-in-azure-data-and-ai-a
 webUrl: "https://azure.microsoft.com/blog/what-s-new-in-azure-data-and-ai-azure-is-built-for-generative-ai-apps/"
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -50,20 +50,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/sanjaymehrotra-800x533-768x512.jpeg"
         width: 768
         height: 512
-        isCached: true
-  - title: "How AI is Creating Explosive Demand for Training Data"
-    excerpt: "Artificial Intelligence (AI) has rapidly evolved in recent years, leading to groundbreaking innovations and transforming various industries. One crucial factor driving this progress is the availability and quality of training data."
-    publishedDateTime: 2023-03-26T16:59:00Z
-    webUrl: "https://www.unite.ai/how-ai-is-creating-explosive-demand-for-training-data/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/03/fabio-ballasina-wEL2zPX3jDg-unsplash-942x600.jpg"
-        width: 942
-        height: 600
         isCached: true
   - title: "New Report Details How Generative AI Impacts Work"
     excerpt: "Aberdeen's latest research offers insight into the ways professionals use generative AI today, as well as how AI might affect work in the future."

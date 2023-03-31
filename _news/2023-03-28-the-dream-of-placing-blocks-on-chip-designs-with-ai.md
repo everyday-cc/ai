@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -64,20 +64,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "The problem with artificial intelligence is us"
-    excerpt: "The race to create the best artificial intelligence chatbot is on. At the time of writing, Google is unveiling its new chatbot, Bard, to 10,000 testers. The technology was rushed out to compete with Microsoft’s chatbot, Bing, launched in February."
-    publishedDateTime: 2023-03-28T16:45:00Z
-    webUrl: "https://www.christiancentury.org/article/features/problem-artificial-intelligence-us"
-    type: article
-    provider:
-      name: The Christian Century
-      domain: christiancentury.org
-    quality: 39
-    images:
-      - url: "https://www.christiancentury.org/sites/default/files/images/detail/pexels-federico-orlandi-3260626.jpg"
-        width: 6000
-        height: 4000
-        isCached: true
 
 secured: "6rbZV5seO7QoXbpn9EH7pc+Nt7TtbQYocXcBVoqyIHPH6xs11jTJwPLLU+AXhZe+e3+44jx8BxkgAHxoFOu53SZG9LUpfF9aQX0AvsLgMb3bJJzd1+41fwYNmvOZcQi196LbWZ/+LXSA73/iChKeBUha8Dli61f+VpcGC1bM2Htp3mTaQKIxbktCKaM7kCAXOz67r6FTdfNzcOJm8/In8EsObfd1FK6ZGz/1tNdEWoL/kJyVg5+aTUR4+gboBr61Mtnl4nBkNIwMQFu0LU2nMj9rXoCuNE4IotpgMijbyWd7YP430UvJm5FnyCAc/jtD0BGGdH+sfZirWAQXTauxEyahPXcXm8f2Hc2kvgqMUS5YpxXw9iJ/kk9v76MSRd/WQ7CFnoDoWmWwFtlgRCE/VkxKgEy4SSZQThzhI0b/eE6cLDPP+0ggxXMHfJ5sE+UmHAOrZZjPd4qV/mTACAZJ62LkMN55ui1cFngebbxv3HPl9KcxJmhB7m21WwSOJiHnWr1vaVBkQTkg1XESV1IaOA==;tX1/q96jbQtIhFcAhJzxHA=="
 ---
