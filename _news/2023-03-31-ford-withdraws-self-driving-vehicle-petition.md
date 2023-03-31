@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Ford withdraws self-driving vehicle petition"
-excerpt: "Ford Motor Co. has withdrawn its petition to deploy a limited number of self-driving vehicles without traditional driving controls or features on U.S. roads, an unpublished federal document shows. In the notice,"
-publishedDateTime: 2023-03-30T19:51:00Z
-originalUrl: "https://www.crainsdetroit.com/automotive/ford-withdraws-petition-deploy-self-driving-vehicles"
-webUrl: "https://www.crainsdetroit.com/automotive/ford-withdraws-petition-deploy-self-driving-vehicles"
+excerpt: "Ford sought an exemption from seven safety standards to deploy vehicles that would be used to support mobility services such as ride-sharing and package delivery, according to its July 2021 petition."
+publishedDateTime: 2023-03-30T19:08:00Z
+originalUrl: "https://www.autonews.com/mobility-report/ford-withdraws-petition-deploy-self-driving-vehicles"
+webUrl: "https://www.autonews.com/mobility-report/ford-withdraws-petition-deploy-self-driving-vehicles"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Crain's Detroit
-  domain: crainsdetroit.com
+  name: Automotive News
+  domain: autonews.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "IHkGvhiccxyPMLAZXxVejWcelllrQTAyeHOuYLrT5+7M2Y5ePwTgOqeeM42LkTu9IVdfDkMydNitULiMdxHilme3j1i6Z/WQ9dBSC2/Gk2uLKH5Ei9xvTx8WTuqIjKYUtaGcS1WN0CymgqB2NWwgZnhY8JE+VttppsUTcEwaU9GQSn6+EaYB2AjBmzQFXr3j0eBR64ROsDRJkzwHyc76IJ/YrvDL/1Friie3UHKkZiJd0O/abp+gCJ+2MbKN3GDIu7/I/DzZgZqg16sPPHB7DTvdaHDLEq7DEa0P5o7W+oRtStKGzY2LiAlAiWh5l3XNSXKR+hGOOv01790Y7hpEoqQTGlpbmN7sBOKVMUMw8JgFX4pbstB3U0hAPJcR5cHMlvu98o5X0UafH502VUhhjIcW59xK7rOkDurlVeZ98pMuKK/qmHQgo1YkuqrXpw2N8h1SganCq6sVOwdX4TTvRZeqEVfAO9YgwnUiBiFiYEFDcbCI4YEbYcF37CsWD+ACGgioq5eoOCluDScxwc+CMQ==;xVqDSIjq0UkcLGpoilsGqg=="
+images:
+  - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/ARGO-MAIN_i_0.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "nA4gdqUUvEsVoAcycr6ubh7nrBIupieW8tKIioh9V57zdNYy1nC/LKym8XMQ6P24vTYS6UhBkZxQ1b0sEUbttov/OFv0MbM/QkjIbT7PJFFtVBrGUsjBj4Y0JgHi/n+9UGdniGv+OuiJw2fTEGmZeuf1XwWaZsW4dMcl3fUtnw55jY/AvxOWqor3l+oCede0FFO4WAoanN9eSCMZ9sU+XHr6W7XPTvfHvmzLc/9kWK5ZGo0H0ICi+ZE13rB754NvvkvnsniJkFH7alFm9/lmbIihMMmjF9sMXoE29TL0V+haO7IeARBk1+AkzWuuvJfqLeMa2D4Kf+OFaTq+OKpi0NwSBHj3/Ej1Ty1aR/jPmz4=;ZaYZdCa9dypiQp39saTyRw=="
 ---
 

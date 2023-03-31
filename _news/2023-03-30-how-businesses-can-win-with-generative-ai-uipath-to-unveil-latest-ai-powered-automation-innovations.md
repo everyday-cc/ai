@@ -43,6 +43,20 @@ related:
         width: 720
         height: 300
         isCached: true
+  - title: "Micron posts biggest-ever loss, but says generative AI will drive new demand for memory chips"
+    excerpt: "After taking into account stock-based compensation and restructuring costs, Micron posted a loss of $1.91 per share. Revenue for the period came to $3.69 billion, down from $7.79 billion in sales one year earlier."
+    publishedDateTime: 2023-03-29T02:19:00Z
+    webUrl: "https://siliconangle.com/2023/03/28/micron-posts-biggest-ever-loss-says-generative-ai-will-drive-new-demand-memory-chips/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 43
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/sanjaymehrotra-800x533-768x512.jpeg"
+        width: 768
+        height: 512
+        isCached: true
   - title: "How AI is Creating Explosive Demand for Training Data"
     excerpt: "Artificial Intelligence (AI) has rapidly evolved in recent years, leading to groundbreaking innovations and transforming various industries. One crucial factor driving this progress is the availability and quality of training data."
     publishedDateTime: 2023-03-26T16:59:00Z

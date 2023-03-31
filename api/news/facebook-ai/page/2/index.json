@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-08-can-artificial-intelligence-really-advance-gender-equality.md",
+      "title": "Can artificial intelligence really advance gender equality?",
+      "excerpt": "Artificial intelligence is a hot topic ... Shyro disinter-mediates intrusive ads from the likes of Facebook and Google that use meta-targeting to ask for inherently sensitive, personal information and further run the risk of exposing this information ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.glamourmagazine.co.uk/article/artificial-intelligence-gender-equality-opinion",
+      "originalUrl": "https://www.glamourmagazine.co.uk/article/artificial-intelligence-gender-equality-opinion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T03:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GLAMOUR UK",
+        "domain": "glamourmagazine.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-07-3-artificial-intelligence-ai-stocks-with-54-to-675-upside-according-to-wall-street.md",
       "title": "3 Artificial Intelligence (AI) Stocks With 54% to 675% Upside, According to Wall Street",
       "excerpt": "Although estimates vary wildly regarding the rate of AI adoption and eventual market value, Grand View Research foresees ... Meta-owned social media asset -- Facebook, WhatsApp, Instagram, or ...",
@@ -1438,49 +1472,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-nonconsensual-deepfake-porn-puts-ai-in-spotlight.md",
-      "title": "Nonconsensual deepfake porn puts AI in spotlight",
-      "excerpt": "It’s a depraved AI spin on the humiliating practice ... the people in the research labs at Google and Facebook — you have to start asking yourself, ‘why are you developing this technology?,'”",
-      "sourceUrl": null,
-      "webUrl": "https://keyt.com/news/2023/02/16/nonconsensual-deepfake-porn-puts-ai-in-spotlight/",
-      "originalUrl": "https://keyt.com/news/2023/02/16/nonconsensual-deepfake-porn-puts-ai-in-spotlight/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://keyt.b-cdn.net/2023/02/hypatia-h_ff1045f04be036727741097958e60ddd-h_ffe2095cad31786446d84906d49c6d14-300.jpg",
-          "width": 1600,
-          "height": 901,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T15:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KEYT",
-        "domain": "keyt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

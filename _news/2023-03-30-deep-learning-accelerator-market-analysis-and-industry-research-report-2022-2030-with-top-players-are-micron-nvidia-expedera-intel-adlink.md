@@ -23,37 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "AI Governance Market Analysis Report | 2023-2029"
-    excerpt: "The Global AI Governance market is anticipated to rise at a considerable rate during the forecast period. The market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-03-30T00:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-analysis-report-2023-2029-2023-03-29"
+  - title: "The Battle of the Chips: NVIDIA and Intel Accelerator Face Off"
+    excerpt: "From NVIDIA’s dominating presence in the cloud, it seems that Intel’s time in AI compute is slowly eroding away."
+    publishedDateTime: 2023-03-27T09:46:00Z
+    webUrl: "https://analyticsindiamag.com/the-battle-of-the-chips-nvidia-and-intel-accelerator-face-off/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-  - title: "2023-2026 Cognitive Computing Market Size Latest Report by Absolute Reports"
-    excerpt: "Mar 29, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Cognitive Computing Market\""
-    publishedDateTime: 2023-03-29T10:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2026-cognitive-computing-market-size-latest-report-by-absolute-reports-2023-03-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-  - title: "North America Customer Experience Management Market Report 2022: Surging Adoption of Artificial Intelligence Bolsters Sector"
-    excerpt: "Hence, changing consumer buying behavior is boosting market growth. Furthermore, the digitization of healthcare is accelerating the adoption of e-health applications, telemedicine, smart health devices, and wearable devices. The digitization of healthcare ..."
-    publishedDateTime: 2023-03-27T22:04:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31521776/north-america-customer-experience-management-market-report-2022-surging-adoption-of-artificial-int"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 14
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/nvidia-gtcchip.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "/PL6D0oi20o/Mqd/yiw1IZd3IK1TvZm4yJph69eg7U5Sn3gLRH0vinMZUgDf0PwsLPj45YqrEn0m7lBOmJTYJNL9LP9VfU2zsPGk9T0Uke7tcOHaX1NFC53djpn7sV1QYBdl8foY7D7LPhkN88mHP1101Xb3+nMcnLTN0G2+hV09gNR/wdvJUqhV7hr9J2hKVHgYftZrn9uJR85cWNoMeQJRpjICi34/QZtVmWmliridTwe1gIPGysFOBcdA5+CV1imtfLabU+7LnCPJJxKNbhGhFVPK1eXkIwkIyP/AAMAnPrjJ4J4qDP2z/ym8odbvQg4T4S8Cge/Vy88wgP+2/hmq5JI4E3MrsjEzU277h8E=;w1NDQMkatsBke8+jNhll5A=="

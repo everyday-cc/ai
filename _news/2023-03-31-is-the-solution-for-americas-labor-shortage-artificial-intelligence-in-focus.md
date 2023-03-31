@@ -24,6 +24,22 @@ images:
     height: 868
     isCached: true
 
-secured: "MR+7M/vJvuQFHLu4fVyyYTPCR1ioQvvVj5srxM1gN1ZygjqlvQ/zx597PpjqKES3LqVIrvBO//k1jLzXlMHj7LrbJ3o4skuwSGLfIVguDEDY5XrmyuXoGjeStrvujne0N8Z7noH4jfZQ8CVf6GML7PXjvIL5l7mNu+BOzGhhXteHH5J+Kg1OsyeXGBl7mBkaMrMAa3G4lge2srwIFCHK8zsKZJmGdhuVYbwZJHzpHL6fzjmYaGS4Z/PpCSX3sOBV90fLQXKx2tZ0HDMyqNlS4PZLQWDHveeA3ce9r5zCc5WCnBio5lTIV2Pwh6+l983oun9SqT0iLW670Jqx7+0izdXeRYC16djGJceix2PAbAI=;zJYBIBQYqdJmnU+Fr+C+DQ=="
+related:
+  - title: "North America Customer Experience Management Market Report 2022: Surging Adoption of Artificial Intelligence Bolsters Sector"
+    excerpt: "Hence, changing consumer buying behavior is boosting market growth. Furthermore, the digitization of healthcare is accelerating the adoption of e-health applications, telemedicine, smart health devices, and wearable devices. The digitization of healthcare ..."
+    publishedDateTime: 2023-03-27T22:04:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31521776/north-america-customer-experience-management-market-report-2022-surging-adoption-of-artificial-int"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 14
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+
+secured: "vwP6JXlGf4DI/fllVG8NyAGPmm3U1RTAsieTyvsQgByraBsPg2clX8mlRS5tdaasaxobuA1/56pC5uPTNsK68bY8meOVxUjqkhT3zbwrwCljduUPlbO5E4PPdPfpcxusSSUaNu5Cgk90Yi+YxvLDXvSx62zlCHqk6ViKUGtmym+n2PvT71B6lBaGrBti5S/WaRf0DqTuM81iD25I8l8CMFosaHKRgI4x0umvi2soACEBlmSmH/yIRo+YmGBSqfn10ZS3ysITbIkL/c7b6TAjpx9IWZ+TsJ3k0PX3/i7IU8MNdurdzUSpopckHEj+cm5qaCocgnJyLRxj4M+NrLVIiNvLlN9WRWURe2hOhAQnBHkd7mS5v/duo/EjcrfLKwSfcUbJCWr5/Rr4/+/El+/ZMl5rbkXMmtJiYhvBYEe5zBjVTovJ/+95NFl5mTYEev5uu5ot4f/0tlvsUzwl/WTrzOPfQ0ee3bYaUsRY7zcSRyaX1Jv8je7jh2nnj44awYkNOV6BWp5DE+j9UM6Ek3KxeA==;ixpzMBA1rdzv4Q+iwL0wxw=="
 ---
 

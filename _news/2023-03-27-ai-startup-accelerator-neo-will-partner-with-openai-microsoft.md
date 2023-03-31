@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft Reportedly Threatens to Restrict Search Data From Rival AI Tools"
-    excerpt: "At least two customers have been told their access to Microsoft's internet search index will be cut off if they continue to use it for their AI chatbots, Bloomberg reports."
-    publishedDateTime: 2023-03-26T10:44:00Z
-    webUrl: "https://www.pcmag.com/news/microsoft-reportedly-threatens-to-restrict-search-data-from-rival-ai-tools"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 82
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05PNmVt8nHVpVgrbjZy1kpb-1.fit_lim.size_1200x630.v1679827422.png"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Amazon, Microsoft and Google's AI armies are huge, yet struggling to innovate"
     excerpt: "New data show Amazon, Microsoft and Google have thousands of AI specialists, but they’re still playing catch-up to a tiny team at OpenAI."
     publishedDateTime: 2023-03-27T17:47:00Z
@@ -60,6 +46,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 64
+  - title: "DBHawk Partners with Microsoft Azure, Lands Patent for Sensitive Data"
+    excerpt: "DBHawk developer Datasparc has entered into a new partnership with Microsoft that will increase its customers’ ability to work with data in the Azure"
+    publishedDateTime: 2023-03-29T00:17:00Z
+    webUrl: "https://www.datanami.com/2023/03/28/dbhawk-partners-with-microsoft-azure-lands-patent-for-sensitive-data/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2021/05/DBHawk.png"
+        width: 935
+        height: 527
+        isCached: true
   - title: "Microsoft beefs up partner programs with AI and go-to-market differentiation"
     excerpt: "The new capabilities embraced Microsoft's search engine Bing, Dynamics 365 Copilot, ChatGPT in Azure Open AI Service as well as a specialisation for partners for AI and machine learning in Azure. \"We believe AI will fundamentally change every software ..."
     publishedDateTime: 2023-03-27T21:42:00Z
@@ -74,6 +74,29 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "Tech’s AI Armies Are Huge, Yet Struggling to Innovate"
+    excerpt: "New data show Amazon, Microsoft and Google have thousands of AI specialists, but they’re still playing catch-up to a tiny team at OpenAI."
+    publishedDateTime: 2023-03-27T00:03:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/03/27/amazon-google-scramble-to-keep-pace-with-openai-despite-huge-ai-teams/10593f66-cc5d-11ed-8907-156f0390d081_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 41
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Microsoft Pushes Open Source 'Semantic Kernel' for AI LLM-Backed Apps"
+    excerpt: "Since recently introducing the open source Semantic Kernel to help developers use AI large language models (LLMs) in their apps, Microsoft has been busy improving it, publishing new guidance on how to use it and touting its capabilities."
+    publishedDateTime: 2023-03-30T22:38:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2023/03/30/semantic-kernel.aspx"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 36
   - title: "Microsoft is dominating the AI wars…for now"
     excerpt: "AI lead is far from guaranteed. When it comes to generative AI, Microsoft is dominating the conversation. After pouring billions into ChatGP"
     publishedDateTime: 2023-03-29T23:09:00Z
@@ -83,15 +106,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 34
-  - title: "MTN to migrate OSS/BSS to Microsoft Azure"
-    excerpt: "South Africa-based MTN has joined the growing list of telcos that are making the move to public cloud. The company on Monday announced it has embarked on a programme of work to migrate various systems to Microsoft Azure."
-    publishedDateTime: 2023-03-30T15:38:00Z
-    webUrl: "https://telecoms.com/520948/mtn-to-migrate-oss-bss-to-microsoft-azure/"
+  - title: "QualityKiosk announces a Strategic Partnership with Microsoft Power Platform"
+    excerpt: "Founded in 1975, Microsoft Corporation is one of the largest American multinational technology corporations producing computer software, consumer electronics, personal computers, and related services. With their Power Platform, Microsoft is encouraging ..."
+    publishedDateTime: 2023-03-28T12:08:00Z
+    webUrl: "https://www.livemint.com/brand-stories/qualitykiosk-announces-a-strategic-partnership-with-microsoft-power-platform-11679998488145.html"
     type: article
     provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 34
+      name: Mint
+      domain: livemint.com
+    quality: 16
 
 secured: "gI1Tydd7Udb9je7wTrKaQPGovM0ZCWwapX/ZDtiNkLDwugxwLB/9avmsei+ur0DOg2VKAB8MUtCct3RJZh/FlXv4eVTs0/zNjix4c/OLvkqhD4OCGHfngEY7gKblWKCQfsG/EO0BrnhsGHAJoFkKz6tCvCHFYeXywF5ihx+tns/53TpA1R1WjzEZXZdTELGpqx/ylcT5JywnggKvn3Ib15qDw6emn3VXVoOypqv1EWMwcFuu9sijgCYDKZn6B/dZVOFO44yYFHhlX5joEe+codY27imC3ER1klVntIZT2kMyLCmUkQafNA4fBj2XzYNzRPY3XhYy3/VQjqNI2iFgAOWzIgB3jOYRNz0JqPi+BX0VJ2+hfwJkG8p65JEIvvFezbkdByxh5ndc9OPdfnVJ/LRC7Xw7iDwoqYDP7Qk9QOeaBW5OhnDzD3PufuoYDCksyEmZYWggNlWoeZb732sBrj+Fr+QQ6a0pV+5R5k49LXN/k9bh04/ZXoXUBMbzvqgqygOizUEmj/kzcO58e9gUZQ==;3PisgbouL5JzHGh706bR3A=="
 ---

@@ -120,6 +120,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+  - title: "Global Speech and Voice Recognition Technology Market Size 2023 to 2026 Size and Share Survey Report"
+    excerpt: "Global \"Speech and Voice Recognition Technology Market\" report provides a thorough examination of the present and projected situation of the sector. The research offers useful information about, among other things, the market's size, share, growth ..."
+    publishedDateTime: 2023-03-29T04:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-technology-market-size-2023-to-2026-size-and-share-survey-report-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Emotion Detection and Recognition Market to surpass US$ 40.5 Billion by 2030, Says Coherent Market Insights (CMI)"
     excerpt: "On the basis of software and services, the market is segmented into facial recognition, speech and voice recognition, and biosensing. The facial recognition segment is expected to dominate the global market over the forecast period, towing to increasing ..."
     publishedDateTime: 2023-03-27T13:05:00Z

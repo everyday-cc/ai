@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Fetch.ai helps companies build and deploy autonomous smart agents. Check out the 19-slide pitch deck it used to raise $40 million."
+    excerpt: "The Cambridge-based startup is the latest AI company to raise funds from investors keen to pile in on the breakthrough tech."
+    publishedDateTime: 2023-03-30T11:32:00Z
+    webUrl: "https://www.businessinsider.com/fetchai-pitch-deck-ai-startup-secures-40-million-dwf-labs-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
+    images:
+      - url: "https://i.insider.com/64240978b643e80019df4659?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "0O07/RjdVlG5SnVGK1EOjYxQZltdxIOI9BuZJP6It87dJAC1ssBVnxmZhOrUpDNw9hjiM5rqSmmtvztVaQai32C6FlHF2vU3UnNCPX3QJ3M4js5C4YkKzAji4gGTVCJew+SLbIknWSoPLApnRTiRLOsJu/amd8QEY0q68+8l6dVqCsUSmvS53xq9mU1wIo3n1VK2RQjbi24Yzy/WLWPR/eO/HB+Mguot4rE8h+40DIPIFORZtf71zXKYcr4ksPXnyjEatuhrAKg2nzOgWGB7f7RamQQxQnE0Jgk+o52u9b9Tgo7GXEzfBeUAwYtf0gHZdCy5clCBKkqRcI+OQEQf3F498DzXShYgND8jBDpGBZtTotBbqtxVETSrGvxdkHFganqye7pz7TuWzYbs46g9pnpuqet4rz65u4VDIuuNFJ5TWMt2MSIOi4cSgYvaO5cn/qFGc1BOepDYecFWHTi84h4FkQUyui9rTmw2mrmJMJROMGw7P/E6PdyYeG4KSKuS8QnR+rFW76x+jtuPmGyt+w==;l1R7fiZohV/c6YXOq0gWjQ=="
 ---

@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Xoriant X-CELERATE Insights Analytics Solution Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to X·CELERATE Insights to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies SUNNYVALE,"
-publishedDateTime: 2023-03-29T00:00:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-xoriant-x-celerate-insights-analytics-solution-now-available-/2023/03/29/9785521.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-xoriant-x-celerate-insights-analytics-solution-now-available-/2023/03/29/9785521.htm"
+excerpt: "Xoriant X-CELERATE Insights Analytics Solution Now Available in the Microsoft Azure Marketplace Mar (PRNewswire via COMTEX) -- PR"
+publishedDateTime: 2023-03-29T14:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/xoriant-x-celerate-insights-analytics-solution-now-available-in-the-microsoft-azure-marketplace-2023-03-29"
+webUrl: "https://www.marketwatch.com/press-release/xoriant-x-celerate-insights-analytics-solution-now-available-in-the-microsoft-azure-marketplace-2023-03-29"
 type: article
-quality: 57
-heat: -1
-published: false
+quality: 87
+heat: 117
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/449859/PRNE_Xoriant_Logo.jpg"
-    width: 400
-    height: 260
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -39,95 +43,25 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI and Big Data Analytics in Telecom Market Size and Forecast till 2031"
-    excerpt: "The \"AI and Big Data Analytics in Telecom Market\" study describes how the technology industry is evolving and how major"
-    publishedDateTime: 2023-03-27T16:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-size-and-forecast-till-2031-2023-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Clinical Natural Language Processing Market Analysis: Explosive Growth Opportunity by 2029"
-    excerpt: "The report [ 113 pages] focuses on the Clinical Natural Language Processing market size, segmentation mainly covering product type [MachineTranslation, InformationExtraction, AutomaticSummarization, TextandVoiceProcessing],"
-    publishedDateTime: 2023-03-26T20:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/clinical-natural-language-processing-market-analysis-explosive-growth-opportunity-by-2029-2023-03-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer vision data analytics in the spotlight for retail and small businesses"
-    excerpt: "Lumeo, which designs computer vision technology, and the video analytics firm BriefCam both have new offerings targeting retail businesses."
-    publishedDateTime: 2023-03-27T20:27:00Z
-    webUrl: "https://www.biometricupdate.com/202303/computer-vision-data-analytics-in-the-spotlight-for-retail-and-small-businesses"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 50
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/03144630/smart-camera-edge-device-retail.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "2023, The Artificial Intelligence in Life Sciences Market is Expected to Witness a Substantial Rise in Revenue"
-    excerpt: "Artificial Intelligence in Life Sciences Market Size 2023 | New Report (122 Pages) | Information Technology | In"
-    publishedDateTime: 2023-03-27T03:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-the-artificial-intelligence-in-life-sciences-market-is-expected-to-witness-a-substantial-rise-in-revenue-2023-03-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AWS brings real-time call analytics to Amazon Chime software development kit"
-    excerpt: "Developers can simply choose the AWS artificial intelligence service they’d like to use to analyze a specific call, such as voice analytics, Amazon Transcribe or Amazon Transcribe Call Analytics. To visualize these analytics, users can choose from Amazon ..."
-    publishedDateTime: 2023-03-27T15:13:00Z
-    webUrl: "https://siliconangle.com/2023/03/27/aws-brings-real-time-call-analytics-amazon-chime-sdk/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/Screenshot-from-2023-03-27-07-23-16.png"
-        width: 620
-        height: 377
-        isCached: true
-  - title: "Income Tax: How will AI, Machine learning, and data analytics simplify tax process in India?"
-    excerpt: "Here is how artificial intelligence, machine learning, and data analytics are used in the taxation process: What is presumptive taxation and how it is beneficial for small businesses, professionals? Expert explains"
-    publishedDateTime: 2023-03-27T12:42:00Z
-    webUrl: "https://www.zeebiz.com/personal-finance/income-tax/news-income-tax-how-will-ai-machine-learning-and-data-analytics-simplify-tax-process-in-india-227701"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 23
-  - title: "Axis Communications Unveils New Devices at ISC West, Underscoring Its Commitment to Deep Learning and Advanced Analytics"
-    excerpt: "Axis Communications, the industry leader in video surveillance, announced the debut of its latest product and solutions offering at the ISC West security conference in Las Vegas, NV. The unveiling will include a series of panoramic cameras,"
-    publishedDateTime: 2023-03-29T00:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/03/29/9785666.htm"
+  - title: "Kinaxis Brings Concurrent Supply Chain Planning to Microsoft Azure Marketplace"
+    excerpt: "With supply chain elevated to a board-level topic, digital transformation of planning has become a top initiative. By bringing RapidResponse to the Microsoft Azure Marketplace, more companies will be able to take advantage of the supply chain agility Kinaxis delivers,"
+    publishedDateTime: 2023-03-29T21:50:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-kinaxis-brings-concurrent-supply-cha-planning-microsoft-azure-/2023/03/29/9785140.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 0
+    quality: 45
+  - title: "MTN to migrate OSS/BSS to Microsoft Azure"
+    excerpt: "South Africa-based MTN has joined the growing list of telcos that are making the move to public cloud. The company on Monday announced it has embarked on a programme of work to migrate various systems to Microsoft Azure."
+    publishedDateTime: 2023-03-30T15:38:00Z
+    webUrl: "https://telecoms.com/520948/mtn-to-migrate-oss-bss-to-microsoft-azure/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 34
 
-secured: "tSA0Uq8Iazitl0kna6k2yWUTEg0TMP8NlPAXDaAPw5OFS7uORYoljkiS527BsA33rri4mzMRj7gIwKXBgL/7ge3Cv6lvdaQtA1+TmDQX3Uz0NM43E+lL1mSrHQLC72wBuEa+iJuZyS7Xpzh4MzzUzl1FRJIw+uIBjIazRS70Ve6h3udVub7wRZXDEv5szgSiPkrGCddZOz40aHQJcxkJLiPV2Ggb8O7Rmz2nbMHo+OruSluqSse8hYoT4vYqUlXv6Qvw+PELDgfj+x01hQymZ+XV5/T0EtLsX4cTQ39wLVjqBHV7yn2etwFNhR14Fx/ToGoxnxmFKrOMX65E2kOGZXgWjnvPq4fe4qOz6aTPw38=;h3Iqt8CDHF4RaoWdtu3bsg=="
+secured: "ueYye1vVCMTJSitG1XNHvA8AD+losZVvEYYj3KrhZs3f+FHsvj3FmEt1TEEvi95S/GXR027YpTudZpAZdSRqR2ZFvjQRbw/pFJRhr5H88K7Ffx7LfRZVV7BB2Hp/lvPmBse0PVHObEzzYgDUgYjAaVC55GGQFOM4tqUcQ+dA47qTFGumaAy6zN2DH8jFmG4MGmTRlEZ/qPK//LPGpUEQH8eum06DtNKpEhT+CoYy6c1S1j2dj8WqldbUIGf88s1xBj6mcAn+a6ofWFaqhxoCOA1ShoOUwBE7C93qujhmNtAHrT4iZm4TsOBEdvAMBCELAAL5aiBC80bfVYFXvZjZkLWwGZZNe7VErla5E3DHAB0=;M7VMLUQb1yoXH+bk+MtYAQ=="
 ---
 

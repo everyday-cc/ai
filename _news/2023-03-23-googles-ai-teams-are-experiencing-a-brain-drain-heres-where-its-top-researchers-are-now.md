@@ -23,6 +23,7 @@ topics:
   - AI
   - AI Ethics
   - AI Hardware
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/641bd7c8b7834100191ae5c7?width=1200&format=jpeg"

@@ -7,7 +7,7 @@ originalUrl: "https://www.business-standard.com/content/press-releases-ani/quali
 webUrl: "https://www.business-standard.com/content/press-releases-ani/qualitykiosk-announces-a-strategic-partnership-with-microsoft-power-platform-to-empower-customers-to-create-efficient-and-flexible-solutions-123032800296_1.html"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "QualityKiosk announces a Strategic Partnership with Microsoft Power Platform"
-    excerpt: "Founded in 1975, Microsoft Corporation is one of the largest American multinational technology corporations producing computer software, consumer electronics, personal computers, and related services. With their Power Platform, Microsoft is encouraging ..."
-    publishedDateTime: 2023-03-28T12:08:00Z
-    webUrl: "https://www.livemint.com/brand-stories/qualitykiosk-announces-a-strategic-partnership-with-microsoft-power-platform-11679998488145.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 16
-  - title: "Sports Info Solutions Announces Launch Into Soccer via Partnership With ReSpo.Vision"
-    excerpt: "SIS, a leading sports data and analytics provider, and ReSpo.Vision, a cutting-edge computer vision sports analytics company, announce a partnership where ReSpo.Vision will provide SIS with advanced soccer analytics data based on broadcast tracking technology."
-    publishedDateTime: 2023-03-28T13:45:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/accwirecq-2023-3-28-sports-info-solutions-announces-launch-into-soccer-via-partnership-with-respovision"
-    type: article
-    provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 0
   - title: "QualityKiosk announces a strategic partnership with Microsoft Power Platform to empower customers to create efficient and flexible solutions"
     excerpt: "QualityKiosk Technologies, one of the largest independent digital quality assurance specialists and a pioneer in providing intelligent automation solutions, is excited to announce its strategic partnership with the Microsoft Power Platform line of business."
     publishedDateTime: 2023-03-28T17:35:00Z

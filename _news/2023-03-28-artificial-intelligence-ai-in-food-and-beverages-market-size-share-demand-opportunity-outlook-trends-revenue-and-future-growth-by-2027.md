@@ -120,6 +120,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Best Artificial Intelligence (AI) Stocks and Shares for 2023"
+    excerpt: "From self-driving cars to surgery-performing robots, artificial intelligence (AI) is helping to transform every part of our lives. And the potential opportunity created by this high-growth ..."
+    publishedDateTime: 2023-03-28T14:01:00Z
+    webUrl: "https://www.forbes.com/advisor/in/investing/best-artificial-intelligence-ai-stocks-shares/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/03/pexels-alex-knight-2599244-1-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Artificial Intelligence in Retail Market Trends for Future Success 2023-2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- The global \"Artificial Intelligence in Retail Market\" research study presents an in-depth analysis of the market's revenue, size ..."
     publishedDateTime: 2023-03-27T17:07:00Z
@@ -500,20 +514,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self Tanning Products Market 2023 | Future Exploration by 2027"
-    excerpt: "Mar (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Latest “Self Tanning Products"
-    publishedDateTime: 2023-03-26T10:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-tanning-products-market-2023-future-exploration-by-2027-2023-03-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

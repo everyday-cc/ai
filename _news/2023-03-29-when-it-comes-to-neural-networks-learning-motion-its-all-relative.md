@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2023-03-neural-networks-motion.html"
 ampWebUrl: "https://techxplore.com/news/2023-03-neural-networks-motion.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-neural-networks-motion.amp"
 type: article
-quality: 61
-heat: 61
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -17,9 +17,8 @@ provider:
   domain: techxplore.com
 
 topics:
-  - Machine Learning
-  - AI
   - Computer Vision
+  - AI
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2023/when-it-comes-to-neura.jpg"
@@ -27,6 +26,6 @@ images:
     height: 304
     isCached: true
 
-secured: "PBtsiQpBidbCf/lCL0jgDS74w1B3O1Ha/JQxMaCGX7OQ6fLOj6dARkVOo8PT/5JTuTrjAycykkbvPPnyB+HCxqblh9NX99HH+HTXo/0iSK8K8ptqEbscgoRSjc04KMI/mYuvX/0hUVNmHyh6goDj8c2MDbxJPZn3ZFCo/eMaQEA6YVIlfx+DV/e2Djje5ubn6CXHUXAGv0FZ9aPuxWXdrCFuOC9/5Nbt/0aVNUzvQUk6+zvBponH6s+Y3fgPmuGSvIhNxH+ZglNeAfJ1aJndydTg5Iu5oRrhbzuVqo8qpnHlCAHnJbTioEd050KtPySwYsyZixxn32VnP5Fl17zbWJT4EPkOKAyQj0+9XbW4e5g=;p7ayM/Mxn19ea210XT/pCQ=="
+secured: "ZiVMQXkHY3zSIHu4/RHL9H/aoXD9itbFSv20Kkzs2KQrzlRFlVrIMzv3soFaEvu44/chJeICUTa/BkSURMfB/NpE/ws2glqA3cbH/ujJ7TSsYRBAuegVoowYtgVqngGZPwshIxDgkWGe5Gp1gVZ9b6mOY1KwPfmo8/Q4iKK9OdSMOuTe3VUBiCSuscwxmUaxus1HmMriesU338zHkKzsrRozxcQnW2XLKuAsjW0yxTDHz0pOgJeGhqQazVdNA0RdxCO8pniUoeyNT205NYN0qq++t88IGrZJnRbJTNpVVQ5qi/1mHkUWEAwZwzQlOi0mNKQ/Z0O4aFfup+fhj8eDr9OLqU1vKGdSUae3rgV5Htg=;LShFap7XDvVutzynKevEtQ=="
 ---
 
