@@ -7,7 +7,7 @@ originalUrl: "https://www.benzinga.com/news/23/03/31607947/bill-gates-says-self-
 webUrl: "https://www.benzinga.com/news/23/03/31607947/bill-gates-says-self-driving-cars-will-change-transportation-like-pcs-transformed-work-close-to-tipp"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,38 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Bill Gates says self-driving cars will be as revolutionary as the PC after riding in one"
+    excerpt: "Those services, like GM's Cruise and Alphabet's Waymo, use detailed maps and programming to operate only in certain sections of cities. In contrast, Wayve (much like Tesla) wants to develop an artificial-intelligence-enabled vehicle that can learn to drive ..."
+    publishedDateTime: 2023-03-31T15:48:00Z
+    webUrl: "https://www.businessinsider.com/bill-gates-ai-self-driving-cars-as-revolutionary-as-pc-2023-3"
+    ampWebUrl: "https://www.businessinsider.com/bill-gates-ai-self-driving-cars-as-revolutionary-as-pc-2023-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bill-gates-ai-self-driving-cars-as-revolutionary-as-pc-2023-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://i.insider.com/6426f238ed593e00183f6aa0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Bill Gates says AI will revolutionize healthcare like the internet, mobile phones"
+    excerpt: "Bill Gates says artificial intelligence will change the way people get healthcare as much as the internet and mobile phones have and could make health more equitable around the globe. \"For one thing, [AIs will] help healthcare workers make the most of ..."
+    publishedDateTime: 2023-03-27T22:01:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/bill-gates-says-ai-will-revolutionize-healthcare-like-the-internet-mobile-phones.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 49
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "tYI/Fr+orZIMUA627HURgowQGFL7E7MMDX0Ps3/PLZmupO/s1u7cenKbS2XcSWchLc/VkCoECXrzvmt8DhoUoKbRMFkUPLou0xTwDBR1/Ijaye60Foy8tXctTyQdwn/2rdTAjweeHM6kR9NKJgTKFxLgUHx6Sj/XeRaX7iIJfp9+Vvw9AXhGf3h7znd+N5Y8EYvdiuOZ/OMudZfv1d5JHXEG94Pm7S8FNcr9KZlSXRQ7tSMx6CcydIZ5/EYTW3WeOEjUyNPLHdaWNpZl5tGMOUGa0erEIyWDMYu46KVzk1OM570M+z7iiRbBQi7QBX6DO20+27VjSwi3K24pnvKFoBqsyLVDbpfqIWl5Oe/o7zQ=;y6/OKJOQU1axs9qbp4LTuQ=="
 ---

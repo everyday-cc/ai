@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 698
         isCached: true
+  - title: "Why It’s Difficult To Predict Where GPT And Other Generative AI Might Take Us"
+    excerpt: "Why is it so difficult to predict events and consequences too far into the future? Scientists and philosophers have studied the process of how knowledge is expanded. And what they have learned has lessons for understanding where generative AI models may go."
+    publishedDateTime: 2023-03-31T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/gabrielasilva/2023/03/31/why-its-difficult-to-predict-where-gpt-and-other-generative-ai-might-take-us/"
+    ampWebUrl: "https://www.forbes.com/sites/gabrielasilva/2023/03/31/why-its-difficult-to-predict-where-gpt-and-other-generative-ai-might-take-us/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2023/03/31/why-its-difficult-to-predict-where-gpt-and-other-generative-ai-might-take-us/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641df1543445254362580d52/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
+        isCached: true
 
 secured: "W2+PLGdWQsNYRYfPjwfLsZtY7xHN+9LB2r9bif/tJH9pjK+ddovV1S/3KY2oxpuhUaVJTbuK0kcaSRSgYkRlOZuzmpijraYCPDcirvi31+Ct9QBZ1KfiiuT3O5UkNdzLW98iRgLG5yi8LZ4zf+vyO+q1X47767ncrG+0oPmN7zkhn+2nqphtop6xxDjaLJ13VJC66qSSqm76RfwtGvQtjForD/07FKHUbSizQsL/7cSQHuywP8CvdLP1VZiW0EyGqtJAnp7oPPDCNltDwCppZCqFcIi9+d+S9Y6sSiAF7MQLI/8I90Do5H/OvK7skYiCFvSKIqWYyWoVcewsiBAuyDioyqgsBNiN5Sc0TRUHYaCWnjh+gpzxQsFackMW1sFL1SSJi8xRUu5soQltMADY2PBlkAzPCgtHs40ZdudRERv2AgEOtni3vTWce0zt0wSxVH5Vshnh36aOU6mz8MSYQiTRMqyT8VQf1U2XQDzo4I/XonosIKxGCidxkEBJ53P0zh9jYZLT9wzhBTUtNhvFqQ==;tDOZlBKycT+urOMEdtweQA=="
 ---

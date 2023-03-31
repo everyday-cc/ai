@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Xoriant X-CELERATE Insights Analytics Solution Now Available in the Microsoft Azure Marketplace"
-excerpt: "Xoriant X-CELERATE Insights Analytics Solution Now Available in the Microsoft Azure Marketplace Mar (PRNewswire via COMTEX) -- PR"
-publishedDateTime: 2023-03-29T14:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/xoriant-x-celerate-insights-analytics-solution-now-available-in-the-microsoft-azure-marketplace-2023-03-29"
-webUrl: "https://www.marketwatch.com/press-release/xoriant-x-celerate-insights-analytics-solution-now-available-in-the-microsoft-azure-marketplace-2023-03-29"
+excerpt: "Microsoft Azure customers worldwide now gain access to X·CELERATE Insights to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies SUNNYVALE,"
+publishedDateTime: 2023-03-29T00:00:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-xoriant-x-celerate-insights-analytics-solution-now-available-/2023/03/29/9785521.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-xoriant-x-celerate-insights-analytics-solution-now-available-/2023/03/29/9785521.htm"
 type: article
-quality: 87
-heat: 117
-published: true
+quality: 57
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/449859/PRNE_Xoriant_Logo.jpg"
+    width: 400
+    height: 260
     isCached: true
 
 related:
@@ -43,25 +39,81 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Kinaxis Brings Concurrent Supply Chain Planning to Microsoft Azure Marketplace"
-    excerpt: "With supply chain elevated to a board-level topic, digital transformation of planning has become a top initiative. By bringing RapidResponse to the Microsoft Azure Marketplace, more companies will be able to take advantage of the supply chain agility Kinaxis delivers,"
-    publishedDateTime: 2023-03-29T21:50:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-kinaxis-brings-concurrent-supply-cha-planning-microsoft-azure-/2023/03/29/9785140.htm"
+  - title: "AI and Big Data Analytics in Telecom Market Size and Forecast till 2031"
+    excerpt: "The \"AI and Big Data Analytics in Telecom Market\" study describes how the technology industry is evolving and how major"
+    publishedDateTime: 2023-03-27T16:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-size-and-forecast-till-2031-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer vision data analytics in the spotlight for retail and small businesses"
+    excerpt: "Lumeo, which designs computer vision technology, and the video analytics firm BriefCam both have new offerings targeting retail businesses."
+    publishedDateTime: 2023-03-27T20:27:00Z
+    webUrl: "https://www.biometricupdate.com/202303/computer-vision-data-analytics-in-the-spotlight-for-retail-and-small-businesses"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 50
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/03144630/smart-camera-edge-device-retail.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "2023, The Artificial Intelligence in Life Sciences Market is Expected to Witness a Substantial Rise in Revenue"
+    excerpt: "Artificial Intelligence in Life Sciences Market Size 2023 | New Report (122 Pages) | Information Technology | In"
+    publishedDateTime: 2023-03-27T03:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-the-artificial-intelligence-in-life-sciences-market-is-expected-to-witness-a-substantial-rise-in-revenue-2023-03-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AWS brings real-time call analytics to Amazon Chime software development kit"
+    excerpt: "Developers can simply choose the AWS artificial intelligence service they’d like to use to analyze a specific call, such as voice analytics, Amazon Transcribe or Amazon Transcribe Call Analytics. To visualize these analytics, users can choose from Amazon ..."
+    publishedDateTime: 2023-03-27T15:13:00Z
+    webUrl: "https://siliconangle.com/2023/03/27/aws-brings-real-time-call-analytics-amazon-chime-sdk/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/Screenshot-from-2023-03-27-07-23-16.png"
+        width: 620
+        height: 377
+        isCached: true
+  - title: "Income Tax: How will AI, Machine learning, and data analytics simplify tax process in India?"
+    excerpt: "Here is how artificial intelligence, machine learning, and data analytics are used in the taxation process: What is presumptive taxation and how it is beneficial for small businesses, professionals? Expert explains"
+    publishedDateTime: 2023-03-27T12:42:00Z
+    webUrl: "https://www.zeebiz.com/personal-finance/income-tax/news-income-tax-how-will-ai-machine-learning-and-data-analytics-simplify-tax-process-in-india-227701"
+    type: article
+    provider:
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 23
+  - title: "Axis Communications Unveils New Devices at ISC West, Underscoring Its Commitment to Deep Learning and Advanced Analytics"
+    excerpt: "Axis Communications, the industry leader in video surveillance, announced the debut of its latest product and solutions offering at the ISC West security conference in Las Vegas, NV. The unveiling will include a series of panoramic cameras,"
+    publishedDateTime: 2023-03-29T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/03/29/9785666.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 45
-  - title: "MTN to migrate OSS/BSS to Microsoft Azure"
-    excerpt: "South Africa-based MTN has joined the growing list of telcos that are making the move to public cloud. The company on Monday announced it has embarked on a programme of work to migrate various systems to Microsoft Azure."
-    publishedDateTime: 2023-03-30T15:38:00Z
-    webUrl: "https://telecoms.com/520948/mtn-to-migrate-oss-bss-to-microsoft-azure/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 34
+    quality: 0
 
-secured: "OktPMDvqdKloNgou8uHDYQeR2bUR+FtiyJueY5m/9vLPgIxQkd67X5gpdXp+xKzZuDf4Hk0mPykhU47rXfWY4mNu4iPV+I/+yO4b/2ADBTs4WBysJbmwvTRJhw5yk18zx1W+bt/3LL2pX/+n0E50oES4blFPfL/G4sFDCb4/Rxqkb0iPcjjJHbO6gehDxWEj3D6l/pNMpRss501hNST/NnFb7O8+arHLwSk5+g+Zst3CYXnNOORjngKziBy2lndY7vcs0/6f/9MOInFpCLV5KJR1fEW8GSNA2kEhfP3Vk1H2BF+2jHBDNndu4CEUb3PclJ+6QYoWA6xBlzWgKUaZOgX/INLpZOlif6DzO5A1Cmk=;qeg91owwrPfWV+SsP7tKLQ=="
+secured: "itJOlFgUHBEq4j4bjGwvsTLzeqC5Ji8FXxvas4uQnHqFb95DRxN/ULPxOmfmAq1Ayn1imLO2YraR6bYSGaF2GteIne0QxAHmK4hBGTOEfPZcfwagWPEumC3eKr3y7a+h2629eI8rARJnyYXpNBjolZ4G0SRyXVnHS3JtSbDlVdCkctItJRsiN8ePchzwOE/4h6+OQbNvD/IvlhOrBTxSInwBC2pjep8hpPnLFbTCwKDBvC2//kbUtk1isFfpi7s2Z3ExOp01B1bHrVPc56hINGSgrb3J9dfi2o2nUh4pY54xUpYw46e774Rq7bP/+PLSbI3Rt3V4aNOOqjrUz5Zs9tF7ROZVFEuYIsTLJTcGZA4=;PTKXaA0tENQ11I5abnGNMQ=="
 ---
 

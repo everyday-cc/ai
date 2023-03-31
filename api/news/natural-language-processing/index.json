@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-31-build-end-to-end-document-processing-pipelines-with-amazon-textract-idp-cdk-constructs.md",
+      "title": "Build end-to-end document processing pipelines with Amazon Textract IDP CDK Constructs",
+      "excerpt": "Intelligent document processing (IDP) with AWS helps automate information extraction from documents of different types and formats, quickly and with high accuracy, without the need for machine learning (ML) skills. Faster information extraction with high accuracy can help you make quality business decisions",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-end-to-end-document-processing-pipelines-with-amazon-textract-idp-cdk-constructs/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-end-to-end-document-processing-pipelines-with-amazon-textract-idp-cdk-constructs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/31/build-end-to-end-document-processing.jpg",
+          "width": 1148,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-31T10:03:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-03-28-automatic-speech-recognitionasr-software-market-share-business-till-2030.md",
       "title": "Automatic Speech Recognition(ASR) Software Market Share | Business till 2030",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- “Automatic Speech Recognition(ASR) Software Market” Are a Collection of Information and Analysis Obtained From Diverse Sources to Aid ...",
@@ -1431,50 +1484,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-03-11-microsoft-introduces-ai-assistant-google-usm-advances-more-news.md",
-      "title": "Microsoft Introduces AI Assistant, Google USM Advances, More News",
-      "excerpt": "Google Universal Speech Model (USM) for AI Language Google researchers have ... voice-controlled devices and language translation. Google has already used the USM to develop a new speech ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-experience/microsoft-introduces-ai-assistant-google-usm-advances-more-news/",
-      "originalUrl": "https://www.cmswire.com/digital-experience/microsoft-introduces-ai-assistant-google-usm-advances-more-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/e768317140584cc4a0f2f6974e4f445b.ashx",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-experience/microsoft-introduces-ai-assistant-google-usm-advances-more-news/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/microsoft-introduces-ai-assistant-google-usm-advances-more-news/amp/",
-      "publishedDateTime": "2023-03-10T17:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

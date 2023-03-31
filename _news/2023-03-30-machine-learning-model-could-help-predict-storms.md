@@ -36,6 +36,20 @@ related:
       name: Phys.org
       domain: phys.org
     quality: 35
+  - title: "CSU machine learning model helps forecasters improve confidence in storm prediction"
+    excerpt: "When severe weather is brewing and life-threatening hazards like heavy rain, hail or tornadoes are possible, advance warning and accurate predictions are of utmost importance. Colorado State University weather researchers have given storm forecasters a powerful new tool to improve confidence in their forecasts and potentially save lives."
+    publishedDateTime: 2023-03-29T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/984458"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 33
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/034b615e-8b5b-45a0-860e-435ae3c79ed8/Rendition/low-res/Content/Public"
+        width: 700
+        height: 394
+        isCached: true
 
 secured: "B/mxLnUWuz2/Shw7UGgdCli6lMmAvUeX8rnc4ODpyRCXOlitMhFZiG5VKHTvouuqkFrnjgbW7LLhNzfW7dNRo0JMuAylY+4TgHYOWXsApI0l7S+ch0Si9zW5l2Bf8KExbQHYmHMmVZ28ewXHJXTKPqw6G2v/akaMVm2A5GvK8p1kZc/ZoidfRBv2DH01FxKIS8c2lDSJ5F1Yg7WUZDlvooIoAWpiChIa2fGfwbvOQvy4w16gsPi8pkZ7t5YRdicNJO5FEY8h0hi4eBVvQc24E8rCAmo1b8oX6cBz6F7tCOofJ9i6RojRVYBKFCsUDiXJpXkQrHbX0IEq+dbKhioS/HXH0CmtLplYlU0As+tqxu2mjYk3VBAvM5iRkvkYPKVqhNRiXWJrHoPyUQkFhz+ie5H4w9WAClnnqg9Q+OZ2JrMiexg5+UjFO6nljw8wuete5FwdQU8NDGYundAfpFJsW4HESDraO1JqY88Qz4p0GhbFX1d0kqI5wSAGogOnZ4+oehNVqpk6zbChvsdyykEKaw==;QkTeLrbj+J/dleELUm124Q=="
 ---

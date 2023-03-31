@@ -2,6 +2,181 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2023-02-22-aws-announces-aws-telco-network-builder.md",
+      "title": "AWS Announces AWS Telco Network Builder",
+      "excerpt": "(NASDAQ: AMZN), today announced the general availability of AWS Telco Network Builder, a fully managed service that helps customers deploy, run, and scale telco networks on AWS. Now, communications service providers (CSPs) can use their familiar telecom industry standard language to describe the details of their network (e.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/02/21/9763854.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/02/21/9763854.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-21T10:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-22-deep-learning-robotics-dlr-awarded-new-patent-for-revolutionary-technology-in-robotics-and-ai.md",
+      "title": "Deep Learning Robotics (DLR) Awarded New Patent for Revolutionary Technology in Robotics and AI",
+      "excerpt": "Deep Learning Robotics (DLR), a leading innovator in the field of robotics and artificial intelligence, announced at the AI Week in Tel-Aviv the grant of a new patent for",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/02/n30993121/deep-learning-robotics-dlr-awarded-new-patent-for-revolutionary-technology-in-robotics-and-ai",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/n30993121/deep-learning-robotics-dlr-awarded-new-patent-for-revolutionary-technology-in-robotics-and-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30993121",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30993121",
+      "publishedDateTime": "2023-02-21T09:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-02-22-amazon-web-services-pairs-with-hugging-face-to-target-ai-developers.md",
+      "title": "Amazon Web Services pairs with Hugging Face to target AI developers",
+      "excerpt": "The logo for Amazon Web Services (AWS) is seen at the SIBOS banking and financial ... Swami Sivasubramanian, vice president of database, analytics and machine learning at AWS, said he believes technologies like Trainium can help developers save money ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/amazon-web-services-pairs-with-hugging-face-target-ai-developers-2023-02-21/",
+      "originalUrl": "https://www.reuters.com/technology/amazon-web-services-pairs-with-hugging-face-target-ai-developers-2023-02-21/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/N8oH5-YytfIMlpB4TZfnbaWyL0M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KMPAA4VKZJKEBEQQG3QVAB4P4E.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-21T08:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-21-neuromorphic-camera-and-machine-learning-aid-nanoscopic-imaging.md",
+      "title": "Neuromorphic camera and machine learning aid nanoscopic imaging",
+      "excerpt": "Their novel technique, which combines optical microscopy with a neuromorphic camera and machine learning algorithms, presents a major step forward in pinpointing objects smaller than 50 nanometers ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-02-neuromorphic-camera-machine-aid-nanoscopic.html",
+      "originalUrl": "https://phys.org/news/2023-02-neuromorphic-camera-machine-aid-nanoscopic.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/neuromorphic-camera-an.jpg",
+          "width": 2000,
+          "height": 1477,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-02-neuromorphic-camera-machine-aid-nanoscopic.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-neuromorphic-camera-machine-aid-nanoscopic.amp",
+      "publishedDateTime": "2023-02-21T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-02-21-c3-ai-expands-strategic-collaboration-agreement-with-aws-to-deliver-enhanced-ai-solutions.md",
       "title": "C3 AI Expands Strategic Collaboration Agreement with AWS to Deliver Enhanced AI Solutions",
       "excerpt": "C3 AI is a leading enterprise AI software provider building enterprise-scale AI applications and accelerating customers’ digital transformation. For example, C3 AI Law Enforcement helps local government agencies use machine learning (ML) to organize and analyze datasets,",
@@ -927,206 +1102,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-20-the-5g-fixed-wireless-access-vs-fiber-debate.md",
-      "title": "The 5G Fixed Wireless Access Vs. Fiber Debate",
-      "excerpt": "Vice President of Security, Carriers and Enterprise Networking, Will Townsend, shares his insights on FWA’s early momentum and whether it is simply a superior alternative to fiber.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/02/20/the-5g-fixed-wireless-access-vs-fiber-debate/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/02/20/the-5g-fixed-wireless-access-vs-fiber-debate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63f3892e99e91a87dc56b89e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/02/20/the-5g-fixed-wireless-access-vs-fiber-debate/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/02/20/the-5g-fixed-wireless-access-vs-fiber-debate/amp/",
-      "publishedDateTime": "2023-02-20T05:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-20-amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road.md",
-      "title": "Amazon's self-driving unit Zoox puts driverless taxi on the road",
-      "excerpt": "Zoox, an Amazon-owned company, has begun testing its driverless taxis on public ... MARS conference on robotics and artificial intelligence at the Aria Hotel in Las Vegas, Nevada.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/news/national/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/article_43ff8c82-e6aa-548e-a507-ebb884546010.html",
-      "originalUrl": "https://www.stltoday.com/news/national/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/article_43ff8c82-e6aa-548e-a507-ebb884546010.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/3f/43ff8c82-e6aa-548e-a507-ebb884546010/63f1b9da8623d.preview.jpg?crop=1744%2C916%2C0%2C136&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-20T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-20-jaspers-generative-ai-conference-breathes-new-optimism-into-the-beaten-down-tech-industry.md",
-      "title": "Jasper's Generative AI Conference Breathes New Optimism Into The Beaten Down Tech Industry",
-      "excerpt": "Experts from industry-leading companies such as OpenAI, Anthropic, Replit, and Stability were featured in the event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/02/20/jaspers-generative-ai-conference-breathes-new-optimism-into-the-beaten-down-tech-industry/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/20/jaspers-generative-ai-conference-breathes-new-optimism-into-the-beaten-down-tech-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63f3691c813c6c8f7ded2983/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/02/20/jaspers-generative-ai-conference-breathes-new-optimism-into-the-beaten-down-tech-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/20/jaspers-generative-ai-conference-breathes-new-optimism-into-the-beaten-down-tech-industry/amp/",
-      "publishedDateTime": "2023-02-20T03:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-20-you-might-start-seeing-ai-chatbots-everywhere-thanks-to-the-gpt-effect.md",
-      "title": "You might start seeing AI chatbots everywhere, thanks to 'the GPT effect'",
-      "excerpt": "AI technology is being developed, for instance, in assisting with health care research, to fight cyberattacks, and to improve supply chain logistics. Using AI in this way can help \"if you want to experiment in a low cost way, without making a commitment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2",
-      "originalUrl": "https://www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63efcf6efeee2300187c7e43?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2?amp",
-      "publishedDateTime": "2023-02-20T03:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Robotics",
-        "Natural Language Processing"
       ]
     }
   ],

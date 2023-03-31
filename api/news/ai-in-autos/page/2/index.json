@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-17-baidu-says-it-can-now-operate-robotaxis-in-beijing-with-no-human-staff-inside.md",
+      "title": "Baidu says it can now operate robotaxis in Beijing with no human staff inside",
+      "excerpt": "Since the third quarter, Baidu claimed that in major Chinese cities, its self-driving taxis complete an average of more than 15 rides per vehicle per day — on par with traditional ride-hailing services. BEIJING — Chinese tech company Baidu announced ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/03/17/baidu-says-it-can-now-operate-robotaxis-in-beijing-with-no-human-staff-inside.html",
+      "originalUrl": "https://www.cnbc.com/2023/03/17/baidu-says-it-can-now-operate-robotaxis-in-beijing-with-no-human-staff-inside.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 216,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107100111-1659921398203-Image_from_iOS_64.jpg?v=1679035563",
+          "width": 1919,
+          "height": 1279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/03/17/baidu-says-it-can-now-operate-robotaxis-in-beijing-with-no-human-staff-inside.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/17/baidu-says-it-can-now-operate-robotaxis-in-beijing-with-no-human-staff-inside.html",
+      "publishedDateTime": "2023-03-16T23:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-gm-ceo-meets-with-senators-on-self-driving-cars.md",
+      "title": "GM CEO meets with senators on self-driving cars",
+      "excerpt": "WASHINGTON, March 16 (Reuters) - General Motors (GM.N) CEO Mary Barra met with two key senators on Thursday as the Detroit automaker pushes for legislation to speed deployment of self-driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/gm-ceo-meets-with-senators-self-driving-cars-2023-03-17/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/gm-ceo-meets-with-senators-self-driving-cars-2023-03-17/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/fCGG0BQIKYeKuBLV_PCQDPviSuA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UXE7GOEGVZLSDILGHMPMUZPNGQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T17:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions.md",
       "title": "Gods in the machine? The rise of artificial intelligence may result in new religions",
       "excerpt": "We are about to witness the birth of a new kind of religion. In the next few years, or perhaps even months, we will see the emergence of sects devoted to the worship of artificial intelligence (AI).",
@@ -1268,93 +1372,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-drivers-not-ready-for-fully-self-driving-car-recent-aaa-survey-shows.md",
-      "title": "Drivers not ready for fully self-driving car, recent AAA survey shows",
-      "excerpt": "While the interest in partially-automated vehicle technology grows, a recent AAA survey shows that drivers are becoming more fearful of fully self-driving vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/baltimore/news/drivers-not-ready-for-fully-self-driving-car-recent-aaa-survey-shows/",
-      "originalUrl": "https://www.cbsnews.com/baltimore/news/drivers-not-ready-for-fully-self-driving-car-recent-aaa-survey-shows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/05/4145f552-7abf-4325-b52e-bef95378a236/thumbnail/1200x630/6082d81cddfe2819760ac5d2246671ee/auto.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/baltimore/news/drivers-not-ready-for-fully-self-driving-car-recent-aaa-survey-shows/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/baltimore/news/drivers-not-ready-for-fully-self-driving-car-recent-aaa-survey-shows/",
-      "publishedDateTime": "2023-03-05T15:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-understanding-the-world-of-artificial-intelligence-and-its-future-impacts.md",
-      "title": "Understanding the world of artificial intelligence and its future impacts",
-      "excerpt": "Dr. Rebecca Leis, a computer science program director at Full Sail University, sat down with anchor Justin Warmoth on “The Weekly” to help us better understand the world of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.clickorlando.com/news/local/2023/03/05/understanding-the-world-of-artificial-intelligence-and-its-future-impacts/",
-      "originalUrl": "https://www.clickorlando.com/news/local/2023/03/05/understanding-the-world-of-artificial-intelligence-and-its-future-impacts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/03-05-2023/t_0fb618fcb9db4ccf9a1b664f859dae53_name_image.jpg?_a=ATCqVhC0",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-05T09:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News 6 WKMG",
-        "domain": "clickorlando.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

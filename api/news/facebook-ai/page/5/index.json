@@ -2,58 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-01-14-ai-is-taking-on-ever-larger-puzzles.md",
-      "title": "AI Is Taking On Ever-Larger Puzzles",
-      "excerpt": "But eight months later, still in the midst of the pandemic, AI solved a nearly 50-year-old grand challenge in biology: the protein-structure prediction problem. Life science experts described this breakthrough as “the singular and momentous advance in life science that demonstrates the power of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/artificial-intelligence-puzzles/",
-      "originalUrl": "https://www.wired.com/story/artificial-intelligence-puzzles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63bc6563145a571e203e3b3c/master/pass/04_AI-takes-on-ever-larger-puzzles.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-puzzles/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-puzzles/amp",
-      "publishedDateTime": "2023-01-14T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-14-why-ai-and-creativity-are-not-at-war.md",
       "title": "Why AI and creativity are not at war",
       "excerpt": "Why AI won't steal your job, and why The field of strategic creative analysis will become important as generative AI becomes ubiquitous.",
@@ -1361,6 +1309,59 @@
       ],
       "topics": [
         "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-24-as-big-tech-suffers-startups-can-grow-with-ai.md",
+      "title": "As Big Tech suffers, startups can grow with AI",
+      "excerpt": "Startups and large enterprise alike only benefit when they leverage AI to automate and scale operations and services.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/as-big-tech-suffers-startups-can-grow-with-ai/",
+      "originalUrl": "https://venturebeat.com/ai/as-big-tech-suffers-startups-can-grow-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1206796363-e1654038927332.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/as-big-tech-suffers-startups-can-grow-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/as-big-tech-suffers-startups-can-grow-with-ai/amp/",
+      "publishedDateTime": "2022-12-23T18:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
         "Facebook AI"
       ]
     }

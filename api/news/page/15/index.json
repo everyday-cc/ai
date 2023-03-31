@@ -2,6 +2,196 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-03-17-gm-ceo-meets-with-senators-on-self-driving-cars.md",
+      "title": "GM CEO meets with senators on self-driving cars",
+      "excerpt": "WASHINGTON, March 16 (Reuters) - General Motors (GM.N) CEO Mary Barra met with two key senators on Thursday as the Detroit automaker pushes for legislation to speed deployment of self-driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/gm-ceo-meets-with-senators-self-driving-cars-2023-03-17/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/gm-ceo-meets-with-senators-self-driving-cars-2023-03-17/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/fCGG0BQIKYeKuBLV_PCQDPviSuA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UXE7GOEGVZLSDILGHMPMUZPNGQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T17:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-amid-thin-twitter-safety-staff-elon-musk-frets-over-microsoft-reportedly-axing-ai-ethics-team.md",
+      "title": "Amid Thin Twitter Safety Staff, Elon Musk Frets Over Microsoft Reportedly Axing AI Ethics Team",
+      "excerpt": "Elon Musk fusses over Microsoft Corporation MSFT reportedly firing its AI Ethics and Society team amid concerns about the reduced Twitter workforce. What Happened: On Thursday, Musk reacted to a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/03/31374406/amid-thin-twitter-safety-staff-elon-musk-frets-over-microsoft-reportedly-axing-ai-ethics-team",
+      "originalUrl": "https://www.benzinga.com/news/23/03/31374406/amid-thin-twitter-safety-staff-elon-musk-frets-over-microsoft-reportedly-axing-ai-ethics-team",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/Elon_Musk_and_Twitter_Photo_by_rafapress_on_Shutterstock_4.jpeg?width=1200&height=800&fit=crop",
+          "width": 771,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31374406",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31374406",
+      "publishedDateTime": "2023-03-16T17:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-watch-google-deepminds-alphago-documentary-for-free.md",
+      "title": "Watch Google Deepmind's AlphaGo Documentary for Free",
+      "excerpt": "In 2016, DeepMind, Google's subsidiary focused on artificial intelligence research, made history when AlphaGo, an AI system became one of the world's best Go players. Over the course seven days, in a best-of-five-game competition, AlphaGo bested high ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/watch-google-deepminds-alphago-documentary-free",
+      "originalUrl": "https://www.designnews.com/electronics-test/watch-google-deepminds-alphago-documentary-free",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/AlphaGoDocumentary.jpg",
+          "width": 1278,
+          "height": 724,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-ai-generated-images-from-text-cant-be-copyrighted-us-government-rules.md",
+      "title": "AI-generated images from text can't be copyrighted, US government rules",
+      "excerpt": "The US Copyright office has issued new guidance on the copyrightability of works that contain AI-generated elements..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ai-generated-images-from-text-cant-be-copyrighted-us-government-rules-174243933.html",
+      "originalUrl": "https://www.engadget.com/ai-generated-images-from-text-cant-be-copyrighted-us-government-rules-174243933.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/z0DrGfDE2hCafrbAOi3u2g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/bf3954c0-c41b-11ed-bffd-8307d83a5179.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/ai-generated-images-from-text-cant-be-copyrighted-us-government-rules-174243933.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-generated-images-from-text-cant-be-copyrighted-us-government-rules-174243933.html",
+      "publishedDateTime": "2023-03-16T16:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-17-cobalt-speech-and-language-offering-limited-time-application-for-a-free-trial-speech-recognition-technology.md",
       "title": "Cobalt Speech and Language Offering Limited-time Application for a Free Trial Speech Recognition Technology",
       "excerpt": "Cobalt Transcribe is a state-of-the-art speech recognition system that provides fast, accurate speech recognition. Cobalt Transcribe is a highly flexible system that can run on-premise, in your private cloud,",
@@ -1016,214 +1206,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-microsofts-new-power-platform-ai-copilot-will-build-your-apps-for-you.md",
-      "title": "Microsoft’s new Power Platform AI copilot will build your apps for you",
-      "excerpt": "The idea here is to use AI to make using these tools for building line-of-business ... For now, Microsoft describes these features as “experimental previews powered by Azure OpenAI Service with GPT” and warns that they are not meant for production ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/16/microsofts-new-power-platform-ai-copilot-will-build-your-apps-for-you/",
-      "originalUrl": "https://techcrunch.com/2023/03/16/microsofts-new-power-platform-ai-copilot-will-build-your-apps-for-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 324,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/Screenshot-2023-03-16-083404.png?resize=1200,649",
-          "width": 1200,
-          "height": 649,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/16/microsofts-new-power-platform-ai-copilot-will-build-your-apps-for-you/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/microsofts-new-power-platform-ai-copilot-will-build-your-apps-for-you/amp/",
-      "publishedDateTime": "2023-03-16T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-small-businesses-have-fewer-resources-than-big-companies-heres-how-ai-can-fill-the-gaps.md",
-      "title": "Small Businesses Have Fewer Resources Than Big Companies. Here's How AI Can Fill the Gaps.",
-      "excerpt": "Generative AI technology offers small businesses several advantages when it comes to marketing and operations. It can speed up the content creation process, minimize errors, and help teams start tasks with more accuracy. Here are a few ways generative AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/science-technology/how-ai-can-help-small-businesses-do-more-in-less-time/445042",
-      "originalUrl": "https://www.entrepreneur.com/science-technology/how-ai-can-help-small-businesses-do-more-in-less-time/445042",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1678471153-GettyImages-1413357684.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-16T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-cast-ai-raises-20m-to-help-companies-reduce-cloud-spend.md",
-      "title": "Cast AI raises $20M to help companies reduce cloud spend",
-      "excerpt": "Cast AI customers can connect their cloud plans across AWS ... Customers will pay only once they start saving money. Frayman says that Cast will put the newly secured funds, which bring the startup’s total raised to more than $63 million, toward growing ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/",
-      "originalUrl": "https://techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1334236014.jpg?resize=1200,804",
-          "width": 1200,
-          "height": 804,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/amp/",
-      "publishedDateTime": "2023-03-16T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-after-year-of-downsizing-datarobot-unveils-new-ai-platform.md",
-      "title": "After year of downsizing, DataRobot unveils new AI platform",
-      "excerpt": "With the latest release, DataRobot AI Platform Single-Tenant SaaS is now available on AWS, Google Cloud, and Microsoft Azure. For on-premises and private cloud customers, DataRobot now supports Red Hat OpenShift for faster installations and deployments ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/",
-      "originalUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-27.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/amp/",
-      "publishedDateTime": "2023-03-16T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

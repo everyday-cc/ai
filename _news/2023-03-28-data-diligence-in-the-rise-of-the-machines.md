@@ -7,7 +7,7 @@ originalUrl: "https://www.law.com/newyorklawjournal/2023/03/28/data-diligence-in
 webUrl: "https://www.law.com/newyorklawjournal/2023/03/28/data-diligence-in-the-rise-of-the-machines/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 767
     height: 633
     isCached: true
+
+related:
+  - title: "The rise of robots in the workplace"
+    excerpt: "According to a recent report by the World Economic Forum, workplace automation is expected to significantly impact 85 million jobs globally by 2025. The report highlights that humans will share work responsibilities almost equally with machines,"
+    publishedDateTime: 2023-03-31T17:01:00Z
+    webUrl: "https://electronics360.globalspec.com/article/19462/the-rise-of-robots-in-the-workplace"
+    type: article
+    provider:
+      name: electronics360.globalspec
+      domain: globalspec.com
+    quality: 39
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/462/19462/robot-replacements-infographic_1.jpg"
+        width: 700
+        height: 919
+        isCached: true
 
 secured: "YUoFpni3xKKtUa+enilIC1fNnC6MnfqGZJlU5Q5O50uiZfavRYfcTJw0N9EYZmI6FkC6Ofq8NzVSj93Ob+VNrL1r3mTfO3pxK4Cwl7fRvAHZpVRUqFbed2LlMrz/tc6psdumJQBov549NV9Zqc75qj8RfuuhMsmqejfDzBne4Bo8QIXV5yWLUrRgxgAWWsFMvx+z7xS4aYdD2NODnb7UmtKr04fDacPDtFTekrpgmZplFLGPO2yG2Nl9d3hbfFkfBHJOrX2g8vkUW1YxfVmULhRJTq+Zatiyii0szbpzT3oMAiQ+oKcbOEqQACY63i+fI2pf2JS7QBnvJ9qtP1arivqrK9qsRAnqBqx4cbmpHvo=;1MZ5qSEUqeLX3tEov0ZT3g=="
 ---

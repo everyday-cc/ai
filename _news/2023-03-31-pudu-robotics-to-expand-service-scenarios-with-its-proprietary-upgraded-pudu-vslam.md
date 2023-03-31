@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Pudu Robotics to Expand Service Scenarios with Its Proprietary Upgraded PUDU VSLAM+"
-excerpt: "By using the roof as a reference point for visual recognition, PuduBot 2 can be more flexible in adapting to the dynamic changes within a space such as an object or human movements that can affect their horizontal operations. This enhances the overall ..."
-publishedDateTime: 2023-03-31T07:47:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/03/n31603573/pudu-robotics-to-expand-service-scenarios-with-its-proprietary-upgraded-pudu-vslam"
-webUrl: "https://www.benzinga.com/pressreleases/23/03/n31603573/pudu-robotics-to-expand-service-scenarios-with-its-proprietary-upgraded-pudu-vslam"
+excerpt: "The PUDU VSLAM+ is a new and innovative approach to localizing and mapping that overcomes the limitations of Marker Positioning and Laser Positioning which are costly to deploy and inflexible to environmental modifications."
+publishedDateTime: 2023-03-31T16:22:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/03/31/9786914.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/03/31/9786914.htm"
 type: article
-quality: 50
-heat: 50
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
   - AI in Robotics
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "gZ1aW1jpNdew3EXowTK8zsmFlaojmDbMPtd5J8uZ/AsWaTfSZtjoVTzbpwbU6agcqfF0arvYLFMbzaZyAzlEltvR7J/weXpY6scdrPsQFMzAqKkAB41zVPKh5AeqcXbrcd90ZxcEAlUfI6M26IxlGXCdGz0OkVDUx6YX3Ip1Y5OP3cqx9J4DFQZWhNSapxoK3Ur2w0qv38lYDrhh2rM8InKbRUxlhwumG6ZjqY/gHXQ22o7xP3Id8mwJTDtrXFPE5OK/j9uk137kYNZ8NFIe0zFTr7FhjB94I9OntMaPKg0xj+wlT6MTG3fEDRMgiZoi9nIGd4QG2jtHDIwme37nOjdei5YrrEQm1WG046qxuxw=;4bRNkEmCnv4w5r0ZT/swIQ=="
+secured: "FhzFU7arSS58+yzB2aNlKlnxZ3n/cJvk37PUHwKHqxc5yYfOEs9BQadY7nkskvCKeVFPdj3xHxjXJRd2y2jZQiP23u8Gs/zPR0k7ayQ4c7RManwdSS5HQ6FeQ6fM+sy1JqUTwjPqOfvotPAbJM2LN9HxkbHF3d4G8iCSpO72YksEjet+eaxvH5WFCbylzRg3pt+Wq7aaWoEJYgRWRkcg7fj4Nn9S+1kxT5dmue6C8j6ezrqfPCYRMUh1LI0IrBnfaY21D+hLIumJmyc+VPIlkZXkTIxlzDGRLuxkG7rdEQrJ+wCYTkh7sC5OhrMEE+iyzUTZsMltxZydHCUuvpdjLrZ4VD8qIECDNKa3bJwOPgE=;8qBT1SB+jBQ9R5vkEkR/lw=="
 ---
 

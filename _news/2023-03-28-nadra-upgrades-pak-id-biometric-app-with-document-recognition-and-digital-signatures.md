@@ -39,6 +39,20 @@ related:
         width: 2048
         height: 1812
         isCached: true
+  - title: "TSA's Biometric Screening May Not Be Optional for Long"
+    excerpt: "The Transportation Security Administration's facial recognition program is voluntary ... and that includes members of Congress who object to the biometrics rollout. Even a February letter from five senators, which casts the program as a threat to democracy ..."
+    publishedDateTime: 2023-03-31T16:45:00Z
+    webUrl: "https://reason.com/2023/03/31/tsas-biometric-screening-may-not-be-optional-for-long/"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 24
+    images:
+      - url: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2023/03/sipaphotosfifteen700007-scaled-e1680277956256.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
 
 secured: "WY9xmQXl+ZEv8dqaRCDZAqsPL9+Wx1kHscQ4QF6Au6D9qW76JFLaBgkmsZtuwqrfjEkWbNIWY2pZqyN7UUTJIxhe2eYh3wdCw8dM14e3EScEzYLFOycU5vHkZXZa3Tn4OLu838jmoBKWPni+o5VBJkNMiKKg4Zl6wYFtfvhcCp43RmNA6XiMY9HJNjbRQsUeiCKue2uzuGCmFAvA21n2sLHRXu/TVtoTR5EuIaUyPXF46/23ENKigEdRfQVN/lrfLz+rbyekllhd+Tt38lMkMLn9dafpiGLkVbPr2IeX6M1zvghIKKJtVw9DxNpADyPrb3L+SXIk6QjSLAg1ZPbBEo3852Pqh8nVjVmkYN3i6WQ=;JKJdORaxLXRBQLC9evywWQ=="
 ---

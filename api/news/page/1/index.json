@@ -2,6 +2,214 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-31-build-end-to-end-document-processing-pipelines-with-amazon-textract-idp-cdk-constructs.md",
+      "title": "Build end-to-end document processing pipelines with Amazon Textract IDP CDK Constructs",
+      "excerpt": "Intelligent document processing (IDP) with AWS helps automate information extraction from documents of different types and formats, quickly and with high accuracy, without the need for machine learning (ML) skills. Faster information extraction with high accuracy can help you make quality business decisions",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-end-to-end-document-processing-pipelines-with-amazon-textract-idp-cdk-constructs/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-end-to-end-document-processing-pipelines-with-amazon-textract-idp-cdk-constructs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/31/build-end-to-end-document-processing.jpg",
+          "width": 1148,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-31T10:03:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-03-31-the-ai-tax-on-ai-enabled-applications-in-the-cloud.md",
+      "title": "The 'AI tax' on AI-enabled applications in the cloud",
+      "excerpt": "The 'container tax' means companies pay more to use containers in the cloud. Applications with artificial intelligence are no different. Make sure AI is worth it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3691792/the-ai-tax-on-ai-enabled-applications-in-the-cloud.html",
+      "originalUrl": "https://www.infoworld.com/article/3691792/the-ai-tax-on-ai-enabled-applications-in-the-cloud.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/03/139543667-100250308-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3691792/the-ai-tax-on-ai-enabled-applications-in-the-cloud.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3691792/the-ai-tax-on-ai-enabled-applications-in-the-cloud.amp.html",
+      "publishedDateTime": "2023-03-31T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-31-bill-gates-says-self-driving-cars-will-be-as-revolutionary-as-the-pc-after-riding-in-one.md",
+      "title": "Bill Gates says self-driving cars will be as revolutionary as the PC after riding in one",
+      "excerpt": "Those services, like GM's Cruise and Alphabet's Waymo, use detailed maps and programming to operate only in certain sections of cities. In contrast, Wayve (much like Tesla) wants to develop an artificial-intelligence-enabled vehicle that can learn to drive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/bill-gates-ai-self-driving-cars-as-revolutionary-as-pc-2023-3",
+      "originalUrl": "https://www.businessinsider.com/bill-gates-ai-self-driving-cars-as-revolutionary-as-pc-2023-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6426f238ed593e00183f6aa0?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/bill-gates-ai-self-driving-cars-as-revolutionary-as-pc-2023-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bill-gates-ai-self-driving-cars-as-revolutionary-as-pc-2023-3?amp",
+      "publishedDateTime": "2023-03-31T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-31-2024-republican-presidential-contender-weighs-in-on-deep-concerns-over-ai-advancements.md",
+      "title": "2024 Republican presidential contender weighs in on deep concerns over AI advancements",
+      "excerpt": "GPT-4 is the latest deep learning model from OpenAI, which \"exhibits human-level performance on various professional and academic benchmarks,\" according to the lab. \"Powerful AI systems should be developed only once we are confident that their effects will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/2024-republican-presidential-contender-weigh-in-deep-concerns-ai-advancements",
+      "originalUrl": "https://www.foxnews.com/politics/2024-republican-presidential-contender-weigh-in-deep-concerns-ai-advancements",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/09/340/340/Kyle-Morris.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/2024-republican-presidential-contender-weigh-in-deep-concerns-ai-advancements.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/2024-republican-presidential-contender-weigh-in-deep-concerns-ai-advancements.amp",
+      "publishedDateTime": "2023-03-31T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-31-goldman-sachs-predicts-300-million-jobs-will-be-lost-or-degraded-by-artificial-intelligence.md",
       "title": "Goldman Sachs Predicts 300 Million Jobs Will Be Lost Or Degraded By Artificial Intelligence",
       "excerpt": "While the startup ecosystem has stalled due to adverse economic ... to wage declines among blue-collar workers replaced or degraded by automation. Artificial intelligence, robotics and new sophisticated technologies have caused a vast chasm in wealth ...",
@@ -10,7 +218,7 @@
       "originalUrl": "https://www.forbes.com/sites/jackkelly/2023/03/31/goldman-sachs-predicts-300-million-jobs-will-be-lost-or-degraded-by-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -50,7 +258,9 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
       ]
     },
     {
@@ -410,6 +620,57 @@
       "topics": [
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-31-the-view-co-host-sara-haines-warns-everyone-should-be-scared-about-artificial-intelligence.md",
+      "title": "'The View' co-host Sara Haines warns 'everyone should be scared' about artificial intelligence",
+      "excerpt": "\"The View\" co-host Sara Haines warned Thursday that \"everyone should be scared\" about artificial intelligence if the experts are calling on AI labs to pause development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/video/6323663548112",
+      "originalUrl": "https://www.foxnews.com/video/6323663548112",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06f6fa0b-bb1e-4a1e-bc72-2e2af8923d78/03ffc95f-d99a-4059-be18-faa7be888bca/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-30T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -950,257 +1211,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-30-gpt-4-commotion-and-controversy.md",
-      "title": "GPT-4: Commotion And Controversy",
-      "excerpt": "GPT-4 is generating tremendous excitement and concern in AI circles. This excitement is not overdone. The model is a significant advance on any previous natural language processing system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/calumchace/2023/03/30/gpt-4-commotion-and-controversy/",
-      "originalUrl": "https://www.forbes.com/sites/calumchace/2023/03/30/gpt-4-commotion-and-controversy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64254518f5e392062c81b689/0x0.jpg?format=jpg&width=1200",
-          "width": 987,
-          "height": 987,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2023/03/30/gpt-4-commotion-and-controversy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2023/03/30/gpt-4-commotion-and-controversy/amp/",
-      "publishedDateTime": "2023-03-30T01:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-30-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
-      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
-      "excerpt": "In any case, AI tools are not going away — and indeed has expanded dramatically ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/30/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
-      "originalUrl": "https://techcrunch.com/2023/03/30/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 389,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/30/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/30/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/",
-      "publishedDateTime": "2023-03-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-30-artificial-intelligence-delivery-robot-market-report-global-forecast-from-2023-to-2030.md",
-      "title": "Artificial Intelligence Delivery Robot Market Report | Global Forecast From 2023 To 2030",
-      "excerpt": "The Global Artificial Intelligence Delivery Robot market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2027. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-report-global-forecast-from-2023-to-2030-2023-03-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-report-global-forecast-from-2023-to-2030-2023-03-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-29T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-29-ai-focused-crypto-protocol-fetchai-raises-40m-to-deploy-decentralized-machine-learning.md",
-      "title": "AI-Focused Crypto Protocol Fetch.ai Raises $40M to Deploy Decentralized Machine Learning",
-      "excerpt": "Join the most important conversation in crypto and Web3 taking place in Austin, Texas, April 26-28. Artificial intelligence-focused crypto protocol Fetch.ai has raised $40 million from market maker and investment firm DWF Labs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.coindesk.com/business/2023/03/29/ai-focused-crypto-protocol-fetchai-raises-40m-to-deploy-decentralized-machine-learning/",
-      "originalUrl": "https://www.coindesk.com/business/2023/03/29/ai-focused-crypto-protocol-fetchai-raises-40m-to-deploy-decentralized-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.coindesk.com/resizer/d6S0I7swBBiulVIIo6kE57o4ucs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZO3ZU6FHZ5FCBCC5HZPNQD5UBY.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.coindesk.com/business/2023/03/29/ai-focused-crypto-protocol-fetchai-raises-40m-to-deploy-decentralized-machine-learning/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/business/2023/03/29/ai-focused-crypto-protocol-fetchai-raises-40m-to-deploy-decentralized-machine-learning/?outputType=amp",
-      "publishedDateTime": "2023-03-29T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinDesk",
-        "domain": "coindesk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-29-xoriant-x-celerate-insights-analytics-solution-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Xoriant X-CELERATE Insights Analytics Solution Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Xoriant X-CELERATE Insights Analytics Solution Now Available in the Microsoft Azure Marketplace Mar (PRNewswire via COMTEX) -- PR",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/xoriant-x-celerate-insights-analytics-solution-now-available-in-the-microsoft-azure-marketplace-2023-03-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/xoriant-x-celerate-insights-analytics-solution-now-available-in-the-microsoft-azure-marketplace-2023-03-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-29T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -115,7 +115,7 @@
       "originalUrl": "https://venturebeat.com/security/security-risks-evolve-with-release-of-gpt-4/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -157,58 +157,6 @@
         "Facebook AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-ai-and-big-data-analytics-in-telecom-market-size-and-forecast-till-2031.md",
-      "title": "AI and Big Data Analytics in Telecom Market Size and Forecast till 2031",
-      "excerpt": "The \"AI and Big Data Analytics in Telecom Market\" study describes how the technology industry is evolving and how major",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-size-and-forecast-till-2031-2023-03-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-size-and-forecast-till-2031-2023-03-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     },
     {
@@ -1508,6 +1456,49 @@
         "name": "GLAMOUR UK",
         "domain": "glamourmagazine.co.uk",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-3-artificial-intelligence-ai-stocks-with-54-to-675-upside-according-to-wall-street.md",
+      "title": "3 Artificial Intelligence (AI) Stocks With 54% to 675% Upside, According to Wall Street",
+      "excerpt": "Although estimates vary wildly regarding the rate of AI adoption and eventual market value, Grand View Research foresees ... Meta-owned social media asset -- Facebook, WhatsApp, Instagram, or ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/03/07/3-ai-stocks-with-54-to-675-upside-wall-street/",
+      "originalUrl": "https://www.fool.com/investing/2023/03/07/3-ai-stocks-with-54-to-675-upside-wall-street/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T16:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

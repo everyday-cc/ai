@@ -2,6 +2,205 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-03-26-data-through-a-prism-ai-powered-analysis-key-to-gleaning-data-insights.md",
+      "title": "Data through a prism: AI-powered analysis key to gleaning data insights",
+      "excerpt": "How AI-powered business intelligence enables CFOs to use data to glean insights rather than impose their own metrics onto them.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/data-through-a-prism-ai-powered-analysis-key-to-gleaning-data-insights/",
+      "originalUrl": "https://venturebeat.com/ai/data-through-a-prism-ai-powered-analysis-key-to-gleaning-data-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/AI.GettyImages-627546265.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 939,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/data-through-a-prism-ai-powered-analysis-key-to-gleaning-data-insights/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/data-through-a-prism-ai-powered-analysis-key-to-gleaning-data-insights/amp/",
+      "publishedDateTime": "2023-03-25T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-have-we-created-artificial-intelligence-or-artificial-life.md",
+      "title": "Have We Created Artificial Intelligence or Artificial Life?",
+      "excerpt": "We have all been reading and hearing a lot about artificial intelligence (AI) recently because it is an absolute game-changer. As AI developers madly rush forward to develop and deploy AIs, we are reminded of the frenzied early days of the internet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/za/blog/tech-happy-life/202303/have-we-created-artificial-intelligence-or-artificial-life",
+      "originalUrl": "https://www.psychologytoday.com/za/blog/tech-happy-life/202303/have-we-created-artificial-intelligence-or-artificial-life",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/Artificial%20Life.jpg?itok=yq9DsIHE",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/za/blog/tech-happy-life/202303/have-we-created-artificial-intelligence-or-artificial-life?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/tech-happy-life/202303/have-we-created-artificial-intelligence-or-artificial-life?amp",
+      "publishedDateTime": "2023-03-25T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-top-5-stories-of-the-week-generative-ai-market-heating-up-even-more.md",
+      "title": "Top 5 stories of the week: Generative AI market heating up (even more)",
+      "excerpt": "This she found in a March 2021 AI research paper, “On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?” Although it led to firings, researchers decided it was time to look back at the explosive paper — which in hindsight ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-generative-ai-market-heating-up-even-more/",
+      "originalUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-generative-ai-market-heating-up-even-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/toa-heftiba-9n_tf0_YANE-unsplash-e1679695283281.jpg?fit=800%2C546&strip=all",
+          "width": 800,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-generative-ai-market-heating-up-even-more/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-5-stories-of-the-week-generative-ai-market-heating-up-even-more/amp/",
+      "publishedDateTime": "2023-03-25T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-who-will-take-care-of-italys-older-people-robots-maybe.md",
+      "title": "Who Will Take Care of Italy’s Older People? Robots, Maybe.",
+      "excerpt": "would be if a “social robot can assist in care.” Leaps in artificial intelligence would only make robots more responsive, she said, keeping older people self-sufficient longer, and providing more relief to caregivers. “We all have to look for all the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/03/25/world/europe/who-will-take-care-of-italys-older-people-robots-maybe.html",
+      "originalUrl": "https://www.nytimes.com/2023/03/25/world/europe/who-will-take-care-of-italys-older-people-robots-maybe.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/03/10/multimedia/10italy-aging-robots-01-pzvt/10italy-aging-robots-01-pzvt-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/03/25/world/europe/who-will-take-care-of-italys-older-people-robots-maybe.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/25/world/europe/who-will-take-care-of-italys-older-people-robots-maybe.amp.html",
+      "publishedDateTime": "2023-03-25T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-25-neural-network-software-market-size-2023-trends-and-opportunities-cagr-and-value-chain-study-to-2031.md",
       "title": "Neural Network Software Market Size, 2023 Trends and Opportunities, CAGR and Value Chain Study to 2031",
       "excerpt": "The neural network software is a tool used for ANN research and development, stimulation, and application (artificial neural network). The program refers to devices that resemble brains in certain ways and may have science fiction implications. Some of the ...",
@@ -1018,194 +1217,6 @@
       "topics": [
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-publishers-demand-to-be-paid-for-ai-using-their-work.md",
-      "title": "Publishers demand to be paid for AI using their work",
-      "excerpt": "ChatGPT, Bard, and all AI tools are trained on existing work, and quote that work without the originators being paid or cited in most cases — and publishers say this can't continue.",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/23/03/24/publishers-demand-to-be-paid-for-ai-using-their-work",
-      "originalUrl": "https://appleinsider.com/articles/23/03/24/publishers-demand-to-be-paid-for-ai-using-their-work",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/53636-107803-000-lead-AI-and-Publishers-d2-xl.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/23/03/24/publishers-demand-to-be-paid-for-ai-using-their-work/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/03/24/publishers-demand-to-be-paid-for-ai-using-their-work/amp/",
-      "publishedDateTime": "2023-03-24T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-three-ways-to-increase-roi-on-ai-driven-data-and-analytics-transformation.md",
-      "title": "Three Ways To Increase ROI On AI-Driven Data And Analytics Transformation",
-      "excerpt": "Digital transformation is in full throttle, but it’s not all smooth sailing for companies. Why is it so hard to get it right?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/24/three-ways-to-increase-roi-on-ai-driven-data-and-analytics-transformation/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/24/three-ways-to-increase-roi-on-ai-driven-data-and-analytics-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f2ab1b715bcd65fed3786e4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/24/three-ways-to-increase-roi-on-ai-driven-data-and-analytics-transformation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/24/three-ways-to-increase-roi-on-ai-driven-data-and-analytics-transformation/amp/",
-      "publishedDateTime": "2023-03-24T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-these-3-ai-stocks-could-outperform-the-sp-500-in-a-bull-market.md",
-      "title": "These 3 AI Stocks Could Outperform the S&P 500 in a Bull Market",
-      "excerpt": "but Microsoft's hefty investments in OpenAI -- the start-up that created the \"generative AI\" chatbot ChatGPT -- might help Microsoft reach those estimates. Microsoft has already integrated ChatGPT into its search engine Bing and its Azure cloud ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/03/24/these-3-ai-stocks-outperform-sp-500-in-bull/",
-      "originalUrl": "https://www.fool.com/investing/2023/03/24/these-3-ai-stocks-outperform-sp-500-in-bull/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/725503/digital-brain.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-24T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-airport-gets-facial-recognition-technology.md",
-      "title": "Airport gets facial recognition technology",
-      "excerpt": "Cameras installed at the Jinnah International Airport equipped with facial recognition technology have been made operational, with the Federal Investigation Agency (FIA) and the Civil Aviation Authority (CAA) to manage it jointly. The surveillance system ...",
-      "sourceUrl": null,
-      "webUrl": "https://tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology",
-      "originalUrl": "https://tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.tribune.com.pk/media/images/1857356-facialrecognitionx-1543564330/1857356-facialrecognitionx-1543564330.jpg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology?amp=1",
-      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology?amp=1",
-      "publishedDateTime": "2023-03-23T23:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Express Tribune",
-        "domain": "tribune.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

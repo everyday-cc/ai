@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-31-goldman-sachs-predicts-300-million-jobs-will-be-lost-or-degraded-by-artificial-intelligence.md",
+      "title": "Goldman Sachs Predicts 300 Million Jobs Will Be Lost Or Degraded By Artificial Intelligence",
+      "excerpt": "While the startup ecosystem has stalled due to adverse economic ... to wage declines among blue-collar workers replaced or degraded by automation. Artificial intelligence, robotics and new sophisticated technologies have caused a vast chasm in wealth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2023/03/31/goldman-sachs-predicts-300-million-jobs-will-be-lost-or-degraded-by-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2023/03/31/goldman-sachs-predicts-300-million-jobs-will-be-lost-or-degraded-by-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/615077097475eceab8f6ae3e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2023/03/31/goldman-sachs-predicts-300-million-jobs-will-be-lost-or-degraded-by-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/03/31/goldman-sachs-predicts-300-million-jobs-will-be-lost-or-degraded-by-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-03-31T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-03-30-5-artificial-intelligence-etfs-for-investors-to-ride-the-ai-wave-plus-one-bonus-alternative.md",
       "title": "5 Artificial Intelligence ETFs For Investors To Ride The AI Wave - Plus One Bonus Alternative",
       "excerpt": "It invests in a diverse range of stocks in the robotics, automation and AI sectors. As well as investing in the tech more broadly, ROBO also has a focus on healthcare, where automation and artificial intelligence can help save lives, as well as drive ...",
@@ -299,7 +353,7 @@
       "originalUrl": "https://www.thehealthsite.com/news/artificial-intelligence-in-indian-healthcare-system-icmr-releases-first-ethical-guidelines-965130/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1355,40 +1409,6 @@
       "provider": {
         "name": "Medindia",
         "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-purdue-researchers-want-to-make-ai-feel-more-human.md",
-      "title": "Purdue researchers want to make AI feel more human",
-      "excerpt": "Purdue researchers are working to reduce the “trust gap” between humans and artificial intelligence. Researchers hope to do this by making AI better at interfacing with humans in more nuanced ways. Even as various chatbots become more popular,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbaa.org/science-and-environment/2023-03-17/purdue-researchers-want-to-make-ai-feel-more-human",
-      "originalUrl": "https://www.wbaa.org/science-and-environment/2023-03-17/purdue-researchers-want-to-make-ai-feel-more-human",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBAA",
-        "domain": "wbaa.org",
         "images": null,
         "publishers": null,
         "authors": null

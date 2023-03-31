@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/30/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/30/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
 type: article
 quality: 89
-heat: 389
+heat: 399
 published: true
 
 provider:
@@ -376,6 +376,20 @@ related:
       - url: "https://i0.wp.com/www.techbooky.com/wp-content/uploads/2023/03/chatgpt-nvidia.webp?fit=1600%2C900&ssl=1"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Mimicking Human Language And Writing, ChatGPT Is Hailed As Next Great Gold Rush. But Italy Just Banned It"
+    excerpt: "In a separate AI development, Bloomberg announced the creation of a new large-scale generative AI model specifically trained to support natural language processing (NLP) tasks within the financial industry. BloombergGPT, as Bloomberg is calling it ..."
+    publishedDateTime: 2023-03-31T16:52:00Z
+    webUrl: "https://www.benzinga.com/government/23/03/31609921/mimicking-human-language-and-writing-chatgpt-is-hailed-as-next-great-gold-rush-but-italy-just-banned"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/03/31/chatgpt_shutter2.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Blocktrace Builds AI Chatbot to Simplify Blockchain Transaction Tracking"
     excerpt: "Launched in 2018 by software engineer Shaun MaGruder, whose background includes work as the head of training at blockchain forensics firm, Chainalysis, Blocktrace is an AI-fortified blockchain forensic and analytical service provider."

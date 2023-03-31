@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/security/security-risks-evolve-with-release-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/security-risks-evolve-with-release-of-gpt-4/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why It’s Difficult To Predict Where GPT And Other Generative AI Might Take Us"
+    excerpt: "Why is it so difficult to predict events and consequences too far into the future? Scientists and philosophers have studied the process of how knowledge is expanded. And what they have learned has lessons for understanding where generative AI models may go."
+    publishedDateTime: 2023-03-31T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/gabrielasilva/2023/03/31/why-its-difficult-to-predict-where-gpt-and-other-generative-ai-might-take-us/"
+    ampWebUrl: "https://www.forbes.com/sites/gabrielasilva/2023/03/31/why-its-difficult-to-predict-where-gpt-and-other-generative-ai-might-take-us/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2023/03/31/why-its-difficult-to-predict-where-gpt-and-other-generative-ai-might-take-us/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641df1543445254362580d52/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "GPT-4 poses too many risks and releases should be halted, AI group tells FTC"
     excerpt: "A nonprofit AI research group wants the Federal Trade Commission to investigate OpenAI, Inc. and halt releases of GPT-4. OpenAI \"has released a product GPT-4 for the consumer market that is biased, deceptive,"
     publishedDateTime: 2023-03-30T19:00:00Z

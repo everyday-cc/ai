@@ -183,20 +183,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Chip Market Size to Grow USD 263.6 Billion by 2031, growing at a CAGR of 37.1% | Valuates Reports"
-    excerpt: "The global artificial intelligence chip market was valued at USD 11.2 billion in 2021 and is projected to reach USD 263.6 billion by 2031, growing at a CAGR of 37.1% from 2022 to 2031. Major Factors Driving the Growth of the AI Chip Market: Artificial intelligence chip market expansion is impacted by ongoing technical developments as well as a rise in demand for artificial intelligence processors and brain chip solutions."
-    publishedDateTime: 2023-03-28T17:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-size-to-grow-usd-2636-billion-by-2031-growing-at-a-cagr-of-371-valuates-reports-2023-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market 2023 Size and Forecast to 2030"
     excerpt: "Artificial intelligence (AI), the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings. Artificial intelligence is technology that appears to emulate human performance typically by learning ..."
     publishedDateTime: 2023-03-27T01:34:00Z
@@ -465,6 +451,20 @@ related:
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2023 (The Expresswire) -- Computer Vision Market Size 2023 | New Report (99 Pages) | Information Technology | In This Reports Computer Vision Market Top Computer ..."
     publishedDateTime: 2023-03-28T07:34:00Z
     webUrl: "https://www.marketwatch.com/press-release/2023-a-research-report-on-the-computer-vision-market-with-statistics-and-forecasts-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Precision Medicine Market Growth Rate Comparison by 2031"
+    excerpt: "Mar 29, 2023 (The Expresswire) -- \"Artificial Intelligence in Precision Medicine Market\" Research Report 2023 Provides a Basic overview of the"
+    publishedDateTime: 2023-03-29T14:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-medicine-market-growth-rate-comparison-by-2031-2023-03-29"
     type: article
     provider:
       name: MarketWatch

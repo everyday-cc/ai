@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehealthsite.com/news/artificial-intelligence-in-indian
 cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-in-indian-healthcare-system-icmr-releases-first-ethical-guidelines-965130/amp/"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "ICMR Comes Up With First Ethical Guidelines For Application Of AI In Biomedical Research, Healthcare"
-    excerpt: "The guidelines are intended for all stakeholders involved in research on artificial intelligence in healthcare, including creators, developers, technicians, researchers, clinicians, ethics committees,"
-    publishedDateTime: 2023-03-26T23:52:00Z
-    webUrl: "https://www.outlookindia.com/national/icmr-comes-up-with-first-ethical-guidelines-for-application-of-ai-in-biomedical-research-healthcare-news-273446"
-    ampWebUrl: "https://www.outlookindia.com/national/icmr-comes-up-with-first-ethical-guidelines-for-application-of-ai-in-biomedical-research-healthcare-news-273446/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/icmr-comes-up-with-first-ethical-guidelines-for-application-of-ai-in-biomedical-research-healthcare-news-273446/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 76
-    images:
-      - url: "https://imgnew.outlookindia.com/public/uploads/articles/2020/4/12/Coronavirus_AP12_.jpg"
-        width: 900
-        height: 450
-        isCached: true
   - title: "ICMR releases first ethical guidelines for AI application in biomedical research, healthcare"
     excerpt: "The Indian Council of Medical Research (ICMR) has come up with the country’s first Ethical Guidelines for the Application of Artificial Intelligence in Biomedical Research and Healthcare to provide an ethical framework for the development of AI-based ..."
     publishedDateTime: 2023-03-27T07:43:00Z

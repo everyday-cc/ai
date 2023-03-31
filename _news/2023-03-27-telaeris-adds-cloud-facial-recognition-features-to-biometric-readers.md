@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "TSA's Biometric Screening May Not Be Optional for Long"
+    excerpt: "The Transportation Security Administration's facial recognition program is voluntary ... and that includes members of Congress who object to the biometrics rollout. Even a February letter from five senators, which casts the program as a threat to democracy ..."
+    publishedDateTime: 2023-03-31T16:45:00Z
+    webUrl: "https://reason.com/2023/03/31/tsas-biometric-screening-may-not-be-optional-for-long/"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 24
+    images:
+      - url: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2023/03/sipaphotosfifteen700007-scaled-e1680277956256.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "NADRA upgrades Pak-ID biometric app with document recognition and digital signatures"
     excerpt: "The new version of Pak-ID identifies what kind of document is being scanned with an intelligent, real-time document identification module."
     publishedDateTime: 2023-03-27T19:22:00Z

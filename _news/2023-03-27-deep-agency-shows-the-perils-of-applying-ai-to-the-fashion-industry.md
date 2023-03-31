@@ -56,7 +56,7 @@ related:
     provider:
       name: CoinTelegraph
       domain: cointelegraph.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDMvMmRiYjAyMzMtNTgwOC00MTUxLTk5OGUtNzUzNjUzMmNjY2QzLmpwZw==.jpg"
         width: 740

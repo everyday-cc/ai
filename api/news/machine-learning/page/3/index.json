@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-11-deepfakes-and-disinformation-pose-a-growing-threat-in-asia.md",
+      "title": "Deepfakes and Disinformation Pose a Growing Threat in Asia",
+      "excerpt": "The growing commercialization of deepfakes will bring new challenges to the Asia-Pacific’s information space. Recent news on the use of computer-generated avatars by a pro-China influence campaign has once again aimed a spotlight at the usage of deepfakes.",
+      "sourceUrl": null,
+      "webUrl": "https://thediplomat.com/2023/03/deepfakes-and-disinformation-pose-a-growing-threat-in-asia/",
+      "originalUrl": "https://thediplomat.com/2023/03/deepfakes-and-disinformation-pose-a-growing-threat-in-asia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-11T00:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Diplomat",
+        "domain": "thediplomat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-10-real-time-fraud-detection-using-aws-serverless-and-machine-learning-services.md",
+      "title": "Real-time fraud detection using AWS serverless and machine learning services",
+      "excerpt": "Online fraud has a widespread impact on businesses and requires an effective end-to-end strategy to detect and prevent new account fraud and account takeovers, and stop suspicious payment transactions. In this post, we show a serverless approach to detect online transaction fraud in near-real time. We",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/real-time-fraud-detection-using-aws-serverless-and-machine-learning-services/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/real-time-fraud-detection-using-aws-serverless-and-machine-learning-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/10/real-time-fraud-detection.jpg",
+          "width": 1564,
+          "height": 781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-10T10:14:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-03-11-first-complete-map-of-a-fly-brain-has-uncanny-similarities-to-ai-neural-networks.md",
       "title": "First Complete Map of a Fly Brain Has Uncanny Similarities to AI Neural Networks",
       "excerpt": "Fascinatingly, these recurrent structures mapped from an actual brain appear to closely match the architecture of some artificial intelligence models (called residual neural networks), with nested ...",
@@ -1281,111 +1368,6 @@
         "name": "Phys.org",
         "domain": "phys.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-achieve-rapid-time-to-value-business-outcomes-with-faster-ml-model-training-using-amazon-sagemaker-canvas.md",
-      "title": "Achieve rapid time-to-value business outcomes with faster ML model training using Amazon SageMaker Canvas",
-      "excerpt": "Machine learning (ML) can help companies make better business decisions through advanced analytics. Companies across industries apply ML to use cases such as predicting customer churn, demand forecasting, credit scoring, predicting late shipments, and improving manufacturing quality. In this blog post,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-rapid-time-to-value-business-outcomes-with-faster-ml-model-training-using-amazon-sagemaker-canvas/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-rapid-time-to-value-business-outcomes-with-faster-ml-model-training-using-amazon-sagemaker-canvas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/03/achieve-rapid-time-to-value.jpg",
-          "width": 1566,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-03T09:35:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-how-and-where-the-artificial-neural-networks-market-is-set-to-grow-in-forecast-period-2029.md",
-      "title": "How and Where the Artificial Neural Networks Market is Set to Grow in forecast period 2029",
-      "excerpt": "Mar 02, 2023 (The Expresswire) -- \"Artificial Neural Networks Market\" Insights 2023 By Applications (BFSI, Retail and eCommerce, IT, Healthcare and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/how-and-where-the-artificial-neural-networks-market-is-set-to-grow-in-forecast-period-2029-2023-03-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/how-and-where-the-artificial-neural-networks-market-is-set-to-grow-in-forecast-period-2029-2023-03-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-02T19:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

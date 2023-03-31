@@ -2,6 +2,205 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2023-02-28-dod-ai-drones-that-can-recognize-faces-pose-ethical-minefield.md",
+      "title": "DoD AI Drones That Can Recognize Faces Pose Ethical Minefield",
+      "excerpt": "Artificially intelligent military drones that can use facial recognition technology to detect the faces of targets are now being developed by the U.S. This has led many people to raise concerns ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/ai-drone-facial-recognition-ethic-issues-1784088",
+      "originalUrl": "https://www.newsweek.com/ai-drone-facial-recognition-ethic-issues-1784088",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2201396/ai-used-drones.jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/ai-drone-facial-recognition-ethic-issues-1784088?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ai-drone-facial-recognition-ethic-issues-1784088?amp=1",
+      "publishedDateTime": "2023-02-27T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-snap-debuts-my-ai-chatbot-powered-by-openais-gpt-technology.md",
+      "title": "Snap Debuts ‘My AI’ Chatbot Powered By OpenAI’s GPT Technology",
+      "excerpt": "Snap Inc., maker of the photo-sharing app Snapchat, has released an AI-enabled chatbot, becoming the latest major tech company to roll out features powered by OpenAI’s GPT technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-02-27/snap-debuts-my-ai-chatbot-powered-by-openai-s-gpt-technology",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-02-27/snap-debuts-my-ai-chatbot-powered-by-openai-s-gpt-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivCtDmk3INvI/v1/1200x686.jpg",
+          "width": 1200,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-face-recognition-device-market-size-2023-with-business-development-with-competitive-landscapes-till-2028.md",
+      "title": "Face Recognition Device Market Size 2023 with Business Development, with Competitive Landscapes till 2028",
+      "excerpt": "Face Recognition Device Market research report aims to provide valuable insights and a regional outlook for future",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-device-market-size-2023-with-business-development-with-competitive-landscapes-till-2028-2023-02-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-device-market-size-2023-with-business-development-with-competitive-landscapes-till-2028-2023-02-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-ai-learns-to-outsmart-humans-in-video-games-and-real-life.md",
+      "title": "AI learns to outsmart humans in video games - and real life",
+      "excerpt": "Video game players have competed against computer-controlled opponents for decades, but they haven't been as smart and fast as GT Sophy, the new AI driver on PlayStation's Gran Turismo",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Entertainment/wirestory_89a1b6359a3f4343807ab849958d10b8_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481",
+      "publishedDateTime": "2023-02-27T08:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-27-ai-driven-medical-care-a-health-data-reality-check.md",
       "title": "AI-Driven Medical Care? A Health Data Reality Check",
       "excerpt": "\"The reality is that we have a disaggregated, fragmented system with a lack of organization around common, transparent, high-quality information.\"",
@@ -1010,205 +1209,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-when-it-comes-to-money-your-brain-can-be-your-own-worst-enemy.md",
-      "title": "When It Comes to Money, Your Brain Can Be Your Own Worst Enemy",
-      "excerpt": "Our cognitive biases can get in the way of saving for the future, especially for retirement. Here’s how to recognize and overcome them. Send any friend a story As a subscriber, you have 10 gift ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/02/26/business/personal-finance-cognitive-bias-retirement.html",
-      "originalUrl": "https://www.nytimes.com/2023/02/26/business/personal-finance-cognitive-bias-retirement.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/26/business/26Retiring-illo/26Retiring-illo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/02/26/business/personal-finance-cognitive-bias-retirement.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/02/26/business/personal-finance-cognitive-bias-retirement.amp.html",
-      "publishedDateTime": "2023-02-26T12:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-westpac-and-aws-swim-deeper-into-generative-ai-for-banking.md",
-      "title": "Westpac and AWS swim deeper into generative AI for banking",
-      "excerpt": "Cloud giant AWS has signed a five-year deal with Westpac, a similar contract to one the bank signed with Microsoft Azure last year as it develops AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.afr.com/companies/financial-services/westpac-and-aws-swim-deeper-into-generative-ai-for-banking-20230224-p5cne4",
-      "originalUrl": "https://www.afr.com/companies/financial-services/westpac-and-aws-swim-deeper-into-generative-ai-for-banking-20230224-p5cne4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.ffx.io/images/$zoom_1.3693%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_209%2C$y_225/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/02509b770f53022f2bcca913d7414d922e3a98bb",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-26T10:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian Financial Review",
-        "domain": "afr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-26-elon-musk-has-promised-self-driving-teslas-for-years-experts-say-its-not-even-close.md",
-      "title": "Elon Musk has promised self-driving Teslas for years. Experts say it's not even close.",
-      "excerpt": "Then in 2019, he said he felt \"very confident\" that, by 2020, Tesla owners who bought the pricey Full Self-Driving option would be able to dispatch their cars as robotaxis and rake in passive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/elon-musk-tesla-full-self-driving-promise-experts-2023-2",
-      "originalUrl": "https://www.businessinsider.com/elon-musk-tesla-full-self-driving-promise-experts-2023-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63f930f7ae0bf0001824b11c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-tesla-full-self-driving-promise-experts-2023-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-full-self-driving-promise-experts-2023-2?amp",
-      "publishedDateTime": "2023-02-26T05:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-26-ai-flew-a-fighter-jet-for-17-hours.md",
-      "title": "AI Flew a Fighter Jet for 17 Hours",
-      "excerpt": "Add \"fly a military fighter jet\" to the list of tasks AI can accomplish. The Defense Department revealed last week that artificial intelligence flew a jet similar to an F-16 for 17 total hours over 12 flights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/ai-flew-a-fighter-jet-for-17-hours/",
-      "originalUrl": "https://www.cnet.com/tech/ai-flew-a-fighter-jet-for-17-hours/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/5e5cc1c57b2d625140ac5b2e2b7a19534e5fda78/hub/2023/02/22/a9575f9d-8367-4ec6-b17c-55c381efbca4/lma-vista.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-flew-a-fighter-jet-for-17-hours/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-flew-a-fighter-jet-for-17-hours/",
-      "publishedDateTime": "2023-02-26T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

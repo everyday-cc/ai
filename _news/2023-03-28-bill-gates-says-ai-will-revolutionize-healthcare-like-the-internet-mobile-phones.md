@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/disruptors/bill-gates-says-a
 webUrl: "https://www.beckershospitalreview.com/disruptors/bill-gates-says-ai-will-revolutionize-healthcare-like-the-internet-mobile-phones.html"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,33 @@ images:
     width: 800
     height: 600
     isCached: true
+
+related:
+  - title: "Bill Gates says self-driving cars will be as revolutionary as the PC after riding in one"
+    excerpt: "Those services, like GM's Cruise and Alphabet's Waymo, use detailed maps and programming to operate only in certain sections of cities. In contrast, Wayve (much like Tesla) wants to develop an artificial-intelligence-enabled vehicle that can learn to drive ..."
+    publishedDateTime: 2023-03-31T15:48:00Z
+    webUrl: "https://www.businessinsider.com/bill-gates-ai-self-driving-cars-as-revolutionary-as-pc-2023-3"
+    ampWebUrl: "https://www.businessinsider.com/bill-gates-ai-self-driving-cars-as-revolutionary-as-pc-2023-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bill-gates-ai-self-driving-cars-as-revolutionary-as-pc-2023-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://i.insider.com/6426f238ed593e00183f6aa0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Bill Gates Says Self-Driving Cars Will Change Transportation Like PCs Transformed Work: 'Close To Tipping Point'"
+    excerpt: "Autonomous vehicles (AV) will change transportation like the way personal computers changed office work, Bill Gates wrote in his blog. Gates wrote that he believes autonomous vehicles will reach a tipping point within the next decade. “Right now, we're ..."
+    publishedDateTime: 2023-03-31T12:52:00Z
+    webUrl: "https://www.benzinga.com/news/23/03/31607947/bill-gates-says-self-driving-cars-will-change-transportation-like-pcs-transformed-work-close-to-tipp"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "5giG0VuubbQ+XyqLFCcZ1fp36xJ5yXQKd69fjGLnntqg3h0BsPmIByAHuxVwLcNtqiHmgNh25o5TH98C0uo3lxf668tjKxEfYTLPaYf5Mze4BZRvfOlc9NZDie/iY1gqOpmDFO15DyKtR/YYT2ccFHlrc62FAGvvny0PaCKdZsl1Li2Va27eP5yZIaOmP6s6zLloi9ZMmjTCsHdJylVCRZvFvwx3xSsjmGIgqiTvFTxrjtAyJluSe/bCTvgm9LfkELqwMSVpXmsGQrRrjilUmi8CXNH1xTDB9eqNsNohiBhuvJxDJQwrLKTZ305jCEbkmCcYXzEN66oHU1Jqyj1V+gK54iibfUD0vvoa2Q5Mmi4=;N7RxySBNwoQSu/BwzWM3Tw=="
 ---

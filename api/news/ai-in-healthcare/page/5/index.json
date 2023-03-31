@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-02-09-mcgill-university-experts-trace-predict-recurring-lung-cancer-with-artificial-intelligence.md",
+      "title": "McGill University experts trace predict recurring lung cancer with artificial intelligence",
+      "excerpt": "Lung cancer is the leading cause of cancer-related deaths in Quebec and Canada, killing more individuals than prostate, colon and breast cancers combined. Thanks to tissue samples from almost 500 lung cancer patients,",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/mcgill-university-experts-trace-predict-recurring-lung-cancer-with-artificial-intelligence/",
+      "originalUrl": "https://indiaeducationdiary.in/mcgill-university-experts-trace-predict-recurring-lung-cancer-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/mcgill-university-experts-trace-predict-recurring-lung-cancer-with-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/mcgill-university-experts-trace-predict-recurring-lung-cancer-with-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-02-08T20:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-report-identifies-ethical-challenges-risks-with-the-use-of-artificial-intelligence-in-healthcare.md",
       "title": "Report Identifies Ethical Challenges, Risks with the Use of Artificial Intelligence in Healthcare",
       "excerpt": "A recent report released by World Health Organisation (WHO), has identified the ethical challenges and risks with the use of Artificial Intelligence (AI) in healthcare. The report however gave six ...",
@@ -1136,50 +1170,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-artificial-intelligence-news-and-research.md",
-      "title": "Artificial Intelligence News and Research",
-      "excerpt": "Researchers at the University of Zurich have developed a new tool that uses artificial intelligence to predict the efficacy of various genome-editing repair options. A new 'outside-the-box' method ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/?tag=/Artificial-Intelligence",
-      "originalUrl": "https://www.news-medical.net/?tag=/Artificial-Intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/themes/Standard/images/full_site_logo.png",
-          "width": 973,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

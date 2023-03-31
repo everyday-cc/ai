@@ -6,9 +6,9 @@ publishedDateTime: 2023-03-30T22:15:00Z
 originalUrl: "https://www.foxnews.com/video/6323663548112"
 webUrl: "https://www.foxnews.com/video/6323663548112"
 type: article
-quality: 50
-heat: 50
-published: false
+quality: 70
+heat: 70
+published: true
 
 provider:
   name: Fox News
@@ -21,6 +21,12 @@ provider:
 topics:
   - AI
 
-secured: "QJR5cGTvsqq653mvVYoz2K70st2NGfn4/9FtjnBIe635DoY/DsuRnxKIBgfKLLqVRm341i3YuUt6aOYDwgyK+58WV97D5zB1des1XHyyCyR4sOctS+BK4cX0LdMTzWDdSjbDDZ3N/3IC/rPREjpW4v7PwMFwsnOdiNsgXkE3g0HEGM/7bBptxaN2hnHC8dE2v6y2rwtd4dyPKaN3xR5NZ5LjZFCb0SiOHRXs56ADI/VOquNFX3wnYhKKP0teupl80xIcDfhOacCzn+ppntZ3eEnfed/r3ukiA+4RqfUCMMkR200Q6wxd57mnJLvw2OhPLLixtDc5OfBK70oHA6taLBBKmpAhYjiUPtqaCgAqrWg=;EE8HULi04CKUzTtwdSO97w=="
+images:
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06f6fa0b-bb1e-4a1e-bc72-2e2af8923d78/03ffc95f-d99a-4059-be18-faa7be888bca/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+    width: 1024
+    height: 512
+    isCached: true
+
+secured: "px64knNAiUuJa/bXyXjVbEhy+BTjeEqDwi27M2gH9ZY5hN7SOy6VbS0dSPRBEnVL1rfqiz/p/vmfUqfgwTdagCqjnS2clVHiAd9K74fe4zIjQFEfHj9BrcBDpMcvuAbH8ktMNlBpskFCeuC2kqz4atxk7GjST1bcDRZR36Zx+GWxGDuz2DVjuAjwtEhmup+njnoTd2ah9yvSYL0WSmeFXxdIfoy9p1kyxsvAbJiKRxoI44cxT8g3jYafTn1X9kgaqyVS62D6PqF8LYvFmbkikCdahyFMqB4n9mvHtIqasK0k32V7RP2uRGq7aLHt4U/iCzgbBCORSsHXjtqIUH6NYoJlegQP7erWeAXJJ4ALKi8=;I6cTRWoeuhCJGBvTtzn1Vg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/artificial-intelligence-which-stocks
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-which-stocks-to-buy?amp"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -21,6 +21,20 @@ topics:
   - AI in Autos
 
 related:
+  - title: "Automation and Robots and AI: Where to Start?"
+    excerpt: "To start, a baseline understanding of the terms Automation, Robotics, and Artificial Intelligence is necessary before determining a path forward for restaurant owners and operators. Here is the low-down on these high-tech buzzwords: Automation—the ..."
+    publishedDateTime: 2023-03-31T15:49:00Z
+    webUrl: "https://www.qsrmagazine.com/outside-insights/automation-and-robots-and-ai-where-start"
+    type: article
+    provider:
+      name: QSR magazine
+      domain: qsrmagazine.com
+    quality: 54
+    images:
+      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/robot-revolution-here-1551456482.jpg?itok=m6rXAGaF"
+        width: 765
+        height: 446
+        isCached: true
   - title: "The 3 Best Growth Stocks to Buy in the Artificial Intelligence Sector"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips There is a lot of buzz today around artificial intelligence, or AI, and how it"
     publishedDateTime: 2023-03-28T13:04:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-chatg
 webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-chatgpt-blocked-in-italy-google-denies-using-chatgpt-data-and-more-10338071.html"
 type: article
 quality: 12
-heat: 12
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Italy privacy watchdog blocks ChatGPT, citing data breach"
+    excerpt: "ROME (AP) — Italy is temporarily blocking the artificial intelligence software ChatGPT in the wake of a data breach as it investigates a possible violation of stringent European Union data protection rules, the government's privacy watchdog said Friday."
+    publishedDateTime: 2023-03-31T16:34:00Z
+    webUrl: "https://www.postregister.com/businessreport/healthcare/italy-privacy-watchdog-blocks-chatgpt-citing-data-breach/article_bbd92f16-f1d4-5299-9937-21a27461b2fa.html"
+    ampWebUrl: "https://www.postregister.com/businessreport/technology/italy-temporarily-blocks-chatgpt-over-privacy-concerns/article_bbd92f16-f1d4-5299-9937-21a27461b2fa.amp.html"
+    cdnAmpWebUrl: "https://www-postregister-com.cdn.ampproject.org/c/s/www.postregister.com/businessreport/technology/italy-temporarily-blocks-chatgpt-over-privacy-concerns/article_bbd92f16-f1d4-5299-9937-21a27461b2fa.amp.html"
+    type: article
+    provider:
+      name: Post Register
+      domain: postregister.com
+    quality: 44
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/1/6c/16cd3a3b-7acb-5e73-b6e1-82e4614b0233/6426f2fedfa0a.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "0gvds9ofpqbkN4yh5ueOnOmBGjd0XQOxKB36e2OCv6b//Fqilj0TVOL8cT1CAME7yVV+f7ggKeRvqlbLRa7rnCowbu5dZDfPF7yPQ9ZM73bEiqgUOCkv1QHq+asBX2lyWf/uC+UzMTnh236kdssYICT7xeEvFQBZuJ6HSIL6mhvTJR3TLgWAwjBqRnUctHO5mBVZzhQvYVHTDmor8HJ0OAj/viT3jNoeRv7N3UxJ64glaDeU/eGRfJm9ZAYQsmAAfojKE1R1+6EJDowKyKI5k62glOcIYbadMF2Qv1+uGOyXXrpeznhRU0HcucHfC+rdnDoWPt4sBJ3IwpWIcEvF5QPsjG3UveHO+XwnEKSjgUk=;plmv23CmV2AYn7dGlA3rIw=="
 ---
