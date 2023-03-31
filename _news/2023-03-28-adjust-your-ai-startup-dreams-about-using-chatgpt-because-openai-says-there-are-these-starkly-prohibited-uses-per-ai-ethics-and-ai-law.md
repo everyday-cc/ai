@@ -64,6 +64,22 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Is Generative AI Such As ChatGPT Going To Undermine The Famed Attorney-Client Privilege, Frets AI Law And AI Ethics"
+    excerpt: "Worries are that generative AI such as ChatGPT could undermine the revered attorney-client privilege. Here's the issue and what you need to do about it."
+    publishedDateTime: 2023-03-30T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/30/is-generative-ai-such-as-chatgpt-going-to-undermine-the-famed-attorney-client-privilege-frets-ai-law-and-ai-ethics/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/30/is-generative-ai-such-as-chatgpt-going-to-undermine-the-famed-attorney-client-privilege-frets-ai-law-and-ai-ethics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/30/is-generative-ai-such-as-chatgpt-going-to-undermine-the-famed-attorney-client-privilege-frets-ai-law-and-ai-ethics/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6424bd9c2bab5f67f1f43b0e/0x0.jpg?format=jpg&crop=2243,1261,x61,y136,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "China's Baidu reveals more capabilities of AI-powered chatbot Ernie"
     excerpt: "Baidu's co-founder and Chief Executive Officer (CEO) Robin Li showcases artificial intelligence powered chatbot known as Ernie Bot by Baidu, during a news conference at the company's headquarters ..."
     publishedDateTime: 2023-03-27T10:14:00Z
@@ -136,17 +152,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Is Generative AI Such As ChatGPT Going To Undermine The Famed Attorney-Client Privilege, Frets AI Law And AI Ethics"
-    excerpt: "Worries are that generative AI such as ChatGPT could undermine the revered attorney-client privilege. Here's the issue and what you need to do about it."
-    publishedDateTime: 2023-03-30T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/30/is-generative-ai-such-as-chatgpt-going-to-undermine-the-famed-attorney-client-privilege-frets-ai-law-and-ai-ethics/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/30/is-generative-ai-such-as-chatgpt-going-to-undermine-the-famed-attorney-client-privilege-frets-ai-law-and-ai-ethics/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/30/is-generative-ai-such-as-chatgpt-going-to-undermine-the-famed-attorney-client-privilege-frets-ai-law-and-ai-ethics/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 62
   - title: "Can ChatGPT Change the Face of Healthcare?"
     excerpt: "regulations must be put in place to ensure no inaccuracies are made Many are still reluctant about the role of artificial intelligence (AI) in our lives, but it might be time to accept that AI has the power to transform healthcare. Obviously, AI can't ..."
     publishedDateTime: 2023-03-28T11:37:00Z

@@ -1,32 +1,22 @@
 ---
 category: news
 title: "Lilt introduces Contextual AI Engine for Translation; Outperforms Google Translate and GPT-4 on accuracy, latency and cost"
-excerpt: "Lilt, the most advanced AI solution for enterprise translation, today announced the launch of Contextual AI Engine, a"
-publishedDateTime: 2023-03-29T13:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/lilt-introduces-contextual-ai-engine-for-translation-outperforms-google-translate-and-gpt-4-on-accuracy-latency-and-cost-2023-03-29"
-webUrl: "https://www.marketwatch.com/press-release/lilt-introduces-contextual-ai-engine-for-translation-outperforms-google-translate-and-gpt-4-on-accuracy-latency-and-cost-2023-03-29"
+excerpt: "Lilt, the most advanced AI solution for enterprise translation, today announced the launch of Contextual AI Engine, a new GPT-style model for verified, enterprise-grade translation that delivers superior performance to GPT-4 and Google Translate."
+publishedDateTime: 2023-03-29T00:00:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/03/29/9785436.htm"
+webUrl: "https://it.tmcnet.com/news/2023/03/29/9785436.htm"
 type: article
-quality: 58
-heat: 68
+quality: 8
+heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Lilt Introduces Contextual AI Engine for Translation; Outperforms GPT-4"
@@ -39,6 +29,6 @@ related:
       domain: slator.com
     quality: 19
 
-secured: "ilZKZ0fTAxKti/9fppswIF4oI0KtSfChlddAmKs+TNiIyjoA1iAZbBxyB4qwQzuxBlSMpCqZvs9x3YbLOB6UloOVEonpTj1xLWRXeQSJOtIyxHATmmrcbpGIvOjMj8miiBiEwAOd7I5AQmWaSymA2LGNlLWNh/qSqbaEhKdn66ZutyxKXRmSJ0QtqJCYQioZy75SuBKldNpG67yylooSJrPJdMF8jnotCAHuE0FzrFyLvKWCOprod8wFlM2nj/GmBUOhcm2A4L7s4JteAKC5S3K3tJgnEausEnj/wTyOzwJsA7MtH5gTubc9YL3vBuNLKENoFmoVc88FoiD7NtrnGYKJSRtm8FGkg6pNPcMbnrk=;NOJDsEagzbvcPGTxkYGP8g=="
+secured: "27HPlu87+yeLxGmwcsN85yS6bigUKsoRxfNbOny4XWXAJlCekBBPNQzeUpyjvMnHQy6k/OZFDY890rf/J6M1A+AY3cnVCzjCiiv5FHcuCr0KCT8gcWryfjcIIxYiktdZfohpzls0rSBMyyzEp2WfdwofW1wISupaQVCHLI1Q04yvhMdUn/ZZFOaDQDduHvkeb2mOe1FW6790TN/I+nVpd2A+/mW2hlPaXxCYWVopeUGJsV7eT8NePPuJHTcg6HLWnevUTmBVt8giGDd3C2mJ7xi/Sy/mnPRQEDZ/vPgAZjP2uweyGjq2FLMUfDak+eJYwKn5PQwYBiP9Qzc3StFlMoKdWCXuEArm1EkqwDQ03Rpt+tjPjGIyQhgVvJm5duSmrLQ7sd3MpyJwZMOvMhAAwWrCmZnKU9pAS1ETMxtNnaDfcM5CZRo7EwPxzuOTF5wA9kTsIk/w2+d82dWD8bt+bciK5F44nZFyvslN8TDEkoSybrxz3bHdWOTdN75o8EsHtoCWP988wsqPhmLrWQCXDw==;c2saG3/lYyqdwlXPYnjgNA=="
 ---
 

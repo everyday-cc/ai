@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Google and Replit’s Quest to Become the Next Copilot X"
-excerpt: "Google Cloud recently announced its partnership with ‘Replit’, a cloud-based integrated development environment that allows developers to write and deploy codes in various programming languages from their web browsers."
-publishedDateTime: 2023-03-30T10:00:00Z
-originalUrl: "https://analyticsindiamag.com/google-and-replits-quest-to-become-the-next-copilot-x/"
-webUrl: "https://analyticsindiamag.com/google-and-replits-quest-to-become-the-next-copilot-x/"
+excerpt: "Google Cloud’s partnership with Replit will strengthen its hold in the developer environment space, and compete with Microsoft."
+publishedDateTime: 2023-03-30T10:44:00Z
+originalUrl: "https://analyticsindiamag.com/google-and-replits-quest-to-become-the-next-copilot-x-2/"
+webUrl: "https://analyticsindiamag.com/google-and-replits-quest-to-become-the-next-copilot-x-2/"
 type: article
 quality: 24
 heat: 24
@@ -35,6 +35,6 @@ related:
       domain: siliconangle.com
     quality: 17
 
-secured: "UsV3piTmXw6P23d0USp559vMTcRudpkgWkewWzlAS2+rlCWAKZIbxzZXEBWXqhX6dpS+FYH6nOCDVrDgykMBXp0noXKrtv13c+5wxEPG2YPZFEsnHFzLxMdjEtNyFGKlkCzRwjYNK5iyukkkYacgUSx+lWRTww6m97Y/0vvyNX7SLsI96ky4OhtuOHrRZx5cBtVVZsMG4X/lPyOse1aAk3OPFluLAJ7Tur/+GXvGW/92v//C2A8XBuzwXfFGsTWzC5CtpKSMRen9ZXQ1VFuk4KZ1+XcS6SMvzN4flp+w+a4LTAejDkOv66iuJ0OiwUvJN5du65bvyCZ6GcsRNqabNv6fUOCIaRU7Mv71BVoLCXaUKkmAAFwWbhxMPJBeRGQbkmrNQDI4PoV+1Mtcz8YlSIeG7jsWD6HPUIYwf0413iExmBKzPBwieHvArhfg7eAYtyTruAWQK38+XnUJDk1ru0UAFJHEMN18tEqdOgDFTVKKq7CvdGHh0RpDwTSrzNHqAf01sAZMdrQxD21oMa9EFw==;X1IPj78UdkEWKajAcY+UNA=="
+secured: "V8usgl3k2cGbeS3IQR+4WN5HkPDqAk1mtILWgjTP9lqao4VHSHgzoSl/HCFDx8UbvdxXJ5dJqvhYcdTeiRxdEkiGalIC5u/IPcMMpIWrRdIovBm7ixtULD77EDwMZ8SO4HtVjKc5QlDXrE6kKhtwd9yQGHcMsowQBEfoNjdYWYl2lmf9XxHX5eRjqwI8UfeePuUak2WTBUCshqm5kiaW0vsFBaR6nBK5Qk5FTc0H9SUQCUusNRdtK8ZHisGi0pHHEgk8fVfL7cqmE/sOhhDqDdOkUIqHEHguibX5GGA2Jw+J0omWkXdln+2QJZ5/HMxOe69ukNIavzATG92WgyNlADVI02xBQt/KQaOKTO8mPEU=;Kg8qVIjFuOX+hycW91Vz/g=="
 ---
 

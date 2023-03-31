@@ -26,22 +26,6 @@ images:
     height: 350
     isCached: true
 
-related:
-  - title: "Body of SANs slams NBA President over recognition for AGF Malami"
-    excerpt: "It said Maikyau falsely accused it of failing to accord the Attorney-General of the Federation (AGF) Abubakar Malami, SAN, due recognition as Chairman of ... of the Body which has been created by your speech. “Please accept the assurances of our ..."
-    publishedDateTime: 2023-03-26T17:55:00Z
-    webUrl: "https://thenationonlineng.net/body-of-sans-slams-nba-president-over-recognition-for-agf-malami/"
-    type: article
-    provider:
-      name: The Nation Newspaper
-      domain: thenationonlineng.net
-    quality: 24
-    images:
-      - url: "https://nation-media-assets.storage.googleapis.com/wp-content/uploads/2023/01/13192013/Oyo.jpg"
-        width: 600
-        height: 400
-        isCached: true
-
 secured: "hYHa6r0y4c8St+SOJnhbhX3VEhxrQCqhIOKLtACFSkSKPtZTIugzrFf2YPCVZgiA0ylKlOJbZ00b3fP4Q9AdXGixtSEWC4Oc3FC42clrjt08SenBImQqB9Up6tjMIzLEmgLHfsZTOZtMf9ZoLSyHmBJLqjGRX1Ed9BBj+YVzhX9foOlIFmYUMHR20WJPS1VM0fybtw48PgDOOGXSVmFVznE6tGHR43UhuYIJVgktalJkMqaYuWbGjRQ+FWKpVaixUNxUAFPkHolSehMbw59aFuvjRPSRxvBuRyYR4VgbgXBDLWF8OWfMzEaxeYI/8j98mb5ACkJiykqVcYQzWgc35xWOpRdcEP+bFyl9JdYuUV0=;ugxeUJCQbAD/tsqzDuFywQ=="
 ---
 

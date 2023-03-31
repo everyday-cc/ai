@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/30/is-generative-ai-suc
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/30/is-generative-ai-such-as-chatgpt-going-to-undermine-the-famed-attorney-client-privilege-frets-ai-law-and-ai-ethics/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/30/is-generative-ai-such-as-chatgpt-going-to-undermine-the-famed-attorney-client-privilege-frets-ai-law-and-ai-ethics/amp/"
 type: article
-quality: 62
+quality: 82
 heat: -1
 published: false
 
@@ -23,6 +23,12 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/6424bd9c2bab5f67f1f43b0e/0x0.jpg?format=jpg&crop=2243,1261,x61,y136,safe&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
@@ -410,6 +416,6 @@ related:
       domain: fastcompany.com
     quality: 14
 
-secured: "Rd8F/hNyIYpin+f0p41u9ImWDDCEEp5cJ9YIGZMN0r4JTG5OU28iUWtA+eRUYFIiwsoNzDkXfWRmxpTZ16HnT6yf0SpZRBLutZOv15lrHJ94dzxYsFG9LRls8Qy2gXmdZBTjlKBBlSA9vmEK1Uvywgd5A5TslLScL+OQZEuKPogXDRXET6/IsCT1o6Gq5ycIlZhTzzSaA1I3DLO2nOryr82JW9/kQwoCTwqDdo+cGJijX24Qaz1HEy0FN8z/65doFNm5/weqqUQpQOJqgym9vxsJC2uXvsCe0WIzpDnQtTfLlS6pFPnKqa1efD/a8u9ZbiVrYbMmLmJu9WA3vI07Iy+hZZGJPifVAyIG10oQlw4=;Tl2YG5jdHx5Tdkf+HfW8rA=="
+secured: "Ho+SxwmIjIeje09iJmWb2b2/D7hqqcPgOiIYaTXke+YaiKqvQULnjFkEXIK0tV93GZy/sUM6bReazrr3Y6kz+Krvx8IKUV1T9NHGJCDNJaHzH1PaXkiEEFZHHWS9J7t/8XH+e2SKWZXzFr0PJxKNdhPjO3ZW98dciZLNrbxCcNB+uiPLVQTg+t/4aOiTEVvAno+pMrgsHBlo1PXvJr23exIv0g7sesgfIrRZ+HiCIn7o/6Z2OOGUiZg2PwbYy0/PIbB+vY4S6mXoYwm4eghdfwU/5Dil14yL2KGKpITfuxJokn1Fxo4VCTZV8DQIM1gZmjhLZ3Gi2cqf/fkpR26ZBm6Db15pLbt+H0ziGc+wW5k=;+9OdprglLMCz/AWrbPvBPQ=="
 ---
 

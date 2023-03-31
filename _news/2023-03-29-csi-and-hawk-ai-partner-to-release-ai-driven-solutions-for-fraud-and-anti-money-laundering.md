@@ -2,9 +2,9 @@
 category: news
 title: "CSI and Hawk AI Partner To Release AI-Driven Solutions for Fraud and Anti-Money Laundering"
 excerpt: "CSI, a leading provider of end-to-end fintech and regtech solutions, announced today it has partnered with Hawk AI, a leading global provider of anti-money laundering (AML) and fraud prevention technology for banks and payment companies,"
-publishedDateTime: 2023-03-28T17:02:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/03/28/9784224.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/03/28/9784224.htm"
+publishedDateTime: 2023-03-28T18:40:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/03/28/9784224.htm"
+webUrl: "https://it.tmcnet.com/news/2023/03/28/9784224.htm"
 type: article
 quality: 9
 heat: -1
@@ -109,6 +109,6 @@ related:
       domain: afaqs.com
     quality: 12
 
-secured: "OZPjJDRtok8wLFHJBjxDMcm23IlBmxdCtp7JCjiZ1Iwpm54sXhxNd5qAhcsUKa88XiaHksGzQcN0yrMwdgqxlAaoMsqIq6Jc+LKhZt1mRY0FEy5CGYsdNIEJtnCSgCkA+vjRO9089OKTkNKq9+/P4R7JOQnGdEJsvdTQfI8gz33lPzthPFf7YReUvY7fCWO92CjU/ChBezf6KWhg55xAJcoRCRJFA7AW5vocOfMcAJavPYRJ9qb0/aSg2PKuqDc79jIiJOyMxhR949/ZLtJ6QFVKONMO4rfvtsMEim8PgSaqdm8BpUYOp/6xs+KaKfAYBG/uUcN7G69neFymTq+BnO+9KGTeMlMpPwwbOVwvet4=;kcemly50WRFyTsfXA4FW1Q=="
+secured: "sYMT/grosZmaKx3iq5hMyh+XpzLbbujWshc42K1ChsfJqH1PD3UDP/IX3SX+xth/+gnawqQsJYqUKWHVHl0tHSwksszu3eZESBU/zY3NwaNrgqUK9IKDP8mOY9oNEqqKrOs1TXXtoBmvD0PA7P3oNNqqrBP93bqiie2SCUiZafC+JSOK7irtMhXK/VDUUVrG8rU8W17Ctb4g1bIMJ0pyajhUIkaBGGUFW0Tn+l6c0vUwe0acJm4tAHIzbwffkXrGicmdBj17YZ4dJizmBcBrvvBVYYEP5ou3YNPBjZSeSwyBTEY/dgFbhjVEiZsegXm3bwgiTFV5LGcZO789NEjOGeKJdxgWzJmWXm/9zuJJhME=;dPG27DyVI0zKDYgeNJ78Kw=="
 ---
 

@@ -8,7 +8,7 @@ webUrl: "https://cointelegraph.com/news/here-s-how-the-crypto-industry-is-using-
 ampWebUrl: "https://cointelegraph.com/news/here-s-how-the-crypto-industry-is-using-artificial-intelligence/amp"
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/here-s-how-the-crypto-industry-is-using-artificial-intelligence/amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDMvMmRiYjAyMzMtNTgwOC00MTUxLTk5OGUtNzUzNjUzMmNjY2QzLmpwZw==.jpg"

@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-30T07:43:00Z
 originalUrl: "https://scitechdaily.com/6-challenges-identified-by-scientists-that-humans-face-with-artificial-intelligence/"
 webUrl: "https://scitechdaily.com/6-challenges-identified-by-scientists-that-humans-face-with-artificial-intelligence/"
 type: article
-quality: 9
+quality: 11
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Researchers identify 6 challenges humans face with artificial intelligence"

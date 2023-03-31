@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-10-verification-authentication-recognition-deciphering-biometric-terms.md",
+      "title": "Verification, authentication, recognition: Deciphering biometric terms",
+      "excerpt": "Most of those concerns stem from the use of facial biometric recognition to identify people, usually in surveillance scenarios. It is imperative that people understand the difference between face ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/verification-authentication-recognition-deciphering-biometric-terms/",
+      "originalUrl": "https://venturebeat.com/security/verification-authentication-recognition-deciphering-biometric-terms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1168365129.jpg?w=1200&strip=all",
+          "width": 1199,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/verification-authentication-recognition-deciphering-biometric-terms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/verification-authentication-recognition-deciphering-biometric-terms/amp/",
+      "publishedDateTime": "2023-02-09T11:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-10-sportradar-launches-computer-vision.md",
       "title": "Sportradar launches Computer Vision",
       "excerpt": "Sportradar has launched Computer Vision, a live tracking system for sports that utilises AI software. Computer Vision can analyse a live video feed at 120 frames per second, and collect 100 times ...",
@@ -1121,40 +1173,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-exclamation-point-sen-hoylman-sigal-on-grieving-families-act-msg-facial-recognition-more.md",
-      "title": "Exclamation Point: Sen. Hoylman-Sigal on Grieving Families Act, MSG facial recognition & more",
-      "excerpt": "Watch this bonus conversation with State Sen. Brad Hoylman-Sigal and Marcia Kramer exclusively on CBS News New York.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/newyork/video/exclamation-point-sen-hoylman-sigal-on-grieving-families-act-msg-facial-recognition-more/",
-      "originalUrl": "https://www.cbsnews.com/newyork/video/exclamation-point-sen-hoylman-sigal-on-grieving-families-act-msg-facial-recognition-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T10:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

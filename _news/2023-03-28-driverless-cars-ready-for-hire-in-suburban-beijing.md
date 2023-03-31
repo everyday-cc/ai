@@ -52,6 +52,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 67
+  - title: "Google's self-driving vehicle company Waymo returns to Austin to test new driverless tech"
+    excerpt: "Even more self-driving vehicles will be tested in Austin, as Waymo, one of the first companies to test autonomous vehicles in Central Texas, returns. Austin’s reputation as a hotbed for autonomous technology continues as Waymo plans to once again test ..."
+    publishedDateTime: 2023-03-31T11:16:00Z
+    webUrl: "https://www.statesman.com/story/business/technology/2023/03/31/google-self-driving-vehicle-company-waymo-returns-austin-texas/70065082007/"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 25
   - title: "Japan to designate lane for self-driving cars and route for drones"
     excerpt: "The Japanese government has unveiled a plan to set up a dedicated lane for self-driving vehicles on a highway and establish a flight route for drones for delivery use. The move is part of an initiative to expand digital technologies nationwide. Prime ..."
     publishedDateTime: 2023-03-31T06:59:00Z

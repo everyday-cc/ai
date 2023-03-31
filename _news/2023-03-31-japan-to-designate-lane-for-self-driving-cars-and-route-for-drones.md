@@ -66,6 +66,15 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "Google's self-driving vehicle company Waymo returns to Austin to test new driverless tech"
+    excerpt: "Even more self-driving vehicles will be tested in Austin, as Waymo, one of the first companies to test autonomous vehicles in Central Texas, returns. Austin’s reputation as a hotbed for autonomous technology continues as Waymo plans to once again test ..."
+    publishedDateTime: 2023-03-31T11:16:00Z
+    webUrl: "https://www.statesman.com/story/business/technology/2023/03/31/google-self-driving-vehicle-company-waymo-returns-austin-texas/70065082007/"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 25
   - title: "Driverless cars ready for hire in suburban Beijing"
     excerpt: "Driverless taxis are now available for hire in suburban Beijing, marking a new chapter in intelligent transport, China Daily reported Monday. Beijing earlier in March granted licenses to Chinese tech giant Baidu and autonomous vehicle startup Pony."
     publishedDateTime: 2023-03-27T06:48:00Z

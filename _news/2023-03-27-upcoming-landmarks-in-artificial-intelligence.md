@@ -35,6 +35,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "The case for how and why AI might kill us all"
+    excerpt: "Some believe AI is flat-out going to wipe out all of biological life at ... inspired by the way the human brain connects concepts. It worked with Microsoft Azure to build the hardware to run it, then fed it billions and billions of bits of human text ..."
+    publishedDateTime: 2023-03-31T09:28:00Z
+    webUrl: "https://newatlas.com/technology/ai-danger-kill-everyone"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 69
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/f8f2c4a/2147483647/strip/true/crop/1344x706+0+95/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F2d%2Fe3%2F024b16504003a3cc42d21bec425f%2Floz-a-small-child-holds-a-cookie-out-towards-a-much-larger-scar-c3bb1789-1343-47b7-9871-7521a59cb98a.png&na.image_optimisation=0"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The US government is gearing up for an AI antitrust fight"
     excerpt: "She warned that major companies may “start to panic” at an upset in the tech order — “sometimes having to resort to anticompetitive tactics to protect their moats and protect their dominance.” Kanter added that the current model of AI is ..."
     publishedDateTime: 2023-03-28T17:27:00Z

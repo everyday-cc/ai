@@ -3,8 +3,8 @@ category: news
 title: "The problem with artificial intelligence? It’s neither artificial nor intelligent"
 excerpt: "Let’s retire this hackneyed term: while ChatGPT is good at pattern-matching, the human mind does so much more writes Evgeny Morozov"
 publishedDateTime: 2023-03-30T16:34:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/mar/30/artificial-intelligence-chatgpt-human-mind?trk=public_post_comment-text"
-webUrl: "https://www.theguardian.com/commentisfree/2023/mar/30/artificial-intelligence-chatgpt-human-mind?trk=public_post_comment-text"
+originalUrl: "https://www.theguardian.com/commentisfree/2023/mar/30/artificial-intelligence-chatgpt-human-mind"
+webUrl: "https://www.theguardian.com/commentisfree/2023/mar/30/artificial-intelligence-chatgpt-human-mind"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/mar/30/artificial-intelligence-chatgpt-human-mind"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/mar/30/artificial-intelligence-chatgpt-human-mind"
 type: article
@@ -47,6 +47,6 @@ related:
         height: 1100
         isCached: true
 
-secured: "UYcjnD8+FtH9/eoX6vksq9mH9HnNq9ypaigaY7MVFUU1YfYPwiqc/DWS1f5lDW4cN45Z5Jx6wZujURu29A1tqGUVLGWv005LfD7RPzBySZxJrnRHCwFWmUcYkyZfBY9/Kg5haBTI/G0Hx7lhURhA2803MNz3XQWq2Xay+lf8yX810T15zQZuxjJvvxocoTw/akND+ooQB3dIhLQpjdwcYGkgxNA911CIw951xzxQmearNeVJfWJcUpHsrtFUNo2LZWSuTY5oOmJs/JUA9kvtxF3EeVAi+IckQI5u5bHnTMqxFxsUEnqy5SDd5iefg+ctxv6F/XNaVqZBCmktjtIyu3WFhHArcy7qKL0Q2+ElVPuqH8juu771ofuzIQ9WB95RmywL5BtJk9xNLSHNgwMiFDuRGej/CAQ/Tq7Y1WQIgl5lVF+9Hgxh+VHpz/88T7exsIwjzXerjIeTVKgAxmg4C9X2/HJPtA/4Eu+SbelTfnt3usYDNbYBkf3C9VXPnASbcMbenR4Y2uETBLIYHDuFSA==;YAMR7c8Ky/Wg7glLdKTJzw=="
+secured: "SlnXpYhbYwTPxWpz+eeX641P4L/4ZTmsDsV4irjHLvfVPpLA6gvCB0aG20XIR5Z5AkrLfkFnp6UyjzIDQlsRxQoD56/UZ+vEKt57LDe2960fk+ywWNOXfioi/wnXMXcqkORl9KfxRHsPkz8Vquo4D5RoSp/HXOwkqfZVHevcYRTDcKEkTN1Tp3E3EEHw4mi1W7VcbQC5hyPHfyU6PK0tPG2vUCVTSR8HjqE2pXbJ5ryu/lSq7FDK+9D1bzo8dITEjvc8ZGhgnSawiLU8gVMuaXHyTXBmAPv0AKp9KAFSY3eo+PJL5uzD21Q5D1G+egOR3E1UzM9MPxm3ruQqH9mWn7a32qaQHI8LBCNUGmg7cBA=;iCYpHzVfkkX1SQruo95+qQ=="
 ---
 

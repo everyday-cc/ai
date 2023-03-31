@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/edge-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-application-product-sales-and-forecast-2023-2031-2023-03-27"
 type: article
 quality: 105
-heat: 665
+heat: 675
 published: true
 
 provider:
@@ -166,6 +166,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 72
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Chip Market Size to Grow USD 263.6 Billion by 2031, growing at a CAGR of 37.1% | Valuates Reports"
+    excerpt: "The global artificial intelligence chip market was valued at USD 11.2 billion in 2021 and is projected to reach USD 263.6 billion by 2031, growing at a CAGR of 37.1% from 2022 to 2031. Major Factors Driving the Growth of the AI Chip Market: Artificial intelligence chip market expansion is impacted by ongoing technical developments as well as a rise in demand for artificial intelligence processors and brain chip solutions."
+    publishedDateTime: 2023-03-28T17:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-size-to-grow-usd-2636-billion-by-2031-growing-at-a-cagr-of-371-valuates-reports-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

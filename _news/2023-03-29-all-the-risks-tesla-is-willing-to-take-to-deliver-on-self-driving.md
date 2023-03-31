@@ -7,7 +7,7 @@ originalUrl: "https://slate.com/technology/2023/03/tesla-full-self-driving-elon-
 webUrl: "https://slate.com/technology/2023/03/tesla-full-self-driving-elon-musk-twitter-takeover.html"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Xpeng expands assisted driving tech coverage to Shanghai, something Tesla doesn’t offer in China"
+    excerpt: "But the company has tried to make its assisted driving technology a selling point for consumers. \"Tesla doesn't really pump Autopilot in China and they don't offer Full Self Driving (FSD) in China, whereas Xpeng really leaned into its NGP as a difference ..."
+    publishedDateTime: 2023-03-31T10:51:00Z
+    webUrl: "https://www.cnbc.com/2023/03/31/xpeng-expands-assisted-driving-tech-coverage-to-shanghai-something-tesla-doesnt-offer-in-china.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/03/31/xpeng-expands-assisted-driving-tech-coverage-to-shanghai-something-tesla-doesnt-offer-in-china.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/31/xpeng-expands-assisted-driving-tech-coverage-to-shanghai-something-tesla-doesnt-offer-in-china.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 91
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107218318-1680254102337-gettyimages-1411778864-vcg111394189776.jpeg?v=1680258378"
+        width: 3000
+        height: 2000
+        isCached: true
 
 secured: "jhfyRfbNGVCoY07Op1B19zOSNJ+zBBWaBAI/v7/mmvuEWUOTM/1XF/ThfHGkguoQQPyO8oKIyY7AoQz3bk9cPrsTRqbzIO+H4oW+c2JMs0/j9RTVDuxTkkhopRyQqjm4AqZlN23451n3rdzS8T1GOfLrMVzdvZ+hw1eklvumfogKzLN3z6CiF0KNbPENhHc2RAjK4dUc0+sY9asWD2++y6M8lytH7RwIc1ZeSXM5pDq3Oetqi3iIMcuL+E0gTe3F5e0fleiSwklzoiRGM0PicQWOxorLTErAtV7w6iUkaTTT1lmvuU3Nl66kHK7HCaOJRHAYohO3f4DuvbHd4WNmqqBl+g8JRWLzVWR+7I9GN/l2/Ccxwl2faBJWP9DL0YIsrdPSQAsdWTkRFy1m/EckSXWrSus+y+n89CW8Rlc7C9KiMSZBQ3KyujxVfa1NbCt4THDWz9Nbkzhqw89GFHUGVw3bWmio+hlzsdOGy+/Qcd3VNRQCcK9+SBPEttbQwlmL+OEPKgzM6J0sx93uF5D6ZQ==;hrFtIy/8iPN3f5THyHb3BQ=="
 ---
