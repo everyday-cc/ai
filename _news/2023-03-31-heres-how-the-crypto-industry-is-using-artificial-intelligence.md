@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Leadership In The Age Of AI: How To Build Your AI Literacy"
-    excerpt: "Statistically speaking, your organization is likely already using artificial intelligence, and you probably have full-scale deployment of at least three AI applications. A recent survey revealed as much,"
-    publishedDateTime: 2023-03-27T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/27/leadership-in-the-age-of-ai-how-to-build-your-ai-literacy/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/27/leadership-in-the-age-of-ai-how-to-build-your-ai-literacy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/27/leadership-in-the-age-of-ai-how-to-build-your-ai-literacy/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641db2cbc8f7905940580d4a/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "The Psychology of Artificial Intelligence"
     excerpt: "But what about two decades later? I posed the question earlier posed to participants now to the artificial intelligence software ChatGPT. Order the sensibility of the following three sentences: “after wading barefoot in the lake, Erik used his towel to ..."
     publishedDateTime: 2023-03-28T00:14:00Z

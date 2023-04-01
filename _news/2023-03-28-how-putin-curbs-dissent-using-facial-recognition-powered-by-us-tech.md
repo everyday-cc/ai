@@ -57,15 +57,6 @@ related:
       name: National Post
       domain: nationalpost.com
     quality: 32
-  - title: "I am an SAS-trained facial recognition expert – here are the telltale signs paranoid Putin IS using body doubles"
-    excerpt: "AN SAS-trained facial recognition expert believes Vladimir Putin is so paranoid about being assassinated that he is using body doubles. Graham Yuill has revealed the telltale signs that he says"
-    publishedDateTime: 2023-03-27T11:07:00Z
-    webUrl: "https://www.thesun.ie/news/10450003/sas-facial-expert-telltale-signs-putin-using-body-doubles/"
-    type: article
-    provider:
-      name: Irish Sun
-      domain: thesun.ie
-    quality: 13
 
 secured: "w/fPqFVLYk88yvzep6gM5kFO/PPANo+e5ap5KN16xmBYpDlJXcfFI13CsScjm9d540JMNgVzf1Q5Z4vt8k/udTwEPI9d8b/UWzXHj/Y63MsTtEKtEYLtiLSuE0+w14um+Jzw6e+I765bn45M9gtJIZt/dBrgBTaH8ALD627vl9Ph98Q0zQnT4ZjMdQxaP5kQgCxomEeimw22pSuwotgx3vZErxj0QK9fgGPgTPgZ5uSGf5eevTgY1nMuWECb0O7OQN0Wlauvnj2G/0CtSn9yIBdkwK11rLQ4gYZj3yNzAfuIJM6PuxNCaWx5Mm0EkLJF1ohhKGjJVQJfhoS6CagNb2UUI/06u/4ZL39H+kJh14bgidEuoaUq6Tqo9ovKpfyanP0Ae7OkZLLuEBwSTSBfNa6FApNIB3u30wxImj+iQGXb00sKytjyOmsEtpEJ0Pcq3H+ikpvXm0i/palNUYGbaQNaDw8LJeEacw3PU/2pCYX7bswc3lje4ousCfRc9zkdBWu0v8nWuHQeWBspxLir8g==;b1meElXA77wXNyinn0xlxQ=="
 ---

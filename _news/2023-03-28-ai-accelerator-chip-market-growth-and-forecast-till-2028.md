@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI based Edge Computing Chip Market Outlook By 2031"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 26, 2023 (The Expresswire) -- The \"AI based Edge Computing Chip Market\" study describes how the technology industry is evolving and how major and emerging players in the ..."
-    publishedDateTime: 2023-03-27T11:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-edge-computing-chip-market-outlook-by-2031-2023-03-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AIoT Edge AI Chip Market Facts and Figures by 2029"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- The AIoT Edge AI Chip Market report provides a comprehensive analysis of the global market, covering both qualitative and quantitative ..."
     publishedDateTime: 2023-03-27T23:13:00Z

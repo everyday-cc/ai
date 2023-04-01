@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Artificial Intelligence Is Teaching Us New, Surprising Things About the Human Mind"
+    excerpt: "The world has been learning an awful lot about artificial intelligence lately, thanks to the arrival of eerily human-like chatbots. Less noticed, but just as important: Researchers are learning a great deal about us – with the help of AI."
+    publishedDateTime: 2023-04-01T04:05:00Z
+    webUrl: "https://www.wsj.com/articles/artificial-intelligence-is-teaching-us-new-surprising-things-about-the-human-mind-ba7cdceb"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 63
+    images:
+      - url: "https://images.wsj.net/im-755114/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Don't ignore warnings over potential dangers of artificial intelligence"
     excerpt: "[iStockphoto] On Wednesday, over 1000 tech industry leaders signed an open letter urging Artificial Intelligence (AI) labs to stop developing advanced forms of AI. To many, this does not come as a surprise as one of the most prolific geniuses of the last ..."
     publishedDateTime: 2023-03-31T04:16:00Z

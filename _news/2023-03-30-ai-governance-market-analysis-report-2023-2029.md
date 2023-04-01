@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Platform as a Service (PaaS) Market Report | Global Forecast From 2023 To 2030"
-    excerpt: "Market Updates(360marketupdates.com) published a new research report on Artificial Intelligence in Platform as"
-    publishedDateTime: 2023-03-28T11:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-platform-as-a-service-paas-market-report-global-forecast-from-2023-to-2030-2023-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global In-Vehicle AI Robot Market Is Anticipated To Reach US$ 190.7 Million By The End Of 2032"
     excerpt: "(MENAFN- Ameliorate Digital Consultancy) The in-vehicle AI robot market is a growing industry that involves the integration of artificial intelligence (AI ... Optimus Ride, Waymo, AutoX, Bosch, Morris Garage, Nauto, and Predii are among the leading ..."
     publishedDateTime: 2023-03-28T17:49:00Z
@@ -78,20 +64,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?653119"
         width: 570
         height: 250
-        isCached: true
-  - title: "Global Speech and Voice Recognition Technology Market Size 2023 to 2026 Size and Share Survey Report"
-    excerpt: "Global \"Speech and Voice Recognition Technology Market\" report provides a thorough examination of the present and projected situation of the sector. The research offers useful information about, among other things, the market's size, share, growth ..."
-    publishedDateTime: 2023-03-29T04:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-technology-market-size-2023-to-2026-size-and-share-survey-report-2023-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "OtdE/pkNSaA/ubQeqS1x950v+BTEyAdKkkWZz2pcg30pRFjKOZ+n7RPAXBzAk/DJV+dNitDk5peO/c1zjMMJfrCDWx44C/8jVIr4ncEMI5CEKhEIVzaZoiImBhw0bSo20vdmrXoWA53Rw6eBYrQY8cGbjHVEKMaK7S7WY+WXrzpMba1oTQZoZD7V6QT7pkWJJ6th1hv6ZYVR9JsAzD8QQKXBC7bAuWDT49/7t1ezsxjUOblvhF6VzZXS8OtMjpXzQsO510um5IMMC1JmIImESIoaT5k3BtI7r09Xa1ScMlpD8qmnmkAyMW93ygfBVG8oC++8j0WtjiBRCRabfdoBUpivEAMAGVvFrwuSh1zCSr0=;r8aijbtiIOWEMJp65Gl5/Q=="

@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Google AI-based tiny syringe to inject gene therapy, tumour-killing drugs"
-excerpt: "Using the Artificial Intelligence (AI) tool AlphaFold the team including from the Massachusetts Institute of Technology (MIT) and Harvard University engineered a tiny syringe-like injection structure, naturally produced by Photorhabdus bacteria which ..."
-publishedDateTime: 2023-03-31T20:25:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Health/20230401/4056636.html"
-webUrl: "https://news.webindia123.com/news/Articles/Health/20230401/4056636.html"
+excerpt: "A team of researchers has harnessed Google's AI venture DeepMind to develop a bacterial injection system which can inject proteins, including cancer-killing drugs and gene therapies, directly into human cells."
+publishedDateTime: 2023-03-31T22:13:00Z
+originalUrl: "https://www.thestatesman.com/technology/google-ai-based-tiny-syringe-to-inject-gene-therapy-tumour-killing-drugs-1503168119.html"
+webUrl: "https://www.thestatesman.com/technology/google-ai-based-tiny-syringe-to-inject-gene-therapy-tumour-killing-drugs-1503168119.html"
+ampWebUrl: "https://www.thestatesman.com/technology/google-ai-based-tiny-syringe-to-inject-gene-therapy-tumour-killing-drugs-1503168119.html/amp"
+cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/google-ai-based-tiny-syringe-to-inject-gene-therapy-tumour-killing-drugs-1503168119.html/amp"
 type: article
-quality: 33
-heat: 33
-published: false
+quality: 73
+heat: 83
+published: true
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: The Statesman
+  domain: thestatesman.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://www.thestatesman.com/wp-content/uploads/2019/10/iStock-458686061_ED.jpg"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "AI develops tiny syringe to inject gene therapy and LIFE-SAVING cancer-killing drugs"
@@ -29,6 +37,6 @@ related:
       domain: euroweeklynews.com
     quality: 27
 
-secured: "4c2x05R7JoHkxcorxmelV+fuTUGYgjWKqg1pxp4A+GjdkqFGMXRFa109iMM7A2r7CXyd0p43+iDLGJbKbfSxxgONJ7XeFtLCeJrxJJI1xyvMqwpa49Gn2rYRIveIPwCJ/1cxBo46UK7S2kw3AEuS3IMXqx8vU2aDwIXsNBHQP9Pugnj8kRx9m3MrhEgh4OQo7WwBpWcNoXwBFNEkBUghe0xLYJheXtVFbkI2a+Ff44o45HxCcQMScByM/HXwhiQHJpayXnisO9CHa4/GMlwDoEmCsneHnrloquMhZcPxXAGRRPedetoNd8eLhLeye29jKwHaxbwEcelWnzHnKt8B03GlPpW7+JwN7awZW1c+yR0=;081nc9nZQ6rCoCSTQe8w9Q=="
+secured: "rBT+lZe59aX8iYJ4iqCjE7qrmLqkndAEswjp+bxSY6fczducLjHNBfVt0J60vjM97qFvWKoj2xAeuXRqTo8fypCdDJkUFy35CZar2pejNUrIQqGb6j6htZZYN9bxYcMXH9UQwaNocgPbC5MtmBiLU4D1T2mQ6eomQ/iWpFFtFozVwnkM2SpXrM+TooHhMgaEDJqo3UnlvA/HrVUqvPqfqvqr5Od6bEqVXhEQVEWz4UrV2iJqoJ/XnJgCVsfLnSXXZrff1zumADagm4w0kFn4F4GzSFjBDt3KKa23PZV4pq12dYQ80OAgACy09iVifJWRlwxS12o/1EBbabWlcmjPlFYT0Fm+3tH0FyNFx1bwOc4=;pfiQviDyot1zMsmAe/r3mg=="
 ---
 

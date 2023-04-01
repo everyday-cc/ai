@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market [2023], Global Demand, Industry Size, Revenue Analysis, Regional Share and Competitive Landscape"
+    excerpt: "TheArtificial Intelligence in Healthcare Marketreport offers insights into the latest trends. This report provides"
+    publishedDateTime: 2023-03-28T10:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2023-global-demand-industry-size-revenue-analysis-regional-share-and-competitive-landscape-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "5YRcKW+6/GfRa7yBwrzgtdz1K+r7miBQXIkUr4TlrDdflij8+JJhhu9wKVB4yX3c8NzmvbL7RQvejMzo5KqxUT4nhf6idzSSuUoUsWSa3LMUqAAPgNiVbYvHpmD8Jvyj/sACV/afRCBS2UIS196BOlMj8iGrPPU2imPJEsIPVnzaueGeNpzPCxoEVC5gUCOZZO2rW8MWU0bwiSxpY+uYAgKtDgg3V1T4Lcly8oHYzV0kemnqzv1CJpxQ91JbIndsFJhoBkodILEw5tdZNHG78GkQeldh4F7Pc4SmXBbn8xys62t3CI9LO7lA6ldOuMWPlF8xkg6kIMUvdUmKdCznn2b4J3sYKZ+DWmONjbqnWKE=;/Zo7LqxcDLYb3s015qwnRw=="
 ---

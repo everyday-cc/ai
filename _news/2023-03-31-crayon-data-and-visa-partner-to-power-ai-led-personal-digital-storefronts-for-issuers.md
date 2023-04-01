@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khaleejtimes.com/business/crayon-data-and-visa-partner-t
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business/crayon-data-and-visa-partner-to-power-ai-led-personal-digital-storefronts-for-issuers?amp=1"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Crayon Data and Visa partner to power AI-led personal digital storefronts for issuers"
+    excerpt: "By partnering with Visa, Crayon Data will provide Personalised Lifestyle Marketplace platform for issuers Crayon Data, a leading global artificial intelligence and big data company, has announced its partnership with Visa aimed at powering AI-led personal digital storefronts for issuers."
+    publishedDateTime: 2023-04-01T04:40:00Z
+    webUrl: "https://www.zawya.com/en/business/retail-and-consumer/crayon-data-and-visa-partner-to-power-ai-led-personal-digital-storefronts-for-issuers-yagq8q33"
+    ampWebUrl: "https://www.zawya.com/en/business/retail-and-consumer/crayon-data-and-visa-partner-to-power-ai-led-personal-digital-storefronts-for-issuers-yagq8q33?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/retail-and-consumer/crayon-data-and-visa-partner-to-power-ai-led-personal-digital-storefronts-for-issuers-yagq8q33?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 52
+    images:
+      - url: "https://static.zawya.com/version/c:MWJlNGUyNDUtZGZhZi00:YzI5MTBm/1365234911.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "WFl7JoT17KRxtStOjjgw5x78tmWgrm4ZLPyZYNUFjb7HXaXcXwcD9fLanyMrJlhD0PlRkyFXjeO9CG/Ql6gnQtMr6FnuICMwNxixgHP3iIUFTAPFRa4mPgG5Ikc5oW8tsNQAQGPRcsevjJgitm2tCyGKJD+W2O249eWtkMw9Q48+boFcYR3Epq0+Kmxi1wifQKhULbaVOC/6uF2WHOzeQ8UqODFKmp27g4GVhF7v7BG1/q9J826EUeUMSmb3kGTs90NkzPF2D/qvxyxC58/WCwWO4hwwGvAauFBIk3OPbnpQr0WCG4SIrXa6TTImQB6cUq+/AsfOfaXdAepged7O1EesJ/Tp/LE3y8E/y8OSVnc=;dK/Fv4Sr+TofNAM3mlPrFw=="
 ---

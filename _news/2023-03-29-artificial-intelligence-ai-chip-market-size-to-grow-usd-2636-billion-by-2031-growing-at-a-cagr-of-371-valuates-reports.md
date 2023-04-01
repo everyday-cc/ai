@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-28T22:39:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chip-market-size-grow-usd-/2023/03/28/9784803.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chip-market-size-grow-usd-/2023/03/28/9784803.htm"
 type: article
-quality: 25
-heat: 25
+quality: 21
+heat: 21
 published: false
 
 provider:
@@ -15,11 +15,9 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI in Robotics
-  - AI
   - AI Hardware
-  - AI in Healthcare
+  - AI
 
-secured: "CYkSeYDij0G35BnOHiB6oDJO9bP69lSOZipZIuwXXZI7kuSfSJ01mbFxw3r/Hq+P1KsfOUCh/kzLgbNJ1e0gGuEMMVRsiaiyfTyquIuzfPE6j/IM5CTeb/r+OkcDpmRP8O2TZw54oorbShlimFNhBWjvaidLql92bJEiSub/DnxPJvazTpM3LrxMWg+bw5eB2yqGak+f8xqBoN/aTrDCEErRTDXh+hidnSVy/Mb8IhYnLiq667Fnifsag23/UzZWV/VKnCaxEsNBuLe3OEjRQpZShT7m1l9XZFbZl70dtBR9Ngf0hmFLHEeJf7zOND+G/+5ivwThIci0UvfCYiK6eBFNk3mjOn/Au+xrxnoZ3OY=;vidI8y1RO5xiPjVDGIg5Dw=="
+secured: "tbNGRx+4MgYOLtgGEZKiXu+ksMPDmJ4+hVDMTWRx8Tv2GYRA4LYxkz/3n8MIAnrfp8EKn9pGHWUXAIQK/oJv60sFsqmLcUuh0qHzMFLrja0aY4FGCGsNu2DWqpQbGtkR9aPdgrM+x5kqnrtYWjak4gspP4O/2zddBL7KhoVEZWjxcFmbtelwnW/QdOUs+4ryzkecQEDVuYKvuTPuv0ZtWOEac+JREK6ZHKlVicMq2lsjBzUsUZvIwbj56LyexWpraX4HkQntp9FrDTOLpMdJUXM9OdY0ThuRHpGVUfHkE10KY9LV7K+ElTy3NoVGjlfrIefecyBOAwdlRiVw2ow7IXxhBctBIhhDN2GOjkRZkvQ=;eprVMSEgD+t52zX/E4IlfQ=="
 ---
 

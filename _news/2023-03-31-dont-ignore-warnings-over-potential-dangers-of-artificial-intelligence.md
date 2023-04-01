@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Artificial Intelligence Is Teaching Us New, Surprising Things About the Human Mind"
+    excerpt: "The world has been learning an awful lot about artificial intelligence lately, thanks to the arrival of eerily human-like chatbots. Less noticed, but just as important: Researchers are learning a great deal about us – with the help of AI."
+    publishedDateTime: 2023-04-01T04:05:00Z
+    webUrl: "https://www.wsj.com/articles/artificial-intelligence-is-teaching-us-new-surprising-things-about-the-human-mind-ba7cdceb"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 63
+    images:
+      - url: "https://images.wsj.net/im-755114/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Things to consider with the use of giant AI experiments and the safety of Black travelers"
     excerpt: "For example, there are AI translation tools that are specifically designed to translate non-standard varieties of a language, which can help to ensure that BIPOC travelers are able to communicate effectively while traveling. Overall, the impact of AI on ..."
     publishedDateTime: 2023-03-31T18:08:00Z

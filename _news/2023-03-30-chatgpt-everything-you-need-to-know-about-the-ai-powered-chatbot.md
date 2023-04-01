@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/30/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/30/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
 type: article
 quality: 89
-heat: 369
+heat: 349
 published: true
 
 provider:
@@ -295,6 +295,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Preview release of ChatGPT shows potential of artificial intelligence"
+    excerpt: "ChatGPT, released as a free prototype by the research laboratory OpenAI last November, is a powerful artificial intelligence technology with socially transformative potential that is being used under capitalism to eliminate jobs,"
+    publishedDateTime: 2023-04-01T04:14:00Z
+    webUrl: "https://www.wsws.org/en/articles/2023/04/01/hsrd-a01.html"
+    type: article
+    provider:
+      name: World Socialist Web Site
+      domain: wsws.org
+    quality: 39
+    images:
+      - url: "https://www.wsws.org/asset/76fbb761-071f-4bab-b074-271bdf3985b8?rendition=1600x900"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "How ChatGPT is Transforming Enterprise Search with Natural Language Processing"
     excerpt: "ChatGPT solution that companies must consider to achieve their long-term objectives to increase customer satisfaction."
     publishedDateTime: 2023-03-30T15:28:00Z
@@ -326,20 +340,6 @@ related:
       name: Patch
       domain: patch.com
     quality: 28
-  - title: "Here’s How Nvidia Is Powering The ChatGPT Frenzy"
-    excerpt: "ChatGPT owes a large part of its capabilities to the powerful computing hardware developed by Nvidia. In this article, we'll"
-    publishedDateTime: 2023-03-27T11:40:00Z
-    webUrl: "https://www.techbooky.com/heres-how-nvidia-is-powering-the-chatgpt-frenzy/"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 24
-    images:
-      - url: "https://i0.wp.com/www.techbooky.com/wp-content/uploads/2023/03/chatgpt-nvidia.webp?fit=1600%2C900&ssl=1"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Mimicking Human Language And Writing, ChatGPT Is Hailed As Next Great Gold Rush. But Italy Just Banned It"
     excerpt: "In a separate AI development, Bloomberg announced the creation of a new large-scale generative AI model specifically trained to support natural language processing (NLP) tasks within the financial industry. BloombergGPT, as Bloomberg is calling it ..."
     publishedDateTime: 2023-03-31T16:52:00Z
@@ -363,15 +363,6 @@ related:
       name: decrypt
       domain: decrypt.co
     quality: 20
-  - title: "ChatGPT – Can this AI chatbot replace human jobs?"
-    excerpt: "First things first, the debate should be on whether ChatGPT can replace job roles and not jobs. After it was launched in the market, we’ve already assessed its capabilities and at its present state, it is rightly triggering a debate on whether certain job roles are vulnerable to replacement."
-    publishedDateTime: 2023-03-27T11:10:00Z
-    webUrl: "https://www.techopedia.com/chatgpt-can-this-ai-chatbot-replace-human-jobsl"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 19
   - title: "Avochato Announces Integration with ChatGPT-4 by OpenAI"
     excerpt: "With the integration of ChatGPT-, users of the Avochato platform will have the ability to leverage this technology to respond to customer inquiries with increased accuracy and efficiency, providing a more seamless and intuitive communication experience."
     publishedDateTime: 2023-03-30T18:31:00Z
@@ -390,15 +381,6 @@ related:
       name: BBC
       domain: bbc.co.uk
     quality: 17
-  - title: "How watermarks can help protect against fraud with generative AI like ChatGPT"
-    excerpt: "There are reasonable and technologically feasible interventions that can be used to help mitigate abuses with generative AI like ChatGPT and DALL-E."
-    publishedDateTime: 2023-03-27T13:00:00Z
-    webUrl: "https://www.fastcompany.com/90871934/how-watermarks-can-help-protect-against-fraud-with-generative-ai-like-chatgpt"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 14
 
 secured: "DqPYb0KMByfjD7tnHnrsbKbqn+X/D3RKPywLXKO/OUGJ2F7agP5/dLbg9cMWPMcyOU7JX2fnJmroha4jQ0ezA7kPCdooHb1ur6U87Rc8lKKC6zben6HrtwgSdJ5NtONRU+Ecfo+K5xjnwYs/FydqDHHRZUkh/zCaQNQEPz2ICBKRnbpX760gQo3+0siwgw4s3nR+z7qPQr7HeDk+aZzg+6bhk9q+mVODe+zcGoeknBdH94CexR3IlwL6uUtMD3m46xDlpb+lc3zqlpMGrzY8ets4lbCrAqjbsInQVt5aPiTKgoCs4BaaDWkhAKcqucGpMFCS7I1HIzcKggSGMOxOMYLNwIC3GaSMttggMmOgFtzEdfR/EizC3Lzdj3Bh1wDF8759ccLcRhzRUSTjjXzh4skrnThLw/JZZEn56nf1XqbTJePn4aCANeEpW438DuPfKT7x+lZx6bUG6YsTF6f1TcPy2c4jpjru4yJNz6av/Vr1lTs6Yu5jI/MurSw131SJwlPQ0aQGp5KoZPWCTIQggA==;Z7OT9xR9ZKFHwHIWdFwjbg=="
 ---

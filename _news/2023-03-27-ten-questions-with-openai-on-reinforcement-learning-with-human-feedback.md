@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2023/03/27/ten-questio
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2023/03/27/ten-questions-with-openai-on-reinforcement-learning-with-human-feedback/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 34
-  - title: "Zoom adds generative AI to Zoom IQ; partners with OpenAI"
-    excerpt: "Zoom announced a new host of AI-backed capabilities for its “smart companion” tool, doubling down on its CEO’s promise of helping customers benefit from the technology."
-    publishedDateTime: 2023-03-27T12:46:00Z
-    webUrl: "https://www.computerworld.com/article/3691778/zoom-adds-generative-ai-to-zoom-iq-partners-with-openai.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 17
 
 secured: "vmOwHlk4QT+weLoqQXMswR66G9miGDeYsmAR7huIIzD/5q6HnR/AuJw5Vdt0ve9F8vopxcg9gCiCc0mYc5F9jdBkeSn5VQRqJXs4OUxcYN/UvmdF6kyzm0FBGt9RJDesI9EOOncF5gNIl6+VcrekFx3OvOe2n1jlZOHQsaADtJ71Mx6M/gdx1tXfjCFP63c1nOxU/yBU6gIdk2BJgKZfPk1puwxbcMA/y8pJoqZhis/0wNejxIbD53mNJSm7RvZ2x+2diQf/u9dxwWKny9XCv/kp9kjZc4gkLQ2I7Zq5Ranir4XbTgdZjOqjZV7bYj6a/TZZevnCSL/yrjybVphm/S4rLAkiVfp5MwHa3+hiZYE=;c1RdkXj2HifRqsTbDXHq2w=="
 ---

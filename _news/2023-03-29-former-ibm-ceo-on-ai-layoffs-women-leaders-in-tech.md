@@ -19,31 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "Former IBM CEO Ginni Rometty on AI, layoffs, women leaders in tech"
-    excerpt: "After retiring from IBM in 2020, Rometty spent two years writing \"Good Power, \" a book she describes as a \"memoir with purpose.\" She recently spoke with The Associated Press about her career and the state of the tech industry now."
-    publishedDateTime: 2023-03-27T12:37:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/former-ibm-ceo-ginni-rometty-on-ai-layoffs-women-leaders-in-tech/articleshow/99037495.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/information-tech/former-ibm-ceo-ginni-rometty-on-ai-layoffs-women-leaders-in-tech/amp_articleshow/99037495.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/former-ibm-ceo-ginni-rometty-on-ai-layoffs-women-leaders-in-tech/amp_articleshow/99037495.cms"
+  - title: "Covariant’s CEO on building AI that helps robots learn"
+    excerpt: "When you start by building AI for warehouses ... We’re very excited to do that in the world of robotics."
+    publishedDateTime: 2023-03-28T00:00:00Z
+    webUrl: "https://techcrunch.com/2023/03/28/covariants-ceo-on-building-ai-that-helps-robots-learn/"
+    ampWebUrl: "https://techcrunch.com/2023/03/28/covariants-ceo-on-building-ai-that-helps-robots-learn/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/28/covariants-ceo-on-building-ai-that-helps-robots-learn/amp/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 39
-  - title: "Former IBM CEO on AI, layoffs, women leaders in tech"
-    excerpt: "Just before Rometty became IBM's first woman CEO, the company's AI-powered computer Watson outwitted two of the most successful contestants in the history of the game show “Jeopardy!\""
-    publishedDateTime: 2023-03-27T12:29:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/former-ibm-ceo-ai-layoffs-women-leaders-tech-98147831"
-    type: article
-    provider:
-      name: ABC News
-      domain: abcnews.go.com
-    quality: 39
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
     images:
-      - url: "https://s.abcnews.com/images/Business/wirestory_9835eafd038b790563f6bbaa2e8963f8_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://techcrunch.com/wp-content/uploads/2021/07/2021_07_13_covarient_retouched-006.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "Genrobotics: This new startup is mixing AI and robotics to help sanitation workers"
+    excerpt: "The thought of Genrobotics as a company started way back when four engineering students wanted to try their hands at robotics which would bring about substantial changes in society through innovation and technology."
+    publishedDateTime: 2023-03-27T13:28:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/genrobotics-this-new-startup-is-mixing-ai-and-robotics-to-help-sanitation-workers-article-99038504"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 43
 
 secured: "xJaNIQfD7K4wdTZN/FA/Isc1iUjSB20YdQ4eIOaav+M+1hWPmQoLJn4gYS1ydE0dEdtzATBvl4Ne8HAhVJhd8nxHbr7sq+T6IBm9XrpiFoKFgYMRUEtSiy3kgZT0/V7qxOa847Cdbz1IKrvJ6FZB5yEkEqezTsMZXhGXX6yiF3QRH1FVZHeUhlRPnduaPn51tWWYEz2afNorO1BbGP8dPJCqRLhu6RnopezgpwWdVVlzPxqdMfToG3Zif+OOxlLen2RqqB40tcuAxK3CqO+WRarq5TefVXap65q3l1g8B9B8mKa1i/p1QAQrg/PJtpFa0A2w8/dp6k2VD61pMG+Fp0g/DodFZkqqpderMtNrEi5yhSx2WY4c27qZC27wh5euEGY/mYh8G3pqjNa14l+k9eY0M2k11MAOllF5ZjsUj7r3LilDABxJboIrv94FGpCA7BngltdCXBfoSVKHRxOzX+9YkarIKr3G4N5lRWyleUo4yw+YNiwiCjkCYbvltmBmo1KnE8onZhofneOz1ojlbQ==;YyDrYuYo5ToM2BS1BGc2kg=="
 ---

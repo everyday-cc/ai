@@ -23,75 +23,34 @@ topics:
   - AI
 
 related:
-  - title: "AI (Artificial Intelligence) Image Recognition Market 2023 Expected to Reach Significant Rate by 2031"
-    excerpt: "Image Recognition Market\" study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short-term challenges they face. One major attraction about AI (Artificial ..."
-    publishedDateTime: 2023-03-27T21:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-artificial-intelligence-image-recognition-market-2023-expected-to-reach-significant-rate-by-2031-2023-03-27"
+  - title: "Automatic Speech Recognition(ASR) Software Market Share | Business till 2030"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- “Automatic Speech Recognition(ASR) Software Market” Are a Collection of Information and Analysis Obtained From Diverse Sources to Aid ..."
+    publishedDateTime: 2023-03-28T07:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-share-business-till-2030-2023-03-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 71
+    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In RegTech Market: Recent Growing Trend 2031"
-    excerpt: "The \"Artificial Intelligence In RegTech Market\" study describes how the technology industry is evolving and how major"
-    publishedDateTime: 2023-03-27T16:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-recent-growing-trend-2031-2023-03-27"
+  - title: "VOICE RECOGNITION SYSTEM Market | Newsest Research"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- [128 Insights] Top “VOICE RECOGNITION SYSTEM Market” Size 2023 Key players Profiled in the Report are [Nuance Communications ..."
+    publishedDateTime: 2023-03-28T07:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-system-market-newsest-research-2023-03-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Camera Market 2023 Estimated to Perceive Exponential Growth till 2031"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- The \"Deep Learning Camera Market\" Study Describes how the technology industry is evolving and how major and emerging players in the industry ..."
-    publishedDateTime: 2023-03-28T10:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-2023-estimated-to-perceive-exponential-growth-till-2031-2023-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence & Advanced Machine Learning Market Top Players By 2031"
-    excerpt: "The \"Artificial Intelligence and Advanced Machine Learning Market\" Study Describes how the technology industry is"
-    publishedDateTime: 2023-03-30T06:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-top-players-by-2031-2023-03-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-  - title: "Facial Recognition Market 2023: Growing Opportunities by 2028"
-    excerpt: "The global \"Facial Recognition Market\" research study presents an in-depth analysis of the market's revenue, size,"
-    publishedDateTime: 2023-03-29T04:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-growing-opportunities-by-2028-2023-03-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-  - title: "Top \"Image Recognition in Retail Market\" Future 2023-2031, With 113 Pages"
-    excerpt: "Report Highlights with 113 pages: -\"The global Image Recognition in Retail market size was valued at USD 1743.25 million"
-    publishedDateTime: 2023-03-29T01:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/top-image-recognition-in-retail-market-future-2023-2031-with-113-pages-2023-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
   - title: "Voice and Speech Recognition Market Trends and Challenges 2023 Industry Demand, Top Players Strategy, Size, Share and Forecast Report till 2031"
     excerpt: "Mar 29, 2023 (Alliance News via COMTEX) -- Global Voice and Speech Recognition Market Status, Trends and COVID-19 Impact Report 2021, Covid 19 Outbreak Impact research report added by Report Ocean, is an in-depth analysis of market characteristics ..."
     publishedDateTime: 2023-03-29T14:14:00Z
@@ -105,34 +64,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Emotion Detection and Recognition Market to surpass US$ 40.5 Billion by 2030, Says Coherent Market Insights (CMI)"
-    excerpt: "On the basis of software and services, the market is segmented into facial recognition, speech and voice recognition, and biosensing. The facial recognition segment is expected to dominate the global market over the forecast period, towing to increasing ..."
-    publishedDateTime: 2023-03-27T13:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31511105/emotion-detection-and-recognition-market-to-surpass-us-40-5-billion-by-2030-says-coherent-market-i"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 5
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Electric Vehicle Market To Reach $823.75 Billion By 2030 With Development Of Self-Driving Electric Vehicle Technology"
-    excerpt: "Furthermore, factors such as technological advancements, proactive government initiatives and development of self-driving electric vehicle technology are expected to create ample opportunities for the key players operating in the electric vehicle market."
-    publishedDateTime: 2023-03-28T05:22:00Z
-    webUrl: "https://menafn.com/1105877883/Electric-Vehicle-Market-To-Reach-82375-Billion-By-2030-With-Development-Of-Self-Driving-Electric-Vehicle-Technology"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 1
-    images:
-      - url: "https://menafn.com/updates/pr/2023-03/28/EP_3d0c1image_story.jpeg"
-        width: 890
-        height: 466
         isCached: true
 
 secured: "7H6GJEzAczpAv7PUtHtova4yQ1hi799s/1AGlt8LNf0q3OZ1VTizeyj2BsOnc9hly0jmexqiLa9snJvKN6J8sBslq8VjX8ydm0KkiYf3hYI1sCHYTnCuWPXuKxRqYzEsuAhQIubIrb9ayAHgSb8aOB5GbjkBzrTYYdrLyxeOe4uO9Bz0hy0DgmxlnjRRoWRHpRjt8zY6Ni7sW/8NZcFS0vqZK6nNLppGl3Doc4VhDAnkFubqTL0e9Dmll/ua27uMf5FCrI93kuMGZgmP35Zdmo1b251gLi9EOBtlxBraMLDDHopWTlxJmZdv8dk2GPJc5IOGWXCYkUAV8ynVGHbANB6a2HEsrIbwnnIbCa5UFwY=;DqwGb1XgsWgZsrN2j2SpJA=="

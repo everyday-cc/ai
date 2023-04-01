@@ -29,84 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2023-A Detailed Analysis till 2028"
-    excerpt: "Mar 27, 2023 (The Expresswire) -- The report features the size of the global \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market” in 2023, along with a detailed profile of the key players. These players include [3M (Minnesota ..."
-    publishedDateTime: 2023-03-27T12:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2023-a-detailed-analysis-till-2028-2023-03-27"
+  - title: "Global Artificial Intelligence (AI) in Healthcare Market [2023-2030] | The Future of Industry a Look at the Next Decade of Growth"
+    excerpt: "Artificial intelligence in healthcare is an overarching term used to describe the use of machine-learning algorithms and software, or artificial intelligence (AI), to mimic human cognition in the ..."
+    publishedDateTime: 2023-03-29T04:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-2023-2030-the-future-of-industry-a-look-at-the-next-decade-of-growth-2023-03-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 98
+    quality: 70
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) in Healthcare Market by 2031"
-    excerpt: "The \"Natural Language Processing (NLP) in Healthcare Market\" study describes how the technology industry is evolving"
-    publishedDateTime: 2023-03-29T19:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-by-2031-2023-03-29"
+  - title: "2023 Computer Vision System Market Size, Growth | Global Industry Trends [2029]"
+    excerpt: "Mar 27, 2023 (The Expresswire) -- [116+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Computer Vision System Market” Size 2023 Key players Profiled in the ..."
+    publishedDateTime: 2023-03-27T18:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-system-market-size-growth-global-industry-trends-2029-2023-03-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 81
-  - title: "Machine Learning as a Service (MLaaS) Market 2023: Growing Opportunities by 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- The global \"Machine Learning as a Service (MLaaS) Market\" research study presents an in-depth analysis of the market's revenue, size ..."
-    publishedDateTime: 2023-03-27T21:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2023-growing-opportunities-by-2028-2023-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 79
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing (NLP) Market Top Players by 2031"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 29, 2023 (The Expresswire) -- The \"Natural Language Processing (NLP) Market\" study describes how the technology industry is evolving and how major and emerging players in ..."
-    publishedDateTime: 2023-03-30T03:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-top-players-by-2031-2023-03-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-  - title: "Natural Language Processing Market 2023: Growing Opportunities by 2028"
-    excerpt: "The global \"Natural Language Processing Market\" research study presents an in-depth analysis of the market's revenue,"
-    publishedDateTime: 2023-03-29T05:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2023-growing-opportunities-by-2028-2023-03-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-  - title: "Self-Driving Vehicle Testing Services Market Current Scenario Analysis Report till 2029"
-    excerpt: "Mar 29, 2023 (The Expresswire) -- Absolutereports.com has conducted research titled \"Self-Driving Vehicle Testing Services Market\" for the years 2023 to 2029, which presents a detailed analysis of market dynamics and trends that will shape the future of ..."
-    publishedDateTime: 2023-03-29T22:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicle-testing-services-market-current-scenario-analysis-report-till-2029-2023-03-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural language processing (NLP) Market Analysis Geography Trends, Demand and Forecasts 2030| Apple Incorporation, Dolbey Systems, Google"
-    excerpt: "Mar 28, 2023 (Heraldkeepers) -- New Jersey, United State: Infinity Business Insights has announced the release of its latest report on Natural language processing (NLP) Market. It provides an in-depth analysis of the drivers, restraints, market dynamics ..."
-    publishedDateTime: 2023-03-28T12:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-geography-trends-demand-and-forecasts-2030-apple-incorporation-dolbey-systems-google-2023-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
+    quality: 45
 
 secured: "2n+4CGIuxEF/SAb7S2aBwaXsxI3XOKGexXEdpTTpOE4Lqapz+8i/NxuIb4HeY28Wa2QyRpTutNJrKao/d8fKdFsoEONtGN9nEdqkW+TE9FPgQ1VgF6w3j2Ey+pKDLdPVV0eLKMC+UdsHdLlejs8yLWY/F/jiePtO3nwEPNpFwNdV83cFAvuS7TwGyFF6iLgCbE1yvIpmpJtDWRdDMg6nX9o/SSmbLZoNY7uSwGodYs69kUSrYD0w0JaaYK84kHCJUEvYI9fLA9EGyc1w+xRv8F3cfNReGxUxuFXcFAeA/3PbchmP1ZiGA0v3CHcShqqm8LLofXs2ak2hZnU6QQ2OT3PjdSws5pIOB6TuM68KiSU=;m804zxxoCCJ6FhbK8Oo7pQ=="
 ---

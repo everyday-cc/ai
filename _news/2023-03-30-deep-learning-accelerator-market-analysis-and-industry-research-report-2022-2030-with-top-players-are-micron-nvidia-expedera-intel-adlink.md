@@ -37,20 +37,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "High Speed Computer Vision Systems Market Size 2023: Share, Technology, Growth, Opportunities, Insight 2030 | Basler AG, Cognex, Datalogic, FLIR"
-    excerpt: "Mar 28, 2023 (Heraldkeepers) -- United States – The market research carried out in this large scale High Speed Computer Vision Systems market report succors clients to forecast investment in an emerging market, expansion of market share or success of a ..."
-    publishedDateTime: 2023-03-28T17:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/high-speed-computer-vision-systems-market-size-2023-share-technology-growth-opportunities-insight-2030-basler-ag-cognex-datalogic-flir-2023-03-28"
+  - title: "Natural language processing (NLP) Market Analysis Geography Trends, Demand and Forecasts 2030| Apple Incorporation, Dolbey Systems, Google"
+    excerpt: "Mar 28, 2023 (Heraldkeepers) -- New Jersey, United State: Infinity Business Insights has announced the release of its latest report on Natural language processing (NLP) Market. It provides an in-depth analysis of the drivers, restraints, market dynamics ..."
+    publishedDateTime: 2023-03-28T12:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-geography-trends-demand-and-forecasts-2030-apple-incorporation-dolbey-systems-google-2023-03-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 30
 
 secured: "/PL6D0oi20o/Mqd/yiw1IZd3IK1TvZm4yJph69eg7U5Sn3gLRH0vinMZUgDf0PwsLPj45YqrEn0m7lBOmJTYJNL9LP9VfU2zsPGk9T0Uke7tcOHaX1NFC53djpn7sV1QYBdl8foY7D7LPhkN88mHP1101Xb3+nMcnLTN0G2+hV09gNR/wdvJUqhV7hr9J2hKVHgYftZrn9uJR85cWNoMeQJRpjICi34/QZtVmWmliridTwe1gIPGysFOBcdA5+CV1imtfLabU+7LnCPJJxKNbhGhFVPK1eXkIwkIyP/AAMAnPrjJ4J4qDP2z/ym8odbvQg4T4S8Cge/Vy88wgP+2/hmq5JI4E3MrsjEzU277h8E=;w1NDQMkatsBke8+jNhll5A=="
 ---

@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Machine Learning as a Service (MLaaS) Market 2023: Growing Opportunities by 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- The global \"Machine Learning as a Service (MLaaS) Market\" research study presents an in-depth analysis of the market's revenue, size ..."
+    publishedDateTime: 2023-03-27T21:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2023-growing-opportunities-by-2028-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 79
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI (Artificial Intelligence) Image Recognition Market 2023 Expected to Reach Significant Rate by 2031"
     excerpt: "Image Recognition Market\" study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short-term challenges they face. One major attraction about AI (Artificial ..."
     publishedDateTime: 2023-03-27T21:40:00Z
@@ -37,15 +51,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In RegTech Market: Recent Growing Trend 2031"
-    excerpt: "The \"Artificial Intelligence In RegTech Market\" study describes how the technology industry is evolving and how major"
-    publishedDateTime: 2023-03-27T16:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-recent-growing-trend-2031-2023-03-27"
+  - title: "Deep Learning Chipsets Market Insight 2023: Driving Factors by Manufacturers"
+    excerpt: "The \"Deep Learning Chipset Market\" analysis [UPDATED REPORT] 2023 provides an assessment of a specific industry, niche,"
+    publishedDateTime: 2023-03-28T04:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipsets-market-insight-2023-driving-factors-by-manufacturers-2023-03-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Medicine Market 2023: Growing Opportunities by 2028"
+    excerpt: "It covers industry segments by Types [Hardware, Software, Service, ] and Applications [Healthcare Provider, Pharmaceutical and Biotechnology Company, Patient, Payer]. The report also provides a comprehensive outlook on the Artificial Intelligence in ..."
+    publishedDateTime: 2023-03-27T20:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-2023-growing-opportunities-by-2028-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -65,74 +93,93 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence & Advanced Machine Learning Market Top Players By 2031"
-    excerpt: "The \"Artificial Intelligence and Advanced Machine Learning Market\" Study Describes how the technology industry is"
-    publishedDateTime: 2023-03-30T06:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-top-players-by-2031-2023-03-30"
+  - title: "Artificial Intelligence in Platform as a Service (PaaS) Market Report | Global Forecast From 2023 To 2030"
+    excerpt: "Market Updates(360marketupdates.com) published a new research report on Artificial Intelligence in Platform as"
+    publishedDateTime: 2023-03-28T11:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-platform-as-a-service-paas-market-report-global-forecast-from-2023-to-2030-2023-03-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
-  - title: "Speech Recognition Market New Ready Report Analysis 2028"
-    excerpt: "Top “ Speech Recognition Market ” Size 2023 Key players Profiled in the Report are [VoiceVault, Microsoft, Agnitio, ReadSpeaker Holding, LumenVox, Raytheon BBN Technologies, ATandT, Fluent, Iflytek, Nuance,"
-    publishedDateTime: 2023-03-29T04:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-new-ready-report-analysis-2028-2023-03-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-  - title: "Top \"Image Recognition in Retail Market\" Future 2023-2031, With 113 Pages"
-    excerpt: "Report Highlights with 113 pages: -\"The global Image Recognition in Retail market size was valued at USD 1743.25 million"
-    publishedDateTime: 2023-03-29T01:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/top-image-recognition-in-retail-market-future-2023-2031-with-113-pages-2023-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-  - title: "Voice and Speech Recognition Market Trends and Challenges 2023 Industry Demand, Top Players Strategy, Size, Share and Forecast Report till 2031"
-    excerpt: "Mar 29, 2023 (Alliance News via COMTEX) -- Global Voice and Speech Recognition Market Status, Trends and COVID-19 Impact Report 2021, Covid 19 Outbreak Impact research report added by Report Ocean, is an in-depth analysis of market characteristics ..."
-    publishedDateTime: 2023-03-29T14:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-trends-and-challenges-2023-industry-demand-top-players-strategy-size-share-and-forecast-report-till-2031-2023-03-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Emotion Detection and Recognition Market to surpass US$ 40.5 Billion by 2030, Says Coherent Market Insights (CMI)"
-    excerpt: "On the basis of software and services, the market is segmented into facial recognition, speech and voice recognition, and biosensing. The facial recognition segment is expected to dominate the global market over the forecast period, towing to increasing ..."
-    publishedDateTime: 2023-03-27T13:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31511105/emotion-detection-and-recognition-market-to-surpass-us-40-5-billion-by-2030-says-coherent-market-i"
+  - title: "Natural Language Processing Market 2023: Growing Opportunities by 2028"
+    excerpt: "The global \"Natural Language Processing Market\" research study presents an in-depth analysis of the market's revenue,"
+    publishedDateTime: 2023-03-29T05:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2023-growing-opportunities-by-2028-2023-03-29"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 5
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+  - title: "Examining the Artificial Intelligence and Cognitive Computing Market from 2023-Opportunities and Challenges Ahead"
+    excerpt: "Detailed Table of Content of Global Artificial Intelligence and Cognitive Computing Market Research Report 2023 1 Artificial Intelligence and Cognitive Computing Market Overview 1.1 Product Overview and Scope of Artificial Intelligence and Cognitive ..."
+    publishedDateTime: 2023-03-28T10:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/examining-the-artificial-intelligence-and-cognitive-computing-market-from-2023-opportunities-and-challenges-ahead-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Electric Vehicle Market To Reach $823.75 Billion By 2030 With Development Of Self-Driving Electric Vehicle Technology"
-    excerpt: "Furthermore, factors such as technological advancements, proactive government initiatives and development of self-driving electric vehicle technology are expected to create ample opportunities for the key players operating in the electric vehicle market."
-    publishedDateTime: 2023-03-28T05:22:00Z
-    webUrl: "https://menafn.com/1105877883/Electric-Vehicle-Market-To-Reach-82375-Billion-By-2030-With-Development-Of-Self-Driving-Electric-Vehicle-Technology"
+  - title: "Self-Driving Vehicle Testing Services Market Current Scenario Analysis Report till 2029"
+    excerpt: "Mar 29, 2023 (The Expresswire) -- Absolutereports.com has conducted research titled \"Self-Driving Vehicle Testing Services Market\" for the years 2023 to 2029, which presents a detailed analysis of market dynamics and trends that will shape the future of ..."
+    publishedDateTime: 2023-03-29T22:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicle-testing-services-market-current-scenario-analysis-report-till-2029-2023-03-29"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 1
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
-      - url: "https://menafn.com/updates/pr/2023-03/28/EP_3d0c1image_story.jpeg"
-        width: 890
-        height: 466
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Speech and Voice Recognition Technology Market Size 2023 to 2026 Size and Share Survey Report"
+    excerpt: "Global \"Speech and Voice Recognition Technology Market\" report provides a thorough examination of the present and projected situation of the sector. The research offers useful information about, among other things, the market's size, share, growth ..."
+    publishedDateTime: 2023-03-29T04:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-technology-market-size-2023-to-2026-size-and-share-survey-report-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023-2026 Cognitive Computing Market Size Latest Report by Absolute Reports"
+    excerpt: "Mar 29, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Cognitive Computing Market\""
+    publishedDateTime: 2023-03-29T10:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2026-cognitive-computing-market-size-latest-report-by-absolute-reports-2023-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+  - title: "High Speed Computer Vision Systems Market Size 2023: Share, Technology, Growth, Opportunities, Insight 2030 | Basler AG, Cognex, Datalogic, FLIR"
+    excerpt: "Mar 28, 2023 (Heraldkeepers) -- United States – The market research carried out in this large scale High Speed Computer Vision Systems market report succors clients to forecast investment in an emerging market, expansion of market share or success of a ..."
+    publishedDateTime: 2023-03-28T17:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/high-speed-computer-vision-systems-market-size-2023-share-technology-growth-opportunities-insight-2030-basler-ag-cognex-datalogic-flir-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "UZFzdDDpAjZSfPKYXZLcqMZC12E1ZvWJ5TyM5KeRdNhJHDKcK9WhSjrdNEoPSZzXA0n/8Q0zyogb3Qh5hUZIlKejDSWXUUVLJuK6H+s4OXIejeq7dsNQ6c2HG9Q8PLOPj3T8xwEA7pbPcD8hfYsc3kX82moAI2e6R9f0TLRGISiHC046Tilz7LyNHBJ6Ba5XjEJi41mgn1qWw7FxMR+eSTx1IVtDt0rjqOqF2PsxrnHuvjfidFuUa00fp7biAIJLGqvNLvjhZH0suzYaSKEPq5O/1AMEjP7IOODd0Cgdd9z4bKR9Hqq/hv3qWByyEPT2FHJAxgTpfkZiJa/2lor4OoMmu2lRMtk0xyIS3s9mnsQ=;Wq+bSFbs40o/vCJgrVsW6w=="

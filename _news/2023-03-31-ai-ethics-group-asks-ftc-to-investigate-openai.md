@@ -49,15 +49,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Zoom adds generative AI to Zoom IQ; partners with OpenAI"
-    excerpt: "Zoom announced a new host of AI-backed capabilities for its “smart companion” tool, doubling down on its CEO’s promise of helping customers benefit from the technology."
-    publishedDateTime: 2023-03-27T12:46:00Z
-    webUrl: "https://www.computerworld.com/article/3691778/zoom-adds-generative-ai-to-zoom-iq-partners-with-openai.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 17
 
 secured: "dz/b2raCBE0JgEp6ZwSNHT9D1X0fC9bO4IDV1IuMZTETrpw+iIYecpXPxP+nE6bTAQG/UBDgaVL42aUu4udQXaFAQZJp/UNC0lUCCLFQGxMKXfcVBxKnFvrlFvcAMxgo5gbz2NhioJNf0V+C3oo85nhH8CmvrqSiz6R3vWL013wusN9pvBioFEW0a/Z6T/WERbAqukubXPhzCeJ58koAycthYurIUOfrAIV8676ju3R/f+TSXoufWXyNIAY/ILc2S8gHxY9HXK4XpXLUtV5EAPLMUncf+f9aL92Iq7gzAl4xyVrlpXeVtlklW6XpBEYFAtwrbSSuKhD0XWJe7cTU9hPDGPmr4EhdsjyAIbjwZsXK0lg20WGuq5g40TfMYFKviTi6di8D9YBLfzfjJ3HTqAMQq6DvdYv7tWkr5gTWNpgT4ec/VbUxaKOEaMJD6MCGrkQq0VK7zk8ylaKqgG/8vON53L8YfiF77IcV8YTlMPmdPP1PP8IDV0r5JJ3MHsaJst1OJ2AK9pB/Q/DheBFPWA==;4Mks6srlEv2O9JbLMFBspw=="
 ---

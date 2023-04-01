@@ -305,6 +305,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Preview release of ChatGPT shows potential of artificial intelligence"
+    excerpt: "ChatGPT, released as a free prototype by the research laboratory OpenAI last November, is a powerful artificial intelligence technology with socially transformative potential that is being used under capitalism to eliminate jobs,"
+    publishedDateTime: 2023-04-01T04:14:00Z
+    webUrl: "https://www.wsws.org/en/articles/2023/04/01/hsrd-a01.html"
+    type: article
+    provider:
+      name: World Socialist Web Site
+      domain: wsws.org
+    quality: 39
+    images:
+      - url: "https://www.wsws.org/asset/76fbb761-071f-4bab-b074-271bdf3985b8?rendition=1600x900"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "How ChatGPT is Transforming Enterprise Search with Natural Language Processing"
     excerpt: "ChatGPT solution that companies must consider to achieve their long-term objectives to increase customer satisfaction."
     publishedDateTime: 2023-03-30T15:28:00Z
@@ -336,20 +350,6 @@ related:
       name: Patch
       domain: patch.com
     quality: 28
-  - title: "Here’s How Nvidia Is Powering The ChatGPT Frenzy"
-    excerpt: "ChatGPT owes a large part of its capabilities to the powerful computing hardware developed by Nvidia. In this article, we'll"
-    publishedDateTime: 2023-03-27T11:40:00Z
-    webUrl: "https://www.techbooky.com/heres-how-nvidia-is-powering-the-chatgpt-frenzy/"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 24
-    images:
-      - url: "https://i0.wp.com/www.techbooky.com/wp-content/uploads/2023/03/chatgpt-nvidia.webp?fit=1600%2C900&ssl=1"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Blocktrace Builds AI Chatbot to Simplify Blockchain Transaction Tracking"
     excerpt: "Launched in 2018 by software engineer Shaun MaGruder, whose background includes work as the head of training at blockchain forensics firm, Chainalysis, Blocktrace is an AI-fortified blockchain forensic and analytical service provider."
     publishedDateTime: 2023-03-30T02:54:00Z
@@ -359,15 +359,6 @@ related:
       name: decrypt
       domain: decrypt.co
     quality: 20
-  - title: "ChatGPT – Can this AI chatbot replace human jobs?"
-    excerpt: "First things first, the debate should be on whether ChatGPT can replace job roles and not jobs. After it was launched in the market, we’ve already assessed its capabilities and at its present state, it is rightly triggering a debate on whether certain job roles are vulnerable to replacement."
-    publishedDateTime: 2023-03-27T11:10:00Z
-    webUrl: "https://www.techopedia.com/chatgpt-can-this-ai-chatbot-replace-human-jobsl"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 19
   - title: "Avochato Announces Integration with ChatGPT-4 by OpenAI"
     excerpt: "With the integration of ChatGPT-, users of the Avochato platform will have the ability to leverage this technology to respond to customer inquiries with increased accuracy and efficiency, providing a more seamless and intuitive communication experience."
     publishedDateTime: 2023-03-30T18:31:00Z
@@ -386,15 +377,6 @@ related:
       name: BBC
       domain: bbc.co.uk
     quality: 17
-  - title: "How watermarks can help protect against fraud with generative AI like ChatGPT"
-    excerpt: "There are reasonable and technologically feasible interventions that can be used to help mitigate abuses with generative AI like ChatGPT and DALL-E."
-    publishedDateTime: 2023-03-27T13:00:00Z
-    webUrl: "https://www.fastcompany.com/90871934/how-watermarks-can-help-protect-against-fraud-with-generative-ai-like-chatgpt"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 14
 
 secured: "0nVltcYdbozHTB71N+LxV8dqCyzCHo7s0P212EGfLKOXu8S/5VS4YEcDvatBG2YqNl9RADNnycNglL7yAAuIWYk0o/q/vlW1cNh0yk1wkGGpXWEaBw4S6/PFF+o8PUx3nRPu+aDkXqXfkN/7GNb9odaVW4q5LaKvxWICcY4c7QGRmGiB1eu8N4MTN9G9G6tdtHCzl4s0kwuDpG+0A7ICqzJOBNX0Ax8OJ4b91n1y5rrEYLmOPIX8Yff8qZmROro83ihq7GWf3Aggqd8ZhAJlkOLYdxHDbJ9Tij7o0pVvFGRrQ6U8m0ES3PIWitItX/qxoPyQgDsPOdRTA5tzgcshEtnzsTM9kfNnpH5uglo7AXc=;OKj84di+7KifJRxE19qofg=="
 ---

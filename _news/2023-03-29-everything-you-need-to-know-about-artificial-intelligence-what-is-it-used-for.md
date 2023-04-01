@@ -292,6 +292,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Preview release of ChatGPT shows potential of artificial intelligence"
+    excerpt: "ChatGPT, released as a free prototype by the research laboratory OpenAI last November, is a powerful artificial intelligence technology with socially transformative potential that is being used under capitalism to eliminate jobs,"
+    publishedDateTime: 2023-04-01T04:14:00Z
+    webUrl: "https://www.wsws.org/en/articles/2023/04/01/hsrd-a01.html"
+    type: article
+    provider:
+      name: World Socialist Web Site
+      domain: wsws.org
+    quality: 39
+    images:
+      - url: "https://www.wsws.org/asset/76fbb761-071f-4bab-b074-271bdf3985b8?rendition=1600x900"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "How ChatGPT is Transforming Enterprise Search with Natural Language Processing"
     excerpt: "ChatGPT solution that companies must consider to achieve their long-term objectives to increase customer satisfaction."
     publishedDateTime: 2023-03-30T15:28:00Z
@@ -323,20 +337,6 @@ related:
       name: Patch
       domain: patch.com
     quality: 28
-  - title: "Here’s How Nvidia Is Powering The ChatGPT Frenzy"
-    excerpt: "ChatGPT owes a large part of its capabilities to the powerful computing hardware developed by Nvidia. In this article, we'll"
-    publishedDateTime: 2023-03-27T11:40:00Z
-    webUrl: "https://www.techbooky.com/heres-how-nvidia-is-powering-the-chatgpt-frenzy/"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 24
-    images:
-      - url: "https://i0.wp.com/www.techbooky.com/wp-content/uploads/2023/03/chatgpt-nvidia.webp?fit=1600%2C900&ssl=1"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Mimicking Human Language And Writing, ChatGPT Is Hailed As Next Great Gold Rush. But Italy Just Banned It"
     excerpt: "In a separate AI development, Bloomberg announced the creation of a new large-scale generative AI model specifically trained to support natural language processing (NLP) tasks within the financial industry. BloombergGPT, as Bloomberg is calling it ..."
     publishedDateTime: 2023-03-31T16:52:00Z
@@ -360,15 +360,6 @@ related:
       name: decrypt
       domain: decrypt.co
     quality: 20
-  - title: "ChatGPT – Can this AI chatbot replace human jobs?"
-    excerpt: "First things first, the debate should be on whether ChatGPT can replace job roles and not jobs. After it was launched in the market, we’ve already assessed its capabilities and at its present state, it is rightly triggering a debate on whether certain job roles are vulnerable to replacement."
-    publishedDateTime: 2023-03-27T11:10:00Z
-    webUrl: "https://www.techopedia.com/chatgpt-can-this-ai-chatbot-replace-human-jobsl"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 19
   - title: "Avochato Announces Integration with ChatGPT-4 by OpenAI"
     excerpt: "With the integration of ChatGPT-, users of the Avochato platform will have the ability to leverage this technology to respond to customer inquiries with increased accuracy and efficiency, providing a more seamless and intuitive communication experience."
     publishedDateTime: 2023-03-30T18:31:00Z
@@ -387,15 +378,6 @@ related:
       name: BBC
       domain: bbc.co.uk
     quality: 17
-  - title: "How watermarks can help protect against fraud with generative AI like ChatGPT"
-    excerpt: "There are reasonable and technologically feasible interventions that can be used to help mitigate abuses with generative AI like ChatGPT and DALL-E."
-    publishedDateTime: 2023-03-27T13:00:00Z
-    webUrl: "https://www.fastcompany.com/90871934/how-watermarks-can-help-protect-against-fraud-with-generative-ai-like-chatgpt"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 14
 
 secured: "GamOJGMzP/aNhy3inmZs+gWhctA/dHUoJfF+OcmHju0cN4IK6FD6wpjQUFT0Q6SD0tTzxgxh4+axn9XfEaXY34fd0gu4svz4VbI6DYduWLlHXLJK6Beq4yN9tEAI1gMrIhOwMvz2UYJace6gkx083rg2WxMBgF6AvJuMkNINjugwrKXS+Y3KUjCvRoP7CeaDeQ8Asql3X5acYSPa+nZCvWrtp2VoVsDBsR9AnJ24CyH+HhbErRs/ho72OvV1rjv0GyT8QNuY/RAVnhy25R12ybd4mB1LuL2dpaVYEP4gH3Hy1byI5PBie38+MtKT0Guj3TuOq7DEQMD18gGhj2X2dALEDTi6r7ePWsKINXSZvyQ=;RGCJ+oicThpkzsJgsIC5Ww=="
 ---
