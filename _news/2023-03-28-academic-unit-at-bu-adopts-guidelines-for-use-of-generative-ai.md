@@ -81,15 +81,6 @@ related:
         width: 1500
         height: 800
         isCached: true
-  - title: "Nvidia shows new research on using AI to improve chip designs"
-    excerpt: "March 27 (Reuters) - Nvidia Corp (NVDA.O), the world's leading designer of computer chips used in creating artificial intelligence, on Monday showed new research that explains how AI can be used ..."
-    publishedDateTime: 2023-03-28T00:47:00Z
-    webUrl: "https://www.reuters.com/technology/nvidia-shows-new-research-using-ai-improve-chip-designs-2023-03-28/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 64
   - title: "Nvidia Is More Than AI Chips. The Stock Has Software Upside, Says Analyst."
     excerpt: "Piper Sandler analyst Harsh Kumar increased his price target on Nvidia stock to $300 from $275 and reaffirmed his Overweight rating."
     publishedDateTime: 2023-03-29T18:59:00Z

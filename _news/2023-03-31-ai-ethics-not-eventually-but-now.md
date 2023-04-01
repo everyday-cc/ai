@@ -74,6 +74,20 @@ related:
         width: 6000
         height: 4000
         isCached: true
+  - title: "Using artificial intelligence for diabetes health coaching"
+    excerpt: "The recipe for a healthy lifestyle is to eat well, stay active, reduce stress and take medication as prescribed. For someone with type 2 diabetes, small changes in any of those categories can have big impacts – positive or negative."
+    publishedDateTime: 2023-03-30T05:38:00Z
+    webUrl: "https://hospitalnews.com/using-artificial-intelligence-for-diabetes-health-coaching/"
+    type: article
+    provider:
+      name: hospitalnews
+      domain: hospitalnews.com
+    quality: 39
+    images:
+      - url: "https://hospitalnews.com/wp-content/uploads/2023/03/diabetes-AI.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "AI and the Future of Health"
     excerpt: "Read about some of our research team’s work to make healthcare more data-driven, predictive, and precise – ultimately, empowering every person on the planet to live a healthier future."
     publishedDateTime: 2023-03-30T18:43:00Z
@@ -108,8 +122,8 @@ related:
     quality: 12
   - title: "CSI and Hawk AI Partner To Release AI-Driven Solutions for Fraud and Anti-Money Laundering"
     excerpt: "CSI, a leading provider of end-to-end fintech and regtech solutions, announced today it has partnered with Hawk AI, a leading global provider of anti-money laundering (AML) and fraud prevention technology for banks and payment companies,"
-    publishedDateTime: 2023-03-28T17:02:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/03/28/9784224.htm"
+    publishedDateTime: 2023-03-28T18:40:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/28/9784224.htm"
     type: article
     provider:
       name: TMCnet

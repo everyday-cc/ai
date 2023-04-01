@@ -3,20 +3,18 @@ category: news
 title: "Laura Kuenssberg: Should we shut down AI?"
 excerpt: "Should we worry about artificial intelligence, or embrace the possibilities it brings, asks Laura Kuenssberg."
 publishedDateTime: 2023-04-01T14:51:00Z
-originalUrl: "https://www.bbc.com/news/uk-65147841?at_campaign_type=owned&at_link_id=07593BAC-D09D-11ED-9209-27D04744363C&at_ptr_name=twitter&at_link_type=web_link&at_link_origin=BBCTech&at_format=link&at_bbc_team=editorial"
-webUrl: "https://www.bbc.com/news/uk-65147841?at_campaign_type=owned&at_link_id=07593BAC-D09D-11ED-9209-27D04744363C&at_ptr_name=twitter&at_link_type=web_link&at_link_origin=BBCTech&at_format=link&at_bbc_team=editorial"
+originalUrl: "https://www.bbc.co.uk/news/uk-65147841?at_medium=RSS&at_campaign=KARANGA"
+webUrl: "https://www.bbc.co.uk/news/uk-65147841?at_medium=RSS&at_campaign=KARANGA"
+ampWebUrl: "https://www.bbc.co.uk/news/uk-65147841.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-65147841.amp"
 type: article
-quality: 67
-heat: 67
+quality: 57
+heat: 57
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -27,6 +25,6 @@ images:
     height: 576
     isCached: true
 
-secured: "+JmnXydhWHQrDVJCd8TQz12mQIIWmQp0Z9AAybgpboLIVRtXSLNf0Q0IpKssL78uh/+RlCTWlY9qy9nI+cn60Ml+ptbLcfnxoCrZW2yhoyS9n5XTnwjfD61WATIkmLcRZ2EgtkijwJmCPQuWcQYRVHnpxYnRPb1QYMQKZbZP6znKCHdhpRScdE6UGjlI6DeRU8Zu8LXL+DgDjzKq/k3ECV8f/VUb55blpcS/BGYMpvXSBgLXrD8LmkfcGIIct+GDCyc/JFaY64VMH4PBkRQ//Hxm/hkrYgEXRCHS/MHbxdldGRwgiRRAXBp1Ab61kSHG45USwbdfGSE/y0r9N0tUaM5BPI9edh1z6AIIHJpaLkU=;MRq4OBgh2b+pZ61F7ukVaQ=="
+secured: "tWr/2Mcof2LAWcQiC8CNcMIGhPbowETzPUpOf8kyL9sRHjuNDOOWj3rISPDki72ph0MxPctOxvcz5qTLRdLRytpvD47QzGzBMnVDu1XZmKDs5ZNrk54nzbA5vNW8zjqbkq+/CruKFmBvnf2vHWZfHCyiIQaLcsQxiu8vyKlpH3OUEkOB8kSRhFZwdf/9dmcAR15VASkDhMpnRGfusVc0Aa+8B9UlruWJWT4/OZcAzX2GLLr3f8tYeKVBEEIpZqP6ITQVP80wxXX2O9yxASCNgFlCtIIGvrM1hmdCKZL6RTQE8nT23IGUG8pSLicTzm7u1Z/EWbX8k/p1SEqrsc34YJNGsnLuLXBqg78+m89Vck0=;evtyVQbDjaJI+3PRPFV5fg=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-03-24-deep-learning-model-ids-area-subscore-of-palmoplantar-pustulosis.md",
+      "title": "Deep learning model IDs area subscore of palmoplantar pustulosis",
+      "excerpt": "A deep learning model can accurately evaluate the area subscore of the Palmoplantar Pustulosis Area and Severity Index (PPPASI), according to a study published online Feb. 23 in the Journal of ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-03-deep-ids-area-subscore-palmoplantar.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-03-deep-ids-area-subscore-palmoplantar.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/deep-learning-model-id.jpg",
+          "width": 800,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-03-deep-ids-area-subscore-palmoplantar.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-03-deep-ids-area-subscore-palmoplantar.amp",
+      "publishedDateTime": "2023-03-23T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-23-for-smarter-robots-just-add-humans.md",
       "title": "For Smarter Robots, Just Add Humans",
       "excerpt": "OpenAI’s COO and manager of the OpenAI Startup Fund says. For humans to help robots with teleoperation, AI might also need to be developed to ease the collaboration between person and machine. Chelsea Finn, an assistant professor at UC Berkeley ...",
@@ -1192,40 +1235,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-spectrum-labs-ai-now-available-in-aws-marketplace.md",
-      "title": "Spectrum Labs AI now available in AWS Marketplace",
-      "excerpt": "Spectrum Labs, a leader in Behavioral AI whose tools scale content moderation of online platforms, today announced its enterprise product launch in AWS Marketplace, a digital catalog with thousands of software listings from independent software vendors (ISVs) that make it easy to find,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/03/23/9782692.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/03/23/9782692.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

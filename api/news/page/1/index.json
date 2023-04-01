@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-01-chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training.md",
+      "title": "ChatGPT neural network said it uses Moskovsky Komsomolets website for training",
+      "excerpt": "Chatbot with artificial intelligence ChatGPT said it used, among other things, the Moskovsky Komsomolets website for its training. In addition to MK, the",
+      "sourceUrl": null,
+      "webUrl": "https://www.easternherald.com/2023/04/01/chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training/",
+      "originalUrl": "https://www.easternherald.com/2023/04/01/chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.easternherald.com/cdn-cgi/image/width=550,height=412,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2023/04/ChatGPT-neural-network-said-it-uses-Moskovsky-Komsomolets-website-for.jpg",
+          "width": 550,
+          "height": 412,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.easternherald.com/2023/04/01/chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training/?amp=1",
+      "cdnAmpWebUrl": "https://www-easternherald-com.cdn.ampproject.org/c/s/www.easternherald.com/2023/04/01/chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training/?amp=1",
+      "publishedDateTime": "2023-04-01T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Eastern Herald",
+        "domain": "easternherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-01-who-owns-the-rights-to-ai-generated-art.md",
       "title": "Who owns the rights to AI-generated art?",
       "excerpt": "News Agency Who owns the rights to AI-generated art? Posted . At a time when new artificial-intelligence programs like Midjourney and Stable Diffusion seem poised to transform the",
@@ -105,7 +148,7 @@
       "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-04-01/why-the-ai-economy-might-be-better-for-everyone-new-economy-saturday",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -208,7 +251,7 @@
       "originalUrl": "https://www.engadget.com/waymo-brings-its-fleet-of-new-self-driving-suvs-to-austin-165720284.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -260,7 +303,7 @@
       "originalUrl": "https://www.foxnews.com/video/6323724862112",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -311,7 +354,7 @@
       "originalUrl": "https://www.engadget.com/watch-us-try-to-break-google-bard-and-bing-ai-153052165.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -355,58 +398,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-01-the-rise-of-ai-taylor-swift.md",
-      "title": "The Rise of AI Taylor Swift",
-      "excerpt": "But AI Taylor Swift’s viral spread on TikTok adds a wrinkle to these dynamics. It’s one thing to debate the ethics of so-called real-person fiction among fans in a siloed corner of the internet, but on such a large and algorithmically engineered ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/technology/archive/2023/03/ai-taylor-swift-fan-generated-deepfakes-misinformation/673596/",
-      "originalUrl": "https://www.theatlantic.com/technology/archive/2023/03/ai-taylor-swift-fan-generated-deepfakes-misinformation/673596/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/bcpkOj1yfdGWiupOdCoLS_4FvxY=/0x41:1917x1039/1200x625/media/img/mt/2023/03/AI_Taylor_4_still/original.jpg",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-31T14:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-01-chatgpts-intelligence-is-zero-but-its-a-revolution-in-usefulness-says-ai-expert.md",
       "title": "ChatGPT's intelligence is zero, but it's a revolution in usefulness, says AI expert",
       "excerpt": "Pascal Kaufmann says the way to measure true artificial intelligence is by its capability for dealing with previously unseen problems.",
@@ -415,7 +406,7 @@
       "originalUrl": "https://www.zdnet.com/article/chatgpts-intelligence-is-zero/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -562,7 +553,7 @@
       "originalUrl": "https://www.infoworld.com/article/3691792/the-ai-tax-on-ai-enabled-applications-in-the-cloud.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -822,7 +813,7 @@
       "originalUrl": "https://electrek.co/2023/03/31/self-driving-ev-charging-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1162,7 +1153,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/31/nvidia-rides-the-generative-ai-wave-at-gtc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 223,
+      "heat": 213,
       "tags": null,
       "images": [
         {

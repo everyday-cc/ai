@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-01-25-more-steps-moderate-physical-activity-cuts-dementia-cognitive-impairment-risk.md",
+      "title": "More steps, moderate physical activity cuts dementia, cognitive impairment risk",
+      "excerpt": "Mild cognitive impairment is an early stage of memory loss or thinking problems that is not as severe as dementias. According to the United States Department of Health and Human Services ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/01/230125085831.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/01/230125085831.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-24T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-24-mlops-provider-domino-data-lab-strikes-distribution-deal-with-td-synnex.md",
       "title": "MLOps Provider Domino Data Lab Strikes Distribution Deal With TD Synnex",
       "excerpt": "Domino Data Lab is partnering with tech distributor and solutions aggregator TD Synnex to bring the company’s MLOps machine learning platform to a wider audience of channel partners and potential customers,",
@@ -1289,49 +1332,6 @@
       "provider": {
         "name": "Webindia 123",
         "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-supernal-to-utilize-microsoft-azure-for-evtol-development.md",
-      "title": "Supernal to Utilize Microsoft Azure for eVTOL Development",
-      "excerpt": "Hyundai’s Supernal recently announced that it is collaborating with Microsoft in development of its electric vertical take-off and landing (eVTOL) aircraft for advanced air mobility. The collaboration aims to advance autonomy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.aviationtoday.com/2023/01/12/supernal-utilize-microsoft-azure-evtol-development/",
-      "originalUrl": "https://www.aviationtoday.com/2023/01/12/supernal-utilize-microsoft-azure-evtol-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aviationtoday.com/wp-content/uploads/2023/01/courtesy-of-microsoft-project-airsim-for-supernal.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-12T12:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Aviation Today",
-        "domain": "aviationtoday.com",
         "images": null,
         "publishers": null,
         "authors": null

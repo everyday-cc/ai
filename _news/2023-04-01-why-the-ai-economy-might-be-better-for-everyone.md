@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2023-04-01/why-the-ai-e
 webUrl: "https://www.bloomberg.com/news/newsletters/2023-04-01/why-the-ai-economy-might-be-better-for-everyone-new-economy-saturday"
 type: article
 quality: 67
-heat: 87
+heat: 88
 published: true
 
 provider:

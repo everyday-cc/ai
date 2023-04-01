@@ -72,20 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AIoT Edge AI Chip Market Facts and Figures by 2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- The AIoT Edge AI Chip Market report provides a comprehensive analysis of the global market, covering both qualitative and quantitative ..."
-    publishedDateTime: 2023-03-27T23:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aiot-edge-ai-chip-market-facts-and-figures-by-2029-2023-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Robotics Market Size From 2023 And Unlimited Opportunities for New Companies"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2023 (The Expresswire) -- Artificial Intelligence Robotics Market Size 2023 | New Report (107 Pages) | Information Technology | In This Reports Artificial ..."
     publishedDateTime: 2023-03-28T10:49:00Z

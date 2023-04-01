@@ -2,9 +2,9 @@
 category: news
 title: "CSI and Hawk AI Partner To Release AI-Driven Solutions for Fraud and Anti-Money Laundering"
 excerpt: "CSI, a leading provider of end-to-end fintech and regtech solutions, announced today it has partnered with Hawk AI, a leading global provider of anti-money laundering (AML) and fraud prevention technology for banks and payment companies,"
-publishedDateTime: 2023-03-28T17:02:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/03/28/9784224.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/03/28/9784224.htm"
+publishedDateTime: 2023-03-28T18:40:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/03/28/9784224.htm"
+webUrl: "https://it.tmcnet.com/news/2023/03/28/9784224.htm"
 type: article
 quality: 9
 heat: -1
@@ -74,6 +74,20 @@ related:
         width: 6000
         height: 4000
         isCached: true
+  - title: "Using artificial intelligence for diabetes health coaching"
+    excerpt: "The recipe for a healthy lifestyle is to eat well, stay active, reduce stress and take medication as prescribed. For someone with type 2 diabetes, small changes in any of those categories can have big impacts – positive or negative."
+    publishedDateTime: 2023-03-30T05:38:00Z
+    webUrl: "https://hospitalnews.com/using-artificial-intelligence-for-diabetes-health-coaching/"
+    type: article
+    provider:
+      name: hospitalnews
+      domain: hospitalnews.com
+    quality: 39
+    images:
+      - url: "https://hospitalnews.com/wp-content/uploads/2023/03/diabetes-AI.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "AI and the Future of Health"
     excerpt: "Read about some of our research team’s work to make healthcare more data-driven, predictive, and precise – ultimately, empowering every person on the planet to live a healthier future."
     publishedDateTime: 2023-03-30T18:43:00Z
@@ -116,6 +130,6 @@ related:
       domain: afaqs.com
     quality: 12
 
-secured: "V9hmALh/UNlviHOkW8wrE9n4CyDshi46OrxWl9SwE5d37S/r5FtcrdmccFDGGzv0zjFzEHv55gSEYCtlwqtsx3yOjRI8oGGDccpX6PUJKSpT6OovIzbS3IMVDAdp1V6IacTdV4UkUjW4VUJuosziqRbOBWSnKvzx2UDMdHIL0GQjFliAVQuZMky7lUYM87KzzUCDMjMJIB8C8DplV+LlSWsp5SDAzizaOTnBm0s18ZvyNUnPZR/Gd+IFnKqPLreto63dXN831/fHdglmSfhxG2LvQXM36nA7O1nA+m23OKZoSzZoaZy7UK6JDvt4A7T/4j+WLqZ6KWFciZmS8gvc6nQwmfHIUwEPkN/fXr3fSIk=;UtBKo4IZGn+oDeYN1Xo7Yw=="
+secured: "VQYU4O91wv1GJxaBJPDZbnjp5087TAvsvaAQnm6bP5Xa9fUWc7mjhv2arRFeB67hzdnTOEfULKXEYs2qQhaf5TMFs66olwqfmXH/Kl9BRrHltezwtXM4qjOUO9XMM/CAofkj/ycIULb8WLzX9tteQcMRN10L6S3+GemcwSHodoZmrdkHa8biGNzqKLqjLz1hk/ApajFqyS9kwMp2dWWtrwWx8Mcy5zYVUlU8lYNWC28/fWWulSzSqxK8QuPQUcrtHCT835U7vp2efT2Xy0CxW5P9glN7QMkdPhSpt/sAPufPAJb/xmfFI5vgL0DxEAN11BH3yVZO2b4rUQcT05O/EqW9RvdVebH+ZmKlNUcEg2Q=;gsSAzRKqKOSz5tirWwwHpg=="
 ---
 

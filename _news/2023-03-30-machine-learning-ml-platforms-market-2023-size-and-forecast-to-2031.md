@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Medical Robots Market Size To Grow At A CAGR Of 22.30% Between 2023 And 2028"
-    excerpt: "Besides, medical robots are also leveraging artificial intelligence (AI) and computer vision to gain detailed information during surgical procedures and improve overall patient outcomes. The rising cases of brain disorders, the increasing focus on reducing ..."
-    publishedDateTime: 2023-03-27T23:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-medical-robots-market-size-to-grow-at-a-cagr-of-2230-between-2023-and-2028-2023-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2029 Forecast Artificial Intelligence (AI) Chips Market by Growth Rate, Sparked Innovation with Top Players"
     excerpt: "Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “ Artificial Intelligence (AI) Chips Market ” Size 2023 Key players Profiled in the Report are [,"
     publishedDateTime: 2023-03-30T03:29:00Z
@@ -60,20 +46,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 61
-  - title: "AI Assisted Robots Market Size, and Research Report 2023 by Production, Consumption Analysis, Product Types and Forecast to 2031"
-    excerpt: "The term artificial intelligence (AI) refers to the use of a computer to model or replicate intelligent behaviour. Robots are outfitted with a variety of artificial intelligence programmes that assist in a variety of industrial and daily tasks, thereby ..."
-    publishedDateTime: 2023-03-27T23:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-assisted-robots-market-size-and-research-report-2023-by-production-consumption-analysis-product-types-and-forecast-to-2031-2023-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Platform as a Service (PaaS) Market Report | Global Forecast From 2023 To 2030"
     excerpt: "Market Updates(360marketupdates.com) published a new research report on Artificial Intelligence in Platform as"
     publishedDateTime: 2023-03-28T11:52:00Z

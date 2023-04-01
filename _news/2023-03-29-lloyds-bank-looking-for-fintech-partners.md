@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Fintech Earnix Releases Report Indicating Necessity of Flexible Loan Pricing Tech in Vehicle Finance Market"
+    excerpt: "Market drivers for vehicle demand have been more volatile since 2020 than any time in history, lenders require flexible pricing tech."
+    publishedDateTime: 2023-04-01T15:46:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/04/204528-fintech-earnix-releases-report-indicating-necessity-of-flexible-loan-pricing-tech-in-vehicle-finance-market/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/04/204528-fintech-earnix-releases-report-indicating-necessity-of-flexible-loan-pricing-tech-in-vehicle-finance-market/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/04/204528-fintech-earnix-releases-report-indicating-necessity-of-flexible-loan-pricing-tech-in-vehicle-finance-market/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 41
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/11/Fast-Car-Automobile-BMV-i8.jpeg"
+        width: 1280
+        height: 1021
+        isCached: true
   - title: "A Firm's Next Hire Should Be AI, Fintech Exec Says"
     excerpt: "In fact, to date only Morgan Stanley has jumped in with both feet, and a serendipitous relationship with OpenAI, the tech company that launched ChatGPT last November, has the two firms creating a bespoke AI solution that scans Morgan Stanley materials only ..."
     publishedDateTime: 2023-03-28T15:30:00Z
@@ -32,20 +48,6 @@ related:
       - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
         width: 1200
         height: 1200
-        isCached: true
-  - title: "For generative AI to thrive, fintechs must act responsibly"
-    excerpt: "ChatGPT has taken the world by storm, but crucial that fintechs take a responsible and ethical approach to its development and implementation."
-    publishedDateTime: 2023-03-28T07:35:00Z
-    webUrl: "https://www.altfi.com/article/10551_for-generative-ai-to-thrive-fintechs-must-act-responsibly"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
-    quality: 39
-    images:
-      - url: "https://www.altfi.com/images/ext/equifax-and-altfi-report-march-2023-mpu.png"
-        width: 300
-        height: 250
         isCached: true
   - title: "Fintech Trends To Look Out For In 2023"
     excerpt: "The fintech industry is continuously evolving, driven by advances in technology and changes in consumer behaviour. 2023 will witness significant trends in AI and machine learning, blockchain, digital banking and mobile payments, cybersecurity and fraud ..."
@@ -70,15 +72,6 @@ related:
         width: 848
         height: 565
         isCached: true
-  - title: "Key Environmental Trends To Look Out For Across The Fintech Industry"
-    excerpt: "But now, in a bid to attract eco-conscious customers and implement more sustainable industry practices, there are several environmentally focused fintech trends we expect to see come to dominate the industry,"
-    publishedDateTime: 2023-03-30T14:01:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/03/30/9786256.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
 
 secured: "CAlSxmbhjg0XY+KZ45sQiHC9Exp1Qb40xtOFA2GOoh+g78ZBb4LlZNb5qvYFiHm8QnDxtjnaLUJrRiUmo3WOA1hfz5HV36f0xa1i0UD30/e8yO17QDJE6UBSmmu4yzKQc2fK4JYlokI23pUvnnaOYuoWaYtICnfuyqRQBmmjP4NyVnm5OIwAxd+itY+PJ2Hp5E0AYLZRKzI09ct6sLldOJoGeZU2xYSxrviz8vCfGDpHMmHgpFPwl7cQ2mJvku9cIvUqfakCEaGUAbufrowzbq+pdZ6NYGekg89Qx1oO8aoa4yG6xxPBJXXbJsg/UeAr8bhQk3KoTnFAB4w+IL1Tlo2KF9yfF5i66OnJIubDf/3vkChiXKiZEvgnI6ccitV6yM+Z6plwo4sXJx4hTTX+2iMWKlMLI4oHc+2XLdmBmhZkG2dGQHQvWfO55Me097FqnUASuj1i7ootQQXl/v5RdtZ2w37RVh1RnbepPW/G8ckt2qXeypH9S+MEzoiP1KiGi6hTSC1u59SZk2Lq+bmKUQ==;7HDLG4rG8gbw65U2gQ19qQ=="
 ---

@@ -83,15 +83,6 @@ related:
         width: 1500
         height: 800
         isCached: true
-  - title: "Nvidia shows new research on using AI to improve chip designs"
-    excerpt: "March 27 (Reuters) - Nvidia Corp (NVDA.O), the world's leading designer of computer chips used in creating artificial intelligence, on Monday showed new research that explains how AI can be used ..."
-    publishedDateTime: 2023-03-28T00:47:00Z
-    webUrl: "https://www.reuters.com/technology/nvidia-shows-new-research-using-ai-improve-chip-designs-2023-03-28/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 64
   - title: "Major Cloud Providers Seek to Rejuvenate Sales With Generative AI"
     excerpt: "Microsoft (Nasdaq: MSFT) and Google are investing in generative artificial intelligence tools to drive revenue performance in their cloud businesses, The Wall Street Journal reported Monday. Sources told WSJ that Microsoft CEO Satya Nadella has discussed how AI on the Azure cloud platform could help companies improve efficiency through presentations at the company’s sales meetings."
     publishedDateTime: 2023-03-29T11:00:00Z

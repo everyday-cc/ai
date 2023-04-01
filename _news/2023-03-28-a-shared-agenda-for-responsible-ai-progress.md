@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/technology/ai/a-shared-agenda-for-responsible-
 webUrl: "https://blog.google/technology/ai/a-shared-agenda-for-responsible-ai-progress/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1300
     height: 733
     isCached: true
-
-related:
-  - title: "Who is responsible when artificial intelligence goes wrong?"
-    excerpt: "ARTIFICIAL Intelligence (AI) has the ability to transform our lives ... AI or advanced technologies fail to perform or cause harm as the functioning of AI and robotics often consists of many parties – from the developer, the manufacturer, the provider ..."
-    publishedDateTime: 2023-03-28T01:01:00Z
-    webUrl: "https://www.irishnews.com/business/2023/03/28/news/who_is_responsible_when_artificial_intelligence_goes_wrong_-3160931/"
-    type: article
-    provider:
-      name: The Irish News
-      domain: irishnews.com
-    quality: 39
-    images:
-      - url: "https://binaries.irishnews.com/2023/03/24/114607434-843ac0fb-1457-4fd1-888b-d78144a3043e.jpg"
-        width: 900
-        height: 472
-        isCached: true
 
 secured: "8sbdGd5MEmF5eyd5isSG18DUWiik+uP0VrAoJOCmlvYsmZXQ9B8mqbjuFhU8u2R+nsaKzXYBGQ5fVhmhvWgKgrFnqCyOGn5mJn7TbvFV53QmJ9/QIwC08gXTXDFAvSSxTt8yrVb5tOAq5RlwYf+Gio5GQzPc/zPnQLWuPniRBpPKnDluVDhin+xldQdE+oYQKrtAafzpIwG5rFd5P7Tx9E1PawfhkzHHWegmobWy0mHtgm+ARxcgNdof9nJGrhb19v0B1jIvW61Tx4DAwLUKVISSmgDZIKHzYAUy53FHVlojsDwihYjC+QRpg2BsXmB+6XM4nUdh31jAeLw5Fm7owwb2XiGSzZKOTdJMrOSIRNI=;nrvHzpO6axhD/To6dd7+AQ=="
 ---

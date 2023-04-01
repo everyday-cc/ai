@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpts-intelligence-is-ze
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpts-intelligence-is-zero/"
 type: article
 quality: 81
-heat: 103
+heat: 104
 published: true
 
 provider:

@@ -50,15 +50,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 34
-  - title: "MTN to migrate OSS/BSS to Microsoft Azure"
-    excerpt: "South Africa-based MTN has joined the growing list of telcos that are making the move to public cloud. The company on Monday announced it has embarked on a programme of work to migrate various systems to Microsoft Azure."
-    publishedDateTime: 2023-03-30T15:38:00Z
-    webUrl: "https://telecoms.com/520948/mtn-to-migrate-oss-bss-to-microsoft-azure/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 34
   - title: "Google and Replit’s Quest to Become the Next Copilot X"
     excerpt: "Google Cloud’s partnership with Replit will strengthen its hold in the developer environment space, and compete with Microsoft."
     publishedDateTime: 2023-03-30T10:44:00Z

@@ -2,6 +2,101 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2023-03-07-3-artificial-intelligence-ai-stocks-with-54-to-675-upside-according-to-wall-street.md",
+      "title": "3 Artificial Intelligence (AI) Stocks With 54% to 675% Upside, According to Wall Street",
+      "excerpt": "Although estimates vary wildly regarding the rate of AI adoption and eventual market value, Grand View Research foresees ... Meta-owned social media asset -- Facebook, WhatsApp, Instagram, or ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/03/07/3-ai-stocks-with-54-to-675-upside-wall-street/",
+      "originalUrl": "https://www.fool.com/investing/2023/03/07/3-ai-stocks-with-54-to-675-upside-wall-street/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T16:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-7-investors-reveal-whats-hot-in-fintech-in-q1-2023.md",
+      "title": "7 investors reveal what’s hot in fintech in Q1 2023",
+      "excerpt": "We’re also looking at thoughtful enterprise applications of AI that intersect with each of these segments of our fintech thesis. We continue to avoid balance-sheet heavy businesses that take ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/07/7-investors-reveal-whats-hot-in-fintech-in-q1-2023/",
+      "originalUrl": "https://techcrunch.com/2023/03/07/7-investors-reveal-whats-hot-in-fintech-in-q1-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-1033407190-1.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-07-amazon-luna-everything-you-need-to-know-about-amazons-cloud-gaming-service.md",
       "title": "Amazon Luna: Everything you need to know about Amazon's cloud gaming service",
       "excerpt": "Amazon Luna is the latest platform to join the fray, and with Amazon Web Services (AWS) and Twitch behind it, Luna could very well take the cloud gaming crown. After over a year of rumors ...",
@@ -1031,92 +1126,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-how-businesses-can-use-artificial-intelligence-for-good.md",
-      "title": "How businesses can use artificial intelligence for good",
-      "excerpt": "The hottest topic nowadays is the artificial intelligence (AI) chatbot called ChatGPT. Since November, the company OpenAI has allowed the public to directly converse with the AI tool, impressing users with its human-like answers to any question.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bworldonline.com/opinion/2023/03/06/508910/how-businesses-can-use-artificial-intelligence-for-good/",
-      "originalUrl": "https://www.bworldonline.com/opinion/2023/03/06/508910/how-businesses-can-use-artificial-intelligence-for-good/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bworldonline.com/opinion/2023/03/06/508910/how-businesses-can-use-artificial-intelligence-for-good/?amp",
-      "cdnAmpWebUrl": "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/opinion/2023/03/06/508910/how-businesses-can-use-artificial-intelligence-for-good/?amp",
-      "publishedDateTime": "2023-03-06T00:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BusinessWorld",
-        "domain": "bworldonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-computer-vision-system-market-is-growing-globally-forecast-2023-2027.md",
-      "title": "Computer Vision System Market is Growing Globally Forecast 2023-2027",
-      "excerpt": "The Research report on “Computer Vision System Market” Growth for 2023 provides a comprehensive analysis of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-system-market-is-growing-globally-forecast-2023-2027-2023-03-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-system-market-is-growing-globally-forecast-2023-2027-2023-03-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-05T23:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

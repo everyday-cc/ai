@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/3/28/23660101/ai-competition-ftc-doj
 webUrl: "https://www.theverge.com/2023/3/28/23660101/ai-competition-ftc-doj-lina-khan-jonathan-kanter-antitrust-summit"
 type: article
 quality: 67
-heat: 79
+heat: 77
 published: true
 
 provider:

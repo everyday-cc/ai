@@ -1,24 +1,32 @@
 ---
 category: news
 title: "Synopsys spreads AI throughout its chip design tools"
-excerpt: "The next issue of Financial Post Top Stories will soon be in your inbox. Synopsys first released an AI tool for one part of the chip design process three years ago, and with customers like Samsung Electronics Co Ltd and ST Microelectronics using the system."
-publishedDateTime: 2023-03-29T17:27:00Z
-originalUrl: "https://financialpost.com/pmn/business-pmn/synopsys-spreads-ai-throughout-its-chip-design-tools-2"
-webUrl: "https://financialpost.com/pmn/business-pmn/synopsys-spreads-ai-throughout-its-chip-design-tools-2"
-ampWebUrl: "https://financialpost.com/pmn/business-pmn/synopsys-spreads-ai-throughout-its-chip-design-tools-2/wcm/aa7c4d80-7966-4a04-9066-3ff9c36e9308/amp/"
-cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/synopsys-spreads-ai-throughout-its-chip-design-tools-2/wcm/aa7c4d80-7966-4a04-9066-3ff9c36e9308/amp/"
+excerpt: "Synopsys first released an AI tool for one part of the chip design process three years ago, and customers like Samsung Electronics Co Ltd (005930.KS) and ST Microelectronics (STM.DE) use the system."
+publishedDateTime: 2023-03-30T00:02:00Z
+originalUrl: "https://www.reuters.com/technology/synopsys-spreads-ai-throughout-its-chip-design-tools-2023-03-29/"
+webUrl: "https://www.reuters.com/technology/synopsys-spreads-ai-throughout-its-chip-design-tools-2023-03-29/"
 type: article
-quality: 54
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: Financial Post
-  domain: financialpost.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://www.reuters.com/resizer/ItYi6g-ek3BincklltBOL-IeMNk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6TS3ISWLWJP2FF6MEQKWCJQJ5M.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Synopsys.ai: New AI Solutions Across The Entire Chip Development Workflow"
@@ -53,6 +61,6 @@ related:
       domain: siliconangle.com
     quality: 34
 
-secured: "+p9e8wjilGlEckROqT56PAyvwer2XzJII9lupDOO290xiEbt7XhnF4UUgkd1Junv7XCvwYZct7bigrQ0NKaQLnSLI/iBoD1fRzSdo3aFKAmCJSfUbYJlisTLjhAYJCBCESgXO18uLmP5EzrnHB2gDpKjPL5FoerModQch7ZxjOsGHbEn5vQ48XZBWlRTWts4T/j4QH3yefrP48f25uvBMggNq4wUkLk/+m+OuaAbNxFgNZFbdzFfZ3KfLPF3z3LBm+Kd/1bxrwFwNqPJQgjcCYT27Yu2GrJdc/wphxgiJQ1zXHmN2uTmpyVPlVffkXiO5vp8XSuromLD09xiJwDUWBBkdWkO0dMX1meVzH4/QUo=;nClve9JRnbpYCwnABFTw+g=="
+secured: "vySCn0XaUeTJuR22QplILRoTb+KwEjEmhsk9iyDFv+Z5t8ApVPVr7wv18+glHl6po1wHlGrlvWrXOGwYzoGNXOJ6/LcDlp7BRK4oZEK040aBRprw9nDq5jV1x2ntFBDSeTR9SSg98tpvxvxgH0aNTm6l7LKu75b/bVo3OZmt2J6jBNJuCqUeXTQwhavAnNypeCxelNHceknDUrtYZ/1ZG2BYFzxv5qZHQ9FFDg5/uboSmgDo8Jqzpw76gr1nIzRBSrxUbXSXFtMV/Td6udXEwxEv8c+h15z4diUVP/iIhmkcbsxQmerahZ1KqjL0dpsHV0I7grMCqCpz9SGAW79/ImXyMmCyEbO6DIDLhaXnZrc=;GNQhanNgeJxARB0w1E1IPQ=="
 ---
 
