@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 66
+heat: 82
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "vLbAgpK6zzN9FguLtBc207k7zYRlz5SvWO+R3zyp+sEDxvBUgsfa0nc3k/Ohk4DjE7RoTEGqpYeRk0NkTdt7fftexpW60PLwgrXlAR6A7HW4nTgFO7bMJPZnmfylukgZfD/huQcwqQZ9syBgqIl6of+0fP0EaQWCQqy17M/xYv/hGpiwPNqACEGgWRgtIMvZydUrR038cONMuD/U5LfDqfwUBMY0hNewgIY7qs+nT1ojAcQfsLjcSmJ/LvPHsQNPNsTa98OQyn2YyhxePsgyDtfWsevDFFO9BZGs1f2WHqpN5iwnPQafVtXj7YTAIp6+5eEJTNRW1lxU8vI5pfLVuxb48n1qE6T6HTlTX8s4Rh5dbL3mzZVHoBv+B022GpDM+p+DirZ8XQnpSQM6Gm8COvFICjF9jjcqvA5D9+OHTAc=;64e611dR7Utd7YOG1hg0hg=="
+secured: "HfnBYoEAYcjqmy5PbABY0PF9m8hPOZvAEKCtwns9Sud2IQlz5GltuyuTfMQalQiHnHrsutEm1v4AJ5NrZxuAU8BHnuDXfWiM2+E7PLY7m/uo9d1gb0kNm3w6G6lBT7EA/sMNT2+v1LxIuRWpfNl5wU8d4U0RWg7MKbaH2kYjhyVOftZ6UMgQQ8U1jEWP3bfShTSiIsgFTBl9tpR+Cf9INHi0lpe9IS/BuOzSGJp4yP4ARPtZKaDlG46veewbE2CdDvOZxH/bxNWFRE1/URmpM+MO40pnFnhmkt401b0EmVR8qqsH0k7n2FlrOA9UAt0YaW4nzft+VcS+DXsPiJxD5aB48AdzwS+A/uEMD5rDJ+ATvGmddrL9VHKWtSde8/69WVe9iyjXx2uAZaTwLr0wz5fJnEfn0+n0CvNz4p8z9Ro=;SunDFw8E1MCYCKneLUFOLA=="
 ---
 

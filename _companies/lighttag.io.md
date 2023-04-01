@@ -2,7 +2,7 @@
 name: "LightTag"
 overview: "LightTag is a service for managing annotation projects with a team. Our mission is to increase the velocity and yield of natural language processing projects."
 type: "profile"
-heat: 50
+heat: 32
 
 website: https://www.lighttag.io/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "LabeledData"
   url: "https://twitter.com/LabeledData"
-  followers: 174
+  followers: 173
 
 locations:
   - San Francisco, CA
@@ -31,6 +31,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=dA2uo9sGIj8"
 
-secured: "PGWZtqFaQiVL8cY8EVnOtxH7Q29sVvsN/J4RGvTsusjxcIicqnFbwQ+hn+0ckI+/8Aa/rANqH9fRpfCexbTffLUiWtEvy7c5r3BaOPVhtb/3UyKqwVMbLKFtX05BhrqaVC7RGoxso0VjEqjeFwFFWcYJRV1FVaOnrIoGZnPH9DjKawQx7Q3Yh5pxiIiCGxM5q6K7SdZlSl4H1Q0qu2jLG8NQn12/q2j1PJFhWHMhoJvBsprefSCVoSgtqBkGeoxqvn3rD5TV5KwNHW1Cof+yqEZuQwj3Fb6eh32joXDrLaSb5pdMOarEYGKMhPQj31wbnaRjtt545wT32sGInILYXl8/XcMGhdTk2fs558efDvh9nn4bq2zV7xrJKqc2Z152v6RvdFQmpLHBcDY6j/BCsQ==;r5OyR3WGtD+lhrY01of3Jw=="
+secured: "mfzkjiu2sEaajFaUcwuQ8OsLDrEOsvyt9t+Mlmr1cdKREDqmF4aRU0i4xSsEYVdryB9I4hH3HB4Tgr5TA85cqLCmg2e66oO5pzp6ZtcGkw1YOIafqtWTWfu2h+jkmh8Pt83HTSprOACB39+riNOVgn9RabJl3qPoeuhY9JM1mpJk+vstg52KB5EBANuKWLKq5wxsp7/0GrZcRgqNtQ/qj4wPnqtS8HSkbbCJ5z2Sxi3gAMgYfAVfs/HM5a1BklFk0SI2Zof2N/eJtZBCzYMm58G71y8iytnndAjZzZ08tnPZMhx3kpGtcokJCCjCYL4wGQogA7DDakpo3b+j31mB8hPOhmZYS9H603p7a+frv+cP3AKnJAyy+MoWJR/wICECqYUq0Wv37TxY37zFrH/iNw==;okXj1n+b5Chd/RL4NW7gJQ=="
 ---
 
