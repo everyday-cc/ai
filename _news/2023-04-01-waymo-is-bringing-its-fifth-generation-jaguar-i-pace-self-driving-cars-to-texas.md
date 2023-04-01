@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Waymo Retiring Self-Driving Chrysler Vans, Replacing Them With Way Mo' Electric Jaguars"
-    excerpt: "Google's self-driving division Waymo is moving on from its now iconic white Chrysler Pacifica-based robotaxi vans, finally taking advantage of a deal worked out all the way back in 2018 for custom-built Jaguar I-Pace all-electric SUVs. The deal originally ..."
-    publishedDateTime: 2023-03-30T16:14:00Z
-    webUrl: "https://www.motortrend.com/news/waymo-chrysler-pacifica-robotaxi-van-retired-jaguar-i-pace-ev/"
-    ampWebUrl: "https://www.motortrend.com/news/waymo-chrysler-pacifica-robotaxi-van-retired-jaguar-i-pace-ev/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/waymo-chrysler-pacifica-robotaxi-van-retired-jaguar-i-pace-ev/amp/"
+  - title: "Waymo brings its fleet of new self-driving SUVs to Austin"
+    excerpt: "Waymo is bringing a fleet of driverless cars to Austin, Texas as a test of its new fifth-generation automated driving system. The vehicles will be tested all over the city, including downtown, the Capitol,"
+    publishedDateTime: 2023-04-01T03:14:00Z
+    webUrl: "https://www.engadget.com/waymo-brings-its-fleet-of-new-self-driving-suvs-to-austin-165720284.html"
     type: article
     provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 51
+      name: YAHOO!News
+      domain: engadget.com
+    quality: 69
     images:
-      - url: "https://www.motortrend.com/uploads/2023/03/Waymo-I-Pace.png"
-        width: 1600
-        height: 900
+      - url: "https://s.yimg.com/uu/api/res/1.2/cUida6ySiXDpooXP.oUt0g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/9fc6ae30-cfe2-11ed-bec7-e751884bbf3d.cf.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "With a nod to EVs, Waymo retires self-driving Pacifica hybrid minivans"
     excerpt: "Self-driving technology company Waymo will retire its fleet of Chrysler Pacifica hybrid minivans, the vehicular flag-bearers for the nation's first autonomous ride-hailing service. Waymo said Thursday it will replace the vans used in its metro Phoenix ride ..."
@@ -49,6 +47,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google's self-driving vehicle company Waymo returns to Austin to test new driverless tech"
+    excerpt: "Even more self-driving vehicles will be tested in Austin, as Waymo, one of the first companies to test autonomous vehicles in Central Texas, returns. Austin’s reputation as a hotbed for autonomous technology continues as Waymo plans to once again test ..."
+    publishedDateTime: 2023-03-31T11:16:00Z
+    webUrl: "https://www.statesman.com/story/business/technology/2023/03/31/google-self-driving-vehicle-company-waymo-returns-austin-texas/70065082007/"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 25
 
 secured: "vEHrSbHIAdAxO2tGlVnR3Nx8YKhvrinPQcAnx3NS6IaPSuIiyYDGu2b7ktUoeNpdA/npYmnmfA49EwyZrYy8+aJXBv32/hIZBEXUV/K50cuVf6Yea1/fez6Qj/Qh5WKHYkv6x+YxbHBobKssgdfPVONsDB0aD5tVHizE6B5iHf+LZH5fwtiuYoL4W6lAzlJDc/9s8cv5krG271uXMw/3zaIYsU+doBpnghMJPGrWjO11Sbr2jenCsu+BM/unmM70+wBc8iCjBhpNrowxFYmwpN3vZYOHYBOPdm9C0ZRj5Zaf35F97NKoqUlCm1vI+6b/f7JPTbC9m6qBAjW98a5iiDR5jToatNmL5FNMXpCYf51kEvneIxFjTlyJUumscnxY9DigowMtfv5qUD7bdXbdpMrrXpBuXHFetZL8FXkqpUJDzTeyYyy3VQCSsWT3YF2W4YdlP5h5u8E6ES9PXAqqCuzJz/c2YGQbbIQlN4JW6gyjmnFkcp6lFq6NKcVvBK5aTgpwt/eMuTWlSp8S33cHRA==;4pYCuwQCRD7B+EI7WeuKoQ=="
 ---

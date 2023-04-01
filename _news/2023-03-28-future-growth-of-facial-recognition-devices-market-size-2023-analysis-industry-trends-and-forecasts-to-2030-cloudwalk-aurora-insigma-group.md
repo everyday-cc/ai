@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Accelerator Market Analysis and Industry Research Report 2022-2030 with Top Players are Micron, NVIDIA, Expedera, Intel, ADLINK"
+    excerpt: "Mar 29, 2023 (Heraldkeepers) -- United States – Latest Study on Industrial Growth of Global Deep Learning Accelerator Market 2022-2030. A detailed study accumulated to offer Latest insights about acute features of the Deep Learning Accelerator market."
+    publishedDateTime: 2023-03-30T02:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-accelerator-market-analysis-and-industry-research-report-2022-2030-with-top-players-are-micron-nvidia-expedera-intel-adlink-2023-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 14
 
 secured: "tpFsCttNFnOTmM9QPObcwZrCPSD5ofFEdhuCCJbYExbNB0720qIuTKX62uK8ycZ6AeXZGsKTjbiQhDlQa4aDHZBgE6KQ1I93lv+m1Ld1JLoR5majZSSlan9Y1tlYowRBIB0deyZ98WYGN6ySk4TMcF96RW/DsWuTIYV9FI2tOOH74BTAKgpR0qi/kFnfvgylUIJOA+nnLZqTL0Ycc5tQAwhneTSLQcKmUaPhvxscvfhTcrylL+xMM5HjqR5fk/V6DWrbXTbk6uvzF+d69pw3WCAFnplgbA3hfbgos4XJ2YeRdzjZv+B4axhT3CcboYJtkxiE3+H8Ox0cWyGhsvD4E4ogYORCSnjj1thXu3v3EN8=;2/xghPdlpYHBMo5Hy8AeNg=="
 ---

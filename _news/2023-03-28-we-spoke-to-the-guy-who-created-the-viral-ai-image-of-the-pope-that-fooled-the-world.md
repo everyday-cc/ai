@@ -7,8 +7,8 @@ originalUrl: "https://www.buzzfeednews.com/article/chrisstokelwalker/pope-puffy-
 webUrl: "https://www.buzzfeednews.com/article/chrisstokelwalker/pope-puffy-jacket-ai-midjourney-image-creator-interview"
 type: article
 quality: 60
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: buzzfeednews.com
@@ -26,22 +26,6 @@ images:
     width: 1250
     height: 830
     isCached: true
-
-related:
-  - title: "Should you be worried that an AI picture of the Pope went viral?"
-    excerpt: "You may have seen these images of Pope Francis looking stylish in a puffer jacket on social media, but you might not have realised they were created by the artificial intelligence tool Midjourney"
-    publishedDateTime: 2023-03-27T10:03:00Z
-    webUrl: "https://www.newscientist.com/article/2366312-should-you-be-worried-that-an-ai-picture-of-the-pope-went-viral/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/03/27105229/SEI_149850353.jpg"
-        width: 1350
-        height: 900
-        isCached: true
 
 secured: "CtS+w5/8nm2nw2FZinoSxyHb+Dsp+uQEFwUwLyCJ8vCeczAAxIJnC72aukiSBCrNImNaPW3vFnrxdL3QKBG3xSsmz45o2BIGdwrV5eM9adSjccwctUKfGKw6zsmhJtW0G2EmGLb3YMKM+pbi0jMzcC4SYWgxs9plfo4SmnjXiHpvRSkMUtj8lEUKMzSgoEF3Ae5CsPDrBISoj5CVEuwWtC+Gi+cul6ry41ZqnUfKKUyRNNwfkb0VGojmHZeQ8gxuAiDUy8M3DLng/zj+7BwSCyqv0FLRyM6u+0MPM7Ffuv5HJYYlFisgS5ZKu/5Ol4D58M/t1b72grYsLcuJvm+bVoODfneCprDVD6nrzaOpCim4HoljIvwD4aouAPcMFgnLJ9mt1Imw2gvwdYj24VOcIhOsyBb7PxaepIF7fyAT3zWT7pJsE4ilF3xY90msfFPg4FzU7XGU9EAa+JkP8Tt0V2r5Mqf088vYiCWish2/mCrLL5UdwL3LU4HrOdCYTEd2zGXWIJvHeDQBMdOQ6ymmuA==;wDIvzLBMkIqh7TCcuCqqoQ=="
 ---

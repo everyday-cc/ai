@@ -92,6 +92,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Italy blocks ChatGPT, citing data privacy concerns, as calls for AI regulation grow"
+    excerpt: "It has been a challenging week for OpenAI, as calls for generative AI regulation grow louder: Today, Italy’s data protection agency said it was blocking access OpenAI’s popular ChatGPT chatbot and had opened a probe due to concerns about a suspected data collection breach."
+    publishedDateTime: 2023-03-31T22:11:00Z
+    webUrl: "https://venturebeat.com/ai/italy-blocks-chatgpt-citing-data-privacy-concerns-as-calls-for-ai-regulation-grow/"
+    ampWebUrl: "https://venturebeat.com/ai/italy-blocks-chatgpt-citing-data-privacy-concerns-as-calls-for-ai-regulation-grow/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/italy-blocks-chatgpt-citing-data-privacy-concerns-as-calls-for-ai-regulation-grow/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-34.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "Adjust Your AI Startup Dreams About Using ChatGPT Because OpenAI Says There Are These Starkly Prohibited Uses, Per AI Ethics And AI Law"
     excerpt: "Into all of this comes a slew of AI Ethics and AI Law considerations. I’ll be interweaving AI Ethics and AI Law related considerations into this discussion. The Things That You Cannot Use ChatGPT For I’ll give you a quick guided tour of the things you ..."
     publishedDateTime: 2023-03-28T11:06:00Z
@@ -107,20 +123,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6421fbe4d81802b564e2d103/0x0.jpg?format=jpg&crop=2118,1413,x0,y145,safe&width=1200"
         width: 1200
         height: 801
-        isCached: true
-  - title: "China's Baidu reveals more capabilities of AI-powered chatbot Ernie"
-    excerpt: "Baidu's co-founder and Chief Executive Officer (CEO) Robin Li showcases artificial intelligence powered chatbot known as Ernie Bot by Baidu, during a news conference at the company's headquarters ..."
-    publishedDateTime: 2023-03-27T10:14:00Z
-    webUrl: "https://www.reuters.com/technology/chinas-baidu-cancels-chatgpt-like-ernie-bots-livestreamed-product-launch-2023-03-27/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/t9bhNwk776sIeIL_Q3rf1IS3CJs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6MUILE4YRFICJEJYZD7NOOCOGM.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "AI computing startup Cerebras releases open source ChatGPT-like models"
     excerpt: "Startup Cerebras System's new AI supercomputer Andromeda is seen at a data center in Santa Clara, California, U.S. October 2022. Rebecca Lewington/Cerebras Systems/Handout via REUTERS OAKLAND, California, March 28 (Reuters) - Artificial intelligence chip ..."
@@ -260,22 +262,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
-  - title: "ChatGPT: Who and what is behind the artificial intelligence tool changing the tech landscape"
-    excerpt: "Since the introduction of the artificial intelligence tool ChatGPT in November 2022, the new technology has displayed the power and potential that AI can have on our lives. Open AI CEO Sam Altman, the company behind ChatGPT, admitted earlier this month ..."
-    publishedDateTime: 2023-03-27T09:11:00Z
-    webUrl: "https://www.foxbusiness.com/media/chatgpt-who-what-behind-artificial-intelligence-tool-changing-tech"
-    ampWebUrl: "https://www.foxbusiness.com/media/chatgpt-who-what-behind-artificial-intelligence-tool-changing-tech.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/media/chatgpt-who-what-behind-artificial-intelligence-tool-changing-tech.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 48
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/f46d9c44-91e7-4795-95c8-3d296cc14d18/c4f2cd34-8b55-40f3-bbfc-32a36cde9a3a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Up to 80 PERCENT of US jobs could be impacted by ChatGPT-like AI in coming years, study warns"
     excerpt: "translation, speech recognition, and instrumental track recognition. The team conducted the research by linking 10 AI-powered applications - such as language - to 52 human abilities to understand if any closely relate. The results showed that ..."
     publishedDateTime: 2023-03-27T15:24:00Z
@@ -305,34 +291,6 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/a28968b/2147483647/strip/true/crop/3543x1860+0+178/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fa8%2F0a%2F870a669e49b7a3421d2812b6767d%2F394891899.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Jack Ma comments on ChatGPT, AI in the digital era"
-    excerpt: "A response by ChatGPT, an AI chatbot developed by OpenAI, is seen on its website in this illustration picture taken Feb 9, 2023. [Photo/Agencies] Jack Ma, founder of Alibaba Group"
-    publishedDateTime: 2023-03-27T10:45:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202303/27/WS64215c74a31057c47ebb6c95.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202303/27/64215d5da31057c4b4b80291.jpeg"
-        width: 720
-        height: 480
-        isCached: true
-  - title: "From Chatbots to RL to GANs, here’s our essential AI glossary for marketers"
-    excerpt: "What’s the difference between machine learning and deep learning? You’re about to find out. This glossary can serve as a linguistic primer as you begin to navigate the world of AI."
-    publishedDateTime: 2023-03-27T10:00:00Z
-    webUrl: "https://www.thedrum.com/news/2023/03/27/chatbots-rl-gans-here-s-our-essential-ai-glossary-marketers"
-    type: article
-    provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 37
-    images:
-      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/s3fs-public/pictures/picture-689017-1639693255.jpg?w=320&ar=1:1&fit=crop&crop=faces,edges&auto=format"
-        width: 320
-        height: 320
         isCached: true
   - title: "How ChatGPT is Transforming Enterprise Search with Natural Language Processing"
     excerpt: "ChatGPT solution that companies must consider to achieve their long-term objectives to increase customer satisfaction."
@@ -365,17 +323,6 @@ related:
       name: Patch
       domain: patch.com
     quality: 28
-  - title: "ChatGPT: tool or weapon?"
-    excerpt: "There is ChatGPT or GPT-4, but what is GPT anyway? GPT stands for Generative Pre-trained Transformer a program which has the ability to perform natural language processing tasks, such as answering questions, summarizing texts and making term papers!"
-    publishedDateTime: 2023-03-27T09:47:00Z
-    webUrl: "https://www.bworldonline.com/opinion/2023/03/27/513146/chatgpt-tool-or-weapon/"
-    ampWebUrl: "https://www.bworldonline.com/opinion/2023/03/27/513146/chatgpt-tool-or-weapon/?amp"
-    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/opinion/2023/03/27/513146/chatgpt-tool-or-weapon/?amp"
-    type: article
-    provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 24
   - title: "Here’s How Nvidia Is Powering The ChatGPT Frenzy"
     excerpt: "ChatGPT owes a large part of its capabilities to the powerful computing hardware developed by Nvidia. In this article, we'll"
     publishedDateTime: 2023-03-27T11:40:00Z

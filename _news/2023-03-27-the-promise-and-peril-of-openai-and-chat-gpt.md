@@ -36,15 +36,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 64
-  - title: "AI Ethics Group Says ChatGPT Violates FTC Rules, Calls for Investigation"
-    excerpt: "The complaint claims OpenAI's GPT model fails to meet standards of safety laid out by the FTC and asks for development to be paused."
-    publishedDateTime: 2023-03-30T19:30:00Z
-    webUrl: "https://gizmodo.com/caidp-ftc-complaint-against-openai-chatgpt-safety-1850282906"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 63
   - title: "CFA Institute Research Foundation Releases Investment Industry AI Handbook"
     excerpt: "Through contributions from data scientists and investment leaders at firms including AllianceBernstein, APG, Goldman Sachs, Man Group, Neuberger Berman, NVIDIA, Ping An, Robeco, and Virtu Financial, the CFA Institute Research Foundation AI Handbook offers ..."
     publishedDateTime: 2023-03-28T13:00:00Z

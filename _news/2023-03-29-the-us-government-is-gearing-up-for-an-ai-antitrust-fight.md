@@ -39,20 +39,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Upcoming Landmarks in Artificial Intelligence"
-    excerpt: "Robot police dogs that don’t need oiling, autonomous dental floss, and other neato perks on the road to the Singularity."
-    publishedDateTime: 2023-03-27T10:00:00Z
-    webUrl: "https://www.newyorker.com/magazine/2023/04/03/upcoming-landmarks-in-artificial-intelligence"
-    type: article
-    provider:
-      name: The New Yorker
-      domain: newyorker.com
-    quality: 37
-    images:
-      - url: "https://media.newyorker.com/photos/641b32f4dd09cd057679a241/16:9/w_1280,c_limit/230403_r42114.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "MK4cf6+p3uA3fFfrjfS+KO++ghRG4U0ICi6fY5/SvHe24ve7aN2zuwRSbTKIGRs1C3keIrKAIK6OziY6C+uaAMpQvdvSP5SUTYNomtEDgwMJJUyluMi4H0voYMcDylf7nEUcbN/94dr4YftiMefy5YySH9Q7jbb3G/x+GFjxzQ8oy8XCFT1dlOtRM0eSQgSvHMhas4EzWbldzdzDEkFwylbrU5BVxw1jPB99R+cJo3nQTjUMtxV4+Oll4ls/xbhA46DqvYRZMkVWlDzyTXBeDM/4Lk5qu1+Id+EzzcdZ62BA19h1MbgsW2La0eQsONVdXeE2CRaWCELlAc1PEbhbh5XFPDr73B2VyxueduHTNyM=;FxssurYwfLObyfNzrxAIXg=="
 ---

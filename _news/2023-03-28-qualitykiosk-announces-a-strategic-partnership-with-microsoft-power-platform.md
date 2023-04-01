@@ -83,6 +83,15 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "Kinaxis Brings Concurrent Supply Chain Planning to Microsoft Azure Marketplace"
+    excerpt: "With supply chain elevated to a board-level topic, digital transformation of planning has become a top initiative. By bringing RapidResponse to the Microsoft Azure Marketplace, more companies will be able to take advantage of the supply chain agility Kinaxis delivers,"
+    publishedDateTime: 2023-03-29T21:50:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-kinaxis-brings-concurrent-supply-cha-planning-microsoft-azure-/2023/03/29/9785140.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 45
   - title: "Microsoft Pushes Open Source 'Semantic Kernel' for AI LLM-Backed Apps"
     excerpt: "Since recently introducing the open source Semantic Kernel to help developers use AI large language models (LLMs) in their apps, Microsoft has been busy improving it, publishing new guidance on how to use it and touting its capabilities."
     publishedDateTime: 2023-03-30T22:38:00Z
@@ -100,6 +109,15 @@ related:
     provider:
       name: AOL
       domain: aol.com
+    quality: 34
+  - title: "MTN to migrate OSS/BSS to Microsoft Azure"
+    excerpt: "South Africa-based MTN has joined the growing list of telcos that are making the move to public cloud. The company on Monday announced it has embarked on a programme of work to migrate various systems to Microsoft Azure."
+    publishedDateTime: 2023-03-30T15:38:00Z
+    webUrl: "https://telecoms.com/520948/mtn-to-migrate-oss-bss-to-microsoft-azure/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
     quality: 34
 
 secured: "B3hc8FB4G9SN0/12DoNBrd9f07WB2fUe43A0vjFd3T0em4rK1rF7meiWmvXvSdvWMCl9qePIIKseB62UNPip76oGh7a3uS4zRqUKQsVIuzt+N4H0aVWZ4zo6J8/kWU71m8/2qvTnp9SNm8Qbl+8INyQ9RQEm3R8/4DJr8hn1I6hgBeQdRYUC/fmh7c7wO22Qz0cCMirbMyKlijk7Wkj6r0omJs3lSEKkCSlW4KBp7LB53Oy8AqtGqFU1g37iEancoEReQl2lwQ7RdetX3SGn2nUD5whQ+2zsjtAJPuYou3oog7ClnmNANSnSpXhW7HBqdge6tum6l8MTph5PpzZZ9hSKkIXZQGDaFbN7AMCiP1aRlDnBtL1T2GZnd+yy6JvwJTQ89HY8zjW1/EJ8R8vQr1x8GFbJLyctw/Ac7rSpjd/oZuNIe+OL7C75iiGRzHR2ojUpMyzk1m3gArmUfTBjOCgTzHJ9VCx952c7Jodh2SbwW3CQZYzNOeEl/uRVp++R0xst0gKxkahExveIyR7vzg==;GT6PgjqmkZVJjsX5c/TzZQ=="

@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Anthem Blue Cross and Blue Shield Introduces Virtual-First Health Plans, Helping Members Access Convenient, Affordable Care Options"
-    excerpt: "Anthem Blue Cross and Blue Shield in Georgia today announced its Virtual-First health plans to eligible members in select commercial health plans. “Our Virtual-First plans highlight our digital capabilities helping our members determine the best first step for their healthcare on their terms through a wide range of virtual and in-person"
-    publishedDateTime: 2023-03-27T10:05:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/anthem-blue-cross-and-blue-shield-introduces-virtual-first-health-plans-helping-members-access-convenient-affordable-care-options"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 0
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/uploads/2022/02/inn-social-default.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Anthem Blue Cross Introduces Virtual-First Health Plans, Helping California Members Access Convenient, Affordable Care Options"
     excerpt: "Members can choose virtual care, allowing for high-quality care at a lower cost Anthem Blue Cross (Anthem) in California today announced its Virtual-First health plans to eligible members in select co"
     publishedDateTime: 2023-03-27T13:00:00Z

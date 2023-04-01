@@ -19,48 +19,44 @@ topics:
   - AI
 
 related:
-  - title: "While On-Road Driverless Slows, Ag-Tech Autonomy Players Are Plowing Ahead"
-    excerpt: "Enabling driverless operations by integrating sensors and software ... while GrAI Matter Labs is developing artificial intelligence via “brain-inspired chips that behave like humans do” to optimize devices assisting humans in the field."
-    publishedDateTime: 2023-03-30T20:22:00Z
-    webUrl: "https://www.forbes.com/sites/richardbishop1/2023/03/30/while-on-road-driverless-slows-ag-tech-autonomy-players-are-plowing-ahead/"
-    ampWebUrl: "https://www.forbes.com/sites/richardbishop1/2023/03/30/while-on-road-driverless-slows-ag-tech-autonomy-players-are-plowing-ahead/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2023/03/30/while-on-road-driverless-slows-ag-tech-autonomy-players-are-plowing-ahead/amp/"
+  - title: "Waymo brings its fleet of new self-driving SUVs to Austin"
+    excerpt: "Waymo is bringing a fleet of driverless cars to Austin, Texas as a test of its new fifth-generation automated driving system. The vehicles will be tested all over the city, including downtown, the Capitol,"
+    publishedDateTime: 2023-04-01T03:14:00Z
+    webUrl: "https://www.engadget.com/waymo-brings-its-fleet-of-new-self-driving-suvs-to-austin-165720284.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-  - title: "Driverless cars ready for hire in suburban Beijing"
-    excerpt: "It added that Baidu plans to expand its autonomous ride-hailing services to 65 cities in 2025 and 100 in 2030. China’s self-driving taxi service is expected to reach 1.3 trillion (188.6 billion U.S. dollars) by 2030, accounting for 60 percent of the ..."
-    publishedDateTime: 2023-03-28T06:50:00Z
-    webUrl: "https://dailytimes.com.pk/1078112/driverless-cars-ready-for-hire-in-suburban-beijing/"
-    ampWebUrl: "https://dailytimes.com.pk/1078112/driverless-cars-ready-for-hire-in-suburban-beijing/amp/"
-    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/1078112/driverless-cars-ready-for-hire-in-suburban-beijing/amp/"
-    type: article
-    provider:
-      name: Daily Times
-      domain: dailytimes.com.pk
-    quality: 59
+      name: YAHOO!News
+      domain: engadget.com
+    quality: 69
     images:
-      - url: "https://dailytimes.com.pk/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
+      - url: "https://s.yimg.com/uu/api/res/1.2/cUida6ySiXDpooXP.oUt0g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/9fc6ae30-cfe2-11ed-bec7-e751884bbf3d.cf.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "3 Companies Leading the Charge to the Driverless Car Future"
-    excerpt: "Driverless cars, also known as autonomous vehicles, are quickly becoming a reality. With advancements in artificial intelligence and sensor technology, these cars are able to navigate roads and ..."
-    publishedDateTime: 2023-03-29T19:03:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/markets-news/Barchart/15522899/3-companies-leading-the-charge-to-the-driverless-car-future/"
+  - title: "With a nod to EVs, Waymo retires self-driving Pacifica hybrid minivans"
+    excerpt: "Self-driving technology company Waymo will retire its fleet of Chrysler Pacifica hybrid minivans, the vehicular flag-bearers for the nation's first autonomous ride-hailing service. Waymo said Thursday it will replace the vans used in its metro Phoenix ride ..."
+    publishedDateTime: 2023-03-31T11:35:00Z
+    webUrl: "https://www.autonews.com/mobility-report/waymo-retires-self-driving-pacifica-hybrid-minivans-jaguar-evs"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
+      name: Automotive News
+      domain: autonews.com
     quality: 39
     images:
-      - url: "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/Chip%20During%20Rush%20Hour.jpg"
-        width: 1600
-        height: 1065
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Waymo-MAIN_i_4.jpg"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Waymo is bringing its fifth-generation Jaguar I-PACE self-driving cars to Texas"
+    excerpt: "If you’re in Texas, you could see a self-driving car from Waymo on the road soon. In a blog post, the company announced that will start operating in Austin, Texas again. Waymo has already been in Austin before when Steve Mahan became the first person to ..."
+    publishedDateTime: 2023-03-31T18:05:00Z
+    webUrl: "https://bgr.com/tech/waymo-is-bringing-its-fifth-generation-jaguar-i-pace-self-driving-cars-to-texas/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 15
 
-secured: "EuCM6O9Fu8ZEJKm6pvm889f1dNTQS2btKsAw1qaSMTUGQKQ+DGIVJvh8MlHPTNPPn0xkFEDgl1ta5velhE+2VXEGu7c7hMsP99oAiWtUqqofRrh8V6etLNBR4sDuVPzy/o+e6Ya60hw7iKJqkGk3+oMMO1JUdKA+JPR4sHOb7jleMF6eK/GuP0b23GxUa/PPq15Hxd+G0WJ5ybtVeqVJvOyFnbrCMQs/pcbF4zNZxQEnVHNLUh7p7+4FJij+QjGlZYMDj9EPMRwXF0QX/ob+/bF/xs67MFIsjC0v8OjkPLNbz6BeV69P1LXJ5kGI5MKNyFv7yDD5aNz26EduJ0HHLI1VWhBb5oOQKWIIcoy5Jfg=;8LGbRD3wHfRjJraSGnopJg=="
+secured: "uwPiIMxanxoD3EgKLw9vVeexHYwCX2674hMLJhCSLSlWzn303UVmIG1i7udHBJ2oN8Nv4QWyJHB2qqVlbNCjZIuYUD6BVKpvDet1YUeFiU5dPhqRWbX6PaPav1rD4wcka4IwOEJ2vGyxKyBb8T9gVaURIfp+3sUQsDQ9CrFfRviyaRLR8j0FTZfkAocSZpDe2yIiAQuO8XUp1eY8SbE0yOpseDSEhh39iOlEJU8r042rURF/0Mh0RNhiOf+9X/tpAFUQKVZsPwM/a3e83kmRqFZ44ZTaIvPgRNPC/njNUsfbam4zsOFo+T7PIA7Qy9mql36sv2aJ52j6t740OhDvlN0nDTFeDDpN8sco4YLJ/CWK6wThRauPNDPkEmXbg7sHStBGH/CgSvl/qGbgKQTTumZ2nHMrS7YzmsETmO1zR/ABPrwd/f2WOVJ5LPWMA1LLIwKcUgZSqDefNvdobB12stxD5FmCtzWTAWroCNvFJsIzNlOyeJYSQVWm3bXntd+WJbYMC7FRtI4fOggEkkabrg==;86TMRR/X9Xivsym5WErRbw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/tony-a
 cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/tony-abbott-says-the-voice-to-parliament-referendum-will-be-a-loselose-situation-as-he-called-on-the-anthony-albanese-to-change-course/news-story/d8cc400d7024d2fa713086ade707853e?amp"
 type: article
 quality: 11
-heat: -1
+heat: 11
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Anthony Albanese criticises ‘very strange’ question on whether voice will have input on energy policy"
-    excerpt: "Prime minister says people shouldn’t look for ‘distractions’ on voice to parliament’s ability to advise executive government"
-    publishedDateTime: 2023-03-27T09:10:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/mar/27/anthony-albanese-criticises-very-strange-question-on-whether-voice-will-have-input-on-energy-policy"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/mar/27/anthony-albanese-criticises-very-strange-question-on-whether-voice-will-have-input-on-energy-policy"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/mar/27/anthony-albanese-criticises-very-strange-question-on-whether-voice-will-have-input-on-energy-policy"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 29
-    images:
-      - url: "https://i.guim.co.uk/img/media/9e1bdb1fce1f323afd01854185f435c24f55288e/0_77_6973_4184/master/6973.jpg?width=620&quality=85&auto=format&fit=max&s=df1dbfe10ecddb501b3643dddd41353c"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Climate policy in Anthony Albanese‘s push for Indigenous voice to parliament"
     excerpt: "The Greens have upheld the need for the voice to provide advice on policies such as the safeguard mechanism in a rebuke to Anthony Albanese, arguing the climate policy – and the coal and gas projects it could affect – directly impacts upon Indigenous Australians."
     publishedDateTime: 2023-03-27T11:21:00Z

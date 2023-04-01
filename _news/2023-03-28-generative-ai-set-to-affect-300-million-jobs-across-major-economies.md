@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/03/generative-ai
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/generative-ai-set-to-affect-300-million-jobs-across-major-economies/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64259476a22a753da5f43b0c/0x0.png?format=png&crop=1050,590,x0,y52,safe&width=1200"
         width: 1050
         height: 590
+        isCached: true
+  - title: "Generative AI Will Enhance — not Erase — Customer Service Jobs"
+    excerpt: "Unlike other major innovations where the technology was a relatively stable “product” when business started adopting it, the evolution of generative AI and LLMs will happen in parallel with adoption because the breakthrough is so big."
+    publishedDateTime: 2023-03-30T12:15:00Z
+    webUrl: "https://hbr.org/2023/03/generative-ai-will-enhance-not-erase-customer-service-jobs"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/03/Mar23_30_924555494.jpg"
+        width: 2400
+        height: 1350
         isCached: true
   - title: "Generative AI set to affect 300mn jobs across major economies"
     excerpt: "The investment bank said on Monday that “generative” AI systems such as ChatGPT, which can create content that is indistinguishable from human output, could spark a productivity boom that would eventually raise annual global gross domestic product by 7 per cent over a 10-year period."

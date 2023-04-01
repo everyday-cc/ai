@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "ChatGPT has been blocked in Italy. What does the neural network say?"
+    excerpt: "Italy's data protection authority (Garante per la protezione dei dati personali) has decided to block access to the ChatGPT neural network chatbot in the"
+    publishedDateTime: 2023-03-31T13:55:00Z
+    webUrl: "https://www.easternherald.com/2023/03/31/chatgpt-has-been-blocked-in-italy-what-does-the-neural-network-say/"
+    ampWebUrl: "https://www.easternherald.com/2023/03/31/chatgpt-has-been-blocked-in-italy-what-does-the-neural-network-say/?amp=1"
+    cdnAmpWebUrl: "https://www-easternherald-com.cdn.ampproject.org/c/s/www.easternherald.com/2023/03/31/chatgpt-has-been-blocked-in-italy-what-does-the-neural-network-say/?amp=1"
+    type: article
+    provider:
+      name: The Eastern Herald
+      domain: easternherald.com
+    quality: 59
+    images:
+      - url: "https://www.easternherald.com/cdn-cgi/image/width=768,height=432,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2023/03/ChatGPT-has-been-blocked-in-Italy-What-does-the-neural.webp.webp"
+        width: 768
+        height: 432
+        isCached: true
   - title: "Italy privacy watchdog blocks ChatGPT, citing data breach"
     excerpt: "ROME (AP) — Italy is temporarily blocking the artificial intelligence software ChatGPT in the wake of a data breach as it investigates a possible violation of stringent European Union data protection rules, the government's privacy watchdog said Friday."
     publishedDateTime: 2023-03-31T16:34:00Z

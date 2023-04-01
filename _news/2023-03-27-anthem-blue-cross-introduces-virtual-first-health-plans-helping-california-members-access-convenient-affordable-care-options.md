@@ -7,7 +7,7 @@ originalUrl: "https://www.benzinga.com/pressreleases/23/03/b31511099/anthem-blue
 webUrl: "https://www.benzinga.com/pressreleases/23/03/b31511099/anthem-blue-cross-introduces-virtual-first-health-plans-helping-california-members-access-convenie"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Anthem Blue Cross and Blue Shield Introduces Virtual-First Health Plans, Helping Members Access Convenient, Affordable Care Options"
-    excerpt: "Anthem Blue Cross and Blue Shield in Georgia today announced its Virtual-First health plans to eligible members in select commercial health plans. “Our Virtual-First plans highlight our digital capabilities helping our members determine the best first step for their healthcare on their terms through a wide range of virtual and in-person"
-    publishedDateTime: 2023-03-27T10:05:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/anthem-blue-cross-and-blue-shield-introduces-virtual-first-health-plans-helping-members-access-convenient-affordable-care-options"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 0
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/uploads/2022/02/inn-social-default.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Anthem Blue Cross and Blue Shield in Missouri Introduces Virtual-First Health Plans, Helping Members Access Convenient, Affordable Care Options"
     excerpt: "Anthem Blue Cross and Blue Shield in Missouri (Anthem) today announced its Virtual-First health plans to eligible members in select commercial health plans. Virtual-First plans give individuals affordable access to virtual care options,"
     publishedDateTime: 2023-03-28T14:20:00Z

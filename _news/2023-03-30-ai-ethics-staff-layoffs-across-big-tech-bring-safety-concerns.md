@@ -7,8 +7,8 @@ originalUrl: "https://www.information-age.com/ai-ethics-staff-layoffs-across-big
 webUrl: "https://www.information-age.com/ai-ethics-staff-layoffs-across-big-tech-bring-safety-concerns-123502579/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Information Age
@@ -29,6 +29,15 @@ related:
     excerpt: "Big Tech companies have been slashing staff from teams dedicated to evaluating ethical issues around deploying artificial intelligence, leading to concerns about the safety of the new technology as it becomes widely adopted across consumer products."
     publishedDateTime: 2023-03-29T04:00:00Z
     webUrl: "https://www.ft.com/content/26372287-6fb3-457b-9e9c-f722027f36b3"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
+  - title: "Big tech companies cut AI ethics staff, raising safety concerns"
+    excerpt: "“It is shocking how many members of responsible AI are being let go at a time when arguably, you need more of those teams than ever,” said Andrew Strait, former ethics and policy researcher at Alphabet-owned DeepMind and associate director at research ..."
+    publishedDateTime: 2023-03-31T18:02:00Z
+    webUrl: "https://www.ft.com/content/26372287-6fb3-457b-9e9c-f722027f36b3?trk=public_post_comment-text"
     type: article
     provider:
       name: The Financial Times

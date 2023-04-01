@@ -52,15 +52,6 @@ related:
         width: 1600
         height: 1065
         isCached: true
-  - title: "Google's self-driving vehicle company Waymo returns to Austin to test new driverless tech"
-    excerpt: "Even more self-driving vehicles will be tested in Austin, as Waymo, one of the first companies to test autonomous vehicles in Central Texas, returns. Austin’s reputation as a hotbed for autonomous technology continues as Waymo plans to once again test ..."
-    publishedDateTime: 2023-03-31T11:16:00Z
-    webUrl: "https://www.statesman.com/story/business/technology/2023/03/31/google-self-driving-vehicle-company-waymo-returns-austin-texas/70065082007/"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 25
 
 secured: "XFiAoxu/qwVgZOzO+/lfWVU7vyI8AaISHers3QpwPJq4F4zX35jnKbhSHRu936O9yqDwjOzjc997Kr/zl+ppH+LW9xb0hZLoeaj8tWidAYh6DL18wbLbPnusu4siMSFyeA2hRbvL8OW8Izjm9StbnKnXRb/M4Zs5uDvvWRroivJwN9LT9a10wnbN1UKFfjY8UrBiil4FquwbskDrHkBtUligog8oKIpZT3LEoo9fvYNi2J7vG67SdVeRoO0wC8XCZMDovzmO7lSTHjN66zIpBk9CJ2NNqlcZPkJllMjmPT2SmnYESTcM64mqx6HrY07FU4q2zt9zzbHjqKwXdfMJNoQ6b+aeofpWFR6tqSG6Hyg=;0uALFeb9cj5FlpC12QXVuA=="
 ---

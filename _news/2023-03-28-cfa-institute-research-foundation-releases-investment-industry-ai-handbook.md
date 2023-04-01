@@ -34,15 +34,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 64
-  - title: "AI Ethics Group Says ChatGPT Violates FTC Rules, Calls for Investigation"
-    excerpt: "The complaint claims OpenAI's GPT model fails to meet standards of safety laid out by the FTC and asks for development to be paused."
-    publishedDateTime: 2023-03-30T19:30:00Z
-    webUrl: "https://gizmodo.com/caidp-ftc-complaint-against-openai-chatgpt-safety-1850282906"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 63
   - title: "The Promise and Peril of OpenAI and Chat GPT"
     excerpt: "It is quite possible that 2023 will be “the year of artificial intelligence.” It seems impossible to scan the news without encountering an article either extolling the advantages generative artificial intelligence models or raising concerns about its misuse."
     publishedDateTime: 2023-03-27T13:42:00Z
