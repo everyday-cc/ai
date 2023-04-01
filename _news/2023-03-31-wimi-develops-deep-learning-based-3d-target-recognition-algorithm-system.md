@@ -1,29 +1,24 @@
 ---
 category: news
 title: "WiMi Develops Deep Learning-Based 3D Target Recognition Algorithm System"
-excerpt: "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology"
-publishedDateTime: 2023-03-31T12:00:00Z
-originalUrl: "https://www.asiaone.com/business/wimi-develops-deep-learning-based-3d-target-recognition-algorithm-system"
-webUrl: "https://www.asiaone.com/business/wimi-develops-deep-learning-based-3d-target-recognition-algorithm-system"
+excerpt: "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced the development of a 3D target recognition algorithm system based on deep learning."
+publishedDateTime: 2023-03-31T13:59:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/wimi-develops-deep-learning-based-3d-target-recognition-algorithm-system-1032206780"
+webUrl: "https://markets.businessinsider.com/news/stocks/wimi-develops-deep-learning-based-3d-target-recognition-algorithm-system-1032206780"
 type: article
-quality: 38
-heat: 38
-published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2023/pr-newswire_500_4_2027.jpg?h=7de12b8a&itok=YGVwsZ-_"
-    width: 600
-    height: 316
-    isCached: true
-
-secured: "z0ChcJJ1pLkNFxbHdreU+ZR/WwVmpKGpvePQ7c+rwMjxzSQBjQSNYxj/pEsVdasrtMuZUngTutt8Kp6Izfzqs+bzz324WwxdPbedgKjomof7WEM4lKdJZRq0A0LUdAzVVSNZJ5+c7KpwKhW5SAPIN/pehoF8BuU7E30ztKO+s53yJVkijRamSdDYK3XtwB2PuX7MluYKjIBHSAYow+Xk5oAulzfi/smTuWCFJrBwcvm5Yi6BX6V1JKH3R9nZ7rqn3UzbMk31K0t604g0dMTkMOLSvJbGMkhywaAmG1uYaurW4d0tfidls0/pKDiVHwQPXe3rFb111FrwR9zj68CeGi1x0niGPjJi4kDMQO3+nG8Qccheie55ywIvf1PjXpPVKcZVUdFEAFf9TCaFhx6nr4yyDY/gu4ZAJ74TEDGa4MiSPZMMxlNJeUl8rfGQdEbwDyQxak64rfvER5LyyBt8xa1xI2QTW1DZqzYytSOYehHlUB5AmJLsdpsoSrjHCCEav9TgAK5MYyKGU+NsJxA3+g==;NIy2M0I1MZUOoKvK1oFMcg=="
+secured: "l2PJZZd7LK31WjF+CYAsdmL7PvJDWV2IadG+mMi00gth3Q1D5/oK/A1hrH+wtrsGWPX/WFpNAHltW4u99XadCrIUKsNYC+LwThNX0harGYpPtNWe8jvr6W2bxRe/ZJ3SRNWvlDoxcZHgfzSPQiXP8bNg7YVl057jsoV/cdRQJcjyBYjK99SHCmMBsUGi+FuSqAKwGYycwmakErx367QBUz3ARylbZ44IqFfeBfBP99O7B3hsBBeOG8/gJGYmsazFmOxvshv6QXviCT1psjIcv1I0JGfpWKA3AE9nTWJXAziuIhvQ6uQadWFV6Jt/GbrrM1TE6HN3DOR8vzV/9lCNZx6YVsHwKQA/c0hEXNdw+1A=;NiOgICP2Fx7b/PcE+1eY4A=="
 ---
 

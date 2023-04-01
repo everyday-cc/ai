@@ -1,41 +1,20 @@
 ---
 category: news
 title: "Former IBM CEO on AI, layoffs, women leaders in tech"
-excerpt: "The recent buzz surrounding artificial intelligence and mass layoffs roiling the technology industry is familiar ground for Ginni Rometty, whose nearly 40-year career at IBM culminated in her being promoted to CEO in 2012."
-publishedDateTime: 2023-03-28T18:14:00Z
-originalUrl: "https://www.stltoday.com/business/former-ibm-ceo-on-ai-layoffs-women-leaders-in-tech/article_e51cd543-7a91-53ce-8655-3c8a11d7aaf0.html"
-webUrl: "https://www.stltoday.com/business/former-ibm-ceo-on-ai-layoffs-women-leaders-in-tech/article_e51cd543-7a91-53ce-8655-3c8a11d7aaf0.html"
+excerpt: "Former IBM CEO Ginni Rometty Just before Rometty became IBM's first woman CEO, the company's AI-powered computer Watson outwitted two of the most successful contestants in the history of the game ..."
+publishedDateTime: 2023-03-28T20:01:00Z
+originalUrl: "https://omaha.com/business/former-ibm-ceo-on-ai-layoffs-women-leaders-in-tech/article_be7e3b21-2a12-5667-b06d-ba5918537c9b.html"
+webUrl: "https://omaha.com/business/former-ibm-ceo-on-ai-layoffs-women-leaders-in-tech/article_be7e3b21-2a12-5667-b06d-ba5918537c9b.html"
 type: article
-quality: 19
-heat: -1
-published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - IBM AI
   - AI
 
-related:
-  - title: "Covariant’s CEO on building AI that helps robots learn"
-    excerpt: "When you start by building AI for warehouses ... We’re very excited to do that in the world of robotics."
-    publishedDateTime: 2023-03-28T00:00:00Z
-    webUrl: "https://techcrunch.com/2023/03/28/covariants-ceo-on-building-ai-that-helps-robots-learn/"
-    ampWebUrl: "https://techcrunch.com/2023/03/28/covariants-ceo-on-building-ai-that-helps-robots-learn/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/28/covariants-ceo-on-building-ai-that-helps-robots-learn/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/07/2021_07_13_covarient_retouched-006.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-
-secured: "xJaNIQfD7K4wdTZN/FA/Isc1iUjSB20YdQ4eIOaav+M+1hWPmQoLJn4gYS1ydE0dEdtzATBvl4Ne8HAhVJhd8nxHbr7sq+T6IBm9XrpiFoKFgYMRUEtSiy3kgZT0/V7qxOa847Cdbz1IKrvJ6FZB5yEkEqezTsMZXhGXX6yiF3QRH1FVZHeUhlRPnduaPn51tWWYEz2afNorO1BbGP8dPJCqRLhu6RnopezgpwWdVVlzPxqdMfToG3Zif+OOxlLen2RqqB40tcuAxK3CqO+WRarq5TefVXap65q3l1g8B9B8mKa1i/p1QAQrg/PJtpFa0A2w8/dp6k2VD61pMG+Fp0g/DodFZkqqpderMtNrEi5yhSx2WY4c27qZC27wh5euEGY/mYh8G3pqjNa14l+k9eY0M2k11MAOllF5ZjsUj7r3LilDABxJboIrv94FGpCA7BngltdCXBfoSVKHRxOzX+9YkarIKr3G4N5lRWyleUo4yw+YNiwiCjkCYbvltmBmo1KnE8onZhofneOz1ojlbQ==;YyDrYuYo5ToM2BS1BGc2kg=="
+secured: "8QPuhDzMJjg3wEzXIWHjKjsys5iZqo9hwn1d/PsYgeEJ2zAfnrePIS45Gp5ItBqurzweN3Z62TaeYGyxwoXTX3wAS3n8vLiNu0uNxRtae91gqJ7mMRt/gNYjv3qd2vxosWUk9wp5mGkhpaZxGAUhgcavs7QYxn8jr4tLM37J6ADjDSsI1nuOKmLCmVXOkHLJ14j5KU6bxijwXAExETMUx0yPIFF1ISsosDzKaiklrryvIHuw0zJ6amsx4aFFF7Pcal/tC2CqwRqfo4fLFSuqlnsnA/2HeYPAniUtYFdmyHT4CRkskUOEVwCbCgP1iMoDnT3i7a+1x3eB4xFqQG32Oc7G2mPJSYhJCMNoAWL/iH4=;0hf+f1bgSM9hyXYZYlAsCQ=="
 ---
 
