@@ -23,6 +23,17 @@ topics:
   - AI
 
 related:
+  - title: "Synopsys.ai: New AI Solutions Across The Entire Chip Development Workflow"
+    excerpt: "The company has added Verification and Test AI tools to its already-successful Design tools, DSO.ai, with more to come."
+    publishedDateTime: 2023-03-29T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2023/03/29/synopsysai-new-ai-solutions-across-the-entire-chip-workflow/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/03/29/synopsysai-new-ai-solutions-across-the-entire-chip-workflow/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/03/29/synopsysai-new-ai-solutions-across-the-entire-chip-workflow/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
   - title: "Synopsys Expands Its AI-Powered EDA Chip Design Tool Suite To Overcome Systemic Complexity"
     excerpt: "At its longstanding SNUG Conference, currently underway at the Santa Clara Convention Center in California, Synopsys unveiled powerful additions to its AI-enhanced Electronic Design Automation (EDA) tools suite,"
     publishedDateTime: 2023-03-29T13:09:00Z

@@ -36,20 +36,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
-  - title: "ICMR releases first ethical guidelines for AI application in biomedical research, healthcare"
-    excerpt: "The Indian Council of Medical Research (ICMR) has come up with the country’s first Ethical Guidelines for the Application of Artificial Intelligence in Biomedical Research and Healthcare to provide an ethical framework for the development of AI-based ..."
-    publishedDateTime: 2023-03-27T07:43:00Z
-    webUrl: "https://www.dailypioneer.com/2023/india/icmr-releases-first-ethical-guidelines-for-ai-application-in-biomedical-research--healthcare.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 60
-    images:
-      - url: "https://www.dailypioneer.com/images/logo.jpg"
-        width: 325
-        height: 325
-        isCached: true
   - title: "Mint Explainer: What are the promises and perils of AI in health?"
     excerpt: "The Indian Council of Medical Research (ICMR) recently released broad ethical guidelines on the use of artificial intelligence (AI ... using cognitive behaviour therapy techniques and on-demand support. Another high-potential area is epidemiology ..."
     publishedDateTime: 2023-03-31T07:34:00Z
@@ -79,6 +65,20 @@ related:
       - url: "https://www.christiancentury.org/sites/default/files/images/detail/pexels-federico-orlandi-3260626.jpg"
         width: 6000
         height: 4000
+        isCached: true
+  - title: "AI and the Future of Health"
+    excerpt: "Read about some of our research team’s work to make healthcare more data-driven, predictive, and precise – ultimately, empowering every person on the planet to live a healthier future."
+    publishedDateTime: 2023-03-30T18:43:00Z
+    webUrl: "https://www.microsoft.com/en-us/research/blog/ai-and-the-future-of-health/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2023/03/AI-Health_blog-2023Mar_TW_LI_FB_with_logo_1200x627.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "AI Ethics: Not Eventually, but Now"
     excerpt: "As Moore’s law makes way for specially designed AI acceleration, ethics research is becoming increasingly important. With many technologies trained to learn from experience, such research is not only relevant in anticipation of some distant dystopian future — it is vital today,"

@@ -2,6 +2,144 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-09-tesla-pushes-new-full-self-driving-beta-v11-update-as-it-slowly-expands-rollout.md",
+      "title": "Tesla pushes new Full Self-Driving Beta v11 update as it slowly expands rollout",
+      "excerpt": "Tesla has started to push a new Full Self-Driving Beta v11 software update, but the rollout of the highly anticipated FSD Beta update is still slow. Tesla FSD Beta v11 is both an exciting and scary step as it is supposed to merge Tesla’s FSD and Autopilot highway stacks.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2023/03/08/tesla-full-self-driving-beta-v11-update-slowly-expands-rollout/",
+      "originalUrl": "https://electrek.co/2023/03/08/tesla-full-self-driving-beta-v11-update-slowly-expands-rollout/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-FSD-Beta-pedestrian-Blue-Ridge-Mountains.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T10:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-08-which-masters-degree-is-best-for-artificial-intelligence.md",
+      "title": "Which Master's Degree is Best for Artificial Intelligence?",
+      "excerpt": "A master’s degree in artificial intelligence will open doors to a broader range of professional opportunities, and these sorts of academic qualifications are often more portable across sectors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ghanaweb.com/reporter/post/Which-Master-s-Degree-is-Best-for-Artificial-Intelligence-66521",
+      "originalUrl": "https://www.ghanaweb.com/reporter/post/Which-Master-s-Degree-is-Best-for-Artificial-Intelligence-66521",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ghanaweb.com/imagelib/blog/766/76673159.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T06:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ghanaweb.com",
+        "domain": "ghanaweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-08-how-china-takes-extreme-measures-to-keep-teens-off-tiktok.md",
+      "title": "How China takes extreme measures to keep teens off TikTok",
+      "excerpt": "TikTok announced a one-hour daily limit for users under 18, but authorities in China have pushed the domestic version, Douyin, much further.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/03/08/1069527/china-tiktok-douyin-teens-privacy/",
+      "originalUrl": "https://www.technologyreview.com/2023/03/08/1069527/china-tiktok-douyin-teens-privacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/03/douyin-tiktok-time.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/03/08/1069527/china-tiktok-douyin-teens-privacy/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/03/08/1069527/china-tiktok-douyin-teens-privacy/amp/",
+      "publishedDateTime": "2023-03-08T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-07-is-the-us-government-ready-for-the-rise-of-artificial-intelligence.md",
       "title": "Is the US government ready for the rise of artificial intelligence?",
       "excerpt": "AI could benefit society, but it could also become a monster. To guide the way, we need leadership and understanding",
@@ -1231,162 +1369,6 @@
         "name": "Los Angeles Times",
         "domain": "latimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-artificial-intelligence-ai-in-bfsi-market-provide-valuable-insights-for-market-players-2023-2028.md",
-      "title": "Artificial Intelligence (AI) in BFSI Market provide Valuable Insights for Market Players [2023-2028]",
-      "excerpt": "Feb 27, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in BFSI Market\"Research Report give Analysis of Industry Development Growth",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-provide-valuable-insights-for-market-players-2023-2028-2023-02-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-provide-valuable-insights-for-market-players-2023-2028-2023-02-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-26T22:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-teslas-full-self-driving-isnt-the-only-technology-with-speed-sign-detection-problems.md",
-      "title": "Tesla’s Full Self Driving Isn’t The Only Technology With Speed Sign Detection Problems",
-      "excerpt": "Speed limiting technology has also been mandated over in Europe, where the EU’s Vehicle General Safety Regulation has now been in force for a little over 6 months.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-self-driving-isnt-the-only-technology-with-speed-sign-detection-problems/",
-      "originalUrl": "https://www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-self-driving-isnt-the-only-technology-with-speed-sign-detection-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63fbc34008dd180580147637/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-self-driving-isnt-the-only-technology-with-speed-sign-detection-problems/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-self-driving-isnt-the-only-technology-with-speed-sign-detection-problems/amp/",
-      "publishedDateTime": "2023-02-26T22:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-26-elon-musk-has-promised-self-driving-teslas-for-years-experts-say-its-not-even-close.md",
-      "title": "Elon Musk has promised self-driving Teslas for years. Experts say it's not even close.",
-      "excerpt": "Then in 2019, he said he felt \"very confident\" that, by 2020, Tesla owners who bought the pricey Full Self-Driving option would be able to dispatch their cars as robotaxis and rake in passive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/elon-musk-tesla-full-self-driving-promise-experts-2023-2",
-      "originalUrl": "https://www.businessinsider.com/elon-musk-tesla-full-self-driving-promise-experts-2023-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63f930f7ae0bf0001824b11c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-tesla-full-self-driving-promise-experts-2023-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-full-self-driving-promise-experts-2023-2?amp",
-      "publishedDateTime": "2023-02-26T05:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

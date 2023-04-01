@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/technology-65110030.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65110030.amp"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -49,15 +49,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Hear from the experts: using machine learning and AI to grow your business"
-    excerpt: "Across two events on February 9 and 16, SmartCompany and AWS dived into all things AI and machine learning. In his introduction speech, host Simon Crerar referenced the wide-eyed futurism of science fiction films like Blade Runner."
-    publishedDateTime: 2023-03-29T22:00:00Z
-    webUrl: "https://www.smartcompany.com.au/partner-content/articles/hear-from-the-experts-using-machine-learning-and-ai-to-grow-your-business/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 34
 
 secured: "UAtACJT+GrWspi3InP2KCZQPjoJ0sloG7wnHwWgDOjYsgEFzUzyir4XiVqzGIpud16EsyVn+9FuZVPnC9HvNKARUrNAH5IqTep+8V3KbzqlIdrAWcooq2Y3bI05UVb2JOPDEUJf7YkjbC5zQfUsMuIgjIBxL+egJZEGVptn5z5fr25RLjar+fpsMZCvOdysFscJl4JLsrpYxpq/iis6mCbJ4g5QMm9/KdZGqrmWpu9MgNbsvW3Q6F4S7hOI7GnnS7nhSGM0LNh1voSUCiOSS5WtJWNJJTGEu57lqQGmPydtZUSujGppFop/VHGHTY/KA0EFHCnnW8stDAuNmOqK5lA9wXorGne7Xr+jJce803m3ByyBKefMGDrWPno/UUbM7awVFfxsS9J9olBHubrKMIBez+LNEDZ71QOi5FIsa24EHvDD9eEag2Vky2rJNcimMs7RHNnLPgD1aWzQtyEa6b+rE83+ZWvGFhwh3F8o6ycHGhfGsFTHT0neKCwwPJlmwom5QhPxL7jjSYIA/dWF5AQ==;yghIsmt+D+FEznr+k/Lh6g=="
 ---

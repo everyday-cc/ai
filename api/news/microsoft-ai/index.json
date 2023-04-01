@@ -2,59 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-03-31-the-case-for-how-and-why-ai-might-kill-us-all.md",
-      "title": "The case for how and why AI might kill us all",
-      "excerpt": "Some believe AI is flat-out going to wipe out all of biological life at ... inspired by the way the human brain connects concepts. It worked with Microsoft Azure to build the hardware to run it, then fed it billions and billions of bits of human text ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/technology/ai-danger-kill-everyone",
-      "originalUrl": "https://newatlas.com/technology/ai-danger-kill-everyone",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/f8f2c4a/2147483647/strip/true/crop/1344x706+0+95/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F2d%2Fe3%2F024b16504003a3cc42d21bec425f%2Floz-a-small-child-holds-a-cookie-out-towards-a-much-larger-scar-c3bb1789-1343-47b7-9871-7521a59cb98a.png&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-31T02:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2023-03-31-nvidia-rides-the-generative-ai-wave-at-gtc.md",
       "title": "Nvidia Rides The Generative AI Wave At GTC",
       "excerpt": "Microsoft is incorporating AI technology into Bing for search and chat and in Microsoft 365 as its Copilot assistant to work tasks. All of these services run on Nvidia GPUs. Microsoft Azure cloud services are already using the new Nvidia H100 GPUs in ...",
@@ -160,7 +107,7 @@
       "originalUrl": "https://techcrunch.com/2023/03/30/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 399,
+      "heat": 409,
       "tags": null,
       "images": [
         {
@@ -204,6 +151,102 @@
       ]
     },
     {
+      "path": "_news/2023-03-29-synopsysai-new-ai-solutions-across-the-entire-chip-development-workflow.md",
+      "title": "Synopsys.ai: New AI Solutions Across The Entire Chip Development Workflow",
+      "excerpt": "The company has added Verification and Test AI tools to its already-successful Design tools, DSO.ai, with more to come.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/03/29/synopsysai-new-ai-solutions-across-the-entire-chip-workflow/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/03/29/synopsysai-new-ai-solutions-across-the-entire-chip-workflow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/03/29/synopsysai-new-ai-solutions-across-the-entire-chip-workflow/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/03/29/synopsysai-new-ai-solutions-across-the-entire-chip-workflow/amp/",
+      "publishedDateTime": "2023-03-29T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-29-xoriant-x-celerate-insights-analytics-solution-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Xoriant X-CELERATE Insights Analytics Solution Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Xoriant X-CELERATE Insights Analytics Solution Now Available in the Microsoft Azure Marketplace Mar (PRNewswire via COMTEX) -- PR",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/xoriant-x-celerate-insights-analytics-solution-now-available-in-the-microsoft-azure-marketplace-2023-03-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/xoriant-x-celerate-insights-analytics-solution-now-available-in-the-microsoft-azure-marketplace-2023-03-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-29T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-28-microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters.md",
       "title": "Microsoft Security Copilot harnesses AI to give superpowers to cybersecurity fighters",
       "excerpt": "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ...",
@@ -212,7 +255,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -266,7 +309,7 @@
       "originalUrl": "https://www.livemint.com/technology/tech-news/amazon-microsoft-and-google-s-ai-armies-are-huge-yet-struggling-to-innovate-11679897432675.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -1441,59 +1484,6 @@
         "AI",
         "AI in Healthcare",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-defining-endpoint-security-in-a-zero-trust-world.md",
-      "title": "Defining endpoint security in a zero-trust world",
-      "excerpt": "Increased cloud attacks and the need for stronger endpoint security are making 2023 more challenging than many CISOs budgeted for.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/defining-endpoint-security-in-a-zero-trust-world/",
-      "originalUrl": "https://venturebeat.com/security/defining-endpoint-security-in-a-zero-trust-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/6-5-reasons-why-Zero-Trust-Is-The-Future-Of-Endpoint-Security.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/defining-endpoint-security-in-a-zero-trust-world/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/defining-endpoint-security-in-a-zero-trust-world/amp/",
-      "publishedDateTime": "2023-03-20T15:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

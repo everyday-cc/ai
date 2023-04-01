@@ -204,6 +204,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Everything you need to know about artificial intelligence: What is it used for?"
+    excerpt: "Artificial intelligence is the leading innovation in the technology sector today, offering limitless opportunities to its users while also representing an existential threat to some white-collar ..."
+    publishedDateTime: 2023-03-29T13:09:00Z
+    webUrl: "https://www.foxbusiness.com/technology/everything-about-artificial-intelligence"
+    ampWebUrl: "https://www.foxbusiness.com/technology/everything-about-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/everything-about-artificial-intelligence.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 57
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/f10f4340-42c7-4392-896f-74dc0661b6a9/bfd9c01d-d211-4649-99dc-e9d1fe3285eb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AI Chatbots Can Diagnose Medical Conditions at Home. How Good Are They?"
     excerpt: "As more people turn to chat-based AIs for medical advice, it remains to be seen how these tools stack up against—or could complement—human doctors"
     publishedDateTime: 2023-03-31T19:47:00Z
@@ -220,21 +236,19 @@ related:
         width: 790
         height: 496
         isCached: true
-  - title: "Everything you need to know about artificial intelligence: What is it used for?"
-    excerpt: "Artificial intelligence is the leading innovation in the technology sector today, offering limitless opportunities to its users while also representing an existential threat to some white-collar ..."
-    publishedDateTime: 2023-03-29T13:09:00Z
-    webUrl: "https://www.foxbusiness.com/technology/everything-about-artificial-intelligence"
-    ampWebUrl: "https://www.foxbusiness.com/technology/everything-about-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/everything-about-artificial-intelligence.amp"
+  - title: "ChatGPT Has Impostor Syndrome"
+    excerpt: "The AI had somehow learned arithmetic, along with other, higher mathematics; it could translate between many languages and generate functional code. Despite these impressive—and unanticipated ..."
+    publishedDateTime: 2023-03-28T17:09:00Z
+    webUrl: "https://www.theatlantic.com/technology/archive/2023/03/chatgpt-ai-language-model-identity-introspection/673539/"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 53
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 54
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/f10f4340-42c7-4392-896f-74dc0661b6a9/bfd9c01d-d211-4649-99dc-e9d1fe3285eb/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cdn.theatlantic.com/thumbor/mQc_e57eRLgZlD-8vU0-ANuDU1g=/0x43:2000x1085/1200x625/media/img/mt/2023/03/GPT4ImposterFinalNew/original.png"
+        width: 1200
+        height: 625
         isCached: true
   - title: "Retro Chatbot: ChatGPT comes to MS-DOS with new AI client"
     excerpt: "In this case, he turned his attention to MS-DOS, a text-only operating system first released in 1981, and ChatGPT, an AI-powered large language model (LLM ... proxy that can run on a modern computer and translate the requests and responses between the ..."

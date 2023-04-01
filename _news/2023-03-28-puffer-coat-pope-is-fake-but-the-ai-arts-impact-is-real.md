@@ -7,7 +7,7 @@ originalUrl: "https://www.polygon.com/ai-artificial-intelligence/23658270/puffer
 webUrl: "https://www.polygon.com/ai-artificial-intelligence/23658270/puffer-coat-pope-ai-art-fake-midjourney"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -18,15 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "This Tweet Is Proof Lawmakers Aren’t Ready for the AI Boom"
-    excerpt: "We aren’t ready.” ChatGPT taught itself to do advanced chemistry. It wasn't built into the model. Nobody programmed it to learn complicated chemistry. It decided to teach itself, then made its knowledge available to anyone who asked."
-    publishedDateTime: 2023-03-28T02:49:00Z
-    webUrl: "https://www.thedailybeast.com/senator-chris-murphys-chatgpt-tweet-is-proof-lawmakers-arent-ready-for-the-ai-boom"
+  - title: "Now Is the Best Time To Embrace Artificial Intelligence"
+    excerpt: "Therapy is all about deepening your self-awareness and understanding. Because sometimes we don't know what we want or why we react the way we do until we talk through things. BetterHelp connects ..."
+    publishedDateTime: 2023-03-28T11:46:00Z
+    webUrl: "https://reason.com/podcast/2023/03/27/now-is-the-best-time-to-embrace-artificial-intelligence/"
     type: article
     provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 17
+      name: Reason
+      domain: reason.com
+    quality: 39
+    images:
+      - url: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2023/03/ai2-1024x576.jpeg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "9gtfM8WWRDBnQMDcwEBQke5qtRTkNXvq8ZezmOv/JAN1qLUSeRk8SpitptiqPNW/x94j+gBplTulNmXf0TSNhICvFD13GFadyJSYIofwUsaxgTsfa3o/+aGI3lFbOvYF6P3DhgzYaEpp4UdEZ2Nat/pWnoVBLpGWbi9Dx2qaP2pwaLIK/Zh4WeAFVu8TkA7U3wj5Tv6PS7zxbSBqsJ90ojWDEKdfGd7F3C5imgowSC7iiawXYSZRcuppcVCKk40W/dlbCjl5VoICUAujWweyCy5RI+LtOifSLi3UpzmIaKWWlHn8eBrvhnAer8IoLXFA9AM42Nt9HVgspej4wzo4F3e+L22SudrbtrouzkWTd374NcSLjJpjdfC9rIOytSJvwgjHMJqm6D+s0ycF48cMyTzXKCPHQb3afk1LYKj0+AuidB35EtXK637nMlDdFX3+F74LeNotCxujSUCIDjtikrmjA9B5cT1WpZi+Ds7dHKBeeod43JiJhTg/tAyzLC7gh61E6qVVs5dgXgjcPLNdOg==;79AEge59ktRjOPr/CliJOQ=="
 ---

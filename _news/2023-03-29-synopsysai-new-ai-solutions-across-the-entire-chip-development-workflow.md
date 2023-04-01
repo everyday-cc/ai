@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/03/29/synopsysai-new-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/03/29/synopsysai-new-ai-solutions-across-the-entire-chip-workflow/amp/"
 type: article
 quality: 85
-heat: -1
-published: false
+heat: 115
+published: true
 
 provider:
   name: Forbes
@@ -26,79 +26,35 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "AI and the future of software development"
-    excerpt: "Just ask Jaana Dogan, a distinguished software engineer at GitHub. According to Dogan, “People are too focused on code generation and completely ignore that LLMs are useful for code analysis.” In other words,"
-    publishedDateTime: 2023-03-27T09:00:00Z
-    webUrl: "https://www.infoworld.com/article/3691892/ai-and-the-future-of-software-development.html"
-    ampWebUrl: "https://www.infoworld.com/article/3691892/ai-and-the-future-of-software-development.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3691892/ai-and-the-future-of-software-development.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/05/ai-vendor-relationship-management_artificial-intelligence_hand-on-virtual-screen-100795246-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Will Layoffs by Big Tech Players Hurt Ethical AI Development?"
-    excerpt: "In this period, the company received some complaints about biases, inaccuracies and inappropriate behavior of this AI model. This Zacks Rank #3 (Hold) company dissolved the entire ethics and society team last January, with the company stating that the ..."
-    publishedDateTime: 2023-03-31T15:57:00Z
-    webUrl: "https://www.nasdaq.com/articles/will-layoffs-by-big-tech-players-hurt-ethical-ai-development"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
-  - title: "Big tech and the pursuit of AI dominance"
-    excerpt: "The announcements add to a spate of similar ones in the past month or so from America’s tech titans. OpenAI, the startup which is part-owned by Microsoft and which created ChatGPT , an AI conversationalist that has taken the world by storm,"
-    publishedDateTime: 2023-03-27T08:20:00Z
-    webUrl: "https://www.livemint.com/technology/big-tech-and-the-pursuit-of-ai-dominance-11679904285056.html"
-    ampWebUrl: "https://www.livemint.com/technology/big-tech-and-the-pursuit-of-ai-dominance/amp-11679904285056.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/big-tech-and-the-pursuit-of-ai-dominance/amp-11679904285056.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/03/27/600x338/2-0-1390309169-istockphoto-1130152320-2048x2048-0_1679763214342_1679905001190_1679905001190.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "How AI Is Changing The Future Of Creative Enterprise"
-    excerpt: "AI tools that were once complex and time-consuming are now faster and more consumer-friendly. Soon, the line between \"professional\" and \"consumer\" software tools will blur as they merge and significantly impact business models."
-    publishedDateTime: 2023-03-27T12:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/27/how-ai-is-changing-the-future-of-creative-enterprise/"
+  - title: "Synopsys Expands Its AI-Powered EDA Chip Design Tool Suite To Overcome Systemic Complexity"
+    excerpt: "At its longstanding SNUG Conference, currently underway at the Santa Clara Convention Center in California, Synopsys unveiled powerful additions to its AI-enhanced Electronic Design Automation (EDA) tools suite,"
+    publishedDateTime: 2023-03-29T13:09:00Z
+    webUrl: "https://www.forbes.com/sites/marcochiappetta/2023/03/29/synopsys-expands-it-ai-powered-eda-chip-design-tool-suite-to-overcome-systemic-complexity/"
+    ampWebUrl: "https://www.forbes.com/sites/marcochiappetta/2023/03/29/synopsys-expands-it-ai-powered-eda-chip-design-tool-suite-to-overcome-systemic-complexity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2023/03/29/synopsys-expands-it-ai-powered-eda-chip-design-tool-suite-to-overcome-systemic-complexity/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 47
-  - title: "AI and the Future of Health"
-    excerpt: "Read about some of our research team’s work to make healthcare more data-driven, predictive, and precise – ultimately, empowering every person on the planet to live a healthier future."
-    publishedDateTime: 2023-03-30T18:43:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/blog/ai-and-the-future-of-health/"
+    quality: 74
+  - title: "Synopsys spreads AI throughout its chip design tools"
+    excerpt: "Synopsys Inc on Wednesday rolled out new artificial intelligence tools designed to get better results faster in the various stages of designing computing chips."
+    publishedDateTime: 2023-03-29T23:02:00Z
+    webUrl: "https://www.reuters.com/technology/synopsys-spreads-ai-throughout-its-chip-design-tools-2023-03-29/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2023/03/AI-Health_blog-2023Mar_TW_LI_FB_with_logo_1200x627.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Biodiversity and the future of food served by the cloud"
-    excerpt: "Sponsored: Cloud technology is a critical ingredient to safeguarding biodiversity, securing food’s future and enabling a healthy planet."
-    publishedDateTime: 2023-03-30T07:48:00Z
-    webUrl: "https://www.greenbiz.com/article/biodiversity-and-future-food-served-cloud"
+      name: Reuters
+      domain: reuters.com
+    quality: 64
+  - title: "Synopsys announces full-stack AI-powered suite for advanced chip design"
+    excerpt: "With Synopsys.ai, engineers can now benefit from AI assistance at every stage of the chip design process, from system architecture to design and manufacturing, the company said. Synopsys is a pioneer of electronic design automation,"
+    publishedDateTime: 2023-03-29T17:44:00Z
+    webUrl: "https://siliconangle.com/2023/03/29/synopsys-announces-full-stack-ai-powered-eda-suite-advanced-chip-design/"
     type: article
     provider:
-      name: GreenBiz
-      domain: greenbiz.com
-    quality: 4
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
 
 secured: "rNJXEXcGcGyE+ZDMKgh6Hp5c8fM0/1VpBKmJHxRbXF6KqdosIwjoaJgbaYccR0I+Wn08QSgIF128mFEc5YUn44RpEqaMrA2Gq4pcqV5PF/FiPZRR+ZAxxazhfxADHqQCvgbcPUOJD6yQiCLzjy16mAdDmfLCUpEwjliZslXFbu4gOt3P1LnVU1PAwP3imSwod+5dAJQHlYS9SC3qJDlX5X3Nkm37oFnkytkRAnToGHj6csGtDKIz84OWXSWd6qh+me0uKadaFzkqkxRaP8j5AhoQPHcY/oEvcWieo2qtxuo1YCpWjGZEJFjBI/BPjk7iXr8i/Qsc8R20mze1QXybEPjNo9xrnhW2nDDnTLGRqY95zMbgMOYOAOOZJOSckQZZB4ZzXnzK+Fz2eL2SPpWgJxiqOhhTUjYe9BNo4qs/OCdUws56Qae4PAr1PS/TdhkhkE5So3dEb+2Hlv4CXJKP835nl2cNMNR5F0IjpbLPYo95oV/t18M0nzrjonyZ+sDFy+4HobbNAEQ06TPNCaUqSA==;v76yW9MhzXMli7fMZ6XGfw=="
 ---

@@ -56,22 +56,22 @@
       ]
     },
     {
-      "path": "_news/2023-03-29-synopsys-expands-its-ai-powered-eda-chip-design-tool-suite-to-overcome-systemic-complexity.md",
-      "title": "Synopsys Expands Its AI-Powered EDA Chip Design Tool Suite To Overcome Systemic Complexity",
-      "excerpt": "At its longstanding SNUG Conference, currently underway at the Santa Clara Convention Center in California, Synopsys unveiled powerful additions to its AI-enhanced Electronic Design Automation (EDA) tools suite,",
+      "path": "_news/2023-03-29-synopsysai-new-ai-solutions-across-the-entire-chip-development-workflow.md",
+      "title": "Synopsys.ai: New AI Solutions Across The Entire Chip Development Workflow",
+      "excerpt": "The company has added Verification and Test AI tools to its already-successful Design tools, DSO.ai, with more to come.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2023/03/29/synopsys-expands-it-ai-powered-eda-chip-design-tool-suite-to-overcome-systemic-complexity/",
-      "originalUrl": "https://www.forbes.com/sites/marcochiappetta/2023/03/29/synopsys-expands-it-ai-powered-eda-chip-design-tool-suite-to-overcome-systemic-complexity/",
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/03/29/synopsysai-new-ai-solutions-across-the-entire-chip-workflow/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/03/29/synopsysai-new-ai-solutions-across-the-entire-chip-workflow/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 115,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2023/03/29/synopsys-expands-it-ai-powered-eda-chip-design-tool-suite-to-overcome-systemic-complexity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2023/03/29/synopsys-expands-it-ai-powered-eda-chip-design-tool-suite-to-overcome-systemic-complexity/amp/",
-      "publishedDateTime": "2023-03-29T06:09:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/03/29/synopsysai-new-ai-solutions-across-the-entire-chip-workflow/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/03/29/synopsysai-new-ai-solutions-across-the-entire-chip-workflow/amp/",
+      "publishedDateTime": "2023-03-29T09:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -95,7 +95,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -160,7 +161,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 186,
       "tags": null,
       "images": [
         {

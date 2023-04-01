@@ -1,27 +1,29 @@
 ---
 category: news
 title: "WiMi Develops Deep Learning-Based 3D Target Recognition Algorithm System"
-excerpt: "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced the development of a 3D target recognition algorithm system based on deep learning."
-publishedDateTime: 2023-03-31T13:59:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/wimi-develops-deep-learning-based-3d-target-recognition-algorithm-system-1032206780"
-webUrl: "https://markets.businessinsider.com/news/stocks/wimi-develops-deep-learning-based-3d-target-recognition-algorithm-system-1032206780"
+excerpt: "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology"
+publishedDateTime: 2023-03-31T12:00:00Z
+originalUrl: "https://www.asiaone.com/business/wimi-develops-deep-learning-based-3d-target-recognition-algorithm-system"
+webUrl: "https://www.asiaone.com/business/wimi-develops-deep-learning-based-3d-target-recognition-algorithm-system"
 type: article
-quality: 48
-heat: 48
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "eyNDGaP7+a0JOkpi40hHIt9i6hJNLuv5pWq3A6EF/Q4EdFo+0J2eauWZA1zgI+kCc6MobSyByMCEz2y0M7ETWN12FCRnZ66+YY69d/CV0J0EAzMfr7j+ppJH3/qstArCA53xBWsykGpMBvURwszSAPVPj+kNZh9s8M27fKBMqa212rU+Mhf4CmPYdZLVqBfmlskpeQcyLV1RelSTe3ceBA7EvvlKxHeKAmy81Jc5UAMxnt08tEACZpJ4KJgHUCooGyL2xyv95JeMQV4L2XFlCHJORegEgX5FCZQ90rx2DmATTkSysdNc9+xPmrvG44Wk/rlgXsOn2TyTc7a/NL4MwgMLTcjJnADEHCRXmkCArfw=;qpSSRwHUEF+OjdE5xjneUw=="
+images:
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2023/pr-newswire_500_4_2027.jpg?h=7de12b8a&itok=YGVwsZ-_"
+    width: 600
+    height: 316
+    isCached: true
+
+secured: "ts+hDI351wpMp9VJFWTvsmS5b6E4aim5XjpjyGu5KnAzbYclGAeV3FMR4tzMxnZhZrHeyTCuhjn/rhcIrSW9nlYAsc/KuvurZx2PpRRWxQOHGJTkGR6bwqeEuxAE2RTsn2bA7qLRDhgwhfssqTxMXt5ZGuwibYfDIZVAVZ12k8UTzpwj+TGjAvW7bVPY/dcopwTQLkwOksMzJ3zv7bLqX5kjG2JIiBqmyqKlkdRoSUoZmtAApZOuFxJaie5eqVqhAWwnLkCnYyhbsOeO1d64dLeZCJXhjBvY47oU1ItjJA3OPnjoMeTSpqYowYbPQe+zrtwwaBSVj23O893kQZKz1e3hMW491nm3FKKh5nq9Etc=;wKMLWv+pl6gndRikDcvEzw=="
 ---
 

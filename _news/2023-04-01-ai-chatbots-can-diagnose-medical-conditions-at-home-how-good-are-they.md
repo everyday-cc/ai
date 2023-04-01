@@ -229,11 +229,25 @@ related:
     provider:
       name: Fox Business
       domain: foxbusiness.com
-    quality: 53
+    quality: 57
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/f10f4340-42c7-4392-896f-74dc0661b6a9/bfd9c01d-d211-4649-99dc-e9d1fe3285eb/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "ChatGPT Has Impostor Syndrome"
+    excerpt: "The AI had somehow learned arithmetic, along with other, higher mathematics; it could translate between many languages and generate functional code. Despite these impressive—and unanticipated ..."
+    publishedDateTime: 2023-03-28T17:09:00Z
+    webUrl: "https://www.theatlantic.com/technology/archive/2023/03/chatgpt-ai-language-model-identity-introspection/673539/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 54
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/mQc_e57eRLgZlD-8vU0-ANuDU1g=/0x43:2000x1085/1200x625/media/img/mt/2023/03/GPT4ImposterFinalNew/original.png"
+        width: 1200
+        height: 625
         isCached: true
   - title: "Retro Chatbot: ChatGPT comes to MS-DOS with new AI client"
     excerpt: "In this case, he turned his attention to MS-DOS, a text-only operating system first released in 1981, and ChatGPT, an AI-powered large language model (LLM ... proxy that can run on a modern computer and translate the requests and responses between the ..."
@@ -434,6 +448,6 @@ related:
       domain: fastcompany.com
     quality: 14
 
-secured: "sR0N49ozJov+Zb7Xx4W9l1giCG7zxtDXx1LfTGDCN6n4PFWtoYCoT8VR9+z2Ls7/8CsGV1Pzwz9b7o+PY0dLU/z5aNRjKOv5w/okpB39riLFy86YXpFLKSYJwMCBKpE6FVZmeV1fhuGaEciq/NX1xSsHUw2orze13lkG9xZ8Gcz21a8JG+IkLMk7jPtIy2cOA2liA0E3eBOtpEyPqzFNOg8POpRJwmSOre3xr6FmeeOwN188u9rMmTMQ79yorQV1n291ANMXTDUu9c/xuG04HbBtxVurF0Exee/ETzt4UFWtwbEPehF2mAZsDtyDMEXS7vnPFR5RGnr3Y8s5tX97rV2/vuTO08rJWjoM3mzLICw=;y52Ocd+IB2gI1M76g0q5fA=="
+secured: "x1o8dxyDd51R09af10kJpHEca5zAupJvcf3d1EeVSNHJm8diq+IHMU/A5PwtS9v/WeziDhPl00zJApqmlwl7Ikzfu66xJrP/08SBB6CtcFNHuheFdWqO+JWdJ7776WkyIOgKKgF1xH7J8Nvi1wfsLxYOU9WXUU/+xPejtSZgGvPB3KiyMWbkzGN4RdgvUiBsWW8lZLBQjvQOpfE29f34Qd8/Z6KaeS+VDx8gtH0lnclndcw9uHZiekZSZEsiEv2E9RpInnXr7EzPBpqJzXi288SWRxvwfw9SfgSGgKLY1A0cfbofAGX1uFAwf4QihKjs24w1LxU8WlzgYYgEPqDJlXJoBVnAj84MF5U15mrWh0BksNuo795+JnT+rf2/oIDepIi+g8NiKVu6z0fGjSoKNYoT6oDamGC9vUShsnpQzJDl+fgIcQlK2CPElSjDWRvRQOozj/5EBqBOmU0DAQ00hcfGuYrzYfD/HmcapiaMJPduLON/BkEJYsV6lLJh2Xw2ouJ2o3f4PZ8by5NKYcXH5A==;nG1pW6+Yt4eG+zJLONvN7A=="
 ---
 

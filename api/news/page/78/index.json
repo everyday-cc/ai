@@ -2,6 +2,284 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2023-01-31-will-machine-learning-help-us-find-extraterrestrial-life.md",
+      "title": "Will machine learning help us find extraterrestrial life?",
+      "excerpt": "When pondering the probability of discovering technologically advanced extraterrestrial life, the question that often arises is, \"if they're out there, why haven't we found them yet?\" And often, the response is that we have only searched a tiny portion of the galaxy.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-01-machine-extraterrestrial-life.html",
+      "originalUrl": "https://phys.org/news/2023-01-machine-extraterrestrial-life.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-30T09:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-31-buzzfeed-to-use-artificial-intelligence-for-content.md",
+      "title": "BuzzFeed to use artificial intelligence for content",
+      "excerpt": "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.10news.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content",
+      "originalUrl": "https://www.10news.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.10news.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true",
+      "cdnAmpWebUrl": "https://www-10news-com.cdn.ampproject.org/c/s/www.10news.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true",
+      "publishedDateTime": "2023-01-30T09:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC 10 News",
+        "domain": "10news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-30-how-ai-is-improving-agriculture-sustainability-in-india.md",
+      "title": "How AI is improving agriculture sustainability in India",
+      "excerpt": "A look at how AI can help agriculture and sustainable farming in India.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/how-ai-is-improving-agriculture-sustainability-in-india/",
+      "originalUrl": "https://blog.google/technology/ai/how-ai-is-improving-agriculture-sustainability-in-india/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ak_2_qhJiQ80.max-1300x1300.png",
+          "width": 1300,
+          "height": 902,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-30T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-31-liberal-education-deep-learning-democracy-and-hope-for-higher-education.md",
+      "title": "Liberal Education: Deep Learning, Democracy, And Hope For Higher Education",
+      "excerpt": "US higher education is operating in one of the most challenging but also hopeful times in its history. Such a bold statement demands, and deserves, some explanation. After all, the challenges facing US higher education writ large are well known,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidrosowsky/2023/01/30/liberal-education-deep-learning-democracy-and-hope-for-higher-education/",
+      "originalUrl": "https://www.forbes.com/sites/davidrosowsky/2023/01/30/liberal-education-deep-learning-democracy-and-hope-for-higher-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d8011911709904f04c5506/0x0.jpg?format=jpg&width=1200",
+          "width": 560,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidrosowsky/2023/01/30/liberal-education-deep-learning-democracy-and-hope-for-higher-education/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidrosowsky/2023/01/30/liberal-education-deep-learning-democracy-and-hope-for-higher-education/amp/",
+      "publishedDateTime": "2023-01-30T08:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-01-31-chatgpts-soaring-popularity-has-added-5-billion-to-the-wealth-of-nvidias-founder-as-wall-street-bets-on-ai-boom-for-the-chipmaker.md",
+      "title": "ChatGPT's soaring popularity has added $5 billion to the wealth of Nvidia's founder as Wall Street bets on AI boom for the chipmaker",
+      "excerpt": "Nvidia's role as a dominant player in the chip-making space has made it an attractive bet as Wall Street looks to ride the AI trend. After starting initially with graphics chips used in video games, the company is now involved in making chips for AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-openai-nvidia-jensen-huang-wealth-artificial-intelligence-chip-stocks-2023-1",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-openai-nvidia-jensen-huang-wealth-artificial-intelligence-chip-stocks-2023-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fb6da9232f2170011f7027f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-openai-nvidia-jensen-huang-wealth-artificial-intelligence-chip-stocks-2023-1?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/chatgpt-openai-nvidia-jensen-huang-wealth-artificial-intelligence-chip-stocks-2023-1?amp",
+      "publishedDateTime": "2023-01-30T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-31-project-ellora-how-microsoft-is-helping-preserve-rare-indian-languages-with-ai.md",
+      "title": "Project ELLORA: How Microsoft is helping preserve 'rare' Indian languages with AI",
+      "excerpt": "To bring ‘rare’ Indian languages online, Microsoft launched project ELLORA or Enabling Low Resource Languages in 2015. Under the project, researchers",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/project-ellora-how-microsoft-is-helping-preserve-rare-indian-languages-with-ai/articleshow/97456643.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/project-ellora-how-microsoft-is-helping-preserve-rare-indian-languages-with-ai/articleshow/97456643.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-97456699,width-1070,height-580,imgsize-47682,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1068,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/gadgets-news/project-ellora-how-microsoft-is-helping-preserve-rare-indian-languages-with-ai/amp_articleshow/97456643.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/project-ellora-how-microsoft-is-helping-preserve-rare-indian-languages-with-ai/amp_articleshow/97456643.cms",
+      "publishedDateTime": "2023-01-30T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-31-new-chatbot-is-coming-to-chinese-internet-company-baidu.md",
       "title": "New Chatbot Is Coming to Chinese Internet Company Baidu",
       "excerpt": "Chinese-owned internet company Baidu Inc. is reportedly launching a ChatGPT-style bot in March to merge with the company’s search engine eventually, an unnamed source familiar with the matter ...",
@@ -949,308 +1227,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-with-astonishing-cagr-automated-machine-learning-automl-market-generate-revenue-at-significant-rate-2029.md",
-      "title": "With Astonishing CAGR, Automated Machine Learning (AutoML) Market Generate Revenue at Significant Rate, 2029",
-      "excerpt": "Automated Machine Learning (AutoML) Market 2022 Report (Report Pages-103) offers a Comprehensive assessment regarding",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/with-astonishing-cagr-automated-machine-learning-automl-market-generate-revenue-at-significant-rate-2029-2023-01-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/with-astonishing-cagr-automated-machine-learning-automl-market-generate-revenue-at-significant-rate-2029-2023-01-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-29T20:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-us-defence-department-issues-new-directive-autonomy-in-weapons-systems-with-ai-policy-guidance.md",
-      "title": "US Defence Department Issues New Directive: Autonomy In Weapons Systems With AI Policy Guidance",
-      "excerpt": "The U.S. Defense Department released on January 25, 2023 its update on autonomous weapons to take into account AI's \"increasing role\" in warfare. This article references also the pros and cons of AI in the military.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/01/30/us-defence-department-issues-new-directive-autonomy-in-weapons-systems-with-ai-policy-guidance/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/01/30/us-defence-department-issues-new-directive-autonomy-in-weapons-systems-with-ai-policy-guidance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63d6e7073fdb7283cba89c4b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/01/30/us-defence-department-issues-new-directive-autonomy-in-weapons-systems-with-ai-policy-guidance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/01/30/us-defence-department-issues-new-directive-autonomy-in-weapons-systems-with-ai-policy-guidance/amp/",
-      "publishedDateTime": "2023-01-29T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-otterai-is-a-gem-for-transcribing-your-recorded-thoughts-into-writing.md",
-      "title": "Otter.ai Is A Gem For Transcribing Your Recorded Thoughts Into Writing",
-      "excerpt": "Taking notes by keyboard, or even worse for some, by hand with a pen or pencil, is akin to the dark ages. Try this terrific app and service, Otter.ai, to transcribe your verbal thoughts to writing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tjmccue/2023/01/29/otterai-is-a-gem-for-transcribing-your-recorded-thoughts-into-writing/",
-      "originalUrl": "https://www.forbes.com/sites/tjmccue/2023/01/29/otterai-is-a-gem-for-transcribing-your-recorded-thoughts-into-writing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63d7496e0aba9cf779a89c55/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1057,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tjmccue/2023/01/29/otterai-is-a-gem-for-transcribing-your-recorded-thoughts-into-writing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tjmccue/2023/01/29/otterai-is-a-gem-for-transcribing-your-recorded-thoughts-into-writing/amp/",
-      "publishedDateTime": "2023-01-29T19:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-global-healthcare-natural-language-processing-nlp-market-2023-by-key-players-product-type-and-end-users-and-variety-forecast-to-2028.md",
-      "title": "Global Healthcare Natural Language Processing (NLP) Market 2023 by Key Players, Product Type and End-Users and Variety Forecast To 2028",
-      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 Influence on this Healthcare",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-healthcare-natural-language-processing-nlp-market-2023-by-key-players-product-type-and-end-users-and-variety-forecast-to-2028-2023-01-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-healthcare-natural-language-processing-nlp-market-2023-by-key-players-product-type-and-end-users-and-variety-forecast-to-2028-2023-01-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-29T19:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-no-campaigners-push-migrant-recognition.md",
-      "title": "‘No’ campaigners push migrant recognition",
-      "excerpt": "Supporters of the \"no\" campaign for an Indigenous voice to parliament want both Indigenous people and migrants to be constitutionally recognised.",
-      "sourceUrl": null,
-      "webUrl": "https://thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/",
-      "originalUrl": "https://thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thenewdaily.com.au/wp-content/uploads/2023/01/1675046142-Warren-Mundine.jpg?resize=960,600",
-          "width": 960,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/amp/",
-      "cdnAmpWebUrl": "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/amp/",
-      "publishedDateTime": "2023-01-29T18:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thenewdaily",
-        "domain": "thenewdaily.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-chinese-search-giant-baidu-to-launch-chatgpt-style-bot.md",
-      "title": "Chinese Search Giant Baidu to Launch ChatGPT-Style Bot",
-      "excerpt": "Baidu Inc. is planning to roll out an artificial intelligence chatbot service similar to OpenAI’s ChatGPT, according to a person familiar with the matter, potentially China’s most prominent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-01-30/chinese-search-giant-baidu-to-launch-chatgpt-style-bot-in-march",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-01-30/chinese-search-giant-baidu-to-launch-chatgpt-style-bot-in-march",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igdSOD6Jy2II/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-29T18:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

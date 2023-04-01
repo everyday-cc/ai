@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Discovering Cohere AI and How It’s Different from OpenAI"
-    excerpt: "Cohere is focused on the customer's actual problems and the requests from many of their customers have been language-centric"
-    publishedDateTime: 2023-03-27T07:53:00Z
-    webUrl: "https://analyticsindiamag.com/discovering-cohere-ai-and-how-its-different-from-openai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/Cohere-AI-.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Zoom upgrades AI features with OpenAI to make meetings simpler"
     excerpt: "“We are excited to bring many more capabilities with new large language models. Our unique approach to AI will give customers the flexibility ... for an expanded whiteboard service, automated translation tech, tools for hybrid workplace video calls ..."
     publishedDateTime: 2023-03-27T15:49:00Z

@@ -20,45 +20,61 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Elon Musk among experts urging a halt to AI training"
-    excerpt: "They have signed an open letter warning of potential risks, and say the race to develop AI systems is out of control. Twitter chief Elon Musk is among those who want training of AIs above a certain capacity to be halted for at least six months."
-    publishedDateTime: 2023-03-30T13:54:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-65110030?at_campaign=Social_Flow&at_medium=social&at_bbc_team=editorial&at_campaign_type=owned&at_link_type=web_link&at_format=link&at_link_origin=BBCNews&at_ptr_name=twitter&at_link_id=F9347918-CE37-11ED-B2E8-F7EC4744363C"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-65110030.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65110030.amp"
+  - title: "How AI Can Kill Your Career Or Business"
+    excerpt: "You’ll find it difficult to pick up a publication from the last few months that does not include an article on artificial intelligence, specifically OpenAI and its ChatGPT capabilities, as well as Google’s Bard."
+    publishedDateTime: 2023-03-31T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/womensmedia/2023/03/31/how-ai-can-kill-your-career-or-business/"
+    ampWebUrl: "https://www.forbes.com/sites/womensmedia/2023/03/31/how-ai-can-kill-your-career-or-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/womensmedia/2023/03/31/how-ai-can-kill-your-career-or-business/amp/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1345A/production/_129183987_gettyimages-1239416791.jpg"
-        width: 1024
-        height: 576
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6425c172576c7d0922f43b0e/0x0.jpg?format=jpg&width=1200"
+        width: 640
+        height: 613
         isCached: true
-  - title: "Elon Musk Mocks Bill Gates's Knowledge Of Artificial Intelligence, ‘His Understanding Of AI Was....’,"
-    excerpt: "Twitter boss thinks that Bill Gates' knowledge of AI was constantly confined and still is. Elon Musk has recently spoken out a lot about the risks posed by AI. Particularly now that AI chatbots like ChatGPT,"
-    publishedDateTime: 2023-03-28T09:41:00Z
-    webUrl: "https://in.mashable.com/tech/49716/elon-musk-mocks-bill-gatess-knowledge-of-artificial-intelligence-his-understanding-of-ai-was"
+  - title: "The case for how and why AI might kill us all"
+    excerpt: "Some believe AI is flat-out going to wipe out all of biological life at ... inspired by the way the human brain connects concepts. It worked with Microsoft Azure to build the hardware to run it, then fed it billions and billions of bits of human text ..."
+    publishedDateTime: 2023-03-31T09:28:00Z
+    webUrl: "https://newatlas.com/technology/ai-danger-kill-everyone"
     type: article
     provider:
-      name: in.mashable
-      domain: mashable.com
-    quality: 49
-  - title: "AI doesn’t belong everywhere. Stop using a hammer to make lasagna."
-    excerpt: "To remind us of the risks of technology as the wrong solution to the wrong problem, today I am adding Instacart, Levi’s and the other examples above to The Tech Friend’s AI Juicero hall of fame. The name comes from an infamous Silicon Valley start-up."
-    publishedDateTime: 2023-03-28T16:32:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/03/28/silly-uses-ai-are-giving-me-flashbacks-flatulence-apps/"
+      name: New Atlas
+      domain: newatlas.com
+    quality: 71
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/f8f2c4a/2147483647/strip/true/crop/1344x706+0+95/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F2d%2Fe3%2F024b16504003a3cc42d21bec425f%2Floz-a-small-child-holds-a-cookie-out-towards-a-much-larger-scar-c3bb1789-1343-47b7-9871-7521a59cb98a.png&na.image_optimisation=0"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The bots of business: Business students and professionals discuss AI impact on healthcare and finance"
+    excerpt: "Since the days of Alan Turing and Isaac Asimov, the symbiotic worlds of science and science fiction have been weighing the opportunities provided by artificial intelligence ... 24 to discuss the impact of AI on healthcare and financial services."
+    publishedDateTime: 2023-03-31T06:51:00Z
+    webUrl: "https://dailyfreepress.com/2023/03/31/the-bots-of-business-business-students-and-professionals-discuss-ai-impact-on-healthcare-and-finance/"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
+      name: The Daily Free Press
+      domain: dailyfreepress.com
+    quality: 56
+    images:
+      - url: "https://dailyfreepress.com/wp-content/uploads/Digital_BurkeStevenson_techconnect_1.jpg"
+        width: 1000
+        height: 664
+        isCached: true
+  - title: "Artificial Intelligence in Business: Will AI Solve Your Recruiting Headache… Or Create a Bigger One?"
+    excerpt: "In a new series of blog posts, we will discuss Artificial Intelligence (AI) and the benefits and challenges it presents to businesses and employers. Our first post of the series explores AI and its impact on employment decisions. AI recruiting software ..."
+    publishedDateTime: 2023-03-30T20:13:00Z
+    webUrl: "https://www.natlawreview.com/article/artificial-intelligence-business-will-ai-solve-your-recruiting-headache-or-create"
+    ampWebUrl: "https://www.natlawreview.com/article/artificial-intelligence-business-will-ai-solve-your-recruiting-headache-or-create?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/artificial-intelligence-business-will-ai-solve-your-recruiting-headache-or-create?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
     quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L3TBKDU7QZEGNLUUGDFTROTZPY.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "5dUGwuRoPidculzB5UHM8QjcT+t8FMLA8gel4UsQIkrPkG8fLvocwWGENO2V5Trtf/kIjnlVe2ipOCGkVEEHR6TmmU8DgpJybpZkK7jkIFuEq+ocoQxJqcJsVWSaeIWeRH0WOY4fiG55ceFQlkwMas1aWcnr5r+teM2+u2Ohz4yh8VcXdIE0MiaMutdn30TvRtUW0zjRpU/zF+rHVa80myqKOLHBkiyTEKiVArfwPos+tfP/G+xM+VWZbHCdUdLx1JWEcb7zkntpNF2TP8kIOp5hIqlycK9yjYad7Uyud0sgkMsX0ORzZlaGrDvTySzdkChTowOI0z9/3d0XJqyTff8SQ5TVUSTiSjbaqDzpo95ONfTgfUZ6OA783JZsCwjBZhaKaBIPm2EclzLVpoDwiSUXHbFJBJUZ8HwDQJPzEP0h5p4SdSHJEFd1UcbmTnlsFY8QOtAGJs82S0PybHRB7DsY/Koo0GesSWilaq54KW3j2tDH+qHWOu9NTmqkW6GjHPENRZW5Bv9g90cRrRUUzg==;EP48AIK7oCRSgW4/nwokGw=="
 ---

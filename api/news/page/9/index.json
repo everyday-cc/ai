@@ -2,6 +2,312 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-03-22-investors-take-note-nvidias-rush-of-new-ai-deals-could-be-a-game-changer.md",
+      "title": "Investors, Take Note: Nvidia's Rush of New AI Deals Could Be a Game Changer",
+      "excerpt": "The inveterate graphics processor designer has been busy making moves in the AI space recently. I mean really recently, as the push included a flurry of new partnership announcements at the 2023 version of Nvidia's GPU Technology Conference (GTC).",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/03/22/investors-take-note-of-nvidia-ai-deals/",
+      "originalUrl": "https://www.fool.com/investing/2023/03/22/investors-take-note-of-nvidia-ai-deals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/725492/nvda-logo-green.jpg",
+          "width": 2560,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-2-top-ai-stocks-ready-for-bull-runs.md",
+      "title": "2 Top AI Stocks Ready for Bull Runs",
+      "excerpt": "For instance, Microsoft has made ChatGPT available on its Azure cloud computing platform. The company's customers can now use large language AI models for various enterprise applications such as accelerating code development, improving email marketing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/03/22/2-top-ai-stocks-ready-for-bull-runs/",
+      "originalUrl": "https://www.fool.com/investing/2023/03/22/2-top-ai-stocks-ready-for-bull-runs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/725348/artificial-intelligence-getty-62817.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Facebook AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-biologists-say-deep-learning-is-revolutionizing-pace-of-innovation.md",
+      "title": "Biologists Say Deep Learning Is Revolutionizing Pace of Innovation",
+      "excerpt": "There’s another facet of the new AI revolution, a marriage of deep learning and biology, that’s at least as important, but far less widely understood. The fascination with generative AI exploded late last November with the release of OpenAI’s text ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/biologists-say-deep-learning-is-revolutionizing-pace-of-innovation-eeb79c1b",
+      "originalUrl": "https://www.wsj.com/articles/biologists-say-deep-learning-is-revolutionizing-pace-of-innovation-eeb79c1b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-718324/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-github-unveils-copilot-x-the-future-of-ai-powered-software-development.md",
+      "title": "GitHub unveils Copilot X: The future of AI-powered software development",
+      "excerpt": "GitHub is introducing Copilot X, adopting the latest OpenAI GPT-4 model and expanding Copilot's capabilities with chat and pull requests.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai-powered-software-development/",
+      "originalUrl": "https://venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai-powered-software-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Screenshot-2023-03-22-at-12.09.08-AM.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai-powered-software-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai-powered-software-development/amp/",
+      "publishedDateTime": "2023-03-22T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-nvidia-stock-gtc-confirms-the-ai-opportunity-but-the-goodness-is-priced-in-says-deutsche-bank.md",
+      "title": "Nvidia Stock: GTC Confirms the AI Opportunity, but the Goodness Is Priced in, Says Deutsche Bank",
+      "excerpt": "There’s no way around it, artificial intelligence (AI) looks set to play an increasingly big role in our daily lives and Nvidia (NVDA) has positioned itself at the forefront of this revolution. The chip giant’s pivot to all things AI was already well ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-gtc-confirms-the-ai-opportunity-but-the-goodness-is-priced-in-says-deutsche-bank-1032185028",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-gtc-confirms-the-ai-opportunity-but-the-goodness-is-priced-in-says-deutsche-bank-1032185028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/03/image-544-1024x506.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 1024,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup.md",
+      "title": "Intel GPU chief Raja Koduri quits to form own generative AI startup",
+      "excerpt": "Indian-American Raja Koduri, head of Intel's Accelerated Computing Systems and Graphics Group, has quit the chip-making major to form his own generative artificial intelligence (AI) startup.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-10/12/full/1665536422-4008.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html",
+      "publishedDateTime": "2023-03-22T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more.md",
       "title": "Microsoft unveils plans to use AI feature in Outlook, Excel and more",
       "excerpt": "On the other hand, AI critics worry it will bring more harm ... and perform a wide range of language-related tasks such as language translation, text summarization [and] sentiment analysis.”",
@@ -886,299 +1192,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-how-you-can-tell-the-ai-images-of-trumps-arrest-are-deepfakes.md",
-      "title": "How You Can Tell the AI Images of Trump’s Arrest Are Deepfakes",
-      "excerpt": "Doctored images of the former US president went viral on Twitter. These are the telltale signs that they aren’t what they seem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/how-to-tell-fake-ai-images-donald-trump-arrest/",
-      "originalUrl": "https://www.wired.com/story/how-to-tell-fake-ai-images-donald-trump-arrest/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/641a3cc41b037831fcc7504c/master/pass/How-You-Can-Tell-the-AI-Images-of-Trump%E2%80%99s-Arrest-Are-Deepfakes-Security-GettyImages-1248481192.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/how-to-tell-fake-ai-images-donald-trump-arrest/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-to-tell-fake-ai-images-donald-trump-arrest/amp",
-      "publishedDateTime": "2023-03-21T16:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-nvidia-and-google-cloud-deliver-powerful-new-generative-ai-platform-built-on-the-new-l4-gpu-and-vertex-ai.md",
-      "title": "NVIDIA and Google Cloud Deliver Powerful New Generative AI Platform, Built on the New L4 GPU and Vertex AI",
-      "excerpt": "NVIDIA today announced Google Cloud is integrating the newly launched L4 GPU and Vertex AI to accelerate the work of companies building a rapidly expanding number of generative AI applications. Google Cloud,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/03/21/9780952.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/03/21/9780952.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T16:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-everything-everywhere-is-going-to-change-all-at-once.md",
-      "title": "Everything, Everywhere Is Going to Change All at Once",
-      "excerpt": "Consider just one example that most people probably haven’t even heard of — the way DeepMind, an A.I. lab owned by Google parent Alphabet, recently used its AlphaFold A.I. system to solve one of the most wicked problems in science — at a speed and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/03/21/opinion/artificial-intelligence-chatgpt.html",
-      "originalUrl": "https://www.nytimes.com/2023/03/21/opinion/artificial-intelligence-chatgpt.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/03/21/multimedia/21Friedman-hkzp/21Friedman-hkzp-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/03/21/opinion/artificial-intelligence-chatgpt.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/21/opinion/artificial-intelligence-chatgpt.amp.html",
-      "publishedDateTime": "2023-03-21T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-nvidia-launches-new-gpus-and-services-for-generative-ai-inferencing.md",
-      "title": "NVIDIA Launches New GPUs And Services for Generative AI Inferencing",
-      "excerpt": "ChatGPT has certainly changed the AI landscape, but it currently requires an 8-GPU node to run a query on OpenAI and Microsoft’s infrastructure. That is due in part to the memory requirements to hold the large model in the HBM memory of an NVIDIA A100 or ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/03/21/nvidia-launches-new-gpus-and-services-for-generative-ai-inferencing/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/03/21/nvidia-launches-new-gpus-and-services-for-generative-ai-inferencing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 424,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641a1edc5df0ce1a2b4b2898/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/03/21/nvidia-launches-new-gpus-and-services-for-generative-ai-inferencing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/03/21/nvidia-launches-new-gpus-and-services-for-generative-ai-inferencing/amp/",
-      "publishedDateTime": "2023-03-21T15:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-machine-learning-in-manufacturing-market-global-strategic-business-report-2031.md",
-      "title": "Machine Learning in Manufacturing Market : Global Strategic Business Report 2031",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 21, 2023 (The Expresswire) -- “Machine Learning in Manufacturing Market” information for each competitor includes [ NVIDIA, Dell Inc., Oracle Corporation, SAS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-global-strategic-business-report-2031-2023-03-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-global-strategic-business-report-2031-2023-03-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-nvidia-eases-the-complexity-of-robot-training.md",
-      "title": "NVIDIA Eases The Complexity Of Robot Training",
-      "excerpt": "GPU market leader NVIDIA is holding its virtual GPU Technology Conference (GTC). Over the years, GTC has evolved from a graphics and gaming show to an industry event dedicated to all things artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/nvidia-robot-training/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/nvidia-robot-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-Database-05-1088x725-1.jpg",
-          "width": 1088,
-          "height": 725,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://dailyfreepress.com/2023/03/31/the-bots-of-business-busines
 webUrl: "https://dailyfreepress.com/2023/03/31/the-bots-of-business-business-students-and-professionals-discuss-ai-impact-on-healthcare-and-finance/"
 type: article
 quality: 56
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,36 @@ images:
     isCached: true
 
 related:
+  - title: "How AI Can Kill Your Career Or Business"
+    excerpt: "You’ll find it difficult to pick up a publication from the last few months that does not include an article on artificial intelligence, specifically OpenAI and its ChatGPT capabilities, as well as Google’s Bard."
+    publishedDateTime: 2023-03-31T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/womensmedia/2023/03/31/how-ai-can-kill-your-career-or-business/"
+    ampWebUrl: "https://www.forbes.com/sites/womensmedia/2023/03/31/how-ai-can-kill-your-career-or-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/womensmedia/2023/03/31/how-ai-can-kill-your-career-or-business/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6425c172576c7d0922f43b0e/0x0.jpg?format=jpg&width=1200"
+        width: 640
+        height: 613
+        isCached: true
+  - title: "The case for how and why AI might kill us all"
+    excerpt: "Some believe AI is flat-out going to wipe out all of biological life at ... inspired by the way the human brain connects concepts. It worked with Microsoft Azure to build the hardware to run it, then fed it billions and billions of bits of human text ..."
+    publishedDateTime: 2023-03-31T09:28:00Z
+    webUrl: "https://newatlas.com/technology/ai-danger-kill-everyone"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 71
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/f8f2c4a/2147483647/strip/true/crop/1344x706+0+95/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F2d%2Fe3%2F024b16504003a3cc42d21bec425f%2Floz-a-small-child-holds-a-cookie-out-towards-a-much-larger-scar-c3bb1789-1343-47b7-9871-7521a59cb98a.png&na.image_optimisation=0"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Business: Will AI Solve Your Recruiting Headache… Or Create a Bigger One?"
     excerpt: "In a new series of blog posts, we will discuss Artificial Intelligence (AI) and the benefits and challenges it presents to businesses and employers. Our first post of the series explores AI and its impact on employment decisions. AI recruiting software ..."
     publishedDateTime: 2023-03-30T20:13:00Z
@@ -37,6 +67,15 @@ related:
       name: The National Law Review
       domain: natlawreview.com
     quality: 37
+  - title: "Hear from the experts: using machine learning and AI to grow your business"
+    excerpt: "Across two events on February 9 and 16, SmartCompany and AWS dived into all things AI and machine learning. In his introduction speech, host Simon Crerar referenced the wide-eyed futurism of science fiction films like Blade Runner."
+    publishedDateTime: 2023-03-29T22:00:00Z
+    webUrl: "https://www.smartcompany.com.au/partner-content/articles/hear-from-the-experts-using-machine-learning-and-ai-to-grow-your-business/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 34
 
 secured: "vzOH8/uRK4xEydyjnyCcD8cig9+vNOsqU1+JPwuqTtrRYIefnCytj/sWL7PWFza1KVb2JKPpHT1nNZjUZYTQv5TQwVQsLjzyObOCTM0Tn24pBEqv17iuj8i/OOMb1rQV1gkJA7oJOLhurFqezYA/sGgpz8m04bGT60oGAjcQx/0inRCt5WbckKgfsbMRt/n9vPpivCB7WCRyw8E+b/SSJ/j+unp/++EizTlCtG5KQ6Vtn8wAXIKafdvAjoaIW427Uom/ke/SuTT/wPdLYxGODXA0sGRuVxcpabrgjrx3vuGF57SaLefX1rGB+6E9yXmgXyix6EJsq0+CsLgb/P6S/28Lt+zU9XYMeusAo26kx7c=;oFxTwV9C94D9IFGgNURcXw=="
 ---

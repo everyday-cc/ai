@@ -101,20 +101,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft, Google, Amazon Look to Generative AI to Lift Cloud Businesses"
-    excerpt: "The cloud providers are using the tech behind ChatGPT to heat up demand for their services."
-    publishedDateTime: 2023-03-27T08:31:00Z
-    webUrl: "https://www.wsj.com/articles/microsoft-google-amazon-look-to-generative-ai-to-lift-cloud-businesses-7159a43f"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 83
-    images:
-      - url: "https://images.wsj.net/im-750908/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Pope Francis the fashion icon? Detecting AI images reaches 'uncanny valley,' cybersecurity expert warns"
     excerpt: "Those images, created through artificial intelligence (AI)-generator model Midjourney, were uploaded to Facebook and Reddit groups dedicated ... If you're feeling alone or dissatisfied, a new research suggests that watching live sports in person may ..."
     publishedDateTime: 2023-03-28T02:44:00Z

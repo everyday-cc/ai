@@ -3,8 +3,8 @@ category: news
 title: "Misinformation, mistakes and the Pope in a puffer: what rapidly evolving AI can – and can’t – do"
 excerpt: "Experts have sounded a warning on artificial intelligence as it becomes increasingly sophisticated and harder to detect"
 publishedDateTime: 2023-03-31T13:37:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/apr/01/misinformation-mistakes-and-the-pope-in-a-puffer-what-rapidly-evolving-ai-can-and-cant-do"
-webUrl: "https://www.theguardian.com/technology/2023/apr/01/misinformation-mistakes-and-the-pope-in-a-puffer-what-rapidly-evolving-ai-can-and-cant-do"
+originalUrl: "https://www.theguardian.com/technology/2023/apr/01/misinformation-mistakes-and-the-pope-in-a-puffer-what-rapidly-evolving-ai-can-and-cant-do?ref=upstract.com"
+webUrl: "https://www.theguardian.com/technology/2023/apr/01/misinformation-mistakes-and-the-pope-in-a-puffer-what-rapidly-evolving-ai-can-and-cant-do?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/apr/01/misinformation-mistakes-and-the-pope-in-a-puffer-what-rapidly-evolving-ai-can-and-cant-do"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/apr/01/misinformation-mistakes-and-the-pope-in-a-puffer-what-rapidly-evolving-ai-can-and-cant-do"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "tCiOTnacGAGXn52+y6IrMIvI3xSpbRqGPVJfVJyu0hguinfjZxOP1YPTS6z1yk9wrbWMJ8QeZ8I6OrN3ksGAkJ84JLYpT0OflpIDtybisj5PHi9oGNEgM3aqc76KQKFNW1e3A/m9MrjIcKhL+A9uZEt5IsRQs28sfBD5pMWYsKlTlNQrCzl5w/BtqEtKpv6EvwuXFjuL6TziTSsHlFQqvAW70rtBkxqMD6OTVIi//S1/G4WJA3VW5DAw3W48xIG50rNJoTYiUWI1UHYoG3DGOYO4KNuQjgYLFlVQJHAA7pJ4haX4mimK/OABLYRrQF3d6VohXzhKYW7bz+8b7MvJKMzOmW40khsFTItTZnS8+UA=;gks7Jni9PSqplQVHc6q+NA=="
+secured: "RasyyjLmbvQqEpwfFn2vDdUCh5ljGfHSXO4PhGEzhj3X567YwqGjoQaJNPl1PRiLSxvGADcdgHdqND9ysaNq0v1RDKYBdNn6oqB9IXnWJN8Ratdf/0giCXSVx8DtyDjnsyzYhGmVbXupN8ndwmyKeDKDg3x1cg6V+REKdkHlo9pigR9Auzs6Bw2Xc4D0rtMkSCED+rmLDWvYnB4Y3fKkdO/G8REialRdsb5R9WJ1lRszfQ/1UzEoQFc9+8Rk41ImQhTqoa0bNDFthRDU77fLMo2wrxuU4Jv2FUrky/EpZV2JOu4Uy5JR7E8NE885lCN+IRRjE3foq4dPuOkKHhsbOGqrOiKglWNXf+FnWprdJLc=;7i135zGmG6sy2zNCHbZiMA=="
 ---
 

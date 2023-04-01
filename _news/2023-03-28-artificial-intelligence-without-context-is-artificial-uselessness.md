@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/joemckendrick/2023/03/28/artificial-intell
 ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/03/28/artificial-intelligence-without-context-is-artificial-uselessness/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/03/28/artificial-intelligence-without-context-is-artificial-uselessness/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6423031ac925ba728ee2d103/0x0.jpg?format=jpg&width=1200"

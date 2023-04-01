@@ -2,6 +2,292 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2023-02-03-nvidia-rallies-as-investors-bullish-on-chipmakers-ai-business.md",
+      "title": "Nvidia Rallies As Investors Bullish On Chipmaker's AI Business",
+      "excerpt": "Shares of Nvidia advanced 33.69% in January and started February with a gain of 11.12%. The moves come as Wall Street analysts are increasingly bullish on chip stocks, partly because the notorious chip shortages of 2021 and 2022 are easing and partly on robust prospects for AI chips for use in almost every industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/nvidia-rallies-as-investors-bullish-on-chipmakers-ai-business",
+      "originalUrl": "https://www.nasdaq.com/articles/nvidia-rallies-as-investors-bullish-on-chipmakers-ai-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-03T03:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-03-see-the-pitch-deck-construction-robotics-firm-kewazo-used-to-raise-a-10-million-series-a.md",
+      "title": "See the pitch deck construction-robotics firm Kewazo used to raise a $10 million Series A",
+      "excerpt": "The artificial-intelligence startup Kewazo is focusing its efforts on the construction ... said the company's next goal was to expand across Europe and into North America, while adding to the robot's functions. Kewazo recently raised a $10 million Series ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/pitch-deck-construction-robotics-company-kewazo-raise-series-a-2023-2",
+      "originalUrl": "https://www.businessinsider.com/pitch-deck-construction-robotics-company-kewazo-raise-series-a-2023-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63dbe024e33c4000193aacce?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-03T02:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-03-baidu-plans-a-chatgpt-rival-the-chinese-internet-giants-stock-could-reap-the-returns.md",
+      "title": "Baidu Plans a ChatGPT Rival. The Chinese Internet Giant’s Stock Could Reap the Returns.",
+      "excerpt": "Talk about buying the rumor. Baidu China’s leading internet search provider, let it be known on Jan. 30 that it will launch a so-called chatbot powered by artificial intelligence, akin to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/china-baidu-chatgpt-rival-stock-price-51675376910",
+      "originalUrl": "https://www.barrons.com/articles/china-baidu-chatgpt-rival-stock-price-51675376910",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-714901/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/china-baidu-chatgpt-rival-stock-price-51675376910",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/china-baidu-chatgpt-rival-stock-price-51675376910",
+      "publishedDateTime": "2023-02-03T02:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-03-why-tech-billionaires-love-middle-earth.md",
+      "title": "Why Tech Billionaires Love Middle-earth",
+      "excerpt": "Under the Trump Administration, the company began building surveillance towers along the U.S.-Mexico border that track undocumented immigrant crossings using object recognition. Computer scientists and human rights groups say virtual border wall projects ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/2023/02/10/why-tech-billionaires-love-middle-earth-1778694.html",
+      "originalUrl": "https://www.newsweek.com/2023/02/10/why-tech-billionaires-love-middle-earth-1778694.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2189023/cul-lord-rings-libertarians-02.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/2023/02/10/why-tech-billionaires-love-middle-earth-1778694.html?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2023/02/10/why-tech-billionaires-love-middle-earth-1778694.html?amp=1",
+      "publishedDateTime": "2023-02-03T02:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-03-how-to-overcome-five-roadblocks-when-implementing-aiml-in-the-financial-sector.md",
+      "title": "How To Overcome Five Roadblocks When Implementing AI/ML In The Financial Sector",
+      "excerpt": "Cybercrime and data breaches are perhaps one of the biggest challenges faced by the financial industry. As of 2022, the average cost of a data breach in the financial sector world",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/03/how-to-overcome-five-roadblocks-when-implementing-aiml-in-the-financial-sector/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/03/how-to-overcome-five-roadblocks-when-implementing-aiml-in-the-financial-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6138d885572a0ccebef2fe73/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/03/how-to-overcome-five-roadblocks-when-implementing-aiml-in-the-financial-sector/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/03/how-to-overcome-five-roadblocks-when-implementing-aiml-in-the-financial-sector/amp/",
+      "publishedDateTime": "2023-02-03T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-02-03-the-baidu-stock-rally-looks-set-to-continue.md",
+      "title": "The Baidu Stock Rally Looks Set To Continue",
+      "excerpt": "Chinese search engine behemoth Baidu’s stock (NASDAQ: BIDU) has witnessed a solid rally over the last month (about 21 trading days), gaining roughly 33%, compared to the broader S&P 500 which was up about 7% over the same period.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2023/02/03/the-baidu-stock-rally-looks-set-to-continue/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/02/03/the-baidu-stock-rally-looks-set-to-continue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63dc9d6061b2c7b1499afec2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2023/02/03/the-baidu-stock-rally-looks-set-to-continue/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/02/03/the-baidu-stock-rally-looks-set-to-continue/amp/",
+      "publishedDateTime": "2023-02-03T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-03-self-driving-bus-market-size-sales-cagr-and-competition-data-from-2023-to-2028.md",
       "title": "Self-driving Bus Market Size, Sales, CAGR And Competition Data from 2023 To 2028",
       "excerpt": "Self-driving Bus Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at unexpected",
@@ -940,292 +1226,6 @@
         "Microsoft AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-israeli-startup-develops-first-ai-robot-for-picking-tomatoes.md",
-      "title": "Israeli startup develops first AI robot for picking tomatoes",
-      "excerpt": "MetoMotion says driverless machine slashes harvesting costs by 50%; startup seeks to raise $8 million to scale up production",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/israeli-startup-develops-first-ai-robot-for-picking-tomatoes/",
-      "originalUrl": "https://www.timesofisrael.com/israeli-startup-develops-first-ai-robot-for-picking-tomatoes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2023/02/רובוט-לקטיף-עגבניות-קרדיט-MotoMotion-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/israeli-startup-develops-first-ai-robot-for-picking-tomatoes/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israeli-startup-develops-first-ai-robot-for-picking-tomatoes/amp/",
-      "publishedDateTime": "2023-02-02T08:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-rapid-robotics-and-universal-robots-team-up-to-fight-labor-shortages-with-swift-cobot-deployments.md",
-      "title": "Rapid Robotics and Universal Robots Team up to Fight Labor Shortages With Swift Cobot Deployments",
-      "excerpt": "Rapid Robotics today announced a new partnership with Universal Robots (UR) in which the Danish collaborative robot (cobot) producer will be supplying collaborative robot arms for Rapid Robotics’ deployment of cobot work cells across North America.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/aaeb5e6abc8d4206a6dfee6384838edb",
-      "originalUrl": "https://apnews.com/aaeb5e6abc8d4206a6dfee6384838edb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-02T08:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-02-artificial-intelligence-ai-in-security-market-2023-top-manufacturers-key-trends-progression-status-and-business-trends-and-forecast-to-2028.md",
-      "title": "Artificial Intelligence (AI) in Security Market 2023: Top Manufacturers, Key Trends, Progression Status and Business Trends and forecast to 2028",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 02, 2023 (The Expresswire) -- The “Artificial Intelligence (AI) in Security Market” report provides an in-depth analysis of the size of the global market. It also ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-security-market-2023-top-manufacturers-key-trends-progression-status-and-business-trends-and-forecast-to-2028-2023-02-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-security-market-2023-top-manufacturers-key-trends-progression-status-and-business-trends-and-forecast-to-2028-2023-02-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-02T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-02-02-get-used-to-face-recognition-in-stadiums.md",
-      "title": "Get Used to Face Recognition in Stadiums",
-      "excerpt": "The state’s top law enforcement agency wants to know more about how the company operating Radio City Music Hall and the storied arena where the NBA’s Knicks play uses a face recognition system to deny entry to certain people, and in particular lawyers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/get-used-to-face-recognition-in-stadiums/",
-      "originalUrl": "https://www.wired.com/story/get-used-to-face-recognition-in-stadiums/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63dac48099770d142a2f96be/master/pass/Facial-Recognition-In-Stadiums-Business-1242151288.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/get-used-to-face-recognition-in-stadiums/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/get-used-to-face-recognition-in-stadiums/amp",
-      "publishedDateTime": "2023-02-02T05:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-02-uncertain-economy-spurs-growth-in-ai-powered-office-automation.md",
-      "title": "Uncertain Economy Spurs Growth in AI-Powered Office Automation",
-      "excerpt": "Companies are striving to fuel growth without adding to payrolls, corporate technology chiefs say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/uncertain-economy-spurs-growth-in-ai-powered-office-automation-11675282156",
-      "originalUrl": "https://www.wsj.com/articles/uncertain-economy-spurs-growth-in-ai-powered-office-automation-11675282156",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-714963/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/uncertain-economy-spurs-growth-in-ai-powered-office-automation-11675282156",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/uncertain-economy-spurs-growth-in-ai-powered-office-automation-11675282156",
-      "publishedDateTime": "2023-02-02T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-02-facial-recognition-in-schools-clever-tech-bad-bad-bad-implementation.md",
-      "title": "Facial Recognition In Schools: Clever Tech. Bad, Bad, Bad Implementation",
-      "excerpt": "Your kids are in high school, between the ages of 11 and 18, and they need to be fed, but when they get to the till or point of sale in the canteen, their faces are scanned, matched to a biometric pattern and the data is stored somewhere until they are 23.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stewartroom/2023/02/02/facial-recognition-in-schools-clever-tech-bad-bad-bad-implementation/",
-      "originalUrl": "https://www.forbes.com/sites/stewartroom/2023/02/02/facial-recognition-in-schools-clever-tech-bad-bad-bad-implementation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63dba304f628758f399afec2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stewartroom/2023/02/02/facial-recognition-in-schools-clever-tech-bad-bad-bad-implementation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stewartroom/2023/02/02/facial-recognition-in-schools-clever-tech-bad-bad-bad-implementation/amp/",
-      "publishedDateTime": "2023-02-02T02:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

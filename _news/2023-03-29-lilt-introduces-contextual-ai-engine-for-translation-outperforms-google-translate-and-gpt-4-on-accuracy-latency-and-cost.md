@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Lilt introduces Contextual AI Engine for Translation; Outperforms Google Translate and GPT-4 on accuracy, latency and cost"
-excerpt: "Lilt, the most advanced AI solution for enterprise translation, today announced the launch of Contextual AI Engine, a"
-publishedDateTime: 2023-03-29T13:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/lilt-introduces-contextual-ai-engine-for-translation-outperforms-google-translate-and-gpt-4-on-accuracy-latency-and-cost-2023-03-29"
-webUrl: "https://www.marketwatch.com/press-release/lilt-introduces-contextual-ai-engine-for-translation-outperforms-google-translate-and-gpt-4-on-accuracy-latency-and-cost-2023-03-29"
+excerpt: "Launches AI DataStudio — the enterprise solution for building context-specific language models Lilt, the most advanced AI solution for enterprise translation, today announced the launch of ..."
+publishedDateTime: 2023-03-29T13:09:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/03/b31547434/lilt-introduces-contextual-ai-engine-for-translation-outperforms-google-translate-and-gpt-4-on-acc"
+webUrl: "https://www.benzinga.com/pressreleases/23/03/b31547434/lilt-introduces-contextual-ai-engine-for-translation-outperforms-google-translate-and-gpt-4-on-acc"
 type: article
-quality: 58
-heat: 68
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -39,6 +35,6 @@ related:
       domain: slator.com
     quality: 19
 
-secured: "W1IdqbArhJkDb/4J9Ppgmlzk5Ga1DVy5AgoUjMLCp+WAXoMJVz2+F8ciulziyHtS7bpOX3Jp6feiMrdFsN9/QhI7xt3BSrpIAkLqLdKdBLfj8s/8mwZnTpwXWGGp8DXc8gMIcOvEIcnpZr85wqFu/dZSoOYi698rytEdvbDP0dyBFY/kwIq3YAkx1l+F8rqW0BO2Yg4YfiNfX7mw4mnXOvYgxExIhkoKZjpjoSOMGnPI9VDws0cSnX0Ha6O8ktWzuTTPMAYjz0YC5NArKWXZjH/jo3++Wwnb2a/W7Q3FCBps15IdSfuSyXlePy462nfzy7kV0fz4zW2DeP5rgJbLazNVHHbL3BQF2GiysJJ+M3c=;9pYvA82FG58fM2U7hQ8zUg=="
+secured: "iy4rgPBP8QZ4zcjSA9M/8wVbL+hkqRkMD6uR0OO2HDYBO0zd4Sb5fTAnPkpqmGFP/tLDxbcK2TkxlSqjZrj/p8RQYtL6/CCTMPoBS/4AQvF3ZE5H2SqR4GglHuPu0LLODTm38VFU1OWLNAJhvcvD2XvfXr/xabOO0YuAgienWGdr0/RT7/hS9T7FuOkcKDATRRgPV2BbOLQQKcGyHIqokq44Pd/UKu7aYGUn82kPi8v0Ge1DtiLD39rOFZarjhMYgeXBGIUpHdwEwj2zd016zvL/biPCHNAOHsfZKQTbJIvoLifFBET7gEAJOxW1bkcENum7R2yPDBLAqPuW0Mn5F4I19BN6w5kC4tAhwQpOFo8=;SOPv49KhxPjMR1oBGqMceQ=="
 ---
 

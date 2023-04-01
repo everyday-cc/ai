@@ -2,6 +2,265 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2023-02-02-artificial-intelligence-in-healthcare-market-growth-outlook-research-insights-sales-statistics-and-size-projection-by-2030.md",
+      "title": "Artificial Intelligence in Healthcare Market Growth Outlook, Research Insights, Sales Statistics and Size Projection by 2030",
+      "excerpt": "Artificial Intelligence in Healthcare Market Research Report: Information By Component (Hardware, Software, Services), Application (Robot-Assisted Surgery, Virtual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2023/02/artificial-intelligence-in-healthcare-market-growth-outlook-research-insights-sales-statistics-and-size-projection-by-2030.html",
+      "originalUrl": "https://www.medgadget.com/2023/02/artificial-intelligence-in-healthcare-market-growth-outlook-research-insights-sales-statistics-and-size-projection-by-2030.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-01T09:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Sales",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-02-02-self-driving-car-services-want-to-expand-in-san-francisco-despite-recent-hiccups.md",
+      "title": "Self-Driving Car Services Want to Expand in San Francisco Despite Recent Hiccups",
+      "excerpt": "Waymo and Cruise hope to widen their projects to include more of the city. But local officials are increasingly concerned about breakdowns causing congestion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/02/01/technology/self-driving-taxi-san-francisco.html",
+      "originalUrl": "https://www.nytimes.com/2023/02/01/technology/self-driving-taxi-san-francisco.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/01/31/business/00selfdriving-stall-01/00selfdriving-stall-01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/02/01/technology/self-driving-taxi-san-francisco.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/02/01/technology/self-driving-taxi-san-francisco.amp.html",
+      "publishedDateTime": "2023-02-01T09:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-02-samsungs-new-galaxy-s23-and-galaxy-book-bring-incremental-changes-to-samsungs-lineup.md",
+      "title": "Samsung’s New Galaxy S23 And Galaxy Book Bring Incremental Changes To Samsung’s Lineup",
+      "excerpt": "Senior Analyst, Mobility & VR, Anshel Sag, covers Samsung's newest S23 flagship smartphones and its Galaxy Book 3 notebooks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/02/01/samsungs-new-galaxy-s23-and-galaxy-book-bring-incremental-changes-to-samsungs-lineup/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/02/01/samsungs-new-galaxy-s23-and-galaxy-book-bring-incremental-changes-to-samsungs-lineup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63da98f70e292083aee6ed8a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 694,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/02/01/samsungs-new-galaxy-s23-and-galaxy-book-bring-incremental-changes-to-samsungs-lineup/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/02/01/samsungs-new-galaxy-s23-and-galaxy-book-bring-incremental-changes-to-samsungs-lineup/amp/",
+      "publishedDateTime": "2023-02-01T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-02-these-jobs-are-most-likely-to-be-replaced-by-chatbots-like-chatgpt.md",
+      "title": "These jobs are most likely to be replaced by chatbots like ChatGPT",
+      "excerpt": "Chatbots and artificial intelligence tools like ChatGPT that can almost instantly produce increasingly sophisticated written content are already being used to perform a variety of tasks ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/chatgpt-artificial-intelligence-chatbot-jobs-most-likely-to-be-replaced/",
+      "originalUrl": "https://www.cbsnews.com/news/chatgpt-artificial-intelligence-chatbot-jobs-most-likely-to-be-replaced/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/chatgpt-artificial-intelligence-chatbot-jobs-most-likely-to-be-replaced/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/chatgpt-artificial-intelligence-chatbot-jobs-most-likely-to-be-replaced/",
+      "publishedDateTime": "2023-02-01T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-02-our-future-could-be-full-of-undying-self-repairing-robots-heres-how.md",
+      "title": "Our future could be full of undying, self-repairing robots. Here's how",
+      "excerpt": "With generative artificial intelligence (AI) systems such as ChatGPT and StableDiffusion ... But the rate of advancement in robotics—which we could think of as the potential physical embodiment of AI—is slow. Could it be that future AI systems will ...",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-02-future-full-undying-self-repairing-robots.html",
+      "originalUrl": "https://techxplore.com/news/2023-02-future-full-undying-self-repairing-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/our-future-could-be-fu.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-02-future-full-undying-self-repairing-robots.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-future-full-undying-self-repairing-robots.amp",
+      "publishedDateTime": "2023-02-01T08:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-02-the-ai-boom-is-here-and-so-are-the-lawsuits.md",
+      "title": "The AI boom is here, and so are the lawsuits",
+      "excerpt": "Very, very fast. “Up until very recently, these were science experiments nobody cared about,” says Mathew Dryhurst, co-founder of the AI startup Spawning.ai. “In a short period of time ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vox.com/recode/23580554/generative-ai-chatgpt-openai-stable-diffusion-legal-battles-napster-copyright-peter-kafka-column",
+      "originalUrl": "https://www.vox.com/recode/23580554/generative-ai-chatgpt-openai-stable-diffusion-legal-battles-napster-copyright-peter-kafka-column",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-01T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vox",
+        "domain": "vox.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-01-empathys-new-tool-uses-ai-to-generate-obituaries-and-its-not-half-bad.md",
       "title": "Empathy’s new tool uses AI to generate obituaries, and it’s not half bad",
       "excerpt": "Startup Empathy has launched a new tool that uses AI to generate obituaries. It might sound callous, but the results aren't terrible, surprisingly.",
@@ -916,290 +1175,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-us-india-partnership-targets-arms-and-ai-to-compete-with-china.md",
-      "title": "U.S., India Partnership Targets Arms And AI To Compete With China",
-      "excerpt": "semiconductors and artificial intelligence (AI). Washington wants to deploy more Western mobile phone networks in the subcontinent to counter China's Huawei Technologies Co Ltd, to welcome more Indian computer chip specialists to the United States and to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/us-india-partnership-targets-arms-ai-compete-china-3663085",
-      "originalUrl": "https://www.ibtimes.com/us-india-partnership-targets-arms-ai-compete-china-3663085",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.com/en/full/4413820/g20-summit-bali.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/us-india-partnership-targets-arms-ai-compete-china-3663085?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/us-india-partnership-targets-arms-ai-compete-china-3663085?amp=1",
-      "publishedDateTime": "2023-01-31T17:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-bizarre-robot-flies-revealed-and-they-could-replace-bees-and-save-humanity.md",
-      "title": "Bizarre ‘robot flies’ revealed, and they could replace bees and ‘save humanity’",
-      "excerpt": "RESEARCHERS have developed tiny robot \"flies\" that travel via wind and are controlled by light. The team, who hails from Tampere University in Finland, published their findings in the journal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.ie/tech/news-tech/10150954/bizarre-robot-flies-replace-bees-save-humanity/",
-      "originalUrl": "https://www.thesun.ie/tech/news-tech/10150954/bizarre-robot-flies-replace-bees-save-humanity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.ie/wp-content/uploads/sites/3/2023/02/aj-robot-flies-comp.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.ie/tech/news-tech/10150954/bizarre-robot-flies-replace-bees-save-humanity/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/news-tech/10150954/bizarre-robot-flies-replace-bees-save-humanity/amp/",
-      "publishedDateTime": "2023-01-31T17:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Irish Sun",
-        "domain": "thesun.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-artificial-intelligence-aids-discovery-of-super-tight-binding-antibodies.md",
-      "title": "Artificial intelligence aids discovery of super tight-binding antibodies",
-      "excerpt": "Scientists developed an artificial intelligence tool that could accelerate the development of new high affinity antibody drugs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/01/230130213953.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/01/230130213953.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-31T17:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-ai-ethical-risks-in-the-music-industry-are-accelerating-and-we-are-not-ready-for-what-is-coming-our-way.md",
-      "title": "AI Ethical Risks In the Music Industry Are Accelerating And We Are Not Ready For What Is Coming Our Way",
-      "excerpt": "This article reinforces that the AI Ethical Risks in the music industry are accelerating and we are not ready for what is coming our way.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/01/31/ai-ethical-risks-in-the-music-industry-are-accelerating-and-we-are-not-ready-for-what-is-coming-our-way/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/01/31/ai-ethical-risks-in-the-music-industry-are-accelerating-and-we-are-not-ready-for-what-is-coming-our-way/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63d84b38429f596655787f4f/0x0.jpg?format=jpg&width=1200",
-          "width": 842,
-          "height": 596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/01/31/ai-ethical-risks-in-the-music-industry-are-accelerating-and-we-are-not-ready-for-what-is-coming-our-way/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/01/31/ai-ethical-risks-in-the-music-industry-are-accelerating-and-we-are-not-ready-for-what-is-coming-our-way/amp/",
-      "publishedDateTime": "2023-01-31T16:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-how-brands-can-use-chatgpt-and-other-generative-ai-for-content-marketing.md",
-      "title": "How Brands Can Use ChatGPT And Other Generative AI For Content Marketing",
-      "excerpt": "ChatGPT, the generative AI app, has received attention for its conversational and human-like responses to queries. Launched by OpenAI last year, the chatbot uses a language processing model to predict responses that are eerily reflective of human speech and take mere seconds to conjure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jiawertz/2023/01/31/how-brands-can-use-chatgpt-and-other-generative-ai-for-content-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/jiawertz/2023/01/31/how-brands-can-use-chatgpt-and-other-generative-ai-for-content-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 833,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63d9bd96c3973041eb9afec2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jiawertz/2023/01/31/how-brands-can-use-chatgpt-and-other-generative-ai-for-content-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2023/01/31/how-brands-can-use-chatgpt-and-other-generative-ai-for-content-marketing/amp/",
-      "publishedDateTime": "2023-01-31T16:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-instagram-co-founders-introduce-artifact-an-ai-powered-news-app.md",
-      "title": "Instagram Co-Founders Introduce Artifact, an AI-Powered News App",
-      "excerpt": "Social networks such as Facebook and Twitter have already embraced the use of AI to recommend posts, photos and videos to users, so Artifact will have to prove there's something different about the new app. As Newton points out, past personalized news apps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/social-media/instagram-co-founders-introduce-ai-powered-news-app-artifact/",
-      "originalUrl": "https://www.cnet.com/news/social-media/instagram-co-founders-introduce-ai-powered-news-app-artifact/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/8ea3654684b1b2ce5b25eebe538fad83947f29c4/hub/2023/01/31/ac066ae3-8812-4930-9e97-fd39d7c4d7f6/gettyimages-1129912297.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/instagram-co-founders-introduce-ai-powered-news-app-artifact/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/instagram-co-founders-introduce-ai-powered-news-app-artifact/",
-      "publishedDateTime": "2023-01-31T16:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

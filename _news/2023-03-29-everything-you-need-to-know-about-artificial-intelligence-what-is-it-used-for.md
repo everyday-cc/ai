@@ -8,7 +8,7 @@ webUrl: "https://www.foxbusiness.com/technology/everything-about-artificial-inte
 ampWebUrl: "https://www.foxbusiness.com/technology/everything-about-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/everything-about-artificial-intelligence.amp"
 type: article
-quality: 53
+quality: 57
 heat: -1
 published: false
 
@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/f10f4340-42c7-4392-896f-74dc0661b6a9/bfd9c01d-d211-4649-99dc-e9d1fe3285eb/1280x720/match/image.jpg"
@@ -234,6 +236,20 @@ related:
       - url: "https://static.scientificamerican.com/sciam/cache/file/01C9741F-6F6D-4882-8217D92370325AA7.jpg"
         width: 790
         height: 496
+        isCached: true
+  - title: "ChatGPT Has Impostor Syndrome"
+    excerpt: "The AI had somehow learned arithmetic, along with other, higher mathematics; it could translate between many languages and generate functional code. Despite these impressive—and unanticipated ..."
+    publishedDateTime: 2023-03-28T17:09:00Z
+    webUrl: "https://www.theatlantic.com/technology/archive/2023/03/chatgpt-ai-language-model-identity-introspection/673539/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 54
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/mQc_e57eRLgZlD-8vU0-ANuDU1g=/0x43:2000x1085/1200x625/media/img/mt/2023/03/GPT4ImposterFinalNew/original.png"
+        width: 1200
+        height: 625
         isCached: true
   - title: "Retro Chatbot: ChatGPT comes to MS-DOS with new AI client"
     excerpt: "In this case, he turned his attention to MS-DOS, a text-only operating system first released in 1981, and ChatGPT, an AI-powered large language model (LLM ... proxy that can run on a modern computer and translate the requests and responses between the ..."

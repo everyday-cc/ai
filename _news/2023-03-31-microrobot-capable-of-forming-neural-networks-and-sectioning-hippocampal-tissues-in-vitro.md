@@ -5,9 +5,11 @@ excerpt: "In addition, the team demonstrated that the microrobot could perform t
 publishedDateTime: 2023-03-31T12:47:00Z
 originalUrl: "https://medicalxpress.com/news/2023-03-microrobot-capable-neural-networks-sectioning.html"
 webUrl: "https://medicalxpress.com/news/2023-03-microrobot-capable-neural-networks-sectioning.html"
+ampWebUrl: "https://medicalxpress.com/news/2023-03-microrobot-capable-neural-networks-sectioning.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-03-microrobot-capable-neural-networks-sectioning.amp"
 type: article
-quality: 10
-heat: 10
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -18,6 +20,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "fPbRo6W8SId4VtiEaMdsv5A4aUH96Gt4ZLNI0n8IB+fsP4/LiVMZYMI32E3lrQ57GwFrELwczyaOmDaohBOoSPBdR+SwglgoMfckeQAgC/mP6FrPENBdT9q5YnQpqfUYhOiDj1myc+00MzelQCYg8zcpszQJHj60IEluwk0vp+7CmKr+8sOjbtzQCw6+DwjblmSjwjuwEz8lntCaqkQQLfDYVFl60aC4bZzD/N34O4DPg0DZORcFJgkO2q98d0DY3mbZX4Mxc9xbe+ufc9xNy8s6mBoiCylgQAdlh6zsCYzpOIO+4Iy+RPTmsHC44GMj2VesO1HENMODQTCIxz1fB/7NQR/+UfL/aOjyJ9HjZaM=;Phz0noaaZnbhPtetec5cEA=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/can-we-connect-to-a-vi.jpg"
+    width: 1115
+    height: 729
+    isCached: true
+
+secured: "UHlPnLJ/VYpddJ7GU3SYNp7XrtpM1YVeR0IECSRLFW70g5N1dV8xGXRqyPfqd9k3Mc5K4N/6IMnncgIC9zvZyeJAG4kGBE8HnWgBuJDm+Fyt0erNDw2NHUZlOkXBSrtn0NaWdqyGwPrSnaRwj95RzFq4xGTcxOVCpW8pS1obNHwFUIePwVfCpJcwwGJYnxTmyVnE0GMT6ilouh77+tA3I1qea1Rg6OkUr7xH03kcoPvhNexExTWUi+1lsMwxSYlk9M2RgM69sZqt3EefooLSkelNFJU7JPBTKezKqrPClUqsUgRx8NZ09FurhWdqO1hZvonnT9G8TIIY+7k7nVP0TuOMAf021coPwPixRYjC2WI=;0Cl6HPZz8Rc4B8OEtE4rtA=="
 ---
 

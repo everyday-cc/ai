@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/marcochiappetta/2023/03/29/synopsys-exp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2023/03/29/synopsys-expands-it-ai-powered-eda-chip-design-tool-suite-to-overcome-systemic-complexity/amp/"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -25,6 +25,17 @@ topics:
   - AI
 
 related:
+  - title: "Synopsys.ai: New AI Solutions Across The Entire Chip Development Workflow"
+    excerpt: "The company has added Verification and Test AI tools to its already-successful Design tools, DSO.ai, with more to come."
+    publishedDateTime: 2023-03-29T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2023/03/29/synopsysai-new-ai-solutions-across-the-entire-chip-workflow/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/03/29/synopsysai-new-ai-solutions-across-the-entire-chip-workflow/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/03/29/synopsysai-new-ai-solutions-across-the-entire-chip-workflow/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
   - title: "Synopsys spreads AI throughout its chip design tools"
     excerpt: "Synopsys Inc on Wednesday rolled out new artificial intelligence tools designed to get better results faster in the various stages of designing computing chips."
     publishedDateTime: 2023-03-29T23:02:00Z

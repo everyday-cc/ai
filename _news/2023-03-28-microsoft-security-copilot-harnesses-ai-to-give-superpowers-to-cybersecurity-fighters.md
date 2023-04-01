@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-security-copilot-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters/"
 type: article
 quality: 116
-heat: 196
+heat: 186
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Bing-Chat-on-phone-4.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Microsoft, Google, Amazon Look to Generative AI to Lift Cloud Businesses"
-    excerpt: "The cloud providers are using the tech behind ChatGPT to heat up demand for their services."
-    publishedDateTime: 2023-03-27T08:31:00Z
-    webUrl: "https://www.wsj.com/articles/microsoft-google-amazon-look-to-generative-ai-to-lift-cloud-businesses-7159a43f"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 83
-    images:
-      - url: "https://images.wsj.net/im-750908/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Streaming Services and Cybersecurity"
     excerpt: "The popularity of streaming platforms and apps have exploded in recent years. Streaming services have now become the norm, rather than the exception, as more households “cut the cord” with their cable providers."

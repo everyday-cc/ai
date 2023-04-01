@@ -30,6 +30,36 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 67
+  - title: "Driverless cars ready for hire in suburban Beijing"
+    excerpt: "It added that Baidu plans to expand its autonomous ride-hailing services to 65 cities in 2025 and 100 in 2030. China’s self-driving taxi service is expected to reach 1.3 trillion (188.6 billion U.S. dollars) by 2030, accounting for 60 percent of the ..."
+    publishedDateTime: 2023-03-28T06:50:00Z
+    webUrl: "https://dailytimes.com.pk/1078112/driverless-cars-ready-for-hire-in-suburban-beijing/"
+    ampWebUrl: "https://dailytimes.com.pk/1078112/driverless-cars-ready-for-hire-in-suburban-beijing/amp/"
+    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/1078112/driverless-cars-ready-for-hire-in-suburban-beijing/amp/"
+    type: article
+    provider:
+      name: Daily Times
+      domain: dailytimes.com.pk
+    quality: 59
+    images:
+      - url: "https://dailytimes.com.pk/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
+  - title: "3 Companies Leading the Charge to the Driverless Car Future"
+    excerpt: "Driverless cars, also known as autonomous vehicles, are quickly becoming a reality. With advancements in artificial intelligence and sensor technology, these cars are able to navigate roads and ..."
+    publishedDateTime: 2023-03-29T19:03:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/markets-news/Barchart/15522899/3-companies-leading-the-charge-to-the-driverless-car-future/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 39
+    images:
+      - url: "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/Chip%20During%20Rush%20Hour.jpg"
+        width: 1600
+        height: 1065
+        isCached: true
 
 secured: "EuCM6O9Fu8ZEJKm6pvm889f1dNTQS2btKsAw1qaSMTUGQKQ+DGIVJvh8MlHPTNPPn0xkFEDgl1ta5velhE+2VXEGu7c7hMsP99oAiWtUqqofRrh8V6etLNBR4sDuVPzy/o+e6Ya60hw7iKJqkGk3+oMMO1JUdKA+JPR4sHOb7jleMF6eK/GuP0b23GxUa/PPq15Hxd+G0WJ5ybtVeqVJvOyFnbrCMQs/pcbF4zNZxQEnVHNLUh7p7+4FJij+QjGlZYMDj9EPMRwXF0QX/ob+/bF/xs67MFIsjC0v8OjkPLNbz6BeV69P1LXJ5kGI5MKNyFv7yDD5aNz26EduJ0HHLI1VWhBb5oOQKWIIcoy5Jfg=;8LGbRD3wHfRjJraSGnopJg=="
 ---

@@ -49,15 +49,6 @@ related:
       name: in.mashable
       domain: mashable.com
     quality: 49
-  - title: "Hear from the experts: using machine learning and AI to grow your business"
-    excerpt: "Across two events on February 9 and 16, SmartCompany and AWS dived into all things AI and machine learning. In his introduction speech, host Simon Crerar referenced the wide-eyed futurism of science fiction films like Blade Runner."
-    publishedDateTime: 2023-03-29T22:00:00Z
-    webUrl: "https://www.smartcompany.com.au/partner-content/articles/hear-from-the-experts-using-machine-learning-and-ai-to-grow-your-business/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 34
 
 secured: "9yh66vLLHC9Rg/3LbH+LEIJ76LjYwL5doEsH732TH8iCoiSNB/1MMAPAd2qvJSXEfDIed3/58Fgsos7jLMGifsRBQM/5Vgiqcktr+0Q5qQUNcRJgpSSE6Jl/HkD1wiKg1M5j5l3uGaGwVxsm8GvABDe/Yi05ieXlaW/SDOuQmQJ+/RyhWjqDt7iiga4Dork18qe3wEzkVBswlZMCafojqKfsZnV/YfA6rwOcED7ulkWgs4iX7E5taS92bYK228F6KqTZMO6Z/vWyRP4BVF9koeAXZa7+0JCaVY12V6EoLKXiOZtzccG9g7jEX7xAWwM5ca155CS30obOLtz+Y73N9gEDVHO+1aVylDu8kFq4Twg=;YD3bX/XwBz5RIdGzNt9n5w=="
 ---

@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-02-05-excessive-screen-time-during-infancy-may-be-linked-to-lower-cognitive-skills-later-in-childhood.md",
+      "title": "Excessive screen time during infancy may be linked to lower cognitive skills later in childhood",
+      "excerpt": "The amount of time babies spend watching computer, TV and phone screens in their first year of life may be indirectly linked to lower cognitive skills later in life, according to a new study.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/GMA/Wellness/new-study-babies-screen-time/story?id=96814576",
+      "originalUrl": "https://abcnews.go.com/GMA/Wellness/new-study-babies-screen-time/story?id=96814576",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/GMA/screen-time-gty-bb-230201_1675259672781_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://goodmorningamerica.com/amp/wellness/story/new-study-babies-screen-time-96814576",
+      "cdnAmpWebUrl": "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/wellness/story/new-study-babies-screen-time-96814576",
+      "publishedDateTime": "2023-02-04T10:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-04-a-quicker-return-to-school-may-help-kids-with-concussions-study-says.md",
       "title": "A quicker return to school may help kids with concussions, study says",
       "excerpt": "Keeping a child home from school for “cognitive rest” after a concussion may do more harm than good, a study suggests. The analysis, in the journal JAMA Network Open, shows an association ...",
@@ -1438,49 +1481,6 @@
         "AI in Autos",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-ai-chatgpt-is-helping-ceos-think-will-it-also-take-your-job.md",
-      "title": "AI ChatGPT is helping CEOs think. Will it also take your job?",
-      "excerpt": "Chatbots will devalue some workers' skills, but also could create higher quality jobs that require a human's judgment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/sacramento/news/chatgpt-chatbot-artificial-intelligence-job-replacement/",
-      "originalUrl": "https://www.cbsnews.com/sacramento/news/chatgpt-chatbot-artificial-intelligence-job-replacement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/01/22/3e5ebe21-b2cc-4692-9e99-9c37fff7be78/thumbnail/1200x630/def6aa3c6cd71698b2fd33d66abd4116/gettyimages-1246453874.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/sacramento/news/chatgpt-chatbot-artificial-intelligence-job-replacement/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/chatgpt-chatbot-artificial-intelligence-job-replacement/",
-      "publishedDateTime": "2023-01-23T21:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],
