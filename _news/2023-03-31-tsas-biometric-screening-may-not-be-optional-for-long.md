@@ -7,7 +7,7 @@ originalUrl: "https://reason.com/2023/03/31/tsas-biometric-screening-may-not-be-
 webUrl: "https://reason.com/2023/03/31/tsas-biometric-screening-may-not-be-optional-for-long/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Telaeris adds cloud, facial recognition features to biometric readers"
-    excerpt: "Biometric handheld reader manufacturer Telaeris has upgraded its devices with new cloud support and facial recognition features."
-    publishedDateTime: 2023-03-27T14:51:00Z
-    webUrl: "https://www.biometricupdate.com/202303/telaeris-adds-cloud-facial-recognition-features-to-biometric-readers"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
-        width: 2048
-        height: 1812
-        isCached: true
   - title: "NADRA upgrades Pak-ID biometric app with document recognition and digital signatures"
     excerpt: "The new version of Pak-ID identifies what kind of document is being scanned with an intelligent, real-time document identification module."
     publishedDateTime: 2023-03-27T19:22:00Z
@@ -53,6 +39,15 @@ related:
         width: 940
         height: 627
         isCached: true
+  - title: "Voice Biometrics Group academic partnership leads to IngenID launch"
+    excerpt: "IngenID Biometric Innovations is an offshoot of Voice Biometrics Group, which offers SaaS for speaker verification purposes."
+    publishedDateTime: 2023-03-28T21:51:00Z
+    webUrl: "https://www.biometricupdate.com/202303/voice-biometrics-group-academic-partnership-leads-to-ingenid-launch"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 4
 
 secured: "m32b+jCR6poMtVubICeu+taBGGFJTIDr/OzJYFZttu70oIDPFQSKu7PF0TZb0Ytk6CVKPZu+NLqFcWA6djc1VLOAbhtywBN2+czc3dtuQvmK/P+7fvr63wRgxkhGcou/S9Wfoktn3BHHlM5Jy55PPIbQyOgriqBdv9VLiihy3E1vmmlQ/DnXJFMwQh4sOUYFpZV3OsaM/An03NuV1vBoqpnU+1I2x61RxNXNTBH0GH7em5EklVe16j+/7YH1Z3M8E3bV651xl7msXaI9dCoGvIPiO//9uj23/Hs6Txn5mmNqjH7ylZVH1zaQ3Ocvz4l14NcuDY5tpN2vEqnJwPaufxZF7WleOByV14ObX2Flw0WLNeju7ftj/BB5VxULmlnp6D9hrgGldgw+NZGqcNxRkB69fLMMpk09VhdWFIA+SDkYaUlWez6BsgMlfsfUqMT2VECoIzoUnYHy/6bmlIntggCa8N+Kak73rPaSly3X9XHKUPfqtXCumLnod2P6OGULM5VPQYTbHxNVaCCB8lt26w==;T+Ugf28YIF/coOG0juvYiw=="
 ---

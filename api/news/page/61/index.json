@@ -2,6 +2,194 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2023-02-07-ai-imagines-state-of-the-union-speeches-from-famous-historical-figures.md",
+      "title": "AI imagines State of the Union speeches from famous historical figures",
+      "excerpt": "Let's face it, State of the Union speeches are mostly rote. To shake up the formula, we asked ChatGPT to work up speeches as they might have been written by some of history's most interesting figures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonglobe.com/2023/02/07/nation/ai-imagines-state-union-speeches-famous-historical-figures/",
+      "originalUrl": "https://www.bostonglobe.com/2023/02/07/nation/ai-imagines-state-union-speeches-famous-historical-figures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T05:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Boston Globe",
+        "domain": "bostonglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-top-10-it-companies-in-the-world-2023.md",
+      "title": "Top 10 IT Companies in The World 2023",
+      "excerpt": "IT companies provide organizations with a range of services and solutions that can assist them in improving their operational efficiency and services, bringing them up to par with those provided on a",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/brand-stories/top-10-it-companies-in-the-world-2023-101675753777651.html",
+      "originalUrl": "https://www.hindustantimes.com/brand-stories/top-10-it-companies-in-the-world-2023-101675753777651.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T05:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-ibm-research-touts-ai-supercomputer-for-foundation-ai.md",
+      "title": "IBM Research Touts AI Supercomputer For Foundation AI",
+      "excerpt": "with ChatGPT from OpenAI presenting the most visible sign that AI is finally having its “iphone moment”. The models do not require supervision, but do require an enormous amount of computation.The OpenAI supercomputer hosted by Microsoft Azure ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/02/07/ibm-research-touts-ai-supercomputer-for-foundation-ai/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/02/07/ibm-research-touts-ai-supercomputer-for-foundation-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-liberal-senator-andrew-bragg-will-publicly-lobby-peter-dutton-to-embrace-indigenous-voice.md",
+      "title": "Liberal senator Andrew Bragg will publicly lobby Peter Dutton to embrace Indigenous voice",
+      "excerpt": "Bragg’s ‘five reasons the voice is right’ position paper may go unheeded after opposition leader tells party there was no need to settle its position as it awaits more detail",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/australia-news/2023/feb/08/liberal-senator-andrew-bragg-publicly-lobby-peter-dutton-to-embrace-indigenous-voice",
+      "originalUrl": "https://www.theguardian.com/australia-news/2023/feb/08/liberal-senator-andrew-bragg-publicly-lobby-peter-dutton-to-embrace-indigenous-voice",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-denodo-named-a-customers-choice-in-the-2023-gartner-peer-insights-voice-of-the-customer-data-integration-tools.md",
+      "title": "Denodo Named a Customers' Choice in the 2023 Gartner® Peer Insights™ \"Voice of the Customer\": Data Integration Tools",
+      "excerpt": "Peer reviews show that 93% of customers in the past 18 months would recommend the data management leader Denodo, the leader in data management, today announced that it has been named a Customers' Choi",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/02/b30763278/denodo-named-a-customers-choice-in-the-2023-gartner-peer-insights-voice-of-the-customer-data-integ",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/b30763278/denodo-named-a-customers-choice-in-the-2023-gartner-peer-insights-voice-of-the-customer-data-integ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-renesas-positions-its-microcontrollers-for-the-digitally-transformed-automotive-industry-and-consumer-and-industrial-markets.md",
       "title": "Renesas Positions Its Microcontrollers For The Digitally Transformed Automotive Industry And Consumer And Industrial Markets",
       "excerpt": "From the cars we drive to the appliances in our homes, and the smoke alarms that keep our homes safe, microcontrollers (MCUs) are in just about everything. Renesas is the world's largest supplier of MCUs,",
@@ -767,203 +955,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-madison-square-garden-accused-of-using-facial-recognition-technology-to-kick-out-fans.md",
-      "title": "Madison Square Garden Accused of Using Facial Recognition Technology to Kick Out Fans",
-      "excerpt": "Madison Square Garden CEO James Dolan is in hot water for allegedly using facial recognition technology to eject his personal enemies from the stadium. Wait, what? According to Crain’s New York Business, the State Liquor Authority notified the Manhattan ...",
-      "sourceUrl": null,
-      "webUrl": "https://ny.eater.com/2023/2/7/23587674/madison-square-garden-state-liquor-authority-face-recognition-technology",
-      "originalUrl": "https://ny.eater.com/2023/2/7/23587674/madison-square-garden-state-liquor-authority-face-recognition-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/_C1Nm7WB0GHVWD1IV8_FSZ2hVtQ=/0x40:2048x1112/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/3661168/msg.0.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T02:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eater",
-        "domain": "eater.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-why-tech-bosses-are-doomsday-prepping.md",
-      "title": "Why tech bosses are doomsday prepping",
-      "excerpt": "In January, the US software giant announced a $10 billion investment in the artificial intelligence startup OpenAI ... just in the context of “killer robots” that he claims distract from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/chatgpt-ai-chatbot-microsoft-altman-b2274639.html",
-      "originalUrl": "https://www.independent.co.uk/tech/chatgpt-ai-chatbot-microsoft-altman-b2274639.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2023/02/03/17/A%20robot%20dreaming%20of%20a%20futuristic%20robot%20-%20Dall-E%202.png?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.independent.co.uk/tech/chatgpt-ai-chatbot-microsoft-altman-b2274639.html",
-      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/chatgpt-ai-chatbot-microsoft-altman-b2274639.html",
-      "publishedDateTime": "2023-02-07T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-artificial-intelligence-is-a-powerful-tool-but-in-the-climate-fight-humans-still-reign-supreme.md",
-      "title": "Artificial intelligence is a powerful tool. But in the climate fight, humans still reign supreme",
-      "excerpt": "Machine learning is producing impressive results, and, for better or worse, researchers are now using it to address the climate crisis, writes Frederick Hewett.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbur.org/cognoscenti/2023/02/07/artificial-intelligence-machine-learning-climate-change-frederick-hewett",
-      "originalUrl": "https://www.wbur.org/cognoscenti/2023/02/07/artificial-intelligence-machine-learning-climate-change-frederick-hewett",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T02:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBUR",
-        "domain": "wbur.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-the-stock-market-hype-machine-has-come-for-artificial-intelligence-morning-brief.md",
-      "title": "The stock market hype machine has come for artificial intelligence: Morning Brief",
-      "excerpt": "This article first appeared in the Morning Brief. Get the Morning Brief sent directly to your inbox every Monday to Friday by 6:30 a.m. ET. Subscribe. Tuesday,. T",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/finance/stock-market-hype-machine-come-110026783.html",
-      "originalUrl": "https://www.aol.com/finance/stock-market-hype-machine-come-110026783.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-how-artificial-intelligence-can-boost-diversity-inclusion.md",
-      "title": "How Artificial Intelligence Can Boost Diversity & Inclusion",
-      "excerpt": "After decades of research and progress in the area of artificial intelligence (AI), we appeared to have reached a point in which AI is no longer confined to utopian or dystopian conversations about the future,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomaspremuzic/2023/02/07/how-artificial-intelligence-can-boost-diversity--inclusion/",
-      "originalUrl": "https://www.forbes.com/sites/tomaspremuzic/2023/02/07/how-artificial-intelligence-can-boost-diversity--inclusion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T01:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

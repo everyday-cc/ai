@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-31-datadome-raises-42m-to-leverage-machine-learning-for-confronting-bot-attacks.md",
+      "title": "DataDome raises $42M to leverage machine learning for confronting bot attacks",
+      "excerpt": "DataDome announces it has raised $42 million for a solution that uses machine learning to address online bot attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/datadome-raises-42m-to-leverage-machine-learning-for-confronting-bot-attacks/",
+      "originalUrl": "https://venturebeat.com/security/datadome-raises-42m-to-leverage-machine-learning-for-confronting-bot-attacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/datadome-raises-42m-to-leverage-machine-learning-for-confronting-bot-attacks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/datadome-raises-42m-to-leverage-machine-learning-for-confronting-bot-attacks/amp/",
+      "publishedDateTime": "2023-03-30T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-31-midjourney-ends-free-trials-of-its-ai-image-generator-due-to-extraordinary-abuse.md",
+      "title": "Midjourney ends free trials of its AI image generator due to 'extraordinary' abuse",
+      "excerpt": "Midjourney has dropped free trials of its AI image generator after users created deepfakes of Trump, the Pope and others..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/midjourney-ends-free-trials-of-its-ai-image-generator-due-to-extraordinary-abuse-153853905.html",
+      "originalUrl": "https://www.engadget.com/midjourney-ends-free-trials-of-its-ai-image-generator-due-to-extraordinary-abuse-153853905.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/mhhXg2YrWdm.9C7q5FZKyw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/237a16a0-cf15-11ed-bfff-5bba6503b35e.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/midjourney-ends-free-trials-of-its-ai-image-generator-due-to-extraordinary-abuse-153853905.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/midjourney-ends-free-trials-of-its-ai-image-generator-due-to-extraordinary-abuse-153853905.html",
+      "publishedDateTime": "2023-03-30T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-31-ftc-should-investigate-openai-and-halt-gpt-4-releases-ai-research-group-says.md",
       "title": "FTC should investigate OpenAI and halt GPT-4 releases, AI research group says",
       "excerpt": "A nonprofit AI research group wants the Federal Trade Commission to investigate OpenAI, Inc. and halt releases of GPT-4. OpenAI \"has released a product GPT-4 for the consumer market that is biased, deceptive,",
@@ -10,7 +104,7 @@
       "originalUrl": "https://arstechnica.com/tech-policy/2023/03/ftc-should-investigate-openai-and-halt-gpt-4-releases-ai-research-group-says/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -457,7 +551,7 @@
       "originalUrl": "https://techcrunch.com/2023/03/30/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 349,
+      "heat": 339,
       "tags": null,
       "images": [
         {
@@ -995,7 +1089,7 @@
       "originalUrl": "https://blog.google/technology/ai/a-shared-agenda-for-responsible-ai-progress/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1080,113 +1174,6 @@
         "AI in Robotics",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters.md",
-      "title": "Microsoft Security Copilot harnesses AI to give superpowers to cybersecurity fighters",
-      "excerpt": "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/25070a0ca82841cd88b3eb8f12b525d93af19696/2023/03/28/a5988217-ae81-4ae4-9aae-0416874b7761/gettyimages-1208358547.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters/",
-      "publishedDateTime": "2023-03-28T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-gpt-4-kicks-ai-security-risks-into-higher-gear.md",
-      "title": "GPT-4 kicks AI security risks into higher gear",
-      "excerpt": "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success ... And, Check Point Research was able to use ChatGPT to create a convincing spear-phishing attack. The company’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/security-risks-evolve-with-release-of-gpt-4/",
-      "originalUrl": "https://venturebeat.com/security/security-risks-evolve-with-release-of-gpt-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1368733427-luckystep.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/security-risks-evolve-with-release-of-gpt-4/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/security-risks-evolve-with-release-of-gpt-4/amp/",
-      "publishedDateTime": "2023-03-28T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

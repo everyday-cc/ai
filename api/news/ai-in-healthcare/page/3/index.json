@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-07-healthcare-robotics-engineering-forum-full-conference-agenda.md",
+      "title": "Healthcare Robotics Engineering Forum full conference agenda",
+      "excerpt": "The Healthcare Robotics Engineering Forum announced its full conference agenda for the May 10-11 2023 event at the Boston Convention and Exhibition Center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/healthcare-robotics-engineering-forum-full-conference-agenda-2/",
+      "originalUrl": "https://www.therobotreport.com/healthcare-robotics-engineering-forum-full-conference-agenda-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/03/RSE23_background-featured.jpg",
+          "width": 1000,
+          "height": 649,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T12:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-03-06-artificial-intelligence-can-predict-cancer-survival-using-data-from-a-single-consultation.md",
       "title": "Artificial Intelligence Can Predict Cancer Survival Using Data From a Single Consultation",
       "excerpt": "Artificial intelligence can predict survival in cancer patients using information from a patient’s initial consultation with an oncologist, a study suggests.",
@@ -1352,59 +1396,6 @@
         "IBM AI",
         "AI in Autos",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-02-20-artificial-intelligence-is-booming-but-how-will-it-impact-your-career.md",
-      "title": "Artificial Intelligence is booming – but how will it impact your career?",
-      "excerpt": "Artificial Intelligence is the latest technology buzz topic thanks to the boom of ChatGPT. The AI-powered chatbot, created by Microsoft-backed OpenAI, has both impressed and shocked with its ability to answer questions, write essays and even argue legal cases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/02/20/artificial-intelligence-is-booming-but-will-it-impact-your-career-and-job.html",
-      "originalUrl": "https://www.cnbc.com/2023/02/20/artificial-intelligence-is-booming-but-will-it-impact-your-career-and-job.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107196527-1676650643558-gettyimages-1394953811-_dsc9542-gi.jpeg?v=1676894627",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/20/artificial-intelligence-is-booming-but-will-it-impact-your-career-and-job.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/20/artificial-intelligence-is-booming-but-will-it-impact-your-career-and-job.html",
-      "publishedDateTime": "2023-02-20T02:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

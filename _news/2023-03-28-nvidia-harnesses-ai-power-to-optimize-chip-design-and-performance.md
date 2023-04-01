@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 899
         isCached: true
-  - title: "Adobe Jumps Into The Generative AI Race With Firefly Creative Support"
-    excerpt: "Last week at Adobe Summit, the company announced its first generative AI service, Adobe Firefly. Analyzing Adobe's offering and the overall generative AI landscape. What should Adobe customers expect and when can they gain access to the new services."
-    publishedDateTime: 2023-03-27T14:47:00Z
-    webUrl: "https://www.forbes.com/sites/danielnewman/2023/03/27/adobe-jumps-into-the-generative-ai-race-with-firefly-creative-support/"
-    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/03/27/adobe-jumps-into-the-generative-ai-race-with-firefly-creative-support/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/03/27/adobe-jumps-into-the-generative-ai-race-with-firefly-creative-support/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6421aa2b32ea51d1c18a9f03/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Buy Nvidia Stock Because the Chip Maker Is an AI Play, Says Analyst"
     excerpt: "Bernstein is getting more bullish on demand for Nvidia semiconductors based upon the growth potential of artificial-intelligence training applications. On Tuesday, analyst Stacy Rasgon reiterated his Outperform rating for Nvidia stock (ticker: NVDA), and ..."
     publishedDateTime: 2023-03-28T15:39:00Z

@@ -2,6 +2,247 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2023-02-19-wiimote-controlled-rpi-robot.md",
+      "title": "Wiimote Controlled RPi Robot",
+      "excerpt": "The end goal is to have a robot that’s controlled by a Wiimote. The Wiimote communicates over Bluetooth with a Raspberry Pi, which is running a Python script. This script uses the CWiid Python ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2013/03/07/wiimote-controlled-rpi-robot/",
+      "originalUrl": "https://hackaday.com/2013/03/07/wiimote-controlled-rpi-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://hackaday.com/wp-content/uploads/2013/03/wiipi.png?w=580",
+          "width": 580,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-18T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks.md",
+      "title": "University of Alberta researchers eye artificial intelligence to weigh opioid risks",
+      "excerpt": "EDMONTON - Researchers in Alberta are experimenting with artificial intelligence to measure the risks of prescription opioids amid the ongoing drug",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com/life/health_wellness/2023/02/18/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks.html",
+      "originalUrl": "https://www.thestar.com/life/health_wellness/2023/02/18/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestar.com/content/dam/thestar/life/health_wellness/2023/02/10/celebs-tout-ice-baths-but-science-on-benefits-is-lukewarm/20230210000212-63e5d2a6f4f61b813a06223fjpeg.jpg.size.custom.crop.640x360.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestar.com/amp/life/health_wellness/2023/02/18/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks.html",
+      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/life/health_wellness/2023/02/18/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks.html",
+      "publishedDateTime": "2023-02-18T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Toronto Star",
+        "domain": "thestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-amd-is-losing-the-ai-battle-and-its-time-it-started-to-worry.md",
+      "title": "AMD is losing the AI battle, and it’s time it started to worry",
+      "excerpt": "However, even AMD’s best card was miles behind Nvidia in these benchmarks, showing that Nvidia is simply faster and better at tackling AI-related tasks. Nvidia cards are the go-to for professionals in need of a GPU for AI or machine learning workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/why-amd-is-losing-the-ai-battle/",
+      "originalUrl": "https://www.digitaltrends.com/computing/why-amd-is-losing-the-ai-battle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/12/amd-rx-7900-xtx-review-07.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/why-amd-is-losing-the-ai-battle/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/why-amd-is-losing-the-ai-battle/?amp",
+      "publishedDateTime": "2023-02-18T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-how-to-run-stable-diffusion-to-make-awesome-ai-generated-art.md",
+      "title": "How to run Stable Diffusion to make awesome AI-generated art",
+      "excerpt": "Stable Diffusion is one of the most impressive generative AI art tools available today. Here's how to run Stable Diffusion online and on your PC.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/how-to-run-stable-diffusion/",
+      "originalUrl": "https://www.digitaltrends.com/computing/how-to-run-stable-diffusion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2020/10/dt_logo_lockup_blue.jpg?p=1",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/how-to-run-stable-diffusion/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-run-stable-diffusion/?amp",
+      "publishedDateTime": "2023-02-18T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-computing-pioneer-criticizes-chatgpt-ai-tech-for-making-things-up.md",
+      "title": "Computing Pioneer Criticizes ChatGPT AI Tech for Making Things Up",
+      "excerpt": "Vint Cerf, who helped create the internet's core network technology, hopes engineers can fix the flaws of artificial intelligence language processing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/computing-pioneer-criticizes-chatgpt-ai-tech-for-making-things-up/",
+      "originalUrl": "https://www.cnet.com/tech/computing/computing-pioneer-criticizes-chatgpt-ai-tech-for-making-things-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 409,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/74277ff8e0552e19d5df9b944a9aa5529f81f8df/hub/2023/02/14/9c07ecd4-37b7-4896-84eb-69193c678f97/20230213-vint-cerf.jpg?auto=webp",
+          "width": 2048,
+          "height": 1189,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/computing-pioneer-criticizes-chatgpt-ai-tech-for-making-things-up/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/computing-pioneer-criticizes-chatgpt-ai-tech-for-making-things-up/",
+      "publishedDateTime": "2023-02-18T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-02-18-7-free-online-coursera-classes-to-take-if-you-want-to-work-in-ai-from-experts-at-amazon-meta-and-others.md",
       "title": "7 free online Coursera classes to take if you want to work in AI, from experts at Amazon, Meta, and others",
       "excerpt": "It also addresses the professional and business opportunities that come with the metaverse and is taught by experts from Meta ... and the influence of AI-driven technology on workers. \"The course introduces you to cutting-edge research in the economics ...",
@@ -944,241 +1185,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-02-18-inside-the-studio-with-an-ai-guided-painting-robot.md",
-      "title": "Inside the Studio With an AI-Guided Painting Robot",
-      "excerpt": "To help illustrate our cover story on how the AI arms race is changing the world, we reached out to award-winning AI artist Pindar Van Arman, who uses artificial intelligence to create his art. Van Arman, who built his first “painting robot” 15 years ...",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6256108/artificial-intelligence-artist/",
-      "originalUrl": "https://time.com/6256108/artificial-intelligence-artist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://time.com/img/icons/wallet-connect.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-17T08:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-18-gfai-stock-alert-guardforce-ai-officially-acquires-keweis-robotics-assets.md",
-      "title": "GFAI Stock Alert: Guardforce AI Officially Acquires Kewei’s Robotics Assets",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The artificial intelligence (AI) world received an exciting update this week.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/gfai-stock-alert-guardforce-ai-officially-acquires-keweis-robotics-assets-1032106638",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/gfai-stock-alert-guardforce-ai-officially-acquires-keweis-robotics-assets-1032106638",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-17T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-artificial-intelligence-robotics-market-size-2023-expected-to-deliver-dynamic-progression-until-2026.md",
-      "title": "Artificial Intelligence Robotics Market Size 2023 : Expected To Deliver Dynamic Progression Until 2026",
-      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-size-2023-expected-to-deliver-dynamic-progression-until-2026-2023-02-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-size-2023-expected-to-deliver-dynamic-progression-until-2026-2023-02-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-17T07:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-best-robot-vacuum-deals-under-100-ahead-of-presidents-day.md",
-      "title": "Best robot vacuum deals under $100 ahead of Presidents Day",
-      "excerpt": "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-under-100-in-2023-02-17/",
-      "originalUrl": "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-under-100-in-2023-02-17/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/12/02/2487fba3-46f6-4beb-8eed-f66994896979/thumbnail/1200x630/a0e7cdce21c7b1a9b4232d35af859d8c/anker-eufy-robot-vacuum-100-hero.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-under-100-in-2023-02-17/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-under-100-in-2023-02-17/",
-      "publishedDateTime": "2023-02-17T06:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-meta-to-integrate-generative-ai-features-on-instagram-and-facebook.md",
-      "title": "Meta to integrate generative AI features on Instagram and Facebook",
-      "excerpt": "Facebook parent Meta plans to integrate \"generative ... it hadn't captured the public's imagination until last year when AI research lab OpenAI unveiled products such as Dall-E, which creates ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/storyboard18/quantum-brief/meta-to-integrate-generative-ai-features-on-instagram-and-facebook-5596.htm",
-      "originalUrl": "https://www.moneycontrol.com/storyboard18/quantum-brief/meta-to-integrate-generative-ai-features-on-instagram-and-facebook-5596.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.storyboard18.com/storyboard18/2023/02/yurteasgbdr-768x432.png",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-17T06:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

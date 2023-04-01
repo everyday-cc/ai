@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Hanwha Vision highlights full range of intelligent surveillance solutions at ISC West 2023"
-    excerpt: "PTZ tracking based on AI object detection lets users click on an object (people ... Hanwha Vision’s license plate recognition (LPR) technology now features a global shutter sensor for capturing plates at high speeds of up 125 miles per hour, and up ..."
-    publishedDateTime: 2023-03-27T13:37:00Z
-    webUrl: "https://www.securityinfowatch.com/isc-west/press-release/53042521/hanwha-vision-hanwha-vision-highlights-full-range-of-intelligent-surveillance-solutions-at-isc-west-2023"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 0
-
 secured: "g1zTgOl6Q+OixL1VAOWlGSY6iuVxGRVUNoquIRCPoQF+evS5HdUjD/0ASy7MdXbIr9hc6TW04Ylwobktg423/u6p3Qzy5vdii0krVHXOfTTpUgZPGabVdT9UjxO62zy7sAQZuJGjJ2UxQRaTBdx1fPmNaBJ/QoUpMD+TtRoVOAWXq8vwlk2DOq8w+ba7l7CjKFCCzpU53yk2Xlw0iFZC1Yxi8wf60lSjorkLi7sSwKbeEaA9xQsQNaDRIic03Ok4N8wteLxZIbnTPYWlglBX3w7WiMjbCrrV8qYd+MGbJWF1mKSd8L2J7e2he4WVv76ndU8NVK70RxrXmScwJZWn0QXKH53M62uMyq7C4SHVyto=;/6zXYN3duxYUSJKna9VhNg=="
 ---
 

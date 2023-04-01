@@ -34,20 +34,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 64
-  - title: "The Promise and Peril of OpenAI and Chat GPT"
-    excerpt: "It is quite possible that 2023 will be “the year of artificial intelligence.” It seems impossible to scan the news without encountering an article either extolling the advantages generative artificial intelligence models or raising concerns about its misuse."
-    publishedDateTime: 2023-03-27T13:42:00Z
-    webUrl: "https://www.law.com/newyorklawjournal/2023/03/27/the-promise-and-peril-of-openai-and-chat-gpt/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/389/2023/03/LANZA.jpg"
-        width: 1062
-        height: 900
-        isCached: true
 
 secured: "7/57/y9nqPYRg+yIkfy2BGwFcAOdC9HpSEiN5WDsqt9ZlwUi7O/OrcqkEOMOVVuX/DkRZfZzBt9LB6fuP2OzjjrqkOgdcISE30j/4lD1B18HcgH2oqWYegXch9K18uoHYsjXDN+m5lQjh3Fnhd2quaJZD+6mH2UzohG6oa/shFSHv69wjoJsk3Y7IYqTr63O/7HIWkPWZ3QEJyZJrOwynB9jAOxLgbT0rVbkP5mldaf/iPVBEsEjWxkr75reVt/pHIEN4a5gA2+d9JlihC9xo39aoEBxXN73m0jJSRujYsjp6X2Ay1PlI8NcwNr+9YvSxl2U23FoW7Th+V9oJHUivp9Iqejqf4g28TfXuo/RRJU=;hbOe/lL2mWvBnnAKnAdgHQ=="
 ---

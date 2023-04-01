@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-02-10-chatgpt-mania-3-stocks-to-buy-hand-over-fist.md",
+      "title": "ChatGPT Mania: 3 Stocks to Buy Hand Over Fist",
+      "excerpt": "Intelligent Cloud, which houses Azure, is already big business for Microsoft ... Microsoft's relationship with ChatGPT and Alphabet's longtime focus on AI and machine learning, investors should not count out fellow tech giant Apple. Apple has not touted ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/02/10/chatgpt-mania-3-stocks-to-buy-hand-over-fist/",
+      "originalUrl": "https://www.fool.com/investing/2023/02/10/chatgpt-mania-3-stocks-to-buy-hand-over-fist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/719980/artificial-intelligence-ai-on-cloud-circuit-board-1.jpg",
+          "width": 2359,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-10T05:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-10-the-inside-story-of-how-microsoft-caught-up-with-google-on-ai-and-the-unlikely-executive-who-made-it-happen.md",
       "title": "The inside story of how Microsoft caught up with Google on AI, and the unlikely executive who made it happen",
       "excerpt": "Google Cloud to Microsoft Azure At the time, OpenAI had just released a large language model along with a research paper on the gains that could be made by combining two existing ideas in the AI field: transformers and unsupervised pre-training.",
@@ -1336,58 +1388,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-first-on-cnbc-cnbc-transcript-microsoft-ceo-satya-nadella-speaks-with-cnbcs-jon-fortt-on-power-lunch-today.md",
-      "title": "First on CNBC: CNBC Transcript: Microsoft CEO Satya Nadella Speaks with CNBC’s Jon Fortt on “Power Lunch” Today",
-      "excerpt": "Microsoft is a global company ... We wouldn't even have all of the Azure Cognitive Services if it was not for what was applied AI. So I would say of course, I want more pace. And what you're seeing I guess this year in particular, is what we've been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/02/07/first-on-cnbc-cnbc-transcript-microsoft-ceo-satya-nadella-speaks-with-cnbcs-jon-fortt-on-power-lunch-today.html",
-      "originalUrl": "https://www.cnbc.com/2023/02/07/first-on-cnbc-cnbc-transcript-microsoft-ceo-satya-nadella-speaks-with-cnbcs-jon-fortt-on-power-lunch-today.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/07/first-on-cnbc-cnbc-transcript-microsoft-ceo-satya-nadella-speaks-with-cnbcs-jon-fortt-on-power-lunch-today.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/07/first-on-cnbc-cnbc-transcript-microsoft-ceo-satya-nadella-speaks-with-cnbcs-jon-fortt-on-power-lunch-today.html",
-      "publishedDateTime": "2023-02-07T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

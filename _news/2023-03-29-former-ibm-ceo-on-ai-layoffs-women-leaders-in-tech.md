@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Genrobotics: This new startup is mixing AI and robotics to help sanitation workers"
-    excerpt: "The thought of Genrobotics as a company started way back when four engineering students wanted to try their hands at robotics which would bring about substantial changes in society through innovation and technology."
-    publishedDateTime: 2023-03-27T13:28:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/genrobotics-this-new-startup-is-mixing-ai-and-robotics-to-help-sanitation-workers-article-99038504"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 43
 
 secured: "xJaNIQfD7K4wdTZN/FA/Isc1iUjSB20YdQ4eIOaav+M+1hWPmQoLJn4gYS1ydE0dEdtzATBvl4Ne8HAhVJhd8nxHbr7sq+T6IBm9XrpiFoKFgYMRUEtSiy3kgZT0/V7qxOa847Cdbz1IKrvJ6FZB5yEkEqezTsMZXhGXX6yiF3QRH1FVZHeUhlRPnduaPn51tWWYEz2afNorO1BbGP8dPJCqRLhu6RnopezgpwWdVVlzPxqdMfToG3Zif+OOxlLen2RqqB40tcuAxK3CqO+WRarq5TefVXap65q3l1g8B9B8mKa1i/p1QAQrg/PJtpFa0A2w8/dp6k2VD61pMG+Fp0g/DodFZkqqpderMtNrEi5yhSx2WY4c27qZC27wh5euEGY/mYh8G3pqjNa14l+k9eY0M2k11MAOllF5ZjsUj7r3LilDABxJboIrv94FGpCA7BngltdCXBfoSVKHRxOzX+9YkarIKr3G4N5lRWyleUo4yw+YNiwiCjkCYbvltmBmo1KnE8onZhofneOz1ojlbQ==;YyDrYuYo5ToM2BS1BGc2kg=="
 ---

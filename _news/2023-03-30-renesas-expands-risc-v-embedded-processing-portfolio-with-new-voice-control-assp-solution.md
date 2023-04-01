@@ -2,9 +2,9 @@
 category: news
 title: "Renesas Expands RISC-V Embedded Processing Portfolio with New Voice-Control ASSP Solution"
 excerpt: "Renesas Electronics Corporation (TSE: 6723), a premier supplier of advanced semiconductor solutions, today extended its industry-leading RISC-V portfolio with the first RISC-V MCU designed for voice-controlled HMI (human-machine interface) systems."
-publishedDateTime: 2023-03-30T15:34:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/03/30/9786236.htm"
-webUrl: "https://it.tmcnet.com/news/2023/03/30/9786236.htm"
+publishedDateTime: 2023-03-30T15:15:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/03/30/9786236.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/03/30/9786236.htm"
 type: article
 quality: 0
 heat: 0
@@ -18,6 +18,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "VuEMCQXySRYVFrQ5Vz8jMKG5IWdQjv1CicM79ibxw+rk5YfSa5SATPlpuxmGKFCQRwxpcffAOJWuyoPdmgKbf/9QdLdzumORNGlU5e0kIvp4MPk2br3PjensdTcggaJpAW8CfgubcG+H7DYWPdwZpAUCKBCBbgKSfBz+DtKB4oRT1y+gxVhGXTqe0ioNqZmG2N5FA1mk8KUy3CadC/cuRjcODVS11JjB34G+g6EBvJ+C6Mpai+1LqzqXymdR8eM/6lzTFDEwj8A+3zhSmDDXg1hCYaXTo5mbXWqJ2J4CaSg7eRDeaI9hFU1AmXHkBUxq+Uwmr4ByarfZAPSynC/HmhH+uJ2lDSFyJsW6i2dvuzqGR4380YC6pH+fGfW3BmEPpSSeYGSCZ1Ihs8/uwROSGgoRCmg+HjaJ65Amre7RcIM1WBm78B/hNuTuy7kdzRhk110HdPqKemhaMGA9dn/OmZnahZi+OLW7lhhbTcfVgnt1r6qlBvAnUGGXj0yLaQD8jIJthm8y4KdjrAqrfRZf5w==;/QYBTT1bMxlxUrE2ZBDLrQ=="
+secured: "z15bU4MKEM8Br12SAl3Mizq4x0ozq57Il/6Qo94YrpGTbHim6WVAxoz0n8TX9XkYCLf+eHgXwcjmvTwqVYfokNq0KSk8Xg0Gd7ApEFKgWEFKFRcnmkl39RvPi/6/RbctqJAPaHhxVLjvzDj8oY+X75gD0ZU1H17KcolSgQIgfkSIqAYA6MzlmBSVed2N7l4qbYtQu9CtptA/k7++eJe1/0QKZibTx3+POx4IkSleZwqgcIKQBt24tg3O/2Mkr91QvkFgzqdkkT3a64+j/FW58LK+zMq9zvBoTWcA8awMoqfJhOG6LkbRJXRrvGjTQKrd4wncwKJ4z1Z6vW0oc+3xMJks65mbbHI1nfy3GLqJGvL/Tz6ayNFYVMlAIhE2jEUWhJPLPOpXNLVdJCOyK3+dN1dBQAnfzumV4Alk8Nw0HcRUZn8Jn/qf9mZpPK1DNtb/o/3cykvYNYCHffq1HpNcv73UTribwYYbHRL99cKyCyvWEnQZKdacQsC/TYMoku22tlt8pIFDKVNBc0u2TIWoHQ==;SeBQp/ejqCfeTR8PE+ttpg=="
 ---
 

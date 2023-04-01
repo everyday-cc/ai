@@ -310,6 +310,50 @@
       ]
     },
     {
+      "path": "_news/2023-03-24-microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more.md",
+      "title": "Microsoft unveils plans to use AI feature in Outlook, Excel and more",
+      "excerpt": "On the other hand, AI critics worry it will bring more harm ... and perform a wide range of language-related tasks such as language translation, text summarization [and] sentiment analysis.”",
+      "sourceUrl": null,
+      "webUrl": "https://wgntv.com/news/nexstar-media-wire/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/",
+      "originalUrl": "https://wgntv.com/news/nexstar-media-wire/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wgntv.com/wp-content/uploads/sites/5/2023/03/computer-software-best-microsoft-365-products-1.jpg?w=1280",
+          "width": 760,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wgntv.com/news/nexstar-media-wire/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/",
+      "cdnAmpWebUrl": "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/nexstar-media-wire/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/",
+      "publishedDateTime": "2023-03-24T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGN-TV",
+        "domain": "wgntv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-24-while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers.md",
       "title": "While OpenAI has been working on text and images, iGenius has been working on GPT for numbers",
       "excerpt": "And with algorithms, natural language processing and user-created metadata, or what iGenius calls advanced conversational AI, the complexity of data quality can be improved and elevated. Gartner has dubbed this ‘conversational analytics.’ Virtualizing ...",
@@ -1431,49 +1475,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-wimi-creates-digital-image-processing-software-based-on-visual-saliency-and-channel-attention-mechanism.md",
-      "title": "WiMi Creates Digital Image Processing Software Based on Visual saliency and Channel Attention Mechanism",
-      "excerpt": "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/wimi-creates-digital-image-processing-software-based-visual-saliency-and-channel-attention",
-      "originalUrl": "https://www.asiaone.com/business/wimi-creates-digital-image-processing-software-based-visual-saliency-and-channel-attention",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2023/pr-newswire_500_4_743.jpg?h=7de12b8a&itok=kZzumUoZ",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-13T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

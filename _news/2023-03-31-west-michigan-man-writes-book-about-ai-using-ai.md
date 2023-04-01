@@ -9,7 +9,7 @@ ampWebUrl: "https://www.woodtv.com/news/grand-rapids/west-michigan-man-writes-bo
 cdnAmpWebUrl: "https://www-woodtv-com.cdn.ampproject.org/c/s/www.woodtv.com/news/grand-rapids/west-michigan-man-writes-book-about-ai-using-ai/amp/"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Artificial Intelligence Is Teaching Us New, Surprising Things About the Human Mind"
+    excerpt: "The world has been learning an awful lot about artificial intelligence lately, thanks to the arrival of eerily human-like chatbots. Less noticed, but just as important: Researchers are learning a great deal about us – with the help of AI."
+    publishedDateTime: 2023-04-01T04:05:00Z
+    webUrl: "https://www.wsj.com/articles/artificial-intelligence-is-teaching-us-new-surprising-things-about-the-human-mind-ba7cdceb"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 63
+    images:
+      - url: "https://images.wsj.net/im-755114/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "LuFM9QuAdXbx5Ns/bcgcDpot/hGB1SJfiMOd7px3YmiVikmz+60w52SWV+DKoYHeo1eyUrn3KGAgO0M9N1tyd7lTxmlZNo0nSCp5Qn7QAM63rMnQp5OXPbOdIkX/wJ5Z+2P+KEqCGpidMe1CQK/8odmYhdIzpBrzqwASyl8dqoToVVzHli/or+wLX4TQlDU6Wfbt+d7IBLiKtZNVBImY8oUNz0e3U+SvAs+Ie+8seZB3Nh1w4Brw13rwjhGhX5asdvkB2o/7SK6n+wQyIrrrygWSJzAme3ZNPv2JL1iXiAq9nijx6xodmW18MqZzyGP3tdGaKmWN1wDPq0PJ2qH+BLko/fiM/ga7FvfT9clmwTY=;SjdzFnsLypmART1efzqtsA=="
 ---

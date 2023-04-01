@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-14-tcs-launches-5g-enabled-solution-to-help-companies-transform-plant-operations.md",
+      "title": "TCS Launches 5G Enabled Solution To Help Companies Transform Plant Operations",
+      "excerpt": "Tata Consultancy Services on Tuesday (14 March) announced the launch of its 5G-enabled solution to help companies in transforming plant operations. TCS' Cognitive Plant Operations Adviser for the Microsoft Azure Private Mobile Edge Computing (PMEC) platform will help companies in industries like manufacturing,",
+      "sourceUrl": null,
+      "webUrl": "https://swarajyamag.com/business/tcs-launches-5g-enabled-solution-to-help-companies-transform-plant-operations",
+      "originalUrl": "https://swarajyamag.com/business/tcs-launches-5g-enabled-solution-to-help-companies-transform-plant-operations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/swarajya%2F2023-02%2Fa38bf3ae-864b-49b1-ad8b-01fddfd3c396%2FScreenshot_2023_02_08_at_12_53_49_PM.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-14T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Swarajya",
+        "domain": "swarajyamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-14-the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant.md",
       "title": "The tech behind ChatGPT could power your next car's AI driving assistant",
       "excerpt": "General Motors, in partnership with Microsoft, is developing a car-specific AI assistant based on the technology found in Dall-E, ChatGPT and Microsoft Bing",
@@ -1315,49 +1358,6 @@
         "Microsoft AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-03-08-incident-cognitive-impairment-tied-to-stress.md",
-      "title": "Incident Cognitive Impairment Tied to Stress",
-      "excerpt": "Opens in a new tab or window Share on LinkedIn. Opens in a new tab or window Perceived stress was linked with both prevalent and incident cognitive impairment in older adults, data from a national ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/neurology/dementia/103420",
-      "originalUrl": "https://www.medpagetoday.com/neurology/dementia/103420",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/103xxx/103420.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-07T08:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

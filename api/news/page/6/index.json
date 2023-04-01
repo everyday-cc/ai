@@ -2,6 +2,205 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-03-25-top-5-stories-of-the-week-generative-ai-market-heating-up-even-more.md",
+      "title": "Top 5 stories of the week: Generative AI market heating up (even more)",
+      "excerpt": "This she found in a March 2021 AI research paper, “On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?” Although it led to firings, researchers decided it was time to look back at the explosive paper — which in hindsight ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-generative-ai-market-heating-up-even-more/",
+      "originalUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-generative-ai-market-heating-up-even-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/toa-heftiba-9n_tf0_YANE-unsplash-e1679695283281.jpg?fit=800%2C546&strip=all",
+          "width": 800,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-generative-ai-market-heating-up-even-more/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-5-stories-of-the-week-generative-ai-market-heating-up-even-more/amp/",
+      "publishedDateTime": "2023-03-25T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-who-will-take-care-of-italys-older-people-robots-maybe.md",
+      "title": "Who Will Take Care of Italy’s Older People? Robots, Maybe.",
+      "excerpt": "would be if a “social robot can assist in care.” Leaps in artificial intelligence would only make robots more responsive, she said, keeping older people self-sufficient longer, and providing more relief to caregivers. “We all have to look for all the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/03/25/world/europe/who-will-take-care-of-italys-older-people-robots-maybe.html",
+      "originalUrl": "https://www.nytimes.com/2023/03/25/world/europe/who-will-take-care-of-italys-older-people-robots-maybe.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/03/10/multimedia/10italy-aging-robots-01-pzvt/10italy-aging-robots-01-pzvt-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/03/25/world/europe/who-will-take-care-of-italys-older-people-robots-maybe.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/25/world/europe/who-will-take-care-of-italys-older-people-robots-maybe.amp.html",
+      "publishedDateTime": "2023-03-25T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-neural-network-software-market-size-2023-trends-and-opportunities-cagr-and-value-chain-study-to-2031.md",
+      "title": "Neural Network Software Market Size, 2023 Trends and Opportunities, CAGR and Value Chain Study to 2031",
+      "excerpt": "The neural network software is a tool used for ANN research and development, stimulation, and application (artificial neural network). The program refers to devices that resemble brains in certain ways and may have science fiction implications. Some of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-2023-trends-and-opportunities-cagr-and-value-chain-study-to-2031-2023-03-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-2023-trends-and-opportunities-cagr-and-value-chain-study-to-2031-2023-03-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-25T00:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-chinas-ai-ambitions-hindered-by-funding-and-chip-import-issues.md",
+      "title": "China’s AI ambitions hindered by funding and chip import issues",
+      "excerpt": "China’s tech giants are facing significant hurdles in their race to develop and dominate the artificial intelligence (AI) market, with censorship and a US clampdown on chip imports impeding progress. Last week, Baidu, one of China’s leading search ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/03/25/china-ai-ambitions-funding-chip-import-issues/",
+      "originalUrl": "https://www.gizmochina.com/2023/03/25/china-ai-ambitions-funding-chip-import-issues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-24T23:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-25-ai-technology-may-be-able-to-generate-our-minds-images.md",
       "title": "AI technology may be able to generate our mind’s images",
       "excerpt": "Researchers are developing artificial intelligence technology they say could generate the very images in our brains. NBC News’ Jacob Ward shares more on the extraordinary research and the concerns about what mind reading technology could mean for the future.",
@@ -718,6 +917,50 @@
       ]
     },
     {
+      "path": "_news/2023-03-24-microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more.md",
+      "title": "Microsoft unveils plans to use AI feature in Outlook, Excel and more",
+      "excerpt": "On the other hand, AI critics worry it will bring more harm ... and perform a wide range of language-related tasks such as language translation, text summarization [and] sentiment analysis.”",
+      "sourceUrl": null,
+      "webUrl": "https://wgntv.com/news/nexstar-media-wire/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/",
+      "originalUrl": "https://wgntv.com/news/nexstar-media-wire/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wgntv.com/wp-content/uploads/sites/5/2023/03/computer-software-best-microsoft-365-products-1.jpg?w=1280",
+          "width": 760,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wgntv.com/news/nexstar-media-wire/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/",
+      "cdnAmpWebUrl": "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/nexstar-media-wire/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/",
+      "publishedDateTime": "2023-03-24T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGN-TV",
+        "domain": "wgntv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-24-hazenai-a-ksa-startup-using-deep-learning-to-drive-road-safety.md",
       "title": "Hazen.ai: A KSA Startup Using Deep Learning To Drive Road Safety",
       "excerpt": "What changed in the last decade was several breakthroughs in the research, with seminal research papers published on \"unsupervised (machine) learning\" and \"deep neural networks.\" At the same time, computing power was increasing exponentially each year ...",
@@ -965,258 +1208,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-three-ways-to-increase-roi-on-ai-driven-data-and-analytics-transformation.md",
-      "title": "Three Ways To Increase ROI On AI-Driven Data And Analytics Transformation",
-      "excerpt": "Digital transformation is in full throttle, but it’s not all smooth sailing for companies. Why is it so hard to get it right?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/24/three-ways-to-increase-roi-on-ai-driven-data-and-analytics-transformation/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/24/three-ways-to-increase-roi-on-ai-driven-data-and-analytics-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f2ab1b715bcd65fed3786e4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/24/three-ways-to-increase-roi-on-ai-driven-data-and-analytics-transformation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/24/three-ways-to-increase-roi-on-ai-driven-data-and-analytics-transformation/amp/",
-      "publishedDateTime": "2023-03-24T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-these-3-ai-stocks-could-outperform-the-sp-500-in-a-bull-market.md",
-      "title": "These 3 AI Stocks Could Outperform the S&P 500 in a Bull Market",
-      "excerpt": "but Microsoft's hefty investments in OpenAI -- the start-up that created the \"generative AI\" chatbot ChatGPT -- might help Microsoft reach those estimates. Microsoft has already integrated ChatGPT into its search engine Bing and its Azure cloud ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/03/24/these-3-ai-stocks-outperform-sp-500-in-bull/",
-      "originalUrl": "https://www.fool.com/investing/2023/03/24/these-3-ai-stocks-outperform-sp-500-in-bull/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/725503/digital-brain.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-24T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-airport-gets-facial-recognition-technology.md",
-      "title": "Airport gets facial recognition technology",
-      "excerpt": "Cameras installed at the Jinnah International Airport equipped with facial recognition technology have been made operational, with the Federal Investigation Agency (FIA) and the Civil Aviation Authority (CAA) to manage it jointly. The surveillance system ...",
-      "sourceUrl": null,
-      "webUrl": "https://tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology",
-      "originalUrl": "https://tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.tribune.com.pk/media/images/1857356-facialrecognitionx-1543564330/1857356-facialrecognitionx-1543564330.jpg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology?amp=1",
-      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology?amp=1",
-      "publishedDateTime": "2023-03-23T23:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Express Tribune",
-        "domain": "tribune.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-how-ai-marketing-tools-can-accelerate-your-business-and-productivity.md",
-      "title": "How AI Marketing Tools Can Accelerate Your Business and Productivity",
-      "excerpt": "In other words, AI marketing tools are like having a marketing team of robots that work around the clock to help ... improve the customer experience, and reduce costs. Start exploring the world of AI marketing tools and watch your business accelerate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/how-ai-marketing-tools-can-accelerate-your-business-and-productivity-2023-03-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/how-ai-marketing-tools-can-accelerate-your-business-and-productivity-2023-03-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-23T22:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-machine-learning-ml-platforms-market-size-by-2031.md",
-      "title": "Machine Learning (ML) Platforms Market Size by 2031",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- The \"Machine Learning (ML) Platforms Market\" study describes how the technology industry is evolving and how major and emerging players in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-by-2031-2023-03-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-by-2031-2023-03-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-23T21:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/28/covariants-ceo-on-building-ai-that
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/28/covariants-ceo-on-building-ai-that-helps-robots-learn/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Genrobotics: This new startup is mixing AI and robotics to help sanitation workers"
-    excerpt: "The thought of Genrobotics as a company started way back when four engineering students wanted to try their hands at robotics which would bring about substantial changes in society through innovation and technology."
-    publishedDateTime: 2023-03-27T13:28:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/genrobotics-this-new-startup-is-mixing-ai-and-robotics-to-help-sanitation-workers-article-99038504"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 43
   - title: "Former IBM CEO on AI, layoffs, women leaders in tech"
     excerpt: "The recent buzz surrounding artificial intelligence and mass layoffs roiling the technology industry is familiar ground for Ginni Rometty, whose nearly 40-year career at IBM culminated in her being promoted to CEO in 2012."
     publishedDateTime: 2023-03-28T18:14:00Z

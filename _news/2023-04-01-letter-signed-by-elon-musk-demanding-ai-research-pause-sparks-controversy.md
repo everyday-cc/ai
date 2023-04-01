@@ -46,7 +46,18 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Things to consider with the use of giant AI experiments and the safety of Black travelers"
+    excerpt: "Following the recent open letter from the Future of Life Institute, which recommends a six-month pause on “Giant AI Experiments” in order to agree on safeguards and precautions for this incredible new technology,"
+    publishedDateTime: 2023-03-31T17:51:00Z
+    webUrl: "https://www.miamiherald.com/detour/article273827310.html?taid=64271df819b3b500016cf55e"
+    ampWebUrl: "https://amp.miamiherald.com/detour/article273827310.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/detour/article273827310.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 30
 
-secured: "VAQ7pj85GJ1f7I5baHbjtrGJbrnmMRljoWh2WxtblnvYNz1TM2ouEYTYVwr2RmPTNJrx3MfiV1WnI8WrsQC5pwlAUYFRrpKSDR5XYiPrpSfebxYUGhwvsvjbAAHUBsYUihMUtDuXkKqanqHWFciUrMErigv2IyAp50sVEFBHzKRWd92XR8hMz6lVsSjaG4dYqIK7/sxCflYI21kuojgJs81F0lXEme1aNU3n6rgZHFoTq5oU554YaQybm3Z/B+WnP3QcMB8wFcm7F/9XIR64Iwp4EZiTWx+dpKCUTXWbwPbuSQryI1rIle5e+gl+vDQPH2YDqyzIWbGQwPGGYFUeveYPYxn+WlquQcPw+KZdwhA=;w+isF7ytr8pOEbs0wECwIw=="
+secured: "BgttVL7fr5DbSQFk7itupjEkygcqPCsN/LDvfH4VjknGlBpl0aAkkwboIXs+dNzYBMrHLbJk4zy27E7JKV8y7cK+VYds4EeRcS60IDenzuUuyxyI4MANNDmkexCD1xi8CYOupI+O4qsHwqAtrWUb9WfYLHOiLgljo1wn3kZn+JKh0yq+IMvJHWSxLEkPi/b8fJJI5lo3z1T3FFMh6Xh6rDesTseiNpqDXwVJtM/3wh9L5i/mxTGWKIOwWF8uuFEZrmUDuxe1wJaC7Cl6gQAxZMdig8kunyX8w3DnRA0JAZBFU3yjYzOPRYw+PpteYuLwQpL8pRPlIPuvFDFN90M9R5gGbq8h3P+RYI4OyOUMj/AeCJwOigyrlV0yb7IVyXC2chxwk9x8Jex0LjS5gYlfJ+34Kzn2xVjmSuq9Eb8xHZ7llob15sU3z7pcwp9ouOgcP4KokvJS5k9ovQt9XlpEURKmTupfs2O4wRCKS2wA5fi4pD+dneI87REycYZtfZKHCKKpPOpCq7gt0RXkmHF7eQ==;3+TRnO1FuMDAE3a4X8sxwA=="
 ---
 

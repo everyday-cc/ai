@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-01-artificial-intelligence-is-teaching-us-new-surprising-things-about-the-human-mind.md",
+      "title": "Artificial Intelligence Is Teaching Us New, Surprising Things About the Human Mind",
+      "excerpt": "The world has been learning an awful lot about artificial intelligence lately, thanks to the arrival of eerily human-like chatbots. Less noticed, but just as important: Researchers are learning a great deal about us – with the help of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-is-teaching-us-new-surprising-things-about-the-human-mind-ba7cdceb",
+      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-is-teaching-us-new-surprising-things-about-the-human-mind-ba7cdceb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-755114/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-31T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-01-google-ai-based-tiny-syringe-to-inject-gene-therapy-tumour-killing-drugs.md",
       "title": "Google AI-based tiny syringe to inject gene therapy, tumour-killing drugs",
       "excerpt": "A team of researchers has harnessed Google's AI venture DeepMind to develop a bacterial injection system which can inject proteins, including cancer-killing drugs and gene therapies, directly into human cells.",
@@ -53,7 +105,7 @@
       "originalUrl": "https://www.forbes.com/sites/jackkelly/2023/03/31/goldman-sachs-predicts-300-million-jobs-will-be-lost-or-degraded-by-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -1385,40 +1437,6 @@
         "AI",
         "AI in Healthcare",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-investors-whats-the-real-deal-with-ati-physical-therapy-inc-nyse-atip.md",
-      "title": "Investors: What’s The Real Deal With ATI Physical Therapy Inc. (NYSE: ATIP)",
-      "excerpt": "The trading price of ATI Physical Therapy Inc. (NYSE:ATIP) closed higher on Friday, March 17, closing at $0.41, 30.84% higher than its previous close. Traders who pay close attention to intraday price movement should know that it fluctuated between $0.",
-      "sourceUrl": null,
-      "webUrl": "https://stocksregister.com/2023/03/20/investors-whats-the-real-deal-with-ati-physical-therapy-inc-nyse-atip/",
-      "originalUrl": "https://stocksregister.com/2023/03/20/investors-whats-the-real-deal-with-ati-physical-therapy-inc-nyse-atip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-19T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "stocksregister",
-        "domain": "stocksregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

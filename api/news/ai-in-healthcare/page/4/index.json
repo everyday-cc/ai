@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-20-artificial-intelligence-is-booming-but-how-will-it-impact-your-career.md",
+      "title": "Artificial Intelligence is booming – but how will it impact your career?",
+      "excerpt": "Artificial Intelligence is the latest technology buzz topic thanks to the boom of ChatGPT. The AI-powered chatbot, created by Microsoft-backed OpenAI, has both impressed and shocked with its ability to answer questions, write essays and even argue legal cases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/02/20/artificial-intelligence-is-booming-but-will-it-impact-your-career-and-job.html",
+      "originalUrl": "https://www.cnbc.com/2023/02/20/artificial-intelligence-is-booming-but-will-it-impact-your-career-and-job.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107196527-1676650643558-gettyimages-1394953811-_dsc9542-gi.jpeg?v=1676894627",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/20/artificial-intelligence-is-booming-but-will-it-impact-your-career-and-job.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/20/artificial-intelligence-is-booming-but-will-it-impact-your-career-and-job.html",
+      "publishedDateTime": "2023-02-20T02:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-02-19-artificial-intelligence-could-increase-foreign-espionage-displace-jobs-without-proper-guardrails-experts-say.md",
       "title": "Artificial intelligence could increase foreign espionage, displace jobs without proper guardrails, experts say",
       "excerpt": "Quickly evolving artificial intelligence technologies like ChatGPT could increase cyberattacks from foreign countries and displace workers in the U.S. labor force, highlighting the need for new skills and training among American students and workers ...",
@@ -1379,40 +1432,6 @@
       "provider": {
         "name": "devdiscourse",
         "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-14-global-artificial-intelligence-in-cancer-diagnostics-market-report-2022-to-2030-players-include-pfizer-therapixel-sophia-genetics-and-freenome.md",
-      "title": "Global Artificial Intelligence in Cancer Diagnostics Market Report 2022 to 2030: Players Include Pfizer, Therapixel, Sophia Genetics and Freenome",
-      "excerpt": "The global Artificial Intelligence in Cancer Diagnostics Market size is expected to reach USD 4,841.84 million by 2030. The report gives a detailed insight into current market dynamics and provides an analysis of future market growth.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/02/14/9760571.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/02/14/9760571.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-13T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -190,22 +190,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "What can Google's AI-powered Bard do? We tested it for you"
-    excerpt: "That is the Shakespearean question an Associated Press reporter sought to answer while testing out Google's artificially intelligent chatbot. The recently rolled-out bot dubbed Bard is the internet search giant's answer to the ChatGPT tool that Microsoft has been melding into its Bing search engine and other software."
-    publishedDateTime: 2023-03-27T13:47:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/googles-ai-powered-bard-tested-98157098"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/googles-ai-powered-bard-tested-98157098"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/googles-ai-powered-bard-tested-98157098"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_14ee02cb71b32f0e1fc87a4173c03796_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Everything you need to know about artificial intelligence: What is it used for?"
     excerpt: "Artificial intelligence is the leading innovation in the technology sector today, offering limitless opportunities to its users while also representing an existential threat to some white-collar ..."
     publishedDateTime: 2023-03-29T13:09:00Z
@@ -299,7 +283,7 @@ related:
     provider:
       name: World Socialist Web Site
       domain: wsws.org
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.wsws.org/asset/76fbb761-071f-4bab-b074-271bdf3985b8?rendition=1600x900"
         width: 1600

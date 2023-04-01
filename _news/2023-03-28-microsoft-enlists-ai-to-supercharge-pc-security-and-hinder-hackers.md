@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft Teams takes off with AI-savvy Copilot integration"
-    excerpt: "Microsoft today announced a new version of Teams with AI-powered Copilot integration and notable speed and UX updates."
-    publishedDateTime: 2023-03-27T15:00:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-teams-takes-off-with-ai-savvy-copilot-integration/"
-    ampWebUrl: "https://venturebeat.com/ai/microsoft-teams-takes-off-with-ai-savvy-copilot-integration/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-teams-takes-off-with-ai-savvy-copilot-integration/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/02/microsoft-teams.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Microsoft Security Copilot is a new GPT-4 AI assistant for cybersecurity"
     excerpt: "After announcing an AI-powered Copilot assistant for Office apps ... so we think it’s important to get it to a small group of folks and start that process of learning and to make this the best possible product and make sure we’re delivering it ..."
     publishedDateTime: 2023-03-28T15:32:00Z

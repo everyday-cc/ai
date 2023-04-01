@@ -35,6 +35,6 @@ related:
       domain: slator.com
     quality: 19
 
-secured: "+bkLWFTMz97x+SDvWzFZRtOpju3DB85bKr/LMGJ/yzg8nldDayL4zj5/tLW1zFoAFK9Opk15Cfb5DBCAVJynoCtEn6MD3MC+xSfxEHyBhUNtJPZthysx3D6r2YczUr/PrHhmH9kIvjVIfxBWFrOc3mS5xJosovQsXVNF0Yi+UZEL3/tgVbWT+KvnT9DV2MhzX6wWgfIPBebDgA3LSeNzXtFAToKkHaJ2b8llOOhv/EFEE/G/4REmx8ceQ7kedOr7I7go/4k9kc1iSHPKpxiY/WIdOT9Aw/ppNjdNPRA8ccwGRheJY4dYpp+K+oK6+v/ZypWBx67mSovPeCXA147Ix04Mh8U8sH3PSskSffk1uIU=;wVpash26GktUVmxX8rOAqQ=="
+secured: "2jhnscXRXakQoHKNh7tX2XmZrU8TE7yN+8sxNps1wxkG/9CnnYhBJFgFHuxvthLnflMuLl+BUgONi2k6nrrnrJdaTQkUkzFruRKYkF6XOo/cwmOlV6ppZwV+BjH+taPY4LoV4XCqHjoBLseEZCqzmz/J/C7afLE62dnuUUU+uVPSYKh+JSts6u0l/6SmnwNws8ZPJ8jWy9S/tNX4rWiJqCSiNRGAwfqBU5mbdbjkC62L/4yDoIC8qp6cc2ceyFfLjP8TCxgDe5f2ck85DnZr3QHx7iJLKTgJsbCYmBELYx1v4zBWw0XG5uOQs0CkY1TPq9G3/DH8IbZFxWyeZj87C4c6JEaywDPEHbFe1WAi5+g=;EwLZ1ystWooA9VYYsRzR5Q=="
 ---
 

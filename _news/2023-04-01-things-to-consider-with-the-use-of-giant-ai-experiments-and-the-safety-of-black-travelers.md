@@ -1,99 +1,59 @@
 ---
 category: news
 title: "Things to consider with the use of giant AI experiments and the safety of Black travelers"
-excerpt: "For example, there are AI translation tools that are specifically designed to translate non-standard varieties of a language, which can help to ensure that BIPOC travelers are able to communicate effectively while traveling. Overall, the impact of AI on ..."
-publishedDateTime: 2023-03-31T18:08:00Z
-originalUrl: "https://www.newsobserver.com/detour/article273827310.html"
-webUrl: "https://www.newsobserver.com/detour/article273827310.html"
-ampWebUrl: "https://amp.newsobserver.com/detour/article273827310.html"
-cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/detour/article273827310.html"
+excerpt: "Following the recent open letter from the Future of Life Institute, which recommends a six-month pause on “Giant AI Experiments” in order to agree on safeguards and precautions for this incredible new technology,"
+publishedDateTime: 2023-03-31T17:51:00Z
+originalUrl: "https://www.miamiherald.com/detour/article273827310.html?taid=64271df819b3b500016cf55e"
+webUrl: "https://www.miamiherald.com/detour/article273827310.html?taid=64271df819b3b500016cf55e"
+ampWebUrl: "https://amp.miamiherald.com/detour/article273827310.html"
+cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/detour/article273827310.html"
 type: article
-quality: 32
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - Natural Language Processing
   - AI
-  - AI Ethics
 
 related:
-  - title: "What Investors Should Consider When Thinking About The Potential Of AI"
-    excerpt: "However, I can provide an objective analysis of AI systems in today's society. AI has brought about numerous benefits to society, such as improved efficiency, accuracy, and decision-making processes."
-    publishedDateTime: 2023-03-27T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/27/what-investors-should-consider-when-thinking-about-the-potential-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/27/what-investors-should-consider-when-thinking-about-the-potential-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/27/what-investors-should-consider-when-thinking-about-the-potential-of-ai/amp/"
+  - title: "Why we need to pause AI research and consider the real dangers"
+    excerpt: "Google’s DeepMind says its mission is to “solve intelligence” and from there use the enhanced intelligence to solve all our other problems — global poverty, climate change, cancer, you name it. I find this vision compelling, and I still believe AI ..."
+    publishedDateTime: 2023-03-31T14:20:00Z
+    webUrl: "https://nypost.com/2023/03/31/why-we-need-to-pause-ai-research-consider-the-real-dangers/"
+    ampWebUrl: "https://nypost.com/2023/03/31/why-we-need-to-pause-ai-research-consider-the-real-dangers/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/03/31/why-we-need-to-pause-ai-research-consider-the-real-dangers/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: New York Post
+      domain: nypost.com
+    quality: 61
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61434b8ab75fa0a8f8e4b176/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 848
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000009022875.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "An AI researcher who has been warning about the technology for over 20 years says we should 'shut it all down'"
-    excerpt: "previously told Insider that tech firms are locked in a \"competitive arms race environment\" in an effort to be seen as \"first movers,\" which may result in concerns around ethics and safety in AI being overlooked. Even Altman has acknowledged fears around ..."
-    publishedDateTime: 2023-03-31T11:43:00Z
-    webUrl: "https://www.businessinsider.com/ai-researcher-issued-warning-about-technology-shut-it-all-down-2023-3"
-    ampWebUrl: "https://www.businessinsider.com/ai-researcher-issued-warning-about-technology-shut-it-all-down-2023-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-researcher-issued-warning-about-technology-shut-it-all-down-2023-3?amp"
+  - title: "Letter signed by Elon Musk demanding AI research pause sparks controversy"
+    excerpt: "The statement has been revealed to have false signatures and researchers have condemned its use of their work"
+    publishedDateTime: 2023-04-01T04:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/mar/31/ai-research-pause-elon-musk-chatgpt"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/31/ai-research-pause-elon-musk-chatgpt"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/31/ai-research-pause-elon-musk-chatgpt"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
+      name: The Guardian
+      domain: theguardian.com
+    quality: 56
     images:
-      - url: "https://i.insider.com/64269c90ed593e00183f605f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.guim.co.uk/img/media/9d7da16fdbf5f2177db6a584fc97350f0b7bb15c/0_0_4338_2892/master/4338.jpg?width=620&quality=85&auto=format&fit=max&s=fb6aeeec244d43f1358a8468e4215672"
+        width: 620
+        height: 413
         isCached: true
-  - title: "Artificial Intelligence Is Teaching Us New, Surprising Things About the Human Mind"
-    excerpt: "The world has been learning an awful lot about artificial intelligence lately, thanks to the arrival of eerily human-like chatbots. Less noticed, but just as important: Researchers are learning a great deal about us – with the help of AI."
-    publishedDateTime: 2023-04-01T04:05:00Z
-    webUrl: "https://www.wsj.com/articles/artificial-intelligence-is-teaching-us-new-surprising-things-about-the-human-mind-ba7cdceb"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 63
-    images:
-      - url: "https://images.wsj.net/im-755114/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Don't ignore warnings over potential dangers of artificial intelligence"
-    excerpt: "[iStockphoto] On Wednesday, over 1000 tech industry leaders signed an open letter urging Artificial Intelligence (AI) labs to stop developing advanced forms of AI. To many, this does not come as a surprise as one of the most prolific geniuses of the last ..."
-    publishedDateTime: 2023-03-31T04:16:00Z
-    webUrl: "https://www.standardmedia.co.ke/opinion/article/2001470006/do-not-ignore-warnings-over-potential-dangers-of-artificial-intelligence"
-    type: article
-    provider:
-      name: standardmedia.co.ke
-      domain: standardmedia.co.ke
-    quality: 37
-    images:
-      - url: "https://cdn.standardmedia.co.ke/images/articles/thumbnails/6gWVuZH97mihs5y6lquTjiLu8ooDP7KNSSZTmdmj.jpg"
-        width: 800
-        height: 500
-        isCached: true
-  - title: "‘I Have No Idea What I’m Talking About’: Jesse Watters Throws in the Towel During Rant About Artificial Intelligence"
-    excerpt: "Jesse Watters’ co-hosts cracked up when he admitted he has “no idea” what he’s talking about during a segment on artificial intelligence ... “Most Americans are worried about robots taking their jobs,” Watters said on Wednesday’s episode ..."
-    publishedDateTime: 2023-03-29T22:25:00Z
-    webUrl: "https://www.mediaite.com/tv/i-have-no-idea-what-im-talking-about-jesse-watters-throws-in-the-towel-during-rant-about-artificial-intelligence/"
-    ampWebUrl: "https://www.mediaite.com/tv/i-have-no-idea-what-im-talking-about-jesse-watters-throws-in-the-towel-during-rant-about-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/i-have-no-idea-what-im-talking-about-jesse-watters-throws-in-the-towel-during-rant-about-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 16
 
-secured: "S27fU/9JVF0o1qAPyrlgs+UF0xJnme2SFVLjSSm5YB6LM6ryIJ+3Kgkp5TKIhPmKC54RzPjxY5q9nYh7giD1xKjpWflOOu7X78KLH6DmZHQ3FHWYEAURQp9eh8sAB6OiR024xq5k4TE2OI6ixRmTEoTFbHrXkBeI/NRD9StzXAgS0VTuvQG3FJ4KXqkBVijnAjQ9AlzMaGZkODhcojEha2leDDYC25K7u+H/Qi+cf/A/3EM46f+LLIJ/Fz3dYXBcOrWWeyZCyJvI3Agfwim987A4U+HWAsnrxrd9emieOcOMtTro50cU87Oho7yqHAfx9k95xdoYF+HR3TZ5CAB1uPSlwI+vQvmNUkHIe62u//ge3MsoVkk8NEj4TP5gJpe3Rxx0Y9HtgZwXrLu6NtqywGRSkAWcwP+K9fz7V0etWoNdLfu/TRQNZwJDH5dRhE4X5MhX97tq64Wa+6JTj+IKzMRBZRPWEMCL0fGhvy08Te1hm1b1StHsnYUVahxKagba6Qxs36vVgx58wI2TCt4mWw==;haaOPFV8QyGhwwxqdJx5BQ=="
+secured: "9zdxCWg00VENt0kKauK9Vqe08S0Asz9qtJX8ddGYcdqNIsU3ugTRCqSj0QHP2xkYn4WrZnmK0LUz8l96NLhSTGJAfa+SyDwxou4efNm1ANvAqBqslO6Y8mrI9OEtcF39JzsQW6lmC6LLpiaWq98FlqF1bmCbuVbFEXSsCrqG5PzJCLEah4KYf70MML1uexAcAf3pLMAFuGse0RJlv8dmFyyUTfB8KyjmB8O2Quw10BGTbWzOqvqe7zjLeDgTNrc9ZoP7pxYADT+6uYmoOhdZ+Spat6ZeMWHRMOIkKWyRdzB5e3Fda6NOz5m0uG7uhOwOwbXxs/TjyrgOkF5STTi6qWRlrGVmnxDp1Meaem20maSfxMlDGWBQ59ECNfp0huEQDLIiI7ysRF6cX/FdBtR/SD+wQXuR27FYWuLrb596WAaXA9gni7tzKltQ0LCS7bbOfrmn/tg1SGCP3nuAizUExs2IrGxfYhmYSeCjZ68hXHSHJNfgyMlHvqxuclNQsTOWhzwRVG5IZm+o5a0NzzBKYg==;72gLfEVAReOxtrlS4iZyaw=="
 ---
 

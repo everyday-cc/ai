@@ -45,17 +45,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 64
-  - title: "AI startup accelerator Neo will partner with OpenAI, Microsoft"
-    excerpt: "Neo will partner with OpenAI and Microsoft to give free software and advice to companies on artificial intelligence."
-    publishedDateTime: 2023-03-27T14:00:00Z
-    webUrl: "https://www.seattletimes.com/business/new-ai-startup-accelerator-will-partner-with-openai-microsoft/"
-    ampWebUrl: "https://www.seattletimes.com/business/new-ai-startup-accelerator-will-partner-with-openai-microsoft/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/new-ai-startup-accelerator-will-partner-with-openai-microsoft/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 54
   - title: "DBHawk Partners with Microsoft Azure, Lands Patent for Sensitive Data"
     excerpt: "DBHawk developer Datasparc has entered into a new partnership with Microsoft that will increase its customers’ ability to work with data in the Azure"
     publishedDateTime: 2023-03-29T00:17:00Z

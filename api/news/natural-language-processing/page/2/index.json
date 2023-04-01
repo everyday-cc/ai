@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-13-wimi-creates-digital-image-processing-software-based-on-visual-saliency-and-channel-attention-mechanism.md",
+      "title": "WiMi Creates Digital Image Processing Software Based on Visual saliency and Channel Attention Mechanism",
+      "excerpt": "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/wimi-creates-digital-image-processing-software-based-visual-saliency-and-channel-attention",
+      "originalUrl": "https://www.asiaone.com/business/wimi-creates-digital-image-processing-software-based-visual-saliency-and-channel-attention",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2023/pr-newswire_500_4_743.jpg?h=7de12b8a&itok=kZzumUoZ",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-13T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-13-a-face-recognition-site-crawled-the-web-for-dead-peoples-photos.md",
       "title": "A Face Recognition Site Crawled the Web for Dead People’s Photos",
       "excerpt": "PimEyes appears to have scraped a major ancestry website for photos, without permission. Experts fear they could be used to identify living relatives.",
@@ -1346,58 +1389,6 @@
         "name": "Mena FN",
         "domain": "menafn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots.md",
-      "title": "Israeli Startup D-ID Puts A Face On Generative AI Chatbots",
-      "excerpt": "Tel Aviv-based D-ID announced today the next stage in its rapidly evolving ride on top of the generative AI wave, launching at Mobile World Congress their chat API, the first platform to enable face-to-face conversations with an “AI Digital Human” in a natural way.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63fe71cd4b8a8dd80fcbcbc2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/amp/",
-      "publishedDateTime": "2023-02-28T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

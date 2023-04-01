@@ -2,6 +2,231 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2023-01-17-innodata-secures-major-ai-computer-vision-win-1.md",
+      "title": "Innodata Secures Major AI Computer Vision Win 1",
+      "excerpt": "Innodata Selected by Leading Cloud Platform to Provide Large-Scale Data Collection for AI Computer Vision Initiative NEW YORK, NY / ACCESSWIRE / January 17, 2023 / Innodata Inc. (NASDAQ ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.lse.co.uk/rns/innodata-secures-major-ai-computer-vision-win-1-9qm3jxb87dxnj7g.html",
+      "originalUrl": "https://www.lse.co.uk/rns/innodata-secures-major-ai-computer-vision-win-1-9qm3jxb87dxnj7g.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.lse.co.uk/images/logo-og.jpg",
+          "width": 600,
+          "height": 346,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T05:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "London South East",
+        "domain": "lse.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-deepl-takes-aim-at-grammarly-with-the-launch-of-write-to-clean-up-your-prose.md",
+      "title": "DeepL takes aim at Grammarly with the launch of Write, to clean up your prose",
+      "excerpt": "After raising funding at a $1 billion valuation, translation startup DeepL is taking the wraps off Write to improve your writing.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/01/17/deepl-takes-aim-at-grammarly-with-the-launch-of-write-to-clean-up-your-prose/",
+      "originalUrl": "https://techcrunch.com/2023/01/17/deepl-takes-aim-at-grammarly-with-the-launch-of-write-to-clean-up-your-prose/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2015/12/typewriter.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/01/17/deepl-takes-aim-at-grammarly-with-the-launch-of-write-to-clean-up-your-prose/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/17/deepl-takes-aim-at-grammarly-with-the-launch-of-write-to-clean-up-your-prose/amp/",
+      "publishedDateTime": "2023-01-17T05:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-generative-ai-the-new-frontier-for-vc-investment.md",
+      "title": "Generative AI: The New Frontier For VC Investment",
+      "excerpt": "Generative AI is spawning a new frontier for venture capital investment. Big tech and venture investors are deploying record cash in this budding arena that some experts are predicting could change every industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/columbiabusinessschool/2023/01/17/generative-ai-the-new-frontier-for-vc-investment/",
+      "originalUrl": "https://www.forbes.com/sites/columbiabusinessschool/2023/01/17/generative-ai-the-new-frontier-for-vc-investment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63bcf25e18cf547891f26064/0x0.jpg?format=jpg&width=1200",
+          "width": 837,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/columbiabusinessschool/2023/01/17/generative-ai-the-new-frontier-for-vc-investment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/columbiabusinessschool/2023/01/17/generative-ai-the-new-frontier-for-vc-investment/amp/",
+      "publishedDateTime": "2023-01-17T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-opinion-how-facial-recognition-will-transform-airport-security.md",
+      "title": "Opinion: How facial recognition will transform airport security",
+      "excerpt": "Imagine using technology that never forgets a face, while improving airport security and shortening lines. Such technology exists and may be coming to an airport near you. Every flyer over the past two decades knows that airport security procedures involve a lot of unpacking,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/",
+      "originalUrl": "https://www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2023/01/OPED-TSA-FACIAL-RECOGNITION-COMMENTARY-TB.jpg?w=1024&h=736",
+          "width": 1024,
+          "height": 735,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/01/17/opinion-how-facial-recognition-will-transform-airport-security-checkposts/amp/",
+      "publishedDateTime": "2023-01-17T04:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-ieee-introduces-new-program-for-free-access-to-ai-ethics-and-governance-standards.md",
+      "title": "IEEE Introduces New Program for Free Access to AI Ethics and Governance Standards",
+      "excerpt": "IEEE, the world's largest technical professional organization dedicated to advancing technology for humanity, and the IEEE Standards Association (IEEE SA) announce the availability of a program that provides free access to global socio-technical standards in AI Ethics and Governance that provide guidance and considerations towards trustworthy AI.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/01/17/9743790.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/01/17/9743790.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T04:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-17-achieving-next-level-value-from-ai-by-focusing-on-the-operational-side-of-machine-learning.md",
       "title": "Achieving Next-Level Value From AI By Focusing On The Operational Side Of Machine Learning",
       "excerpt": "To this list, I would add another reason that I have seen many organizations struggle to achieve value from their AI projects. Companies often have invested heavily in building da",
@@ -966,221 +1191,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-protecting-the-innocent-the-cognitive-context-of-guilt.md",
-      "title": "Protecting the Innocent: The Cognitive Context of Guilt",
-      "excerpt": "Matthew Sharps, Ph.D., professor of psychology at California State University, Fresno. He researches forensic cognitive science among other related areas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/the-forensic-view/202301/protecting-the-innocent-the-cognitive-context-of-guilt",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-forensic-view/202301/protecting-the-innocent-the-cognitive-context-of-guilt",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-forensic-view/202301/protecting-the-innocent-the-cognitive-context-of-guilt?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-forensic-view/202301/protecting-the-innocent-the-cognitive-context-of-guilt?amp",
-      "publishedDateTime": "2023-01-16T14:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains.md",
-      "title": "Reimagining fintech : Banking-as-a-service, embedded finance can unlock new value chains",
-      "excerpt": "At a macro level, the banking and financial services industry are in the midst of a technology-led transformation phase.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/",
-      "originalUrl": "https://www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/01/banking1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/lite/",
-      "publishedDateTime": "2023-01-16T13:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-lawyers-barred-by-madison-square-garden-found-a-way-back-in.md",
-      "title": "Lawyers Barred by Madison Square Garden Found a Way Back In",
-      "excerpt": "MSG Entertainment resorted to facial recognition technology to kick out legal foes, but some have undermined the ban using a law passed to protect theater critics in 1941. Send any friend a story ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/01/16/technology/madison-square-garden-ban-lawyers.html",
-      "originalUrl": "https://www.nytimes.com/2023/01/16/technology/madison-square-garden-ban-lawyers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/01/17/multimedia/15jpMSG-BAN1-print-tlhc/15MSG-BAN-01-tlhc-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/01/16/technology/madison-square-garden-ban-lawyers.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/16/technology/madison-square-garden-ban-lawyers.amp.html",
-      "publishedDateTime": "2023-01-16T10:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-study-reveals-machine-learning-can-predict-brain-tumor-progression.md",
-      "title": "Study reveals machine learning can predict brain tumor progression",
-      "excerpt": "Researchers at the University of Waterloo have developed a computational model to better accurately anticipate the emergence of lethal brain tumours.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression",
-      "originalUrl": "https://www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/16_01_2023_17_49_51_9560931.jpg?width=1280",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression?amp",
-      "publishedDateTime": "2023-01-16T09:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo.md",
-      "title": "AI about to hit a level that could cause damage to humanity: DeepMind CEO",
-      "excerpt": "Google's DeepMind CEO Demis Hassabis has said AI is \"on the cusp\" of being able to make tools that could be damaging to humans. \"When it comes to very powerful technologies...we need to be careful,\" he said.",
-      "sourceUrl": null,
-      "webUrl": "https://inshorts.com/en/news/ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo-1673889761715",
-      "originalUrl": "https://inshorts.com/en/news/ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo-1673889761715",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/01_jan/16_mon/img_1673888098959_71.jpg?",
-          "width": 960,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inshorts.com/m/en/amp_news/ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo-1673889761715",
-      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo-1673889761715",
-      "publishedDateTime": "2023-01-16T09:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inshorts",
-        "domain": "inshorts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

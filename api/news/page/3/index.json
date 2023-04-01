@@ -2,6 +2,113 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-28-microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters.md",
+      "title": "Microsoft Security Copilot harnesses AI to give superpowers to cybersecurity fighters",
+      "excerpt": "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/25070a0ca82841cd88b3eb8f12b525d93af19696/2023/03/28/a5988217-ae81-4ae4-9aae-0416874b7761/gettyimages-1208358547.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters/",
+      "publishedDateTime": "2023-03-28T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-gpt-4-kicks-ai-security-risks-into-higher-gear.md",
+      "title": "GPT-4 kicks AI security risks into higher gear",
+      "excerpt": "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success ... And, Check Point Research was able to use ChatGPT to create a convincing spear-phishing attack. The company’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/security-risks-evolve-with-release-of-gpt-4/",
+      "originalUrl": "https://venturebeat.com/security/security-risks-evolve-with-release-of-gpt-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1368733427-luckystep.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/security-risks-evolve-with-release-of-gpt-4/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/security-risks-evolve-with-release-of-gpt-4/amp/",
+      "publishedDateTime": "2023-03-28T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-03-28-artificial-intelligence-without-context-is-artificial-uselessness.md",
       "title": "Artificial Intelligence, Without Context, Is Artificial Uselessness",
       "excerpt": "Without proper context, artificial intelligence usually turns out to be not so intelligent. In fact, it’s no better than the lower-level analytics that have been applied for years. That’s why context is extremely important, especially as machines ...",
@@ -343,6 +450,100 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-what-do-ai-art-generators-think-a-ceo-looks-like-most-of-the-time-a-white-guy.md",
+      "title": "What do AI art generators think a CEO looks like? Most of the time a white guy",
+      "excerpt": "A team of researchers from AI firm Hugging Face — one of whom is a former AI ethics researcher at Google — and a professor from Germany's Leipzig University published a study to identify how ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-art-generators-dalle-stable-diffusion-racial-gender-bias-ceo-2023-3",
+      "originalUrl": "https://www.businessinsider.com/ai-art-generators-dalle-stable-diffusion-racial-gender-bias-ceo-2023-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6421d4d0b50c290018641ec3?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-art-generators-dalle-stable-diffusion-racial-gender-bias-ceo-2023-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-art-generators-dalle-stable-diffusion-racial-gender-bias-ceo-2023-3?amp",
+      "publishedDateTime": "2023-03-28T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-apple-acquires-ai-driven-video-compression-startup-waveone.md",
+      "title": "Apple acquires AI-driven video compression startup WaveOne",
+      "excerpt": "Apple has quietly acquired WaveOne, a California-based startup that develops AI algorithms for video compression.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/technology/tech-news/apple-acquires-ai-driven-video-compression-startup-waveone-789998",
+      "originalUrl": "https://www.thehansindia.com/technology/tech-news/apple-acquires-ai-driven-video-compression-startup-waveone-789998",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2023/03/28/1343883-pp.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/apple-acquires-ai-driven-video-compression-startup-waveone-789998",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/apple-acquires-ai-driven-video-compression-startup-waveone-789998",
+      "publishedDateTime": "2023-03-28T03:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -749,7 +950,7 @@
       "originalUrl": "https://techcrunch.com/2023/03/28/covariants-ceo-on-building-ai-that-helps-robots-learn/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -895,7 +1096,7 @@
       "originalUrl": "https://www.businessinsider.com/openai-secret-weapon-ai-race-google-is-speed-2023-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -1031,180 +1232,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-uppercentile-spearheads-ai-ethics-charter-initiative-for-healthcare-seeks-input-from-the-industry.md",
-      "title": "Uppercentile Spearheads AI Ethics Charter Initiative for Healthcare, Seeks Input from the Industry",
-      "excerpt": "Mar 27, 2023 (Prodigy PressWire via COMTEX) -- Uppercentile, an emerging player in healthcare solutions, announces its initiative to develop a template AI Ethics Charter for hospitals and healthcare professionals, aimed at ensuring responsible ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/uppercentile-spearheads-ai-ethics-charter-initiative-for-healthcare-seeks-input-from-the-industry-2023-03-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/uppercentile-spearheads-ai-ethics-charter-initiative-for-healthcare-seeks-input-from-the-industry-2023-03-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-buy-nowpay-later-fintechs-lean-on-ai-to-survive-the-banking-crisis.md",
-      "title": "Buy now/pay later fintechs lean on AI to survive the banking crisis",
-      "excerpt": "The recent banking crisis adds even more pressure on buy now/pay later lenders, which are taking steps to better manage underwriting and credit decisions in the months ahead. Many lenders want to limit damage by using machine learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.americanbanker.com/payments/news/buy-now-pay-later-fintechs-lean-on-ai-to-survive-the-banking-crisis",
-      "originalUrl": "https://www.americanbanker.com/payments/news/buy-now-pay-later-fintechs-lean-on-ai-to-survive-the-banking-crisis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://arizent.brightspotcdn.com/dims4/default/76e0027/2147483647/strip/true/crop/3998x2099+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fee%2Fc1%2Fe042d3314172878007bc70e76645%2F366620409.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "American Banker",
-        "domain": "americanbanker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-ai-taking-flight-in-the-us-air-force.md",
-      "title": "AI Taking Flight in the U.S. Air Force",
-      "excerpt": "Tesla is already moving to a full self-driving mode, and Waymo is preparing for new driverless prototypes ... became the first military aircraft to fly with artificial intelligence as its copilot. The copilot is named ARTUµ, the algorithm behind the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ai-taking-flight-in-the-u.s.-air-force",
-      "originalUrl": "https://www.nasdaq.com/articles/ai-taking-flight-in-the-u.s.-air-force",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ai-taking-flight-in-the-u.s.-air-force?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-taking-flight-in-the-u.s.-air-force?amp",
-      "publishedDateTime": "2023-03-27T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-amazon-microsoft-and-googles-ai-armies-are-huge-yet-struggling-to-innovate.md",
-      "title": "Amazon, Microsoft and Google's AI armies are huge, yet struggling to innovate",
-      "excerpt": "New data show Amazon, Microsoft and Google have thousands of AI specialists, but they’re still playing catch-up to a tiny team at OpenAI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/amazon-microsoft-and-google-s-ai-armies-are-huge-yet-struggling-to-innovate-11679897432675.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/amazon-microsoft-and-google-s-ai-armies-are-huge-yet-struggling-to-innovate-11679897432675.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/03/27/600x338/ai_1655840015732_1679897559934_1679897559934.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/amazon-microsoft-and-google-s-ai-armies-are-huge-yet-struggling-to-innovate/amp-11679897432675.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/amazon-microsoft-and-google-s-ai-armies-are-huge-yet-struggling-to-innovate/amp-11679897432675.html",
-      "publishedDateTime": "2023-03-27T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

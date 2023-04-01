@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/apple-acquires
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/apple-acquires-ai-driven-video-compression-startup-waveone-789998"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: The Hans India
@@ -26,38 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple acquired a startup using AI to compress videos"
-    excerpt: "Apple has acquired a startup, WaveOne, that was developing tech to compress videos for more efficient streaming."
-    publishedDateTime: 2023-03-27T14:28:00Z
-    webUrl: "https://techcrunch.com/2023/03/27/apple-acquired-a-startup-using-ai-to-compress-videos/"
-    ampWebUrl: "https://techcrunch.com/2023/03/27/apple-acquired-a-startup-using-ai-to-compress-videos/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/27/apple-acquired-a-startup-using-ai-to-compress-videos/amp/"
-    type: article
-    provider:
-      name: YAHOO!Finance
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1227849474.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Apple acquires AI-powered video compression startup WaveOne"
-    excerpt: "WaveOne, a California-based startup that has been developing algorithms for compressing videos, has confirmed that it has been purchased by Apple. Founded in 2016, WaveOne sought to use machine learning for video compression. By employing artificial ..."
-    publishedDateTime: 2023-03-27T15:01:00Z
-    webUrl: "https://appleinsider.com/articles/23/03/27/apple-acquires-ai-powered-video-compression-startup-waveone"
-    ampWebUrl: "https://appleinsider.com/articles/23/03/27/apple-acquires-ai-powered-video-compression-startup-waveone/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/03/27/apple-acquires-ai-powered-video-compression-startup-waveone/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 57
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/45619-88794-Apple-Logo-Header-xl.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "WaveOne AI-powered video compression startup acquired by Apple"
     excerpt: "AI has been quite topical since the breakout success of ChatGPT last year, and many have wondered if and how the world’s biggest company would adapt similar technology. Now, Apple has acquired WaveOne, and AI-powered video compression software."
     publishedDateTime: 2023-03-27T22:19:00Z
@@ -112,20 +80,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/apple-3.jpg"
         width: 750
         height: 500
-        isCached: true
-  - title: "Apple Acquires WaveOne Startup Working on AI-Powered Video Compression"
-    excerpt: "Apple recently acquired WaveOne, a California-based startup that was developing AI algorithms for video compression, according to TechCrunch."
-    publishedDateTime: 2023-03-27T14:05:00Z
-    webUrl: "https://www.macrumors.com/2023/03/27/apple-reportedly-acquires-waveone/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 37
-    images:
-      - url: "https://images.macrumors.com/t/ihTXdqcXcQVGLfy75fYYMN0NB8c=/1600x/article-new/2023/03/WaveOne-Apple.jpeg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Apple quietly acquires AI-driven video compression startup WaveOne"
     excerpt: "Apple has quietly acquired WaveOne, a California-based startup that develops AI algorithms for video compression"

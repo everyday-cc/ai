@@ -23,17 +23,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Lords AI weapons committee holds first evidence session"
-    excerpt: "She added that arguments around AWS not being subject to rage ... “I wouldn’t limit it to weapons,” said Lubell. “Artificial intelligence can play a critical role in who or what ends up being targeted, even outside of a particular weapon.”"
-    publishedDateTime: 2023-03-27T14:01:00Z
-    webUrl: "https://www.computerweekly.com/news/365533962/Lords-AI-weapons-committee-holds-first-evidence-session"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 23
-
 secured: "y795APLhTb8oCHWcGfAn7zP2uuF4g3EqcRZ8IWbkjrDt3QDDl7ZAzZ3+NakaY6W76m+8jITDp5Sio7iUg41KDZgu1RQesBNHpmWfQoOLJ23fLWYqzcR75yMtRnmsmD4vj0QJRbGXpHv8LjmjQwQZJOHVhJavvrwU53EYw9zyogV8Umsv4aDHnuxO58M5FCjvDiobb5LCFtOnzskM4PL436sx5YBZFE7BSK8ntOnOlSX0HPMUVhQtKFpgm78U0NLz8DkDHr8er6uWkFVco1tZvFAL/dj9hMVxCF4Qf7/56CM2Nw1oNGeSfXr/Q+uvxToGcsrCSRxyqRuFocz5njqWaEGf2E2a4upkDM7bttPl3J/iIWm00vjBpc+/MbDvnoyvhZ/eVqRpi+cPbNd2LulMvLmitx2GeGxXkjQ+wxoQrqllJYrg1tDgdTA9SngR2a3EDwslxbYoLfJw3pm9sXuoQKpmkS4adfTBkigRUlUVgTuDROrutT3HwyHg4NOFA+aNC9q9jjNVcHCKyIpTmGWTlw==;XIRWuf6Okrz7QUXsNYUT2Q=="
 ---
 

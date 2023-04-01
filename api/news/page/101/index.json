@@ -2,6 +2,230 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2023-01-10-gbts-facial-and-body-recognition-patent-application-is-granted.md",
+      "title": "GBT's Facial and Body Recognition Patent Application is Granted",
+      "excerpt": "(\"GBT/Tokenize\") received their facial and body recognition patent, which was granted as of December 13, 2022 (Patent No. 11,527,104) issued by the U.S. Patent and Trademark Office (“USPTO”). The patent illustrates an innovative technology for learning,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/01/10/9740374.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/01/10/9740374.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T05:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-examples-of-natural-language-processing.md",
+      "title": "Examples of Natural Language Processing",
+      "excerpt": "Natural Language Processing will also improve with artificial intelligence and augmented analytics (NLP) development. While Artificial Intelligence (AI) and natural language processing (NLP) may conjure thoughts of robots of the future, NLP is already at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.themanufacturer.com/press-releases/examples-of-natural-language-processing/",
+      "originalUrl": "https://www.themanufacturer.com/press-releases/examples-of-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/01/04225930/AdobeStock_520920052.-NLP.jpg",
+          "width": 1100,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T05:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manufacturing",
+        "domain": "themanufacturer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-baidu-create-2022-outlines-new-strategy-for-ai-development-based-on-feedback-driven-innovation.md",
+      "title": "Baidu Create 2022 Outlines New Strategy for AI Development Based on Feedback-Driven Innovation",
+      "excerpt": "Major technology innovations powered by deep learning algorithms such as autonomous driving and intelligent ... further enrich Baidu AI Base, China's first full-stack self-researched AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-create-2022-outlines-new-strategy-for-ai-development-based-on-feedback-driven-innovation-1032009402",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-create-2022-outlines-new-strategy-for-ai-development-based-on-feedback-driven-innovation-1032009402",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1980663/image_5009157_44357444.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T05:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-google-docs-and-slides-step-up-their-voice-recognition-game.md",
+      "title": "Google Docs and Slides step up their voice recognition game",
+      "excerpt": "Read More. Voice typing tools reliant on speech-to-text algorithms have long been a convenient way to create larger text documents quickly, especially if you’re a slow typist, or you're seeking ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidpolice.com/google-docs-slides-better-voice-typing-live-captions/",
+      "originalUrl": "https://www.androidpolice.com/google-docs-slides-better-voice-typing-live-captions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/11/how-to-set-up-outline-in-Google-docs.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T05:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Police",
+        "domain": "androidpolice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-iran-says-face-recognition-will-id-women-breaking-hijab-laws.md",
+      "title": "Iran Says Face Recognition Will ID Women Breaking Hijab Laws",
+      "excerpt": "But Shajarizadeh, who fled to Canada in 2018 after three arrests for flouting hijab law, worries that women like the amusement park worker may now be targeted with face recognition algorithms as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/iran-says-face-recognition-will-id-women-breaking-hijab-laws/",
+      "originalUrl": "https://www.wired.com/story/iran-says-face-recognition-will-id-women-breaking-hijab-laws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63bcd6f571c6b526845f15bf/master/pass/JM_Iran_Women_Face_Recognition-Business.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/iran-says-face-recognition-will-id-women-breaking-hijab-laws/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/iran-says-face-recognition-will-id-women-breaking-hijab-laws/amp",
+      "publishedDateTime": "2023-01-10T05:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-10-baidu-said-to-be-slashing-jobs-trimming-bonuses-at-intelligent-driving-unit.md",
       "title": "Baidu said to be slashing jobs, trimming bonuses at intelligent driving unit",
       "excerpt": "Baidu is cutting jobs and cancelling bonuses for some employees in its autonomous driving unit as prospects for profits remain remote after years of investment, according to a report by a Chinese ...",
@@ -901,230 +1125,6 @@
         "AI in Finance",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-c3ai-bear-with-this-company-as-it-executes-a-turnaround.md",
-      "title": "C3.ai: Bear With This Company As It Executes A Turnaround",
-      "excerpt": "C3.ai has kicked off a business model transition to convert its contracts into consumption-based pricing and away from subscriptions. See why AI stock is a Buy.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4568926-c3ai-bear-company-executes-turnaround",
-      "originalUrl": "https://seekingalpha.com/article/4568926-c3ai-bear-company-executes-turnaround",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1219304976/image_1219304976.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T23:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-federal-regulators-investigating-elon-musks-full-self-driving-new-years-eve-tweet.md",
-      "title": "Federal Regulators Investigating Elon Musk's 'Full Self Driving' New Year's Eve Tweet",
-      "excerpt": "The NHTSA wants to know what Musk meant when he tweeted about disabling driver alerts on Tesla's \"Full Self Driving\" driver assist system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/business-news/fed-regulators-looking-at-musks-full-self-driving-tweet/442568",
-      "originalUrl": "https://www.entrepreneur.com/business-news/fed-regulators-looking-at-musks-full-self-driving-tweet/442568",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1673332382-GettyImages-492682174-tesla-fsd.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T23:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-deep-learning-expert-says-gpt-startups-may-be-in-for-a-very-rude-awakening.md",
-      "title": "Deep Learning Expert Says GPT Startups May Be in for a Very Rude Awakening",
-      "excerpt": "\"The current climate in AI has so many parallels to 2021 web3 it's making me uncomfortable,\" François Chollet, an influential deep learning researcher at Google and the creator of the deep ...",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/deep-learning-expert-gpt-startups-rude-awakening",
-      "originalUrl": "https://futurism.com/deep-learning-expert-gpt-startups-rude-awakening",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2023/01/deep-learning-expert-gpt-startups-rude-awakening.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T23:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-this-lawsuit-against-microsoft-could-change-the-future-of-ai.md",
-      "title": "This lawsuit against Microsoft could change the future of AI",
-      "excerpt": "With ChatGPT, artificial intelligence and what it can do is suddenly all the rage. But an intellectual property lawsuit against Microsoft could undermine the future of AI before it gets off the ground.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3684734/this-lawsuit-against-microsoft-could-change-the-future-of-ai.html",
-      "originalUrl": "https://www.computerworld.com/article/3684734/this-lawsuit-against-microsoft-could-change-the-future-of-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2015/09/lawsuit-judge-law-court-decision-sued-100614065-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 737,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3684734/this-lawsuit-against-microsoft-could-change-the-future-of-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3684734/this-lawsuit-against-microsoft-could-change-the-future-of-ai.amp.html",
-      "publishedDateTime": "2023-01-09T23:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-cognitive-systems-spending-market-comprehensive-shares-historical-trends-and-forecast-by-2026.md",
-      "title": "Cognitive Systems Spending Market Comprehensive Shares, Historical Trends And Forecast By 2026",
-      "excerpt": "The global cognitive systems spending market is experiencing numerous technological advancements permitted with exceptional features for several industries, especially in the banking sector. Cognitive systems with high-definition technology can help in determining the world’s most composite data analysis difficulties by entering into the complexity of exploiting the power of big data,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2023/01/10/cognitive-systems-spending-market-comprehensive-shares-historical-trends-and-forecast-by-2026/",
-      "originalUrl": "https://www.fmiblog.com/2023/01/10/cognitive-systems-spending-market-comprehensive-shares-historical-trends-and-forecast-by-2026/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fmiblog.com/wp-content/uploads/2023/01/Chemistry-4.0-Market-420x300.jpg",
-          "width": 420,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T22:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],
