@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/31/nvidia-rides-the-generative-ai-wave-at-gtc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": 223,
       "tags": null,
       "images": [
         {
@@ -56,6 +56,59 @@
       ]
     },
     {
+      "path": "_news/2023-03-30-the-explosive-ai-trend-is-here-to-stay-these-stocks-are-poised-to-benefit.md",
+      "title": "The ‘explosive’ AI trend is here to stay. These stocks are poised to benefit.",
+      "excerpt": "The rise to prominence of ChatGPT has made artificial intelligence one of the key themes for companies in 2023, and numerous players are set to reap its benefits during the coming months. “Unlike many other innovative technologies that have relatively ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/the-explosive-ai-trend-is-here-to-stay-these-stocks-are-poised-to-benefit-82aed67d",
+      "originalUrl": "https://www.marketwatch.com/story/the-explosive-ai-trend-is-here-to-stay-these-stocks-are-poised-to-benefit-82aed67d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-753735/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/the-explosive-ai-trend-is-here-to-stay-these-stocks-are-poised-to-benefit-82aed67d",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/the-explosive-ai-trend-is-here-to-stay-these-stocks-are-poised-to-benefit-82aed67d",
+      "publishedDateTime": "2023-03-30T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-03-30-whats-new-in-azure-data-ai-azure-is-built-for-generative-ai-apps.md",
       "title": "What’s new in Azure Data & AI: Azure is built for generative AI apps",
       "excerpt": "OpenAI launched ChatGPT in December 2022, immediately inspiring people and companies to pioneer novel use cases for large language models. It’s no wonder that ChatGPT reached 1 million users within a week of launch and 100 million users within two months, making it the fastest-growing consumer application",
@@ -64,7 +117,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/what-s-new-in-azure-data-and-ai-azure-is-built-for-generative-ai-apps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -195,58 +248,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-29-xoriant-x-celerate-insights-analytics-solution-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Xoriant X-CELERATE Insights Analytics Solution Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Xoriant X-CELERATE Insights Analytics Solution Now Available in the Microsoft Azure Marketplace Mar (PRNewswire via COMTEX) -- PR",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/xoriant-x-celerate-insights-analytics-solution-now-available-in-the-microsoft-azure-marketplace-2023-03-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/xoriant-x-celerate-insights-analytics-solution-now-available-in-the-microsoft-azure-marketplace-2023-03-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-29T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-28-microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters.md",
       "title": "Microsoft Security Copilot harnesses AI to give superpowers to cybersecurity fighters",
       "excerpt": "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ...",
@@ -255,7 +256,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -1285,33 +1286,24 @@
     {
       "path": "_news/2023-03-22-microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more.md",
       "title": "Microsoft unveils plans to use AI feature in Outlook, Excel and more",
-      "excerpt": "Microsoft announced it would also use an AI large language model in its Microsoft 365 products. Here are the best ones on the market.",
+      "excerpt": "On the other hand, AI critics worry it will bring more harm ... and perform a wide range of language-related tasks such as language translation, text summarization [and] sentiment analysis.”",
       "sourceUrl": null,
-      "webUrl": "https://www.wtnh.com/reviews/br/electronics-br/computer-components-br/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/",
-      "originalUrl": "https://www.wtnh.com/reviews/br/electronics-br/computer-components-br/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/",
+      "webUrl": "https://www.koin.com/reviews/br/electronics-br/computer-components-br/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/",
+      "originalUrl": "https://www.koin.com/reviews/br/electronics-br/computer-components-br/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.wtnh.com/wp-content/uploads/sites/100/2023/03/computer-software-best-microsoft-365-products-2.jpg?w=1280",
-          "width": 760,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wtnh.com/reviews/br/electronics-br/computer-components-br/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/",
-      "cdnAmpWebUrl": "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/reviews/br/electronics-br/computer-components-br/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/",
-      "publishedDateTime": "2023-03-22T06:23:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T06:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WTNH",
-        "domain": "wtnh.com",
+        "name": "KOIN 6",
+        "domain": "koin.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,59 @@
   "page": 138,
   "value": [
     {
+      "path": "_news/2022-12-06-aws-names-6-key-trends-driving-machine-learning-innovation-and-adoption.md",
+      "title": "AWS names 6 key trends driving machine learning innovation and adoption",
+      "excerpt": "From data growth and democratization to industrialization and responsible AI, AWS identified 6 key drivers of machine learning adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/aws-names-6-key-trends-driving-machine-learning-innovation-and-adoption/",
+      "originalUrl": "https://venturebeat.com/ai/aws-names-6-key-trends-driving-machine-learning-innovation-and-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/12/aws.png?w=1200&strip=all",
+          "width": 891,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/aws-names-6-key-trends-driving-machine-learning-innovation-and-adoption/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/aws-names-6-key-trends-driving-machine-learning-innovation-and-adoption/amp/",
+      "publishedDateTime": "2022-12-05T08:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-the-best-gpu-benchmarking-software.md",
       "title": "The best GPU benchmarking software",
       "excerpt": "Here are some of the best GPU benchmarking applications you can use today. 3DMark is a 3D rendering benchmarking app developed by UL (after it acquired the original developer, Futuremark).",

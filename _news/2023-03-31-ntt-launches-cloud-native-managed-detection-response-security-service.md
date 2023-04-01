@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Turing Launches New Tech Consulting & Services Model Powered by AI"
-    excerpt: "PALO ALTO, CA /  / March 27, 2023 / Turing, an AI-powered technology company, today announced the official launch of Turing Services, a modern-age tech consulting and services model that combines the unmatched speed and deep vetting quality of the company's Intelligent Talent Cloud with its U."
-    publishedDateTime: 2023-03-27T21:56:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273676983/turing-launches-new-tech-consulting--services-model-powered-by-ai"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 37
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1679889590085.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "NTT Launches Scalable, Cloud-Native Managed Detection and Response Security Service"
     excerpt: "Using analytics, machine learning, and threat intelligence, the service hunts for suspicious activities and ... directly impacting an organization’s operational, financial, and resource resilience,” he added. “Our research indicates that IT security ..."
     publishedDateTime: 2023-03-28T12:25:00Z

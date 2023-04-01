@@ -30,7 +30,7 @@ related:
   - title: "The problem with artificial intelligence? It’s neither artificial nor intelligent"
     excerpt: "Let’s retire this hackneyed term: while ChatGPT is good at pattern-matching, the human mind does so much more writes Evgeny Morozov"
     publishedDateTime: 2023-03-30T16:34:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/mar/30/artificial-intelligence-chatgpt-human-mind"
+    webUrl: "https://www.theguardian.com/commentisfree/2023/mar/30/artificial-intelligence-chatgpt-human-mind?trk=public_post_comment-text"
     ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/mar/30/artificial-intelligence-chatgpt-human-mind"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/mar/30/artificial-intelligence-chatgpt-human-mind"
     type: article

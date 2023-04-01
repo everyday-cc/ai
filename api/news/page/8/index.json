@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-03-23-for-smarter-robots-just-add-humans.md",
+      "title": "For Smarter Robots, Just Add Humans",
+      "excerpt": "OpenAI’s COO and manager of the OpenAI Startup Fund says. For humans to help robots with teleoperation, AI might also need to be developed to ease the collaboration between person and machine. Chelsea Finn, an assistant professor at UC Berkeley ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/fast-forward-for-smarter-robots-just-add-humans/",
+      "originalUrl": "https://www.wired.com/story/fast-forward-for-smarter-robots-just-add-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/641b9a323491f4dd17124cb5/master/pass/Sanctuary-AI-Robot-Still-Fast-Foward-Business.jpg",
+          "width": 2143,
+          "height": 1210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/fast-forward-for-smarter-robots-just-add-humans/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/fast-forward-for-smarter-robots-just-add-humans/amp",
+      "publishedDateTime": "2023-03-23T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-23-google-opens-early-access-to-bard-ai-prompts-small-bump-in-stock-price.md",
       "title": "Google Opens Early Access To Bard AI, Prompts Small Bump In Stock Price",
       "excerpt": "Adobe broke the news this week at its Adobe Summit that its new generative AI image suite, Adobe Firefly, will be coming to its apps like Photoshop and Illustrator soon - and the waitlist to try it out is already open. Adobe is partnering with chip ...",
@@ -1174,58 +1226,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-southeast-asian-credit-fintech-kredivo-scores-270m-series-d.md",
-      "title": "Southeast Asian credit fintech Kredivo scores $270M Series D",
-      "excerpt": "Kredivo’s direct and indirect competitors include Akulaku’s BNPL and Bank Neo Commerce (the fintech also recently raised significant funding from a large Japanese bank), Advance.ai’s Atome BNPL service and Kredit Pintar cash loans and Sea Group’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/22/kredivo-series-d/",
-      "originalUrl": "https://techcrunch.com/2023/03/22/kredivo-series-d/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1401979872.jpg?resize=1200,801",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/22/kredivo-series-d/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/kredivo-series-d/amp/",
-      "publishedDateTime": "2023-03-22T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

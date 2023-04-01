@@ -1,24 +1,29 @@
 ---
 category: news
 title: "WiMi Develops Deep Learning-Based 3D Target Recognition Algorithm System"
-excerpt: "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced the development of a 3D target recognition algorithm system based on deep learning."
-publishedDateTime: 2023-03-31T13:59:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/wimi-develops-deep-learning-based-3d-target-recognition-algorithm-system-1032206780"
-webUrl: "https://markets.businessinsider.com/news/stocks/wimi-develops-deep-learning-based-3d-target-recognition-algorithm-system-1032206780"
+excerpt: "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology"
+publishedDateTime: 2023-03-31T12:00:00Z
+originalUrl: "https://www.asiaone.com/business/wimi-develops-deep-learning-based-3d-target-recognition-algorithm-system"
+webUrl: "https://www.asiaone.com/business/wimi-develops-deep-learning-based-3d-target-recognition-algorithm-system"
 type: article
+quality: 38
+heat: 38
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "l2PJZZd7LK31WjF+CYAsdmL7PvJDWV2IadG+mMi00gth3Q1D5/oK/A1hrH+wtrsGWPX/WFpNAHltW4u99XadCrIUKsNYC+LwThNX0harGYpPtNWe8jvr6W2bxRe/ZJ3SRNWvlDoxcZHgfzSPQiXP8bNg7YVl057jsoV/cdRQJcjyBYjK99SHCmMBsUGi+FuSqAKwGYycwmakErx367QBUz3ARylbZ44IqFfeBfBP99O7B3hsBBeOG8/gJGYmsazFmOxvshv6QXviCT1psjIcv1I0JGfpWKA3AE9nTWJXAziuIhvQ6uQadWFV6Jt/GbrrM1TE6HN3DOR8vzV/9lCNZx6YVsHwKQA/c0hEXNdw+1A=;NiOgICP2Fx7b/PcE+1eY4A=="
+images:
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2023/pr-newswire_500_4_2027.jpg?h=7de12b8a&itok=YGVwsZ-_"
+    width: 600
+    height: 316
+    isCached: true
+
+secured: "oybZhsgfvbDrk9xGoPKVb8SSjsxJF4nkYL+3w/REdA868WZP9Mf/UKjAw7hoMeIF+IsYbyM5Za0aeqwUhRltLOcJvSg5iOjXYown7BIGHxH++6pBH+9lBnDsaSX5yM54YIX374/LlbJfI/FCJXyi+siIheib9J1DtFvWRfZ+g+9KbNAGMBHGgAqfyfOw+MW78y4LubQL1K8GcvNTNie2+KVQqyYvEOX+Lt+on9c0SSpDw+YEyt6iDMwZywmNKxMgCSSnfaRqYlp//D8kkcZeqBElDZgQ+/V5A9YCJDil+6AfdqoH7ImHJIObQaRFYdfe6ORrmxVutaawIKzvFTXLDIOFJ9gQX/+Snkj+SPQk0cM=;wZ8apJmhnuIi5CLcOhkldQ=="
 ---
 

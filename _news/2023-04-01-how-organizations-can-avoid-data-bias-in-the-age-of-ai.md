@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-01T13:00:00Z
 originalUrl: "https://insidebigdata.com/2023/04/01/how-organizations-can-avoid-data-bias-in-the-age-of-ai/"
 webUrl: "https://insidebigdata.com/2023/04/01/how-organizations-can-avoid-data-bias-in-the-age-of-ai/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: insidebigdata.com

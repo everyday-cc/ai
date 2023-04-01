@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Bill Gates says AI will revolutionize healthcare like the internet, mobile phones"
-    excerpt: "Bill Gates says artificial intelligence will change the way people get healthcare as much as the internet and mobile phones have and could make health more equitable around the globe. \"For one thing, [AIs will] help healthcare workers make the most of ..."
-    publishedDateTime: 2023-03-27T22:01:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/bill-gates-says-ai-will-revolutionize-healthcare-like-the-internet-mobile-phones.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 49
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Bill Gates Says Self-Driving Cars Will Change Transportation Like PCs Transformed Work: 'Close To Tipping Point'"
     excerpt: "Autonomous vehicles (AV) will change transportation like the way personal computers changed office work, Bill Gates wrote in his blog. Gates wrote that he believes autonomous vehicles will reach a tipping point within the next decade. “Right now, we're ..."
     publishedDateTime: 2023-03-31T12:52:00Z
@@ -65,6 +51,15 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
+    quality: 0
+  - title: "'I’ve always been a car guy.' Bill Gates takes a ride on London roads in a self-driving car"
+    excerpt: "Agencies Bill Gates stepped out to get some fish and chips in downtown London. Billionaire Bill Gates, last week, spent some time testing an autonomous vehicle (AV) on the busy streets of London. The self-driving car was made by tech start-up Wayve,"
+    publishedDateTime: 2023-04-01T13:20:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/ive-always-been-a-car-guy-bill-gates-takes-a-ride-on-london-roads-in-a-self-driving-car/articleshow/99172316.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
     quality: 0
 
 secured: "a2lJQvU3TpNY8Ibpq7VLmezvXJ49riblkRakRgML7rRr1+oi6MYkR3wGSjQt0WhSZN+Psz5fkcBKSJHpsyH7RdXEwwei8PFta9HsAsLX4fDnpOFyPyTKg2mcx5MI5WIS5HnM0fU4ILCVvFSWSmz5ab/xEuohjpVv/NxsyHTHcwhRelkx7zWLB8RVx7PYHTorbEbVSNf/Xr40e/NDkZoAThDP/1DEhklV2R9dgFhWiO8k/4WyHPKB4mEPHSamHs3WzLvYYX4lOVwyB6qXL3oKThFXYEVv9NJqClkicCG+eggFbC9AdQ+qtacRBn5Kms78qAJznLmbYzkfJFnXUZUTAtjox5k7IW7LYRJF//v7RC86LXIaiBFaj8XvCGgBf9/7dhIhhj3NL/V+Wk0xkss0EpDzelHJkMsZKIbrr76UHd3mELpmEpDtc1NXJRHdjMXCl0O/toFHzvpnvBbGDK2CjBFoEo8t9WMWzyfptbqqTQiytMxq3rMUR69M+t1hd78fFUOcbDcj8U37QPXtBGXCQA==;Q1Rd2IWs+EnXUqX3YZ9xcw=="

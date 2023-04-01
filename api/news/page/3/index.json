@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-28-a-shared-agenda-for-responsible-ai-progress.md",
+      "title": "A shared agenda for responsible AI progress",
+      "excerpt": "AI can be hugely beneficial to society if citizens, educators, academics, civil society and governments unite to shape it responsibly.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/a-shared-agenda-for-responsible-ai-progress/",
+      "originalUrl": "https://blog.google/technology/ai/a-shared-agenda-for-responsible-ai-progress/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Copy_of_Kent_Walker_Keyword_AI_final.width-1300.png",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-28T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-28-best-spring-cleaning-robot-vacuum-deals.md",
       "title": "Best spring cleaning robot vacuum deals",
       "excerpt": "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ...",
@@ -54,7 +106,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -213,7 +265,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-solutions-for-healthcare-market-2023-2028-future-updates-2023-03-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 466,
+      "heat": 426,
       "tags": null,
       "images": [
         {
@@ -422,7 +474,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/03/generative-ai-set-to-affect-300-million-jobs-across-major-economies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -516,7 +568,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-outlook-and-forecast-to-2030-with-top-countries-data-2023-03-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -812,7 +864,7 @@
       "originalUrl": "https://www.thehansindia.com/technology/tech-news/apple-acquires-ai-driven-video-compression-startup-waveone-789998",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -957,7 +1009,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-share-business-till-2030-2023-03-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1203,49 +1255,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-public-health-ai-and-ethics.md",
-      "title": "Public health, AI and ethics",
-      "excerpt": "First, we must note that medical ethics in the country are far from where they ought ... In this environment, a potent new tool needs to be handled with great care. Increased reliance on AI for diagnosis may sound cool to many, but the system is far ...",
-      "sourceUrl": null,
-      "webUrl": "https://tribune.com.pk/story/2408472/public-health-ai-and-ethics",
-      "originalUrl": "https://tribune.com.pk/story/2408472/public-health-ai-and-ethics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.tribune.com.pk/media/images/1078711-MuhammadHamidZamanNew-1459790290/1078711-MuhammadHamidZamanNew-1459790290.JPG",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tribune.com.pk/story/2408472/public-health-ai-and-ethics?amp=1",
-      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2408472/public-health-ai-and-ethics?amp=1",
-      "publishedDateTime": "2023-03-27T20:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Express Tribune",
-        "domain": "tribune.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

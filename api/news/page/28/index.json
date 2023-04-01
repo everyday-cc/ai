@@ -2,6 +2,49 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2023-03-09-3-high-growth-stocks-in-the-artificial-intelligence-industry.md",
+      "title": "3 High-Growth Stocks in the Artificial Intelligence Industry",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is a multitrillion-dollar opportunity in the making.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-high-growth-stocks-in-the-artificial-intelligence-industry-1032154823",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-high-growth-stocks-in-the-artificial-intelligence-industry-1032154823",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T13:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-09-aiberry-secures-8m-in-seed-funding-to-accelerate-ai-powered-mental-health-screenings.md",
       "title": "Aiberry Secures $8M in Seed Funding to Accelerate AI-Powered Mental Health Screenings",
       "excerpt": "Press Release Artificial intelligence (AI)-powered mental health screening pioneer Aiberry (pronounced \"I\" + \"berry\") today announced that it has secured $8 million in seed funding led by Confluence Capital Group,",
@@ -1092,59 +1135,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-08-automated-machine-learning-automl-market-to-grow-exponentially-due-to-rising-demand.md",
-      "title": "Automated Machine Learning (AutoML) Market to Grow Exponentially Due to Rising Demand",
-      "excerpt": "The \"Automated Machine Learning (AutoML) Market\" study describes how the technology industry is evolving and how major",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-to-grow-exponentially-due-to-rising-demand-2023-03-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-to-grow-exponentially-due-to-rising-demand-2023-03-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-07T15:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

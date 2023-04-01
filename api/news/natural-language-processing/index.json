@@ -107,7 +107,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-share-business-till-2030-2023-03-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -618,33 +618,24 @@
     {
       "path": "_news/2023-03-22-microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more.md",
       "title": "Microsoft unveils plans to use AI feature in Outlook, Excel and more",
-      "excerpt": "Microsoft announced it would also use an AI large language model in its Microsoft 365 products. Here are the best ones on the market.",
+      "excerpt": "On the other hand, AI critics worry it will bring more harm ... and perform a wide range of language-related tasks such as language translation, text summarization [and] sentiment analysis.”",
       "sourceUrl": null,
-      "webUrl": "https://www.wtnh.com/reviews/br/electronics-br/computer-components-br/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/",
-      "originalUrl": "https://www.wtnh.com/reviews/br/electronics-br/computer-components-br/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/",
+      "webUrl": "https://www.koin.com/reviews/br/electronics-br/computer-components-br/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/",
+      "originalUrl": "https://www.koin.com/reviews/br/electronics-br/computer-components-br/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.wtnh.com/wp-content/uploads/sites/100/2023/03/computer-software-best-microsoft-365-products-2.jpg?w=1280",
-          "width": 760,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wtnh.com/reviews/br/electronics-br/computer-components-br/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/",
-      "cdnAmpWebUrl": "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/reviews/br/electronics-br/computer-components-br/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/",
-      "publishedDateTime": "2023-03-22T06:23:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T06:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WTNH",
-        "domain": "wtnh.com",
+        "name": "KOIN 6",
+        "domain": "koin.com",
         "images": null,
         "publishers": null,
         "authors": null

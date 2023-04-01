@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "GPU Database Market Outlook and Forecast till 2030"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- The \"GPU Database Market\" study describes how the technology industry is evolving and how major and emerging players in the industry are ..."
-    publishedDateTime: 2023-03-27T20:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gpu-database-market-outlook-and-forecast-till-2030-2023-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2023, A Research Report on the Computer Vision Market With Statistics and Forecasts"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2023 (The Expresswire) -- Computer Vision Market Size 2023 | New Report (99 Pages) | Information Technology | In This Reports Computer Vision Market Top Computer ..."
     publishedDateTime: 2023-03-28T07:34:00Z

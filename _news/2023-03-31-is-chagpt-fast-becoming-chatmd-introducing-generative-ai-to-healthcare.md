@@ -39,21 +39,21 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "5 ways OpenAI’s ChatGPT plugins could change the AI game | The AI Beat"
-    excerpt: "While the rest of the world went about its business, I noodled about the implications of OpenAI’s latest ChatGPT chess move. You’ve likely heard by now that OpenAI unveiled plugins that link its conversational AI ChatGPT to the real world."
-    publishedDateTime: 2023-03-27T19:22:00Z
-    webUrl: "https://venturebeat.com/ai/5-ways-openais-chatgpt-plugins-could-change-the-ai-game-the-ai-beat/"
-    ampWebUrl: "https://venturebeat.com/ai/5-ways-openais-chatgpt-plugins-could-change-the-ai-game-the-ai-beat/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/5-ways-openais-chatgpt-plugins-could-change-the-ai-game-the-ai-beat/amp/"
+  - title: "AI chatbot frenzy: Everything everywhere (all at once)"
+    excerpt: "This is not another AI winter. Why generative AI and AI chatbots will change everything and evolve to artificial general intelligence."
+    publishedDateTime: 2023-04-01T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/ai-chatbot-frenzy-everything-everywhere-all-at-once/"
+    ampWebUrl: "https://venturebeat.com/ai/ai-chatbot-frenzy-everything-everywhere-all-at-once/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-chatbot-frenzy-everything-everywhere-all-at-once/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-30.png?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_chatbots_and_AI_everywhere_all_at_once_-_tech_colorful_e_beb92de9-8091-4437-9e29-d568ea8d4b74.png?w=1200&strip=all"
         width: 1200
-        height: 750
+        height: 600
         isCached: true
   - title: "York student uses AI chatbot to get parking fine revoked"
     excerpt: "Millie Houlton said she did not have the time to think about crafting her own response so turned to the chatbot A student has successfully appealed against a £60 parking fine by using a letter written by an artificial intelligence chatbot."
@@ -133,34 +133,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Creators Shouldn't Overlook These Powerful Uses for AI Like ChatGPT"
-    excerpt: "Artificial intelligence is all the creator economy seems to be talking ... meaningful outcomes than clicks and views could undo decades of progress in corporate ethics and responsibility. In the past, business leaders were considered solely responsible ..."
-    publishedDateTime: 2023-03-27T20:08:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/how-creators-can-harness-the-power-of-ai-like-everyone-else/446730"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1679674530-GettyImages-1248338284-1.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Nine AI Chatbots You Can Play With Right Now"
-    excerpt: "“As an AI language model, I don’t have the physical characteristics ... vanilla creme filling with a touch of extra brain power in the form of chocolate chips or another ingredient that represents knowledge and intelligence.” Fun!"
-    publishedDateTime: 2023-03-27T21:56:00Z
-    webUrl: "https://www.theatlantic.com/technology/archive/2023/03/chatgpt-generative-ai-chatbots-bing-google-bard/673533/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 69
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/Z3BPrDp4DkR14Qofe0L19FO_inQ=/0x41:1917x1039/1200x625/media/img/mt/2023/03/AI_Chatbot_still/original.jpg"
-        width: 1200
-        height: 625
-        isCached: true
   - title: "Can ChatGPT Change the Face of Healthcare?"
     excerpt: "regulations must be put in place to ensure no inaccuracies are made Many are still reluctant about the role of artificial intelligence (AI) in our lives, but it might be time to accept that AI has the power to transform healthcare. Obviously, AI can't ..."
     publishedDateTime: 2023-03-28T11:37:00Z
@@ -239,15 +211,6 @@ related:
         width: 1200
         height: 625
         isCached: true
-  - title: "Retro Chatbot: ChatGPT comes to MS-DOS with new AI client"
-    excerpt: "In this case, he turned his attention to MS-DOS, a text-only operating system first released in 1981, and ChatGPT, an AI-powered large language model (LLM ... proxy that can run on a modern computer and translate the requests and responses between the ..."
-    publishedDateTime: 2023-03-27T19:41:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/03/retro-chatbot-chatgpt-comes-to-ms-dos-with-new-ai-client/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 49
   - title: "Big Purple Dot integrates ChatGPT into CRM"
     excerpt: "Big Purple Dot, a real estate marketing platform, moved to integrate ChatGPT into its customer relationship management ecosystem. The Irvine, California- based company is one of the first technology firms in the mortgage space to do so."
     publishedDateTime: 2023-03-30T21:27:00Z
@@ -298,6 +261,29 @@ related:
       name: Boston.com
       domain: boston.com
     quality: 34
+  - title: "ChatGPT-5 rumored to launch at the end of 2023, will it achieve AGI?"
+    excerpt: "OpenAI could achieve Artificial General Intelligence with GPT-5, the upcoming Large Language Model expected to be released by the end of 2023."
+    publishedDateTime: 2023-04-01T12:00:00Z
+    webUrl: "https://www.gizmochina.com/2023/04/01/gpt-5-rumored-launch-date-2023/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 34
+  - title: "Understanding AI Risk: I Promise This Article Wasn’t Written by ChatGPT (Yet)"
+    excerpt: "There is an emerging policy imperative for governments to mitigate AI risk but that has generally come on the back of the belief that this is still an emerging technology as opposed to a reality where steps need to be taken now to address future risks."
+    publishedDateTime: 2023-04-01T15:38:00Z
+    webUrl: "https://www.hstoday.us/featured/understanding-ai-risk-i-promise-this-article-wasnt-written-by-chatgpt-yet/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 34
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2023/04/computer-7718730_1280.jpg"
+        width: 1280
+        height: 783
+        isCached: true
   - title: "Chappaqua School District Tackles Thorny Issues Of ChatGPT, AI And Machine Learning"
     excerpt: "Faculty learned about artificial intelligence and machine learning and explored the impact on education, instruction and students."
     publishedDateTime: 2023-03-30T18:35:00Z
@@ -348,6 +334,15 @@ related:
       name: BBC
       domain: bbc.co.uk
     quality: 17
+  - title: "This AI training bundle will get you up-to-date with ChatGPT for only $19.97"
+    excerpt: "ChatGPT, a new AI chatbot tool that has been developed by OpenAI that assists and offers various impressive features (such as doing research, answering questions, and generating content within seconds),"
+    publishedDateTime: 2023-04-01T13:00:00Z
+    webUrl: "https://www.popsci.com/sponsored-content/chat-gpt-training-deal/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 14
 
 secured: "ZaFohXqw+xX2zsRxLyJc4mEK+xX1GETXUDBKhD6O15GxfzP1Qt1CDeHLBW6qH9fM04WT76Z87WKgo6J0t2QGCYz0qerweCUJQGNfZu+CuQGiOmv9/1f7ivl/qYV8tOgOBufZXs1MwftxxKSWbsAdClmu4qsntgQkXn3nvxswfE9LSd4xAJHwnHKjZ87u4sFvBu4KWOWQJQ8m6bP/3HWTLawgLyxCoOcDT13Sk1rwRPFJi7B4KObsgkWsfczw/m1/vBi5w1pokGNC/KLTnYZx4vilb0Fhm4pXkqK9xZ8M3vco9DBA/dXCTTXKt+XlzhmGb933yTCH37C5PwU0BiNsuw5kzj33m/AoHl0Yi8vT5ilTG9QiAUUc8TZT4gJsfJObo3KG/U5V6nFhLHbhd7+xOl1BuJnaNVnTD8msXp6owK8PtBJeqd7hC+mTKkSQvw+duiAw3ZrTJghpdpnGEtWb+Odyh/MzYZzxdIFkjnjOen5NNM+Lb62VAZzK3BeIMf3WUDeWD4avW/CTKMYJEUhJ+A==;GvbJZ8+ME+tKK6bciiIUJw=="
 ---

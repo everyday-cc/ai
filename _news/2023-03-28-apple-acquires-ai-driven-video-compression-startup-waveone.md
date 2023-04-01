@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/apple-acquires
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/apple-acquires-ai-driven-video-compression-startup-waveone-789998"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "WaveOne AI-powered video compression startup acquired by Apple"
-    excerpt: "AI has been quite topical since the breakout success of ChatGPT last year, and many have wondered if and how the world’s biggest company would adapt similar technology. Now, Apple has acquired WaveOne, and AI-powered video compression software."
-    publishedDateTime: 2023-03-27T22:19:00Z
-    webUrl: "https://www.shacknews.com/article/134797/waveone-ai-acquired-by-apple"
-    ampWebUrl: "https://www.shacknews.com/article/134797/waveone-ai-acquired-by-apple?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134797/waveone-ai-acquired-by-apple?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 57
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/27/waveone-logo_feature.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Apple acquires content-aware AI video compression startup"
     excerpt: "Apple acquired a startup specializing in AI-based video compression earlier this year, it has emerged, but it isn’t yet clear how the company plans to use the technology. As is generally the case when Apple makes an acquisition, there has been no ..."
     publishedDateTime: 2023-03-28T13:39:00Z

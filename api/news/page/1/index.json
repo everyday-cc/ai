@@ -97,6 +97,57 @@
       ]
     },
     {
+      "path": "_news/2023-04-01-why-the-ai-economy-might-be-better-for-everyone.md",
+      "title": "Why the AI Economy Might Be Better for Everyone",
+      "excerpt": "Navigating this world of rapid change and instability poses huge challenges for businesses, policymakers and investors. That’s why, on April 19-20, we’re convening the Bloomberg New Economy Gateway Europe in Dublin (click here for details).",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-04-01/why-the-ai-economy-might-be-better-for-everyone-new-economy-saturday",
+      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-04-01/why-the-ai-economy-might-be-better-for-everyone-new-economy-saturday",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVi0FiL.JxaU/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-01T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-01-artificial-intelligence-is-teaching-us-new-surprising-things-about-the-human-mind.md",
       "title": "Artificial Intelligence Is Teaching Us New, Surprising Things About the Human Mind",
       "excerpt": "The world has been learning an awful lot about artificial intelligence lately, thanks to the arrival of eerily human-like chatbots. Less noticed, but just as important: Researchers are learning a great deal about us – with the help of AI.",
@@ -157,7 +208,7 @@
       "originalUrl": "https://www.engadget.com/waymo-brings-its-fleet-of-new-self-driving-suvs-to-austin-165720284.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -364,7 +415,7 @@
       "originalUrl": "https://www.zdnet.com/article/chatgpts-intelligence-is-zero/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -511,7 +562,7 @@
       "originalUrl": "https://www.infoworld.com/article/3691792/the-ai-tax-on-ai-enabled-applications-in-the-cloud.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -562,7 +613,7 @@
       "originalUrl": "https://www.businessinsider.com/bill-gates-ai-self-driving-cars-as-revolutionary-as-pc-2023-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -771,7 +822,7 @@
       "originalUrl": "https://electrek.co/2023/03/31/self-driving-ev-charging-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -824,7 +875,7 @@
       "originalUrl": "https://nypost.com/2023/03/31/why-we-need-to-pause-ai-research-consider-the-real-dangers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1111,7 +1162,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/31/nvidia-rides-the-generative-ai-wave-at-gtc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": 223,
       "tags": null,
       "images": [
         {
@@ -1206,57 +1257,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-the-view-co-host-sara-haines-warns-everyone-should-be-scared-about-artificial-intelligence.md",
-      "title": "'The View' co-host Sara Haines warns 'everyone should be scared' about artificial intelligence",
-      "excerpt": "\"The View\" co-host Sara Haines warned Thursday that \"everyone should be scared\" about artificial intelligence if the experts are calling on AI labs to pause development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/video/6323663548112",
-      "originalUrl": "https://www.foxnews.com/video/6323663548112",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06f6fa0b-bb1e-4a1e-bc72-2e2af8923d78/03ffc95f-d99a-4059-be18-faa7be888bca/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-30T15:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

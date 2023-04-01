@@ -2,6 +2,49 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2023-03-14-25-best-christmas-movies-on-amazon-prime-to-start-watching-now.md",
+      "title": "25 Best Christmas Movies on Amazon Prime to Start Watching Now",
+      "excerpt": "Amazon really does have everything! Chances are, you’re doing a whole lot of your holiday shopping on Amazon this year. But in between buying the perfect presents for everyone on your list, why ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.rd.com/list/christmas-movies-amazon-prime/",
+      "originalUrl": "https://www.rd.com/list/christmas-movies-amazon-prime/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rd.com/wp-content/uploads/2021/09/amazon-holiday-movies-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reader's Digest",
+        "domain": "rd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-14-neural-networks-youve-got-it-so-easy.md",
       "title": "Neural Networks: You’ve Got It So Easy",
       "excerpt": "And so it was Scientific American magazine’s September 1992 special issue on Mind and Brain that introduced me to neural networks, both the biological and artificial kinds. Back then you had the ...",
@@ -1133,59 +1176,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.md",
-      "title": "ChatGPT and Generative AI are booming, but at a very expensive price",
-      "excerpt": "It can cost millions of dollars to train and operate generative AI technologies like ChatGPT, which are being subsidized by tech companies and VCs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
-      "originalUrl": "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 421,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107191457-1675888570906-gettyimages-1246870629-AFP_338Q79Q.jpeg?v=1678712289",
-          "width": 3600,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
-      "publishedDateTime": "2023-03-13T03:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

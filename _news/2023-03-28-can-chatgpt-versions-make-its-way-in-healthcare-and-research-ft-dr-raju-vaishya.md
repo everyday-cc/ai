@@ -9,7 +9,7 @@ ampWebUrl: "https://medicaldialogues.in/amp/mdtv/medicine/videos/can-chatgpt-ver
 cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/mdtv/medicine/videos/can-chatgpt-versions-make-its-way-in-healthcare-and-research-ft-dr-raju-vaishya-109087"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Exploring potential applications for ChatGPT in nuclear medicine and molecular imaging"
-    excerpt: "Developed by OpenAI, ChatGPT is a natural language processing chatbot that can intelligently respond to questions. In conversations with users, the chatbot always \"pays attention\" and remembers the thread of the dialogue. It is available in more than 90 ..."
-    publishedDateTime: 2023-03-27T20:14:00Z
-    webUrl: "https://medicalxpress.com/news/2023-03-exploring-potential-applications-chatgpt-nuclear.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-03-exploring-potential-applications-chatgpt-nuclear.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-03-exploring-potential-applications-chatgpt-nuclear.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 36
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-2.jpg"
-        width: 1920
-        height: 1451
-        isCached: true
   - title: "ChatGPT and nutrition research: Academics stress the need to disclose use, journals to step-up monitoring"
     excerpt: "A group of scientists has published a list of ‘best practices’ when using AI and related tools such as ChatGPT when writing research manuscripts, while an editor-in-chief of a scientific journal told us that there are plans to develop tools to identify ..."
     publishedDateTime: 2023-03-28T15:53:00Z

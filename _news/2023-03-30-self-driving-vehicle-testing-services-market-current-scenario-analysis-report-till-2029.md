@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Electric Vehicle Market To Reach $823.75 Billion By 2030 With Development Of Self-Driving Electric Vehicle Technology"
+    excerpt: "Furthermore, factors such as technological advancements, proactive government initiatives and development of self-driving electric vehicle technology are expected to create ample opportunities for the key players operating in the electric vehicle market."
+    publishedDateTime: 2023-03-28T05:22:00Z
+    webUrl: "https://menafn.com/1105877883/Electric-Vehicle-Market-To-Reach-82375-Billion-By-2030-With-Development-Of-Self-Driving-Electric-Vehicle-Technology"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 1
+    images:
+      - url: "https://menafn.com/updates/pr/2023-03/28/EP_3d0c1image_story.jpeg"
+        width: 890
+        height: 466
+        isCached: true
 
 secured: "Jh/M6tjTFrF+9MsEcRENLRcc+7NJD9QI+QYzikzSVJ3XZ6Kxk6XCviIYgR8G5BcZRLeNBdBkQGn3q+wbbAF6/AZjgAoI/7+7r9BNulXv6+wAzmi+wp1bll9V5zmWaMnhFakSfVVT7z8G1xF3FffRKOLu1tvzdsz44kghpN7yMOvchPRV5fl+umx9M+0EnlYH9S6OB3hysBOeIfAWeVV+GNebNHOBiR75La3E27vJ/E9jBW/HukcaQ1pJF03iNFeGpmcjA4WwutH9OIAUHJw0wfzKVm9E79S+lBGOTBfZ/WfsTjg1MhJ7jKDadu90RL5qK7cB4L9JkSxQZkOOqdWnGWsW3kuNWLK3xmdsbxHdutA=;I4rqCwxpX6a9EOgFoKkA1Q=="
 ---

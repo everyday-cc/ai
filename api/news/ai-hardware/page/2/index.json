@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-22-nvidia-tweaks-flagship-h100-chip-for-export-to-china-as-h800.md",
+      "title": "Nvidia tweaks flagship H100 chip for export to China as H800",
+      "excerpt": "Nvidia Corp , the U.S. semiconductor designer that dominates the market for artificial intelligence (AI) chips, said it has modified its flagship product into a version that is legal to export to China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/nvidia-tweaks-flagship-h100-chip-export-china-h800-2023-03-21/",
+      "originalUrl": "https://www.reuters.com/technology/nvidia-tweaks-flagship-h100-chip-export-china-h800-2023-03-21/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/T5ftYrseaMtfZ1YNXckWGXq4dZQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V4WEDSSQ65LGVM66ZN3DWSXLMI.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-21T17:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-nvidia-and-google-cloud-deliver-powerful-new-generative-ai-platform-built-on-the-new-l4-gpu-and-vertex-ai.md",
       "title": "NVIDIA and Google Cloud Deliver Powerful New Generative AI Platform, Built on the New L4 GPU and Vertex AI",
       "excerpt": "NVIDIA today announced Google Cloud is integrating the newly launched L4 GPU and Vertex AI to accelerate the work of companies building a rapidly expanding number of generative AI applications. Google Cloud,",
@@ -1403,58 +1455,6 @@
         "Microsoft AI",
         "AI in Healthcare",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-reelgolfs-ai-enabled-video-capture-system-creates-cinematic-souvenirs.md",
-      "title": "ReelGolf’s AI Enabled Video-Capture System Creates Cinematic Souvenirs",
-      "excerpt": "Austin based autonomous videography startup creates tee-to-green footage of golfers as they play clients signature holes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mikedojc/2023/03/13/reelgolfs-ai-enabled-video-capture-system-creates-cinematic-souvenirs/",
-      "originalUrl": "https://www.forbes.com/sites/mikedojc/2023/03/13/reelgolfs-ai-enabled-video-capture-system-creates-cinematic-souvenirs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/640e675fb0a10bbe63b50059/0x0.png?format=png&width=1200",
-          "width": 977,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mikedojc/2023/03/13/reelgolfs-ai-enabled-video-capture-system-creates-cinematic-souvenirs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikedojc/2023/03/13/reelgolfs-ai-enabled-video-capture-system-creates-cinematic-souvenirs/amp/",
-      "publishedDateTime": "2023-03-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

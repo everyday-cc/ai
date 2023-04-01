@@ -25,63 +25,40 @@ images:
     isCached: true
 
 related:
-  - title: "AI (Artificial Intelligence) Image Recognition Market 2023 Expected to Reach Significant Rate by 2031"
-    excerpt: "Image Recognition Market\" study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short-term challenges they face. One major attraction about AI (Artificial ..."
-    publishedDateTime: 2023-03-27T21:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-artificial-intelligence-image-recognition-market-2023-expected-to-reach-significant-rate-by-2031-2023-03-27"
+  - title: "Self-Driving Vehicle Testing Services Market Current Scenario Analysis Report till 2029"
+    excerpt: "Mar 29, 2023 (The Expresswire) -- Absolutereports.com has conducted research titled \"Self-Driving Vehicle Testing Services Market\" for the years 2023 to 2029, which presents a detailed analysis of market dynamics and trends that will shape the future of ..."
+    publishedDateTime: 2023-03-29T22:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicle-testing-services-market-current-scenario-analysis-report-till-2029-2023-03-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 71
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Biometrics Market Size, Share and Forecast 2031"
-    excerpt: "Mar 27, 2023 (The Expresswire) -- [124+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Voice Recognition Biometrics Market” Size 2023 Key players Profiled in ..."
-    publishedDateTime: 2023-03-27T21:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-biometrics-market-size-share-and-forecast-2031-2023-03-27"
+  - title: "Global L1 Self-driving Vehicle Market 2023 [Intelligence Report] | Gain the Competitive Edge"
+    excerpt: "Global L1 Self-driving Vehicle Market Status and Prospect | New Report [2023-2030] of 115 Pages | Industry report"
+    publishedDateTime: 2023-03-28T10:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-l1-self-driving-vehicle-market-2023-intelligence-report-gain-the-competitive-edge-2023-03-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 38
+  - title: "Ford withdraws self-driving vehicle petition"
+    excerpt: "Ford sought an exemption from seven safety standards to deploy vehicles that would be used to support mobility services such as ride-sharing and package delivery, according to its July 2021 petition."
+    publishedDateTime: 2023-03-30T19:08:00Z
+    webUrl: "https://www.autonews.com/mobility-report/ford-withdraws-petition-deploy-self-driving-vehicles"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech Recognition Market New Ready Report Analysis 2028"
-    excerpt: "Top “ Speech Recognition Market ” Size 2023 Key players Profiled in the Report are [VoiceVault, Microsoft, Agnitio, ReadSpeaker Holding, LumenVox, Raytheon BBN Technologies, ATandT, Fluent, Iflytek, Nuance,"
-    publishedDateTime: 2023-03-29T04:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-new-ready-report-analysis-2028-2023-03-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-  - title: "Top \"Image Recognition in Retail Market\" Future 2023-2031, With 113 Pages"
-    excerpt: "Report Highlights with 113 pages: -\"The global Image Recognition in Retail market size was valued at USD 1743.25 million"
-    publishedDateTime: 2023-03-29T01:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/top-image-recognition-in-retail-market-future-2023-2031-with-113-pages-2023-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-  - title: "Voice and Speech Recognition Market Trends and Challenges 2023 Industry Demand, Top Players Strategy, Size, Share and Forecast Report till 2031"
-    excerpt: "Mar 29, 2023 (Alliance News via COMTEX) -- Global Voice and Speech Recognition Market Status, Trends and COVID-19 Impact Report 2021, Covid 19 Outbreak Impact research report added by Report Ocean, is an in-depth analysis of market characteristics ..."
-    publishedDateTime: 2023-03-29T14:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-trends-and-challenges-2023-industry-demand-top-players-strategy-size-share-and-forecast-report-till-2031-2023-03-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/ARGO-MAIN_i_0.jpg"
         width: 1200
         height: 630
         isCached: true

@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/waymo-brings-its-fleet-of-new-self-drivin
 webUrl: "https://www.engadget.com/waymo-brings-its-fleet-of-new-self-driving-suvs-to-austin-165720284.html"
 type: article
 quality: 69
-heat: 99
+heat: 100
 published: true
 
 provider:

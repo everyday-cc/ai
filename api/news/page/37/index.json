@@ -2,6 +2,57 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2023-02-28-the-intersection-between-ai-and-blockchain-technology-industries-of-tomorrow.md",
+      "title": "The Intersection Between AI And Blockchain Technology – Industries Of Tomorrow",
+      "excerpt": "The intersection between AI and blockchain technology has the potential to transform various industries by enhancing their security, transparency, and overall efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/02/28/the-intersection-between-ai-and-blockchain-technology--industries-of-tomorrow/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/02/28/the-intersection-between-ai-and-blockchain-technology--industries-of-tomorrow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63fe18e3c3faa2f1d106f7ee/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/02/28/the-intersection-between-ai-and-blockchain-technology--industries-of-tomorrow/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/02/28/the-intersection-between-ai-and-blockchain-technology--industries-of-tomorrow/amp/",
+      "publishedDateTime": "2023-02-28T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-28-jmir-ai-mobile-artificial-intelligence-powered-acceptance-commitment-therapy-tool.md",
       "title": "JMIR AI | MOBILE ARTIFICIAL INTELLIGENCE-POWERED ACCEPTANCE COMMITMENT THERAPY TOOL",
       "excerpt": "2023 /PRNewswire/ -- JMIR Publications published \"Adolescents' Well-being While Using a Mobile Artificial Intelligence-Powered Acceptance Commitment Therapy Tool: Evidence From a Longitudinal ...",
@@ -1076,58 +1127,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-usaf-begins-implementing-facial-recognition-on-some-of-its-drone-fleet.md",
-      "title": "USAF begins implementing facial recognition on some of its drone fleet",
-      "excerpt": "The added capability comes from long-time Seattle tech firm RealNetworks. The name probably sounds familiar because it's the same company that delved into streaming media before",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/97753-usaf-begins-implementing-facial-recognition-drone-fleet.html",
-      "originalUrl": "https://www.techspot.com/news/97753-usaf-begins-implementing-facial-recognition-drone-fleet.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2023/02/2023-02-27-image-20.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-27T14:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

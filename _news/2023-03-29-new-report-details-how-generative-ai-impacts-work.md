@@ -56,15 +56,6 @@ related:
         width: 768
         height: 512
         isCached: true
-  - title: "Big banks invest in generative AI startup Hazy"
-    excerpt: "Hazy won the $1 million Microsoft Innovate AI prize for the best AI startup in Europe and has signed up big name clients, including financial services giants Nationwide and Wells Fargo. Harry Keen, CEO, Hazy, says: \"This funding will solidify our position ..."
-    publishedDateTime: 2023-03-27T23:01:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42044/big-banks-invest-in-generative-ai-startup-hazy"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
   - title: "How Businesses Can Win with Generative AI: UiPath to Unveil Latest AI-Powered Automation Innovations"
     excerpt: "UiPath (NYSE: PATH), a leading enterprise automation software company, today announced its annual UiPath AI Summit will take place March 30, offering viewers around the world insight into strategies for adopting the newest AI to bolster their automation initiatives and practical guidance from leading AI and automation industry use cases."
     publishedDateTime: 2023-03-30T15:28:00Z

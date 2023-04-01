@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "WaveOne AI-powered video compression startup acquired by Apple"
-    excerpt: "AI has been quite topical since the breakout success of ChatGPT last year, and many have wondered if and how the world’s biggest company would adapt similar technology. Now, Apple has acquired WaveOne, and AI-powered video compression software."
-    publishedDateTime: 2023-03-27T22:19:00Z
-    webUrl: "https://www.shacknews.com/article/134797/waveone-ai-acquired-by-apple"
-    ampWebUrl: "https://www.shacknews.com/article/134797/waveone-ai-acquired-by-apple?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134797/waveone-ai-acquired-by-apple?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 57
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/27/waveone-logo_feature.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Apple quietly acquires AI-driven video compression startup WaveOne"
     excerpt: "Apple has quietly acquired WaveOne, a California-based startup that develops AI algorithms for video compression"
     publishedDateTime: 2023-03-28T05:47:00Z

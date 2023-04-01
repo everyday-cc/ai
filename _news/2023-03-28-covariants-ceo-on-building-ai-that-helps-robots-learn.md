@@ -32,13 +32,13 @@ images:
 
 related:
   - title: "Former IBM CEO on AI, layoffs, women leaders in tech"
-    excerpt: "The recent buzz surrounding artificial intelligence and mass layoffs roiling the technology industry is familiar ground for Ginni Rometty, whose nearly 40-year career at IBM culminated in her being promoted to CEO in 2012."
-    publishedDateTime: 2023-03-28T18:14:00Z
-    webUrl: "https://www.stltoday.com/business/former-ibm-ceo-on-ai-layoffs-women-leaders-in-tech/article_e51cd543-7a91-53ce-8655-3c8a11d7aaf0.html"
+    excerpt: "Former IBM CEO Ginni Rometty Just before Rometty became IBM's first woman CEO, the company's AI-powered computer Watson outwitted two of the most successful contestants in the history of the game ..."
+    publishedDateTime: 2023-03-28T20:01:00Z
+    webUrl: "https://omaha.com/business/former-ibm-ceo-on-ai-layoffs-women-leaders-in-tech/article_be7e3b21-2a12-5667-b06d-ba5918537c9b.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Omaha.com
+      domain: omaha.com
     quality: 19
 
 secured: "Yeqw5dvB+LKdQK8g8Lv7wkeZQg/3E5QEkZF2peiDnFdbjlzqaAHZnxR6e0BUSUQSg3/ldVXYIaFcqWGambjNR29jeMhKD7gYayY6wyM5QenzeW1KxSOPpN7eFC1FGlqGIl7Z8znZgbEjY5Lr+uMuqCvT+pKXmLj4Paeiyca7FSuWdA3BGmhAv8FEAuSEiyFgp3GUa0Xlguv7wi5sjNTW0GdkzXKBXaVplA/eB3+2U0G/VTo8WCaD9gVUIMh0eQeLRfDfWN81kcUfKnRMBtuC15EKpsK3OjgN1DQPlXRcdgV2vrda53B7wzojuorxl8zQAZcKjMePer6fW370HXn8ZHcAexP6qJFB7DfpfrkM6bE=;7w/+5dkK9TWItSzkHeXWLg=="

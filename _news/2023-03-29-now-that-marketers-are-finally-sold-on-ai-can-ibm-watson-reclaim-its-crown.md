@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-29T06:01:00Z
 originalUrl: "https://www.thedrum.com/insight/2023/03/29/now-marketers-are-finally-sold-ai-can-ibm-watson-reclaim-its-crown"
 webUrl: "https://www.thedrum.com/insight/2023/03/29/now-marketers-are-finally-sold-ai-can-ibm-watson-reclaim-its-crown"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: The Drum
@@ -15,6 +18,12 @@ topics:
   - IBM AI
   - AI
 
-secured: "xpsWrnoHNLRyrDlreLojS5K9iDcYfbD+V9+fr63OFcyf6GM6jw4Jp5fiJ1LZpD3hXHUZFrDdRxTdL0+mRnB1BreUACJFaFsdVzQ9Te39aUrcpbTnjjqD19w03h9gv1Ua2XOGDrtRO4uSYZf8NvNjY15k/VfjWu457OctUNU8aI/Uki7CLfxEbUtpfwXuSNSM6DelWD3l/1b+Q5EOU6ZPZWhpeB3rkxzPDRaGqonDupnEJqpg0OZIAcdOxKB7VtJlHISLGgnUDdSliQ90AlKCSGPJ+lzKtP26WRzgS5td8XfLIU9GlFWqsKzdWv2PrO2dxEOcrjRxVIMaIqjZsiWTTVPCMbgoSWuEkxmqJwHfBJ4=;iSTQJO38J7bkRSlYx4TkiA=="
+images:
+  - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/watson-tile.gif?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "aFltOPVanJCgylPz6+NedJ18WahlOWI4yCaLGAkik5H6ZchRkbvpzTtBtUnRzA5tuX1dePwqdYFqqnCWmFnOc6xSVtp0OhgFObOBYqR43WCxdBtMH7h45/NiidlaOZC8FXYnphpnZOm8/wC8apa+BlJmmAK9zLa6DwHmTBdRF1rGjVMJf4A732cOYG3EQI4yGxjxru7uaFKVzakOGyo3a6lWdsMR1ubcVJWdNGSgvzD/kQ0WTH44xv9507AIcZ40inDZpGxSMXBYxQD3lZ6W63SlpI6CFk3J/rbD1PfNl3DpyCuwvbAyIZKCAgKl/6kMoIFX5b5dji3WwtSoKMqEk9Yz+0I2bAuCWj/kEMcUsX0=;XnAwO7TFCvEqROG956PCLg=="
 ---
 

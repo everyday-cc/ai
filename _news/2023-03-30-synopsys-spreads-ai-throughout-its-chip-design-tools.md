@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Synopsys spreads AI throughout its chip design tools"
-excerpt: "Synopsys Inc on Wednesday rolled out new artificial intelligence tools designed to get better results faster in the various stages of designing computing chips."
-publishedDateTime: 2023-03-29T23:02:00Z
-originalUrl: "https://www.reuters.com/technology/synopsys-spreads-ai-throughout-its-chip-design-tools-2023-03-29/"
-webUrl: "https://www.reuters.com/technology/synopsys-spreads-ai-throughout-its-chip-design-tools-2023-03-29/"
+excerpt: "The next issue of Financial Post Top Stories will soon be in your inbox. Synopsys first released an AI tool for one part of the chip design process three years ago, and with customers like Samsung Electronics Co Ltd and ST Microelectronics using the system."
+publishedDateTime: 2023-03-29T17:27:00Z
+originalUrl: "https://financialpost.com/pmn/business-pmn/synopsys-spreads-ai-throughout-its-chip-design-tools-2"
+webUrl: "https://financialpost.com/pmn/business-pmn/synopsys-spreads-ai-throughout-its-chip-design-tools-2"
+ampWebUrl: "https://financialpost.com/pmn/business-pmn/synopsys-spreads-ai-throughout-its-chip-design-tools-2/wcm/aa7c4d80-7966-4a04-9066-3ff9c36e9308/amp/"
+cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/synopsys-spreads-ai-throughout-its-chip-design-tools-2/wcm/aa7c4d80-7966-4a04-9066-3ff9c36e9308/amp/"
 type: article
-quality: 64
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Financial Post
+  domain: financialpost.com
 
 topics:
   - AI Hardware
@@ -55,6 +53,6 @@ related:
       domain: siliconangle.com
     quality: 34
 
-secured: "0JLE7XkWJS+3/esA7ekwcy+/zy77/iVH/4fQiEGgyuVUuqiMr2qlfGSj+6Z6XMskyIX0GsGTqY97fNaHb1F+lqS2dTYWhJoKoDZdiQ6xYcNQOdTDASE0pvKphNBY2BdjAgO+h4776aVOuYXR6fkZ4tqnFV/Qrjrv/nF4s4+RgUD3T69/1R48CIv24z82yh8QGQjIG4fx8s0hlST8Tw4hcTEcRk37Fd+ctUTwzJEpPs84/JTfcaUWWm6rDjot+Db8BKoC9wf3DLeVM8uW6T49z1VpaGpsCleZFlCUTJBILyZ0PABjppD3eQxo/ZOsIbiIjCECYsi6lopeqt6F1hjKdNMiyd7EqXHac7eSMT8o4KvaKviow8SSuyBVpdp6JRJUzqFvLkoIgwgsvPepgfdq/l+BS5mbKgh5Y48X0/XhQNAtEiFktjqMqXLB7NihhIB4G9uKFzWCiVL4x4UJ844fqxcplBHFcEcElMI9P4/xGp4POlpijX7YBaG4ELziZ7zkcoFSUmuaO32HiabZWZxAGg==;YcZqZwZLgu+X03Klr+1aIA=="
+secured: "+p9e8wjilGlEckROqT56PAyvwer2XzJII9lupDOO290xiEbt7XhnF4UUgkd1Junv7XCvwYZct7bigrQ0NKaQLnSLI/iBoD1fRzSdo3aFKAmCJSfUbYJlisTLjhAYJCBCESgXO18uLmP5EzrnHB2gDpKjPL5FoerModQch7ZxjOsGHbEn5vQ48XZBWlRTWts4T/j4QH3yefrP48f25uvBMggNq4wUkLk/+m+OuaAbNxFgNZFbdzFfZ3KfLPF3z3LBm+Kd/1bxrwFwNqPJQgjcCYT27Yu2GrJdc/wphxgiJQ1zXHmN2uTmpyVPlVffkXiO5vp8XSuromLD09xiJwDUWBBkdWkO0dMX1meVzH4/QUo=;nClve9JRnbpYCwnABFTw+g=="
 ---
 

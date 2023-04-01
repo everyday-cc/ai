@@ -2,6 +2,59 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2023-03-08-automated-machine-learning-automl-market-to-grow-exponentially-due-to-rising-demand.md",
+      "title": "Automated Machine Learning (AutoML) Market to Grow Exponentially Due to Rising Demand",
+      "excerpt": "The \"Automated Machine Learning (AutoML) Market\" study describes how the technology industry is evolving and how major",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-to-grow-exponentially-due-to-rising-demand-2023-03-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-to-grow-exponentially-due-to-rising-demand-2023-03-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-07T15:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-03-08-the-fbi-tested-facial-recognition-software-on-americans-for-years-new-documents-show.md",
       "title": "The FBI Tested Facial Recognition Software on Americans for Years, New Documents Show",
       "excerpt": "Newly unearthed papers show federal agencies testing facial recognition tools in subway cameras, street corners, and other public spaces.",
@@ -1151,58 +1204,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-07-amazon-luna-everything-you-need-to-know-about-amazons-cloud-gaming-service.md",
-      "title": "Amazon Luna: Everything you need to know about Amazon's cloud gaming service",
-      "excerpt": "Amazon Luna is the latest platform to join the fray, and with Amazon Web Services (AWS) and Twitch behind it, Luna could very well take the cloud gaming crown. After over a year of rumors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/amazon-luna-1170676/",
-      "originalUrl": "https://www.androidauthority.com/amazon-luna-1170676/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2020/09/amazon-luna-game-steraming-service.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-06T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

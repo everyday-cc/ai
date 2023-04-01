@@ -75,22 +75,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Streaming Services and Cybersecurity"
-    excerpt: "The popularity of streaming platforms and apps have exploded in recent years. Streaming services have now become the norm, rather than the exception, as more households “cut the cord” with their cable providers."
-    publishedDateTime: 2023-03-27T19:37:00Z
-    webUrl: "https://securityboulevard.com/2023/03/streaming-services-and-cybersecurity/"
-    ampWebUrl: "https://securityboulevard.com/2023/03/streaming-services-and-cybersecurity/amp/"
-    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2023/03/streaming-services-and-cybersecurity/amp/"
-    type: article
-    provider:
-      name: Security Boulevard
-      domain: securityboulevard.com
-    quality: 44
-    images:
-      - url: "https://www.arkoselabs.com/wp-content/uploads/protecting-media-and-streaming-businesses-from-fraud-and-abuse-list.jpg"
-        width: 1200
-        height: 473
-        isCached: true
   - title: "Pope Francis the fashion icon? Detecting AI images reaches 'uncanny valley,' cybersecurity expert warns"
     excerpt: "Those images, created through artificial intelligence (AI)-generator model Midjourney, were uploaded to Facebook and Reddit groups dedicated ... If you're feeling alone or dissatisfied, a new research suggests that watching live sports in person may ..."
     publishedDateTime: 2023-03-28T02:44:00Z

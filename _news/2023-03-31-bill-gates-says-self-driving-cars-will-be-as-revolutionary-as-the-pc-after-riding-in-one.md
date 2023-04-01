@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/bill-gates-ai-self-driving-cars-as-r
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bill-gates-ai-self-driving-cars-as-revolutionary-as-pc-2023-3?amp"
 type: article
 quality: 65
-heat: 95
+heat: 97
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bill Gates says AI will revolutionize healthcare like the internet, mobile phones"
-    excerpt: "Bill Gates says artificial intelligence will change the way people get healthcare as much as the internet and mobile phones have and could make health more equitable around the globe. \"For one thing, [AIs will] help healthcare workers make the most of ..."
-    publishedDateTime: 2023-03-27T22:01:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/bill-gates-says-ai-will-revolutionize-healthcare-like-the-internet-mobile-phones.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 49
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "To Make Self-Driving Cars Safer, Expose Them to Terrible Drivers"
     excerpt: "Self-driving cars are taking longer to arrive on our roads than we thought they would. Auto industry experts and tech companies predicted they’d be here by 2020 and go mainstream by 2021. But it turns out that putting cars on the road without drivers is ..."
     publishedDateTime: 2023-03-31T14:02:00Z
@@ -69,6 +55,15 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
+    quality: 0
+  - title: "'I’ve always been a car guy.' Bill Gates takes a ride on London roads in a self-driving car"
+    excerpt: "Agencies Bill Gates stepped out to get some fish and chips in downtown London. Billionaire Bill Gates, last week, spent some time testing an autonomous vehicle (AV) on the busy streets of London. The self-driving car was made by tech start-up Wayve,"
+    publishedDateTime: 2023-04-01T13:20:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/ive-always-been-a-car-guy-bill-gates-takes-a-ride-on-london-roads-in-a-self-driving-car/articleshow/99172316.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
     quality: 0
 
 secured: "FTSoX2ZqjwCpQGdx7zzK+rsVszD6uo6RnNBD6nVH2vD3jimHqtHG5QEv2VbR0Rc1GiFnzGfyvsLgJQa6Q9cT93kjDWlWfPJpSM3PkDr+Mjbea/jnmMOw7MDGgJz/WL05AJ5hjbvZHGYrbghrWm6ulJLCwcwQ4wpY4WdF6h5qmb5gWM5pO0I2w7CDCMWPLLHM0Q73yplDvvU2ZbAXRcfQvm6V5bFpVrzkHCY3zxPX2vbPYBxNl2b+PsCS1XYQ+QRXrLgfb/2+ycwkekxyPLtf1VjWUlQm9KnAfmhMcIsYNwYOyZAdRsXPx70M4JMZn9wHhrQ5YIfMO2LyaAKRiAcmDK7JKJhaHZQInwqCq4zQxF0=;FkY3gqK7iY2aaRgcfCn7Fw=="

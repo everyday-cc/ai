@@ -28,11 +28,18 @@ related:
     excerpt: "The rise to prominence of ChatGPT has made artificial intelligence one of the key themes for companies in 2023, and numerous players are set to reap its benefits during the coming months. “Unlike many other innovative technologies that have relatively ..."
     publishedDateTime: 2023-03-30T14:54:00Z
     webUrl: "https://www.marketwatch.com/story/the-explosive-ai-trend-is-here-to-stay-these-stocks-are-poised-to-benefit-82aed67d"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/the-explosive-ai-trend-is-here-to-stay-these-stocks-are-poised-to-benefit-82aed67d"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/the-explosive-ai-trend-is-here-to-stay-these-stocks-are-poised-to-benefit-82aed67d"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 88
+    images:
+      - url: "https://images.mktw.net/im-753735/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "mpBvaLj7NArjitB4gY5qmULCpgsxYBPsRZ7adM6K4XMmT0HtRydQ0Ug7JOLHy11VJ8jvCxDvLFDOz3aj0sfudSTJXhkpN1tMk1LRxxNvESD7+ZvJnXL3BP7dsOCA5M8bHfcNVHCuAmzCNkcGq7+JBaEsu3ALl+3xGE76OSsHF6HxkqQFmOJcf/RXpyx4sNnbUjsWegt4NA1uRQkrudAijuRT8Pq486BF9yyCZYWME20V9gmYiQEo4hR0UfcK/7CBfN7IYW7dmeVugdI+jXIEgPzoNJOyUJPYKgLmd+qN9FilX5VUe7g08ys2I689jzKfwdEfJm6ltOzz/4mNQmAxhZqVF0z7rrqZQ1KQbZKjCTSe6uFf/0vbzJiUJJ+WlGNtKnBv+TBE6BXN+n+rehYop+dDzZxDfOKVO2JWQqrU6+OF+T7mYjpeLCxYXU3dXE90Nrz2z4IUAMtNOOF8SXHbCW0rqVzSBjoUGhTEBmfOQSuW/c7kyRR7JkwD1WHZSx6zbiawPkPVNOwLrN7VNEpT0Q==;orhfSVP/L3h11uyAul1dzg=="
 ---

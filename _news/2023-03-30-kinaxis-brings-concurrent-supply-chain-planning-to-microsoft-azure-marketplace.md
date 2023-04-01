@@ -20,28 +20,19 @@ topics:
 
 related:
   - title: "Xoriant X-CELERATE Insights Analytics Solution Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Xoriant X-CELERATE Insights Analytics Solution Now Available in the Microsoft Azure Marketplace Mar (PRNewswire via COMTEX) -- PR"
-    publishedDateTime: 2023-03-29T14:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/xoriant-x-celerate-insights-analytics-solution-now-available-in-the-microsoft-azure-marketplace-2023-03-29"
+    excerpt: "Microsoft Azure customers worldwide now gain access to X·CELERATE Insights to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies SUNNYVALE,"
+    publishedDateTime: 2023-03-29T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-xoriant-x-celerate-insights-analytics-solution-now-available-/2023/03/29/9785521.htm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 87
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 57
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/449859/PRNE_Xoriant_Logo.jpg"
+        width: 400
+        height: 260
         isCached: true
-  - title: "MTN to migrate OSS/BSS to Microsoft Azure"
-    excerpt: "South Africa-based MTN has joined the growing list of telcos that are making the move to public cloud. The company on Monday announced it has embarked on a programme of work to migrate various systems to Microsoft Azure."
-    publishedDateTime: 2023-03-30T15:38:00Z
-    webUrl: "https://telecoms.com/520948/mtn-to-migrate-oss-bss-to-microsoft-azure/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 34
 
 secured: "5pH6wExEarjUg+xqnI0koT8qLKlj2B0c3WOtdB2aDBjOMOwsH2BT0uKYRnWS2DEOeGGCCgGhk3NZSxjSVZbAKUxzGKrRhQS3RzIWChX1JHXxqvfpWfyY4KXO+8dun/BKaMte7T5hBj0gwlv4HqhtWi/kQswOojru75BgKgg2+DFf+GEY5hk/ipjV/RG0qjsNIq2ZcPPvupWgy1JAAmjcEhrM+zOZ2fyGVk6r02XuVpAm93LuVJ61CRPoxB/Yy85xpiUaF1Z7O3MYh9D62vk8R4emLPsZ5oU7SL33kp7siBVy1IY1GINGUL+B7Wxniq6U/dqpiao17aEl+wtlTcSLZ1w6MNGIxNTjBIAugvbP2do=;qtfT1IOZFKupvH8x+ra9vA=="
 ---

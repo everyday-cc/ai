@@ -92,20 +92,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 64
-  - title: "Machine Learning Executive Talks Rise, Future of Generative AI"
-    excerpt: "Keegan Hines, a former Georgetown adjunct professor and the current vice president of machine learning at Arthur AI, discussed the rapid rise in generative Artificial Intelligence (AI) programs and Georgetown’s potential in adapting to software like ChatGPT. The Master of Science in Data Science and Analytics program in the Graduate School of Arts & Sciences […]"
-    publishedDateTime: 2023-03-27T20:41:00Z
-    webUrl: "https://thehoya.com/machine-learning-executive-talks-rise-future-of-generative-ai/"
-    type: article
-    provider:
-      name: The Hoya
-      domain: thehoya.com
-    quality: 56
-    images:
-      - url: "https://static.shareasale.com/image/113278/mia-banner-ad-6.jpg"
-        width: 720
-        height: 300
-        isCached: true
   - title: "Major Cloud Providers Seek to Rejuvenate Sales With Generative AI"
     excerpt: "Microsoft (Nasdaq: MSFT) and Google are investing in generative artificial intelligence tools to drive revenue performance in their cloud businesses, The Wall Street Journal reported Monday. Sources told WSJ that Microsoft CEO Satya Nadella has discussed how AI on the Azure cloud platform could help companies improve efficiency through presentations at the company’s sales meetings."
     publishedDateTime: 2023-03-29T11:00:00Z

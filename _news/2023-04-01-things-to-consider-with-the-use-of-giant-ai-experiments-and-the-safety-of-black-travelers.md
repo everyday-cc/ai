@@ -53,6 +53,15 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Things to consider with the use of giant AI experiments and the safety of Black travelers"
+    excerpt: "Following the recent open letter from the Future of Life Institute, which recommends a six-month pause on “Giant AI Experiments” in order to agree on safeguards and precautions for this incredible new technology,"
+    publishedDateTime: 2023-03-31T16:52:00Z
+    webUrl: "https://www.newsobserver.com/detour/article273827310.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 10
 
 secured: "9zdxCWg00VENt0kKauK9Vqe08S0Asz9qtJX8ddGYcdqNIsU3ugTRCqSj0QHP2xkYn4WrZnmK0LUz8l96NLhSTGJAfa+SyDwxou4efNm1ANvAqBqslO6Y8mrI9OEtcF39JzsQW6lmC6LLpiaWq98FlqF1bmCbuVbFEXSsCrqG5PzJCLEah4KYf70MML1uexAcAf3pLMAFuGse0RJlv8dmFyyUTfB8KyjmB8O2Quw10BGTbWzOqvqe7zjLeDgTNrc9ZoP7pxYADT+6uYmoOhdZ+Spat6ZeMWHRMOIkKWyRdzB5e3Fda6NOz5m0uG7uhOwOwbXxs/TjyrgOkF5STTi6qWRlrGVmnxDp1Meaem20maSfxMlDGWBQ59ECNfp0huEQDLIiI7ysRF6cX/FdBtR/SD+wQXuR27FYWuLrb596WAaXA9gni7tzKltQ0LCS7bbOfrmn/tg1SGCP3nuAizUExs2IrGxfYhmYSeCjZ68hXHSHJNfgyMlHvqxuclNQsTOWhzwRVG5IZm+o5a0NzzBKYg==;72gLfEVAReOxtrlS4iZyaw=="
 ---

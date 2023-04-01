@@ -60,15 +60,6 @@ related:
         width: 2400
         height: 1350
         isCached: true
-  - title: "Generative AI set to affect 300mn jobs across major economies"
-    excerpt: "The investment bank said on Monday that “generative” AI systems such as ChatGPT, which can create content that is indistinguishable from human output, could spark a productivity boom that would eventually raise annual global gross domestic product by 7 per cent over a 10-year period."
-    publishedDateTime: 2023-03-27T21:16:00Z
-    webUrl: "https://www.ft.com/content/7dec4483-ad34-4007-bb3a-7ac925643999?shareType=nongift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "DvVQfCh28IzHtwqGAR0HOYOEUffRIkljll81drWi35VlZXoEbcynKPAq4/bxlkZuG4/BF6QxFQP+sTF2tkXInmqlHiMawS5UG5k/lZSNmPFHbZOk6AoC7VIuQxe37U81IdLCYEpFc/iBQAoIgbFSt9qO6vtSwquUpe9UAD6BywKMOJrXDYJxp1VLM2s4+C2ruaR0GPp9jA4e7pBw2HuT8u1P0g+3qnaotvPHmmrxW0JWQd8d8ymUhs0F5s0etQ1hVpS5GLXI3b1t05nAwy373Iwv851KcCRRL4M6DU05GU3hlGq4RPbLP2WjGod6iNvUs/f1ZnJU3IL+8HeJuJSLxUY8lWmVgy5ex7oQfDiKLnbpbZ5r2Hdfs+gyuKO4nrmOq1m+ypyzl6O0mY7pu+2NvYuI7JrbVJ8amjWEZJetFmEMj9l25TC3idnP3nzEjKkVdgTwXtv6jQrigf1TzBKMctECtzoPHGGTrLOGwAvD9jgnS8z+Bwc5dJcUkL72pcRjUt3C0DK7lvvahowZtZG4Xg==;8+8i7kGjAG/QqKx6edkDyQ=="
 ---

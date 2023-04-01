@@ -41,22 +41,6 @@ related:
         width: 1500
         height: 900
         isCached: true
-  - title: "Exploring potential applications for ChatGPT in nuclear medicine and molecular imaging"
-    excerpt: "Developed by OpenAI, ChatGPT is a natural language processing chatbot that can intelligently respond to questions. In conversations with users, the chatbot always \"pays attention\" and remembers the thread of the dialogue. It is available in more than 90 ..."
-    publishedDateTime: 2023-03-27T20:14:00Z
-    webUrl: "https://medicalxpress.com/news/2023-03-exploring-potential-applications-chatgpt-nuclear.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-03-exploring-potential-applications-chatgpt-nuclear.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-03-exploring-potential-applications-chatgpt-nuclear.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 36
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-2.jpg"
-        width: 1920
-        height: 1451
-        isCached: true
 
 secured: "L0l0FEnJ89ybaV9m6lTgS+znv3xHDikUqmcJaaNQlSSA7QTlyYghfixpHidYAEYS+4n8zBIL7synMkyWHJr15D0BuzM0Fm5vtq6X5b5VZ6jVIPejFxZ2MA9hKulYz/61wHSNdQMHVbZjI+wmLCdInsU1fs0fCXvSuouyTY6KoeEVW24p9dd5ZCdvLl298SEuhY7DaaqDRS8dtIyCkMZ3gB1/KyYAUy/1w3YqSA1JglqLzuceeK+cPxjjo1SxNJXJDOiYGwF1NuX6CmYrjvYOoGDXn1iFwEjkO5Q1KlNe2mTD+LCE9vJohZ6B3YSx95OoW9NnzdqiSBvSZ2/NW2k4LEhiJkhgdG1hAEpf/8BKgVA=;hirj+bvbAXwhXVwqOsOVww=="
 ---

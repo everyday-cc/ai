@@ -2,6 +2,58 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2023-03-06-future-of-artificial-intelligence-ai-in-fintech-market-by-2029-trends-and-predictions.md",
+      "title": "Future of Artificial Intelligence (AI) in Fintech Market by 2029: Trends and Predictions",
+      "excerpt": "The recently published Artificial Intelligence (AI) in Fintech Market Report, spanning across 116 pages, provides",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/future-of-artificial-intelligence-ai-in-fintech-market-by-2029-trends-and-predictions-2023-03-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/future-of-artificial-intelligence-ai-in-fintech-market-by-2029-trends-and-predictions-2023-03-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-05T18:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-06-artificial-intelligence-could-help-detect-breast-cancer-study.md",
       "title": "Artificial intelligence could help detect breast cancer: study",
       "excerpt": "The use of artificial intelligence is growing across a myriad of sectors, from being used to detect emissions and predict lightning strikes to monitor aging infrastructure and drive vehicles. Early research has now found it could be effective at helping doctors detect breast cancer,",
@@ -1069,49 +1121,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-04-ai-masters-video-game-6000-times-faster-by-reading-the-instructions.md",
-      "title": "AI masters video game 6000 times faster by reading the instructions",
-      "excerpt": "An artificial intelligence has learned to master an Atari skiing game in days of playing time rather than the decades it took a specialist DeepMind AI, simply by reading the instructions written for h",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2358953-ai-masters-video-game-6000-times-faster-by-reading-the-instructions/",
-      "originalUrl": "https://www.newscientist.com/article/2358953-ai-masters-video-game-6000-times-faster-by-reading-the-instructions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2023/02/24161531/SEI_145075232.jpg",
-          "width": 1150,
-          "height": 766,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-04T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

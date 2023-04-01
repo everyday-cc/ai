@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/cfa-institute-rese
 webUrl: "https://markets.businessinsider.com/news/stocks/cfa-institute-research-foundation-releases-investment-industry-ai-handbook-1032196869"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -21,19 +21,6 @@ provider:
 topics:
   - Facebook AI
   - AI
-
-related:
-  - title: "FTC should investigate OpenAI and halt GPT-4 releases, AI research group says"
-    excerpt: "A nonprofit AI research group wants the Federal Trade Commission to investigate OpenAI, Inc. and halt releases of GPT-4. OpenAI \"has released a product GPT-4 for the consumer market that is biased, deceptive,"
-    publishedDateTime: 2023-03-30T19:00:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2023/03/ftc-should-investigate-openai-and-halt-gpt-4-releases-ai-research-group-says/"
-    ampWebUrl: "https://arstechnica.com/tech-policy/2023/03/ftc-should-investigate-openai-and-halt-gpt-4-releases-ai-research-group-says/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/03/ftc-should-investigate-openai-and-halt-gpt-4-releases-ai-research-group-says/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 64
 
 secured: "7/57/y9nqPYRg+yIkfy2BGwFcAOdC9HpSEiN5WDsqt9ZlwUi7O/OrcqkEOMOVVuX/DkRZfZzBt9LB6fuP2OzjjrqkOgdcISE30j/4lD1B18HcgH2oqWYegXch9K18uoHYsjXDN+m5lQjh3Fnhd2quaJZD+6mH2UzohG6oa/shFSHv69wjoJsk3Y7IYqTr63O/7HIWkPWZ3QEJyZJrOwynB9jAOxLgbT0rVbkP5mldaf/iPVBEsEjWxkr75reVt/pHIEN4a5gA2+d9JlihC9xo39aoEBxXN73m0jJSRujYsjp6X2Ay1PlI8NcwNr+9YvSxl2U23FoW7Th+V9oJHUivp9Iqejqf4g28TfXuo/RRJU=;hbOe/lL2mWvBnnAKnAdgHQ=="
 ---

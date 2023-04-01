@@ -2,6 +2,99 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-31-the-view-co-host-sara-haines-warns-everyone-should-be-scared-about-artificial-intelligence.md",
+      "title": "'The View' co-host Sara Haines warns 'everyone should be scared' about artificial intelligence",
+      "excerpt": "\"The View\" co-host Sara Haines warned Thursday that \"everyone should be scared\" about artificial intelligence if the experts are calling on AI labs to pause development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/video/6323663548112",
+      "originalUrl": "https://www.foxnews.com/video/6323663548112",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06f6fa0b-bb1e-4a1e-bc72-2e2af8923d78/03ffc95f-d99a-4059-be18-faa7be888bca/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-30T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-31-openais-gpt-4-violates-ftc-rules-argues-ai-policy-group.md",
+      "title": "OpenAI’s GPT-4 violates FTC rules, argues AI policy group",
+      "excerpt": "The FTC received a new complaint today from the Center for AI and Digital Policy that calls for an investigation of OpenAI and GPT-4.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/openais-gpt-4-violates-ftc-rules-argues-ai-policy-group/",
+      "originalUrl": "https://venturebeat.com/ai/openais-gpt-4-violates-ftc-rules-argues-ai-policy-group/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/openais-gpt-4-violates-ftc-rules-argues-ai-policy-group/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/openais-gpt-4-violates-ftc-rules-argues-ai-policy-group/amp/",
+      "publishedDateTime": "2023-03-30T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-31-ai-generated-video-of-will-smith-eating-spaghetti-astounds-with-terrible-beauty.md",
       "title": "AI-generated video of Will Smith eating spaghetti astounds with terrible beauty",
       "excerpt": "For a brief and shining moment, we can enjoy an absolutely ridiculous AI-generated video of Will Smith eating spaghetti that is now lighting up our lives with its terrible glory. On Monday, a Reddit user named \"chaindrop\" shared the AI-generated video on the r/StableDiffusion subreddit.",
@@ -190,48 +283,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-31-ftc-should-investigate-openai-and-halt-gpt-4-releases-ai-research-group-says.md",
-      "title": "FTC should investigate OpenAI and halt GPT-4 releases, AI research group says",
-      "excerpt": "A nonprofit AI research group wants the Federal Trade Commission to investigate OpenAI, Inc. and halt releases of GPT-4. OpenAI \"has released a product GPT-4 for the consumer market that is biased, deceptive,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2023/03/ftc-should-investigate-openai-and-halt-gpt-4-releases-ai-research-group-says/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2023/03/ftc-should-investigate-openai-and-halt-gpt-4-releases-ai-research-group-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/tech-policy/2023/03/ftc-should-investigate-openai-and-halt-gpt-4-releases-ai-research-group-says/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/03/ftc-should-investigate-openai-and-halt-gpt-4-releases-ai-research-group-says/amp/",
-      "publishedDateTime": "2023-03-30T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-30-bundesliga-match-fact-keeper-efficiency-comparing-keepers-performances-objectively-using-machine-learning-on-aws.md",
       "title": "Bundesliga Match Fact Keeper Efficiency: Comparing keepers’ performances objectively using machine learning on AWS",
       "excerpt": "The Bundesliga is renowned for its exceptional goalkeepers, making it potentially the most prominent among Europe’s top five leagues in this regard. Apart from the widely recognized Manuel Neuer, the Bundesliga has produced remarkable goalkeepers who have excelled in other leagues, including the likes",
@@ -328,7 +379,7 @@
       "originalUrl": "https://www.wired.com/story/ai-coding-wars-openai-google-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -368,6 +419,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-30-the-explosive-ai-trend-is-here-to-stay-these-stocks-are-poised-to-benefit.md",
+      "title": "The ‘explosive’ AI trend is here to stay. These stocks are poised to benefit.",
+      "excerpt": "The rise to prominence of ChatGPT has made artificial intelligence one of the key themes for companies in 2023, and numerous players are set to reap its benefits during the coming months. “Unlike many other innovative technologies that have relatively ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/the-explosive-ai-trend-is-here-to-stay-these-stocks-are-poised-to-benefit-82aed67d",
+      "originalUrl": "https://www.marketwatch.com/story/the-explosive-ai-trend-is-here-to-stay-these-stocks-are-poised-to-benefit-82aed67d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-753735/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/the-explosive-ai-trend-is-here-to-stay-these-stocks-are-poised-to-benefit-82aed67d",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/the-explosive-ai-trend-is-here-to-stay-these-stocks-are-poised-to-benefit-82aed67d",
+      "publishedDateTime": "2023-03-30T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -508,7 +612,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/what-s-new-in-azure-data-and-ai-azure-is-built-for-generative-ai-apps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -873,58 +977,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-29-xoriant-x-celerate-insights-analytics-solution-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Xoriant X-CELERATE Insights Analytics Solution Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Xoriant X-CELERATE Insights Analytics Solution Now Available in the Microsoft Azure Marketplace Mar (PRNewswire via COMTEX) -- PR",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/xoriant-x-celerate-insights-analytics-solution-now-available-in-the-microsoft-azure-marketplace-2023-03-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/xoriant-x-celerate-insights-analytics-solution-now-available-in-the-microsoft-azure-marketplace-2023-03-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-29T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-29-the-us-government-is-gearing-up-for-an-ai-antitrust-fight.md",
       "title": "The US government is gearing up for an AI antitrust fight",
       "excerpt": "She warned that major companies may “start to panic” at an upset in the tech order — “sometimes having to resort to anticompetitive tactics to protect their moats and protect their dominance.” Kanter added that the current model of AI is ...",
@@ -1129,58 +1181,6 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-a-shared-agenda-for-responsible-ai-progress.md",
-      "title": "A shared agenda for responsible AI progress",
-      "excerpt": "AI can be hugely beneficial to society if citizens, educators, academics, civil society and governments unite to shape it responsibly.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/a-shared-agenda-for-responsible-ai-progress/",
-      "originalUrl": "https://blog.google/technology/ai/a-shared-agenda-for-responsible-ai-progress/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Copy_of_Kent_Walker_Keyword_AI_final.width-1300.png",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-28T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

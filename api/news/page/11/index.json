@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-03-22-everything-everywhere-is-going-to-change-all-at-once.md",
+      "title": "Everything, Everywhere Is Going to Change All at Once",
+      "excerpt": "Consider just one example that most people probably haven’t even heard of — the way DeepMind, an A.I. lab owned by Google parent Alphabet, recently used its AlphaFold A.I. system to solve one of the most wicked problems in science — at a speed and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/03/21/opinion/artificial-intelligence-chatgpt.html",
+      "originalUrl": "https://www.nytimes.com/2023/03/21/opinion/artificial-intelligence-chatgpt.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/03/21/multimedia/21Friedman-hkzp/21Friedman-hkzp-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/03/21/opinion/artificial-intelligence-chatgpt.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/21/opinion/artificial-intelligence-chatgpt.amp.html",
+      "publishedDateTime": "2023-03-21T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-nvidia-launches-new-gpus-and-services-for-generative-ai-inferencing.md",
       "title": "NVIDIA Launches New GPUs And Services for Generative AI Inferencing",
       "excerpt": "ChatGPT has certainly changed the AI landscape, but it currently requires an 8-GPU node to run a query on OpenAI and Microsoft’s infrastructure. That is due in part to the memory requirements to hold the large model in the HBM memory of an NVIDIA A100 or ...",
@@ -1149,49 +1201,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-a-copyright-battle-over-ai-generated-art-will-begin-in-colorado.md",
-      "title": "A copyright battle over AI-generated art will begin in Colorado",
-      "excerpt": "(Photo by RJ Sangosti/The Denver Post) But while Allen is litigating his case with the public, AI is continuing to evolve in unexpected ways. “There are so many unanswered questions regarding the ethics, legality, and societal impact that will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fortmorgantimes.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/",
-      "originalUrl": "https://www.fortmorgantimes.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fortmorgantimes.com/wp-content/uploads/2023/03/TDP-L-Artificial-Intelligence-Art-RJS-01064.jpg?w=1024&h=700",
-          "width": 1024,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fortmorgantimes.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/amp/",
-      "cdnAmpWebUrl": "https://www-fortmorgantimes-com.cdn.ampproject.org/c/s/www.fortmorgantimes.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/amp/",
-      "publishedDateTime": "2023-03-21T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fort Morgan Times",
-        "domain": "fortmorgantimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

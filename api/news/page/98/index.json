@@ -2,6 +2,49 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2023-01-13-aws-opens-first-australian-local-zone-in-perth.md",
+      "title": "AWS opens first Australian Local Zone in Perth",
+      "excerpt": "AWS’s first Local Zone in Australia will bring low-latency performance to companies such as Woodside Energy and Nearmaps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth",
+      "originalUrl": "https://www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/visuals/German/article/cloud-migration-2-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth?amp=1",
+      "publishedDateTime": "2023-01-12T15:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-13-a-director-posted-ai-generated-stills-from-a-fake-80s-sci-fi-horror-movie-and-people-are-pissed.md",
       "title": "A Director Posted AI-Generated Stills From A Fake ’80s Sci-Fi Horror Movie And People Are Pissed",
       "excerpt": "BuzzFeed Contributor An AI-generated still from the made-up movie Galaxy of Flesh Los Angeles–based Keith Schofield is an accomplished director, having helmed music videos for the likes of Beck, Charlotte Gainsbourg,",
@@ -1061,58 +1104,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations.md",
-      "title": "Microsoft Launches Imagine Cup Junior 2023 Empowering Top Innovations",
-      "excerpt": "Imagine Cup Junior (ICJ) 2023 is open for registration creating outstanding paths for students to learn about technology solving world’s biggest challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/",
-      "originalUrl": "https://www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63bf4eb77e8e55f57de4e9c0/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/amp/",
-      "publishedDateTime": "2023-01-11T15:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

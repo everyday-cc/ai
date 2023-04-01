@@ -37,14 +37,16 @@ related:
       domain: forbes.com
     quality: 85
   - title: "Synopsys spreads AI throughout its chip design tools"
-    excerpt: "Synopsys Inc on Wednesday rolled out new artificial intelligence tools designed to get better results faster in the various stages of designing computing chips."
-    publishedDateTime: 2023-03-29T23:02:00Z
-    webUrl: "https://www.reuters.com/technology/synopsys-spreads-ai-throughout-its-chip-design-tools-2023-03-29/"
+    excerpt: "The next issue of Financial Post Top Stories will soon be in your inbox. Synopsys first released an AI tool for one part of the chip design process three years ago, and with customers like Samsung Electronics Co Ltd and ST Microelectronics using the system."
+    publishedDateTime: 2023-03-29T17:27:00Z
+    webUrl: "https://financialpost.com/pmn/business-pmn/synopsys-spreads-ai-throughout-its-chip-design-tools-2"
+    ampWebUrl: "https://financialpost.com/pmn/business-pmn/synopsys-spreads-ai-throughout-its-chip-design-tools-2/wcm/aa7c4d80-7966-4a04-9066-3ff9c36e9308/amp/"
+    cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/synopsys-spreads-ai-throughout-its-chip-design-tools-2/wcm/aa7c4d80-7966-4a04-9066-3ff9c36e9308/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 64
+      name: Financial Post
+      domain: financialpost.com
+    quality: 54
   - title: "Synopsys announces full-stack AI-powered suite for advanced chip design"
     excerpt: "With Synopsys.ai, engineers can now benefit from AI assistance at every stage of the chip design process, from system architecture to design and manufacturing, the company said. Synopsys is a pioneer of electronic design automation,"
     publishedDateTime: 2023-03-29T17:44:00Z

@@ -34,20 +34,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Turing Launches New Tech Consulting & Services Model Powered by AI"
-    excerpt: "PALO ALTO, CA /  / March 27, 2023 / Turing, an AI-powered technology company, today announced the official launch of Turing Services, a modern-age tech consulting and services model that combines the unmatched speed and deep vetting quality of the company's Intelligent Talent Cloud with its U."
-    publishedDateTime: 2023-03-27T21:56:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273676983/turing-launches-new-tech-consulting--services-model-powered-by-ai"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 37
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1679889590085.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "I74vDAVvN33gPErvwfhDg5HQMuYTqcL982BlwqflA1yIkZhvM7p5thO6rxIAvN4pnAmnODRQ3pD0fgtpbN5bQBiiOVIN9E+zyf/TidkUdM9cR2dGOXyysfJYe/E7vvvm7rPIvBs7TYxctuDemsgxROUYnng9F7/RwHci4QXVecf/talLaKzrdZOV+ZiOQ5amLpbyU38lWH0nVpl28j93pvL15Rf0QBFNXU989DKJg5V8JACD7q8/hyiLSK54wAfHKQ5gXNJ36hl9r7Wp3YM4dUiDZhYiuAzv62oXzuKFtmpA1o6wNEdNYBLHcenPFsRBIMmo7YOS6pHw3NCYISUccNXHMPZlcs6+eh7usFUM2Vo=;kzJStyakZffowpZ4lsoVZw=="
 ---

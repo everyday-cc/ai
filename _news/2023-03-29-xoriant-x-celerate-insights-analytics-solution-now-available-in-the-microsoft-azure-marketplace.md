@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Xoriant X-CELERATE Insights Analytics Solution Now Available in the Microsoft Azure Marketplace"
-excerpt: "Xoriant X-CELERATE Insights Analytics Solution Now Available in the Microsoft Azure Marketplace Mar (PRNewswire via COMTEX) -- PR"
-publishedDateTime: 2023-03-29T14:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/xoriant-x-celerate-insights-analytics-solution-now-available-in-the-microsoft-azure-marketplace-2023-03-29"
-webUrl: "https://www.marketwatch.com/press-release/xoriant-x-celerate-insights-analytics-solution-now-available-in-the-microsoft-azure-marketplace-2023-03-29"
+excerpt: "Microsoft Azure customers worldwide now gain access to X·CELERATE Insights to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies SUNNYVALE,"
+publishedDateTime: 2023-03-29T00:00:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-xoriant-x-celerate-insights-analytics-solution-now-available-/2023/03/29/9785521.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-xoriant-x-celerate-insights-analytics-solution-now-available-/2023/03/29/9785521.htm"
 type: article
-quality: 87
-heat: 107
-published: true
+quality: 57
+heat: 67
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/449859/PRNE_Xoriant_Logo.jpg"
+    width: 400
+    height: 260
     isCached: true
 
 related:
@@ -38,16 +34,7 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 45
-  - title: "MTN to migrate OSS/BSS to Microsoft Azure"
-    excerpt: "South Africa-based MTN has joined the growing list of telcos that are making the move to public cloud. The company on Monday announced it has embarked on a programme of work to migrate various systems to Microsoft Azure."
-    publishedDateTime: 2023-03-30T15:38:00Z
-    webUrl: "https://telecoms.com/520948/mtn-to-migrate-oss-bss-to-microsoft-azure/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 34
 
-secured: "5ZpWffmc1BJdKmc7F+zo+GIhWVoskch8+JWJc3fMyP5ElE4gYI7eaFMiCz+BNoSj/iSf5/+uIjf5apDbV1JonVQHsMDhUcPD0U4VP7tkI2amXVPGflx1WwtKNPNZuO9Mb3FRo5UowExZHFRMGWB0zRJLQtmBqsDN8PAmFZ5WBhEJpgLyrFR46J5v9k185tXDkmy7lmu3m/5zKPt458V1X2lD5i4ZIDw3RsMAwIaR6F7WBNZX/+z7d0SzgSHFJEEc5LXj3RBTZVnicqL7u5pezbq54pt1nboCXMSSfJEeDcdK/o7igjanfCTVfKawLs32HaWSRx1I61Q/S6rXKwA56rfZOVmWK3k+t00fUuoiaSU=;VA6Ccq/RtzfhvafuEmFnxA=="
+secured: "JXpI6AF8EE2tFi7njXw7mP1Q+hMCttT4+8MI75gpg6lFjTJCWKb0QxKKY/Us9frmEHL7HLSAjkJ9NjDJORdYFZnBuNr7Ed+dQ/Ul3p/IDcJ8CSP0Q8IZw+58PaO0w8usJGFuNvIVFaYQbc5T9dvYerqFDEMb4e9DG9PnrbhPRkHfpp8/bTE68CF30okqQTC6jfaZ/vkypzE7bUw3jct+1Cqdzkn0hERfoqIFFKuNedYu4gVdM6cSoswppwHUU4ZvTc/5INluAzA79xhY6dNJnkNMHTxEY9ek3B00Ty5Kc9j14vM1LFx1Qaz6JPv90L4ldTpjN8l3NP8qeIOyeR6xqPjFdnzoNrQgywFD1JOaPKQ=;jML3VkneIsZbtMhWbZj1+A=="
 ---
 

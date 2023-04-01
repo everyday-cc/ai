@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/03/31/self-driving-ev-charging-robot/"
 webUrl: "https://electrek.co/2023/03/31/self-driving-ev-charging-robot/"
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:

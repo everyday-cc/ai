@@ -2,6 +2,40 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2023-02-05-an-interview-with-ai-what-chatgpt-says-about-itself.md",
+      "title": "An interview with AI: What ChatGPT says about itself",
+      "excerpt": "To find out how good ChatGPT really is — and if I'll have a job by this time next year — I decided to give it a test drive, attempting to get as close as possible to interviewing it in the way I would any other source.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/finance/interview-ai-chatgpt-says-itself-135423708.html",
+      "originalUrl": "https://www.aol.com/finance/interview-ai-chatgpt-says-itself-135423708.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-05T07:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-05-ai-art-accidentally-wins-destiny-2s-art-of-the-week-fanart-contest.md",
       "title": "AI Art Accidentally Wins Destiny 2’s ‘Art Of The Week’ Fanart Contest",
       "excerpt": "The Destiny 2 community has run into a situation where a piece of AI art actually won one of the slot’s in Bungie’s “Art of the Week” contest in the TWAB.",
@@ -988,40 +1022,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-04-how-smart-are-ai-chips-really.md",
-      "title": "How Smart Are AI Chips, Really?",
-      "excerpt": "But this is Hackaday, so we’re also going to dig into the guts of some AI chips, including the Kendryte K210 and see how the hardware of today fits into our Glorious Future. Targeted towards ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
-      "originalUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

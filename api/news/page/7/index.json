@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-03-25-can-pepper-content-save-the-creator-economy-from-the-ai-monster.md",
+      "title": "Can Pepper Content Save The Creator Economy From The AI Monster?",
+      "excerpt": "Pepper Content's new content marketing platform incorporates generative AI rather than seeking to compete with it",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidprosser/2023/03/24/can-pepper-content-save-the-creator-economy-from-the-ai-monster/",
+      "originalUrl": "https://www.forbes.com/sites/davidprosser/2023/03/24/can-pepper-content-save-the-creator-economy-from-the-ai-monster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641b4ba8bc846d86cd161d37/0x0.jpg?format=jpg&crop=1616,757,x0,y282,safe&width=1200",
+          "width": 1200,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2023/03/24/can-pepper-content-save-the-creator-economy-from-the-ai-monster/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/03/24/can-pepper-content-save-the-creator-economy-from-the-ai-monster/amp/",
+      "publishedDateTime": "2023-03-24T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-24-trump-arrested-putin-jailed-fake-ai-images-spread-online.md",
       "title": "Trump arrested? Putin jailed? Fake AI images spread online",
       "excerpt": "He even stated clearly in his Twitter thread that the images were AI-generated. Still, the images were enough ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging ...",
@@ -1131,58 +1182,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-for-smarter-robots-just-add-humans.md",
-      "title": "For Smarter Robots, Just Add Humans",
-      "excerpt": "OpenAI’s COO and manager of the OpenAI Startup Fund says. For humans to help robots with teleoperation, AI might also need to be developed to ease the collaboration between person and machine. Chelsea Finn, an assistant professor at UC Berkeley ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/fast-forward-for-smarter-robots-just-add-humans/",
-      "originalUrl": "https://www.wired.com/story/fast-forward-for-smarter-robots-just-add-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/641b9a323491f4dd17124cb5/master/pass/Sanctuary-AI-Robot-Still-Fast-Foward-Business.jpg",
-          "width": 2143,
-          "height": 1210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/fast-forward-for-smarter-robots-just-add-humans/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/fast-forward-for-smarter-robots-just-add-humans/amp",
-      "publishedDateTime": "2023-03-23T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

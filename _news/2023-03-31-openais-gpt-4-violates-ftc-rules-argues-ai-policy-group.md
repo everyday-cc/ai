@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/ai/openais-gpt-4-violates-ftc-rules-argues-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/openais-gpt-4-violates-ftc-rules-argues-ai-policy-group/amp/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: VentureBeat
@@ -24,40 +24,26 @@ topics:
   - AI
 
 related:
-  - title: "OpenAI's ambitious master plan to conquer rivals like Google in the AI race hinges on pure speed"
-    excerpt: "The chatbot kickstarted an avalanche of discussion around the future of work, AI ethics, and changing the dynamic of the tech workforce. This wasn't always the case. OpenAI was founded in 2015 by current CEO Sam Altman, Elon Musk, and others. Musk left the ..."
-    publishedDateTime: 2023-03-27T21:20:00Z
-    webUrl: "https://www.businessinsider.com/openai-secret-weapon-ai-race-google-is-speed-2023-3"
-    ampWebUrl: "https://www.businessinsider.com/openai-secret-weapon-ai-race-google-is-speed-2023-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-secret-weapon-ai-race-google-is-speed-2023-3?amp"
+  - title: "FTC should investigate OpenAI and halt GPT-4 releases, AI research group says"
+    excerpt: "A nonprofit AI research group wants the Federal Trade Commission to investigate OpenAI, Inc. and halt releases of GPT-4. OpenAI \"has released a product GPT-4 for the consumer market that is biased, deceptive,"
+    publishedDateTime: 2023-03-30T19:00:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/03/ftc-should-investigate-openai-and-halt-gpt-4-releases-ai-research-group-says/"
+    ampWebUrl: "https://arstechnica.com/tech-policy/2023/03/ftc-should-investigate-openai-and-halt-gpt-4-releases-ai-research-group-says/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/03/ftc-should-investigate-openai-and-halt-gpt-4-releases-ai-research-group-says/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
-    images:
-      - url: "https://i.insider.com/6421fe9a8c966b0019498dd8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "AI ethics group asks FTC to investigate OpenAI"
-    excerpt: "The Center for AI and Digital Policy, or CAIDP, made the request in an FTC complaint released today. At the center of the complaint is the GPT-4 model that OpenAI debuted earlier this month. GPT-4 is the startup’s most advanced neural network to date."
-    publishedDateTime: 2023-03-30T19:02:00Z
-    webUrl: "https://siliconangle.com/2023/03/30/ai-ethics-group-asks-ftc-investigate-openai/"
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 64
+  - title: "Lilt Introduces Contextual AI Engine for Translation; Outperforms GPT-4"
+    excerpt: "Lilt launches Contextual AI Engine which has a higher accuracy than Google Translate and GPT-4 for many enterprise contexts."
+    publishedDateTime: 2023-03-29T13:00:00Z
+    webUrl: "https://slator.com/lilt-introduces-contextual-ai-engine-translation-outperforms-gpt-4/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-  - title: "Alphabet’s Google and DeepMind Pause Grudges, Join Forces to Chase OpenAI"
-    excerpt: "OpenAI’s success in overtaking Google with an artificial intelligence–powered chatbot has achieved what seemed impossible in the past: It has forced the two AI research teams within Google’s parent, Alphabet,"
-    publishedDateTime: 2023-03-29T23:19:00Z
-    webUrl: "https://www.theinformation.com/articles/alphabets-google-and-deepmind-pause-grudges-join-forces-to-chase-openai"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 33
+      name: Slator
+      domain: slator.com
+    quality: 19
   - title: "GPT-4 draws more heat as AI advocates file FTC complaint against OpenAI"
     excerpt: "The office includes data scientists, data engineers, AI specialists and design ethics specialists, Khan said during the Monday summit. Within the first few days of posting job openings, the office received between 300-400 applications. “We're also now ..."
     publishedDateTime: 2023-03-31T12:55:00Z

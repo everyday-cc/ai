@@ -84,6 +84,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "AI ethics group asks FTC to investigate OpenAI"
+    excerpt: "The Center for AI and Digital Policy, or CAIDP, made the request in an FTC complaint released today. At the center of the complaint is the GPT-4 model that OpenAI debuted earlier this month. GPT-4 is the startup’s most advanced neural network to date."
+    publishedDateTime: 2023-03-30T19:02:00Z
+    webUrl: "https://siliconangle.com/2023/03/30/ai-ethics-group-asks-ftc-investigate-openai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
   - title: "AI Ethics: Not Eventually, but Now"
     excerpt: "As Moore’s law makes way for specially designed AI acceleration, ethics research is becoming increasingly important. With many technologies trained to learn from experience, such research is not only relevant in anticipation of some distant dystopian future — it is vital today,"
     publishedDateTime: 2023-03-30T18:36:00Z
@@ -104,8 +113,8 @@ related:
     quality: 12
   - title: "CSI and Hawk AI Partner To Release AI-Driven Solutions for Fraud and Anti-Money Laundering"
     excerpt: "CSI, a leading provider of end-to-end fintech and regtech solutions, announced today it has partnered with Hawk AI, a leading global provider of anti-money laundering (AML) and fraud prevention technology for banks and payment companies,"
-    publishedDateTime: 2023-03-28T18:40:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/03/28/9784224.htm"
+    publishedDateTime: 2023-03-28T17:02:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/03/28/9784224.htm"
     type: article
     provider:
       name: TMCnet

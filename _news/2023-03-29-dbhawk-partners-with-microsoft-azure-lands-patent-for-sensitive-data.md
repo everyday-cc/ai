@@ -34,20 +34,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 64
-  - title: "Microsoft beefs up partner programs with AI and go-to-market differentiation"
-    excerpt: "The new capabilities embraced Microsoft's search engine Bing, Dynamics 365 Copilot, ChatGPT in Azure Open AI Service as well as a specialisation for partners for AI and machine learning in Azure. \"We believe AI will fundamentally change every software ..."
-    publishedDateTime: 2023-03-27T21:42:00Z
-    webUrl: "https://www.reseller.co.nz/article/706392/microsoft-beefs-up-partner-programs-with-ai-and-go-to-market-differentiation/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 51
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/nicole_dezen_microsoft.jpg"
-        width: 504
-        height: 315
-        isCached: true
   - title: "Microsoft is dominating the AI wars…for now"
     excerpt: "AI lead is far from guaranteed. When it comes to generative AI, Microsoft is dominating the conversation. After pouring billions into ChatGP"
     publishedDateTime: 2023-03-29T23:09:00Z
@@ -56,6 +42,15 @@ related:
     provider:
       name: AOL
       domain: aol.com
+    quality: 34
+  - title: "MTN to migrate OSS/BSS to Microsoft Azure"
+    excerpt: "South Africa-based MTN has joined the growing list of telcos that are making the move to public cloud. The company on Monday announced it has embarked on a programme of work to migrate various systems to Microsoft Azure."
+    publishedDateTime: 2023-03-30T15:38:00Z
+    webUrl: "https://telecoms.com/520948/mtn-to-migrate-oss-bss-to-microsoft-azure/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
     quality: 34
   - title: "Google and Replit’s Quest to Become the Next Copilot X"
     excerpt: "Google Cloud’s partnership with Replit will strengthen its hold in the developer environment space, and compete with Microsoft."

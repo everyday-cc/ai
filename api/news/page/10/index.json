@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-03-22-biologists-say-deep-learning-is-revolutionizing-pace-of-innovation.md",
+      "title": "Biologists Say Deep Learning Is Revolutionizing Pace of Innovation",
+      "excerpt": "There’s another facet of the new AI revolution, a marriage of deep learning and biology, that’s at least as important, but far less widely understood. The fascination with generative AI exploded late last November with the release of OpenAI’s text ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/biologists-say-deep-learning-is-revolutionizing-pace-of-innovation-eeb79c1b",
+      "originalUrl": "https://www.wsj.com/articles/biologists-say-deep-learning-is-revolutionizing-pace-of-innovation-eeb79c1b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-718324/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-github-unveils-copilot-x-the-future-of-ai-powered-software-development.md",
       "title": "GitHub unveils Copilot X: The future of AI-powered software development",
       "excerpt": "GitHub is introducing Copilot X, adopting the latest OpenAI GPT-4 model and expanding Copilot's capabilities with chat and pull requests.",
@@ -150,6 +202,41 @@
       ]
     },
     {
+      "path": "_news/2023-03-22-microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more.md",
+      "title": "Microsoft unveils plans to use AI feature in Outlook, Excel and more",
+      "excerpt": "On the other hand, AI critics worry it will bring more harm ... and perform a wide range of language-related tasks such as language translation, text summarization [and] sentiment analysis.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.koin.com/reviews/br/electronics-br/computer-components-br/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/",
+      "originalUrl": "https://www.koin.com/reviews/br/electronics-br/computer-components-br/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KOIN 6",
+        "domain": "koin.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-scientists-at-deepmind-and-meta-press-fusion-of-ai-biology.md",
       "title": "Scientists at DeepMind and Meta Press Fusion of AI, Biology",
       "excerpt": "AlphaFold was a huge advance in protein structure prediction…which led to a whole new wave of using deep learning,” says computational biologist David Baker of the University of Washington.",
@@ -241,50 +328,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more.md",
-      "title": "Microsoft unveils plans to use AI feature in Outlook, Excel and more",
-      "excerpt": "Microsoft announced it would also use an AI large language model in its Microsoft 365 products. Here are the best ones on the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wtnh.com/reviews/br/electronics-br/computer-components-br/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/",
-      "originalUrl": "https://www.wtnh.com/reviews/br/electronics-br/computer-components-br/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wtnh.com/wp-content/uploads/sites/100/2023/03/computer-software-best-microsoft-365-products-2.jpg?w=1280",
-          "width": 760,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wtnh.com/reviews/br/electronics-br/computer-components-br/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/",
-      "cdnAmpWebUrl": "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/reviews/br/electronics-br/computer-components-br/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/",
-      "publishedDateTime": "2023-03-22T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTNH",
-        "domain": "wtnh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -1128,58 +1171,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-everything-everywhere-is-going-to-change-all-at-once.md",
-      "title": "Everything, Everywhere Is Going to Change All at Once",
-      "excerpt": "Consider just one example that most people probably haven’t even heard of — the way DeepMind, an A.I. lab owned by Google parent Alphabet, recently used its AlphaFold A.I. system to solve one of the most wicked problems in science — at a speed and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/03/21/opinion/artificial-intelligence-chatgpt.html",
-      "originalUrl": "https://www.nytimes.com/2023/03/21/opinion/artificial-intelligence-chatgpt.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/03/21/multimedia/21Friedman-hkzp/21Friedman-hkzp-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/03/21/opinion/artificial-intelligence-chatgpt.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/21/opinion/artificial-intelligence-chatgpt.amp.html",
-      "publishedDateTime": "2023-03-21T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

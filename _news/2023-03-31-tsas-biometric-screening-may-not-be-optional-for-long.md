@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "NADRA upgrades Pak-ID biometric app with document recognition and digital signatures"
-    excerpt: "The new version of Pak-ID identifies what kind of document is being scanned with an intelligent, real-time document identification module."
-    publishedDateTime: 2023-03-27T19:22:00Z
-    webUrl: "https://www.biometricupdate.com/202303/nadra-upgrades-pak-id-biometric-app-with-document-recognition-and-digital-signatures"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 17
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/12/17150652/smartphone-biometric-identity-and-document-verification.jpg"
-        width: 940
-        height: 627
-        isCached: true
   - title: "Voice Biometrics Group academic partnership leads to IngenID launch"
     excerpt: "IngenID Biometric Innovations is an offshoot of Voice Biometrics Group, which offers SaaS for speaker verification purposes."
     publishedDateTime: 2023-03-28T21:51:00Z

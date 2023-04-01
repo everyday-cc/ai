@@ -2,6 +2,58 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2023-02-09-asian-ipos-in-us-poised-to-increase-as-regions-economies-recover-nasdaq-vice-chairman-says.md",
+      "title": "Asian IPOs In U.S. Poised To Increase As Region’s Economies Recover, Nasdaq Vice Chairman Says",
+      "excerpt": "This week, Hesai Group, a supplier of sensors for self-driving vehicles whose investors include Baidu and smartphone maker Xiaomi, is expected to list. So far, there have been four other international listings on the Nasdaq this year, three of which were ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/russellflannery/2023/02/09/asia-ipos-in-us-poised-to-increase-as-regions-economies-recover-nasdaq-vice-chairman-says/",
+      "originalUrl": "https://www.forbes.com/sites/russellflannery/2023/02/09/asia-ipos-in-us-poised-to-increase-as-regions-economies-recover-nasdaq-vice-chairman-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63e473e2f63d34b21b78da06/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T20:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-driverless-cars-available-for-rides-around-the-site-of-super-bowl-57-in-glendale.md",
       "title": "Driverless cars available for rides around the site of Super Bowl 57 in Glendale",
       "excerpt": "One unique option: driverless cars! The alternative is growing in popularity, and also highlights the big tech industry in the Phoenix region. Action News' Christie Ileto takes us along for a ride.",
@@ -1013,58 +1065,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-dont-roll-your-eyes-ai-isnt-just-another-doomed-tech-fad.md",
-      "title": "Don’t roll your eyes — AI isn’t just another doomed tech fad",
-      "excerpt": "Companies like Google and Microsoft are simply pulling back the curtain on the AI that’s been powering their services for several years ... a professor and researcher of cognitive computer science at UC Berkely, revealed half a dozen inputs that would ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/ai-wont-fade-away-like-a-tech-fad/",
-      "originalUrl": "https://www.digitaltrends.com/computing/ai-wont-fade-away-like-a-tech-fad/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/01/chatgpt-life-after-death.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/ai-wont-fade-away-like-a-tech-fad/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/ai-wont-fade-away-like-a-tech-fad/?amp",
-      "publishedDateTime": "2023-02-08T12:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

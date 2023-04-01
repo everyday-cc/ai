@@ -2,6 +2,49 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2023-03-02-how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast.md",
+      "title": "How will artificial intelligence reshape our world? | The Ethical Life podcast",
+      "excerpt": "The hosts discuss the promises and pitfalls of this new technology, which is nearly certain to change the way we interact with each other.",
+      "sourceUrl": null,
+      "webUrl": "https://trib.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_4f0cd688-a294-5d1b-aad8-c741806100e4.html",
+      "originalUrl": "https://trib.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_4f0cd688-a294-5d1b-aad8-c741806100e4.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/4/f0/4f0cd688-a294-5d1b-aad8-c741806100e4/63ff740138a57.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
+          "width": 1196,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T15:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Casper Star-Tribune",
+        "domain": "trib.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-02-first-robotics-competition-returns-to-utah-local-students-take-part.md",
       "title": "FIRST Robotics Competition returns to Utah; local students take part",
       "excerpt": "This week, high school students from around the nation will go head-to-head in the Utah Regional FIRST Robotics Competition at the Maverik Center.",
@@ -1165,58 +1208,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-examining-the-artificial-intelligence-and-machine-learning-market-from-2023-opportunities-and-challenges-ahead.md",
-      "title": "Examining the Artificial Intelligence and Machine Learning Market from 2023-Opportunities and Challenges Ahead",
-      "excerpt": "Artificial Intelligence and Machine Learning Market Size 2023 | New Report (132 Pages) | Information Technology | In",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/examining-the-artificial-intelligence-and-machine-learning-market-from-2023-opportunities-and-challenges-ahead-2023-03-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/examining-the-artificial-intelligence-and-machine-learning-market-from-2023-opportunities-and-challenges-ahead-2023-03-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-28T21:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
