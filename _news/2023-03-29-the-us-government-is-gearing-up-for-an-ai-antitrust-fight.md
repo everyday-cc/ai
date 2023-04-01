@@ -7,8 +7,8 @@ originalUrl: "https://www.theverge.com/2023/3/28/23660101/ai-competition-ftc-doj
 webUrl: "https://www.theverge.com/2023/3/28/23660101/ai-competition-ftc-doj-lina-khan-jonathan-kanter-antitrust-summit"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Verge
@@ -28,17 +28,22 @@ images:
     isCached: true
 
 related:
-  - title: "AI Taking Flight in the U.S. Air Force"
-    excerpt: "Tesla is already moving to a full self-driving mode, and Waymo is preparing for new driverless prototypes ... became the first military aircraft to fly with artificial intelligence as its copilot. The copilot is named ARTUµ, the algorithm behind the ..."
-    publishedDateTime: 2023-03-27T18:12:00Z
-    webUrl: "https://www.nasdaq.com/articles/ai-taking-flight-in-the-u.s.-air-force"
-    ampWebUrl: "https://www.nasdaq.com/articles/ai-taking-flight-in-the-u.s.-air-force?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-taking-flight-in-the-u.s.-air-force?amp"
+  - title: "The Federal Government’s 'Blueprint’ for an AI Bill of Rights"
+    excerpt: "Lensa AI received criticism for renderings considered biased on the basis of race and gender. ChatGPT has also been accused of responses perceived to be biased. Facebook parent company ... is advancing scientific research, but is it warranted if the ..."
+    publishedDateTime: 2023-03-31T21:16:00Z
+    webUrl: "https://fedtechmagazine.com/article/2023/03/federal-governments-blueprint-ai-bill-rights"
+    ampWebUrl: "https://fedtechmagazine.com/article/2023/03/federal-governments-blueprint-ai-bill-rights?amp"
+    cdnAmpWebUrl: "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2023/03/federal-governments-blueprint-ai-bill-rights?amp"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
+      name: https//fedtechmagazine.com
+      domain: fedtechmagazine.com
+    quality: 59
+    images:
+      - url: "https://fedtechmagazine.com/sites/fedtechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202303/GettyImages-1368016158%20copy.jpg?itok=Wr8wcLMt"
+        width: 1440
+        height: 500
+        isCached: true
 
 secured: "MK4cf6+p3uA3fFfrjfS+KO++ghRG4U0ICi6fY5/SvHe24ve7aN2zuwRSbTKIGRs1C3keIrKAIK6OziY6C+uaAMpQvdvSP5SUTYNomtEDgwMJJUyluMi4H0voYMcDylf7nEUcbN/94dr4YftiMefy5YySH9Q7jbb3G/x+GFjxzQ8oy8XCFT1dlOtRM0eSQgSvHMhas4EzWbldzdzDEkFwylbrU5BVxw1jPB99R+cJo3nQTjUMtxV4+Oll4ls/xbhA46DqvYRZMkVWlDzyTXBeDM/4Lk5qu1+Id+EzzcdZ62BA19h1MbgsW2La0eQsONVdXeE2CRaWCELlAc1PEbhbh5XFPDr73B2VyxueduHTNyM=;FxssurYwfLObyfNzrxAIXg=="
 ---

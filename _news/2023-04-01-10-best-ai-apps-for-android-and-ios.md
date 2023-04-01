@@ -42,15 +42,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Artificial intelligence (AI) in Supply Chain and Logistics Market Size, Share and Forecast 2031"
-    excerpt: "Also, it splits Artificial intelligence (AI) in Supply Chain and Logistics market Segmentation by Type and by Applications to fully and deeply research and reveal market profile and prospects. Increasing use of is expected to drive the growth of the ..."
-    publishedDateTime: 2023-03-27T18:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-size-share-and-forecast-2031-2023-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
   - title: "7 Best AI Stocks Of 2023"
     excerpt: "Artificial intelligence (AI) is suddenly everywhere. You can thank the release of ChatGPT in November 2022 for setting off the current wave of interest in AI applications. The startup behind ChatGPT is called OpenAI,"
     publishedDateTime: 2023-03-28T18:57:00Z

@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Amazon, Microsoft and Google's AI armies are huge, yet struggling to innovate"
-    excerpt: "New data show Amazon, Microsoft and Google have thousands of AI specialists, but they’re still playing catch-up to a tiny team at OpenAI."
-    publishedDateTime: 2023-03-27T17:47:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/amazon-microsoft-and-google-s-ai-armies-are-huge-yet-struggling-to-innovate-11679897432675.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/amazon-microsoft-and-google-s-ai-armies-are-huge-yet-struggling-to-innovate/amp-11679897432675.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/amazon-microsoft-and-google-s-ai-armies-are-huge-yet-struggling-to-innovate/amp-11679897432675.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 73
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/03/27/600x338/ai_1655840015732_1679897559934_1679897559934.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Google Partners with AI Startup Replit to Take on Microsoft’s GitHub"
     excerpt: "Alphabet Inc.’s Google is striking a partnership to combine its artificial intelligence language models with software from startup Replit Inc. that helps ... will rely on Google’s language-generation AI to improve its ability to suggest blocks ..."
     publishedDateTime: 2023-03-28T13:19:00Z
@@ -72,15 +56,29 @@ related:
         width: 504
         height: 315
         isCached: true
-  - title: "Microsoft Pushes Open Source 'Semantic Kernel' for AI LLM-Backed Apps"
-    excerpt: "Since recently introducing the open source Semantic Kernel to help developers use AI large language models (LLMs) in their apps, Microsoft has been busy improving it, publishing new guidance on how to use it and touting its capabilities."
-    publishedDateTime: 2023-03-30T22:38:00Z
-    webUrl: "https://visualstudiomagazine.com/articles/2023/03/30/semantic-kernel.aspx"
+  - title: "Google and Replit’s Quest to Become the Next Copilot X"
+    excerpt: "Google Cloud’s partnership with Replit will strengthen its hold in the developer environment space, and compete with Microsoft."
+    publishedDateTime: 2023-03-30T10:44:00Z
+    webUrl: "https://analyticsindiamag.com/google-and-replits-quest-to-become-the-next-copilot-x-2/"
     type: article
     provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
-    quality: 36
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/google-microsoft-ciode-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Google Cloud inks AI partnership with developer tooling startup Replit"
+    excerpt: "Google LLC’s cloud business today announced a partnership with Replit Inc., the creator of a popular coding platform used by more than 20 million developers. The partnership will see Replit use Google’s large language models to help developers write software faster."
+    publishedDateTime: 2023-03-28T21:03:00Z
+    webUrl: "https://siliconangle.com/2023/03/28/google-cloud-inks-ai-partnership-developer-tooling-startup-replit/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 17
   - title: "QualityKiosk announces a Strategic Partnership with Microsoft Power Platform"
     excerpt: "Founded in 1975, Microsoft Corporation is one of the largest American multinational technology corporations producing computer software, consumer electronics, personal computers, and related services. With their Power Platform, Microsoft is encouraging ..."
     publishedDateTime: 2023-03-28T12:08:00Z

@@ -51,15 +51,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Artificial intelligence (AI) in Supply Chain and Logistics Market Size, Share and Forecast 2031"
-    excerpt: "Also, it splits Artificial intelligence (AI) in Supply Chain and Logistics market Segmentation by Type and by Applications to fully and deeply research and reveal market profile and prospects. Increasing use of is expected to drive the growth of the ..."
-    publishedDateTime: 2023-03-27T18:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-size-share-and-forecast-2031-2023-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
 
 secured: "8Kfmuuqq6IpgJrMPtV7WBF4uWEhwReYL6INYY6WSKgkNVqcHfwdf9zK7J0UqyVpfqt1sVcSZaCwE+p/2lmtsGmIkoCckhXqouFaQ3ttoMuyAiTxfVMA8dDSI86Gkx8hMYUcXT2EIEVIPXwldvyl9wlneninwUdG3/EKGYN7Mqfy4H4EfPfLMIc5CT4Pz8JtKKRCeNZ5S2ag8TcGfqyqIRi1cPDk66U+agwZMl7FytPskikp2chV48C3o2Yu55WB4NHysFVqzAYFvzUm4/zjmZTzgrdbtjf1w2L//x2ZuEyPHqBWhhR6AVhFKkp9HFmJP1OS4ZvAtRc+YVGjAJu5Wzobz/mOzj1tZrIwujOWgTvi16ojzHPczLOrhju/xQih4UuuChCqbbQvg3jQ6Lqy7ALreqPsc+edh7IiGhlDGKcOCnPmZLIpjVwfWzHyv81cu7/m5yWXhnGlmml1eEdzNDl+7DC5wmdTPjCZOi3sqYCrf2uwwL7FHOoskggh+B6omiBgMSFHPsrh5aibEhviMcQ==;5oiMlnoOlwRAiz2i3iezZw=="
 ---

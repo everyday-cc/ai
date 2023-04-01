@@ -2,6 +2,188 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2023-01-09-heres-what-you-need-to-know-about-artificial-intelligence.md",
+      "title": "Here’s what you need to know about artificial intelligence",
+      "excerpt": "AI is broadly defined in 2 categories: artificial narrow intelligence (ANI) and artificial general intelligence (AGI). AGI does not yet exist",
+      "sourceUrl": null,
+      "webUrl": "https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/heres-what-you-need-to-know-about-artificial-intelligence/",
+      "originalUrl": "https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/heres-what-you-need-to-know-about-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T00:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Startup Daily",
+        "domain": "startupdaily.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-09-forecast-2028-for-the-deep-learning-in-ct-scanners-market-in-terms-of-size-returns-gross-margin-and-market-share.md",
+      "title": "Forecast 2028 for the Deep Learning in CT Scanners Market in terms of size, returns, gross margin, and market share",
+      "excerpt": "Deep Learning in CT Scanners Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/forecast-2028-for-the-deep-learning-in-ct-scanners-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/forecast-2028-for-the-deep-learning-in-ct-scanners-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-08T21:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-09-healthcare-decision-support-ibm-watson-forecast-for-2028-market-2023-global-industry-trends-share-size-growth-analysis-demand.md",
+      "title": "Healthcare Decision Support & IBM Watson Forecast for 2028, Market 2023, Global Industry Trends, Share, Size, Growth, Analysis, Demand",
+      "excerpt": "Healthcare Decision Support and IBM Watson Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-decision-support-ibm-watson-forecast-for-2028-market-2023-global-industry-trends-share-size-growth-analysis-demand-2023-01-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-decision-support-ibm-watson-forecast-for-2028-market-2023-global-industry-trends-share-size-growth-analysis-demand-2023-01-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-08T21:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-09-the-expanding-ease-and-utility-of-text-analytics-and-natural-language-processing.md",
+      "title": "The expanding ease and utility of text analytics and natural language processing",
+      "excerpt": "Statistical model techniques also produce the benefit of accelerating tradi- tional natural language processing (NLP) methods to reduce their time-to-value. Conversely, pairing these conventional methods with their newer statistical counterparts heightens ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=156495",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=156495",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/150767-JH_123.jpg-ORG.jpg",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-08T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-09-deep-learning-system-market-2023-statistics-industry-share-latest-trends-growth-drivers-size-estimate-and-forecast-till-2028.md",
       "title": "Deep Learning System Market 2023 Statistics, Industry Share, Latest Trends, Growth Drivers, Size Estimate and Forecast till 2028",
       "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Deep Learning System",
@@ -923,169 +1105,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-07-secure-voting-app-driverless-tractors-lead-top-innovations-unveiled-at-ces.md",
-      "title": "Secure voting app, driverless tractors lead top innovations unveiled at CES",
-      "excerpt": "Honorees and “best of innovation” winners submit their products or services to be judged, and the awards are broken down into 28 product categories such as artificial intelligence, fitness and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reviewjournal.com/business/conventions/ces/secure-voting-app-driverless-tractors-lead-top-innovations-unveiled-at-ces-2707199/",
-      "originalUrl": "https://www.reviewjournal.com/business/conventions/ces/secure-voting-app-driverless-tractors-lead-top-innovations-unveiled-at-ces-2707199/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reviewjournal.com/wp-content/uploads/2023/01/17325179_web1_web1-IMG-1035.jpg?w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.reviewjournal.com/business/conventions/ces/secure-voting-app-driverless-tractors-lead-top-innovations-unveiled-at-ces-2707199/amp/",
-      "cdnAmpWebUrl": "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/conventions/ces/secure-voting-app-driverless-tractors-lead-top-innovations-unveiled-at-ces-2707199/amp/",
-      "publishedDateTime": "2023-01-06T18:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Las Vegas Review-Journal",
-        "domain": "reviewjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-07-cognitive-behavioural-therapy-services.md",
-      "title": "Cognitive behavioural therapy services",
-      "excerpt": "We'd also like to use analytics cookies. These send information about how our site is used to services called Adobe Analytics, Hotjar and Google Analytics. We use this information to improve our site. Let us know if this is OK. We'll use a cookie to save ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nhs.uk/services/hospital/priory-hospital-bristol/NTN38/departments/SRV0019/cognitive-behavioural-therapy-services/",
-      "originalUrl": "https://www.nhs.uk/services/hospital/priory-hospital-bristol/NTN38/departments/SRV0019/cognitive-behavioural-therapy-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-06T17:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHS Choices",
-        "domain": "www.nhs.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-07-generative-ai-startups-were-already-hot-with-vcs-chatgpt-poured-gasoline-onto-the-fire.md",
-      "title": "Generative AI startups were already hot with VCs. ChatGPT poured gasoline onto the fire.",
-      "excerpt": "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Generative AI, the technology that encompasses ChatGPT, DALL-E, and Lensa AI's avatar service, went bonkers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chatgpt-vc-funding-generative-ai-startup-market-2023-1",
-      "originalUrl": "https://www.businessinsider.com/chatgpt-vc-funding-generative-ai-startup-market-2023-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-06T14:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-07-deep-learning-algorithm-can-hear-alcohol-in-voice.md",
-      "title": "Deep Learning Algorithm Can Hear Alcohol in Voice",
-      "excerpt": "New AI technology can instantly determine whether a person is above the legal alcohol limit by analyzing a 12-second clip of their voice.",
-      "sourceUrl": null,
-      "webUrl": "https://neurosciencenews.com/ai-alcohol-voice-22191/",
-      "originalUrl": "https://neurosciencenews.com/ai-alcohol-voice-22191/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://neurosciencenews.com/files/2023/01/ai-alcohol-voice-neurosinces-public.jpg",
-          "width": 770,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-06T14:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neuroscience News",
-        "domain": "neurosciencenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

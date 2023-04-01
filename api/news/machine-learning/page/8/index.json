@@ -2,6 +2,59 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-01-31-citizen-data-science-and-automation-at-att.md",
+      "title": "Citizen Data Science And Automation At AT&T",
+      "excerpt": "AT&T has dramatically improved its productivity and effectiveness at data science and automation by engaging citizen development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2023/01/30/citizen-data-science-and-automation-at-att/",
+      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2023/01/30/citizen-data-science-and-automation-at-att/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d82b3dad580c6ca9787f4b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2023/01/30/citizen-data-science-and-automation-at-att/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2023/01/30/citizen-data-science-and-automation-at-att/amp/",
+      "publishedDateTime": "2023-01-30T11:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-31-will-machine-learning-help-us-find-extraterrestrial-life.md",
       "title": "Will machine learning help us find extraterrestrial life?",
       "excerpt": "When pondering the probability of discovering technologically advanced extraterrestrial life, the question that often arises is, \"if they're out there, why haven't we found them yet?\" And often, the response is that we have only searched a tiny portion of the galaxy.",
@@ -1344,49 +1397,6 @@
       "provider": {
         "name": "Santa Barbara Independent",
         "domain": "independent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-deep-learning-based-ai-system-helps-infer-and-predict-indonesian-throughflow.md",
-      "title": "Deep learning-based AI system helps infer and predict Indonesian throughflow",
-      "excerpt": "Scientists from the Institute of Oceanology of the Chinese Academy of Sciences (IOCAS) and Nanjing University of Information Science and Technology have successfully constructed an inference and prediction system of the Indonesian Throughflow (ITF) by using a deep-learning method and realized the valid prediction of the ITF transport.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.html",
-      "originalUrl": "https://phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/deep-learning-based-ai.jpg",
-          "width": 1372,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.amp",
-      "publishedDateTime": "2023-01-19T06:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null

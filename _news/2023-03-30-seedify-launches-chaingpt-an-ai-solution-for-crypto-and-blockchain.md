@@ -20,17 +20,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Illia Polosukhin: Building Near's Blockchain, Embedding AI"
-    excerpt: "The co-founder, a speaker at CoinDesk’s Consensus festival, said Near is taking on Ethereum and already boasts 25 million accounts and 446,000 daily transactions."
-    publishedDateTime: 2023-03-27T17:30:00Z
-    webUrl: "https://www.coindesk.com/consensus-magazine/2023/03/27/illia-polosukhin-future-of-near/"
-    type: article
-    provider:
-      name: CoinDesk
-      domain: coindesk.com
-    quality: 17
-
 secured: "gbCzeh+L9UT5q9kFC9EGIODeSuhs41IB9WiqodaSQ5uhtzDo4kAS360XjXUldG96qUW1uSIoKBrrrenDdcVEM7Lr6r3UlUsltRgn3PjtaDGAIsgr52DCG0ByCUqLztVtIt3kLVbwn7Z84OPDT9mhmqQKL+W1gb8eROFhvf5RC/Hb+63ShoG6oVmGWV85y2Rr7aLip5SaRbOTLrLp3CznmDEOKABPgz6rl7HH2bJAcGYhEv46NNe8uheAiDplAFYGSemNHLpGUG/GNFvdsxEXJzfDH+/QF+QsY9s3Koo4t6g9HKAkpX6RaG+wXHTgBwnhNt9P7+cxzPPwbp1qJGuyqMi7Mz7qMiD0UlVIW6pfe8UxEKEyITv2EuIib3jumwzDrSpFtCN4WBOd8zeHza/JGosQE3Y4iWCh/2+9IR4GSBUNKBp9+MTwFSalMaAM4TEwaxuzypbiT/NIAMst72owcxm4q3Dnz5p83p6skNO3kUzoJINBRo37BWb1HP45wbMJqCtX4+55eTPYsMBRsK6Y0A==;vimcZW0hkkgwP7xCH9FKcw=="
 ---
 

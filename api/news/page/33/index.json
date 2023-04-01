@@ -2,6 +2,194 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2023-03-03-chinese-automakers-to-participate-in-baidu-ernie-bot-ecosystem.md",
+      "title": "Chinese automakers to participate in Baidu Ernie Bot ecosystem",
+      "excerpt": "Several Chinese automakers, including Jidu Auto, Geely Auto, and Great Wall Motor, have joined Baidu's ChatGPT-style Ernie Bot ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20230302PD214/ai-autonomous-car-baidu-chatgpt-china-chinese-automakers-ernie-bot-geely-auto-great-wall-motor-jidu-auto-smart-car.html",
+      "originalUrl": "https://www.digitimes.com/news/a20230302PD214/ai-autonomous-car-baidu-chatgpt-china-chinese-automakers-ernie-bot-geely-auto-great-wall-motor-jidu-auto-smart-car.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20230302pd214_files/2_2b.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T17:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-ford-launches-new-company-to-focus-on-driver-assist-latitude-ai.md",
+      "title": "Ford Launches New Company To Focus On Driver Assist, Latitude AI",
+      "excerpt": "After announcing the shutdown of Argo AI last fall, Ford hired more than 500 engineers from the automated driving company and they will now form the core of Latitude AI, a Pittsburgh based subsidiary focused on next generation driver assist systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/samabuelsamid/2023/03/02/ford-launches-new-company-to-focus-on-driver-assist-latitude-ai/",
+      "originalUrl": "https://www.forbes.com/sites/samabuelsamid/2023/03/02/ford-launches-new-company-to-focus-on-driver-assist-latitude-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64014707a6f1955734058201/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/samabuelsamid/2023/03/02/ford-launches-new-company-to-focus-on-driver-assist-latitude-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2023/03/02/ford-launches-new-company-to-focus-on-driver-assist-latitude-ai/amp/",
+      "publishedDateTime": "2023-03-02T16:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-deep-learningbased-method-can-accurately-detect-alzheimers-disease-based-on-data-from-brain-mris.md",
+      "title": "Deep learning–based method can accurately detect Alzheimer’s disease based on data from brain MRIs",
+      "excerpt": "\"Alzheimer's disease typically occurs in older adults, and so deep learning models often have difficulty in detecting the rarer early-onset cases,\" says Leming. \"We addressed this by making the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20230303/Deep-learninge28093based-method-can-accurately-detect-Alzheimere28099s-disease-based-on-data-from-brain-MRIs.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20230303/Deep-learninge28093based-method-can-accurately-detect-Alzheimere28099s-disease-based-on-data-from-brain-MRIs.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/2/Alzheimers_amyloid_plaque_-_Juan_Gaertner_9638f1223d534b518a192c8478871d65-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20230303/Deep-learninge28093based-method-can-accurately-detect-Alzheimere28099s-disease-based-on-data-from-brain-MRIs.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20230303/Deep-learninge28093based-method-can-accurately-detect-Alzheimere28099s-disease-based-on-data-from-brain-MRIs.aspx",
+      "publishedDateTime": "2023-03-02T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-startup-pr-professionals-should-be-jumping-on-the-ai-bandwagon.md",
+      "title": "Startup PR professionals should be jumping on the AI bandwagon",
+      "excerpt": "Camilla Tenn is senior public relations strategist at cross-border communications agency Eleven International. It’s only been a couple of months since OpenAI’s ChatGPT exploded into the public ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/03/startup-pr-professionals-should-be-jumping-on-the-ai-bandwagon/",
+      "originalUrl": "https://techcrunch.com/2023/03/03/startup-pr-professionals-should-be-jumping-on-the-ai-bandwagon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1349788289.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-03-tenstorrent-is-changing-the-way-we-think-about-ai-chips.md",
       "title": "Tenstorrent Is Changing the Way We Think About AI Chips",
       "excerpt": "“GPUs are essentially at the end of their evolutionary curve,” Ljubisa Bajic, CEO of AI chip startup Tenstorrent told Design News. “[GPUs] have done a great job; they’ve pushed the field to to the point where it is now. But in order to make any ...",
@@ -991,178 +1179,6 @@
       "topics": [
         "TensorFlow",
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night.md",
-      "title": "Athena AI, Teal 2 Drone: Computer Vision to Identify Weapons, Friends and Foes at Night",
-      "excerpt": "Red Cat Announces Athena AI as Computer Vision Partner for Teal 2 by DRONELIFE Staff Writer Ian M. Crosby Red Cat Holdings [NASDAQ:RCAT]  is held in the AdvisorShares Drone Technology ETF [NYSE ARCA:U",
-      "sourceUrl": null,
-      "webUrl": "https://dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/",
-      "originalUrl": "https://dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dronelife.com/wp-content/uploads/2023/03/Teal_2_View_1-e1677770216137.png",
-          "width": 612,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/amp/",
-      "cdnAmpWebUrl": "https://dronelife-com.cdn.ampproject.org/c/s/dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/amp/",
-      "publishedDateTime": "2023-03-02T06:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dronelife",
-        "domain": "dronelife.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-artificial-intelligence-ai-healthcare-market-to-hit-usd-9723bn-at-a-cagr-of-4051-percent-by-2029.md",
-      "title": "Artificial Intelligence (AI) Healthcare Market to hit USD 97.23Bn at a CAGR of 40.51 percent by 2029",
-      "excerpt": "Pune, March 02, 2023 (GLOBE NEWSWIRE) -- Maximize Market Research is a leading healthcare market research firm has published report on \"Artificial Intelligence (AI) Healthcare Market\". The report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/03/g31166902/artificial-intelligence-ai-healthcare-market-to-hit-usd-97-23bn-at-a-cagr-of-40-51-percent-by-2029",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/g31166902/artificial-intelligence-ai-healthcare-market-to-hit-usd-97-23bn-at-a-cagr-of-40-51-percent-by-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/31166902",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31166902",
-      "publishedDateTime": "2023-03-02T05:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-nvidias-latest-gpu-drivers-to-upscale-blurry-videos-via-ai.md",
-      "title": "Nvidia's Latest GPU Drivers To Upscale Blurry Videos Via AI",
-      "excerpt": "With RTX Video Super Resolution (VSR), GeForce RTX 40 and 30 Series GPU users can tap AI to upscale lower-resolution content up to 4K, matching their display resolution. The AI removes blocky compression artifacts and improves the video's sharpness and ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105693264/Nvidias-Latest-GPU-Drivers-To-Upscale-Blurry-Videos-Via-AI",
-      "originalUrl": "https://menafn.com/1105693264/Nvidias-Latest-GPU-Drivers-To-Upscale-Blurry-Videos-Via-AI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-03/02/I_5f244image_story.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-02T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-artificial-intelligence-stresses-out-twitter-ceo-elon-musk-it-seems-heres-why.md",
-      "title": "Artificial Intelligence Stresses Out Twitter CEO Elon Musk It Seems; Here’s Why",
-      "excerpt": "Musk stated, \"AI stresses me out,\" towards the close of a more than three-hour presentation to Tesla investors about business goals.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/48224/artificial-intelligence-stresses-out-twitter-ceo-elon-musk-it-seems-heres-why",
-      "originalUrl": "https://in.mashable.com/tech/48224/artificial-intelligence-stresses-out-twitter-ceo-elon-musk-it-seems-heres-why",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/ab6b18dc-4853-42b1-a619-0d6c9a24c3b1_9t6k.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/48224/artificial-intelligence-stresses-out-twitter-ceo-elon-musk-it-seems-heres-why?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/48224/artificial-intelligence-stresses-out-twitter-ceo-elon-musk-it-seems-heres-why?amp=1",
-      "publishedDateTime": "2023-03-02T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "in.mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

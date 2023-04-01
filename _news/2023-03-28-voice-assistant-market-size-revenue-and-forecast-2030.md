@@ -88,15 +88,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 33
-  - title: "2029 Forecast Voice Recognition Software Market by Growth Rate, Sparked Innovation with Top Players"
-    excerpt: "Mar 27, 2023 (The Expresswire) -- [105+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Voice Recognition Software Market” Size 2023 Key players Profiled in ..."
-    publishedDateTime: 2023-03-27T19:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2029-forecast-voice-recognition-software-market-by-growth-rate-sparked-innovation-with-top-players-2023-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 20
   - title: "Embedded Voice Recognition System Market - Global Industry Analysis, Size, Growth, Trends and Forecast 2023 to 2030 with an impacting CAGR 13.8%"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (Prime PR Wire via Comtex) -- This \"Embedded Voice Recognition System Market\" report offers details on the size, scope, and potential of the industry."
     publishedDateTime: 2023-03-28T09:38:00Z
@@ -111,15 +102,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2029 Forecast Data Science and Machine-Learning Platforms Market by Growth Rate, Sparked Innovation with Top Players"
-    excerpt: "Mar 27, 2023 (The Expresswire) -- [122+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Data Science and Machine-Learning Platforms Market” Size 2023 Key ..."
-    publishedDateTime: 2023-03-27T18:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2029-forecast-data-science-and-machine-learning-platforms-market-by-growth-rate-sparked-innovation-with-top-players-2023-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 11
 
 secured: "LOYDbviIBBwwwv/rvNEv2xCH7vdFR26XH3kGfFcMr1+Qog0MVSe2ECeQHeLpRvZWKuSQOBb7YacXNUB9o15Ze9HWVPkTsu1pi/i/W9J5bLFwZ50tVrK7/qtNH8BsW9dDdfUBX7Wtz8sq1EpHRzs65dfVOlKEhTmVlzsjyT0HyOxaUu68iHMYeujzXAe/xrBOs5j9jXOrQpIm3vhGHR6oOln3jyHvvRbcwIeDv1QD7WWaszLS3rsmvxSxpxQ44z32ODHnsAtUSLAV/RhIAxwKqvDBaZWqWMY4OfREQrwUAHlZiuWlwwvL+yEVHYl1bTOBMfEp9JmFxs0xgSi7p5/EXPru27I5n3w2tnu5JniXuY0=;bOTOF1HR7CGtQYerV9GT2Q=="
 ---

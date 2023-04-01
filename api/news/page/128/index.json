@@ -2,6 +2,178 @@
   "page": 128,
   "value": [
     {
+      "path": "_news/2022-12-10-your-selfies-are-helping-ai-learn-you-did-not-consent-to-this.md",
+      "title": "Your selfies are helping AI learn. You did not consent to this.",
+      "excerpt": "Sure, that drunk selfie you posted on Instagram might be personally embarrassing. Now imagine that selfie is also training fuel for an artificial intelligence system that helps put an innocent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2022/12/09/chatgpt-lensa-ai-ethics/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2022/12/09/chatgpt-lensa-ai-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6EP4XULR2FFXXDDBTNP4WFLFMM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T17:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-10-jumping-on-the-ai-self-portrait-trend-heres-what-cyber-security-experts-are-warning.md",
+      "title": "Jumping on the AI self-portrait trend? Here’s what cyber security experts are warning.",
+      "excerpt": "Lensa AI is the hottest app at the moment with over five million downloads already this month, using facial photos to create avatars. Cyber security experts are concerned that it could make it easier to find people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/jumping-on-the-ai-self-portrait-trend-here-s-what-cyber-security-experts-are-warning-156881477556",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/jumping-on-the-ai-self-portrait-trend-here-s-what-cyber-security-experts-are-warning-156881477556",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2022_12/1670630474538_nn_sse_ai_self_portraits_what_to_know_221209_1920x1080-0ne2qz.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo156881477556",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo156881477556",
+      "publishedDateTime": "2022-12-09T16:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-12-10-i-used-lensa-the-chart-topping-app-to-make-myself-a-masterpiece-digital-work-of-art-heres-how-it-works.md",
+      "title": "I used Lensa, the chart-topping app, to make myself a masterpiece digital work of art — here's how it works",
+      "excerpt": "So I downloaded Lensa, the wildly popular app behind the digital self-portraits, made with AI technology that renders selfies into artwork. Lensa first launched in 2018 as a photo editing tool ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/lensa-app-review-turn-selfies-digital-art-ai-technology-photos-2022-12",
+      "originalUrl": "https://www.businessinsider.com/lensa-app-review-turn-selfies-digital-art-ai-technology-photos-2022-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/638cf2a3e2929d001815165e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/lensa-app-review-turn-selfies-digital-art-ai-technology-photos-2022-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lensa-app-review-turn-selfies-digital-art-ai-technology-photos-2022-12?amp",
+      "publishedDateTime": "2022-12-09T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-10-remote-controlled-robot-toy-from-air-freshener-parts.md",
+      "title": "Remote-controlled Robot Toy From Air Freshener Parts",
+      "excerpt": "Using a pair of pencils for legs, he constructed his robot, “Limpy.” He removed a pair of motors and control board from an old toy, mounting it to his creation with a few strips of electrical ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2011/03/07/remote-controlled-robot-toy-from-air-freshener-parts/",
+      "originalUrl": "https://hackaday.com/2011/03/07/remote-controlled-robot-toy-from-air-freshener-parts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-10-what-you-should-know-before-using-the-lensa-ai-app.md",
       "title": "What You Should Know Before Using the Lensa AI App",
       "excerpt": "You’ve likely seen friends using the Lensa AI app to create colorful ... a director of ethics and responsible innovation research at The Alan Turing Institute and professor at the Queen ...",
@@ -934,186 +1106,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-deepminds-alphacode-attains-average-rating-in-programming-competition.md",
-      "title": "DeepMind's AlphaCode attains 'average' rating in programming competition",
-      "excerpt": "A team of researchers at DeepMind has tackled another difficult task—generating computer code to satisfy a natural language request. In their paper published in the journal Science, the group describes the approach they used in creating their AI app and outline how well it did when pitted against human programmers.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-12-deepmind-alphacode-average-competition.html",
-      "originalUrl": "https://techxplore.com/news/2022-12-deepmind-alphacode-average-competition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/computing.jpg",
-          "width": 1920,
-          "height": 1282,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-12-deepmind-alphacode-average-competition.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-deepmind-alphacode-average-competition.amp",
-      "publishedDateTime": "2022-12-09T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-how-ai-and-the-latest-technologies-can-accelerate-progress-on-sustainability-goals.md",
-      "title": "How AI and the Latest Technologies Can Accelerate Progress on Sustainability Goals",
-      "excerpt": "With businesses increasingly running more modern applications which can draw more power, reducing energy consumption across the data center becomes even more important with emerging technologies like AI. At IBM, we believe that hybrid cloud and AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2022/12/09/how-ai-and-the-latest-technologies-can-accelerate-progress-on-sustainability",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2022/12/09/how-ai-and-the-latest-technologies-can-accelerate-progress-on-sustainability",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.accesswire.com/users/newswire/images/731124/8bba28e8-e573-4be6-ab07-eed47b80ce59.",
-          "width": 650,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-09T07:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-i-entered-a-pun-competition-my-jokes-were-written-by-an-ai-chatbot.md",
-      "title": "I Entered a Pun Competition. My Jokes Were Written by an AI Chatbot.",
-      "excerpt": "ChatGPT, a trendy new artificial intelligence robot, can generate all sorts of writing. But is it punny?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/chatgpt-ai-chatbot-punderdome-jokes-11670602696",
-      "originalUrl": "https://www.wsj.com/articles/chatgpt-ai-chatbot-punderdome-jokes-11670602696",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-682317/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-09T07:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-apple-self-driving-ev-delayed-to-2026-likely-to-start-under-100000.md",
-      "title": "Apple Self-Driving EV Delayed to 2026, Likely to Start under $100,000",
-      "excerpt": "Apple has also scaled back its self-driving plans, with the car including traditional driving controls and only planned to be capable of autonomous driving on highways. The target is to sell the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/apple-self-driving-ev-delayed-144700351.html",
-      "originalUrl": "https://www.aol.com/apple-self-driving-ev-delayed-144700351.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_car_and_driver_636/d8d9076b5e16b2172a0d9337e5e9d4d0",
-          "width": 626,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-09T07:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

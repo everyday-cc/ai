@@ -9,7 +9,7 @@ ampWebUrl: "https://fedtechmagazine.com/article/2023/03/federal-governments-blue
 cdnAmpWebUrl: "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2023/03/federal-governments-blueprint-ai-bill-rights?amp"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1440
     height: 500
     isCached: true
+
+related:
+  - title: "The US government is gearing up for an AI antitrust fight"
+    excerpt: "She warned that major companies may “start to panic” at an upset in the tech order — “sometimes having to resort to anticompetitive tactics to protect their moats and protect their dominance.” Kanter added that the current model of AI is ..."
+    publishedDateTime: 2023-03-28T17:27:00Z
+    webUrl: "https://www.theverge.com/2023/3/28/23660101/ai-competition-ftc-doj-lina-khan-jonathan-kanter-antitrust-summit"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 67
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/fVQKZg5pKIAqEGgwL6dVKdUIZnw=/0x0:5320x3779/1200x628/filters:focal(2660x1890:2661x1891)/cdn.vox-cdn.com/uploads/chorus_asset/file/24542737/1249642666.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "TC34em0sW47+/yxGIovWxzXlPDn0bi5D4XA2ziaLC5FifIUZwLu2Ow/b0coTvKzRuR815No6Map/ZV6v30Q5Wl59OnuuJmTj73DMO793VCL2XfrPc5Jy7mAaaYw3le1SjvXa/8WX/+D8XKFJngvVWzE0jWMx0MMNvpiayZqj1PVmbm7KeX094oy6Bo8UvbyfFXNHtpDMIBDsjc1gFg2JrfbD+uESRaT+UbwMUIWM8qQk9xrpTNH6sJeVAIE75u0kYUFT0nDzLwd1irS1ysvgM+TeRHWjFGc9+u1MKrxkazsxAtGJNRgvG7B9kYRtJCdGmi9TtqyOg/MaZFb5VAJQtrsf6u47kpOgz2U7a1qziSw=;eOkuD9dN5GYO8EiCV4OTPA=="
 ---

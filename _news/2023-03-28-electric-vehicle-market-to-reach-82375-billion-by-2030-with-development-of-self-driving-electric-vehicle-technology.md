@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023 Voice Recognition Market Share and Latest Growth Demand Status: Trends Analysis and Industry Expansion Strategies"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- Global “Voice Recognition Market” Report Incorporate New Technologies: Stay Up-To-Date with Latest Technologies and Trends Yes."
-    publishedDateTime: 2023-03-27T17:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-voice-recognition-market-share-and-latest-growth-demand-status-trends-analysis-and-industry-expansion-strategies-2023-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "9UF1og+g1yUwfS6Q1lYqg/DVwNILo25M/jZlu64aaOT3zNinSUmoL21nqauRnn/FORFEF6mBXR2WxBIpfreZmCYBCubu8Go8vbldsXTdqktR5jna7pEa3YRbBtJggoiQlgdO6HOTmE4mjsaXzXeLNeEDvIaN+JxfqHrcEm7Pcbm6Cu+z5lHULuqr9OhjU6jC1fI1yR1SzhPw+P5RdJLxaD0+dXYcJbceFscgCqohK4236153xu8mzujDZPqPKiLuQ1YUiGp/AK8IDUTg5T/1Tfjv4jW9qwDWvc/X41A8RbNx04GcrwZbmO+brhaEQugVXEHgqid0SGMS4MTgFXhUmOvLfmrtpWoGx5r9avz+TpSGYVXozGH6Xkm7ug6rmz7X4Lz6OhA68wtlXnyvIkvJBnmlKIXKaL0xzIg177o0cgOzhGMtaC9bTlH7PW/h1/VVxI7AcDArQ0yymKYJ225MVNGCHTLj0PQKno3UvCYG+m7Pv84YqPhzPWdx4NaIu20Gg4PQ8iCQh0o5y9yhAjtsDQ==;tXD9jF0wD7/N3FRnyho/mw=="
 ---

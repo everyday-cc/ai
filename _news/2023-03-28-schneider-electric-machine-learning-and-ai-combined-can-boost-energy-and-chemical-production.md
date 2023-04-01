@@ -28,15 +28,6 @@ related:
       name: CSR Wire
       domain: csrwire.com
     quality: 33
-  - title: "Hyperglot AI Revolutionizes Niche with Multilingual Text Translation, Fast Processing Prompt Engine, and Crystal-Clear, Stunning Art"
-    excerpt: "The team at Hyperglot started on the project in 2020, before AI art programs became widely known. Now, they have announced the launch of the only AI app that supports multiple languages while also being based on blockchain tech."
-    publishedDateTime: 2023-03-29T21:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/hyperglot-ai-revolutionizes-niche-with-multilingual-text-translation-fast-processing-prompt-engine-and-crystal-clear-stunning-art-2023-03-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
 
 secured: "XID8czYnCkzK2WsGmFm71MkZ1iZ6dsZetz2IetRIQN5AnkiLL3RWmNSWD62Ok2hFyvEOuoA0efMcSShrXFIzFxBOA6qi9QHiFGz1y8bZ0b+UG6yQGBD1enIjm5XCHxvHdQKGfUd0suOf2VLuVo6dlRt7iKyTdsGv1iT1M5wrDPZKUUiqoXc9H1xQ29wA7TwhP251AkdNISHQt5crcIPByW7qjDWHT+U+7uPPJIQfeiUMAKIXkLejTVhSRTw7H/vxPsj6jKvBho69APcRoHZZeS1iOpLsrFGE9OkCB9dCKiekzrEOYqyQ/qSoyMAdx0/QjB4CZAE9i3HM3LROpfMixtlp1Lup30/Zi9DIp9Y+6Wh2LwU9E3KFiWrWtJRME2DCG2fKOFllDr5idtGLvq+3/41GmnyljEmaKTmRTff3ijbdniOdsGVojuFZH0dSiqAZQokmrEzoTzymcXqcjwVR1tfgWAdGKFL4T782LpddQnopyPMGybWVW1XC8ILeK2upkhzIwJwvCa8GXcRRgYiiig==;pDcZdNlHML/LvtLMae9Mqg=="
 ---

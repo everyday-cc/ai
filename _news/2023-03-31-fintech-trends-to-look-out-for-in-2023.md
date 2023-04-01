@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/advisor/in/investing/fintech-trends-2023/"
 webUrl: "https://www.forbes.com/advisor/in/investing/fintech-trends-2023/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,34 @@ topics:
   - AI
 
 related:
+  - title: "A Firm's Next Hire Should Be AI, Fintech Exec Says"
+    excerpt: "In fact, to date only Morgan Stanley has jumped in with both feet, and a serendipitous relationship with OpenAI, the tech company that launched ChatGPT last November, has the two firms creating a bespoke AI solution that scans Morgan Stanley materials only ..."
+    publishedDateTime: 2023-03-28T15:30:00Z
+    webUrl: "https://www.fa-mag.com/news/a-firm-s-next-hire-should-be-ai-72587.html"
+    type: article
+    provider:
+      name: Financial Advisor
+      domain: fa-mag.com
+    quality: 39
+    images:
+      - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
+  - title: "For generative AI to thrive, fintechs must act responsibly"
+    excerpt: "ChatGPT has taken the world by storm, but crucial that fintechs take a responsible and ethical approach to its development and implementation."
+    publishedDateTime: 2023-03-28T07:35:00Z
+    webUrl: "https://www.altfi.com/article/10551_for-generative-ai-to-thrive-fintechs-must-act-responsibly"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 39
+    images:
+      - url: "https://www.altfi.com/images/ext/equifax-and-altfi-report-march-2023-mpu.png"
+        width: 300
+        height: 250
+        isCached: true
   - title: "4 Disruptive Technologies That are Shaping the Fintech Industry"
     excerpt: "Fintech is one of the top beneficiaries of innovation and technological advancement. Over the years, technology has revolutionized how people see, spend, move, and invest money. In this article, you will learn about four innovative technologies shaping the Fintech industry."
     publishedDateTime: 2023-03-28T03:14:00Z
@@ -55,15 +83,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 4
-  - title: "Agent IQ's Lynq Platform Recognized As A Highly Commended Finalist in FinTech Futures' 2023 Banking Tech Awards USA"
-    excerpt: "The Banking Tech Awards USA acknowledges the achievements and successes of the banking and financial technology market in the United States. Agent IQ was selected as a finalist for \"FinTech of the Future\" award,"
-    publishedDateTime: 2023-03-31T19:24:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/03/31/9786985.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "x+lTVtn1HYvz6UB5fHh6YyOZVovrf+bqOfIGZUn42cFBD8Qs3BKWwZBbD26HSnViPN7NH6ehpNcqApRDLYdupklcBaX6WqvFOSNZwt8/Ca+rZ9l+WYTsaDcKb8FyiMnLH8KUCgeDTTo/oKHW4jFzHkRMSycQo2G4yPgbVLS1tMejE7ojl7d8Z+kd6z0osKM1khVeRV8NdH3EB9wpbU7/7XLyfmenA+sV9TztfX7XoYjyWBkMWcfNj0PXxyAgnzeWjetZcftvqUDpYnqEpF7lMhDZYOh+vb4oJnSH5Gfyd9AdArVdcXXJJKg94V125qfpBNW1B/7CVxGXxFE7kiy6MmxAf6hSTmi0bzf9F/CZ9IfT0Vs9g3ASao0QbXGRjwkibAFCjfgclGCZoKSdlSp5y6Kc0UgEmt1w+WQhec8t+TuRj1XMp8UXujfBhat7ltVu3O2PC+d2sGE1t2VslBQ0U/U/EbBcj5Ym5QSKoUn3Y7rcDuqaVqezKfe/gn4AUw5NYZdREcjwjwULGnpg/E0hgA==;Tl1T5kkaygl3/Knlh69gEA=="
 ---

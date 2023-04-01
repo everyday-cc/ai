@@ -28,15 +28,6 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 23
-  - title: "Hyperglot AI Revolutionizes Niche with Multilingual Text Translation, Fast Processing Prompt Engine, and Crystal-Clear, Stunning Art"
-    excerpt: "The team at Hyperglot started on the project in 2020, before AI art programs became widely known. Now, they have announced the launch of the only AI app that supports multiple languages while also being based on blockchain tech."
-    publishedDateTime: 2023-03-29T21:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/hyperglot-ai-revolutionizes-niche-with-multilingual-text-translation-fast-processing-prompt-engine-and-crystal-clear-stunning-art-2023-03-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
 
 secured: "m57Ui1kaYNM4Ynk6URdKD8IHQ9pGkZVu8jDve0hYbeTJp95XV4qH2P4HT+SOUrB4kOeqjsGdWTcDB+iChBdlpyGpav72TXR39q25Dz9yzKj/8jLvQemvfneni5ztR/EtGDLBmDoTwt/vPU+dSHpC/yrAsGdg82IqsMSqFr+mWkdqbmImKQqkgmCoSMfRWWJppYnUwre62HxYlp62ojz4bRyz6IOWPu5ArHRZBcrfEExRSo1nU58etAE7DAxVd+UJd5v3mUCVVgnZgxeGJ0vhur8y6JP1g5UBtXeRnSgr0fZMnpL2xoNk/5tcdwxSwZ9bbCxk4WOr7NeEMQhBxXNTjINQDmEoB2FLm9/D1nTw5ZJybgRbzYu0EbPRCDJK2rK78snKxwl2zeTC6XW5KXS/Hg7EuS7zCw7axPmCQqRsf7KKnRCOIpXFsIDRtdgiVGs4aQ09nMssFx0Tc+iyRaMWTKAe4OBGxQZHnP4aakLCGWTm9iFHfPdWhkg7j6SWbP+ViDsGPiQlord5orrsYXc1gA==;eadS2XG4xdgrtpAe3d/Fug=="
 ---

@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-31-ai-generated-video-of-will-smith-eating-spaghetti-astounds-with-terrible-beauty.md",
+      "title": "AI-generated video of Will Smith eating spaghetti astounds with terrible beauty",
+      "excerpt": "For a brief and shining moment, we can enjoy an absolutely ridiculous AI-generated video of Will Smith eating spaghetti that is now lighting up our lives with its terrible glory. On Monday, a Reddit user named \"chaindrop\" shared the AI-generated video on the r/StableDiffusion subreddit.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/03/yes-virginia-there-is-ai-joy-in-seeing-fake-will-smith-ravenously-eat-spaghetti/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/03/yes-virginia-there-is-ai-joy-in-seeing-fake-will-smith-ravenously-eat-spaghetti/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/will_smith_spaghetti_hero-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/03/yes-virginia-there-is-ai-joy-in-seeing-fake-will-smith-ravenously-eat-spaghetti/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/yes-virginia-there-is-ai-joy-in-seeing-fake-will-smith-ravenously-eat-spaghetti/amp/",
+      "publishedDateTime": "2023-03-30T14:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-31-while-on-road-driverless-slows-ag-tech-autonomy-players-are-plowing-ahead.md",
+      "title": "While On-Road Driverless Slows, Ag-Tech Autonomy Players Are Plowing Ahead",
+      "excerpt": "Enabling driverless operations by integrating sensors and software ... while GrAI Matter Labs is developing artificial intelligence via “brain-inspired chips that behave like humans do” to optimize devices assisting humans in the field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/richardbishop1/2023/03/30/while-on-road-driverless-slows-ag-tech-autonomy-players-are-plowing-ahead/",
+      "originalUrl": "https://www.forbes.com/sites/richardbishop1/2023/03/30/while-on-road-driverless-slows-ag-tech-autonomy-players-are-plowing-ahead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/richardbishop1/2023/03/30/while-on-road-driverless-slows-ag-tech-autonomy-players-are-plowing-ahead/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2023/03/30/while-on-road-driverless-slows-ag-tech-autonomy-players-are-plowing-ahead/amp/",
+      "publishedDateTime": "2023-03-30T13:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-31-datadome-raises-42m-to-leverage-machine-learning-for-confronting-bot-attacks.md",
       "title": "DataDome raises $42M to leverage machine learning for confronting bot attacks",
       "excerpt": "DataDome announces it has raised $42 million for a solution that uses machine learning to address online bot attacks.",
@@ -317,48 +411,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-30-elon-musk-among-experts-urging-a-halt-to-ai-training.md",
-      "title": "Elon Musk among experts urging a halt to AI training",
-      "excerpt": "They have signed an open letter warning of potential risks, and say the race to develop AI systems is out of control. Twitter chief Elon Musk is among those who want training of AIs above a certain capacity to be halted for at least six months.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/technology-65110030?at_campaign=Social_Flow&at_medium=social&at_bbc_team=editorial&at_campaign_type=owned&at_link_type=web_link&at_format=link&at_link_origin=BBCNews&at_ptr_name=twitter&at_link_id=F9347918-CE37-11ED-B2E8-F7EC4744363C",
-      "originalUrl": "https://www.bbc.co.uk/news/technology-65110030?at_campaign=Social_Flow&at_medium=social&at_bbc_team=editorial&at_campaign_type=owned&at_link_type=web_link&at_format=link&at_link_origin=BBCNews&at_ptr_name=twitter&at_link_id=F9347918-CE37-11ED-B2E8-F7EC4744363C",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/1345A/production/_129183987_gettyimages-1239416791.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/technology-65110030.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65110030.amp",
-      "publishedDateTime": "2023-03-30T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -873,6 +925,57 @@
       ]
     },
     {
+      "path": "_news/2023-03-29-the-us-government-is-gearing-up-for-an-ai-antitrust-fight.md",
+      "title": "The US government is gearing up for an AI antitrust fight",
+      "excerpt": "She warned that major companies may “start to panic” at an upset in the tech order — “sometimes having to resort to anticompetitive tactics to protect their moats and protect their dominance.” Kanter added that the current model of AI is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/3/28/23660101/ai-competition-ftc-doj-lina-khan-jonathan-kanter-antitrust-summit",
+      "originalUrl": "https://www.theverge.com/2023/3/28/23660101/ai-competition-ftc-doj-lina-khan-jonathan-kanter-antitrust-summit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/fVQKZg5pKIAqEGgwL6dVKdUIZnw=/0x0:5320x3779/1200x628/filters:focal(2660x1890:2661x1891)/cdn.vox-cdn.com/uploads/chorus_asset/file/24542737/1249642666.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-28T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-29-former-white-house-ai-policy-advisor-slams-sen-chris-murphys-fear-mongering-chatgpt-tweets.md",
       "title": "Former White House AI policy advisor slams Sen. Chris Murphy’s ‘fear-mongering’ ChatGPT tweets",
       "excerpt": "Because the hypotheticals around generative AI are not as critical as the real harms. If ChatGPT are going used in, as being claimed, in a suicide hotline, people are gonna get hurt. We can wait till then, or we can start saying that any system that gets ...",
@@ -1078,104 +1181,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-best-spring-cleaning-robot-vacuum-deals.md",
-      "title": "Best spring cleaning robot vacuum deals",
-      "excerpt": "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/best-spring-cleaning-robot-vacuum-deals-2023-03-28/",
-      "originalUrl": "https://www.cbsnews.com/essentials/best-spring-cleaning-robot-vacuum-deals-2023-03-28/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/10/04/855a7ea3-159f-48ec-955d-d1ff89de0e09/thumbnail/1200x630/a08a2e52a3fe6d6034ef8ff1297f1c79/robot-vacuum-hero-oct-4.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-spring-cleaning-robot-vacuum-deals-2023-03-28/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-spring-cleaning-robot-vacuum-deals-2023-03-28/",
-      "publishedDateTime": "2023-03-28T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters.md",
-      "title": "Microsoft Security Copilot harnesses AI to give superpowers to cybersecurity fighters",
-      "excerpt": "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/25070a0ca82841cd88b3eb8f12b525d93af19696/2023/03/28/a5988217-ae81-4ae4-9aae-0416874b7761/gettyimages-1208358547.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters/",
-      "publishedDateTime": "2023-03-28T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security",
-        "Microsoft AI"
       ]
     }
   ],

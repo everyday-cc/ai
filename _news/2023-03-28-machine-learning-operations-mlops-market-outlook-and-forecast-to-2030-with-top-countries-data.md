@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-operati
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-outlook-and-forecast-to-2030-with-top-countries-data-2023-03-28"
 type: article
 quality: 74
-heat: 154
+heat: 134
 published: true
 
 provider:
@@ -90,15 +90,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 33
-  - title: "2029 Forecast Voice Recognition Software Market by Growth Rate, Sparked Innovation with Top Players"
-    excerpt: "Mar 27, 2023 (The Expresswire) -- [105+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Voice Recognition Software Market” Size 2023 Key players Profiled in ..."
-    publishedDateTime: 2023-03-27T19:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2029-forecast-voice-recognition-software-market-by-growth-rate-sparked-innovation-with-top-players-2023-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 20
   - title: "Embedded Voice Recognition System Market - Global Industry Analysis, Size, Growth, Trends and Forecast 2023 to 2030 with an impacting CAGR 13.8%"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (Prime PR Wire via Comtex) -- This \"Embedded Voice Recognition System Market\" report offers details on the size, scope, and potential of the industry."
     publishedDateTime: 2023-03-28T09:38:00Z
@@ -113,15 +104,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2029 Forecast Data Science and Machine-Learning Platforms Market by Growth Rate, Sparked Innovation with Top Players"
-    excerpt: "Mar 27, 2023 (The Expresswire) -- [122+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Data Science and Machine-Learning Platforms Market” Size 2023 Key ..."
-    publishedDateTime: 2023-03-27T18:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2029-forecast-data-science-and-machine-learning-platforms-market-by-growth-rate-sparked-innovation-with-top-players-2023-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 11
 
 secured: "Jgi2xkC0yLgfQs8X0VeActk/yNvAbpbB4xgjhKQsK5U6Pqe3x+Sa27Niiv53OsvjiwR0ZLc9hpkq9RzoRALFFI8CbU0Mu09UCraAAISsui1yPosal3O/+oxoW9k/dW9IG5KlXduEdowKsy+03yz94Oh3LXFDZXc7C4iI3LuX20fD//Wv542qcjTvNAAPSUyQ7eL9L8nwseRhahN42ERthzLpCd7lEb0PJU5BcV/KHV7t1mwDYa1xEG3I6qAx65TcQdC/nuuDI0ssIeMb5pFR/ie+PvF7SGea1p/Vmhm66uslngEUZuMyhDnPzSzeslfMQHrDcPhNgiRuniK1TL4OziZ4TiLHkBbnjS+OY/GsXcQ=;iNsDn0U6t12WU2bBABrXAw=="
 ---

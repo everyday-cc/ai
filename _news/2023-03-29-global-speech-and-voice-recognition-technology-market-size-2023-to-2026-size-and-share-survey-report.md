@@ -113,20 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Retail Market Trends for Future Success 2023-2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- The global \"Artificial Intelligence in Retail Market\" research study presents an in-depth analysis of the market's revenue, size ..."
-    publishedDateTime: 2023-03-27T17:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-trends-for-future-success-2023-2028-2023-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 79
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning as a Service (MLaaS) Market 2023: Growing Opportunities by 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- The global \"Machine Learning as a Service (MLaaS) Market\" research study presents an in-depth analysis of the market's revenue, size ..."
     publishedDateTime: 2023-03-27T21:23:00Z
@@ -424,15 +410,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market 2023: Growing Opportunities by 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- The global \"Natural Language Processing Market\" research study presents an in-depth analysis of the market's revenue, size, and volume."
-    publishedDateTime: 2023-03-27T18:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2023-growing-opportunities-by-2028-2023-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
   - title: "Facial Recognition Market 2023: Growing Opportunities by 2028"
     excerpt: "The global \"Facial Recognition Market\" research study presents an in-depth analysis of the market's revenue, size,"
     publishedDateTime: 2023-03-29T04:59:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/business-spotlight/pioneering-the-predi
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/pioneering-the-predictive-ai-wave-in-powering-the-hiring-automation-vehicle-news-274649/amp"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -21,29 +21,47 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence innovation: Leading companies in adaptive active suspension systems for the automotive industry"
-    excerpt: "In the last three years alone, there have been over 1.2 million patents filed and granted in the automotive industry, according to GlobalData’s report on Artificial intelligence in Automotive: Adaptive active suspension systems. However, not all ..."
-    publishedDateTime: 2023-03-28T09:56:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-adaptive-active-suspension-systems-automotive/"
+  - title: "Ways in which artificial intelligence and machine learning is changing engineering education"
+    excerpt: "In recent years, the rapid advancement of technology has led to transformative changes across various industries. The field of engineering education is no exception, with artificial intelligence (AI) and machine learning (ML) technologies revolutionizing"
+    publishedDateTime: 2023-04-01T10:46:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ways-in-which-artificial-intelligence-and-machine-learning-is-changing-engineering-education/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ways-in-which-artificial-intelligence-and-machine-learning-is-changing-engineering-education/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ways-in-which-artificial-intelligence-and-machine-learning-is-changing-engineering-education/"
     type: article
     provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 13
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 80
     images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/03/AI_Adaptive-active-suspension-systems.jpg"
-        width: 1440
-        height: 810
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
         isCached: true
-  - title: "Artificial intelligence innovation: Leading companies in adaptive cruise control for the automotive industry"
-    excerpt: "In the last three years alone, there have been over 1.2 million patents filed and granted in the automotive industry, according to GlobalData’s report on Artificial intelligence in Automotive: Adaptive cruise control. However, not all innovations are ..."
-    publishedDateTime: 2023-03-28T12:31:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-adaptive-cruise-control-automotive/"
+  - title: "Elon Musk among experts urging a halt to AI training"
+    excerpt: "They have signed an open letter warning of potential risks, and say the race to develop AI systems is out of control. Twitter chief Elon Musk is among those who want training of AIs above a certain capacity to be halted for at least six months."
+    publishedDateTime: 2023-03-30T13:54:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-65110030?at_campaign=Social_Flow&at_medium=social&at_bbc_team=editorial&at_campaign_type=owned&at_link_type=web_link&at_format=link&at_link_origin=BBCNews&at_ptr_name=twitter&at_link_id=F9347918-CE37-11ED-B2E8-F7EC4744363C"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-65110030.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65110030.amp"
     type: article
     provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 0
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1345A/production/_129183987_gettyimages-1239416791.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Hyperglot AI Revolutionizes Niche with Multilingual Text Translation, Fast Processing Prompt Engine, and Crystal-Clear, Stunning Art"
+    excerpt: "The team at Hyperglot started on the project in 2020, before AI art programs became widely known. Now, they have announced the launch of the only AI app that supports multiple languages while also being based on blockchain tech."
+    publishedDateTime: 2023-03-29T21:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/hyperglot-ai-revolutionizes-niche-with-multilingual-text-translation-fast-processing-prompt-engine-and-crystal-clear-stunning-art-2023-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
 
 secured: "zCt9+uaBZN5riS8We7UBIeN5vmeUiCWWiBRyvjjYT8ZhTsZdTbDSUEm7w1cQLkcuzeRz9dzVgIvtkiI68/y3Otfi3jA5WIQ2xwL+5Ipg0s8BnRCKKZiaIOxeKjykK/3RX6yhqWFUtt9De3rvkIY/8Q0IOd2JUAJ6kUhVFm+1ioG6tWiYhQkY5AzcSzAL5Rldmny3DrE9Sq3b47FVBog/NFvxia+cmCMHUNrhhmOn4qtwJ3IPs/djA2V4uWHd90fybWjfLCGpFi0mEgft/Gvo+Lu1wvZXNz4+zmnKlvtkmy6q4IpYwoLwxPpurBSZdxNThVV6arwsQdxm7iCNqu8YLJMk2mL0eH891tBN2una04L2utzgLJpEOjtWD2gRXH3eq6o6Tz1tCBbwg/Kb1lN8R89VNt8zmV2aehBpaKVspcBedMeRAliyDtDY5wjpHjmmLwmIrJ/MHK4BovAtO6dZhLAIdSb4p6LSWnmD3BXOvUHlsBVOYVwgx1NpUF+RlfOjK9v1kZc5hn1NzQLtvxsdfQ==;V7Zw5r1t2StHJ8JDu21Q4Q=="
 ---

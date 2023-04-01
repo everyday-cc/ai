@@ -2,6 +2,41 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-12-12-bolstering-the-safety-of-self-driving-cars-with-a-deep-learning-based-object-detection-system.md",
+      "title": "Bolstering the safety of self-driving cars with a deep learning-based object detection system",
+      "excerpt": "Self-driving cars need to implement efficient, effective, and accurate detection systems to provide a safe and reliable experience to its users. To this end, an international research team has now developed an end-to-end neural network that,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/974123",
+      "originalUrl": "https://www.eurekalert.org/news-releases/974123",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-11T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-12-artificial-neural-networks-market-is-expected-to-boom-ibm-corporation-google-inc-intel-corporation.md",
       "title": "Artificial Neural Networks Market Is Expected to Boom- IBM Corporation, Google Inc., Intel Corporation",
       "excerpt": "New Jersey, United States, Dec 11, 2022 /DigitalJournal/ The global Artificial Neural Networks Market is expected to grow at a Robust CAGR of 18% during the forecasting period of 2022 to 2029.",
@@ -1314,49 +1349,6 @@
       "provider": {
         "name": "BioWorld",
         "domain": "bioworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-locomotion-modeling-evolves-with-brain-inspired-neural-networks.md",
-      "title": "Locomotion modeling evolves with brain-inspired neural networks",
-      "excerpt": "A team of scientists at EPFL have built a new neural network system that can help understand how animals adapt their movement to changes in their own body and to create more powerful artificial intelligence systems.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-12-locomotion-evolves-brain-inspired-neural-networks.html",
-      "originalUrl": "https://techxplore.com/news/2022-12-locomotion-evolves-brain-inspired-neural-networks.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/locomotion-modeling-ev.jpg",
-          "width": 621,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-12-locomotion-evolves-brain-inspired-neural-networks.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-locomotion-evolves-brain-inspired-neural-networks.amp",
-      "publishedDateTime": "2022-12-06T07:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null

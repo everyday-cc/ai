@@ -19,6 +19,34 @@ topics:
   - AI
 
 related:
+  - title: "A Firm's Next Hire Should Be AI, Fintech Exec Says"
+    excerpt: "In fact, to date only Morgan Stanley has jumped in with both feet, and a serendipitous relationship with OpenAI, the tech company that launched ChatGPT last November, has the two firms creating a bespoke AI solution that scans Morgan Stanley materials only ..."
+    publishedDateTime: 2023-03-28T15:30:00Z
+    webUrl: "https://www.fa-mag.com/news/a-firm-s-next-hire-should-be-ai-72587.html"
+    type: article
+    provider:
+      name: Financial Advisor
+      domain: fa-mag.com
+    quality: 39
+    images:
+      - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
+  - title: "For generative AI to thrive, fintechs must act responsibly"
+    excerpt: "ChatGPT has taken the world by storm, but crucial that fintechs take a responsible and ethical approach to its development and implementation."
+    publishedDateTime: 2023-03-28T07:35:00Z
+    webUrl: "https://www.altfi.com/article/10551_for-generative-ai-to-thrive-fintechs-must-act-responsibly"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 39
+    images:
+      - url: "https://www.altfi.com/images/ext/equifax-and-altfi-report-march-2023-mpu.png"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Fintech Trends To Look Out For In 2023"
     excerpt: "The fintech industry is continuously evolving, driven by advances in technology and changes in consumer behaviour. 2023 will witness significant trends in AI and machine learning, blockchain, digital banking and mobile payments, cybersecurity and fraud ..."
     publishedDateTime: 2023-03-31T13:26:00Z
@@ -51,15 +79,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 19
-  - title: "Agent IQ's Lynq Platform Recognized As A Highly Commended Finalist in FinTech Futures' 2023 Banking Tech Awards USA"
-    excerpt: "The Banking Tech Awards USA acknowledges the achievements and successes of the banking and financial technology market in the United States. Agent IQ was selected as a finalist for \"FinTech of the Future\" award,"
-    publishedDateTime: 2023-03-31T19:24:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/03/31/9786985.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "N6K6ftzp+4AcGDFBTIFhcH+ZpDhADvS5tE65F0HGT8E5XdXr9wPlGu1Bh96njc6bbU2BvtGQ+I6ING1xrTl3vezHamsMlG+YAcXGDh1+3riCUAYZ+L/od5iPKDbBPP2D6wxcbC0F/MrYiSM5hTKnvKhvTA0/QTVB3fHUPKRAHlyJTjGtVW6FetGgZjIQg10urgxZdvZqwMRW/ib3EA9lgySFQv9lKfro+q5ZYoExoqIZtN8OpkWMIDtin1Sl36TbkUw3sazMja/YnZimfV4PgSqwwqkA47hAsPYsC+slYEo8YDthB/joL/Gb5ZY2keU08ZNthvrmMPyxEEfmcl4lMJcwEeg5ZHWRzW+ucrwoxvssZb7mfl4CYG+1n1p2YJmr0eLx++mUFzLucCdwit2TCgHJSROVQdV5CbQXE7hjrDxY4u0KrPdTO2fO+pamHMADmOFKihs1lpuDifoPV4KF0sxyukbClXMbs2kO5MgHsXpF7IPOvdMpWRP2KAtFIqen9TaMYH/VofnTA7oEpNn2gg==;yPqqEEq/dO1fnThxGcx63Q=="
 ---

@@ -22,6 +22,17 @@ topics:
   - AI in Finance
   - AI
 
+related:
+  - title: "Agent IQ's Lynq Platform Recognized As A Highly Commended Finalist in FinTech Futures' 2023 Banking Tech Awards USA"
+    excerpt: "The Banking Tech Awards USA acknowledges the achievements and successes of the banking and financial technology market in the United States. Agent IQ was selected as a finalist for \"FinTech of the Future\" award,"
+    publishedDateTime: 2023-03-31T19:24:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/03/31/9786985.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "nVXEXrCeUc3Ci43Xt4QAEx68AjBCC/cjCY7ZFmuKUh0m3BOnI4zztxljYRtMbr1XBovCffLM6UTS9ch/qBRoUxp31uTUO4EUqW49oXEme8tI1Sg/nfFjDm1wgr0I4vtPWPSUbCCxj5KJ9RZSYI16Qp8ltDkI1zzrsplMpJyfiHMIciwuRF6ojzu1sGHgKmXCBgvh1jy+8XjrdR0MRh/NDYurKOYacx5NG5A0Ouz9nmi+xpi76el9JQ0WHmggMonQ2CVQmznX0QreWy0MrtcyzuQQI5rFucXjB6f0bEsmnd0s6nGF2mLN0Py5mQD4vOJP/YgPia++Vn+0E7qjEV1slrgz+WvnrYl722GciOcJVneEozKME8fGSSRXB658Jw7Iw2uDB4ON0+w4sTUt7+SgyhjkAbQVUzlczFrzop8af0zTxb2g3bHFGHBsSq5xxfJ+1zlhW77I5Md08n2rKsN2376CFVaMqvMGmKbZ6QpBzhavKm3Izyzrr43DDeKagorEvEgn73QoKMBrnKr0PoEZtw==;xXxMTMfTB4yvyRSCcd//cw=="
 ---
 

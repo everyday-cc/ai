@@ -2,6 +2,40 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-01-12-quectels-embedded-iot-modules-enable-ai-capability.md",
+      "title": "Quectel's Embedded IoT Modules Enable AI Capability",
+      "excerpt": "Naveen Kumar demonstrated one of Quectel Wireless’s higher-end smart-module portfolios, which incorporates some of Qualcomm's high-performance chipsets, giving users extra runtime for AI-based capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mwrf.com/technologies/systems/video/21257905/electronic-design-quectels-embedded-iot-modules-enable-ai-capability",
+      "originalUrl": "https://www.mwrf.com/technologies/systems/video/21257905/electronic-design-quectels-embedded-iot-modules-enable-ai-capability",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-11T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microwaves & RF",
+        "domain": "mwrf.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-12-lilbits-pc-shipments-fall-in-q4-2022-imagination-launches-a-new-ray-tracing-gpu-for-mobile.md",
       "title": "Lilbits: PC shipments fall in Q4, 2022, Imagination launches a new ray-tracing GPU for mobile",
       "excerpt": "PC shipments in the fourth quarter of 2022 were down by 28.1% to 28.5% from the same period a year earlier. One part of the reason could be that many of the folks who were in the market for new computers already bought one in the past few years and don’t have any reason to upgrade yet.",
@@ -1347,58 +1381,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-amd-announces-ryzen-7040-series-processors-with-on-chip-ai.md",
-      "title": "AMD announces Ryzen 7040 series processors with on-chip AI",
-      "excerpt": "AMD has announced the Ryzen 7040 series processor for laptops. The Ryzen 7040 series features on-chip AI. The first devices utilizing Ryzen 7040 series processors will be available in March.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/amd-ryzen-7040-series-processors-3262821/",
-      "originalUrl": "https://www.androidauthority.com/amd-ryzen-7040-series-processors-3262821/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/01/AMD-Ryzen-7040-Series-scaled.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T00:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

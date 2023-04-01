@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bbc.co.uk/news/technology-65110030.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65110030.amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: BBC
@@ -26,29 +26,42 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk Mocks Bill Gates's Knowledge Of Artificial Intelligence, ‘His Understanding Of AI Was....’,"
-    excerpt: "Twitter boss thinks that Bill Gates' knowledge of AI was constantly confined and still is. Elon Musk has recently spoken out a lot about the risks posed by AI. Particularly now that AI chatbots like ChatGPT,"
-    publishedDateTime: 2023-03-28T09:41:00Z
-    webUrl: "https://in.mashable.com/tech/49716/elon-musk-mocks-bill-gatess-knowledge-of-artificial-intelligence-his-understanding-of-ai-was"
+  - title: "Ways in which artificial intelligence and machine learning is changing engineering education"
+    excerpt: "In recent years, the rapid advancement of technology has led to transformative changes across various industries. The field of engineering education is no exception, with artificial intelligence (AI) and machine learning (ML) technologies revolutionizing"
+    publishedDateTime: 2023-04-01T10:46:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ways-in-which-artificial-intelligence-and-machine-learning-is-changing-engineering-education/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ways-in-which-artificial-intelligence-and-machine-learning-is-changing-engineering-education/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ways-in-which-artificial-intelligence-and-machine-learning-is-changing-engineering-education/"
     type: article
     provider:
-      name: in.mashable
-      domain: mashable.com
-    quality: 49
-  - title: "AI doesn’t belong everywhere. Stop using a hammer to make lasagna."
-    excerpt: "To remind us of the risks of technology as the wrong solution to the wrong problem, today I am adding Instacart, Levi’s and the other examples above to The Tech Friend’s AI Juicero hall of fame. The name comes from an infamous Silicon Valley start-up."
-    publishedDateTime: 2023-03-28T16:32:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/03/28/silly-uses-ai-are-giving-me-flashbacks-flatulence-apps/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 80
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L3TBKDU7QZEGNLUUGDFTROTZPY.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
         isCached: true
+  - title: "Pioneering The Predictive AI Wave In Powering The Hiring Automation Vehicle"
+    excerpt: "The company’s products, ~ Ng-NeXT Test and Selectright.ai, are as revolutionary as the founders’ empowering, growth-focused mindset."
+    publishedDateTime: 2023-03-31T00:00:00Z
+    webUrl: "https://www.outlookindia.com/business-spotlight/pioneering-the-predictive-ai-wave-in-powering-the-hiring-automation-vehicle-news-274649"
+    ampWebUrl: "https://www.outlookindia.com/business-spotlight/pioneering-the-predictive-ai-wave-in-powering-the-hiring-automation-vehicle-news-274649/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/pioneering-the-predictive-ai-wave-in-powering-the-hiring-automation-vehicle-news-274649/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 37
+  - title: "Hyperglot AI Revolutionizes Niche with Multilingual Text Translation, Fast Processing Prompt Engine, and Crystal-Clear, Stunning Art"
+    excerpt: "The team at Hyperglot started on the project in 2020, before AI art programs became widely known. Now, they have announced the launch of the only AI app that supports multiple languages while also being based on blockchain tech."
+    publishedDateTime: 2023-03-29T21:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/hyperglot-ai-revolutionizes-niche-with-multilingual-text-translation-fast-processing-prompt-engine-and-crystal-clear-stunning-art-2023-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
 
 secured: "UAtACJT+GrWspi3InP2KCZQPjoJ0sloG7wnHwWgDOjYsgEFzUzyir4XiVqzGIpud16EsyVn+9FuZVPnC9HvNKARUrNAH5IqTep+8V3KbzqlIdrAWcooq2Y3bI05UVb2JOPDEUJf7YkjbC5zQfUsMuIgjIBxL+egJZEGVptn5z5fr25RLjar+fpsMZCvOdysFscJl4JLsrpYxpq/iis6mCbJ4g5QMm9/KdZGqrmWpu9MgNbsvW3Q6F4S7hOI7GnnS7nhSGM0LNh1voSUCiOSS5WtJWNJJTGEu57lqQGmPydtZUSujGppFop/VHGHTY/KA0EFHCnnW8stDAuNmOqK5lA9wXorGne7Xr+jJce803m3ByyBKefMGDrWPno/UUbM7awVFfxsS9J9olBHubrKMIBez+LNEDZ71QOi5FIsa24EHvDD9eEag2Vky2rJNcimMs7RHNnLPgD1aWzQtyEa6b+rE83+ZWvGFhwh3F8o6ycHGhfGsFTHT0neKCwwPJlmwom5QhPxL7jjSYIA/dWF5AQ==;yghIsmt+D+FEznr+k/Lh6g=="
 ---

@@ -2,6 +2,178 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2023-03-02-athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night.md",
+      "title": "Athena AI, Teal 2 Drone: Computer Vision to Identify Weapons, Friends and Foes at Night",
+      "excerpt": "Red Cat Announces Athena AI as Computer Vision Partner for Teal 2 by DRONELIFE Staff Writer Ian M. Crosby Red Cat Holdings [NASDAQ:RCAT]  is held in the AdvisorShares Drone Technology ETF [NYSE ARCA:U",
+      "sourceUrl": null,
+      "webUrl": "https://dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/",
+      "originalUrl": "https://dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dronelife.com/wp-content/uploads/2023/03/Teal_2_View_1-e1677770216137.png",
+          "width": 612,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/amp/",
+      "cdnAmpWebUrl": "https://dronelife-com.cdn.ampproject.org/c/s/dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/amp/",
+      "publishedDateTime": "2023-03-02T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dronelife",
+        "domain": "dronelife.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-artificial-intelligence-ai-healthcare-market-to-hit-usd-9723bn-at-a-cagr-of-4051-percent-by-2029.md",
+      "title": "Artificial Intelligence (AI) Healthcare Market to hit USD 97.23Bn at a CAGR of 40.51 percent by 2029",
+      "excerpt": "Pune, March 02, 2023 (GLOBE NEWSWIRE) -- Maximize Market Research is a leading healthcare market research firm has published report on \"Artificial Intelligence (AI) Healthcare Market\". The report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/03/g31166902/artificial-intelligence-ai-healthcare-market-to-hit-usd-97-23bn-at-a-cagr-of-40-51-percent-by-2029",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/g31166902/artificial-intelligence-ai-healthcare-market-to-hit-usd-97-23bn-at-a-cagr-of-40-51-percent-by-2029",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31166902",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31166902",
+      "publishedDateTime": "2023-03-02T05:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-nvidias-latest-gpu-drivers-to-upscale-blurry-videos-via-ai.md",
+      "title": "Nvidia's Latest GPU Drivers To Upscale Blurry Videos Via AI",
+      "excerpt": "With RTX Video Super Resolution (VSR), GeForce RTX 40 and 30 Series GPU users can tap AI to upscale lower-resolution content up to 4K, matching their display resolution. The AI removes blocky compression artifacts and improves the video's sharpness and ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105693264/Nvidias-Latest-GPU-Drivers-To-Upscale-Blurry-Videos-Via-AI",
+      "originalUrl": "https://menafn.com/1105693264/Nvidias-Latest-GPU-Drivers-To-Upscale-Blurry-Videos-Via-AI",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-03/02/I_5f244image_story.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-artificial-intelligence-stresses-out-twitter-ceo-elon-musk-it-seems-heres-why.md",
+      "title": "Artificial Intelligence Stresses Out Twitter CEO Elon Musk It Seems; Here’s Why",
+      "excerpt": "Musk stated, \"AI stresses me out,\" towards the close of a more than three-hour presentation to Tesla investors about business goals.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/48224/artificial-intelligence-stresses-out-twitter-ceo-elon-musk-it-seems-heres-why",
+      "originalUrl": "https://in.mashable.com/tech/48224/artificial-intelligence-stresses-out-twitter-ceo-elon-musk-it-seems-heres-why",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/ab6b18dc-4853-42b1-a619-0d6c9a24c3b1_9t6k.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/48224/artificial-intelligence-stresses-out-twitter-ceo-elon-musk-it-seems-heres-why?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/48224/artificial-intelligence-stresses-out-twitter-ceo-elon-musk-it-seems-heres-why?amp=1",
+      "publishedDateTime": "2023-03-02T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-02-microsoft-launches-new-cognitive-speech-services-features-to-accelerate-language-learning.md",
       "title": "Microsoft Launches New Cognitive Speech Services Features to Accelerate Language Learning",
       "excerpt": "Microsoft Azure Cognitive Speech Services is a comprehensive collection of technologies and services such as Speech to Text, Text to Speech, custom neural voice (CNV) Conversation Transcription ...",
@@ -950,204 +1122,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-first-robotics-competition-returns-to-utah-local-students-take-part.md",
-      "title": "FIRST Robotics Competition returns to Utah; local students take part",
-      "excerpt": "This week, high school students from around the nation will go head-to-head in the Utah Regional FIRST Robotics Competition at the Maverik Center.",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc4.com/news/local-news/first-robotics-competition-returns-to-utah-local-students-take-part/",
-      "originalUrl": "https://www.abc4.com/news/local-news/first-robotics-competition-returns-to-utah-local-students-take-part/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abc4.com/wp-content/uploads/sites/4/2023/03/FIRSTRoboticsCompetition_ABC4_2023.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.abc4.com/news/local-news/first-robotics-competition-returns-to-utah-local-students-take-part/amp/",
-      "cdnAmpWebUrl": "https://www-abc4-com.cdn.ampproject.org/c/s/www.abc4.com/news/local-news/first-robotics-competition-returns-to-utah-local-students-take-part/amp/",
-      "publishedDateTime": "2023-03-01T15:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "abc4.com",
-        "domain": "abc4.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-alphabets-self-driving-car-unit-has-cut-8-of-its-staff-this-year.md",
-      "title": "Alphabet’s self-driving car unit has cut 8% of its staff this year",
-      "excerpt": "Waymo, the self-driving car division of Google's parent company Alphabet, said on Wednesday that it has cut approximately 8% of its staff across two rounds of layoffs this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/03/01/tech/waymo-layoffs/index.html",
-      "originalUrl": "https://www.cnn.com/2023/03/01/tech/waymo-layoffs/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230301160548-waymo-file-2018-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/03/01/tech/waymo-layoffs/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/03/01/tech/waymo-layoffs/index.html",
-      "publishedDateTime": "2023-03-01T14:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-nvidia-report-telco-transformation-requires-artificial-intelligence.md",
-      "title": "NVIDIA Report: Telco Transformation Requires Artificial Intelligence",
-      "excerpt": "The theme of the event is telco transformation – as it has been for some time. Clearly, the evolution of telcos is",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/networking/nvidia-telco-transformation-artificial-intelligence/",
-      "originalUrl": "https://www.eweek.com/networking/nvidia-telco-transformation-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/11/best-data-virtualization-tools.jpg",
-          "width": 1400,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T14:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge.md",
-      "title": "Nvidia’s new AI upscaling tech makes low-res videos look sharper in Chrome, Edge",
-      "excerpt": "Nvidia's latest GPU driver introduces its new AI-based upscaling technique for making lower-resolution videos streamed offline look better on a high-resolution display. Now available via the GeForce driver 531.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/03/nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/03/nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/geforce-rtx-3090-product-gallery-inline-850-32x_345947f0-a017-4ca6-8019-2dc97a0d777f-prv-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/03/nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/03/nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge/amp/",
-      "publishedDateTime": "2023-03-01T13:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

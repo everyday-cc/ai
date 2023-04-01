@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-02-08-retail-investors-flock-to-small-cap-ai-firms-as-big-tech-battles-for-share.md",
+      "title": "Retail investors flock to small-cap AI firms as Big Tech battles for share",
+      "excerpt": "Microsoft is in a strong position in the AI race due to the combination of its close partnership with OpenAI and its Azure capabilities around compute and data, Barclays analyst Raimo Lenschow said. \"If you're investing in AI, you should consider the fact ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/markets/us/retail-investors-flock-small-cap-ai-firms-big-tech-battles-share-2023-02-07/",
+      "originalUrl": "https://www.reuters.com/markets/us/retail-investors-flock-small-cap-ai-firms-big-tech-battles-share-2023-02-07/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/cBkck-JqWLZDnSksg7GpxDUQR7Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KASZ6ASEFVO2TLU2YM7JQE35MI.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T10:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-08-first-on-cnbc-cnbc-transcript-microsoft-ceo-satya-nadella-speaks-with-cnbcs-jon-fortt-on-power-lunch-today.md",
       "title": "First on CNBC: CNBC Transcript: Microsoft CEO Satya Nadella Speaks with CNBC’s Jon Fortt on “Power Lunch” Today",
       "excerpt": "Microsoft is a global company ... We wouldn't even have all of the Azure Cognitive Services if it was not for what was applied AI. So I would say of course, I want more pace. And what you're seeing I guess this year in particular, is what we've been ...",
@@ -1114,49 +1166,6 @@
       "provider": {
         "name": "This Day",
         "domain": "thisdaylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-polypill-targeting-cv-risk-factors-may-slow-functional-but-not-cognitive-decline.md",
-      "title": "Polypill Targeting CV Risk Factors May Slow Functional, but Not Cognitive, Decline",
-      "excerpt": "However, an analysis from the International Polycap Study (TIPS-3) showed that its use alone or in combination with aspirin was not associated with a slowing of cognitive decline compared with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medscape.com/viewarticle/987896",
-      "originalUrl": "https://www.medscape.com/viewarticle/987896",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.medscape.com/thumbnail_library/dt_230201_green_red_capsules_800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medscape",
-        "domain": "medscape.com",
         "images": null,
         "publishers": null,
         "authors": null

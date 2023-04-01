@@ -2,6 +2,134 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-03-27-artificial-intelligence-which-stocks-to-buy.md",
+      "title": "Artificial Intelligence: Which Stocks To Buy",
+      "excerpt": "Investor interest in artificial intelligence (AI) technology has skyrocketed over the past several months. There is immense potential in this new frontier. AI stocks are seen as the promising future, and they may very well be. But just like other market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/artificial-intelligence-which-stocks-to-buy",
+      "originalUrl": "https://www.nasdaq.com/articles/artificial-intelligence-which-stocks-to-buy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/artificial-intelligence-which-stocks-to-buy?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-which-stocks-to-buy?amp",
+      "publishedDateTime": "2023-03-27T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-03-27-former-ibm-ceo-on-ai-layoffs-women-leaders-in-tech.md",
+      "title": "Former IBM CEO on AI, layoffs, women leaders in tech",
+      "excerpt": "Just before Rometty became IBM's first woman CEO, the company's AI-powered computer Watson outwitted two of the most successful contestants in the history of the game show “Jeopardy!\"",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/former-ibm-ceo-ai-layoffs-women-leaders-tech-98147831",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/former-ibm-ceo-ai-layoffs-women-leaders-tech-98147831",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Business/wirestory_9835eafd038b790563f6bbaa2e8963f8_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-27T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-27-how-can-ai-fit-into-customer-service-call-centers-effectively.md",
+      "title": "How Can AI Fit Into Customer Service Call Centers Effectively?",
+      "excerpt": "Companies Often Misuse AI Programs And Models . Unfortunately, some contact center leaders are repeating errors made with early chatbots by viewing the current generation of AI ap",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/03/27/how-can-ai-fit-into-customer-service-call-centers-effectively/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/03/27/how-can-ai-fit-into-customer-service-call-centers-effectively/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641dfa715f3e73fbfc580d4a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/03/27/how-can-ai-fit-into-customer-service-call-centers-effectively/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/03/27/how-can-ai-fit-into-customer-service-call-centers-effectively/amp/",
+      "publishedDateTime": "2023-03-27T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-27-ai-and-the-future-of-software-development.md",
       "title": "AI and the future of software development",
       "excerpt": "Just ask Jaana Dogan, a distinguished software engineer at GitHub. According to Dogan, “People are too focused on code generation and completely ignore that LLMs are useful for code analysis.” In other words,",
@@ -1071,162 +1199,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-26-better-late-than-never-3-artificial-intelligence-ai-stocks-that-still-have-massive-upside.md",
-      "title": "Better Late Than Never: 3 Artificial Intelligence (AI) Stocks That Still Have Massive Upside",
-      "excerpt": "SentinelOne's use of artificial intelligence gives it a performance edge over its ... SentinelOne scores very high on benchmarks such as MITRE's ATT&CK Evaluations, and research firm Gartner gave it the top rank in endpoint protection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/03/26/better-late-never-3-ai-stocks-massive-upside/",
-      "originalUrl": "https://www.fool.com/investing/2023/03/26/better-late-never-3-ai-stocks-massive-upside/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/725453/artificial-intelligence-ai-on-circuit-board.jpg",
-          "width": 2359,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-26T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-26-microsoft-reportedly-threatens-to-restrict-search-data-from-rival-ai-tools.md",
-      "title": "Microsoft Reportedly Threatens to Restrict Search Data From Rival AI Tools",
-      "excerpt": "At least two customers have been told their access to Microsoft's internet search index will be cut off if they continue to use it for their AI chatbots, Bloomberg reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/microsoft-reportedly-threatens-to-restrict-search-data-from-rival-ai-tools",
-      "originalUrl": "https://www.pcmag.com/news/microsoft-reportedly-threatens-to-restrict-search-data-from-rival-ai-tools",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/05PNmVt8nHVpVgrbjZy1kpb-1.fit_lim.size_1200x630.v1679827422.png",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-26T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-26-theres-no-such-thing-as-artificial-intelligence.md",
-      "title": "There's No Such Thing as Artificial Intelligence",
-      "excerpt": "According to its proponents, we will all live in the “metaverse,” build our financial infrastructure on “web3” and power our lives with “artificial intelligence.” All three of these terms are mirages that have raked in billions of dollars ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-03-26/even-with-chat-gpt-4-there-s-no-such-thing-as-artificial-intelligence",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-03-26/even-with-chat-gpt-4-there-s-no-such-thing-as-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iU7LUSykyhPA/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-26T00:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

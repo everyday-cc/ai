@@ -74,20 +74,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023 Voice Recognition Market Share and Latest Growth Demand Status: Trends Analysis and Industry Expansion Strategies"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- Global “Voice Recognition Market” Report Incorporate New Technologies: Stay Up-To-Date with Latest Technologies and Trends Yes."
-    publishedDateTime: 2023-03-27T17:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-voice-recognition-market-share-and-latest-growth-demand-status-trends-analysis-and-industry-expansion-strategies-2023-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Electric Vehicle Market To Reach $823.75 Billion By 2030 With Development Of Self-Driving Electric Vehicle Technology"
     excerpt: "Furthermore, factors such as technological advancements, proactive government initiatives and development of self-driving electric vehicle technology are expected to create ample opportunities for the key players operating in the electric vehicle market."
     publishedDateTime: 2023-03-28T05:22:00Z

@@ -65,20 +65,6 @@ related:
       name: Macworld
       domain: macworld.com
     quality: 47
-  - title: "Apple acquires AI-powered video compression startup WaveOne"
-    excerpt: "Using machine learning and AI, WaveOne wanted to change how compression worked on ... That means it could run without the need for new chips to process the machine learning technology in data centers or consumer TVs and devices. Even small amounts of ..."
-    publishedDateTime: 2023-03-27T18:20:00Z
-    webUrl: "https://siliconangle.com/2023/03/27/apple-acquires-ai-powered-video-compression-startup-waveone/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/apple-3.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "+Sl8wLg/kXjFxKXNPnTePX1J3zTz25lew0ffpbdyoVhdPgo3bxsCNzoR8zQGa617mykGkjZyldguNnVI01cPunw0YbIkkEpAW7phJvRX03scQUfwS5Z4DRTzolZUM5jmXUrOZeAPXjFzVNLVU01wZToy2s6FpSq7IZpyTVnCIsg1oLP/Lcxg6rp1aYuBd1oCHv3Snj9ngiMRBmuYuo6wRPFDzTugqzSXFfJ9Ybn8NiBlPvaci6nmE3NEFvxBTQTKS6jGrCzNwSEnS7oaBrGSv1qOXeFvY3na9SaOfWGSKQToH0QJZDcJuMvyYSFPJ1+Pz9ivINKlWpoL8K7i41u0gPA5vDrxeQvow//DuO9OfzH/UGwaWWGL+mNj7TY4vS6dNa37fsfFCvMQRHqiMEmGeiEstiHY2DoyKMSt2U9fLL04BuuMPVNYYPSdeN47tkHtX7l6n7aDew5xIDTlAaLP/bN8BbpC56cBHivNMB1IenwdHYSr/nWuOT4Y49SB2VkI1BjxivpNYo5Rm0xt7pZ0uQ==;q1nBwKSudHLZf0zZii/UcA=="
 ---
