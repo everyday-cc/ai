@@ -260,22 +260,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
-  - title: "Up to 80 PERCENT of US jobs could be impacted by ChatGPT-like AI in coming years, study warns"
-    excerpt: "translation, speech recognition, and instrumental track recognition. The team conducted the research by linking 10 AI-powered applications - such as language - to 52 human abilities to understand if any closely relate. The results showed that ..."
-    publishedDateTime: 2023-03-27T15:24:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11907527/Up-80-PERCENT-jobs-impacted-ChatGPT-like-AI-coming-years-study-warns.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11907527/amp/Up-80-PERCENT-jobs-impacted-ChatGPT-like-AI-coming-years-study-warns.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11907527/amp/Up-80-PERCENT-jobs-impacted-ChatGPT-like-AI-coming-years-study-warns.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 48
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2023/03/27/16/69164461-0-image-a-6_1679930230131.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "Preview release of ChatGPT shows potential of artificial intelligence"
     excerpt: "ChatGPT, released as a free prototype by the research laboratory OpenAI last November, is a powerful artificial intelligence technology with socially transformative potential that is being used under capitalism to eliminate jobs,"
     publishedDateTime: 2023-04-01T04:14:00Z

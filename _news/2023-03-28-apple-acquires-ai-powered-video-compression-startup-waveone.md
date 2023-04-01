@@ -57,22 +57,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Apple acquires video compression startup that utilizes artificial intelligence"
-    excerpt: "Apple recently acquired WaveOne, a California-based startup that was developing AI algorithms for video compression, according to TechCrunch. Apple did not confirm the acquisition, but former WaveOne executive Bob Stankosh said a “sale of the company ..."
-    publishedDateTime: 2023-03-27T16:52:00Z
-    webUrl: "https://wraltechwire.com/2023/03/27/apple-acquires-video-compression-startup-that-utilizes-artificial-intelligence/"
-    ampWebUrl: "https://wraltechwire.com/2023/03/27/apple-acquires-video-compression-startup-that-utilizes-artificial-intelligence/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/03/27/apple-acquires-video-compression-startup-that-utilizes-artificial-intelligence/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 53
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2018/04/apple-logo-cnn-e1573585102933.jpg"
-        width: 581
-        height: 327
-        isCached: true
   - title: "Apple acquires content-aware AI video compression startup"
     excerpt: "Apple acquired a startup specializing in AI-based video compression earlier this year, it has emerged, but it isn’t yet clear how the company plans to use the technology. As is generally the case when Apple makes an acquisition, there has been no ..."
     publishedDateTime: 2023-03-28T13:39:00Z

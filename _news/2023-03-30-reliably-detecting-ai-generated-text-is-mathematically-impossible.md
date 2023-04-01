@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to use GPTZero to check for AI-generated text"
-    excerpt: "GPTZero can tell you whether a document, report or other item was possibly written by a human or by AI. Here’s a step-by-step guide on using GPTZero for this purpose. With the popularity of ChatGPT, many people are starting to rely on AI to generate emails,"
-    publishedDateTime: 2023-03-27T16:21:00Z
-    webUrl: "https://www.techrepublic.com/article/how-to-use-gptzero-check-ai-generated-text/"
-    ampWebUrl: "https://www.techrepublic.com/article/how-to-use-gptzero-check-ai-generated-text/amp/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/how-to-use-gptzero-check-ai-generated-text/amp/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 87
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/03/tr32723-gptzero-detection.jpeg"
-        width: 1400
-        height: 1050
-        isCached: true
   - title: "How to Tell If a Photo Is an AI-Generated Fake"
     excerpt: "Artificial-intelligence-powered image-generating systems are making fake photographs so hard to detect that we need AI to catch them"
     publishedDateTime: 2023-03-31T19:53:00Z

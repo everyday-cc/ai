@@ -7,7 +7,7 @@ originalUrl: "https://www.expressnews.com/news/texas/article/texas-colleges-happ
 webUrl: "https://www.expressnews.com/news/texas/article/texas-colleges-happiest-us-17864457.php"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1600
     height: 1120
     isCached: true
-
-related:
-  - title: "Pa. university among top ‘happiest colleges’ in U.S.: report"
-    excerpt: "First, researchers manually curated a list of the top universities’ Instagram pages; they then perused through these images and assessed them on a “happiness” metric by reading faces using facial emotion recognition tool, Amazon Rekognition API."
-    publishedDateTime: 2023-03-27T16:24:00Z
-    webUrl: "https://www.pennlive.com/life/2023/03/pa-university-among-top-happiest-colleges-in-us-report.html"
-    ampWebUrl: "https://www.pennlive.com/life/2023/03/pa-university-among-top-happiest-colleges-in-us-report.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/life/2023/03/pa-university-among-top-happiest-colleges-in-us-report.html?outputType=amp"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 44
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/U74IPFKU25ER7OYTVCMNXJBQMQ.jpg"
-        width: 8000
-        height: 6000
-        isCached: true
 
 secured: "A8oYxsZO3IeDkM1UoB/sSpNT/odlfaqmlT/kvYNR15ElOhisH3e8djPyp/BSDITfIs8fP/VQ9QjrvbOA9jInvG+5IXpvTG25luWNFJ7bNytWiK5V9npSOLP9g4YkLHMNuEg6V5VJagD2EDVNKJdAFkTuQYPalCYm7JvKU0Bus3mn5nLBFSHMLECLPZxmpYyJOII7RsXGi32ZbB3iKDbDxFpQ3nFoQfUDPOIzLFKSI+AthkWgpCFS9l0GOa8i7UE4uuMPFHqOxSTFy0+M9UzLtnV4O7DCnreixyk416BDVD5AcUC7hIzR6amrR/stCsEIYeR5BNPeCG5MkvEKF37akCKY7+tYc6MNoMC8GElPwCCtPN60lGYXEqEThY0ap5sM+mLWRrvSGcThhCszJykUvktGxGcEOr/XE8pI2+VWw5Z1eqySOjedUKygi7Aec9sJUajFITH77qKG7i+WFSq6ZGgBYAqd/ni/emTtw+Tpkf80RX6Kw3aJpiAtTFb4dBWTwnF+C6pM2pGSa0Qsx0yLyg==;Mbi+X2Z0/Px3rma0Qb7vVA=="
 ---

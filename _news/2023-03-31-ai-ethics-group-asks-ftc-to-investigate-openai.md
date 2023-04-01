@@ -46,20 +46,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 67
-  - title: "Zoom upgrades AI features with OpenAI to make meetings simpler"
-    excerpt: "“We are excited to bring many more capabilities with new large language models. Our unique approach to AI will give customers the flexibility ... for an expanded whiteboard service, automated translation tech, tools for hybrid workplace video calls ..."
-    publishedDateTime: 2023-03-27T15:49:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/zoom-iq-ai-openai-features-meetings-summary-compose"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/03/a-5.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Alphabet’s Google and DeepMind Pause Grudges, Join Forces to Chase OpenAI"
     excerpt: "OpenAI’s success in overtaking Google with an artificial intelligence–powered chatbot has achieved what seemed impossible in the past: It has forced the two AI research teams within Google’s parent, Alphabet,"
     publishedDateTime: 2023-03-29T23:19:00Z

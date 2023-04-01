@@ -26,37 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Agency shows the perils of applying AI to the fashion industry"
-    excerpt: "Earlier this month, Danny Postma, the founder of Headlime, an AI-powered marketing copy startup that was recently acquired by Jasper, announced Deep Agency, a platform he describes as an “AI photo studio and modeling agency.” Using art-generating AI ..."
-    publishedDateTime: 2023-03-27T16:53:00Z
-    webUrl: "https://techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry/"
-    ampWebUrl: "https://techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry/amp/"
+  - title: "The Rise of AI Taylor Swift"
+    excerpt: "But AI Taylor Swift’s viral spread on TikTok adds a wrinkle to these dynamics. It’s one thing to debate the ethics of so-called real-person fiction among fans in a siloed corner of the internet, but on such a large and algorithmically engineered ..."
+    publishedDateTime: 2023-03-31T21:13:00Z
+    webUrl: "https://www.theatlantic.com/technology/archive/2023/03/ai-taylor-swift-fan-generated-deepfakes-misinformation/673596/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 69
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2015/11/489474058a.jpg?resize=1200,799"
+      - url: "https://cdn.theatlantic.com/thumbor/bcpkOj1yfdGWiupOdCoLS_4FvxY=/0x41:1917x1039/1200x625/media/img/mt/2023/03/AI_Taylor_4_still/original.jpg"
         width: 1200
-        height: 799
-        isCached: true
-  - title: "Here’s how the crypto industry is using artificial intelligence"
-    excerpt: "The use of artificial intelligence (AI) in crypto, though still in its very infant stages, has shown prospects for growth. According to statistics, the blockchain AI market is projected to grow from $220.5 million in 2020 to $973.6 million in 2027 at a ..."
-    publishedDateTime: 2023-03-31T08:59:00Z
-    webUrl: "https://cointelegraph.com/news/here-s-how-the-crypto-industry-is-using-artificial-intelligence"
-    ampWebUrl: "https://cointelegraph.com/news/here-s-how-the-crypto-industry-is-using-artificial-intelligence/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/here-s-how-the-crypto-industry-is-using-artificial-intelligence/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 61
-    images:
-      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDMvMmRiYjAyMzMtNTgwOC00MTUxLTk5OGUtNzUzNjUzMmNjY2QzLmpwZw==.jpg"
-        width: 740
-        height: 493
+        height: 625
         isCached: true
 
 secured: "P0ZVsU1i2qlZF7RAIk05VeC5mO739aQlR1C3+OQle5U7OH5lSPlzMiv3k/+J26nzs7CI1BmYtAq2P+fgAQtXgI04K8/+urQkmZ+H+a9cE4Tjl1UHwvicAFcImYzKO4gM1KrNgbsIbHPLZWyZup7gKWcqMoUaSeRo0MPY+sHhIVBJZ2vA28dnlV7tozDHXwStS+M7Mb5ZWzWkeBs/gRPATMfssSb5hsF5EbemImNfN/SDhp0ERUIs9hDhYL8F7eJBEACLNYVZnYOVArZuflNNlCT+afcL7m4hHPSolsidcL/TAZTmWz2ZBCYMFpcOD/ncRuomGsLXPXC5WajdXP3xPavNyCQuESkpBmvjY8yfCUvkrHItEqhnpzYHNG55/y1qdcX/QFCtQ9wkXPxvpCiqN6fcOh3KsGq+PHv9sAv0JBGWVPTIe+duJOr+hiU++SadTufQd9h/bNbbGw4zIQrPgxfAH8cHzmMTFpZbeWUvlNhQUXIoP96aIlIaUtKG6RopdmTnn1gSSpMKjvnPM7Msjg==;cy4A68kVlzQS2pg72j72sw=="

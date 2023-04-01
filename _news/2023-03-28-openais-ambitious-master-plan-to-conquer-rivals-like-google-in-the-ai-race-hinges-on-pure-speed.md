@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/openai-secret-weapon-ai-race-google-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-secret-weapon-ai-race-google-is-speed-2023-3?amp"
 type: article
 quality: 76
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 67
-  - title: "Zoom upgrades AI features with OpenAI to make meetings simpler"
-    excerpt: "“We are excited to bring many more capabilities with new large language models. Our unique approach to AI will give customers the flexibility ... for an expanded whiteboard service, automated translation tech, tools for hybrid workplace video calls ..."
-    publishedDateTime: 2023-03-27T15:49:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/zoom-iq-ai-openai-features-meetings-summary-compose"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/03/a-5.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "AI ethics group asks FTC to investigate OpenAI"
     excerpt: "The Center for AI and Digital Policy, or CAIDP, made the request in an FTC complaint released today. At the center of the complaint is the GPT-4 model that OpenAI debuted earlier this month. GPT-4 is the startup’s most advanced neural network to date."
     publishedDateTime: 2023-03-30T19:02:00Z

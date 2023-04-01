@@ -28,38 +28,43 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Agency shows the perils of applying AI to the fashion industry"
-    excerpt: "Earlier this month, Danny Postma, the founder of Headlime, an AI-powered marketing copy startup that was recently acquired by Jasper, announced Deep Agency, a platform he describes as an “AI photo studio and modeling agency.” Using art-generating AI ..."
-    publishedDateTime: 2023-03-27T16:53:00Z
-    webUrl: "https://techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry/"
-    ampWebUrl: "https://techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry/amp/"
+  - title: "Why the AI industry could stand to slow down a little"
+    excerpt: "At the same time, tech platforms are cutting members of their AI ethics teams. A large language model created by Meta leaked and was posted to 4chan, and soon someone figured out how to get it running on a laptop. Elsewhere, OpenAI released plug-ins for ..."
+    publishedDateTime: 2023-03-31T13:22:00Z
+    webUrl: "https://www.theverge.com/23664519/ai-industry-pause-open-letter-societal-harms"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: The Verge
+      domain: theverge.com
+    quality: 69
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2015/11/489474058a.jpg?resize=1200,799"
+      - url: "https://cdn.vox-cdn.com/thumbor/1im3ZgLeERN7CpyGHISq0IwfXLo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440561/AI_art_chat_H_Jeong_1.jpg"
         width: 1200
-        height: 799
+        height: 628
         isCached: true
-  - title: "The Psychology of Artificial Intelligence"
-    excerpt: "But what about two decades later? I posed the question earlier posed to participants now to the artificial intelligence software ChatGPT. Order the sensibility of the following three sentences: “after wading barefoot in the lake, Erik used his towel to ..."
-    publishedDateTime: 2023-03-28T00:14:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/keeping-those-words-in-mind/202303/the-psychology-of-artificial-intelligence"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/keeping-those-words-in-mind/202303/the-psychology-of-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/keeping-those-words-in-mind/202303/the-psychology-of-artificial-intelligence?amp"
+  - title: "The AI explosion could help Micron and the chip industry turn the corner"
+    excerpt: "The beaten down chip industry may be on the verge of a turnaround, and the AI explosion is at least partly to thank. That’s according to remarks by Micron CEO Sanjay Mehrotra, w"
+    publishedDateTime: 2023-03-29T20:55:00Z
+    webUrl: "https://www.aol.com/ai-explosion-could-help-micron-204839449.html"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
+      name: AOL
+      domain: aol.com
+    quality: 53
     images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/psychology%20of%20artificial%20intelligence.jpg?itok=jnh-9PYH"
-        width: 1528
-        height: 800
+      - url: "https://s.yimg.com/ny/api/res/1.2/TSYpZGFEyX_rCkkh_3Qf4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDU-/https://media.zenfs.com/en/aol_yahoo_finance_433/9598f1c884aa6c2c4781c8afc1f0a5f9"
+        width: 1200
+        height: 845
         isCached: true
+  - title: "Tech Titans Say Artificial Intelligence Is Progressing Too Quickly, Urge Companies To Slow Down"
+    excerpt: "One group went so far as to ask the Federal Trade Commission to open an investigation into the release of the most popular artificial"
+    publishedDateTime: 2023-03-30T16:57:00Z
+    webUrl: "https://www.nysun.com/article/tech-titans-say-artificial-intelligence-is-progressing-too-quickly-urge-companies-to-slow-down"
+    type: article
+    provider:
+      name: New York Sun
+      domain: nysun.com
+    quality: 5
 
 secured: "idCV825N31vHuiNef0SHSrmH2zy6YhvHYv8DqYtY5+PKxWIqUf1bltndsu67DxmSKNse7LUh9ylqGbtBF41JFIRb507+IWxoiAw6rvfo37dwZAzbAM05vea7I1RrE1qUVdGboD4BWEKzxgHx5IM6i/S/MTZP8KTfku4GafBm+BEdWb0VzzR0otqRigd4gJ619QLXn9MgvFeqcj1hZMYabDzrHy/x0VUcIs2DFSFWYmx6czIoNZFgQt8Ie1NM8IBXYrHU0bTFcC0CI07/bVE0d08HqukhEJCrTboK3cRiIxnaSp+uxf2k9fMAaMJGrKSrg/M/on1FNW2RsDbUI6NgUz6oAFlKU7WmMAbC49XtJ6Q=;50PYIFM3lp83Jk+ddt5MiA=="
 ---

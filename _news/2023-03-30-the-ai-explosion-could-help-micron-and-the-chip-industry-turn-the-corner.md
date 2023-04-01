@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Here’s how the crypto industry is using artificial intelligence"
+    excerpt: "The use of artificial intelligence (AI) in crypto, though still in its very infant stages, has shown prospects for growth. According to statistics, the blockchain AI market is projected to grow from $220.5 million in 2020 to $973.6 million in 2027 at a ..."
+    publishedDateTime: 2023-03-31T08:59:00Z
+    webUrl: "https://cointelegraph.com/news/here-s-how-the-crypto-industry-is-using-artificial-intelligence"
+    ampWebUrl: "https://cointelegraph.com/news/here-s-how-the-crypto-industry-is-using-artificial-intelligence/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/here-s-how-the-crypto-industry-is-using-artificial-intelligence/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 61
+    images:
+      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDMvMmRiYjAyMzMtNTgwOC00MTUxLTk5OGUtNzUzNjUzMmNjY2QzLmpwZw==.jpg"
+        width: 740
+        height: 493
+        isCached: true
   - title: "Tech Titans Say Artificial Intelligence Is Progressing Too Quickly, Urge Companies To Slow Down"
     excerpt: "One group went so far as to ask the Federal Trade Commission to open an investigation into the release of the most popular artificial"
     publishedDateTime: 2023-03-30T16:57:00Z

@@ -18,15 +18,17 @@ topics:
   - AI
 
 related:
-  - title: "Robotics innovation: Leading companies in autonomous lane change for the automotive industry"
-    excerpt: "and growing importance of technologies such as artificial intelligence, cybersecurity, Internet of Things, robotics and cloud computing. In the last three years alone, there have been over 1.2 million patents filed and granted in the automotive industry ..."
-    publishedDateTime: 2023-03-28T12:36:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-robotics-autonomous-lane-change-automotive/"
+  - title: "Pioneering The Predictive AI Wave In Powering The Hiring Automation Vehicle"
+    excerpt: "The company’s products, ~ Ng-NeXT Test and Selectright.ai, are as revolutionary as the founders’ empowering, growth-focused mindset."
+    publishedDateTime: 2023-03-31T00:00:00Z
+    webUrl: "https://www.outlookindia.com/business-spotlight/pioneering-the-predictive-ai-wave-in-powering-the-hiring-automation-vehicle-news-274649"
+    ampWebUrl: "https://www.outlookindia.com/business-spotlight/pioneering-the-predictive-ai-wave-in-powering-the-hiring-automation-vehicle-news-274649/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/pioneering-the-predictive-ai-wave-in-powering-the-hiring-automation-vehicle-news-274649/amp"
     type: article
     provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 23
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 37
   - title: "Artificial intelligence innovation: Leading companies in adaptive active suspension systems for the automotive industry"
     excerpt: "In the last three years alone, there have been over 1.2 million patents filed and granted in the automotive industry, according to GlobalData’s report on Artificial intelligence in Automotive: Adaptive active suspension systems. However, not all ..."
     publishedDateTime: 2023-03-28T09:56:00Z

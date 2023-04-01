@@ -7,8 +7,8 @@ originalUrl: "https://www.theatlantic.com/technology/archive/2023/03/ai-taylor-s
 webUrl: "https://www.theatlantic.com/technology/archive/2023/03/ai-taylor-swift-fan-generated-deepfakes-misinformation/673596/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Atlantic
@@ -27,6 +27,24 @@ images:
     width: 1200
     height: 625
     isCached: true
+
+related:
+  - title: "The Psychology of Artificial Intelligence"
+    excerpt: "But what about two decades later? I posed the question earlier posed to participants now to the artificial intelligence software ChatGPT. Order the sensibility of the following three sentences: “after wading barefoot in the lake, Erik used his towel to ..."
+    publishedDateTime: 2023-03-28T00:14:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/keeping-those-words-in-mind/202303/the-psychology-of-artificial-intelligence"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/keeping-those-words-in-mind/202303/the-psychology-of-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/keeping-those-words-in-mind/202303/the-psychology-of-artificial-intelligence?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/psychology%20of%20artificial%20intelligence.jpg?itok=jnh-9PYH"
+        width: 1528
+        height: 800
+        isCached: true
 
 secured: "w5SirMTWO0lgvpiisrRb2fhBWnrdRJGLP5XibmqlsrGrc8EHsjY8gmq7qo/CSVq1WAPzwVkOV8KI1e63v7IL/kJMH6JPku7cVVz6VBsmJ853f8KTSlRfjM0cx60V+ZFqePorCGxSrbnZBlaIUaHZ+6S+Q+Td5AalXG6f/qGOcBZXcGcZbYbwhmYyYGrDUkMSoGobhPs+wAGlT67MH8X9pIjlm6VJgypQlVOa85qeOB0S9RHhqbRwdyxW9Rop/Vz2MeSrDEOWnZTxDGfHxPzUK6aIsG5RlnQPHhzhbNGcE0bx7FlbmCCiaTqWagU7OYBkJl7MDL7LJL2UltWIme8Qe6DxUK1QNn1kQq7mEgjGZTg=;QOeT2TEiA+hqUvTo255Vaw=="
 ---

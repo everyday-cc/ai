@@ -9,7 +9,7 @@ ampWebUrl: "https://www.scientificamerican.com/article/how-to-tell-if-a-photo-is
 cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/how-to-tell-if-a-photo-is-an-ai-generated-fake/?amp=true"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to use GPTZero to check for AI-generated text"
-    excerpt: "GPTZero can tell you whether a document, report or other item was possibly written by a human or by AI. Here’s a step-by-step guide on using GPTZero for this purpose. With the popularity of ChatGPT, many people are starting to rely on AI to generate emails,"
-    publishedDateTime: 2023-03-27T16:21:00Z
-    webUrl: "https://www.techrepublic.com/article/how-to-use-gptzero-check-ai-generated-text/"
-    ampWebUrl: "https://www.techrepublic.com/article/how-to-use-gptzero-check-ai-generated-text/amp/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/how-to-use-gptzero-check-ai-generated-text/amp/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 87
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/03/tr32723-gptzero-detection.jpeg"
-        width: 1400
-        height: 1050
-        isCached: true
   - title: "Reliably detecting AI-generated text is mathematically impossible"
     excerpt: "The ease with which artificial intelligence can generate and paraphrase language means that detectors to spot AI content will only be as accurate as flipping a coin"
     publishedDateTime: 2023-03-30T09:30:00Z

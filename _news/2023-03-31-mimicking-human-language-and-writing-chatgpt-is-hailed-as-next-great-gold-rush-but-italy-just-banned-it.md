@@ -259,22 +259,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
-  - title: "Up to 80 PERCENT of US jobs could be impacted by ChatGPT-like AI in coming years, study warns"
-    excerpt: "translation, speech recognition, and instrumental track recognition. The team conducted the research by linking 10 AI-powered applications - such as language - to 52 human abilities to understand if any closely relate. The results showed that ..."
-    publishedDateTime: 2023-03-27T15:24:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11907527/Up-80-PERCENT-jobs-impacted-ChatGPT-like-AI-coming-years-study-warns.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11907527/amp/Up-80-PERCENT-jobs-impacted-ChatGPT-like-AI-coming-years-study-warns.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11907527/amp/Up-80-PERCENT-jobs-impacted-ChatGPT-like-AI-coming-years-study-warns.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 48
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2023/03/27/16/69164461-0-image-a-6_1679930230131.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "Big Purple Dot integrates ChatGPT into CRM"
     excerpt: "Big Purple Dot, a real estate marketing platform, moved to integrate ChatGPT into its customer relationship management ecosystem. The Irvine, California- based company is one of the first technology firms in the mortgage space to do so."
     publishedDateTime: 2023-03-30T21:27:00Z

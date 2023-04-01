@@ -7,7 +7,7 @@ originalUrl: "https://www.autonews.com/mobility-report/ford-withdraws-petition-d
 webUrl: "https://www.autonews.com/mobility-report/ford-withdraws-petition-deploy-self-driving-vehicles"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,31 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Self-Driving Vehicle Testing Services Market Current Scenario Analysis Report till 2029"
+    excerpt: "Mar 29, 2023 (The Expresswire) -- Absolutereports.com has conducted research titled \"Self-Driving Vehicle Testing Services Market\" for the years 2023 to 2029, which presents a detailed analysis of market dynamics and trends that will shape the future of ..."
+    publishedDateTime: 2023-03-29T22:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicle-testing-services-market-current-scenario-analysis-report-till-2029-2023-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global L1 Self-driving Vehicle Market 2023 [Intelligence Report] | Gain the Competitive Edge"
+    excerpt: "Global L1 Self-driving Vehicle Market Status and Prospect | New Report [2023-2030] of 115 Pages | Industry report"
+    publishedDateTime: 2023-03-28T10:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-l1-self-driving-vehicle-market-2023-intelligence-report-gain-the-competitive-edge-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
 
 secured: "d6F6pUqw4NuWzqhggL/BVL+vih/2mkC4ioo1MjO+BvwhEkzQ/9zYWIqsN0eqE8jNmCdr3TQ8/tYVY0heIpDAEYUkcNmTDIvpwo0FCwRCx9hjeBpdBYN5XHtmiKspoBT8qr7AOboVRy2xzG0qkKF5cAXSXxkufo1SACbhtkt42Ne/gVS61+A+WqPn7W1PNieTPpLvB5x62tiaYkNeMDgf/thFU1LlZbyZ6VGpBjK9NHdN/IgaWjdV0A3vUB21UC74D6qtJGN3f3FQ/U490Yc1LJDTx9IktRIViFmk/5brsmU4fwx3soJvH3x5ePJWmEcPDNc37Fx7ci1C98Laslo6MZjtR2sH2qtHOCvc1E+SX7vLITyPyM2UBU52MOLemMEnI5G16NOBVC11V9wH/V7jw/Dndg1+zvoCE5KFZYvtDOjImIM7TGdmQbjNMStPz0uo96b4oc0hu8lPw5FcxnPnSozw3uICxFEhEdJGZi1DpKnsI7O62ULmt+HuzlzXMCHyPmNUIpVu2PbEZbQxABKs6Q==;tPPbMVThqAlQmaLVZm2SAg=="
 ---

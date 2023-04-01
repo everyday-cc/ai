@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202303/computer-vision-data-analyt
 webUrl: "https://www.biometricupdate.com/202303/computer-vision-data-analytics-in-the-spotlight-for-retail-and-small-businesses"
 type: article
 quality: 50
-heat: -1
+heat: 50
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 1000
     height: 667
     isCached: true
-
-related:
-  - title: "AI and Big Data Analytics in Telecom Market Size and Forecast till 2031"
-    excerpt: "The \"AI and Big Data Analytics in Telecom Market\" study describes how the technology industry is evolving and how major"
-    publishedDateTime: 2023-03-27T16:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-size-and-forecast-till-2031-2023-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In RegTech Market: Recent Growing Trend 2031"
-    excerpt: "The \"Artificial Intelligence In RegTech Market\" study describes how the technology industry is evolving and how major"
-    publishedDateTime: 2023-03-27T16:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-recent-growing-trend-2031-2023-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "K2kMYih3fOqgk2AFuwZK26KaM4ywviu+6s6cMhQPF/4KIGkzAx7zRPUB+PFq9tZrontKcqqpbW41Cq8drbe8SF81ZqU3VnzP84fP4DXyfB6G/7gp3ZfxbZ6BFZTij5z2npye8YZPxe2y4K3SXeNjuFycJFY+e+AVqXnWMy4teaIvVMWfeCglPi4ymTxcVhjwdtyFRaxYTxJqq9+gt8VN9WFAftB7dv59dZt2dUayv6svevlNdJDri5cJAtn0GzXt9tOhCdgm3xUvfekzLXmGnHZISz+jV0iUB8kNW0UtohNfX7RYfGWx5OXyQ5EQVeKIiY04I5VzhYrei04UF7UPUJvU/okJ5BN/qHbjwgsFydb56yosx9F0+A0Psrjd5zWdq4TP9XV/i71gE8E7Mixi29x+1hm6S4/DL85/dJn1b1GfLwxysOHnVIU8TPbV1S1KIR9eZQchg4W3GV4VKLLudHLone/Twjy4/hVTxPUiTn58dPTo8zAq1pXy9xysFhtuf0hP8E7Z1wxeukqv1o2lxw==;taJ4Nh99ru3ApfxUYpH5OQ=="
 ---

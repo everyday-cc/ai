@@ -50,33 +50,6 @@ related:
         width: 640
         height: 426
         isCached: true
-  - title: "Pope Francis: An ethical AI respects human dignity"
-    excerpt: "Credit: Vatican Media Pope Francis said he welcomes the regulation of artificial intelligence so that it might contribute to a better world. He also said he is reassured to know many people working on new technologies put ethics, the common good ..."
-    publishedDateTime: 2023-03-27T16:00:00Z
-    webUrl: "https://www.catholicnewsagency.com/news/253947/pope-francis-an-ethical-ai-respects-human-dignity"
-    ampWebUrl: "https://www.catholicnewsagency.com/amp/news/253947/pope-francis-an-ethical-ai-respects-human-dignity"
-    cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/253947/pope-francis-an-ethical-ai-respects-human-dignity"
-    type: article
-    provider:
-      name: Catholic News Agency
-      domain: catholicnewsagency.com
-    quality: 74
-    images:
-      - url: "https://www.catholicnewsagency.com/storage/image/mtc4775.jpg?w=720&h=480"
-        width: 720
-        height: 480
-        isCached: true
-  - title: "Pope Francis: Ethical Artificial Intelligence Respects Human Dignity"
-    excerpt: "Vatican Media Pope Francis said he welcomes the regulation of artificial intelligence so that it might contribute to a better world. He also said he is reassured to know many people working on new technologies put ethics, the common good and the human ..."
-    publishedDateTime: 2023-03-27T16:21:00Z
-    webUrl: "https://www.ncregister.com/cna/pope-francis-ethical-artificial-intelligence-respects-human-dignity"
-    ampWebUrl: "https://www.ncregister.com/cna/pope-francis-ethical-artificial-intelligence-respects-human-dignity?amp"
-    cdnAmpWebUrl: "https://www-ncregister-com.cdn.ampproject.org/c/s/www.ncregister.com/cna/pope-francis-ethical-artificial-intelligence-respects-human-dignity?amp"
-    type: article
-    provider:
-      name: National Catholic Register
-      domain: ncregister.com
-    quality: 56
 
 secured: "GgTXvaNXQ7++ssKpvnFS2HfoxNJrsjt53TOOXX5y806OcfUg8dZFhG/ORfHMvdYqmS8bumUQL5U3V7POps++RxJE6xDxOih0NofexXVE1qftcY0J0s0Y+2D55NG7v+f3wVSfUIyFwLshG+roNrE4YfO1QZwtvLM2A6e31y/E5LZbbqnKWqmg9M/yiO08i8az+sp+4A54Sv4jddO/MzluU2cyFR/vdThylhYYy5xoeHVI/AUNwxVumBhMf8g0hyj9REiCxBOhLjr9m00rCLhWEBWZ/tBIHDZOrPW0hWBl/kbnfqffplp3MMSnCGm029Cj7bXIGxSoqYv+DjlN8OdLzZtc9c0bBFbOqoQNJS5Y6JIHBLLXVEb4NkdIMuWwoBSqzWloVs6L5vqOprhQrT2pJ6C9YxqMWMAA21NlF2Xek50Fx3EqBZY05pEawqj/Z6qYlkFh4dpea47XQg7SK61n75u5vr6Q0iYRMTbMiUGxfps/I1ByuB0cveEbSgKcwmLrO5dYYZGEb1i53wv5MhPDyg==;XjxgFFvGHdKUWlCc7kTItg=="
 ---

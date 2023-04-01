@@ -209,21 +209,21 @@
       ]
     },
     {
-      "path": "_news/2023-04-01-google-ai-based-tiny-syringe-to-inject-gene-therapy-tumour-killing-drugs.md",
-      "title": "Google AI-based tiny syringe to inject gene therapy, tumour-killing drugs",
-      "excerpt": "A team of researchers has harnessed Google's AI venture DeepMind to develop a bacterial injection system which can inject proteins, including cancer-killing drugs and gene therapies, directly into human cells.",
+      "path": "_news/2023-04-01-the-rise-of-ai-taylor-swift.md",
+      "title": "The Rise of AI Taylor Swift",
+      "excerpt": "But AI Taylor Swift’s viral spread on TikTok adds a wrinkle to these dynamics. It’s one thing to debate the ethics of so-called real-person fiction among fans in a siloed corner of the internet, but on such a large and algorithmically engineered ...",
       "sourceUrl": null,
-      "webUrl": "https://www.thestatesman.com/technology/google-ai-based-tiny-syringe-to-inject-gene-therapy-tumour-killing-drugs-1503168119.html",
-      "originalUrl": "https://www.thestatesman.com/technology/google-ai-based-tiny-syringe-to-inject-gene-therapy-tumour-killing-drugs-1503168119.html",
+      "webUrl": "https://www.theatlantic.com/technology/archive/2023/03/ai-taylor-swift-fan-generated-deepfakes-misinformation/673596/",
+      "originalUrl": "https://www.theatlantic.com/technology/archive/2023/03/ai-taylor-swift-fan-generated-deepfakes-misinformation/673596/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://www.thestatesman.com/wp-content/uploads/2019/10/iStock-458686061_ED.jpg",
+          "url": "https://cdn.theatlantic.com/thumbor/bcpkOj1yfdGWiupOdCoLS_4FvxY=/0x41:1917x1039/1200x625/media/img/mt/2023/03/AI_Taylor_4_still/original.jpg",
           "width": 1200,
-          "height": 800,
+          "height": 625,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -231,14 +231,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thestatesman.com/technology/google-ai-based-tiny-syringe-to-inject-gene-therapy-tumour-killing-drugs-1503168119.html/amp",
-      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/google-ai-based-tiny-syringe-to-inject-gene-therapy-tumour-killing-drugs-1503168119.html/amp",
-      "publishedDateTime": "2023-03-31T15:13:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-31T14:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Statesman",
-        "domain": "thestatesman.com",
-        "images": null,
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -247,7 +256,7 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "AI Ethics",
         "AI"
       ]
     },
@@ -407,7 +416,7 @@
       "originalUrl": "https://www.infoworld.com/article/3691792/the-ai-tax-on-ai-enabled-applications-in-the-cloud.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -807,7 +816,7 @@
       "originalUrl": "https://www.theverge.com/23664519/ai-industry-pause-open-letter-societal-harms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {

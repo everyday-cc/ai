@@ -24,22 +24,6 @@ images:
     height: 455
     isCached: true
 
-related:
-  - title: "Researchers create a high-performance \"brain\" for AI using OLED TV materials"
-    excerpt: "A high-performance device made of indium gallium zinc oxide helps advance the computing speed of such AI systems."
-    publishedDateTime: 2023-03-27T15:51:00Z
-    webUrl: "https://interestingengineering.com/innovation/brain-for-ai-using-oled-tv-materials"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 36
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/03/27/image/jpeg/ekJFieQbPZ8jOYV4sLc9O6hXmwXVGPf9ejlgJJfd.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-
 secured: "l8StdHPMyRB6Hxd+8+kGctOuGbsA6di8DXFOhU47kPgiMDeo9iFjlkVwIjwHs242a0OH1HF6O/fM6RU/zrYnVWnzI5WQ3jTKdZY6lcXbrkfSW/E75a8VBkLdaPnYEahVuKmf4WrC0shykoVIOfqHivC+Fa7yruWdFxNklcHSnWsbiQ8ZAsYDXcMxyp3PHKr9YoBnZEvDFWXdgSdR1v3ybkqWkY1B2wCE3QS/lzKX9lz80bXBLVj64ZYbwpuic8ZKe3r/19uHnsA4mQ68IQQ8Sq41XxKqKwuzTsjvSB0en18fond26m5Vx84+Ka8sLpfSPyE/zg83Fe0EPtnvUx+18qdbUDHJJxhz6JpsffKswpcOkHWKyOb5KFQu2AkgJfh/poj8yDWVUKYvmNHTRKd3ddTQWFUqxqtASvjYdsVmJCxFpdASRuD9as1SVNEwDg4to7PACTq9Y/zaX2yQw65ubLZdedzRrMAkU0XuuPvnohCWIKxRNHjktddD+YQG2BQlbIX9NrhDpsMK8tACc899OQ==;MzRf00Xz2j2qIUexHO+2Mg=="
 ---
 

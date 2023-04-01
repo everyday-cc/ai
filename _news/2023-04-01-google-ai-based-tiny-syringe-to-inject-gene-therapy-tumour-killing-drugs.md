@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Google AI-based tiny syringe to inject gene therapy, tumour-killing drugs"
-excerpt: "A team of researchers has harnessed Google's AI venture DeepMind to develop a bacterial injection system which can inject proteins, including cancer-killing drugs and gene therapies, directly into human cells."
-publishedDateTime: 2023-03-31T22:13:00Z
-originalUrl: "https://www.thestatesman.com/technology/google-ai-based-tiny-syringe-to-inject-gene-therapy-tumour-killing-drugs-1503168119.html"
-webUrl: "https://www.thestatesman.com/technology/google-ai-based-tiny-syringe-to-inject-gene-therapy-tumour-killing-drugs-1503168119.html"
-ampWebUrl: "https://www.thestatesman.com/technology/google-ai-based-tiny-syringe-to-inject-gene-therapy-tumour-killing-drugs-1503168119.html/amp"
-cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/google-ai-based-tiny-syringe-to-inject-gene-therapy-tumour-killing-drugs-1503168119.html/amp"
+title: "Google AI-Based Tiny Syringe To Inject Gene Therapy, Tumour-Killing Drugs"
+excerpt: "A team of researchers has harnessed Google's AI venture DeepMind to develop a bacterial injection system which can injec"
+publishedDateTime: 2023-04-01T09:22:00Z
+originalUrl: "https://menafn.com/1105925022/Google-AI-Based-Tiny-Syringe-To-Inject-Gene-Therapy-Tumour-Killing-Drugs"
+webUrl: "https://menafn.com/1105925022/Google-AI-Based-Tiny-Syringe-To-Inject-Gene-Therapy-Tumour-Killing-Drugs"
 type: article
-quality: 73
-heat: 83
-published: true
+quality: 53
+heat: 63
+published: false
 
 provider:
-  name: The Statesman
-  domain: thestatesman.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.thestatesman.com/wp-content/uploads/2019/10/iStock-458686061_ED.jpg"
-    width: 1200
-    height: 800
+  - url: "https://menafn.com/updates/pr/2023-04/01/I_71676image_story.jpg"
+    width: 400
+    height: 265
     isCached: true
 
 related:
@@ -37,6 +35,6 @@ related:
       domain: euroweeklynews.com
     quality: 27
 
-secured: "SS0bM1EcLgvlK2M9OIVTAH3ozdOJhgxeNHjr0gvkTmrgJDMTdQLsJkN+om2qy0tw6xTaK48Vyq58W62J6V/7n4Ulp85ChhfugKm9eP25bIUG0VeWNms7Adn90AvTkI6P9hqrdlEzcg1ma1YY0ghnqkeQ3b2msF+oXoA5+Bf/4Niy85tuV2Z36Z3FmoeSpDcSL72qsyhauTv56bGT0a1CvFEL2H7wUcaG5Rgcee6P7tIDFyuI8nvP+wK5pnqnKkjT+pG5BwWFSI9EcSrjZQDar/n7I7f1MsyPfjuqDyASSnqp+mn9mkfDIO6JFYb6943woqjgfMyfh6FmkCTdl9i7zTkrBTpmq+ISaQmO3n+EcmWqhg589ia7CzmGSx0cAkjRepJ5u8atEQMoJ2RPW+NBzwFkuE8KDhV7prtaZbb4DBzGe+lXAV0MirpGialoxCVCu/vgrr96i6tvXx2MlnsjKklUjSpVdISeHv8cFI0ojoX9trElPQ2vAiY1Yl1xnUHJ4pLwVK3jm4BZu8svObNUKg==;sTYjc0vjsgQFllphv5mTdg=="
+secured: "YKKBX98Emswm8IlJCOzd/8nACTJHBBI9ycX53p4pOivgFPQpAG3J4SbvdrLqHFWNG/WBhNuw5hMifeU3hzNBvIu+FMT3RG7LUOY7PEh8vmXG4UNk1IdyqvysXTvO1js+sxp90Q18fArgp+y0AXI3akjvfMGpK9tbAYhHTzALaVo4qR20wZv2NASMWLghFNG056m+SjHq6oc5wHzQ0otAa9wEdURYkuXkikFliljwvkcETUUDrhWnTCOgcCj/OWx9ZTMqkrKVjhXRV7+g3V1+365WPr4eXikzxm/Nl/3WkXB0Felx6KtZ81Z4eI/Jgof4r4eEbrcJ/9kaBR1kXFuA5DZDgTnYuLo37eJd7hQnuBo=;T8bDi0jYWXwJ0b0k40ukCg=="
 ---
 

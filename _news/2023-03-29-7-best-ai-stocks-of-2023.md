@@ -23,36 +23,43 @@ topics:
   - AI
 
 related:
-  - title: "The Dream Of Placing Blocks On Chip Designs With AI"
-    excerpt: "“This work demonstrates the effectiveness of combining GPU-accelerated placers with AI/ML multi-objective parameter optimization,” Agnesina and Ren wrote. “Furthermore, given the importance of scalability in modern chip design flows, we hope this ..."
-    publishedDateTime: 2023-03-27T19:50:00Z
-    webUrl: "https://www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/"
-    ampWebUrl: "https://www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/amp/"
+  - title: "Best Artificial Intelligence (AI) Stocks and Shares for 2023"
+    excerpt: "From self-driving cars to surgery-performing robots, artificial intelligence (AI) is helping to transform every part of our lives. And the potential opportunity created by this high-growth ..."
+    publishedDateTime: 2023-03-28T14:01:00Z
+    webUrl: "https://www.forbes.com/advisor/in/investing/best-artificial-intelligence-ai-stocks-shares/"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2023/03/Nvidia-AutoDMP.jpg"
-        width: 1999
-        height: 1126
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/03/pexels-alex-knight-2599244-1-scaled.jpg"
+        width: 2560
+        height: 1440
         isCached: true
-  - title: "Key paper on AI chip design might be overstated"
-    excerpt: "Terminator not coming for chip designers A key Google-led research paper claiming machine-learning software can design better chips faster than humans has been called into question after a new study disputed its results."
-    publishedDateTime: 2023-03-28T11:12:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/56610-key-paper-on-ai-chip-design-might-be-overstated"
+  - title: "10 best AI apps for Android and iOS"
+    excerpt: "AI is hitting the world in a big way and you can take part in it. Here are the best AI apps for Android and iPhone to enjoy the new tech."
+    publishedDateTime: 2023-03-31T22:06:00Z
+    webUrl: "https://www.androidauthority.com/best-ai-apps-3308354/"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
     images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/68d425fd6b707bcebf12c496882c2580_L.jpg"
-        width: 620
-        height: 465
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Nova-best-AI-apps-for-Android-and-iOS.jpg"
+        width: 1920
+        height: 1080
         isCached: true
+  - title: "Artificial intelligence (AI) in Supply Chain and Logistics Market Size, Share and Forecast 2031"
+    excerpt: "Also, it splits Artificial intelligence (AI) in Supply Chain and Logistics market Segmentation by Type and by Applications to fully and deeply research and reveal market profile and prospects. Increasing use of is expected to drive the growth of the ..."
+    publishedDateTime: 2023-03-27T18:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-size-share-and-forecast-2031-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
 
 secured: "8Kfmuuqq6IpgJrMPtV7WBF4uWEhwReYL6INYY6WSKgkNVqcHfwdf9zK7J0UqyVpfqt1sVcSZaCwE+p/2lmtsGmIkoCckhXqouFaQ3ttoMuyAiTxfVMA8dDSI86Gkx8hMYUcXT2EIEVIPXwldvyl9wlneninwUdG3/EKGYN7Mqfy4H4EfPfLMIc5CT4Pz8JtKKRCeNZ5S2ag8TcGfqyqIRi1cPDk66U+agwZMl7FytPskikp2chV48C3o2Yu55WB4NHysFVqzAYFvzUm4/zjmZTzgrdbtjf1w2L//x2ZuEyPHqBWhhR6AVhFKkp9HFmJP1OS4ZvAtRc+YVGjAJu5Wzobz/mOzj1tZrIwujOWgTvi16ojzHPczLOrhju/xQih4UuuChCqbbQvg3jQ6Lqy7ALreqPsc+edh7IiGhlDGKcOCnPmZLIpjVwfWzHyv81cu7/m5yWXhnGlmml1eEdzNDl+7DC5wmdTPjCZOi3sqYCrf2uwwL7FHOoskggh+B6omiBgMSFHPsrh5aibEhviMcQ==;5oiMlnoOlwRAiz2i3iezZw=="
 ---

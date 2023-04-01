@@ -9,7 +9,7 @@ ampWebUrl: "https://tribune.com.pk/story/2408472/public-health-ai-and-ethics?amp
 cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2408472/public-health-ai-and-ethics?amp=1"
 type: article
 quality: 74
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "10 best AI apps for Android and iOS"
-    excerpt: "AI is hitting the world in a big way and you can take part in it. Here are the best AI apps for Android and iPhone to enjoy the new tech."
-    publishedDateTime: 2023-03-31T22:06:00Z
-    webUrl: "https://www.androidauthority.com/best-ai-apps-3308354/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 67
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Nova-best-AI-apps-for-Android-and-iOS.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Data and AI Ethics Market 2023 Size Growing Rapidly with Recent Trends"
     excerpt: "Market Updates(360marketupdates.com) published a new research report on Data and AI Ethics Market 2023 with 110"
     publishedDateTime: 2023-03-29T02:53:00Z
