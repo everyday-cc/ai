@@ -5,8 +5,6 @@ excerpt: "A deep learning model can accurately evaluate the area subscore of the
 publishedDateTime: 2023-03-23T18:01:00Z
 originalUrl: "https://medicalxpress.com/news/2023-03-deep-ids-area-subscore-palmoplantar.html"
 webUrl: "https://medicalxpress.com/news/2023-03-deep-ids-area-subscore-palmoplantar.html"
-ampWebUrl: "https://medicalxpress.com/news/2023-03-deep-ids-area-subscore-palmoplantar.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-03-deep-ids-area-subscore-palmoplantar.amp"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2023/deep-learning-model-id.jpg"
-    width: 800
-    height: 599
-    isCached: true
-
-secured: "I5LEDWamUmWV+ngvWFXhAFTU4t5kf2z6cgbUyLTqHBWBf9iHYVWpnR/1JCBuYpNtdxfkTAEiDeNg+QySzZIpGhQHNt66NE6qNIr7RjCTN2NccF2P19LEOy/b4TDB2sI6ZiNjpIBABLs0LKSDT89HwhWH8w66NcOiO5q4zmqCKJhk85wWZAZ4omd1V6FxvblehDD5oC91/nF0O2YuqyMGAp3Ijs3mi99UOdqTUkZRj4ghMyi+GJlwZUCE+4ZM9XjCTDbfwjQ7Tzg6FxBrXKw+OuV95HTCvwMxTj0GV5Uk2cP894xdP0nIE7vXVmZCbpcCbKaojT1sT7IJkp+nphg/HDqAKhaY3yu2PJXoptmROdQ=;BmMN2Sv3sBhKuntwsDPjAw=="
+secured: "qK3/TUniINWMsBczKCX3TD4ocUhMBz9UsjBvq+BDcYrYm7TmNNYvxAt72r/BvmfP8XPuvMnTUT79MbUl8Wagd8/72GzNwEzfyBb9agjXVPUuI02VBo8hhOVItV5FhTipg1acESEOT9UWRmcHQnWHqhcWIqndfUkBfdd5xcgL68GiFfxs+1OtALs+IsFwXD5jEMPp6x14fj/Rh62wDGeY5zOMZFYTq+L4wQ9rSD7QnkxJhXa3xNw+7wmWKEzZR4pIW/rS6F1R+nECSd1BYmZynZSPQitYOKWfyJcvGMNnQZ+mQARME052V/9JTg/TSsZfmTXKfzDoUIGFxufx4ELyg8KnenIcVvULAi7RcccufQ0=;L71foewHMB4kIetd8ginmw=="
 ---
 

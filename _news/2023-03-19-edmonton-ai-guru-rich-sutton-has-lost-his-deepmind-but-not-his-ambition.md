@@ -5,8 +5,6 @@ excerpt: "Dishing with DKG: The University of Alberta professor is a pioneer in 
 publishedDateTime: 2023-03-19T13:40:00Z
 originalUrl: "https://nationalpost.com/news/canada/ai-guru-rich-sutton-deepmind"
 webUrl: "https://nationalpost.com/news/canada/ai-guru-rich-sutton-deepmind"
-ampWebUrl: "https://nationalpost.com/news/canada/ai-guru-rich-sutton-deepmind/wcm/603bee65-3005-4929-b37f-77d0d2f3bba5/amp/"
-cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/news/canada/ai-guru-rich-sutton-deepmind/wcm/603bee65-3005-4929-b37f-77d0d2f3bba5/amp/"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2023/03/Richard-Sutton-1.jpg"
-    width: 1000
-    height: 750
-    isCached: true
-
-secured: "W+B7IdGdp9J1IfBueJvD/aytIAt3b+Ro11OGw96BmI/TN3yOv9JMBocG0p6UJoLvfvRQ80ctxdJjyLBmKZhaNWGHWUNd9lC7xCfe/jMutmumn8I1qI452fC+v9kssbn5y1G3fAW4SeX4hq1D5o4KVPXYbJCSt1LF6HeK09kH8s+uP4kr9pWf5re3CO47TGN8L/0M1fX7bPnnnR6/E3flfdRJFcZLbE7HKa16UZz4T1GHoG1+ZH9CQAigOXHLCRNHU8EfRVEN7qfKSwdXkDbUtEqCYN7X5zNpfjLQHuUFbs4NrwRhgWQoom7XAmrew/FlxZhkNjxMFc4mwy2eaD1g7b22BIky4IAjxHrvo79tAZk=;Nv1OuwFiYrbMor+jzejuQw=="
+secured: "TLGRNcA3QME4PqLt0kvg2bGohJ3UUcFceYCCmLlb+D2uee5XpUzWgJ9vmlTqUza27M1KjENzrOa/AAxjMmAU+z3UslDMwa05DaU0lL+NOApneRgvk29pVI3oazQc9SEG5G6famY2xIYao0C0H+oV25ScxO8cu0I1YmVvnOcM1eO2nLz50u9O6VqfST1Zf5AipgkJms4COJfiNX1E9feUyrSARnhG5cdw2Yv1SfjK/N8qw3+ze4luyeNQJaQgjsYT3P8pEwIOGabsmbA1mUQU2B4DSKS10Hc5XrZfRWgqicqivg8n3ouJLjB18HgCQl2dg3IJWvLi/VmcYhHxGkUBZL98SHqvz5U03571N2rJUaU=;VivS9IeefcHabbnKOmxkbg=="
 ---
 

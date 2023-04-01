@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 related:
   - title: "Why the AI Economy Might Be Better for Everyone"

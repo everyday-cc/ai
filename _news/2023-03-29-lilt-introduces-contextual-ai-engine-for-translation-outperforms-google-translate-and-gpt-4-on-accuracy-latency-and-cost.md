@@ -6,9 +6,6 @@ publishedDateTime: 2023-03-29T13:09:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/03/b31547434/lilt-introduces-contextual-ai-engine-for-translation-outperforms-google-translate-and-gpt-4-on-acc"
 webUrl: "https://www.benzinga.com/pressreleases/23/03/b31547434/lilt-introduces-contextual-ai-engine-for-translation-outperforms-google-translate-and-gpt-4-on-acc"
 type: article
-quality: 8
-heat: 8
-published: false
 
 provider:
   name: Benzinga.com
@@ -18,6 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "A1eWnTM1H5BOteq7GaeSY1HJDHLBESt0SWjDxG3t4D/tmin9Xi66P3KobceWVI1C8R1Ardec6/ckkVQa9U70RwlowmC0RdQd9rU0pmHywuZxR5Q1jlLP0aUnSXFvl860R7WnI023IA3mYmvvvRCQ79B0Mal8LWTTrUprfhLYk1bdyhIdT6mT/rVcZfZzwVOqWRhCdAdvhLOhP+m2JnsBqvQImUAgCQpp5SSYxoFeaLTMLEMM3NlntA5oQCF4198uDkT7A36aVhgNB6YCzUa3YAoXwft6wBT+jvb5WqDkb5irF/7twuulqPPprWdaVYs6jLeMomLgA4u28eZKcLAZz0csDi0gxg5W9FLOQHc20kc=;eOR51+1ZfCn7pik/fv04tA=="
+secured: "0mumZpkKh/2U+2LY8UVjQttFHDpRRhDdZvVGmIcqFQnoRcOIznSG19QfZUGJtBH7P5RepZxvlWpIwVh2WAeyhNEbWantMPKWgzod42+YzrAKXJLoXDI5d8VfqKEyye4w842Me+gR9hH4AE55QWCwiEvFkcZ4PloFGtSIwembLx4VQgR/Hktz+uIPdnrpTPM8Bt3sdYTDjY/c8ddFpR+ngsIEStlTSdAhhdZ/+PL1l1yMTVgZ6atdDBlbqzbDlUvvFXQw670zqS7syPSf4or0Juka5FGWl3x3LqtX4uMCEBxBvYHJbaSR9ZhMx//MlyWFXuZbh21ajCGNK8s3FnHvSKZAwdv88GrRitY2WK7SiwE=;IZL6AqP1BfUsyyhb5Kxirg=="
 ---
 
