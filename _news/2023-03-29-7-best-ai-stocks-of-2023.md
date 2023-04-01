@@ -39,20 +39,6 @@ related:
         width: 1999
         height: 1126
         isCached: true
-  - title: "AI Becoming More Prominent In Chip Design"
-    excerpt: "The good and bad of more data, and how AI can leverage that data to optimize designs and improve reliability. Semiconductor Engineering sat down to talk about the role of AI in managing data and improving designs,"
-    publishedDateTime: 2023-03-27T07:01:00Z
-    webUrl: "https://semiengineering.com/ai-becoming-more-prominent-in-chip-design/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 54
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/Black-Gold-AdobeStock_421176269-07-07-21-scaled.jpeg?fit=2560%2C1080&ssl=1"
-        width: 2560
-        height: 1080
-        isCached: true
   - title: "Key paper on AI chip design might be overstated"
     excerpt: "Terminator not coming for chip designers A key Google-led research paper claiming machine-learning software can design better chips faster than humans has been called into question after a new study disputed its results."
     publishedDateTime: 2023-03-28T11:12:00Z

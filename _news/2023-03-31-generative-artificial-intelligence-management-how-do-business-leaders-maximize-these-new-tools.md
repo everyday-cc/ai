@@ -8,8 +8,8 @@ webUrl: "https://wraltechwire.com/2023/03/31/generative-artificial-intelligence-
 ampWebUrl: "https://wraltechwire.com/2023/03/31/generative-artificial-intelligence-management-how-do-business-leaders-maximize-these-new-tools/?amp=1"
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/03/31/generative-artificial-intelligence-management-how-do-business-leaders-maximize-these-new-tools/?amp=1"
 type: article
-quality: 43
-heat: 43
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://wraltechwire.com/wp-content/uploads/2023/03/levart_photographer-drwpcjkvxuU-unsplash-1-scaled-e1677768398177.jpg"

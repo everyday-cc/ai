@@ -80,6 +80,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "AI and the Future of Health"
+    excerpt: "Read about some of our research team’s work to make healthcare more data-driven, predictive, and precise – ultimately, empowering every person on the planet to live a healthier future."
+    publishedDateTime: 2023-03-30T18:43:00Z
+    webUrl: "https://www.microsoft.com/en-us/research/blog/ai-and-the-future-of-health/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2023/03/AI-Health_blog-2023Mar_TW_LI_FB_with_logo_1200x627.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "nODNUFbiwdTNMfFt3kycaPRHQVMI2RMwHMnLb2FMuPEYNp/MX8oOVd+rmi3wVQwJZG23lSQT9701IVXIhYCRZ6ZFKGNV4Z0sFTgVDZ8tTzqUn2F+R6VlTOhUVuabp4Udv9L1+6+E8Q8zCRY+l9HGnnlRehES3/h1+XlAivzn3scqdOF0R3XNa3lryEHBOU/OBTDtw+j9gY2v7x0l4uvNniCsY9LgFkt9giXSbmxFM/0cZOGDyM7Sa6EU4WGneiIff3onZzhVdn/chJHLafSBtYudCRqR6+5pcJX+k3Uq3/W3X3vYKnEyB04ay6uLzHYuG+ZwClAkFoD+l0yIlnvPtZoYLoLn5NAmscLZ8m+bo2s=;LMGsZmDy0aDz8GQtzOaq3w=="
 ---

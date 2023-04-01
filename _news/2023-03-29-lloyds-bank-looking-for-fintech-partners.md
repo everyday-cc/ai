@@ -28,20 +28,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "German Fintech Sector Continued to Grow and Mature in 2022"
-    excerpt: "In 2022, the German fintech sector continued to grow and mature, on a back of solid funding activity, a dynamic merger and acquisition (M&A) landscape, and growing usage of digital financial services,"
-    publishedDateTime: 2023-03-27T05:43:00Z
-    webUrl: "https://fintechnews.ch/fintechgermany/german-fintech-sector-continued-to-grow-and-mature-in-2022/59211/"
-    type: article
-    provider:
-      name: fintechnews
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2023/03/German-Fintech-Sector-Continued-to-Grow-and-Mature-in-2022.png?x30842"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "4 Disruptive Technologies That are Shaping the Fintech Industry"
     excerpt: "Fintech is one of the top beneficiaries of innovation and technological advancement. Over the years, technology has revolutionized how people see, spend, move, and invest money. In this article, you will learn about four innovative technologies shaping the Fintech industry."
     publishedDateTime: 2023-03-28T03:14:00Z

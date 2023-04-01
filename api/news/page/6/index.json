@@ -355,40 +355,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-24-deep-learning-model-ids-area-subscore-of-palmoplantar-pustulosis.md",
-      "title": "Deep Learning Model IDs Area Subscore of Palmoplantar Pustulosis",
-      "excerpt": "A deep learning model can accurately evaluate the area subscore of the Palmoplantar Pustulosis Area and Severity Index (PPPASI), according to a study published online Feb. 23 in the Journal of Dermatology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.physiciansweekly.com/deep-learning-model-ids-area-subscore-of-palmoplantar-pustulosis/?pagetype=dermatology&pwpagesubtype=dermatology-latest",
-      "originalUrl": "https://www.physiciansweekly.com/deep-learning-model-ids-area-subscore-of-palmoplantar-pustulosis/?pagetype=dermatology&pwpagesubtype=dermatology-latest",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-24T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Too Old to Operate",
-        "domain": "physiciansweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-24-airport-gets-facial-recognition-technology.md",
       "title": "Airport gets facial recognition technology",
       "excerpt": "Cameras installed at the Jinnah International Airport equipped with facial recognition technology have been made operational, with the Federal Investigation Agency (FIA) and the Civil Aviation Authority (CAA) to manage it jointly. The surveillance system ...",
@@ -982,6 +948,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-deep-learning-model-ids-area-subscore-of-palmoplantar-pustulosis.md",
+      "title": "Deep learning model IDs area subscore of palmoplantar pustulosis",
+      "excerpt": "A deep learning model can accurately evaluate the area subscore of the Palmoplantar Pustulosis Area and Severity Index (PPPASI), according to a study published online Feb. 23 in the Journal of ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-03-deep-ids-area-subscore-palmoplantar.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-03-deep-ids-area-subscore-palmoplantar.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/deep-learning-model-id.jpg",
+          "width": 800,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-03-deep-ids-area-subscore-palmoplantar.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-03-deep-ids-area-subscore-palmoplantar.amp",
+      "publishedDateTime": "2023-03-23T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },

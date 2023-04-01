@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/03/generative-ai
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/generative-ai-set-to-affect-300-million-jobs-across-major-economies/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Generative AI Gets An Upgrade To Business Class"
+    excerpt: "You might have had a feeling of déjà vu last week when Adobe announced its Firefly generative AI service that lets you produce sets of new images by typing a description of what you have in mind."
+    publishedDateTime: 2023-03-31T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forrester/2023/03/31/generative-ai-gets-an-upgrade-to-business-class/"
+    ampWebUrl: "https://www.forbes.com/sites/forrester/2023/03/31/generative-ai-gets-an-upgrade-to-business-class/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/03/31/generative-ai-gets-an-upgrade-to-business-class/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64259476a22a753da5f43b0c/0x0.png?format=png&crop=1050,590,x0,y52,safe&width=1200"
+        width: 1050
+        height: 590
+        isCached: true
   - title: "Generative AI set to affect 300mn jobs across major economies"
     excerpt: "The investment bank said on Monday that “generative” AI systems such as ChatGPT, which can create content that is indistinguishable from human output, could spark a productivity boom that would eventually raise annual global gross domestic product by 7 per cent over a 10-year period."
     publishedDateTime: 2023-03-27T16:30:00Z

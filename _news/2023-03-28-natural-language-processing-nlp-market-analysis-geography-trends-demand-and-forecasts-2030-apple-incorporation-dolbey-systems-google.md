@@ -92,6 +92,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+  - title: "Self-Driving Vehicle Testing Services Market Current Scenario Analysis Report till 2029"
+    excerpt: "Mar 29, 2023 (The Expresswire) -- Absolutereports.com has conducted research titled \"Self-Driving Vehicle Testing Services Market\" for the years 2023 to 2029, which presents a detailed analysis of market dynamics and trends that will shape the future of ..."
+    publishedDateTime: 2023-03-29T22:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicle-testing-services-market-current-scenario-analysis-report-till-2029-2023-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "BB3J+UK9pbAOdDvzIlHthJTYBsA71n+aOSIGT4/NVdHAtP2jJJnx8nCa66hTj+6ixkxrCOMXFPauW+T7WZyrDhcQhzRxJdnV5DGfOHoRYBM45t8Uz+Yx7orZoJGMXnRPcuw4OsiDj1fWlubYHqaVtvwJPMTJBRZES2whU0UP7/dsh1hxh2dyo+VYztu0NZIDl+oqAqcCN7An3vF8XKiuMxqbPvbNv1peHT2FYuxJDPWrk0ocxECjmZ78Zkz58tvHmRx5Ndk0hCPQvZET4skO+QwyyosldTrfr7U9bOLkNihI8Biq1WNoB/JBhqMScPVS3BFt/stDDLmtzFFxpivBmznHNAOYG37AcPkICVuFNo4=;9RcePhM6c/tNygellOjCRw=="
 ---

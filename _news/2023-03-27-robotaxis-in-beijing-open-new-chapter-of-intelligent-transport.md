@@ -57,16 +57,7 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "Driverless cars ready for hire in suburban Beijing"
-    excerpt: "Driverless taxis are now available for hire in suburban Beijing, marking a new chapter in intelligent transport, China Daily reported Monday. Beijing earlier in March granted licenses to Chinese tech giant Baidu and autonomous vehicle startup Pony."
-    publishedDateTime: 2023-03-27T06:48:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202303/27/WS6421366ba31057c47ebb6c06.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 19
 
-secured: "mK00NK6oPpQPzCyqVf1gE1ESMJrvA7CoSL8pekd2WXkoVWukrRNseVY6QjDPr/nsJ38L6rZNf/xfpX/XE2myOcEK6+1EQIrln41UtHVMbesIlqIOt9W7IuABB5Ke2y9yxMdsqmfzXEruWfg8OCzHxeTolsNOnXPssA9JT3E2dF2pv+idrkNXB5OHjsqVTk4LyzLXVtIatK/TI+owfe+SMvHCALz1BQVxWXFqCNkUhZDP8wZhqLWJt+BtX/RXzmsicEkBFSKtux/rf+wfQhn+9ejEa75x9duCEIfO9EAACzl8NatSFLLz7pmC5euaOM+7kb8qubE04HCPPj8Qs4bsdO/T4j2A529KGeLL1wRgBwE=;4Fclt6+rdZSRlDM9/CL9gA=="
+secured: "59sN24nITuQcZMsil+OvqOiNJnmbJFg9PmP7A5fTxauCERmoWttzKflCDP/4hEVV2JA8POhrbtQOZj2IcS+ftXrAc0ol3XqEQ97gGb54XCuHvZcxzExpHFyhpZVwmeDXpnGKgGjrowgweD/rgpBs7HtouRcIlQSb+w4Zauaq4eJrmlniksJbHz/oFUFRj6wKMYiWkuJ7NKWo9XPffXJQTKFzc2pxOv/mY6kV4Nk9pL4wt1Arpso3CnNREf5Jvtis7dhSo9HXUN4r/DT7Y8epU24Q5b1+D26/TsInvfBGS+ReDHcM2aTbXKeg7sDWiA84vooqr/lzPI+v51K2cG7D0GpiUrViR/Ym4+zFFK/4YkM=;tUKYY9iFEqsPhqUFhy58zg=="
 ---
 

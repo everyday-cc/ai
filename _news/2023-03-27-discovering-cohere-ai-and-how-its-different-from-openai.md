@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Amazon, Google scramble to keep pace with OpenAI despite huge AI teams"
-    excerpt: "The numbers underscore how seriously the world's biggest technology firms have been taking their work on artificial intelligence, but also how slow and cautious they have been to create services"
-    publishedDateTime: 2023-03-27T07:01:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/amazon-google-scramble-to-keep-pace-with-openai-despite-huge-ai-teams-123032700316_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 39
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-12/05/full/1670214258-7178.png"
-        width: 512
-        height: 383
-        isCached: true
   - title: "Zoom upgrades AI features with OpenAI to make meetings simpler"
     excerpt: "“We are excited to bring many more capabilities with new large language models. Our unique approach to AI will give customers the flexibility ... for an expanded whiteboard service, automated translation tech, tools for hybrid workplace video calls ..."
     publishedDateTime: 2023-03-27T15:49:00Z

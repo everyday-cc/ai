@@ -44,21 +44,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
-  - title: "With artificial intelligence, age is just a number"
-    excerpt: "Well, one where a runway show was not just built using artificial intelligence (AI) but also had older people as models. You see, many would argue that fashion is ageist and that most people who walk the runways are young Gen Zs and Millennials who appeal to a certain demographic."
-    publishedDateTime: 2023-03-27T06:17:00Z
-    webUrl: "https://mg.co.za/friday/2023-03-27-with-artificial-intelligence-age-is-just-a-number/"
-    ampWebUrl: "https://mg.co.za/friday/2023-03-27-with-artificial-intelligence-age-is-just-a-number/?amp"
-    cdnAmpWebUrl: "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/friday/2023-03-27-with-artificial-intelligence-age-is-just-a-number/?amp"
+  - title: "ICMR releases first ethical guidelines for AI application in biomedical research, healthcare"
+    excerpt: "The Indian Council of Medical Research (ICMR) has come up with the country’s first Ethical Guidelines for the Application of Artificial Intelligence in Biomedical Research and Healthcare to provide an ethical framework for the development of AI-based ..."
+    publishedDateTime: 2023-03-27T07:43:00Z
+    webUrl: "https://www.dailypioneer.com/2023/india/icmr-releases-first-ethical-guidelines-for-ai-application-in-biomedical-research--healthcare.html"
     type: article
     provider:
-      name: Mail & Guardian
-      domain: mg.co.za
-    quality: 59
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 60
     images:
-      - url: "https://mg.co.za/wp-content/uploads/2023/03/slickcityceo_Elder_african_black_woman_walking_on_a_runwayparis_1e7535e1-7d57-4512-a0ca-c0cabdc0392e.png"
-        width: 896
-        height: 1344
+      - url: "https://www.dailypioneer.com/images/logo.jpg"
+        width: 325
+        height: 325
         isCached: true
   - title: "Mint Explainer: What are the promises and perils of AI in health?"
     excerpt: "The Indian Council of Medical Research (ICMR) recently released broad ethical guidelines on the use of artificial intelligence (AI ... using cognitive behaviour therapy techniques and on-demand support. Another high-potential area is epidemiology ..."

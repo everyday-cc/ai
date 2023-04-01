@@ -41,20 +41,6 @@ related:
         width: 1999
         height: 1126
         isCached: true
-  - title: "AI Becoming More Prominent In Chip Design"
-    excerpt: "The good and bad of more data, and how AI can leverage that data to optimize designs and improve reliability. Semiconductor Engineering sat down to talk about the role of AI in managing data and improving designs,"
-    publishedDateTime: 2023-03-27T07:01:00Z
-    webUrl: "https://semiengineering.com/ai-becoming-more-prominent-in-chip-design/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 54
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/Black-Gold-AdobeStock_421176269-07-07-21-scaled.jpeg?fit=2560%2C1080&ssl=1"
-        width: 2560
-        height: 1080
-        isCached: true
   - title: "7 Best AI Stocks Of 2023"
     excerpt: "Artificial intelligence (AI) is suddenly everywhere. You can thank the release of ChatGPT in November 2022 for setting off the current wave of interest in AI applications. The startup behind ChatGPT is called OpenAI,"
     publishedDateTime: 2023-03-28T18:57:00Z

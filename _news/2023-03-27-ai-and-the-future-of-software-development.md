@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3691892/ai-and-the-future-of-softw
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3691892/ai-and-the-future-of-software-development.amp.html"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "AI and the Future of Health"
+    excerpt: "Read about some of our research team’s work to make healthcare more data-driven, predictive, and precise – ultimately, empowering every person on the planet to live a healthier future."
+    publishedDateTime: 2023-03-30T18:43:00Z
+    webUrl: "https://www.microsoft.com/en-us/research/blog/ai-and-the-future-of-health/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2023/03/AI-Health_blog-2023Mar_TW_LI_FB_with_logo_1200x627.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Biodiversity and the future of food served by the cloud"
     excerpt: "Sponsored: Cloud technology is a critical ingredient to safeguarding biodiversity, securing food’s future and enabling a healthy planet."
     publishedDateTime: 2023-03-30T07:48:00Z

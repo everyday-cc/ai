@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesnownews.com/auto/new-chapter-in-ai-beijing-makes-hi
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/auto/new-chapter-in-ai-beijing-makes-history-baidu-begins-driverless-taxis-robot-taxis-china-article-99029484/amp"
 type: article
 quality: 70
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -57,16 +57,7 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "Driverless cars ready for hire in suburban Beijing"
-    excerpt: "Driverless taxis are now available for hire in suburban Beijing, marking a new chapter in intelligent transport, China Daily reported Monday. Beijing earlier in March granted licenses to Chinese tech giant Baidu and autonomous vehicle startup Pony."
-    publishedDateTime: 2023-03-27T06:48:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202303/27/WS6421366ba31057c47ebb6c06.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 19
 
-secured: "CmQS+PLvr/Wd4n7fWuT0tHUMrBtbKhO7PviZI+kFdkkN1RuBNphKPy1bc5z07UfJz/54LSJ2nNAP7CIc0ajUuEMqrBOvy0Qps+zjZym6COZjnZMVdwYqGhUOEODHQPZIUcLC1/+fPBCLxrSgtYvcJl0guXHnugGuTU2goPFneAAAcN5f1/ZAB1H5at3Wv3S5ALFXHQI2apd9L1DLSEenWk46GBWfkd+YCSofivfyaY6UzbstuSNacI6ik/BNVVxw6L3AfTJfd64DiG4fx2ScYFYHfn5pvJnvKeGdzphx+KIxp4QBe48KhrnyrMXW7YKcUjBIVI+FtyySOmvG4JYqE46en3pgs3BBXcpyy+mJXxs=;0wEsMkjhGn9cF+dx3UjqMQ=="
+secured: "T9Hguh+SCwy6FXgbgDvRFO6PKaL8AGlJpAMxZZo1tYd4Xu9kFnagroR5kEoHeF1egAidA7meqEwj3r2R4ifk3R+2CjaLKIGMSHCRjLgx0/yXWEggs+g3hKAUnbYcXcwWt2AS/MFutm6jAQCPW64h3WmPqTY/NXlmSCyoH2ESIy5zuTjQm3oIA4TUlc+Nl4aDfZr271J6i/41/1a6Gy+wfTy4uxEvawKhDU9mlpzOWA4CmVUWkzgCCEoLva3wbOUY3VafPR2BG4DMW8fNo5C/M/L53lRO6d+jQ7+/Km9dejB/IVp56q5TfM9ucegQDJkkobL22zJsFDYkTQqaId2oJJTS3mYRoChs87osXmT7Gmj726W1oGUSdRVahqt91gMjJ8E6SsOOfhYdM9Ojxm/C+fXu0nXxcYENMviMKwA5uNvPa/INxRmN8yVdpY8srTioPbl7uEF9q899AbzfooUyNksUuek5fmXFqmog5qlzkPicTbBd2bNihKLT/gDRCXaK/PZbsPgMyIYHKCCIsfHpAw==;qzJ2tQgUWBPK5x5eZvGxXQ=="
 ---
 

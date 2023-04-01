@@ -34,20 +34,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "German Fintech Sector Continued to Grow and Mature in 2022"
-    excerpt: "In 2022, the German fintech sector continued to grow and mature, on a back of solid funding activity, a dynamic merger and acquisition (M&A) landscape, and growing usage of digital financial services,"
-    publishedDateTime: 2023-03-27T05:43:00Z
-    webUrl: "https://fintechnews.ch/fintechgermany/german-fintech-sector-continued-to-grow-and-mature-in-2022/59211/"
-    type: article
-    provider:
-      name: fintechnews
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2023/03/German-Fintech-Sector-Continued-to-Grow-and-Mature-in-2022.png?x30842"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "Lloyds Bank looking for fintech partners"
     excerpt: "Lloyds Banking Group wants to partner startups in the financial services sector in its latest fintech and insurtech programme."
     publishedDateTime: 2023-03-29T06:45:00Z

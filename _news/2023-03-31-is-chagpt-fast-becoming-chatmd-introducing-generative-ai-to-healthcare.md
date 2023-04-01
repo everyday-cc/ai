@@ -159,22 +159,6 @@ related:
         width: 1200
         height: 625
         isCached: true
-  - title: "Even with ChatGPT-4, there's no such thing as Artificial Intelligence. AI is a misnomer"
-    excerpt: "The term, AI, breeds misunderstanding and helps its creators avoid culpability. Reasonable technologists have tried for years to replace “AI” with “machine learning” but that doesn’t trip off the tong"
-    publishedDateTime: 2023-03-27T06:38:00Z
-    webUrl: "https://www.moneycontrol.com/news/opinion/even-with-chatgpt-4-theres-no-such-thing-as-artificial-intelligence-ai-is-a-misnomer-10317181.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/opinion/even-with-chatgpt-4-theres-no-such-thing-as-artificial-intelligence-ai-is-a-misnomer-10317181.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/even-with-chatgpt-4-theres-no-such-thing-as-artificial-intelligence-ai-is-a-misnomer-10317181.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 64
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/03/396571328.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Can ChatGPT Change the Face of Healthcare?"
     excerpt: "regulations must be put in place to ensure no inaccuracies are made Many are still reluctant about the role of artificial intelligence (AI) in our lives, but it might be time to accept that AI has the power to transform healthcare. Obviously, AI can't ..."
     publishedDateTime: 2023-03-28T11:37:00Z
@@ -223,19 +207,21 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "I made ChatGPT talk to itself - and the results weren’t what I expected"
-    excerpt: "My approach to ChatGPT and its burgeoning (and possibly career-threatening) success both within the tech industry and beyond our little digital bubble has been largely the same, with some small alterations."
-    publishedDateTime: 2023-03-27T06:00:00Z
-    webUrl: "https://www.techradar.com/features/i-made-chatgpt-talk-to-itself-and-the-results-werent-what-i-expected"
+  - title: "AI Chatbots Can Diagnose Medical Conditions at Home. How Good Are They?"
+    excerpt: "As more people turn to chat-based AIs for medical advice, it remains to be seen how these tools stack up against—or could complement—human doctors"
+    publishedDateTime: 2023-03-31T19:47:00Z
+    webUrl: "https://www.scientificamerican.com/article/ai-chatbots-can-diagnose-medical-conditions-at-home-how-good-are-they/"
+    ampWebUrl: "https://www.scientificamerican.com/article/ai-chatbots-can-diagnose-medical-conditions-at-home-how-good-are-they/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-chatbots-can-diagnose-medical-conditions-at-home-how-good-are-they/?amp=true"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 54
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 57
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/PU2t7kMJ9SFBTJYerGD8ve-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://static.scientificamerican.com/sciam/cache/file/01C9741F-6F6D-4882-8217D92370325AA7.jpg"
+        width: 790
+        height: 496
         isCached: true
   - title: "Everything you need to know about artificial intelligence: What is it used for?"
     excerpt: "Artificial intelligence is the leading innovation in the technology sector today, offering limitless opportunities to its users while also representing an existential threat to some white-collar ..."
