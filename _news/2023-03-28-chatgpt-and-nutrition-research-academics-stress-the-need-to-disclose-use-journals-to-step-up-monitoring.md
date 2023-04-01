@@ -7,7 +7,7 @@ originalUrl: "https://www.foodnavigator.com/Article/2023/03/28/chatgpt-and-resea
 webUrl: "https://www.foodnavigator.com/Article/2023/03/28/chatgpt-and-research-academics-stress-the-need-to-disclose-use-step-up-monitoring"
 type: article
 quality: 7
-heat: -1
+heat: 7
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 720
     height: 433
     isCached: true
-
-related:
-  - title: "Can ChatGPT versions make its way in healthcare and research?- Ft. Dr. Raju Vaishya"
-    excerpt: "Medical information and healthcare have also gained an ample amount of importance in the tech world. Recently, OpenAI Inc. launched a new chatbot, called ChatGPT that interacts in a conversational way and its dialogue format makes it user-friendly and fast."
-    publishedDateTime: 2023-03-28T03:29:00Z
-    webUrl: "https://medicaldialogues.in/mdtv/medicine/videos/can-chatgpt-versions-make-its-way-in-healthcare-and-research-ft-dr-raju-vaishya-109087"
-    ampWebUrl: "https://medicaldialogues.in/amp/mdtv/medicine/videos/can-chatgpt-versions-make-its-way-in-healthcare-and-research-ft-dr-raju-vaishya-109087"
-    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/mdtv/medicine/videos/can-chatgpt-versions-make-its-way-in-healthcare-and-research-ft-dr-raju-vaishya-109087"
-    type: article
-    provider:
-      name: Daily
-      domain: medicaldialogues.in
-    quality: 68
-    images:
-      - url: "https://medicaldialogues.in/h-upload/2023/03/27/206163-why-sudden-increase-in-melioidosis-cases-in-india-1500-900px.jpg"
-        width: 1500
-        height: 900
-        isCached: true
 
 secured: "L0l0FEnJ89ybaV9m6lTgS+znv3xHDikUqmcJaaNQlSSA7QTlyYghfixpHidYAEYS+4n8zBIL7synMkyWHJr15D0BuzM0Fm5vtq6X5b5VZ6jVIPejFxZ2MA9hKulYz/61wHSNdQMHVbZjI+wmLCdInsU1fs0fCXvSuouyTY6KoeEVW24p9dd5ZCdvLl298SEuhY7DaaqDRS8dtIyCkMZ3gB1/KyYAUy/1w3YqSA1JglqLzuceeK+cPxjjo1SxNJXJDOiYGwF1NuX6CmYrjvYOoGDXn1iFwEjkO5Q1KlNe2mTD+LCE9vJohZ6B3YSx95OoW9NnzdqiSBvSZ2/NW2k4LEhiJkhgdG1hAEpf/8BKgVA=;hirj+bvbAXwhXVwqOsOVww=="
 ---

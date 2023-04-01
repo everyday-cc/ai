@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-2023-size-growing-rapidly-with-recent-trends-2023-03-28"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Data and AI Ethics Market 2023 Size Growing Rapidly with Recent Trends"
+    excerpt: "Market Updates(360marketupdates.com) published a new research report on Data and AI Ethics Market 2023 with 110"
+    publishedDateTime: 2023-03-29T02:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2023-size-growing-rapidly-with-recent-trends-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
 
 secured: "iD7ny25S4ZCL6Kjon3zCzZE+Fh/4MUbQRn8TmzlXUhNBae+aAvzb7jKcafmvGhH1T87IhYans+eFxydWCEDXJcRVFZNdV/QVMNMeuAcxbe901LsyhWC86HxViO2IzFjdpd1/8KHN1mn5s3UGZL8wmVdHYCdQX0xFJYOzjlkZvoLd3DS1mjPgqykd804MprFIcAepU7qscBIvzzQlcXfr6H5G3AK3Ek+OvzCEHqWktG+OiTAwDTL6ZSnq5bNKmEbd2JhdVYetR/USxyPWDQ9L7GC0kgfch/KuDXwaVi8pCsfzJS4Z1OqtHl3dPwkxNxDtjBbL9XlZJmsiafNJLRW0X+46igMdilndzLkcfOLWfh0=;cXXPq8euu1rldezPL0VxsQ=="
 ---

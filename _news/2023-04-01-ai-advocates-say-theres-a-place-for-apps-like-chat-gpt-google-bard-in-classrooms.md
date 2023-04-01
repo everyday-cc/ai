@@ -7,8 +7,8 @@ originalUrl: "https://www.foxnews.com/video/6323718971112"
 webUrl: "https://www.foxnews.com/video/6323718971112"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Fox News
@@ -26,6 +26,17 @@ images:
     width: 1024
     height: 512
     isCached: true
+
+related:
+  - title: "Chat GPT Impact On The News Updates And Chat GPT Login"
+    excerpt: "In recent years, advancements in artificial intelligence and natural language processing have revolutionized the way businesses and organizations communicate with their customers. One such technology that has disrupted the industry is Chat GPT."
+    publishedDateTime: 2023-03-31T17:51:00Z
+    webUrl: "https://techbullion.com/chat-gpt-impact-on-the-news-updates-and-chat-gpt-login/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 4
 
 secured: "c0RmZ3cplE28SvpMONWOIEb1L34v7bljooV7ROLjzYYguro6r8I1fW9BULaAkgetqvcox0jHH1Hc6COcE5gFrb1005Oqsz9991gX5BIAI85SWH/YDOPgCrYN1O6DR1vryJnhpdNvEl2b5v3kOK2xzAJvn/Vx03D9QLdbNbneQzZeVq17JKgSV7aOcVD9XMB9QEUxo6yKTN2SsZ7RSf6whvP4RTe/0Nff/3mWP5L6xecoy/su9Nt3NTyf6r8Acp69etOgZZZGeFks/dgLHxm7lCx5LRZ22vC6oHh81HXNYBYcWSvlNaP7gN6mQYs1b3qmQcxLKckUlvIynxooqYEAfwnkYJt+lFckbxZq8Eby58FVzaAnll+EIB26a2G842ghacO3jEpTRgOHOjg0DZBWF5NJbfB13y5gijSY8i5O08cz5BDBYx2XylrFSalwwzd0zQGTZwjwH9f6p9U1bk2IWglw31jEGMQJ2YMMrHUgkGiMWhxeRrNR4tjXBpdwhPW0zXVP2hDewC5BdPpQnrBPZg==;5cH908dsUK59TbylGSh6BQ=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2023-04-01T13:40:00Z
 originalUrl: "https://venturebeat.com/ai/why-ai-might-need-to-take-a-time-out/"
 webUrl: "https://venturebeat.com/ai/why-ai-might-need-to-take-a-time-out/"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 

@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "4 Disruptive Technologies That are Shaping the Fintech Industry"
-    excerpt: "Fintech is one of the top beneficiaries of innovation and technological advancement. Over the years, technology has revolutionized how people see, spend, move, and invest money. In this article, you will learn about four innovative technologies shaping the Fintech industry."
-    publishedDateTime: 2023-03-28T03:14:00Z
-    webUrl: "https://techbullion.com/4-disruptive-technologies-that-are-shaping-the-fintech-industry/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/03/526827d12190d21a5d44f9d06e37c0a3.jpeg"
-        width: 848
-        height: 565
-        isCached: true
   - title: "Lloyds Bank looking for fintech partners"
     excerpt: "Lloyds Banking Group wants to partner startups in the financial services sector in its latest fintech and insurtech programme."
     publishedDateTime: 2023-03-29T06:45:00Z

@@ -110,15 +110,6 @@ related:
       name: gadgets360
       domain: gadgets360.com
     quality: 34
-  - title: "Nvidia’s show new AI research to improve chip design"
-    excerpt: "Nvidia’s reinforcement learning research introduced a second layer of AI to chip transistors for improved results. (Reuters pic) NEW YORK: Nvidia Corp, the world’s leading designer of computer chips used in creating artificial intelligence, on Monday ..."
-    publishedDateTime: 2023-03-28T03:38:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/03/28/nvidias-show-new-ai-research-to-improve-chip-design/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 34
   - title: "How Generative AI Will Change Sales"
     excerpt: "As the power of this disruptive technology grows exponentially, it’s possible to start realizing value in weeks, not months. One strategy for quick results is to integrate capabilities into existing sales systems. For example, generative AI can improve ..."
     publishedDateTime: 2023-03-31T13:02:00Z

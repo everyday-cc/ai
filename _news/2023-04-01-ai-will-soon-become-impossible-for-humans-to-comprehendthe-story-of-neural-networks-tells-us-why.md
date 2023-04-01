@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-03-ai-impossible-humans-comprehendt
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-ai-impossible-humans-comprehendthe-story.amp"
 type: article
 quality: 61
-heat: 71
+heat: 72
 published: true
 
 provider:

@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Face Recognition Device Market Size, Regional Status, and Outlook 2023-2031"
+    excerpt: "We've been tracking the direct and indirect consequences of the COVID-19 outbreak on the Face Recognition Device market. To Know How Covid-19 Pandemic will Impact this Industry -https ..."
+    publishedDateTime: 2023-03-30T03:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-size-regional-status-and-outlook-2023-2031-2023-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
   - title: "Artificial Intelligence and Robotics in Aerospace and Defense Market Trends, Industry Demand and Scope, Top Players Analysis, Forecast 2023 - 2031"
     excerpt: "Top “ Artificial Intelligence and Robotics in Aerospace and Defense Market ” Size 2023 Key players Profiled in the Report are [, Intel Corporation, Iris Automation Inc., The Boeing Company, Nvidia Corporation,"
     publishedDateTime: 2023-03-30T03:10:00Z

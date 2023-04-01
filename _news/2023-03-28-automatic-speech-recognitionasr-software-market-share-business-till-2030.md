@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/automatic-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-share-business-till-2030-2023-03-27"
 type: article
 quality: 66
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -33,6 +33,20 @@ related:
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- [128 Insights] Top “VOICE RECOGNITION SYSTEM Market” Size 2023 Key players Profiled in the Report are [Nuance Communications ..."
     publishedDateTime: 2023-03-28T07:45:00Z
     webUrl: "https://www.marketwatch.com/press-release/voice-recognition-system-market-newsest-research-2023-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market New Ready Report Analysis 2029"
+    excerpt: "Top “ Voice Recognition Market ” Size 2023 Key players Profiled in the Report are [, International Business Machines Corporation, Google, Inc., Advanced Voice Recognition Systems, Inc., Nuance Communications,"
+    publishedDateTime: 2023-03-30T00:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-new-ready-report-analysis-2029-2023-03-29"
     type: article
     provider:
       name: MarketWatch

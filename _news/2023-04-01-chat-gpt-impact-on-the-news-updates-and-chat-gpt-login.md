@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-31T17:51:00Z
 originalUrl: "https://techbullion.com/chat-gpt-impact-on-the-news-updates-and-chat-gpt-login/"
 webUrl: "https://techbullion.com/chat-gpt-impact-on-the-news-updates-and-chat-gpt-login/"
 type: article
+quality: 4
+heat: -1
+published: false
 
 provider:
   name: Impacts
@@ -14,6 +17,22 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "AI advocates say there’s a place for apps like Chat GPT, Google Bard in classrooms"
+    excerpt: "Advocates for artificial intelligence say there have been no widespread reports of cheating or harmful content in classrooms that have implemented AI learning for kids."
+    publishedDateTime: 2023-04-01T01:43:00Z
+    webUrl: "https://www.foxnews.com/video/6323718971112"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 61
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23c944fa-10c9-4c29-9a94-7aa08ed6c99a/a92416f3-8ea9-45c6-8fd8-9ad16d08a3fa/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "s2F9ZoDitJJNJ7erhiIL2T7okEgjoql/BN60FLnQkVFVtGnRb+s26vFcHF6d/f3q+Z7ihNyir3wVBKRrgOFm/k7W5HkAuTmgMk6pZh3vf8TGcxmtPYMswdaH8zmRJH9Dxs7cpT6BHch6FEnCeTVyFn/nGuVr5Ba9T6PC+MLpEp/+GD2EeWxap3Vr59N4v5ehXrHQM5U8liaWrvEfdl7UffxSJEgyPNoCXX8a3yeVjXDy4X4+4oqQELwFPN6esX4locQktKwVwp6eJqVHMpLvlqmRrXz4rPkQ97QWUqtgvEvQF6iOpJPYGj/kllhByA9fffK2Vbg/6t4ghwW8WQztaSdEvv3btU7e5FkU386E8Kk=;3iTS9u5ZPGXhRaxaeMVuMw=="
 ---

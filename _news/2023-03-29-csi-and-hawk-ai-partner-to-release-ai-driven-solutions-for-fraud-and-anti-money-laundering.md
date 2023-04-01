@@ -2,9 +2,9 @@
 category: news
 title: "CSI and Hawk AI Partner To Release AI-Driven Solutions for Fraud and Anti-Money Laundering"
 excerpt: "CSI, a leading provider of end-to-end fintech and regtech solutions, announced today it has partnered with Hawk AI, a leading global provider of anti-money laundering (AML) and fraud prevention technology for banks and payment companies,"
-publishedDateTime: 2023-03-28T18:40:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/03/28/9784224.htm"
-webUrl: "https://it.tmcnet.com/news/2023/03/28/9784224.htm"
+publishedDateTime: 2023-03-28T17:02:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/03/28/9784224.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/03/28/9784224.htm"
 type: article
 quality: 9
 heat: -1
@@ -19,117 +19,37 @@ topics:
   - AI
 
 related:
-  - title: "Public health, AI and ethics"
-    excerpt: "First, we must note that medical ethics in the country are far from where they ought ... In this environment, a potent new tool needs to be handled with great care. Increased reliance on AI for diagnosis may sound cool to many, but the system is far ..."
-    publishedDateTime: 2023-03-28T03:51:00Z
-    webUrl: "https://tribune.com.pk/story/2408472/public-health-ai-and-ethics"
-    ampWebUrl: "https://tribune.com.pk/story/2408472/public-health-ai-and-ethics?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2408472/public-health-ai-and-ethics?amp=1"
+  - title: "The US government is gearing up for an AI antitrust fight"
+    excerpt: "She warned that major companies may “start to panic” at an upset in the tech order — “sometimes having to resort to anticompetitive tactics to protect their moats and protect their dominance.” Kanter added that the current model of AI is ..."
+    publishedDateTime: 2023-03-28T17:27:00Z
+    webUrl: "https://www.theverge.com/2023/3/28/23660101/ai-competition-ftc-doj-lina-khan-jonathan-kanter-antitrust-summit"
     type: article
     provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 74
+      name: The Verge
+      domain: theverge.com
+    quality: 67
     images:
-      - url: "https://i.tribune.com.pk/media/images/1078711-MuhammadHamidZamanNew-1459790290/1078711-MuhammadHamidZamanNew-1459790290.JPG"
-        width: 800
-        height: 600
+      - url: "https://cdn.vox-cdn.com/thumbor/fVQKZg5pKIAqEGgwL6dVKdUIZnw=/0x0:5320x3779/1200x628/filters:focal(2660x1890:2661x1891)/cdn.vox-cdn.com/uploads/chorus_asset/file/24542737/1249642666.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Data and AI Ethics Market 2023 Size Growing Rapidly with Recent Trends"
-    excerpt: "Market Updates(360marketupdates.com) published a new research report on Data and AI Ethics Market 2023 with 110"
-    publishedDateTime: 2023-03-29T02:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2023-size-growing-rapidly-with-recent-trends-2023-03-28"
+  - title: "The Federal Government’s 'Blueprint’ for an AI Bill of Rights"
+    excerpt: "Lensa AI received criticism for renderings considered biased on the basis of race and gender. ChatGPT has also been accused of responses perceived to be biased. Facebook parent company ... is advancing scientific research, but is it warranted if the ..."
+    publishedDateTime: 2023-03-31T21:16:00Z
+    webUrl: "https://fedtechmagazine.com/article/2023/03/federal-governments-blueprint-ai-bill-rights"
+    ampWebUrl: "https://fedtechmagazine.com/article/2023/03/federal-governments-blueprint-ai-bill-rights?amp"
+    cdnAmpWebUrl: "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2023/03/federal-governments-blueprint-ai-bill-rights?amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-  - title: "Mint Explainer: What are the promises and perils of AI in health?"
-    excerpt: "The Indian Council of Medical Research (ICMR) recently released broad ethical guidelines on the use of artificial intelligence (AI ... using cognitive behaviour therapy techniques and on-demand support. Another high-potential area is epidemiology ..."
-    publishedDateTime: 2023-03-31T07:34:00Z
-    webUrl: "https://www.livemint.com/opinion/online-views/mint-explainer-what-are-the-promises-and-perils-of-ai-in-health-11680247109305.html"
-    ampWebUrl: "https://www.livemint.com/opinion/online-views/mint-explainer-what-are-the-promises-and-perils-of-ai-in-health/amp-11680247109305.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/mint-explainer-what-are-the-promises-and-perils-of-ai-in-health/amp-11680247109305.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
+      name: https//fedtechmagazine.com
+      domain: fedtechmagazine.com
     quality: 59
     images:
-      - url: "https://www.livemint.com/lm-img/img/2023/03/31/600x338/GERMANY-POPULATION-TECHNOLOGY-HEALTH-SCIENCE-0_168_1680247753658_1680247753862_1680247753862.jpg"
-        width: 600
-        height: 338
+      - url: "https://fedtechmagazine.com/sites/fedtechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202303/GettyImages-1368016158%20copy.jpg?itok=Wr8wcLMt"
+        width: 1440
+        height: 500
         isCached: true
-  - title: "The problem with artificial intelligence is us"
-    excerpt: "The race to create the best artificial intelligence chatbot is on. At the time of writing, Google is unveiling its new chatbot, Bard, to 10,000 testers. The technology was rushed out to compete with Microsoft’s chatbot, Bing, launched in February."
-    publishedDateTime: 2023-03-28T16:45:00Z
-    webUrl: "https://www.christiancentury.org/article/features/problem-artificial-intelligence-us"
-    type: article
-    provider:
-      name: The Christian Century
-      domain: christiancentury.org
-    quality: 39
-    images:
-      - url: "https://www.christiancentury.org/sites/default/files/images/detail/pexels-federico-orlandi-3260626.jpg"
-        width: 6000
-        height: 4000
-        isCached: true
-  - title: "Using artificial intelligence for diabetes health coaching"
-    excerpt: "The recipe for a healthy lifestyle is to eat well, stay active, reduce stress and take medication as prescribed. For someone with type 2 diabetes, small changes in any of those categories can have big impacts – positive or negative."
-    publishedDateTime: 2023-03-30T05:38:00Z
-    webUrl: "https://hospitalnews.com/using-artificial-intelligence-for-diabetes-health-coaching/"
-    type: article
-    provider:
-      name: hospitalnews
-      domain: hospitalnews.com
-    quality: 39
-    images:
-      - url: "https://hospitalnews.com/wp-content/uploads/2023/03/diabetes-AI.jpg"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "AI and the Future of Health"
-    excerpt: "Read about some of our research team’s work to make healthcare more data-driven, predictive, and precise – ultimately, empowering every person on the planet to live a healthier future."
-    publishedDateTime: 2023-03-30T18:43:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/blog/ai-and-the-future-of-health/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2023/03/AI-Health_blog-2023Mar_TW_LI_FB_with_logo_1200x627.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "AI ethics group asks FTC to investigate OpenAI"
-    excerpt: "The Center for AI and Digital Policy, or CAIDP, made the request in an FTC complaint released today. At the center of the complaint is the GPT-4 model that OpenAI debuted earlier this month. GPT-4 is the startup’s most advanced neural network to date."
-    publishedDateTime: 2023-03-30T19:02:00Z
-    webUrl: "https://siliconangle.com/2023/03/30/ai-ethics-group-asks-ftc-investigate-openai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-  - title: "AI Ethics: Not Eventually, but Now"
-    excerpt: "As Moore’s law makes way for specially designed AI acceleration, ethics research is becoming increasingly important. With many technologies trained to learn from experience, such research is not only relevant in anticipation of some distant dystopian future — it is vital today,"
-    publishedDateTime: 2023-03-30T18:36:00Z
-    webUrl: "https://www.thecrimson.com/article/2023/3/30/editorial-ai-ethics-now/"
-    type: article
-    provider:
-      name: The Harvard Crimson
-      domain: thecrimson.com
-    quality: 34
-  - title: "Healthians adds Artificial Intelligence based innovation to its Smart Report feature"
-    excerpt: "Humans always want their lives to be easier and better, and this constant hunger is what Healthians is satisfying by helping people simplify tasks that seem complicated. One such struggle for healthcare consumers is to read and understand their medical reports without any professional help."
-    publishedDateTime: 2023-03-30T11:20:00Z
-    webUrl: "https://www.afaqs.com/companies/healthians-adds-artificial-intelligence-based-innovation-to-its-smart-report-feature"
-    type: article
-    provider:
-      name: AFAQS
-      domain: afaqs.com
-    quality: 12
 
-secured: "VQYU4O91wv1GJxaBJPDZbnjp5087TAvsvaAQnm6bP5Xa9fUWc7mjhv2arRFeB67hzdnTOEfULKXEYs2qQhaf5TMFs66olwqfmXH/Kl9BRrHltezwtXM4qjOUO9XMM/CAofkj/ycIULb8WLzX9tteQcMRN10L6S3+GemcwSHodoZmrdkHa8biGNzqKLqjLz1hk/ApajFqyS9kwMp2dWWtrwWx8Mcy5zYVUlU8lYNWC28/fWWulSzSqxK8QuPQUcrtHCT835U7vp2efT2Xy0CxW5P9glN7QMkdPhSpt/sAPufPAJb/xmfFI5vgL0DxEAN11BH3yVZO2b4rUQcT05O/EqW9RvdVebH+ZmKlNUcEg2Q=;gsSAzRKqKOSz5tirWwwHpg=="
+secured: "v9Zvv4FYUZ3o6AgVgTtEjNrfgXQlfgzKrpWLLmRte00pk5iMyh5mxn/Fod407e2oBYD1pgC0rJy44YjyhArvldJN7gK2MNXLmC2CO2liReRejfEOkE8pLckf70wqlgqbUBndSmC4WtCj0+XhJHrNOg83jlf1x7Nkaa+Go6wF1qemFATThvUGWRloPAyMQtKEj/AccHA1QJwRApGO2XkZRSxBtIi/hQCJwXM2ETKCryzysl1atzL6X/vXG9OqR9h1TW7/jSexxjhTJeZAGwKObEGJDwjfMJG9HAbQ2fgrOBsLbk6D/sPVBuzRx9+9PZqGCWQw+q/UXxvMb1hfwuLSqM38SiU6RFQbBzXgCyTUHZ4=;7ulZaHxn0ZvlaDgaQdnePg=="
 ---
 

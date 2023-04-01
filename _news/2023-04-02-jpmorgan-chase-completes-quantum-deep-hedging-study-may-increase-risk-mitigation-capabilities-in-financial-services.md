@@ -5,7 +5,12 @@ excerpt: "QC Ware, JPMorgan Chase completed study of quantum \"deep hedging,\" p
 publishedDateTime: 2023-04-01T19:06:00Z
 originalUrl: "https://www.crowdfundinsider.com/2023/04/204514-jpmorgan-chase-completes-quantum-deep-hedging-study-may-increase-risk-mitigation-capabilities-in-financial-services/"
 webUrl: "https://www.crowdfundinsider.com/2023/04/204514-jpmorgan-chase-completes-quantum-deep-hedging-study-may-increase-risk-mitigation-capabilities-in-financial-services/"
+ampWebUrl: "https://www.crowdfundinsider.com/2023/04/204514-jpmorgan-chase-completes-quantum-deep-hedging-study-may-increase-risk-mitigation-capabilities-in-financial-services/amp/"
+cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/04/204514-jpmorgan-chase-completes-quantum-deep-hedging-study-may-increase-risk-mitigation-capabilities-in-financial-services/amp/"
 type: article
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: Crowdfund Insider
@@ -14,7 +19,34 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
-secured: "/JQ8iPGyHOHdIlw/88U6ESEPdK4u7xr9qg1GG0Xm5sscFaj/p3zJ6tBFKzQiQskHYtETAtdUjbw0kB8N+BovcqJt/7fFP3Dcbx70STQQmRFfbcnpgr4WN7LZeUTUYpcO7A7ZEtA0RxV/21/79EW9O60EJ6mMbliZUyGN5m/MK1ytnOlhK4MrugEkWr1bPZjNfU3Zf+/d+OEu1hgKPFVjvgQmS2+ozr2u3xv45vimr3cfRAQuu+1kPDxKxbJyOPbgRVCTdTl//2TOwAFBlmp1uzsDyy1xPHUC1rQtD1bcaUj+kCXmULOPpVr1aMS/XuqxvVW24S4HByQJyRIS3d3b/Rj8sqVJiSOq5zmBmScQlI1eqn4rr2TGXs8iELnpHIoLoT75z489BJUHSNvbmML8QrFphOvjPrw1fbLv8PGS4R0XeDT5pEHI0a4dtEpxz6/xHFeJLeM0eACg47K+xws5Ahq2y0ZE25Le4rlQADikCxZgbfu+oq1S6BPugDC0zL7KYnVLgnwbksXAfQBOxjsaUw==;ykHYzsKJR5h7PIC5qlRMKQ=="
+images:
+  - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/10/Computer-Speed-Fast-Internet-Zoom-Keyboard.jpeg"
+    width: 1280
+    height: 1008
+    isCached: true
+
+related:
+  - title: "JPMorgan Chase paper investigates quantum deep hedging"
+    excerpt: "The researchers first examined whether existing classical deep hedging frameworks could be improved using quantum deep learning. Then, using quantum reinforcement learning, they studied whether a new quantum framework could be defined for deep hedging."
+    publishedDateTime: 2023-03-30T18:37:00Z
+    webUrl: "https://www.finextra.com/pressarticle/96312/jpmorgan-chase-paper-investigates-quantum-deep-hedging"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
+  - title: "Quantum on Wall Street: JPMorgan Chase and QC Ware Report on ‘Deep Hedging’ with Quantum-Classical"
+    excerpt: "JPMorgan Chase and quantum and classical computing software and services company QC Ware announced today they have completed a study of quantum “deep hedging” that they say “(paves) the way for future increased risk mitigation capabilities in financial services."
+    publishedDateTime: 2023-03-30T15:31:00Z
+    webUrl: "https://insidehpc.com/2023/03/quantum-on-wall-street-jpmorgan-chase-and-qc-ware-report-on-deep-hedging-with-quantum-classical/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 0
+
+secured: "UTDx+YwqTxrABRX8Gyx5DajvhZjVWt3WJuF6s7xmlCEodbCgZFNoZ007ykS+zCb5uuhD4AkEjQCzyhwjmvaE/L3thHnHjtCTciDfuX0sB71cuGV4442wsMeespcrfjfI4o3y16B4LsnsJNox1IJa4MYLj9HmzIgR1bYDvMcPWS2A3jzNywkB/g2AP9EGwnygLiAp9ba5ivUz5jk/9KAI11bvqvedsXKPDl/Ijp0zVQ2+IfV0oSzdk4RPEWg4xfIpjbHihaXTG/kNox4gdv/EjxXCY/q79/c+pqJ7gp5H5YteS1YWFsdxGdrQKOX4xTXwsEiqtEm8jveAMBecf69VAAzar8oirmyvX7huWQ+I6s4=;iIb8i4AsIokhwdhFHy/ziA=="
 ---
 

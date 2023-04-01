@@ -35,6 +35,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 67
+  - title: "AI ethics group asks FTC to investigate OpenAI"
+    excerpt: "The Center for AI and Digital Policy, or CAIDP, made the request in an FTC complaint released today. At the center of the complaint is the GPT-4 model that OpenAI debuted earlier this month. GPT-4 is the startup’s most advanced neural network to date."
+    publishedDateTime: 2023-03-30T19:02:00Z
+    webUrl: "https://siliconangle.com/2023/03/30/ai-ethics-group-asks-ftc-investigate-openai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
   - title: "Lilt Introduces Contextual AI Engine for Translation; Outperforms GPT-4"
     excerpt: "Lilt launches Contextual AI Engine which has a higher accuracy than Google Translate and GPT-4 for many enterprise contexts."
     publishedDateTime: 2023-03-29T13:00:00Z
@@ -53,6 +62,15 @@ related:
       name: Marketing Dive
       domain: marketingdive.com
     quality: 19
+  - title: "Lilt introduces Contextual AI Engine for Translation; Outperforms Google Translate and GPT-4 on accuracy, latency and cost"
+    excerpt: "Lilt, the most advanced AI solution for enterprise translation, today announced the launch of Contextual AI Engine, a new GPT-style model for verified, enterprise-grade translation that delivers superior performance to GPT-4 and Google Translate."
+    publishedDateTime: 2023-03-29T00:00:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/29/9785436.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
 
 secured: "dmdKCgZqgXNOYjGzBgGgLFGjI95APH0LzcTGpey6qYuKZBFhhojLvMgHokI9ff7rIeRekauPnXbUAOD5LpPCjLwFqo1zN8M3gHi9L7pHXCmMSH5BDysbdJL4JyCxZLXw1VAF3SRrP8kFYi7UowAnjA4diHNsA17xmshgkq3A3sVpi/48sxzOZzrGO4TBtOwW/GiFfoHpKDanu3rx+Z5cvPIqhyfUQu0SQRVhIMqPkeTmi021xTRJRJannjKo9I6Z2SLMsqZtACBsaZiqzFrK2QUDbo6NZKVwrmj3qemzlYzHiSRTxK2u7qzK2wm3xteZfN7Ln0/cPVgd/gN2wz/pXuBrvVBO3zwGqU4NeZxanIed99INwYW69JoHq41PyYAj8CF1W5pakvQswj4NLmYpQYaR5gcu1zHVJG9ggHbeVjACES+h0zMPXopLWHYmjnBK7jqgmFHtVZ9R9ZWuqM+eFmymIu1bAazU/lVdLO8wYh5cjMYGKVKhlHAGddvsmfQLoiVJAFK9H3DqqdaeIOLLkA==;8Bx2jl6GzpZqeynl06p58Q=="
 ---

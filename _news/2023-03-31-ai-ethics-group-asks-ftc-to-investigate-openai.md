@@ -19,116 +19,55 @@ topics:
   - AI
 
 related:
-  - title: "Public health, AI and ethics"
-    excerpt: "First, we must note that medical ethics in the country are far from where they ought ... In this environment, a potent new tool needs to be handled with great care. Increased reliance on AI for diagnosis may sound cool to many, but the system is far ..."
-    publishedDateTime: 2023-03-28T03:51:00Z
-    webUrl: "https://tribune.com.pk/story/2408472/public-health-ai-and-ethics"
-    ampWebUrl: "https://tribune.com.pk/story/2408472/public-health-ai-and-ethics?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2408472/public-health-ai-and-ethics?amp=1"
+  - title: "OpenAI’s GPT-4 violates FTC rules, argues AI policy group"
+    excerpt: "The FTC received a new complaint today from the Center for AI and Digital Policy that calls for an investigation of OpenAI and GPT-4."
+    publishedDateTime: 2023-03-30T21:29:00Z
+    webUrl: "https://venturebeat.com/ai/openais-gpt-4-violates-ftc-rules-argues-ai-policy-group/"
+    ampWebUrl: "https://venturebeat.com/ai/openais-gpt-4-violates-ftc-rules-argues-ai-policy-group/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/openais-gpt-4-violates-ftc-rules-argues-ai-policy-group/amp/"
     type: article
     provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 74
-    images:
-      - url: "https://i.tribune.com.pk/media/images/1078711-MuhammadHamidZamanNew-1459790290/1078711-MuhammadHamidZamanNew-1459790290.JPG"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Data and AI Ethics Market 2023 Size Growing Rapidly with Recent Trends"
-    excerpt: "Market Updates(360marketupdates.com) published a new research report on Data and AI Ethics Market 2023 with 110"
-    publishedDateTime: 2023-03-29T02:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2023-size-growing-rapidly-with-recent-trends-2023-03-28"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+  - title: "FTC should investigate OpenAI and halt GPT-4 releases, AI research group says"
+    excerpt: "A nonprofit AI research group wants the Federal Trade Commission to investigate OpenAI, Inc. and halt releases of GPT-4. OpenAI \"has released a product GPT-4 for the consumer market that is biased, deceptive,"
+    publishedDateTime: 2023-03-30T19:00:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/03/ftc-should-investigate-openai-and-halt-gpt-4-releases-ai-research-group-says/"
+    ampWebUrl: "https://arstechnica.com/tech-policy/2023/03/ftc-should-investigate-openai-and-halt-gpt-4-releases-ai-research-group-says/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/03/ftc-should-investigate-openai-and-halt-gpt-4-releases-ai-research-group-says/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-  - title: "Mint Explainer: What are the promises and perils of AI in health?"
-    excerpt: "The Indian Council of Medical Research (ICMR) recently released broad ethical guidelines on the use of artificial intelligence (AI ... using cognitive behaviour therapy techniques and on-demand support. Another high-potential area is epidemiology ..."
-    publishedDateTime: 2023-03-31T07:34:00Z
-    webUrl: "https://www.livemint.com/opinion/online-views/mint-explainer-what-are-the-promises-and-perils-of-ai-in-health-11680247109305.html"
-    ampWebUrl: "https://www.livemint.com/opinion/online-views/mint-explainer-what-are-the-promises-and-perils-of-ai-in-health/amp-11680247109305.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/mint-explainer-what-are-the-promises-and-perils-of-ai-in-health/amp-11680247109305.html"
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 64
+  - title: "Lilt Introduces Contextual AI Engine for Translation; Outperforms GPT-4"
+    excerpt: "Lilt launches Contextual AI Engine which has a higher accuracy than Google Translate and GPT-4 for many enterprise contexts."
+    publishedDateTime: 2023-03-29T13:00:00Z
+    webUrl: "https://slator.com/lilt-introduces-contextual-ai-engine-translation-outperforms-gpt-4/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/03/31/600x338/GERMANY-POPULATION-TECHNOLOGY-HEALTH-SCIENCE-0_168_1680247753658_1680247753862_1680247753862.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "The problem with artificial intelligence is us"
-    excerpt: "The race to create the best artificial intelligence chatbot is on. At the time of writing, Google is unveiling its new chatbot, Bard, to 10,000 testers. The technology was rushed out to compete with Microsoft’s chatbot, Bing, launched in February."
-    publishedDateTime: 2023-03-28T16:45:00Z
-    webUrl: "https://www.christiancentury.org/article/features/problem-artificial-intelligence-us"
+      name: Slator
+      domain: slator.com
+    quality: 19
+  - title: "GPT-4 draws more heat as AI advocates file FTC complaint against OpenAI"
+    excerpt: "The office includes data scientists, data engineers, AI specialists and design ethics specialists, Khan said during the Monday summit. Within the first few days of posting job openings, the office received between 300-400 applications. “We're also now ..."
+    publishedDateTime: 2023-03-31T12:55:00Z
+    webUrl: "https://www.marketingdive.com/news/FTC-complaint-AI-Lina-Khan-CAIDP-OpenAI/646487/"
     type: article
     provider:
-      name: The Christian Century
-      domain: christiancentury.org
-    quality: 39
-    images:
-      - url: "https://www.christiancentury.org/sites/default/files/images/detail/pexels-federico-orlandi-3260626.jpg"
-        width: 6000
-        height: 4000
-        isCached: true
-  - title: "Using artificial intelligence for diabetes health coaching"
-    excerpt: "The recipe for a healthy lifestyle is to eat well, stay active, reduce stress and take medication as prescribed. For someone with type 2 diabetes, small changes in any of those categories can have big impacts – positive or negative."
-    publishedDateTime: 2023-03-30T05:38:00Z
-    webUrl: "https://hospitalnews.com/using-artificial-intelligence-for-diabetes-health-coaching/"
-    type: article
-    provider:
-      name: hospitalnews
-      domain: hospitalnews.com
-    quality: 39
-    images:
-      - url: "https://hospitalnews.com/wp-content/uploads/2023/03/diabetes-AI.jpg"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "AI and the Future of Health"
-    excerpt: "Read about some of our research team’s work to make healthcare more data-driven, predictive, and precise – ultimately, empowering every person on the planet to live a healthier future."
-    publishedDateTime: 2023-03-30T18:43:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/blog/ai-and-the-future-of-health/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2023/03/AI-Health_blog-2023Mar_TW_LI_FB_with_logo_1200x627.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "AI Ethics: Not Eventually, but Now"
-    excerpt: "As Moore’s law makes way for specially designed AI acceleration, ethics research is becoming increasingly important. With many technologies trained to learn from experience, such research is not only relevant in anticipation of some distant dystopian future — it is vital today,"
-    publishedDateTime: 2023-03-30T18:36:00Z
-    webUrl: "https://www.thecrimson.com/article/2023/3/30/editorial-ai-ethics-now/"
-    type: article
-    provider:
-      name: The Harvard Crimson
-      domain: thecrimson.com
-    quality: 34
-  - title: "Healthians adds Artificial Intelligence based innovation to its Smart Report feature"
-    excerpt: "Humans always want their lives to be easier and better, and this constant hunger is what Healthians is satisfying by helping people simplify tasks that seem complicated. One such struggle for healthcare consumers is to read and understand their medical reports without any professional help."
-    publishedDateTime: 2023-03-30T11:20:00Z
-    webUrl: "https://www.afaqs.com/companies/healthians-adds-artificial-intelligence-based-innovation-to-its-smart-report-feature"
-    type: article
-    provider:
-      name: AFAQS
-      domain: afaqs.com
-    quality: 12
-  - title: "CSI and Hawk AI Partner To Release AI-Driven Solutions for Fraud and Anti-Money Laundering"
-    excerpt: "CSI, a leading provider of end-to-end fintech and regtech solutions, announced today it has partnered with Hawk AI, a leading global provider of anti-money laundering (AML) and fraud prevention technology for banks and payment companies,"
-    publishedDateTime: 2023-03-28T18:40:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/03/28/9784224.htm"
+      name: Marketing Dive
+      domain: marketingdive.com
+    quality: 19
+  - title: "Lilt introduces Contextual AI Engine for Translation; Outperforms Google Translate and GPT-4 on accuracy, latency and cost"
+    excerpt: "Lilt, the most advanced AI solution for enterprise translation, today announced the launch of Contextual AI Engine, a new GPT-style model for verified, enterprise-grade translation that delivers superior performance to GPT-4 and Google Translate."
+    publishedDateTime: 2023-03-29T00:00:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/29/9785436.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 9
+    quality: 8
 
 secured: "dz/b2raCBE0JgEp6ZwSNHT9D1X0fC9bO4IDV1IuMZTETrpw+iIYecpXPxP+nE6bTAQG/UBDgaVL42aUu4udQXaFAQZJp/UNC0lUCCLFQGxMKXfcVBxKnFvrlFvcAMxgo5gbz2NhioJNf0V+C3oo85nhH8CmvrqSiz6R3vWL013wusN9pvBioFEW0a/Z6T/WERbAqukubXPhzCeJ58koAycthYurIUOfrAIV8676ju3R/f+TSXoufWXyNIAY/ILc2S8gHxY9HXK4XpXLUtV5EAPLMUncf+f9aL92Iq7gzAl4xyVrlpXeVtlklW6XpBEYFAtwrbSSuKhD0XWJe7cTU9hPDGPmr4EhdsjyAIbjwZsXK0lg20WGuq5g40TfMYFKviTi6di8D9YBLfzfjJ3HTqAMQq6DvdYv7tWkr5gTWNpgT4ec/VbUxaKOEaMJD6MCGrkQq0VK7zk8ylaKqgG/8vON53L8YfiF77IcV8YTlMPmdPP1PP8IDV0r5JJ3MHsaJst1OJ2AK9pB/Q/DheBFPWA==;4Mks6srlEv2O9JbLMFBspw=="
 ---

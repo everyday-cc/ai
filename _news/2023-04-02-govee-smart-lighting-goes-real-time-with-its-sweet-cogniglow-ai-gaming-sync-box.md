@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-01T18:02:00Z
 originalUrl: "https://hothardware.com/news/govee-cogniglow-ai-gaming-sync-box"
 webUrl: "https://hothardware.com/news/govee-cogniglow-ai-gaming-sync-box"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: HotHardware

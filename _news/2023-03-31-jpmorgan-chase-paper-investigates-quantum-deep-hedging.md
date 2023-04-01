@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/pressarticle/96312/jpmorgan-chase-paper-i
 webUrl: "https://www.finextra.com/pressarticle/96312/jpmorgan-chase-paper-investigates-quantum-deep-hedging"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "JPMorgan Chase Completes Quantum “Deep Hedging” Study, May Increase Risk Mitigation Capabilities in Financial Services"
+    excerpt: "QC Ware, JPMorgan Chase completed study of quantum \"deep hedging,\" paving way for future risk mitigation capabilities in financial services."
+    publishedDateTime: 2023-04-01T19:06:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/04/204514-jpmorgan-chase-completes-quantum-deep-hedging-study-may-increase-risk-mitigation-capabilities-in-financial-services/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/04/204514-jpmorgan-chase-completes-quantum-deep-hedging-study-may-increase-risk-mitigation-capabilities-in-financial-services/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/04/204514-jpmorgan-chase-completes-quantum-deep-hedging-study-may-increase-risk-mitigation-capabilities-in-financial-services/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 22
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/10/Computer-Speed-Fast-Internet-Zoom-Keyboard.jpeg"
+        width: 1280
+        height: 1008
+        isCached: true
   - title: "Quantum on Wall Street: JPMorgan Chase and QC Ware Report on ‘Deep Hedging’ with Quantum-Classical"
     excerpt: "JPMorgan Chase and quantum and classical computing software and services company QC Ware announced today they have completed a study of quantum “deep hedging” that they say “(paves) the way for future increased risk mitigation capabilities in financial services."
     publishedDateTime: 2023-03-30T15:31:00Z

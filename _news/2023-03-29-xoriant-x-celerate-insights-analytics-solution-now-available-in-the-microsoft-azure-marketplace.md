@@ -1,20 +1,53 @@
 ---
 category: news
 title: "Xoriant X-CELERATE Insights Analytics Solution Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to X·CELERATE Insights to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies SUNNYVALE,"
-publishedDateTime: 2023-03-29T00:00:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-xoriant-x-celerate-insights-analytics-solution-now-available-/2023/03/29/9785521.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-xoriant-x-celerate-insights-analytics-solution-now-available-/2023/03/29/9785521.htm"
+excerpt: "Xoriant X-CELERATE Insights Analytics Solution Now Available in the Microsoft Azure Marketplace Mar (PRNewswire via COMTEX) -- PR"
+publishedDateTime: 2023-03-29T14:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/xoriant-x-celerate-insights-analytics-solution-now-available-in-the-microsoft-azure-marketplace-2023-03-29"
+webUrl: "https://www.marketwatch.com/press-release/xoriant-x-celerate-insights-analytics-solution-now-available-in-the-microsoft-azure-marketplace-2023-03-29"
 type: article
+quality: 87
+heat: 107
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "G6wilGiHp9sUg1TcYg81HWoEIZfdnhEdpEeavPpJr65nHVWx3gob0WxxNfhrnzbNjWav8n7FzkmAl3ljYTmdHnmn7RIFuAn9n2Lc99xpSlpIE+23NsTpXaTTCeEQ0dte+wS+rLqUsNkxPJsfQXMX/KXYlPydiycfeZS7fCYSF6b9/1Up5KzhebwslnRDxNwLNYs/c5tLraXf2zOp+w8L9bQHZVE5wU3M6xaLB88wfRb2uf0lBYAqX5wyCw2kar0lDSZoVPyS4GMEFCiLxatvBT4ZU9hQ/N6+6d5Z/vFGIcsf3QxjFbiZjYif8o1jJ2R4kqV7BXsb8rp6Y/SxYoc74zJafUsewIoPhP2Y45wWIjVdUhEWbagccu8ERFZBRT8z6Y31JZVDyJOGtepKn88jsbmAKd7y1l6Or8wHDKksGdzCrtMMK9IbfoEBhykBhU2gYJVvVLW+x0qhS7ArLYqqqoZZ7ZXP3NFNeHCOsV2qx0AXQSDah2u0sO6UzaXSzYx5nh/Lv9AMZlVzi86LN/xfSQ==;s3DuPyMyb8ZDZngn4Re1Ow=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Kinaxis Brings Concurrent Supply Chain Planning to Microsoft Azure Marketplace"
+    excerpt: "With supply chain elevated to a board-level topic, digital transformation of planning has become a top initiative. By bringing RapidResponse to the Microsoft Azure Marketplace, more companies will be able to take advantage of the supply chain agility Kinaxis delivers,"
+    publishedDateTime: 2023-03-29T21:50:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-kinaxis-brings-concurrent-supply-cha-planning-microsoft-azure-/2023/03/29/9785140.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 45
+  - title: "MTN to migrate OSS/BSS to Microsoft Azure"
+    excerpt: "South Africa-based MTN has joined the growing list of telcos that are making the move to public cloud. The company on Monday announced it has embarked on a programme of work to migrate various systems to Microsoft Azure."
+    publishedDateTime: 2023-03-30T15:38:00Z
+    webUrl: "https://telecoms.com/520948/mtn-to-migrate-oss-bss-to-microsoft-azure/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 34
+
+secured: "3okcElEDEZtO0WImQap9voHQJ3tl9PIWCuElgVQrIK09fIJJJvgBOCebbO4EvmQzMgsYflFSB329MlWLa5yRHlhSmyqdTGlqqfQ27WBJOYgcieS9cp9Rbxeb9LAlyHkZ2HTZ29riJJqnXVVpcMS0Ih38ZWjSnEbk6sEeE3C0k7tpU++lwO3erkpEGWhgDNjsqYIBHdms1037Ot9jT84k6Juyr6aMACqIcU6F7mcqoq8lUPqEyaZyzGvVJQx77cDPhtW2mpHRM7toELko1cWXjOoR9lGtnN2IYjz3kpQIIz45BrFAkcbdguevAbgFHl2IIWiEekAnVCnq5JKF2w0xIGQ6eEzH+cP3M+oA4/Zp8Os=;pX80/goMml2aWUGMVUNoAg=="
 ---
 

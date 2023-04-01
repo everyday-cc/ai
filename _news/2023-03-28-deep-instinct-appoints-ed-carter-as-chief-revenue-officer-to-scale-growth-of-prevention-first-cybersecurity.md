@@ -83,22 +83,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Pope Francis the fashion icon? Detecting AI images reaches 'uncanny valley,' cybersecurity expert warns"
-    excerpt: "Those images, created through artificial intelligence (AI)-generator model Midjourney, were uploaded to Facebook and Reddit groups dedicated ... If you're feeling alone or dissatisfied, a new research suggests that watching live sports in person may ..."
-    publishedDateTime: 2023-03-28T02:44:00Z
-    webUrl: "https://www.ctvnews.ca/sci-tech/pope-francis-the-fashion-icon-detecting-ai-images-reaches-uncanny-valley-cybersecurity-expert-warns-1.6331639"
-    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/3/27/1_6331639.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/3/27/1_6331639.amp.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 43
-    images:
-      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/3/3/1_6298063.jpg"
-        width: 1020
-        height: 574
-        isCached: true
 
 secured: "hAKMK5bMGSV3xy7OGT07CpVK3quYs7/dDSjeT5ZjP1qDA75hFTFmwCrStxngTjo4xMaTtw8kTN4wHojzDoeM2PDVE0eEBTmYfow3b+zzl1gTWgWLRPg1XX46I8CIiLJOzI0ueWgtl212FggkpfMYtxw5+MOggQ9kRJ+xuZ4xWVloNfhOAAncLjQuTGgCV2HEfSNSExOBplVSbBa4Aw+hmbmALTaBu4vhQap8YA5ftqOAkk2Zv2OrhL70i8Ugr2WwormQrNf3KOMqJqFGpepxH/MOHpbFPp+mZr38qCprzpSKHAey3xyULq3ytNxMEUcE6G9Uv/YXNTGPc9QsVm+BpABfJQYGId0F0E900sBDl0aUdIDS6v/ZG6q7ueKByOOeSpoqrGGhWIMstcdgecaAKS/cnM7EgnV4d4RENut6D3HiAhMaWZVrFs+uQ+T7Orvur26bK2U98wbRV5WUIPOsz0neGndCCMSyUa0UivSAgiB+dqa4FtRl2a6HQbcumBKjJNvRswOjWPbPPNquIkQChg==;4ivU39DKENZNb7H21+uA7g=="
 ---

@@ -113,20 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market 2023: Growing Opportunities by 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- The global \"Facial Recognition Market\" research study presents an in-depth analysis of the market's revenue, size, and volume. It covers ..."
-    publishedDateTime: 2023-03-28T05:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-growing-opportunities-by-2028-2023-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "In-Car Speech Recognition Market: New Forecast Report 2029"
     excerpt: "Complete Overview of the Global In-Car Speech Recognition Market: -Providing a complete overview of the global In-Car Speech Recognition market is a complex task, as there are many different markets and industries around the world. However, I can provide a ..."
     publishedDateTime: 2023-03-28T13:25:00Z
@@ -427,6 +413,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
+  - title: "Global Robotic Welding Market to 2028: Preference for Robotic Systems Due to Their High Efficiency Drives Growth"
+    excerpt: "This report states that the global market for robotic welding would exhibit growth at a CAGR of 7.35% in the evaluated phase 2022-2028. The increased preference for robots to carry out welding owing to their high efficiency is the key factor driving the studied market's growth."
+    publishedDateTime: 2023-03-30T00:00:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/03/30/9786825.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
   - title: "Global Robotic Welding Market to 2028: Preference for Robotic Systems Due to Their High Efficiency Drives Growth"
     excerpt: "DUBLIN, March 30, 2023 /PRNewswire/ -- The \"Global Robotic Welding Market 2022-2028\" report has been added to ResearchAndMarkets.com's offering. This report states that the global market for robotic welding would exhibit growth at a CAGR of 7.35% in the ..."
     publishedDateTime: 2023-03-30T21:16:00Z

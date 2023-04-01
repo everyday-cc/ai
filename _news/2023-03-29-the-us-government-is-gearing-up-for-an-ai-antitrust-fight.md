@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/3/28/23660101/ai-competition-ftc-doj
 webUrl: "https://www.theverge.com/2023/3/28/23660101/ai-competition-ftc-doj-lina-khan-jonathan-kanter-antitrust-summit"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "CSI and Hawk AI Partner To Release AI-Driven Solutions for Fraud and Anti-Money Laundering"
+    excerpt: "CSI, a leading provider of end-to-end fintech and regtech solutions, announced today it has partnered with Hawk AI, a leading global provider of anti-money laundering (AML) and fraud prevention technology for banks and payment companies,"
+    publishedDateTime: 2023-03-28T17:02:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/03/28/9784224.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "MK4cf6+p3uA3fFfrjfS+KO++ghRG4U0ICi6fY5/SvHe24ve7aN2zuwRSbTKIGRs1C3keIrKAIK6OziY6C+uaAMpQvdvSP5SUTYNomtEDgwMJJUyluMi4H0voYMcDylf7nEUcbN/94dr4YftiMefy5YySH9Q7jbb3G/x+GFjxzQ8oy8XCFT1dlOtRM0eSQgSvHMhas4EzWbldzdzDEkFwylbrU5BVxw1jPB99R+cJo3nQTjUMtxV4+Oll4ls/xbhA46DqvYRZMkVWlDzyTXBeDM/4Lk5qu1+Id+EzzcdZ62BA19h1MbgsW2La0eQsONVdXeE2CRaWCELlAc1PEbhbh5XFPDr73B2VyxueduHTNyM=;FxssurYwfLObyfNzrxAIXg=="
 ---
