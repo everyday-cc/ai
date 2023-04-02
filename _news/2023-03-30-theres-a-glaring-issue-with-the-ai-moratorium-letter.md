@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/technology/ai-open-letter-longtermism/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-open-letter-longtermism/?amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 2000
     height: 1125
     isCached: true
-
-related:
-  - title: "The problem with artificial intelligence is us"
-    excerpt: "The race to create the best artificial intelligence chatbot is on. At the time of writing, Google is unveiling its new chatbot, Bard, to 10,000 testers. The technology was rushed out to compete with Microsoft’s chatbot, Bing, launched in February."
-    publishedDateTime: 2023-03-28T16:45:00Z
-    webUrl: "https://www.christiancentury.org/article/features/problem-artificial-intelligence-us"
-    type: article
-    provider:
-      name: The Christian Century
-      domain: christiancentury.org
-    quality: 39
-    images:
-      - url: "https://www.christiancentury.org/sites/default/files/images/detail/pexels-federico-orlandi-3260626.jpg"
-        width: 6000
-        height: 4000
-        isCached: true
 
 secured: "rEB6dEnQH4dGOXmTH5obYnY72T3r6MqW5024fIloP4r8s4n7iIL/uXySxuRXdBzsleOc/gYqvzZnCks5AjtMywYxOZ/rcbKUHAABD0WgKN1DZUH1hkt8Q+VTiglpCmEK1y2TSc05aK843o0m4qjy3NX1/bYRVkm09x5iSUneb1iq1VaXUbHe8qbMZb2Hjem6BGTDWBJ0H8ZrS2OlSFofIPjZv5fATDWhR6Zg7xyZ+Wfvtjf18FPtQ1LmX/eIMswAGl0QQt1L3B9+GZnRNG+ISj8xAQUQ4wNWUT6pgoAUBpUo5Y1WCZfuMpU9mylXfolTB4tXxcXhV7SgWlv3Uut550NpTJIngPzZQqqOWtrAfnS/cwkh2DyMVV6zdHakvR/tfZBcaXmYbpPbu5Xa6tpkMd3iYTVHGjRZA+kQ1Mpm/ofVtwVFGJQU6Jin8roF4oeFZPgr/JACJq5PHvxGFx6z++xjCv89zlkgdG7rP4jgNG6iBVPTVWkra7dF8Q1p3S8zjGFhcZst5yHr7G4L5ORgkw==;FR9BO4GDX61FZHHoZ16cYQ=="
 ---

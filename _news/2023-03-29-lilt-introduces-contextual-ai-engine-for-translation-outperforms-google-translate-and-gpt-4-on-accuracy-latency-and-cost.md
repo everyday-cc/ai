@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Lilt introduces Contextual AI Engine for Translation; Outperforms Google Translate and GPT-4 on accuracy, latency and cost"
-excerpt: "Lilt, the most advanced AI solution for enterprise translation, today announced the launch of Contextual AI Engine, a new GPT-style model for verified, enterprise-grade translation that delivers superior performance to GPT-4 and Google Translate."
-publishedDateTime: 2023-03-29T00:00:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/03/29/9785436.htm"
-webUrl: "https://it.tmcnet.com/news/2023/03/29/9785436.htm"
+excerpt: "Today we’re releasing the next generation of our revolutionary language technology.” Contextual AI Engine Outperforms Google Translate and GPT-4 Today, Lilt released Contextual AI Engine ..."
+publishedDateTime: 2023-03-29T13:12:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/lilt-introduces-contextual-ai-engine-for-translation-outperforms-google-translate-and-gpt-4-on-accuracy/article_ea44011f-71cb-51c8-8688-b86f59e2249a.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/lilt-introduces-contextual-ai-engine-for-translation-outperforms-google-translate-and-gpt-4-on-accuracy/article_ea44011f-71cb-51c8-8688-b86f59e2249a.html"
 type: article
-quality: 8
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/e/6b/e6b172fd-778e-5f25-b527-44ab9c9dde5f/642437a335807.image.jpg?crop=1326%2C696%2C58%2C0&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "OpenAI’s GPT-4 violates FTC rules, argues AI policy group"
@@ -55,6 +61,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "GPT-4 poses too many risks and releases should be halted, AI group tells FTC"
+    excerpt: "A nonprofit AI research group wants the Federal Trade Commission to investigate OpenAI, Inc. and halt releases of GPT-4. OpenAI \"has released a product GPT-4 for the consumer market that is biased, deceptive,"
+    publishedDateTime: 2023-03-30T19:00:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/03/ftc-should-investigate-openai-and-halt-gpt-4-releases-ai-research-group-says/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 44
   - title: "AI ethics group asks FTC to investigate OpenAI"
     excerpt: "The Center for AI and Digital Policy, or CAIDP, made the request in an FTC complaint released today. At the center of the complaint is the GPT-4 model that OpenAI debuted earlier this month. GPT-4 is the startup’s most advanced neural network to date."
     publishedDateTime: 2023-03-30T19:02:00Z
@@ -83,6 +98,6 @@ related:
       domain: marketingdive.com
     quality: 19
 
-secured: "DuYmODk1gbVoq9NqkW7fSdVG+BaoDzdjWgbPuBKl/VLAZbJgO/7UvhlgG5wLHu/zZex94F5Vge2n9S5ZL6Np124EP0SUnekSRRczxThHVS5fUiJCKob0N2jMKz0PLirdhkkSwNJ24+VnaiXL3YlLtRCbKbbAzJdvG2ffx4giWNiwusCI8hoNuhKJTCjQBKG5PAswiBUe6pd9DWTJixtKO23ygewnZWyVGR+veZiw0GvAr2qZ6TT9ZXb7eLAzcgqgKpkiaW4K+s+IGhz5wIoTVlvN2S2mnUqxpvcZ5xKdiM+mQnGneYpQOLs1q7+DxHS20bik1eLTnZLFjHQIPdd2O+UF0l/01eH1KSgHaRDCRHK0BdP3Uoihm912vw3Nt4f9YtX0y2VWVtXg4QO/6whhlN9ccbIFIwDvQiCcQ+8ZKC9idlQY+ZYf3oV+zLwa5rKm2s+yydu/wShBiQ/GWNd3Wk22hgPedR+JpP1W60OLTVIOOCEfzLwNMy9MsW7sB/kVBMonr5BCskRB1aROEVsE6w==;xr5cVXqfsylTl31m9TdM8Q=="
+secured: "PBsWdovRv0kbQ1aWeskYU9jH+zgl/KQpMIEhKzd8uiU0wQW/0BH2CU1WTSUErNlveGhnLl6mOmz2AM/fZiYssHKqM3YGi8aXNf0ebTGN6ScheJLqpnPeJd8zVpVubY0uK2DsPp4TI2b43hwC6PUosCwK0+XpSsjOSwnM790agVXTseB7XgA1i5RrNB27GX66xS6zd2IbMmTxIx//ZUGheMDEfbm88eE6yzgyLFaad2njurh3Na4gyeYFFQIz7O9yz3sopJUJpbChU2HSTdBAFyb2l3pkGHNAwJpkXV+scbKL8Awc5NWhhHUgAE9yRariQXXbbAFG2Ah0QsgywMGvdxX1CKcktHxviOmPS8W3fhU=;4zQ9OleHAH2Q0SoCVD0y1g=="
 ---
 

@@ -28,6 +28,15 @@ related:
       name: SpaceNews
       domain: spacenews.com
     quality: 19
+  - title: "AI satellite mapping startup Impact Observatory raises funding in D.C."
+    excerpt: "A D.C. serial entrepreneur raised a multimillion-dollar seed round for his latest venture, an AI-powered geospatial mapping startup called Impact Observatory. And now, he's planning a hiring spree."
+    publishedDateTime: 2023-03-29T13:00:00Z
+    webUrl: "https://www.bizjournals.com/washington/inno/stories/news/2023/03/29/impact-observatory-ai-dc-satellite-mapping-funding.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "A9dP7EyS7hdFm+duSsXruOjstnWJhyx20b4YFJWYBGXdB8D9IZe+Z6UrChhIQYnBbb+DeFExyfk5x4Fdw9baxvwQdVAkjEU8hQkhS/iDz32ULtvtbf1JtWyN7A/z3mDI5uWocduyyrbfK35f2Z73TPcNssSOtBmZqxa/5P4jn/6hv/CsjKKdfrdftVfGkGPaAY6A3d7rLP1i40oo5IlTrVJlzoPPt/YY/Tjxx0bieOxHa7O8s+/+b0ixkZ8i7SbfZODvnZikRx8VMfSs6mZPYzxgKzu8AGXzi6MOzJ4iqZYRITKB0QL0ykXdbTYHBXaXv1nycENiYu/2LLWB73FmTHlFkNNOD4MtXsjQESCmxvKcBf9YPaG7sm5hdPQwA9eDxgRhODYtEqsgXUIbdWxaARgn4WhNl+IyMtiEkRfgcHWrjy90MOrJMcD6TzR4WNPzI1A/czyRJWxcYpn4iE8q8lTmpJTQb5pFrrZWgnwNDpYoWXcZb3LSJi6ii6obCJo+JYJUC+/vw0RjKkGxUmWn2A==;rlpAvSgEmy9+hbB/KMmraw=="
 ---

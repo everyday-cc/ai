@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/30/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/30/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
 type: article
 quality: 89
-heat: 299
+heat: 309
 published: true
 
 provider:
@@ -279,6 +279,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 19
+  - title: "The AI chatbot wars: Google's Bard versus OpenAI's ChatGPT"
+    excerpt: "Will you use Google Bard or OpenAI's ChatGPT? The answer to this depends entirely on what you want them to do. Find out why."
+    publishedDateTime: 2023-04-02T09:41:00Z
+    webUrl: "https://interestingengineering.com/innovation/google-bard-versus-chatgpt"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
     quality: 19
   - title: "York student uses AI chatbot to get parking fine revoked"
     excerpt: "Milly Houlton said she did not have the time to think about crafting her own response so turned to the chatbot A student has successfully appealed a £60 parking fine by using a letter written by an artificial intelligence chatbot."

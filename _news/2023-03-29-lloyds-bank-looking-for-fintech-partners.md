@@ -35,20 +35,6 @@ related:
         width: 1280
         height: 1021
         isCached: true
-  - title: "A Firm's Next Hire Should Be AI, Fintech Exec Says"
-    excerpt: "In fact, to date only Morgan Stanley has jumped in with both feet, and a serendipitous relationship with OpenAI, the tech company that launched ChatGPT last November, has the two firms creating a bespoke AI solution that scans Morgan Stanley materials only ..."
-    publishedDateTime: 2023-03-28T15:30:00Z
-    webUrl: "https://www.fa-mag.com/news/a-firm-s-next-hire-should-be-ai-72587.html"
-    type: article
-    provider:
-      name: Financial Advisor
-      domain: fa-mag.com
-    quality: 39
-    images:
-      - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "Fintech Trends To Look Out For In 2023"
     excerpt: "The fintech industry is continuously evolving, driven by advances in technology and changes in consumer behaviour. 2023 will witness significant trends in AI and machine learning, blockchain, digital banking and mobile payments, cybersecurity and fraud ..."
     publishedDateTime: 2023-03-31T13:26:00Z

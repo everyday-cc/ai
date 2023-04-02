@@ -18,17 +18,6 @@ topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "Miami police use Clearview’s facial recognition in shoplifting investigations"
-    excerpt: "While the force used Clearview to solve several murders its facial recognition application is also used in investigations of shoplifting and other crimes."
-    publishedDateTime: 2023-03-28T15:27:00Z
-    webUrl: "https://www.biometricupdate.com/202303/miami-police-use-clearviews-facial-recognition-in-shoplifting-investigations"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 16
-
 secured: "HDaXzRXOqG7Msi9PmuuTsTg1WJYoUAdGxcmvDNSxPHPR9DQXvChrYrc1ZYUmWZ9vc+Ka6DjdIV1o62Ao0Wx9o/NiRQPqeGc0GHOF0ZqtbqBJEyYjQIaiTngrDmpZZLil3gSqbk08B9FLDvmObd2vSpUa1TAq50fDMmV/JEr9b0vU7vBTSW9N4yWlKZh20n3h0Jzi7ilc91g7yrujbHi7QkNO7H9OjltgUnGMEgJsspVw+MKS+p7TeK6DaFjtTliEIBPC5isrWsFc3RA6VfH58WshydeEMI4R8qyxjGaTXQ2ueD9Z02D118D3V5cQ/Eq5S2O0VWrRG8Lk36Spf5llX14CF+7Nk2Zs8XfUPDCiy36EsXCEUOzWBUJwIIZAyLS3eA4fl842fMk5BFhY4R5bo7LTLCw6D+NWCL2ql/bfYcrYnflOBw1nQbQluZo8WRPsq+d3w0VuCeHdyeExeytwBvLKZcHRswW/pwbv05iMUgQBnIuCD5HWpalZM4qYy4Qw69qfMQTJvbmAdS76ljWuaA==;NZnvwXbFdANwCQYfDbgIZg=="
 ---
 

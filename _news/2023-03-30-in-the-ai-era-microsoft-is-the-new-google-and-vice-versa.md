@@ -29,50 +29,54 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Security Copilot harnesses AI to give superpowers to cybersecurity fighters"
-    excerpt: "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ..."
-    publishedDateTime: 2023-03-28T15:36:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters/"
+  - title: "Xoriant X-CELERATE Insights Analytics Solution Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Xoriant X-CELERATE Insights Analytics Solution Now Available in the Microsoft Azure Marketplace Mar (PRNewswire via COMTEX) -- PR"
+    publishedDateTime: 2023-03-29T14:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/xoriant-x-celerate-insights-analytics-solution-now-available-in-the-microsoft-azure-marketplace-2023-03-29"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 116
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/25070a0ca82841cd88b3eb8f12b525d93af19696/2023/03/28/a5988217-ae81-4ae4-9aae-0416874b7761/gettyimages-1208358547.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Microsoft enlists AI to supercharge PC security and hinder hackers"
-    excerpt: "If the world’s top businesses eventually trust Security Copilot, that may assure you that AI can help secure your PC, too. As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for ..."
-    publishedDateTime: 2023-03-28T15:31:00Z
-    webUrl: "https://www.pcworld.com/article/1674223/microsoft-enlists-security-copilot-ai-to-fight-hackers.html"
+  - title: "MTN plans migration of services to Microsoft Azure"
+    excerpt: "MTN has said that it has established the MTN Group Cloud Centre of Excellence and Project Nephos that will carefullly migrate selected business applications to Microsoft Azure."
+    publishedDateTime: 2023-04-01T22:41:00Z
+    webUrl: "https://punchng.com/mtn-plans-migration-of-services-to-microsoft-azure/"
+    ampWebUrl: "https://punchng.com/mtn-plans-migration-of-services-to-microsoft-azure/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/mtn-plans-migration-of-services-to-microsoft-azure/?amp"
     type: article
     provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 103
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 74
     images:
-      - url: "https://www.pcworld.com/wp-content/uploads/2023/03/cybersecurity_main.png?w=1024"
-        width: 1024
-        height: 576
+      - url: "https://cdn.punchng.com/wp-content/uploads/2022/09/18024056/MTN-new-logo-e1663465256894.jpg"
+        width: 906
+        height: 597
         isCached: true
-  - title: "Microsoft Security Copilot is a new GPT-4 AI assistant for cybersecurity"
-    excerpt: "After announcing an AI-powered Copilot assistant for Office apps ... so we think it’s important to get it to a small group of folks and start that process of learning and to make this the best possible product and make sure we’re delivering it ..."
-    publishedDateTime: 2023-03-28T15:32:00Z
-    webUrl: "https://www.theverge.com/2023/3/28/23659711/microsoft-security-copilot-gpt-4-ai-tool-features"
+  - title: "Kinaxis Brings Concurrent Supply Chain Planning to Microsoft Azure Marketplace"
+    excerpt: "With supply chain elevated to a board-level topic, digital transformation of planning has become a top initiative. By bringing RapidResponse to the Microsoft Azure Marketplace, more companies will be able to take advantage of the supply chain agility Kinaxis delivers,"
+    publishedDateTime: 2023-03-29T21:50:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-kinaxis-brings-concurrent-supply-cha-planning-microsoft-azure-/2023/03/29/9785140.htm"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 102
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/5X0IGMLrTUsRnyo97W-GRqDZBiA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347781/STK095_Microsoft_03.jpg"
-        width: 1200
-        height: 628
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 45
+  - title: "MTN to migrate OSS/BSS to Microsoft Azure"
+    excerpt: "South Africa-based MTN has joined the growing list of telcos that are making the move to public cloud. The company on Monday announced it has embarked on a programme of work to migrate various systems to Microsoft Azure."
+    publishedDateTime: 2023-03-30T15:38:00Z
+    webUrl: "https://telecoms.com/520948/mtn-to-migrate-oss-bss-to-microsoft-azure/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 34
 
 secured: "5uqUOBd7/2r2O33FHL06Oj8zBarfBSSWVlFRQ9/nQ5qD5iHZIcwM5Qm27lTNL8TJz3eLk6XuZ7ZezibZaLSNgY6wTvQyWelLQxarU/0ZHz2lmQdouwm8XEiJ15O1lfnqHoooWJCgQLKJ1AoV3bBY0Hs81h6vX5/X9YaObCX01c/8cMNlrzkWnN1PU3edvIEL9Rnyjzv1sGEszuDPdfy3WSidUCtlt/052SMiTojoxzY5/j9CYMsn+j8s33JN1HyEZl56t2qI7RyVVWbC967RxH2hboTnz3/vPDOAm2ya8xpjn1lueHn+pmd1kGv/Wy/YIGI+X3jsmEpDY3Ee4xmMjLlmwI3ABqZK/peU5q2/UR8=;GONRMgFqa1Yfo+ISnHaA/w=="
 ---

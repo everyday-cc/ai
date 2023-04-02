@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "In the AI era, Microsoft is the new Google, and vice-versa"
+    excerpt: "Microsoft's AI efforts suggest that the company has traded places with Google when it comes to the cool factor."
+    publishedDateTime: 2023-03-30T14:00:00Z
+    webUrl: "https://www.androidauthority.com/microsoft-new-google-ai-opinion-3302336/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 84
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Bing-Chat-on-phone-4.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "MTN plans migration of services to Microsoft Azure"
     excerpt: "MTN has said that it has established the MTN Group Cloud Centre of Excellence and Project Nephos that will carefullly migrate selected business applications to Microsoft Azure."
     publishedDateTime: 2023-04-01T22:41:00Z

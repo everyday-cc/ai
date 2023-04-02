@@ -6,9 +6,6 @@ publishedDateTime: 2023-03-28T17:04:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/03/n31535168/artificial-intelligence-ai-chip-market-size-to-grow-usd-263-6-billion-by-2031-growing-at-a-cagr-of"
 webUrl: "https://www.benzinga.com/pressreleases/23/03/n31535168/artificial-intelligence-ai-chip-market-size-to-grow-usd-263-6-billion-by-2031-growing-at-a-cagr-of"
 type: article
-quality: 41
-heat: 41
-published: false
 
 provider:
   name: Benzinga.com
@@ -24,6 +21,6 @@ images:
     height: 1043
     isCached: true
 
-secured: "cKDDGnpc9DK4uoPBj1CuXMPF9xCSiGSorgc/Iw1f4GM4HNqXx60r131FtMt5cMDIOLbj2LE/9e2JXKuLbupEmxcfPRLLh+A9GKFUTouCM7D0AYszVhb4UwUxLsOkS1tsxMJa9/SliIcqKwpRc4AAK2n2iFaUU6svslx+p0zKcReoI7UgqvD6ff9+9btyz3QmNHNrof//jFiTBLrUbRqpSdwWAQDPEJF7aOh9ySNa9xmT4kdEiScuSYM+LqborniSq+tD7iDJTsg0i1gcmfcKEVpjmE22Tn1ltf2mff1ClkjtW58iqZKA2GthJsZJ+k3ANoRlKzB17qRoIpoAq9kb7JK8Q/Ygv43ZmKZ7XiAXBNc=;DxidcgR9NIDhlq+08nlvbg=="
+secured: "ZKGovWUFn6k2c4YtNAXPeRW1wN0fkuNBBoJyeR0OysMxSVx4o8H9x+lxzvGAyxSO3zQkbK773ENlg6YQjXyYr2zkJUOoYZJFfZ0Z2Kdils6MSHYascK+hL8lYNfZj5OSDbUveamySmfS876GqYxI93UlahVtcE1Cn+ct6FrwzlycOxrQpDZ6EPpVPe6QcKOZxrOz6F8YMZFYmRhswTWtj042wyMuieFUBBfdQfuTWP/vly30RRuijQ+norqnZZfVAP++zNV5zzggU5jSPjOBNRWVj5uVrHPU64UcInsnhr0l91gJzFj9kEVKPhbgMzoC3F35udJvJQj8Sy0OHCgy2DlQRO1sbcjWpi8L/sRhNxE=;qD/AAMCIsiDzzg/9Tq++nw=="
 ---
 

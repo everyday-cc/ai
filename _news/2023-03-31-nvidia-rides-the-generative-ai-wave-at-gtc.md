@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/03/31/nvidia-rides-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/03/31/nvidia-rides-the-generative-ai-wave-at-gtc/amp/"
 type: article
 quality: 93
-heat: 173
+heat: 163
 published: true
 
 provider:
@@ -33,22 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "Buy Nvidia Stock Because the Chip Maker Is an AI Play, Says Analyst"
-    excerpt: "Bernstein is getting more bullish on demand for Nvidia semiconductors based upon the growth potential of artificial-intelligence training applications. On Tuesday, analyst Stacy Rasgon reiterated his Outperform rating for Nvidia stock (ticker: NVDA), and ..."
-    publishedDateTime: 2023-03-28T15:39:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-buy-ai-chip-2c81821f?refsec=technology"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-buy-ai-chip-2c81821f"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-buy-ai-chip-2c81821f"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://images.barrons.com/im-752355/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Nvidia Is More Than AI Chips. The Stock Has Software Upside, Says Analyst."
     excerpt: "Piper Sandler analyst Harsh Kumar increased his price target on Nvidia stock to $300 from $275 and reaffirmed his Overweight rating."
     publishedDateTime: 2023-03-29T18:59:00Z

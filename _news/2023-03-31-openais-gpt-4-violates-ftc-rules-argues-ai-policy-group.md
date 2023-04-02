@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/openais-gpt-4-violates-ftc-rules-argues-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/openais-gpt-4-violates-ftc-rules-argues-ai-policy-group/amp/"
 type: article
 quality: 67
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "GPT-4 poses too many risks and releases should be halted, AI group tells FTC"
+    excerpt: "A nonprofit AI research group wants the Federal Trade Commission to investigate OpenAI, Inc. and halt releases of GPT-4. OpenAI \"has released a product GPT-4 for the consumer market that is biased, deceptive,"
+    publishedDateTime: 2023-03-30T19:00:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/03/ftc-should-investigate-openai-and-halt-gpt-4-releases-ai-research-group-says/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 44
   - title: "AI ethics group asks FTC to investigate OpenAI"
     excerpt: "The Center for AI and Digital Policy, or CAIDP, made the request in an FTC complaint released today. At the center of the complaint is the GPT-4 model that OpenAI debuted earlier this month. GPT-4 is the startup’s most advanced neural network to date."
     publishedDateTime: 2023-03-30T19:02:00Z
@@ -58,6 +67,20 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 34
+  - title: "Lilt introduces Contextual AI Engine for Translation; Outperforms Google Translate and GPT-4 on accuracy, latency and cost"
+    excerpt: "Today we’re releasing the next generation of our revolutionary language technology.” Contextual AI Engine Outperforms Google Translate and GPT-4 Today, Lilt released Contextual AI Engine ..."
+    publishedDateTime: 2023-03-29T13:12:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/lilt-introduces-contextual-ai-engine-for-translation-outperforms-google-translate-and-gpt-4-on-accuracy/article_ea44011f-71cb-51c8-8688-b86f59e2249a.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 28
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/e/6b/e6b172fd-778e-5f25-b527-44ab9c9dde5f/642437a335807.image.jpg?crop=1326%2C696%2C58%2C0&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Lilt Introduces Contextual AI Engine for Translation; Outperforms GPT-4"
     excerpt: "Lilt launches Contextual AI Engine which has a higher accuracy than Google Translate and GPT-4 for many enterprise contexts."
     publishedDateTime: 2023-03-29T13:00:00Z
@@ -76,15 +99,6 @@ related:
       name: Marketing Dive
       domain: marketingdive.com
     quality: 19
-  - title: "Lilt introduces Contextual AI Engine for Translation; Outperforms Google Translate and GPT-4 on accuracy, latency and cost"
-    excerpt: "Lilt, the most advanced AI solution for enterprise translation, today announced the launch of Contextual AI Engine, a new GPT-style model for verified, enterprise-grade translation that delivers superior performance to GPT-4 and Google Translate."
-    publishedDateTime: 2023-03-29T00:00:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/03/29/9785436.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
 
 secured: "JxRK+qdHNWqpr2xJ9DZVZDx836TWUPdB/v2kFdpzyzLEw5hSllUYvfQHl5hBYBXaNznACu+YY3kvHQWjHNzAPymlHqc69mpDr0lK5HXiDlQug+2UTxPKRjR329B8ktAXiPIIHpczags30ypqRIfO5ktbrCDevtx1poMmV7xYNnxuVYX5Jzz/UEu8wU6rKJQDVCu/kiT7R3AvJ//UDqWHPAIfcStjQri1oeFAj3R0e1+GThJmjwcmI28TkmvD2RrGZufeihmTwwFr4U4wUuriv0ffQ6sjZez469BDFH6vIEIFQK4VQ/R1S+fND+zcL2gi62ib6pKdKpI3dClhlL+KhbrGufBnUYnUMdXx8YkrtmEIbkZNbvFK1gFvOXGqSuL8d65ya1Km/CcDekF6/X7zJHaJusnewNs4jYrq2FzNrIkbDm6Dm6+tqjo+JuTJCW9cRqFiwvdeKunQRyl5nvkvQtBHJWo6Gplnfv0Hip3ne6L6db+tGQH8iL+PhGTrYHzyIhEE8JVRe+TjAnp+KeVrcw==;J2Nm6Md1LrKxVFkiy7PpNA=="
 ---

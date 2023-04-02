@@ -283,6 +283,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "The AI chatbot wars: Google's Bard versus OpenAI's ChatGPT"
+    excerpt: "Will you use Google Bard or OpenAI's ChatGPT? The answer to this depends entirely on what you want them to do. Find out why."
+    publishedDateTime: 2023-04-02T09:41:00Z
+    webUrl: "https://interestingengineering.com/innovation/google-bard-versus-chatgpt"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 19
   - title: "This AI training bundle will get you up-to-date with ChatGPT for only $19.97"
     excerpt: "ChatGPT, a new AI chatbot tool that has been developed by OpenAI that assists and offers various impressive features (such as doing research, answering questions, and generating content within seconds),"
     publishedDateTime: 2023-04-01T13:00:00Z

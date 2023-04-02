@@ -22,38 +22,83 @@ topics:
   - AI
 
 related:
-  - title: "GPT-4 kicks AI security risks into higher gear"
-    excerpt: "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success ... And, Check Point Research was able to use ChatGPT to create a convincing spear-phishing attack. The company’s ..."
-    publishedDateTime: 2023-03-28T15:31:00Z
-    webUrl: "https://venturebeat.com/security/security-risks-evolve-with-release-of-gpt-4/"
-    ampWebUrl: "https://venturebeat.com/security/security-risks-evolve-with-release-of-gpt-4/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/security-risks-evolve-with-release-of-gpt-4/amp/"
+  - title: "OpenAI’s GPT-4 violates FTC rules, argues AI policy group"
+    excerpt: "The FTC received a new complaint today from the Center for AI and Digital Policy that calls for an investigation of OpenAI and GPT-4."
+    publishedDateTime: 2023-03-30T21:29:00Z
+    webUrl: "https://venturebeat.com/ai/openais-gpt-4-violates-ftc-rules-argues-ai-policy-group/"
+    ampWebUrl: "https://venturebeat.com/ai/openais-gpt-4-violates-ftc-rules-argues-ai-policy-group/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/openais-gpt-4-violates-ftc-rules-argues-ai-policy-group/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 106
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1368733427-luckystep.jpg?w=1200&strip=all"
-        width: 1200
-        height: 698
-        isCached: true
-  - title: "Why It’s Difficult To Predict Where GPT And Other Generative AI Might Take Us"
-    excerpt: "Why is it so difficult to predict events and consequences too far into the future? Scientists and philosophers have studied the process of how knowledge is expanded. And what they have learned has lessons for understanding where generative AI models may go."
-    publishedDateTime: 2023-03-31T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/gabrielasilva/2023/03/31/why-its-difficult-to-predict-where-gpt-and-other-generative-ai-might-take-us/"
-    ampWebUrl: "https://www.forbes.com/sites/gabrielasilva/2023/03/31/why-its-difficult-to-predict-where-gpt-and-other-generative-ai-might-take-us/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2023/03/31/why-its-difficult-to-predict-where-gpt-and-other-generative-ai-might-take-us/amp/"
+    quality: 67
+  - title: "FTC should investigate OpenAI and halt GPT-4 releases, AI research group says"
+    excerpt: "A nonprofit AI research group wants the Federal Trade Commission to investigate OpenAI, Inc. and halt releases of GPT-4. OpenAI \"has released a product GPT-4 for the consumer market that is biased, deceptive,"
+    publishedDateTime: 2023-03-30T19:00:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/03/ftc-should-investigate-openai-and-halt-gpt-4-releases-ai-research-group-says/"
+    ampWebUrl: "https://arstechnica.com/tech-policy/2023/03/ftc-should-investigate-openai-and-halt-gpt-4-releases-ai-research-group-says/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/03/ftc-should-investigate-openai-and-halt-gpt-4-releases-ai-research-group-says/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 64
+  - title: "Lilt introduces Contextual AI Engine for Translation; Outperforms Google Translate and GPT-4 on accuracy, latency and cost"
+    excerpt: "Today we’re releasing the next generation of our revolutionary language technology.” Contextual AI Engine Outperforms Google Translate and GPT-4 Today, Lilt released Contextual AI Engine ..."
+    publishedDateTime: 2023-03-30T04:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/lilt-introduces-contextual-ai-engine-for-translation-outperforms-google-translate-and-gpt-4-on-accuracy-latency-and-cost-2023-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641df1543445254362580d52/0x0.jpg?format=jpg&width=1200"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 798
+        height: 630
         isCached: true
+  - title: "AI ethics group asks FTC to investigate OpenAI"
+    excerpt: "The Center for AI and Digital Policy, or CAIDP, made the request in an FTC complaint released today. At the center of the complaint is the GPT-4 model that OpenAI debuted earlier this month. GPT-4 is the startup’s most advanced neural network to date."
+    publishedDateTime: 2023-03-30T19:02:00Z
+    webUrl: "https://siliconangle.com/2023/03/30/ai-ethics-group-asks-ftc-investigate-openai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+  - title: "Lilt introduces Contextual AI Engine for Translation; Outperforms Google Translate and GPT-4 on accuracy, latency and cost"
+    excerpt: "Today we’re releasing the next generation of our revolutionary language technology.” Contextual AI Engine Outperforms Google Translate and GPT-4 Today, Lilt released Contextual AI Engine ..."
+    publishedDateTime: 2023-03-29T13:12:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/lilt-introduces-contextual-ai-engine-for-translation-outperforms-google-translate-and-gpt-4-on-accuracy/article_ea44011f-71cb-51c8-8688-b86f59e2249a.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 28
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/e/6b/e6b172fd-778e-5f25-b527-44ab9c9dde5f/642437a335807.image.jpg?crop=1326%2C696%2C58%2C0&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Lilt Introduces Contextual AI Engine for Translation; Outperforms GPT-4"
+    excerpt: "Lilt launches Contextual AI Engine which has a higher accuracy than Google Translate and GPT-4 for many enterprise contexts."
+    publishedDateTime: 2023-03-29T13:00:00Z
+    webUrl: "https://slator.com/lilt-introduces-contextual-ai-engine-translation-outperforms-gpt-4/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 19
+  - title: "GPT-4 draws more heat as AI advocates file FTC complaint against OpenAI"
+    excerpt: "The office includes data scientists, data engineers, AI specialists and design ethics specialists, Khan said during the Monday summit. Within the first few days of posting job openings, the office received between 300-400 applications. “We're also now ..."
+    publishedDateTime: 2023-03-31T12:55:00Z
+    webUrl: "https://www.marketingdive.com/news/FTC-complaint-AI-Lina-Khan-CAIDP-OpenAI/646487/"
+    type: article
+    provider:
+      name: Marketing Dive
+      domain: marketingdive.com
+    quality: 19
 
 secured: "W2+PLGdWQsNYRYfPjwfLsZtY7xHN+9LB2r9bif/tJH9pjK+ddovV1S/3KY2oxpuhUaVJTbuK0kcaSRSgYkRlOZuzmpijraYCPDcirvi31+Ct9QBZ1KfiiuT3O5UkNdzLW98iRgLG5yi8LZ4zf+vyO+q1X47767ncrG+0oPmN7zkhn+2nqphtop6xxDjaLJ13VJC66qSSqm76RfwtGvQtjForD/07FKHUbSizQsL/7cSQHuywP8CvdLP1VZiW0EyGqtJAnp7oPPDCNltDwCppZCqFcIi9+d+S9Y6sSiAF7MQLI/8I90Do5H/OvK7skYiCFvSKIqWYyWoVcewsiBAuyDioyqgsBNiN5Sc0TRUHYaCWnjh+gpzxQsFackMW1sFL1SSJi8xRUu5soQltMADY2PBlkAzPCgtHs40ZdudRERv2AgEOtni3vTWce0zt0wSxVH5Vshnh36aOU6mz8MSYQiTRMqyT8VQf1U2XQDzo4I/XonosIKxGCidxkEBJ53P0zh9jYZLT9wzhBTUtNhvFqQ==;tDOZlBKycT+urOMEdtweQA=="
 ---

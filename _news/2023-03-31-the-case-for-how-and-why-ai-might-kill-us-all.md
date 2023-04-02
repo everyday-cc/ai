@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/technology/ai-danger-kill-everyone"
 webUrl: "https://newatlas.com/technology/ai-danger-kill-everyone"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Why AI might need to take a time out"
-    excerpt: "Why we must defuse the current arms race to consider implications of AI, inform regulators and allow the industry to step back and reflect."
-    publishedDateTime: 2023-04-01T13:40:00Z
-    webUrl: "https://venturebeat.com/ai/why-ai-might-need-to-take-a-time-out/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
 
 secured: "OKw93AlFaofW5HSBsqxmltOSmz90s6A+MuaXDZiLgD1S+bVkc0CrA4EBy7T5P59ALS1jaR/Mhuedxky2ny70ab2RjVuYsW6wu6Wkw0XtxAeT11gnqSqzLrM1bvW6wJhyaXhBYBAgsmK0UsZGY0MZPkGEn2V5AuFSyvYNmhBMnI5BSOmNS5DMtLbtPcvODJzXXO46URPVbMDdLBqOjHNeOK/DHxJG9IUfI8a2Bl5zJv0g/nJqGh1AugQgEKpO7JJ2Oe6WBfk10juElqwW8RnSTY7SmwgTOOfEzac5gwyo/h68BLCUQdJZy6DqRPDTyFt0uZwThf+cTkrpimxSvZhWkecedPrYcQM7yFLHdYwK1BNnMRvsZPRS9Y2Hzxxpi97tNAlLjDVKZPhbXtMG5Th2iD0pEAWBD4n1M1a0QF6K0rk0Os5sc28Sg/YV9b15yjCA5vnOy2E4wYZS08afuhFl+obaWw+z/X8FEqII3uty5/wTx5MchVR2MP4ySwSD5CYynTVHNnSr2Rg+upzMPOscjQ==;xRiIOPXH8uhYivHKWXIH6g=="
 ---

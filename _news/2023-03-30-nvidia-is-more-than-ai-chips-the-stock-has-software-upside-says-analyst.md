@@ -37,22 +37,6 @@ related:
         width: 1200
         height: 899
         isCached: true
-  - title: "Buy Nvidia Stock Because the Chip Maker Is an AI Play, Says Analyst"
-    excerpt: "Bernstein is getting more bullish on demand for Nvidia semiconductors based upon the growth potential of artificial-intelligence training applications. On Tuesday, analyst Stacy Rasgon reiterated his Outperform rating for Nvidia stock (ticker: NVDA), and ..."
-    publishedDateTime: 2023-03-28T15:39:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-buy-ai-chip-2c81821f?refsec=technology"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-buy-ai-chip-2c81821f"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-buy-ai-chip-2c81821f"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://images.barrons.com/im-752355/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Embracing the next generation of AI services"
     excerpt: "With networks growing in complexity, adopting AIOps into your strategy can unlock new ways to streamline your operations, writes Quinton O’Reilly"
     publishedDateTime: 2023-04-01T22:04:00Z

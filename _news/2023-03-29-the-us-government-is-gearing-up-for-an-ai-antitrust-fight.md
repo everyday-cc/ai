@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Why AI might need to take a time out"
-    excerpt: "Why we must defuse the current arms race to consider implications of AI, inform regulators and allow the industry to step back and reflect."
-    publishedDateTime: 2023-04-01T13:40:00Z
-    webUrl: "https://venturebeat.com/ai/why-ai-might-need-to-take-a-time-out/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
 
 secured: "MK4cf6+p3uA3fFfrjfS+KO++ghRG4U0ICi6fY5/SvHe24ve7aN2zuwRSbTKIGRs1C3keIrKAIK6OziY6C+uaAMpQvdvSP5SUTYNomtEDgwMJJUyluMi4H0voYMcDylf7nEUcbN/94dr4YftiMefy5YySH9Q7jbb3G/x+GFjxzQ8oy8XCFT1dlOtRM0eSQgSvHMhas4EzWbldzdzDEkFwylbrU5BVxw1jPB99R+cJo3nQTjUMtxV4+Oll4ls/xbhA46DqvYRZMkVWlDzyTXBeDM/4Lk5qu1+Id+EzzcdZ62BA19h1MbgsW2La0eQsONVdXeE2CRaWCELlAc1PEbhbh5XFPDr73B2VyxueduHTNyM=;FxssurYwfLObyfNzrxAIXg=="
 ---
