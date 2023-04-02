@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-marke
 webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2023-size-growing-rapidly-with-recent-trends-2023-03-28"
 type: article
 quality: 66
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 41
+  - title: "Voice Assistant Market Size, Revenue, and Forecast 2030"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2023 (The Expresswire) -- 360 Market Updates(360marketupdates.com) published a new research report on Voice Assistant Market 2023 with 101 Report Pages and enhance ..."
+    publishedDateTime: 2023-03-28T13:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-assistant-market-size-revenue-and-forecast-2030-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
 
 secured: "XAvahmW1FBpeMfq6adYwqkiVJco/Ujq3euMG+GCZ/6ALdO8eWZhzfZNaJjOI89VylQcJVMyMfEfl5aOFvsmBxqOfGmqNNrXnY3kn99KQAjPje8besmfdKYGj4EYULRzhdUrP6iUbH3uRpOp8Y7X+kzdy0SFTaWGpawSCfHUQjPa3VkVCWtBGiBs/DefIAHHymeAjMyOB3CqaInW0+jwJnUp2N6evqCYA63f9nWBbO+f0dHkaK6bZszCHPfocDsdAHxwzDXnlpp9GSE2BTtiJt+raAGA5b6zOoiQbAVM3GsrOVmaiQmP6o2BXHIZzXqUICRyrajBJPx5Su+ZitlD/MI99ePdbLk7TSNPi7IQWEW0=;F+G8Zk8H3o9gTLiaDf5stQ=="
 ---

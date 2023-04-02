@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Key paper on AI chip design might be overstated"
-    excerpt: "Terminator not coming for chip designers A key Google-led research paper claiming machine-learning software can design better chips faster than humans has been called into question after a new study disputed its results."
-    publishedDateTime: 2023-03-28T11:12:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/56610-key-paper-on-ai-chip-design-might-be-overstated"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/68d425fd6b707bcebf12c496882c2580_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
 
 secured: "PUFYHf7UkVoBcFFITuzNWfwmR72GDJtufLhYq/ynLjdZJQyVcdo7dPumjGQkYkTJN4r5RDLxl6gz3RxRsGum2KMj0V+QAtCv741moHesQsVH4YHLTMv679T2tuA734RKzks3HRx4C/WosJefRn/OgD72Sv8L1dKRFqLmT4JkmzANTcziOAsbXOByss/7AHuPdCaVAzSsC3tBGv1Dsvn/h4l1+cPVfRYYN7ZKPbFBkV7XWAZeW3jK203p57PqbzQkB5bJ7z4F06H8eLcD4afzEHvzghg/MRQ8bUV+c+rJQ8RTCBBiK9rTL5pi7cb7eh3PGsuvvxuOBfMXVt1LBJeDBLGCdX5iVCw0mS8iq1mK8fdGqjnFP8bOyRX75SorMX5QGo3l3s8iWqnEPpTpQHiKxMe8s6TVW1kUonIccQjlMZLhVQpp0lKIS9pWLLTmIjzsRbcwnx9n1YWBd/WR+QEPGXtZxqoWI5PoP+1OLK2rJ/JTS7x2wDFBgiED50WYHF55s9hqB9n3mqxbT4wwiuTSPg==;nnGOSOKffSZF7EoYGL168w=="
 ---

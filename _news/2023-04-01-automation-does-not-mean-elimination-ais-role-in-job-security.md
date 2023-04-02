@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/automation-does-not-mean-elimination-ai
 webUrl: "https://venturebeat.com/ai/automation-does-not-mean-elimination-ais-role-in-job-security/"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -33,15 +33,6 @@ related:
       name: Big News Network.com
       domain: bignewsnetwork.com
     quality: 34
-  - title: "Artificial intelligence innovation: Leading companies in adaptive cruise control for the automotive industry"
-    excerpt: "In the last three years alone, there have been over 1.2 million patents filed and granted in the automotive industry, according to GlobalData’s report on Artificial intelligence in Automotive: Adaptive cruise control. However, not all innovations are ..."
-    publishedDateTime: 2023-03-28T12:31:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-adaptive-cruise-control-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 0
 
 secured: "veT41EqffWcYjP9ZAqOHPNYNT0VKIxWas7HYeRYGQ8ttrKinQBVjxOMJxu0X7WV11VvqbniFVgYAhKv6jupqp+ibi+Ea9DZqKNh+VDAT4qCd7OhgNibF0uqN4HK+YDi9cT1F1wU9icO+HN9wvnePRGfhtpmv7zoBLyFpO7M7N1G/XDDfdavPDtuCaE8isGbJVu9+b71iegUuzfIvj+JSEP9fESmW7VcHbF3IJO4PB8oyXYAyJyrs2W1IMPwarws15VRYnj70eaZDUeD4bPn/RgP4r6sjvkKEnscihoFdrQnrZ3e7CbheLna9taeIpnoRk3GTKNxfOrlQhW8GZunYsok9Kr9nsHQO1qFTedq+gds=;FIyGT/jqSPtMBhhHJNbGVg=="
 ---

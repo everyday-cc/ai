@@ -130,22 +130,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Can ChatGPT Change the Face of Healthcare?"
-    excerpt: "regulations must be put in place to ensure no inaccuracies are made Many are still reluctant about the role of artificial intelligence (AI) in our lives, but it might be time to accept that AI has the power to transform healthcare. Obviously, AI can't ..."
-    publishedDateTime: 2023-03-28T11:37:00Z
-    webUrl: "https://www.medindia.net/news/healthwatch/can-chatgpt-change-the-face-of-healthcare-211109-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/healthwatch/can-chatgpt-change-the-face-of-healthcare-211109-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/healthwatch/can-chatgpt-change-the-face-of-healthcare-211109-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://www.medindia.net/health-images/an-artificial-intelligence-accurately-predict.jpg"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Everything you need to know about artificial intelligence: What is it used for?"
     excerpt: "Artificial intelligence is the leading innovation in the technology sector today, offering limitless opportunities to its users while also representing an existential threat to some white-collar ..."
     publishedDateTime: 2023-03-29T13:09:00Z

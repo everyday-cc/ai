@@ -158,24 +158,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023-2029 Global Cloud-based AI Chip Market Growth Analysis Report"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2023 (The Expresswire) -- The Cloud-based AI Chip Market report provides a comprehensive analysis of the global market, covering both qualitative and quantitative ..."
-    publishedDateTime: 2023-03-28T12:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2029-global-cloud-based-ai-chip-market-growth-analysis-report-2023-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-  - title: "Global Photonic AI Chip Market : Latest Report 2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2023 (The Expresswire) -- The Photonic AI Chip Market report provides a comprehensive analysis of the global market, covering both qualitative and quantitative ..."
-    publishedDateTime: 2023-03-28T12:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-photonic-ai-chip-market-latest-report-2029-2023-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
   - title: "AI based Edge Computing Chip Market Growth Report 2023"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 29, 2023 (The Expresswire) -- Global \"AI based Edge Computing Chip Market\" Research Report 2023 is spread across 125 pages and provides Size, Share, Growth, and Forecast ..."
     publishedDateTime: 2023-03-30T04:34:00Z
@@ -291,15 +273,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) In Food And Beverages Market Size, Share, Demand, Opportunity, Outlook, Trends, Revenue, and Future Growth By 2027"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2023 (AmericaNewsHour) -- The Global Artificial Intelligence (AI) in Food and Beverages Market is anticipated to grow at a robust CAGR over the forecast period (2020 ..."
-    publishedDateTime: 2023-03-28T12:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-and-beverages-market-size-share-demand-opportunity-outlook-trends-revenue-and-future-growth-by-2027-2023-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
   - title: "Global Robotic Welding Market to 2028: Preference for Robotic Systems Due to Their High Efficiency Drives Growth"
     excerpt: "This report states that the global market for robotic welding would exhibit growth at a CAGR of 7.35% in the evaluated phase 2022-2028. The increased preference for robots to carry out welding owing to their high efficiency is the key factor driving the studied market's growth."
     publishedDateTime: 2023-03-30T00:00:00Z

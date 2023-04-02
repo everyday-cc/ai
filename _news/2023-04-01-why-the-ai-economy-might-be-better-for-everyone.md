@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2023-04-01/why-the-ai-e
 webUrl: "https://www.bloomberg.com/news/newsletters/2023-04-01/why-the-ai-economy-might-be-better-for-everyone-new-economy-saturday"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Key paper on AI chip design might be overstated"
-    excerpt: "Terminator not coming for chip designers A key Google-led research paper claiming machine-learning software can design better chips faster than humans has been called into question after a new study disputed its results."
-    publishedDateTime: 2023-03-28T11:12:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/56610-key-paper-on-ai-chip-design-might-be-overstated"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/68d425fd6b707bcebf12c496882c2580_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Why AI might need to take a time out"
     excerpt: "Why we must defuse the current arms race to consider implications of AI, inform regulators and allow the industry to step back and reflect."
     publishedDateTime: 2023-04-01T13:40:00Z

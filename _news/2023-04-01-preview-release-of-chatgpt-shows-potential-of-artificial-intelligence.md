@@ -129,22 +129,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Can ChatGPT Change the Face of Healthcare?"
-    excerpt: "regulations must be put in place to ensure no inaccuracies are made Many are still reluctant about the role of artificial intelligence (AI) in our lives, but it might be time to accept that AI has the power to transform healthcare. Obviously, AI can't ..."
-    publishedDateTime: 2023-03-28T11:37:00Z
-    webUrl: "https://www.medindia.net/news/healthwatch/can-chatgpt-change-the-face-of-healthcare-211109-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/healthwatch/can-chatgpt-change-the-face-of-healthcare-211109-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/healthwatch/can-chatgpt-change-the-face-of-healthcare-211109-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://www.medindia.net/health-images/an-artificial-intelligence-accurately-predict.jpg"
-        width: 300
-        height: 250
-        isCached: true
   - title: "UAE: These jobs will be decimated by AI, automation, ChatGPT"
     excerpt: "Millions of jobs will bear the brunt of advanced artificial intelligence. Technology and HR executives ... Lastly, jobs of drivers will gradually disappear once driverless vehicles become the norm in the UAE,” she said. Nicki Wilson, managing director ..."
     publishedDateTime: 2023-03-31T05:34:00Z
@@ -326,6 +310,6 @@ related:
       domain: popsci.com
     quality: 14
 
-secured: "9T9BGZQM2xoGi5EtVbmzwkOCfCv49EgRhMLOz3QtIxGl+Mnzk8/G10R5GQYZkxJbQjHYdYajqSxPpedPhFG4X7wxMvZh0Y5VeiLTSF5UpMcGU6vcJi9XCx1pTZz8SNTMv8/6ZzPjMVw1+hAuUpv+Lm+5yfj7dukb4XTa9U7vl3KeFu3u5zvNTlhy9gyhdZSnEco4daxHfQWk8R0xuG8XvwWlD+5Sv8WtgYo9bqil/V6t0NR5EJaMn1gA76fFz6iNbVyiH9RyniZP/wTjd3Sma51IRGc0SbeX9BisIQB+WWCkhxP1nfNRy7+R+odEzd4ymCH61ox7wM56JMSMfnTBSPKgqtqlzUVvtDfEs4+mO2c=;EbIxXhjxZSpfpljve2RHpg=="
+secured: "KYaiPN0wC0UsL7b0JzLUXHlm8T16Bb16LrZQgA33d1gkIcgblfjfLppz+tuT3mXqea/M+nfNrRCatryHjsGKcai5LsitTS2CkoJ4CdBLCVOTEnIrlfwtP0AzSMg59/5dayBEjMNm1aqihNYULv/S3cjGbMmSYzySGr+4JS4GAkgz4TUtKXmhopW3hNMrhXM6kS8isapalpQYpT9W8MfbjOkHfEGmUjIB5r4j83lU1mHFExdPNipLPsqVIPb6ZjHbdWDfH9CqVAugMot9rz8HkIinZzxSLwuDxFN481BX4Eh65RaSn6iketvqVjm69p4i+UlAdFIWej5Vp258YyM77oL5Bw+FsfdaSEyTEOLsz49MzUItAp1BrGjn7HTqHlzBnd2h9oQtztBVi6nSx7zU2TQkR2Z4Kib3tfPYbvzgfFqYKrA7LnzgiMqRWFkDVJF5V0C5NmOr1/GaTqhG1ndgz+hYou2sFdTzrGazdMVJ1ummG6jdMUpCinoooj7XbbjTidgh9TL+lY0639bHHFW0rw==;wV4m9qkV6aO9ZdLU/4/iWQ=="
 ---
 

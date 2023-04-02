@@ -7,7 +7,7 @@ originalUrl: "https://awfulannouncing.com/golf/ibm-the-masters-ai-commentary-cli
 webUrl: "https://awfulannouncing.com/golf/ibm-the-masters-ai-commentary-clips.html"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1000
     height: 539
     isCached: true
-
-related:
-  - title: "IBM Brings Generative AI Commentary and Hole-by-Hole Player Predictions to the Masters Digital Experience"
-    excerpt: "Experts from IBM iX, the experience design partner within IBM Consulting, worked with the Masters digital team to leverage multiple foundation models aEUR\" including IBM Watson Text-to-Speech - to train the AI in the unique language of golf at the Masters,"
-    publishedDateTime: 2023-03-28T12:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ibm-brings-generative-ai-commentary-and-hole-by-hole-player-predictions-to-the-masters-digital-experience-2023-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
 
 secured: "yZca2d8TOePiH+oUYdaxD+m2+QIz0P/c9n0v5HHtimw1uimQGazpVKW23PVSr9e68V/USSVCg0GW7v7HhKcEKp9eiT9omst/wspt9QKZYrf0fWhhISUG95o/POkCdw9G88dkSesxMUG+EpaIZ5KMeLe9nkxeHC81VobEExu9I8tJfDZKca6UcpWAG4pdXgFonpT+/kvB8fi/YTjX1Gp0zs2SpKreAxw/hr4RxMxtsCNxYkPZcXd5iPNesGvvM8kX6V0moqT5stGnTX7DAWFcVii7On4MxtG44q/689KtmrIwf6MY4FJ/+uiZfpAzh/Li7A5AISM7vichHrYqXlDFHfUxmKORC2LW8CqMxDVyig8=;HcKYJCVG3im0djrlr8SsZg=="
 ---

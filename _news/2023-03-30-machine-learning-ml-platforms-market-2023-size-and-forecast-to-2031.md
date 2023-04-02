@@ -46,20 +46,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 61
-  - title: "Artificial Intelligence in Platform as a Service (PaaS) Market Report | Global Forecast From 2023 To 2030"
-    excerpt: "Market Updates(360marketupdates.com) published a new research report on Artificial Intelligence in Platform as"
-    publishedDateTime: 2023-03-28T11:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-platform-as-a-service-paas-market-report-global-forecast-from-2023-to-2030-2023-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global In-Vehicle AI Robot Market Is Anticipated To Reach US$ 190.7 Million By The End Of 2032"
     excerpt: "(MENAFN- Ameliorate Digital Consultancy) The in-vehicle AI robot market is a growing industry that involves the integration of artificial intelligence (AI ... Optimus Ride, Waymo, AutoX, Bosch, Morris Garage, Nauto, and Predii are among the leading ..."
     publishedDateTime: 2023-03-28T17:49:00Z

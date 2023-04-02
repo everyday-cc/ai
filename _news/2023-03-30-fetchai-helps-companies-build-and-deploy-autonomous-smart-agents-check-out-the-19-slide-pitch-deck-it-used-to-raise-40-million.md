@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Collaborative machine learning startup FedML raises $6M to train, deploy and customize AI anywhere"
-    excerpt: "The startup has also signed 10 enterprise contracts spanning industries such as healthcare, financial services, retail, logistics, smart cities, Web3 and generative AI. Constellation Research Inc. Vice President and Principal Analyst Andy Thurai told ..."
-    publishedDateTime: 2023-03-28T13:02:00Z
-    webUrl: "https://siliconangle.com/2023/03/28/collaborative-machine-learning-startup-fedml-raises-6m-train-deploy-customize-ai-anywhere/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 57
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/0_3hy1w5rvyWCK_6Ef.png"
-        width: 1400
-        height: 785
-        isCached: true
 
 secured: "7mcGGtD90UdKkbclqD/GxVAa0XxdMqew9U3lZdPEb8bV06TXPOThj3bzczJAl0JWmD2ELj3M/1GdMU+BMXqUM5sqwsPzsOciTjOc7yWZk+XsQn+FDw+chfcO2uvJPrXrByNYOu1adPSMWTQWjNyiRloPLHuXs7SDNf1MWVE+ymHmrYorTuzKBSVuUwjFct6gZSGdMAj5Yw1sFt818OTh+eQOf1PbFm92fK5/68hXOj6GFkJcNXS3bV+zZ/Pd8oosP03xoVT28DWmbFwIadhGSpzXZWWsUh2+7mEDgtHW6QIKqolw5siY2LcECs+pOlFsn9bOAw/n9t7YUNORAGWk/ePLoKBm39PIhf3XRJ5ZRczrgXQ9f+npsZhn4a62VMJeClQwD3AgQtIGBsy0reV1P0OEakpHNcFVc7U4wpTTXZGaqFDfh9alVHk692dqIcuObp12RPF7H6dkNQ92xNB+wJ41vIycS6xrNZBqqfBFZvUxkLPLn3iPuTR33iqmYM04d/D4qNOUdI50ClZPxAFRPg==;z1bsFaETPrQlrn/AJL73Hw=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.datanami.com/2023/03/28/dbhawk-partners-with-microsoft
 webUrl: "https://www.datanami.com/2023/03/28/dbhawk-partners-with-microsoft-azure-lands-patent-for-sensitive-data/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: datanami.com
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "QualityKiosk announces a Strategic Partnership with Microsoft Power Platform"
-    excerpt: "Founded in 1975, Microsoft Corporation is one of the largest American multinational technology corporations producing computer software, consumer electronics, personal computers, and related services. With their Power Platform, Microsoft is encouraging ..."
-    publishedDateTime: 2023-03-28T12:08:00Z
-    webUrl: "https://www.livemint.com/brand-stories/qualitykiosk-announces-a-strategic-partnership-with-microsoft-power-platform-11679998488145.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 16
   - title: "QualityKiosk announces a strategic partnership with Microsoft Power Platform to empower customers to create efficient and flexible solutions"
     excerpt: "QualityKiosk Technologies, one of the largest independent digital quality assurance specialists and a pioneer in providing intelligent automation solutions, is excited to announce its strategic partnership with the Microsoft Power Platform line of business."
     publishedDateTime: 2023-03-28T17:35:00Z

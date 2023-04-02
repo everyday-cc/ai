@@ -41,6 +41,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
+  - title: "Voice Assistant Market Size, Revenue, and Forecast 2030"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2023 (The Expresswire) -- 360 Market Updates(360marketupdates.com) published a new research report on Voice Assistant Market 2023 with 101 Report Pages and enhance ..."
+    publishedDateTime: 2023-03-28T13:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-assistant-market-size-revenue-and-forecast-2030-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
 
 secured: "N6oMgRJksyM0am4sFQBbYhkAIsp+tb6L8oG+54zbHLKEpUQdyPNlFIWSBlU/1j9zU3DepwS4VPBbgECPFG9wbfX98fidIIEr0nJdcPeO8o8Y0krOiI5vtwNui01whXE4kqbpopINkIXlrb0YCOqnxOzLYi34Tn6beQfCMmAu555LGxOD9x6fi/nqnq3yuqNxgEgc4+zaUORYQhhTWQ08uog88Ps/q0vMpPLFOwAJgOtGLXSscJjkJDliGkNftzDbFvs3eLM8UMIgIpuHy4/Sg0ndds1SQUqNA4sNEjKy3nPxHlLQobC+Mb6mWtQHGaTp7FmhzPDrTJrXJaTs7GWv1eXBVwG2Hz+M3zUzdSr9New=;GVfNiuskHRnEoEDtPs2Z+A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2023/03/29/cerebras-smashes-ai-wide-ope
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/03/29/cerebras-smashes-ai-wide-open-countering-hypocrites/amp/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,15 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Cerebras Publishes 7 Trained Generative AI Models To Open Source"
-    excerpt: "The AI company is the first to use Non-GPU tech to train GPT-based Large Language Models and make available to the AI community. The early days of an open AI community, sharing work and building on each other’s success, is over. As there is now much more ..."
-    publishedDateTime: 2023-03-28T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2023/03/28/cerebras-publishes-7-trained-generative-ai-models-to-open-source/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Cerebras, Databricks Stoke Generative AI Arena with Open Source LLMs"
     excerpt: "In few other areas of the global economy are the rounds of creative destruction more rapid and more intense than the HPC-AI sector. We see this today with the generative AI sensation: OpenAI’s launch of ChatGPT in November has created a firestorm of competitive responses."
     publishedDateTime: 2023-03-29T01:57:00Z
