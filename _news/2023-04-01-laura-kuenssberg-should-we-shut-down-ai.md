@@ -3,28 +3,21 @@ category: news
 title: "Laura Kuenssberg: Should we shut down AI?"
 excerpt: "Should we worry about artificial intelligence, or embrace the possibilities it brings, asks Laura Kuenssberg."
 publishedDateTime: 2023-04-01T14:51:00Z
-originalUrl: "https://www.bbc.co.uk/news/uk-65147841?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.co.uk/news/uk-65147841?at_medium=RSS&at_campaign=KARANGA"
-ampWebUrl: "https://www.bbc.co.uk/news/uk-65147841.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-65147841.amp"
+originalUrl: "https://www.bbc.com/news/uk-65147841"
+webUrl: "https://www.bbc.com/news/uk-65147841"
 type: article
-quality: 57
-heat: 57
-published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0216/production/_129243500_swlkindexgetty0104.jpg"
-    width: 1024
-    height: 576
-    isCached: true
-
-secured: "cC+CAARCqpopMRpLMZZHPE1V7b8tB6wJyrPwcb1NIhTzAtJmHpH+tfN61mp0WPZ7Fg3TvZfPnIZDSsH4fG96Kwu5cI3xVWJgH4h5dcR7jqj/R5lDyIuD9DwRI6+l+OiBvTVK0vpSpt9uohK9/vrfpd6hRiLOeEZtIFkXeKhuw2eCDeSxypEkwjleHg2sXfg6d2DhuSG8OoiebTxU7QoO4MK/MIpoxC9gmSdy8omZIhaBGcKR0YbY5WwDUhUgYtfAFZKzh+ljEZ5nT1JnPhLkcLf6qDMouWhgoUBZ/UyObZMRH6GycGMdERLJy0PEyekM3s4HnAf2Af6vP0Iqj/ZBEOppMSEVaOihMeBQHeooNmljj+rADtPONFcJIhdhQBxsJg5x2QQg233nLokqxDYMSW+vrPOgeGra5ZL+p7vnC9sqlok9nI3SEISK9kypOkNHCGHopqFRPWVaJkmYyHsK765Rta0K0QWhMk3yHebLGFJi1d5XPTEYAErDAdyIIZ22HIoYbmGd3cjpMdOEOoe+0w==;KBdzsDTLoUak5FNNd8EMBQ=="
+secured: "peHUEIaq4H5D3RZ49qt3c6WCNNNgjV8S1jDIX8KEXuyy3EIMyQbYo+k38qxJ9MF6zNw9XruLqqe3/Dg08jrRuSaMs77mSk/89ewHs471s9kHfTICwB80KVlamp0/MgcoGxBIiICmHd3TzeakWbVzCzEBERooSLCkYuMMKSnitKAdmTkGVkwS1mZVo8Ih6+9DShzsDJ9HJve9dugQYAb6qpw7siTq2qC+GS7JXILETtypxivqyd6+NjvIFWEimVxq/PtyUeUJjQRHP2EfMvvGyUBjw1zDhi2wegWuKU7JXIZkPbD+AGnGVdDvj4ZrdTDWdu8aNei1hw6GGuAkFBWjVs6ams3PpdCgjLCukuUmHlXRPfGz48PGGBx3hEByW+/QSnnVwkWaGtULZoOuskk++FuY0yDWd1yf+lNSsPuEazXPROwxwBlsM3hlAL5EO0YHIC8hbeD1o2l+DPd8ufU5Wbg4MBFh97AX/41syllGnNIJFkKeUgPWg2whL81jnby7LxJ14C/wvv8g/AaxOZi8Dg==;RqOoKqP9u9PNRqwdP/qwRA=="
 ---
 

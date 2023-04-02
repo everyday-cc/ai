@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Healthcare
 
 secured: "W0s4f/LXrpgqOoI0UXyFWxyZBXikxGNbznY/iRyArnPD/vbv9khMba0vrESWRIOBVbP3NXKem8MZ6TNiXuEcTcdcXIjAYzC4PHo8b5R+Q2rm9YPSilOd00narFOrG/zJbrfYoArx7x9nDCHd6MrOrawkWiaPQIEjpxI51DWkFc/kJu4/PIj84x61WdD15AA8SsmiJNELKLbF6XOKfG8PSZ0sfzVMAfQSqcEOnmoABLxVosSAuog/tH8LoD7Y7wl9EnMVnb4LRCp71MIdF80sKii/mD5S3IqsLQZXTKwgXiVwfvkKKo7aFE2y51Y19NCIikMU42xEq+lHCxsiJzApdbaugQqOYQApWvDrfZQn71k=;4OVYy5pwg8mxg0+Y/GAw0A=="
 ---
