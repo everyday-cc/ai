@@ -28,15 +28,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
-  - title: "AWS takes defence-focused startup accelerator Europe-wide after UK programme success"
-    excerpt: "Amazon Web Services (AWS) is seeking to capitalise on the success of the ... Among them were firms that specialised in artificial intelligence (AI) analytics software, network visibility to prevent cyber attacks and threat intelligence tools."
-    publishedDateTime: 2023-03-28T13:50:00Z
-    webUrl: "https://www.computerweekly.com/news/365534173/AWS-takes-defence-focused-startup-accelerator-Europe-wide-after-UK-programme-success"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 12
 
 secured: "RqrB13MaZLQwxGr/2Go+xJ+7oFdT+ZADgKDiqbWQBY+6U6U5PrVbKjozU7B0MnZH38lzVE8uKSVgrLJPABarYPE22LZ5gSHshLoDk6MX+JmXTUm+91RmD25qVbe8bk6Uwf6FjAxjJvKpp0+Rz2YgvPm+uFkZVvzjZIKcFHwgsSfpoQASHh6qqyWHsH3D+0enr4x53KFXkBnVX0Nv8f1NAToov+d4TaYgbFfRAuWxvq9X6ek+XqawD7/Wc2RaeOaeAZMarvGRZagPbEGz/3sybYWEkDh7r5s2GpSTzrvEjM+6bL+2g05zJBzOka32yNX2QLTpJ6j3q9g/XyoRei1R7JTII2mCvYwGwl16H9h8GDs=;CmcsOFJF/mBd2Y4KfjIWAA=="
 ---

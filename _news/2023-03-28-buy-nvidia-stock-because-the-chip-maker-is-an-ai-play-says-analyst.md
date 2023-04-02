@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 899
         isCached: true
-  - title: "Nvidia Harnesses AI Power to Optimize Chip Design and Performance"
-    excerpt: "Nvidia has revealed new research demonstrating how AI can be utilized to optimize chip design. This groundbreaking research could potentially change the way chips are designed, ultimately leading to improved cost, speed, and power consumption for the ..."
-    publishedDateTime: 2023-03-28T13:58:00Z
-    webUrl: "https://www.gizmochina.com/2023/03/28/nvidia-harnesses-ai-power-to-optimize-chip-design-and-performance/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 84
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/03/nvidia-harnesses-ai-power-to-optimize-chip-design-and-performance.jpeg"
-        width: 1098
-        height: 732
-        isCached: true
   - title: "Nvidia Is More Than AI Chips. The Stock Has Software Upside, Says Analyst."
     excerpt: "Piper Sandler analyst Harsh Kumar increased his price target on Nvidia stock to $300 from $275 and reaffirmed his Overweight rating."
     publishedDateTime: 2023-03-29T18:59:00Z

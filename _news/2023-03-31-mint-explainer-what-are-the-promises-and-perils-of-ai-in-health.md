@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/opinion/online-views/mint-explainer-what-ar
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/mint-explainer-what-are-the-promises-and-perils-of-ai-in-health/amp-11680247109305.html"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "AI and the Future of Health"
-    excerpt: "Read about some of our research team’s work to make healthcare more data-driven, predictive, and precise – ultimately, empowering every person on the planet to live a healthier future."
-    publishedDateTime: 2023-03-30T18:43:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/blog/ai-and-the-future-of-health/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2023/03/AI-Health_blog-2023Mar_TW_LI_FB_with_logo_1200x627.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "DK+7s43g4AdjKW88pho98P6B+HuM5y8tCpvB5jseWTiZeJ6HbwyjapUIjJA8gAbezLEWA5SFBjAsZlUAWe4e5QITSOHDO8I61LI0RvPJzrPMXU1isRK3uTEctGqeOYlW2IuSkf+26KR6qiwd8N0qCos4Iqr2ACIH6C1F5L/FZSZFOtiGpUnvl0XpEkhL1MucRqjmYZjmL58vsLQ8hsaIFOrscLNa6q8wpFubnOx+da+srlMYkw48xpREy780TN02dQoLy7Xp9B1jzKTeJXNzSv4uOLs6NoavccwKZJswF7LDWxEo/HNzcfGde3H5KquZEgBbB9KPELYTdee+dpNYyaRMvWxq72CdRlGlO/bWTCA=;8zkyASCEl0HFfn76zBfp/A=="
 ---

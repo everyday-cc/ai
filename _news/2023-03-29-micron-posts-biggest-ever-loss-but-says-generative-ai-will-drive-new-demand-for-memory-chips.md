@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/03/28/micron-posts-biggest-ever-loss
 webUrl: "https://siliconangle.com/2023/03/28/micron-posts-biggest-ever-loss-says-generative-ai-will-drive-new-demand-memory-chips/"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -23,49 +23,6 @@ images:
     width: 768
     height: 512
     isCached: true
-
-related:
-  - title: "What’s new in Azure Data & AI: Azure is built for generative AI apps"
-    excerpt: "OpenAI launched ChatGPT in December 2022, immediately inspiring people and companies to pioneer novel use cases for large language models. It’s no wonder that ChatGPT reached 1 million users within a week of launch and 100 million users within two months, making it the fastest-growing consumer application"
-    publishedDateTime: 2023-03-30T09:00:10Z
-    webUrl: "https://azure.microsoft.com/blog/what-s-new-in-azure-data-and-ai-azure-is-built-for-generative-ai-apps/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Generative AI Tools Use Custom Data to Power More Business Functions"
-    excerpt: "Tapping industry-specific data in areas such as financial management or marketing provides an edge in a crowded AI market, analysts say."
-    publishedDateTime: 2023-03-30T15:51:00Z
-    webUrl: "https://www.wsj.com/articles/generative-ai-tools-use-custom-data-to-power-more-business-functions-2f158dbb"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-753646/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "New Report Details How Generative AI Impacts Work"
-    excerpt: "Aberdeen's latest research offers insight into the ways professionals use generative AI today, as well as how AI might affect work in the future."
-    publishedDateTime: 2023-03-29T15:11:00Z
-    webUrl: "https://www.extremetech.com/computing/new-report-details-how-generative-ai-impacts-work"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
-  - title: "How Businesses Can Win with Generative AI: UiPath to Unveil Latest AI-Powered Automation Innovations"
-    excerpt: "UiPath (NYSE: PATH), a leading enterprise automation software company, today announced its annual UiPath AI Summit will take place March 30, offering viewers around the world insight into strategies for adopting the newest AI to bolster their automation initiatives and practical guidance from leading AI and automation industry use cases."
-    publishedDateTime: 2023-03-30T15:28:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-how-businesses-w-with-generative-ai-uipath-unveil-/2023/03/30/9786220.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
 
 secured: "Bl3JWZGiGDFTpb3zn5dVgHaLIBK0bzqyt0m2zUhB1KGedJWnXUC/E9UYXbVu06Pree46vi918b0TmbeScyYDkLfaaNcyqUEMR1ypoWIb6zubMuGBKuS7mNbJpbHdYZUU8md7kS5FZci/hyEBPm0FJ2p8O1eAu1WtO+9jn15Q660VR7U3pm7puDGqUwSaUuZxdR2Y5UZPXdU69+gHKPb1+CmJVXKN+85/utCVSvhRIGAb6gl29GynyOrGcetnbKmIEmc8r9Era6HPEt6aR7Qj2mtQUE3rdBTiFgrYKceWg6owCFQhHh/sVJvRPHndrRsYi12ti+R3iptcqISw6CUgcT0uvMad25I5kus7Qa62JR7EWdJdipoOCHjxvhZ1UbMSM2JAnQkWSiiP82qO/G9890nxB3dyOXqX1gXu0o+IsDhPZUmiJLnPuetoRKkXj1i4dnWB9SjMviHfm9Lf7qm4o57CR8FHweftK0ffKQwwtTOCcXToxrQyZfdLCpEBebwUpD1MW0bo21B76V1qMNviyA==;GdvKgXdUVaNWaE2Mig0FDg=="
 ---

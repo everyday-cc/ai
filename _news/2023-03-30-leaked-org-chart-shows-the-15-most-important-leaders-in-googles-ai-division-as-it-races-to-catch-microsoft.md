@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/google-org-chart-ai-research-leade
 webUrl: "https://www.businessinsider.com/google-org-chart-ai-research-leaders-microsoft-chatgpt-2023-3"
 type: article
 quality: 68
-heat: 98
+heat: 78
 published: true
 
 provider:
@@ -30,29 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Partners with AI Startup Replit to Take on Microsoft’s GitHub"
-    excerpt: "Alphabet Inc.’s Google is striking a partnership to combine its artificial intelligence language models with software from startup Replit Inc. that helps ... will rely on Google’s language-generation AI to improve its ability to suggest blocks ..."
-    publishedDateTime: 2023-03-28T13:19:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-03-28/google-partners-with-ai-startup-replit-to-take-on-microsoft-s-github"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 64
-  - title: "AI search start-up raises $26 million to offer rival to Google"
-    excerpt: "Its backers also include at least six current and former AI researchers at Google and sister company DeepMind, including Jeff Dean, Google’s senior vice president for research and AI, who was an angel investor in the company in its early stages ..."
-    publishedDateTime: 2023-03-28T15:03:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/mar/28/ai-search-start-up-raises-26-million-to-offer-riva/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 39
-    images:
-      - url: "https://thumb.spokesman.com/gfXXV_e2wEh82a0rG8zY7vLF00U=/1200x630/smart/media.spokesman.com/photos/2023/03/28/6422fd59304db.hires.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft is dominating the AI wars…for now"
     excerpt: "AI lead is far from guaranteed. When it comes to generative AI, Microsoft is dominating the conversation. After pouring billions into ChatGP"
     publishedDateTime: 2023-03-29T23:09:00Z

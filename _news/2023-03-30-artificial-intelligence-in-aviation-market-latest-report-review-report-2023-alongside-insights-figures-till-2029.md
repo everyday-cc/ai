@@ -86,20 +86,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice and Speech Recognition Market Trends and Challenges 2023 Industry Demand, Top Players Strategy, Size, Share and Forecast Report till 2031"
-    excerpt: "Mar 29, 2023 (Alliance News via COMTEX) -- Global Voice and Speech Recognition Market Status, Trends and COVID-19 Impact Report 2021, Covid 19 Outbreak Impact research report added by Report Ocean, is an in-depth analysis of market characteristics ..."
-    publishedDateTime: 2023-03-29T14:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-trends-and-challenges-2023-industry-demand-top-players-strategy-size-share-and-forecast-report-till-2031-2023-03-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "7UN6HimkiJCP7xVKImTlScEv7YjydwSTKWtjOI5GYBbqXkPDHfCSvWk3W+yHVk3eExRzrpDP+e92VImp3j21CfmPsPceCEauzwJVhP+h2Yq9fj/pFhMMW05c3P2fm2ZG+wdMK3rsuOV2UlLXA8B4DFhxFBzqMoPWtUCiXM6gP5kg8peYvxiKdG2lVrzVreEkYno+uuwr/COWEXGsBOhBOBTRCceM3bEv5dBFjr27s8+Di1l7jlfGN6BpzZEVpJpfI5l95+SIg+LpHBxw/cJY8tAshsoHA0QLvQ2BkikoVLktdd2StFBq9NVk2d0t4eE8COC8EZx6RdpznFm6WayHG9nj27lTVfxcBLX9tRNislWUqK4hs2f+IIU1sFAvJEACD/5/NqqNc7ySuP6fRPDRZV7J146GMypHWsiPMTqB9OYrnjJ702DORadFwHJ0DeLNMhzxtp8o+ghnCYdLeMMiCj00nS1A0HxXrl4SkdzjkjoGWICwNxJBdsgsX75lzLpPXBGHXWDNJPp+dJfK7H0BsA==;1RJKz0WhV+O2kUDIQD0tOQ=="
 ---

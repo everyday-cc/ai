@@ -103,20 +103,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "AI computing startup Cerebras releases open source ChatGPT-like models"
-    excerpt: "Startup Cerebras System's new AI supercomputer Andromeda is seen at a data center in Santa Clara, California, U.S. October 2022. Rebecca Lewington/Cerebras Systems/Handout via REUTERS OAKLAND, California, March 28 (Reuters) - Artificial intelligence chip ..."
-    publishedDateTime: 2023-03-28T13:15:00Z
-    webUrl: "https://www.reuters.com/technology/ai-computing-startup-cerebras-releases-open-source-chatgpt-like-models-2023-03-28/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/X6BvTKg1qgtNP1KK2SsEO00zaJM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WYSQLIVVLRILDAPGVO3O6B37DI.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "UAE: These jobs will be decimated by AI, automation, ChatGPT"
     excerpt: "Millions of jobs will bear the brunt of advanced artificial intelligence. Technology and HR executives ... Lastly, jobs of drivers will gradually disappear once driverless vehicles become the norm in the UAE,” she said. Nicki Wilson, managing director ..."
     publishedDateTime: 2023-03-31T05:34:00Z

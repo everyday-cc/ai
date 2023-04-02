@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/voice-recognition-market
 webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-new-ready-report-analysis-2029-2023-03-29"
 type: article
 quality: 54
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice and Speech Recognition Market Trends and Challenges 2023 Industry Demand, Top Players Strategy, Size, Share and Forecast Report till 2031"
-    excerpt: "Mar 29, 2023 (Alliance News via COMTEX) -- Global Voice and Speech Recognition Market Status, Trends and COVID-19 Impact Report 2021, Covid 19 Outbreak Impact research report added by Report Ocean, is an in-depth analysis of market characteristics ..."
-    publishedDateTime: 2023-03-29T14:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-trends-and-challenges-2023-industry-demand-top-players-strategy-size-share-and-forecast-report-till-2031-2023-03-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

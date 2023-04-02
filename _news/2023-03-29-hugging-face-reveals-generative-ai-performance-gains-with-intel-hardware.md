@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/hugging-face-reveals-generative-ai-perfor
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/hugging-face-reveals-generative-ai-performance-gains-with-intel-hardware/amp/"
 type: article
 quality: 90
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     width: 1200
     height: 804
     isCached: true
-
-related:
-  - title: "How AI Is Integrating Into The Workforce"
-    excerpt: "Over the decades, automation has evolved from textile machinery, through programmable logic controllers and computer numerical control machines, to now include robotics and artificial ... As people start to use AI for more advanced work projects, they ..."
-    publishedDateTime: 2023-03-28T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/28/how-ai-is-integrating-into-the-workforce/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 51
 
 secured: "P9MJvZS15ryrharfCusQAJ5S/4z6SJKHX978EnyIrDRliRuzZJvTS7NdNiiP1J2GoeTYt4arMBhWkQbL/CTlKNgwqbOCTFHDgcceusbGWVzzTcbedr/h9ZM9OTOwW2MYCGxmfEKFldtFrmjY/Woztst5ez5qVDFSIEwwNudaNAlOuaRm2CuQvQ3yEX9MLkGJf91wagpW84gh+1VtJIzTAzsaE6oS4f12rWymT4PwiF6SxpMRkfe0j/sDko28M4DHmryWI0L3BpD4swKAJs+mY/J/eULQMQb1c6SeEDYb6Xs9jb99IXAE09TrCYbq877B0KGMeqGWU84p2SoSY67fyqCWx2zFGDxom5VXJpoEIEIGd+RkcmVlm2mZqdbrjGCFf2HodwEqFvIsIbG/YkqCtifWnT7SAotD3jIEvTV7XLmUqQJzXT9UsJC7FAXA1clsKST/6yo6I+NBq+cPVOtQ2bU3uFbL673uyu6mi7Zl67DAskCXt+gTnEHYABE9sdVO1KCGU9z/qoyQSX9qiVYm7w==;WqPPqET46qiqbAXw3WuNOQ=="
 ---

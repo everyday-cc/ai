@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-security-copilot-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-security-copilot-harnesses-ai-to-give-superpowers-to-cybersecurity-fighters/"
 type: article
 quality: 116
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Bing-Chat-on-phone-4.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Deep Instinct Appoints Ed Carter as Chief Revenue Officer to Scale Growth of Prevention-first Cybersecurity"
-    excerpt: "AI-based deep learning (DL) framework, announced that Ed Carter has joined the company as Chief Revenue Officer. In this role, Carter will drive Deep Instinct's growth and expansion with enterprise customers, technology and channel partners, and MSSPs ..."
-    publishedDateTime: 2023-03-28T13:50:00Z
-    webUrl: "https://www.eagletribune.com/region/deep-instinct-appoints-ed-carter-as-chief-revenue-officer-to-scale-growth-of-prevention-first/article_94b029d9-2255-5d29-8c0e-94bbdaf6878e.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 6
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/0/88/08890cf6-4595-51ce-bf75-c55a89ad1038/6422ea597baa3.image.jpg?crop=1288%2C676%2C0%2C466&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "8LRf8m2CDuOtB3A3PqCkCPpYfQRwTbIP30GuY7h1EI0au4XIyY2KXNcfq0NoDWqxGvLiV6Q5rv8hTPOba4LFK8QmLeTNHhjaeDPRvCKCS4b+Tv1q8I7lHDjJpZ33ITh0h1SiGWYoOErIvD+MRTCS83emQtxLZzxdZMRjtyA4H9Y/8UbfbRfjKOmKxpxMqSSfIR6xsJLGd/7FNUnUwLlhgE8BXVlfNxv18rgCgpVBMuETi10SgMXcLSBpkZpvlTSLo3GWwUQ3OyMN4EcIoVYIhf2QdBYaqWh9w+hT6Jom5lRPi9HpGVSx46WXgetm23dSv/93yZObvB1LMRmudLAAiq5GFmk6wIoE9ZX7qLI+TVI=;DIY7fgmflSiaVfO4P4m8cw=="

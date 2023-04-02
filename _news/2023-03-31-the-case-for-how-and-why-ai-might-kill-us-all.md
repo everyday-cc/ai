@@ -7,8 +7,8 @@ originalUrl: "https://newatlas.com/technology/ai-danger-kill-everyone"
 webUrl: "https://newatlas.com/technology/ai-danger-kill-everyone"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 101
+published: true
 
 provider:
   name: New Atlas
@@ -30,56 +30,43 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Can Kill Your Career Or Business"
-    excerpt: "You’ll find it difficult to pick up a publication from the last few months that does not include an article on artificial intelligence, specifically OpenAI and its ChatGPT capabilities, as well as Google’s Bard."
-    publishedDateTime: 2023-03-31T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/womensmedia/2023/03/31/how-ai-can-kill-your-career-or-business/"
-    ampWebUrl: "https://www.forbes.com/sites/womensmedia/2023/03/31/how-ai-can-kill-your-career-or-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/womensmedia/2023/03/31/how-ai-can-kill-your-career-or-business/amp/"
+  - title: "The US government is gearing up for an AI antitrust fight"
+    excerpt: "She warned that major companies may “start to panic” at an upset in the tech order — “sometimes having to resort to anticompetitive tactics to protect their moats and protect their dominance.” Kanter added that the current model of AI is ..."
+    publishedDateTime: 2023-03-28T17:27:00Z
+    webUrl: "https://www.theverge.com/2023/3/28/23660101/ai-competition-ftc-doj-lina-khan-jonathan-kanter-antitrust-summit"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Verge
+      domain: theverge.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6425c172576c7d0922f43b0e/0x0.jpg?format=jpg&width=1200"
-        width: 640
-        height: 613
+      - url: "https://cdn.vox-cdn.com/thumbor/fVQKZg5pKIAqEGgwL6dVKdUIZnw=/0x0:5320x3779/1200x628/filters:focal(2660x1890:2661x1891)/cdn.vox-cdn.com/uploads/chorus_asset/file/24542737/1249642666.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "The bots of business: Business students and professionals discuss AI impact on healthcare and finance"
-    excerpt: "Since the days of Alan Turing and Isaac Asimov, the symbiotic worlds of science and science fiction have been weighing the opportunities provided by artificial intelligence ... 24 to discuss the impact of AI on healthcare and financial services."
-    publishedDateTime: 2023-03-31T06:51:00Z
-    webUrl: "https://dailyfreepress.com/2023/03/31/the-bots-of-business-business-students-and-professionals-discuss-ai-impact-on-healthcare-and-finance/"
+  - title: "Why the AI Economy Might Be Better for Everyone"
+    excerpt: "Navigating this world of rapid change and instability poses huge challenges for businesses, policymakers and investors. That’s why, on April 19-20, we’re convening the Bloomberg New Economy Gateway Europe in Dublin (click here for details)."
+    publishedDateTime: 2023-04-01T10:45:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-04-01/why-the-ai-economy-might-be-better-for-everyone-new-economy-saturday"
     type: article
     provider:
-      name: The Daily Free Press
-      domain: dailyfreepress.com
-    quality: 56
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://dailyfreepress.com/wp-content/uploads/Digital_BurkeStevenson_techconnect_1.jpg"
-        width: 1000
-        height: 664
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVi0FiL.JxaU/v0/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Artificial Intelligence in Business: Will AI Solve Your Recruiting Headache… Or Create a Bigger One?"
-    excerpt: "In a new series of blog posts, we will discuss Artificial Intelligence (AI) and the benefits and challenges it presents to businesses and employers. Our first post of the series explores AI and its impact on employment decisions. AI recruiting software ..."
-    publishedDateTime: 2023-03-30T20:13:00Z
-    webUrl: "https://www.natlawreview.com/article/artificial-intelligence-business-will-ai-solve-your-recruiting-headache-or-create"
-    ampWebUrl: "https://www.natlawreview.com/article/artificial-intelligence-business-will-ai-solve-your-recruiting-headache-or-create?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/artificial-intelligence-business-will-ai-solve-your-recruiting-headache-or-create?amp"
+  - title: "Why AI might need to take a time out"
+    excerpt: "Why we must defuse the current arms race to consider implications of AI, inform regulators and allow the industry to step back and reflect."
+    publishedDateTime: 2023-04-01T13:40:00Z
+    webUrl: "https://venturebeat.com/ai/why-ai-might-need-to-take-a-time-out/"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 37
-  - title: "Hear from the experts: using machine learning and AI to grow your business"
-    excerpt: "Across two events on February 9 and 16, SmartCompany and AWS dived into all things AI and machine learning. In his introduction speech, host Simon Crerar referenced the wide-eyed futurism of science fiction films like Blade Runner."
-    publishedDateTime: 2023-03-29T22:00:00Z
-    webUrl: "https://www.smartcompany.com.au/partner-content/articles/hear-from-the-experts-using-machine-learning-and-ai-to-grow-your-business/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 34
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
 
 secured: "OKw93AlFaofW5HSBsqxmltOSmz90s6A+MuaXDZiLgD1S+bVkc0CrA4EBy7T5P59ALS1jaR/Mhuedxky2ny70ab2RjVuYsW6wu6Wkw0XtxAeT11gnqSqzLrM1bvW6wJhyaXhBYBAgsmK0UsZGY0MZPkGEn2V5AuFSyvYNmhBMnI5BSOmNS5DMtLbtPcvODJzXXO46URPVbMDdLBqOjHNeOK/DHxJG9IUfI8a2Bl5zJv0g/nJqGh1AugQgEKpO7JJ2Oe6WBfk10juElqwW8RnSTY7SmwgTOOfEzac5gwyo/h68BLCUQdJZy6DqRPDTyFt0uZwThf+cTkrpimxSvZhWkecedPrYcQM7yFLHdYwK1BNnMRvsZPRS9Y2Hzxxpi97tNAlLjDVKZPhbXtMG5Th2iD0pEAWBD4n1M1a0QF6K0rk0Os5sc28Sg/YV9b15yjCA5vnOy2E4wYZS08afuhFl+obaWw+z/X8FEqII3uty5/wTx5MchVR2MP4ySwSD5CYynTVHNnSr2Rg+upzMPOscjQ==;xRiIOPXH8uhYivHKWXIH6g=="
 ---

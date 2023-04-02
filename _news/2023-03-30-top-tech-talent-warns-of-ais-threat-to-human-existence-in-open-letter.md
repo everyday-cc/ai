@@ -24,17 +24,6 @@ images:
     height: 5336
     isCached: true
 
-related:
-  - title: "Bill Gates's Open Letter On AI: A Tale Of Excitement And Terror"
-    excerpt: "The issue has been further complicated by Microsoft's decision to lay off its AI ethics and society team, though the company insists the team's work will be incorporated elsewhere. To stay updated with top startup news & investments, sign up for Benzinga ..."
-    publishedDateTime: 2023-03-28T13:11:00Z
-    webUrl: "https://www.benzinga.com/news/23/03/31529366/bill-gatess-open-letter-on-ai-a-tale-of-excitement-and-terror"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
-
 secured: "tYSYnBYtBc22i2+c3Q7a4UXd09VA2w7yz3A3ezOZElbhFQ0K9rwDL2sdvjz8VHDENNaGI0C06c38ASxUMO/zHhx4fnLlRJGY1PeIPh5yk/9BJ0FEta26qK5ZoB1IVSOWD4loATahPudS2C0y6SGY/LrYHNXz2+SpNVD3Q82cQQCeVEbnOv0rXGoNRVJsGTJTZAvdmjGKz7+G5IXw46e3ea1fMRzAWFv6Bb9t90woSjBxLHzYGezu8mn+lf8MTQImiV2RdmbvlqMLB3UFrQaT1qEWW7Iz+B+kg5blPncoZtK64XNYWjtdeQG9Jj3UveufYd04sAA4Wtccx4HhPvzeSRoTWAygMKitatth8qitCCU8/JIUF01Az9xev2qnaF1R71mq3SFquMt9BytfAG/RPx6cZDa8bY6TQ+IR+s1bXCwY/NkFQ9h/YccJphrJ8+p+amJpjSi5wTjJI5sWDj5BrJyqzAfsphQM+hvC92E5U1s4/PqFnI7xtoz23GLEnj5tCUK+UtIXsi3LZrLc/7ZrVQ==;9UWvyS9Zh7HRHsJYBH1u2Q=="
 ---
 

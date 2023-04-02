@@ -39,6 +39,15 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Hear from the experts: using machine learning and AI to grow your business"
+    excerpt: "Across two events on February 9 and 16, SmartCompany and AWS dived into all things AI and machine learning. In his introduction speech, host Simon Crerar referenced the wide-eyed futurism of science fiction films like Blade Runner."
+    publishedDateTime: 2023-03-29T22:00:00Z
+    webUrl: "https://www.smartcompany.com.au/partner-content/articles/hear-from-the-experts-using-machine-learning-and-ai-to-grow-your-business/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 34
 
 secured: "goJ7BrAACTHa8f3+Bjyw7apN6Q3lM7oYq98/hluxuZiSziiYMXQoHgMXanjRfLZ/1+/KnETZoeITKEKd+BzQgvOXxEBeXIsiPGkoVy+3QMNFyjQC2DocbpVKeOZLzxUy/5GMPuJT7y9bXngBdQ/fmQUS8g2u91PvEBknQS+ZVfjmV4Gn8qbvh7aMuGbEf9ohPttIP4Q9FOGKv+ediUCDb1zNNBGVKoB2lr0ZAMhh9pTIcRP8zD5klyPhrM9lU2C6BvHgjv3xbiaCwH7U8fvltJTWVgDHrPHw48Ill0NnTJKOxa2bm35U/9Zi83GgFBqG2x1sruJcvy1Z/YM0TMTX13ST8I794NyA5lCe0sFqg+s=;AdkwKCJzVMG355si6Zbtqw=="
 ---

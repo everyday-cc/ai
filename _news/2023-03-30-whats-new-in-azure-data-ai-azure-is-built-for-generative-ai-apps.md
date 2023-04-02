@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/blog/what-s-new-in-azure-data-and-ai-a
 webUrl: "https://azure.microsoft.com/blog/what-s-new-in-azure-data-and-ai-azure-is-built-for-generative-ai-apps/"
 type: article
 quality: 84
-heat: 124
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -23,6 +23,38 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Generative AI Gets An Upgrade To Business Class"
+    excerpt: "You might have had a feeling of déjà vu last week when Adobe announced its Firefly generative AI service that lets you produce sets of new images by typing a description of what you have in mind."
+    publishedDateTime: 2023-03-31T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forrester/2023/03/31/generative-ai-gets-an-upgrade-to-business-class/"
+    ampWebUrl: "https://www.forbes.com/sites/forrester/2023/03/31/generative-ai-gets-an-upgrade-to-business-class/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/03/31/generative-ai-gets-an-upgrade-to-business-class/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64259476a22a753da5f43b0c/0x0.png?format=png&crop=1050,590,x0,y52,safe&width=1200"
+        width: 1050
+        height: 590
+        isCached: true
+  - title: "How AI Can Kill Your Career Or Business"
+    excerpt: "You’ll find it difficult to pick up a publication from the last few months that does not include an article on artificial intelligence, specifically OpenAI and its ChatGPT capabilities, as well as Google’s Bard."
+    publishedDateTime: 2023-03-31T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/womensmedia/2023/03/31/how-ai-can-kill-your-career-or-business/"
+    ampWebUrl: "https://www.forbes.com/sites/womensmedia/2023/03/31/how-ai-can-kill-your-career-or-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/womensmedia/2023/03/31/how-ai-can-kill-your-career-or-business/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6425c172576c7d0922f43b0e/0x0.jpg?format=jpg&width=1200"
+        width: 640
+        height: 613
+        isCached: true
   - title: "Generative AI Tools Use Custom Data to Power More Business Functions"
     excerpt: "Tapping industry-specific data in areas such as financial management or marketing provides an edge in a crowded AI market, analysts say."
     publishedDateTime: 2023-03-30T15:51:00Z
@@ -37,19 +69,51 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Micron posts biggest-ever loss, but says generative AI will drive new demand for memory chips"
-    excerpt: "After taking into account stock-based compensation and restructuring costs, Micron posted a loss of $1.91 per share. Revenue for the period came to $3.69 billion, down from $7.79 billion in sales one year earlier."
-    publishedDateTime: 2023-03-29T02:19:00Z
-    webUrl: "https://siliconangle.com/2023/03/28/micron-posts-biggest-ever-loss-says-generative-ai-will-drive-new-demand-memory-chips/"
+  - title: "How to Tell If a Photo Is an AI-Generated Fake"
+    excerpt: "Artificial-intelligence-powered image-generating systems are making fake photographs so hard to detect that we need AI to catch them"
+    publishedDateTime: 2023-03-31T19:53:00Z
+    webUrl: "https://www.scientificamerican.com/article/how-to-tell-if-a-photo-is-an-ai-generated-fake/"
+    ampWebUrl: "https://www.scientificamerican.com/article/how-to-tell-if-a-photo-is-an-ai-generated-fake/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/how-to-tell-if-a-photo-is-an-ai-generated-fake/?amp=true"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 43
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 57
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/sanjaymehrotra-800x533-768x512.jpeg"
-        width: 768
-        height: 512
+      - url: "https://static.scientificamerican.com/sciam/cache/file/7E7FD7C7-3196-4FCA-AD72E37FF06781BA.jpg"
+        width: 790
+        height: 496
+        isCached: true
+  - title: "The bots of business: Business students and professionals discuss AI impact on healthcare and finance"
+    excerpt: "Since the days of Alan Turing and Isaac Asimov, the symbiotic worlds of science and science fiction have been weighing the opportunities provided by artificial intelligence ... 24 to discuss the impact of AI on healthcare and financial services."
+    publishedDateTime: 2023-03-31T06:51:00Z
+    webUrl: "https://dailyfreepress.com/2023/03/31/the-bots-of-business-business-students-and-professionals-discuss-ai-impact-on-healthcare-and-finance/"
+    type: article
+    provider:
+      name: The Daily Free Press
+      domain: dailyfreepress.com
+    quality: 56
+    images:
+      - url: "https://dailyfreepress.com/wp-content/uploads/Digital_BurkeStevenson_techconnect_1.jpg"
+        width: 1000
+        height: 664
+        isCached: true
+  - title: "Generative artificial intelligence & management: How do business leaders maximize these new tools?"
+    excerpt: "With its arrival and the appearance of other generative artificial intelligence tools, we now have accessible technologies that can turn text into images, videos or music – and everyone is paying attention. As these tools embed themselves into everyday ..."
+    publishedDateTime: 2023-03-31T10:27:00Z
+    webUrl: "https://wraltechwire.com/2023/03/31/generative-artificial-intelligence-management-how-do-business-leaders-maximize-these-new-tools/"
+    ampWebUrl: "https://wraltechwire.com/2023/03/31/generative-artificial-intelligence-management-how-do-business-leaders-maximize-these-new-tools/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/03/31/generative-artificial-intelligence-management-how-do-business-leaders-maximize-these-new-tools/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 45
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2023/03/levart_photographer-drwpcjkvxuU-unsplash-1-scaled-e1677768398177.jpg"
+        width: 2470
+        height: 1388
         isCached: true
   - title: "New Report Details How Generative AI Impacts Work"
     excerpt: "Aberdeen's latest research offers insight into the ways professionals use generative AI today, as well as how AI might affect work in the future."
