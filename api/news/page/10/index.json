@@ -2,6 +2,50 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-03-23-mindfulness-based-cognitive-therapy-outperforms-standard-cbt-in-self-help-trial.md",
+      "title": "Mindfulness-Based Cognitive Therapy Outperforms Standard CBT in Self-Help Trial",
+      "excerpt": "Opens in a new tab or window Practitioner-supported mindfulness-based cognitive therapy (MBCT ... from depression while costing health services less money,\" they concluded.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/psychiatry/depression/103655",
+      "originalUrl": "https://www.medpagetoday.com/psychiatry/depression/103655",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.medpagetoday.net/media/images/103xxx/103655.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-03-23-working-with-ai-robots-could-worsen-human-work-cultures.md",
       "title": "Working with AI robots could worsen human work cultures",
       "excerpt": "It’s said that as work becomes increasingly automated by Artificial Intelligence (AI), our special human traits ... Will we start expecting our human colleagues to be similarly pliant? A robot is not a person—even if its apologies sound genuinely ...",
@@ -1170,58 +1214,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-a-us-agency-rejected-face-recognitionand-landed-in-big-trouble.md",
-      "title": "A US Agency Rejected Face Recognition—and Landed in Big Trouble",
-      "excerpt": "He’d decided that Login.gov, which provides a secure way to access dozens of government apps and websites, wouldn’t use selfies and face recognition to verify the identity of people creating new accounts. “The benefits of liveness/selfie do not ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/",
-      "originalUrl": "https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/641a4ef3b19ad4e3186e06c8/master/pass/US-Govt-Breaks-Its-Own-Facial-Recognition-Rules-Business-1247661398.jpg",
-          "width": 1800,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/amp",
-      "publishedDateTime": "2023-03-22T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

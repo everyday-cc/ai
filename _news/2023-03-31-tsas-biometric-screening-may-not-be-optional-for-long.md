@@ -24,17 +24,6 @@ images:
     height: 1440
     isCached: true
 
-related:
-  - title: "Voice Biometrics Group academic partnership leads to IngenID launch"
-    excerpt: "IngenID Biometric Innovations is an offshoot of Voice Biometrics Group, which offers SaaS for speaker verification purposes."
-    publishedDateTime: 2023-03-28T21:51:00Z
-    webUrl: "https://www.biometricupdate.com/202303/voice-biometrics-group-academic-partnership-leads-to-ingenid-launch"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 4
-
 secured: "m32b+jCR6poMtVubICeu+taBGGFJTIDr/OzJYFZttu70oIDPFQSKu7PF0TZb0Ytk6CVKPZu+NLqFcWA6djc1VLOAbhtywBN2+czc3dtuQvmK/P+7fvr63wRgxkhGcou/S9Wfoktn3BHHlM5Jy55PPIbQyOgriqBdv9VLiihy3E1vmmlQ/DnXJFMwQh4sOUYFpZV3OsaM/An03NuV1vBoqpnU+1I2x61RxNXNTBH0GH7em5EklVe16j+/7YH1Z3M8E3bV651xl7msXaI9dCoGvIPiO//9uj23/Hs6Txn5mmNqjH7ylZVH1zaQ3Ocvz4l14NcuDY5tpN2vEqnJwPaufxZF7WleOByV14ObX2Flw0WLNeju7ftj/BB5VxULmlnp6D9hrgGldgw+NZGqcNxRkB69fLMMpk09VhdWFIA+SDkYaUlWez6BsgMlfsfUqMT2VECoIzoUnYHy/6bmlIntggCa8N+Kak73rPaSly3X9XHKUPfqtXCumLnod2P6OGULM5VPQYTbHxNVaCCB8lt26w==;T+Ugf28YIF/coOG0juvYiw=="
 ---
 

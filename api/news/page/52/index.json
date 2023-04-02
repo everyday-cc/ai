@@ -2,6 +2,40 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2023-02-14-sway-ai-joins-the-aws-partner-network-to-make-artificial-intelligence-accessible-for-all.md",
+      "title": "Sway AI Joins The AWS Partner Network To Make Artificial Intelligence Accessible For All",
+      "excerpt": "BOSTON, Feb. 14, 2023 /PRNewswire/ -- Today, Sway AI, a leading provider of cloud and no-code artificial intelligence (AI ... joined the Amazon Web Services (AWS) Partner Network (APN), a global ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105572596/Sway-AI-Joins-The-AWS-Partner-Network-To-Make-Artificial-Intelligence-Accessible-For-All",
+      "originalUrl": "https://menafn.com/1105572596/Sway-AI-Joins-The-AWS-Partner-Network-To-Make-Artificial-Intelligence-Accessible-For-All",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-14T07:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-14-buzzfeed-launches-infinity-quizzes-creating-personalized-stories-powered-by-openai.md",
       "title": "BuzzFeed launches Infinity Quizzes, creating personalized stories powered by OpenAI",
       "excerpt": "Although the startup has really caught the eye ... henceforth dubbed ‘Buzzy The Robot,’ (official title: BuzzFeed’s AI Creative Assistant)” and quiz-takers themselves. “",
@@ -1139,58 +1173,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-eric-schmidt-is-building-the-perfect-ai-war-fighting-machine.md",
-      "title": "Eric Schmidt Is Building the Perfect AI War-Fighting Machine",
-      "excerpt": "And while US military power has long depended on advances in technology, some fear that military AI can create new risks ... will provide $280 billion for research and manufacturing of semiconductor devices in the US. Closer collaboration between ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/eric-schmidt-is-building-the-perfect-ai-war-fighting-machine/",
-      "originalUrl": "https://www.wired.com/story/eric-schmidt-is-building-the-perfect-ai-war-fighting-machine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63dc0afa155e185b29dde2d7/master/pass/Biz-vrmilitary-1380808794.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/eric-schmidt-is-building-the-perfect-ai-war-fighting-machine/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/eric-schmidt-is-building-the-perfect-ai-war-fighting-machine/amp",
-      "publishedDateTime": "2023-02-13T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

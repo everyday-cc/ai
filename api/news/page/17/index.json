@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-03-17-ai-and-computer-vision-for-fighting-fires.md",
+      "title": "AI and computer vision for fighting fires",
+      "excerpt": "A Charles Sturt University academic has led research that has produced new AI technologies that will save lives, homes and livelihoods by reducing bushfires. Dr Anwaar Ulhaq Senior Lecturer in the Charles Sturt School of Computing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.spatialsource.com.au/ai-and-computer-vision-for-fighting-fires/",
+      "originalUrl": "https://www.spatialsource.com.au/ai-and-computer-vision-for-fighting-fires/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.spatialsource.com.au/wp-content/uploads/2023/03/banner-image_625x442.jpg",
+          "width": 625,
+          "height": 442,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T18:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Spatial Source",
+        "domain": "spatialsource.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-17-this-week-in-xr-sxsw-winners-350-million-for-adept-ai-tilia-raises-22-million.md",
       "title": "This Week In XR: SXSW Winners, $350 Million For Adept AI, Tilia Raises $22 Million",
       "excerpt": "Adept AI Is A Unicorn. The startup ... The funding comes from Seoul, South Korea-based fintech leader Dunamu, which is joining existing investor J.P. Morgan Payments. In 2021, Oberwager acquired Linden Lab, the company behind the “Second Life” metaverse.",
@@ -1148,49 +1191,6 @@
       "type": "article",
       "ampWebUrl": "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-health-care-michigan?amp",
       "cdnAmpWebUrl": "https://www-bridgemi-com.cdn.ampproject.org/c/s/www.bridgemi.com/michigan-health-watch/how-ai-altering-health-care-michigan?amp",
-      "publishedDateTime": "2023-03-16T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bridge Magazine",
-        "domain": "bridgemi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-how-ai-is-altering-healthcare-in-michigan.md",
-      "title": "How AI is altering healthcare in Michigan",
-      "excerpt": "At CoreweIl Health in Grand Rapids, AI algorithms are deciphering patterns in a CAT scan that humans can’t see. Grand Blanc-based McLaren Health Care is using AI imaging analysis of stroke patients to pinpoint potentially fatal blood clots in the brain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-healthcare-michigan",
-      "originalUrl": "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-healthcare-michigan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bridgemi.com/sites/default/files/styles/large/public/2023-03/AI%20healthcare%20shutterstock.jpg?itok=F2c1uM73",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-healthcare-michigan?amp",
-      "cdnAmpWebUrl": "https://www-bridgemi-com.cdn.ampproject.org/c/s/www.bridgemi.com/michigan-health-watch/how-ai-altering-healthcare-michigan?amp",
       "publishedDateTime": "2023-03-16T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {

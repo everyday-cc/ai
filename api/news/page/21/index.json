@@ -2,6 +2,40 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-03-15-news-tagged-with-deep-learning.md",
+      "title": "News tagged with deep learning",
+      "excerpt": "A deep learning model can accurately evaluate the area subscore of the Palmoplantar Pustulosis Area and Severity Index (PPPASI), according to a study published online Feb. 23 in the Journal of ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/tags/deep+learning/",
+      "originalUrl": "https://medicalxpress.com/tags/deep+learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-15-catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage.md",
       "title": "\"Catering To Vote Bank\": LGBTQ Activist On Centre Opposing Same-Sex Marriage",
       "excerpt": "This classification has a rational relation with the object sought to be achieved (ensuring social stability via recognition of marriages),\" the government said in its affidavit. It said statutory recognition of marriage as a union between a \"man\" and a ...",
@@ -1140,49 +1174,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-tcs-launches-5g-enabled-solution-to-help-companies-transform-plant-operations.md",
-      "title": "TCS Launches 5G Enabled Solution To Help Companies Transform Plant Operations",
-      "excerpt": "Tata Consultancy Services on Tuesday (14 March) announced the launch of its 5G-enabled solution to help companies in transforming plant operations. TCS' Cognitive Plant Operations Adviser for the Microsoft Azure Private Mobile Edge Computing (PMEC) platform will help companies in industries like manufacturing,",
-      "sourceUrl": null,
-      "webUrl": "https://swarajyamag.com/business/tcs-launches-5g-enabled-solution-to-help-companies-transform-plant-operations",
-      "originalUrl": "https://swarajyamag.com/business/tcs-launches-5g-enabled-solution-to-help-companies-transform-plant-operations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/swarajya%2F2023-02%2Fa38bf3ae-864b-49b1-ad8b-01fddfd3c396%2FScreenshot_2023_02_08_at_12_53_49_PM.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Swarajya",
-        "domain": "swarajyamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

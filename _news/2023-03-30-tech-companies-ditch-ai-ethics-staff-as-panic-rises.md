@@ -72,7 +72,7 @@ related:
         height: 960
         isCached: true
   - title: "Big tech companies cut AI ethics staff, raising safety concerns"
-    excerpt: "Big Tech companies have been slashing staff from teams dedicated to evaluating ethical issues around deploying artificial intelligence, leading to concerns about the safety of the new technology as it becomes widely adopted across consumer products."
+    excerpt: "Big tech companies have been slashing staff from teams dedicated to evaluating ethical issues around deploying artificial intelligence, leading to concerns about the safety of the new technology as it becomes widely adopted across consumer products."
     publishedDateTime: 2023-03-29T04:00:00Z
     webUrl: "https://www.ft.com/content/26372287-6fb3-457b-9e9c-f722027f36b3"
     type: article

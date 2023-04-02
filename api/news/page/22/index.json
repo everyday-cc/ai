@@ -2,6 +2,49 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2023-03-14-tcs-launches-5g-enabled-solution-to-help-companies-transform-plant-operations.md",
+      "title": "TCS Launches 5G Enabled Solution To Help Companies Transform Plant Operations",
+      "excerpt": "Tata Consultancy Services on Tuesday (14 March) announced the launch of its 5G-enabled solution to help companies in transforming plant operations. TCS' Cognitive Plant Operations Adviser for the Microsoft Azure Private Mobile Edge Computing (PMEC) platform will help companies in industries like manufacturing,",
+      "sourceUrl": null,
+      "webUrl": "https://swarajyamag.com/business/tcs-launches-5g-enabled-solution-to-help-companies-transform-plant-operations",
+      "originalUrl": "https://swarajyamag.com/business/tcs-launches-5g-enabled-solution-to-help-companies-transform-plant-operations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/swarajya%2F2023-02%2Fa38bf3ae-864b-49b1-ad8b-01fddfd3c396%2FScreenshot_2023_02_08_at_12_53_49_PM.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-14T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Swarajya",
+        "domain": "swarajyamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-14-googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you.md",
       "title": "Google's New AI Tools for Gmail, Docs Can Write Drafts For You",
       "excerpt": "Google plans to bring new AI-powered tools to its suite of Workspace apps. In a blog post on Tuesday, the search giant said it's starting by testing generative AI writing features in Gmail and Docs that can help people get started on the writing process.",
@@ -1128,58 +1171,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-manufacturing-a-specialized-new-infused-pre-roll-theres-a-robot-for-that.md",
-      "title": "Manufacturing A Specialized New, Infused Pre-Roll? There’s A Robot For That",
-      "excerpt": "Cannabis manufacturers have an increasing need for product customization which this entrepreneur says only robotics can solve.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joanoleck/2023/03/13/manufacturing-a-specialized-new-infused-pre-roll-theres-a-robot-for-that/",
-      "originalUrl": "https://www.forbes.com/sites/joanoleck/2023/03/13/manufacturing-a-specialized-new-infused-pre-roll-theres-a-robot-for-that/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/640f36260963e482477aa269/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 887,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joanoleck/2023/03/13/manufacturing-a-specialized-new-infused-pre-roll-theres-a-robot-for-that/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joanoleck/2023/03/13/manufacturing-a-specialized-new-infused-pre-roll-theres-a-robot-for-that/amp/",
-      "publishedDateTime": "2023-03-13T14:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

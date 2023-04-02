@@ -116,6 +116,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "The Thrill — And The Mystery — Of A 1970s Bell Labs AI Chatbot Known As ‘Red Father’"
+    excerpt: "In its heyday, AT&T’s Bell Labs was the center of innovation, akin to Silicon Valley today. With AI chatbots in the news, I wondered what happened to a now-vanished early version I used at the famed research institution’s New Jersey offices."
+    publishedDateTime: 2023-04-02T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/amyfeldman/2023/04/02/the-thrill---and-the-mystery---of-a-1970s-bell-labs-ai-chatbot-known-as-red-father/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 60
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64272094bb07ea8b64217d9b/0x0.jpg?format=jpg&crop=2000,1125,x0,y211,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Everything you need to know about artificial intelligence: What is it used for?"
     excerpt: "Artificial intelligence is the leading innovation in the technology sector today, offering limitless opportunities to its users while also representing an existential threat to some white-collar ..."
     publishedDateTime: 2023-03-29T13:09:00Z
@@ -175,6 +189,20 @@ related:
       - url: "https://www.wsws.org/asset/76fbb761-071f-4bab-b074-271bdf3985b8?rendition=1600x900"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Musk, scientists call for halt to AI race sparked by ChatGPT"
+    excerpt: "Are tech companies moving too fast in rolling out powerful artificial intelligence technology that could one day outsmart humans? That’s the conclusion of a group of prominent computer scientists and"
+    publishedDateTime: 2023-04-02T15:44:00Z
+    webUrl: "https://www.stltoday.com/business/national-and-international/musk-scientists-call-for-halt-to-ai-race-sparked-by-chatgpt/article_d35b9738-d1bf-512d-a621-009afc90c220.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/72/972d567c-cd50-5509-ad7c-293198128785/64275af0d615e.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "How ChatGPT is Transforming Enterprise Search with Natural Language Processing"
     excerpt: "ChatGPT solution that companies must consider to achieve their long-term objectives to increase customer satisfaction."

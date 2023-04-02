@@ -24,17 +24,6 @@ images:
     height: 1080
     isCached: true
 
-related:
-  - title: "Google Cloud inks AI partnership with developer tooling startup Replit"
-    excerpt: "Google LLC’s cloud business today announced a partnership with Replit Inc., the creator of a popular coding platform used by more than 20 million developers. The partnership will see Replit use Google’s large language models to help developers write software faster."
-    publishedDateTime: 2023-03-28T21:03:00Z
-    webUrl: "https://siliconangle.com/2023/03/28/google-cloud-inks-ai-partnership-developer-tooling-startup-replit/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
-
 secured: "k2NWMSIZ7NkCCElvUHAlB1AQZrOeB1IEAcoQ6w5KhlQNj0efJc21vUykY/ZY21y6LhsUDnjn63ueDU6I1S63uabbSpvjOn9DvSBC+RDkk4bHqY7WRcbE0h7V/QdgmeSJURv9Wg0cC6xg5EytrdpQPIYtMhkRCMWRBBUjoL64uPuqHIw9CgTT/2FpRntcGJM623qJaAVRx9KPwGOF5CBDzlPafNZaIPN3Vnw6dYnWa0k0aDevuaevzDLsnbfuOVCWLzHhdrtUVEGoLkGbrCGt3OnAqOZaPGa99Vc4w/mHJPUDmSZXNuOF3OQmbjOZdXzlJmEy7lOyaSrRn2kY1siQKbZC43Fr1OHbEyyN3bZJgMC3azZYLoaLz9nKVANca5DdP+02Mw6Ka5oz9tmDfs8xWBqPCHV9roFsXGqqxNEqfVZVZGruDzHnnRnTWP96s/hpb1LplgwolXw5pfAZd1fQw/ZJasNKi7sqCuvVjk5XfFubL0Ynj0NA8/N3BAMr9jtc+PHnsZiSfhCz9NQP+oN/XQ==;CNNTnM1WIeA4GqWDo+XJtA=="
 ---
 

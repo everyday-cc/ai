@@ -2,6 +2,49 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2023-01-21-best-robot-vacuum-deals-under-100.md",
+      "title": "Best robot vacuum deals under $100",
+      "excerpt": "Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch your robot vacuum operate no matter where you are, using Samsung's SmartThings App. The Jet Bot AI+ ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-under-100/",
+      "originalUrl": "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-under-100/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/12/02/2487fba3-46f6-4beb-8eed-f66994896979/thumbnail/1200x630/a0e7cdce21c7b1a9b4232d35af859d8c/anker-eufy-robot-vacuum-100-hero.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-under-100/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-under-100/",
+      "publishedDateTime": "2023-01-20T09:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-21-hearing-health-startup-orka-wants-to-make-hearing-aids-as-cool-as-airpods-with-its-orka-one-device.md",
       "title": "Hearing Health Startup Orka Wants To Make Hearing Aids As Cool As AirPods With Its Orka One Device",
       "excerpt": "The team is committed to do their part in shepherding the healthcare industry towards a more modern form that embraces cutting-edge tech like that in Orka’s hearing aid.",
@@ -1143,49 +1186,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-odisha-soa-signs-mous-with-start-ups-specialising-in-robotics-ai-drone-technology.md",
-      "title": "Odisha: SOA signs MoUs with start-ups specialising in robotics, AI, drone technology",
-      "excerpt": "The signatories to the MoU were Prof Pradipta Kumar Nanda, Pro-Vice-Chancellor, SOA and Subhajit Nayak and Dhrutidhar Behera",
-      "sourceUrl": null,
-      "webUrl": "https://www.edexlive.com/news/2023/jan/20/odisha-soa-signs-mous-with-start-ups-specialising-in-robotics-ai-drone-technology-33446.html",
-      "originalUrl": "https://www.edexlive.com/news/2023/jan/20/odisha-soa-signs-mous-with-start-ups-specialising-in-robotics-ai-drone-technology-33446.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.edexlive.com/uploads/user/imagelibrary/2023/1/20/original/robotics-4113409_1280.jpg",
-          "width": 1280,
-          "height": 854,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.edexlive.com/news/2023/jan/20/odisha-soa-signs-mous-with-start-ups-specialising-in-robotics-ai-drone-technology-33446.amp",
-      "cdnAmpWebUrl": "https://m-edexlive-com.cdn.ampproject.org/c/s/m.edexlive.com/news/2023/jan/20/odisha-soa-signs-mous-with-start-ups-specialising-in-robotics-ai-drone-technology-33446.amp",
-      "publishedDateTime": "2023-01-19T18:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "edexlive",
-        "domain": "edexlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

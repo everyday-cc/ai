@@ -109,59 +109,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-30-leaked-org-chart-shows-the-15-most-important-leaders-in-googles-ai-division-as-it-races-to-catch-microsoft.md",
-      "title": "Leaked org chart shows the 15 most important leaders in Google's AI division as it races to catch Microsoft",
-      "excerpt": "Central to those efforts is the company's AI division, led by Jeff Dean, Google's senior vice president of research and AI. An internal org chart seen by Insider shows the 14 other leaders under ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-org-chart-ai-research-leaders-microsoft-chatgpt-2023-3",
-      "originalUrl": "https://www.businessinsider.com/google-org-chart-ai-research-leaders-microsoft-chatgpt-2023-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6424738db643e80019df5bc2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-30T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-30-the-explosive-ai-trend-is-here-to-stay-these-stocks-are-poised-to-benefit.md",
       "title": "The ‘explosive’ AI trend is here to stay. These stocks are poised to benefit.",
       "excerpt": "The rise to prominence of ChatGPT has made artificial intelligence one of the key themes for companies in 2023, and numerous players are set to reap its benefits during the coming months. “Unlike many other innovative technologies that have relatively ...",
@@ -215,6 +162,58 @@
       ]
     },
     {
+      "path": "_news/2023-03-30-in-the-ai-era-microsoft-is-the-new-google-and-vice-versa.md",
+      "title": "In the AI era, Microsoft is the new Google, and vice-versa",
+      "excerpt": "Microsoft's AI efforts suggest that the company has traded places with Google when it comes to the cool factor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/microsoft-new-google-ai-opinion-3302336/",
+      "originalUrl": "https://www.androidauthority.com/microsoft-new-google-ai-opinion-3302336/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Bing-Chat-on-phone-4.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-30T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-30-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
       "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
       "excerpt": "In any case, AI tools are not going away — and indeed has expanded dramatically ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft ...",
@@ -223,7 +222,7 @@
       "originalUrl": "https://techcrunch.com/2023/03/30/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 299,
+      "heat": 319,
       "tags": null,
       "images": [
         {
@@ -308,58 +307,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-29-xoriant-x-celerate-insights-analytics-solution-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Xoriant X-CELERATE Insights Analytics Solution Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Xoriant X-CELERATE Insights Analytics Solution Now Available in the Microsoft Azure Marketplace Mar (PRNewswire via COMTEX) -- PR",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/xoriant-x-celerate-insights-analytics-solution-now-available-in-the-microsoft-azure-marketplace-2023-03-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/xoriant-x-celerate-insights-analytics-solution-now-available-in-the-microsoft-azure-marketplace-2023-03-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-29T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -1493,6 +1440,59 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip.md",
+      "title": "For AI's 'iPhone moment' in ChatGPT, Nvidia unveils a large language model chip",
+      "excerpt": "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip/",
+      "originalUrl": "https://www.zdnet.com/article/for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 232,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/2a31cc4234549381ea4642abc6f31af8f9b8f2d2/2023/03/21/c83ab042-06b7-49b0-934d-f6ab54c4a554/nvidia-h100-nvl-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip/",
+      "publishedDateTime": "2023-03-21T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

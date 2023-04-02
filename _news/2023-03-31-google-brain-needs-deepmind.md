@@ -7,8 +7,8 @@ originalUrl: "https://analyticsindiamag.com/google-brain-needs-deepmind/"
 webUrl: "https://analyticsindiamag.com/google-brain-needs-deepmind/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Analytics India Magazine
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind's AI used to develop tiny 'syringe' for injecting gene therapy and tumor-killing drugs"
+    excerpt: "And the researchers did it using an artificial intelligence (AI) program made by Google's DeepMind.The AI program, called AlphaFold, previously predicted the structure of nearly every protein ..."
+    publishedDateTime: 2023-03-29T15:00:00Z
+    webUrl: "https://www.livescience.com/deepminds-ai-used-to-develop-tiny-syringe-for-injecting-gene-therapy-and-tumor-killing-drugs"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
+    quality: 39
   - title: "Alphabet’s Google and DeepMind Pause Grudges, Join Forces to Chase OpenAI"
     excerpt: "OpenAI’s success in overtaking Google with an artificial intelligence–powered chatbot has achieved what seemed impossible in the past: It has forced the two AI research teams within Google’s parent, Alphabet,"
     publishedDateTime: 2023-03-29T23:19:00Z

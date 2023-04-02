@@ -2,6 +2,50 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2023-01-10-artificial-intelligence-in-fintech-market-is-expected-to-exhibit-a-massive-cagr-of-22-by-2030-microsoft-google-salesforce.md",
+      "title": "Artificial Intelligence in Fintech Market is expected to Exhibit a Massive CAGR of 22% by 2030 | Microsoft, Google, Salesforce",
+      "excerpt": "Artificial Intelligence (AI) is a rapidly growing technology that is transforming the financial services industry, often referred to as Fintech. AI is used to automate and improve many of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-fintech-market-is-expected-to-exhibit-a-massive-cagr-of-22-by-2030-microsoft-google-salesforce",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-fintech-market-is-expected-to-exhibit-a-massive-cagr-of-22-by-2030-microsoft-google-salesforce",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.market-news.org/wp-content/uploads/2023/01/Artificial-Intelligence-in-Fintech.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T23:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-10-c3ai-bear-with-this-company-as-it-executes-a-turnaround.md",
       "title": "C3.ai: Bear With This Company As It Executes A Turnaround",
       "excerpt": "C3.ai has kicked off a business model transition to convert its contracts into consumption-based pricing and away from subscriptions. See why AI stock is a Buy.",
@@ -1095,58 +1139,6 @@
         "name": "News Medical",
         "domain": "news-medical.net",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-unique-real-world-data-shows-early-retirement-hastens-cognitive-decline.md",
-      "title": "Unique real-world data shows early retirement hastens cognitive decline",
-      "excerpt": "New research from economists at Binghamton University shows early retirement can be linked to an acceleration of age-related cognitive decline. Looking at data from a unique pension program in ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/health-wellbeing/early-retirement-accelerates-cognitive-decline-china-pension-study/",
-      "originalUrl": "https://newatlas.com/health-wellbeing/early-retirement-accelerates-cognitive-decline-china-pension-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/f3f1f57/2147483647/strip/true/crop/3825x2008+0+381/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd9%2F5c%2Fbae30bda4f58bb78d6978d47e2e0%2Fdepositphotos-25100239-xl.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

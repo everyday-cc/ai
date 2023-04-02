@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Construction Market 2023 Growth, Trend and Outlook till 2031"
+    excerpt: "Artificial Intelligence (AI) in Construction Marketinformation for each competitor includes (Coins Global, Aurora"
+    publishedDateTime: 2023-03-30T18:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-2023-growth-trend-and-outlook-till-2031-2023-03-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
 
 secured: "fqrzwKZXNZ7nEmuUwc115Rk0kgLyRkRldY4edEPLgykaaKaphdk9mlBwiHSBwcWkutlHVyFwOBIQIGUl26QYhTGQWoDPUXTQf/+CAmKXg6JbnCQPv7XLu4G/EWhq4yKE5e1d1Z1ppzaprnNOjQrGAD8KxiQcWwxkN7lr+NOLYb1MC45eRKWEknsrt7fDYkeWXs4p7ydX1fgDbIgXuvhWspIVOXstK1GboA6TZgwnKBr6pxGV0dOruWvd+iiMPjEpI44njbxA28dofKesTdmvFNtLyHmNihcvmUMXw0mxTW+B84LQnjNxOmfrNJHBFWXnCpSVyp0BnQIWhRKo3zC4hTFGIUJGRivqPQPE7Ze7T/aw2IK19pjB5vh13JdJP5VpARIfwVYdZG8aOscuhPGb+x1dO1qGuh85EH7J4tOdCF9giTjP2DIJbCxbKYSmbRgeUycqMPPBN+09UZ0ScnW9zCQJ/EnVIwskySjfPKA2EJnz5czdks8e3euPOmahLT9ZlB0O79dQq+rPSDsTAoNPQg==;3q4xgPAeVYOcp351MhfVIg=="
 ---

@@ -15,6 +15,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "Kx7mA5ZWUw1i9sk8MyK+zeT1kOian4m/CuXOAT/tSorBgcsjXy9VAO00VPytuyBww+cdehB+mf3EWSEjPztKcZGvgpLFr7OVoGmfR8WnE9USvdhm9JoEEc6iH17smP+8acslIGkww8fusES9mCDTM5vi/Z824txvPa1EEWQCJK+Bq4aJgnEBzXSaZ2lVNfpLl1QbbBhpvwDcZ+1HViIPX31TJQgkeiB5GXkj+o0cU0fykAUYSCdGkFIPA/Cb92BUnZSV644SK5Sh08OT7crkptiou8ve8O3ZZR+70hjDLSTQtjDlYn9Ipsu/Fq/nN2Exp6GTGyrsBjViZ6ErFihvEzi4NVZPtxr1vvluFosYWms=;IaDUHbuKbgFbAGIWb5KpAw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/8c/f8c65b1d-dc1a-57ad-becb-46db5495ea65/64187bfce9e26.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "TmEqzzrY/K8OaWyXmkjsCnuGlnjAILMAwD9hwnZW3OUQruO/mx6fGhUzzoyfXHR/KMWgb1NVQBSsRhVfASZY6r/BjpgnDkHb9QCrQKo6GHoOfzSgb2JvfRsZGH0rPvO9Km1kGrugZEWQiq0xxyI/Crg1/cKvkBWCpEjYUGnReGcmoYTjAJ7rW6Z6cLrgpKbWyb++bM6Gx9KbWWuewO2GcnPuCV2WOQEGCuAfZmUvFywwQGtetQ2fhY8eD/JsN2vMgixNwUhPDyMmadevFiZAI1BwGgEZ9LFEtzBrOCX+W4Tm4yF/LZuDfrFJlJ9BhGVrFNREU1mu8d9LthfIaGGAMj5omYGs7wbPC5T92KYldi4=;+5ZCYQCIjcF4eTuIfe4rlg=="
 ---
 

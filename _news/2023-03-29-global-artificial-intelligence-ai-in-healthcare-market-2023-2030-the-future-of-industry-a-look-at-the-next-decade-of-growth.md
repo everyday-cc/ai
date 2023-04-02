@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-2023-2030-the-future-of-industry-a-look-at-the-next-decade-of-growth-2023-03-28"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) in Construction Market 2023 Growth, Trend and Outlook till 2031"
+    excerpt: "Artificial Intelligence (AI) in Construction Marketinformation for each competitor includes (Coins Global, Aurora"
+    publishedDateTime: 2023-03-30T18:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-2023-growth-trend-and-outlook-till-2031-2023-03-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
   - title: "AI and the Future of Health"
     excerpt: "Read about some of our research team’s work to make healthcare more data-driven, predictive, and precise – ultimately, empowering every person on the planet to live a healthier future."
     publishedDateTime: 2023-03-30T18:43:00Z

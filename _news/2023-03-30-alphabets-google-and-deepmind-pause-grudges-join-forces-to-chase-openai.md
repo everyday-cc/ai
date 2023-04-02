@@ -33,6 +33,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "DeepMind's AI used to develop tiny 'syringe' for injecting gene therapy and tumor-killing drugs"
+    excerpt: "And the researchers did it using an artificial intelligence (AI) program made by Google's DeepMind.The AI program, called AlphaFold, previously predicted the structure of nearly every protein ..."
+    publishedDateTime: 2023-03-29T15:00:00Z
+    webUrl: "https://www.livescience.com/deepminds-ai-used-to-develop-tiny-syringe-for-injecting-gene-therapy-and-tumor-killing-drugs"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
+    quality: 39
 
 secured: "w4LmJky6RJYPVPjvJvvXLX+kTqO6DpuP0JPe4NznnHLYMNXZMhMS2OgUc1U1Dqe7PYezxtQwOBO5RCDqCK+Be+yk2SeJOOR6PHvn+bXBijzybSDYqT9IrDd+0KgCzuQq/O+4bLm5wOWWMKKvc1ZifjRSRTFnE1CPMg96UbTZZ4uGXf7WOm4YZPdHcfD6EBWZAAP34GWdozPk/9OljVXheoT84GalFunDJ4KiaBL9TODNjuDJmiqNUL9MplGp+1y8a89H6B0gnXvXm7LaIvV2Y09xXLyOnBK0fSN/YmK6w+VZh6lFRbVU0Lb1aU7panDqKME+fwtR91EinZcikAW3Zeb59A76lF3Wz1xOmEPKdTye/YXfmM/6Iue4MVY8jiZV8nWbJOvkcgE762mIUjpcwfcTd1PFgsDxhiU/70+zUnCwVZ6L8ltulWwip/8hdVIU3sWiEvg+qvy55SsG2DdqXEhNlZidEnOrQnBCOMi8PhkFhZYV3n9JW/wS1UjC4N0zI12AyHBgItwAcIzL5XW/8A==;XO16bo3n0hkKv5ru6/T1Bw=="
 ---

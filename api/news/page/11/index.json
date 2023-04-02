@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-03-22-a-us-agency-rejected-face-recognitionand-landed-in-big-trouble.md",
+      "title": "A US Agency Rejected Face Recognition—and Landed in Big Trouble",
+      "excerpt": "He’d decided that Login.gov, which provides a secure way to access dozens of government apps and websites, wouldn’t use selfies and face recognition to verify the identity of people creating new accounts. “The benefits of liveness/selfie do not ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/",
+      "originalUrl": "https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/641a4ef3b19ad4e3186e06c8/master/pass/US-Govt-Breaks-Its-Own-Facial-Recognition-Rules-Business-1247661398.jpg",
+          "width": 1800,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/amp",
+      "publishedDateTime": "2023-03-22T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-how-ford-and-vws-multibillion-dollar-self-driving-car-project-failed.md",
       "title": "How Ford and VW's multibillion-dollar self-driving car project failed",
       "excerpt": "Ford and Volkswagen invested billions into self-driving startup Argo AI to match rivals such as Uber, Tesla and Google. In October 2022 the project shut down.",
@@ -390,40 +442,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-22-google-asks-london-court-to-throw-out-lawsuit-over-medical-records.md",
-      "title": "Google asks London court to throw out lawsuit over medical records",
-      "excerpt": "The Royal Free London NHS Trust transferred patient data to Google's artificial intelligence firm DeepMind Technologies in 2015 in relation to the development of a mobile app designed to analyse ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2023/03/22/google-asks-london-court-to-throw-out-lawsuit-over-medical-records",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2023/03/22/google-asks-london-court-to-throw-out-lawsuit-over-medical-records",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-22-wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player.md",
       "title": "Wimbledon 2019: IBM’s Slammtracker AI Technology Heralds The Demise Of The Human Player",
       "excerpt": "Whilst we patiently wait for the day that Womble-shaped robots replace human tennis players at Wimbledon, we can admire the IBM powered AI technology ... them into the huge Watson driven analytics ...",
@@ -643,6 +661,40 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-google-asks-london-court-to-throw-out-lawsuit-over-medical-records.md",
+      "title": "Google asks London court to throw out lawsuit over medical records",
+      "excerpt": "Google and DeepMind were sued last year for alleged misuse of private information. (Unsplash pic) LONDON: Google asked London’s High Court on Tuesday to throw out a lawsuit brought on behalf of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freemalaysiatoday.com/category/business/2023/03/22/google-asks-london-court-to-throw-out-lawsuit-over-medical-records/",
+      "originalUrl": "https://www.freemalaysiatoday.com/category/business/2023/03/22/google-asks-london-court-to-throw-out-lawsuit-over-medical-records/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-21T15:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Free Malaysia Today",
+        "domain": "freemalaysiatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -1055,31 +1107,22 @@
       "title": "Google makes bid to throw out High Court claim over NHS medical record transfer",
       "excerpt": "The software giant and its artificial intelligence arm DeepMind are facing legal action over the transfer of patient data by the Royal Free NHS Foundation Trust in October 2015. The records were ...",
       "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/news/health/google-high-court-deepmind-nhs-royal-free-hospital-b2305368.html",
-      "originalUrl": "https://www.independent.co.uk/news/health/google-high-court-deepmind-nhs-royal-free-hospital-b2305368.html",
+      "webUrl": "https://www.shropshirestar.com/news/uk-news/2023/03/21/google-makes-bid-to-throw-out-high-court-claim-over-nhs-medical-record-transfer/",
+      "originalUrl": "https://www.shropshirestar.com/news/uk-news/2023/03/21/google-makes-bid-to-throw-out-high-court-claim-over-nhs-medical-record-transfer/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2023/03/21/18/40e6bbcbb1145fec7e99614e124d2d4cY29udGVudHNlYXJjaGFwaSwxNjc5NTEwMjA0-2.18437725.jpg?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T11:52:00-07:00",
+      "publishedDateTime": "2023-03-21T11:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
+        "name": "Shropshire Star",
+        "domain": "shropshirestar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1090,57 +1133,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-google-ceo-tells-employees-that-80000-of-them-helped-test-bard-ai-warns-things-will-go-wrong.md",
-      "title": "Google CEO tells employees that 80,000 of them helped test Bard AI, warns 'things will go wrong'",
-      "excerpt": "“As more people start to use Bard and test its capabilities ... as the company tries to keep apace with the quickly evolving advancements in generative AI technology over the last several months — especially Microsoft-backed OpenAI and its ChatGPT ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/03/21/google-ceo-pichai-memo-to-employees-on-bard-ai-things-will-go-wrong.html",
-      "originalUrl": "https://www.cnbc.com/2023/03/21/google-ceo-pichai-memo-to-employees-on-bard-ai-things-will-go-wrong.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106629916-1595528838886-gettyimages-1195292757-AFP_1O5272.jpeg?v=1679420166",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/03/21/google-ceo-pichai-memo-to-employees-on-bard-ai-things-will-go-wrong.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/21/google-ceo-pichai-memo-to-employees-on-bard-ai-things-will-go-wrong.html",
-      "publishedDateTime": "2023-03-21T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

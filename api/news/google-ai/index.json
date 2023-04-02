@@ -46,6 +46,49 @@
       ]
     },
     {
+      "path": "_news/2023-03-31-google-brain-needs-deepmind.md",
+      "title": "Google Brain Needs DeepMind",
+      "excerpt": "It’s already happening! Google and DeepMind are collaborating on a next-generation project called the Gemini. According to a report from The Information, both companies are “ pausing grudges ” and joining forces to go beyond what OpenAI has achieved or planning to achieve.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/google-brain-needs-deepmind/",
+      "originalUrl": "https://analyticsindiamag.com/google-brain-needs-deepmind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/image-40-1.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-31T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-30-watch-katie-couric-and-think-with-googles-new-interview-series.md",
       "title": "Watch Katie Couric and Think with Google’s new interview series",
       "excerpt": "Katie Couric hosts Future Ready by Think with Google, a new interview series featuring experts in AI, cybersecurity and psychology.",
@@ -417,40 +460,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-22-google-asks-london-court-to-throw-out-lawsuit-over-medical-records.md",
-      "title": "Google asks London court to throw out lawsuit over medical records",
-      "excerpt": "The Royal Free London NHS Trust transferred patient data to Google's artificial intelligence firm DeepMind Technologies in 2015 in relation to the development of a mobile app designed to analyse ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2023/03/22/google-asks-london-court-to-throw-out-lawsuit-over-medical-records",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2023/03/22/google-asks-london-court-to-throw-out-lawsuit-over-medical-records",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-22-everything-everywhere-is-going-to-change-all-at-once.md",
       "title": "Everything, Everywhere Is Going to Change All at Once",
       "excerpt": "Consider just one example that most people probably haven’t even heard of — the way DeepMind, an A.I. lab owned by Google parent Alphabet, recently used its AlphaFold A.I. system to solve one of the most wicked problems in science — at a speed and ...",
@@ -503,35 +512,60 @@
       ]
     },
     {
-      "path": "_news/2023-03-22-google-makes-bid-to-throw-out-high-court-claim-over-nhs-medical-record-transfer.md",
-      "title": "Google makes bid to throw out High Court claim over NHS medical record transfer",
-      "excerpt": "The software giant and its artificial intelligence arm DeepMind are facing legal action over the transfer of patient data by the Royal Free NHS Foundation Trust in October 2015. The records were ...",
+      "path": "_news/2023-03-22-google-asks-london-court-to-throw-out-lawsuit-over-medical-records.md",
+      "title": "Google asks London court to throw out lawsuit over medical records",
+      "excerpt": "Google and DeepMind were sued last year for alleged misuse of private information. (Unsplash pic) LONDON: Google asked London’s High Court on Tuesday to throw out a lawsuit brought on behalf of ...",
       "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/news/health/google-high-court-deepmind-nhs-royal-free-hospital-b2305368.html",
-      "originalUrl": "https://www.independent.co.uk/news/health/google-high-court-deepmind-nhs-royal-free-hospital-b2305368.html",
+      "webUrl": "https://www.freemalaysiatoday.com/category/business/2023/03/22/google-asks-london-court-to-throw-out-lawsuit-over-medical-records/",
+      "originalUrl": "https://www.freemalaysiatoday.com/category/business/2023/03/22/google-asks-london-court-to-throw-out-lawsuit-over-medical-records/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2023/03/21/18/40e6bbcbb1145fec7e99614e124d2d4cY29udGVudHNlYXJjaGFwaSwxNjc5NTEwMjA0-2.18437725.jpg?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T11:52:00-07:00",
+      "publishedDateTime": "2023-03-21T15:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
+        "name": "Free Malaysia Today",
+        "domain": "freemalaysiatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-google-makes-bid-to-throw-out-high-court-claim-over-nhs-medical-record-transfer.md",
+      "title": "Google makes bid to throw out High Court claim over NHS medical record transfer",
+      "excerpt": "The software giant and its artificial intelligence arm DeepMind are facing legal action over the transfer of patient data by the Royal Free NHS Foundation Trust in October 2015. The records were ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.shropshirestar.com/news/uk-news/2023/03/21/google-makes-bid-to-throw-out-high-court-claim-over-nhs-medical-record-transfer/",
+      "originalUrl": "https://www.shropshirestar.com/news/uk-news/2023/03/21/google-makes-bid-to-throw-out-high-court-claim-over-nhs-medical-record-transfer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-21T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Shropshire Star",
+        "domain": "shropshirestar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1390,58 +1424,6 @@
         "name": "InfoQ",
         "domain": "infoq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-how-an-ai-breakthrough-from-alphabets-deepmind-changed-scientific-history-and-could-lead-to-new-cures.md",
-      "title": "How an AI breakthrough from Alphabet's DeepMind 'changed scientific history' and could lead to new cures",
-      "excerpt": "Over 1 million researchers have used the AI breakthrough that helps scientists better understand diseases. Here's how AlphaFold came to be.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/deepmind-alphafold-ai-origin-story-impact-on-biotech-2023-2",
-      "originalUrl": "https://www.businessinsider.com/deepmind-alphafold-ai-origin-story-impact-on-biotech-2023-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63fcd8f5b8468e001896a6a5?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-28T09:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

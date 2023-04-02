@@ -7,8 +7,8 @@ originalUrl: "https://www.androidauthority.com/microsoft-new-google-ai-opinion-3
 webUrl: "https://www.androidauthority.com/microsoft-new-google-ai-opinion-3302336/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 164
+published: true
 
 provider:
   name: Android Authority
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Xoriant X-CELERATE Insights Analytics Solution Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Xoriant X-CELERATE Insights Analytics Solution Now Available in the Microsoft Azure Marketplace Mar (PRNewswire via COMTEX) -- PR"
-    publishedDateTime: 2023-03-29T14:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/xoriant-x-celerate-insights-analytics-solution-now-available-in-the-microsoft-azure-marketplace-2023-03-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 87
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "MTN plans migration of services to Microsoft Azure"
     excerpt: "MTN has said that it has established the MTN Group Cloud Centre of Excellence and Project Nephos that will carefullly migrate selected business applications to Microsoft Azure."
     publishedDateTime: 2023-04-01T22:41:00Z
@@ -59,6 +45,34 @@ related:
         width: 906
         height: 597
         isCached: true
+  - title: "Leaked org chart shows the 15 most important leaders in Google's AI division as it races to catch Microsoft"
+    excerpt: "Central to those efforts is the company's AI division, led by Jeff Dean, Google's senior vice president of research and AI. An internal org chart seen by Insider shows the 14 other leaders under ..."
+    publishedDateTime: 2023-03-30T16:13:00Z
+    webUrl: "https://www.businessinsider.com/google-org-chart-ai-research-leaders-microsoft-chatgpt-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: "https://i.insider.com/6424738db643e80019df5bc2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "DBHawk Partners with Microsoft Azure, Lands Patent for Sensitive Data"
+    excerpt: "DBHawk developer Datasparc has entered into a new partnership with Microsoft that will increase its customers’ ability to work with data in the Azure"
+    publishedDateTime: 2023-03-29T00:17:00Z
+    webUrl: "https://www.datanami.com/2023/03/28/dbhawk-partners-with-microsoft-azure-lands-patent-for-sensitive-data/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2021/05/DBHawk.png"
+        width: 935
+        height: 527
+        isCached: true
   - title: "Kinaxis Brings Concurrent Supply Chain Planning to Microsoft Azure Marketplace"
     excerpt: "With supply chain elevated to a board-level topic, digital transformation of planning has become a top initiative. By bringing RapidResponse to the Microsoft Azure Marketplace, more companies will be able to take advantage of the supply chain agility Kinaxis delivers,"
     publishedDateTime: 2023-03-29T21:50:00Z
@@ -68,6 +82,33 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 45
+  - title: "Xoriant X-CELERATE Insights Analytics Solution Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to X·CELERATE Insights to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies SUNNYVALE,"
+    publishedDateTime: 2023-03-29T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-xoriant-x-celerate-insights-analytics-solution-now-available-/2023/03/29/9785521.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+  - title: "Microsoft Pushes Open Source 'Semantic Kernel' for AI LLM-Backed Apps"
+    excerpt: "Since recently introducing the open source Semantic Kernel to help developers use AI large language models (LLMs) in their apps, Microsoft has been busy improving it, publishing new guidance on how to use it and touting its capabilities."
+    publishedDateTime: 2023-03-30T22:38:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2023/03/30/semantic-kernel.aspx"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 36
+  - title: "Microsoft is dominating the AI wars…for now"
+    excerpt: "AI lead is far from guaranteed. When it comes to generative AI, Microsoft is dominating the conversation. After pouring billions into ChatGP"
+    publishedDateTime: 2023-03-29T23:09:00Z
+    webUrl: "https://www.aol.com/finance/microsoft-dominating-ai-wars-now-200037195.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 34
   - title: "MTN to migrate OSS/BSS to Microsoft Azure"
     excerpt: "South Africa-based MTN has joined the growing list of telcos that are making the move to public cloud. The company on Monday announced it has embarked on a programme of work to migrate various systems to Microsoft Azure."
     publishedDateTime: 2023-03-30T15:38:00Z

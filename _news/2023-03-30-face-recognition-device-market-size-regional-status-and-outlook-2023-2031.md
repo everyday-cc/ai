@@ -64,15 +64,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
-  - title: "Object Recognition Imaging Systems Market: Overview of the Regional Outlook"
-    excerpt: "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-03-28T20:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-overview-of-the-regional-outlook-2023-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
   - title: "Voice and Speech Recognition Market Trends and Challenges 2023 Industry Demand, Top Players Strategy, Size, Share and Forecast Report till 2031"
     excerpt: "Mar 29, 2023 (Alliance News via COMTEX) -- Global Voice and Speech Recognition Market Status, Trends and COVID-19 Impact Report 2021, Covid 19 Outbreak Impact research report added by Report Ocean, is an in-depth analysis of market characteristics ..."
     publishedDateTime: 2023-03-29T14:14:00Z

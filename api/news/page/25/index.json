@@ -2,6 +2,58 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2023-03-11-sd-times-news-digest-ibm-to-add-new-ai-capabilities-to-watson-threat-stack-supports-ruby-and-gitlabs-remote-work-report.md",
+      "title": "SD Times news digest: IBM to add new AI capabilities to Watson, Threat Stack supports Ruby, and GitLab’s Remote Work Report",
+      "excerpt": "IBM announced several new IBM Watson technologies designed to help organizations ... capabilities to come from IBM Research’s Project Debater, an AI system capable of debating humans on complex ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-ibm-to-add-new-ai-capabilities-to-watson-threat-stack-supports-ruby-and-gitlabs-remote-work-report/",
+      "originalUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-ibm-to-add-new-ai-capabilities-to-watson-threat-stack-supports-ruby-and-gitlabs-remote-work-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2020/03/ibm-watson.png",
+          "width": 1026,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-10T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-11-stop-the-spies-with-the-facial-recognition.md",
       "title": "Stop the spies with the facial recognition",
       "excerpt": "So, are two new bills in the California Legislature dealing with facial recognition technology worth supporting? The proposed laws are AB 642 by Assemblyman Phil Ting, D-San Francisco, and AB 1034 ...",
@@ -1125,58 +1177,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-the-top-4-examples-of-how-chatgpt-can-be-used-in-telecom.md",
-      "title": "The Top 4 Examples Of How ChatGPT Can Be Used In Telecom",
-      "excerpt": "Are you curious about how ChatGPT is revolutionizing the telecom sector? Check out this list of top 4 examples, including customer support, network optimization, and fraud detection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/03/10/the-top-4-examples-of-how-chatgpt-can-be-used-in-telecom/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/03/10/the-top-4-examples-of-how-chatgpt-can-be-used-in-telecom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/640adc9a03926496c67aa269/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/03/10/the-top-4-examples-of-how-chatgpt-can-be-used-in-telecom/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/03/10/the-top-4-examples-of-how-chatgpt-can-be-used-in-telecom/amp/",
-      "publishedDateTime": "2023-03-09T22:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

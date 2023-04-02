@@ -151,59 +151,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-30-leaked-org-chart-shows-the-15-most-important-leaders-in-googles-ai-division-as-it-races-to-catch-microsoft.md",
-      "title": "Leaked org chart shows the 15 most important leaders in Google's AI division as it races to catch Microsoft",
-      "excerpt": "Central to those efforts is the company's AI division, led by Jeff Dean, Google's senior vice president of research and AI. An internal org chart seen by Insider shows the 14 other leaders under ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-org-chart-ai-research-leaders-microsoft-chatgpt-2023-3",
-      "originalUrl": "https://www.businessinsider.com/google-org-chart-ai-research-leaders-microsoft-chatgpt-2023-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6424738db643e80019df5bc2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-30T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-29-hugging-face-reveals-generative-ai-performance-gains-with-intel-hardware.md",
       "title": "Hugging Face reveals generative AI performance gains with Intel hardware",
       "excerpt": "Learn More Nvidia’s A100 GPU accelerator has enabled groundbreaking innovations in generative AI, powering cutting-edge research that is reshaping what artificial intelligence can achieve. But in the fiercely competitive field of AI hardware, others are ...",
@@ -1536,6 +1483,60 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-13-nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes.md",
+      "title": "Nvidia’s GTC online event will feature 70 talks on generative AI | Greg Estes",
+      "excerpt": "Connect with top gaming leaders in Los Angeles at GamesBeat Summit 2023 this May 22-23. Register here. The 14th annual Nvidia GTC online event will have more than 650 sessions, including 70 alone on generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes/",
+      "originalUrl": "https://venturebeat.com/ai/nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/nvidia-gtc.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 701,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes/amp/",
+      "publishedDateTime": "2023-03-13T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Robotics",
+        "Google AI"
       ]
     }
   ],

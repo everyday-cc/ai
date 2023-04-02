@@ -35,6 +35,15 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "New Machine Learning Model Can Accurately Predict Events Like Tornadoes and Hail Eight Days in Advance"
+    excerpt: "Precise forecasting of occurrences such as tornadoes and hail up four to eight days in advance. As severe weather approaches with potential life-threatening hazards such as heavy rain, hail, or tornadoes,"
+    publishedDateTime: 2023-04-01T12:45:00Z
+    webUrl: "https://scitechdaily.com/new-machine-learning-model-can-accurately-predict-events-like-tornadoes-and-hail-eight-days-in-advance/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 18
 
 secured: "i4GkhpoLBVx2fS2v70oQ7xJgT8xaYF+y/UZrHEu2bsdbgMSfH0jl4aMJ/VHFARV7CFtXWxZskpyLiIJXcupZQTlizNIoMXGmYGB+cFypldt9KS2vqmumXJW76uqgbie4Fai39vpp4G6D3POVa7E8Ml6fh3T22SnqidnIdUNT7SCYO0I+gPh9JwEFmcgzRXvgMuPC7j0/vbt7veUH4J5Vg6p6Bp+0K3g9UZk2md95BWmlwaTq4yJLe5teyQu4LcYrr0DYuv/PTrZ+ASioGvPVI8O3d40XG9KmaDG2pG9QrFiKpbGdaWeIvAGY5+uTQ0cfKUD1MG5KiDLoe5iiAIGk5x3JHO95hCDyETQSKU1hmin2GUnIYKxEV9JxL2HQ9pYPx/5aL7NrkxJv5qLpT8eIxcknwhIAv2AQw5LIsw7EIDRJ3Xp4IU57a++QAjFzkDADVGl+PSZqpFHbZ+JjE2mFYkk9W1hNsGAtwoyfO+zN8Uo/H19V5y37w3vu+chJE4VQXx2WbgBYWu/xolE3zeN9oQ==;/WuP19GjaD9sEobsHq3d9Q=="
 ---

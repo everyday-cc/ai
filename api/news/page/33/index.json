@@ -2,6 +2,58 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2023-03-03-can-facebooks-ai-dream-resolve-its-revenue-nightmare.md",
+      "title": "Can Facebook’s AI Dream Resolve Its Revenue Nightmare?",
+      "excerpt": "Facebook owner Meta is setting up a new “generative AI” product group as it strives to claw back revenues. Can its AI dream resolve its privacy nightmare?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kateoflahertyuk/2023/03/03/can-facebooks-ai-dream-resolve-its-revenue-nightmare/",
+      "originalUrl": "https://www.forbes.com/sites/kateoflahertyuk/2023/03/03/can-facebooks-ai-dream-resolve-its-revenue-nightmare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61163cbb75226aecbb0e94e9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 824,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kateoflahertyuk/2023/03/03/can-facebooks-ai-dream-resolve-its-revenue-nightmare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2023/03/03/can-facebooks-ai-dream-resolve-its-revenue-nightmare/amp/",
+      "publishedDateTime": "2023-03-03T06:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-03-amazon-luna-every-free-game-with-prime-march-2023.md",
       "title": "Amazon Luna: Every Free Game With Prime (March 2023)",
       "excerpt": "Each month, Amazon Luna provides Prime subscribers with an array of free games. Here are all the titles that are currently available. Originally revealed in 2020 and made available to a select ...",
@@ -1132,58 +1184,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-68-of-americans-afraid-of-self-driving-cars-up-from-55-in-2022.md",
-      "title": "68% Of Americans Afraid Of Self-Driving Cars, Up From 55% In 2022",
-      "excerpt": "Santa Monica, using IONIQ 5 AV Tuesday, Feb. 21, 2023. (Allen J. Schaben / Los Angeles Times via Getty Images) Roughly 68% of Americans say they’re afraid of self-driving cars, according to a new poll by AAA, a huge jump from 2022 when 55% of Americans ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mattnovak/2023/03/02/68-of-americans-afraid-of-self-driving-cars-up-from-55-in-2022/",
-      "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/03/02/68-of-americans-afraid-of-self-driving-cars-up-from-55-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/640125a0ec7e342f308619bf/0x0.jpg?format=jpg&crop=1900,1068,x0,y98,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/03/02/68-of-americans-afraid-of-self-driving-cars-up-from-55-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/03/02/68-of-americans-afraid-of-self-driving-cars-up-from-55-in-2022/amp/",
-      "publishedDateTime": "2023-03-02T15:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

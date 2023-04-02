@@ -2,6 +2,57 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2023-03-01-is-this-a-real-raphael-painting-ai-says-yes-but-humans-arent-so-sure.md",
+      "title": "Is This a Real Raphael Painting? AI Says Yes, But Humans Aren’t So Sure.",
+      "excerpt": "For decades, a group of investors has been hoping to prove that an artwork found in an antique shop is by Raphael, considered one of the greatest painters of the Italian Renaissance",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/story/is-this-a-real-raphael-painting-ai-says-yes-but-humans-arent-so-sure-ede9ed54",
+      "originalUrl": "https://www.wsj.com/story/is-this-a-real-raphael-painting-ai-says-yes-but-humans-arent-so-sure-ede9ed54",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-722285/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/story/is-this-a-real-raphael-painting-ai-says-yes-but-humans-arent-so-sure-ede9ed54",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/story/is-this-a-real-raphael-painting-ai-says-yes-but-humans-arent-so-sure-ede9ed54",
+      "publishedDateTime": "2023-02-28T15:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-01-from-photons-to-behavior-torc-robotics-fortifies-ai-based-driving-capability.md",
       "title": "From Photons To Behavior: Torc Robotics Fortifies AI-Based Driving Capability",
       "excerpt": "Aiming to dominate the truck autoimation space, Torc Robotics is acquiring the Algolux team and intellectual property to super-charge their capabilities in deep learning, computer vision, and computational imaging.",
@@ -1090,50 +1141,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-kt-showcases-self-driving-delivery-robot-at-mwc.md",
-      "title": "KT showcases self-driving delivery robot at MWC",
-      "excerpt": "Chey Tae-won, chairman of SK Group, said in Barcelona, Monday (local time) that he will work on nurturing Korea's artificial intelligence (AI) industry ecosystem, saying the",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2023/02/133_346275.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/02/133_346275.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202302/753af40588424714809aeaaaa074b7d4.jpg",
-          "width": 980,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=346275",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=346275",
-      "publishedDateTime": "2023-02-28T00:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

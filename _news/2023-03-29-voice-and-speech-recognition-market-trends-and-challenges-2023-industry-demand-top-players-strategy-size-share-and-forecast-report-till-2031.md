@@ -70,15 +70,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
-  - title: "Object Recognition Imaging Systems Market: Overview of the Regional Outlook"
-    excerpt: "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-03-28T20:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-overview-of-the-regional-outlook-2023-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
   - title: "Face Recognition Device Market Size, Regional Status, and Outlook 2023-2031"
     excerpt: "We've been tracking the direct and indirect consequences of the COVID-19 outbreak on the Face Recognition Device market. To Know How Covid-19 Pandemic will Impact this Industry -https ..."
     publishedDateTime: 2023-03-30T03:47:00Z

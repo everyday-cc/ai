@@ -2,6 +2,57 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2023-02-24-ai-art-generator-qualcomm-gets-stable-diffusion-running-on-a-smartphone.md",
+      "title": "AI art generator: Qualcomm gets Stable Diffusion running on a smartphone",
+      "excerpt": "As smartphones become increasingly capable, more workloads are moving on-device and off the cloud. Qualcomm's MWC demo showcases the work of its AI research team.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-art-generator-qualcomm-gets-stable-diffusion-running-on-a-smartphone/",
+      "originalUrl": "https://www.zdnet.com/article/ai-art-generator-qualcomm-gets-stable-diffusion-running-on-a-smartphone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/14ca4fc738c432992007eab316ae42e201d3d6dd/2023/02/23/aab00648-18de-48b2-92ab-615b219308a6/stable-diffusion-picasso-guitar.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-art-generator-qualcomm-gets-stable-diffusion-running-on-a-smartphone/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-art-generator-qualcomm-gets-stable-diffusion-running-on-a-smartphone/",
+      "publishedDateTime": "2023-02-24T02:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-24-nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response.md",
       "title": "Nvidia Beats Earning Expectations And Looks Towards AI, Stock Jumps 14% In Response",
       "excerpt": "The AI market is set to take off—with one popular commentator comparing it to the rise of the Internet—and Nvidia’s chips are the tools of choice for many AI companies. According to CNBC, a New Street Research report found that Nvidia already has a ...",
@@ -1172,58 +1223,6 @@
         "Machine Learning",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-biomarker-identified-that-helps-diagnose-cause-of-cognitive-decline.md",
-      "title": "Biomarker identified that helps diagnose cause of cognitive decline",
-      "excerpt": "It can be difficult to determine whether cognitive decline in older adults is caused by vascular problems or dementia. New research has now identified a biomarker associated with the vascular ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/medical/biomarker-diagnose-cause-cognitive-decline/",
-      "originalUrl": "https://newatlas.com/medical/biomarker-diagnose-cause-cognitive-decline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/0da5c46/2147483647/strip/true/crop/2000x1333+0+1/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0d%2Fd4%2F6519632142a783a09701f8ac2aed%2Fdepositphotos-232740318-l.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/medical/biomarker-diagnose-cause-cognitive-decline/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/biomarker-diagnose-cause-cognitive-decline/?amp=true",
-      "publishedDateTime": "2023-02-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],
