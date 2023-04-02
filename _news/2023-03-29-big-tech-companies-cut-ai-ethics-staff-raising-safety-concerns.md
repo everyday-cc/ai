@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Companies ax ‘ethical AI’ teams, just as the tech begins to take off"
+    excerpt: "And Microsoft cut its Ethics and Society team, which was one of the groups that led research on responsible AI at the company, as part of its massive round of layoffs in January. Together ..."
+    publishedDateTime: 2023-03-31T08:36:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/03/30/tech-companies-cut-ai-ethics/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 54
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W7GWGR5PR7GXJFVIZ6F36QA5GU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Big tech companies cut AI ethics staff, raising safety concerns"
     excerpt: "“It is shocking how many members of responsible AI are being let go at a time when arguably, you need more of those teams than ever,” said Andrew Strait, former ethics and policy researcher at Alphabet-owned DeepMind and associate director at research ..."
     publishedDateTime: 2023-03-31T18:02:00Z

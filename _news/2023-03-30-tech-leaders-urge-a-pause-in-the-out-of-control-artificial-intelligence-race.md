@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Tech leaders urge a pause in the 'out-of-control' artificial intelligence race"
-excerpt: "Are tech companies moving too fast in rolling out powerful artificial intelligence technology that could one day outsmart humans?"
-publishedDateTime: 2023-03-29T21:05:00Z
-originalUrl: "https://www.wgbh.org/news/national-news/2023/03/30/tech-leaders-urge-a-pause-in-the-out-of-control-artificial-intelligence-race"
-webUrl: "https://www.wgbh.org/news/national-news/2023/03/30/tech-leaders-urge-a-pause-in-the-out-of-control-artificial-intelligence-race"
+excerpt: "A group of prominent computer scientists and other tech industry notables are calling for a 6-month pause to ponder the risks of powerful technology that spawned a successor to ChatGPT."
+publishedDateTime: 2023-03-30T01:05:00Z
+originalUrl: "https://wusfnews.wusf.usf.edu/2023-03-29/tech-leaders-urge-a-pause-in-the-out-of-control-artificial-intelligence-race"
+webUrl: "https://wusfnews.wusf.usf.edu/2023-03-29/tech-leaders-urge-a-pause-in-the-out-of-control-artificial-intelligence-race"
 type: article
 quality: 35
 heat: 35
 published: false
 
 provider:
-  name: WGBH
-  domain: wgbh.org
+  name: wusfnews.wusf.usf.edu
+  domain: usf.edu
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://wgbh.brightspotcdn.com/dims4/default/8448f92/2147483647/strip/true/crop/3852x2101+0+394/resize/990x540!/format/jpg/quality/70/?url=https%3A%2F%2Fwgbh-brightspot.s3.amazonaws.com%2F8d%2F20%2Fce66d49fe544718396bf4a361b07%2Fap23088563451293-ab528afe1c6739bc068b4f235b9d2279bd996a8f.jpg"
-    width: 990
-    height: 540
+  - url: "https://npr.brightspotcdn.com/dims4/default/e707a8c/2147483647/strip/true/crop/3852x2022+0+433/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F03%2F29%2Fap23088563451293-ab528afe1c6739bc068b4f235b9d2279bd996a8f.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "UABfwVP6ch61m+L7oKHU/pbtA+pWTAlpvW760PCnvIrvoXtE1pBBRxkk9BdBmG9as7GjJYQyXJ/WOOgAzNASx89EBgX+PvPvex7MJAkcRkmtZAQEi/DyJST0u3qXMyVIp31jnTOTGpq+awa+GqCB5aiVlOyNXkb2UPWT3krwL3RrMUCAgkRXDaf7f5oa6fQ3F2jwsEMY5a7itmplpSOn9Frr0m1dHkeaSaiOAkv/mTno/0rHldbkABuwt/FyQwFWwE0kkdLMg3epsGzbJQJkTP3H4bykjypzCNmbiTYMfE9wx2HWQq9AE2pZBrPIGD0irEKLHCq4RZiF5gFxPBeHZQXBPPU+NO2Zhr/efl/YAh4=;vamUV3Ra40D7r0nI0ECykg=="
+secured: "VuFiHgNPMqo3WrsXWPJwPSgG+2JIsU8U117RaxRI/XL0KE8jCnNcyZSXgtWbjvH5G8x+Fvg4SMpP0z59GuMfl2RAYVvbSmbt4JBykgEkc9a8c9pnOElXFzuBKi8OKw0L7Wj2h5cBYThZ3byA5oh+AW7mu1qeTNMva/HejR9bC5HGmA2mUwfV8HEwfXJ0kyiRddS6fFB3mp8LWVwfTHeJIuhusrggQUU5WyufX3IyDMlEcTNnvos2qrNInQJDRsC6iA1AP6EkIbEmmMaGVSaXJ31RZOvzRA7z3gflR+NSAQD6HwjByOhA5TRidAJNtNSI8yk2/z9rSq6sxnDsfYUciBhYPc6f/n+x6y4V0ZZzg3M=;8o6+nUk4oQIMSbXAIMxvEg=="
 ---
 

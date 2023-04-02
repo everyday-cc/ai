@@ -109,22 +109,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Adjust Your AI Startup Dreams About Using ChatGPT Because OpenAI Says There Are These Starkly Prohibited Uses, Per AI Ethics And AI Law"
-    excerpt: "Into all of this comes a slew of AI Ethics and AI Law considerations. I’ll be interweaving AI Ethics and AI Law related considerations into this discussion. The Things That You Cannot Use ChatGPT For I’ll give you a quick guided tour of the things you ..."
-    publishedDateTime: 2023-03-28T11:06:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/28/adjust-your-ai-startup-dreams-about-using-chatgpt-because-openai-says-there-are-these-starkly-prohibited-uses-per-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/28/adjust-your-ai-startup-dreams-about-using-chatgpt-because-openai-says-there-are-these-starkly-prohibited-uses-per-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/28/adjust-your-ai-startup-dreams-about-using-chatgpt-because-openai-says-there-are-these-starkly-prohibited-uses-per-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6421fbe4d81802b564e2d103/0x0.jpg?format=jpg&crop=2118,1413,x0,y145,safe&width=1200"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Is ChaGPT Fast Becoming ChatMD? Introducing Generative AI To Healthcare"
     excerpt: "Syntegra is a startup using generative AI to create synthetic health data and its technology is being tested by Janssen Pharmaceutical Cos., a drug company owned by Johnson & Johnson. The synthetic data has been validated by Janssen’s data scientists ..."
     publishedDateTime: 2023-03-31T13:57:00Z

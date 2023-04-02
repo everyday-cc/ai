@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/03/29/tech-companies-ditch-ai-
 webUrl: "https://www.fool.com/investing/2023/03/29/tech-companies-ditch-ai-ethics-staff-as-panic-rise/"
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://chronicle.brightspotcdn.com/dims4/default/a78be29/2147483647/strip/true/crop/2600x1365+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.amazonaws.com%2Fca%2Fcd%2F7389cc4a45d4ac158d78d214e3a6%2Fplain-041323-ai-uf.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Companies ax ‘ethical AI’ teams, just as the tech begins to take off"
+    excerpt: "And Microsoft cut its Ethics and Society team, which was one of the groups that led research on responsible AI at the company, as part of its massive round of layoffs in January. Together ..."
+    publishedDateTime: 2023-03-31T08:36:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/03/30/tech-companies-cut-ai-ethics/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 54
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W7GWGR5PR7GXJFVIZ6F36QA5GU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Big tech companies cut AI ethics staff, raising safety concerns"
     excerpt: "Big Tech companies have been slashing staff from teams dedicated to evaluating ethical issues around deploying artificial intelligence, leading to concerns about the safety of the new technology as it becomes widely adopted across consumer products."

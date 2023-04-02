@@ -60,20 +60,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
-  - title: "Embedded Voice Recognition System Market - Global Industry Analysis, Size, Growth, Trends and Forecast 2023 to 2030 with an impacting CAGR 13.8%"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (Prime PR Wire via Comtex) -- This \"Embedded Voice Recognition System Market\" report offers details on the size, scope, and potential of the industry."
-    publishedDateTime: 2023-03-28T09:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/embedded-voice-recognition-system-market---global-industry-analysis-size-growth-trends-and-forecast-2023-to-2030-with-an-impacting-cagr-138-2023-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "EdlbGdJM/0PLOTeIPK46TGDhvhg7FM0sjvmH5Oo+7hQELKQSVjyDRdI7XTLvU540+u5WGFvKSKeCumI7aPdvPDFyFq5GBTWYbpnqyvEoq2NFXskiZUrCIDU2hB6XVIMJBCDgQK4n5vLzL6XM5bKgn931l4u0d5Y6wKmELUS2uvgqnDMYhyeBYgVNBzj1iSaQNU7g+8wqDMPEWwS7O0Ya766Qitgqv76bmhEwFxVjWi8OEcOGh9EMHkcI+IFE5QaIWVuzhfzVMfCOqLcR5X0eV9atBNWQdWD3I1YX4+e/bQG7787PxIcpnNccv+ttF7zLBwY7+OZ7JyLwQNogWw2wCp5ktBOmU2dqLJko7+SvOx0=;px4XXkyFfKPhSZcBwZkyOw=="
 ---

@@ -37,6 +37,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 58
+  - title: "Elon Musk and a handful of AI leaders ask for ‘pause’ on the tech"
+    excerpt: "A group of business leaders and academics signed a letter asking companies like OpenAI, Google and Microsoft to stop training more powerful AI systems so the industry can assess the risks they pose."
+    publishedDateTime: 2023-03-31T13:15:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/03/29/ai-letter-pause/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QXNG2SWOGQI63CIHCVXQHEGQQE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "MIT scientists, tech leaders call for ‘pause’ in artificial intelligence deployments"
     excerpt: "He said this policy avoided the most ethically difficult questions about genetic engineering, while letting scientists continue research in less controversial areas such as gene therapy. If AI ..."
     publishedDateTime: 2023-03-30T08:14:00Z
