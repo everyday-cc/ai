@@ -41,6 +41,20 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 64
+  - title: "Lilt introduces Contextual AI Engine for Translation; Outperforms Google Translate and GPT-4 on accuracy, latency and cost"
+    excerpt: "Today we’re releasing the next generation of our revolutionary language technology.” Contextual AI Engine Outperforms Google Translate and GPT-4 Today, Lilt released Contextual AI Engine ..."
+    publishedDateTime: 2023-03-30T04:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/lilt-introduces-contextual-ai-engine-for-translation-outperforms-google-translate-and-gpt-4-on-accuracy-latency-and-cost-2023-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI ethics group asks FTC to investigate OpenAI"
     excerpt: "The Center for AI and Digital Policy, or CAIDP, made the request in an FTC complaint released today. At the center of the complaint is the GPT-4 model that OpenAI debuted earlier this month. GPT-4 is the startup’s most advanced neural network to date."
     publishedDateTime: 2023-03-30T19:02:00Z
@@ -69,6 +83,6 @@ related:
       domain: marketingdive.com
     quality: 19
 
-secured: "OGa1DyZ5YgpF4xTHVxm8JDDFNyT/SJIM4eYJnPd8VM0ItC/CWm7NQ68ANz0wyYwzROAWyB9nWN9M1feeELW3cp/PosmOCcQSa54smoQa+EQY8uQGmVtsNbrMmMXEocBAOvrwHcRyPshyRji9xEiG00HjzG2nvpXbj4GD1iiTe7HYOSCCkFGAG6KUdEeRGJNn6lKTt5iEUxaJmVcfJsjTZbu6hmO/U9E+RNVCeYKf5XclgbU0U/kDNM4vnzhkHYWIReuLoYGkcQ6C7KoMLec5QccjyhikV/jDKZSrq31P5T6hGXUSGqw8ji4ls/81jEIwRlylzvjVffl088yYwFeCbUbDD21PF7AJuKieU+rs4ocVeUqcgrmDrlDrRjtPa/jbGuGRh5rwax4sUQCSgJBiD1Pplf2krkogrkq7Jq++20caoTJkElrVfacJSQXWWXKybU+CAeFyuYVlAMoPwdpwNljMezVFso+fxEmX2N0/4mVIYnx6cdBTxcboa6Jlq0WR2TeOUFQDww1LeRWRTWQ1bw==;sqrbHkCfCQpjg472p9j8wA=="
+secured: "v/6TfKi0yIrTbTRu9roWcwfx4sgCcwhARza3BhOd/yfIYKvYr8r9At8rNN20Ow1qSn+wKJBb5zaE8PM0G42SoLSEaBdFOp3GEW2Szp3rRfDwG8O0A33uydr9o4dFGBEabEhiMjC8p9NDczA2he8VKXVpbnMP2q3CWTJh8aDOkDdU1E3Q/7ljV2Tt5C6DES/OP1DEjO+YKLF6MTCYLksASc5ntp0q/FunI0NRqxztKBOT981LxpKUucKVMTMIX0ny0inyYPJ3xXuf+GqvnmAwEs5Q75RqlCBS/OPXRVojXFB2896vH00xDFyfGcpVp5UvG8pNn9VmKGpw5C8KwHNqVR5pE38NLlU8QFhY1uPHJjyIA3f92zCtPuHPSo9YPKSqmUcNxx0YE/3ndmNJrkB9ODxrltXqKLaSdKqNMF06OHJf0fDRASTUDlkWrUExDziuqqfpIcd1ZEQpAX9JvBu6i0eGuXhYdjjdSSiQJZkdCg5iVwACcBGevF5n2SXTIT/p41099KwaitGvZaVARMRKAA==;0AlAsKZEpr+A52htdKghGQ=="
 ---
 

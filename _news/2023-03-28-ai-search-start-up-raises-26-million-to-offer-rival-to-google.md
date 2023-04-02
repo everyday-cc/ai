@@ -25,65 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "AI Search Startup Raises $26 Million to Offer Rival to Google"
-    excerpt: "Perplexity AI, which makes a conversational search engine using artificial intelligence, has raised $25.6 million in a funding round led by New Enterprise Associates, the latest deal in the booming AI sector. Perplexity is part of a growing wave of ..."
-    publishedDateTime: 2023-03-28T11:24:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-03-28/ai-search-startup-raises-26-million-to-offer-rival-to-google"
+  - title: "Leaked org chart shows the 15 most important leaders in Google's AI division as it races to catch Microsoft"
+    excerpt: "Central to those efforts is the company's AI division, led by Jeff Dean, Google's senior vice president of research and AI. An internal org chart seen by Insider shows the 14 other leaders under ..."
+    publishedDateTime: 2023-03-30T16:13:00Z
+    webUrl: "https://www.businessinsider.com/google-org-chart-ai-research-leaders-microsoft-chatgpt-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: "https://i.insider.com/6424738db643e80019df5bc2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Google Partners with AI Startup Replit to Take on Microsoft’s GitHub"
+    excerpt: "Alphabet Inc.’s Google is striking a partnership to combine its artificial intelligence language models with software from startup Replit Inc. that helps ... will rely on Google’s language-generation AI to improve its ability to suggest blocks ..."
+    publishedDateTime: 2023-03-28T13:19:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-03-28/google-partners-with-ai-startup-replit-to-take-on-microsoft-s-github"
     type: article
     provider:
       name: Bloomberg L.P.
       domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igzs8nM6px7s/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Self-Driving Startup Venti Raises $28.8 Million to Speed up Growth"
-    excerpt: "Self-Driving Startup Venti Raises $28.8 Million to Speed up Growth By Nick Carey LONDON (Reuters) - Self-driving startup Venti Technologies said on Tuesday it has raised $28.8 million in Series A funding to speed up the growth of its autonomous vehicle (AV ..."
-    publishedDateTime: 2023-03-28T12:16:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-03-28/self-driving-startup-venti-raises-28-8-million-to-speed-up-growth"
+    quality: 64
+  - title: "Microsoft is dominating the AI wars…for now"
+    excerpt: "AI lead is far from guaranteed. When it comes to generative AI, Microsoft is dominating the conversation. After pouring billions into ChatGP"
+    publishedDateTime: 2023-03-29T23:09:00Z
+    webUrl: "https://www.aol.com/finance/microsoft-dominating-ai-wars-now-200037195.html"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
-  - title: "Self-driving startup Venti raises $28.8 mln to speed up growth"
-    excerpt: "LONDON, March 28 (Reuters) - Self-driving startup Venti Technologies said on Tuesday it has raised $28.8 million in Series A funding to speed up the growth of its autonomous vehicle (AV) business for customers the logistics and supply chain industry."
-    publishedDateTime: 2023-03-28T12:05:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/self-driving-startup-venti-raises-288-mln-speed-up-growth-2023-03-28/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
-  - title: "AI search startup raises $26 million to offer rival to Google"
-    excerpt: "Perplexity AI, which makes a conversational search engine using artificial intelligence, has raised $25.6 million in a funding round led by New Enterprise Associates, the latest deal in the booming AI sector."
-    publishedDateTime: 2023-03-30T14:39:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/mar/28/ai-search-start-up-raises-26-million-to-offer-riva/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 19
-  - title: "Impact Observatory raises $5.9 million to apply AI to satellite imagery"
-    excerpt: "Impact Observatory raises $5.9 million to apply AI to satellite imagery Impact Observatory, a company that pairs satellite imagery with artificial intelligence for mapping and monitoring, raised $5.9 million in seed funding."
-    publishedDateTime: 2023-03-29T23:34:00Z
-    webUrl: "https://spacenews.com/impact-observatory-raises-5-9-million-to-apply-ai-to-satellite-imagery/"
-    type: article
-    provider:
-      name: SpaceNews
-      domain: spacenews.com
-    quality: 19
-  - title: "AI satellite mapping startup Impact Observatory raises funding in D.C."
-    excerpt: "A D.C. serial entrepreneur raised a multimillion-dollar seed round for his latest venture, an AI-powered geospatial mapping startup called Impact Observatory. And now, he's planning a hiring spree."
-    publishedDateTime: 2023-03-29T13:00:00Z
-    webUrl: "https://www.bizjournals.com/washington/inno/stories/news/2023/03/29/impact-observatory-ai-dc-satellite-mapping-funding.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
+      name: AOL
+      domain: aol.com
+    quality: 34
 
 secured: "KWvQUDa7HwwoHzYfL3R+qCowF2w+7muGs2dDiZPixMcggBBlThJtjfCDHEpZkZ/oKOg9AaUsGEK7dhSaUxjQTQ9LZTPRUR4Pb1Zn8aUatjDw3WT9G9A7sF0vzFcLH2/Y4DN034D6oglM8eNl2YL1QhQlRlnet9TLfl8weC1z3LgpWRP+NPB4L8DrXeX7u/LTLUfLyUFx4uNgez5kibtHFI+xNdI3fRJoZ6fAD/XUgiZv59x/N2mH6YqJk4E8iepHRYonnY0YKhU2n0y/lcifYMFoeJA57QhxIOs17qui14zSzO1XQYsRdWlPHummB79hJT5phOZ1RJnGtQfw9nahpHeOVqehGb0P2NUTuKVWWia8PRkViAzsGbeeri+6hz1EaxDJocAsCwUfND84CMKdrewOBDfJ9M71c3fP4ycMjDaj1iAUqyMXbsHlWHbSG6o0g1oTnKmxocC2dgdk62kURnOwjbHxYpq+tr6WL2pETpzMR56xqkYNf1pp6NFV1r965c4dHZO0Wx5m2avujvyQRg==;0D0tyl6Ki2ou8077Tner8A=="
 ---

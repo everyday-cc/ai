@@ -28,17 +28,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 66
-  - title: "From automation to innovation: How artificial intelligence is transforming the enterprise"
-    excerpt: "In recent years, artificial intelligence (AI) has become a buzzword in the business world, with many companies recognizing its potential to transform the way they operate. AI is increasingly being used to automate routine tasks, improve customer ..."
-    publishedDateTime: 2023-03-28T07:40:00Z
-    webUrl: "https://www.dqindia.com/from-automation-to-innovation-how-artificial-intelligence-is-transforming-the-enterprise/"
-    ampWebUrl: "https://www.dqindia.com/from-automation-to-innovation-how-artificial-intelligence-is-transforming-the-enterprise/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/from-automation-to-innovation-how-artificial-intelligence-is-transforming-the-enterprise/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 32
   - title: "Artificial intelligence innovation: Leading companies in adaptive cruise control for the automotive industry"
     excerpt: "In the last three years alone, there have been over 1.2 million patents filed and granted in the automotive industry, according to GlobalData’s report on Artificial intelligence in Automotive: Adaptive cruise control. However, not all innovations are ..."
     publishedDateTime: 2023-03-28T12:31:00Z

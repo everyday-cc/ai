@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/23664519/ai-industry-pause-open-letter-so
 webUrl: "https://www.theverge.com/23664519/ai-industry-pause-open-letter-societal-harms"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 1200
         height: 845
         isCached: true
-  - title: "Tech Titans Say Artificial Intelligence Is Progressing Too Quickly, Urge Companies To Slow Down"
-    excerpt: "One group went so far as to ask the Federal Trade Commission to open an investigation into the release of the most popular artificial"
-    publishedDateTime: 2023-03-30T16:57:00Z
-    webUrl: "https://www.nysun.com/article/tech-titans-say-artificial-intelligence-is-progressing-too-quickly-urge-companies-to-slow-down"
-    type: article
-    provider:
-      name: New York Sun
-      domain: nysun.com
-    quality: 5
 
 secured: "CDW/eTgR25RukRJXOreNcToD2VQ8l8x7iQwtUB1FlcCdnKH+0FyK0iQiRIO0h9vvd6mvgv0kZeGwLP1TjQU5Aa4LPG+2icG9IY5Qxy6m+gstwo5A5VbOG97w0k6BLED2h/lYr5vw3hQBmtqlJ+vUdtS50sYxjieSMQ9ygg/IBEAZXSoRvw10NJbNXIpdcLMM+bTe5cvGGt67WRFPAeBdf85H0V6R5G8m1FQ2PnwToKnaOggO2Q9AlK2TqU7dJkTKBd6qaM6KYA+BeGVZ9DHhQQisGSSDOeUcLTLK0hTvGhCxsaWBPkx8QIqaQsA3plLusifByaX3C4UShwZpP3DmuitFgF/fLYx4v7noIHb0qI0=;WJO+bl7jRHqtalGKFgLLEQ=="
 ---

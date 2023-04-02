@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Tech Companies Ditch AI Ethics Staff As Panic Rises"
+    excerpt: "Google, Meta, Amazon, and Microsoft have all made cuts to their AI ethics teams, according to the FT. While companies may be shedding AI ethics voices internally, some experts have given their ..."
+    publishedDateTime: 2023-03-30T05:46:00Z
+    webUrl: "https://www.fool.com/investing/2023/03/29/tech-companies-ditch-ai-ethics-staff-as-panic-rise/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 84
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/726476/featured-daily-upside-image.jpeg"
+        width: 1920
+        height: 1440
+        isCached: true
   - title: "AI ethics staff layoffs across big tech bring safety concerns"
     excerpt: "Companies including Amazon, Google, Meta, Microsoft and Twitter are resorting to including employees responsible for overseeing AI ethics in staff redundancies, to cut further costs, reported the Financial Times. The amount of staff affected is said to be ..."
     publishedDateTime: 2023-03-29T21:27:00Z
@@ -33,6 +47,20 @@ related:
         width: 2560
         height: 1280
         isCached: true
+  - title: "Artificial Intelligence and Research Ethics"
+    excerpt: "Register now for “Artificial Intelligence and Research Ethics,” a virtual forum exploring how institutions must reconsider their ethics protocols in the face of risks posed by emerging AI ..."
+    publishedDateTime: 2023-03-29T21:00:00Z
+    webUrl: "https://www.chronicle.com/events/virtual/artificial-intelligence-and-research-ethics"
+    type: article
+    provider:
+      name: The Chronicle of Higher Education
+      domain: chronicle.com
+    quality: 54
+    images:
+      - url: "https://chronicle.brightspotcdn.com/dims4/default/a78be29/2147483647/strip/true/crop/2600x1365+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.amazonaws.com%2Fca%2Fcd%2F7389cc4a45d4ac158d78d214e3a6%2Fplain-041323-ai-uf.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Big tech companies cut AI ethics staff, raising safety concerns"
     excerpt: "Big Tech companies have been slashing staff from teams dedicated to evaluating ethical issues around deploying artificial intelligence, leading to concerns about the safety of the new technology as it becomes widely adopted across consumer products."
     publishedDateTime: 2023-03-29T04:00:00Z
@@ -42,6 +70,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "Tech Titans Say Artificial Intelligence Is Progressing Too Quickly, Urge Companies To Slow Down"
+    excerpt: "One group went so far as to ask the Federal Trade Commission to open an investigation into the release of the most popular artificial"
+    publishedDateTime: 2023-03-30T16:57:00Z
+    webUrl: "https://www.nysun.com/article/tech-titans-say-artificial-intelligence-is-progressing-too-quickly-urge-companies-to-slow-down"
+    type: article
+    provider:
+      name: New York Sun
+      domain: nysun.com
+    quality: 5
 
 secured: "51rs48Oihk0AIZ+iFWBUjM3XH4gZiy53cqJOz7lDWZUNDUpezQ72wGCi65h/FPnbz3gWa9JeCJo3ceQimyjAjnIqwufjgWf9yB5tO959qL7lS7AOvcZ5f/zGLrTz7JjuGlbFOA7RGqYT86VE7c8kZFZIldTVE7JkGJX1CTkaYJHQ9DiW1jigUDtSkCqf07wc6M5IB5uGJ4d5kkwVmDsuc1YqsLw3/Ma8eyp+5D1eDZHRTdaY/l218Txz3hdmU7eZ3BBSOculbwOe1kP6ltIJuKsnnz+bSOZo+z1u0JT9sp14H4hTOJPHJuZj/ellnPy+s2x3lLBBgO3n8/KVGn4wPEd0t2WhU/XSiLtKPWlbGMM=;hxJMNxSw2V0pt00IjC+fGA=="
 ---

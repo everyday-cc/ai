@@ -67,14 +67,19 @@ related:
       domain: outlookindia.com
     quality: 37
   - title: "Hyperglot AI Revolutionizes Niche with Multilingual Text Translation, Fast Processing Prompt Engine, and Crystal-Clear, Stunning Art"
-    excerpt: "The team at Hyperglot started on the project in 2020, before AI art programs became widely known. Now, they have announced the launch of the only AI app that supports multiple languages while also being based on blockchain tech."
-    publishedDateTime: 2023-03-29T21:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/hyperglot-ai-revolutionizes-niche-with-multilingual-text-translation-fast-processing-prompt-engine-and-crystal-clear-stunning-art-2023-03-29"
+    excerpt: "Now, they have announced the launch of the only AI app that supports multiple languages while also being based on blockchain tech. The Hyperglot app is available for both iOS and Android devices ..."
+    publishedDateTime: 2023-03-29T21:22:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/ab31562885/hyperglot-ai-revolutionizes-niche-with-multilingual-text-translation-fast-processing-prompt-engin"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "VzettZPIWF54vqq/HMsMc2tDPNRvcKZTiT+CAL4lCvdDYujGLaSQ9hv1Gkdudm2A9RS3ph/nUJBfnipaHGBgY4yTXSrOnBQtVNL4lotRR+9G3mueVljbtY/T5XCASA2sLpnZtDbVdfespkp1psQcFmXc4GugLNeux3YZKJLGaM/1atVD09qzvFlAlEeuHtTqpYO2gkTEeve/bPg14m5K18Zv9P0o4hDTrXCbllVQxaVnDcrQ0FaKgLqOa8+R+lI+fcQqV9RdjuIF8v+UkDIKfn0mn2tWQyJgGtHla3qwr8ZVlgMtX92i/6SrMaZlqMobneVzEsRmskvJMuQzj5GWXcm+66NxrAtni2XWm2CMfyk=;nrnlAh62e25RxFKQTubq0A=="
 ---

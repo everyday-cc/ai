@@ -23,24 +23,84 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence as a Service Market Size, Share and Forecast 2031"
-    excerpt: "Top “ Artificial Intelligence as a Service Market ” Size 2023 Key players Profiled in the Report are [Baidu, Amazon Web Services, Salesforce, Intel, Microsoft, FICO, Bigml, IBM, SAS Institute, Google,"
-    publishedDateTime: 2023-03-30T03:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-size-share-and-forecast-2031-2023-03-29"
+  - title: "Voice Recognition Market New Ready Report Analysis 2029"
+    excerpt: "Top “ Voice Recognition Market ” Size 2023 Key players Profiled in the Report are [, International Business Machines Corporation, Google, Inc., Advanced Voice Recognition Systems, Inc., Nuance Communications,"
+    publishedDateTime: 2023-03-30T00:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-new-ready-report-analysis-2029-2023-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech Recognition Market New Ready Report Analysis 2028"
+    excerpt: "Top “ Speech Recognition Market ” Size 2023 Key players Profiled in the Report are [VoiceVault, Microsoft, Agnitio, ReadSpeaker Holding, LumenVox, Raytheon BBN Technologies, ATandT, Fluent, Iflytek, Nuance,"
+    publishedDateTime: 2023-03-29T04:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-new-ready-report-analysis-2028-2023-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+  - title: "Top \"Image Recognition in Retail Market\" Future 2023-2031, With 113 Pages"
+    excerpt: "Report Highlights with 113 pages: -\"The global Image Recognition in Retail market size was valued at USD 1743.25 million"
+    publishedDateTime: 2023-03-29T01:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/top-image-recognition-in-retail-market-future-2023-2031-with-113-pages-2023-03-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
-  - title: "Artificial Intelligence and Robotics in Aerospace and Defense Market Trends, Industry Demand and Scope, Top Players Analysis, Forecast 2023 - 2031"
-    excerpt: "Top “ Artificial Intelligence and Robotics in Aerospace and Defense Market ” Size 2023 Key players Profiled in the Report are [, Intel Corporation, Iris Automation Inc., The Boeing Company, Nvidia Corporation,"
-    publishedDateTime: 2023-03-30T03:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-trends-industry-demand-and-scope-top-players-analysis-forecast-2023---2031-2023-03-29"
+  - title: "Object Recognition Imaging Systems Market: Overview of the Regional Outlook"
+    excerpt: "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-03-28T20:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-overview-of-the-regional-outlook-2023-03-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 47
+  - title: "Self-Driving Vehicle Testing Services Market Current Scenario Analysis Report till 2029"
+    excerpt: "Mar 29, 2023 (The Expresswire) -- Absolutereports.com has conducted research titled \"Self-Driving Vehicle Testing Services Market\" for the years 2023 to 2029, which presents a detailed analysis of market dynamics and trends that will shape the future of ..."
+    publishedDateTime: 2023-03-29T22:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicle-testing-services-market-current-scenario-analysis-report-till-2029-2023-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice and Speech Recognition Market Trends and Challenges 2023 Industry Demand, Top Players Strategy, Size, Share and Forecast Report till 2031"
+    excerpt: "Mar 29, 2023 (Alliance News via COMTEX) -- Global Voice and Speech Recognition Market Status, Trends and COVID-19 Impact Report 2021, Covid 19 Outbreak Impact research report added by Report Ocean, is an in-depth analysis of market characteristics ..."
+    publishedDateTime: 2023-03-29T14:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-trends-and-challenges-2023-industry-demand-top-players-strategy-size-share-and-forecast-report-till-2031-2023-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Aviation Market [Latest Report] Review Report 2023 Alongside Insights, Figures till 2029"
+    excerpt: "Artificial Intelligence in Aviation Market Size 2023-2029 | New Report (128 Pages) | Analytics | In This Reports"
+    publishedDateTime: 2023-03-30T05:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-latest-report-review-report-2023-alongside-insights-figures-till-2029-2023-03-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
 
 secured: "c+2ne42E0a3OIOA1iNOTjusPRaLcyBNkDWRRVk5JsRCQNAhvd8Zrcp3VrJTf/YDH9RJ+WvAGOifZNseMu+VVoBuuQ187ORIcto4rcPIQ53lVKhU67ZrW0boK6IzUb6azb+dtcXnvpSQIIWeYqXwTTaZps1m8d9galMWCbslKcuZkBXt7djGOg1bPfov/po933c6725bsonPRRqG5qBrUUu2nSpeqFhk5QDDqPghs/U6kxfP/ZvmVRip4HUc3Jp4+95clRqNg9Fwot4qcjmaGu4d14SQkcvSg+iRjR3ILkiEjtns+q6vVvu806o82GTw88GQGkpWI0QTBZgX8OxMHSMsC9YOJXx3FyjEDAKnt8G8=;X4UFKVXEOgMJLFWtHiQ5Og=="
 ---

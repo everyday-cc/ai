@@ -18,38 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Google Partners with AI Startup Replit to Take on Microsoft’s GitHub"
-    excerpt: "Alphabet Inc.’s Google is striking a partnership to combine its artificial intelligence language models with software from startup Replit Inc. that helps ... will rely on Google’s language-generation AI to improve its ability to suggest blocks ..."
-    publishedDateTime: 2023-03-28T13:19:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-03-28/google-partners-with-ai-startup-replit-to-take-on-microsoft-s-github"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 64
-  - title: "DBHawk Partners with Microsoft Azure, Lands Patent for Sensitive Data"
-    excerpt: "DBHawk developer Datasparc has entered into a new partnership with Microsoft that will increase its customers’ ability to work with data in the Azure"
-    publishedDateTime: 2023-03-29T00:17:00Z
-    webUrl: "https://www.datanami.com/2023/03/28/dbhawk-partners-with-microsoft-azure-lands-patent-for-sensitive-data/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2021/05/DBHawk.png"
-        width: 935
-        height: 527
-        isCached: true
-  - title: "Microsoft is dominating the AI wars…for now"
-    excerpt: "AI lead is far from guaranteed. When it comes to generative AI, Microsoft is dominating the conversation. After pouring billions into ChatGP"
-    publishedDateTime: 2023-03-29T23:09:00Z
-    webUrl: "https://www.aol.com/finance/microsoft-dominating-ai-wars-now-200037195.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 34
   - title: "Google and Replit’s Quest to Become the Next Copilot X"
     excerpt: "Google Cloud’s partnership with Replit will strengthen its hold in the developer environment space, and compete with Microsoft."
     publishedDateTime: 2023-03-30T10:44:00Z
@@ -64,15 +32,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "QualityKiosk announces a Strategic Partnership with Microsoft Power Platform"
-    excerpt: "Founded in 1975, Microsoft Corporation is one of the largest American multinational technology corporations producing computer software, consumer electronics, personal computers, and related services. With their Power Platform, Microsoft is encouraging ..."
-    publishedDateTime: 2023-03-28T12:08:00Z
-    webUrl: "https://www.livemint.com/brand-stories/qualitykiosk-announces-a-strategic-partnership-with-microsoft-power-platform-11679998488145.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 16
 
 secured: "vbi8MLD2qBJQBKztYqIcfAM22ZwwXOqBt1LSD6y2Pskl8cvuFq+NFzvpGiT7GIs5ZdJp9HhyG/0urcme5sXvWDHQpePR0FofEqoKO8grWnQBticXoQLZLRb6Dwt5wL0swj6lkvg9OCHoVJoZX5sQQwcZtRbHcelEf69pb6LI2x4MEhGASH46PSjOC3EEaF2jRnKws5y904ZLYYnkig3oHsFi63nVS2Ilh7ifU4Jf9U5L5jmkFD4KUkomdtGXZnNzOG2u6i9Rs8YV9M8Lj9nIu54m8sJ28tbX7Ff7U3hZREPAKg4CKtyc0POY2/GirrochpkHfllbb0xqLStktXKcCkMOIEtimyrRwzd6PE+jxGzGfEoZHwUuzXe2pnZSGYso2DKJaxy4gUEGVxwkMZSz+Sb6GQI2JLO1wORVyHy/R7THFGZ7+sXhtuRTGZnZhwS7C4tOHf7attrx5PqWVLbi8cuXKr57iW3oSpiw4cdELSuS14TZ9eAqqlyGjXuCRRQl0KHJwsBRFlBt9VpTQ9sZrw==;JJBQxldotXKesC5VPsf2sw=="
 ---

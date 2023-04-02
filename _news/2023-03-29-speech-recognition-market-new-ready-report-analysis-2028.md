@@ -23,34 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Automatic Speech Recognition(ASR) Software Market Share | Business till 2030"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- “Automatic Speech Recognition(ASR) Software Market” Are a Collection of Information and Analysis Obtained From Diverse Sources to Aid ..."
-    publishedDateTime: 2023-03-28T07:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-share-business-till-2030-2023-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "VOICE RECOGNITION SYSTEM Market | Newsest Research"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- [128 Insights] Top “VOICE RECOGNITION SYSTEM Market” Size 2023 Key players Profiled in the Report are [Nuance Communications ..."
-    publishedDateTime: 2023-03-28T07:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-system-market-newsest-research-2023-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice Recognition Market New Ready Report Analysis 2029"
     excerpt: "Top “ Voice Recognition Market ” Size 2023 Key players Profiled in the Report are [, International Business Machines Corporation, Google, Inc., Advanced Voice Recognition Systems, Inc., Nuance Communications,"
     publishedDateTime: 2023-03-30T00:19:00Z
@@ -60,6 +32,47 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Top \"Image Recognition in Retail Market\" Future 2023-2031, With 113 Pages"
+    excerpt: "Report Highlights with 113 pages: -\"The global Image Recognition in Retail market size was valued at USD 1743.25 million"
+    publishedDateTime: 2023-03-29T01:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/top-image-recognition-in-retail-market-future-2023-2031-with-113-pages-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+  - title: "Object Recognition Imaging Systems Market: Overview of the Regional Outlook"
+    excerpt: "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-03-28T20:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-overview-of-the-regional-outlook-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+  - title: "Face Recognition Device Market Size, Regional Status, and Outlook 2023-2031"
+    excerpt: "We've been tracking the direct and indirect consequences of the COVID-19 outbreak on the Face Recognition Device market. To Know How Covid-19 Pandemic will Impact this Industry -https ..."
+    publishedDateTime: 2023-03-30T03:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-size-regional-status-and-outlook-2023-2031-2023-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+  - title: "Self-Driving Vehicle Testing Services Market Current Scenario Analysis Report till 2029"
+    excerpt: "Mar 29, 2023 (The Expresswire) -- Absolutereports.com has conducted research titled \"Self-Driving Vehicle Testing Services Market\" for the years 2023 to 2029, which presents a detailed analysis of market dynamics and trends that will shape the future of ..."
+    publishedDateTime: 2023-03-29T22:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicle-testing-services-market-current-scenario-analysis-report-till-2029-2023-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -79,6 +92,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Aviation Market [Latest Report] Review Report 2023 Alongside Insights, Figures till 2029"
+    excerpt: "Artificial Intelligence in Aviation Market Size 2023-2029 | New Report (128 Pages) | Analytics | In This Reports"
+    publishedDateTime: 2023-03-30T05:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-latest-report-review-report-2023-alongside-insights-figures-till-2029-2023-03-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
 
 secured: "7H6GJEzAczpAv7PUtHtova4yQ1hi799s/1AGlt8LNf0q3OZ1VTizeyj2BsOnc9hly0jmexqiLa9snJvKN6J8sBslq8VjX8ydm0KkiYf3hYI1sCHYTnCuWPXuKxRqYzEsuAhQIubIrb9ayAHgSb8aOB5GbjkBzrTYYdrLyxeOe4uO9Bz0hy0DgmxlnjRRoWRHpRjt8zY6Ni7sW/8NZcFS0vqZK6nNLppGl3Doc4VhDAnkFubqTL0e9Dmll/ua27uMf5FCrI93kuMGZgmP35Zdmo1b251gLi9EOBtlxBraMLDDHopWTlxJmZdv8dk2GPJc5IOGWXCYkUAV8ynVGHbANB6a2HEsrIbwnnIbCa5UFwY=;DqwGb1XgsWgZsrN2j2SpJA=="
 ---

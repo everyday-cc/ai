@@ -45,6 +45,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "MIT scientists, tech leaders call for ‘pause’ in artificial intelligence deployments"
+    excerpt: "He said this policy avoided the most ethically difficult questions about genetic engineering, while letting scientists continue research in less controversial areas such as gene therapy. If AI ..."
+    publishedDateTime: 2023-03-30T08:14:00Z
+    webUrl: "https://www.bostonglobe.com/2023/03/29/business/mit-scientists-tech-leaders-call-pause-artificial-intelligence-research/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 32
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/2HoWtooeSuD6aojdYBF2B_aYKxY=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/LUM3UOF4KV5PEDHXE5E2JMQIJQ.jpg"
+        width: 506
+        height: 337
+        isCached: true
   - title: "Top cyber general rejects Elon Musk’s call for artificial intelligence pause"
     excerpt: "U.S. military forces have a “tenuous” advantage over China in the realm of artificial intelligence that would fray if Silicon Valley halts development of the systems, according to the Pentagon’s top cyber warfare officer. “Artificial intelligence ..."
     publishedDateTime: 2023-03-30T20:14:00Z

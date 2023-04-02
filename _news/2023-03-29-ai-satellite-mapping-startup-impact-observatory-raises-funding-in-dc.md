@@ -50,20 +50,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
-  - title: "AI search start-up raises $26 million to offer rival to Google"
-    excerpt: "Its backers also include at least six current and former AI researchers at Google and sister company DeepMind, including Jeff Dean, Google’s senior vice president for research and AI, who was an angel investor in the company in its early stages ..."
-    publishedDateTime: 2023-03-28T15:03:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/mar/28/ai-search-start-up-raises-26-million-to-offer-riva/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 39
-    images:
-      - url: "https://thumb.spokesman.com/gfXXV_e2wEh82a0rG8zY7vLF00U=/1200x630/smart/media.spokesman.com/photos/2023/03/28/6422fd59304db.hires.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI search startup raises $26 million to offer rival to Google"
     excerpt: "Perplexity AI, which makes a conversational search engine using artificial intelligence, has raised $25.6 million in a funding round led by New Enterprise Associates, the latest deal in the booming AI sector."
     publishedDateTime: 2023-03-30T14:39:00Z

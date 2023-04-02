@@ -63,14 +63,19 @@ related:
       domain: outlookindia.com
     quality: 37
   - title: "Hyperglot AI Revolutionizes Niche with Multilingual Text Translation, Fast Processing Prompt Engine, and Crystal-Clear, Stunning Art"
-    excerpt: "The team at Hyperglot started on the project in 2020, before AI art programs became widely known. Now, they have announced the launch of the only AI app that supports multiple languages while also being based on blockchain tech."
-    publishedDateTime: 2023-03-29T21:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/hyperglot-ai-revolutionizes-niche-with-multilingual-text-translation-fast-processing-prompt-engine-and-crystal-clear-stunning-art-2023-03-29"
+    excerpt: "Now, they have announced the launch of the only AI app that supports multiple languages while also being based on blockchain tech. The Hyperglot app is available for both iOS and Android devices ..."
+    publishedDateTime: 2023-03-29T21:22:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/ab31562885/hyperglot-ai-revolutionizes-niche-with-multilingual-text-translation-fast-processing-prompt-engin"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "UAtACJT+GrWspi3InP2KCZQPjoJ0sloG7wnHwWgDOjYsgEFzUzyir4XiVqzGIpud16EsyVn+9FuZVPnC9HvNKARUrNAH5IqTep+8V3KbzqlIdrAWcooq2Y3bI05UVb2JOPDEUJf7YkjbC5zQfUsMuIgjIBxL+egJZEGVptn5z5fr25RLjar+fpsMZCvOdysFscJl4JLsrpYxpq/iis6mCbJ4g5QMm9/KdZGqrmWpu9MgNbsvW3Q6F4S7hOI7GnnS7nhSGM0LNh1voSUCiOSS5WtJWNJJTGEu57lqQGmPydtZUSujGppFop/VHGHTY/KA0EFHCnnW8stDAuNmOqK5lA9wXorGne7Xr+jJce803m3ByyBKefMGDrWPno/UUbM7awVFfxsS9J9olBHubrKMIBez+LNEDZ71QOi5FIsa24EHvDD9eEag2Vky2rJNcimMs7RHNnLPgD1aWzQtyEa6b+rE83+ZWvGFhwh3F8o6ycHGhfGsFTHT0neKCwwPJlmwom5QhPxL7jjSYIA/dWF5AQ==;yghIsmt+D+FEznr+k/Lh6g=="
 ---

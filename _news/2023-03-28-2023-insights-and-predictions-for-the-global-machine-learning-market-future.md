@@ -85,24 +85,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare Artificial Intelligence Market 2023 The Future Size and Growth"
-    excerpt: "Mar 28, 2023 (The Expresswire) -- Healthcare Artificial Intelligence Market Size 2023 | New Report (96 Pages) | Information Technology | In This Reports Healthcare Artificial Intelligence Market ..."
-    publishedDateTime: 2023-03-28T08:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-2023-the-future-size-and-growth-2023-03-28"
+  - title: "Global Artificial Intelligence (AI) in Healthcare Market [2023-2030] | The Future of Industry a Look at the Next Decade of Growth"
+    excerpt: "Artificial intelligence in healthcare is an overarching term used to describe the use of machine-learning algorithms and software, or artificial intelligence (AI), to mimic human cognition in the ..."
+    publishedDateTime: 2023-03-29T04:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-2023-2030-the-future-of-industry-a-look-at-the-next-decade-of-growth-2023-03-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 83
+    quality: 70
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Healthcare Market [2023-2030] | The Future of Industry a Look at the Next Decade of Growth"
-    excerpt: "Artificial intelligence in healthcare is an overarching term used to describe the use of machine-learning algorithms and software, or artificial intelligence (AI), to mimic human cognition in the ..."
-    publishedDateTime: 2023-03-29T04:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-2023-2030-the-future-of-industry-a-look-at-the-next-decade-of-growth-2023-03-28"
+  - title: "Future of Natural Language Processing (NLP) Market: Forecasting Trends and Opportunities 2023-2028"
+    excerpt: "The “Natural Language Processing (NLP) Market” offers an all-inclusive view of the market, including a comprehensive overview of the products, scope, and segments based on types, applications ..."
+    publishedDateTime: 2023-03-30T02:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/future-of-natural-language-processing-nlp-market-forecasting-trends-and-opportunities-2023-2028-2023-03-29"
     type: article
     provider:
       name: MarketWatch
@@ -201,20 +201,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
-  - title: "Artificial Intelligence (AI) in Food & Beverages Market Highlights by 2029: Global Opportunities and Trends"
-    excerpt: "Mar 28, 2023 (The Expresswire) -- [New 106 Pages Report] A Recently published “Artificial Intelligence (AI) in Food and Beverages Market” Size (2023) research report offers a comprehensive analysis on Top Key Companies (ABB Ltd., Key Technology Inc ..."
-    publishedDateTime: 2023-03-28T07:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-beverages-market-highlights-by-2029-global-opportunities-and-trends-2023-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Photonic AI Chip Market : Latest Report 2029"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2023 (The Expresswire) -- The Photonic AI Chip Market report provides a comprehensive analysis of the global market, covering both qualitative and quantitative ..."
     publishedDateTime: 2023-03-28T12:42:00Z

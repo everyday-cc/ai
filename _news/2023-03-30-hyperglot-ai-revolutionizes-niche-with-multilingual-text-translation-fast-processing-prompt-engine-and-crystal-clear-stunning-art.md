@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Hyperglot AI Revolutionizes Niche with Multilingual Text Translation, Fast Processing Prompt Engine, and Crystal-Clear, Stunning Art"
-excerpt: "The team at Hyperglot started on the project in 2020, before AI art programs became widely known. Now, they have announced the launch of the only AI app that supports multiple languages while also being based on blockchain tech."
-publishedDateTime: 2023-03-29T21:13:00Z
-originalUrl: "https://www.marketwatch.com/press-release/hyperglot-ai-revolutionizes-niche-with-multilingual-text-translation-fast-processing-prompt-engine-and-crystal-clear-stunning-art-2023-03-29"
-webUrl: "https://www.marketwatch.com/press-release/hyperglot-ai-revolutionizes-niche-with-multilingual-text-translation-fast-processing-prompt-engine-and-crystal-clear-stunning-art-2023-03-29"
+excerpt: "Now, they have announced the launch of the only AI app that supports multiple languages while also being based on blockchain tech. The Hyperglot app is available for both iOS and Android devices ..."
+publishedDateTime: 2023-03-29T21:22:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/03/ab31562885/hyperglot-ai-revolutionizes-niche-with-multilingual-text-translation-fast-processing-prompt-engin"
+webUrl: "https://www.benzinga.com/pressreleases/23/03/ab31562885/hyperglot-ai-revolutionizes-niche-with-multilingual-text-translation-fast-processing-prompt-engin"
 type: article
-quality: 18
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
 related:
   - title: "Ways in which artificial intelligence and machine learning is changing engineering education"
@@ -76,6 +78,6 @@ related:
       domain: outlookindia.com
     quality: 37
 
-secured: "RrVEJ5DxQVSWsC1J2cznOI5x1IcvQqyeJ1qteMo36373pAPT64Xzs/pLoCHDe29oWO5mxGQdBFP1v7QLjtQ2umdKDT7+8ST7n3E0ex/wOVNJPwKjCZCJbUSWIH2wCA1l2BlBYlYwH5BJXBEZD6l81Qd2DU1o/IHt0/Tl7TWAaP799rlITUV7xubEVdPa/uN1jdf2azmdJsq6KEcg6FcZ6i/SPz+QoSdpwix6ccsji/C5FIOb79rDSeRA95TGmxxMrOZSLh8CVkHI4jyrrgiL++NsEhzIwSBVUxIoG5CM4pTtlsrLKzZoD20c1elROu6u48XTwcS8CfuteJJk4BZOyMPveETNsY32RJsCuvsFGpg=;CKC260/21qHmwsjVG/03sg=="
+secured: "SYOzYuqN5mrTty02vXnSLuOWfMy9vTTN7pLFyzwRKH+mWBRT0SU2IWqrN/MbfAn00PMbL+u64IY2rG06NjsHKDku0YobFWdM7GAfwygBEQMobh5kCIVSOiQg8ZqELNnXMCJo9Yrr3g4IEPoDo1RQPLhcd2bf7/odqG6SBErbLPlk+mn7tbxqep2jPjwxfQYW7XgzNfzj9WF+Wr0i9w+Yu74gcaIJ0z+1xwG7bxIzYTtScDTCwxVDBxBjqdbSX6Aqaqc2ATvaXHVNF80b4YPditna8ptu/MF3LeNS+jJ6rIztr+W9woktIUEEI2BcMENpMtOenZClXkOPpy2Zy/CjdHBoLktntzeSY0vUnzIGrV4=;/uGHZvusQRMd+pIWXkZsnw=="
 ---
 

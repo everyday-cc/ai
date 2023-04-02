@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Data and AI Ethics Market 2023 Size Growing Rapidly with Recent Trends"
+    excerpt: "Market Updates(360marketupdates.com) published a new research report on Data and AI Ethics Market 2023 with 110"
+    publishedDateTime: 2023-03-29T02:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2023-size-growing-rapidly-with-recent-trends-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
   - title: "Artificial Intelligence as a Service Market Size, Share and Forecast 2031"
     excerpt: "Top “ Artificial Intelligence as a Service Market ” Size 2023 Key players Profiled in the Report are [Baidu, Amazon Web Services, Salesforce, Intel, Microsoft, FICO, Bigml, IBM, SAS Institute, Google,"
     publishedDateTime: 2023-03-30T03:32:00Z
@@ -32,15 +41,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
-  - title: "Face Recognition Device Market Size, Regional Status, and Outlook 2023-2031"
-    excerpt: "We've been tracking the direct and indirect consequences of the COVID-19 outbreak on the Face Recognition Device market. To Know How Covid-19 Pandemic will Impact this Industry -https ..."
-    publishedDateTime: 2023-03-30T03:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-size-regional-status-and-outlook-2023-2031-2023-03-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
 
 secured: "N6oMgRJksyM0am4sFQBbYhkAIsp+tb6L8oG+54zbHLKEpUQdyPNlFIWSBlU/1j9zU3DepwS4VPBbgECPFG9wbfX98fidIIEr0nJdcPeO8o8Y0krOiI5vtwNui01whXE4kqbpopINkIXlrb0YCOqnxOzLYi34Tn6beQfCMmAu555LGxOD9x6fi/nqnq3yuqNxgEgc4+zaUORYQhhTWQ08uog88Ps/q0vMpPLFOwAJgOtGLXSscJjkJDliGkNftzDbFvs3eLM8UMIgIpuHy4/Sg0ndds1SQUqNA4sNEjKy3nPxHlLQobC+Mb6mWtQHGaTp7FmhzPDrTJrXJaTs7GWv1eXBVwG2Hz+M3zUzdSr9New=;GVfNiuskHRnEoEDtPs2Z+A=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://www.foxbusiness.com/media/will-artificial-intelligence-take-ove
 ampWebUrl: "https://www.foxbusiness.com/media/will-artificial-intelligence-take-over-jobs-careers-across-varying-fields-could-risk.amp"
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/media/will-artificial-intelligence-take-over-jobs-careers-across-varying-fields-could-risk.amp"
 type: article
-quality: 29
-heat: 29
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -19,7 +19,14 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
-secured: "8YBOXNL8EUbCFckELLfJjV1xIOy2udI/yTmGAGfGmqR3pomgyC+9yVPpZWX+vY2LnwU1iqlacKuczQsb2Vllf4sRu25Idc22t4mlu9aHsUAfZvJTOg4ynYMtCBxQJnwHmzYmrayshbvgFxVrNT8awUtP0Vpi/H2xZpcgvtSDnOn9EYk5pSmxVn/l7gkzAlI7G0Hs4QEaedt4v0Ka/HSl4db17US8VL+qfjF1GX3B5/idRnc+EM96qoJm6Q1CdtDU4vo0gv5Ks9FeVKoTyrm+RJzPhtgpSnn/gjOHE60/2GSgjZ0dHEQlunbESQ8kLfnhDt9fAzAPeoIa1xiQV5YpyjvVOQhk+yzNHRYAwl1x510O1Bjjd5Mdsz083BJfIIClkyK7RgB1BTHp0xGDK4+cNIGw5Hgrmt8yUt9PrpEWdOuBFmjfzDk/hoklv1rQqswP/IrA8nKsBDM84RVE+r4R6twanVTZ0mIU3dX3niilA1M6lBG1uNaYx8XYvhW+52uAhsHRyGcE2D1d6LMARRBbnw==;/vEWh0NYFgy5r6dpDhB3tw=="
+images:
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/bbed3a06-df48-4289-87dc-64412ad67e82/17793f6d-c029-43f8-b05a-6cb4f10e5a5c/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "/t3GkSD2+jEKkV13w/aa9tSbvRZ0GLS5wRciEAQjHKF3F+4Aapve/vtWOPrQvgk+40HyfLw6VwyCmTS4+iDJOXizsCiRpoy/wBDWhQxB6ou1u70Q2iuCanws3lx/wBrQxtnyTTNcwh9LUMhh1x4p3gOx5cGarRbKrlcObY7BPBxtEOvgNU6CVQ4+bq8dp5z3Tdf0BopaLVe6yQ0JEkC5ZGMXNtLu2/OwkuflhwhQ/3zQgDNKUXI/tJJJYiJZOgIn60vao4YQ7Rcl9mU4DiQ0epach/vN0/bU/SgWxh39gFNKVO7bTudwMNJ2DD3OAwGqX6Rk7Ps1OzytyYlQGSoV8MGLECwv6uShDdDWuc1a2Ko=;1Ix6zoO0uTE0a0wnKdj8gg=="
 ---
 

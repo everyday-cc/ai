@@ -8,8 +8,8 @@ webUrl: "https://www.lex18.com/news/lex-in-depth/artificial-intelligence-strange
 ampWebUrl: "https://www.lex18.com/news/lex-in-depth/artificial-intelligence-strange-new-world-or-opportunity?_amp=true"
 cdnAmpWebUrl: "https://www-lex18-com.cdn.ampproject.org/c/s/www.lex18.com/news/lex-in-depth/artificial-intelligence-strange-new-world-or-opportunity?_amp=true"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://x-default-stgec.uplynk.com/ausw/slices/143/93a4878cfc9b474598be8dfc4ae03e4c/1437185b0ab440df8827d06759f46062/poster_0f6f4e00cb5642519d8d8bff140d7ff6.jpg"

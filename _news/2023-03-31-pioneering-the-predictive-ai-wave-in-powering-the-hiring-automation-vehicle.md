@@ -63,14 +63,19 @@ related:
       domain: marketwatch.com
     quality: 49
   - title: "Hyperglot AI Revolutionizes Niche with Multilingual Text Translation, Fast Processing Prompt Engine, and Crystal-Clear, Stunning Art"
-    excerpt: "The team at Hyperglot started on the project in 2020, before AI art programs became widely known. Now, they have announced the launch of the only AI app that supports multiple languages while also being based on blockchain tech."
-    publishedDateTime: 2023-03-29T21:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/hyperglot-ai-revolutionizes-niche-with-multilingual-text-translation-fast-processing-prompt-engine-and-crystal-clear-stunning-art-2023-03-29"
+    excerpt: "Now, they have announced the launch of the only AI app that supports multiple languages while also being based on blockchain tech. The Hyperglot app is available for both iOS and Android devices ..."
+    publishedDateTime: 2023-03-29T21:22:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/ab31562885/hyperglot-ai-revolutionizes-niche-with-multilingual-text-translation-fast-processing-prompt-engin"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "zCt9+uaBZN5riS8We7UBIeN5vmeUiCWWiBRyvjjYT8ZhTsZdTbDSUEm7w1cQLkcuzeRz9dzVgIvtkiI68/y3Otfi3jA5WIQ2xwL+5Ipg0s8BnRCKKZiaIOxeKjykK/3RX6yhqWFUtt9De3rvkIY/8Q0IOd2JUAJ6kUhVFm+1ioG6tWiYhQkY5AzcSzAL5Rldmny3DrE9Sq3b47FVBog/NFvxia+cmCMHUNrhhmOn4qtwJ3IPs/djA2V4uWHd90fybWjfLCGpFi0mEgft/Gvo+Lu1wvZXNz4+zmnKlvtkmy6q4IpYwoLwxPpurBSZdxNThVV6arwsQdxm7iCNqu8YLJMk2mL0eH891tBN2una04L2utzgLJpEOjtWD2gRXH3eq6o6Tz1tCBbwg/Kb1lN8R89VNt8zmV2aehBpaKVspcBedMeRAliyDtDY5wjpHjmmLwmIrJ/MHK4BovAtO6dZhLAIdSb4p6LSWnmD3BXOvUHlsBVOYVwgx1NpUF+RlfOjK9v1kZc5hn1NzQLtvxsdfQ==;V7Zw5r1t2StHJ8JDu21Q4Q=="
 ---

@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 845
         isCached: true
-  - title: "Tech Titans Say Artificial Intelligence Is Progressing Too Quickly, Urge Companies To Slow Down"
-    excerpt: "One group went so far as to ask the Federal Trade Commission to open an investigation into the release of the most popular artificial"
-    publishedDateTime: 2023-03-30T16:57:00Z
-    webUrl: "https://www.nysun.com/article/tech-titans-say-artificial-intelligence-is-progressing-too-quickly-urge-companies-to-slow-down"
-    type: article
-    provider:
-      name: New York Sun
-      domain: nysun.com
-    quality: 5
 
 secured: "idCV825N31vHuiNef0SHSrmH2zy6YhvHYv8DqYtY5+PKxWIqUf1bltndsu67DxmSKNse7LUh9ylqGbtBF41JFIRb507+IWxoiAw6rvfo37dwZAzbAM05vea7I1RrE1qUVdGboD4BWEKzxgHx5IM6i/S/MTZP8KTfku4GafBm+BEdWb0VzzR0otqRigd4gJ619QLXn9MgvFeqcj1hZMYabDzrHy/x0VUcIs2DFSFWYmx6czIoNZFgQt8Ie1NM8IBXYrHU0bTFcC0CI07/bVE0d08HqukhEJCrTboK3cRiIxnaSp+uxf2k9fMAaMJGrKSrg/M/on1FNW2RsDbUI6NgUz6oAFlKU7WmMAbC49XtJ6Q=;50PYIFM3lp83Jk+ddt5MiA=="
 ---

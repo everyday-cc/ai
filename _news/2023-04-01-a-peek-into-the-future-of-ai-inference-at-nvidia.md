@@ -99,15 +99,6 @@ related:
       name: GovCon Wire
       domain: govconwire.com
     quality: 36
-  - title: "Nvidia's New Research Shows How AI Can Be Used to Improve Chip Design"
-    excerpt: "Nvidia released a paper on Monday showing that it could use a combination of AI techniques to find better ways to place big groups of transistors."
-    publishedDateTime: 2023-03-28T07:17:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/nvidia-ai-based-research-improves-chip-designs-3899263"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 34
   - title: "How Generative AI Will Change Sales"
     excerpt: "As the power of this disruptive technology grows exponentially, it’s possible to start realizing value in weeks, not months. One strategy for quick results is to integrate capabilities into existing sales systems. For example, generative AI can improve ..."
     publishedDateTime: 2023-03-31T13:02:00Z
@@ -126,15 +117,6 @@ related:
       name: Law
       domain: law.com
     quality: 21
-  - title: "Academic unit at BU adopts guidelines for use of generative AI"
-    excerpt: "At Boston University, professor Wesley Wildman’s Data, Society and Ethics class has made a critical first step toward addressing those concerns, crafting a policy that guides how both students and instructors should use advanced AI. BU’s Faculty of ..."
-    publishedDateTime: 2023-03-28T09:01:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2023/03/28/colleges-setting-guidelines-for-use-of-chatgpt-ot.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
   - title: "Multiple red flags are not yet slowing the generative AI train"
     excerpt: "The champions of AI have long argued that this general purpose technology will produce an unprecedented surge in productivity and creativity; its critics fear it carries alarming present-day risks and may even pose an existential threat to humanity in future."
     publishedDateTime: 2023-03-30T12:57:00Z

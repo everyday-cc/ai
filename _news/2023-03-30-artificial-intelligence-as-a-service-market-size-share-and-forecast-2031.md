@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-size-share-and-forecast-2031-2023-03-29"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -23,15 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "Face Recognition Device Market Size, Regional Status, and Outlook 2023-2031"
-    excerpt: "We've been tracking the direct and indirect consequences of the COVID-19 outbreak on the Face Recognition Device market. To Know How Covid-19 Pandemic will Impact this Industry -https ..."
-    publishedDateTime: 2023-03-30T03:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-size-regional-status-and-outlook-2023-2031-2023-03-29"
+  - title: "Data and AI Ethics Market 2023 Size Growing Rapidly with Recent Trends"
+    excerpt: "Market Updates(360marketupdates.com) published a new research report on Data and AI Ethics Market 2023 with 110"
+    publishedDateTime: 2023-03-29T02:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2023-size-growing-rapidly-with-recent-trends-2023-03-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 66
   - title: "Artificial Intelligence and Robotics in Aerospace and Defense Market Trends, Industry Demand and Scope, Top Players Analysis, Forecast 2023 - 2031"
     excerpt: "Top “ Artificial Intelligence and Robotics in Aerospace and Defense Market ” Size 2023 Key players Profiled in the Report are [, Intel Corporation, Iris Automation Inc., The Boeing Company, Nvidia Corporation,"
     publishedDateTime: 2023-03-30T03:10:00Z
