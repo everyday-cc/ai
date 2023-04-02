@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "FTC should stop OpenAI from launching new GPT models, says AI policy group"
+    excerpt: "An artificial intelligence-focused tech ethics group has asked the Federal Trade Commission to investigate OpenAI for violating consumer protection rules, arguing that the organization’s rollout ..."
+    publishedDateTime: 2023-03-31T10:16:00Z
+    webUrl: "https://www.theverge.com/2023/3/30/23662101/ftc-openai-investigation-request-caidp-gpt-text-generation-bias"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 67
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/eJCf-0eN-BMvuoNTj_0k-ImYauY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24390408/STK149_AI_01.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "OpenAI’s GPT-4 violates FTC rules, argues AI policy group"
     excerpt: "The FTC received a new complaint today from the Center for AI and Digital Policy that calls for an investigation of OpenAI and GPT-4."
     publishedDateTime: 2023-03-30T21:29:00Z
@@ -41,20 +55,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 64
-  - title: "Lilt introduces Contextual AI Engine for Translation; Outperforms Google Translate and GPT-4 on accuracy, latency and cost"
-    excerpt: "Today we’re releasing the next generation of our revolutionary language technology.” Contextual AI Engine Outperforms Google Translate and GPT-4 Today, Lilt released Contextual AI Engine ..."
-    publishedDateTime: 2023-03-30T04:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/lilt-introduces-contextual-ai-engine-for-translation-outperforms-google-translate-and-gpt-4-on-accuracy-latency-and-cost-2023-03-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "GPT-4 poses too many risks and releases should be halted, AI group tells FTC"
     excerpt: "A nonprofit AI research group wants the Federal Trade Commission to investigate OpenAI, Inc. and halt releases of GPT-4. OpenAI \"has released a product GPT-4 for the consumer market that is biased, deceptive,"
     publishedDateTime: 2023-03-30T19:00:00Z
@@ -73,29 +73,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 34
-  - title: "Lilt introduces Contextual AI Engine for Translation; Outperforms Google Translate and GPT-4 on accuracy, latency and cost"
-    excerpt: "Today we’re releasing the next generation of our revolutionary language technology.” Contextual AI Engine Outperforms Google Translate and GPT-4 Today, Lilt released Contextual AI Engine ..."
-    publishedDateTime: 2023-03-29T13:12:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/lilt-introduces-contextual-ai-engine-for-translation-outperforms-google-translate-and-gpt-4-on-accuracy/article_ea44011f-71cb-51c8-8688-b86f59e2249a.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 28
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/e/6b/e6b172fd-778e-5f25-b527-44ab9c9dde5f/642437a335807.image.jpg?crop=1326%2C696%2C58%2C0&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Lilt Introduces Contextual AI Engine for Translation; Outperforms GPT-4"
-    excerpt: "Lilt launches Contextual AI Engine which has a higher accuracy than Google Translate and GPT-4 for many enterprise contexts."
-    publishedDateTime: 2023-03-29T13:00:00Z
-    webUrl: "https://slator.com/lilt-introduces-contextual-ai-engine-translation-outperforms-gpt-4/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
 
 secured: "6xVfzyrqGI9xw7qKpT/yeNv5cptAcnGIyzEsKSU6PIlqXi6rJqyHdbc2iAKdlAdswrO8gxBC1LKNTUZ6uMkk5svB5kqX10s/4V7GLxCBX8tV6atg6fXASzENHRI8zbgdAdrRGcji/ecYEhZ4vGB1Feolsf+Ef1eB0Tvi0ybGQ5daQWJWh8vHoY7F1JoDosqLS1YreTMRI3Q843QgDwUq+EvwnjqDFNt5h/sifuEqP1ho/RLyNIC+n9RsoU9ZJR0jn+qa5JMyy1dP4+GUwM8YefFoQWXQE5bSY8ZmFUIEzVtX5xMsXZN2LZBQhnVDs5UBTKL06Wuqz2u1mu+YpExAr5avwQIUFeIsqJXnSevWbIli7YB+UUXa1inA8qXJAH3gDXADuJXLYKsionSJRwVh8wXQZPydu5Z86GJcs42E7haeEyPEjRuUTN6m35pwsg/SI1vqYeH6v3OGoGhOKJIaCGZrROspC1gwNXEWP6o69CFremz4XY7KLfNThxH0bUQTZl0PSgIX5tPhXIQK78gKxQ==;lqm5j9PHDZhYxvtUIH6yMQ=="
 ---

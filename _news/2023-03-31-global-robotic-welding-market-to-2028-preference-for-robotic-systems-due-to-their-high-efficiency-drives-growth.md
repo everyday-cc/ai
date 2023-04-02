@@ -28,20 +28,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-  - title: "High Speed Computer Vision Systems Market Size 2023: Share, Technology, Growth, Opportunities, Insight 2030 | Basler AG, Cognex, Datalogic, FLIR"
-    excerpt: "Mar 28, 2023 (Heraldkeepers) -- United States – The market research carried out in this large scale High Speed Computer Vision Systems market report succors clients to forecast investment in an emerging market, expansion of market share or success of a ..."
-    publishedDateTime: 2023-03-28T17:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/high-speed-computer-vision-systems-market-size-2023-share-technology-growth-opportunities-insight-2030-basler-ag-cognex-datalogic-flir-2023-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Ans+uBLa8LV+K8iDSn7HfhUUZ+KA7tpGHz7/3NB3mTTd5Hq2yDzNBn1H+pFTqchj8qKyyH8/rhapesR3Kdh3qUBsvel9LquglrlyrVpMBxvQiPniK+k3NUn9E7ZKMGkw6w71qU342gcrxPOqfMwTE6v4ekCK64D9wiyyLlF/M/g9OeA3ndwLsux4+cvhPkvvUiVF5yW408rFiLe7eRVRZ6CQJQTWv2U5WMEHN15bT3kuSfWArGOJ5xdl2htHUbeYskZAe4f6sIgoM3/mmefaVGkEJkhL4Ta7ZxfCnQFmP4JyyJscCFRnyJ5pnwvFeKBstNbWJ4vcLtCHN4ezaKhJRcGh6azzcvMGMjJirP4jwtA=;VLPFm6XciUS/bAII5py2ZA=="
 ---

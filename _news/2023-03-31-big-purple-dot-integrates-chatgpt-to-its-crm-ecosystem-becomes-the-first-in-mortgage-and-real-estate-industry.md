@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Big Purple Dot Integrates ChatGPT to its CRM Ecosystem, Becomes the First in Mortgage and Real Estate Industry"
-excerpt: "ChatGPT is an advanced conversational artificial intelligence (AI) model by OpenAI that uses NLP to understand and respond to user inquiries in real-time. By integrating ChatGPT into its CRM ecosystem,"
-publishedDateTime: 2023-03-30T23:41:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/03/30/9786726.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/03/30/9786726.htm"
+excerpt: "Big Purple Dot introduces the power of BPD AI Assistant to its end users to seamlessly and effortlessly handle sales objections Big Purple Dot (BPD), a leading provider of customer relationship manage"
+publishedDateTime: 2023-03-30T19:13:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/03/b31593969/big-purple-dot-integrates-chatgpt-to-its-crm-ecosystem-becomes-the-first-in-mortgage-and-real-esta"
+webUrl: "https://www.benzinga.com/pressreleases/23/03/b31593969/big-purple-dot-integrates-chatgpt-to-its-crm-ecosystem-becomes-the-first-in-mortgage-and-real-esta"
 type: article
-quality: 1
-heat: 1
+quality: 21
+heat: 21
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
   - AI in Sales
 
-secured: "znd2EoOmqu5Ynr9kOMyAysfZcshkM0DKJO/tsZTciiujzvYX79Mtfu4swi0OBb3afyDWhEnUi/i49zfZrYGSzK4cbfXxPRhHwf5P5qu0X1pedzg/C8mnbypU5PCpA6LVqHzmB2qxV17UKlTbmfuoA+VD0xKKi6IWxPaRmdCHAS/5tk8fjc52GIZvEPQEeI/GWWHooDbhNGqEQWmAZqsIKUa/2aCxyv0RgHZFQQtxx9sKQZxf/s/5r/fooLTC+uijVsmMixOF1TRxNI5/qaBz90FFGREwF55A1p4EbqS8yv6Oo+pdnNA7jJYm4qQFfKjQYMgm5WqdzBdc1Iiw3+Y6iOIOJDVuPL7X42RS7X++hmU=;65hSrU/HfoxEpo9oqBSikw=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "vackWXLexU1l1VEvqbrLiZiBuFfx6kjMCiP5d6vbMznILriq0Kmmwa38elL5gktTxntJXWcNw0TkphvZY2ooGyrfgFZNVML02iBRSs2XSWuPWQTPTW6J4rSM8JHBdLcJcij0y75jWrMrqcqcMZocHPrEwLOrjKMwxKtJ34qHZ37C/SxU6++dvQ/iVu4k85w168B/ee44/OI/MsOrohLkLU3wtxW/K6i5uzIkMuKUrCz+PQu2redD0Z7xKxb3PJ0X0ZxML7NkXacD742DlmeWDOG3OZdqI0miRC4/Cjfhw83UUnXa1wpHE1o6wIqPmuo1kcBwVQpYSy7sOdS2bYxZcA8BU+ksnf3je30F34KOVHs=;vC6vGp6/pc8kor8h2fACDw=="
 ---
 

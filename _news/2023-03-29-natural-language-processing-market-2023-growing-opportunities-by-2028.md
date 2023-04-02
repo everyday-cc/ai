@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "High Speed Computer Vision Systems Market Size 2023: Share, Technology, Growth, Opportunities, Insight 2030 | Basler AG, Cognex, Datalogic, FLIR"
-    excerpt: "Mar 28, 2023 (Heraldkeepers) -- United States – The market research carried out in this large scale High Speed Computer Vision Systems market report succors clients to forecast investment in an emerging market, expansion of market share or success of a ..."
-    publishedDateTime: 2023-03-28T17:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/high-speed-computer-vision-systems-market-size-2023-share-technology-growth-opportunities-insight-2030-basler-ag-cognex-datalogic-flir-2023-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Robotic Welding Market to 2028: Preference for Robotic Systems Due to Their High Efficiency Drives Growth"
     excerpt: "DUBLIN, March 30, 2023 /PRNewswire/ -- The \"Global Robotic Welding Market 2022-2028\" report has been added to ResearchAndMarkets.com's offering. This report states that the global market for robotic welding would exhibit growth at a CAGR of 7.35% in the ..."
     publishedDateTime: 2023-03-30T21:16:00Z

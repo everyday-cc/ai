@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/waymo-brings-its-fleet-of-new-self-drivin
 webUrl: "https://www.engadget.com/waymo-brings-its-fleet-of-new-self-driving-suvs-to-austin-165720284.html"
 type: article
 quality: 69
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "With a nod to EVs, Waymo retires self-driving Pacifica hybrid minivans"
-    excerpt: "Self-driving technology company Waymo will retire its fleet of Chrysler Pacifica hybrid minivans, the vehicular flag-bearers for the nation's first autonomous ride-hailing service. Waymo said Thursday it will replace the vans used in its metro Phoenix ride ..."
-    publishedDateTime: 2023-03-31T11:35:00Z
-    webUrl: "https://www.autonews.com/mobility-report/waymo-retires-self-driving-pacifica-hybrid-minivans-jaguar-evs"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Waymo-MAIN_i_4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Google's self-driving vehicle company Waymo returns to Austin to test new driverless tech"
     excerpt: "Even more self-driving vehicles will be tested in Austin, as Waymo, one of the first companies to test autonomous vehicles in Central Texas, returns. Austin’s reputation as a hotbed for autonomous technology continues as Waymo plans to once again test ..."
     publishedDateTime: 2023-03-31T11:16:00Z

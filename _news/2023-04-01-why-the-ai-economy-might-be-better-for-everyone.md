@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The US government is gearing up for an AI antitrust fight"
-    excerpt: "She warned that major companies may “start to panic” at an upset in the tech order — “sometimes having to resort to anticompetitive tactics to protect their moats and protect their dominance.” Kanter added that the current model of AI is ..."
-    publishedDateTime: 2023-03-28T17:27:00Z
-    webUrl: "https://www.theverge.com/2023/3/28/23660101/ai-competition-ftc-doj-lina-khan-jonathan-kanter-antitrust-summit"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 67
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/fVQKZg5pKIAqEGgwL6dVKdUIZnw=/0x0:5320x3779/1200x628/filters:focal(2660x1890:2661x1891)/cdn.vox-cdn.com/uploads/chorus_asset/file/24542737/1249642666.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "Vd3QbEosOoOOjzSZzgjQgJ9sLDYPXU+sP0Zcg8n+Ptsg8COIEfnp2RijGCGAj5696YADmOR3A8QSImPwiFzDV3ljFsNQfYMzva/VyzCZHz/aOB/9L/1CsQTT83BSjUv/Jusr+EoTVW5eO8z+LUwoS4738SdkH4VoQfv9V/wl+Nk3LsNczuNT0qNe/W4L2wqjT0xK2309cAhw1nnPdKRjvXGOvO/+7FTosMYeujMS/lPhkVFi4QI417/2Bc0iIOr0GDpKicYcR3Sz07y9Ts+gG4f2OEx2EvxE16FR/SGDZTHBSER1xRlHDjZTGx99tDPmV8PpcVNtxW3yZThdPeMzYw0gXRSC3nOgGkI5ZvRQ/hC5z8jyVLb1qKlvp/4V6+Nu7fhZffnnw5atVyQBDU9K0WxBaMGNiwhV3ZW8foqINVPYYdmpAydj1EQFxPnLWAvH9eHXA8xTbF0sUhFIqYVjbq9m4zt2QqBbW80t3UqqQp121mPH6nO2RUUfDFibmlxXnwavODoMiqb3ily6dYsTmA==;beLhuGW3GFnl9Xmkxfemzg=="
 ---

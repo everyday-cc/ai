@@ -37,6 +37,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market 2023: Growing Opportunities by 2028"
+    excerpt: "The global \"Facial Recognition Market\" research study presents an in-depth analysis of the market's revenue, size,"
+    publishedDateTime: 2023-03-29T04:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-growing-opportunities-by-2028-2023-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
   - title: "Speech Recognition Market New Ready Report Analysis 2028"
     excerpt: "Top “ Speech Recognition Market ” Size 2023 Key players Profiled in the Report are [VoiceVault, Microsoft, Agnitio, ReadSpeaker Holding, LumenVox, Raytheon BBN Technologies, ATandT, Fluent, Iflytek, Nuance,"
     publishedDateTime: 2023-03-29T04:55:00Z
@@ -64,20 +73,29 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
-  - title: "Self-Driving Vehicle Testing Services Market Current Scenario Analysis Report till 2029"
-    excerpt: "Mar 29, 2023 (The Expresswire) -- Absolutereports.com has conducted research titled \"Self-Driving Vehicle Testing Services Market\" for the years 2023 to 2029, which presents a detailed analysis of market dynamics and trends that will shape the future of ..."
-    publishedDateTime: 2023-03-29T22:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicle-testing-services-market-current-scenario-analysis-report-till-2029-2023-03-29"
+  - title: "Voice and Speech Recognition Market Trends and Challenges 2023 Industry Demand, Top Players Strategy, Size, Share and Forecast Report till 2031"
+    excerpt: "Mar 29, 2023 (Alliance News via COMTEX) -- Global Voice and Speech Recognition Market Status, Trends and COVID-19 Impact Report 2021, Covid 19 Outbreak Impact research report added by Report Ocean, is an in-depth analysis of market characteristics ..."
+    publishedDateTime: 2023-03-29T14:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-trends-and-challenges-2023-industry-demand-top-players-strategy-size-share-and-forecast-report-till-2031-2023-03-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 33
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "2023-2026 Cognitive Computing Market Size Latest Report by Absolute Reports"
+    excerpt: "Mar 29, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Cognitive Computing Market\""
+    publishedDateTime: 2023-03-29T10:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2026-cognitive-computing-market-size-latest-report-by-absolute-reports-2023-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
   - title: "Artificial Intelligence in Aviation Market [Latest Report] Review Report 2023 Alongside Insights, Figures till 2029"
     excerpt: "Artificial Intelligence in Aviation Market Size 2023-2029 | New Report (128 Pages) | Analytics | In This Reports"
     publishedDateTime: 2023-03-30T05:15:00Z

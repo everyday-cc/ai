@@ -23,38 +23,52 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Precision Medicine Market Growth Rate Comparison by 2031"
-    excerpt: "Mar 29, 2023 (The Expresswire) -- \"Artificial Intelligence in Precision Medicine Market\" Research Report 2023 Provides a Basic overview of the"
-    publishedDateTime: 2023-03-29T14:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-medicine-market-growth-rate-comparison-by-2031-2023-03-29"
+  - title: "Artificial Intelligence Delivery Robot Market Report | Global Forecast From 2023 To 2030"
+    excerpt: "The Global Artificial Intelligence Delivery Robot market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2027. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2023-03-29T23:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-report-global-forecast-from-2023-to-2030-2023-03-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 75
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market 2023: Growing Opportunities by 2028"
-    excerpt: "The global \"Facial Recognition Market\" research study presents an in-depth analysis of the market's revenue, size,"
-    publishedDateTime: 2023-03-29T04:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-growing-opportunities-by-2028-2023-03-29"
+  - title: "Machine Learning (ML) Platforms Market 2023 Size and Forecast to 2031"
+    excerpt: "Platforms market has witnessed a growth from USD million to USD million from 2017 to 2022. With a CAGR of this market is estimated to reach USD million in 2029.\" The Machine Learning (ML) Platforms market has witnessed a growth from USD million to USD million from 2017 to 2022."
+    publishedDateTime: 2023-03-30T01:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-2023-size-and-forecast-to-2031-2023-03-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
-  - title: "2023-2026 Cognitive Computing Market Size Latest Report by Absolute Reports"
-    excerpt: "Mar 29, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Cognitive Computing Market\""
-    publishedDateTime: 2023-03-29T10:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2026-cognitive-computing-market-size-latest-report-by-absolute-reports-2023-03-29"
+    quality: 64
+  - title: "Global Speech and Voice Recognition Technology Market Size 2023 to 2026 Size and Share Survey Report"
+    excerpt: "Global \"Speech and Voice Recognition Technology Market\" report provides a thorough examination of the present and projected situation of the sector. The research offers useful information about, among other things, the market's size, share, growth ..."
+    publishedDateTime: 2023-03-29T04:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-technology-market-size-2023-to-2026-size-and-share-survey-report-2023-03-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 32
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Robotic Welding Market to 2028: Preference for Robotic Systems Due to Their High Efficiency Drives Growth"
+    excerpt: "This report states that the global market for robotic welding would exhibit growth at a CAGR of 7.35% in the evaluated phase 2022-2028. The increased preference for robots to carry out welding owing to their high efficiency is the key factor driving the studied market's growth."
+    publishedDateTime: 2023-03-30T00:00:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/03/30/9786825.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "GFaz26g4+ZZEOGtDNXv+EYf078G5h7fvoWZbz+8oorn4snrAgdVDznBex6YkTv7SQqCYJbJLQjJehLIxL6j8bK1LAy5QdvwZGCPzW8kZRp82mq3ZyuueIgamniazfvsY6qnyN+qx9ciH6siI3L9JM3VVIQV9yRLnHLU6410owOA4yvJmjwXndw/GEZF++72+A3UZ+erMaAT+Qw/s0ByyMpzzE+BCnLODD1AIbA+4bo+izKZ8SWmzItvx2cA2tTidLwrM674mZfPbywCS9dKX4Z15XIpBsWowlaf0jf4d/F9Dka9heW8/Emyxdp6A8+CAf9/wWWjufGKmcm0j6i3Lag8pHReoqRgWL3cUfHEdwx4+wE5mw676QbgebMMPTtDcoajPQjJDo5pZxGsMoYJQRmxrZC/cie2r7JyusLBH/cDtaxuYd0k+I+eBN2qURz0fWRCoEBxR+86r1drTHYAb6CLUefkqDCdB5oSGNxzBEM088wqJWkrjblwf3a8BT7/IMlUCauOltuvvVwXlIGhXfg==;wV51+VEC29i/8OnMgVIewQ=="
 ---

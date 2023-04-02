@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/achieve-effective-bu
 webUrl: "https://aws.amazon.com/blogs/machine-learning/achieve-effective-business-outcomes-with-no-code-machine-learning-using-amazon-sagemaker-canvas/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: AWS
@@ -24,20 +24,15 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Enable predictive maintenance for line of business users with Amazon Lookout for Equipment"
-    excerpt: "Predictive maintenance is a data-driven maintenance strategy for monitoring industrial assets in order to detect anomalies in equipment operations and health that could lead to equipment failures. Through proactive monitoring of an asset’s condition, maintenance personnel can be alerted before issues"
-    publishedDateTime: 2023-03-28T17:12:04Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/enable-predictive-maintenance-for-line-of-business-users-with-amazon-lookout-for-equipment/"
+  - title: "HAYAT HOLDING uses Amazon SageMaker to increase product quality and optimize manufacturing output, saving $300,000 annually"
+    excerpt: "This is a guest post by Neslihan Erdogan, Global Industrial IT Manager at HAYAT HOLDING. With the ongoing digitization of the manufacturing processes and Industry 4.0, there is enormous potential to use machine learning (ML) for quality prediction. Process manufacturing is a production method that uses"
+    publishedDateTime: 2023-03-29T18:37:52Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/hayat-holding-uses-amazon-sagemaker-to-increase-product-quality-and-optimize-manufacturing-output-saving-300000-annually/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 79
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/28/predictive-maintenance-lookout.jpg"
-        width: 1151
-        height: 574
-        isCached: true
+    quality: 43
 
 secured: "RcOZPugB0NGNUu+cQOFcrZedaeUvb90UrJfBLI2VU2rrSkk/KVQLJXQ060YzLXBV3uZfyAK1z5TR1inca4FiT9lQAiNJZ+Zsqwfdw/zWKUzITOe/FWtDu1Z/jTo1eISN+0Lpkmf8fgm7Frcqo3ICjZZCScT7stVP5De5wR5GwkL4WjLosIBmwcqBgClp2WXYFxyqAWo1JdReSRv6XmsbXJ5BbWxkeFpVCkzGXbbWW8A+UKcZBYzKQ4qaDPeCxriRkOXUg6a3NjH/r5XOPLlVhspgfaYVjPOfFNFKl4c2GDtCkRiN747aSkSOeukX20pMepKTle8wVYMx7ZItXh/QfywZ+svq2vc8kNQ0ZkzNy2Q=;fK9AauiFbGqxpOcaNDZFag=="
 ---

@@ -1,31 +1,29 @@
 ---
 category: news
-title: "When it comes to neural networks learning motion, it's all relative"
-excerpt: "Seeking to explore the capabilities of neural networks for recognizing and predicting motion, a group of researchers led by Hehe Fan developed and tested a deep learning approach based on relative change in position encoded as a series of vectors,"
-publishedDateTime: 2023-03-29T14:34:00Z
-originalUrl: "https://techxplore.com/news/2023-03-neural-networks-motion.html"
-webUrl: "https://techxplore.com/news/2023-03-neural-networks-motion.html"
-ampWebUrl: "https://techxplore.com/news/2023-03-neural-networks-motion.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-neural-networks-motion.amp"
+title: "When it comes to neural networks learning motion, it’s all relative"
+excerpt: "The new method, VecNet+LSTM, scored higher than six other artificial neural network frameworks within the field of video research when tested on recognition of motion. Some of the other frameworks ..."
+publishedDateTime: 2023-03-29T14:18:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/984319"
+webUrl: "https://www.eurekalert.org/news-releases/984319"
 type: article
-quality: 44
-heat: 44
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
-  - Computer Vision
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2023/when-it-comes-to-neura.jpg"
-    width: 660
-    height: 304
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/5dc30d31-cbb5-4e74-b4b3-8cb9f1641333/Rendition/low-res/Content/Public"
+    width: 700
+    height: 322
     isCached: true
 
-secured: "MgCjkfO/mqTTRgLEwv92GUQDakJEHZayKWc9NhV9p4zmMeLp9mVGNaIJqJsKbATHsRp8UBJfLHjrNCzRrPNIbT+UxL5JSikK8V4xTxzCy544t7ZAl6Knoa5yseUGhdaG1pzLGzXq3/xQqJyx01blWLlPB7bdIYNG+4U5dIrPNR5ynC9yfRtUdVYAUgYK5mvpAcMVHf/rLpujSZ7HxNjTLMIHBsQ1nqFyKXCgQIq929Gn8g6IwNZ7B0hne8n+yET20EhI9AV+UsqE8fZm7iN8sB7gJL1R+TPlFLeMBAieOW3bxOGx6D5vy9Rkt7ft6E4kiY3vni0RB9Uz5hOocTFwytP0hjk90bomXKi1V5tnOSo=;KiaZKLWMMhgRbjPzlOkq6Q=="
+secured: "iR8pjahP1pu0vd2v20qaM+ByuWV1SbmOI6bylnxAxIrySzRGMUk6xR+JUEAH23uebLyB5Kt/TPTyHaDdkFtIjGqGH8AMCMk7V1mlm4PNkI3oOh7K44xU6hXsxBjzIePCgu/aSLb9rws+CDJnHilP6vIXye3j3pTZ9KGavv66WrsV88Z9sp0+i9UQkB1hAUjluVE87VsBzRz8/ngHklq45JJt1cceEGAdXZSkS+XawR1oR5GlIwysrMn7AFen5zU+M2xXfs902KXZsY1b9zuL1DH2Gy40unrToqjpNP7qhu/Xd+2b7UcKflGQ8/17IXKI+0/8+ZCA5JatLoucbLSKDzodQXqDl1DHua+NdBJsvAw=;WYKPaSm00+RZkRqlykmOyQ=="
 ---
 

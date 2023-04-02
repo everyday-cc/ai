@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/30/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/30/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
 type: article
 quality: 89
-heat: 309
+heat: 299
 published: true
 
 provider:
@@ -151,20 +151,6 @@ related:
       - url: "https://static.scientificamerican.com/sciam/cache/file/01C9741F-6F6D-4882-8217D92370325AA7.jpg"
         width: 790
         height: 496
-        isCached: true
-  - title: "ChatGPT Has Impostor Syndrome"
-    excerpt: "The AI had somehow learned arithmetic, along with other, higher mathematics; it could translate between many languages and generate functional code. Despite these impressive—and unanticipated ..."
-    publishedDateTime: 2023-03-28T17:09:00Z
-    webUrl: "https://www.theatlantic.com/technology/archive/2023/03/chatgpt-ai-language-model-identity-introspection/673539/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 54
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/mQc_e57eRLgZlD-8vU0-ANuDU1g=/0x43:2000x1085/1200x625/media/img/mt/2023/03/GPT4ImposterFinalNew/original.png"
-        width: 1200
-        height: 625
         isCached: true
   - title: "Big Purple Dot integrates ChatGPT into CRM"
     excerpt: "Big Purple Dot, a real estate marketing platform, moved to integrate ChatGPT into its customer relationship management ecosystem. The Irvine, California- based company is one of the first technology firms in the mortgage space to do so."

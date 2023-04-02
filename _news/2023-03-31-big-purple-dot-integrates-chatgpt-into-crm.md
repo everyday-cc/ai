@@ -163,20 +163,6 @@ related:
         width: 790
         height: 496
         isCached: true
-  - title: "ChatGPT Has Impostor Syndrome"
-    excerpt: "The AI had somehow learned arithmetic, along with other, higher mathematics; it could translate between many languages and generate functional code. Despite these impressive—and unanticipated ..."
-    publishedDateTime: 2023-03-28T17:09:00Z
-    webUrl: "https://www.theatlantic.com/technology/archive/2023/03/chatgpt-ai-language-model-identity-introspection/673539/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 54
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/mQc_e57eRLgZlD-8vU0-ANuDU1g=/0x43:2000x1085/1200x625/media/img/mt/2023/03/GPT4ImposterFinalNew/original.png"
-        width: 1200
-        height: 625
-        isCached: true
   - title: "Preview release of ChatGPT shows potential of artificial intelligence"
     excerpt: "ChatGPT, released as a free prototype by the research laboratory OpenAI last November, is a powerful artificial intelligence technology with socially transformative potential that is being used under capitalism to eliminate jobs,"
     publishedDateTime: 2023-04-01T04:14:00Z

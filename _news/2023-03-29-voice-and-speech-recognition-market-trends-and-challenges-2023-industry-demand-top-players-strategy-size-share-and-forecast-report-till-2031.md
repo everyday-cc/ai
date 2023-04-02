@@ -29,185 +29,83 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare AI Market 2023 Size and Forecast to 2030"
-    excerpt: "Mar 28, 2023 (The Expresswire) -- Healthcare AI Marketinformation for each competitor includes (GENERAL ELECTRIC, IBM Watson Health, Intel Corporation, Next IT Corp, Google, DEEP GENOMICS, Koninklijke Philips N.V, General Vision, NVIDIA Corporation ..."
-    publishedDateTime: 2023-03-28T17:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-2023-size-and-forecast-to-2030-2023-03-28"
+  - title: "Voice Recognition Market New Ready Report Analysis 2029"
+    excerpt: "Top “ Voice Recognition Market ” Size 2023 Key players Profiled in the Report are [, International Business Machines Corporation, Google, Inc., Advanced Voice Recognition Systems, Inc., Nuance Communications,"
+    publishedDateTime: 2023-03-30T00:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-new-ready-report-analysis-2029-2023-03-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 86
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Delivery Robot Market Report | Global Forecast From 2023 To 2030"
-    excerpt: "The Global Artificial Intelligence Delivery Robot market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2027. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-03-29T23:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-report-global-forecast-from-2023-to-2030-2023-03-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) in Healthcare Market [2023-2030] | The Future of Industry a Look at the Next Decade of Growth"
-    excerpt: "Artificial intelligence in healthcare is an overarching term used to describe the use of machine-learning algorithms and software, or artificial intelligence (AI), to mimic human cognition in the ..."
-    publishedDateTime: 2023-03-29T04:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-2023-2030-the-future-of-industry-a-look-at-the-next-decade-of-growth-2023-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market 2023 Size and Forecast to 2030"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2023 (The Expresswire) -- Facial Recognition Marketinformation for each competitor includes (Safran SA, Cognitec Systems GmbH, Synaptics Inc., ASSA ABLOY AB,, Thales ..."
-    publishedDateTime: 2023-03-28T17:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-size-and-forecast-to-2030-2023-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Data and AI Ethics Market 2023 Size Growing Rapidly with Recent Trends"
-    excerpt: "Market Updates(360marketupdates.com) published a new research report on Data and AI Ethics Market 2023 with 110"
-    publishedDateTime: 2023-03-29T02:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2023-size-growing-rapidly-with-recent-trends-2023-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-  - title: "Artificial Intelligence (AI) Market Report Growth 2023-2029"
-    excerpt: "Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses across the Globe Expected to Do Better in 2023 Top “ Artificial Intelligence (AI) Market ” Size 2023 Key players Profiled in the Report are [,"
-    publishedDateTime: 2023-03-30T00:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-report-growth-2023-2029-2023-03-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-  - title: "Artificial Intelligence in IoT Market 2023 Growth, Trend and Outlook till 2031"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 30, 2023 (The Expresswire) -- Artificial Intelligence in IoT Marketinformation for each competitor includes (IBM, Arundo, SAS, GE, SAP, Uptake, Microsoft, Autoplant ..."
-    publishedDateTime: 2023-03-31T09:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-2023-growth-trend-and-outlook-till-2031-2023-03-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Computer Vision Market | New Report 2030"
-    excerpt: "AI in Computer Vision Market” Are a Collection of Information and Analysis Obtained From Diverse Sources to Aid"
-    publishedDateTime: 2023-03-28T18:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-new-report-2030-2023-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-  - title: "AI based Edge Computing Chip Market Growth Report 2023"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 29, 2023 (The Expresswire) -- Global \"AI based Edge Computing Chip Market\" Research Report 2023 is spread across 125 pages and provides Size, Share, Growth, and Forecast ..."
-    publishedDateTime: 2023-03-30T04:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-edge-computing-chip-market-growth-report-2023-2023-03-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-  - title: "Machine Learning (ML) Platforms Market 2023 Size and Forecast to 2031"
-    excerpt: "Platforms market has witnessed a growth from USD million to USD million from 2017 to 2022. With a CAGR of this market is estimated to reach USD million in 2029.\" The Machine Learning (ML) Platforms market has witnessed a growth from USD million to USD million from 2017 to 2022."
-    publishedDateTime: 2023-03-30T01:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-2023-size-and-forecast-to-2031-2023-03-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-  - title: "7 Best AI Stocks Of 2023"
-    excerpt: "Artificial intelligence (AI) is suddenly everywhere. You can thank the release of ChatGPT in November 2022 for setting off the current wave of interest in AI applications. The startup behind ChatGPT is called OpenAI,"
-    publishedDateTime: 2023-03-28T18:57:00Z
-    webUrl: "https://www.forbes.com/advisor/investing/best-ai-stocks/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "AI Governance Market Analysis Report | 2023-2029"
-    excerpt: "The Global AI Governance market is anticipated to rise at a considerable rate during the forecast period. The market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-03-30T00:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-analysis-report-2023-2029-2023-03-29"
+  - title: "Facial Recognition Market 2023: Growing Opportunities by 2028"
+    excerpt: "The global \"Facial Recognition Market\" research study presents an in-depth analysis of the market's revenue, size,"
+    publishedDateTime: 2023-03-29T04:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-growing-opportunities-by-2028-2023-03-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-  - title: "Artificial Intelligence as a Service Market Size, Share and Forecast 2031"
-    excerpt: "Top “ Artificial Intelligence as a Service Market ” Size 2023 Key players Profiled in the Report are [Baidu, Amazon Web Services, Salesforce, Intel, Microsoft, FICO, Bigml, IBM, SAS Institute, Google,"
-    publishedDateTime: 2023-03-30T03:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-size-share-and-forecast-2031-2023-03-29"
+  - title: "Speech Recognition Market New Ready Report Analysis 2028"
+    excerpt: "Top “ Speech Recognition Market ” Size 2023 Key players Profiled in the Report are [VoiceVault, Microsoft, Agnitio, ReadSpeaker Holding, LumenVox, Raytheon BBN Technologies, ATandT, Fluent, Iflytek, Nuance,"
+    publishedDateTime: 2023-03-29T04:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-new-ready-report-analysis-2028-2023-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+  - title: "Top \"Image Recognition in Retail Market\" Future 2023-2031, With 113 Pages"
+    excerpt: "Report Highlights with 113 pages: -\"The global Image Recognition in Retail market size was valued at USD 1743.25 million"
+    publishedDateTime: 2023-03-29T01:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/top-image-recognition-in-retail-market-future-2023-2031-with-113-pages-2023-03-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
-  - title: "Artificial Intelligence and Robotics in Aerospace and Defense Market Trends, Industry Demand and Scope, Top Players Analysis, Forecast 2023 - 2031"
-    excerpt: "Top “ Artificial Intelligence and Robotics in Aerospace and Defense Market ” Size 2023 Key players Profiled in the Report are [, Intel Corporation, Iris Automation Inc., The Boeing Company, Nvidia Corporation,"
-    publishedDateTime: 2023-03-30T03:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-trends-industry-demand-and-scope-top-players-analysis-forecast-2023---2031-2023-03-29"
+  - title: "Object Recognition Imaging Systems Market: Overview of the Regional Outlook"
+    excerpt: "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-03-28T20:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-overview-of-the-regional-outlook-2023-03-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
-  - title: "Global Speech and Voice Recognition Technology Market Size 2023 to 2026 Size and Share Survey Report"
-    excerpt: "Global \"Speech and Voice Recognition Technology Market\" report provides a thorough examination of the present and projected situation of the sector. The research offers useful information about, among other things, the market's size, share, growth ..."
-    publishedDateTime: 2023-03-29T04:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-technology-market-size-2023-to-2026-size-and-share-survey-report-2023-03-28"
+    quality: 47
+  - title: "Face Recognition Device Market Size, Regional Status, and Outlook 2023-2031"
+    excerpt: "We've been tracking the direct and indirect consequences of the COVID-19 outbreak on the Face Recognition Device market. To Know How Covid-19 Pandemic will Impact this Industry -https ..."
+    publishedDateTime: 2023-03-30T03:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-size-regional-status-and-outlook-2023-2031-2023-03-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI and the Future of Health"
-    excerpt: "Read about some of our research team’s work to make healthcare more data-driven, predictive, and precise – ultimately, empowering every person on the planet to live a healthier future."
-    publishedDateTime: 2023-03-30T18:43:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/blog/ai-and-the-future-of-health/"
+    quality: 47
+  - title: "2023-2026 Cognitive Computing Market Size Latest Report by Absolute Reports"
+    excerpt: "Mar 29, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Cognitive Computing Market\""
+    publishedDateTime: 2023-03-29T10:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2026-cognitive-computing-market-size-latest-report-by-absolute-reports-2023-03-29"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2023/03/AI-Health_blog-2023Mar_TW_LI_FB_with_logo_1200x627.jpg"
-        width: 1200
-        height: 627
-        isCached: true
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+  - title: "Artificial Intelligence in Aviation Market [Latest Report] Review Report 2023 Alongside Insights, Figures till 2029"
+    excerpt: "Artificial Intelligence in Aviation Market Size 2023-2029 | New Report (128 Pages) | Analytics | In This Reports"
+    publishedDateTime: 2023-03-30T05:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-latest-report-review-report-2023-alongside-insights-figures-till-2029-2023-03-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
 
 secured: "s5y2jAd3FD/43rD5G0v2BySANX5JVlX4DVgCAUIu0cqmTSkbOm05ygcaPTaksh7vzpssPJL8XJlNgfIj5MkO4HAMvlcr9UHKoC6DTS/D7zIDYXYXtOmdhNpliRWVi9IX5FGSYGEixHqWNhWTXfqkTe0ArAszDMuWpNuQA4wX3wbhDqO4oZuQLke1NeZVzUPBWdXAT7VgSoBnuKfrslPkWYRV9E88pYjXe5E+nHEDkA4VOMfCP9s1E63CQ7mH9hWS103+6mGIWw5r+KJ0CBJHpwPJQ1wO0m8c4sWEZHbvF+bPo1cQZGESPZGOsE1bvEKNQiITGjivnFsxl2SPAPBohPWBHIZbinFNtnD1Lhk0uG0=;5EjV1KCFP2g6doXtg+5zLA=="
 ---

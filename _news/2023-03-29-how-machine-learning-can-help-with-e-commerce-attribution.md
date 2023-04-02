@@ -18,17 +18,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "How machine learning can create a more relevant, profitable e-commerce experience"
-    excerpt: "Machine learning allows brands to use first-party data to deliver relevant messages to customers while enhancing the overall experience."
-    publishedDateTime: 2023-03-28T18:00:00Z
-    webUrl: "https://adage.com/article/digital-marketing-ad-tech-news/how-machine-learning-can-create-more-relevant-profitable-e-commerce-experience/2480741"
-    type: article
-    provider:
-      name: Ad Age
-      domain: adage.com
-    quality: 14
-
 secured: "p/mvTuaGd/fduWbn0SEt1IdpGfyLs70Ylhpp7EN+F3vbGr6Nu0JFjlZmhBuk+8oNBsSpca8Y/LCqoOxd8yvofEXLfEZf7VLHElnEojB3NqCOjSJxZlnVv0sG/uPavk6qksu5DdaBn98U+YetlFq1MSjTNSoaHf5465QL5fYOttZBXNW1IRAhQRYp4WkLPNSiLQaQ9dtczJCHDoQ/3zaZL5RHd+3FYu7r+823Hjs9tPWDCA2I+Ewf09tC8pr1T+hB33MT8lKYHQ6E7jUKXq6KeLDyXqWT7krOzh7mj7KG/JOuBI/xaMtNXdXWTffFNW8w8ZYD7KTILULMhR4bOGTFkdRtNyZDbeDJuL5xqkEZfxY=;MMilwq0XOqYoT/kYUKrluA=="
 ---
 

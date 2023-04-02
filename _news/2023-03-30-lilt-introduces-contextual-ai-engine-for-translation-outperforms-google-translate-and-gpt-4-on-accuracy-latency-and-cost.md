@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/lilt-introduces-contextu
 webUrl: "https://www.marketwatch.com/press-release/lilt-introduces-contextual-ai-engine-for-translation-outperforms-google-translate-and-gpt-4-on-accuracy-latency-and-cost-2023-03-29"
 type: article
 quality: 58
-heat: -1
-published: false
+heat: 88
+published: true
 
 provider:
   name: MarketWatch
@@ -29,46 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI’s GPT-4 violates FTC rules, argues AI policy group"
-    excerpt: "The FTC received a new complaint today from the Center for AI and Digital Policy that calls for an investigation of OpenAI and GPT-4."
-    publishedDateTime: 2023-03-30T21:29:00Z
-    webUrl: "https://venturebeat.com/ai/openais-gpt-4-violates-ftc-rules-argues-ai-policy-group/"
-    ampWebUrl: "https://venturebeat.com/ai/openais-gpt-4-violates-ftc-rules-argues-ai-policy-group/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/openais-gpt-4-violates-ftc-rules-argues-ai-policy-group/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-  - title: "FTC should investigate OpenAI and halt GPT-4 releases, AI research group says"
-    excerpt: "A nonprofit AI research group wants the Federal Trade Commission to investigate OpenAI, Inc. and halt releases of GPT-4. OpenAI \"has released a product GPT-4 for the consumer market that is biased, deceptive,"
-    publishedDateTime: 2023-03-30T19:00:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2023/03/ftc-should-investigate-openai-and-halt-gpt-4-releases-ai-research-group-says/"
-    ampWebUrl: "https://arstechnica.com/tech-policy/2023/03/ftc-should-investigate-openai-and-halt-gpt-4-releases-ai-research-group-says/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/03/ftc-should-investigate-openai-and-halt-gpt-4-releases-ai-research-group-says/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 64
-  - title: "GPT-4 poses too many risks and releases should be halted, AI group tells FTC"
-    excerpt: "A nonprofit AI research group wants the Federal Trade Commission to investigate OpenAI, Inc. and halt releases of GPT-4. OpenAI \"has released a product GPT-4 for the consumer market that is biased, deceptive,"
-    publishedDateTime: 2023-03-30T19:00:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2023/03/ftc-should-investigate-openai-and-halt-gpt-4-releases-ai-research-group-says/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 44
-  - title: "AI ethics group asks FTC to investigate OpenAI"
-    excerpt: "The Center for AI and Digital Policy, or CAIDP, made the request in an FTC complaint released today. At the center of the complaint is the GPT-4 model that OpenAI debuted earlier this month. GPT-4 is the startup’s most advanced neural network to date."
-    publishedDateTime: 2023-03-30T19:02:00Z
-    webUrl: "https://siliconangle.com/2023/03/30/ai-ethics-group-asks-ftc-investigate-openai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
   - title: "Lilt introduces Contextual AI Engine for Translation; Outperforms Google Translate and GPT-4 on accuracy, latency and cost"
     excerpt: "Today we’re releasing the next generation of our revolutionary language technology.” Contextual AI Engine Outperforms Google Translate and GPT-4 Today, Lilt released Contextual AI Engine ..."
     publishedDateTime: 2023-03-29T13:12:00Z
@@ -92,15 +52,20 @@ related:
       name: Slator
       domain: slator.com
     quality: 19
-  - title: "GPT-4 draws more heat as AI advocates file FTC complaint against OpenAI"
-    excerpt: "The office includes data scientists, data engineers, AI specialists and design ethics specialists, Khan said during the Monday summit. Within the first few days of posting job openings, the office received between 300-400 applications. “We're also now ..."
-    publishedDateTime: 2023-03-31T12:55:00Z
-    webUrl: "https://www.marketingdive.com/news/FTC-complaint-AI-Lina-Khan-CAIDP-OpenAI/646487/"
+  - title: "Introducing ActiveBuds: A Revolutionary AI-Powered Earwear Set to Transform Communication, Listening, and Translation"
+    excerpt: "KKO’s ActiveBuds usher in a new era of intelligent earwear, designed to adapt to your unique lifestyle and seamlessly integrate into various scenarios. The Technology Behind ActiveBuds KKO, an industry leader in audio technology,"
+    publishedDateTime: 2023-04-02T11:22:00Z
+    webUrl: "https://techbullion.com/introducing-activebuds-a-revolutionary-ai-powered-earwear-set-to-transform-communication-listening-and-translation/"
     type: article
     provider:
-      name: Marketing Dive
-      domain: marketingdive.com
-    quality: 19
+      name: Impacts
+      domain: techbullion.com
+    quality: 16
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/04/WhatsApp-Image-2023-04-01-at-9.40.30-PM-1000x600.jpeg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "VSiNNAumOvR16EB8C7ZGiSH4i5HzIu/k/9ddGJXy2/Eroj0pS+Z1nOnbTVilviYwbJQz/jmgG7e8rplyqib5UkbonCbX+fScbK/E8m6qfwSfGATl3EA2pmBB3zbIo0H0vkmulpGxpWw1g53udDYf+yLbJTIlJYAimzg9Duti8bIkESOR3qyzmO4HWOpIEXPPqBEk02H30moEwgdHNtZJzr49p9iQVWe3zCzTKoPyqRXTB3d8e7m9UhfJqwXTl44dgMA3PYCFadlHOqRmVAxoFyMsvNEGzYj78DMAlNTovP9ZpDgyzf7dUQforRp2g2GaW1OcVumTCAjdFFFTYbWL41nWOe94myobskCWwq8qZkg=;5eTyWtklMB5pBM3v7nNxXw=="
 ---

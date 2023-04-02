@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "With a nod to EVs, Waymo retires self-driving Pacifica hybrid minivans"
-    excerpt: "Self-driving technology company Waymo will retire its fleet of Chrysler Pacifica hybrid minivans, the vehicular flag-bearers for the nation's first autonomous ride-hailing service. Waymo said Thursday it will replace the vans used in its metro Phoenix ride ..."
-    publishedDateTime: 2023-03-31T11:35:00Z
-    webUrl: "https://www.autonews.com/mobility-report/waymo-retires-self-driving-pacifica-hybrid-minivans-jaguar-evs"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Waymo-MAIN_i_4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Waymo is bringing its fifth-generation Jaguar I-PACE self-driving cars to Texas"
     excerpt: "If you’re in Texas, you could see a self-driving car from Waymo on the road soon. In a blog post, the company announced that will start operating in Austin, Texas again. Waymo has already been in Austin before when Steve Mahan became the first person to ..."
     publishedDateTime: 2023-03-31T18:05:00Z
