@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ways-in-which-artif
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ways-in-which-artificial-intelligence-and-machine-learning-is-changing-engineering-education/"
 type: article
 quality: 80
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Revolutionizing Translation: How AI is Changing the Language Industry"
+    excerpt: "The rise of AI has made it easier, faster, and more accurate to translate text and speech from one language to another. In this post, we will explore the ways in which AI has transformed the translation industry. The most significant way in which AI has ..."
+    publishedDateTime: 2023-03-28T11:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/revolutionizing-translation-how-ai-is-changing-the-language-industry-2023-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
   - title: "Pioneering The Predictive AI Wave In Powering The Hiring Automation Vehicle"
     excerpt: "The company’s products, ~ Ng-NeXT Test and Selectright.ai, are as revolutionary as the founders’ empowering, growth-focused mindset."
     publishedDateTime: 2023-03-31T00:00:00Z

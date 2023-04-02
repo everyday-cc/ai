@@ -1,13 +1,13 @@
 ---
 category: news
 title: "NHL Technology Showcase gives glimpse of future of hockey consumption"
-excerpt: "In another part of the Space Needle Lounge, the evolution of NHL Edge IQ powered by AWS Artificial Intelligence/Machine Learning was being demonstrated. As the puck dropped for the Kraken and Ducks, the circles -- a player's face and name contained within ..."
-publishedDateTime: 2023-03-31T19:12:00Z
-originalUrl: "https://www.nhl.com/news/nhl-technology-showcase-gives-glimpse-of-future-of-hockey-consumption/c-342952272"
-webUrl: "https://www.nhl.com/news/nhl-technology-showcase-gives-glimpse-of-future-of-hockey-consumption/c-342952272"
+excerpt: "The squares flashed across the screen, images from the game between the Seattle Kraken and Anaheim Ducks being played at Climate Pledge Arena, along with images from other games being played Thursday across the NHL."
+publishedDateTime: 2023-03-31T18:51:00Z
+originalUrl: "https://www.nhl.com/news/nhl-technology-showcase-gives-glimpse-of-future-of-hockey-consumption/c-342952272?tid=277548856"
+webUrl: "https://www.nhl.com/news/nhl-technology-showcase-gives-glimpse-of-future-of-hockey-consumption/c-342952272?tid=277548856"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "1TEXw4vohixK0UIDMHQb+uMHvXyIfhMA/JJzGSuDEcPnDVcNiSjPXFNNbTImlq5Wi2mrQW9GXM0TeIhlVahwzHbt/19z2nml2ojy9U9lSeJtJCh0sQXtJn8iX2liSHlJN7e9OkN1DBQ5zx5UDrmXVYDnR0Uuo/x0ZZKXQfMGeFvE202WOXCx5LqqNj8kBVSvA7OPhRRAgjcomW2HkV0Kz2m89QlZHrgpfW3Ty+pMQknqtDueoxUNUYyjA4P0oogNdyqdDgtcASAJR8Be3aLl3fIbvw6IntdQfkF+PpWhYf2prwnt9no9H4BTdDLzUdcnnfsXVfFdVBsKQPj7ur2cwdEWxHVYOlBn5bICjLXih+Am05x+JeG56EnrSkLkkY4I7Q/ydfQ0NCh1s+cPMoAw2T4LnXYdzsGbSMXzBAboWogwpREY5XmyVrM28XWTPegtI4XSlGa38KKc1Oo7mPkaPCOfS11Rc8WsEK/sVyrx9Wj4GbmCBWuFtkqIELSqNHBLfd014PPZuCu3QSYRUFxSIw==;tGeBo1Dml0nIsGEAMb7cqA=="
+images:
+  - url: "https://cms.nhl.bamgrid.com/images/photos/342945182/1024x576/cut.jpg"
+    width: 1024
+    height: 576
+    isCached: true
+
+secured: "wxYzC10h2I0FZs9ekBY90qYbXi8YFRY/iSgfKQDjm0tr5xTIN4ZeCP+w4iENsTMqdMiA6pvAjZhHekxhAs+vedFV2C/oyPQBqDk2YRy3nIKYy5a6UaWifcwB6oNYHUbvqJwAdqZImdjjyfBG2UA7JoCdMdmESV/3Nwl9KSvTIbRxIBNa1UaxTCbtcmQ6UXihoIhBaiK3Nf+h/+Dj3+D9YoOQE0gS7MBYSXkWx3h49eY6ImkQ+Z9P7hV2MIHXpJNU4jl3yVDOzCSDM77GgHQ01rA9qcm0vu6WU8Ika+/woP5nDpYmO1zzAsu79iIKt/H6uUUSYhoo8kWmPr+IPOj5dK+nABt6+ubIgmwTLeOw6iE=;iBPXMd6sFs6wpUGsglYPkw=="
 ---
 

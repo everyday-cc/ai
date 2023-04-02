@@ -48,21 +48,7 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
-  - title: "Electric Vehicle Market To Reach $823.75 Billion By 2030 With Development Of Self-Driving Electric Vehicle Technology"
-    excerpt: "Furthermore, factors such as technological advancements, proactive government initiatives and development of self-driving electric vehicle technology are expected to create ample opportunities for the key players operating in the electric vehicle market."
-    publishedDateTime: 2023-03-28T05:22:00Z
-    webUrl: "https://menafn.com/1105877883/Electric-Vehicle-Market-To-Reach-82375-Billion-By-2030-With-Development-Of-Self-Driving-Electric-Vehicle-Technology"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 1
-    images:
-      - url: "https://menafn.com/updates/pr/2023-03/28/EP_3d0c1image_story.jpeg"
-        width: 890
-        height: 466
-        isCached: true
 
-secured: "VF92DuVbZ2IbWyAgBIhkjxHcRPtpzaCwL0o+2ZnBPtJN56HO3AmHtyBBHBMn6Wkb2pSPEIlMWWd0aucD4sPDuKRj9PwVdFoA9ROD7kmv3uOJ9ucwAR7jaHoSZrfo6cMxoaLqcFGyAFwVFdVCUo0NIxGE9BPbD7u83O8XfOTrf78KZjxJxroHmh8dskXN3s/n8MELuWVh9nB+eFJE47d9msVd92fOh1CfTfl6LRZ/4If6cT3V/cnnAkM2XqXf66w0QQ3/1PqL16/5jCKSuaCzAg7r9V2iRVcRyoCtfO2cAg8s05BI99M2dURQGc7RVyJsOBwJ47dlQ+DCV91WsD3jChaRlRzhpUC2y21u+eeUgZ0=;PfFsXq5UQkInTjkdOku/uQ=="
+secured: "TPMCyUo3HHg9OPLRumdoPyJuVl1cBiEhlnUNGuemupffv1dHGDyMOAWswaNVGuHWIxhrm8XTKDIvC04EhdqNVGmbQpbK1IC6uSvT1GqnUkVmDw4hOymfjIcm1Ztpg7Szq4XwiyhmfWYBmWIk6qcs71Csgr1RVT5YVum0e8dEFCmr7+5eoFYxuaUsBq7gXMRQhG2ToJz4YM27dO2CTJ4XU6ej5+QTOP1jKUeXU4JQnEMdszoe4AAFnvDtzAgapbm9IJSgySmtCojlHzBKB9RFCXz4ZtdgMgwAjSA4+M6Ma65lfRtq1ZpfgmPQd5G2NJg1sYjuzBDz1ihhK0O8gwr7zoiI1y6K6fCwVVUuDRGhpIvHPog95LufrAPZDOwZ+ZALK6X8bM7Se4NZctxNPjtGlRFyI0SCsx+eN47uIXZw2LN6z+zb8nOTSCixVli0nXYwfu4dmo586SNlIeUic7wz78SdTNlZPlxj54R1U9wPAMtfwJrDloKvqcIokPRxTVw8iR1IVX/tr4iDxvj6e28W0w==;99ewZW4fU/F2OHM47/X9gA=="
 ---
 

@@ -104,7 +104,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ways-in-which-artificial-intelligence-and-machine-learning-is-changing-engineering-education/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -405,7 +405,7 @@
       "originalUrl": "https://www.engadget.com/watch-us-try-to-break-google-bard-and-bing-ai-153052165.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -429,58 +429,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-01-the-rise-of-ai-taylor-swift.md",
-      "title": "The Rise of AI Taylor Swift",
-      "excerpt": "But AI Taylor Swift’s viral spread on TikTok adds a wrinkle to these dynamics. It’s one thing to debate the ethics of so-called real-person fiction among fans in a siloed corner of the internet, but on such a large and algorithmically engineered ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/technology/archive/2023/03/ai-taylor-swift-fan-generated-deepfakes-misinformation/673596/",
-      "originalUrl": "https://www.theatlantic.com/technology/archive/2023/03/ai-taylor-swift-fan-generated-deepfakes-misinformation/673596/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/bcpkOj1yfdGWiupOdCoLS_4FvxY=/0x41:1917x1039/1200x625/media/img/mt/2023/03/AI_Taylor_4_still/original.jpg",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-31T14:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -552,6 +500,50 @@
       ]
     },
     {
+      "path": "_news/2023-04-01-automation-does-not-mean-elimination-ais-role-in-job-security.md",
+      "title": "Automation does not mean elimination: AI’s role in job security",
+      "excerpt": "New research shows us that only 50% of employees see technology as a strong asset for efficiency. IT teams are currently drivers of technology innovation implementation for their organizations, and IT optimization is slated to be the third largest AI use ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/automation-does-not-mean-elimination-ais-role-in-job-security/",
+      "originalUrl": "https://venturebeat.com/ai/automation-does-not-mean-elimination-ais-role-in-job-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-31T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-04-01-ai-will-soon-become-impossible-for-humans-to-comprehendthe-story-of-neural-networks-tells-us-why.md",
       "title": "AI will soon become impossible for humans to comprehend—the story of neural networks tells us why",
       "excerpt": "In 1956, during a year-long trip to London and in his early 20s, the mathematician and theoretical biologist Jack D. Cowan visited Wilfred Taylor and his strange new \"learning machine\". On his arrival he was baffled by the \"huge bank of apparatus\" that confronted him.",
@@ -560,7 +552,7 @@
       "originalUrl": "https://techxplore.com/news/2023-03-ai-impossible-humans-comprehendthe-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1161,7 +1153,7 @@
       "originalUrl": "https://www.outlookindia.com/business/kolkata-airport-gets-digiyatra-check-in-with-facial-recognition-tech-news-274975",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {

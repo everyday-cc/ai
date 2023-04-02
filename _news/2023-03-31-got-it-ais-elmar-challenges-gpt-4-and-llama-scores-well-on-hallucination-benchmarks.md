@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/got-it-ai-elmar-challenges-gpt-4-and-llam
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/got-it-ai-elmar-challenges-gpt-4-and-llama/amp/"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:

@@ -67,21 +67,19 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Nvidia shows how AI can improve chip design"
-    excerpt: "Nvidia, the world’s leading designer of computer chips used in creating artificial intelligence, on Monday showed new research that explains how AI can be used to improve chip design. The process of designing a chip involves deciding where to place tens of billion of tiny on-off switches called transistors on a piece of silicon to create working chips."
-    publishedDateTime: 2023-03-28T05:32:00Z
-    webUrl: "https://techcentral.co.za/nvidia-shows-how-ai-can-improve-chip-design/223714/"
-    ampWebUrl: "https://techcentral.co.za/nvidia-shows-how-ai-can-improve-chip-design/223714/?amp=1"
-    cdnAmpWebUrl: "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/nvidia-shows-how-ai-can-improve-chip-design/223714/?amp=1"
+  - title: "Embracing the next generation of AI services"
+    excerpt: "With networks growing in complexity, adopting AIOps into your strategy can unlock new ways to streamline your operations, writes Quinton O’Reilly"
+    publishedDateTime: 2023-04-01T22:04:00Z
+    webUrl: "https://www.businesspost.ie/article/embracing-the-next-generation-of-ai-services/"
     type: article
     provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 74
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 39
     images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2022/06/nvidia-1500-800.jpg"
-        width: 1500
-        height: 800
+      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=e1d23019-9fa7-5899-87ef-3670a368beb9&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84428&width=1994&height=1122&x=1.0E-5&y=0.0788"
+        width: 1994
+        height: 1122
         isCached: true
   - title: "Major Cloud Providers Seek to Rejuvenate Sales With Generative AI"
     excerpt: "Microsoft (Nasdaq: MSFT) and Google are investing in generative artificial intelligence tools to drive revenue performance in their cloud businesses, The Wall Street Journal reported Monday. Sources told WSJ that Microsoft CEO Satya Nadella has discussed how AI on the Azure cloud platform could help companies improve efficiency through presentations at the company’s sales meetings."

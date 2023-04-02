@@ -7,8 +7,8 @@ originalUrl: "https://www.theatlantic.com/technology/archive/2023/03/ai-taylor-s
 webUrl: "https://www.theatlantic.com/technology/archive/2023/03/ai-taylor-swift-fan-generated-deepfakes-misinformation/673596/"
 type: article
 quality: 69
-heat: 70
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Atlantic

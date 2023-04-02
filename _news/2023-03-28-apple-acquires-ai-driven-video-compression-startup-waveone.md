@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/apple-acquires
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/apple-acquires-ai-driven-video-compression-startup-waveone-789998"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Hans India
@@ -35,20 +35,6 @@ related:
       name: Macworld
       domain: macworld.com
     quality: 47
-  - title: "Apple quietly acquires AI-driven video compression startup WaveOne"
-    excerpt: "Apple has quietly acquired WaveOne, a California-based startup that develops AI algorithms for video compression"
-    publishedDateTime: 2023-03-28T05:47:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/apple-quietly-acquires-ai-driven-video-compression-startup-waveone-123032800223_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 37
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-03/15/full/1678859871-6936.jpg"
-        width: 620
-        height: 464
-        isCached: true
 
 secured: "3ygqZW1P9JIab3EW6CicTFF0rJlSrdyYx24jKMq0ta/8WLcSxNkUvAyI2VkBGTAHiw4VL/jV0CY0BC52JdxbbwdknZBkiGvKoV5FFxODGgmGpl+wl7qwPU/KlQTUjLSpNBOe8wHke8TFdgPesVV4gF1rKQZdttwRcafPda+FYVOdlIGj2jWh9jDJY9Fz6UsSrxPrO5HEKv+2aJY7D+6lUbtwLUvze5lolT07XFnC9v/jIs8a7ES2jppcHIFBJsltD6jAwlRYwzY1+976Es3xLjCcFCoWqhiAmysmdBzJ3ysfYKqyotfBk7PfNJDmfHCatt5lALk+M8Nr7QafuWm1AH9umVPcqUxQJ9AD55+bTKzaqV/OFzyLLLVTp/iQeujzLGrPHU5w/9rLdhR5DcNcD5sG06bcHdrz7EwSLdi9yoXH01edCQu99uXmXHlgIBKTKHcsZHbvgvjj0Q72OiqIo93n6vg7v01soKYrKShDrZjP+VcGwhj0rB90ZoM4Pwqok7BvpS9G+5OhvQsOyJKQmA==;v1d4VLn2jMDcDLsArpCOOw=="
 ---

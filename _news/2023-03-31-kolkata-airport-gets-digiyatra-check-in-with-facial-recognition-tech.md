@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/business/kolkata-airport-gets-digiyatra
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/kolkata-airport-gets-digiyatra-check-in-with-facial-recognition-tech-news-274975/amp"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

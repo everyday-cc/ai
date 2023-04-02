@@ -33,6 +33,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "MTN plans migration of services to Microsoft Azure"
+    excerpt: "MTN has said that it has established the MTN Group Cloud Centre of Excellence and Project Nephos that will carefullly migrate selected business applications to Microsoft Azure."
+    publishedDateTime: 2023-04-01T22:41:00Z
+    webUrl: "https://punchng.com/mtn-plans-migration-of-services-to-microsoft-azure/"
+    ampWebUrl: "https://punchng.com/mtn-plans-migration-of-services-to-microsoft-azure/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/mtn-plans-migration-of-services-to-microsoft-azure/?amp"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 74
+    images:
+      - url: "https://cdn.punchng.com/wp-content/uploads/2022/09/18024056/MTN-new-logo-e1663465256894.jpg"
+        width: 906
+        height: 597
+        isCached: true
   - title: "Kinaxis Brings Concurrent Supply Chain Planning to Microsoft Azure Marketplace"
     excerpt: "With supply chain elevated to a board-level topic, digital transformation of planning has become a top initiative. By bringing RapidResponse to the Microsoft Azure Marketplace, more companies will be able to take advantage of the supply chain agility Kinaxis delivers,"
     publishedDateTime: 2023-03-29T21:50:00Z

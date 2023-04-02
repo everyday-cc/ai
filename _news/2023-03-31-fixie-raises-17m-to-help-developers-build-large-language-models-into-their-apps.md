@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Large language models opening a whole new world for SMBs"
-    excerpt: "Large language models are fuelling the current AI frenzy. These are systems like ChatGPT, which are based on deep learning algorithms that can recognise, summarise, translate and generate text content based on vast amounts of data. Large Language Models ..."
-    publishedDateTime: 2023-03-28T07:02:00Z
-    webUrl: "https://www.the-star.co.ke/business/2023-03-28-large-language-models-opening-a-whole-new-world-for-smbs/"
+  - title: "AI startup Fixie raises $17M in seed round led by Redpoint Ventures"
+    excerpt: "\"Fixie brings to life the promise of generative AI for companies.\" The Corporate Citizenship Awards luncheon honors local corporate philanthropists and companies who have made significant contributions to our region. Nominate an outstanding LGBTQ business ..."
+    publishedDateTime: 2023-03-30T21:32:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2023/03/30/fixie-ai-fundraise-seattle-redpoint-madrona.html"
     type: article
     provider:
-      name: The Star
-      domain: the-star.co.ke
-    quality: 24
-    images:
-      - url: "https://lh3.googleusercontent.com/_ZMYAoc8wtlyaS37O5fA8ViovxwrM0DqhNQoDXB39NoPFxeC80eNjRh91SgKj-hX36NMGAs52h_hnVptaOZvzdRG10VkiT70275Jtx5l=s1000"
-        width: 1000
-        height: 576
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "bnTVix4weI/UiwHBogrOg6xSAkSzxnvRMx2Mnkp+qqmmN/El46vNuF1i4TgHF5kWorQ3y4rfDKUQO8x3tu6mA9F4mWCh1KHqEXDp1CYCho5G1YdFogfREL9azPMp8JVQlCSKN+QXITqd1gl+8hDfiZNz1TBVxCZ5lOvOkRtCtze5pM2qfmZza6A01NJIDEOsSO5XQItRErT4QJOd4ZJ6O4CXJRjVwrzb1aoAp23rkEp5HPyL3v4dH3zh06JKHjorD8Jx7A/09qNE8TfY/atrM85U5vNOt4duoEyH+RAeJo+JrRPIhtRK6HPTcqNu0KL+D6MHbAzA8y4x1oHvv+k7BZF9aNEs77XsuRzmi3tlvzEyq/IgtrBf+WkqJgiXy85FaXo7wG2hIsPopWeVkfKCYI+SM2WI/s2TM9S3/1b7TynnFYCJ9+TzZO9pM/y/iRht7EE8JQ4kGi5vocoaiXWrNTY6pUmVtW1Vj6h7NMt9RR0JtbSf6vyJY98NyBvmfO1F//ySjcP5dNiVtQUiixQoww==;3g7WxvK8pDxQn7F1QVq+Dg=="
 ---

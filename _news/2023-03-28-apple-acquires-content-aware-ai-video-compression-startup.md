@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Apple quietly acquires AI-driven video compression startup WaveOne"
-    excerpt: "Apple has quietly acquired WaveOne, a California-based startup that develops AI algorithms for video compression"
-    publishedDateTime: 2023-03-28T05:47:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/apple-quietly-acquires-ai-driven-video-compression-startup-waveone-123032800223_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 37
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-03/15/full/1678859871-6936.jpg"
-        width: 620
-        height: 464
-        isCached: true
 
 secured: "Io+Ct2Pj8DpfuT8/aJ/ZQ22aMYc22ebTiVfSOcadZ9ixpV8gpaD0ZovhLu3HmSb9LnV8SZBZhfCq414xbf4x+BWJQl8nLn1/2f7opOzH/HrDnT4oQxs5zryJniiP3IIKh3jVl61t3EpIcbUCYufEoNyitIERaCTKeMymrEW6FQvjlUpEOjq2ILPnGlca+xRw9nVKtFf+mNx33UKqhkTAixEA7HWyufKoliKOJ7fJu5AQxab8ijRsRiNUeL2DNaNpeMiA+iJVOnmesbKPYaaour3hMM2MrK5wLr6FQw8rNh9SyIt1NIYO8e67iq8O6eXyIV0RkUZ7md/2CFYjfXkFLj8sSy0T0THGAJmkGWoaaWPcsIbPnp4xToX6qcH7iyHFmJJETfYSUvSj/nOhwNdEQW0oJ3gH2TgbootLl99C161heloo8euaMfKNnK9WVweMGf/pa9/Y1E3uqD2FripwAvDFkLOxPu8m/z6bvFX/ZEmRAjmEpJjhRadWL4YjztvBLQzQcV5aKDBbIsKPxSkCww==;+ifa3OH+2TdIdwv1YAE4/A=="
 ---

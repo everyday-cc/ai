@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2023/03/30/as-elon-musk-calls-for-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/03/30/as-elon-musk-calls-for-a-pause-on-ai-development-will-the-ai-wars-reach-a-temporary-truce/amp/"
 type: article
 quality: 58
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://images.barrons.com/im-755329/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Elon Musk puts Bill Gates on blast over understanding artificial intelligence"
-    excerpt: "Elon Musk took a dig at Bill Gates after the Microsoft founder wrote that he's been meeting with OpenAI since 2016, way before the release of ChatGPT."
-    publishedDateTime: 2023-03-28T05:32:00Z
-    webUrl: "https://www.tweaktown.com/news/90869/elon-musk-puts-bill-gates-on-blast-over-understanding-artificial-intelligence/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 36
-    images:
-      - url: "https://static.tweaktown.com/news/9/0/90869_26333_elon-musk-puts-bill-gates-on-blast-over-understanding-artificial-intelligence.jpg"
-        width: 620
-        height: 348
         isCached: true
   - title: "Elon Musk calls for artificial intelligence pause"
     excerpt: "Musk and hundreds of other tech industry experts are calling for a pause on experiments, calling the new technology a risk to society unless there’s proper oversight. ABC News’ Andrea Fujii explains."

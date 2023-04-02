@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/xoriant-x-celerate-insig
 webUrl: "https://www.marketwatch.com/press-release/xoriant-x-celerate-insights-analytics-solution-now-available-in-the-microsoft-azure-marketplace-2023-03-29"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "MTN plans migration of services to Microsoft Azure"
+    excerpt: "MTN has said that it has established the MTN Group Cloud Centre of Excellence and Project Nephos that will carefullly migrate selected business applications to Microsoft Azure."
+    publishedDateTime: 2023-04-01T22:41:00Z
+    webUrl: "https://punchng.com/mtn-plans-migration-of-services-to-microsoft-azure/"
+    ampWebUrl: "https://punchng.com/mtn-plans-migration-of-services-to-microsoft-azure/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/mtn-plans-migration-of-services-to-microsoft-azure/?amp"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 74
+    images:
+      - url: "https://cdn.punchng.com/wp-content/uploads/2022/09/18024056/MTN-new-logo-e1663465256894.jpg"
+        width: 906
+        height: 597
+        isCached: true
   - title: "Kinaxis Brings Concurrent Supply Chain Planning to Microsoft Azure Marketplace"
     excerpt: "With supply chain elevated to a board-level topic, digital transformation of planning has become a top initiative. By bringing RapidResponse to the Microsoft Azure Marketplace, more companies will be able to take advantage of the supply chain agility Kinaxis delivers,"
     publishedDateTime: 2023-03-29T21:50:00Z

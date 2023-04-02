@@ -2,49 +2,6 @@
   "page": 27,
   "value": [
     {
-      "path": "_news/2023-03-09-you-have-no-idea-what-artificial-intelligence-really-does.md",
-      "title": "You Have No Idea What Artificial Intelligence Really Does",
-      "excerpt": "Here it was, finally — a robot plucked straight out of science fiction, the closest thing to true artificial intelligence ... those being developed for self-driving cars, do all their learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/artificial-intelligence-hype",
-      "originalUrl": "https://futurism.com/artificial-intelligence-hype",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2018/10/artificial-intelligence-hype-deception.png",
-          "width": 2400,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T01:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-09-lt-technology-services-unveils-coe-to-offer-suite-of-automotive-solutions-on-aws.md",
       "title": "L&T Technology Services Unveils CoE to Offer Suite of Automotive Solutions on AWS",
       "excerpt": "L&T Technology Services Limited (BSE: 540115, NSE: LTTS), a leading global pure-play engineering services company, today announced a new Centre of Excellence (CoE) in Mysore (Karnataka, India) that leverages the power of the cloud with Amazon Web Services (AWS).",
@@ -1086,6 +1043,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-humans-and-our-alarming-fear-of-robots.md",
+      "title": "Humans and Our Alarming Fear of Robots",
+      "excerpt": "I couldn’t help myself. “Everyone? That’s disingenuous.” The Tokyo robot was one of many robots and other forms of artificial intelligence (AI) that have grated on my nerves. I’m not alone in my disdain. Scientists have been studying robot hate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.discovermagazine.com/mind/humans-and-our-alarming-fear-of-robots",
+      "originalUrl": "https://www.discovermagazine.com/mind/humans-and-our-alarming-fear-of-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.ctfassets.net/cnu0m8re1exe/3GG7tX1uWzasiXe98ywtHM/361ef445bef3b1d9511b3904ac9f3a4d/shutterstock_719376568.jpg",
+          "width": 1000,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T14:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Discover Magazine",
+        "domain": "discovermagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

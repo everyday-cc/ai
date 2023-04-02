@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/watch-us-try-to-break-google-bard-and-b
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/watch-us-try-to-break-google-bard-and-bing-ai-153052165.html"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

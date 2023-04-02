@@ -45,20 +45,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Elon Musk puts Bill Gates on blast over understanding artificial intelligence"
-    excerpt: "Elon Musk took a dig at Bill Gates after the Microsoft founder wrote that he's been meeting with OpenAI since 2016, way before the release of ChatGPT."
-    publishedDateTime: 2023-03-28T05:32:00Z
-    webUrl: "https://www.tweaktown.com/news/90869/elon-musk-puts-bill-gates-on-blast-over-understanding-artificial-intelligence/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 36
-    images:
-      - url: "https://static.tweaktown.com/news/9/0/90869_26333_elon-musk-puts-bill-gates-on-blast-over-understanding-artificial-intelligence.jpg"
-        width: 620
-        height: 348
-        isCached: true
   - title: "Top cyber general rejects Elon Musk’s call for artificial intelligence pause"
     excerpt: "U.S. military forces have a “tenuous” advantage over China in the realm of artificial intelligence that would fray if Silicon Valley halts development of the systems, according to the Pentagon’s top cyber warfare officer. “Artificial intelligence ..."
     publishedDateTime: 2023-03-30T20:14:00Z

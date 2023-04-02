@@ -37,20 +37,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 58
-  - title: "Elon Musk puts Bill Gates on blast over understanding artificial intelligence"
-    excerpt: "Elon Musk took a dig at Bill Gates after the Microsoft founder wrote that he's been meeting with OpenAI since 2016, way before the release of ChatGPT."
-    publishedDateTime: 2023-03-28T05:32:00Z
-    webUrl: "https://www.tweaktown.com/news/90869/elon-musk-puts-bill-gates-on-blast-over-understanding-artificial-intelligence/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 36
-    images:
-      - url: "https://static.tweaktown.com/news/9/0/90869_26333_elon-musk-puts-bill-gates-on-blast-over-understanding-artificial-intelligence.jpg"
-        width: 620
-        height: 348
-        isCached: true
   - title: "Elon Musk calls for artificial intelligence pause"
     excerpt: "Musk and hundreds of other tech industry experts are calling for a pause on experiments, calling the new technology a risk to society unless there’s proper oversight. ABC News’ Andrea Fujii explains."
     publishedDateTime: 2023-03-30T12:07:00Z

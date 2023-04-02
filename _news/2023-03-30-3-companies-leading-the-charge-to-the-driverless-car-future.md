@@ -36,22 +36,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 67
-  - title: "Driverless cars ready for hire in suburban Beijing"
-    excerpt: "It added that Baidu plans to expand its autonomous ride-hailing services to 65 cities in 2025 and 100 in 2030. China’s self-driving taxi service is expected to reach 1.3 trillion (188.6 billion U.S. dollars) by 2030, accounting for 60 percent of the ..."
-    publishedDateTime: 2023-03-28T06:50:00Z
-    webUrl: "https://dailytimes.com.pk/1078112/driverless-cars-ready-for-hire-in-suburban-beijing/"
-    ampWebUrl: "https://dailytimes.com.pk/1078112/driverless-cars-ready-for-hire-in-suburban-beijing/amp/"
-    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/1078112/driverless-cars-ready-for-hire-in-suburban-beijing/amp/"
-    type: article
-    provider:
-      name: Daily Times
-      domain: dailytimes.com.pk
-    quality: 59
-    images:
-      - url: "https://dailytimes.com.pk/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
 
 secured: "qBh7qMMjZ8TflvfO90eUiNRrvdIICF+tFwW1bhVZWHyW3gI4XdK5s+8h4SNzF2qfP/dJ/yw0fkXR33HCZcFhFm1iKf/qZ2DPcoQGIT1BT5hgO3luCJbrlxD+EMoftciSRn4kmeIZTzuFlv/rbgtsH9kHUZSlaepRH/+5Cf1hFXNk/w9Fw+cs0Kg3gYpxQl89rVTFkde0XIwLaPKIRgPBEEI5NdjBh8outsB9K9IxjOHwvvSdMy4IVnCAnPPJ2skfgxrbdd3l/8FqkGbuCH0wIL+SRWN7K7cj+ugS2zKsueM0dLCRgsQf1v5xQANelCEK1CXYNTZ7OrPEFx3e2MJOd1lTL8v/VVZwNw4R5DEhilY=;u11uwLzmn+lC0wi5m+tylA=="
 ---

@@ -66,22 +66,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Nvidia shows how AI can improve chip design"
-    excerpt: "Nvidia, the world’s leading designer of computer chips used in creating artificial intelligence, on Monday showed new research that explains how AI can be used to improve chip design. The process of designing a chip involves deciding where to place tens of billion of tiny on-off switches called transistors on a piece of silicon to create working chips."
-    publishedDateTime: 2023-03-28T05:32:00Z
-    webUrl: "https://techcentral.co.za/nvidia-shows-how-ai-can-improve-chip-design/223714/"
-    ampWebUrl: "https://techcentral.co.za/nvidia-shows-how-ai-can-improve-chip-design/223714/?amp=1"
-    cdnAmpWebUrl: "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/nvidia-shows-how-ai-can-improve-chip-design/223714/?amp=1"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 74
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2022/06/nvidia-1500-800.jpg"
-        width: 1500
-        height: 800
-        isCached: true
   - title: "Nvidia Is More Than AI Chips. The Stock Has Software Upside, Says Analyst."
     excerpt: "Piper Sandler analyst Harsh Kumar increased his price target on Nvidia stock to $300 from $275 and reaffirmed his Overweight rating."
     publishedDateTime: 2023-03-29T18:59:00Z
@@ -93,6 +77,20 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 52
+  - title: "Embracing the next generation of AI services"
+    excerpt: "With networks growing in complexity, adopting AIOps into your strategy can unlock new ways to streamline your operations, writes Quinton O’Reilly"
+    publishedDateTime: 2023-04-01T22:04:00Z
+    webUrl: "https://www.businesspost.ie/article/embracing-the-next-generation-of-ai-services/"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 39
+    images:
+      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=e1d23019-9fa7-5899-87ef-3670a368beb9&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84428&width=1994&height=1122&x=1.0E-5&y=0.0788"
+        width: 1994
+        height: 1122
+        isCached: true
   - title: "Nvidia's New Research Shows How AI Can Be Used to Improve Chip Design"
     excerpt: "Nvidia released a paper on Monday showing that it could use a combination of AI techniques to find better ways to place big groups of transistors."
     publishedDateTime: 2023-03-28T07:17:00Z
