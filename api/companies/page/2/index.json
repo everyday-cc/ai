@@ -85,7 +85,7 @@
       "twitter": {
         "username": "grammarly",
         "url": "https://twitter.com/grammarly",
-        "followers": 231125
+        "followers": 231126
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -176,7 +176,7 @@
       "twitter": {
         "username": "zscaler",
         "url": "https://twitter.com/zscaler",
-        "followers": 14050
+        "followers": 14051
       },
       "yearFounded": 0,
       "locations": [
@@ -428,7 +428,7 @@
       "twitter": {
         "username": "anduriltech",
         "url": "https://twitter.com/anduriltech",
-        "followers": 20991
+        "followers": 20990
       },
       "size": "51-200 employees",
       "yearFounded": 2017,
@@ -532,7 +532,7 @@
       "twitter": {
         "username": "Aptiv",
         "url": "https://twitter.com/Aptiv",
-        "followers": 18607
+        "followers": 18609
       },
       "yearFounded": 0,
       "locations": [
@@ -829,7 +829,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 106,
+          "heat": 107,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1645816376693755907/5Fzqa4ch_400x400.jpg",
@@ -1044,7 +1044,7 @@
       "twitter": {
         "username": "Speechmatics",
         "url": "https://twitter.com/Speechmatics",
-        "followers": 1572
+        "followers": 1573
       },
       "size": "51-200 employees",
       "yearFounded": 2009,
@@ -1089,7 +1089,7 @@
       "twitter": {
         "username": "theirisai",
         "url": "https://twitter.com/theirisai",
-        "followers": 2961
+        "followers": 2997
       },
       "yearFounded": 0,
       "locations": [
@@ -1423,7 +1423,7 @@
       "twitter": {
         "username": "IntelAI",
         "url": "https://twitter.com/IntelAI",
-        "followers": 27362
+        "followers": 27361
       },
       "size": "10,001+ employees",
       "yearFounded": 1968,
