@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-15-characterizing-abnormal-neural-networks-in-dogs-with-anxiety.md",
+      "title": "Characterizing abnormal neural networks in dogs with anxiety",
+      "excerpt": "Researchers at Ghent University in Belgium report abnormalities in functional neural networks of dogs diagnosed with anxiety. Led by Yangfeng Xu (Ghent Experimental Psychiatry Lab, GHEP; ORSAMI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/03/230315143836.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/03/230315143836.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-15-news-tagged-with-deep-learning.md",
       "title": "News tagged with deep learning",
       "excerpt": "A deep learning model can accurately evaluate the area subscore of the Palmoplantar Pustulosis Area and Severity Index (PPPASI), according to a study published online Feb. 23 in the Journal of ...",
@@ -1373,40 +1416,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-03-07-artificial-intelligence-can-now-simultaneously-detect-up-to-nine-pathologies-in-one-image.md",
-      "title": "Artificial intelligence can now simultaneously detect up to nine pathologies in one image",
-      "excerpt": "For almost three years, the service has been helping Moscow doctors to find slightest abnormalities in images.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mos.ru/en/news/item/120700073/",
-      "originalUrl": "https://www.mos.ru/en/news/item/120700073/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mos.ru/amp/en/news/item/120700073/",
-      "cdnAmpWebUrl": "https://www-mos-ru.cdn.ampproject.org/c/s/www.mos.ru/amp/en/news/item/120700073/",
-      "publishedDateTime": "2023-03-06T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mos",
-        "domain": "www.mos.ru",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-01-06-ceva-lg-to-bring-intelligent-vision-processing-to-smart-home-appliances.md",
+      "title": "CEVA, LG to Bring Intelligent Vision Processing to Smart Home Appliances",
+      "excerpt": "CEVA, the leading licensor of wireless connectivity and smart sensing technologies and co-creation solutions, announced that LG Electronics (LG) has licensed and deployed the CEVA-XM4 intelligent vision DSP in its Edge AI system-on-chip (SoC) 'LG8111' to advance the user experience of a new generation of smart home appliances.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefastmode.com/technology-solutions/29708-ceva-lg-to-bring-intelligent-vision-processing-to-smart-home-appliances",
+      "originalUrl": "https://www.thefastmode.com/technology-solutions/29708-ceva-lg-to-bring-intelligent-vision-processing-to-smart-home-appliances",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thefastmode.com/media/k2/items/src/27716503839b65af140e38aa28d5c6df.jpg?t=20230106_011855",
+          "width": 752,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T17:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deep",
+        "domain": "thefastmode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-05-tencent-cloud-named-as-major-player-in-idc-marketscape-worldwide-general-purpose-computer-vision-ai-software-platforms-2022-vendor-assessment.md",
       "title": "Tencent Cloud Named as Major Player in IDC MarketScape: Worldwide General-Purpose Computer Vision AI Software Platforms 2022 Vendor Assessment",
       "excerpt": "Tencent Cloud – the cloud business of global technology company Tencent, today announced that it has been named a Major Player in the IDC MarketScape:",
@@ -1290,50 +1333,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-emergent-color-categorization-in-a-neural-network-trained-for-object-recognition.md",
-      "title": "Emergent color categorization in a neural network trained for object recognition",
-      "excerpt": "Color is a prime example of categorical perception, yet it is unclear why and how color categories emerge. On the one hand, prelinguistic infants and several animals treat color categorically. On the other hand,",
-      "sourceUrl": null,
-      "webUrl": "https://elifesciences.org/articles/76472",
-      "originalUrl": "https://elifesciences.org/articles/76472",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://elifesciences.org/assets/images/social/icon-600x600@1.75dbe4c9.png",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T08:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eLife",
-        "domain": "elifesciences.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,41 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-22-trade-surveillance-systems-global-market-report-2022-ai-and-machine-learning-integration-to-bolster-sector-moving-forward.md",
+      "title": "Trade Surveillance Systems Global Market Report 2022: AI And Machine Learning Integration To Bolster Sector Moving Forward",
+      "excerpt": "The \"trade surveillance systems global market report 2022: ukraine-russia war impact\" report has been added to ResearchAndMarkets.com's offering. The global trade surveillance systems market is expected to grow from $1.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105835668/Trade-Surveillance-Systems-Global-Market-Report-2022-AI-And-Machine-Learning-Integration-To-Bolster-Sector-Moving-Forward",
+      "originalUrl": "https://menafn.com/1105835668/Trade-Surveillance-Systems-Global-Market-Report-2022-AI-And-Machine-Learning-Integration-To-Bolster-Sector-Moving-Forward",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T01:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-2023-2028-neural-network-market-insights-and-demand-outlook.md",
       "title": "2023-2028 Neural Network Market Insights and Demand Outlook",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 21, 2023 (The Expresswire) -- The “Neural Network Market” Report provides accurate information on industry SWOT analysis, CAGR status, product growth prospects and ...",
@@ -1379,49 +1414,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-characterizing-abnormal-neural-networks-in-dogs-with-anxiety.md",
-      "title": "Characterizing abnormal neural networks in dogs with anxiety",
-      "excerpt": "Researchers at Ghent University in Belgium report abnormalities in functional neural networks of dogs diagnosed with anxiety. Led by Yangfeng Xu (Ghent Experimental Psychiatry Lab, GHEP; ORSAMI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/03/230315143836.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/03/230315143836.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

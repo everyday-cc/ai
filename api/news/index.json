@@ -2,6 +2,307 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-15-generative-ai-music-platform-creates-forever-songs-with-artists-unique-sounds-melodies-and-beats.md",
+      "title": "Generative AI Music Platform Creates Forever Songs With Artists’ Unique Sounds, Melodies, And Beats",
+      "excerpt": "A generative AI startup named Aimi has launched a new music platform that fundamentally transforms music, artists, listeners, and monetization. It’s simultaneously a creation tool that works alongside artists to create tracks, a listening experience that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2023/04/14/generative-ai-music-platform-creates-forever-songs-with-artists-unique-sounds-melodies-and-beats/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/04/14/generative-ai-music-platform-creates-forever-songs-with-artists-unique-sounds-melodies-and-beats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64398a48797e9c71efa00872/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 843,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2023/04/14/generative-ai-music-platform-creates-forever-songs-with-artists-unique-sounds-melodies-and-beats/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/04/14/generative-ai-music-platform-creates-forever-songs-with-artists-unique-sounds-melodies-and-beats/amp/",
+      "publishedDateTime": "2023-04-14T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-15-a-chinese-company-is-reportedly-planning-to-replace-some-human-copywriters-and-graphic-designers-with-ai.md",
+      "title": "A Chinese company is reportedly planning to replace some human copywriters and graphic designers with AI",
+      "excerpt": "Some news sites have already experimented with using AI models to write articles and other types of media content, including BuzzFeed and CNET. Insider's global editor-in-chief recently announced its newsroom will start experimenting with ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chinese-company-to-replace-some-copywriters-graphic-designers-ai-report-2023-4",
+      "originalUrl": "https://www.businessinsider.com/chinese-company-to-replace-some-copywriters-graphic-designers-ai-report-2023-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/643965fb028f6800183d9a7a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chinese-company-to-replace-some-copywriters-graphic-designers-ai-report-2023-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-company-to-replace-some-copywriters-graphic-designers-ai-report-2023-4?amp",
+      "publishedDateTime": "2023-04-14T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-15-bloomberg-plans-to-integrate-gpt-style-ai-into-its-terminal.md",
+      "title": "Bloomberg plans to integrate GPT-style AI into its terminal",
+      "excerpt": "“So when that came out, we were like, ‘OK, this is going to change the way that we do NLP here.’” NLP stands for natural language processing, the part of machine learning that focuses on deriving meaning from words. The move also shows how the AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/business/business-news/bloomberg-plans-integrate-gpt-style-terminal-rcna79507?icid=recommended",
+      "originalUrl": "https://www.nbcnews.com/business/business-news/bloomberg-plans-integrate-gpt-style-terminal-rcna79507?icid=recommended",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/230413-bloomberg-terminal-mn-0920-7e7f57.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna79507",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna79507",
+      "publishedDateTime": "2023-04-14T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-nvidias-top-ai-chips-are-selling-for-more-than-40000-on-ebay.md",
+      "title": "Nvidia's top A.I. chips are selling for more than $40,000 on eBay",
+      "excerpt": "The H100, Nvidia's latest flagship AI chip, was announced last year and is currently being shipped to data centers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/04/14/nvidias-h100-ai-chips-selling-for-more-than-40000-on-ebay.html",
+      "originalUrl": "https://www.cnbc.com/2023/04/14/nvidias-h100-ai-chips-selling-for-more-than-40000-on-ebay.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107198977-1677173650792-huang.jpg?v=1681490885",
+          "width": 2949,
+          "height": 1966,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/04/14/nvidias-h100-ai-chips-selling-for-more-than-40000-on-ebay.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/14/nvidias-h100-ai-chips-selling-for-more-than-40000-on-ebay.html",
+      "publishedDateTime": "2023-04-14T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-amazon-announces-bedrock-and-titan-generative-ai-on-the-cloud.md",
+      "title": "Amazon announces Bedrock and Titan, generative AI on the cloud",
+      "excerpt": "Amazon has added generative artificial intelligence models into Amazon Web Services. Generative AI is the type of artificial intelligence that can create text or images, similar to ChatGPT. With Amazon Bedrock,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/amazon-bedrock-titan-cloud-artificial-intelligence/",
+      "originalUrl": "https://www.techrepublic.com/article/amazon-bedrock-titan-cloud-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 319,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/04/tr41423-amazon-headquarters.jpeg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/amazon-bedrock-titan-cloud-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/amazon-bedrock-titan-cloud-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-04-14T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-these-films-predicted-the-future-of-science-how-right-were-they.md",
+      "title": "These films predicted the future of science. How right were they?",
+      "excerpt": "Current gene therapy trials — including the sickle cell trial ... ‘M3GAN’ and ‘Her’ offer opposing views of AI Society’s fascination with artificial intelligence has resulted in no shortage of films that depict both its potential to facilitate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/04/14/entertainment/film-future-tech-m3gan-gattaca-scn-cec/index.html",
+      "originalUrl": "https://www.cnn.com/2023/04/14/entertainment/film-future-tech-m3gan-gattaca-scn-cec/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230313151717-01-future-tech-films-super-tease.jpeg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/04/14/entertainment/film-future-tech-m3gan-gattaca-scn-cec/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/04/14/entertainment/film-future-tech-m3gan-gattaca-scn-cec/index.html",
+      "publishedDateTime": "2023-04-14T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-14-ai-models-shaken-not-yet-stirred-ftc-could-slow-openais-chatgpt.md",
       "title": "AI Models Shaken, Not Yet Stirred: FTC Could Slow OpenAI’s ChatGPT",
       "excerpt": "LeCun, chief scientist at Facebook’s AI lab, said he opposed a moratorium on any AI development. “We should continue to do research, and do it responsibly, and that includes considering the ethical implications of our work.\" Pedro Domingos, an AI ...",
@@ -105,7 +406,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/14/what-enterprises-should-know-about-generative-ai-powered-conversational-systems/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -187,6 +488,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-how-generative-ai-can-improve-personalized-healthcare-with-wearable-devices.md",
+      "title": "How Generative AI Can Improve Personalized Healthcare With Wearable Devices",
+      "excerpt": "Generative AI in healthcare is a promising area that could enhance the quality and efficiency of patient care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/how-generative-ai-can-improve-personalized-healthcare-with-wearable-devices/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/how-generative-ai-can-improve-personalized-healthcare-with-wearable-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -345,6 +689,58 @@
       ]
     },
     {
+      "path": "_news/2023-04-14-global-artificial-intelligence-in-marketing-market-size-2023-2030-share-growth-recent-trends-development.md",
+      "title": "Global Artificial Intelligence in Marketing Market Size [2023-2030] | Share, Growth, Recent Trends, Development",
+      "excerpt": "Global “Artificial Intelligence in Marketing Market” (2023-2030) research report is an expert examination on the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-marketing-market-size-2023-2030-share-growth-recent-trends-development-2023-04-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-marketing-market-size-2023-2030-share-growth-recent-trends-development-2023-04-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2023-04-14-artificial-intelligence-ai-chip-market-by-2030-future-scope-and-predictions.md",
       "title": "Artificial Intelligence (AI) Chip Market by 2030: Future Scope and Predictions",
       "excerpt": "The Artificial Intelligence (AI) Chip Market has been comprehensively examined in a new research report published",
@@ -500,48 +896,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-14-amazon-jumps-into-the-generative-ai-race-with-new-cloud-service.md",
-      "title": "Amazon jumps into the generative AI race with new cloud service",
-      "excerpt": "The announcement indicates the largest provider of cloud infrastructure won’t be leaving a trendy growth area to challengers such as Google and Microsoft.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/amazon-jumps-generative-race-new-cloud-service-rcna79599",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/amazon-jumps-generative-race-new-cloud-service-rcna79599",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 289,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211215-las-vegas-the-venetian-expo-aws-ac-1159p-b07aeb.jpg",
-          "width": 2500,
-          "height": 1663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna79599",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna79599",
-      "publishedDateTime": "2023-04-13T18:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-14-arizona-mother-describes-ai-phone-scam-faking-daughters-kidnapping-it-was-completely-her-voice.md",
       "title": "Arizona mother describes AI phone scam faking daughter's kidnapping: 'It was completely her voice'",
       "excerpt": "Computer science professor Subbarao Kambhampati warned that these stories of voice-cloning technology and catfish schemes could become more common as AI technology improves. \"In the beginning, it would require a larger amount of samples. Now there are ways ...",
@@ -593,15 +947,15 @@
       ]
     },
     {
-      "path": "_news/2023-04-14-amazon-aws-expands-generative-ai-efforts-with-bedrock-and-codewhisperer-updates.md",
-      "title": "Amazon AWS expands generative AI efforts with Bedrock and CodeWhisperer updates",
-      "excerpt": "Amazon Web Services (AWS), announced today that it is expanding its generative AI services in a bid to make the technology more available to organizations in the cloud.",
+      "path": "_news/2023-04-14-reinventing-financial-services-with-next-gen-ai.md",
+      "title": "Reinventing financial services with next-gen AI",
+      "excerpt": "As part of a surging embrace of AI, financial services companies are joining others developing next-gen autonomous, cloud-based assistants.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/amazon-aws-expands-generative-ai-efforts-with-bedrock-and-codewhisperer-updates/",
-      "originalUrl": "https://venturebeat.com/ai/amazon-aws-expands-generative-ai-efforts-with-bedrock-and-codewhisperer-updates/",
+      "webUrl": "https://venturebeat.com/ai/reinventing-financial-services-with-next-gen-ai/",
+      "originalUrl": "https://venturebeat.com/ai/reinventing-financial-services-with-next-gen-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 83,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -631,9 +985,10 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI in Finance",
         "AI",
-        "AWS AI"
+        "Microsoft AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -697,7 +1052,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-2029global-report-forecast-2023-04-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -800,7 +1155,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-in-2023unlocking-promising-opportunities-by-2030-2023-04-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -882,330 +1237,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-13-how-to-build-a-decision-tree-model-in-ibm-db2.md",
-      "title": "How to build a decision tree model in IBM Db2",
-      "excerpt": "After developing a machine learning model, you need a place to run your model and serve predictions. Here is how I build such a model in IBM Db2.\nThe post How to build a decision tree model in IBM Db2 appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-to-build-a-decision-tree-model-in-ibm-db2/",
-      "originalUrl": "https://www.ibm.com/blog/how-to-build-a-decision-tree-model-in-ibm-db2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-13-this-podcast-is-not-hosted-by-ai-voice-clones-we-swear.md",
-      "title": "This Podcast Is Not Hosted by AI Voice Clones. We Swear",
-      "excerpt": "This week on Gadget Lab, we use a set of software tools to create robo versions of our real voices and see how they stack up.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/gadget-lab-podcast-594/",
-      "originalUrl": "https://www.wired.com/story/gadget-lab-podcast-594/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64370840abe4e3389a6ff5a1/191:100/w_1280,c_limit/Gadget-Lab-Podcast--AI-Voice-Clones-on-Podcasts-Gear-GettyImages-1317150029.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-13-top-3-considerations-for-adopting-rise-with-sap-to-modernize-your-operations.md",
-      "title": "Top 3 considerations for adopting RISE with SAP to modernize your operations",
-      "excerpt": "Organizations are increasingly seeking more choice and flexibility as they modernize their mission-critical workloads. But each organization is at a different point and has different goals when transforming their businesses and modernizing their SAP environments. Some organizations are looking to improve",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/top-3-considerations-for-adopting-rise-with-sap-to-modernize-your-operations/",
-      "originalUrl": "https://www.ibm.com/blog/top-3-considerations-for-adopting-rise-with-sap-to-modernize-your-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-13-nvidia-stock-fell-when-it-introduced-a-cheaper-ai-enhanced-gpu.md",
-      "title": "Nvidia Stock Fell When It Introduced a Cheaper AI-enhanced GPU",
-      "excerpt": "Despite releasing a new and cheaper GPU that uses AI, Nvidia ( NASDAQ:NVDA) fell by slightly more than 1% on Wednesday. In a statement, Nvidia stock announced that the new GeForce RTX 4070 utilizes the Ada Lovelace architecture and can make DLSS-3 neural rendering and real-time ray-tracing technologies accessible to “millions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/nvidia-stock-fell-when-it-introduced-a-cheaper-ai-enhanced-gpu-2023-04-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/nvidia-stock-fell-when-it-introduced-a-cheaper-ai-enhanced-gpu-2023-04-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-how-offshoring-and-artificial-intelligence-threaten-us-white-collar-workers.md",
-      "title": "How Offshoring And Artificial Intelligence Threaten U.S. White-Collar Workers",
-      "excerpt": "A recent Federal Reserve Bank of Atlanta survey found that 7.3% of leadership in the United States plans to move more jobs offshore as the next step from remote work within America.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackkelly/2023/04/12/how-offshoring-and-artificial-intelligence-threaten-us-white-collar-workers/",
-      "originalUrl": "https://www.forbes.com/sites/jackkelly/2023/04/12/how-offshoring-and-artificial-intelligence-threaten-us-white-collar-workers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6436dc5574074b02cbb0e670/0x0.jpg?format=jpg&crop=4147,2332,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2023/04/12/how-offshoring-and-artificial-intelligence-threaten-us-white-collar-workers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/04/12/how-offshoring-and-artificial-intelligence-threaten-us-white-collar-workers/amp/",
-      "publishedDateTime": "2023-04-12T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-how-games24x7-transformed-their-retraining-mlops-pipelines-with-amazon-sagemaker.md",
-      "title": "How Games24x7 transformed their retraining MLOps pipelines with Amazon SageMaker",
-      "excerpt": "This is a guest blog post co-written with Hussain Jagirdar from Games24x7. Games24x7 is one of India’s most valuable multi-game platforms and entertains over 100 million gamers across various skill games. With “Science of Gaming” as their core philosophy, they have enabled a vision of end-to-end informatics",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-games24x7-transformed-their-retraining-mlops-pipelines-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-games24x7-transformed-their-retraining-mlops-pipelines-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T09:03:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-vizai-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2023.md",
-      "title": "Viz.ai Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2023",
-      "excerpt": "Viz.ai, the leader in AI-powered disease detection and intelligent care coordination, today announced it has been named",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/vizai-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2023-2023-04-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/vizai-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2023-2023-04-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

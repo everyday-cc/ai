@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Iconic image of M87 black hole just got a machine-learning makeover"
-    excerpt: "The iconic image of a supermassive black hole in the Messier 87 (M87) galaxy—described by astronomers as a \"fuzzy orange donut\"—was a stunning testament to the capabilities of the Event Horizon Telescope (EHT)."
-    publishedDateTime: 2023-04-13T10:59:00Z
-    webUrl: "https://arstechnica.com/science/2023/04/iconic-image-of-m87-black-hole-just-got-a-machine-learning-makeover/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 34
   - title: "Artificial intelligence may have just given astronomers a better idea of what black holes really look like"
     excerpt: "An curved arrow pointing right. A group of astronomers released what they believe is a more accurate depiction of the M87 black hole, images they created using artificial intelligence to fill in the gaps from photos first released by researchers in 2019."
     publishedDateTime: 2023-04-14T13:34:00Z

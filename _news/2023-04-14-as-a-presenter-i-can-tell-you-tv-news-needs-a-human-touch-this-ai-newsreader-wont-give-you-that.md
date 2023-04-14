@@ -3,8 +3,8 @@ category: news
 title: "As a presenter I can tell you, TV news needs a human touch. This AI newsreader won’t give you that"
 excerpt: "They may be cheaper and less trouble, but they’ll never have the gravitas of reporters like me, says Simon McCoy, who presented BBC News for 18 years"
 publishedDateTime: 2023-04-14T13:15:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/apr/14/tv-news-human-chatbot-ai-newsreaders-reporters?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/commentisfree/2023/apr/14/tv-news-human-chatbot-ai-newsreaders-reporters?ref=biztoc.com"
+originalUrl: "https://www.theguardian.com/commentisfree/2023/apr/14/tv-news-human-chatbot-ai-newsreaders-reporters"
+webUrl: "https://www.theguardian.com/commentisfree/2023/apr/14/tv-news-human-chatbot-ai-newsreaders-reporters"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/apr/14/tv-news-human-chatbot-ai-newsreaders-reporters"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/apr/14/tv-news-human-chatbot-ai-newsreaders-reporters"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "OBvK4BJ3yXxQ/lhg5/ebhcGHPVJjct/SjSQ6lYJdvj3vdcS4i6RjEsjZV16RZ7drZDTWLNY3vGY93enTU0HN0OlVvlJhVBVhv8L6Z+esJNauLOeUIVNHc5rLBzvCJyT50I65krF6hqe4Yy8cyt4emmTE7IyjluZFjXCzYLJW2ajmBeDXV/3vAnhwmObY31kTx2Hwh9rzRzsmJ7dEUFKc/sF4pkskKa24KMM96/UGNmo4psU4KVK0H6u00gHKMpKYYD4f9oG6tPfiuy+IJXJ6UYaxTTKB8xkgbrQHHo6Pr+wL7zb1/GcvgIU9by5iUrzUIaPRGh56eZJbJdlPzBJobF3NVhGIrcnJp+mOKTYnNyo=;xwz6lFTbEw628rJvm4B87g=="
+secured: "xInDlUbBuairi0P7VvLe9VYoMOEwh/mZyNU7315rcWLDwk9XV8THINyw4Au58As4wWfzxXwZd3Ho2K6PEuaO0isBCqhL27r8InQTFBvQEflOILnYnXqGHvAU9yZOZyRmjIm16JB+n6SWaZr3HZ9Qau3UcvV4HcQLOj7dptHiVlqGY/nzBcXAT5wd/tfF6xG5z17QI2yrhLbyLy0WKKlsx03K/G8+msJy+h1GimluLGsXd3uWg3Z5V5LzVVIFBRJHPssTz2iQo9a2nBy1IQRR25GeXyJTN4MOirX6iAyoPSZAO9hHO1XaHpXTLGyxIUTOCUpSs4EVh91wmREFgbC9BF9Mt1IcewIMsmsXD94eQao=;599kKk5P21OKywDEo0EmdA=="
 ---
 

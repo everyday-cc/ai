@@ -58,15 +58,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "The mounting human and environmental costs of generative AI"
-    excerpt: "Downsides include the environmental toll of mining rare minerals, the human costs of the labor-intensive process of data annotation, and the escalating financial investment required to train AI models as they incorporate more parameters."
-    publishedDateTime: 2023-04-12T11:00:00Z
-    webUrl: "https://arstechnica.com/gadgets/2023/04/generative-ai-is-cool-but-lets-not-forget-its-human-and-environmental-costs/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 49
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
     publishedDateTime: 2023-04-10T16:57:00Z
@@ -81,15 +72,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "AWS launches generative AI tools"
-    excerpt: "Generative artificial intelligence (AI) software such as ChatGPT has captured the imaginations of consumers and businesses alike, as they experiment with everything from search bots like Microsoft Bing Chat to embedded technology in existing customer support systems,"
-    publishedDateTime: 2023-04-13T20:47:00Z
-    webUrl: "https://www.itworldcanada.com/article/aws-launches-generative-ai-tools/536367"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 34
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
     publishedDateTime: 2023-04-12T23:27:00Z

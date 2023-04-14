@@ -25,10 +25,42 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon announces Bedrock and Titan, generative AI on the cloud"
+    excerpt: "Amazon has added generative artificial intelligence models into Amazon Web Services. Generative AI is the type of artificial intelligence that can create text or images, similar to ChatGPT. With Amazon Bedrock,"
+    publishedDateTime: 2023-04-14T16:26:00Z
+    webUrl: "https://www.techrepublic.com/article/amazon-bedrock-titan-cloud-artificial-intelligence/"
+    ampWebUrl: "https://www.techrepublic.com/article/amazon-bedrock-titan-cloud-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/amazon-bedrock-titan-cloud-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/04/tr41423-amazon-headquarters.jpeg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "Amazon launches Bedrock for generative AI, escalating AI cloud wars"
+    excerpt: "Amazon dropped a Bedrock on the generative AI space, a landscape-shaking move that also escalated the cloud AI wars that have been heating up over the past year."
+    publishedDateTime: 2023-04-14T16:54:00Z
+    webUrl: "https://venturebeat.com/ai/amazon-launches-bedrock-for-generative-ai-escalating-ai-cloud-wars/"
+    ampWebUrl: "https://venturebeat.com/ai/amazon-launches-bedrock-for-generative-ai-escalating-ai-cloud-wars/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/amazon-launches-bedrock-for-generative-ai-escalating-ai-cloud-wars/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/Untitled-design-44.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "Amazon jumps into the generative AI race with new cloud service"
-    excerpt: "The announcement indicates the largest provider of cloud infrastructure won’t be leaving a trendy growth area to challengers such as Google and Microsoft."
-    publishedDateTime: 2023-04-14T01:22:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/amazon-jumps-generative-race-new-cloud-service-rcna79599"
+    excerpt: "and a model for turning text into images from startup Stability AI. One Titan model can generate text for blog posts, emails or other documents. The other can help with search and personalization. “Most companies want to use these large language models ..."
+    publishedDateTime: 2023-04-14T14:20:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/amazon-jumps-generative-race-new-cloud-service-rcna79599?icid=recommended"
     ampWebUrl: "https://www.nbcnews.com/news/amp/rcna79599"
     cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna79599"
     type: article
@@ -50,6 +82,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 84
+  - title: "Amazon’s new generative AI capabilities work to increase access to AI"
+    excerpt: "This release is powered by AWS Inferentia2 chips, which is intended to lower the overall cost of running generative AI workloads. According to the company, this release also increases energy efficiency, which helps to make generative AI technology more ..."
+    publishedDateTime: 2023-04-14T17:45:00Z
+    webUrl: "https://sdtimes.com/ai/amazons-new-generative-ai-capabilities-work-to-increase-access-to-ai/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 69
+    images:
+      - url: "https://sdtimes.com/images/sd-premium.png"
+        width: 628
+        height: 246
+        isCached: true
   - title: "Generative AI comes to Amazon Web Services"
     excerpt: "Amazon released a new suite of AI technologies, including foundational large language models (LLMs) called Titan and a cloud computing service called Bedrock, reports Reuters. The move comes as competitors Microsoft and Google integrate AI chatbots into their search engines and cloud operations."
     publishedDateTime: 2023-04-13T19:11:00Z
@@ -68,14 +114,14 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "How Generative AI Can Improve Personalized Healthcare With Wearable Devices"
-    excerpt: "Generative AI in healthcare is a promising area that could enhance the quality and efficiency of patient care."
-    publishedDateTime: 2023-04-14T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/how-generative-ai-can-improve-personalized-healthcare-with-wearable-devices/"
+  - title: "Amazon AWS expands generative AI efforts with Bedrock and CodeWhisperer updates"
+    excerpt: "Amazon Web Services (AWS), announced today that it is expanding its generative AI services in a bid to make the technology more available to organizations in the cloud."
+    publishedDateTime: 2023-04-13T20:20:00Z
+    webUrl: "https://venturebeat.com/ai/amazon-aws-expands-generative-ai-efforts-with-bedrock-and-codewhisperer-updates/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 62
   - title: "Amazon joins generative AI race, targets tech at cloud customers"
     excerpt: "Amazon.com Inc. is joining Microsoft Corp. and Google in the generative artificial intelligence race, announcing technology aimed at its cloud customers as well as a marketplace for AI tools from other companies."
@@ -104,15 +150,6 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 54
-  - title: "Reinventing financial services with next-gen AI"
-    excerpt: "As part of a surging embrace of AI, financial services companies are joining others developing next-gen autonomous, cloud-based assistants."
-    publishedDateTime: 2023-04-13T20:20:00Z
-    webUrl: "https://venturebeat.com/ai/reinventing-financial-services-with-next-gen-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 53
   - title: "Amazon Is Joining the Generative AI Race"
     excerpt: "Today, Amazon announced it’s joining the generative AI race. Not by launching its own chatbot, but by making two new AI language models available through its cloud platform, Amazon Web Services, which customers will be able to use to build their own bots."
     publishedDateTime: 2023-04-13T12:40:00Z
@@ -122,15 +159,15 @@ related:
       name: Wired
       domain: wired.com
     quality: 51
-  - title: "This Startup Claims Its Models Fix A Major Problem With Generative AI"
-    excerpt: "Companies like BetterHelp, Uber and Hilton trust Writer to automate all their tedious text-based tasks. Writer’s promise? That its language models won’t make up false information."
-    publishedDateTime: 2023-04-11T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/04/11/writer-generative-ai/"
+  - title: "The mounting human and environmental costs of generative AI"
+    excerpt: "Downsides include the environmental toll of mining rare minerals, the human costs of the labor-intensive process of data annotation, and the escalating financial investment required to train AI models as they incorporate more parameters."
+    publishedDateTime: 2023-04-12T11:00:00Z
+    webUrl: "https://arstechnica.com/gadgets/2023/04/generative-ai-is-cool-but-lets-not-forget-its-human-and-environmental-costs/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 49
   - title: "How Generative AI Could Disrupt Creative Work"
     excerpt: "In the face of technological change, creativity is often held up as a uniquely human quality, less vulnerable to the forces of technological disruption and critical for the future. Today however, generative AI applications such as ChatGPT and Midjourney are threatening to upend this special status and significantly alter creative work,"
     publishedDateTime: 2023-04-13T12:25:00Z
@@ -145,6 +182,24 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Amazon Bedrock: New Suite of Generative AI Tools Unveiled by AWS"
+    excerpt: "AWS has entered the red-hot realm of generative AI with the introduction of a suite of generative AI development tools. The cornerstone of these is Amazon"
+    publishedDateTime: 2023-04-14T12:07:00Z
+    webUrl: "https://www.datanami.com/2023/04/14/amazon-bedrock-new-suite-of-generative-ai-tools-unveiled-by-aws/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 36
+  - title: "AWS doubles down on generative AI training"
+    excerpt: "AI training and deployment on its cloud platform. In a post on the AWS Machine Learning blog, the company detailed new offerings that include the ability to build and train foundation models, which are large-scale,"
+    publishedDateTime: 2023-04-13T18:31:00Z
+    webUrl: "https://siliconangle.com/2023/04/13/aws-doubles-generative-ai-training/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
   - title: "AWS wades into generative AI fray with Bedrock service"
     excerpt: "CEO Andy Jassy highlighted generative AI as a key area of investment for the retail giant, in a Thursday letter to investors."
     publishedDateTime: 2023-04-13T22:36:00Z
@@ -163,14 +218,14 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 34
-  - title: "AWS dives into generative AI with new offerings"
-    excerpt: "Coinciding with its latest letter to shareholders written by chief executive Andy Jassy, Amazon's cloud computing division has officially launched a set of generative artificial intelligence offerings."
-    publishedDateTime: 2023-04-13T18:56:00Z
-    webUrl: "https://www.crn.com.au/news/aws-dives-into-generative-ai-with-new-offerings-593237"
+  - title: "AWS launches generative AI tools"
+    excerpt: "Generative artificial intelligence (AI) software such as ChatGPT has captured the imaginations of consumers and businesses alike, as they experiment with everything from search bots like Microsoft Bing Chat to embedded technology in existing customer support systems,"
+    publishedDateTime: 2023-04-13T20:47:00Z
+    webUrl: "https://www.itworldcanada.com/article/aws-launches-generative-ai-tools/536367"
     type: article
     provider:
-      name: CRN Australia
-      domain: crn.com.au
+      name: IT World Canada
+      domain: itworldcanada.com
     quality: 34
   - title: "Amazon joins generative AI fervor with new app-building tool and large language models"
     excerpt: "The company’s new Bedrock service – currently being rolled out in a “limited preview” – will help brands to enhance their own software and content using AI-generated text and images."
@@ -213,24 +268,15 @@ related:
       name: Independent Tribune
       domain: independenttribune.com
     quality: 19
-  - title: "Amazon intensifies AI race with new suite of tools"
-    excerpt: "Amazon Web Services (AWS) has released a series of products aimed at helping other companies develop their own chatbots and image-generation services, backed by artificial intelligence (AI). The move comes as part of a wider AI race following the popularity of ChatGPT,"
-    publishedDateTime: 2023-04-14T10:05:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42143/amazon-intensifies-ai-race-with-new-suite-of-tools"
+  - title: "Amazon announces new customizable AI models for cloud customers"
+    excerpt: "Amazon’s cloud computing division on Thursday announced the release of a new service that will allow customers to access customizable artificial intelligence (AI ... Amazon Web Services (AWS), the world’s largest provider of cloud computing services ..."
+    publishedDateTime: 2023-04-13T23:20:00Z
+    webUrl: "https://www.foxbusiness.com/technology/amazon-announces-new-customizable-ai-models-cloud-customers"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
+      name: Fox Business
+      domain: foxbusiness.com
     quality: 19
-  - title: "Amazon joins in generative AI fervor with new app-building tool & large language models"
-    excerpt: "The company’s new Bedrock service – currently being rolled out in a \"limited preview\" – will help brands to enhance its own software and content using AI-generated text and images."
-    publishedDateTime: 2023-04-13T20:23:00Z
-    webUrl: "https://www.thedrum.com/news/2023/04/13/amazon-joins-generative-ai-fervor-with-new-app-building-tool-large-language-models"
-    type: article
-    provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 11
 
 secured: "mcdJxQBb0eSB3g5EHWPfzCgRXZvgnBra4Gf5vsXRzxCln5q3JuJNucahttzhfWc0CMGqolJ0NIr1ZcNyQisHXULv0LBTVCYOYGjtn7DQdSuHefd64Ha5tYECD/vAY63VQn7O9pvhW/2dZOgEuvyN529giW5UIHpqzAgpS8F2JN0nosJu0rHMyOlKDcjqu3q7BHYYqPDwTsGwuj8Na/Dkzv+YgCxIKt1r51s9LMmJzp0MIDt/zReqfaIW9DOsZlCRzOyN7Y9wB5RhE4QjZRJdSVebnkvfGJ34gs911jsRYnE4OFDcpvav6+rHYimoiyZgJaYSdBtnLWuQKdRWZBdDi4L/9U/fJmiijVH5huTgRj4EG365/gVzHuqpdWH16IntnTrDQbF4ZsoZ1wRHi9qil+t5TvBuEEvBWPwqYxXC3+ln02KsK0td2i5ZAGEYhZeounEnJ3D4ki88sRA72hm+8i1lCJIIFGrwVSu02kJ+tFIjw5AALvZlpgDmFD+IygEATeR+zhNL7fm6RUs5b2vyPg==;k2iTOjChpnIYwh3xFWjMVg=="
 ---

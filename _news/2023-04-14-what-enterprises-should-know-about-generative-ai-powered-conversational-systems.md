@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/14/what-enter
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/14/what-enterprises-should-know-about-generative-ai-powered-conversational-systems/amp/"
 type: article
 quality: 85
-heat: 155
+heat: 135
 published: true
 
 provider:
@@ -49,15 +49,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "The mounting human and environmental costs of generative AI"
-    excerpt: "Downsides include the environmental toll of mining rare minerals, the human costs of the labor-intensive process of data annotation, and the escalating financial investment required to train AI models as they incorporate more parameters."
-    publishedDateTime: 2023-04-12T11:00:00Z
-    webUrl: "https://arstechnica.com/gadgets/2023/04/generative-ai-is-cool-but-lets-not-forget-its-human-and-environmental-costs/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 49
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
     publishedDateTime: 2023-04-10T16:57:00Z
@@ -86,15 +77,6 @@ related:
         width: 2000
         height: 1500
         isCached: true
-  - title: "AWS launches generative AI tools"
-    excerpt: "Generative artificial intelligence (AI) software such as ChatGPT has captured the imaginations of consumers and businesses alike, as they experiment with everything from search bots like Microsoft Bing Chat to embedded technology in existing customer support systems,"
-    publishedDateTime: 2023-04-13T20:47:00Z
-    webUrl: "https://www.itworldcanada.com/article/aws-launches-generative-ai-tools/536367"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 34
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
     publishedDateTime: 2023-04-12T23:27:00Z
@@ -105,6 +87,6 @@ related:
       domain: law.com
     quality: 19
 
-secured: "+rGmazukEXQ0aWP3WYDaCblZ8ZuT2Sz4rBs1AaVQjlpMZyq0VZSfVG4cTsEdwM3ObnPZbW5nX3Dc7N8iQCV7IBRNVdBckm73y76Y2fjEikZEHWcJqTXUSqhEJ91GOUaRxm+YVqqbSZbbCFtMHwJUrs9uSqv42l/ELO2KUHxmXoymfSLhxM+UNI48o+VTAGLi6GscXNT4kXc6OEjdwgn6zY5ARmRsU5Yh4J5ihlHQsQCy0gPZC5yZiX41nIf31fnHnV4EDROt6O6//TBtWw7lmRvl86CJ+UTTTnOcPAKchMSupo/MyziJIeRbeK0Yvf4UaRsKW0P7DzEwiFykR58cedPRpm2lpS/PwaXFq6DoY8c=;3iekagDbrGTZ+nO8ze6/Ww=="
+secured: "TxQnSU6RUZzs6LbG6XbUQqcRCtSMNkmTBkrfekbYT0CCmM8IY6Ad0EB2hQCmhAmCFeTZJ/MzOEQgQb9Qy9AJ91pfwVghrkpiQxb+x2WAlwqqWaDaDG5lZRDvyJJH4v8xqq7fpU5ldRXbSDWw6DCsCYV4Po7VaYYmo2a0sd8hnNcMEaBkIiwiosAe/Fo0gzjXluRjsF04nun3iyLNtZcEv3wNXe0wwUU0ryqW6e5SfSzWVfSweiAz6YseeLjCEN4aT5lrB66q8AQW7/tOAiLf/bhoFFQRORLX7BgEf51/jyoYeI+xcM4PfBMNeUyXSOma0KEKt2PJLosOm//3PNR67BDmkqFd7IFxkQ8XUJ/KXrXrWOI+fX/xTmGyWFKDu2piHkwYPgguguFDWAl7Lbd927pLAwJU6w6UWI2Uz5Q60O4UZBoanGkGRY+yOoXi7nfO6yN4vtXLerrwxyO7yi8AWE6wuLkLK9fKm1dUWvDOEenWPvWrBtzmrcUOGzMPAwaOdpJZYKJ9J4Qko9h2nxrk+g==;hH7CdHVlWAo8VR5AIrxL5w=="
 ---
 

@@ -2,29 +2,38 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-04-14-amazon-aws-expands-generative-ai-efforts-with-bedrock-and-codewhisperer-updates.md",
-      "title": "Amazon AWS expands generative AI efforts with Bedrock and CodeWhisperer updates",
-      "excerpt": "Amazon Web Services (AWS), announced today that it is expanding its generative AI services in a bid to make the technology more available to organizations in the cloud.",
+      "path": "_news/2023-04-14-amazon-announces-bedrock-and-titan-generative-ai-on-the-cloud.md",
+      "title": "Amazon announces Bedrock and Titan, generative AI on the cloud",
+      "excerpt": "Amazon has added generative artificial intelligence models into Amazon Web Services. Generative AI is the type of artificial intelligence that can create text or images, similar to ChatGPT. With Amazon Bedrock,",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/amazon-aws-expands-generative-ai-efforts-with-bedrock-and-codewhisperer-updates/",
-      "originalUrl": "https://venturebeat.com/ai/amazon-aws-expands-generative-ai-efforts-with-bedrock-and-codewhisperer-updates/",
+      "webUrl": "https://www.techrepublic.com/article/amazon-bedrock-titan-cloud-artificial-intelligence/",
+      "originalUrl": "https://www.techrepublic.com/article/amazon-bedrock-titan-cloud-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 319,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/04/tr41423-amazon-headquarters.jpeg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T13:20:00-07:00",
+      "ampWebUrl": "https://www.techrepublic.com/article/amazon-bedrock-titan-cloud-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/amazon-bedrock-titan-cloud-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-04-14T09:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -40,9 +49,8 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
+        "AWS AI",
+        "AI"
       ]
     },
     {

@@ -106,6 +106,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-13-decoding-insomnia-machine-learning-model-predicts-sleep-disorders-from-patient-records.md",
+      "title": "Decoding insomnia: Machine learning model predicts sleep disorders from patient records",
+      "excerpt": "A machine learning model can effectively predict a patient's risk for a sleep disorder using demographic and lifestyle data, physical exam results and laboratory values, according to a new study published this week in the open-access journal PLOS ONE by Samuel Y.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-04-decoding-insomnia-machine-disorders-patient.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-04-decoding-insomnia-machine-disorders-patient.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/decoding-insomnia-mach.jpg",
+          "width": 2880,
+          "height": 1922,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-04-decoding-insomnia-machine-disorders-patient.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-04-decoding-insomnia-machine-disorders-patient.amp",
+      "publishedDateTime": "2023-04-12T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-12-aimachine-learning-market-with-types-of-research-report.md",
       "title": "AI/Machine Learning Market With Types of Research Report",
       "excerpt": "The Global AI/Machine Learning market is anticipated to rise at a considerable rate during the forecast period. The market is growing at a steady rate and with the rising adoption of strategies by key players,",
@@ -210,7 +253,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-2023-size-and-forecast-to-2031-2023-04-09",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1116,40 +1159,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-the-moratorium-on-neural-networks-is-a-continuation-of-us-sanctions-against-russia-and-an-adventure-similar-to-the-world-quarantine.md",
-      "title": "The moratorium on neural networks is a continuation of US sanctions against Russia and an adventure similar to the world quarantine.",
-      "excerpt": "I continue to deeply study the opinions of published experts about the moratorium on expanding the introduction of artificial intelligence in the world. I come to the conclusion that these opinions are not convincing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.securitylab.ru/blog/personal/RamilGarifullin/352735.php",
-      "originalUrl": "https://www.securitylab.ru/blog/personal/RamilGarifullin/352735.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-02T21:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "securitylab",
-        "domain": "securitylab.ru",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

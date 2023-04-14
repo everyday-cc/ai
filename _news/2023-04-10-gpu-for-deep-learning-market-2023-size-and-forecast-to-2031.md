@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-ma
 webUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-2023-size-and-forecast-to-2031-2023-04-09"
 type: article
 quality: 66
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Fintech Market Growth and Forecast till 2031"
+    excerpt: "The latest market research report on the Global \"AI in Fintech Market\" is segmented by Regions, Country, Company and"
+    publishedDateTime: 2023-04-13T06:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-growth-and-forecast-till-2031-2023-04-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
   - title: "Speech Recognition Market Key Players and Forecast till 2031"
     excerpt: "The latest market research report on the Global \"Speech Recognition Market\" is segmented by Regions, Country, Company"
     publishedDateTime: 2023-04-13T05:20:00Z

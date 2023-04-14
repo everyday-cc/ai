@@ -2,6 +2,400 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2023-01-19-chinas-self-driving-car-push-hits-legal-cost-roadblocks.md",
+      "title": "China’s self-driving car push hits legal, cost roadblocks",
+      "excerpt": "Baidu, an industry leader ... Among the challenges for self-driving taxi companies is that rules on autonomous driving are set by local governments, with no nationwide legal framework.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freemalaysiatoday.com/category/business/2023/01/19/chinas-self-driving-car-push-hits-legal-cost-roadblocks/",
+      "originalUrl": "https://www.freemalaysiatoday.com/category/business/2023/01/19/chinas-self-driving-car-push-hits-legal-cost-roadblocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-19T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Free Malaysia Today",
+        "domain": "freemalaysiatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-investigation-exposes-murkier-side-of-ai-chatbot-industry.md",
+      "title": "Investigation exposes murkier side of AI chatbot industry",
+      "excerpt": "A Time investigation has exposed the murkier side of the AI chatbot industry, highlighting how at least one startup has been using questionable practices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/",
+      "originalUrl": "https://www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/01/ChatGPT-OpenAI-logo.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/?amp",
+      "publishedDateTime": "2023-01-18T19:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-us-keeps-chipping-away-at-dutch-resistance-on-china.md",
+      "title": "US Keeps Chipping Away At Dutch Resistance On China",
+      "excerpt": "Nvidia and AMD Last August, the US government ordered Nvidia and AMD to stop exporting their GPU and AI chips, as well as Nvidia's AI server called DGX, to China and Russia. It explained to Nvidia ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105448347/US-Keeps-Chipping-Away-At-Dutch-Resistance-On-China",
+      "originalUrl": "https://menafn.com/1105448347/US-Keeps-Chipping-Away-At-Dutch-Resistance-On-China",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-18T19:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.md",
+      "title": "Lawsuit claims IBM falsely used mainframe sales to boost AI, cloud businesses",
+      "excerpt": "A lawsuit has been filed against 13 current and former IBM executives, including CEO and Chairman Arvind Krishna and former CEO Ginni Rometty, accusing the company of securities fraud — bundling ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html",
+      "originalUrl": "https://www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2023/01/ibm-sign-5.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html/amp/",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html/amp/",
+      "publishedDateTime": "2023-01-18T19:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-fico-chief-analytics-officer-scott-zoldi-on-responsible-ai.md",
+      "title": "FICO Chief Analytics Officer Scott Zoldi on Responsible AI",
+      "excerpt": "I spoke with Scott Zoldi, Chief Analytics Officer at FICO, about how companies can ensure they are ethical and appropriate as they deploy artificial intelligence. Among the topics we discussed: As you survey the business market,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/fico-responsible-ai/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/fico-responsible-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/01/eSPEAKS-thumbnail-5.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-18T16:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-the-schools-we-need-for-the-new-cognitive-economy.md",
+      "title": "The Schools We Need for the New 'Cognitive Economy'",
+      "excerpt": "This rapidly changing environment might be called a “cognitive economy.” It requires workers who are not only literate but numerate. That means effective training in math and science and the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.html#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/60/600019_5_.jpeg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.amp.html",
+      "publishedDateTime": "2023-01-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-translated-named-a-leader-in-idc-marketscape-for-machine-translation.md",
+      "title": "Translated Named a Leader in IDC MarketScape for Machine Translation",
+      "excerpt": "Press Release Translated, the global enterprise that pioneered AI-assisted localization services, has been recognized as a Leader in the MarketScape \"Worldwide Machine Translation Software 2022 Vendor Assessment\" (Doc #US48325622,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/translated-named-a-leader-in-idc-marketscape-for-machine-translation/",
+      "originalUrl": "https://venturebeat.com/business/translated-named-a-leader-in-idc-marketscape-for-machine-translation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/business/translated-named-a-leader-in-idc-marketscape-for-machine-translation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/translated-named-a-leader-in-idc-marketscape-for-machine-translation/amp/",
+      "publishedDateTime": "2023-01-18T15:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-adobe-says-no-its-not-using-your-images-to-train-ai-art-generators.md",
+      "title": "Adobe says no, it’s not using your images to train AI art generators",
+      "excerpt": "Illustration by Alex Castro / The Verge Adobe’s chief product officer, Scott Belsky, has responded to concerns regarding the company’s policies on artificial intelligence, claiming that Adobe ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/1/18/23560801/adobe-ai-art-generator-scott-belsky",
+      "originalUrl": "https://www.theverge.com/2023/1/18/23560801/adobe-ai-art-generator-scott-belsky",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/IQ9lZfS-AEiVpW3_a_ao75HbUBc=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23624357/acastro_STK124_03.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-18T12:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-michigans-atwater-brewery-releases-ipa-created-by-artificial-intelligence.md",
+      "title": "Michigan’s Atwater Brewery releases IPA created by artificial intelligence",
+      "excerpt": "Artificial Intelligence IPA is a 6.5% brew made with a blend of Centennial, Citra, and Amarillo hops, which results in tropical and citrus flavors and aromas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html",
+      "originalUrl": "https://www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EJPLGYZV7BETJGYP34T37UYWMQ.jpeg",
+          "width": 3024,
+          "height": 2530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html?outputType=amp",
+      "publishedDateTime": "2023-01-18T11:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MLive",
+        "domain": "mlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-19-nick-cave-calls-ai-song-written-in-his-style-grotesque-mockery.md",
       "title": "Nick Cave Calls AI Song Written in His Style 'Grotesque Mockery'",
       "excerpt": "Tools like ChatGPT can never experience the complex human struggles that lead to emotionally resonant songs, the singer-songwriter says.",
@@ -751,432 +1145,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-the-morning-after-getty-images-sues-ai-art-generator.md",
-      "title": "The Morning After: Getty Images sues AI art generator",
-      "excerpt": "Twitter admits it’s intentionally breaking third-party apps, Getty Images sues AI art generator over data-scraping allegations, Samsung’s new 200-megapixel sensor will probably appear in the Galaxy S23 Ultra.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/the-morning-after-getty-images-sues-ai-art-generator-121539563.html",
-      "originalUrl": "https://www.engadget.com/the-morning-after-getty-images-sues-ai-art-generator-121539563.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/a0f17a10-6caf-11ed-adef-6471c8c12f2e",
-          "width": 1536,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/the-morning-after-getty-images-sues-ai-art-generator-121539563.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-morning-after-getty-images-sues-ai-art-generator-121539563.html",
-      "publishedDateTime": "2023-01-18T04:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!Finance",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-infinite-ai-interns-for-everybody.md",
-      "title": "Infinite AI Interns for Everybody",
-      "excerpt": "I predict 2023 is the year that finally changes, thanks to artificial intelligence. By the end of 2023, AI will be fast becoming one of the most important factors of production in the global economy. It’s true that the history of AI is largely a history ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/artificial-intelligence-labor/",
-      "originalUrl": "https://www.wired.com/story/artificial-intelligence-labor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63c6ed49e99d817cb5daad76/master/pass/03_Infinite-AI-interns-for-everybody.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-labor/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-labor/amp",
-      "publishedDateTime": "2023-01-18T04:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-dells-new-poweredge-services-promise-latest-intel-chips-top-end-ai-power.md",
-      "title": "Dell's new PowerEdge services promise latest Intel chips, top-end AI power",
-      "excerpt": "His expectations for the next generation of PowerEdge servers is that it “raises the bar in power efficiency, performance and reliability”. The latest Intel Xeon chips were made available earlier in 2023,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/dells-new-poweredge-services-promise-latest-intel-chips-top-end-ai-power",
-      "originalUrl": "https://www.techradar.com/news/dells-new-poweredge-services-promise-latest-intel-chips-top-end-ai-power",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/JuRfTQSJwfzpgDwoimHNwC-1200-80.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-18T03:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-delivering-data-insight-via-natural-language-processing.md",
-      "title": "Delivering data insight via natural language processing",
-      "excerpt": "Improving the Patient Financial Experience Throughout the Patient Journey While many healthcare providers believe that improving the patient financial experience is a critical step for their organization, few have done so successfully. Read this brief to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthcarefinancenews.com/video/delivering-data-insight-natural-language-processing",
-      "originalUrl": "https://www.healthcarefinancenews.com/video/delivering-data-insight-natural-language-processing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-18T03:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthcare Finance News",
-        "domain": "healthcarefinancenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-simple-neural-networks-can-precisely-control-robotic-prostheses.md",
-      "title": "Simple Neural Networks Can Precisely Control Robotic Prostheses",
-      "excerpt": "According to research, artificial neural networks inspired by natural nerve circuits in the human body give primates faster, more accurate control of brain-controlled prosthetic hands and fingers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/informatics/news/simple-neural-networks-can-precisely-control-robotic-prostheses-369288",
-      "originalUrl": "https://www.technologynetworks.com/informatics/news/simple-neural-networks-can-precisely-control-robotic-prostheses-369288",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/369288/simple-neural-networks-can-precisely-control-robotic-prostheses-369288-640x360.jpg?cb=20230118",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-18T02:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-what-generative-ai-means-for-brandsa-marketing-guide-to-chatgpt-dall-e-and-other-artificial-intelligence.md",
-      "title": "What generative AI means for brands—a marketing guide to ChatGPT, DALL-E and other artificial intelligence",
-      "excerpt": "To be fair, the technology has been used in ad tech for years, but generative AI, a subtype of artificial intelligence that has obvious—and fun—applications, has instantly changed how marketers are preparing for adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://adage.com/article/digital-marketing-ad-tech-news/generative-ai-chatgpt-faq-guide-brands/2463201",
-      "originalUrl": "https://adage.com/article/digital-marketing-ad-tech-news/generative-ai-chatgpt-faq-guide-brands/2463201",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.adage.com/s3fs-public/styles/width_660/public/20230112_OpenAI_Generative-AI_3X2.jpg",
-          "width": 660,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-18T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ad Age",
-        "domain": "adage.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-artificial-intelligence-market-in-gcc-2023-industry-overview-size-share-and-forecast-till-2028-syndicated-analytics.md",
-      "title": "Artificial Intelligence Market In GCC 2023: Industry Overview, Size, Share And Forecast Till 2028 | Syndicated Analytics",
-      "excerpt": "Jan (SUPER MARKET RESEARCH via COMTEX) -- \"GCC Artificial Intelligence Market: Industry Analysis, Market Size, Share, Trends, Application",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-in-gcc-2023-industry-overview-size-share-and-forecast-till-2028-syndicated-analytics-2023-01-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-in-gcc-2023-industry-overview-size-share-and-forecast-till-2028-syndicated-analytics-2023-01-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-18T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-computer-vision-market-2023-size-sales-drivers-restraints-growth-strategies-major-players-regional-overview-forecast-till-2029.md",
-      "title": "Computer Vision Market 2023 Size, Sales, Drivers, Restraints, Growth Strategies, Major Players, Regional Overview Forecast till 2029",
-      "excerpt": "Global Computer Vision MarketNEW UPDATED REPORT 2023 presents a trusted overview of the current market situation",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2023-size-sales-drivers-restraints-growth-strategies-major-players-regional-overview-forecast-till-2029-2023-01-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2023-size-sales-drivers-restraints-growth-strategies-major-players-regional-overview-forecast-till-2029-2023-01-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 220,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T23:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-kfintech-drives-digital-transformation-in-financial-services-industry-with-aws.md",
-      "title": "KFintech drives digital transformation in financial services industry with AWS",
-      "excerpt": "KFin Technologies Limited (KFintech), a technology-driven financial services ... an exchange filing. The services include interactive dashboards that use AWS machine learning to automatically ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/business/kfintech-drives-digital-transformation-in-financial-services-industry-with-aws",
-      "originalUrl": "https://www.freepressjournal.in/business/kfintech-drives-digital-transformation-in-financial-services-industry-with-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/freepressjournal/2023-01/fda45f49-3fb5-4804-9d79-6cdef98dd1e5/271811522_467231791450465_3483139141691130993_n.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/business/kfintech-drives-digital-transformation-in-financial-services-industry-with-aws",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/kfintech-drives-digital-transformation-in-financial-services-industry-with-aws",
-      "publishedDateTime": "2023-01-17T22:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

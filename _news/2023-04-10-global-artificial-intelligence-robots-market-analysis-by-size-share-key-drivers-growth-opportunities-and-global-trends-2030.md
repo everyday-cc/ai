@@ -23,29 +23,38 @@ topics:
   - AI
 
 related:
-  - title: "AI Chip Market Forecast With Trends, Challenges & Drivers And Key Players Till 2030"
-    excerpt: "Research Nester published a report titled “AI Chip Market: Global Demand Analysis & Opportunity Outlook 2030” which delivers detailed overview of theglobalAI chip market in terms of market ..."
-    publishedDateTime: 2023-04-10T10:50:00Z
-    webUrl: "https://menafn.com/1105971707/AI-Chip-Market-Forecast-With-Trends-Challenges-Drivers-And-Key-Players-Till-2030"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 48
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?189758"
-        width: 374
-        height: 250
-        isCached: true
-  - title: "Know Driving Success In Deep Learning Chipsets Market: Current Trends and Future Outlook Till 2030"
-    excerpt: "The latest Deep Learning Chipsets Market Analysis is designed to help clients improve their market position, and in line"
-    publishedDateTime: 2023-04-11T07:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/know-driving-success-in-deep-learning-chipsets-market-current-trends-and-future-outlook-till-2030-2023-04-11"
+  - title: "Global Artificial Intelligence in Marketing Market Size [2023-2030] | Share, Growth, Recent Trends, Development"
+    excerpt: "Global “Artificial Intelligence in Marketing Market” (2023-2030) research report is an expert examination on the"
+    publishedDateTime: 2023-04-14T09:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-marketing-market-size-2023-2030-share-growth-recent-trends-development-2023-04-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Very Edge AI Chipset Market 2023-2030 Industry Overview and Ongoing Opportunity"
+    excerpt: "The Very Edge AI Chipset Market (2023-2030) Updated Latest Research Report is divided into various types [GPU, ASIC,"
+    publishedDateTime: 2023-04-13T09:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/very-edge-ai-chipset-market-2023-2030-industry-overview-and-ongoing-opportunity-2023-04-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+  - title: "Artificial Intelligence In Security Market 2023 Highlights, Recent Trends, Market Growth And Opportunities"
+    excerpt: "Additionally, this report evaluates technological advances made by leading players in the market and provides information on the key trends, advancements, and strategies employed by these leading companies."
+    publishedDateTime: 2023-04-13T06:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-2023-highlights-recent-trends-market-growth-and-opportunities-2023-04-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
 
 secured: "fLyMG6E1ZIa7fagW0I5rhOOYm7xjZopeCDMrijhRPpxlZXJljqUenUTo5qU91XGKCANN0RyM1VoygapmFSBSClt2EpDa4m3hJcv1raGcWhCZvm6kLg8692aOgDmi4XXkFbAEm8ALfq+mf0iAOWL7jgN4WYpIr/yBFlnPSpCTewKsDnSOP6pPqaW568vqi2xA5kH6zN3Nb7RKEoemE/wVjg1BQUMu5PNK+KumyrJxPEWdmZ32nfgTfpD65RmQ792SGrcRaqguT9fjgEK/yKRwMlHCf5ee1La/amHwd0dVjmbohiHTO+iiBsnUKmyMxB5YPExA2/SUKY0VnbdwxWOgWFZ/HDLkOUKG7kRQC7lxBVE=;XCd2rGKT591ak2aup3MKoA=="
 ---

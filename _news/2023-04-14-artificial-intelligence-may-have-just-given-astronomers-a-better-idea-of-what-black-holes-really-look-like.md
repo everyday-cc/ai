@@ -36,15 +36,6 @@ related:
         width: 2048
         height: 1027
         isCached: true
-  - title: "Iconic image of M87 black hole just got a machine-learning makeover"
-    excerpt: "The iconic image of a supermassive black hole in the Messier 87 (M87) galaxy—described by astronomers as a \"fuzzy orange donut\"—was a stunning testament to the capabilities of the Event Horizon Telescope (EHT)."
-    publishedDateTime: 2023-04-13T10:59:00Z
-    webUrl: "https://arstechnica.com/science/2023/04/iconic-image-of-m87-black-hole-just-got-a-machine-learning-makeover/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 34
 
 secured: "pYl7vldT3CDNFYWv+GwPfXpNuuDwUK0a78Ac2qa80Rash40FK58qRR1t7vRIwX5uFMaFKxOqAaM9I7RznVG0mjvjhAE4oK/0oT8CinJUSkN13QMcUymb7I8G1uyq4hMfhmzwJ2xbLuRL8Mc+tqhQ2jOCYKbGXSVR/wswlQ+C2TxtudniNu25AZLT52fosOp/UCjoLY1KnpOLMsI6jjV9Jfq2wF4KSw+wkxSJxZq5KOj1iguzOGA2FYPRjf/2J0NwpGXfeawtfi0uTg1yQ0/wxvOW1AE58Uv0+CPnLTx2SLJEHmPvShdy3buTsHwfLgjZarI2AJv8BbH1FYEK84V5gnEZ0UOxEVUN9lVFTldMhl2aypRs0FoeJ1qDc3XkZdxmqvnF9Cnvxn67QrYXqDit7rlrd5IJ3OFpz1AUdrL/dUGZlMxPFEZl/lqQAF2MEp4u8QpUb/k1i6hcxdvO41OW+nAR7mntSk7MCjuKnfaQJB+xQPk83P4//YgQPwX5L8Dv7Mgxph5Cac7lKiONzdzX7g==;O4b85x4Nro9oNUdt9YNtsw=="
 ---

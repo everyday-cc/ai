@@ -83,6 +83,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Fintech Market Growth and Forecast till 2031"
+    excerpt: "The latest market research report on the Global \"AI in Fintech Market\" is segmented by Regions, Country, Company and"
+    publishedDateTime: 2023-04-13T06:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-growth-and-forecast-till-2031-2023-04-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
   - title: "Facial Recognition Market Analysis Future Outlook Forecast 2023 to 2031"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 14, 2023 (Alliance News via COMTEX) -- Facial recognition is a biometric technology which is used for authentication and identification of individuals, by comparing the ..."
     publishedDateTime: 2023-04-14T13:14:00Z

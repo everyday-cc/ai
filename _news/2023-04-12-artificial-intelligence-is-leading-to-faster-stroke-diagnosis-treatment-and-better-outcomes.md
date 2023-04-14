@@ -41,7 +41,23 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence - The Promise of Early Disease Diagnosis and Improved Treatment and the Potential of Liability"
+    excerpt: "If there is one thing that everyone can agree on, it is that health is an important factor in life. In 2021, over 3 million people died in the United States with heart disease and cancer top"
+    publishedDateTime: 2023-04-14T15:59:00Z
+    webUrl: "https://www.natlawreview.com/article/artificial-intelligence-promise-early-disease-diagnosis-and-improved-treatment-and"
+    ampWebUrl: "https://www.natlawreview.com/article/artificial-intelligence-promise-early-disease-diagnosis-and-improved-treatment-and?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/artificial-intelligence-promise-early-disease-diagnosis-and-improved-treatment-and?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 33
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
 
-secured: "lmr+xZ5w8Qu1rUfItd61NGxOEA3UVKDqtyz+Iir3Jq3hRDgsWmVagJXQAdhWBZlD7c19wPb+i1vMPAJDtGq9sxuJE6W3LukU5fuGqFE1ZTuu1m/jRoyHcxkSK3lYNH7Ff/wJSE1beafZ+0rOhNmbdrxWNMZZBto0RNvjpyd0Cw6j048v/fnOcRrBFuzaib8QOK3G1Ium2luxumXfS6+dTNWk1E2qXTioz0bK/kxyyfA/8qGV6Y4Yqr0CJR6oI0LXXG1Lor7aFvnm0vFHaOoq3tF455Ay86/qMijjZiqXAgXRJwvn7sNkXIQTDyPJUBqyRhm39AaLiJjR8IHhwXr8d9b7hKbFjXMYgBCA+S76AmU=;g0zDcOCSlD6W636+ZoqZ4w=="
+secured: "9M8nWPPdAQqeS5fdtijybUEFXkbbqvyVbZCdS4kVLBELWbFjH/Uc64QIelMo69TR9WDPRyn8QgdrvdXvBbL6v9HWjYQN4+X8YSEsve4Vcf7UD17cLPcWrEOrEQbTjMyxQRcHxnXbD6WoiaUWVf8ajeqWL9dX88MAam9yTAFV+XrNhyadMjGu2V8KBeHoGIf+xpaNZ6f4f8+YSd2L/EYix3bDO8U+ZNirM9Wfev0LXPPCgUp+MluYSNBnESaPZPTrBHkqBwzv+Z+De4Atim2ev+jt3wrI7sDkuWTrpT63/dmgl5CfyFT58jL+wLxTCf3rRkFWykgro1NaUPapuZRs/Y7uIzzPEb8uBNYnhOSA4PHrIWnfCjUq95vpOAJjGYTSEYskOcUGMK48txC9qz51biJhX6hCm9h+kDswF/Ndez5VtsmcBPsCCvKtPzG6tsNHch14sGOE2AJ89eoi0QUTzXUwz6m2pwSG04/m5SA4l/gxhQmzqQj8A5Bl3gif3ctR0gfktWKuVmpciLjTjaN5+Q==;PMnlggW+aITN3x8+Eq4WgQ=="
 ---
 

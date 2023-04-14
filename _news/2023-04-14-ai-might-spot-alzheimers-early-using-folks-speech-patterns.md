@@ -2,26 +2,26 @@
 category: news
 title: "AI Might Spot Alzheimer's Early, Using Folks' Speech Patterns"
 excerpt: "In a new study, researchers used advanced machine learning and natural language processing (NLP) tools to assess speech patterns of 206 people. Of those, 114 participants met the criteria for mild cognitive decline. “Our focus was on identifying subtle ..."
-publishedDateTime: 2023-04-14T13:45:00Z
-originalUrl: "https://tucson.com/lifestyles/health-med-fit/ai-might-spot-alzheimers-early-using-folks-speech-patterns/article_e19a96b2-9576-5a6e-af08-fd4f9851e78d.html"
-webUrl: "https://tucson.com/lifestyles/health-med-fit/ai-might-spot-alzheimers-early-using-folks-speech-patterns/article_e19a96b2-9576-5a6e-af08-fd4f9851e78d.html"
+publishedDateTime: 2023-04-14T16:31:00Z
+originalUrl: "https://tulsaworld.com/lifestyles/health-med-fit/ai-might-spot-alzheimers-early-using-folks-speech-patterns/article_0edfcd64-7754-5c0d-9a9d-87e179fb943d.html"
+webUrl: "https://tulsaworld.com/lifestyles/health-med-fit/ai-might-spot-alzheimers-early-using-folks-speech-patterns/article_0edfcd64-7754-5c0d-9a9d-87e179fb943d.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Arizona Daily Star
-  domain: tucson.com
+  name: Tulsa World
+  domain: tulsaworld.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/4/a6/4a69fca2-dfef-5bf1-b27d-b2aad56ba61f/643955cc4bdea.image.jpg?crop=600%2C338%2C0%2C43&resize=600%2C338&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/d/a6/da61b619-165e-5048-adb0-bd44c06d6f33/643955b867a53.image.jpg?crop=600%2C315%2C0%2C54&resize=600%2C315&order=crop%2Cresize"
     width: 600
-    height: 338
+    height: 315
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 480
         isCached: true
 
-secured: "VNDQE+Xp2kijVqIxeejUHNhoH8Faov4o69ij32x5/HvNG0X9au0P6zitGGDFlKgbMWm3Fy9XVpXrd180KtciEV59LUVRJR8Zn1KDY/ccKAgYsD0L11T4zotC8FnUIT1m0QfabCDDjIOtcT4j3ZZdDOvHuoiDrlwvWk0YSIAl7KPsYk10ghznswT3vWjUx6gYIcl1zMNQ+R79S9sfaaMsbHN0F46g4Z+LRBRximEKj0NOe/sbs1KPqJaapeZtwFUHOlBE8AKHUjLBWyJkMzK4q66JC4FaApJ44jDf+UWDxG1K+xn9ivwDaFMO7Ju0cFzC2TwLbr4oilRJx5Ht6YvgZQss/2Z9Zq862JcRbo9kplM=;LNEtP/6h1cN8CYN/DkYDlQ=="
+secured: "D6xa/mDsdkC+CehOzJjwhnC7qLQsIlXeb1JNxlSzlnruHBX8dNXDQRIzFnz3a2kpzZOaeuGoVKlEKQRTOO5B8AyeYCy8Px2NJ/QA9T0l8CPJAO5fZAj+rZnExhdx/iFIAMOLE2dXGqE+RREJtiJhHVhlqAneFznpaLuepr/pF55tE1hCcDpf8WI7mPytDT2CJIyDR7agPLx7JwO9iH5vCQTfDRT2JIXY5RQXwORVqAxV36JuZA1irEP1n0dy8rrT8UoOSfQ1nxXvxlFcpBM2kYrlPVnHbi+BRTpMasEHT5dwv+/RENlm0u+yq02/IND1HJ91+PQW602aS1oP+Yoxj0Yt4+Rwg0l6bPI6qEYEcsI=;PZ1sEv9LJAKteVtd/qEosw=="
 ---
 

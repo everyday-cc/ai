@@ -2,6 +2,50 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-12-14-emergent-color-categorization-in-a-neural-network-trained-for-object-recognition.md",
+      "title": "Emergent color categorization in a neural network trained for object recognition",
+      "excerpt": "Color is a prime example of categorical perception, yet it is unclear why and how color categories emerge. On the one hand, prelinguistic infants and several animals treat color categorically. On the other hand,",
+      "sourceUrl": null,
+      "webUrl": "https://elifesciences.org/articles/76472",
+      "originalUrl": "https://elifesciences.org/articles/76472",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://elifesciences.org/assets/images/social/icon-600x600@1.75dbe4c9.png",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T08:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eLife",
+        "domain": "elifesciences.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-13-kami-vision-announces-more-than-800-growth-since-2018-marked-by-global-expansion-executive-hires-and-technology-innovation.md",
       "title": "Kami Vision Announces More Than 800% Growth Since 2018 Marked by Global Expansion, Executive Hires, and Technology Innovation",
       "excerpt": "Kami Vision, the computer vision company that provides AI solutions to enterprise, SMB and consumers, today announced record 817% growth between 2018 and 2021, fueled by strong product demand, strategic leadership appointments and global expansion.",

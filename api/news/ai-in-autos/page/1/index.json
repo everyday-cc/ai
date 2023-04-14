@@ -243,6 +243,58 @@
       ]
     },
     {
+      "path": "_news/2023-04-07-the-worlds-first-self-driving-bus-fleet-will-soon-hit-scotlands-streets.md",
+      "title": "The world’s first self-driving bus fleet will soon hit Scotland’s streets",
+      "excerpt": "The UK government said the project, named CAVForth, would be the world’s first full-size, self-driving public bus service. CAV stands for “connected and autonomous vehicles.”",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/the-worlds-first-self-driving-bus-fleet-will-soon-hit-scotlands-streets",
+      "originalUrl": "https://thenextweb.com/news/the-worlds-first-self-driving-bus-fleet-will-soon-hit-scotlands-streets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F04%2Fself-driving-scotland-bus-autonomous.jpg&signature=848ecfdba9f8101314effb674005c47e",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-07-scott-reeder-will-artificial-intelligence-replace-writers.md",
       "title": "Scott Reeder: Will artificial intelligence replace writers?",
       "excerpt": "Well, a machine can only work with the body of information that is available to it. It can scour the internet for answers. But it can’t pick up a phone and drag answers out of a politician reluctant to give them or interview a sobbing crime victim who needs the prompting of a reassuring voice to tell her story.",
@@ -1095,58 +1147,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-01-waymo-brings-its-fleet-of-new-self-driving-suvs-to-austin.md",
-      "title": "Waymo brings its fleet of new self-driving SUVs to Austin",
-      "excerpt": "Waymo is bringing a fleet of driverless cars to Austin, Texas as a test of its new fifth-generation automated driving system. The vehicles will be tested all over the city, including downtown, the Capitol,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/waymo-brings-its-fleet-of-new-self-driving-suvs-to-austin-165720284.html",
-      "originalUrl": "https://www.engadget.com/waymo-brings-its-fleet-of-new-self-driving-suvs-to-austin-165720284.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/cUida6ySiXDpooXP.oUt0g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/9fc6ae30-cfe2-11ed-bec7-e751884bbf3d.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-31T20:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

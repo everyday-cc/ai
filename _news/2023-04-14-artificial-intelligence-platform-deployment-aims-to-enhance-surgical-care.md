@@ -6,8 +6,8 @@ publishedDateTime: 2023-04-14T13:30:00Z
 originalUrl: "https://healthitanalytics.com/news/artificial-intelligence-platform-deployment-aims-to-enhance-surgical-care"
 webUrl: "https://healthitanalytics.com/news/artificial-intelligence-platform-deployment-aims-to-enhance-surgical-care"
 type: article
-quality: 53
-heat: 53
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-18-GettyImages-1255213318.jpg"
@@ -24,6 +25,6 @@ images:
     height: 400
     isCached: true
 
-secured: "l8Trjx/gz8jGqSTHyP5ljjrkWzzat+L9cwBBXrRn9HvF3At1j9gEoNGjriCMMSpoKNXIJ5hLj2qSr8Ioe2bgHbaYoZTwCQQeEo73RPUgjLWppKlFJZTLdhUxlJcu7uathqQ53HuR/LYMBZmUtO2ph8bw+42jeUZ5sHlaaQqBcHhr87v0Ba+Edq/sea8q444EU1pKEFBqpDXT/L2uNE4v5IOP4giryAZbqS49Oh8tYTjemK/Xcol0ENcx6tHdrQ+sLiOna+C3uCSKE6wj131EdsUdTl00o0KinMEegGkki6AGdM1Bf2hnZbniix0eD9Al79PNxDkyoho23ZbZvxQWy+E8WA+d1VSNt5zA+cUqaRQ=;eDfR2mqcWLxCFYe5JOY0dA=="
+secured: "XDWFTcZHvnr/jTh6U1aTbYSWiGqR/Qb17ai8GsZ4Ly8J2sqhuSd6SLKI/oDgByZDTUN0akIWFys7C0U4+uLh7oG7vPgAxEG8Ns6lscWJuf47aYNaf7g9iRM28iXpGY7EwYKNDHEGlw+bPrui47Rej27YnpoadzvaNO6bEngJtomds8xlIl6tgXK9vb5Cm5AQxA7YUNpYUM9eYhwnKDOZhS4nkz0J5a+jO6imvNZs6/TRmj2rnDhs2z6YEGUgoVP0neK92X1dtyyrcbwaOpAe8gzUHIwQXy7XXAjTZf6tlglBjCRkmFNPQONVV+DyZYz/iSbw1ZBIrhiIoxbXrxPSDNOWVBMG7VeKPl2jiTtpRMRZsOFtrCCsxIisRi0scTw3Bo4ls6eMqazTAVzRywCPwZkFEdvCZhFSoKcb9sFQdlxhfxj+w2ZCKMLKtV2nrPd//PeHHGR+nx+DSOLIb77kjURii7y/yLxg0MMZ9rxZ5tkNNo8cwn67ahtUNsIIpuTkpLXFZ/X6lC+Rpva20kKuKg==;kc4CGMdJZiXs8sSB/6ibhg=="
 ---
 

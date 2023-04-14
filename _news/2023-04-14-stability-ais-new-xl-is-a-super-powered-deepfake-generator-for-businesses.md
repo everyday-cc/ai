@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/stability-ai-xl-deep-fake-stable-diffusion-185
 webUrl: "https://gizmodo.com/stability-ai-xl-deep-fake-stable-diffusion-1850334500"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Amazon Makes a Push for More AI Coming Your Way"
+    excerpt: "AWS also announced the general availability of Amazon CodeWhisperer, an AI coding companion. AWS said CodeWhisperer is the fastest, most accurate and most secure way to generate code for Amazon services. AWS is making CodeWhisperer free for anyone to use."
+    publishedDateTime: 2023-04-13T18:27:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/amazon-makes-a-push-for-more-ai-coming-your-way/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 49
 
 secured: "UmTcW8tIml/EqZkdSvHTvon/X8vD/tXdCrZcbJtVajBd6PAmC+Yf4CFlwjKEDOkLQuYi7YZVXqDuhGmIkl0f61SZMOxt2/YgLmV50NgLSQqmQ1SBQAA5xwImflYreMrCoYSUBha59Nnf5qPmCJ7bxP877cKXY3PDMu0l2jlf8LNhZFVq6yyXG4cJsVwItpUR6KY8PVVlMQcEUKEfpH5c69qhe7hYFfK0yIaS9JFGv2RiGDxtlFbMr0NfHBwE/V7dCM8gfd3DLryGb/nFmg4L2O1smz9jQ4BatZH5tt8GCdw+7Z8Bu05ZfsuempPrLoo24f964Udkdhq76CMUCY45EHaK9blQXcXBOgsGYv07JVmP26ZSx3hDnp9bBjzStgLKYEVJOd2YSOQ7ZpPfkkyN0rx+hlDw60h4h9lHvBov59GyMYdVBElR8ks1qY2sqqT6e2u9SuAqOyBRabjB05liUz47xX9QKmo0Gu+o0GCrGAAGoO0VnZFJdalf6OW8tUHaRoSlWd4FTZgz8GXV3qqr4A==;CmmkKQd80Uxb51BwqER7Dg=="
 ---

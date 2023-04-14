@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-25-better-ai-stock-microsoft-vs-nvidia.md",
+      "title": "Better AI Stock: Microsoft vs. Nvidia",
+      "excerpt": "Microsoft has an early mover advantage in the generative AI market thanks to OpenAI and ChatGPT. Nvidia's dominance in GPUs and the importance of these chips in generative AI applications could help it remain a top AI stock. With a purported investment of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/03/24/better-ai-stock-microsoft-vs-nvidia/",
+      "originalUrl": "https://www.fool.com/investing/2023/03/24/better-ai-stock-microsoft-vs-nvidia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 236,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/725637/chatbot-smartphone-person.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-24T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-25-bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying.md",
       "title": "Bill Gates's Open Letter Suggests AI's Potential Is Both Exciting And Terrifying",
       "excerpt": "Its 30% increase in share price since the start of the year is also likely boosted by its acquisition of AI healthcare company Caption Health. Chip company Nvidia, which is announcing AI partnerships all over the place at the moment, is now collaborating ...",
@@ -1404,58 +1457,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-nvidia-built-a-massive-dual-gpu-to-power-models-like-chatgpt.md",
-      "title": "Nvidia built a massive dual GPU to power models like ChatGPT",
-      "excerpt": "Nvidia’s semi-annual GPU Technology Conference (GTC) usually focuses on advancements in AI, but this year, Nvidia is responding to the massive rise of ChatGPT with a slate of new GPUs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/nvidia-built-massive-dual-gpu-power-chatgpt/",
-      "originalUrl": "https://www.digitaltrends.com/computing/nvidia-built-massive-dual-gpu-power-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/03/nvidia-h100-nvl.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/nvidia-built-massive-dual-gpu-power-chatgpt/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/nvidia-built-massive-dual-gpu-power-chatgpt/?amp",
-      "publishedDateTime": "2023-03-21T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
