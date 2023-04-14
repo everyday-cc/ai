@@ -1,14 +1,14 @@
 ---
 category: news
 title: "When Will Cars Be Fully Self-Driving?"
-excerpt: "The technology isn’t anywhere near where it needs to be to replace human drivers. Three experts weigh in on what the future holds for autonomous vehicles."
-publishedDateTime: 2023-04-10T12:00:00Z
-originalUrl: "https://www.wsj.com/articles/cars-self-driving-when-c6ae4fdc"
-webUrl: "https://www.wsj.com/articles/cars-self-driving-when-c6ae4fdc"
+excerpt: "Around now, we should be relaxing in the driver’s seat of our autonomous cars, streaming a TV show or perhaps even taking a nap while the vehicles drive us safely to our destinations. That was ..."
+publishedDateTime: 2023-04-10T13:04:00Z
+originalUrl: "https://www.wsj.com/articles/cars-self-driving-when-c6ae4fdc?mod=hp_lista_pos1"
+webUrl: "https://www.wsj.com/articles/cars-self-driving-when-c6ae4fdc?mod=hp_lista_pos1"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 54
+heat: 104
+published: true
 
 provider:
   name: Wall Street Journal
@@ -21,6 +21,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://images.wsj.net/im-753736/social"
+    width: 1280
+    height: 640
+    isCached: true
 
 related:
   - title: "How road rage really affects your driving -- and the self-driving cars of the future"
@@ -76,6 +82,6 @@ related:
       domain: techxplore.com
     quality: 0
 
-secured: "Uw9ykhAyHiDB5+GlldmR1MYSWc6zjgmK3JOpX8N9OLBHvI8orsA+li1ytWkn15mq5+IJ8BoyKVpMRsmqqk0FKU8/YFfJcNiynZpKDxVRNK58qOsX9ouZqmQCBnzGvyDe/eDmyasLl6/slGzTlOwBebmABu4/gBN4Nah/hSdwr+mmSCua3s9f0OsF9bQyQErLIbQe+NclaKtdHr5AYSmypHqoamV9TWs7hQ83Q8IfPLj2h+s9TEVFmskvNIFODaNB4hcf+XAxy6/txjNlmlyZHEHl/WEBZbSb1DULDc6vUQogCrxZWTIL+rlELSnx8Xug729JrB2JckuW4OEIB85EeHG4LRC3086VoIVv2fWmxCJlwKZaRjdnkgcAqjfYFFnzE2QsENqq1kz8gE+WigstG0inaN5r3lBCCRIKOxfaASx2EPlb+nO59yoQPQmT63/qcGiUZ6xw4X6fVluzXS7HuCu2WJq9OhkTYwbQ8IuJ38FptqellGJAZnliY2r7dQvwJKcNm6DZdBpllrGPxffxFg==;pOxkrjvNTQutnOTcsjo9Fw=="
+secured: "Sk6/A7qBWBQM/mP+Aa9BLkZO3zcQa84VkRkUxB1ZQJMpb+A/gYuWrfSlK1aqgjaZ1Oyu+ORCFJjaAm4NHCqZMEw6jnWBw6YYd9XlhAvB4w7PALDQMmnjrkAW6L4/qXRIpbS/DL9frUasOhlmW7NXTDJWUcsnGogJPOEOrTyse96YFThc6vbyT2bT2bpxIpcs3kRHrGw8KqbtMtevnYQH4Ha+MvmVrrJ+91nEb1yMFhhdqgO2hT1XdukZPNFtiUMAUicTiN2FbE8WcaD/ZyTUj/2E3MalYIRbhhbJ8VIqyEsTtdVtTWa+23rccKyczOqQeJ+KVgukPKvFzuStEOeKGGjm9gC/+8nqcgxXvB/Orm8=;gIPiW3Asv2DjzBulH0fxBA=="
 ---
 

@@ -2,6 +2,101 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2023-03-14-ibm-the-market-outlook-for-cloud-and-ai-services-is-strong.md",
+      "title": "IBM: The Market Outlook For Cloud And AI Services Is Strong",
+      "excerpt": "During recent years, IBM had the lowest net debt-to-equity of 2.06 in 2022. The market outlook for cloud and AI services is strong and the demand for IBM’s software products is growing.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4587185-ibm-the-market-outlook-for-cloud-and-ai-services-is-strong",
+      "originalUrl": "https://seekingalpha.com/article/4587185-ibm-the-market-outlook-for-cloud-and-ai-services-is-strong",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1418475387/image_1418475387.jpg?io=getty-c-w1536",
+          "width": 1536,
+          "height": 945,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-14T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-the-philosopher-a-conversation-with-grady-booch.md",
+      "title": "The philosopher: A conversation with Grady Booch",
+      "excerpt": "Our recent conversation touched on both practical and philosophical aspects of human-computer interaction and co-evolution, artificial intelligence ... the world in its ability to carry out Rogerian therapy … or at least a fair illusion of it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3689914/the-philosopher-a-conversation-with-grady-booch.html",
+      "originalUrl": "https://www.infoworld.com/article/3689914/the-philosopher-a-conversation-with-grady-booch.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/03/grady-100938301-medium.jpg?auto=webp&quality=85,70",
+          "width": 300,
+          "height": 314,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3689914/the-philosopher-a-conversation-with-grady-booch.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3689914/the-philosopher-a-conversation-with-grady-booch.amp.html",
+      "publishedDateTime": "2023-03-14T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-14-how-ai-could-write-our-laws.md",
       "title": "How AI could write our laws",
       "excerpt": "Lobbying has long been part of the give-and-take among human policymakers and advocates working to balance their competing interests. The danger of microlegislation—a danger greatly exacerbated by AI—is that it can be used in a way that makes it difficult to figure out who the legislation truly benefits.",
@@ -1076,106 +1171,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes.md",
-      "title": "Nvidia’s GTC online event will feature 70 talks on generative AI | Greg Estes",
-      "excerpt": "Connect with top gaming leaders in Los Angeles at GamesBeat Summit 2023 this May 22-23. Register here. The 14th annual Nvidia GTC online event will have more than 650 sessions, including 70 alone on generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes/",
-      "originalUrl": "https://venturebeat.com/ai/nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/nvidia-gtc.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 701,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes/amp/",
-      "publishedDateTime": "2023-03-13T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Robotics",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-15-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts.md",
-      "title": "15 Best Artificial Intelligence (AI) Stocks To Buy According to Analysts",
-      "excerpt": "Artificial Intelligence (AI) is an emerging technology that has wide-ranging applications across various industries and significant implications for society. It is transforming the global economy and national security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/15-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts-1131206/",
-      "originalUrl": "https://www.insidermonkey.com/blog/15-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts-1131206/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2021/07/22051908/breno-assis-r3WAWU5Fi5Q-unsplash.jpg?auto=format&expires=1710201600&w=400&h=225&fit=crop",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.insidermonkey.com/blog/15-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts-1131206/?amp=1",
-      "cdnAmpWebUrl": "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/15-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts-1131206/?amp=1",
-      "publishedDateTime": "2023-03-13T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI",
-        "AI in Healthcare",
-        "AWS AI"
       ]
     }
   ],

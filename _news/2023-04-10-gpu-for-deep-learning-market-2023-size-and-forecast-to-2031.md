@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-ma
 webUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-2023-size-and-forecast-to-2031-2023-04-09"
 type: article
 quality: 66
-heat: 106
+heat: 126
 published: true
 
 provider:
@@ -42,6 +42,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-driving Vehicles Market Future Investments and Forecast Till 2028"
+    excerpt: "The research report on the Self-driving Vehicles Market presents an efficient industry perspective, future patterns,"
+    publishedDateTime: 2023-04-13T10:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market-future-investments-and-forecast-till-2028-2023-04-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-Driving Car Market Forecasted from 2023-2031"
+    excerpt: "The \" Self-Driving Car Market \"Study offers comprehensive information and statistics on markets in the current"
+    publishedDateTime: 2023-04-14T01:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-forecasted-from-2023-2031-2023-04-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

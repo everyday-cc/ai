@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/media/arizona-mother-describes-ai-phone-scam
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/arizona-mother-describes-ai-phone-scam-faking-daughters-kidnapping-completely-voice.amp"
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -48,17 +48,31 @@ related:
         isCached: true
   - title: "Kidnapping scam uses artificial intelligence to clone teen girl's voice, mother issues warning"
     excerpt: "There is a new scam using artificial intelligence to clone voices. Arizona mother Jennifer DeStefano shared her story of a kidnapping hoax that sounded all too real. Jennifer said when she recently received a call from an unknown number,"
-    publishedDateTime: 2023-04-13T19:35:00Z
-    webUrl: "https://abc30.com/ai-voice-generator-artificial-intelligence-kidnapping-scam-detector/13122645/"
+    publishedDateTime: 2023-04-13T19:53:00Z
+    webUrl: "https://6abc.com/ai-voice-generator-artificial-intelligence-kidnapping-scam-detector/13122645/"
     type: article
     provider:
-      name: ABC30 Action News
-      domain: abc30.com
+      name: 6abc News
+      domain: 6abc.com
     quality: 25
     images:
       - url: "https://cdn.abcotvs.com/dip/images/13122757_041323-wls-N1-ai-kidnap-scam-pkg-vid.jpg?w=1600"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Another A.I. phone scam- A.I. Clones Girls’s Voice in $1M kidnapping scam."
+    excerpt: "Jennifer DeStefano faced a phone call scam, she was told that her daughter had been kidnapped and the scammers demanded $1 million if she wanted her daughter safe. Scammers used A.I. to clone her daughters voice and tricked her."
+    publishedDateTime: 2023-04-14T08:55:00Z
+    webUrl: "https://techstory.in/another-a-i-phone-scam-a-i-clones-girlss-voice-in-1m-kidnapping-scam/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 22
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/04/ai-image-scaled.jpg"
+        width: 2560
+        height: 2263
         isCached: true
 
 secured: "b9pZuRsvL6nYyYneU6RwyIRFsaBeb85pGxx/Fk06Xx/OrVRJqlZiWTuPIiEMe3ED/N5kVmmBu20uKfzE4O2EjS9bd6Cl7H3TJHlFRhclhbfctca2ZFjt4ESXhl8+uhsVWfB/9ITorjoKUlk0aGnC3YHh+4SlOgD6zRdU4Fp6cvkB6VACLAQckOKVBliTACyLYPDziO4mF2a5OuHMbgXfFX6WKi7sZZsTyJ1znD0AEpK8PjP02ExMgGvJzuNoBSkdpc6KEdyLM4NCZ2VbIVINZFztB4dD0cggBtpWdJpa1p9oE2C0le4Pqgwopmkq9OriNVSX0a2IDclN0hewesw8wXKUa5pmjkAZCisjnXZIgeA=;QEh/2hK03U0xqwMTh0VBYg=="

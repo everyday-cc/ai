@@ -2,6 +2,83 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2023-02-08-winning-meeting-fintech-customer-service-imperatives-through-financial-inclusion-and-hyper-personalization.md",
+      "title": "Winning: Meeting Fintech Customer Service Imperatives Through Financial Inclusion and Hyper-Personalization",
+      "excerpt": "This past September, the Consumer Financial Protection Bureau noted the rising delinquency rate for recently purchased cars loans.",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/blog/fintech/winning-meeting-fintech-customer-service-imperatives-through-financial-inclusion-and",
+      "originalUrl": "https://financialit.net/blog/fintech/winning-meeting-fintech-customer-service-imperatives-through-financial-inclusion-and",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/default/files/kathy_stares_-_provenir.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T03:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-08-is-soundhound-voice-ai-the-next-big-thing.md",
+      "title": "Is SoundHound Voice AI the Next Big Thing?",
+      "excerpt": "SoundHound AI has innovative engineering making it more efficient and quicker. Rather than record speech and then interpret it in writing, SoundHound uses Speech-to-Meaning real-time translation of spoken language and its meaning. It's quicker and can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/is-soundhound-voice-ai-the-next-big-thing",
+      "originalUrl": "https://www.nasdaq.com/articles/is-soundhound-voice-ai-the-next-big-thing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-08-why-amazon-web-services-is-going-to-space.md",
       "title": "Why Amazon Web Services Is Going To Space",
       "excerpt": "Credit: Blue Origin Back on Earth, AWS already provides cloud-computing services to the space industry—for example, to satellite companies such as HawkEye 360, a radio-frequency-sniffing satellite operator that used the Amazon SageMaker Autopilot ...",
@@ -1017,92 +1094,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-lendingclub-to-participate-in-the-credit-suisse-24th-annual-financial-services-forum-on-february-14.md",
-      "title": "LendingClub to Participate in the Credit Suisse 24th Annual Financial Services Forum on February 14",
-      "excerpt": "A live webcast of the Credit Suisse 24th Annual Financial Services Forum fireside chat will be available at  Registration is required. LendingClub Corporation (NYSE: LC) is the parent company of LendingClub Bank,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/02/07/9756765.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/02/07/9756765.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T13:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-analysts-love-these-stocks-with-big-upside-potential-to-play-the-chatgpt-driven-artificial-intelligence-craze.md",
-      "title": "Analysts love these stocks with big upside potential to play the ChatGPT-driven artificial intelligence craze",
-      "excerpt": "CNBC Pro screened about a dozen AI funds — including the Global X Robotics & Artificial Intelligence ETF , the ARK Autonomous Technology & Robotics ETF and the First Trust Nasdaq Artificial Intelligence and Robotics ETF — using data from FactSet ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/02/07/ai-stocks-to-play-the-chatgpt-driven-artificial-intelligence-craze.html",
-      "originalUrl": "https://www.cnbc.com/2023/02/07/ai-stocks-to-play-the-chatgpt-driven-artificial-intelligence-craze.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107137312-1666192372536-robot.jpg?v=1675804646&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T13:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

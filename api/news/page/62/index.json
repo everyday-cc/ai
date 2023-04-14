@@ -2,6 +2,101 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2023-02-11-an-alternative-to-touchscreens-in-car-voice-control-is-finally-good.md",
+      "title": "An alternative to touchscreens? In-car voice control is finally good",
+      "excerpt": "The voice recognition is even good enough to understand me when I tell it to navigate to a specific address, to the point that I actually use the native navigation systems if I'm driving a modern ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/cars/2023/02/voice-assistants-in-cars-are-finally-getting-good-enough-to-rely-on/",
+      "originalUrl": "https://arstechnica.com/cars/2023/02/voice-assistants-in-cars-are-finally-getting-good-enough-to-rely-on/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/kitt-voice-controls-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/cars/2023/02/voice-assistants-in-cars-are-finally-getting-good-enough-to-rely-on/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/02/voice-assistants-in-cars-are-finally-getting-good-enough-to-rely-on/amp/",
+      "publishedDateTime": "2023-02-10T16:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-11-sia-responds-to-lawmaker-demands-to-halt-facial-recognition-technology-at-tsa-checkpoints.md",
+      "title": "SIA responds to lawmaker demands to halt facial recognition technology at TSA checkpoints",
+      "excerpt": "The Security Industry Association issued a statement Friday in response to several U.S. Senators calling for the Transportation Security Administration (TSA) to halt the use of facial recognition technology at screening checkpoints. The association is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityinfowatch.com/industry-news/article/21295414/security-industry-association-sia-sia-responds-to-lawmaker-demands-to-halt-facial-recognition-technology-at-tsa-checkpoints",
+      "originalUrl": "https://www.securityinfowatch.com/industry-news/article/21295414/security-industry-association-sia-sia-responds-to-lawmaker-demands-to-halt-facial-recognition-technology-at-tsa-checkpoints",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/02/16x9/OPED_TSA_FACIAL_RECOGNITION_COMMENTARY_TB.63e6c83828109.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-10T14:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security",
+        "domain": "securityinfowatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-11-heres-how-tech-is-shaping-super-bowl-lvii.md",
       "title": "Here's How Tech Is Shaping Super Bowl LVII",
       "excerpt": "For the first time ever, rowdy tailgaters may even get the chance to have a driverless vehicle carpool thei drunken asses around town. Here’s some of the ways’s tech may shape this year’s ...",
@@ -1060,101 +1155,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-new-hybrid-machine-learning-framework-extends-range-of-accurate-epidemic-forecasting.md",
-      "title": "New Hybrid Machine Learning Framework Extends Range of Accurate Epidemic Forecasting",
-      "excerpt": "Community leaders and public health officials may soon have more time to plan for Covid and flu outbreaks thanks to a new machine learning (ML) framework that is improving the accuracy of long-range epidemic forecasting. That is exactly what researchers at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cc.gatech.edu/news/new-hybrid-machine-learning-framework-extends-range-accurate-epidemic-forecasting",
-      "originalUrl": "https://www.cc.gatech.edu/news/new-hybrid-machine-learning-framework-extends-range-accurate-epidemic-forecasting",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cc.gatech.edu/sites/default/files/images/main/2023/EINNs%20Charts_0.png",
-          "width": 850,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T03:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cc.gatech.edu",
-        "domain": "gatech.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-your-essential-guide-to-generative-ai-chatgpt-via-the-super-bowl-plus-bonus-ai-ethics-and-ai-law-insights.md",
-      "title": "Your Essential Guide To Generative AI ChatGPT Via The Super Bowl, Plus Bonus AI Ethics And AI Law Insights",
-      "excerpt": "Those in AI Ethics and AI Law are notably worried about this burgeoning trend of outstretched claims. You might politely say that some people are overstating what today’s AI can actually do. They assume that AI has capabilities that we haven’t yet been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/10/your-essential-guide-to-generative-ai-chatgpt-and-the-super-bowl-plus-bonus-ai-ethics-and-ai-law-insights/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/10/your-essential-guide-to-generative-ai-chatgpt-and-the-super-bowl-plus-bonus-ai-ethics-and-ai-law-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63e5ee0f389df072e721a49e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/10/your-essential-guide-to-generative-ai-chatgpt-and-the-super-bowl-plus-bonus-ai-ethics-and-ai-law-insights/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/02/10/your-essential-guide-to-generative-ai-chatgpt-and-the-super-bowl-plus-bonus-ai-ethics-and-ai-law-insights/amp/",
-      "publishedDateTime": "2023-02-10T03:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

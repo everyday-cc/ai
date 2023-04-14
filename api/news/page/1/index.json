@@ -105,7 +105,7 @@
       "originalUrl": "https://venturebeat.com/ai/mind-your-language-risks-using-ai-powered-chatbots-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 188,
+      "heat": 198,
       "tags": null,
       "images": [
         {
@@ -156,7 +156,7 @@
       "originalUrl": "https://www.nbcnews.com/tech/tech-news/amazon-jumps-generative-race-new-cloud-service-rcna79599",
       "featuredContent": null,
       "highlight": null,
-      "heat": 230,
+      "heat": 251,
       "tags": null,
       "images": [
         {
@@ -199,7 +199,7 @@
       "originalUrl": "https://www.foxnews.com/media/arizona-mother-describes-ai-phone-scam-faking-daughters-kidnapping-completely-voice",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -576,6 +576,57 @@
       ]
     },
     {
+      "path": "_news/2023-04-13-this-podcast-is-not-hosted-by-ai-voice-clones-we-swear.md",
+      "title": "This Podcast Is Not Hosted by AI Voice Clones. We Swear",
+      "excerpt": "This week on Gadget Lab, we use a set of software tools to create robo versions of our real voices and see how they stack up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/gadget-lab-podcast-594/",
+      "originalUrl": "https://www.wired.com/story/gadget-lab-podcast-594/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64370840abe4e3389a6ff5a1/191:100/w_1280,c_limit/Gadget-Lab-Podcast--AI-Voice-Clones-on-Podcasts-Gear-GettyImages-1317150029.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-13-top-3-considerations-for-adopting-rise-with-sap-to-modernize-your-operations.md",
       "title": "Top 3 considerations for adopting RISE with SAP to modernize your operations",
       "excerpt": "Organizations are increasingly seeking more choice and flexibility as they modernize their mission-critical workloads. But each organization is at a different point and has different goals when transforming their businesses and modernizing their SAP environments. Some organizations are looking to improve",
@@ -669,7 +720,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/2023-2030-artificial-intelligence-ai-market-size-and-share-trends-2023-04-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -1114,49 +1165,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-global-executives-and-ai-strategy-for-hr-how-to-tackle-bias-in-algorithmic-ai.md",
-      "title": "Global executives and AI strategy for HR: How to tackle bias in algorithmic AI",
-      "excerpt": "The move towards monitoring HR tools and applications for bias is gaining traction worldwide, driven by various global and domestic data privacy laws and the US Equal Employment Opportunity Commission (EEOC). In line with this trend, the New York City Council has enacted new regulations requiring organizations",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/global-executives-and-ai-strategy-for-hr-how-to-tackle-bias-in-algorithmic-ai/",
-      "originalUrl": "https://www.ibm.com/blog/global-executives-and-ai-strategy-for-hr-how-to-tackle-bias-in-algorithmic-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

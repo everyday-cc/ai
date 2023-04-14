@@ -47,6 +47,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-driving Vehicles Market Future Investments and Forecast Till 2028"
+    excerpt: "The research report on the Self-driving Vehicles Market presents an efficient industry perspective, future patterns,"
+    publishedDateTime: 2023-04-13T10:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market-future-investments-and-forecast-till-2028-2023-04-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-Driving Car Market Forecasted from 2023-2031"
+    excerpt: "The \" Self-Driving Car Market \"Study offers comprehensive information and statistics on markets in the current"
+    publishedDateTime: 2023-04-14T01:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-forecasted-from-2023-2031-2023-04-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech Recognition Market Key Players and Forecast till 2031"
     excerpt: "The latest market research report on the Global \"Speech Recognition Market\" is segmented by Regions, Country, Company"
     publishedDateTime: 2023-04-13T05:20:00Z

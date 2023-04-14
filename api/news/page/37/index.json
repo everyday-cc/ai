@@ -2,6 +2,102 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2023-03-08-from-marketing-to-design-brands-adopt-ai-tools-despite-risk.md",
+      "title": "From marketing to design, brands adopt AI tools despite risk",
+      "excerpt": "Mattel has put the AI image generator DALL-E to work by having it come up with ideas for new Hot Wheels toy cars. Used vehicle seller CarMax is summarizing thousands of customer reviews with the same “generative” AI technology that powers the popular chatbot ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.expressnews.com/living/article/from-marketing-to-design-brands-adopt-ai-tools-17826340.php",
+      "originalUrl": "https://www.expressnews.com/living/article/from-marketing-to-design-brands-adopt-ai-tools-17826340.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/31/64/21/23544924/6/rawImage.jpg",
+          "width": 2048,
+          "height": 1536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T01:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Antonio Express-News",
+        "domain": "expressnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-03-08-teradata-helps-customers-unlock-true-value-of-their-data-with-integration-of-teradata-vantagecloud-and-microsoft-azure-machine-learning.md",
+      "title": "Teradata Helps Customers Unlock True Value of their Data with Integration of Teradata VantageCloud and Microsoft Azure Machine Learning",
+      "excerpt": "SAN DIEGO, (BUSINESS WIRE) -- Teradata (NYSE: TDC) today announced the integration and general availability of Teradata VantageCloud, the complete cloud analytics and data platform, with Microsoft Azure Machine Learning (Azure ML). VantageCloud’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/teradata-helps-customers-unlock-true-value-of-their-data-with-integration-of-teradata-vantagecloud-and-microsoft-azure-machine-learning-2023-03-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/teradata-helps-customers-unlock-true-value-of-their-data-with-integration-of-teradata-vantagecloud-and-microsoft-azure-machine-learning-2023-03-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-03-08-study-examines-potential-use-of-machine-learning-for-sustainable-development-of-biomass.md",
       "title": "Study examines potential use of machine learning for sustainable development of biomass",
       "excerpt": "Biomass is widely considered a renewable alternative to fossil fuels, and many experts say it can play a critical role in combating climate change. Biomass stores carbon and can be turned into bio-based products and energy that can be used to improve soil,",
@@ -1110,111 +1206,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-07-tech-execs-didnt-just-start-talking-about-ai-but-they-are-talking-about-it-a-lot-more.md",
-      "title": "Tech execs didn’t just start talking about AI — but they are talking about it a lot more",
-      "excerpt": "Do you feel like you've heard a lot more about AI in 2023? A MarketWatch analysis shows you probably have, although from roughly the same number of sources.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tech-execs-didnt-just-start-talking-about-ai-but-they-are-talking-about-it-a-lot-more-a11accae",
-      "originalUrl": "https://www.marketwatch.com/story/tech-execs-didnt-just-start-talking-about-ai-but-they-are-talking-about-it-a-lot-more-a11accae",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-737082/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-execs-didnt-just-start-talking-about-ai-but-they-are-talking-about-it-a-lot-more-a11accae",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-execs-didnt-just-start-talking-about-ai-but-they-are-talking-about-it-a-lot-more-a11accae",
-      "publishedDateTime": "2023-03-07T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-07-chatgpt-machine-learning-and-generative-ai-in-healthcare.md",
-      "title": "ChatGPT, Machine Learning And Generative AI In Healthcare",
-      "excerpt": "The use of generative AI has the potential to greatly impact clinical understanding, diagnosis and treatment of complex medical conditions as well as improve the accuracy, efficiency and effectiveness of healthcare system function.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/07/chatgpt-machine-learning-and-generative-ai-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/07/chatgpt-machine-learning-and-generative-ai-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 311,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6405efa13b66613f66c92092/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/07/chatgpt-machine-learning-and-generative-ai-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/07/chatgpt-machine-learning-and-generative-ai-in-healthcare/amp/",
-      "publishedDateTime": "2023-03-07T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare",
-        "AI in Finance"
       ]
     }
   ],

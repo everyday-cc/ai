@@ -2,6 +2,101 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2023-02-13-ai-etfs-are-rallying-this-year-as-chatgpt-hysteria-heats-up-what-to-know-before-jumping-in.md",
+      "title": "A.I. ETFs are rallying this year as ChatGPT hysteria heats up. What to know before jumping in",
+      "excerpt": "So far this year, AI-focused funds such as the iShares Robotics & Artificial Intelligence Multisector and the ARK Autonomous Technology & Robotics , are higher by about 19% each. ARKQ YTD mountain ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/02/12/what-to-know-about-ai-focused-etfs-as-chatgpt-craze-takes-hold.html",
+      "originalUrl": "https://www.cnbc.com/2023/02/12/what-to-know-about-ai-focused-etfs-as-chatgpt-craze-takes-hold.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107167129-1671131974126-gettyimages-1245565704-raa-openaich221212_npWP2.jpeg?v=1676204570&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-12T21:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-13-how-to-stop-ai-from-eating-journalism.md",
+      "title": "How to Stop AI From Eating Journalism",
+      "excerpt": "It’s important to note here that, for the most part, there are no agreed upon or well-established rules around AI and the ethics of journalism. The technology just hasn’t existed long enough ...",
+      "sourceUrl": null,
+      "webUrl": "https://inthesetimes.com/article/ai-artificial-intelligence-journalism-chatgpt-media-ethics",
+      "originalUrl": "https://inthesetimes.com/article/ai-artificial-intelligence-journalism-chatgpt-media-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.us-east-1.amazonaws.com/in-these-times/_1200x630_crop_center-center_82_none/GettyImages-1246519304.jpg?mtime=1675780540",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-12T17:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "In These Times",
+        "domain": "inthesetimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-13-5-key-features-of-machine-learning.md",
       "title": "5 key features of machine learning",
       "excerpt": "Machine learning has a wide range of applications in the finance, healthcare, marketing and transportation industries. It is used to analyze and process large amounts of data, make predictions ...",
@@ -1088,101 +1183,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-11-an-alternative-to-touchscreens-in-car-voice-control-is-finally-good.md",
-      "title": "An alternative to touchscreens? In-car voice control is finally good",
-      "excerpt": "The voice recognition is even good enough to understand me when I tell it to navigate to a specific address, to the point that I actually use the native navigation systems if I'm driving a modern ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/cars/2023/02/voice-assistants-in-cars-are-finally-getting-good-enough-to-rely-on/",
-      "originalUrl": "https://arstechnica.com/cars/2023/02/voice-assistants-in-cars-are-finally-getting-good-enough-to-rely-on/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/kitt-voice-controls-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/cars/2023/02/voice-assistants-in-cars-are-finally-getting-good-enough-to-rely-on/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/02/voice-assistants-in-cars-are-finally-getting-good-enough-to-rely-on/amp/",
-      "publishedDateTime": "2023-02-10T16:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-11-sia-responds-to-lawmaker-demands-to-halt-facial-recognition-technology-at-tsa-checkpoints.md",
-      "title": "SIA responds to lawmaker demands to halt facial recognition technology at TSA checkpoints",
-      "excerpt": "The Security Industry Association issued a statement Friday in response to several U.S. Senators calling for the Transportation Security Administration (TSA) to halt the use of facial recognition technology at screening checkpoints. The association is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.securityinfowatch.com/industry-news/article/21295414/security-industry-association-sia-sia-responds-to-lawmaker-demands-to-halt-facial-recognition-technology-at-tsa-checkpoints",
-      "originalUrl": "https://www.securityinfowatch.com/industry-news/article/21295414/security-industry-association-sia-sia-responds-to-lawmaker-demands-to-halt-facial-recognition-technology-at-tsa-checkpoints",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/02/16x9/OPED_TSA_FACIAL_RECOGNITION_COMMENTARY_TB.63e6c83828109.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T14:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security",
-        "domain": "securityinfowatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

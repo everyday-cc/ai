@@ -74,6 +74,17 @@ related:
         width: 1920
         height: 1738
         isCached: true
+  - title: "AWS Joins Generative AI Race, Unveils New Products"
+    excerpt: "Generative AI is a type of AI that can create new content and ideas, including conversations, stories, images, videos, and music"
+    publishedDateTime: 2023-04-14T09:19:00Z
+    webUrl: "https://www.dqindia.com/aws-joins-generative-ai-race-unveils-new-products/"
+    ampWebUrl: "https://www.dqindia.com/aws-joins-generative-ai-race-unveils-new-products/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/aws-joins-generative-ai-race-unveils-new-products/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 54
   - title: "Reinventing financial services with next-gen AI"
     excerpt: "As part of a surging embrace of AI, financial services companies are joining others developing next-gen autonomous, cloud-based assistants."
     publishedDateTime: 2023-04-13T20:20:00Z
@@ -92,6 +103,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "How Generative AI Could Disrupt Creative Work"
+    excerpt: "In the face of technological change, creativity is often held up as a uniquely human quality, less vulnerable to the forces of technological disruption and critical for the future. Today however, generative AI applications such as ChatGPT and Midjourney are threatening to upend this special status and significantly alter creative work,"
+    publishedDateTime: 2023-04-13T12:25:00Z
+    webUrl: "https://hbr.org/2023/04/how-generative-ai-could-disrupt-creative-work"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/04/Apr23_13_1364531715.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AWS wades into generative AI fray with Bedrock service"
     excerpt: "CEO Andy Jassy highlighted generative AI as a key area of investment for the retail giant, in a Thursday letter to investors."
     publishedDateTime: 2023-04-13T22:36:00Z

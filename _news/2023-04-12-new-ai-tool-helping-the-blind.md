@@ -28,6 +28,20 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 64
+  - title: "The transformative power of AI in healthcare"
+    excerpt: "Kirsty Biddiscombe, UK Head for AI, ML & Analytics at NetApp, discusses the transformative power of AI in healthcare"
+    publishedDateTime: 2023-04-14T08:37:00Z
+    webUrl: "https://www.openaccessgovernment.org/ai-in-healthcare-automation-patient-therapy/157500/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 54
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/04/Kirsty_Biddiscombe_HeadShoulder.png"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Adapting artificial intelligence for use in the classroom"
     excerpt: "CEDAR FALLS, Iowa (KWWL) – It’s been the talk of the tech community for quite some time and it’s starting to make it’s way into the mainstream workflow: artificial intelligence. Programs like ChatGPT and Google AI are making it much easier to ..."
     publishedDateTime: 2023-04-14T03:58:00Z

@@ -34,6 +34,20 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 64
+  - title: "The transformative power of AI in healthcare"
+    excerpt: "Kirsty Biddiscombe, UK Head for AI, ML & Analytics at NetApp, discusses the transformative power of AI in healthcare"
+    publishedDateTime: 2023-04-14T08:37:00Z
+    webUrl: "https://www.openaccessgovernment.org/ai-in-healthcare-automation-patient-therapy/157500/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 54
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/04/Kirsty_Biddiscombe_HeadShoulder.png"
+        width: 400
+        height: 400
+        isCached: true
   - title: "New AI tool helping the blind"
     excerpt: "Be My Eyes app is testing ChatGPT, an artificial intelligence chatbot, to analyze images and explain them to users"
     publishedDateTime: 2023-04-12T11:53:00Z

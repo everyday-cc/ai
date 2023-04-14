@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/mind-your-language-risks-using-ai-powered
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/mind-your-language-risks-using-ai-powered-chatbots-chatgpt/amp/"
 type: article
 quality: 77
-heat: 188
+heat: 198
 published: true
 
 provider:
@@ -139,6 +139,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 19
+  - title: "Is ChatGPT Worthy of All the Hype?"
+    excerpt: "OpenAi’s ChatGPT, the new kid on the AI block, has attracted much attention since its introduction in November. Using the large language model, the technology produces intelligent and informed text in response to prompts,"
+    publishedDateTime: 2023-04-14T09:19:00Z
+    webUrl: "https://internationalbanker.com/technology/is-chatgpt-worthy-of-all-the-hype/"
+    type: article
+    provider:
+      name: International Banker
+      domain: internationalbanker.com
+    quality: 4
 
 secured: "JskbP+fSZ7t6Y2CfHHLAU+eKgx9rZ3fvw0Yiy3ORg3wo38urQFVq9Qw/KIR7QyWvRVPV7WqyHmemFJJGVEroK578Mrg8LY42EU2odsx2wH6+3wwxDtREowy7QhOazangMQUjye0b1uueneosy8fHDIhARVjkA8d5/FEpfzxctsHml10JfnU/FkMlctHmMhtSt42XcBAUZrlvduwTimCUUD+lqWaro48ZTedwnwa2O9Aq2D+rFzYXE9+MzOtq2Mi0U0k3wfcJqfQIcS6CX5ZJLut/Zq3wqO3Nqa6oeo+od3ccA54hGauz/uL8g7p/GeykyhsbRgUjPg2XUzuQE2VeVEbAABpdcpZlb47ZNv1EVoX3Wyr5/ugqlqKMIvbbL7DkuM0RHEPII/Sosnc66wx9Xk7UW01ZHOE3XWQxDwHXRyPhP2jrNMftKvNQ+0DSdoybtUuKfR1XYUwHtLMrtvCL5kCJ38TpCV6/uItqPnGzm8+GhphlD10JFkP1TOyLgafXH70UqNq8F2KVsAguVddGbQ==;OwPX3Q493p9oMrJVW93RZQ=="
 ---

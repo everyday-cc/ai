@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mobile Artificial Intelligence (AI) Market Size, Share, Growth Report, Analysis, Forecast by 2030"
+    excerpt: "The authors of the report have segmented the global Mobile Artificial Intelligence (AI) market as per vendor list, product, application, and region. Segments of the global Mobile Artificial Intelligence (AI) market are analyzed on the basis of market share,"
+    publishedDateTime: 2023-04-14T08:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-ai-market-size-share-growth-report-analysis-forecast-by-2030-2023-04-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Computer Vision Market Size Projection by 2030"
     excerpt: "Apr (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The AI in Computer Vision Market report"
     publishedDateTime: 2023-04-12T09:38:00Z
@@ -82,6 +96,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+  - title: "AI Chip Market Forecast With Trends, Challenges & Drivers And Key Players Till 2030"
+    excerpt: "Research Nester published a report titled “AI Chip Market: Global Demand Analysis & Opportunity Outlook 2030” which delivers detailed overview of theglobalAI chip market in terms of market ..."
+    publishedDateTime: 2023-04-10T10:50:00Z
+    webUrl: "https://menafn.com/1105971707/AI-Chip-Market-Forecast-With-Trends-Challenges-Drivers-And-Key-Players-Till-2030"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 48
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?189758"
+        width: 374
+        height: 250
+        isCached: true
   - title: "Artificial Intelligence In Security Market 2023 Highlights, Recent Trends, Market Growth And Opportunities"
     excerpt: "Additionally, this report evaluates technological advances made by leading players in the market and provides information on the key trends, advancements, and strategies employed by these leading companies."
     publishedDateTime: 2023-04-13T06:55:00Z

@@ -139,6 +139,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 19
+  - title: "Is ChatGPT Worthy of All the Hype?"
+    excerpt: "OpenAi’s ChatGPT, the new kid on the AI block, has attracted much attention since its introduction in November. Using the large language model, the technology produces intelligent and informed text in response to prompts,"
+    publishedDateTime: 2023-04-14T09:19:00Z
+    webUrl: "https://internationalbanker.com/technology/is-chatgpt-worthy-of-all-the-hype/"
+    type: article
+    provider:
+      name: International Banker
+      domain: internationalbanker.com
+    quality: 4
 
 secured: "W9e2xVqYyWpCGXsu//otR+hnnu0wZ3prsTieRbtOt5z/YDWijs4XJnh6cime5PDXDRdJawqX8hYo3h0pD9wySWYIWcXCVdIbWCnjCZbSlxVNmoe/NnPFnfa5D0MM4foWzPuHLDfvUe4uKfPsN+6pfKq6DgRSwWTWeVJYRdDVeCtKv3C0F3XRaJvXvSzCR2iRNuOgPGlOWMc+jI1KteQPZ+tgNpLyWhb+09eMFTbhdJG3TPdiUOh6SsbIzkq9aET717GbbZC1cuqyruLF5vrnYxZFk02uSD0Jgi3qTcw38tS+82Dj1jFoCFotY7YmTQ/qkCvLl4W5C4gjFUYuRTVXvI6iUPOInsKhcPfDwMz8SG5TK1H/IEy6N9VJkPCAYbVjbwVxZuNO8v420XqjqVKIonn38bOauHEG26DAjEcbxyS75dMLRacY7OkQku5nNtRLEUZPQ462RAkslIuBDTc3WEXLK96jUydzp1Ow3KJkt4BCTOWfc7UKVae68PrTfaa1CQsceHBoFHbIDRcdrnCF/w==;9cp67Ti8YqOliedNjW0lLA=="
 ---

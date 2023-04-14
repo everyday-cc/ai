@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-19-torontos-ontario-line-will-run-new-electric-driverless-trains-heres-what-theyll-look-like.md",
+      "title": "Toronto’s Ontario Line will run new electric, driverless trains. Here’s what they’ll look like",
+      "excerpt": "GFG Rail, which is designing the subway’s rolling stock, has revealed renderings for the new electric fleet, which, once operational, will run through downtown Toronto, connecting Exhibition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com/news/gta/2023/03/15/torontos-new-ontario-line-will-run-new-electric-driverless-trains-heres-what-theyll-look-like.html",
+      "originalUrl": "https://www.thestar.com/news/gta/2023/03/15/torontos-new-ontario-line-will-run-new-electric-driverless-trains-heres-what-theyll-look-like.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestar.com/content/dam/thestar/news/gta/2023/03/25/hydro-one-responding-to-around-southern-ontario-power-outage/hydro_one.jpg.size.custom.crop.640x360.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestar.com/amp/news/gta/2023/03/15/torontos-new-ontario-line-will-run-new-electric-driverless-trains-heres-what-theyll-look-like.html",
+      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2023/03/15/torontos-new-ontario-line-will-run-new-electric-driverless-trains-heres-what-theyll-look-like.html",
+      "publishedDateTime": "2023-03-19T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Toronto Star",
+        "domain": "thestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-19-self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores.md",
       "title": "Self-driving trucks to deliver robot-fulfilled grocery orders to Kroger stores",
       "excerpt": "California-based Gatik is pitching its autonomous vehicle deliveries as a way for retailers to cut costs and save time in their constant effort to be in stock by using frequent deliveries from small self-driving trucks instead of big semitrailers.",
@@ -1332,49 +1375,6 @@
       "provider": {
         "name": "WKBN 27 First News",
         "domain": "wkbn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-you-have-no-idea-what-artificial-intelligence-really-does.md",
-      "title": "You Have No Idea What Artificial Intelligence Really Does",
-      "excerpt": "Here it was, finally — a robot plucked straight out of science fiction, the closest thing to true artificial intelligence ... those being developed for self-driving cars, do all their learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/artificial-intelligence-hype",
-      "originalUrl": "https://futurism.com/artificial-intelligence-hype",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2018/10/artificial-intelligence-hype-deception.png",
-          "width": 2400,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T01:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
         "images": null,
         "publishers": null,
         "authors": null

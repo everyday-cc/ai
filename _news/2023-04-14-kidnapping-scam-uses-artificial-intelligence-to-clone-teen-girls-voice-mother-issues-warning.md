@@ -2,17 +2,17 @@
 category: news
 title: "Kidnapping scam uses artificial intelligence to clone teen girl's voice, mother issues warning"
 excerpt: "There is a new scam using artificial intelligence to clone voices. Arizona mother Jennifer DeStefano shared her story of a kidnapping hoax that sounded all too real. Jennifer said when she recently received a call from an unknown number,"
-publishedDateTime: 2023-04-13T19:35:00Z
-originalUrl: "https://abc30.com/ai-voice-generator-artificial-intelligence-kidnapping-scam-detector/13122645/"
-webUrl: "https://abc30.com/ai-voice-generator-artificial-intelligence-kidnapping-scam-detector/13122645/"
+publishedDateTime: 2023-04-13T19:53:00Z
+originalUrl: "https://6abc.com/ai-voice-generator-artificial-intelligence-kidnapping-scam-detector/13122645/"
+webUrl: "https://6abc.com/ai-voice-generator-artificial-intelligence-kidnapping-scam-detector/13122645/"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: ABC30 Action News
-  domain: abc30.com
+  name: 6abc News
+  domain: 6abc.com
 
 topics:
   - AI
@@ -56,7 +56,21 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Another A.I. phone scam- A.I. Clones Girls’s Voice in $1M kidnapping scam."
+    excerpt: "Jennifer DeStefano faced a phone call scam, she was told that her daughter had been kidnapped and the scammers demanded $1 million if she wanted her daughter safe. Scammers used A.I. to clone her daughters voice and tricked her."
+    publishedDateTime: 2023-04-14T08:55:00Z
+    webUrl: "https://techstory.in/another-a-i-phone-scam-a-i-clones-girlss-voice-in-1m-kidnapping-scam/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 22
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/04/ai-image-scaled.jpg"
+        width: 2560
+        height: 2263
+        isCached: true
 
-secured: "I+pWFiC3O/hul75JwDM847TCppI0L4yy2JPWnYibfYwMmwWHRDecynbcJ4FIftohgIZII4yyotnUx2MFuLugxCatzN0KRHs+5BSTPIRxb7RjE/oWHzDjvPga6xDtLcRb+ugpnh8E9jjKASLj1IrbgQsQbFOnrwkveQ8t7D5p3RJVZvw2GZTKMJmyAi0/YG4o1fnyRLV/Uzm1pkisHEtiQnji8HdiGryi1BLpNfqT6aG10nuOOQ/PkAuAtmWHS5PiILqs+eaSr+nW5hOeeu+hmMZxe36gVM/ZeoV7afZMTSOnhBztgmT6VVV2/0IUnQNcg/A5KPYHfYtaPG9RO2XWARNG1poaUiv03NigHwI5BuM=;QVyN+MSu4PQF86NqeeK3+g=="
+secured: "sRcp41vN1hZuul6Cx4NwYdwUaTbQi2w3MWqxXWkDhnZuPqaxHlfMIVjnUx9sHgpqlghnbTH0JRUy69nS3WQ/zSH3Ib7HnCzXa9oU+C4zoRbweJSlSRCnReWENrmJm8/Nr40FVMnVunZ5S0aBKnPlnHW+ETaI8HyBjoI1GcpW8S8yCNiprkHQAGlfEiN06xYOEqhk8he7xLJElkkftRbO2jGNxc3DghL87a/UZV4ky1z7m39Yo1WhtPh+hDKxamAGOTE1W4Kmvm8V+FSRcFdt30NO6gmRGO2v/2DfZw/L1KUNfu3/f7Dzww9oM3VFuMvKzuBv3KqXwq5tPdd/WDa1Kzeyma5eW6hlgua24lbh7wY=;+Klbl9e2uIuMN1FMo/IFrg=="
 ---
 

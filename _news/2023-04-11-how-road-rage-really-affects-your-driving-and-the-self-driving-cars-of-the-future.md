@@ -24,14 +24,19 @@ topics:
 
 related:
   - title: "When Will Cars Be Fully Self-Driving?"
-    excerpt: "The technology isn’t anywhere near where it needs to be to replace human drivers. Three experts weigh in on what the future holds for autonomous vehicles."
-    publishedDateTime: 2023-04-10T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/cars-self-driving-when-c6ae4fdc"
+    excerpt: "Around now, we should be relaxing in the driver’s seat of our autonomous cars, streaming a TV show or perhaps even taking a nap while the vehicles drive us safely to our destinations. That was ..."
+    publishedDateTime: 2023-04-10T13:04:00Z
+    webUrl: "https://www.wsj.com/articles/cars-self-driving-when-c6ae4fdc?mod=hp_lista_pos1"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 34
+    quality: 54
+    images:
+      - url: "https://images.wsj.net/im-753736/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "KIYC: Is technology ready for self-driving cars? Some drivers have doubts"
     excerpt: "Americans are killed in car accidents and the car industry says self-driving vehicles will eventually make the roads safer."
     publishedDateTime: 2023-04-13T14:00:00Z

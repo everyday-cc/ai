@@ -2,6 +2,102 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2023-03-19-microsoft-and-baidu-team-up-to-boost-development-of-self-driving-car-technologies.md",
+      "title": "Microsoft and Baidu team up to boost development of self-driving car technologies",
+      "excerpt": "Microsoft and Chinese search giant Baidu have announced a new partnership ... to help bring safe self-driving vehicles to market more quickly. According to research from McKinsey, up to 15% ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-and-baidu-team-up-to-boost-development-of-self-driving-car-technologies/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-and-baidu-team-up-to-boost-development-of-self-driving-car-technologies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2017/07/1500392516_microsoft-baidu-cars_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-and-baidu-team-up-to-boost-development-of-self-driving-car-technologies/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-baidu-team-up-to-boost-development-of-self-driving-car-technologies/",
+      "publishedDateTime": "2023-03-18T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-19-cognitive-dissonance-and-mental-gymnastics.md",
+      "title": "Cognitive dissonance and mental gymnastics",
+      "excerpt": "And that's the dissonance. Sana Qadar: But cognitive dissonance doesn't just arise when we do something bad. It takes a certain amount of dissonance to get yourself off to the gym when you'd ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.abc.net.au/radionational/programs/allinthemind/cognitive-dissonance-mental-gymnastics/102057908",
+      "originalUrl": "https://www.abc.net.au/radionational/programs/allinthemind/cognitive-dissonance-mental-gymnastics/102057908",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://live-production.wcms.abc-cdn.net.au/8352f7fdf25d04acde4c44d21872c3c8?impolicy=wcms_crop_resize&cropH=2755&cropW=4897&xPos=0&yPos=337&width=862&height=485",
+          "width": 862,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-18T15:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Australian Broadcasting Corporation",
+        "domain": "abc.net.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-19-techcrunch-roundup-7-vcs-who-are-taking-pitches-ai-best-practices-zero-based-budgeting.md",
       "title": "TechCrunch+ roundup: 7 VCs who are taking pitches, AI best practices, zero-based budgeting",
       "excerpt": "With SVB’s contagion contained, the VC community seems open to writing smallish checks for pre-revenue startups.",
@@ -1099,109 +1195,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-your-next-negotiating-partner-artificial-intelligence.md",
-      "title": "Your Next Negotiating Partner: Artificial Intelligence",
-      "excerpt": "Now, it appears that chatbots, powered by artificial intelligence, may be entering mainstream usage. The question is, can they recognize a good deal when they see one? Perhaps not. But for people on the front lines of negotiation, AI-powered chatbots may ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/03/17/your-next-negotiating-partner-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/03/17/your-next-negotiating-partner-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64148cdad249225dc8ac663b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 754,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/03/17/your-next-negotiating-partner-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/03/17/your-next-negotiating-partner-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-03-17T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-nvidias-stock-upgraded-as-ai-deemed-too-much-of-a-megatrend-to-ignore.md",
-      "title": "Nvidia’s stock upgraded as AI deemed ‘too much of a megatrend’ to ignore",
-      "excerpt": "Read: As chip sales dry up, Nvidia CFO says spending on AI will save companies money Moore was previously on the sidelines on Nvidia because he worried about data-center and gaming trends. That dynamic has “largely played out,” he wrote Thursday ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/nvidias-stock-upgraded-as-ai-deemed-too-much-of-a-megatrend-to-ignore-913e6130",
-      "originalUrl": "https://www.marketwatch.com/story/nvidias-stock-upgraded-as-ai-deemed-too-much-of-a-megatrend-to-ignore-913e6130",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-701752/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidias-stock-upgraded-as-ai-deemed-too-much-of-a-megatrend-to-ignore-913e6130",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidias-stock-upgraded-as-ai-deemed-too-much-of-a-megatrend-to-ignore-913e6130",
-      "publishedDateTime": "2023-03-17T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }
