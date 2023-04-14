@@ -2,7 +2,7 @@
 name: "BeaconCure"
 overview: "Beaconcure developed an automated solution supported by ML for clinical data validation. It is designed to support regulatory submissions in drug development"
 type: "profile"
-heat: 57
+heat: 49
 
 website: https://www.beaconcure.com/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "beaconcure"
   url: "https://www.twitter.com/beaconcure"
-  followers: 15
+  followers: 14
 
 locations:
   - Tel Aviv-Yafo, Israel
@@ -31,6 +31,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=kag2mOw2Tj0"
 
-secured: "0MUPrgi9a3lMmrCwqJeV+8Y6fBMxQJj8dwpb6dGE1OeIQFZLmXoz5MEgRmJybQrHI8+TVInKz2J/VWKaej9QACGlQpQI5bELQ4jM/31n8AUwi+GToeeg3KLufHBptGz7NfqsJgHL8YyuBZxiXpeyFUrJ5/HvI9EjUVqBjT7Tb3rHXtJvGDMKP/qtW4cXFck2lXKP2JhwbG2LDBdboe0PUiSzPBJthLbTadtNYFUVponhsyS1YBSMvJk+VQVpI7p2tIn1e1RrN8DhWRDoEJKOLz9p56Hm4HthQlYWTfctGctkmozk2jEMTc11ziRWGC3M9T/xK13HDl80hiMDOg5ZFaNz+7wZSx4xbK6GXVHz+qncmedpz63VrJR28UntNqDBXzxyHtx7IPQB162G0i0NbQ==;1WthgoajhxVQmhFmenJYFA=="
+secured: "mZyjB2ytO8AREbfRClzFgBY8+APNOqhZ3Lqt22712v27x4wI6j0Miabr8tTNxvMFFcyQrDJvQzTXEYOW4FP1f9ymh8o6Sbe9dNMCpwbfVVSbjC46Gs9+27tah5+JQbYhydscIPfo1ooHMR52TF7wdfmh3VZMrZxzEbjOPpxzwABzQjmCdSl3EGXgOA8bvoHZ6spCz2buZWAVih0zyOkuqUz2pXFPyM12QUKWLg2c3UW98wUP6fpPcNB+Vfabt+sYwXN6vuTgNPqkMPWTxUW4mSN6DuCH4omNCgvaCWKTmg2whEKUo2jnVorjwPJJ7XDthste0agpkRKB4YhviSI+SGuhRiUSxKppOo1tyehxlaOseT0iuGLJz0uC5Q8oj3hd4wnk2qgGBzZE+sz3TK5lMQ==;ioIn6lj9bN1svY630M1QFA=="
 ---
 
