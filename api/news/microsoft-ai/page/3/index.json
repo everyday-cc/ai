@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-16-after-year-of-downsizing-datarobot-unveils-new-ai-platform.md",
+      "title": "After year of downsizing, DataRobot unveils new AI platform",
+      "excerpt": "With the latest release, DataRobot AI Platform Single-Tenant SaaS is now available on AWS, Google Cloud, and Microsoft Azure. For on-premises and private cloud customers, DataRobot now supports Red Hat OpenShift for faster installations and deployments ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/",
+      "originalUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-27.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/amp/",
+      "publishedDateTime": "2023-03-16T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-goldman-sachs-loves-snowflake-as-it-inks-25-billion-aws-deal.md",
       "title": "Goldman Sachs ‘Loves’ Snowflake As It Inks $2.5 Billion AWS Deal",
       "excerpt": "We will build an artificial intelligence/machine learning layer on top of the Legend Platform. We love Snowflake and how it is integrated into the Legend Platform,.” Earlier this month, Snowflake SNOW announced it would spend $2.5 billion on the AWS ...",
@@ -1388,50 +1441,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-cognitive-behavioral-therapy-offered-to-help-curb-violence.md",
-      "title": "Cognitive behavioral therapy offered to help curb violence",
-      "excerpt": "(WSMV) - Dozens of non-profit leaders, first responders, and community members are receiving cognitive behavioral ... families through three tiers of services, education and empowerment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsmv.com/2023/03/09/cognitive-behavioral-therapy-offered-help-curb-violence/",
-      "originalUrl": "https://www.wsmv.com/2023/03/09/cognitive-behavioral-therapy-offered-help-curb-violence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wsmv-prod.cdn.arcpublishing.com/resizer/66EcQG1MB4mtWHETmUk4f1b3ugw=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/TSX6HJ3LBFDQJMMT2CPKINO2AY.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsmv.com/2023/03/09/cognitive-behavioral-therapy-offered-help-curb-violence/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wsmv-com.cdn.ampproject.org/c/s/www.wsmv.com/2023/03/09/cognitive-behavioral-therapy-offered-help-curb-violence/?outputType=amp",
-      "publishedDateTime": "2023-03-09T06:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSMV",
-        "domain": "wsmv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

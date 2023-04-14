@@ -2,6 +2,202 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-13-natural-language-processing-nlp-market-2023-2029global-report-forecast.md",
+      "title": "Natural Language Processing (NLP) Market 2023-2029|Global Report Forecast",
+      "excerpt": "Natural Language Processing (NLP) Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-2029global-report-forecast-2023-04-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-2029global-report-forecast-2023-04-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-putin-and-xi-seek-to-weaponize-artificial-intelligence-against-america.md",
+      "title": "Putin and Xi seek to weaponize Artificial Intelligence against America",
+      "excerpt": "Russia's Putin and China's Xi seek to weaponize artificial intelligence against America and dominate the world as the Biden administration ponders hitting the brakes on AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america",
+      "originalUrl": "https://www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/39b9bfbe-9556-462f-bf6a-a645426e701e/4af56975-0b7e-4a1d-9d54-31a23a484ae7/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america.amp",
+      "publishedDateTime": "2023-04-13T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-artificial-intelligence-market-in-2023unlocking-promising-opportunities-by-2030.md",
+      "title": "Artificial Intelligence Market in 2023|Unlocking Promising Opportunities by 2030",
+      "excerpt": "Apr 13, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry. This report conducts a",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-in-2023unlocking-promising-opportunities-by-2030-2023-04-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-in-2023unlocking-promising-opportunities-by-2030-2023-04-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-5-takeaways-from-the-early-days-of-ibm-partner-plus.md",
+      "title": "5 takeaways from the early days of IBM Partner Plus",
+      "excerpt": "The past three months have been transformative for the IBM Ecosystem. Our investment in the ecosystem is deeper than ever before, and momentum is accelerating across all partner types as they continue to scale and innovate. This demonstrates their commitment to clients, deep expertise and hunger to collaborate",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/partner-plus-takeaways/",
+      "originalUrl": "https://www.ibm.com/blog/partner-plus-takeaways/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-13-how-to-build-a-decision-tree-model-in-ibm-db2.md",
       "title": "How to build a decision tree model in IBM Db2",
       "excerpt": "After developing a machine learning model, you need a place to run your model and serve predictions. Here is how I build such a model in IBM Db2.\nThe post How to build a decision tree model in IBM Db2 appeared first on IBM Blog.\n",
@@ -41,6 +237,58 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-can-ai-answer-your-money-questions-we-put-chatbots-to-the-test.md",
+      "title": "Can AI answer your money questions? We put chatbots to the test",
+      "excerpt": "Face it, we could all use a little help with our money. So who better to ask for personal finance advice than a couple of the most powerful chatbots on the planet?",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/markets/wealth/can-ai-answer-your-money-questions-we-put-chatbots-test-2023-04-13/",
+      "originalUrl": "https://www.reuters.com/markets/wealth/can-ai-answer-your-money-questions-we-put-chatbots-test-2023-04-13/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/jNVRinp2T_SXac_4KvfiD0LjfVA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5MBSSC3XD5ORJMYHLNP4RJMSVI.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T05:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -134,6 +382,58 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-self-driving-vehicles-market-future-investments-and-forecast-till-2028.md",
+      "title": "Self-driving Vehicles Market Future Investments and Forecast Till 2028",
+      "excerpt": "The research report on the Self-driving Vehicles Market presents an efficient industry perspective, future patterns,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-vehicles-market-future-investments-and-forecast-till-2028-2023-04-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-vehicles-market-future-investments-and-forecast-till-2028-2023-04-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -419,7 +719,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-is-booming-worldwide-throughout-2023-2030-2023-04-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -764,49 +1064,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-11-boost-your-data-and-ai-skills-with-microsoft-azure-clx.md",
-      "title": "Boost your data and AI skills with Microsoft Azure CLX",
-      "excerpt": "We’re excited to announce that the Microsoft Azure Connected Learning Experience (CLX) program now has three new Data and AI tracks designed for data professionals.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/boost-your-data-and-ai-skills-with-microsoft-azure-clx/",
-      "originalUrl": "https://azure.microsoft.com/blog/boost-your-data-and-ai-skills-with-microsoft-azure-clx/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 259,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T01:00:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-11-how-robots-and-ai-are-transforming-the-surgery-room.md",
       "title": "How Robots and AI Are Transforming the Surgery Room",
       "excerpt": "Robotic devices and artificial intelligence are being increasingly incorporated into healthcare institutions across the world: What the future may hold for this critical sector.",
@@ -858,7 +1115,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/04/10/artificial-intelligence-in-space-the-amazing-ways-machine-learning-is-helping-to-unravel-the-mysteries-of-the-universe/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -900,204 +1157,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-10-coach-soch-ai-and-ethics-heres-why-the-policy-makers-should-worry-about-it.md",
-      "title": "Coach Soch: AI and ethics — here's why the policy makers should worry about it",
-      "excerpt": "Regulating artificial intelligence (AI) presents a unique challenge for regulators due to the complexity of the technology and its potential impact on society. The pace of AI innovation and commercialisation is so rapid,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbctv18.com/views/coach-soch-ai-and-ethics--heres-why-the-policy-makers-should-worry-about-it-16363791.htm",
-      "originalUrl": "https://www.cnbctv18.com/views/coach-soch-ai-and-ethics--heres-why-the-policy-makers-should-worry-about-it-16363791.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cnbctv18.com/wp-content/uploads/2021/09/artificial-intelligence-1019x573.jpg",
-          "width": 1019,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbctv18.com/views/coach-soch-ai-and-ethics--heres-why-the-policy-makers-should-worry-about-it-16363791.htm/amp",
-      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/views/coach-soch-ai-and-ethics--heres-why-the-policy-makers-should-worry-about-it-16363791.htm/amp",
-      "publishedDateTime": "2023-04-09T20:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnbctv18",
-        "domain": "cnbctv18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-10-gpu-for-deep-learning-market-2023-size-and-forecast-to-2031.md",
-      "title": "GPU for Deep Learning Market 2023 Size and Forecast to 2031",
-      "excerpt": "GPU for Deep Learning Marketinformation for each competitor includes (Amazon, Microsoft, Google, Fancy Startup, Intel,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-2023-size-and-forecast-to-2031-2023-04-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-2023-size-and-forecast-to-2031-2023-04-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-09T18:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-04-09-all-about-eyes-computer-vision-syndrome.md",
-      "title": "All About Eyes: Computer Vision Syndrome",
-      "excerpt": "One of the hallmarks of life in the 21st century is how completely surrounded and dependent we have become on technology. It’s rare to find someone that doesn’t have a",
-      "sourceUrl": null,
-      "webUrl": "https://qctimes.com/news/local/all-about-eyes-computer-vision-syndrome/article_e0937b51-a9da-5e6d-b26a-2aee5bc4479d.html",
-      "originalUrl": "https://qctimes.com/news/local/all-about-eyes-computer-vision-syndrome/article_e0937b51-a9da-5e6d-b26a-2aee5bc4479d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-09T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quad-City Times",
-        "domain": "qctimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-09-interview-investment-expert-colin-clark-on-his-move-into-ai-harnessing-fintech.md",
-      "title": "Interview: investment expert Colin Clark on his move into AI-harnessing fintech",
-      "excerpt": "The executive was in fact in October last year named chairman of the newly formed board of Edinburgh-based artificial intelligence (AI) fintech business Aveni, which specialises in natural ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scotsman.com/business/interview-investment-expert-colin-clark-on-his-move-into-ai-harnessing-fintech-4090978",
-      "originalUrl": "https://www.scotsman.com/business/interview-investment-expert-colin-clark-on-his-move-into-ai-harnessing-fintech-4090978",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-09T00:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Scotsman",
-        "domain": "scotsman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-09-build-your-own-selfie-drone-with-computer-vision.md",
-      "title": "Build Your Own Selfie Drone With Computer Vision",
-      "excerpt": "Yes, all the processing for the selfie drone happens on a non-flying computer, because computer vision takes processing power and battery life. The software comes from CMU’s OpenPose library ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/06/30/build-your-own-selfie-drone-with-computer-vision/",
-      "originalUrl": "https://hackaday.com/2019/06/30/build-your-own-selfie-drone-with-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/06/Telloheader.png",
-          "width": 800,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

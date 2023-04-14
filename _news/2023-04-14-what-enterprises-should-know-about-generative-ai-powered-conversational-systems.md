@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/14/what-enter
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/14/what-enterprises-should-know-about-generative-ai-powered-conversational-systems/amp/"
 type: article
 quality: 85
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
+    quality: 49
+  - title: "The mounting human and environmental costs of generative AI"
+    excerpt: "Downsides include the environmental toll of mining rare minerals, the human costs of the labor-intensive process of data annotation, and the escalating financial investment required to train AI models as they incorporate more parameters."
+    publishedDateTime: 2023-04-12T11:00:00Z
+    webUrl: "https://arstechnica.com/gadgets/2023/04/generative-ai-is-cool-but-lets-not-forget-its-human-and-environmental-costs/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
     quality: 49
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."

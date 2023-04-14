@@ -2,6 +2,118 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-03-artificial-intelligence-in-the-transportation-market-scenario-gross-margin-regional-demand-and-forecast-to-2031.md",
+      "title": "Artificial Intelligence in the Transportation Market Scenario, Gross Margin, Regional Demand and Forecast to 2031",
+      "excerpt": "The global artificial intelligence in the transportation market size was US$ 1.45 billion in 2020. The global artificial intelligence in the transportation market is forecast to reach the value of US$ 17.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-transportation-market-scenario-gross-margin-regional-demand-and-forecast-to-2031-2023-04-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-transportation-market-scenario-gross-margin-regional-demand-and-forecast-to-2031-2023-04-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-03-a-brief-history-of-artificial-intelligence.md",
+      "title": "A brief history of artificial intelligence",
+      "excerpt": "Explore the history of artificial intelligence, from Alan Turing's Turing Test to the latest breakthroughs in machine learning and natural language processing.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/a-brief-history-of-artificial-intelligence",
+      "originalUrl": "https://cointelegraph.com/news/a-brief-history-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-02T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-02-a-brief-history-of-artificial-intelligence.md",
+      "title": "A brief history of artificial intelligence",
+      "excerpt": "Multiple factors have driven the development of artificial intelligence (AI) over the years. The ability to swiftly and effectively collect and analyze enormous amounts of data has been made ...",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/a-brief-history-of-artificial-intelligence",
+      "originalUrl": "https://cointelegraph.com/news/a-brief-history-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-04-01-waymo-brings-its-fleet-of-new-self-driving-suvs-to-austin.md",
       "title": "Waymo brings its fleet of new self-driving SUVs to Austin",
       "excerpt": "Waymo is bringing a fleet of driverless cars to Austin, Texas as a test of its new fifth-generation automated driving system. The vehicles will be tested all over the city, including downtown, the Capitol,",
@@ -1242,144 +1354,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-teslas-self-driving-ambitions-are-further-and-further-away.md",
-      "title": "Tesla’s Self-Driving Ambitions Are Further and Further Away",
-      "excerpt": "After announcing his ambitions to have millions of self-driving Teslas on the ... the tech as “the more data (in this case driving) the artificial intelligence guiding the car is exposed to ...",
-      "sourceUrl": null,
-      "webUrl": "https://jalopnik.com/tesla-s-self-driving-ambitions-are-further-and-further-1850245462",
-      "originalUrl": "https://jalopnik.com/tesla-s-self-driving-ambitions-are-further-and-further-1850245462",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/11b44f8929b7238c7c7add384e26a2f8.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jalopnik",
-        "domain": "jalopnik.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-cruise-wants-to-test-self-driving-cars-all-over-california.md",
-      "title": "Cruise wants to test self-driving cars all over California",
-      "excerpt": "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/",
-      "originalUrl": "https://www.cbsnews.com/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/21/e1471390-7c0a-4509-a92e-4b502f299e14/thumbnail/1200x630/df5a2ef88b525bb1e94fc02d6fe0e736/ap23079861951135.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/",
-      "publishedDateTime": "2023-03-21T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-the-state-of-self-driving-cars-autonomous-advances.md",
-      "title": "The State of Self-Driving Cars: Autonomous Advances",
-      "excerpt": "Significant advances have been made in the technology that powers self-driving cars in the last decade, but there's still further to go. We dive into the",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/article/2644-the-state-of-self-driving-cars/",
-      "originalUrl": "https://www.techspot.com/article/2644-the-state-of-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/articles-info/2644/images/2023-03-18-image.jpg",
-          "width": 4000,
-          "height": 2666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-20T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

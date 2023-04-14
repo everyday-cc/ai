@@ -23,24 +23,29 @@ topics:
   - AI
 
 related:
-  - title: "GPU for Deep Learning Market 2023 Size and Forecast to 2031"
-    excerpt: "GPU for Deep Learning Marketinformation for each competitor includes (Amazon, Microsoft, Google, Fancy Startup, Intel,"
-    publishedDateTime: 2023-04-10T01:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-2023-size-and-forecast-to-2031-2023-04-09"
+  - title: "Global Artificial Intelligence in Marketing Market Size [2023-2030] | Share, Growth, Recent Trends, Development"
+    excerpt: "Global “Artificial Intelligence in Marketing Market” (2023-2030) research report is an expert examination on the"
+    publishedDateTime: 2023-04-14T09:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-marketing-market-size-2023-2030-share-growth-recent-trends-development-2023-04-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
-  - title: "Machine Learning-as-a-Service (MLaaS) Market Forecasts 2023-2029"
-    excerpt: "There are many different sources of market data, including government statistics, industry reports, financial news, and market research firms. Some of the key types of data that are available from the global Machine Learning-as-a-Service (MLaaS ..."
-    publishedDateTime: 2023-04-10T09:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-forecasts-2023-2029-2023-04-09"
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Very Edge AI Chipset Market 2023-2030 Industry Overview and Ongoing Opportunity"
+    excerpt: "The Very Edge AI Chipset Market (2023-2030) Updated Latest Research Report is divided into various types [GPU, ASIC,"
+    publishedDateTime: 2023-04-13T09:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/very-edge-ai-chipset-market-2023-2030-industry-overview-and-ongoing-opportunity-2023-04-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 60
   - title: "Artificial Intelligence in Computer Networks Market | Industry Size Forecast To 2030"
     excerpt: "The latest market research report on the Global \"Artificial Intelligence in Computer Networks Market\" is segmented"
     publishedDateTime: 2023-04-13T21:15:00Z
@@ -55,52 +60,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving Vehicles Market Future Investments and Forecast Till 2028"
-    excerpt: "The research report on the Self-driving Vehicles Market presents an efficient industry perspective, future patterns,"
-    publishedDateTime: 2023-04-13T10:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market-future-investments-and-forecast-till-2028-2023-04-13"
+  - title: "Artificial Intelligence In Security Market 2023 Highlights, Recent Trends, Market Growth And Opportunities"
+    excerpt: "Additionally, this report evaluates technological advances made by leading players in the market and provides information on the key trends, advancements, and strategies employed by these leading companies."
+    publishedDateTime: 2023-04-13T06:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-2023-highlights-recent-trends-market-growth-and-opportunities-2023-04-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-Driving Car Market Forecasted from 2023-2031"
-    excerpt: "The \" Self-Driving Car Market \"Study offers comprehensive information and statistics on markets in the current"
-    publishedDateTime: 2023-04-14T01:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-forecasted-from-2023-2031-2023-04-13"
+    quality: 48
+  - title: "Global Artificial Intelligence Robots Market Analysis by Size, Share, Key Drivers, Growth Opportunities and Global Trends 2030"
+    excerpt: "Sarasota, FL, The Artificial Intelligence Robots Market size and share revenue growth report, presents an analytical"
+    publishedDateTime: 2023-04-10T12:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-robots-market-analysis-by-size-share-key-drivers-growth-opportunities-and-global-trends-2030-2023-04-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech Recognition Market Key Players and Forecast till 2031"
-    excerpt: "The latest market research report on the Global \"Speech Recognition Market\" is segmented by Regions, Country, Company"
-    publishedDateTime: 2023-04-13T05:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-key-players-and-forecast-till-2031-2023-04-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-  - title: "Facial Recognition Market Analysis Future Outlook Forecast 2023 to 2031"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 14, 2023 (Alliance News via COMTEX) -- Facial recognition is a biometric technology which is used for authentication and identification of individuals, by comparing the ..."
-    publishedDateTime: 2023-04-14T13:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-analysis-future-outlook-forecast-2023-to-2031-2023-04-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+    quality: 36
   - title: "\"Data Science and Machine Learning Service Market\" Size 2023 Will Grow Rapidly Another Level in The Forthcoming Year 2030"
     excerpt: "Data Science and Machine Learning Service Market Size With forecast period 2023-2030 | New Report (102 Pages) |"
     publishedDateTime: 2023-04-12T06:50:00Z

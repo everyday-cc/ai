@@ -53,7 +53,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/14/what-enterprises-should-know-about-generative-ai-powered-conversational-systems/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -93,51 +93,6 @@
       ],
       "topics": [
         "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-reinventing-financial-services-with-next-gen-ai.md",
-      "title": "Reinventing financial services with next-gen AI",
-      "excerpt": "As part of a surging embrace of AI, financial services companies are joining others developing next-gen autonomous, cloud-based assistants.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/reinventing-financial-services-with-next-gen-ai/",
-      "originalUrl": "https://venturebeat.com/ai/reinventing-financial-services-with-next-gen-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI",
         "Natural Language Processing"
       ]
     },
@@ -194,6 +149,58 @@
       ]
     },
     {
+      "path": "_news/2023-04-13-can-ai-answer-your-money-questions-we-put-chatbots-to-the-test.md",
+      "title": "Can AI answer your money questions? We put chatbots to the test",
+      "excerpt": "Face it, we could all use a little help with our money. So who better to ask for personal finance advice than a couple of the most powerful chatbots on the planet?",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/markets/wealth/can-ai-answer-your-money-questions-we-put-chatbots-test-2023-04-13/",
+      "originalUrl": "https://www.reuters.com/markets/wealth/can-ai-answer-your-money-questions-we-put-chatbots-test-2023-04-13/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/jNVRinp2T_SXac_4KvfiD0LjfVA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5MBSSC3XD5ORJMYHLNP4RJMSVI.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T05:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-12-speech-and-voice-recognition-market-is-booming-worldwide-throughout-2023-2030.md",
       "title": "Speech and Voice Recognition Market is Booming Worldwide Throughout 2023-2030",
       "excerpt": "The Global Speech and Voice Recognition Market is Forecasted to Reach a Multimillion-Dollar Valuation by 2030, Exhibiting an Unexpected CAGR During the Forecast Period of 2023-2030, as Compared to Data from 2016 to 2022.",
@@ -202,7 +209,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-is-booming-worldwide-throughout-2023-2030-2023-04-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {

@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Amazon announces new customizable AI models for cloud customers"
+    excerpt: "Amazon’s cloud computing division on Thursday announced the release of a new service that will allow customers to access customizable artificial intelligence (AI ... Amazon Web Services (AWS), the world’s largest provider of cloud computing services ..."
+    publishedDateTime: 2023-04-13T23:20:00Z
+    webUrl: "https://www.foxbusiness.com/technology/amazon-announces-new-customizable-ai-models-cloud-customers"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 19
+
 secured: "knIMRfAvrS6bZrPGuxW4k2XfO4Of0sbE076LiWYig14GYDF5drBdrMxd4HfmoFZDowptZsxxhdB1ec9wiOv+Nx6Tfb38T9S0prIER7YHpDfz7rTe7uwWokndajhPCHqpO4YUFIK7XccqB73LkXApPLinUrvHUZWVrovM8ie2yC6ajaOL3eKRxlUKW7H2VnOqt2KAGzaiWNzzzpO4XxM8NUNo08ko/r5UAGSTo00VmeLsrYtz0fO7l9mF7sR0e5sb9PsJZ36TiT6PlQPFYtIuiUN6aMZbEccvF/rPahCdupX/WwV3R7Vh7iRrTteAPJfW5WMvsflx9nYSfc1hutLmaL5fATYJZwxyXREo2icrYKl2lsOQ2p6/y+JoF81NhXDn5iXLnxOKG4Fj1bsEsaVpyFJE0R2G1QuUWEIyIU783bLLGN9LTBiHvnJ/N/SIjyfdrfWllmGO2hmh6qZxr+/3gU8fBiofI1SFP6DjAiSQnYP46dOVidVgslKS5aerm3ueIiMStVXmNBtrH8omPqaMvg==;lR2ravN3TnzUbgu0KvG7wg=="
 ---
 

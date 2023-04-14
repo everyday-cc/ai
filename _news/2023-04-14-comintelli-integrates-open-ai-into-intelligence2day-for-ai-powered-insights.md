@@ -7,7 +7,7 @@ originalUrl: "https://www.cmswire.com/the-wire/comintelli-integrates-open-ai-int
 webUrl: "https://www.cmswire.com/the-wire/comintelli-integrates-open-ai-into-intelligence2day-for-ai-powered-insights/"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "We need a much more intelligent approach to the rise of AI"
+    excerpt: "Letters: Readers respond to Larry Elliott’s article about the impact of artificial intelligence on the workplace"
+    publishedDateTime: 2023-04-14T16:03:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/apr/14/we-need-a-much-more-intelligent-approach-to-the-rise-of-ai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
 
 secured: "WNMsko2Obsyuf4RyWN3py5VfBrMVGM9aS2UldZmuDMLONMABmi8s0kuSPAL6bxV+lZamh/BKlM1XlrTw/m/gU4QSIYLFr5zye1zQB6g8s8KLDNCO9M2kBeG0YN+lVUyRMTL/7bPZAXfc4xFVXUn4//GGrzA0i9Uuy47qn5eUS65mG9IStyz0QJTNbYGIaUK3gHbTKHMfU8adWWEmva0joc1UwO/i+wEWjpj6ix+BAIt1be4EMHLW1yl3s82E1cnp5n7zoQFwr5RAUBq3kvOkuFDmk4+tP8votx4qed8yrhmYauv2/k7UzzUw3OOOAmMLng297lWErzBHmvoEDWb64EmJsbAbo/pOeNe//II54w4=;r+STxmdMUNHx4/1U1nhq6A=="
 ---

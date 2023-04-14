@@ -2,6 +2,400 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2023-03-15-can-healthcare-show-the-way-forward-for-scaling-ai.md",
+      "title": "Can healthcare show the way forward for scaling AI?",
+      "excerpt": "Azure ML, a bunch of governance models — and all the development environments around .NET, Visual Studio, and all these things that make it easier, not trivial, to build and deploy AI products. Once you’re running, you need to look closely at ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/can-healthcare-show-the-way-forward-for-scaling-ai/",
+      "originalUrl": "https://venturebeat.com/ai/can-healthcare-show-the-way-forward-for-scaling-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/7-Applying-AI-at-Scale-in-Healthcare.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/can-healthcare-show-the-way-forward-for-scaling-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/can-healthcare-show-the-way-forward-for-scaling-ai/amp/",
+      "publishedDateTime": "2023-03-15T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-how-synthetic-data-is-boosting-ai-at-scale.md",
+      "title": "How synthetic data is boosting AI at scale",
+      "excerpt": "Artificial intelligence (AI) relies heavily on large ... “During my time at Google’s self-driving car project Waymo, we used a combination of both. Synthetic data will play a big role in situations we never want to experience in the real world.”",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/synthetic-data-to-boost-ai-at-scale/",
+      "originalUrl": "https://venturebeat.com/ai/synthetic-data-to-boost-ai-at-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/2-Synthetic-data-to-boost-AI-at-scale.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/synthetic-data-to-boost-ai-at-scale/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/synthetic-data-to-boost-ai-at-scale/amp/",
+      "publishedDateTime": "2023-03-15T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-the-power-of-mlops-to-scale-ai-across-the-enterprise.md",
+      "title": "The power of MLOps to scale AI across the enterprise",
+      "excerpt": "AI and ML model developers and data scientists tell VentureBeat ... Public cloud providers AWS, Google Cloud and Microsoft Azure all provide MLOps platform support. DataRobot, Dataiku, Iguazio, Cloudera and DataBricks are leading vendors competing in ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/the-power-of-mlops-to-scale-ai-across-the-enterprise/",
+      "originalUrl": "https://venturebeat.com/ai/the-power-of-mlops-to-scale-ai-across-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/4-The-power-of-MLOps-to-scale-AI-across-the-enterprise.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/the-power-of-mlops-to-scale-ai-across-the-enterprise/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-power-of-mlops-to-scale-ai-across-the-enterprise/amp/",
+      "publishedDateTime": "2023-03-15T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-karber-announces-next-phase-of-the-journey-in-e-fulfillment-through-robotics-as-a-service.md",
+      "title": "KÃ¶rber announces next phase of the journey in e-fulfillment through Robotics-as-a-Service",
+      "excerpt": "Adding to a depth and breadth of supply chain technologies spanning warehouse management, warehouse control, voice, order management, simulation and more, KÃ¶rber has unveiled its plans to extend its robotic service partnerships to combine the technology,",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1312317&cat=PR News Wire",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1312317&cat=PR News Wire",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2032909/PR_K_rber_RaaS.jpg",
+          "width": 400,
+          "height": 276,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete.md",
+      "title": "With A Growth In FinTech, Will Traditional Financial Advisors Become Obsolete?",
+      "excerpt": "The math is the easy part. There are AI tools, algorithms and software that are now able to fully design an investment portfolio in the time it takes to answer a questionnaire about your risk tolerance. However, that doesn’t give a full picture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ericbrotman/2023/03/15/with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete/",
+      "originalUrl": "https://www.forbes.com/sites/ericbrotman/2023/03/15/with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6411e6bd92269bb21de12265/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ericbrotman/2023/03/15/with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ericbrotman/2023/03/15/with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete/amp/",
+      "publishedDateTime": "2023-03-15T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-gpt-4-creator-ilya-sutskever-on-ai-hallucinations-and-ai-democracy.md",
+      "title": "GPT-4 Creator Ilya Sutskever on AI Hallucinations and AI Democracy",
+      "excerpt": "He was the main impetus for AlexNet, the convolutional neural network whose dramatic performance stunned the scientific community in 2012 and set off the deep learning revolution. The following is an edited transcript of our conversation. <iframe width ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/craigsmith/2023/03/15/gpt-4-creator-ilya-sutskever-on-ai-hallucinations-and-ai-democracy/",
+      "originalUrl": "https://www.forbes.com/sites/craigsmith/2023/03/15/gpt-4-creator-ilya-sutskever-on-ai-hallucinations-and-ai-democracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6411db2e9106984023d501fc/0x0.jpg?format=jpg&crop=2144,1206,x0,y235,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2023/03/15/gpt-4-creator-ilya-sutskever-on-ai-hallucinations-and-ai-democracy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/03/15/gpt-4-creator-ilya-sutskever-on-ai-hallucinations-and-ai-democracy/amp/",
+      "publishedDateTime": "2023-03-15T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-fintech-startup-stripe-integrating-openais-new-gpt-4-ai.md",
+      "title": "Fintech startup Stripe integrating OpenAI's new GPT-4 AI",
+      "excerpt": "SAN FRANCISCO, March 15 - Fintech startup Stripe is starting to ... a new version of the powerful artificial intelligence (AI) technology that has powered chatbot sensation ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/fintech-startup-stripe-integrating-openais-new-gpt-4-ai-2023-03-15/",
+      "originalUrl": "https://www.reuters.com/technology/fintech-startup-stripe-integrating-openais-new-gpt-4-ai-2023-03-15/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-how-artificial-intelligence-could-change-psychotherapy.md",
+      "title": "How Artificial Intelligence Could Change Psychotherapy",
+      "excerpt": "I can’t read the news or look at my social media feeds without seeing items about the potential implications of artificial intelligence (AI) on our future lives. Alarmed professors report college term papers are being written with ChatGPT;",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/technology-ga6a9ac6b0_1920.jpg?itok=JwAf1Qg2",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy?amp",
+      "publishedDateTime": "2023-03-15T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-15-robotics-and-pittsburgh-what-other-regions-can-learn.md",
       "title": "Robotics And Pittsburgh, What Other Regions Can Learn",
       "excerpt": "I’ll start this article by admitting to a bias ... Today, Pittsburgh is home to at least one hundred companies working to create solutions around robotics and AI. One thing the region has learned over the last decade. “Any city, county or region ...",
@@ -838,351 +1232,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-characterizing-abnormal-neural-networks-in-dogs-with-anxiety.md",
-      "title": "Characterizing abnormal neural networks in dogs with anxiety",
-      "excerpt": "Researchers at Ghent University in Belgium report abnormalities in functional neural networks of dogs diagnosed with anxiety. Led by Yangfeng Xu (Ghent Experimental Psychiatry Lab, GHEP; ORSAMI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/03/230315143836.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/03/230315143836.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-could-ai-powered-object-recognition-technology-help-solve-wheat-disease.md",
-      "title": "Could AI-powered object recognition technology help solve wheat disease?",
-      "excerpt": "Could AI-powered object recognition technology help solve wheat disease? Date: March 15, 2023 Source: University of Illinois College of Agricultural, Consumer and Environmental Sciences Summary: A ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/03/230315143839.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/03/230315143839.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-news-tagged-with-deep-learning.md",
-      "title": "News tagged with deep learning",
-      "excerpt": "A deep learning model can accurately evaluate the area subscore of the Palmoplantar Pustulosis Area and Severity Index (PPPASI), according to a study published online Feb. 23 in the Journal of ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/tags/deep+learning/",
-      "originalUrl": "https://medicalxpress.com/tags/deep+learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage.md",
-      "title": "\"Catering To Vote Bank\": LGBTQ Activist On Centre Opposing Same-Sex Marriage",
-      "excerpt": "This classification has a rational relation with the object sought to be achieved (ensuring social stability via recognition of marriages),\" the government said in its affidavit. It said statutory recognition of marriage as a union between a \"man\" and a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749",
-      "originalUrl": "https://www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/lgbt-generic_625x300_1530517472943.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749/amp/1",
-      "publishedDateTime": "2023-03-14T15:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-could-covid-cause-face-blindness-study-suggests-its-possible.md",
-      "title": "Could COVID cause ‘face blindness'? Study suggests it’s possible",
-      "excerpt": "\"It was like my dad’s voice came out of a stranger’s face.\" \"This one describes face recognition as one of the main deficits in the case study patient, but goes through to describe several tests used in determining different neurocognitive deficits ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/health/could-covid-cause-face-blindness-study-suggests-possible",
-      "originalUrl": "https://www.foxnews.com/health/could-covid-cause-face-blindness-study-suggests-possible",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/94323c47-a69d-4157-ae67-20daa50a2109/3880628a-7d07-4d7e-a9b6-c8b85b25080c/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/health/could-covid-cause-face-blindness-study-suggests-possible.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/could-covid-cause-face-blindness-study-suggests-possible.amp",
-      "publishedDateTime": "2023-03-14T14:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-the-artificial-intelligence-glossary.md",
-      "title": "The Artificial Intelligence Glossary",
-      "excerpt": "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/legaltechnews/2023/03/17/the-artificial-intelligence-glossary/",
-      "originalUrl": "https://www.law.com/legaltechnews/2023/03/17/the-artificial-intelligence-glossary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg",
-          "width": 767,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-openai-releases-gpt-4-artificial-intelligence-that-can-see-and-do-taxes.md",
-      "title": "OpenAI releases GPT-4, artificial intelligence that can 'see' and do taxes",
-      "excerpt": "The company said GPT-4 has capabilities that the previous iteration of the technology did not have, including the ability to “reason” based on images that users have uploaded.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/openai-gpt-4-rcna74916",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/openai-gpt-4-rcna74916",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 402,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230131-open-ai-se-624p-35f3c4.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna74916",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna74916",
-      "publishedDateTime": "2023-03-14T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-are-self-driving-cars-safe.md",
-      "title": "Are self driving cars safe?",
-      "excerpt": "From Johnny Cab in total recall, to swarms of self driving cars in Minority Report, Hollywood has long imagined cars of the future navigating roads on their own. But reality may be stranger than ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/self-driving-cars-safe-202700130.html",
-      "originalUrl": "https://www.aol.com/self-driving-cars-safe-202700130.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

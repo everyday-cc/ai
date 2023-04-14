@@ -2,6 +2,368 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-03-22-nvidia-and-partners-unveil-new-hopper-based-products-and-services-featuring-powerful-gpu-for-ai.md",
+      "title": "NVIDIA and Partners Unveil New Hopper Based Products and Services Featuring Powerful GPU for AI",
+      "excerpt": "In response to the soaring demand for generative AI training and inference, NVIDIA and its key partners have launched new products and services powered by the NVIDIA H100 Tensor Core GPU ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.guru3d.com/news-story/nvidia-and-partners-unveil-new-hopper-based-products-and-services-featuring-powerful-gpu-for-ai.html",
+      "originalUrl": "https://www.guru3d.com/news-story/nvidia-and-partners-unveil-new-hopper-based-products-and-services-featuring-powerful-gpu-for-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-21T12:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guru3D.com",
+        "domain": "guru3d.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-google-makes-bid-to-throw-out-high-court-claim-over-nhs-medical-record-transfer.md",
+      "title": "Google makes bid to throw out High Court claim over NHS medical record transfer",
+      "excerpt": "The software giant and its artificial intelligence arm DeepMind are facing legal action over the transfer of patient data by the Royal Free NHS Foundation Trust in October 2015. The records were ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.shropshirestar.com/news/uk-news/2023/03/21/google-makes-bid-to-throw-out-high-court-claim-over-nhs-medical-record-transfer/",
+      "originalUrl": "https://www.shropshirestar.com/news/uk-news/2023/03/21/google-makes-bid-to-throw-out-high-court-claim-over-nhs-medical-record-transfer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-21T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Shropshire Star",
+        "domain": "shropshirestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-google-ceo-tells-employees-that-80000-of-them-helped-test-bard-ai-warns-things-will-go-wrong.md",
+      "title": "Google CEO tells employees that 80,000 of them helped test Bard AI, warns 'things will go wrong'",
+      "excerpt": "“As more people start to use Bard and test its capabilities ... as the company tries to keep apace with the quickly evolving advancements in generative AI technology over the last several months — especially Microsoft-backed OpenAI and its ChatGPT ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/03/21/google-ceo-pichai-memo-to-employees-on-bard-ai-things-will-go-wrong.html",
+      "originalUrl": "https://www.cnbc.com/2023/03/21/google-ceo-pichai-memo-to-employees-on-bard-ai-things-will-go-wrong.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106629916-1595528838886-gettyimages-1195292757-AFP_1O5272.jpeg?v=1679420166",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/03/21/google-ceo-pichai-memo-to-employees-on-bard-ai-things-will-go-wrong.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/21/google-ceo-pichai-memo-to-employees-on-bard-ai-things-will-go-wrong.html",
+      "publishedDateTime": "2023-03-21T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-tesla-is-rolling-out-its-first-full-self-driving-update-after-a-recall-see-the-new-features.md",
+      "title": "Tesla is rolling out its first Full Self-Driving update after a recall — see the new features",
+      "excerpt": "An curved arrow pointing right. A handful of Tesla drivers have taken to social media this week to show off the latest update to Tesla's driver assist software, known as \"Full Self Driving\" (FSD). The update comes with a variety of new features ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tesla-updates-fsd-with-new-features-after-nhtsa-recall-2023-3",
+      "originalUrl": "https://www.businessinsider.com/tesla-updates-fsd-with-new-features-after-nhtsa-recall-2023-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63c1610e33ffb700180f962b?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tesla-updates-fsd-with-new-features-after-nhtsa-recall-2023-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-updates-fsd-with-new-features-after-nhtsa-recall-2023-3?amp",
+      "publishedDateTime": "2023-03-21T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest.md",
+      "title": "Bill Gates Thinks AI Will Revolutionize Healthcare For World’s Poorest",
+      "excerpt": "Former Microsoft CEO and billionaire philanthropist Bill Gates called artificial intelligence the “most important advance ... Soon-To-Be Grandfather Bill Gates Is Betting On AI, Gene Therapy And Other New Technologies To Solve Global Problems (Forbes)",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anafaguy/2023/03/21/bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest/",
+      "originalUrl": "https://www.forbes.com/sites/anafaguy/2023/03/21/bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6419d8ef8fb8a16b66bdef19/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anafaguy/2023/03/21/bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anafaguy/2023/03/21/bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest/amp/",
+      "publishedDateTime": "2023-03-21T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-stanford-researchers-take-down-alpaca-ai-due-to-hallucinations-and-rising-costs.md",
+      "title": "Stanford Researchers Take Down Alpaca AI Due to 'Hallucinations' and Rising Costs",
+      "excerpt": "“Overall, we hope that the release of Alpaca can facilitate further research into instruction-following models and their alignment with human values.” Want to know more about AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/stanford-ai-alpaca-llama-facebook-taken-down-chatgpt-1850247570",
+      "originalUrl": "https://gizmodo.com/stanford-ai-alpaca-llama-facebook-taken-down-chatgpt-1850247570",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5b67ab74c41c891c401f6f518950113e.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-21T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-nvidia-unveils-tiny-jetson-orin-nano-ai-robotics-kits-and-powerful-new-dev-tools.md",
+      "title": "NVIDIA Unveils Tiny Jetson Orin Nano AI Robotics Kits And Powerful New Dev Tools",
+      "excerpt": "All of this ties into the rather robust robotics and AI software chain that NVIDIA has been providing since the start of its AI push. Omniverse Replicator takes the data generated by Isaac Sim and can procedurally create annotated images and other training ...",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/nvidia-gtc-2023-isaac-jetson-orin-tao-5-metropolis",
+      "originalUrl": "https://hothardware.com/news/nvidia-gtc-2023-isaac-jetson-orin-tao-5-metropolis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/61199/content/hero-nvidia-isaac-robotics-platform.jpg",
+          "width": 708,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-gtc-2023-isaac-jetson-orin-tao-5-metropolis",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-gtc-2023-isaac-jetson-orin-tao-5-metropolis",
+      "publishedDateTime": "2023-03-21T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-teslas-self-driving-ambitions-are-further-and-further-away.md",
+      "title": "Tesla’s Self-Driving Ambitions Are Further and Further Away",
+      "excerpt": "After announcing his ambitions to have millions of self-driving Teslas on the ... the tech as “the more data (in this case driving) the artificial intelligence guiding the car is exposed to ...",
+      "sourceUrl": null,
+      "webUrl": "https://jalopnik.com/tesla-s-self-driving-ambitions-are-further-and-further-1850245462",
+      "originalUrl": "https://jalopnik.com/tesla-s-self-driving-ambitions-are-further-and-further-1850245462",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/11b44f8929b7238c7c7add384e26a2f8.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-21T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jalopnik",
+        "domain": "jalopnik.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-21-nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway.md",
       "title": "Nvidia VP Manuvir Das says enterprise AI is at ‘an inflection point’ as GTC gets underway",
       "excerpt": "Generative AI and ChatGPT have made it so obvious now that AI can transform ... So they need a way to build their own custom models, but they can’t just start from scratch. The kind of model they need requires the information from that company so they ...",
@@ -842,404 +1204,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-why-its-simpler-for-ais-to-write-about-art-than-for-robots-to-do-your-laundry.md",
-      "title": "Why it’s simpler for AIs to write about art than for robots to do your laundry",
-      "excerpt": "That’s because Sanctuary AI robots appear to be what science fiction writers have warned us about: intelligent machines that look like us and take away our jobs. Indeed, this narrative trope has been with us for as long as the word ‘robot’ has (coined in the 1920 play,",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/why-its-simpler-ais-write-about-art-robots-do-your-laundry",
-      "originalUrl": "https://diginomica.com/why-its-simpler-ais-write-about-art-robots-do-your-laundry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2023-03/46AB53B9-9ACD-4EAF-8AF4-C97E46A33986.jpeg",
-          "width": 1170,
-          "height": 847,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/why-its-simpler-ais-write-about-art-robots-do-your-laundry?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/why-its-simpler-ais-write-about-art-robots-do-your-laundry?amp",
-      "publishedDateTime": "2023-03-21T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-local-robotics-team-advances-in-international-competitiion.md",
-      "title": "Local robotics team advances in international competitiion",
-      "excerpt": "Local students once again are advancing to an international robotics competition. For Inspiration and Recognition of Science and Technology, or FIRST, is an international youth organization that operates several major student competitions,",
-      "sourceUrl": null,
-      "webUrl": "https://qctimes.com/news/local/education/local-robotics-team-advances-in-international-competitiion/article_f90bfc3b-7124-5179-a7e8-37955ccfbefe.html",
-      "originalUrl": "https://qctimes.com/news/local/education/local-robotics-team-advances-in-international-competitiion/article_f90bfc3b-7124-5179-a7e8-37955ccfbefe.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/f/90/f90bfc3b-7124-5179-a7e8-37955ccfbefe/6418bacde55a4.preview.png?crop=1000%2C525%2C0%2C97&resize=1000%2C525&order=crop%2Cresize",
-          "width": 1000,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quad-City Times",
-        "domain": "qctimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-nvidia-built-a-massive-dual-gpu-to-power-models-like-chatgpt.md",
-      "title": "Nvidia built a massive dual GPU to power models like ChatGPT",
-      "excerpt": "Nvidia’s semi-annual GPU Technology Conference (GTC) usually focuses on advancements in AI, but this year, Nvidia is responding to the massive rise of ChatGPT with a slate of new GPUs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/nvidia-built-massive-dual-gpu-power-chatgpt/",
-      "originalUrl": "https://www.digitaltrends.com/computing/nvidia-built-massive-dual-gpu-power-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/03/nvidia-h100-nvl.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/nvidia-built-massive-dual-gpu-power-chatgpt/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/nvidia-built-massive-dual-gpu-power-chatgpt/?amp",
-      "publishedDateTime": "2023-03-21T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-a-new-era-in-internet-runway-unveils-ai-that-transforms-text-into-videos.md",
-      "title": "A New Era in Internet: Runway Unveils AI that Transforms Text into Videos",
-      "excerpt": "The startup behind Stable Diffusion unveiled a groundbreaking AI system that can generate videos from text descriptions",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/03/21/runway-gen-2-ai-transforms-text-videos/",
-      "originalUrl": "https://www.gizmochina.com/2023/03/21/runway-gen-2-ai-transforms-text-videos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/03/runway-gen-2-ai-transforms-text-videos.jpeg",
-          "width": 1280,
-          "height": 717,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-artificial-intelligence-of-things-aiot-solutions-market-size-revenue-and-forecast-2028.md",
-      "title": "Artificial Intelligence Of Things (AIoT) Solutions Market Size, Revenue, and Forecast 2028",
-      "excerpt": "Browse Market Size, charts, tables and figures extent in-depth TOC with 112 Report Pages on Artificial Intelligence Of Things (AIoT) Solutions Market by Application (, Consumer, Enterprise, Industrial,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-size-revenue-and-forecast-2028-2023-03-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-size-revenue-and-forecast-2028-2023-03-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-20T21:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-natural-language-processing-for-healthcare-and-life-sciences-market-size-trends-and-forecast-2026.md",
-      "title": "Natural Language Processing For Healthcare And Life Sciences Market Size, Trends and Forecast 2026",
-      "excerpt": "Market Updates(360marketupdates.com) published a new research report on Natural Language Processing For Healthcare",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-size-trends-and-forecast-2026-2023-03-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-size-trends-and-forecast-2026-2023-03-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-20T21:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-whos-using-facial-recognition-technology.md",
-      "title": "Who’s Using Facial Recognition Technology?",
-      "excerpt": "Anyone can read what you share. By James Barron Good morning. It’s Tuesday. Facial recognition technology is increasingly being used to scan customers entering stores or, in the case of Madison Square Garden Entertainment, to scan ticket holders for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/03/21/nyregion/facial-recognition-technology-garden.html",
-      "originalUrl": "https://www.nytimes.com/2023/03/21/nyregion/facial-recognition-technology-garden.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/03/21/multimedia/21nytoday-kashmir-msg-qtgp/21nytoday-kashmir-msg-qtgp-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/03/21/nyregion/facial-recognition-technology-garden.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/21/nyregion/facial-recognition-technology-garden.amp.html",
-      "publishedDateTime": "2023-03-20T21:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-gpu-database-market-top-players-and-forecast-till-2028.md",
-      "title": "GPU Database Market Top Players and Forecast till 2028",
-      "excerpt": "The \"GPU Database Market\" Study Describes how the technology industry is evolving and how major and emerging players in",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-database-market-top-players-and-forecast-till-2028-2023-03-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-database-market-top-players-and-forecast-till-2028-2023-03-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-20T21:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,152 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-15-elon-musks-new-artificial-intelligence-business-xai-incorporates-in-nevada.md",
+      "title": "Elon Musk’s New Artificial Intelligence Business, X.AI, Incorporates in Nevada",
+      "excerpt": "Elon Musk has created a new artificial intelligence company called X.AI that is incorporated in Nevada, according to a state filing. Mr. Musk is the only listed director of the company, and Jared Birchall, the director of Mr. Musk’s family office ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/elon-musks-new-artificial-intelligence-business-x-ai-incorporates-in-nevada-962c7c2f",
+      "originalUrl": "https://www.wsj.com/articles/elon-musks-new-artificial-intelligence-business-x-ai-incorporates-in-nevada-962c7c2f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-764221/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-15-ai-frenzy-puts-chips-back-onto-the-menu-buy-the-tech-behind-revolution.md",
+      "title": "AI frenzy puts chips back onto the menu: Buy the tech behind revolution",
+      "excerpt": "Chetan Sehgal, the trust's co-manager, contends that companies of all types will be clamouring for chips. He says: 'AI is a growth driver for the semi-conductor industry. Demand for ever more powerful semi-conductors could increase dramatically in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisismoney.co.uk/money/investing/article-11974189/AI-frenzy-puts-chips-menu-Buy-tech-revolution.html?mrn_rm=rta",
+      "originalUrl": "https://www.thisismoney.co.uk/money/investing/article-11974189/AI-frenzy-puts-chips-menu-Buy-tech-revolution.html?mrn_rm=rta",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2023/04/14/20/69846491-0-image-a-72_1681502145335.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thisismoney.co.uk/money/investing/article-11974189/amp/AI-frenzy-puts-chips-menu-Buy-tech-revolution.html",
+      "cdnAmpWebUrl": "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/investing/article-11974189/amp/AI-frenzy-puts-chips-menu-Buy-tech-revolution.html",
+      "publishedDateTime": "2023-04-14T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This is Money",
+        "domain": "thisismoney.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-15-elon-musk-is-rumored-to-be-starting-new-ai-startup-after-saying-tesla-would-play-a-role-in-agi.md",
+      "title": "Elon Musk is rumored to be starting new AI startup after saying Tesla would play a role in AGI",
+      "excerpt": "Elon Musk is rumored to be starting a new AI startup to compete with OpenAI after he left the organization, which he co-founded, supposedly because of a conflict of interest with Tesla’s own artificial intelligence effort. Now it sounds like he is funding a startup that could compete with Tesla, based on his latest comments.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2023/04/14/elon-musk-rumoredstarting-new-ai-startup-after-saying-tesla-would-play-role-agi/",
+      "originalUrl": "https://electrek.co/2023/04/14/elon-musk-rumoredstarting-new-ai-startup-after-saying-tesla-would-play-role-agi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/03/elon-tesla-bot-meme.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-04-15-generative-ai-music-platform-creates-forever-songs-with-artists-unique-sounds-melodies-and-beats.md",
       "title": "Generative AI Music Platform Creates Forever Songs With Artists’ Unique Sounds, Melodies, And Beats",
       "excerpt": "A generative AI startup named Aimi has launched a new music platform that fundamentally transforms music, artists, listeners, and monetization. It’s simultaneously a creation tool that works alongside artists to create tracks, a listening experience that ...",
@@ -199,21 +345,21 @@
       ]
     },
     {
-      "path": "_news/2023-04-14-amazon-announces-bedrock-and-titan-generative-ai-on-the-cloud.md",
-      "title": "Amazon announces Bedrock and Titan, generative AI on the cloud",
-      "excerpt": "Amazon has added generative artificial intelligence models into Amazon Web Services. Generative AI is the type of artificial intelligence that can create text or images, similar to ChatGPT. With Amazon Bedrock,",
+      "path": "_news/2023-04-14-amazon-launches-ai-tools-to-rival-chatgpt-microsoft-and-google.md",
+      "title": "Amazon launches AI tools to rival ChatGPT, Microsoft, and Google",
+      "excerpt": "Amazon wants to become the Bedrock of artificial intelligence. The e-commerce giant just announced a proprietary set of core AI technologies that companies can use to build generative AI applications,",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/amazon-bedrock-titan-cloud-artificial-intelligence/",
-      "originalUrl": "https://www.techrepublic.com/article/amazon-bedrock-titan-cloud-artificial-intelligence/",
+      "webUrl": "https://www.zdnet.com/article/amazon-launches-ai-tools-to-rival-chatgpt-microsoft-and-google/",
+      "originalUrl": "https://www.zdnet.com/article/amazon-launches-ai-tools-to-rival-chatgpt-microsoft-and-google/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 319,
+      "heat": 454,
       "tags": null,
       "images": [
         {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/04/tr41423-amazon-headquarters.jpeg",
-          "width": 1400,
-          "height": 933,
+          "url": "https://www.zdnet.com/a/img/resize/7ff3a4d2ebdfad56937e237d8efbacacd60826cd/2023/04/14/e36e4553-0100-4b6d-9f88-df4fdeb96848/gettyimages-1243579557.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -221,16 +367,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/amazon-bedrock-titan-cloud-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/amazon-bedrock-titan-cloud-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-04-14T09:26:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-launches-ai-tools-to-rival-chatgpt-microsoft-and-google/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-launches-ai-tools-to-rival-chatgpt-microsoft-and-google/",
+      "publishedDateTime": "2023-04-14T09:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -246,8 +392,8 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -311,7 +457,7 @@
       "originalUrl": "https://www.forbes.com/sites/craigsmith/2023/04/14/ai-models-shaken-not-yet-stirred-ftc-could-slow-openais-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -398,6 +544,58 @@
       ]
     },
     {
+      "path": "_news/2023-04-14-whats-slowing-down-self-driving-car-technology.md",
+      "title": "What’s Slowing Down Self-Driving Car Technology?",
+      "excerpt": "Car and tech companies have promised for years that fully self-driving cars were just around the corner. But experts say the technology is far from where it nee",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/video/series/tech-news-briefing/whats-slowing-down-self-driving-car-technology/27D24413-3882-4A81-9AE0-16F3A2896A97",
+      "originalUrl": "https://www.wsj.com/video/series/tech-news-briefing/whats-slowing-down-self-driving-car-technology/27D24413-3882-4A81-9AE0-16F3A2896A97",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://images.wsj.net/im-763796?width=1280&height=720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-14-what-enterprises-should-know-about-generative-ai-powered-conversational-systems.md",
       "title": "What Enterprises Should Know About Generative AI-Powered Conversational Systems",
       "excerpt": "Generative AI is capable of generating new data by recognizing patterns in existing data. In the context of conversational AI, it involves utilizing machine learning algorithms to produce natural language responses to user queries or requests.",
@@ -406,7 +604,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/14/what-enterprises-should-know-about-generative-ai-powered-conversational-systems/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -492,49 +690,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-14-how-generative-ai-can-improve-personalized-healthcare-with-wearable-devices.md",
-      "title": "How Generative AI Can Improve Personalized Healthcare With Wearable Devices",
-      "excerpt": "Generative AI in healthcare is a promising area that could enhance the quality and efficiency of patient care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/how-generative-ai-can-improve-personalized-healthcare-with-wearable-devices/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/how-generative-ai-can-improve-personalized-healthcare-with-wearable-devices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-14-revolutionizing-the-consumer-goods-industry-with-integrated-business-planning.md",
       "title": "Revolutionizing the consumer goods industry with integrated business planning",
       "excerpt": "Learn how Al Rabie Saudi Foods Co. Ltd adopted an integrated business planning analytics approach to streamline their planning and budgeting processes.\nThe post Revolutionizing the consumer goods industry with integrated business planning appeared first on IBM Blog.\n",
@@ -594,7 +749,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/the-good-and-bad-side-of-ai-and-how-you-can-leverage-it/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -645,7 +800,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/14/how-to-make-sure-no-one-is-left-behind-in-the-era-of-ai-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -697,7 +852,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-marketing-market-size-2023-2030-share-growth-recent-trends-development-2023-04-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -749,7 +904,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-by-2030-future-scope-and-predictions-2023-04-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -845,21 +1000,21 @@
       ]
     },
     {
-      "path": "_news/2023-04-14-mind-your-language-the-risks-of-using-ai-powered-chatbots-like-chatgpt-in-an-organization.md",
-      "title": "Mind your language: The risks of using AI-powered chatbots like ChatGPT in an organization",
-      "excerpt": "A spate of recent news points up the potential security and other pitfalls of using AI chatbots like ChatGPT within an organization.",
+      "path": "_news/2023-04-14-amazon-jumps-into-the-generative-ai-race-with-new-cloud-service.md",
+      "title": "Amazon jumps into the generative AI race with new cloud service",
+      "excerpt": "The announcement indicates the largest provider of cloud infrastructure won’t be leaving a trendy growth area to challengers such as Google and Microsoft.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/mind-your-language-risks-using-ai-powered-chatbots-chatgpt/",
-      "originalUrl": "https://venturebeat.com/ai/mind-your-language-risks-using-ai-powered-chatbots-chatgpt/",
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/amazon-jumps-generative-race-new-cloud-service-rcna79599",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/amazon-jumps-generative-race-new-cloud-service-rcna79599",
       "featuredContent": null,
       "highlight": null,
-      "heat": 178,
+      "heat": 323,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1367281424-e1654632813202.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211215-las-vegas-the-venetian-expo-aws-ac-1159p-b07aeb.jpg",
+          "width": 2500,
+          "height": 1663,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -867,23 +1022,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/mind-your-language-risks-using-ai-powered-chatbots-chatgpt/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/mind-your-language-risks-using-ai-powered-chatbots-chatgpt/amp/",
-      "publishedDateTime": "2023-04-13T18:37:00-07:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna79599",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna79599",
+      "publishedDateTime": "2023-04-13T18:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -892,7 +1038,9 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -904,7 +1052,7 @@
       "originalUrl": "https://www.foxnews.com/media/arizona-mother-describes-ai-phone-scam-faking-daughters-kidnapping-completely-voice",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -947,15 +1095,15 @@
       ]
     },
     {
-      "path": "_news/2023-04-14-reinventing-financial-services-with-next-gen-ai.md",
-      "title": "Reinventing financial services with next-gen AI",
-      "excerpt": "As part of a surging embrace of AI, financial services companies are joining others developing next-gen autonomous, cloud-based assistants.",
+      "path": "_news/2023-04-14-amazon-aws-expands-generative-ai-efforts-with-bedrock-and-codewhisperer-updates.md",
+      "title": "Amazon AWS expands generative AI efforts with Bedrock and CodeWhisperer updates",
+      "excerpt": "Amazon Web Services (AWS), announced today that it is expanding its generative AI services in a bid to make the technology more available to organizations in the cloud.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/reinventing-financial-services-with-next-gen-ai/",
-      "originalUrl": "https://venturebeat.com/ai/reinventing-financial-services-with-next-gen-ai/",
+      "webUrl": "https://venturebeat.com/ai/amazon-aws-expands-generative-ai-efforts-with-bedrock-and-codewhisperer-updates/",
+      "originalUrl": "https://venturebeat.com/ai/amazon-aws-expands-generative-ai-efforts-with-bedrock-and-codewhisperer-updates/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 112,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -985,10 +1133,60 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
         "Microsoft AI",
-        "Natural Language Processing"
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-can-artificial-intelligence-predict-the-weather-months-out-this-company-says-it-can.md",
+      "title": "Can artificial intelligence predict the weather months out? This company says it can",
+      "excerpt": "As artificial intelligence is introduced across different sectors, one company touts its machine-learning method for weather forecasting months ahead of time – and is getting pushback.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/can-artificial-intelligence-predict-weather-months-out",
+      "originalUrl": "https://www.foxnews.com/tech/can-artificial-intelligence-predict-weather-months-out",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99c2d3f0-ca52-4098-9181-5c055a78fc88/280113b3-7fc9-4279-a467-a3ad7e69045b/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/can-artificial-intelligence-predict-weather-months-out.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/can-artificial-intelligence-predict-weather-months-out.amp",
+      "publishedDateTime": "2023-04-13T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1041,202 +1239,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-13-natural-language-processing-nlp-market-2023-2029global-report-forecast.md",
-      "title": "Natural Language Processing (NLP) Market 2023-2029|Global Report Forecast",
-      "excerpt": "Natural Language Processing (NLP) Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-2029global-report-forecast-2023-04-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-2029global-report-forecast-2023-04-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-13-putin-and-xi-seek-to-weaponize-artificial-intelligence-against-america.md",
-      "title": "Putin and Xi seek to weaponize Artificial Intelligence against America",
-      "excerpt": "Russia's Putin and China's Xi seek to weaponize artificial intelligence against America and dominate the world as the Biden administration ponders hitting the brakes on AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america",
-      "originalUrl": "https://www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/39b9bfbe-9556-462f-bf6a-a645426e701e/4af56975-0b7e-4a1d-9d54-31a23a484ae7/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america.amp",
-      "publishedDateTime": "2023-04-13T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-13-artificial-intelligence-market-in-2023unlocking-promising-opportunities-by-2030.md",
-      "title": "Artificial Intelligence Market in 2023|Unlocking Promising Opportunities by 2030",
-      "excerpt": "Apr 13, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry. This report conducts a",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-in-2023unlocking-promising-opportunities-by-2030-2023-04-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-in-2023unlocking-promising-opportunities-by-2030-2023-04-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-13-5-takeaways-from-the-early-days-of-ibm-partner-plus.md",
-      "title": "5 takeaways from the early days of IBM Partner Plus",
-      "excerpt": "The past three months have been transformative for the IBM Ecosystem. Our investment in the ecosystem is deeper than ever before, and momentum is accelerating across all partner types as they continue to scale and innovate. This demonstrates their commitment to clients, deep expertise and hunger to collaborate",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/partner-plus-takeaways/",
-      "originalUrl": "https://www.ibm.com/blog/partner-plus-takeaways/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

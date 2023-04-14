@@ -15,6 +15,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "urTbolfbCKPnWS2MEpfWULvdKlDDigjF8yLpf7Z42KiGzyiXpm32JFtOSgjTCNCCdO406UjMszFCg0mknE4iRNGiF0MdbPv+b9vvIkGOGchRKzhByW1Z8kN0D2IaRCX8eqxSjlb2+ib/Hyr9E2UhOstb6O+WZEcJlO4zIIwzYdwA3pflUQpt03VNJMa1sGqlumcLGeoDMRi2TpNlAEaZmkJUkEuG+RhoZghgW7JZm+3L21LwxowugK/JaSrks1UPvhx1ORKYvg7ODuZns8bnzccvvFL71p/QRODiUvCC027zYFgp9J7zekPHgTfjs3xJ9zBwl2SjI9U09OPufWBqnyYbaZ4awC27Sx9822g3cc8=;ybmTTuIb7DPosbvl6n9Nrg=="
+images:
+  - url: "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/Chip%20During%20Rush%20Hour.jpg"
+    width: 1600
+    height: 1065
+    isCached: true
+
+secured: "+Qcw817dfB4+pjCJkif6tIDgTjvBGZI0zfMhJQN0qgd9Fy5i8KAGyuDzazy/BPAGOzlDcHKaVmr24ujWKUq7IRwW1EDg2BGZ18ykmQCa7lG1VDX0j0rSXf/QuDw5MaU66TnGmMJDwEhs5fDmC+6XjKBqMCLbWqXaVKsZR2skZ5pQgbARfsUijX0WPfgL1aUeSL8FkaQSglHuWWV807b6zIXHJcFR+lLhL2gltWhm8kWzzrrx+oqMpJl4vHsgITH4Y/buK9LLee8rzxP2ymRQLeClvlDLfEzhFvgZhF2yQ6JHQbe8urtLBp9MsoFGs0bG61Er9aFBTdRGr8x2lrHCLsUldfmcMkSnVRpQaJgsOwA=;KAGE7P+3VVXEG+ITqlgFtQ=="
 ---
 

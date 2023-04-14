@@ -59,6 +59,15 @@ related:
       name: Rochelle News-Leader
       domain: rochellenews-leader.com
     quality: 19
+  - title: "You saw the first image of a black hole. Now see it better with AI."
+    excerpt: "The first black hole image, taken in the Messier 87 galaxy by the Event Horizon Telescope, just got a big AI upgrade for accuracy."
+    publishedDateTime: 2023-04-14T17:00:00Z
+    webUrl: "https://www.popsci.com/science/first-black-hole-image-ai/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 17
 
 secured: "P0yv3UBn99XDc9FKWi7CWNGSbyjLDwC2YySBX2tTDqzdtKDirRrAZiGQu5pPoq3PM4TNC1hgwfxIqqYceSfLSShQsLvfW1FR7KwpH987lhouv4+NnVeI2ROLZS/hJWcTTDNw5pcnEliOKZwD7rYJHbYesNqsl5z1MU2+y3K85epM6fBYZiw3YEGJ1oN+ReWd9LchCBZPO/z7uJoa3YSoIYm0cSXeLYVEO+pCkThiHo5ulgG1KUlz59Qjhtee8z66jPHz6QRSD3bmMidTrI9JALhnMIcUa/nW0ykWPABqNXWAdLiYYO0bNoWc92ETddurh6fTP0n8dx7Y05eYnQKoHqPVAhj3hGcp9IzRVPVFuq8zIqDuJoWxtMpTzTN4SN5ZeO/uU7S7sECi9D7m/x2WLinpOw2HjHXmyRIQER/tmgvgkQl7I7FX1C59GmV/I3HuMFyZx6OltpQ6jh4YloXO6yGEfGatEEVsFO4PbS1CjSv93aZhomf+xoz1bAvRgWxYBH7xZTB5DoAtQ8/uIBtoFg==;tdmdKQa7STEuwivL4du0LA=="
 ---

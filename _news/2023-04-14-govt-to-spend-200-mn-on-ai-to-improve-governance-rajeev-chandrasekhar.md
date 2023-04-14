@@ -18,6 +18,17 @@ topics:
   - AI in Finance
   - AI
 
+related:
+  - title: "“AI will be kinetic enabler of India’s Digital Economy, make Governance smarter and more Data-led” – MoS Rajeev Chandrasekhar"
+    excerpt: "Union Minister of State for Electronics & Information Technology and Skill Development & Entrepreneurship, Shri Rajeev Chandrasekhar has said the Government is determined to develop artificial intelli"
+    publishedDateTime: 2023-04-14T16:47:00Z
+    webUrl: "https://indiaeducationdiary.in/ai-will-be-kinetic-enabler-of-indias-digital-economy-make-governance-smarter-and-more-data-led-mos-rajeev-chandrasekhar/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 0
+
 secured: "uU4eRshRBBhW32Yuk18cipZaAw7yU06kuJGgyxFmIV7xmauyNdKot7pOuo/zCyyVkLIgw1IZDT7BhTI8lH8l2LT27nB3gSX7mKLRon/znlwtwgsycNoKF7PxuaTBPc6fWuFgQ20z034aVSCofgmD/DwVcRGIlzpEYM9ovPlQuEjLfwa3m+pApZhEAxPDgNRMKoBPyhQ7o97lMeJMm7mZnzfi+AAnXnlPe+TER7aR2YIGBvGxP5rWsLZpg+aEkikzDmYsP2xFGHk+2nM9NhfBNC4IQ3e4mnJm63/7s6dJw4FuWTSJzQjboiCBM4UCF2RvE5i2o56iTsgJzcJwMeucfc/mpfMGZcYUVLEsJpmuhd5ZbjY1C0I6Zaqgoros8WAyxQ5BCcGHkx5HfB6kHBjHqgq86Rw2z8Yxr7KF2NE0I+RXXm4JnQ+APlR1k61o94jKPYXOp9z7i4qCjr2tsi8Vt+ry3cOXiNqQybLj8hl08j/htpemm2jFjLOeiD2i2TbhFgxeqtAEHZE2lotuOkfmcw==;MnVATlnuJ9adr5KDv/n7kA=="
 ---
 

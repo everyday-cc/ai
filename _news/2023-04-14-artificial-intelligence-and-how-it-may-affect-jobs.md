@@ -58,6 +58,15 @@ related:
       name: The Week UK
       domain: theweek.co.uk
     quality: 21
+  - title: "You saw the first image of a black hole. Now see it better with AI."
+    excerpt: "The first black hole image, taken in the Messier 87 galaxy by the Event Horizon Telescope, just got a big AI upgrade for accuracy."
+    publishedDateTime: 2023-04-14T17:00:00Z
+    webUrl: "https://www.popsci.com/science/first-black-hole-image-ai/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 17
 
 secured: "Hd550JpphzwOnx84khakHc1bU4buezIBH1MnGcpL42MSVv82zJp2E4gQ/gRIumIR8S+W/5ualTdjCfugfAcCkH9RQX2CjNg/Mg+evZNQIxNOAfu/7N0Ioj6MXFr/VJQ1EdoNy18cZ1g0P2SJNbyBTwiASrDgOE/xZj8PuZ5EErit3JFPGqxIZ0qtuu9JXufS67unu1lA/sunIUFlPgvJtq1nqMACQVUS22HRj31u849oElhEf5hkBGAb6AOHxC1GX9Ha2C4EimJlsdf+L/I6+OvaaEV4AlYoQB9IB7bSbYSTD8P2Xsqfez4rEUjK0fNsvjJxKCAaFEg5bDspAJa4at9nK4jL4qXo676sBOrWFLJE1tZt9sA6CBQEBk5DOIAsjxRy0eaAz9EQegRcZuUSl8rQ6jHTI5NRKrUrn0QqzBMAZ7LDcTa4IjtLs7NaYYVKDy39LF83bW0AtajTkbOd9KorQesC+XgBvB6NeHfbls++YRkyEWmeefcjKYeUQXQWiEfKX1ZlzmArUPXMx9P/TQ==;RjSSiE69qH4pH88+E6FRag=="
 ---

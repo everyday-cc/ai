@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T13:21:00Z
 originalUrl: "https://europa.eu/capacity4dev/care-project/articles/global-gateway-series-artificial-intelligence-ai-and-future-healthcare"
 webUrl: "https://europa.eu/capacity4dev/care-project/articles/global-gateway-series-artificial-intelligence-ai-and-future-healthcare"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: Europa

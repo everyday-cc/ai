@@ -75,6 +75,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
+  - title: "Artificial Intelligence (AI) As a Service Market Demand Analysis By 2030"
+    excerpt: "The latest Artificial Intelligence (AI) As a Service Market Analysis is designed to help clients improve their"
+    publishedDateTime: 2023-04-14T17:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-as-a-service-market-demand-analysis-by-2030-2023-04-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
   - title: "Artificial Intelligence (AI) Software Market Size, Share and Forecast till 2031"
     excerpt: "The latest market research report on the Global \"Artificial Intelligence (AI) Software Market\" is segmented by"
     publishedDateTime: 2023-04-13T05:24:00Z

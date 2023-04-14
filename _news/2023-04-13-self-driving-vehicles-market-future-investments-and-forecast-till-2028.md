@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-ma
 webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market-future-investments-and-forecast-till-2028-2023-04-13"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: MarketWatch
@@ -29,61 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "GPU for Deep Learning Market 2023 Size and Forecast to 2031"
-    excerpt: "GPU for Deep Learning Marketinformation for each competitor includes (Amazon, Microsoft, Google, Fancy Startup, Intel,"
-    publishedDateTime: 2023-04-10T01:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-2023-size-and-forecast-to-2031-2023-04-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-  - title: "Machine Learning-as-a-Service (MLaaS) Market Forecasts 2023-2029"
-    excerpt: "There are many different sources of market data, including government statistics, industry reports, financial news, and market research firms. Some of the key types of data that are available from the global Machine Learning-as-a-Service (MLaaS ..."
-    publishedDateTime: 2023-04-10T09:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-forecasts-2023-2029-2023-04-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-  - title: "Artificial Intelligence in Computer Networks Market | Industry Size Forecast To 2030"
-    excerpt: "The latest market research report on the Global \"Artificial Intelligence in Computer Networks Market\" is segmented"
-    publishedDateTime: 2023-04-13T21:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-industry-size-forecast-to-2030-2023-04-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-Driving Car Market Forecasted from 2023-2031"
-    excerpt: "The \" Self-Driving Car Market \"Study offers comprehensive information and statistics on markets in the current"
-    publishedDateTime: 2023-04-14T01:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-forecasted-from-2023-2031-2023-04-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Fintech Market Growth and Forecast till 2031"
-    excerpt: "The latest market research report on the Global \"AI in Fintech Market\" is segmented by Regions, Country, Company and"
-    publishedDateTime: 2023-04-13T06:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-growth-and-forecast-till-2031-2023-04-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
   - title: "Speech Recognition Market Key Players and Forecast till 2031"
     excerpt: "The latest market research report on the Global \"Speech Recognition Market\" is segmented by Regions, Country, Company"
     publishedDateTime: 2023-04-13T05:20:00Z
@@ -93,24 +38,56 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-  - title: "Facial Recognition Market Analysis Future Outlook Forecast 2023 to 2031"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 14, 2023 (Alliance News via COMTEX) -- Facial recognition is a biometric technology which is used for authentication and identification of individuals, by comparing the ..."
-    publishedDateTime: 2023-04-14T13:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-analysis-future-outlook-forecast-2023-to-2031-2023-04-14"
+  - title: "AI Chip Market Forecast With Trends, Challenges & Drivers And Key Players Till 2030"
+    excerpt: "Research Nester published a report titled “AI Chip Market: Global Demand Analysis & Opportunity Outlook 2030” which delivers detailed overview of theglobalAI chip market in terms of market ..."
+    publishedDateTime: 2023-04-10T10:50:00Z
+    webUrl: "https://menafn.com/1105971707/AI-Chip-Market-Forecast-With-Trends-Challenges-Drivers-And-Key-Players-Till-2030"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 48
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?189758"
+        width: 374
+        height: 250
+        isCached: true
+  - title: "Know Driving Success In Deep Learning Chipsets Market: Current Trends and Future Outlook Till 2030"
+    excerpt: "The latest Deep Learning Chipsets Market Analysis is designed to help clients improve their market position, and in line"
+    publishedDateTime: 2023-04-11T07:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/know-driving-success-in-deep-learning-chipsets-market-current-trends-and-future-outlook-till-2030-2023-04-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
-  - title: "\"Data Science and Machine Learning Service Market\" Size 2023 Will Grow Rapidly Another Level in The Forthcoming Year 2030"
-    excerpt: "Data Science and Machine Learning Service Market Size With forecast period 2023-2030 | New Report (102 Pages) |"
-    publishedDateTime: 2023-04-12T06:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-size-2023-will-grow-rapidly-another-level-in-the-forthcoming-year-2030-2023-04-12"
+    quality: 35
+  - title: "How road rage really affects your driving -- and the self-driving cars of the future"
+    excerpt: "New research has identified characteristics of aggressive driving -- which impact both road users and the transition to self-driving cars of the future. In the first study to systematically identify aggressive driving behaviours, scientists have measured ..."
+    publishedDateTime: 2023-04-10T23:59:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/04/230411150507.htm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 27
+  - title: "GM's Cruise updates software, recalls 300 self-driving vehicles for crash risk"
+    excerpt: "The recall and software update come after a March 23 collision in which a Cruise robotaxi inaccurately predicted the movement of a bus in San Francisco."
+    publishedDateTime: 2023-04-10T14:02:00Z
+    webUrl: "https://www.autonews.com/mobility-report/gms-cruise-updates-self-driving-software-after-bus-crash"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 0
+  - title: "How road rage really affects your driving—and the self-driving cars of the future"
+    excerpt: "New research by the University of Warwick has identified characteristics of aggressive driving—which impact both road users and the transition to self-driving cars of the future."
+    publishedDateTime: 2023-04-11T20:10:00Z
+    webUrl: "https://techxplore.com/news/2023-04-road-rage-affects-drivingand-self-driving.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 0
 
 secured: "wRPJKac0MjB3UOMCXthFeKZdPsQAePrzux/uGcKTIcVoPTIKryhCHsxmHX0NaswJv8yRaJkM6P+eAqdi+3CUAs0GW0XRjZrIJQL93fRAB8/yXqsnvVH4ECk6ri3jYKnJ6+RVo6NzV3tIauQlAnhZpFrmQSbOHGmJCW/PnhZVAGfeFtRYStiqAy8rf81sJunIHFkcsH9vsmtCqeI2VREB3E7yEleW58PY615XwQXReunHM1636kxWcM67Sw0WKy/HTkUXT67ssXL5MsjlK+134RmT/aFWW49jEmcqlYHqZYfE4h1sD3axJQ52oSUkboIG/K2RE4q5/IrzZnJ5l8f2RSJZ73Da9zB4ffoxklu3NKs=;AzfwAELtCSF/Sc+YTYUlQA=="
 ---

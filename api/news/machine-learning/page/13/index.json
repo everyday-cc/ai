@@ -2,6 +2,92 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-12-29-developing-deep-learning-based-real-time-ultrasonic-hologram-generation-technology.md",
+      "title": "Developing deep learning based real-time ultrasonic hologram generation technology",
+      "excerpt": "DGIST Department of Electrical Engineering and Computer Science Professor Hwang Jae-yoon's team developed a deep learning-based ultrasound hologram generation framework technology that can freely configure the form of focused ultrasound in real time based on holograms.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-12-deep-based-real-time-ultrasonic-hologram.html",
+      "originalUrl": "https://techxplore.com/news/2022-12-deep-based-real-time-ultrasonic-hologram.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/dgist-professor-hwang.jpg",
+          "width": 1570,
+          "height": 1204,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-12-deep-based-real-time-ultrasonic-hologram.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-deep-based-real-time-ultrasonic-hologram.amp",
+      "publishedDateTime": "2022-12-28T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-26-26-ai-experts-who-left-google-to-start-new-companies-in-2022-as-machine-learning-ushers-in-a-new-era-of-lifelike-ai.md",
+      "title": "26 AI experts who left Google to start new companies in 2022 as machine learning ushers in a new era of lifelike AI",
+      "excerpt": "Google researchers created the most widely-used AI technique. Now they're venturing off for a new wave of cutting-edge machine-learning startups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/26-ai-machine-learning-experts-left-google-for-startups-2022-12",
+      "originalUrl": "https://www.businessinsider.com/26-ai-machine-learning-experts-left-google-for-startups-2022-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-26T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-26-what-we-get-wrong-about-artificial-intelligence-and-machine-learning.md",
       "title": "What we get wrong about artificial intelligence and machine learning",
       "excerpt": "AI, or Artificial intelligence, is probably the most advertised term in the 21st century. Despite there being a lot of buzz around it, most people have never understood what it is all about.",
@@ -1374,105 +1460,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-4-mind-boggling-technology-advances-in-store-for-2023.md",
-      "title": "4 Mind-Boggling Technology Advances In Store For 2023",
-      "excerpt": "In 2023 the trend will continue as the pace of innovation and development of potentially disruptive emerging technologies exponentially increases every year",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/",
-      "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63990ad004b32ca023bf8641/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/amp/",
-      "publishedDateTime": "2022-12-13T14:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI",
-        "Computer Vision",
-        "Natural Language Processing",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-7-ways-a-recession-could-impact-ai-and-ml-in-2023.md",
-      "title": "7 ways a recession could impact AI and ML in 2023",
-      "excerpt": "Experts are predicting a possible recession in 2023. What would that mean for AI users and the vendors that supply AI tools and expertise?",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/7-ways-a-recession-could-impact-ai-and-ml-in-2023/",
-      "originalUrl": "https://venturebeat.com/ai/7-ways-a-recession-could-impact-ai-and-ml-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T12:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

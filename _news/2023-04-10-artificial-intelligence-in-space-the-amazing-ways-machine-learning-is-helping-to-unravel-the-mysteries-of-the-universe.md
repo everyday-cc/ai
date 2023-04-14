@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/04/10/artificial-intel
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/04/10/artificial-intelligence-in-space-the-amazing-ways-machine-learning-is-helping-to-unravel-the-mysteries-of-the-universe/amp/"
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     width: 1200
     height: 685
     isCached: true
+
+related:
+  - title: "IndiaAI will propel country into leading pack of nations in AI space: Chandrasekhar"
+    excerpt: "Union Minister of State for Electronics & Information Technology and Skill Development & Entrepreneurship, Shri Rajeev Chandrasekhar has said the Government is determined to develop artificial intelligence and AI-powered solutions that will benefit India as well as transform lives of its people."
+    publishedDateTime: 2023-04-14T15:10:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2417335-indiaai-will-propel-country-into-leading-pack-of-nations-in-ai-space-chandrasekhar"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 13
 
 secured: "Vc1nCBRG29aXhPtt0Exz+xeEvfI/CvpwszLkbfO5JWvVbJjXw6Nx1kWg2DBTMkOqmG23f8W6xezOQLh0n5bbgk0SBQ91uYlUqX0NeqsQoUtIKiY6D0GewkM50bB3gbpIB3zvB6RDvv6MeKy67xpQUG8/bu1mxjmOAeRmA3A2GiDxwCTMCxa3pZg9a8C+FshmI+7j7Mem7LgmeQbWSaLfiCa+JNYRJW3GHjX9PdgyCG5QzygdKHzKlqA3/aVJfrDqSMg3CEf2RD1OSl7XOBpdsmfyO6qh1mp5JbfQL0zrgI2bVgxYVU2cbSa//CdXykFGeeh9jt/6FiIFHJ3plXGZPwn7Z9AzJRLTTV08ye/aOFEgMucsY3+4qtfwyo2V5ID8K2Y95SI5sT2LKgf3hy+dZlHA9KURh60E8hqDUB+U6qY9aKORzWfqQX70occaL2CivGmz4Zy7PwsFbwY+5x0jDxM7RjHIzIEWuv5UZpVVpkS4Bc81tMFhJ67s1CfnL+q1N6v792wlelIYilv1yJmZCQ==;srfzH94ynLDn7O3CTNS09Q=="
 ---

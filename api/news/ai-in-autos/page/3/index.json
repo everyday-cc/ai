@@ -2,6 +2,144 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-22-teslas-self-driving-ambitions-are-further-and-further-away.md",
+      "title": "Tesla’s Self-Driving Ambitions Are Further and Further Away",
+      "excerpt": "After announcing his ambitions to have millions of self-driving Teslas on the ... the tech as “the more data (in this case driving) the artificial intelligence guiding the car is exposed to ...",
+      "sourceUrl": null,
+      "webUrl": "https://jalopnik.com/tesla-s-self-driving-ambitions-are-further-and-further-1850245462",
+      "originalUrl": "https://jalopnik.com/tesla-s-self-driving-ambitions-are-further-and-further-1850245462",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/11b44f8929b7238c7c7add384e26a2f8.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-21T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jalopnik",
+        "domain": "jalopnik.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-cruise-wants-to-test-self-driving-cars-all-over-california.md",
+      "title": "Cruise wants to test self-driving cars all over California",
+      "excerpt": "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/",
+      "originalUrl": "https://www.cbsnews.com/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/21/e1471390-7c0a-4509-a92e-4b502f299e14/thumbnail/1200x630/df5a2ef88b525bb1e94fc02d6fe0e736/ap23079861951135.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/",
+      "publishedDateTime": "2023-03-21T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-the-state-of-self-driving-cars-autonomous-advances.md",
+      "title": "The State of Self-Driving Cars: Autonomous Advances",
+      "excerpt": "Significant advances have been made in the technology that powers self-driving cars in the last decade, but there's still further to go. We dive into the",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/article/2644-the-state-of-self-driving-cars/",
+      "originalUrl": "https://www.techspot.com/article/2644-the-state-of-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/articles-info/2644/images/2023-03-18-image.jpg",
+          "width": 4000,
+          "height": 2666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-19-torontos-ontario-line-will-run-new-electric-driverless-trains-heres-what-theyll-look-like.md",
       "title": "Toronto’s Ontario Line will run new electric, driverless trains. Here’s what they’ll look like",
       "excerpt": "GFG Rail, which is designing the subway’s rolling stock, has revealed renderings for the new electric fleet, which, once operational, will run through downtown Toronto, connecting Exhibition ...",
@@ -1228,153 +1366,6 @@
       "provider": {
         "name": "ExtremeTech",
         "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-driverless-car-market-industry-insights-drivers-top-trends-global-analysis-forecast-and-opportunities-to-2023-2033.md",
-      "title": "Driverless Car Market Industry Insights, Drivers, Top Trends, Global Analysis, Forecast, and Opportunities to 2023-2033",
-      "excerpt": "Driverless Car Market, 2023-2033' to its database of market research collaterals consisting of overall market scenario with prevalent and future growth prospects, among other growth strategies used by key players to stay ahead of the game.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/driverless-car-market-industry-insights-drivers-top-trends-global-analysis-forecast-and-opportunities-to-2023-2033-2023-03-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/driverless-car-market-industry-insights-drivers-top-trends-global-analysis-forecast-and-opportunities-to-2023-2033-2023-03-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T21:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-automotive-artificial-intelligence-ai-market-by-segmentation-includes-type-applications-channel-and-forecast-to-2023-2033.md",
-      "title": "Automotive Artificial Intelligence (AI) Market by Segmentation Includes Type, Applications, Channel, and Forecast to 2023-2033",
-      "excerpt": "Mar 10, 2023 (AmericaNewsHour) -- Key Companies Covered in the Automotive Artificial Intelligence (AI) Market Research Intel Corporationm, Waymo, LLC., IBM Corporation, Microsoft Corporationand other key market players. CRIFAX added a new market research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-by-segmentation-includes-type-applications-channel-and-forecast-to-2023-2033-2023-03-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-by-segmentation-includes-type-applications-channel-and-forecast-to-2023-2033-2023-03-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T16:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-artificial-intelligence-tools-becoming-unavoidable-lawmakers-say.md",
-      "title": "Artificial Intelligence tools becoming ‘unavoidable’, lawmakers say",
-      "excerpt": "The Artificial Intelligence revolution is upon us. Emerging technologies, like chatbots, have become almost unavoidable in recent months. But is Washington ready for this new wave of technological",
-      "sourceUrl": null,
-      "webUrl": "https://www.wkbn.com/news/national-world/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/",
-      "originalUrl": "https://www.wkbn.com/news/national-world/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wkbn.com/wp-content/uploads/sites/48/2023/03/aiphone_012723_gettyimages_chatgpt.jpg?w=1280",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wkbn.com/news/national-world/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/amp/",
-      "cdnAmpWebUrl": "https://www-wkbn-com.cdn.ampproject.org/c/s/www.wkbn.com/news/national-world/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/amp/",
-      "publishedDateTime": "2023-03-09T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WKBN 27 First News",
-        "domain": "wkbn.com",
         "images": null,
         "publishers": null,
         "authors": null

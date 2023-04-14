@@ -56,6 +56,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "A mom thought her daughter had been kidnapped—it was just AI mimicking her voice"
+    excerpt: "As AI advances continue, once expensive and time-consuming feats such as AI vocal imitation are both accessible and affordable."
+    publishedDateTime: 2023-04-14T19:00:00Z
+    webUrl: "https://www.popsci.com/technology/ai-vocal-clone-kidnapping/"
+    ampWebUrl: "https://www.popsci.com/technology/ai-vocal-clone-kidnapping/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-vocal-clone-kidnapping/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 52
+    images:
+      - url: "https://www.popsci.com/uploads/2023/04/14/Depositphotos_79574808_L.jpg?auto=webp"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Another A.I. phone scam- A.I. Clones Girls’s Voice in $1M kidnapping scam."
     excerpt: "Jennifer DeStefano faced a phone call scam, she was told that her daughter had been kidnapped and the scammers demanded $1 million if she wanted her daughter safe. Scammers used A.I. to clone her daughters voice and tricked her."
     publishedDateTime: 2023-04-14T08:55:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-14T19:14:00Z
 originalUrl: "https://www.nydailynews.com/new-york/ny-msg-dolan-should-move-midtown-community-board-20230414-njebklaq5rejld5oikzi462a2y-story.html"
 webUrl: "https://www.nydailynews.com/new-york/ny-msg-dolan-should-move-midtown-community-board-20230414-njebklaq5rejld5oikzi462a2y-story.html"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: New York Daily News

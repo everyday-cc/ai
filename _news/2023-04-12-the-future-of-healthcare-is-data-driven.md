@@ -57,6 +57,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 47
+  - title: "Why Big Food Is Looking To AI To Shape The Future Of Food"
+    excerpt: "This week, French dairy giant Bel Group announced they had entered into a partnership with Climax Foods, an AI-driven food startup founded by former Google head of data science and astrophysicist Oliver Zahn. The collaboration seeks to harness the power of ..."
+    publishedDateTime: 2023-04-14T19:46:00Z
+    webUrl: "https://www.forbes.com/sites/michaelwolf/2023/04/14/why-big-food-is-looking-to-ai-to-shape-the-future-of-food/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "wXPpjP2AYK1y6s06b0QgkO7+bJukp9N7TL7pxWxvLy4Luk5nA2B1PfTpt5EoWVRUeg7/dO6qcRRsOJacqYoNix/6LC62pZcp7mamhOdH93O0t6JeEAlXXnSgpqdDLv0C2HQWnAiTbiwcaqOZ/tUxpMmuA8Pvy3Nm/MIh1Yj2i7MeDjP/PI5QuDVg2sQ18KJtwwMOLQwK/3xDKV8A+K/QZVCbYwpDe+UexekkTzxY4VqnMwDPo7SAX+goiI6zYF+juBn8DS9x0OXDqhh4mTriBgF8TitBH2z4LfuTV1OU4q2q2AzIB/QOVON9F5/Q0SWenoUQ7BbvxSI8G3oo3u72ZVyKHHPB7UIXKKH9fOT3oKs=;2kmoQNrMbka+lnPltylnGg=="
 ---

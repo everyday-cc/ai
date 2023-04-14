@@ -2,6 +2,254 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-04-06-ai-vision-leader-chooch-launches-imagechat.md",
+      "title": "AI Vision Leader Chooch Launches ImageChat™",
+      "excerpt": "By leveraging both AI Vision and large language models, ImageChat significantly improves data reliability and accuracy, making it particularly useful for use cases that require object detection and detailed reasoning.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/04/06/9790646.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/04/06/9790646.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-march-2023-riskalyze-fintech-five.md",
+      "title": "March 2023 Riskalyze Fintech Five",
+      "excerpt": "The Advent of ChatGPT has advisors buzzing, with 33% saying in a recent survey that AI is the \"most disruptive technology trend\" facing our industry today. Fintech providers are rushing to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wealthmanagement.com/technology/march-2023-riskalyze-fintech-five",
+      "originalUrl": "https://www.wealthmanagement.com/technology/march-2023-riskalyze-fintech-five",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WealthManagement.com",
+        "domain": "wealthmanagement.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-qualcomms-cloud-ai-100-bests-nvidias-artificial-intelligence-chip-in-some-test-data.md",
+      "title": "Qualcomm’s ‘Cloud AI 100’ Bests Nvidia’s Artificial Intelligence Chip in Some Test Data",
+      "excerpt": "Cards with Cloud AI 100 chips in a data center server. Image from Qualcomm video Artificial intelligence chips from San Diego’s Qualcomm beat those from Nvidia in two out of three measures of ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofsandiego.com/tech/2023/04/05/qualcomms-cloud-ai-100-beats-nvidias-best-artificial-intelligence-chip-in-new-test-data/",
+      "originalUrl": "https://timesofsandiego.com/tech/2023/04/05/qualcomms-cloud-ai-100-beats-nvidias-best-artificial-intelligence-chip-in-new-test-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://timesofsandiego.com/wp-content/uploads/2023/04/Cloud-AI-100-Server.jpg",
+          "width": 1125,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofsandiego.com/tech/2023/04/05/qualcomms-cloud-ai-100-beats-nvidias-best-artificial-intelligence-chip-in-new-test-data/",
+      "cdnAmpWebUrl": "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/tech/2023/04/05/qualcomms-cloud-ai-100-beats-nvidias-best-artificial-intelligence-chip-in-new-test-data/",
+      "publishedDateTime": "2023-04-05T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times of San Diego",
+        "domain": "timesofsandiego.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-embracing-the-financial-services-innovation-opportunity-of-2023.md",
+      "title": "Embracing the Financial Services Innovation Opportunity of 2023",
+      "excerpt": "As we face economic uncertainty, innovative technology such as AI and machine learning for real-time, data-driven risk decisioning can aid the financial services industry in delivering the right products and services to support customers in their time of  need – and experience growth as a result.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/blogposting/24021/embracing-the-financial-services-innovation-opportunity-of-2023",
+      "originalUrl": "https://www.finextra.com/blogposting/24021/embracing-the-financial-services-innovation-opportunity-of-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T15:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-cutting-a-path-to-success-dallas-startup-launches-eco-friendly-robot-mower-to-tackle-landscaper-labor-shortage.md",
+      "title": "Cutting a Path to Success: Dallas Startup Launches Eco-Friendly Robot Mower to Tackle Landscaper Labor Shortage",
+      "excerpt": "Sensori Robotics has emerged from stealth after three years of R&D pursuing a \"robotic revolution in lawn care.\" Founded by two brothers who grew up tinkering with things in the U.K.—and now live in Texas—Sensori aims to disrupt the landscaping market with its AI-based location methodologies and location-aware robot.",
+      "sourceUrl": null,
+      "webUrl": "https://dallasinnovates.com/cutting-a-path-to-success-dallas-startup-launches-eco-friendly-robot-mower-to-tackle-landscaper-labor-shortage/",
+      "originalUrl": "https://dallasinnovates.com/cutting-a-path-to-success-dallas-startup-launches-eco-friendly-robot-mower-to-tackle-landscaper-labor-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T14:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dallas Innovates",
+        "domain": "dallasinnovates.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-how-ai-machine-learning-are-being-used-by-financial-lenders-in-2023.md",
+      "title": "How AI & Machine Learning Are Being Used By Financial Lenders in 2023",
+      "excerpt": "Artificial Intelligence (AI) and Machine Learning (ML) technologies continue to expand in their applications, uses and benefits for lenders and financial institutions. Because of this maturity and expanded adoption rate,",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/how-ai-machine-learning-are-being-used-by-financial-lenders-in-2023/",
+      "originalUrl": "https://www.unite.ai/how-ai-machine-learning-are-being-used-by-financial-lenders-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-ibm-watsons-golf-commentary-sucks.md",
+      "title": "IBM Watson's Golf Commentary Sucks",
+      "excerpt": "IBM Watson will be providing commentary for the Masters' app and Masters.com. According to the official press release, \"the AI commentary solution will produce detailed golf narration for more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thebiglead.com/posts/ibm-watson-golf-commentary-sucks-01gx97c6jc06",
+      "originalUrl": "https://www.thebiglead.com/posts/ibm-watson-golf-commentary-sucks-01gx97c6jc06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Big Lead",
+        "domain": "thebiglead.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-06-google-reveals-its-newest-ai-supercomputer-says-it-beats-nvidia.md",
       "title": "Google reveals its newest A.I. supercomputer, says it beats Nvidia",
       "excerpt": "While Nvidia dominates the market for AI model training and deployment, with over 90%, Google has been designing and deploying a chip, called Tensor Processing Unit, for artificial intelligence ...",
@@ -570,8 +818,8 @@
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?755212",
-          "width": 355,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?296120",
+          "width": 374,
           "height": 250,
           "title": null,
           "attribution": null,
@@ -665,244 +913,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-allen-lane-signs-deepmind-professors-book-on-being-human-in-the-coming-ai-age.md",
-      "title": "Allen Lane signs DeepMind professor’s book on being human in the 'coming AI age'",
-      "excerpt": "Allen Lane has snapped up The Atomic Human by Neil Lawrence, the inaugural DeepMind professor of machine learning at the University of Cambridge. Keith Mansfield, commissioning editor at Penguin ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thebookseller.com/rights/allen-lane-signs-deepmind-professors-book-on-being-human-in-the-coming-ai-age",
-      "originalUrl": "https://www.thebookseller.com/rights/allen-lane-signs-deepmind-professors-book-on-being-human-in-the-coming-ai-age",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bookseller",
-        "domain": "thebookseller.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-researchers-develop-new-sensors-that-can-control-robots-through-brain.md",
-      "title": "Researchers Develop New Sensors that Can Control Robots Through Brain",
-      "excerpt": "A recent study contributed to the idea that machines can be directly controlled by the human brain via new sensors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.phoneworld.com.pk/researchers-develop-new-sensors-that-can-control-robots-through-brain/",
-      "originalUrl": "https://www.phoneworld.com.pk/researchers-develop-new-sensors-that-can-control-robots-through-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T00:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "phoneworld.com.pk",
-        "domain": "phoneworld.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-european-ai-start-ups-race-to-improve-chatbots-language-skills.md",
-      "title": "European AI start-ups race to improve chatbots’ language skills",
-      "excerpt": "Companies aim to improve response quality after criticism of reliance on small group of mostly US participants",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/563256d4-67b2-465e-b219-52d0f91684ef",
-      "originalUrl": "https://www.ft.com/content/563256d4-67b2-465e-b219-52d0f91684ef",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T22:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-from-science-fiction-to-reality-autonomous-vehicles-powered-by-ai-and-government-investment.md",
-      "title": "From Science Fiction To Reality: Autonomous Vehicles Powered By AI And Government Investment",
-      "excerpt": "The growth is attributed to advancements in artificial intelligence and machine learning ... as well as developments in the field of autonomous vehicles by major players like Waymo, General Motors, and Ford. General Motors' recent announcement of its ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105946611/From-Science-Fiction-To-Reality-Autonomous-Vehicles-Powered-By-AI-And-Government-Investment",
-      "originalUrl": "https://menafn.com/1105946611/From-Science-Fiction-To-Reality-Autonomous-Vehicles-Powered-By-AI-And-Government-Investment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T22:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-ai-in-computer-vision-market-scope-on-going-trends-industry-revenue-future-prospect-and-regional-outlook-2023-2033.md",
-      "title": "AI In Computer Vision Market Scope- On-Going Trends, Industry Revenue, Future Prospect, And Regional Outlook 2023-2033",
-      "excerpt": "Key Companies Covered in the<br />AI in Computer Vision Market Research  NVIDIA Corporation (U.S.), Intel Corporation (U.S.), Microsoft Corp",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105948411/AI-In-Computer-Vision-Market-Scope-On-Going-Trends-Industry-Revenue-Future-Prospect-And-Regional-Outlook-2023-2033",
-      "originalUrl": "https://menafn.com/1105948411/AI-In-Computer-Vision-Market-Scope-On-Going-Trends-Industry-Revenue-Future-Prospect-And-Regional-Outlook-2023-2033",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-san-francisco-set-to-become-1st-us-city-with-two-robotaxis.md",
-      "title": "San Francisco set to become 1st US city with two robotaxis?",
-      "excerpt": "The effort to unleash dueling driverless services throughout San Francisco is shaping up to be the first step in an ambitious expansion centered in California.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/car-bike/san-francisco-set-to-become-1st-us-city-with-two-robotaxis-101680670522451.html",
-      "originalUrl": "https://www.hindustantimes.com/car-bike/san-francisco-set-to-become-1st-us-city-with-two-robotaxis-101680670522451.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-qlik-automl-augments-human-instinct-with-precise-machine-intelligence.md",
-      "title": "Qlik AutoML augments human instinct with precise machine intelligence",
-      "excerpt": "Qlik’s AutoML functionality democratises the use of advanced analytics by simplifying the process of building and deploying machine-learning models.",
-      "sourceUrl": null,
-      "webUrl": "https://techcentral.co.za/qlik-automl-augments-human-instinct-with-precise-machine-intelligence-insprom/224128/",
-      "originalUrl": "https://techcentral.co.za/qlik-automl-augments-human-instinct-with-precise-machine-intelligence-insprom/224128/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T21:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCentral",
-        "domain": "techcentral.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

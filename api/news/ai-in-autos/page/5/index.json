@@ -2,6 +2,162 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-03-02-alphabets-self-driving-car-unit-has-cut-8-of-its-staff-this-year.md",
+      "title": "Alphabet’s self-driving car unit has cut 8% of its staff this year",
+      "excerpt": "Waymo, the self-driving car division of Google's parent company Alphabet, said on Wednesday that it has cut approximately 8% of its staff across two rounds of layoffs this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/03/01/tech/waymo-layoffs/index.html",
+      "originalUrl": "https://www.cnn.com/2023/03/01/tech/waymo-layoffs/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230301160548-waymo-file-2018-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/03/01/tech/waymo-layoffs/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/03/01/tech/waymo-layoffs/index.html",
+      "publishedDateTime": "2023-03-01T14:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-waymo-cuts-jobs-as-parent-company-alphabet-focuses-on-ai.md",
+      "title": "Waymo Cuts Jobs as Parent Company Alphabet Focuses on AI",
+      "excerpt": "Waymo, Alphabet Inc.’s driverless-vehicle unit, cut dozens of jobs as its parent company moves to control spending and focus more tightly on artificial intelligence. Waymo confirmed the staff ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-03-01/waymo-cuts-jobs-as-parent-company-alphabet-focuses-on-ai",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-03-01/waymo-cuts-jobs-as-parent-company-alphabet-focuses-on-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4su8sJ8f2ho/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T12:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-01-alibaba-iqiyi-or-baidu-which-has-the-best-growth.md",
+      "title": "Alibaba, iQiyi, or Baidu: Which Has the Best Growth?",
+      "excerpt": "That represents almost half of its market capitalization. The margin of safety is large for BIDU stock. Baidu is developing self-driving and AI. It is the dominant search engine in China. iQiyi is a Chinese online video platform. It reported average daily ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/alibaba-iqiyi-or-baidu-which-has-the-best-growth-2023-03-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/alibaba-iqiyi-or-baidu-which-has-the-best-growth-2023-03-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T05:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-28-self-driving-car-technology-market-size-growing-demand-and-trends-2023-to-2030-toyota-bmw-volvo.md",
       "title": "Self-driving Car Technology Market Size, Growing Demand and Trends 2023 to 2030 | Toyota, BMW, Volvo",
       "excerpt": "The Self-driving Car Technology Market is expected to grow at a CAGR of 8.0% during the forecast period 2023-2030. Download Free Sample Self-driving Car Technology Market report  Top key players: Toyota,",
@@ -1311,126 +1467,6 @@
       "provider": {
         "name": "Dataquest",
         "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-artificial-intelligence-in-fashion.md",
-      "title": "Artificial Intelligence In Fashion",
-      "excerpt": "As an AI enthusiast, I can tell you that artificial intelligence is quickly becoming a game-changer in the fashion industry. From design to marketing and sales, AI is affecting everything and offering businesses new opportunities to streamline their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2023/02/21/artificial-intelligence-in-fashion/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2023/02/21/artificial-intelligence-in-fashion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/02/21/artificial-intelligence-in-fashion/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/02/21/artificial-intelligence-in-fashion/amp/",
-      "publishedDateTime": "2023-02-21T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-5-of-the-best-online-artificial-intelligence-courses-available-for-free-this-week.md",
-      "title": "5 of the best online artificial intelligence courses available for free this week",
-      "excerpt": "All products featured here are independently selected by our editors and writers. If you buy something through links on our site, Mashable may earn an affiliate commission. FREE COURSES ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/uk/deals/free-online-artificial-intelligence-courses",
-      "originalUrl": "https://mashable.com/uk/deals/free-online-artificial-intelligence-courses",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/00Wht1AXFtkt7aWPDRqCK1t/hero-image.fill.size_1200x675.v1676893321.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-20T22:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-youliancloud-officially-accesses-baidu-ernie-bot-driving-the-development-of-financial-aigc.md",
-      "title": "YouLianCloud Officially Accesses Baidu ERNIE Bot, Driving the Development of Financial AIGC",
-      "excerpt": "SHANGHAI, Feb. 20, 2023 /PRNewswire/ -- On February 14, 2023, YouLianCloud announced to be the first batch of early experience officers of ERNIE Bot. Subsequently, YouLianCloud will fully ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20230220cn19992/youliancloud-officially-accesses-baidu-ernie-bot-driving-the-development-of-financial-aigc",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20230220cn19992/youliancloud-officially-accesses-baidu-ernie-bot-driving-the-development-of-financial-aigc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-20T19:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null

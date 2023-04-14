@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-15-elon-musk-is-rumored-to-be-starting-new-ai-startup-after-saying-tesla-would-play-a-role-in-agi.md",
+      "title": "Elon Musk is rumored to be starting new AI startup after saying Tesla would play a role in AGI",
+      "excerpt": "Elon Musk is rumored to be starting a new AI startup to compete with OpenAI after he left the organization, which he co-founded, supposedly because of a conflict of interest with Tesla’s own artificial intelligence effort. Now it sounds like he is funding a startup that could compete with Tesla, based on his latest comments.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2023/04/14/elon-musk-rumoredstarting-new-ai-startup-after-saying-tesla-would-play-role-agi/",
+      "originalUrl": "https://electrek.co/2023/04/14/elon-musk-rumoredstarting-new-ai-startup-after-saying-tesla-would-play-role-agi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/03/elon-tesla-bot-meme.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-whats-slowing-down-self-driving-car-technology.md",
+      "title": "What’s Slowing Down Self-Driving Car Technology?",
+      "excerpt": "Car and tech companies have promised for years that fully self-driving cars were just around the corner. But experts say the technology is far from where it nee",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/video/series/tech-news-briefing/whats-slowing-down-self-driving-car-technology/27D24413-3882-4A81-9AE0-16F3A2896A97",
+      "originalUrl": "https://www.wsj.com/video/series/tech-news-briefing/whats-slowing-down-self-driving-car-technology/27D24413-3882-4A81-9AE0-16F3A2896A97",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://images.wsj.net/im-763796?width=1280&height=720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-self-driving-vehicles-market-future-investments-and-forecast-till-2028.md",
+      "title": "Self-driving Vehicles Market Future Investments and Forecast Till 2028",
+      "excerpt": "The research report on the Self-driving Vehicles Market presents an efficient industry perspective, future patterns,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-vehicles-market-future-investments-and-forecast-till-2028-2023-04-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-vehicles-market-future-investments-and-forecast-till-2028-2023-04-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-09-washington-vows-to-tackle-ai-as-tech-titans-and-critics-descend.md",
       "title": "Washington vows to tackle AI, as tech titans and critics descend",
       "excerpt": "Tristan Harris, a tech ethicist well-known among lawmakers for ringing the alarm about the harmful effects of social networks, was now arguing that artificial intelligence represents a potentially ...",
@@ -1035,118 +1191,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-artificial-intelligence-in-the-transportation-market-scenario-gross-margin-regional-demand-and-forecast-to-2031.md",
-      "title": "Artificial Intelligence in the Transportation Market Scenario, Gross Margin, Regional Demand and Forecast to 2031",
-      "excerpt": "The global artificial intelligence in the transportation market size was US$ 1.45 billion in 2020. The global artificial intelligence in the transportation market is forecast to reach the value of US$ 17.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-transportation-market-scenario-gross-margin-regional-demand-and-forecast-to-2031-2023-04-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-transportation-market-scenario-gross-margin-regional-demand-and-forecast-to-2031-2023-04-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-03T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-a-brief-history-of-artificial-intelligence.md",
-      "title": "A brief history of artificial intelligence",
-      "excerpt": "Explore the history of artificial intelligence, from Alan Turing's Turing Test to the latest breakthroughs in machine learning and natural language processing.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/a-brief-history-of-artificial-intelligence",
-      "originalUrl": "https://cointelegraph.com/news/a-brief-history-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-02T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-02-a-brief-history-of-artificial-intelligence.md",
-      "title": "A brief history of artificial intelligence",
-      "excerpt": "Multiple factors have driven the development of artificial intelligence (AI) over the years. The ability to swiftly and effectively collect and analyze enormous amounts of data has been made ...",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/a-brief-history-of-artificial-intelligence",
-      "originalUrl": "https://cointelegraph.com/news/a-brief-history-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

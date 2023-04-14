@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-14T18:32:00Z
 originalUrl: "https://www.bdcnetwork.com/jlls-data-center-outlook-cloud-computing-ai-driving-exponential-growth-data-center-industry"
 webUrl: "https://www.bdcnetwork.com/jlls-data-center-outlook-cloud-computing-ai-driving-exponential-growth-data-center-industry"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: Bdcnetwork.com

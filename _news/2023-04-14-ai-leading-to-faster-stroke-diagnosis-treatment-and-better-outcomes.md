@@ -50,7 +50,7 @@ related:
     provider:
       name: The National Law Review
       domain: natlawreview.com
-    quality: 33
+    quality: 35
     images:
       - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
         width: 1426

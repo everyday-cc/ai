@@ -59,6 +59,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "The mounting human and environmental costs of generative AI"
+    excerpt: "Downsides include the environmental toll of mining rare minerals, the human costs of the labor-intensive process of data annotation, and the escalating financial investment required to train AI models as they incorporate more parameters."
+    publishedDateTime: 2023-04-12T11:00:00Z
+    webUrl: "https://arstechnica.com/gadgets/2023/04/generative-ai-is-cool-but-lets-not-forget-its-human-and-environmental-costs/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 49
   - title: "Deloitte establishes new practice to help enterprises deploy generative AI"
     excerpt: "The information technology consulting firm Deloitte Touche Tohmatsu Ltd. said today it’s establishing a new practice aimed at helping enterprises take advantage of the industry’s hottest trend right now: generative artificial intelligence."
     publishedDateTime: 2023-04-14T00:48:00Z

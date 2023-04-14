@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-14T17:41:00Z
 originalUrl: "https://www.benzinga.com/news/23/04/31811289/biden-administration-considering-stronger-ai-safety-measures"
 webUrl: "https://www.benzinga.com/news/23/04/31811289/biden-administration-considering-stronger-ai-safety-measures"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Benzinga.com

@@ -28,19 +28,14 @@ images:
 
 related:
   - title: "Machine Learning IDs Factors Predicting Risk for Sleep Disorder Diagnosis"
-    excerpt: "FRIDAY, April 14, 2023 (HealthDay News) -- Machine learning models can effectively predict risk for a sleep disorder using demographic, laboratory, physical exam, and lifestyle covariates, according to a study published online April 12 in PLOS ONE."
-    publishedDateTime: 2023-04-14T17:13:00Z
-    webUrl: "https://tucson.com/lifestyles/health-med-fit/machine-learning-ids-factors-predicting-risk-for-sleep-disorder-diagnosis/article_7e5464c1-e389-503a-ac83-b83c648e1b69.html"
+    excerpt: "Machine learning models can effectively predict risk for a sleep disorder using demographic, laboratory, physical exam, and lifestyle covariates, according to a study"
+    publishedDateTime: 2023-04-14T17:17:00Z
+    webUrl: "https://omaha.com/lifestyles/health-med-fit/machine-learning-ids-factors-predicting-risk-for-sleep-disorder-diagnosis/article_09b54171-2d7c-5e53-b449-ebf6e1daf3eb.html"
     type: article
     provider:
-      name: Arizona Daily Star
-      domain: tucson.com
-    quality: 38
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/0/0c/00c31395-133d-55ae-b9ca-8f3e10434896/643986c0eee3f.image.jpg?crop=600%2C338%2C0%2C31&resize=600%2C338&order=crop%2Cresize"
-        width: 600
-        height: 338
-        isCached: true
+      name: Omaha.com
+      domain: omaha.com
+    quality: 18
   - title: "Machine learning methods may be effective in screening patients for sleep disorder risk"
     excerpt: "A machine learning model can effectively predict a patient's risk for a sleep disorder using demographic and lifestyle data, physical exam results and laboratory values, according to a new study published this week in the open-access journal PLOS ONE by Samuel Y."
     publishedDateTime: 2023-04-13T17:31:00Z

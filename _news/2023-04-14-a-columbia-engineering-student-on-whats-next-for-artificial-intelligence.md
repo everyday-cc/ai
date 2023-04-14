@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-14T12:00:00Z
 originalUrl: "https://news.columbia.edu/news/columbia-engineering-student-whats-next-artificial-intelligence"
 webUrl: "https://news.columbia.edu/news/columbia-engineering-student-whats-next-artificial-intelligence"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: The Earth Institute Columbia University

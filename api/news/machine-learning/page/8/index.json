@@ -2,6 +2,93 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-02-08-deep-learning-for-quantum-sensing.md",
+      "title": "Deep learning for quantum sensing",
+      "excerpt": "More information: Valeria Cimini et al, Deep reinforcement learning for quantum multiparameter estimation, Advanced Photonics (2023). DOI: 10.1117/1.AP.5.1.016005",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-02-deep-quantum.html",
+      "originalUrl": "https://phys.org/news/2023-02-deep-quantum.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/deep-learning-for-quan.jpg",
+          "width": 920,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-02-deep-quantum.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-deep-quantum.amp",
+      "publishedDateTime": "2023-02-07T13:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-using-deep-learning-to-detect-depression-from-speech.md",
+      "title": "Using deep learning to detect depression from speech",
+      "excerpt": "Artificial intelligence (AI) tools have achieved promising results on numerous tasks and could soon assist professionals in various settings. In recent years, computer scientists have been exploring the potential of these tools for detecting signs of different physical and psychiatric conditions.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-02-deep-depression-speech.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-02-deep-depression-speech.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/using-deep-learning-to.jpg",
+          "width": 1142,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-02-deep-depression-speech.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-02-deep-depression-speech.amp",
+      "publishedDateTime": "2023-02-07T06:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-mindsdb-raises-165m-from-benchmark-to-put-machine-learning-into-more-applications.md",
       "title": "MindsDB Raises $16.5M from Benchmark to put machine learning into more applications",
       "excerpt": "MindsDB, the most widely used open source applied machine learning (ML) platform in the world, today announced a $16.5M Series A investment from Benchmark. MindsDB was built to dramatically speed up the process of building AI powered applications.",
@@ -1176,102 +1263,6 @@
         "AI in Finance",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-02-deep-learning-filter-improves-precision-of-cell-mutation-detection-accuracy-of-cancer-diagnoses.md",
-      "title": "Deep-learning filter improves precision of cell mutation detection, accuracy of cancer diagnoses",
-      "excerpt": "Next-generation cancer strategies rely on next-generation gene sequencing (NGS), which paves the way for new techniques and tools to detect mutations and determine patient therapy. A team of Chinese researchers proposed a more effective strategy to filter false positives results,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/978340",
-      "originalUrl": "https://www.eurekalert.org/news-releases/978340",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/54ce8c73-813e-47ac-9880-22d17e16fdc5/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 387,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-01T18:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-02-global-deep-learning-courses-for-nlp-market-2023-2027-new-report-for-a-sustainable-future-forecast-report-by-106-pages-research.md",
-      "title": "Global Deep Learning Courses for NLP Market 2023-2027 (New Report) for a Sustainable Future | Forecast Report by 106 Pages Research",
-      "excerpt": "Deep Learning Courses for NLP market report investigates new project feasibility with the purpose of enlightening new entrants about the possibilities in this market. In this report, thorough SWOT analysis and investment analysis are provided which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-courses-for-nlp-market-2023-2027-new-report-for-a-sustainable-future-forecast-report-by-106-pages-research-2023-02-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-courses-for-nlp-market-2023-2027-new-report-for-a-sustainable-future-forecast-report-by-106-pages-research-2023-02-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-01T14:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

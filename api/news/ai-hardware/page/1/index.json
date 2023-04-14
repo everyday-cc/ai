@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-15-ai-frenzy-puts-chips-back-onto-the-menu-buy-the-tech-behind-revolution.md",
+      "title": "AI frenzy puts chips back onto the menu: Buy the tech behind revolution",
+      "excerpt": "Chetan Sehgal, the trust's co-manager, contends that companies of all types will be clamouring for chips. He says: 'AI is a growth driver for the semi-conductor industry. Demand for ever more powerful semi-conductors could increase dramatically in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisismoney.co.uk/money/investing/article-11974189/AI-frenzy-puts-chips-menu-Buy-tech-revolution.html?mrn_rm=rta",
+      "originalUrl": "https://www.thisismoney.co.uk/money/investing/article-11974189/AI-frenzy-puts-chips-menu-Buy-tech-revolution.html?mrn_rm=rta",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2023/04/14/20/69846491-0-image-a-72_1681502145335.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thisismoney.co.uk/money/investing/article-11974189/amp/AI-frenzy-puts-chips-menu-Buy-tech-revolution.html",
+      "cdnAmpWebUrl": "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/investing/article-11974189/amp/AI-frenzy-puts-chips-menu-Buy-tech-revolution.html",
+      "publishedDateTime": "2023-04-14T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This is Money",
+        "domain": "thisismoney.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-14-nvidias-top-ai-chips-are-selling-for-more-than-40000-on-ebay.md",
       "title": "Nvidia's top A.I. chips are selling for more than $40,000 on eBay",
       "excerpt": "The H100, Nvidia's latest flagship AI chip, was announced last year and is currently being shipped to data centers.",
@@ -105,7 +148,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-by-2030-future-scope-and-predictions-2023-04-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -276,6 +319,58 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-04-08-qualcomm-nvidia-spar-for-top-spot-in-ai-chip-efficiency-tests.md",
+      "title": "Qualcomm, Nvidia spar for top spot in AI chip efficiency tests",
+      "excerpt": "Analysts believe that the market for data center inference chips will grow quickly as businesses put AI technologies into their products, but companies such as Alphabet Inc's (GOOGL.O) Google are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/qualcomm-nvidia-spar-top-spot-ai-chip-efficiency-tests-2023-04-05/",
+      "originalUrl": "https://www.reuters.com/technology/qualcomm-nvidia-spar-top-spot-ai-chip-efficiency-tests-2023-04-05/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/nw8NV9fGtMpdO-apNxB9b8XrnMo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YFEMUBDHVROMXP4EK3GFP7CKPQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1277,101 +1372,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-26-cryptocurrencies-add-nothing-useful-to-society-says-chip-maker-nvidia.md",
-      "title": "Cryptocurrencies add nothing useful to society, says chip-maker Nvidia",
-      "excerpt": "Tech chief says the development of chatbots is a more worthwhile use of processing power than crypto mining",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining?ref=upstract.com",
-      "originalUrl": "https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/c1d4d5e50b04a1580bdaa1145b2dec10d47b8496/0_217_6520_3912/master/6520.jpg?width=620&quality=85&auto=format&fit=max&s=78bd8b0dece950e337e76dbba5a347a4",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining",
-      "publishedDateTime": "2023-03-26T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-chinas-ai-ambitions-hindered-by-funding-and-chip-import-issues.md",
-      "title": "China’s AI ambitions hindered by funding and chip import issues",
-      "excerpt": "China’s tech giants are facing significant hurdles in their race to develop and dominate the artificial intelligence (AI) market, with censorship and a US clampdown on chip imports impeding progress. Last week, Baidu, one of China’s leading search ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/03/25/china-ai-ambitions-funding-chip-import-issues/",
-      "originalUrl": "https://www.gizmochina.com/2023/03/25/china-ai-ambitions-funding-chip-import-issues/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-24T23:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

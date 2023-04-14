@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "What’s Slowing Down Self-Driving Car Technology?"
+    excerpt: "Car and tech companies have promised for years that fully self-driving cars were just around the corner. But experts say the technology is far from where it nee"
+    publishedDateTime: 2023-04-14T14:32:00Z
+    webUrl: "https://www.wsj.com/video/series/tech-news-briefing/whats-slowing-down-self-driving-car-technology/27D24413-3882-4A81-9AE0-16F3A2896A97"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 54
+    images:
+      - url: "http://images.wsj.net/im-763796?width=1280&height=720"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "When Will Cars Be Fully Self-Driving?"
     excerpt: "The technology isn’t anywhere near where it needs to be to replace human drivers. Three experts weigh in on what the future holds for autonomous vehicles."
     publishedDateTime: 2023-04-10T12:00:00Z
@@ -30,15 +44,36 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 34
-  - title: "Who’s liable in a ‘self-driving’ car crash?"
-    excerpt: "CLEVELAND—Police officers can often identify which driver is responsible for a traffic accident. But what about when a self-driving vehicle is involved? Which driver should be liable for that? The question is increasingly relevant as “partially ..."
-    publishedDateTime: 2023-04-10T23:59:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/985695"
+  - title: "You wouldn’t fly in a plane that had no humans in the cockpit -same with self-driving cars"
+    excerpt: "BRITAIN has become the first country in Europe to legalise hands-free, self-driving cars. The technology has been fitted as ­standard to Ford’s new Mustang Mach E for some time, but at midnight on Wednesday it became “live”. So now you just pay £17 ..."
+    publishedDateTime: 2023-04-14T21:37:00Z
+    webUrl: "https://www.thesun.co.uk/news/22047181/jeremy-clarkson-fly-pilotless-plane-self-driving-car/"
+    ampWebUrl: "https://www.thesun.co.uk/news/22047181/jeremy-clarkson-fly-pilotless-plane-self-driving-car/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/22047181/jeremy-clarkson-fly-pilotless-plane-self-driving-car/amp/"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 4
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 34
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/04/Behind_The_Wheel_Hyundai_Ioniq_5_vs_Ford_Mustang_Mach-E_10696-a20a6jpg-JS808013532.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Watch What Happens When a Self-Driving Car Clogs Up San Francisco Streets"
+    excerpt: "San Francisco is the epicenter of self-driving car testing and development, with dozens of robotaxis roaming the roads. Manufactures want more taxis with more area and more drive time, but the technology isn’t perfect,"
+    publishedDateTime: 2023-04-10T17:40:00Z
+    webUrl: "https://jalopnik.com/dashcam-shows-waymo-autonomous-cars-clogging-streets-1850319472"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 23
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b57a3b83b2bce645c445525d5973f978.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "GHRZ1lNTOMFCUIrCbZMTKFEwm+ThieAI95ZmuFp0ICxmWhLgPkD4TR0G/ZbyKR0xJZSr2v4oSsHYgFrXUT0wPPQeLmaqknGrK6iWUl8gDp68HqOmwbB5dEBU1UZTx5jrd3qQG+vw1nwzcpWNlHCo1rfZ6FUqrHtFKte5ZtqP4YAGYWDgWLOy9djM+27WvzcSJwXfdwxYQUMW20RKK29rotqjL2qH4D7/aaEemP7yV5VuyxNyk3CgdxnRovQMb5ohrOpp+pi4rynOEdEx+imNuvagCtWZmiflndLVH5uEAzabtAuw4DeoQSafX24PrtKMxn2vGLFygJhFMkA5ugmu4K5LaUj+InoaBf57SS4c/ojKFkQXFxkY9Er5Wlq/xB4FXiT4Cv/9TrjozRXGTJYRaFFmfK6q8KCy78H4LFZtXEkIG0Al6lWIvzuicwB8gyr+0sBNuTySrmoNJuWukZyDWcLCJwtFMQJaj/P10HKVarH/+Mp7eHp7ftcCxb46lYL69k2ouFydJJbtFuoUkL41EA==;9IM+6vlNpCI0G+wCKcJWaA=="
 ---

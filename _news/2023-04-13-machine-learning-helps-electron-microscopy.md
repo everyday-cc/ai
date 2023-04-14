@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T00:00:00Z
 originalUrl: "https://hackaday.com/2023/04/03/machine-learning-helps-electron-microscopy/"
 webUrl: "https://hackaday.com/2023/04/03/machine-learning-helps-electron-microscopy/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Hackaday

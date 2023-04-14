@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-14T19:03:00Z
 originalUrl: "https://www.forbes.com/sites/ariannajohnson/2023/04/14/youre-already-using-ai-heres-where-its-at-in-everyday-life-from-facial-recognition-to-navigation-apps/"
 webUrl: "https://www.forbes.com/sites/ariannajohnson/2023/04/14/youre-already-using-ai-heres-where-its-at-in-everyday-life-from-facial-recognition-to-navigation-apps/"
 type: article
+quality: 48
+heat: 48
+published: false
 
 provider:
   name: Forbes

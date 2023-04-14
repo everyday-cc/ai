@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-14T19:28:00Z
 originalUrl: "https://www.cnn.com/2023/04/14/world/sharp-black-hole-image-scn/index.html"
 webUrl: "https://www.cnn.com/2023/04/14/world/sharp-black-hole-image-scn/index.html"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: CNN

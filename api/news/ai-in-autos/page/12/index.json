@@ -2,6 +2,145 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-01-20-musk-oversaw-staged-tesla-self-driving-video-emails-show.md",
+      "title": "Musk oversaw staged Tesla self-driving video, emails show",
+      "excerpt": "If there was any doubt that Tesla CEO Elon Musk knew the company's much-watched 2016 self-driving demo was staged, emails obtained by Bloomberg should lay that to rest. \"Just want to be absolutely clear that everyone’s top priority is achieving an amazing Autopilot demo drive,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/",
+      "originalUrl": "https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/GettyImages-1233956223-800x533.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/amp/",
+      "publishedDateTime": "2023-01-20T07:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-davos-using-ai-without-human-oversight-is-downright-dangerous.md",
+      "title": "Davos: Using AI without human oversight is ‘downright dangerous’",
+      "excerpt": "A Davos World Economic Forum session hears that using AI without human input comes with risks. This is something HR should consider.",
+      "sourceUrl": null,
+      "webUrl": "https://www.personneltoday.com/hr/ai-human-input-davos-2023/",
+      "originalUrl": "https://www.personneltoday.com/hr/ai-human-input-davos-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.personneltoday.com/wp-content/uploads/sites/8/2023/01/2H4NPWN-1.jpeg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-20T07:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Personnel Today",
+        "domain": "personneltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-artificial-intelligence-is-coming-for-human-creativity.md",
+      "title": "Artificial Intelligence Is Coming for Human Creativity",
+      "excerpt": "Second, the development of artificial intelligence poses a challenge to our claims to creative uniqueness. With the defeat of Garry Kasparov by Big Blue in 1997, many people lost interest in chess ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/Is%20AI%20coming%20for%20Creativity%2C%203%2C%20Joseph%20Ayerle.jpg?itok=clf3nLZg",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp",
+      "publishedDateTime": "2023-01-20T05:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-01-19-how-grenoble-has-mastered-industryacademia-science-collaborations.md",
       "title": "How Grenoble has mastered industry–academia science collaborations",
       "excerpt": "Despite its small size, the French city’s long history of science and business means it punches above its weight in scientific output.",
@@ -1212,136 +1351,6 @@
       "provider": {
         "name": "Digi Times",
         "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-the-3-types-of-artificial-intelligence-and-top-companies-leading-the-ai-revolution.md",
-      "title": "The 3 Types of Artificial Intelligence and Top Companies Leading the AI Revolution",
-      "excerpt": "In this week’s World Reimagined, we will look at the rapidly evolving world of Artificial Intelligence (AI), some of its players, and what companies are poised to gain from a pivotal year where AI hits center stage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-3-types-of-artificial-intelligence-and-top-companies-leading-the-ai-revolution",
-      "originalUrl": "https://www.nasdaq.com/articles/the-3-types-of-artificial-intelligence-and-top-companies-leading-the-ai-revolution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/the-3-types-of-artificial-intelligence-and-top-companies-leading-the-ai-revolution?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-3-types-of-artificial-intelligence-and-top-companies-leading-the-ai-revolution?amp",
-      "publishedDateTime": "2023-01-13T06:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-artificial-intelligence-ai-has-revolutionized-how-we-approach-mobile-app-development.md",
-      "title": "Artificial intelligence (AI) has revolutionized how we approach mobile app development",
-      "excerpt": "Artificial intelligence (AI) has revolutionized how we approach mobile app development. It can enhance user experience, improve functionality, and increase efficiency in previously unimaginable ways.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-has-revolutionized-how-we-approach-mobile-app-development-2023-01-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-has-revolutionized-how-we-approach-mobile-app-development-2023-01-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-13T04:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-artificial-intelligence-ai-infrastructure.md",
-      "title": "Artificial Intelligence (AI) Infrastructure...",
-      "excerpt": "BRISBANE, Australia, Jan. 13, 2023 /PRNewswire/ -- Data Bridge Market Research has recently published a report, titled, \"Artificial Intelligence (AI) Infrastructure Market\" The report offers an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/01/n30403404/artificial-intelligence-ai-infrastructure-market-is-prospering-at-usd-422-55-billion-with-expected",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/n30403404/artificial-intelligence-ai-infrastructure-market-is-prospering-at-usd-422-55-billion-with-expected",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
-          "width": 800,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30403404",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30403404",
-      "publishedDateTime": "2023-01-12T19:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

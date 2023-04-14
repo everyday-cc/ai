@@ -2,29 +2,29 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-04-14-reinventing-financial-services-with-next-gen-ai.md",
-      "title": "Reinventing financial services with next-gen AI",
-      "excerpt": "As part of a surging embrace of AI, financial services companies are joining others developing next-gen autonomous, cloud-based assistants.",
+      "path": "_news/2023-04-10-machine-learning-as-a-service-mlaas-market-forecasts-2023-2029.md",
+      "title": "Machine Learning-as-a-Service (MLaaS) Market Forecasts 2023-2029",
+      "excerpt": "There are many different sources of market data, including government statistics, industry reports, financial news, and market research firms. Some of the key types of data that are available from the global Machine Learning-as-a-Service (MLaaS ...",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/reinventing-financial-services-with-next-gen-ai/",
-      "originalUrl": "https://venturebeat.com/ai/reinventing-financial-services-with-next-gen-ai/",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-forecasts-2023-2029-2023-04-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-forecasts-2023-2029-2023-04-09",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 76,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T13:20:00-07:00",
+      "publishedDateTime": "2023-04-10T02:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -42,8 +42,7 @@
       "topics": [
         "AI in Finance",
         "AI",
-        "Microsoft AI",
-        "Natural Language Processing"
+        "Machine Learning"
       ]
     },
     {

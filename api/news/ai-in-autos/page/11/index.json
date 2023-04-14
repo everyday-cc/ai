@@ -2,6 +2,148 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-01-27-ut-will-launch-online-masters-program-in-artificial-intelligence.md",
+      "title": "UT will launch online master’s program in artificial intelligence",
+      "excerpt": "AUSTIN (KXAN) — For the first time ever, people may be able to pursue a master’s degree in artificial intelligence online at the University of Texas at Austin. The university shared in a news ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxan.com/news/education/ut-will-launch-online-masters-program-in-artificial-intelligence/",
+      "originalUrl": "https://www.kxan.com/news/education/ut-will-launch-online-masters-program-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2016/07/ut-austin_37219191_ver1.0.jpg?w=1280",
+          "width": 1280,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kxan.com/news/education/ut-will-launch-online-masters-program-in-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/education/ut-will-launch-online-masters-program-in-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-01-26T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXAN",
+        "domain": "kxan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-an-oregon-school-district-turns-to-artificial-intelligence-to-beef-up-campus-security.md",
+      "title": "An Oregon school district turns to artificial intelligence to beef up campus security",
+      "excerpt": "A Klamath Falls school district is using artificial intelligence to try to prevent future school shootings. Klamath Falls City Schools is partnering with Pennsylvania-based ZeroEyes, whose AI technology will be linked with the district’s existing network ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.oregonlive.com/education/2023/01/an-oregon-school-district-turns-to-artificial-intelligence-to-beef-up-campus-security.html",
+      "originalUrl": "https://www.oregonlive.com/education/2023/01/an-oregon-school-district-turns-to-artificial-intelligence-to-beef-up-campus-security.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XWUW53UBSZCWTILTHPC3NLOC64.png",
+          "width": 1554,
+          "height": 992,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.oregonlive.com/education/2023/01/an-oregon-school-district-turns-to-artificial-intelligence-to-beef-up-campus-security.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/education/2023/01/an-oregon-school-district-turns-to-artificial-intelligence-to-beef-up-campus-security.html?outputType=amp",
+      "publishedDateTime": "2023-01-26T16:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oregonian",
+        "domain": "oregonlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-robot-cars-are-causing-911-false-alarms-in-san-francisco.md",
+      "title": "Robot Cars Are Causing 911 False Alarms in San Francisco",
+      "excerpt": "Ride-hailing services from GM subsidiary Cruise and Alphabet company Waymo allow them to summon a driverless ride with an app. But some riders have become perhaps too comfortable with the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/",
+      "originalUrl": "https://www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63d1e157e86be50408c465bb/master/pass/Self-driving-Car-Chaos-in-San-Francisco-Business-GettyImages-1238159533.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/amp",
+      "publishedDateTime": "2023-01-26T16:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-01-27-new-artificial-intelligence-program-may-speed-development-of-gene-therapy.md",
       "title": "New artificial intelligence program may speed development of gene therapy",
       "excerpt": "RELATED Gene therapy may help children born with 'bubble boy' disease To address this, researchers came up with ZFDesign, an artificial intelligence that uses a database of nearly 50 billion ...",
@@ -1257,145 +1399,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-musk-oversaw-staged-tesla-self-driving-video-emails-show.md",
-      "title": "Musk oversaw staged Tesla self-driving video, emails show",
-      "excerpt": "If there was any doubt that Tesla CEO Elon Musk knew the company's much-watched 2016 self-driving demo was staged, emails obtained by Bloomberg should lay that to rest. \"Just want to be absolutely clear that everyone’s top priority is achieving an amazing Autopilot demo drive,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/",
-      "originalUrl": "https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/GettyImages-1233956223-800x533.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/amp/",
-      "publishedDateTime": "2023-01-20T07:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-davos-using-ai-without-human-oversight-is-downright-dangerous.md",
-      "title": "Davos: Using AI without human oversight is ‘downright dangerous’",
-      "excerpt": "A Davos World Economic Forum session hears that using AI without human input comes with risks. This is something HR should consider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.personneltoday.com/hr/ai-human-input-davos-2023/",
-      "originalUrl": "https://www.personneltoday.com/hr/ai-human-input-davos-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.personneltoday.com/wp-content/uploads/sites/8/2023/01/2H4NPWN-1.jpeg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-20T07:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Personnel Today",
-        "domain": "personneltoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-artificial-intelligence-is-coming-for-human-creativity.md",
-      "title": "Artificial Intelligence Is Coming for Human Creativity",
-      "excerpt": "Second, the development of artificial intelligence poses a challenge to our claims to creative uniqueness. With the defeat of Garry Kasparov by Big Blue in 1997, many people lost interest in chess ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/Is%20AI%20coming%20for%20Creativity%2C%203%2C%20Joseph%20Ayerle.jpg?itok=clf3nLZg",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp",
-      "publishedDateTime": "2023-01-20T05:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

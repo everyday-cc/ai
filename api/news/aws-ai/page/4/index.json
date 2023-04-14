@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-10-totogi-launches-innovative-churn-prediction-service.md",
+      "title": "Totogi Launches Innovative Churn Prediction Service",
+      "excerpt": "Totogi, the leading provider of public cloud-based SaaS software for telcos, announced the release of its innovative Churn Prediction Service. This cutting-edge service utilizes machine learning (ML) to accurately predict impending subscriber churn,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefastmode.com/technology-solutions/30347-totogi-launches-innovative-churn-prediction-service",
+      "originalUrl": "https://www.thefastmode.com/technology-solutions/30347-totogi-launches-innovative-churn-prediction-service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thefastmode.com/media/k2/items/src/2dab7730abdc754d1f0998eb0fa31a36.jpg?t=20230210_060126",
+          "width": 752,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T22:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deep",
+        "domain": "thefastmode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-10-prime-focus-technologies-clear-now-available-in-aws-marketplace.md",
       "title": "Prime Focus Technologies' CLEAR® now available in AWS Marketplace",
       "excerpt": "Prime Focus Technologies (PFT), the creator of the Supply Chain Automation platform CLEAR®, today announced that customers can now",
@@ -1143,49 +1186,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-02-05T19:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-artificial-intelligence-in-platform-as-a-service-paas-market-size-2023-will-touch-new-level-in-upcoming-year.md",
-      "title": "Artificial Intelligence in Platform as a Service (PaaS) Market Size 2023 Will Touch New Level in Upcoming Year",
-      "excerpt": "Artificial Intelligence in Platform as a Service (PaaS) Market Size 2023-2029 | New Report (124 Pages) | In This",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-platform-as-a-service-paas-market-size-2023-will-touch-new-level-in-upcoming-year-2023-02-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-platform-as-a-service-paas-market-size-2023-will-touch-new-level-in-upcoming-year-2023-02-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T19:46:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",

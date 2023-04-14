@@ -2,6 +2,111 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-22-build-a-machine-learning-model-to-predict-student-performance-using-amazon-sagemaker-canvas.md",
+      "title": "Build a machine learning model to predict student performance using Amazon SageMaker Canvas",
+      "excerpt": "There has been a paradigm change in the mindshare of education customers who are now willing to explore new technologies and analytics. Universities and other higher learning institutions have collected massive amounts of data over the years, and now they are exploring options to use that data for deeper",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-machine-learning-model-to-predict-student-performance-using-amazon-sagemaker-canvas/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-machine-learning-model-to-predict-student-performance-using-amazon-sagemaker-canvas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/22/student-prediction-sagemaker-canvas.jpg",
+          "width": 1152,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T09:40:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-biologists-say-deep-learning-is-revolutionizing-pace-of-innovation.md",
+      "title": "Biologists Say Deep Learning Is Revolutionizing Pace of Innovation",
+      "excerpt": "There’s another facet of the new AI revolution, a marriage of deep learning and biology, that’s at least as important, but far less widely understood. The fascination with generative AI exploded late last November with the release of OpenAI’s text ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/biologists-say-deep-learning-is-revolutionizing-pace-of-innovation-eeb79c1b",
+      "originalUrl": "https://www.wsj.com/articles/biologists-say-deep-learning-is-revolutionizing-pace-of-innovation-eeb79c1b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-718324/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-trade-surveillance-systems-global-market-report-2022-ai-and-machine-learning-integration-to-bolster-sector-moving-forward.md",
       "title": "Trade Surveillance Systems Global Market Report 2022: AI And Machine Learning Integration To Bolster Sector Moving Forward",
       "excerpt": "The \"trade surveillance systems global market report 2022: ukraine-russia war impact\" report has been added to ResearchAndMarkets.com's offering. The global trade surveillance systems market is expected to grow from $1.",
@@ -1309,111 +1414,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence.md",
-      "title": "The ChatGPT Debate: Are We Intelligent Enough To Understand ‘Intelligence’?",
-      "excerpt": "What exactly is (natural or artificial) intelligence? Why is it so hard to define, let alone understand. And how will we know when we see it?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gabrielasilva/2023/03/14/the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/gabrielasilva/2023/03/14/the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641031868f3877ab517aa269/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gabrielasilva/2023/03/14/the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2023/03/14/the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence/amp/",
-      "publishedDateTime": "2023-03-14T18:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-generative-ai-is-just-a-wake-up-call-to-what-was-always-inevitable-including-incalculable-profit.md",
-      "title": "Generative AI Is Just A Wake-Up Call To What Was Always Inevitable. Including Incalculable Profit.",
-      "excerpt": "AI and machine learning (AI/ML) will unleash the greatest profit engine in history as expensive human-managed processes are replaced by cheaper and more efficient digital ones. What we’ve seen to date is just the beginning of how AI/ML will transform and reinvent business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/steveandriole/2023/03/14/generative-ai-is-just-a-wake-up-call-to-what-was-always-inevitable-including-incalculable-profit/",
-      "originalUrl": "https://www.forbes.com/sites/steveandriole/2023/03/14/generative-ai-is-just-a-wake-up-call-to-what-was-always-inevitable-including-incalculable-profit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c849dfcddeb7fd1f922d82/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2023/03/14/generative-ai-is-just-a-wake-up-call-to-what-was-always-inevitable-including-incalculable-profit/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2023/03/14/generative-ai-is-just-a-wake-up-call-to-what-was-always-inevitable-including-incalculable-profit/amp/",
-      "publishedDateTime": "2023-03-14T18:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
