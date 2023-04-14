@@ -1,20 +1,20 @@
 ---
 category: news
 title: "7 Signs You’re Experiencing Cognitive Dissonance"
-excerpt: "This mental phenomenon is known as cognitive dissonance, explains licensed psychologist David Tzall, Psy.D., and it occurs “when we’re faced with the discomfort of holding two beliefs ..."
-publishedDateTime: 2023-03-23T19:37:00Z
-originalUrl: "https://www.aol.com/7-signs-experiencing-cognitive-dissonance-164300283.html"
-webUrl: "https://www.aol.com/7-signs-experiencing-cognitive-dissonance-164300283.html"
+excerpt: "MOST OF US have experienced conflicting beliefs at one time or another. For instance, you know that drinking too much alcohol is bad for your health, but you pour yourself a second glass of wine ..."
+publishedDateTime: 2023-03-23T19:19:00Z
+originalUrl: "https://www.menshealth.com/health/a43373873/7-signs-youre-experiencing-cognitive-dissonance/"
+webUrl: "https://www.menshealth.com/health/a43373873/7-signs-youre-experiencing-cognitive-dissonance/"
 type: article
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: Men's Health
+  domain: menshealth.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "oPeicmY2Qqzvb5mvf1i1QeU7JUN3Oi6NwQaEDHVxe1hMe+fLJvLfeBjZtMScCPPz+nM2QUstFyNLKFoXhrOhi7fLMOnN0That42X+G0tK+nsFK+gt82bklp5EapcYtv0LMs9uBKsfdg9uMeI1k2EAFzB+2ooZ+GrjcZUOwYZ6TjvGLZ0f4n2wKkHa1i/Ln6cJCGtE4P40U9qD/bEyYgycqD/OyYN8yj+Vj86fyGlkc02iCPsTFHlPtx9QHM/2xWQ/Nwvto5vNfP3GHxB6+7gwQh16BG8D9dyGXNz5UWEjGyNzTi5NKxrSrC1NzKlRQQ8rPWOGZRbekl/Zu+mpyAp3BKbGnspLBqk3kEMUqQAfRM=;eB2xm/zlnm7NaDg3i5v0dg=="
+secured: "xa+q38J1G11Vj9BGXMS5qH+sWt7AjaOq2XRrHnyYA5sLF4fLROnGJE6grrqpVdtSh3L2FWzShd7o7unzMZ134tQoe9rwPwi3+ugZEGYZ9sU/ZPvONIN0cMk04L3An7TNf5dBecDanGfAneKd3kQZG7nWdLd295/uWgV6r8QQpSmngkfWGI7pr7e7nBVyj67fvMsxgEq0BtDt+n0P49LjL+Lq4dAUwHwAv0smw+7ZnZUFInWzqBrdWLLN3nxNPkCh0UZVcRkQA46Rlxek5nyM6UcR5cVKI58pjPlzeQGdbyNfhb1nGoh27H4Syyq9/0O8+ccsuQsfsdL3EiU+NOoYXOXxAegyrtpBPE5MQ0zwjeA=;odE/sjts1NLZvnlAcUd0Lw=="
 ---
 

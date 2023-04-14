@@ -1,0 +1,21 @@
+---
+category: news
+title: "Attorney Education Still the Biggest Hurdle to AI, Machine-Learning Adoption"
+excerpt: "Besides education, the Artificial Intelligence and Machine Learning Report conducted by Relativity, ACEDS and BRG, found that cost is also a major barrier to AI and machine learning adoption. But once implemented,"
+publishedDateTime: 2023-04-12T17:57:00Z
+originalUrl: "https://www.law.com/legaltechnews/2023/04/11/attorney-education-still-the-biggest-hurdle-to-ai-machine-learning-adoption/"
+webUrl: "https://www.law.com/legaltechnews/2023/04/11/attorney-education-still-the-biggest-hurdle-to-ai-machine-learning-adoption/"
+type: article
+
+provider:
+  name: Law
+  domain: law.com
+
+topics:
+  - Machine Learning
+  - AI
+  - AI in Education
+
+secured: "3aFoEpf1TFL1/MTqEpTH3eFSJYp98vglnFysCVt8Yac3iSRKbuBjRJOW6vBK2Z2j9eW0UhobrlcbGqKGWWRLndTZJsNHSgzY/NS8vA8dAza782rZ4HxcudyDipxhxjSL8QihCEITEBf5TA2sRQStz7pLvrBADvn3lsVWO06q0+9gRQlThpP7jfX7nj1CiGfC5x8A4LsT1iFncpoZaT/IOTRcr6rS/ZG1joha2RruKCp+//0UqQjxLgwfQDDclgjYMOtR9VpUA0H2SF/D5WyGI6eA6hO4sNbdIyZCanBGZRn1cbK4sRz9nyvNc94p9AeLSS8DpzTpNYArd34KrNmhkgJAA82WnJL78jEEzApwZRt6mWbu/p11TnozdE7z2gsGYy6yu5XqZPjLf4erwn0hA1gKeIl+m2/UCS5celRPVhmZ78AN9UoGaQqmryOnKTzINClPQxeEnQwCSiIiP4ytkfLniv/jm3LXDPJV0zVDcQJEAuypiSrvlKHt/M28By96VRBwocuV2Esl5l3dtu10LQ==;cHjNKXs4pojOlFytsrSyrg=="
+---
+
