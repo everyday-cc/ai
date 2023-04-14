@@ -35,7 +35,7 @@ related:
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 91
+    quality: 87
     images:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211215-las-vegas-the-venetian-expo-aws-ac-1159p-b07aeb.jpg"
         width: 2500
@@ -50,6 +50,24 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 84
+  - title: "AWS Unveils Bedrock Service For Generative AI"
+    excerpt: "Amazon Web Services, the cloud computing unit of Amazon, has introduced a cloud service called Bedrock for use in generative"
+    publishedDateTime: 2023-04-14T12:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/aws-unveils-bedrock-service-for-generative-ai-1032232707"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "How Generative AI Can Improve Personalized Healthcare With Wearable Devices"
+    excerpt: "Generative AI in healthcare is a promising area that could enhance the quality and efficiency of patient care."
+    publishedDateTime: 2023-04-14T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/how-generative-ai-can-improve-personalized-healthcare-with-wearable-devices/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 62
   - title: "Amazon joins generative AI race, targets tech at cloud customers"
     excerpt: "Amazon.com Inc. is joining Microsoft Corp. and Google in the generative artificial intelligence race, announcing technology aimed at its cloud customers as well as a marketplace for AI tools from other companies."
     publishedDateTime: 2023-04-13T18:15:00Z
@@ -173,15 +191,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Is Amazon the proverbial dark horse in the ongoing generative AI war"
-    excerpt: "Amazon may have been offering the Alexa voice assistant for years now and have made extensive investment in the fields of cloud computing and machine learning technologies, but is nowhere to be seen when it comes to offering something that can compete with the likes of ChapGPT."
-    publishedDateTime: 2023-04-09T20:19:00Z
-    webUrl: "https://goodereader.com/blog/technology/is-amazon-the-proverbial-dark-horse-in-the-ongoing-generative-ai-war"
-    type: article
-    provider:
-      name: Good e-Reader
-      domain: goodereader.com
-    quality: 19
   - title: "Meta will debut its generative AI this year"
     excerpt: "Meta announced in February that it would establish a new organization to develop generative AI, but this is the first time it has indicated a timeline for commercialization."
     publishedDateTime: 2023-04-10T19:24:00Z

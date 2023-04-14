@@ -41,6 +41,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Motorway drivers can take hands off wheel as self-driving system approved"
+    excerpt: "Ford said it has been given the go-ahead by the Government to switch on its BlueCruise self-driving technology. The system is only available on the 2023 Ford Mustang Mach-E, a pure electric vehicle. Five radars track the position and speed of other ..."
+    publishedDateTime: 2023-04-14T07:56:00Z
+    webUrl: "https://www.belfasttelegraph.co.uk/news/uk/motorway-drivers-can-take-hands-off-wheel-as-self-driving-system-approved/356764219.html"
+    type: article
+    provider:
+      name: Belfast Telegraph
+      domain: belfasttelegraph.co.uk
+    quality: 23
+    images:
+      - url: "https://focus.belfasttelegraph.co.uk/thumbor/bRMlVCZUyynUUasxkU1VTuPrY6U=/55x0:2942x1925/2887x1925/prod-mh-ireland/ceb34833-c43a-43cc-8b11-0435cbc76a6e/48796b1d-d1a0-4d5d-819c-b171cb6f50f5/2.70030337.jpg"
+        width: 2887
+        height: 1925
+        isCached: true
   - title: "ITV News takes UK's first hands-free self-driving car out for a test drive"
     excerpt: "ITV News' Ian Woods took the UK's first hands-free self-driving car out for a test drive Electric cars that drive themselves - it is a giant leap from those that Henry Ford first sold. But today, Ford's new advanced driver assistance system has gained approval for use on the UK’s motorways - meaning motorists are legally able to drive with their hands off the wheel."
     publishedDateTime: 2023-04-13T21:21:00Z

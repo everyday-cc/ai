@@ -19,35 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Mind your language: The risks of using AI-powered chatbots like ChatGPT in an organization"
-    excerpt: "A spate of recent news points up the potential security and other pitfalls of using AI chatbots like ChatGPT within an organization."
-    publishedDateTime: 2023-04-14T01:37:00Z
-    webUrl: "https://venturebeat.com/ai/mind-your-language-risks-using-ai-powered-chatbots-chatgpt/"
-    ampWebUrl: "https://venturebeat.com/ai/mind-your-language-risks-using-ai-powered-chatbots-chatgpt/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/mind-your-language-risks-using-ai-powered-chatbots-chatgpt/amp/"
+  - title: "AI Models Shaken, Not Yet Stirred: FTC Could Slow OpenAI’s ChatGPT"
+    excerpt: "LeCun, chief scientist at Facebook’s AI lab, said he opposed a moratorium on any AI development. “We should continue to do research, and do it responsibly, and that includes considering the ethical implications of our work.\" Pedro Domingos, an AI ..."
+    publishedDateTime: 2023-04-14T15:25:00Z
+    webUrl: "https://www.forbes.com/sites/craigsmith/2023/04/14/ai-models-shaken-not-yet-stirred-ftc-could-slow-openais-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/craigsmith/2023/04/14/ai-models-shaken-not-yet-stirred-ftc-could-slow-openais-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/04/14/ai-models-shaken-not-yet-stirred-ftc-could-slow-openais-chatgpt/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 77
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1367281424-e1654632813202.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Can AI answer your money questions? We put chatbots to the test"
-    excerpt: "Face it, we could all use a little help with our money. So who better to ask for personal finance advice than a couple of the most powerful chatbots on the planet?"
-    publishedDateTime: 2023-04-13T12:26:00Z
-    webUrl: "https://www.reuters.com/markets/wealth/can-ai-answer-your-money-questions-we-put-chatbots-test-2023-04-13/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/jNVRinp2T_SXac_4KvfiD0LjfVA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5MBSSC3XD5ORJMYHLNP4RJMSVI.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/643840fbf709af9d2021d3e8/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 628
+        height: 740
         isCached: true
   - title: "Company Ditches Humans in Favor of ChatGPT-Style AI"
     excerpt: "Move over Don Draper: at least one agency thinks AI can devise better ads than humans ever could. Bluefocus Intelligent Communications Group Co. plans to replace its external copywriters and graphic designers with ChatGPT-like generative AI models,"
@@ -81,15 +67,15 @@ related:
       name: eWeek
       domain: eweek.com
     quality: 49
-  - title: "Schumer calls for AI rules as ChatGPT surges in popularity"
-    excerpt: "The Senate majority leader has circulated a plan to establish rules on AI to address national security concerns, as ChatGPT becomes the fastest-growing consumer application in history."
-    publishedDateTime: 2023-04-13T17:17:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/chuck-schumer-calls-ai-rules-chatgpt-surges-popularity-rcna79582"
+  - title: "Amazon Unveils Bedrock to Compete with OpenAI’s ChatGPT and DALL-E 2"
+    excerpt: "Artificial intelligence technologies continue to take the internet ... They announced the launch of Bedrock, a new cloud service on their Amazon Web Services (AWS) platform, designed to provide developers with customizable AI tools for generating text ..."
+    publishedDateTime: 2023-04-14T09:45:00Z
+    webUrl: "https://www.gizmochina.com/2023/04/14/amazon-bedrock-ai-service/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 47
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 49
   - title: "Did That Newly Announced ChatGPT Bug Bounty Initiative By OpenAI Undershoot Its Wanted Aims, Asks AI Ethics And AI Law"
     excerpt: "OpenAI announced a bug bounty effort associated with ChatGPT and their other AI services and products. Some laud this. Others believe it doesn't do enough. Here is the scoop on the controversy."
     publishedDateTime: 2023-04-12T11:00:00Z
@@ -99,75 +85,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 40
-  - title: "Here's where AI and ChatGPT can create quick wins for insurers"
-    excerpt: "Swiss insurance group Helvetia is the latest insurer to announce it is testing ChatGPT for its new customer service. Fellow Swiss insurer Zurich said last month that it was experimenting with ChatGPT to find out how AI can help with tasks such as modelling,"
-    publishedDateTime: 2023-04-14T08:10:00Z
-    webUrl: "https://www.insurancebusinessmag.com/us/news/technology/heres-where-ai-and-chatgpt-can-create-quick-wins-for-insurers-442749.aspx"
+  - title: "Lori Falce: Chatting with ChatGPT opens eyes on AI, journalism"
+    excerpt: "The impact of artificial intelligence is a hot topic. Everyone wants to know what AI means for their industry and their jobs — including journalists. We all know that innovation is amazing. It helped us reach the stars and travel the globe."
+    publishedDateTime: 2023-04-14T13:29:00Z
+    webUrl: "https://triblive.com/opinion/lori-falce-chatting-with-chatgpt-opens-eyes-on-ai-journalism/"
     type: article
     provider:
-      name: insurancebusinessmag
-      domain: insurancebusinessmag.com
+      name: TribLIVE.com
+      domain: triblive.com
     quality: 39
     images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/018/0311_638170640554529503.png"
-        width: 1000
-        height: 666
+      - url: "https://assets-varnish.triblive.com/2023/04/6099010_web1_6057796-5f634f24303c4f78a9e41f89b4353292.jpg"
+        width: 640
+        height: 427
         isCached: true
-  - title: "ZTE to launch GPU servers in response to ChatGPT-triggered AI needs"
-    excerpt: "China-based IT and communication solutions provider ZTE will introduce GPU servers supporting high performance computing (HPC) to meet the ChatGPT-triggered needs of large AI models, according to company president Xu Ziyang."
-    publishedDateTime: 2023-04-13T11:14:00Z
-    webUrl: "https://www.digitimes.com/news/a20230413PD206/ai-china-gpu-zte.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 34
-  - title: "It's surprisingly easy to trick an AI chatbot into telling you how to be a very bad boy"
-    excerpt: "So I went searching for some other jailbreaks that might work to trick an AI into breaking its own rules. And there are a lot of them. There's even a whole website dedicated to jailbreak methods (opens in new tab) for most modern AI chatbots."
-    publishedDateTime: 2023-04-14T11:23:00Z
-    webUrl: "https://www.pcgamer.com/its-surprisingly-easy-to-trick-an-ai-chatbot-into-telling-you-how-to-be-a-very-bad-boy/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 31
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Wc6EUppheWKAiAJPQZJt3D-1200-80.jpg"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "ChatGPT Called to the Bar"
-    excerpt: "Latham & Watkins has created an AI-powered tool called Latham.ai, which uses natural language processing and machine learning to help lawyers draft and review contracts more efficiently. Hogan Lovells has partnered with an AI company called Kira Systems to ..."
-    publishedDateTime: 2023-04-14T11:04:00Z
-    webUrl: "https://www.royalgazette.com/opinion-writer/opinion/article/20230414/chatgpt-called-to-the-bar/"
-    type: article
-    provider:
-      name: The Royal Gazette
-      domain: royalgazette.com
-    quality: 24
-    images:
-      - url: "https://imengine.editorial.prod.rgb.navigacloud.com/?uuid=f7b5a041-0fb5-5065-9472-989382454613&function=fit&type=preview"
-        width: 500
-        height: 333
-        isCached: true
-  - title: "AI in schools - how metro districts are handling the rise in artificial intelligence chatbots"
-    excerpt: "Channel 2′s Justin Farmer spoke with Dr. David Joyner from Georgia Tech, who said there’s justified fear over artificial intelligence following the rise in popularity of chatbots like ChatGPT, Bard and Bing’s AI system."
-    publishedDateTime: 2023-04-11T02:41:00Z
-    webUrl: "https://www.wsbradio.com/news/local/ai-schools-how-metro-districts-are-handling-rise-artificial-intelligence-chatbots/TBXZKWOI3VDIFPGBR7EF5V72KI/"
-    type: article
-    provider:
-      name: WSB Radio
-      domain: wsbradio.com
-    quality: 23
-  - title: "The Download: ChatGPT’s impact on schools, and Elon Musk’s AI plans"
-    excerpt: "This year millions of people have tried—and been wowed by— artificial intelligence systems. That’s in no small part thanks to OpenAI’s chatbot ChatGPT."
-    publishedDateTime: 2023-04-12T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/04/12/1071401/download-chatgpt-impact-on-schools-and-elon-musks-ai-plans/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 19
   - title: "How To Buy ChatGPT Stock: Your 2023 Guide to AI Investing"
     excerpt: "Generative AI technology is complicated enough to understand without even bringing in the notion of how to invest in artificial intelligence. Luckily, you don't have to be an expert in"
     publishedDateTime: 2023-04-13T21:20:00Z
@@ -177,15 +108,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 19
-  - title: "Is ChatGPT Worthy of All the Hype?"
-    excerpt: "OpenAi’s ChatGPT, the new kid on the AI block, has attracted much attention since its introduction in November. Using the large language model, the technology produces intelligent and informed text in response to prompts,"
-    publishedDateTime: 2023-04-14T09:19:00Z
-    webUrl: "https://internationalbanker.com/technology/is-chatgpt-worthy-of-all-the-hype/"
-    type: article
-    provider:
-      name: International Banker
-      domain: internationalbanker.com
-    quality: 4
 
 secured: "pGHPlEBh2apBT+Ztpu9e9VbHaldugGryPg67mSM0aDMu1f6Nb1mTqiihgZWVYk13NfqePFkVZbN1RjyZt1tjpGB3BjSPkP51sap21U95d3cZ5rB4l8X7J0FfP0F5Or3bZcpwD5BVLINv0D5tvJwS0LY8uJiYA11N//4pAyKh1LkblNG23rNfDusSLRgo59ETH2QK8KbmL3jW+mb+dj+LvV5s5IIYqNFASLZCzXa0TfQq/MovHw9ApEvm/XWdeQir/55lHFzm4NAdLtmzXBYpE77uZtBKbo8RyHebWOYAglMDreWz4ogCh9GDopSinaLcNsU7ECIwPAfZHHE0R+hVnGFtp3UJ7y1/Witpk4vkj3/VR/ybl5kPWaFsH4gPfXo9n1lirkUQqHoXxsDIe71T3ueljijGYENpNyvnJ+Uvg79i7Pk3Jci/1Q/1Eq4g4q4klLC5S3h+tIe2qlMF7ZLe6IVTy2ATsjuhwS0QkQ0JAmYpier8T5SDT74ULk+yeCMRQo5kPN9Pwl2wxufPMsPTvw==;ImpzBwOypFXtMW2K4GIisA=="
 ---

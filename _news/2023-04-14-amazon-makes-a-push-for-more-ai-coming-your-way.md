@@ -50,6 +50,15 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 49
+  - title: "Amazon Bedrock: New Suite of Generative AI Tools Unveiled by AWS"
+    excerpt: "AWS has entered the red-hot realm of generative AI with the introduction of a suite of generative AI development tools. The cornerstone of these is Amazon"
+    publishedDateTime: 2023-04-14T12:07:00Z
+    webUrl: "https://www.datanami.com/2023/04/14/amazon-bedrock-new-suite-of-generative-ai-tools-unveiled-by-aws/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 36
   - title: "AWS doubles down on generative AI training"
     excerpt: "AI training and deployment on its cloud platform. In a post on the AWS Machine Learning blog, the company detailed new offerings that include the ability to build and train foundation models, which are large-scale,"
     publishedDateTime: 2023-04-13T18:31:00Z
@@ -59,15 +68,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 36
-  - title: "AWS launches generative AI tools"
-    excerpt: "Generative artificial intelligence (AI) software such as ChatGPT has captured the imaginations of consumers and businesses alike, as they experiment with everything from search bots like Microsoft Bing Chat to embedded technology in existing customer support systems,"
-    publishedDateTime: 2023-04-13T20:47:00Z
-    webUrl: "https://www.itworldcanada.com/article/aws-launches-generative-ai-tools/536367"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 34
 
 secured: "9ch/YDkBRaAUB/HDauQCkrXd22+zewQ88hBqzsObm+dy7IrDO4v8ZkZxjsMGZxWjlYAWU9G0dLVAOmZ6eGlkRoq9+HmRhuzOHV7TvWRhmNDVDHbGrDgm2nMP/9S/i1eJOc98+qGTkhxGoGNzsm+TM+X+TEWOUk1GxOVGVBkrqmeuqEzsTEZOvV9TyOVjAEjKw/9PLI9M7018AI4kkkoNvCJsNjbHrjXzRuCpvbGl6RUNzXI/twGjSfMHqFNTkTpbjFnAjzNWqkxd8kdCYsb/zDurosM9CyuCZmbJFhXBm7znrgkxCW+DYTEyahWQo3HWRITVf8ffC9pXoqv+Qg8WrDQCCXRMCZet2pKcdQ/0pFvcmiyyjGSCYz761pS3O1mK3yUqJPL7ovvfnqwfYnQHNRil6VVftx+p1iVKcGPn7IrdfUWxOzpeIcFiwKH+BKhhkfeI5qrXVDZhjiyorCvqCJw9qSfW/9Fsl2+m6Rw45z8WeRDwrH9/IEVjAw9+V5joONO8L8bRYmlwtf3MhlG5iw==;wFJ2zZuSjawyG+bErs3euA=="
 ---

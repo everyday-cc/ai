@@ -7,7 +7,7 @@ originalUrl: "https://fox2now.com/video/legal-lens-how-artificial-intelligence-w
 webUrl: "https://fox2now.com/video/legal-lens-how-artificial-intelligence-will-change-the-future/8558268/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,24 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Why the future of AI will be fought on a battleground of ethics"
-    excerpt: "Tech giants had started building responsible AI teams to focus and advise on the safety of consumer products that are powered by AI—but then the layoffs came."
-    publishedDateTime: 2023-04-11T14:00:00Z
-    webUrl: "https://www.fastcompany.com/90876362/future-of-ai-will-be-fought-on-battleground-of-ethics"
+  - title: "Three Ways AI Will Change The Game For Communications Professionals"
+    excerpt: "From media list optimization to copywriting, here are three ways that AI will fundamentally change the game for communications professionals."
+    publishedDateTime: 2023-04-14T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/three-ways-ai-will-change-the-game-for-communications-professionals/"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 34
-  - title: "Generative AI Will Change Your Business. Here’s How to Adapt."
-    excerpt: "Generative AI can “generate” text, speech, images, music, video, and especially, code. When that capability is joined with a feed of someone’s own information, used to tailor the when, what, and how of an interaction,"
-    publishedDateTime: 2023-04-13T16:55:00Z
-    webUrl: "https://hbr.org/2023/04/generative-ai-will-change-your-business-heres-how-to-adapt"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "KP1BgkADMA8JsP9A1UbScNw2XoIAxQ14hdS3EUycs9XO2h4bH62/aB134ZdJw7IxCgXpmToJ7Rws5Kl1VPnsJL57TuTVCpKsQ1UmUrumMOX242QEW6hxfZutN/uctMfmQIqeR/qNPekVHw4b84ww69WoXbgvBsEuinfUgJeBCg5R4rOwZeXJdhXncD6TMhxA2QvF7Lgj0W8N4vwTRtIKZCwOrsjAv6LJwm1AXlJzlKQw8MFmloJzNfmB8OTG7GOtTAn7GVJqj9dtXYm3Ji38xNmen/2yp/kTp3whn1/2eYKYTet1AhauEOuw3ECjpIawYdFnFHHWyoeiXRftSyRpbnPqsW9yWXt5eF0DB3WOipcPCbqd4bRneAJKkx7uCx0ShsX0pLvUXVHg8MrGNZEEmkMA5Upp+m6Nc3Ugnj3IPhKD8GnDI4OjTY57emKAElJueFH3Tb8fiXXKiJg4njbIj8vWIx5Ne3lW9XfbMhSsftSpynWLf5PtMNTHQhW6Q+XC0tEwa6o3dDBfd6U6ngUm0Q==;Q3Gnjukk1oZru84z0ZJRPg=="
 ---

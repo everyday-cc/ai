@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/the-go
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/the-good-and-bad-side-of-ai-and-how-you-can-leverage-it/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 118
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Pros and cons of artificial intelligence"
+    excerpt: "Artificial intelligence (AI) could lead to a “nuclear-level catastrophe”, according to a third of researchers surveyed for an annual report by Stanford University. AI systems “demonstrate capabilities in question answering,"
+    publishedDateTime: 2023-04-14T13:12:00Z
+    webUrl: "https://www.theweek.co.uk/news/technology/960453/pros-and-cons-of-artificial-intelligence"
+    type: article
+    provider:
+      name: The Week UK
+      domain: theweek.co.uk
+    quality: 21
   - title: "Artificial intelligence and how it may affect jobs"
     excerpt: "Low-skill, repetitive jobs like those of checkout clerks are on the chopping blocks as technology marches onward. Perhaps I’m overly nostalgic. But I like chatting with the checkout clerks as I’m buying my milk and vegetables."
     publishedDateTime: 2023-04-13T23:05:00Z

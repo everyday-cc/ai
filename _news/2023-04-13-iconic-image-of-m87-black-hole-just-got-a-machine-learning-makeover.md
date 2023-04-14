@@ -37,6 +37,15 @@ related:
         width: 2048
         height: 1027
         isCached: true
+  - title: "Artificial intelligence may have just given astronomers a better idea of what black holes really look like"
+    excerpt: "An curved arrow pointing right. A group of astronomers released what they believe is a more accurate depiction of the M87 black hole, images they created using artificial intelligence to fill in the gaps from photos first released by researchers in 2019."
+    publishedDateTime: 2023-04-14T13:34:00Z
+    webUrl: "https://www.businessinsider.com/astronomers-use-ai-to-generate-clearer-picture-of-black-hole-2023-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
 
 secured: "ItqkxGK3MM3Xr3trNlwWTIB+SyQ0zGFgmdLxmCF1QS+sh7/ll1bWFuI6apBsJNjarYxuTOoDh+BlqbieMjg4//bnF23POyhz+RU/+FKoAGAs32fAtAp0+mv9N0O1SHlzsdsg8o8c5eSRjWUyIZWCNWVigjUHdvOoHkjbiPajlvFT0F4Jn48VGvk7+1i09KXNz6Kkn5W6+UiPwklzgIi7BMLZfqY4jfXpO2v7N51qkBcz8eoWKWOWJ2kjWJOwoRAxDSaF1JiSwjD7/agOZyPtWY/jvU7ZQfp42tx/7CnWgOxR8LFzZINQ6vOi+9oYk51Z5P2UuyXJ5u+t61+VMDMchQ5Gw7A9+D/RIe6beLD+q5l0AGaS6QLXh77ZSUQs2JOmzG1+WB0mENLaUSVMMW+FYChxXJH15RHWTe1/Lv3dzXoAXejAB8m/V3szgQxYZRpEKmk6orJL+M8ypyR/qkE/l5R35kmjow/2FrjauGbsx6whhE+jKLXBHcmZoChO/FxW9/7K9pbAzqrK1f9GQadETg==;GMC+7Eza7Rsth7X9ijqU7w=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.microsoft.com/en-us/industry/blog/health/2023/04/12/mi
 webUrl: "https://www.microsoft.com/en-us/industry/blog/health/2023/04/12/microsoft-cloud-for-healthcare-empowering-healthcare-to-deliver-meaningful-outcomes/"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -24,15 +24,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Duke Health Announces AI-Driven Healthcare Transformation Collab"
-    excerpt: "Duke Health and SAS aim to develop cloud-based and artificial intelligence-powered healthcare solutions under a new collaboration."
-    publishedDateTime: 2023-04-13T13:36:00Z
-    webUrl: "https://healthitanalytics.com/news/duke-health-announces-ai-driven-healthcare-transformation-collab"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 34
   - title: "Navigating AI Malpractice in Healthcare: Balancing Revolutionary Benefits and Growing Concerns"
     excerpt: "AI malpractice in healthcare raises concerns amid innovations, highlighting the need to address challenges and ensure patient safety"
     publishedDateTime: 2023-04-13T21:27:00Z

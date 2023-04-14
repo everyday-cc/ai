@@ -31,6 +31,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 97
+  - title: "Video Conferencing Transcribing Market Growing Demand and Trends 2023 to 2030 | Amazon Transcribe, Nuance, Google, IBM WATSON"
+    excerpt: "TheVideo Conferencing Transcribing Market Report is a categorized analysis of local and global markets that provides"
+    publishedDateTime: 2023-04-14T04:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/video-conferencing-transcribing-market-growing-demand-and-trends-2023-to-2030-amazon-transcribe-nuance-google-ibm-watson-2023-04-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 76
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "3Knf65dqI5HJW11G6KQ25uTlnsScPPidyNOgePdrDidLlsyB0odEM/XNnV/Fl43TcgI0crOuhEgUFzIB/Q2CBOsA7A9hAaI2oswDVpuOJ2mIkNXTGmEGeJR6/N982GDIcIh82VOIHH5snkZgFuXjS0pfk2JmCvEmmJ3SuAI2ariO3HJWDDDTZ4biptZjtp/zJbz0UY0yFvS0UzVh69hqSUfuSBuhLnCokpv69N9nST9dFQVW3xNWMroHPH6qF5FbAHZRc9+f6k5iS0XKC0vbfY/2f+FuTiCeJFZ0dMSZaOSnAKpKFmUGkG10DJGurZ5hXpHZDR3swl9d0UegIwOz3ZwBhupu4ns6vDsZ14L7wks=;4kPzffwvtfFIKAGa1ttM4Q=="
 ---

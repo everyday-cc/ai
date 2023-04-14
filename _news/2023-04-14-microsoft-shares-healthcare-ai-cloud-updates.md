@@ -66,6 +66,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 66
+  - title: "Microsoft brings Bing's AI chatbot to its iOS and Android SwiftKey apps"
+    excerpt: "Microsoft has begun integrating Bing AI capabilities into its popular keyboard app SwiftKey. While the third-party tool already includes some AI features, like learning from users' writing styles to make suggestions."
+    publishedDateTime: 2023-04-14T12:27:00Z
+    webUrl: "https://www.engadget.com/microsoft-brings-bings-ai-chatbot-to-its-ios-and-android-swiftkey-apps-113528183.html?src=rss"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 66
   - title: "How 5G and wireless edge infrastructure power digital operations with Microsoft"
     excerpt: "As enterprises continue to adopt the Internet of Things (IoT) solutions and AI to analyze processes and data from their equipment, the need for high-speed, low-latency wireless connections are rapidly growing. Companies are already seeing benefits from deploying private 5G networks to enable their solutions,"
     publishedDateTime: 2023-04-13T10:00:14Z
@@ -97,6 +106,15 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
+    quality: 51
+  - title: "AWS steps up AI rivalry with Google, Microsoft"
+    excerpt: "Microsoft and Google are adding AI chatbots to consumer products like their search engines, but they are also eying another huge market: selling the underlying technology to other companies via their cloud operations."
+    publishedDateTime: 2023-04-14T12:56:00Z
+    webUrl: "https://techcentral.co.za/aws-steps-up-ai-rivalry-with-google-microsoft/224441/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
     quality: 51
   - title: "Xoxodays Compass is now available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Xoxodays Compass to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies BENGALURU,"

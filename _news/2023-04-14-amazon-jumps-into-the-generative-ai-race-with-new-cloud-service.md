@@ -8,8 +8,8 @@ webUrl: "https://www.nbcnews.com/tech/tech-news/amazon-jumps-generative-race-new
 ampWebUrl: "https://www.nbcnews.com/news/amp/rcna79599"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna79599"
 type: article
-quality: 91
-heat: 283
+quality: 87
+heat: 289
 published: true
 
 provider:
@@ -18,8 +18,6 @@ provider:
 
 topics:
   - AI
-  - Microsoft AI
-  - AWS AI
 
 images:
   - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211215-las-vegas-the-venetian-expo-aws-ac-1159p-b07aeb.jpg"
@@ -46,6 +44,24 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 68
+  - title: "AWS Unveils Bedrock Service For Generative AI"
+    excerpt: "Amazon Web Services, the cloud computing unit of Amazon, has introduced a cloud service called Bedrock for use in generative"
+    publishedDateTime: 2023-04-14T12:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/aws-unveils-bedrock-service-for-generative-ai-1032232707"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "How Generative AI Can Improve Personalized Healthcare With Wearable Devices"
+    excerpt: "Generative AI in healthcare is a promising area that could enhance the quality and efficiency of patient care."
+    publishedDateTime: 2023-04-14T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/how-generative-ai-can-improve-personalized-healthcare-with-wearable-devices/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 62
   - title: "Amazon joins generative AI race, targets tech at cloud customers"
     excerpt: "Amazon.com Inc. is joining Microsoft Corp. and Google in the generative artificial intelligence race, announcing technology aimed at its cloud customers as well as a marketplace for AI tools from other companies."
     publishedDateTime: 2023-04-13T18:15:00Z
@@ -169,15 +185,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Is Amazon the proverbial dark horse in the ongoing generative AI war"
-    excerpt: "Amazon may have been offering the Alexa voice assistant for years now and have made extensive investment in the fields of cloud computing and machine learning technologies, but is nowhere to be seen when it comes to offering something that can compete with the likes of ChapGPT."
-    publishedDateTime: 2023-04-09T20:19:00Z
-    webUrl: "https://goodereader.com/blog/technology/is-amazon-the-proverbial-dark-horse-in-the-ongoing-generative-ai-war"
-    type: article
-    provider:
-      name: Good e-Reader
-      domain: goodereader.com
-    quality: 19
   - title: "Meta will debut its generative AI this year"
     excerpt: "Meta announced in February that it would establish a new organization to develop generative AI, but this is the first time it has indicated a timeline for commercialization."
     publishedDateTime: 2023-04-10T19:24:00Z
@@ -224,6 +231,6 @@ related:
       domain: thedrum.com
     quality: 11
 
-secured: "WuIeTKIeR24hGnbXGk0ceEP4WKJBtHWeiaVgtuy8wWGbV4nhaSdvVowbbmC5RM6j1IPtIsBL4gV4GBuauoKMwmk/2JrfRvCUvyMNM3IAsGEsygxf2vX9wkXvZ5BtQVUsrw8TBWg+hp2gNhDSjZf7cAEK2IEJlaegG+F4loe6zXGaTkQQzPnUpAwZGf06fHytdB7JNvRVnDu5YGyuIzfHailgo1D5Kp3VfyqIIbXL7k67gDseG1CG6HJ7rgt1780wXdhOqiW5HJOfyjtI/Ay0lUrjiEMRaBpIcFt0VQl3Jg6jpXNYfXOnPl7/qHEbjaYxmP+wFmULS9hGlzGWUy/Yqje0wIcshA1X2EJDyhTEzHky57zoV5IBwue2D9Lsu3ebhsd2ENM/1Ai4OE/rne+e7qWI48a7og5s+wqP+urnv8SxQISGhzJ9HQSjoQOOGrG6O91GtujQNGGevLdjokjlU/Vfz2qy/Qs1sSA5DLMj82xDFRkc5o3PjJ4O6wU0KEzM24Pv91y7BjgL0Sn+x6c6SQ==;VKjBpeJrFDN541W+/XpePg=="
+secured: "mzniZuPatZr/6OLs/cyZcp90pFDQXVV6w48Pn/w9xOzq/7yOrCPzZiSNb3kA+f944TSgthjwMaz/P/z1LieLZTr7c813IGWRj7iYKxsfRwV4vZiqGTxw4eT64VcokuAb9v36pq95+HSfcTtcYuepnYKEazadsklO9/EiQTuPJyN20yYXs4tN+DmPficCV6CEICRynjKNVpAlmr2xNF9qwe2JHVKoeQeLfxv3MpA548fiEiadwTuw0mxJX7riWe6S7Yjmg0b2VA9fS/rIRx8LKZtbl9i35nIn4N6Sr9Rr2vw57DbkaiFjj6mgsKV2eJSMvngACcEyDuT0UosOLMaFKb1RRGlEJYm/voWuAVmH8qI=;kJvQ5/hRYfF7YuBkBcPS9A=="
 ---
 

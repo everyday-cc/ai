@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Decoding Insomnia: Machine Learning Model Predicts Sleep Disorders From Patient Records"
-excerpt: "Analyzing demographics, lifestyle data, physical exam results, and laboratory values, a new machine-learning algorithm can accurately predict whether a person is at risk of sleep disorders. Age, weight,"
-publishedDateTime: 2023-04-12T18:48:00Z
-originalUrl: "https://neurosciencenews.com/ai-insomnia-22992/"
-webUrl: "https://neurosciencenews.com/ai-insomnia-22992/"
+title: "Decoding insomnia: Machine learning model predicts sleep disorders from patient records"
+excerpt: "A machine learning model can effectively predict a patient's risk for a sleep disorder using demographic and lifestyle data, physical exam results and laboratory values, according to a new study published this week in the open-access journal PLOS ONE by Samuel Y."
+publishedDateTime: 2023-04-12T18:00:00Z
+originalUrl: "https://medicalxpress.com/news/2023-04-decoding-insomnia-machine-disorders-patient.html"
+webUrl: "https://medicalxpress.com/news/2023-04-decoding-insomnia-machine-disorders-patient.html"
+ampWebUrl: "https://medicalxpress.com/news/2023-04-decoding-insomnia-machine-disorders-patient.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-04-decoding-insomnia-machine-disorders-patient.amp"
 type: article
-quality: 31
-heat: 31
+quality: 51
+heat: 61
 published: false
 
 provider:
-  name: Neuroscience News
-  domain: neurosciencenews.com
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://neurosciencenews.com/files/2023/04/machine-learning-insomnia-neurosciences-public.jpg"
-    width: 770
-    height: 565
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/decoding-insomnia-mach.jpg"
+    width: 2880
+    height: 1922
     isCached: true
 
 related:
@@ -35,6 +37,6 @@ related:
       domain: news-medical.net
     quality: 11
 
-secured: "lYnCQpH8qe+JG01M1hOhM9eIt4r7PgG8/PPbjE7+5YywHG6tRgfQko+W1a5hEIixfVhdOnfFgDJa7kviMxisOI5zKPeA0tVZeZ8d1/Wk4M0JTc1v4mQ0y56S9mtPnrz8nBEYBAuqyyPs6sySlxfTOoYMnSNafoBywtQUQ/N40BI/56AQUAApniAaQ3BVLbkgrvaT+RhftiuKkizGCaGIJBu0iG6pCRRd89pGr0feCIhWLcSoCGCsiIBRSNfNL6LAQ5Ax5tEdN9wVDL2wdL19788IVGI2imkmvRb2a3cDmJOIGntcAra5LQ4dfQZ14gPYoFoYO5oNLakxnnm8YT70h0CIoqYMse7g2vzI1ibY6oeAtH6UJQ6P/B99QqCvlVNKyZeGJNajyRyO+Xdh4XM4i9IaYj6Z7UFkTvjYX2xw+OrCQv/jb4Wv3OHQW9kIEg89kr0n3fyEacGW/Q1KblhqelRlTiScHOCAOyjStiW2/MX8Np5AVzj3g3Q4MlOSu2IxPHuEA38lsgte/3BOyoXZRA==;OVw6JPO6DQ5MuCCmZtRHNQ=="
+secured: "yqWBCG6Ijm5dyF7oL8wx4ZIV7icPeK0HS/2rCcOu/DCjkLcmWrENQGNKWdU6Aub9hIXVFtZrp1W8fAkZD+5LTiHTRccHwrI1TU4FBp0V/U8reiGJFXovUVv0mGEK9aFu/DWuErWaj1xziymzmucvCX0BkhvRsvAKqtFtZ6gxKQHVhQA+MhJPxtwPRn8YzS45ra5jw3YEZI9bGDvrZdwlEhbuVRsme+dqtYT87yQxwCuTNOiVOO9+dH2CFerz3Amg2xy5EVvjWKKnMkvUE2OzKxeWfppVnFjKv0x3eEwiu4IBoquYuUPzOS7PbQ8n0RU3ObaS0L9UDXKe540VQ0/pyO+b2JIDqG2mUVqQ7YnUWDo=;3XMiuPXzGCt2zW5aZ/znFA=="
 ---
 

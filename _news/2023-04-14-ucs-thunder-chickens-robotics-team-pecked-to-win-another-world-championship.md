@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-14T13:36:00Z
 originalUrl: "https://www.macombdaily.com/2023/04/14/ucs-thunder-chickens-robotics-team-pecked-to-win-another-world-championship/"
 webUrl: "https://www.macombdaily.com/2023/04/14/ucs-thunder-chickens-robotics-team-pecked-to-win-another-world-championship/"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: The Macomb Daily

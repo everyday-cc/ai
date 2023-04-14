@@ -1,20 +1,26 @@
 ---
 category: news
-title: "Artificial Intelligence In Healthcare Market Size & Share To Surpass $95.65 Billion By 2028 | Vantage Market Research"
-excerpt: "WASHINGTON, April 04, 2023 (GLOBE NEWSWIRE) -- The Global artificial intelligence in healthcare market is valued at USD 6.60 Billion in 2021 and is projected to reach a value of USD 95.65 Billion ..."
-publishedDateTime: 2023-04-05T03:00:00Z
-originalUrl: "https://menafn.com/1105944893/Artificial-Intelligence-In-Healthcare-Market-Size-Share-To-Surpass-9565-Billion-By-2028-Vantage-Market-Research"
-webUrl: "https://menafn.com/1105944893/Artificial-Intelligence-In-Healthcare-Market-Size-Share-To-Surpass-9565-Billion-By-2028-Vantage-Market-Research"
+title: "Artificial Intelligence in Healthcare Market Size & Share to Surpass $95.65 Billion by 2028 | Vantage Market Research"
+excerpt: "WASHINGTON, April 04, 2023 (GLOBE NEWSWIRE) -- The Global Artificial Intelligence in Healthcare Market is valued at USD 6.60 Billion in 2021 and is projected to reach a value of USD 95.65 Billion ..."
+publishedDateTime: 2023-04-04T17:59:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/04/g31663616/artificial-intelligence-in-healthcare-market-size-share-to-surpass-95-65-billion-by-2028-vantage-m"
+webUrl: "https://www.benzinga.com/pressreleases/23/04/g31663616/artificial-intelligence-in-healthcare-market-size-share-to-surpass-95-65-billion-by-2028-vantage-m"
 type: article
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "6/ezcatxr2YVmI84SYM8wO2J4eXLf6WZ/JFuxjtHLXXsQhp4lZOrbsrcppOx+Jr/UAQR3Nz7ZxVrkUOfqfF7D66N4OFHr3WnzwfIdheBnarzgNJD2oo/QFvFilrXVzQDEvJr+20qTt9V9YYOCNpCTfs+IQmhymqdoBLcC7jcAJHIa/50owi0rfIc9zJiKsTSYTf/Qeqp7j76CVq5BrdA7NoOFfcz2jGEJtmyD1uoU6vWYyWVxKw+9Y36gGrvsPrNNvm+6M6gevvPTNtxZfZ8gCWP/JTUvS012BCxO1UIBJ8D/g1EcXNwn5rULyBLJlLH5RRAp9FTswIWvyCOPrErPFg89Xidrw7KnF8q2Y+nhlY=;cGu04j2O+JEM5ytIOkDUeQ=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "FrdNBo44Lg5w+QPfxkBy6gQP2sWW8VACG7FTFa57QjIQhurF2PBCA7KA9la8W7q7cg85pFYdFd2+d7dlzhUZY1E3ySLEz3zrATA6KyUMNksLHuAgeH+EDF/ZUhlINPCYnvq8dlLZjIXQJkH8X8bxB78/ZKWql79qUW1iKUUri1Rbmv9ZtumHlKQWRQpKVCzWNuKERfJ6FehVmYJBUMPNYvxN9o8hIziPkdlGXHBdcRH1Xf+bTO63fKuQP0ChI/OoMGv9QL/X+aX7+ly5c5x/zDNSVvEifRae5z+UYoot5oS4MAQ8txez2o4jm+B+Tk1OhsSQOYsEopxzslg2db0YSrJ/ODhf5Tau++Kx8g5GMhM=;xdF9Npvgs21HXSiXhA2IAg=="
 ---
 

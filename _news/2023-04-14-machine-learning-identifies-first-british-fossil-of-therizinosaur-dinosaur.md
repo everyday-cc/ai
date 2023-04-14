@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-14T13:37:00Z
 originalUrl: "https://phys.org/news/2023-04-machine-british-fossil-therizinosaur-dinosaur.html"
 webUrl: "https://phys.org/news/2023-04-machine-british-fossil-therizinosaur-dinosaur.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Phys.org

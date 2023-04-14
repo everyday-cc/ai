@@ -48,6 +48,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 51
+  - title: "How to Invest in Artificial Intelligence"
+    excerpt: "Artificial intelligence has become one of the most talked about technologies over the past few years. Many see AI with large dollar signs in their eyes. However, every new technology has a lag between invention and commodification and just as every new technology has the risk that it won't pan out."
+    publishedDateTime: 2023-04-14T13:10:00Z
+    webUrl: "https://www.nasdaq.com/articles/how-to-invest-in-artificial-intelligence"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
 
 secured: "wXPpjP2AYK1y6s06b0QgkO7+bJukp9N7TL7pxWxvLy4Luk5nA2B1PfTpt5EoWVRUeg7/dO6qcRRsOJacqYoNix/6LC62pZcp7mamhOdH93O0t6JeEAlXXnSgpqdDLv0C2HQWnAiTbiwcaqOZ/tUxpMmuA8Pvy3Nm/MIh1Yj2i7MeDjP/PI5QuDVg2sQ18KJtwwMOLQwK/3xDKV8A+K/QZVCbYwpDe+UexekkTzxY4VqnMwDPo7SAX+goiI6zYF+juBn8DS9x0OXDqhh4mTriBgF8TitBH2z4LfuTV1OU4q2q2AzIB/QOVON9F5/Q0SWenoUQ7BbvxSI8G3oo3u72ZVyKHHPB7UIXKKH9fOT3oKs=;2kmoQNrMbka+lnPltylnGg=="
 ---

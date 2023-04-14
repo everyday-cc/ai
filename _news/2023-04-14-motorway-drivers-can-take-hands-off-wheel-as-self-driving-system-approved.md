@@ -25,58 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "When Will Cars Be Fully Self-Driving?"
-    excerpt: "Around now, we should be relaxing in the driver’s seat of our autonomous cars, streaming a TV show or perhaps even taking a nap while the vehicles drive us safely to our destinations. That was ..."
-    publishedDateTime: 2023-04-10T13:04:00Z
-    webUrl: "https://www.wsj.com/articles/cars-self-driving-when-c6ae4fdc?mod=hp_lista_pos1"
+  - title: "First hands-free self-driving system approved for British motorways"
+    excerpt: "System in Ford’s Mustang Mach-E allows motorist to remove grip from wheel but eyes must be kept on road"
+    publishedDateTime: 2023-04-14T10:10:00Z
+    webUrl: "https://www.theguardian.com/money/2023/apr/14/first-hands-free-self-driving-system-approved-for-british-motorways-ford-mustang"
+    ampWebUrl: "https://amp.theguardian.com/money/2023/apr/14/first-hands-free-self-driving-system-approved-for-british-motorways-ford-mustang"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/money/2023/apr/14/first-hands-free-self-driving-system-approved-for-british-motorways-ford-mustang"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 54
+      name: The Guardian
+      domain: theguardian.com
+    quality: 44
     images:
-      - url: "https://images.wsj.net/im-753736/social"
-        width: 1280
-        height: 640
+      - url: "https://i.guim.co.uk/img/media/466e701e1d20c8cda00170e3dfbdbb7c64be37e7/61_3_1789_1074/master/1789.jpg?width=620&quality=85&auto=format&fit=max&s=822207dc3c1df22d43851b874fc2a830"
+        width: 620
+        height: 372
         isCached: true
-  - title: "How road rage really affects your driving -- and the self-driving cars of the future"
-    excerpt: "New research has identified characteristics of aggressive driving -- which impact both road users and the transition to self-driving cars of the future. In the first study to systematically identify aggressive driving behaviours, scientists have measured ..."
-    publishedDateTime: 2023-04-10T23:59:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/04/230411150507.htm"
+  - title: "Self-driving car system approved for use on GB motorways by government"
+    excerpt: "Motorway drivers will be legally allowed to let go of a car's steering wheel for the first time, after the UK became the first European country to approve a hands-free system."
+    publishedDateTime: 2023-04-14T11:26:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2023/04/self-driving-car-system-approved-for-use-on-gb-motorways-by-government/"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 27
-  - title: "KIYC: Is technology ready for self-driving cars? Some drivers have doubts"
-    excerpt: "Americans are killed in car accidents and the car industry says self-driving vehicles will eventually make the roads safer."
-    publishedDateTime: 2023-04-13T14:00:00Z
-    webUrl: "https://brooklyn.news12.com/america-self-driving-cars-technology-drivers-have-doubts"
-    ampWebUrl: "https://brooklyn.news12.com/amp/america-self-driving-cars-technology-drivers-have-doubts"
-    cdnAmpWebUrl: "https://brooklyn-news12-com.cdn.ampproject.org/c/s/brooklyn.news12.com/amp/america-self-driving-cars-technology-drivers-have-doubts"
+      name: IET
+      domain: theiet.org
+    quality: 24
+    images:
+      - url: "https://eandt.theiet.org/media/21166/ford-foe_bluecruise-graphic-hero.jpg?crop=0,0.1545732084910075,0,0.35323929150899247&cropmode=percentage&width=1200&height=450&rnd=133259450510000000"
+        width: 1200
+        height: 450
+        isCached: true
+  - title: "ITV News takes UK's first hands-free self-driving car out for a test drive"
+    excerpt: "ITV News' Ian Woods took the UK's first hands-free self-driving car out for a test drive Electric cars that drive themselves - it is a giant leap from those that Henry Ford first sold. But today, Ford's new advanced driver assistance system has gained approval for use on the UK’s motorways - meaning motorists are legally able to drive with their hands off the wheel."
+    publishedDateTime: 2023-04-13T21:21:00Z
+    webUrl: "https://www.itv.com/news/2023-04-13/itv-news-takes-uks-first-hands-free-self-driving-car-out-for-a-test-drive"
     type: article
     provider:
-      name: News 12 Networks
-      domain: news12.com
-    quality: 23
-  - title: "Who’s liable in a ‘self-driving’ car crash?"
-    excerpt: "CLEVELAND—Police officers can often identify which driver is responsible for a traffic accident. But what about when a self-driving vehicle is involved? Which driver should be liable for that? The question is increasingly relevant as “partially ..."
-    publishedDateTime: 2023-04-10T23:59:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/985695"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 4
-  - title: "How road rage really affects your driving—and the self-driving cars of the future"
-    excerpt: "New research by the University of Warwick has identified characteristics of aggressive driving—which impact both road users and the transition to self-driving cars of the future."
-    publishedDateTime: 2023-04-11T20:10:00Z
-    webUrl: "https://techxplore.com/news/2023-04-road-rage-affects-drivingand-self-driving.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 0
+      name: ITV
+      domain: itv.com
+    quality: 2
 
 secured: "QUCSZ65cqLsujkS5Rpj/9ebLYMTrPt9U9tSFACfH4BFi1+RXxEVQvVBvNGLsnCARDxPrZO5ua9gSPZ8htKWH/nxWBIUFCsZ6kss5Q3Mu+C2JqX4Jf3nIvzmnSrqCBfctMLQriJJhIIgZ9u4bEs/dIDtjV1vgK8yqFeKAtHQkiE3umAVj1WW9sLAODOIJv+IgirR3lttoG4k2gfd4rLzT3zwSxe84VKsB6KGqwfhVP2DGalmhH3pMxon0ovejnGLODaE/j01XkjIyl6XShE505ZnmvMuv57B3xtmbcHNqwtU+FzsiIG80EkyfNfJNygHDGW6/xNporT/J/PgQcAaKReucFzWjSQeMtRRdKr0bL6k=;md8LhUPAISkab/fqmDlZ5A=="
 ---

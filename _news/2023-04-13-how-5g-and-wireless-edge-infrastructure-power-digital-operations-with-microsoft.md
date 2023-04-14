@@ -68,6 +68,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 66
+  - title: "Microsoft brings Bing's AI chatbot to its iOS and Android SwiftKey apps"
+    excerpt: "Microsoft has begun integrating Bing AI capabilities into its popular keyboard app SwiftKey. While the third-party tool already includes some AI features, like learning from users' writing styles to make suggestions."
+    publishedDateTime: 2023-04-14T12:27:00Z
+    webUrl: "https://www.engadget.com/microsoft-brings-bings-ai-chatbot-to-its-ios-and-android-swiftkey-apps-113528183.html?src=rss"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 66
   - title: "Microsoft integrates Bing's AI into Swiftkey, Skype, Start apps"
     excerpt: "After launching the new Bing experience earlier this year, Microsoft has been trying to bring the search engine's AI features to its products."
     publishedDateTime: 2023-04-14T06:11:00Z
@@ -90,6 +99,15 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
+    quality: 51
+  - title: "AWS steps up AI rivalry with Google, Microsoft"
+    excerpt: "Microsoft and Google are adding AI chatbots to consumer products like their search engines, but they are also eying another huge market: selling the underlying technology to other companies via their cloud operations."
+    publishedDateTime: 2023-04-14T12:56:00Z
+    webUrl: "https://techcentral.co.za/aws-steps-up-ai-rivalry-with-google-microsoft/224441/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
     quality: 51
   - title: "Microsoft Shares Healthcare AI, Cloud Updates"
     excerpt: "Microsoft announced updates across its Azure AI Services for Health and Microsoft Cloud for Healthcare offerings."

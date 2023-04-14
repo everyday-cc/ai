@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-14T11:35:00Z
 originalUrl: "https://railway-news.com/computer-vision-making-the-transport-sector-efficient-safe/"
 webUrl: "https://railway-news.com/computer-vision-making-the-transport-sector-efficient-safe/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: railway-news

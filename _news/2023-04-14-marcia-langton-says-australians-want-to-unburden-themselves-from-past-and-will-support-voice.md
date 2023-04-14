@@ -35,6 +35,15 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Indigenous voice to parliament: Don’t let bureaucracy dismantle recognition of First Australians"
+    excerpt: "The government has finally set up a Joint Select Committee on the Aboriginal and Torres Strait Islander Voice Referendum to receive public submissions on the proposed constitutional amendment on the voice."
+    publishedDateTime: 2023-04-14T13:26:00Z
+    webUrl: "https://www.theaustralian.com.au/inquirer/indigenous-voice-to-parliament-dont-let-bureaucracy-dismantle-recognition-of-first-australians/news-story/b5b96d20c81ebdf59678e579a8229e06"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 0
 
 secured: "ZiySGUAV9OwULwe0ZAyWe+sGzgkPN6oN1+rEWIUJsJHPGl9qpTko0Di2pKJvMp4+9MKqcEKNgJsqEfOKo+FBIXtSFiujbxZ4N/uf8OLkS5/V1SyBTwh5YqCfmjv04RZiN3/yWJWfh3jMbGeFM1wBbHlhqDakNaAt7/NxB2coHsgaCwmlSesE0TYSOySkIe/F5W0Fmo3VWcBHePIgiBvtYwincyC0GJxf2DVtPSCs1rHwdKdL7/9BiOMMZWQat+7/OOaufnajsCbt6JOiKlaX9DdKojzgUYUJ9N6xEL/HZo/4aba54Ywung7QEgiDRbTRMkynrfCJq57Wf6MF0WVFM3RYAHyDxWTchV43HA3lBcBazkom94Sfs/KJTNTZYAKMcZzOStZoRRwIcbRDxxod7UZl7oxdEtX59nTUQ6Nl5xn/drqM6T+awSzief9nSHFJ+JqhND175B4dnRSILkShuF6QYuTqyBkrt+Ahkc2Zu7XCFk5v61wItbqmMYA5wpv3lHT1NwpHlJ3z8Zmhh2qInA==;1/LgQSGSPjSB7/8GgFC9Eg=="
 ---

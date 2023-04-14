@@ -37,15 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Systems Market by 2030: Future Scope and Predictions"
-    excerpt: "The Face Recognition Systems Market has been comprehensively examined in a new research report published by Absolutereports.com. This report provides a complete overview of the market scenario, including latest trends,"
-    publishedDateTime: 2023-04-13T05:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-by-2030-future-scope-and-predictions-2023-04-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
   - title: "2023, Artificial Intelligence in Platform as a Service (PaaS) Market is thriving worldwide by 2030"
     excerpt: "Artificial Intelligence in Platform as a Service (PaaS) Market Size 2023-2030 | New Report (97 Pages) | Analytics |In"
     publishedDateTime: 2023-04-10T03:45:00Z

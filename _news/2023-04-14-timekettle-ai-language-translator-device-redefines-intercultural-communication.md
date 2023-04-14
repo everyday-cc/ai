@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-14T09:54:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/timekettle-ai-language-translator-device-redefines-intercultural-communication-1032232113"
 webUrl: "https://markets.businessinsider.com/news/stocks/timekettle-ai-language-translator-device-redefines-intercultural-communication-1032232113"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: Business Insider

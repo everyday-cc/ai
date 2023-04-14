@@ -49,6 +49,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Pros and cons of artificial intelligence"
+    excerpt: "Artificial intelligence (AI) could lead to a “nuclear-level catastrophe”, according to a third of researchers surveyed for an annual report by Stanford University. AI systems “demonstrate capabilities in question answering,"
+    publishedDateTime: 2023-04-14T13:12:00Z
+    webUrl: "https://www.theweek.co.uk/news/technology/960453/pros-and-cons-of-artificial-intelligence"
+    type: article
+    provider:
+      name: The Week UK
+      domain: theweek.co.uk
+    quality: 21
 
 secured: "Hd550JpphzwOnx84khakHc1bU4buezIBH1MnGcpL42MSVv82zJp2E4gQ/gRIumIR8S+W/5ualTdjCfugfAcCkH9RQX2CjNg/Mg+evZNQIxNOAfu/7N0Ioj6MXFr/VJQ1EdoNy18cZ1g0P2SJNbyBTwiASrDgOE/xZj8PuZ5EErit3JFPGqxIZ0qtuu9JXufS67unu1lA/sunIUFlPgvJtq1nqMACQVUS22HRj31u849oElhEf5hkBGAb6AOHxC1GX9Ha2C4EimJlsdf+L/I6+OvaaEV4AlYoQB9IB7bSbYSTD8P2Xsqfez4rEUjK0fNsvjJxKCAaFEg5bDspAJa4at9nK4jL4qXo676sBOrWFLJE1tZt9sA6CBQEBk5DOIAsjxRy0eaAz9EQegRcZuUSl8rQ6jHTI5NRKrUrn0QqzBMAZ7LDcTa4IjtLs7NaYYVKDy39LF83bW0AtajTkbOd9KorQesC+XgBvB6NeHfbls++YRkyEWmeefcjKYeUQXQWiEfKX1ZlzmArUPXMx9P/TQ==;RjSSiE69qH4pH88+E6FRag=="
 ---

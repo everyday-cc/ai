@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Duke Health Announces AI-Driven Healthcare Transformation Collab"
-    excerpt: "Duke Health and SAS aim to develop cloud-based and artificial intelligence-powered healthcare solutions under a new collaboration."
-    publishedDateTime: 2023-04-13T13:36:00Z
-    webUrl: "https://healthitanalytics.com/news/duke-health-announces-ai-driven-healthcare-transformation-collab"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 34
   - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver meaningful outcomes"
     excerpt: "In our latest release for Microsoft Cloud for Healthcare, we’re excited to share how we can help your organization deliver exceptional patient and member experiences, and more."
     publishedDateTime: 2023-04-12T15:14:00Z

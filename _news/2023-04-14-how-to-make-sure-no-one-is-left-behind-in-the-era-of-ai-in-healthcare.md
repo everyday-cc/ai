@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/14/how-to-mak
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/14/how-to-make-sure-no-one-is-left-behind-in-the-era-of-ai-in-healthcare/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 51
+  - title: "How to Invest in Artificial Intelligence"
+    excerpt: "Artificial intelligence has become one of the most talked about technologies over the past few years. Many see AI with large dollar signs in their eyes. However, every new technology has a lag between invention and commodification and just as every new technology has the risk that it won't pan out."
+    publishedDateTime: 2023-04-14T13:10:00Z
+    webUrl: "https://www.nasdaq.com/articles/how-to-invest-in-artificial-intelligence"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
 
 secured: "X3U5C7wqamJtmMgK3IKfBM8MPc3N4RcH8tmBozgVO2cvYUPtog0bn0uXIECKnfvlHpFq+uvYUZ4LXI6N6Yb46royStkUdwx5hlvZFxJEd/x4D9K80G8URrSoAIGSnmse/Ydonhh8L+Ghyrvw4XzuZZmxx4ie7BXMdi4i1hB5gnIM/T6U/4RN1dWEawQGmCmdcEmtERtt1eCjr5bV9ylOe+7k0m0UreMbj7TirJIPE9CnsRaft04EsRrUF0GLFh9qSZ5FbnCrpaN2czmlA9b3aR2K4psDPevr2f5dsV3bDU0wvrX2Xyqephw0EU/NkRaLIsZeTsIZPGcJDquYWSrYQHWl2Au1y7Y97KGGbPRgzQQI07eBf9pIa1d+eIzCteT5oPOBmDVnMENK497Fy0QvVe48GZAKUFVpEHo0ieTwgCyPAB+LKgIdZ9ifK4d7yyjV5hPc10zhJhKP2gnNY+PNWtatqAv0XPzwpCJdVS7OxpeIQK6DohGScGTxa7e5dNUokYmH9ebDN2oAYT8dWqKssw==;jcmKnPyidiIY919kxK+rTw=="
 ---

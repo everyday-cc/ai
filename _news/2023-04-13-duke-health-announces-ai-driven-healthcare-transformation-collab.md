@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/duke-health-announces-ai-driven
 webUrl: "https://healthitanalytics.com/news/duke-health-announces-ai-driven-healthcare-transformation-collab"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -19,24 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver meaningful outcomes"
-    excerpt: "In our latest release for Microsoft Cloud for Healthcare, we’re excited to share how we can help your organization deliver exceptional patient and member experiences, and more."
-    publishedDateTime: 2023-04-12T15:14:00Z
-    webUrl: "https://www.microsoft.com/en-us/industry/blog/health/2023/04/12/microsoft-cloud-for-healthcare-empowering-healthcare-to-deliver-meaningful-outcomes/"
+  - title: "Navix Health Launches Navixai, A New Artificial Intelligence Platform For Healthcare Professionals"
+    excerpt: "a powerful new artificial intelligence (AI) platform designed specifically for healthcare professionals. NavixAI combines advanced AI algorithms with the underlying foundation of diagnosis codes ..."
+    publishedDateTime: 2023-04-11T01:50:00Z
+    webUrl: "https://menafn.com/1105976175/Navix-Health-Launches-Navixai-A-New-Artificial-Intelligence-Platform-For-Healthcare-Professionals"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 29
-  - title: "Navigating AI Malpractice in Healthcare: Balancing Revolutionary Benefits and Growing Concerns"
-    excerpt: "AI malpractice in healthcare raises concerns amid innovations, highlighting the need to address challenges and ensure patient safety"
-    publishedDateTime: 2023-04-13T21:27:00Z
-    webUrl: "https://marketscale.com/industries/software-and-technology/navigating-ai-malpractice-in-healthcare-balancing-revolutionary-benefits-and-growing-concerns/"
-    type: article
-    provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 22
+      name: Mena FN
+      domain: menafn.com
+    quality: 55
+    images:
+      - url: "https://menafn.com/updates/pr/2023-04/10/G_e47ac5cd-e_Image_In_Body.png"
+        width: 481
+        height: 480
+        isCached: true
 
 secured: "/Eo3Qa/XzLqGauvFcyXxG4alEw9gTCG+2/1AwW4pgc+JtQwLLvs06QNGuHDxkMIdObvFwlhEvjLHWrTMumRN97Z3VMQDfCJjShN1uLW1Fv92vA4NxpJtETkSDtnAUH7qZ49JFNXm/NHIBg7uHuMmGQZdg+8mAvldlWeORVNVnu8uqV/Q8t4kfWkYf1ZW6koYqoKXPjCDV6M/dLMqDL8lx07YNeAlSHuYqWwX+82nbR6Y0d5rsIQdHvEkZyQ6Xkp9c/EbOWl+eMSQQor4nLT6SQ4Kx6b5M/2qslJtb55bQ3JjrShpeqfFK+RhuVsIcHDBuUc39bqavv5C3Jdi5uec9vG3g3L7lu3bGCp1YfwTse8=;L4hnGa0qOgPWoIZte3lnUQ=="
 ---

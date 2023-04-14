@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-14T12:34:00Z
 originalUrl: "https://medcitynews.com/2023/04/trends-to-watch-for-in-ambient-ai-at-the-point-of-care/"
 webUrl: "https://medcitynews.com/2023/04/trends-to-watch-for-in-ambient-ai-at-the-point-of-care/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: MedCity News

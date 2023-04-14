@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "Motorway drivers can take hands off wheel as self-driving system approved"
+    excerpt: "Ford said it has been given the go-ahead by the Government to switch on its BlueCruise self-driving technology. The system is only available on the 2023 Ford Mustang Mach-E, a pure electric vehicle. Five radars track the position and speed of other ..."
+    publishedDateTime: 2023-04-14T07:56:00Z
+    webUrl: "https://www.belfasttelegraph.co.uk/news/uk/motorway-drivers-can-take-hands-off-wheel-as-self-driving-system-approved/356764219.html"
+    type: article
+    provider:
+      name: Belfast Telegraph
+      domain: belfasttelegraph.co.uk
+    quality: 23
+    images:
+      - url: "https://focus.belfasttelegraph.co.uk/thumbor/bRMlVCZUyynUUasxkU1VTuPrY6U=/55x0:2942x1925/2887x1925/prod-mh-ireland/ceb34833-c43a-43cc-8b11-0435cbc76a6e/48796b1d-d1a0-4d5d-819c-b171cb6f50f5/2.70030337.jpg"
+        width: 2887
+        height: 1925
+        isCached: true
 
 secured: "LGN27sIThHu389HmRuHoBFHrKB8nJJ7rqpXPPNGeM82lg4kmMvK9jAujszYg3HNKSerf5VNf6oAEt/0sDiH4yM45+qwmu8k2YN5aNBLcifhi9U8Bc5BzDjB3Htnf+HAZ7D+VPwbIyA4J3PqPNYiRM4vN6kSVIOlCHKQz57bzf1iValzscR9M4teTt66ASkq27FUtcHxGUPmJvyoSPOqnKaRgiSc/k98MGM96NOtB7NMSp2YtwWipNWNCgjuKd5CDLw/JLgZFohprwNA38eya2n1KrVzG448jJnG28AstnOGK4K0C6eHC1aVo+oFTRGbv8/8CYOqp611bhOalhECUuIPJU10QtEBNqxy4ko9Q0Jo=;xpNgNw+g3sbz8Pqw1fzOyQ=="
 ---

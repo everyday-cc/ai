@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-14T12:49:00Z
 originalUrl: "https://www.fortuneindia.com/macro/govt-to-spend-200-mn-on-ai-to-improve-governance-rajeev-chandrasekhar/112279"
 webUrl: "https://www.fortuneindia.com/macro/govt-to-spend-200-mn-on-ai-to-improve-governance-rajeev-chandrasekhar/112279"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Fortune India

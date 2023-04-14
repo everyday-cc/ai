@@ -84,6 +84,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+  - title: "Facial Recognition Market Analysis Future Outlook Forecast 2023 to 2031"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 14, 2023 (Alliance News via COMTEX) -- Facial recognition is a biometric technology which is used for authentication and identification of individuals, by comparing the ..."
+    publishedDateTime: 2023-04-14T13:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-analysis-future-outlook-forecast-2023-to-2031-2023-04-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
   - title: "\"Data Science and Machine Learning Service Market\" Size 2023 Will Grow Rapidly Another Level in The Forthcoming Year 2030"
     excerpt: "Data Science and Machine Learning Service Market Size With forecast period 2023-2030 | New Report (102 Pages) |"
     publishedDateTime: 2023-04-12T06:50:00Z

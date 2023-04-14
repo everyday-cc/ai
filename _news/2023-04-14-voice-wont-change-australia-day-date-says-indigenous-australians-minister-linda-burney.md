@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Indigenous voice to parliament: Don’t let bureaucracy dismantle recognition of First Australians"
+    excerpt: "The government has finally set up a Joint Select Committee on the Aboriginal and Torres Strait Islander Voice Referendum to receive public submissions on the proposed constitutional amendment on the voice."
+    publishedDateTime: 2023-04-14T13:26:00Z
+    webUrl: "https://www.theaustralian.com.au/inquirer/indigenous-voice-to-parliament-dont-let-bureaucracy-dismantle-recognition-of-first-australians/news-story/b5b96d20c81ebdf59678e579a8229e06"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 0
   - title: "Marcia Langton says Australians want to ‘unburden themselves’ from past and will support Voice"
     excerpt: "Most Australians want to “unburden themselves from the past” and will support the Voice to Parliament, according to one of the key architects."
     publishedDateTime: 2023-04-14T02:58:00Z
