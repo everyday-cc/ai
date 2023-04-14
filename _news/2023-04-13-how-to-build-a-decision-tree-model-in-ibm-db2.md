@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T12:30:00Z
 originalUrl: "https://www.ibm.com/blog/how-to-build-a-decision-tree-model-in-ibm-db2/"
 webUrl: "https://www.ibm.com/blog/how-to-build-a-decision-tree-model-in-ibm-db2/"
 type: article
+quality: 82
+heat: 82
+published: true
 
 provider:
   name: IBM

@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-12T19:45:00Z
 originalUrl: "https://www.benzinga.com/news/23/04/31776509/ai-consulting-for-the-masses-robot-advisors-might-be-coming-to-a-business-near-you"
 webUrl: "https://www.benzinga.com/news/23/04/31776509/ai-consulting-for-the-masses-robot-advisors-might-be-coming-to-a-business-near-you"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: Benzinga.com

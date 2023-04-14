@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-12T11:00:00Z
 originalUrl: "https://www.foxnews.com/politics/ais-ability-learn-poses-challenge-regulators-companies-little-bit-scary"
 webUrl: "https://www.foxnews.com/politics/ais-ability-learn-poses-challenge-regulators-companies-little-bit-scary"
 type: article
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: Fox News

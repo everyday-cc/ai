@@ -5,7 +5,12 @@ excerpt: "New technologies that can capture subtle changes in a patient's voice 
 publishedDateTime: 2023-04-13T06:14:00Z
 originalUrl: "https://www.news-medical.net/news/20230412/AI-can-identify-subtle-language-and-audio-changes-in-patients-at-early-stages-of-Alzheimers.aspx"
 webUrl: "https://www.news-medical.net/news/20230412/AI-can-identify-subtle-language-and-audio-changes-in-patients-at-early-stages-of-Alzheimers.aspx"
+ampWebUrl: "https://www.news-medical.net/amp/news/20230412/AI-can-identify-subtle-language-and-audio-changes-in-patients-at-early-stages-of-Alzheimers.aspx"
+cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20230412/AI-can-identify-subtle-language-and-audio-changes-in-patients-at-early-stages-of-Alzheimers.aspx"
 type: article
+quality: 48
+heat: 48
+published: false
 
 provider:
   name: News Medical
@@ -15,6 +20,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "R/8AJ5QYi2QPG+2dsH7itvIw2RsRc8NE72xiaqWN6wWfrSXBlwikZGsF60R9fBPC+YSfkqioxaf+E2ZltWkfcogw+agG2fbKTtD3fBMOW7DtZ/qJTUVh4tWf1o6hywQ3Qa2dQydbsqjCITXUAGsWaI8iHMZtz70BXHiaZ4nzTYyyjXkJFtdYnNo2P9uwvgFcnHlkzi4FQdeTibFdXUfelrbv66bjJO6uopHb8ewZZMuk3+E40lxNyLa2oevcLIz9yWtDMwScyyDOtQPvIhUZLoQ9+2+TB353qJyKI5BU8uJlGvCqZmIZDGZNo9Q+RIwF5bD3lbHgSqddE/jEgU+xlYfFqsPQ0dsU7tehv0tNpt0=;brymRxvxSghIQjZ/9f+48Q=="
+images:
+  - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+    width: 620
+    height: 480
+    isCached: true
+
+secured: "YWqvItS+UxEt4Ei0TQK5MeyObm8SN9a9XTaEFsgiJhijmsX9zyAzKfb+OspLqEXMbVHnaiR5Gu/8iu+0j7RwprRqmoIHtPVw/qPhet4Tf2us/oykPwalJi1etOlVwUU2k9q7AYmvcpzjqdQkBEtkl4FB4WAkS3tJ5PB9IoEVpgbDZtWLtVMDl8i71yP53XBQ1iaZJeh7wdNHc03LaWcP+Uh+33ibcBvWksYEuG34p6kcRKtG+L2tzgZ9Z5TZttYLM/svXzo0+dBXogVWOD6aMc2U2DqJx1C4K4Nl73vkgN7ciCZzrJ3/kb2CQqjXJr9LUGojNL3R8JMXWXfzjPLc9uIbO1BUxghlD5BdHr80UA4=;fL9pFm4dKtt84W+fHPp95Q=="
 ---
 

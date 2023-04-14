@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-10T03:05:00Z
 originalUrl: "https://vir.com.vn/vpbank-signs-with-aws-to-improve-customer-experience-100996.html"
 webUrl: "https://vir.com.vn/vpbank-signs-with-aws-to-improve-customer-experience-100996.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Vietnam Investment Reviev

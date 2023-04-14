@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T23:05:00Z
 originalUrl: "https://www.rochellenews-leader.com/article/artificial-intelligence-and-how-it-may-affect-jobs"
 webUrl: "https://www.rochellenews-leader.com/article/artificial-intelligence-and-how-it-may-affect-jobs"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Rochelle News-Leader

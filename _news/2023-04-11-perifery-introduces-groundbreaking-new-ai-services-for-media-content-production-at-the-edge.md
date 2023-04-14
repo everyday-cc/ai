@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-11T15:22:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/04/b31747601/perifery-introduces-groundbreaking-new-ai-services-for-media-content-production-at-the-edge"
 webUrl: "https://www.benzinga.com/pressreleases/23/04/b31747601/perifery-introduces-groundbreaking-new-ai-services-for-media-content-production-at-the-edge"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Benzinga.com

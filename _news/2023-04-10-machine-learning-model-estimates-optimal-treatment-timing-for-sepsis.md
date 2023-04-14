@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-10T13:30:00Z
 originalUrl: "https://healthitanalytics.com/news/machine-learning-model-estimates-optimal-treatment-timing-for-sepsis"
 webUrl: "https://healthitanalytics.com/news/machine-learning-model-estimates-optimal-treatment-timing-for-sepsis"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Analytics
@@ -14,6 +17,26 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Deep learning model estimates cancer risk from breast density"
+    excerpt: "Mammographic density estimates based on the visual scores of radiologists. Breast cancer is the most common cancer to affect women worldwide. According to the American Cancer Society, about 1 in 8 women in the United States will develop breast cancer in their lifetime."
+    publishedDateTime: 2023-04-12T16:29:00Z
+    webUrl: "https://optics.org/news/14/4/17"
+    type: article
+    provider:
+      name: Optics
+      domain: optics.org
+    quality: 19
+  - title: "Deep learning model estimating breast density could help with predicting cancer risk"
+    excerpt: "The researchers have developed a procedure that would estimate a density score upon feeding in a mammogram image as an input."
+    publishedDateTime: 2023-04-09T13:43:00Z
+    webUrl: "https://www.newindianexpress.com/lifestyle/health/2023/apr/09/deep-learning-model-estimating-breast-density-could-help-with-predicting-cancer-risk-2564259.html"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 12
 
 secured: "szpue0Lmb+/e9WTk0DkN+blamyncvqzlSqOg31ZjlnVbg/CVk1KV/cuGgV3MkiaBoKbgztBn9pFGMNiWXpqwG9tYWOuCQn+9zSeahCqeQBbVL+K8Yb1ACj8LcWEGt2ZSTvtJXjhV6bGg5o+yf3SrCyNvx13uIejUYESK/YlufrjrnqBMRjPUJ6qOfImlJbyc1prAmXk3yz/pJoZeVNmjMItdrJNC7m/cM+wxQwB/iieFrsjpjpNpCFMRsNyu8T6/X6ZBONEIvTBi4M28/W558dr4w7kNfYgFy5MhZmLWkeQD1vARq0DG30+G6JJkXFm29dStXxxVZ0/8Tyd3y7WY7iHuX1HT9rZc3L6tJ6V/OHwmofxWZmiydPTT8PrxU3SSDfFQBGdgRclvp3Zz+hTHluUBkOq3nCZW31TpoE6hOCTItHCDCHPr02MfWXK7ycj1ljt7JWIohNBTPgtdJbftlD7MTN+0MZ7RIGSaEzGUw1njj2HtuxfFkOx7etPhydBIkGFJvxF7e984IXeP4RigaQ==;TyNMrNhokxldJA+vn5jqhQ=="
 ---

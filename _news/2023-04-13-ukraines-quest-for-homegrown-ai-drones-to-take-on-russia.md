@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T16:00:00Z
 originalUrl: "https://www.wired.com/story/fast-forward-ukraines-quest-for-homegrown-ai-drones-to-take-on-russia/"
 webUrl: "https://www.wired.com/story/fast-forward-ukraines-quest-for-homegrown-ai-drones-to-take-on-russia/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Wired

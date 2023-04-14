@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-12T16:37:47Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-a-predictive-maintenance-solution-for-airport-baggage-handling-systems-with-amazon-lookout-for-equipment/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-a-predictive-maintenance-solution-for-airport-baggage-handling-systems-with-amazon-lookout-for-equipment/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: AWS

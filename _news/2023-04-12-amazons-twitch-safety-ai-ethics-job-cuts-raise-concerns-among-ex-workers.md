@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-11T20:25:00Z
 originalUrl: "https://www.bloomberg.com/news/articles/2023-04-11/twitch-cuts-in-safety-ai-ethics-raise-concerns-among-ex-workers"
 webUrl: "https://www.bloomberg.com/news/articles/2023-04-11/twitch-cuts-in-safety-ai-ethics-raise-concerns-among-ex-workers"
 type: article
+quality: 62
+heat: 62
+published: false
 
 provider:
   name: Bloomberg L.P.

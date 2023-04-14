@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T12:00:00Z
 originalUrl: "https://www.asiaone.com/business/wimi-develops-3d-object-recognition-system-based-multi-view-feature-fusion"
 webUrl: "https://www.asiaone.com/business/wimi-develops-3d-object-recognition-system-based-multi-view-feature-fusion"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Asia One

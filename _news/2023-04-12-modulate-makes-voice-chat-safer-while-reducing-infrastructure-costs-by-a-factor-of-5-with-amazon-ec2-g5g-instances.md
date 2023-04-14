@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-12T16:33:13Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/modulate-makes-voice-chat-safer-while-reducing-infrastructure-costs-by-a-factor-of-5-with-amazon-ec2-g5g-instances/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/modulate-makes-voice-chat-safer-while-reducing-infrastructure-costs-by-a-factor-of-5-with-amazon-ec2-g5g-instances/"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: AWS

@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T23:00:00Z
 originalUrl: "https://venturebeat.com/data-infrastructure/ai-and-ml-the-new-frontier-for-data-center-innovation-and-optimization/"
 webUrl: "https://venturebeat.com/data-infrastructure/ai-and-ml-the-new-frontier-for-data-center-innovation-and-optimization/"
 type: article
+quality: 66
+heat: 66
+published: false
 
 provider:
   name: VentureBeat

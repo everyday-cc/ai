@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T05:04:00Z
 originalUrl: "https://www.austinchronicle.com/news/2023-04-14/ut-conference-explores-ethics-around-the-breakneck-advancement-of-ai/"
 webUrl: "https://www.austinchronicle.com/news/2023-04-14/ut-conference-explores-ethics-around-the-breakneck-advancement-of-ai/"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: The Austin Chronicle
@@ -15,6 +18,17 @@ topics:
   - Computer Vision
   - AI
   - AI Ethics
+
+related:
+  - title: "Why the future of AI will be fought on a battleground of ethics"
+    excerpt: "Tech giants had started building responsible AI teams to focus and advise on the safety of consumer products that are powered by AI—but then the layoffs came."
+    publishedDateTime: 2023-04-11T14:00:00Z
+    webUrl: "https://www.fastcompany.com/90876362/future-of-ai-will-be-fought-on-battleground-of-ethics"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 34
 
 secured: "+8IUMMQXgSrgzSeYSnOAZX4A/nZt/PIg2ATQT1lSwg3ffIoLk6zHfOQ8vKVM08zGeCcC0k0AzabuJ+uMgsVNChnwt089POFGV/PAV8HMmLGzTsQOtytkFsbVcn8frOIkOSVIdIdTBqAx3CJWASL+fQifOaySYjFHkIaut7Y7hIMod5Y25Hq3kYOMvUSodOqpIUbHsdngUKNn5ULFmgfM68IhKrg9qci2mKsBoiSiMQtdHWhIoV+p5cQ/Ln55m1aSmaZF+h27DaKF+mMQLtYug576eEwdiZO86EKkhsbEnFUbhWQ5EbR1fP/LwTv3Bhy53tJxxjqq+qzwGIO78SaDnzkgIeBKezLz1K6m5/8cnpgJelJikYYzDgM6J1SrU+F4LieIdAN0U9krXnJf5U5+jJdmA4tAG3ApEQPrqU/7RBiMuHgU/s1r2AMGDtHDrqdUnTf4qH/wKJnG7KWKPiR4h1rd6GzK3l+9k652I1NsO/NjbBFFvky4323ONjPAZU53n30PM5fMa8iYas5hK710Fw==;UTTtg++78sOds2MKed1ljg=="
 ---

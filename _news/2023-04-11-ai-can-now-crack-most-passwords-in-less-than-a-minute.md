@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-11T12:15:00Z
 originalUrl: "https://www.extremetech.com/internet/ai-can-now-crack-most-passwords-in-less-than-a-minute"
 webUrl: "https://www.extremetech.com/internet/ai-can-now-crack-most-passwords-in-less-than-a-minute"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: ExtremeTech

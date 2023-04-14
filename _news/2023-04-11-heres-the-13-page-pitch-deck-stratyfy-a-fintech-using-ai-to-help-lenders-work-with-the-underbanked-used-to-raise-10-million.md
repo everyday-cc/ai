@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-10T17:06:00Z
 originalUrl: "https://www.businessinsider.com/fintech-stratyfy-pitch-deck-ai-lender-underbanked-2023-4"
 webUrl: "https://www.businessinsider.com/fintech-stratyfy-pitch-deck-ai-lender-underbanked-2023-4"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Business Insider

@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-10T20:00:00Z
 originalUrl: "https://www.marketwatch.com/press-release/autonomous-self-driving-cars-market-set-to-reach-624-million-by-2030-2023-04-10"
 webUrl: "https://www.marketwatch.com/press-release/autonomous-self-driving-cars-market-set-to-reach-624-million-by-2030-2023-04-10"
 type: article
+quality: 33
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -18,6 +21,40 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Speech and Voice Recognition Market is Booming Worldwide Throughout 2023-2030"
+    excerpt: "The Global Speech and Voice Recognition Market is Forecasted to Reach a Multimillion-Dollar Valuation by 2030, Exhibiting an Unexpected CAGR During the Forecast Period of 2023-2030, as Compared to Data from 2016 to 2022."
+    publishedDateTime: 2023-04-12T07:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-is-booming-worldwide-throughout-2023-2030-2023-04-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023, Artificial Intelligence in Platform as a Service (PaaS) Market is thriving worldwide by 2030"
+    excerpt: "Artificial Intelligence in Platform as a Service (PaaS) Market Size 2023-2030 | New Report (97 Pages) | Analytics |In"
+    publishedDateTime: 2023-04-10T03:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-in-platform-as-a-service-paas-market-is-thriving-worldwide-by-2030-2023-04-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+  - title: "The Speech and Voice Recognition Technology Market is Poised to Experience Huge Growth to 2023"
+    excerpt: "Speech and Voice Recognition Technology Market Size 2023 | New Report (117 Pages) | Analytics | In This Reports Speech"
+    publishedDateTime: 2023-04-13T06:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-speech-and-voice-recognition-technology-market-is-poised-to-experience-huge-growth-to-2023-2023-04-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
 
 secured: "JyfZ7BlalSpBszrT7F/jI40f1yiaIk1sgvLN4sQFxNePPNOyKa0L7zzoeuiaIf6kCuW9hjoRWALJL0WVb1Zzwp8snbWD2tVCOl6fRxZIimuVRfAEEsBy5h20ROKxrJWlHtaiv2UQxWUhECuGKC2QiViarYdKfQZpz3XhowWdl4ygf//pblkcfh99ZMdUsUDXQlqW3FP3HMgjtkxBgQFYLcQEIN++jjGFCAzoCJxiEmKJjgygLBL290Q7vE5gbkAN2EItuInRui8/kREzF+quSM58dYqWV06XWCHpmmQfL3io7v8E85e7by5Vj6t9VBwWytD3yNp2OW7jrKBvifDPm/h1XHHc65s2sYeS2eqEccHVwET97pVBmjgyU6O5EOPqJFmPnCrQunmXAsiZ/f8kAKlpsfgG3BmrQB7DVMBKiHc2nd3SaPcCYI8nqDVqGVu9/gYgPRylr9bHOtm7bIVFq/qWdrApD/mToTLl176rD2ClyPwCQ/wYjI0gD5QYyKOAtUTaKg4TWnV/lgc3L/1hdw==;E1kKcrXWH7vRawDHF5Iz1Q=="
 ---

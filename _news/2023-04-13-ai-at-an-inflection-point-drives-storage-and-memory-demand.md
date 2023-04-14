@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T03:23:00Z
 originalUrl: "https://www.forbes.com/sites/tomcoughlin/2023/04/12/ai-at-an-inflection-point-drives-storage-and-memory-demand/"
 webUrl: "https://www.forbes.com/sites/tomcoughlin/2023/04/12/ai-at-an-inflection-point-drives-storage-and-memory-demand/"
 type: article
+quality: 49
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -18,6 +21,17 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Cadence CEO Drives Growth Beyond Chip Design With AI And Computational Software"
+    excerpt: "Dr. Devgan and his company have a vision of bringing the power of simulation, modeling and computational software to far more than just semiconductor chip design."
+    publishedDateTime: 2023-04-11T15:22:00Z
+    webUrl: "https://www.forbes.com/sites/davealtavilla/2023/04/11/cadence-ceo-drives-growth-beyond-chip-design-with-ai-and-computational-software/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 60
 
 secured: "h2sUGkld74ahsyLDhxNlyAjc6qtaKviiEMH6dN7QQ9W1uHB0vbZuDXeut6v96rhO/TprsB+LYovxmyAohH+RBkx4ENBYV9IUmdE6O0DFNI17IFIF5NO0xVy+ql9aEBIVwxqYds2Z+MO4jNNdFYi5XlxfrjYAfi3G+N83okdNa8uHCpkahahvFP7FbeH8KWCo5pPdwFEgYL6Gp3Qw/5LpVUzR2f+5g3AzSopNqL0vBLVdNzpily0cw1PhFpKGLhU0jRa7THcoUQis35gTI/fATU+gX56Tq3EiaDMb4KePeKCRbCw6l/EZ38KhPzktywlJwHrtbjMCF3BsVpMzYdkiJGp4LRyx9ZQumZv6s2p6bI84srNaA03b6wl2SR/wskT9mJNkKkjWcA1Qd80kgq/ucCIYOW2CGf8ow47INFrVHJIU/lh8OBBQwr9aGSQGGFYE11dK6SfITvV/llGzdRk2rEUdzMEZBkwkzKGjDfuias6KLQsfKDc16ctGEiiVlkBOk0hlCqIcEVD/rhCr+1LpHQ==;rt3g5cova8vOdvxtsSoORA=="
 ---

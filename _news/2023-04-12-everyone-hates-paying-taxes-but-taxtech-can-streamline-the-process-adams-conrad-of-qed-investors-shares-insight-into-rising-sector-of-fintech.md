@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-12T15:43:00Z
 originalUrl: "https://www.crowdfundinsider.com/2023/04/205229-everyone-hates-paying-taxes-but-taxtech-can-streamline-the-process-adams-conrad-of-qed-investors-shares-insight-into-rising-sector-of-fintech/"
 webUrl: "https://www.crowdfundinsider.com/2023/04/205229-everyone-hates-paying-taxes-but-taxtech-can-streamline-the-process-adams-conrad-of-qed-investors-shares-insight-into-rising-sector-of-fintech/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Crowdfund Insider

@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/katiejennings/2023/04/13/google-releases-ai-tools-to-speed-up-health-insurance-preapprovals/"
 webUrl: "https://www.forbes.com/sites/katiejennings/2023/04/13/google-releases-ai-tools-to-speed-up-health-insurance-preapprovals/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes

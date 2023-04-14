@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-12T08:48:00Z
 originalUrl: "https://www.marketwatch.com/press-release/text-to-image-generator-market-analysis-and-industry-research-report-2022-2030-with-top-players-are-openai-google-facebook-deepai-stabilityai-2023-04-12"
 webUrl: "https://www.marketwatch.com/press-release/text-to-image-generator-market-analysis-and-industry-research-report-2022-2030-with-top-players-are-openai-google-facebook-deepai-stabilityai-2023-04-12"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: MarketWatch

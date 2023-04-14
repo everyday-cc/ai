@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T18:01:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/04/g31794422/artificial-kidney-market-size-expected-to-hit-us-5-3-billion-by-2033-with-13-cagr-report-by-fact-m"
 webUrl: "https://www.benzinga.com/pressreleases/23/04/g31794422/artificial-kidney-market-size-expected-to-hit-us-5-3-billion-by-2033-with-13-cagr-report-by-fact-m"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

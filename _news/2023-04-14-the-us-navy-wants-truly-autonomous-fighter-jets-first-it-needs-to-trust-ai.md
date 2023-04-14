@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T21:32:00Z
 originalUrl: "https://www.popularmechanics.com/military/aviation/a43541414/the-navy-wants-ai-powered-autonomous-fighter-jets/"
 webUrl: "https://www.popularmechanics.com/military/aviation/a43541414/the-navy-wants-ai-powered-autonomous-fighter-jets/"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Popular Mechanics

@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-11T13:05:10Z
 originalUrl: "https://www.ibm.com/blog/how-ibm-invests-in-opportunities-to-reach-maximum-equitable-impact/"
 webUrl: "https://www.ibm.com/blog/how-ibm-invests-in-opportunities-to-reach-maximum-equitable-impact/"
 type: article
+quality: 82
+heat: 82
+published: true
 
 provider:
   name: IBM

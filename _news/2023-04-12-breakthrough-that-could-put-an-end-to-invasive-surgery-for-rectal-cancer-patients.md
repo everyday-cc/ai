@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-12T14:03:00Z
 originalUrl: "https://www.outsourcing-pharma.com/Article/2023/04/12/collaborative-breakthrough-for-rectal-cancer-patients"
 webUrl: "https://www.outsourcing-pharma.com/Article/2023/04/12/collaborative-breakthrough-for-rectal-cancer-patients"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Outsourcing-pharma

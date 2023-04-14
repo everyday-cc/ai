@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T01:00:00Z
 originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/04/13/this-robot-is-controlled-by-the-power-of-the-mind"
 webUrl: "https://www.thestar.com.my/tech/tech-news/2023/04/13/this-robot-is-controlled-by-the-power-of-the-mind"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Star

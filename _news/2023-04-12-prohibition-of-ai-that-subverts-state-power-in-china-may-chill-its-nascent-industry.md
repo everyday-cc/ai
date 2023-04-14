@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-12T16:40:00Z
 originalUrl: "https://techcrunch.com/2023/04/11/prohibition-of-ai-that-subverts-state-power-in-china-may-chill-its-nascent-industry/"
 webUrl: "https://techcrunch.com/2023/04/11/prohibition-of-ai-that-subverts-state-power-in-china-may-chill-its-nascent-industry/"
 type: article
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: YAHOO!News

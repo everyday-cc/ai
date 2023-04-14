@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T11:27:32Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-accenture-is-using-amazon-codewhisperer-to-improve-developer-productivity/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-accenture-is-using-amazon-codewhisperer-to-improve-developer-productivity/"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: AWS

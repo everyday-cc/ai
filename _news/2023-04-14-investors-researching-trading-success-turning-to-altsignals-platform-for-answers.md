@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T17:22:00Z
 originalUrl: "https://coinjournal.net/news/investors-researching-trading-success-turning-to-altsignals-platform-for-answers/"
 webUrl: "https://coinjournal.net/news/investors-researching-trading-success-turning-to-altsignals-platform-for-answers/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Internet of People

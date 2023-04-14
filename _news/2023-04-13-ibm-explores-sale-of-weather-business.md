@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T14:51:00Z
 originalUrl: "https://www.axios.com/pro/media-deals/2023/04/13/ibm-explores-sale-of-weather-business"
 webUrl: "https://www.axios.com/pro/media-deals/2023/04/13/ibm-explores-sale-of-weather-business"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Axios

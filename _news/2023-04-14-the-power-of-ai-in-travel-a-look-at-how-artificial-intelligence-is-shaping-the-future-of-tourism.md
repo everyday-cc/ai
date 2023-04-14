@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T19:38:00Z
 originalUrl: "https://www.entrepreneur.com/science-technology/the-power-of-ai-in-travel-a-look-at-how-artificial/449679"
 webUrl: "https://www.entrepreneur.com/science-technology/the-power-of-ai-in-travel-a-look-at-how-artificial/449679"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: Entrepreneur

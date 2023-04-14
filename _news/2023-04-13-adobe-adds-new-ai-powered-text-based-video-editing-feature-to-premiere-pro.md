@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T13:02:00Z
 originalUrl: "https://www.macrumors.com/2023/04/13/adobe-nab-2023-premiere-pro-update/"
 webUrl: "https://www.macrumors.com/2023/04/13/adobe-nab-2023-premiere-pro-update/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: MacRumors

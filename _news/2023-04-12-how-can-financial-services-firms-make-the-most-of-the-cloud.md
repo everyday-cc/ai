@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-12T08:51:00Z
 originalUrl: "https://internationalbanker.com/finance/how-can-financial-services-firms-make-the-most-of-the-cloud/"
 webUrl: "https://internationalbanker.com/finance/how-can-financial-services-firms-make-the-most-of-the-cloud/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: International Banker

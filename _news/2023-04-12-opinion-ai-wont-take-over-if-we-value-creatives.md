@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-12T16:23:00Z
 originalUrl: "https://www.govtech.com/opinion/opinion-ai-wont-take-over-if-we-value-creatives"
 webUrl: "https://www.govtech.com/opinion/opinion-ai-wont-take-over-if-we-value-creatives"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Government Technology

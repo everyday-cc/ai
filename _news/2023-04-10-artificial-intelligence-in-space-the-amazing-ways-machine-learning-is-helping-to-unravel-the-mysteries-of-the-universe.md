@@ -5,7 +5,12 @@ excerpt: "AI is revolutionizing space exploration, from autonomous spaceflight t
 publishedDateTime: 2023-04-10T09:19:00Z
 originalUrl: "https://www.forbes.com/sites/bernardmarr/2023/04/10/artificial-intelligence-in-space-the-amazing-ways-machine-learning-is-helping-to-unravel-the-mysteries-of-the-universe/"
 webUrl: "https://www.forbes.com/sites/bernardmarr/2023/04/10/artificial-intelligence-in-space-the-amazing-ways-machine-learning-is-helping-to-unravel-the-mysteries-of-the-universe/"
+ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/04/10/artificial-intelligence-in-space-the-amazing-ways-machine-learning-is-helping-to-unravel-the-mysteries-of-the-universe/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/04/10/artificial-intelligence-in-space-the-amazing-ways-machine-learning-is-helping-to-unravel-the-mysteries-of-the-universe/amp/"
 type: article
+quality: 82
+heat: 82
+published: true
 
 provider:
   name: Forbes
@@ -18,7 +23,14 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Robotics
 
-secured: "a7upWBYj6slYw8qnC8JmRwdmUclAsNLQq0dr6DUp1QTzrFCYstE65qIQUttM9MI+555Pgn39ZQMl1jylSzJTZXHaGK3nF+KKIjGzemG2ryc0ZVGBv43cxsBNjdglWfQgci0vxcBANbqWJr4yiicLG3C7lZScTZ8M/9wXB6OCk1rUVDNR3BwCq76D3tFZrQb2it60zDPTjwybkq3d2JLkzYLs6yONLFsC/zp5lLP/MMhlYnpZYwSDn4PJomhvANZKrYnA1g+anmRqs3y86lOLtpETuN8xoD5/P8Ihu/cKLpR1evOVgT688OUd+eKk0nOfm9XQViUS57h3pjgc935KfNepdvgTtzJvUJXM48GfvWhXTy/5atYvY26FBoW6Si6gHb/NAUIsP7t5akHrA6el8RopFzdahUTtP/5SGNew/cz5IUCOT8Kz9EFi6IEHqwEeGaw7H+ssDLl/JnN10VIMn/ZDUo39btzlN5ulAWHaSItLBnQTwHu6pZWYQ9K7PebIgvw7eV4c3qv/Ec+/N6qzgQ==;1I2tC8JdDwhM8Z679U72Dg=="
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/6433d43c3391e77bbcb0e670/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 685
+    isCached: true
+
+secured: "AiN1kn9+p3ZoZNR1sA2gzjK7dwPCr45+NIhUyrH+261MG+RMAwvD1NXX2HXwbjPIQZ9HjssEsh6hDVqhZtEgN64/b+31sOKAkoRqIgh3R6THgR7U6VHES+/yAdhulyY9cSYdPvzxj7Npcvb9NzkExzCnSD1l8GeXL7a7LsQQ72s99eESsMmx1UNdf/LPKVci31SJt1a4k9vZQ+jJNML2NviqX+gomOTby9v3EfTjLeYvTPKeH0lCud3+x/5eCc0AQeF+K/BZ2wImPp48PHQgVKheFZ4bhRHK9RUsNnt2I29wx5+wTh1C1wvOvNYb4U8C56kJ1BlZTGaAIjGtjACh6NnsfXqSokgeFvLnlxy7hG8=;Hro2es3iyfgHPSGU30IPCg=="
 ---
 

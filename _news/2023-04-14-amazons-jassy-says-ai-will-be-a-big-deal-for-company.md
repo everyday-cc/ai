@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T18:34:00Z
 originalUrl: "https://www.chron.com/business/article/amazon-s-jassy-says-ai-will-be-a-big-deal-for-17895211.php"
 webUrl: "https://www.chron.com/business/article/amazon-s-jassy-says-ai-will-be-a-big-deal-for-17895211.php"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Houston Chronicle

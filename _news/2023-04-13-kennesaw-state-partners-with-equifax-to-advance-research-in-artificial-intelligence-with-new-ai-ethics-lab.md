@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T13:55:00Z
 originalUrl: "https://www.kennesaw.edu/news/stories/2023/kennesaw-state-partners-with-equifax-to-advance-research-in-artificial-intelligence-with-new-ai-ethics-lab.php"
 webUrl: "https://www.kennesaw.edu/news/stories/2023/kennesaw-state-partners-with-equifax-to-advance-research-in-artificial-intelligence-with-new-ai-ethics-lab.php"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: kennesaw

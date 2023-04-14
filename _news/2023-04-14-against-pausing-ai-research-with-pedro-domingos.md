@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T22:46:00Z
 originalUrl: "https://www.forbes.com/sites/calumchace/2023/04/13/against-pausing-ai-research-with-pedro-domingos/"
 webUrl: "https://www.forbes.com/sites/calumchace/2023/04/13/against-pausing-ai-research-with-pedro-domingos/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

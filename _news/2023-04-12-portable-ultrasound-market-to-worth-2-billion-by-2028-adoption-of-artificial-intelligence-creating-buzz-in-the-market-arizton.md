@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-12T12:31:00Z
 originalUrl: "https://www.medgadget.com/2023/04/portable-ultrasound-market-to-worth-2-billion-by-2028-adoption-of-artificial-intelligence-creating-buzz-in-the-market-arizton.html"
 webUrl: "https://www.medgadget.com/2023/04/portable-ultrasound-market-to-worth-2-billion-by-2028-adoption-of-artificial-intelligence-creating-buzz-in-the-market-arizton.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Medgadget

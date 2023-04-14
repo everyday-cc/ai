@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-10T11:13:00Z
 originalUrl: "https://financialit.net/news/banking/1004-weekly-fintech-recap"
 webUrl: "https://financialit.net/news/banking/1004-weekly-fintech-recap"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Financial IT

@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-10T20:07:00Z
 originalUrl: "https://www.nytimes.com/article/best-movies-amazon-prime.html"
 webUrl: "https://www.nytimes.com/article/best-movies-amazon-prime.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: The New York Times

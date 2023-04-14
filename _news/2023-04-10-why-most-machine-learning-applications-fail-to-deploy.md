@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-10T12:46:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/10/why-most-machine-learning-applications-fail-to-deploy/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/10/why-most-machine-learning-applications-fail-to-deploy/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: Forbes

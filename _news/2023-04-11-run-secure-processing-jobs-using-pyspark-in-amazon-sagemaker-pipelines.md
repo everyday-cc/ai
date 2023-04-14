@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-11T16:47:08Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/run-secure-processing-jobs-using-pyspark-in-amazon-sagemaker-pipelines/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/run-secure-processing-jobs-using-pyspark-in-amazon-sagemaker-pipelines/"
 type: article
+quality: 69
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -18,6 +21,26 @@ provider:
 topics:
   - AI
   - AWS AI
+
+related:
+  - title: "How Games24x7 transformed their retraining MLOps pipelines with Amazon SageMaker"
+    excerpt: "This is a guest blog post co-written with Hussain Jagirdar from Games24x7. Games24x7 is one of India’s most valuable multi-game platforms and entertains over 100 million gamers across various skill games. With “Science of Gaming” as their core philosophy, they have enabled a vision of end-to-end informatics"
+    publishedDateTime: 2023-04-12T16:03:12Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-games24x7-transformed-their-retraining-mlops-pipelines-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 79
+  - title: "Build Streamlit apps in Amazon SageMaker Studio"
+    excerpt: "Developing web interfaces to interact with a machine learning (ML) model is a tedious task. With Streamlit, developing demo applications for your ML solution is easy. Streamlit is an open-source Python library that makes it easy to create and share web apps for ML and data science. As a data scientist,"
+    publishedDateTime: 2023-04-11T17:36:51Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-streamlit-apps-in-amazon-sagemaker-studio/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 69
 
 secured: "yGa/CIk/BkRy8oOCQy9Zlp0Wa6TN+PX8Ojltot0Ye2wv3/1RckVAa56HLzIKr424T/DHgPb1A9ML5qSpWZ+BHtWrsLVK5x1nqR9bzILNmH+OTgOiWeVXzF6Z5EKYKT+hXTTA+rzWCcOv0vAwFoHixcdD5pydO63af/UTur9/z7XUJmkDMxa9HrtZKhJeh83EKyXWXDJE8kHsO620538Kp9GVdevG4nEdADPWz4wrZwXIGhHI3y9a5DYBUYU7mok1xhAzfT3vXR/ffQEuMJ8MDd0eBztILaWKPx8E04kC1wZq7HCGkyMRODYmaOum/QmHTRME+kag9Md+poktESwBgqsmOmg64zB4Xim1PFitAVs=;SxsVPdTk2wvOWa42s1yhJw=="
 ---

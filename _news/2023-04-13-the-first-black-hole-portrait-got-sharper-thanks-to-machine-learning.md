@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T10:59:00Z
 originalUrl: "https://www.sciencenews.org/article/first-black-hole-m87-machine-learning"
 webUrl: "https://www.sciencenews.org/article/first-black-hole-m87-machine-learning"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Science News

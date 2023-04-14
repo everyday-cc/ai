@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-12T10:32:00Z
 originalUrl: "https://www.forbes.com/sites/omerawan/2023/04/12/artificial-intelligence-and-its-potential-to-combat-physician-burnout/"
 webUrl: "https://www.forbes.com/sites/omerawan/2023/04/12/artificial-intelligence-and-its-potential-to-combat-physician-burnout/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes

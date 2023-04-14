@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T19:00:00Z
 originalUrl: "https://www.entrepreneur.com/science-technology/how-medical-providers-can-increase-patients-trust-in-ai/448683"
 webUrl: "https://www.entrepreneur.com/science-technology/how-medical-providers-can-increase-patients-trust-in-ai/448683"
 type: article
+quality: 61
+heat: 61
+published: false
 
 provider:
   name: Entrepreneur

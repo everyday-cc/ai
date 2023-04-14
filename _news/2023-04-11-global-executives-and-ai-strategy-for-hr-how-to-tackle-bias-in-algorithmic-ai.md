@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-11T14:00:00Z
 originalUrl: "https://www.ibm.com/blog/global-executives-and-ai-strategy-for-hr-how-to-tackle-bias-in-algorithmic-ai/"
 webUrl: "https://www.ibm.com/blog/global-executives-and-ai-strategy-for-hr-how-to-tackle-bias-in-algorithmic-ai/"
 type: article
+quality: 95
+heat: 95
+published: true
 
 provider:
   name: IBM

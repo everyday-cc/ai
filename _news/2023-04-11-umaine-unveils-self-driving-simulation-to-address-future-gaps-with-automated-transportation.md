@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-11T16:34:00Z
 originalUrl: "https://www.newscentermaine.com/article/tech/umaine-unveils-self-driving-simulation-to-address-future-gaps-with-automated-transportation-travel/97-e6d3863c-e07e-482c-913f-10bb3683d02e"
 webUrl: "https://www.newscentermaine.com/article/tech/umaine-unveils-self-driving-simulation-to-address-future-gaps-with-automated-transportation-travel/97-e6d3863c-e07e-482c-913f-10bb3683d02e"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: newscentermaine.com

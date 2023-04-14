@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T21:00:00Z
 originalUrl: "https://venturebeat.com/ai/coursera-offers-classes-so-workers-arent-blindsided-by-ai-taking-their-jobs/"
 webUrl: "https://venturebeat.com/ai/coursera-offers-classes-so-workers-arent-blindsided-by-ai-taking-their-jobs/"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: VentureBeat

@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T22:50:00Z
 originalUrl: "https://www.theverge.com/2023/4/13/23671059/ai-chatbot-clone-group-chat"
 webUrl: "https://www.theverge.com/2023/4/13/23671059/ai-chatbot-clone-group-chat"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: The Verge

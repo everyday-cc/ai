@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-10T11:23:00Z
 originalUrl: "https://appleinsider.com/articles/23/04/10/dreamebot-l10s-ultra-review-too-noisy-automated-cleaning"
 webUrl: "https://appleinsider.com/articles/23/04/10/dreamebot-l10s-ultra-review-too-noisy-automated-cleaning"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: AppleInsider

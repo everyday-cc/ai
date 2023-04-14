@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-12T04:00:00Z
 originalUrl: "https://www.fuqua.duke.edu/duke-fuqua-insights/ibm-ceo-doing-what’s-right-and-future-technology"
 webUrl: "https://www.fuqua.duke.edu/duke-fuqua-insights/ibm-ceo-doing-what’s-right-and-future-technology"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: fuqua.duke.edu

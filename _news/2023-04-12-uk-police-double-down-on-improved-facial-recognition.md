@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-12T10:00:00Z
 originalUrl: "https://www.computerweekly.com/news/365535008/UK-police-double-down-on-improved-facial-recognition"
 webUrl: "https://www.computerweekly.com/news/365535008/UK-police-double-down-on-improved-facial-recognition"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Computer Weekly

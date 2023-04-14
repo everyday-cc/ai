@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-11T17:24:00Z
 originalUrl: "https://www.foxnews.com/us/artificial-intelligence-wont-ever-able-comprehend-one-thing"
 webUrl: "https://www.foxnews.com/us/artificial-intelligence-wont-ever-able-comprehend-one-thing"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Fox News

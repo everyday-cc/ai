@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-10T01:11:00Z
 originalUrl: "https://www.marketwatch.com/press-release/autonomous-or-driverless-cars-market-research-analysis-2023-2031-2023-04-09"
 webUrl: "https://www.marketwatch.com/press-release/autonomous-or-driverless-cars-market-research-analysis-2023-2031-2023-04-09"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: MarketWatch

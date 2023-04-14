@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T13:30:00Z
 originalUrl: "https://www.ibm.com/blog/partner-plus-takeaways/"
 webUrl: "https://www.ibm.com/blog/partner-plus-takeaways/"
 type: article
+quality: 82
+heat: 82
+published: true
 
 provider:
   name: IBM

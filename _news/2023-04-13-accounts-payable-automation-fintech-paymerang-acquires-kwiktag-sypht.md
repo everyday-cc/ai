@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T02:38:00Z
 originalUrl: "https://www.crowdfundinsider.com/2023/04/205213-accounts-payable-automation-fintech-paymerang-acquires-kwiktag-sypht/"
 webUrl: "https://www.crowdfundinsider.com/2023/04/205213-accounts-payable-automation-fintech-paymerang-acquires-kwiktag-sypht/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Crowdfund Insider

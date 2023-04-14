@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T23:42:00Z
 originalUrl: "https://www.afaqs.com/news/martech/unbundling-the-new-tech-in-conversational-commerce-with-jios-haptik"
 webUrl: "https://www.afaqs.com/news/martech/unbundling-the-new-tech-in-conversational-commerce-with-jios-haptik"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: AFAQS

@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-11T14:27:00Z
 originalUrl: "https://www.autoremarketing.com/bhph/tricolor-gains-us-patent-for-ai-driven-underwriting-tool/"
 webUrl: "https://www.autoremarketing.com/bhph/tricolor-gains-us-patent-for-ai-driven-underwriting-tool/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Auto Remarketing

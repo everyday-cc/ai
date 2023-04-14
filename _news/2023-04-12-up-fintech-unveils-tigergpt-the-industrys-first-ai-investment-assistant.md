@@ -1,24 +1,29 @@
 ---
 category: news
 title: "UP Fintech unveils TigerGPT, the industry's first AI investment assistant"
-excerpt: "UP Fintech unveils TigerGPT, the industry's first AI investment assistant Apr 12, 2023 (PRNewswire via COMTEX) -- PR Newswire NEW YORK, April 12,"
-publishedDateTime: 2023-04-12T08:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/up-fintech-unveils-tigergpt-the-industrys-first-ai-investment-assistant-2023-04-12"
-webUrl: "https://www.marketwatch.com/press-release/up-fintech-unveils-tigergpt-the-industrys-first-ai-investment-assistant-2023-04-12"
+excerpt: "TigerGPT is currently the industry's first AI investment assistant and part of UP Fintech's broad layout of internet services; Now in user testing, TigerGPT aims to offer timely m"
+publishedDateTime: 2023-04-12T09:18:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/04/12/9792770.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/04/12/9792770.htm"
 type: article
+quality: 38
+heat: 38
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "T7htB5KuRcMJ0eCh39nGUyF5vZTUlnPqG15Qd2aMPovJFu6+DInk1smLIGBG3BAkEsr0UPEEgIrDIpcNE/7fhgRMUXffMSnL21pDX5W8QoyWoBxzLLREcS5CxheKvVqQbZbyqo6Dsw4i+qqQLpL8ac9KWVzQtdJeGG4cIBl8sfGEYLILHXXvQJWE/bfSHdj32w9g3xn8uc1aUBB/QpCJJg+sPdIcvlGgwLm5DZLruxlBHeYihP57eNqLeWfxfY7uRC0HB1LBtA+uH8oi7jir81q2rToIt0qbzUluMvVqtxKwL66PtzezNaoPNY6XvmrPdY0xbCMuG3rCrMuwl292JnLEHx4YBZBxmE2W9JALLW8=;Oeeouwy1/TAhQHbRrQNRQw=="
+images:
+  - url: "https://mma.prnewswire.com/media/2052416/image_822796_24155510.jpg"
+    width: 400
+    height: 400
+    isCached: true
+
+secured: "C5PokJd8gGsNTTl1bsWF+ZVYvIx5QO0mzjl+xZ8euEi2i8wlwPqpMWQcnCkkNLHRqyen3Q5j61cNYmZ4v2rmYqM2z5ZeYt15iJkflTSE2ErLmJ74XyMGUQYsQ/jsdX6evNqxPSQ/bzrQ3PiyL6LwURFXFyjgyMgiZXAl+lN9cXa817RSP4Nghdh2gdi+3yGo6jMeY/aZpUuuX+7vSz3uVdiQsynb2vrGX6o7l6zfb14pyJaTEHJ3opwyodmrueiJuBiJZQAYA3y7CCOHpHhA0qMzy9QIYSbD/0N3TQtK1FdQYGmU352T475+fkFe7OayB6ERfJbeW49cu/NphdTF0t9m/f6g4BgPKW6H24vre/A=;jBkeoobpVq1a+vjs4B5T9A=="
 ---
 

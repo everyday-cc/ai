@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T11:56:00Z
 originalUrl: "https://eos.org/research-spotlights/neural-networks-map-the-ebb-and-flow-of-tiny-ponds"
 webUrl: "https://eos.org/research-spotlights/neural-networks-map-the-ebb-and-flow-of-tiny-ponds"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Eos

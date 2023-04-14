@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T12:00:00Z
 originalUrl: "https://www.technewsworld.com/story/the-ai-revolution-is-at-a-tipping-point-178143.html"
 webUrl: "https://www.technewsworld.com/story/the-ai-revolution-is-at-a-tipping-point-178143.html"
 type: article
+quality: 19
+heat: -1
+published: false
 
 provider:
   name: TechNewsWorld
@@ -14,6 +17,17 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "AI regulation is a priority, but so is awareness and education - let’s not repeat the same mistakes"
+    excerpt: "Apprehension around the pace of AI has even prompted some in the industry to call for a six month pause on future development, whilst legislators, citizens and companies figure out what its likely impact will be."
+    publishedDateTime: 2023-04-12T19:22:00Z
+    webUrl: "https://diginomica.com/ai-regulation-priority-so-awareness-and-education-lets-not-repeat-same-mistakes"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 22
 
 secured: "kkZFd25xRverEhRb7kFa1hwu+ViFrv2xMrniiq5j7p3NVa1pxHvtuIrOczR544QDkUyJUGeLYxI+ofQvW2YCDWGbnb4b34XcS6nD2aDjW3qh6V7NiyFoRvoX162ulAU/BQOanMAIGBA4FU/Wk0a6j+QrlyT8TxwxyBNtkk1v+IMN/U2sqB/PDPnHhQWa7SfM1QW0c+6vU5q0laP3sFq7jHic8VZPXJ5iPILRwdObgTNauV/4Sms/DM1ghFVMI/oPYogB08xdlOPJOp2SHGEykLorQox+rKMYd0yANAF4k6UMahsywVjrBENhChmlQehpyitoL6fMlW0DI+7IbTHoie/vzxkrZ4Su4mrTCvw+VBI007H9SGzbY8YCmgbg1zAFfKnsD9KDeR2DrLfbgz9/ck6c256CkOEL4SCRWLz4srAl4u2sPTz8aCLJONiI6vBOwCD3SbTd/uL11fEccl5ywpXN2fwblN1Cf5GZ4MweJi7dB0YWnk0U7w8QFahpmjpUr0C17EtPtqSdNn91bsF5cg==;VYijPXBSu4PoaV8r45a3fg=="
 ---

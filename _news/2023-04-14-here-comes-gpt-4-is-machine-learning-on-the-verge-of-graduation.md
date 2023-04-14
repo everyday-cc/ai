@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T21:05:00Z
 originalUrl: "https://www.dailysabah.com/opinion/op-ed/here-comes-gpt-4-is-machine-learning-on-the-verge-of-graduation"
 webUrl: "https://www.dailysabah.com/opinion/op-ed/here-comes-gpt-4-is-machine-learning-on-the-verge-of-graduation"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Daily Sabah

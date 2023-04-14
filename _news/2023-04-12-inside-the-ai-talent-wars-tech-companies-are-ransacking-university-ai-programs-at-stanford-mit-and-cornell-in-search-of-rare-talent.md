@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-12T10:00:00Z
 originalUrl: "https://www.businessinsider.com/tech-companies-raid-top-university-campuses-rare-artificial-intelligence-talent-2023-4"
 webUrl: "https://www.businessinsider.com/tech-companies-raid-top-university-campuses-rare-artificial-intelligence-talent-2023-4"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Business Insider

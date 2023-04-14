@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T04:13:00Z
 originalUrl: "https://www.forkliftaction.com/news/cold-robots-revolutionise-cold-chain-logistics.aspx?n=26860"
 webUrl: "https://www.forkliftaction.com/news/cold-robots-revolutionise-cold-chain-logistics.aspx?n=26860"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: forklift

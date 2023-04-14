@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-10T17:40:00Z
 originalUrl: "https://jalopnik.com/dashcam-shows-waymo-autonomous-cars-clogging-streets-1850319472"
 webUrl: "https://jalopnik.com/dashcam-shows-waymo-autonomous-cars-clogging-streets-1850319472"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Jalopnik

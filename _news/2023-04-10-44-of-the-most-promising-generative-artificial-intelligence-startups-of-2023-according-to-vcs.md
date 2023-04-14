@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-10T10:00:00Z
 originalUrl: "https://www.businessinsider.com/most-promising-generative-artificial-intelligence-startups-according-vcs-venture-capital-2023-3"
 webUrl: "https://www.businessinsider.com/most-promising-generative-artificial-intelligence-startups-according-vcs-venture-capital-2023-3"
 type: article
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: Business Insider

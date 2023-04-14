@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-10T06:03:00Z
 originalUrl: "https://www.dqindia.com/failed-ai-projects-that-went-terribly-wrong-the-dark-side-of-artificial-intelligence/"
 webUrl: "https://www.dqindia.com/failed-ai-projects-that-went-terribly-wrong-the-dark-side-of-artificial-intelligence/"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: Dataquest

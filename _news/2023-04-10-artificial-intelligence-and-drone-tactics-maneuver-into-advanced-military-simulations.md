@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-10T13:00:00Z
 originalUrl: "https://www.nextgov.com/ideas/2023/04/artificial-intelligence-and-drone-tactics-maneuver-advanced-military-simulations/384942/"
 webUrl: "https://www.nextgov.com/ideas/2023/04/artificial-intelligence-and-drone-tactics-maneuver-advanced-military-simulations/384942/"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Nextgov

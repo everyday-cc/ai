@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T23:00:00Z
 originalUrl: "https://venturebeat.com/data-infrastructure/case-study-how-a-credit-union-leveraged-data-analytics-to-improve-member-service/"
 webUrl: "https://venturebeat.com/data-infrastructure/case-study-how-a-credit-union-leveraged-data-analytics-to-improve-member-service/"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: VentureBeat

@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T21:06:00Z
 originalUrl: "https://www.bizjournals.com/sanjose/news/2023/04/13/ai-startup-samba-nova-poaches-google-cloud-vp.html"
 webUrl: "https://www.bizjournals.com/sanjose/news/2023/04/13/ai-startup-samba-nova-poaches-google-cloud-vp.html"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: The Business Journals

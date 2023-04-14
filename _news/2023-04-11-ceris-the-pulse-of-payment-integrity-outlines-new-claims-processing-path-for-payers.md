@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-11T12:29:00Z
 originalUrl: "https://www.eagletribune.com/region/ceris-the-pulse-of-payment-integrity-outlines-new-claims-processing-path-for-payers/article_8eac40e8-cc3a-5f5c-b438-63f6e6f30eb3.html"
 webUrl: "https://www.eagletribune.com/region/ceris-the-pulse-of-payment-integrity-outlines-new-claims-processing-path-for-payers/article_8eac40e8-cc3a-5f5c-b438-63f6e6f30eb3.html"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Eagle-Tribune

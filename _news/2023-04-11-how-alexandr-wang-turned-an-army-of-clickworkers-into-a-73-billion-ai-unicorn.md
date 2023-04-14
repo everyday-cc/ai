@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-11T10:15:00Z
 originalUrl: "https://www.forbes.com/sites/kenrickcai/2023/04/11/how-alexandr-wang-turned-an-army-of-clickworkers-into-a-73-billion-ai-unicorn/"
 webUrl: "https://www.forbes.com/sites/kenrickcai/2023/04/11/how-alexandr-wang-turned-an-army-of-clickworkers-into-a-73-billion-ai-unicorn/"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: Forbes

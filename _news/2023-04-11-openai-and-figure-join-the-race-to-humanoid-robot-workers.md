@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-11T05:20:00Z
 originalUrl: "https://newatlas.com/robotics/openai-figure-ai-robotics/"
 webUrl: "https://newatlas.com/robotics/openai-figure-ai-robotics/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: New Atlas

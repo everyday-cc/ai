@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T21:48:00Z
 originalUrl: "https://it.tmcnet.com/news/2023/04/13/9794117.htm"
 webUrl: "https://it.tmcnet.com/news/2023/04/13/9794117.htm"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: TMCnet

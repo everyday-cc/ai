@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-11T06:21:00Z
 originalUrl: "https://www.kctv5.com/2023/04/11/aging-style-robot-could-be-future-massage-therapy/"
 webUrl: "https://www.kctv5.com/2023/04/11/aging-style-robot-could-be-future-massage-therapy/"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: KCTV News

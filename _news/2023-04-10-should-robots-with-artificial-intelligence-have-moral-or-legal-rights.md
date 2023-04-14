@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-10T15:00:00Z
 originalUrl: "https://www.wsj.com/articles/robots-ai-legal-rights-3c47ef40"
 webUrl: "https://www.wsj.com/articles/robots-ai-legal-rights-3c47ef40"
 type: article
+quality: 66
+heat: 66
+published: false
 
 provider:
   name: Wall Street Journal

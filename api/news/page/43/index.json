@@ -2,21 +2,64 @@
   "page": 43,
   "value": [
     {
-      "path": "_news/2023-02-23-biomarker-identified-that-helps-diagnose-cause-of-cognitive-decline.md",
-      "title": "Biomarker identified that helps diagnose cause of cognitive decline",
-      "excerpt": "It can be difficult to determine whether cognitive decline in older adults is caused by vascular problems or dementia. New research has now identified a biomarker associated with the vascular ...",
+      "path": "_news/2023-03-02-venture-investor-b-capital-raises-first-healthcare-fund.md",
+      "title": "Venture Investor B Capital Raises First Healthcare Fund",
+      "excerpt": "The firm has raised about $250 million for the healthcare-only vehicle and plans to devote about $250 million more to medical investments through a diversified growth fund.",
       "sourceUrl": null,
-      "webUrl": "https://newatlas.com/medical/biomarker-diagnose-cause-cognitive-decline/",
-      "originalUrl": "https://newatlas.com/medical/biomarker-diagnose-cause-cognitive-decline/",
+      "webUrl": "https://www.wsj.com/articles/venture-investor-b-capital-raises-first-healthcare-fund-589bd57c",
+      "originalUrl": "https://www.wsj.com/articles/venture-investor-b-capital-raises-first-healthcare-fund-589bd57c",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T10:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-youtubes-new-head-talks-2023-priorities-including-ai-podcasting-shorts-and-more.md",
+      "title": "YouTube’s new head talks 2023 priorities, including AI, podcasting, Shorts and more",
+      "excerpt": "YouTube's new head Neal Mohan penned his first letter today to creators indicating that the company will roll out generative AI tools.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/01/youtubes-new-head-looks-forward-to-supporting-creators-though-different-formats/",
+      "originalUrl": "https://techcrunch.com/2023/03/01/youtubes-new-head-looks-forward-to-supporting-creators-though-different-formats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.newatlas.com/dims4/default/0da5c46/2147483647/strip/true/crop/2000x1333+0+1/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0d%2Fd4%2F6519632142a783a09701f8ac2aed%2Fdepositphotos-232740318-l.jpg",
+          "url": "https://techcrunch.com/wp-content/uploads/2023/02/alexander-shatov-niUkImZcSP8-unsplash.jpg?resize=1200,900",
           "width": 1200,
-          "height": 800,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,181 +67,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://newatlas.com/medical/biomarker-diagnose-cause-cognitive-decline/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/biomarker-diagnose-cause-cognitive-decline/?amp=true",
-      "publishedDateTime": "2023-02-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-ai-accelerator-chip-market-2023-is-set-to-fly-excessive-growth-in-years-to-come.md",
-      "title": "AI Accelerator Chip Market 2023 Is Set to Fly Excessive Growth in Years to Come",
-      "excerpt": "AI Accelerator Chip Market Analysis 2023 (Pre and Post Covid is covered and Report Customization is available):",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-2023-is-set-to-fly-excessive-growth-in-years-to-come-2023-02-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-2023-is-set-to-fly-excessive-growth-in-years-to-come-2023-02-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-22T15:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-ai-could-help-build-more-efficient-crypto-markets.md",
-      "title": "AI Could Help Build More-Efficient Crypto Markets",
-      "excerpt": "According to OpenAI’s founder, Sam Altman, ChatGPT crossed over 100 million users in just two months, a milestone it took Facebook ... for AI use cases in crypto. A further area of research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.coindesk.com/consensus-magazine/2023/02/22/ai-could-help-build-more-efficient-crypto-markets/",
-      "originalUrl": "https://www.coindesk.com/consensus-magazine/2023/02/22/ai-could-help-build-more-efficient-crypto-markets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-22T14:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinDesk",
-        "domain": "coindesk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-baidu-beats-fourth-quarter-revenue-estimates-flags-chatbot-launch.md",
-      "title": "Baidu beats fourth-quarter revenue estimates, flags chatbot launch",
-      "excerpt": "Revenue from Baidu Core, which includes search-based ad sales, cloud offerings and its autonomous driving initiatives, fell 1% to 25.7 billion yuan. While non-online marketing revenue rose 11% to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/chinas-baidu-beats-quarterly-revenue-estimates-announces-share-buyback-2023-02-22/",
-      "originalUrl": "https://www.reuters.com/technology/chinas-baidu-beats-quarterly-revenue-estimates-announces-share-buyback-2023-02-22/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/9LTJYqY1aeAPZk8JCItvML1wkSk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JZSDFNXKHRKZNPBRY2X7CQXEJM.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-22T12:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-openais-foundry-will-let-customers-buy-dedicated-compute-to-run-its-ai-models.md",
-      "title": "OpenAI’s Foundry will let customers buy dedicated compute to run its AI models",
-      "excerpt": "OpenAI is quietly launching a new developer platform that lets customers run the company’s newer machine learning models ... a “static allocation” of compute capacity (perhaps on Azure, OpenAI’s preferred public cloud platform) dedicated to ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/02/21/openai-foundry-will-let-customers-buy-dedicated-capacity-to-run-its-ai-models/",
-      "originalUrl": "https://techcrunch.com/2023/02/21/openai-foundry-will-let-customers-buy-dedicated-capacity-to-run-its-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/02/21/openai-foundry-will-let-customers-buy-dedicated-capacity-to-run-its-ai-models/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/21/openai-foundry-will-let-customers-buy-dedicated-capacity-to-run-its-ai-models/amp/",
-      "publishedDateTime": "2023-02-22T11:38:00-08:00",
+      "ampWebUrl": "https://techcrunch.com/2023/03/01/youtubes-new-head-looks-forward-to-supporting-creators-though-different-formats/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/01/youtubes-new-head-looks-forward-to-supporting-creators-though-different-formats/amp/",
+      "publishedDateTime": "2023-03-01T10:27:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -221,26 +92,25 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-23-majority-in-new-poll-would-be-uncomfortable-with-health-care-provider-relying-on-ai.md",
-      "title": "Majority in new poll would be uncomfortable with health care provider relying on AI",
-      "excerpt": "A majority of Americans in a new poll say they’d be uncomfortable with their health care provider relying on artificial intelligence (AI) as part of their medical care, and less than half think using AI would lead to better health outcomes.",
+      "path": "_news/2023-03-02-openai-debuts-whisper-api-for-speech-to-text-transcription-and-translation.md",
+      "title": "OpenAI debuts Whisper API for speech-to-text transcription and translation",
+      "excerpt": "OpenAI is rolling out the Whisper API, a hosted version of the open source speech-to-text model that the company released in late 2022.",
       "sourceUrl": null,
-      "webUrl": "https://www.aol.com/majority-poll-uncomfortable-health-care-160151510.html",
-      "originalUrl": "https://www.aol.com/majority-poll-uncomfortable-health-care-160151510.html",
+      "webUrl": "https://techcrunch.com/2023/03/01/openai-debuts-whisper-api-for-text-to-speech-transcription-and-translation/",
+      "originalUrl": "https://techcrunch.com/2023/03/01/openai-debuts-whisper-api-for-text-to-speech-transcription-and-translation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://media.zenfs.com/en/aol_the_hill_articles_315/28282a14793476e05441eebabce54c8a",
-          "width": 900,
-          "height": 505,
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/mic-feature-1.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -248,13 +118,162 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-22T10:01:00-08:00",
+      "ampWebUrl": "https://techcrunch.com/2023/03/01/openai-debuts-whisper-api-for-text-to-speech-transcription-and-translation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/01/openai-debuts-whisper-api-for-text-to-speech-transcription-and-translation/amp/",
+      "publishedDateTime": "2023-03-01T10:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development.md",
+      "title": "How generative AI could lower healthcare costs and speed up drug development",
+      "excerpt": "In the future, specifying a drug target may be like sitting down to ChatGPT. After a few clicks, you'll have your novel therapeutic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/",
+      "originalUrl": "https://www.zdnet.com/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/c0b475ddb6f590c029a299c2b88a7e1c3985eb3a/2023/02/28/edd460d3-73b8-4ce6-ace5-c6dac00ee94a/abci-de-novo-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/",
+      "publishedDateTime": "2023-03-01T10:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-ai-is-the-new-electricity-bank-of-america-picks-20-stocks-to-cash-in-on-chatgpt-hype.md",
+      "title": "‘AI Is The New Electricity’: Bank Of America Picks 20 Stocks To Cash In On ChatGPT Hype",
+      "excerpt": "The bank’s 20 plays include Microsoft, an investor in ChatGPT parent OpenAI, and chatbot competitors Alphabet and Baidu.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dereksaul/2023/03/01/ai-is-the-new-electricity-bank-of-america-picks-20-stocks-to-cash-in-on-chatgpt-hype/",
+      "originalUrl": "https://www.forbes.com/sites/dereksaul/2023/03/01/ai-is-the-new-electricity-bank-of-america-picks-20-stocks-to-cash-in-on-chatgpt-hype/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ff676e1d3c3452f8aa9374/0x0.jpg?format=jpg&crop=4044,2274,x0,y44,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/dereksaul/2023/03/01/ai-is-the-new-electricity-bank-of-america-picks-20-stocks-to-cash-in-on-chatgpt-hype/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dereksaul/2023/03/01/ai-is-the-new-electricity-bank-of-america-picks-20-stocks-to-cash-in-on-chatgpt-hype/amp/",
+      "publishedDateTime": "2023-03-01T08:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-03-01-new-wolters-kluwer-health-language-solution-is-purpose-built-to-transform-the-risk-adjustment-market.md",
+      "title": "New Wolters Kluwer Health Language Solution Is Purpose-Built to Transform the Risk Adjustment Market",
+      "excerpt": "Wolters Kluwer Health today announced the launch of the Coder Workbench, a high-productivity Risk Adjustment solution built on the Health Language Data Platform that optimizes medical record review for risk adjustment workflows.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/03/01/9769250.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/03/01/9769250.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T07:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -264,156 +283,26 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-23-chatgpt-maker-openai-has-hired-tons-of-former-google-and-meta-employees-new-data-shows.md",
-      "title": "ChatGPT-maker OpenAI has hired tons of former Google and Meta employees, new data shows",
-      "excerpt": "Data from LeadGenius and Punks & Pinstripes shows that a number of the company's 200-plus employees came from Alphabet, the parent company of Google and AI research lab DeepMind. OpenAI currently employs about 59 ex-Google employees and about 34 former ...",
+      "path": "_news/2023-03-01-introducing-the-amazon-comprehend-flywheel-for-mlops.md",
+      "title": "Introducing the Amazon Comprehend flywheel for MLOps",
+      "excerpt": "The world we live in is rapidly changing, and so are the data and features that companies and customers use to train their models. Retraining models to keep them in sync with these changes is critical to maintain accuracy. Therefore, you need an agile and dynamic approach to keep models up to date and",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chatgpt-openai-microsoft-hired-former-google-meta-apple-tesla-staff-2023-2",
-      "originalUrl": "https://www.businessinsider.com/chatgpt-openai-microsoft-hired-former-google-meta-apple-tesla-staff-2023-2",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-comprehend-flywheel-for-mlops/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-comprehend-flywheel-for-mlops/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chatgpt-openai-microsoft-hired-former-google-meta-apple-tesla-staff-2023-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-openai-microsoft-hired-former-google-meta-apple-tesla-staff-2023-2?amp",
-      "publishedDateTime": "2023-02-22T08:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-healthcare-may-be-the-ultimate-proving-ground-for-artificial-intelligence.md",
-      "title": "Healthcare May Be The Ultimate Proving Ground For Artificial Intelligence",
-      "excerpt": "Healthcare may lag other industries in artificial intelligence (AI) adoption, but may be the ultimate proving ground where AI can really demonstrate its worth across many dimensions — introducing greater productivity and responsiveness into a sector ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/22/healthcare-may-be-the-ultimate-proving-ground-for-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/22/healthcare-may-be-the-ultimate-proving-ground-for-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/22/healthcare-may-be-the-ultimate-proving-ground-for-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/02/22/healthcare-may-be-the-ultimate-proving-ground-for-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-02-22T08:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-our-progress-toward-quantum-error-correction.md",
-      "title": "Our progress toward quantum error correction",
-      "excerpt": "For the first time ever, our Quantum AI researchers have experimentally demonstrated it’s possible to reduce errors by increasing the number of qubits.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/inside-google/message-ceo/our-progress-toward-quantum-error-correction/",
-      "originalUrl": "https://blog.google/inside-google/message-ceo/our-progress-toward-quantum-error-correction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/inside-google/message-ceo/our-progress-toward-quantum-error-correction/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/message-ceo/our-progress-toward-quantum-error-correction/amp/",
-      "publishedDateTime": "2023-02-22T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-most-americans-are-uncomfortable-with-artificial-intelligence-in-health-care-survey-finds.md",
-      "title": "Most Americans are uncomfortable with artificial intelligence in health care, survey finds",
-      "excerpt": "Sixty percent of Americans who took part in a new survey by the Pew Research Center said that they would be uncomfortable with a health care provider who relied on artificial intelligence to do something like diagnose their disease or recommend a treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/02/22/health/artificial-intelligence-health-care/index.html",
-      "originalUrl": "https://www.cnn.com/2023/02/22/health/artificial-intelligence-health-care/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
+      "heat": 116,
       "tags": null,
       "images": [
         {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/221007140623-doctor-visit-stock.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/28/introducing-comprehend-flywheel.jpg",
+          "width": 1563,
+          "height": 782,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -423,14 +312,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-22T07:00:00-08:00",
+      "publishedDateTime": "2023-03-01T07:27:59-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "AWS",
+        "domain": "aws.amazon.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -446,71 +335,27 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
         "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service.md",
-      "title": "AWS And Hugging Face Partner To Offer An Alternative To Microsoft’s Azure OpenAI Service",
-      "excerpt": "The Hugging Face community can leverage AWS ML services and infrastructure, such as Amazon SageMaker, AWS Trainium and AWS Inferentia, to train, fine-tune and deploy the models. With the hype and attention that LLMs have been getting, I expected AWS to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/02/22/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/02/22/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 237,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/02/22/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/02/22/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service/amp/",
-      "publishedDateTime": "2023-02-22T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AWS AI",
-        "AI",
-        "Microsoft AI"
+        "Natural Language Processing"
       ]
     },
     {
-      "path": "_news/2023-02-22-artificial-intelligence-delivers-its-latest-innovation.md",
-      "title": "Artificial Intelligence Delivers Its Latest Innovation",
-      "excerpt": "\"Some people call this artificial intelligence, but the reality is this technology will enhance us. So instead of artificial intelligence, I think we'll augment our intelligence.\" -Ginni Rometty, Executive Chairman of IBM Artificial intelligence (AI ...",
+      "path": "_news/2023-03-01-this-is-what-us-presidents-would-look-like-with-mullets-according-to-ai.md",
+      "title": "This Is What U.S. Presidents Would Look Like With Mullets, According to AI",
+      "excerpt": "Innovative imaginations of U.S. presidents sporting some extreme hairstyles have left the internet in stitches. Using Artificial Intelligence (AI), Cam Harless, 34, who lives in Florida, has put a fun spin on pictures of historical and well-known figures in a Twitter thread featuring all 46 U.",
       "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812",
-      "originalUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812",
+      "webUrl": "https://www.newsweek.com/what-us-presidents-would-look-like-mullet-ai-1784814",
+      "originalUrl": "https://www.newsweek.com/what-us-presidents-would-look-like-mullet-ai-1784814",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 85,
       "tags": null,
       "images": [
         {
-          "url": "https://d.newsweek.com/en/full/2198602/computer-code.jpg",
-          "width": 2500,
-          "height": 1668,
+          "url": "https://d.newsweek.com/en/full/2202770/trump-jfk-ai-pictures.png",
+          "width": 2400,
+          "height": 1600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -518,9 +363,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812?amp=1",
-      "publishedDateTime": "2023-02-22T04:00:00-08:00",
+      "ampWebUrl": "https://www.newsweek.com/what-us-presidents-would-look-like-mullet-ai-1784814?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-us-presidents-would-look-like-mullet-ai-1784814?amp=1",
+      "publishedDateTime": "2023-03-01T07:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Newsweek",
@@ -543,30 +388,25 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Natural Language Processing",
-        "IBM AI",
-        "AI in Autos",
-        "Computer Vision"
+        "AI"
       ]
     },
     {
-      "path": "_news/2023-02-22-baidu-to-deploy-conversational-ai-across-search-in-car-entertainment-and-more.md",
-      "title": "Baidu to deploy conversational AI across search, in-car entertainment and more",
-      "excerpt": "This appears to mirror the collaboration between Microsoft and OpenAI, through which Azure’s customers can access the AI lab’s technologies. Lastly, Baidu plans to boost its in-car voice assistant with Ernie. The search giant has over the past few ...",
+      "path": "_news/2023-03-01-bridgewater-exits-ray-dalio-era-with-hedge-fund-overhaul-bets-on-ai-and-job-cuts.md",
+      "title": "Bridgewater Exits Ray Dalio Era With Hedge Fund Overhaul, Bets on AI and Job Cuts",
+      "excerpt": "Bridgewater Associates was bound to be different once billionaire founder Ray Dalio no longer commanded the world’s largest hedge fund. Very different, it turns out.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/02/22/baidu-chatgpt/",
-      "originalUrl": "https://techcrunch.com/2023/02/22/baidu-chatgpt/",
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-03-01/bridgewater-exits-dalio-era-with-hedge-fund-overhaul-bets-on-ai-sustainability",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-03-01/bridgewater-exits-dalio-era-with-hedge-fund-overhaul-bets-on-ai-sustainability",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 72,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-1061811420.jpg?resize=1200,800",
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLZRpBFsqaM0/v0/1200x676.jpg",
           "width": 1200,
-          "height": 800,
+          "height": 676,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -574,16 +414,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/02/22/baidu-chatgpt/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/22/baidu-chatgpt/amp/",
-      "publishedDateTime": "2023-02-22T02:14:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T07:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -599,111 +439,23 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Autos"
+        "AI"
       ]
     },
     {
-      "path": "_news/2023-02-22-is-artificial-intelligence-a-curse-for-the-common-man.md",
-      "title": "Is artificial intelligence a curse for the common man?",
-      "excerpt": "Today we are all surrounded by artificial intelligence (AI ... One of the famous examples being the concept of self-driving cars, wherein the availability of sensors will help perceive the ...",
+      "path": "_news/2023-03-01-deep-learning-for-safer-driving.md",
+      "title": "Deep learning for safer driving",
+      "excerpt": "CERN and software company Zenseact have completed a three-year project investigating the use of AI in autonomous vehicles.",
       "sourceUrl": null,
-      "webUrl": "https://www.dailypioneer.com/2023/columnists/is-artificial-intelligence-a-curse-for-the-common-man-.html",
-      "originalUrl": "https://www.dailypioneer.com/2023/columnists/is-artificial-intelligence-a-curse-for-the-common-man-.html",
+      "webUrl": "https://cerncourier.com/a/deep-learning-for-safer-driving/",
+      "originalUrl": "https://cerncourier.com/a/deep-learning-for-safer-driving/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.dailypioneer.com/images/logo.jpg",
-          "width": 325,
-          "height": 325,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-22T01:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Pioneer",
-        "domain": "dailypioneer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-baidus-board-authorizes-share-buyback-program.md",
-      "title": "Baidu's Board Authorizes Share Buyback Program",
-      "excerpt": "(RTTNews) - AI company Baidu, Inc. (BIDU) announced its board of directors has authorized a new share repurchase program under which the company may repurchase up to $5 billion of its shares ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-s-board-authorizes-share-buyback-program-1032114848",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-s-board-authorizes-share-buyback-program-1032114848",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-22T01:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-biden-executive-order-for-woke-artificial-intelligence-called-social-cancer.md",
-      "title": "Biden executive order for 'woke' artificial intelligence called 'social cancer'",
-      "excerpt": "President Biden signed an executive order on Thursday that critics warn will allow for the creation of woke artificial intelligence (AI) that \"promotes racial division and discrimination.\" The order directs all federal agencies to establish a yearly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/biden-executive-order-woke-artificial-intelligence-called-social-cancer",
-      "originalUrl": "https://www.foxnews.com/media/biden-executive-order-woke-artificial-intelligence-called-social-cancer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42006bf1-9cc1-4713-8eef-df8e64d5bb5a/44b27d85-3d5c-44be-b914-c2851a57d1d9/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "url": "https://cerncourier.com/wp-content/uploads/2023/02/CCMarApr23_NA_Zenseact.jpg",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -713,16 +465,111 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/biden-executive-order-woke-artificial-intelligence-called-social-cancer.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-executive-order-woke-artificial-intelligence-called-social-cancer.amp",
-      "publishedDateTime": "2023-02-22T01:00:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T06:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
+        "name": "CERN Courier",
+        "domain": "cerncourier.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-01-alibaba-iqiyi-or-baidu-which-has-the-best-growth.md",
+      "title": "Alibaba, iQiyi, or Baidu: Which Has the Best Growth?",
+      "excerpt": "That represents almost half of its market capitalization. The margin of safety is large for BIDU stock. Baidu is developing self-driving and AI. It is the dominant search engine in China. iQiyi is a Chinese online video platform. It reported average daily ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/alibaba-iqiyi-or-baidu-which-has-the-best-growth-2023-03-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/alibaba-iqiyi-or-baidu-which-has-the-best-growth-2023-03-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T05:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-01-brave-new-world-ai-generated-content-and-seo-marketing.md",
+      "title": "Brave New World: AI-Generated Content And SEO Marketing",
+      "excerpt": "The groundbreaking AI solution empowers businesses and brands to automate essential SEO tasks, such as keyword research and content strategy. Still, it faces challenges in crafting compelling articles or briefs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/01/brave-new-world-ai-generated-content-and-seo-marketing/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/01/brave-new-world-ai-generated-content-and-seo-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63fe0fd52993fa6c5a1a37e7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/01/brave-new-world-ai-generated-content-and-seo-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/01/brave-new-world-ai-generated-content-and-seo-marketing/amp/",
+      "publishedDateTime": "2023-03-01T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -739,25 +586,26 @@
       ],
       "topics": [
         "AI",
-        "AI in Autos"
+        "AI in Marketing",
+        "Natural Language Processing"
       ]
     },
     {
-      "path": "_news/2023-02-22-cognitive-services-market-business-overview-2023-and-forecast-to-2030-ibm-microsoft-aws-baidu.md",
-      "title": "Cognitive Services Market Business Overview 2023, and Forecast to 2030 | IBM, Microsoft, AWS, Baidu",
-      "excerpt": "It gives a wide outline of the global Cognitive Services Market and figures for key fragments. The report gives a nitty gritty examination of working organization fragments, item portfolios, business execution,",
+      "path": "_news/2023-03-01-ketamine-assisted-therapy-coming-soon-to-an-hr-department-near-you.md",
+      "title": "Ketamine-Assisted Therapy Coming Soon To An HR Department Near You",
+      "excerpt": "The controversial medication Ketamine is the only legal psychedelic medicine becoming more popular to treat mental health, and it's finding it's way into the workplace.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-business-overview-2023-and-forecast-to-2030-ibm-microsoft-aws-baidu-2023-02-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-business-overview-2023-and-forecast-to-2030-ibm-microsoft-aws-baidu-2023-02-22",
+      "webUrl": "https://www.forbes.com/sites/bryanrobinson/2023/03/01/ketamine-assisted-therapy-coming-soon-to-an-hr-department-near-you/",
+      "originalUrl": "https://www.forbes.com/sites/bryanrobinson/2023/03/01/ketamine-assisted-therapy-coming-soon-to-an-hr-department-near-you/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63e638794656f9a9c2f721e5/0x0.jpg?format=jpg&width=1200",
           "width": 1200,
-          "height": 630,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -765,16 +613,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-21T22:56:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/bryanrobinson/2023/03/01/ketamine-assisted-therapy-coming-soon-to-an-hr-department-near-you/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bryanrobinson/2023/03/01/ketamine-assisted-therapy-coming-soon-to-an-hr-department-near-you/amp/",
+      "publishedDateTime": "2023-03-01T03:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -790,27 +638,156 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-01-deep-learning-model-may-help-expand-lung-screening-programs.md",
+      "title": "Deep Learning Model May Help Expand Lung Screening Programs",
+      "excerpt": "Sybil could help, say researchers. Sybil is a validated deep learning model that predicts future lung cancer risk based on a single low-dose CT (LDCT) scan, they explain. The model was developed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medscape.com/viewarticle/988863",
+      "originalUrl": "https://www.medscape.com/viewarticle/988863",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.medscape.com/thumbnail_library/gty_210831_lungs_800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T02:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medscape",
+        "domain": "medscape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-01-natural-language-processing-nlp-market-global-research-report-with-opportunities-and-strategies-to-boost-growth-and-revenue-over-2023-2033.md",
+      "title": "Natural Language Processing Nlp Market Global Research Report With Opportunities, And Strategies To Boost Growth, And Revenue Over 2023-2033",
+      "excerpt": "Natural Language Processing Nlp Market Research IBM (US), Microsoft (US), Google (US), AWS (US), Meta (US), 3M (US), Baidu (China), Apple (US), SAS Institute (US ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105680904/Natural-Language-Processing-Nlp-Market-Global-Research-Report-With-Opportunities-And-Strategies-To-Boost-Growth-And-Revenue-Over-2023-2033",
+      "originalUrl": "https://menafn.com/1105680904/Natural-Language-Processing-Nlp-Market-Global-Research-Report-With-Opportunities-And-Strategies-To-Boost-Growth-And-Revenue-Over-2023-2033",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?7253",
+          "width": 281,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T01:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-01-an-ai-robot-wrote-this-column-or-maybe-not.md",
+      "title": "An AI robot wrote this column … or maybe not",
+      "excerpt": "Hi. I am a product of artificial intelligence. When this columnist asked me to write an essay about the craft of writing, I was happy to oblige. He wanted",
+      "sourceUrl": null,
+      "webUrl": "https://www.dallasnews.com/opinion/commentary/2023/03/01/an-ai-robot-wrote-this-column-or-maybe-not/",
+      "originalUrl": "https://www.dallasnews.com/opinion/commentary/2023/03/01/an-ai-robot-wrote-this-column-or-maybe-not/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/i085YHY9b0Q00iiXIN6-Dq8oyRs=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/KDFSMKGJCRBWXE42CPTDWFPA3Q.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dallasnews.com/opinion/commentary/2023/03/01/an-ai-robot-wrote-this-column-or-maybe-not/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/opinion/commentary/2023/03/01/an-ai-robot-wrote-this-column-or-maybe-not/?outputType=amp",
+      "publishedDateTime": "2023-02-28T23:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dallas Morning News",
+        "domain": "dallasnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI",
-        "AWS AI"
+        "AI Hardware"
       ]
     },
     {
-      "path": "_news/2023-02-22-image-recognition-in-retail-market-size-2023-growth-statistics-industry-demand-top-players-data-share-upcoming-trends-forecast-2031.md",
-      "title": "Image Recognition in Retail Market Size 2023 Growth Statistics, Industry Demand, Top Players Data, Share, Upcoming Trends, Forecast 2031",
-      "excerpt": "Image recognition is the process of analyzing an input image and predicting its category. The implementation of Image recognition in the retail stores improves in store execution and brand visibility and benefits the retail stores by increasing sales growth,",
+      "path": "_news/2023-03-01-fake-ai-generated-start-up-gets-lucrative-funding-offer-on-linkedin.md",
+      "title": "Fake, AI-generated start-up gets lucrative funding offer on LinkedIn!",
+      "excerpt": "I created a fake LinkedIn profile of a founder.- AI-generated white male face- Stripe alum- Stanford dropout- G…  @roshanpateI I know a bunch of people who worked at Stripe and NONE of them have anything good to say about Chad Smith.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-size-2023-growth-statistics-industry-demand-top-players-data-share-upcoming-trends-forecast-2031-2023-02-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-size-2023-growth-statistics-industry-demand-top-players-data-share-upcoming-trends-forecast-2031-2023-02-22",
+      "webUrl": "https://economictimes.indiatimes.com/magazines/panache/fake-ai-generated-start-up-gets-lucrative-funding-offer-on-linkedin/articleshow/98328132.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/fake-ai-generated-start-up-gets-lucrative-funding-offer-on-linkedin/articleshow/98328132.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://img.etimg.com/photo/96164744.cms",
+          "width": 2448,
+          "height": 1224,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -818,118 +795,117 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-21T22:56:00-08:00",
+      "ampWebUrl": "https://m.economictimes.com/magazines/panache/start-up-boss-creates-ai-generated-fake-profile-gets-funding-offer-on-linkedin-within-24-hours/amp_articleshow/98328132.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/start-up-boss-creates-ai-generated-fake-profile-gets-funding-offer-on-linkedin-within-24-hours/amp_articleshow/98328132.cms",
+      "publishedDateTime": "2023-02-28T23:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-ai-in-fintech-market-growth-forecast-the-latest-market-research-and-what-it-means-for-your-business.md",
-      "title": "AI in Fintech Market Growth Forecast: The Latest Market Research and What It Means for Your Business",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 22, 2023 (Heraldkeepers) -- (Pune) In the past few years, the AI in Fintech market experienced a huge change under the influence of COVID-19 and Russia-Ukraine War ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-growth-forecast-the-latest-market-research-and-what-it-means-for-your-business-2023-02-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-growth-forecast-the-latest-market-research-and-what-it-means-for-your-business-2023-02-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-21T20:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-trading-with-the-momentum-transformer-an-interpretable-deep-learning-architecture.md",
-      "title": "Trading with the momentum transformer: an interpretable deep learning architecture",
-      "excerpt": "Only users who have a paid subscription or are part of a corporate subscription are able to print or copy content. To access these options, along with all other subscription benefits, please contact info@risk.net or view our subscription options here: http ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.risk.net/cutting-edge/7956074/trading-with-the-momentum-transformer-an-interpretable-deep-learning-architecture",
-      "originalUrl": "https://www.risk.net/cutting-edge/7956074/trading-with-the-momentum-transformer-an-interpretable-deep-learning-architecture",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.risk.net/sites/default/files/styles/metatag_image_large/public/2023-02/momentum-coverter.jpg?itok=2jFc-8WF",
-          "width": 1200,
-          "height": 743,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-21T20:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Risk",
-        "domain": "risk.net",
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-01-israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots.md",
+      "title": "Israeli Startup D-ID Puts A Face On Generative AI Chatbots",
+      "excerpt": "Tel Aviv-based D-ID announced today the next stage in its rapidly evolving ride on top of the generative AI wave, launching at Mobile World Congress their chat API, the first platform to enable face-to-face conversations with an “AI Digital Human” in a natural way.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63fe71cd4b8a8dd80fcbcbc2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/amp/",
+      "publishedDateTime": "2023-02-28T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-01-examining-the-artificial-intelligence-and-machine-learning-market-from-2023-opportunities-and-challenges-ahead.md",
+      "title": "Examining the Artificial Intelligence and Machine Learning Market from 2023-Opportunities and Challenges Ahead",
+      "excerpt": "Artificial Intelligence and Machine Learning Market Size 2023 | New Report (132 Pages) | Information Technology | In",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/examining-the-artificial-intelligence-and-machine-learning-market-from-2023-opportunities-and-challenges-ahead-2023-03-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/examining-the-artificial-intelligence-and-machine-learning-market-from-2023-opportunities-and-challenges-ahead-2023-03-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-28T21:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -943,27 +919,45 @@
       ]
     },
     {
-      "path": "_news/2023-02-22-infants-outshine-artificial-intelligence-in-determining-what-drives-peoples-actions-study.md",
-      "title": "Infants Outshine Artificial Intelligence In Determining What Drives People's Actions: Study",
-      "excerpt": "The researchers also built and trained learning-driven neural-network models, which are artificial intelligence tools that help computers recognise patterns and simulate human intelligence. The researchers then tested the responses of the neural-network ...",
+      "path": "_news/2023-03-01-how-innovators-are-using-gamification-to-appeal-to-gen-z.md",
+      "title": "How innovators are using gamification to appeal to Gen Z",
+      "excerpt": "By using advanced tech and gamification to their advantage, orgs can create interactive, engaging and tailored experiences for Gen Z.",
       "sourceUrl": null,
-      "webUrl": "https://news.abplive.com/science/infants-outshine-artificial-intelligence-in-determining-what-drives-people-s-actions-study-1583687",
-      "originalUrl": "https://news.abplive.com/science/infants-outshine-artificial-intelligence-in-determining-what-drives-people-s-actions-study-1583687",
+      "webUrl": "https://venturebeat.com/virtual/how-innovators-are-using-gamification-to-appeal-to-gen-z/",
+      "originalUrl": "https://venturebeat.com/virtual/how-innovators-are-using-gamification-to-appeal-to-gen-z/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1359390311.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 631,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-21T20:12:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/virtual/how-innovators-are-using-gamification-to-appeal-to-gen-z/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/virtual/how-innovators-are-using-gamification-to-appeal-to-gen-z/amp/",
+      "publishedDateTime": "2023-02-28T21:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "news.abplive",
-        "domain": "abplive.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -977,15 +971,15 @@
       ]
     },
     {
-      "path": "_news/2023-02-22-computer-vision-in-artificial-intelligence-ai-market-next-big-thing-forecast-2023-2029.md",
-      "title": "Computer Vision in Artificial Intelligence (AI) Market Next Big Thing Forecast 2023-2029",
-      "excerpt": "Computer Vision in Artificial Intelligence (AI) Market 2023 with 128 Pages Report and enhance with extents shares",
+      "path": "_news/2023-03-01-artificial-intelligence-ai-in-drug-discovery-market-2023-is-ready-for-breakout-rally-by-industry-share.md",
+      "title": "Artificial Intelligence (AI) in Drug Discovery Market 2023 is Ready for Breakout Rally by Industry Share",
+      "excerpt": "The recently published Artificial Intelligence (AI) in Drug Discovery Market Report, spanning across pages, provides",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-next-big-thing-forecast-2023-2029-2023-02-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-next-big-thing-forecast-2023-2029-2023-02-21",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-2023-is-ready-for-breakout-rally-by-industry-share-2023-03-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-2023-is-ready-for-breakout-rally-by-industry-share-2023-03-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 320,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -1001,7 +995,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-21T16:25:00-08:00",
+      "publishedDateTime": "2023-02-28T21:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -1016,6 +1010,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-01-tirupati-temple-facial-recognition-system-for-darshan-from-today.md",
+      "title": "Tirupati Temple: Facial recognition system for darshan from today",
+      "excerpt": "The facial recognition system is set to begin on an experimental basis at Tirupati temple from 1 March. The system will help the management in dealing with impersonators and the misuse of temple servi",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/india/tirupati-temple-facial-recognition-system-for-darshan-from-today-11677633077133.html",
+      "originalUrl": "https://www.livemint.com/news/india/tirupati-temple-facial-recognition-system-for-darshan-from-today-11677633077133.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2023/03/01/600x338/Tirupati_Balaji_1677633664437_1677633664671_1677633664671.png",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/india/tirupati-temple-facial-recognition-system-for-darshan-from-today/amp-11677633077133.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/tirupati-temple-facial-recognition-system-for-darshan-from-today/amp-11677633077133.html",
+      "publishedDateTime": "2023-02-28T17:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1029,19 +1065,19 @@
       ]
     },
     {
-      "path": "_news/2023-02-22-how-to-invest-in-ai-startups.md",
-      "title": "How To Invest in AI Startups",
-      "excerpt": "Every now and then, an industry pops up that is so transformative, it literally changes the way society functions forever. In much the same way there was a world before electricity and after it ...",
+      "path": "_news/2023-03-01-how-the-latest-ai-generated-copyright-loss-could-add-friction-to-music-and-technologys-complicated-relationship.md",
+      "title": "How The Latest AI-Generated Copyright Loss Could Add Friction To Music And Technology’s Complicated Relationship",
+      "excerpt": "With the acceleration of creative tools powered by AI, new challenges for creators and lawmakers create friction in emerging technology genre.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/money/how-to-invest-in-ai-startups",
-      "originalUrl": "https://www.benzinga.com/money/how-to-invest-in-ai-startups",
+      "webUrl": "https://www.forbes.com/sites/jacquelineschneider/2023/02/28/how-latest-ai-generated-copyright-loss-could-add-friction-to-music-and-technologys-complicated--relationship/",
+      "originalUrl": "https://www.forbes.com/sites/jacquelineschneider/2023/02/28/how-latest-ai-generated-copyright-loss-could-add-friction-to-music-and-technologys-complicated--relationship/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://cdnwp-s3.benzinga.com/wp-content/uploads/2021/12/01175321/zblw0fg8xu8-768x598.jpg?width=1200&height=800&fit=crop",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63fc349173308b72ab147637/0x0.jpg?format=jpg&width=1200",
           "width": 1200,
           "height": 800,
           "title": null,
@@ -1051,14 +1087,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-21T16:00:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/jacquelineschneider/2023/02/28/how-latest-ai-generated-copyright-loss-could-add-friction-to-music-and-technologys-complicated--relationship/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jacquelineschneider/2023/02/28/how-latest-ai-generated-copyright-loss-could-add-friction-to-music-and-technologys-complicated--relationship/amp/",
+      "publishedDateTime": "2023-02-28T16:44:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1067,26 +1112,25 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Robotics"
+        "AI"
       ]
     },
     {
-      "path": "_news/2023-02-22-intelligent-transport-systems-enhance-human-robot-collaboration.md",
-      "title": "Intelligent Transport Systems Enhance Human-Robot Collaboration",
-      "excerpt": "Adaptive machines are combining safe motion control, robotics and intelligent track technology into collaborative, workplace solutions. (Image source: B&R Industrial Automation) The goal of human and robotics interaction in manufacturing, creating an ...",
+      "path": "_news/2023-03-01-mediterranean-diet-how-it-can-help-people-with-ms-maintain-memory-cognitive-skills.md",
+      "title": "Mediterranean Diet: How It Can Help People With MS Maintain Memory, Cognitive Skills",
+      "excerpt": "Share on Pinterest Experts say lifestyle choices such as a healthy diet can help people with multiple sclerosis to maintain their cognitive ... of Wellness Nutrition Services at Cleveland Clinic ...",
       "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/intelligent-transport-systems-enhance-human-robot-collaboration",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/intelligent-transport-systems-enhance-human-robot-collaboration",
+      "webUrl": "https://www.healthline.com/health-news/mediterranean-diet-how-it-can-help-people-with-ms-maintain-memory-cognitive-skills",
+      "originalUrl": "https://www.healthline.com/health-news/mediterranean-diet-how-it-can-help-people-with-ms-maintain-memory-cognitive-skills",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.designnews.com/sites/designnews.com/files/small%20Robotics_innovations.jpg",
-          "width": 705,
-          "height": 768,
+          "url": "https://post.healthline.com/wp-content/uploads/2023/03/wheelchair-disability-732x549-thumbnail.jpg",
+          "width": 732,
+          "height": 549,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1096,11 +1140,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-21T16:00:00-08:00",
+      "publishedDateTime": "2023-02-28T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
+        "name": "Healthline",
+        "domain": "healthline.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1110,31 +1154,40 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-22-solar-powered-driverless-bus-developed-by-lpu-students-utilizing-resources-available-within-india.md",
-      "title": "Solar-powered driverless bus developed by LPU students utilizing resources available within India",
-      "excerpt": "With the evolution and advancement of technology such as artificial intelligence, Open CV, and the wide promotion of utilizing clean energy, our team looks forward to conceptualizing, redesigning, and developing a completely driverless, electric ...",
+      "path": "_news/2023-03-01-ms-can-the-mediterranean-diet-help-preserve-cognitive-health.md",
+      "title": "MS: Can the Mediterranean diet help preserve cognitive health?",
+      "excerpt": "“Cognitive impairment may affect over 50% of persons with MS and there are currently no effective pharmacologic treatments,” Barbara Giesser, neurologist and MS specialist at Pacific ...",
       "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/solar-powered-driverless-bus-developed-by-lpu-students-utilizing-resources-available-within-india/",
-      "originalUrl": "https://www.dqindia.com/solar-powered-driverless-bus-developed-by-lpu-students-utilizing-resources-available-within-india/",
+      "webUrl": "https://www.medicalnewstoday.com/articles/ms-can-the-mediterranean-diet-help-preserve-cognitive-health",
+      "originalUrl": "https://www.medicalnewstoday.com/articles/ms-can-the-mediterranean-diet-help-preserve-cognitive-health",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2023/03/hand-table-Mediterranean-diet-MS-732x549-thumbnail.jpg",
+          "width": 732,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/solar-powered-driverless-bus-developed-by-lpu-students-utilizing-resources-available-within-india/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/solar-powered-driverless-bus-developed-by-lpu-students-utilizing-resources-available-within-india/amp/",
-      "publishedDateTime": "2023-02-21T13:00:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-28T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
+        "name": "Medical News Today",
+        "domain": "medicalnewstoday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1144,7 +1197,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Microsoft AI",
         "AI"
       ]
     }

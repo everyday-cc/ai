@@ -1,0 +1,67 @@
+---
+category: news
+title: "How road rage really affects your driving -- and the self-driving cars of the future"
+excerpt: "New research has identified characteristics of aggressive driving -- which impact both road users and the transition to self-driving cars of the future. In the first study to systematically identify aggressive driving behaviours, scientists have measured ..."
+publishedDateTime: 2023-04-10T23:59:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2023/04/230411150507.htm"
+webUrl: "https://www.sciencedaily.com/releases/2023/04/230411150507.htm"
+type: article
+quality: 27
+heat: -1
+published: false
+
+provider:
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Autos
+  - AI
+
+related:
+  - title: "When Will Cars Be Fully Self-Driving?"
+    excerpt: "The technology isn’t anywhere near where it needs to be to replace human drivers. Three experts weigh in on what the future holds for autonomous vehicles."
+    publishedDateTime: 2023-04-10T12:00:00Z
+    webUrl: "https://www.wsj.com/articles/cars-self-driving-when-c6ae4fdc"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 34
+  - title: "KIYC: Is technology ready for self-driving cars? Some drivers have doubts"
+    excerpt: "Americans are killed in car accidents and the car industry says self-driving vehicles will eventually make the roads safer."
+    publishedDateTime: 2023-04-13T13:00:00Z
+    webUrl: "https://longisland.news12.com/america-self-driving-cars-technology-drivers-have-doubts"
+    ampWebUrl: "https://longisland.news12.com/amp/america-self-driving-cars-technology-drivers-have-doubts"
+    cdnAmpWebUrl: "https://longisland-news12-com.cdn.ampproject.org/c/s/longisland.news12.com/amp/america-self-driving-cars-technology-drivers-have-doubts"
+    type: article
+    provider:
+      name: News 12 Networks
+      domain: news12.com
+    quality: 23
+  - title: "Who’s liable in a ‘self-driving’ car crash?"
+    excerpt: "CLEVELAND—Police officers can often identify which driver is responsible for a traffic accident. But what about when a self-driving vehicle is involved? Which driver should be liable for that? The question is increasingly relevant as “partially ..."
+    publishedDateTime: 2023-04-10T23:59:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/985695"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 4
+  - title: "How road rage really affects your driving—and the self-driving cars of the future"
+    excerpt: "New research by the University of Warwick has identified characteristics of aggressive driving—which impact both road users and the transition to self-driving cars of the future."
+    publishedDateTime: 2023-04-11T20:10:00Z
+    webUrl: "https://techxplore.com/news/2023-04-road-rage-affects-drivingand-self-driving.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 0
+
+secured: "iFoZtX13xDyMBF1ZC+9MwgCsDOG/jromKGFBIX/lW/dk2rI2nG6B/rR4x4jLG6He0/rc2an73hsy86fpI0/u4WfQJTBJtEu8QbGBNe/ammofTqdNvA3bVDqJP2bJChXOp05GWVX4xgId3b2QHaxCpSnsRcaEY27D32DXcbojaxdtmiIMAdLjX/81+1QYMDB+0a9EbwFK4HOmMGI40XyLsodzVkce+DjVFKN5z/GmfG6dWj6utaCg7jHwsQzXxslYQermlSxkiUsCAwqJVuqKkPR7AlBM7Xjj+6TyOg8gHsoY19/3HrNKk7/u4ZIq1hzRm2WbsaOZXBy+psS6vQgD6+27EZxbR9txWLybJYFtH7s=;xW4Yvkc3ROlOpoeQXg6Uew=="
+---
+

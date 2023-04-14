@@ -14,7 +14,14 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
-secured: "BVYBE47ZfNoMvUHttROdwVE0nYZuhWtpft90jitqwmW8CisvfRi2bHKzxMr7gPnycJRhkyNnj0BbKPWr1JG4S/N/pMZ4Lx65wZ7JIcrlD2CLYqSLFDhi8l0UxIyaauABe2GV+d7RcFAoD7yHMfVT9n1wvDB54eHwOVsIHLdqRBHlIib371uXolV08xm7dnASS22auViq5YnYXMcKj3NKvDiZdomnxJwAYOt1mCAHlbzzTwnGYEBqdkH5ivcNJdBSEypYLvDOWZp2eMVmfnjK15buMWJzyk1xIrxXU/NVOUlccQkGSiztWIybptHmuoiruoqDKSM9URfWVyTyfheggapqrgM5QYmJrl0pOqOObApEk4xb7WnFlPDt1qoIfLdj1k0BPz95W0Z13gNgCIEb1dvx0ds8h1VbHgd/D6ZN/t1I4jUdT0j42H9075is7RrQ1EeyDBLDYPnzF74uskp7tHQicnMEnCOTWnjQO/LeG0d6Wl5Q8Bo6JcB74NjAl07ki1OcISLiAL7KoDEKXLDsCg==;EXEycc2O3P04+mpYzaNdrA=="
+images:
+  - url: "https://s.hdnux.com/photos/01/32/16/63/23653586/3/rawImage.jpg"
+    width: 2000
+    height: 1333
+    isCached: true
+
+secured: "tqlvhjB9lh31H4SRx+u7KunJsuixEUt212kkIRmOgK5kJoYj2yabGtWq1JUnTCJkAsPQ1uOUHlAXzQni6TupqTGK/v//Zry4iCXfZ3IfeLKoBMQzKSLGYnmy8WOWi5K1aL9ETXPAyD8wecmYfAtqhwzP+jdgfxWLZKfxPe1GYt81VOK729wJwHwJzhfjwZe9jIsYkxnaRtfkZgTnzbnssfNclK8oXv7Zeqb7XiQNZ754V9C6+Sc4/FxlxVZqiR/h46J06Tj45U0aSOoCHscCQW+zd0JuSgnmqtF1vw+Qi1BsQn2tBR2Cjakh5dPuktlQxsybw/+8vMQvsi9loSmRGwfjjgUPQmFrlg9nMbZjGK0=;RpRfwMYaXHwiw7eC2i7fSw=="
 ---
 

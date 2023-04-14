@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-10T09:00:00Z
 originalUrl: "https://www.infoworld.com/article/3692810/build-ai-apps-faster-with-low-code-and-no-code.html"
 webUrl: "https://www.infoworld.com/article/3692810/build-ai-apps-faster-with-low-code-and-no-code.html"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: InfoWorld

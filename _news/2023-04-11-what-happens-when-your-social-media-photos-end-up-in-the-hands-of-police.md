@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-11T14:33:00Z
 originalUrl: "https://www.themarshallproject.org/2023/04/08/police-artificial-intelligence-facial-recognition-clearview-ai-social-media"
 webUrl: "https://www.themarshallproject.org/2023/04/08/police-artificial-intelligence-facial-recognition-clearview-ai-social-media"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: The Marshall Project

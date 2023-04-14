@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T19:53:00Z
 originalUrl: "https://www.webbikeworld.com/bmw-motorrad-to-debut-facial-recognition/"
 webUrl: "https://www.webbikeworld.com/bmw-motorrad-to-debut-facial-recognition/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: webBikeWorld

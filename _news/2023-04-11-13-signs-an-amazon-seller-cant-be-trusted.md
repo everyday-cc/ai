@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-10T23:59:00Z
 originalUrl: "https://www.rd.com/list/signs-amazon-seller-cant-be-trusted/"
 webUrl: "https://www.rd.com/list/signs-amazon-seller-cant-be-trusted/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Reader's Digest

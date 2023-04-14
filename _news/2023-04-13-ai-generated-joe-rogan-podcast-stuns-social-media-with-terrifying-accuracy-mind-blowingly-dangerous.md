@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-12T20:30:00Z
 originalUrl: "https://www.foxnews.com/media/ai-generated-joe-rogan-podcast-social-media-terrifying-accuracy-mind-blowingly-dangerous"
 webUrl: "https://www.foxnews.com/media/ai-generated-joe-rogan-podcast-social-media-terrifying-accuracy-mind-blowingly-dangerous"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Fox News

@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-11T20:31:28Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/detect-real-and-live-users-and-deter-bad-actors-using-amazon-rekognition-face-liveness/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/detect-real-and-live-users-and-deter-bad-actors-using-amazon-rekognition-face-liveness/"
 type: article
+quality: 78
+heat: 78
+published: true
 
 provider:
   name: AWS

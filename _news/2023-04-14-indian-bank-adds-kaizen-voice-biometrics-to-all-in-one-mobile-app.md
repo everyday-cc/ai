@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T17:17:00Z
 originalUrl: "https://www.biometricupdate.com/202304/indian-bank-adds-kaizen-voice-biometrics-to-all-in-one-mobile-app"
 webUrl: "https://www.biometricupdate.com/202304/indian-bank-adds-kaizen-voice-biometrics-to-all-in-one-mobile-app"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Biometric Companies

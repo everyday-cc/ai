@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-11T04:56:00Z
 originalUrl: "https://www.bbc.com/news/business-65236848.amp"
 webUrl: "https://www.bbc.com/news/business-65236848.amp"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: BBC

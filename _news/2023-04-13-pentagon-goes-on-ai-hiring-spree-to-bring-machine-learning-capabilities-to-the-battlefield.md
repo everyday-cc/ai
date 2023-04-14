@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T14:15:00Z
 originalUrl: "https://www.foxnews.com/politics/pentagon-ai-hiring-spree-machine-learning-capabilities-battlefield"
 webUrl: "https://www.foxnews.com/politics/pentagon-ai-hiring-spree-machine-learning-capabilities-battlefield"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: Fox News

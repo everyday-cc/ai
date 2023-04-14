@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T22:04:00Z
 originalUrl: "https://www.eweek.com/artificial-intelligence/snowflakes-torsten-grabs-ai-and-democratizing-data/"
 webUrl: "https://www.eweek.com/artificial-intelligence/snowflakes-torsten-grabs-ai-and-democratizing-data/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: eWeek

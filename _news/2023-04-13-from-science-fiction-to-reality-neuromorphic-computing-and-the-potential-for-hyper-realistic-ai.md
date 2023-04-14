@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T12:44:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/13/from-science-fiction-to-reality-neuromorphic-computing-and-the-potential-for-hyper-realistic-ai/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/13/from-science-fiction-to-reality-neuromorphic-computing-and-the-potential-for-hyper-realistic-ai/"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Forbes

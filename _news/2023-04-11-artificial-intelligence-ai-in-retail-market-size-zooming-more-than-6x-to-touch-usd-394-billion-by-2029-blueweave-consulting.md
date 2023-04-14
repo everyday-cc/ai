@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-11T15:22:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/04/g31747589/artificial-intelligence-ai-in-retail-market-size-zooming-more-than-6x-to-touch-usd-39-4-billion-by"
 webUrl: "https://www.benzinga.com/pressreleases/23/04/g31747589/artificial-intelligence-ai-in-retail-market-size-zooming-more-than-6x-to-touch-usd-39-4-billion-by"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: Benzinga.com

@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-12T23:32:00Z
 originalUrl: "https://www.marketwatch.com/press-release/firsteigen-announces-that-the-databuck-essential-data-quality-module-is-now-available-in-azure-market-place-2023-04-12"
 webUrl: "https://www.marketwatch.com/press-release/firsteigen-announces-that-the-databuck-essential-data-quality-module-is-now-available-in-azure-market-place-2023-04-12"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: MarketWatch

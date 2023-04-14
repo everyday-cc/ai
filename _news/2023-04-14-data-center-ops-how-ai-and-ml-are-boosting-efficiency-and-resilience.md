@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T23:00:00Z
 originalUrl: "https://venturebeat.com/data-infrastructure/data-center-ops-how-ai-and-ml-are-boosting-efficiency-and-resilience/"
 webUrl: "https://venturebeat.com/data-infrastructure/data-center-ops-how-ai-and-ml-are-boosting-efficiency-and-resilience/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: VentureBeat

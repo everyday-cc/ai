@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-12T08:59:00Z
 originalUrl: "https://slator.com/stanford-zeroes-in-machine-translation-gender-bias-intento-data-annual-ai-report/"
 webUrl: "https://slator.com/stanford-zeroes-in-machine-translation-gender-bias-intento-data-annual-ai-report/"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: Slator

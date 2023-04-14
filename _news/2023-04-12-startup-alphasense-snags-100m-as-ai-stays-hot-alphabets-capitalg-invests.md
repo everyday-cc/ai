@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-11T18:28:00Z
 originalUrl: "https://news.crunchbase.com/ai-robotics/alphasense-alphabet-capitalg-google/"
 webUrl: "https://news.crunchbase.com/ai-robotics/alphasense-alphabet-capitalg-google/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: news.crunchbase

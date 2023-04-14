@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T14:33:00Z
 originalUrl: "https://www.crn.com/news/cloud/andy-jassy-s-5-boldest-remarks-on-aws-layoffs-chips-and-ai"
 webUrl: "https://www.crn.com/news/cloud/andy-jassy-s-5-boldest-remarks-on-aws-layoffs-chips-and-ai"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: CRN

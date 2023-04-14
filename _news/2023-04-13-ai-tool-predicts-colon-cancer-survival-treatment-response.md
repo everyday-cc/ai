@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T16:16:00Z
 originalUrl: "https://medicalxpress.com/news/2023-04-ai-tool-colon-cancer-survival.html"
 webUrl: "https://medicalxpress.com/news/2023-04-ai-tool-colon-cancer-survival.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Medical Xpress

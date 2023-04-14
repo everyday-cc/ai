@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-12T12:55:00Z
 originalUrl: "https://www.ibm.com/blog/addressing-the-network-data-monetization-complexities/"
 webUrl: "https://www.ibm.com/blog/addressing-the-network-data-monetization-complexities/"
 type: article
+quality: 82
+heat: 82
+published: true
 
 provider:
   name: IBM

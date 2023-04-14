@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-12T01:00:00Z
 originalUrl: "https://www.theguardian.com/news/audio/2023/apr/12/is-artificial-intelligence-getting-out-of-control-podcast"
 webUrl: "https://www.theguardian.com/news/audio/2023/apr/12/is-artificial-intelligence-getting-out-of-control-podcast"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Guardian

@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T17:58:00Z
 originalUrl: "https://www.nextplatform.com/2023/04/13/where-financial-models-meet-large-language-models/"
 webUrl: "https://www.nextplatform.com/2023/04/13/where-financial-models-meet-large-language-models/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Next Platform

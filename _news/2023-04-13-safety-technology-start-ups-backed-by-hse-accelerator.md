@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T15:30:00Z
 originalUrl: "https://www.bimplus.co.uk/safety-technology-start-ups-backed-by-hse/"
 webUrl: "https://www.bimplus.co.uk/safety-technology-start-ups-backed-by-hse/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: bimplus

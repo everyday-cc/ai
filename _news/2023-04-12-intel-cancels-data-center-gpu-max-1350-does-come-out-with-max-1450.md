@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-11T19:37:00Z
 originalUrl: "https://www.techzine.eu/news/infrastructure/104444/intel-cancels-data-center-gpu-max-1350-does-come-out-with-max-1450/"
 webUrl: "https://www.techzine.eu/news/infrastructure/104444/intel-cancels-data-center-gpu-max-1350-does-come-out-with-max-1450/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: techzine

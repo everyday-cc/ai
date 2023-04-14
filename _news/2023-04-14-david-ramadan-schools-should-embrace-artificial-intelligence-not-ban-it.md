@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T18:01:00Z
 originalUrl: "https://omaha.com/opinion/article_cb3810a3-3c69-587d-91a5-03584eee2573.html"
 webUrl: "https://omaha.com/opinion/article_cb3810a3-3c69-587d-91a5-03584eee2573.html"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Omaha.com

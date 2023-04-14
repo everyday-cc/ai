@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T08:31:00Z
 originalUrl: "https://deadline.com/video/cyborg-society-first-clip-doc-advanced-chapgpt-robot-ameca/"
 webUrl: "https://deadline.com/video/cyborg-society-first-clip-doc-advanced-chapgpt-robot-ameca/"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: Deadline.com

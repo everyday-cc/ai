@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-10T13:59:00Z
 originalUrl: "https://www.wsj.com/articles/ai-and-facial-recognition-may-be-able-to-spot-stroke-and-other-diseases-6ac5d965"
 webUrl: "https://www.wsj.com/articles/ai-and-facial-recognition-may-be-able-to-spot-stroke-and-other-diseases-6ac5d965"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: Wall Street Journal

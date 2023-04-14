@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T06:27:00Z
 originalUrl: "https://www.marketwatch.com/press-release/the-speech-and-voice-recognition-technology-market-is-poised-to-experience-huge-growth-to-2023-2023-04-13"
 webUrl: "https://www.marketwatch.com/press-release/the-speech-and-voice-recognition-technology-market-is-poised-to-experience-huge-growth-to-2023-2023-04-13"
 type: article
+quality: 22
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -18,6 +21,40 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Speech and Voice Recognition Market is Booming Worldwide Throughout 2023-2030"
+    excerpt: "The Global Speech and Voice Recognition Market is Forecasted to Reach a Multimillion-Dollar Valuation by 2030, Exhibiting an Unexpected CAGR During the Forecast Period of 2023-2030, as Compared to Data from 2016 to 2022."
+    publishedDateTime: 2023-04-12T07:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-is-booming-worldwide-throughout-2023-2030-2023-04-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023, Artificial Intelligence in Platform as a Service (PaaS) Market is thriving worldwide by 2030"
+    excerpt: "Artificial Intelligence in Platform as a Service (PaaS) Market Size 2023-2030 | New Report (97 Pages) | Analytics |In"
+    publishedDateTime: 2023-04-10T03:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-in-platform-as-a-service-paas-market-is-thriving-worldwide-by-2030-2023-04-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+  - title: "Autonomous / Self-Driving Cars Market Set to Reach $62.4 Million by 2030"
+    excerpt: "The Autonomous / Self-driving Cars Market was valued at USD 20.3 Million in 2021, and it is expected to reach USD 62.4 Million by 2030, registering a CAGR of about 13.3% in terms of revenue during the forecast period (2021-2030)."
+    publishedDateTime: 2023-04-10T20:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-self-driving-cars-market-set-to-reach-624-million-by-2030-2023-04-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
 
 secured: "oduc0TSWfyqrFMcGKZPhLIX68qc3UqgZ4YEOxABKQ6fVHG8QmlTY1bncaAQpNCyzL3DfnDI9m6zWVq+EZkEGdwmA78TPzVqvPCZoTkblcxhYjrX4sh964hqCCdGM+jfOJZNbOjmzbttpMiCEP/i1eks1C3T8llldbeXav3vJAqD87uJMzDBaIXufjjkHRU9odbFwZg4xYnSRNWIxB6W9k/r1ROjDECsmFppJtLO3BSlGoiD7PNylhK2uoPeZQvUkVBGuEqEILNHtIiYDTQTYgDlsCMNSuxvN9nyhUWKERxd5TRwodYlv7jbDRw9Ks22kyhsZnnQx4a/y/0QVRWh3f+LuoX4q6kyv+Z8CEHUAIvY=;FYAppiLlx3g2eInebTHjSA=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-09T13:39:00Z
 originalUrl: "https://futurism.com/the-byte/self-driving-bus-human-operators"
 webUrl: "https://futurism.com/the-byte/self-driving-bus-human-operators"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Futurism

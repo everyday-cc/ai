@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T18:01:00Z
 originalUrl: "https://www.entrepreneur.com/growing-a-business/5-ways-ai-can-transform-your-startups-marketing/448470"
 webUrl: "https://www.entrepreneur.com/growing-a-business/5-ways-ai-can-transform-your-startups-marketing/448470"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: Entrepreneur

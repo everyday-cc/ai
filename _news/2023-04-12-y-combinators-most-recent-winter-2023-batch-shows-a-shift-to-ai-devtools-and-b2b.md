@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-12T12:46:00Z
 originalUrl: "https://news.crunchbase.com/venture/y-combinator-winter-2023-shift-ai-devtools-b2b/"
 webUrl: "https://news.crunchbase.com/venture/y-combinator-winter-2023-shift-ai-devtools-b2b/"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: news.crunchbase

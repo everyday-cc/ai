@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-11T08:03:00Z
 originalUrl: "https://www.technologynetworks.com/applied-sciences/news/deep-learning-reveals-important-determinants-of-river-oxygen-levels-371936"
 webUrl: "https://www.technologynetworks.com/applied-sciences/news/deep-learning-reveals-important-determinants-of-river-oxygen-levels-371936"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: technologynetworks

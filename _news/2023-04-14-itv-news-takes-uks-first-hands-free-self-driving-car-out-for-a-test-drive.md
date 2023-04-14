@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T21:21:00Z
 originalUrl: "https://www.itv.com/news/2023-04-13/itv-news-takes-uks-first-hands-free-self-driving-car-out-for-a-test-drive"
 webUrl: "https://www.itv.com/news/2023-04-13/itv-news-takes-uks-first-hands-free-self-driving-car-out-for-a-test-drive"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: ITV

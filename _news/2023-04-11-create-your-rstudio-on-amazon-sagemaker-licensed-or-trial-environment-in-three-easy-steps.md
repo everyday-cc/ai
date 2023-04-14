@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-11T15:39:53Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/create-your-rstudio-on-amazon-sagemaker-licensed-or-trial-environment-in-three-easy-steps/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/create-your-rstudio-on-amazon-sagemaker-licensed-or-trial-environment-in-three-easy-steps/"
 type: article
+quality: 60
+heat: 70
+published: true
 
 provider:
   name: AWS
@@ -18,6 +21,17 @@ provider:
 topics:
   - AI
   - AWS AI
+
+related:
+  - title: "Secure Amazon SageMaker Studio presigned URLs Part 3: Multi-account private API access to Studio"
+    excerpt: "Enterprise customers have multiple lines of businesses (LOBs) and groups and teams within them. These customers need to balance governance, security, and compliance against the need for machine learning (ML) teams to quickly access their data science environments in a secure manner. These enterprise"
+    publishedDateTime: 2023-04-11T17:07:53Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/secure-amazon-sagemaker-studio-presigned-urls-part-3-multi-account-private-api-access-to-studio/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 56
 
 secured: "MfXcCRpOg8TN86sN+UpSReY1bflPsLUv1h7SCYzSotKxS8AYl5V1YkqmpwwzqgTKAhRRLvxnLMrYxTnRQriPqNT9wO1LVQmLGfsKhi7Py2pbv+RCfYolACXgKGTPhQnVLoMp+fZDao424x4/dtmlMrzfzlLxO9tlAtULEmg9+Wh1xqzLyQtywnfGfw+9Ueno16LLsFCw64LBnqwALOVO1POPKd++Xx+U1KPC0On/5sYHXBxJ01PYdAhmmiqyP73/k/usQa19qNCjjtVEGOJptzS33SZHuWRa0cIXdNJCWlMKz9rqC6DnT9FxArYVOzcvF0UqViRhhDiUrbNg/8mXHvxqG3QK7Iyjj4+Cxis2bYc=;E0OH8FXYh6oppGgwlmXN4g=="
 ---

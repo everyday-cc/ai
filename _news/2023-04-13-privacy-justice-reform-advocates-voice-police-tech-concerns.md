@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-12T20:32:00Z
 originalUrl: "https://www.govtech.com/public-safety/privacy-justice-reform-advocates-voice-police-tech-concerns"
 webUrl: "https://www.govtech.com/public-safety/privacy-justice-reform-advocates-voice-police-tech-concerns"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Government Technology

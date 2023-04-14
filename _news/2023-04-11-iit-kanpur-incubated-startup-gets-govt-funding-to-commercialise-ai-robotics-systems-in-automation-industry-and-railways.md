@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-11T11:24:00Z
 originalUrl: "https://swarajyamag.com/tech/iit-kanpur-incubated-startup-gets-govt-funding-to-commercialise-ai-robotics-systems-in-automation-industry-and-railways"
 webUrl: "https://swarajyamag.com/tech/iit-kanpur-incubated-startup-gets-govt-funding-to-commercialise-ai-robotics-systems-in-automation-industry-and-railways"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: Swarajya

@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T13:30:00Z
 originalUrl: "https://mhealthintelligence.com/news/new-app-aims-to-improve-recognition-treatment-of-child-abuse"
 webUrl: "https://mhealthintelligence.com/news/new-app-aims-to-improve-recognition-treatment-of-child-abuse"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: mhealthintelligence.com

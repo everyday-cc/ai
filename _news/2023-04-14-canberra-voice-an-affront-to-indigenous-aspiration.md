@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T23:30:00Z
 originalUrl: "https://www.theaustralian.com.au/commentary/canberra-voice-an-affront-to-indigenous-aspiration/news-story/65c2da0d17673272f79e66dd2c4fbb7c"
 webUrl: "https://www.theaustralian.com.au/commentary/canberra-voice-an-affront-to-indigenous-aspiration/news-story/65c2da0d17673272f79e66dd2c4fbb7c"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Australian

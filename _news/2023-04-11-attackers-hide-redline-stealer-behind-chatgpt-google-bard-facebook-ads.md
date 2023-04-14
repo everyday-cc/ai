@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-11T15:04:00Z
 originalUrl: "https://www.darkreading.com/attacks-breaches/attackers-hide-redline-stealer-behind-chatgpt-google-bard-facebook-ads"
 webUrl: "https://www.darkreading.com/attacks-breaches/attackers-hide-redline-stealer-behind-chatgpt-google-bard-facebook-ads"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Dark Reading

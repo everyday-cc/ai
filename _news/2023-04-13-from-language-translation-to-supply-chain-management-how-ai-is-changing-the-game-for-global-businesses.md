@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-12T21:50:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/04/ab31779130/from-language-translation-to-supply-chain-management-how-ai-is-changing-the-game-for-global-busin"
 webUrl: "https://www.benzinga.com/pressreleases/23/04/ab31779130/from-language-translation-to-supply-chain-management-how-ai-is-changing-the-game-for-global-busin"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Benzinga.com

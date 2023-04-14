@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-10T14:51:00Z
 originalUrl: "https://www.defenseone.com/ideas/2023/04/china-gears-cognitive-warfare/384876/"
 webUrl: "https://www.defenseone.com/ideas/2023/04/china-gears-cognitive-warfare/384876/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Defense One

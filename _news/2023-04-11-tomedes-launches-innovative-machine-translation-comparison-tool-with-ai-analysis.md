@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-11T12:50:00Z
 originalUrl: "https://slator.com/tomedes-launches-innovative-machine-translation-comparison-tool-ai-analysis/"
 webUrl: "https://slator.com/tomedes-launches-innovative-machine-translation-comparison-tool-ai-analysis/"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: Slator

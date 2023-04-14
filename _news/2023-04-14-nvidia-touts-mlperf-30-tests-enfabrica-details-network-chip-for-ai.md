@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T18:45:00Z
 originalUrl: "https://www.networkworld.com/article/3692825/nvidia-touts-mlperf-30-tests-enfabrica-details-network-chip-for-ai.html"
 webUrl: "https://www.networkworld.com/article/3692825/nvidia-touts-mlperf-30-tests-enfabrica-details-network-chip-for-ai.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Network World

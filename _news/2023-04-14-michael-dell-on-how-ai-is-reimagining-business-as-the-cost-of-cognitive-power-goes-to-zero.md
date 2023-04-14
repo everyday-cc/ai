@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T21:24:00Z
 originalUrl: "https://www.crn.com/news/channel-news/michael-dell-on-ai-and-reimagining-business-as-the-cost-of-cognitive-power-goes-to-zero-"
 webUrl: "https://www.crn.com/news/channel-news/michael-dell-on-ai-and-reimagining-business-as-the-cost-of-cognitive-power-goes-to-zero-"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: CRN

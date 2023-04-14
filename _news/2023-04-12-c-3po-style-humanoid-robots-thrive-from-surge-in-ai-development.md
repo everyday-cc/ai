@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-12T12:00:00Z
 originalUrl: "https://www.technewsworld.com/story/c-3po-style-humanoid-robots-thrive-from-surge-in-ai-development-178153.html"
 webUrl: "https://www.technewsworld.com/story/c-3po-style-humanoid-robots-thrive-from-surge-in-ai-development-178153.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: TechNewsWorld

@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-10T06:04:00Z
 originalUrl: "https://countercurrents.org/2023/04/germanys-ethics-council-on-artificial-intelligence/"
 webUrl: "https://countercurrents.org/2023/04/germanys-ethics-council-on-artificial-intelligence/"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Countercurrents

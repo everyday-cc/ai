@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-11T13:00:00Z
 originalUrl: "https://blog.google/inside-google/googlers/ask-a-techspert/what-is-generative-ai/"
 webUrl: "https://blog.google/inside-google/googlers/ask-a-techspert/what-is-generative-ai/"
 type: article
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: Google

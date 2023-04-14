@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-12T08:00:23Z
 originalUrl: "https://azure.microsoft.com/blog/announcing-project-health-insights-preview-advancing-ai-for-health-data/"
 webUrl: "https://azure.microsoft.com/blog/announcing-project-health-insights-preview-advancing-ai-for-health-data/"
 type: article
+quality: 68
+heat: 68
+published: false
 
 provider:
   name: Microsoft

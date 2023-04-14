@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-12T16:18:39Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/secure-your-amazon-kendra-indexes-with-the-acl-using-a-jwt-shared-secret-key/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/secure-your-amazon-kendra-indexes-with-the-acl-using-a-jwt-shared-secret-key/"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: AWS

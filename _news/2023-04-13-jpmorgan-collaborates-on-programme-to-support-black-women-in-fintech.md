@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T09:25:00Z
 originalUrl: "https://www.fstech.co.uk/fst/JPMorgan_Collaborates_On_Programme_To_Support_Black_Women_In_FinTech.php"
 webUrl: "https://www.fstech.co.uk/fst/JPMorgan_Collaborates_On_Programme_To_Support_Black_Women_In_FinTech.php"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: fstech

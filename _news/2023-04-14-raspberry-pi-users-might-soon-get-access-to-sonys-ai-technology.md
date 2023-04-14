@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T17:00:00Z
 originalUrl: "https://www.popsci.com/technology/raspberry-pi-ai-chip-sony/"
 webUrl: "https://www.popsci.com/technology/raspberry-pi-ai-chip-sony/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Popular Science

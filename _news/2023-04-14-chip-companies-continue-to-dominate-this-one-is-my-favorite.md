@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-13T20:32:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/chip-companies-continue-to-dominate-1032231307"
 webUrl: "https://markets.businessinsider.com/news/stocks/chip-companies-continue-to-dominate-1032231307"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Business Insider

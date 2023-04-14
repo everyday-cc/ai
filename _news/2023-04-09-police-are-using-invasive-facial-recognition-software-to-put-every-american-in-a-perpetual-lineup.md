@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-09T15:08:00Z
 originalUrl: "https://www.foxnews.com/tech/police-using-invasive-facial-recognition-software-put-every-american-in-perpetual-lineup"
 webUrl: "https://www.foxnews.com/tech/police-using-invasive-facial-recognition-software-put-every-american-in-perpetual-lineup"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Fox News
