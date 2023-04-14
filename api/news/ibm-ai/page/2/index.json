@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-11-ai-is-already-an-ingredient-in-many-kitchens.md",
+      "title": "AI is already an ingredient in many kitchens",
+      "excerpt": "Whether we like it or not, artificial intelligence is the buzzword of the moment and could even be leading to a new digital revolution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.astroawani.com/berita-dunia/ai-already-ingredient-many-kitchens-409716",
+      "originalUrl": "https://www.astroawani.com/berita-dunia/ai-already-ingredient-many-kitchens-409716",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.astroawani.com/2023-03/81678193523_Robot.jpg",
+          "width": 590,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.astroawani.com/berita-dunia/ai-already-ingredient-many-kitchens-409716?amp=1",
+      "cdnAmpWebUrl": "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/ai-already-ingredient-many-kitchens-409716?amp=1",
+      "publishedDateTime": "2023-03-10T16:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Astro Awani",
+        "domain": "astroawani.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-11-sd-times-news-digest-ibm-to-add-new-ai-capabilities-to-watson-threat-stack-supports-ruby-and-gitlabs-remote-work-report.md",
       "title": "SD Times news digest: IBM to add new AI capabilities to Watson, Threat Stack supports Ruby, and GitLab’s Remote Work Report",
       "excerpt": "IBM announced several new IBM Watson technologies designed to help organizations ... capabilities to come from IBM Research’s Project Debater, an AI system capable of debating humans on complex ...",
@@ -1314,59 +1357,6 @@
       "ampWebUrl": "https://www.marketwatch.com/amp/story/ibm-posts-biggest-annual-sales-increase-in-more-than-a-decade-announces-layoffs-11674682960",
       "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ibm-posts-biggest-annual-sales-increase-in-more-than-a-decade-announces-layoffs-11674682960",
       "publishedDateTime": "2023-01-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-ai-medicine-software-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029.md",
-      "title": "AI Medicine Software Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2029",
-      "excerpt": "In 2023, Current AI Medicine Software Market Size | 2029 | Newest [102] Pages Report AI Medicine Software Market",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-medicine-software-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2023-01-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-medicine-software-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2023-01-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-24T17:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",

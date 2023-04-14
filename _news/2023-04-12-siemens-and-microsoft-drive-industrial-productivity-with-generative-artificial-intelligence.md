@@ -1,22 +1,32 @@
 ---
 category: news
 title: "Siemens and Microsoft drive industrial productivity with generative artificial intelligence"
-excerpt: "Siemens' new Teamcenter app for Microsoft Teams to use AI, boosting productivity and innovation throughout a product lifecycleAzure OpenAI Service powered assistant can augment the creation, optimizat"
+excerpt: "Siemens and Microsoft drive industrial productivity with generative artificial intelligence Apr 12, 2023 (PRNewswire via COMTEX) -- PR Newswire"
 publishedDateTime: 2023-04-12T10:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/04/n31763481/siemens-and-microsoft-drive-industrial-productivity-with-generative-artificial-intelligence"
-webUrl: "https://www.benzinga.com/pressreleases/23/04/n31763481/siemens-and-microsoft-drive-industrial-productivity-with-generative-artificial-intelligence"
+originalUrl: "https://www.marketwatch.com/press-release/siemens-and-microsoft-drive-industrial-productivity-with-generative-artificial-intelligence-2023-04-12"
+webUrl: "https://www.marketwatch.com/press-release/siemens-and-microsoft-drive-industrial-productivity-with-generative-artificial-intelligence-2023-04-12"
 type: article
-quality: 24
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Boost your data and AI skills with Microsoft Azure CLX"
@@ -158,6 +168,6 @@ related:
       domain: thebftonline.com
     quality: 19
 
-secured: "r7ML3ghnc88IJ92Gla1OCYm+EGTu3s4rZaPz2RvPh8+wIinEBfWIVXeheLUv0LG6zhl8zTfSThAoZBnlN6enWgjPptJgZO76RziWl7wiRccjOFQCsGIiGR/RAI1wXO0+uSOEdfq12w4zyKW+fsSQH9PZzxKl0S/tuLnh8NdR0cOW8AI+2YBlSOGaSnDZC3WvbAEVi4O1T11q34nARgIVRqduIWATmHxJ+5XVz+YO1BcM5yWK2Y4B+fxJYhCnw+SfAFmKvQ/w/2kLgZ8q3HuVSatbIXfdp4v+RYVJaVGGaeU9t9EYNZEG4dGK4FS7TaYAsKcz8wYNDACSXi4FV8QS84v1crwE212nQtN+kDwOSpXtfAE5xyTWZbF1pE4CwQrLtTKtlZGtintTeVjEfcw5N2m3MXnVpOuYtTC9TWcU5Ky33Uf4xaJWy9mk+MzrI20iK+w0DxRHs169/E7o9Y5CkdDWTxUT/dWi2f0S28qzsx1qk2rs+05AN336hlMK5L3s/gYkctLIkVPJM0HXAHOvgw==;iBQzIUssQ5s3jG4kY7AQKg=="
+secured: "wNcgCPZcccDu6H1l7GtKdlRspJHDtjth1zQq1LfZ57nMupsYneCKU+qqof9Hi3kgcb0XoKIjWL/KmSU5duMGNXzNLTMV+oCv5vXLxr8/DFetSw2hsN/ABg+2wXlIYqQDSayhxzN0yMa7scey7jaOssMWwgKUaO5CvylOeGNRZXpcoZHmXiV7VuTSDPd3qhWG20N+Z63ZrqRl/tUapfmHipnRoPpN7ehc14DT/vigE+HE+mXYIzLKsqXVS2NGWDiRhRwiEKm6zamt9R+I3ac9A6rmpFYbppWs2eOl3n1eYMZYyBuPJzLU3kpC+PIe6goy96JTPy5mMB2e29XOmZLSDN95FJr91XbKUxbPriVEL2Q=;nH/kH44X9QduNHD1J4mDVg=="
 ---
 

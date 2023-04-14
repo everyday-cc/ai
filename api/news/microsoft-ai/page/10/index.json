@@ -2,49 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2023-01-17-microsoft-announces-general-availability-of-azure-openai-service.md",
-      "title": "Microsoft announces general availability of Azure OpenAI Service",
-      "excerpt": "As part of its partnership with ChatGPT developer OpenAI, Microsoft has released its Azure OpenAI Service, allowing for AI innovation",
-      "sourceUrl": null,
-      "webUrl": "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/",
-      "originalUrl": "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-announces-general-availability-of-azure-openai-service.jpg",
-          "width": 788,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T03:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-17-whats-new-in-azure-data-ai-empowering-retailers-to-streamline-operations-and-accelerate-time-to-value.md",
       "title": "What's new in Azure Data & AI: Empowering retailers to streamline operations and accelerate time to value",
       "excerpt": "Let’s explore what’s new for Azure Data & AI this month.",
@@ -1341,6 +1298,50 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-artificial-intelligence-in-fintech-market-is-expected-to-exhibit-a-massive-cagr-of-22-by-2030-microsoft-google-salesforce.md",
+      "title": "Artificial Intelligence in Fintech Market is expected to Exhibit a Massive CAGR of 22% by 2030 | Microsoft, Google, Salesforce",
+      "excerpt": "Artificial Intelligence (AI) is a rapidly growing technology that is transforming the financial services industry, often referred to as Fintech. AI is used to automate and improve many of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-fintech-market-is-expected-to-exhibit-a-massive-cagr-of-22-by-2030-microsoft-google-salesforce",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-fintech-market-is-expected-to-exhibit-a-massive-cagr-of-22-by-2030-microsoft-google-salesforce",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.market-news.org/wp-content/uploads/2023/01/Artificial-Intelligence-in-Fintech.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T23:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

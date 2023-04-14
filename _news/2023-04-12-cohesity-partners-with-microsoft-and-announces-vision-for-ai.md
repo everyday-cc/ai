@@ -47,6 +47,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Siemens and Microsoft drive industrial productivity with generative artificial intelligence"
+    excerpt: "Siemens and Microsoft drive industrial productivity with generative artificial intelligence Apr 12, 2023 (PRNewswire via COMTEX) -- PR Newswire"
+    publishedDateTime: 2023-04-12T10:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/siemens-and-microsoft-drive-industrial-productivity-with-generative-artificial-intelligence-2023-04-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How 5G and wireless edge infrastructure power digital operations with Microsoft"
     excerpt: "As enterprises continue to adopt the Internet of Things (IoT) solutions and AI to analyze processes and data from their equipment, the need for high-speed, low-latency wireless connections are rapidly growing. Companies are already seeing benefits from deploying private 5G networks to enable their solutions,"
     publishedDateTime: 2023-04-13T10:00:14Z
@@ -144,15 +158,6 @@ related:
       name: Deep
       domain: thefastmode.com
     quality: 34
-  - title: "Siemens and Microsoft drive industrial productivity with generative artificial intelligence"
-    excerpt: "Siemens' new Teamcenter app for Microsoft Teams to use AI, boosting productivity and innovation throughout a product lifecycleAzure OpenAI Service powered assistant can augment the creation, optimizat"
-    publishedDateTime: 2023-04-12T10:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/04/n31763481/siemens-and-microsoft-drive-industrial-productivity-with-generative-artificial-intelligence"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
   - title: "In this age of Artificial Intelligence, soft skills will sell"
     excerpt: "As we stand on the cusp of the Fourth Industrial Revolution, the impact of artificial intelligence (AI) is palpable in every facet of our lives. From self-driving cars to virtual assistants, AI is transforming industries and reshaping the way we work."
     publishedDateTime: 2023-04-12T12:40:00Z

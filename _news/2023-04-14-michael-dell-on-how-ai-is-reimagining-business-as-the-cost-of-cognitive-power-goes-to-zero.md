@@ -6,8 +6,8 @@ publishedDateTime: 2023-04-13T21:24:00Z
 originalUrl: "https://www.crn.com/news/channel-news/michael-dell-on-ai-and-reimagining-business-as-the-cost-of-cognitive-power-goes-to-zero-"
 webUrl: "https://www.crn.com/news/channel-news/michael-dell-on-ai-and-reimagining-business-as-the-cost-of-cognitive-power-goes-to-zero-"
 type: article
-quality: 8
-heat: 8
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -17,7 +17,14 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
-secured: "xR/XR/TyJRxIJwKn+YZcPPlTBd1DluYkg+88P2KRGuD/O8xQ9/YYfbmtdjaw+hIOsU5Mlf0MszIqQsdk40QQ5O4HJEA2kokYKbO5oj/PW1wzWK/pXEdIefVUNrmplZQ+BQNABzWtneRVrEf30EONeeAUXUSWKJpXS4JiBGWG4rUxkEJ7A6W8rnDlFeWlyL5CdT6DRCcdAx8wqUTWnJuX1VqUjetV9LHygjIz0jGeQAkMFPjMpTBlNeaHCDY9kaNrT+8dBrzjCLISCjiplWgyfb7U0a4lTJDX566smzEjIMjikIIvcuXQJP1hpQvuroDaP5PcSnpHL+Wjezez1SLN+lfpfj0vzhX4Mfk346KzaCtgCV9uil5VqD7LxXGj8vbBI1XxbANR/dEYZekyrzaCBudCC+/fVMpW80GSlSdfsPHTLvvynHq8vMFNf/LVpQtF7G6HA+bAXR6wcUNtyOnYVlUKcTzME2GieOB/dVjesPrh21+juAnk7qn7qReNpn0jxGfYG+QJ4VeBVQe69TBEdw==;YvZ/F8sHTbMhsOePDxC84g=="
+images:
+  - url: "https://www.crn.com/resources/0280-17c50b4bdbf4-e3e9520a88f3-1000/delltech1.jpeg"
+    width: 610
+    height: 458
+    isCached: true
+
+secured: "oIRNLl3Av9hRzAj+YsnT8KhW+YTfcIucCsb9G0gkvUE/jJNMNnL7AgqArp5gNTWmWUbR/86OMiSktIBliHnt7Ie+pkOz7aKVIwZ2QBUzgjkyEnQSXTgSQOseVYocuiIK5hXVstVUbDi1Lg30lELPQmcSAnrllk4GN/ol1zZWUNjGvqaysIn2La7kAO6PKWUYjmPsnzROteqBr9hyQmLoSkzOqoJFim1UxIdhcvZCEm9Tk/NDPMMMsehzywwbBrNw9ki8auN2AK/2igvdhCu0v6BVL9FHyT1wKwCtNZ2Lhivw+tkjxP/ptsTYnjZaaZSwunRSvX5u71dXgo6OA5qxhcIchv4QiL6+ELSUcdNqVoY=;W+4JHPM+gfhO5gpXcEVEWg=="
 ---
 

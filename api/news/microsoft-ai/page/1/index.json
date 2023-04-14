@@ -10,7 +10,7 @@
       "originalUrl": "https://www.nbcnews.com/tech/tech-news/amazon-jumps-generative-race-new-cloud-service-rcna79599",
       "featuredContent": null,
       "highlight": null,
-      "heat": 251,
+      "heat": 283,
       "tags": null,
       "images": [
         {
@@ -41,7 +41,8 @@
       ],
       "topics": [
         "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "AWS AI"
       ]
     },
     {
@@ -86,49 +87,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-the-future-of-healthcare-is-data-driven.md",
-      "title": "The future of healthcare is data-driven",
-      "excerpt": "As analytics tools and machine learning capabilities mature, healthcare innovators are speeding up the development of enhanced treatments supported by Azure’s GPU-accelerated AI infrastructure powered by NVIDIA.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/the-future-of-healthcare-is-datadriven/",
-      "originalUrl": "https://azure.microsoft.com/blog/the-future-of-healthcare-is-datadriven/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI in Healthcare"
       ]
     },
     {
@@ -289,8 +247,8 @@
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?189758",
-          "width": 374,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?804085",
+          "width": 392,
           "height": 250,
           "title": null,
           "attribution": null,
@@ -1365,6 +1323,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-7-signs-youre-experiencing-cognitive-dissonance.md",
+      "title": "7 Signs You’re Experiencing Cognitive Dissonance",
+      "excerpt": "MOST OF US have experienced conflicting beliefs at one time or another. For instance, you know that drinking too much alcohol is bad for your health, but you pour yourself a second glass of wine ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.menshealth.com/health/a43373873/7-signs-youre-experiencing-cognitive-dissonance/",
+      "originalUrl": "https://www.menshealth.com/health/a43373873/7-signs-youre-experiencing-cognitive-dissonance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-23T12:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Men's Health",
+        "domain": "menshealth.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,9 +2,9 @@
 category: news
 title: "3 Companies Leading the Charge to the Driverless Car Future"
 excerpt: "Driverless cars, also known as autonomous vehicles, are quickly becoming a reality. With advancements in artificial intelligence and sensor technology, these cars are able to navigate roads and ..."
-publishedDateTime: 2023-03-29T18:50:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/indices/TTUT/pressreleases/15522899/3-companies-leading-the-charge-to-the-driverless-car-future/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/indices/TTUT/pressreleases/15522899/3-companies-leading-the-charge-to-the-driverless-car-future/"
+publishedDateTime: 2023-03-29T18:45:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/indices/DOWI/pressreleases/15522899/3-companies-leading-the-charge-to-the-driverless-car-future/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/indices/DOWI/pressreleases/15522899/3-companies-leading-the-charge-to-the-driverless-car-future/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 1065
     isCached: true
 
-secured: "VGlm3weZvc+rhzM7uc6JsJepLh77FmzXiBeAj3ubpM5BbTJQpeEYDMifg2q8D97OM7rywoKNpa7gF7Rk5pYcnqNJupIQU6LmDmogqFXGF0RvK/1w9AXedCkOLXtTqP5y4jbreAfY3vwiwq46x37VUGzhusTJPecBvbkj23xu8spGVe7hSO2fEO9lrKJwDq8YrJOVnYMQwGGjt9Nq4bZvTyLYX4WBwISkokgcHqTvehEMB5mRN9RO4lLKezSzUKks6dL59rPPRKe+YWfud2YUdOjCPQFBHT0MiNOR5M+TA2c9Q5L3Nyk9mA9SHaFFDxa0QV13xP/t5X3ZraB3oxaOMqvliM4jk7thisIHzPb7wc4=;oVt0MtU8vz+RVqHeWTtVkg=="
+secured: "E0LBuNiVKJVU/Jv7kHjb4QRr56a9l6KA6V+cU6UDW6aMA+Qi1m8iDYnPboPnixMFaENElaW3mUynHIzImb9aLM/p0G+m8q1Ugkkd1+wv4FfyUn9iq2h3dRQCo73ny0zSP3/POaykImuiC1ntXKTopKxe4np+gRg+bRVE2ylONVgPeFb22yq2iiwHgax2hTVpHULMM5/H2wgSj5+czj6WBmia1fJzvaArQthVgiEco9R+4snaIFWSXF5gAqsMLTQNjurobzUnU7oBPsMEGq5VIKNn2kmEk7SabdG6hwC5Q8Zqs9rqrHIPJyNXcZfqXZWJParKGGWIlwbp/tF4ruZQuE/mI+6WvGVRwjUMhGMVaeY=;jv28sWq+jCHQcllCxWxw+Q=="
 ---
 

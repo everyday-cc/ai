@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-14-revolutionizing-the-consumer-goods-industry-with-integrated-business-planning.md",
+      "title": "Revolutionizing the consumer goods industry with integrated business planning",
+      "excerpt": "Learn how Al Rabie Saudi Foods Co. Ltd adopted an integrated business planning analytics approach to streamline their planning and budgeting processes.\nThe post Revolutionizing the consumer goods industry with integrated business planning appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/revolutionizing-the-consumer-goods-industry-with-integrated-business-planning/",
+      "originalUrl": "https://www.ibm.com/blog/revolutionizing-the-consumer-goods-industry-with-integrated-business-planning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/7854f0c7-0b57-4568-954bdb02aaf9e223.l.jpg",
+          "width": 1312,
+          "height": 656,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-13-5-takeaways-from-the-early-days-of-ibm-partner-plus.md",
       "title": "5 takeaways from the early days of IBM Partner Plus",
       "excerpt": "The past three months have been transformative for the IBM Ecosystem. Our investment in the ecosystem is deeper than ever before, and momentum is accelerating across all partner types as they continue to scale and innovate. This demonstrates their commitment to clients, deep expertise and hunger to collaborate",
@@ -94,7 +145,7 @@
       "originalUrl": "https://www.ibm.com/blog/top-3-considerations-for-adopting-rise-with-sap-to-modernize-your-operations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1215,49 +1266,6 @@
       "provider": {
         "name": "Politico Europe",
         "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-11-ai-is-already-an-ingredient-in-many-kitchens.md",
-      "title": "AI is already an ingredient in many kitchens",
-      "excerpt": "Whether we like it or not, artificial intelligence is the buzzword of the moment and could even be leading to a new digital revolution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.astroawani.com/berita-dunia/ai-already-ingredient-many-kitchens-409716",
-      "originalUrl": "https://www.astroawani.com/berita-dunia/ai-already-ingredient-many-kitchens-409716",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.astroawani.com/2023-03/81678193523_Robot.jpg",
-          "width": 590,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.astroawani.com/berita-dunia/ai-already-ingredient-many-kitchens-409716?amp=1",
-      "cdnAmpWebUrl": "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/ai-already-ingredient-many-kitchens-409716?amp=1",
-      "publishedDateTime": "2023-03-10T16:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Astro Awani",
-        "domain": "astroawani.com",
         "images": null,
         "publishers": null,
         "authors": null

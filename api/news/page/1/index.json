@@ -2,6 +2,160 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-14-revolutionizing-the-consumer-goods-industry-with-integrated-business-planning.md",
+      "title": "Revolutionizing the consumer goods industry with integrated business planning",
+      "excerpt": "Learn how Al Rabie Saudi Foods Co. Ltd adopted an integrated business planning analytics approach to streamline their planning and budgeting processes.\nThe post Revolutionizing the consumer goods industry with integrated business planning appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/revolutionizing-the-consumer-goods-industry-with-integrated-business-planning/",
+      "originalUrl": "https://www.ibm.com/blog/revolutionizing-the-consumer-goods-industry-with-integrated-business-planning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/7854f0c7-0b57-4568-954bdb02aaf9e223.l.jpg",
+          "width": 1312,
+          "height": 656,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-the-good-and-bad-side-of-ai-and-how-you-can-leverage-it.md",
+      "title": "The Good And Bad Side Of AI And How You Can Leverage It",
+      "excerpt": "Successful marketers will need to decide how much of their process to automate, understand the limitations of the technology and weigh the pros and cons of each use of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/the-good-and-bad-side-of-ai-and-how-you-can-leverage-it/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/the-good-and-bad-side-of-ai-and-how-you-can-leverage-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64380954a22b21b4428508e3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/the-good-and-bad-side-of-ai-and-how-you-can-leverage-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/the-good-and-bad-side-of-ai-and-how-you-can-leverage-it/amp/",
+      "publishedDateTime": "2023-04-14T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-how-to-make-sure-no-one-is-left-behind-in-the-era-of-ai-in-healthcare.md",
+      "title": "How To Make Sure No One Is Left Behind In The Era Of AI In Healthcare",
+      "excerpt": "For the technological advancements being made in healthcare to reach all corners of the Earth, we need to start further upstream.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/14/how-to-make-sure-no-one-is-left-behind-in-the-era-of-ai-in-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/14/how-to-make-sure-no-one-is-left-behind-in-the-era-of-ai-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/638a17a0cd5ae4003ae2e8db/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/14/how-to-make-sure-no-one-is-left-behind-in-the-era-of-ai-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/14/how-to-make-sure-no-one-is-left-behind-in-the-era-of-ai-in-healthcare/amp/",
+      "publishedDateTime": "2023-04-14T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-14-chatgpt-cheat-sheet-complete-guide-for-2023.md",
       "title": "ChatGPT cheat sheet: Complete guide for 2023",
       "excerpt": "Learn everything from how to sign up for free to enterprise use cases, and start using ChatGPT quickly and effectively.",
@@ -105,7 +259,7 @@
       "originalUrl": "https://venturebeat.com/ai/mind-your-language-risks-using-ai-powered-chatbots-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 198,
+      "heat": 228,
       "tags": null,
       "images": [
         {
@@ -156,7 +310,7 @@
       "originalUrl": "https://www.nbcnews.com/tech/tech-news/amazon-jumps-generative-race-new-cloud-service-rcna79599",
       "featuredContent": null,
       "highlight": null,
-      "heat": 251,
+      "heat": 283,
       "tags": null,
       "images": [
         {
@@ -187,7 +341,8 @@
       ],
       "topics": [
         "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "AWS AI"
       ]
     },
     {
@@ -635,7 +790,7 @@
       "originalUrl": "https://www.ibm.com/blog/top-3-considerations-for-adopting-rise-with-sap-to-modernize-your-operations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -901,49 +1056,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-12-the-future-of-healthcare-is-data-driven.md",
-      "title": "The future of healthcare is data-driven",
-      "excerpt": "As analytics tools and machine learning capabilities mature, healthcare innovators are speeding up the development of enhanced treatments supported by Azure’s GPU-accelerated AI infrastructure powered by NVIDIA.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/the-future-of-healthcare-is-datadriven/",
-      "originalUrl": "https://azure.microsoft.com/blog/the-future-of-healthcare-is-datadriven/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-04-12-speech-and-voice-recognition-market-is-booming-worldwide-throughout-2023-2030.md",
       "title": "Speech and Voice Recognition Market is Booming Worldwide Throughout 2023-2030",
       "excerpt": "The Global Speech and Voice Recognition Market is Forecasted to Reach a Multimillion-Dollar Valuation by 2030, Exhibiting an Unexpected CAGR During the Forecast Period of 2023-2030, as Compared to Data from 2016 to 2022.",
@@ -1080,92 +1192,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-create-your-rstudio-on-amazon-sagemaker-licensed-or-trial-environment-in-three-easy-steps.md",
-      "title": "Create your RStudio on Amazon SageMaker licensed or trial environment in three easy steps",
-      "excerpt": "RStudio on Amazon SageMaker is the first fully managed cloud-based Posit Workbench (formerly known as RStudio Workbench). RStudio on Amazon SageMaker removes the need for you to manage the underlying Posit Workbench infrastructure, so your teams can concentrate on producing value for your business. You",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-your-rstudio-on-amazon-sagemaker-licensed-or-trial-environment-in-three-easy-steps/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-your-rstudio-on-amazon-sagemaker-licensed-or-trial-environment-in-three-easy-steps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T08:39:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-cadence-ceo-drives-growth-beyond-chip-design-with-ai-and-computational-software.md",
-      "title": "Cadence CEO Drives Growth Beyond Chip Design With AI And Computational Software",
-      "excerpt": "Dr. Devgan and his company have a vision of bringing the power of simulation, modeling and computational software to far more than just semiconductor chip design.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/04/11/cadence-ceo-drives-growth-beyond-chip-design-with-ai-and-computational-software/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/04/11/cadence-ceo-drives-growth-beyond-chip-design-with-ai-and-computational-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

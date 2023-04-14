@@ -24,24 +24,24 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "The future of healthcare is data-driven"
-    excerpt: "As analytics tools and machine learning capabilities mature, healthcare innovators are speeding up the development of enhanced treatments supported by Azure’s GPU-accelerated AI infrastructure powered by NVIDIA."
-    publishedDateTime: 2023-04-12T09:00:00Z
-    webUrl: "https://azure.microsoft.com/blog/the-future-of-healthcare-is-datadriven/"
+  - title: "Duke Health Announces AI-Driven Healthcare Transformation Collab"
+    excerpt: "Duke Health and SAS aim to develop cloud-based and artificial intelligence-powered healthcare solutions under a new collaboration."
+    publishedDateTime: 2023-04-13T13:36:00Z
+    webUrl: "https://healthitanalytics.com/news/duke-health-announces-ai-driven-healthcare-transformation-collab"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
-  - title: "The Future Of Artificial Intelligence"
-    excerpt: "The future of artificial intelligence appears bright with continued advancements in technology. Investment in artificial intelligence reached $93.5 billion in 2021, according to Statista. The current trend for neural networks to grow larger will likely continue into the near future as more functionality is required."
-    publishedDateTime: 2023-04-10T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/10/the-future-of-artificial-intelligence/"
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 34
+  - title: "Navigating AI Malpractice in Healthcare: Balancing Revolutionary Benefits and Growing Concerns"
+    excerpt: "AI malpractice in healthcare raises concerns amid innovations, highlighting the need to address challenges and ensure patient safety"
+    publishedDateTime: 2023-04-13T21:27:00Z
+    webUrl: "https://marketscale.com/industries/software-and-technology/navigating-ai-malpractice-in-healthcare-balancing-revolutionary-benefits-and-growing-concerns/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 51
+      name: marketscale
+      domain: marketscale.com
+    quality: 22
 
 secured: "RwF1m4zbEEpicPS47eEu8z0+zPrjMVIO5P6fcG4+i0f2iHsDABEkpchj8vpE7p83vc887xygzvY4wkL7QIgQJZfT4RO83xoZ560FTtqV9P6fqtEuvZCZA3b0tVQP7YQ4dTh7ZDUO3TFwO/9b5BporYvwWO6jZDaEHaKfq0TZmLjxlFNbSr5a7+jk6EChJSYsZhBWzb827AjeiQnrcQnV5TQt6lU2MU3PkgUR9H+jPIrK+tPfmk93xvxA8Hwhe1938u1W8g5/U2SpddHKTFGJ8K3kDk1+SiaQvX1mrQWWdpvIdFVXK1o6cp9Dghc5rmS7c1y64rmvVbYBkyhqha1fMZFDzDoDpF2OBxbhXqUdvBpNcmBAOAdhA85cK3TreE2yhlrWlyJYpgO9WDf6NDomsNbdoLs3Tlb9QLAYuZDANF47zu8OGtlyKQX98m6sJJP4PdDltuK9j2IFF+t+GRz27caFD+t3f/+/Ax6p/r4hLeLsdYVzB52sb9t9fdaihc350oH9oDvOsESJG7UivDtaCw==;N3QqmmFNHyHmPCqmMoFBHA=="
 ---

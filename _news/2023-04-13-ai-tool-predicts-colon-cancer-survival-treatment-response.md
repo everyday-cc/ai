@@ -7,7 +7,7 @@ originalUrl: "https://medicalxpress.com/news/2023-04-ai-tool-colon-cancer-surviv
 webUrl: "https://medicalxpress.com/news/2023-04-ai-tool-colon-cancer-survival.html"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "New AI tool accurately predicts aggressiveness of colorectal cancer"
+    excerpt: "A new artificial intelligence model designed by researchers at Harvard Medical School and National Cheng Kung University in Taiwan could bring much-needed clarity to doctors delivering prognoses and deciding on treatments for patients with colorectal cancer,"
+    publishedDateTime: 2023-04-14T11:08:00Z
+    webUrl: "https://www.news-medical.net/news/20230413/New-AI-tool-accurately-predicts-aggressiveness-of-colorectal-cancer.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 39
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Colon_cancer_-_Sebastian_Kaulitzki_277dbee2959349bbbd2680e383db4864-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "qJt+3M+IbI1P/OlQ06YSc9B9B/XpvW2MjArC29LV1YYlgT87OTJLm2TZFSXl9nl0PPvyq288b2grwnyr5aYPSFu4PVT8rcpC045+1LZzr2uY1yiRtCYqfDHrGD8JEsLO/gl5yQv8yRglcHfZHD65tu3LGTCbCn/1+Xu+GwP4CWc69eWLeI/XUJ2dtk7BDo8m9JoCTaBwIFaQ+zONNG2wRYjIHjm1s+DbpJKBhVOvcSsluM0y2HMI4FpwhSDeL19t3qfBOgOVPohnZc5GN7anmMQWNC5vmcmAE4ivLvd7WQbvFRyM77U9YvagYovAtKe9Z4hQ97PhwX38CGxibNFEbmzgrRbhz2hvdf/YpQmbBfEBdKWsQaAEkbqVGl6ilpwBlFjhMfFBfU5scVe91IGa9Xa2/NMoTI7pEHU4yp0ieNKTszAjkYMGm0O4otdKH4XXdRXJl3haUGYhxYuQdvirm3Y9t0g4gsTrMbse/sXxDZb/y6WdwFawvIrU7BMNA61xYXkS6T7Onpp4Yb8dPAFWyw==;Fn33gKCHUQv312SoYzEk9w=="
 ---

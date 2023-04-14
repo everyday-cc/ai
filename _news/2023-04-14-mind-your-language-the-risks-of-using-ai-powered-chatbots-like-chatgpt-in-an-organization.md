@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/mind-your-language-risks-using-ai-powered
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/mind-your-language-risks-using-ai-powered-chatbots-chatgpt/amp/"
 type: article
 quality: 77
-heat: 198
+heat: 228
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 40
+  - title: "Here's where AI and ChatGPT can create quick wins for insurers"
+    excerpt: "Swiss insurance group Helvetia is the latest insurer to announce it is testing ChatGPT for its new customer service. Fellow Swiss insurer Zurich said last month that it was experimenting with ChatGPT to find out how AI can help with tasks such as modelling,"
+    publishedDateTime: 2023-04-14T08:10:00Z
+    webUrl: "https://www.insurancebusinessmag.com/us/news/technology/heres-where-ai-and-chatgpt-can-create-quick-wins-for-insurers-442749.aspx"
+    type: article
+    provider:
+      name: insurancebusinessmag
+      domain: insurancebusinessmag.com
+    quality: 39
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/us/018/0311_638170640554529503.png"
+        width: 1000
+        height: 666
+        isCached: true
   - title: "ZTE to launch GPU servers in response to ChatGPT-triggered AI needs"
     excerpt: "China-based IT and communication solutions provider ZTE will introduce GPU servers supporting high performance computing (HPC) to meet the ChatGPT-triggered needs of large AI models, according to company president Xu Ziyang."
     publishedDateTime: 2023-04-13T11:14:00Z
@@ -103,6 +117,34 @@ related:
       name: Digi Times
       domain: digitimes.com
     quality: 34
+  - title: "It's surprisingly easy to trick an AI chatbot into telling you how to be a very bad boy"
+    excerpt: "So I went searching for some other jailbreaks that might work to trick an AI into breaking its own rules. And there are a lot of them. There's even a whole website dedicated to jailbreak methods (opens in new tab) for most modern AI chatbots."
+    publishedDateTime: 2023-04-14T11:23:00Z
+    webUrl: "https://www.pcgamer.com/its-surprisingly-easy-to-trick-an-ai-chatbot-into-telling-you-how-to-be-a-very-bad-boy/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 31
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Wc6EUppheWKAiAJPQZJt3D-1200-80.jpg"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "ChatGPT Called to the Bar"
+    excerpt: "Latham & Watkins has created an AI-powered tool called Latham.ai, which uses natural language processing and machine learning to help lawyers draft and review contracts more efficiently. Hogan Lovells has partnered with an AI company called Kira Systems to ..."
+    publishedDateTime: 2023-04-14T11:04:00Z
+    webUrl: "https://www.royalgazette.com/opinion-writer/opinion/article/20230414/chatgpt-called-to-the-bar/"
+    type: article
+    provider:
+      name: The Royal Gazette
+      domain: royalgazette.com
+    quality: 24
+    images:
+      - url: "https://imengine.editorial.prod.rgb.navigacloud.com/?uuid=f7b5a041-0fb5-5065-9472-989382454613&function=fit&type=preview"
+        width: 500
+        height: 333
+        isCached: true
   - title: "AI in schools - how metro districts are handling the rise in artificial intelligence chatbots"
     excerpt: "Channel 2′s Justin Farmer spoke with Dr. David Joyner from Georgia Tech, who said there’s justified fear over artificial intelligence following the rise in popularity of chatbots like ChatGPT, Bard and Bing’s AI system."
     publishedDateTime: 2023-04-11T02:41:00Z

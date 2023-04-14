@@ -29,7 +29,7 @@ related:
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211215-las-vegas-the-venetian-expo-aws-ac-1159p-b07aeb.jpg"
         width: 2500
@@ -107,6 +107,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Amazon Joins The AI Race, Announces The Launch of Bedrock"
+    excerpt: "Amazon announced the roll out of two large language models - one to generate texts and the other for web search personalization."
+    publishedDateTime: 2023-04-14T09:42:00Z
+    webUrl: "https://techreport.com/news/3494966/amazon-joins-the-ai-race-announces-the-launch-of-bedrock/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 39
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/04/AWS.png"
+        width: 624
+        height: 386
+        isCached: true
   - title: "How Generative AI Could Disrupt Creative Work"
     excerpt: "In the face of technological change, creativity is often held up as a uniquely human quality, less vulnerable to the forces of technological disruption and critical for the future. Today however, generative AI applications such as ChatGPT and Midjourney are threatening to upend this special status and significantly alter creative work,"
     publishedDateTime: 2023-04-13T12:25:00Z
@@ -139,6 +153,20 @@ related:
       name: CRN Australia
       domain: crn.com.au
     quality: 34
+  - title: "Amazon joins generative AI fervor with new app-building tool and large language models"
+    excerpt: "The company’s new Bedrock service – currently being rolled out in a “limited preview” – will help brands to enhance their own software and content using AI-generated text and images."
+    publishedDateTime: 2023-04-13T20:23:00Z
+    webUrl: "https://www.thedrum.com/news/2023/04/13/amazon-joins-generative-ai-fervor-with-new-app-building-tool-large-language-models"
+    type: article
+    provider:
+      name: The Drum
+      domain: thedrum.com
+    quality: 31
+    images:
+      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/689017/untitled_design_-_2023-04-13t152639.451.png?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Is Amazon the proverbial dark horse in the ongoing generative AI war"
     excerpt: "Amazon may have been offering the Alexa voice assistant for years now and have made extensive investment in the fields of cloud computing and machine learning technologies, but is nowhere to be seen when it comes to offering something that can compete with the likes of ChapGPT."
     publishedDateTime: 2023-04-09T20:19:00Z
@@ -174,6 +202,15 @@ related:
     provider:
       name: Independent Tribune
       domain: independenttribune.com
+    quality: 19
+  - title: "Amazon intensifies AI race with new suite of tools"
+    excerpt: "Amazon Web Services (AWS) has released a series of products aimed at helping other companies develop their own chatbots and image-generation services, backed by artificial intelligence (AI). The move comes as part of a wider AI race following the popularity of ChatGPT,"
+    publishedDateTime: 2023-04-14T10:05:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42143/amazon-intensifies-ai-race-with-new-suite-of-tools"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
     quality: 19
   - title: "Amazon joins in generative AI fervor with new app-building tool & large language models"
     excerpt: "The company’s new Bedrock service – currently being rolled out in a \"limited preview\" – will help brands to enhance its own software and content using AI-generated text and images."

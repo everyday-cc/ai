@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-14-how-to-make-sure-no-one-is-left-behind-in-the-era-of-ai-in-healthcare.md",
+      "title": "How To Make Sure No One Is Left Behind In The Era Of AI In Healthcare",
+      "excerpt": "For the technological advancements being made in healthcare to reach all corners of the Earth, we need to start further upstream.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/14/how-to-make-sure-no-one-is-left-behind-in-the-era-of-ai-in-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/14/how-to-make-sure-no-one-is-left-behind-in-the-era-of-ai-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/638a17a0cd5ae4003ae2e8db/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/14/how-to-make-sure-no-one-is-left-behind-in-the-era-of-ai-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/14/how-to-make-sure-no-one-is-left-behind-in-the-era-of-ai-in-healthcare/amp/",
+      "publishedDateTime": "2023-04-14T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-14-amazons-andy-jassy-says-artificial-intelligence-will-be-a-big-deal-for-company.md",
       "title": "Amazon’s Andy Jassy Says Artificial Intelligence Will Be A ‘Big Deal’ For Company",
       "excerpt": "The Seattle company will continue to invest in specialized chips most used for machine learning, its advertising business as well as generative AI tools",
@@ -146,49 +198,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-the-future-of-healthcare-is-data-driven.md",
-      "title": "The future of healthcare is data-driven",
-      "excerpt": "As analytics tools and machine learning capabilities mature, healthcare innovators are speeding up the development of enhanced treatments supported by Azure’s GPU-accelerated AI infrastructure powered by NVIDIA.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/the-future-of-healthcare-is-datadriven/",
-      "originalUrl": "https://azure.microsoft.com/blog/the-future-of-healthcare-is-datadriven/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI in Healthcare"
       ]
     },
     {

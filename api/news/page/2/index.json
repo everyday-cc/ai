@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-11-create-your-rstudio-on-amazon-sagemaker-licensed-or-trial-environment-in-three-easy-steps.md",
+      "title": "Create your RStudio on Amazon SageMaker licensed or trial environment in three easy steps",
+      "excerpt": "RStudio on Amazon SageMaker is the first fully managed cloud-based Posit Workbench (formerly known as RStudio Workbench). RStudio on Amazon SageMaker removes the need for you to manage the underlying Posit Workbench infrastructure, so your teams can concentrate on producing value for your business. You",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-your-rstudio-on-amazon-sagemaker-licensed-or-trial-environment-in-three-easy-steps/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-your-rstudio-on-amazon-sagemaker-licensed-or-trial-environment-in-three-easy-steps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-11T08:39:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-11-cadence-ceo-drives-growth-beyond-chip-design-with-ai-and-computational-software.md",
+      "title": "Cadence CEO Drives Growth Beyond Chip Design With AI And Computational Software",
+      "excerpt": "Dr. Devgan and his company have a vision of bringing the power of simulation, modeling and computational software to far more than just semiconductor chip design.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/04/11/cadence-ceo-drives-growth-beyond-chip-design-with-ai-and-computational-software/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/04/11/cadence-ceo-drives-growth-beyond-chip-design-with-ai-and-computational-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-11T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-11-global-executives-and-ai-strategy-for-hr-how-to-tackle-bias-in-algorithmic-ai.md",
       "title": "Global executives and AI strategy for HR: How to tackle bias in algorithmic AI",
       "excerpt": "The move towards monitoring HR tools and applications for bias is gaining traction worldwide, driven by various global and domestic data privacy laws and the US Equal Employment Opportunity Commission (EEOC). In line with this trend, the New York City Council has enacted new regulations requiring organizations",
@@ -212,49 +298,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-10-how-ai-and-facial-recognition-could-spot-stroke-and-other-diseases.md",
-      "title": "How AI and Facial Recognition Could Spot Stroke and Other Diseases",
-      "excerpt": "Researchers are training computer algorithms in efforts to quickly spot ailments and speed treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-and-facial-recognition-may-be-able-to-spot-stroke-and-other-diseases-6ac5d965",
-      "originalUrl": "https://www.wsj.com/articles/ai-and-facial-recognition-may-be-able-to-spot-stroke-and-other-diseases-6ac5d965",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-10T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -476,6 +519,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-09-build-your-own-selfie-drone-with-computer-vision.md",
+      "title": "Build Your Own Selfie Drone With Computer Vision",
+      "excerpt": "Yes, all the processing for the selfie drone happens on a non-flying computer, because computer vision takes processing power and battery life. The software comes from CMU’s OpenPose library ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/06/30/build-your-own-selfie-drone-with-computer-vision/",
+      "originalUrl": "https://hackaday.com/2019/06/30/build-your-own-selfie-drone-with-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/06/Telloheader.png",
+          "width": 800,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-09-exrobotics-develops-new-and-improved-version-of-its-inspection-robot.md",
       "title": "Exrobotics Develops 'New And Improved' Version Of Its Inspection Robot",
       "excerpt": "ExRobotics develops 'new and improved' version of its inspection robot April 8, 2023 by mark allinson leave a comment  exrobotics",
@@ -574,6 +660,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-08-deep-learning-model-estimating-breast-density-could-help-with-predicting-cancer-risk.md",
+      "title": "Deep learning model estimating breast density could help with predicting cancer risk",
+      "excerpt": "Breast density is defined as the proportion of fibro-glandular tissue within the breast and is often used in assessing the risk of developing breast cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/deep-learning-model-estimating-breast-density-could-help-with-predicting-cancer-risk/99338448",
+      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/deep-learning-model-estimating-breast-density-could-help-with-predicting-cancer-risk/99338448",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-99338448,imgsize-33232,width-1200,height=765,overlay-ethealth/health-it/deep-learning-model-estimating-breast-density-could-help-with-predicting-cancer-risk.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/deep-learning-model-estimating-breast-density-could-help-with-predicting-cancer-risk/99338448",
+      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/deep-learning-model-estimating-breast-density-could-help-with-predicting-cancer-risk/99338448",
+      "publishedDateTime": "2023-04-08T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "health.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -874,108 +1003,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-08-embracing-ai-enabled-robotic-technology-for-productivity-and-convenience.md",
-      "title": "Embracing A.I.-Enabled Robotic Technology for Productivity and Convenience",
-      "excerpt": "As A.I.-enabled robotic technology becomes increasingly integrated into our everyday lives, remote workers and small-business owners can benefit from innovative solutions that simplify their lives and optimize productivity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.inc.com/heather-wilde/embracing-ai-enabled-robotic-technology-for-productivity-convenience.html",
-      "originalUrl": "https://www.inc.com/heather-wilde/embracing-ai-enabled-robotic-technology-for-productivity-convenience.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inc",
-        "domain": "inc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-08-cobalt-speech-and-language-extending-limited-time-application-for-a-free-trial-speech-recognition-technology.md",
-      "title": "Cobalt Speech And Language Extending Limited-Time Application For A Free Trial Speech Recognition Technology",
-      "excerpt": "Cobalt Speech and Language extending limited time free-trial offer. TYNGSBORO, MASSACHUSETTS, UNITED STATES, April 7, 2023/einpresswire.co",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105963203/Cobalt-Speech-And-Language-Extending-Limited-Time-Application-For-A-Free-Trial-Speech-Recognition-Technology",
-      "originalUrl": "https://menafn.com/1105963203/Cobalt-Speech-And-Language-Extending-Limited-Time-Application-For-A-Free-Trial-Speech-Recognition-Technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-scientists-achieve-optimal-interdomain-data-transfer-using-neural-networks.md",
-      "title": "Scientists achieve optimal interdomain data transfer using neural networks",
-      "excerpt": "Researchers from Skoltech and the Artificial Intelligence Research Institute (AIRI) have developed a new algorithm for optimal data transfer between domains using neural networks. Unlike most similar techniques,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-04-scientists-optimal-interdomain-neural-networks.html",
-      "originalUrl": "https://techxplore.com/news/2023-04-scientists-optimal-interdomain-neural-networks.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

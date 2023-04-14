@@ -2,6 +2,309 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-03-27-cryptocurrencies-add-nothing-useful-to-society-says-chip-maker-nvidia.md",
+      "title": "Cryptocurrencies add nothing useful to society, says chip-maker Nvidia",
+      "excerpt": "Tech chief says the development of chatbots is a more worthwhile use of processing power than crypto mining",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining",
+      "originalUrl": "https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/c1d4d5e50b04a1580bdaa1145b2dec10d47b8496/0_217_6520_3912/master/6520.jpg?width=620&quality=85&auto=format&fit=max&s=78bd8b0dece950e337e76dbba5a347a4",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining",
+      "publishedDateTime": "2023-03-26T12:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-27-vinai-democratizes-ai-in-vietnam-as-dr-hung-bui-sails-are-set-high.md",
+      "title": "VinAI Democratizes AI In Vietnam As Dr. Hung Bui Sails Are Set High",
+      "excerpt": "This article profiles Dr. Hung Bui, CEO of VIN.ai, an operating unit in the VinGroup in Vietnam, and summarizes his vision, research accomplishments of his scientists and the tremendous pride he has for his team achieving global stature as one of the top AI research labs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/03/26/vinai-democratizes-ai-in-vietnam-as-dr-hung-bui-sails-are-set-high/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/03/26/vinai-democratizes-ai-in-vietnam-as-dr-hung-bui-sails-are-set-high/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64176c4f26816377fd7ffb6c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/03/26/vinai-democratizes-ai-in-vietnam-as-dr-hung-bui-sails-are-set-high/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/03/26/vinai-democratizes-ai-in-vietnam-as-dr-hung-bui-sails-are-set-high/amp/",
+      "publishedDateTime": "2023-03-26T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-26-most-jobs-soon-to-be-influenced-by-artificial-intelligence-research-out-of-openai-and-university-of-pennsylvania-suggests.md",
+      "title": "Most Jobs Soon To Be ‘Influenced’ By Artificial Intelligence, Research Out Of OpenAI And University Of Pennsylvania Suggests",
+      "excerpt": "Jobs requiring college education will see the highest impacts, and in many cases, at least half of peoples’ tasks may be affected by generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/03/26/most-jobs-soon-to-be-influenced-by-artificial-intelligence-research-out-of-openai-and-university-of-pennsylvania-suggests/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/03/26/most-jobs-soon-to-be-influenced-by-artificial-intelligence-research-out-of-openai-and-university-of-pennsylvania-suggests/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6420726c40a1a435bb10b24f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/03/26/most-jobs-soon-to-be-influenced-by-artificial-intelligence-research-out-of-openai-and-university-of-pennsylvania-suggests/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/03/26/most-jobs-soon-to-be-influenced-by-artificial-intelligence-research-out-of-openai-and-university-of-pennsylvania-suggests/amp/",
+      "publishedDateTime": "2023-03-26T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-26-icmr-releases-first-ethical-guidelines-for-ai-in-healthcare.md",
+      "title": "ICMR releases first ethical guidelines for AI in healthcare",
+      "excerpt": "The guidelines aim to establish an ethical framework for the development of AI-based tools that can benefit all stakeholders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/india/icmr-releases-first-ethical-guidelines-for-ai-in-healthcare-11679845618748.html",
+      "originalUrl": "https://www.livemint.com/news/india/icmr-releases-first-ethical-guidelines-for-ai-in-healthcare-11679845618748.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/03/26/600x338/cervical_cancer__1679845856883_1679845857081_1679845857081.webp",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/india/icmr-releases-first-ethical-guidelines-for-ai-in-healthcare/amp-11679845618748.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/icmr-releases-first-ethical-guidelines-for-ai-in-healthcare/amp-11679845618748.html",
+      "publishedDateTime": "2023-03-26T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-26-cryptocurrencies-add-nothing-useful-to-society-says-chip-maker-nvidia.md",
+      "title": "Cryptocurrencies add nothing useful to society, says chip-maker Nvidia",
+      "excerpt": "Tech chief says the development of chatbots is a more worthwhile use of processing power than crypto mining",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining?ref=upstract.com",
+      "originalUrl": "https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/c1d4d5e50b04a1580bdaa1145b2dec10d47b8496/0_217_6520_3912/master/6520.jpg?width=620&quality=85&auto=format&fit=max&s=78bd8b0dece950e337e76dbba5a347a4",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining",
+      "publishedDateTime": "2023-03-26T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-26-ai-software-revenue-is-racing-toward-14-trillion-2-growth-stocks-to-buy-now-and-hold.md",
+      "title": "AI Software Revenue Is Racing Toward $14 Trillion: 2 Growth Stocks to Buy Now and Hold",
+      "excerpt": "Forrester Research says Nvidia GPUs are synonymous with AI infrastructure. That brand authority means the company is perfectly positioned to benefit as AI becomes more widespread, and its growing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/03/26/ai-software-racing-2-growth-stocks-to-buy-now/",
+      "originalUrl": "https://www.fool.com/investing/2023/03/26/ai-software-racing-2-growth-stocks-to-buy-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/725653/artificial-intelligence-6.jpg",
+          "width": 2190,
+          "height": 1369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-26T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-26-artificial-intelligence-godfather-on-ai-possibly-wiping-out-humanity-not-inconceivable.md",
       "title": "Artificial intelligence ‘godfather’ on AI possibly wiping out humanity: ‘Not inconceivable’",
       "excerpt": "Geoffrey Hinton, a computer scientist who has been called “the godfather of artificial intelligence”, says it is “not inconceivable” that AI may develop to the point where it poses a ...",
@@ -899,291 +1202,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-lots-of-great-robot-vacuums-are-on-sale-for-under-500-just-in-time-for-spring-cleaning.md",
-      "title": "Lots of great robot vacuums are on sale for under $500 just in time for spring cleaning",
-      "excerpt": "What sets the JetBot AI apart is an onboard ... WiFi-enabled robot vacuums can be synced with a smartphone app to control scheduling, manual start, and cleaning settings, as well as telling ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/deals/best-robot-vacuum-deals",
-      "originalUrl": "https://mashable.com/deals/best-robot-vacuum-deals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/00Mn3035vqXT3udlVYKH7UG/hero-image.fill.size_1200x675.v1638483738.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-24T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-better-ai-stock-microsoft-vs-nvidia.md",
-      "title": "Better AI Stock: Microsoft vs. Nvidia",
-      "excerpt": "Microsoft has an early mover advantage in the generative AI market thanks to OpenAI and ChatGPT. Nvidia's dominance in GPUs and the importance of these chips in generative AI applications could help it remain a top AI stock. With a purported investment of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/03/24/better-ai-stock-microsoft-vs-nvidia/",
-      "originalUrl": "https://www.fool.com/investing/2023/03/24/better-ai-stock-microsoft-vs-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 236,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/725637/chatbot-smartphone-person.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-24T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-automotive-artificial-intelligence-ai-market-research-report-2023-2033-market-ai-major-technology-giants-in-buzz-again.md",
-      "title": "Automotive Artificial Intelligence (AI) Market Research Report 2023-2033 Market ‚Äì Major Technology Giants in Buzz Again",
-      "excerpt": "The automotive industry is in the midst of a major transformation as the rise of artificial intelligence (AI) technology is swiftly changing the way vehicles are designed, manufactured, and operated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lamonitor.com/content/automotive-artificial-intelligence-ai-market-research-report-2023-2033-market-ai-major-technology-giants-in-buzz-again/",
-      "originalUrl": "https://www.lamonitor.com/content/automotive-artificial-intelligence-ai-market-research-report-2023-2033-market-ai-major-technology-giants-in-buzz-again/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://datalys.com/reportimage/1/1996.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-24T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Alamos Monitor",
-        "domain": "lamonitor.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-watch-ai-robot-tries-to-make-cats-happy-in-unique-feline-utopia-trial.md",
-      "title": "Watch: AI Robot Tries to Make Cats Happy in Unique Feline 'Utopia' Trial",
-      "excerpt": "The art project is designed to explore issues with real scientific and societal value that are related to artificial intelligence and may have implications ... the cats' happiness as they interact with the robot. It then tries to learn how to increase ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/watch-ai-robot-tries-make-cats-happy-unique-feline-utopia-trial-1790241",
-      "originalUrl": "https://www.newsweek.com/watch-ai-robot-tries-make-cats-happy-unique-feline-utopia-trial-1790241",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2213891/cat-royale-utopia-environment.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/watch-ai-robot-tries-make-cats-happy-unique-feline-utopia-trial-1790241?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/watch-ai-robot-tries-make-cats-happy-unique-feline-utopia-trial-1790241?amp=1",
-      "publishedDateTime": "2023-03-24T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.md",
-      "title": "How retailers are empowering business transformation with TCS and Microsoft Cloud",
-      "excerpt": "TCS specializes in AI-powered vision technologies like Microsoft Azure Percept to create ... portfolio of intellectual property using machine vision, conversational assistants, predictive analytics, machine learning, AI, and other capabilities on Microsoft ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/465442/how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.html",
-      "originalUrl": "https://www.cio.com/article/465442/how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2023/03/image-retail-custom-2-B4LLS.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/465442/how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.html/amp/",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/465442/how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.html/amp/",
-      "publishedDateTime": "2023-03-24T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-even-trump-shared-a-fake-ai-image-of-himself-heres-how-to-spot-a-deepfake.md",
-      "title": "Even Trump Shared A Fake AI Image Of Himself: Here’s How To Spot A Deepfake",
-      "excerpt": "Deepfakes first came about in 2017 after a Reddit user posted pornography with the adult actors’ faces swapped for the faces of celebrities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ariannajohnson/2023/03/24/even-trump-shared-a-fake-ai-image-of-himself-heres-how-to-spot-a-deepfake/",
-      "originalUrl": "https://www.forbes.com/sites/ariannajohnson/2023/03/24/even-trump-shared-a-fake-ai-image-of-himself-heres-how-to-spot-a-deepfake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641dfb1c54068a83394ff5b7/0x0.jpg?format=jpg&crop=1291,727,x153,y119,safe&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ariannajohnson/2023/03/24/even-trump-shared-a-fake-ai-image-of-himself-heres-how-to-spot-a-deepfake/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ariannajohnson/2023/03/24/even-trump-shared-a-fake-ai-image-of-himself-heres-how-to-spot-a-deepfake/amp/",
-      "publishedDateTime": "2023-03-24T12:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

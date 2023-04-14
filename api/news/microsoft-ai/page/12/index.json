@@ -2,40 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2023-01-03-updated-guidelines-on-cognitive-rehabilitation-after-traumatic-brain-injury.md",
-      "title": "Updated guidelines on cognitive rehabilitation after traumatic brain injury",
-      "excerpt": "January 3, 2023 – A rapidly growing body of evidence shows the importance and effectiveness of cognitive rehabilitation ... software solutions, and services for the clinicians, nurses ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/975514",
-      "originalUrl": "https://www.eurekalert.org/news-releases/975514",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-03-early-learning-slows-later-cognitive-decline.md",
       "title": "Early Learning Slows Later Cognitive Decline",
       "excerpt": "Eventually, though, the brain ages, and cognitive ability declines—even for people who are not experiencing dementia. Researchers have been interested in predicting what factors predict the ...",
@@ -1282,6 +1248,40 @@
       "type": "article",
       "ampWebUrl": "https://medicalxpress.com/news/2022-12-mindfulness-dont-boost-cognitive-function.amp",
       "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-mindfulness-dont-boost-cognitive-function.amp",
+      "publishedDateTime": "2022-12-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-procrastination-the-cognitive-biases-that-enable-it-and-why-its-sometimes-useful.md",
+      "title": "Procrastination: The cognitive biases that enable it, and why it's sometimes useful",
+      "excerpt": "As research shows, it is related to a number of cognitive biases. For example, we may disregard the future consequences of an action. This comes into play when I give in to temptation and eat yet ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-12-procrastination-cognitive-biases-enable.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-12-procrastination-cognitive-biases-enable.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-12-12T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {

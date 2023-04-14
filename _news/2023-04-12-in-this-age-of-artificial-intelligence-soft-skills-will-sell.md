@@ -42,6 +42,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Siemens and Microsoft drive industrial productivity with generative artificial intelligence"
+    excerpt: "Siemens and Microsoft drive industrial productivity with generative artificial intelligence Apr 12, 2023 (PRNewswire via COMTEX) -- PR Newswire"
+    publishedDateTime: 2023-04-12T10:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/siemens-and-microsoft-drive-industrial-productivity-with-generative-artificial-intelligence-2023-04-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cohesity Partners With Microsoft And Announces Vision For AI"
     excerpt: "Ranked Industry Analyst Patrick Moorhead dives in as my latest discussion with Poonen focused on an expanded relationship with Microsoft. A significant part of Poonen's focus and vision for Cohesity since he took over as CEO has been to advance innovation in security,"
     publishedDateTime: 2023-04-11T17:39:00Z
@@ -148,15 +162,6 @@ related:
       name: Deep
       domain: thefastmode.com
     quality: 34
-  - title: "Siemens and Microsoft drive industrial productivity with generative artificial intelligence"
-    excerpt: "Siemens' new Teamcenter app for Microsoft Teams to use AI, boosting productivity and innovation throughout a product lifecycleAzure OpenAI Service powered assistant can augment the creation, optimizat"
-    publishedDateTime: 2023-04-12T10:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/04/n31763481/siemens-and-microsoft-drive-industrial-productivity-with-generative-artificial-intelligence"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
 
 secured: "Ytb9Qju7npt1g5FIURjLhTvgrJi3NUPVU/7K/u0ycMHQMR2WCBthSpweiUhWIEEafXuBFAlx9NCMiC19mQB1Ol+MzbkqZ8s971FIO5w4oKfRY0XmGOA4eMi91ivMa6kf10yKaJEPr1P4fx4c5jsGHkD36eyRMBLl89kmTOk1Pn4TQZW1OVkVSHYqkke6FReWQFQN/+QNUm/6nCPWccpEzTQvtthJ1L2aJKz1F929Lekz7ftETggCx2wKTyz3/0etfTckhRj+Kz/XmeAHrzrQgMoHTxashFFyF9SuL5GDbKHX2NwrGpK/suVmhdsnrOuQLppQBIujKWFqOJeN5D7OqhtUfOdSj+uG2XMG+OMeKVwf+8oBe89FlDotUW5NNZnM6vBqfl/gM1L3I+5xh8AeQcwNW4jAfonw0m4jmLfxvCdnk0bozb+chaAb//KnRWPbnVvPvQBZfWjM6Chk9pS45fGZ+zfgUOTQpAivli5SbPNeulJQUmL0pK+7NjByDMMFl14iAeVNXwY4KHGh5POLjA==;cg71Q04xROQGjZFgDWC1HA=="
 ---

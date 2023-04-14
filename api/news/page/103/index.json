@@ -2,6 +2,291 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2023-01-17-reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains.md",
+      "title": "Reimagining fintech : Banking-as-a-service, embedded finance can unlock new value chains",
+      "excerpt": "At a macro level, the banking and financial services industry are in the midst of a technology-led transformation phase.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/",
+      "originalUrl": "https://www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/01/banking1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/lite/",
+      "publishedDateTime": "2023-01-16T13:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-lawyers-barred-by-madison-square-garden-found-a-way-back-in.md",
+      "title": "Lawyers Barred by Madison Square Garden Found a Way Back In",
+      "excerpt": "MSG Entertainment resorted to facial recognition technology to kick out legal foes, but some have undermined the ban using a law passed to protect theater critics in 1941. Send any friend a story ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/01/16/technology/madison-square-garden-ban-lawyers.html",
+      "originalUrl": "https://www.nytimes.com/2023/01/16/technology/madison-square-garden-ban-lawyers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/01/17/multimedia/15jpMSG-BAN1-print-tlhc/15MSG-BAN-01-tlhc-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/01/16/technology/madison-square-garden-ban-lawyers.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/16/technology/madison-square-garden-ban-lawyers.amp.html",
+      "publishedDateTime": "2023-01-16T10:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-study-reveals-machine-learning-can-predict-brain-tumor-progression.md",
+      "title": "Study reveals machine learning can predict brain tumor progression",
+      "excerpt": "Researchers at the University of Waterloo have developed a computational model to better accurately anticipate the emergence of lethal brain tumours.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression",
+      "originalUrl": "https://www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/16_01_2023_17_49_51_9560931.jpg?width=1280",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2321541-study-reveals-machine-learning-can-predict-brain-tumor-progression?amp",
+      "publishedDateTime": "2023-01-16T09:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo.md",
+      "title": "AI about to hit a level that could cause damage to humanity: DeepMind CEO",
+      "excerpt": "Google's DeepMind CEO Demis Hassabis has said AI is \"on the cusp\" of being able to make tools that could be damaging to humans. \"When it comes to very powerful technologies...we need to be careful,\" he said.",
+      "sourceUrl": null,
+      "webUrl": "https://inshorts.com/en/news/ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo-1673889761715",
+      "originalUrl": "https://inshorts.com/en/news/ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo-1673889761715",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/01_jan/16_mon/img_1673888098959_71.jpg?",
+          "width": 960,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo-1673889761715",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo-1673889761715",
+      "publishedDateTime": "2023-01-16T09:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inshorts",
+        "domain": "inshorts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-googles-deepmind-says-itll-launch-a-more-grown-up-chatgpt-rival-soon.md",
+      "title": "Google's DeepMind says it'll launch a more grown-up ChatGPT rival soon",
+      "excerpt": "Google subsidiary DeepMind says it could launch a ChatGPT rival soon – and its chatbot promises to be a safer kind of AI assistant. DeepMind has been a pioneer in AI research for the last decade ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/googles-deepmind-promises-chatgpt-rival-soon-and-it-could-be-better-in-one-key-way?ref=futuretools.io",
+      "originalUrl": "https://www.techradar.com/news/googles-deepmind-promises-chatgpt-rival-soon-and-it-could-be-better-in-one-key-way?ref=futuretools.io",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/GWE9tK6gS3aMmVkpEKCAci-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-16T09:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits.md",
+      "title": "General availability of Azure OpenAI Service expands access to large, advanced AI models with added enterprise benefits",
+      "excerpt": "With Azure OpenAI Service now generally available, more businesses can apply for access to the most advanced AI models in the world—including GPT-3.5, Codex, and DALL•E 2—backed by the trusted enterprise-grade capabilities and AI-optimized infrastructure of Microsoft Azure, to create cutting-edge applications.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits/",
+      "originalUrl": "https://azure.microsoft.com/blog/general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a6218d54-3c27-4c17-bc25-33ce1d1a268e.png",
+          "width": 808,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-16T09:00:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-17-stable-diffusion-ai-art-lawsuit-plus-caution-from-openai-deepmind-the-ai-beat.md",
       "title": "Stable Diffusion AI art lawsuit, plus caution from OpenAI, DeepMind | The AI Beat",
       "excerpt": "Stability AI and Midjourney were hit with a copyright infringement lawsuit, while OpenAI and DeepMind are signaling generative AI caution.",
@@ -882,284 +1167,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-the-role-of-motion-control-in-medical-robotics.md",
-      "title": "The Role of Motion Control in Medical Robotics",
-      "excerpt": "Motion control is a critical component of almost all of today’s robotic applications, explains Aleksandar Nacev, PhD, chief technology officer for Promaxo. Nacev is an engineering professional with expertise in magnetic systems engineering. Promaxo’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/motion-control/role-motion-control-medical-robotics",
-      "originalUrl": "https://www.designnews.com/motion-control/role-motion-control-medical-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/motion%20control%20webinar%20DT613X.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-advocates-demand-madison-square-garden-stop-using-facial-recognition.md",
-      "title": "Advocates demand Madison Square Garden stop using facial recognition",
-      "excerpt": "Lawmakers and privacy advocates are calling on James Dolan, owner of Madison Square Garden and Radio City Music Hall, to stop surveilling guests for non-security purposes.",
-      "sourceUrl": null,
-      "webUrl": "https://pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/",
-      "originalUrl": "https://pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pix11.com/wp-content/uploads/sites/25/2022/11/AP22318781223165.jpg?w=1280",
-          "width": 1280,
-          "height": 851,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://pix11-com.cdn.ampproject.org/c/s/pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/amp/",
-      "publishedDateTime": "2023-01-15T15:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pix11",
-        "domain": "pix11.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-microsofts-panos-panay-teases-next-gen-ai-powered-windows-11-windows-120-0.md",
-      "title": "Microsoft's Panos Panay teases next gen AI-powered Windows 11 & Windows 120 0",
-      "excerpt": "Next-gen Windows 11 and Windows 12 OSs could be drastically different from what we have now. Senior executive of Microsoft, Panos Panay recently shared some very early details regarding this.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
-      "originalUrl": "https://www.neowin.net/news/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2023/01/1673818486_win_11_wallpaper_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
-      "publishedDateTime": "2023-01-15T14:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot.md",
-      "title": "ChatGBT Shows Scary Implications Of AI: Sports Owners And The Robot",
-      "excerpt": "Kind of like when you call the airline and they ask for your number and say they will text you when you are next in line.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/",
-      "originalUrl": "https://www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c454a3ecbcbced56a44bb3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 646,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/amp/",
-      "publishedDateTime": "2023-01-15T11:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-dhc-talking-therapies-nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt.md",
-      "title": "DHC Talking Therapies - NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT)",
-      "excerpt": "We'd also like to use analytics cookies. These collect feedback and send information about how our site is used to services called Adobe Analytics, Qualtrics Feedback, Microsoft Clarity and Google Analytics. We use this information to improve our site.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nhs.uk/services/clinic/dhc-talking-therapies/NNE01/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt",
-      "originalUrl": "https://www.nhs.uk/services/clinic/dhc-talking-therapies/NNE01/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-15T09:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHS Choices",
-        "domain": "www.nhs.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-has-nvidia-won-the-ai-training-market.md",
-      "title": "Has Nvidia won the AI training market?",
-      "excerpt": "AI chips serve two functions. AI builders first take a large (or truly massive) set of data and run complex software to look for patterns in",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/97272-has-nvidia-won-ai-training-market.html",
-      "originalUrl": "https://www.techspot.com/news/97272-has-nvidia-won-ai-training-market.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2023/01/2023-01-15-image.jpg",
-          "width": 1963,
-          "height": 1104,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-15T08:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -2,6 +2,112 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-14-maximize-performance-and-reduce-your-deep-learning-training-cost-with-aws-trainium-and-amazon-sagemaker.md",
+      "title": "Maximize performance and reduce your deep learning training cost with AWS Trainium and Amazon SageMaker",
+      "excerpt": "Today, tens of thousands of customers are building, training, and deploying machine learning (ML) models using Amazon SageMaker to power applications that have the potential to reinvent their businesses and customer experiences. These ML models have been increasing in size and complexity over the last",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/maximize-performance-and-reduce-your-deep-learning-training-cost-with-aws-trainium-and-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/maximize-performance-and-reduce-your-deep-learning-training-cost-with-aws-trainium-and-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/14/maximize-performance.jpg",
+          "width": 1563,
+          "height": 781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-14T13:27:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-artificial-intelligence-and-machine-learning-market-size-share-and-forecast-2029.md",
+      "title": "Artificial Intelligence and Machine Learning Market Size, Share and Forecast 2029",
+      "excerpt": "The \"Artificial Intelligence and Machine Learning Market\" study describes how the technology industry is evolving and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-share-and-forecast-2029-2023-03-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-share-and-forecast-2029-2023-03-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 291,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-13T18:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-03-14-neural-networks-youve-got-it-so-easy.md",
       "title": "Neural Networks: You’ve Got It So Easy",
       "excerpt": "And so it was Scientific American magazine’s September 1992 special issue on Mind and Brain that introduced me to neural networks, both the biological and artificial kinds. Back then you had the ...",
@@ -1320,101 +1426,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-an-overview-of-machine-learning-pipeline-and-its-importance.md",
-      "title": "An overview of Machine Learning pipeline and its importance",
-      "excerpt": "A Machine Learning (ML) pipeline is used to assist in the automation of machine learning processes. They work by allowing a sequence of data to be transformed and correlated in a model that can be tested and evaluated to achieve a positive or negative outcome.",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/articles/53595/an-overview-of-machine-learning-pipeline-and-its-importance.html",
-      "originalUrl": "https://www.design-reuse.com/articles/53595/an-overview-of-machine-learning-pipeline-and-its-importance.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.design-reuse.com/news_img2/homepage53595/soft2b.jpg",
-          "width": 683,
-          "height": 402,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-06T06:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-brainchip-extends-ai-machine-learning-in-space-and-time-with-bio-inspired-neural-networks.md",
-      "title": "Brainchip Extends AI, Machine Learning In Space And Time With Bio-Inspired Neural Networks",
-      "excerpt": "Brainchip has introduced a new generation of its unique, bio-inspired Akida line of licensable, configurable neural processing IP.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/06/brainchip-extends-ai-machine-learning-in-space-and-time-with-bio-inspired-neural-networks/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/06/brainchip-extends-ai-machine-learning-in-space-and-time-with-bio-inspired-neural-networks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/640214b4c8c9ba097d058205/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 691,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/06/brainchip-extends-ai-machine-learning-in-space-and-time-with-bio-inspired-neural-networks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/03/06/brainchip-extends-ai-machine-learning-in-space-and-time-with-bio-inspired-neural-networks/amp/",
-      "publishedDateTime": "2023-03-06T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

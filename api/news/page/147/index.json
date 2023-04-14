@@ -2,21 +2,21 @@
   "page": 147,
   "value": [
     {
-      "path": "_news/2022-09-15-ai-act-what-does-general-purpose-ai-gpai-even-mean.md",
-      "title": "AI Act: What does general purpose AI (GPAI) even mean?",
-      "excerpt": "In a discussion about the EU's AI Act this week, panelists discussed the difficulty of defining GPAI and other new AI technologies.",
+      "path": "_news/2022-12-05-cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud.md",
+      "title": "Cerebras Announces Pay-As-You-Go AI Training On Cirrascale Cloud",
+      "excerpt": "Company claims it can train AI 8X faster than AWS at half the cost for large models. Cerebras is not your typical AI chip company. And thats a good thing. We already have a lot of knock-offs taking on NVIDIA, and they all seem to do a good job of knocking ...",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/",
-      "originalUrl": "https://venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/",
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/eu-elections-parliament-e1663194279910.jpg?fit=800%2C496&strip=all",
-          "width": 800,
-          "height": 496,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/638e4946cfebecc8ea93c5c7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,9 +24,190 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/amp/",
-      "publishedDateTime": "2022-09-15T07:40:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/amp/",
+      "publishedDateTime": "2022-12-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-05-cuttlefish-passed-a-cognitive-test-designed-for-humans.md",
+      "title": "Cuttlefish passed a cognitive test designed for humans",
+      "excerpt": "This discovery, the researchers say, is an example of advanced self-control and shows that the creatures perform better in cognitive tasks. It has also been hypothesized that these positive ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/science/cuttlefish-passed-a-cognitive-test-designed-for-humans/",
+      "originalUrl": "https://bgr.com/science/cuttlefish-passed-a-cognitive-test-designed-for-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2022/12/AdobeStock_159088227.jpeg?quality=82&strip=all",
+          "width": 2400,
+          "height": 1596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-05-artificial-intelligence-and-heart-care-pt-1.md",
+      "title": "Artificial intelligence and heart care — Pt 1",
+      "excerpt": "ARTIFICIAL intelligence (AI ... systems, and convolutional neural networks. In medical imaging, and more particularly cardiovascular imaging, AI has become very instrumental in efficiently ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/",
+      "originalUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imengine.public.prod.jam.navigacloud.com/?uuid=bed7186e-bbf9-52e7-a219-69c1352aa6fb&function=fit&type=preview",
+          "width": 500,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/amp/",
+      "cdnAmpWebUrl": "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/amp/",
+      "publishedDateTime": "2022-12-04T10:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jamaica Observer",
+        "domain": "jamaicaobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-05-sudbury-plays-host-to-first-robotics-competition.md",
+      "title": "Sudbury plays host to FIRST robotics competition",
+      "excerpt": "Tech Qualifier with students competing from across Sudbury, North Bay, Manitoulin Island, Bruce County and Toronto. Teams had to use their robots to complete different challenges, using pylons while amassing points.",
+      "sourceUrl": null,
+      "webUrl": "https://northernontario.ctvnews.ca/sudbury-plays-host-to-first-robotics-competition-1.6180419",
+      "originalUrl": "https://northernontario.ctvnews.ca/sudbury-plays-host-to-first-robotics-competition-1.6180419",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2022/12/4/2577491/_jcr_content/renditions/videothumbnail.1670204290046.jpg",
+          "width": 1020,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/northern-ontario/2022/12/4/1_6180419.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/northern-ontario/2022/12/4/1_6180419.amp.html",
+      "publishedDateTime": "2022-12-04T09:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-05-why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right.md",
+      "title": "Why you need an organizational AI ethics committee to do AI right",
+      "excerpt": "How forming an AI ethics committee will educate and engage your teams and customers about ethical dilemmas artificial intelligence can raise.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/",
+      "originalUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-875599880-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/amp/",
+      "publishedDateTime": "2022-12-04T09:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -49,1056 +230,10 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Google AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-artificial-intelligence-can-bring-real-solutions-to-the-power-grid-crisis.md",
-      "title": "Artificial Intelligence Can Bring Real Solutions To The Power Grid Crisis",
-      "excerpt": "The state utility registered a one-day summertime record for electricity usage, peaking at 21,086 megawatt-hours of electricity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sk/2022/09/15/artificial-intelligence-can-bring-real-solutions-to-the-power-grid-crisis/",
-      "originalUrl": "https://www.forbes.com/sites/sk/2022/09/15/artificial-intelligence-can-bring-real-solutions-to-the-power-grid-crisis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/631a5150de0822c428d70388/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sk/2022/09/15/artificial-intelligence-can-bring-real-solutions-to-the-power-grid-crisis/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sk/2022/09/15/artificial-intelligence-can-bring-real-solutions-to-the-power-grid-crisis/amp/",
-      "publishedDateTime": "2022-09-15T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-artificial-intelligence-chip-market-size-2022-2027-share-trends-analysis-and-forecast.md",
-      "title": "Artificial Intelligence Chip Market Size 2022-2027, Share, Trends, Analysis and Forecast",
-      "excerpt": "The latest research study \" Artificial Intelligence Chip Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027 \" by IMARC Group, finds that the global artificial intelligence chip market size reached a value of US$ 9.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-2022-2027-share-trends-analysis-and-forecast-2022-09-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-2022-2027-share-trends-analysis-and-forecast-2022-09-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-vonage-launches-ai-studio.md",
-      "title": "Vonage Launches AI Studio",
-      "excerpt": "Founder and CEO of Aragon Research. \"Similarly, businesses need the tools that enable them to easily create these kinds of meaningful connections, augmented by AI capabilities to add efficiencies ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/vonage-launches-ai-studio-1031745371",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/vonage-launches-ai-studio-1031745371",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-get-global-exposure-to-japans-robotics-industry-with-this-etf.md",
-      "title": "Get Global Exposure to Japan’s Robotics Industry With This ETF",
-      "excerpt": "There's no doubt that robotics is going to experience unprecedented growth over the next decade as the world becomes more automated, but certain countries have been leading the charge towards that shift,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/get-global-exposure-to-japans-robotics-industry-with-this-etf",
-      "originalUrl": "https://www.nasdaq.com/articles/get-global-exposure-to-japans-robotics-industry-with-this-etf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/get-global-exposure-to-japans-robotics-industry-with-this-etf?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/get-global-exposure-to-japans-robotics-industry-with-this-etf?amp",
-      "publishedDateTime": "2022-09-15T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-expanding-access-to-technology-by-democratizing-access-to-ai-powered-software.md",
-      "title": "Expanding Access To Technology By Democratizing Access To AI-Powered Software",
-      "excerpt": "AI is now transforming the software development space itself and making it easier for businesses of all sizes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/15/expanding-access-to-technology-by-democratizing-access-to-ai-powered-software/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/15/expanding-access-to-technology-by-democratizing-access-to-ai-powered-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63207effe02c83fcd4d70386/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/15/expanding-access-to-technology-by-democratizing-access-to-ai-powered-software/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/15/expanding-access-to-technology-by-democratizing-access-to-ai-powered-software/amp/",
-      "publishedDateTime": "2022-09-15T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-from-a-robotic-nurse-to-an-ai-actress-meet-the-worlds-most-realistic-humanoid-robots-that-can-mimic-human-speech-and-facial-expressions-with.md",
-      "title": "From a robotic nurse to an AI actress: Meet the world's most realistic humanoid ROBOTS that can mimic human speech and facial expressions with eerie precision",
-      "excerpt": "With AI at its core and a full-size humanoid ... stores across North America and the Middle East. 'A robot with a new appearance will start its activities in 2023, and a selected person's face ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11211887/Meet-worlds-realistic-humanoid-ROBOTS.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11211887/Meet-worlds-realistic-humanoid-ROBOTS.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/09/14/16/62406355-0-image-a-143_1663169221048.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11211887/amp/Meet-worlds-realistic-humanoid-ROBOTS.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11211887/amp/Meet-worlds-realistic-humanoid-ROBOTS.html",
-      "publishedDateTime": "2022-09-15T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-trinity-and-ibm-deal-to-advance-research-in-areas-such-as-quantum-and-ai.md",
-      "title": "Trinity and IBM deal to advance research in areas such as quantum and AI",
-      "excerpt": "TCD and IBM are collaborating on research activities and extending their pre-PhD programme to train next-gen talent in quantum, AI and security. Trinity College Dublin (TCD) has signed a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/innovation/trinity-tcd-ibm-deal-research-advancement",
-      "originalUrl": "https://www.siliconrepublic.com/innovation/trinity-tcd-ibm-deal-research-advancement",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconrepublic.com/wp-content/uploads/2022/09/IBM-MoU-signing.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-latin-america-machine-learning-market-2022-comprehensive-industry-and-vendor-landscape-2030.md",
-      "title": "Latin America Machine Learning Market 2022 Comprehensive Industry and Vendor Landscape 2030",
-      "excerpt": "The value of the Machine Learning market in Latin America is expected to reach USD 0.93 Bn by 2023, expanding at a compound annual growth rate (CAGR) of 24.8% during 2018-2023. Request To Download Free Sample of This Strategic Report: -  Key Companies Covered in the Latin America Machine Learning Market Research are Microsoft,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/latin-america-machine-learning-market-2022-comprehensive-industry-and-vendor-landscape-2030-2022-09-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/latin-america-machine-learning-market-2022-comprehensive-industry-and-vendor-landscape-2030-2022-09-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-speech-voice-recognition-systems-market-size-growth-2022-global-business-industry-revenue-demand-and-applications-market-research-report.md",
-      "title": "Speech & Voice Recognition Systems Market Size, Growth 2022 Global Business Industry Revenue, Demand and Applications Market Research Report to 2028",
-      "excerpt": "Speech & Voice Recognition Systems Market report covers the manufacturers’ data, including business distribution, cost and price, margin, and gross revenue. This allows a reader to understand ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/speech-voice-recognition-systems-market-size-growth-2022-global-business-industry-revenue-demand-and-applications-market-research-report-to-2028",
-      "originalUrl": "https://www.digitaljournal.com/pr/speech-voice-recognition-systems-market-size-growth-2022-global-business-industry-revenue-demand-and-applications-market-research-report-to-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Wall-Street-New-York-1600px-Digital-Journal-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-neural-switch-sets-the-brain-up-for-learning-or-remembering.md",
-      "title": "Neural \"Switch\" Sets the Brain Up for Learning or Remembering",
-      "excerpt": "These two functions are controlled by different neural circuits. Using an animal model ... For further information, please contact the cited source. Technology Networks",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/tn/news/neural-switch-sets-the-brain-up-for-learning-or-remembering-365698",
-      "originalUrl": "https://www.technologynetworks.com/tn/news/neural-switch-sets-the-brain-up-for-learning-or-remembering-365698",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/365698/neural-switch-sets-the-brain-up-for-learning-or-remembering-365698-640x360.jpg?cb=20220915",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T01:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-sensormatic-solutions-by-johnson-controls-expands-its-computer-vision-offering-to-address-retails-most-pressing-challenges.md",
-      "title": "Sensormatic Solutions by Johnson Controls Expands Its Computer Vision Offering to Address Retail’s Most Pressing Challenges",
-      "excerpt": "Sensormatic Solutions, the leading global retail solutions portfolio of Johnson Controls, has expanded its computer vision analytics offering, which focuses on driving sales, reducing risk and enhancing the shopper experience. The company’s computer ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-89036b868d68454192a27bea59be0a02",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-89036b868d68454192a27bea59be0a02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-ibm-korea-introduces-new-data-fabric-technology.md",
-      "title": "IBM Korea introduces new 'data fabric' technology",
-      "excerpt": "IBM Korea has introduced a new data utilization method, simplifying access to a vast amount of information based on artificial intelligence (AI). The global IT solution provider held a press conference Thursday on Yeouido,",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/nation/2022/09/419_336108.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/nation/2022/09/419_336108.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202209/568d62e2d9b64a278f200b2cc5ed36d6.jpg",
-          "width": 980,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=336108",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=336108",
-      "publishedDateTime": "2022-09-15T00:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-axiomtek-launches-edge-computer-with-dual-gpu-expansion-for-ai-accelerated-processing-ipc972.md",
-      "title": "Axiomtek Launches Edge Computer with Dual GPU Expansion for AI Accelerated Processing - IPC972",
-      "excerpt": "Axiomtek - a world-renowned leader relentlessly devoted in the research, development, and manufacturing of innovative and reliable industrial computer products of high efficiency – is proud to introduce the IPC972,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/axiomtek-launches-edge-computer-with-dual-gpu-expansion-for-ai-accelerated-processing-ipc972-1031744564",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/axiomtek-launches-edge-computer-with-dual-gpu-expansion-for-ai-accelerated-processing-ipc972-1031744564",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1899399/image_5019367_4377470.jpg",
-          "width": 400,
-          "height": 229,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T00:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-ibm-announced-as-cop-27-technology-partner.md",
-      "title": "IBM Announced as COP 27 Technology Partner",
-      "excerpt": "IBM – a leading hybrid cloud, AI, and business services provider – has been named technology partner of the 2022 United Nations Climate Change Conference, or COP27 IBM – a leading hybrid ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/ibm-announced-cop-27-technology-partner-1491285",
-      "originalUrl": "https://www.albawaba.com/business/pr/ibm-announced-cop-27-technology-partner-1491285",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T00:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-existential-catastrophe-caused-by-ai-is-likely-unavoidable-deepmind-researcher-warns.md",
-      "title": "‘Existential catastrophe’ caused by AI is likely unavoidable, DeepMind researcher warns",
-      "excerpt": "Researchers from the University of Oxford and Google’s artificial intelligence division DeepMind have claimed that there is a high probability of advanced forms of AI becoming “existentially dangerous to life on Earth”.",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/artificial-intelligence-deepmind-ai-catastrophe-b2166954.html?src=rss",
-      "originalUrl": "https://www.independent.co.uk/tech/artificial-intelligence-deepmind-ai-catastrophe-b2166954.html?src=rss",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-face-recognition-smart-lock-market-key-player-competition-weakness-and-strengths-from-2022-to-2028.md",
-      "title": "Face Recognition Smart Lock Market Key Player, Competition Weakness and Strengths from 2022 to 2028",
-      "excerpt": "The \"Face Recognition Smart Lock Market\" is segmented into North America: United States, Canada, Europe: GermanyFrance, U.K., Italy, Russia,Asia-Pacific: China, Japan, South, India, Australia, China,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-smart-lock-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-09-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-smart-lock-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-09-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-study-indicates-a-daily-multivitamin-slows-cognitive-decline.md",
-      "title": "Study indicates a daily multivitamin slows cognitive decline",
-      "excerpt": "Findings recently published in the Alzheimer’s & Dementia: The Journal of the Alzheimer’s Association found that a daily multivitamin could improve cognitive function and physical health for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wtvr.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline",
-      "originalUrl": "https://www.wtvr.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T22:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wtvr",
-        "domain": "wtvr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-taking-daily-multivitamin-could-slow-cognitive-decline-among-older-people-by-2-years-study-say.md",
-      "title": "Taking daily multivitamin could slow cognitive decline among older people by 2 years, study say",
-      "excerpt": "The ability to slow cognitive decline by almost two years with a multivitamin is significant, and while more research is needed, doctors say this is a critical first step. Diane Lowe is healthy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/philadelphia/news/daily-multivitamin-alzheimers-association-cognitive-decline-study/",
-      "originalUrl": "https://www.cbsnews.com/philadelphia/news/daily-multivitamin-alzheimers-association-cognitive-decline-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/09/14/dba80da9-51d1-436a-a16b-271834a51f30/thumbnail/1200x630/d7b0f25c03d6bf21e42d77643d44a9c1/gettyimages-51730199.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/philadelphia/news/daily-multivitamin-alzheimers-association-cognitive-decline-study/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/philadelphia/news/daily-multivitamin-alzheimers-association-cognitive-decline-study/",
-      "publishedDateTime": "2022-09-14T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-more-driverless-cars-are-coming-to-austin-what-you-need-to-know.md",
-      "title": "More driverless cars are coming to Austin: What you need to know",
-      "excerpt": "Austin is about to see more driverless cars on its roadways, as another autonomous vehicle company says it is expanding into Austin by the end of the year. San Francisco-based Cruise ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statesman.com/story/business/technology/2022/09/14/cruise-driverless-cars-are-coming-to-austin-what-you-need-to-know/69492889007/",
-      "originalUrl": "https://www.statesman.com/story/business/technology/2022/09/14/cruise-driverless-cars-are-coming-to-austin-what-you-need-to-know/69492889007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T18:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Austin American-Statesman",
-        "domain": "statesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans.md",
-      "title": "Perceptron: AI that lights up the moon, improvises grammar and teaches robots to walk like humans",
-      "excerpt": "In this edition of Perceptron, TechCrunch's semiregular review of AI research, we take a look at cutting-edge robotics, moon-scanning tech, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/",
-      "originalUrl": "https://techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1160995648.jpg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/amp/",
-      "publishedDateTime": "2022-09-14T17:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "Computer Vision",
-        "Google AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-daily-multivitamin-may-slow-cognitive-decline-in-older-adults-study-shows.md",
-      "title": "Daily multivitamin may slow cognitive decline in older adults, study shows",
-      "excerpt": "Yulia Reznikov/Getty Images Older adults experiencing cognitive decline are at risk for Alzheimer’s disease (AD) and other forms of dementia. Experts are still working to understand what factors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medicalnewstoday.com/articles/daily-multivitamin-may-slow-cognitive-decline-in-older-adults-study-shows",
-      "originalUrl": "https://www.medicalnewstoday.com/articles/daily-multivitamin-may-slow-cognitive-decline-in-older-adults-study-shows",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/09/Daily_vitamins_GettyImages1220060359_Thumb.jpg",
-          "width": 732,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical News Today",
-        "domain": "medicalnewstoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-artist-ai-weiwei-warns-against-hubris-in-troublesome-times.md",
-      "title": "Artist Ai Weiwei warns against hubris in ‘troublesome’ times",
-      "excerpt": "VENICE, Italy (AP) — Chinese dissident and artist Ai Weiwei lampoons the surveillance state and social media with his first glass sculpture, made on the Venetian island of Murano. Titled “The ...",
-      "sourceUrl": null,
-      "webUrl": "https://localnews8.com/news/ap-national/2022/08/26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/",
-      "originalUrl": "https://localnews8.com/news/ap-national/2022/08/26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://localnews8.b-cdn.net/2020/12/US-World-logo-new_KIFIMIFI-860x484.jpg",
-          "width": 860,
-          "height": 484,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T15:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Local News 8",
-        "domain": "localnews8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-symbee-launches-two-new-expedited-avaya-migration-offerings-to-allow-companies-to-mitigate-the-risks-associated-with-recent-events.md",
-      "title": "Symbee Launches Two New Expedited Avaya Migration Offerings to Allow Companies to Mitigate the Risks Associated With Recent Events.",
-      "excerpt": "Customers needing to mitigate the risk of Avaya Solution(s) by migrating rapidly to the Amazon Customer Experience (CX) ecosystem based on recent",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/g28874153/symbee-launches-two-new-expedited-avaya-migration-offerings-to-allow-companies-to-mitigate-the-ris",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/g28874153/symbee-launches-two-new-expedited-avaya-migration-offerings-to-allow-companies-to-mitigate-the-ris",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg",
-          "width": 700,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28874153",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28874153",
-      "publishedDateTime": "2022-09-14T15:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-multivitamins-may-slow-cognitive-decline-in-older-adults-study-says.md",
-      "title": "Multivitamins May Slow Cognitive Decline in Older Adults, Study Says",
-      "excerpt": "Share on Pinterest Researchers say taking a multivitamin daily can help slow cognitive aging. Fly View Productions/Getty Images Researchers say a new study indicates that taking a multivitamin ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthline.com/health-news/multivitamins-may-slow-cognitive-decline-in-older-adults-study-says",
-      "originalUrl": "https://www.healthline.com/health-news/multivitamins-may-slow-cognitive-decline-in-older-adults-study-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://post.healthline.com/wp-content/uploads/2022/09/female-couch-pills-1200x628-facebook-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T15:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthline",
-        "domain": "healthline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
+        "AI Ethics",
         "AI"
       ]
     }
   ],
-  "nextPage": 148
+  "nextPage": null
 }

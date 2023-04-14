@@ -2,59 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-02-16-machine-learning-as-a-service-mlaas-market-size-report-outlook-growth-key-players-revenue-and-forecast-2031.md",
-      "title": "Machine Learning as a Service (MLaaS) Market Size, Report Outlook, Growth, Key Players, Revenue, and Forecast 2031",
-      "excerpt": "Global Machine Learning as a Service (MLaaS) Market to reach USD 16.7 billion by 2027. Global Machine Learning",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-report-outlook-growth-key-players-revenue-and-forecast-2031-2023-02-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-report-outlook-growth-key-players-revenue-and-forecast-2031-2023-02-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-15T23:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-02-16-youcom-challenges-google-microsoft-with-launch-of-multimodal-conversational-ai-in-search.md",
       "title": "You.com challenges Google, Microsoft with launch of ‘multimodal conversational AI’ in search",
       "excerpt": "AI search engine You.com promises to advance internet search with YouChat 2.0, combining conversational AI with community-built apps.",
@@ -1408,6 +1355,58 @@
         "name": "Phys.org",
         "domain": "phys.org",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-dont-roll-your-eyes-ai-isnt-just-another-doomed-tech-fad.md",
+      "title": "Don’t roll your eyes — AI isn’t just another doomed tech fad",
+      "excerpt": "Companies like Google and Microsoft are simply pulling back the curtain on the AI that’s been powering their services for several years ... a professor and researcher of cognitive computer science at UC Berkely, revealed half a dozen inputs that would ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/ai-wont-fade-away-like-a-tech-fad/",
+      "originalUrl": "https://www.digitaltrends.com/computing/ai-wont-fade-away-like-a-tech-fad/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/01/chatgpt-life-after-death.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/ai-wont-fade-away-like-a-tech-fad/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/ai-wont-fade-away-like-a-tech-fad/?amp",
+      "publishedDateTime": "2023-02-08T12:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

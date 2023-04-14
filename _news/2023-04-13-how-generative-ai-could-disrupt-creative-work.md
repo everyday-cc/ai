@@ -34,7 +34,7 @@ related:
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211215-las-vegas-the-venetian-expo-aws-ac-1159p-b07aeb.jpg"
         width: 2500
@@ -112,6 +112,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Amazon Joins The AI Race, Announces The Launch of Bedrock"
+    excerpt: "Amazon announced the roll out of two large language models - one to generate texts and the other for web search personalization."
+    publishedDateTime: 2023-04-14T09:42:00Z
+    webUrl: "https://techreport.com/news/3494966/amazon-joins-the-ai-race-announces-the-launch-of-bedrock/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 39
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/04/AWS.png"
+        width: 624
+        height: 386
+        isCached: true
   - title: "AWS wades into generative AI fray with Bedrock service"
     excerpt: "CEO Andy Jassy highlighted generative AI as a key area of investment for the retail giant, in a Thursday letter to investors."
     publishedDateTime: 2023-04-13T22:36:00Z
@@ -139,6 +153,20 @@ related:
       name: CRN Australia
       domain: crn.com.au
     quality: 34
+  - title: "Amazon joins generative AI fervor with new app-building tool and large language models"
+    excerpt: "The company’s new Bedrock service – currently being rolled out in a “limited preview” – will help brands to enhance their own software and content using AI-generated text and images."
+    publishedDateTime: 2023-04-13T20:23:00Z
+    webUrl: "https://www.thedrum.com/news/2023/04/13/amazon-joins-generative-ai-fervor-with-new-app-building-tool-large-language-models"
+    type: article
+    provider:
+      name: The Drum
+      domain: thedrum.com
+    quality: 31
+    images:
+      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/689017/untitled_design_-_2023-04-13t152639.451.png?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Is Amazon the proverbial dark horse in the ongoing generative AI war"
     excerpt: "Amazon may have been offering the Alexa voice assistant for years now and have made extensive investment in the fields of cloud computing and machine learning technologies, but is nowhere to be seen when it comes to offering something that can compete with the likes of ChapGPT."
     publishedDateTime: 2023-04-09T20:19:00Z
@@ -175,6 +203,15 @@ related:
       name: Independent Tribune
       domain: independenttribune.com
     quality: 19
+  - title: "Amazon intensifies AI race with new suite of tools"
+    excerpt: "Amazon Web Services (AWS) has released a series of products aimed at helping other companies develop their own chatbots and image-generation services, backed by artificial intelligence (AI). The move comes as part of a wider AI race following the popularity of ChatGPT,"
+    publishedDateTime: 2023-04-14T10:05:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42143/amazon-intensifies-ai-race-with-new-suite-of-tools"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
   - title: "Amazon joins in generative AI fervor with new app-building tool & large language models"
     excerpt: "The company’s new Bedrock service – currently being rolled out in a \"limited preview\" – will help brands to enhance its own software and content using AI-generated text and images."
     publishedDateTime: 2023-04-13T20:23:00Z
@@ -185,6 +222,6 @@ related:
       domain: thedrum.com
     quality: 11
 
-secured: "6VPfMaxc0d/FFb7MwbaIxrcdRLA+UBUPR8cbZGkBniNho18E5irDimbdomXmDkBgF/F1FK/BkPTl2esdBHCv+77ALZWfDEdv/T1mXHKM5qSjnM1eXUrZY2w3qenwqRZLKfrYHOU45uiyZ7i3c0WFe/k8A31TSZNsQ76locO814rVpgrn54fwktSEmS1+B8AIgGMOIpgAjbMBBntNpqdYP27bw2FvKjd/grgLR1fLAj6y85MoGZw+Js9furNghjSl9BoDa40jWnTp+l8MaSqAOKEOqYdtOMsqA9QD2L/xuXo4ClyDha+z56jI0dazv4V1MC5XUabbC77j0vKFjjYp7CgLXN3bY0BTYvW73afpfbM=;1LtJveIMLG9ZKm/Fn5XVJA=="
+secured: "N186jIiS8lxVKB89fwxwoSubvq9Q+g/3TsZXU8OVM9AH/7ZYDvl00knDWpV1pkFEUsSFF+my9SQwR5bLWOpT5Tf94uWC9gb2mv+6R1QwRppUaijlc+7Uflv2JC8lpiRmgOc7DLzwDTkeC5pbAH+OG/2to4yT4OlT/q+5Ja6pckzqvau0jHpbBypbPcrlXv53EFph1M/A/dWkVXPWydawDL8QM5BbUfbcDHkGjpH5DQt2CCpi6RR+GnkgfAtDADAKOl+dGuivAwZNSsID2GeiftAf/cpE5KA+uOuel9sgsRHYYHpObfLI6V4QkI5q5Ew+zn+RnSuM/1VyY0e0PybG09FPPbLmPLiY8jtbA56DCQH4t1OXX9O3WBYcgRllUaxN8y4512yqgBRrM/hFC4FMa4G9encZcfwAEdWSL/n7Pw4h2WiyEU8+QhhOmwEE4ZylIv/8dDH6IM4wOwy2dbJTeCJcXNJdWq5M1uQupHa+g3SuOYxz5jMoj9I6si5LsAhoMCc5BcF6kve3RagTA1+Q2w==;RyjAJSHQWs52ZxHlO8O++w=="
 ---
 

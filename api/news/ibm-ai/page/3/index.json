@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-01-25-ai-medicine-software-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029.md",
+      "title": "AI Medicine Software Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2029",
+      "excerpt": "In 2023, Current AI Medicine Software Market Size | 2029 | Newest [102] Pages Report AI Medicine Software Market",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-medicine-software-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2023-01-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-medicine-software-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2023-01-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-24T17:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-01-25-ai-in-medical-imaging-market-is-set-to-grow-in-forecast-period-2029.md",
       "title": "AI In Medical Imaging Market is Set to Grow in forecast period 2029",
       "excerpt": "What are the Key Industry Development in AI In Medical Imaging Market? The AI In Medical Imaging market has witnessed growth from USD million to USD million from 2017 to 2022. With the CAGR of %, this market is estimated to reach USD million in 2029.",
@@ -1371,60 +1424,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-24-how-analytics-and-ai-can-help-you-build-a-better-customer-experience.md",
-      "title": "How analytics and AI can help you build a better customer experience",
-      "excerpt": "With the help of advanced technology, you can improve customer engagement and retention.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/sc/how-analytics-and-ai-can-help-you-build-a-better-customer-experience",
-      "originalUrl": "https://www.businessinsider.com/sc/how-analytics-and-ai-can-help-you-build-a-better-customer-experience",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63a34e92ae4bde0019503d8c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-23T10:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "IBM AI",
-        "AI Ethics"
       ]
     }
   ],

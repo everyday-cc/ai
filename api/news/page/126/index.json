@@ -2,6 +2,301 @@
   "page": 126,
   "value": [
     {
+      "path": "_news/2022-12-20-30-robotics-startups-to-watch.md",
+      "title": "30 Robotics Startups to Watch",
+      "excerpt": "The leading robotics devices use machine learning and artificial intelligence along with advanced mechanics, better navigations skills, and improved sensors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/enterprise-apps/robotics-startups/",
+      "originalUrl": "https://www.eweek.com/enterprise-apps/robotics-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/11/joshua-sortino-LqKhnDzSF-8-unsplash-scaled.jpg",
+          "width": 1920,
+          "height": 1283,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-19T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-20-stop-tinkering-with-ai.md",
+      "title": "Stop Tinkering with AI",
+      "excerpt": "AI initiatives at many organizations are too ... can), you may have to partner with a company such as Microsoft Azure, Amazon Web Services (AWS), or Google Cloud. Capital One, which has been ...",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2023/01/stop-tinkering-with-ai",
+      "originalUrl": "https://hbr.org/2023/01/stop-tinkering-with-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2022/11/R2301J_DOUCETTE-scaled.jpg",
+          "width": 2560,
+          "height": 1439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-19T11:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-19-automatically-retrain-neural-networks-with-renate.md",
+      "title": "Automatically retrain neural networks with Renate",
+      "excerpt": "Today we announce the general availability of Renate, an open-source Python library for automatic model retraining. The library provides continual learning algorithms able to incrementally train a neural network as more data becomes available. By open-sourcing Renate, we would like to create a venue",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automatically-retrain-neural-networks-with-renate/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automatically-retrain-neural-networks-with-renate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/19/automatically-retrain-neural-networks-renate.jpg",
+          "width": 2000,
+          "height": 998,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-19T09:55:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-19-create-amazon-sagemaker-models-using-the-pytorch-model-zoo.md",
+      "title": "Create Amazon SageMaker models using the PyTorch Model Zoo",
+      "excerpt": "Deploying high-quality, trained machine learning (ML) models to perform either batch or real-time inference is a critical piece of bringing value to customers. However, the ML experimentation process can be tedious—there are a lot of approaches requiring a significant amount of time to implement. That’s",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-models-using-the-pytorch-model-zoo/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-models-using-the-pytorch-model-zoo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/19/sagemaker-models-pytorch-model-zoo.jpg",
+          "width": 2000,
+          "height": 1001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-19T09:46:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-20-google-to-translate-doctors-handwritten-prescriptions-soon-check-details-here.md",
+      "title": "Google To Translate Doctor’s Handwritten Prescriptions Soon | Check Details Here",
+      "excerpt": "The AI tool will be created in Google Lens that can decode badly written medical notes. The company showcased the feature during its 'AI for India' event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.india.com/technology/google-to-translate-doctors-handwritten-prescriptions-soon-check-details-here-5812403/",
+      "originalUrl": "https://www.india.com/technology/google-to-translate-doctors-handwritten-prescriptions-soon-check-details-here-5812403/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.india.com/wp-content/uploads/2022/12/google-search-2022-list.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.india.com/technology/google-to-translate-doctors-handwritten-prescriptions-soon-check-details-here-5812403/amp/",
+      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/google-to-translate-doctors-handwritten-prescriptions-soon-check-details-here-5812403/amp/",
+      "publishedDateTime": "2022-12-19T08:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India.com",
+        "domain": "india.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-20-imagenai-which-uses-ai-to-personalize-photo-editing-styles-lands-30m.md",
+      "title": "ImagenAI, which uses AI to personalize photo editing styles, lands $30M",
+      "excerpt": "ImagenAI, a startup offering a service that uses AI to personalize photo editing styles and apply them at scale, has raised $30 million.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/19/imagenai-which-uses-ai-to-personalize-photo-editing-styles-lands-30m/",
+      "originalUrl": "https://techcrunch.com/2022/12/19/imagenai-which-uses-ai-to-personalize-photo-editing-styles-lands-30m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2016/07/travelphotography-shutterstock.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/19/imagenai-which-uses-ai-to-personalize-photo-editing-styles-lands-30m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/19/imagenai-which-uses-ai-to-personalize-photo-editing-styles-lands-30m/amp/",
+      "publishedDateTime": "2022-12-19T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-19-how-ai-avatars-and-face-filters-are-altering-our-conception-of-beauty.md",
       "title": "How AI Avatars And Face Filters Are Altering Our Conception Of Beauty",
       "excerpt": "By widening the gap between fantasy and reality, technology that generates the perfect self-image is raising our baseline of beauty. But at what cost?",
@@ -872,293 +1167,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-18-artificial-intelligence-in-healthcare-service-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028.md",
-      "title": "Artificial Intelligence In Healthcare Service Market 2023 : Production Capacity, Restring Drivers, Size and Landscape Outlook 2028",
-      "excerpt": "\" Artificial Intelligence In Healthcare Service Market \" Insights 2022 - By Applications (Patient Data and Risk Analysis, Lifestyle Management and Monitoring, Precision Medicine, In-Patient Care and Hospital Management,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-12-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-12-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-17T18:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-18-ai-art-death-of-creative-industry-or-its-savior.md",
-      "title": "AI art: Death of creative industry, or its savior?",
-      "excerpt": "The next stage of evolution for AI art will leverage the entirety of inspiration on tap — rather than just creative auto filling.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-art-death-of-creative-industry-or-its-savior/",
-      "originalUrl": "https://venturebeat.com/ai/ai-art-death-of-creative-industry-or-its-savior/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/halfway.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-art-death-of-creative-industry-or-its-savior/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-art-death-of-creative-industry-or-its-savior/amp/",
-      "publishedDateTime": "2022-12-17T17:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-18-chatgpt-is-proof-the-ai-chatbots-are-here-to-stay.md",
-      "title": "ChatGPT is proof the AI chatbots are here to stay",
-      "excerpt": "Chat GPT crashed. “I immediately feel like I lost 50 points of IQ,” tweeted one user. “Now I have to use search engines like cavemen did,” exclaimed",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/chatgpt-is-proof-the-ai-chatbots-are-here-to-stay-6jhd2fbgf?shareToken=ef7b4fa70be33e29af1e523c0621c38f",
-      "originalUrl": "https://www.thetimes.co.uk/article/chatgpt-is-proof-the-ai-chatbots-are-here-to-stay-6jhd2fbgf?shareToken=ef7b4fa70be33e29af1e523c0621c38f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F028dde28-7d61-11ed-a3d2-203363978915.jpg?crop=3000%2C1687%2C0%2C156&resize=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-17T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-18-get-ready-for-wireless-docking-monitors-architecture-wars-and-better-chip-supplies-synaptics-ceo.md",
-      "title": "Get ready for wireless docking monitors, architecture wars and better chip supplies | Synaptics CEO",
-      "excerpt": "Michael Hurlston, CEO of Synaptics, talked about the easing of the chip shortage and other tech topics ahead of CES.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/get-ready-for-wireless-docking-monitors-architecture-wars-and-better-chip-supplies-synaptics-ceo/",
-      "originalUrl": "https://venturebeat.com/ai/get-ready-for-wireless-docking-monitors-architecture-wars-and-better-chip-supplies-synaptics-ceo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/synaptics-6.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 831,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/get-ready-for-wireless-docking-monitors-architecture-wars-and-better-chip-supplies-synaptics-ceo/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/get-ready-for-wireless-docking-monitors-architecture-wars-and-better-chip-supplies-synaptics-ceo/amp/",
-      "publishedDateTime": "2022-12-17T08:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-17-microsoft-launches-real-time-voice-translation-in-skype.md",
-      "title": "Microsoft launches real-time voice translation in Skype",
-      "excerpt": "The new translation feature uses AI to automatically detect the languages being spoken during a video call and translate them in real time",
-      "sourceUrl": null,
-      "webUrl": "https://www.mid-day.com/technology/article/microsoft-launches-real-time-voice-translation-in-skype-23261056",
-      "originalUrl": "https://www.mid-day.com/technology/article/microsoft-launches-real-time-voice-translation-in-skype-23261056",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mid-day.com/images/images/2022/dec/apple-seventeen-dec_d.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mid-day.com/amp/technology/article/microsoft-launches-real-time-voice-translation-in-skype-23261056",
-      "cdnAmpWebUrl": "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/microsoft-launches-real-time-voice-translation-in-skype-23261056",
-      "publishedDateTime": "2022-12-17T04:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mid Day",
-        "domain": "mid-day.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-17-boston-startups-search-engine-uses-ai-to-make-dense-research-more-accessible.md",
-      "title": "Boston startup’s search engine uses AI to make dense research more accessible",
-      "excerpt": "Seattle’s Allen Institute for AI has operated Semantic Scholar, a website that summarizes the contents of academic research papers. And in mid-November, tech titan Meta, the parent of Facebook ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonglobe.com/2022/12/11/business/boston-startups-search-engine-uses-ai-make-dense-research-more-accessible/",
-      "originalUrl": "https://www.bostonglobe.com/2022/12/11/business/boston-startups-search-engine-uses-ai-make-dense-research-more-accessible/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/iN4c1Z23Z14GbbfM9Ponw6YDAQw=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/PEYHDJJQLZSQ6GCIZKNW5B4EQA.jpg",
-          "width": 506,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-17T00:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Boston Globe",
-        "domain": "bostonglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

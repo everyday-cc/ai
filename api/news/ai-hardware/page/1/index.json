@@ -347,6 +347,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-06-qualcomms-cloud-ai-100-bests-nvidias-artificial-intelligence-chip-in-some-test-data.md",
+      "title": "Qualcomm’s ‘Cloud AI 100’ Bests Nvidia’s Artificial Intelligence Chip in Some Test Data",
+      "excerpt": "Cards with Cloud AI 100 chips in a data center server. Image from Qualcomm video Artificial intelligence chips from San Diego’s Qualcomm beat those from Nvidia in two out of three measures of ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofsandiego.com/tech/2023/04/05/qualcomms-cloud-ai-100-beats-nvidias-best-artificial-intelligence-chip-in-new-test-data/",
+      "originalUrl": "https://timesofsandiego.com/tech/2023/04/05/qualcomms-cloud-ai-100-beats-nvidias-best-artificial-intelligence-chip-in-new-test-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://timesofsandiego.com/wp-content/uploads/2023/04/Cloud-AI-100-Server.jpg",
+          "width": 1125,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofsandiego.com/tech/2023/04/05/qualcomms-cloud-ai-100-beats-nvidias-best-artificial-intelligence-chip-in-new-test-data/",
+      "cdnAmpWebUrl": "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/tech/2023/04/05/qualcomms-cloud-ai-100-beats-nvidias-best-artificial-intelligence-chip-in-new-test-data/",
+      "publishedDateTime": "2023-04-05T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times of San Diego",
+        "domain": "timesofsandiego.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-06-google-reveals-its-newest-ai-supercomputer-says-it-beats-nvidia.md",
       "title": "Google reveals its newest A.I. supercomputer, says it beats Nvidia",
       "excerpt": "While Nvidia dominates the market for AI model training and deployment, with over 90%, Google has been designing and deploying a chip, called Tensor Processing Unit, for artificial intelligence ...",
@@ -1365,62 +1408,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-our-pick-of-the-best-artificial-intelligence-ai-stocks-and-shares.md",
-      "title": "Our Pick Of The Best Artificial Intelligence (AI) Stocks and Shares",
-      "excerpt": "While rumors of Google’s death might be greatly exaggerated, what’s clear is that Microsoft will no doubt benefit from the AI revolution due to the tools and services offered by its Azure cloud computing platform.” Its share price hit an all-time ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/in/investing/best-artificial-intelligence-ai-stocks-shares/",
-      "originalUrl": "https://www.forbes.com/advisor/in/investing/best-artificial-intelligence-ai-stocks-shares/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/03/pexels-alex-knight-2599244-1-scaled.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-23T05:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare",
-        "AI Hardware",
-        "AI in Robotics",
-        "AI in Autos"
       ]
     }
   ],

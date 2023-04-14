@@ -20,9 +20,9 @@ topics:
 
 related:
   - title: "First hands-free self-driving system approved for British motorways"
-    excerpt: "Ford said the technology, which is already in use in the US and similar to Tesla’s “self-driving” features, is the first time level 2 autonomy will be available for general use on UK roads outside trials. Level 2 is defined at partial automation ..."
-    publishedDateTime: 2023-04-14T09:50:00Z
-    webUrl: "https://www.theguardian.com/money/2023/apr/14/first-hands-free-self-driving-system-approved-for-british-motorways-ford-mustang?ref=biztoc.com"
+    excerpt: "System in Ford’s Mustang Mach-E allows motorist to remove grip from wheel but eyes must be kept on road"
+    publishedDateTime: 2023-04-14T10:10:00Z
+    webUrl: "https://www.theguardian.com/money/2023/apr/14/first-hands-free-self-driving-system-approved-for-british-motorways-ford-mustang"
     ampWebUrl: "https://amp.theguardian.com/money/2023/apr/14/first-hands-free-self-driving-system-approved-for-british-motorways-ford-mustang"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/money/2023/apr/14/first-hands-free-self-driving-system-approved-for-british-motorways-ford-mustang"
     type: article
@@ -34,6 +34,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/466e701e1d20c8cda00170e3dfbdbb7c64be37e7/61_3_1789_1074/master/1789.jpg?width=620&quality=85&auto=format&fit=max&s=822207dc3c1df22d43851b874fc2a830"
         width: 620
         height: 372
+        isCached: true
+  - title: "Self-driving car system approved for use on GB motorways by government"
+    excerpt: "Motorway drivers will be legally allowed to let go of a car's steering wheel for the first time, after the UK became the first European country to approve a hands-free system."
+    publishedDateTime: 2023-04-14T11:26:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2023/04/self-driving-car-system-approved-for-use-on-gb-motorways-by-government/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 24
+    images:
+      - url: "https://eandt.theiet.org/media/21166/ford-foe_bluecruise-graphic-hero.jpg?crop=0,0.1545732084910075,0,0.35323929150899247&cropmode=percentage&width=1200&height=450&rnd=133259450510000000"
+        width: 1200
+        height: 450
         isCached: true
 
 secured: "LGN27sIThHu389HmRuHoBFHrKB8nJJ7rqpXPPNGeM82lg4kmMvK9jAujszYg3HNKSerf5VNf6oAEt/0sDiH4yM45+qwmu8k2YN5aNBLcifhi9U8Bc5BzDjB3Htnf+HAZ7D+VPwbIyA4J3PqPNYiRM4vN6kSVIOlCHKQz57bzf1iValzscR9M4teTt66ASkq27FUtcHxGUPmJvyoSPOqnKaRgiSc/k98MGM96NOtB7NMSp2YtwWipNWNCgjuKd5CDLw/JLgZFohprwNA38eya2n1KrVzG448jJnG28AstnOGK4K0C6eHC1aVo+oFTRGbv8/8CYOqp611bhOalhECUuIPJU10QtEBNqxy4ko9Q0Jo=;xpNgNw+g3sbz8Pqw1fzOyQ=="

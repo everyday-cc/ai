@@ -2,6 +2,108 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-06-nvidias-h100-hopper-gpu-sweeps-mlperf-ai-inference-tests-with-huge-performance-uplift.md",
+      "title": "NVIDIA's H100 Hopper GPU Sweeps MLPerf AI Inference Tests With Huge Performance Uplift",
+      "excerpt": "The new GPU is based on NVIDIA's Hopper architecture and features a Transformer Engine design. \"The next level of Generative AI requires new AI infrastructure to train large language models with ...",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/nvidias-h100-hopper-gpu-sweeps-mlperf-ai-inference-tests-with-huge-performance-uplift",
+      "originalUrl": "https://hothardware.com/news/nvidias-h100-hopper-gpu-sweeps-mlperf-ai-inference-tests-with-huge-performance-uplift",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-hype-money-and-founders-san-franciscos-generative-ai-boom.md",
+      "title": "Hype, money and founders: San Francisco’s generative AI Boom",
+      "excerpt": "How ChatGPT and other generative AI technologies are shaking up the city's startup ecosystem and restarting the hype cycle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/sanfrancisco/inno/stories/inno-insights/2023/04/06/ai-boomtown.html",
+      "originalUrl": "https://www.bizjournals.com/sanfrancisco/inno/stories/inno-insights/2023/04/06/ai-boomtown.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-renesas-cellular-to-cloud-development-kits-now-connect-seamlessly-to-microsoft-azure-cloud-services.md",
+      "title": "Renesas Cellular-to-Cloud Development Kits Now Connect Seamlessly to Microsoft Azure Cloud Services",
+      "excerpt": "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that its cellular-to-cloud development kits powered by Renesas' 32-bit microcontrollers (MCUs) now fully support Microsoft's popular Azure cloud services.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/04/06/9790319.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/04/06/9790319.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-06-jon-rahm-four-putted-the-first-hole-at-the-masters-and-even-ibm-watson-was-speechless.md",
       "title": "Jon Rahm Four-Putted the First Hole at The Masters and Even IBM Watson Was Speechless",
       "excerpt": "So when faced with Rahm missing a very short putt for bogey the Masters' exclusive Artificial Intelligence commentary provided by IBM simply did not compute. Even Watson was speechless when Rahm ...",
@@ -855,117 +957,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-meta-to-launch-generative-ai-for-creating-ads-this-year-report.md",
-      "title": "Meta to Launch Generative AI for Creating Ads This Year: Report",
-      "excerpt": "In a recent interview, Meta’s chief technology officer Andrew Bosworth claimed the company is a generative AI research and development leader. Meta began studying AI in 2013 and has reportedly published dozens of studies in the field,",
-      "sourceUrl": null,
-      "webUrl": "https://247wallst.com/technology-3/2023/04/05/meta-to-launch-generative-ai-for-creating-ads-this-year-report/",
-      "originalUrl": "https://247wallst.com/technology-3/2023/04/05/meta-to-launch-generative-ai-for-creating-ads-this-year-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://247wallst.com/wp-content/uploads/2022/10/imageForEntry34-p12.jpg?w=400",
-          "width": 400,
-          "height": 224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://247wallst.com/technology-3/2023/04/05/meta-to-launch-generative-ai-for-creating-ads-this-year-report/amp/",
-      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2023/04/05/meta-to-launch-generative-ai-for-creating-ads-this-year-report/amp/",
-      "publishedDateTime": "2023-04-05T19:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "24/7 Wall St",
-        "domain": "247wallst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-application-development-software-market-size-to-reach-around-usd-11592-billion-by-2031-cagr-of-235.md",
-      "title": "Application Development Software Market Size To Reach Around USD 1159.2 Billion By 2031, CAGR Of 23.5%",
-      "excerpt": "Application Development Software Market Size Big Data Security positively impacts the growth of the application development software mark",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105953633/Application-Development-Software-Market-Size-To-Reach-Around-USD-11592-Billion-By-2031-CAGR-Of-235",
-      "originalUrl": "https://menafn.com/1105953633/Application-Development-Software-Market-Size-To-Reach-Around-USD-11592-Billion-By-2031-CAGR-Of-235",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T19:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-ai-vision-leader-chooch-launches-imagechat.md",
-      "title": "AI Vision Leader Chooch Launches ImageChat™",
-      "excerpt": "By leveraging both AI Vision and large language models, ImageChat significantly improves data reliability and accuracy, making it particularly useful for use cases that require object detection and detailed reasoning.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/04/06/9790646.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/04/06/9790646.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

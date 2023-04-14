@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver meaningful outcomes"
+    excerpt: "In our latest release for Microsoft Cloud for Healthcare, we’re excited to share how we can help your organization deliver exceptional patient and member experiences, and more."
+    publishedDateTime: 2023-04-12T15:14:00Z
+    webUrl: "https://www.microsoft.com/en-us/industry/blog/health/2023/04/12/microsoft-cloud-for-healthcare-empowering-healthcare-to-deliver-meaningful-outcomes/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 29
   - title: "Navigating AI Malpractice in Healthcare: Balancing Revolutionary Benefits and Growing Concerns"
     excerpt: "AI malpractice in healthcare raises concerns amid innovations, highlighting the need to address challenges and ensure patient safety"
     publishedDateTime: 2023-04-13T21:27:00Z

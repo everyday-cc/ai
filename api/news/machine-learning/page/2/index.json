@@ -2,6 +2,84 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-02-a-brief-history-of-artificial-intelligence.md",
+      "title": "A brief history of artificial intelligence",
+      "excerpt": "Multiple factors have driven the development of artificial intelligence (AI) over the years. The ability to swiftly and effectively collect and analyze enormous amounts of data has been made ...",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/a-brief-history-of-artificial-intelligence",
+      "originalUrl": "https://cointelegraph.com/news/a-brief-history-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-01-chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training.md",
+      "title": "ChatGPT neural network said it uses Moskovsky Komsomolets website for training",
+      "excerpt": "Chatbot with artificial intelligence ChatGPT said it used, among other things, the Moskovsky Komsomolets website for its training. In addition to MK, the",
+      "sourceUrl": null,
+      "webUrl": "https://www.easternherald.com/2023/04/01/chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training/",
+      "originalUrl": "https://www.easternherald.com/2023/04/01/chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.easternherald.com/cdn-cgi/image/width=550,height=412,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2023/04/ChatGPT-neural-network-said-it-uses-Moskovsky-Komsomolets-website-for.jpg",
+          "width": 550,
+          "height": 412,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.easternherald.com/2023/04/01/chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training/?amp=1",
+      "cdnAmpWebUrl": "https://www-easternherald-com.cdn.ampproject.org/c/s/www.easternherald.com/2023/04/01/chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training/?amp=1",
+      "publishedDateTime": "2023-04-01T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Eastern Herald",
+        "domain": "easternherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-01-ways-in-which-artificial-intelligence-and-machine-learning-is-changing-engineering-education.md",
       "title": "Ways in which artificial intelligence and machine learning is changing engineering education",
       "excerpt": "In recent years, the rapid advancement of technology has led to transformative changes across various industries. The field of engineering education is no exception, with artificial intelligence (AI) and machine learning (ML) technologies revolutionizing",
@@ -1348,92 +1426,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-machine-learning-in-manufacturing-market-global-strategic-business-report-2031.md",
-      "title": "Machine Learning in Manufacturing Market : Global Strategic Business Report 2031",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 21, 2023 (The Expresswire) -- “Machine Learning in Manufacturing Market” information for each competitor includes [ NVIDIA, Dell Inc., Oracle Corporation, SAS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-global-strategic-business-report-2031-2023-03-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-global-strategic-business-report-2031-2023-03-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-machine-learning-programs-predict-risk-of-death-based-on-results-from-routine-hospital-tests.md",
-      "title": "Machine Learning Programs Predict Risk of Death Based on Results From Routine Hospital Tests",
-      "excerpt": "Using ECG data, a new machine learning algorithm was able to predict death within 5 years of a patient being admitted to hospital with 87% accuracy. The AI was able to sort patients into 5 categories ranging from low to high risk of death.",
-      "sourceUrl": null,
-      "webUrl": "https://neurosciencenews.com/machine-learning-mortality-22838/",
-      "originalUrl": "https://neurosciencenews.com/machine-learning-mortality-22838/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neuroscience News",
-        "domain": "neurosciencenews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
