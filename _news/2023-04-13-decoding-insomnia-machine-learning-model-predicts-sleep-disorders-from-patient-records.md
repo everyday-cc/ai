@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep learning model estimating breast density could help with predicting cancer risk"
-    excerpt: "The researchers have developed a procedure that would estimate a density score upon feeding in a mammogram image as an input."
-    publishedDateTime: 2023-04-09T13:43:00Z
-    webUrl: "https://www.newindianexpress.com/lifestyle/health/2023/apr/09/deep-learning-model-estimating-breast-density-could-help-with-predicting-cancer-risk-2564259.html"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 12
   - title: "Machine learning methods may be effective in screening patients for sleep disorder risk"
     excerpt: "A machine learning model can effectively predict a patient's risk for a sleep disorder using demographic and lifestyle data, physical exam results and laboratory values, according to a new study published this week in the open-access journal PLOS ONE by Samuel Y."
     publishedDateTime: 2023-04-13T17:31:00Z
@@ -44,6 +35,6 @@ related:
       domain: news-medical.net
     quality: 11
 
-secured: "+duQwdTR9YY9c8AANUYd8szumTNjEaZUoSc+z1MHILFXnXkEZ4coutvcJ7bWGjstunIHBgmV1pS+AlSunXjV13BM4kSPzB5jFHCHBHzrOdGNAa5dG1zibOl8emodh/gLk3XtOYp7I3mrXcwEYSj337uqGdZa3Hozk5kFTG4fcqVg0a8TdDkTGrH++B8sEJnR8c51B+ZR/dHieIDYLMXDMU4Cq0i/mF9H/kT5rTK5yBwZJxx7XmMoICpRt2SNqTHIfUqm/1C8yMklshzFzyVapQnMbbos9QXnCHVAsHH359Hp8f7iSl0gw8RsWHGzjXXbD5nlQWfIsb4vW7r6KyhiGj/9YNWNv6k6PRZ6oHYh6Sk=;oY3RSwUGdzuushwZX9tzDQ=="
+secured: "lYnCQpH8qe+JG01M1hOhM9eIt4r7PgG8/PPbjE7+5YywHG6tRgfQko+W1a5hEIixfVhdOnfFgDJa7kviMxisOI5zKPeA0tVZeZ8d1/Wk4M0JTc1v4mQ0y56S9mtPnrz8nBEYBAuqyyPs6sySlxfTOoYMnSNafoBywtQUQ/N40BI/56AQUAApniAaQ3BVLbkgrvaT+RhftiuKkizGCaGIJBu0iG6pCRRd89pGr0feCIhWLcSoCGCsiIBRSNfNL6LAQ5Ax5tEdN9wVDL2wdL19788IVGI2imkmvRb2a3cDmJOIGntcAra5LQ4dfQZ14gPYoFoYO5oNLakxnnm8YT70h0CIoqYMse7g2vzI1ibY6oeAtH6UJQ6P/B99QqCvlVNKyZeGJNajyRyO+Xdh4XM4i9IaYj6Z7UFkTvjYX2xw+OrCQv/jb4Wv3OHQW9kIEg89kr0n3fyEacGW/Q1KblhqelRlTiScHOCAOyjStiW2/MX8Np5AVzj3g3Q4MlOSu2IxPHuEA38lsgte/3BOyoXZRA==;OVw6JPO6DQ5MuCCmZtRHNQ=="
 ---
 

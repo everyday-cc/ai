@@ -23,56 +23,74 @@ topics:
   - AI
 
 related:
-  - title: "GPU for Deep Learning Market 2023 Size and Forecast to 2031"
-    excerpt: "GPU for Deep Learning Marketinformation for each competitor includes (Amazon, Microsoft, Google, Fancy Startup, Intel,"
-    publishedDateTime: 2023-04-10T01:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-2023-size-and-forecast-to-2031-2023-04-09"
+  - title: "2023-2030 Artificial Intelligence (AI) Market Size and Share Trends"
+    excerpt: "Global \"Artificial Intelligence (AI) Market\" research report provides Innovative Insights on the Strategies adopted by Major Global Players [Nvidia Corporation, Banjo, Megvii Technology Limited, Microsoft Corporation,"
+    publishedDateTime: 2023-04-12T16:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2030-artificial-intelligence-ai-market-size-and-share-trends-2023-04-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
-  - title: "Machine Learning-as-a-Service (MLaaS) Market Forecasts 2023-2029"
-    excerpt: "There are many different sources of market data, including government statistics, industry reports, financial news, and market research firms. Some of the key types of data that are available from the global Machine Learning-as-a-Service (MLaaS ..."
-    publishedDateTime: 2023-04-10T09:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-forecasts-2023-2029-2023-04-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-  - title: "Artificial Intelligence in Computer Networks Market | Industry Size Forecast To 2030"
-    excerpt: "The latest market research report on the Global \"Artificial Intelligence in Computer Networks Market\" is segmented"
-    publishedDateTime: 2023-04-13T21:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-industry-size-forecast-to-2030-2023-04-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
+    quality: 84
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech Recognition Market Key Players and Forecast till 2031"
-    excerpt: "The latest market research report on the Global \"Speech Recognition Market\" is segmented by Regions, Country, Company"
-    publishedDateTime: 2023-04-13T05:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-key-players-and-forecast-till-2031-2023-04-13"
+  - title: "AI in Computer Vision Market Size Projection by 2030"
+    excerpt: "Apr (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The AI in Computer Vision Market report"
+    publishedDateTime: 2023-04-12T09:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-projection-by-2030-2023-04-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+  - title: "Advantages Of Artificial Intelligence (AI) In 2023"
+    excerpt: "To become successful in any kind of business, all you need is accurate collection of data, easy processing, adequate analytics, which further forms the backbone of decision-making and is required for vital insights."
+    publishedDateTime: 2023-04-11T14:42:00Z
+    webUrl: "https://www.forbes.com/advisor/in/business/software/advantages-of-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 62
+  - title: "2023, \"Artificial Intelligence (AI) in Education Market\" to Experience a Significant Increase in Revenues by 2030"
+    excerpt: "Artificial Intelligence (AI) in Education Market Size With forecast period 2023-2030 | New Report (123 Pages) |"
+    publishedDateTime: 2023-04-12T06:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-ai-in-education-market-to-experience-a-significant-increase-in-revenues-by-2030-2023-04-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+  - title: "AI in Fintech Market Growth and Forecast till 2031"
+    excerpt: "The latest market research report on the Global \"AI in Fintech Market\" is segmented by Regions, Country, Company and"
+    publishedDateTime: 2023-04-13T06:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-growth-and-forecast-till-2031-2023-04-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-  - title: "\"Data Science and Machine Learning Service Market\" Size 2023 Will Grow Rapidly Another Level in The Forthcoming Year 2030"
-    excerpt: "Data Science and Machine Learning Service Market Size With forecast period 2023-2030 | New Report (102 Pages) |"
-    publishedDateTime: 2023-04-12T06:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-size-2023-will-grow-rapidly-another-level-in-the-forthcoming-year-2030-2023-04-12"
+  - title: "Artificial Intelligence In Security Market 2023 Highlights, Recent Trends, Market Growth And Opportunities"
+    excerpt: "Additionally, this report evaluates technological advances made by leading players in the market and provides information on the key trends, advancements, and strategies employed by these leading companies."
+    publishedDateTime: 2023-04-13T06:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-2023-highlights-recent-trends-market-growth-and-opportunities-2023-04-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 24
+    quality: 48
+  - title: "Global Artificial Intelligence Robots Market Analysis by Size, Share, Key Drivers, Growth Opportunities and Global Trends 2030"
+    excerpt: "Sarasota, FL, The Artificial Intelligence Robots Market size and share revenue growth report, presents an analytical"
+    publishedDateTime: 2023-04-10T12:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-robots-market-analysis-by-size-share-key-drivers-growth-opportunities-and-global-trends-2030-2023-04-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
 
 secured: "FZb2OSlSc8kumaEgKnxMq1CI/xyN3uydVcfBhrYjO8AAsBsOFwGyVhaQ4+Y3aMuGDo9DM1HuxYlnivlTn+OUrw6SN5D54s6ojqNAngEdKoiV3gyAcvoECkBTMxglej/eJeRjEIYzFmdoQy0X1AHrGH6Zhw/X1OW4bK80KaPDWPtvWXBoOsnNzJMwxyNpeqS+KsEgkvkEECciYVxZWnpFhrgXmXalUlExppTg3pWJsSTJDFMIC3EvHxm/TgNQ7z4CZRBWBEbpxFZo5uwfSEyJFjKURafl0bDFYVR0tbYxvPzuXTHKxY9vPlGnr4IKWng2pMIXVVsc5VwntCK5ZtG2mAx+bzTXchLcrV6rE2IZhiw=;oa32YRd9ARWTwBbrSljJMQ=="
 ---

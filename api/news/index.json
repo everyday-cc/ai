@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-14-chatgpt-cheat-sheet-complete-guide-for-2023.md",
+      "title": "ChatGPT cheat sheet: Complete guide for 2023",
+      "excerpt": "Learn everything from how to sign up for free to enterprise use cases, and start using ChatGPT quickly and effectively.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/chatgpt-cheat-sheet/",
+      "originalUrl": "https://www.techrepublic.com/article/chatgpt-cheat-sheet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/04/chatgpt-adobe-stock-irissca.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/chatgpt-cheat-sheet/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/chatgpt-cheat-sheet/amp/",
+      "publishedDateTime": "2023-04-13T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-14-amazons-andy-jassy-says-artificial-intelligence-will-be-a-big-deal-for-company.md",
       "title": "Amazon’s Andy Jassy Says Artificial Intelligence Will Be A ‘Big Deal’ For Company",
       "excerpt": "The Seattle company will continue to invest in specialized chips most used for machine learning, its advertising business as well as generative AI tools",
@@ -53,7 +105,7 @@
       "originalUrl": "https://venturebeat.com/ai/mind-your-language-risks-using-ai-powered-chatbots-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 188,
       "tags": null,
       "images": [
         {
@@ -389,6 +441,57 @@
       ]
     },
     {
+      "path": "_news/2023-04-13-artificial-intelligence-market-in-2023unlocking-promising-opportunities-by-2030.md",
+      "title": "Artificial Intelligence Market in 2023|Unlocking Promising Opportunities by 2030",
+      "excerpt": "Apr 13, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry. This report conducts a",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-in-2023unlocking-promising-opportunities-by-2030-2023-04-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-in-2023unlocking-promising-opportunities-by-2030-2023-04-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-13-5-takeaways-from-the-early-days-of-ibm-partner-plus.md",
       "title": "5 takeaways from the early days of IBM Partner Plus",
       "excerpt": "The past three months have been transformative for the IBM Ecosystem. Our investment in the ecosystem is deeper than ever before, and momentum is accelerating across all partner types as they continue to scale and innovate. This demonstrates their commitment to clients, deep expertise and hunger to collaborate",
@@ -515,49 +618,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-13-very-edge-ai-chipset-market-2023-2030-industry-overview-and-ongoing-opportunity.md",
-      "title": "Very Edge AI Chipset Market 2023-2030 Industry Overview and Ongoing Opportunity",
-      "excerpt": "The Very Edge AI Chipset Market (2023-2030) Updated Latest Research Report is divided into various types [GPU, ASIC,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/very-edge-ai-chipset-market-2023-2030-industry-overview-and-ongoing-opportunity-2023-04-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/very-edge-ai-chipset-market-2023-2030-industry-overview-and-ongoing-opportunity-2023-04-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-13-nvidia-stock-fell-when-it-introduced-a-cheaper-ai-enhanced-gpu.md",
       "title": "Nvidia Stock Fell When It Introduced a Cheaper AI-enhanced GPU",
       "excerpt": "Despite releasing a new and cheaper GPU that uses AI, Nvidia ( NASDAQ:NVDA) fell by slightly more than 1% on Wednesday. In a statement, Nvidia stock announced that the new GeForce RTX 4070 utilizes the Ada Lovelace architecture and can make DLSS-3 neural rendering and real-time ray-tracing technologies accessible to “millions.",
@@ -597,6 +657,58 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-12-2023-2030-artificial-intelligence-ai-market-size-and-share-trends.md",
+      "title": "2023-2030 Artificial Intelligence (AI) Market Size and Share Trends",
+      "excerpt": "Global \"Artificial Intelligence (AI) Market\" research report provides Innovative Insights on the Strategies adopted by Major Global Players [Nvidia Corporation, Banjo, Megvii Technology Limited, Microsoft Corporation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/2023-2030-artificial-intelligence-ai-market-size-and-share-trends-2023-04-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/2023-2030-artificial-intelligence-ai-market-size-and-share-trends-2023-04-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-12T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -738,49 +850,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-12-ai-in-computer-vision-market-size-projection-by-2030.md",
-      "title": "AI in Computer Vision Market Size Projection by 2030",
-      "excerpt": "Apr (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The AI in Computer Vision Market report",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-projection-by-2030-2023-04-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-projection-by-2030-2023-04-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-12-the-future-of-healthcare-is-data-driven.md",
       "title": "The future of healthcare is data-driven",
       "excerpt": "As analytics tools and machine learning capabilities mature, healthcare innovators are speeding up the development of enhanced treatments supported by Azure’s GPU-accelerated AI infrastructure powered by NVIDIA.",
@@ -824,58 +893,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-12-up-fintech-unveils-tigergpt-the-industrys-first-ai-investment-assistant.md",
-      "title": "UP Fintech unveils TigerGPT, the industry's first AI investment assistant",
-      "excerpt": "UP Fintech unveils TigerGPT, the industry's first AI investment assistant Apr 12, 2023 (PRNewswire via COMTEX) -- PR Newswire NEW YORK, April 12,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/up-fintech-unveils-tigergpt-the-industrys-first-ai-investment-assistant-2023-04-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/up-fintech-unveils-tigergpt-the-industrys-first-ai-investment-assistant-2023-04-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-12-speech-and-voice-recognition-market-is-booming-worldwide-throughout-2023-2030.md",
       "title": "Speech and Voice Recognition Market is Booming Worldwide Throughout 2023-2030",
       "excerpt": "The Global Speech and Voice Recognition Market is Forecasted to Reach a Multimillion-Dollar Valuation by 2030, Exhibiting an Unexpected CAGR During the Forecast Period of 2023-2030, as Compared to Data from 2016 to 2022.",
@@ -884,7 +901,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-is-booming-worldwide-throughout-2023-2030-2023-04-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1101,29 +1118,29 @@
       ]
     },
     {
-      "path": "_news/2023-04-11-advantages-of-artificial-intelligence-ai-in-2023.md",
-      "title": "Advantages Of Artificial Intelligence (AI) In 2023",
-      "excerpt": "To become successful in any kind of business, all you need is accurate collection of data, easy processing, adequate analytics, which further forms the backbone of decision-making and is required for vital insights.",
+      "path": "_news/2023-04-11-global-executives-and-ai-strategy-for-hr-how-to-tackle-bias-in-algorithmic-ai.md",
+      "title": "Global executives and AI strategy for HR: How to tackle bias in algorithmic AI",
+      "excerpt": "The move towards monitoring HR tools and applications for bias is gaining traction worldwide, driven by various global and domestic data privacy laws and the US Equal Employment Opportunity Commission (EEOC). In line with this trend, the New York City Council has enacted new regulations requiring organizations",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/in/business/software/advantages-of-ai/",
-      "originalUrl": "https://www.forbes.com/advisor/in/business/software/advantages-of-ai/",
+      "webUrl": "https://www.ibm.com/blog/global-executives-and-ai-strategy-for-hr-how-to-tackle-bias-in-algorithmic-ai/",
+      "originalUrl": "https://www.ibm.com/blog/global-executives-and-ai-strategy-for-hr-how-to-tackle-bias-in-algorithmic-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 95,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T07:42:00-07:00",
+      "publishedDateTime": "2023-04-11T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "IBM",
+        "domain": "ibm.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1139,6 +1156,7 @@
         "news"
       ],
       "topics": [
+        "IBM AI",
         "AI"
       ]
     }

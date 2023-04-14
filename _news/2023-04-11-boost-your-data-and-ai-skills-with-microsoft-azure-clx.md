@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/boost-your-data-and-ai-skills-wit
 webUrl: "https://azure.microsoft.com/blog/boost-your-data-and-ai-skills-with-microsoft-azure-clx/"
 type: article
 quality: 99
-heat: 219
+heat: 239
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 63
+  - title: "Microsoft integrates Bing's AI into Swiftkey, Skype, Start apps"
+    excerpt: "After launching the new Bing experience earlier this year, Microsoft has been trying to bring the search engine's AI features to its products."
+    publishedDateTime: 2023-04-14T06:11:00Z
+    webUrl: "https://www.ibtimes.co.uk/microsoft-integrates-bings-ai-swiftkey-skype-start-apps-1715133"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 54
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1710519/microsoft-signage-seen-companys-headquarters-redmond.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Improve supply chain security and resiliency with Microsoft"
     excerpt: "The Microsoft Supply Chain Platform was just launched to help companies protect their supply chains against cyber threats."
     publishedDateTime: 2023-04-13T15:00:00Z
@@ -82,6 +96,17 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 49
+  - title: "Microsoft integrates Bing AI features into Skype, Swiftkey and Start app on mobile"
+    excerpt: "Microsoft has announced the integration of Bing AI features into SwiftKey on Android and iOS, improving functions such as chat, tone and search. The tech giant, soon after launching its AI-powered Security Copilot, a new assistant for cyber professionals, began exploring ads in Bing Chat."
+    publishedDateTime: 2023-04-14T07:02:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-integrates-bing-ai-features-into-skype-swiftkey-and-start-app-on-mobile/article66736446.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-integrates-bing-ai-features-into-skype-swiftkey-and-start-app-on-mobile/article66736446.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-integrates-bing-ai-features-into-skype-swiftkey-and-start-app-on-mobile/article66736446.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 48
   - title: "Amazon taking on Microsoft and Google in AI race"
     excerpt: "AWS, which sells on-demand computing power and software tools — including a suite of machine-learning applications — had previously partnered with artificial intelligence companies including Hugging Face Inc. and Stability AI, which builds the image ..."
     publishedDateTime: 2023-04-14T05:56:00Z

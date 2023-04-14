@@ -37,14 +37,19 @@ related:
       domain: crn.com
     quality: 51
   - title: "Amazon's Jassy says AI will be a 'big deal' for company"
-    excerpt: "Jassy signaled confidence the company will get costs under control in his annual letter to shareholders, Thursday,. The company has spent the past few months cutting unprofitable parts of its business,"
-    publishedDateTime: 2023-04-13T18:34:00Z
-    webUrl: "https://www.chron.com/business/article/amazon-s-jassy-says-ai-will-be-a-big-deal-for-17895211.php"
+    excerpt: "Amazon CEO Andy Jassy signaled confidence the company will get costs under control in his annual letter to shareholders. The company has spent the past few months cutting unprofitable parts"
+    publishedDateTime: 2023-04-14T06:15:00Z
+    webUrl: "https://tulsaworld.com/article_1de0734d-3270-5d4d-9412-563c95fac755.html"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 17
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/8/a8/8a89335f-93e7-54fe-ba0e-dedaee0ac782/6438140e396b6.image.jpg?crop=1751%2C919%2C0%2C131&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "hfPB+gV0u3kM1tgASRvRQQEsM21qHAJYP40dO+j6/NQcwk1lC2KnOsT07IFHoHSvjMOWgh85wiDLb4C5O6H6LwtpTvRFofLVsIDuJ2vgE4mb2p7rWoYowgrMiWNzAkUOAtNvCKe8YgD+MqJotEWgz6hQ35Qm4V3rl+KRvzU39hePxawjeJE0AcRMC39dvXSz1kCHGd0YYXJIYaRUsqciKeosjDQjRUNvhsrT7DFtDLG1WcuLqHOwaOT2S88HiG0dDIFOcP3gP2bx/Z7ra7EQSzTvdoRcrxDllpLYcYM8v/IAW62/Jamc25QSh2+itHFwOpxm8Ulqfwy0UMyZnbxgdVIgC4mhPwmc0KaheeBThuw=;01hD2q1tkzDP16vx6o1riA=="
 ---

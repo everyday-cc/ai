@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/advisor/in/business/software/advantages-of-
 webUrl: "https://www.forbes.com/advisor/in/business/software/advantages-of-ai/"
 type: article
 quality: 62
-heat: 72
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -22,6 +22,29 @@ topics:
   - AI
 
 related:
+  - title: "2023-2030 Artificial Intelligence (AI) Market Size and Share Trends"
+    excerpt: "Global \"Artificial Intelligence (AI) Market\" research report provides Innovative Insights on the Strategies adopted by Major Global Players [Nvidia Corporation, Banjo, Megvii Technology Limited, Microsoft Corporation,"
+    publishedDateTime: 2023-04-12T16:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2030-artificial-intelligence-ai-market-size-and-share-trends-2023-04-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Computer Vision Market Size Projection by 2030"
+    excerpt: "Apr (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The AI in Computer Vision Market report"
+    publishedDateTime: 2023-04-12T09:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-projection-by-2030-2023-04-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
   - title: "2023, \"Artificial Intelligence (AI) in Education Market\" to Experience a Significant Increase in Revenues by 2030"
     excerpt: "Artificial Intelligence (AI) in Education Market Size With forecast period 2023-2030 | New Report (123 Pages) |"
     publishedDateTime: 2023-04-12T06:46:00Z
@@ -31,6 +54,42 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+  - title: "Artificial Intelligence (AI) Software Market Size, Share and Forecast till 2031"
+    excerpt: "The latest market research report on the Global \"Artificial Intelligence (AI) Software Market\" is segmented by"
+    publishedDateTime: 2023-04-13T05:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-software-market-size-share-and-forecast-till-2031-2023-04-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+  - title: "AI in Fintech Market Growth and Forecast till 2031"
+    excerpt: "The latest market research report on the Global \"AI in Fintech Market\" is segmented by Regions, Country, Company and"
+    publishedDateTime: 2023-04-13T06:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-growth-and-forecast-till-2031-2023-04-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+  - title: "Artificial Intelligence In Security Market 2023 Highlights, Recent Trends, Market Growth And Opportunities"
+    excerpt: "Additionally, this report evaluates technological advances made by leading players in the market and provides information on the key trends, advancements, and strategies employed by these leading companies."
+    publishedDateTime: 2023-04-13T06:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-2023-highlights-recent-trends-market-growth-and-opportunities-2023-04-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+  - title: "Global Artificial Intelligence Robots Market Analysis by Size, Share, Key Drivers, Growth Opportunities and Global Trends 2030"
+    excerpt: "Sarasota, FL, The Artificial Intelligence Robots Market size and share revenue growth report, presents an analytical"
+    publishedDateTime: 2023-04-10T12:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-robots-market-analysis-by-size-share-key-drivers-growth-opportunities-and-global-trends-2030-2023-04-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
 
 secured: "Zzc9JkJ5LRQtljGkZ6LXcw9WS5AalnFdEe89ePYDyzx1X5Pqv6m2Za0OI8Xo4VWJ7vqLnhev153hj5TBFUrCpuuJGPcxQNXfFESBAAZZqafwztPuxIX+MDf4T/Vyo+xpXZSrXVslnyWABOlKlYsXFqvTrpV8XnY6kNs5ePnpUFP5prqzVyXqhIHfvIAfyRwFhl2+hkM3Bn+FtaMD5F1J5Nggnotdzj4f6+dN4XX5p2aW+698XVh3JNzw8SPX7FTcRZtU3z8rEB6pwoRoOwgwxen9jWy8ZqN4IB8o0pLCUEkG0Kj3x5o6DUXz9d//bLSe9TxE7ng6rltN4Twae8q+Md/SSLPYFhOcJVsaLJTmI+Y3DIs7FmMa9OtoT/3dSTm97T198SR2jZGRgteWnkJCuXeGfkbGQsRB+vL08h69820UAl9m3hp7+GcXn84Q216ArHYq6a/sMzMg4qdWL5F7fKwh6FhVCL9mfL9QywrVQoIL4YG9iyMh5hWuD1+5EU+bUR7g2jP3bi30VfsiSQkDhA==;be0bfQCJzue73oJVTKPu1g=="
 ---

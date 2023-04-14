@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-04-04-cognitive-computing-market-is-anticipated-to-reach-us-32-trillion-in-2032-report-by-fmi.md",
+      "title": "Cognitive Computing Market is Anticipated to Reach US$ 3.2 Trillion in 2032 | Report by FMI",
+      "excerpt": "According to a recent study done by FMI, the cognitive computing market is expected to reach US$ 3.2 Trillion by 2032, up from US$ 257.1 Billion in 2022, expanding at a high CAGR of 28.7%. This study explains that the key factors such as the rise in big data analytics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fmiblog.com/2023/04/04/cognitive-computing-market-is-anticipated-to-reach-us-3-2-trillion-in-2032-report-by-fmi/",
+      "originalUrl": "https://www.fmiblog.com/2023/04/04/cognitive-computing-market-is-anticipated-to-reach-us-3-2-trillion-in-2032-report-by-fmi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T20:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Future Market Insights",
+        "domain": "fmiblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-04-azure-our-ai-platform.md",
       "title": "Azure: Our AI Platform",
       "excerpt": "Since 2016, Microsoft has committed to building Azure into an AI supercomputer for the world, serving as the foundation of our vision to democratize AI as a platform. Through our initial investment and collaboration, Microsoft and OpenAI pushed the ...",
@@ -814,6 +848,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-03-ai-platform-equbot-chooses-digitas-india-for-its-digital-and-media-mandate.md",
+      "title": "AI platform ‘EquBot’ chooses Digitas India for its digital and media mandate",
+      "excerpt": "Digitas will focus on creating effective messaging structures for EquBot's audience, developing the digital interface and generating leads via communication and paid media| Advertising News",
+      "sourceUrl": null,
+      "webUrl": "https://bestmediainfo.com/2023/04/ai-platform-equbot-chooses-digitas-india-for-its-digital-and-media-mandate",
+      "originalUrl": "https://bestmediainfo.com/2023/04/ai-platform-equbot-chooses-digitas-india-for-its-digital-and-media-mandate",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bestmediainfo.com/uploads/2023/04/1680499306.EquBot.jpg",
+          "width": 620,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bestmediainfo.com/amp/2023/04/ai-platform-equbot-chooses-digitas-india-for-its-digital-and-media-mandate",
+      "cdnAmpWebUrl": "https://bestmediainfo-com.cdn.ampproject.org/c/s/bestmediainfo.com/amp/2023/04/ai-platform-equbot-chooses-digitas-india-for-its-digital-and-media-mandate",
+      "publishedDateTime": "2023-04-02T22:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Best Media",
+        "domain": "bestmediainfo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-03-the-moratorium-on-neural-networks-is-a-continuation-of-us-sanctions-against-russia-and-an-adventure-similar-to-the-world-quarantine.md",
       "title": "The moratorium on neural networks is a continuation of US sanctions against Russia and an adventure similar to the world quarantine.",
       "excerpt": "I continue to deeply study the opinions of published experts about the moratorium on expanding the introduction of artificial intelligence in the world. I come to the conclusion that these opinions are not convincing,",
@@ -844,74 +921,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-demand-for-speech-recognition-market-in-automotive-growing-rapidly-says-latest-report-by-allied-market-research.md",
-      "title": "Demand For Speech Recognition Market In Automotive Growing Rapidly, Says Latest Report By Allied Market Research",
-      "excerpt": "PORTLAND, OR, UNITED STATES, April 3, 2023 /einpresswire.com / -- The Allied Market Research, the global Speech Recognition Market study summarizes competitor analysis, business trends ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105931791/Demand-For-Speech-Recognition-Market-In-Automotive-Growing-Rapidly-Says-Latest-Report-By-Allied-Market-Research",
-      "originalUrl": "https://menafn.com/1105931791/Demand-For-Speech-Recognition-Market-In-Automotive-Growing-Rapidly-Says-Latest-Report-By-Allied-Market-Research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-02T21:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-a-sensor-that-might-someday-enable-mind-controlled-robots.md",
-      "title": "A sensor that might someday enable ‘mind-controlled’ robots",
-      "excerpt": "It sounds like something from science fiction: Don a specialized, electronic headband and control a robot using your mind. But now, recent research published in ACS Applied Nano Materials has taken a step toward making this a reality. By designing a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.acs.org/pressroom/presspacs/2023/april/sensor-might-someday-enable-mind-controlled-robots.html",
-      "originalUrl": "https://www.acs.org/pressroom/presspacs/2023/april/sensor-might-someday-enable-mind-controlled-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C&EN",
-        "domain": "acs.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -34,15 +34,22 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
-  - title: "Unlocking AI Use Cases In Financial Services"
-    excerpt: "One of the biggest questions in financial services is how the evolving role of generative AI will impact creatives and marketers. On the downside, AI doesn’t have a filter, so pulling from the internet-at-large can result in some less-than-desirable content being showcased. AI is ready to supplement human writers, not replace them."
-    publishedDateTime: 2023-04-12T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/12/unlocking-ai-use-cases-in-financial-services/"
+  - title: "Generative Agents, the next frontier of Artificial Intelligence, is bringing virtual worlds to life"
+    excerpt: "Generative agents are computational software agents that simulate human behaviour with the help of artificial intelligence."
+    publishedDateTime: 2023-04-14T05:57:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/what-are-generative-agents-8555754/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/what-are-generative-agents-8555754/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/what-are-generative-agents-8555754/lite/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 45
+    images:
+      - url: "https://images.indianexpress.com/2023/04/What-are-Generative-Agents.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
     publishedDateTime: 2023-04-12T23:27:00Z

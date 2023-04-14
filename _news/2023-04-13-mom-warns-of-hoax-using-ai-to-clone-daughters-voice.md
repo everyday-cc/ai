@@ -44,12 +44,12 @@ related:
         isCached: true
   - title: "Kidnapping scam uses artificial intelligence to clone teen girl's voice, mother issues warning"
     excerpt: "There is a new scam using artificial intelligence to clone voices. Arizona mother Jennifer DeStefano shared her story of a kidnapping hoax that sounded all too real. Jennifer said when she recently received a call from an unknown number,"
-    publishedDateTime: 2023-04-13T23:42:00Z
-    webUrl: "https://abc7chicago.com/ai-voice-generator-artificial-intelligence-kidnapping-scam-detector/13122645/"
+    publishedDateTime: 2023-04-13T19:35:00Z
+    webUrl: "https://abc30.com/ai-voice-generator-artificial-intelligence-kidnapping-scam-detector/13122645/"
     type: article
     provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
+      name: ABC30 Action News
+      domain: abc30.com
     quality: 25
     images:
       - url: "https://cdn.abcotvs.com/dip/images/13122757_041323-wls-N1-ai-kidnap-scam-pkg-vid.jpg?w=1600"
@@ -57,6 +57,6 @@ related:
         height: 900
         isCached: true
 
-secured: "X4xDRnGBpNlgyA2LcfIXwIjrRMffG4vfkRGrNODSl0xnIWBHumWvY//HnIUZvVLtAyQ0PdQXnj3LCJAf6NNjWm5603/o/QrJTj+7MvEWBT188mcI+g4OJyP8MSqwiurCfJFh3wOasWwlPhAKgVlrF0ZLBhQWS4KSA/vgfaVfOipvbOl5C8E3QJaX6G4FR0K9qTemL/6kuaX+7Fqd3HbLN2i5Y8GIjIiqyx1jvdecUFlWX+XIepIjlWZyTwVJRVsj+Q/tR5wVj6tTYvsC8X1WchGWD0yxy+wV3Qm6AfCrNtqAcN3Wbpa3zuFzqqf8iOby1y/3CbWuKSswRR6sk7GBXPYuLR4TvQKV+sVybD+Q6bg=;okgaNfi+LhlxC153nfV33A=="
+secured: "3OXQUyqcycvWK+V8aclOSbtd6fbnOnikuRsZQd+S/y2LDeX/uW7HMda2DzL/A2v5FC5S/l55Q7JTm69krmzVx8JmHmzeD2UDcGxyqzF7sLguuqO3St1YLzFC30gvQRIQiuNBpl8zHO0szkktUD6YtwaUiaQc7ODYIv+HxgeIyXIraxP9pY0ffJLBG2Gx+jbKNmxc4iDYSVo1E/gsh5Y4kHqmY0mXvf+WYCVWnQ65C0rfE0xUZzKhm2nH2TnRojQT0Fv3A6WBDHq2HRZsN+soG0BheE6Sc/OxsQrAER+4J0aLzDiKcqLBXF7pPKzak3XDI0rFVzAPrmswAmGgoL332f2PTU9uuR/V44E6W0OxfjtztVb9DeKT9puqi7HFiniJVYcf2+wBPuZjyaDiD5JeTNcvegAjMMHAVa7lHEdYspEQR+jWWRBzpP6Y3qHkZmASgrKpPBw2qIoyhyPWS5GTrumSMsV2PsiU7B+WJX0/xS88EKGWlXQwqHn2xW3zeITwEGEg5QHov0iSzV07tVNl6Q==;FILW+6votkVogQfC3c6cbg=="
 ---
 

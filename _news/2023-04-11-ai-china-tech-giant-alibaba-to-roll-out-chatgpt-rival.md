@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/business-65236848.amp"
 webUrl: "https://www.bbc.com/news/business-65236848.amp"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "ChatGPT cheat sheet: Complete guide for 2023"
+    excerpt: "Learn everything from how to sign up for free to enterprise use cases, and start using ChatGPT quickly and effectively."
+    publishedDateTime: 2023-04-14T04:00:00Z
+    webUrl: "https://www.techrepublic.com/article/chatgpt-cheat-sheet/"
+    ampWebUrl: "https://www.techrepublic.com/article/chatgpt-cheat-sheet/amp/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/chatgpt-cheat-sheet/amp/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 74
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/04/chatgpt-adobe-stock-irissca.jpg"
+        width: 1400
+        height: 933
+        isCached: true
 
 secured: "Vvjz0x7i7Z+wf7+y1w2JnCbylU6cb37cIdKxb85EqUnCZ6UXlj6MgEWn3jQm4RTeA4e8VcVWeiFnvtM0xHb0JAqk0NtIuzUri/tQrob4FPywQlMjLpR5hkhHFiYBgCjgrczU684U9bLn8ysAGr2v/FlCmN932IueqOa5heQM/nyCktzlEIdXvcISC71lfwUb/6y7vf5wCKXHXE5GWL3F5N4i9jvSVqDn+lldl/2we0EzeCo93HvPrB89GvuRkGHAh7w9P5kk/jEOP0+zzzOt92e1YvevHYcIzALUgXgYiKHpuMdeebU/lRat9Ym33wb2OU5CXrJkAgxFFA5rTdfpv96YHzNGGc9FwqGbnRz9xUXD5oOCgEXxSb0BXf3oGcN3xQcylpgCRVchDtgRQahVgKFPDjwMSHNclfsCEnRCaO2oHB0wlaUg9gDtbwjIhQAn1MiScJ9cxhx8FiI6OLsHIMWffOxkxNOAYFRNELPXe8kWx6TTgqgkodOSZSnIlTtptAil3XGt29iIVOqW3ObFUA==;C0dkgZxmUUsTUe59CTZ9vg=="
 ---
