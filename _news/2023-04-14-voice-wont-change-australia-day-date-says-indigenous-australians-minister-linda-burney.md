@@ -26,6 +26,17 @@ images:
     height: 382
     isCached: true
 
+related:
+  - title: "Marcia Langton says Australians want to ‘unburden themselves’ from past and will support Voice"
+    excerpt: "Most Australians want to “unburden themselves from the past” and will support the Voice to Parliament, according to one of the key architects."
+    publishedDateTime: 2023-04-14T02:58:00Z
+    webUrl: "https://www.news.com.au/finance/work/leaders/marcia-langton-says-australians-want-to-unburden-themselves-from-past-and-will-support-voice/news-story/10a203f2255abcb6cdeda965481f7b48"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 0
+
 secured: "SfAx5mcl0wuevDx9vGGmE54iq5JZOQgm4F3hSvqg5blHRmWi2U42V3rXJVP+MtEyiD8SU+Nie72DwvIh2FXxa1AYqFer5OadY+9dYxzRaDmymHaCSiDmla08RmGODWUla6HoxALvYROR1SmJZKVvDguAUG6KrZ4xxhIs/FjPf5uTc/qJCiqT7lQObNJJof9P0mCBIk1B1HtrqPzbZhRm4a2oil/LCwo75lToVAh3+7EEdcsfm4wrBHHpfSsqvVJf+QdFY0UO7/1IJfrfham1xzzDjpCyifXo5QufEpwLxojClTbnH+14FSCv8e1rDeMV/Wol+1rR6wUsqMKmjtiIGNs3cmqwq0F2RMQU8UUOGDE=;exlIE0Qu4LHHG0QCJHSnMA=="
 ---
 

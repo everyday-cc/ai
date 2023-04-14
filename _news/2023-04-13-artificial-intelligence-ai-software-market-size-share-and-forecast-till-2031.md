@@ -41,15 +41,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
-  - title: "AI in Fintech Market Growth and Forecast till 2031"
-    excerpt: "The latest market research report on the Global \"AI in Fintech Market\" is segmented by Regions, Country, Company and"
-    publishedDateTime: 2023-04-13T06:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-growth-and-forecast-till-2031-2023-04-13"
+  - title: "Artificial Intelligence in Computer Networks Market | Industry Size Forecast To 2030"
+    excerpt: "The latest market research report on the Global \"Artificial Intelligence in Computer Networks Market\" is segmented"
+    publishedDateTime: 2023-04-13T21:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-industry-size-forecast-to-2030-2023-04-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech Recognition Market Key Players and Forecast till 2031"
     excerpt: "The latest market research report on the Global \"Speech Recognition Market\" is segmented by Regions, Country, Company"
     publishedDateTime: 2023-04-13T05:20:00Z

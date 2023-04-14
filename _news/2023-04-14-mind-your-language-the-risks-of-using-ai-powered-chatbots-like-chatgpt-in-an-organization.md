@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/mind-your-language-risks-using-ai-powered
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/mind-your-language-risks-using-ai-powered-chatbots-chatgpt/amp/"
 type: article
 quality: 77
-heat: 167
+heat: 187
 published: true
 
 provider:
@@ -30,6 +30,34 @@ images:
     isCached: true
 
 related:
+  - title: "Can AI answer your money questions? We put chatbots to the test"
+    excerpt: "Face it, we could all use a little help with our money. So who better to ask for personal finance advice than a couple of the most powerful chatbots on the planet?"
+    publishedDateTime: 2023-04-13T12:26:00Z
+    webUrl: "https://www.reuters.com/markets/wealth/can-ai-answer-your-money-questions-we-put-chatbots-test-2023-04-13/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/jNVRinp2T_SXac_4KvfiD0LjfVA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5MBSSC3XD5ORJMYHLNP4RJMSVI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Company Ditches Humans in Favor of ChatGPT-Style AI"
+    excerpt: "Move over Don Draper: at least one agency thinks AI can devise better ads than humans ever could. Bluefocus Intelligent Communications Group Co. plans to replace its external copywriters and graphic designers with ChatGPT-like generative AI models,"
+    publishedDateTime: 2023-04-14T02:35:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-04-14/company-ditches-humans-in-favor-of-chatgpt-style-ai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIowefic0EuM/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "When You Use ChatGPT You Could Be Legally Liable, AI Ethics And Law Experts Warn"
     excerpt: "When using ChatGPT, you have agreed to a licensing requirement that allows OpenAI to come after you if they get sued for something you allegedly did that caused harm while making use of ChatGPT. This is the dreaded indemnification clause."
     publishedDateTime: 2023-04-10T11:01:00Z
@@ -112,6 +140,6 @@ related:
       domain: aol.com
     quality: 19
 
-secured: "qdwU3yie9qf7fotzqgC8MI0kS+zeFJpYpRJ6RuaySD462t/ftn4Uu5mSOYT+0a2fgbkBJMr+WMQ80q8eMNqHFtskrejt/KFojKjeOEuisqL1qfy5Vrn1mVyUyjq83n3FjpFGjNb6LXIl5L0d7k7UXEbmwWjT2nb2UtmM6K8jbuY4vmU+cmzawso2CNTAe36+8IxSJFty0DApAQvvzOpGG1VUA7UmWd55zRCSvaiP7TuoZ0sbRxdZPX+9nBYKaMVNe5dgIztQXgwY0TyBhGwrNfLotZxVkfTl/jC62xGNYFaL0mOUbv8B+ujtVcj67cnF2KenBg+6Q4SLnYl+2/K4JeLAOEmylSZra3AYonopb+Q=;8hmMcnxhmOwi1qge8QZaGg=="
+secured: "JskbP+fSZ7t6Y2CfHHLAU+eKgx9rZ3fvw0Yiy3ORg3wo38urQFVq9Qw/KIR7QyWvRVPV7WqyHmemFJJGVEroK578Mrg8LY42EU2odsx2wH6+3wwxDtREowy7QhOazangMQUjye0b1uueneosy8fHDIhARVjkA8d5/FEpfzxctsHml10JfnU/FkMlctHmMhtSt42XcBAUZrlvduwTimCUUD+lqWaro48ZTedwnwa2O9Aq2D+rFzYXE9+MzOtq2Mi0U0k3wfcJqfQIcS6CX5ZJLut/Zq3wqO3Nqa6oeo+od3ccA54hGauz/uL8g7p/GeykyhsbRgUjPg2XUzuQE2VeVEbAABpdcpZlb47ZNv1EVoX3Wyr5/ugqlqKMIvbbL7DkuM0RHEPII/Sosnc66wx9Xk7UW01ZHOE3XWQxDwHXRyPhP2jrNMftKvNQ+0DSdoybtUuKfR1XYUwHtLMrtvCL5kCJ38TpCV6/uItqPnGzm8+GhphlD10JFkP1TOyLgafXH70UqNq8F2KVsAguVddGbQ==;OwPX3Q493p9oMrJVW93RZQ=="
 ---
 

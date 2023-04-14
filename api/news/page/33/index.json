@@ -2,6 +2,437 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2023-03-10-aitxs-subsidiary-robotic-assistance-devices-announces-completion-of-multiple-device-deployment-at-a-large-regional-hospital-group.md",
+      "title": "AITX's Subsidiary Robotic Assistance Devices Announces Completion of Multiple Device Deployment at a Large Regional Hospital Group",
+      "excerpt": "Eight ROSA units comprising this phase of the deployment have been configured as dual-unit ROSA-P devices in addition to one standard ROSA. ROSA-P is one of the recent additions to the ROSA lineup that uses existing light poles as its primary power source whether or not the light is centrally controlled.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/03/10/9775009.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/03/10/9775009.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-10T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-10-on-asphyxiation-from-trains-and-other-inaccurate-predictions.md",
+      "title": "On Asphyxiation From Trains and Other Inaccurate Predictions",
+      "excerpt": "“I think there is a world market for maybe five computers,” said the head of IBM in 1943. And “What use could ... Rather than announcing that artificial intelligence will become sentient and rule us all, we should examine the various applications ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/technology-predictions-history/",
+      "originalUrl": "https://www.wired.com/story/technology-predictions-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/640a4ab0d6703b9a3671a876/master/pass/ideas_history_tech_predictions.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/technology-predictions-history/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/technology-predictions-history/amp",
+      "publishedDateTime": "2023-03-10T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-10-which-stores-are-scanning-your-face-no-one-knows.md",
+      "title": "Which Stores Are Scanning Your Face? No One Knows.",
+      "excerpt": "Our reporter took a five-mile walk around Manhattan to find businesses that are using facial recognition technology. Send any friend a story As a subscriber, you have 10 gift articles to give each ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/03/10/technology/facial-recognition-stores.html",
+      "originalUrl": "https://www.nytimes.com/2023/03/10/technology/facial-recognition-stores.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/03/12/multimedia/00face-walk-msg-fbcl/00face-walk-msg-fbcl-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/03/10/technology/facial-recognition-stores.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/10/technology/facial-recognition-stores.amp.html",
+      "publishedDateTime": "2023-03-10T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-10-artificial-intelligence-ai-in-healthcare-market-size-to-surpass-usd-2585-bn-cagr-of-3873.md",
+      "title": "Artificial Intelligence Ai In Healthcare Market Size To Surpass USD 258.5 Bn | CAGR Of 38.73%",
+      "excerpt": "Artificial Intelligence (AI) in Healthcare Market refers to the use of AI technologies, such as machine learning, natural language processing, and computer vision, in the healthcare industry.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105749479/Artificial-Intelligence-Ai-In-Healthcare-Market-Size-To-Surpass-USD-2585-Bn-CAGR-Of-3873",
+      "originalUrl": "https://menafn.com/1105749479/Artificial-Intelligence-Ai-In-Healthcare-Market-Size-To-Surpass-USD-2585-Bn-CAGR-Of-3873",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-03/10/EP_5573cimage_story.jpeg",
+          "width": 764,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-10T04:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-10-the-search-for-simpler-analytics.md",
+      "title": "The ‘Search’ For Simpler Analytics",
+      "excerpt": "Given that “set” refers to a type of yoghurt, a list of numbers, a race start call , something the sun does, some dishes, putting an object down, a television studio & a place where badgers live - you can see why we need large language models to define the relationships between one word & another.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/03/10/the-search-for-simpler-analytics/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/03/10/the-search-for-simpler-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/640b1da0ec0c457c717aa269/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/03/10/the-search-for-simpler-analytics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/03/10/the-search-for-simpler-analytics/amp/",
+      "publishedDateTime": "2023-03-10T03:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-10-accelerating-drug-development-to-keep-pace-with-drug-discovery.md",
+      "title": "Accelerating Drug Development To Keep Pace With Drug Discovery",
+      "excerpt": "Pharma is under pressure to move faster. Following the speed at which Covid-19 therapies came to market, there is a growing urgency to shorten drug development timelines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/10/accelerating-drug-development-to-keep-pace-with-drug-discovery/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/10/accelerating-drug-development-to-keep-pace-with-drug-discovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5ffc53a3d743a470c25b0e9b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/10/accelerating-drug-development-to-keep-pace-with-drug-discovery/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/10/accelerating-drug-development-to-keep-pace-with-drug-discovery/amp/",
+      "publishedDateTime": "2023-03-10T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-10-how-small-and-medium-sized-businesses-can-navigate-the-cybersecurity-risks-of-ai.md",
+      "title": "How Small- And Medium-Sized Businesses Can Navigate The Cybersecurity Risks Of AI",
+      "excerpt": "While AI offers numerous benefits, it also poses significant cybersecurity risks to small- and medium-sized businesses that often lack the resources and expertise to defend against attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/10/how-smalland-medium-sized-businesses-can-navigate-the-cybersecurity-risks-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/10/how-smalland-medium-sized-businesses-can-navigate-the-cybersecurity-risks-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/627d0d1e1e7516cbb623ad21/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/10/how-smalland-medium-sized-businesses-can-navigate-the-cybersecurity-risks-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/10/how-smalland-medium-sized-businesses-can-navigate-the-cybersecurity-risks-of-ai/amp/",
+      "publishedDateTime": "2023-03-10T02:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-10-is-the-finals-cpu-or-gpu-intensive.md",
+      "title": "Is The Finals CPU or GPU intensive?",
+      "excerpt": "and taking care of AI (Artificial Intelligence) decisions, such as the sort of random things NPCs get up in the background. Essentially the building blocks of the game. The GPU, or graphics card ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.videogamer.com/tech/is-the-finals-cpu-or-gpu-intensive/",
+      "originalUrl": "https://www.videogamer.com/tech/is-the-finals-cpu-or-gpu-intensive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.videogamer.com/wp-content/uploads/VideoGamer-Tech-Best-Picks-etc-Photopea-Friendly-1-14.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-10T02:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VideoGamer.com",
+        "domain": "videogamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-10-artificial-intelligence-ai-robots-market-2023-latest-report-is-thriving-worldwide-by-2029.md",
+      "title": "Artificial Intelligence (AI) Robots Market 2023 [Latest Report] Is Thriving Worldwide by 2029",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 09, 2023 (The Expresswire) -- Artificial Intelligence (AI) Robots Market 2023 with 110 Pages Report and enhance with extents shares into sub-counties are covered in this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-2023-latest-report-is-thriving-worldwide-by-2029-2023-03-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-2023-latest-report-is-thriving-worldwide-by-2029-2023-03-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-10T02:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-10-google-sheds-more-light-on-its-1000-languages-universal-speech-model.md",
       "title": "Google Sheds More Light on Its 1,000+ Languages Universal Speech Model",
       "excerpt": "Google said back then that the USM is trained on over 400 languages, “ making it the largest language coverage seen in a speech model to date .” The primary goal of this effort is to promote greater inclusion for billions of people belonging to marginalized communities across the globe,",
@@ -748,439 +1179,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-the-hottest-party-in-generative-ai-is-productivity-apps.md",
-      "title": "The hottest party in generative AI is productivity apps",
-      "excerpt": "After years of wallflower AI status, business productivity apps are now the generative AI party where the cool kids hang out.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/the-hottest-party-in-generative-ai-is-productivity-apps/",
-      "originalUrl": "https://venturebeat.com/ai/the-hottest-party-in-generative-ai-is-productivity-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-23.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/the-hottest-party-in-generative-ai-is-productivity-apps/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-hottest-party-in-generative-ai-is-productivity-apps/amp/",
-      "publishedDateTime": "2023-03-09T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-chatgpt-is-now-available-in-microsofts-azure-openai-service.md",
-      "title": "ChatGPT is now available in Microsoft’s Azure OpenAI service",
-      "excerpt": "Microsoft is making ChatGPT available in its own Azure OpenAI service today. Developers and businesses will now be able to integrate OpenAI’s ChatGPT model into their own cloud apps, enabling ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/3/9/23632312/microsoft-azure-openai-chatgpt-feature-available",
-      "originalUrl": "https://www.theverge.com/2023/3/9/23632312/microsoft-azure-openai-chatgpt-feature-available",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/CCAiZOaSXBZ90QlUG4O76gDxwwc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347780/STK095_Microsoft_04.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T11:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-architect-personalized-generative-ai-saas-applications-on-amazon-sagemaker.md",
-      "title": "Architect personalized generative AI SaaS applications on Amazon SageMaker",
-      "excerpt": "The AI landscape is being reshaped by the rise of generative models capable of synthesizing high-quality data, such as text, images, music, and videos. The course toward democratization of AI helped to further popularize generative AI following the open-source releases for such foundation model families",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/architect-personalized-generative-ai-saas-applications-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/architect-personalized-generative-ai-saas-applications-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/06/ML-13166-arc-1-1120x630.png",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T10:57:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-civilengineeringai-to-debut-new-artificial-intelligence-technologies.md",
-      "title": "civilengineering.ai to Debut New Artificial Intelligence Technologies",
-      "excerpt": "New York, New York--(Newsfile Corp. - March 9, 2023) - civilengineering.ai, a tech company working on the application of emerging technologies is utilizing the latest developments in technology to bri",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/03/31284143/civilengineering-ai-to-debut-new-artificial-intelligence-technologies",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/31284143/civilengineering-ai-to-debut-new-artificial-intelligence-technologies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/31284143",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31284143",
-      "publishedDateTime": "2023-03-09T10:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-computer-vision-market-size-worth-usd-2276-billion-in-2032-emergen-research.md",
-      "title": "Computer Vision Market Size Worth USD 22.76 Billion in 2032 | Emergen Research",
-      "excerpt": "The Computer Vision market size reached USD 11.90 Billion in 2022 and is expected to register a CAGR of 6.7% during the forecast",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/computer-vision-market-size-worth-usd-22-76-billion-in-2032--emergen-research-301767809.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/computer-vision-market-size-worth-usd-22-76-billion-in-2032--emergen-research-301767809.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1579538/Emergen_Research_Logo.jpg?p=facebook",
-          "width": 1080,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-artificial-intelligence-robots-invade-the-classroom-the-rise-of-artificial-education.md",
-      "title": "Artificial intelligence robots invade the classroom: The rise of artificial education?",
-      "excerpt": "The future tapped me quietly on the shoulder the other day and suggested that I take a moment to learn about the writing bots.",
-      "sourceUrl": null,
-      "webUrl": "https://augustafreepress.com/news/artificial-intelligence-robots-invade-the-classroom-the-rise-of-artificial-education/",
-      "originalUrl": "https://augustafreepress.com/news/artificial-intelligence-robots-invade-the-classroom-the-rise-of-artificial-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://augustafreepress.com/wp-content/uploads/2021/02/ai-artificial-intelligence.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Augusta Free Press",
-        "domain": "augustafreepress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-pan-variant-covid-vaccine-could-defang-future-strains-thanks-to-machine-learning.md",
-      "title": "‘Pan-variant’ COVID vaccine could defang future strains thanks to machine learning",
-      "excerpt": "A new approach to vaccines with a machine learning twist could put an end to boosters and seasonal variant shots, MIT researchers say.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/09/pan-variant-covid-vaccine-could-defang-future-strains-thanks-to-machine-learning/",
-      "originalUrl": "https://techcrunch.com/2023/03/09/pan-variant-covid-vaccine-could-defang-future-strains-thanks-to-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/achiko-aptamer_and_covid.jpg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/09/pan-variant-covid-vaccine-could-defang-future-strains-thanks-to-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/09/pan-variant-covid-vaccine-could-defang-future-strains-thanks-to-machine-learning/amp/",
-      "publishedDateTime": "2023-03-09T08:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-ai-chip-startup-mythic-rises-from-the-ashes-with-13m-new-ceo.md",
-      "title": "AI chip startup Mythic rises from the ashes with $13M, new CEO",
-      "excerpt": "Mythic, an AI chip startup that last November reportedly ran out of capital, rose from the ashes today with an unexpected injection of fresh funds. Mythic this morning announced that it closed a $ ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/09/ai-chip-startup-mythic-rises-from-the-ashes-with-13m-new-ceo/",
-      "originalUrl": "https://techcrunch.com/2023/03/09/ai-chip-startup-mythic-rises-from-the-ashes-with-13m-new-ceo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1148091243.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/09/ai-chip-startup-mythic-rises-from-the-ashes-with-13m-new-ceo/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/09/ai-chip-startup-mythic-rises-from-the-ashes-with-13m-new-ceo/amp/",
-      "publishedDateTime": "2023-03-09T08:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-menzies-aviation-selects-wipro-to-transform-its-air-cargo-services.md",
-      "title": "Menzies Aviation selects Wipro to transform its Air Cargo Services",
-      "excerpt": "Wipro announced that it has been selected by Menzies Aviation to transform its air cargo management services. The partnership will help fortify Menzies' posit",
-      "sourceUrl": null,
-      "webUrl": "https://technuter.com/breaking-news/menzies-aviation-selects-wipro-to-transform-its-air-cargo-services.html",
-      "originalUrl": "https://technuter.com/breaking-news/menzies-aviation-selects-wipro-to-transform-its-air-cargo-services.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technuter.com/wp-content/uploads/2018/06/Wipro-Logo.jpg",
-          "width": 293,
-          "height": 244,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technuter.com",
-        "domain": "technuter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

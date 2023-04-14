@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-02-use-tensorflowjs-in-a-react-native-app.md",
+      "title": "Use TensorFlow.js in a React Native app",
+      "excerpt": "Scan the QR code with a phone or other test device that has Expo Go installed. The example app should open in Expo Go. The screenshots below show the app detecting and rendering keypoints of the user's body. To understand how the TensorFlow.js libraries ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/js/tutorials/applications/react_native",
+      "originalUrl": "https://www.tensorflow.org/js/tutorials/applications/react_native",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/static/site-assets/images/project-logos/tensorflow-js-logo-social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T06:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-01-deepmind-open-sources-ai-interpretability-research-tool-tracr.md",
       "title": "DeepMind Open-Sources AI Interpretability Research Tool Tracr",
       "excerpt": "The practice of test && commit || revert teaches how to write code in smaller chunks, further reducing batch size. TCR yields high coverage by design, which smooths the downstream testing pipeline ...",
@@ -1303,58 +1356,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-stable-diffusion-ai-art-lawsuit-plus-caution-from-openai-deepmind-the-ai-beat.md",
-      "title": "Stable Diffusion AI art lawsuit, plus caution from OpenAI, DeepMind | The AI Beat",
-      "excerpt": "Stability AI and Midjourney were hit with a copyright infringement lawsuit, while OpenAI and DeepMind are signaling generative AI caution.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/",
-      "originalUrl": "https://venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-16-at-10.28.05-AM-e1673882948444.png?w=1200&strip=all",
-          "width": 703,
-          "height": 436,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/amp/",
-      "publishedDateTime": "2023-01-16T08:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

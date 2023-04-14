@@ -23,24 +23,38 @@ topics:
   - AI
 
 related:
-  - title: "Reinventing financial services with next-gen AI"
-    excerpt: "As part of a surging embrace of AI, financial services companies are joining others developing next-gen autonomous, cloud-based assistants."
-    publishedDateTime: 2023-04-13T20:20:00Z
-    webUrl: "https://venturebeat.com/ai/reinventing-financial-services-with-next-gen-ai/"
+  - title: "The mounting human and environmental costs of generative AI"
+    excerpt: "Downsides include the environmental toll of mining rare minerals, the human costs of the labor-intensive process of data annotation, and the escalating financial investment required to train AI models as they incorporate more parameters."
+    publishedDateTime: 2023-04-12T11:00:00Z
+    webUrl: "https://arstechnica.com/gadgets/2023/04/generative-ai-is-cool-but-lets-not-forget-its-human-and-environmental-costs/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 53
-  - title: "Insider's newsroom will start experimenting with AI"
-    excerpt: "Insider plans to begin experimenting with ways to leverage AI in its journalism, its global editor-in-chief Nicholas Carlson told Axios. Why it matters: \"A tsunami is coming,\" Carlson said. \"We can either ride it or get wiped out by it."
-    publishedDateTime: 2023-04-13T13:15:00Z
-    webUrl: "https://www.axios.com/2023/04/13/insiders-newsroom-will-start-experimenting-with-ai"
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 49
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-04-10T16:57:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/04/12/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-04-12T23:27:00Z
+    webUrl: "https://www.law.com/dailyreportonline/2023/04/10/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 19
 
 secured: "qO8h4SSNZ99CrQCbQ66unYSHL7TGKtvXt1oDk3wzU/aaxvsYmP2I6GpqLVT3mdo31e380IglROx/y2Z/nAKA5TEfWE5dDf64RjP4scl5aPAmhednveJp5fR0NrzaHRygIK/Avt/QJYX+v8Z/DYz86vTVK/l8AJvTguvopouGu+1zYTZxXPM8Z3T11XthCwWqw5Qt+7SIo9e8VmHziaZKwBt+Vr4b9edDQzzGbNmBInPli+jaKpWEfqBniuxT1Ml2Ikp4q5nmd9xU9rqjAy5AlDtN8QXgAKf/4emJut0lROXruouEN8D9AU7acihYAciLL+IphiPftdiBn6KEavzvVVxhdAv+Bhy64oRhtjOe5ohKamJMUR4zF7zbb6mP/O2H57vQL1EfM/fCloIk0Mj1V8wRJClng99+Qh1EAhd1rrdaoYthmBwO/f+PEfwPJks8xq2uoYsrqRDJHgUSswgTSjKhcbYYrKDK0OrnnnYoXq3djo2yeOj78ABAQ2IkQFqU73TkzcLlhAntn1F0mhXp1g==;orJzDM6ZwE8amqLj5NODqw=="
 ---

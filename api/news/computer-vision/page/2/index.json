@@ -2,6 +2,84 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-23-aetina-partners-with-hailo-to-launch-multi-inference-ai-solutions-at-the-edge-during-isc-west-2023.md",
+      "title": "Aetina Partners with Hailo to Launch Multi-Inference AI Solutions at the Edge during ISC West 2023",
+      "excerpt": "Aetina and Hailo join forces to launch multi-inference AI solutions that involve object recognition AI models, Aetina's AI inference platform—AIP-SQ67, and AI-MXM-H84A MXM that is built with 4x Hailo-8™ AI accelerators.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/03/23/9782811.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/03/23/9782811.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-best-samsung-robot-vacuum-deals-during-the-discover-samsung-sale.md",
+      "title": "Best Samsung robot vacuum deals during the Discover Samsung sale",
+      "excerpt": "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/best-samsung-robot-vacuum-deals-for-spring-cleaning-2023-03-22/",
+      "originalUrl": "https://www.cbsnews.com/essentials/best-samsung-robot-vacuum-deals-for-spring-cleaning-2023-03-22/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/28/0d05e20f-fb26-434c-aee7-89cfc48406cf/thumbnail/1200x630/6ddd630ffc4d4d5d252c08853935328d/samsung-jet-bot-header.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-samsung-robot-vacuum-deals-for-spring-cleaning-2023-03-22/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-samsung-robot-vacuum-deals-for-spring-cleaning-2023-03-22/",
+      "publishedDateTime": "2023-03-22T13:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-automate-amazon-rekognition-custom-labels-model-training-and-deployment-using-aws-step-functions.md",
       "title": "Automate Amazon Rekognition Custom Labels model training and deployment using AWS Step Functions",
       "excerpt": "With Amazon Rekognition Custom Labels, you can have Amazon Rekognition train a custom model for object detection or image classification specific to your business needs. For example, Rekognition Custom Labels can find your logo in social media posts, identify your products on store shelves, classify",
@@ -1315,93 +1393,6 @@
       "provider": {
         "name": "PR Newswire",
         "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-wimi-develops-edge-computing-based-holographic-face-recognition-ai-chip-system-for-property-management.md",
-      "title": "WiMi Develops Edge Computing-Based Holographic Face Recognition AI Chip System for Property Management",
-      "excerpt": "WiMi's edge computing-based holographic face recognition AI chip system can be used in various essential situations as it can perform high-density dynamic holographic face capture in complex ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/03/n31275065/wimi-develops-edge-computing-based-holographic-face-recognition-ai-chip-system-for-property-manage",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/n31275065/wimi-develops-edge-computing-based-holographic-face-recognition-ai-chip-system-for-property-manage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/31275065",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31275065",
-      "publishedDateTime": "2023-03-09T05:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-heres-how-facial-recognition-is-changing-travel-through-bay-area-airports.md",
-      "title": "Here’s how facial recognition is changing travel through Bay Area airports",
-      "excerpt": "For speedier entry into the U.S., your most important travel tool is now your face. All three of the Bay Area’s airports are deploying new facial recognition technology, called Simplified Arrival, to screen incoming international passengers and testing it in San Jose to track some departing passengers too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonherald.com/2023/03/08/heres-how-facial-recognition-is-changing-travel-through-bay-area-airports/",
-      "originalUrl": "https://www.bostonherald.com/2023/03/08/heres-how-facial-recognition-is-changing-travel-through-bay-area-airports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bostonherald.com/wp-content/uploads/2023/03/SJM-L-BIOMETRICS-0308-2-1.jpg?w=1024&h=575",
-          "width": 1024,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bostonherald.com/2023/03/08/heres-how-facial-recognition-is-changing-travel-through-bay-area-airports/amp/",
-      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/03/08/heres-how-facial-recognition-is-changing-travel-through-bay-area-airports/amp/",
-      "publishedDateTime": "2023-03-08T18:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston Herald",
-        "domain": "bostonherald.com",
         "images": null,
         "publishers": null,
         "authors": null

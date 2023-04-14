@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-new-tools
 webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-new-tools-for-building-with-generative-ai-on-aws/"
 type: article
 quality: 84
-heat: 234
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -23,6 +23,22 @@ topics:
   - AWS AI
 
 related:
+  - title: "Amazon jumps into the generative AI race with new cloud service"
+    excerpt: "The announcement indicates the largest provider of cloud infrastructure won’t be leaving a trendy growth area to challengers such as Google and Microsoft."
+    publishedDateTime: 2023-04-14T01:22:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/amazon-jumps-generative-race-new-cloud-service-rcna79599"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna79599"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna79599"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211215-las-vegas-the-venetian-expo-aws-ac-1159p-b07aeb.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
   - title: "Generative AI comes to Amazon Web Services"
     excerpt: "Amazon released a new suite of AI technologies, including foundational large language models (LLMs) called Titan and a cloud computing service called Bedrock, reports Reuters. The move comes as competitors Microsoft and Google integrate AI chatbots into their search engines and cloud operations."
     publishedDateTime: 2023-04-13T19:11:00Z
@@ -32,15 +48,31 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 68
-  - title: "Amazon AWS expands generative AI efforts with Bedrock and CodeWhisperer updates"
-    excerpt: "Amazon Web Services (AWS), announced today that it is expanding its generative AI services in a bid to make the technology more available to organizations in the cloud."
+  - title: "Amazon joins generative AI race, targets tech at cloud customers"
+    excerpt: "Amazon.com Inc. is joining Microsoft Corp. and Google in the generative artificial intelligence race, announcing technology aimed at its cloud customers as well as a marketplace for AI tools from other companies."
+    publishedDateTime: 2023-04-13T18:15:00Z
+    webUrl: "https://techxplore.com/news/2023-04-amazon-generative-ai-tech-cloud.html"
+    ampWebUrl: "https://techxplore.com/news/2023-04-amazon-generative-ai-tech-cloud.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-amazon-generative-ai-tech-cloud.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/amazon-3.jpg"
+        width: 1920
+        height: 1738
+        isCached: true
+  - title: "Reinventing financial services with next-gen AI"
+    excerpt: "As part of a surging embrace of AI, financial services companies are joining others developing next-gen autonomous, cloud-based assistants."
     publishedDateTime: 2023-04-13T20:20:00Z
-    webUrl: "https://venturebeat.com/ai/amazon-aws-expands-generative-ai-efforts-with-bedrock-and-codewhisperer-updates/"
+    webUrl: "https://venturebeat.com/ai/reinventing-financial-services-with-next-gen-ai/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 62
+    quality: 53
   - title: "Amazon Is Joining the Generative AI Race"
     excerpt: "Today, Amazon announced it’s joining the generative AI race. Not by launching its own chatbot, but by making two new AI language models available through its cloud platform, Amazon Web Services, which customers will be able to use to build their own bots."
     publishedDateTime: 2023-04-13T12:40:00Z
@@ -50,15 +82,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 51
-  - title: "The mounting human and environmental costs of generative AI"
-    excerpt: "Downsides include the environmental toll of mining rare minerals, the human costs of the labor-intensive process of data annotation, and the escalating financial investment required to train AI models as they incorporate more parameters."
-    publishedDateTime: 2023-04-12T11:00:00Z
-    webUrl: "https://arstechnica.com/gadgets/2023/04/generative-ai-is-cool-but-lets-not-forget-its-human-and-environmental-costs/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 49
   - title: "This Startup Claims Its Models Fix A Major Problem With Generative AI"
     excerpt: "Companies like BetterHelp, Uber and Hilton trust Writer to automate all their tedious text-based tasks. Writer’s promise? That its language models won’t make up false information."
     publishedDateTime: 2023-04-11T10:15:00Z
@@ -68,29 +91,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-04-10T16:57:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/04/12/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "AWS doubles down on generative AI training"
-    excerpt: "AI training and deployment on its cloud platform. In a post on the AWS Machine Learning blog, the company detailed new offerings that include the ability to build and train foundation models, which are large-scale,"
-    publishedDateTime: 2023-04-13T18:31:00Z
-    webUrl: "https://siliconangle.com/2023/04/13/aws-doubles-generative-ai-training/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
   - title: "AWS wades into generative AI fray with Bedrock service"
     excerpt: "CEO Andy Jassy highlighted generative AI as a key area of investment for the retail giant, in a Thursday letter to investors."
     publishedDateTime: 2023-04-13T22:36:00Z
@@ -118,15 +118,6 @@ related:
       name: CRN Australia
       domain: crn.com.au
     quality: 34
-  - title: "AWS launches generative AI tools"
-    excerpt: "Generative artificial intelligence (AI) software such as ChatGPT has captured the imaginations of consumers and businesses alike, as they experiment with everything from search bots like Microsoft Bing Chat to embedded technology in existing customer support systems,"
-    publishedDateTime: 2023-04-13T20:47:00Z
-    webUrl: "https://www.itworldcanada.com/article/aws-launches-generative-ai-tools/536367"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 34
   - title: "Is Amazon the proverbial dark horse in the ongoing generative AI war"
     excerpt: "Amazon may have been offering the Alexa voice assistant for years now and have made extensive investment in the fields of cloud computing and machine learning technologies, but is nowhere to be seen when it comes to offering something that can compete with the likes of ChapGPT."
     publishedDateTime: 2023-04-09T20:19:00Z
@@ -136,24 +127,33 @@ related:
       name: Good e-Reader
       domain: goodereader.com
     quality: 19
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-04-12T23:27:00Z
-    webUrl: "https://www.law.com/dailyreportonline/2023/04/10/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+  - title: "Meta will debut its generative AI this year"
+    excerpt: "Meta announced in February that it would establish a new organization to develop generative AI, but this is the first time it has indicated a timeline for commercialization."
+    publishedDateTime: 2023-04-10T19:24:00Z
+    webUrl: "https://searchengineland.com/meta-will-debut-their-generative-ai-this-year-395460"
     type: article
     provider:
-      name: Law
-      domain: law.com
+      name: Search Engine Land
+      domain: searchengineland.com
     quality: 19
-  - title: "Harnessing the AI Revolution For Businesses Means Balancing Risks, Rewards, and Ethical Considerations"
-    excerpt: "The AI revolution for businesses is rapidly accelerating, offering significant benefits. However, companies must also navigate challenges like inaccuracies and tackling biases ingrained in AI models to achieve the tool’s full potential."
-    publishedDateTime: 2023-04-11T22:38:00Z
-    webUrl: "https://marketscale.com/industries/software-and-technology/harnessing-the-ai-revolution-for-businesses-means-balancing-risks-rewards-and-ethical-considerations/"
+  - title: "Amazon Bedrock offers developers access to generative AI models"
+    excerpt: "Amazon has so far stayed out of the generative AI discussion. Everyone was, of course, waiting for a response on generative AI from AWS. Today, with"
+    publishedDateTime: 2023-04-13T16:13:00Z
+    webUrl: "https://www.techzine.eu/blogs/analytics/104594/amazon-bedrock-offers-developers-access-to-generative-ai-models/"
     type: article
     provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 18
+      name: techzine
+      domain: techzine.eu
+    quality: 19
+  - title: "Amazon joins generative AI race, targets tech at cloud customers"
+    excerpt: "Amazon.com Inc. is joining Microsoft Corp. and Google in the generative artificial intelligence race, announcing technology aimed at its cloud customers as well as a marketplace for AI tools from"
+    publishedDateTime: 2023-04-13T15:26:00Z
+    webUrl: "https://independenttribune.com/business/amazon-joins-generative-ai-race-targets-tech-at-cloud-customers/article_ed01fa9d-2640-5204-a078-acd09daeac94.html"
+    type: article
+    provider:
+      name: Independent Tribune
+      domain: independenttribune.com
+    quality: 19
   - title: "Amazon joins in generative AI fervor with new app-building tool & large language models"
     excerpt: "The company’s new Bedrock service – currently being rolled out in a \"limited preview\" – will help brands to enhance its own software and content using AI-generated text and images."
     publishedDateTime: 2023-04-13T20:23:00Z

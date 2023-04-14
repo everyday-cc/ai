@@ -2,29 +2,38 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-04-14-reinventing-financial-services-with-next-gen-ai.md",
-      "title": "Reinventing financial services with next-gen AI",
-      "excerpt": "As part of a surging embrace of AI, financial services companies are joining others developing next-gen autonomous, cloud-based assistants.",
+      "path": "_news/2023-04-12-up-fintech-unveils-tigergpt-the-industrys-first-ai-investment-assistant.md",
+      "title": "UP Fintech unveils TigerGPT, the industry's first AI investment assistant",
+      "excerpt": "UP Fintech unveils TigerGPT, the industry's first AI investment assistant Apr 12, 2023 (PRNewswire via COMTEX) -- PR Newswire NEW YORK, April 12,",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/reinventing-financial-services-with-next-gen-ai/",
-      "originalUrl": "https://venturebeat.com/ai/reinventing-financial-services-with-next-gen-ai/",
+      "webUrl": "https://www.marketwatch.com/press-release/up-fintech-unveils-tigergpt-the-industrys-first-ai-investment-assistant-2023-04-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/up-fintech-unveils-tigergpt-the-industrys-first-ai-investment-assistant-2023-04-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 78,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T13:20:00-07:00",
+      "publishedDateTime": "2023-04-12T01:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -41,9 +50,7 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI",
-        "Microsoft AI",
-        "Natural Language Processing"
+        "AI"
       ]
     },
     {
@@ -130,6 +137,50 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-welcome-to-bloomberggpt-a-large-scale-language-model-built-for-finance.md",
+      "title": "Welcome to BloombergGPT, a large-scale language model built for finance",
+      "excerpt": "Market data giant Bloomberg is set to capitalise on the craze for all things AI by building a 50-billion parameter large language model for finance, dubbed BloombergGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/newsarticle/42110/welcome-to-bloomberggpt-a-large-scale-language-model-built-for-finance",
+      "originalUrl": "https://www.finextra.com/newsarticle/42110/welcome-to-bloomberggpt-a-large-scale-language-model-built-for-finance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/finextra-images/top_pics/xl/code2.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -1290,58 +1341,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete.md",
-      "title": "With A Growth In FinTech, Will Traditional Financial Advisors Become Obsolete?",
-      "excerpt": "The math is the easy part. There are AI tools, algorithms and software that are now able to fully design an investment portfolio in the time it takes to answer a questionnaire about your risk tolerance. However, that doesn’t give a full picture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ericbrotman/2023/03/15/with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete/",
-      "originalUrl": "https://www.forbes.com/sites/ericbrotman/2023/03/15/with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6411e6bd92269bb21de12265/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ericbrotman/2023/03/15/with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ericbrotman/2023/03/15/with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete/amp/",
-      "publishedDateTime": "2023-03-15T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,446 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2023-01-30-image-recognition-in-retail-market-outlook-size-share-and-growth-stance-forecasted-2022-to-2030.md",
+      "title": "Image Recognition in Retail Market Outlook, Size, Share and Growth Stance Forecasted 2022 to 2030",
+      "excerpt": "Report Ocean recently added a research report on the Image Recognition in Retail market. The report includes an extensive analysis of the market's characteristics, COVID-19 impact, size and growth, segmentation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-outlook-size-share-and-growth-stance-forecasted-2022-to-2030-2023-01-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-outlook-size-share-and-growth-stance-forecasted-2022-to-2030-2023-01-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-29T21:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-30-with-astonishing-cagr-automated-machine-learning-automl-market-generate-revenue-at-significant-rate-2029.md",
+      "title": "With Astonishing CAGR, Automated Machine Learning (AutoML) Market Generate Revenue at Significant Rate, 2029",
+      "excerpt": "Automated Machine Learning (AutoML) Market 2022 Report (Report Pages-103) offers a Comprehensive assessment regarding",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/with-astonishing-cagr-automated-machine-learning-automl-market-generate-revenue-at-significant-rate-2029-2023-01-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/with-astonishing-cagr-automated-machine-learning-automl-market-generate-revenue-at-significant-rate-2029-2023-01-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-29T20:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-30-us-defence-department-issues-new-directive-autonomy-in-weapons-systems-with-ai-policy-guidance.md",
+      "title": "US Defence Department Issues New Directive: Autonomy In Weapons Systems With AI Policy Guidance",
+      "excerpt": "The U.S. Defense Department released on January 25, 2023 its update on autonomous weapons to take into account AI's \"increasing role\" in warfare. This article references also the pros and cons of AI in the military.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/01/30/us-defence-department-issues-new-directive-autonomy-in-weapons-systems-with-ai-policy-guidance/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/01/30/us-defence-department-issues-new-directive-autonomy-in-weapons-systems-with-ai-policy-guidance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d6e7073fdb7283cba89c4b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/01/30/us-defence-department-issues-new-directive-autonomy-in-weapons-systems-with-ai-policy-guidance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/01/30/us-defence-department-issues-new-directive-autonomy-in-weapons-systems-with-ai-policy-guidance/amp/",
+      "publishedDateTime": "2023-01-29T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-30-otterai-is-a-gem-for-transcribing-your-recorded-thoughts-into-writing.md",
+      "title": "Otter.ai Is A Gem For Transcribing Your Recorded Thoughts Into Writing",
+      "excerpt": "Taking notes by keyboard, or even worse for some, by hand with a pen or pencil, is akin to the dark ages. Try this terrific app and service, Otter.ai, to transcribe your verbal thoughts to writing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tjmccue/2023/01/29/otterai-is-a-gem-for-transcribing-your-recorded-thoughts-into-writing/",
+      "originalUrl": "https://www.forbes.com/sites/tjmccue/2023/01/29/otterai-is-a-gem-for-transcribing-your-recorded-thoughts-into-writing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d7496e0aba9cf779a89c55/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1057,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tjmccue/2023/01/29/otterai-is-a-gem-for-transcribing-your-recorded-thoughts-into-writing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tjmccue/2023/01/29/otterai-is-a-gem-for-transcribing-your-recorded-thoughts-into-writing/amp/",
+      "publishedDateTime": "2023-01-29T19:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-30-global-healthcare-natural-language-processing-nlp-market-2023-by-key-players-product-type-and-end-users-and-variety-forecast-to-2028.md",
+      "title": "Global Healthcare Natural Language Processing (NLP) Market 2023 by Key Players, Product Type and End-Users and Variety Forecast To 2028",
+      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 Influence on this Healthcare",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-healthcare-natural-language-processing-nlp-market-2023-by-key-players-product-type-and-end-users-and-variety-forecast-to-2028-2023-01-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-healthcare-natural-language-processing-nlp-market-2023-by-key-players-product-type-and-end-users-and-variety-forecast-to-2028-2023-01-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-29T19:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-30-no-campaigners-push-migrant-recognition.md",
+      "title": "‘No’ campaigners push migrant recognition",
+      "excerpt": "Supporters of the \"no\" campaign for an Indigenous voice to parliament want both Indigenous people and migrants to be constitutionally recognised.",
+      "sourceUrl": null,
+      "webUrl": "https://thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/",
+      "originalUrl": "https://thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thenewdaily.com.au/wp-content/uploads/2023/01/1675046142-Warren-Mundine.jpg?resize=960,600",
+          "width": 960,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/amp/",
+      "cdnAmpWebUrl": "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/amp/",
+      "publishedDateTime": "2023-01-29T18:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thenewdaily",
+        "domain": "thenewdaily.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-30-chinese-search-giant-baidu-to-launch-chatgpt-style-bot.md",
+      "title": "Chinese Search Giant Baidu to Launch ChatGPT-Style Bot",
+      "excerpt": "Baidu Inc. is planning to roll out an artificial intelligence chatbot service similar to OpenAI’s ChatGPT, according to a person familiar with the matter, potentially China’s most prominent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-01-30/chinese-search-giant-baidu-to-launch-chatgpt-style-bot-in-march",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-01-30/chinese-search-giant-baidu-to-launch-chatgpt-style-bot-in-march",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igdSOD6Jy2II/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-29T18:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-30-will-machine-learning-help-us-find-extraterrestrial-life.md",
+      "title": "Will machine learning help us find extraterrestrial life?",
+      "excerpt": "Researchers have applied a deep learning technique to a previously studied dataset of nearby stars and uncovered eight previously unidentified signals of interest. When pondering the probability ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/01/230130130512.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/01/230130130512.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-29T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-30-brainchip-tapes-out-akd1500-chip-in-globalfoundries-22nm-fd-soi-process.md",
+      "title": "BrainChip Tapes Out AKD1500 Chip in GlobalFoundries 22nm FD SOI Process",
+      "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(OTC:BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP, to",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/01/ac30616265/brainchip-tapes-out-akd1500-chip-in-globalfoundries-22nm-fd-soi-process",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/ac30616265/brainchip-tapes-out-akd1500-chip-in-globalfoundries-22nm-fd-soi-process",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30616265",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30616265",
+      "publishedDateTime": "2023-01-29T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-30-madison-square-garden-ceo-defends-use-of-facial-recognition-tech.md",
       "title": "Madison Square Garden CEO Defends Use of Facial Recognition Tech",
       "excerpt": "In an interview on Fox 5’s 'Good Day New York' this week CEO James Dolan said: 'If you’re suing us, we’re just asking of you—please don’t come until you’re done with your argument with us.'",
@@ -769,418 +1209,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-28-top-5-ai-trends-to-watch-out-for-in-2023.md",
-      "title": "Top 5 AI trends to watch out for in 2023",
-      "excerpt": "The internet has significantly impacted the way we communicate and access knowledge systems. It has made possible for people all over the world to connect and share data, and has pushed the boundaries of what we understand today as access and surveillance in the digital world.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/top-5-ai-trends-to-watch-out-for-in-2023/",
-      "originalUrl": "https://techbullion.com/top-5-ai-trends-to-watch-out-for-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-27T13:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-28-chatgpt-creator-openai-might-be-training-its-ai-technology-to-replace-some-software-engineers-report-says.md",
-      "title": "ChatGPT creator OpenAI might be training its AI technology to replace some software engineers, report says",
-      "excerpt": "OpenAI has reportedly quietly hired hundreds of international contractors in the last 6 months to train its AI in software engineering.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/openai-chatgpt-contractors-train-ai-software-engineering-autonomous-vehicles-report-2023-1",
-      "originalUrl": "https://www.businessinsider.com/openai-chatgpt-contractors-train-ai-software-engineering-autonomous-vehicles-report-2023-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63d414c4fc18470019551e68?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/openai-chatgpt-contractors-train-ai-software-engineering-autonomous-vehicles-report-2023-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-chatgpt-contractors-train-ai-software-engineering-autonomous-vehicles-report-2023-1?amp",
-      "publishedDateTime": "2023-01-27T13:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-28-anthropic-an-ai-start-up-is-said-to-be-close-to-adding-300-million.md",
-      "title": "Anthropic, an A.I. Start-Up, Is Said to Be Close to Adding $300 Million",
-      "excerpt": "Anthropic specializes in generative artificial intelligence, a hot investment in Silicon Valley. The new funding could value the company at roughly $5 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/01/27/technology/anthropic-ai-funding.html",
-      "originalUrl": "https://www.nytimes.com/2023/01/27/technology/anthropic-ai-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/01/27/business/27ai-funds-01/27ai-funds-01-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/01/27/technology/anthropic-ai-funding.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/27/technology/anthropic-ai-funding.amp.html",
-      "publishedDateTime": "2023-01-27T13:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-28-deep-learning-model-aids-differentiation-of-colon-cancer-acute-diverticulitis.md",
-      "title": "Deep learning model aids differentiation of colon cancer, acute diverticulitis",
-      "excerpt": "A three-dimensional (3-D) convolutional neural network (CNN) can be used as an artificial intelligence (AI) support system for differentiating colon carcinoma (CC) and acute diverticulitis (AD) on computed tomography (CT) images,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-01-deep-aids-differentiation-colon-cancer.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-01-deep-aids-differentiation-colon-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/deep-learning-model-ai.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-01-deep-aids-differentiation-colon-cancer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-deep-aids-differentiation-colon-cancer.amp",
-      "publishedDateTime": "2023-01-27T12:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-28-machine-learning-approach-may-aid-water-conservation-push-in-the-colorado-river-basin.md",
-      "title": "Machine learning approach may aid water conservation push in the Colorado River basin",
-      "excerpt": "The Colorado River basin, which supplies water to 40 million people in the Western United States, is threatened by historic drought, a changing climate and water demands from growing cities. One potential response involves encouraging individuals to conserve water,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-01-machine-approach-aid-colorado-river.html",
-      "originalUrl": "https://phys.org/news/2023-01-machine-approach-aid-colorado-river.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/colorado-river-basin-m.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-01-machine-approach-aid-colorado-river.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-machine-approach-aid-colorado-river.amp",
-      "publishedDateTime": "2023-01-27T09:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-01-28-big-tech-was-moving-cautiously-on-ai-then-came-chatgpt.md",
-      "title": "Big Tech was moving cautiously on AI. Then came ChatGPT.",
-      "excerpt": "Three months before ChatGPT debuted in November, Facebook’s parent company ... managing director of Fundamental AI Research at Meta. “We believe that AI is foundational and transformative ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2023/01/27/chatgpt-google-meta/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2023/01/27/chatgpt-google-meta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I2GH75SNKFGPXNRMCMDBGLQ3H4.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-27T09:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-28-co-bill-that-suggests-using-artificial-intelligence-to-help-detect-wildfires-moves-forward-in-legislature.md",
-      "title": "CO bill that suggests using artificial intelligence to help detect wildfires moves forward in Legislature",
-      "excerpt": "Colorado lawmakers unanimously voted to push forward a bill that would create a $2 million wildfire prevention program, which may use artificial intelligence to identify fires early.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/co-bill-suggests-using-artificial-intelligence-help-detect-wildfires-moves-forward-legislature",
-      "originalUrl": "https://www.foxnews.com/politics/co-bill-suggests-using-artificial-intelligence-help-detect-wildfires-moves-forward-legislature",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bde9982c-2a76-46f7-b0b5-c18e3df1c055/29e73dbf-bb1f-476b-a5bc-48b588c0eb99/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/co-bill-suggests-using-artificial-intelligence-help-detect-wildfires-moves-forward-legislature.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/co-bill-suggests-using-artificial-intelligence-help-detect-wildfires-moves-forward-legislature.amp",
-      "publishedDateTime": "2023-01-27T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-ibm-to-cut-3900-jobs-globally-but-still-expects-to-hire-in-higher-growth-areas.md",
-      "title": "IBM to cut 3,900 jobs globally but still expects to hire in ‘higher-growth areas’",
-      "excerpt": "SAN FRANCISCO – International Business Machines (IBM) has announced that it will eliminate ... we are leveraging digitisation, AI (artificial intelligence) automation, which drives efficiency ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.straitstimes.com/world/united-states/ibm-cuts-3900-jobs-after-muted-consulting-demand-hits-quarterly-revenue",
-      "originalUrl": "https://www.straitstimes.com/world/united-states/ibm-cuts-3900-jobs-after-muted-consulting-demand-hits-quarterly-revenue",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/01/27/2023-01-25T221936Z570121139RC2XXY925S8BRTRMADP3IBM-RESULTS.JPG?VersionId=TzmUkPu1bNaw3sWn_VoQ3sB2zWGjcJn4",
-          "width": 860,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-27T06:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Straits Times",
-        "domain": "straitstimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-artificial-intelligence-out-buzzes-the-blockchain.md",
-      "title": "Artificial intelligence out-buzzes the blockchain",
-      "excerpt": "The blockchain is so last year. The newest craze to excite investors is artificial intelligence. BuzzFeed is case in point. Shares in the digital publisher more than doubled on Thursday after the Wall Street Journal reported that the company run by Jonah Peretti is going to use OpenAI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/breakingviews/artificial-intelligence-out-buzzes-blockchain-2023-01-27/",
-      "originalUrl": "https://www.reuters.com/breakingviews/artificial-intelligence-out-buzzes-blockchain-2023-01-27/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/DeYdHV7CD7lkZZ7mfk-skDgg4Fk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RDOIHOEZWJIDVB77W3JQZTWN6A.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-27T06:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

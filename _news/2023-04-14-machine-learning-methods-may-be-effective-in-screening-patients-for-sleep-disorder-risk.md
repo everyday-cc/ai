@@ -19,15 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "Decoding Insomnia: Machine Learning Model Predicts Sleep Disorders From Patient Records"
-    excerpt: "Analyzing demographics, lifestyle data, physical exam results, and laboratory values, a new machine-learning algorithm can accurately predict whether a person is at risk of sleep disorders. Age, weight,"
-    publishedDateTime: 2023-04-12T18:48:00Z
-    webUrl: "https://neurosciencenews.com/ai-insomnia-22992/"
+  - title: "Decoding insomnia: Machine learning model predicts sleep disorders from patient records"
+    excerpt: "A machine learning model can effectively predict a patient's risk for a sleep disorder using demographic and lifestyle data, physical exam results and laboratory values, according to a new study published this week in the open-access journal PLOS ONE by Samuel Y."
+    publishedDateTime: 2023-04-12T18:00:00Z
+    webUrl: "https://medicalxpress.com/news/2023-04-decoding-insomnia-machine-disorders-patient.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-04-decoding-insomnia-machine-disorders-patient.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-04-decoding-insomnia-machine-disorders-patient.amp"
     type: article
     provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 11
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 51
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/decoding-insomnia-mach.jpg"
+        width: 2880
+        height: 1922
+        isCached: true
 
 secured: "EwCwqrKe8B7a7CKiPHz+qu4vHYutexn3ibnaVIgqy0QMtN032M9cV+7sNt+VNl2TnkGucyzzEbXXSnfnyIwh11qqjgDQ/qePcW1PBm9b78YuXi/yGog5gFU3wexdtvQ0zO2q1efYPxuewCUF9qNYRwx/X41MwmuabojQ8m4hasUj0NhUlKcX2obcXZ+bKBeKsI0kYHfV7dzYXl7zIjo9gXHofPyGY2Dugssz8jy3GAyOImWPRd4zU2LaecfRRd6WnfTrBtFypqWePUri1Yv1whl4RSHs/Rx+I+O+HEVC7zgcv+7ToKcPbaKG2uKMm8DPSjTuPeDJ2wz2tT/kCFn2mPAo2VXjbsOwuqTR+R/12w8e8ueAiQKn1cU2PTLSgtZNiUaU29ayAGzYIj9ZK17C3x07lGKlLWgi9YxMZTpnnyN8LsjE9E128+rkPG00EC4WJ7h1yrkEAz98SpkfuZMbloid0j++tW0lx0vxAGLSy7wyiToy5gPJJcO0ufMt6SiugJfZReMiRscCnXijqJSSJA==;actgtZ4uVsjMf0awAQ8Lzg=="
 ---

@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-03-15-buy-brand-name-car-parts-online-at-amazons-oem-parts-store.md",
-      "title": "Buy brand-name car parts online at Amazon's OEM parts store",
-      "excerpt": "Pricing and availability are subject to change. Amazon is now connecting customers directly to automakers and local dealership parts departments. The Amazon OEM Automotive & Powersports Parts shop ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/article/amazon-oem-parts-shop/",
-      "originalUrl": "https://www.autoblog.com/article/amazon-oem-parts-shop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2022-09/c5082670-419d-11ed-bbfc-078f772461f7",
-          "width": 1062,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoblog.com/amp/article/amazon-oem-parts-shop/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/article/amazon-oem-parts-shop/",
-      "publishedDateTime": "2023-03-14T12:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-14-3-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade.md",
       "title": "3 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
       "excerpt": "Artificial intelligence has become integral to the operations ... Retail sales aren't highly profitable, but services (like AWS, with its 29% 2022 operating margin) are moneymakers.",
@@ -1403,6 +1360,40 @@
         "Machine Learning",
         "AWS AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-this-alphabet-segment-has-more-potential-than-artificial-intelligence.md",
+      "title": "This Alphabet Segment Has More Potential Than Artificial Intelligence",
+      "excerpt": "As the initial rush surrounding chatbots powered by artificial intelligence (AI) wears off, investors are finally starting to come to their senses that Microsoft's Bing chatbot isn't the end of Google search.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/this-alphabet-segment-has-more-potential-than-artificial-intelligence",
+      "originalUrl": "https://www.nasdaq.com/articles/this-alphabet-segment-has-more-potential-than-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-28T03:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     }
   ],

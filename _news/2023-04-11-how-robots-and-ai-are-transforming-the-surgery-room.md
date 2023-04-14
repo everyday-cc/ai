@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/science-technology/how-ai-and-robotic
 webUrl: "https://www.entrepreneur.com/science-technology/how-ai-and-robotics-can-make-healthcare-better/448464"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Adapting artificial intelligence for use in the classroom"
+    excerpt: "CEDAR FALLS, Iowa (KWWL) – It’s been the talk of the tech community for quite some time and it’s starting to make it’s way into the mainstream workflow: artificial intelligence. Programs like ChatGPT and Google AI are making it much easier to ..."
+    publishedDateTime: 2023-04-14T03:58:00Z
+    webUrl: "https://www.kwwl.com/news/top-stories/adapting-artificial-intelligence-for-use-in-the-classroom/article_d0b4f36e-da3f-11ed-85af-a739b3cab86c.html"
+    type: article
+    provider:
+      name: KWWL
+      domain: kwwl.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kwwl.com/content/tncms/assets/v3/editorial/5/4e/54e044ae-da40-11ed-a243-03f6e25512a0/64387105e3a04.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "New AI tool helping the blind"
     excerpt: "Be My Eyes app is testing ChatGPT, an artificial intelligence chatbot, to analyze images and explain them to users"
     publishedDateTime: 2023-04-12T11:53:00Z

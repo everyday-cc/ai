@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-02-20-amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road.md",
+      "title": "Amazon's self-driving unit Zoox puts driverless taxi on the road",
+      "excerpt": "Zoox, an Amazon-owned company, has begun testing its driverless taxis on public ... MARS conference on robotics and artificial intelligence at the Aria Hotel in Las Vegas, Nevada.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/news/national/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/article_43ff8c82-e6aa-548e-a507-ebb884546010.html",
+      "originalUrl": "https://www.stltoday.com/news/national/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/article_43ff8c82-e6aa-548e-a507-ebb884546010.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/3f/43ff8c82-e6aa-548e-a507-ebb884546010/63f1b9da8623d.preview.jpg?crop=1744%2C916%2C0%2C136&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-20T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-20-artificial-intelligence-is-booming-but-how-will-it-impact-your-career.md",
       "title": "Artificial Intelligence is booming – but how will it impact your career?",
       "excerpt": "Artificial Intelligence is the latest technology buzz topic thanks to the boom of ChatGPT. The AI-powered chatbot, created by Microsoft-backed OpenAI, has both impressed and shocked with its ability to answer questions, write essays and even argue legal cases.",
@@ -1427,58 +1470,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-14-amazons-zoox-robotaxi-now-giving-rides-to-employees-on-public-roads-in-california.md",
-      "title": "Amazon's Zoox robotaxi now giving rides to employees on public roads in California",
-      "excerpt": "Amazon-owned Zoox said employees are test-riding its driverless robotaxis on public roads in California. For now, the tests are limited to employees at Zoox's Foster City, California, headquarters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html",
-      "originalUrl": "https://www.cnbc.com/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106810720-1607953690861-Zoox_Autonomous_Vehicle_-_Single_Side_-_Coit_Tower_SF.jpg?v=1676314425",
-          "width": 2800,
-          "height": 1867,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html",
-      "publishedDateTime": "2023-02-13T22:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

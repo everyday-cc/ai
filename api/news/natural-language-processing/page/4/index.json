@@ -2,6 +2,103 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-21-ai-gets-hang-of-gujarati-to-translate-chinese-hindi-text.md",
+      "title": "AI gets hang of Gujarati to translate Chinese, Hindi text",
+      "excerpt": "Taking a cue from ChatGPT that has taken the world by storm, demonstrating what a good database coupled with natural language processing (NLP) can do,",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/ahmedabad/ai-gets-hang-of-gujarati-to-translate-chinese-hindi-text/articleshow/98106976.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/ahmedabad/ai-gets-hang-of-gujarati-to-translate-chinese-hindi-text/articleshow/98106976.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-98106990,width-1070,height-580,imgsize-1198029,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/ahmedabad/ai-gets-hang-of-gujarati-to-translate-chinese-hindi-text/amp_articleshow/98106976.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/ahmedabad/ai-gets-hang-of-gujarati-to-translate-chinese-hindi-text/amp_articleshow/98106976.cms",
+      "publishedDateTime": "2023-02-20T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-20-you-might-start-seeing-ai-chatbots-everywhere-thanks-to-the-gpt-effect.md",
+      "title": "You might start seeing AI chatbots everywhere, thanks to 'the GPT effect'",
+      "excerpt": "AI technology is being developed, for instance, in assisting with health care research, to fight cyberattacks, and to improve supply chain logistics. Using AI in this way can help \"if you want to experiment in a low cost way, without making a commitment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2",
+      "originalUrl": "https://www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63efcf6efeee2300187c7e43?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2?amp",
+      "publishedDateTime": "2023-02-20T03:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Robotics",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-02-18-7-free-online-coursera-classes-to-take-if-you-want-to-work-in-ai-from-experts-at-amazon-meta-and-others.md",
       "title": "7 free online Coursera classes to take if you want to work in AI, from experts at Amazon, Meta, and others",
       "excerpt": "It also addresses the professional and business opportunities that come with the metaverse and is taught by experts from Meta ... and the influence of AI-driven technology on workers. \"The course introduces you to cutting-edge research in the economics ...",
@@ -1336,101 +1433,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-google-translate-gets-ai-powered-contextual-translation.md",
-      "title": "Google Translate gets AI-powered contextual translation",
-      "excerpt": "Google is bringing more contextual translation options to the app. That’s where AI will play a big role, offering users descriptions and examples in the translated language: So whether you’re ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/tech/google-translate-gets-ai-powered-contextual-translation/",
-      "originalUrl": "https://bgr.com/tech/google-translate-gets-ai-powered-contextual-translation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2022/11/rsz_gettyimages-1173782216.jpg?quality=82&strip=all",
-          "width": 3120,
-          "height": 2080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T08:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-google-translate-app-adds-more-context-in-case-of-multiple-meanings.md",
-      "title": "Google Translate App Adds More Context in Case of Multiple Meanings",
-      "excerpt": "Google's AI-powered Translate app has saved many a lost tourist in its time, but on Wednesday the company said it's getting an upgrade. Over the past year, Google has added more languages to its translation tool, including in offline mode. Now, it's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/google-redesigns-translate-app-adds-more-context-in-case-of-multiple-meanings/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/google-redesigns-translate-app-adds-more-context-in-case-of-multiple-meanings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/a88ebdaf0048eb08a4cb92c168e98027f1c56da0/hub/2023/02/08/2d11bc90-7f23-4347-a07a-1b3e251aea4c/gettyimages-1245835347.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-redesigns-translate-app-adds-more-context-in-case-of-multiple-meanings/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-redesigns-translate-app-adds-more-context-in-case-of-multiple-meanings/",
-      "publishedDateTime": "2023-02-08T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

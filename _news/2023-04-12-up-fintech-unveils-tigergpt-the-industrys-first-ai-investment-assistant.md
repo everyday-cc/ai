@@ -1,29 +1,44 @@
 ---
 category: news
 title: "UP Fintech unveils TigerGPT, the industry's first AI investment assistant"
-excerpt: "TigerGPT is currently the industry's first AI investment assistant and part of UP Fintech's broad layout of internet services; Now in user testing, TigerGPT aims to offer timely m"
-publishedDateTime: 2023-04-12T09:18:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/04/12/9792770.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/04/12/9792770.htm"
+excerpt: "UP Fintech unveils TigerGPT, the industry's first AI investment assistant Apr 12, 2023 (PRNewswire via COMTEX) -- PR Newswire NEW YORK, April 12,"
+publishedDateTime: 2023-04-12T08:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/up-fintech-unveils-tigergpt-the-industrys-first-ai-investment-assistant-2023-04-12"
+webUrl: "https://www.marketwatch.com/press-release/up-fintech-unveils-tigergpt-the-industrys-first-ai-investment-assistant-2023-04-12"
 type: article
-quality: 38
-heat: 38
-published: false
+quality: 68
+heat: 78
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/2052416/image_822796_24155510.jpg"
-    width: 400
-    height: 400
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "C5PokJd8gGsNTTl1bsWF+ZVYvIx5QO0mzjl+xZ8euEi2i8wlwPqpMWQcnCkkNLHRqyen3Q5j61cNYmZ4v2rmYqM2z5ZeYt15iJkflTSE2ErLmJ74XyMGUQYsQ/jsdX6evNqxPSQ/bzrQ3PiyL6LwURFXFyjgyMgiZXAl+lN9cXa817RSP4Nghdh2gdi+3yGo6jMeY/aZpUuuX+7vSz3uVdiQsynb2vrGX6o7l6zfb14pyJaTEHJ3opwyodmrueiJuBiJZQAYA3y7CCOHpHhA0qMzy9QIYSbD/0N3TQtK1FdQYGmU352T475+fkFe7OayB6ERfJbeW49cu/NphdTF0t9m/f6g4BgPKW6H24vre/A=;jBkeoobpVq1a+vjs4B5T9A=="
+related:
+  - title: "AI in Fintech Market Growth and Forecast till 2031"
+    excerpt: "The latest market research report on the Global \"AI in Fintech Market\" is segmented by Regions, Country, Company and"
+    publishedDateTime: 2023-04-13T06:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-growth-and-forecast-till-2031-2023-04-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+
+secured: "Qv/KKUFuFyQuTpv9/4veW4HippX06AX7Bk1zyxr77rbATW2pfslDOkubKYyWZzxOElZAz0BQLheOyz6eUU+9dQhN6AIpRK6EdpkpYR/nfDxgD82BP5u0ZCNCgcg1Gfyg8aw04fk3g/dzaVqh9kEpNalDdb2zgRKO3Vg0ACjKejE6HfGUwuKylWiuN/Fca/vVINrAEK/s1h8XVJqVQy6q68MIc5OjRVt85yHDCsKhJaEVAgPmixF+Dn4FNBLXyYKXLD2vWm4+vLXT1fo5RCCRwFviD7M+/AAObdNPU5SZMUTZe+9hcUZWh8/8NhWiLmmm75Yx89Uj5aKkpqxKHDqSPmvdUgT3svs3ZQpfnnL7Smw=;lSh8nPOSyTo2bUUiuQTZXA=="
 ---
 

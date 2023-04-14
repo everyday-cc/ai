@@ -39,10 +39,10 @@ related:
     quality: 27
   - title: "KIYC: Is technology ready for self-driving cars? Some drivers have doubts"
     excerpt: "Americans are killed in car accidents and the car industry says self-driving vehicles will eventually make the roads safer."
-    publishedDateTime: 2023-04-13T13:00:00Z
-    webUrl: "https://longisland.news12.com/america-self-driving-cars-technology-drivers-have-doubts"
-    ampWebUrl: "https://longisland.news12.com/amp/america-self-driving-cars-technology-drivers-have-doubts"
-    cdnAmpWebUrl: "https://longisland-news12-com.cdn.ampproject.org/c/s/longisland.news12.com/amp/america-self-driving-cars-technology-drivers-have-doubts"
+    publishedDateTime: 2023-04-13T14:00:00Z
+    webUrl: "https://brooklyn.news12.com/america-self-driving-cars-technology-drivers-have-doubts"
+    ampWebUrl: "https://brooklyn.news12.com/amp/america-self-driving-cars-technology-drivers-have-doubts"
+    cdnAmpWebUrl: "https://brooklyn-news12-com.cdn.ampproject.org/c/s/brooklyn.news12.com/amp/america-self-driving-cars-technology-drivers-have-doubts"
     type: article
     provider:
       name: News 12 Networks

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-01-17-stable-diffusion-ai-art-lawsuit-plus-caution-from-openai-deepmind-the-ai-beat.md",
+      "title": "Stable Diffusion AI art lawsuit, plus caution from OpenAI, DeepMind | The AI Beat",
+      "excerpt": "Stability AI and Midjourney were hit with a copyright infringement lawsuit, while OpenAI and DeepMind are signaling generative AI caution.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/",
+      "originalUrl": "https://venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-16-at-10.28.05-AM-e1673882948444.png?w=1200&strip=all",
+          "width": 703,
+          "height": 436,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stable-diffusion-lawsuit-plus-words-of-caution-from-openai-deepmind-the-ai-beat/amp/",
+      "publishedDateTime": "2023-01-16T08:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-16-deepminds-ai-chatbot-can-do-things-that-chatgpt-cannot-ceo-claims.md",
       "title": "DeepMind’s AI chatbot can do things that ChatGPT cannot, CEO claims",
       "excerpt": "Google’s DeepMind has pioneered advances in artificial intelligence since its founding in 2010, with the ultimate goal of creating a human-level AI (Alan Warburton / Better Images of AI / CC ...",
@@ -1355,40 +1407,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-deepminds-alphacode-can-outcompete-human-coders.md",
-      "title": "DeepMind's AlphaCode Can Outcompete Human Coders",
-      "excerpt": "DeepMind's AlphaCode model performed well against human coders in a programming competition, with a paper describing its overall performance as similar to that of a \"novice programmer\" with up to a year of training AlphaCode achieved \"approximately human-level performance\" and solved previously unseen natural language problems by forecasting code segments and generating millions of potential solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/267656-deepminds-alphacode-can-outcompete-human-coders/fulltext",
-      "originalUrl": "https://cacm.acm.org/news/267656-deepminds-alphacode-can-outcompete-human-coders/fulltext",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

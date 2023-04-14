@@ -35,6 +35,34 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Can AI answer your money questions? We put chatbots to the test"
+    excerpt: "Face it, we could all use a little help with our money. So who better to ask for personal finance advice than a couple of the most powerful chatbots on the planet?"
+    publishedDateTime: 2023-04-13T12:26:00Z
+    webUrl: "https://www.reuters.com/markets/wealth/can-ai-answer-your-money-questions-we-put-chatbots-test-2023-04-13/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/jNVRinp2T_SXac_4KvfiD0LjfVA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5MBSSC3XD5ORJMYHLNP4RJMSVI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Company Ditches Humans in Favor of ChatGPT-Style AI"
+    excerpt: "Move over Don Draper: at least one agency thinks AI can devise better ads than humans ever could. Bluefocus Intelligent Communications Group Co. plans to replace its external copywriters and graphic designers with ChatGPT-like generative AI models,"
+    publishedDateTime: 2023-04-14T02:35:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-04-14/company-ditches-humans-in-favor-of-chatgpt-style-ai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIowefic0EuM/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "When You Use ChatGPT You Could Be Legally Liable, AI Ethics And Law Experts Warn"
     excerpt: "When using ChatGPT, you have agreed to a licensing requirement that allows OpenAI to come after you if they get sued for something you allegedly did that caused harm while making use of ChatGPT. This is the dreaded indemnification clause."
     publishedDateTime: 2023-04-10T11:01:00Z

@@ -1,22 +1,32 @@
 ---
 category: news
 title: "Certis Oncology Solutions Launches Predictive Analytics Platform"
-excerpt: "Bioinformatics solution combines artificial intelligence, machine learning, and functional testing to elevate precision cancer treatment Certis Oncology Solutions (\"Certis\"), a precision oncology and"
+excerpt: "Certis Oncology Solutions (“Certis”), a precision oncology and translational science company focused on combining"
 publishedDateTime: 2023-04-13T16:02:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/04/b31792164/certis-oncology-solutions-launches-predictive-analytics-platform"
-webUrl: "https://www.benzinga.com/pressreleases/23/04/b31792164/certis-oncology-solutions-launches-predictive-analytics-platform"
+originalUrl: "https://www.marketwatch.com/press-release/certis-oncology-solutions-launches-predictive-analytics-platform-2023-04-13"
+webUrl: "https://www.marketwatch.com/press-release/certis-oncology-solutions-launches-predictive-analytics-platform-2023-04-13"
 type: article
-quality: 4
-heat: -1
+quality: 54
+heat: 64
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "UserTesting launches machine learning-powered Friction Detection for enhanced behavioral analytics"
@@ -29,6 +39,6 @@ related:
       domain: venturebeat.com
     quality: 35
 
-secured: "UIC5YCNuNV2Ce1Xfk9sn0qlB8PwUw+IDE1gfmjTBz97X1+aSMRTJPq2cehmfhHxnhyyYwwcTv+/IiJUlngvVA9o0umQgy/UzJhAhRt8G2dzefB6L9dbvxVUrwUH/L8JXd7Qp8kFyYjGKPWVvd+Na+EaE+YwafXABy1k1qG83703tAmpEEy1rOi/I+D6FpIup52UY6aIBRksDLAFJ3KW+wn0bAshoIwIlw1W+ESK+JNMCnf9CaNjJedgqLOyxs8MFDNFBJ4oEv6gvZn5bwjKLmkx39UOhTDnLHRYL3tKLDnfO+gIOSuU4hl2hb1mUpN+37OZl4gcZMQ+a7h40CPiRUtCg39k0NLnumHAwARyKXmo=;OeF8XiKHIUItgG7QzvG2yg=="
+secured: "xiUsO0HPEC8ib3VYlHg/0PSTO6ksfUcZUV29QKaf+DNQw8WsX9lOMCBYpUbvgpZyeVuObXpB4T1robfbzEBa9gnrNSChHfBKKaaYBk+m2FVg4aRjABDh13VDGW5Bri1L88xp8kYLX7g850h7dGiS7k2B9oAqBeBi3RLaj63sGuzX519BJnzEWSD/wJFp+MZxGV9GS85VCmYDkSki1pwCluHSfOUmoKGrtX68hTZre3LPXEBptxWGUEkL31THnxBtUcAuAySh1pyszH/vm2/HPpwF1z6jzmNStgUSBwjBbCvHbzoglX7Kyu8lkzmu8OMKBP0ridB28vGJIpDiOSoxkQ6HtiX2gOwrCxlbWH3JYUQ=;sk+Gb8jU9Rw/Cqql0qfEQQ=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-14-amazons-andy-jassy-says-artificial-intelligence-will-be-a-big-deal-for-company.md",
+      "title": "Amazon’s Andy Jassy Says Artificial Intelligence Will Be A ‘Big Deal’ For Company",
+      "excerpt": "The Seattle company will continue to invest in specialized chips most used for machine learning, its advertising business as well as generative AI tools",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/business/amazon-s-andy-jassy-says-artificial-intelligence-will-be-a-big-deal-for-company-news-278193",
+      "originalUrl": "https://www.outlookindia.com/business/amazon-s-andy-jassy-says-artificial-intelligence-will-be-a-big-deal-for-company-news-278193",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgnew.outlookindia.com/uploadimage/library/free_files/jpg/ole_co_2023_04_10_050929.jpg?v=25022022",
+          "width": 768,
+          "height": 1027,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/business/amazon-s-andy-jassy-says-artificial-intelligence-will-be-a-big-deal-for-company-news-278193/amp",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/amazon-s-andy-jassy-says-artificial-intelligence-will-be-a-big-deal-for-company-news-278193/amp",
+      "publishedDateTime": "2023-04-13T19:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-14-mind-your-language-the-risks-of-using-ai-powered-chatbots-like-chatgpt-in-an-organization.md",
       "title": "Mind your language: The risks of using AI-powered chatbots like ChatGPT in an organization",
       "excerpt": "A spate of recent news points up the potential security and other pitfalls of using AI chatbots like ChatGPT within an organization.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://venturebeat.com/ai/mind-your-language-risks-using-ai-powered-chatbots-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -41,6 +84,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-amazon-jumps-into-the-generative-ai-race-with-new-cloud-service.md",
+      "title": "Amazon jumps into the generative AI race with new cloud service",
+      "excerpt": "The announcement indicates the largest provider of cloud infrastructure won’t be leaving a trendy growth area to challengers such as Google and Microsoft.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/amazon-jumps-generative-race-new-cloud-service-rcna79599",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/amazon-jumps-generative-race-new-cloud-service-rcna79599",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211215-las-vegas-the-venetian-expo-aws-ac-1159p-b07aeb.jpg",
+          "width": 2500,
+          "height": 1663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna79599",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna79599",
+      "publishedDateTime": "2023-04-13T18:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -104,15 +189,15 @@
       ]
     },
     {
-      "path": "_news/2023-04-14-reinventing-financial-services-with-next-gen-ai.md",
-      "title": "Reinventing financial services with next-gen AI",
-      "excerpt": "As part of a surging embrace of AI, financial services companies are joining others developing next-gen autonomous, cloud-based assistants.",
+      "path": "_news/2023-04-14-amazon-aws-expands-generative-ai-efforts-with-bedrock-and-codewhisperer-updates.md",
+      "title": "Amazon AWS expands generative AI efforts with Bedrock and CodeWhisperer updates",
+      "excerpt": "Amazon Web Services (AWS), announced today that it is expanding its generative AI services in a bid to make the technology more available to organizations in the cloud.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/reinventing-financial-services-with-next-gen-ai/",
-      "originalUrl": "https://venturebeat.com/ai/reinventing-financial-services-with-next-gen-ai/",
+      "webUrl": "https://venturebeat.com/ai/amazon-aws-expands-generative-ai-efforts-with-bedrock-and-codewhisperer-updates/",
+      "originalUrl": "https://venturebeat.com/ai/amazon-aws-expands-generative-ai-efforts-with-bedrock-and-codewhisperer-updates/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 112,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -142,28 +227,27 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
         "Microsoft AI",
-        "Natural Language Processing"
+        "AI",
+        "AWS AI"
       ]
     },
     {
-      "path": "_news/2023-04-14-amazon-joins-generative-ai-race-targets-tech-at-cloud-customers.md",
-      "title": "Amazon joins generative AI race, targets tech at cloud customers",
-      "excerpt": "Amazon.com Inc. is joining Microsoft Corp. and Google in the generative artificial intelligence race, announcing technology aimed at its cloud customers as well as a marketplace for AI tools from other companies.",
+      "path": "_news/2023-04-13-telescent-and-mit-csail-collaborate-to-accelerate-machine-learning-workflows.md",
+      "title": "Telescent and MIT CSAIL Collaborate to Accelerate Machine Learning Workflows",
+      "excerpt": "Telescent Inc., a leading manufacturer of automated fiber patch-panels and cross-connects for networks and data",
       "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-04-amazon-generative-ai-tech-cloud.html",
-      "originalUrl": "https://techxplore.com/news/2023-04-amazon-generative-ai-tech-cloud.html",
+      "webUrl": "https://www.marketwatch.com/press-release/telescent-and-mit-csail-collaborate-to-accelerate-machine-learning-workflows-2023-04-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/telescent-and-mit-csail-collaborate-to-accelerate-machine-learning-workflows-2023-04-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 81,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/amazon-3.jpg",
-          "width": 1920,
-          "height": 1738,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -171,14 +255,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-04-amazon-generative-ai-tech-cloud.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-amazon-generative-ai-tech-cloud.amp",
-      "publishedDateTime": "2023-04-13T11:15:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T07:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -187,7 +280,7 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "Machine Learning",
         "AI"
       ]
     },
@@ -337,49 +430,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-13-announcing-new-tools-for-building-with-generative-ai-on-aws.md",
-      "title": "Announcing New Tools for Building with Generative AI on AWS",
-      "excerpt": "The seeds of a machine learning (ML) paradigm shift have existed for decades, but with the ready availability of scalable compute capacity, a massive proliferation of data, and the rapid advancement of ML technologies, customers across industries are transforming their businesses. Just recently, generative",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-new-tools-for-building-with-generative-ai-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-new-tools-for-building-with-generative-ai-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 234,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T05:41:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-13-how-to-build-a-decision-tree-model-in-ibm-db2.md",
       "title": "How to build a decision tree model in IBM Db2",
       "excerpt": "After developing a machine learning model, you need a place to run your model and serve predictions. Here is how I build such a model in IBM Db2.\nThe post How to build a decision tree model in IBM Db2 appeared first on IBM Blog.\n",
@@ -430,7 +480,7 @@
       "originalUrl": "https://www.ibm.com/blog/top-3-considerations-for-adopting-rise-with-sap-to-modernize-your-operations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -515,7 +565,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/nvidia-stock-fell-when-it-introduced-a-cheaper-ai-enhanced-gpu-2023-04-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -770,6 +820,58 @@
       "topics": [
         "Microsoft AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-04-12-up-fintech-unveils-tigergpt-the-industrys-first-ai-investment-assistant.md",
+      "title": "UP Fintech unveils TigerGPT, the industry's first AI investment assistant",
+      "excerpt": "UP Fintech unveils TigerGPT, the industry's first AI investment assistant Apr 12, 2023 (PRNewswire via COMTEX) -- PR Newswire NEW YORK, April 12,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/up-fintech-unveils-tigergpt-the-industrys-first-ai-investment-assistant-2023-04-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/up-fintech-unveils-tigergpt-the-industrys-first-ai-investment-assistant-2023-04-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-12T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     },
     {
@@ -1037,91 +1139,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-global-executives-and-ai-strategy-for-hr-how-to-tackle-bias-in-algorithmic-ai.md",
-      "title": "Global executives and AI strategy for HR: How to tackle bias in algorithmic AI",
-      "excerpt": "The move towards monitoring HR tools and applications for bias is gaining traction worldwide, driven by various global and domestic data privacy laws and the US Equal Employment Opportunity Commission (EEOC). In line with this trend, the New York City Council has enacted new regulations requiring organizations",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/global-executives-and-ai-strategy-for-hr-how-to-tackle-bias-in-algorithmic-ai/",
-      "originalUrl": "https://www.ibm.com/blog/global-executives-and-ai-strategy-for-hr-how-to-tackle-bias-in-algorithmic-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-how-ibm-invests-in-opportunities-to-reach-maximum-equitable-impact.md",
-      "title": "How IBM invests in opportunities to reach maximum equitable impact",
-      "excerpt": "At IBM, we strive each day to achieve our purpose; to be the catalyst that helps makes the world work better. We endeavor to be at the forefront of groundbreaking changes in the industries we serve and the global community at large. None of this would be possible without skilled and talented IBMers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-ibm-invests-in-opportunities-to-reach-maximum-equitable-impact/",
-      "originalUrl": "https://www.ibm.com/blog/how-ibm-invests-in-opportunities-to-reach-maximum-equitable-impact/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T06:05:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

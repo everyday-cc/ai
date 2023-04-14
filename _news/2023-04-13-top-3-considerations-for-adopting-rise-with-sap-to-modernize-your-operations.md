@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/top-3-considerations-for-adopting-rise-wi
 webUrl: "https://www.ibm.com/blog/top-3-considerations-for-adopting-rise-with-sap-to-modernize-your-operations/"
 type: article
 quality: 79
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -31,6 +31,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
+  - title: "Harnessing the AI Revolution For Businesses Means Balancing Risks, Rewards, and Ethical Considerations"
+    excerpt: "The AI revolution for businesses is rapidly accelerating, offering significant benefits. However, companies must also navigate challenges like inaccuracies and tackling biases ingrained in AI models to achieve the tool’s full potential."
+    publishedDateTime: 2023-04-11T22:38:00Z
+    webUrl: "https://marketscale.com/industries/software-and-technology/harnessing-the-ai-revolution-for-businesses-means-balancing-risks-rewards-and-ethical-considerations/"
+    type: article
+    provider:
+      name: marketscale
+      domain: marketscale.com
+    quality: 18
 
 secured: "t0+ZHi9SHGRlpma5WvImeRDpemXvh2FY8AaHknwC7vaKeZdP4+yuM7ujl2V6SA8ejuRok6SVuAS6S9XRpMqONAUOjWB7UuyBKi73P3ZQqQvAM3RNiVveNAmKWQUp1ZFR6SzSsYzireaHNyWP0O0yT/ejcdjr+yPyDrCHhIjNUv+dSOt0PgTSIK6QEVXTYFrlKdnPz3DfemfiYSDvxMelnp7j7iuyklXCctS6FQt1hb8UTtHqAEApXwEFRDuwHCt5/ckOqEWXz12vKGkH/BIin8yROUOETeb6bLjoI1THlXQJOyPXPbSubKjuF95qloFFdbSlorP16x6f9XXZR6bfl0MaaS6yw99qbSQduK0bk+Q=;3LK5Hu90vqDZrolLZ5/YSg=="
 ---

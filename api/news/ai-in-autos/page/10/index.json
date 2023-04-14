@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-01-31-would-baidus-answer-to-chatgpt-make-a-difference.md",
+      "title": "Would Baidu’s answer to ChatGPT make a difference?",
+      "excerpt": "Baidu, China’s top search engine provider ... and where its limitations lie. A driving force shaping China’s tech development over the past few years is the rise of digital sovereignty ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/01/31/would-baidus-answer-to-chatgpt-make-a-difference/",
+      "originalUrl": "https://techcrunch.com/2023/01/31/would-baidus-answer-to-chatgpt-make-a-difference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/01/baidu-ces-2018-0522.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/01/31/would-baidus-answer-to-chatgpt-make-a-difference/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/31/would-baidus-answer-to-chatgpt-make-a-difference/amp/",
+      "publishedDateTime": "2023-01-31T02:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-31-artificial-intelligence-across-the-lending-life-cycle.md",
       "title": "Artificial Intelligence Across The Lending Life Cycle",
       "excerpt": "When AI augments rather than replaces good lending practices, it can support fairer outcomes and improve financial well-being.",
@@ -1403,60 +1455,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-artificial-intelligence-stocks-to-buy-which-tech-companies-will-break-out-in-2023.md",
-      "title": "Artificial Intelligence Stocks To Buy: Which Tech Companies Will Break Out In 2023?",
-      "excerpt": "With the rise of ChatGPT, all eyes are on the artificial intelligence space as investors and analysts look for the best investment opportunities right now Even though major tech companies had a rough year in the stock market in 2022, there are plenty of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/01/26/artificial-intelligence-stocks-to-buy-which-tech-companies-will-break-out-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/01/26/artificial-intelligence-stocks-to-buy-which-tech-companies-will-break-out-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63d19ed712cd6030ab922d84/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/01/26/artificial-intelligence-stocks-to-buy-which-tech-companies-will-break-out-in-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/26/artificial-intelligence-stocks-to-buy-which-tech-companies-will-break-out-in-2023/amp/",
-      "publishedDateTime": "2023-01-26T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos",
-        "AWS AI"
       ]
     }
   ],

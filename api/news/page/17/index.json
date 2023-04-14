@@ -2,6 +2,444 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-03-23-artificial-intelligence-is-rapidly-developing-but-how-does-it-work-experts-explain-part-1.md",
+      "title": "Artificial intelligence is rapidly developing, but how does it work? Experts explain. (Part 1)",
+      "excerpt": "For many of us, the term artificial intelligence conjures up images of science fiction movies. But what is it really? As AI technology becomes a bigger part of our world, Lester Holt sits down with Tristan Harris and Aza Raskin,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/artificial-intelligence-is-rapidly-developing-but-how-does-it-work-experts-explain-part-1-166337605617",
+      "originalUrl": "https://www.nbcnews.com/video/artificial-intelligence-is-rapidly-developing-but-how-does-it-work-experts-explain-part-1-166337605617",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/x_nn_films_lho_ai_230323_Video_Mixdown_1_frame_353-7v5di9.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo166337605617",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo166337605617",
+      "publishedDateTime": "2023-03-22T16:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-ai-race-to-recklessness-could-have-dire-consequences-tech-experts-warn-in-new-interview.md",
+      "title": "AI ‘race to recklessness’ could have dire consequences, tech experts warn in new interview",
+      "excerpt": "Artificial intelligence has developed rapidly in recent years, stoking concerns that the technology is being released too quickly and without enough testing. Lester Holt speaks with Tristan Harris and Aza Raskin,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/ai-race-to-recklessness-could-have-dire-consequences-tech-experts-warn-in-new-interview-166341189759",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/ai-race-to-recklessness-could-have-dire-consequences-tech-experts-warn-in-new-interview-166341189759",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/1679526691700_nn_lho_ai_revolution_warnings_230322_1920x1080-0edt0f.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo166341189759",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo166341189759",
+      "publishedDateTime": "2023-03-22T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-nvidia-stock-hits-best-winning-streak-since-2007-as-ai-advantage-called-insurmountable.md",
+      "title": "Nvidia stock hits best winning streak since 2007 as AI advantage called ‘insurmountable’",
+      "excerpt": "On Tuesday, Nvidia founder and Chief Executive Jensen Huang announced a slew of products and services targeted at expanding AI development, including new chips and platforms specifically targeted at generative AI applications as well as AI video and image ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/nvidia-stock-hits-best-winning-streak-since-2007-as-ai-advantage-called-insurmountable-6b79a4e8",
+      "originalUrl": "https://www.marketwatch.com/story/nvidia-stock-hits-best-winning-streak-since-2007-as-ai-advantage-called-insurmountable-6b79a4e8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-609932/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidia-stock-hits-best-winning-streak-since-2007-as-ai-advantage-called-insurmountable-6b79a4e8",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-stock-hits-best-winning-streak-since-2007-as-ai-advantage-called-insurmountable-6b79a4e8",
+      "publishedDateTime": "2023-03-22T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-socialcoach-taps-fintech-exec-andria-lightfoot-and-launches-ai-driven-social-media-marketing-solution.md",
+      "title": "SocialCoach Taps Fintech Exec Andria Lightfoot and Launches AI Driven Social Media Marketing Solution",
+      "excerpt": "The mortgage centric social media marketing software company today announced the launch of its new innovative product enhancement integrating Artificial Intelligence (AI) to help mortgage lenders and loan officers drive social selling and lead generation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/socialcoach-taps-fintech-exec-andria-lightfoot-and-launches-ai-driven-social-media-marketing-solution-2023-03-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/socialcoach-taps-fintech-exec-andria-lightfoot-and-launches-ai-driven-social-media-marketing-solution-2023-03-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.send2press.com/wire/images/23-0322-s2p-Andria-Lightfoot-800x600.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-adobes-thoughts-on-the-ethics-of-ai-generated-images-and-paying-its-contributors-for-them.md",
+      "title": "Adobe’s thoughts on the ethics of AI-generated images (and paying its contributors for them)",
+      "excerpt": "Indeed, Adobe itself put AI ethics in the spotlight because the company clearly believes that this is, in part, what allows it to differentiate its generative AI offerings from those of its ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/22/adobes-thoughts-on-the-ethics-of-ai-generated-images-and-paying-its-contributors-for-them/",
+      "originalUrl": "https://techcrunch.com/2023/03/22/adobes-thoughts-on-the-ethics-of-ai-generated-images-and-paying-its-contributors-for-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/adobe_summit.jpg?resize=1200,904",
+          "width": 1200,
+          "height": 904,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/22/adobes-thoughts-on-the-ethics-of-ai-generated-images-and-paying-its-contributors-for-them/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/adobes-thoughts-on-the-ethics-of-ai-generated-images-and-paying-its-contributors-for-them/amp/",
+      "publishedDateTime": "2023-03-22T15:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-testgpt-a-generative-ai-tool-for-ensuring-code-integrity-is-released-for-beta.md",
+      "title": "TestGPT, a generative AI tool for ensuring code integrity, is released for beta",
+      "excerpt": "Codium AI released a beta version of its generative AI-powered code-integrity solution, TestGPT, to assist developers in testing their code.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/testgpt-a-generative-ai-tool-for-ensuring-code-integrity-is-released-for-beta/",
+      "originalUrl": "https://venturebeat.com/ai/testgpt-a-generative-ai-tool-for-ensuring-code-integrity-is-released-for-beta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/02/code-e1679497958730.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/testgpt-a-generative-ai-tool-for-ensuring-code-integrity-is-released-for-beta/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/testgpt-a-generative-ai-tool-for-ensuring-code-integrity-is-released-for-beta/amp/",
+      "publishedDateTime": "2023-03-22T15:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-indian-origin-intel-gpu-chief-raja-koduri-quits-to-form-generative-ai-startup.md",
+      "title": "Indian-origin Intel GPU chief Raja Koduri quits to form generative AI startup",
+      "excerpt": "Indian-American Raja Koduri, head of Intel's Accelerated Computing Systems and Graphics Group, has quit the chip-making major to form his own generative artificial intelligence (AI) startup.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestatesman.com/technology/indian-origin-intel-gpu-chief-raja-koduri-quits-to-form-generative-ai-startup-1503165300.html",
+      "originalUrl": "https://www.thestatesman.com/technology/indian-origin-intel-gpu-chief-raja-koduri-quits-to-form-generative-ai-startup-1503165300.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestatesman.com/wp-content/uploads/2023/03/39d880d47802503de43bbed95e10de03.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestatesman.com/technology/indian-origin-intel-gpu-chief-raja-koduri-quits-to-form-generative-ai-startup-1503165300.html/amp",
+      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/indian-origin-intel-gpu-chief-raja-koduri-quits-to-form-generative-ai-startup-1503165300.html/amp",
+      "publishedDateTime": "2023-03-22T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Statesman",
+        "domain": "thestatesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-catch-the-next-big-tech-ai-wave-startups-flock-to-openais-chat-gpt-and-dall-e.md",
+      "title": "Catch The Next Big Tech AI Wave: Startups Flock To OpenAI’s Chat GPT And DALL-E",
+      "excerpt": "As the 2020s unfold, it's becoming increasingly clear that AI has the potential to generate significant wealth for those who can harness its power. Whether you're a startup founder looking to streamline your operations or a tech entrepreneur with a new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/03/22/catch-the-next-big-tech-ai-wave-startups-flock-to-openais-chat-gpt-and-dall-e/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/03/22/catch-the-next-big-tech-ai-wave-startups-flock-to-openais-chat-gpt-and-dall-e/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641b66e3a9d4c17aad161d37/0x0.jpg?format=jpg&width=1200",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/03/22/catch-the-next-big-tech-ai-wave-startups-flock-to-openais-chat-gpt-and-dall-e/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/03/22/catch-the-next-big-tech-ai-wave-startups-flock-to-openais-chat-gpt-and-dall-e/amp/",
+      "publishedDateTime": "2023-03-22T13:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-a-tough-stock-not-to-own-wall-street-endorses-club-name-nvidia-as-it-dominates-ai.md",
+      "title": "'A tough stock not to own.' Wall Street endorses Club name Nvidia, as it dominates AI",
+      "excerpt": "\"Generative AI is marking an inflection point for AI and we continue ... Nvidia (NVDA) has demonstrated this week that both its chips and budding software offerings are integral to the future of artificial intelligence, bolstering the Club case in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/03/22/a-tough-stock-not-to-own-wall-street-endorses-club-holding-nvidia.html",
+      "originalUrl": "https://www.cnbc.com/2023/03/22/a-tough-stock-not-to-own-wall-street-endorses-club-holding-nvidia.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107198977-1677173650792-huang.jpg?v=1679516659&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-23-texas-lawmaker-uses-chatgpt-to-deliver-remarks-on-ai-bill.md",
       "title": "Texas lawmaker uses ChatGPT to deliver remarks on AI bill",
       "excerpt": "That’s why we need HB 2060.” He said the council created by this proposal would monitor use of AI by state agencies, examine the need for a code of ethics for AI systems and recommend policies to protect Texans’ privacy. “House Bill 2060 is a ...",
@@ -773,430 +1211,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-github-unveils-copilot-x-the-future-of-ai-powered-software-development.md",
-      "title": "GitHub unveils Copilot X: The future of AI-powered software development",
-      "excerpt": "GitHub is introducing Copilot X, adopting the latest OpenAI GPT-4 model and expanding Copilot's capabilities with chat and pull requests.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai-powered-software-development/",
-      "originalUrl": "https://venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai-powered-software-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Screenshot-2023-03-22-at-12.09.08-AM.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai-powered-software-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai-powered-software-development/amp/",
-      "publishedDateTime": "2023-03-22T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-nvidia-stock-gtc-confirms-the-ai-opportunity-but-the-goodness-is-priced-in-says-deutsche-bank.md",
-      "title": "Nvidia Stock: GTC Confirms the AI Opportunity, but the Goodness Is Priced in, Says Deutsche Bank",
-      "excerpt": "There’s no way around it, artificial intelligence (AI) looks set to play an increasingly big role in our daily lives and Nvidia (NVDA) has positioned itself at the forefront of this revolution. The chip giant’s pivot to all things AI was already well ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-gtc-confirms-the-ai-opportunity-but-the-goodness-is-priced-in-says-deutsche-bank-1032185028",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-gtc-confirms-the-ai-opportunity-but-the-goodness-is-priced-in-says-deutsche-bank-1032185028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/03/image-544-1024x506.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 1024,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup.md",
-      "title": "Intel GPU chief Raja Koduri quits to form own generative AI startup",
-      "excerpt": "Indian-American Raja Koduri, head of Intel's Accelerated Computing Systems and Graphics Group, has quit the chip-making major to form his own generative artificial intelligence (AI) startup.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-10/12/full/1665536422-4008.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html",
-      "publishedDateTime": "2023-03-22T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more.md",
-      "title": "Microsoft unveils plans to use AI feature in Outlook, Excel and more",
-      "excerpt": "On the other hand, AI critics worry it will bring more harm ... and perform a wide range of language-related tasks such as language translation, text summarization [and] sentiment analysis.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.koin.com/reviews/br/electronics-br/computer-components-br/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/",
-      "originalUrl": "https://www.koin.com/reviews/br/electronics-br/computer-components-br/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KOIN 6",
-        "domain": "koin.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-scientists-at-deepmind-and-meta-press-fusion-of-ai-biology.md",
-      "title": "Scientists at DeepMind and Meta Press Fusion of AI, Biology",
-      "excerpt": "AlphaFold was a huge advance in protein structure prediction…which led to a whole new wave of using deep learning,” says computational biologist David Baker of the University of Washington.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/scientists-at-deepmind-and-meta-press-fusion-of-ai-biology-4b92af6f?mod=business_minor_pos10",
-      "originalUrl": "https://www.wsj.com/articles/scientists-at-deepmind-and-meta-press-fusion-of-ai-biology-4b92af6f?mod=business_minor_pos10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-opera-adds-chatgpt-and-ai-prompts-into-its-browser.md",
-      "title": "Opera adds ChatGPT and AI prompts into its browser",
-      "excerpt": "Opera has launched sidebar integration for both ChatGPT and ChatSonic and has introduced another feature called smart AI Prompts..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/opera-adds-chatgpt-and-ai-prompts-into-its-browser-113500436.html",
-      "originalUrl": "https://www.engadget.com/opera-adds-chatgpt-and-ai-prompts-into-its-browser-113500436.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/zdivnOCZZ3swfSBYBTkb.g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/8d379e10-c898-11ed-8542-eb2cdaacb701.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/opera-adds-chatgpt-and-ai-prompts-into-its-browser-113500436.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/opera-adds-chatgpt-and-ai-prompts-into-its-browser-113500436.html",
-      "publishedDateTime": "2023-03-22T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-shanghai-district-discourages-overusing-facial-recognition-tech.md",
-      "title": "Shanghai District Discourages Overusing Facial Recognition Tech",
-      "excerpt": "With more public awareness of data security, China’s legal authorities are urging private business owners to remove facial recognition cameras in private facilities to avoid the unauthorized and excessive collection of consumers’ personal data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sixthtone.com/news/1012550/",
-      "originalUrl": "https://www.sixthtone.com/news/1012550/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image5.sixthtone.com/image/5/65/75.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T05:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sixth Tone",
-        "domain": "sixthtone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits.md",
-      "title": "Making faces: How to train an AI on your face to create silly portraits",
-      "excerpt": "Stable Diffusion can run on Linux systems, Macs that have an M1 or M2 chip, and AMD GPUs, and you can generate images using only the CPU. Those methods require some tinkering, though, so for the purposes of this walkthrough, a Windows machine with an ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/03/making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/03/making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/aiportraits1-300x390.png",
-          "width": 300,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/03/making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/03/making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits/amp/",
-      "publishedDateTime": "2023-03-22T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-how-ai-could-reduce-contract-inefficiencies-and-drudgery.md",
-      "title": "How AI Could Reduce Contract Inefficiencies And Drudgery",
-      "excerpt": "Ways AI Can Be Used To Create Better Contracts Natural language processing: AI-powered NLP can be used to analyze and interpret the language used in existing contracts to identify common clauses and language patterns. This can be useful in drafting new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/03/22/how-ai-could-reduce-contract-inefficiencies-and-drudgery/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/03/22/how-ai-could-reduce-contract-inefficiencies-and-drudgery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641a10e38556bdc74e0aff98/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/03/22/how-ai-could-reduce-contract-inefficiencies-and-drudgery/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/03/22/how-ai-could-reduce-contract-inefficiencies-and-drudgery/amp/",
-      "publishedDateTime": "2023-03-22T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

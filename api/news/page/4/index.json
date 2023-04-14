@@ -2,6 +2,160 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-06-cognitive-services-global-market-report-2023.md",
+      "title": "Cognitive Services Global Market Report 2023",
+      "excerpt": "Cognitive services are a set of tools and frameworks ... For instance, in May 2022, Microsoft Corporation, a US-based technology company expanded the Azure OpenAI service with the help of InstructGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105956934/Cognitive-Services-Global-Market-Report-2023",
+      "originalUrl": "https://menafn.com/1105956934/Cognitive-Services-Global-Market-Report-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-speech-and-voice-recognition-market-to-be-worth-6752-billion-by-2030-exclusive-report-by-meticulous-research.md",
+      "title": "Speech and Voice Recognition Market to be Worth $67.52 Billion by 2030 - Exclusive Report by Meticulous Research®",
+      "excerpt": "‘Speech and Voice Recognition Market by Function (Speech, Voice Recognition), Technology (AI and Non-AI), Deployment Mode (Cloud-based, On-premise), End User (Consumer Electronics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/04/g31698924/speech-and-voice-recognition-market-to-be-worth-67-52-billion-by-2030-exclusive-report-by-meticulo",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/g31698924/speech-and-voice-recognition-market-to-be-worth-67-52-billion-by-2030-exclusive-report-by-meticulo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-ai-in-fintech-market-overview-with-the-best-scope-trends-benefits-opportunities-to-2031.md",
+      "title": "AI in fintech Market overview, With the Best Scope, Trends, Benefits, Opportunities to 2031",
+      "excerpt": "Apr 06, 2023 (Alliance News via COMTEX) -- United State – Global AI in fintech Market Status, Trends and COVID-19 Impact Report 2021, Covid 19 Outbreak Impact research report added by Report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-overview-with-the-best-scope-trends-benefits-opportunities-to-2031-2023-04-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-overview-with-the-best-scope-trends-benefits-opportunities-to-2031-2023-04-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-why-artificial-intelligence-is-not-as-intelligent-as-we-think-it-is.md",
+      "title": "Why Artificial Intelligence Is Not As Intelligent As We Think It Is",
+      "excerpt": "AI is just a bunch of data and algorithms that are written by really smart ‘humans’ and Artificial Intelligence is only limited to the intelligence of those algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techjuice.pk/why-artificial-intelligence-is-not-as-intelligent-as-we-think/",
+      "originalUrl": "https://www.techjuice.pk/why-artificial-intelligence-is-not-as-intelligent-as-we-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T05:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techjuice.pk",
+        "domain": "techjuice.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-06-council-post-why-responsible-ai-in-computer-vision-is-imperative.md",
       "title": "Council Post: Why Responsible AI in Computer Vision is Imperative",
       "excerpt": "Organisations and people must take the initiative in utilising computer vision and facial recognition in an ethical and responsible manner until governmental bodies are able to effectively regulate these developing technologies.",
@@ -33,6 +187,50 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-welcome-to-bloomberggpt-a-large-scale-language-model-built-for-finance.md",
+      "title": "Welcome to BloombergGPT, a large-scale language model built for finance",
+      "excerpt": "Market data giant Bloomberg is set to capitalise on the craze for all things AI by building a 50-billion parameter large language model for finance, dubbed BloombergGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/newsarticle/42110/welcome-to-bloomberggpt-a-large-scale-language-model-built-for-finance",
+      "originalUrl": "https://www.finextra.com/newsarticle/42110/welcome-to-bloomberggpt-a-large-scale-language-model-built-for-finance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/finextra-images/top_pics/xl/code2.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -455,6 +653,58 @@
       ]
     },
     {
+      "path": "_news/2023-04-06-police-under-pressure-to-ban-face-recognition-tech-after-multiple-mistakes.md",
+      "title": "Police Under Pressure to Ban Face Recognition Tech After Multiple Mistakes",
+      "excerpt": "What he didn't know was that the detectives accusing him of stealing watches from a Shinola store in 2018 were doing so because of an erroneous hit using facial recognition technology. Detroit ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/police-under-pressure-ban-facial-recognition-technology-1792740",
+      "originalUrl": "https://www.newsweek.com/police-under-pressure-ban-facial-recognition-technology-1792740",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2217819/police-under-pressure-ban-face-recognition.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/police-under-pressure-ban-facial-recognition-technology-1792740",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/police-under-pressure-ban-facial-recognition-technology-1792740",
+      "publishedDateTime": "2023-04-06T00:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-06-dubais-jumeirah-first-to-have-driverless-taxis-for-public-use-by-end-of-2023.md",
       "title": "Dubai’s Jumeirah first to have driverless taxis for public use by end of 2023",
       "excerpt": "The work being done will ensure Cruise’s advanced generalisable AI (artificial intelligence) and autonomous driving ... meaning commuters will enjoy riding a driverless taxi when they go to La Mer Beach, Mercato Mall, Coca Cola Arena, City Walk, Galleria ...",
@@ -700,210 +950,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-ibm-watsons-golf-commentary-sucks.md",
-      "title": "IBM Watson's Golf Commentary Sucks",
-      "excerpt": "IBM Watson will be providing commentary for the Masters' app and Masters.com. According to the official press release, \"the AI commentary solution will produce detailed golf narration for more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thebiglead.com/posts/ibm-watson-golf-commentary-sucks-01gx97c6jc06",
-      "originalUrl": "https://www.thebiglead.com/posts/ibm-watson-golf-commentary-sucks-01gx97c6jc06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Big Lead",
-        "domain": "thebiglead.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-meta-reveals-ai-tool-to-help-brands-target-facebook-instagram-users.md",
-      "title": "Meta Reveals AI Tool to Help Brands Target Facebook, Instagram Users",
-      "excerpt": "Meta’s recent embrace of AI is only growing, with new plans for generative ads—and Meta’s CTO thinks AI will help power the metaverse, too.",
-      "sourceUrl": null,
-      "webUrl": "https://decrypt.co/125512/meta-reveals-ai-tool-help-brands-target-facebook-instagram-users",
-      "originalUrl": "https://decrypt.co/125512/meta-reveals-ai-tool-help-brands-target-facebook-instagram-users",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!Finance",
-        "domain": "decrypt.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-masters-app-website-rolling-out-generative-ai-commentary.md",
-      "title": "Masters app, website rolling out generative AI commentary",
-      "excerpt": "The Masters, in a joint activation with IBM, will not only stream every shot from every round once players tee off tomorrow but will also include generative AI commentary based on Augusta National -specific machine learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sportsbusinessjournal.com/SB-Blogs/SBJ-Power-Up/2023/04/05/Masters.aspx",
-      "originalUrl": "https://www.sportsbusinessjournal.com/SB-Blogs/SBJ-Power-Up/2023/04/05/Masters.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sports Business Journal",
-        "domain": "sportsbusinessjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-global-medical-electronics-market-to-2030-increased-use-of-medical-electronics-in-imaging-screening-therapy-and-intervention-is-boosting-growth.md",
-      "title": "Global Medical Electronics Market to 2030: Increased Use of Medical Electronics in Imaging, Screening, Therapy and Intervention is Boosting Growth",
-      "excerpt": "The \"Medical Electronics Market, By Type, By Component, By Application, By End-use, and By Region Forecast to 2030\" report has been added to ResearchAndMarkets.com's",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/04/n31684457/global-medical-electronics-market-to-2030-increased-use-of-medical-electronics-in-imaging-screenin",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/n31684457/global-medical-electronics-market-to-2030-increased-use-of-medical-electronics-in-imaging-screenin",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T10:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-heres-how-many-us-workers-chatgpt-says-it-could-replace.md",
-      "title": "Here's how many U.S. workers ChatGPT says it could replace",
-      "excerpt": "ChatGPT appears to be smart enough to recognize that artificial intelligence poses a threat to workers' livelihoods. Global outplacement and executive coaching firm Challenger, Gray & Christmas ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/chatgpt-artificial-intelligence-jobs/",
-      "originalUrl": "https://www.cbsnews.com/news/chatgpt-artificial-intelligence-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-aws-launches-generative-ai-accelerator-for-startups.md",
-      "title": "AWS launches generative AI accelerator for startups",
-      "excerpt": "The program aims to support startups in generative artificial intelligence. This week Amazon Web Services (AWS) announced the launch of a new",
-      "sourceUrl": null,
-      "webUrl": "https://www.techzine.eu/news/applications/104210/aws-launches-generative-ai-accelerator-for-startups/",
-      "originalUrl": "https://www.techzine.eu/news/applications/104210/aws-launches-generative-ai-accelerator-for-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techzine",
-        "domain": "techzine.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

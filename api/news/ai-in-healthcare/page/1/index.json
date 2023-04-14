@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-14-amazons-andy-jassy-says-artificial-intelligence-will-be-a-big-deal-for-company.md",
+      "title": "Amazon’s Andy Jassy Says Artificial Intelligence Will Be A ‘Big Deal’ For Company",
+      "excerpt": "The Seattle company will continue to invest in specialized chips most used for machine learning, its advertising business as well as generative AI tools",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/business/amazon-s-andy-jassy-says-artificial-intelligence-will-be-a-big-deal-for-company-news-278193",
+      "originalUrl": "https://www.outlookindia.com/business/amazon-s-andy-jassy-says-artificial-intelligence-will-be-a-big-deal-for-company-news-278193",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgnew.outlookindia.com/uploadimage/library/free_files/jpg/ole_co_2023_04_10_050929.jpg?v=25022022",
+          "width": 768,
+          "height": 1027,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/business/amazon-s-andy-jassy-says-artificial-intelligence-will-be-a-big-deal-for-company-news-278193/amp",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/amazon-s-andy-jassy-says-artificial-intelligence-will-be-a-big-deal-for-company-news-278193/amp",
+      "publishedDateTime": "2023-04-13T19:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-12-vizai-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2023.md",
       "title": "Viz.ai Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2023",
       "excerpt": "Viz.ai, the leader in AI-powered disease detection and intelligent care coordination, today announced it has been named",
@@ -322,20 +365,20 @@
     },
     {
       "path": "_news/2023-04-05-artificial-intelligence-in-healthcare-market-size-share-to-surpass-9565-billion-by-2028-vantage-market-research.md",
-      "title": "Artificial Intelligence In Healthcare Market Size & Share To Surpass $95.65 Billion By 2028 | Vantage Market Research",
-      "excerpt": "WASHINGTON, April 04, 2023 (GLOBE NEWSWIRE) -- The Global artificial intelligence in healthcare market is valued at USD 6.60 Billion in 2021 and is projected to reach a value of USD 95.65 Billion ...",
+      "title": "Artificial Intelligence in Healthcare Market Size & Share to Surpass $95.65 Billion by 2028 | Vantage Market Research",
+      "excerpt": "The Global Artificial Intelligence in Healthcare Market is valued at USD 6.60 Billion in 2021 and is projected to reach a value of USD 95.65 Billion by 2028 at a CAGR",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105944893/Artificial-Intelligence-In-Healthcare-Market-Size-Share-To-Surpass-9565-Billion-By-2028-Vantage-Market-Research",
-      "originalUrl": "https://menafn.com/1105944893/Artificial-Intelligence-In-Healthcare-Market-Size-Share-To-Surpass-9565-Billion-By-2028-Vantage-Market-Research",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/04/g31663616/artificial-intelligence-in-healthcare-market-size-share-to-surpass-95-65-billion-by-2028-vantage-m",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/g31663616/artificial-intelligence-in-healthcare-market-size-share-to-surpass-95-65-billion-by-2028-vantage-m",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?835631",
-          "width": 429,
-          "height": 249,
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -345,11 +388,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T20:00:00-07:00",
+      "publishedDateTime": "2023-04-04T10:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -447,6 +490,50 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-01-deepminds-ai-used-to-develop-tiny-syringe-for-injecting-gene-therapy-and-tumor-killing-drugs.md",
+      "title": "DeepMind’s AI used to develop tiny ‘syringe’ for injecting gene therapy and tumor-killing drugs",
+      "excerpt": "Scientists have developed a molecular “syringe” that can inject proteins, including cancer-killing drugs and gene therapies, directly into human cells. And the researchers did it using an artificial intelligence (AI) program made by Google’s DeepMind.",
+      "sourceUrl": null,
+      "webUrl": "https://en.protothema.gr/deepminds-ai-used-to-develop-tiny-syringe-for-injecting-gene-therapy-and-tumor-killing-drugs/",
+      "originalUrl": "https://en.protothema.gr/deepminds-ai-used-to-develop-tiny-syringe-for-injecting-gene-therapy-and-tumor-killing-drugs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://en.protothema.gr/wp-content/uploads/2023/04/mkhb-405x270.png",
+          "width": 405,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-31T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "protothema.gr",
+        "domain": "protothema.gr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -1276,102 +1363,6 @@
         "AI Hardware",
         "AI in Robotics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-mindfulness-based-cognitive-therapy-outperforms-standard-cbt-in-self-help-trial.md",
-      "title": "Mindfulness-Based Cognitive Therapy Outperforms Standard CBT in Self-Help Trial",
-      "excerpt": "Opens in a new tab or window Practitioner-supported mindfulness-based cognitive therapy (MBCT ... from depression while costing health services less money,\" they concluded.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/psychiatry/depression/103655",
-      "originalUrl": "https://www.medpagetoday.com/psychiatry/depression/103655",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/103xxx/103655.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest.md",
-      "title": "Bill Gates Thinks AI Will Revolutionize Healthcare For World’s Poorest",
-      "excerpt": "Former Microsoft CEO and billionaire philanthropist Bill Gates called artificial intelligence the “most important advance ... Soon-To-Be Grandfather Bill Gates Is Betting On AI, Gene Therapy And Other New Technologies To Solve Global Problems (Forbes)",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anafaguy/2023/03/21/bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest/",
-      "originalUrl": "https://www.forbes.com/sites/anafaguy/2023/03/21/bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6419d8ef8fb8a16b66bdef19/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anafaguy/2023/03/21/bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anafaguy/2023/03/21/bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest/amp/",
-      "publishedDateTime": "2023-03-21T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

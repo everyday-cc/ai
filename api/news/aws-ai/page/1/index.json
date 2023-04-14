@@ -2,72 +2,29 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-04-14-amazon-joins-generative-ai-race-targets-tech-at-cloud-customers.md",
-      "title": "Amazon joins generative AI race, targets tech at cloud customers",
-      "excerpt": "Amazon.com Inc. is joining Microsoft Corp. and Google in the generative artificial intelligence race, announcing technology aimed at its cloud customers as well as a marketplace for AI tools from other companies.",
+      "path": "_news/2023-04-14-amazon-aws-expands-generative-ai-efforts-with-bedrock-and-codewhisperer-updates.md",
+      "title": "Amazon AWS expands generative AI efforts with Bedrock and CodeWhisperer updates",
+      "excerpt": "Amazon Web Services (AWS), announced today that it is expanding its generative AI services in a bid to make the technology more available to organizations in the cloud.",
       "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-04-amazon-generative-ai-tech-cloud.html",
-      "originalUrl": "https://techxplore.com/news/2023-04-amazon-generative-ai-tech-cloud.html",
+      "webUrl": "https://venturebeat.com/ai/amazon-aws-expands-generative-ai-efforts-with-bedrock-and-codewhisperer-updates/",
+      "originalUrl": "https://venturebeat.com/ai/amazon-aws-expands-generative-ai-efforts-with-bedrock-and-codewhisperer-updates/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/amazon-3.jpg",
-          "width": 1920,
-          "height": 1738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-04-amazon-generative-ai-tech-cloud.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-amazon-generative-ai-tech-cloud.amp",
-      "publishedDateTime": "2023-04-13T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-13-announcing-new-tools-for-building-with-generative-ai-on-aws.md",
-      "title": "Announcing New Tools for Building with Generative AI on AWS",
-      "excerpt": "The seeds of a machine learning (ML) paradigm shift have existed for decades, but with the ready availability of scalable compute capacity, a massive proliferation of data, and the rapid advancement of ML technologies, customers across industries are transforming their businesses. Just recently, generative",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-new-tools-for-building-with-generative-ai-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-new-tools-for-building-with-generative-ai-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 234,
+      "heat": 112,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T05:41:13-07:00",
+      "publishedDateTime": "2023-04-13T13:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -83,6 +40,7 @@
         "news"
       ],
       "topics": [
+        "Microsoft AI",
         "AI",
         "AWS AI"
       ]
@@ -1301,6 +1259,49 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-buy-brand-name-car-parts-online-at-amazons-oem-parts-store.md",
+      "title": "Buy brand-name car parts online at Amazon's OEM parts store",
+      "excerpt": "Pricing and availability are subject to change. Amazon is now connecting customers directly to automakers and local dealership parts departments. The Amazon OEM Automotive & Powersports Parts shop ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoblog.com/article/amazon-oem-parts-shop/",
+      "originalUrl": "https://www.autoblog.com/article/amazon-oem-parts-shop/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2022-09/c5082670-419d-11ed-bbfc-078f772461f7",
+          "width": 1062,
+          "height": 597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autoblog.com/amp/article/amazon-oem-parts-shop/",
+      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/article/amazon-oem-parts-shop/",
+      "publishedDateTime": "2023-03-14T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoblog",
+        "domain": "autoblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     }
   ],

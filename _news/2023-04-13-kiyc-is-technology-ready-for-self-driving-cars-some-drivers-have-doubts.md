@@ -2,11 +2,11 @@
 category: news
 title: "KIYC: Is technology ready for self-driving cars? Some drivers have doubts"
 excerpt: "Americans are killed in car accidents and the car industry says self-driving vehicles will eventually make the roads safer."
-publishedDateTime: 2023-04-13T13:00:00Z
-originalUrl: "https://longisland.news12.com/america-self-driving-cars-technology-drivers-have-doubts"
-webUrl: "https://longisland.news12.com/america-self-driving-cars-technology-drivers-have-doubts"
-ampWebUrl: "https://longisland.news12.com/amp/america-self-driving-cars-technology-drivers-have-doubts"
-cdnAmpWebUrl: "https://longisland-news12-com.cdn.ampproject.org/c/s/longisland.news12.com/amp/america-self-driving-cars-technology-drivers-have-doubts"
+publishedDateTime: 2023-04-13T14:00:00Z
+originalUrl: "https://brooklyn.news12.com/america-self-driving-cars-technology-drivers-have-doubts"
+webUrl: "https://brooklyn.news12.com/america-self-driving-cars-technology-drivers-have-doubts"
+ampWebUrl: "https://brooklyn.news12.com/amp/america-self-driving-cars-technology-drivers-have-doubts"
+cdnAmpWebUrl: "https://brooklyn-news12-com.cdn.ampproject.org/c/s/brooklyn.news12.com/amp/america-self-driving-cars-technology-drivers-have-doubts"
 type: article
 quality: 23
 heat: -1
@@ -58,6 +58,6 @@ related:
       domain: techxplore.com
     quality: 0
 
-secured: "v8zewzU6AC538NNOAueNOFaZYYjJE4u//sm/XpfFnmSmauQm3D/xb245Z6ryvTod3ng40KbwjS5A4f2b+HYc0sItlStB+AXrXtnirJe1WWE7ioYITlUz3eRPn6C2+86dmZdecTBDPrK/IIf7QOZm9jBdYElDHco5MpfjzmRNikdQgJSXI1uJ+35iUtGeyfYq/uhFAuT+Qy8ddLTv1F62M+s+tQiAz7wPa7nkchZ+ZAAsh1M2PF6qUW/GO29riH6rFrkhW+2IrkbFISVgZOk8mKrennx3QXZwNShbm+Q/5JePJKI3qJXkb47gxAAmD2Y2raIXFhj/HHuRvjBNf+0qVWWKGjSu1hQrhvRmqXKm2VpujxfCsRDCIZcqmUXj3Od+1KHBZ2QPjg2cISclUJbs6v+FwcUkwDCDJvfQ68T5re09JxDF+AGMNayHJGIiTqkZ8br5gu6cAoZqWFPkj5MMdNapfLk1Wk0lweSfv5ZYg8PjHvgf8G2jHXBHkjBAJ2rZvWyZhaFY5O2UK1wxyT9OoA==;3kZFAtKfWqt2ORzJYk23xA=="
+secured: "GHRZ1lNTOMFCUIrCbZMTKFEwm+ThieAI95ZmuFp0ICxmWhLgPkD4TR0G/ZbyKR0xJZSr2v4oSsHYgFrXUT0wPPQeLmaqknGrK6iWUl8gDp68HqOmwbB5dEBU1UZTx5jrd3qQG+vw1nwzcpWNlHCo1rfZ6FUqrHtFKte5ZtqP4YAGYWDgWLOy9djM+27WvzcSJwXfdwxYQUMW20RKK29rotqjL2qH4D7/aaEemP7yV5VuyxNyk3CgdxnRovQMb5ohrOpp+pi4rynOEdEx+imNuvagCtWZmiflndLVH5uEAzabtAuw4DeoQSafX24PrtKMxn2vGLFygJhFMkA5ugmu4K5LaUj+InoaBf57SS4c/ojKFkQXFxkY9Er5Wlq/xB4FXiT4Cv/9TrjozRXGTJYRaFFmfK6q8KCy78H4LFZtXEkIG0Al6lWIvzuicwB8gyr+0sBNuTySrmoNJuWukZyDWcLCJwtFMQJaj/P10HKVarH/+Mp7eHp7ftcCxb46lYL69k2ouFydJJbtFuoUkL41EA==;9IM+6vlNpCI0G+wCKcJWaA=="
 ---
 

@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-23-mindfulness-based-cognitive-therapy-outperforms-standard-cbt-in-self-help-trial.md",
+      "title": "Mindfulness-Based Cognitive Therapy Outperforms Standard CBT in Self-Help Trial",
+      "excerpt": "Opens in a new tab or window Practitioner-supported mindfulness-based cognitive therapy (MBCT ... from depression while costing health services less money,\" they concluded.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/psychiatry/depression/103655",
+      "originalUrl": "https://www.medpagetoday.com/psychiatry/depression/103655",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.medpagetoday.net/media/images/103xxx/103655.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest.md",
+      "title": "Bill Gates Thinks AI Will Revolutionize Healthcare For World’s Poorest",
+      "excerpt": "Former Microsoft CEO and billionaire philanthropist Bill Gates called artificial intelligence the “most important advance ... Soon-To-Be Grandfather Bill Gates Is Betting On AI, Gene Therapy And Other New Technologies To Solve Global Problems (Forbes)",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anafaguy/2023/03/21/bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest/",
+      "originalUrl": "https://www.forbes.com/sites/anafaguy/2023/03/21/bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6419d8ef8fb8a16b66bdef19/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anafaguy/2023/03/21/bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anafaguy/2023/03/21/bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest/amp/",
+      "publishedDateTime": "2023-03-21T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-21-ai-news-roundup-ai-advancements-google-and-microsoft-germanys-healthcare-robots-and-ai-in-the-workplace.md",
       "title": "AI News Roundup | AI Advancements: Google and Microsoft, Germany's healthcare robots, and AI in the workplace",
       "excerpt": "Google, Microsoft aim to increase productivity through AI integration in popular productivity apps. Google and Microsoft are on a mission to remove the drudgery from computing, by",
@@ -1307,105 +1403,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-15-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts.md",
-      "title": "15 Best Artificial Intelligence (AI) Stocks To Buy According to Analysts",
-      "excerpt": "Artificial Intelligence (AI) is an emerging technology that has wide-ranging applications across various industries and significant implications for society. It is transforming the global economy and national security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/15-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts-1131206/",
-      "originalUrl": "https://www.insidermonkey.com/blog/15-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts-1131206/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2021/07/22051908/breno-assis-r3WAWU5Fi5Q-unsplash.jpg?auto=format&expires=1710201600&w=400&h=225&fit=crop",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.insidermonkey.com/blog/15-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts-1131206/?amp=1",
-      "cdnAmpWebUrl": "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/15-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts-1131206/?amp=1",
-      "publishedDateTime": "2023-03-13T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI",
-        "AI in Healthcare",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-artificial-intelligence-in-healthcare-market-application-product-sales-and-forecast-2023-2028.md",
-      "title": "Artificial Intelligence in Healthcare Market Application, Product, Sales and Forecast 2023-2028",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 13, 2023 (The Expresswire) -- The \"Artificial Intelligence in Healthcare Market\" Study Describes how the technology industry is evolving and how major and emerging ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-application-product-sales-and-forecast-2023-2028-2023-03-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-application-product-sales-and-forecast-2023-2028-2023-03-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 739,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-13T01:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],
