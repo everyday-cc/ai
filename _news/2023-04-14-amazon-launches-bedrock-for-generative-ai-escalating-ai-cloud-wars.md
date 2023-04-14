@@ -23,6 +23,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/04/Untitled-design-44.png?w=1200&strip=all"
@@ -282,6 +283,6 @@ related:
       domain: foxbusiness.com
     quality: 19
 
-secured: "Zqe+hfbctSaFNhCPnPyw1zTK6NdcRZQrUkaXZ+rHY+zxVQw4DPnmNsNT/GdlzUd3zRtdw3VYxo9Thes81GY6O2AIutW0mESAhgAVWBIDyhi/FP81X3k+eyom+5GAXlp11ixEBawwQGweqbUcJkhGqamKxfnQcFHgl3/rhWnn+U17H1FgTaOV7qrlZum7cnrmiry/1tG77tS1xDjM7vVj+Dq6vFl4zAacieqLqizBDIsLxKTyWQug6jLeY3UFVdxUPOKUpitSncBxyaWpRI9eJeKHY9MOZXcdN6XzuzkigB69JM4bojVNb00vfjXNBhI9BaMqTCOu3wjLGTsHchZYBUtIYxpsvfyFNNFDP3QrLNI=;CVHdMUYB1JunbZ682HwLpw=="
+secured: "G0k6T4kr3wmLSNwNG3F54BxgRotWDSfKYHoRFSTVmt35RRC05uJ/xF/IgIo+8I4gtdVS3EYK20fO5t2EK8DVCUho0rWSJogIaQhPA1TNYexLdEhN9E2KnEic05Db+NKCGleUnIwgBq579+TZ3GwMtWnR1OTrMmSglgXrwUOSYepJ/VV1x0PNW5bm3AHmQIn5Xfxq17ih0v1xZOy5EmwgN/ketFy+qgGvOpFhxFUsL8cUAfrDdBuIcfVPFgJv6BLgvr+SHlKkn1riFdIJAZsQBBx5bYFWbZ/tmaHq4uqw2nerKL7/0xcezRZn6VNefe3Ze7y/Ftsjckk5wNveEGB30HDanO2BxBG57mY+37+kPUTN13JDktIs+ByXdwYN7uF20bwMX6OBxRXXZh51kRuqPMG8nh0L4XKuJzyuUAe5U6HW9DsPc0JXRM6wQhyYUtaKU11t4f4aiy/dK8aAcpuetuEKSEA1e54Py0YYXvnpG0yTlppj6p4PCHvlNr7MjifnIBU4fXJ1ax65G0IML2zMAg==;sitAwj/Oqig1mZcDELfJxw=="
 ---
 

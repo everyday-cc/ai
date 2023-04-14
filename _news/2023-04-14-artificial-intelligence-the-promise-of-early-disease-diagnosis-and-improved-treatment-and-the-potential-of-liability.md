@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
@@ -57,6 +58,6 @@ related:
         height: 630
         isCached: true
 
-secured: "lGEbYEuCGvPcw1vah308d8uw0nkxIMFEIeOk+KarOGFjduh0Vu/PhYun9DAurbHUu5e4yZQ3pZ1WULfhynH/tuzNgpMWLYqSEpKOgsn17B/16lV4SJDso+r2ZSWrxQa7yJ9dSDw+E0fVF8aXGNEWcn4d7KtL1bWJVouQ1aflYBkiNp0lBUhcqWE1PHUwBFrZaCyFmhJ/U3feTD3VbRlq8udyHt7yr3518zoh3fyjDtwywcOC/U2bQt4HaVcRvriAK9j+d6VBiwG2/78zTMgdN3K9T7bMreWC5uVaQSHtabSAGZUpB3VjpaAKYusYASmAMJOHxqB1RboHCz5mN35pL9pF3mh2vy7X3RaPonhE0uM=;pj/Ht0piZEaF+3CWfuq+Qg=="
+secured: "Glme+qqCZOk0RGb8+teKmd/TD6eILvNHEo+ANzT5lmjNM2faXnNJr6TKHacqH6nvbg05g+0I+US5F5mzqjCgC2ov35QSaJyGFLW6+WSk6S5xFgnl1mHUYIrYgJcUmSH9nU258KA0STUawnrUW9CTdarsWJEHd6oBl3P62+BcysVwLAjEwTVtNruUkm6UsBR5RP5kBlXosvh2Wq0Z+5Fz/OFiz+USIw/nC+rDQWzFvfOWOELl1d5wgB3005TVyZiSfRCYEN7wF5IzoWubHA4WVrEkzRW8RSX8fE3RVAHrDJ7B+By1cXvQAELMiTS07xCcTFcQEkn6WsGnjgO9ntWqWtt6PZYkb4Vo8MJ4dw8xbEMD3Hk2OTBjwA3qM9hpw8+1OQu7s+tTXAs5Xv/PKR3+vD6WAXQNSwcpX5aQ30T43O2wPzvGxbIK6jQ/sNWiYauio7H+xBr1JTilI4P6EK1P5ORXN/vUfhzL6T32v+BuUjXxeH+rS5/Gm4Iiz9Mejs1b29x+G+Ib5PdtNxbt+0vxhQ==;c8FCkdMDMktPX/OINv+hJw=="
 ---
 
