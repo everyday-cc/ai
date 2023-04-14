@@ -15,12 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?804085"
-    width: 392
-    height: 250
-    isCached: true
-
-secured: "tQdUASX+P5NRYNz74drRRQE419Q8nOd4WUPXdZ7bI0vw/m0As9siSJVt3uu2AkaNa/mKfwSJXmS5WtRtkNkhzjtiYR93J2ac28bcSw+Njv3ynWYOHdoBAqiYOlp06brAKYwwcVaMSs+4CfVqn5m9jXuUbug82i62vETtKFVO41dCD9GDmyvQsRbdcHKcVK8+J8lH3j15Fhn+2SZKpxZKl1lWTuMZt5JB2ekL3L43kP9ErPUjA/k6CTZ6jwUN2IoVC64FRV9b3K4jpBbJYT/+64+LM3pByKNrm4Nl+DK2mKIQ3sBRSFHKEGKK4nqt7Cm5kcmXuvNAI74/OlQWHTCgnTZ8ZHEawFld4G91GI1lKBQ=;KNWyTIjygTwhsPKsr1i/Dw=="
+secured: "+b7d+OcqIlx/JYuIGsgDIGmsGTY9WqvlHCp2SoVCzuXaplLJrs93rnb/qXyugyOJmSucNrM1NwTphvPzC5ec3qW5WGgOd2Hioq9pA36vnK+27iI9NBFMFS9FhusYhRAVvI1QbhPz1HZ4bnP5fNdyxn8ZMZ/e3d9oLtYb05J79/0Sor8JaeYf14e0EbHCrAMXB+ddaq/EbVkQQDYvKQ077fPJbNSq9P+FefdRsJ+q0rYkalU6BB0dc6kLXug73pEnt7ZbSNeEJjmMS2gEQ2QPSFOaJ73fGgs0bpJTRGV6HlEYNQfvrflvO+LZUcv+FTRp3F0iGzj6i1jOkGQG3h1EN2uKaA6tY/UkgGaI9MQAU5M=;1pNPaE4dYU9TDIsz+2n+iA=="
 ---
 
