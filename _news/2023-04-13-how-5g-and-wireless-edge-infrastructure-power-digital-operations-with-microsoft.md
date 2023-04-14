@@ -81,6 +81,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 49
+  - title: "Amazon taking on Microsoft and Google in AI race"
+    excerpt: "AWS, which sells on-demand computing power and software tools — including a suite of machine-learning applications — had previously partnered with artificial intelligence companies including Hugging Face Inc. and Stability AI, which builds the image ..."
+    publishedDateTime: 2023-04-14T05:56:00Z
+    webUrl: "https://mybroadband.co.za/news/software/487657-amazon-taking-on-microsoft-and-google-in-ai-race.html"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 36
   - title: "Siemens and Microsoft Drive Industrial Productivity with Generative AI"
     excerpt: "Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help"
     publishedDateTime: 2023-04-12T15:48:00Z

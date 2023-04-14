@@ -87,6 +87,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 49
+  - title: "Amazon taking on Microsoft and Google in AI race"
+    excerpt: "AWS, which sells on-demand computing power and software tools — including a suite of machine-learning applications — had previously partnered with artificial intelligence companies including Hugging Face Inc. and Stability AI, which builds the image ..."
+    publishedDateTime: 2023-04-14T05:56:00Z
+    webUrl: "https://mybroadband.co.za/news/software/487657-amazon-taking-on-microsoft-and-google-in-ai-race.html"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 36
   - title: "Microsoft is Bringing (More) AI to Developers"
     excerpt: "In the Build 2022 session list, you will find a reference to how developers can build a \"company copilot\" using Azure ML and GPT-4."
     publishedDateTime: 2023-04-13T13:32:00Z

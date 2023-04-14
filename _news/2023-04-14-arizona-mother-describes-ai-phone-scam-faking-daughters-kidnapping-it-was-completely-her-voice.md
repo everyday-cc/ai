@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/media/arizona-mother-describes-ai-phone-scam
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/arizona-mother-describes-ai-phone-scam-faking-daughters-kidnapping-completely-voice.amp"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -30,14 +30,30 @@ images:
     isCached: true
 
 related:
-  - title: "Kidnapping scam uses artificial intelligence to clone teen girl's voice, mother issues warning"
-    excerpt: "There is a new scam using artificial intelligence to clone voices. Arizona mother Jennifer DeStefano shared her story of a kidnapping hoax that sounded all too real. Jennifer said when she recently received a call from an unknown number,"
-    publishedDateTime: 2023-04-13T19:53:00Z
-    webUrl: "https://abc7ny.com/ai-voice-generator-artificial-intelligence-kidnapping-scam-detector/13122645/"
+  - title: "Mom warns of hoax using AI to clone daughter's voice"
+    excerpt: "An Arizona mother is warning other parents after she almost became the target of a kidnapping hoax that sounded all too real."
+    publishedDateTime: 2023-04-13T13:05:00Z
+    webUrl: "https://abcnews.go.com/GMA/Family/mom-warns-hoax-ai-clone-daughters-voice/story?id=98551351"
+    ampWebUrl: "https://goodmorningamerica.com/amp/family/story/mom-warns-hoax-ai-clone-daughters-voice-98551351"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/family/story/mom-warns-hoax-ai-clone-daughters-voice-98551351"
     type: article
     provider:
-      name: abc7NY
-      domain: abc7ny.com
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/GMA/woman-phone-cell-rf-gty-mz-09-230413_1681387852911_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Kidnapping scam uses artificial intelligence to clone teen girl's voice, mother issues warning"
+    excerpt: "There is a new scam using artificial intelligence to clone voices. Arizona mother Jennifer DeStefano shared her story of a kidnapping hoax that sounded all too real. Jennifer said when she recently received a call from an unknown number,"
+    publishedDateTime: 2023-04-13T23:42:00Z
+    webUrl: "https://abc7chicago.com/ai-voice-generator-artificial-intelligence-kidnapping-scam-detector/13122645/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
     quality: 25
     images:
       - url: "https://cdn.abcotvs.com/dip/images/13122757_041323-wls-N1-ai-kidnap-scam-pkg-vid.jpg?w=1600"

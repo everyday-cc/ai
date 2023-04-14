@@ -2,17 +2,17 @@
 category: news
 title: "Kidnapping scam uses artificial intelligence to clone teen girl's voice, mother issues warning"
 excerpt: "There is a new scam using artificial intelligence to clone voices. Arizona mother Jennifer DeStefano shared her story of a kidnapping hoax that sounded all too real. Jennifer said when she recently received a call from an unknown number,"
-publishedDateTime: 2023-04-13T19:53:00Z
-originalUrl: "https://abc7ny.com/ai-voice-generator-artificial-intelligence-kidnapping-scam-detector/13122645/"
-webUrl: "https://abc7ny.com/ai-voice-generator-artificial-intelligence-kidnapping-scam-detector/13122645/"
+publishedDateTime: 2023-04-13T23:42:00Z
+originalUrl: "https://abc7chicago.com/ai-voice-generator-artificial-intelligence-kidnapping-scam-detector/13122645/"
+webUrl: "https://abc7chicago.com/ai-voice-generator-artificial-intelligence-kidnapping-scam-detector/13122645/"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: abc7NY
-  domain: abc7ny.com
+  name: ABC 7 Chicago
+  domain: abc7chicago.com
 
 topics:
   - AI
@@ -40,7 +40,23 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mom warns of hoax using AI to clone daughter's voice"
+    excerpt: "An Arizona mother is warning other parents after she almost became the target of a kidnapping hoax that sounded all too real."
+    publishedDateTime: 2023-04-13T13:05:00Z
+    webUrl: "https://abcnews.go.com/GMA/Family/mom-warns-hoax-ai-clone-daughters-voice/story?id=98551351"
+    ampWebUrl: "https://goodmorningamerica.com/amp/family/story/mom-warns-hoax-ai-clone-daughters-voice-98551351"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/family/story/mom-warns-hoax-ai-clone-daughters-voice-98551351"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/GMA/woman-phone-cell-rf-gty-mz-09-230413_1681387852911_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
-secured: "AYZ+CkR2adwEn+ZoS2cjjiMfxHFLLuDsqcWioEGHUihiGBXJ2KEbL3H4OyXCf38fzfGf+m8fbZddwn+EHR/zwYtzKOtDFRb6nHExIqjGx/BJzom2dFw7xgL21bm5GbbGIXa/NNPEhW0Bocm/oQCyt/hd3DHFqDLKposne6EFauM2GaKGkquumRlEj2ODuxZqqwrd0mfGuNxTqS4aFoIwBxVmd4FfbGJKDx6ZqDYJpJ0C89sM9LTj37b/n/iNujPrbwU648L5TuwO1PbTTYkPAjRPVQrPE2/YjJ3qg4b4pKTNRHabDLTgIzj3/gCseD48+wrE/7KdELdovR1f4pHb9Ws8p/IbtLyMzz0rkcFF9K0=;vOyAHKiy/WZCyQPuxwy0Xg=="
+secured: "Wsb6zIhX+88rafi6xLUaZFJv4HXpJ6o4poeAILi9o1JZojOwYn+EGIt52xNbwFKuv6QQtZJ5ZsOev1wFklcOqy0ggN6zGpO1LC3tm6ZZK/z5xPSWfeMXyydML6tGEDDmDwMHNp76VHpihQQLda0+BA/oHMUt70ApS4u16nTYw2YBjL9RF+odrFghMN+VVIzppTEzDkb48718QWrkpHb7OqCW6LxzoHLwEk+sMT1ojfG5eQULvzuCx2mvgIRY2wKxMfpqQ1bSwQwSq2nX0GbnBie0E/TGlICvIhTv0E4LoQ0jX8qILML1ZGNtZo9wwtMgvD1V/5/iMW2R+hFQGChMdTHEqy2cvc98vcI/xy5kVmM=;L/MP1KLWEcIwT4crddjXdQ=="
 ---
 

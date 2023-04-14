@@ -6,8 +6,8 @@ publishedDateTime: 2023-04-13T15:40:00Z
 originalUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-in-medicine-market-outlook-forecast-by-2029-with-109-pages-2023-04-13"
 webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-in-medicine-market-outlook-forecast-by-2029-with-109-pages-2023-04-13"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -27,6 +28,6 @@ images:
     height: 630
     isCached: true
 
-secured: "R5gqbsjaRebGDfIU3zefs/9EyPOuElofV53pNfN3vgRGGY9ZQzNaZt9mEPV4nXWrtIOyohN1S+xLEq5dBUiDL/9x8j8F53CJX6tNNBv0e4LaKd5romEm56wzBW/yQxV2WbBpZl17hOhQCkFhGeppFwswYTVHKcq+NBJIKJePBerriAr4zZOWt3esT+FyI8X4AkJvu1sfkg8uL5UliW0gXrCjsItUEqVrrr3LAvLvp/Zp6JaSqA9cq/GlUFWp+CI+2uwF6ENePS5Jp+i+kolrCDCY6KhQbvy6ijW1L+KKnLEruNs1ezokMYqSpHdkzwQP2cswsDZn48+Ahnc1gyasOnowMwU2N3/EsNwXfoZopPg=;Uy4JusKg3/uFNkWWC94Zjg=="
+secured: "msSkDAqL3Mrnn00aXOa2Dz1CAhJ/bUTuDPPxGG6xzv0nznq2V7VLipOo1vaEsRnB//yR7YWPDq2gZcpoz8YTht66n5kgg9DSuaalhaeja8By0rYrB4L/vXDTg1CJDdKM8n6FsMr8mCe8LXzTgzdE8b1sghH7zpoi83bJXl9lhG+DrS+lSmxs+BvDtXz1ZBtdSVcknreVqduPvqVm2LVmCKdjiU6hAU4/XH9QrorbXNJHxmyYILl/R6Ol6/NYmKlD8U850Su9wSk5FCl1UAwopLYr6D0ChyFUQkvgT/hrpsyCdfPLFCaceHYyvyBsBeZsjtaGxZqQ1403lsrW0imr/pAEy6cypaXWV/SPqzM8FvSIMeRRJSywW05qFOYHg/8OyTVyt7+rnW7r7OWYoyib9gCrRBQA77KDHktAX7tjJ/U9GfmxqhhHKM9rLJ5EB2/jHXyHEAzeOBR/v/1jCqBMHKVf7mgokySsW+xdIyexQ/LJerbwISk8eNRd2K92wi7lSxSVYZ5Ig68lgh0tD/Kerw==;FmT0xZQ9DZ8U5b381nkY1Q=="
 ---
 

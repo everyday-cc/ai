@@ -19,24 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Machine Learning Model Estimates Optimal Treatment Timing for Sepsis"
-    excerpt: "New research shows that a machine learning model can help clinicians decide when to administer antibiotics to patients with a suspected case of sepsis."
-    publishedDateTime: 2023-04-10T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-model-estimates-optimal-treatment-timing-for-sepsis"
+  - title: "Decoding Insomnia: Machine Learning Model Predicts Sleep Disorders From Patient Records"
+    excerpt: "Analyzing demographics, lifestyle data, physical exam results, and laboratory values, a new machine-learning algorithm can accurately predict whether a person is at risk of sleep disorders. Age, weight,"
+    publishedDateTime: 2023-04-12T18:48:00Z
+    webUrl: "https://neurosciencenews.com/ai-insomnia-22992/"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
-  - title: "Deep learning model estimates cancer risk from breast density"
-    excerpt: "Mammographic density estimates based on the visual scores of radiologists. Breast cancer is the most common cancer to affect women worldwide. According to the American Cancer Society, about 1 in 8 women in the United States will develop breast cancer in their lifetime."
-    publishedDateTime: 2023-04-12T16:29:00Z
-    webUrl: "https://optics.org/news/14/4/17"
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 31
+    images:
+      - url: "https://neurosciencenews.com/files/2023/04/machine-learning-insomnia-neurosciences-public.jpg"
+        width: 770
+        height: 565
+        isCached: true
+  - title: "Machine learning methods may be effective in screening patients for sleep disorder risk"
+    excerpt: "A machine learning model can effectively predict a patient's risk for a sleep disorder using demographic and lifestyle data, physical exam results and laboratory values, according to a new study published this week in the open-access journal PLOS ONE by Samuel Y."
+    publishedDateTime: 2023-04-13T17:31:00Z
+    webUrl: "https://www.news-medical.net/news/20230412/Machine-learning-methods-may-be-effective-in-screening-patients-for-sleep-disorder-risk.aspx"
     type: article
     provider:
-      name: Optics
-      domain: optics.org
-    quality: 19
+      name: News Medical
+      domain: news-medical.net
+    quality: 11
 
 secured: "g4sx4HI7VXm0si6RdsZgJixI9KLUaJh4G+xt01QIzYK/9HCx/Sy2Ok0yOBPZw0fG7bk4C1+ENxnV+LGO9w7PxwypzIWGNxclSCj1Ex7KcULyfgddeLPVHy2oqIMT0dwdKulNct1DS1BsERCJTAfRCNBr/A0QXHStukhhQWH5oqgh0NcrEASRzmtHERBejXujO8uFPrTdJlSQdV4ZrCnjLRJ3LU7OLholtWVBYbyq8vm4q1IYmuAXYPRDO8QpBZUNGhAvamJfpVdHb1kjXOY+NCUGEmZwlfEntA2A33IPNpk8Dd8h10AD3CUuRPC6WpYCHT7ERedG7yE4Z2ly5ziGBVe7o1Zmxm8jyuOE1SvtazIKE2n9M+l0Dz4XgWplFGp/oI2r9HTTmOn2CdoNVa1zgfvNNNN+uYytebxzvY/Fr5nKtJ3AcwLOtZ34nZfhij761N07o7CZaw5NuzfFwo0xcpEL/W42F+O6J08f8Ai+EewHqa5cQ3P2vEmDyHwPsojACUUBa00wRu2usRr5QhoYUw==;Cppwbh3qRHOwmZ1dWq4ebQ=="
 ---

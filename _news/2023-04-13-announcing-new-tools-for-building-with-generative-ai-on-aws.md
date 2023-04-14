@@ -33,7 +33,7 @@ related:
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211215-las-vegas-the-venetian-expo-aws-ac-1159p-b07aeb.jpg"
         width: 2500

@@ -37,7 +37,7 @@ related:
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211215-las-vegas-the-venetian-expo-aws-ac-1159p-b07aeb.jpg"
         width: 2500
@@ -161,6 +161,6 @@ related:
       domain: thedrum.com
     quality: 11
 
-secured: "45DIBfICCJ6qQoX6kJswG9tO0ab7ecycHgDUYe3+/VQ/ANskXMrXTmr2RRi5e8KkEYuGuqET/c9ZtZp2Fc+uh84jbR1Z6bqTFurptRXDKkLPzgdrp/SAzCpX8rGu6bZS/FyZ+f15aCSYCdnNsah5HL8INCkMvTGgzbXGR+BJEx0rxsA5iHMoxpOrVRS02Qidnl5TXlLFS0RaB5jNRSuiaMK3aOcHxBXgEuuXDSxcI707fdgh3+SvLMimvQxHL8DF5r/ouikP9l2flsWZyc7Uphs1WmFvlNGRCdQh5NvkUkIDG9GRCG+i90YDJ/Vz5yTQ29++0b2VwDEU0jGsDT7UiXHPjw1wv1YvnU9gZ0ajews=;nT7nrqckSc4BdB8izgNUuA=="
+secured: "+qt0zGDEKOlMw/3mav2u4fvFmYYHh7GTUbjieh12ShX/Wk+Al5TqN5bBjVfnOqH7xc7Sh/F7pFBnYoGf3mAJPUaK1DObMfpSVY/Fr2JwEqoPYcDVK4GbDGcyCyvzuNzim5UxE+Z92L1ik/8f2kf3wqyPZ172ojDdyLIToczZ8TLggYeW34BhDr5/2u6Cw9c4Vw1h141xJaI6NTBx8f6OF8+3+LsKuBI3+dL0OiiH4sc/Gz52FfZG7CWif1jE5oD3RkIoGB2tVdAcjzjLQOmGbrWOqls5b7qmaSbel9Jifyop2ecRg4R32+1Pv/H6xO22YH4ltTP73CBD27CuQfghuglkaBcOjc6lcIDPWsBzg6Dp/5r7OfZd1ZUrwsMKB7ksMbssHnnhbszTWV380N8xocAvO4AOf9UA9zvjZAin0rHcDUJb9gCIOj0WP3xak1e2lPWqrKtvw65SvGTdJ3HxcyGmeqcCy12CJH2gHOlT+zoY0c/vWa6WT+75lYvXk7nib30IMRm9TDQnMo+sww3MdA==;XGSWEIopVOfe2m6NJbBRsg=="
 ---
 

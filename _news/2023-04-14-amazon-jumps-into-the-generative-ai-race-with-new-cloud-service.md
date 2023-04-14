@@ -8,8 +8,8 @@ webUrl: "https://www.nbcnews.com/tech/tech-news/amazon-jumps-generative-race-new
 ampWebUrl: "https://www.nbcnews.com/news/amp/rcna79599"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna79599"
 type: article
-quality: 87
-heat: 227
+quality: 89
+heat: 230
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211215-las-vegas-the-venetian-expo-aws-ac-1159p-b07aeb.jpg"
@@ -160,6 +161,6 @@ related:
       domain: thedrum.com
     quality: 11
 
-secured: "op5rswd5j3snIun+coBvsvkBq0iWd2kxw+jUJhAieVT7B716LMHezTYFCS8Zeg5L5e5Ja3soQnBB+/1AzmtZ0xygObrqdC4+NFWAVh93BNm12lu4BWlY7CbLaXAv09frYCCeldmRFGb4oQlmDhh+Ba47FPIWcvPTUqjfj3eveDzxsa4nPCpAll3fLg1XTWONc4qhfvIpqvQn4ecn3sfxfJJw+9ms74FEV2otcqrvErzUXDrFSolsIfoe6ul+8QDfPK45CXfZ3bT4AMH6lJXM0oSrIrk3XaTVjpLEWCVldp7pfEeo1cEM9PW/UzScqe0JTkrNXTrqauz2uJXmIrDpKLAhcwa44sGroWXAGMGI88k=;J33MPZ8Kmj1HP351TEroiw=="
+secured: "WuIeTKIeR24hGnbXGk0ceEP4WKJBtHWeiaVgtuy8wWGbV4nhaSdvVowbbmC5RM6j1IPtIsBL4gV4GBuauoKMwmk/2JrfRvCUvyMNM3IAsGEsygxf2vX9wkXvZ5BtQVUsrw8TBWg+hp2gNhDSjZf7cAEK2IEJlaegG+F4loe6zXGaTkQQzPnUpAwZGf06fHytdB7JNvRVnDu5YGyuIzfHailgo1D5Kp3VfyqIIbXL7k67gDseG1CG6HJ7rgt1780wXdhOqiW5HJOfyjtI/Ay0lUrjiEMRaBpIcFt0VQl3Jg6jpXNYfXOnPl7/qHEbjaYxmP+wFmULS9hGlzGWUy/Yqje0wIcshA1X2EJDyhTEzHky57zoV5IBwue2D9Lsu3ebhsd2ENM/1Ai4OE/rne+e7qWI48a7og5s+wqP+urnv8SxQISGhzJ9HQSjoQOOGrG6O91GtujQNGGevLdjokjlU/Vfz2qy/Qs1sSA5DLMj82xDFRkc5o3PjJ4O6wU0KEzM24Pv91y7BjgL0Sn+x6c6SQ==;VKjBpeJrFDN541W+/XpePg=="
 ---
 
