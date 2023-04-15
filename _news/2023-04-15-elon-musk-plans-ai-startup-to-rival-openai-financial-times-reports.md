@@ -180,6 +180,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Elon Musk vs OpenAI: Twitter boss creates new AI company weeks after open letter to halt AI developments"
+    excerpt: "A few weeks after he signed a letter seeking a pause on big AI experiments, Elon Musk seems to be floating his own AI firm to rival OpenAI."
+    publishedDateTime: 2023-04-15T05:50:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/elon-musk-vs-openai-sam-altman-gpt4-8557417/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/elon-musk-vs-openai-sam-altman-gpt4-8557417/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/elon-musk-vs-openai-sam-altman-gpt4-8557417/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 42
+    images:
+      - url: "https://images.indianexpress.com/2023/04/Elon-Musk-AI-company.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "Elon Musk plans AI start-up to rival OpenAI: Report"
     excerpt: "Billionaire Elon Musk is working on launching an artificial intelligence start-up that will rival ChatGPT-maker OpenAI, the Financial Times reported on Friday (Apr 14), citing people familiar with his plans."
     publishedDateTime: 2023-04-14T20:13:00Z
@@ -188,7 +204,7 @@ related:
     provider:
       name: Channel NewsAsia Singapore
       domain: channelnewsasia.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--bf3T35Wf--/c_crop,h_450,w_800,x_0,y_0/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-04-14t174749z_1_lynxmpej3d0pz_rtroptp_3_twitter-advertising.jpg?itok=nnv6KiBp"
         width: 1200
@@ -250,6 +266,20 @@ related:
         width: 750
         height: 489
         isCached: true
+  - title: "Musk Planning AI Startup To Compete With OpenAI: Reports"
+    excerpt: "Twitter-owner Musk is assembling a team of AI researchers and engineers and is also in discussions with some investors in SpaceX and Tesla Inc about putting money into his new venture, , elon musk, startup,"
+    publishedDateTime: 2023-04-15T05:27:00Z
+    webUrl: "https://www.businessworld.in/article/Musk-Planning-AI-Startup-To-Compete-With-OpenAI-Reports/15-04-2023-472955/"
+    type: article
+    provider:
+      name: Businessworld
+      domain: businessworld.in
+    quality: 37
+    images:
+      - url: "https://static.businessworld.in/article/article_extra_large_image/1612433725_bzj1WZ_2021_02_04T095433Z_1_LYNXMPEH130P0_RTROPTP_4_CLUBHOUSE_STOCKS_MUSK.JPG"
+        width: 870
+        height: 470
+        isCached: true
   - title: "Elon Musk plans artificial intelligence start-up to rival Open AI"
     excerpt: "Elon Musk is developing plans to launch a new artificial intelligence start-up to compete with ChatGPT-maker OpenAI, as the billionaire seeks to join Silicon Valley’s race to build generative AI systems."
     publishedDateTime: 2023-04-14T17:35:00Z
@@ -267,7 +297,7 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 32
+    quality: 34
   - title: "Text-to-Image Generator Market Analysis and Industry Research Report 2022-2030 with Top Players are OpenAI, Google, Facebook, DeepAI, Stability.ai"
     excerpt: "The market research carried out in this large scale Text-to-Image Generator market report succours clients to forecast investment in an emerging market, expansion of market share or success of a new product."
     publishedDateTime: 2023-04-12T08:48:00Z
@@ -278,6 +308,6 @@ related:
       domain: marketwatch.com
     quality: 11
 
-secured: "M/LSf2hSsKdgE4IEXI3pCyTj2aN0K1lH+FeeMmWpVEEw3nv9o/Xw/+l5m/OwZnUQ0WtFuzAbfqyLdo6E3cJ6QBysrtutuHW8jy3J6E5kb+p+0LLtaLHbuHIQ1r+IjDM+9gF+BkqlPpSZ0oWSFPNmK1RohHqJV9n1T22eCKB2f07aNpaN2yEMWO8UBTZBCUMfgbkEe9zRCK3fsaB8Fl+23O1X8RMNHwCfaU1iwwcDr1fJHzFn1PvZvJGGArWnj9+8bE7DB0am9F7PhzHftTUiKs7bIE7NDiPNtdxVBi1eA49Jry4631Ofb91tlPyABgBeTYAn+bcrC3nnp7c/FWTgIzROLaZ6S6qn3b6dzRAJiHI=;TFQovg3Kt2Ozk5GcyOtRqw=="
+secured: "Y5artF1pxuuOkn7xS6y61YEYTUSwujYnZEafGtPR/Rt1eDYVta2b9dAuM7rmQTUozMp225Dg5RCfYwW/Ywe/mbfejC8d0LSSO+YW7yXryk13r+qL/bcH/xpuNmHN4Qkz+LuTTBxb57dIk333W9Uw7euIoT7vYzKOoCCc7Xkaos+f6xlyzqRk/+uj+4lgbSF0mh88tKEJ4ZkL7Y1hk28odpOX3rPavrot1OEAxxBPz0nIF+3VfNqJTkEkinRIGRXM3I2FVEYAVipxUZJ85m04DfjTL/aLARtYR1b2JCCo6AkvzZdIp/uZKwHDoHqeWEXgt1laLRXZDfAzdQODZG2BqiBPrdYUUNCK0V4UbyJ9awnoshtEoDbLFflOb4fURUgzm5ceRUnEm9PdqklwWOwKHdX4DsEUFBA62xRzVK8saPOWNs5tDmpLV4E1ZjMR2JFZUGzYxlc/BBsqNTnR78uoji0hIgXJq5JtcMnOmc9gzJCQZ6x8KlEfnNecY8UtXcPZEYG3/yGXFBuKgYYS5bErVQ==;iDutPpENmvTa0lQ8qdEDVA=="
 ---
 

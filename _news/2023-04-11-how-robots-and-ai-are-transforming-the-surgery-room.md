@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/science-technology/how-ai-and-robotic
 webUrl: "https://www.entrepreneur.com/science-technology/how-ai-and-robotics-can-make-healthcare-better/448464"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -51,15 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "New AI tool helping the blind"
-    excerpt: "Be My Eyes app is testing ChatGPT, an artificial intelligence chatbot, to analyze images and explain them to users"
-    publishedDateTime: 2023-04-12T11:53:00Z
-    webUrl: "https://www.cbsnews.com/miami/news/new-ai-tool-helping-the-blind/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 19
 
 secured: "PUwoncoeIzXYUSINBGUYh6R431fpQOC3RWG7f7i8fw9TuoJvZ6auJp3sVfqakWSIBTgay2S00BumNqTBVuLZKnOzKWuf23BU9uouePPQDKDJFT2TTjg6ZzK8R1oc/DAK/wNUZw9nHs2bH5Iw8md7B3NtIGmBaKx/qVpCcQxtclx5mzFvNl5eRnLQKW7q6WESd5WrDENN16PREv1IQRwbDeEHaMN6KfeyIuBckEL6LBvs94N7SVv7SyVLDpGWx1S4u0QPPycFATwFUpykHxL0WHLNAqUXrPrerh0gOtkpq2YN7GOgpooX72cGe+nlDromaiZUOTV1DacbJt/sENlHQcDmaAeQFSp9p4ftbiTdUmf4STUtGgRlO3tnI925Vlti9fN8SKeUoLwZyLZ4ZDm+IOPV2GLyfCd84iNlDAQQpjurPXbo5kJbBnKRsOlJVn7WencQNqreWOWibYUN3bIotitt8c1Iap9G2d4GyJCWIBNpVbwycQdYsri+JYsQ+IWCOUfRM6RsIlbip9GpXVSDfw==;0aL2YUnBPb7p0LqfqFxH8g=="
 ---

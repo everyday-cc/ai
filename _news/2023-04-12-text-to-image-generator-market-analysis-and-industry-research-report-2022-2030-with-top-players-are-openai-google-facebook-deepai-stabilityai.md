@@ -189,6 +189,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Elon Musk vs OpenAI: Twitter boss creates new AI company weeks after open letter to halt AI developments"
+    excerpt: "A few weeks after he signed a letter seeking a pause on big AI experiments, Elon Musk seems to be floating his own AI firm to rival OpenAI."
+    publishedDateTime: 2023-04-15T05:50:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/elon-musk-vs-openai-sam-altman-gpt4-8557417/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/elon-musk-vs-openai-sam-altman-gpt4-8557417/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/elon-musk-vs-openai-sam-altman-gpt4-8557417/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 42
+    images:
+      - url: "https://images.indianexpress.com/2023/04/Elon-Musk-AI-company.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "Elon Musk plans AI start-up to rival OpenAI: Report"
     excerpt: "Billionaire Elon Musk is working on launching an artificial intelligence start-up that will rival ChatGPT-maker OpenAI, the Financial Times reported on Friday (Apr 14), citing people familiar with his plans."
     publishedDateTime: 2023-04-14T20:13:00Z
@@ -197,7 +213,7 @@ related:
     provider:
       name: Channel NewsAsia Singapore
       domain: channelnewsasia.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--bf3T35Wf--/c_crop,h_450,w_800,x_0,y_0/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-04-14t174749z_1_lynxmpej3d0pz_rtroptp_3_twitter-advertising.jpg?itok=nnv6KiBp"
         width: 1200
@@ -259,6 +275,20 @@ related:
         width: 750
         height: 489
         isCached: true
+  - title: "Musk Planning AI Startup To Compete With OpenAI: Reports"
+    excerpt: "Twitter-owner Musk is assembling a team of AI researchers and engineers and is also in discussions with some investors in SpaceX and Tesla Inc about putting money into his new venture, , elon musk, startup,"
+    publishedDateTime: 2023-04-15T05:27:00Z
+    webUrl: "https://www.businessworld.in/article/Musk-Planning-AI-Startup-To-Compete-With-OpenAI-Reports/15-04-2023-472955/"
+    type: article
+    provider:
+      name: Businessworld
+      domain: businessworld.in
+    quality: 37
+    images:
+      - url: "https://static.businessworld.in/article/article_extra_large_image/1612433725_bzj1WZ_2021_02_04T095433Z_1_LYNXMPEH130P0_RTROPTP_4_CLUBHOUSE_STOCKS_MUSK.JPG"
+        width: 870
+        height: 470
+        isCached: true
   - title: "Elon Musk plans artificial intelligence start-up to rival Open AI"
     excerpt: "Elon Musk is developing plans to launch a new artificial intelligence start-up to compete with ChatGPT-maker OpenAI, as the billionaire seeks to join Silicon Valley’s race to build generative AI systems."
     publishedDateTime: 2023-04-14T17:35:00Z
@@ -276,7 +306,7 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 32
+    quality: 34
 
 secured: "mfNptedKiHyhi+KpLliueqcn1C84++vUza5HGHdJIFZTx+xBbQQdA9kIEIOtNLWzE5VJquJATd3Lv6GbR4asJX0EOhfb3FK/1BFfB8/2naIIUyhL9vLB0Pz5nK52c2hO1sYowXq3ib8D3dFRyFELtcdTbRVrXLtROpPhCb8q1GRTOEAVVBz4duB5SBTnhAIeQV4fnVXXgof7pOogk1iYHviQfPT0HUViueICOfbXHDxRuDRHNe3/gIxQ6pV6aYAxO8xAFG9ulmoQncay51Qqsv1CaAw5TeGwGoyFKxn3NWtJ9+9ZKjdBMH49LVFcRB/eTHs7bmif7ayGem5ExFOBe3NqSYFEdOMAjzJUnmqA5z8=;6W6Y5/8rKyi+K8eIiblvFA=="
 ---

@@ -48,15 +48,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "New AI tool helping the blind"
-    excerpt: "Be My Eyes app is testing ChatGPT, an artificial intelligence chatbot, to analyze images and explain them to users"
-    publishedDateTime: 2023-04-12T11:53:00Z
-    webUrl: "https://www.cbsnews.com/miami/news/new-ai-tool-helping-the-blind/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 19
 
 secured: "nOiwskQvJ/AZRj3j5nCBLz01KpqGOshNa3VUWcVmvzAct/HlZqJxm0eYz+Yu1jA7DO2zgX40Z/Bpn9wrt1v0tW2QPmNKUVDeph1apPpu1r/vptbNPJ7X3Zu9qqIx10+HLXCwk7YTRJwZ0CuqQBYiuDgnZJw20DDvEe8MDJ7WpBqhCNdfK5uvQWzKhN1TzSYEUfJviKUgovwAc5hXMkczdNcLMbERllHTYcjyv+xNlv78A3SBBoFdDp3fsNxWusTj6p4ILqqJbx7/bpKv8xgvrp5BxExLHuN/bPZpLQJQdspnNE+na05v4fdNElQS7KEPn9fed2NW5NOplWADi4nX96PeYpnkSOoWvXMGMsC0wdM=;5r+mDeol6J00eG4sSjK3pw=="
 ---

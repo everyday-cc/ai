@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/video/series/tech-news-briefing/whats-slowing-
 webUrl: "https://www.wsj.com/video/series/tech-news-briefing/whats-slowing-down-self-driving-car-technology/27D24413-3882-4A81-9AE0-16F3A2896A97"
 type: article
 quality: 54
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 279
         height: 278
         isCached: true
-  - title: "When Will Cars Be Fully Self-Driving?"
-    excerpt: "The technology isn’t anywhere near where it needs to be to replace human drivers. Three experts weigh in on what the future holds for autonomous vehicles."
-    publishedDateTime: 2023-04-10T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/cars-self-driving-when-c6ae4fdc"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 34
   - title: "You wouldn’t fly in a plane that had no humans in the cockpit -same with self-driving cars"
     excerpt: "BRITAIN has become the first country in Europe to legalise hands-free, self-driving cars. The technology has been fitted as ­standard to Ford’s new Mustang Mach E for some time, but at midnight on Wednesday it became “live”. So now you just pay £17 ..."
     publishedDateTime: 2023-04-14T21:37:00Z

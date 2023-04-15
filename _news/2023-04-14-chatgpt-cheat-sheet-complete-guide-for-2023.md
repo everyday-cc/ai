@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/chatgpt-cheat-sheet/amp/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/chatgpt-cheat-sheet/amp/"
 type: article
 quality: 74
-heat: 86
+heat: 84
 published: true
 
 provider:

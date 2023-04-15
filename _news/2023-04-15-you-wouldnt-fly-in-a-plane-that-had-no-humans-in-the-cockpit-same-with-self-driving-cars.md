@@ -55,15 +55,6 @@ related:
         width: 279
         height: 278
         isCached: true
-  - title: "When Will Cars Be Fully Self-Driving?"
-    excerpt: "The technology isn’t anywhere near where it needs to be to replace human drivers. Three experts weigh in on what the future holds for autonomous vehicles."
-    publishedDateTime: 2023-04-10T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/cars-self-driving-when-c6ae4fdc"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 34
   - title: "Watch What Happens When a Self-Driving Car Clogs Up San Francisco Streets"
     excerpt: "San Francisco is the epicenter of self-driving car testing and development, with dozens of robotaxis roaming the roads. Manufactures want more taxis with more area and more drive time, but the technology isn’t perfect,"
     publishedDateTime: 2023-04-10T17:40:00Z
