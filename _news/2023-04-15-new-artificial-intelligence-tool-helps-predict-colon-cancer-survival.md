@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.medindia.net/health-images/artificial-intelligence-can-now-predict.jpg"
@@ -64,6 +65,6 @@ related:
       domain: medicalxpress.com
     quality: 19
 
-secured: "pTgvwCS89rFzu8lFkaRpLs2E+P1xr0ph2TM2q4flpVXT8WVHfRsX2YRj5oBrftXLXCO6sge0NqDPXfeb5q/wmbi+xmHY/jsqHBSohDS0IMAn0ZaERrcfVwm6YQzfc2xw3nd3xqC8pgeM+W2Wjul/Ibq7+lNcr9XgaonGM236hkJCU82OuGoYX9roQkh3vfzib+t3UF3udRHNagr0UYk3Vtg6YsZbtRhX/89hP77w8BvbtzgB+N7Bh8IOdT2FwJAfRgYTz05ARoXC2wJ2o7L7lxf1wB33K6XCmL+4UI/BgGs9Bw5yqu+tQ/1KmmnoL6oFkWAZ9yWOvH013NI1Px0bzPrkatMMT9xprVFSkgKwCH8=;wmyHORBWUnYxp34C0vcgsA=="
+secured: "e3H/gtIJ/HRbOtVo7KSdEau7ZVmPTItm7nUaWRMZeD6o4NMuVYUIcu/YyO+/vzsONCJs/H96itAvxxB4dnZcnvZJ1Pz015bLfjHRzkFtrMlD/oSNBvCGcPmX+smlmkFRUKy3x2u9gSkeqM0SqEZshWx/rZluPtYe7/HwuudAgXs6FGXuKbyv/OB5Qs7Mldkp1U4laL33vHsTIeshk4cNm+KMU1BYDzYVS3F/RIUDZco8W2zq3lKlvphwmhkqO+DXfFqZKWEpeLYqxPG4KwlvBPieu6cFZxUg1tRE+Nh3o3hJuwibXZCf12xMmiRkNr3M+MI3hX4dsrnghQ+9KiYoP4uic3y4gUki8LiXfsY+VdaRZIhkid98TfxxWDN5Zn8shyQfDQcMc7SWQ4aTgsutoOhdCbvN3N8f0g3HOEa4qRUFL6IAqdBI3RjHuuqDBiukoCU5D/mAvfNpI9kDXWVN6tOeFtHXs0exfu2/YEew4bDrJxSA91SdrsQdnKHR6Ro3W6nFVY3WzPBKFyzFfhWMQA==;CQqAOEmqlYXBb/DlyFKa6A=="
 ---
 
