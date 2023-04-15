@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Chinese Company Ditches Human Creatives For ChatGPT-Style AI"
+    excerpt: "In an internal staff memo, seen and reported by Bloomberg News, the company said it will use ChatGPT-like generative AI models instead of using external copywriters and graphic designers."
+    publishedDateTime: 2023-04-15T15:44:00Z
+    webUrl: "https://www.pcmag.com/news/chinese-company-ditches-human-creatives-for-chatgpt-style-ai"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/07jJ4ex3AqNGzLzs5NUaoE5-1.fit_lim.size_1200x630.v1681573104.png"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "How artificial intelligence like ChatGPT is influencing medical diagnoses"
     excerpt: "And it's inevitable that people will use it to guide our own healthcare decisions just the way we've been leaning on \"Dr. Google\" for years"
     publishedDateTime: 2023-04-15T06:11:00Z
@@ -130,6 +144,20 @@ related:
       - url: "https://assets-varnish.triblive.com/2023/04/6099010_web1_6057796-5f634f24303c4f78a9e41f89b4353292.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "Musk Plots AI Firm to Rival ChatGPT, Which He Co-Founded"
+    excerpt: "Musk signed an open letter calling for an immediate pause on AI research for systems more powerful than ChatGPT."
+    publishedDateTime: 2023-04-15T12:31:00Z
+    webUrl: "https://www.thedailybeast.com/elon-musk-plots-ai-firm-to-rival-openais-chatgpt-which-he-co-founded"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2041,w_3631,x_0,y_38/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1681564940/2019-01-07T083114Z_1914893929_RC1550266F00_RTRMADP_3_TESLA-CHINA-ELECTRIC_xjpqaq"
+        width: 1480
+        height: 832
         isCached: true
   - title: "ZTE to launch GPU servers in response to ChatGPT-triggered AI needs"
     excerpt: "China-based IT and communication solutions provider ZTE will introduce GPU servers supporting high performance computing (HPC) to meet the ChatGPT-triggered needs of large AI models, according to company president Xu Ziyang."

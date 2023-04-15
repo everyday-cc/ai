@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-15T12:18:00Z
 originalUrl: "https://www.inferse.com/485371/chinese-tech-giant-baidu-just-released-its-answer-to-chatgpt-mit-technology-review/"
 webUrl: "https://www.inferse.com/485371/chinese-tech-giant-baidu-just-released-its-answer-to-chatgpt-mit-technology-review/"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Inferse

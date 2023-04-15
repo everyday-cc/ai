@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-12T05:11:00Z
 originalUrl: "https://www.forconstructionpros.com/trucks/trucks-accessories/equipment-trailers/product/22807002/earthcam-inc-earthcam-releases-ai-safety-trailer-for-mobile-security"
 webUrl: "https://www.forconstructionpros.com/trucks/trucks-accessories/equipment-trailers/product/22807002/earthcam-inc-earthcam-releases-ai-safety-trailer-for-mobile-security"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: For Construction Pros

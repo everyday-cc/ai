@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/content/7e19f9cf-dae7-4c96-bb2e-23cc45414168"
 webUrl: "https://www.ft.com/content/7e19f9cf-dae7-4c96-bb2e-23cc45414168"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-04-12T23:27:00Z
-    webUrl: "https://www.law.com/dailyreportonline/2023/04/10/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 19
 
 secured: "OuClPWZr2stVVdu1ag4Ks3bdMDTRb6+2BJl4oPKbwUu5JD3HUAJPWi5EGtIlglYXuIUz4booWyTFCQn+P2C3lQWvsNo2RDhXh0NeISpf3BSK+vQAp1D2E53sUvIyU1jzZLW7fRCuzatq6EitRUbw63jQ0MQG0eqFNQ6n9JcRv36DXumMcwHRBsvjVFeyP3N8JRYI82COzNFMSeExlXlCwroB+QuQYarUnfDaYSqI3NWZXe6r+d3mhZXV4+mgoEgtCstIBvM5hw8LN9BNIn98R9pT6uQU4fAQCimoF2krUAeLblGjQ3hqRjVwQmPeydqLexPESyjhZ0bszw7QRD50P7uYDzwFd4eAsJV/5CuofrIg8Ca47bNXr/CTqYVxBbdIWHV/LsG/GQ41+DYG+7wWZabWv0hxhwrw/KWljJHpfw8trPKMCOVDeajm1VW+AYLQHayEhLFMTaM+jh3UMiVYogpTcV0iOHhzDDob1rZlA1hWqxZ8fIv+pZq8DeW+RTwtGUdue0YDGXsx6fjRcHz42A==;QuYH0XO3yfRnojnqfW5JPA=="
 ---

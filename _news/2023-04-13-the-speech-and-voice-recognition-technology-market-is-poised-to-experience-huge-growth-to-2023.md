@@ -60,15 +60,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Autonomous / Self-Driving Cars Market Set to Reach $62.4 Million by 2030"
-    excerpt: "The Autonomous / Self-driving Cars Market was valued at USD 20.3 Million in 2021, and it is expected to reach USD 62.4 Million by 2030, registering a CAGR of about 13.3% in terms of revenue during the forecast period (2021-2030)."
-    publishedDateTime: 2023-04-10T20:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-self-driving-cars-market-set-to-reach-624-million-by-2030-2023-04-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
 
 secured: "oduc0TSWfyqrFMcGKZPhLIX68qc3UqgZ4YEOxABKQ6fVHG8QmlTY1bncaAQpNCyzL3DfnDI9m6zWVq+EZkEGdwmA78TPzVqvPCZoTkblcxhYjrX4sh964hqCCdGM+jfOJZNbOjmzbttpMiCEP/i1eks1C3T8llldbeXav3vJAqD87uJMzDBaIXufjjkHRU9odbFwZg4xYnSRNWIxB6W9k/r1ROjDECsmFppJtLO3BSlGoiD7PNylhK2uoPeZQvUkVBGuEqEILNHtIiYDTQTYgDlsCMNSuxvN9nyhUWKERxd5TRwodYlv7jbDRw9Ks22kyhsZnnQx4a/y/0QVRWh3f+LuoX4q6kyv+Z8CEHUAIvY=;FYAppiLlx3g2eInebTHjSA=="
 ---

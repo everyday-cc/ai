@@ -1,29 +1,29 @@
 ---
 category: news
 title: "UP Fintech unveils TigerGPT, the industry's first AI investment assistant"
-excerpt: "TigerGPT is currently the industry's first AI investment assistant and part of UP Fintech's broad layout of internet services; Now in user testing, TigerGPT aims to offer timely m"
-publishedDateTime: 2023-04-12T09:18:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/04/12/9792770.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/04/12/9792770.htm"
+excerpt: "TigerGPT is currently the industry's first AI investment assistant and part of UP Fintech's broad layout of internet services Now in user testing, TigerGPT aims to offer timely market and stock data,"
+publishedDateTime: 2023-04-12T08:00:00Z
+originalUrl: "https://www.asiaone.com/business/fintech-unveils-tigergpt-industrys-first-ai-investment-assistant"
+webUrl: "https://www.asiaone.com/business/fintech-unveils-tigergpt-industrys-first-ai-investment-assistant"
 type: article
 quality: 38
 heat: 38
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/2052416/image_822796_24155510.jpg"
-    width: 400
-    height: 400
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Apr2023/image_822796_24155510_0.jpg?h=04d92ac6&itok=A8svN3j5"
+    width: 600
+    height: 316
     isCached: true
 
-secured: "MGkJUtV72ImDXu2EVi7gSIY6kjBCWLZT+jiKI3YBtqDhHqgdTQtha73RtKcrdIMfc8CCJ8fDvkmEbWenpCO7ATWP0VZB5ULFnhnXTNERCxUSSCh1tLYZU8jJKIQ6xrC4DARquxVrvIzZTDdLo1z7a2lkqwhk4YTXB/Dz2jvfsEK15631PGeyKXKAKhf9HoamhOFUIu2JG9BwP/cRtdZJD569I6NbMkdf6DeonTDq1pzWcs/xIeZZ8/WhgsIkBkhQxDTZgTpzQ1xh939so1wCXBnK36dl0SBzXtarpPhZARL1fGaPXVkGwRkBX/kZXJ9Ve7tLv2bQo+UROggbhXWetT29uEDO+f97pQdx/PXkB5CqzSiAad4ZOlXajAwH67Wjy/57LIBOIpoq5XuDq2m62A++ISI8z9h2hu49JTj5mArNP+w6xYPYa8vofX6aMalyLYw+8dRFbGmVpFfne57aJbcysGibvpmOxJGkmBXfTq5+X9kHKBkqnk7B+KEM0SVAC2A7+U9SDwil22aqj0iNzg==;s5L5jnOYn2409bX9nYw63w=="
+secured: "B2nwY8qlyCCdaV2z/D7kuxi4kuV9GVqVcm0J++Pt6Wfh7At7jnpDvLZHmM70mqpED88yZIgKkNCKpRISGekYapjNbhJXVXeW1Da+uCOtN0W84xKWJKVjm2o+ccgtqPmSo298M0lNGR+obWMymVbRy6q6jR29JCnyRvVNlSJKp1eWqzRywRFrlv2mUjeibEzNvzB3KilZ9Q26oQaypJ3PNM/lkP75pYfKuBBDwnbBjRA5l1NA/mTJDxcTyz1CHIO3uUiWZ+9nNAnvsjuBVu9FVMulK2ALO1Tv3d0pj8feDm+uCgcdEwnxyB0H+d0Eht4yyNuJtoVjEwYdKij24LyB5pCNpJe5J0vcLLpkd+qfHrU=;naYFtjjUWcxWnLEcIdDnUg=="
 ---
 

@@ -1,20 +1,29 @@
 ---
 category: news
 title: "Laredo speech language pathologist recognized, headed to Puerto Rico"
-excerpt: "One Laredoan is about to go to Puerto Rico to give a lecture thanks to her continuing growth and recognition in the field of speech-language pathology. Laredo's Desiree T. Hernandez, M.S., CCC-SLP is a speech-language pathologist who was recently recognized by a national magazine focused on the profession by her company in San Antonio."
+excerpt: "Hernandez, M.S., CCC-SLP is a speech-language pathologist who has recently been recognized by a national magazine focused on the profession by her company in San Antonio, Texas. One Laredoan is about to go to Puerto Rico to give a lecture thanks to her continuing growth and recognition in the field of speech-language pathology."
 publishedDateTime: 2023-04-15T12:06:00Z
-originalUrl: "https://www.chron.com/local/article/laredo-speech-language-pathologist-talk-carlos-17886577.php"
-webUrl: "https://www.chron.com/local/article/laredo-speech-language-pathologist-talk-carlos-17886577.php"
+originalUrl: "https://www.lmtonline.com/local/article/laredo-speech-language-pathologist-talk-carlos-17886577.php"
+webUrl: "https://www.lmtonline.com/local/article/laredo-speech-language-pathologist-talk-carlos-17886577.php"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Laredo Morning Times
+  domain: lmtonline.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "1E+IwRQWaGTkiFgsiOBZRC8a6Q/oc5qpZO3S/EptS0H70H4xaniura5oQqTVGdl+09i4os91iFW4NaOU27xrrCc1/WlJIbUdekzA2AYBFgwLdYjRYowJRarqFH3BH/I3DWLJZ9RmD/kwaOW8cmDz02gSXWfk6OQUHnv6g1h0GmI9EwyULfeb6fABXl/sLCWckx0yhsjv6HTe5Y575sD9+p+oPk3VWquXV1FY6Estyv/ZjKBog304GjIStzwp9WT+8jqyVslC4PHMlxBj/M/3pHYGkQnK37gHTFaBb684P2id6+ig10lorXnqRGdkk/DTDS3CIJg8tbWYCoDGcmb9BaE8Mzv5vJVDYdTjcQFJmpho4gOXMhGiSncx9F9A71YaA0UGmPOL/q/dIg4PKyo86Lr6EZsrLPkUHrgVpMUxUMf0tL7hiJJnqcgJbd4gQG1n8NOn5d2rQSg4a2N/InDNYZ1Id2ALDuDlgjhaJw9EjNSLZjVpqOPmsegg2pxlSeZ39MjJDRt0SCYBva+T3sWyjg==;xc43rUmTTHAz+1ZufA88Vw=="
+images:
+  - url: "https://s.hdnux.com/photos/01/32/20/64/23661855/5/rawImage.jpg"
+    width: 2048
+    height: 1536
+    isCached: true
+
+secured: "nEObtjUcst6J46TjAF5pgVFt1QlY2XYSgzBhjRRFmPr/CYi6XZ9Nwb4Q05Qv/Qq8OGpuDs0vt8gn/+RsPzXyCBnoFx4PS2BNeohmhBHbB3BbMf4rhQyUK9vzVUTcHrAkaiPtSRr7K3fpEe93vriTUEvj7hN1iQKVqQbXo2ca01fBCgrcbVnkBJlir8HehNDBdEFhkgUOZ7aG2VmmBO3b1tNxyqO8heXWVQf+9YninJ7JJn2BAc0Azyol/7ybciPphu3GDwM1eIsvM1gT2Kyk+1i9zwOaT8Ufg5+zuNL8XfWkjK2XUS9fLNkIDudzeM+gD4hCNjz4TzVBbRVYAzwDKfyeSw2w8DmFZ7sc46ks/EE=;14nUeLXmda5F4r1FGGe9qg=="
 ---
 

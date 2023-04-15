@@ -29,7 +29,7 @@ related:
     provider:
       name: Medindia
       domain: medindia.net
-    quality: 57
+    quality: 59
     images:
       - url: "https://www.medindia.net/health-images/artificial-intelligence-can-now-predict.jpg"
         width: 300

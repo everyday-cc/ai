@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-15T12:39:00Z
 originalUrl: "https://www.thetimes.co.uk/article/037423e8-dad5-11ed-89ad-19e3cfc05db4?shareToken=a9b78f7ffcbd43ac4b5b19cb639f8333"
 webUrl: "https://www.thetimes.co.uk/article/037423e8-dad5-11ed-89ad-19e3cfc05db4?shareToken=a9b78f7ffcbd43ac4b5b19cb639f8333"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Times

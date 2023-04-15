@@ -3,18 +3,18 @@ category: news
 title: "A few classic films made predictions about the science of the future. A few got it eerily right"
 excerpt: "Here's what some notable films get right about science and tech — and what's still the stuff of science fiction."
 publishedDateTime: 2023-04-15T01:05:00Z
-originalUrl: "https://www.wlwt.com/article/films-predictions-science-future/43605947"
-webUrl: "https://www.wlwt.com/article/films-predictions-science-future/43605947"
-ampWebUrl: "https://www.wlwt.com/amp/article/films-predictions-science-future/43605947"
-cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/films-predictions-science-future/43605947"
+originalUrl: "https://www.kcra.com/article/films-predictions-science-future/43605947"
+webUrl: "https://www.kcra.com/article/films-predictions-science-future/43605947"
+ampWebUrl: "https://www.kcra.com/amp/article/films-predictions-science-future/43605947"
+cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/films-predictions-science-future/43605947"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: WLWT
-  domain: wlwt.com
+  name: kcra.com
+  domain: kcra.com
 
 topics:
   - AI in Healthcare
@@ -74,6 +74,6 @@ related:
         height: 280
         isCached: true
 
-secured: "G9VAAjtTy3ybt1/WuJGa1OYKTJFm/u+tblR72J3Gcel2D2g9uUaLd6gkjq+i6Y0IgNfnn11pYKjNVgJslG3k5BQRCfhH43srk6VRitSpGwPtyOdP8uf1kHcGyJyipL7twfMa1XeQebPKMwqQSXTw4ppRTu0BGNrhtBieBamAJVrXxwg2HsMPJnNpiYG0GqN7yfFXMy5lSb+rDEJpVV1Qq2CK7BWaRhfpqWUGC6M516bpMWHbP4PXZBGLgH2/A+A0DD7Zxu2hJykHBlUK9Jc8D9g65IRhFid0D1/cj4etqlBAgezQywZae/mszk76SO9V2tekWIyaleynhFWu16POkRbDIwodW45brotS0O5DxEKRoGNe7JsqvXvHG6fOnkRx1sUTCEA8o9FxMiHwtQ1sEZOgDCmidf3SsV3lfwxs9Ls7lvYndpRXbCE/QyTozh5+aFyGQL++qIr9yZuolmaNPfzenLHYhFEeW5vL+1TV4zQ4zhUarU5KRb9TdmlpU8p+0vLWPDcyYReNlX3zG0uwAw==;bINBOEpUlN9DOUD9RVEqqg=="
+secured: "m1NGyTxj47Om61/7qySuIpZxFU/veT4FOyXRGBfrubwVNlmrXgzA4csLFe4e7IL4D/eyeWDDi6k7j4Y9sY5hOlj2YCcvjEGA4CFhltCuHCGXRp84RcYlL9KtUF/nrBHLgPLrgaqPAHYoxO+bieSg2aTomCUbn2yIN+gA659S8YK95BzoAjaxbYtI2Oq5slRf3qDMRT5fsB5yb/uSN5Dsp+4HJrEilUUklHQUm3O5eLbn7epYmcID7zEQUNSt8F0SMY7bQFuRIAfwW5UEekaadrHs+Gs15gbHDD4XxHGKnDoNrXTLkXclupJRmRjPTUlpLfuOeJH+qHUUpbTfuAwZkLJ3GmrCn6bXr3Dw8TKI/jc=;Xscz0Uvqj1RnXc3xfrbP6w=="
 ---
 

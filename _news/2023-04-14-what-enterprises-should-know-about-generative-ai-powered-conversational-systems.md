@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/14/what-enter
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/14/what-enterprises-should-know-about-generative-ai-powered-conversational-systems/amp/"
 type: article
 quality: 85
-heat: -1
-published: false
+heat: 115
+published: true
 
 provider:
   name: Forbes
@@ -31,47 +31,38 @@ images:
     isCached: true
 
 related:
-  - title: "3 generative AI misunderstandings resolved for enterprise success"
-    excerpt: "ChatGPT, Bing AI and other generative AI tools have arrived. Will we surrender to the algorithms, or is there more nuance to the story?"
-    publishedDateTime: 2023-04-15T00:07:00Z
-    webUrl: "https://venturebeat.com/ai/3-generative-ai-misunderstandings-resolved-for-enterprise-success/"
-    ampWebUrl: "https://venturebeat.com/ai/3-generative-ai-misunderstandings-resolved-for-enterprise-success/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-generative-ai-misunderstandings-resolved-for-enterprise-success/amp/"
+  - title: "5 AI Marketing Tools Every Startup Should Know About"
+    excerpt: "Discover how artificial intelligence can transform marketing for startups and level the playing field. In a world where the competition is fierce and the pace of change is relentless, startups are under pressure to find ways to stay ahead of the curve."
+    publishedDateTime: 2023-04-13T18:01:00Z
+    webUrl: "https://www.entrepreneur.com/growing-a-business/5-ways-ai-can-transform-your-startups-marketing/448470"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/03/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.3x2.jpg?w=1200&strip=all"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "Coursera Unveils Generative AI Features for Online Platform"
-    excerpt: "She noted that these new AI features aim to fulfill a growing demand ... so we're going to start with those seven languages and make sure that we're making translation available across the [course] catalog … The machine learning assistance aspect of ..."
-    publishedDateTime: 2023-04-14T22:08:00Z
-    webUrl: "https://www.govtech.com/education/higher-ed/coursera-unveils-generative-ai-features-for-online-platform"
-    ampWebUrl: "https://www.govtech.com/education/higher-ed/coursera-unveils-generative-ai-features-for-online-platform?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/coursera-unveils-generative-ai-features-for-online-platform?_amp=true"
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 64
+  - title: "How Advances In AI Are Shaping The Conversational Intelligence Market"
+    excerpt: "In the last few years especially, there has been an extraordinary rise in the capability and accuracy of AI systems to analyze voice, video and text data."
+    publishedDateTime: 2023-04-12T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/12/how-advances-in-ai-are-shaping-the-conversational-intelligence-market/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/8fe7c44/2147483647/strip/true/crop/3958x2064+0+288/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fd0%2F97%2F90c8982040429bb7cee77c56e395%2Fhttps-download.shutterstock.com%2Fgatekeeper%2FW3siZCI6ICJzaHV0dGVyc3RvY2stbWVkaWEiLCAiayI6ICJwaG90by8xODY1OTU4MDMxL2h1Z2UuanBnIiwgImRjIjogImlkbF8xMjMiLCAiZSI6IDE2NDU2Njk5MTQsICJtIjogMX0sICIrS0kvN2RCVytLaTBkczZ6UFhGYU1kaFhzOG8iXQ%3D%3D%2Fshutterstock_1865958031.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "The mounting human and environmental costs of generative AI"
-    excerpt: "Downsides include the environmental toll of mining rare minerals, the human costs of the labor-intensive process of data annotation, and the escalating financial investment required to train AI models as they incorporate more parameters."
-    publishedDateTime: 2023-04-12T11:00:00Z
-    webUrl: "https://arstechnica.com/gadgets/2023/04/generative-ai-is-cool-but-lets-not-forget-its-human-and-environmental-costs/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
+      name: Forbes
+      domain: forbes.com
     quality: 49
+  - title: "Deloitte establishes new practice to help enterprises deploy generative AI"
+    excerpt: "The information technology consulting firm Deloitte Touche Tohmatsu Ltd. said today it’s establishing a new practice aimed at helping enterprises take advantage of the industry’s hottest trend right now: generative artificial intelligence."
+    publishedDateTime: 2023-04-14T00:48:00Z
+    webUrl: "https://siliconangle.com/2023/04/13/deloitte-establishes-new-practice-help-enterprises-deploy-generative-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/ai-cloud-concept-with-robot-arm.jpg"
+        width: 2000
+        height: 1500
+        isCached: true
 
 secured: "TxQnSU6RUZzs6LbG6XbUQqcRCtSMNkmTBkrfekbYT0CCmM8IY6Ad0EB2hQCmhAmCFeTZJ/MzOEQgQb9Qy9AJ91pfwVghrkpiQxb+x2WAlwqqWaDaDG5lZRDvyJJH4v8xqq7fpU5ldRXbSDWw6DCsCYV4Po7VaYYmo2a0sd8hnNcMEaBkIiwiosAe/Fo0gzjXluRjsF04nun3iyLNtZcEv3wNXe0wwUU0ryqW6e5SfSzWVfSweiAz6YseeLjCEN4aT5lrB66q8AQW7/tOAiLf/bhoFFQRORLX7BgEf51/jyoYeI+xcM4PfBMNeUyXSOma0KEKt2PJLosOm//3PNR67BDmkqFd7IFxkQ8XUJ/KXrXrWOI+fX/xTmGyWFKDu2piHkwYPgguguFDWAl7Lbd927pLAwJU6w6UWI2Uz5Q60O4UZBoanGkGRY+yOoXi7nfO6yN4vtXLerrwxyO7yi8AWE6wuLkLK9fKm1dUWvDOEenWPvWrBtzmrcUOGzMPAwaOdpJZYKJ9J4Qko9h2nxrk+g==;hH7CdHVlWAo8VR5AIrxL5w=="
 ---

@@ -276,6 +276,20 @@ related:
         width: 749
         height: 420
         isCached: true
+  - title: "Elon Musk planning to launch ChatGPT AI rival"
+    excerpt: "According to a Financial Times report, Musk is in the process of bringing together a team of AI researchers and engineers to challenge OpenAI head-on. The report cites Nevada business records showing that Musk incorporated a company called X.AI on March 9, for which he's listed as the sole director."
+    publishedDateTime: 2023-04-15T15:08:00Z
+    webUrl: "https://www.tomsguide.com/news/elon-musk-planning-to-launch-chatgpt-ai-rival"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/mtm3wwHkxXzJUdaVnR5Mm8-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Elon Musk plans AI start-up to rival OpenAI: Report"
     excerpt: "Billionaire Elon Musk is working on launching an artificial intelligence start-up that will rival ChatGPT-maker OpenAI, the Financial Times reported on Friday (Apr 14), citing people familiar with his plans."
     publishedDateTime: 2023-04-14T20:13:00Z
@@ -383,6 +397,24 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "Elon Musk plans AI startup to rival ChatGPT-maker OpenAI: Report"
+    excerpt: "Twitter-owner Musk is assembling a team of AI researchers and engineers, according to the FT report, and is also in discussions with some investors in SpaceX and Tesla Inc about putting money into his new venture."
+    publishedDateTime: 2023-04-15T12:12:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/elon-musk-plans-ai-startup-to-rival-chatgpt-maker-openai-report-10418281.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 17
+  - title: "Elon Musk reportedly plans AI start-up to rival ChatGPT-maker OpenAI"
+    excerpt: "Musk is reportedly in talks with existing SpaceX and Tesla investors regarding investments in the upcoming AI venture"
+    publishedDateTime: 2023-04-15T04:24:00Z
+    webUrl: "https://cointelegraph.com/news/elon-musk-reportedly-plans-ai-start-up-to-rival-chatgpt-maker-openai"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 17
   - title: "Text-to-Image Generator Market Analysis and Industry Research Report 2022-2030 with Top Players are OpenAI, Google, Facebook, DeepAI, Stability.ai"
     excerpt: "The market research carried out in this large scale Text-to-Image Generator market report succours clients to forecast investment in an emerging market, expansion of market share or success of a new product."
     publishedDateTime: 2023-04-12T08:48:00Z

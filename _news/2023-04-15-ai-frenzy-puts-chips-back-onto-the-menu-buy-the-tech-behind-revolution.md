@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thisismoney.co.uk/money/investing/article-11974189/amp/A
 cdnAmpWebUrl: "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/investing/article-11974189/amp/AI-frenzy-puts-chips-menu-Buy-tech-revolution.html"
 type: article
 quality: 74
-heat: 74
+heat: 76
 published: true
 
 provider:

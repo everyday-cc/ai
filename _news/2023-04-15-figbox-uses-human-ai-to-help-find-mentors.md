@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/waynerash/2023/04/14/figbox-uses-human-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/waynerash/2023/04/14/figbox-uses-human-ai-to-help-find-mentors/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
