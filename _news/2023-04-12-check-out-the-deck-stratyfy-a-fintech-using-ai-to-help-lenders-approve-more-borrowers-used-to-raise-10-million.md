@@ -28,17 +28,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Here's the 13-page pitch deck Stratyfy, a fintech using AI to help lenders work with the underbanked, used to raise $10 million"
-    excerpt: "Stratyfy's Laura Kornhauser tells Insider her story, from being a full-time student who couldn't access credit to raising $10 million for her startup,"
-    publishedDateTime: 2023-04-10T17:06:00Z
-    webUrl: "https://www.businessinsider.com/fintech-stratyfy-pitch-deck-ai-lender-underbanked-2023-4"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
-
 secured: "ZRJN+QggmHB35DzHRgMSb90ECoqjcupWDc6XO07oHihJheh1LTB3jH135yiDjniQ3aQJvDp7Xb12hLkTGY9rSgOcQ5reM32XUF5gp5hYi4cPAmUMOQqgj3Xm/4/UyziwUhh8cw9R4lwdo/pieLWZE5HOwxuHZDPDBRvqYu0jF/cijIZb+LvAxrsn7YEulsX0H8qje2yt2/0424S5Rm3WnqHvpQkG1zDknyCWR5BOoz+ndCf23yjYnvG3Upcgc1vvJYv8eOAtopO0UpdpyvtMYXDM73pl36upc1lMSGThzPeSYnTcG7qGLQC/jLptVxI9FlcwIyWUU2NdvROF/tSJ/+N+CeZGdmrOynAxiShxDu3O6bc5Kh3RCOETpZGiyxSQFF1Y7fXiLV7UlwKIMbYd72SQxQZc1XSfKu6byjAZEGH1tsIPOEdNQknLlXkBG2dD9WnlNBnK60iIzYxaFWN5J3FLZiNSrPTtBlEuQu7Ufn1+b925zqUkmQ5ZzkkZh5TY+ZJLAPRqIshHYFiP/osf/g==;apaCh+TTVOr/J8LEokJPeQ=="
 ---
 

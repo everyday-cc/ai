@@ -7,7 +7,7 @@ originalUrl: "https://www.openaccessgovernment.org/ai-in-healthcare-automation-p
 webUrl: "https://www.openaccessgovernment.org/ai-in-healthcare-automation-patient-therapy/157500/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,29 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "How Robots and AI Are Transforming the Surgery Room"
-    excerpt: "Robotic devices and artificial intelligence are being increasingly incorporated into healthcare institutions across the world: What the future may hold for this critical sector."
-    publishedDateTime: 2023-04-10T17:13:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/how-ai-and-robotics-can-make-healthcare-better/448464"
+  - title: "The Power of AI in Travel: A Look at How Artificial Intelligence is Shaping the Future of Tourism"
+    excerpt: "Generative AI offers travelers a more personalized experience that puts them in direct contact with the right services and products and helps to make the entire journey more seamless."
+    publishedDateTime: 2023-04-13T19:38:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/the-power-of-ai-in-travel-a-look-at-how-artificial/449679"
     type: article
     provider:
       name: Entrepreneur
       domain: entrepreneur.com
-    quality: 64
-  - title: "Adapting artificial intelligence for use in the classroom"
-    excerpt: "CEDAR FALLS, Iowa (KWWL) – It’s been the talk of the tech community for quite some time and it’s starting to make it’s way into the mainstream workflow: artificial intelligence. Programs like ChatGPT and Google AI are making it much easier to ..."
-    publishedDateTime: 2023-04-14T03:58:00Z
-    webUrl: "https://www.kwwl.com/news/top-stories/adapting-artificial-intelligence-for-use-in-the-classroom/article_d0b4f36e-da3f-11ed-85af-a739b3cab86c.html"
-    type: article
-    provider:
-      name: KWWL
-      domain: kwwl.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kwwl.com/content/tncms/assets/v3/editorial/5/4e/54e044ae-da40-11ed-a243-03f6e25512a0/64387105e3a04.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 51
 
 secured: "VTG20M+T831jC8VE/LKeWxkdMBrCzItF3uTC1mr8Mmv/PkSYlpwdtr8OmyjG1D4mSvnKxzpJIeMMatcblGy1B/+lzhiVYnz4UWtHLcLFRKGSpEnaosaJ9Xk084wWEiCA03fC4v6MtKID9LdoQegogGlRW7JzzerlHAIZO+n6c4owOzcYJ6kaFgDL8o37kCkbsGVHk3Bl6M3Yt1xDYti1T5yDiYUOvid8MaK/eQ3VK7qqUNOrdquh60LQW9mXh7RL4hmDUCDBzDCdOw0jaZKmHVDP1W7CAS5SxPBfK/tXQOGoqQ11geEArc1pYAO5bnGfNOdv3xd2bKEWEJg0IqY/Q9NTo+lFd3i2M8d7hgiMFj8=;2t0ujrpfFuP0va7DJZQufw=="
 ---

@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Amazon announces Bedrock and Titan, generative AI on the cloud"
+    excerpt: "Amazon has added generative artificial intelligence models into Amazon Web Services. Generative AI is the type of artificial intelligence that can create text or images, similar to ChatGPT. With Amazon Bedrock,"
+    publishedDateTime: 2023-04-14T16:26:00Z
+    webUrl: "https://www.techrepublic.com/article/amazon-bedrock-titan-cloud-artificial-intelligence/"
+    ampWebUrl: "https://www.techrepublic.com/article/amazon-bedrock-titan-cloud-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/amazon-bedrock-titan-cloud-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/04/tr41423-amazon-headquarters.jpeg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Announcing New Tools for Building with Generative AI on AWS"
     excerpt: "The seeds of a machine learning (ML) paradigm shift have existed for decades, but with the ready availability of scalable compute capacity, a massive proliferation of data, and the rapid advancement of ML technologies, customers across industries are transforming their businesses. Just recently, generative"
     publishedDateTime: 2023-04-13T12:41:13Z

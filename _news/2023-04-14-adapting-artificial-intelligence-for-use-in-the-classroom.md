@@ -7,7 +7,7 @@ originalUrl: "https://www.kwwl.com/news/top-stories/adapting-artificial-intellig
 webUrl: "https://www.kwwl.com/news/top-stories/adapting-artificial-intelligence-for-use-in-the-classroom/article_d0b4f36e-da3f-11ed-85af-a739b3cab86c.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,28 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "How Robots and AI Are Transforming the Surgery Room"
-    excerpt: "Robotic devices and artificial intelligence are being increasingly incorporated into healthcare institutions across the world: What the future may hold for this critical sector."
-    publishedDateTime: 2023-04-10T17:13:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/how-ai-and-robotics-can-make-healthcare-better/448464"
+  - title: "The secret gamblers using AI to hack horse racing"
+    excerpt: "This week, we go to a racetrack in Miami, Florida to drink some beers, place some bets, and discover how AI is changing the sport of horse racing. FT data journalist Oliver Roeder joins Lilah to talk about how the ancient sport is being upended by anonymous computer-assisted bets."
+    publishedDateTime: 2023-04-14T04:00:00Z
+    webUrl: "https://www.ft.com/content/386f54d3-f8ae-47cb-9d50-8ece2ed2c43a"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 64
-  - title: "The transformative power of AI in healthcare"
-    excerpt: "Kirsty Biddiscombe, UK Head for AI, ML & Analytics at NetApp, discusses the transformative power of AI in healthcare"
-    publishedDateTime: 2023-04-14T08:37:00Z
-    webUrl: "https://www.openaccessgovernment.org/ai-in-healthcare-automation-patient-therapy/157500/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 54
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
     images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/04/Kirsty_Biddiscombe_HeadShoulder.png"
-        width: 400
-        height: 400
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fnext-video-editor-images.s3.ap-northeast-1.amazonaws.com%2Fa6743f62-062f-41bf-a62a-e33ee2c5b187?source=next-opengraph&fit=scale-down&width=900"
+        width: 900
+        height: 900
         isCached: true
 
 secured: "nOiwskQvJ/AZRj3j5nCBLz01KpqGOshNa3VUWcVmvzAct/HlZqJxm0eYz+Yu1jA7DO2zgX40Z/Bpn9wrt1v0tW2QPmNKUVDeph1apPpu1r/vptbNPJ7X3Zu9qqIx10+HLXCwk7YTRJwZ0CuqQBYiuDgnZJw20DDvEe8MDJ7WpBqhCNdfK5uvQWzKhN1TzSYEUfJviKUgovwAc5hXMkczdNcLMbERllHTYcjyv+xNlv78A3SBBoFdDp3fsNxWusTj6p4ILqqJbx7/bpKv8xgvrp5BxExLHuN/bPZpLQJQdspnNE+na05v4fdNElQS7KEPn9fed2NW5NOplWADi4nX96PeYpnkSOoWvXMGMsC0wdM=;5r+mDeol6J00eG4sSjK3pw=="

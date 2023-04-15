@@ -148,6 +148,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk plans AI startup to rival ChatGPT owner, OpenAI"
+    excerpt: "Billionaire Elon Musk is working on launching an artificial intelligence start-up that will rival ChatGPT-maker OpenAI, the Financial Times reported on Friday citing people familiar with his plans. Twitter-owner Musk is assembling a team of AI researchers ..."
+    publishedDateTime: 2023-04-15T09:06:00Z
+    webUrl: "https://tribune.com.pk/story/2412149/elon-musk-plans-ai-startup-to-rival-chatgpt-owner-openai"
+    ampWebUrl: "https://tribune.com.pk/story/2412149/elon-musk-plans-ai-startup-to-rival-chatgpt-owner-openai?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2412149/elon-musk-plans-ai-startup-to-rival-chatgpt-owner-openai?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 57
+    images:
+      - url: "https://i.tribune.com.pk/media/images/Musk-41645976195-0/Musk-41645976195-0.jpg"
+        width: 640
+        height: 426
+        isCached: true
   - title: "Elon Musk plans AI startup to rival OpenAI: Report"
     excerpt: "Billionaire Elon Musk is working on launching an artificial intelligence start-up that will rival ChatGPT-maker OpenAI, the Financial Times reported on Friday citing people familiar with his plans. Twitter owner Musk is assembling a team of AI researchers ..."
     publishedDateTime: 2023-04-15T01:31:00Z
@@ -163,6 +179,22 @@ related:
       - url: "https://www.livemint.com/lm-img/img/2023/04/15/600x338/2-0-142073357-Elon-Musk-5C-0_1681190396992_1681521375383_1681521375383.jpg"
         width: 600
         height: 338
+        isCached: true
+  - title: "Elon Musk reportedly planning to launch AI rival to ChatGPT maker"
+    excerpt: "Tesla and Twitter boss said to be bringing together team, weeks after co-signing letter demanding pause in AI research"
+    publishedDateTime: 2023-04-15T10:16:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/apr/15/elon-musk-chatgpt-ai-rival-openai"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/apr/15/elon-musk-chatgpt-ai-rival-openai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/apr/15/elon-musk-chatgpt-ai-rival-openai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/7c0e1c41dfcfbd59d30a9165b3424b85b83fc401/0_265_4626_2776/master/4626.jpg?width=620&quality=85&auto=format&fit=max&s=7f081c2b77514ad49a3962904da3d575"
+        width: 620
+        height: 372
         isCached: true
   - title: "Twitter boss Elon Musk forms new artificial intelligence company"
     excerpt: "Elon Musk, who is already the boss of Twitter and Tesla, was listed as director of X.AI Corporation founded on March 9, a state business filing indicated."
@@ -191,6 +223,15 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 51
+  - title: "Amazon Unveils Bedrock to Compete with OpenAI’s ChatGPT and DALL-E 2"
+    excerpt: "Artificial intelligence technologies continue to take the internet ... They announced the launch of Bedrock, a new cloud service on their Amazon Web Services (AWS) platform, designed to provide developers with customizable AI tools for generating text ..."
+    publishedDateTime: 2023-04-14T09:45:00Z
+    webUrl: "https://www.gizmochina.com/2023/04/14/amazon-bedrock-ai-service/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 49
   - title: "Elon Musk vs OpenAI: Twitter boss creates new AI company weeks after open letter to halt AI developments"
     excerpt: "A few weeks after he signed a letter seeking a pause on big AI experiments, Elon Musk seems to be floating his own AI firm to rival OpenAI."
     publishedDateTime: 2023-04-15T05:50:00Z
@@ -207,6 +248,15 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "Did That Newly Announced ChatGPT Bug Bounty Initiative By OpenAI Undershoot Its Wanted Aims, Asks AI Ethics And AI Law"
+    excerpt: "OpenAI announced a bug bounty effort associated with ChatGPT and their other AI services and products. Some laud this. Others believe it doesn't do enough. Here is the scoop on the controversy."
+    publishedDateTime: 2023-04-12T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/04/12/did-that-newly-announced-chatgpt-bug-bounty-undershoot-its-wanted-aims-asks-ai-ethics-and-ai-law/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 40
   - title: "Elon Musk launches AI start-up"
     excerpt: "Elon Musk has launched a new artificial intelligence firm X AI Corp reportedly seeking to compete with OpenAI Read Full Article at RTcom"
     publishedDateTime: 2023-04-15T06:46:00Z
@@ -347,6 +397,6 @@ related:
       domain: marketwatch.com
     quality: 11
 
-secured: "xDn97gG+7mCTie0T8d9EShw4jM01/7onpGOGCa54SbCy9rgP4U41UPDNCl/5m/wdzw0oo7L7nLLEzWmBkhhjHU1i+H9FFujnRVNAQWOfAaHEVQTsSWCr3z0Y/0CcDS7xVfRjsqmQvN3Vem+vQMC6DBeBDkKvjLCf4nZaS6GvzQ7+PBjSwOKn17DZfS2jNnTNObTutTmex/acCql9/FCHSHkI2TcQBBVSz90iyk0XJFbc4+5rMuoG/xNTTIgk4kx7Lbv4KvjJJvMIgy14hCkSP6eq+UHCpyWYv7KcqZd2TaKiZANy2puSywMDI8M0aOof/HlYDlbeAab3kRo9tEnHuoyBL7BLYXff+iHX46qkzWk=;ST1hWoa0P5RYkX4r5Mnhvw=="
+secured: "vUXbGZgYdpLtEEDJqaozabWbHPXs3RxsEMRYVnzAbxeLYyFj2FaMfNE/2SxvIEfQiap+WKPrqFh62AgrqUaFfISpPbqsd892dQTcJtJGNVQv2XgkPdlk7is1WJGnV4wNzT/Kc8WGQQNiWPml9GsWS+rHyAxyJX7kc9PEKQEGvLvQ1KHReoseA1IgmA8s1NrpLLTp/a8dRQOlJnxk4pGovzCqOZhHtlpBhFrRi6OG2u/e0aWKxxOIrwBZ3JK/Dm/V3QeWRyy0G23iqhimdx/26B1ebd0QEaHdVAUsZNwICbrN/U9FYDNBwv/UbjtKznSGmDtMFTN54kHAgNf/Ba8YGg7xxwKhT3ZiJkUlbOA8Etkvp8GivBVxGARfzo/A0Bh9sTJ1LSyrSg+0XB/J/x3uVbsZvuera40e8bRaknJIX/bIoQHKXonGVUtUuNcCVVh6C3zNmjjCkM0Lk3vouEyL8H84vl5Sa1SDINPCWmeRFns2JjBpwhzj6fyXx3O2xsOZPKhY6FTcffu/mBrId1zkUQ==;iG4ehDPhCMYVywM0HFYH+g=="
 ---
 

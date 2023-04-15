@@ -26,235 +26,199 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon launches AI tools to rival ChatGPT, Microsoft, and Google"
-    excerpt: "Amazon wants to become the Bedrock of artificial intelligence. The e-commerce giant just announced a proprietary set of core AI technologies that companies can use to build generative AI applications,"
-    publishedDateTime: 2023-04-14T16:28:00Z
-    webUrl: "https://www.zdnet.com/article/amazon-launches-ai-tools-to-rival-chatgpt-microsoft-and-google/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-launches-ai-tools-to-rival-chatgpt-microsoft-and-google/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-launches-ai-tools-to-rival-chatgpt-microsoft-and-google/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/7ff3a4d2ebdfad56937e237d8efbacacd60826cd/2023/04/14/e36e4553-0100-4b6d-9f88-df4fdeb96848/gettyimages-1243579557.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Boost your data and AI skills with Microsoft Azure CLX"
-    excerpt: "We’re excited to announce that the Microsoft Azure Connected Learning Experience (CLX) program now has three new Data and AI tracks designed for data professionals."
-    publishedDateTime: 2023-04-11T08:00:09Z
-    webUrl: "https://azure.microsoft.com/blog/boost-your-data-and-ai-skills-with-microsoft-azure-clx/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
-  - title: "Amazon announces Bedrock and Titan, generative AI on the cloud"
-    excerpt: "Amazon has added generative artificial intelligence models into Amazon Web Services. Generative AI is the type of artificial intelligence that can create text or images, similar to ChatGPT. With Amazon Bedrock,"
-    publishedDateTime: 2023-04-14T16:26:00Z
-    webUrl: "https://www.techrepublic.com/article/amazon-bedrock-titan-cloud-artificial-intelligence/"
-    ampWebUrl: "https://www.techrepublic.com/article/amazon-bedrock-titan-cloud-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/amazon-bedrock-titan-cloud-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 89
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/04/tr41423-amazon-headquarters.jpeg"
-        width: 1400
-        height: 933
-        isCached: true
-  - title: "Amazon Joins Microsoft, Google in AI Race Spurred by ChatGPT"
-    excerpt: "Amazon Web Services is the latest tech company to lay out its generative AI strategy."
-    publishedDateTime: 2023-04-13T11:30:00Z
-    webUrl: "https://www.wsj.com/articles/amazon-joins-microsoft-google-in-ai-race-spurred-by-chatgpt-d7c34738"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-762625/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Microsoft, Siemens to drive industrial productivity with generative AI"
-    excerpt: "Azure OpenAI Service powered assistant can augment the creation, optimization and debugging of code in software for factory automation."
-    publishedDateTime: 2023-04-14T14:51:00Z
-    webUrl: "https://www.therobotreport.com/microsoft-siemens-to-drive-industrial-productivity-with-generative-ai/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 84
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2023/04/SiemensMicrosoftGenerativeAI-960x640-1.jpg"
-        width: 960
-        height: 640
-        isCached: true
-  - title: "Mind your language: The risks of using AI-powered chatbots like ChatGPT in an organization"
-    excerpt: "A spate of recent news points up the potential security and other pitfalls of using AI chatbots like ChatGPT within an organization."
-    publishedDateTime: 2023-04-14T01:37:00Z
-    webUrl: "https://venturebeat.com/ai/mind-your-language-risks-using-ai-powered-chatbots-chatgpt/"
-    ampWebUrl: "https://venturebeat.com/ai/mind-your-language-risks-using-ai-powered-chatbots-chatgpt/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/mind-your-language-risks-using-ai-powered-chatbots-chatgpt/amp/"
+  - title: "Elon Musk quietly starts X.AI, a new artificial intelligence company to challenge OpenAI"
+    excerpt: "Elon Musk is preparing to launch a new artificial intelligence startup, X.AI, that aims to rival OpenAI, according to a bombshell report published by the Wall Street Journal on Friday."
+    publishedDateTime: 2023-04-15T00:51:00Z
+    webUrl: "https://venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artificial-intelligence-company-to-challenge-openai/"
+    ampWebUrl: "https://venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artificial-intelligence-company-to-challenge-openai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artificial-intelligence-company-to-challenge-openai/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 77
+    quality: 95
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1367281424-e1654632813202.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Siemens and Microsoft drive industrial productivity with generative artificial intelligence"
-    excerpt: "Siemens and Microsoft drive industrial productivity with generative artificial intelligence Apr 12, 2023 (PRNewswire via COMTEX) -- PR Newswire"
-    publishedDateTime: 2023-04-12T10:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/siemens-and-microsoft-drive-industrial-productivity-with-generative-artificial-intelligence-2023-04-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/elon.jpg?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Company Ditches Humans in Favor of ChatGPT-Style AI"
-    excerpt: "Move over Don Draper: at least one agency thinks AI can devise better ads than humans ever could. Bluefocus Intelligent Communications Group Co. plans to replace its external copywriters and graphic designers with ChatGPT-like generative AI models,"
-    publishedDateTime: 2023-04-14T02:35:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-04-14/company-ditches-humans-in-favor-of-chatgpt-style-ai"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIowefic0EuM/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Cohesity Partners With Microsoft And Announces Vision For AI"
-    excerpt: "Ranked Industry Analyst Patrick Moorhead dives in as my latest discussion with Poonen focused on an expanded relationship with Microsoft. A significant part of Poonen's focus and vision for Cohesity since he took over as CEO has been to advance innovation in security,"
-    publishedDateTime: 2023-04-11T17:39:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/04/11/cohesity-partners-with-microsoft-and-announces-vision-for-ai/"
+  - title: "AI Models Shaken, Not Yet Stirred: FTC Could Slow OpenAI’s ChatGPT"
+    excerpt: "LeCun, chief scientist at Facebook’s AI lab, said he opposed a moratorium on any AI development. “We should continue to do research, and do it responsibly, and that includes considering the ethical implications of our work.\" Pedro Domingos, an AI ..."
+    publishedDateTime: 2023-04-14T15:25:00Z
+    webUrl: "https://www.forbes.com/sites/craigsmith/2023/04/14/ai-models-shaken-not-yet-stirred-ftc-could-slow-openais-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/craigsmith/2023/04/14/ai-models-shaken-not-yet-stirred-ftc-could-slow-openais-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/04/14/ai-models-shaken-not-yet-stirred-ftc-could-slow-openais-chatgpt/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 66
-  - title: "Microsoft brings Bing's AI chatbot to its iOS and Android SwiftKey apps"
-    excerpt: "Bing's inclusion into SwiftKey follows the lead of other Microsoft programs like Skype and Microsoft Start. Skype lets users message directly with Bing in a group chat or on-on-one, while Microsoft Start provides access to Bing across the app."
-    publishedDateTime: 2023-04-14T12:27:00Z
-    webUrl: "https://www.engadget.com/microsoft-brings-bings-ai-chatbot-to-its-ios-and-android-swiftkey-apps-113528183.html"
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/643840fbf709af9d2021d3e8/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 740
+        isCached: true
+  - title: "Elon Musk Files to Incorporate Artificial Intelligence Company"
+    excerpt: "Tesla and Twitter CEO Elon Musk has created an artificial intelligence company called X.AI headquartered in Nevada, according to a report. The company was incorporated last month, The Wall Street Journal reported Friday, referring to a state filing. Musk has yet to tweet about the new company."
+    publishedDateTime: 2023-04-15T01:45:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/elon-musk-files-to-incorporate-artificial-intelligence-company/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/elon-musk-files-to-incorporate-artificial-intelligence-company/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/elon-musk-files-to-incorporate-artificial-intelligence-company/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/70eb9d49aa25ebb616bb2d43d8ee29810cb173fa/hub/2022/06/16/40585f56-166e-4301-baf9-a13c6e68ae74/elon-musk-5922.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Elon Musk Forms New AI Company In Nevada Called X.AI"
+    excerpt: "Elon Musk has formed a new AI company in Nevada called X. AI, according to a new report from the Wall Street Journal."
+    publishedDateTime: 2023-04-14T22:19:00Z
+    webUrl: "https://www.forbes.com/sites/mattnovak/2023/04/14/elon-musk-forms-new-ai-company-in-nevada-called-xai/"
+    ampWebUrl: "https://www.forbes.com/sites/mattnovak/2023/04/14/elon-musk-forms-new-ai-company-in-nevada-called-xai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/04/14/elon-musk-forms-new-ai-company-in-nevada-called-xai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6439ce83aaf7414a5deb4790/0x0.jpg?format=jpg&crop=1693,951,x10,y218,safe&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Elon Musk Creates New Artificial Intelligence Company X.AI"
+    excerpt: "The name of the new Nevada-incorporated organization suggests a link to the billionaire’s interest in an everything app."
+    publishedDateTime: 2023-04-14T20:35:00Z
+    webUrl: "https://www.wsj.com/articles/elon-musks-new-artificial-intelligence-business-x-ai-incorporates-in-nevada-962c7c2f"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 82
+    images:
+      - url: "https://images.wsj.net/im-764221/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Elon Musk’s New Artificial Intelligence Business, X.AI, Incorporates in Nevada"
+    excerpt: "Elon Musk has created a new artificial intelligence company called X.AI that is incorporated in Nevada, according to a state filing. Mr. Musk is the only listed director of the company, and Jared Birchall, the director of Mr. Musk’s family office ..."
+    publishedDateTime: 2023-04-14T21:35:00Z
+    webUrl: "https://www.wsj.com/articles/elon-musks-new-artificial-intelligence-business-x-ai-incorporates-in-nevada-962c7c2f"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 78
+    images:
+      - url: "https://images.wsj.net/im-764221/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Elon Musk is rumored to be starting new AI startup after saying Tesla would play a role in AGI"
+    excerpt: "Elon Musk is rumored to be starting a new AI startup to compete with OpenAI after he left the organization, which he co-founded, supposedly because of a conflict of interest with Tesla’s own artificial intelligence effort. Now it sounds like he is funding a startup that could compete with Tesla, based on his latest comments."
+    publishedDateTime: 2023-04-14T19:56:00Z
+    webUrl: "https://electrek.co/2023/04/14/elon-musk-rumoredstarting-new-ai-startup-after-saying-tesla-would-play-role-agi/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 74
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/03/elon-tesla-bot-meme.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Elon Musk has created his own artificial intelligence company"
+    excerpt: "Elon Musk, who’s been vocally critical about artificial intelligence lately, seems to be planning something AI related. According to The Wall Street Journal and The Financial Times, Musk has founded a new artificial intelligence company called X."
+    publishedDateTime: 2023-04-15T02:03:00Z
+    webUrl: "https://www.engadget.com/elon-musk-has-created-his-own-artificial-intelligence-company-012103279.html"
     type: article
     provider:
       name: YAHOO!Finance
       domain: engadget.com
-    quality: 64
-  - title: "Microsoft Stock Is Easily Your Best AI Bet for 2023"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips If your portfolio doesn’t have some exposure to artificial intelligence"
-    publishedDateTime: 2023-04-14T16:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-is-easily-your-best-ai-bet-for-2023-1032233387"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-  - title: "How 5G and wireless edge infrastructure power digital operations with Microsoft"
-    excerpt: "As enterprises continue to adopt the Internet of Things (IoT) solutions and AI to analyze processes and data from their equipment, the need for high-speed, low-latency wireless connections are rapidly growing. Companies are already seeing benefits from deploying private 5G networks to enable their solutions,"
-    publishedDateTime: 2023-04-13T10:00:14Z
-    webUrl: "https://azure.microsoft.com/blog/how-5g-and-wireless-edge-infrastructure-power-digital-operations-with-microsoft/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 63
-  - title: "How artificial intelligence like ChatGPT is influencing medical diagnoses"
-    excerpt: "And it's inevitable that people will use it to guide our own healthcare decisions just the way we've been leaning on \"Dr. Google\" for years"
-    publishedDateTime: 2023-04-15T06:11:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/how-artificial-intelligence-like-chatgpt-is-influencing-medical-diagnoses-123041500265_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/how-artificial-intelligence-like-chatgpt-is-influencing-medical-diagnoses-123041500265_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/how-artificial-intelligence-like-chatgpt-is-influencing-medical-diagnoses-123041500265_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 58
+    quality: 67
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-04/05/full/1680689278-0568.jpg"
-        width: 1349
+      - url: "https://s.yimg.com/uu/api/res/1.2/amN7x156nb8eggfUZqc3ew--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2019-06/46911600-8c95-11e9-81b3-fb26c03f3057.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Elon Musk plans AI startup to rival OpenAI, Financial Times reports"
+    excerpt: "Billionaire Elon Musk is working on launching an artificial intelligence start-up that will rival ChatGPT-maker OpenAI, the Financial Times reported on Friday citing people familiar with his plans."
+    publishedDateTime: 2023-04-14T21:21:00Z
+    webUrl: "https://www.reuters.com/technology/elon-musk-plans-ai-startup-rival-openai-ft-2023-04-14/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/AfvIuDtG9hF56yNLLmzznxxXveA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QRAI4ESMNRJ57J4QJBEHA5SR6U.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Elon Musk plans AI startup to rival OpenAI: Report"
+    excerpt: "Billionaire Elon Musk is working on launching an artificial intelligence start-up that will rival ChatGPT-maker OpenAI, the Financial Times reported on Friday citing people familiar with his plans. Twitter owner Musk is assembling a team of AI researchers ..."
+    publishedDateTime: 2023-04-15T01:31:00Z
+    webUrl: "https://www.livemint.com/news/world/elon-musk-plans-ai-startup-to-rival-openai-report-11681520398606.html"
+    ampWebUrl: "https://www.livemint.com/news/world/elon-musk-plans-ai-startup-to-rival-openai-report/amp-11681520398606.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/elon-musk-plans-ai-startup-to-rival-openai-report/amp-11681520398606.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/04/15/600x338/2-0-142073357-Elon-Musk-5C-0_1681190396992_1681521375383_1681521375383.jpg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Elon Musk reportedly planning to launch AI rival to ChatGPT maker"
+    excerpt: "Tesla and Twitter boss said to be bringing together team, weeks after co-signing letter demanding pause in AI research"
+    publishedDateTime: 2023-04-15T10:16:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/apr/15/elon-musk-chatgpt-ai-rival-openai"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/apr/15/elon-musk-chatgpt-ai-rival-openai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/apr/15/elon-musk-chatgpt-ai-rival-openai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/7c0e1c41dfcfbd59d30a9165b3424b85b83fc401/0_265_4626_2776/master/4626.jpg?width=620&quality=85&auto=format&fit=max&s=7f081c2b77514ad49a3962904da3d575"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Twitter boss Elon Musk forms new artificial intelligence company"
+    excerpt: "Elon Musk, who is already the boss of Twitter and Tesla, was listed as director of X.AI Corporation founded on March 9, a state business filing indicated."
+    publishedDateTime: 2023-04-15T03:42:00Z
+    webUrl: "https://www.hindustantimes.com/technology/twitter-boss-elon-musk-forms-new-artificial-intelligence-company-101681529898134.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/twitter-boss-elon-musk-forms-new-artificial-intelligence-company-101681529898134-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/twitter-boss-elon-musk-forms-new-artificial-intelligence-company-101681529898134-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 57
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2023/04/15/1600x900/Elon_Musk_1681529929447_1681529929753_1681529929753.jpg"
+        width: 1600
         height: 900
         isCached: true
-  - title: "How ChatGPT and similar AI will disrupt education"
-    excerpt: "The new chatbot ChatGPT and other generative AI encourage cheating and offer up incorrect info, but they could also be used for good."
-    publishedDateTime: 2023-04-12T11:00:00Z
-    webUrl: "https://www.sciencenews.org/article/chatgpt-ai-artificial-intelligence-education-cheating-accuracy"
+  - title: "Elon Musk creates X.AI — a potential new artificial intelligence startup"
+    excerpt: "Musk left OpenAI’s board in 2018 and has since criticised the organization, which created a for-profit arm in 2019."
+    publishedDateTime: 2023-04-15T06:10:00Z
+    webUrl: "https://mybroadband.co.za/news/business/487823-elon-musk-creates-x-ai-a-potential-new-artificial-intelligence-startup.html"
+    ampWebUrl: "https://mybroadband.co.za/news/business/487823-elon-musk-creates-x-ai-a-potential-new-artificial-intelligence-startup.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/business/487823-elon-musk-creates-x-ai-a-potential-new-artificial-intelligence-startup.html/amp"
     type: article
     provider:
-      name: Science News
-      domain: sciencenews.org
-    quality: 56
-    images:
-      - url: "https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Microsoft integrates Bing's AI into Swiftkey, Skype, Start apps"
-    excerpt: "After launching the new Bing experience earlier this year, Microsoft has been trying to bring the search engine's AI features to its products."
-    publishedDateTime: 2023-04-14T06:11:00Z
-    webUrl: "https://www.ibtimes.co.uk/microsoft-integrates-bings-ai-swiftkey-skype-start-apps-1715133"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 54
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1710519/microsoft-signage-seen-companys-headquarters-redmond.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Improve supply chain security and resiliency with Microsoft"
-    excerpt: "The Microsoft Supply Chain Platform was just launched to help companies protect their supply chains against cyber threats."
-    publishedDateTime: 2023-04-13T15:00:00Z
-    webUrl: "https://www.microsoft.com/en-us/security/blog/2023/04/13/improve-supply-chain-security-and-resiliency-with-microsoft/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
+      name: MyBroadband
+      domain: mybroadband.co.za
     quality: 51
-  - title: "AWS steps up AI rivalry with Google, Microsoft"
-    excerpt: "Microsoft and Google are adding AI chatbots to consumer products like their search engines, but they are also eying another huge market: selling the underlying technology to other companies via their cloud operations."
-    publishedDateTime: 2023-04-14T12:56:00Z
-    webUrl: "https://techcentral.co.za/aws-steps-up-ai-rivalry-with-google-microsoft/224441/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 51
-  - title: "Microsoft Shares Healthcare AI, Cloud Updates"
-    excerpt: "Microsoft announced updates across its Azure AI Services for Health and Microsoft Cloud for Healthcare offerings."
-    publishedDateTime: 2023-04-13T17:37:00Z
-    webUrl: "https://healthitanalytics.com/news/microsoft-shares-healthcare-ai-cloud-updates"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 51
-  - title: "GPT-4 vs. ChatGPT: AI Chatbot Comparison"
-    excerpt: "GPT-4 and ChatGPT are the two trailblazers for GPT technology – which has dramatically sparked interest in generative AI and artificial intelligence in general. GPT is an abbreviation for Generative Pre-trained Transformer,"
-    publishedDateTime: 2023-04-12T19:16:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/gpt-4-vs-chatgpt/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 49
   - title: "Amazon Unveils Bedrock to Compete with OpenAI’s ChatGPT and DALL-E 2"
     excerpt: "Artificial intelligence technologies continue to take the internet ... They announced the launch of Bedrock, a new cloud service on their Amazon Web Services (AWS) platform, designed to provide developers with customizable AI tools for generating text ..."
     publishedDateTime: 2023-04-14T09:45:00Z
@@ -264,26 +228,22 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 49
-  - title: "Microsoft integrates Bing AI features into Skype, Swiftkey and Start app on mobile"
-    excerpt: "Microsoft has announced the integration of Bing AI features into SwiftKey on Android and iOS, improving functions such as chat, tone and search. The tech giant, soon after launching its AI-powered Security Copilot, a new assistant for cyber professionals, began exploring ads in Bing Chat."
-    publishedDateTime: 2023-04-14T07:02:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-integrates-bing-ai-features-into-skype-swiftkey-and-start-app-on-mobile/article66736446.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-integrates-bing-ai-features-into-skype-swiftkey-and-start-app-on-mobile/article66736446.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-integrates-bing-ai-features-into-skype-swiftkey-and-start-app-on-mobile/article66736446.ece/amp/"
+  - title: "Elon Musk vs OpenAI: Twitter boss creates new AI company weeks after open letter to halt AI developments"
+    excerpt: "A few weeks after he signed a letter seeking a pause on big AI experiments, Elon Musk seems to be floating his own AI firm to rival OpenAI."
+    publishedDateTime: 2023-04-15T05:50:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/elon-musk-vs-openai-sam-altman-gpt4-8557417/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/elon-musk-vs-openai-sam-altman-gpt4-8557417/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/elon-musk-vs-openai-sam-altman-gpt4-8557417/lite/"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 48
-  - title: "AI: China tech giant Alibaba to roll out ChatGPT rival"
-    excerpt: "Chinese technology giant Alibaba has announced plans to roll out its own artificial intelligence (AI) ChatGPT-style product called Tongyi Qianwen. Its cloud computing unit says it will integrate the chatbot across Alibaba's businesses in the \"near future\" but did not give details on its timeline."
-    publishedDateTime: 2023-04-11T04:56:00Z
-    webUrl: "https://www.bbc.com/news/business-65236848.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 47
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 42
+    images:
+      - url: "https://images.indianexpress.com/2023/04/Elon-Musk-AI-company.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "Did That Newly Announced ChatGPT Bug Bounty Initiative By OpenAI Undershoot Its Wanted Aims, Asks AI Ethics And AI Law"
     excerpt: "OpenAI announced a bug bounty effort associated with ChatGPT and their other AI services and products. Some laud this. Others believe it doesn't do enough. Here is the scoop on the controversy."
     publishedDateTime: 2023-04-12T11:00:00Z
@@ -293,153 +253,146 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 40
-  - title: "Here's where AI and ChatGPT can create quick wins for insurers"
-    excerpt: "Swiss insurance group Helvetia is the latest insurer to announce it is testing ChatGPT for its new customer service. Fellow Swiss insurer Zurich said last month that it was experimenting with ChatGPT to find out how AI can help with tasks such as modelling,"
-    publishedDateTime: 2023-04-14T08:10:00Z
-    webUrl: "https://www.insurancebusinessmag.com/us/news/technology/heres-where-ai-and-chatgpt-can-create-quick-wins-for-insurers-442749.aspx"
+  - title: "Elon Musk launches AI start-up"
+    excerpt: "Elon Musk has launched a new artificial intelligence firm X AI Corp reportedly seeking to compete with OpenAI Read Full Article at RTcom"
+    publishedDateTime: 2023-04-15T06:46:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273745993/elon-musk-launches-ai-start-up"
     type: article
     provider:
-      name: insurancebusinessmag
-      domain: insurancebusinessmag.com
+      name: Big News Network.com
+      domain: bignewsnetwork.com
     quality: 39
     images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/018/0311_638170640554529503.png"
-        width: 1000
-        height: 666
+      - url: "https://cdn.bignewsnetwork.com/Yjg1MzBhZGUtNTY.jpg"
+        width: 749
+        height: 420
         isCached: true
-  - title: "Lori Falce: Chatting with ChatGPT opens eyes on AI, journalism"
-    excerpt: "The impact of artificial intelligence is a hot topic. Everyone wants to know what AI means for their industry and their jobs — including journalists. We all know that innovation is amazing. It helped us reach the stars and travel the globe."
-    publishedDateTime: 2023-04-14T13:29:00Z
-    webUrl: "https://triblive.com/opinion/lori-falce-chatting-with-chatgpt-opens-eyes-on-ai-journalism/"
+  - title: "Elon Musk plans AI start-up to rival OpenAI: Report"
+    excerpt: "Billionaire Elon Musk is working on launching an artificial intelligence start-up that will rival ChatGPT-maker OpenAI, the Financial Times reported on Friday (Apr 14), citing people familiar with his plans."
+    publishedDateTime: 2023-04-14T20:13:00Z
+    webUrl: "https://www.channelnewsasia.com/business/ai-chatgpt-elon-musk-plans-start-rival-openai-3419071"
     type: article
     provider:
-      name: TribLIVE.com
-      domain: triblive.com
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
     quality: 39
     images:
-      - url: "https://assets-varnish.triblive.com/2023/04/6099010_web1_6057796-5f634f24303c4f78a9e41f89b4353292.jpg"
-        width: 640
-        height: 427
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--bf3T35Wf--/c_crop,h_450,w_800,x_0,y_0/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-04-14t174749z_1_lynxmpej3d0pz_rtroptp_3_twitter-advertising.jpg?itok=nnv6KiBp"
+        width: 1200
+        height: 676
         isCached: true
-  - title: "Amazon taking on Microsoft and Google in AI race"
-    excerpt: "AWS, which sells on-demand computing power and software tools — including a suite of machine-learning applications — had previously partnered with artificial intelligence companies including Hugging Face Inc. and Stability AI, which builds the image ..."
-    publishedDateTime: 2023-04-14T05:56:00Z
-    webUrl: "https://mybroadband.co.za/news/software/487657-amazon-taking-on-microsoft-and-google-in-ai-race.html"
+  - title: "Elon Musk plans AI startup to rival OpenAI: Financial Times"
+    excerpt: "Elon Musk is assembling a team of artificial intelligence researchers and engineers, according to FT. Read more at straitstimes.com."
+    publishedDateTime: 2023-04-14T23:40:00Z
+    webUrl: "https://www.straitstimes.com/world/united-states/elon-musk-plans-ai-startup-to-rival-openai-financial-times"
     type: article
     provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 36
-  - title: "Siemens and Microsoft Drive Industrial Productivity with Generative AI"
-    excerpt: "Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help"
-    publishedDateTime: 2023-04-12T15:48:00Z
-    webUrl: "https://www.datanami.com/this-just-in/siemens-and-microsoft-drive-industrial-productivity-with-generative-ai/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
-  - title: "Microsoft is Bringing (More) AI to Developers"
-    excerpt: "In the Build 2022 session list, you will find a reference to how developers can build a \"company copilot\" using Azure ML and GPT-4."
-    publishedDateTime: 2023-04-13T13:32:00Z
-    webUrl: "https://www.thurrott.com/dev/281826/microsoft-is-bringing-more-ai-to-developers"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 34
-  - title: "Siemens, Microsoft Use Generative AI to Drive Industrial Productivity"
-    excerpt: "Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency across the design, engineering, manufacturing and operational lifecycle of products."
-    publishedDateTime: 2023-04-13T02:01:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/31559-siemens-microsoft-use-generative-ai-to-drive-industrial-productivity"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 34
-  - title: "ZTE to launch GPU servers in response to ChatGPT-triggered AI needs"
-    excerpt: "China-based IT and communication solutions provider ZTE will introduce GPU servers supporting high performance computing (HPC) to meet the ChatGPT-triggered needs of large AI models, according to company president Xu Ziyang."
-    publishedDateTime: 2023-04-13T11:14:00Z
-    webUrl: "https://www.digitimes.com/news/a20230413PD206/ai-china-gpu-zte.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 34
-  - title: "AWS launches generative AI tools"
-    excerpt: "Generative artificial intelligence (AI) software such as ChatGPT has captured the imaginations of consumers and businesses alike, as they experiment with everything from search bots like Microsoft Bing Chat to embedded technology in existing customer support systems,"
-    publishedDateTime: 2023-04-13T20:47:00Z
-    webUrl: "https://www.itworldcanada.com/article/aws-launches-generative-ai-tools/536367"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 34
-  - title: "Microsoft Earnings: Bulls’ AI Hopes Offset PC, Cloud Worries"
-    excerpt: "Let’s start with the happy news. Thanks to the company’s strong relationship with the ChatGPT creator OpenAI, Microsoft (ticker: MSFT) has become the perceived early leader in generative artificial-intelligence software. The company has rolled out AI ..."
-    publishedDateTime: 2023-04-14T18:47:00Z
-    webUrl: "https://www.barrons.com/articles/microsoft-stock-earnings-ai-cloud-f4c81ee9"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 34
-  - title: "ChatGPT Called to the Bar"
-    excerpt: "Latham & Watkins has created an AI-powered tool called Latham.ai, which uses natural language processing and machine learning to help lawyers draft and review contracts more efficiently. Hogan Lovells has partnered with an AI company called Kira Systems to ..."
-    publishedDateTime: 2023-04-14T11:04:00Z
-    webUrl: "https://www.royalgazette.com/opinion-writer/opinion/article/20230414/chatgpt-called-to-the-bar/"
-    type: article
-    provider:
-      name: The Royal Gazette
-      domain: royalgazette.com
-    quality: 24
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 37
     images:
-      - url: "https://imengine.editorial.prod.rgb.navigacloud.com/?uuid=f7b5a041-0fb5-5065-9472-989382454613&function=fit&type=preview"
-        width: 500
-        height: 333
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/04/15/2023-03-23T135111Z1659947293RC2OZZ9CLA45RTRMADP3HEALTH-WHO-MUSK.JPG?VersionId=GCnl4zYnpHH1bE0Veg03H5uYJELnPhJB"
+        width: 860
+        height: 573
         isCached: true
-  - title: "Is ChatGPT-4 replacing Google?"
-    excerpt: "ChatGPT is an AI-powered chatbot that creates a virtual conversation with users by using machine learning and natural language processing. Google is known for its innovative and inventive use of technology. OpenAI (developer of ChatGPT) is an artificial ..."
-    publishedDateTime: 2023-04-15T07:16:00Z
-    webUrl: "https://www.fijitimes.com/is-chatgpt-4-replacing-google/"
+  - title: "Elon Musk plans AI startup to rival OpenAI"
+    excerpt: "Twitter-owner Musk is assembling a team of AI researchers and engineers, according to the FT report, and is also in discussions with some investors in SpaceX and Tesla Inc about putting money into his new venture."
+    publishedDateTime: 2023-04-15T02:11:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/elon-musk-plans-ai-startup-to-rival-openai/99506138"
     type: article
     provider:
-      name: Fiji Times
-      domain: fijitimes.com
-    quality: 24
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 37
     images:
-      - url: "https://www.fijitimes.com/wp-content/uploads/2023/04/Google-building.jpg"
-        width: 1536
-        height: 948
+      - url: "https://etimg.etb2bimg.com/thumb/msid-99506138,imgsize-18394,width-1200,height=765,overlay-ettelecom/internet/elon-musk-plans-ai-startup-to-rival-openai.jpg"
+        width: 1200
+        height: 765
         isCached: true
-  - title: "Could AI Language Models Like ChatGPT Unlock Mysterious Ancient Texts?"
-    excerpt: "Ancient writings like the Indus script and Voynich Manuscript have baffled scholars for decades. Some researchers think AI systems could help reveal their secrets."
-    publishedDateTime: 2023-04-11T16:46:00Z
-    webUrl: "https://www.discovermagazine.com/technology/could-ai-language-models-like-chatgpt-unlock-mysterious-ancient-texts"
+  - title: "Elon Musk reportedly seeking to launch AI startup that will compete with OpenAI"
+    excerpt: "Elon Musk is reportedly seeking to raise funding for a new artificial intelligence startup that would compete with OpenAI LLC. The Financial Times reported the development today, citing people familiar with the matter."
+    publishedDateTime: 2023-04-14T21:00:00Z
+    webUrl: "https://siliconangle.com/2023/04/14/elon-musk-reportedly-seeking-launch-ai-startup-will-compete-openai/"
     type: article
     provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
-    quality: 19
-  - title: "The Download: ChatGPT’s impact on schools, and Elon Musk’s AI plans"
-    excerpt: "This year millions of people have tried—and been wowed by— artificial intelligence systems. That’s in no small part thanks to OpenAI’s chatbot ChatGPT."
-    publishedDateTime: 2023-04-12T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/04/12/1071401/download-chatgpt-impact-on-schools-and-elon-musks-ai-plans/"
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/Photo-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
+  - title: "Elon Musk to start AI rival in challenge to OpenAI"
+    excerpt: "But, it seems like he has room for just one more thing: Artificial Intelligence. The iconic tech billionaire is planning to launch an AI startup with a directive to rival the ChatGPT technology from OpenAI, and is said to be building up a team of engineers ..."
+    publishedDateTime: 2023-04-14T18:32:00Z
+    webUrl: "https://seekingalpha.com/news/3956681-elon-musk-to-start-ai-rival-in-challenge-to-openai"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 19
-  - title: "How To Buy ChatGPT Stock: Your 2023 Guide to AI Investing"
-    excerpt: "Generative AI technology is complicated enough to understand without even bringing in the notion of how to invest in artificial intelligence. Luckily, you don't have to be an expert in"
-    publishedDateTime: 2023-04-13T21:20:00Z
-    webUrl: "https://www.aol.com/finance/buy-chatgpt-stock-2023-guide-180405996.html"
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 37
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1395371342/image_1395371342.jpg?io=getty-c-w750"
+        width: 750
+        height: 489
+        isCached: true
+  - title: "Musk Planning AI Startup To Compete With OpenAI: Reports"
+    excerpt: "Twitter-owner Musk is assembling a team of AI researchers and engineers and is also in discussions with some investors in SpaceX and Tesla Inc about putting money into his new venture, , elon musk, startup,"
+    publishedDateTime: 2023-04-15T05:27:00Z
+    webUrl: "https://www.businessworld.in/article/Musk-Planning-AI-Startup-To-Compete-With-OpenAI-Reports/15-04-2023-472955/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
+      name: Businessworld
+      domain: businessworld.in
+    quality: 37
+    images:
+      - url: "https://static.businessworld.in/article/article_extra_large_image/1612433725_bzj1WZ_2021_02_04T095433Z_1_LYNXMPEH130P0_RTROPTP_4_CLUBHOUSE_STOCKS_MUSK.JPG"
+        width: 870
+        height: 470
+        isCached: true
+  - title: "Musk plans AI start-up to rival OpenAI, FT says"
+    excerpt: "Billionaire Elon Musk is working on an artificial intelligence start-up that will rival ChatGPT-maker OpenAI, the Financial Times reported on Friday citing people familiar with his plans. Twitter-owner Musk is assembling a team of AI researchers and engineers,"
+    publishedDateTime: 2023-04-15T06:48:00Z
+    webUrl: "https://techcentral.co.za/musk-plans-ai-start-up-to-rival-openai-ft-says/224452/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 37
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2022/11/elon-musk-1500-800-1.jpg"
+        width: 1500
+        height: 800
+        isCached: true
+  - title: "Elon Musk plans artificial intelligence start-up to rival Open AI"
+    excerpt: "Elon Musk is developing plans to launch a new artificial intelligence start-up to compete with ChatGPT-maker OpenAI, as the billionaire seeks to join Silicon Valley’s race to build generative AI systems."
+    publishedDateTime: 2023-04-14T17:35:00Z
+    webUrl: "https://www.ft.com/content/2a96995b-c799-4281-8b60-b235e84aefe4?sharetype=gift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
+  - title: "Elon Musk plans artificial intelligence start-up to rival OpenAI"
+    excerpt: "Elon Musk is developing plans to launch a new artificial intelligence start-up to compete with ChatGPT-maker OpenAI, as the billionaire seeks to join Silicon Valley’s race to build generative AI systems."
+    publishedDateTime: 2023-04-14T17:35:00Z
+    webUrl: "https://www.ft.com/content/2a96995b-c799-4281-8b60-b235e84aefe4"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
+  - title: "Text-to-Image Generator Market Analysis and Industry Research Report 2022-2030 with Top Players are OpenAI, Google, Facebook, DeepAI, Stability.ai"
+    excerpt: "The market research carried out in this large scale Text-to-Image Generator market report succours clients to forecast investment in an emerging market, expansion of market share or success of a new product."
+    publishedDateTime: 2023-04-12T08:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/text-to-image-generator-market-analysis-and-industry-research-report-2022-2030-with-top-players-are-openai-google-facebook-deepai-stabilityai-2023-04-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 11
 
-secured: "nd3lVvVGhZrud9ckXJuPRfycRVqxzPY7eKOGp8pKmCH+JvwdRLny8OJzCiJgFQQYGr1NAveHFiWQMguHEAjM5dfiwf4kQGeFilj6BoKfIIe0Ru7dDSXJR5Q3yJQZyXd0ntve/gU0Ykjwa1lJOfdrhE2KkQgeX58ZZX3RG01eNrKSDh+JLlbJx8eWjnfDrHtEMXfNZQDm/GyVjkuDrLs5JId1RNtwdvoXib1y2OQcGiDCBzAkcTUwXKe/zKWHmhnP56z/O3OaFxJAuRgA8TFLifszTAXbTNrxtXDGZn1iP/EwayaVeAo/WBBMiF7ZLhDhuo/E9NkbzbqeHec7qBUh8TZFH6Q/gyAx++vP3nNp0DY=;nHIQncjcw0f8NZ8cG81jNw=="
+secured: "4j1gf0D0ttbIrcoIDXJY7SsIa3ieytatQZ/s6Fu0TfYr7cW15Q7vHhmPVD73pB3jHsdAdsq0reP8aE6Zu01lgtsgTOf0FfvtKUYqms9f4ER5zjdIMpYDSCYUwx49xBf5Jh5n+qswxHYu8UIRzLR+i5akvzVyqBaXkUpYMZf5IaHSLaM9rJNci8dg8eSxuRF9rVeBkQS9Lq66ZeU64u2KZvzAr5LleR5D4CHAmwQ60X3jvktwS7Rcqj8AecMvHhEKD0+s73fmUl+dZD8zkEPOnvt+qR3qfV/PPP0EmDeNqiuf8wyXU7kGMglXPI3Kmo/lYfukNrAuS3SBTI4wICmUAWlo7MMNgCbx/G1cvmOBMoiZOxX7jSARndgFe0uJssGS7h258l/jN4wVOtj2bwBVgB3FHxdGjVYfNu8PEtuY8PBolSU0Lgl/LF1E+Qx55vEZEfOfeMrvFkvOkITpB1PsIeyQwzoRT5JkUJQ8rpDJ6gyeLBCQmzFwwyUrN5tgRY76FSK9hJMBXYZd9ld+HEQFTg==;YKIDDtCH4T29/ZSocKZbgw=="
 ---
 

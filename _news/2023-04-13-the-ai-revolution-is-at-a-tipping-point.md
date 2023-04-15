@@ -19,15 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "AI regulation is a priority, but so is awareness and education - let’s not repeat the same mistakes"
-    excerpt: "Apprehension around the pace of AI has even prompted some in the industry to call for a six month pause on future development, whilst legislators, citizens and companies figure out what its likely impact will be."
-    publishedDateTime: 2023-04-12T19:22:00Z
-    webUrl: "https://diginomica.com/ai-regulation-priority-so-awareness-and-education-lets-not-repeat-same-mistakes"
+  - title: "LinkedIn's top economist explains the AI trend that could mark a tipping point - and the under-the-radar labor market shifts unfolding now"
+    excerpt: "In an interview with Insider, LinkedIn's head of macroeconomics explained the power of ChatGPT for worker productivity and its potential for jobs."
+    publishedDateTime: 2023-04-15T10:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-labor-market-linkedin-economist-jobs-unemployment-chatgpt-fed-interest-2023-4"
+    ampWebUrl: "https://markets.businessinsider.com/news/stocks/ai-labor-market-linkedin-economist-jobs-unemployment-chatgpt-fed-interest-2023-4?amp"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/ai-labor-market-linkedin-economist-jobs-unemployment-chatgpt-fed-interest-2023-4?amp"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 22
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
+    images:
+      - url: "https://i.insider.com/643948d3028f6800183d93ef?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "kkZFd25xRverEhRb7kFa1hwu+ViFrv2xMrniiq5j7p3NVa1pxHvtuIrOczR544QDkUyJUGeLYxI+ofQvW2YCDWGbnb4b34XcS6nD2aDjW3qh6V7NiyFoRvoX162ulAU/BQOanMAIGBA4FU/Wk0a6j+QrlyT8TxwxyBNtkk1v+IMN/U2sqB/PDPnHhQWa7SfM1QW0c+6vU5q0laP3sFq7jHic8VZPXJ5iPILRwdObgTNauV/4Sms/DM1ghFVMI/oPYogB08xdlOPJOp2SHGEykLorQox+rKMYd0yANAF4k6UMahsywVjrBENhChmlQehpyitoL6fMlW0DI+7IbTHoie/vzxkrZ4Su4mrTCvw+VBI007H9SGzbY8YCmgbg1zAFfKnsD9KDeR2DrLfbgz9/ck6c256CkOEL4SCRWLz4srAl4u2sPTz8aCLJONiI6vBOwCD3SbTd/uL11fEccl5ywpXN2fwblN1Cf5GZ4MweJi7dB0YWnk0U7w8QFahpmjpUr0C17EtPtqSdNn91bsF5cg==;VYijPXBSu4PoaV8r45a3fg=="
 ---

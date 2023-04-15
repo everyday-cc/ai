@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/content/386f54d3-f8ae-47cb-9d50-8ece2ed2c43a"
 webUrl: "https://www.ft.com/content/386f54d3-f8ae-47cb-9d50-8ece2ed2c43a"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,24 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-04-12T23:27:00Z
-    webUrl: "https://www.law.com/dailyreportonline/2023/04/10/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+  - title: "Adapting artificial intelligence for use in the classroom"
+    excerpt: "CEDAR FALLS, Iowa (KWWL) – It’s been the talk of the tech community for quite some time and it’s starting to make it’s way into the mainstream workflow: artificial intelligence. Programs like ChatGPT and Google AI are making it much easier to ..."
+    publishedDateTime: 2023-04-14T03:58:00Z
+    webUrl: "https://www.kwwl.com/news/top-stories/adapting-artificial-intelligence-for-use-in-the-classroom/article_d0b4f36e-da3f-11ed-85af-a739b3cab86c.html"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 19
-  - title: "The secret gamblers using AI to hack horseracing"
-    excerpt: "This is an audio transcript of the FT Weekend podcast episode: ‘The secret gamblers using AI to hack horseracing’ Unidentified man 1 I want to make a bet, so . . . Oliver Roeder OK, Sure. I know. I don’t want to stop you."
-    publishedDateTime: 2023-04-14T06:02:00Z
-    webUrl: "https://www.ft.com/content/7e19f9cf-dae7-4c96-bb2e-23cc45414168"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
+      name: KWWL
+      domain: kwwl.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kwwl.com/content/tncms/assets/v3/editorial/5/4e/54e044ae-da40-11ed-a243-03f6e25512a0/64387105e3a04.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "8BvzkxFCGoU8nZ2/AAbZNXUhOElqC6xHyLyuRSkiD12mqyxh3FMtua5TGgCKzA/1O8WIgI/nCMWn+5dFkKKYW3cSJSTkEGFs3tfew9Pn/U0JzNDEYJvXeeq6iTxuFNcFydcDCBge8ul6/ZWKvoVCY6MPRYDxVJG64C1pbllmlVvtpLwQWtVr0chxsHH+HfChIaKMgu2xwZ82x3/Ed34yTX0vDv0JelFshQfkGKH26aAtOy0/AERkCHeimlGTADr4xNhJRfBlFF0EQBOxB9zEcK9bDjmWcqf/TbmQ2i1ij++JrwyuFpVE3VgN8oeiI2lG8KAfNlpXzs9uAhajfZbPGBkFZfVIjqhZ9yMbte2GG9Hjji+DK1FNIRQmKbwQGWGXxN2dyVWe5UZyPEEv0YBxi7Sc3T1Z6ncYIBJeFYtZ86AfNoaznDdYt2Vj6kmfGz8eWXlAfr62kNgaNL9mrWd3IWb2fGFjUdw5zxXAFylkEWZlURGgkw8GBF4Y8GxASnkRrP6nkBSY1wsKvGJc0M5dbA==;pU3ZnTRamgBH8ctyXKdcLg=="
 ---

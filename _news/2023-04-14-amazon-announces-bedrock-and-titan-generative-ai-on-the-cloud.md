@@ -31,419 +31,270 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon launches AI tools to rival ChatGPT, Microsoft, and Google"
-    excerpt: "Amazon wants to become the Bedrock of artificial intelligence. The e-commerce giant just announced a proprietary set of core AI technologies that companies can use to build generative AI applications,"
-    publishedDateTime: 2023-04-14T16:28:00Z
-    webUrl: "https://www.zdnet.com/article/amazon-launches-ai-tools-to-rival-chatgpt-microsoft-and-google/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-launches-ai-tools-to-rival-chatgpt-microsoft-and-google/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-launches-ai-tools-to-rival-chatgpt-microsoft-and-google/"
+  - title: "Amazon jumps into the generative AI race with new cloud service"
+    excerpt: "The announcement indicates the largest provider of cloud infrastructure won’t be leaving a trendy growth area to challengers such as Google and Microsoft."
+    publishedDateTime: 2023-04-14T01:22:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/amazon-jumps-generative-race-new-cloud-service-rcna79599"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna79599"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna79599"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
+      name: NBC News
+      domain: nbcnews.com
+    quality: 91
     images:
-      - url: "https://www.zdnet.com/a/img/resize/7ff3a4d2ebdfad56937e237d8efbacacd60826cd/2023/04/14/e36e4553-0100-4b6d-9f88-df4fdeb96848/gettyimages-1243579557.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211215-las-vegas-the-venetian-expo-aws-ac-1159p-b07aeb.jpg"
+        width: 2500
+        height: 1663
         isCached: true
-  - title: "Boost your data and AI skills with Microsoft Azure CLX"
-    excerpt: "We’re excited to announce that the Microsoft Azure Connected Learning Experience (CLX) program now has three new Data and AI tracks designed for data professionals."
-    publishedDateTime: 2023-04-11T08:00:09Z
-    webUrl: "https://azure.microsoft.com/blog/boost-your-data-and-ai-skills-with-microsoft-azure-clx/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
-  - title: "Amazon Joins Microsoft, Google in AI Race Spurred by ChatGPT"
-    excerpt: "Amazon Web Services is the latest tech company to lay out its generative AI strategy."
-    publishedDateTime: 2023-04-13T11:30:00Z
-    webUrl: "https://www.wsj.com/articles/amazon-joins-microsoft-google-in-ai-race-spurred-by-chatgpt-d7c34738"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-762625/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Microsoft, Siemens to drive industrial productivity with generative AI"
-    excerpt: "Azure OpenAI Service powered assistant can augment the creation, optimization and debugging of code in software for factory automation."
-    publishedDateTime: 2023-04-14T14:51:00Z
-    webUrl: "https://www.therobotreport.com/microsoft-siemens-to-drive-industrial-productivity-with-generative-ai/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 84
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2023/04/SiemensMicrosoftGenerativeAI-960x640-1.jpg"
-        width: 960
-        height: 640
-        isCached: true
-  - title: "Mind your language: The risks of using AI-powered chatbots like ChatGPT in an organization"
-    excerpt: "A spate of recent news points up the potential security and other pitfalls of using AI chatbots like ChatGPT within an organization."
-    publishedDateTime: 2023-04-14T01:37:00Z
-    webUrl: "https://venturebeat.com/ai/mind-your-language-risks-using-ai-powered-chatbots-chatgpt/"
-    ampWebUrl: "https://venturebeat.com/ai/mind-your-language-risks-using-ai-powered-chatbots-chatgpt/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/mind-your-language-risks-using-ai-powered-chatbots-chatgpt/amp/"
+  - title: "Amazon launches Bedrock for generative AI, escalating AI cloud wars"
+    excerpt: "Amazon dropped a Bedrock on the generative AI space, a landscape-shaking move that also escalated the cloud AI wars that have been heating up over the past year."
+    publishedDateTime: 2023-04-14T16:54:00Z
+    webUrl: "https://venturebeat.com/ai/amazon-launches-bedrock-for-generative-ai-escalating-ai-cloud-wars/"
+    ampWebUrl: "https://venturebeat.com/ai/amazon-launches-bedrock-for-generative-ai-escalating-ai-cloud-wars/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/amazon-launches-bedrock-for-generative-ai-escalating-ai-cloud-wars/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 77
+    quality: 91
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1367281424-e1654632813202.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Siemens and Microsoft drive industrial productivity with generative artificial intelligence"
-    excerpt: "Siemens and Microsoft drive industrial productivity with generative artificial intelligence Apr 12, 2023 (PRNewswire via COMTEX) -- PR Newswire"
-    publishedDateTime: 2023-04-12T10:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/siemens-and-microsoft-drive-industrial-productivity-with-generative-artificial-intelligence-2023-04-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/Untitled-design-44.png?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 750
         isCached: true
-  - title: "Company Ditches Humans in Favor of ChatGPT-Style AI"
-    excerpt: "Move over Don Draper: at least one agency thinks AI can devise better ads than humans ever could. Bluefocus Intelligent Communications Group Co. plans to replace its external copywriters and graphic designers with ChatGPT-like generative AI models,"
-    publishedDateTime: 2023-04-14T02:35:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-04-14/company-ditches-humans-in-favor-of-chatgpt-style-ai"
+  - title: "Announcing New Tools for Building with Generative AI on AWS"
+    excerpt: "The seeds of a machine learning (ML) paradigm shift have existed for decades, but with the ready availability of scalable compute capacity, a massive proliferation of data, and the rapid advancement of ML technologies, customers across industries are transforming their businesses. Just recently, generative"
+    publishedDateTime: 2023-04-13T12:41:13Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-new-tools-for-building-with-generative-ai-on-aws/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
+  - title: "Amazon’s new generative AI capabilities work to increase access to AI"
+    excerpt: "This release is powered by AWS Inferentia2 chips, which is intended to lower the overall cost of running generative AI workloads. According to the company, this release also increases energy efficiency, which helps to make generative AI technology more ..."
+    publishedDateTime: 2023-04-14T17:45:00Z
+    webUrl: "https://sdtimes.com/ai/amazons-new-generative-ai-capabilities-work-to-increase-access-to-ai/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 69
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIowefic0EuM/v0/1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://sdtimes.com/images/sd-premium.png"
+        width: 628
+        height: 246
         isCached: true
-  - title: "Cohesity Partners With Microsoft And Announces Vision For AI"
-    excerpt: "Ranked Industry Analyst Patrick Moorhead dives in as my latest discussion with Poonen focused on an expanded relationship with Microsoft. A significant part of Poonen's focus and vision for Cohesity since he took over as CEO has been to advance innovation in security,"
-    publishedDateTime: 2023-04-11T17:39:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/04/11/cohesity-partners-with-microsoft-and-announces-vision-for-ai/"
+  - title: "Generative AI comes to Amazon Web Services"
+    excerpt: "Amazon released a new suite of AI technologies, including foundational large language models (LLMs) called Titan and a cloud computing service called Bedrock, reports Reuters. The move comes as competitors Microsoft and Google integrate AI chatbots into their search engines and cloud operations."
+    publishedDateTime: 2023-04-13T19:11:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/04/generative-ai-comes-to-amazon-web-services/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
-  - title: "Microsoft brings Bing's AI chatbot to its iOS and Android SwiftKey apps"
-    excerpt: "Bing's inclusion into SwiftKey follows the lead of other Microsoft programs like Skype and Microsoft Start. Skype lets users message directly with Bing in a group chat or on-on-one, while Microsoft Start provides access to Bing across the app."
-    publishedDateTime: 2023-04-14T12:27:00Z
-    webUrl: "https://www.engadget.com/microsoft-brings-bings-ai-chatbot-to-its-ios-and-android-swiftkey-apps-113528183.html"
-    type: article
-    provider:
-      name: YAHOO!Finance
-      domain: engadget.com
-    quality: 64
-  - title: "Microsoft Stock Is Easily Your Best AI Bet for 2023"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips If your portfolio doesn’t have some exposure to artificial intelligence"
-    publishedDateTime: 2023-04-14T16:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-is-easily-your-best-ai-bet-for-2023-1032233387"
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 68
+  - title: "AWS Unveils Bedrock Service For Generative AI"
+    excerpt: "Amazon Web Services, the cloud computing unit of Amazon, has introduced a cloud service called Bedrock for use in generative"
+    publishedDateTime: 2023-04-14T12:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/aws-unveils-bedrock-service-for-generative-ai-1032232707"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "How 5G and wireless edge infrastructure power digital operations with Microsoft"
-    excerpt: "As enterprises continue to adopt the Internet of Things (IoT) solutions and AI to analyze processes and data from their equipment, the need for high-speed, low-latency wireless connections are rapidly growing. Companies are already seeing benefits from deploying private 5G networks to enable their solutions,"
-    publishedDateTime: 2023-04-13T10:00:14Z
-    webUrl: "https://azure.microsoft.com/blog/how-5g-and-wireless-edge-infrastructure-power-digital-operations-with-microsoft/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 63
-  - title: "How artificial intelligence like ChatGPT is influencing medical diagnoses"
-    excerpt: "And it's inevitable that people will use it to guide our own healthcare decisions just the way we've been leaning on \"Dr. Google\" for years"
-    publishedDateTime: 2023-04-15T06:11:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/how-artificial-intelligence-like-chatgpt-is-influencing-medical-diagnoses-123041500265_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/how-artificial-intelligence-like-chatgpt-is-influencing-medical-diagnoses-123041500265_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/how-artificial-intelligence-like-chatgpt-is-influencing-medical-diagnoses-123041500265_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 58
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-04/05/full/1680689278-0568.jpg"
-        width: 1349
-        height: 900
-        isCached: true
-  - title: "Elon Musk plans AI startup to rival ChatGPT owner, OpenAI"
-    excerpt: "Billionaire Elon Musk is working on launching an artificial intelligence start-up that will rival ChatGPT-maker OpenAI, the Financial Times reported on Friday citing people familiar with his plans. Twitter-owner Musk is assembling a team of AI researchers ..."
-    publishedDateTime: 2023-04-15T09:06:00Z
-    webUrl: "https://tribune.com.pk/story/2412149/elon-musk-plans-ai-startup-to-rival-chatgpt-owner-openai"
-    ampWebUrl: "https://tribune.com.pk/story/2412149/elon-musk-plans-ai-startup-to-rival-chatgpt-owner-openai?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2412149/elon-musk-plans-ai-startup-to-rival-chatgpt-owner-openai?amp=1"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 57
-    images:
-      - url: "https://i.tribune.com.pk/media/images/Musk-41645976195-0/Musk-41645976195-0.jpg"
-        width: 640
-        height: 426
-        isCached: true
-  - title: "How ChatGPT and similar AI will disrupt education"
-    excerpt: "The new chatbot ChatGPT and other generative AI encourage cheating and offer up incorrect info, but they could also be used for good."
-    publishedDateTime: 2023-04-12T11:00:00Z
-    webUrl: "https://www.sciencenews.org/article/chatgpt-ai-artificial-intelligence-education-cheating-accuracy"
-    type: article
-    provider:
-      name: Science News
-      domain: sciencenews.org
-    quality: 56
-    images:
-      - url: "https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Microsoft integrates Bing's AI into Swiftkey, Skype, Start apps"
-    excerpt: "After launching the new Bing experience earlier this year, Microsoft has been trying to bring the search engine's AI features to its products."
-    publishedDateTime: 2023-04-14T06:11:00Z
-    webUrl: "https://www.ibtimes.co.uk/microsoft-integrates-bings-ai-swiftkey-skype-start-apps-1715133"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 54
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1710519/microsoft-signage-seen-companys-headquarters-redmond.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Improve supply chain security and resiliency with Microsoft"
-    excerpt: "The Microsoft Supply Chain Platform was just launched to help companies protect their supply chains against cyber threats."
-    publishedDateTime: 2023-04-13T15:00:00Z
-    webUrl: "https://www.microsoft.com/en-us/security/blog/2023/04/13/improve-supply-chain-security-and-resiliency-with-microsoft/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 51
-  - title: "AWS steps up AI rivalry with Google, Microsoft"
-    excerpt: "Microsoft and Google are adding AI chatbots to consumer products like their search engines, but they are also eying another huge market: selling the underlying technology to other companies via their cloud operations."
-    publishedDateTime: 2023-04-14T12:56:00Z
-    webUrl: "https://techcentral.co.za/aws-steps-up-ai-rivalry-with-google-microsoft/224441/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 51
-  - title: "Microsoft Shares Healthcare AI, Cloud Updates"
-    excerpt: "Microsoft announced updates across its Azure AI Services for Health and Microsoft Cloud for Healthcare offerings."
-    publishedDateTime: 2023-04-13T17:37:00Z
-    webUrl: "https://healthitanalytics.com/news/microsoft-shares-healthcare-ai-cloud-updates"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 51
-  - title: "GPT-4 vs. ChatGPT: AI Chatbot Comparison"
-    excerpt: "GPT-4 and ChatGPT are the two trailblazers for GPT technology – which has dramatically sparked interest in generative AI and artificial intelligence in general. GPT is an abbreviation for Generative Pre-trained Transformer,"
-    publishedDateTime: 2023-04-12T19:16:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/gpt-4-vs-chatgpt/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 49
-  - title: "Amazon Unveils Bedrock to Compete with OpenAI’s ChatGPT and DALL-E 2"
-    excerpt: "Artificial intelligence technologies continue to take the internet ... They announced the launch of Bedrock, a new cloud service on their Amazon Web Services (AWS) platform, designed to provide developers with customizable AI tools for generating text ..."
-    publishedDateTime: 2023-04-14T09:45:00Z
-    webUrl: "https://www.gizmochina.com/2023/04/14/amazon-bedrock-ai-service/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 49
-  - title: "Microsoft integrates Bing AI features into Skype, Swiftkey and Start app on mobile"
-    excerpt: "Microsoft has announced the integration of Bing AI features into SwiftKey on Android and iOS, improving functions such as chat, tone and search. The tech giant, soon after launching its AI-powered Security Copilot, a new assistant for cyber professionals, began exploring ads in Bing Chat."
-    publishedDateTime: 2023-04-14T07:02:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-integrates-bing-ai-features-into-skype-swiftkey-and-start-app-on-mobile/article66736446.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-integrates-bing-ai-features-into-skype-swiftkey-and-start-app-on-mobile/article66736446.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-integrates-bing-ai-features-into-skype-swiftkey-and-start-app-on-mobile/article66736446.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 48
-  - title: "AI: China tech giant Alibaba to roll out ChatGPT rival"
-    excerpt: "Chinese technology giant Alibaba has announced plans to roll out its own artificial intelligence (AI) ChatGPT-style product called Tongyi Qianwen. Its cloud computing unit says it will integrate the chatbot across Alibaba's businesses in the \"near future\" but did not give details on its timeline."
-    publishedDateTime: 2023-04-11T04:56:00Z
-    webUrl: "https://www.bbc.com/news/business-65236848.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 47
-  - title: "Did That Newly Announced ChatGPT Bug Bounty Initiative By OpenAI Undershoot Its Wanted Aims, Asks AI Ethics And AI Law"
-    excerpt: "OpenAI announced a bug bounty effort associated with ChatGPT and their other AI services and products. Some laud this. Others believe it doesn't do enough. Here is the scoop on the controversy."
-    publishedDateTime: 2023-04-12T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/04/12/did-that-newly-announced-chatgpt-bug-bounty-undershoot-its-wanted-aims-asks-ai-ethics-and-ai-law/"
+  - title: "How Generative AI Can Improve Personalized Healthcare With Wearable Devices"
+    excerpt: "Generative AI in healthcare is a promising area that could enhance the quality and efficiency of patient care."
+    publishedDateTime: 2023-04-14T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/how-generative-ai-can-improve-personalized-healthcare-with-wearable-devices/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 40
-  - title: "Here's where AI and ChatGPT can create quick wins for insurers"
-    excerpt: "Swiss insurance group Helvetia is the latest insurer to announce it is testing ChatGPT for its new customer service. Fellow Swiss insurer Zurich said last month that it was experimenting with ChatGPT to find out how AI can help with tasks such as modelling,"
-    publishedDateTime: 2023-04-14T08:10:00Z
-    webUrl: "https://www.insurancebusinessmag.com/us/news/technology/heres-where-ai-and-chatgpt-can-create-quick-wins-for-insurers-442749.aspx"
+    quality: 62
+  - title: "Amazon joins generative AI race, targets tech at cloud customers"
+    excerpt: "Amazon.com Inc. is joining Microsoft Corp. and Google in the generative artificial intelligence race, announcing technology aimed at its cloud customers as well as a marketplace for AI tools from other companies."
+    publishedDateTime: 2023-04-13T18:15:00Z
+    webUrl: "https://techxplore.com/news/2023-04-amazon-generative-ai-tech-cloud.html"
+    ampWebUrl: "https://techxplore.com/news/2023-04-amazon-generative-ai-tech-cloud.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-amazon-generative-ai-tech-cloud.amp"
     type: article
     provider:
-      name: insurancebusinessmag
-      domain: insurancebusinessmag.com
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/amazon-3.jpg"
+        width: 1920
+        height: 1738
+        isCached: true
+  - title: "AWS Joins Generative AI Race, Unveils New Products"
+    excerpt: "Generative AI is a type of AI that can create new content and ideas, including conversations, stories, images, videos, and music"
+    publishedDateTime: 2023-04-14T09:19:00Z
+    webUrl: "https://www.dqindia.com/aws-joins-generative-ai-race-unveils-new-products/"
+    ampWebUrl: "https://www.dqindia.com/aws-joins-generative-ai-race-unveils-new-products/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/aws-joins-generative-ai-race-unveils-new-products/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 54
+  - title: "Reinventing financial services with next-gen AI"
+    excerpt: "As part of a surging embrace of AI, financial services companies are joining others developing next-gen autonomous, cloud-based assistants."
+    publishedDateTime: 2023-04-13T20:20:00Z
+    webUrl: "https://venturebeat.com/ai/reinventing-financial-services-with-next-gen-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 53
+  - title: "Amazon Is Joining the Generative AI Race"
+    excerpt: "Today, Amazon announced it’s joining the generative AI race. Not by launching its own chatbot, but by making two new AI language models available through its cloud platform, Amazon Web Services, which customers will be able to use to build their own bots."
+    publishedDateTime: 2023-04-13T12:40:00Z
+    webUrl: "https://www.wired.com/story/amazon-is-joining-the-generative-ai-race/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 51
+  - title: "This Startup Claims Its Models Fix A Major Problem With Generative AI"
+    excerpt: "Companies like BetterHelp, Uber and Hilton trust Writer to automate all their tedious text-based tasks. Writer’s promise? That its language models won’t make up false information."
+    publishedDateTime: 2023-04-11T10:15:00Z
+    webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/04/11/writer-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Amazon Joins The AI Race, Announces The Launch of Bedrock"
+    excerpt: "Amazon announced the roll out of two large language models - one to generate texts and the other for web search personalization."
+    publishedDateTime: 2023-04-14T09:42:00Z
+    webUrl: "https://techreport.com/news/3494966/amazon-joins-the-ai-race-announces-the-launch-of-bedrock/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
     quality: 39
     images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/018/0311_638170640554529503.png"
-        width: 1000
-        height: 666
+      - url: "https://techreport.com/wp-content/uploads/2023/04/AWS.png"
+        width: 624
+        height: 386
         isCached: true
-  - title: "Lori Falce: Chatting with ChatGPT opens eyes on AI, journalism"
-    excerpt: "The impact of artificial intelligence is a hot topic. Everyone wants to know what AI means for their industry and their jobs — including journalists. We all know that innovation is amazing. It helped us reach the stars and travel the globe."
-    publishedDateTime: 2023-04-14T13:29:00Z
-    webUrl: "https://triblive.com/opinion/lori-falce-chatting-with-chatgpt-opens-eyes-on-ai-journalism/"
+  - title: "Amazon joins generative AI race, targets cloud customers"
+    excerpt: "Amazon.com Inc. is joining Microsoft Corp. and Google in the generative artificial intelligence race, announcing technology aimed at its cloud customers as well as a marketplace for AI tools from"
+    publishedDateTime: 2023-04-14T20:26:00Z
+    webUrl: "https://madison.com/ap/lifestyles/amazon-joins-generative-ai-race-targets-cloud-customers/article_87fe02b1-5741-5d8b-886b-fc1e36c441b4.html"
     type: article
     provider:
-      name: TribLIVE.com
-      domain: triblive.com
+      name: Madison.com
+      domain: madison.com
     quality: 39
     images:
-      - url: "https://assets-varnish.triblive.com/2023/04/6099010_web1_6057796-5f634f24303c4f78a9e41f89b4353292.jpg"
-        width: 640
-        height: 427
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/custom/image/ce2dd33a-7a28-11ed-bbcf-032e1181320a.png?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
-  - title: "Amazon taking on Microsoft and Google in AI race"
-    excerpt: "AWS, which sells on-demand computing power and software tools — including a suite of machine-learning applications — had previously partnered with artificial intelligence companies including Hugging Face Inc. and Stability AI, which builds the image ..."
-    publishedDateTime: 2023-04-14T05:56:00Z
-    webUrl: "https://mybroadband.co.za/news/software/487657-amazon-taking-on-microsoft-and-google-in-ai-race.html"
+  - title: "How Generative AI Could Disrupt Creative Work"
+    excerpt: "In the face of technological change, creativity is often held up as a uniquely human quality, less vulnerable to the forces of technological disruption and critical for the future. Today however, generative AI applications such as ChatGPT and Midjourney are threatening to upend this special status and significantly alter creative work,"
+    publishedDateTime: 2023-04-13T12:25:00Z
+    webUrl: "https://hbr.org/2023/04/how-generative-ai-could-disrupt-creative-work"
     type: article
     provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/04/Apr23_13_1364531715.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AWS wades into generative AI fray with Bedrock service"
+    excerpt: "CEO Andy Jassy highlighted generative AI as a key area of investment for the retail giant, in a Thursday letter to investors."
+    publishedDateTime: 2023-04-13T22:36:00Z
+    webUrl: "https://www.ciodive.com/news/amazon-bedrock-titan-AI-LLM-/647636/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
     quality: 36
-  - title: "Siemens and Microsoft Drive Industrial Productivity with Generative AI"
-    excerpt: "Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help"
-    publishedDateTime: 2023-04-12T15:48:00Z
-    webUrl: "https://www.datanami.com/this-just-in/siemens-and-microsoft-drive-industrial-productivity-with-generative-ai/"
+  - title: "AWS Announces New Tools for Building with Generative AI"
+    excerpt: "In the following blog post, Swami Sivasubramanian, vice president of Data and Machine Learning at AWS, shares his insights on the rapid"
+    publishedDateTime: 2023-04-13T16:25:00Z
+    webUrl: "https://www.datanami.com/this-just-in/aws-announces-new-tools-for-building-with-generative-ai/"
     type: article
     provider:
       name: datanami.com
       domain: datanami.com
     quality: 34
-  - title: "Microsoft is Bringing (More) AI to Developers"
-    excerpt: "In the Build 2022 session list, you will find a reference to how developers can build a \"company copilot\" using Azure ML and GPT-4."
-    publishedDateTime: 2023-04-13T13:32:00Z
-    webUrl: "https://www.thurrott.com/dev/281826/microsoft-is-bringing-more-ai-to-developers"
+  - title: "AWS dives into generative AI with new offerings"
+    excerpt: "Coinciding with its latest letter to shareholders written by chief executive Andy Jassy, Amazon's cloud computing division has officially launched a set of generative artificial intelligence offerings."
+    publishedDateTime: 2023-04-13T18:56:00Z
+    webUrl: "https://www.crn.com.au/news/aws-dives-into-generative-ai-with-new-offerings-593237"
     type: article
     provider:
-      name: Thurrott
-      domain: thurrott.com
+      name: CRN Australia
+      domain: crn.com.au
     quality: 34
-  - title: "Siemens, Microsoft Use Generative AI to Drive Industrial Productivity"
-    excerpt: "Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency across the design, engineering, manufacturing and operational lifecycle of products."
-    publishedDateTime: 2023-04-13T02:01:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/31559-siemens-microsoft-use-generative-ai-to-drive-industrial-productivity"
+  - title: "Amazon joins generative AI fervor with new app-building tool and large language models"
+    excerpt: "The company’s new Bedrock service – currently being rolled out in a “limited preview” – will help brands to enhance their own software and content using AI-generated text and images."
+    publishedDateTime: 2023-04-13T20:23:00Z
+    webUrl: "https://www.thedrum.com/news/2023/04/13/amazon-joins-generative-ai-fervor-with-new-app-building-tool-large-language-models"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 34
-  - title: "ZTE to launch GPU servers in response to ChatGPT-triggered AI needs"
-    excerpt: "China-based IT and communication solutions provider ZTE will introduce GPU servers supporting high performance computing (HPC) to meet the ChatGPT-triggered needs of large AI models, according to company president Xu Ziyang."
-    publishedDateTime: 2023-04-13T11:14:00Z
-    webUrl: "https://www.digitimes.com/news/a20230413PD206/ai-china-gpu-zte.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 34
-  - title: "AWS launches generative AI tools"
-    excerpt: "Generative artificial intelligence (AI) software such as ChatGPT has captured the imaginations of consumers and businesses alike, as they experiment with everything from search bots like Microsoft Bing Chat to embedded technology in existing customer support systems,"
-    publishedDateTime: 2023-04-13T20:47:00Z
-    webUrl: "https://www.itworldcanada.com/article/aws-launches-generative-ai-tools/536367"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 34
-  - title: "Microsoft Earnings: Bulls’ AI Hopes Offset PC, Cloud Worries"
-    excerpt: "Let’s start with the happy news. Thanks to the company’s strong relationship with the ChatGPT creator OpenAI, Microsoft (ticker: MSFT) has become the perceived early leader in generative artificial-intelligence software. The company has rolled out AI ..."
-    publishedDateTime: 2023-04-14T18:47:00Z
-    webUrl: "https://www.barrons.com/articles/microsoft-stock-earnings-ai-cloud-f4c81ee9"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 34
-  - title: "ChatGPT Called to the Bar"
-    excerpt: "Latham & Watkins has created an AI-powered tool called Latham.ai, which uses natural language processing and machine learning to help lawyers draft and review contracts more efficiently. Hogan Lovells has partnered with an AI company called Kira Systems to ..."
-    publishedDateTime: 2023-04-14T11:04:00Z
-    webUrl: "https://www.royalgazette.com/opinion-writer/opinion/article/20230414/chatgpt-called-to-the-bar/"
-    type: article
-    provider:
-      name: The Royal Gazette
-      domain: royalgazette.com
-    quality: 24
+      name: The Drum
+      domain: thedrum.com
+    quality: 31
     images:
-      - url: "https://imengine.editorial.prod.rgb.navigacloud.com/?uuid=f7b5a041-0fb5-5065-9472-989382454613&function=fit&type=preview"
-        width: 500
-        height: 333
+      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/689017/untitled_design_-_2023-04-13t152639.451.png?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Is ChatGPT-4 replacing Google?"
-    excerpt: "ChatGPT is an AI-powered chatbot that creates a virtual conversation with users by using machine learning and natural language processing. Google is known for its innovative and inventive use of technology. OpenAI (developer of ChatGPT) is an artificial ..."
-    publishedDateTime: 2023-04-15T07:16:00Z
-    webUrl: "https://www.fijitimes.com/is-chatgpt-4-replacing-google/"
+  - title: "Meta will debut its generative AI this year"
+    excerpt: "Meta announced in February that it would establish a new organization to develop generative AI, but this is the first time it has indicated a timeline for commercialization."
+    publishedDateTime: 2023-04-10T19:24:00Z
+    webUrl: "https://searchengineland.com/meta-will-debut-their-generative-ai-this-year-395460"
     type: article
     provider:
-      name: Fiji Times
-      domain: fijitimes.com
-    quality: 24
-    images:
-      - url: "https://www.fijitimes.com/wp-content/uploads/2023/04/Google-building.jpg"
-        width: 1536
-        height: 948
-        isCached: true
-  - title: "Could AI Language Models Like ChatGPT Unlock Mysterious Ancient Texts?"
-    excerpt: "Ancient writings like the Indus script and Voynich Manuscript have baffled scholars for decades. Some researchers think AI systems could help reveal their secrets."
-    publishedDateTime: 2023-04-11T16:46:00Z
-    webUrl: "https://www.discovermagazine.com/technology/could-ai-language-models-like-chatgpt-unlock-mysterious-ancient-texts"
-    type: article
-    provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
+      name: Search Engine Land
+      domain: searchengineland.com
     quality: 19
-  - title: "The Download: ChatGPT’s impact on schools, and Elon Musk’s AI plans"
-    excerpt: "This year millions of people have tried—and been wowed by— artificial intelligence systems. That’s in no small part thanks to OpenAI’s chatbot ChatGPT."
-    publishedDateTime: 2023-04-12T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/04/12/1071401/download-chatgpt-impact-on-schools-and-elon-musks-ai-plans/"
+  - title: "Amazon Bedrock offers developers access to generative AI models"
+    excerpt: "Amazon has so far stayed out of the generative AI discussion. Everyone was, of course, waiting for a response on generative AI from AWS. Today, with"
+    publishedDateTime: 2023-04-13T16:13:00Z
+    webUrl: "https://www.techzine.eu/blogs/analytics/104594/amazon-bedrock-offers-developers-access-to-generative-ai-models/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
+      name: techzine
+      domain: techzine.eu
     quality: 19
-  - title: "How To Buy ChatGPT Stock: Your 2023 Guide to AI Investing"
-    excerpt: "Generative AI technology is complicated enough to understand without even bringing in the notion of how to invest in artificial intelligence. Luckily, you don't have to be an expert in"
-    publishedDateTime: 2023-04-13T21:20:00Z
-    webUrl: "https://www.aol.com/finance/buy-chatgpt-stock-2023-guide-180405996.html"
+  - title: "Amazon joins generative AI race, targets tech at cloud customers"
+    excerpt: "Amazon.com Inc. is joining Microsoft Corp. and Google in the generative artificial intelligence race, announcing technology aimed at its cloud customers as well as a marketplace for AI tools from"
+    publishedDateTime: 2023-04-13T15:26:00Z
+    webUrl: "https://independenttribune.com/business/amazon-joins-generative-ai-race-targets-tech-at-cloud-customers/article_ed01fa9d-2640-5204-a078-acd09daeac94.html"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
+      name: Independent Tribune
+      domain: independenttribune.com
     quality: 19
+  - title: "Amazon intensifies AI race with new suite of tools"
+    excerpt: "Amazon Web Services (AWS) has released a series of products aimed at helping other companies develop their own chatbots and image-generation services, backed by artificial intelligence (AI). The move comes as part of a wider AI race following the popularity of ChatGPT,"
+    publishedDateTime: 2023-04-14T10:05:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42143/amazon-intensifies-ai-race-with-new-suite-of-tools"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
+  - title: "Amazon joins in generative AI fervor with new app-building tool & large language models"
+    excerpt: "The company’s new Bedrock service – currently being rolled out in a \"limited preview\" – will help brands to enhance its own software and content using AI-generated text and images."
+    publishedDateTime: 2023-04-13T20:23:00Z
+    webUrl: "https://www.thedrum.com/news/2023/04/13/amazon-joins-generative-ai-fervor-with-new-app-building-tool-large-language-models"
+    type: article
+    provider:
+      name: The Drum
+      domain: thedrum.com
+    quality: 11
 
 secured: "rWecfB7DGAbgEHyVXw5RrH9PuiPAakipMlZR1qrU/s5/4pOWbM9z8xYpq5DQAHtPjpVOjdKDmy7Lo2Dz8ITtrkqj7m5py546ej0neMrW2kl9q2+mYqcoMHw8I9skw3fHUtP9sLfluou89kR8h+iUxH71sqq8/AOXUCqoWWGRACnO1KOrp+eWfb2yG2RMih2rpShYzIx7ylEgufLOAFAebE/t5v2vpSglX6bb9FNdMDdehecWnhzwr0TZU8JVMW+yTZZ3Sb9Sf1xXDb9Ik5HATZrfDWw7yxD91QV1ouABcC/ff6Mh9ibf7Tzc4oj/06/XJoKiAlgpWjlLMocYug2mo53vyDzkEOFuZw4ePNkoovxtTsWh8zlvejHDWA0jNoeQduXlub1lzOqJw2tI3jhfZ31pQFMcxCkxzlmFkZtXJ4GcFJAkiWrCW1XCW4s/oFnePoUrJuWZkRDHkF+xtDT47lF5rz2YC4Yk7oP+syMGQ/T8DReHO+35Kf/eJ8xlRNtSBN4tk9lD3dJnneVGRnTI2Q==;J/CA0bZV2mgV2DcSJelJpg=="
 ---

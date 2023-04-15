@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ktvu.com/news/company-unveils-smart-gun-that-uses-finger
 cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/company-unveils-smart-gun-that-uses-fingerprint-facial-recognition-to-shoot.amp"
 type: article
 quality: 59
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: KTVU
@@ -27,47 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Biofire Announces World's First Smart Gun® Secured by Fingerprint and Facial Recognition"
-    excerpt: "The 9mm handgun fires only for authorized users, ensuring it can't be used by children or criminals.BROOMFIELD, Colo., April 13, 2023"
-    publishedDateTime: 2023-04-13T13:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/biofire-announces-world-s-first-smart-gun-secured-by-fingerprint-and-facial-recognition-1032229905"
+  - title: "Thailand uses facial recognition technology in disease control"
+    excerpt: "Eye and facial recognition technology will be used in a pilot project in Thailand, aimed at improving healthcare services for foreign workers, refugees and ethnic people in five provinces, the Thai Department of Disease Control has said."
+    publishedDateTime: 2023-04-15T08:17:00Z
+    webUrl: "https://en.vietnamplus.vn/thailand-uses-facial-recognition-technology-in-disease-control/251608.vnp"
+    ampWebUrl: "https://en.vietnamplus.vn/thailand-uses-facial-recognition-technology-in-disease-control/251608.amp"
+    cdnAmpWebUrl: "https://en-vietnamplus-vn.cdn.ampproject.org/c/s/en.vietnamplus.vn/thailand-uses-facial-recognition-technology-in-disease-control/251608.amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
-  - title: "NYC Introduces Bills to Limit Facial Recognition in Private Sector"
-    excerpt: "New York City Council (“Council”) members are expected to formally introduce two Local Laws on April 27, 2023, during the next Council meeting, seeking to regulate private-sector use of facial recognition (or similar surveillance technology ..."
-    publishedDateTime: 2023-04-14T22:10:00Z
-    webUrl: "https://www.natlawreview.com/article/nyc-introduces-bills-to-limit-facial-recognition-private-sector"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 39
+      name: VietnamPlus
+      domain: vietnamplus.vn
+    quality: 74
     images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/29716/privacy%20biometrics%20facial%20face%20recognition_0.jpg?itok=LVAspu6g"
-        width: 500
-        height: 333
+      - url: "https://cdnimgen.vietnamplus.vn/t660/uploaded/wbxx/2023_04_15/thailand.jpg"
+        width: 660
+        height: 440
         isCached: true
-  - title: "NYC lawmakers introduce bill to ban businesses from using facial recognition tech"
-    excerpt: "Both bills are scheduled to be introduced at the City Council meeting on April 27 following a Committee on Technology meeting two days earlier."
-    publishedDateTime: 2023-04-13T03:46:00Z
-    webUrl: "https://nypost.com/2023/04/12/nyc-lawmakers-introduce-bill-to-ban-businesses-from-using-facial-recognition-tech/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 16
-  - title: "First-ever ‘smart gun’ with fingerprint and facial recognition unlocking system hits the market"
-    excerpt: "The cutting-edge 9mm handgun locks out everybody except the owner and users specifically approved by the owner — technology  that could improve gun safety in America, according to reps from the"
-    publishedDateTime: 2023-04-13T19:27:00Z
-    webUrl: "https://nypost.com/2023/04/13/first-ever-smart-gun-with-fingerprint-unlocking-system-hits-the-market/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 7
 
 secured: "g7xtikEov9rSpInVcYqw69/niZj3/krEeXBKWZLvOfTFUwFgZLv42ZojRUnLTNzgoyGo0qhk9uvMSEljuYQKcjTm2E02idMmg8Um+97OisYtecV7VWKycNqWr6801Mhl4SlEWc8ou02lurQv+jN/B2Uyyo7p7fnCd/7meVpBEijYhaYfzY3RHKoVp7aTjPhX+1p28tN2TrDrIyEaH03Kn6OmTY+JISLMs7yOYjABkEWEVeloAea3aONozkDIuLT5a1ytQFaG/1H1iCvlYorX6M9NMcjVgOYLl6HOU4BKWqIIeViuZ96+tFnGp/wLR+RovTkhQdZCoxHMYKdnBzDxyPWWDu/zsjhcdhKkAPxx11MmZUSY4CCwUS/sL6kd/N9RAtUlPN4o3AKGVdURv8+jDqh9yd1dmzVlNk0R1nwh2nXsNSc0KoUdENRChqGwmNdC+kSB7ZR/g+ShVtmenmPr/yzKKTICvks6r4RfIct42FqRJKy1pkJH1x88/b7rXehoX0gF4ROZlYe/NP6mmIjyWg==;SBC9pcvMmMus9hRMpCX5sQ=="
 ---

@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Amazon announces Bedrock and Titan, generative AI on the cloud"
+    excerpt: "Amazon has added generative artificial intelligence models into Amazon Web Services. Generative AI is the type of artificial intelligence that can create text or images, similar to ChatGPT. With Amazon Bedrock,"
+    publishedDateTime: 2023-04-14T16:26:00Z
+    webUrl: "https://www.techrepublic.com/article/amazon-bedrock-titan-cloud-artificial-intelligence/"
+    ampWebUrl: "https://www.techrepublic.com/article/amazon-bedrock-titan-cloud-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/amazon-bedrock-titan-cloud-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/04/tr41423-amazon-headquarters.jpeg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Announcing New Tools for Building with Generative AI on AWS"
     excerpt: "The seeds of a machine learning (ML) paradigm shift have existed for decades, but with the ready availability of scalable compute capacity, a massive proliferation of data, and the rapid advancement of ML technologies, customers across industries are transforming their businesses. Just recently, generative"
     publishedDateTime: 2023-04-13T12:41:13Z
@@ -275,6 +291,6 @@ related:
       domain: thedrum.com
     quality: 11
 
-secured: "wwS20lJDhg6kHsesO3GED4HqepjnHHcxY2+OI2VBWXJu26MhoulckJUa8VAD33xGKQvKYw+nf3Yuy7Z4GtmZTExqnS3RKxi/oKQcFVPwKPzv53vIo1lsU50Ig9Ul3XSBY2mxxBs+Q5Qitcr9R+D00A4nRBzNOTSmCqxhe121v2cCP5F7ghOVdOsgFjNMCXHrT6E7uO1ZuJ12oWayFfp+YbQ+HFdFyxxeL6EfFkmDQUzmXD4u6wQp0JAhlmBpe55vcsiaiDlFBUFC42RNYr5195G9r71vJpxDwxwHerpHbFy3YUXdd81RvyjVPXsBUAmBe95mL/EpQ0sOnyhKnKS+CwYydRCOkXcR8edruq9yxN4=;oKc1jg+XuJybY3xRmjcM5g=="
+secured: "Vn+ybHIdVcuvfDrQoPC64RWXItZmw/IA8qEXVYYaZrWmB+LJwUoE5kx6BVPOxoZeVInQyG4gknMIGk66FTZNzKQevjqNU2Xe6YcPCV2fU2CIrYnC9mFS/vt3lhKRr1maoH/ASVC5OBuNIxmruUfR+uuVh5xNgymgEpgXTDZO6/Lghy4TRnVR/5AiBp4kCx6NF3CV/qSsP3inEmctJToyy4AYa5Fj4T9PziwzIE/qE7Ph2Io2R7T2+8BY+Jq7kVjhig9nyYxAICOwPda61PEaUoptp7MnwSEkMdmaVHG0m7Fc1o/OWtx2fzxEy8h0BpL/R0OdVjXEaDejiPFEhmwnCWMoHcrCikaK7JWJGbA3PaKzR+SjGeEzvlr0aJ8i8CDk8GWsLjRH/j2yKrs/QCjlPZVUOuwWZVxmUbFAZAZoEku56lOyx1bJXE3L/4t97/mupvEFOzbR0b9XHavVa+oYJze05LBWz4o03rko/QBwuFydMLuuV6hA7KeZ/ED63fRzm8yvdUZKrTZtoAUEY0FVYw==;JCa/L+t9mIjv7cBNp5P7ag=="
 ---
 

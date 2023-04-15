@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "New Artificial Intelligence Tool Helps Predict Colon Cancer Survival"
+    excerpt: "Artificial intelligence (AI) or machine intelligence refers to the intelligence displayed by computers or robots in contrast to the natural intelligence exhibited by humans. It is considered one of the major advancements of the 4th industrial revolution and finds application in several fields including medicine."
+    publishedDateTime: 2023-04-15T11:54:00Z
+    webUrl: "https://www.medindia.net/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 57
+    images:
+      - url: "https://www.medindia.net/health-images/artificial-intelligence-can-now-predict.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Colon Cancer Survival and Therapy Response Predicted by AI"
     excerpt: "A new artificial intelligence model could bring clarity to doctors delivering prognoses and deciding on treatments for patients with colorectal cancer"
     publishedDateTime: 2023-04-14T09:01:00Z
