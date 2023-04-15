@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "Aptiv"
   url: "https://twitter.com/Aptiv"
-  followers: 18613
+  followers: 18614
 
 locations:
   - Dublin, Ireland
