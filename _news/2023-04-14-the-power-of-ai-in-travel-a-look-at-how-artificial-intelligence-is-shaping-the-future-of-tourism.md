@@ -37,6 +37,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Duke Health Announces AI-Driven Healthcare Transformation Collab"
+    excerpt: "Duke Health and SAS aim to develop cloud-based and artificial intelligence-powered healthcare solutions under a new collaboration."
+    publishedDateTime: 2023-04-13T13:36:00Z
+    webUrl: "https://healthitanalytics.com/news/duke-health-announces-ai-driven-healthcare-transformation-collab"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 34
 
 secured: "sDOKid6fXkgmWjiTJcXUfwc7oIlcSebK48+I9S//fnZc1RAu9iGwWAJsNVdXsrV4bSWEkwpzhl4N6pamzvWNcsuSkVesdfhSIprkx0WC+1LKEJfhVFjb2BsHkpgH9XttiXKI7P4pcamXd6ehwrCeF6x4PXvVUTafKZN6iGU8CGhFmIbmMS1qTrVtV5wiAjx9JHopTTnOGUhWkdY/NpwlU+ioNwdBJAvk3OQwegLr5Gg98R5hkGjrm6DzDtWldC1uXarQv9lES7MUWWoFIJmA2FXU40jNAT29FrvUXaEGS+5+8UC8aYaiAgUPia3Sa73muXsPOCrqWh8NgMDvE60LxrZ7FPuxnxK2q6n1vvghg9b3WIqgvXloGhL1PFLGvnFAa2F3Hva0X7wsF0BqzTfrqpHz+Mm2o+Hjh39AIXxLkIsoLOizl0mske0Foef+XUVWEDBYKSV2YIsqXV3hNbAVzlFIajyAYNJqFsSpQomkHq9yHW0b0hLitam0crz6upoPITjGidCLZnYN26MQijp4Hw==;jmjoThaQ8pRMthGpn7f+Ug=="
 ---

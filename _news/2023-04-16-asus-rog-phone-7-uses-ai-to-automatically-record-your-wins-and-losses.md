@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-15T18:30:00Z
 originalUrl: "https://www.engadget.com/asus-rog-phone-7-ultimate-gaming-phone-pricing-availability-123037730.html"
 webUrl: "https://www.engadget.com/asus-rog-phone-7-ultimate-gaming-phone-pricing-availability-123037730.html"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: YAHOO!News

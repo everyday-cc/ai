@@ -89,6 +89,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 66
+  - title: "Microsoft Adds AI Chatbot to Its SwiftKey Keyboard App"
+    excerpt: "Microsoft has added its BIng AI chatbot to its popular SwiftKey third-party keyboard app for iOS and Android phones, giving users quick access to AI-generated answers and advice."
+    publishedDateTime: 2023-04-15T18:31:00Z
+    webUrl: "https://www.cnet.com/tech/mobile/microsoft-adds-ai-chatbot-to-its-swiftkey-keyboard-app/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 64
   - title: "Improve supply chain security and resiliency with Microsoft"
     excerpt: "The Microsoft Supply Chain Platform was just launched to help companies protect their supply chains against cyber threats."
     publishedDateTime: 2023-04-13T15:00:00Z

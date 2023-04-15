@@ -2,6 +2,248 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-03-26-robots-driverless-trucks-and-chatgpt-are-about-to-blow-up-australias-jobs-market-but-some-workers-have-a-lot-more-to-fear-than-others.md",
+      "title": "Robots, driverless trucks and ChatGPT are about to blow up Australia's jobs market ... but some workers have a lot more to fear than others",
+      "excerpt": "Dr Andrew Miller, who will address the Urban Development Institute's Congress in Perth on Tuesday, said artificial intelligence ... A trial run of driverless trucks in Melbourne last November ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-11893039/ChatGPT-driverless-trucks-robots-technology-change-Australia-blue-collar-workers-safe.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-11893039/ChatGPT-driverless-trucks-robots-technology-change-Australia-blue-collar-workers-safe.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-26T03:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-26-microsoft-reportedly-threatens-to-restrict-search-data-from-rival-ai-tools.md",
+      "title": "Microsoft Reportedly Threatens to Restrict Search Data From Rival AI Tools",
+      "excerpt": "At least two customers have been told their access to Microsoft's internet search index will be cut off if they continue to use it for their AI chatbots, Bloomberg reports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/microsoft-reportedly-threatens-to-restrict-search-data-from-rival-ai-tools",
+      "originalUrl": "https://www.pcmag.com/news/microsoft-reportedly-threatens-to-restrict-search-data-from-rival-ai-tools",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/05PNmVt8nHVpVgrbjZy1kpb-1.fit_lim.size_1200x630.v1679827422.png",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-26T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-26-theres-no-such-thing-as-artificial-intelligence.md",
+      "title": "There's No Such Thing as Artificial Intelligence",
+      "excerpt": "According to its proponents, we will all live in the “metaverse,” build our financial infrastructure on “web3” and power our lives with “artificial intelligence.” All three of these terms are mirages that have raked in billions of dollars ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-03-26/even-with-chat-gpt-4-there-s-no-such-thing-as-artificial-intelligence",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-03-26/even-with-chat-gpt-4-there-s-no-such-thing-as-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iU7LUSykyhPA/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-26T00:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-26-generative-ai-in-the-enterprise-use-cases-early-learnings.md",
+      "title": "Generative AI In The Enterprise - Use Cases & Early Learnings",
+      "excerpt": "GPT becomes an attractive alternative for companies looking to switch their manual call centers into a more responsive, always-on, and more efficient capability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-ai-in-the-enterpriseuse-cases--early-learnings/",
+      "originalUrl": "https://www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-ai-in-the-enterpriseuse-cases--early-learnings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-ai-in-the-enterpriseuse-cases--early-learnings/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-ai-in-the-enterpriseuse-cases--early-learnings/amp/",
+      "publishedDateTime": "2023-03-25T18:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-03-26-artificial-intelligence-ai-in-agriculture-market-latest-growth-research-by-top-players-2023-2028.md",
+      "title": "Artificial Intelligence AI in Agriculture Market: Latest Growth Research by Top Players 2023-2028",
+      "excerpt": "Artificial Intelligence (AI) in Agriculture Market size is being driven by the growing adoption of the robots in agriculture. Increasing consumption and rising requirement of better yield of crops are estimated to be one of the major factors that is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-latest-growth-research-by-top-players-2023-2028-2023-03-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-latest-growth-research-by-top-players-2023-2028-2023-03-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-25T15:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-26-artificial-intelligence-godfather-on-ai-possibly-wiping-out-humanity-its-not-inconceivable.md",
       "title": "Artificial intelligence 'godfather' on AI possibly wiping out humanity: ‘It's not inconceivable’",
       "excerpt": "Geoffrey Hinton, a computer scientist who has been called \"the godfather of artificial intelligence\", says it is \"not inconceivable\" that AI may develop to the point where it poses a threat to humanity. The computer scientist sat down with CBS News this ...",
@@ -948,249 +1190,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying.md",
-      "title": "Bill Gates's Open Letter Suggests AI's Potential Is Both Exciting And Terrifying",
-      "excerpt": "Its 30% increase in share price since the start of the year is also likely boosted by its acquisition of AI healthcare company Caption Health. Chip company Nvidia, which is announcing AI partnerships all over the place at the moment, is now collaborating ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/03/24/bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/03/24/bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641dd727f27107071e4ff5b1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/03/24/bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/03/24/bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying/amp/",
-      "publishedDateTime": "2023-03-24T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-can-pepper-content-save-the-creator-economy-from-the-ai-monster.md",
-      "title": "Can Pepper Content Save The Creator Economy From The AI Monster?",
-      "excerpt": "Pepper Content's new content marketing platform incorporates generative AI rather than seeking to compete with it",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidprosser/2023/03/24/can-pepper-content-save-the-creator-economy-from-the-ai-monster/",
-      "originalUrl": "https://www.forbes.com/sites/davidprosser/2023/03/24/can-pepper-content-save-the-creator-economy-from-the-ai-monster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641b4ba8bc846d86cd161d37/0x0.jpg?format=jpg&crop=1616,757,x0,y282,safe&width=1200",
-          "width": 1200,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2023/03/24/can-pepper-content-save-the-creator-economy-from-the-ai-monster/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/03/24/can-pepper-content-save-the-creator-economy-from-the-ai-monster/amp/",
-      "publishedDateTime": "2023-03-24T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-trump-arrested-putin-jailed-fake-ai-images-spread-online.md",
-      "title": "Trump arrested? Putin jailed? Fake AI images spread online",
-      "excerpt": "He even stated clearly in his Twitter thread that the images were AI-generated. Still, the images were enough ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/atlanta/news/trump-arrested-putin-jailed-fake-ai-images-spread-online/",
-      "originalUrl": "https://www.cbsnews.com/atlanta/news/trump-arrested-putin-jailed-fake-ai-images-spread-online/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/24/f9534e5d-eaf7-482d-ad18-5ec6fb9c6f99/thumbnail/1200x630/1c0c350325c27fbf196c9fc67af86a45/ap23082535352740.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/atlanta/news/trump-arrested-putin-jailed-fake-ai-images-spread-online/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/atlanta/news/trump-arrested-putin-jailed-fake-ai-images-spread-online/",
-      "publishedDateTime": "2023-03-24T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-ai-in-computer-vision-market-global-various-tendencies-industry-report-2029.md",
-      "title": "AI in Computer Vision Market | Global Various Tendencies Industry Report 2029",
-      "excerpt": "Mar 24, 2023 (The Expresswire) -- [112+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “AI in Computer Vision Market” Size 2023 Key players Profiled in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-global-various-tendencies-industry-report-2029-2023-03-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-global-various-tendencies-industry-report-2029-2023-03-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-24T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more.md",
-      "title": "Microsoft unveils plans to use AI feature in Outlook, Excel and more",
-      "excerpt": "On the other hand, AI critics worry it will bring more harm ... and perform a wide range of language-related tasks such as language translation, text summarization [and] sentiment analysis.”",
-      "sourceUrl": null,
-      "webUrl": "https://wgntv.com/news/nexstar-media-wire/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/",
-      "originalUrl": "https://wgntv.com/news/nexstar-media-wire/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wgntv.com/wp-content/uploads/sites/5/2023/03/computer-software-best-microsoft-365-products-1.jpg?w=1280",
-          "width": 760,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wgntv.com/news/nexstar-media-wire/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/",
-      "cdnAmpWebUrl": "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/nexstar-media-wire/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/",
-      "publishedDateTime": "2023-03-24T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGN-TV",
-        "domain": "wgntv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

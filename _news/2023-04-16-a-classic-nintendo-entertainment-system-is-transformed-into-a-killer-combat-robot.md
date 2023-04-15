@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-15T18:00:00Z
 originalUrl: "https://geektyrant.com/news/a-classic-nintendo-entertainment-system-is-transformed-into-a-combat-robot"
 webUrl: "https://geektyrant.com/news/a-classic-nintendo-entertainment-system-is-transformed-into-a-combat-robot"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: GeekTyrant

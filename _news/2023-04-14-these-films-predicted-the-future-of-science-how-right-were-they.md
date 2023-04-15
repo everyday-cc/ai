@@ -31,32 +31,16 @@ images:
     isCached: true
 
 related:
-  - title: "These films predicted the future of science. How right were they?"
-    excerpt: "\"As audiences, we love both optimistic and pessimistic science-fiction films.\" Lisa Yaszek, professor at Georgia Tech."
-    publishedDateTime: 2023-04-14T17:13:00Z
-    webUrl: "https://www.cbsnews.com/atlanta/news/these-films-predicted-the-future-of-science-how-right-were-they/"
-    ampWebUrl: "https://www.cbsnews.com/amp/atlanta/news/these-films-predicted-the-future-of-science-how-right-were-they/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/atlanta/news/these-films-predicted-the-future-of-science-how-right-were-they/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 44
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/14/2c9b00cc-8fc4-4b81-9cb4-1725619f228f/thumbnail/1200x630/4b1e2fcfc70cc6ea9999adceb18a60ff/hypatia-h-304c049b19523c5d188b817b7050d8f1-h-5d7249b870670b58b4a20842e2846e69.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "A few classic films made predictions about the science of the future. A few got it eerily right"
     excerpt: "Here's what some notable films get right about science and tech — and what's still the stuff of science fiction."
     publishedDateTime: 2023-04-15T01:05:00Z
-    webUrl: "https://www.kcra.com/article/films-predictions-science-future/43605947"
-    ampWebUrl: "https://www.kcra.com/amp/article/films-predictions-science-future/43605947"
-    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/films-predictions-science-future/43605947"
+    webUrl: "https://www.wlwt.com/article/films-predictions-science-future/43605947"
+    ampWebUrl: "https://www.wlwt.com/amp/article/films-predictions-science-future/43605947"
+    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/films-predictions-science-future/43605947"
     type: article
     provider:
-      name: kcra.com
-      domain: kcra.com
+      name: WLWT
+      domain: wlwt.com
     quality: 32
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-304c049b19523c5d188b817b7050d8f1-h-5d7249b870670b58b4a20842e2846e69-preview-1681515605861422540.JPG?crop=0.99555555555555553xw:1xh;center,top&resize=1200:*"
@@ -91,6 +75,15 @@ related:
         width: 500
         height: 280
         isCached: true
+  - title: "These films predicted the future of science. How right were they?"
+    excerpt: "Films such as \"Gattaca,\" \"Her\" and even \"M3GAN\" have predicted what our future might look like if developments in genetic editing and AI accelerate. Here's what those films get right — and what's still the stuff of science fiction."
+    publishedDateTime: 2023-04-14T20:03:00Z
+    webUrl: "https://www.cbsnews.com/detroit/news/these-films-predicted-the-future-of-science-how-right-were-they/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 4
 
 secured: "xZSjsm/GgdxlsbfZjzQgEAZkfYeqMNtE8BZdsGmpVcC1fgtkwU4zoGzTrExiCFIPn7PBMaP6ErhcVzAopEuYbcJrrqultq4CQL5THEuDV+llLuVwdxCwFeh76qgncBU6hLLJPlFX9AM3eMtk/Vywujpa8YYVE18v5UO4geODkW2+9ceGUorwAvLgg2Jmx+lOag2jB9epPNl6515SzaKSMH67g6f8mLXV0wa110z1M9UKMGix2owaVgrUFaYhDO4kI9hSHWxKxED2xcFs8SPZg22hZ0YItL177j0u9fgDHvMG/DxOIlHS4FuWj7VSI/dIemV4RVdZgkw/Pk3qRAObJYVkOItoxjjt8gJb3XL29yKsBgwyt9oYK2iKCHc3+7EY5SD01CZEBoF0bJAaivx5olYEiyNPgA0UoScHgejN0vno79RDFtHwbZeMLOVdEeUOGmEMZTJrxr/BwZjeKdGsNVNXdydp+cOCVgRt2aWhay/ZejWsrZWfEAI7MAQ7ceN3VquG0Urwfdlx+wgEFaNupA==;Wxm96TDClAooLRxh91iJaw=="
 ---

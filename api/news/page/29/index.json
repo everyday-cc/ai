@@ -2,6 +2,247 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2023-03-16-characterizing-abnormal-neural-networks-in-dogs-with-anxiety.md",
+      "title": "Characterizing abnormal neural networks in dogs with anxiety",
+      "excerpt": "Researchers at Ghent University in Belgium report abnormalities in functional neural networks of dogs diagnosed with anxiety. Led by Yangfeng Xu (Ghent Experimental Psychiatry Lab, GHEP ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-03-characterizing-abnormal-neural-networks-dogs.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-03-characterizing-abnormal-neural-networks-dogs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/characterizing-abnorma.jpg",
+          "width": 1221,
+          "height": 486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-03-characterizing-abnormal-neural-networks-dogs.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-03-characterizing-abnormal-neural-networks-dogs.amp",
+      "publishedDateTime": "2023-03-16T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-ways-generative-ai-could-revolutionize-your-customer-experience.md",
+      "title": "Ways Generative AI Could Revolutionize Your Customer Experience",
+      "excerpt": "Be aware of potential pitfalls and take steps to ensure you don’t fall into them while taking a proactive, responsible approach to leveraging this technology and minimizing the risks of unintended consequences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-generative-ai-could-revolutionize-your-customer-experience/",
+      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-generative-ai-could-revolutionize-your-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64122de1eba4a8992dc2ecb2/0x0.jpg?format=jpg&width=1200",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-generative-ai-could-revolutionize-your-customer-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-generative-ai-could-revolutionize-your-customer-experience/amp/",
+      "publishedDateTime": "2023-03-16T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-artificial-intelligence-isnt-close-to-becoming-sentient.md",
+      "title": "Artificial intelligence isn't close to becoming sentient",
+      "excerpt": "Chatbots like ChatGPT raise important new questions about how artificial intelligence will shape our lives and about ... rather than the machines' actual personhood. In Japan, where robots are regularly used for elder care, seniors become attached to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/",
+      "originalUrl": "https://www.upi.com/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/5211678968643/2023/1/db4c392242fd2b808f2c372be5b16d03/v1.5/Artificial-intelligence-isnt-close-to-becoming-sentient.jpg",
+          "width": 1018,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/",
+      "publishedDateTime": "2023-03-16T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-how-ai-transforms-social-media.md",
+      "title": "How AI Transforms Social Media",
+      "excerpt": "From automatic content moderation and personalized recommendations to the ads we watch and beyond, AI is reshaping the way we interact and connect online.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/16/how-ai-transforms-social-media/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/16/how-ai-transforms-social-media/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/601c20336927340c1d155f1f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/16/how-ai-transforms-social-media/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/16/how-ai-transforms-social-media/amp/",
+      "publishedDateTime": "2023-03-16T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-chinese-chatgpt-rival-from-search-engine-firm-baidu-fails-to-impress.md",
+      "title": "Chinese ChatGPT rival from search engine firm Baidu fails to impress",
+      "excerpt": "Shares plummet after Ernie Bot AI chatbot software falls short of expectations at unveiling in Beijing",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2023/mar/16/chinese-chatgpt-rival-search-engine-baidu-fails-impress-ernie-bot",
+      "originalUrl": "https://www.theguardian.com/world/2023/mar/16/chinese-chatgpt-rival-search-engine-baidu-fails-impress-ernie-bot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0209d24d907d590683525baf67c2ae0227f84a19/0_133_8640_5184/master/8640.jpg?width=620&quality=85&auto=format&fit=max&s=0c7d2efda77632034855bc93dfde54df",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2023/mar/16/chinese-chatgpt-rival-search-engine-baidu-fails-impress-ernie-bot",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/mar/16/chinese-chatgpt-rival-search-engine-baidu-fails-impress-ernie-bot",
+      "publishedDateTime": "2023-03-16T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-artificial-intelligence-will-replace-work-jerks-people-skills-will-become-more-important.md",
       "title": "Artificial intelligence will replace work jerks. People skills will become more important.",
       "excerpt": "An envelope. It indicates the ability to send an email. An curved arrow pointing right. It's almost the weekend, pals. I'm Diamond Naga Siu, and I watch about one movie per year. Last year was \"Bullet Train.\" This year, it was \"Everything Everywhere, All ...",
@@ -983,249 +1224,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-ai-image-tool-midjourney-launches-magazine.md",
-      "title": "AI-Image Tool Midjourney Launches Magazine",
-      "excerpt": "Midjourney, one of the many artificial intelligence-driven image creation companies to crop up in the past six months, announced plans on Wednesday to launch a magazine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/",
-      "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64122c70b27b32a60e216cc1/0x0.jpg?format=jpg&crop=1600,900,x0,y82,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/amp/",
-      "publishedDateTime": "2023-03-15T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-machine-learning-as-a-service-mlaas-market-share-segmentation-and-forecast-2023-2029.md",
-      "title": "Machine Learning as a Service (MLaaS) Market Share, Segmentation and Forecast 2023-2029",
-      "excerpt": "There are many different sources of market data, including government statistics, industry reports, financial news, and market research firms. Some of the key types of data that are available from the global Machine Learning as a Service (MLaaS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-share-segmentation-and-forecast-2023-2029-2023-03-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-share-segmentation-and-forecast-2023-2029-2023-03-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 208,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-how-wired-will-use-generative-ai-tools.md",
-      "title": "How WIRED Will Use Generative AI Tools",
-      "excerpt": "We may experiment with using AI as a research or analytical tool. The current generation of AI chatbots that Google and Microsoft are adding to their search engines answer questions by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/about/generative-ai-policy/",
-      "originalUrl": "https://www.wired.com/about/generative-ai-policy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63fff93482f5460a73e0eb93/191:100/w_1280,c_limit/Computer_Hands_FINAL.png",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-could-ai-powered-object-recognition-technology-help-solve-wheat-disease.md",
-      "title": "Could AI-powered object recognition technology help solve wheat disease?",
-      "excerpt": "URBANA, Ill. – A new University of Illinois project is using advanced object recognition technology to keep toxin-contaminated wheat kernels out of the food supply and to help researchers make ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/982901",
-      "originalUrl": "https://www.eurekalert.org/news-releases/982901",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/676f5a93-24e3-4737-8dd4-9ab5b4ffcaca/Rendition/thumbnail/Content/Public",
-          "width": 300,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T11:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-bring-legacy-machine-learning-code-into-amazon-sagemaker-using-aws-step-functions.md",
-      "title": "Bring legacy machine learning code into Amazon SageMaker using AWS Step Functions",
-      "excerpt": "Tens of thousands of AWS customers use AWS machine learning (ML) services to accelerate their ML development with fully managed infrastructure and tools. For customers who have been developing ML models on premises, such as their local desktop, they want to migrate their legacy ML models to the AWS Cloud",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bring-legacy-machine-learning-code-into-amazon-sagemaker-using-aws-step-functions/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bring-legacy-machine-learning-code-into-amazon-sagemaker-using-aws-step-functions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T11:32:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-15T17:30:00Z
 originalUrl: "https://www.smh.com.au/politics/federal/from-the-beginning-i-felt-the-power-of-this-thing-one-man-s-epic-journey-for-recognition-20230413-p5d09r.html"
 webUrl: "https://www.smh.com.au/politics/federal/from-the-beginning-i-felt-the-power-of-this-thing-one-man-s-epic-journey-for-recognition-20230413-p5d09r.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Sydney Morning Herald

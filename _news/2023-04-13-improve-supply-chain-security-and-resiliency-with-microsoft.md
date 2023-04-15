@@ -88,6 +88,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 66
+  - title: "Microsoft Adds AI Chatbot to Its SwiftKey Keyboard App"
+    excerpt: "Microsoft has added its BIng AI chatbot to its popular SwiftKey third-party keyboard app for iOS and Android phones, giving users quick access to AI-generated answers and advice."
+    publishedDateTime: 2023-04-15T18:31:00Z
+    webUrl: "https://www.cnet.com/tech/mobile/microsoft-adds-ai-chatbot-to-its-swiftkey-keyboard-app/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 64
   - title: "Microsoft integrates Bing's AI into Swiftkey, Skype, Start apps"
     excerpt: "After launching the new Bing experience earlier this year, Microsoft has been trying to bring the search engine's AI features to its products."
     publishedDateTime: 2023-04-14T06:11:00Z

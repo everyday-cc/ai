@@ -2,6 +2,40 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-02-07-tracking-generative-ai-how-evolving-ai-models-are-impacting-legal.md",
+      "title": "Tracking Generative AI: How Evolving AI Models Are Impacting Legal",
+      "excerpt": "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond.",
+      "sourceUrl": null,
+      "webUrl": "https://www.law.com/legaltechnews/2023/02/06/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/",
+      "originalUrl": "https://www.law.com/legaltechnews/2023/02/06/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T15:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law",
+        "domain": "law.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-google-hopes-bard-will-outsmart-chatgpt-microsoft-in-ai.md",
       "title": "Google hopes 'Bard' will outsmart ChatGPT, Microsoft in AI",
       "excerpt": "ARTIFICIAL INTELLIGENCE IS SHAKING UP THE WAY WE CREATE ART ... TEACHERS ARE CONCERNED ABOUT PLAGIARISM AND THE ETHICS OF LETTING A COMPUTER DO THE TYPING AND THE THINKING. A COMPUTER SCIENCE STUDENT AT PRINCETON UNIVERSITY BELIEVES HE HAS A SOLUTION.",
@@ -1260,49 +1294,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-31-turbohire-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "TurboHire now available in the Microsoft Azure Marketplace",
-      "excerpt": "TurboHire now available in the Microsoft Azure Marketplace - Recruitment automation platform TurboHire announced its availabilityin the Microsoft Azure Marketplace, an",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconindia.com/news/general/turbohire-now-available-in-the-microsoft-azure-marketplace-nid-221162-cid-1.html",
-      "originalUrl": "https://www.siliconindia.com/news/general/turbohire-now-available-in-the-microsoft-azure-marketplace-nid-221162-cid-1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconindia.com/news/newsimages/lu6SWt4r.jpg",
-          "width": 570,
-          "height": 367,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-31T01:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconIndia",
-        "domain": "siliconindia.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

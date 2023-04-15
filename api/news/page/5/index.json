@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-04-07-why-ai-might-not-take-your-job-or-supercharge-the-economy.md",
+      "title": "Why A.I. Might Not Take Your Job or Supercharge the Economy",
+      "excerpt": "We also discuss my mixed feelings about the calls to “pause” A.I. development, why I’m less worried about rogue A.I. systems than the incentives of the companies and countries developing A.I., the need for a “public vision” for A.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/04/07/opinion/ezra-klein-podcast-ama-april2023.html",
+      "originalUrl": "https://www.nytimes.com/2023/04/07/opinion/ezra-klein-podcast-ama-april2023.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-07-the-worlds-first-self-driving-bus-fleet-will-soon-hit-scotlands-streets.md",
+      "title": "The world’s first self-driving bus fleet will soon hit Scotland’s streets",
+      "excerpt": "The UK government said the project, named CAVForth, would be the world’s first full-size, self-driving public bus service. CAV stands for “connected and autonomous vehicles.”",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/the-worlds-first-self-driving-bus-fleet-will-soon-hit-scotlands-streets",
+      "originalUrl": "https://thenextweb.com/news/the-worlds-first-self-driving-bus-fleet-will-soon-hit-scotlands-streets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F04%2Fself-driving-scotland-bus-autonomous.jpg&signature=848ecfdba9f8101314effb674005c47e",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-07-webgpu-is-coming-to-supercharge-chrome-for-3d-gaming-and-3x-faster-ai-performance.md",
       "title": "WebGPU Is Coming To Supercharge Chrome For 3D Gaming And 3X Faster AI Performance",
       "excerpt": "Google is currently testing a Chrome browser API that promises to open up 'a new dawn for web graphics' as well as give AI a serious kick in the pants.",
@@ -880,83 +975,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-techsee-announces-new-multi-sensory-ai-for-service-automation-built-on-integration-between-openais-chatgpt-and-techsees-computer-vision-ai.md",
-      "title": "TechSee Announces New Multi-Sensory AI For Service Automation Built on Integration between OpenAI's ChatGPT and TechSee's Computer Vision AI",
-      "excerpt": "The integration of Computer Vision AI and Conversational Al will empower organizations to offer full service automation across all digital",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/techsee-announces-new-multi-sensory-ai-for-service-automation-built-on-integration-between-openai-s-chatgpt-and-techsee-s-computer-vision-ai-1032219428",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/techsee-announces-new-multi-sensory-ai-for-service-automation-built-on-integration-between-openai-s-chatgpt-and-techsee-s-computer-vision-ai-1032219428",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-nvidias-h100-hopper-gpu-sweeps-mlperf-ai-inference-tests-with-huge-performance-uplift.md",
-      "title": "NVIDIA's H100 Hopper GPU Sweeps MLPerf AI Inference Tests With Huge Performance Uplift",
-      "excerpt": "The new GPU is based on NVIDIA's Hopper architecture and features a Transformer Engine design. \"The next level of Generative AI requires new AI infrastructure to train large language models with ...",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/nvidias-h100-hopper-gpu-sweeps-mlperf-ai-inference-tests-with-huge-performance-uplift",
-      "originalUrl": "https://hothardware.com/news/nvidias-h100-hopper-gpu-sweeps-mlperf-ai-inference-tests-with-huge-performance-uplift",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

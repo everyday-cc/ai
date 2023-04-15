@@ -405,6 +405,24 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "Musk Starts New Company, X.AI, Amid Talk of Artificial Intelligence Venture"
+    excerpt: "The billionaire owner of Tesla and Twitter is named as a director in a business-incorporation document filed in March for a new company called X.ai Corp. Web domains using the “.ai” suffix — formally the “top-level” domain for the country of Anguilla — are popular with tech businesses pursuing artificial intelligence projects."
+    publishedDateTime: 2023-04-15T19:09:00Z
+    webUrl: "https://www.barrons.com/articles/elon-musk-twitter-x-ai-bec69eab?refsec=hp_INTERESTS_media"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 30
+  - title: "Elon Musk Starts New Company, X.AI, Amid Talk of Artificial Intelligence Venture"
+    excerpt: "Web domains using the “.ai” suffix are popular with tech businesses pursuing artificial intelligence projects."
+    publishedDateTime: 2023-04-15T19:09:00Z
+    webUrl: "https://www.barrons.com/articles/elon-musk-twitter-x-ai-bec69eab"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 27
   - title: "Elon Musk reportedly plans AI start-up to rival ChatGPT-maker OpenAI"
     excerpt: "Musk is reportedly in talks with existing SpaceX and Tesla investors regarding investments in the upcoming AI venture"
     publishedDateTime: 2023-04-15T04:24:00Z

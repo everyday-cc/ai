@@ -65,6 +65,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Dubai tests self-driving taxis"
+    excerpt: "Dubai’s Roads and Transport Authority (RTA) and Cruise have begun testing and data collection for self-driving cars in the city. The RTA announced it is collecting data and testing technology for Dubai’s traffic signals, signage, and drivers ..."
+    publishedDateTime: 2023-04-15T08:46:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/transport/dubai-tests-self-driving-taxis"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 19
 
 secured: "GHRZ1lNTOMFCUIrCbZMTKFEwm+ThieAI95ZmuFp0ICxmWhLgPkD4TR0G/ZbyKR0xJZSr2v4oSsHYgFrXUT0wPPQeLmaqknGrK6iWUl8gDp68HqOmwbB5dEBU1UZTx5jrd3qQG+vw1nwzcpWNlHCo1rfZ6FUqrHtFKte5ZtqP4YAGYWDgWLOy9djM+27WvzcSJwXfdwxYQUMW20RKK29rotqjL2qH4D7/aaEemP7yV5VuyxNyk3CgdxnRovQMb5ohrOpp+pi4rynOEdEx+imNuvagCtWZmiflndLVH5uEAzabtAuw4DeoQSafX24PrtKMxn2vGLFygJhFMkA5ugmu4K5LaUj+InoaBf57SS4c/ojKFkQXFxkY9Er5Wlq/xB4FXiT4Cv/9TrjozRXGTJYRaFFmfK6q8KCy78H4LFZtXEkIG0Al6lWIvzuicwB8gyr+0sBNuTySrmoNJuWukZyDWcLCJwtFMQJaj/P10HKVarH/+Mp7eHp7ftcCxb46lYL69k2ouFydJJbtFuoUkL41EA==;9IM+6vlNpCI0G+wCKcJWaA=="
 ---

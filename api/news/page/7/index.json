@@ -2,6 +2,92 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-04-06-police-under-pressure-to-ban-face-recognition-tech-after-multiple-mistakes.md",
+      "title": "Police Under Pressure to Ban Face Recognition Tech After Multiple Mistakes",
+      "excerpt": "What he didn't know was that the detectives accusing him of stealing watches from a Shinola store in 2018 were doing so because of an erroneous hit using facial recognition technology. Detroit ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/police-under-pressure-ban-facial-recognition-technology-1792740",
+      "originalUrl": "https://www.newsweek.com/police-under-pressure-ban-facial-recognition-technology-1792740",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2217819/police-under-pressure-ban-face-recognition.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/police-under-pressure-ban-facial-recognition-technology-1792740",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/police-under-pressure-ban-facial-recognition-technology-1792740",
+      "publishedDateTime": "2023-04-06T00:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-dubais-jumeirah-first-to-have-driverless-taxis-for-public-use-by-end-of-2023.md",
+      "title": "Dubai’s Jumeirah first to have driverless taxis for public use by end of 2023",
+      "excerpt": "The work being done will ensure Cruise’s advanced generalisable AI (artificial intelligence) and autonomous driving ... meaning commuters will enjoy riding a driverless taxi when they go to La Mer Beach, Mercato Mall, Coca Cola Arena, City Walk, Galleria ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/business/transport-and-logistics/dubais-jumeirah-first-to-have-driverless-taxis-for-public-use-by-end-of-2023-hi3b50z6",
+      "originalUrl": "https://www.zawya.com/en/business/transport-and-logistics/dubais-jumeirah-first-to-have-driverless-taxis-for-public-use-by-end-of-2023-hi3b50z6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T20:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-06-meta-to-launch-generative-ai-for-creating-ads-this-year-report.md",
       "title": "Meta to Launch Generative AI for Creating Ads This Year: Report",
       "excerpt": "In a recent interview, Meta’s chief technology officer Andrew Bosworth claimed the company is a generative AI research and development leader. Meta began studying AI in 2013 and has reportedly published dozens of studies in the field,",
@@ -456,6 +542,58 @@
       ]
     },
     {
+      "path": "_news/2023-04-06-generative-ais-drawbacks-ip-to-ethics.md",
+      "title": "Generative AI’s Drawbacks: IP to Ethics",
+      "excerpt": "Generative AI is generating deafening hype yet there are considerable downsides to using these emerging AI platforms, from ethics to IP issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/drawbacks-of-generative-ai/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/drawbacks-of-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/02/data-analytics-concept.jpg",
+          "width": 1400,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-06-meta-reveals-ai-tool-to-help-brands-target-facebook-instagram-users.md",
       "title": "Meta Reveals AI Tool to Help Brands Target Facebook, Instagram Users",
       "excerpt": "Meta’s recent embrace of AI is only growing, with new plans for generative ads—and Meta’s CTO thinks AI will help power the metaverse, too.",
@@ -821,127 +959,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-scott-reeder-artificial-intelligence-daunting-but-has-a-ways-to-go.md",
-      "title": "Scott Reeder | Artificial intelligence daunting but has a ways to go",
-      "excerpt": "Truck drivers may soon face a similar threat as artificial intelligence is perfected and self-driving vehicles become commonplace. I was reading a Wall Street Journal article that said the future of truck stops is imperiled.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-gazette.com/opinion/columns/scott-reeder-artificial-intelligence-daunting-but-has-a-ways-to-go/article_46570be0-2f50-5820-9ca2-19f08d4e46fa.html",
-      "originalUrl": "https://www.news-gazette.com/opinion/columns/scott-reeder-artificial-intelligence-daunting-but-has-a-ways-to-go/article_46570be0-2f50-5820-9ca2-19f08d4e46fa.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The News-Gazette",
-        "domain": "news-gazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-ai-chip-race-google-says-its-tensor-chips-compute-faster-than-nvidias-a100.md",
-      "title": "AI chip race: Google says its Tensor chips compute faster than Nvidia's A100",
-      "excerpt": "Google says its fourth generation Tensor chip is better than Nvidia's A100 at computing and is twice as energy efficient",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/innovation/google-faster-greener-supercomputer",
-      "originalUrl": "https://interestingengineering.com/innovation/google-faster-greener-supercomputer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-artificial-intelligence-in-accounting-market-business-overview-2023-and-forecast-to-2030-microsoft-aws-xero-intuit.md",
-      "title": "Artificial Intelligence in Accounting Market Business Overview 2023, and Forecast to 2030 | Microsoft, AWS, Xero, Intuit",
-      "excerpt": "Artificial Intelligence in Accounting Market is growing at a High CAGR during the forecast period 2023-2030. The increasing interest of the individuals in this industry is the major reason for the expansion of this market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-business-overview-2023-and-forecast-to-2030-microsoft-aws-xero-intuit-2023-04-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-business-overview-2023-and-forecast-to-2030-microsoft-aws-xero-intuit-2023-04-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T02:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -278,6 +278,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-14-the-transformative-power-of-ai-in-healthcare.md",
+      "title": "The transformative power of AI in healthcare",
+      "excerpt": "Kirsty Biddiscombe, UK Head for AI, ML & Analytics at NetApp, discusses the transformative power of AI in healthcare",
+      "sourceUrl": null,
+      "webUrl": "https://www.openaccessgovernment.org/ai-in-healthcare-automation-patient-therapy/157500/",
+      "originalUrl": "https://www.openaccessgovernment.org/ai-in-healthcare-automation-patient-therapy/157500/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.openaccessgovernment.org/wp-content/uploads/2023/04/Kirsty_Biddiscombe_HeadShoulder.png",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T01:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openaccessgovernment",
+        "domain": "openaccessgovernment.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-10-shanghai-opens-first-industrial-park-dedicated-to-cell-and-gene-therapy.md",
       "title": "Shanghai opens first industrial park dedicated to cell and gene therapy",
       "excerpt": "The city's first dedicated industrial park for cell and gene therapy will be unveiled later this year in the latest bid to implement Shanghai's three-year action plan for the booming sector. The Shanghai International Medical Zone,",
@@ -1294,49 +1337,6 @@
         "AI Ethics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-ai-prediction-tool-identifies-chemotherapy-drug-toxicity-risk.md",
-      "title": "AI Prediction Tool Identifies Chemotherapy Drug Toxicity Risk",
-      "excerpt": "To further improve and refine prediction, the researchers incorporated artificial intelligence (AI ... This may enable more personalization of cancer therapy and minimize toxicity for patients. If leveraged in the clinical setting, a risk-scoring tool ...",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/ai-prediction-tool-identifies-chemotherapy-drug-toxicity-risk",
-      "originalUrl": "https://healthitanalytics.com/news/ai-prediction-tool-identifies-chemotherapy-drug-toxicity-risk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/sized/GettyImages-852404126-e4b00c1efb9503a805928b101c78b499.jpg",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/ai-prediction-tool-identifies-chemotherapy-drug-toxicity-risk",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/ai-prediction-tool-identifies-chemotherapy-drug-toxicity-risk",
-      "publishedDateTime": "2023-03-27T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

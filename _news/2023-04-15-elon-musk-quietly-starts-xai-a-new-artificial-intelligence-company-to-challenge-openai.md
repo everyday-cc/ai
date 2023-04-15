@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artif
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artificial-intelligence-company-to-challenge-openai/amp/"
 type: article
 quality: 95
-heat: 397
+heat: 417
 published: true
 
 provider:
@@ -402,6 +402,24 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "Musk Starts New Company, X.AI, Amid Talk of Artificial Intelligence Venture"
+    excerpt: "The billionaire owner of Tesla and Twitter is named as a director in a business-incorporation document filed in March for a new company called X.ai Corp. Web domains using the “.ai” suffix — formally the “top-level” domain for the country of Anguilla — are popular with tech businesses pursuing artificial intelligence projects."
+    publishedDateTime: 2023-04-15T19:09:00Z
+    webUrl: "https://www.barrons.com/articles/elon-musk-twitter-x-ai-bec69eab?refsec=hp_INTERESTS_media"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 30
+  - title: "Elon Musk Starts New Company, X.AI, Amid Talk of Artificial Intelligence Venture"
+    excerpt: "Web domains using the “.ai” suffix are popular with tech businesses pursuing artificial intelligence projects."
+    publishedDateTime: 2023-04-15T19:09:00Z
+    webUrl: "https://www.barrons.com/articles/elon-musk-twitter-x-ai-bec69eab"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 27
   - title: "Elon Musk plans AI startup to rival ChatGPT-maker OpenAI: Report"
     excerpt: "Twitter-owner Musk is assembling a team of AI researchers and engineers, according to the FT report, and is also in discussions with some investors in SpaceX and Tesla Inc about putting money into his new venture."
     publishedDateTime: 2023-04-15T12:12:00Z

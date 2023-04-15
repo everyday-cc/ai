@@ -7,8 +7,8 @@ originalUrl: "https://www.openaccessgovernment.org/ai-in-healthcare-automation-p
 webUrl: "https://www.openaccessgovernment.org/ai-in-healthcare-automation-patient-therapy/157500/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: openaccessgovernment
@@ -34,6 +34,15 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 51
+  - title: "Duke Health Announces AI-Driven Healthcare Transformation Collab"
+    excerpt: "Duke Health and SAS aim to develop cloud-based and artificial intelligence-powered healthcare solutions under a new collaboration."
+    publishedDateTime: 2023-04-13T13:36:00Z
+    webUrl: "https://healthitanalytics.com/news/duke-health-announces-ai-driven-healthcare-transformation-collab"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 34
 
 secured: "VTG20M+T831jC8VE/LKeWxkdMBrCzItF3uTC1mr8Mmv/PkSYlpwdtr8OmyjG1D4mSvnKxzpJIeMMatcblGy1B/+lzhiVYnz4UWtHLcLFRKGSpEnaosaJ9Xk084wWEiCA03fC4v6MtKID9LdoQegogGlRW7JzzerlHAIZO+n6c4owOzcYJ6kaFgDL8o37kCkbsGVHk3Bl6M3Yt1xDYti1T5yDiYUOvid8MaK/eQ3VK7qqUNOrdquh60LQW9mXh7RL4hmDUCDBzDCdOw0jaZKmHVDP1W7CAS5SxPBfK/tXQOGoqQ11geEArc1pYAO5bnGfNOdv3xd2bKEWEJg0IqY/Q9NTo+lFd3i2M8d7hgiMFj8=;2t0ujrpfFuP0va7DJZQufw=="
 ---

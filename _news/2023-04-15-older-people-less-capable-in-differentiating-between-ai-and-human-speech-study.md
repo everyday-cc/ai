@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/lifestyle/2418278-older-people-
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/lifestyle/2418278-older-people-less-capable-in-differentiating-between-ai-and-human-speech-study?amp"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1280
     height: 960
     isCached: true
+
+related:
+  - title: "Older people less capable in differentiating between AI and human speech: Study"
+    excerpt: "According to a recent Baycrest study older persons tend to be less capable than their younger counterparts to distinguish between computer-generated AI speec"
+    publishedDateTime: 2023-04-15T18:08:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273748015/older-people-less-capable-in-differentiating-between-ai-and-human-speech-study"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 15
 
 secured: "nH3q6v+d1lO7Ii466qQTlHBYJZvIYxO8JqrXQPoOxL/96KoEWKIaLJlriIlWw6lhbvXqMN4MGLgnJYkp+HtFp3qLfjPCrlJalFkOTRSqMyflc1aVGaSiiXKbEgo9QcsEJE+ag7C8UI6+JZ4rG4jGu+WdBcjHpbfQQ5sQLGVxgP8Nz9AWZF5indfULjJXFSkVnqthGFhpQ2ECvn8inr9+cAcHqUgcAReX7NiJWBbwB8fe+PO/rv2bvFmbpQSsuXiuh2GdqMry3o5LaCK4nLZxH6SoT4ND7gmJd/19oxhNHRmB0RkM/Gh+6ZTEzPW3i1sebzUraCjCw6reivZGbEwLRYCmqJkIcTbafvP55KrnOGU=;eqYdA8OatzAkxMUaY8j37g=="
 ---

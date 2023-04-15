@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-04-decoding-insomnia-machine-dis
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-04-decoding-insomnia-machine-disorders-patient.amp"
 type: article
 quality: 51
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning IDs Factors Predicting Risk for Sleep Disorder Diagnosis"
+    excerpt: "Machine learning models can effectively predict risk for a sleep disorder using demographic, laboratory, physical exam, and lifestyle covariates, according to a study"
+    publishedDateTime: 2023-04-14T15:27:00Z
+    webUrl: "https://www.stltoday.com/lifestyles/health-med-fit/machine-learning-ids-factors-predicting-risk-for-sleep-disorder-diagnosis/article_ed06f613-9bab-5ef1-b94c-357ebb531360.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 38
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/6/a7/6a772a8e-58de-58aa-a246-4394fbc4ad7e/6439872eb4ab1.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Machine Learning IDs Factors Predicting Risk for Sleep Disorder Diagnosis"
     excerpt: "Machine learning models can effectively predict risk for a sleep disorder using demographic, laboratory, physical exam, and lifestyle covariates, according to a study"
     publishedDateTime: 2023-04-14T17:17:00Z

@@ -3,18 +3,18 @@ category: news
 title: "A few classic films made predictions about the science of the future. A few got it eerily right"
 excerpt: "Here's what some notable films get right about science and tech — and what's still the stuff of science fiction."
 publishedDateTime: 2023-04-15T01:05:00Z
-originalUrl: "https://www.kcra.com/article/films-predictions-science-future/43605947"
-webUrl: "https://www.kcra.com/article/films-predictions-science-future/43605947"
-ampWebUrl: "https://www.kcra.com/amp/article/films-predictions-science-future/43605947"
-cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/films-predictions-science-future/43605947"
+originalUrl: "https://www.wlwt.com/article/films-predictions-science-future/43605947"
+webUrl: "https://www.wlwt.com/article/films-predictions-science-future/43605947"
+ampWebUrl: "https://www.wlwt.com/amp/article/films-predictions-science-future/43605947"
+cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/films-predictions-science-future/43605947"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: kcra.com
-  domain: kcra.com
+  name: WLWT
+  domain: wlwt.com
 
 topics:
   - AI in Healthcare
@@ -42,22 +42,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/230313151717-01-future-tech-films-super-tease.jpeg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "These films predicted the future of science. How right were they?"
-    excerpt: "\"As audiences, we love both optimistic and pessimistic science-fiction films.\" Lisa Yaszek, professor at Georgia Tech."
-    publishedDateTime: 2023-04-14T17:13:00Z
-    webUrl: "https://www.cbsnews.com/atlanta/news/these-films-predicted-the-future-of-science-how-right-were-they/"
-    ampWebUrl: "https://www.cbsnews.com/amp/atlanta/news/these-films-predicted-the-future-of-science-how-right-were-they/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/atlanta/news/these-films-predicted-the-future-of-science-how-right-were-they/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 44
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/14/2c9b00cc-8fc4-4b81-9cb4-1725619f228f/thumbnail/1200x630/4b1e2fcfc70cc6ea9999adceb18a60ff/hypatia-h-304c049b19523c5d188b817b7050d8f1-h-5d7249b870670b58b4a20842e2846e69.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "In predicting the future of science, a few classic films got it eerily right"
     excerpt: "By Scottie Andrew, CNN Great sci-fi films are both fantastical and prescient. They can whisk viewers to a galaxy far, far away or exaggerate real scenarios on a fictionalized version of our planet. Bu"
@@ -87,7 +71,16 @@ related:
         width: 500
         height: 280
         isCached: true
+  - title: "These films predicted the future of science. How right were they?"
+    excerpt: "Films such as \"Gattaca,\" \"Her\" and even \"M3GAN\" have predicted what our future might look like if developments in genetic editing and AI accelerate. Here's what those films get right — and what's still the stuff of science fiction."
+    publishedDateTime: 2023-04-14T20:03:00Z
+    webUrl: "https://www.cbsnews.com/detroit/news/these-films-predicted-the-future-of-science-how-right-were-they/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 4
 
-secured: "KW6dTfEhdb02BEu7Wh/cIfsAGk5uai/hJOpOXDyKcAgaudG55SVSHJEe6NbrVY38/nR7R05HyYq+K9qbmV6jvPIx3iSmaWB17riM2x4NEGrhlzm6STyJrW36FYNZptOFysofaQmOfsjKY95Liq0Fkw4OiIDZPJfrtwig2Q3F5kraz9L6hdnlNZ6IrmVHsvsFAgCN7586ecWNEw9EpmlgFAdb92eCIil+Nt+htrWq0Q/G05JMyWGuC9j4hCi1XFCMX+MLkhj7McjA1y31GkxoQwecubUbsM6V3OqqMQhth8zvYIG/xPtp0izKmm6MP/tRiKTfK3HZXPYVYw2ZRCGr1Q3ML5DRGbec+F+7FKrhhjdVadiGBHHDUwiC+aY50z0f8lr7GF4PUN3uoMMn2u0MISc2RtmaBz41q4kcMOsQeg7lf6LwOSeRPc6RC9SPThg6g5+u6UsLX+Rl0PdDcQ34CxU+DymeSV4XEHdNcx+RT0TzvfuhjZgBdItfqsSA2G+sFwasob/HslsylD/3rslIag==;QnsSQiPS5xQx3F6WDEElog=="
+secured: "KOuG0c6qgFrMXN/rLLk94A/vfbzdNbZt9kGYM1Ka4tj0bJV2qL3P01jvoRtAnHmH60jAATeastI/jH/5cJXv4NdWCAmGZMTiAnNRIB8PgdfmaxecacX65YL4zZ2NUHn2dYNbAb0MP5cNRGuJDPobusI5EvAOzeCVkiW02ebkm0Zoll74mN8c9NVUIGKElWsWt+wYuJu939wt25ELPwSuuDiZ2FVMHrg1CeKHLZfezbbpSobSipRtLKH/kiVj0bqaeZHcjoL1rY25xd7VZIB/dWF6J6RNgBpsXq2cTI7DzjN3IbLx4nkTXzTc3VfhZIYS7FXkZ/8xPEFzW/v0MoPkx8ZDB6mwnQ/pXeLKeBmx94E=;jlfRq0I3tJYOk4bR1uIcQg=="
 ---
 

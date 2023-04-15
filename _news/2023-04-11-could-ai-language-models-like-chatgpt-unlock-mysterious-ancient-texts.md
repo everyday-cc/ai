@@ -204,15 +204,6 @@ related:
         width: 1536
         height: 948
         isCached: true
-  - title: "AI in schools - how metro districts are handling the rise in artificial intelligence chatbots"
-    excerpt: "Channel 2′s Justin Farmer spoke with Dr. David Joyner from Georgia Tech, who said there’s justified fear over artificial intelligence following the rise in popularity of chatbots like ChatGPT, Bard and Bing’s AI system."
-    publishedDateTime: 2023-04-11T02:41:00Z
-    webUrl: "https://www.wsbradio.com/news/local/ai-schools-how-metro-districts-are-handling-rise-artificial-intelligence-chatbots/TBXZKWOI3VDIFPGBR7EF5V72KI/"
-    type: article
-    provider:
-      name: WSB Radio
-      domain: wsbradio.com
-    quality: 23
   - title: "The Download: ChatGPT’s impact on schools, and Elon Musk’s AI plans"
     excerpt: "This year millions of people have tried—and been wowed by— artificial intelligence systems. That’s in no small part thanks to OpenAI’s chatbot ChatGPT."
     publishedDateTime: 2023-04-12T12:10:00Z

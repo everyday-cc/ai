@@ -45,6 +45,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-04-artificial-intelligence-101-why-its-different-this-time.md",
+      "title": "Artificial Intelligence 101: Why It’s Different This Time",
+      "excerpt": "There is so much being said about artificial intelligence these days. In order to understand this latest wave of AI, it is important to know how it works and why this moment is different from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/video/series/tech-news-briefing/artificial-intelligence-101-why-its-different-this-time/807E3294-EFDB-49CD-B66B-18ABA44D503F",
+      "originalUrl": "https://www.wsj.com/video/series/tech-news-briefing/artificial-intelligence-101-why-its-different-this-time/807E3294-EFDB-49CD-B66B-18ABA44D503F",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-03-life-of-an-architect-podcast-ep-122-architecture-and-artificial-intelligence.md",
       "title": "Life of an Architect Podcast Ep. 122: Architecture and Artificial Intelligence",
       "excerpt": "Even though artificial intelligence can conceptually trace its roots back to the 1950s, the reality is AI and machine learning went mainstream not too long ago. As recently as November 2022, anyone with a computer and Internet access can dip their toes in the AI waters for not much more than the time needed to understand how to make it work.",
@@ -1268,40 +1311,6 @@
       "provider": {
         "name": "TheStreet.com",
         "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-baidu-inc-nasdaq-bidu-shares-look-bullish-in-2023.md",
-      "title": "Baidu Inc. (NASDAQ: BIDU) Shares Look Bullish In 2023",
-      "excerpt": "Baidu Inc. (NASDAQ:BIDU) shares, rose in value on Friday, March 24, with the stock price up by 4.05% to the previous day’s close as strong demand from buyers drove the stock to $157.02. Actively observing the price movement in the recent trading,",
-      "sourceUrl": null,
-      "webUrl": "https://stocksregister.com/2023/03/24/baidu-inc-nasdaq-bidu-shares-look-bullish-in-2023/",
-      "originalUrl": "https://stocksregister.com/2023/03/24/baidu-inc-nasdaq-bidu-shares-look-bullish-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-23T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "stocksregister",
-        "domain": "stocksregister.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/video/series/tech-news-briefing/whats-slowing-
 webUrl: "https://www.wsj.com/video/series/tech-news-briefing/whats-slowing-down-self-driving-car-technology/27D24413-3882-4A81-9AE0-16F3A2896A97"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -70,6 +70,15 @@ related:
       name: News 12 Networks
       domain: news12.com
     quality: 23
+  - title: "Dubai tests self-driving taxis"
+    excerpt: "Dubai’s Roads and Transport Authority (RTA) and Cruise have begun testing and data collection for self-driving cars in the city. The RTA announced it is collecting data and testing technology for Dubai’s traffic signals, signage, and drivers ..."
+    publishedDateTime: 2023-04-15T08:46:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/transport/dubai-tests-self-driving-taxis"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 19
 
 secured: "LGpad/GRn9qmDdKJnNDS2dBiRZ+XHJAIT9JJEFcqmqgqO7AJGXHsoyJEffMmVCldV2Hfp4Jp3K8bWpaLmXDY/fxWSWLTf2NnUsFsBVsDed7PmQXRwxavj3JWHB33hiQSFuI77JLKcl+EhP2ltB6ImHNp7T2zUMVZhcnN4WOfml+mxQKCoIulT45YQ741S6NHALB+3arrJidGuurBsdzKC/cvpzKJrU5EMMQalbAJqmKvdluesyJNbrTwAeiqIsYstQ49M/Oq0Fks5fmhXnDqCniXm8DvxAqX2wkxs4HaOWGZpmu+opAODKDTp38m2MAg88sbeFeGohVJo5b0bRM6bEDPY5nqocxe/JEEC6Ph9ZU=;zQ7E+IEbUvlWJKUOZddD3Q=="
 ---
