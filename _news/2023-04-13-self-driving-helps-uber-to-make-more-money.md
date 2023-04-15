@@ -64,6 +64,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Watch What Happens When a Self-Driving Car Clogs Up San Francisco Streets"
+    excerpt: "San Francisco is the epicenter of self-driving car testing and development, with dozens of robotaxis roaming the roads. Manufactures want more taxis with more area and more drive time, but the technology isn’t perfect,"
+    publishedDateTime: 2023-04-10T17:40:00Z
+    webUrl: "https://jalopnik.com/dashcam-shows-waymo-autonomous-cars-clogging-streets-1850319472"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 23
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b57a3b83b2bce645c445525d5973f978.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "KIYC: Is technology ready for self-driving cars? Some drivers have doubts"
     excerpt: "Americans are killed in car accidents and the car industry says self-driving vehicles will eventually make the roads safer."
     publishedDateTime: 2023-04-13T14:00:00Z
@@ -76,6 +90,6 @@ related:
       domain: news12.com
     quality: 23
 
-secured: "ro/oBjC2MRWb98qUlNFFFo8KJX1aowJVjeqZgKauRVJzkyZODOYvMFibWeLl9+L+fjezWLZ5XMxAmkbOHJOU3ebi5VV8cS3PeKC1KaPVbgFGVb+vQ4ADWoHr9TIluuxJwX7FMUq0udrz0IUPgyuzFByhad1g4koS8Pw4G6lhP/hrmme8bzey0e/Wa8+5pi/BOPOeE4IOoCaAJ9wjku6iBxzRkXhdpfDn6i6/rnPzCELgnuPh9oFs+B3yh+UbisJnZJeAaatNT0b5B7ZMrGrgJ223Df5CRd2VP0QaKu8sILw21Tp5ZJ9Lttrl6n7RkFvQxYXWmH5DhHautSqWjkfuEGWj6evcRNudFjqRP/C1IGk=;Ef3wAlJGac4P+QyYBSRNBQ=="
+secured: "OUqlxqtoTdph5HThcu2uhjYpjI3Oor2BzyXVs6d/3VeKRF6PY4NPP6ZEGB7+joDSzqcGR4yawb+nVrJGkR3SwJFlgmn2ANmg/fA0WrSpG7751JEmmOtILxuHM5wADwQR2IrHUFoG8aLvf+LqYvgfyybPzn//AJbX6SRUdPE+FCNOkZo9GZrEwTKsrsePZGlFUZRTKTXhK/OEwny0225aMXRsLerymd+EMAk5r+jWsY4XwMdybiWQQUQx79CJEXyvOyleJyf2scFdnsbPHAdLa3u2G4fAs+MDEjiT4jWU9Q6DHmBOIRwTy3g8jYw+u7WT/JHqyHxgf8fElWa+WMdUUA/wcsLGq7WwozyOVwjHpgCHA6gLfzx8ohPkkdrQNwxxno3IWAvwrKIELlm/pPxxf7aqJgBdPnz3qqkXdbiNbZzxpj3D8xRrluBqdCUguiW5T1ipWZheq//ux0Du9Th3/rqvJjpztDbd1GxFruwQx5T/A93vR1LJPFraCAoSavkOXzRlYSkkBRkkebA30ioJdw==;SAHg971bOFLvO1YpCXQsmw=="
 ---
 

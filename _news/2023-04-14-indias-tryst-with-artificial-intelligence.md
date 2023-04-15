@@ -9,8 +9,8 @@ ampWebUrl: "https://www.omanobserver.om/ampArticle/1135663"
 cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1135663"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: omanobserver
@@ -41,6 +41,15 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "IndiaAI will propel country into leading pack of nations in AI space: Chandrasekhar"
+    excerpt: "Union Minister of State for Electronics & Information Technology and Skill Development & Entrepreneurship, Shri Rajeev Chandrasekhar has said the Government is determined to develop artificial intelligence and AI-powered solutions that will benefit India as well as transform lives of its people."
+    publishedDateTime: 2023-04-14T15:10:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2417335-indiaai-will-propel-country-into-leading-pack-of-nations-in-ai-space-chandrasekhar"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 13
 
 secured: "+xJVD6goACh+QrizAER1l78yeYFBcj6gaTgxqKSva2lda/Blq8IzIijm3FGEJrB/QoZwf+xlTOXK22Vu7lri++8qwK3stdDzK5B4W7WhrrRpA1xCjouxCLlOartuag8YqNcf4BOvvr9vPTDRCgA1Zj8qokJ4MrjogJ9l38LB04/xu8zB4CymP3kflXIpp2d7QGtcti9hkw5mfvmVJy2lZnMAgf2OXwfB4XLJzTNlBxkK9ajvsEBWTbHtUV3n0b/5+bq19Ss5OCDe4rHOGSeZ+zdITMcp99h8uzkquU7Oilc49RU4/FVjMsoJmy7eM81p+mgQyRDMl06wVxG7QeKeaIQ2C3Uv+3Uh/QjLqkPk5Kzl9dL2HQoNR8GReZpJKn1nD8ZSZ+pe5wlWlOro9Jdsmhw4ur9OyF4jr7VwEYlq3As1GI0KubyAchAGVq/RxsL47rDQgFqkxUDqxGkifNKQPYGIHx4my6hmcDXqS9Xh0EkoQn2WLZbj45jgDJb7OQ0C6NfjE5he9DKg2R08dPpI6Q==;2wesYJs9kAIIorEyesz1pw=="
 ---

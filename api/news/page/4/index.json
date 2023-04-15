@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-08-the-worlds-first-self-driving-public-bus-fleet-is-rolling-out-in-scotland.md",
+      "title": "The world’s first self-driving public bus fleet is rolling out in Scotland",
+      "excerpt": "On May 15, Stagecoach’s self-driving vehicles will begin operations along a 14-mile route that includes Edinburgh’s historic Forth Road suspension bridge. According to the BBC, a total of five ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/self-driving-public-bus-fleet-scotland/",
+      "originalUrl": "https://www.popsci.com/technology/self-driving-public-bus-fleet-scotland/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2023/04/05/CAVForth-Autonomous-Bus-High-Res-4.jpg?auto=webp",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/technology/self-driving-public-bus-fleet-scotland/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/self-driving-public-bus-fleet-scotland/?amp",
+      "publishedDateTime": "2023-04-07T18:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-08-was-the-self-driving-car-invented-in-the-1980s.md",
+      "title": "Was The Self Driving Car Invented In The 1980s?",
+      "excerpt": "The news is full of self-driving cars and while there is some bad news, most of it is pretty positive. It seems a foregone conclusion that it is just a matter of time before calling for an Uber ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2018/07/25/was-the-self-driving-car-invented-in-the-1980s/",
+      "originalUrl": "https://hackaday.com/2018/07/25/was-the-self-driving-car-invented-in-the-1980s/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/07/car.png",
+          "width": 800,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-08-pro-take-ai-boom-will-test-readiness-of-ibm-and-its-customers.md",
       "title": "Pro Take: AI Boom Will Test Readiness of IBM, and Its Customers",
       "excerpt": "CEO Arvind Krishna says IBM is taking a more realistic approach to artificial intelligence these days, and customers are more prepared to use the technology.",
@@ -933,74 +1019,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-moscow-enhances-the-options-of-the-integrated-artificial-intelligence-service-for-diagnostic-radiology-by-almost-30-per-cent.md",
-      "title": "Moscow enhances the options of the integrated artificial intelligence service for diagnostic radiology by almost 30 per cent",
-      "excerpt": "The capabilities of the integrated artificial intelligence service have been enhanced in Moscow: a neural network can now simultaneously detect up to nine pathologies using CT scans. The algorithm was launched last year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mos.ru/en/news/item/121923073/",
-      "originalUrl": "https://www.mos.ru/en/news/item/121923073/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T13:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mos",
-        "domain": "www.mos.ru",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-real-time-update-ati-physical-therapy-inc-atip-stock-navigates-the-market-with-up-to-date-data.md",
-      "title": "Real-Time Update: ATI Physical Therapy Inc. (ATIP) Stock Navigates the Market with Up-to-Date Data",
-      "excerpt": "The stock of ATI Physical Therapy Inc. (ATIP) has seen a -7.75% decrease in the past week, with a -26.92% drop in the past month, and a -14.57% decrease in the past quarter. The volatility ratio for the week is 8.",
-      "sourceUrl": null,
-      "webUrl": "https://newsheater.com/2023/04/06/real-time-update-ati-physical-therapy-inc-atip-stock-navigates-the-market-with-up-to-date-data/",
-      "originalUrl": "https://newsheater.com/2023/04/06/real-time-update-ati-physical-therapy-inc-atip-stock-navigates-the-market-with-up-to-date-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "newsheater",
-        "domain": "newsheater.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

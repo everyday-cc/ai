@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-Driving Car Market Forecasted from 2023-2031"
+    excerpt: "The \" Self-Driving Car Market \"Study offers comprehensive information and statistics on markets in the current"
+    publishedDateTime: 2023-04-14T01:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-forecasted-from-2023-2031-2023-04-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech Recognition Market Key Players and Forecast till 2031"
     excerpt: "The latest market research report on the Global \"Speech Recognition Market\" is segmented by Regions, Country, Company"
     publishedDateTime: 2023-04-13T05:20:00Z
@@ -38,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-  - title: "AI Chip Market Forecast With Trends, Challenges & Drivers And Key Players Till 2030"
-    excerpt: "Research Nester published a report titled “AI Chip Market: Global Demand Analysis & Opportunity Outlook 2030” which delivers detailed overview of theglobalAI chip market in terms of market ..."
-    publishedDateTime: 2023-04-10T10:50:00Z
-    webUrl: "https://menafn.com/1105971707/AI-Chip-Market-Forecast-With-Trends-Challenges-Drivers-And-Key-Players-Till-2030"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 48
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?189758"
-        width: 374
-        height: 250
-        isCached: true
   - title: "Know Driving Success In Deep Learning Chipsets Market: Current Trends and Future Outlook Till 2030"
     excerpt: "The latest Deep Learning Chipsets Market Analysis is designed to help clients improve their market position, and in line"
     publishedDateTime: 2023-04-11T07:43:00Z

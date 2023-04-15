@@ -64,6 +64,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 34
+  - title: "Watch What Happens When a Self-Driving Car Clogs Up San Francisco Streets"
+    excerpt: "San Francisco is the epicenter of self-driving car testing and development, with dozens of robotaxis roaming the roads. Manufactures want more taxis with more area and more drive time, but the technology isn’t perfect,"
+    publishedDateTime: 2023-04-10T17:40:00Z
+    webUrl: "https://jalopnik.com/dashcam-shows-waymo-autonomous-cars-clogging-streets-1850319472"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 23
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b57a3b83b2bce645c445525d5973f978.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "KIYC: Is technology ready for self-driving cars? Some drivers have doubts"
     excerpt: "Americans are killed in car accidents and the car industry says self-driving vehicles will eventually make the roads safer."
     publishedDateTime: 2023-04-13T14:00:00Z

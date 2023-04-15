@@ -34,7 +34,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 93
+    quality: 95
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/04/elon.jpg?w=1200&strip=all"
         width: 1200
@@ -91,7 +91,7 @@ related:
   - title: "Elon Musk Creates New Artificial Intelligence Company X.AI"
     excerpt: "The name of the new Nevada-incorporated organization suggests a link to the billionaire’s interest in an everything app."
     publishedDateTime: 2023-04-14T20:35:00Z
-    webUrl: "https://www.wsj.com/articles/elon-musks-new-artificial-intelligence-business-x-ai-incorporates-in-nevada-962c7c2f?mod=business_lead_pos1"
+    webUrl: "https://www.wsj.com/articles/elon-musks-new-artificial-intelligence-business-x-ai-incorporates-in-nevada-962c7c2f?mod=tech_lead_pos2"
     type: article
     provider:
       name: Wall Street Journal
@@ -124,9 +124,37 @@ related:
     provider:
       name: Electrek
       domain: electrek.co
-    quality: 72
+    quality: 74
     images:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/03/elon-tesla-bot-meme.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Elon Musk has created his own artificial intelligence company"
+    excerpt: "Elon Musk, who’s been vocally critical about artificial intelligence lately, seems to be planning something AI related. According to The Wall Street Journal and The Financial Times, Musk has founded a new artificial intelligence company called X."
+    publishedDateTime: 2023-04-15T02:03:00Z
+    webUrl: "https://www.engadget.com/elon-musk-has-created-his-own-artificial-intelligence-company-012103279.html"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: engadget.com
+    quality: 67
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/amN7x156nb8eggfUZqc3ew--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2019-06/46911600-8c95-11e9-81b3-fb26c03f3057.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Elon Musk plans AI startup to rival OpenAI, Financial Times reports"
+    excerpt: "Billionaire Elon Musk is working on launching an artificial intelligence start-up that will rival ChatGPT-maker OpenAI, the Financial Times reported on Friday citing people familiar with his plans."
+    publishedDateTime: 2023-04-14T21:21:00Z
+    webUrl: "https://www.reuters.com/technology/elon-musk-plans-ai-startup-rival-openai-ft-2023-04-14/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/AfvIuDtG9hF56yNLLmzznxxXveA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QRAI4ESMNRJ57J4QJBEHA5SR6U.jpg"
         width: 1200
         height: 628
         isCached: true
@@ -145,6 +173,22 @@ related:
       - url: "https://www.livemint.com/lm-img/img/2023/04/15/600x338/2-0-142073357-Elon-Musk-5C-0_1681190396992_1681521375383_1681521375383.jpg"
         width: 600
         height: 338
+        isCached: true
+  - title: "Twitter boss Elon Musk forms new artificial intelligence company"
+    excerpt: "Elon Musk, who is already the boss of Twitter and Tesla, was listed as director of X.AI Corporation founded on March 9, a state business filing indicated."
+    publishedDateTime: 2023-04-15T03:42:00Z
+    webUrl: "https://www.hindustantimes.com/technology/twitter-boss-elon-musk-forms-new-artificial-intelligence-company-101681529898134.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/twitter-boss-elon-musk-forms-new-artificial-intelligence-company-101681529898134-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/twitter-boss-elon-musk-forms-new-artificial-intelligence-company-101681529898134-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 57
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2023/04/15/1600x900/Elon_Musk_1681529929447_1681529929753_1681529929753.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Elon Musk plans AI start-up to rival OpenAI: Report"
     excerpt: "Billionaire Elon Musk is working on launching an artificial intelligence start-up that will rival ChatGPT-maker OpenAI, the Financial Times reported on Friday (Apr 14), citing people familiar with his plans."
@@ -174,6 +218,20 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "Elon Musk plans AI startup to rival OpenAI"
+    excerpt: "Twitter-owner Musk is assembling a team of AI researchers and engineers, according to the FT report, and is also in discussions with some investors in SpaceX and Tesla Inc about putting money into his new venture."
+    publishedDateTime: 2023-04-15T02:11:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/elon-musk-plans-ai-startup-to-rival-openai/99506138"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 37
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-99506138,imgsize-18394,width-1200,height=765,overlay-ettelecom/internet/elon-musk-plans-ai-startup-to-rival-openai.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Elon Musk reportedly seeking to launch AI startup that will compete with OpenAI"
     excerpt: "Elon Musk is reportedly seeking to raise funding for a new artificial intelligence startup that would compete with OpenAI LLC. The Financial Times reported the development today, citing people familiar with the matter."
     publishedDateTime: 2023-04-14T21:00:00Z
@@ -197,6 +255,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "Elon Musk plans artificial intelligence start-up to rival OpenAI"
+    excerpt: "Elon Musk is developing plans to launch a new artificial intelligence start-up to compete with ChatGPT-maker OpenAI, as the billionaire seeks to join Silicon Valley’s race to build generative AI systems."
+    publishedDateTime: 2023-04-14T17:35:00Z
+    webUrl: "https://www.ft.com/content/2a96995b-c799-4281-8b60-b235e84aefe4"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 32
   - title: "Text-to-Image Generator Market Analysis and Industry Research Report 2022-2030 with Top Players are OpenAI, Google, Facebook, DeepAI, Stability.ai"
     excerpt: "The market research carried out in this large scale Text-to-Image Generator market report succours clients to forecast investment in an emerging market, expansion of market share or success of a new product."
     publishedDateTime: 2023-04-12T08:48:00Z

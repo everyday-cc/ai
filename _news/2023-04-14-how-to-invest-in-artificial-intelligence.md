@@ -6,7 +6,7 @@ publishedDateTime: 2023-04-14T13:10:00Z
 originalUrl: "https://www.nasdaq.com/articles/how-to-invest-in-artificial-intelligence"
 webUrl: "https://www.nasdaq.com/articles/how-to-invest-in-artificial-intelligence"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 related:
   - title: "How To Make Sure No One Is Left Behind In The Era Of AI In Healthcare"
@@ -57,15 +58,6 @@ related:
         width: 512
         height: 400
         isCached: true
-  - title: "The Future Of Artificial Intelligence"
-    excerpt: "The future of artificial intelligence appears bright with continued advancements in technology. Investment in artificial intelligence reached $93.5 billion in 2021, according to Statista. The current trend for neural networks to grow larger will likely continue into the near future as more functionality is required."
-    publishedDateTime: 2023-04-10T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/10/the-future-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 51
   - title: "Why Big Food Is Looking To AI To Shape The Future Of Food"
     excerpt: "This week, French dairy giant Bel Group announced they had entered into a partnership with Climax Foods, an AI-driven food startup founded by former Google head of data science and astrophysicist Oliver Zahn. The collaboration seeks to harness the power of ..."
     publishedDateTime: 2023-04-14T19:46:00Z

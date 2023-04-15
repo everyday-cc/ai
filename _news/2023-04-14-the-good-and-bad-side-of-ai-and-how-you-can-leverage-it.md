@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/the-good-
 ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/the-good-and-bad-side-of-ai-and-how-you-can-leverage-it/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/the-good-and-bad-side-of-ai-and-how-you-can-leverage-it/amp/"
 type: article
-quality: 87
-heat: 129
+quality: 89
+heat: 131
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64380954a22b21b4428508e3/0x0.jpg?format=jpg&width=1200"

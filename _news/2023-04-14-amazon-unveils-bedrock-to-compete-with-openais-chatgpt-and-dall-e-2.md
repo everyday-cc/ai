@@ -172,15 +172,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 63
-  - title: "When You Use ChatGPT You Could Be Legally Liable, AI Ethics And Law Experts Warn"
-    excerpt: "When using ChatGPT, you have agreed to a licensing requirement that allows OpenAI to come after you if they get sued for something you allegedly did that caused harm while making use of ChatGPT. This is the dreaded indemnification clause."
-    publishedDateTime: 2023-04-10T11:01:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/04/10/when-you-use-chatgpt-you-could-be-legally-liable-ai-ethics-and-law-experts-warn/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 59
   - title: "How ChatGPT and similar AI will disrupt education"
     excerpt: "The new chatbot ChatGPT and other generative AI encourage cheating and offer up incorrect info, but they could also be used for good."
     publishedDateTime: 2023-04-12T11:00:00Z

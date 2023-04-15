@@ -41,6 +41,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "A UT Southwestern doctor is using AI to speed up Alzheimer’s research"
+    excerpt: "In the last year we’ve heard a lot about artificial intelligence, or AI. Advancements in this field are progressing at a rapid pace. This is especially true for the medical industry."
+    publishedDateTime: 2023-04-15T03:27:00Z
+    webUrl: "https://www.cbsnews.com/texas/video/a-ut-southwestern-doctor-is-using-ai-to-speed-up-alzheimers-research/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/04/15/d7064ec9-1258-40f4-bc0d-17f2b3b72c53/thumbnail/1200x630/0462868a33dead855d00f882fb9c73c1/aa50a96d77f98b3f213e6771201f6416.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "YWqvItS+UxEt4Ei0TQK5MeyObm8SN9a9XTaEFsgiJhijmsX9zyAzKfb+OspLqEXMbVHnaiR5Gu/8iu+0j7RwprRqmoIHtPVw/qPhet4Tf2us/oykPwalJi1etOlVwUU2k9q7AYmvcpzjqdQkBEtkl4FB4WAkS3tJ5PB9IoEVpgbDZtWLtVMDl8i71yP53XBQ1iaZJeh7wdNHc03LaWcP+Uh+33ibcBvWksYEuG34p6kcRKtG+L2tzgZ9Z5TZttYLM/svXzo0+dBXogVWOD6aMc2U2DqJx1C4K4Nl73vkgN7ciCZzrJ3/kb2CQqjXJr9LUGojNL3R8JMXWXfzjPLc9uIbO1BUxghlD5BdHr80UA4=;fL9pFm4dKtt84W+fHPp95Q=="
 ---

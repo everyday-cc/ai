@@ -41,6 +41,15 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "IndiaAI will propel country into leading pack of nations in AI space: Chandrasekhar"
+    excerpt: "Union Minister of State for Electronics & Information Technology and Skill Development & Entrepreneurship, Shri Rajeev Chandrasekhar has said the Government is determined to develop artificial intelligence and AI-powered solutions that will benefit India as well as transform lives of its people."
+    publishedDateTime: 2023-04-14T15:10:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2417335-indiaai-will-propel-country-into-leading-pack-of-nations-in-ai-space-chandrasekhar"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 13
 
 secured: "CmiQERiiqMRXH95NAy3gIxG1NVtnz4IUseAMe65UuNFPpkQE9waP92BH1Y7qFv7SzGSL9IJvL5BqsfNS8JJI6Uze3II7uL4ITihexnlwC96CUdkGxNWw1wSJuJJxjKJwnuuHJwFOFEagQN6d8J+0QsmRwqJJ1kqKdw1PazY+YJBf2IPMwl1vxV3uuzga+Gid0tkhefQMVqolQ8nG7S2Lt/3usftNAdyjw3pUybcLrJe3Nap8Lgm+EJuiblkjbTCSq2J3ZjlR1cpkxJ7tSzdmn9TFH+k38VU8GOhp8xe+y+WtYVxzX7XELxyrkb26ocBWrFgOVRVB3aJfhwnub8qaNqitZNWsMzmu+e6PRXlYgL0=;joT/aubc7hEwN0Qng35OKQ=="
 ---
