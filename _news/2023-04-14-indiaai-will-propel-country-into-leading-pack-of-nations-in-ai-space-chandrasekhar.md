@@ -49,6 +49,20 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "India finally lands on the global AI map"
+    excerpt: "A weekly newsletter on all things tech. Similarly for Twitter, etc."
+    publishedDateTime: 2023-04-15T07:38:00Z
+    webUrl: "https://www.livemint.com/mint-top-newsletter/techtalk14042023.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 39
+    images:
+      - url: "https://images.hindustantimes.com/img/2022/07/20/original/TechTalk_logo_1658338696231.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "mmBDYYkNKDcoLyojvCwWfj2roKH0ZNdHM68O8rtjT0rcaGVoZacIxqlMCv4zdb1LJ/nnvluBAOICMovSh55hD8BdUAdVJp6DGG4kf4AjwDme0ItC1uEJHoREmQh460Ckx99n0dL8/C5NfFf5UHtrarZ4Pwmpqs4rd4co0zKxFzDIhiekUCOMjbLHtohZrJorhUW/8lzDxkHne2qbC6WAAIlj5Y9IrVgP0+blZyNxDHTrvvLo7icAritixdC0+ln74jiiToxo8hfZxfx9prAyCtriFvS6UHxxYY7sntyNDI6SWrwV5aMPrHPodgewQGL2T28i1PAeIY5gT4aE2YhvXqWrPwMDe+n3OukF2bQhYyPlEpPcSKy4rL1rX+vZJw9YuPGVuxkqpRod8/IoWF0pdIMLPwk9MvwYaSG0JONGH37FiC/nEeyLEkycV3wBaf+y80SYeHs+7jxgskjgJW5Y8Ssy77cj8vCb6cGeZ5Y0wWuFhw9ZhvDm+s+6fpxfSFBwGBcJNE3QzDp20FeMNR/Q4g==;MTB2MOvj6+9pyFdRov6J/Q=="
 ---

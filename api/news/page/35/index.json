@@ -2,6 +2,143 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2023-03-11-the-big-idea-should-robots-take-over-fighting-crime.md",
+      "title": "The big idea: should robots take over fighting crime?",
+      "excerpt": "Could artificial intelligence offer a fairer and more efficient way of policing? San Francisco’s board of supervisors recently voted to let their police deploy robots equipped with lethal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/books/2023/feb/20/the-big-idea-should-robots-take-over-fighting",
+      "originalUrl": "https://www.theguardian.com/books/2023/feb/20/the-big-idea-should-robots-take-over-fighting",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/da969ce677d9960695aaa2e3abd7a7c783db1b21/0_0_1847_1224/master/1847.jpg?width=620&quality=85&auto=format&fit=max&s=cb30fa7845529567a87b7c6625200d6f",
+          "width": 620,
+          "height": 411,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/books/2023/feb/20/the-big-idea-should-robots-take-over-fighting",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2023/feb/20/the-big-idea-should-robots-take-over-fighting",
+      "publishedDateTime": "2023-03-10T09:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-11-the-instabase-platform-now-available-in-microsoft-azure-marketplace.md",
+      "title": "The Instabase Platform Now Available in Microsoft Azure Marketplace",
+      "excerpt": "Instabase, a leader in applied AI for the enterprise, has announced the availability of its platform in the Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/this-just-in/the-instabase-platform-now-available-in-microsoft-azure-marketplace/",
+      "originalUrl": "https://www.datanami.com/this-just-in/the-instabase-platform-now-available-in-microsoft-azure-marketplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datanami.com/wp-content/uploads/2023/01/AI-in-Finance-Summit-New-York-Main-Graphic.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-10T08:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-11-ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane.md",
+      "title": "Ex-Apple execs net $100 million in investments for AI startup Humane",
+      "excerpt": "Through its partnership with Volvo, Humane will work on a potential collaboration to apply AI in the automotive industry, the company said. “Our first device will enable people to bring AI with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.10news.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane",
+      "originalUrl": "https://www.10news.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/c6f27c8/2147483647/strip/true/crop/960x540+0+90/resize/1280x720!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1678464059_f3PddI.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.10news.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane?_amp=true",
+      "cdnAmpWebUrl": "https://www-10news-com.cdn.ampproject.org/c/s/www.10news.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane?_amp=true",
+      "publishedDateTime": "2023-03-10T08:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC 10 News",
+        "domain": "10news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-11-first-complete-map-of-a-fly-brain-has-uncanny-similarities-to-ai-neural-networks.md",
       "title": "First Complete Map of a Fly Brain Has Uncanny Similarities to AI Neural Networks",
       "excerpt": "Fascinatingly, these recurrent structures mapped from an actual brain appear to closely match the architecture of some artificial intelligence models (called residual neural networks), with nested ...",
@@ -1041,144 +1178,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-data-and-ai-ethics-market-environment-development-trend-in-2023.md",
-      "title": "Data and AI Ethics Market Environment Development Trend In 2023",
-      "excerpt": "Data and AI Ethics Market 2023 with 110 Pages Report and enhance with extents shares into sub-counties are covered in",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-environment-development-trend-in-2023-2023-03-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-environment-development-trend-in-2023-2023-03-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T18:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-automotive-artificial-intelligence-ai-market-by-segmentation-includes-type-applications-channel-and-forecast-to-2023-2033.md",
-      "title": "Automotive Artificial Intelligence (AI) Market by Segmentation Includes Type, Applications, Channel, and Forecast to 2023-2033",
-      "excerpt": "Mar 10, 2023 (AmericaNewsHour) -- Key Companies Covered in the Automotive Artificial Intelligence (AI) Market Research Intel Corporationm, Waymo, LLC., IBM Corporation, Microsoft Corporationand other key market players. CRIFAX added a new market research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-by-segmentation-includes-type-applications-channel-and-forecast-to-2023-2033-2023-03-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-by-segmentation-includes-type-applications-channel-and-forecast-to-2023-2033-2023-03-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T16:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-google-provides-update-on-ai-speech-models.md",
-      "title": "Google Provides Update On AI Speech Models",
-      "excerpt": "The group had to face two significant challenges in automatic speech recognition (ASR). First, a lack of scalability with conventional supervised learning approaches. A fundamental challenge of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/383312/google-provides-update-on-ai-speech-models.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/383312/google-provides-update-on-ai-speech-models.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -98,6 +98,58 @@
       ]
     },
     {
+      "path": "_news/2023-04-10-fintech-dealmaking-is-ready-for-prime-time.md",
+      "title": "Fintech dealmaking is ready for prime time",
+      "excerpt": "One could make the point that every industry has a backlog of potential deals, but fintech seems particularly ... check out these podcasts focused on AI. Here are 11 AI-focused podcasts ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/fintech-dealmaking-tredning-neobanks-bnpl-smb-lending-2023-4",
+      "originalUrl": "https://www.businessinsider.com/fintech-dealmaking-tredning-neobanks-bnpl-smb-lending-2023-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/611ac81ba4b07b0018add693?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/fintech-dealmaking-tredning-neobanks-bnpl-smb-lending-2023-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fintech-dealmaking-tredning-neobanks-bnpl-smb-lending-2023-4?amp",
+      "publishedDateTime": "2023-04-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-09-interview-investment-expert-colin-clark-on-his-move-into-ai-harnessing-fintech.md",
       "title": "Interview: investment expert Colin Clark on his move into AI-harnessing fintech",
       "excerpt": "The executive was in fact in October last year named chairman of the newly formed board of Edinburgh-based artificial intelligence (AI) fintech business Aveni, which specialises in natural ...",
@@ -587,6 +639,40 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-03-acufi-and-its-founder-nick-kohlschreiber-stress-the-importance-and-usefulness-of-ai-for-fintech.md",
+      "title": "AcuFi and its Founder, Nick Kohlschreiber, Stress the Importance and Usefulness of AI For FinTech",
+      "excerpt": "For the fintech sector, AcuFi experts agree that concerns in the security of both user and company data can be addressed by AI. More than ever, the modern age will come with a new variety of bad ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-04/58723075-acufi-and-its-founder-nick-kohlschreiber-stress-the-importance-and-usefulness-of-ai-for-fintech-200.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-04/58723075-acufi-and-its-founder-nick-kohlschreiber-stress-the-importance-and-usefulness-of-ai-for-fintech-200.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-02T21:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     },
     {
@@ -1210,111 +1296,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-5-ways-machine-learning-must-evolve-in-a-difficult-2023.md",
-      "title": "5 ways machine learning must evolve in a difficult 2023",
-      "excerpt": "As we enter a potentially challenging 2023, machine learning (ML) needs to evolve to become smarter, more efficient and more effective.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/5-ways-machine-learning-must-evolve-in-a-difficult-2023/",
-      "originalUrl": "https://venturebeat.com/ai/5-ways-machine-learning-must-evolve-in-a-difficult-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-928173784.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/5-ways-machine-learning-must-evolve-in-a-difficult-2023/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/5-ways-machine-learning-must-evolve-in-a-difficult-2023/amp/",
-      "publishedDateTime": "2023-03-15T21:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-fintech-stripe-valued-at-50-bln-after-65-bln-fundraise.md",
-      "title": "Fintech Stripe valued at $50 bln after $6.5 bln fundraise",
-      "excerpt": "REUTERS/Dado Ruvic/Illustration March 15 (Reuters) - Fintech Stripe said on Wednesday it was valued ... Disruptedcategory Bar exam score shows AI can keep up with 'human lawyers,' researchers say, article with image 6:17 PM UTC Technologycategory Exclusive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/fintech-stripe-valued-50-bln-after-65-bln-fundraise-2023-03-15/",
-      "originalUrl": "https://www.reuters.com/technology/fintech-stripe-valued-50-bln-after-65-bln-fundraise-2023-03-15/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/tMNyoyg9ToCWZE8Wy745mHBrOc8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/A2PHOE5YBZP2XAZJMWCMZOUTUM.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T14:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

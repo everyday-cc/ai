@@ -2,6 +2,145 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2023-03-05-nasa-captures-sequestered-carbon-of-99-billion-trees-with-deep-learning-and-satellite-images.md",
+      "title": "NASA captures sequestered carbon of 9.9 billion trees with deep-learning and satellite images",
+      "excerpt": "Researchers applied deep-learning-based tree mapping, manually trained on about 90,000 trees, to a data set of nearly 300,000 satellite images to measure more than 9.9 billion woody plants that ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-03-nasa-captures-sequestered-carbon-billion.html",
+      "originalUrl": "https://phys.org/news/2023-03-nasa-captures-sequestered-carbon-billion.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/nasa-captures-sequeste.jpg",
+          "width": 2133,
+          "height": 1906,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-03-nasa-captures-sequestered-carbon-billion.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-03-nasa-captures-sequestered-carbon-billion.amp",
+      "publishedDateTime": "2023-03-04T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-05-openai-launches-an-api-for-chatgpt-a-startup-attempts-a-humanoid-robot-and-salesforce-turns-it-around.md",
+      "title": "OpenAI launches an API for ChatGPT, a startup attempts a humanoid robot, and Salesforce turns it around",
+      "excerpt": "Experts across climate, mobility, fintech, AI and machine learning ... Hydrogen powered: Startup Universal Hydrogen took to the air this week with the largest hydrogen fuel cell ever to fly.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/04/openai-launches-an-api-for-chatgpt-a-startup-attempts-a-humanoid-robot-and-salesforce-turns-it-around/",
+      "originalUrl": "https://techcrunch.com/2023/03/04/openai-launches-an-api-for-chatgpt-a-startup-attempts-a-humanoid-robot-and-salesforce-turns-it-around/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1173441590.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/04/openai-launches-an-api-for-chatgpt-a-startup-attempts-a-humanoid-robot-and-salesforce-turns-it-around/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/04/openai-launches-an-api-for-chatgpt-a-startup-attempts-a-humanoid-robot-and-salesforce-turns-it-around/amp/",
+      "publishedDateTime": "2023-03-04T15:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-05-lewis-can-artificial-intelligence-be-evil.md",
+      "title": "Lewis: Can artificial intelligence be evil?",
+      "excerpt": "In the year 2050, the world was a vastly different place, controlled by advanced AI systems that governed everything from transportation to health care. However, a series of bizarre incidents began to occur across",
+      "sourceUrl": null,
+      "webUrl": "https://www.vaildaily.com/opinion/lewis-can-artificial-intelligence-be-evil/",
+      "originalUrl": "https://www.vaildaily.com/opinion/lewis-can-artificial-intelligence-be-evil/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vaildaily.com/wp-content/uploads/sites/7/2022/07/MarkLewis-1-683x1024.jpeg",
+          "width": 683,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-04T14:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vail Daily",
+        "domain": "vaildaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-03-05-cognitive-impairment-in-multiple-sclerosis-tied-to-diet.md",
       "title": "Cognitive Impairment in Multiple Sclerosis Tied to Diet",
       "excerpt": "Among 563 MS patients in a clinical cohort, higher adherence to a Mediterranean diet predicted a 20% lower risk for cognitive impairment (OR 0.80, 95% CI 0.73-0.89), reported Ilana Katz Sand ...",
@@ -1045,161 +1184,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-ai-has-the-student-become-the-teacher.md",
-      "title": "AI: Has The Student Become The Teacher?",
-      "excerpt": "There is still progress to be made, but I’m not sure if we’re quite ready to ditch the old ways just yet! Forbes Communications Council is an invitation-only community for executives in successful public relations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/03/03/ai-has-the-student-become-the-teacher/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/03/03/ai-has-the-student-become-the-teacher/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6400fc2cb455f425548619bd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/03/03/ai-has-the-student-become-the-teacher/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/03/03/ai-has-the-student-become-the-teacher/amp/",
-      "publishedDateTime": "2023-03-03T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-how-artificial-intelligence-is-making-it-easier-to-scout-soccer-players-overseas.md",
-      "title": "How Artificial Intelligence Is Making It Easier To Scout Soccer Players Overseas",
-      "excerpt": "In the past, the cost of overseas scouting meant Africa's best players like Yaya Touré only had a few routes to the top. Now, AI and high-resolution cameras are revolutionizing youth scouting, allowing clubs to scout players from West Africa to Iceland without leaving the office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/steveprice/2023/03/03/how-artificial-intelligence-is-making-it-easier-to-scout-soccer-players-overseas/",
-      "originalUrl": "https://www.forbes.com/sites/steveprice/2023/03/03/how-artificial-intelligence-is-making-it-easier-to-scout-soccer-players-overseas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6401ab4a5d18a8b0965a1649/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/steveprice/2023/03/03/how-artificial-intelligence-is-making-it-easier-to-scout-soccer-players-overseas/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveprice/2023/03/03/how-artificial-intelligence-is-making-it-easier-to-scout-soccer-players-overseas/amp/",
-      "publishedDateTime": "2023-03-03T00:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-ford-launches-new-in-house-driverless-car-division.md",
-      "title": "Ford launches new in-house driverless-car division",
-      "excerpt": "Ford Motor Co. said Thursday it has launched an artificial-intelligence unit focusing on driverless cars, hiring people who used to work at the shuttered Argo AI startup. The division, named ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/ford-launches-new-in-house-driverless-car-division-1682ae97",
-      "originalUrl": "https://www.marketwatch.com/story/ford-launches-new-in-house-driverless-car-division-1682ae97",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-732595/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/ford-launches-new-in-house-driverless-car-division-1682ae97",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ford-launches-new-in-house-driverless-car-division-1682ae97",
-      "publishedDateTime": "2023-03-03T00:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

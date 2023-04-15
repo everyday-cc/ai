@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-11-create-your-rstudio-on-amazon-sagemaker-licensed-or-trial-environment-in-three-easy-steps.md",
+      "title": "Create your RStudio on Amazon SageMaker licensed or trial environment in three easy steps",
+      "excerpt": "RStudio on Amazon SageMaker is the first fully managed cloud-based Posit Workbench (formerly known as RStudio Workbench). RStudio on Amazon SageMaker removes the need for you to manage the underlying Posit Workbench infrastructure, so your teams can concentrate on producing value for your business. You",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-your-rstudio-on-amazon-sagemaker-licensed-or-trial-environment-in-three-easy-steps/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-your-rstudio-on-amazon-sagemaker-licensed-or-trial-environment-in-three-easy-steps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-11T08:39:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-11-cadence-ceo-drives-growth-beyond-chip-design-with-ai-and-computational-software.md",
       "title": "Cadence CEO Drives Growth Beyond Chip Design With AI And Computational Software",
       "excerpt": "Dr. Devgan and his company have a vision of bringing the power of simulation, modeling and computational software to far more than just semiconductor chip design.",
@@ -599,6 +642,58 @@
       ]
     },
     {
+      "path": "_news/2023-04-10-fintech-dealmaking-is-ready-for-prime-time.md",
+      "title": "Fintech dealmaking is ready for prime time",
+      "excerpt": "One could make the point that every industry has a backlog of potential deals, but fintech seems particularly ... check out these podcasts focused on AI. Here are 11 AI-focused podcasts ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/fintech-dealmaking-tredning-neobanks-bnpl-smb-lending-2023-4",
+      "originalUrl": "https://www.businessinsider.com/fintech-dealmaking-tredning-neobanks-bnpl-smb-lending-2023-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/611ac81ba4b07b0018add693?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/fintech-dealmaking-tredning-neobanks-bnpl-smb-lending-2023-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fintech-dealmaking-tredning-neobanks-bnpl-smb-lending-2023-4?amp",
+      "publishedDateTime": "2023-04-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-09-all-about-eyes-computer-vision-syndrome.md",
       "title": "All About Eyes: Computer Vision Syndrome",
       "excerpt": "One of the hallmarks of life in the 21st century is how completely surrounded and dependent we have become on technology. It’s rare to find someone that doesn’t have a cell phone, tablet, or a ...",
@@ -806,7 +901,16 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KKWVQHG6PNB3RPJZLQ2AWNDG64.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -826,7 +930,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -971,74 +1076,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-08-an-ai-created-robots-out-of-living-tissue-then-they-started-to-reproduce-meet-the-xenobots.md",
-      "title": "An AI created robots out of living tissue. Then they started to reproduce…. Meet the xenobots",
-      "excerpt": "Scientists are using living materials to make machines that some would regard as alive… and now they’ve started to replicate",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencefocus.com/future-technology/ai-xenobots/",
-      "originalUrl": "https://www.sciencefocus.com/future-technology/ai-xenobots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-08T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC Focus",
-        "domain": "sciencefocus.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-08-thornbury-business-the-mower-doctor-launches-line-of-robotic-mowers.md",
-      "title": "Thornbury business The Mower Doctor launches line of robotic mowers",
-      "excerpt": "Take the strain out of the perfect lawn with latest robotic mowers from a Thornbury business. The Mower Doctor near Thornbury is your local garden and estate machinery experts. With a wide range of lawnmowers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gazetteseries.co.uk/news/23440382.thornbury-business-mower-doctor-launches-line-robotic-mowers/",
-      "originalUrl": "https://www.gazetteseries.co.uk/news/23440382.thornbury-business-mower-doctor-launches-line-robotic-mowers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gazette Series",
-        "domain": "gazetteseries.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

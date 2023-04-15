@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-15-smart-gun-introduced-with-fingerprint-facial-recognition-technology.md",
+      "title": "'Smart Gun' introduced with fingerprint, facial recognition technology",
+      "excerpt": "Colorado company Biofire Technologies has unveiled a new \"Smart Gun;\" a gun that can only be fired after quickly verifying the shooter's identity with fingerprint and facial recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ktvu.com/news/company-unveils-smart-gun-that-uses-fingerprint-facial-recognition-to-shoot",
+      "originalUrl": "https://www.ktvu.com/news/company-unveils-smart-gun-that-uses-fingerprint-facial-recognition-to-shoot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2023/04/932/470/gun-side-white.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ktvu.com/news/company-unveils-smart-gun-that-uses-fingerprint-facial-recognition-to-shoot.amp",
+      "cdnAmpWebUrl": "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/company-unveils-smart-gun-that-uses-fingerprint-facial-recognition-to-shoot.amp",
+      "publishedDateTime": "2023-04-14T23:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTVU",
+        "domain": "ktvu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-11-detect-real-and-live-users-and-deter-bad-actors-using-amazon-rekognition-face-liveness.md",
       "title": "Detect real and live users and deter bad actors using Amazon Rekognition Face Liveness",
       "excerpt": "Financial services, the gig economy, telco, healthcare, social networking, and other customers use face verification during online onboarding, step-up authentication, age-based access restriction, and bot detection. These customers verify user identity by matching the user’s face in a selfie captured",
@@ -1242,58 +1285,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-aqara-smart-video-doorbell-g4-with-on-device-ai-facial-recognition-launched.md",
-      "title": "Aqara Smart Video Doorbell G4 with on-device AI facial recognition Launched",
-      "excerpt": "Smart home accessory maker and Xiaomi ecological chain company Aqara has launched its first video doorbell, the Aqara Smart Video Doorbell G4, which is compatible with HomeKit Secure Video and features facial recognition. The device has a 1080p camera and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/03/23/aqara-smart-video-doorbell-g4-on-device-ai-facial-recognition-launched/",
-      "originalUrl": "https://www.gizmochina.com/2023/03/23/aqara-smart-video-doorbell-g4-on-device-ai-facial-recognition-launched/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/03/aqara-G4-launch.jpg",
-          "width": 1600,
-          "height": 890,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-23T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

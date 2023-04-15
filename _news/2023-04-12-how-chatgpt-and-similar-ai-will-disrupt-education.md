@@ -175,6 +175,22 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 63
+  - title: "How artificial intelligence like ChatGPT is influencing medical diagnoses"
+    excerpt: "And it's inevitable that people will use it to guide our own healthcare decisions just the way we've been leaning on \"Dr. Google\" for years"
+    publishedDateTime: 2023-04-15T06:11:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/how-artificial-intelligence-like-chatgpt-is-influencing-medical-diagnoses-123041500265_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/how-artificial-intelligence-like-chatgpt-is-influencing-medical-diagnoses-123041500265_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/how-artificial-intelligence-like-chatgpt-is-influencing-medical-diagnoses-123041500265_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 58
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-04/05/full/1680689278-0568.jpg"
+        width: 1349
+        height: 900
+        isCached: true
   - title: "Microsoft integrates Bing's AI into Swiftkey, Skype, Start apps"
     excerpt: "After launching the new Bing experience earlier this year, Microsoft has been trying to bring the search engine's AI features to its products."
     publishedDateTime: 2023-04-14T06:11:00Z
@@ -367,6 +383,20 @@ related:
       - url: "https://imengine.editorial.prod.rgb.navigacloud.com/?uuid=f7b5a041-0fb5-5065-9472-989382454613&function=fit&type=preview"
         width: 500
         height: 333
+        isCached: true
+  - title: "Is ChatGPT-4 replacing Google?"
+    excerpt: "ChatGPT is an AI-powered chatbot that creates a virtual conversation with users by using machine learning and natural language processing. Google is known for its innovative and inventive use of technology. OpenAI (developer of ChatGPT) is an artificial ..."
+    publishedDateTime: 2023-04-15T07:16:00Z
+    webUrl: "https://www.fijitimes.com/is-chatgpt-4-replacing-google/"
+    type: article
+    provider:
+      name: Fiji Times
+      domain: fijitimes.com
+    quality: 24
+    images:
+      - url: "https://www.fijitimes.com/wp-content/uploads/2023/04/Google-building.jpg"
+        width: 1536
+        height: 948
         isCached: true
   - title: "Could AI Language Models Like ChatGPT Unlock Mysterious Ancient Texts?"
     excerpt: "Ancient writings like the Indus script and Voynich Manuscript have baffled scholars for decades. Some researchers think AI systems could help reveal their secrets."

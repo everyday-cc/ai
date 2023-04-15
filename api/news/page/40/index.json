@@ -2,6 +2,152 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2023-03-07-is-the-us-government-ready-for-the-rise-of-artificial-intelligence.md",
+      "title": "Is the US government ready for the rise of artificial intelligence?",
+      "excerpt": "AI could benefit society, but it could also become a monster. To guide the way, we need leadership and understanding",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ebc4df75b728a3e25fbf863375da820aee1b1b34/0_115_8640_5184/master/8640.jpg?width=620&quality=85&auto=format&fit=max&s=d5c20814aa6b6aaa53696c96662f86cf",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich",
+      "publishedDateTime": "2023-03-07T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-sas-data-ethics-chief-talks-about-keeping-an-ethical-eye-on-ai.md",
+      "title": "SAS' data ethics chief talks about keeping an ethical eye on AI",
+      "excerpt": "SAS Institute's Data Ethics Practice's director Reggie Townsend. Photo illustration: Lindsey Bailey/Axios. Photo courtesy of SAS Institute The U.S. is at a crossroads when it comes to the future of artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.axios.com/local/raleigh/2023/03/07/sas-head-of-artificial-intelligence-ethics",
+      "originalUrl": "https://www.axios.com/local/raleigh/2023/03/07/sas-head-of-artificial-intelligence-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.axios.com/l0HjUVno5evT4xHFAks95sBilNI=/0x0:1920x1080/1366x768/2023/03/06/1678140445306.jpg",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-07T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Axios",
+        "domain": "axios.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-tech-execs-didnt-just-start-talking-about-ai-but-they-are-talking-about-it-a-lot-more.md",
+      "title": "Tech execs didn’t just start talking about AI — but they are talking about it a lot more",
+      "excerpt": "Do you feel like you've heard a lot more about AI in 2023? A MarketWatch analysis shows you probably have, although from roughly the same number of sources.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/tech-execs-didnt-just-start-talking-about-ai-but-they-are-talking-about-it-a-lot-more-a11accae",
+      "originalUrl": "https://www.marketwatch.com/story/tech-execs-didnt-just-start-talking-about-ai-but-they-are-talking-about-it-a-lot-more-a11accae",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-737082/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-execs-didnt-just-start-talking-about-ai-but-they-are-talking-about-it-a-lot-more-a11accae",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-execs-didnt-just-start-talking-about-ai-but-they-are-talking-about-it-a-lot-more-a11accae",
+      "publishedDateTime": "2023-03-07T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-07-chatgpt-machine-learning-and-generative-ai-in-healthcare.md",
       "title": "ChatGPT, Machine Learning And Generative AI In Healthcare",
       "excerpt": "The use of generative AI has the potential to greatly impact clinical understanding, diagnosis and treatment of complex medical conditions as well as improve the accuracy, efficiency and effectiveness of healthcare system function.",
@@ -1007,127 +1153,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-artificial-intelligence-can-predict-cancer-survival-using-data-from-a-single-consultation.md",
-      "title": "Artificial Intelligence Can Predict Cancer Survival Using Data From a Single Consultation",
-      "excerpt": "Artificial intelligence can predict survival in cancer patients using information from a patient’s initial consultation with an oncologist, a study suggests.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cancertherapyadvisor.com/home/news/artificial-intelligence-predict-cancer-survival-data-single-consultation/",
-      "originalUrl": "https://www.cancertherapyadvisor.com/home/news/artificial-intelligence-predict-cancer-survival-data-single-consultation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-06T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cancer Therapy Advisor",
-        "domain": "cancertherapyadvisor.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-brainchip-extends-ai-machine-learning-in-space-and-time-with-bio-inspired-neural-networks.md",
-      "title": "Brainchip Extends AI, Machine Learning In Space And Time With Bio-Inspired Neural Networks",
-      "excerpt": "Brainchip has introduced a new generation of its unique, bio-inspired Akida line of licensable, configurable neural processing IP.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/06/brainchip-extends-ai-machine-learning-in-space-and-time-with-bio-inspired-neural-networks/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/06/brainchip-extends-ai-machine-learning-in-space-and-time-with-bio-inspired-neural-networks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/640214b4c8c9ba097d058205/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 691,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/06/brainchip-extends-ai-machine-learning-in-space-and-time-with-bio-inspired-neural-networks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/03/06/brainchip-extends-ai-machine-learning-in-space-and-time-with-bio-inspired-neural-networks/amp/",
-      "publishedDateTime": "2023-03-06T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-ai-and-machine-learning-powered-devron-cover-whale-to-enable-safer-roads.md",
-      "title": "AI and Machine Learning-Powered Devron, Cover Whale to Enable Safer Roads",
-      "excerpt": "Devron, which claims to be the leader in AI and machine learning for distributed and ... Learn Finance and Get Certified at nocost with 365 Financial Analyst FromMarch 1 to 21, the new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/03/203315-ai-and-machine-learning-powered-devron-cover-whale-to-enable-safer-roads/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/03/203315-ai-and-machine-learning-powered-devron-cover-whale-to-enable-safer-roads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-06T03:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -69,15 +69,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
-  - title: "GM's Cruise updates software, recalls 300 self-driving vehicles for crash risk"
-    excerpt: "The recall and software update come after a March 23 collision in which a Cruise robotaxi inaccurately predicted the movement of a bus in San Francisco."
-    publishedDateTime: 2023-04-10T14:02:00Z
-    webUrl: "https://www.autonews.com/mobility-report/gms-cruise-updates-self-driving-software-after-bus-crash"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 0
   - title: "How road rage really affects your driving—and the self-driving cars of the future"
     excerpt: "New research by the University of Warwick has identified characteristics of aggressive driving—which impact both road users and the transition to self-driving cars of the future."
     publishedDateTime: 2023-04-11T20:10:00Z

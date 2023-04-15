@@ -2,6 +2,59 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-01-21-teaching-in-the-age-of-artificial-intelligence-and-chatgpt.md",
+      "title": "Teaching In The Age Of Artificial Intelligence And ChatGPT",
+      "excerpt": "Artificial intelligence empowers increasingly complex interactions between humans and machines. This technology, currently popularized by ChatGPT, provides a potentially enormous opportunity for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tedladd/2023/01/21/teaching-in-the-age-of-artificial-intelligence-and-chatgpt/",
+      "originalUrl": "https://www.forbes.com/sites/tedladd/2023/01/21/teaching-in-the-age-of-artificial-intelligence-and-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63cb84748d623fc3b06e3ae4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tedladd/2023/01/21/teaching-in-the-age-of-artificial-intelligence-and-chatgpt/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedladd/2023/01/21/teaching-in-the-age-of-artificial-intelligence-and-chatgpt/amp/",
+      "publishedDateTime": "2023-01-21T01:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-01-20-artificial-intelligence-is-coming-for-human-creativity.md",
       "title": "Artificial Intelligence Is Coming for Human Creativity",
       "excerpt": "Second, the development of artificial intelligence poses a challenge to our claims to creative uniqueness. With the defeat of Garry Kasparov by Big Blue in 1997, many people lost interest in chess ...",
@@ -1265,58 +1318,6 @@
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-why-artificial-intelligence-is-set-to-be-a-game-changer-for-businesses-in-2023-according-to-7-founders.md",
-      "title": "Why artificial intelligence is set to be a game changer for businesses in 2023, according to 7 founders",
-      "excerpt": "If you've seen artificial-intelligence-generated selfies ... They mentioned innovations in healthcare, wellness, and supply chains, but the most common trend was AI. Many said they expected ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1",
-      "originalUrl": "https://www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63b895d0fd2a2700180838c7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1?amp",
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

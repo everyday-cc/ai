@@ -181,10 +181,21 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Elon Musk creates X.AI — a potential new artificial intelligence startup"
+    excerpt: "Musk left OpenAI’s board in 2018 and has since criticised the organization, which created a for-profit arm in 2019."
+    publishedDateTime: 2023-04-15T06:10:00Z
+    webUrl: "https://mybroadband.co.za/news/business/487823-elon-musk-creates-x-ai-a-potential-new-artificial-intelligence-startup.html"
+    ampWebUrl: "https://mybroadband.co.za/news/business/487823-elon-musk-creates-x-ai-a-potential-new-artificial-intelligence-startup.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/business/487823-elon-musk-creates-x-ai-a-potential-new-artificial-intelligence-startup.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 51
   - title: "Elon Musk vs OpenAI: Twitter boss creates new AI company weeks after open letter to halt AI developments"
     excerpt: "A few weeks after he signed a letter seeking a pause on big AI experiments, Elon Musk seems to be floating his own AI firm to rival OpenAI."
     publishedDateTime: 2023-04-15T05:50:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/elon-musk-vs-openai-sam-altman-gpt4-8557417/"
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/elon-musk-vs-openai-sam-altman-gpt4-8557417/lite/"
     ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/elon-musk-vs-openai-sam-altman-gpt4-8557417/lite/"
     cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/elon-musk-vs-openai-sam-altman-gpt4-8557417/lite/"
     type: article
@@ -196,6 +207,20 @@ related:
       - url: "https://images.indianexpress.com/2023/04/Elon-Musk-AI-company.jpg"
         width: 1200
         height: 667
+        isCached: true
+  - title: "Elon Musk launches AI start-up"
+    excerpt: "Elon Musk has launched a new artificial intelligence firm X AI Corp reportedly seeking to compete with OpenAI Read Full Article at RTcom"
+    publishedDateTime: 2023-04-15T06:46:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273745993/elon-musk-launches-ai-start-up"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/Yjg1MzBhZGUtNTY.jpg"
+        width: 749
+        height: 420
         isCached: true
   - title: "Elon Musk plans AI start-up to rival OpenAI: Report"
     excerpt: "Billionaire Elon Musk is working on launching an artificial intelligence start-up that will rival ChatGPT-maker OpenAI, the Financial Times reported on Friday (Apr 14), citing people familiar with his plans."
@@ -280,6 +305,20 @@ related:
       - url: "https://static.businessworld.in/article/article_extra_large_image/1612433725_bzj1WZ_2021_02_04T095433Z_1_LYNXMPEH130P0_RTROPTP_4_CLUBHOUSE_STOCKS_MUSK.JPG"
         width: 870
         height: 470
+        isCached: true
+  - title: "Musk plans AI start-up to rival OpenAI, FT says"
+    excerpt: "Billionaire Elon Musk is working on an artificial intelligence start-up that will rival ChatGPT-maker OpenAI, the Financial Times reported on Friday citing people familiar with his plans. Twitter-owner Musk is assembling a team of AI researchers and engineers,"
+    publishedDateTime: 2023-04-15T06:48:00Z
+    webUrl: "https://techcentral.co.za/musk-plans-ai-start-up-to-rival-openai-ft-says/224452/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 37
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2022/11/elon-musk-1500-800-1.jpg"
+        width: 1500
+        height: 800
         isCached: true
   - title: "Elon Musk plans artificial intelligence start-up to rival Open AI"
     excerpt: "Elon Musk is developing plans to launch a new artificial intelligence start-up to compete with ChatGPT-maker OpenAI, as the billionaire seeks to join Silicon Valley’s race to build generative AI systems."

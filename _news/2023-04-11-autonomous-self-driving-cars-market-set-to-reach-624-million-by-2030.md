@@ -46,6 +46,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
+  - title: "Facial Recognition Market Size 2023: Big Expansion Strategies, Revenue Generations, and Top Key Players Forecast to 2031"
+    excerpt: "Global Facial Recognition Market is valued approximately USD $ billion in 2019 and is anticipated to grow with"
+    publishedDateTime: 2023-04-14T09:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-2023-big-expansion-strategies-revenue-generations-and-top-key-players-forecast-to-2031-2023-04-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Speech and Voice Recognition Technology Market is Poised to Experience Huge Growth to 2023"
     excerpt: "Speech and Voice Recognition Technology Market Size 2023 | New Report (117 Pages) | Analytics | In This Reports Speech"
     publishedDateTime: 2023-04-13T06:27:00Z

@@ -2,6 +2,40 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-04-05-two-tasks-are-better-than-one-learning-if-and-how-much-its-raining-improves-deep-models.md",
+      "title": "Two tasks are better than one: Learning if and how much it’s raining improves deep models",
+      "excerpt": "To measure precipitation from satellite data, researchers from the Institute of Industrial Science, The University of Tokyo, developed a deep-learning–based precipitation retrieval framework. Rather than identifying rain areas through classification and then determining the rate of rain through regression,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/985410",
+      "originalUrl": "https://www.eurekalert.org/news-releases/985410",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-05-vpbank-collaborates-with-amazon-web-services-to-lift-digital-banking-experience.md",
       "title": "VPBank collaborates with Amazon Web Services to lift digital banking experience",
       "excerpt": "The Vietnam Prosperity Joint-Stock Commercial Bank (VPBank) has officially signed a strategic collaboration agreement with Amazon Web Services (AWS) in enhancing digital banking experiences for its customers.",
@@ -331,6 +365,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-05-artificial-intelligence-in-healthcare-market-size-share-to-surpass-9565-billion-by-2028-vantage-market-research.md",
+      "title": "Artificial Intelligence in Healthcare Market Size & Share to Surpass $95.65 Billion by 2028 | Vantage Market Research",
+      "excerpt": "WASHINGTON, April 04, 2023 (GLOBE NEWSWIRE) -- The Global Artificial Intelligence in Healthcare Market is valued at USD 6.60 Billion in 2021 and is projected to reach a value of USD 95.65 Billion ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/04/g31663616/artificial-intelligence-in-healthcare-market-size-share-to-surpass-95-65-billion-by-2028-vantage-m",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/g31663616/artificial-intelligence-in-healthcare-market-size-share-to-surpass-95-65-billion-by-2028-vantage-m",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -845,83 +922,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-04-cognitive-computing-market-is-anticipated-to-reach-us-32-trillion-in-2032-report-by-fmi.md",
-      "title": "Cognitive Computing Market is Anticipated to Reach US$ 3.2 Trillion in 2032 | Report by FMI",
-      "excerpt": "According to a recent study done by FMI, the cognitive computing market is expected to reach US$ 3.2 Trillion by 2032, up from US$ 257.1 Billion in 2022, expanding at a high CAGR of 28.7%. This study explains that the key factors such as the rise in big data analytics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2023/04/04/cognitive-computing-market-is-anticipated-to-reach-us-3-2-trillion-in-2032-report-by-fmi/",
-      "originalUrl": "https://www.fmiblog.com/2023/04/04/cognitive-computing-market-is-anticipated-to-reach-us-3-2-trillion-in-2032-report-by-fmi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-03T20:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-04-azure-our-ai-platform.md",
-      "title": "Azure: Our AI Platform",
-      "excerpt": "Since 2016, Microsoft has committed to building Azure into an AI supercomputer for the world, serving as the foundation of our vision to democratize AI as a platform. Through our initial investment and collaboration, Microsoft and OpenAI pushed the ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/2023/04/04/azure-our-ai-platform/",
-      "originalUrl": "https://news.microsoft.com/2023/04/04/azure-our-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

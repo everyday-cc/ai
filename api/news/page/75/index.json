@@ -2,6 +2,107 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2023-02-07-fish-can-recognize-themselves-in-photos-further-evidence-they-may-be-self-aware.md",
+      "title": "Fish can recognize themselves in photos, further evidence they may be self-aware",
+      "excerpt": "Cleaner fish recognize themselves in mirrors and photos, suggesting that far more animals may be self-aware than previously thought.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencenews.org/article/fish-recognize-photo-self-aware",
+      "originalUrl": "https://www.sciencenews.org/article/fish-recognize-photo-self-aware",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T12:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science News",
+        "domain": "sciencenews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-mobily-kicks-off-leap-2023-in-style-with-big-partnership-announcements-across-smart-cities-gaming-artificial-intelligence-and-more.md",
+      "title": "Mobily kicks-off LEAP 2023 in style with big partnership announcements across smart cities, gaming, Artificial Intelligence and more",
+      "excerpt": "Cooperation with The Royal Commission for Al-Ula Governorate to boost tourism, trade and quality of life of residents through digital technology and services; Mobily partners with",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-mobily-kicks-off-leap-2023-style-with-big-/2023/02/06/9755597.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-mobily-kicks-off-leap-2023-style-with-big-/2023/02/06/9755597.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T12:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-these-fish-can-recognize-themselves-in-photos-hinting-at-self-awareness.md",
+      "title": "These fish can recognize themselves in photos, hinting at self-awareness",
+      "excerpt": "Cleaner fish recognize themselves in mirrors and photos, suggesting that far more animals may be self-aware than previously thought.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencenews.org/article/fish-recognize-photo-self-aware",
+      "originalUrl": "https://www.sciencenews.org/article/fish-recognize-photo-self-aware",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T12:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science News",
+        "domain": "sciencenews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-c3ai-bigbearai-and-soundhound-stock-are-soaring-in-an-ai-feeding-frenzy.md",
       "title": "C3.ai, BigBearAI, and SoundHound Stock Are Soaring in an AI Feeding Frenzy",
       "excerpt": "Investors are in a feeding frenzy over artificial-intelligence software plays, and you have to think this isn’t going to end well. You can date the start of the AI stock craze to the Nov. 30 launch of ChatGPT,",
@@ -821,115 +922,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-artificial-intelligence-systems-will-lead-to-layoffs-but-traders-say-they-will-be-fine.md",
-      "title": "Artificial intelligence systems will lead to layoffs, but traders say they will be fine",
-      "excerpt": "Advanced artificial intelligence systems are expected to eventually replace some jobs in the financial, media, legal and technology sectors, according to the latest MLIV Pulse survey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.spokesman.com/stories/2023/feb/06/artificial-intelligence-systems-will-lead-to-layof/",
-      "originalUrl": "https://www.spokesman.com/stories/2023/feb/06/artificial-intelligence-systems-will-lead-to-layof/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T09:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Spokesman-Review",
-        "domain": "spokesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-ai-generated-seinfeld-parody-banned-on-twitch-over-transphobic-standup-bit.md",
-      "title": "AI-generated Seinfeld parody banned on Twitch over transphobic standup bit",
-      "excerpt": "Nothing, Forever, a 24/7 show based on popular sitcom, will be offline for 14 days as makers blame technical glitch",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2023/feb/06/nothing-forever-twitch-ban-seinfeld-parody-ai",
-      "originalUrl": "https://www.theguardian.com/us-news/2023/feb/06/nothing-forever-twitch-ban-seinfeld-parody-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T09:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-private-hospital-chain-rolls-out-clinical-intelligence-engine-for-doctors-across-india.md",
-      "title": "Private Hospital chain rolls out Clinical Intelligence Engine for doctors across India",
-      "excerpt": "One of the largest private hospital groups in Asia has launched Clinical Intelligence Engine- a clinical decision support tool, to be open to use by all Indian doctors on Apollo 24x7's platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/headlines/2345411-private-hospital-chain-rolls-out-clinical-intelligence-engine-for-doctors-across-india",
-      "originalUrl": "https://www.devdiscourse.com/article/headlines/2345411-private-hospital-chain-rolls-out-clinical-intelligence-engine-for-doctors-across-india",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T09:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

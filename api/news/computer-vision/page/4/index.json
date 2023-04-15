@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-24-human-art-already-has-so-much-in-common-with-ai.md",
+      "title": "Human Art Already Has So Much In Common With AI",
+      "excerpt": "Despite being human-made, human-taught, and human-promoted, it’s easy to criticize AI for being fundamentally inhuman. To claim that AI models like ChatGPT and DALL-E will replace art created by people is to ignore both the ineffable qualities of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/generative-art-algorithms-creativity/",
+      "originalUrl": "https://www.wired.com/story/generative-art-algorithms-creativity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63f7ff97d35154c5a1727fde/master/pass/ideas_ai_art_algorithmic_creativity.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/generative-art-algorithms-creativity/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/generative-art-algorithms-creativity/amp",
+      "publishedDateTime": "2023-02-24T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-02-24-tirupati-temple-to-introduce-facial-recognition-system-for-darshan-from-march-1.md",
       "title": "Tirupati Temple To Introduce Facial Recognition System For Darshan From March 1",
       "excerpt": "The famous Tirupati temple in Andhra Pradesh is set to introduce facial recognition system for the devotees from March 1. Tirumala Tiurpathi Devastanams (TTD), the trust that manages the temple ...",
@@ -1305,40 +1357,6 @@
       "provider": {
         "name": "Eater",
         "domain": "eater.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-cap_able-blocks-facial-recognition-software-with-knitted-clothing.md",
-      "title": "Cap_able blocks facial recognition software with knitted clothing",
-      "excerpt": "Cap_able has launched a collection of knitted clothing that protects the wearer's biometric data without the need to cover their face.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dezeen.com/2023/02/07/cap_able-facial-recognition-blocking-clothing/",
-      "originalUrl": "https://www.dezeen.com/2023/02/07/cap_able-facial-recognition-blocking-clothing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T20:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dezeen",
-        "domain": "dezeen.com",
         "images": null,
         "publishers": null,
         "authors": null

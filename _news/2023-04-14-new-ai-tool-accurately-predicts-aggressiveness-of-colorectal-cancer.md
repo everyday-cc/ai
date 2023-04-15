@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20230413/New-AI-tool-accurately-
 webUrl: "https://www.news-medical.net/news/20230413/New-AI-tool-accurately-predicts-aggressiveness-of-colorectal-cancer.aspx"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Colon Cancer Survival and Therapy Response Predicted by AI"
+    excerpt: "A new artificial intelligence model could bring clarity to doctors delivering prognoses and deciding on treatments for patients with colorectal cancer"
+    publishedDateTime: 2023-04-14T09:01:00Z
+    webUrl: "https://www.technologynetworks.com/cancer-research/news/colon-cancer-survival-and-therapy-response-predicted-by-ai-372120"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 54
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/372120/colon-cancer-survival-and-therapy-response-predicted-by-ai-372120-640x360.jpg?cb=20230414"
+        width: 640
+        height: 360
+        isCached: true
   - title: "AI tool predicts colon cancer survival, treatment response"
     excerpt: "A new artificial intelligence model designed by researchers at Harvard Medical School and National Cheng Kung University in Taiwan could bring much-needed clarity to doctors delivering prognoses and deciding on treatments for patients with colorectal cancer,"
     publishedDateTime: 2023-04-13T16:16:00Z

@@ -74,15 +74,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 27
-  - title: "GM's Cruise updates software, recalls 300 self-driving vehicles for crash risk"
-    excerpt: "The recall and software update come after a March 23 collision in which a Cruise robotaxi inaccurately predicted the movement of a bus in San Francisco."
-    publishedDateTime: 2023-04-10T14:02:00Z
-    webUrl: "https://www.autonews.com/mobility-report/gms-cruise-updates-self-driving-software-after-bus-crash"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 0
 
 secured: "Q6Z7j8Ah79dfUQnMmf95oEZy2IGKnRGnWeWokVNBvkPeLgkm0TRQANWIQf9gnVIHNwisPQrIfmRyfIJeaOjw0xjL0ec2HwL2mhD1ski3ouUyGSffTzNPKi0nWBXeiPBa6AJgt8S4K9s3l9bypdmCCQkhGWyo9FxbWmcf0TxJc5q8hrYCBAtrkuG+TE71YGghOQC5kUKxhviYw7d/MEQJwh6Zw1BAubJ85AxEdI/7f+nvi0Z9mgTpxvo+CIiNsaDWBWppMTc72WOASeCjtIqLx/6qoFn5lN0YwvDQJSHg8p17wXFsK0FwTpN9xLHpIUaK+Ic/XMEgb4Gks1BI8HACettRD2mm8C0vr3a9bcjGtS3lJql6MN6U+lL+7WocDAJm/VqLSHD1oNCSNIKBnafJDiuICAnLZJR8SLGOAXYaBPyafcfO0E/1HQFN1enpEJtFC5Kn6OIrbWrDRt6gRe9No+//bmgwaM8CaTAJTvyDVYTdD/vxlNtmTIgqDuF4nnB3UoZA5WJvpxdSMSCdaLokjA==;98lVmTzfVYnWwwE5jqfXxQ=="
 ---

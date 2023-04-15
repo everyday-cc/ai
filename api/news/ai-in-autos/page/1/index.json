@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artificial-intelligence-company-to-challenge-openai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 295,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -114,7 +114,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/self-driving-vehicles-market-future-investments-and-forecast-till-2028-2023-04-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -272,7 +272,16 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KKWVQHG6PNB3RPJZLQ2AWNDG64.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -292,7 +301,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {

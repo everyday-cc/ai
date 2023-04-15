@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-23-aqara-smart-video-doorbell-g4-with-on-device-ai-facial-recognition-launched.md",
+      "title": "Aqara Smart Video Doorbell G4 with on-device AI facial recognition Launched",
+      "excerpt": "Smart home accessory maker and Xiaomi ecological chain company Aqara has launched its first video doorbell, the Aqara Smart Video Doorbell G4, which is compatible with HomeKit Secure Video and features facial recognition. The device has a 1080p camera and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/03/23/aqara-smart-video-doorbell-g4-on-device-ai-facial-recognition-launched/",
+      "originalUrl": "https://www.gizmochina.com/2023/03/23/aqara-smart-video-doorbell-g4-on-device-ai-facial-recognition-launched/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/03/aqara-G4-launch.jpg",
+          "width": 1600,
+          "height": 890,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-23T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-23-agba-fg-to-install-facial-recognition-cameras-to-boost-security-at-airports.md",
       "title": "Agba: FG to Install Facial Recognition Cameras to Boost Security at Airports",
       "excerpt": "The Minister of State, Budget and National Planning, Prince Clem Agba, yesterday said the federal government would commence installation of facial recognition technology at major airports in the country. Speaking when he hosted the Japanese Ambassador to ...",
@@ -1343,58 +1395,6 @@
         "name": "Orange County Register",
         "domain": "ocregister.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-which-stores-are-scanning-your-face-no-one-knows.md",
-      "title": "Which Stores Are Scanning Your Face? No One Knows.",
-      "excerpt": "Our reporter took a five-mile walk around Manhattan to find businesses that are using facial recognition technology. Send any friend a story As a subscriber, you have 10 gift articles to give each ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/03/10/technology/facial-recognition-stores.html",
-      "originalUrl": "https://www.nytimes.com/2023/03/10/technology/facial-recognition-stores.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/03/12/multimedia/00face-walk-msg-fbcl/00face-walk-msg-fbcl-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/03/10/technology/facial-recognition-stores.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/10/technology/facial-recognition-stores.amp.html",
-      "publishedDateTime": "2023-03-10T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

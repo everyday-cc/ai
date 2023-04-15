@@ -7,7 +7,7 @@ originalUrl: "https://www.natlawreview.com/article/nyc-introduces-bills-to-limit
 webUrl: "https://www.natlawreview.com/article/nyc-introduces-bills-to-limit-facial-recognition-private-sector"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,24 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "NYC Lawmakers Seek to Ban Businesses From Facial Recognition Use"
-    excerpt: "Businesses in New York City including stadiums would be unable to use facial recognition or other surveillance technology to identify customers without their consent, under a draft bill shared exclusively with Bloomberg Law."
-    publishedDateTime: 2023-04-12T20:22:00Z
-    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/nyc-lawmakers-seek-to-ban-businesses-from-facial-recognition-use-1"
+  - title: "'Smart Gun' introduced with fingerprint, facial recognition technology"
+    excerpt: "Colorado company Biofire Technologies has unveiled a new \"Smart Gun;\" a gun that can only be fired after quickly verifying the shooter's identity with fingerprint and facial recognition technology."
+    publishedDateTime: 2023-04-15T06:31:00Z
+    webUrl: "https://www.ktvu.com/news/company-unveils-smart-gun-that-uses-fingerprint-facial-recognition-to-shoot"
+    ampWebUrl: "https://www.ktvu.com/news/company-unveils-smart-gun-that-uses-fingerprint-facial-recognition-to-shoot.amp"
+    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/company-unveils-smart-gun-that-uses-fingerprint-facial-recognition-to-shoot.amp"
     type: article
     provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 19
-  - title: "NYC city council introduces bills to ban businesses from using face recognition"
-    excerpt: "The pair of bills would ban businesses and buildings from using the technology to identify customers, or tenants, without their consent."
-    publishedDateTime: 2023-04-13T11:46:00Z
-    webUrl: "https://www.fox5ny.com/news/face-recognition-businesses-city-council-bills"
+      name: KTVU
+      domain: ktvu.com
+    quality: 59
+    images:
+      - url: "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2023/04/932/470/gun-side-white.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "Biofire Announces World's First Smart Gun® Secured by Fingerprint and Facial Recognition"
+    excerpt: "The 9mm handgun fires only for authorized users, ensuring it can't be used by children or criminals.BROOMFIELD, Colo., April 13, 2023"
+    publishedDateTime: 2023-04-13T13:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/biofire-announces-world-s-first-smart-gun-secured-by-fingerprint-and-facial-recognition-1032229905"
     type: article
     provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 17
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
   - title: "NYC lawmakers introduce bill to ban businesses from using facial recognition tech"
     excerpt: "Both bills are scheduled to be introduced at the City Council meeting on April 27 following a Committee on Technology meeting two days earlier."
     publishedDateTime: 2023-04-13T03:46:00Z
@@ -52,6 +59,15 @@ related:
       name: New York Post
       domain: nypost.com
     quality: 16
+  - title: "First-ever ‘smart gun’ with fingerprint and facial recognition unlocking system hits the market"
+    excerpt: "The cutting-edge 9mm handgun locks out everybody except the owner and users specifically approved by the owner — technology  that could improve gun safety in America, according to reps from the"
+    publishedDateTime: 2023-04-13T19:27:00Z
+    webUrl: "https://nypost.com/2023/04/13/first-ever-smart-gun-with-fingerprint-unlocking-system-hits-the-market/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 7
 
 secured: "FKsZilKoxNcIFaXsnXmLcEcBMH+Ne+F7R48J8ok4Qx1QDoAN37CqE0gAoBsoKf4FATZqRtt9xM8jie2nkPaoMJxsJTTxHOIx+QSss61W5IxgPrjdbZ/oRUmx+pnzBuuFg7kK9ROgN1Cy3SpmFbXODcFm4DHQts8o+QHCzjZn6Z75+C6KmBZpAHvG47qYnA8d8eN5+/kf/5/CLHwZYaDa4dX/Is1PXX3aV/Wit5V+irvQQeAPUXRk79YlWwecS5rUidbTn4577wlzPVHFDckfcP7JZ2ZCXZ924OwEyY4gYef3TaX0/VFITUG3dJsCU5zN25KRXPRqADA4HriLs4N74qB6KqtUZrsG4+D5ntExOMc=;Li+G1F1N+0NHdmnHYqKHEg=="
 ---

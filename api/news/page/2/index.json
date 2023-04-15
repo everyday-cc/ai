@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-14-colon-cancer-survival-and-therapy-response-predicted-by-ai.md",
+      "title": "Colon Cancer Survival and Therapy Response Predicted by AI",
+      "excerpt": "A new artificial intelligence model could bring clarity to doctors delivering prognoses and deciding on treatments for patients with colorectal cancer",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/cancer-research/news/colon-cancer-survival-and-therapy-response-predicted-by-ai-372120",
+      "originalUrl": "https://www.technologynetworks.com/cancer-research/news/colon-cancer-survival-and-therapy-response-predicted-by-ai-372120",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/372120/colon-cancer-survival-and-therapy-response-predicted-by-ai-372120-640x360.jpg?cb=20230414",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-artificial-intelligence-ai-chip-market-by-2030-future-scope-and-predictions.md",
+      "title": "Artificial Intelligence (AI) Chip Market by 2030: Future Scope and Predictions",
+      "excerpt": "The Artificial Intelligence (AI) Chip Market has been comprehensively examined in a new research report published",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-by-2030-future-scope-and-predictions-2023-04-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-by-2030-future-scope-and-predictions-2023-04-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-14-chatgpt-cheat-sheet-complete-guide-for-2023.md",
       "title": "ChatGPT cheat sheet: Complete guide for 2023",
       "excerpt": "Learn everything from how to sign up for free to enterprise use cases, and start using ChatGPT quickly and effectively.",
@@ -687,7 +782,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/self-driving-vehicles-market-future-investments-and-forecast-till-2028-2023-04-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -911,58 +1006,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-12-vizai-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2023.md",
-      "title": "Viz.ai Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2023",
-      "excerpt": "Viz.ai, the leader in AI-powered disease detection and intelligent care coordination, today announced it has been named",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/vizai-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2023-2023-04-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/vizai-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2023-2023-04-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-12-addressing-the-network-data-monetization-complexities.md",
       "title": "Addressing the network data monetization complexities",
       "excerpt": "In our previous blog, we identified the three layers to network data monetization. These were the data layer, the analytics layer and the automation layer. To address the network data value tree successfully, we must address the complexities of these three layers, which are essential for automated operations",
@@ -1013,7 +1056,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-is-booming-worldwide-throughout-2023-2030-2023-04-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1141,49 +1184,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-create-your-rstudio-on-amazon-sagemaker-licensed-or-trial-environment-in-three-easy-steps.md",
-      "title": "Create your RStudio on Amazon SageMaker licensed or trial environment in three easy steps",
-      "excerpt": "RStudio on Amazon SageMaker is the first fully managed cloud-based Posit Workbench (formerly known as RStudio Workbench). RStudio on Amazon SageMaker removes the need for you to manage the underlying Posit Workbench infrastructure, so your teams can concentrate on producing value for your business. You",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-your-rstudio-on-amazon-sagemaker-licensed-or-trial-environment-in-three-easy-steps/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-your-rstudio-on-amazon-sagemaker-licensed-or-trial-environment-in-three-easy-steps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T08:39:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.omanobserver.om/ampArticle/1135663"
 cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1135663"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://www.sciencefriday.com/wp-content/uploads/2023/04/Smart_01.jpg"
         width: 1500
         height: 1000
+        isCached: true
+  - title: "India finally lands on the global AI map"
+    excerpt: "A weekly newsletter on all things tech. Similarly for Twitter, etc."
+    publishedDateTime: 2023-04-15T07:38:00Z
+    webUrl: "https://www.livemint.com/mint-top-newsletter/techtalk14042023.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 39
+    images:
+      - url: "https://images.hindustantimes.com/img/2022/07/20/original/TechTalk_logo_1658338696231.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "IndiaAI will propel country into leading pack of nations in AI space: Chandrasekhar"
     excerpt: "Union Minister of State for Electronics & Information Technology and Skill Development & Entrepreneurship, Shri Rajeev Chandrasekhar has said the Government is determined to develop artificial intelligence and AI-powered solutions that will benefit India as well as transform lives of its people."

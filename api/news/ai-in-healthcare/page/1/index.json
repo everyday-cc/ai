@@ -62,7 +62,7 @@
       "originalUrl": "https://www.omanobserver.om/article/1135663/world/asia/indias-tryst-with-artificial-intelligence",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -149,21 +149,21 @@
       ]
     },
     {
-      "path": "_news/2023-04-12-vizai-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2023.md",
-      "title": "Viz.ai Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2023",
-      "excerpt": "Viz.ai, the leader in AI-powered disease detection and intelligent care coordination, today announced it has been named",
+      "path": "_news/2023-04-14-colon-cancer-survival-and-therapy-response-predicted-by-ai.md",
+      "title": "Colon Cancer Survival and Therapy Response Predicted by AI",
+      "excerpt": "A new artificial intelligence model could bring clarity to doctors delivering prognoses and deciding on treatments for patients with colorectal cancer",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/vizai-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2023-2023-04-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/vizai-named-to-forbes-ai-50-list-of-top-artificial-intelligence-companies-of-2023-2023-04-12",
+      "webUrl": "https://www.technologynetworks.com/cancer-research/news/colon-cancer-survival-and-therapy-response-predicted-by-ai-372120",
+      "originalUrl": "https://www.technologynetworks.com/cancer-research/news/colon-cancer-survival-and-therapy-response-predicted-by-ai-372120",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/372120/colon-cancer-survival-and-therapy-response-predicted-by-ai-372120-640x360.jpg?cb=20230414",
+          "width": 640,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -173,21 +173,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T06:43:00-07:00",
+      "publishedDateTime": "2023-04-14T02:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -198,6 +189,50 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-09-washington-vows-to-tackle-ai-as-tech-titans-and-critics-descend.md",
+      "title": "Washington vows to tackle AI, as tech titans and critics descend",
+      "excerpt": "Tristan Harris, a tech ethicist well-known among lawmakers for ringing the alarm about the harmful effects of social networks, was now arguing that artificial intelligence represents a potentially ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2023/04/08/washington-artificial-intelligence-regulation/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2023/04/08/washington-artificial-intelligence-regulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KKWVQHG6PNB3RPJZLQ2AWNDG64.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-08T12:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -426,20 +461,20 @@
     },
     {
       "path": "_news/2023-04-05-artificial-intelligence-in-healthcare-market-size-share-to-surpass-9565-billion-by-2028-vantage-market-research.md",
-      "title": "Artificial Intelligence In Healthcare Market Size & Share To Surpass $95.65 Billion By 2028 | Vantage Market Research",
-      "excerpt": "WASHINGTON, April 04, 2023 (GLOBE NEWSWIRE) -- The Global artificial intelligence in healthcare market is valued at USD 6.60 Billion in 2021 and is projected to reach a value of USD 95.65 Billion ...",
+      "title": "Artificial Intelligence in Healthcare Market Size & Share to Surpass $95.65 Billion by 2028 | Vantage Market Research",
+      "excerpt": "WASHINGTON, April 04, 2023 (GLOBE NEWSWIRE) -- The Global Artificial Intelligence in Healthcare Market is valued at USD 6.60 Billion in 2021 and is projected to reach a value of USD 95.65 Billion ...",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105944893/Artificial-Intelligence-In-Healthcare-Market-Size-Share-To-Surpass-9565-Billion-By-2028-Vantage-Market-Research",
-      "originalUrl": "https://menafn.com/1105944893/Artificial-Intelligence-In-Healthcare-Market-Size-Share-To-Surpass-9565-Billion-By-2028-Vantage-Market-Research",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/04/g31663616/artificial-intelligence-in-healthcare-market-size-share-to-surpass-95-65-billion-by-2028-vantage-m",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/g31663616/artificial-intelligence-in-healthcare-market-size-share-to-surpass-95-65-billion-by-2028-vantage-m",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?381641",
-          "width": 444,
-          "height": 250,
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -449,11 +484,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T20:00:00-07:00",
+      "publishedDateTime": "2023-04-04T10:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1312,50 +1347,6 @@
       "provider": {
         "name": "New York Post",
         "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-have-we-created-artificial-intelligence-or-artificial-life.md",
-      "title": "Have We Created Artificial Intelligence or Artificial Life?",
-      "excerpt": "We have all been reading and hearing a lot about artificial intelligence (AI) recently because it is an absolute game-changer. As AI developers madly rush forward to develop and deploy AIs, we are reminded of the frenzied early days of the internet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/za/blog/tech-happy-life/202303/have-we-created-artificial-intelligence-or-artificial-life",
-      "originalUrl": "https://www.psychologytoday.com/za/blog/tech-happy-life/202303/have-we-created-artificial-intelligence-or-artificial-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/Artificial%20Life.jpg?itok=yq9DsIHE",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/za/blog/tech-happy-life/202303/have-we-created-artificial-intelligence-or-artificial-life?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/tech-happy-life/202303/have-we-created-artificial-intelligence-or-artificial-life?amp",
-      "publishedDateTime": "2023-03-25T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
         "images": null,
         "publishers": null,
         "authors": null
