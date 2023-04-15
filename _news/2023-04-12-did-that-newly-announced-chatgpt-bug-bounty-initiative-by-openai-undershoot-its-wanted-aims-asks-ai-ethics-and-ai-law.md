@@ -314,18 +314,18 @@ related:
         height: 573
         isCached: true
   - title: "Elon Musk plans AI startup to rival OpenAI"
-    excerpt: "Twitter-owner Musk is assembling a team of AI researchers and engineers, according to the FT report, and is also in discussions with some investors in SpaceX and Tesla Inc about putting money into his new venture."
-    publishedDateTime: 2023-04-15T02:11:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/elon-musk-plans-ai-startup-to-rival-openai/99506138"
+    excerpt: "Billionaire Elon Musk is working on launching an artificial intelligence start-up that will rival ChatGPT-maker OpenAI, the Financial Times reported on Friday"
+    publishedDateTime: 2023-04-15T16:12:00Z
+    webUrl: "https://www.gulftoday.ae/business/2023/04/15/elon-musk---plans-ai---startup-to---rival-openai"
     type: article
     provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
+      name: gulftoday
+      domain: gulftoday.ae
     quality: 37
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-99506138,imgsize-18394,width-1200,height=765,overlay-ettelecom/internet/elon-musk-plans-ai-startup-to-rival-openai.jpg"
-        width: 1200
-        height: 765
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2022/4/13/elon-musk-april13-main1-750.ashx?h=450&w=750&hash=16F6874BD8EC53FD5B8401319803E00B"
+        width: 750
+        height: 450
         isCached: true
   - title: "Elon Musk reportedly seeking to launch AI startup that will compete with OpenAI"
     excerpt: "Elon Musk is reportedly seeking to raise funding for a new artificial intelligence startup that would compete with OpenAI LLC. The Financial Times reported the development today, citing people familiar with the matter."

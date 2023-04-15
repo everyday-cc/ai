@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-ma
 webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market-future-investments-and-forecast-till-2028-2023-04-13"
 type: article
 quality: 54
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
-  - title: "How road rage really affects your driving -- and the self-driving cars of the future"
-    excerpt: "New research has identified characteristics of aggressive driving -- which impact both road users and the transition to self-driving cars of the future. In the first study to systematically identify aggressive driving behaviours, scientists have measured ..."
-    publishedDateTime: 2023-04-10T23:59:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/04/230411150507.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 27
   - title: "How road rage really affects your driving—and the self-driving cars of the future"
     excerpt: "New research by the University of Warwick has identified characteristics of aggressive driving—which impact both road users and the transition to self-driving cars of the future."
     publishedDateTime: 2023-04-11T20:10:00Z

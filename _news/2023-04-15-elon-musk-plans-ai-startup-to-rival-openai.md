@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Elon Musk plans AI startup to rival OpenAI"
-excerpt: "Twitter-owner Musk is assembling a team of AI researchers and engineers, according to the FT report, and is also in discussions with some investors in SpaceX and Tesla Inc about putting money into his new venture."
-publishedDateTime: 2023-04-15T02:11:00Z
-originalUrl: "https://telecom.economictimes.indiatimes.com/news/internet/elon-musk-plans-ai-startup-to-rival-openai/99506138"
-webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/elon-musk-plans-ai-startup-to-rival-openai/99506138"
+excerpt: "Billionaire Elon Musk is working on launching an artificial intelligence start-up that will rival ChatGPT-maker OpenAI, the Financial Times reported on Friday"
+publishedDateTime: 2023-04-15T16:12:00Z
+originalUrl: "https://www.gulftoday.ae/business/2023/04/15/elon-musk---plans-ai---startup-to---rival-openai"
+webUrl: "https://www.gulftoday.ae/business/2023/04/15/elon-musk---plans-ai---startup-to---rival-openai"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: telecom.economictimes.indiatimes
-  domain: indiatimes.com
+  name: gulftoday
+  domain: gulftoday.ae
 
 topics:
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-99506138,imgsize-18394,width-1200,height=765,overlay-ettelecom/internet/elon-musk-plans-ai-startup-to-rival-openai.jpg"
-    width: 1200
-    height: 765
+  - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2022/4/13/elon-musk-april13-main1-750.ashx?h=450&w=750&hash=16F6874BD8EC53FD5B8401319803E00B"
+    width: 750
+    height: 450
     isCached: true
 
 related:
@@ -425,6 +425,6 @@ related:
       domain: marketwatch.com
     quality: 11
 
-secured: "S2al0oJlyGzjoePmmcTTyCcIRrIwH1xSYO0hjLiz/zjibSNkkmM/6P75ROYHmSDm7pJejgGh66yeVTIhG9beYpbuTmvpre94d065EjnreKRA8bL6CuL6PGQPlDaFbtypchEiTc+sP0WsBldndXSFFpFxWktD6qLq8vJU6RFtbKk+j6dCRvNNjFZDTjH2AXQ6pDPdxPTv74J98gxOwl40Ej34AjWOPyeF/bDF1xbze588KyemVJssm/yXAj+S+2jOtzLkIxJs1eMSbP4H/snTueS955NS8x/2wBctDauf5WAZMQ5F+mTks7cXe5YL0jBWVI44Ch+Dy7haEKeqfk62S2cDTj138E8cAALh9oCxJhE=;qUIM4l1TaMlv/GhNgkBglg=="
+secured: "uYoXIa9txVheZw7Bc5pX+ZGhoCSXfmiZkqohpbuzcS7CtUI263LL/nJcd3OZH7fDM3qjYmIHGsydNZaA/MIyQyAu7vQffCk2JCP034/IKTXgv0iY51rWYkYs3kZgYboMfqfih7dgVXicvCX0W484o2VyDQavvkZ5Zzo0OySZryOdFMocqIniKTQVJ42gIlyfWX1yQVyXAMLUpUWH71uFMy8FaU49DaaRpgB0MZhs+XUgOQO6J4/8weZcO2dKSwsICNAaBOQWUKBsB6NHQgPMee/JhxH+eQJeLeYfVHQYgymS8BQyfSOQWdM3jHUp80m36znaZbvCP9iqaTdwzAx4fB7tfDxd3ttZhS6/X4t3T9k=;VkaKwbHCfyFr/EAdK+lAYg=="
 ---
 

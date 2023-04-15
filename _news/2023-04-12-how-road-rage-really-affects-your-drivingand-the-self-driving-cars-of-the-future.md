@@ -65,15 +65,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
-  - title: "How road rage really affects your driving -- and the self-driving cars of the future"
-    excerpt: "New research has identified characteristics of aggressive driving -- which impact both road users and the transition to self-driving cars of the future. In the first study to systematically identify aggressive driving behaviours, scientists have measured ..."
-    publishedDateTime: 2023-04-10T23:59:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/04/230411150507.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 27
 
 secured: "Q6Z7j8Ah79dfUQnMmf95oEZy2IGKnRGnWeWokVNBvkPeLgkm0TRQANWIQf9gnVIHNwisPQrIfmRyfIJeaOjw0xjL0ec2HwL2mhD1ski3ouUyGSffTzNPKi0nWBXeiPBa6AJgt8S4K9s3l9bypdmCCQkhGWyo9FxbWmcf0TxJc5q8hrYCBAtrkuG+TE71YGghOQC5kUKxhviYw7d/MEQJwh6Zw1BAubJ85AxEdI/7f+nvi0Z9mgTpxvo+CIiNsaDWBWppMTc72WOASeCjtIqLx/6qoFn5lN0YwvDQJSHg8p17wXFsK0FwTpN9xLHpIUaK+Ic/XMEgb4Gks1BI8HACettRD2mm8C0vr3a9bcjGtS3lJql6MN6U+lL+7WocDAJm/VqLSHD1oNCSNIKBnafJDiuICAnLZJR8SLGOAXYaBPyafcfO0E/1HQFN1enpEJtFC5Kn6OIrbWrDRt6gRe9No+//bmgwaM8CaTAJTvyDVYTdD/vxlNtmTIgqDuF4nnB3UoZA5WJvpxdSMSCdaLokjA==;98lVmTzfVYnWwwE5jqfXxQ=="
 ---

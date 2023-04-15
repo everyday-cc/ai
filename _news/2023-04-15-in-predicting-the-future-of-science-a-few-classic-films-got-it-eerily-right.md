@@ -73,6 +73,20 @@ related:
         width: 498
         height: 280
         isCached: true
+  - title: "In predicting the future of science, a few classic films got it eerily right"
+    excerpt: "By Scottie Andrew, CNN Great sci-fi films are both fantastical and prescient. They can whisk viewers to a galaxy far, far away or exaggerate real scenarios on a fictionalized version of our planet. Bu"
+    publishedDateTime: 2023-04-14T16:18:00Z
+    webUrl: "https://kesq.com/entertainment/cnn-entertainment/2023/04/14/these-films-predicted-the-future-of-science-how-right-were-they/"
+    type: article
+    provider:
+      name: KESQ News
+      domain: kesq.com
+    quality: 21
+    images:
+      - url: "https://kesq.b-cdn.net/2023/04/hypatia-h_304c049b19523c5d188b817b7050d8f1-h_5d7249b870670b58b4a20842e2846e69-300.jpg"
+        width: 2000
+        height: 1120
+        isCached: true
 
 secured: "QCyQiI6eyox0tnCuqSYONOPY+nl28Bqc8zDmvAk2bEWhRSaZ5Y6EsdeIyQyj6UNpy7hpwob0OhWNyCMfLkgcjKi9+pMCwcu26PNlDSInY6YQLjOwSizfpk09SKCYE/5V8D6BEoDdXTqtzevhI5UdCPcl3pdzS8nOG/18WGxvhjIx4Nj5Mb0lFvDvCceQMVOmh4Lr7jO4B4Tnr5P5yrRWvSovqw0xfSi3ZdViixmeNZZdQ6pZmQbwf4gS5GDxkGHLCbR9eV1bi8ZYQrc2U8qDjLqyePprmtI3Np50Jc7CPmwpKnideta/JSqn9F7PIqM/QgUj/PozJ6wSW9GkImQBgKwDF7pwUXbdDD9yWors5k8=;TeTGNOq8wITyt1o77QVXzA=="
 ---

@@ -60,6 +60,20 @@ related:
         height: 280
         isCached: true
   - title: "In predicting the future of science, a few classic films got it eerily right"
+    excerpt: "By Scottie Andrew, CNN Great sci-fi films are both fantastical and prescient. They can whisk viewers to a galaxy far, far away or exaggerate real scenarios on a fictionalized version of our planet. Bu"
+    publishedDateTime: 2023-04-14T16:18:00Z
+    webUrl: "https://kesq.com/entertainment/cnn-entertainment/2023/04/14/these-films-predicted-the-future-of-science-how-right-were-they/"
+    type: article
+    provider:
+      name: KESQ News
+      domain: kesq.com
+    quality: 21
+    images:
+      - url: "https://kesq.b-cdn.net/2023/04/hypatia-h_304c049b19523c5d188b817b7050d8f1-h_5d7249b870670b58b4a20842e2846e69-300.jpg"
+        width: 2000
+        height: 1120
+        isCached: true
+  - title: "In predicting the future of science, a few classic films got it eerily right"
     excerpt: "Films such as \"Gattaca,\" \"Her\" and even the horror comedy \"M3GAN\" have predicted what our future might look like if developments in gene editing and artificial intelligence accele"
     publishedDateTime: 2023-04-14T23:46:00Z
     webUrl: "https://rivercountry.newschannelnebraska.com/story/48722073/in-predicting-the-future-of-science-a-few-classic-films-got-it-eerily-right"

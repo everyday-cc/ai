@@ -60,6 +60,20 @@ related:
         height: 630
         isCached: true
   - title: "In predicting the future of science, a few classic films got it eerily right"
+    excerpt: "By Scottie Andrew, CNN Great sci-fi films are both fantastical and prescient. They can whisk viewers to a galaxy far, far away or exaggerate real scenarios on a fictionalized version of our planet. Bu"
+    publishedDateTime: 2023-04-14T16:18:00Z
+    webUrl: "https://kesq.com/entertainment/cnn-entertainment/2023/04/14/these-films-predicted-the-future-of-science-how-right-were-they/"
+    type: article
+    provider:
+      name: KESQ News
+      domain: kesq.com
+    quality: 21
+    images:
+      - url: "https://kesq.b-cdn.net/2023/04/hypatia-h_304c049b19523c5d188b817b7050d8f1-h_5d7249b870670b58b4a20842e2846e69-300.jpg"
+        width: 2000
+        height: 1120
+        isCached: true
+  - title: "In predicting the future of science, a few classic films got it eerily right"
     excerpt: "Films such as \"Gattaca,\" \"Her\" and even the horror comedy \"M3GAN\" have predicted what our future might look like if developments in gene editing and artificial intelligence accele"
     publishedDateTime: 2023-04-14T23:46:00Z
     webUrl: "https://rivercountry.newschannelnebraska.com/story/48722073/in-predicting-the-future-of-science-a-few-classic-films-got-it-eerily-right"
@@ -74,6 +88,6 @@ related:
         height: 280
         isCached: true
 
-secured: "m1NGyTxj47Om61/7qySuIpZxFU/veT4FOyXRGBfrubwVNlmrXgzA4csLFe4e7IL4D/eyeWDDi6k7j4Y9sY5hOlj2YCcvjEGA4CFhltCuHCGXRp84RcYlL9KtUF/nrBHLgPLrgaqPAHYoxO+bieSg2aTomCUbn2yIN+gA659S8YK95BzoAjaxbYtI2Oq5slRf3qDMRT5fsB5yb/uSN5Dsp+4HJrEilUUklHQUm3O5eLbn7epYmcID7zEQUNSt8F0SMY7bQFuRIAfwW5UEekaadrHs+Gs15gbHDD4XxHGKnDoNrXTLkXclupJRmRjPTUlpLfuOeJH+qHUUpbTfuAwZkLJ3GmrCn6bXr3Dw8TKI/jc=;Xscz0Uvqj1RnXc3xfrbP6w=="
+secured: "KW6dTfEhdb02BEu7Wh/cIfsAGk5uai/hJOpOXDyKcAgaudG55SVSHJEe6NbrVY38/nR7R05HyYq+K9qbmV6jvPIx3iSmaWB17riM2x4NEGrhlzm6STyJrW36FYNZptOFysofaQmOfsjKY95Liq0Fkw4OiIDZPJfrtwig2Q3F5kraz9L6hdnlNZ6IrmVHsvsFAgCN7586ecWNEw9EpmlgFAdb92eCIil+Nt+htrWq0Q/G05JMyWGuC9j4hCi1XFCMX+MLkhj7McjA1y31GkxoQwecubUbsM6V3OqqMQhth8zvYIG/xPtp0izKmm6MP/tRiKTfK3HZXPYVYw2ZRCGr1Q3ML5DRGbec+F+7FKrhhjdVadiGBHHDUwiC+aY50z0f8lr7GF4PUN3uoMMn2u0MISc2RtmaBz41q4kcMOsQeg7lf6LwOSeRPc6RC9SPThg6g5+u6UsLX+Rl0PdDcQ34CxU+DymeSV4XEHdNcx+RT0TzvfuhjZgBdItfqsSA2G+sFwasob/HslsylD/3rslIag==;QnsSQiPS5xQx3F6WDEElog=="
 ---
 
