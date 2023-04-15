@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna79599"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna79599"
 type: article
 quality: 91
-heat: 323
+heat: 325
 published: true
 
 provider:
@@ -277,6 +277,6 @@ related:
       domain: thedrum.com
     quality: 11
 
-secured: "pvrh0dqQ4aXgpMe0esdU3LOmu5/w8c+JgO8m+uphQD0x3Thvb3BRBA8KuiIr5v31voCVjhzs6lOcZIHBJ5GEipZhLX/6+rlR9T7sQHgKWhqutTTY5LzAwtnFSIkIKXpZq3U43LDtHEBfCtPxpv7KNyNLknopsRKJMUObx++15yernGVDRk2vZNyYJ7uKXJ9zZ+GVHbpnQJ2Ft1IroiI1aIA+fKSpyKKugG7pqO2MczoXUP92NL1jAl+Adggcn40i11ex2VUqC1TNSvrmzS3xK4nSYquti+PgD1/JvQuWY2z317JGf0szX+SbpDbr3R69FBZfXSbXGo3Q6X/pYsjo8ZfZJTUUE2qjR3ufaI9tN58=;W0nx3BWL7citvQkpLACKXg=="
+secured: "khsk2q337vh9eWuMcx25TYMq+pClcrou7P5yP5zjOOxv/d7j7RCLTBfL6t4ZWv12lauUvrRnl4wz96xRBHd6i+GapihoeRoM2RHXjNH0ZDUXldbo60TKLDX5N/KIMUCoRdgiJQVpi0GirFT1v4iX7OGOjQZFjU1YGMO0u4FmKiI9nYat/NLSuL5FKF0VYIlGMaXUDY42/kAAE2e/Le9nNOG7GHCCmEXoqT1CVNQD8LR34jCoSktYRDZ7T8IEZnZfCJD/s/bEOzrpdlcAW0XJPqPk1K2akyR7NQ200VVV12YWYE9eH6fZHxETyuV5CB8wzGeTVdK97et5IOiLvRh7eUK/5mjV0tipPS3ctOTsA29EmBpxuAcREKuaJznOMWS6TUOsdyI20J1RDQNTx2lxB0mqbHvC+w4EoMWEDfsM3/akt/pQB2aCOyRKex6g68epS0FGDI7PTT6f+XTyzxcA44+m7PmT2DAsOmZ4DfKEgS5g5iLKsId3GG9v0jZSPikZCtBCj251MLU0Fsz6oomR2w==;pZh8FurynZSNqpLFIWasUQ=="
 ---
 

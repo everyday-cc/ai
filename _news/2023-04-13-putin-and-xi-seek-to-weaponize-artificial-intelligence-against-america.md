@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-i
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america.amp"
 type: article
 quality: 102
-heat: 103
+heat: 104
 published: true
 
 provider:

@@ -2,6 +2,204 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-14-arizona-mother-describes-ai-phone-scam-faking-daughters-kidnapping-it-was-completely-her-voice.md",
+      "title": "Arizona mother describes AI phone scam faking daughter's kidnapping: 'It was completely her voice'",
+      "excerpt": "Computer science professor Subbarao Kambhampati warned that these stories of voice-cloning technology and catfish schemes could become more common as AI technology improves. \"In the beginning, it would require a larger amount of samples. Now there are ways ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/arizona-mother-describes-ai-phone-scam-faking-daughters-kidnapping-completely-voice",
+      "originalUrl": "https://www.foxnews.com/media/arizona-mother-describes-ai-phone-scam-faking-daughters-kidnapping-completely-voice",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8eb80cf8-e162-478d-abd8-c8fbc0f1273a/01e11506-91c2-44be-a50c-2ebd0c02eebe/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/arizona-mother-describes-ai-phone-scam-faking-daughters-kidnapping-completely-voice.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/arizona-mother-describes-ai-phone-scam-faking-daughters-kidnapping-completely-voice.amp",
+      "publishedDateTime": "2023-04-13T18:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-amazon-aws-expands-generative-ai-efforts-with-bedrock-and-codewhisperer-updates.md",
+      "title": "Amazon AWS expands generative AI efforts with Bedrock and CodeWhisperer updates",
+      "excerpt": "Amazon Web Services (AWS), announced today that it is expanding its generative AI services in a bid to make the technology more available to organizations in the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/amazon-aws-expands-generative-ai-efforts-with-bedrock-and-codewhisperer-updates/",
+      "originalUrl": "https://venturebeat.com/ai/amazon-aws-expands-generative-ai-efforts-with-bedrock-and-codewhisperer-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-can-artificial-intelligence-predict-the-weather-months-out-this-company-says-it-can.md",
+      "title": "Can artificial intelligence predict the weather months out? This company says it can",
+      "excerpt": "As artificial intelligence is introduced across different sectors, one company touts its machine-learning method for weather forecasting months ahead of time – and is getting pushback.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/can-artificial-intelligence-predict-weather-months-out",
+      "originalUrl": "https://www.foxnews.com/tech/can-artificial-intelligence-predict-weather-months-out",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99c2d3f0-ca52-4098-9181-5c055a78fc88/280113b3-7fc9-4279-a467-a3ad7e69045b/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/can-artificial-intelligence-predict-weather-months-out.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/can-artificial-intelligence-predict-weather-months-out.amp",
+      "publishedDateTime": "2023-04-13T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-telescent-and-mit-csail-collaborate-to-accelerate-machine-learning-workflows.md",
+      "title": "Telescent and MIT CSAIL Collaborate to Accelerate Machine Learning Workflows",
+      "excerpt": "Telescent Inc., a leading manufacturer of automated fiber patch-panels and cross-connects for networks and data",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/telescent-and-mit-csail-collaborate-to-accelerate-machine-learning-workflows-2023-04-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/telescent-and-mit-csail-collaborate-to-accelerate-machine-learning-workflows-2023-04-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-13-natural-language-processing-nlp-market-2023-2029global-report-forecast.md",
       "title": "Natural Language Processing (NLP) Market 2023-2029|Global Report Forecast",
       "excerpt": "Natural Language Processing (NLP) Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information",
@@ -10,7 +208,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-2029global-report-forecast-2023-04-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -62,7 +260,7 @@
       "originalUrl": "https://www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -445,7 +643,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/nvidia-stock-fell-when-it-introduced-a-cheaper-ai-enhanced-gpu-2023-04-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 86,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -771,7 +969,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-with-types-of-research-report-2023-04-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -976,187 +1174,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-how-ibm-invests-in-opportunities-to-reach-maximum-equitable-impact.md",
-      "title": "How IBM invests in opportunities to reach maximum equitable impact",
-      "excerpt": "At IBM, we strive each day to achieve our purpose; to be the catalyst that helps makes the world work better. We endeavor to be at the forefront of groundbreaking changes in the industries we serve and the global community at large. None of this would be possible without skilled and talented IBMers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-ibm-invests-in-opportunities-to-reach-maximum-equitable-impact/",
-      "originalUrl": "https://www.ibm.com/blog/how-ibm-invests-in-opportunities-to-reach-maximum-equitable-impact/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T06:05:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-how-our-commitment-to-ethics-trust-and-transparency-is-differentiating-ibm.md",
-      "title": "How our commitment to ethics, trust and transparency is differentiating IBM",
-      "excerpt": "Emerging technologies and the rapid development of innovations are raising questions and challenges in today&#8217;s marketplace. At IBM, we&#8217;ve been bringing new technologies into the world responsibly and with clear purpose for more than a century.&#160;And we know that nobody can address these",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-our-commitment-to-ethics-trust-and-transparency-is-differentiating-ibm/",
-      "originalUrl": "https://www.ibm.com/blog/how-our-commitment-to-ethics-trust-and-transparency-is-differentiating-ibm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T06:05:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-how-robots-and-ai-are-transforming-the-surgery-room.md",
-      "title": "How Robots and AI Are Transforming the Surgery Room",
-      "excerpt": "Robotic devices and artificial intelligence are being increasingly incorporated into healthcare institutions across the world: What the future may hold for this critical sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/science-technology/how-ai-and-robotics-can-make-healthcare-better/448464",
-      "originalUrl": "https://www.entrepreneur.com/science-technology/how-ai-and-robotics-can-make-healthcare-better/448464",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-10T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-10-artificial-intelligence-in-space-the-amazing-ways-machine-learning-is-helping-to-unravel-the-mysteries-of-the-universe.md",
-      "title": "Artificial Intelligence In Space: The Amazing Ways Machine Learning Is Helping To Unravel The Mysteries Of The Universe",
-      "excerpt": "AI is revolutionizing space exploration, from autonomous spaceflight to planetary exploration and charting the cosmos. ML algorithms help astronauts and scientists navigate and study space, avoid hazards,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/04/10/artificial-intelligence-in-space-the-amazing-ways-machine-learning-is-helping-to-unravel-the-mysteries-of-the-universe/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/04/10/artificial-intelligence-in-space-the-amazing-ways-machine-learning-is-helping-to-unravel-the-mysteries-of-the-universe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6433d43c3391e77bbcb0e670/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/04/10/artificial-intelligence-in-space-the-amazing-ways-machine-learning-is-helping-to-unravel-the-mysteries-of-the-universe/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/04/10/artificial-intelligence-in-space-the-amazing-ways-machine-learning-is-helping-to-unravel-the-mysteries-of-the-universe/amp/",
-      "publishedDateTime": "2023-04-10T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

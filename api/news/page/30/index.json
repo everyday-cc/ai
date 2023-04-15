@@ -2,6 +2,197 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2023-03-15-mobile-world-congress-2023-showcases-the-latest-tech-from-robotics-to-ai.md",
+      "title": "Mobile World Congress 2023 showcases the latest tech, from robotics to AI",
+      "excerpt": "The Mobile World Congress 2023 in Barcelona, Spain, showcased some of the newest tech and inventions, including robotics, AI and 5G.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/tech/2023/03/14/visitors-interact-metaverse-mobile-world-congress-spain/11473851002/",
+      "originalUrl": "https://www.usatoday.com/videos/tech/2023/03/14/visitors-interact-metaverse-mobile-world-congress-spain/11473851002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2023/03/14/USAT/6d20ce67-ac7a-41a3-b4a1-0b75ced1323b-Sequence_02.00_00_00_00.Still001.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-14T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-this-is-what-the-driverless-trains-on-the-ontario-line-will-look-like.md",
+      "title": "This is what the driverless trains on the Ontario Line will look like",
+      "excerpt": "Transit riders have been given a sneak peek at the driverless trains that will operate on the Ontario Line subway extension. The international consortium tasked with designing the trains released ...",
+      "sourceUrl": null,
+      "webUrl": "https://toronto.ctvnews.ca/this-is-what-the-driverless-trains-on-the-ontario-line-will-look-like-1.6313445",
+      "originalUrl": "https://toronto.ctvnews.ca/this-is-what-the-driverless-trains-on-the-ontario-line-will-look-like-1.6313445",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/3/15/1_6313391.jpg",
+          "width": 620,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/toronto/2023/3/14/1_6313445.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/toronto/2023/3/14/1_6313445.amp.html",
+      "publishedDateTime": "2023-03-14T18:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence.md",
+      "title": "The ChatGPT Debate: Are We Intelligent Enough To Understand ‘Intelligence’?",
+      "excerpt": "What exactly is (natural or artificial) intelligence? Why is it so hard to define, let alone understand. And how will we know when we see it?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gabrielasilva/2023/03/14/the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/gabrielasilva/2023/03/14/the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641031868f3877ab517aa269/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gabrielasilva/2023/03/14/the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2023/03/14/the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence/amp/",
+      "publishedDateTime": "2023-03-14T18:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-generative-ai-is-just-a-wake-up-call-to-what-was-always-inevitable-including-incalculable-profit.md",
+      "title": "Generative AI Is Just A Wake-Up Call To What Was Always Inevitable. Including Incalculable Profit.",
+      "excerpt": "AI and machine learning (AI/ML) will unleash the greatest profit engine in history as expensive human-managed processes are replaced by cheaper and more efficient digital ones. What we’ve seen to date is just the beginning of how AI/ML will transform and reinvent business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/steveandriole/2023/03/14/generative-ai-is-just-a-wake-up-call-to-what-was-always-inevitable-including-incalculable-profit/",
+      "originalUrl": "https://www.forbes.com/sites/steveandriole/2023/03/14/generative-ai-is-just-a-wake-up-call-to-what-was-always-inevitable-including-incalculable-profit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c849dfcddeb7fd1f922d82/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2023/03/14/generative-ai-is-just-a-wake-up-call-to-what-was-always-inevitable-including-incalculable-profit/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2023/03/14/generative-ai-is-just-a-wake-up-call-to-what-was-always-inevitable-including-incalculable-profit/amp/",
+      "publishedDateTime": "2023-03-14T18:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-03-15-characterizing-abnormal-neural-networks-in-dogs-with-anxiety.md",
       "title": "Characterizing abnormal neural networks in dogs with anxiety",
       "excerpt": "Researchers at Ghent University in Belgium report abnormalities in functional neural networks of dogs diagnosed with anxiety. Led by Yangfeng Xu (Ghent Experimental Psychiatry Lab, GHEP; ORSAMI ...",
@@ -972,197 +1163,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-tenstorrent-opens-office-in-japan-to-capitalize-on-risc-v-ai.md",
-      "title": "Tenstorrent Opens Office In Japan To Capitalize On RISC-V + AI",
-      "excerpt": "Tenstorrent, the Toronto-based semiconductor company, now led by the super-star chip designer Jim Keller, has just opened a new office in Japan. So, as many other AI startups are struggling, Tenstorrent is doubling down. We believe this telegraphs the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/03/14/tenstorrent-opens-office-in-japan-to-capitalize-on-risc-v--ai/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/03/14/tenstorrent-opens-office-in-japan-to-capitalize-on-risc-v--ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6410a736a86c1d3e75e9fa45/0x0.jpg?format=jpg&width=1200",
-          "width": 678,
-          "height": 487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/03/14/tenstorrent-opens-office-in-japan-to-capitalize-on-risc-v--ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/03/14/tenstorrent-opens-office-in-japan-to-capitalize-on-risc-v--ai/amp/",
-      "publishedDateTime": "2023-03-14T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-google-is-working-on-ai-for-ultrasound-diagnosis-and-cancer-therapy.md",
-      "title": "Google is working on AI for ultrasound diagnosis and cancer therapy",
-      "excerpt": "AI isn’t just good for writing term papers or clickbait financial explainers; it could help save lives in the medical field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/google-is-working-on-ai-for-ultrasound-diagnosis-and-cancer-therapy-150023911.html",
-      "originalUrl": "https://www.engadget.com/google-is-working-on-ai-for-ultrasound-diagnosis-and-cancer-therapy-150023911.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/3EZyxH7KjN2WzHYeaplUoA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/21b84540-c1d6-11ed-a7fd-3b2d705efb52.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-microsoft-lays-off-team-responsible-for-ethical-ai-development.md",
-      "title": "Microsoft lays off team responsible for ethical AI development",
-      "excerpt": "Related video: Bing Has Exceeded 100 Million Daily Active Users, Microsoft Says Tech giant Microsoft has reportedly laid off its entire team responsible for the ethical and sustainable outcome of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/microsoft-layoff-ai-ethics-team-b2300237.html",
-      "originalUrl": "https://www.independent.co.uk/tech/microsoft-layoff-ai-ethics-team-b2300237.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2023/01/25/09/SEI141636847.jpg?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-facebook-and-twitter-scrambled-our-brains-and-poisoned-our-politics-ai-poses-an-even-bigger-threat.md",
-      "title": "Facebook and Twitter scrambled our brains and poisoned our politics. AI poses an even bigger threat.",
-      "excerpt": "the director of foundational AI research at the Turing Institute, said. \"But the way it's going to be used, I think, we can only really scarcely imagine.\" As Zuckerberg's track record at Facebook ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/Facebook-and-Twitter-scrambled-our-brains-and-poisoned-our-politics-AI-poses-an-even-bigger-threat-/articleshow/98631128.cms",
-      "originalUrl": "https://www.businessinsider.in/Facebook-and-Twitter-scrambled-our-brains-and-poisoned-our-politics-AI-poses-an-even-bigger-threat-/articleshow/98631128.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/98630413.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/tech/news/facebook-and-twitter-scrambled-our-brains-and-poisoned-our-politics-ai-poses-an-even-bigger-threat-/amp_articleshow/98631128.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/facebook-and-twitter-scrambled-our-brains-and-poisoned-our-politics-ai-poses-an-even-bigger-threat-/amp_articleshow/98631128.cms",
-      "publishedDateTime": "2023-03-14T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

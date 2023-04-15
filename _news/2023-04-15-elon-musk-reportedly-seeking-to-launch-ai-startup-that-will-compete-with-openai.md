@@ -6,7 +6,7 @@ publishedDateTime: 2023-04-14T21:00:00Z
 originalUrl: "https://siliconangle.com/2023/04/14/elon-musk-reportedly-seeking-launch-ai-startup-will-compete-openai/"
 webUrl: "https://siliconangle.com/2023/04/14/elon-musk-reportedly-seeking-launch-ai-startup-will-compete-openai/"
 type: article
-quality: 33
+quality: 37
 heat: -1
 published: false
 
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
+  - Machine Learning
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/Photo-768x512.jpg"
@@ -53,6 +55,6 @@ related:
         height: 676
         isCached: true
 
-secured: "LxfbBJ8FnUNCzGwQrVAEw+xw5xXAV4tMoX9fwJNdFNoZBbY7IuON1evT36GwUnitd4KBWRLl//HHXVeealrx1M6FI0zYMiN6omOql6ELR4PdJDOtx4N9aBkmy21rArIJJ6hWCvTTyn3JzPUP/SU8JgBBxfgujDhC2RBiEpZxoNpJk1YkKOO94Jm9FNQaaMRA2hMHdTfeRgnhPS1+UuvWz5H9orSMji4lB93eevLMi7xILUYu++emtaz3WxPrqAJSYz+BdjVb3W/Vtr+lMgCGqe1A2DWzQZvJdxWkbbi0tgzovTG8JfE8oDi2WWpYpi/VwdNQEyfGy6GZVU9VcNkkT9DYsyHrCTi7tpadNVlQM3w=;MHqXqxrUrmwjgOeVm97wlg=="
+secured: "r+eFQTj+Eb2bnRwKia+ha2hAWvbf16pHQhDWZdDRePSQoKK2xTfUqor4kEVLa979LpuLsyzk2brMovU6EMXH58ZaYJLZOlWt8/7bPIvnGGF3QY8eu9Z7no/mtoVkb5Ek3e0q0Dmi/J51uKvk1jEXY1ej0YuV22jiNxOS90uRr94WVOzcyYB+UTXQbukLzmBj3tQpEcgq5JAiAnYjB9zD0YtmCuqvwecM75BhbhA7P/jiSHgCw++d1t4Mz1nORbNcTYlgghL1G6631sd6G6id+J5qz3iUpnNJqWDBUF0+bbOmxVfOhH4kOXtRaE702KTZHzqsE699J0u2NZqZsPMLBrNjvTJs+iC6o6MFt2z/HDasvtDbFsuBivGisJM3wU1kX4r9t35C5fV1NMooC3ECSTZqrw5Bg7k37FPvuZMOsInO3eW7QONIWyu/oWIuBn32JvW/kuwU0QuKoQehBhq9XNOwEOMNzSO1BrmvQ7Klt1/tLYZyPI/yTGhLdGqvmwY7sbeLtWiFLkpxPm/Jzc9azQ==;VUN/8T3N99Rl2zCnLe4UWw=="
 ---
 

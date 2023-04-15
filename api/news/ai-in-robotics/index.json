@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-15-3-thrilling-robotics-stocks-for-aggressive-investors-to-buy.md",
+      "title": "3 Thrilling Robotics Stocks for Aggressive Investors to Buy",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The buzz surrounding generative artificial intelligence (AI) this year is",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-thrilling-robotics-stocks-to-buy-1032233798",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-thrilling-robotics-stocks-to-buy-1032233798",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T15:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-11-how-robots-and-ai-are-transforming-the-surgery-room.md",
       "title": "How Robots and AI Are Transforming the Surgery Room",
       "excerpt": "Robotic devices and artificial intelligence are being increasingly incorporated into healthcare institutions across the world: What the future may hold for this critical sector.",
@@ -1147,49 +1190,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-the-3-most-promising-robotics-stocks-to-watch-in-2023.md",
-      "title": "The 3 Most Promising Robotics Stocks to Watch in 2023",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With interest in generative artificial intelligence at a fever pitch this",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-3-most-promising-robotics-stocks-to-watch-in-2023-nvda-path-ter-1032196833",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-3-most-promising-robotics-stocks-to-watch-in-2023-nvda-path-ter-1032196833",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-28T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

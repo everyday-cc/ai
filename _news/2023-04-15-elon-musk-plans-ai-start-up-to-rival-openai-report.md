@@ -46,13 +46,13 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 33
+    quality: 37
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/Photo-768x512.jpg"
         width: 768
         height: 512
         isCached: true
 
-secured: "oZShHeqk67TSbJanDRWunC0UzbleoZqgyDA3J+t6aYcxST7/1UukyD65SUGgnbXy+leZ4DPaaF2u0X5lLmHQI7HTdFibqJRk7ESHU+37uZRg0phAgz8ZzhWVOMXNdNwRDlY0opcUckya+nbnMEQ/8ZRQj0LIBTNa6+4SJ5CnCi9GKjMK40ls2k5gdn2+Q5/hMzVEkY1HS0TLrBMISeIT5FKMQ8sbQoERpooYmXlfsXlhCez5zYu5hyJ5lPuFd2aIQsiEESLvahDPyrGA+bPPFiMzXIJGzquIeC+zlBfKN/54lhrIwq8DwYoabB3SpGwx0IkeVkX43iFoDbkoOUwdKHxKgKwWDsbKkMML2bV1JBY=;WnUSFkyPF7ywUHT12FlP9w=="
+secured: "MAKzSsF4Ls5EXBtFAE9rd9UN1gvBYG26p1yk+WXdAiFOc76KE/NS4IS+ii4HxpP3Tef9XxIwpOD+eIlQOJjh+ZZcKvMt1OCbCebdy1hR4R3gigwCynXwav1vTAMMrDyFDz1bfLqKjWupP+EfH6fLpx/fDLWTxb3Xt4au9PSs2BF3I6m9j07SRJuLG20A1iR01U2FgAeAQ2LaB8iasHS1eERW6W+71BE7QHDQB2WwJ+oVjI2z49EKMPK+JL+hFWLrGRj3vxPdIw8Ezy6LfVbQzxiMaCbW2d5GlSvnhCx60dAOsWRXAtCC3azHiw1u1Pgdtvvt9Ls5WehUaFDEnbq7WL2s2fxm8DqACRYDb6W4k+Odjor03/o5VKASuOeRM2QeodiuegoZStS09MOLt0BaW/oHFonDxsuMQ78LbEIAIhH5jaVZMIH5ooULN/jSnTBb+0zqSfmno8DCgSlKR4QNZetiKQlFaoQsWT22ke2fNKoDjv2l/QEVubHwcZDwDcDQ2jVnhcgXjIbOC67Q3FJXjA==;EKuBldW1RJ/YI+wLIzH7lQ=="
 ---
 

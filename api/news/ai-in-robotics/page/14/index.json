@@ -2,6 +2,59 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-12-08-ai-sweeping-robot-market-2022-2028-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-analysis.md",
+      "title": "AI Sweeping Robot Market 2022-2028 Leading Growth Drivers, Emerging Audience, Segments, Industry Sales, Profits & Analysis",
+      "excerpt": "AI Sweeping Robot Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2021, at unexpected",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-sweeping-robot-market-2022-2028-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-analysis-2022-12-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-sweeping-robot-market-2022-2028-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-analysis-2022-12-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T18:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-ai-startup-datarobot-sued-for-alleged-discrimination-and-retaliation.md",
       "title": "AI startup DataRobot sued for alleged discrimination and retaliation",
       "excerpt": "A former employee of Boston AI startup DataRobot is suing the company, saying she was fired after complaining about alleged financial mismanagement and resisting committing potential accounting fraud.",

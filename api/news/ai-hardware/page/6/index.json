@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-02-09-an-ai-engineer-has-now-designed-100-chips.md",
+      "title": "An AI ‘Engineer’ Has Now Designed 100 Chips",
+      "excerpt": "Lurking inside your next gadget may be a chip unlike those of the past. People used to do all the complex silicon design work, but for the first time, AI is helping to build new chips for data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.extremetech.com/extreme/342959-an-ai-engineer-has-now-designed-100-chips",
+      "originalUrl": "https://www.extremetech.com/extreme/342959-an-ai-engineer-has-now-designed-100-chips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T01:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ExtremeTech",
+        "domain": "extremetech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-asus-rog-strix-scar-18-redefines-portable-gaming-with-rtx-4000-series-gpu.md",
       "title": "Asus ROG Strix SCAR 18 redefines portable gaming with RTX 4000 series GPU",
       "excerpt": "Hi-Res audio support ensures you hear music in the same quality it was recorded whereas Two-Way AI Noise Cancellation ... on a gaming laptop with the latest GPU in the market that gives you ...",
@@ -1218,42 +1252,6 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-generative-ai-drives-an-explosion-in-compute-the-looming-need-for-sustainable-ai.md",
-      "title": "Generative AI drives an explosion in compute: The looming need for sustainable AI",
-      "excerpt": "There’s one problem with this generative AI explosion, though: Every time DALL-E creates an image or GPT-3 predicts the next word, this requires multiple inference calculations that add up to significant electrical demand.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/02/05/generative-ai-drives-explosion-compute-looming-need-sustainable-ai/",
-      "originalUrl": "https://siliconangle.com/2023/02/05/generative-ai-drives-explosion-compute-looming-need-sustainable-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing",
         "AI Hardware"
       ]
     }

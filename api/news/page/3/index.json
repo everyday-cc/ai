@@ -2,6 +2,187 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-11-how-ibm-invests-in-opportunities-to-reach-maximum-equitable-impact.md",
+      "title": "How IBM invests in opportunities to reach maximum equitable impact",
+      "excerpt": "At IBM, we strive each day to achieve our purpose; to be the catalyst that helps makes the world work better. We endeavor to be at the forefront of groundbreaking changes in the industries we serve and the global community at large. None of this would be possible without skilled and talented IBMers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-ibm-invests-in-opportunities-to-reach-maximum-equitable-impact/",
+      "originalUrl": "https://www.ibm.com/blog/how-ibm-invests-in-opportunities-to-reach-maximum-equitable-impact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-11T06:05:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-11-how-our-commitment-to-ethics-trust-and-transparency-is-differentiating-ibm.md",
+      "title": "How our commitment to ethics, trust and transparency is differentiating IBM",
+      "excerpt": "Emerging technologies and the rapid development of innovations are raising questions and challenges in today&#8217;s marketplace. At IBM, we&#8217;ve been bringing new technologies into the world responsibly and with clear purpose for more than a century.&#160;And we know that nobody can address these",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-our-commitment-to-ethics-trust-and-transparency-is-differentiating-ibm/",
+      "originalUrl": "https://www.ibm.com/blog/how-our-commitment-to-ethics-trust-and-transparency-is-differentiating-ibm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-11T06:05:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-04-11-how-robots-and-ai-are-transforming-the-surgery-room.md",
+      "title": "How Robots and AI Are Transforming the Surgery Room",
+      "excerpt": "Robotic devices and artificial intelligence are being increasingly incorporated into healthcare institutions across the world: What the future may hold for this critical sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/science-technology/how-ai-and-robotics-can-make-healthcare-better/448464",
+      "originalUrl": "https://www.entrepreneur.com/science-technology/how-ai-and-robotics-can-make-healthcare-better/448464",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-10T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-10-artificial-intelligence-in-space-the-amazing-ways-machine-learning-is-helping-to-unravel-the-mysteries-of-the-universe.md",
+      "title": "Artificial Intelligence In Space: The Amazing Ways Machine Learning Is Helping To Unravel The Mysteries Of The Universe",
+      "excerpt": "AI is revolutionizing space exploration, from autonomous spaceflight to planetary exploration and charting the cosmos. ML algorithms help astronauts and scientists navigate and study space, avoid hazards,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/04/10/artificial-intelligence-in-space-the-amazing-ways-machine-learning-is-helping-to-unravel-the-mysteries-of-the-universe/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/04/10/artificial-intelligence-in-space-the-amazing-ways-machine-learning-is-helping-to-unravel-the-mysteries-of-the-universe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6433d43c3391e77bbcb0e670/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/04/10/artificial-intelligence-in-space-the-amazing-ways-machine-learning-is-helping-to-unravel-the-mysteries-of-the-universe/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/04/10/artificial-intelligence-in-space-the-amazing-ways-machine-learning-is-helping-to-unravel-the-mysteries-of-the-universe/amp/",
+      "publishedDateTime": "2023-04-10T02:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-04-10-machine-learning-as-a-service-mlaas-market-forecasts-2023-2029.md",
       "title": "Machine Learning-as-a-Service (MLaaS) Market Forecasts 2023-2029",
       "excerpt": "There are many different sources of market data, including government statistics, industry reports, financial news, and market research firms. Some of the key types of data that are available from the global Machine Learning-as-a-Service (MLaaS ...",
@@ -823,169 +1004,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-08-cobalt-speech-and-language-extending-limited-time-application-for-a-free-trial-speech-recognition-technology.md",
-      "title": "Cobalt Speech And Language Extending Limited-Time Application For A Free Trial Speech Recognition Technology",
-      "excerpt": "Cobalt Speech and Language extending limited time free-trial offer. TYNGSBORO, MASSACHUSETTS, UNITED STATES, April 7, 2023/einpresswire.co",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105963203/Cobalt-Speech-And-Language-Extending-Limited-Time-Application-For-A-Free-Trial-Speech-Recognition-Technology",
-      "originalUrl": "https://menafn.com/1105963203/Cobalt-Speech-And-Language-Extending-Limited-Time-Application-For-A-Free-Trial-Speech-Recognition-Technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-scientists-achieve-optimal-interdomain-data-transfer-using-neural-networks.md",
-      "title": "Scientists achieve optimal interdomain data transfer using neural networks",
-      "excerpt": "Researchers from Skoltech and the Artificial Intelligence Research Institute (AIRI) have developed a new algorithm for optimal data transfer between domains using neural networks. Unlike most similar techniques,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-04-scientists-optimal-interdomain-neural-networks.html",
-      "originalUrl": "https://techxplore.com/news/2023-04-scientists-optimal-interdomain-neural-networks.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-why-ai-might-not-take-your-job-or-supercharge-the-economy.md",
-      "title": "Why A.I. Might Not Take Your Job or Supercharge the Economy",
-      "excerpt": "We also discuss my mixed feelings about the calls to “pause” A.I. development, why I’m less worried about rogue A.I. systems than the incentives of the companies and countries developing A.I., the need for a “public vision” for A.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/04/07/opinion/ezra-klein-podcast-ama-april2023.html",
-      "originalUrl": "https://www.nytimes.com/2023/04/07/opinion/ezra-klein-podcast-ama-april2023.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-the-worlds-first-self-driving-bus-fleet-will-soon-hit-scotlands-streets.md",
-      "title": "The world’s first self-driving bus fleet will soon hit Scotland’s streets",
-      "excerpt": "The UK government said the project, named CAVForth, would be the world’s first full-size, self-driving public bus service. CAV stands for “connected and autonomous vehicles.”",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/the-worlds-first-self-driving-bus-fleet-will-soon-hit-scotlands-streets",
-      "originalUrl": "https://thenextweb.com/news/the-worlds-first-self-driving-bus-fleet-will-soon-hit-scotlands-streets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F04%2Fself-driving-scotland-bus-autonomous.jpg&signature=848ecfdba9f8101314effb674005c47e",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

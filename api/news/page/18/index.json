@@ -2,6 +2,200 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2023-03-23-automated-machine-learning-automl-market-premium-research-report-forecast-2023-to-2029.md",
+      "title": "Automated Machine Learning (AutoML) Market Premium Research Report Forecast 2023 To 2029",
+      "excerpt": "Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “ Automated Machine Learning (AutoML) Market ” Size 2023 Key players Profiled in the Report are [,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-premium-research-report-forecast-2023-to-2029-2023-03-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-premium-research-report-forecast-2023-to-2029-2023-03-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-23T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-scientists-at-deepmind-and-meta-press-fusion-of-ai-biology.md",
+      "title": "Scientists at DeepMind and Meta Press Fusion of AI, Biology",
+      "excerpt": "Meta Platforms Inc.’s new tool predicting the structure of hundreds of millions of proteins is the latest example of a breakthrough in computational biology that began several years ago at an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/scientists-at-deepmind-and-meta-press-fusion-of-ai-biology-4b92af6f",
+      "originalUrl": "https://www.wsj.com/articles/scientists-at-deepmind-and-meta-press-fusion-of-ai-biology-4b92af6f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-23T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-canva-unveils-a-series-of-new-features-including-several-ai-powered-tools.md",
+      "title": "Canva unveils a series of new features, including several AI-powered tools",
+      "excerpt": "Canva is introducing a series of new features, including a suite of new AI-powered tools, along with additional highly-requested features.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/22/canva-new-features-including-suite-of-ai-powered-tools/",
+      "originalUrl": "https://techcrunch.com/2023/03/22/canva-new-features-including-suite-of-ai-powered-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/canva-logo.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/22/canva-new-features-including-suite-of-ai-powered-tools/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/canva-new-features-including-suite-of-ai-powered-tools/amp/",
+      "publishedDateTime": "2023-03-23T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-our-pick-of-the-best-artificial-intelligence-ai-stocks-and-shares.md",
+      "title": "Our Pick Of The Best Artificial Intelligence (AI) Stocks and Shares",
+      "excerpt": "While rumors of Google’s death might be greatly exaggerated, what’s clear is that Microsoft will no doubt benefit from the AI revolution due to the tools and services offered by its Azure cloud computing platform.” Its share price hit an all-time ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/in/investing/best-artificial-intelligence-ai-stocks-shares/",
+      "originalUrl": "https://www.forbes.com/advisor/in/investing/best-artificial-intelligence-ai-stocks-shares/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/03/pexels-alex-knight-2599244-1-scaled.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-23T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare",
+        "AI Hardware",
+        "AI in Robotics",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-03-23-nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms.md",
       "title": "NVIDIA Bets Big On Public Cloud To Deliver Its AI Supercomputing And Omniverse Platforms",
       "excerpt": "Machine learning PaaS providers including Google Cloud Vertex AI ... Google Cloud customers can also access L4 GPU through the Vertex AI ML PaaS. Microsoft Azure becomes the first public cloud to deliver NVIDIA’s Omniverse as a platform.",
@@ -1006,203 +1200,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-testgpt-a-generative-ai-tool-for-ensuring-code-integrity-is-released-for-beta.md",
-      "title": "TestGPT, a generative AI tool for ensuring code integrity, is released for beta",
-      "excerpt": "Codium AI released a beta version of its generative AI-powered code-integrity solution, TestGPT, to assist developers in testing their code.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/testgpt-a-generative-ai-tool-for-ensuring-code-integrity-is-released-for-beta/",
-      "originalUrl": "https://venturebeat.com/ai/testgpt-a-generative-ai-tool-for-ensuring-code-integrity-is-released-for-beta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/02/code-e1679497958730.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/testgpt-a-generative-ai-tool-for-ensuring-code-integrity-is-released-for-beta/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/testgpt-a-generative-ai-tool-for-ensuring-code-integrity-is-released-for-beta/amp/",
-      "publishedDateTime": "2023-03-22T15:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-indian-origin-intel-gpu-chief-raja-koduri-quits-to-form-generative-ai-startup.md",
-      "title": "Indian-origin Intel GPU chief Raja Koduri quits to form generative AI startup",
-      "excerpt": "Indian-American Raja Koduri, head of Intel's Accelerated Computing Systems and Graphics Group, has quit the chip-making major to form his own generative artificial intelligence (AI) startup.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestatesman.com/technology/indian-origin-intel-gpu-chief-raja-koduri-quits-to-form-generative-ai-startup-1503165300.html",
-      "originalUrl": "https://www.thestatesman.com/technology/indian-origin-intel-gpu-chief-raja-koduri-quits-to-form-generative-ai-startup-1503165300.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestatesman.com/wp-content/uploads/2023/03/39d880d47802503de43bbed95e10de03.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestatesman.com/technology/indian-origin-intel-gpu-chief-raja-koduri-quits-to-form-generative-ai-startup-1503165300.html/amp",
-      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/indian-origin-intel-gpu-chief-raja-koduri-quits-to-form-generative-ai-startup-1503165300.html/amp",
-      "publishedDateTime": "2023-03-22T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Statesman",
-        "domain": "thestatesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-catch-the-next-big-tech-ai-wave-startups-flock-to-openais-chat-gpt-and-dall-e.md",
-      "title": "Catch The Next Big Tech AI Wave: Startups Flock To OpenAI’s Chat GPT And DALL-E",
-      "excerpt": "As the 2020s unfold, it's becoming increasingly clear that AI has the potential to generate significant wealth for those who can harness its power. Whether you're a startup founder looking to streamline your operations or a tech entrepreneur with a new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/03/22/catch-the-next-big-tech-ai-wave-startups-flock-to-openais-chat-gpt-and-dall-e/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/03/22/catch-the-next-big-tech-ai-wave-startups-flock-to-openais-chat-gpt-and-dall-e/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641b66e3a9d4c17aad161d37/0x0.jpg?format=jpg&width=1200",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/03/22/catch-the-next-big-tech-ai-wave-startups-flock-to-openais-chat-gpt-and-dall-e/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/03/22/catch-the-next-big-tech-ai-wave-startups-flock-to-openais-chat-gpt-and-dall-e/amp/",
-      "publishedDateTime": "2023-03-22T13:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-a-tough-stock-not-to-own-wall-street-endorses-club-name-nvidia-as-it-dominates-ai.md",
-      "title": "'A tough stock not to own.' Wall Street endorses Club name Nvidia, as it dominates AI",
-      "excerpt": "\"Generative AI is marking an inflection point for AI and we continue ... Nvidia (NVDA) has demonstrated this week that both its chips and budding software offerings are integral to the future of artificial intelligence, bolstering the Club case in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/03/22/a-tough-stock-not-to-own-wall-street-endorses-club-holding-nvidia.html",
-      "originalUrl": "https://www.cnbc.com/2023/03/22/a-tough-stock-not-to-own-wall-street-endorses-club-holding-nvidia.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107198977-1677173650792-huang.jpg?v=1679516659&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -31,6 +31,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
+  - title: "2023-2030 Deep Learning Unit Market Size Detailed Report with Industry Chain Analysis | Research by Absolute Reports"
+    excerpt: "Apr 14, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry. Global “Deep Learning Unit Market”"
+    publishedDateTime: 2023-04-14T06:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2030-deep-learning-unit-market-size-detailed-report-with-industry-chain-analysis-research-by-absolute-reports-2023-04-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "UtYb/iiPptpJmV9vIyp4/lI7kj9Ugjtk9Xre/TpszHnxJF0a88UkIx6CcVJIwkVT8zyhlTnPrEDcyEqm++o8H+bCYfwxwCtkyxbFl1S4MuM6zxGaEQ76IQmzxtXr1ziDY1z4TBcA5RQCVzFxmkxFAy5VeyPINOnFFGPDumi/XxWyhv+S8oaTyjGYjWWtufWuvNh1p3ZC/aFMunQNka77rbW5shlHff3LJtHERYrDuU6SJPxQDuOetAsTz6GVbVzRFeIaKaApv7rX8j7Ix8NEpeELXTRl3+HzHMNLt9UO1eMiEmJ1WknRve+/uWGfL2/20m6GuvoPYintcem/A6gg2h4FoUi8Krj6vn6aw+TDdVY=;Bc4N0zVwe0rbQyarlnMqTA=="
 ---

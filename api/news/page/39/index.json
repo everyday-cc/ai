@@ -2,6 +2,188 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2023-03-08-nvidia-gtc-attendees-get-an-exclusive-look-at-microsofts-ai-tech.md",
+      "title": "Nvidia GTC attendees get an exclusive look at Microsoft’s AI tech",
+      "excerpt": "Add these Microsoft sessions at GTC to your conference schedule to learn about the latest Azure AI infrastructure and use cases.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidia-gtc-attendees-get-an-exclusive-look-at-microsofts-ai-tech/",
+      "originalUrl": "https://venturebeat.com/ai/nvidia-gtc-attendees-get-an-exclusive-look-at-microsofts-ai-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/AdobeStock_432173706.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nvidia-gtc-attendees-get-an-exclusive-look-at-microsofts-ai-tech/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-gtc-attendees-get-an-exclusive-look-at-microsofts-ai-tech/amp/",
+      "publishedDateTime": "2023-03-07T14:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-08-unlocking-unexpected-new-ai-use-cases-with-the-connected-intelligent-edge.md",
+      "title": "Unlocking unexpected new AI use cases with the Connected Intelligent Edge",
+      "excerpt": "Device hardware has now become sophisticated enough to make good on the full promise of AI, brining it all the way to the edge.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/unlocking-unexpected-new-ai-use-cases-with-the-connected-intelligent-edge/",
+      "originalUrl": "https://venturebeat.com/ai/unlocking-unexpected-new-ai-use-cases-with-the-connected-intelligent-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/02/AdobeStock_386600684.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/unlocking-unexpected-new-ai-use-cases-with-the-connected-intelligent-edge/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/unlocking-unexpected-new-ai-use-cases-with-the-connected-intelligent-edge/amp/",
+      "publishedDateTime": "2023-03-07T13:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-08-bnpl-mexicos-kueski-an-online-financial-ecosystem-achieves-10m-loans-disbursed.md",
+      "title": "BNPL: Mexico’s Kueski, an Online Financial Ecosystem, Achieves 10M Loans Disbursed",
+      "excerpt": "Kueski, the online financial ecosystem for consumers in Mexico, recently announced that it has disbursed a record 10 million loans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2023/03/203352-bnpl-mexicos-kueski-an-online-financial-ecosystem-achieves-10m-loans-disbursed/",
+      "originalUrl": "https://www.crowdfundinsider.com/2023/03/203352-bnpl-mexicos-kueski-an-online-financial-ecosystem-achieves-10m-loans-disbursed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-07T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-08-tlaib-and-others-introduce-bill-to-ban-facial-recognition-technology.md",
+      "title": "Tlaib and others introduce bill to ban facial recognition technology",
+      "excerpt": "Democratic lawmakers on Tuesday reintroduced legislation in the U.S. House and Senate that would ban facial recognition technology on the federal level and withhold money from state and local police departments that continue to use it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.metrotimes.com/news/tlaib-and-other-lawmakers-introduce-ban-on-facial-recognition-technology-that-would-penalize-detroit-32553268",
+      "originalUrl": "https://www.metrotimes.com/news/tlaib-and-other-lawmakers-introduce-ban-on-facial-recognition-technology-that-would-penalize-detroit-32553268",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.metrotimes.com/metrotimes/imager/u/original/32553594/facial_recognition_photo_neavling.jpg",
+          "width": 4032,
+          "height": 3024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.metrotimes.com/news/tlaib-and-other-lawmakers-introduce-ban-on-facial-recognition-technology-that-would-penalize-detroit-32553268?media=AMP+HTML",
+      "cdnAmpWebUrl": "https://www-metrotimes-com.cdn.ampproject.org/c/s/www.metrotimes.com/news/tlaib-and-other-lawmakers-introduce-ban-on-facial-recognition-technology-that-would-penalize-detroit-32553268?media=AMP+HTML",
+      "publishedDateTime": "2023-03-07T12:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro Times",
+        "domain": "metrotimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-08-stress-may-lead-to-lower-cognitive-function-study-finds.md",
       "title": "Stress may lead to lower cognitive function, study finds",
       "excerpt": "People with elevated stress levels are more likely to experience a decline in cognitive function, a new study found, affecting their capacity to remember, concentrate and learn new things. Stress ...",
@@ -1012,189 +1194,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-07-study-examines-potential-use-of-machine-learning-for-sustainable-development-of-biomass.md",
-      "title": "Study examines potential use of machine learning for sustainable development of biomass",
-      "excerpt": "Machine learning can be valuable in supporting sustainable development of biomass if it is applied across the entire lifecyle of biomass and biomass-derived products, according to a new study.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/03/230307174307.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/03/230307174307.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-06T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-03-07-tensorflow-decision-forests-tutorials.md",
-      "title": "TensorFlow Decision Forests tutorials",
-      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/decision_forests/tutorials",
-      "originalUrl": "https://www.tensorflow.org/decision_forests/tutorials",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-06T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-07-meta-will-keep-releasing-ai-tools-despite-leak-claims.md",
-      "title": "Meta will keep releasing AI tools despite leak claims",
-      "excerpt": "Facebook owner Meta maintains a major AI research arm and last month released LLaMA, short for Large Language Model Meta AI. Meta claimed that the model can achieve the kind of human-like ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/meta-continue-releasing-ai-tools-despite-leak-claims-2023-03-06/",
-      "originalUrl": "https://www.reuters.com/technology/meta-continue-releasing-ai-tools-despite-leak-claims-2023-03-06/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-06T15:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-07-microsoft-aims-to-reduce-tedious-business-tasks-with-new-ai-tools.md",
-      "title": "Microsoft aims to reduce “tedious” business tasks with new AI tools",
-      "excerpt": "The move follows the trend among tech giants such as Alphabet and Baidu to incorporate generative AI technology into their offerings—and of course, the multi-billion dollar partnership between OpenAI and Microsoft announced in January.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/03/microsoft-brings-chatgpt-style-ai-to-developer-and-analysis-tools/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/03/microsoft-brings-chatgpt-style-ai-to-developer-and-analysis-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-06T14:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

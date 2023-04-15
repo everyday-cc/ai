@@ -2,6 +2,198 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-02-24-everything-you-wanted-to-know-about-ai-but-were-afraid-to-ask.md",
+      "title": "Everything you wanted to know about AI – but were afraid to ask",
+      "excerpt": "From chatbots to deepfakes, here is the lowdown on the current state of artificial intelligence Barely a day goes by without some new story about AI, or artificial intelligence. The excitement about it is palpable – the possibilities, some say ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes",
+      "originalUrl": "https://www.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/543d6b74c91d5d5fb908173506f00e60567f9f5c/0_70_5704_3422/master/5704.jpg?width=620&quality=85&auto=format&fit=max&s=4854fc9c9b45b2aa64285c3d335f0a4f",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes",
+      "publishedDateTime": "2023-02-24T05:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Autos",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-02-24-experts-predict-how-ai-will-energize-cybersecurity-in-2023-and-beyond.md",
+      "title": "Experts predict how AI will energize cybersecurity in 2023 and beyond",
+      "excerpt": "From behavioral analytics to endpoint and patch management, experts predict the many ways AI will boost cybersecurity this year and beyond.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/experts-predict-how-ai-will-energize-cybersecurity-in-2023-and-beyond/",
+      "originalUrl": "https://venturebeat.com/security/experts-predict-how-ai-will-energize-cybersecurity-in-2023-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/6-Cujo-AI-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/experts-predict-how-ai-will-energize-cybersecurity-in-2023-and-beyond/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/experts-predict-how-ai-will-energize-cybersecurity-in-2023-and-beyond/amp/",
+      "publishedDateTime": "2023-02-24T05:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-24-these-experts-are-racing-to-protect-ai-from-hackers-time-is-running-out.md",
+      "title": "These experts are racing to protect AI from hackers. Time is running out",
+      "excerpt": "\"It has all kinds of AI going on in there: lane assist, sign recognition, and all the rest,\" Draper says, before adding: \"You could imagine all that sort of thing being hacked -- the AI being attacked.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/in-depth/innovation/these-experts-are-racing-to-protect-ai-from-hackers-time-is-running-out/",
+      "originalUrl": "https://www.zdnet.com/in-depth/innovation/these-experts-are-racing-to-protect-ai-from-hackers-time-is-running-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-24T05:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-24-ai-and-computer-vision-a-powerful-combination-for-growth-in-the-coming-years.md",
+      "title": "AI and Computer Vision: A Powerful Combination for Growth in the Coming Years",
+      "excerpt": "Chicago, Feb. 24, 2023 (GLOBE NEWSWIRE) -- The AI in Computer Vision Industry by Component, Machine Learning Models, Function, Application (Industrial, Non-Industrial), End-Use Industry (Security ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/02/g31046068/ai-and-computer-vision-a-powerful-combination-for-growth-in-the-coming-years",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/g31046068/ai-and-computer-vision-a-powerful-combination-for-growth-in-the-coming-years",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31046068",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31046068",
+      "publishedDateTime": "2023-02-24T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-24-human-art-already-has-so-much-in-common-with-ai.md",
       "title": "Human Art Already Has So Much In Common With AI",
       "excerpt": "Despite being human-made, human-taught, and human-promoted, it’s easy to criticize AI for being fundamentally inhuman. To claim that AI models like ChatGPT and DALL-E will replace art created by people is to ignore both the ineffable qualities of the ...",
@@ -1014,214 +1206,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-warren-buffetts-5-top-ai-stocks-heres-why-you-should-own-them-too.md",
-      "title": "Warren Buffett's 5 Top AI Stocks -- Here's Why You Should Own Them, Too",
-      "excerpt": "Microsoft has been at the center of the conversation about AI in recent weeks because of its integration of OpenAI's ChatGPT with the Bing search engine. Its Azure cloud-hosting services, like AWS, feature lots of AI options for customers. Microsoft's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/02/23/warren-buffetts-5-top-ai-stocks-heres-why-you-shou/",
-      "originalUrl": "https://www.fool.com/investing/2023/02/23/warren-buffetts-5-top-ai-stocks-heres-why-you-shou/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/721380/ai-artificial-intelligence-in-circle-on-keyboard.jpg",
-          "width": 2359,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-23T02:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-you-could-profit-by-investing-in-extremely-disruptive-ai-tech-experts-sayheres-how.md",
-      "title": "You could profit by investing in 'extremely disruptive' AI tech, experts say—here's how",
-      "excerpt": "AI feels like it has a chance to be a bigger deal than that, says Lamont. \"Artificial intelligence is a technology that's likely to be extremely disruptive,\" he says. From there, you'll have to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/02/22/how-to-invest-in-artificial-intelligence-etfs.html",
-      "originalUrl": "https://www.cnbc.com/2023/02/22/how-to-invest-in-artificial-intelligence-etfs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107196743-1676665034824-gettyimages-1208358564-abrf00695.jpeg?v=1677096180",
-          "width": 2045,
-          "height": 1466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/22/how-to-invest-in-artificial-intelligence-etfs.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/22/how-to-invest-in-artificial-intelligence-etfs.html",
-      "publishedDateTime": "2023-02-22T22:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-andrew-ng-even-with-generative-ai-buzz-supervised-learning-will-create-more-value-in-short-term.md",
-      "title": "Andrew Ng: Even with generative AI buzz, supervised learning will create ‘more value’ in short term",
-      "excerpt": "Andrew Ng, founder and CEO of Landing AI shares his wisdom about generative AI, supervised learning, deep learning and more.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/venturebeat-qa-andrew-ng-supervised-learning-more-value-generative-ai/",
-      "originalUrl": "https://venturebeat.com/ai/venturebeat-qa-andrew-ng-supervised-learning-more-value-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/02/andrew-ng-2.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 591,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/venturebeat-qa-andrew-ng-supervised-learning-more-value-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/venturebeat-qa-andrew-ng-supervised-learning-more-value-generative-ai/amp/",
-      "publishedDateTime": "2023-02-22T20:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-yes-artificial-intelligence-has-a-creative-side-sort-of.md",
-      "title": "Yes, Artificial Intelligence Has A Creative Side, Sort Of",
-      "excerpt": "Despite perceptions, artificial intelligence doesn’t have a shred of creativity within it. It’s all statistical algorithms, slurping data from sources created by humans somewhere along the line. It will never be a source of innovation, but will serve ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/22/yes-artificial-intelligence-has-a-creative-side-sort-of/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/22/yes-artificial-intelligence-has-a-creative-side-sort-of/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63f6e7b2e6d9f35a9b8ba852/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/22/yes-artificial-intelligence-has-a-creative-side-sort-of/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/02/22/yes-artificial-intelligence-has-a-creative-side-sort-of/amp/",
-      "publishedDateTime": "2023-02-22T19:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

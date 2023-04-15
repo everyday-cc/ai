@@ -37,6 +37,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice And Speech Recognition Software Market | Worldwide Industry Trends 2023-2028"
+    excerpt: "The report offers essential statistical information on the market status of Voice And Speech Recognition Software"
+    publishedDateTime: 2023-04-14T06:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-worldwide-industry-trends-2023-2028-2023-04-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence in Retail Market [2023-2030] | The Impact of Trend and Technology on the Industry"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 14, 2023 (The Expresswire) -- Global “Artificial Intelligence in Retail Market” (2023-2030) research report provides precise data related to key competition ..."
+    publishedDateTime: 2023-04-14T21:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-retail-market-2023-2030-the-impact-of-trend-and-technology-on-the-industry-2023-04-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Computer Networks Market | Industry Size Forecast To 2030"
     excerpt: "The latest market research report on the Global \"Artificial Intelligence in Computer Networks Market\" is segmented"
     publishedDateTime: 2023-04-13T21:15:00Z

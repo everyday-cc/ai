@@ -2,6 +2,186 @@
   "page": 133,
   "value": [
     {
+      "path": "_news/2022-12-14-exercise-mindfulness-dont-appear-to-boost-cognitive-function-in-older-adults.md",
+      "title": "Exercise, mindfulness don’t appear to boost cognitive function in older adults",
+      "excerpt": "A large study that focused on whether exercise and mindfulness training could boost cognitive function in older adults found no such improvement following either intervention. Researchers at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/974321",
+      "originalUrl": "https://www.eurekalert.org/news-releases/974321",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T13:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-how-ai-driven-sentiment-analysis-can-enhance-employee-satisfaction.md",
+      "title": "How AI-driven sentiment analysis can enhance employee satisfaction",
+      "excerpt": "Employees, these days, want to know that a company will look after them. One of the ways this shows up sharply is in the training and upskilling programs available.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-ai-driven-sentiment-analysis-can-enhance-employee-satisfaction/",
+      "originalUrl": "https://venturebeat.com/ai/how-ai-driven-sentiment-analysis-can-enhance-employee-satisfaction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/09/retention.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-ai-driven-sentiment-analysis-can-enhance-employee-satisfaction/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-driven-sentiment-analysis-can-enhance-employee-satisfaction/amp/",
+      "publishedDateTime": "2022-12-13T13:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-7-ways-a-recession-could-impact-ai-and-ml-in-2023.md",
+      "title": "7 ways a recession could impact AI and ML in 2023",
+      "excerpt": "Experts are predicting a possible recession in 2023. What would that mean for AI users and the vendors that supply AI tools and expertise?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/7-ways-a-recession-could-impact-ai-and-ml-in-2023/",
+      "originalUrl": "https://venturebeat.com/ai/7-ways-a-recession-could-impact-ai-and-ml-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T12:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-google-execs-warn-companys-reputation-could-suffer-if-it-moves-too-fast-on-ai-chat-technology.md",
+      "title": "Google execs warn company's reputation could suffer if it moves too fast on AI-chat technology",
+      "excerpt": "Google employees ask at a recent all-hands meeting if the popularity of AI chatbots represents a \"missed opportunity\" for the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/12/13/google-execs-warn-of-reputational-risk-with-chatgbt-like-tool.html",
+      "originalUrl": "https://www.cnbc.com/2022/12/13/google-execs-warn-of-reputational-risk-with-chatgbt-like-tool.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104888713-Handout_Google_DeepMind_Jeff_Dean_Future_of_Go_Summit_2017.jpg?v=1670970512",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/12/13/google-execs-warn-of-reputational-risk-with-chatgbt-like-tool.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/12/13/google-execs-warn-of-reputational-risk-with-chatgbt-like-tool.html",
+      "publishedDateTime": "2022-12-13T12:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-14-image-generating-ai-can-copy-and-paste-from-training-data-raising-ip-concerns.md",
       "title": "Image-generating AI can copy and paste from training data, raising IP concerns",
       "excerpt": "A new study offers some evidence that art-generating AI systems like Stable Diffusion copy from the data on which they were trained.",
@@ -945,185 +1125,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-vicai-raises-52m-shows-that-automating-accounting-processes-can-be-profitable.md",
-      "title": "Vic.ai raises $52M, shows that automating accounting processes can be profitable",
-      "excerpt": "Vic.ai, a startup offering AI tech to automate accounts payable processes, has raised $52 million in a venture round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/13/vic-ai-shows-that-automating-accounting-processes-can-be-profitable-raises-52m/",
-      "originalUrl": "https://techcrunch.com/2022/12/13/vic-ai-shows-that-automating-accounting-processes-can-be-profitable-raises-52m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/Vic.jpg?resize=1200,855",
-          "width": 1200,
-          "height": 855,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/13/vic-ai-shows-that-automating-accounting-processes-can-be-profitable-raises-52m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/13/vic-ai-shows-that-automating-accounting-processes-can-be-profitable-raises-52m/amp/",
-      "publishedDateTime": "2022-12-13T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-how-the-new-lands-end-movable-ink-partnership-leverages-ai-for-customization.md",
-      "title": "How the new Lands’ End-Movable Ink partnership leverages AI for customization",
-      "excerpt": "Lands' End announced it will leverage Movable Ink's AI-powered Da Vinci platform to bolster the retailer's email marketing program.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-the-new-lands-end-movable-ink-partnership-leverages-ai-for-customization/",
-      "originalUrl": "https://venturebeat.com/ai/how-the-new-lands-end-movable-ink-partnership-leverages-ai-for-customization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/2018-lands-end-logo.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-the-new-lands-end-movable-ink-partnership-leverages-ai-for-customization/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-the-new-lands-end-movable-ink-partnership-leverages-ai-for-customization/amp/",
-      "publishedDateTime": "2022-12-13T05:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-rapid-vocal-recognition-in-fur-seal-moms-and-pups.md",
-      "title": "Rapid Vocal Recognition in Fur Seal Moms and Pups",
-      "excerpt": "Cape fur seal mothers recognize their pup’s voice 2-4 hours after birth, and pups recognize their mother’s voice 4-6 hours after birth. This is the fastest establishment of mother-offspring vocal recognition for any mammal species (including humans) described to date.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/animal-minds/202212/rapid-vocal-recognition-in-fur-seal-moms-and-pups",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/animal-minds/202212/rapid-vocal-recognition-in-fur-seal-moms-and-pups",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/animal-minds/202212/rapid-vocal-recognition-in-fur-seal-moms-and-pups?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/animal-minds/202212/rapid-vocal-recognition-in-fur-seal-moms-and-pups?amp",
-      "publishedDateTime": "2022-12-13T05:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-vicai-secures-52m-in-series-c-funding-to-expand-suite-of-ai-enterprise-fintech-offerings.md",
-      "title": "Vic.ai Secures $52M in Series C Funding to Expand Suite of AI Enterprise Fintech Offerings",
-      "excerpt": "NEW YORK, Dec. 13, 2022 (GLOBE NEWSWIRE) -- Vic.ai today announced $52 million in Series C funding to expand its artificial intelligence (AI) platform for real-time, autonomous accounting and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/12/g30056073/vic-ai-secures-52m-in-series-c-funding-to-expand-suite-of-ai-enterprise-fintech-offerings",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/g30056073/vic-ai-secures-52m-in-series-c-funding-to-expand-suite-of-ai-enterprise-fintech-offerings",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
-          "width": 800,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30056073",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30056073",
-      "publishedDateTime": "2022-12-13T04:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

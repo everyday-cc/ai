@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-01-introducing-the-amazon-comprehend-flywheel-for-mlops.md",
+      "title": "Introducing the Amazon Comprehend flywheel for MLOps",
+      "excerpt": "The world we live in is rapidly changing, and so are the data and features that companies and customers use to train their models. Retraining models to keep them in sync with these changes is critical to maintain accuracy. Therefore, you need an agile and dynamic approach to keep models up to date and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-comprehend-flywheel-for-mlops/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-comprehend-flywheel-for-mlops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/28/introducing-comprehend-flywheel.jpg",
+          "width": 1563,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T07:27:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-03-01-hugging-face-aws-partner-on-open-source-machine-learning-amidst-ai-arms-race.md",
       "title": "Hugging Face, AWS partner on open-source machine learning amidst AI arms race",
       "excerpt": "OpenAI stopped open-sourcing most of its machine learning models and is serving them through a paid application programming interface (API). It has also become locked into Microsoft’s cloud platform, and its models are only available on Azure and ...",
@@ -1392,58 +1445,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-12-top-5-stories-of-the-week-ai-continues-to-reign-supreme.md",
-      "title": "Top 5 stories of the week: AI continues to reign supreme",
-      "excerpt": "OpenAI-powered Bing; AWS' ML-fueled fulfillment; IBM supercomputer creating foundation models — these are among our top stories of the week.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ai-continues-to-reign-supreme/",
-      "originalUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ai-continues-to-reign-supreme/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/02/anirudh-kCes633Hh1M-unsplash.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ai-continues-to-reign-supreme/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-5-stories-of-the-week-ai-continues-to-reign-supreme/amp/",
-      "publishedDateTime": "2023-02-11T12:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
