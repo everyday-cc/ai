@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "3 generative AI misunderstandings resolved for enterprise success"
+    excerpt: "ChatGPT, Bing AI and other generative AI tools have arrived. Will we surrender to the algorithms, or is there more nuance to the story?"
+    publishedDateTime: 2023-04-15T00:07:00Z
+    webUrl: "https://venturebeat.com/ai/3-generative-ai-misunderstandings-resolved-for-enterprise-success/"
+    ampWebUrl: "https://venturebeat.com/ai/3-generative-ai-misunderstandings-resolved-for-enterprise-success/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-generative-ai-misunderstandings-resolved-for-enterprise-success/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/03/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.3x2.jpg?w=1200&strip=all"
+        width: 700
+        height: 467
+        isCached: true
   - title: "What Enterprises Should Know About Generative AI-Powered Conversational Systems"
     excerpt: "Generative AI is capable of generating new data by recognizing patterns in existing data. In the context of conversational AI, it involves utilizing machine learning algorithms to produce natural language responses to user queries or requests."
     publishedDateTime: 2023-04-14T14:15:00Z
@@ -39,61 +55,22 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "5 AI Marketing Tools Every Startup Should Know About"
-    excerpt: "Discover how artificial intelligence can transform marketing for startups and level the playing field. In a world where the competition is fierce and the pace of change is relentless, startups are under pressure to find ways to stay ahead of the curve."
-    publishedDateTime: 2023-04-13T18:01:00Z
-    webUrl: "https://www.entrepreneur.com/growing-a-business/5-ways-ai-can-transform-your-startups-marketing/448470"
+  - title: "Coursera Unveils Generative AI Features for Online Platform"
+    excerpt: "She noted that these new AI features aim to fulfill a growing demand ... so we're going to start with those seven languages and make sure that we're making translation available across the [course] catalog … The machine learning assistance aspect of ..."
+    publishedDateTime: 2023-04-14T22:08:00Z
+    webUrl: "https://www.govtech.com/education/higher-ed/coursera-unveils-generative-ai-features-for-online-platform"
+    ampWebUrl: "https://www.govtech.com/education/higher-ed/coursera-unveils-generative-ai-features-for-online-platform?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/coursera-unveils-generative-ai-features-for-online-platform?_amp=true"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 64
-  - title: "How Advances In AI Are Shaping The Conversational Intelligence Market"
-    excerpt: "In the last few years especially, there has been an extraordinary rise in the capability and accuracy of AI systems to analyze voice, video and text data."
-    publishedDateTime: 2023-04-12T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/12/how-advances-in-ai-are-shaping-the-conversational-intelligence-market/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-04-10T16:57:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/04/12/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/8fe7c44/2147483647/strip/true/crop/3958x2064+0+288/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fd0%2F97%2F90c8982040429bb7cee77c56e395%2Fhttps-download.shutterstock.com%2Fgatekeeper%2FW3siZCI6ICJzaHV0dGVyc3RvY2stbWVkaWEiLCAiayI6ICJwaG90by8xODY1OTU4MDMxL2h1Z2UuanBnIiwgImRjIjogImlkbF8xMjMiLCAiZSI6IDE2NDU2Njk5MTQsICJtIjogMX0sICIrS0kvN2RCVytLaTBkczZ6UFhGYU1kaFhzOG8iXQ%3D%3D%2Fshutterstock_1865958031.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "Deloitte establishes new practice to help enterprises deploy generative AI"
-    excerpt: "The information technology consulting firm Deloitte Touche Tohmatsu Ltd. said today it’s establishing a new practice aimed at helping enterprises take advantage of the industry’s hottest trend right now: generative artificial intelligence."
-    publishedDateTime: 2023-04-14T00:48:00Z
-    webUrl: "https://siliconangle.com/2023/04/13/deloitte-establishes-new-practice-help-enterprises-deploy-generative-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/ai-cloud-concept-with-robot-arm.jpg"
-        width: 2000
-        height: 1500
-        isCached: true
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-04-12T23:27:00Z
-    webUrl: "https://www.law.com/dailyreportonline/2023/04/10/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 19
 
 secured: "+eE4K0zf+/0FWsmUtIoyOmC2Re8kJv0Us7ZkozCH6Oap38fQtQk7mTktvfjbapljBJTv+4b6/5qyjwAGJWaz6zAFt8csq/d3udjnnbEWgBkq94Tzt1wtYA2K+0DLM9v0KDhTfPfN+JVHcYHOCTgt/rkbvVDujCkksLvhQb1/YjYGYxYyo8epK6NC4ln5BUKq/iQME28+zxRIvXBWs7oPXp+3ZJKDFZHzDrnQvqzK8mcqcxAKdBqoe/98XVa9NCeyMrulSQLKzWlsRdkK7j9YXydWCaUwBn6Fu22IJS1gEAKL1it2KVB0anOhJcgacjIla1iZ30I19x9x++javIaA7G7ZZrQG054yTIQMmw0abgWaFDkfLZdF1+BLWtlAA+cipROhnWs9SHSp5knZuEAMSJPtlsFJxl5Ca5tS37bv+2DBIxM5q0bwv0yVU3oAku1Ufn+ffoO+wbvRLh0aEhXdTcRdmnFNbIWBpBjuLH9yhiG5dl0VqsfjiaNxV5QNEEsu+IFmyk+O/84O3p/majE+ng==;qT9Jt9UUWk/RBhLB9rniVA=="
 ---

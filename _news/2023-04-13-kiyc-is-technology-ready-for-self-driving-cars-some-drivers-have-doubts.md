@@ -35,6 +35,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Self Driving Helps Uber To Make More Money"
+    excerpt: "Self-driving cars have been a topic of discussion for years, and now we are finally seeing them become a reality. With the advancements in technology, companies like Tesla, Google,"
+    publishedDateTime: 2023-04-13T10:44:00Z
+    webUrl: "https://alphabeta.argaam.com/article/detail/109575/Self-Driving-Helps-Uber-To-Make-More-Money"
+    type: article
+    provider:
+      name: اخبار 24
+      domain: argaam.com
+    quality: 39
+    images:
+      - url: "https://s3-eu-west-1.amazonaws.com/content.argaamnews.com/71a4e5a2-6bd4-493c-8a78-069543cbe0d8.jpg"
+        width: 279
+        height: 278
+        isCached: true
   - title: "When Will Cars Be Fully Self-Driving?"
     excerpt: "The technology isn’t anywhere near where it needs to be to replace human drivers. Three experts weigh in on what the future holds for autonomous vehicles."
     publishedDateTime: 2023-04-10T12:00:00Z
@@ -59,20 +73,6 @@ related:
       - url: "https://www.thesun.co.uk/wp-content/uploads/2023/04/Behind_The_Wheel_Hyundai_Ioniq_5_vs_Ford_Mustang_Mach-E_10696-a20a6jpg-JS808013532.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Watch What Happens When a Self-Driving Car Clogs Up San Francisco Streets"
-    excerpt: "San Francisco is the epicenter of self-driving car testing and development, with dozens of robotaxis roaming the roads. Manufactures want more taxis with more area and more drive time, but the technology isn’t perfect,"
-    publishedDateTime: 2023-04-10T17:40:00Z
-    webUrl: "https://jalopnik.com/dashcam-shows-waymo-autonomous-cars-clogging-streets-1850319472"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 23
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b57a3b83b2bce645c445525d5973f978.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "GHRZ1lNTOMFCUIrCbZMTKFEwm+ThieAI95ZmuFp0ICxmWhLgPkD4TR0G/ZbyKR0xJZSr2v4oSsHYgFrXUT0wPPQeLmaqknGrK6iWUl8gDp68HqOmwbB5dEBU1UZTx5jrd3qQG+vw1nwzcpWNlHCo1rfZ6FUqrHtFKte5ZtqP4YAGYWDgWLOy9djM+27WvzcSJwXfdwxYQUMW20RKK29rotqjL2qH4D7/aaEemP7yV5VuyxNyk3CgdxnRovQMb5ohrOpp+pi4rynOEdEx+imNuvagCtWZmiflndLVH5uEAzabtAuw4DeoQSafX24PrtKMxn2vGLFygJhFMkA5ugmu4K5LaUj+InoaBf57SS4c/ojKFkQXFxkY9Er5Wlq/xB4FXiT4Cv/9TrjozRXGTJYRaFFmfK6q8KCy78H4LFZtXEkIG0Al6lWIvzuicwB8gyr+0sBNuTySrmoNJuWukZyDWcLCJwtFMQJaj/P10HKVarH/+Mp7eHp7ftcCxb46lYL69k2ouFydJJbtFuoUkL41EA==;9IM+6vlNpCI0G+wCKcJWaA=="

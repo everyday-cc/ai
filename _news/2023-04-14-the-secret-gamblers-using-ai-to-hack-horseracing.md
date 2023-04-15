@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-04-10T16:57:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/04/12/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "The secret gamblers using AI to hack horse racing"
     excerpt: "This week, we go to a racetrack in Miami, Florida to drink some beers, place some bets, and discover how AI is changing the sport of horse racing. FT data journalist Oliver Roeder joins Lilah to talk about how the ancient sport is being upended by anonymous computer-assisted bets."
     publishedDateTime: 2023-04-14T04:00:00Z
@@ -32,6 +46,24 @@ related:
         width: 900
         height: 900
         isCached: true
+  - title: "Navigating AI Malpractice in Healthcare: Balancing Revolutionary Benefits and Growing Concerns"
+    excerpt: "AI malpractice in healthcare raises concerns amid innovations, highlighting the need to address challenges and ensure patient safety"
+    publishedDateTime: 2023-04-13T21:27:00Z
+    webUrl: "https://marketscale.com/industries/software-and-technology/navigating-ai-malpractice-in-healthcare-balancing-revolutionary-benefits-and-growing-concerns/"
+    type: article
+    provider:
+      name: marketscale
+      domain: marketscale.com
+    quality: 22
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-04-12T23:27:00Z
+    webUrl: "https://www.law.com/dailyreportonline/2023/04/10/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 19
 
 secured: "OuClPWZr2stVVdu1ag4Ks3bdMDTRb6+2BJl4oPKbwUu5JD3HUAJPWi5EGtIlglYXuIUz4booWyTFCQn+P2C3lQWvsNo2RDhXh0NeISpf3BSK+vQAp1D2E53sUvIyU1jzZLW7fRCuzatq6EitRUbw63jQ0MQG0eqFNQ6n9JcRv36DXumMcwHRBsvjVFeyP3N8JRYI82COzNFMSeExlXlCwroB+QuQYarUnfDaYSqI3NWZXe6r+d3mhZXV4+mgoEgtCstIBvM5hw8LN9BNIn98R9pT6uQU4fAQCimoF2krUAeLblGjQ3hqRjVwQmPeydqLexPESyjhZ0bszw7QRD50P7uYDzwFd4eAsJV/5CuofrIg8Ca47bNXr/CTqYVxBbdIWHV/LsG/GQ41+DYG+7wWZabWv0hxhwrw/KWljJHpfw8trPKMCOVDeajm1VW+AYLQHayEhLFMTaM+jh3UMiVYogpTcV0iOHhzDDob1rZlA1hWqxZ8fIv+pZq8DeW+RTwtGUdue0YDGXsx6fjRcHz42A==;QuYH0XO3yfRnojnqfW5JPA=="
 ---

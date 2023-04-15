@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/04/14/zooms-virtual-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/04/14/zooms-virtual-agent-brings-ai-powered-resolutions-to-contact-centers/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "From Intuition To Automation: AI As An Essential Tool For Modern Marketers"
+    excerpt: "You can leverage AI tools and technologies to automate repetitive processes like data analysis, posting to social media, and lead scoring and customer segmentation. AI-powered solutions can also be used to automate customer service tasks such as responding to inquiries, providing product recommendations and more."
+    publishedDateTime: 2023-04-14T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/from-intuition-to-automation-ai-as-an-essential-tool-for-modern-marketers/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/from-intuition-to-automation-ai-as-an-essential-tool-for-modern-marketers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/from-intuition-to-automation-ai-as-an-essential-tool-for-modern-marketers/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6438211dffe260fd7c13615b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 738
+        isCached: true
   - title: "Generative Agents, the next frontier of Artificial Intelligence, is bringing virtual worlds to life"
     excerpt: "Generative agents are computational software agents that simulate human behaviour with the help of artificial intelligence."
     publishedDateTime: 2023-04-14T05:57:00Z

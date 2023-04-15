@@ -41,15 +41,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 51
-  - title: "Build AI apps faster with low-code and no-code"
-    excerpt: "More businesses are embracing low- and no-code technologies to deploy machine learning and AI capabilities in their products. Here's how it's going."
-    publishedDateTime: 2023-04-10T09:00:00Z
-    webUrl: "https://www.infoworld.com/article/3692810/build-ai-apps-faster-with-low-code-and-no-code.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 49
   - title: "Amazon Bedrock: New Suite of Generative AI Tools Unveiled by AWS"
     excerpt: "AWS has entered the red-hot realm of generative AI with the introduction of a suite of generative AI development tools. The cornerstone of these is Amazon"
     publishedDateTime: 2023-04-14T12:07:00Z

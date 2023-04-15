@@ -22,6 +22,22 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "Indigenous groups fear culture distortion as AI learns their languages"
+    excerpt: "When U.S. tech firm OpenAI rolled out Whisper, a speech recognition tool offering audio transcription and translation into English for dozens of languages including Maori, it rang alarm bells for ..."
+    publishedDateTime: 2023-04-10T12:00:00Z
+    webUrl: "https://www.japantimes.co.jp/news/2023/04/10/world/indigenous-language-ai-colonization-worries/"
+    type: article
+    provider:
+      name: ジャパンタイムズ
+      domain: japantimes.co.jp
+    quality: 39
+    images:
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2023/04/np_file_220818-870x489.jpeg"
+        width: 870
+        height: 489
+        isCached: true
+
 secured: "CiyfhQCxCJ2dSzCO2TUzwl1r62PoQJsM7B/LA6wuf5E5yywBhpbT7QOjy84ztA5yIdF5wSbLr09FmpU+tZLRAchfRE7j1spJNSTjIwiHljNhLw086P06puxJIbRuBXpAhpzTWdfRfXJiVOGuwx3neAfLlBvBBQf+e9JU30rgbE9PqW7tWhztZVYuJz83QGzrFMEowd2S4ujw6BKVU4PIA8z+cE8+B0HH6Ped7GugAe3gcZ6swjgZMkj+haY1I2mYNw1fBPp6JSUXMLoij/qyZkye9EnOq5+ex80QbhTZvo8ZnEdh/5pp0ZORXoJ7WzRWV01wYjqynIA9oPRSxeXEJg9QpLz+n/MZJbdLoSJxzFckx1kW19ZJmnKvVauKyjxj0mVXWqegbK0uGvRb15WptTN8l2/3gHvyViyPomU79aPRSOu8Nv8Suc1Fc+cSeoxUzVyRoBY9sQ9YLlvY5UpuHsSCCM0uSywpMXyl0rGnWBdXsenjUFKGOtKxxn6LFD7RgpbpkAK1j7sRZwVyHaiqZg==;ccqMFJyE1J1wg3DIAFYrJg=="
 ---
 

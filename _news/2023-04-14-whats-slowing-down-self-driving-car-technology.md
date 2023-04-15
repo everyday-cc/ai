@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self Driving Helps Uber To Make More Money"
+    excerpt: "Self-driving cars have been a topic of discussion for years, and now we are finally seeing them become a reality. With the advancements in technology, companies like Tesla, Google,"
+    publishedDateTime: 2023-04-13T10:44:00Z
+    webUrl: "https://alphabeta.argaam.com/article/detail/109575/Self-Driving-Helps-Uber-To-Make-More-Money"
+    type: article
+    provider:
+      name: اخبار 24
+      domain: argaam.com
+    quality: 39
+    images:
+      - url: "https://s3-eu-west-1.amazonaws.com/content.argaamnews.com/71a4e5a2-6bd4-493c-8a78-069543cbe0d8.jpg"
+        width: 279
+        height: 278
+        isCached: true
   - title: "When Will Cars Be Fully Self-Driving?"
     excerpt: "The technology isn’t anywhere near where it needs to be to replace human drivers. Three experts weigh in on what the future holds for autonomous vehicles."
     publishedDateTime: 2023-04-10T12:00:00Z
@@ -53,20 +67,6 @@ related:
       - url: "https://www.thesun.co.uk/wp-content/uploads/2023/04/Behind_The_Wheel_Hyundai_Ioniq_5_vs_Ford_Mustang_Mach-E_10696-a20a6jpg-JS808013532.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Watch What Happens When a Self-Driving Car Clogs Up San Francisco Streets"
-    excerpt: "San Francisco is the epicenter of self-driving car testing and development, with dozens of robotaxis roaming the roads. Manufactures want more taxis with more area and more drive time, but the technology isn’t perfect,"
-    publishedDateTime: 2023-04-10T17:40:00Z
-    webUrl: "https://jalopnik.com/dashcam-shows-waymo-autonomous-cars-clogging-streets-1850319472"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 23
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b57a3b83b2bce645c445525d5973f978.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "KIYC: Is technology ready for self-driving cars? Some drivers have doubts"
     excerpt: "Americans are killed in car accidents and the car industry says self-driving vehicles will eventually make the roads safer."

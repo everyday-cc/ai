@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/education/higher-ed/coursera-unveils-generat
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/coursera-unveils-generative-ai-features-for-online-platform?_amp=true"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,16 +27,48 @@ images:
     isCached: true
 
 related:
-  - title: "Coursera offers classes so workers aren’t blindsided by AI taking their jobs"
-    excerpt: "Coursera is offering more classes and degrees so that global labor market won't be blindsided by the rise of generative AI and remote work."
-    publishedDateTime: 2023-04-13T21:00:00Z
-    webUrl: "https://venturebeat.com/ai/coursera-offers-classes-so-workers-arent-blindsided-by-ai-taking-their-jobs/"
+  - title: "3 generative AI misunderstandings resolved for enterprise success"
+    excerpt: "ChatGPT, Bing AI and other generative AI tools have arrived. Will we surrender to the algorithms, or is there more nuance to the story?"
+    publishedDateTime: 2023-04-15T00:07:00Z
+    webUrl: "https://venturebeat.com/ai/3-generative-ai-misunderstandings-resolved-for-enterprise-success/"
+    ampWebUrl: "https://venturebeat.com/ai/3-generative-ai-misunderstandings-resolved-for-enterprise-success/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-generative-ai-misunderstandings-resolved-for-enterprise-success/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 46
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/03/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.3x2.jpg?w=1200&strip=all"
+        width: 700
+        height: 467
+        isCached: true
+  - title: "What Enterprises Should Know About Generative AI-Powered Conversational Systems"
+    excerpt: "Generative AI is capable of generating new data by recognizing patterns in existing data. In the context of conversational AI, it involves utilizing machine learning algorithms to produce natural language responses to user queries or requests."
+    publishedDateTime: 2023-04-14T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/14/what-enterprises-should-know-about-generative-ai-powered-conversational-systems/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/14/what-enterprises-should-know-about-generative-ai-powered-conversational-systems/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/14/what-enterprises-should-know-about-generative-ai-powered-conversational-systems/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5fc7e538b6f0e3645ec8ff41/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The mounting human and environmental costs of generative AI"
+    excerpt: "Downsides include the environmental toll of mining rare minerals, the human costs of the labor-intensive process of data annotation, and the escalating financial investment required to train AI models as they incorporate more parameters."
+    publishedDateTime: 2023-04-12T11:00:00Z
+    webUrl: "https://arstechnica.com/gadgets/2023/04/generative-ai-is-cool-but-lets-not-forget-its-human-and-environmental-costs/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 49
 
-secured: "qsPscvIWch0vMPKM5fNl5nd8B5P4AwXi/ADGtruhNzApPovdPnjkGwos1VuEuntaZhsR5N1L9nMK4ODkkgNNk0/qomLSo/hm77hZcFAazT1FbewryK+Nqe1NwbGSO5z9qr0pRU3BhVjzoVrxSK3BzXzI8U49JbjIcOLnrGE6kSxC2hoGeJMuQAiI8ZqaRY99AGUs38ep+HsFoju1hg8/8+VCZTMVVa/cTDWiS4ujEMsvg4dVL9Z7o7hh5r/H8OsL7xIVExqrm01t/3MaIR8sp0XK4bWo5AGXtGurjW/SbXF/aFoM9IIFTE4sDGVEFpbojsxYH9mA0izZzJrDc/SWPRIOAu1H95yG7xGWk0pFyGY=;p1JeAwQbe0I8JrrB/1jj9A=="
+secured: "bVlUJefhfS4FSrCDBInK3/Zbn+nGXw5Jc39SG3E/M64WgbgX0iNuzvooYCpS4Erg1w+TC4ad+rpT2S0XgatxeqCz1Q6VkdnmnHa2XUnjsPF00xubwphKPx3ejyGg+CAIgRNltFhdpLpPNzKgDw0Hoppg9PfVr657IxCKp4CIY54r5sEJJuQTztV4OoWYm5HJjJkotsDgj1E9dckSEQJawTvWFm+S+sgubecnN0yPGZLZH6IEHHBoRDiYarTp0GEUabnhWtORQ0NnWaAY8Pvow1z/9gh3iuvZiy5F/ugyfccPcAVSEVIRK75sc+rTPHfafc91F48OHch8AVDaI4pLXd2HNA5Ye/VUoIs0qHf72zHypsZfy3/Wve9Tj5xqlKghP/+kYlG/OU/wC/vtCC2dKCSgBnWDN3iwaQKHr6zqCnLdDoUARdcyUHP0ise0rW8zii3xuI5HxGM5+Przl5uCPT0E27JGoKxGR+bBYltrB3NtarXwxgM+SgGJhxxl4rYgbk3wWrxtemdzMkf5acqZnA==;4eYzexHu57GXVaMgT1K9/w=="
 ---
 

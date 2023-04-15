@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/amazon-aws-expands-generative-ai-effort
 webUrl: "https://venturebeat.com/ai/amazon-aws-expands-generative-ai-efforts-with-bedrock-and-codewhisperer-updates/"
 type: article
 quality: 62
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -33,15 +33,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 51
-  - title: "Build AI apps faster with low-code and no-code"
-    excerpt: "More businesses are embracing low- and no-code technologies to deploy machine learning and AI capabilities in their products. Here's how it's going."
-    publishedDateTime: 2023-04-10T09:00:00Z
-    webUrl: "https://www.infoworld.com/article/3692810/build-ai-apps-faster-with-low-code-and-no-code.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 49
   - title: "Amazon Makes a Push for More AI Coming Your Way"
     excerpt: "AWS also announced the general availability of Amazon CodeWhisperer, an AI coding companion. AWS said CodeWhisperer is the fastest, most accurate and most secure way to generate code for Amazon services. AWS is making CodeWhisperer free for anyone to use."
     publishedDateTime: 2023-04-13T18:27:00Z

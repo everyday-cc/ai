@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/content/386f54d3-f8ae-47cb-9d50-8ece2ed2c43a"
 webUrl: "https://www.ft.com/content/386f54d3-f8ae-47cb-9d50-8ece2ed2c43a"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,38 @@ images:
     isCached: true
 
 related:
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-04-10T16:57:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/04/12/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Navigating AI Malpractice in Healthcare: Balancing Revolutionary Benefits and Growing Concerns"
+    excerpt: "AI malpractice in healthcare raises concerns amid innovations, highlighting the need to address challenges and ensure patient safety"
+    publishedDateTime: 2023-04-13T21:27:00Z
+    webUrl: "https://marketscale.com/industries/software-and-technology/navigating-ai-malpractice-in-healthcare-balancing-revolutionary-benefits-and-growing-concerns/"
+    type: article
+    provider:
+      name: marketscale
+      domain: marketscale.com
+    quality: 22
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-04-12T23:27:00Z
+    webUrl: "https://www.law.com/dailyreportonline/2023/04/10/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 19
   - title: "The secret gamblers using AI to hack horseracing"
     excerpt: "This is an audio transcript of the FT Weekend podcast episode: ‘The secret gamblers using AI to hack horseracing’ Unidentified man 1 I want to make a bet, so . . . Oliver Roeder OK, Sure. I know. I don’t want to stop you."
     publishedDateTime: 2023-04-14T06:02:00Z

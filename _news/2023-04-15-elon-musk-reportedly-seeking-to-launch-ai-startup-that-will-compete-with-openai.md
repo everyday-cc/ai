@@ -26,6 +26,98 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk quietly starts X.AI, a new artificial intelligence company to challenge OpenAI"
+    excerpt: "Elon Musk is preparing to launch a new artificial intelligence startup, X.AI, that aims to rival OpenAI, according to a bombshell report published by the Wall Street Journal on Friday."
+    publishedDateTime: 2023-04-15T00:51:00Z
+    webUrl: "https://venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artificial-intelligence-company-to-challenge-openai/"
+    ampWebUrl: "https://venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artificial-intelligence-company-to-challenge-openai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artificial-intelligence-company-to-challenge-openai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 93
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/elon.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI Models Shaken, Not Yet Stirred: FTC Could Slow OpenAI’s ChatGPT"
+    excerpt: "LeCun, chief scientist at Facebook’s AI lab, said he opposed a moratorium on any AI development. “We should continue to do research, and do it responsibly, and that includes considering the ethical implications of our work.\" Pedro Domingos, an AI ..."
+    publishedDateTime: 2023-04-14T15:25:00Z
+    webUrl: "https://www.forbes.com/sites/craigsmith/2023/04/14/ai-models-shaken-not-yet-stirred-ftc-could-slow-openais-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/craigsmith/2023/04/14/ai-models-shaken-not-yet-stirred-ftc-could-slow-openais-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/04/14/ai-models-shaken-not-yet-stirred-ftc-could-slow-openais-chatgpt/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/643840fbf709af9d2021d3e8/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 740
+        isCached: true
+  - title: "Elon Musk Files to Incorporate Artificial Intelligence Company"
+    excerpt: "Tesla and Twitter CEO Elon Musk has created an artificial intelligence company called X.AI headquartered in Nevada, according to a report. The company was incorporated last month, The Wall Street Journal reported Friday, referring to a state filing. Musk has yet to tweet about the new company."
+    publishedDateTime: 2023-04-15T01:45:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/elon-musk-files-to-incorporate-artificial-intelligence-company/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/elon-musk-files-to-incorporate-artificial-intelligence-company/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/elon-musk-files-to-incorporate-artificial-intelligence-company/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/70eb9d49aa25ebb616bb2d43d8ee29810cb173fa/hub/2022/06/16/40585f56-166e-4301-baf9-a13c6e68ae74/elon-musk-5922.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Elon Musk Forms New AI Company In Nevada Called X.AI"
+    excerpt: "Elon Musk has formed a new AI company in Nevada called X. AI, according to a new report from the Wall Street Journal."
+    publishedDateTime: 2023-04-14T22:19:00Z
+    webUrl: "https://www.forbes.com/sites/mattnovak/2023/04/14/elon-musk-forms-new-ai-company-in-nevada-called-xai/"
+    ampWebUrl: "https://www.forbes.com/sites/mattnovak/2023/04/14/elon-musk-forms-new-ai-company-in-nevada-called-xai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/04/14/elon-musk-forms-new-ai-company-in-nevada-called-xai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6439ce83aaf7414a5deb4790/0x0.jpg?format=jpg&crop=1693,951,x10,y218,safe&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Elon Musk Creates New Artificial Intelligence Company X.AI"
+    excerpt: "The name of the new Nevada-incorporated organization suggests a link to the billionaire’s interest in an everything app."
+    publishedDateTime: 2023-04-14T20:35:00Z
+    webUrl: "https://www.wsj.com/articles/elon-musks-new-artificial-intelligence-business-x-ai-incorporates-in-nevada-962c7c2f?mod=business_lead_pos1"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 82
+    images:
+      - url: "https://images.wsj.net/im-764221/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Elon Musk’s New Artificial Intelligence Business, X.AI, Incorporates in Nevada"
+    excerpt: "Elon Musk has created a new artificial intelligence company called X.AI that is incorporated in Nevada, according to a state filing. Mr. Musk is the only listed director of the company, and Jared Birchall, the director of Mr. Musk’s family office ..."
+    publishedDateTime: 2023-04-14T21:35:00Z
+    webUrl: "https://www.wsj.com/articles/elon-musks-new-artificial-intelligence-business-x-ai-incorporates-in-nevada-962c7c2f"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 78
+    images:
+      - url: "https://images.wsj.net/im-764221/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Elon Musk is rumored to be starting new AI startup after saying Tesla would play a role in AGI"
     excerpt: "Elon Musk is rumored to be starting a new AI startup to compete with OpenAI after he left the organization, which he co-founded, supposedly because of a conflict of interest with Tesla’s own artificial intelligence effort. Now it sounds like he is funding a startup that could compete with Tesla, based on his latest comments."
     publishedDateTime: 2023-04-14T19:56:00Z
@@ -39,6 +131,22 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/03/elon-tesla-bot-meme.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Elon Musk plans AI startup to rival OpenAI: Report"
+    excerpt: "Billionaire Elon Musk is working on launching an artificial intelligence start-up that will rival ChatGPT-maker OpenAI, the Financial Times reported on Friday citing people familiar with his plans. Twitter owner Musk is assembling a team of AI researchers ..."
+    publishedDateTime: 2023-04-15T01:31:00Z
+    webUrl: "https://www.livemint.com/news/world/elon-musk-plans-ai-startup-to-rival-openai-report-11681520398606.html"
+    ampWebUrl: "https://www.livemint.com/news/world/elon-musk-plans-ai-startup-to-rival-openai-report/amp-11681520398606.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/elon-musk-plans-ai-startup-to-rival-openai-report/amp-11681520398606.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/04/15/600x338/2-0-142073357-Elon-Musk-5C-0_1681190396992_1681521375383_1681521375383.jpg"
+        width: 600
+        height: 338
         isCached: true
   - title: "Elon Musk plans AI start-up to rival OpenAI: Report"
     excerpt: "Billionaire Elon Musk is working on launching an artificial intelligence start-up that will rival ChatGPT-maker OpenAI, the Financial Times reported on Friday (Apr 14), citing people familiar with his plans."
@@ -54,6 +162,52 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Elon Musk plans AI startup to rival OpenAI: Financial Times"
+    excerpt: "Elon Musk is assembling a team of artificial intelligence researchers and engineers, according to FT. Read more at straitstimes.com."
+    publishedDateTime: 2023-04-14T23:40:00Z
+    webUrl: "https://www.straitstimes.com/world/united-states/elon-musk-plans-ai-startup-to-rival-openai-financial-times"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 37
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/04/15/2023-03-23T135111Z1659947293RC2OZZ9CLA45RTRMADP3HEALTH-WHO-MUSK.JPG?VersionId=GCnl4zYnpHH1bE0Veg03H5uYJELnPhJB"
+        width: 860
+        height: 573
+        isCached: true
+  - title: "Elon Musk to start AI rival in challenge to OpenAI"
+    excerpt: "But, it seems like he has room for just one more thing: Artificial Intelligence. The iconic tech billionaire is planning to launch an AI startup with a directive to rival the ChatGPT technology from OpenAI, and is said to be building up a team of engineers ..."
+    publishedDateTime: 2023-04-14T18:32:00Z
+    webUrl: "https://seekingalpha.com/news/3956681-elon-musk-to-start-ai-rival-in-challenge-to-openai"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 37
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1395371342/image_1395371342.jpg?io=getty-c-w750"
+        width: 750
+        height: 489
+        isCached: true
+  - title: "Elon Musk plans artificial intelligence start-up to rival Open AI"
+    excerpt: "Elon Musk is developing plans to launch a new artificial intelligence start-up to compete with ChatGPT-maker OpenAI, as the billionaire seeks to join Silicon Valley’s race to build generative AI systems."
+    publishedDateTime: 2023-04-14T17:35:00Z
+    webUrl: "https://www.ft.com/content/2a96995b-c799-4281-8b60-b235e84aefe4?sharetype=gift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
+  - title: "Text-to-Image Generator Market Analysis and Industry Research Report 2022-2030 with Top Players are OpenAI, Google, Facebook, DeepAI, Stability.ai"
+    excerpt: "The market research carried out in this large scale Text-to-Image Generator market report succours clients to forecast investment in an emerging market, expansion of market share or success of a new product."
+    publishedDateTime: 2023-04-12T08:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/text-to-image-generator-market-analysis-and-industry-research-report-2022-2030-with-top-players-are-openai-google-facebook-deepai-stabilityai-2023-04-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 11
 
 secured: "r+eFQTj+Eb2bnRwKia+ha2hAWvbf16pHQhDWZdDRePSQoKK2xTfUqor4kEVLa979LpuLsyzk2brMovU6EMXH58ZaYJLZOlWt8/7bPIvnGGF3QY8eu9Z7no/mtoVkb5Ek3e0q0Dmi/J51uKvk1jEXY1ej0YuV22jiNxOS90uRr94WVOzcyYB+UTXQbukLzmBj3tQpEcgq5JAiAnYjB9zD0YtmCuqvwecM75BhbhA7P/jiSHgCw++d1t4Mz1nORbNcTYlgghL1G6631sd6G6id+J5qz3iUpnNJqWDBUF0+bbOmxVfOhH4kOXtRaE702KTZHzqsE699J0u2NZqZsPMLBrNjvTJs+iC6o6MFt2z/HDasvtDbFsuBivGisJM3wU1kX4r9t35C5fV1NMooC3ECSTZqrw5Bg7k37FPvuZMOsInO3eW7QONIWyu/oWIuBn32JvW/kuwU0QuKoQehBhq9XNOwEOMNzSO1BrmvQ7Klt1/tLYZyPI/yTGhLdGqvmwY7sbeLtWiFLkpxPm/Jzc9azQ==;VUN/8T3N99Rl2zCnLe4UWw=="
 ---
