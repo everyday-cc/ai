@@ -190,6 +190,22 @@ related:
         width: 1349
         height: 900
         isCached: true
+  - title: "Elon Musk plans AI startup to rival ChatGPT owner, OpenAI"
+    excerpt: "Billionaire Elon Musk is working on launching an artificial intelligence start-up that will rival ChatGPT-maker OpenAI, the Financial Times reported on Friday citing people familiar with his plans. Twitter-owner Musk is assembling a team of AI researchers ..."
+    publishedDateTime: 2023-04-15T09:06:00Z
+    webUrl: "https://tribune.com.pk/story/2412149/elon-musk-plans-ai-startup-to-rival-chatgpt-owner-openai"
+    ampWebUrl: "https://tribune.com.pk/story/2412149/elon-musk-plans-ai-startup-to-rival-chatgpt-owner-openai?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2412149/elon-musk-plans-ai-startup-to-rival-chatgpt-owner-openai?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 57
+    images:
+      - url: "https://i.tribune.com.pk/media/images/Musk-41645976195-0/Musk-41645976195-0.jpg"
+        width: 640
+        height: 426
+        isCached: true
   - title: "How ChatGPT and similar AI will disrupt education"
     excerpt: "The new chatbot ChatGPT and other generative AI encourage cheating and offer up incorrect info, but they could also be used for good."
     publishedDateTime: 2023-04-12T11:00:00Z
@@ -425,6 +441,6 @@ related:
       domain: aol.com
     quality: 19
 
-secured: "LQQUL3rBL2HkgjQtEH7mIC6b0n6BbHgGi+AQ1VENzR2aXRKHTRaVJpjdUPgFeeGBv0wY3PAd5pg0P7uI+Nnn2JcXijiXdVBe0Gdu4T/B7+8kVA2lqterXGem0SQdZzNwP2vqEbrLAytfudoQ7ymBP/NwQZqYTpM5QqA6/myRADRXAhwhcLd5xQw0SfdsidhzDBOhnzbLc0TCyFX6mqUwvv9OzR5OJVF4HhHP3sr93D39zjjiwHq7iDdPeqYR4WAzx4iffujzM8tfqzRZgMRzPQuI0vfcTISOBzDn8TnZrSXs8/HCNqV8l0+GLYlKdL4RnsnxbGNlVDtXT/GrRE/Qzozlpbn2t/mLJAO3Yxl3I5g=;6uapoKf4gQ8ddaOJk+iFzA=="
+secured: "NIPnLKVa8oHMuDpHOblpi4PNCHpZvYuCKS6S+qpD21Tk437rTPmq/qzZZutgn4zKydlWlhNT26tJMFBeTA0B3jAHtP9VHcIhEH+YooO/T//8omsYqm+CPqiW9NUAMmz6Gg9tpsxtpQJ/4qOD4LUezciesZ+yI0NWs8/BjoF6bfPc8vMdVXHBJxP2xsVh+fuQ5+RTKkg3K1TXWaE0xlqJ/hzPiUlK9S5UNgcVfSKaKRP2AJWFsLfsYWBh3oOYaQQ4tgq4Vy8wx7htzVpCcxGt0+1m9YfiRkBhT+SiictI+UjpiCIcmpewpIgS3BxBQxIAwuWbq1TiZIBOdBCLhxJRdUIC50CZJqDNxGGecDO6DCKITGDmgUri5/RGXtEr7KrlicDAanqV/8ZYbYqZ/xUpFOVaeGNXXywU6oeH5Z3fKfMHSFssqLnCZ5nq9YdEKKYTzfi5jg1HX18WwqUnKFpxmgVYhVoBfllwPpHaxpt3M2l4NXv7fyILRhwOA7DAjDO/jp4hFh6OwcFpX7jYf/VTZQ==;usuOHdfHojhwNdGQqer8AA=="
 ---
 

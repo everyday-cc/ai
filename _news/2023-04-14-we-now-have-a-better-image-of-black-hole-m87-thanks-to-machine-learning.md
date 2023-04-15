@@ -7,7 +7,7 @@ originalUrl: "https://interestingengineering.com/science/better-image-of-black-h
 webUrl: "https://interestingengineering.com/science/better-image-of-black-hole-m87"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Peering Into the Abyss: Machine Learning Enhances M87 Black Hole Image"
+    excerpt: "Machine learning reconstructs new image from EHT data. The image of the M87 black hole has been enhanced using a machine learning technique called PRIMO, providing a more accurate representation and allowing for improved determinations of its mass and physical parameters."
+    publishedDateTime: 2023-04-15T02:30:00Z
+    webUrl: "https://scitechdaily.com/peering-into-the-abyss-machine-learning-enhances-m87-black-hole-image/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 39
+    images:
+      - url: "https://scitechdaily.com/images/Animated-M87-Black-Hole-Comparison.gif"
+        width: 777
+        height: 437
+        isCached: true
   - title: "Iconic image of M87 black hole just got a machine-learning makeover"
     excerpt: "The iconic image of a supermassive black hole in the Messier 87 (M87) galaxy—described by astronomers as a \"fuzzy orange donut\"—was a stunning testament to the capabilities of the Event Horizon Telescope (EHT)."
     publishedDateTime: 2023-04-13T10:59:00Z
@@ -33,15 +47,6 @@ related:
     provider:
       name: Ars Technica
       domain: arstechnica.com
-    quality: 34
-  - title: "The first black hole portrait got sharper thanks to machine learning"
-    excerpt: "A machine learning technique filled in data gaps in the image of M87’s black hole, resulting in a thinner ring."
-    publishedDateTime: 2023-04-13T10:59:00Z
-    webUrl: "https://www.sciencenews.org/article/first-black-hole-m87-machine-learning"
-    type: article
-    provider:
-      name: Science News
-      domain: sciencenews.org
     quality: 34
   - title: "Machine Learning Creates Sharper Image of M87 Black Hole"
     excerpt: "Machine learning has done a lot in the past several years, from delivering crisper game graphics to unleashing a torrent of AI chatbots upon the world. Now, it has been instrumental in refining the iconic image of the supermassive black hole in the M87 galaxy."

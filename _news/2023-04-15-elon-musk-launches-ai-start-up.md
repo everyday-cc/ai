@@ -92,7 +92,7 @@ related:
   - title: "Elon Musk Creates New Artificial Intelligence Company X.AI"
     excerpt: "The name of the new Nevada-incorporated organization suggests a link to the billionaire’s interest in an everything app."
     publishedDateTime: 2023-04-14T20:35:00Z
-    webUrl: "https://www.wsj.com/articles/elon-musks-new-artificial-intelligence-business-x-ai-incorporates-in-nevada-962c7c2f?mod=tech_lead_pos2"
+    webUrl: "https://www.wsj.com/articles/elon-musks-new-artificial-intelligence-business-x-ai-incorporates-in-nevada-962c7c2f"
     type: article
     provider:
       name: Wall Street Journal
@@ -205,7 +205,7 @@ related:
   - title: "Elon Musk vs OpenAI: Twitter boss creates new AI company weeks after open letter to halt AI developments"
     excerpt: "A few weeks after he signed a letter seeking a pause on big AI experiments, Elon Musk seems to be floating his own AI firm to rival OpenAI."
     publishedDateTime: 2023-04-15T05:50:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/elon-musk-vs-openai-sam-altman-gpt4-8557417/lite/"
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/elon-musk-vs-openai-sam-altman-gpt4-8557417/"
     ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/elon-musk-vs-openai-sam-altman-gpt4-8557417/lite/"
     cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/elon-musk-vs-openai-sam-altman-gpt4-8557417/lite/"
     type: article
@@ -344,6 +344,6 @@ related:
       domain: marketwatch.com
     quality: 11
 
-secured: "Oe6cR/XS8/xmdAbajN/7b+3VRVmfftjMB93DmmFMH4K8bTKwixZa2kGpr8kQT51+pInXq9Av6QKqKW5bt0c/34dD5eMZkKA+mlZBi0rlujirIT14poX/zyL7ph8Ehvn1XEANsJ9fqhGIGZzga17awTpDhor3x72iQitlgTIKmLi3TlmED1TwB3xVcD6N73VSpZ5l+3yG93PUhGTyw33SItumlw5dbU65yaCShH3GmeBShW4Y4cS4TIyOGDgcLEcPV5v6kk7V8GJ/PAOD+cSSgyEVWzCP2xExCBecvVWE64WRAW38ib4a77qVOul/CjLTVW7Ke2Z/aaXgO/CgCTGrXbngwtOIlQYZF1umBxoR0Ww=;JRVvPtlOn7d/ZmOom1Bplg=="
+secured: "eYDaYfYWGAwD/9yr2CYnyJh+QP3XIWt5LPMFKcRqiLRWiRqLpolpzsL+ZupCSHCPxj6n5h0zHWcHfsaSVN6RIaH0yFXy4AX1Nc2oY897I0sYQR0IqjkM1yrJp0n12lOjGAoJaEUhjzZZxbq5yIsxG8eIduD/YNM5hhT5jjlMwsZt4EBVO+B73xcYGYrW5M9bHuo3S2POXypmEFr7eYLXdG3YbO0IvRJHCCGmb1lR2i+AnJWBtKnbu6DOteV0xsVbz35hua2SwOZgEKkf1SaIfB8Gl2ccWT3YXUembU3vzp2Ib/i2Xgv+3PrEbbozJPR8M4b1N/tLLI8efcbplyY4r4Me/mriBAWmaza6Yuk5Aunfb57cQyzRf5mw9D0RhZX+Vr19+iduTneZoMPUveqmn1N+ox3JnxtiTGtz9ySJzwf3T+zDosA2qZy8wEo1LVKnIFNyQ7VReg6qRElxV6gSY64aju6aEEDtnuH9pfEAcYBPXXoSgRml4bKSyA5Fof/KygC7Mx1M4+kUR9fQN1PMvg==;aJU8RgaH90mod0mnNBsxrg=="
 ---
 

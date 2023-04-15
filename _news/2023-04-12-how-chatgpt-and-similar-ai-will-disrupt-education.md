@@ -191,6 +191,22 @@ related:
         width: 1349
         height: 900
         isCached: true
+  - title: "Elon Musk plans AI startup to rival ChatGPT owner, OpenAI"
+    excerpt: "Billionaire Elon Musk is working on launching an artificial intelligence start-up that will rival ChatGPT-maker OpenAI, the Financial Times reported on Friday citing people familiar with his plans. Twitter-owner Musk is assembling a team of AI researchers ..."
+    publishedDateTime: 2023-04-15T09:06:00Z
+    webUrl: "https://tribune.com.pk/story/2412149/elon-musk-plans-ai-startup-to-rival-chatgpt-owner-openai"
+    ampWebUrl: "https://tribune.com.pk/story/2412149/elon-musk-plans-ai-startup-to-rival-chatgpt-owner-openai?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2412149/elon-musk-plans-ai-startup-to-rival-chatgpt-owner-openai?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 57
+    images:
+      - url: "https://i.tribune.com.pk/media/images/Musk-41645976195-0/Musk-41645976195-0.jpg"
+        width: 640
+        height: 426
+        isCached: true
   - title: "Microsoft integrates Bing's AI into Swiftkey, Skype, Start apps"
     excerpt: "After launching the new Bing experience earlier this year, Microsoft has been trying to bring the search engine's AI features to its products."
     publishedDateTime: 2023-04-14T06:11:00Z

@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Peering Into the Abyss: Machine Learning Enhances M87 Black Hole Image"
+    excerpt: "Machine learning reconstructs new image from EHT data. The image of the M87 black hole has been enhanced using a machine learning technique called PRIMO, providing a more accurate representation and allowing for improved determinations of its mass and physical parameters."
+    publishedDateTime: 2023-04-15T02:30:00Z
+    webUrl: "https://scitechdaily.com/peering-into-the-abyss-machine-learning-enhances-m87-black-hole-image/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 39
+    images:
+      - url: "https://scitechdaily.com/images/Animated-M87-Black-Hole-Comparison.gif"
+        width: 777
+        height: 437
+        isCached: true
   - title: "We now have a better image of black hole M87, thanks to machine learning"
     excerpt: "Scientists have unveiled a new and improved image of a black hole using a new machine learning method called PRIMO."
     publishedDateTime: 2023-04-14T14:16:00Z
@@ -37,15 +51,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "The first black hole portrait got sharper thanks to machine learning"
-    excerpt: "A machine learning technique filled in data gaps in the image of M87’s black hole, resulting in a thinner ring."
-    publishedDateTime: 2023-04-13T10:59:00Z
-    webUrl: "https://www.sciencenews.org/article/first-black-hole-m87-machine-learning"
-    type: article
-    provider:
-      name: Science News
-      domain: sciencenews.org
-    quality: 34
   - title: "Machine Learning Creates Sharper Image of M87 Black Hole"
     excerpt: "Machine learning has done a lot in the past several years, from delivering crisper game graphics to unleashing a torrent of AI chatbots upon the world. Now, it has been instrumental in refining the iconic image of the supermassive black hole in the M87 galaxy."
     publishedDateTime: 2023-04-13T17:17:00Z

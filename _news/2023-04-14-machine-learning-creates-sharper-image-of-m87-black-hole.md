@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Peering Into the Abyss: Machine Learning Enhances M87 Black Hole Image"
+    excerpt: "Machine learning reconstructs new image from EHT data. The image of the M87 black hole has been enhanced using a machine learning technique called PRIMO, providing a more accurate representation and allowing for improved determinations of its mass and physical parameters."
+    publishedDateTime: 2023-04-15T02:30:00Z
+    webUrl: "https://scitechdaily.com/peering-into-the-abyss-machine-learning-enhances-m87-black-hole-image/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 39
+    images:
+      - url: "https://scitechdaily.com/images/Animated-M87-Black-Hole-Comparison.gif"
+        width: 777
+        height: 437
+        isCached: true
   - title: "We now have a better image of black hole M87, thanks to machine learning"
     excerpt: "Scientists have unveiled a new and improved image of a black hole using a new machine learning method called PRIMO."
     publishedDateTime: 2023-04-14T14:16:00Z
@@ -41,15 +55,6 @@ related:
     provider:
       name: Ars Technica
       domain: arstechnica.com
-    quality: 34
-  - title: "The first black hole portrait got sharper thanks to machine learning"
-    excerpt: "A machine learning technique filled in data gaps in the image of M87’s black hole, resulting in a thinner ring."
-    publishedDateTime: 2023-04-13T10:59:00Z
-    webUrl: "https://www.sciencenews.org/article/first-black-hole-m87-machine-learning"
-    type: article
-    provider:
-      name: Science News
-      domain: sciencenews.org
     quality: 34
 
 secured: "8zd6fUzR0xRa+GAM7p5z8KVMjdwkHO6KZX7Z0twuQdkPe0QhaDdW5ItEaFDlLlfi6FXDjnOXzyYAP4PMqW5IKUezaAWvWIAUPM6BTDQQCZFQhklIqVh9O/n+Zm8ZuOKp7hZYHr34lyQbxY6YpPXnk08pC3yTqzE45XyrAL06GSN+KWhJn3nwFkrhjTlVuEwk0QxF30d9zt4ClBdLVzEzTIJ9x8/ben9OR4aQHxS5JoQFz6oukPts24zOMEZso08xcTVrU+s1fDQa8XVQyQzEB72RAOC+RFgdkSI+xYXCBrL31O3vDKhGS94zCPvAoSoGqzmbL8bAfsE1NUx0UDmiXUOzP7Z8472LlZeoJM0JG+pHaUBE4H1MZ8LPK2YtgDIx0zXPF5y3pZUTqgdh2nIY8ro7w2sV3MkN36AvoiRqJRXJEU3hcfO44VolYgdYSMEmJHU1JMCiHiGVaP6w74QwLdWtispj6YOcCQ/wZS0fdlWEQntkGonJFSSjlTVrmgWQDU7E2XkFHxi+WQSCVVY0eg==;FvSEZfoh5wgHMPLoBF5QUg=="

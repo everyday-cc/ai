@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Should Robots With Artificial Intelligence Have Moral or Legal Rights?"
-excerpt: "As artificial intelligence continues to advance, researchers, scholars and ethicists consider whether robots deserve to be treated more like people"
-publishedDateTime: 2023-04-10T15:00:00Z
-originalUrl: "https://www.wsj.com/articles/robots-ai-legal-rights-3c47ef40"
-webUrl: "https://www.wsj.com/articles/robots-ai-legal-rights-3c47ef40"
+excerpt: "Artificial intelligence is writing essays ... bolstering longstanding worries that robots might someday overtake us."
+publishedDateTime: 2023-04-10T16:18:00Z
+originalUrl: "https://www.wsj.com/articles/robots-ai-legal-rights-3c47ef40?mod=tech_lead_pos11"
+webUrl: "https://www.wsj.com/articles/robots-ai-legal-rights-3c47ef40?mod=tech_lead_pos11"
 type: article
-quality: 66
-heat: 66
-published: false
 
 provider:
   name: Wall Street Journal
@@ -21,8 +18,13 @@ provider:
 topics:
   - AI in Robotics
   - AI
-  - AI in Autos
 
-secured: "r8pupYxTy4mCgnf88ZmoHIrOckYtMv3HQn6pD/TaqUFkPEwODKBjaCsnFXhhI2tVdslfe+rhlQxG/p8Vg1XEUVXlnG9FbeaND+XPPIS0lHJl6a/Pc2iNcfdhyKeVseEQm7mZ3dDA7e26IO3jsSrHYTrWeBfgRnCAAlg9lNDUuNCB5GMwyfBEeTOlNSwN/fAtJ3c/+GeoRRueCJ+sJ0pWyPKptxc18w9DbiVUG3al1i0ZXFGTMgEUFoQWZvSErB5hWFLmoxjxeym47xoC7EBaceXiWidz4O8eqD46WTbnRIfxTu12eGj/aMGRM9LGbUkD6iTvD7wxW2w1Vj7ebATA0YpjLvchYBkag8e8aSjl/9mEGdwlmV8u2KBOUQoKsnwmIRvr5IMHHNvVuFsakm7Mv5/JOvC4QYmN+nzrB1rjqRZb6DAN5fsyefT1A+zjMVCzOFvt6km45JFZBCkpXFyMQNYiFtW1pTLDHLOnpgGFjv+0OsxMcYWdycYsaS8AA0fQ9APKeNfCp98H7nHU44+4HA==;JKA0js9UegqcdcefK1Vxkg=="
+images:
+  - url: "https://images.wsj.net/im-756352/social"
+    width: 1280
+    height: 640
+    isCached: true
+
+secured: "p7CBnVSGyWVsMC7issHIALathoSsPuqreBj1K5MAJDnUg0bsRdkStYIQbCCXeqVPpa0Nn6/SLGc3InzYKEp+6NgGsZh/p19/f4GrQOApZHPlwjgXNq0i5zwBr8gRkrIS12gb07PXm3CbGoHP37rLDd2tjQwsNVxvQmXgc1uA3XtpkdG3msRkPVEYGu0xXU+Yor796ip57j49F61Kg3skGCvnRRRIE6SxAOoFakWyI2qeKbjBEOIgoNNODyZwkrUomiwltzqdwwZ1BVIX1sRvyVYBtzJUpmMdhh2/zA6rWijCOYdcHE3SkLqlT4ikoqW2CrKJ1g2ed+FBocECGks5JAf0Ww7QOu+Sj1DVUcfjbUw=;gzJHMYinHBDqCwTZA7aanw=="
 ---
 

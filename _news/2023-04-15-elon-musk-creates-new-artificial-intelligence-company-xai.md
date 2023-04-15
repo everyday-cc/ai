@@ -3,8 +3,8 @@ category: news
 title: "Elon Musk Creates New Artificial Intelligence Company X.AI"
 excerpt: "The name of the new Nevada-incorporated organization suggests a link to the billionaire’s interest in an everything app."
 publishedDateTime: 2023-04-14T20:35:00Z
-originalUrl: "https://www.wsj.com/articles/elon-musks-new-artificial-intelligence-business-x-ai-incorporates-in-nevada-962c7c2f?mod=tech_lead_pos2"
-webUrl: "https://www.wsj.com/articles/elon-musks-new-artificial-intelligence-business-x-ai-incorporates-in-nevada-962c7c2f?mod=tech_lead_pos2"
+originalUrl: "https://www.wsj.com/articles/elon-musks-new-artificial-intelligence-business-x-ai-incorporates-in-nevada-962c7c2f"
+webUrl: "https://www.wsj.com/articles/elon-musks-new-artificial-intelligence-business-x-ai-incorporates-in-nevada-962c7c2f"
 type: article
 quality: 82
 heat: -1
@@ -194,7 +194,7 @@ related:
   - title: "Elon Musk vs OpenAI: Twitter boss creates new AI company weeks after open letter to halt AI developments"
     excerpt: "A few weeks after he signed a letter seeking a pause on big AI experiments, Elon Musk seems to be floating his own AI firm to rival OpenAI."
     publishedDateTime: 2023-04-15T05:50:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/elon-musk-vs-openai-sam-altman-gpt4-8557417/lite/"
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/elon-musk-vs-openai-sam-altman-gpt4-8557417/"
     ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/elon-musk-vs-openai-sam-altman-gpt4-8557417/lite/"
     cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/elon-musk-vs-openai-sam-altman-gpt4-8557417/lite/"
     type: article
@@ -347,6 +347,6 @@ related:
       domain: marketwatch.com
     quality: 11
 
-secured: "LI3CNKZSmBvR2tykdVKK8mPOeNnOeZn4Scbef5Pu+LjThvfBvlqyI9HgqAngjLdfZEPwrXobNhK7ZNg3bjzJtBoiiAuvyBj9xX5AdZlNW1vwOjK+YCEKWt6G1bZv5pd28M9LU6R/y8EjUhE7LOQQWRnASgd+2Sa7uj2eGfqqhATd0b1lZJEhgFIG1stDAMNyLa6gpn3URh8YE9jVnZaLLXoNsokPSJ3FUQQslIGAqmBKxGyaUG8ny7DGfIVjBebW6h+dkvgBDgVQkZTiU5rem55B1N+VVw2AAMGSeibQ6Nu7K+UgoJq5PxbJt6sPPOAemCTTdkTgUMJMjeE8FdOJaQsesz0YM/EPgDuNcUleKUFCGvaD3+0Z5W0y0nhOPhdSrIKaXIfeleZuS0QIZo0xUdN4opSBP9lEUHqbSeoXKx0+EiQSWrX7kKoVLIrl+u85BLLGNM4jYkHymsOJ4iDzHrUQXEniLtlLRK0mYyf8J1bPlLNv01NlWLBGdwK4h5PV55/gXiGbqZ8/DJoQbF2ETA==;l/FEoo9j9gV3fwtJfBFQ8w=="
+secured: "xDn97gG+7mCTie0T8d9EShw4jM01/7onpGOGCa54SbCy9rgP4U41UPDNCl/5m/wdzw0oo7L7nLLEzWmBkhhjHU1i+H9FFujnRVNAQWOfAaHEVQTsSWCr3z0Y/0CcDS7xVfRjsqmQvN3Vem+vQMC6DBeBDkKvjLCf4nZaS6GvzQ7+PBjSwOKn17DZfS2jNnTNObTutTmex/acCql9/FCHSHkI2TcQBBVSz90iyk0XJFbc4+5rMuoG/xNTTIgk4kx7Lbv4KvjJJvMIgy14hCkSP6eq+UHCpyWYv7KcqZd2TaKiZANy2puSywMDI8M0aOof/HlYDlbeAab3kRo9tEnHuoyBL7BLYXff+iHX46qkzWk=;ST1hWoa0P5RYkX4r5Mnhvw=="
 ---
 
