@@ -220,15 +220,6 @@ related:
         width: 1536
         height: 948
         isCached: true
-  - title: "Could AI Language Models Like ChatGPT Unlock Mysterious Ancient Texts?"
-    excerpt: "Ancient writings like the Indus script and Voynich Manuscript have baffled scholars for decades. Some researchers think AI systems could help reveal their secrets."
-    publishedDateTime: 2023-04-11T16:46:00Z
-    webUrl: "https://www.discovermagazine.com/technology/could-ai-language-models-like-chatgpt-unlock-mysterious-ancient-texts"
-    type: article
-    provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
-    quality: 19
   - title: "How To Buy ChatGPT Stock: Your 2023 Guide to AI Investing"
     excerpt: "Generative AI technology is complicated enough to understand without even bringing in the notion of how to invest in artificial intelligence. Luckily, you don't have to be an expert in"
     publishedDateTime: 2023-04-13T21:20:00Z

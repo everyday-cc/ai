@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "3 AI Stocks That Could Trounce Google and Microsoft"
+    excerpt: "In AI Superpowers, Lee maintains that Chinese companies could hold key advantages in AI development. If he's right, here are three AI stocks that could trounce Alphabet and Microsoft."
+    publishedDateTime: 2023-04-16T09:54:00Z
+    webUrl: "https://www.fool.com/investing/2023/04/16/3-ai-stocks-that-could-trounce-google-and-microsof/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 86
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/727520/ai-artificial-intelligence-in-circle-on-keyboard.jpg"
+        width: 2359
+        height: 1270
+        isCached: true
   - title: "Amazon Joins Microsoft, Google in AI Race Spurred by ChatGPT"
     excerpt: "Amazon Web Services is the latest tech company to lay out its generative AI strategy."
     publishedDateTime: 2023-04-13T11:30:00Z

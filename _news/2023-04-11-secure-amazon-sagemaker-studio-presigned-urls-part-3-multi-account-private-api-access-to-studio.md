@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/secure-amazon-sagema
 webUrl: "https://aws.amazon.com/blogs/machine-learning/secure-amazon-sagemaker-studio-presigned-urls-part-3-multi-account-private-api-access-to-studio/"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
   - AWS AI
-
-related:
-  - title: "Create your RStudio on Amazon SageMaker licensed or trial environment in three easy steps"
-    excerpt: "RStudio on Amazon SageMaker is the first fully managed cloud-based Posit Workbench (formerly known as RStudio Workbench). RStudio on Amazon SageMaker removes the need for you to manage the underlying Posit Workbench infrastructure, so your teams can concentrate on producing value for your business. You"
-    publishedDateTime: 2023-04-11T15:39:53Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-your-rstudio-on-amazon-sagemaker-licensed-or-trial-environment-in-three-easy-steps/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 60
 
 secured: "eG2v6st/GQfKI3uIY1h9B8LdSyyJ2VX2ueaCRbWzy6+zAQu+HFfMQt5AQFcnBhKeUch3/3k+qp9IinUkKjMWwO2zKm96Rt9dlQVHjHSQBeOeqamoYaB6e78hOFaaloDsLIFxYSpVO1X4MxZqZ/PdvRsmUeJl29DdfrKDfzGdASV/mph9m07FNcdbO/p9UswOYLt9wU1bFhL9RUyDLPH13IW107QSs1vOTfa7/62jzuf3uyNorvN0GD51jYROJW2wwRixyEDb/KOpUDLhEkAni9FNKq5wQipADtB2oTLICoXMkZk0X5fixvGzguStPihvT8judYyok4hoH1SN+38z9W0mxDb2Vf7ETeZPt32669U=;qJgLpo7YG5aMrH0PdizYMw=="
 ---

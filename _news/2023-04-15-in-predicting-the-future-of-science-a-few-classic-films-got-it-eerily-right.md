@@ -44,9 +44,9 @@ related:
   - title: "These films predicted the future of science. How right were they?"
     excerpt: "\"As audiences, we love both optimistic and pessimistic science-fiction films.\" Lisa Yaszek, professor at Georgia Tech."
     publishedDateTime: 2023-04-14T17:13:00Z
-    webUrl: "https://www.cbsnews.com/atlanta/news/these-films-predicted-the-future-of-science-how-right-were-they/"
-    ampWebUrl: "https://www.cbsnews.com/amp/atlanta/news/these-films-predicted-the-future-of-science-how-right-were-they/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/atlanta/news/these-films-predicted-the-future-of-science-how-right-were-they/"
+    webUrl: "https://www.cbsnews.com/tampa/news/these-films-predicted-the-future-of-science-how-right-were-they/"
+    ampWebUrl: "https://www.cbsnews.com/amp/tampa/news/these-films-predicted-the-future-of-science-how-right-were-they/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/tampa/news/these-films-predicted-the-future-of-science-how-right-were-they/"
     type: article
     provider:
       name: CBS News
@@ -60,13 +60,13 @@ related:
   - title: "A few classic films made predictions about the science of the future. A few got it eerily right"
     excerpt: "Here's what some notable films get right about science and tech — and what's still the stuff of science fiction."
     publishedDateTime: 2023-04-15T01:05:00Z
-    webUrl: "https://www.wlwt.com/article/films-predictions-science-future/43605947"
-    ampWebUrl: "https://www.wlwt.com/amp/article/films-predictions-science-future/43605947"
-    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/films-predictions-science-future/43605947"
+    webUrl: "https://www.kcra.com/article/films-predictions-science-future/43605947"
+    ampWebUrl: "https://www.kcra.com/amp/article/films-predictions-science-future/43605947"
+    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/films-predictions-science-future/43605947"
     type: article
     provider:
-      name: WLWT
-      domain: wlwt.com
+      name: kcra.com
+      domain: kcra.com
     quality: 32
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-304c049b19523c5d188b817b7050d8f1-h-5d7249b870670b58b4a20842e2846e69-preview-1681515605861422540.JPG?crop=0.99555555555555553xw:1xh;center,top&resize=1200:*"

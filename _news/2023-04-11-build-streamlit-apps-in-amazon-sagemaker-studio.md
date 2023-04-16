@@ -32,15 +32,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 79
-  - title: "Run secure processing jobs using PySpark in Amazon SageMaker Pipelines"
-    excerpt: "Amazon SageMaker Studio can help you build, train, debug, deploy, and monitor your models and manage your machine learning (ML) workflows. Amazon SageMaker Pipelines enables you to build a secure, scalable, and flexible MLOps platform within Studio. In this post, we explain how to run PySpark processing"
-    publishedDateTime: 2023-04-11T16:47:08Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-secure-processing-jobs-using-pyspark-in-amazon-sagemaker-pipelines/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 69
 
 secured: "PmdD1MSXPUtlLN3kKgHo5Ne+RShsaf5u2o/4N94tWOmkADFwaa9wC06xwrjGOwbRneWk0a1tr9BuXFNqKRtshLeALYVDDOSpxHy8TYW4TdaHxYvcgIG0NLi6aCNGwm1q/qLzdjmqQwZ98SVE0j/z4IqrL0lK9y8mbhPrFb6ReixSRm3MNedt3KNFmk7Tv91tcw1BUyaH4GyMIWjTNabdo93IJ7b06CXjnO7HGvVPW1t9bgplDHy9nF5RDSG6HByZ06TOYVjyKlykXaJ+VWPI2husJCmb9AutDa4hzk/kBgUHJ34u3u0rSdnedZ9UQH3jsHOb61eZRrjsvlg6iX1NqM6cfxBA1nMVu3tftqsuPL0=;BSYnI4bs7SjyV0JyFy0sDQ=="
 ---

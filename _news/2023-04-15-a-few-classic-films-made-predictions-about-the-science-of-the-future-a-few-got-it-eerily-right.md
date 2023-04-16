@@ -3,18 +3,18 @@ category: news
 title: "A few classic films made predictions about the science of the future. A few got it eerily right"
 excerpt: "Here's what some notable films get right about science and tech — and what's still the stuff of science fiction."
 publishedDateTime: 2023-04-15T01:05:00Z
-originalUrl: "https://www.wlwt.com/article/films-predictions-science-future/43605947"
-webUrl: "https://www.wlwt.com/article/films-predictions-science-future/43605947"
-ampWebUrl: "https://www.wlwt.com/amp/article/films-predictions-science-future/43605947"
-cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/films-predictions-science-future/43605947"
+originalUrl: "https://www.kcra.com/article/films-predictions-science-future/43605947"
+webUrl: "https://www.kcra.com/article/films-predictions-science-future/43605947"
+ampWebUrl: "https://www.kcra.com/amp/article/films-predictions-science-future/43605947"
+cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/films-predictions-science-future/43605947"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: WLWT
-  domain: wlwt.com
+  name: kcra.com
+  domain: kcra.com
 
 topics:
   - AI in Healthcare
@@ -46,9 +46,9 @@ related:
   - title: "These films predicted the future of science. How right were they?"
     excerpt: "\"As audiences, we love both optimistic and pessimistic science-fiction films.\" Lisa Yaszek, professor at Georgia Tech."
     publishedDateTime: 2023-04-14T17:13:00Z
-    webUrl: "https://www.cbsnews.com/atlanta/news/these-films-predicted-the-future-of-science-how-right-were-they/"
-    ampWebUrl: "https://www.cbsnews.com/amp/atlanta/news/these-films-predicted-the-future-of-science-how-right-were-they/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/atlanta/news/these-films-predicted-the-future-of-science-how-right-were-they/"
+    webUrl: "https://www.cbsnews.com/tampa/news/these-films-predicted-the-future-of-science-how-right-were-they/"
+    ampWebUrl: "https://www.cbsnews.com/amp/tampa/news/these-films-predicted-the-future-of-science-how-right-were-they/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/tampa/news/these-films-predicted-the-future-of-science-how-right-were-they/"
     type: article
     provider:
       name: CBS News
@@ -88,6 +88,6 @@ related:
         height: 280
         isCached: true
 
-secured: "4BukOCSpd+r0s9RpM4twgQa3QTyHUOsHJayZMh5zL5LBRF4E7hXwDapgLnUKpQHKxM8P7H/y8K18VXiDsYOvDdE1WMr2WpWNsB0C+I/A7Ren6auLfMx4jDj1g5gh0H63MK0Eb9RMrFdFIwM80auTKTdiI5fX9K01BAqymg2CrGMSDbP52UlYQwiH6OqHzZKjEl8f0XxuOn5ydbBNFCAEpd0A61+Dd1i43jXHoSQUaAiKCcbVs1eyxr3RUoFP8a01rZRwHiSYwG7C+li4DrhFdGA/e198KRZjwFrrX6QZdgMgmYI7YxPZXP/Zpmc0JsVxBU7HKGCzz+Jt8bCXjw99+hP5LJKzAZX1FtA8o6SAEd/VCOF7mT0RSroSY9lKKkicxLetzyvEpWlT4R7jwlYRLM9LGNOH2XM4CsmRZ1y7QyBhnthv6GE3rXVvA5M+IoArw+AMD0yWF+x1uspX+Qv8g39LQzE9AGfrqJLZYZ+T+32TPpuTQXk3HYyeHgFVAPdu82Iq++Q0F9W08uLVNEtjBw==;xSrxL6eSP14ohPCHo9svlA=="
+secured: "SdQ+FXRoNyRnqu7e4hUTqpxGtmV3sUK3tKEbURvl3QTg9miPwSVr11+xFKwLNa67Ersgqc/p6GNXi8MTBeboDNVVVT+FBg02HSMW7APpuPuSopcYB3mILZoh9zR0pj4Q/pepo5AZEkZckLKGeSoXf+5R8grJJLGiXRnBOYnPG9y3uoB1n7PFrcY6oLQvRrT4+1sPty0jKIiD2XtB+S6wSIs2gg1CfZa/KEp2kIal7dvXURKeaUE64ZiX7WiD18Fu7cNaj18y6GNfK3zcb1EAv4BY6Qn0udc1gAbYdbFsNAVIwo90xb2qUCG99TwtCODFLaBHI3LV1yCcRgwdxGT/F91cHoelUVRrL10UMv4JWnQ=;NRKTuSCG0MYo6jaeNJrFnQ=="
 ---
 

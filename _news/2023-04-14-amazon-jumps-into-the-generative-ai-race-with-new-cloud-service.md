@@ -8,7 +8,7 @@ webUrl: "https://www.nbcnews.com/tech/tech-news/amazon-jumps-generative-race-new
 ampWebUrl: "https://www.nbcnews.com/news/amp/rcna79599"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna79599"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211215-las-vegas-the-venetian-expo-aws-ac-1159p-b07aeb.jpg"

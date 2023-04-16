@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/microsoft-brings-bings-ai-chatbot-to-it
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-brings-bings-ai-chatbot-to-its-ios-and-android-swiftkey-apps-113528183.html"
 type: article
 quality: 106
-heat: 236
+heat: 246
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/7ff3a4d2ebdfad56937e237d8efbacacd60826cd/2023/04/14/e36e4553-0100-4b6d-9f88-df4fdeb96848/gettyimages-1243579557.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "3 AI Stocks That Could Trounce Google and Microsoft"
+    excerpt: "In AI Superpowers, Lee maintains that Chinese companies could hold key advantages in AI development. If he's right, here are three AI stocks that could trounce Alphabet and Microsoft."
+    publishedDateTime: 2023-04-16T09:54:00Z
+    webUrl: "https://www.fool.com/investing/2023/04/16/3-ai-stocks-that-could-trounce-google-and-microsof/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 86
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/727520/ai-artificial-intelligence-in-circle-on-keyboard.jpg"
+        width: 2359
+        height: 1270
         isCached: true
   - title: "Amazon Joins Microsoft, Google in AI Race Spurred by ChatGPT"
     excerpt: "Amazon Web Services is the latest tech company to lay out its generative AI strategy."

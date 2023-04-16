@@ -1,31 +1,32 @@
 ---
 category: news
-title: "Amazon Joins Microsoft, Google in AI Race Spurred by ChatGPT"
-excerpt: "Amazon Web Services is the latest tech company to lay out its generative AI strategy."
-publishedDateTime: 2023-04-13T11:30:00Z
-originalUrl: "https://www.wsj.com/articles/amazon-joins-microsoft-google-in-ai-race-spurred-by-chatgpt-d7c34738"
-webUrl: "https://www.wsj.com/articles/amazon-joins-microsoft-google-in-ai-race-spurred-by-chatgpt-d7c34738"
+title: "3 AI Stocks That Could Trounce Google and Microsoft"
+excerpt: "In AI Superpowers, Lee maintains that Chinese companies could hold key advantages in AI development. If he's right, here are three AI stocks that could trounce Alphabet and Microsoft."
+publishedDateTime: 2023-04-16T09:54:00Z
+originalUrl: "https://www.fool.com/investing/2023/04/16/3-ai-stocks-that-could-trounce-google-and-microsof/"
+webUrl: "https://www.fool.com/investing/2023/04/16/3-ai-stocks-that-could-trounce-google-and-microsof/"
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
+  name: The Motley Fool
+  domain: fool.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
+  - AI Hardware
   - AI
   - Microsoft AI
 
 images:
-  - url: "https://images.wsj.net/im-762625/social"
-    width: 1280
-    height: 640
+  - url: "https://g.foolcdn.com/editorial/images/727520/ai-artificial-intelligence-in-circle-on-keyboard.jpg"
+    width: 2359
+    height: 1270
     isCached: true
 
 related:
@@ -61,19 +62,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "3 AI Stocks That Could Trounce Google and Microsoft"
-    excerpt: "In AI Superpowers, Lee maintains that Chinese companies could hold key advantages in AI development. If he's right, here are three AI stocks that could trounce Alphabet and Microsoft."
-    publishedDateTime: 2023-04-16T09:54:00Z
-    webUrl: "https://www.fool.com/investing/2023/04/16/3-ai-stocks-that-could-trounce-google-and-microsof/"
+  - title: "Amazon Joins Microsoft, Google in AI Race Spurred by ChatGPT"
+    excerpt: "Amazon Web Services is the latest tech company to lay out its generative AI strategy."
+    publishedDateTime: 2023-04-13T11:30:00Z
+    webUrl: "https://www.wsj.com/articles/amazon-joins-microsoft-google-in-ai-race-spurred-by-chatgpt-d7c34738"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 86
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
     images:
-      - url: "https://g.foolcdn.com/editorial/images/727520/ai-artificial-intelligence-in-circle-on-keyboard.jpg"
-        width: 2359
-        height: 1270
+      - url: "https://images.wsj.net/im-762625/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Cohesity Partners With Microsoft And Announces Vision For AI"
     excerpt: "Ranked Industry Analyst Patrick Moorhead dives in as my latest discussion with Poonen focused on an expanded relationship with Microsoft. A significant part of Poonen's focus and vision for Cohesity since he took over as CEO has been to advance innovation in security,"
@@ -187,6 +188,6 @@ related:
       domain: macrumors.com
     quality: 17
 
-secured: "IEwW4bCifJ/LXznod6fjM//SKSxYadxmhiC0DglaSkbKzJJSdh+lAlHtQ5//sXdXMrakRrbaDdqYaFPQkfLdKqO/zwENTHnItmBjhQ45Q97YpMT5QJB5ZpGjKAHcvl7kIy6IQu7kJR5TdBIPsqpbOI86SPHlDSDM665qRDEmuRyelrySPhteZgBd5izWMqzlkghKPr9cHj3TILW4uH7xPuBXTY5+bYKV0wVb5k/FSgVTevWbhv0H8tlelIOa4BoS/ofYaYb3Tjf5KD1xwZaioZ5SKJ0XuQ262z+yU8ivwBpfuE443ROwbhq8Iq+T0FMPeO59kES7bFwitnX3yqs2DGZEx2o+xf9c8AbEoYsF0haDDiaBnItQ84DgpsLDU9D8XcF/CxDbtMjyOCj8VeMXON0BZdsXW8rms+8RDnWqH1h2kKLLkxvs2SvSDOi+7COUORLBbCWdky3jONRCDBw4/mFU0uWWpyLmcka2vntOIcOjADqMr9UzwVtf1zIgrgaYLAVveBkc9DnLiG4A4m593g==;4BG7LNB4Es5LkO7EkeGqsg=="
+secured: "6FUlQBKkHSk8qEvkRUlxeu5nuUESbyM0/paqosJDlvX7kPF05AuRk+f2hebvZXSaAgbLv+1OsEg72XL6RV8R91vK/09PydGvMQY2Tbl6t3Y84hqJ27jWhTW4vKLq90K12LlTtaez2X8kY/TUmc+qc+OOQmUjhE+xU1ifjASEH8stgiB0yT4ZJZSIJhJC67friDbl4VE8lbAaBvDJLhiYS5N1XpkzYP2IDaeHlioVkLBQI+Fqg2B/fILsejhI4XPBci6GkR/DOlqY4kt4miGS8rbeiK6EryB1nBOSTPPqXyiJSXW+rZY191b2gGuPfruvCAZDdAx0C5PiifQpQwODoLWVNlO8+yxO7/0taR3MLUM=;zi0nJx5mIecoNPidyihpmQ=="
 ---
 
