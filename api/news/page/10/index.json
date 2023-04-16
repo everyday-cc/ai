@@ -2,6 +2,83 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-04-04-using-artificial-intelligence-to-accelerate-and-improve-the-construction-life-cycle.md",
+      "title": "Using Artificial Intelligence To Accelerate And Improve The Construction Life Cycle",
+      "excerpt": "From predictive designs and robotic scans to maintenance alerts, AI has the power to automate tasks that are mundane, repetitive or dangerous while also providing us with the power to predict what’s coming next or understand what needs to be repaired now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/04/using-artificial-intelligence-to-accelerate-and-improve-the-construction-life-cycle/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/04/using-artificial-intelligence-to-accelerate-and-improve-the-construction-life-cycle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-04-adlink-pocket-ai-portable-plug-and-play-gpu-accelerator.md",
+      "title": "ADLINK Pocket AI portable, plug and play GPU accelerator",
+      "excerpt": "ADLINK has this week introduced a new piece of hardware to its range which will be available to preorder later this month and takes the form of the Pocket AI, “the first ever ultra-portable GPU ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/gpu-accelerator-04-04-2023/",
+      "originalUrl": "https://www.geeky-gadgets.com/gpu-accelerator-04-04-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T03:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-04-artificial-neural-networks-market-2023-size-and-forecast-to-2031.md",
       "title": "Artificial Neural Networks Market 2023 Size and Forecast to 2031",
       "excerpt": "Apr 03, 2023 (The Expresswire) -- Artificial Neural Networks Marketinformation for each competitor includes (Alyuda, Ward Systems, IBM, Qualcomm, Oracle, Neurala, Neuralware, Clarifai, Intel ...",
@@ -852,83 +929,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-ibm-uses-ai-to-generate-commentary-for-golfs-masters.md",
-      "title": "IBM uses AI to generate commentary for golf’s Masters",
-      "excerpt": "worked with the Masters digital team to leverage multiple foundation models — including IBM Watson Text-to-Speech – to train the AI in the language of golf at the Masters, automating the process of adding spoken commentary to video clips, said IBM.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/audio/ibm-uses-ai-to-generate-commentary-for-golfs-masters",
-      "originalUrl": "https://www.tvbeurope.com/audio/ibm-uses-ai-to-generate-commentary-for-golfs-masters",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-03T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-artificial-intelligence-in-the-transportation-market-scenario-gross-margin-regional-demand-and-forecast-to-2031.md",
-      "title": "Artificial Intelligence in the Transportation Market Scenario, Gross Margin, Regional Demand and Forecast to 2031",
-      "excerpt": "The global artificial intelligence in the transportation market size was US$ 1.45 billion in 2020. The global artificial intelligence in the transportation market is forecast to reach the value of US$ 17.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-transportation-market-scenario-gross-margin-regional-demand-and-forecast-to-2031-2023-04-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-transportation-market-scenario-gross-margin-regional-demand-and-forecast-to-2031-2023-04-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-03T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

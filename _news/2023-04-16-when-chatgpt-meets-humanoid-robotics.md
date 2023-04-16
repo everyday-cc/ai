@@ -3,10 +3,12 @@ category: news
 title: "When ChatGPT meets humanoid robotics"
 excerpt: "AI and the development of humanoid robots are two cutting-edge sectors where the projects underway are pushing new boundaries."
 publishedDateTime: 2023-04-15T23:01:00Z
-originalUrl: "https://www.astroawani.com/berita-english/when-chatgpt-meets-humanoid-robotics-415514"
-webUrl: "https://www.astroawani.com/berita-english/when-chatgpt-meets-humanoid-robotics-415514"
+originalUrl: "https://www.astroawani.com/berita-teknologi/when-chatgpt-meets-humanoid-robotics-415514"
+webUrl: "https://www.astroawani.com/berita-teknologi/when-chatgpt-meets-humanoid-robotics-415514"
+ampWebUrl: "https://www.astroawani.com/berita-teknologi/when-chatgpt-meets-humanoid-robotics-415514?amp=1"
+cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-teknologi/when-chatgpt-meets-humanoid-robotics-415514?amp=1"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://img.astroawani.com/2023-04/81681468280_TBNEO.jpg"
+    width: 590
+    height: 400
+    isCached: true
 
 related:
   - title: "Mind your language: The risks of using AI-powered chatbots like ChatGPT in an organization"
@@ -255,6 +263,6 @@ related:
         height: 675
         isCached: true
 
-secured: "5a22FGIUVGfXKYwdiq/774X20QOf37CYRzAYYEUMFChukOZo8f3MOtZDWKccuE2+cC9gZtMxGve43LrIuOPAZYrgaXHcO0pGXSOw8eng8jOBEGbduAd7CkKv0MNHIx4WBMmUgW9YXrcO16E4+hethITLgNX36uptAL1wTqBf0JmyLL+nFg5vCroTuda1vaoPExvx6LOnGRR17hhKNh4+tUQTgVVSDQBu+aUsLcGSxZ/gV0zixrUAJjMKmE7tlq5l3me6vowy+bj6uIISST/3VqhH5HH8W3X5Dak5BbqwS5j0oAB9BhGqe8GJbfLSZDkTvTIycOpxOCJLibU+y9evUqBibgtIVBXOs+tcTThAvmCpcBxbszNuElagpCKLrImp2F173vOLU93IDGHtBNXLXiuV8xU35/IOS8sxqC09vfQHf1UAY5b3noM49M40bgq9QqkXwNzhO4eotKzbaUrPOzbHE2wFHXXPRVhlDSS4oZDXwy9WyYeKRcHpihHT4o0rdYktZrE3G7zo6XEeXRLrOA==;eIRUORL/tZga7eXKfIloUw=="
+secured: "k9F0gCqDf+S1fg9ykQLL7KepHv3+o+CVgEXdmvFk7uKSS467wSVwJ3IU4PVFjIkAU4WbhMAchND0riKg/kAvTM7LfIS5vargoa47owCi7CD4ALhR4wc2EaBEgE9DMv4hjz5EZLb/Nav3nea3/JqxUEZzpwFtPHdRGC6f5xKnWhXpC24dzAOkIr5HAPccPWrc+vJsjj/DJPZxbsG6zJHpKyNEjMXM2RX70ukk0pcYG3SNnf0HJwtWAmMX30Cl37Uya1Fjgz0dkdDzX5Lvg0sMwXY552ymC0yxlO9Z2MILQ7z2VCkX70YnpOnYIpK6VZ6B2oWlsYKe9rxR04GleCdHpx+/BlfEGinwTaTldrnDYhc=;vTgnNItJ2+0K0Q21xKsfKQ=="
 ---
 

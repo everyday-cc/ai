@@ -7,7 +7,7 @@ originalUrl: "https://www.natlawreview.com/article/nyc-introduces-bills-to-limit
 webUrl: "https://www.natlawreview.com/article/nyc-introduces-bills-to-limit-facial-recognition-private-sector"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,33 +25,63 @@ images:
     isCached: true
 
 related:
-  - title: "NYC Lawmakers Seek to Ban Businesses From Facial Recognition Use"
-    excerpt: "Businesses in New York City including stadiums would be unable to use facial recognition or other surveillance technology to identify customers without their consent, under a draft bill shared exclusively with Bloomberg Law."
-    publishedDateTime: 2023-04-12T20:22:00Z
-    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/nyc-lawmakers-seek-to-ban-businesses-from-facial-recognition-use-1"
+  - title: "Financial institutions directed to adopt facial recognition feature"
+    excerpt: "According to the central bank, the measures require commercial banks and microfinance banks (MFBs) to implement a combination of at least two controls, such as facial recognition, in-app live original identity document verification, in-app live picture verification, and call-back verification."
+    publishedDateTime: 2023-04-16T05:02:00Z
+    webUrl: "https://tribune.com.pk/story/2412181/financial-institutions-directed-to-adopt-facial-recognition-feature"
+    ampWebUrl: "https://tribune.com.pk/story/2412181/financial-institutions-directed-to-adopt-facial-recognition-feature?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2412181/financial-institutions-directed-to-adopt-facial-recognition-feature?amp=1"
     type: article
     provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 59
+    images:
+      - url: "https://i.tribune.com.pk/media/images/biz1681621227-0/biz1681621227-0.jpg"
+        width: 1588
+        height: 1664
+        isCached: true
+  - title: "You’re Already Using AI: Here’s Where It’s At In Everyday Life, From Facial Recognition To Navigation Apps"
+    excerpt: "Though AI has recently made noise for powering high-tech search engines and chatbots, the technology is already ingrained in society, from streaming service algorithms and facial recognition, to voice assistants and navigation systems. The Google Maps logo ..."
+    publishedDateTime: 2023-04-14T19:03:00Z
+    webUrl: "https://www.forbes.com/sites/ariannajohnson/2023/04/14/youre-already-using-ai-heres-where-its-at-in-everyday-life-from-facial-recognition-to-navigation-apps/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 48
+  - title: "Facial Recognition Market Size 2023: Big Expansion Strategies, Revenue Generations, and Top Key Players Forecast to 2031"
+    excerpt: "Global Facial Recognition Market is valued approximately USD $ billion in 2019 and is anticipated to grow with"
+    publishedDateTime: 2023-04-14T09:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-2023-big-expansion-strategies-revenue-generations-and-top-key-players-forecast-to-2031-2023-04-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Irish opposition warns against rushed legislation for police use of facial recognition"
+    excerpt: "The government is seeking to add the amendments to allow the use of facial recognition technology to a law currently in parliament."
+    publishedDateTime: 2023-04-13T22:24:00Z
+    webUrl: "https://www.biometricupdate.com/202304/irish-opposition-warns-against-rushed-legislation-for-police-use-of-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 26
+  - title: "BMW Motorrad to Debut Facial Recognition"
+    excerpt: "In keeping with the Bavarians’ drive to remain top of the heap for bike tech comes a press release debuting BMW’s latest system for their motorcycles: iFace, or facial recognition software. Using 3D scan and infrared scanning technology, iFace ..."
+    publishedDateTime: 2023-04-13T19:53:00Z
+    webUrl: "https://www.webbikeworld.com/bmw-motorrad-to-debut-facial-recognition/"
+    type: article
+    provider:
+      name: webBikeWorld
+      domain: webbikeworld.com
     quality: 19
-  - title: "NYC city council introduces bills to ban businesses from using face recognition"
-    excerpt: "The pair of bills would ban businesses and buildings from using the technology to identify customers, or tenants, without their consent."
-    publishedDateTime: 2023-04-13T11:46:00Z
-    webUrl: "https://www.fox5ny.com/news/face-recognition-businesses-city-council-bills"
-    type: article
-    provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 17
-  - title: "NYC lawmakers introduce bill to ban businesses from using facial recognition tech"
-    excerpt: "Both bills are scheduled to be introduced at the City Council meeting on April 27 following a Committee on Technology meeting two days earlier."
-    publishedDateTime: 2023-04-13T03:46:00Z
-    webUrl: "https://nypost.com/2023/04/12/nyc-lawmakers-introduce-bill-to-ban-businesses-from-using-facial-recognition-tech/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 16
 
 secured: "FKsZilKoxNcIFaXsnXmLcEcBMH+Ne+F7R48J8ok4Qx1QDoAN37CqE0gAoBsoKf4FATZqRtt9xM8jie2nkPaoMJxsJTTxHOIx+QSss61W5IxgPrjdbZ/oRUmx+pnzBuuFg7kK9ROgN1Cy3SpmFbXODcFm4DHQts8o+QHCzjZn6Z75+C6KmBZpAHvG47qYnA8d8eN5+/kf/5/CLHwZYaDa4dX/Is1PXX3aV/Wit5V+irvQQeAPUXRk79YlWwecS5rUidbTn4577wlzPVHFDckfcP7JZ2ZCXZ924OwEyY4gYef3TaX0/VFITUG3dJsCU5zN25KRXPRqADA4HriLs4N74qB6KqtUZrsG4+D5ntExOMc=;Li+G1F1N+0NHdmnHYqKHEg=="
 ---

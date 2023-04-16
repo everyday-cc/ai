@@ -42,6 +42,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "When ChatGPT meets humanoid robotics"
+    excerpt: "AI and the development of humanoid robots are two cutting-edge sectors where the projects underway are pushing new boundaries."
+    publishedDateTime: 2023-04-15T23:01:00Z
+    webUrl: "https://www.astroawani.com/berita-teknologi/when-chatgpt-meets-humanoid-robotics-415514"
+    ampWebUrl: "https://www.astroawani.com/berita-teknologi/when-chatgpt-meets-humanoid-robotics-415514?amp=1"
+    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-teknologi/when-chatgpt-meets-humanoid-robotics-415514?amp=1"
+    type: article
+    provider:
+      name: Astro Awani
+      domain: astroawani.com
+    quality: 74
+    images:
+      - url: "https://img.astroawani.com/2023-04/81681468280_TBNEO.jpg"
+        width: 590
+        height: 400
+        isCached: true
   - title: "Can AI answer your money questions? We put chatbots to the test"
     excerpt: "Face it, we could all use a little help with our money. So who better to ask for personal finance advice than a couple of the most powerful chatbots on the planet?"
     publishedDateTime: 2023-04-13T12:26:00Z
@@ -169,15 +185,6 @@ related:
       name: Digi Times
       domain: digitimes.com
     quality: 34
-  - title: "When ChatGPT meets humanoid robotics"
-    excerpt: "AI and the development of humanoid robots are two cutting-edge sectors where the projects underway are pushing new boundaries."
-    publishedDateTime: 2023-04-15T23:01:00Z
-    webUrl: "https://www.astroawani.com/berita-english/when-chatgpt-meets-humanoid-robotics-415514"
-    type: article
-    provider:
-      name: Astro Awani
-      domain: astroawani.com
-    quality: 34
   - title: "ChatGPT Called to the Bar"
     excerpt: "Latham & Watkins has created an AI-powered tool called Latham.ai, which uses natural language processing and machine learning to help lawyers draft and review contracts more efficiently. Hogan Lovells has partnered with an AI company called Kira Systems to ..."
     publishedDateTime: 2023-04-14T11:04:00Z
@@ -257,6 +264,6 @@ related:
         height: 675
         isCached: true
 
-secured: "j47y63cfLE1qjVQzDMXp0ViNkoqQI2/kR61AktRflQw8MHnpPlO0jiyPwe+UhHsv0fpsVwTIYqm5mdRg53CnnKQKs9NvAeqQTUUFwE+w56DfIjUB8v1qhNk0hiJmY3L9++DJ5+p22EWI869z/Chb1wPOLEOg1IsvPNM8idU5+g6eCMXLQ/F7cc+CrasG9DsGU9vsV5aJaCkUIh4w73xDvwrMQUf+JWJkXdS+aaohvqjRNWqBkNrsPQaqj7OQPX0HVapyDY3G88dA9pGZ4mxc0i0dHxM1/h02cvHgEyv74L2AMs9vLNgfGngYjdaTuyeGdOaj4ndUOz8kBlnKrS01d0dT6vaBvOCFwdI2+sA7kxw=;mJ1f5QDJp2i8911dBSaQSQ=="
+secured: "7+SqkJm3Gf9dkFDvxZuDAkhpyhoib5dSrgqnbF8X7J/yJj14ydTlN4K9m+sXvfxTn0CSk4TtcCVFFhXBkh9rU6Jx2c/PZTA0L/eaIJ78cX2OBlyjxtizbmDnsET83FeUz5jCP9kM9v+hHhw1iWfJ+mLjl7Ql6SQJ0KKfLmle9JNo5jfEi8NnEAXGQE5NNVzr3mxP9fE1V/316+6fGLnHhzpNzNzEbb6u8T7dZl/oTJQ1gySglQAUQj7AsGFtGAeirGfKcVxplfTbU3+elVHbI9Cc/8drRcgPhQoqKj1HZAit693kH9JeswYpR9WGAMQNEGVbcHH2vsmBjqHtrQvvD70sPzS9eSa8+b8nL1P0yG0l9T9cwFsYGzqYID0UVFw0Co8UDCh3Q8Kc1cncr+Gn1X93YJlU2aX82BPVIX+llhRM5k2RWjOcnM/Qx7kcPd8eQOzqFuMZRXaMII2P9ZsyqQvQttlyJ+XKxDOAInOakx+0/bTEozu29NvdS7lQR256p/K2TX8T9kLIRWxylFFafg==;2CnfeffOY7cgGQTfE/Y1CQ=="
 ---
 

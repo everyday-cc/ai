@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-our-commitment-to-ethics-trust-and-tr
 webUrl: "https://www.ibm.com/blog/how-our-commitment-to-ethics-trust-and-transparency-is-differentiating-ibm/"
 type: article
 quality: 97
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -23,15 +23,6 @@ topics:
   - AI Ethics
 
 related:
-  - title: "IBM’s enduring commitment to environmental leadership"
-    excerpt: "At IBM, we have been working for many years to continually build a more environmentally sustainable future for all. This year is the 33rd consecutive time in which IBM has publicly reported its environmental performance. Since issuing its first environmental policy over 50 years ago, IBM has been committed"
-    publishedDateTime: 2023-04-11T13:04:08Z
-    webUrl: "https://www.ibm.com/blog/ibms-enduring-commitment-to-environmental-leadership/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
   - title: "Video Conferencing Transcribing Market Growing Demand and Trends 2023 to 2030 | Amazon Transcribe, Nuance, Google, IBM WATSON"
     excerpt: "TheVideo Conferencing Transcribing Market Report is a categorized analysis of local and global markets that provides"
     publishedDateTime: 2023-04-14T04:48:00Z

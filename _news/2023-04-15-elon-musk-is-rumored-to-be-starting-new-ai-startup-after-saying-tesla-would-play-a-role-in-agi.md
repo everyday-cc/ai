@@ -152,8 +152,8 @@ related:
         isCached: true
   - title: "Elon Musk Starts New Company, X.AI, Amid Talk of Artificial Intelligence Venture"
     excerpt: "Web domains using the “.ai” suffix are popular with tech businesses pursuing artificial intelligence projects."
-    publishedDateTime: 2023-04-15T23:09:00Z
-    webUrl: "https://www.barrons.com/articles/elon-musk-twitter-x-ai-bec69eab?refsec=markets"
+    publishedDateTime: 2023-04-16T05:47:00Z
+    webUrl: "https://www.barrons.com/articles/elon-musk-twitter-x-ai-bec69eab"
     ampWebUrl: "https://www.barrons.com/amp/articles/elon-musk-twitter-x-ai-bec69eab"
     cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/elon-musk-twitter-x-ai-bec69eab"
     type: article
@@ -229,6 +229,22 @@ related:
       - url: "https://www.hindustantimes.com/ht-img/img/2023/04/15/1600x900/Elon_Musk_1681529929447_1681529929753_1681529929753.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Elon Musk reaffirms AI's potential to destroy civilization"
+    excerpt: "Musk highlighted the destructive potential of AI — just like any other technology — if it goes into the wrong hands or is being developed with ill intentions."
+    publishedDateTime: 2023-04-16T03:21:00Z
+    webUrl: "https://cointelegraph.com/news/elon-musk-reaffirms-ai-s-potential-to-destroy-civilization"
+    ampWebUrl: "https://cointelegraph.com/news/elon-musk-reaffirms-ai-s-potential-to-destroy-civilization/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/elon-musk-reaffirms-ai-s-potential-to-destroy-civilization/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 57
+    images:
+      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDQvZTFlNDdmNTgtNGIzMS00Y2VmLWFjNzItMDlmYmUzNjAxMjRmLmpwZw==.jpg"
+        width: 740
+        height: 493
         isCached: true
   - title: "Elon Musk starts new artificial intelligence organization called X.AI"
     excerpt: "Musk has reportedly started this new AI company to combat OpenAI, one of the leading artificial intelligence firms"

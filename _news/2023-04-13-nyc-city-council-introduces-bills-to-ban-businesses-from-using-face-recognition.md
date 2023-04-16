@@ -20,20 +20,6 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "NYC Introduces Bills to Limit Facial Recognition in Private Sector"
-    excerpt: "New York City Council (“Council”) members are expected to formally introduce two Local Laws on April 27, 2023, during the next Council meeting, seeking to regulate private-sector use of facial recognition (or similar surveillance technology ..."
-    publishedDateTime: 2023-04-14T22:10:00Z
-    webUrl: "https://www.natlawreview.com/article/nyc-introduces-bills-to-limit-facial-recognition-private-sector"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 39
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/29716/privacy%20biometrics%20facial%20face%20recognition_0.jpg?itok=LVAspu6g"
-        width: 500
-        height: 333
-        isCached: true
   - title: "NYC Lawmakers Seek to Ban Businesses From Facial Recognition Use"
     excerpt: "Businesses in New York City including stadiums would be unable to use facial recognition or other surveillance technology to identify customers without their consent, under a draft bill shared exclusively with Bloomberg Law."
     publishedDateTime: 2023-04-12T20:22:00Z

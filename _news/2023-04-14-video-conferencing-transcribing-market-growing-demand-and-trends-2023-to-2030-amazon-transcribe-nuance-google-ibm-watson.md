@@ -40,15 +40,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 97
-  - title: "IBM’s enduring commitment to environmental leadership"
-    excerpt: "At IBM, we have been working for many years to continually build a more environmentally sustainable future for all. This year is the 33rd consecutive time in which IBM has publicly reported its environmental performance. Since issuing its first environmental policy over 50 years ago, IBM has been committed"
-    publishedDateTime: 2023-04-11T13:04:08Z
-    webUrl: "https://www.ibm.com/blog/ibms-enduring-commitment-to-environmental-leadership/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
 
 secured: "lLpR7j8rPbPQZ2J4+XomgcJW56MnctjqOEpp6mysdLK/OFis1jV0cUWUqcN2raHErTrf4RYZqGCcicMzS7xq8Q1AdvyqdykMpE+YPzmUllgNCibTdr9pZCJuox1mSv0Y4+7PTLjfBOqd9V2zhqXHf2g2d3ydvdEo6KGuFNQjRMNwi8CvTfoiMLQVb8UVM/zIJLmg5bWyrlkMmPxbVU7Xra6SfkR9WfLQ/aqgH90bqcyoJhLw0D0EtNwWMIA+ebN4S/gDIVlfX9RhjcJ4k7h3Nj5eErTNYlkQ4Re6zAY5YuIUwlSOI9JPcHIDbyQu7vF+v08akAI05eSDIzOXrrb60Ue7tFAK5jQ2IeRIGLz7qyM=;IEhIR+zF8PkuIdKE86CspQ=="
 ---

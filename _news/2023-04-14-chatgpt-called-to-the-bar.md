@@ -41,6 +41,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "When ChatGPT meets humanoid robotics"
+    excerpt: "AI and the development of humanoid robots are two cutting-edge sectors where the projects underway are pushing new boundaries."
+    publishedDateTime: 2023-04-15T23:01:00Z
+    webUrl: "https://www.astroawani.com/berita-teknologi/when-chatgpt-meets-humanoid-robotics-415514"
+    ampWebUrl: "https://www.astroawani.com/berita-teknologi/when-chatgpt-meets-humanoid-robotics-415514?amp=1"
+    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-teknologi/when-chatgpt-meets-humanoid-robotics-415514?amp=1"
+    type: article
+    provider:
+      name: Astro Awani
+      domain: astroawani.com
+    quality: 74
+    images:
+      - url: "https://img.astroawani.com/2023-04/81681468280_TBNEO.jpg"
+        width: 590
+        height: 400
+        isCached: true
   - title: "Can AI answer your money questions? We put chatbots to the test"
     excerpt: "Face it, we could all use a little help with our money. So who better to ask for personal finance advice than a couple of the most powerful chatbots on the planet?"
     publishedDateTime: 2023-04-13T12:26:00Z
@@ -181,15 +197,6 @@ related:
     provider:
       name: Digi Times
       domain: digitimes.com
-    quality: 34
-  - title: "When ChatGPT meets humanoid robotics"
-    excerpt: "AI and the development of humanoid robots are two cutting-edge sectors where the projects underway are pushing new boundaries."
-    publishedDateTime: 2023-04-15T23:01:00Z
-    webUrl: "https://www.astroawani.com/berita-english/when-chatgpt-meets-humanoid-robotics-415514"
-    type: article
-    provider:
-      name: Astro Awani
-      domain: astroawani.com
     quality: 34
   - title: "Is ChatGPT-4 replacing Google?"
     excerpt: "ChatGPT is an AI-powered chatbot that creates a virtual conversation with users by using machine learning and natural language processing. Google is known for its innovative and inventive use of technology. OpenAI (developer of ChatGPT) is an artificial ..."

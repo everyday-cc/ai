@@ -2,17 +2,17 @@
 category: news
 title: "Kidnapping scam uses artificial intelligence to clone teen girl's voice, mother issues warning"
 excerpt: "There is a new scam using artificial intelligence to clone voices. Arizona mother Jennifer DeStefano shared her story of a kidnapping hoax that sounded all too real. Jennifer said when she recently received a call from an unknown number,"
-publishedDateTime: 2023-04-13T19:53:00Z
-originalUrl: "https://abc7ny.com/ai-voice-generator-artificial-intelligence-kidnapping-scam-detector/13122645/"
-webUrl: "https://abc7ny.com/ai-voice-generator-artificial-intelligence-kidnapping-scam-detector/13122645/"
+publishedDateTime: 2023-04-13T19:31:00Z
+originalUrl: "https://abc7.com/ai-voice-generator-artificial-intelligence-kidnapping-scam-detector/13122645/"
+webUrl: "https://abc7.com/ai-voice-generator-artificial-intelligence-kidnapping-scam-detector/13122645/"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: abc7NY
-  domain: abc7ny.com
+  name: ABC7
+  domain: abc7.com
 
 topics:
   - AI
@@ -87,6 +87,6 @@ related:
         height: 2263
         isCached: true
 
-secured: "bdy4Jlpl80FIPC/YtY/94SaCiJ/O9uDLSuRW2Z1I33MasQI0W2bb/OHMpwJGu78BlaPmJ83zoZZrmzV05PXSf5FAyROeJc7BXucKN0+wqPkvnSMo7RolrenPEYCUp4EWixiA+TO03G51aNpB2TkzAIgKe3K8wVJWsKw387luAiDuMb6fObCmpRQmdD8gfboW5aXjvI7zdLTvdXEo8CtyKQEaYjY50L4vequqy1Ib5Ocu1jwp3L8airDFKeNLh9UcPN94MDwDfLv9K9+UTIKsWeKCqdSHBzkJ4T0kMt56QDAmfsyo4YNxzlalsqChbt44thI4CjjF2jUQIjl0Hom+XZImi6xdJUksjtn4syA9kg8=;F1txqqEIEPsbgTj3guXo0w=="
+secured: "mRx/AWc9nztAjjgf2lcysdW30PTSUOidOEWU6PJKLteaSxUwdQNlxMjXF1nDHApt/X5NCPKpTIPwAKG3Z8g1nRvzklvOaL/l9eR54LYwbJh313I/wOFvBzKCGFNUxETG6j3eCbcnWJs9OA5E/r1u6Oo8ZTg7kVSL9DheonkifeDESC2ryXlSDlKDsDxmWlz5Qp9U8qWvy8c9+H+uyzBcbEWVHodI3/uXhtvUxfgAluiWdCfaehLYJhF/uru4Zd39IrlnWuzYNVdasQDOLivS8oz7rlEA4VusKsQDHDvjwZdw7jrWqPbp0SHKTjGzWtzSHFdLcpJN5B4l1o2KE1TM43uIELIsSBtizTZ+z1cR084=;2UMmVVMiFSWmAeZ2FqAURA=="
 ---
 
