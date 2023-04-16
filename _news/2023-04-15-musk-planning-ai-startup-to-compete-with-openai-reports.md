@@ -425,6 +425,17 @@ related:
         width: 1500
         height: 800
         isCached: true
+  - title: "Elon Musk plans AI start-up, OpenAI rival"
+    excerpt: "Elon Musk reportedly formed an artificial intelligence company to compete with OpenAI, a creator of ChatGPT. According to The Wall Street Journal, the company is called X.AI, with funding from SpaceX and Tesla investors."
+    publishedDateTime: 2023-04-16T11:48:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-ai-start-up-openai-rival/article66743636.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-ai-start-up-openai-rival/article66743636.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/elon-musk-plans-ai-start-up-openai-rival/article66743636.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 37
   - title: "Elon Musk plans artificial intelligence start-up to rival Open AI"
     excerpt: "Elon Musk is developing plans to launch a new artificial intelligence start-up to compete with ChatGPT-maker OpenAI, as the billionaire seeks to join Silicon Valley’s race to build generative AI systems."
     publishedDateTime: 2023-04-14T17:35:00Z

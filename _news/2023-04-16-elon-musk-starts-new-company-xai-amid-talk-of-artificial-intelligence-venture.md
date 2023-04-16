@@ -425,6 +425,17 @@ related:
         width: 1500
         height: 800
         isCached: true
+  - title: "Elon Musk plans AI start-up, OpenAI rival"
+    excerpt: "Elon Musk reportedly formed an artificial intelligence company to compete with OpenAI, a creator of ChatGPT. According to The Wall Street Journal, the company is called X.AI, with funding from SpaceX and Tesla investors."
+    publishedDateTime: 2023-04-16T11:48:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-ai-start-up-openai-rival/article66743636.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-ai-start-up-openai-rival/article66743636.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/elon-musk-plans-ai-start-up-openai-rival/article66743636.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 37
   - title: "Elon Musk plans artificial intelligence start-up to rival Open AI"
     excerpt: "Elon Musk is developing plans to launch a new artificial intelligence start-up to compete with ChatGPT-maker OpenAI, as the billionaire seeks to join Silicon Valley’s race to build generative AI systems."
     publishedDateTime: 2023-04-14T17:35:00Z
@@ -480,6 +491,6 @@ related:
       domain: marketwatch.com
     quality: 11
 
-secured: "4vn57I5FksDf0NyfH5afoq+gmnI7FGMOWC60rsKIDazuzadjgny1Ebg2r+28MIALUmRckJZShrrQPyW2YWi8umVWPyu55SDldsQmtsqvtUhjrHwauQibZi/MduxhtiWEsYzyAoeew0mS7SHTexwSKeQhwqL7VeiuOTM+xvr4d19tmZMK+KmJEtPGMbyxH64p6/kfoswXE/6B3nmsCLPG7irp+Zex93oxdWMTNpNyApGFGpKYLl+HyiHm56d+Xq0rCGZvTA7LoLn359uMe4N1Y/zp1bEmYKn78j2TgZcA+3vmR9BjuMlMfhhYJcYzi6/AWWPymjRzO0aBPmIHOTzj5GOpqfPTDNiD160Mbj1ktiQ=;/J5p2MpprWIbWNFatjPLmw=="
+secured: "JJGvW/9fUFTisoAgyPvoCUH374JhT6i1qPR+Uw7gGHZk9rjI7K9JZp3bKwGYTbeUrqP3Sdj/ZK1qQad6Mkj1ARmpRpp/xoHEa/zx2WMGdlwU9+glDY2H1lbSFNUgf5DjLakVzhET2Lo5PCyfJkof27ajfvE4KgCdfd+cecAGUxkOB2/YrtBRX9WLG6Nm7B7GXPGbGjPKBagOfl42EZv2yTT+EDvIY0ObIOj7rZa6gOMUcPRxRb5ttzNvUP8ZZDfDNQpW74M81ojCq+d/0Dzf1zfAzyClZTh+3U+llWj9AJ7nJQNbS/NyAUWlMqdnNTuQqXEXvvDwTYSwMJLgmXumfDy/HCCzI3IUxuRh4TbU2Sc=;Tx64ejfZl4cCL7ryLBcr2w=="
 ---
 

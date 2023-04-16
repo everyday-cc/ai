@@ -83,15 +83,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Cohesity Partners With Microsoft And Announces Vision For AI"
-    excerpt: "Ranked Industry Analyst Patrick Moorhead dives in as my latest discussion with Poonen focused on an expanded relationship with Microsoft. A significant part of Poonen's focus and vision for Cohesity since he took over as CEO has been to advance innovation in security,"
-    publishedDateTime: 2023-04-11T17:39:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/04/11/cohesity-partners-with-microsoft-and-announces-vision-for-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
   - title: "Microsoft integrates Bing's AI into Swiftkey, Skype, Start apps"
     excerpt: "After launching the new Bing experience earlier this year, Microsoft has been trying to bring the search engine's AI features to its products."
     publishedDateTime: 2023-04-14T06:11:00Z

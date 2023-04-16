@@ -3,23 +3,23 @@ category: news
 title: "Amazon joins generative AI race, targets cloud customers"
 excerpt: "Amazon.com Inc. is joining Microsoft Corp. and Google in the generative artificial intelligence race, announcing technology aimed at its cloud customers as well as a marketplace for AI tools from"
 publishedDateTime: 2023-04-14T20:26:00Z
-originalUrl: "https://madison.com/ap/lifestyles/amazon-joins-generative-ai-race-targets-cloud-customers/article_87fe02b1-5741-5d8b-886b-fc1e36c441b4.html"
-webUrl: "https://madison.com/ap/lifestyles/amazon-joins-generative-ai-race-targets-cloud-customers/article_87fe02b1-5741-5d8b-886b-fc1e36c441b4.html"
+originalUrl: "https://omaha.com/ap/lifestyles/amazon-joins-generative-ai-race-targets-cloud-customers/article_98c8cca1-6a36-55c2-83f7-8fd133830dfb.html"
+webUrl: "https://omaha.com/ap/lifestyles/amazon-joins-generative-ai-race-targets-cloud-customers/article_98c8cca1-6a36-55c2-83f7-8fd133830dfb.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/custom/image/ce2dd33a-7a28-11ed-bbcf-032e1181320a.png?resize=600%2C315"
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg?resize=600%2C315"
     width: 600
     height: 315
     isCached: true
@@ -359,6 +359,6 @@ related:
       domain: thedrum.com
     quality: 11
 
-secured: "TDAOVYjEeOuOtDa6J6B9nbX9jUTFTHLP4NnAKkGoPt1/N3aidzuuBgf4qV7a0ilOgXk90xUS78acFFt+EvkM7FFQm+8pIaRfSdHczZvVo3HFQpLPWyoUH/iBU3nLCg4wcB1OyuOGrbcj6MwRiIA4Qb9OmnBQbLKPZ7jiEOgTWHN9vYaMt61Inuoo/XaDf0iWfrBFlH8bIgDyPYfRElr8fzcLo/FNEmxbSfTxGTt3XB4U6lnChKS5tHENaObEux7fpzaN5GDFqZu/XT7rPVoEYmPZnbuh4yrwL+muIedMOjJDZawiJrwRcWj4asD8Wm58JOg168FrDtlXfpb5lYy8ucG9m0nFY59WIDKQanR+Q9o=;Rr4J0guyArYZrkRY+Mw/Dg=="
+secured: "5V/UU7JH6GmXLA/0/GDP8eMiZW55YfplKtvB11fAOlp1Qr5ZAVDh6vEmb6+nT5CygLbieloIpU/FUyUCRRLHUYYbqniW1MPYypcyhfwsNfs0a8I+mGZZX/Q8QxopJkq5Y6glAPQjI4diHuhKUZqMGy45iBRulMJ7Imcw48Y0HWs+2Xlqnk51Ib6NoTNWGUFOVquQYsKuVDypdhLc48rl9z4YN/63obQ5fhJSLgIPntFAigRvmBWbO2OE0COlMVgK9xAZTqn9ZESfVnuG8BI98MI7EWDPqqsHx4aJik6n3Elnas+K9QnF99xX059dQoyJiiv+MwGMQaRJjd2EBxQ4GmaXSpSqM2FxzF0mblCcxFE=;1szcQP6TUYMbcUv+F69JkA=="
 ---
 

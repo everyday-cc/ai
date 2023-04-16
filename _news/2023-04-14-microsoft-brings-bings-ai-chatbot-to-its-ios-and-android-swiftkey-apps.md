@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/microsoft-brings-bings-ai-chatbot-to-it
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-brings-bings-ai-chatbot-to-its-ios-and-android-swiftkey-apps-113528183.html"
 type: article
 quality: 106
-heat: 246
+heat: 236
 published: true
 
 provider:
@@ -76,15 +76,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Cohesity Partners With Microsoft And Announces Vision For AI"
-    excerpt: "Ranked Industry Analyst Patrick Moorhead dives in as my latest discussion with Poonen focused on an expanded relationship with Microsoft. A significant part of Poonen's focus and vision for Cohesity since he took over as CEO has been to advance innovation in security,"
-    publishedDateTime: 2023-04-11T17:39:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/04/11/cohesity-partners-with-microsoft-and-announces-vision-for-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
   - title: "Microsoft Adds AI Chatbot to Its SwiftKey Keyboard App"
     excerpt: "Microsoft has added its BIng AI chatbot to its popular SwiftKey third-party keyboard app for iOS and Android phones, giving users quick access to AI-generated answers and advice."
     publishedDateTime: 2023-04-15T18:31:00Z

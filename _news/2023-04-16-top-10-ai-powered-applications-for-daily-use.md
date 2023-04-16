@@ -6,8 +6,8 @@ publishedDateTime: 2023-04-16T09:27:00Z
 originalUrl: "https://interestingengineering.com/innovation/10-ai-powered-apps"
 webUrl: "https://interestingengineering.com/innovation/10-ai-powered-apps"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/04/16/image/jpeg/klBFkt93orl0NI7YuSnuLTCByyFhvp647SGqfX2W.jpg"
@@ -24,6 +25,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "TBx8iZZ4AdS67jQRO7Wzk4i9Jap4v0U1M+4xzeU9XkItndiaKKlatBS5V9lONwtC/RnUTTEPfoug0qqCCAgFPjb2pN0OACaD70QXSfOa0QW1Aokah+za4ADmjYAx5MaujMxI7FFsYuRYlCmBWpOmC153c527Z+Vwop04RYoDwZKYncKEuHJm1Suft9VsvWxQsR6JAsrgP35oRbNX6ASBtyltz4t2k8Zv6tMs5X45FkP3XJyOAHt9ku+E/qWtRp8turOS7sGDbBFOjB8OP2xBSM4HYCDtvlsZ0XQMSoKScVGXHDLFAMrLMVKe9FyeA1Jt0vlweXUEE3oCx+Odsoi7QScTZ8bJFWvth9juCIyTG2k=;WVT5qzfaoSzvsrl0++Si6w=="
+secured: "+vdBAH7o6J6rbnpONmbSE6yR65d8BiDkONDaBMihckru8h7OavphVw9i60uSaTcYCDkH6N6zxahsViCk4azq4jM1LfPz3st7fnyDZAnc+iXwRnynXO6WOL0gi1ppf2A9z99zABFEZMqkcXSY0xNrO3Vyv7M+mAIs+/IR9aDVwvFv5UgTpDw+e12dAycC8l8VReb+vqWGF2AgMC89mQC1rurAeoQaq+Gfwy5yKe2Upe5HeWiJ9nbyI8o1uYocC1iq8CN9F58q0z0rLhSvmDcGD9DRbJgg6ShzFyQDy4/DwyKB/82ysfVz4PraGgn96gUMsNJr1n8TG+tqabMUTAj89UxRV06xx/ZgU5w+17v1bYi43vo0QiDR4gBa48pl5jUAksKOjlVYQEBSKRl+2BI/zJ6+efnZcb8G4Mi0bgnHXxx4vgi9BU6oeYGXlliLMk3DRYExhqn59zPxn3DV+V0IhDolq/6k1PdqVN3ZE86q7rZRd0hdGsPjoEcDN+QeBye75JG1GJaslRQik2XaIqGyoQ==;5Je8PjYzlCWNvkivltEd0A=="
 ---
 
