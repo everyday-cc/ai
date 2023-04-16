@@ -50,6 +50,15 @@ related:
       name: Omaha.com
       domain: omaha.com
     quality: 18
+  - title: "Machine Learning IDs Factors Predicting Risk for Sleep Disorder Diagnosis"
+    excerpt: "Machine learning models can effectively predict risk for a sleep disorder using demographic, laboratory, physical exam, and lifestyle covariates, according to a study published online April 12 in PLOS ONE."
+    publishedDateTime: 2023-04-16T18:34:00Z
+    webUrl: "https://www.physiciansweekly.com/machine-learning-ids-factors-predicting-risk-for-sleep-disorder-diagnosis/"
+    type: article
+    provider:
+      name: Too Old to Operate
+      domain: physiciansweekly.com
+    quality: 18
   - title: "Machine learning methods may be effective in screening patients for sleep disorder risk"
     excerpt: "A machine learning model can effectively predict a patient's risk for a sleep disorder using demographic and lifestyle data, physical exam results and laboratory values, according to a new study published this week in the open-access journal PLOS ONE by Samuel Y."
     publishedDateTime: 2023-04-13T17:31:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-marketing-market-size-2023-2030-share-growth-recent-trends-development-2023-04-14"
 type: article
 quality: 64
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023-2030 Deep Learning Unit Market Size Detailed Report with Industry Chain Analysis | Research by Absolute Reports"
+    excerpt: "Apr 14, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry. Global “Deep Learning Unit Market”"
+    publishedDateTime: 2023-04-14T06:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2030-deep-learning-unit-market-size-detailed-report-with-industry-chain-analysis-research-by-absolute-reports-2023-04-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

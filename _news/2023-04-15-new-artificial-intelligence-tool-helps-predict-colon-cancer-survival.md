@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/new-artificial-intelligence-tool-h
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm"
 type: article
 quality: 59
-heat: 90
+heat: 89
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/miami/video/ai-leading-to-faster-stroke-di
 webUrl: "https://www.cbsnews.com/miami/video/ai-leading-to-faster-stroke-diagnosis-treatment-and-better-outcomes/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Is Leading To Faster Stroke Diagnosis, Treatment and Better Outcomes"
-    excerpt: "Every 40 seconds someone in the United States experiences a stroke. With more than 795,000 patients annually experiencing a stroke, it is now the leading cause of disability for Americans."
-    publishedDateTime: 2023-04-12T04:00:00Z
-    webUrl: "https://www.cbsnews.com/miami/news/artificial-intelligence-is-leading-to-faster-stroke-diagnosis-treatment-and-better-outcomes/"
-    ampWebUrl: "https://www.cbsnews.com/amp/miami/news/artificial-intelligence-is-leading-to-faster-stroke-diagnosis-treatment-and-better-outcomes/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/artificial-intelligence-is-leading-to-faster-stroke-diagnosis-treatment-and-better-outcomes/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 48
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/14/b7910512-7083-48e1-89dc-41e6172a6291/thumbnail/1200x630/3a2421e364223a88f9527c0d38bbad4a/mhs-native-article-stroke-image-2.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence - The Promise of Early Disease Diagnosis and Improved Treatment and the Potential of Liability"
     excerpt: "If there is one thing that everyone can agree on, it is that health is an important factor in life. In 2021, over 3 million people died in the United States with heart disease and cancer top"
     publishedDateTime: 2023-04-14T15:59:00Z

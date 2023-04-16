@@ -1,12 +1,12 @@
 ---
 category: news
 title: "These films predicted the future of science. How right were they?"
-excerpt: "\"As audiences, we love both optimistic and pessimistic science-fiction films.\" Lisa Yaszek, professor at Georgia Tech."
-publishedDateTime: 2023-04-14T17:13:00Z
-originalUrl: "https://www.cbsnews.com/tampa/news/these-films-predicted-the-future-of-science-how-right-were-they/"
-webUrl: "https://www.cbsnews.com/tampa/news/these-films-predicted-the-future-of-science-how-right-were-they/"
-ampWebUrl: "https://www.cbsnews.com/amp/tampa/news/these-films-predicted-the-future-of-science-how-right-were-they/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/tampa/news/these-films-predicted-the-future-of-science-how-right-were-they/"
+excerpt: "Films such as \"Gattaca,\" \"Her\" and even \"M3GAN\" have predicted what our future might look like if developments in genetic editing and AI accelerate. Here's what those films get right — and what's still the stuff of science fiction."
+publishedDateTime: 2023-04-14T20:03:00Z
+originalUrl: "https://www.cbsnews.com/detroit/news/these-films-predicted-the-future-of-science-how-right-were-they/"
+webUrl: "https://www.cbsnews.com/detroit/news/these-films-predicted-the-future-of-science-how-right-were-they/"
+ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/these-films-predicted-the-future-of-science-how-right-were-they/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/these-films-predicted-the-future-of-science-how-right-were-they/"
 type: article
 quality: 44
 heat: -1
@@ -21,7 +21,7 @@ topics:
   - AI
 
 images:
-  - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/14/2c9b00cc-8fc4-4b81-9cb4-1725619f228f/thumbnail/1200x630/4b1e2fcfc70cc6ea9999adceb18a60ff/hypatia-h-304c049b19523c5d188b817b7050d8f1-h-5d7249b870670b58b4a20842e2846e69.jpg"
+  - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/14/dba62e62-3622-49be-93f1-099a580292a4/thumbnail/1200x630/a93f8d2f31c87320acda582ca1ebc22b/hypatia-h-304c049b19523c5d188b817b7050d8f1-h-5d7249b870670b58b4a20842e2846e69.jpg"
     width: 1200
     height: 630
     isCached: true
@@ -88,6 +88,6 @@ related:
         height: 280
         isCached: true
 
-secured: "FXkIuMnDoZFv5DK+/jxZjcEPbOQk9S2wdLX/jXJOO48KOq+6BfUdyinZxKOyfGVks/xd5pH8yE1J/CjgN3bKChSL1r5+kXCHpWXsTd0y56r2PUpoHBlrn1WlJLuYtUb3sz8QbhqFILp3a18Uo9rEyvIdR+TQGXYnWRvzGZ17b4m/5X0XGfY9AzYfZ07bEUqe+xDW3+aoCcSDJRy1Aq9ouFRxulZYfiWl9ToCNOTGz3vu/OM7sHjUB3MTwbW8VHqKhaFy44QVLxiyf+KM569NcSr7cV7RPdpcmp8xZCL005XD5iY2llXtafSd8IfySG/4H+GiYTM0LbgTDlbJGyrNLnqXcHkk4+WNCMrXOd426tA=;EP4jqWw0trw9/kKU8SgeZA=="
+secured: "3pVPT7RmrUlIRErdWxPlk1MbrJ4eGtluGLIbXjcN9L8bBUACa5qcumGhb13DAE4K0BsbBWn4gL0NbAXQwt2xexiqWYdbb1TLaGfco5dunksnA1OZafvOcMTgtu9Q1cSx4NQkvTv5BnIst/ueW7h7c/3IfuRc+NhvHC1YUqH0wqzQ2IrzaAL3ATzxlxBWhGB9hQfr4xBndm+XIlrJSVkAdJG3sZPxODzc+S8y5fvfQ7ojNXEEWaT8Je7xcPy0J3E5d+vccDC2kwo+4jZWfqWGQA/FWXJUpkQ/M2evztJShigYPmn3QCK8u3FvxBnhJKDUC2ZpXiDUix5MvIWCKuv9sdGTWsVQOn5Q63sQl5J8M7g=;o2mg0saHNwD/NxJ1ONAruQ=="
 ---
 

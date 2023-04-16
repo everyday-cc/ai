@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-16T12:57:00Z
 originalUrl: "https://www.theguardian.com/law/2023/apr/16/calls-stricter-oversight-workplace-ai-fears-staff-rights?ref=biztoc.com"
 webUrl: "https://www.theguardian.com/law/2023/apr/16/calls-stricter-oversight-workplace-ai-fears-staff-rights?ref=biztoc.com"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: The Guardian

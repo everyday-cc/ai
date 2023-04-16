@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/amazon-launches-bedrock-for-generative-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/amazon-launches-bedrock-for-generative-ai-escalating-ai-cloud-wars/amp/"
 type: article
 quality: 91
-heat: 381
+heat: 382
 published: true
 
 provider:

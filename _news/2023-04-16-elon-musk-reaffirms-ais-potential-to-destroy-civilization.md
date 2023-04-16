@@ -90,6 +90,22 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Elon Musk Launches X.AI To Fight ChatGPT ‘Woke AI’ With Twitter Data"
+    excerpt: "Musk who co-founded ChatGPT-maker OpenAI along with Y Combinator CEO Sam Altman and PayPal alums LinkedIn cofounder Reid Hoffman and Palantir cofounder Peter Thiel in 2015, resigned his board seat in 2018 citing potential conflicts of interest as Tesla’s CEO in the development of the car company’s self-driving features, according to The Verge."
+    publishedDateTime: 2023-04-16T21:51:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2023/04/16/elon-musk-launches-xai-to-fight-chatgpt-woke-ai-with-twitter-data/"
+    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/04/16/elon-musk-launches-xai-to-fight-chatgpt-woke-ai-with-twitter-data/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/04/16/elon-musk-launches-xai-to-fight-chatgpt-woke-ai-with-twitter-data/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/643c206d9b5f123357fe5712/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 817
+        isCached: true
   - title: "Elon Musk Creates New Artificial Intelligence Company X.AI"
     excerpt: "The name of the new Nevada-incorporated organization suggests a link to the billionaire’s interest in an everything app."
     publishedDateTime: 2023-04-14T20:35:00Z

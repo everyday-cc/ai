@@ -51,6 +51,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Skift Podcast: Surviving as a Travel Startup in an Age of AI"
+    excerpt: "Is ChatGPT a gift or a threat to travel startups? Two travel insiders sit down to talk listeners through the possibilities."
+    publishedDateTime: 2023-04-16T21:42:00Z
+    webUrl: "https://skift.com/2023/04/16/skift-podcast-surviving-as-a-travel-startup-in-an-age-of-ai/"
+    ampWebUrl: "https://skift.com/2023/04/16/skift-podcast-surviving-as-a-travel-startup-in-an-age-of-ai/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/04/16/skift-podcast-surviving-as-a-travel-startup-in-an-age-of-ai/amp/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 57
+    images:
+      - url: "https://skift.com/wp-content/uploads/2023/04/jclampet_photorealistic_image_of_a_selfie_stick_positioned_like_37b34a10-5aad-4e9d-a01d-36f50bd2c5c8-1024x701.png"
+        width: 1024
+        height: 701
+        isCached: true
 
 secured: "5P1yaW+zk3aHSyyOGUKvjNSsOJ8xcYcpY5oskUmlkEueYaL1JvDLOELVBZDY+vrxVtL4ul/9tnmu8k6ghp8p9qeyvNzvm4VJ1P3H/r24CV/ZZOZxa1d5sO0v+zv7oMuLDkGAXv9STwDhYQMW/yreddOK8LOS7ZQLZsIj+6zjNdOCqmSEOAX2dewnveaG54QVbs2qmwQpDrs7MOMtoJnxq6Sk0QSmvxGi56VBZBCR1Q54nOq9zFYb97NUecE3uWNObGE/LqTZlsEvS7aQ0oyZ2SpSrM0j2M1W1frRtsC1ZGRYRJzCwpyqWP4/BBPmAe3dCWjiZSoWkYriN1BfS2zzbwG4uiwdJZPrXG/dMadkvgylpdn6RudKITjJff4g0iuPpECLIR6MuF5Aq2GWAIE8IvYvct9T3BXMqhaXgvU0Qdp+g/EfcpFJQW1AWGY8YI9tLH9dVIn7CgMVKN98EYSWJYsg1BGBwfxXHkXvH4VRJAjraQJt1euABP3VrFlXULukx8tmbSyAgmSzomboMCv6zA==;gnE4k2JKwvegTzmL+WWb+g=="
 ---

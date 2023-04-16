@@ -15,6 +15,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "cvbpCbvA8pCDJCHCOfejE9Viqr5qxSCBzJvLbscul1Znxxq9Cme7ipdpoM8NAhWmY9X7aUVd6kkfWXtqtUtzXv7vbE5ItkJO8oVrut6ojHZEHf6s4pBAbEiR0KtKg418L7Wo3TEBfXMSW1PmIrP/KFl0NDDawSso7hCJrmpwziSdKQ4v1khHhoWTUGkBbEnGgYxYWWotSxujW02g8IiLNmcIwlSKWYqOhrg2E7+jLQ+faptgnuzkEGFsS6oEXIqQdF0ScHYNTGSC/gkmbgTMVbCbl/ZXt5HQNa/D5jDupeT5sQfw+0jpL2B0N/QYY7cxWmiLKAAiFQrX6djlVpoebDZCvzEwn8QhVk6Ko0yZw5Y=;ccCFStoc1HQIcvz6X4K7Mw=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/globegazette.com/content/tncms/assets/v3/editorial/0/9f/09f4288b-e367-5bad-ba41-2451e55d4252/642fa3aadd541.image.jpg?crop=1286%2C677%2C0%2C240&resize=1200%2C632&order=crop%2Cresize"
+    width: 1200
+    height: 632
+    isCached: true
+
+secured: "lqjc76HMWupz1s3cLFo2YPgpq8ycqbqd7jTtyBcwl84q645XUV63sRMvGttSaiSGbb0WVhDDYAd66MMGiH19MsPfWNsSDVTrMZO8lD1/5kd7hR0zVBDmwZzLnJ9NN9zcSOD/ecNax4FvB1HSv0Z1qNAq6ZHl3gHWFIy27xU+N5UYWqmBdP7vfCBrOqej3KQe/MejRp5Wjv88I8fQFtbDPvW6PtfZbjjio2OMvTY0jtfGv+ny97jsgU0iqhpe5B2coVDOVSAO6v0kTnI9dBMtxDezVoDU4yTaPDZ4VINUBkkzgTjozf7pHIHoyWmAFbjwQ0CLAqkzlQHTtvLaEajpZgDhetO28PXdbYsoaQ9+JaE=;iNDVYUUxlUXfm9q2R838eQ=="
 ---
 

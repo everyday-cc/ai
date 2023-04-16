@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-16T17:57:00Z
 originalUrl: "https://www.bloomberg.com/news/articles/2023-04-16/google-racing-to-build-new-ai-tools-for-search-nyt-says"
 webUrl: "https://www.bloomberg.com/news/articles/2023-04-16/google-racing-to-build-new-ai-tools-for-search-nyt-says"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Bloomberg L.P.

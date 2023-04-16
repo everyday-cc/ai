@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-16T18:39:00Z
 originalUrl: "https://carbuzz.com/news/waymos-self-driving-jaguar-i-paces-blocked-road-after-getting-confused-by-san-francisco-fog"
 webUrl: "https://carbuzz.com/news/waymos-self-driving-jaguar-i-paces-blocked-road-after-getting-confused-by-san-francisco-fog"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: https//carbuzz

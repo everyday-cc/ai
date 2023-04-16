@@ -46,6 +46,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Skift Podcast: Surviving as a Travel Startup in an Age of AI"
+    excerpt: "Is ChatGPT a gift or a threat to travel startups? Two travel insiders sit down to talk listeners through the possibilities."
+    publishedDateTime: 2023-04-16T21:42:00Z
+    webUrl: "https://skift.com/2023/04/16/skift-podcast-surviving-as-a-travel-startup-in-an-age-of-ai/"
+    ampWebUrl: "https://skift.com/2023/04/16/skift-podcast-surviving-as-a-travel-startup-in-an-age-of-ai/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/04/16/skift-podcast-surviving-as-a-travel-startup-in-an-age-of-ai/amp/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 57
+    images:
+      - url: "https://skift.com/wp-content/uploads/2023/04/jclampet_photorealistic_image_of_a_selfie_stick_positioned_like_37b34a10-5aad-4e9d-a01d-36f50bd2c5c8-1024x701.png"
+        width: 1024
+        height: 701
+        isCached: true
   - title: "From Language Translation to Supply Chain Management: How AI is Changing the Game for Global Businesses"
     excerpt: "\"How AI is streamlining global operations.\"As businesses expand globally, communication and cultural differences pose challenges. AI is transforming global operations by eliminating language barriers,"
     publishedDateTime: 2023-04-12T21:50:00Z

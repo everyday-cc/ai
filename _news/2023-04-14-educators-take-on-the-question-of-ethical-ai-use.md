@@ -28,6 +28,15 @@ related:
       name: Law
       domain: law.com
     quality: 33
+  - title: "Brace for the defamation of AI by those who missed out"
+    excerpt: "A letter signed by luminaries, including Elon Musk and Steve Wozniak, calling for a six-month \"pause\" on AI has inspired thousands to add their signatures. However, in an op-ed for Livemint, journalist Manu Joseph argues that the letter is a part of a larger movement to trigger anxiety and invoke ethics,"
+    publishedDateTime: 2023-04-16T18:02:00Z
+    webUrl: "https://www.livemint.com/opinion/online-views/sentient-luminaries-sign-letter-calling-for-a-pause-on-ai-progress-but-is-their-movement-against-ai-really-about-ethics-11681668171217.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 19
 
 secured: "PwjrwmtjVZ0/oAopU5lmMhLVHLQ/dogdztq7r+sKVb5YIW9NJmO0tXEbXU4DBwhhNJK7GH90UpujF/VAXtfDkGeHzw4wqRCIc62gKE748K+VsQ/Po+Q6UsAVihZ5ExzX2t1TSJ2Np/EIEFY1vwbeW4SdLa8Ox5P4eG3d86Rb2zmmNdvVicErPIwK7RegAm80D4LgZ30wGk8r0OV/XQmEwqX+/2T6uBJIIFZFvKa300WAmDZNYfBtp7edVONqPfzxAzc+1okn34tnU2BrIaPhEvkIxQlzuA2pVw1hlsxwXOvjvkP8GzicjuSRpBkPYndl/HiBEgxeX3SUgfAVv3slCCQAGf+4GIN+RIP3/pDm/l0=;V34QjiKUVLzOXnWv0xVyfg=="
 ---

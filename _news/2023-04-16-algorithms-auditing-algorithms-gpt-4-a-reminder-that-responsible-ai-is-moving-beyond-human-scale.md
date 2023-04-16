@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/algorithms-auditing-algorithms-gpt-4-resp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/algorithms-auditing-algorithms-gpt-4-responsible-ai-beyond-human-scale/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

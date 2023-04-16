@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023-2030 Deep Learning Unit Market Size Detailed Report with Industry Chain Analysis | Research by Absolute Reports"
+    excerpt: "Apr 14, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry. Global “Deep Learning Unit Market”"
+    publishedDateTime: 2023-04-14T06:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2030-deep-learning-unit-market-size-detailed-report-with-industry-chain-analysis-research-by-absolute-reports-2023-04-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Very Edge AI Chipset Market 2023-2030 Industry Overview and Ongoing Opportunity"
     excerpt: "The Very Edge AI Chipset Market (2023-2030) Updated Latest Research Report is divided into various types [GPU, ASIC,"
     publishedDateTime: 2023-04-13T09:10:00Z

@@ -5,6 +5,8 @@ excerpt: "Today, Amazon Web Services (AWS) launched a 10-week program, which it 
 publishedDateTime: 2023-04-04T14:44:00Z
 originalUrl: "https://www.itbusiness.ca/news/aws-launches-global-generative-ai-accelerator-for-startups/124637"
 webUrl: "https://www.itbusiness.ca/news/aws-launches-global-generative-ai-accelerator-for-startups/124637"
+ampWebUrl: "https://www.itbusiness.ca/news/aws-launches-global-generative-ai-accelerator-for-startups/124637?amp=1"
+cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/aws-launches-global-generative-ai-accelerator-for-startups/124637?amp=1"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "cuuPFykkIYYu1BWd2W/8fu7X1KBYc9hSqlajsmsbX65JNL+9O86CGRTl0/DVB4EWpGTVTzxe67VYcQpLPiQpUhSJAwNRgTvNp2X8xY5XS5B5XtBveYVQWyoXYEAOb4TFrGGiOBN1OwDZf14nOESuAmMPar+mrCaHTzKCUjbJZ5f7ROoYOxEr/HzQlZqgQvx/YEv1cqzBBWCIW+XBBthn/yBRDf6yRIj1XsRxCrl6iMwm75GoBjiJ2bymp9RjoIF4P1RLSopSjb5w65cpWzKod15fbfoxpXBEo9CSaJ33kpBqWpM+oiii7E1FLXb7LPudV6FNsmZWe4bpvN893zrOah0exdfUhIrEhwzZFMDcuys=;klRudIahx8+Fsa6rSIfrAQ=="
+images:
+  - url: "https://i.itbusiness.ca/wp-content/uploads/2018/12/GettyImages-905587820-1-e1544476257109.jpg"
+    width: 620
+    height: 249
+    isCached: true
+
+secured: "bVd6CbJh/amYVjo7pmfQMhjPHHzEJlRgLA97TWB3P5ZV0IzBL/Sia67iwL7zIaDGJezSDo9U879rZ83LzUM7FKc9xIoBtvUkLurg/arw6Y8Hovm5a8fwWHJ88M1yFlCxDXg9yd7/n2mHdC7LhkwA/0I+EN7+tFJXVk0V/rUQ47x7MjF+yVnuujSfSBcA+0WJA4qIYUvj5OuplrFleTDgZhDzP5HUjbZcBw2P/v0RtlXq8eOE7w2LYgxchl+XYwFqWpDXz8g2VKVjGDOzMgZKdMlOBMl7jiO+1TbCvjKJ9r3dFPQJJc2UkFA64lWfEwhNUIw0CmUVFs4o783FLhzdK+QiabIsIgSdd0OZDn730D0=;I7m/Nn2AZDJ+qIrlWO62cA=="
 ---
 

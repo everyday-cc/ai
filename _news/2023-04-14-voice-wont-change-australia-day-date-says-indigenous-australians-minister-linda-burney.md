@@ -43,6 +43,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Morning Mail: US neo-Nazi’s Australian connection, AI cheating software debate, scam losses hit $3.1bn"
+    excerpt: "A company is under investigation for advertising cannabis vapes and fighting in Sudan continues despite a proposed ceasefire"
+    publishedDateTime: 2023-04-16T20:15:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/apr/17/morning-mail-us-neo-nazis-australian-connection-ai-cheating-software-debate-scam-losses-hit-31bn"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/apr/17/morning-mail-us-neo-nazis-australian-connection-ai-cheating-software-debate-scam-losses-hit-31bn"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/apr/17/morning-mail-us-neo-nazis-australian-connection-ai-cheating-software-debate-scam-losses-hit-31bn"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 41
+    images:
+      - url: "https://i.guim.co.uk/img/media/b0649853a7fb0d03aa48b73c199f9e5a14190448/1965_223_5903_3544/master/5903.jpg?width=620&quality=85&auto=format&fit=max&s=5067b90f04984b5175b40725842146d9"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "SfAx5mcl0wuevDx9vGGmE54iq5JZOQgm4F3hSvqg5blHRmWi2U42V3rXJVP+MtEyiD8SU+Nie72DwvIh2FXxa1AYqFer5OadY+9dYxzRaDmymHaCSiDmla08RmGODWUla6HoxALvYROR1SmJZKVvDguAUG6KrZ4xxhIs/FjPf5uTc/qJCiqT7lQObNJJof9P0mCBIk1B1HtrqPzbZhRm4a2oil/LCwo75lToVAh3+7EEdcsfm4wrBHHpfSsqvVJf+QdFY0UO7/1IJfrfham1xzzDjpCyifXo5QufEpwLxojClTbnH+14FSCv8e1rDeMV/Wol+1rR6wUsqMKmjtiIGNs3cmqwq0F2RMQU8UUOGDE=;exlIE0Qu4LHHG0QCJHSnMA=="
 ---

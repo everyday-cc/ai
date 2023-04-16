@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/australia-news/2023/apr/16/australian-un
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/apr/16/australian-universities-split-on-using-new-tool-to-detect-ai-plagiarism"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Guardian
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Morning Mail: US neo-Nazi’s Australian connection, AI cheating software debate, scam losses hit $3.1bn"
+    excerpt: "A company is under investigation for advertising cannabis vapes and fighting in Sudan continues despite a proposed ceasefire"
+    publishedDateTime: 2023-04-16T20:15:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/apr/17/morning-mail-us-neo-nazis-australian-connection-ai-cheating-software-debate-scam-losses-hit-31bn"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/apr/17/morning-mail-us-neo-nazis-australian-connection-ai-cheating-software-debate-scam-losses-hit-31bn"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/apr/17/morning-mail-us-neo-nazis-australian-connection-ai-cheating-software-debate-scam-losses-hit-31bn"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 41
+    images:
+      - url: "https://i.guim.co.uk/img/media/b0649853a7fb0d03aa48b73c199f9e5a14190448/1965_223_5903_3544/master/5903.jpg?width=620&quality=85&auto=format&fit=max&s=5067b90f04984b5175b40725842146d9"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Voice won't change Australia Day date says Indigenous Australians Minister Linda Burney"
     excerpt: "It should be in celebration, and recognition of the great things about our nation, but it also has to be in reflection about the truth of this country.' Ms Burney stated the Voice would instead be focussed on addressing 'everyday' issues that Aboriginal ..."
     publishedDateTime: 2023-04-14T01:43:00Z

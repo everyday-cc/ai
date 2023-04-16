@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-16T18:42:00Z
 originalUrl: "https://venturebeat.com/ai/much-ado-about-generative-ai-the-money-the-potential-the-pitfalls/"
 webUrl: "https://venturebeat.com/ai/much-ado-about-generative-ai-the-money-the-potential-the-pitfalls/"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: VentureBeat

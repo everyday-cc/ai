@@ -31,6 +31,15 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 17
+  - title: "Deepfake porn could be a growing problem amid AI race"
+    excerpt: "But experts fear the darker side of the easily accessible tools could worsen something that primarily harms women: nonconsensual deepfake pornography. Deepfakes are videos and images that have been digitally created or altered with artificial intelligence or machine learning."
+    publishedDateTime: 2023-04-16T19:26:00Z
+    webUrl: "https://www.chron.com/business/article/deepfake-porn-could-be-a-growing-problem-amid-ai-17900306.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 17
 
 secured: "UmTcW8tIml/EqZkdSvHTvon/X8vD/tXdCrZcbJtVajBd6PAmC+Yf4CFlwjKEDOkLQuYi7YZVXqDuhGmIkl0f61SZMOxt2/YgLmV50NgLSQqmQ1SBQAA5xwImflYreMrCoYSUBha59Nnf5qPmCJ7bxP877cKXY3PDMu0l2jlf8LNhZFVq6yyXG4cJsVwItpUR6KY8PVVlMQcEUKEfpH5c69qhe7hYFfK0yIaS9JFGv2RiGDxtlFbMr0NfHBwE/V7dCM8gfd3DLryGb/nFmg4L2O1smz9jQ4BatZH5tt8GCdw+7Z8Bu05ZfsuempPrLoo24f964Udkdhq76CMUCY45EHaK9blQXcXBOgsGYv07JVmP26ZSx3hDnp9bBjzStgLKYEVJOd2YSOQ7ZpPfkkyN0rx+hlDw60h4h9lHvBov59GyMYdVBElR8ks1qY2sqqT6e2u9SuAqOyBRabjB05liUz47xX9QKmo0Gu+o0GCrGAAGoO0VnZFJdalf6OW8tUHaRoSlWd4FTZgz8GXV3qqr4A==;CmmkKQd80Uxb51BwqER7Dg=="
 ---

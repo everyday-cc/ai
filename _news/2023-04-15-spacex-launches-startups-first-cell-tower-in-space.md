@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/spacex-launches-startups-first-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/spacex-launches-startups-first-cell-tower-in-space/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:
