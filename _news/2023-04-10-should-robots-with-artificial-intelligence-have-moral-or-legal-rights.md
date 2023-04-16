@@ -19,12 +19,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://images.wsj.net/im-756352/social"
-    width: 1280
-    height: 640
-    isCached: true
-
-secured: "eJ+QVEzZWg8X0lhVrzHuXPEUhyBvKn2t+cbqHw+boXdFMldGyDN7uKTHPe4bl9DkSIpLfuyUmpod0hrD8PZagFLQrB9jMJPtDqZXwv51l0xlpuuRkaQBAXw5NoowmCj5IlOCKNeCUOTonJclhlIScM3JxLtA3EXS2J9v85pBt2mfuPyO090El6tiyCU8234Sumj/OY3dxa8e+yomvDTBaEQQQ9Kt8O4FgEZW2YYxuFllCGmgScCjjlAaErLRz1ehGHqsIWxNh/T+HxMrwsgD242bpft9cDPb8EoljffZcHOtsK5UcXxEudNw4Z4VJ0ag4iy8ehcu1r4ZDNLKKAEHpvb3foBoUuaJ2UnTyqeml9w=;Dc6qe0ZKl+/xFMlWmMMcgA=="
+secured: "tAWQx3EjT/IZYD49ukWs7iwSa/fjCn3sxpGuYIFQhmb+9iTcOUXBscmo9NS0bBgKygMUWGAt+0TPAKnsLY1lxCWHDlsBm36mXVB5LowphRU8u1f1jbJNBJ+RDgnaV+AEwiq/lSDH4sdntuPc17+0WLtYPnivwh9U3S47i4ee6VD6G3BIXDQAlGl32OBK1rfqCKWWELv5xlslIj0ufVuFDg/uo7Kg4+Srl7eOE2x/mc4FlLT8m0K1I86BxFCxKJrN0GfTuB/s9z7lq8QnKfmJo4GwpFil2uqNHfzZc5I4rYm7r6yf94G4R6P5dAYPkyX6QUxwNuTUa7TmZWxvwkg8eagZN2HuZJ8XYEBWeqOmZfA=;k8h4QYswzFG2HLmBha8D/A=="
 ---
 

@@ -1,0 +1,20 @@
+---
+category: news
+title: "Brace for the defamation of AI by those who missed out"
+excerpt: "A letter signed by luminaries, including Elon Musk and Steve Wozniak, calling for a six-month \"pause\" on AI has inspired thousands to add their signatures. However, in an op-ed for Livemint, journalist Manu Joseph argues that the letter is a part of a larger movement to trigger anxiety and invoke ethics,"
+publishedDateTime: 2023-04-16T18:02:00Z
+originalUrl: "https://www.livemint.com/opinion/online-views/sentient-luminaries-sign-letter-calling-for-a-pause-on-ai-progress-but-is-their-movement-against-ai-really-about-ethics-11681668171217.html"
+webUrl: "https://www.livemint.com/opinion/online-views/sentient-luminaries-sign-letter-calling-for-a-pause-on-ai-progress-but-is-their-movement-against-ai-really-about-ethics-11681668171217.html"
+type: article
+
+provider:
+  name: Mint
+  domain: livemint.com
+
+topics:
+  - AI Ethics
+  - AI
+
+secured: "zQjlU+zW9vq+JVRfSxAOm3Sq9faUiHXt9GeOD0aNPrtNp9jvGslP9Key+HaZ7eoge0jANoYRADt1cX+KGehmikAsOMC7YqwBSsiEmg8T5i9W5q6j9UIysxIW2hsVMSNGJyRf5qwLREGFp1XQlRvI4DlgmTPF6v32efaF0KJ7I3xXKJscRPaRqlLh5Q2DO+Ynm3OqI1yoWCVHlrRRuSfhFJiwg7FUsCza4V0iGDfvCBiEG2mHfdLILd/QTfLjnD5CpF+coZu1RiLKhdqYn6KaHp9ARDrQV0itQMMmR7qGirX4hYWcVm/OhTlDhVosRwHdBELwCtduZM7R7dA0pHYBsiKxS/tYOV7QhbkOtNERpEI=;PZ9ABc+cpc0ywvSja0JpRg=="
+---
+
