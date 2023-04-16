@@ -1,12 +1,14 @@
 ---
 category: news
 title: "These films predicted the future of science. How right were they?"
-excerpt: "Films such as \"Gattaca,\" \"Her\" and even \"M3GAN\" have predicted what our future might look like if developments in genetic editing and AI accelerate. Here's what those films get right — and what's still the stuff of science fiction."
-publishedDateTime: 2023-04-14T20:03:00Z
-originalUrl: "https://www.cbsnews.com/detroit/news/these-films-predicted-the-future-of-science-how-right-were-they/"
-webUrl: "https://www.cbsnews.com/detroit/news/these-films-predicted-the-future-of-science-how-right-were-they/"
+excerpt: "\"As audiences, we love both optimistic and pessimistic science-fiction films.\" Lisa Yaszek, professor at Georgia Tech."
+publishedDateTime: 2023-04-14T17:13:00Z
+originalUrl: "https://www.cbsnews.com/atlanta/news/these-films-predicted-the-future-of-science-how-right-were-they/"
+webUrl: "https://www.cbsnews.com/atlanta/news/these-films-predicted-the-future-of-science-how-right-were-they/"
+ampWebUrl: "https://www.cbsnews.com/amp/atlanta/news/these-films-predicted-the-future-of-science-how-right-were-they/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/atlanta/news/these-films-predicted-the-future-of-science-how-right-were-they/"
 type: article
-quality: 4
+quality: 44
 heat: -1
 published: false
 
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/14/2c9b00cc-8fc4-4b81-9cb4-1725619f228f/thumbnail/1200x630/4b1e2fcfc70cc6ea9999adceb18a60ff/hypatia-h-304c049b19523c5d188b817b7050d8f1-h-5d7249b870670b58b4a20842e2846e69.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "These films predicted the future of science. How right were they?"
@@ -80,6 +88,6 @@ related:
         height: 280
         isCached: true
 
-secured: "QFVBIrhSLZdq4uY1xEMPVOo8zhDDumnPYTeIXdVlMk/tDTBSyoAIzLnQ8bCR8RyI/LuwBSiLz1U2yhpZsFk8mCYouJebG8de6ekK1ki7w3L7REuFG3/sLbv5PU43fUiPUlb9WoBlzLjgAO9ADO/f83mEQjWPA0n6w98RFLKbE2t6dVWeGsYdZmpgekBBeLNgz0JV1y6kLXfj5Ne2iWfuQ3QHlAIAAiYOTQ/d4DrJ1DC3P0XyzAeiW+2A7w/yPPTJ8RQ2eUoTFMzfA4jFiSefvbWaOL29orZ+MqYZtjwlbVOYv4FtM4uaCoLFjswnnF8gCbdWbpoPfKm8zJxh8VaVNqxIT8sxaj725AaA1/O5RM0IaWjf/mywbZOVe1PWUmmrZ3XjnODW+nA1RolcV4kmNLeeSRzVg5wYhfyBhbcuoviPpMWDIr69CVwdSwCHYTm5W+Kj5RTW0VdRvDQHXpMqeGZeln6RAA6FszQVkvac4LgIEaVpOtLvVOtprNagalv5wdf7ioWXzs7kW5beN2b2DA==;kQ18SGY31BYIrHFZkwozsQ=="
+secured: "jy8DZLRY79l+PSvFKJpG0simqYALRUgJSyPeZ+iU8Wqyznf+vzbM81ZWg85BAAM3RYzJ0tyCgTbJsEklr/pHIx5zqtxuo48zKdeDliHVGb7KBLd2GZzjqP4ZuoftGZC24WdlNvN5HXYT6PoKJNlIwavODhWwjn5I+78HWRjiuskUrDqmSYVFkbZ47u1dtQS/F+xGioXUkYljQVx5JDO89PFSAado7EgDiPZ1h3uhZ1s+fLu9s7mpbSl+TqFF/vZW7P+55vTEYbm6OJxogVEQVsg70b0kY5lHQHpHV2/rzCBjuISItobnvaud2O1mCgbqjRKkPaGf5uC8EtWaOOhsItmVUQJmFtmHNBmwxzisQbM=;smPiMngsIWSOgShH98B8Kg=="
 ---
 

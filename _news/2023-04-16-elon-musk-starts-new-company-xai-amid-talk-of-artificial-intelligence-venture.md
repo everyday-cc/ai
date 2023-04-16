@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Elon Musk Starts New Company, X.AI, Amid Talk of Artificial Intelligence Venture"
-excerpt: "Web domains using the “.ai” suffix are popular with tech businesses pursuing artificial intelligence projects."
-publishedDateTime: 2023-04-16T05:47:00Z
-originalUrl: "https://www.barrons.com/articles/elon-musk-twitter-x-ai-bec69eab"
-webUrl: "https://www.barrons.com/articles/elon-musk-twitter-x-ai-bec69eab"
+excerpt: "The billionaire owner of Tesla and Twitter is named as a director in a business-incorporation document filed in March for a new company called X.ai Corp. Web domains using the “.ai” suffix — formally the “top-level” domain for the country of Anguilla — are popular with tech businesses pursuing artificial intelligence projects."
+publishedDateTime: 2023-04-15T23:09:00Z
+originalUrl: "https://www.barrons.com/articles/elon-musk-twitter-x-ai-bec69eab?refsec=hp_INTERESTS_media"
+webUrl: "https://www.barrons.com/articles/elon-musk-twitter-x-ai-bec69eab?refsec=hp_INTERESTS_media"
 ampWebUrl: "https://www.barrons.com/amp/articles/elon-musk-twitter-x-ai-bec69eab"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/elon-musk-twitter-x-ai-bec69eab"
 type: article
@@ -480,6 +480,6 @@ related:
       domain: marketwatch.com
     quality: 11
 
-secured: "1OZdjmU4CTZSLPOCZlv5kRVUVB2rf2lDAJ4P/w+G11DkmZgOKPevG2hfVh8VOcsr0xrCKo9RCZIoTjxp+xEM1A6XtX6CJdyEGhSq2yHh5ZJdx9dTFLeZneXN9gndcGeC3ozY2RVQEvm1kou/2nuAjIbsKp1WVIUgxyq/5MNzhHVs/Vkot2ZbNiwmf13PtqeDPZxVhIGGlIffbJs2sG56/ufIf7oXXu2L+nFhsP807pG3t5L5XEHJXxazJw6NORz9Zxmo1hxzz4q2sdcfPe4Xo140V5XVW1S5TGdzZ6Z0YhZtXu7skRCVCjVYnjpFp24d00vTeEI/GNe+XDADyPhqGpl0OUw0tZiESzAVDUTQ5UU=;sdehFf6/xElgcHNZ/VL2jw=="
+secured: "3k3p6mZrmHWAbe7ubee2+ljRjrT0mNlJxpyxsAi8Gs48ytnKt0x4pOQzsMXy2tU7oAWeu7s5Lt3/MU4NeJu00FBrcTPAxVNErBFLw42ZDkL331oWWGjlKUGpfGRPO9u1os8DXKbwgdxuUfdxdOMsG6nZQi5NynaqInkT2bEr1B+kaUKO5Upe5cvw/Uxz3Az5jkJ6igwMsdlIuROMwOtgnXuWW3oo38Z5I0r1taNl/BA6WtM6ax7dJFULpLTuqfwPQGnMjliuHRp9EVtRmjoXvKNbjC7KyIqC6BcBsfmT9Gx7bWbJ64L83hSEB6FRyAwL5WPE0I6QH0/j6gtnFA9ZwwhgPR/juYrq4fEgacYT1Y4=;w4Jnvmnuj2tMSyeY8CoBaw=="
 ---
 

@@ -153,9 +153,9 @@ related:
         height: 628
         isCached: true
   - title: "Elon Musk Starts New Company, X.AI, Amid Talk of Artificial Intelligence Venture"
-    excerpt: "Web domains using the “.ai” suffix are popular with tech businesses pursuing artificial intelligence projects."
-    publishedDateTime: 2023-04-16T05:47:00Z
-    webUrl: "https://www.barrons.com/articles/elon-musk-twitter-x-ai-bec69eab"
+    excerpt: "The billionaire owner of Tesla and Twitter is named as a director in a business-incorporation document filed in March for a new company called X.ai Corp. Web domains using the “.ai” suffix — formally the “top-level” domain for the country of Anguilla — are popular with tech businesses pursuing artificial intelligence projects."
+    publishedDateTime: 2023-04-15T23:09:00Z
+    webUrl: "https://www.barrons.com/articles/elon-musk-twitter-x-ai-bec69eab?refsec=hp_INTERESTS_media"
     ampWebUrl: "https://www.barrons.com/amp/articles/elon-musk-twitter-x-ai-bec69eab"
     cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/elon-musk-twitter-x-ai-bec69eab"
     type: article

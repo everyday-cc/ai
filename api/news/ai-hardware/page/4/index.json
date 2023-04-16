@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-10-is-the-finals-cpu-or-gpu-intensive.md",
+      "title": "Is The Finals CPU or GPU intensive?",
+      "excerpt": "and taking care of AI (Artificial Intelligence) decisions, such as the sort of random things NPCs get up in the background. Essentially the building blocks of the game. The GPU, or graphics card ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.videogamer.com/tech/is-the-finals-cpu-or-gpu-intensive/",
+      "originalUrl": "https://www.videogamer.com/tech/is-the-finals-cpu-or-gpu-intensive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.videogamer.com/wp-content/uploads/VideoGamer-Tech-Best-Picks-etc-Photopea-Friendly-1-14.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-10T02:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VideoGamer.com",
+        "domain": "videogamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-10-groq-adapts-metas-chatbot-for-its-own-chips-in-race-against-nvidia.md",
       "title": "Groq Adapts Meta's Chatbot For Its Own Chips In Race Against Nvidia",
       "excerpt": "Close up of the GroqNode product by Silicon Valley AI chip startup Groq, in Mountain View, California, U.S., July, 2022. Groq Inc./Mark Heaps/Handout via REUTERS Reuters Groq, a Silicon Valley ...",
@@ -1344,49 +1387,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips.md",
-      "title": "In the Whirl of ChatGPT, Startups See an Opening for Their AI Chips",
-      "excerpt": "The fascination with generative AI has spring-loaded demand for products that can help deliver on its promise. And startups are primed to pounce. ‘There’s new openings for attack,’ says one venture capitalist.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f?tpl=vc",
-      "originalUrl": "https://www.wsj.com/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f?tpl=vc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-27T12:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

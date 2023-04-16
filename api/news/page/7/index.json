@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-04-06-exclusive-driverless-taxis-in-dubai-by-end-of-2023-how-much-it-will-cost-where-you-will-find-the-cabs-revealed.md",
+      "title": "Exclusive: Driverless taxis in Dubai by end of 2023; how much it will cost, where you will find the cabs revealed",
+      "excerpt": "Ten self-driving taxis will be deployed for public use in Jumeirah area by the end of this year, with fares comparable to limo taxis, a senior official at ..",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/uae/dubais-jumeirah-first-to-have-driverless-taxis-for-public-use-by-end-of-2023",
+      "originalUrl": "https://www.khaleejtimes.com/uae/dubais-jumeirah-first-to-have-driverless-taxis-for-public-use-by-end-of-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T02:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-06-why-smart-language-models-are-the-key-to-accurate-ai.md",
       "title": "Why smart language models are the key to accurate AI",
       "excerpt": "Smart language models, an alternative way of using Natural Language Processing, are the key to accurate AI and help drive value in engineering",
@@ -932,49 +966,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-new-study-shows-the-potential-of-machine-learning-in-the-early-identification-of-people-with-inflammatory-arthritis.md",
-      "title": "New study shows the potential of machine learning in the early identification of people with inflammatory arthritis",
-      "excerpt": "A study by Swansea University has revealed how machine learning can help with the early detection of Ankylosing Spondylitis (AS) inflammatory arthritis and revolutionize how people are detected and diagnosed by their GPs.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-04-potential-machine-early-identification-people.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-04-potential-machine-early-identification-people.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/machine-learning-1.jpg",
-          "width": 1920,
-          "height": 1316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-04-potential-machine-early-identification-people.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-04-potential-machine-early-identification-people.amp",
-      "publishedDateTime": "2023-04-05T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

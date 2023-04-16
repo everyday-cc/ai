@@ -451,7 +451,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/14/how-to-make-sure-no-one-is-left-behind-in-the-era-of-ai-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -587,6 +587,60 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-video-conferencing-transcribing-market-growing-demand-and-trends-2023-to-2030-amazon-transcribe-nuance-google-ibm-watson.md",
+      "title": "Video Conferencing Transcribing Market Growing Demand and Trends 2023 to 2030 | Amazon Transcribe, Nuance, Google, IBM WATSON",
+      "excerpt": "TheVideo Conferencing Transcribing Market Report is a categorized analysis of local and global markets that provides",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/video-conferencing-transcribing-market-growing-demand-and-trends-2023-to-2030-amazon-transcribe-nuance-google-ibm-watson-2023-04-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/video-conferencing-transcribing-market-growing-demand-and-trends-2023-to-2030-amazon-transcribe-nuance-google-ibm-watson-2023-04-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T21:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing",
+        "AWS AI"
       ]
     },
     {
@@ -1179,57 +1233,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-13-this-podcast-is-not-hosted-by-ai-voice-clones-we-swear.md",
-      "title": "This Podcast Is Not Hosted by AI Voice Clones. We Swear",
-      "excerpt": "This week on Gadget Lab, we use a set of software tools to create robo versions of our real voices and see how they stack up.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/gadget-lab-podcast-594/",
-      "originalUrl": "https://www.wired.com/story/gadget-lab-podcast-594/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64370840abe4e3389a6ff5a1/191:100/w_1280,c_limit/Gadget-Lab-Podcast--AI-Voice-Clones-on-Podcasts-Gear-GettyImages-1317150029.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

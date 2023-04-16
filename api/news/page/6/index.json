@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-04-07-ltx-corporate-bond-trading-moves-to-aws-for-better-ai.md",
+      "title": "LTX Corporate Bond Trading Moves To AWS For Better AI",
+      "excerpt": "LTX has migrated its electronic trading platform for corporate bonds to Amazon Web Services (AWS). The company, a subsidiary of Broadridge Financial Solutions, Inc., said it will use AWS to better optimize its data science processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomgroenfeldt/2023/04/06/ltx-corporate-bond-trading-moves-to-aws-for-better-ai/",
+      "originalUrl": "https://www.forbes.com/sites/tomgroenfeldt/2023/04/06/ltx-corporate-bond-trading-moves-to-aws-for-better-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-07-google-owner-alphabet-says-its-chips-can-beat-nvidias-what-this-means-for-ai.md",
       "title": "Google-Owner Alphabet Says Its Chips Can Beat Nvidia’s. What This Means for AI.",
       "excerpt": "Scientists at Google say their supercomputer is up to 1.7 times faster than a system based on the A100 chip produced by Nvidia.",
@@ -933,40 +976,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-exclusive-driverless-taxis-in-dubai-by-end-of-2023-how-much-it-will-cost-where-you-will-find-the-cabs-revealed.md",
-      "title": "Exclusive: Driverless taxis in Dubai by end of 2023; how much it will cost, where you will find the cabs revealed",
-      "excerpt": "Ten self-driving taxis will be deployed for public use in Jumeirah area by the end of this year, with fares comparable to limo taxis, a senior official at ..",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/uae/dubais-jumeirah-first-to-have-driverless-taxis-for-public-use-by-end-of-2023",
-      "originalUrl": "https://www.khaleejtimes.com/uae/dubais-jumeirah-first-to-have-driverless-taxis-for-public-use-by-end-of-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T02:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -44,20 +44,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "The Ethics of AI Art"
-    excerpt: "But the AI trend, art created entirely by artificial intelligence, is facing significant criticism because of its personal impact, requiring less involvement from the creator and using other artists’ original work without permission or credit."
-    publishedDateTime: 2023-04-11T13:36:00Z
-    webUrl: "https://www.mutualart.com/Article/The-Ethics-of-AI-Art/B1AAFE84D62BB4AC"
-    type: article
-    provider:
-      name: MutualArt.com
-      domain: mutualart.com
-    quality: 54
-    images:
-      - url: "https://media.mutualart.com/Images/2023_04/10/11/111937066/d8af53bd-73df-40a8-9b68-bf7377a6e46c_570.Jpeg"
-        width: 512
-        height: 400
-        isCached: true
   - title: "Why Big Food Is Looking To AI To Shape The Future Of Food"
     excerpt: "This week, French dairy giant Bel Group announced they had entered into a partnership with Climax Foods, an AI-driven food startup founded by former Google head of data science and astrophysicist Oliver Zahn. The collaboration seeks to harness the power of ..."
     publishedDateTime: 2023-04-14T19:46:00Z

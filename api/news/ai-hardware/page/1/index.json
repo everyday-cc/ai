@@ -925,6 +925,40 @@
       ]
     },
     {
+      "path": "_news/2023-04-04-adlink-launches-portable-gpu-accelerator-with-nvidia-rtx-a500.md",
+      "title": "Adlink launches portable GPU accelerator with NVIDIA RTX A500",
+      "excerpt": "ADLINK Technology Inc., a global leader in edge computing, today launched Pocket AI - the first ever ultra-portable GPU accelerator to offer exceptional power at a cost-effective price point.",
+      "sourceUrl": null,
+      "webUrl": "https://www.guru3d.com/news-story/adlink-launches-portable-gpu-accelerator-with-nvidia-rtx-a500.html",
+      "originalUrl": "https://www.guru3d.com/news-story/adlink-launches-portable-gpu-accelerator-with-nvidia-rtx-a500.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T01:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guru3D.com",
+        "domain": "guru3d.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-01-april-1st-nzxt-gpu-ai-fans-and-other-incredible-tech-innovations.md",
       "title": "April 1st, NZXT GPU, AI Fans and Other Incredible Tech Innovations",
       "excerpt": "This GPU sports a white minimalist squared design ... XPG this year announced that they would be taking a step into AI and introduced the XPG 1337GPT. XPG understands that gamers can have ...",
@@ -1309,60 +1343,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-edge-artificial-intelligence-ai-chip-market-application-product-sales-and-forecast-2023-2031.md",
-      "title": "Edge Artificial Intelligence (AI) Chip Market Application, Product, Sales and Forecast 2023-2031",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- \"Edge Artificial Intelligence (AI) Chip Market\" Report covers specified competitive outlook consisting of the market proportion and company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-application-product-sales-and-forecast-2023-2031-2023-03-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-application-product-sales-and-forecast-2023-2031-2023-03-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 595,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales",
-        "AI in Robotics"
       ]
     }
   ],

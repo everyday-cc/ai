@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "These films predicted the future of science. How right were they?"
+    excerpt: "\"As audiences, we love both optimistic and pessimistic science-fiction films.\" Lisa Yaszek, professor at Georgia Tech."
+    publishedDateTime: 2023-04-14T17:13:00Z
+    webUrl: "https://www.cbsnews.com/atlanta/news/these-films-predicted-the-future-of-science-how-right-were-they/"
+    ampWebUrl: "https://www.cbsnews.com/amp/atlanta/news/these-films-predicted-the-future-of-science-how-right-were-they/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/atlanta/news/these-films-predicted-the-future-of-science-how-right-were-they/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 44
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/14/2c9b00cc-8fc4-4b81-9cb4-1725619f228f/thumbnail/1200x630/4b1e2fcfc70cc6ea9999adceb18a60ff/hypatia-h-304c049b19523c5d188b817b7050d8f1-h-5d7249b870670b58b4a20842e2846e69.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "In predicting the future of science, a few classic films got it eerily right"
     excerpt: "By Scottie Andrew, CNN Great sci-fi films are both fantastical and prescient. They can whisk viewers to a galaxy far, far away or exaggerate real scenarios on a fictionalized version of our planet. Bu"
     publishedDateTime: 2023-04-14T16:18:00Z
@@ -71,16 +87,7 @@ related:
         width: 500
         height: 280
         isCached: true
-  - title: "These films predicted the future of science. How right were they?"
-    excerpt: "Films such as \"Gattaca,\" \"Her\" and even \"M3GAN\" have predicted what our future might look like if developments in genetic editing and AI accelerate. Here's what those films get right — and what's still the stuff of science fiction."
-    publishedDateTime: 2023-04-14T20:03:00Z
-    webUrl: "https://www.cbsnews.com/detroit/news/these-films-predicted-the-future-of-science-how-right-were-they/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 4
 
-secured: "ZJrx9rLVmaoHiYjOn6CIXTlAzfzPNs1zZr74QDgNqRtmDT3PggqwyM71WCgZjPldM5J6wKY312qy7aLX5NCfxWIKwAXgKrMn9qTFY6fvs5AaXNAHFt40mzUPsXNptd/cDk5ySIkb3KdjHZKb45nqt7MCvTfEL8CYtqAa8pvNsNpPBQtblwUK5Tl4RUn+h7M5hp38Bu6DFvvZqUOHSVE2/SS7Mf1a9UuTSQhAYI3y7Tm+VC1cWaH/W5YvxU/Dyj5CCOzafh6+rBwp5VoicCKVM5/XWjL1qEoH0NzXjR5NlxaztI8KmRKK2veO83xUKa1g8T+bwAVLTjsNwzJl7JQwz1kpjZZ03OUvTTEhD/S2fW0=;wBY5KpQIOnGFXBvKrYAnxQ=="
+secured: "4BukOCSpd+r0s9RpM4twgQa3QTyHUOsHJayZMh5zL5LBRF4E7hXwDapgLnUKpQHKxM8P7H/y8K18VXiDsYOvDdE1WMr2WpWNsB0C+I/A7Ren6auLfMx4jDj1g5gh0H63MK0Eb9RMrFdFIwM80auTKTdiI5fX9K01BAqymg2CrGMSDbP52UlYQwiH6OqHzZKjEl8f0XxuOn5ydbBNFCAEpd0A61+Dd1i43jXHoSQUaAiKCcbVs1eyxr3RUoFP8a01rZRwHiSYwG7C+li4DrhFdGA/e198KRZjwFrrX6QZdgMgmYI7YxPZXP/Zpmc0JsVxBU7HKGCzz+Jt8bCXjw99+hP5LJKzAZX1FtA8o6SAEd/VCOF7mT0RSroSY9lKKkicxLetzyvEpWlT4R7jwlYRLM9LGNOH2XM4CsmRZ1y7QyBhnthv6GE3rXVvA5M+IoArw+AMD0yWF+x1uspX+Qv8g39LQzE9AGfrqJLZYZ+T+32TPpuTQXk3HYyeHgFVAPdu82Iq++Q0F9W08uLVNEtjBw==;xSrxL6eSP14ohPCHo9svlA=="
 ---
 
