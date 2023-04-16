@@ -3,18 +3,18 @@ category: news
 title: "A few classic films made predictions about the science of the future. A few got it eerily right"
 excerpt: "Here's what some notable films get right about science and tech — and what's still the stuff of science fiction."
 publishedDateTime: 2023-04-15T01:05:00Z
-originalUrl: "https://www.wlwt.com/article/films-predictions-science-future/43605947"
-webUrl: "https://www.wlwt.com/article/films-predictions-science-future/43605947"
-ampWebUrl: "https://www.wlwt.com/amp/article/films-predictions-science-future/43605947"
-cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/films-predictions-science-future/43605947"
+originalUrl: "https://www.wtae.com/article/films-predictions-science-future/43605947"
+webUrl: "https://www.wtae.com/article/films-predictions-science-future/43605947"
+ampWebUrl: "https://www.wtae.com/amp/article/films-predictions-science-future/43605947"
+cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/films-predictions-science-future/43605947"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: WLWT
-  domain: wlwt.com
+  name: WTAE-TV
+  domain: wtae.com
 
 topics:
   - AI in Healthcare
@@ -81,6 +81,6 @@ related:
       domain: cbsnews.com
     quality: 4
 
-secured: "DnnOGxrUrL7x180x+gf6bcSLtLJ4VT8NfagIqsnsxjuw84Y3B0nRl6U+zg07/iDIzrGOXaGKJetgyoHrqOCEm1EgDelWKPqP6+31Jhb8uzR7bb/jaNVUdvH3bzwARcPHSgpHttdXo7kp1wBCTQ+iIgoFnP7HSDJwH/vEiToyxH2E7e0/GHjoADQ/UoFp750SXjT8SnmuHqBJwVB8lEaRuOeSWysVHn2MZWmvzF48+WCqqvJRMvzz2YDMAhqixgte2ToxnTOup1skl/fjwzs+xeFy101XmdRW/UlnaqH4fImxfJuec1uDtOaV7K8AmLryuROfE1mxWodyiM1oSvdL9mtB52De6HEg69oI81/IlB8=;4wIDBMqsa4ha/XvTPBqNBA=="
+secured: "UkxIjXE8grj0dAdZH3m02dM/cU4P9Eaxoo7Q3nTKc8RlpzuGQggClYTM4LpWm6QQ9yHx/6mWgn3Vsz1pdZVsPIIGK3xB8bneIcZYbOj7IZyWbwY3Peqj4pi4kLVJqHi5EgnzBCkyEFbbIqfL+DAz0wmyVqPoNhM1qWRVy2cpDcy9Ih1dwNgkwej4wHxkmWBme/WXkVT/1RvQJ3UrCkblIlj2Kb07Kmfoklvr3XTVPv2Qty+1nZZLvcFehM6UXIBXs0ylM5VaOqpwx/OGFD3LdO5qy+4pZXOc+WNQhWqycaO8qE5934q9NKBqRuaVH+UUrVsJVR2oMb47tafr395D21h3e8EnGUF/nU9JXHfKNhQ=;j7p/0upqQ5bPATlDHJDSPg=="
 ---
 

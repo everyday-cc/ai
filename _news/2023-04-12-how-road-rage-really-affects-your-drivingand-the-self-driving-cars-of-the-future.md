@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech Recognition Market Key Players and Forecast till 2031"
-    excerpt: "The latest market research report on the Global \"Speech Recognition Market\" is segmented by Regions, Country, Company"
-    publishedDateTime: 2023-04-13T05:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-key-players-and-forecast-till-2031-2023-04-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
 
 secured: "Q6Z7j8Ah79dfUQnMmf95oEZy2IGKnRGnWeWokVNBvkPeLgkm0TRQANWIQf9gnVIHNwisPQrIfmRyfIJeaOjw0xjL0ec2HwL2mhD1ski3ouUyGSffTzNPKi0nWBXeiPBa6AJgt8S4K9s3l9bypdmCCQkhGWyo9FxbWmcf0TxJc5q8hrYCBAtrkuG+TE71YGghOQC5kUKxhviYw7d/MEQJwh6Zw1BAubJ85AxEdI/7f+nvi0Z9mgTpxvo+CIiNsaDWBWppMTc72WOASeCjtIqLx/6qoFn5lN0YwvDQJSHg8p17wXFsK0FwTpN9xLHpIUaK+Ic/XMEgb4Gks1BI8HACettRD2mm8C0vr3a9bcjGtS3lJql6MN6U+lL+7WocDAJm/VqLSHD1oNCSNIKBnafJDiuICAnLZJR8SLGOAXYaBPyafcfO0E/1HQFN1enpEJtFC5Kn6OIrbWrDRt6gRe9No+//bmgwaM8CaTAJTvyDVYTdD/vxlNtmTIgqDuF4nnB3UoZA5WJvpxdSMSCdaLokjA==;98lVmTzfVYnWwwE5jqfXxQ=="
 ---

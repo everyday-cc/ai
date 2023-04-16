@@ -3,10 +3,12 @@ category: news
 title: "Amazon jumps into the generative AI race with new cloud service"
 excerpt: "The announcement indicates the largest provider of cloud infrastructure won’t be leaving a trendy growth area to challengers such as Google and Microsoft."
 publishedDateTime: 2023-04-14T01:22:00Z
-originalUrl: "https://www.nbcnews.com/tech/tech-news/amazon-jumps-generative-race-new-cloud-service-rcna79599?ref=upstract.com"
-webUrl: "https://www.nbcnews.com/tech/tech-news/amazon-jumps-generative-race-new-cloud-service-rcna79599?ref=upstract.com"
+originalUrl: "https://www.nbcnews.com/tech/tech-news/amazon-jumps-generative-race-new-cloud-service-rcna79599"
+webUrl: "https://www.nbcnews.com/tech/tech-news/amazon-jumps-generative-race-new-cloud-service-rcna79599"
+ampWebUrl: "https://www.nbcnews.com/news/amp/rcna79599"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna79599"
 type: article
-quality: 49
+quality: 87
 heat: -1
 published: false
 
@@ -15,8 +17,13 @@ provider:
   domain: nbcnews.com
 
 topics:
-  - AWS AI
   - AI
+
+images:
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211215-las-vegas-the-venetian-expo-aws-ac-1159p-b07aeb.jpg"
+    width: 2500
+    height: 1663
+    isCached: true
 
 related:
   - title: "Amazon launches Bedrock for generative AI, escalating AI cloud wars"
@@ -351,6 +358,6 @@ related:
       domain: thedrum.com
     quality: 11
 
-secured: "t88Nit/3DGfICjivKsU12YXqzG0dc8FL0UH1sOezJer1pZsSGlGqZn4n7wNpdP10aFj+tZs9vy2bgDSzCtQDlQEVeS4A7vegMjSX4ttEuoDCzgR8yPEg27TvU21hBBSS4ejzp09JwJRlQEELMKFU8BYOEMnFE3KvCwwKNJCJzmsLIf5s2afhecp/FXQpzA1Uqij+DtFPZa7aBOgfokeiYBNH353B/Vn5JDwG4mDvvWoK3YE1cNGNx9cbEUc4yTPWtTvasNJIDjFd23mPGLTJsi9Ouo1/3QNoeSeXKnhVzxaDSgVhpVfwJlISSYyJApFWV/bXoN3pNM7LS04iKw/AEpKfCruomwjiLgS/ODc552O4ptzYUy8xDeiCVNoz4ekLIUwqf0le1/jIjNOMiw6D4DztXKUJf3CZZm5gY585kr2yJFifNkRsLAiUMjXwDgwVznBjqDos1jKuJHriHQlQgf4lOVp1roURmgNrJY0YdIqj9ftPvcbuadsteC0vauDuKyFcACN2uBahEAzwyFB8mQ==;l4Ay4yvas1P5Nnlp1Pj/gw=="
+secured: "g0W/3CmX5yQQkIuGbZd6JdqdAewVwjHShHYWluzX0Lu3wJE8pNp0IjoZyQRBZIzLg4vh1XhtktsM8D/6VYfUCt61guMh03J/2CkQuoQX07RH/cD9AhHSncqYxmZleHWKkdxBeckQHXABqbMTs4B3bvsJrUe+T2xmCHTQI0DuuDbjSsaabCLCdcp9xZctkllvB2t4AYrSbOHiHN434frXHlI92HXpcXW3O0psBtHaPC8ejkCL+yGvJv44mh3V5kWIMMh9cXbi6iEYnmANiEEJLQ4rPmp8OCs6UCnvZlEioIVCVqKxNhv+UXJ+0gT6TFreCdUij+89dqhnGIPZJu5tOd6QRg7ZByCzlXMa3ayBoEo=;FPDO03LipvSAWb/VKa1k3g=="
 ---
 

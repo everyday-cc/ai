@@ -106,6 +106,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
+  - title: "Computer Vision Development market Outlook: Forecasting Market Value and Revenue with an expected CAGR value of 6.9% period of 2023 - 2030"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 15, 2023 (Prime PR Wire via Comtex) -- This \"Computer Vision Development Market\" Report provides detailed information regarding factors influencing the growth of the ..."
+    publishedDateTime: 2023-04-16T00:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-development-market-outlook-forecasting-market-value-and-revenue-with-an-expected-cagr-value-of-69-period-of-2023---2030-2023-04-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "TS8L+kec1PS3PYP2h6syfvs/UDMxGvQjkVNvBcHzD4Wf+10xCy/nXuW+VvdvQTFanJV9bUDMY2JGngsnzl2Fkp7PusgBeqacJzHcOT+uuyRM0hOdN1VTsV5J8TpaxJf7ajC+B9SzKoSvP8XQb9hLynJdPDxau1PB7aHgE+RWHR85eAW0WVpOlWKlFVMbYgJsRwfoxOJxF586ZwShsFDEoI1Qv1UL0te31Y2HhZl79Mf1xRotIZ+ldfZJwbL/yadxi0rUhPRV5LuufsWp8mSzWnGB+IejwCTfJOoopE9iUszJKja5NcQ2CFbSNZ9l5rKgHsmLqtz3HXon8zFD6poqdwdo77FrxW1NfdXXbbLimwY=;Mc0YFM8UjYi0m1wF9/1X9g=="
 ---

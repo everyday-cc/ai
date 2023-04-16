@@ -3,8 +3,8 @@ category: news
 title: "How ChatGPT and similar AI will disrupt education"
 excerpt: "The new chatbot ChatGPT and other generative AI encourage cheating and offer up incorrect info, but they could also be used for good."
 publishedDateTime: 2023-04-12T11:00:00Z
-originalUrl: "https://www.sciencenews.org/article/chatgpt-ai-artificial-intelligence-education-cheating-accuracy?utm"
-webUrl: "https://www.sciencenews.org/article/chatgpt-ai-artificial-intelligence-education-cheating-accuracy?utm"
+originalUrl: "https://www.sciencenews.org/article/chatgpt-ai-artificial-intelligence-education-cheating-accuracy"
+webUrl: "https://www.sciencenews.org/article/chatgpt-ai-artificial-intelligence-education-cheating-accuracy"
 type: article
 quality: 56
 heat: -1
@@ -257,6 +257,6 @@ related:
         height: 675
         isCached: true
 
-secured: "sJJ93tnQ0Jh+0PcNW1RATPI32tZqlfs9LjfC+Af3PRdeFQTCogTiwEYPgLe+MyswR1Ygl0h1PWPIhDmSuObBhp708NKP8oP1bDX+p6w4kPTZZjf2NxLmbW72fpSHLTS8yjmBb332ODbz6U7EMPOHChjDt9HhcAHP+aEptS9jwW15LHieNDWtS1YYoR52aZxJR3zHV7v7CqmnLt7EAcR0BX4d5IiuDgUvfkez72alpQSIO4weNj+Myffca01BxtG4MPgXyY+YcyHTRO4hlP1FrJo1UEjiAdLDLnYWCren64R4yOfOT0OU57BgapZezEGXHch3Epu25sNnTosCoQ3D5GDLSrk5zx2C1Amc4Ak9tdakAqE6TSSn0skamWz2bwMiwC6nSwKTKRmca01lT1fd51QER9FgaVp6CkTUF7kMuvNiQ2bWAx54ETl1u0QVX1vKSGITAs4byUItdxuOHU6U9QsS/5aSsUfzxfshjB/q050j6eqsX+e3r9MAFHMLV+EV5NWDhHg7fnxlY1gyTN+mUQ==;/J26H54RX3gj4bXxZvvM4w=="
+secured: "j47y63cfLE1qjVQzDMXp0ViNkoqQI2/kR61AktRflQw8MHnpPlO0jiyPwe+UhHsv0fpsVwTIYqm5mdRg53CnnKQKs9NvAeqQTUUFwE+w56DfIjUB8v1qhNk0hiJmY3L9++DJ5+p22EWI869z/Chb1wPOLEOg1IsvPNM8idU5+g6eCMXLQ/F7cc+CrasG9DsGU9vsV5aJaCkUIh4w73xDvwrMQUf+JWJkXdS+aaohvqjRNWqBkNrsPQaqj7OQPX0HVapyDY3G88dA9pGZ4mxc0i0dHxM1/h02cvHgEyv74L2AMs9vLNgfGngYjdaTuyeGdOaj4ndUOz8kBlnKrS01d0dT6vaBvOCFwdI2+sA7kxw=;mJ1f5QDJp2i8911dBSaQSQ=="
 ---
 

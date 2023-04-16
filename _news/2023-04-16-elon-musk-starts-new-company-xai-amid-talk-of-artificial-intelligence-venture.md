@@ -2,11 +2,13 @@
 category: news
 title: "Elon Musk Starts New Company, X.AI, Amid Talk of Artificial Intelligence Venture"
 excerpt: "Web domains using the “.ai” suffix are popular with tech businesses pursuing artificial intelligence projects."
-publishedDateTime: 2023-04-15T19:09:00Z
-originalUrl: "https://www.barrons.com/articles/elon-musk-twitter-x-ai-bec69eab"
-webUrl: "https://www.barrons.com/articles/elon-musk-twitter-x-ai-bec69eab"
+publishedDateTime: 2023-04-15T23:09:00Z
+originalUrl: "https://www.barrons.com/articles/elon-musk-twitter-x-ai-bec69eab?refsec=markets"
+webUrl: "https://www.barrons.com/articles/elon-musk-twitter-x-ai-bec69eab?refsec=markets"
+ampWebUrl: "https://www.barrons.com/amp/articles/elon-musk-twitter-x-ai-bec69eab"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/elon-musk-twitter-x-ai-bec69eab"
 type: article
-quality: 27
+quality: 67
 heat: -1
 published: false
 
@@ -16,6 +18,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://images.barrons.com/im-764324/social"
+    width: 1280
+    height: 640
+    isCached: true
 
 related:
   - title: "Elon Musk quietly starts X.AI, a new artificial intelligence company to challenge OpenAI"
@@ -456,6 +464,6 @@ related:
       domain: marketwatch.com
     quality: 11
 
-secured: "VP6kGzT91Oy9QtFOX8X2L3bEVqCn15Cha+NbDxBSln+cYOyEjAXeBs91hi1RyJKiDmJtg38FnSqpIgAOqpqGSo3WCe9SLDBKTmgkoJoadff/8JehJiVbTRIysNTw3y30PmzOaRodOD5F7HAlZm+XcRU6mZiDGZLziLM+E/WAMzLZYoVKmUeTBr8KmZ8Yrda/tLvsmPG+7fbe2XV62/DVaJaiAThUExNrJxMzi5F5riujTRZusj+J8IRsqgfZvsJTW6mP8bHosBOdzgiDlBSZxghGx71ObXz2YhZHauz/AVzpGe6MbqFrnqszi8FAZKBLesvkbkpOEqX58mDlHzwSIGv3XoFeNUrlUuZjEs74WhOm4rr8TW5kPokF5MXTusixfe1eIc8hx4hn2Khi9DXAtNwSZr3mHIspXGHnFBUzkZtlmlOflnmfyggr+cRCy7ySB1Frv0qmB/nRJFFAXOJTWssvqBl5hTYAyAsvVtFiOz5bHExZRPhuNXR8JAOUPQojjJiGgBos+W7NZBTCpLkBAA==;zxrebb2K1YBnVj3wXXbnsQ=="
+secured: "mOO02//2QEu5+zqlS/PkmP/KVxVjrNj+U8Gm8q/3OZyoBdypvnMx2kBl/bRWCp1OxvaVK7u7Y3MkKYpCKBlPNygzEy3Cy9jACF38OGFjzi9Bw/stwM5rlFV2eW6pZVyk8nr2ly/VSMMbU6+YXRKeFomBG5CIMHmilVNJn13RD+TTEAWye3yGoCyVu1Aos1ca38OWHX/UcRpGqZYkP7Ieeaus1r3liP0f9auBpBQhGy9ZyJv2++vQG7Z2oj/tVjDhe/DWCdsMTilPTzPHxRKHJgQbE6XmEunqdEiQeIlaJzxlY9z7uZ1TraBWZEHYYnIZ1OvbJQTkqgRcWQ96/90Oby0J5Vybdl9jjxUI9MoFqu4=;vJxAdLfnx1t9MBn2/u5z4A=="
 ---
 

@@ -23,43 +23,61 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving Vehicles Market Future Investments and Forecast Till 2028"
-    excerpt: "The research report on the Self-driving Vehicles Market presents an efficient industry perspective, future patterns,"
-    publishedDateTime: 2023-04-13T10:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market-future-investments-and-forecast-till-2028-2023-04-13"
+  - title: "2023 Automatic Speech Recognition Market : Leading Growth Drivers Analysis till 2030"
+    excerpt: "Apr 14, 2023 (The Expresswire) -- \"Automatic Speech Recognition Market\" information for each competitor includes (Validsoft Ltd, Agnito, Voxeo,"
+    publishedDateTime: 2023-04-14T16:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-automatic-speech-recognition-market-leading-growth-drivers-analysis-till-2030-2023-04-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-Driving Car Market Forecasted from 2023-2031"
-    excerpt: "The \" Self-Driving Car Market \"Study offers comprehensive information and statistics on markets in the current"
-    publishedDateTime: 2023-04-14T01:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-forecasted-from-2023-2031-2023-04-13"
+  - title: "Speech and Voice Recognition Market is Booming Worldwide Throughout 2023-2030"
+    excerpt: "The Global Speech and Voice Recognition Market is Forecasted to Reach a Multimillion-Dollar Valuation by 2030, Exhibiting an Unexpected CAGR During the Forecast Period of 2023-2030, as Compared to Data from 2016 to 2022."
+    publishedDateTime: 2023-04-12T07:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-is-booming-worldwide-throughout-2023-2030-2023-04-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "How road rage really affects your driving—and the self-driving cars of the future"
-    excerpt: "New research by the University of Warwick has identified characteristics of aggressive driving—which impact both road users and the transition to self-driving cars of the future."
-    publishedDateTime: 2023-04-11T20:10:00Z
-    webUrl: "https://techxplore.com/news/2023-04-road-rage-affects-drivingand-self-driving.html"
+  - title: "Facial Recognition Market Analysis Future Outlook Forecast 2023 to 2031"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 14, 2023 (Alliance News via COMTEX) -- Facial recognition is a biometric technology which is used for authentication and identification of individuals, by comparing the ..."
+    publishedDateTime: 2023-04-14T13:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-analysis-future-outlook-forecast-2023-to-2031-2023-04-14"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+  - title: "Facial Recognition Market 2023 Expected to Reach Significant Rate by 2030"
+    excerpt: "Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (Neurotechnology, Nviso, Cognitec Systems,"
+    publishedDateTime: 2023-04-13T06:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-expected-to-reach-significant-rate-by-2030-2023-04-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+  - title: "The Speech and Voice Recognition Technology Market is Poised to Experience Huge Growth to 2023"
+    excerpt: "Speech and Voice Recognition Technology Market Size 2023 | New Report (117 Pages) | Analytics | In This Reports Speech"
+    publishedDateTime: 2023-04-13T06:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-speech-and-voice-recognition-technology-market-is-poised-to-experience-huge-growth-to-2023-2023-04-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
 
 secured: "m9fpCkQiOsmJS+Er2becQXSM3jDH381DjTeDsAfZ0+VpldYWtV/uF094swJVofL3jIsaMi447XHpnw7X8mMgbZcA99RMlBdtR1ppvvFpjBqyQEY2m6vgLPxoCrMnw+uyn9G0MGzlMX3rBjGSFw1nhvdma8X0yhAtj/kqCRJJ79yiE64S3Nr1NrDoxF3f2edgeoeHPWBH6u1PYMrXi5LxlsgJgAIHziZ0uxCTN8edGoY/CLHFbdwdibPgscTuRi13ECwng2JRXCQu3+GyIzhTx/vvj313PCT6FCb1GlLHv5ZfN9BHntB0dO9fNAF+dWKyvATyoD76SrZdmxdyLP/xl72xRL5CR8SBZfwPqoT5/0A=;rCGhNUHITemP1SsYL8Mq/A=="
 ---

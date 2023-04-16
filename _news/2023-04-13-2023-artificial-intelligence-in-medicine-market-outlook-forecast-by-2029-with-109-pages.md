@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-in-medicine-market-outlook-forecast-by-2029-with-109-pages-2023-04-13"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Facial Recognition Market Analysis Future Outlook Forecast 2023 to 2031"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 14, 2023 (Alliance News via COMTEX) -- Facial recognition is a biometric technology which is used for authentication and identification of individuals, by comparing the ..."
-    publishedDateTime: 2023-04-14T13:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-analysis-future-outlook-forecast-2023-to-2031-2023-04-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
 
 secured: "msSkDAqL3Mrnn00aXOa2Dz1CAhJ/bUTuDPPxGG6xzv0nznq2V7VLipOo1vaEsRnB//yR7YWPDq2gZcpoz8YTht66n5kgg9DSuaalhaeja8By0rYrB4L/vXDTg1CJDdKM8n6FsMr8mCe8LXzTgzdE8b1sghH7zpoi83bJXl9lhG+DrS+lSmxs+BvDtXz1ZBtdSVcknreVqduPvqVm2LVmCKdjiU6hAU4/XH9QrorbXNJHxmyYILl/R6Ol6/NYmKlD8U850Su9wSk5FCl1UAwopLYr6D0ChyFUQkvgT/hrpsyCdfPLFCaceHYyvyBsBeZsjtaGxZqQ1403lsrW0imr/pAEy6cypaXWV/SPqzM8FvSIMeRRJSywW05qFOYHg/8OyTVyt7+rnW7r7OWYoyib9gCrRBQA77KDHktAX7tjJ/U9GfmxqhhHKM9rLJ5EB2/jHXyHEAzeOBR/v/1jCqBMHKVf7mgokySsW+xdIyexQ/LJerbwISk8eNRd2K92wi7lSxSVYZ5Ig68lgh0tD/Kerw==;FmT0xZQ9DZ8U5b381nkY1Q=="
 ---

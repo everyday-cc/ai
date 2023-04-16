@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Amazon jumps into the generative AI race with new cloud service"
+    excerpt: "The announcement indicates the largest provider of cloud infrastructure won’t be leaving a trendy growth area to challengers such as Google and Microsoft."
+    publishedDateTime: 2023-04-14T01:22:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/amazon-jumps-generative-race-new-cloud-service-rcna79599"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna79599"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna79599"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211215-las-vegas-the-venetian-expo-aws-ac-1159p-b07aeb.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
   - title: "3 generative AI misunderstandings resolved for enterprise success"
     excerpt: "ChatGPT, Bing AI and other generative AI tools have arrived. Will we surrender to the algorithms, or is there more nuance to the story?"
     publishedDateTime: 2023-04-15T00:07:00Z
@@ -176,15 +192,6 @@ related:
     provider:
       name: Ars Technica
       domain: arstechnica.com
-    quality: 49
-  - title: "Amazon jumps into the generative AI race with new cloud service"
-    excerpt: "The announcement indicates the largest provider of cloud infrastructure won’t be leaving a trendy growth area to challengers such as Google and Microsoft."
-    publishedDateTime: 2023-04-14T01:22:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/amazon-jumps-generative-race-new-cloud-service-rcna79599?ref=upstract.com"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
     quality: 49
   - title: "Amazon Makes a Push for More AI Coming Your Way"
     excerpt: "AWS also announced the general availability of Amazon CodeWhisperer, an AI coding companion. AWS said CodeWhisperer is the fastest, most accurate and most secure way to generate code for Amazon services. AWS is making CodeWhisperer free for anyone to use."

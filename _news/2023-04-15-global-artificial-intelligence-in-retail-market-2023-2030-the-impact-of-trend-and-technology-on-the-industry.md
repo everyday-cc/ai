@@ -97,6 +97,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
+  - title: "Computer Vision Development market Outlook: Forecasting Market Value and Revenue with an expected CAGR value of 6.9% period of 2023 - 2030"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 15, 2023 (Prime PR Wire via Comtex) -- This \"Computer Vision Development Market\" Report provides detailed information regarding factors influencing the growth of the ..."
+    publishedDateTime: 2023-04-16T00:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-development-market-outlook-forecasting-market-value-and-revenue-with-an-expected-cagr-value-of-69-period-of-2023---2030-2023-04-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "\"Data Science and Machine Learning Service Market\" Size 2023 Will Grow Rapidly Another Level in The Forthcoming Year 2030"
     excerpt: "Data Science and Machine Learning Service Market Size With forecast period 2023-2030 | New Report (102 Pages) |"
     publishedDateTime: 2023-04-12T06:50:00Z

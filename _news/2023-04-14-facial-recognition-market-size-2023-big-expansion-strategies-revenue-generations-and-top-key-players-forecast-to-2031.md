@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-2023-big-expansion-strategies-revenue-generations-and-top-key-players-forecast-to-2031-2023-04-14"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -29,38 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "Speech and Voice Recognition Market is Booming Worldwide Throughout 2023-2030"
-    excerpt: "The Global Speech and Voice Recognition Market is Forecasted to Reach a Multimillion-Dollar Valuation by 2030, Exhibiting an Unexpected CAGR During the Forecast Period of 2023-2030, as Compared to Data from 2016 to 2022."
-    publishedDateTime: 2023-04-12T07:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-is-booming-worldwide-throughout-2023-2030-2023-04-12"
+  - title: "Mobile Photo Printer Sales to Generate 3.7 Billion by 2031; Portable Photo Printer Segment to Lead the Industry, States Transparency Market Research"
+    excerpt: "Transparency Market Research Inc. -The global mobile photo printer market was valued at US$ 2.1 Bn in 2022 and is anticipated to reach US$ 3.7 Bn"
+    publishedDateTime: 2023-04-12T16:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/04/g31773190/mobile-photo-printer-sales-to-generate-3-7-billion-by-2031-portable-photo-printer-segment-to-lead-"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 2
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Facial Recognition Market 2023 Expected to Reach Significant Rate by 2030"
-    excerpt: "Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (Neurotechnology, Nviso, Cognitec Systems,"
-    publishedDateTime: 2023-04-13T06:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-expected-to-reach-significant-rate-by-2030-2023-04-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-  - title: "The Speech and Voice Recognition Technology Market is Poised to Experience Huge Growth to 2023"
-    excerpt: "Speech and Voice Recognition Technology Market Size 2023 | New Report (117 Pages) | Analytics | In This Reports Speech"
-    publishedDateTime: 2023-04-13T06:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-speech-and-voice-recognition-technology-market-is-poised-to-experience-huge-growth-to-2023-2023-04-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
 
 secured: "gDArEiKGRBXf3ocxHLILzwSMHTS66FMWO+LxAVip3zJtFAgFqdaSL1P3QluRWkPtRH2WQlrcehyH55hwLeQRFq5g01DDBTwUwJqzshmmTcjeDB+BFpGbMy0EwwUSOCK8M1+WjPUlYVpdwgBaosdRXg6Mxi/OtQaSb9+wpExCxP/e8QccVAZgN9XPxp05qVVlqQhviqPyq5qgDblLntnWlXgJsapOZ0VhPagziL0K2p86yb9PSo4iF3v8/+icxMy+IoXfBxA/j4BwVClZMADztJRnKvhKryY+FMh3WGIdq7yrbNDdgEdydZDlSAH9A4RKKU6ojJiPwPKQQ6j3Uv6zylDD0uUF9NlAhgTv2gYInV4=;HcBlc81BPGmTSDkRVHDfNA=="
 ---

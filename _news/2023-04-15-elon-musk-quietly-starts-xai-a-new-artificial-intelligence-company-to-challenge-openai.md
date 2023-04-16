@@ -149,6 +149,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk Starts New Company, X.AI, Amid Talk of Artificial Intelligence Venture"
+    excerpt: "Web domains using the “.ai” suffix are popular with tech businesses pursuing artificial intelligence projects."
+    publishedDateTime: 2023-04-15T23:09:00Z
+    webUrl: "https://www.barrons.com/articles/elon-musk-twitter-x-ai-bec69eab?refsec=markets"
+    ampWebUrl: "https://www.barrons.com/amp/articles/elon-musk-twitter-x-ai-bec69eab"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/elon-musk-twitter-x-ai-bec69eab"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 67
+    images:
+      - url: "https://images.barrons.com/im-764324/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Elon Musk plans AI startup to rival ChatGPT owner, OpenAI"
     excerpt: "Billionaire Elon Musk is working on launching an artificial intelligence start-up that will rival ChatGPT-maker OpenAI, the Financial Times reported on Friday citing people familiar with his plans. Twitter-owner Musk is assembling a team of AI researchers ..."
     publishedDateTime: 2023-04-15T09:06:00Z
@@ -425,15 +441,6 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 30
-  - title: "Elon Musk Starts New Company, X.AI, Amid Talk of Artificial Intelligence Venture"
-    excerpt: "Web domains using the “.ai” suffix are popular with tech businesses pursuing artificial intelligence projects."
-    publishedDateTime: 2023-04-15T19:09:00Z
-    webUrl: "https://www.barrons.com/articles/elon-musk-twitter-x-ai-bec69eab"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 27
   - title: "Elon Musk plans AI startup to rival ChatGPT-maker OpenAI: Report"
     excerpt: "Twitter-owner Musk is assembling a team of AI researchers and engineers, according to the FT report, and is also in discussions with some investors in SpaceX and Tesla Inc about putting money into his new venture."
     publishedDateTime: 2023-04-15T12:12:00Z

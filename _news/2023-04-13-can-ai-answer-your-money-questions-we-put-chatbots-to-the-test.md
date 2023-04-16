@@ -92,7 +92,7 @@ related:
   - title: "How ChatGPT and similar AI will disrupt education"
     excerpt: "The new chatbot ChatGPT and other generative AI encourage cheating and offer up incorrect info, but they could also be used for good."
     publishedDateTime: 2023-04-12T11:00:00Z
-    webUrl: "https://www.sciencenews.org/article/chatgpt-ai-artificial-intelligence-education-cheating-accuracy?utm"
+    webUrl: "https://www.sciencenews.org/article/chatgpt-ai-artificial-intelligence-education-cheating-accuracy"
     type: article
     provider:
       name: Science News

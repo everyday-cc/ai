@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "MIT physicist Max Tegmark calls for a halt on AI development"
+    excerpt: "Physicist and MIT professor Max Tegmark tells 'Unfiltered' host Dan Bongino that we should be building technology we can 'trust and understand.'"
+    publishedDateTime: 2023-04-16T02:55:00Z
+    webUrl: "https://www.foxnews.com/video/6325184853112"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 67
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c4b5d133-0cef-4983-92c5-91ed27dd6887/8092b1a6-c899-4a2b-a195-1aa7249216e9/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "National Task Force on Artificial Intelligence formed for national development"
     excerpt: "Minister for Planning Development and Special Initiatives Professor Ahsan Iqbal on Friday formed a 15-member National Task Force (NTF) on Artificial Intelligence (IA) aimed at achieving the required goals of national development."
     publishedDateTime: 2023-04-14T22:17:00Z

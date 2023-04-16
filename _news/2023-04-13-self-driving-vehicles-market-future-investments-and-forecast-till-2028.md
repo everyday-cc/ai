@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-ma
 webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market-future-investments-and-forecast-till-2028-2023-04-13"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech Recognition Market Key Players and Forecast till 2031"
-    excerpt: "The latest market research report on the Global \"Speech Recognition Market\" is segmented by Regions, Country, Company"
-    publishedDateTime: 2023-04-13T05:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-key-players-and-forecast-till-2031-2023-04-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
   - title: "How road rage really affects your driving—and the self-driving cars of the future"
     excerpt: "New research by the University of Warwick has identified characteristics of aggressive driving—which impact both road users and the transition to self-driving cars of the future."
     publishedDateTime: 2023-04-11T20:10:00Z
