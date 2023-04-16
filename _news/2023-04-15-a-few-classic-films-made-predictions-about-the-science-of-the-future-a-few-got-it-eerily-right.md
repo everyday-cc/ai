@@ -3,18 +3,18 @@ category: news
 title: "A few classic films made predictions about the science of the future. A few got it eerily right"
 excerpt: "Here's what some notable films get right about science and tech — and what's still the stuff of science fiction."
 publishedDateTime: 2023-04-15T01:05:00Z
-originalUrl: "https://www.kcra.com/article/films-predictions-science-future/43605947"
-webUrl: "https://www.kcra.com/article/films-predictions-science-future/43605947"
-ampWebUrl: "https://www.kcra.com/amp/article/films-predictions-science-future/43605947"
-cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/films-predictions-science-future/43605947"
+originalUrl: "https://www.wesh.com/article/films-predictions-science-future/43605947"
+webUrl: "https://www.wesh.com/article/films-predictions-science-future/43605947"
+ampWebUrl: "https://www.wesh.com/amp/article/films-predictions-science-future/43605947"
+cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/films-predictions-science-future/43605947"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: kcra.com
-  domain: kcra.com
+  name: WESH
+  domain: wesh.com
 
 topics:
   - AI in Healthcare
@@ -44,18 +44,18 @@ related:
         height: 630
         isCached: true
   - title: "These films predicted the future of science. How right were they?"
-    excerpt: "Films such as \"Gattaca,\" \"Her\" and even \"M3GAN\" have predicted what our future might look like if developments in genetic editing and AI accelerate. Here's what those films get right — and what's still the stuff of science fiction."
-    publishedDateTime: 2023-04-14T20:03:00Z
-    webUrl: "https://www.cbsnews.com/detroit/news/these-films-predicted-the-future-of-science-how-right-were-they/"
-    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/these-films-predicted-the-future-of-science-how-right-were-they/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/these-films-predicted-the-future-of-science-how-right-were-they/"
+    excerpt: "\"As audiences, we love both optimistic and pessimistic science-fiction films.\" Lisa Yaszek, professor at Georgia Tech."
+    publishedDateTime: 2023-04-14T17:13:00Z
+    webUrl: "https://www.cbsnews.com/tampa/news/these-films-predicted-the-future-of-science-how-right-were-they/"
+    ampWebUrl: "https://www.cbsnews.com/amp/tampa/news/these-films-predicted-the-future-of-science-how-right-were-they/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/tampa/news/these-films-predicted-the-future-of-science-how-right-were-they/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 44
     images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/14/dba62e62-3622-49be-93f1-099a580292a4/thumbnail/1200x630/a93f8d2f31c87320acda582ca1ebc22b/hypatia-h-304c049b19523c5d188b817b7050d8f1-h-5d7249b870670b58b4a20842e2846e69.jpg"
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/14/2c9b00cc-8fc4-4b81-9cb4-1725619f228f/thumbnail/1200x630/4b1e2fcfc70cc6ea9999adceb18a60ff/hypatia-h-304c049b19523c5d188b817b7050d8f1-h-5d7249b870670b58b4a20842e2846e69.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -88,6 +88,6 @@ related:
         height: 280
         isCached: true
 
-secured: "vilJjsbNgs3BTcdKsKLNV9Ol69FtBZHVVIHido5zxew/ZnHqC6/MWn2B+Zdka4jwS8Z5x51Aqx+pihk4EZNJJZjVxTmytCSKgbuveEF6H6XZ0fs2uB5pcSpb5Z5wZIrJLWeNG+JljwFosrHd2mxJwQxaAi1DnjuC383gcwV/mTyEvhlwjug18AC6Tsdq+e6w70ok3tnKHBb5bko9KY95NeMtpJMccTfkLqiWQJnKZdACOH9xxYXhrn9IUwu9bm05aTNo8wOnfMdfvsO8aBAr+HFUt+Lpls/E1nJ3vL6TujJh3qicdvU0/I17WLWX46/UQ++aTYw7ZcSCBTx/5QX8bEJxukGMivpSrm35aaHFsSU=;AddVt1P3vOH6HrIjsRELyQ=="
+secured: "f3WNewx+rT8iGufOIAoZ/xbX6LN1IYB39GestXBVws9fC0LTR7GpCCN0/s8KyItk+jSjsfrfQZioVoLFgUvCq/9Tzz1WJQCxNhjsTsDU34Nq86KRBqn9yXo9odTYSWtMKNrxlCyfIlefWkBb6gV9ngBpHVFn1NtKCEuYubHhaDgRWmeTEIUkdqpjGFYZL+1nhvivlV0gseQ2SGeYz+I0b3pMvO7Y/CWPke0zjlA0S9byCzedgh9aG9U8ypiUBYZR8HMmylaV/23jX1VaEiv5vrG+iMVOG9/HGeEXg+HYSfB6AkcCMdgu5lLBC5hBgXej3RMIrTr9ujH+n4iYKq6vzy5OwAxZX3A6azejNzwsLVo=;R0OFwuLOSekAChcH/otJ0g=="
 ---
 

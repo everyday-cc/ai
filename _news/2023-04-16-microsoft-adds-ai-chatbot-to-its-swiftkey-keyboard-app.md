@@ -83,6 +83,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Microsoft Looks to ChatGPT AI to Transform Its Digital Ad Business"
+    excerpt: "Carter, who recently was named to head the company’s ad business, offers an inside look at Microsoft’s game plan."
+    publishedDateTime: 2023-04-16T15:09:00Z
+    webUrl: "https://www.wsj.com/articles/microsoft-chatgpt-ai-advertising-8c5421f8"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-759313/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Microsoft integrates Bing's AI into Swiftkey, Skype, Start apps"
     excerpt: "After launching the new Bing experience earlier this year, Microsoft has been trying to bring the search engine's AI features to its products."
     publishedDateTime: 2023-04-14T06:11:00Z

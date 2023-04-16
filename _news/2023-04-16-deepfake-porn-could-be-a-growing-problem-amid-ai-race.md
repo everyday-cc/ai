@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Deepfake porn could be a growing problem amid AI race"
-excerpt: "Artificial intelligence imaging can be used to create art, try on clothes in virtual fitting rooms or help design advertising campaigns."
+excerpt: "Artificial intelligence imaging can be used to create art, try on clothes in virtual fitting rooms or help design advertising campaigns. But experts fear the darker side of the easily-accessible tools could worsen something that primarily harms women: nonconsensual deepfake pornography."
 publishedDateTime: 2023-04-16T15:24:00Z
-originalUrl: "https://www.seattletimes.com/business/deepfake-porn-could-be-a-growing-problem-amid-ai-race/"
-webUrl: "https://www.seattletimes.com/business/deepfake-porn-could-be-a-growing-problem-amid-ai-race/"
-ampWebUrl: "https://www.seattletimes.com/business/deepfake-porn-could-be-a-growing-problem-amid-ai-race/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/deepfake-porn-could-be-a-growing-problem-amid-ai-race/?amp=1"
+originalUrl: "https://apnews.com/article/deepfake-porn-celebrities-dalle-stable-diffusion-midjourney-ai-e7935e9922cda82fbcfb1e1a88d9443a"
+webUrl: "https://apnews.com/article/deepfake-porn-celebrities-dalle-stable-diffusion-midjourney-ai-e7935e9922cda82fbcfb1e1a88d9443a"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
@@ -30,6 +28,6 @@ related:
       domain: gizmodo.com
     quality: 44
 
-secured: "k/GrKgDi/OqsGJXfm9dOJUq6tClpqabcj5cWaIaiiG2+k/6ZK2AqZa/4tBiGHBY2vN5dUTujmVLZgQqxo1pFlHLENlLTM21D6eujN8QQyX4u8cB4enOjo+nBO2c0OEW/GSf/QxTknbw8PUWGsgfgojPhGi5jmJC0AkIvdsd9mHt4N7MAroICPJ7tQ3NKQEqERDkRqJRZVpOIdOQ8m+Lrun9EbrmkC8YhIZXnDix3Fzz1gFN4tAMUu3E4PmeFsNN+jEZvn4ysrD2Is3BB1Mh1N5dM+I5L01rud6e1U8iik1YKXSCZsOUn1HgG8OPNveYDuzXdRikdFpzleB6IzEVfCKIdPzHbF+nVyZ47Mw3uxbemQX/6p0R3/4Fd0+384m8VVGkm7/wrDGFwFA27IHRy+gZEIZzlUrbPKpGj3DgLtBl66M+Mq2up2mWeC6QUAgVJiWUQqURMGwrfWOOJY0Plqr98A6tbhbYfYJECGmArCcrR7PaJGEpHR0xFhVYh6W8C/Qf+wJ55eDWmO7ZXJ3feqQ==;KsiUi5hw/dvZuzg+1dcNfw=="
+secured: "5r2HQ4kcQxXGOwHg51xtzyn7RaJCPR4o9IX3GNUTjZaulTNNqgwicHGNPUNMpbSWYtOnowLrKQG86Sjjp5jhU9SF5DJSHd83zXM5POkj2qPxmtrWPI4HDLT83GjQxo1RcOtroHw+BttqcBl4e64zB3pM638vFOvBtJv5eh/OQPQR5QqjalMCU2hoWxECG7K1+qAikToV6mYOY2F+jXH5A8Lj/bFW0B/h/3ftshOXE2o9o/q1YuE+pVnA5SWfwBJksHw2BoWZyEyPp/lHWa8AaoPprHVHPYqyLCD3e7f9fc6P+Y/D4/7Y7cRHLLIegDEgv8sce8aakhTH0vJ1w6CelPSrA1nVVHJ+G7h1oBA5QA4SqMItE13LwlR28088F3ViWez3TLNLaPQytGMcfmOw5K72Ef8V28F1IFUoVI3AYSVBgndiiETe26DK+8UDHYr7YwedASJ7YKkAp4nXiehGqtGWmy9R+7oqL48PeLZCRe4Fc44KmyJj0i4Ya9Z0c1v9O5j7KzrE0Aazil+IcBhGTw==;1VQfvi/+itukVRMXw3Jiag=="
 ---
 

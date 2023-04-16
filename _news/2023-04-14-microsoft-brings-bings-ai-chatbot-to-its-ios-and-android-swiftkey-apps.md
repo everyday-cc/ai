@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/microsoft-brings-bings-ai-chatbot-to-it
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-brings-bings-ai-chatbot-to-its-ios-and-android-swiftkey-apps-113528183.html"
 type: article
 quality: 106
-heat: 236
+heat: 246
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
     quality: 84
     images:
       - url: "https://images.wsj.net/im-762625/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Microsoft Looks to ChatGPT AI to Transform Its Digital Ad Business"
+    excerpt: "Carter, who recently was named to head the company’s ad business, offers an inside look at Microsoft’s game plan."
+    publishedDateTime: 2023-04-16T15:09:00Z
+    webUrl: "https://www.wsj.com/articles/microsoft-chatgpt-ai-advertising-8c5421f8"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-759313/social"
         width: 1280
         height: 640
         isCached: true

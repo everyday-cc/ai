@@ -23,16 +23,14 @@ topics:
 
 related:
   - title: "Deepfake porn could be a growing problem amid AI race"
-    excerpt: "Artificial intelligence imaging can be used to create art, try on clothes in virtual fitting rooms or help design advertising campaigns."
+    excerpt: "Artificial intelligence imaging can be used to create art, try on clothes in virtual fitting rooms or help design advertising campaigns. But experts fear the darker side of the easily-accessible tools could worsen something that primarily harms women: nonconsensual deepfake pornography."
     publishedDateTime: 2023-04-16T15:24:00Z
-    webUrl: "https://www.seattletimes.com/business/deepfake-porn-could-be-a-growing-problem-amid-ai-race/"
-    ampWebUrl: "https://www.seattletimes.com/business/deepfake-porn-could-be-a-growing-problem-amid-ai-race/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/deepfake-porn-could-be-a-growing-problem-amid-ai-race/?amp=1"
+    webUrl: "https://apnews.com/article/deepfake-porn-celebrities-dalle-stable-diffusion-midjourney-ai-e7935e9922cda82fbcfb1e1a88d9443a"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
 
 secured: "UmTcW8tIml/EqZkdSvHTvon/X8vD/tXdCrZcbJtVajBd6PAmC+Yf4CFlwjKEDOkLQuYi7YZVXqDuhGmIkl0f61SZMOxt2/YgLmV50NgLSQqmQ1SBQAA5xwImflYreMrCoYSUBha59Nnf5qPmCJ7bxP877cKXY3PDMu0l2jlf8LNhZFVq6yyXG4cJsVwItpUR6KY8PVVlMQcEUKEfpH5c69qhe7hYFfK0yIaS9JFGv2RiGDxtlFbMr0NfHBwE/V7dCM8gfd3DLryGb/nFmg4L2O1smz9jQ4BatZH5tt8GCdw+7Z8Bu05ZfsuempPrLoo24f964Udkdhq76CMUCY45EHaK9blQXcXBOgsGYv07JVmP26ZSx3hDnp9bBjzStgLKYEVJOd2YSOQ7ZpPfkkyN0rx+hlDw60h4h9lHvBov59GyMYdVBElR8ks1qY2sqqT6e2u9SuAqOyBRabjB05liUz47xX9QKmo0Gu+o0GCrGAAGoO0VnZFJdalf6OW8tUHaRoSlWd4FTZgz8GXV3qqr4A==;CmmkKQd80Uxb51BwqER7Dg=="
 ---

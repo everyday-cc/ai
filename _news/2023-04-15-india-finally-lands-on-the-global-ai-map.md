@@ -41,6 +41,22 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "Indian colleges accelerate work on Indic languages gen AI"
+    excerpt: "Generative AI platforms have been the rage since the second half of last year with Microsoft and Google pushing these programs into their existing services."
+    publishedDateTime: 2023-04-16T16:45:00Z
+    webUrl: "https://www.livemint.com/companies/start-ups/indian-engineering-colleges-lead-generative-ai-research-projects-in-indic-languages-facing-challenges-in-data-sourcing-and-computing-power-11681663553393.html"
+    ampWebUrl: "https://www.livemint.com/companies/start-ups/indian-engineering-colleges-lead-generative-ai-research-projects-in-indic-languages-facing-challenges-in-data-sourcing-and-computing-power/amp-11681663553393.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/indian-engineering-colleges-lead-generative-ai-research-projects-in-indic-languages-facing-challenges-in-data-sourcing-and-computing-power/amp-11681663553393.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/04/16/600x338/indiclanguage_1681663746577_1681663755703_1681663755703.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "When AI And Dementia Intersect"
     excerpt: "As AI becomes more advanced, it’s also becoming a bigger part ... Their D&D character is a clumsy bard named Chip Chap Chopman. This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies ..."
     publishedDateTime: 2023-04-14T04:07:00Z
