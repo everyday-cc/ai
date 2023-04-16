@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Alegion"
   url: "https://twitter.com/Alegion"
-  followers: 1795
+  followers: 1794
 
 size: 51-200 employees
 yearFounded: 2012
