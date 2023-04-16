@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Boost your data and AI skills with Microsoft Azure CLX"
-    excerpt: "We’re excited to announce that the Microsoft Azure Connected Learning Experience (CLX) program now has three new Data and AI tracks designed for data professionals."
-    publishedDateTime: 2023-04-11T08:00:09Z
-    webUrl: "https://azure.microsoft.com/blog/boost-your-data-and-ai-skills-with-microsoft-azure-clx/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
   - title: "Amazon Joins Microsoft, Google in AI Race Spurred by ChatGPT"
     excerpt: "Amazon Web Services is the latest tech company to lay out its generative AI strategy."
     publishedDateTime: 2023-04-13T11:30:00Z

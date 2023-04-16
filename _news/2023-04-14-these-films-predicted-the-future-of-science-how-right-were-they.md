@@ -30,13 +30,13 @@ related:
   - title: "A few classic films made predictions about the science of the future. A few got it eerily right"
     excerpt: "Here's what some notable films get right about science and tech — and what's still the stuff of science fiction."
     publishedDateTime: 2023-04-15T01:05:00Z
-    webUrl: "https://www.wcvb.com/article/films-predictions-science-future/43605947"
-    ampWebUrl: "https://www.wcvb.com/amp/article/films-predictions-science-future/43605947"
-    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/films-predictions-science-future/43605947"
+    webUrl: "https://www.wlwt.com/article/films-predictions-science-future/43605947"
+    ampWebUrl: "https://www.wlwt.com/amp/article/films-predictions-science-future/43605947"
+    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/films-predictions-science-future/43605947"
     type: article
     provider:
-      name: WCVB Channel 5 Boston
-      domain: wcvb.com
+      name: WLWT
+      domain: wlwt.com
     quality: 32
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-304c049b19523c5d188b817b7050d8f1-h-5d7249b870670b58b4a20842e2846e69-preview-1681515605861422540.JPG?crop=0.99555555555555553xw:1xh;center,top&resize=1200:*"
@@ -81,6 +81,6 @@ related:
       domain: cbsnews.com
     quality: 4
 
-secured: "YEg6KzUxr9pxRR210sjnb02Z/Bi/cNIh41NmK9psIJyBQ3ZCEkBWQQHmlc0fzwYgdRjnERiJNb0V/4f4pJQPspQj/WK0zOvzgvNWLU9MIYG+XoQIxBXM0Z4jkexc6whTZY9af0ur6SGmD93/BmtU5GSIpLKoRxER5H89gLc2gB8NoIjRusFLJaPpQ5KFkzkteRyodq5Jh3ndflN/Dfi0VBAfxjo0ZPM5JX4s2QlC0H7wEOqfIsIkrNfx0Nb3S0FxujDouRGWlLgP37kJAM/kcJPtJ59Vbp6zHLgngkaJOY2SKFC4pDQBqnfRFexVvQoWhWTrb1BensLxfiwna6ONRyaQh0dujJdU94onG5427VY=;JioRGWFsEsWUBQO/EqqcRQ=="
+secured: "zoRVAoWE/3mIpazXA1xYFvYPDP6AUe99dNp5HHtYC41xBw75yGd2mjwGx98oSWbQmkFboQ7ZK5lsImNQYFeykgtByzcuFfJACux+GXNtvyUj5J4tbdYbRpYXj8zAKY6VFs5/vtTGW74X0jvAHDMdOXdumLXp0/bZnEY8DySuKlZfdJnXcttiE+3ScCzuuu3cBrSc9ypO8bodY6DgHXsR0a9nWuIXmhFO6Dg1xq2ktyJ8gA3bi5jWSfKd28C8mnUk5waNyAxmnFS726bomyV0oxYNhpvGPtmM+O6H9acTuupGkkhxucEtggHWgg9KjJa/B2XSADQsDtB0N+961Dg+CYBJSFH+DkKpGNJ+b6v8ze6xzmVIJyDKjkkI1iwLngG8KYR5avcaQ92979zfDckAvSVqA6Alm3uUMor3hXKYyRMdyfKkB7Rv4gB+6orL+TcC/ZrdzIpkfUQYHv5u6DqgsvqRGoYK64GjPwCsK8EGWma6KINqMSbfAHu64CslUAwOsEKWhC0jS323TMkgxUd3/g==;jANAOu9+Kid2yWzb+h+krA=="
 ---
 

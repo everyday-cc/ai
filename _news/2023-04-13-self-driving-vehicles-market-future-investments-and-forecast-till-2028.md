@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-ma
 webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market-future-investments-and-forecast-till-2028-2023-04-13"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-  - title: "Know Driving Success In Deep Learning Chipsets Market: Current Trends and Future Outlook Till 2030"
-    excerpt: "The latest Deep Learning Chipsets Market Analysis is designed to help clients improve their market position, and in line"
-    publishedDateTime: 2023-04-11T07:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/know-driving-success-in-deep-learning-chipsets-market-current-trends-and-future-outlook-till-2030-2023-04-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
   - title: "How road rage really affects your driving—and the self-driving cars of the future"
     excerpt: "New research by the University of Warwick has identified characteristics of aggressive driving—which impact both road users and the transition to self-driving cars of the future."
     publishedDateTime: 2023-04-11T20:10:00Z

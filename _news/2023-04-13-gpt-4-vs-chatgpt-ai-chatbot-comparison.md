@@ -171,6 +171,15 @@ related:
       name: Digi Times
       domain: digitimes.com
     quality: 34
+  - title: "When ChatGPT meets humanoid robotics"
+    excerpt: "AI and the development of humanoid robots are two cutting-edge sectors where the projects underway are pushing new boundaries."
+    publishedDateTime: 2023-04-15T23:01:00Z
+    webUrl: "https://www.astroawani.com/berita-english/when-chatgpt-meets-humanoid-robotics-415514"
+    type: article
+    provider:
+      name: Astro Awani
+      domain: astroawani.com
+    quality: 34
   - title: "ChatGPT Called to the Bar"
     excerpt: "Latham & Watkins has created an AI-powered tool called Latham.ai, which uses natural language processing and machine learning to help lawyers draft and review contracts more efficiently. Hogan Lovells has partnered with an AI company called Kira Systems to ..."
     publishedDateTime: 2023-04-14T11:04:00Z

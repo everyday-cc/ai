@@ -182,6 +182,15 @@ related:
       name: Digi Times
       domain: digitimes.com
     quality: 34
+  - title: "When ChatGPT meets humanoid robotics"
+    excerpt: "AI and the development of humanoid robots are two cutting-edge sectors where the projects underway are pushing new boundaries."
+    publishedDateTime: 2023-04-15T23:01:00Z
+    webUrl: "https://www.astroawani.com/berita-english/when-chatgpt-meets-humanoid-robotics-415514"
+    type: article
+    provider:
+      name: Astro Awani
+      domain: astroawani.com
+    quality: 34
   - title: "Is ChatGPT-4 replacing Google?"
     excerpt: "ChatGPT is an AI-powered chatbot that creates a virtual conversation with users by using machine learning and natural language processing. Google is known for its innovative and inventive use of technology. OpenAI (developer of ChatGPT) is an artificial ..."
     publishedDateTime: 2023-04-15T07:16:00Z
