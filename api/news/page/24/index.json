@@ -2,58 +2,6 @@
   "page": 24,
   "value": [
     {
-      "path": "_news/2023-03-21-mind-control-tech-is-here-and-military-has-already-tested-it-on-robots.md",
-      "title": "Mind Control Tech Is Here, And Military Has Already Tested It On Robots",
-      "excerpt": "Medical science has hedged its hopes on mind control to help people living ... allowed the person wearing it to control a quadruped robot. The sensors are attached to the scalp area, while ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/1233743/mind-control-tech-is-here-and-military-has-already-tested-it-on-robots/",
-      "originalUrl": "https://www.slashgear.com/1233743/mind-control-tech-is-here-and-military-has-already-tested-it-on-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/mind-control-tech-is-here-and-military-has-already-tested-it-on-robots/l-intro-1679350878.jpg",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-20T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-21-video-students-in-plainfield-learn-to-use-artificial-intelligence.md",
       "title": "VIDEO: Students in Plainfield learn to use artificial intelligence",
       "excerpt": "Students in Plainfield learn to use artificial intelligence",
@@ -1198,6 +1146,59 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-ai-in-diagnostic-imaging-market-seeking-excellent-growth-with-ge-healthcare-canon-siemens-healthineers-subtle-medical-deepmind.md",
+      "title": "AI In Diagnostic Imaging Market Seeking Excellent Growth with GE Healthcare, Canon, Siemens Healthineers, Subtle Medical, DeepMind",
+      "excerpt": "Some of the key players profiled in the study are: GE Healthcare, Canon, Siemens Healthineers, Subtle Medical, DeepMind, Samsung Healthcare, Koninklijke Philips N.V., Butterfly Network The COVID-19 outbreak has affected various industries worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-diagnostic-imaging-market-seeking-excellent-growth-with-ge-healthcare-canon-siemens-healthineers-subtle-medical-deepmind-2023-03-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-diagnostic-imaging-market-seeking-excellent-growth-with-ge-healthcare-canon-siemens-healthineers-subtle-medical-deepmind-2023-03-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-19T21:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

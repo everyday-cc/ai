@@ -2,58 +2,6 @@
   "page": 98,
   "value": [
     {
-      "path": "_news/2023-01-23-flamboyant-italian-clothes-defeat-facial-recognition-without-masks.md",
-      "title": "Flamboyant Italian clothes defeat facial recognition without masks",
-      "excerpt": "They may be a little brutal on the eye, but Capable says its visually confusing and extremely pricey cotton knits are designed to throw off AI facial recognition systems, by fooling machine learning systems into thinking you're an animal and not a human.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/good-thinking/facial-recognition-clothes/",
-      "originalUrl": "https://newatlas.com/good-thinking/facial-recognition-clothes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/754120e/2147483647/strip/true/crop/965x507+0+109/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F74%2Fb4%2Fb339109845caad60b7e4ae243df3%2F309634727-461346366016754-2441330964910929706-n.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T21:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-23-artificial-intelligence-automation-and-robotics.md",
       "title": "Artificial intelligence, automation and robotics",
       "excerpt": "The Royal Society says public sector bodies should lead the way in piloting privacy-enhancing technologies to unlock the value of data without compromising privacy and data rights, but lack of ...",
@@ -1070,6 +1018,58 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-21-selling-artificial-intelligence-to-the-business-keep-it-clear-keep-it-simple.md",
+      "title": "Selling Artificial Intelligence To The Business: Keep It Clear, Keep It Simple",
+      "excerpt": "Explainability trumps model performance, and the hottest solution doesn’t always win, especially if it’s too much of a black box.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/01/21/selling-artificial-intelligence-to-the-business-keep-it-clear-keep-it-simple/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/01/21/selling-artificial-intelligence-to-the-business-keep-it-clear-keep-it-simple/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63cb7fca0b95204e19922d86/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/01/21/selling-artificial-intelligence-to-the-business-keep-it-clear-keep-it-simple/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/01/21/selling-artificial-intelligence-to-the-business-keep-it-clear-keep-it-simple/amp/",
+      "publishedDateTime": "2023-01-21T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

@@ -2,49 +2,6 @@
   "page": 45,
   "value": [
     {
-      "path": "_news/2023-03-03-prescription-opioids-could-impact-cognitive-function-in-older-adults.md",
-      "title": "Prescription opioids could impact cognitive function in older adults",
-      "excerpt": "Prescription opioid use could have a negative effect on cognitive function in older adults ... level fellows and junior faculty in health services research. Pain is considered common in older ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-03-prescription-opioids-impact-cognitive-function.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-03-prescription-opioids-impact-cognitive-function.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/do-prescription-opioid.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-03-prescription-opioids-impact-cognitive-function.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-03-prescription-opioids-impact-cognitive-function.amp",
-      "publishedDateTime": "2023-03-02T10:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-03-how-to-spruce-up-your-facebook-messenger-chats-by-adding-a-theme.md",
       "title": "How to spruce up your Facebook Messenger chats by adding a theme",
       "excerpt": "Facebook Messenger has a hidden gem of an option to make chatting with friends, family, and others a bit more fun.",
@@ -1123,6 +1080,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-healthcare-natural-language-processing-nlp-market-size-to-reach-at-extensive-growth-by-2026.md",
+      "title": "Healthcare Natural Language Processing (NLP) Market Size To Reach at Extensive Growth by 2026",
+      "excerpt": "The Report, Titled Global and China Healthcare Natural Language Processing (NLP) Market Size, Status and Forecast",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-size-to-reach-at-extensive-growth-by-2026-2023-03-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-size-to-reach-at-extensive-growth-by-2026-2023-03-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T20:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

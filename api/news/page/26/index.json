@@ -2,57 +2,6 @@
   "page": 26,
   "value": [
     {
-      "path": "_news/2023-03-19-techcrunch-roundup-7-vcs-who-are-taking-pitches-ai-best-practices-zero-based-budgeting.md",
-      "title": "TechCrunch+ roundup: 7 VCs who are taking pitches, AI best practices, zero-based budgeting",
-      "excerpt": "With SVB’s contagion contained, the VC community seems open to writing smallish checks for pre-revenue startups.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/17/techcrunch-roundup-7-vcs-who-are-taking-pitches-ai-best-practices-zero-based-budgeting/",
-      "originalUrl": "https://techcrunch.com/2023/03/17/techcrunch-roundup-7-vcs-who-are-taking-pitches-ai-best-practices-zero-based-budgeting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1432923096.jpg?resize=1200,674",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/17/techcrunch-roundup-7-vcs-who-are-taking-pitches-ai-best-practices-zero-based-budgeting/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/17/techcrunch-roundup-7-vcs-who-are-taking-pitches-ai-best-practices-zero-based-budgeting/amp/",
-      "publishedDateTime": "2023-03-18T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-19-at-sxsw-it-was-goodbye-nfts-and-hello-ai-music.md",
       "title": "At SXSW, It Was Goodbye NFTs And Hello AI Music",
       "excerpt": "Where have all the NFT bros gone? That was the common refrain at this year’s South-by-Southwest, the super-sized music-tech-culture conference wrapping up in Austin, Texas.",
@@ -1202,6 +1151,58 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply.md",
+      "title": "I Asked ChatGPT How It Will Impact Retailing. Here’s The Reply.",
+      "excerpt": "The feature that’s creating the most buzz is called ChatGPT, a natural language processing algorithm that responds to prompts (questions) like an online customer service chatbot, except this one is on steroids. Instead of a list of ranked answers to a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/",
+      "originalUrl": "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64148349e818e1c97376a1f0/0x0.jpg?format=jpg&crop=2065,1160,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/amp/",
+      "publishedDateTime": "2023-03-17T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

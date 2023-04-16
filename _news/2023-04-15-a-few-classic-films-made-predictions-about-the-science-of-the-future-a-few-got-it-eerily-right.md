@@ -3,18 +3,18 @@ category: news
 title: "A few classic films made predictions about the science of the future. A few got it eerily right"
 excerpt: "Here's what some notable films get right about science and tech — and what's still the stuff of science fiction."
 publishedDateTime: 2023-04-15T01:05:00Z
-originalUrl: "https://www.wlwt.com/article/films-predictions-science-future/43605947"
-webUrl: "https://www.wlwt.com/article/films-predictions-science-future/43605947"
-ampWebUrl: "https://www.wlwt.com/amp/article/films-predictions-science-future/43605947"
-cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/films-predictions-science-future/43605947"
+originalUrl: "https://www.wcvb.com/article/films-predictions-science-future/43605947"
+webUrl: "https://www.wcvb.com/article/films-predictions-science-future/43605947"
+ampWebUrl: "https://www.wcvb.com/amp/article/films-predictions-science-future/43605947"
+cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/films-predictions-science-future/43605947"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: WLWT
-  domain: wlwt.com
+  name: WCVB Channel 5 Boston
+  domain: wcvb.com
 
 topics:
   - AI in Healthcare
@@ -28,20 +28,20 @@ images:
 
 related:
   - title: "These films predicted the future of science. How right were they?"
-    excerpt: "Current gene therapy trials — including the sickle cell trial ... ‘M3GAN’ and ‘Her’ offer opposing views of AI Society’s fascination with artificial intelligence has resulted in no shortage of films that depict both its potential to facilitate ..."
-    publishedDateTime: 2023-04-14T16:21:00Z
-    webUrl: "https://www.cnn.com/2023/04/14/entertainment/film-future-tech-m3gan-gattaca-scn-cec/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/04/14/entertainment/film-future-tech-m3gan-gattaca-scn-cec/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/04/14/entertainment/film-future-tech-m3gan-gattaca-scn-cec/index.html"
+    excerpt: "\"As audiences, we love both optimistic and pessimistic science-fiction films.\" Lisa Yaszek, professor at Georgia Tech."
+    publishedDateTime: 2023-04-14T14:13:00Z
+    webUrl: "https://www.cbsnews.com/seattle/news/these-films-predicted-the-future-of-science-how-right-were-they/"
+    ampWebUrl: "https://www.cbsnews.com/amp/seattle/news/these-films-predicted-the-future-of-science-how-right-were-they/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/seattle/news/these-films-predicted-the-future-of-science-how-right-were-they/"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 74
+      name: CBS News
+      domain: cbsnews.com
+    quality: 44
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230313151717-01-future-tech-films-super-tease.jpeg"
-        width: 1100
-        height: 619
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/14/2c9b00cc-8fc4-4b81-9cb4-1725619f228f/thumbnail/1200x630/4b1e2fcfc70cc6ea9999adceb18a60ff/hypatia-h-304c049b19523c5d188b817b7050d8f1-h-5d7249b870670b58b4a20842e2846e69.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "In predicting the future of science, a few classic films got it eerily right"
     excerpt: "By Scottie Andrew, CNN Great sci-fi films are both fantastical and prescient. They can whisk viewers to a galaxy far, far away or exaggerate real scenarios on a fictionalized version of our planet. Bu"
@@ -81,6 +81,6 @@ related:
       domain: cbsnews.com
     quality: 4
 
-secured: "KOuG0c6qgFrMXN/rLLk94A/vfbzdNbZt9kGYM1Ka4tj0bJV2qL3P01jvoRtAnHmH60jAATeastI/jH/5cJXv4NdWCAmGZMTiAnNRIB8PgdfmaxecacX65YL4zZ2NUHn2dYNbAb0MP5cNRGuJDPobusI5EvAOzeCVkiW02ebkm0Zoll74mN8c9NVUIGKElWsWt+wYuJu939wt25ELPwSuuDiZ2FVMHrg1CeKHLZfezbbpSobSipRtLKH/kiVj0bqaeZHcjoL1rY25xd7VZIB/dWF6J6RNgBpsXq2cTI7DzjN3IbLx4nkTXzTc3VfhZIYS7FXkZ/8xPEFzW/v0MoPkx8ZDB6mwnQ/pXeLKeBmx94E=;jlfRq0I3tJYOk4bR1uIcQg=="
+secured: "uevB/xcN3OmGefJ4+FH5HleqHZNnHcwrKlvCPskfr7EWwCoYuZrs+ctflxg4iqtQfw5Zs96DNqT6rALlER3+2N7WpnpS5VP8TQUWDmrQQTWQVmtv6SfrJY/KPDHitTdz8y0pqwGHMUqaEcoIsJsBAUXUhX2z9R2zIglU3n51CCmQatVBcLsW6PasaVwvQEAYlMYs1xxzF2cM72dvHTPHr6nR96jE3GOatLh77j58JUs6ids+uzOX7McNKjfVYcnXdqVIWvIuSfQOkDPiinOQoxDZCBPndwoL6+Wfys0bnoGJdzjljDqDKP3Kv60thV/g7XxeAMZLQ0/IjbhMDwqRTOazhi8t6UDYZ64RKEEvyLA=;PpIORWLz58g1zzz3VzvrJw=="
 ---
 

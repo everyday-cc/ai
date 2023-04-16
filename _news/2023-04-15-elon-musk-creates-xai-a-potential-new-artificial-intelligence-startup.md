@@ -218,6 +218,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Elon Musk starts new artificial intelligence organization called X.AI"
+    excerpt: "Musk has reportedly started this new AI company to combat OpenAI, one of the leading artificial intelligence firms"
+    publishedDateTime: 2023-04-15T21:05:00Z
+    webUrl: "https://justthenews.com/nation/technology/elon-musk-starts-new-artificial-intelligence-organization-called-xai"
+    type: article
+    provider:
+      name: justthenews
+      domain: justthenews.com
+    quality: 52
+    images:
+      - url: "https://justthenews.com/sites/default/files/styles/social_media_share/public/2023-01/elon-musk.Justin%20Sullivan.Getty%20Images.jpg?h=bc62b519&itok=E00f0uw5"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Amazon Unveils Bedrock to Compete with OpenAI’s ChatGPT and DALL-E 2"
     excerpt: "Artificial intelligence technologies continue to take the internet ... They announced the launch of Bedrock, a new cloud service on their Amazon Web Services (AWS) platform, designed to provide developers with customizable AI tools for generating text ..."
     publishedDateTime: 2023-04-14T09:45:00Z

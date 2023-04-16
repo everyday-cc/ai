@@ -208,6 +208,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Elon Musk starts new artificial intelligence organization called X.AI"
+    excerpt: "Musk has reportedly started this new AI company to combat OpenAI, one of the leading artificial intelligence firms"
+    publishedDateTime: 2023-04-15T21:05:00Z
+    webUrl: "https://justthenews.com/nation/technology/elon-musk-starts-new-artificial-intelligence-organization-called-xai"
+    type: article
+    provider:
+      name: justthenews
+      domain: justthenews.com
+    quality: 52
+    images:
+      - url: "https://justthenews.com/sites/default/files/styles/social_media_share/public/2023-01/elon-musk.Justin%20Sullivan.Getty%20Images.jpg?h=bc62b519&itok=E00f0uw5"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Elon Musk creates X.AI — a potential new artificial intelligence startup"
     excerpt: "Musk left OpenAI’s board in 2018 and has since criticised the organization, which created a for-profit arm in 2019."
     publishedDateTime: 2023-04-15T06:10:00Z

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.medindia.net/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -75,58 +75,6 @@
         "name": "Daily Times",
         "domain": "dailytimes.com.pk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-these-films-predicted-the-future-of-science-how-right-were-they.md",
-      "title": "These films predicted the future of science. How right were they?",
-      "excerpt": "Current gene therapy trials — including the sickle cell trial ... ‘M3GAN’ and ‘Her’ offer opposing views of AI Society’s fascination with artificial intelligence has resulted in no shortage of films that depict both its potential to facilitate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/04/14/entertainment/film-future-tech-m3gan-gattaca-scn-cec/index.html",
-      "originalUrl": "https://www.cnn.com/2023/04/14/entertainment/film-future-tech-m3gan-gattaca-scn-cec/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230313151717-01-future-tech-films-super-tease.jpeg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/04/14/entertainment/film-future-tech-m3gan-gattaca-scn-cec/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/04/14/entertainment/film-future-tech-m3gan-gattaca-scn-cec/index.html",
-      "publishedDateTime": "2023-04-14T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -1337,6 +1285,49 @@
         "AI Ethics",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-ai-prediction-tool-identifies-chemotherapy-drug-toxicity-risk.md",
+      "title": "AI Prediction Tool Identifies Chemotherapy Drug Toxicity Risk",
+      "excerpt": "To further improve and refine prediction, the researchers incorporated artificial intelligence (AI ... This may enable more personalization of cancer therapy and minimize toxicity for patients. If leveraged in the clinical setting, a risk-scoring tool ...",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/ai-prediction-tool-identifies-chemotherapy-drug-toxicity-risk",
+      "originalUrl": "https://healthitanalytics.com/news/ai-prediction-tool-identifies-chemotherapy-drug-toxicity-risk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/sized/GettyImages-852404126-e4b00c1efb9503a805928b101c78b499.jpg",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitanalytics.com/news/amp/ai-prediction-tool-identifies-chemotherapy-drug-toxicity-risk",
+      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/ai-prediction-tool-identifies-chemotherapy-drug-toxicity-risk",
+      "publishedDateTime": "2023-03-27T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

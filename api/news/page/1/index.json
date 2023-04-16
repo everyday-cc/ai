@@ -61,7 +61,7 @@
       "originalUrl": "https://www.cnet.com/home/internet/spacex-launches-startups-first-cell-tower-in-space/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -112,7 +112,7 @@
       "originalUrl": "https://www.medindia.net/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -343,7 +343,7 @@
       "originalUrl": "https://venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artificial-intelligence-company-to-challenge-openai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 417,
+      "heat": 427,
       "tags": null,
       "images": [
         {
@@ -525,7 +525,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/04/hype-grows-over-autonomous-ai-agents-that-loop-gpt-4-outputs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -576,7 +576,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/04/14/zooms-virtual-agent-brings-ai-powered-resolutions-to-contact-centers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -867,7 +867,7 @@
       "originalUrl": "https://venturebeat.com/ai/amazon-launches-bedrock-for-generative-ai-escalating-ai-cloud-wars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 371,
+      "heat": 381,
       "tags": null,
       "images": [
         {
@@ -909,58 +909,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-these-films-predicted-the-future-of-science-how-right-were-they.md",
-      "title": "These films predicted the future of science. How right were they?",
-      "excerpt": "Current gene therapy trials — including the sickle cell trial ... ‘M3GAN’ and ‘Her’ offer opposing views of AI Society’s fascination with artificial intelligence has resulted in no shortage of films that depict both its potential to facilitate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/04/14/entertainment/film-future-tech-m3gan-gattaca-scn-cec/index.html",
-      "originalUrl": "https://www.cnn.com/2023/04/14/entertainment/film-future-tech-m3gan-gattaca-scn-cec/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230313151717-01-future-tech-films-super-tease.jpeg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/04/14/entertainment/film-future-tech-m3gan-gattaca-scn-cec/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/04/14/entertainment/film-future-tech-m3gan-gattaca-scn-cec/index.html",
-      "publishedDateTime": "2023-04-14T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     },
     {
@@ -1192,6 +1140,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-how-generative-ai-can-improve-personalized-healthcare-with-wearable-devices.md",
+      "title": "How Generative AI Can Improve Personalized Healthcare With Wearable Devices",
+      "excerpt": "Generative AI in healthcare is a promising area that could enhance the quality and efficiency of patient care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/how-generative-ai-can-improve-personalized-healthcare-with-wearable-devices/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/how-generative-ai-can-improve-personalized-healthcare-with-wearable-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/mind-your-language-risks-using-ai-powered
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/mind-your-language-risks-using-ai-powered-chatbots-chatgpt/amp/"
 type: article
 quality: 77
-heat: 258
+heat: 257
 published: true
 
 provider:

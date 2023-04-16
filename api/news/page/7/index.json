@@ -2,58 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2023-04-06-police-under-pressure-to-ban-face-recognition-tech-after-multiple-mistakes.md",
-      "title": "Police Under Pressure to Ban Face Recognition Tech After Multiple Mistakes",
-      "excerpt": "What he didn't know was that the detectives accusing him of stealing watches from a Shinola store in 2018 were doing so because of an erroneous hit using facial recognition technology. Detroit ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/police-under-pressure-ban-facial-recognition-technology-1792740",
-      "originalUrl": "https://www.newsweek.com/police-under-pressure-ban-facial-recognition-technology-1792740",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2217819/police-under-pressure-ban-face-recognition.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/police-under-pressure-ban-facial-recognition-technology-1792740",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/police-under-pressure-ban-facial-recognition-technology-1792740",
-      "publishedDateTime": "2023-04-06T00:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-06-dubais-jumeirah-first-to-have-driverless-taxis-for-public-use-by-end-of-2023.md",
       "title": "Dubai’s Jumeirah first to have driverless taxis for public use by end of 2023",
       "excerpt": "The work being done will ensure Cruise’s advanced generalisable AI (artificial intelligence) and autonomous driving ... meaning commuters will enjoy riding a driverless taxi when they go to La Mer Beach, Mercato Mall, Coca Cola Arena, City Walk, Galleria ...",
@@ -958,6 +906,40 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-05-scott-reeder-artificial-intelligence-daunting-but-has-a-ways-to-go.md",
+      "title": "Scott Reeder | Artificial intelligence daunting but has a ways to go",
+      "excerpt": "Truck drivers may soon face a similar threat as artificial intelligence is perfected and self-driving vehicles become commonplace. I was reading a Wall Street Journal article that said the future of truck stops is imperiled.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-gazette.com/opinion/columns/scott-reeder-artificial-intelligence-daunting-but-has-a-ways-to-go/article_46570be0-2f50-5820-9ca2-19f08d4e46fa.html",
+      "originalUrl": "https://www.news-gazette.com/opinion/columns/scott-reeder-artificial-intelligence-daunting-but-has-a-ways-to-go/article_46570be0-2f50-5820-9ca2-19f08d4e46fa.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The News-Gazette",
+        "domain": "news-gazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

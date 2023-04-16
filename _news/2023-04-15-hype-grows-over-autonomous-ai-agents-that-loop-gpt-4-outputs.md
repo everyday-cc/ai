@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/04/hype-grows-ov
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/04/hype-grows-over-autonomous-ai-agents-that-loop-gpt-4-outputs/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:

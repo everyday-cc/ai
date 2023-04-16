@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/04/14/zooms-virtual-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/04/14/zooms-virtual-agent-brings-ai-powered-resolutions-to-contact-centers/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 108
 published: true
 
 provider:

@@ -2,58 +2,6 @@
   "page": 118,
   "value": [
     {
-      "path": "_news/2023-01-06-a-skeptical-take-on-the-ai-revolution.md",
-      "title": "A Skeptical Take on the A.I. Revolution",
-      "excerpt": "ChatGPT is, well, it’s an A.I. system you can chat with. It is trained on heaps of online text. And it has learned, if learned is the right word, how to predict the likely next word of a sentence. And it turns out that if you predict the likely next word of a sentence enough times with enough accuracy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/01/06/opinion/ezra-klein-podcast-gary-marcus.html",
-      "originalUrl": "https://www.nytimes.com/2023/01/06/opinion/ezra-klein-podcast-gary-marcus.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/01/10/opinion/06eks-marcus-image/06eks-marcus-image-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/01/06/opinion/ezra-klein-podcast-gary-marcus.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/06/opinion/ezra-klein-podcast-gary-marcus.amp.html",
-      "publishedDateTime": "2023-01-06T07:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-06-how-banking-institutions-can-adopt-computer-vision.md",
       "title": "How Banking Institutions Can Adopt Computer Vision",
       "excerpt": "Incorporating computer vision in banking will help banks function more effectively. AI-based technologies like computer vision can automate banking procedures and processes to help humans complete repetitive activities more quickly and accurately.",
@@ -1059,6 +1007,40 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-speech-analysis-can-help-measure-diagnosis-severity-and-onset-of-mental-illness.md",
+      "title": "Speech analysis can help measure diagnosis, severity, and onset of mental illness",
+      "excerpt": "Objective measurement of psychiatric disorders has long proved challenging. Yet, there is ample evidence that analysis of speech patterns can accurately diagnose depression and psychosis, measure their severity,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/975876",
+      "originalUrl": "https://www.eurekalert.org/news-releases/975876",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

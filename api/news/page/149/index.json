@@ -2,57 +2,6 @@
   "page": 149,
   "value": [
     {
-      "path": "_news/2022-12-06-with-3m-new-funding-egyptian-startup-oneorder-sets-out-on-growth-drive.md",
-      "title": "With $3M new funding, Egyptian startup OneOrder sets out on growth drive",
-      "excerpt": "OneOrder plans to use the funding to scale its operations in Egypt , and to explore growth opportunities within the GCC region, and Africa.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/05/with-3m-new-funding-egyptian-startup-oneorder-sets-out-on-growth-drive/",
-      "originalUrl": "https://techcrunch.com/2022/12/05/with-3m-new-funding-egyptian-startup-oneorder-sets-out-on-growth-drive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/OneOrder-Team-min.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/05/with-3m-new-funding-egyptian-startup-oneorder-sets-out-on-growth-drive/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/05/with-3m-new-funding-egyptian-startup-oneorder-sets-out-on-growth-drive/amp/",
-      "publishedDateTime": "2022-12-05T10:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-06-why-designing-ai-for-humans-requires-productive-discomfort.md",
       "title": "Why designing AI for humans requires 'productive discomfort'",
       "excerpt": "When the consumer version of Google Glass appeared on the scene in 2014, it was heralded as the start of a new era of human-computer ... Just remember Google Glass when you're thinking about what can AI do -- people have to want it.\"",

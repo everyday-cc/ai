@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/nvidia-stock-fell-when-i
 webUrl: "https://www.marketwatch.com/press-release/nvidia-stock-fell-when-it-introduced-a-cheaper-ai-enhanced-gpu-2023-04-12"
 type: article
 quality: 64
-heat: 85
+heat: 84
 published: true
 
 provider:

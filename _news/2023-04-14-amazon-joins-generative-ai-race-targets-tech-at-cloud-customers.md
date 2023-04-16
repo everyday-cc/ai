@@ -107,6 +107,20 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 68
+  - title: "Generative AI Startups in 2023"
+    excerpt: "Synthesis AI is a cutting-edge synthetic data generation startup that creates computer-vision-driven imagery, videos, and human simulations. Its use cases span across industries and focus on ..."
+    publishedDateTime: 2023-04-14T12:02:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-startups/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 67
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2022/01/BMC-DSOM-Image02-800x800-1.jpg"
+        width: 800
+        height: 800
+        isCached: true
   - title: "AWS Unveils Bedrock Service For Generative AI"
     excerpt: "Amazon Web Services, the cloud computing unit of Amazon, has introduced a cloud service called Bedrock for use in generative"
     publishedDateTime: 2023-04-14T12:19:00Z

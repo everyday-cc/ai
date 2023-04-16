@@ -1,28 +1,24 @@
 ---
 category: news
-title: "Elon Musk plans AI startup to rival OpenAI, Financial Times reports"
-excerpt: "Billionaire Elon Musk is working on launching an artificial intelligence start-up that will rival ChatGPT-maker OpenAI, the Financial Times reported on Friday citing people familiar with his plans."
-publishedDateTime: 2023-04-14T21:21:00Z
-originalUrl: "https://www.reuters.com/technology/elon-musk-plans-ai-startup-rival-openai-ft-2023-04-14/"
-webUrl: "https://www.reuters.com/technology/elon-musk-plans-ai-startup-rival-openai-ft-2023-04-14/"
+title: "Elon Musk starts new artificial intelligence organization called X.AI"
+excerpt: "Musk has reportedly started this new AI company to combat OpenAI, one of the leading artificial intelligence firms"
+publishedDateTime: 2023-04-15T21:05:00Z
+originalUrl: "https://justthenews.com/nation/technology/elon-musk-starts-new-artificial-intelligence-organization-called-xai"
+webUrl: "https://justthenews.com/nation/technology/elon-musk-starts-new-artificial-intelligence-organization-called-xai"
 type: article
-quality: 67
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: justthenews
+  domain: justthenews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/AfvIuDtG9hF56yNLLmzznxxXveA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QRAI4ESMNRJ57J4QJBEHA5SR6U.jpg"
+  - url: "https://justthenews.com/sites/default/files/styles/social_media_share/public/2023-01/elon-musk.Justin%20Sullivan.Getty%20Images.jpg?h=bc62b519&itok=E00f0uw5"
     width: 1200
     height: 628
     isCached: true
@@ -148,6 +144,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Elon Musk plans AI startup to rival OpenAI, Financial Times reports"
+    excerpt: "Billionaire Elon Musk is working on launching an artificial intelligence start-up that will rival ChatGPT-maker OpenAI, the Financial Times reported on Friday citing people familiar with his plans."
+    publishedDateTime: 2023-04-14T21:21:00Z
+    webUrl: "https://www.reuters.com/technology/elon-musk-plans-ai-startup-rival-openai-ft-2023-04-14/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/AfvIuDtG9hF56yNLLmzznxxXveA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QRAI4ESMNRJ57J4QJBEHA5SR6U.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Elon Musk plans AI startup to rival ChatGPT owner, OpenAI"
     excerpt: "Billionaire Elon Musk is working on launching an artificial intelligence start-up that will rival ChatGPT-maker OpenAI, the Financial Times reported on Friday citing people familiar with his plans. Twitter-owner Musk is assembling a team of AI researchers ..."
     publishedDateTime: 2023-04-15T09:06:00Z
@@ -211,20 +221,6 @@ related:
       - url: "https://www.hindustantimes.com/ht-img/img/2023/04/15/1600x900/Elon_Musk_1681529929447_1681529929753_1681529929753.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Elon Musk starts new artificial intelligence organization called X.AI"
-    excerpt: "Musk has reportedly started this new AI company to combat OpenAI, one of the leading artificial intelligence firms"
-    publishedDateTime: 2023-04-15T21:05:00Z
-    webUrl: "https://justthenews.com/nation/technology/elon-musk-starts-new-artificial-intelligence-organization-called-xai"
-    type: article
-    provider:
-      name: justthenews
-      domain: justthenews.com
-    quality: 52
-    images:
-      - url: "https://justthenews.com/sites/default/files/styles/social_media_share/public/2023-01/elon-musk.Justin%20Sullivan.Getty%20Images.jpg?h=bc62b519&itok=E00f0uw5"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Elon Musk creates X.AI — a potential new artificial intelligence startup"
     excerpt: "Musk left OpenAI’s board in 2018 and has since criticised the organization, which created a for-profit arm in 2019."
@@ -461,6 +457,6 @@ related:
       domain: marketwatch.com
     quality: 11
 
-secured: "Y5artF1pxuuOkn7xS6y61YEYTUSwujYnZEafGtPR/Rt1eDYVta2b9dAuM7rmQTUozMp225Dg5RCfYwW/Ywe/mbfejC8d0LSSO+YW7yXryk13r+qL/bcH/xpuNmHN4Qkz+LuTTBxb57dIk333W9Uw7euIoT7vYzKOoCCc7Xkaos+f6xlyzqRk/+uj+4lgbSF0mh88tKEJ4ZkL7Y1hk28odpOX3rPavrot1OEAxxBPz0nIF+3VfNqJTkEkinRIGRXM3I2FVEYAVipxUZJ85m04DfjTL/aLARtYR1b2JCCo6AkvzZdIp/uZKwHDoHqeWEXgt1laLRXZDfAzdQODZG2BqiBPrdYUUNCK0V4UbyJ9awnoshtEoDbLFflOb4fURUgzm5ceRUnEm9PdqklwWOwKHdX4DsEUFBA62xRzVK8saPOWNs5tDmpLV4E1ZjMR2JFZUGzYxlc/BBsqNTnR78uoji0hIgXJq5JtcMnOmc9gzJCQZ6x8KlEfnNecY8UtXcPZEYG3/yGXFBuKgYYS5bErVQ==;iDutPpENmvTa0lQ8qdEDVA=="
+secured: "/IcEsocTqTzkRHMnbvMcgjDgrVzXHug7wN+IAoLqj+154nx+qxzA6sxBk0LQuCY5AORGmTq6EvRM2A0iT1yj94wRNTRwWBSxcLmBDx459klSo9G8njMtZfdPozpsr8NQud2J3xAtadxhVxcDb6e7NS4TYAoHG/IdrbmQOYCF+Z/wKrsPnFiijW3XZomeClSpc0A1C1XzsGMWCtad8B3Rl7ixXkAAkWsG/0MbwluKTIcusKMnTaWc3L+JVLytcVVV33TukibG5WQYljr3y5+c/2WF+9JVmQ8n8vwkG6sAqIPJvk6ssg+d4tdA8dI8V0tTL4cofQ06rfs9iMnggWSWxCa6kNGnc3Mq8xYCq4FrPJA=;UweW1mM8/FY2NAwBNfbfhQ=="
 ---
 
