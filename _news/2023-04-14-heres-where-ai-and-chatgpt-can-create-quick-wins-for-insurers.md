@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "How AI And ChatGPT Can Crush Customer Service"
+    excerpt: "Rather than agents spending time looking up answers, the AI ChatGPT platform is programmed to give them the information they need in the fastest possible time. In other words, it makes an agent’s life easier."
+    publishedDateTime: 2023-04-16T12:01:00Z
+    webUrl: "https://www.forbes.com/sites/shephyken/2023/04/16/how-ai-and-chatgpt-can-crush-customer-service/"
+    ampWebUrl: "https://www.forbes.com/sites/shephyken/2023/04/16/how-ai-and-chatgpt-can-crush-customer-service/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shephyken/2023/04/16/how-ai-and-chatgpt-can-crush-customer-service/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64385b4765e1abf46213615f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Mind your language: The risks of using AI-powered chatbots like ChatGPT in an organization"
     excerpt: "A spate of recent news points up the potential security and other pitfalls of using AI chatbots like ChatGPT within an organization."
     publishedDateTime: 2023-04-14T01:37:00Z
@@ -41,6 +57,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "ChatGPT cheat sheet: Complete guide for 2023"
+    excerpt: "Learn everything from how to sign up for free to enterprise use cases, and start using ChatGPT quickly and effectively."
+    publishedDateTime: 2023-04-14T04:00:00Z
+    webUrl: "https://www.techrepublic.com/article/chatgpt-cheat-sheet/"
+    ampWebUrl: "https://www.techrepublic.com/article/chatgpt-cheat-sheet/amp/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/chatgpt-cheat-sheet/amp/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 74
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/04/chatgpt-adobe-stock-irissca.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "When ChatGPT meets humanoid robotics"
     excerpt: "AI and the development of humanoid robots are two cutting-edge sectors where the projects underway are pushing new boundaries."
     publishedDateTime: 2023-04-15T23:01:00Z
@@ -56,20 +88,6 @@ related:
       - url: "https://img.astroawani.com/2023-04/81681468280_TBNEO.jpg"
         width: 590
         height: 400
-        isCached: true
-  - title: "Can AI answer your money questions? We put chatbots to the test"
-    excerpt: "Face it, we could all use a little help with our money. So who better to ask for personal finance advice than a couple of the most powerful chatbots on the planet?"
-    publishedDateTime: 2023-04-13T12:26:00Z
-    webUrl: "https://www.reuters.com/markets/wealth/can-ai-answer-your-money-questions-we-put-chatbots-test-2023-04-13/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/jNVRinp2T_SXac_4KvfiD0LjfVA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5MBSSC3XD5ORJMYHLNP4RJMSVI.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Company Ditches Humans in Favor of ChatGPT-Style AI"
     excerpt: "Move over Don Draper: at least one agency thinks AI can devise better ads than humans ever could. Bluefocus Intelligent Communications Group Co. plans to replace its external copywriters and graphic designers with ChatGPT-like generative AI models,"
@@ -128,6 +146,20 @@ related:
       - url: "https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif"
         width: 1024
         height: 576
+        isCached: true
+  - title: "ChatGPT Therapy: Why People Ask AI For Mental Health Advice"
+    excerpt: "ChatGPT's ability to produce seemingly-manmade text and responses within seconds amazed the world. As a result, it gained 100 million users in January, becoming the fastest-growing consumer"
+    publishedDateTime: 2023-04-13T19:25:00Z
+    webUrl: "https://technology.inquirer.net/123143/chatgpt-therapy-why-people-ask-ai-for-mental-health-advice"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 54
+    images:
+      - url: "https://technology.inquirer.net/files/2023/04/ChatGPT-Therapy-featured-image-buzzfeednews.com_-620x349.png"
+        width: 620
+        height: 349
         isCached: true
   - title: "GPT-4 vs. ChatGPT: AI Chatbot Comparison"
     excerpt: "GPT-4 and ChatGPT are the two trailblazers for GPT technology – which has dramatically sparked interest in generative AI and artificial intelligence in general. GPT is an abbreviation for Generative Pre-trained Transformer,"
@@ -230,6 +262,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 19
+  - title: "Will you lose your job to AI and tech like ChatGPT?"
+    excerpt: "When artificial intelligence arrives in a workplace, some automation inevitably follows. So what does the future look like for workers? Are job losses on the horizon?"
+    publishedDateTime: 2023-04-16T06:00:00Z
+    webUrl: "https://www.fastcompany.com/90881876/ai-chatgpt-take-jobs"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 19
   - title: "Is ChatGPT Worthy of All the Hype?"
     excerpt: "OpenAi’s ChatGPT, the new kid on the AI block, has attracted much attention since its introduction in November. Using the large language model, the technology produces intelligent and informed text in response to prompts,"
     publishedDateTime: 2023-04-14T09:19:00Z
@@ -239,20 +280,6 @@ related:
       name: International Banker
       domain: internationalbanker.com
     quality: 4
-  - title: "Professors are using ChatGPT detector tools to accuse students of cheating. But what if the software is wrong?"
-    excerpt: "Universities, professors and students are grappling with the repercussions of using AI cheating detectors from companies like Turnitin and GPTZero."
-    publishedDateTime: 2023-04-15T11:25:00Z
-    webUrl: "https://www.jsonline.com/story/news/education/2023/04/12/how-ai-detection-tool-spawned-false-cheating-case-uc-davis/11600777002/"
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
-    quality: 4
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2023/01/27/USAT/d3d81034-726a-4549-ad06-6ef697eb72b9-AFP_AFP_337P9FE.jpg?auto=webp&crop=8106,4560,x1,y382&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "PAmYMA2x4+uSaT4siK4QNU1E2Uy6uE/F1oYylq6OIbcZwWtdnbhLYyr+3sN0VPC4vDYgVhfCZc7oVw0Pf8wNVkz/cNpqHIIe85ZBf5gvNLCP+KhSeiroh4cKiFRvLR6zJ74ewDHQPnz2F185ltYLCuQjgz3VLmH116Wt8/5frf71deuyTwEtX+OXxJWb+immC+0F/SMrruyxHnEg2mRB7v3eG5J5j4F6lDAcSQUsqluYyMxh8QdAa0cuFGAmbVaNbQmpw4JyVpjh5NtkiFj0DOkLubPD3RHHw1P7TYWLEEl280CFPWoezOVxBlxdZIM8Eo/kSNgvQL/NbyeM/IMkirUl3pqHpgpd1sgL0zSpgLw2txk5NRmrBDj/b8N+jzP5ELzkrVOMtoRSKvTSC5e2SXOS+y0+KPs6lRPzaEHOyljfcszDw3hJmCtUQGS13OWvRBx94kTyeJUsfVDNiRlgYcI+pndPF8vpvi2xz1qYTZkWce0FE0g1yHVAC9yGMVTTcu4VCsDLhMf0crWiFNy6AA==;3E7geKgdNVQ4va0dVDtmvg=="
 ---

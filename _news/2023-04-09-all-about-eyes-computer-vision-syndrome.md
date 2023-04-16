@@ -15,6 +15,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "WyGUeY3Usu5lTDPKdkELnc6hhx1U5GomZrx4Q/K+kBYHWVdpUizTTJZ3Aoa+YcFOT5EcxkbVGGvYEYAY5d2/tuRN8UEHFJ8iwkdqvIy1qusTHn0IWx9fj6KledcCUF1t+6Do/grsODukQZnXYzG6EIiKf/yiXxVq7C23MW5YaroRsXVp3CfnRpJCkntQGty+K0JcGv4ekkriHXomKtaI0GvOOJ8hn2eVoiD+uaTrAN0PqPkvuh/Q64WS6mnVWjIW5afXXxIks4vAtGopoe8j5xinRjGjO5tNmtbgeyRxPMMS4dwVX+iMvuo3EdS9S7MTig5XkYP/DkKAmerkEHgbQs4fhd/yLIjVtSGIElz8TIY=;qEdUGF30m/O5e5wVBUYSLw=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/globegazette.com/content/tncms/assets/v3/editorial/0/9f/09f4288b-e367-5bad-ba41-2451e55d4252/642fa3aadd541.image.jpg?crop=1286%2C677%2C0%2C240&resize=1200%2C632&order=crop%2Cresize"
+    width: 1200
+    height: 632
+    isCached: true
+
+secured: "syl8IY0n+4Tvi+u9fCPUfBCDTFwZ0ZrIUe/78glDkopQCOzzHx91Mem7WgQrOJHW0CaNRHByfR5OtQMvJbcjINewuOQcHnR/HxVaFqdB7eVxDYYlRyMOGsAUCkHVap47OaofGZbZE8Urm0FxtQ8V7ibUWoieyk3a/X+f+51gnq1cezy3fAHSe6Hkmw9XV4up7TQWbcB6SDi5sVK2Zmz4dpMxczO/PP+guNMFqcwo5O/M50Tu6pRciYfYv/GJE2cuWq2tQ+Iik3PcQ3HynUALJMuhWNSaOMosQ+phGZnwSZTS5Pwy7xnmzfbQexn3HUQ+LTpOt6/41XwxrxgXoqaZFnGY7ZWd2XUHbFkU6siXe0c=;y3vx4SBzSR3KVGWhXswhYQ=="
 ---
 

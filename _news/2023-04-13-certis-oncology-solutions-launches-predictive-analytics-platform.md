@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Certis Oncology Solutions Launches Predictive Analytics Platform"
-excerpt: "Bioinformatics solution combines artificial intelligence, machine learning, and functional testing to elevate precision cancer treatment Certis Oncology Solutions (\"Certis\"), a precision oncology and"
+excerpt: "Certis Oncology Solutions (“Certis”), a precision oncology and translational science company focused on combining functional assays and artificial intelligence to advance personalized medicine, today announced the launch of CertisAI™,"
 publishedDateTime: 2023-04-13T16:02:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/04/b31792164/certis-oncology-solutions-launches-predictive-analytics-platform"
-webUrl: "https://www.benzinga.com/pressreleases/23/04/b31792164/certis-oncology-solutions-launches-predictive-analytics-platform"
+originalUrl: "https://www.valdostadailytimes.com/ap/business/certis-oncology-solutions-launches-predictive-analytics-platform/article_2b7c9c6f-8b3b-5977-bf5e-8049c4140b09.html"
+webUrl: "https://www.valdostadailytimes.com/ap/business/certis-oncology-solutions-launches-predictive-analytics-platform/article_2b7c9c6f-8b3b-5977-bf5e-8049c4140b09.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: venturebeat.com
     quality: 35
 
-secured: "A9RwQIDVa95p53+HW2pnPASrpnKZRE5Q47Dm+cwG1k1EMGgSlHSpmzDdoPVr70UJAAb5W4DaljvCY0PQ2bAwZex/D9BalFV0hiI0374x+H7uz+XjuqpA1DXJxL6XzHXTZkZQFy11EUTQoVxZUjU7Cwb8Lhnb/0yVM34naqg38iwdyFvv1/6jNJesYsAAQi81JOE7IaGstewDN2hw1BnhQAoFImbv3BUacZWjkduUPqFotBe0CnqlkuysgXAmDVRqmmyRnKY5TJWS3cfDThMdfnfCu3wfi5CDWTKf5qSQcEM9H9RFuP1W7O4e3lI5WjwbgRpBQ0H31xicp0dQLUiYfO3rdmQDKxQ/pYUDodkeWXc=;6LognjExjqViWcsq3e1bgA=="
+secured: "fkKyStpFIL5zGKgLSOmDRIKY2wigKEQyeQJNJaJk7nniu3Gy9SVQIUjS60WcR1DvSrBNvjSuehrWp2Ua4nsvzNlvxAWIW82fcU5z8Q+mUFvd418pbRZl4wBC3ftodQMOuJ2KSJZR4f3SNiDqaYUTe8hTH+piS5Zvk4YKi2WIYX0O0uaOLnUTwKEyMMbqloyyH9QCWBHBU57AebMjcmCaE7QU5jbgMaYheQOe7S9LKKMNSKHWSjn56ykY5J2/lEOcCwE8VbL15a3Qs0mJIQYbHrizPe0BiaPNKJB7gBIYmz5193Ben4Y1opIiRGtOObd7DUW0Wkv+To3JNtUWgEo93ESwUtjG1RoZlG0VVTNxxLw=;v94UuqR3UBGYJgzLn2G2Ow=="
 ---
 

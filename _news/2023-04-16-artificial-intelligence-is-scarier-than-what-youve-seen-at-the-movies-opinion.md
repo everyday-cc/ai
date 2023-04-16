@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-16T13:13:00Z
 originalUrl: "https://www.nj.com/opinion/2023/04/artificial-intelligence-is-scarier-than-what-youve-seen-at-the-movies-opinion.html"
 webUrl: "https://www.nj.com/opinion/2023/04/artificial-intelligence-is-scarier-than-what-youve-seen-at-the-movies-opinion.html"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: NJ.com

@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Artificial intelligence: 'The European Parliament should summon Elon Musk to Brussels for a hearing'"
+    excerpt: "OP-ED. Economist Vincent Lorphelin calls on the European Commission to take up the Neuralink boss' request for cooperation with public institutions."
+    publishedDateTime: 2023-04-16T14:36:00Z
+    webUrl: "https://www.lemonde.fr/en/opinion/article/2023/04/16/artificial-intelligence-the-european-parliament-should-summon-elon-musk-to-brussels-for-a-hearing_6023132_23.html"
+    type: article
+    provider:
+      name: Le Monde.fr
+      domain: lemonde.fr
+    quality: 24
+    images:
+      - url: "https://img.lemde.fr/2023/04/12/0/0/2404/1603/1440/960/60/0/c7dbdbc_ed2e227663c440efbb132c067f0ed043-0-50f8e4d1c06646d0ae14eaed08c5ca5e.jpg"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "European parliament prepares tough measures over use of AI"
     excerpt: "The European parliament is preparing tough new measures over the use of artificial intelligence, including forcing chatbot makers to reveal if they use copyrighted material, as the EU edges towards enacting the world’s most restrictive regime on the development of AI."
     publishedDateTime: 2023-04-14T11:08:00Z

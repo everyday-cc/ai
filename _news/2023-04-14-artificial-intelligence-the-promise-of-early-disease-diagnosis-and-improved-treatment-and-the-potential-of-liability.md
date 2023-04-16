@@ -8,7 +8,7 @@ webUrl: "https://www.natlawreview.com/article/artificial-intelligence-promise-ea
 ampWebUrl: "https://www.natlawreview.com/article/artificial-intelligence-promise-early-disease-diagnosis-and-improved-treatment-and?amp"
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/artificial-intelligence-promise-early-disease-diagnosis-and-improved-treatment-and?amp"
 type: article
-quality: 35
+quality: 37
 heat: -1
 published: false
 

@@ -21,6 +21,13 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Facebook AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/2050270/Human_machine_collaboration.jpg"
+    width: 286
+    height: 400
+    isCached: true
 
 related:
   - title: "King’s College London exhibition explores artificial intelligence and automated decision-making"
@@ -33,6 +40,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 7
 
-secured: "l96HIHNxf7vFViiJ/9w2WGDnMhZkLh+JfCJNtSGvL7J2RfU2xUKLk+TU117fCWiWnfCMIjHcnVmO15Nj2VFVh3OQkx0ErcDSYF0LwGTigMZLXWEcXNPvuHiaKq2sC2DHn6QmIg1MtId+8JmUj9AkbmmtWSEVAAbw+3CidlebsbEutSE6iu4kEiFyN6ColW4OKX1dF+yE7ksh0uBWzgPze2Dd3M0VvVyqNd+5+V/gBvxOkOhr7VWi1EC4qUVUZkORKJ9UBgSdlWUyHlBN62822IClDtWiQAwm7Qj/q2/QBxt231jsS5+SKhgGZub8IiimXECV1UvocL7zQYtxceItBOZoD79Pr0d7CSpsWuG+tKFUMEz7HizQdySTxSJzds+2vRYNbKEQ/qXhi1By12ug9/ZTXvZwoHkSLyBrQjeFit8kywGumqOAzYMIG9tGqwKooYpuEp7OkvrXWBEcwY+KAQGuMavnPgfRD9LdAyiamP+gxzab//zY1ft+WArDH/GUAodsRPkdjlasFLQiXUkoxw==;/w6pHgJRbUR1wbuVCgm7Jg=="
+secured: "8TYb0ATsZcJArME2VOrdiSOJgc+xSA5yZxEzmCMlxqHOPOtDn/lS/g3p7Dlr3tvOij+Gv3Q42X+ox3wrpkc+DdJ4sx32O786LcVr7PbG92RiAC8e0l/M6xMyIHdVqpdUPepwRxhlcPXrVCSkuED3guxDSHtr60Aovht1PUHTYMlAl4adYODzbYY99thgAGAcfS16qVE/t31+VlNnIs5/WhSsIGpU8YXSWiHWkoggDlD5Kj7tfMBV32Mz/tAcww00SMTTDzkYLmEm74rPpHUbFz+HgCbCsLWcM7nNXjryadwRIa71XA3SiPkWd4/6QAdCd0U9316D+jwuWR/VrxSnz5MQ9BS7ktJLT9Z+29N7WJ0=;ytWMfmlHedE1TgLf0DYH4w=="
 ---
 

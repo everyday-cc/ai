@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-16T12:54:00Z
 originalUrl: "https://www.rte.ie/lifestyle/motors/2023/0416/1377286-ford-self-driving-system-comes-to-europe/"
 webUrl: "https://www.rte.ie/lifestyle/motors/2023/0416/1377286-ford-self-driving-system-comes-to-europe/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: RTE Online

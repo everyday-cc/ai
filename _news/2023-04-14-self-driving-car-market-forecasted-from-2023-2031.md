@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How road rage really affects your driving—and the self-driving cars of the future"
-    excerpt: "New research by the University of Warwick has identified characteristics of aggressive driving—which impact both road users and the transition to self-driving cars of the future."
-    publishedDateTime: 2023-04-11T20:10:00Z
-    webUrl: "https://techxplore.com/news/2023-04-road-rage-affects-drivingand-self-driving.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 0
 
 secured: "7k7Ye6eJFMk5GC2mfiNqKRnqOL1DVn4q3s1T8HFZgdF7bb8E1bw7M5z48c83R24wlmdQVrA0yCg1+JSu36Kz8ym8Do6uAtw42FCTfGAt2BRcaTPxV7a2A5fVENOFrt7qRniQb1VK35TE+MExl7kZSnT0zn+8ltg5JGHn+l9+gJMPGCpanJXWvRRUQtfzYrbl6nxxYutjIOlT7Z/Ds58+sgjP1ERyUUgk4d5QnzyWoZRP0Yjm2Bgt3JVwx1+pAXVm78ZD/gJgwqENKg2LwnYvSv5VCIKn62bBu8H0MyanmTXLuV5fSACFDELfEqadxnhkxxg1SdwrdbXALHiVbDxnjCNecVX4om2owaovJmcjigg=;0kVIUcyWjBlTB22GEjrlhw=="
 ---

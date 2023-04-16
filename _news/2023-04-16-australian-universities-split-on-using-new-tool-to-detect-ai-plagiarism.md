@@ -1,0 +1,52 @@
+---
+category: news
+title: "Australian universities split on using new tool to detect AI plagiarism"
+excerpt: "Turnitin claims its device is 98% accurate but some institutions are concerned about not having enough time to make a decision"
+publishedDateTime: 2023-04-16T14:00:00Z
+originalUrl: "https://www.theguardian.com/australia-news/2023/apr/16/australian-universities-split-on-using-new-tool-to-detect-ai-plagiarism"
+webUrl: "https://www.theguardian.com/australia-news/2023/apr/16/australian-universities-split-on-using-new-tool-to-detect-ai-plagiarism"
+ampWebUrl: "https://amp.theguardian.com/australia-news/2023/apr/16/australian-universities-split-on-using-new-tool-to-detect-ai-plagiarism"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/apr/16/australian-universities-split-on-using-new-tool-to-detect-ai-plagiarism"
+type: article
+quality: 57
+heat: 67
+published: false
+
+provider:
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://i.guim.co.uk/img/media/e5fccb4a3288b0d7fdba8b10f53196cdade5fdb4/0_456_8192_4918/master/8192.jpg?width=620&quality=85&auto=format&fit=max&s=4fad7490e8f106ce527c5ee67fbcdb73"
+    width: 620
+    height: 372
+    isCached: true
+
+related:
+  - title: "Voice won't change Australia Day date says Indigenous Australians Minister Linda Burney"
+    excerpt: "It should be in celebration, and recognition of the great things about our nation, but it also has to be in reflection about the truth of this country.' Ms Burney stated the Voice would instead be focussed on addressing 'everyday' issues that Aboriginal ..."
+    publishedDateTime: 2023-04-14T01:43:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-11971075/Voice-wont-change-Australia-Day-date-says-Indigenous-Australians-Minister-Linda-Burney.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-11971075/amp/Voice-wont-change-Australia-Day-date-says-Indigenous-Australians-Minister-Linda-Burney.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11971075/amp/Voice-wont-change-Australia-Day-date-says-Indigenous-Australians-Minister-Linda-Burney.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 36
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2023/04/14/00/69811431-0-image-a-2_1681428052803.jpg"
+        width: 636
+        height: 382
+        isCached: true
+
+secured: "OXPNg+Lv2Efsjxw2vgA4i/gzLnSlGisdCasyo2H3th69euCRcuB4UoSPu4LPcLC3ritz9heFdNKQ1ctchI6fEJY0jquMkJ33WQCgnmJkuL6sE0AHpa0HxfIiKwq68iRFwWm9TtPR+wY84HejofrixMC3GrAhmouwGYmopY5RQngnsikNhDB9jCnLF4ujJaZ2ftEmzYShYXH72Xejv3NyHBRYAcPGKfDF7Qy2rQ9DZfW3YWOYWsXFTld9P67+dSGA2hoDCJNrUZ6xeAk9lrwcGubza5ddJBJcTgmmsI3dhCTEGDTr+YiVBlHBmcI7xC3GcbH4k9Vbls7AW0iMzmzKXwvH8BQK6udIedfzNwHvmg4=;OY4BpA12WZ/hm3DEc2PpQg=="
+---
+

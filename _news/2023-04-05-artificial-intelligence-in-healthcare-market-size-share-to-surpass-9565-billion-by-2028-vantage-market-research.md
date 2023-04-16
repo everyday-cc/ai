@@ -15,6 +15,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "2sqXx2hqiTcswKiAcUixNrbporba/k6XsnqfpFNyT/uZCu2TjdyaksyadOpnNZE/hCq7Kos+ROSANtx67hatKCNN8XJXsbH16OyaUOLGJSkeC9m6/9P5gL6hicxhMNHQGtM09dQyv5bgTTVEiDM6UQ0chsyI/86Dp8YPszJqyXvt8Ut9QCGK0crzWbvzcmiD8ydtXsAILpYnV6nVAEyvP1QKGC6HBS/gRuW3VjpHngJrMb/4267xEXPW04ZXg/euu5wi9cLthZTK2rbCsLkudSNKJhbxMZOMVr7Kx2rMUyEBxmXIeJ917b0f3h4GKahwVOAWWPpmM2dQXH156w2V3C2vn6JzTXabWmBIlrbPScM=;/oHB3w0p5ozR2/cRJMBZZg=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?18073"
+    width: 416
+    height: 250
+    isCached: true
+
+secured: "Nw5aySzEcmEQj28+d7HzNneAIskCSycVRoR1q83mhXTgyyL4ADHfpY/Wtx/Q+c13m35iZK+Zypz2dKON8sACA+4coGZbdFpvdWHebTLORR5ACXFlwNTmMc8Q/fM46rtm4QifJT9vHv4e/B1EdQTMty111lFSSp5WnWa3eXMxU9/BqpcgCcBP8cP5x2ZZWvq4GmekBH003tMKaNkUYHudY9V2Nb9INBzstNFGBokzVUFck2UlK/ubb9D4uA1sP7koqr8kQUhGK3TniisObCI1/WjDlQPRW1xBb1XqfN60rh4rKVvw52/dYpeZkNUrBGpNUgaooLBvrYo3l51WNjnLcps2CHFt6dekd4k1jB5MfF4=;o21KFe568a59rq9LR0Lzbg=="
 ---
 

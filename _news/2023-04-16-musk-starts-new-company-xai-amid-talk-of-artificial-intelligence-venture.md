@@ -462,6 +462,20 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "Elon Musk reportedly establishes startup X.AI while asking others to pause AI"
+    excerpt: "The CEO of Tesla and Twitter, Elon Musk, has reportedly launched a new artificial intelligence (AI) business called X.AI Corp to take on OpenAI."
+    publishedDateTime: 2023-04-16T14:28:00Z
+    webUrl: "https://interestingengineering.com/culture/elon-musk-creates-xai-to-tackle-chatgpt-power"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 34
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/04/16/image/jpeg/ctcUsYSetjadJB1xkJ1hAM3OgojUkFebvdCovn80.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Elon Musk plans AI startup to rival ChatGPT-maker OpenAI: Report"
     excerpt: "Twitter-owner Musk is assembling a team of AI researchers and engineers, according to the FT report, and is also in discussions with some investors in SpaceX and Tesla Inc about putting money into his new venture."
     publishedDateTime: 2023-04-15T12:12:00Z

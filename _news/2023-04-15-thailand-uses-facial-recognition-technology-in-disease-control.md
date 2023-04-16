@@ -9,7 +9,7 @@ ampWebUrl: "https://en.vietnamplus.vn/thailand-uses-facial-recognition-technolog
 cdnAmpWebUrl: "https://en-vietnamplus-vn.cdn.ampproject.org/c/s/en.vietnamplus.vn/thailand-uses-facial-recognition-technology-in-disease-control/251608.amp"
 type: article
 quality: 74
-heat: 84
+heat: 104
 published: true
 
 provider:
@@ -42,6 +42,34 @@ related:
       - url: "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2023/04/932/470/gun-side-white.jpg?ve=1&tl=1"
         width: 932
         height: 470
+        isCached: true
+  - title: "Disagreement between Government parties over facial recognition technology"
+    excerpt: "Tánaiste Micheál Martin has disagreed with the Green Party on how facial recognition technology should be introduced."
+    publishedDateTime: 2023-04-16T15:26:00Z
+    webUrl: "https://www.rte.ie/news/politics/2023/0416/1377316-facial-recognition/"
+    type: article
+    provider:
+      name: RTE Online
+      domain: www.rte.ie
+    quality: 37
+    images:
+      - url: "https://img.rasset.ie/001bca3b-1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Tánaiste Micheál Martin backs plans to fast-track use of controversial Facial Recognition Technology by the Garda"
+    excerpt: "Tánaiste Micheál Martin has backed plans to fast-track the use of contentious Facial Recognition Technology by the Garda without dedicated legislation, amid signs of a growing internal row in the coalition on the issue."
+    publishedDateTime: 2023-04-16T15:38:00Z
+    webUrl: "https://www.irishtimes.com/politics/2023/04/16/tanaiste-micheal-martin-backs-plans-to-fast-track-use-of-controversial-facial-recognition-technology-by-the-garda/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 33
+    images:
+      - url: "https://www.irishtimes.com/resizer/eHFLdFjmOZaEl8-Ht_agSBqLl98=/1200x630/filters:format(jpg):quality(70):focal(1947x598:1957x608)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/YCEUX2TOYSNCBA5ZY6V3HWLK5E.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "XhMUKaaWBqVhfKRNbW8mQ+x6b2CtKtq/NwV8SC7xipgrRlxyYd0a/8Ygg/yWGkWE1S022gNzEpS95bZI6DoFCQ8HuEvOXhZ8u10A50MWb8b8NDuahL1DmZdhHheAS67R7Fp8QtEVnr4sW+UNMmDSOyB3HdqxRv42YcCTAD4aRcvdO+C3uLU2GV388OPdnWRoNJJdLvfJbDTdt+mZEub+wlCukrNAz3IRVWFdskPr1zV3yAYJRW427uNc6gpThFbBC8iBMU+UApTQTLlMm5e1sQekYNrS36wdj4v7/iXqJUDDwEWUpLldq4hdf/D9DQTAKPdhYSDEnVzfJBb7nT+Pgbs9z1S1jZQNH3C3CsHn7otSS67Agkqq6D2Npm+0KvRuu8T89j5QtEoSC3Yd+Hq1k7QmVWqUt4jiwK0cMAjO05FNuRg7bZz6g6TAMQ3MJvWDZz0K7Y+vrtOjnE48i2obHGPFS+FJRuaEZ2aoNB3WBopo5pf/ooOBOG9JaMgmwxgiWtcIaJGXA1UT1dUF0nRtcw==;5wEJp4exI3Fyug3tyjvIXw=="
