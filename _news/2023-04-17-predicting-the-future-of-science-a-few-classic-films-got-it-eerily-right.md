@@ -60,13 +60,13 @@ related:
   - title: "A few classic films made predictions about the science of the future. A few got it eerily right"
     excerpt: "Here's what some notable films get right about science and tech — and what's still the stuff of science fiction."
     publishedDateTime: 2023-04-15T01:05:00Z
-    webUrl: "https://www.wesh.com/article/films-predictions-science-future/43605947"
-    ampWebUrl: "https://www.wesh.com/amp/article/films-predictions-science-future/43605947"
-    cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/films-predictions-science-future/43605947"
+    webUrl: "https://www.kcra.com/article/films-predictions-science-future/43605947"
+    ampWebUrl: "https://www.kcra.com/amp/article/films-predictions-science-future/43605947"
+    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/films-predictions-science-future/43605947"
     type: article
     provider:
-      name: WESH
-      domain: wesh.com
+      name: kcra.com
+      domain: kcra.com
     quality: 32
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-304c049b19523c5d188b817b7050d8f1-h-5d7249b870670b58b4a20842e2846e69-preview-1681515605861422540.JPG?crop=0.99555555555555553xw:1xh;center,top&resize=1200:*"
@@ -102,6 +102,6 @@ related:
         height: 280
         isCached: true
 
-secured: "OvWTjZbxExjAbhraoZtLTqvBRw3Ax76T/Ecw00hzok+eEqzHVE1cNWcouyX9i5dX0dIhg82P+PaB+3d72tDWe2123Y9YlhNkxvxJqWavToCQTCsHjWWqATXVhS8dfO1AoVeNAW4da5M85XmJI/4FPJFkW1ITJXE2A1yMokYlV6HBHRDuX9XKqbLtIz6x6E85o1q5xgnuSFzTmLm2bbUfqLgLwFIR0PB+oVPmGllnUI9QYHBk+H7yd+avubjc+i9Omc5jyeK2lTSjZt5vcm0e2iwp5yBmnTO3nexXHoCqBNV11vHXtIRHmPCKbmiTUniumwIw+h3GoOUQAGaUS7bY2rHJUASpEY1kOzLkSDWppNE=;1KIXrieSshw3cdWN911/4w=="
+secured: "j89zsHW1Dt2mjT8hzsogFcIf9XV7f32BnmWOH6SPQBpkL5Qsmu62/jVdAOt8Bhsp3/wlAsFL33MrzufTCK4GUL2XJ9iCVPmMlGz7uH0KvKbgzJVYYWyRHdINRQkiOjWT8vx6SSWObg4VOFL8tlRqSC5lQFWiWF9zSHaDe4Kzpax62jZV8EXonekBd50l9sTHRY9vHNPN18zPz3zefwDZ5R675qalvq2D0n4csWZYi9/aFRfT5YVE9iRF1H/OqKmD0DMzuwvm4VWSAuYy1yngS1CU9QwxyrXEhdiCQBKCaXiODvKG1L8kus010bit4TfncV3bkBlyitRep5KR0b+Hfpfek3mtu2IAD+NbLlqA3XsK+Qb2h6P0VdwZPVuTmaOXY3z41zfKEgdIe5BFJsnIk1Ezz4Zx3KOGnCYZM9a1JKZjnCXtRVcLymVfi9DBK17lBJy7yigBuW80l1f0gbT6cGp6eTx/N0CuA3QDqC9d/GfCWjTVSeOCFoYmvMIGwu7TzrH/EwUZdGzTvqpnpGi49Q==;GOX12ZMCRQ/58Vvw5kMMCw=="
 ---
 

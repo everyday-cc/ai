@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deepfake porn could be a growing problem amid AI race"
-    excerpt: "Artificial intelligence imaging can be used to create art, try on clothes in virtual fitting rooms or help design advertising campaigns"
-    publishedDateTime: 2023-04-16T11:24:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/deepfake-porn-growing-problem-amid-ai-race-98618485"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/deepfake-porn-growing-problem-amid-ai-race-98618485"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/deepfake-porn-growing-problem-amid-ai-race-98618485"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_e7935e9922cda82fbcfb1e1a88d9443a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Stability AI's New 'XL' Is a Super Powered Deepfake Generator for Businesses"
     excerpt: "Amid reports of Stability AI’s financial struggles, the AI company is now pivoting to selling its more Stable Diffusion model to companies like Amazon."
     publishedDateTime: 2023-04-13T22:01:00Z
@@ -49,6 +33,17 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 44
+  - title: "Deepfake porn could be a growing problem amid AI race"
+    excerpt: "Artificial intelligence imaging can be used to create art, try on clothes in virtual fitting rooms or help design advertising campaigns."
+    publishedDateTime: 2023-04-16T15:24:00Z
+    webUrl: "https://www.seattletimes.com/business/deepfake-porn-could-be-a-growing-problem-amid-ai-race/"
+    ampWebUrl: "https://www.seattletimes.com/business/deepfake-porn-could-be-a-growing-problem-amid-ai-race/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/deepfake-porn-could-be-a-growing-problem-amid-ai-race/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "Deepfake porn could be a growing problem amid AI race"
     excerpt: "But experts fear the darker side of the easily accessible tools could worsen something that primarily harms women: nonconsensual deepfake pornography. Deepfakes are videos and images that have been digitally created or altered with artificial intelligence or machine learning."
     publishedDateTime: 2023-04-16T19:26:00Z

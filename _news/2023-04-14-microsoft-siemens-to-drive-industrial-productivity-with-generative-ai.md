@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/microsoft-siemens-to-drive-industri
 webUrl: "https://www.therobotreport.com/microsoft-siemens-to-drive-industrial-productivity-with-generative-ai/"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Brazil's Vivo to Adopt Microsoft Azure OpenAI Service"
+    excerpt: "Vivo's objective in adopting the Azure OpenAI Service is to generate a positive impact on its customers' experience and increase the company's operational efficiency. For this, the company plans to use this technology in different areas, such as customer service, new business development and internal processes, among others."
+    publishedDateTime: 2023-04-17T07:10:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/31600-brazils-vivo-to-adopt-microsoft-azure-openai-service"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 69
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/73ad5156be0610f6c18cb125f6cec8a2.jpg?t=20230417_070759"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Microsoft Stock Is Easily Your Best AI Bet for 2023"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips If your portfolio doesn’t have some exposure to artificial intelligence"
     publishedDateTime: 2023-04-14T16:21:00Z

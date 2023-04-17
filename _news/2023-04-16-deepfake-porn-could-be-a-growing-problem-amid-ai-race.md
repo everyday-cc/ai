@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Deepfake porn could be a growing problem amid AI race"
-excerpt: "Artificial intelligence imaging can be used to create art, try on clothes in virtual fitting rooms or help design advertising campaigns"
-publishedDateTime: 2023-04-16T11:24:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/deepfake-porn-growing-problem-amid-ai-race-98618485"
-webUrl: "https://abcnews.go.com/Technology/wireStory/deepfake-porn-growing-problem-amid-ai-race-98618485"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/deepfake-porn-growing-problem-amid-ai-race-98618485"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/deepfake-porn-growing-problem-amid-ai-race-98618485"
+excerpt: "Artificial intelligence imaging can be used to create art, try on clothes in virtual fitting rooms or help design advertising campaigns."
+publishedDateTime: 2023-04-16T15:24:00Z
+originalUrl: "https://www.seattletimes.com/business/deepfake-porn-could-be-a-growing-problem-amid-ai-race/"
+webUrl: "https://www.seattletimes.com/business/deepfake-porn-could-be-a-growing-problem-amid-ai-race/"
+ampWebUrl: "https://www.seattletimes.com/business/deepfake-porn-could-be-a-growing-problem-amid-ai-race/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/deepfake-porn-could-be-a-growing-problem-amid-ai-race/?amp=1"
 type: article
-quality: 57
-heat: 87
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/US/wirestory_e7935e9922cda82fbcfb1e1a88d9443a_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Stability AI's New 'XL' Is a Super Powered Deepfake Generator for Businesses"
@@ -59,6 +53,6 @@ related:
       domain: chron.com
     quality: 17
 
-secured: "DUoSqiA0SjpQMbVD8/gdDEsRw5CyjFHJ9mbHAEgTZvDgCoeviXqU8VqgrlKGabICmoHFWyiIGeqCME8XG/FY/3AJpdWFPQDUM48icegFtuKIi4a/OQ0fpJnd33uqIPTtQAxxX684lQmyUy+1lqk2ycsL5usuV1MN5G1ho+i5yd0hupVGhHr8RlQB8hZDIhc1A+YiaK0YyZf9SYAaqMpbmqFqjpvDtwB/4ZO8PImJhSDwkPuxZMdk7oO6a++DjipKV/QnwDgPYMucNm2L0zplrwVlrlxMZwzbN0WEchmwUe+zQ7jDEKJc/pGBikF/CaevzJEzbjjRlhbYOjZhqlHuu1osdls0yd1wLAobWbpErTY=;454hq8eVXtUdkRxTk7d9Zg=="
+secured: "0yvsonV2uAjBotCK/S0K8kc8YvALGeuoguM/k1e9Zb/NciLZLTzaJjj6BzE64OKiTtVa1M9ggnpRDMtz4ecD50ms9vjoe0MSsSGFjGOmeU9dXSHvE6oWMEWo7oYQLh99tB6Cln48ZE5XkVtkSIxSxO/+Bnq2ToQAL4UU726bn5zgzGZi7bbW5wwxldrzwiTkUq7YYldguybOndcEYuuS4+hXRNgTxRC9aTXF+U5Ryzv2TcE9eIwbURsTmWvkT410WFqde+58yqRDnefG+0q7kakqmu2yYrUjkP/YeWe8SkXTEwY7qWYQwNAMVnR3zphgcGET6QNWu3GR/bjPU7Hu5nh0zfxQ3yF9yChy5jTvR3krCxacpjxypwJCtvRkiFf3ICqP2epAqjjykMZGlSlFWMmO0YR5/zoteIVf8wnYjnFJyarxMFyiMk+pyMcSjf1yLA/sIjjN+eMWhzqYDGk8sZhkbKD9A8nk7PdDTiLtfM4BTsH3s9gzB6EAHj2MXBI6+I5qFDfXF8b9rdAAhGpHIg==;Ms4QHOj0zt29xN5I8Axz6w=="
 ---
 

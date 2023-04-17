@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence in Marketing Market Size [2023-2030] | Share, Growth, Recent Trends, Development"
-    excerpt: "Global “Artificial Intelligence in Marketing Market” (2023-2030) research report is an expert examination on the"
-    publishedDateTime: 2023-04-14T09:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-marketing-market-size-2023-2030-share-growth-recent-trends-development-2023-04-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2023 Automatic Speech Recognition Market : Leading Growth Drivers Analysis till 2030"
     excerpt: "Apr 14, 2023 (The Expresswire) -- \"Automatic Speech Recognition Market\" information for each competitor includes (Validsoft Ltd, Agnito, Voxeo,"
     publishedDateTime: 2023-04-14T16:37:00Z

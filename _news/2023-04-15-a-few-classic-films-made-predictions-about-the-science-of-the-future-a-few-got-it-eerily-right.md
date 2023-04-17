@@ -3,18 +3,18 @@ category: news
 title: "A few classic films made predictions about the science of the future. A few got it eerily right"
 excerpt: "Here's what some notable films get right about science and tech — and what's still the stuff of science fiction."
 publishedDateTime: 2023-04-15T01:05:00Z
-originalUrl: "https://www.wesh.com/article/films-predictions-science-future/43605947"
-webUrl: "https://www.wesh.com/article/films-predictions-science-future/43605947"
-ampWebUrl: "https://www.wesh.com/amp/article/films-predictions-science-future/43605947"
-cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/films-predictions-science-future/43605947"
+originalUrl: "https://www.kcra.com/article/films-predictions-science-future/43605947"
+webUrl: "https://www.kcra.com/article/films-predictions-science-future/43605947"
+ampWebUrl: "https://www.kcra.com/amp/article/films-predictions-science-future/43605947"
+cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/films-predictions-science-future/43605947"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: WESH
-  domain: wesh.com
+  name: kcra.com
+  domain: kcra.com
 
 topics:
   - AI in Healthcare
@@ -102,6 +102,6 @@ related:
         height: 280
         isCached: true
 
-secured: "J/9psI72ixyEqBaS3GiYecNsGSZO2kV2GzRl/qLTWduPRxK2ncSk9IaKTj+AR78w9nvuEuLnMH4e0lpGp1dgS8C1w7JwYxFc7B1JBCQGACKzDNlt8Rkr888lWNbll2P6IiceiILC2ZLnujGVZUX6EWYSxPnnZwnn2HbBz6V+LdWP5Rf8F0soSULIRMM60okoS/aTT1fsTziUIVEi5EB7kc/ZC0QS3Xgoy9qX6NtcvPdZOPbEa+WPcDsdDwgvExvhc3Wb7+aHbnj79q5hfKUiU1kLZmud5VRHdARSbABBP2kVhr9Y0nTkhB6NgxtG/UnrMeVkUQereaf76ta7IuFhEx3qjD6VzDBNYcZFM7laY59a93+Q8rHhP8wovYd8QNofMrmymRPj0h8mzeNQmYUDvJdJtIvUcupom87UOE6eGKEVcnKj3g85yU5QXcD6vrGWNq1dLkoXM2btOWr7c69hFE8PNh7tt5a1iuWYwLcNhokyIwo7ukVT393n2KRLg9quKBOHuk42xQmPmZ/LRO7KAw==;oqdNWeEZVPF0f73KykM7dw=="
+secured: "RPmR0ptsXlmBE7kWCHSiAChs7vIVBMICd2/P8+/mN2HDwLbBXSaFrRTO+WGar6SwrL7jWi0uXwULdR3y6FiSJSf1GD5vCilTXHWYzxKnZuQhvG0ET+ViRkq40x52JKAKZ69jxdiFyJJJyRa5Haajd5Q4Z8nlUxgaIoT7CKIL3OsEc0YfC3cgPmvhAYirq52R4pX4Rsr2sw+RHzVdTAOG7kYHQGODPuVp3CNBO+6NUL6/uN8jM1U2dyrh4OlnDX3fv7nzeyLLs24SOYR6rUX1e2D0n29nB8d691v7jszxc7oZu7KUv5tk2jphNiwnvPQPiNvOJD/32eUusypcHocZPxD1s5YuQg9pwkTSEGE8BRI=;9kdQBMwsQztubnkyu0ismA=="
 ---
 

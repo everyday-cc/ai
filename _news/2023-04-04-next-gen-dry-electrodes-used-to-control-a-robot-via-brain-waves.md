@@ -19,6 +19,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "t0+OvPkwa/alQ/LfSyHissc4Yp6X8wvF9qVPSI4PcIoFtNaBeNipcF39XQhpmoUNXwBsjy2yAAGdqXer/UGnOxj0yhoyH3QhFMAmTvCKYWLqMOsAJbhzvLy87Rqu6c7Nc7Jj67C2m2T78YUNqOrq4dVA1Bq7K5G68Q0n7eWoV+MC8UJircY9xaR7rSA1brNafQ0W9hbcm+LgDNx31nSRXpfBUAoY8+qGXwurFX5TMngR2PlEkAMnK/b4uWtUwcEz/Q+OFkcZ/2Xla8wcYhSOv5fYNeCAtvI9LYrTG52SScr5+HTJJb66Nk2QCgvmOaX7Po94eeZz962F25uarArOc7tmh/mbAfb6SIEFayB1iiQ=;F1zYP2ekRJ2Fr+8Z1MSj/g=="
+images:
+  - url: "https://assets.newatlas.com/dims4/default/2310ccb/2147483647/strip/true/crop/1170x614+0+83/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F34%2F5f%2F39264ef6410188da95ee4dce1538%2F041223brain-machineinterfacehr.jpeg&na.image_optimisation=0"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "r6zBS/2RZfISdAGtHDesMWBcktvGy2PYlG/AqOo/7gUzo4FnDFDzzHeKMF4aLusmVPrD7iolgeKioMw2XtFyQm0DEykzgMdRxXJfxix8bbkUIUI+fH8ThCz5DlrJ3k4qs3ZV0EXmYM3dJsAX2Dt9vewCOcPCTxPEdfTFdIRXiB9kjckls+/H7JwdNFm5c5nRXkGJbg1pqB/nYH8a0959jeP0ERrOg98mb/Lwpx3kblXx8s9Ha6keA7UvefrXMiNerVe5celuV21MDQUWz+fc6vtrTes5lN/0ZUc9YC0KctiWeedkmVBuSMHXmcPx7gpW0bagA8QKkxvZtDD63ji4iGFug28xqn4/qNh9KjxQH0o=;ExoLW20D9XhFg9rtK341kg=="
 ---
 

@@ -179,7 +179,7 @@ related:
   - title: "Elon Musk Starts New Company, X.AI, Amid Talk of Artificial Intelligence Venture"
     excerpt: "Web domains using the “.ai” suffix are popular with tech businesses pursuing artificial intelligence projects."
     publishedDateTime: 2023-04-16T05:47:00Z
-    webUrl: "https://www.barrons.com/articles/elon-musk-twitter-x-ai-bec69eab"
+    webUrl: "https://www.barrons.com/articles/elon-musk-twitter-x-ai-bec69eab?refsec=markets"
     ampWebUrl: "https://www.barrons.com/amp/articles/elon-musk-twitter-x-ai-bec69eab"
     cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/elon-musk-twitter-x-ai-bec69eab"
     type: article
@@ -271,6 +271,20 @@ related:
       - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDQvZTFlNDdmNTgtNGIzMS00Y2VmLWFjNzItMDlmYmUzNjAxMjRmLmpwZw==.jpg"
         width: 740
         height: 493
+        isCached: true
+  - title: "Elon Musk shakes up OpenAI, Microsoft and Google with new AI startup"
+    excerpt: "Reports indicate that Elon Musk has created a new artificial intelligence-centered startup that will be a direct competitor to OpenAI's ChatGPT."
+    publishedDateTime: 2023-04-17T07:32:00Z
+    webUrl: "https://www.tweaktown.com/news/91087/elon-musk-shakes-up-openai-microsoft-and-google-with-new-ai-startup/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 54
+    images:
+      - url: "https://static.tweaktown.com/news/9/1/91087_56110_elon-musk-makes-the-jump-into-notorious-artificial-intelligence-race.jpg"
+        width: 620
+        height: 348
         isCached: true
   - title: "Elon Musk starts new artificial intelligence organization called X.AI"
     excerpt: "Musk has reportedly started this new AI company to combat OpenAI, one of the leading artificial intelligence firms"
@@ -445,6 +459,20 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 37
+  - title: "Elon Musk has created an AI start-up to take on OpenAI"
+    excerpt: "Listed as X.AI in state filings, the start-up is reportedly gathering interest from some SpaceX and Tesla investors Musk has been wooing."
+    publishedDateTime: 2023-04-17T07:28:00Z
+    webUrl: "https://www.siliconrepublic.com/business/elon-musk-generative-ai-startup-x-openai-investors-twitter"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 37
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/11/48878769566_81a49384a4_o.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Elon Musk plans artificial intelligence start-up to rival Open AI"
     excerpt: "Elon Musk is developing plans to launch a new artificial intelligence start-up to compete with ChatGPT-maker OpenAI, as the billionaire seeks to join Silicon Valley’s race to build generative AI systems."
     publishedDateTime: 2023-04-14T17:35:00Z

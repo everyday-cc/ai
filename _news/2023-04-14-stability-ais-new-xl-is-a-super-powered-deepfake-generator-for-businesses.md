@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/stability-ai-xl-deep-fake-stable-diffusion-185
 webUrl: "https://gizmodo.com/stability-ai-xl-deep-fake-stable-diffusion-1850334500"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -23,21 +23,16 @@ topics:
 
 related:
   - title: "Deepfake porn could be a growing problem amid AI race"
-    excerpt: "Artificial intelligence imaging can be used to create art, try on clothes in virtual fitting rooms or help design advertising campaigns"
-    publishedDateTime: 2023-04-16T11:24:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/deepfake-porn-growing-problem-amid-ai-race-98618485"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/deepfake-porn-growing-problem-amid-ai-race-98618485"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/deepfake-porn-growing-problem-amid-ai-race-98618485"
+    excerpt: "Artificial intelligence imaging can be used to create art, try on clothes in virtual fitting rooms or help design advertising campaigns."
+    publishedDateTime: 2023-04-16T15:24:00Z
+    webUrl: "https://www.seattletimes.com/business/deepfake-porn-could-be-a-growing-problem-amid-ai-race/"
+    ampWebUrl: "https://www.seattletimes.com/business/deepfake-porn-could-be-a-growing-problem-amid-ai-race/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/deepfake-porn-could-be-a-growing-problem-amid-ai-race/?amp=1"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_e7935e9922cda82fbcfb1e1a88d9443a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "AI tools may help proliferate deepfake porn. What's being done to curb it?"
     excerpt: "Experts fear easy-to-use artificial intelligence tools will help proliferate nonconsensual deepfake pornography. Here's what tech companies are doing about it."
     publishedDateTime: 2023-04-16T22:19:00Z

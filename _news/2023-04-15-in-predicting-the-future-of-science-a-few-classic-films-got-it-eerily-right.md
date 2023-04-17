@@ -60,13 +60,13 @@ related:
   - title: "A few classic films made predictions about the science of the future. A few got it eerily right"
     excerpt: "Here's what some notable films get right about science and tech — and what's still the stuff of science fiction."
     publishedDateTime: 2023-04-15T01:05:00Z
-    webUrl: "https://www.wesh.com/article/films-predictions-science-future/43605947"
-    ampWebUrl: "https://www.wesh.com/amp/article/films-predictions-science-future/43605947"
-    cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/films-predictions-science-future/43605947"
+    webUrl: "https://www.kcra.com/article/films-predictions-science-future/43605947"
+    ampWebUrl: "https://www.kcra.com/amp/article/films-predictions-science-future/43605947"
+    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/films-predictions-science-future/43605947"
     type: article
     provider:
-      name: WESH
-      domain: wesh.com
+      name: kcra.com
+      domain: kcra.com
     quality: 32
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-304c049b19523c5d188b817b7050d8f1-h-5d7249b870670b58b4a20842e2846e69-preview-1681515605861422540.JPG?crop=0.99555555555555553xw:1xh;center,top&resize=1200:*"
