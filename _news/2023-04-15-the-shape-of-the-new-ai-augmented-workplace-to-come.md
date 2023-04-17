@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/04/14/the-shape-of-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/04/14/the-shape-of-the-new-ai-augmented-workplace-to-come/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "New AI tool helping the blind"
-    excerpt: "Be My Eyes app is testing ChatGPT, an artificial intelligence chatbot, to analyze images and explain them to users"
-    publishedDateTime: 2023-04-12T11:53:00Z
-    webUrl: "https://www.cbsnews.com/miami/news/new-ai-tool-helping-the-blind/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 19
 
 secured: "r2zWIOmKPORGtHZdZukMYryA32nIzJ3Q2EQO+Qm7XqRjEFuMIsCm3KeUb+GT0NGfYXh5Y4BfLTMHEk0PWTTmwXRgSf0ajOEttE70BEl0yA79hWqAuBqRGLrK+5P8/pENzhThtE/gyBTds356whU6bC14Uaf5nCAemH4UB8EyBuk0FxaJRLGAAajEU+B4xxmHEpypPt8ZJQhpjknLhOW6ia/BwfzZk85UBfWpYBWdzvMZqcXyjTQSnOfpqJDOGXPgTHNwdgxnypqkByYVc6O3Pg9QRaLTbFjtyj1RMmcT9Yzm/8wgbPgwC997rcWYA1oFcLFlj8jwidwzkBBtnFUzAF4xO8h8NfVWoOYZ+nFoIt4M1O6hcn5Gz3NPSRD2VkRYvdS08fwnuVRo4fdeaj0KJXZlkuTnYm39paL2APPCWaHuiJ4Iufxt3L1/APmtH9YGOTAl7lE3gq4DL54qQpNH6+S1PHI+8vhjd7wX52LaBh6jPfSmIBKIxSzKakvbC1WkHm8acExMh9KNuRWjQ27n2w==;+QWVa+lkLGRxulqDfTP+eA=="
 ---

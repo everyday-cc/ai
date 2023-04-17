@@ -3,8 +3,8 @@ category: news
 title: "Elon Musk plans artificial intelligence start-up to rival OpenAI"
 excerpt: "Elon Musk is developing plans to launch a new artificial intelligence start-up to compete with ChatGPT-maker OpenAI, as the billionaire seeks to join Silicon Valley’s race to build generative AI systems."
 publishedDateTime: 2023-04-14T17:35:00Z
-originalUrl: "https://www.ft.com/content/2a96995b-c799-4281-8b60-b235e84aefe4"
-webUrl: "https://www.ft.com/content/2a96995b-c799-4281-8b60-b235e84aefe4"
+originalUrl: "https://www.ft.com/content/2a96995b-c799-4281-8b60-b235e84aefe4?shareType=nongift"
+webUrl: "https://www.ft.com/content/2a96995b-c799-4281-8b60-b235e84aefe4?shareType=nongift"
 type: article
 quality: 34
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: ft.com
 
 topics:
-  - AI
   - AI in Autos
+  - AI
 
 related:
   - title: "Elon Musk quietly starts X.AI, a new artificial intelligence company to challenge OpenAI"
@@ -503,6 +503,6 @@ related:
       domain: cointelegraph.com
     quality: 17
 
-secured: "kdqWHJSaeAy8zRt++AW5S1pu/N/hD5D9bBM0hLY+mmdlRpVOcXAYHGV4Xq0rNynk7NGQ1MRUayfkuqPMEWEBQGzlqy+Q5uel0u3ZLV/WLBEvp9lyMrSM2B4gnHblexVcWAIU1JMBXNLxjOYp/Pc3McqvJWZnz3Rq+cqVZ2ejzUkdvMJulNZlrW+pNzlWhqnqdZv73d7+vLpE7nme34mBEb+Y+U7YHxvsax1K4bkaXjCC0UiafVcJRX/jdJAbcZ7dO9ZPrZzxiuGQjjRHsthbCJAO1rPCWuOGlEjFc2VbFRi54U5c39GB+sfvuBZnu75mPrCGzcAqM7uhgXKlLbupdpXnWP4mxSNigHyQl5eLioqekOB9NfTireyGtdZ+Acb0+hK8x7w87gSw8nIwXibTYSgOgwQRHO+MsOu7LmNmN1vTlV4Envi+1aWGOCmoRLA4DpRhSVDxrceplz2SDNuYqYaaxercJUPyPdYYSPRMupJnZA3z3C663p6yNGMLzepA8MbvtZWj1fK1EC9N9f23Xw==;cxVoBp6dx9oju0E/6pHRAg=="
+secured: "JCksOLnrOWrYDzfo38cHOjPBaUZ5VkuLW71s3BU44gPpnjvo5NH33Y8LuMcBAcYvJoO9YWi/yraTA5IetDk+LPMtNcgXDNlDNK8wfQXVafy/fUdqE3z5rQODnaMScTeYZr3r01INYbVUkHvPoj7b7/nekDHq4saA1ALG5XyP9YpLXl6q8H/9rexieWsv7V3gU37+X0y/zakEtDLSxyWui5O66WaBas715UvYkDtYtLb9lov+synHUGY2nYz7O1HJIj7wxhFjCn5NyslQ8gQNZfb2IGvAl6stBXuBC0pGsOgELPojeQdaB7vwuFlUwy8zvgO40yTbPCGshxoN9GEns2ciBfApWPXJGAOrnqRP5CF6uofZJVt6BBOtSR0vlBbM0AAc1O5x77VvBUm5aGdPfUuJd8g1FxrBMlF78UPuxjhEUz1oC+K2GNKMHCejyLZLXZDREdz1Ab3JS89TPccMAOZzd/MNlmKjIDLPmI6Sg3DWjzH02urn6orNe7xhEwRzEHxvtJEwkxLUIQCj106AzQ==;EFQUUbplrLv5mdaiLTf3Yg=="
 ---
 

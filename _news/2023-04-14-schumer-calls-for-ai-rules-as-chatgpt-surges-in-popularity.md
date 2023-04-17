@@ -228,15 +228,6 @@ related:
         width: 1536
         height: 948
         isCached: true
-  - title: "The Download: ChatGPT’s impact on schools, and Elon Musk’s AI plans"
-    excerpt: "This year millions of people have tried—and been wowed by— artificial intelligence systems. That’s in no small part thanks to OpenAI’s chatbot ChatGPT."
-    publishedDateTime: 2023-04-12T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/04/12/1071401/download-chatgpt-impact-on-schools-and-elon-musks-ai-plans/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 19
   - title: "How To Buy ChatGPT Stock: Your 2023 Guide to AI Investing"
     excerpt: "Generative AI technology is complicated enough to understand without even bringing in the notion of how to invest in artificial intelligence. Luckily, you don't have to be an expert in"
     publishedDateTime: 2023-04-13T21:20:00Z

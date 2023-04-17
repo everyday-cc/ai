@@ -238,15 +238,6 @@ related:
         width: 1536
         height: 948
         isCached: true
-  - title: "The Download: ChatGPT’s impact on schools, and Elon Musk’s AI plans"
-    excerpt: "This year millions of people have tried—and been wowed by— artificial intelligence systems. That’s in no small part thanks to OpenAI’s chatbot ChatGPT."
-    publishedDateTime: 2023-04-12T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/04/12/1071401/download-chatgpt-impact-on-schools-and-elon-musks-ai-plans/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 19
   - title: "Will you lose your job to AI and tech like ChatGPT?"
     excerpt: "When artificial intelligence arrives in a workplace, some automation inevitably follows. So what does the future look like for workers? Are job losses on the horizon?"
     publishedDateTime: 2023-04-16T06:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/data-infrastructure/ai-and-ml-the-new-fron
 webUrl: "https://venturebeat.com/data-infrastructure/ai-and-ml-the-new-frontier-for-data-center-innovation-and-optimization/"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -24,6 +24,20 @@ topics:
   - Machine Learning
 
 related:
+  - title: "SCBX forges new collaboration with Stanford HAI to drive innovation in AI and fintech"
+    excerpt: "Through this collaboration, SCBX will have access to cutting-edge research and educational programming specifically tailored to the financial sector. The program covers a wide range of advanced topics,"
+    publishedDateTime: 2023-04-17T04:26:00Z
+    webUrl: "https://www.newswit.com/en/M4sy"
+    type: article
+    provider:
+      name: academy
+      domain: newswit.com
+    quality: 32
+    images:
+      - url: "https://www.newswit.com/img/f/20230417/f01beaf03c7dd96ed3ded436e7cbbd25-0.png"
+        width: 1016
+        height: 628
+        isCached: true
   - title: "Generative artificial intelligence to spark significant innovation: Report"
     excerpt: "Key stories on business-standard.com are available only to BS Premium subscribers. Already a BS Premium subscriber? LOGIN NOW"
     publishedDateTime: 2023-04-16T13:38:00Z

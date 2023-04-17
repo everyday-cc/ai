@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/nvidia-stock-fell-when-i
 webUrl: "https://www.marketwatch.com/press-release/nvidia-stock-fell-when-it-introduced-a-cheaper-ai-enhanced-gpu-2023-04-12"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia’s $599 GeForce RTX 4070 is a more reasonably priced (and sized) Ada GPU"
-    excerpt: "Its specs have been thoroughly leaked for anyone paying close attention, but today Nvidia is making it official: It's launching its GeForce RTX 4070 graphics card for a starting price of $599. This GPU will be the cheapest way to buy into Nvidia's Ada Lovelace GPU family,"
-    publishedDateTime: 2023-04-12T13:00:00Z
-    webUrl: "https://arstechnica.com/gadgets/2023/04/nvidias-599-geforce-rtx-4070-is-a-more-reasonably-priced-and-sized-ada-gpu/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 45
   - title: "Nvidia Announces $599 GeForce RTX 4070 GPU"
     excerpt: "Nvidia unveiled today its new GeForce RTX 4070, which will be available starting tomorrow at $599. The new GPU is designed for 1440p gameplay at over 100FPS with both ray-tracing and Nvidia’s DLSS 3 technology enabled."
     publishedDateTime: 2023-04-12T13:44:00Z

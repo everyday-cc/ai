@@ -457,7 +457,7 @@ related:
   - title: "Elon Musk plans artificial intelligence start-up to rival OpenAI"
     excerpt: "Elon Musk is developing plans to launch a new artificial intelligence start-up to compete with ChatGPT-maker OpenAI, as the billionaire seeks to join Silicon Valley’s race to build generative AI systems."
     publishedDateTime: 2023-04-14T17:35:00Z
-    webUrl: "https://www.ft.com/content/2a96995b-c799-4281-8b60-b235e84aefe4"
+    webUrl: "https://www.ft.com/content/2a96995b-c799-4281-8b60-b235e84aefe4?shareType=nongift"
     type: article
     provider:
       name: The Financial Times

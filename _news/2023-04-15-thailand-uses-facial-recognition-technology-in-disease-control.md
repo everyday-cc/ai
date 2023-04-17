@@ -9,7 +9,7 @@ ampWebUrl: "https://en.vietnamplus.vn/thailand-uses-facial-recognition-technolog
 cdnAmpWebUrl: "https://en-vietnamplus-vn.cdn.ampproject.org/c/s/en.vietnamplus.vn/thailand-uses-facial-recognition-technology-in-disease-control/251608.amp"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2023/04/932/470/gun-side-white.jpg?ve=1&tl=1"
         width: 932
         height: 470
+        isCached: true
+  - title: "Noi Bai Airport begins to pilot facial recognition technology"
+    excerpt: "The Civil Aviation Authority of Vietnam (CAAV) has approved the Noi Bai International Airport’s proposal to pilot check-in via facial recognition technology using identification (ID) cards carrying microchips for certain domestic flights. The pilot programme will run for a month, starting from April 17."
+    publishedDateTime: 2023-04-17T04:12:00Z
+    webUrl: "https://vietnamnet.vn/en/noi-bai-airport-begins-to-pilot-facial-recognition-technology-2133462.html"
+    type: article
+    provider:
+      name: Vietnamnet
+      domain: vietnamnet.vn
+    quality: 54
+    images:
+      - url: "https://static-images.vnncdn.net/files/publish/2023/4/17/noi-bai-2-611.jpg"
+        width: 2048
+        height: 1151
         isCached: true
   - title: "Disagreement between Government parties over facial recognition technology"
     excerpt: "Tánaiste Micheál Martin has disagreed with the Green Party on how facial recognition technology should be introduced."

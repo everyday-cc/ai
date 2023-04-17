@@ -57,6 +57,20 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "Noi Bai Airport begins to pilot facial recognition technology"
+    excerpt: "The Civil Aviation Authority of Vietnam (CAAV) has approved the Noi Bai International Airport’s proposal to pilot check-in via facial recognition technology using identification (ID) cards carrying microchips for certain domestic flights. The pilot programme will run for a month, starting from April 17."
+    publishedDateTime: 2023-04-17T04:12:00Z
+    webUrl: "https://vietnamnet.vn/en/noi-bai-airport-begins-to-pilot-facial-recognition-technology-2133462.html"
+    type: article
+    provider:
+      name: Vietnamnet
+      domain: vietnamnet.vn
+    quality: 54
+    images:
+      - url: "https://static-images.vnncdn.net/files/publish/2023/4/17/noi-bai-2-611.jpg"
+        width: 2048
+        height: 1151
+        isCached: true
   - title: "Tánaiste Micheál Martin backs plans to fast-track use of controversial Facial Recognition Technology by the Garda"
     excerpt: "Tánaiste Micheál Martin has backed plans to fast-track the use of contentious Facial Recognition Technology by the Garda without dedicated legislation, amid signs of a growing internal row in the coalition on the issue."
     publishedDateTime: 2023-04-16T15:38:00Z
