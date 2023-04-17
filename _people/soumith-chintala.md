@@ -3,7 +3,7 @@ name: "Soumith Chintala"
 bio: "I ❤ research -- multi-modal world models, robots.\nI think deeply about lowering the barrier to use A.I.\nI co-created and lead PyTorch at Facebook A.I."
 location: New York, NY
 type: "profile"
-heat: 279
+heat: 296
 
 affiliation:
   name: Facebook
@@ -14,7 +14,7 @@ website: https://soumith.ch/
 twitter:
   username: soumithchintala
   url: https://twitter.com/soumithchintala
-  followers: 129377
+  followers: 129392
 
 linkedin:
   url: https://www.linkedin.com/in/soumith
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Soumith Chintala"
 
-secured: "lzkshW4wOwobNphagVRgr//0eXaOtk2r9TIEj3zk+AyEyk7bvLSwcHMzwi9ssCsg/S2q/60qpi1JZZlLmvplXQFFQW0vY5+uUZM/5kDxTLrlut47k6tSw/e1b6Ib5GzJJcLbmt0X520dz9zlsNCbQLCZ0PhRVAdCrij0XUF8sVog9txgZzNLUP20debcPEJGa3eXOwNZTvi9m6R6ynrwYE8yUuHGGhyCmFOvzmekBYOdwmXST8kE1HG2GB1xYe/p8RRUWtOeoRQSBWo3hJbIiXu/eUWmiEVlbbXpVFt+x5Cpvh1GnCMTrkjkewsZ01p9UomPKexsXb58ttYorcP7bspvlyINSd/0Q6TRMU5XIizfE5dyFisbpLKKJXAYFyPP56hrL9YOyD5fDP3UGtw7LMY7FHwzBvRBpM7MVb5XE+c=;k+DP+m7L9npQoq9Zzqdf3w=="
+secured: "n3RexK5RNgtoflVX6cH+yQzGmDr528hGSuXIoG9/nRaRCuTMzQCorLqdV6m4QxaYGOd6YvOGkAMPwVFC+VkoH1or5mlHjwi0qu0SFLZrqDqS6aO2Rp0+KtoEiIk5Wv+gi/T8xHmWMCZ9kUEtlhUnI0emtuw61EXsNEqsvcvDeI+M1D3IC2HkF9d0S3hMmMwWXrbWhNXNbBtVCmLokIzYkLQaqEu7xjIfVqeX8xOAs40K5DGCiv/6cAagADfBCvLlduFp+nZ/psX1fjXcAI5n6tMtWoanhSdVGrF2kRtckibG7bf5Ft+8K7PVddOM7nS4s2uDGQbRDUqtwVm5pyh0Woq+imrY6++e2QCSfALkzDcErvS5RFKWJcZqlNwQq/RrDJTxqDabBdSRx8f0S0ru1m+7mu3SbeTvia2o4X4ZsX8=;SsS/YW1Qwrx+Hd2PIXYUjg=="
 ---
 
