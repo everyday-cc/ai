@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "clarifai"
   url: "https://twitter.com/clarifai"
-  followers: 8739
+  followers: 8740
 
 size: 51-200 employees
 yearFounded: 2013
@@ -42,6 +42,6 @@ images:
     isCached: true
     title: "Clarifai"
 
-secured: "4A6UQ3rlM/jZ9nc5BTNMkD9pdJ334Lz1ysk50pI6EyAmFFPm+t7ds4BA+Z8fsHHfz3rRDkOG7tAUVEDeMSpStts3GfyD4jxPsicYzvzzNiXlku6Q8Ukgv6AxtsP3mags3IQlNpkojUMmOfQxXO8MuBCanhIFEHx89s31UluQ+feAgTK85QnVzrymcClf34cZapILW6aqAdSTOfDocDnQkbcNh4MRLAJESyO6wAiNh87Gi8mmRNB7uv9Q2tl8JfX6luvr05iG/VO2aAKuDAxLu/Zqv2tuQnD77CdOQZIq97Nyt3YsJk/BbNXlvalL268gwVvf9AN1F74NOOziEdp0SLQj+7PcQSLH1TunvbU6VD9MB+JJ2axV7PL3kU5U/UHo8LNEeISvUZAieo1N7KoIOP83S7xOGrTlyT07jNuUd3g=;zxLN2VkegsZ42fbv1Db5uQ=="
+secured: "AgtTX7PUdmCf5ZC6X3GvXewXFtXosnGglglyf4ih+xsq03N6WMr6nouj5anyrr1EBavl3biPHlOQN/IY9gcclznDpMgPAIFOag9qc8fhdzZbrceSVDb0YlB0ofmgBbR9iwEIZ2haD+VzNLSs2GwIn/G17EmmeYdJA9CjDSMz9X5H/w8ZWHzM4XcwWvce2ATvTu8w5Q6NmaKcRecFfq21eKc5JpaJZn/P4M9vz+hAhJ1zhSr6pRZA1ddwSuEEJuVujb1+YFk+uCQvNloLoSFBuH0uUHz7EkUFCTpGYGqx2ef0BVcTjMSIr8ucGfHCXEIUV8WeR/Gf5p+f8sBuT+sSIoGRZQvTDQnYoGApUB/Dx0vYT9Ss8Wlqs1fzMObUkPBEnyN2VyqYINwMgBMa2ECNhfr4gvcEGwcy4dbrF7hPH9I=;2Fnl6su21GjBWQERBqo5lQ=="
 ---
 

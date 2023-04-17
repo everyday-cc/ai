@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 41
+heat: 50
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "qoEdkSBwobxsak+pKWf1G8jPpps+dhcPHC2ebeezqrJhlmdCMZcU1DAJrQ4DNw8NuODvycUIBJS8n+uuXdfXOLxSmcv+ZbxLFtGq8I+YKKQ/9LW6/8xTmHA68JGwhltWWBwwDX1Uf7zsDlqaD8mQErUdMdAnddASabxW9daIzsYvARrdAEWCi0+FQBmM4Cdf9KDssP7iR5sxA8ZII612mNqacKOmzlR/OpmQZrdYR8IA5GCGOGUNQpmW8dhhCK/LzPlYHqZTG+Uq6Uf1Y2/Q1GVKKIZWbHZde+SZ2g9KQsGliknE0YLe4K7umxHBZVP1lT67r4gU6FFTKRblPBiYPOuV0uQ8fQ+sIcnx7RH/4uPe7Fex1U8lETRzfCAw0LJX0GjgC8Q7ogCmr3T3iIzvu0uMBH55h2IXAYZiTtReFVY=;ltVVUcAj1Zf5DeIhudy99A=="
+secured: "jMnysvZdNy8/iLpjgFo7z6KkFEOs16e5Ft8vzszgcqkPtKeuVeC9AZooCtFwiwinoMSXVTccuE1tHI/+4DCsfsF3y4Eh1aQxPyF6QwiR2pEbwj66ry7ivcoyx0/SEWUf8u1FuujHtV+0T9vvNwkcZiAJd1aLZ7vS/UeOoJ3sJS+joZ/r1+6z+TX1YMTWojUQS3xxuEl4yzr6JWnvtXKQuwxbR07nPATkeT6cZV2NtyCBWce/GZwDn8x+9y4j3j6tBbXrebJn0j3SAgXLb61/k0GLLgR0SWkHC53A+3JLL8TI6An3V5XUXthM06UnlpvHYaBTkp7TGmcnHyWQ9daj8YBvoTPzyBZWxhAgUzphntAHW5LFk+UwHcfoDqb3a3u0Xz+/3LzvlBT3/3dwi9yNk3sYXEoZM/V1J6RiAV87sKs=;fApUWMq2h00l8mBhY00+2A=="
 ---
 

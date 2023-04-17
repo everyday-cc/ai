@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "sightmachine"
   url: "https://twitter.com/sightmachine"
-  followers: 1168
+  followers: 1169
 
 size: 51-200 employees
 yearFounded: 2011
@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "Sight Machine"
 
-secured: "fsa2x9QLJELMxRI2GqYxxuatuZR9Uwvy+4HJHiC8j/xdfLNwsFn6yo+9UWCRLMhPn1JyC8v4RceGxoMwNRoOMBHADWc5mcw5JDkex87DOlhwPN0efRGRh5HkReLhD29zZrmRvQko4i76t9X08x7uqNX1glw/eeFcuAuBtFG7ZNxJdj9Fn9QJrJAWgjl9oVPlvAJ1Zm17HcM8j3km+iQrRdQ5NHiUpUMklKVJYxWSy6UhOwVyIFCs3uI+O6qV1c9MagYx707a5Y7mFJN2gp4br/Q5fBFgcCPm7H2RzlgAnSebrKU4dB+TLxbhikm//bTqzzMkM9tb7V25+oSmvx9jKEd3Gwt5NmzMlsyy/QkB872UVG9dosFx2OLyMvL1BF6Hl0a61UbPokJbL4ZeYqRpGYsBi66FaMgxbdJI592TRuY=;PSlOH3vnf4z8H+8Z1CBkLg=="
+secured: "e51XXoEXGDg4beCAi0qe79vfZ2iWb4D9Vn2OVUaK1ZRvHBUnGcesneN4qCpZX+H5FMWCsccUQYj+6NqF8jamja1Qd5YXkI8zKihSTh3HmNNuYtMQqbiWWxAcfQo3ymnAWg4z+3nWgbdjTUhFjyA3NJrri0a5mgrLwzlQJ696PktWTBHQw827JiQ0vNSe6Tz261ouqqz+mT+T579isgHemh805hT7WvHjzfUMV+irzI/bKeRCV2NWYxIDud8Lp+tAvrb83kIWUQF4EzVZG+UZ1BRDMbePOKwLrlOycB0vhRJJZ7tzGgDs3v8TJy4tZ1XuoKKW1nUefpg81Yfnz9xQLb80YYVdYVttehF7IhUEleiYL7awZFPFz6Aa/q5P6mrtxVpLB8e+UEUVZR5Xf4r1NhPUEDDOUSxYEqRc2CfCqg4=;ylqHmNbjR3EMd0QMPF7kZA=="
 ---
 

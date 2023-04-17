@@ -2,7 +2,7 @@
 name: "Q-CTRL"
 overview: "The world is witnessing the dawn of a new industry.  We’ll help you take control of your quantum future."
 type: "profile"
-heat: 93
+heat: 83
 
 website: https://q-ctrl.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "qctrlHQ"
   url: "https://twitter.com/qctrlHQ"
-  followers: 5386
+  followers: 5388
 
 size: 11-50 employees
 yearFounded: 2017
@@ -40,6 +40,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Ez300fBAfY8"
 
-secured: "xtdMmup+NiRhFJa+rnonT6uXY4+WFB0kh3Ei0ssJjXY3/ggu5SfEbXc/QrtdTfR2tUbQz+CbaxMS7woDMDcSpxBJKGXmX58J8vXIHAKkAqz7ujtMNqxosMhmjxCcte07XT4gCoonNljLPXkfKjN3bDbJDSOr2WmWLDsZNf1FzZmLpHZ4J9CnwDabPMi9WTDWqukQEZJrTI+qsjmQucArFuW+Qf3pLdTzOZBWhkUZ8WAOh7h9PhVkreXdwgB0ChVMYX/YayRxozIjU9/iC8h3emtd4HgNa51IjLykHfjBH8pX+pBpZsbNWa8JVsoLGYCt7Y6BExeu6hcqeyfZhsVyTn1aRxyW3xvwOluKlkCLlyPJAIr8u8HnejkGDxe6GMIuniQgsPydG5hBtKlfdcu8tP/01oJrGcvx5cCHO9mQG2E=;PkIzyU3WrMYgErzs7ynyjw=="
+secured: "N7d+UqUfpo9nOcea/W4bcEDiVICwp/55XG6LjxYrPiE7dPofVuNxudcSjIg9C9IPJX8FM8HGM29kUnp4QYkUQhQ94FIrQs6h+bbzE+jX7wx830ToMX4Ff5oN2hMxpCM5irKCYgYoqb6xMx6pIBW51jW0LqnWItza4h1myp1anQx91zFCr4SA+zyeCpIXfU2eMersyl++faFScyRCSg47ZbdvzfGvPzYgzUdIfLFRAnS20UEk2l5F14zXkUu/HUxmPtX8bym7rFofk/m5icukMYAIGw1ipsWBri676w0HMVGIT3jOFs3+WET8fiifWatq28fyYfj5AVcrvuZSSrF0eAbTjL0aYM1YjzjdFdX+6U7LVuGDGcIb2PNtPQHQx/ph0yOAIMEldiTjr7WM9JatxOx6oQx23KLKDeVJL/01MLE=;7jmavCXmAGk4DqRc59FFvA=="
 ---
 
