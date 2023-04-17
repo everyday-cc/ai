@@ -2,6 +2,74 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-05-eightfold-ai-announces-talent-intelligence-copilots-bringing-generative-ai-to-its-deep-learning-ai-platform.md",
+      "title": "Eightfold AI Announces Talent Intelligence Copilots, Bringing Generative AI to its Deep-Learning AI Platform",
+      "excerpt": "Since its founding, Eightfold AI has used deep-learning AI to understand a job seeker's skills, potential, ability to learn new skills and adapt to new situations, as well as facilitate the placement of those candidates in roles that help them fulfill their career potential.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/04/04/9788781.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/04/04/9788781.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T11:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-05-from-plant-microclimates-to-deep-learning-for-weeds-farming-tech-feeds-a-rising-population.md",
+      "title": "From Plant Microclimates to Deep Learning for Weeds, Farming Tech Feeds a Rising Population",
+      "excerpt": "The world population is expected to reach nearly 10 billion people by 2050, and farmers are on the front lines of feeding them. This population change will call for a 50% rise in the demand for food,",
+      "sourceUrl": null,
+      "webUrl": "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21263265/from-plant-microclimates-to-deep-learning-for-weeds-farming-tech-feeds-a-rising-population",
+      "originalUrl": "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21263265/from-plant-microclimates-to-deep-learning-for-weeds-farming-tech-feeds-a-rising-population",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IndustryWeek",
+        "domain": "industryweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-04-trend-innovations-holding-tren-acquires-two-technologies-in-multi-billion-dollar-ai-machine-learning-digital-artwork-markets.md",
       "title": "Trend Innovations Holding (TREN) Acquires Two Technologies in Multi-Billion Dollar-AI Machine Learning & Digital Artwork Markets",
       "excerpt": "The global natural language processing (NLP) market is projected to reach $74.3 Billion by 2028, exhibiting a CAGR of 26.54% during 2022-2028. InstantFAME™ Is an APP in the Digital Artwork Marketplace – U.S. digital online art industry in the United States is projected to reach nearly $6.5 billion USD dollars in 2023.",
@@ -1231,111 +1299,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-hazenai-a-ksa-startup-using-deep-learning-to-drive-road-safety.md",
-      "title": "Hazen.ai: A KSA Startup Using Deep Learning To Drive Road Safety",
-      "excerpt": "What changed in the last decade was several breakthroughs in the research, with seminal research papers published on \"unsupervised (machine) learning\" and \"deep neural networks.\" At the same time, computing power was increasing exponentially each year ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-ae/starting-a-business/hazenai-a-ksa-startup-using-deep-learning-to-drive-road/448318",
-      "originalUrl": "https://www.entrepreneur.com/en-ae/starting-a-business/hazenai-a-ksa-startup-using-deep-learning-to-drive-road/448318",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1679662681-Hazenaico-foundersDrSalehBasalamahMuhammadKhurramAminandDrAnasBasalamahlefttoright.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-24T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers.md",
-      "title": "While OpenAI has been working on text and images, iGenius has been working on GPT for numbers",
-      "excerpt": "And with algorithms, natural language processing and user-created metadata, or what iGenius calls advanced conversational AI, the complexity of data quality can be improved and elevated. Gartner has dubbed this ‘conversational analytics.’ Virtualizing ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/",
-      "originalUrl": "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/iGeniusxVB-2.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/amp/",
-      "publishedDateTime": "2023-03-24T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

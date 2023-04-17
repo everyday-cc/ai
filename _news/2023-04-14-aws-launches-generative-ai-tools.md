@@ -63,6 +63,20 @@ related:
         width: 800
         height: 418
         isCached: true
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-04-17T20:09:00Z
+    webUrl: "https://www.law.com/dailyreportonline/2023/04/17/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "Generative AI Will Change Your Business. Here’s How to Adapt."
     excerpt: "Generative AI can “generate” text, speech, images, music, video, and especially, code. When that capability is joined with a feed of someone’s own information, used to tailor the when, what, and how of an interaction,"
     publishedDateTime: 2023-04-13T16:55:00Z

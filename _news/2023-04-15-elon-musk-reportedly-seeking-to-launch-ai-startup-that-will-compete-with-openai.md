@@ -122,6 +122,22 @@ related:
         width: 1200
         height: 817
         isCached: true
+  - title: "Elon Musk just created his own AI company"
+    excerpt: "Despite publicly opposing advanced AI development, Musk seems to have a project of his own in the works. Here's what we know."
+    publishedDateTime: 2023-04-17T20:08:00Z
+    webUrl: "https://www.zdnet.com/article/elon-musk-musk-just-created-his-own-ai-company/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/elon-musk-musk-just-created-his-own-ai-company/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/elon-musk-musk-just-created-his-own-ai-company/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/77c013b26c5ea91f06fce147e32c5d90210115ae/2023/04/17/a6f32af2-ae33-4020-a257-1b35829dfe93/gettyimages-1242798333-1.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Elon Musk Creates New Artificial Intelligence Company X.AI"
     excerpt: "The name of the new Nevada-incorporated organization suggests a link to the billionaire’s interest in an everything app."
     publishedDateTime: 2023-04-14T20:35:00Z
@@ -164,6 +180,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk launches new artificial intelligence company X.AI to challenge OpenAI"
+    excerpt: "Musk is the sole listed director of X.AI, while Jared Birchall, director of Musk’s family office, is its secretary."
+    publishedDateTime: 2023-04-17T20:42:00Z
+    webUrl: "https://nypost.com/2023/04/17/elon-musks-x-ai-aims-to-rival-openai-in-the-artificial-intelligence-industry/"
+    ampWebUrl: "https://nypost.com/2023/04/17/elon-musks-x-ai-aims-to-rival-openai-in-the-artificial-intelligence-industry/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/04/17/elon-musks-x-ai-aims-to-rival-openai-in-the-artificial-intelligence-industry/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 68
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/04/NYPICHPDPICT000009764079.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Elon Musk has created his own artificial intelligence company"
     excerpt: "Elon Musk, who’s been vocally critical about artificial intelligence lately, seems to be planning something AI related. According to The Wall Street Journal and The Financial Times, Musk has founded a new artificial intelligence company called X."
     publishedDateTime: 2023-04-15T02:03:00Z
@@ -205,6 +237,20 @@ related:
     quality: 67
     images:
       - url: "https://images.barrons.com/im-764324/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Elon Musk Says His AI Project Will Seek to Understand the Nature of the Universe"
+    excerpt: "Musk spoke about his AI ambitions in an interview with Fox News Channel’s “Tucker Carlson Tonight,” excerpts show."
+    publishedDateTime: 2023-04-17T19:22:00Z
+    webUrl: "https://www.wsj.com/articles/elon-musk-says-his-ai-project-will-seek-to-understand-the-nature-of-the-universe-a750d792"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 62
+    images:
+      - url: "https://images.wsj.net/im-764258/social"
         width: 1280
         height: 640
         isCached: true
@@ -288,6 +334,15 @@ related:
         width: 740
         height: 493
         isCached: true
+  - title: "OpenAI chief says age of giant AI models is ending; a GPU crisis could be one reason why"
+    excerpt: "Nvidia dominates the GPU market, with about 88% market share, according to John Peddie Research. Nvidia’s latest H100 GPUs, designed specifically for AI and high-performance computing (HPC),can cost as much as $ 30,603 per unit — and even more on eBay."
+    publishedDateTime: 2023-04-17T19:14:00Z
+    webUrl: "https://venturebeat.com/ai/openai-chief-says-age-of-giant-ai-models-is-ending-a-gpu-crisis-could-be-one-reason-why/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 55
   - title: "Elon Musk shakes up OpenAI, Microsoft and Google with new AI startup"
     excerpt: "Reports indicate that Elon Musk has created a new artificial intelligence-centered startup that will be a direct competitor to OpenAI's ChatGPT."
     publishedDateTime: 2023-04-17T07:32:00Z
@@ -489,19 +544,19 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Elon Musk plans artificial intelligence start-up to rival Open AI"
-    excerpt: "Elon Musk is developing plans to launch a new artificial intelligence start-up to compete with ChatGPT-maker OpenAI, as the billionaire seeks to join Silicon Valley’s race to build generative AI systems."
-    publishedDateTime: 2023-04-14T17:35:00Z
-    webUrl: "https://www.ft.com/content/2a96995b-c799-4281-8b60-b235e84aefe4?sharetype=gift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
   - title: "Elon Musk plans artificial intelligence start-up to rival OpenAI"
     excerpt: "Elon Musk is developing plans to launch a new artificial intelligence start-up to compete with ChatGPT-maker OpenAI, as the billionaire seeks to join Silicon Valley’s race to build generative AI systems."
     publishedDateTime: 2023-04-14T17:35:00Z
     webUrl: "https://www.ft.com/content/2a96995b-c799-4281-8b60-b235e84aefe4?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 36
+  - title: "Elon Musk plans artificial intelligence start-up to rival Open AI"
+    excerpt: "Elon Musk is developing plans to launch a new artificial intelligence start-up to compete with ChatGPT-maker OpenAI, as the billionaire seeks to join Silicon Valley’s race to build generative AI systems."
+    publishedDateTime: 2023-04-14T17:35:00Z
+    webUrl: "https://www.ft.com/content/2a96995b-c799-4281-8b60-b235e84aefe4?sharetype=gift"
     type: article
     provider:
       name: The Financial Times

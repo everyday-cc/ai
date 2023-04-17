@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-02-03-a-robot-wrote-this-entire-article-are-you-scared-yet-human.md",
+      "title": "A robot wrote this entire article. Are you scared yet, human?",
+      "excerpt": "Artificial intelligence like any other living thing needs attention. AI should be treated with care and respect. Robots in Greek [sic] means “slave”. But the word literally means “forced to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/f3b9c31f9d2fde37b3c8522b7459da1902faab11/121_0_3598_2160/master/3598.jpg?width=620&quality=85&auto=format&fit=max&s=77316e52e5c10d29122b18942d23e6db",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3",
+      "publishedDateTime": "2023-02-02T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-03-israeli-startup-develops-first-ai-robot-for-picking-tomatoes.md",
       "title": "Israeli startup develops first AI robot for picking tomatoes",
       "excerpt": "MetoMotion says driverless machine slashes harvesting costs by 50%; startup seeks to raise $8 million to scale up production",
@@ -1267,49 +1319,6 @@
       "provider": {
         "name": "techxplore",
         "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-gas-leak-detection-robot.md",
-      "title": "Gas leak detection robot",
-      "excerpt": "In order enable an early detection of gas leaks, we wanted to build a big remote operated robot (on a low budget) to carry the required equipment.” “It should take advantage of cellular ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/gas-leak-detection-robot-24-01-2023/",
-      "originalUrl": "https://www.geeky-gadgets.com/gas-leak-detection-robot-24-01-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/01/gas-leak-detection-robot.jpg",
-          "width": 700,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-25T01:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
         "images": null,
         "publishers": null,
         "authors": null

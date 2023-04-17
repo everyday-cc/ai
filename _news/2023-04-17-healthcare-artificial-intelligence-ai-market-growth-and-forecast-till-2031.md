@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-growth-and-forecast-till-2031-2023-04-17"
 type: article
 quality: 98
-heat: 278
+heat: 298
 published: true
 
 provider:
@@ -136,6 +136,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Software Market Research, 2023-2030"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 17, 2023 (The Expresswire) -- Artificial Intelligence (AI) Software Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 100 ..."
+    publishedDateTime: 2023-04-17T19:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-software-market-research-2023-2030-2023-04-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
   - title: "Artificial Intelligence (AI) Software Market Size, Share and Forecast till 2031"
     excerpt: "The latest market research report on the Global \"Artificial Intelligence (AI) Software Market\" is segmented by"
     publishedDateTime: 2023-04-13T05:24:00Z
@@ -228,14 +237,23 @@ related:
       name: Europa
       domain: europa.eu
     quality: 44
-  - title: "Global Digital Health and Wellness Market Analysis Report 2023-2028: Burgeoning Opportunities with the Growing Reign of Artificial Intelligence (Ai)"
-    excerpt: "The digital health and wellness market by revenue is expected to grow to $1,103.22 billion by 2028 from $335 billion in 2022, growing at a CAGR of 21.97% Digital health and wellness refer to being physically,"
-    publishedDateTime: 2023-04-17T15:59:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-digital-health-wellness-market-analysis-report-2023-/2023/04/17/9795628.htm"
+  - title: "Global Smart Home Healthcare Market to Worth US$ 129.77 Billion by 2031: Astute Analytica"
+    excerpt: "The global smart home healthcare market was valued at US$ 18.89 billion in 2022. This growth is projected to continue in the coming years, with an estimated market size of"
+    publishedDateTime: 2023-04-17T18:29:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/04/g31839290/global-smart-home-healthcare-market-to-worth-us-129-77-billion-by-2031-astute-analytica"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 10
+  - title: "Global Digital Health and Wellness Market Analysis Report 2023-2028: Burgeoning Opportunities with the Growing Reign of Artificial Intelligence (Ai)"
+    excerpt: "The \"Digital Health and Wellness Market - Global Outlook & Forecast 2023-2028\" report has been added to ResearchAndMarkets.com's offering. The digital health and"
+    publishedDateTime: 2023-04-17T14:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/04/n31832511/global-digital-health-and-wellness-market-analysis-report-2023-2028-burgeoning-opportunities-with-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 0
 
 secured: "7WaZKPGvmd9qP5F/k5RpyyTWHnceR8zBn3b6zCz0K1IxyyeBHtD2u3sMfB2AR/MFugVf0mAFD4lVCavEb+Z9K6PtvrlZEoxubbAVdveDXry7NrQGALBFvaI/LhWntsq2eplyCTvY5uvPxDOEHUhb0h8H13n0QUI7R/Du/cTlQsPSEVJxTXB9IbWnLgANKhIS2bq/17NxhKuyKuLAEdHMAXbkudREZ9HLZe114TITE1ArbT2/lxhAObhDPfdE+0VX0NW8j2TH/9I8nN+y4b+ZPMBVxt76jp56HusLFs7hrCCxtmlGjl9i0nEV1HkzQv1ppaVzeeToJ27diTUUiwBpfqgPM28g0v+DZ1v39nhL7xI=;AN3CaPgqaIReJD3F5S4SGg=="

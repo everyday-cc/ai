@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/new-artificial-intelligence-tool-h
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -79,6 +79,15 @@ related:
     provider:
       name: Medical Xpress
       domain: medicalxpress.com
+    quality: 19
+  - title: "New AI tool can decide survival, treatments of colon cancer: Study"
+    excerpt: "The new tool accurately predicts how aggressive a colorectal tumor is, how likely the patient is to survive with and without disease recurrence, and what the optimal therapy might be for them."
+    publishedDateTime: 2023-04-17T17:12:00Z
+    webUrl: "https://www.devdiscourse.com/article/science-environment/2420489-new-ai-tool-can-decide-survival-treatments-of-colon-cancer-study"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
     quality: 19
 
 secured: "U0AD5icchQU/jWIHva924Kyx7/sfmuH0J+9e4mt+jLtOrUgXj4BJpgOGPTv9wQcwONYq9eRQfaC2LWtVHPMIJGGOtBXxfLFZwNOoGce8Ec7voAuI7vb0wX1I7CivKjIboDQ2Txbl4UhsX16fl3feh2+geMDMYoOcY7kxaqItG0USfT6YbkdbqBhdhpq5/kBNAfAl1nP29tZp0SK/rKMOTCewrR2KFyPCqZa53AjseozCKqRoYLnrq/4xwIycVEwp35PKTlD6Rcclb3cxX01IiD82RQd2IFlJHF5ITCu3uKkIy7UICOV+pfJXW54Iq7BuiUeebbB3WE9J6m+9Dve3G5U1gYuzxcG1L9sUP/Op+2dKeFrhe+VKygjRrb4JvIYaQCAUzdDi39o5MmL7nz4g8FOocDTVi3BuaV4e7lS6I0zXzqMFPJvHh3NXuG9h+nyNRZB8l3fI9rqrWErJsiZ14mDSBC742CQIgMPckctB9YRC0O/mEOm8UoHgaEFGmbZjPAuF0Xgj9OWn+aVZwSDq/Q==;Y/1EDKI0aiX2BCgqH7UoYg=="

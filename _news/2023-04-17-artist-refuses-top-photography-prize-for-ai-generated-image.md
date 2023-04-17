@@ -58,6 +58,29 @@ related:
         width: 620
         height: 774
         isCached: true
+  - title: "Winner fools Sony photography contest judges with AI-generated art"
+    excerpt: "Artist Boris Eldagsen won the Sony World Photography Awards with a piece called “The Electrician.” Eldagsen did not accept the prize after revealing his collaboration with AI. Eldagsen says he entered the contest to be a “cheeky monkey” and see if “competitions are prepared for AI images."
+    publishedDateTime: 2023-04-17T18:47:00Z
+    webUrl: "https://www.androidauthority.com/sony-ai-generated-art-3313746/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 47
+  - title: "Photographer Reveals His Prize-Winning Image Is AI-Generated"
+    excerpt: "Boris Eldagsen said he applied to test whether the art world is adequately prepared for the misuse of generative software in competitions. “They are not,” he wrote."
+    publishedDateTime: 2023-04-17T19:47:00Z
+    webUrl: "https://www.thedailybeast.com/photographer-boris-eldagsen-reveals-his-prize-winning-sony-awards-entry-was-ai-generated"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1681760121/Blank_3000_x_1688_61_oooaqp"
+        width: 1480
+        height: 833
+        isCached: true
   - title: "Raspberry Pi users might soon get access to Sony’s AI technology"
     excerpt: "Sony’s dedicated AITRIOS site offers example uses such as inventory monitoring and retention, as well as customer counting."
     publishedDateTime: 2023-04-13T17:00:00Z

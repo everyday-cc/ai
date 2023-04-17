@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-17T16:21:00Z
 originalUrl: "https://www.musicbusinessworldwide.com/voice-ai-firm-soundhound-secures-100m-in-strategic-financing/"
 webUrl: "https://www.musicbusinessworldwide.com/voice-ai-firm-soundhound-secures-100m-in-strategic-financing/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Spotify

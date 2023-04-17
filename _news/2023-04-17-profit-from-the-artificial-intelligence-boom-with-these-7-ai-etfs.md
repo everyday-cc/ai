@@ -6,8 +6,8 @@ publishedDateTime: 2023-04-17T16:37:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/profit-from-the-artificial-intelligence-boom-with-these-7-ai-etfs-1032237146"
 webUrl: "https://markets.businessinsider.com/news/stocks/profit-from-the-artificial-intelligence-boom-with-these-7-ai-etfs-1032237146"
 type: article
-quality: 66
-heat: 66
+quality: 68
+heat: 68
 published: false
 
 provider:

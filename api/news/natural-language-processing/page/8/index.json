@@ -2,6 +2,60 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-01-13-quantum-machine-learning-qml-poised-to-make-a-leap-in-2023.md",
+      "title": "Quantum machine learning (QML) poised to make a leap in 2023",
+      "excerpt": "Quantum machine learning (QML) combines quantum computing's power with ML's predictive capabilities to overcome classical algorithms' limitations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/quantum-machine-learning-qml-poised-to-make-a-leap-in-2023/",
+      "originalUrl": "https://venturebeat.com/ai/quantum-machine-learning-qml-poised-to-make-a-leap-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-605383559-e1646346568847.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/quantum-machine-learning-qml-poised-to-make-a-leap-in-2023/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/quantum-machine-learning-qml-poised-to-make-a-leap-in-2023/amp/",
+      "publishedDateTime": "2023-01-12T16:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-01-12-deepl-targets-ai-translation-for-enterprises-with-fresh-100-million.md",
       "title": "DeepL targets AI translation for enterprises with fresh $100 million",
       "excerpt": "Seeking to target enterprise customers with AI language translation, DeepL announced a funding raise estimated at well over $100 million.",
@@ -1272,49 +1326,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-21-uae-israel-cooperating-to-develop-arabic-language-applications-for-artificial-intelligence-ai.md",
-      "title": "UAE-Israel Cooperating to Develop Arabic Language Applications for Artificial Intelligence (AI)",
-      "excerpt": "Potential Israel-UAE cooperation in developing an advanced application of artificial intelligence (AI) and machine learning to understand the Arabic language and its dialects will benefit the entire Middle East region,",
-      "sourceUrl": null,
-      "webUrl": "https://www.jewishpress.com/news/science-and-tech/ai/uae-israel-cooperating-to-develop-arabic-language-applications-for-artificial-intelligence-ai/2022/12/21/",
-      "originalUrl": "https://www.jewishpress.com/news/science-and-tech/ai/uae-israel-cooperating-to-develop-arabic-language-applications-for-artificial-intelligence-ai/2022/12/21/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.jewishpress.com/wp-content/uploads/2022/12/AI-UAE-Israel-2.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-21T00:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jewish Press",
-        "domain": "jewishpress.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

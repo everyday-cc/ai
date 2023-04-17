@@ -19,24 +19,34 @@ topics:
   - AI
 
 related:
-  - title: "Educators take on the question of ethical AI use"
-    excerpt: "Artificial intelligence tools are being deployed in many industries, and they’ll soon spread to many more. Employers will soon seek to hire talent that is well versed in AI tools and knows how to use them properly and ethically to solve business problems."
-    publishedDateTime: 2023-04-13T17:52:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2023/04/13/educators-take-on-the-question-of-ethical-ai-use.html"
+  - title: "Self-Regulation Is the Standard in AI, for Now"
+    excerpt: "Are you worried that AI is moving too fast and may have negative consequences? Do you wish there was a national law to regulate it? Well, that’s a club"
+    publishedDateTime: 2023-04-17T21:01:00Z
+    webUrl: "https://www.datanami.com/2023/04/17/self-regulation-is-the-standard-in-ai-for-now/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
-  - title: "Fake Drake raises questions over AI tools used to create covers"
-    excerpt: "At the moment, these AI covers seem to be slightly mischievous experiments, but lurking beneath it all are some complex issues. From an artist standpoint, there’s the simple issue of ethics. Having your voice cloned might feel like an intrusion: suddenly they have no control over their voices,"
-    publishedDateTime: 2023-04-17T11:00:00Z
-    webUrl: "https://musically.com/2023/04/17/fake-drake-raises-questions-over-ai-tools-used-to-create-covers/"
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/04/AI_regulate_shutterstock_Alexander-Limbach.jpg"
+        width: 1000
+        height: 562
+        isCached: true
+  - title: "Can Artificial Intelligence Outsmart Global Regulators?"
+    excerpt: "Governments are having their say on the regulation of generative AI and chatbots like GPT, writes The Global Lawyer. Meanwhile, retired U.S. Supreme Court Justice Stephen Breyer has his say on globalization and the rule of law."
+    publishedDateTime: 2023-04-16T22:48:00Z
+    webUrl: "https://www.law.com/international-edition/2023/04/16/can-artificial-intelligence-outsmart-global-regulators/"
     type: article
     provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 19
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/378/2023/04/AdobeStock_141077890-767x633.jpg"
+        width: 768
+        height: 633
+        isCached: true
 
 secured: "zQjlU+zW9vq+JVRfSxAOm3Sq9faUiHXt9GeOD0aNPrtNp9jvGslP9Key+HaZ7eoge0jANoYRADt1cX+KGehmikAsOMC7YqwBSsiEmg8T5i9W5q6j9UIysxIW2hsVMSNGJyRf5qwLREGFp1XQlRvI4DlgmTPF6v32efaF0KJ7I3xXKJscRPaRqlLh5Q2DO+Ynm3OqI1yoWCVHlrRRuSfhFJiwg7FUsCza4V0iGDfvCBiEG2mHfdLILd/QTfLjnD5CpF+coZu1RiLKhdqYn6KaHp9ARDrQV0itQMMmR7qGirX4hYWcVm/OhTlDhVosRwHdBELwCtduZM7R7dA0pHYBsiKxS/tYOV7QhbkOtNERpEI=;PZ9ABc+cpc0ywvSja0JpRg=="
 ---

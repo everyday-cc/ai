@@ -2,6 +2,316 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-04-05-creepy-robot-dogs-being-deployed-to-patrol-neighborhoods.md",
+      "title": "Creepy robot dogs being deployed to patrol neighborhoods",
+      "excerpt": "Orwellian nightmare or useful Australian hardware? The Australian military is rolling out robodogs on patrol. Kurt \"CyberGuy\" Knutsson explains the details.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/creepy-robot-dogs-deployed-patrol-neighborhoods",
+      "originalUrl": "https://www.foxnews.com/tech/creepy-robot-dogs-deployed-patrol-neighborhoods",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-05-ways-to-leverage-ai-in-financial-services-marketing.md",
+      "title": "Ways to Leverage AI in Financial Services Marketing",
+      "excerpt": "AI-enabled technologies have not taken over, but they are starting to move into client-facing, front-of-the-house roles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wealthmanagement.com/technology/ways-leverage-ai-financial-services-marketing",
+      "originalUrl": "https://www.wealthmanagement.com/technology/ways-leverage-ai-financial-services-marketing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WealthManagement.com",
+        "domain": "wealthmanagement.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-04-05-atradius-wins-fintech-innovation-award-with-temenos-ai.md",
+      "title": "Atradius Wins Fintech Innovation Award with Temenos AI",
+      "excerpt": "Temenos announced today that Atradius, a Temenos client and one of the largest trade credit insurance providers in the world, has won the IBS Intelligence Global Fintech Innovation award for Best Risk Management Implementation - Best Adoption of Tools & Best Practices.",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/news/regtech/atradius-wins-fintech-innovation-award-temenos-ai",
+      "originalUrl": "https://financialit.net/news/regtech/atradius-wins-fintech-innovation-award-temenos-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-05-rise-of-the-commentator-bot-the-masters-leans-into-generative-ai.md",
+      "title": "Rise Of The Commentator Bot: The Masters Leans Into Generative AI",
+      "excerpt": "IBM upgrades the Masters digital experience every year, often using their sponsorship of golf’s most popular event to showcase technology available to their enterprise customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mikedojc/2023/04/05/rise-of-the-commentator-bot-the-masters-leans-into-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/mikedojc/2023/04/05/rise-of-the-commentator-bot-the-masters-leans-into-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-05-scott-reeder-artificial-intelligence-daunting-but-has-a-ways-to-go.md",
+      "title": "Scott Reeder | Artificial intelligence daunting but has a ways to go",
+      "excerpt": "Truck drivers may soon face a similar threat as artificial intelligence is perfected and self-driving vehicles become commonplace. I was reading a Wall Street Journal article that said the future of truck stops is imperiled.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-gazette.com/opinion/columns/scott-reeder-artificial-intelligence-daunting-but-has-a-ways-to-go/article_46570be0-2f50-5820-9ca2-19f08d4e46fa.html",
+      "originalUrl": "https://www.news-gazette.com/opinion/columns/scott-reeder-artificial-intelligence-daunting-but-has-a-ways-to-go/article_46570be0-2f50-5820-9ca2-19f08d4e46fa.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The News-Gazette",
+        "domain": "news-gazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-05-ai-chip-race-google-says-its-tensor-chips-compute-faster-than-nvidias-a100.md",
+      "title": "AI chip race: Google says its Tensor chips compute faster than Nvidia's A100",
+      "excerpt": "Google says its fourth generation Tensor chip is better than Nvidia's A100 at computing and is twice as energy efficient",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/innovation/google-faster-greener-supercomputer",
+      "originalUrl": "https://interestingengineering.com/innovation/google-faster-greener-supercomputer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-05-artificial-intelligence-in-accounting-market-business-overview-2023-and-forecast-to-2030-microsoft-aws-xero-intuit.md",
+      "title": "Artificial Intelligence in Accounting Market Business Overview 2023, and Forecast to 2030 | Microsoft, AWS, Xero, Intuit",
+      "excerpt": "Artificial Intelligence in Accounting Market is growing at a High CAGR during the forecast period 2023-2030. The increasing interest of the individuals in this industry is the major reason for the expansion of this market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-business-overview-2023-and-forecast-to-2030-microsoft-aws-xero-intuit-2023-04-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-business-overview-2023-and-forecast-to-2030-microsoft-aws-xero-intuit-2023-04-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T02:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-05-ai-could-have-a-7-trillion-impact-in-10-years-here-are-4-top-stocks-to-buy-now.md",
+      "title": "AI Could Have a $7 Trillion Impact in 10 Years: Here Are 4 Top Stocks to Buy Now",
+      "excerpt": "It estimates that AI could drive a 7% increase in annual global gross domestic product (GDP) over the next 10 years. This translates to an economic impact of close to $7 trillion. As you might expect,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ai-could-have-a-$7-trillion-impact-in-10-years:-here-are-4-top-stocks-to-buy-now",
+      "originalUrl": "https://www.nasdaq.com/articles/ai-could-have-a-$7-trillion-impact-in-10-years:-here-are-4-top-stocks-to-buy-now",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T02:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-05-meta-to-debut-ad-creating-generative-ai-this-year-cto-says.md",
       "title": "Meta to debut ad-creating generative AI this year, CTO says",
       "excerpt": "TOKYO -- Facebook owner Meta intends to commercialize ... The company, which began full-scale AI research in 2013, stands out along with Google in the number of studies published.",
@@ -219,8 +529,8 @@
       "title": "European AI start-ups race to improve chatbots’ language skills",
       "excerpt": "Companies aim to improve response quality after criticism of reliance on small group of mostly US participants",
       "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/563256d4-67b2-465e-b219-52d0f91684ef?shareType=nongift",
-      "originalUrl": "https://www.ft.com/content/563256d4-67b2-465e-b219-52d0f91684ef?shareType=nongift",
+      "webUrl": "https://www.ft.com/content/563256d4-67b2-465e-b219-52d0f91684ef",
+      "originalUrl": "https://www.ft.com/content/563256d4-67b2-465e-b219-52d0f91684ef",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -437,6 +747,40 @@
       ]
     },
     {
+      "path": "_news/2023-04-05-artificial-intelligence-in-healthcare-market-size-share-to-surpass-9565-billion-by-2028-vantage-market-research.md",
+      "title": "Artificial Intelligence In Healthcare Market Size & Share To Surpass $95.65 Billion By 2028 | Vantage Market Research",
+      "excerpt": "WASHINGTON, April 04, 2023 (GLOBE NEWSWIRE) -- The Global artificial intelligence in healthcare market is valued at USD 6.60 Billion in 2021 and is projected to reach a value of USD 95.65 Billion ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105944893/Artificial-Intelligence-In-Healthcare-Market-Size-Share-To-Surpass-9565-Billion-By-2028-Vantage-Market-Research",
+      "originalUrl": "https://menafn.com/1105944893/Artificial-Intelligence-In-Healthcare-Market-Size-Share-To-Surpass-9565-Billion-By-2028-Vantage-Market-Research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-05-artificial-intelligence-plagiarizes-without-creating.md",
       "title": "Artificial intelligence plagiarizes without creating",
       "excerpt": "Artificial intelligence lacks basic desires such as empathy, love and justice. It",
@@ -568,348 +912,6 @@
       "provider": {
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-vpbank-collaborates-with-amazon-web-services-to-lift-digital-banking-experience.md",
-      "title": "VPBank collaborates with Amazon Web Services to lift digital banking experience",
-      "excerpt": "The Vietnam Prosperity Joint-Stock Commercial Bank (VPBank) has officially signed a strategic collaboration agreement with Amazon Web Services (AWS) in enhancing digital banking experiences for its customers.",
-      "sourceUrl": null,
-      "webUrl": "https://en.vietnamplus.vn/vpbank-collaborates-with-amazon-web-services-to-lift-digital-banking-experience/251021.vnp",
-      "originalUrl": "https://en.vietnamplus.vn/vpbank-collaborates-with-amazon-web-services-to-lift-digital-banking-experience/251021.vnp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T16:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VietnamPlus",
-        "domain": "vietnamplus.vn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-covariant-announces-75-million-in-backing-for-its-artificial-intelligence-platform.md",
-      "title": "Covariant announces $75 million in backing for its artificial intelligence platform",
-      "excerpt": "California firm applies its technology to manual warehouse operations in piece-picking and case-picking areas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dcvelocity.com/articles/57121-covariant-announces-75-million-in-backing-for-its-artificial-intelligence-platform",
-      "originalUrl": "https://www.dcvelocity.com/articles/57121-covariant-announces-75-million-in-backing-for-its-artificial-intelligence-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DC Velocity",
-        "domain": "dcvelocity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-ai-in-computer-vision-market-expected-to-reach-457-billion-by-2028.md",
-      "title": "AI in Computer Vision Market Expected to Reach $45.7 Billion by 2028",
-      "excerpt": "By 2026, the demand for computer vision systems in developing applications, quality inspection and automation needs, and government measures to assist industrial automation and AI",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/04/04/9788354.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/04/04/9788354.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-students-use-machine-learning-in-lesson-designed-to-reveal-issues-promise-of-ai.md",
-      "title": "Students use machine learning in lesson designed to reveal issues, promise of AI",
-      "excerpt": "In a new study, North Carolina State University researchers had 28 high school students create their own machine learning artificial intelligence (AI) models for analyzing data. The goals of the project were to help students explore the challenges,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-04-students-machine-lesson-reveal-issues.html",
-      "originalUrl": "https://phys.org/news/2023-04-students-machine-lesson-reveal-issues.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-1.jpg",
-          "width": 1920,
-          "height": 875,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-04-students-machine-lesson-reveal-issues.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-students-machine-lesson-reveal-issues.amp",
-      "publishedDateTime": "2023-04-04T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-snorkel-ai-partners-with-microsoft-to-unlock-the-potential-of-enterprise-ai.md",
-      "title": "Snorkel AI Partners with Microsoft to Unlock the Potential of Enterprise AI",
-      "excerpt": "Press Release Snorkel AI, the data-centric AI platform company, announced it is integrating Microsoft Azure AI services to speed AI development for Azure customers. In addition, Snorkel AI has joined the Microsoft for Startups program.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/snorkel-ai-partners-with-microsoft-to-unlock-the-potential-of-enterprise-ai/",
-      "originalUrl": "https://venturebeat.com/business/snorkel-ai-partners-with-microsoft-to-unlock-the-potential-of-enterprise-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/snorkel-ai-partners-with-microsoft-to-unlock-the-potential-of-enterprise-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/snorkel-ai-partners-with-microsoft-to-unlock-the-potential-of-enterprise-ai/amp/",
-      "publishedDateTime": "2023-04-04T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-uni-of-the-sunshine-coast-sippy-downs-campus-is-australias-happiest.md",
-      "title": "Uni of the Sunshine Coast Sippy Downs campus is Australia’s happiest",
-      "excerpt": "The University of the Sunshine Coast’s Sippy Downs campus was named Australia’s happiest university by an artificial intelligence program that analysed students’ Instagram pictures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theaustralian.com.au/higher-education/uni-of-the-sunshine-coast-sippy-downs-campus-is-australias-happiest/news-story/87ed827f659b4cd4fdf27254517f323d",
-      "originalUrl": "https://www.theaustralian.com.au/higher-education/uni-of-the-sunshine-coast-sippy-downs-campus-is-australias-happiest/news-story/87ed827f659b4cd4fdf27254517f323d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian",
-        "domain": "theaustralian.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-the-7-most-promising-fintech-stocks-to-buy-for-april-2023.md",
-      "title": "The 7 Most Promising Fintech Stocks to Buy for April 2023",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As a hotbed for innovation, top fintech stocks to buy have disrupted",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-7-most-promising-fintech-stocks-to-buy-for-april-2023-1032214911",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-7-most-promising-fintech-stocks-to-buy-for-april-2023-1032214911",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T12:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-darya-trepova-what-clues-does-new-russian-bomb-footage-reveal.md",
-      "title": "Darya Trepova: What clues does new Russian bomb footage reveal?",
-      "excerpt": "New footage has emerged showing the moment a bomb exploded in a St Petersburg cafe, killing pro-war blogger Vladlen Tatarsky. The Russian authorities have charged 26-year-old Darya Trepova with terrorism.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-europe-65178332",
-      "originalUrl": "https://www.bbc.com/news/world-europe-65178332",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-eightfold-ai-announces-talent-intelligence-copilots-bringing-generative-ai-to-its-deep-learning-ai-platform.md",
-      "title": "Eightfold AI Announces Talent Intelligence Copilots, Bringing Generative AI to its Deep-Learning AI Platform",
-      "excerpt": "Since its founding, Eightfold AI has used deep-learning AI to understand a job seeker's skills, potential, ability to learn new skills and adapt to new situations, as well as facilitate the placement of those candidates in roles that help them fulfill their career potential.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/04/04/9788781.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/04/04/9788781.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T11:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

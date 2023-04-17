@@ -7,7 +7,7 @@ originalUrl: "https://www.techuk.org/resource/techuk-s-ai-week-2023-aiweek2023.h
 webUrl: "https://www.techuk.org/resource/techuk-s-ai-week-2023-aiweek2023.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 400
     height: 259
     isCached: true
+
+related:
+  - title: "At TED2023, AI Takes Center Stage"
+    excerpt: "This year's TED Talks explore the potential of AI on business and culture from multiple perspectives as the organization aims to drive \"conversations that matter\" around the topic on everyone's mind."
+    publishedDateTime: 2023-04-17T18:39:00Z
+    webUrl: "https://www.forbes.com/sites/robsalkowitz/2023/04/17/at-ted2023-ai-takes-center-stage/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "JhxLFYwhhK+cN/HPyFHALvWsIOgl1GdkMtiHo0adSZ8eGZ2OySbsPhEyA796mjl+MKfiDxoq0pAmTUdJK/1SelV4SLv6Bdz2J48zEkYw0oOWwgbqXtUzNhcFuMvw/zSjPSGypv3wYkbqICIl33hRp8dFBDx967cvYrqOIorN82oHic4w/ttuJbFpoSsir9XXz9/TWqMaZto7TqMYscp19g9wP2M8kKXCXSjT4APjw8uApXTF8jBB7QqQaXSurfhnDm6veMmEAymojXs7YHYDU0Al1wO7hyYKLh8JHvQqIfoGsDMKFUtQ03o7hnLMm77uFtdTZM6e9GyOwjarhbtcgq0Qf1WMCk68ohk3UuxywSU=;VDhXL4s83gWvzAaskstCKg=="
 ---

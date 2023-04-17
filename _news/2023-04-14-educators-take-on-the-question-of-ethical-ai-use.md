@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Brace for the defamation of AI by those who missed out"
-    excerpt: "A letter signed by luminaries, including Elon Musk and Steve Wozniak, calling for a six-month \"pause\" on AI has inspired thousands to add their signatures. However, in an op-ed for Livemint, journalist Manu Joseph argues that the letter is a part of a larger movement to trigger anxiety and invoke ethics,"
-    publishedDateTime: 2023-04-16T18:02:00Z
-    webUrl: "https://www.livemint.com/opinion/online-views/sentient-luminaries-sign-letter-calling-for-a-pause-on-ai-progress-but-is-their-movement-against-ai-really-about-ethics-11681668171217.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 19
   - title: "Fake Drake raises questions over AI tools used to create covers"
     excerpt: "At the moment, these AI covers seem to be slightly mischievous experiments, but lurking beneath it all are some complex issues. From an artist standpoint, there’s the simple issue of ethics. Having your voice cloned might feel like an intrusion: suddenly they have no control over their voices,"
     publishedDateTime: 2023-04-17T11:00:00Z

@@ -50,6 +50,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs."
+    publishedDateTime: 2023-04-17T20:00:00Z
+    webUrl: "https://techcrunch.com/2023/04/17/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/04/17/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/17/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "3 AI Stocks That Could Trounce Google and Microsoft"
     excerpt: "In AI Superpowers, Lee maintains that Chinese companies could hold key advantages in AI development. If he's right, here are three AI stocks that could trounce Alphabet and Microsoft."
     publishedDateTime: 2023-04-16T09:54:00Z
@@ -224,6 +240,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Samsung considering Microsoft's AI-powered Bing as default search engine over Google"
+    excerpt: "As a result of Microsoft's recent success with artificial intelligence, Samsung is now thinking about replacing Google as the default search engine on its devices."
+    publishedDateTime: 2023-04-17T18:33:00Z
+    webUrl: "https://appleinsider.com/articles/23/04/17/samsung-considering-microsofts-ai-powered-bing-as-default-search-engine-over-google"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 27
 
 secured: "KnmLY9D7MVlFH/Qf+6B6UNAL4PWwToqNWOT34LnOuxxDeUI/cTSIrHAqXBmhTdzHzOgZfJza8zt816mtPGrPt4P939zxS+PeNS/0QK4+Xz8LS+ogCzAOG0yAP6iYIPJCTF6Qb6rgw3bxCsSuX4w9iKWvVKW2ZEaOjXVr9PsDC5CRjkbp6d2qgtWigOXfBmjfVrQ+oGFyS0i3Kh7UIyHmj9zF39LoIzFq3yACmfTMWEX4XlZTGYeJQmPaGVBlMmXzH41j8At8aRjk2jmLEgZuCr+hoQwdycgQlHCHcrV4J7MAF+z6AmcIPMwvh/V/FJL93wyYxENuUvE0EYIL5nuv+mzwjzAXKptEW0cD7R4p0llazWbtHf0hqRPvBJQ4VqK0B7+iDTRuA3tCdvFlRVk+Y5KTjXZb0cMNQ+mR65qpa5gBPd25UH13o1vf3ImrArC3PRTeB/4acvQPPm07FW+/WDxSlQyDkjt1gyLtDCDtMDxLpwvQNf6coiRgiHaRxkJqvH/A+WStpknao/hnDLH9kw==;gQADzwGVaJY5g3Twy9NptQ=="
 ---

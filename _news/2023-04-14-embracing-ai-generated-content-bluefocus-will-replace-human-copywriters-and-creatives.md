@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Chinese Satellite Goes on Inexplicable Sightseeing Tour After Researchers Put AI in Control"
+    excerpt: "An AI put in control of an Earth-imaging satellite to make it more efficient chose its own target areas—including the home of an Indian army regiment."
+    publishedDateTime: 2023-04-17T20:15:00Z
+    webUrl: "https://gizmodo.com/chinese-researchers-let-ai-control-satellite-1850344169"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 57
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/6c8593bf3d817cc49a566743dee949a5.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "WZMV4nk50NB9Se7/xx+yA/6GEANOrQkYBViBqLjyCR/p8DnR7R9EFm5nCkvGRkm+bZgMffHPa2wWb3nbZjSirVp/DomuifL0cbIdH1YhJQGJnfiiQRqhNZWN1dCqnnVSI+Tz8/JzyY6U+d3EPqRlHt7XDat3xmx15rFimwGnBY5IUGDdzSsCm5GMNKtxniFDJX9L8RPCJ+rkXU4MJrp7ISZo6zoEwVW6+kDBNIkZtB8eD7DGnJpNTXCKeQ9pCkUJIzbu5npoCrhq0vNvIOsPqCpdnBswfJ3op+Kz7Gr+cIBGYAPbOGYJlrpL5lRm8ewYul4fPTZrLhZiWvAlWJ5KWhDQJgsrAtADLCrmabLvhqA=;Wf268mP3hvY0ocneWlQe5g=="
 ---

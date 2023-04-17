@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-17T19:13:00Z
 originalUrl: "https://medicalxpress.com/news/2023-04-ai-powered-deep-cancer-diagnostics-accurately.html"
 webUrl: "https://medicalxpress.com/news/2023-04-ai-powered-deep-cancer-diagnostics-accurately.html"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Medical Xpress

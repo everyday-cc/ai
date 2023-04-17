@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Dubai FinTech Summit Dialogues examine financial sector challenges"
+    excerpt: "Dubai International Financial Centre (DIFC), the leading international financial hub in the Middle East, Africa and South Asia (MEASA) region, hosted the second Dubai FinTech Summit (DFS) Dialogues last week."
+    publishedDateTime: 2023-04-17T18:30:00Z
+    webUrl: "https://www.jordantimes.com/news/business/dubai-fintech-summit-dialogues-examine-financial-sector-challenges"
+    type: article
+    provider:
+      name: The Jordan Times
+      domain: jordantimes.com
+    quality: 39
+    images:
+      - url: "https://jordantimes.com/sites/default/files/styles/news_inner/public/Fintech.jpg?itok=bz4ApGsz"
+        width: 870
+        height: 440
+        isCached: true
   - title: "FinTech Alliance launches FinTech Lab with Knotel"
     excerpt: "The FinTech Alliance, the industry body operated in partnership with the UK's Department for International Trade, has announced the launch of its new initiative dubbed the 'FinTech Lab'. The initiative will operate in partnership with Knotel,"
     publishedDateTime: 2023-04-17T10:18:00Z

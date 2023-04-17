@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-17T18:41:00Z
 originalUrl: "https://www.forbes.com/sites/johnbbrandon/2023/04/17/an-ai-portrait-company-launched-a-successful-linkedin-campaign-you-should-steal-it/"
 webUrl: "https://www.forbes.com/sites/johnbbrandon/2023/04/17/an-ai-portrait-company-launched-a-successful-linkedin-campaign-you-should-steal-it/"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: Forbes

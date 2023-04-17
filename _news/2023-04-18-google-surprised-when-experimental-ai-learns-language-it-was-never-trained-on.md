@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-17T18:24:00Z
 originalUrl: "https://futurism.com/the-byte/google-ai-bengali"
 webUrl: "https://futurism.com/the-byte/google-ai-bengali"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Futurism

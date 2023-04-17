@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-17T17:40:00Z
 originalUrl: "https://www.bizjournals.com/charlotte/inno/stories/news/2023/04/17/kinsmen-software-launch-ai-incubator-startups.html"
 webUrl: "https://www.bizjournals.com/charlotte/inno/stories/news/2023/04/17/kinsmen-software-launch-ai-incubator-startups.html"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: The Business Journals

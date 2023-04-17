@@ -25,52 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Social Media Market Is Expected to Reach $12 Billion by 2031: Allied Market Research"
-    excerpt: "According to the report published by Allied Market Research, the global artificial intelligence (AI) in social media market generated $992.7 million in 2021, and is"
-    publishedDateTime: 2023-04-14T13:39:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/04/g31806497/artificial-intelligence-ai-in-social-media-market-is-expected-to-reach-12-billion-by-2031-allied-m"
+  - title: "Insights into the Robotics in Entertainment Market Growth and Future Prospects with projected CAGR rate 10% for period 2023-2030"
+    excerpt: "The global Robotics in Entertainment market size is projected to reach multi million by 2030, in comparision to 2021, at unexpected CAGR during 2023-2030 (Ask for Sample Report). As a consultant or industry expert in the field of robotics,"
+    publishedDateTime: 2023-04-17T18:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/insights-into-the-robotics-in-entertainment-market-growth-and-future-prospects-with-projected-cagr-rate-10-for-period-2023-2030-2023-04-17"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Global Used and Refurbished Robots Market is Pegged to Attain Valuation of US$ 5,080.2 Million by 2031: Astute Analytica"
-    excerpt: "The growth of the used and refurbished robots market can also be attributed to the increasing adoption of advanced technologies such as machine learning, artificial intelligence, and the Internet of Things (IoT). These technologies are being integrated ..."
-    publishedDateTime: 2023-04-17T15:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/04/g31834609/global-used-and-refurbished-robots-market-is-pegged-to-attain-valuation-of-us-5-080-2-million-by-2"
+  - title: "Computer Vision Development market Outlook: Forecasting Market Value and Revenue with an expected CAGR value of 6.9% period of 2023 - 2030"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 15, 2023 (Prime PR Wire via Comtex) -- This \"Computer Vision Development Market\" Report provides detailed information regarding factors influencing the growth of the ..."
+    publishedDateTime: 2023-04-16T00:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-development-market-outlook-forecasting-market-value-and-revenue-with-an-expected-cagr-value-of-69-period-of-2023---2030-2023-04-15"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "AI Training Dataset Market to reach $9.3 Billion, Globally, by 2031 at 21.6% CAGR: Allied Market Research"
-    excerpt: "The AI training dataset market is growing rapidly, fueled by the rise of machine learning and artificial intelligence, as well as technological advancements that enable the generation of vast amounts of data."
-    publishedDateTime: 2023-04-17T12:21:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/04/g31828329/ai-training-dataset-market-to-reach-9-3-billion-globally-by-2031-at-21-6-cagr-allied-market-resear"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 2
-  - title: "Artificial Kidney Market Size Expected To Hit US$ 5.3 Billion By 2033, With 13% CAGR: Report By Fact.MR"
-    excerpt: "As per the latest estimates by Fact.MR, a market research and competitive intelligence provider, the global artificial kidney market is valued at US$ 1.5 billion in 2023"
-    publishedDateTime: 2023-04-13T18:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/04/g31794422/artificial-kidney-market-size-expected-to-hit-us-5-3-billion-by-2033-with-13-cagr-report-by-fact-m"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "6QB4mNb78UhQc5taAYVfmnoyjEpjpdpNVsvICtY7iIfl3r8/V+DZRwG0r+fowAJ+FnS8nC5QIRdgy71r295da2fKV7QCizLy7Rtdq1G+7+6zuxyXJTNiiSAojPBgI2Hrzh2sdMTISv2csv3/xdEaTkF0LHtul3N8NLOIbe9vbac/UIMIDCuUVvGMPvPwQDXxbB1xt4lbbJPT3eKDhx8/6gHcZl5odSJg8pZxZ0BbNOaa3cWFupLn4FVMBJ2g91/hnrbwZupc6Ng8+g8aro1h9+saGo+bzbxRZwEyW2PHEgJWiIz1vnQRcd8X8elUViMAEvJBDd7ywXfSzsZ+5DtJsj0OSNm6XyZIByKSNM20/WU=;IP/UnFHSVoXjOwouazy0IQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/ai-advancements-google
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cold robots revolutionise cold chain logistics"
-    excerpt: "Autonomous mobile robots will contribute significantly to efficient and productive use of increasingly vital cold storage, according to Frazer Watson. This is an industry blog published in Forkliftaction News,"
-    publishedDateTime: 2023-04-13T04:13:00Z
-    webUrl: "https://www.forkliftaction.com/news/cold-robots-revolutionise-cold-chain-logistics.aspx?n=26860"
-    type: article
-    provider:
-      name: forklift
-      domain: forkliftaction.com
-    quality: 34
   - title: "The AI Revolution Is at a Tipping Point"
     excerpt: "We spoke with Rootstrap co-founder and machine learning expert Anthony Figueroa about the issues surrounding the need for developer controls of machine learning and the potential need for government regulation of artificial intelligence."
     publishedDateTime: 2023-04-13T12:00:00Z

@@ -90,6 +90,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft and Epic expand strategic collaboration with integration of Azure OpenAI Service"
+    excerpt: "Microsoft Corp. and Epic on Monday announced they are expanding their long-standing strategic collaboration to develop and integrate generative AI into healthcare by combining the scale and power of Azure OpenAI Service 1 with Epic's industry-leading electronic health record (EHR) software."
+    publishedDateTime: 2023-04-17T17:24:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/04/17/9795658.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
   - title: "Microsoft and Johnson Matthey join forces to speed up hydrogen fuel cell innovation with Azure Quantum"
     excerpt: "Johnson Matthey and Microsoft Azure Quantum chemists have teamed up to drive new discoveries in sustainable energy."
     publishedDateTime: 2023-04-13T14:00:00Z
@@ -104,15 +113,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Siemens, Microsoft Use Generative AI to Drive Industrial Productivity"
-    excerpt: "Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency across the design, engineering, manufacturing and operational lifecycle of products."
-    publishedDateTime: 2023-04-13T02:01:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/31559-siemens-microsoft-use-generative-ai-to-drive-industrial-productivity"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 34
 
 secured: "+KUj9f8b3JgsPqwgHRGCKEC1Ooy9haEgpNSWQOsal/EOplDZM5WiVa8vSNb+eS6hZEi+GHBRjaTpge5++52LVq3LIKlmG8axUoEfdjf8QiMyEBIYaKU77oJ/5wEF6+C4imLblQKDSGOmU2RHL0nXcxv/xvkKUHELGpyqksLdcRxHpfSQsqJsSrFq4vFp6y02S6jvWw+ANhTFiE8Nvsngn1mUyd8Zt/fSRKpkLNdqK9bVPq3+MXUwui5PJpLovC4m7T3V5A/xMwb0ys4lUp6AzOw9GKFnBF57uhfy4NjOpkwv5oTnW+2+T9gaPIK8drIiXuzyhkGWvquB7p062vnVw0cN7bWA/OqR9Id6SPh2xkE=;N8opahIIaoSjZj3zFbyTow=="
 ---

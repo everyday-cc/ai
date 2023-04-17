@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-17T17:12:00Z
 originalUrl: "https://www.devdiscourse.com/article/science-environment/2420489-new-ai-tool-can-decide-survival-treatments-of-colon-cancer-study"
 webUrl: "https://www.devdiscourse.com/article/science-environment/2420489-new-ai-tool-can-decide-survival-treatments-of-colon-cancer-study"
 type: article
+quality: 19
+heat: -1
+published: false
 
 provider:
   name: devdiscourse
@@ -14,6 +17,77 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "New Artificial Intelligence Tool Helps Predict Colon Cancer Survival"
+    excerpt: "Artificial intelligence (AI) or machine intelligence refers to the intelligence displayed by computers or robots in contrast to the natural intelligence exhibited by humans. It is considered one of the major advancements of the 4th industrial revolution and finds application in several fields including medicine."
+    publishedDateTime: 2023-04-15T11:54:00Z
+    webUrl: "https://www.medindia.net/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://www.medindia.net/health-images/artificial-intelligence-can-now-predict.jpg"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "New AI model can predict survival, treatment of colon cancer, reveals study"
+    excerpt: "According to a new study, a new artificial intelligence model can bring much-needed clarity ... is to survive with and without disease recurrence, and what the optimal therapy might be for them. Having a tool that answers such questions could help ..."
+    publishedDateTime: 2023-04-17T17:31:00Z
+    webUrl: "https://www.hindustantimes.com/technology/new-ai-model-can-predict-survival-treatment-of-colon-cancer-reveals-study-101681751920453.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/new-ai-model-can-predict-survival-treatment-of-colon-cancer-reveals-study-101681751920453-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/new-ai-model-can-predict-survival-treatment-of-colon-cancer-reveals-study-101681751920453-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 57
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2023/04/17/1600x900/SPAIN-HEALTH-LUNGS-0_1681752386389_1681752446577.JPG"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Colon Cancer Survival and Therapy Response Predicted by AI"
+    excerpt: "A new artificial intelligence model could bring clarity to doctors delivering prognoses and deciding on treatments for patients with colorectal cancer"
+    publishedDateTime: 2023-04-14T09:01:00Z
+    webUrl: "https://www.technologynetworks.com/cancer-research/news/colon-cancer-survival-and-therapy-response-predicted-by-ai-372120"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 54
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/372120/colon-cancer-survival-and-therapy-response-predicted-by-ai-372120-640x360.jpg?cb=20230414"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "New AI tool accurately predicts aggressiveness of colorectal cancer"
+    excerpt: "A new artificial intelligence model designed by researchers at Harvard Medical School and National Cheng Kung University in Taiwan could bring much-needed clarity to doctors delivering prognoses and deciding on treatments for patients with colorectal cancer,"
+    publishedDateTime: 2023-04-14T11:08:00Z
+    webUrl: "https://www.news-medical.net/news/20230413/New-AI-tool-accurately-predicts-aggressiveness-of-colorectal-cancer.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 39
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Colon_cancer_-_Sebastian_Kaulitzki_277dbee2959349bbbd2680e383db4864-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "AI tool predicts colon cancer survival, treatment response"
+    excerpt: "A new artificial intelligence model designed by researchers at Harvard Medical School and National Cheng Kung University in Taiwan could bring much-needed clarity to doctors delivering prognoses and deciding on treatments for patients with colorectal cancer,"
+    publishedDateTime: 2023-04-13T16:16:00Z
+    webUrl: "https://medicalxpress.com/news/2023-04-ai-tool-colon-cancer-survival.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 19
 
 secured: "SzRkt5dwdMeFxefPWB0+7pRed9SJo6Qx05NHLezxBv71qiyppFItdC83MIP7D2xii3zjzdJMU85qFk9/0VVb0PNxrI7oM5S80eoLcsIetKnThoP+WxVXg3hkUBG+reZ6CfdBonCcHeQYinl/fCPx7h9Ct3NnTJ2v8/MYCDrBCNhPUnsEAg0XLx03RA6xuTSYqQM5UG7nhgX2tIHRVGgcI9xYgVQr7pyWMh3bDSdE+Mc4Vf1J02F3zcWJr2rcgYSMD6YI6CidLLGXCjv+EV0bXjHz4kM1bUoE9NlgTrjNqbN5pSG7Lk38w4VS1IlYp+uTUG6QUig75tJXPRtXDO571a2/AeCPVghtlxE8UH2tjoQjamqS5zaFn51gCG5lyUMCqmwKuL1zPAV/1ig2GtTQ2x1hPXPMnyhUyqXZRweKWm6e3fUXqiWMOFZpIazy+IDrS+Pi2fxJh6ofVQwngAYQ+02IavDBp+VW8UVfh7caVpthlEnHjoVyWzuNgVMfDjGClxbHv961xxvPcSHUF2CIxA==;bjnmaPYirHrgOoe2cOwYXA=="
 ---

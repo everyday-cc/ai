@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/chinese-company-to-replace-some-copy
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-company-to-replace-some-copywriters-graphic-designers-ai-report-2023-4?amp"
 type: article
 quality: 70
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese Satellite Goes on Inexplicable Sightseeing Tour After Researchers Put AI in Control"
+    excerpt: "An AI put in control of an Earth-imaging satellite to make it more efficient chose its own target areas—including the home of an Indian army regiment."
+    publishedDateTime: 2023-04-17T20:15:00Z
+    webUrl: "https://gizmodo.com/chinese-researchers-let-ai-control-satellite-1850344169"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 57
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/6c8593bf3d817cc49a566743dee949a5.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Embracing AI-generated content, BlueFocus will replace human copywriters and creatives"
     excerpt: "Top Chinese marketing agency BlueFocus's share price spiked on the news, adding concerns about job cuts and AI-related unemployment in the marcomms community."
     publishedDateTime: 2023-04-14T04:48:00Z

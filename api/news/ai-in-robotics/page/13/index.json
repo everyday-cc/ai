@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-12-21-eka-mobility-nuport-robotics-release-level-2-enabled-adas-e-bus.md",
+      "title": "EKA Mobility, NuPort Robotics release Level 2- enabled ADAS e-bus",
+      "excerpt": "This allows NuPort to include progressive Level 2 autonomy and Artificial Intelligence (AI) for electric buses on Indian roads. The module that is now live, enables ADAS features in EKA Mobility’s electric buses,",
+      "sourceUrl": null,
+      "webUrl": "https://auto.economictimes.indiatimes.com/news/commercial-vehicle/eka-mobility-nuport-robotics-release-level-2-enabled-adas-e-bus/96394212",
+      "originalUrl": "https://auto.economictimes.indiatimes.com/news/commercial-vehicle/eka-mobility-nuport-robotics-release-level-2-enabled-adas-e-bus/96394212",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-96394212,imgsize-404810,width-1200,height-628,overlay-etauto/eka-mobility-nuport-robotics-release-level-2-enabled-adas-e-bus.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://auto.economictimes.indiatimes.com/amp/news/commercial-vehicle/eka-mobility-nuport-robotics-release-level-2-enabled-adas-e-bus/96394212",
+      "cdnAmpWebUrl": "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/commercial-vehicle/eka-mobility-nuport-robotics-release-level-2-enabled-adas-e-bus/96394212",
+      "publishedDateTime": "2022-12-21T00:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ET Auto",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-21-tech-tuesday-super-mario-world-handwriting-ai-robots-climbing-walls.md",
       "title": "Tech Tuesday: Super Mario World, handwriting AI, robots climbing walls",
       "excerpt": "From Super Mario World to Google taking on doctor’s handwriting and robot dogs that can climb walls, tech expert Greg Nibler joined AM Extra for the latest tech news.",
@@ -1321,49 +1364,6 @@
         "AI",
         "AI Ethics",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-model-shows-how-intelligent-like-behavior-can-emerge-from-non-living-agents.md",
-      "title": "Model shows how intelligent-like behavior can emerge from non-living agents",
-      "excerpt": "There is currently a great demand for distributed artificial intelligence in the field of robotics, Aronson explained. \"If you're designing a robot in the most cost-effective way possible ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/12/221213121524.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/12/221213121524.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

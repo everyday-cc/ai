@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-10-the-top-4-examples-of-how-chatgpt-can-be-used-in-telecom.md",
+      "title": "The Top 4 Examples Of How ChatGPT Can Be Used In Telecom",
+      "excerpt": "Are you curious about how ChatGPT is revolutionizing the telecom sector? Check out this list of top 4 examples, including customer support, network optimization, and fraud detection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/03/10/the-top-4-examples-of-how-chatgpt-can-be-used-in-telecom/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/03/10/the-top-4-examples-of-how-chatgpt-can-be-used-in-telecom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/640adc9a03926496c67aa269/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/03/10/the-top-4-examples-of-how-chatgpt-can-be-used-in-telecom/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/03/10/the-top-4-examples-of-how-chatgpt-can-be-used-in-telecom/amp/",
+      "publishedDateTime": "2023-03-09T22:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-10-google-provides-update-on-ai-speech-models.md",
       "title": "Google Provides Update On AI Speech Models",
       "excerpt": "The group had to face two significant challenges in automatic speech recognition (ASR). First, a lack of scalability with conventional supervised learning approaches. A fundamental challenge of ...",
@@ -1375,50 +1427,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-02-26-can-ai-be-great-equaliser-for-equity-in-education.md",
-      "title": "‘Can AI be great equaliser for equity in education?’",
-      "excerpt": "\"A glimpse of the future shows us AI software being used for generating 3D videos to assist in explaining complex ideas or processes, software for self-paced learning, and real-time speech-to-speech translation that can bridge language barriers in ...",
-      "sourceUrl": null,
-      "webUrl": "https://tribune.com.pk/story/2403332/can-ai-be-great-equaliser-for-equity-in-education",
-      "originalUrl": "https://tribune.com.pk/story/2403332/can-ai-be-great-equaliser-for-equity-in-education",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.tribune.com.pk/media/images/1501987-hackingcyberthreatreuters-1504945967/1501987-hackingcyberthreatreuters-1504945967.jpg",
-          "width": 1024,
-          "height": 717,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tribune.com.pk/story/2403332/can-ai-be-great-equaliser-for-equity-in-education?amp=1",
-      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2403332/can-ai-be-great-equaliser-for-equity-in-education?amp=1",
-      "publishedDateTime": "2023-02-25T20:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Express Tribune",
-        "domain": "tribune.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

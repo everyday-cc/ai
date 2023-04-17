@@ -2,6 +2,396 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2023-02-09-ai-is-about-to-make-google-translate-a-whole-lot-smarter.md",
+      "title": "AI is about to make Google Translate a whole lot smarter",
+      "excerpt": "The company will be bringing in additional context to translations to help you understand more about your target language, and it’ll also be using a lot more AI power for Translate to make that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/mobile/google-translate-ai-features-announce-news/",
+      "originalUrl": "https://www.digitaltrends.com/mobile/google-translate-ai-features-announce-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2021/10/google-pixel-in-app-translation.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/google-translate-ai-features-announce-news/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/google-translate-ai-features-announce-news/?amp",
+      "publishedDateTime": "2023-02-08T11:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-synopsys-ai-chip-design-hits-major-milestone-with-azure-cloud-stmicro-and-sk-hynix.md",
+      "title": "Synopsys AI Chip Design Hits Major Milestone With Azure Cloud, STMicro And SK Hynix",
+      "excerpt": "on Microsoft Azure. Machine Learning Now Does The Grunt Work Of Chip Design The place and route optimization step in semiconductor chip design is a simple concept to understand. First, engineers design the circuits, logic, memory structures, etc.,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/02/08/synopsys-ai-chip-design-hits-major-milestone-with-azure-cloud-stmicro-and-sk-hynix/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/02/08/synopsys-ai-chip-design-hits-major-milestone-with-azure-cloud-stmicro-and-sk-hynix/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63e4067e747cd431e9db7365/0x0.jpg?format=jpg&crop=2361,1106,x0,y109,safe&width=1200",
+          "width": 1200,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2023/02/08/synopsys-ai-chip-design-hits-major-milestone-with-azure-cloud-stmicro-and-sk-hynix/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/02/08/synopsys-ai-chip-design-hits-major-milestone-with-azure-cloud-stmicro-and-sk-hynix/amp/",
+      "publishedDateTime": "2023-02-08T11:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-tech-moves-aws-product-head-joins-faculty-bezos-earth-fund-hires-blackrock-leader-and-more.md",
+      "title": "Tech Moves: AWS product head joins Faculty; Bezos Earth Fund hires BlackRock leader; and more",
+      "excerpt": "Submissions: tips@geekwire.com — Jacob Sullivan is now chief product officer at Faculty, a London-based company that builds artificial intelligence systems. Sullivan was previously head of product for the AI DevOps group at Amazon Web Services ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/tech-moves-aws-product-head-joins-faculty-bezos-earth-fund-hires-blackrock-leader-and-more/",
+      "originalUrl": "https://www.geekwire.com/2023/tech-moves-aws-product-head-joins-faculty-bezos-earth-fund-hires-blackrock-leader-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/02/Screen-Shot-2023-02-08-at-9.28.04-AM.png",
+          "width": 772,
+          "height": 756,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T11:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-study-reveals-that-much-still-not-known-about-cognitive-decline.md",
+      "title": "Study reveals that much still not known about cognitive decline",
+      "excerpt": "More information: Predictors of cognitive functioning trajectories among older Americans: A new investigation covering 20 years of age- and non-age-related cognitive change, PLoS ONE (2023). DOI ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-02-reveals-cognitive-decline.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-02-reveals-cognitive-decline.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/we-still-dont-know-whi.jpg",
+          "width": 1280,
+          "height": 914,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-this-chinese-stock-is-unveiling-its-own-version-of-chatgpt.md",
+      "title": "This Chinese Stock is Unveiling Its Own Version of ChatGPT",
+      "excerpt": "Baidu’s growth has fallen behind that of its Chinese tech rivals in recent times, but its well-timed shift towards AI several years ago could soon begin to bear fruit. The company has spent the last few years investing in self-driving cars, deep-learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/this-chinese-stock-is-unveiling-its-own-version-of-chatgpt-1032079832",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/this-chinese-stock-is-unveiling-its-own-version-of-chatgpt-1032079832",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/02/image-214.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 776,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T10:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-ai-is-the-next-frontier-but-for-whom.md",
+      "title": "AI is the next frontier — but for whom?",
+      "excerpt": "Isoken Igbinedion, co-founder, Parfait AI ethics is often a separate conversation from AI building, but they should be one and the same. Bias is dangerous, especially as AI continues to spread into everyday life. For centuries, doctors once judged Black ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/02/08/ai-is-the-next-frontier-but-for-whom/",
+      "originalUrl": "https://techcrunch.com/2023/02/08/ai-is-the-next-frontier-but-for-whom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1401980646.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T10:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-machine-learning-intervention-leads-to-safer-cardiac-catheterization.md",
+      "title": "Machine-Learning Intervention Leads to Safer Cardiac Catheterization",
+      "excerpt": "New research shows that a machine-learning intervention resulted in a 46 percent lower likelihood of acute kidney injury from cardiac catheterization.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/machine-learning-intervention-leads-to-safer-cardiac-catheterization",
+      "originalUrl": "https://healthitanalytics.com/news/machine-learning-intervention-leads-to-safer-cardiac-catheterization",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitanalytics.com/news/amp/machine-learning-intervention-leads-to-safer-cardiac-catheterization",
+      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/machine-learning-intervention-leads-to-safer-cardiac-catheterization",
+      "publishedDateTime": "2023-02-08T09:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-oracle-cloud-made-all-the-right-moves-in-2022.md",
+      "title": "Oracle Cloud Made All The Right Moves In 2022",
+      "excerpt": "For example, Adept AI, a machine learning research and product lab ... Last year, Oracle Database Service for Microsoft Azure launched, enabling customers like Marriott to integrate the capabilities of two major cloud providers for better performance ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/02/08/oracle-cloudmaking-all-the-right-moves-in-2022/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/02/08/oracle-cloudmaking-all-the-right-moves-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63e40d812bc3941fcb78da04/0x0.jpg?format=jpg&width=1200",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/02/08/oracle-cloudmaking-all-the-right-moves-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/02/08/oracle-cloudmaking-all-the-right-moves-in-2022/amp/",
+      "publishedDateTime": "2023-02-08T09:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-google-translate-gets-ai-powered-contextual-translation.md",
       "title": "Google Translate gets AI-powered contextual translation",
       "excerpt": "Google is bringing more contextual translation options to the app. That’s where AI will play a big role, offering users descriptions and examples in the translated language: So whether you’re ...",
@@ -722,368 +1112,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-denodo-receives-aws-data-and-analytics-isv-competency-status.md",
-      "title": "Denodo receives AWS Data and Analytics ISV Competency Status",
-      "excerpt": "Denodo, today announced that it has achieved the Amazon Web Services (AWS) Data and Analytics ISV Competency status.",
-      "sourceUrl": null,
-      "webUrl": "https://www.voicendata.com/denodo-receives-aws-data-and-analytics-isv-competency-status/",
-      "originalUrl": "https://www.voicendata.com/denodo-receives-aws-data-and-analytics-isv-competency-status/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.voicendata.com/denodo-receives-aws-data-and-analytics-isv-competency-status/amp/",
-      "cdnAmpWebUrl": "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/denodo-receives-aws-data-and-analytics-isv-competency-status/amp/",
-      "publishedDateTime": "2023-02-07T23:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Voicendata.com",
-        "domain": "voicendata.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-artificial-neural-networks-market-to-showcase-vigorous-demand-during-the-upcoming-years-forecast-till-2029.md",
-      "title": "Artificial Neural Networks Market to Showcase Vigorous Demand During the Upcoming Years, Forecast Till 2029",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 08, 2023 (The Expresswire) -- Latest \"Artificial Neural Networks Market\" Size, Share and Trends Analysis Research Report 2023 - By Applications (BFSI, Retail and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-to-showcase-vigorous-demand-during-the-upcoming-years-forecast-till-2029-2023-02-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-to-showcase-vigorous-demand-during-the-upcoming-years-forecast-till-2029-2023-02-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T23:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-deepfake-news-anchors-in-pro-china-footage-research.md",
-      "title": "Deepfake 'News Anchors' In Pro-China Footage: Research",
-      "excerpt": "The \"news broadcasters\" appear stunningly real, but they are AI-generated deepfakes in first-of-their-kind propaganda videos that a research report published Tuesday attributed to Chinese state-aligned actors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/deepfake-news-anchors-in-pro-china-footage-research-01675823408",
-      "originalUrl": "https://www.barrons.com/news/deepfake-news-anchors-in-pro-china-footage-research-01675823408",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/deepfake-news-anchors-in-pro-china-footage-research-01675823408",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/deepfake-news-anchors-in-pro-china-footage-research-01675823408",
-      "publishedDateTime": "2023-02-07T22:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-meta-long-an-ai-leader-tries-not-to-be-left-out-of-the-boom.md",
-      "title": "Meta, Long an A.I. Leader, Tries Not to Be Left Out of the Boom",
-      "excerpt": "It has long had technology to rival chatbots like ChatGPT, but can’t afford to back artificial intelligence that ... the owner of Facebook, WhatsApp and Instagram, unveiled a chatbot of its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/02/07/technology/meta-artificial-intelligence-chatgpt.html",
-      "originalUrl": "https://www.nytimes.com/2023/02/07/technology/meta-artificial-intelligence-chatgpt.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/08/business/META-AI-illo-Furler/META-AI-illo-Furler-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/02/07/technology/meta-artificial-intelligence-chatgpt.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/02/07/technology/meta-artificial-intelligence-chatgpt.amp.html",
-      "publishedDateTime": "2023-02-07T22:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-satya-nadella-existing-jobs-will-be-more-productive-because-of-ai.md",
-      "title": "Satya Nadella: Existing Jobs Will Be More Productive Because Of AI",
-      "excerpt": "microsoft ceo satya nadella announces new ai-powered search ... We wouldn't even have all of the Azure Cognitive Services if it was not for what was applied AI. So I would say of course, I want more pace. And what you're seeing I guess this year in ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105540503/Satya-Nadella-Existing-Jobs-Will-Be-More-Productive-Because-Of-AI",
-      "originalUrl": "https://menafn.com/1105540503/Satya-Nadella-Existing-Jobs-Will-Be-More-Productive-Because-Of-AI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-02/07/V_09cd6image_story.jpg",
-          "width": 1175,
-          "height": 659,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T21:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-video-game-playing-causes-no-harm-to-young-childrens-cognitive-abilities-study-finds.md",
-      "title": "Video game playing causes no harm to young children's cognitive abilities, study finds",
-      "excerpt": "The team looked for association between the students' video game play and their performance on the standardized Cognitive Ability Test 7, known as CogAT, which evaluates verbal, quantitative and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/02/230207191554.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/02/230207191554.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T20:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-mlops-market-2023-exploring-new-challenges-and-opportunities-forecast-to-2029.md",
-      "title": "MLOps Market 2023 Exploring New Challenges and Opportunities, Forecast to 2029",
-      "excerpt": "Amazon SageMaker, H2O.ai, Inc., Pachyderm Inc., HPE, SAS) with the best facts and figures, definitions, SWOT and PESTAL analysis, expert opinions and the latest trends around the world. To know How COVID-19 and Russia-Ukraine War Influence Will Impact This ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/mlops-market-2023-exploring-new-challenges-and-opportunities-forecast-to-2029-2023-02-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/mlops-market-2023-exploring-new-challenges-and-opportunities-forecast-to-2029-2023-02-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T19:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-microsofts-cloud-business-a-key-pillar-of-the-clubs-investment-case-stands-to-gain-from-the-ai-craze.md",
-      "title": "Microsoft's cloud business, a key pillar of the Club's investment case, stands to gain from the AI craze",
-      "excerpt": "Microsoft (MSFT) CEO Satya Nadella said Tuesday that the technology giant's profitable cloud-computing division, Azure, will help it monetize its burgeoning artificial intelligence (AI) capabilities. While we maintain a healthy skepticism around the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/02/07/microsofts-cloud-business-stands-to-gain-from-the-ai-craze.html",
-      "originalUrl": "https://www.cnbc.com/2023/02/07/microsofts-cloud-business-stands-to-gain-from-the-ai-craze.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107179799-1674054065249-107179799-1673990952874-gettyimages-1244789692-SKOREA_MICROSOFT.jpg?v=1675811778&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T19:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.fstech.co.uk/fst/FinTech_Alliance_Launches_Fintech_Lab
 webUrl: "https://www.fstech.co.uk/fst/FinTech_Alliance_Launches_Fintech_Lab_With_Knotel.php"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Dubai FinTech Summit Dialogues examine financial sector challenges"
+    excerpt: "Dubai International Financial Centre (DIFC), the leading international financial hub in the Middle East, Africa and South Asia (MEASA) region, hosted the second Dubai FinTech Summit (DFS) Dialogues last week."
+    publishedDateTime: 2023-04-17T18:30:00Z
+    webUrl: "https://www.jordantimes.com/news/business/dubai-fintech-summit-dialogues-examine-financial-sector-challenges"
+    type: article
+    provider:
+      name: The Jordan Times
+      domain: jordantimes.com
+    quality: 39
+    images:
+      - url: "https://jordantimes.com/sites/default/files/styles/news_inner/public/Fintech.jpg?itok=bz4ApGsz"
+        width: 870
+        height: 440
+        isCached: true
   - title: "17/04 – Weekly Fintech Recap"
     excerpt: "Partnerships OKX Wallet Announces Blur Partnership, Revamps OKX Earn OKX announced a partnership with Blur.io to fully integrate the OKX Wallet on the leading Ethereum-based NFT Marketplace. On March 22,"
     publishedDateTime: 2023-04-17T12:30:00Z

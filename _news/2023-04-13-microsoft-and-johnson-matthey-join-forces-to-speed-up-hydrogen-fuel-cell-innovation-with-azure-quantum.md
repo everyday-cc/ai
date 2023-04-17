@@ -108,15 +108,15 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Siemens, Microsoft Use Generative AI to Drive Industrial Productivity"
-    excerpt: "Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency across the design, engineering, manufacturing and operational lifecycle of products."
-    publishedDateTime: 2023-04-13T02:01:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/31559-siemens-microsoft-use-generative-ai-to-drive-industrial-productivity"
+  - title: "Microsoft and Epic expand strategic collaboration with integration of Azure OpenAI Service"
+    excerpt: "Microsoft Corp. and Epic on Monday announced they are expanding their long-standing strategic collaboration to develop and integrate generative AI into healthcare by combining the scale and power of Azure OpenAI Service 1 with Epic's industry-leading electronic health record (EHR) software."
+    publishedDateTime: 2023-04-17T17:24:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/04/17/9795658.htm"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 34
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
 
 secured: "7Gb+icHj7GfnexzBhPbcdzJkzkw45Dzx8IObWTqpP9BfoWlbG1hn/wwpune8bCp4oixFsTwvfsC2RiqPYFEe5RR6U0K5GAms317IZx/MlUtZlOhVNRTIH1ywCy3GQI1hOcNyfQ27TFgmRhzbRg4Z6sh0gGw3qrvgrTOf29Ku55yGnYE11q+IhB+WclAoIS8JbhLzHuGmyPWCMAaTwZOU9IgFSQIT1XXdXIUDI+7cAU9Hy73hA0jNstG6rezUdpZXE0QHTPaJJ+1461tly6wP74wWKpUT99NB39SxoMqcGbWnRY/DmC4h24We2YrEJfzhgtgSsuN7KvaWyvqphwrKl6xN+T21Q1IJ9IS7m00WPM/pMGWrX20BNYyl6raRT1K3wqq0WjmMJh4paIOBRodBJzBUwlfEJXcljNo5VIt4CECRE9lUQBXIHcDzzSU/HHcXgVIg+rjTMh8Mj41h2A9lodKjsaOwVphPqhJuye5s68HsstyfZp26Gt4+PpPhDR2nvtAOoRJz3GKCLPPeZ+MVFg==;RrR9hBMlME9OQsn1Pcku+w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/can-artificial-intelligence-predict-wea
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/can-artificial-intelligence-predict-weather-months-out.amp"
 type: article
 quality: 80
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Can artificial intelligence predict weather months in advance?"
-    excerpt: "A weather service claims success in long-range forecasts using machine learning. Is an algorithmic revolution on the way?"
-    publishedDateTime: 2023-04-13T04:00:00Z
-    webUrl: "https://www.theguardian.com/uk-news/2023/apr/13/can-artificial-intelligence-predict-weather-months-in-advance"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
 
 secured: "GkiMf5G2r3XmEkjBLBG84BKTmdLjX01X/y9v0bEmf9hHu9WygeaemxbzpIQfEE5aeDmHqxRUdOsOY0IhDmuEgFMh9egX8gdBD2H5Lx2jqIxHo7si0NK4sFQWa//OFtF2nV02q7dzpv/wu7abrha2PBQpFuYJms2E/6mPZtdYqZa23fgi0nvtKg54rnV9SxW6rgygqK80odcEcdWAsg3NCwVwgrwGbqSYeww5PIo6DfyTnBaSkaooHGU2q9jKlOkG1j/dbfX9u+/T55TOG1vzBKyeF4nUXnUFGgHBbIQZ8jqXk67wrxo1AEVVZNGJOUPMEB3UPHT67BDdyo496gBGjTB0Hov9Gz/lNRoBG0U1jtpwaWk+qe5ICjChOjSUrv1IXj4JA3kS5wQIVFN5IE/FdEy6/kO/IrYO9RnE13gUfLugThePOjLQhu7x7WglH3BLjFZuVJ5qANkNlxY1n2MdnDO0ASPjY7u7crZYVOdMOsVGsRQNhwwn5xx428WOukj38BiFPBAQqF3C+L7KH6eBCA==;MKsGDLepNz7c0OvKApqNBg=="
 ---

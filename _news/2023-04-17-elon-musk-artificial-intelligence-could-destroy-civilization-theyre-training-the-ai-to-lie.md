@@ -38,6 +38,15 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Elon Musk warns AI could cause ‘civilization destruction’ even as he invests in it"
+    excerpt: "More recently, Musk is reportedly working to build a generative AI startup that could rival OpenAI and ChatGPT. The Financial Times reported last week that Musk is building a team of AI researchers and engineers, as well as seeking investors for a new ..."
+    publishedDateTime: 2023-04-17T19:53:00Z
+    webUrl: "https://www.cnn.com/2023/04/17/tech/elon-musk-ai-warning-tucker-carlson/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 41
 
 secured: "8d+v47Bw1tdtVlq2JYxcyy40AtVkQOthvrtV3lnYMrN44bUA/gW9hHeSClo+fF9X6+BuCa9/PQVYwiIwvB7KtOuNTGjLIP27z73JOf+oacBifgOXtqRm1hovfva8XuKLxgJ1hsdcVA1j2aRuA2fHKKwo/MH66oRLLi4XCkpHx1upHTaP130mqQsZUfqIeE2INxgGFbU2iNy/jmMa3pm9yoDWQeYyxJeMTsdDqEY2w3pE3DPvy14ocU5yFD2EoqtAQNrJB/DXfa9bd/d2etxCN51xIRV15ZkGdAtCOsnCNSUPAAvI9sC/GPqVE7+hsVCYEnc6C+a3wyF7KhvEeOIl61ARST7o174OjRfN4ZTT3To7OPXgxC8uKQteruz96X7iZEmuFijat1I+Xib4A7vhDw2/2E4y07FMc09DPP7QOALKpsdbA5gr/XTOSoJGD2Vc524aj/+n3KX0sMBsSWOHLbUJV5jtOpEjx1vJfUFkxQGNAYp7vBBVIynWIZ0s38Xv9NfKlX5b6/G9AwqAsEAMzA==;XtIcPH4DFA1x9DUD5fHQIA=="
 ---

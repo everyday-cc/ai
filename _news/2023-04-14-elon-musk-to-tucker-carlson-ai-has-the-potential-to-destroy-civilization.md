@@ -7,7 +7,7 @@ originalUrl: "https://www.foxnews.com/video/6325033515112"
 webUrl: "https://www.foxnews.com/video/6325033515112"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk warns AI could cause ‘civilization destruction’ even as he invests in it"
+    excerpt: "More recently, Musk is reportedly working to build a generative AI startup that could rival OpenAI and ChatGPT. The Financial Times reported last week that Musk is building a team of AI researchers and engineers, as well as seeking investors for a new ..."
+    publishedDateTime: 2023-04-17T19:53:00Z
+    webUrl: "https://www.cnn.com/2023/04/17/tech/elon-musk-ai-warning-tucker-carlson/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 41
   - title: "Elon Musk: Artificial Intelligence Could Destroy Civilization, \"They're Training The AI To Lie\""
     excerpt: "Twitter and Tesla CEO Elon Musk sounds a warning about the impact artificial intelligence could have on human society during an interview that will air in full Monday on FNC's \"Tucker Carlson Tonight."
     publishedDateTime: 2023-04-17T15:47:00Z

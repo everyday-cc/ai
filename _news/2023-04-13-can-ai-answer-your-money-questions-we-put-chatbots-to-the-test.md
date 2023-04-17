@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/markets/wealth/can-ai-answer-your-money-qu
 webUrl: "https://www.reuters.com/markets/wealth/can-ai-answer-your-money-questions-we-put-chatbots-test-2023-04-13/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Reuters
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Pen Testers Need to Hack AI, but Also Question Its Existence"
+    excerpt: "Learning how to break the latest AI models is important, but security researchers should also question whether there are enough guardrails to prevent the technology's misuse."
+    publishedDateTime: 2023-04-17T20:01:00Z
+    webUrl: "https://www.darkreading.com/remote-workforce/pentesters-need-to-hack-ai-question-its-existence"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 39
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt2f18aa4d06926f0d/63f4ecc951784e5b9479974a/chatgpt-Atchariya_wattanakul_-alamy.jpg"
+        width: 646
+        height: 430
+        isCached: true
 
 secured: "XlucaIkfXUKBfkidhAIOlDOcLIYvP6NpHmvgp+snbuO6UGriVjItr+Og5NB4iIedVg+kthheEghYGXDqx7Ibg4ZLYE+MIbhWZi6eJvz/yv65aw67Q9dxi6O+8iuk458ww9Rs+tN1oQWwzb2DPUc6IKV2ugbLooFD4YpCu0eyUdaLHf7Qg3GgVn8T/OQ9F0ceIqsgInMUz+yaAxcKEW52cfJC3I1GuT85WQOL7zBQkJIamX/bpb01K22SE9+Q6YES5wmvzkSOu/5C1QutluehIXsf/C2kEOUQU9mhe7cid197J6k6Wi0z+mUwtvOOvf8oSJs7VL96JnrjN3zaFqfmTUAPj1JxUmads+D+0Vlmyn0jVRHFH5d7XOKEAq+LQQDC1wVCFO58W/MXjSj5bojCcMyCSOrLRl1YcJMCZu9WIpC5tLr5ykdDXEJBY46pSbtrb9Z2K9nL/1SWEAlTh12mqVXsjf+em7NyCaY4coh4gsQLMbAgq1UILAF8atkpcu3UOsrMGCPawAYu+PLg+sceGQ==;banaYKFPokDnLJwzyemWrw=="
 ---

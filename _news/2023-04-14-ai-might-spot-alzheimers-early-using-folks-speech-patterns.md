@@ -69,6 +69,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "ML, NLP Identifies Digital Voice Biomarkers for Alzheimer’s"
+    excerpt: "Researchers from UT Southwestern Medical Center used AI to measure subtle changes in speech patterns that may help diagnose cognitive impairment."
+    publishedDateTime: 2023-04-17T17:31:00Z
+    webUrl: "https://healthitanalytics.com/news/ml-nlp-identifies-digital-voice-biomarkers-for-alzheimers"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 36
 
 secured: "D6xa/mDsdkC+CehOzJjwhnC7qLQsIlXeb1JNxlSzlnruHBX8dNXDQRIzFnz3a2kpzZOaeuGoVKlEKQRTOO5B8AyeYCy8Px2NJ/QA9T0l8CPJAO5fZAj+rZnExhdx/iFIAMOLE2dXGqE+RREJtiJhHVhlqAneFznpaLuepr/pF55tE1hCcDpf8WI7mPytDT2CJIyDR7agPLx7JwO9iH5vCQTfDRT2JIXY5RQXwORVqAxV36JuZA1irEP1n0dy8rrT8UoOSfQ1nxXvxlFcpBM2kYrlPVnHbi+BRTpMasEHT5dwv+/RENlm0u+yq02/IND1HJ91+PQW602aS1oP+Yoxj0Yt4+Rwg0l6bPI6qEYEcsI=;PZ1sEv9LJAKteVtd/qEosw=="
 ---

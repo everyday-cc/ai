@@ -71,6 +71,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Adobe teases generative AI video tools"
+    excerpt: "Adobe's generative video effects will come courtesy of Adobe Firefly. Firefly, an image synthesis mode we previously covered in March, will expand to include video and audio generation tools. Premiere Pro is Adobe's flagship video editing application,"
+    publishedDateTime: 2023-04-17T20:57:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/04/adobe-teases-generative-ai-video-tools/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/04/adobe-teases-generative-ai-video-tools/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/04/adobe-teases-generative-ai-video-tools/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/04/adobe_editing_hero-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "As AI agents like Auto-GPT speed up generative AI race, we all need to buckle up | The AI Beat"
     excerpt: "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More If you thought the pace of AI development had sped up since the release of ChatGPT last November, well, buckle up."
     publishedDateTime: 2023-04-17T13:44:00Z
@@ -255,6 +271,15 @@ related:
     provider:
       name: CRN Australia
       domain: crn.com.au
+    quality: 34
+  - title: "AWS Makes Its Own Generative AI Moves with 'Bedrock' Dev Service, New LLMs"
+    excerpt: "Amazon Web Services (AWS), seeking to not be left behind in the cloud giant AI space, is making moves to catch up to Microsoft and Google."
+    publishedDateTime: 2023-04-17T19:58:00Z
+    webUrl: "https://virtualizationreview.com/articles/2023/04/17/aws-ai-moves.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
     quality: 34
   - title: "Amazon joins generative AI fervor with new app-building tool and large language models"
     excerpt: "The company’s new Bedrock service – currently being rolled out in a “limited preview” – will help brands to enhance their own software and content using AI-generated text and images."

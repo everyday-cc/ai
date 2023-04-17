@@ -80,6 +80,15 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 19
+  - title: "New AI tool can decide survival, treatments of colon cancer: Study"
+    excerpt: "The new tool accurately predicts how aggressive a colorectal tumor is, how likely the patient is to survive with and without disease recurrence, and what the optimal therapy might be for them."
+    publishedDateTime: 2023-04-17T17:12:00Z
+    webUrl: "https://www.devdiscourse.com/article/science-environment/2420489-new-ai-tool-can-decide-survival-treatments-of-colon-cancer-study"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 19
 
 secured: "RBnBt5K5IkV83kwjbkys9dNPEI5D2HAWvttVUh5O6YmDO1CGkpljB07xks++t6cTkr47z4/0L98K/eVxJuZ8Y/O1kKDc/sMS/t8XOKh+kuCS1Zr1+D/DIEh1bqJgcacTuTtMfdxUkD/FVpnbI9ddn6OHEBPfpgivlHofjrOs3gi1lQgeM+dKviwLRai6M5viOUNhJjg2fFVi6uDu3EHBxdjiduaT5PVUehDu5B2oGBd0sTc3JmkuHQddnb34XvIGISqBqQ12uHcpoqfZhe0/SHL+8YhvnDM2nH7lkmScnICwnSmnUzzBwkaZWgXcTHbmcaIPHyz68nj2Z5nl18Ji4c/4RvWBfDgXdyPpH9N/RLA=;OgD1RAujMdKPvdoCA37K/g=="
 ---
