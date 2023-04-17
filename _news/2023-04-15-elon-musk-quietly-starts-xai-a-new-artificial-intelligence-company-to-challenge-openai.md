@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artif
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artificial-intelligence-company-to-challenge-openai/amp/"
 type: article
 quality: 95
-heat: 465
+heat: 455
 published: true
 
 provider:
@@ -516,15 +516,6 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 17
-  - title: "Text-to-Image Generator Market Analysis and Industry Research Report 2022-2030 with Top Players are OpenAI, Google, Facebook, DeepAI, Stability.ai"
-    excerpt: "The market research carried out in this large scale Text-to-Image Generator market report succours clients to forecast investment in an emerging market, expansion of market share or success of a new product."
-    publishedDateTime: 2023-04-12T08:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/text-to-image-generator-market-analysis-and-industry-research-report-2022-2030-with-top-players-are-openai-google-facebook-deepai-stabilityai-2023-04-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 11
 
 secured: "cITxIbNIX3X61ngum/yaHlvZXI/Zftwe5savWsyDg9etDqeXPH7XfLddqTV+RGn3x3d39eyfxamMgVqbBuiFIv42sS6N1Go5wDZVhDHn80n9v3NiTP6SBaQzI/AAk1LTTFoR/o+VE0DNrbWArzV9YueVb7MWouhQr52PBrpEYXH9JC0aLyW5OFwzshTGf2Sfr5PNoa6I7EcjSf0OmykSeQDedShwyTucsE2BtbyqFfbNu0457S224uSk8pNhJlSRQ3k5HA4AubqmeOuuvucG/p9xBDZ5iGCx89CLcmZdgLIa+sHc0l/mrBhvhC31oqQ53lxUr9HgpPhUMmw7zHXJ04uK7mg7wx4Sn1ULIG4McRqf+1Pcl1QuKUgDVCGw/ivEuVrveBS+lfjBFz4mAhSbLjB4BEViVKskRnI9Z7lz+whWtN0jJJ/HIEW6hjiyw+aXps6C3d0pskTMvpKgpXRXBMjtTnUyyNYAwVdY9fGdIouqaSzJEHsgqGOrrPYd4r8i2smIcLh12brpRks2nzWLmA==;WO8laZLTxtd7Df4ZpdjsSg=="
 ---

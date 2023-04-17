@@ -8,8 +8,8 @@ webUrl: "https://www.cbsnews.com/news/google-artificial-intelligence-future-60-m
 ampWebUrl: "https://www.cbsnews.com/amp/news/google-artificial-intelligence-future-60-minutes-transcript-2023-04-16/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/google-artificial-intelligence-future-60-minutes-transcript-2023-04-16/"
 type: article
-quality: 70
-heat: 70
+quality: 72
+heat: 72
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/16/4c75adeb-ca12-426e-bd12-3a5adde32f2c/thumbnail/1200x630/559f05684316f5e602fd713fd06081c9/hadsell-1.jpg"
@@ -26,6 +27,6 @@ images:
     height: 630
     isCached: true
 
-secured: "8xVSVk3VKCf1z8sWPQmWvkJPJdgxIOyl8jqIDYX9WzwBk4vgBjFhY9OfslUusGWnJME64FoqpuQZyddZuwhA95/QmpzMSMhHpxfFgD9nn8mdtIY+2eIr1PYra5F9rhzhWaSnS0YOcAQ+MdU2rl4VOC6+JxPLMtAPzvJXxrrWR7zA5+6+nIMl+7AJhCxijS6x+ieqF9t/omwXrp2JDSQ/wKhMjvToUCCZDOGDH3/PpFk7DV/U0Hiy/hbb6JNlWK7ambwmqoNAcmFYFhelrz62+YsxHoqIw0frHNjuFGRsNA0LW2biDQdlk4IPVngfRLQS/dzbZkxlLCodzsroPR/bdRCu6habt6/91tcJHVeOgV8=;mX8ObxkWoSLFzhA+O1IK9g=="
+secured: "NfRgm53nfptqDNSkANv67CnrmrBnoe1At6S8m0Jt2pYcCmnPOKt67dus0OBWaC3vZqn/HlYhfrJi7ef+LXk/Q+LPpJQKhkicO00ODaY6Nok3fs5o3jvnwyKYN88BKy+Ba/AdAXDr7WRuXUP3QVf/cR999SpW3DkW5GaidlmUwjz7DBOgx9ZGSvB8+wGTJpQN3fjkQmxCWEbL+qUx+Hgo/MUJgtxXnM++xfqsOiqlXG3jgILnDNCuI1Cp74FjzrFXIRqRffr1pD+U6eSLOLfVv0XUE2r9YPBxrY00xqGazQeXqfxzwC5me1bJTT3asHw6FaIHpknUjnhnUD3J82dClLb3EIosD12TVlKJz+39D7dlwr8MeISRPmmzKyh9V4lyQPwp1Mz0ud+1eBRMFDD2I+RnWmrXi+pASTrpbUXhB5k+Zk8ZZU6vNGngfChAt6HnB6NJn2RFXcbaS69wIpftAqhHDPqtsRbw+pS8Yi1oWYfeZ69epi2daa8WBQazYSsNlUApg5wbM+bpMGBQ3Hd13Q==;nliErnx/+VGm3RPYRzeLPA=="
 ---
 

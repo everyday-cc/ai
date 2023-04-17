@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The future of healthcare is data-driven"
-    excerpt: "As analytics tools and machine learning capabilities mature, healthcare innovators are speeding up the development of enhanced treatments supported by Azure’s GPU-accelerated AI infrastructure powered by NVIDIA."
-    publishedDateTime: 2023-04-12T09:00:00Z
-    webUrl: "https://azure.microsoft.com/blog/the-future-of-healthcare-is-datadriven/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
   - title: "Why Big Food Is Looking To AI To Shape The Future Of Food"
     excerpt: "This week, French dairy giant Bel Group announced they had entered into a partnership with Climax Foods, an AI-driven food startup founded by former Google head of data science and astrophysicist Oliver Zahn. The collaboration seeks to harness the power of ..."
     publishedDateTime: 2023-04-14T19:46:00Z

@@ -834,6 +834,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-05-aws-launches-new-accelerator-program-for-generative-ai-startups.md",
+      "title": "AWS launches new accelerator program for generative AI startups",
+      "excerpt": "Applications for the AWS Generative AI Accelerator, as the program is called, opened today. Startups have until April 17 to apply. The program is geared toward startups that have a minimal viable product,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/04/04/aws-launches-new-accelerator-program-generative-ai-startups/",
+      "originalUrl": "https://siliconangle.com/2023/04/04/aws-launches-new-accelerator-program-generative-ai-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/46600198075_8477bdd292_k-1.jpg",
+          "width": 2048,
+          "height": 1366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T10:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-04-aws-launches-global-generative-ai-accelerator-for-startups.md",
       "title": "AWS launches global generative AI accelerator for startups",
       "excerpt": "Today, Amazon Web Services (AWS) launched a 10-week program, which it said is designed to assist artificial intelligence (AI) startups to move to the next level. The AWS Generative AI Accelerator, the company says, “is designed to act as catalyst ...",
@@ -1266,40 +1309,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-spectrum-labs-ai-now-available-in-aws-marketplace.md",
-      "title": "Spectrum Labs AI now available in AWS Marketplace",
-      "excerpt": "Spectrum Labs, a leader in Behavioral AI whose tools scale content moderation of online platforms, today announced its enterprise product launch in AWS Marketplace, a digital catalog with thousands of software listings from independent software vendors (ISVs) that make it easy to find,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/03/23/9782692.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/03/23/9782692.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

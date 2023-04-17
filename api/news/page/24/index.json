@@ -2,6 +2,58 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2023-03-22-tesla-is-rolling-out-its-first-full-self-driving-update-after-a-recall-see-the-new-features.md",
+      "title": "Tesla is rolling out its first Full Self-Driving update after a recall — see the new features",
+      "excerpt": "An curved arrow pointing right. A handful of Tesla drivers have taken to social media this week to show off the latest update to Tesla's driver assist software, known as \"Full Self Driving\" (FSD). The update comes with a variety of new features ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tesla-updates-fsd-with-new-features-after-nhtsa-recall-2023-3",
+      "originalUrl": "https://www.businessinsider.com/tesla-updates-fsd-with-new-features-after-nhtsa-recall-2023-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63c1610e33ffb700180f962b?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tesla-updates-fsd-with-new-features-after-nhtsa-recall-2023-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-updates-fsd-with-new-features-after-nhtsa-recall-2023-3?amp",
+      "publishedDateTime": "2023-03-21T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest.md",
       "title": "Bill Gates Thinks AI Will Revolutionize Healthcare For World’s Poorest",
       "excerpt": "Former Microsoft CEO and billionaire philanthropist Bill Gates called artificial intelligence the “most important advance ... Soon-To-Be Grandfather Bill Gates Is Betting On AI, Gene Therapy And Other New Technologies To Solve Global Problems (Forbes)",
@@ -1170,57 +1222,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-a-new-era-in-internet-runway-unveils-ai-that-transforms-text-into-videos.md",
-      "title": "A New Era in Internet: Runway Unveils AI that Transforms Text into Videos",
-      "excerpt": "The startup behind Stable Diffusion unveiled a groundbreaking AI system that can generate videos from text descriptions",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/03/21/runway-gen-2-ai-transforms-text-videos/",
-      "originalUrl": "https://www.gizmochina.com/2023/03/21/runway-gen-2-ai-transforms-text-videos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/03/runway-gen-2-ai-transforms-text-videos.jpeg",
-          "width": 1280,
-          "height": 717,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

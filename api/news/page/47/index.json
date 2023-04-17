@@ -2,6 +2,49 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2023-03-02-motion-control-software-in-robotics-market-survey-report-2023-along-with-statistics-forecasts-till-2030-cagr-of-196-during-the-forecast-period.md",
+      "title": "Motion Control Software In Robotics Market Survey Report 2023 Along With Statistics, Forecasts Till 2030 CAGR Of 19.6% During The Forecast Period",
+      "excerpt": "The Global Motion Control Software in Robotics Market size is estimated to be worth around US$ 10.81 Bn in 2022. It is anticipated to grow at an impressive CAGR of 19.6% between 2022 and 2029 ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105691928/Motion-Control-Software-In-Robotics-Market-Survey-Report-2023-Along-With-Statistics-Forecasts-Till-2030-CAGR-Of-196-During-The-Forecast-Period",
+      "originalUrl": "https://menafn.com/1105691928/Motion-Control-Software-In-Robotics-Market-Survey-Report-2023-Along-With-Statistics-Forecasts-Till-2030-CAGR-Of-196-During-The-Forecast-Period",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?320895",
+          "width": 375,
+          "height": 249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T02:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-02-aws-to-launch-an-infrastructure-region-in-malaysia.md",
       "title": "AWS to Launch an Infrastructure Region in Malaysia",
       "excerpt": "“Leveraging world-class AWS services such as compute, machine learning, and artificial intelligence will help us accelerate the launch of innovative digital services, enabling customers to more ...",
@@ -1141,60 +1184,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development.md",
-      "title": "How generative AI could lower healthcare costs and speed up drug development",
-      "excerpt": "In the future, specifying a drug target may be like sitting down to ChatGPT. After a few clicks, you'll have your novel therapeutic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/",
-      "originalUrl": "https://www.zdnet.com/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/c0b475ddb6f590c029a299c2b88a7e1c3985eb3a/2023/02/28/edd460d3-73b8-4ce6-ace5-c6dac00ee94a/abci-de-novo-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/",
-      "publishedDateTime": "2023-03-01T10:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare",
-        "AI Hardware"
       ]
     }
   ],

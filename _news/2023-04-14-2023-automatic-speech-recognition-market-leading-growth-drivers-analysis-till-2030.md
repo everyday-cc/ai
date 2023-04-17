@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-automatic-speech-re
 webUrl: "https://www.marketwatch.com/press-release/2023-automatic-speech-recognition-market-leading-growth-drivers-analysis-till-2030-2023-04-14"
 type: article
 quality: 62
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Speech and Voice Recognition Market is Booming Worldwide Throughout 2023-2030"
-    excerpt: "The Global Speech and Voice Recognition Market is Forecasted to Reach a Multimillion-Dollar Valuation by 2030, Exhibiting an Unexpected CAGR During the Forecast Period of 2023-2030, as Compared to Data from 2016 to 2022."
-    publishedDateTime: 2023-04-12T07:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-is-booming-worldwide-throughout-2023-2030-2023-04-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech Recognition Market Key Players and Forecast till 2031"
     excerpt: "The latest market research report on the Global \"Speech Recognition Market\" is segmented by Regions, Country, Company"
     publishedDateTime: 2023-04-13T05:20:00Z

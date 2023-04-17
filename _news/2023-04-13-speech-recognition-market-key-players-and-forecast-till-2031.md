@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market is Booming Worldwide Throughout 2023-2030"
-    excerpt: "The Global Speech and Voice Recognition Market is Forecasted to Reach a Multimillion-Dollar Valuation by 2030, Exhibiting an Unexpected CAGR During the Forecast Period of 2023-2030, as Compared to Data from 2016 to 2022."
-    publishedDateTime: 2023-04-12T07:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-is-booming-worldwide-throughout-2023-2030-2023-04-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Market Analysis Future Outlook Forecast 2023 to 2031"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 14, 2023 (Alliance News via COMTEX) -- Facial recognition is a biometric technology which is used for authentication and identification of individuals, by comparing the ..."
     publishedDateTime: 2023-04-14T13:14:00Z

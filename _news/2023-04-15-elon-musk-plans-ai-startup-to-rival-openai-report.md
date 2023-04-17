@@ -511,15 +511,6 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 17
-  - title: "Text-to-Image Generator Market Analysis and Industry Research Report 2022-2030 with Top Players are OpenAI, Google, Facebook, DeepAI, Stability.ai"
-    excerpt: "The market research carried out in this large scale Text-to-Image Generator market report succours clients to forecast investment in an emerging market, expansion of market share or success of a new product."
-    publishedDateTime: 2023-04-12T08:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/text-to-image-generator-market-analysis-and-industry-research-report-2022-2030-with-top-players-are-openai-google-facebook-deepai-stabilityai-2023-04-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 11
 
 secured: "gGjHoWi/RXys14nTJwgMIG87f5qaSzm8/3yB1HIMoeDSPDUT2DTjStGAkiGyNczL1JhByYfPZ4MyJ8ud2LQ6mteCu21Sv7pIaIjnuhOVYw4IZhjp985enOjHDa2Mc4i44iJXYWda6aEri8i5auV7IzS07kW81GLaRm1UVXQkySqVWltjsrYwOGIonTBwS32R6pAO7OaU3KBBu4AccwY4XudibXY9s9TkjJulNp6tbbhnG1EnpDoQxPwWHTcA2IJzvmHSpertRab/d7FlPPlKlIIhW+v6ETl95Ch49JNPJWbZzlMBQpkHkLyB5oU/1WiATdJ2qr7va35w1CEUKdfNwvaVK5vBfqXX2H6yRcQlJmovbiLAPCXaGFVhXYA1+Gpj+SnLhhUFgPi1x4dXSdoE5rBwXiirtIKfg5h5abV2DvntxwZx0nE9iQGKkXtWmGTKXw4FTWzYdQo7DUaqp0RkNuMMBenVpZojLuAIteWqykotax4pKtbSLXTQBgDPhwnT/GK/0Ca3P1vIcJLXaMMaAw==;Rt0pifApmt4vlu0Do/FZbA=="
 ---

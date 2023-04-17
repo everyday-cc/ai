@@ -2,6 +2,40 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2023-03-18-purdue-researchers-want-to-make-ai-feel-more-human.md",
+      "title": "Purdue researchers want to make AI feel more human",
+      "excerpt": "Purdue researchers are working to reduce the “trust gap” between humans and artificial intelligence. Researchers hope to do this by making AI better at interfacing with humans in more nuanced ways. Even as various chatbots become more popular,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbaa.org/science-and-environment/2023-03-17/purdue-researchers-want-to-make-ai-feel-more-human",
+      "originalUrl": "https://www.wbaa.org/science-and-environment/2023-03-17/purdue-researchers-want-to-make-ai-feel-more-human",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBAA",
+        "domain": "wbaa.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-18-microsoft-has-significant-monetization-opportunity-from-ai-driven-productivity-analysts.md",
       "title": "Microsoft Has Significant Monetization Opportunity From AI-driven Productivity: Analysts",
       "excerpt": "Mizuho analyst Gregg Moskowitz maintains Microsoft Corp (NASDAQ:MSFT) with a Buy and raises the price target from $300 to $315. On March 16, MSFT announced Microsoft 365 Copilot, a generative AI tool combining large language models (LLMs) with data resident in Microsoft Graph and Microsoft 365 apps.",
@@ -1208,58 +1242,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-this-week-in-xr-sxsw-winners-350-million-for-adept-ai-tilia-raises-22-million.md",
-      "title": "This Week In XR: SXSW Winners, $350 Million For Adept AI, Tilia Raises $22 Million",
-      "excerpt": "Adept AI Is A Unicorn. The startup ... The funding comes from Seoul, South Korea-based fintech leader Dunamu, which is joining existing investor J.P. Morgan Payments. In 2021, Oberwager acquired Linden Lab, the company behind the “Second Life” metaverse.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2023/03/16/this-week-in-xr-sxsw-winners-350-million-for-adept-ai-tilia-raises-22-million/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/03/16/this-week-in-xr-sxsw-winners-350-million-for-adept-ai-tilia-raises-22-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6413a9fa7177f9e52f460b8d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/03/16/this-week-in-xr-sxsw-winners-350-million-for-adept-ai-tilia-raises-22-million/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/03/16/this-week-in-xr-sxsw-winners-350-million-for-adept-ai-tilia-raises-22-million/amp/",
-      "publishedDateTime": "2023-03-16T17:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

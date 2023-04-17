@@ -2,6 +2,49 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2023-02-09-ub-affiliated-artificial-intelligence-startup-raises-900000-in-seed-round-to-advance-driverless-boat-technology.md",
+      "title": "UB-affiliated artificial intelligence startup raises $900,000 in seed round to advance driverless boat technology",
+      "excerpt": "BUFFALO, N.Y. — Buffalo Automation, an artificial intelligence (AI) startup that is developing ... Many people are familiar with the concept of driverless cars, which travel autonomously from Point A to Point B while detecting and avoiding obstacles ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.buffalo.edu/grad/news.host.html/content/shared/university/news/news-center-releases/2018/04/016.detail.html",
+      "originalUrl": "https://www.buffalo.edu/grad/news.host.html/content/shared/university/news/news-center-releases/2018/04/016.detail.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.buffalo.edu/content/shared/university/news/news-center-releases/2018/04/016/_jcr_content/teaser.img.512.auto.jpg/1555958190888.jpg",
+          "width": 512,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medicine Buffalo",
+        "domain": "buffalo.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-whats-the-difference-between-machine-learning-and-artificial-intelligence-anyway.md",
       "title": "What’s The Difference Between Machine Learning And Artificial Intelligence, Anyway?",
       "excerpt": "Artificial intelligence is the ability of a computer to handle complex tasks such as learning and problem-solving Machine learning is a computer application using artificial intelligence to find ...",
@@ -1085,49 +1128,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-google-translate-gets-ai-powered-contextual-translation.md",
-      "title": "Google Translate gets AI-powered contextual translation",
-      "excerpt": "Google is bringing more contextual translation options to the app. That’s where AI will play a big role, offering users descriptions and examples in the translated language: So whether you’re ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/tech/google-translate-gets-ai-powered-contextual-translation/",
-      "originalUrl": "https://bgr.com/tech/google-translate-gets-ai-powered-contextual-translation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2022/11/rsz_gettyimages-1173782216.jpg?quality=82&strip=all",
-          "width": 3120,
-          "height": 2080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T08:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

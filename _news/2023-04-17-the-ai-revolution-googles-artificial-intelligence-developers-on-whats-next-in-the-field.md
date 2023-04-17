@@ -8,8 +8,8 @@ webUrl: "https://www.cbsnews.com/news/ai-advancements-google-artificial-intellig
 ampWebUrl: "https://www.cbsnews.com/amp/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/"
 type: article
-quality: 62
-heat: 82
+quality: 64
+heat: 84
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/14/c12480c9-3363-478b-86bf-a856a2fa8598/thumbnail/1200x630/7b4e4968150471b425ee46c93ff66fd1/google-robot-1.jpg"
@@ -45,6 +46,6 @@ related:
       domain: technewsworld.com
     quality: 19
 
-secured: "8Is1gT4rF/xKyVL0AVlk+tdRvsGpYvPbzJr0ukz7ShsAb8NrzagUkv2cQCtHNnEivEwapyUIIpat40KADARjJqivSUVBTpmRgRiKna/MxyMq0SEfpAZ6tcFhaSP3kdASIK9zrZWuVMHXxuxDi/6SeCMMayTFI2V9TMEPj8VCIWT/fCnh5eoSq8LIXFtF42oQTdJXk/c7M3GTIXwaDJGW+93K2V9+9aZbDpBQHugrWBN1PJtagdA3lzF3T63c4brtbQzp4MHpmqFvFFeGXAqdehrDE3KOoxigTW/LxfHJ4NwwfsvtvVBjnDIeLbRbCpMEwHfwUGCofwQb3LgDAPIxw5MlrpRKZnDElRj8dfBE5Kg=;enRfw2/H3iu6RkP43sAVEA=="
+secured: "emUfJhJzRYTiB2DjDZKEoRkAlUFfETYddPZVQcFEdp5MJ3It61+56ZwE16+M4tSspoVsJGHy3SNVP654djKVpacNtW3uwcAPk7qP3ENxPd8hqeZp7ZrPyOMw0v5GaepbD/adyrZh7+gZ1lxn2OUPjXeLMz9/pA1WlCMbWAA9OmMc5mwINUW+cpR4aAvs4iQp2bmPnjhRY0GO7g8dhn0Lh/e6tenAfryAxvJQkH1e/emXfK+U5N3NRxjE18/3ITCBtfpamgM8f6gNiHgMxCGtvV27W+3ZJ+t9ZeD1VCsWlYRz7eHOrmyDzYV4ut4dYJRhVCAx1o1b8SyoEou3PSmPHSM4200c8paWWuPezYg5eQYwk2Oeq2yvSK08G8DkTZyshIBnwBy2Ipu7KcT14VIaEtFs46p4Puotb0Y1qB7Qxgx8SFVMnn2T8330xCZw2aedxbVGHE+iRx4HqrVg3ulCgXWP3cZo5Ybe+dHqwq2OdY2zqo8sRUxv/RDrqdTK/tUcGa1Qru3Pf1PfMX0/GexIFw==;7j1EtGUhHCOxao9QZyyEAA=="
 ---
 

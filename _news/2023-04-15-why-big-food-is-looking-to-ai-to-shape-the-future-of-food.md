@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The future of healthcare is data-driven"
-    excerpt: "As analytics tools and machine learning capabilities mature, healthcare innovators are speeding up the development of enhanced treatments supported by Azure’s GPU-accelerated AI infrastructure powered by NVIDIA."
-    publishedDateTime: 2023-04-12T09:00:00Z
-    webUrl: "https://azure.microsoft.com/blog/the-future-of-healthcare-is-datadriven/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
   - title: "How to Invest in Artificial Intelligence"
     excerpt: "Artificial intelligence has become one of the most talked about technologies over the past few years. Many see AI with large dollar signs in their eyes. However, every new technology has a lag between invention and commodification and just as every new technology has the risk that it won't pan out."
     publishedDateTime: 2023-04-14T13:10:00Z
