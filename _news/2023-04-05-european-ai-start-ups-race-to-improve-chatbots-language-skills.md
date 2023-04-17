@@ -3,8 +3,8 @@ category: news
 title: "European AI start-ups race to improve chatbots’ language skills"
 excerpt: "Companies aim to improve response quality after criticism of reliance on small group of mostly US participants"
 publishedDateTime: 2023-04-05T05:50:00Z
-originalUrl: "https://www.ft.com/content/563256d4-67b2-465e-b219-52d0f91684ef?shareType=nongift"
-webUrl: "https://www.ft.com/content/563256d4-67b2-465e-b219-52d0f91684ef?shareType=nongift"
+originalUrl: "https://www.ft.com/content/563256d4-67b2-465e-b219-52d0f91684ef"
+webUrl: "https://www.ft.com/content/563256d4-67b2-465e-b219-52d0f91684ef"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "x0iOKm+fMOh3u5NhlY9u7Je7qbR1HYNgTjqezxwEWCF7wpz4NICi2gOaCSXEZyvIa7T4eGUCFMBNPQsL5nDpxEiQvPeRYJLLuX+6b+YnP0UEQE1uMgIu7PiGUTha/XHZzO2sXk6zJxy2061jxE08nyPgfpQD5SvgTsLSG5c4H+hf5lgJpOpNZtIGPjqLpSE8NXPqM0YJf43in9ZHT8hMPrzHYGXPg87cT1q4rCO4Up3SopkMqoJ0BNrGUX7oJZXg7n9DRThO0bYw0vC/rUx2jqj19fIQe5DaZreC1GR2fa9ZYns4GcT7T96oOJyLrY8qZho/Y99iyh2hDnNSbhsM0dTMXC8LQxnTgcHg3A7cbW0IMzOOIhorEjk/3ssDEjIt4czfTEVbPKTKL6NKM92IlWVEBXpvYAmfIt6w7em0ONuDh5sWo32i6rodl2pA57u2kXUnz5lcTh000TyGyy38Bo3Z5cTsbm7Jk9S21QS4EpYqaotiawQQ2lUVm7wezDGoVvFyYPlBAWrRe9rWuWEHsg==;/cQ0ibISE4RBpZ/Qk+aApg=="
+secured: "U7lsv/84Y2OQLwCxg3VTBKKRpY+IO0VPZO940LzQpE+HrxSOFbEXvksbazkHMA4gLtgDt6hBHd/ZyKS0n2mQIInd2U/ntPrQp0d7vdNPOhHW6MqNhax9PGHIZ59eG/au4zSQamM47VJyKtBakphTduWjyAZz8gHPXq6b3BDLWSj7R5RGgoGL+sXOsUrhgoZCIWv/1m70NwoaP2ei93EUocwg/xedpOfXOG23CcI8UgbRdkhncdZ4XaEKPkB3CqcjJFvjwM6Txm84hzVdTwQjEkIWqJQTyoQz9OcgnYg4e8epYPTeUT2O/i/C13Mq2qRpi3vsx45m7e3VLf2TnUZWwDqCojboZaULzDIhMHvX5zdQi7j4WEqJjVhfa5tD/ZLWALLkZMSpVeDWPJxx0UrfFhsF2wucR9+1MVS4S/Icknn93YoUG0TvfM2Fodm4T1aLTx0RrPlZjLA8Koexw2K0c7Cymt+Vkddki0R7Iya67miwZMHDdcvKdh00YS36AnuyawTq+UUoy0AoPMv5YBTWXg==;NmIAvKQsF7xiCs4NqCwxxA=="
 ---
 

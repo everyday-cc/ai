@@ -51,13 +51,13 @@ related:
         height: 408
         isCached: true
   - title: "Microsoft Stock Is Easily Your Best AI Bet for 2023"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips If your portfolio doesn’t have some exposure to artificial intelligence"
+    excerpt: "That’s okay, though, as it’s not too late to take a position in Microsoft (NASDAQ:MSFT) stock. No doubt about it — Microsoft will continue to push the boundaries in the generative AI field this year,"
     publishedDateTime: 2023-04-14T16:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-is-easily-your-best-ai-bet-for-2023-1032233387"
+    webUrl: "https://www.nasdaq.com/articles/microsoft-stock-is-easily-your-best-ai-bet-for-2023"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 64
   - title: "Siemens, Microsoft Use Generative AI to Drive Industrial Productivity"
     excerpt: "Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency across the design, engineering, manufacturing and operational lifecycle of products."

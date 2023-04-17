@@ -235,6 +235,20 @@ related:
         width: 1480
         height: 832
         isCached: true
+  - title: "Generative AI startup Kubiya debuts ChatGPT for DevOps"
+    excerpt: "The Kubiya tool is designed to make life easier for DevOps engineers, the people responsible for leading and coordinating the activities of different teams to create and maintain a company’s software."
+    publishedDateTime: 2023-04-17T11:00:00Z
+    webUrl: "https://siliconangle.com/2023/04/17/generative-ai-startup-kubiya-debuts-chatgpt-devops/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/Knowledge.gif"
+        width: 600
+        height: 331
+        isCached: true
   - title: "ZTE to launch GPU servers in response to ChatGPT-triggered AI needs"
     excerpt: "China-based IT and communication solutions provider ZTE will introduce GPU servers supporting high performance computing (HPC) to meet the ChatGPT-triggered needs of large AI models, according to company president Xu Ziyang."
     publishedDateTime: 2023-04-13T11:14:00Z
@@ -275,6 +289,15 @@ related:
     provider:
       name: Fast Company
       domain: fastcompany.com
+    quality: 19
+  - title: "Machine Translation Researchers Search for Better ChatGPT Prompts"
+    excerpt: "Machine translation researchers look at how to manipulate ChatGPT translation quality with different prompt strategies."
+    publishedDateTime: 2023-04-17T09:30:00Z
+    webUrl: "https://slator.com/machine-translation-researchers-search-for-better-chatgpt-prompts/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
     quality: 19
   - title: "Is ChatGPT Worthy of All the Hype?"
     excerpt: "OpenAi’s ChatGPT, the new kid on the AI block, has attracted much attention since its introduction in November. Using the large language model, the technology produces intelligent and informed text in response to prompts,"

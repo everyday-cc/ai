@@ -224,6 +224,20 @@ related:
         width: 1480
         height: 832
         isCached: true
+  - title: "Generative AI startup Kubiya debuts ChatGPT for DevOps"
+    excerpt: "The Kubiya tool is designed to make life easier for DevOps engineers, the people responsible for leading and coordinating the activities of different teams to create and maintain a company’s software."
+    publishedDateTime: 2023-04-17T11:00:00Z
+    webUrl: "https://siliconangle.com/2023/04/17/generative-ai-startup-kubiya-debuts-chatgpt-devops/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/Knowledge.gif"
+        width: 600
+        height: 331
+        isCached: true
   - title: "ZTE to launch GPU servers in response to ChatGPT-triggered AI needs"
     excerpt: "China-based IT and communication solutions provider ZTE will introduce GPU servers supporting high performance computing (HPC) to meet the ChatGPT-triggered needs of large AI models, according to company president Xu Ziyang."
     publishedDateTime: 2023-04-13T11:14:00Z
@@ -279,6 +293,15 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 19
+  - title: "Machine Translation Researchers Search for Better ChatGPT Prompts"
+    excerpt: "Machine translation researchers look at how to manipulate ChatGPT translation quality with different prompt strategies."
+    publishedDateTime: 2023-04-17T09:30:00Z
+    webUrl: "https://slator.com/machine-translation-researchers-search-for-better-chatgpt-prompts/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 19
   - title: "Is ChatGPT Worthy of All the Hype?"
     excerpt: "OpenAi’s ChatGPT, the new kid on the AI block, has attracted much attention since its introduction in November. Using the large language model, the technology produces intelligent and informed text in response to prompts,"
     publishedDateTime: 2023-04-14T09:19:00Z
@@ -289,6 +312,6 @@ related:
       domain: internationalbanker.com
     quality: 4
 
-secured: "b3/IygEl6CwVukBfCPLK6xrEvIfz1JFI8PmFCQJ9eUfvmsVCNrLoidNGBv01K+ee4vSyTg/mn9muok7vzd1JgV87hrtYUy/dddHT/3xF3Zt6YbduMqZ2AYjNQmT37B3YDbmPw12G9m3rzVrmvEgbAjlhIkaDz13BctxvkAUAcxPiz+ibRSqIZoE24yS7iCeS7Q+CIbpSc2rsh0tnWOrLMUJEbhlaHh2zLBjUjruxeVCsJ5wAGyL0cttPftfLso6dCB1/Veq+r4Qogb5hsIZ1wmBRZRSI/k4T3LLSIi3IgiMUJ6/wgfSwW8xFHZ3eoUr9wirJdyh8R0km1ognouwWUNspraYrtcsmBTknl4gxSRQ=;6RS91e1UGohVoWbwzxhOJw=="
+secured: "k6dWQOer3htjjJ8a0HXmsIqOBGLZvujc+AhsX9lXjmPolusYQGpp/RnscdP+gRLmcVsn0+ChfYlkU6eTgOAI/FIs/87PZQ5PgBMmXcOPxID8mQK4vrxfRcmQshaY8tQWKRTBONbr+dcZxiMngyiTwFbXZTntw1nTx/awkVzJyYkGgz1RDmqmFn0NDnSghmhJQ8DkIN9BE79C8xNG4jIdHHXPWe93MBozDrdP2Gzu92B/kHAtbjKsU379TBS4oeKX5Cfj/1VmiSN9zqHNA4cCOU7QnLd0PBS/yS6uyDxJOUdSmefQyi6/MCyuKSsOu0L5pFA9WRi8hqgLyTOClFEitUAfOkiudm7VncLHWuZmuoUTqwrQjAETDEDtWQZWvU4X3vr5PDdTrMC4iMM99PZpTyBdcSET86FTJz/8YL299Cfbar41QgJgUJQJiCrZ3YIaY06DKDVF4JIoIx25FReTicasmvp3liM27Nf5Ytjft0dmK8FM4+wQzu1b0zU8udqhLAGd1/8/Oj7O06DIHpSTJg==;PHvEpyAXbO9Oyo0DOI60NA=="
 ---
 

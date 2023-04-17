@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 740
         isCached: true
+  - title: "OpenAI’s CEO Says the Age of Giant AI Models Is Already Over"
+    excerpt: "Sam Altman says the research strategy that birthed ChatGPT is played out and future strides in artificial intelligence will require new ideas."
+    publishedDateTime: 2023-04-17T11:00:00Z
+    webUrl: "https://www.wired.com/story/openai-ceo-sam-altman-the-age-of-giant-ai-models-is-already-over/"
+    ampWebUrl: "https://www.wired.com/story/openai-ceo-sam-altman-the-age-of-giant-ai-models-is-already-over/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/openai-ceo-sam-altman-the-age-of-giant-ai-models-is-already-over/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/6439807d0e51e528ead991f5/master/pass/Sam-Altman-OpenAI-MIT-Business-1246870629.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Elon Musk Forms New AI Company In Nevada Called X.AI"
     excerpt: "Elon Musk has formed a new AI company in Nevada called X. AI, according to a new report from the Wall Street Journal."
     publishedDateTime: 2023-04-14T22:19:00Z

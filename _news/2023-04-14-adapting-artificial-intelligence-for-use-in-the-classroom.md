@@ -7,7 +7,7 @@ originalUrl: "https://www.kwwl.com/news/top-stories/adapting-artificial-intellig
 webUrl: "https://www.kwwl.com/news/top-stories/adapting-artificial-intelligence-for-use-in-the-classroom/article_d0b4f36e-da3f-11ed-85af-a739b3cab86c.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "The secret gamblers using AI to hack horse racing"
-    excerpt: "This week, we go to a racetrack in Miami, Florida to drink some beers, place some bets, and discover how AI is changing the sport of horse racing. FT data journalist Oliver Roeder joins Lilah to talk about how the ancient sport is being upended by anonymous computer-assisted bets."
-    publishedDateTime: 2023-04-14T04:00:00Z
-    webUrl: "https://www.ft.com/content/386f54d3-f8ae-47cb-9d50-8ece2ed2c43a"
+  - title: "Harnessing The Power Of AI In The Insurance Sector"
+    excerpt: "AI can help insurers evaluate risk more accurately by analyzing large amounts of data such as historical claims data, credit scores and social media activity—thereby enabling in"
+    publishedDateTime: 2023-04-17T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/harnessing-the-power-of-ai-in-the-insurance-sector/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/harnessing-the-power-of-ai-in-the-insurance-sector/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/17/harnessing-the-power-of-ai-in-the-insurance-sector/amp/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fnext-video-editor-images.s3.ap-northeast-1.amazonaws.com%2Fa6743f62-062f-41bf-a62a-e33ee2c5b187?source=next-opengraph&fit=scale-down&width=900"
-        width: 900
-        height: 900
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63c15e4efdaea7ad1989b8c5/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "The transformative power of AI in healthcare"
+    excerpt: "Kirsty Biddiscombe, UK Head for AI, ML & Analytics at NetApp, discusses the transformative power of AI in healthcare"
+    publishedDateTime: 2023-04-14T08:37:00Z
+    webUrl: "https://www.openaccessgovernment.org/ai-in-healthcare-automation-patient-therapy/157500/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 54
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/04/Kirsty_Biddiscombe_HeadShoulder.png"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "The Power of AI in Travel: A Look at How Artificial Intelligence is Shaping the Future of Tourism"
+    excerpt: "Generative AI offers travelers a more personalized experience that puts them in direct contact with the right services and products and helps to make the entire journey more seamless."
+    publishedDateTime: 2023-04-13T19:38:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/the-power-of-ai-in-travel-a-look-at-how-artificial/449679"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 51
 
 secured: "nOiwskQvJ/AZRj3j5nCBLz01KpqGOshNa3VUWcVmvzAct/HlZqJxm0eYz+Yu1jA7DO2zgX40Z/Bpn9wrt1v0tW2QPmNKUVDeph1apPpu1r/vptbNPJ7X3Zu9qqIx10+HLXCwk7YTRJwZ0CuqQBYiuDgnZJw20DDvEe8MDJ7WpBqhCNdfK5uvQWzKhN1TzSYEUfJviKUgovwAc5hXMkczdNcLMbERllHTYcjyv+xNlv78A3SBBoFdDp3fsNxWusTj6p4ILqqJbx7/bpKv8xgvrp5BxExLHuN/bPZpLQJQdspnNE+na05v4fdNElQS7KEPn9fed2NW5NOplWADi4nX96PeYpnkSOoWvXMGMsC0wdM=;5r+mDeol6J00eG4sSjK3pw=="
 ---

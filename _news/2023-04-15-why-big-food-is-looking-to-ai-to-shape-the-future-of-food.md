@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Humans have to get in the way of AI to make it more responsible"
+    excerpt: "In this edition, why human AI ethicists can slow down irresponsible AI, Amazon CEO's lower pay and why Facebook wants more influencers."
+    publishedDateTime: 2023-04-17T10:29:00Z
+    webUrl: "https://www.businessinsider.com/humans-make-ai-more-responsible-amazon-meta-salesforce-2023-4"
+    ampWebUrl: "https://www.businessinsider.com/humans-make-ai-more-responsible-amazon-meta-salesforce-2023-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/humans-make-ai-more-responsible-amazon-meta-salesforce-2023-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/6439bb117cdf0f00185cb3be?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "How to Invest in Artificial Intelligence"
     excerpt: "Artificial intelligence has become one of the most talked about technologies over the past few years. Many see AI with large dollar signs in their eyes. However, every new technology has a lag between invention and commodification and just as every new technology has the risk that it won't pan out."
     publishedDateTime: 2023-04-14T13:10:00Z

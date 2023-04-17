@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Microsoft Stock Is Easily Your Best AI Bet for 2023"
-excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips If your portfolio doesn’t have some exposure to artificial intelligence"
+excerpt: "That’s okay, though, as it’s not too late to take a position in Microsoft (NASDAQ:MSFT) stock. No doubt about it — Microsoft will continue to push the boundaries in the generative AI field this year,"
 publishedDateTime: 2023-04-14T16:21:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-is-easily-your-best-ai-bet-for-2023-1032233387"
-webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-is-easily-your-best-ai-bet-for-2023-1032233387"
+originalUrl: "https://www.nasdaq.com/articles/microsoft-stock-is-easily-your-best-ai-bet-for-2023"
+webUrl: "https://www.nasdaq.com/articles/microsoft-stock-is-easily-your-best-ai-bet-for-2023"
 type: article
 quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Microsoft AI
@@ -70,6 +66,6 @@ related:
       domain: thefastmode.com
     quality: 34
 
-secured: "ebp+xbf4lXPDO86BY6fuNO0Ly8pwmq31Y1GzmqqJDjC5+t9feDb8/V2eLaMrxAlkgX7oP6/5i/pwVZEqR8noCla90+h9txhDxz6ToYO/0QT+S8PEjO9q9WU0Ch6EbqFHYHKENDj7eXVJt47+PCeEQfuJ35IM+mDO6Hn7a/VYkMv3HbO0jdHKza50mXerOI11B5fP0B1IVT/voBygeBcUESqBD4SyjXktKnGILOeOX+LmUXeQkfTjAcR1ow68dMK9toR114dFuTLVLZ/IIHgWkC3wChRob0R9YjOteGohfKK+iLWoEuLc4UVPbfzep497LaFmrsloPVSiT4v8LRjyi4uPfLE61UG4PAA0LePblPA=;NdheQr1dbzi1enxyk8eelw=="
+secured: "cMP8mVkci7dYKLFdRr9OqeW7hgXcrkoAEK+0y/M+97qTdpOL2WDR8M9wc8K0VPGmRTAV/BFvDUHjSf13oly9OlZcqdxuMN4+JUDlnZGiZxjjL9/spKCHuoII86Nq8QK1F2ja7vIOgADYuWNBAmiS73unPwC71JvWjzjpQsZjzFQLlPvLqACwfHYsYRSPekaSV1nu0jQeaXVoFkhkJImuwx0fwDZpppfkw7d+qqlxacL3bixH11ucIH/pgP7g0y7wc3hdZtEXUKEcSFf/dh0hdg7dLw32nu7Df8x6EWyATGt6wfoYU6lPODYtv2e7EfmCjS4phLPB9KvxJSnzHM/Vn+Ge/7zDk4+E8mbyRzPkn2c=;xKL+1tyMZdmvvVJ/A5AysQ=="
 ---
 

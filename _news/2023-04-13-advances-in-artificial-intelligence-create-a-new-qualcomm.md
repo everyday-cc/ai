@@ -25,6 +25,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Qualcomm launches a bunch of IoT chips"
+    excerpt: "Building on the launch of its Aware platform, US mobile chip giant Qualcomm has fleshed out its IoT proposition with no less than four new SoCs."
+    publishedDateTime: 2023-04-17T11:40:00Z
+    webUrl: "https://telecoms.com/521225/qualcomm-launches-a-bunch-of-iot-chips/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 19
+
 secured: "HOcmG6Md00IyK0FQGbyHTikjJyUkRwYACVlXU9WfKJSNep/+7pUg6NL22E17h8GABY6X5kKHn9Bb7FcXZ90QLsRbFyXy30gu1HgzBwH46HLV+jN1sPRvFjE/0F8mueFp/gV3FYrb6qNuf+qRzhP9dS6yUaPhPk8qse3FphC30AJd5U0C3ipTcqSjgmwYtZkHx3EC8+G5zg1Tq9VNo2hn8VtdFSBZbx+WwFtaPQgki0rdxYqq2fsYDjIW6FngNNP49HpRvsK0w77axKpvkR0ss/HV18MMJLDZ7lA+IIbdZ5W55+TCxhNeRjg8+4KfgZUmFiKWgOSOHfrqzzV2SXNCr85Z/ITkXShy3Sd/NLqVe8+0XJl6DaRihUifV/NKLhDLbEj4QOZxkuOT1Hdxe+A4XJVru3XsSYNVojPey1iWEjbSDJ6OY7mBPGTgS4tL4t9zYf9roFLroPI8MunEePLyfd8+2/spD3kTxCnNwVHNkToR11G9LT5zVjWqO4NxvyXhyHDHmuvbV1dWhxeY3rxrpw==;e6iXkN+KJhCaWDr3+Jjkvw=="
 ---
 

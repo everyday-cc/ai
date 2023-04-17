@@ -18,6 +18,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.wsj.net/im-756352/social"
@@ -25,6 +26,6 @@ images:
     height: 640
     isCached: true
 
-secured: "ZUC2A5wHJRSWGR8eOy91J0JRIvepc9PafqkKbw/AmS+Fk8wYeRBEtJJJlJ4U2bRIpJr4sprYvt3xCUySka302y9sxbycErS8Zn2W4xKS5Vp80mHdsiAKtdry6EsGiTOFt2jzp3/kLpwvvuLAsDmcYx4fNxD9j3o8IdzuxyNTV8dnBrHqgUtcwnREqDIczgYOg8d0MBq+1+xipmLomocid7XTCx7hDbugXk40rxEwwnpzsAFc5i59emcoB3pYp0Xxey8aJo3MkcnSmtCurQ1Qs4QygDkeQxLHuB+1fGtw3IHg7OGMWGQrEaOawiFaT5TWzqHu8cf2xKTK08igQOUbOusM1IahlwCjH86Vi9I+v1o=;ezgbAvkN2Grz4kSZkaDTYA=="
+secured: "8X2SkJBtzZQKRWzVSI8QhMDd5o6ktimd9IaQ4kg4Aybd/WZphKcObtbhQ8WvFbCTWHGGui2EYYIl7hW+c7yUhgtfiXuApARdym+shvp+PazBDEIBqewbZNiq+nCdk5kMejJplE3VDimqc1/nreoPFXCTVHmlEhENItuMlM8ZyiobDqApI/XGuNmazctwk8Kc04pDvfH+OvQdQw4PCY0tnMTflg6D9lV5HfTW5+dneNz9u1MFq7kwtIp1M5x7px6luDB+YebtvUV9awu3YlZfIcEiwFCRueZr+gGyeruURaifUYrNai//q760vZ8RCI+R4CRBrIoZ1fCMIX5OnbzpA204+wRyqTIixUBbSo4eizfts+KddbOL1JRa+NAMRtODdW6ybmHrMu+I1FcZh6jruPau0ZkY70jtk2f5ts3RN9aPOnAja+5cmqtv1U+zLkd9dpr8VJo0i97ed3bpI2cxEm+PozAcTWpMuSKaz9d31qEuj0zvBo4NgIS5u0GF1ynyVjtNWzjOHozXbQjYN3aWAw==;nygcOPSsuxEz8NDSMmzZmQ=="
 ---
 

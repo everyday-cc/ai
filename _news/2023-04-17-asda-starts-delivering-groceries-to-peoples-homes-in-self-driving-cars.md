@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Asda introduces self driving delivery vans in AI first"
+    excerpt: "Asda is launching the scheme in partnership with Wayve, a developer of artificial intelligence for self driving cars ... This trend appears here to stay, and bringing driverless vehicles into the fold could be the next step forward,” Myron Jobson ..."
+    publishedDateTime: 2023-04-17T11:55:00Z
+    webUrl: "https://www.cityam.com/asda-introduces-self-driving-vans-in-ai-first-for-the-supermarket-1/"
+    ampWebUrl: "https://www.cityam.com/asda-introduces-self-driving-vans-in-ai-first-for-the-supermarket-1/?amp=1"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/asda-introduces-self-driving-vans-in-ai-first-for-the-supermarket-1/?amp=1"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 74
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2023/04/Asda-Wayve_003.jpeg"
+        width: 1536
+        height: 1183
+        isCached: true
   - title: "Asda and Wayve launch UK’s largest self-driving grocery home delivery trial"
     excerpt: "The Wayve self-driving vehicles will join Asda’s existing online delivery operation and have the capability to drive themselves to customers’ homes."
     publishedDateTime: 2023-04-17T08:16:00Z

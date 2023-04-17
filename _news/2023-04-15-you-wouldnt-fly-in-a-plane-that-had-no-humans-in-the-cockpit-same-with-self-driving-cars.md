@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thesun.co.uk/news/22047181/jeremy-clarkson-fly-pilotless
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/22047181/jeremy-clarkson-fly-pilotless-plane-self-driving-car/amp/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -27,54 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "What’s Slowing Down Self-Driving Car Technology?"
-    excerpt: "Car and tech companies have promised for years that fully self-driving cars were just around the corner. But experts say the technology is far from where it nee"
-    publishedDateTime: 2023-04-14T14:32:00Z
-    webUrl: "https://www.wsj.com/video/series/tech-news-briefing/whats-slowing-down-self-driving-car-technology/27D24413-3882-4A81-9AE0-16F3A2896A97"
+  - title: "No hands at 70mph: I tried the UK’s first self-driving car"
+    excerpt: "In fact the car I’m in is actively encouraging me to sit back, relax and let it do the work. I’m driving Ford’s new Mustang Mach-E, which will do the steering for you and has all the bells and whistles you’d hope for from a car with a price tag ..."
+    publishedDateTime: 2023-04-15T12:39:00Z
+    webUrl: "https://www.thetimes.co.uk/article/037423e8-dad5-11ed-89ad-19e3cfc05db4?shareToken=a9b78f7ffcbd43ac4b5b19cb639f8333"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 54
-    images:
-      - url: "http://images.wsj.net/im-763796?width=1280&height=720"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Self Driving Helps Uber To Make More Money"
-    excerpt: "Self-driving cars have been a topic of discussion for years, and now we are finally seeing them become a reality. With the advancements in technology, companies like Tesla, Google,"
-    publishedDateTime: 2023-04-13T10:44:00Z
-    webUrl: "https://alphabeta.argaam.com/article/detail/109575/Self-Driving-Helps-Uber-To-Make-More-Money"
-    type: article
-    provider:
-      name: اخبار 24
-      domain: argaam.com
-    quality: 39
-    images:
-      - url: "https://s3-eu-west-1.amazonaws.com/content.argaamnews.com/71a4e5a2-6bd4-493c-8a78-069543cbe0d8.jpg"
-        width: 279
-        height: 278
-        isCached: true
-  - title: "KIYC: Is technology ready for self-driving cars? Some drivers have doubts"
-    excerpt: "Americans are killed in car accidents and the car industry says self-driving vehicles will eventually make the roads safer."
-    publishedDateTime: 2023-04-13T14:00:00Z
-    webUrl: "https://brooklyn.news12.com/america-self-driving-cars-technology-drivers-have-doubts"
-    ampWebUrl: "https://brooklyn.news12.com/amp/america-self-driving-cars-technology-drivers-have-doubts"
-    cdnAmpWebUrl: "https://brooklyn-news12-com.cdn.ampproject.org/c/s/brooklyn.news12.com/amp/america-self-driving-cars-technology-drivers-have-doubts"
-    type: article
-    provider:
-      name: News 12 Networks
-      domain: news12.com
-    quality: 23
-  - title: "Dubai tests self-driving taxis"
-    excerpt: "Dubai’s Roads and Transport Authority (RTA) and Cruise have begun testing and data collection for self-driving cars in the city. The RTA announced it is collecting data and testing technology for Dubai’s traffic signals, signage, and drivers ..."
-    publishedDateTime: 2023-04-15T08:46:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/transport/dubai-tests-self-driving-taxis"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 19
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 4
 
 secured: "TdAThYx+r5n+49qPVWKs44i4GdLWyrYkUZiOExwgChjGogzLmKX5RaJla6antgGveuy/BSaLYc/kiLomrHmlKwktaA0C0M6nMG7SSBl8mlQyjrqg01ThM76elWlhNxWH9bml1lzWB14gZFD0WrJ+nxqIQe7wu1kb25DhpTdQGZteJXgGQy16t/t9NZ3cOFcHtmOn5idaq2tXu2EZdeVnjC5qIrXVe5a4Fzl18xEOdEqsXTxl2rWuEKDLmwW51Frf3Nc5SanfkdDyoWfeOb5fSaBI8Y+Do0asuFfJ9dQnKulytt0sy3wB/M/bcvC+0SZFT2/RtdCjDAX8RQx6w3Gv+R26gEEoaZ+WgqF8/hcdZ0c=;3wnSBYbLqCjoARY+QjEYBg=="
 ---

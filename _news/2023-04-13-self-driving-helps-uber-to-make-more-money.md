@@ -25,47 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "What’s Slowing Down Self-Driving Car Technology?"
-    excerpt: "Car and tech companies have promised for years that fully self-driving cars were just around the corner. But experts say the technology is far from where it nee"
-    publishedDateTime: 2023-04-14T14:32:00Z
-    webUrl: "https://www.wsj.com/video/series/tech-news-briefing/whats-slowing-down-self-driving-car-technology/27D24413-3882-4A81-9AE0-16F3A2896A97"
+  - title: "Restaffing The Self-Driving Space: Moving Past Traditional Recruitment"
+    excerpt: "Self-driving cars were science fiction a few years ago, but most technologically advanced nations now have autonomous automobiles—making this once-impossible fantasy a reality. Self-driving cars have conquered the automotive sector with significant ..."
+    publishedDateTime: 2023-04-17T11:48:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/restaffing-the-self-driving-space-moving-past-traditional-recruitment/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/restaffing-the-self-driving-space-moving-past-traditional-recruitment/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/17/restaffing-the-self-driving-space-moving-past-traditional-recruitment/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "http://images.wsj.net/im-763796?width=1280&height=720"
-        width: 1280
-        height: 720
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6109756bd03b841ec749f142/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 698
         isCached: true
-  - title: "You wouldn’t fly in a plane that had no humans in the cockpit -same with self-driving cars"
-    excerpt: "BRITAIN has become the first country in Europe to legalise hands-free, self-driving cars. The technology has been fitted as ­standard to Ford’s new Mustang Mach E for some time, but at midnight on Wednesday it became “live”. So now you just pay £17 ..."
-    publishedDateTime: 2023-04-14T21:37:00Z
-    webUrl: "https://www.thesun.co.uk/news/22047181/jeremy-clarkson-fly-pilotless-plane-self-driving-car/"
-    ampWebUrl: "https://www.thesun.co.uk/news/22047181/jeremy-clarkson-fly-pilotless-plane-self-driving-car/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/22047181/jeremy-clarkson-fly-pilotless-plane-self-driving-car/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 34
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/04/Behind_The_Wheel_Hyundai_Ioniq_5_vs_Ford_Mustang_Mach-E_10696-a20a6jpg-JS808013532.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "KIYC: Is technology ready for self-driving cars? Some drivers have doubts"
-    excerpt: "Americans are killed in car accidents and the car industry says self-driving vehicles will eventually make the roads safer."
-    publishedDateTime: 2023-04-13T14:00:00Z
-    webUrl: "https://brooklyn.news12.com/america-self-driving-cars-technology-drivers-have-doubts"
-    ampWebUrl: "https://brooklyn.news12.com/amp/america-self-driving-cars-technology-drivers-have-doubts"
-    cdnAmpWebUrl: "https://brooklyn-news12-com.cdn.ampproject.org/c/s/brooklyn.news12.com/amp/america-self-driving-cars-technology-drivers-have-doubts"
-    type: article
-    provider:
-      name: News 12 Networks
-      domain: news12.com
-    quality: 23
   - title: "Dubai tests self-driving taxis"
     excerpt: "Dubai’s Roads and Transport Authority (RTA) and Cruise have begun testing and data collection for self-driving cars in the city. The RTA announced it is collecting data and testing technology for Dubai’s traffic signals, signage, and drivers ..."
     publishedDateTime: 2023-04-15T08:46:00Z

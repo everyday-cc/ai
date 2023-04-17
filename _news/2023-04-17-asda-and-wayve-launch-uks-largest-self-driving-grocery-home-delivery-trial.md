@@ -9,7 +9,7 @@ ampWebUrl: "https://bmmagazine.co.uk/news/asda-and-wayve-launch-uks-largest-self
 cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/news/asda-and-wayve-launch-uks-largest-self-driving-grocery-home-delivery-trial/?amp"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Asda introduces self driving delivery vans in AI first"
+    excerpt: "Asda is launching the scheme in partnership with Wayve, a developer of artificial intelligence for self driving cars ... This trend appears here to stay, and bringing driverless vehicles into the fold could be the next step forward,” Myron Jobson ..."
+    publishedDateTime: 2023-04-17T11:55:00Z
+    webUrl: "https://www.cityam.com/asda-introduces-self-driving-vans-in-ai-first-for-the-supermarket-1/"
+    ampWebUrl: "https://www.cityam.com/asda-introduces-self-driving-vans-in-ai-first-for-the-supermarket-1/?amp=1"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/asda-introduces-self-driving-vans-in-ai-first-for-the-supermarket-1/?amp=1"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 74
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2023/04/Asda-Wayve_003.jpeg"
+        width: 1536
+        height: 1183
+        isCached: true
   - title: "Asda adds ‘self-driving’ vehicles to its west London delivery fleet"
     excerpt: "Asda is trialling driverless delivery vehicles in what it describes as Britain’s biggest autonomous grocery home delivery trial."
     publishedDateTime: 2023-04-17T06:42:00Z
@@ -65,6 +81,6 @@ related:
       domain: coventrytelegraph.net
     quality: 4
 
-secured: "GdU+1OIyEeqjWvj1cGvcW1FcWDXoEek64coMcZwbX93KsolFwV8dF9gSWQNv3TG7iG8uAXvOqvw84Jh0ooSKpSzr9W2ymFnFotF3OXwwb2sr7+MOOZDFrX947+pd+51YyqUoul1u/sUltXoT12D+ZxACqoQL1cPUZOWc29NqhVCI7WfsyGMEENids8Gv3Bg858xIidwrr/ybLKwAqPJMwxTSIbbWU9fPl80fBlCvfD6bOrdMDY2uCbs8LycO+mhuc8Iogf0qVGADXg61VbuCMJVGrHU9raMj6bkKaN0Ttm/Hd0Is4ST1bB7K+EMdyj+3leVdfi2saRuysMtOw/dUGTV7ELGfn+6osNsfxOlbci0=;OMQrYXdrsAkhuIR+snFM+g=="
+secured: "XfjV4R4kKQhwroPptw4/E4qLYRWOLmS5gyvv/Mx2ZUUlOaKLuEM5iXXaCaL4eBwfw9b8W7BV0MUmTbVqyB5oDjUcCyC0j+fcNSKMy5pD3CmWdaMqKJXgkgQ/Vb4gxjbcMfUSA56RqMRlj3V03RCP2YLYQdMmOpIyDXqug+x8o5GpQLrzY8zybjA51uz0+Me67yfLGuZY8oBXzMgNpCi1RIVikvjlI7VicmwXcj9U55mLcU2AX6FrryRD9e6XwUMxqBTxkxfxjdybrMFITq8eFe0zElN2t+ckBYLxy7im0gP0n6OZSfa/ew2IsMQVEErz1n/esrRRwCeUAcutmfSDGvKkh0uQI6MaCrewBkDMWy4QsfiO4KtPmirWdzRH26I4fyMRVBA98pbcbMxpd3oErkrhHoVuvoUPPSclO3SBzUgH1mE58qL7Ad6oxKcXq63mYqTtrov7zFu8FXavbXeNgPrB1yD6601izv9FYgk4j4i7fjvhgENN/71msl1NfOZ1eOkqEGx/65wBHlVuIqeeVQ==;DwOHEl2j4VdbcQTiDXkqYQ=="
 ---
 

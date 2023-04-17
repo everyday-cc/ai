@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-ma
 webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market-future-investments-and-forecast-till-2028-2023-04-13"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -33,6 +33,20 @@ related:
     excerpt: "The \" Self-Driving Car Market \"Study offers comprehensive information and statistics on markets in the current"
     publishedDateTime: 2023-04-14T01:25:00Z
     webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-forecasted-from-2023-2031-2023-04-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-driving Forklift Market Growth with Business Expansion Until 2030"
+    excerpt: "The recent market research titled “ Self-driving Forklift Market ” has analyzed the Self-driving Forklift Market report is a comprehensive analysis that covers various aspects of the industry, including product portfolios,"
+    publishedDateTime: 2023-04-17T07:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-forklift-market-growth-with-business-expansion-until-2030-2023-04-17"
     type: article
     provider:
       name: MarketWatch

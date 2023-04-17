@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-driving Forklift Market Growth with Business Expansion Until 2030"
+    excerpt: "The recent market research titled “ Self-driving Forklift Market ” has analyzed the Self-driving Forklift Market report is a comprehensive analysis that covers various aspects of the industry, including product portfolios,"
+    publishedDateTime: 2023-04-17T07:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-forklift-market-growth-with-business-expansion-until-2030-2023-04-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Fintech Market Growth and Forecast till 2031"
     excerpt: "The latest market research report on the Global \"AI in Fintech Market\" is segmented by Regions, Country, Company and"
     publishedDateTime: 2023-04-13T06:24:00Z

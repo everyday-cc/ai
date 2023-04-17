@@ -28,15 +28,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
-  - title: "Attorney Education Still the Biggest Hurdle to AI, Machine-Learning Adoption"
-    excerpt: "Besides education, the Artificial Intelligence and Machine Learning Report conducted by Relativity, ACEDS and BRG, found that cost is also a major barrier to AI and machine learning adoption. But once implemented,"
-    publishedDateTime: 2023-04-12T17:57:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/04/11/attorney-education-still-the-biggest-hurdle-to-ai-machine-learning-adoption/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 33
 
 secured: "zQjlU+zW9vq+JVRfSxAOm3Sq9faUiHXt9GeOD0aNPrtNp9jvGslP9Key+HaZ7eoge0jANoYRADt1cX+KGehmikAsOMC7YqwBSsiEmg8T5i9W5q6j9UIysxIW2hsVMSNGJyRf5qwLREGFp1XQlRvI4DlgmTPF6v32efaF0KJ7I3xXKJscRPaRqlLh5Q2DO+Ynm3OqI1yoWCVHlrRRuSfhFJiwg7FUsCza4V0iGDfvCBiEG2mHfdLILd/QTfLjnD5CpF+coZu1RiLKhdqYn6KaHp9ARDrQV0itQMMmR7qGirX4hYWcVm/OhTlDhVosRwHdBELwCtduZM7R7dA0pHYBsiKxS/tYOV7QhbkOtNERpEI=;PZ9ABc+cpc0ywvSja0JpRg=="
 ---

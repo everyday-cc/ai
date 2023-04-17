@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-driving Forklift Market Growth with Business Expansion Until 2030"
+    excerpt: "The recent market research titled “ Self-driving Forklift Market ” has analyzed the Self-driving Forklift Market report is a comprehensive analysis that covers various aspects of the industry, including product portfolios,"
+    publishedDateTime: 2023-04-17T07:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-forklift-market-growth-with-business-expansion-until-2030-2023-04-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ZwOraKJMRSQdH8RKhBnB6mVqAp0XGFoG6l0l5Lnz0ndh//fuuOgW68CdDhDohvKs+PG+2q2cQnYFm4X3oRQNiKhqXBYFABVkiG3mWC0gv4aL069Cg0o1oi2d35qVHSbtn6edMjpBanT0OHLQNIoBudhvI9Qj3EgIuYIIlFoq7l7gtR4wGxcwq0SRo2vQtWvL758TtnsXUURVbiA2UGwH6/uqrGdA4vAlrO6yURPcwAL4nPI1vm1q8xDpIn9zkahmFZta9ZosyAIxHp2WsxIVmVlKDAZ+fIr+z48N3z5971q1kiBS6ENCWyV/t06fpk6f0H3LdRAPym2Gg8P454H1fRDwF1O5iK02qWbAHT6O0g4=;0Ch/ZODqFf1xeb72t8YCyw=="
 ---

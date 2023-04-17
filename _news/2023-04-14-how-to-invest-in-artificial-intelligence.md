@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Humans have to get in the way of AI to make it more responsible"
+    excerpt: "In this edition, why human AI ethicists can slow down irresponsible AI, Amazon CEO's lower pay and why Facebook wants more influencers."
+    publishedDateTime: 2023-04-17T10:29:00Z
+    webUrl: "https://www.businessinsider.com/humans-make-ai-more-responsible-amazon-meta-salesforce-2023-4"
+    ampWebUrl: "https://www.businessinsider.com/humans-make-ai-more-responsible-amazon-meta-salesforce-2023-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/humans-make-ai-more-responsible-amazon-meta-salesforce-2023-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/6439bb117cdf0f00185cb3be?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Why Big Food Is Looking To AI To Shape The Future Of Food"
     excerpt: "This week, French dairy giant Bel Group announced they had entered into a partnership with Climax Foods, an AI-driven food startup founded by former Google head of data science and astrophysicist Oliver Zahn. The collaboration seeks to harness the power of ..."
     publishedDateTime: 2023-04-14T19:46:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artif
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artificial-intelligence-company-to-challenge-openai/amp/"
 type: article
 quality: 95
-heat: 465
+heat: 475
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/643840fbf709af9d2021d3e8/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 740
+        isCached: true
+  - title: "OpenAI’s CEO Says the Age of Giant AI Models Is Already Over"
+    excerpt: "Sam Altman says the research strategy that birthed ChatGPT is played out and future strides in artificial intelligence will require new ideas."
+    publishedDateTime: 2023-04-17T11:00:00Z
+    webUrl: "https://www.wired.com/story/openai-ceo-sam-altman-the-age-of-giant-ai-models-is-already-over/"
+    ampWebUrl: "https://www.wired.com/story/openai-ceo-sam-altman-the-age-of-giant-ai-models-is-already-over/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/openai-ceo-sam-altman-the-age-of-giant-ai-models-is-already-over/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/6439807d0e51e528ead991f5/master/pass/Sam-Altman-OpenAI-MIT-Business-1246870629.jpg"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "Elon Musk Files to Incorporate Artificial Intelligence Company"
     excerpt: "Tesla and Twitter CEO Elon Musk has created an artificial intelligence company called X.AI headquartered in Nevada, according to a report. The company was incorporated last month, The Wall Street Journal reported Friday, referring to a state filing. Musk has yet to tweet about the new company."
