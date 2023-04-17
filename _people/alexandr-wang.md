@@ -14,7 +14,7 @@ website: https://scale.com/
 twitter:
   username: alexandr_wang
   url: https://twitter.com/alexandr_wang
-  followers: 80155
+  followers: 80172
 
 linkedin:
   url: https://www.linkedin.com/in/alexandrwang/
