@@ -2,6 +2,256 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2023-03-22-opera-adds-chatgpt-and-ai-prompts-into-its-browser.md",
+      "title": "Opera adds ChatGPT and AI prompts into its browser",
+      "excerpt": "Opera has launched sidebar integration for both ChatGPT and ChatSonic and has introduced another feature called smart AI Prompts..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/opera-adds-chatgpt-and-ai-prompts-into-its-browser-113500436.html",
+      "originalUrl": "https://www.engadget.com/opera-adds-chatgpt-and-ai-prompts-into-its-browser-113500436.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/zdivnOCZZ3swfSBYBTkb.g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/8d379e10-c898-11ed-8542-eb2cdaacb701.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/opera-adds-chatgpt-and-ai-prompts-into-its-browser-113500436.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/opera-adds-chatgpt-and-ai-prompts-into-its-browser-113500436.html",
+      "publishedDateTime": "2023-03-22T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-shanghai-district-discourages-overusing-facial-recognition-tech.md",
+      "title": "Shanghai District Discourages Overusing Facial Recognition Tech",
+      "excerpt": "With more public awareness of data security, China’s legal authorities are urging private business owners to remove facial recognition cameras in private facilities to avoid the unauthorized and excessive collection of consumers’ personal data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sixthtone.com/news/1012550/",
+      "originalUrl": "https://www.sixthtone.com/news/1012550/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image5.sixthtone.com/image/5/65/75.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T05:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sixth Tone",
+        "domain": "sixthtone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits.md",
+      "title": "Making faces: How to train an AI on your face to create silly portraits",
+      "excerpt": "Stable Diffusion can run on Linux systems, Macs that have an M1 or M2 chip, and AMD GPUs, and you can generate images using only the CPU. Those methods require some tinkering, though, so for the purposes of this walkthrough, a Windows machine with an ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2023/03/making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits/",
+      "originalUrl": "https://arstechnica.com/gadgets/2023/03/making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/aiportraits1-300x390.png",
+          "width": 300,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2023/03/making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/03/making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits/amp/",
+      "publishedDateTime": "2023-03-22T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-how-ai-could-reduce-contract-inefficiencies-and-drudgery.md",
+      "title": "How AI Could Reduce Contract Inefficiencies And Drudgery",
+      "excerpt": "Ways AI Can Be Used To Create Better Contracts Natural language processing: AI-powered NLP can be used to analyze and interpret the language used in existing contracts to identify common clauses and language patterns. This can be useful in drafting new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/03/22/how-ai-could-reduce-contract-inefficiencies-and-drudgery/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/03/22/how-ai-could-reduce-contract-inefficiencies-and-drudgery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641a10e38556bdc74e0aff98/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/03/22/how-ai-could-reduce-contract-inefficiencies-and-drudgery/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/03/22/how-ai-could-reduce-contract-inefficiencies-and-drudgery/amp/",
+      "publishedDateTime": "2023-03-22T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work.md",
+      "title": "How PR Professionals Can Use Artificial Intelligence Tools To Enhance Their Work",
+      "excerpt": "Are robots taking over our jobs? That’s the million-dollar question people across many different industries have been asking as the world of artificial intelligence continues to advance at a rapid speed. But the fact of the matter is technology has been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f5b7915a5d68b0459dfcbb7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/amp/",
+      "publishedDateTime": "2023-03-22T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-what-does-fintech-mean-and-how-can-it-help-business-owners.md",
       "title": "What Does Fintech Mean, And How Can It Help Business Owners?",
       "excerpt": "At the same time, AI-powered fraud detection algorithms can analyze large amounts of data, enabling them to detect fraudulent transactions in real time. Plus, fintech companies must comply with industry security standards, like the Payment Card Industry ...",
@@ -936,221 +1186,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps.md",
-      "title": "Microsoft adds GPT-4 in Azure OpenAI Service for businesses to make their own AI apps",
-      "excerpt": "Microsoft has been on a tear with its AI-related announcements over the last few days, and it's not stopping. Today, after revealing the new Bing Image Creator in its Bing Chat service, the company has just announced it is adding GPT-4 to its Azure OpenAI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 462,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2023/02/1677151005_chagpt-1_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/",
-      "publishedDateTime": "2023-03-21T12:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-wga-would-allow-artificial-intelligence-in-scriptwriting-as-long-as-writers-maintain-credit.md",
-      "title": "WGA Would Allow Artificial Intelligence in Scriptwriting, as Long as Writers Maintain Credit",
-      "excerpt": "The Writers Guild of America has proposed allowing artificial intelligence to write scripts, as long as it does not affect writers’ credits or residuals. The guild had previously indicated that ...",
-      "sourceUrl": null,
-      "webUrl": "https://variety.com/2023/biz/news/writers-guild-artificial-intelligence-proposal-1235560927/",
-      "originalUrl": "https://variety.com/2023/biz/news/writers-guild-artificial-intelligence-proposal-1235560927/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://variety.com/wp-content/uploads/2020/07/losangelesvenues232546.jpg?w=1000&h=563&crop=1",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://variety.com/2023/biz/news/writers-guild-artificial-intelligence-proposal-1235560927/amp/",
-      "cdnAmpWebUrl": "https://variety-com.cdn.ampproject.org/c/s/variety.com/2023/biz/news/writers-guild-artificial-intelligence-proposal-1235560927/amp/",
-      "publishedDateTime": "2023-03-21T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Variety",
-        "domain": "variety.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-machine-learning-programs-predict-risk-of-death-based-on-results-from-routine-hospital-tests.md",
-      "title": "Machine Learning Programs Predict Risk of Death Based on Results From Routine Hospital Tests",
-      "excerpt": "Using ECG data, a new machine learning algorithm was able to predict death within 5 years of a patient being admitted to hospital with 87% accuracy. The AI was able to sort patients into 5 categories ranging from low to high risk of death.",
-      "sourceUrl": null,
-      "webUrl": "https://neurosciencenews.com/machine-learning-mortality-22838/",
-      "originalUrl": "https://neurosciencenews.com/machine-learning-mortality-22838/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neuroscience News",
-        "domain": "neurosciencenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-ai-is-about-to-get-much-weirder-heres-what-to-watch-for.md",
-      "title": "A.I. Is About to Get Much Weirder. Here’s What to Watch For.",
-      "excerpt": "The Vox writer Kelsey Piper talks about the increasing pace of A.I. development, how it’s changing the world and what to do about it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/03/21/opinion/ezra-klein-podcast-kelsey-piper.html",
-      "originalUrl": "https://www.nytimes.com/2023/03/21/opinion/ezra-klein-podcast-kelsey-piper.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/03/21/opinion/21eks-piper/21eks-piper-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/03/21/opinion/ezra-klein-podcast-kelsey-piper.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/21/opinion/ezra-klein-podcast-kelsey-piper.amp.html",
-      "publishedDateTime": "2023-03-21T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-nvidia-and-partners-unveil-new-hopper-based-products-and-services-featuring-powerful-gpu-for-ai.md",
-      "title": "NVIDIA and Partners Unveil New Hopper Based Products and Services Featuring Powerful GPU for AI",
-      "excerpt": "In response to the soaring demand for generative AI training and inference, NVIDIA and its key partners have launched new products and services powered by the NVIDIA H100 Tensor Core GPU ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.guru3d.com/news-story/nvidia-and-partners-unveil-new-hopper-based-products-and-services-featuring-powerful-gpu-for-ai.html",
-      "originalUrl": "https://www.guru3d.com/news-story/nvidia-and-partners-unveil-new-hopper-based-products-and-services-featuring-powerful-gpu-for-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Guru3D.com",
-        "domain": "guru3d.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

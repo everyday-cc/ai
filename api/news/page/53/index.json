@@ -2,6 +2,246 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2023-02-26-zuckerberg-introduces-metas-answer-to-chatgpt-llama.md",
+      "title": "Zuckerberg Introduces Meta’s Answer to ChatGPT, LLaMA",
+      "excerpt": "Meta, the company formerly known as Facebook, introduced its own AI today ... and we’ll make our new model available to the AI research community.” In a company blogpost published Friday ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/facebook-chatgpt-google-ai-chatbot-google-bard-1850155514",
+      "originalUrl": "https://gizmodo.com/facebook-chatgpt-google-ai-chatbot-google-bard-1850155514",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/573acff95a104148d9ebf8eefb830f15.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-25T08:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-25-software-engineer-who-warned-about-ai-its-a-runaway-train.md",
+      "title": "Software engineer who warned about AI: ‘It’s a runaway train’",
+      "excerpt": "Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/tech/2023/02/25/smr-google-engineer-who-warned-about-ai.cnn",
+      "originalUrl": "https://www.cnn.com/videos/tech/2023/02/25/smr-google-engineer-who-warned-about-ai.cnn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230225095128-smr-google-engineer-who-warned-about-ai-00040301-super-tease.png",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/tech/2023/02/25/smr-google-engineer-who-warned-about-ai.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tech/2023/02/25/smr-google-engineer-who-warned-about-ai.cnn",
+      "publishedDateTime": "2023-02-25T06:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-25-popkorn-fintech-chooses-scienaptics-ai-powered-credit-decisioning-platform-to-enhance-automotive-lending.md",
+      "title": "Popkorn Fintech chooses Scienaptic's AI-Powered Credit Decisioning Platform to enhance automotive lending",
+      "excerpt": "Popkorn platform is free for consumers. Popkorn Fintech aims to put AI-driven technology in the hands of frontline sales professionals at automotive dealerships to close loan requirements of ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/Articles/Business/20230225/4043205.html",
+      "originalUrl": "https://news.webindia123.com/news/Articles/Business/20230225/4043205.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-25T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-25-these-ai-artists-are-creating-the-fat-black-characters-so-sorely-lacking-in-mainstream-sci-fi-and-fantasy.md",
+      "title": "These AI Artists Are Creating The Fat, Black Characters So Sorely Lacking In Mainstream Sci-Fi And Fantasy",
+      "excerpt": "Fat, Black people deserve to be main characters capable of anything.” BuzzFeed Contributor The AI artist Jervae (right) and one of their creations As a young child growing up in Greenville, North Carolina,",
+      "sourceUrl": null,
+      "webUrl": "https://www.buzzfeednews.com/article/davisc0994/ai-art-fat-black-sci-fi-fantasy-characters?ref=upstract.com",
+      "originalUrl": "https://www.buzzfeednews.com/article/davisc0994/ai-art-fat-black-sci-fi-fantasy-characters?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2018-09/17/18/tmp/buzzfeed-prod-web-02/tmp-name-2-6439-1537224865-0_dblbig.jpg",
+          "width": 625,
+          "height": 415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/davisc0994/ai-art-fat-black-sci-fi-fantasy-characters",
+      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/davisc0994/ai-art-fat-black-sci-fi-fantasy-characters",
+      "publishedDateTime": "2023-02-25T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "buzzfeednews.com",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-25-10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition.md",
+      "title": "10 Pieces of Fashion You Can Wear to Confuse Facial Recognition",
+      "excerpt": "They say you can have anything you want in life if you dress for it. According to the makers of these anti-facial recognition garments, that includes privacy. These sweaters, masks, glasses, and makeup tips will scramble the algorithms and dazzle your friends.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/anti-facial-recognition-fashion-what-to-wear-mask-1850093479",
+      "originalUrl": "https://gizmodo.com/anti-facial-recognition-fashion-what-to-wear-mask-1850093479",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5962a488996ecd92c5b806c0c89f5c0a.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-25T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-25-artificial-intelligence-ai-in-education-market-size-share-growth-statistics-leading-players-and-forecast-2028.md",
       "title": "Artificial Intelligence (AI) in Education Market Size, Share, Growth Statistics, Leading Players and Forecast 2028",
       "excerpt": "Feb 25, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in Education Market\" Report provides a Detailed analysis of global market size, regional",
@@ -961,250 +1201,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-everything-you-wanted-to-know-about-ai-but-were-afraid-to-ask.md",
-      "title": "Everything you wanted to know about AI – but were afraid to ask",
-      "excerpt": "From chatbots to deepfakes, here is the lowdown on the current state of artificial intelligence Barely a day goes by without some new story about AI, or artificial intelligence. The excitement about it is palpable – the possibilities, some say ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes",
-      "originalUrl": "https://www.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/543d6b74c91d5d5fb908173506f00e60567f9f5c/0_70_5704_3422/master/5704.jpg?width=620&quality=85&auto=format&fit=max&s=4854fc9c9b45b2aa64285c3d335f0a4f",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes",
-      "publishedDateTime": "2023-02-24T05:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI in Autos",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-experts-predict-how-ai-will-energize-cybersecurity-in-2023-and-beyond.md",
-      "title": "Experts predict how AI will energize cybersecurity in 2023 and beyond",
-      "excerpt": "From behavioral analytics to endpoint and patch management, experts predict the many ways AI will boost cybersecurity this year and beyond.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/experts-predict-how-ai-will-energize-cybersecurity-in-2023-and-beyond/",
-      "originalUrl": "https://venturebeat.com/security/experts-predict-how-ai-will-energize-cybersecurity-in-2023-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/6-Cujo-AI-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/experts-predict-how-ai-will-energize-cybersecurity-in-2023-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/experts-predict-how-ai-will-energize-cybersecurity-in-2023-and-beyond/amp/",
-      "publishedDateTime": "2023-02-24T05:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-these-experts-are-racing-to-protect-ai-from-hackers-time-is-running-out.md",
-      "title": "These experts are racing to protect AI from hackers. Time is running out",
-      "excerpt": "\"It has all kinds of AI going on in there: lane assist, sign recognition, and all the rest,\" Draper says, before adding: \"You could imagine all that sort of thing being hacked -- the AI being attacked.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/in-depth/innovation/these-experts-are-racing-to-protect-ai-from-hackers-time-is-running-out/",
-      "originalUrl": "https://www.zdnet.com/in-depth/innovation/these-experts-are-racing-to-protect-ai-from-hackers-time-is-running-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-24T05:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-ai-and-computer-vision-a-powerful-combination-for-growth-in-the-coming-years.md",
-      "title": "AI and Computer Vision: A Powerful Combination for Growth in the Coming Years",
-      "excerpt": "Chicago, Feb. 24, 2023 (GLOBE NEWSWIRE) -- The AI in Computer Vision Industry by Component, Machine Learning Models, Function, Application (Industrial, Non-Industrial), End-Use Industry (Security ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/g31046068/ai-and-computer-vision-a-powerful-combination-for-growth-in-the-coming-years",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/g31046068/ai-and-computer-vision-a-powerful-combination-for-growth-in-the-coming-years",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/31046068",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31046068",
-      "publishedDateTime": "2023-02-24T05:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-human-art-already-has-so-much-in-common-with-ai.md",
-      "title": "Human Art Already Has So Much In Common With AI",
-      "excerpt": "Despite being human-made, human-taught, and human-promoted, it’s easy to criticize AI for being fundamentally inhuman. To claim that AI models like ChatGPT and DALL-E will replace art created by people is to ignore both the ineffable qualities of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/generative-art-algorithms-creativity/",
-      "originalUrl": "https://www.wired.com/story/generative-art-algorithms-creativity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63f7ff97d35154c5a1727fde/master/pass/ideas_ai_art_algorithmic_creativity.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/generative-art-algorithms-creativity/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/generative-art-algorithms-creativity/amp",
-      "publishedDateTime": "2023-02-24T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

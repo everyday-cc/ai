@@ -2,49 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-02-07-google-takes-on-chatgpt-with-bard-and-shows-off-ai-in-search.md",
-      "title": "Google takes on ChatGPT with Bard and shows off AI in search",
-      "excerpt": "Google's new AI will \"combine the breadth of the world's knowledge with the power, intelligence, and creativity of our large language models.\"",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/02/06/google-takes-on-chatgpt-with-bard-and-shows-off-ai-in-search/",
-      "originalUrl": "https://techcrunch.com/2023/02/06/google-takes-on-chatgpt-with-bard-and-shows-off-ai-in-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T13:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!Finance",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2023-02-07-should-companies-disclose-if-their-content-was-written-by-ai.md",
       "title": "Should Companies Disclose if Their Content Was Written by AI?",
       "excerpt": "Google is already reconsidering the value and ranking of content created through AI. In academics, the integrity of AI-powered content comes into question when students use it to write college papers.",
@@ -1195,6 +1152,49 @@
       "provider": {
         "name": "ABC",
         "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-sanskrit-language-code-cracked-by-phd-student.md",
+      "title": "Sanskrit Language Code Cracked by PhD Student",
+      "excerpt": "A 2500 year old grammatical problem has finally been solved by PhD student Rishi Rajpopat at the University of Cambridge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.languagemagazine.com/2023/01/26/sanskrit-language-code-cracked-by-phd-student/",
+      "originalUrl": "https://www.languagemagazine.com/2023/01/26/sanskrit-language-code-cracked-by-phd-student/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.languagemagazine.com/wp-content/uploads/2023/01/GettyImages-1201079502.jpg",
+          "width": 591,
+          "height": 591,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-26T15:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Language Magazine",
+        "domain": "languagemagazine.com",
         "images": null,
         "publishers": null,
         "authors": null

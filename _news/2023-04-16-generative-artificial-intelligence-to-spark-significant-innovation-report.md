@@ -18,28 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "AI and ML: The new frontier for data center innovation and optimization"
-    excerpt: "By implementing AI and ML, companies can create autonomous data centers that optimize a multitude of data engineering tasks."
-    publishedDateTime: 2023-04-13T23:00:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/ai-and-ml-the-new-frontier-for-data-center-innovation-and-optimization/"
+  - title: "Congress Can Shape AI Governance Without Stifling Innovation. Here’s How."
+    excerpt: "As we progress deeper into the artificial intelligence (AI) era, it is critical to rethink how we address the growing impact of AI technologies on society."
+    publishedDateTime: 2023-04-17T09:00:00Z
+    webUrl: "https://www.forbes.com/sites/divyanshkaushik/2023/04/17/congress-can-shape-ai-governance-without-stifling-innovation-heres-how/"
+    ampWebUrl: "https://www.forbes.com/sites/divyanshkaushik/2023/04/17/congress-can-shape-ai-governance-without-stifling-innovation-heres-how/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/divyanshkaushik/2023/04/17/congress-can-shape-ai-governance-without-stifling-innovation-heres-how/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
-  - title: "SCBX forges new collaboration with Stanford HAI to drive innovation in AI and fintech"
-    excerpt: "Through this collaboration, SCBX will have access to cutting-edge research and educational programming specifically tailored to the financial sector. The program covers a wide range of advanced topics,"
-    publishedDateTime: 2023-04-17T04:26:00Z
-    webUrl: "https://www.newswit.com/en/M4sy"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 32
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://www.newswit.com/img/f/20230417/f01beaf03c7dd96ed3ded436e7cbbd25-0.png"
-        width: 1016
-        height: 628
+      - url: "https://imageio.forbes.com/specials-images/imageserve/643865e6e5e9481f10a008b9/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "fMfVny8yyKyHfQdv8JheBVlaH55h2CBHNDyDumvJCXAkZw5f1qjHKxrgiWm2mYDX3JCv25W/7+D77tumtDvHZCBL7dhBTyh8TPoUKmxi2nLT+vmRWS2qseJqhztQ0EShJoFLmrclwPKGbWpaJKHeB8J5JXilyXtwlWmx07o4K9RggMo9nWCreASJ232nZveUDNBtOHWhuxa+5q9np03gF9yUQ8sbNnWeaRAQCnfoHpvRhJ4QjFtt/+2fDk11u3TOAf9ESWndLVMa3g6SjBAPLWQZasi5wdNx71rusPNjLWuHoE7COJz069wBKdlBw88Gy4Xx5f5fKaxO/l8tNxIk1fXeYESppnbtIsm7+AFk/2SL2IkBtFKLFLv5JIlrkBUwAyKkfrz8+EHfsSMqkw7BNvcbeoS3MC6xuDOuh3NPYdcn2r70+a+2y0cYdqYu82yQP0sJngP8brN1enhxcbQBSrbyauDS00JQzAtY+6gMhKmCDxXIf05mw4PPryt9h+Rhv1EFiXwExSsFOJeui+58jQ==;RmdT4WiQukDYTGu270h7yw=="

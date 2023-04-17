@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-03-13-can-ai-solve-its-eternal-data-problem.md",
-      "title": "Can AI solve IT’s eternal data problem?",
-      "excerpt": "New data management and integration solutions featuring AI and machine learning signal that help is on the way to meet the ballooning enterprise data challenge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3689668/can-ai-solve-it-s-eternal-data-problem.html",
-      "originalUrl": "https://www.infoworld.com/article/3689668/can-ai-solve-it-s-eternal-data-problem.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/03/shutterstock_289153913-100938103-large.jpg?auto=webp&quality=85,70",
-          "width": 1199,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3689668/can-ai-solve-it-s-eternal-data-problem.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3689668/can-ai-solve-it-s-eternal-data-problem.amp.html",
-      "publishedDateTime": "2023-03-13T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-13-ai-is-about-to-remake-the-pharmaceutical-industry.md",
       "title": "AI is about to remake the pharmaceutical industry",
       "excerpt": "For years, billions of dollars have been poured into bringing AI into the drug development process. Finally, it seems the cash might be paying off. Medicines designed by AI for conditions including lymph cancers,",
@@ -1380,6 +1328,50 @@
       "topics": [
         "IBM AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-talking-ai-ceo-arvind-khrisna-on-ibms-monetization-strategy.md",
+      "title": "Talking AI - CEO Arvind Khrisna on IBM's monetization strategy",
+      "excerpt": "In his view, there have been three moments that matter in the past decade in terms of AI emerging to have business potential and impact: One, when IBM won Jeopardy! with Watson, I think it was a big moment, and AI came onto everyone's roadmap.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/talking-ai-ceo-arvind-khrisna-ibms-monetization-strategy",
+      "originalUrl": "https://diginomica.com/talking-ai-ceo-arvind-khrisna-ibms-monetization-strategy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2022-01/Screenshot%202022-01-25%20at%2011.06.30.png",
+          "width": 1192,
+          "height": 876,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/talking-ai-ceo-arvind-khrisna-ibms-monetization-strategy?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/talking-ai-ceo-arvind-khrisna-ibms-monetization-strategy?amp",
+      "publishedDateTime": "2023-01-27T03:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

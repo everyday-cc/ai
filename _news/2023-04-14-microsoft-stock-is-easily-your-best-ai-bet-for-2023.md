@@ -60,15 +60,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 63
-  - title: "Siemens and Microsoft Drive Industrial Productivity with Generative AI"
-    excerpt: "Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help"
-    publishedDateTime: 2023-04-12T15:48:00Z
-    webUrl: "https://www.datanami.com/this-just-in/siemens-and-microsoft-drive-industrial-productivity-with-generative-ai/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
   - title: "Siemens, Microsoft Use Generative AI to Drive Industrial Productivity"
     excerpt: "Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency across the design, engineering, manufacturing and operational lifecycle of products."
     publishedDateTime: 2023-04-13T02:01:00Z

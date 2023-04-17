@@ -2,6 +2,61 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-02-17-federated-learning-at-the-edge-may-out-compete-the-cloud-on-privacy-speed-and-cost.md",
+      "title": "Federated learning at the edge may out-compete the cloud on privacy, speed and cost",
+      "excerpt": "How federated learning at the edge can improve latency, reduce network calls, drive efficiency, improve model accuracy and promote privacy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/federated-learning-at-the-edge-may-out-compete-the-cloud-on-privacy-speed-and-cost/",
+      "originalUrl": "https://venturebeat.com/ai/federated-learning-at-the-edge-may-out-compete-the-cloud-on-privacy-speed-and-cost/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/edge-e1661803536445.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 547,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/federated-learning-at-the-edge-may-out-compete-the-cloud-on-privacy-speed-and-cost/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-at-the-edge-may-out-compete-the-cloud-on-privacy-speed-and-cost/amp/",
+      "publishedDateTime": "2023-02-16T21:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-02-17-deep-learning-chipset-market-future-scope-demand-perceptive-and-comprehensive-analysis-by-2028.md",
       "title": "Deep Learning Chipset Market : Future Scope, Demand, Perceptive and Comprehensive Analysis By 2028",
       "excerpt": "Feb (The Expresswire) -- \"Deep Learning Chipset Market\" Report provides a Detailed analysis of global market size, regional and country-level",
@@ -1333,49 +1388,6 @@
       "provider": {
         "name": "Quad-City Times",
         "domain": "qctimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-chung-ang-university-researchers-review-deep-learning-based-methods-to-detect-time-series-data-anomaly.md",
-      "title": "Chung-Ang University researchers review deep learning-based methods to detect time series data anomaly",
-      "excerpt": "Unusual observations or anomalies in recorded data are common. Detection of such anomalies has applications in identifying credit card frauds, industrial intrusion, weather changes, medical seizures,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/979048",
-      "originalUrl": "https://www.eurekalert.org/news-releases/979048",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d26122ba-7e91-4462-9876-9d940db47133/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T20:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null

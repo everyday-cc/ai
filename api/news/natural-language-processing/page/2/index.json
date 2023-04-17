@@ -2,50 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-03-24-microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more.md",
-      "title": "Microsoft unveils plans to use AI feature in Outlook, Excel and more",
-      "excerpt": "On the other hand, AI critics worry it will bring more harm ... and perform a wide range of language-related tasks such as language translation, text summarization [and] sentiment analysis.”",
-      "sourceUrl": null,
-      "webUrl": "https://wgntv.com/news/nexstar-media-wire/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/",
-      "originalUrl": "https://wgntv.com/news/nexstar-media-wire/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wgntv.com/wp-content/uploads/sites/5/2023/03/computer-software-best-microsoft-365-products-1.jpg?w=1280",
-          "width": 760,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wgntv.com/news/nexstar-media-wire/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/",
-      "cdnAmpWebUrl": "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/nexstar-media-wire/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/",
-      "publishedDateTime": "2023-03-24T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGN-TV",
-        "domain": "wgntv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-24-while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers.md",
       "title": "While OpenAI has been working on text and images, iGenius has been working on GPT for numbers",
       "excerpt": "And with algorithms, natural language processing and user-created metadata, or what iGenius calls advanced conversational AI, the complexity of data quality can be improved and elevated. Gartner has dubbed this ‘conversational analytics.’ Virtualizing ...",
@@ -1427,6 +1383,58 @@
         "name": "Slator",
         "domain": "slator.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-10-the-top-4-examples-of-how-chatgpt-can-be-used-in-telecom.md",
+      "title": "The Top 4 Examples Of How ChatGPT Can Be Used In Telecom",
+      "excerpt": "Are you curious about how ChatGPT is revolutionizing the telecom sector? Check out this list of top 4 examples, including customer support, network optimization, and fraud detection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/03/10/the-top-4-examples-of-how-chatgpt-can-be-used-in-telecom/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/03/10/the-top-4-examples-of-how-chatgpt-can-be-used-in-telecom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/640adc9a03926496c67aa269/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/03/10/the-top-4-examples-of-how-chatgpt-can-be-used-in-telecom/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/03/10/the-top-4-examples-of-how-chatgpt-can-be-used-in-telecom/amp/",
+      "publishedDateTime": "2023-03-09T22:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

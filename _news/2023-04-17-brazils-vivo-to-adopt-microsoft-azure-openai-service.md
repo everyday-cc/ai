@@ -57,15 +57,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 63
-  - title: "Siemens and Microsoft Drive Industrial Productivity with Generative AI"
-    excerpt: "Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help"
-    publishedDateTime: 2023-04-12T15:48:00Z
-    webUrl: "https://www.datanami.com/this-just-in/siemens-and-microsoft-drive-industrial-productivity-with-generative-ai/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
   - title: "Siemens, Microsoft Use Generative AI to Drive Industrial Productivity"
     excerpt: "Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency across the design, engineering, manufacturing and operational lifecycle of products."
     publishedDateTime: 2023-04-13T02:01:00Z
@@ -76,6 +67,6 @@ related:
       domain: thefastmode.com
     quality: 34
 
-secured: "EanXkb/O7LRprsdl1p6EJ2x90LIHcp12rwcyA4VXEvnwyl6Sgd60DKSQ8VhiQWYaYok2su3ra5LsaR+cWcrtn3PZykI2khJNzaoAXOX+jNh/UJlurQsBC7mZuQVEP+1ZgM3OBBMp5YbGsuvJbobpPHGj/vgT2sv0qwgJAnK+/npmo5z6ZpCQyI5kJIxqZZT6wRPxsNz5Wt9qI7biS39sDcuVrrmHjY9Xy97Nb4UBe3YCH2gIDWXkeh8Kv4rBvAW6uTtb2XlviWT6lztMkRo5oYaAPYMWXaPMqimvX8mtLcK5MD1oPTNf2WdaGDkQ3n+UT2jUE6h9AuKahxLhFU7b56ivV+UkHAptBEyUCpT5BAs=;Da1A80eN9psNSjPlyXuFnw=="
+secured: "AH3zNzEsq88JePelzy5hs8GdlT0/dynJuiEPefzu+9w9he2G/hJKIrEZQh/QWhi0BohJdFklxQ/iaYpJ2NUH/tel7GTmlUm9+48zrt8X06FikMtbXZc/loaKin5iApZtyUYLHf9joYLq9jox9S83kJnqHM904pmU1J/UuQptu9CM8T4TorYpka257FEf02qphSG50urJFaYZs9446mPEOuAuqZuDyhbhTojqCNyrrsmxHnXrmfWai+aGAlHJpf7Jqq7lPbgZP/59hitNJiyZ0gUvcCqFjC9SHzh/S0+06siq1UG2mcWQ2CHSBjNOFjDGTx9du/IKDKvc3m9HxJgIZoXXPOh6ebKF20c/5QJQFpuGERNVj2FjmSbENsHAaWsMDGfJ0lvkzIKEfReP8tqw2FROzmWEXicrAAbQBvDV0154hl4UwaV5WC0s6MR1e79I1Jt7pdErWclUb+8/NtbdcoGXMM1clX1qTendZfupoaAxRxJDdqYg6euYbFv+fRuFywdEPY1a3D8Wzpc76XhVJg==;BuaXg4VYcnAmi0xRnCFSvQ=="
 ---
 

@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-03-ai-and-robotics-etfs-are-hotter-for-traders-than-crypto-in-2023.md",
+      "title": "AI and Robotics ETFs Are Hotter for Traders Than Crypto in 2023",
+      "excerpt": "The $1.7 billion Global X Robotics & Artificial Intelligence ETF (ticker: BOTZ) led the inflows with about $121 million so far this year. The fund is up 24% year to date. Related: ETFs with the Be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wealthmanagement.com/etfs/ai-and-robotics-etfs-are-hotter-traders-crypto-2023",
+      "originalUrl": "https://www.wealthmanagement.com/etfs/ai-and-robotics-etfs-are-hotter-traders-crypto-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WealthManagement.com",
+        "domain": "wealthmanagement.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-03-a-sensor-that-might-someday-enable-mind-controlled-robots.md",
       "title": "A sensor that might someday enable ‘mind-controlled’ robots",
       "excerpt": "It sounds like something from science fiction: Don a specialized, electronic headband and control a robot using your mind. But now, recent research published in ACS Applied Nano Materials has taken a step toward making this a reality. By designing a ...",
@@ -1389,49 +1423,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-working-with-ai-robots-could-worsen-human-work-cultures.md",
-      "title": "Working with AI robots could worsen human work cultures",
-      "excerpt": "It’s said that as work becomes increasingly automated by Artificial Intelligence (AI), our special human traits ... Will we start expecting our human colleagues to be similarly pliant? A robot is not a person—even if its apologies sound genuinely ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/opinion/columns/working-with-ai-robots-could-worsen-human-work-cultures-11679507470823.html",
-      "originalUrl": "https://www.livemint.com/opinion/columns/working-with-ai-robots-could-worsen-human-work-cultures-11679507470823.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2018/12/28/600x338/Opinion_1545994499293.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/opinion/columns/working-with-ai-robots-could-worsen-human-work-cultures/amp-11679507470823.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/working-with-ai-robots-could-worsen-human-work-cultures/amp-11679507470823.html",
-      "publishedDateTime": "2023-03-22T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

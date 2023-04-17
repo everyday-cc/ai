@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4594009-google-stock-ai-powered-o
 webUrl: "https://seekingalpha.com/article/4594009-google-stock-ai-powered-offerings-investment-opportunities"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -17,26 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "Artificial Intelligence In Security Market 2023 Highlights, Recent Trends, Market Growth And Opportunities"
-    excerpt: "Additionally, this report evaluates technological advances made by leading players in the market and provides information on the key trends, advancements, and strategies employed by these leading companies."
-    publishedDateTime: 2023-04-13T06:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-2023-highlights-recent-trends-market-growth-and-opportunities-2023-04-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-  - title: "Trends, challenges and opportunities in Pittsburgh’s startup market: Q&A with K&L Gates emerging growth and venture capital partners"
-    excerpt: "In the following Q&A, Oded Green, Adam Kelson and David Lehman, emerging growth and venture capital partners with K&L Gates LLP, share valuable information for Pittsburgh’s startup market."
-    publishedDateTime: 2023-04-15T04:00:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/news/2023/04/15/q-a-with-k-l-gates-partners-on-pittsburgh-startups.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "K33T58qMG89LwU/eWEndxJ5NQ3R/cS3y3wMVd0MZxr3b28AEVTYkXxsHe+M1YTsxEVr0ikGlGEpUCkC0BErOmAk9AHrf0gtrwBQDIHay/SQjis/KhzF/JGWXvK0EsJEHv44UqJkjj21xXBrIWxn5sS6Z0r0rXHc8ETTQK+Qs/16mDjIL0nOI7iVbvTVSAhctfynK78xcHY1VQmfh2pnfcF9SXZwAxW9tnZp70DdD472JKaW2jOSHPaJmfvaoTZ1IXL0zDgMV6jC/myo9vdJdvv30b2mLYWKNJ/9VhPmJbqULvyquNyDZKbSaj21XIyvhzlPgOKpPCIYSLVUSRK3dpr+hCPbVxqZb9TLvGhADTPj46fFNogEo1pVhMOUFPDlCqkIoFZRd9PYzJDugDuuM/a12tcb1wAkHWc+SC/GGpGhQTmPORmhc3p0HkZrkQnU5VMUoVs0qih5eZejw0vjDybW5j8cGPVc1kQ85zVFs0St5xKi7oEQIY8VMlnp4+bbX4o+DLKsClHeWArGusYDCMA==;N4jfht3x7MEpawykDjGCAw=="
 ---

@@ -34,15 +34,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 66
-  - title: "Generative artificial intelligence to spark significant innovation: Report"
-    excerpt: "Key stories on business-standard.com are available only to BS Premium subscribers. Already a BS Premium subscriber? LOGIN NOW"
-    publishedDateTime: 2023-04-16T13:38:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/generative-artificial-intelligence-to-spark-significant-innovation-report-123041600706_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 15
 
 secured: "EO0klSPZIrCAHL37V5FwA+cVZmdMsgHWy6f2hfF9Q8kqQVI311mFTUhLWJMpI4yIovQM4OH4jyxf8JftN3bDF4gFHmB2dgR04zkXOSp2OLi98nyMpNo8DRVRsCNMMK79AhUQAi5eDRcrXXCdkSvHkRpfd6n9rNjfEsFkSNE87SXxiPNMSe3MioT8fMWMamSUTIZP8nG87yQp5IBXGPDtwYaG5JaSt9FmwmjoEdRIKcFBJgPsEoM9JpIfkuo7Y4LGAfxUJFRO7zJHbGMaFa/AegUzVpdTC9s/c/tdKfMncJzTGtfZu3r0u2ZO54A6Kj6KBv3WHRNHzi5yn7Qq7KTk7+Iifh6TYBP1mQzptD41K4OWCaE49+nbOc69iwa93K2cj0D9i0db96bF+Wcp4knasYhuRkV5xGwh4v/BSjQWQEOPeIYdBbsnubyuzA2dU6a6OLOrGsm/5h8gt1jDdOWgQE6xxiOf4ybPblHpC898m65pnPdPba+keqn48y0+SVkaEWs4x00tC1nwRF2xXVFyCQ==;mWPmGOG8tXhyF+emvBfLrQ=="
 ---

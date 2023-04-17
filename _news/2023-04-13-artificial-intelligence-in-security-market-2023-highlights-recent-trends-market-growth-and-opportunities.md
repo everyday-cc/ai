@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-2023-highlights-recent-trends-market-growth-and-opportunities-2023-04-13"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -24,24 +24,104 @@ topics:
   - AI in Security
 
 related:
-  - title: "Google's AI-Powered Products And Services Offer Investment Opportunities"
-    excerpt: "Despite a deceleration in the digital advertising market, Google is expected to post an increase in top-line revenue for Q1 2023. Alphabet's Tensor Processing Unit and generative AI technology position the company as a competitor in the AI chip market."
-    publishedDateTime: 2023-04-14T01:05:00Z
-    webUrl: "https://seekingalpha.com/article/4594009-google-stock-ai-powered-offerings-investment-opportunities"
+  - title: "GPU for Deep Learning Market Analysis [2023-2030] Understanding the Latest Market Trends"
+    excerpt: "This GPU for Deep Learning Market report researches the key producers of GPU for Deep Learning, also provides the sales of main regions and countries. Highlights of the upcoming m"
+    publishedDateTime: 2023-04-17T05:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-analysis-2023-2030-understanding-the-latest-market-trends-2023-04-17"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 18
-  - title: "Trends, challenges and opportunities in Pittsburgh’s startup market: Q&A with K&L Gates emerging growth and venture capital partners"
-    excerpt: "In the following Q&A, Oded Green, Adam Kelson and David Lehman, emerging growth and venture capital partners with K&L Gates LLP, share valuable information for Pittsburgh’s startup market."
-    publishedDateTime: 2023-04-15T04:00:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/news/2023/04/15/q-a-with-k-l-gates-partners-on-pittsburgh-startups.html"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Video Conferencing Transcribing Market Growing Demand and Trends 2023 to 2030 | Amazon Transcribe, Nuance, Google, IBM WATSON"
+    excerpt: "TheVideo Conferencing Transcribing Market Report is a categorized analysis of local and global markets that provides"
+    publishedDateTime: 2023-04-14T04:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/video-conferencing-transcribing-market-growing-demand-and-trends-2023-to-2030-amazon-transcribe-nuance-google-ibm-watson-2023-04-14"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 76
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023-2030, Artificial Intelligence Platform Market-Latest Updates"
+    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  In This Reports Artificial Intelligence Platform Market Segment by Type ( On-premises,"
+    publishedDateTime: 2023-04-17T04:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2030-artificial-intelligence-platform-market-latest-updates-2023-04-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence in Marketing Market Size [2023-2030] | Share, Growth, Recent Trends, Development"
+    excerpt: "Global “Artificial Intelligence in Marketing Market” (2023-2030) research report is an expert examination on the"
+    publishedDateTime: 2023-04-14T09:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-marketing-market-size-2023-2030-share-growth-recent-trends-development-2023-04-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence in Retail Market [2023-2030] | The Impact of Trend and Technology on the Industry"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 14, 2023 (The Expresswire) -- Global “Artificial Intelligence in Retail Market” (2023-2030) research report provides precise data related to key competition ..."
+    publishedDateTime: 2023-04-14T21:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-retail-market-2023-2030-the-impact-of-trend-and-technology-on-the-industry-2023-04-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Technology Market Research [2023-2030] Conducting a Thorough Market Analysis"
+    excerpt: "According to our Latest Research, Speech and Voice Recognition Technology Market Size With The Global Market looks promising in the next 5 years. As of 2023, the global Speech and Voice Recognition Technology market was estimated at USD million,"
+    publishedDateTime: 2023-04-17T04:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-research-2023-2030-conducting-a-thorough-market-analysis-2023-04-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023-2031 Learning Machine Market Size and Risks Factors Analysis,Survey Report by Kingpin Market Research"
+    excerpt: "Secondary sources include the research of the annual and financial reports of the top companies, public files, new journals, etc. We also cooperate with some third-party databases. What are the global trends in the Learning Machine market? Would the ..."
+    publishedDateTime: 2023-04-16T01:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2031-learning-machine-market-size-and-risks-factors-analysissurvey-report-by-kingpin-market-research-2023-04-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "8lgB1qOZjDwxpA7WY3CH6Fv4pi/VKhUaaCjOVzJRpggLdelxpY9lX5fc9BhIq9F1Ur4vq0v8uq34TAPhDEuI0pSQYO6nZDxQ4E7cE1YNR/jYLgqZjmB9+tfQ+WaMEXcrZmgiTSMdBo8BBgYk8dRHW9lLOpvjiLbJjnD9wSmM4FIdeNLBTK01HoC5gNM41lJm1AMmrWGmkP1kp9ezTJZ4qy0zlkfJ86m/Q+DdJvoUqhuwAEyXbEk/d48LvcDkFznccRCEy+RG5KVXRtWI4NHu0ficjTYPBTpBTkc6QkX9xZXce8NM9315wUsg4pSgQoKZ4q4o7VKo4mU6FLZZVp/DWXJmOU8AtaLEyvGLHPXvPro=;apBX2B8QI2HNpB6jBEJhDw=="
 ---

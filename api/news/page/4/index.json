@@ -2,6 +2,195 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-11-how-ibm-invests-in-opportunities-to-reach-maximum-equitable-impact.md",
+      "title": "How IBM invests in opportunities to reach maximum equitable impact",
+      "excerpt": "At IBM, we strive each day to achieve our purpose; to be the catalyst that helps makes the world work better. We endeavor to be at the forefront of groundbreaking changes in the industries we serve and the global community at large. None of this would be possible without skilled and talented IBMers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-ibm-invests-in-opportunities-to-reach-maximum-equitable-impact/",
+      "originalUrl": "https://www.ibm.com/blog/how-ibm-invests-in-opportunities-to-reach-maximum-equitable-impact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-11T06:05:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-11-how-our-commitment-to-ethics-trust-and-transparency-is-differentiating-ibm.md",
+      "title": "How our commitment to ethics, trust and transparency is differentiating IBM",
+      "excerpt": "Emerging technologies and the rapid development of innovations are raising questions and challenges in today&#8217;s marketplace. At IBM, we&#8217;ve been bringing new technologies into the world responsibly and with clear purpose for more than a century.&#160;And we know that nobody can address these",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-our-commitment-to-ethics-trust-and-transparency-is-differentiating-ibm/",
+      "originalUrl": "https://www.ibm.com/blog/how-our-commitment-to-ethics-trust-and-transparency-is-differentiating-ibm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-11T06:05:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-04-11-researchers-predict-artificial-intelligence-could-lead-to-a-nuclear-level-catastrophe.md",
+      "title": "Researchers predict artificial intelligence could lead to a 'nuclear-level catastrophe'",
+      "excerpt": "In the past few years, the world has seen huge advancements in artificial intelligence, with chatbots being able to have almost human-like conversations with users in real time, and image ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/researchers-predict-artificial-intelligence-lead-nuclear-level-catastrophe",
+      "originalUrl": "https://www.foxnews.com/media/researchers-predict-artificial-intelligence-lead-nuclear-level-catastrophe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9173ff0e-731a-4938-8d98-838e96cab4aa/8c3c171d-0b0c-4650-a5c1-bb79bf268d11/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/researchers-predict-artificial-intelligence-lead-nuclear-level-catastrophe.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/researchers-predict-artificial-intelligence-lead-nuclear-level-catastrophe.amp",
+      "publishedDateTime": "2023-04-10T23:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-11-bot-services-market-research-report-2023-by-product-application-end-users-region-and-forecast-to-2031.md",
+      "title": "Bot Services Market Research Report 2023 by Product, Application, End-users, Region And Forecast to 2031",
+      "excerpt": "Bot service is a web service that uses a conversational interface and communicates with the bot framework service to send and receive events and messages. Factors such as the growing integration of chatbots with social media such as Telegram,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/bot-services-market-research-report-2023-by-product-application-end-users-region-and-forecast-to-2031-2023-04-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/bot-services-market-research-report-2023-by-product-application-end-users-region-and-forecast-to-2031-2023-04-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-10T23:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-11-how-to-use-large-language-models-and-knowledge-graphs-to-manage-enterprise-data.md",
       "title": "How to use large language models and knowledge graphs to manage enterprise data",
       "excerpt": "By combining ontology and large language model-driven techniques, engineers can build a knowledge graph that is easily queried and updatable.",
@@ -118,6 +307,58 @@
         "name": "New York Post",
         "domain": "nypost.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-11-should-robots-with-artificial-intelligence-have-moral-or-legal-rights.md",
+      "title": "Should Robots With Artificial Intelligence Have Moral or Legal Rights?",
+      "excerpt": "Artificial intelligence is writing essays ... bolstering longstanding worries that robots might someday overtake us.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/robots-ai-legal-rights-3c47ef40",
+      "originalUrl": "https://www.wsj.com/articles/robots-ai-legal-rights-3c47ef40",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-756352/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-10T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -906,195 +1147,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-09-exrobotics-develops-new-and-improved-version-of-its-inspection-robot.md",
-      "title": "Exrobotics Develops 'New And Improved' Version Of Its Inspection Robot",
-      "excerpt": "ExRobotics develops 'new and improved' version of its inspection robot April 8, 2023 by mark allinson leave a comment  exrobotics",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105965325/Exrobotics-Develops-New-And-Improved-Version-Of-Its-Inspection-Robot",
-      "originalUrl": "https://menafn.com/1105965325/Exrobotics-Develops-New-And-Improved-Version-Of-Its-Inspection-Robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-08T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-09-washington-vows-to-tackle-ai-as-tech-titans-and-critics-descend.md",
-      "title": "Washington vows to tackle AI, as tech titans and critics descend",
-      "excerpt": "Tristan Harris, a tech ethicist well-known among lawmakers for ringing the alarm about the harmful effects of social networks, was now arguing that artificial intelligence represents a potentially ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2023/04/08/washington-artificial-intelligence-regulation/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2023/04/08/washington-artificial-intelligence-regulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KKWVQHG6PNB3RPJZLQ2AWNDG64.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-08T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-09-artificial-intelligence-the-good-the-bad-and-the-ugly.md",
-      "title": "Artificial Intelligence: the Good, the Bad, and the Ugly",
-      "excerpt": "The Guardian, a British newspaper, published a story about a chatbot program that declared its love for a user, told him to leave",
-      "sourceUrl": null,
-      "webUrl": "https://www.omanobserver.om/article/1135374/opinion/oman/artificial-intelligence-the-good-the-bad-and-the-ugly",
-      "originalUrl": "https://www.omanobserver.om/article/1135374/opinion/oman/artificial-intelligence-the-good-the-bad-and-the-ugly",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-08T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "omanobserver",
-        "domain": "omanobserver.om",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-08-deep-learning-model-estimating-breast-density-could-help-with-predicting-cancer-risk.md",
-      "title": "Deep learning model estimating breast density could help with predicting cancer risk",
-      "excerpt": "Breast density is defined as the proportion of fibro-glandular tissue within the breast and is often used in assessing the risk of developing breast cancer.",
-      "sourceUrl": null,
-      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/deep-learning-model-estimating-breast-density-could-help-with-predicting-cancer-risk/99338448",
-      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/deep-learning-model-estimating-breast-density-could-help-with-predicting-cancer-risk/99338448",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-99338448,imgsize-33232,width-1200,height=765,overlay-ethealth/health-it/deep-learning-model-estimating-breast-density-could-help-with-predicting-cancer-risk.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/deep-learning-model-estimating-breast-density-could-help-with-predicting-cancer-risk/99338448",
-      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/deep-learning-model-estimating-breast-density-could-help-with-predicting-cancer-risk/99338448",
-      "publishedDateTime": "2023-04-08T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "health.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-08-azure-previews-nd-h100-v5-virtual-machines-to-accelerate-generative-ai.md",
-      "title": "Azure Previews ND H100 V5 Virtual Machines to Accelerate Generative AI",
-      "excerpt": "Azure recently announced the preview of the ND H100 v5, virtual machines that integrate the latest Nvidia H100 Tensor Core GPUs and support Quantum-2 InfiniBand networking. According to Microsoft, the new option will offer AI developers improved performance and scaling across thousands of GPUs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/04/azure-nd-H100-nvidia/",
-      "originalUrl": "https://www.infoq.com/news/2023/04/azure-nd-H100-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-08T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

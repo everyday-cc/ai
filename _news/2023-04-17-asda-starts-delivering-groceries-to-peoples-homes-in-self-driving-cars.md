@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Asda and Wayve launch UK’s largest self-driving grocery home delivery trial"
+    excerpt: "The Wayve self-driving vehicles will join Asda’s existing online delivery operation and have the capability to drive themselves to customers’ homes."
+    publishedDateTime: 2023-04-17T08:16:00Z
+    webUrl: "https://bmmagazine.co.uk/news/asda-and-wayve-launch-uks-largest-self-driving-grocery-home-delivery-trial/"
+    ampWebUrl: "https://bmmagazine.co.uk/news/asda-and-wayve-launch-uks-largest-self-driving-grocery-home-delivery-trial/?amp"
+    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/news/asda-and-wayve-launch-uks-largest-self-driving-grocery-home-delivery-trial/?amp"
+    type: article
+    provider:
+      name: Business Matters
+      domain: bmmagazine.co.uk
+    quality: 42
+    images:
+      - url: "https://bmmagazine.co.uk/wp-content/uploads/2023/04/PinPep_Asda_Wayve_005-scaled.jpg"
+        width: 799
+        height: 600
+        isCached: true
   - title: "Asda adds ‘self-driving’ vehicles to its west London delivery fleet"
     excerpt: "Asda is trialling driverless delivery vehicles in what it describes as Britain’s biggest autonomous grocery home delivery trial."
     publishedDateTime: 2023-04-17T06:42:00Z

@@ -2,6 +2,250 @@
   "page": 99,
   "value": [
     {
+      "path": "_news/2023-01-24-chinese-driverless-trains-connect-istanbul-with-airport.md",
+      "title": "Chinese driverless trains connect Istanbul with airport",
+      "excerpt": "New metro line operated with Chinese-made automated driverless trains capable of speed of up to 74.5 miles (120 kilometers) per hour with daily capacity of 800,000 passengers now connects central ...",
+      "sourceUrl": null,
+      "webUrl": "https://eturbonews.com/chinese-driverless-trains-connect-istanbul-with-airport/",
+      "originalUrl": "https://eturbonews.com/chinese-driverless-trains-connect-istanbul-with-airport/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s9h7f8a7.rocketcdn.me/wp-content/uploads/2023/01/0a-4.jpg",
+          "width": 640,
+          "height": 368,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-23T13:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eturbonews",
+        "domain": "eturbonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-24-seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023.md",
+      "title": "Seamless Checkout, AI, Robotics News From Microsoft, Google, Brain Corp And More At NRF 2023",
+      "excerpt": "Vice President and Principal Analyst Melody Brue looks at some of the companies and products showcased at NRF 2023 that maximize the three pillars of an excellent shopping experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/01/23/seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/01/23/seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ceffd2b891403906766ec0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/01/23/seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/01/23/seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023/amp/",
+      "publishedDateTime": "2023-01-23T12:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-24-zeekr-goes-on-a-hiring-spree-tesla-kicks-off-a-price-war-and-hesai-files-for-an-ipo.md",
+      "title": "Zeekr goes on a hiring spree, Tesla kicks off a price war and Hesai files for an IPO",
+      "excerpt": "The Station, a weekly newsletter focused on transportation, looks at Zeekr's hiring spree, Tesla troubles and a price war, and Hesai's IPO.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/01/23/zeekr-goes-on-a-hiring-spree-tesla-kicks-off-a-price-war-and-hesai-files-for-an-ipo/",
+      "originalUrl": "https://techcrunch.com/2023/01/23/zeekr-goes-on-a-hiring-spree-tesla-kicks-off-a-price-war-and-hesai-files-for-an-ipo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/waymo-zeekr-logo.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/01/23/zeekr-goes-on-a-hiring-spree-tesla-kicks-off-a-price-war-and-hesai-files-for-an-ipo/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/23/zeekr-goes-on-a-hiring-spree-tesla-kicks-off-a-price-war-and-hesai-files-for-an-ipo/amp/",
+      "publishedDateTime": "2023-01-23T11:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-24-decoding-the-chatgpt-craze-artificial-intelligence-is-here-and-it-wants-to-chat-beyond-the-headline.md",
+      "title": "Decoding The ChatGPT Craze | Artificial Intelligence Is Here And It Wants To Chat! | Beyond The Headline",
+      "excerpt": "In this episode of Beyond The Headline, the host Tamanna Inamdar will be discussing how There has been a lot of interest in the ChatGPT chatbot since its recent release in November 2022. Essentially,",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/videos/mirror-now/shows/decoding-the-chatgpt-craze-artificial-intelligence-is-here-and-it-wants-to-chat-beyond-the-headline-video-97259700",
+      "originalUrl": "https://www.timesnownews.com/videos/mirror-now/shows/decoding-the-chatgpt-craze-artificial-intelligence-is-here-and-it-wants-to-chat-beyond-the-headline-video-97259700",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tnn.in/thumb/msid-97259700,imgsize-100,updatedat-1674494762567,width-1280,height-720,resizemode-75/97259700.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/videos/mirror-now/shows/decoding-the-chatgpt-craze-artificial-intelligence-is-here-and-it-wants-to-chat-beyond-the-headline-video-97259700/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/videos/mirror-now/shows/decoding-the-chatgpt-craze-artificial-intelligence-is-here-and-it-wants-to-chat-beyond-the-headline-video-97259700/amp",
+      "publishedDateTime": "2023-01-23T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-24-how-to-stop-facial-recognition-cameras-from-monitoring-your-every-move.md",
+      "title": "How to stop facial recognition cameras from monitoring your every move",
+      "excerpt": "As was the case for New Jersey native Kelly Conlan. Conlan was just passing through security at an event at Radio City Music Hall when security stopped her and refused to let her into a Rockettes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/how-stop-facial-recognition-cameras-monitoring-your-every-move",
+      "originalUrl": "https://www.foxnews.com/tech/how-stop-facial-recognition-cameras-monitoring-your-every-move",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4637f8a2-8a8b-4e88-ad30-23a60beee5a2/a469454b-e28d-428c-b4b0-b4c0d04de9b2/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/how-stop-facial-recognition-cameras-monitoring-your-every-move.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-stop-facial-recognition-cameras-monitoring-your-every-move.amp",
+      "publishedDateTime": "2023-01-23T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-01-24-the-human-side-of-generative-ais-gold-rush-the-ai-beat.md",
       "title": "The human side of generative AI’s gold rush | The AI Beat",
       "excerpt": "The current gold rush to capitalize on generative AI is, ultimately, about financial gain. Let's not forget the human toll.",
@@ -897,212 +1141,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-23-machine-learning-or-automation-whats-the-difference.md",
-      "title": "Machine Learning or Automation: What’s the Difference?",
-      "excerpt": "Machine learning is a rapidly developing subset of artificial intelligence that focuses on analyzing large data quantities, typically to make predictions. AI systems can’t truly think yet ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessnewsdaily.com/10352-machine-learning-vs-automation.html",
-      "originalUrl": "https://www.businessnewsdaily.com/10352-machine-learning-vs-automation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.businessnewsdaily.com/app/uploads/2022/04/04075911/1554238485.jpeg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business News Daily",
-        "domain": "businessnewsdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-23-new-soft-robots-poised-to-be-more-agile-controlled.md",
-      "title": "New soft robots poised to be more agile, controlled",
-      "excerpt": "One of the virtues of untethered soft robots is their ability to mechanically adapt to their surroundings and tasks. Now they are poised to become even more agile and controlled. A team of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/01/230123123319.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/01/230123123319.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-23-self-driving-cars-reliability-challenges-solutions-and-social-adoption.md",
-      "title": "Self-Driving Cars: Reliability Challenges, Solutions, and Social Adoption",
-      "excerpt": "Manish Gupta is working on making self-driving cars, machine learning, and artificial intelligence safer and more reliable. (Image source: Manish Gupta) The strict reliability standards are critical for human safety and to help drive social acceptance of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/self-driving-cars-reliability-challenges-solutions-and-social-adoption",
-      "originalUrl": "https://www.designnews.com/electronics-test/self-driving-cars-reliability-challenges-solutions-and-social-adoption",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-23-the-double-edged-sword-of-ai-in-healthcare-cybersecurity.md",
-      "title": "The Double-Edged Sword of AI in Healthcare Cybersecurity",
-      "excerpt": "As artificial intelligence, or AI, grows in popularity for simplifying workflows and diagnosing patients, healthcare leaders need to understand that AI use is also increasing among cyberattackers. IBM defines AI as \"a field that combines computer science and robust datasets to enable problem-solving.",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthcareinfosecurity.com/blogs/double-edged-sword-ai-in-healthcare-cybersecurity-p-3359",
-      "originalUrl": "https://www.healthcareinfosecurity.com/blogs/double-edged-sword-ai-in-healthcare-cybersecurity-p-3359",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://4a7efb2d53317100f611-1d7064c4f7b6de25658a4199efb34975.ssl.cf1.rackcdn.com/double-edged-sword-ai-in-healthcare-cybersecurity-showcase_image-6-p-3359.jpg",
-          "width": 860,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "healthcareinfosecurity.com",
-        "domain": "healthcareinfosecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-23-the-nvidia-dgx-2-is-the-worlds-largest-gpu-and-its-made-for-ai.md",
-      "title": "The Nvidia DGX-2 Is the World's Largest GPU, and It's Made for AI",
-      "excerpt": "Now the chipmaker, known traditionally as a graphics processor company, has made a definitive statement into pivoting itself into an AI and enterprise hardware manufacturer with the announcement of the DGX-2, the “largest GPU ever created.” Prior to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/nvidia-dgx-2-worlds-largest-gpu-and-its-made-ai",
-      "originalUrl": "https://www.designnews.com/electronics-test/nvidia-dgx-2-worlds-largest-gpu-and-its-made-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/NVIDIA_DGX-2_cropped_1522130618.jpg",
-          "width": 1314,
-          "height": 986,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

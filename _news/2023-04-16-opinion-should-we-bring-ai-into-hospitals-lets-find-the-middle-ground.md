@@ -39,15 +39,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "Opinion: AI Won’t Take Over if We Value Creatives"
-    excerpt: "The promise of the AI future is efficient and abundant content, but AI models have proved time and again that they perpetuate biases, misunderstand cultural context and prioritize being convincing over telling the truth."
-    publishedDateTime: 2023-04-12T16:23:00Z
-    webUrl: "https://www.govtech.com/opinion/opinion-ai-wont-take-over-if-we-value-creatives"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 19
 
 secured: "+bx1QBEMR60WJOwuvjFkP01hDy01S5icrFXCeq6P/6BQiaKnqDTSibZS+t+QsqiBbAwqhcqO1Uv8/KPu3HQJ3o2v9oB62PyqJHuqNaUpJMibo5xN917WrLW4mX/4CoO1DPdIHUEa32fZQ+asS+xY/Wkpbi3CT36tderp95a/AaJMqv7vkyCVx3SlQm6M3pDt3FOXkIrk5mpOv1JVuwhlS8QwyBarZsAJ9NFM4qdO3PY87sPlfTWxCm2Vqb6qKlL2H2odaRg5/E/RPP2gaVFaPoSqC2SNSYh/qrCwPkZOIXTj4g4Kft14iLV3TbYlkWTF7R6xZtju8m35WjT8lgspA6rPvqqFN92HeYGgE0wbzZE=;sT26pbsx6rRckqFwGVxkBg=="
 ---

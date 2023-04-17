@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "2023-2030 Artificial Intelligence (AI) Market Size and Share Trends"
-    excerpt: "Global \"Artificial Intelligence (AI) Market\" research report provides Innovative Insights on the Strategies adopted by Major Global Players [Nvidia Corporation, Banjo, Megvii Technology Limited, Microsoft Corporation,"
-    publishedDateTime: 2023-04-12T16:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2030-artificial-intelligence-ai-market-size-and-share-trends-2023-04-12"
+  - title: "Industry Research Report on Artificial Intelligence (AI) Chips Market Share and Industrial Overview till 2030"
+    excerpt: "Apr 14, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global \"Artificial Intelligence"
+    publishedDateTime: 2023-04-14T11:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/industry-research-report-on-artificial-intelligence-ai-chips-market-share-and-industrial-overview-till-2030-2023-04-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 84
+    quality: 80
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

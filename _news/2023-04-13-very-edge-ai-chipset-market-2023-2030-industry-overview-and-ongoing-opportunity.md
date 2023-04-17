@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence in Retail Market [2023-2030] | The Impact of Trend and Technology on the Industry"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 14, 2023 (The Expresswire) -- Global “Artificial Intelligence in Retail Market” (2023-2030) research report provides precise data related to key competition ..."
-    publishedDateTime: 2023-04-14T21:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-retail-market-2023-2030-the-impact-of-trend-and-technology-on-the-industry-2023-04-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2023 Machine Learning Recommendation Algorithm Market Insights & Opportunities by 2030"
     excerpt: "Short Description About Machine Learning Recommendation Algorithm Market: The Machine Learning Recommendation Algorithm market has witnessed a growth from USD million to USD million from 2017 to 2022."
     publishedDateTime: 2023-04-16T17:41:00Z

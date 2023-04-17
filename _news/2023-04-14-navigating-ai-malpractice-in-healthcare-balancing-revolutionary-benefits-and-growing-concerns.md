@@ -7,7 +7,7 @@ originalUrl: "https://marketscale.com/industries/software-and-technology/navigat
 webUrl: "https://marketscale.com/industries/software-and-technology/navigating-ai-malpractice-in-healthcare-balancing-revolutionary-benefits-and-growing-concerns/"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver meaningful outcomes"
-    excerpt: "In our latest release for Microsoft Cloud for Healthcare, we’re excited to share how we can help your organization deliver exceptional patient and member experiences, and more."
-    publishedDateTime: 2023-04-12T15:14:00Z
-    webUrl: "https://www.microsoft.com/en-us/industry/blog/health/2023/04/12/microsoft-cloud-for-healthcare-empowering-healthcare-to-deliver-meaningful-outcomes/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 29
 
 secured: "LTip2osWXZ9p/dL41kskoSmVEFlH9jh2+2JXhze0BnmuzjgQH90Z5s+wFrrUbYybifY77M2AheLdtfNbQ+/P0h+815LrSe5iK8Fo1Ht9+k/IfRo52FzAsFJrZO9F1XL9DFjd7l1hKo0Ebn9knYnqBIUsZxbULfrVG3qIYAWGAMSruiIC5hJ4mfX5U+QerEzxl5+JM/Ol+jux1NkXhPPSzD39W6tsJHrBeXTRBL8ylx7A5mcmdYeBH+bXxpHnN2Fz6kaQrrdUdc/81duie5IhK3JTJIx8pz6RlslG6W8vp4zA0SnYiIIoFl3r/M5Cbh7ZOAgdxuvqPxlCEZ3mg/J4gHXxdsqBLHl48WiFpSxOZEgB36x7nZQ8mb3Q2yJJcKlFUkU4wSbF63Qktgn9pcJ5AI4OzxLfL72gg2uy1FSLO7f2TSxUEIZzwOPoFjo3PVpPUU59PKc9Ez6dywVDaPJRwxjJxX70uIYNcYgXqfANUejgpNZots8+6QV1dltXa4mvc6+7iFb4TXGI3fP0xiZ0QQ==;KBSloYinQHOuiZGXvOOenQ=="
 ---

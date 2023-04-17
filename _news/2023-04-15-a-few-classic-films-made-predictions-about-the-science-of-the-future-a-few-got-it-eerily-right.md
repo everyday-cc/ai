@@ -3,18 +3,18 @@ category: news
 title: "A few classic films made predictions about the science of the future. A few got it eerily right"
 excerpt: "Here's what some notable films get right about science and tech — and what's still the stuff of science fiction."
 publishedDateTime: 2023-04-15T01:05:00Z
-originalUrl: "https://www.kcra.com/article/films-predictions-science-future/43605947"
-webUrl: "https://www.kcra.com/article/films-predictions-science-future/43605947"
-ampWebUrl: "https://www.kcra.com/amp/article/films-predictions-science-future/43605947"
-cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/films-predictions-science-future/43605947"
+originalUrl: "https://www.wlwt.com/article/films-predictions-science-future/43605947"
+webUrl: "https://www.wlwt.com/article/films-predictions-science-future/43605947"
+ampWebUrl: "https://www.wlwt.com/amp/article/films-predictions-science-future/43605947"
+cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/films-predictions-science-future/43605947"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: kcra.com
-  domain: kcra.com
+  name: WLWT
+  domain: wlwt.com
 
 topics:
   - AI in Healthcare
@@ -102,6 +102,6 @@ related:
         height: 280
         isCached: true
 
-secured: "RPmR0ptsXlmBE7kWCHSiAChs7vIVBMICd2/P8+/mN2HDwLbBXSaFrRTO+WGar6SwrL7jWi0uXwULdR3y6FiSJSf1GD5vCilTXHWYzxKnZuQhvG0ET+ViRkq40x52JKAKZ69jxdiFyJJJyRa5Haajd5Q4Z8nlUxgaIoT7CKIL3OsEc0YfC3cgPmvhAYirq52R4pX4Rsr2sw+RHzVdTAOG7kYHQGODPuVp3CNBO+6NUL6/uN8jM1U2dyrh4OlnDX3fv7nzeyLLs24SOYR6rUX1e2D0n29nB8d691v7jszxc7oZu7KUv5tk2jphNiwnvPQPiNvOJD/32eUusypcHocZPxD1s5YuQg9pwkTSEGE8BRI=;9kdQBMwsQztubnkyu0ismA=="
+secured: "rjwPSqYTc/QyvPfWhZU//Q4BjpclvpLSUdfDYbIOUErNy4hkIHU2BBF+4zxAY1VcxqyVi90Mb0IkYz7LR7kn0E3/qF8bKfOV91qozmKRJ6Ev9kaB3R81dc17ZyzCjKHgq8c7fZHhoAcdrLA/1soow7o9jdRVoKu6jJ4TBR9dMFc90FbiPPi+LVKDev/8VvmRRUSsw6yOYHW4B8F2bWySdBO8ZsdptEjqXLAuL4Vr9XJlEVplfq3xq6C+gkB5uC5RLrwjSNGtihMeL29uuqp7qZGST3bx7fNbCnECw8CzwnoZjogwCV40bZXnSQcyJe+XD4/N1ae2wnJ0APzcd+x+G4hfZGsGVJap88+hNRwg2Sk=;ONfyQfA7n4N0pMPIj/YMTA=="
 ---
 

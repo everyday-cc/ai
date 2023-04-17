@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-10-chatgpt-now-available-in-microsoft-azure-openai-service-preview.md",
+      "title": "ChatGPT now available in Microsoft Azure OpenAI service preview",
+      "excerpt": "Microsoft has announced that OpenAI's ChatGPT is now available for preview in its Azure OpenAI service. Now developers can integrate custom AI-powered experiences directly into their applications using ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/technology-science/chatgpt-now-available-in-microsoft-azure-openai-service-preview-article-98534443",
+      "originalUrl": "https://www.timesnownews.com/technology-science/chatgpt-now-available-in-microsoft-azure-openai-service-preview-article-98534443",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-09T22:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-10-reducing-costs-removing-complexity-and-unlocking-efficiencies-how-financial-services-organisations-in-anz-are-doing-more-with-less.md",
       "title": "Reducing costs, removing complexity and unlocking efficiencies: How financial services organisations in ANZ are doing more with less",
       "excerpt": "One of those is National Australia Bank (NAB), which used Microsoft’s Azure Cognitive Services and Bot Framework to create a unique chatbot to handle tech support requests from its 40,000-plus workforce. The chatbot saved NAB A$1.2 million in support ...",
@@ -1320,50 +1354,6 @@
         "AI",
         "AI in Security",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-how-cognitive-behavioral-therapy-tackles-communication.md",
-      "title": "How Cognitive Behavioral Therapy Tackles Communication",
-      "excerpt": "Communication is one of the major skills covered in cognitive behavioral therapy. Although therapy is often with an individual, relationship problems are a common focus of treatment. Helping ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/all-about-cognitive-and-behavior-therapy/202302/how-cognitive-behavioral-therapy-tackles",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/all-about-cognitive-and-behavior-therapy/202302/how-cognitive-behavioral-therapy-tackles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-02/Assertive_senior-g26db35f1e_1280.jpg?itok=DQVHFqPR",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/all-about-cognitive-and-behavior-therapy/202302/how-cognitive-behavioral-therapy-tackles?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/all-about-cognitive-and-behavior-therapy/202302/how-cognitive-behavioral-therapy-tackles?amp",
-      "publishedDateTime": "2023-03-02T07:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

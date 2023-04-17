@@ -71,6 +71,20 @@ related:
         width: 2048
         height: 1151
         isCached: true
+  - title: "Coalition at odds over facial recognition technology for gardaí"
+    excerpt: "Coalition leaders appear to be at odds when it comes to facial recognition technology for gardaí. Minister for Justice Simon Harris wants to include the technology in an amendment currently going through the legislative process."
+    publishedDateTime: 2023-04-17T09:36:00Z
+    webUrl: "https://www.breakingnews.ie/ireland/coalition-at-odds-over-facial-recognition-technology-for-gardai-1463642.html"
+    type: article
+    provider:
+      name: BreakingNews.ie
+      domain: breakingnews.ie
+    quality: 39
+    images:
+      - url: "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjNcXFwvMDJcXFwvMjExNDE2MzRcXFwvQ0MtUE9TVC1DQUJJTkVULUJSSUVGSU5HLV8yMy5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjVmNDFmM2I4N2I4ZjQwOWNmMWViNjAzZDA1NDAzY2Y0Nzg3NmQxYzEifQ==/coalition-at-odds-over-facial-recognition-technology-for-garda.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Tánaiste Micheál Martin backs plans to fast-track use of controversial Facial Recognition Technology by the Garda"
     excerpt: "Tánaiste Micheál Martin has backed plans to fast-track the use of contentious Facial Recognition Technology by the Garda without dedicated legislation, amid signs of a growing internal row in the coalition on the issue."
     publishedDateTime: 2023-04-16T15:38:00Z

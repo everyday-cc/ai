@@ -2,6 +2,195 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-15-3-generative-ai-misunderstandings-resolved-for-enterprise-success.md",
+      "title": "3 generative AI misunderstandings resolved for enterprise success",
+      "excerpt": "ChatGPT, Bing AI and other generative AI tools have arrived. Will we surrender to the algorithms, or is there more nuance to the story?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/3-generative-ai-misunderstandings-resolved-for-enterprise-success/",
+      "originalUrl": "https://venturebeat.com/ai/3-generative-ai-misunderstandings-resolved-for-enterprise-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/03/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.3x2.jpg?w=1200&strip=all",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/3-generative-ai-misunderstandings-resolved-for-enterprise-success/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-generative-ai-misunderstandings-resolved-for-enterprise-success/amp/",
+      "publishedDateTime": "2023-04-14T17:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-15-amazon-web-services-joins-other-tech-giants-in-ai-race.md",
+      "title": "Amazon Web Services Joins Other Tech Giants in AI Race",
+      "excerpt": "The Amazon Web Services unit on Thursday announced two of its own large-language models, one designed to generate text, and another that could help power web search personalization, among other things.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/artificial-intelligence/amazon-web-services-joins-other-tech-giants-in-ai-race",
+      "originalUrl": "https://www.govtech.com/artificial-intelligence/amazon-web-services-joins-other-tech-giants-in-ai-race",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/d8cb57a/2147483647/strip/true/crop/2827x1474+0+164/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9b%2F8f%2F3ccec57142619f6048f4696f6d00%2Fbiz-cpt-ai-amazon-dmt.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/artificial-intelligence/amazon-web-services-joins-other-tech-giants-in-ai-race?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/amazon-web-services-joins-other-tech-giants-in-ai-race?_amp=true",
+      "publishedDateTime": "2023-04-14T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-04-15-3-thrilling-robotics-stocks-for-aggressive-investors-to-buy.md",
+      "title": "3 Thrilling Robotics Stocks for Aggressive Investors to Buy",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The buzz surrounding generative artificial intelligence (AI) this year is",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-thrilling-robotics-stocks-to-buy-1032233798",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-thrilling-robotics-stocks-to-buy-1032233798",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T15:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-15-hype-grows-over-autonomous-ai-agents-that-loop-gpt-4-outputs.md",
+      "title": "Hype grows over “autonomous” AI agents that loop GPT-4 outputs",
+      "excerpt": "Since the launch of OpenAI's GPT-4 API last month to beta testers, a loose group of developers have been experimenting with making agent-like (\"agentic\") implementations of the AI model that attempt to carry out multistep tasks with as little human intervention as possible.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/04/hype-grows-over-autonomous-ai-agents-that-loop-gpt-4-outputs/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/04/hype-grows-over-autonomous-ai-agents-that-loop-gpt-4-outputs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/homebrew_agi_hero_1-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/04/hype-grows-over-autonomous-ai-agents-that-loop-gpt-4-outputs/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/04/hype-grows-over-autonomous-ai-agents-that-loop-gpt-4-outputs/amp/",
+      "publishedDateTime": "2023-04-14T15:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-15-zooms-virtual-agent-brings-ai-powered-resolutions-to-contact-centers.md",
       "title": "Zoom’s Virtual Agent Brings AI-Powered Resolutions To Contact Centers",
       "excerpt": "Vice President & Principal Analyst, Modern Work, Melody Brue, looks at how generative AI chatbots are becoming critical to customer satisfaction and uncovering how Zoom developed its bot codenamed Zoe.",
@@ -301,7 +490,7 @@
       "originalUrl": "https://www.therobotreport.com/microsoft-siemens-to-drive-industrial-productivity-with-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -881,6 +1070,57 @@
       ]
     },
     {
+      "path": "_news/2023-04-14-cios-meet-your-new-colleagues-chief-data-analytics-and-ai-officers.md",
+      "title": "CIOs, Meet Your New Colleagues: Chief Data, Analytics and AI Officers",
+      "excerpt": "Collaboration is key as more companies hive off duties held by IT officers and create positions to better use data and manage emerging tech like ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/cios-meet-your-new-colleagues-chief-data-analytics-and-ai-officers-af6b58b9",
+      "originalUrl": "https://www.wsj.com/articles/cios-meet-your-new-colleagues-chief-data-analytics-and-ai-officers-af6b58b9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-763258/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-14-dissident-artist-ai-weiwei-recreated-a-monet-masterpiece-entirely-in-lego.md",
       "title": "Dissident artist Ai Weiwei recreated a Monet masterpiece entirely in Lego",
       "excerpt": "Artist and activist Ai Weiwei is examining design, history, and what humans choose to value in his exhibition “Making Sense” at London’s Design Museum (Opens in a new tab).",
@@ -963,251 +1203,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-video-conferencing-transcribing-market-growing-demand-and-trends-2023-to-2030-amazon-transcribe-nuance-google-ibm-watson.md",
-      "title": "Video Conferencing Transcribing Market Growing Demand and Trends 2023 to 2030 | Amazon Transcribe, Nuance, Google, IBM WATSON",
-      "excerpt": "TheVideo Conferencing Transcribing Market Report is a categorized analysis of local and global markets that provides",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/video-conferencing-transcribing-market-growing-demand-and-trends-2023-to-2030-amazon-transcribe-nuance-google-ibm-watson-2023-04-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/video-conferencing-transcribing-market-growing-demand-and-trends-2023-to-2030-amazon-transcribe-nuance-google-ibm-watson-2023-04-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T21:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-artificial-intelligence-ai-chip-market-by-2030-future-scope-and-predictions.md",
-      "title": "Artificial Intelligence (AI) Chip Market by 2030: Future Scope and Predictions",
-      "excerpt": "The Artificial Intelligence (AI) Chip Market has been comprehensively examined in a new research report published",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-by-2030-future-scope-and-predictions-2023-04-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-by-2030-future-scope-and-predictions-2023-04-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-amazon-jumps-into-the-generative-ai-race-with-new-cloud-service.md",
-      "title": "Amazon jumps into the generative AI race with new cloud service",
-      "excerpt": "The announcement indicates the largest provider of cloud infrastructure won’t be leaving a trendy growth area to challengers such as Google and Microsoft.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/amazon-jumps-generative-race-new-cloud-service-rcna79599",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/amazon-jumps-generative-race-new-cloud-service-rcna79599",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 331,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211215-las-vegas-the-venetian-expo-aws-ac-1159p-b07aeb.jpg",
-          "width": 2500,
-          "height": 1663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna79599",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna79599",
-      "publishedDateTime": "2023-04-13T18:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-arizona-mother-describes-ai-phone-scam-faking-daughters-kidnapping-it-was-completely-her-voice.md",
-      "title": "Arizona mother describes AI phone scam faking daughter's kidnapping: 'It was completely her voice'",
-      "excerpt": "Computer science professor Subbarao Kambhampati warned that these stories of voice-cloning technology and catfish schemes could become more common as AI technology improves. \"In the beginning, it would require a larger amount of samples. Now there are ways ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/arizona-mother-describes-ai-phone-scam-faking-daughters-kidnapping-completely-voice",
-      "originalUrl": "https://www.foxnews.com/media/arizona-mother-describes-ai-phone-scam-faking-daughters-kidnapping-completely-voice",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8eb80cf8-e162-478d-abd8-c8fbc0f1273a/01e11506-91c2-44be-a50c-2ebd0c02eebe/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/arizona-mother-describes-ai-phone-scam-faking-daughters-kidnapping-completely-voice.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/arizona-mother-describes-ai-phone-scam-faking-daughters-kidnapping-completely-voice.amp",
-      "publishedDateTime": "2023-04-13T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-ai-and-ml-the-new-frontier-for-data-center-innovation-and-optimization.md",
-      "title": "AI and ML: The new frontier for data center innovation and optimization",
-      "excerpt": "By implementing AI and ML, companies can create autonomous data centers that optimize a multitude of data engineering tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/ai-and-ml-the-new-frontier-for-data-center-innovation-and-optimization/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/ai-and-ml-the-new-frontier-for-data-center-innovation-and-optimization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

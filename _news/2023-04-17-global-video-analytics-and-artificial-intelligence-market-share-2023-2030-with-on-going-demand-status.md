@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Video Conferencing Transcribing Market Growing Demand and Trends 2023 to 2030 | Amazon Transcribe, Nuance, Google, IBM WATSON"
-    excerpt: "TheVideo Conferencing Transcribing Market Report is a categorized analysis of local and global markets that provides"
-    publishedDateTime: 2023-04-14T04:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/video-conferencing-transcribing-market-growing-demand-and-trends-2023-to-2030-amazon-transcribe-nuance-google-ibm-watson-2023-04-14"
+  - title: "CIOs, Meet Your New Colleagues: Chief Data, Analytics and AI Officers"
+    excerpt: "Collaboration is key as more companies hive off duties held by IT officers and create positions to better use data and manage emerging tech like ChatGPT."
+    publishedDateTime: 2023-04-14T10:00:00Z
+    webUrl: "https://www.wsj.com/articles/cios-meet-your-new-colleagues-chief-data-analytics-and-ai-officers-af6b58b9"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 76
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://images.wsj.net/im-763258/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "BS5p3Z9Yx4h5T5DdObRoFfTNRbGYCsjBcls45sZqj58Mjh4RPDNTyi/8QlIyo4z2zzvBqNn4THUt0uPDengqV4f7wGxf/UbYk4QuEX0kj6AlzQfizQk3xt2/SGqGDidKWFyYyT+7+2tprj17oRrGgP91xIX+GZXhroAJoPEUdAtTuLpiS02NeFtB9LYAtBJvZUofPm0jMnV12gk+PsjZWLQD0KvjACY4JoaeoKaBknzHhA7Od0OCfrX72UE3nBqXqXngttenx/Y1z1Qgm6jYxbKzjc+Xdws6Q5ItX19dh+MLZYuludZwndl44uE2+MSCOdOiD5FOvSSij7/ZnKBCrXqTgNmMTCPybBwhJF1ZS1w=;Kn68h23NolPFCaUbm6uFpw=="

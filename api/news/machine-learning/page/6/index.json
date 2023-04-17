@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-02-28-global-automated-machine-learning-market-report-2023-surge-in-application-of-satellite-imagery-in-various-sectors-bolsters-growth.md",
+      "title": "Global Automated Machine Learning Market Report 2023: Surge in Application of Satellite Imagery in Various Sectors Bolsters Growth",
+      "excerpt": "In 2022, the automated machine learning market size stood at USD 631 million, which is projected to witness a 49.2% CAGR during 2022-2030, reaching USD 15,499.3 million by 2030 as per the report. The major factors accountable for the development of the market include the growing demand for effective fraud-finding solutions and the rising need for personalized product recommendations.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/02/28/9768634.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/02/28/9768634.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-28-this-week-in-data-the-ml-ai-and-data-landscape-with-matt-turck.md",
       "title": "This week in data: The ML, AI and data landscape with Matt Turck",
       "excerpt": "What happened in data this week? Matt Turck joins Bruno Aziza to discuss key trends and the current ML, AI and data landscape.",
@@ -1339,61 +1373,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-federated-learning-at-the-edge-may-out-compete-the-cloud-on-privacy-speed-and-cost.md",
-      "title": "Federated learning at the edge may out-compete the cloud on privacy, speed and cost",
-      "excerpt": "How federated learning at the edge can improve latency, reduce network calls, drive efficiency, improve model accuracy and promote privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/federated-learning-at-the-edge-may-out-compete-the-cloud-on-privacy-speed-and-cost/",
-      "originalUrl": "https://venturebeat.com/ai/federated-learning-at-the-edge-may-out-compete-the-cloud-on-privacy-speed-and-cost/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/edge-e1661803536445.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 547,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/federated-learning-at-the-edge-may-out-compete-the-cloud-on-privacy-speed-and-cost/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-at-the-edge-may-out-compete-the-cloud-on-privacy-speed-and-cost/amp/",
-      "publishedDateTime": "2023-02-16T21:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI",
-        "Machine Learning",
-        "AI in Finance"
       ]
     }
   ],

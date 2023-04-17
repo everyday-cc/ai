@@ -111,6 +111,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "ChatGPT and Advanced AI Face New Regulatory Push in Europe"
+    excerpt: "European Union lawmakers want to give regulators new powers to govern the development of technologies like those behind ChatGPT, the biggest push so far in the West to curb one of the hottest areas in artificial intelligence."
+    publishedDateTime: 2023-04-17T08:15:00Z
+    webUrl: "https://www.wsj.com/articles/chatgpt-and-advanced-ai-face-new-regulatory-push-in-europe-16e3282c"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-764496/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "How artificial intelligence like ChatGPT is influencing medical diagnoses"
     excerpt: "And it's inevitable that people will use it to guide our own healthcare decisions just the way we've been leaning on \"Dr. Google\" for years"
     publishedDateTime: 2023-04-15T06:11:00Z
@@ -159,6 +173,20 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 47
+  - title: "How Digital Marketing will Fundamentally Change in the Age of ChatGPT and Machine Learning"
+    excerpt: "The world of marketing is constantly evolving alongside new technological developments and consumer expectations. This means that the challenge of… | International | Marketing | Marketing |"
+    publishedDateTime: 2023-04-17T08:40:00Z
+    webUrl: "https://bdaily.co.uk/articles/2023/04/17/how-digital-marketing-will-fundamentally-change-in-the-age-of-chatgpt-and-machine-learning"
+    type: article
+    provider:
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 46
+    images:
+      - url: "https://bdaily.co.uk/images/uploads/nFDYCVjmq6Q8mgE9zwBKNr6AFaFJ5KGVLyvHbxyV.jpeg?w=1200&h=627&fm=jpg&fit=crop-50-50&s=9869362f13f1eec563c5494c0b39fa59"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Here's where AI and ChatGPT can create quick wins for insurers"
     excerpt: "Swiss insurance group Helvetia is the latest insurer to announce it is testing ChatGPT for its new customer service. Fellow Swiss insurer Zurich said last month that it was experimenting with ChatGPT to find out how AI can help with tasks such as modelling,"
     publishedDateTime: 2023-04-14T08:10:00Z

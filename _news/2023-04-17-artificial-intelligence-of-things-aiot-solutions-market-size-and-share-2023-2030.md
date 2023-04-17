@@ -28,15 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence in Marketing Market Size [2023-2030] | Share, Growth, Recent Trends, Development"
-    excerpt: "Global “Artificial Intelligence in Marketing Market” (2023-2030) research report is an expert examination on the"
-    publishedDateTime: 2023-04-14T09:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-marketing-market-size-2023-2030-share-growth-recent-trends-development-2023-04-14"
+  - title: "2023-2030, Artificial Intelligence Market Segmentation-Identifying Your Target Audience"
+    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  In This Reports Artificial Intelligence Market Segment by Type ( Natural Language Processing,"
+    publishedDateTime: 2023-04-17T05:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2030-artificial-intelligence-market-segmentation-identifying-your-target-audience-2023-04-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

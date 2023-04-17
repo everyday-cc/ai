@@ -9,7 +9,7 @@ ampWebUrl: "https://tribune.com.pk/story/2412181/financial-institutions-directed
 cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2412181/financial-institutions-directed-to-adopt-facial-recognition-feature?amp=1"
 type: article
 quality: 59
-heat: 109
+heat: 110
 published: true
 
 provider:

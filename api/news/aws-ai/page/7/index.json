@@ -2,58 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2022-12-20-accelerate-the-investment-process-with-aws-low-code-no-code-services.md",
-      "title": "Accelerate the investment process with AWS Low Code-No Code services",
-      "excerpt": "The last few years have seen a tremendous paradigm shift in how institutional asset managers source and integrate multiple data sources into their investment process. With frequent shifts in risk correlations, unexpected sources of volatility, and increasing competition from passive strategies, asset",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-the-investment-process-with-aws-low-code-no-code-services/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-the-investment-process-with-aws-low-code-no-code-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/20/accelerate-investment-process.jpg",
-          "width": 1053,
-          "height": 527,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-20T08:13:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-19-automatically-retrain-neural-networks-with-renate.md",
       "title": "Automatically retrain neural networks with Renate",
       "excerpt": "Today we announce the general availability of Renate, an open-source Python library for automatic model retraining. The library provides continual learning algorithms able to incrementally train a neural network as more data becomes available. By open-sourcing Renate, we would like to create a venue",
@@ -1372,7 +1320,50 @@
         "AI",
         "Machine Learning"
       ]
+    },
+    {
+      "path": "_news/2022-12-05-aws-reinvent-2022-round-up-data-management-ai-compute-take-centre-stage.md",
+      "title": "AWS re:Invent 2022 round-up: Data management, AI, compute take centre stage",
+      "excerpt": "AI features added to multiple services To help enterprises get more of a return on their data, AWS added new artificial intelligence (AI) features to a range of other services, including Textract, Transcribe, Kendra, CodeWhisperer, and HealthLake.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/703800/aws-re-invent-2022-round-up-data-management-ai-compute-take-centre-stage/",
+      "originalUrl": "https://www.reseller.co.nz/article/703800/aws-re-invent-2022-round-up-data-management-ai-compute-take-centre-stage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/adam_selipsky_aws_6.jpg",
+          "width": 504,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-04T19:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
     }
   ],
-  "nextPage": 8
+  "nextPage": null
 }
