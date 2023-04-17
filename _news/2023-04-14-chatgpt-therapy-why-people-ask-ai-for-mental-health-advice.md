@@ -133,20 +133,6 @@ related:
         width: 1349
         height: 900
         isCached: true
-  - title: "How ChatGPT and similar AI will disrupt education"
-    excerpt: "The new chatbot ChatGPT and other generative AI encourage cheating and offer up incorrect info, but they could also be used for good."
-    publishedDateTime: 2023-04-12T11:00:00Z
-    webUrl: "https://www.sciencenews.org/article/chatgpt-ai-artificial-intelligence-education-cheating-accuracy"
-    type: article
-    provider:
-      name: Science News
-      domain: sciencenews.org
-    quality: 56
-    images:
-      - url: "https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "GPT-4 vs. ChatGPT: AI Chatbot Comparison"
     excerpt: "GPT-4 and ChatGPT are the two trailblazers for GPT technology – which has dramatically sparked interest in generative AI and artificial intelligence in general. GPT is an abbreviation for Generative Pre-trained Transformer,"
     publishedDateTime: 2023-04-12T19:16:00Z

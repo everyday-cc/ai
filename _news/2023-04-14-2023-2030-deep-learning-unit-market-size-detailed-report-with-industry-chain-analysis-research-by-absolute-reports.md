@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "2023-2030 Speech Recognition Market Report: Latest Developments"
+    excerpt: "Apr 16, 2023 (The Expresswire) -- \"Speech Recognition Market\" information for each competitor includes (VoiceVault, Microsoft, Agnitio, ReadSpeaker"
+    publishedDateTime: 2023-04-16T17:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2030-speech-recognition-market-report-latest-developments-2023-04-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence in Marketing Market Size [2023-2030] | Share, Growth, Recent Trends, Development"
     excerpt: "Global “Artificial Intelligence in Marketing Market” (2023-2030) research report is an expert examination on the"
     publishedDateTime: 2023-04-14T09:28:00Z
@@ -57,75 +71,47 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence in Retail Market [2023-2030] | The Impact of Trend and Technology on the Industry"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 14, 2023 (The Expresswire) -- Global “Artificial Intelligence in Retail Market” (2023-2030) research report provides precise data related to key competition ..."
-    publishedDateTime: 2023-04-14T21:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-retail-market-2023-2030-the-impact-of-trend-and-technology-on-the-industry-2023-04-14"
+  - title: "2023 Automatic Speech Recognition Market : Leading Growth Drivers Analysis till 2030"
+    excerpt: "Apr 14, 2023 (The Expresswire) -- \"Automatic Speech Recognition Market\" information for each competitor includes (Validsoft Ltd, Agnito, Voxeo,"
+    publishedDateTime: 2023-04-14T16:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-automatic-speech-recognition-market-leading-growth-drivers-analysis-till-2030-2023-04-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 61
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Very Edge AI Chipset Market 2023-2030 Industry Overview and Ongoing Opportunity"
-    excerpt: "The Very Edge AI Chipset Market (2023-2030) Updated Latest Research Report is divided into various types [GPU, ASIC,"
-    publishedDateTime: 2023-04-13T09:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/very-edge-ai-chipset-market-2023-2030-industry-overview-and-ongoing-opportunity-2023-04-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-  - title: "Artificial Intelligence in Computer Networks Market | Industry Size Forecast To 2030"
-    excerpt: "The latest market research report on the Global \"Artificial Intelligence in Computer Networks Market\" is segmented"
-    publishedDateTime: 2023-04-13T21:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-industry-size-forecast-to-2030-2023-04-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Fintech Market Growth and Forecast till 2031"
-    excerpt: "The latest market research report on the Global \"AI in Fintech Market\" is segmented by Regions, Country, Company and"
-    publishedDateTime: 2023-04-13T06:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-growth-and-forecast-till-2031-2023-04-13"
+  - title: "Speech Recognition Market Key Players and Forecast till 2031"
+    excerpt: "The latest market research report on the Global \"Speech Recognition Market\" is segmented by Regions, Country, Company"
+    publishedDateTime: 2023-04-13T05:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-key-players-and-forecast-till-2031-2023-04-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-  - title: "Artificial Intelligence In Security Market 2023 Highlights, Recent Trends, Market Growth And Opportunities"
-    excerpt: "Additionally, this report evaluates technological advances made by leading players in the market and provides information on the key trends, advancements, and strategies employed by these leading companies."
-    publishedDateTime: 2023-04-13T06:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-2023-highlights-recent-trends-market-growth-and-opportunities-2023-04-13"
+  - title: "Facial Recognition Market Analysis Future Outlook Forecast 2023 to 2031"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 14, 2023 (Alliance News via COMTEX) -- Facial recognition is a biometric technology which is used for authentication and identification of individuals, by comparing the ..."
+    publishedDateTime: 2023-04-14T13:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-analysis-future-outlook-forecast-2023-to-2031-2023-04-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+  - title: "Facial Recognition Market 2023 Expected to Reach Significant Rate by 2030"
+    excerpt: "Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (Neurotechnology, Nviso, Cognitec Systems,"
+    publishedDateTime: 2023-04-13T06:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-expected-to-reach-significant-rate-by-2030-2023-04-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
-  - title: "Computer Vision Development market Outlook: Forecasting Market Value and Revenue with an expected CAGR value of 6.9% period of 2023 - 2030"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 15, 2023 (Prime PR Wire via Comtex) -- This \"Computer Vision Development Market\" Report provides detailed information regarding factors influencing the growth of the ..."
-    publishedDateTime: 2023-04-16T00:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-development-market-outlook-forecasting-market-value-and-revenue-with-an-expected-cagr-value-of-69-period-of-2023---2030-2023-04-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "SL4qV2ijo0fd/5AP9MUuRJro35oWRz23Y/CUPOQ/+Fg3GKnF/kU2Vov4UH8AR5aJzRvmN20nnndD+1vAk9D6OyBbhYQJjFjCeV//NjqL/qPksMVMtC03w2K84NcPKdIrp8na18lpRXKIMAUAiWbakT6Y0bUUSL4kZQYoMIWMSeZEb/b56fEJYzuktg87/SdUiSt/8bTOx/0n3PELJ0h13TOz6CppftmIJe5wpPvVose9h6Jvpcwdj5XFgx+fPueiBIH+68j9Xfvn4jp+PoikDiRtYmbmRML56HTqCPgT2/tbCJACIt7aLurKCKAIrW2UFmdLODR/jbEYhe+mYiesFZJ7JAg2sO3hx85nWI/z8nA=;VwoqO2z9cmAZz3ueDoLQKw=="
 ---

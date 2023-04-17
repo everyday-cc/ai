@@ -28,17 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Joins Generative AI Race, Unveils New Products"
-    excerpt: "Generative AI is a type of AI that can create new content and ideas, including conversations, stories, images, videos, and music"
-    publishedDateTime: 2023-04-14T09:19:00Z
-    webUrl: "https://www.dqindia.com/aws-joins-generative-ai-race-unveils-new-products/"
-    ampWebUrl: "https://www.dqindia.com/aws-joins-generative-ai-race-unveils-new-products/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/aws-joins-generative-ai-race-unveils-new-products/amp/"
+  - title: "AWS launches generative AI tools"
+    excerpt: "Generative artificial intelligence (AI) software such as ChatGPT has captured the imaginations of consumers and businesses alike, as they experiment with everything from search bots like Microsoft Bing Chat to embedded technology in existing customer support systems,"
+    publishedDateTime: 2023-04-13T20:47:00Z
+    webUrl: "https://www.itworldcanada.com/article/aws-launches-generative-ai-tools/536367"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 54
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 34
 
 secured: "imHVI9zlt70rxUFjSp+/L2O2VwYP8JFop/Vz+D8IN7ixGUV7S7zFR4HmKs1mXg/fZg3ifIsmbyPatHQwP4FFC6ohsVy7Y9te6w7W0cb14UZP4fyvaIz8sL3YOi4JXWYArrB3iiVsXDzrvE4C+3Sx9oquqXR5y5raYs/SQmJvNKWgmI6AC7AuBNbNd/T/4VDGUyol7wKXYhUYao9m4ZaRgjmrb+zzayJnAAMkboFMXZIP8rHiS+NPXot1MWDrqm5gK6M7ayk1TFdPPpDQicl8q6rOf53GhwWVG+0ANlHkVFoVSaUqDlnTltNol+TOeNe/EIcyOMeMS/dJwx2ZXfj0GeuWOdVMCwZTFt0HCDcXzY/KUyrM0cyvRapK677sxahd4OMb9S1Hh7F/XJyeiadUrd17lvgVRQsYMHdBYrCvTGEIEou7DZ1VK+8Td57mckNKnR92Kx6DqMweLoDJ/KGCnD7nItSYrNasN5+qtSDQxtOuwTYvc9Gq/2frjTLmpX8Km24xVwHGQRSDiqyxBNX8zg==;gr9JSKJup4uwj1CF0+rQ4w=="
 ---

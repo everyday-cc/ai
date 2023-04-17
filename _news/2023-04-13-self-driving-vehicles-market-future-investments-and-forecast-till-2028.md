@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-ma
 webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market-future-investments-and-forecast-till-2028-2023-04-13"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: MarketWatch
@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Fintech Market Growth and Forecast till 2031"
+    excerpt: "The latest market research report on the Global \"AI in Fintech Market\" is segmented by Regions, Country, Company and"
+    publishedDateTime: 2023-04-13T06:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-growth-and-forecast-till-2031-2023-04-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
 
 secured: "wRPJKac0MjB3UOMCXthFeKZdPsQAePrzux/uGcKTIcVoPTIKryhCHsxmHX0NaswJv8yRaJkM6P+eAqdi+3CUAs0GW0XRjZrIJQL93fRAB8/yXqsnvVH4ECk6ri3jYKnJ6+RVo6NzV3tIauQlAnhZpFrmQSbOHGmJCW/PnhZVAGfeFtRYStiqAy8rf81sJunIHFkcsH9vsmtCqeI2VREB3E7yEleW58PY615XwQXReunHM1636kxWcM67Sw0WKy/HTkUXT67ssXL5MsjlK+134RmT/aFWW49jEmcqlYHqZYfE4h1sD3axJQ52oSUkboIG/K2RE4q5/IrzZnJ5l8f2RSJZ73Da9zB4ffoxklu3NKs=;AzfwAELtCSF/Sc+YTYUlQA=="
 ---

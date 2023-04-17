@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Elon Musk Starts New Company, X.AI, Amid Talk of Artificial Intelligence Venture"
-excerpt: "The billionaire owner of Tesla and Twitter is named as a director in a business-incorporation document filed in March for a new company called X.ai Corp. Web domains using the “.ai” suffix — formally the “top-level” domain for the country of Anguilla — are popular with tech businesses pursuing artificial intelligence projects."
-publishedDateTime: 2023-04-15T23:09:00Z
-originalUrl: "https://www.barrons.com/articles/elon-musk-twitter-x-ai-bec69eab?refsec=hp_INTERESTS_media"
-webUrl: "https://www.barrons.com/articles/elon-musk-twitter-x-ai-bec69eab?refsec=hp_INTERESTS_media"
+excerpt: "Web domains using the “.ai” suffix are popular with tech businesses pursuing artificial intelligence projects."
+publishedDateTime: 2023-04-16T05:47:00Z
+originalUrl: "https://www.barrons.com/articles/elon-musk-twitter-x-ai-bec69eab"
+webUrl: "https://www.barrons.com/articles/elon-musk-twitter-x-ai-bec69eab"
 ampWebUrl: "https://www.barrons.com/amp/articles/elon-musk-twitter-x-ai-bec69eab"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/elon-musk-twitter-x-ai-bec69eab"
 type: article
@@ -306,15 +306,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Did That Newly Announced ChatGPT Bug Bounty Initiative By OpenAI Undershoot Its Wanted Aims, Asks AI Ethics And AI Law"
-    excerpt: "OpenAI announced a bug bounty effort associated with ChatGPT and their other AI services and products. Some laud this. Others believe it doesn't do enough. Here is the scoop on the controversy."
-    publishedDateTime: 2023-04-12T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/04/12/did-that-newly-announced-chatgpt-bug-bounty-undershoot-its-wanted-aims-asks-ai-ethics-and-ai-law/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 40
   - title: "Elon Musk launches AI start-up"
     excerpt: "Elon Musk has launched a new artificial intelligence firm X AI Corp reportedly seeking to compete with OpenAI Read Full Article at RTcom"
     publishedDateTime: 2023-04-15T06:46:00Z
@@ -512,6 +503,6 @@ related:
       domain: cointelegraph.com
     quality: 17
 
-secured: "lGGsAci/55olirPQkck3SJIQEhaKSjniDsUlvLFdUxqFqD4t1leLYr+PXoXFclo7tnZEDZhpFkQchGLfM/XNvgH2YLQCX2fKsYijrFZgpfWIXSokdAm0A7DPeSrh0aI1JtOsSGANDWl6WEluo/EjGdIH4w/pe40nC+TIBDJ7I4fEZOW3tGS3yg78LGRASUJ7zRy3xbHTLYENCjajMd6OPUSawlv4CBkIOPGd9cdF2Dkr6QxIWXw9lXhMcJuMtOxYAUP/W3TqiinQ+0Qtzy971fHLs1Own3aDAIbCh5IVOIJZrK6jSUzS3FFHIes7Mw9qukgcb7Y9N6PmaGcmaGsYfAHlhz6TtZkNKuNh97mC7YI=;WZ/+oAA8Xnm1oGVsQmWFyQ=="
+secured: "yjZr3MmcRMtzDTHc3ZncZzLvsLxuyLWFmq7M1gIiOvnQHawKrOzgWpKOl7aat5h8Gkv5jkiDc1k3YY0aZiwf4Eh4n0fg/hMfDodPOjwKiFDA4CsuE7suQmXj/lpTLbbh73P1Vk9Q85bySr49zQuHcoM4m7OdxzUS9F1cZc0NRenYs6vk9uQRG0idvzndhX7O/rXeKiGhSJAU4n/iTBKCg4pk31Tida7DAuPa4gb69TNYu3MgzHcaGp9VKQejgZyl3Ki5EZ5xVfbWFrRp1IMr6mjWM5DWtn8318Nr0D6pabPlQxo0olJC7No77Y9lHUU+PvJATlSYZozAcGO3CNuz1CsabE00Ggu1N1bU3V15VXE=;B5whbnrH2w7oSd40YmAwtQ=="
 ---
 

@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Amazon intensifies AI race with new suite of tools"
-    excerpt: "Amazon Web Services (AWS) has released a series of products aimed at helping other companies develop their own chatbots and image-generation services, backed by artificial intelligence (AI). The move comes as part of a wider AI race following the popularity of ChatGPT,"
-    publishedDateTime: 2023-04-14T10:05:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42143/amazon-intensifies-ai-race-with-new-suite-of-tools"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
 
 secured: "2vyY2UqkQLNxYAZo7miNQUPUBa7ys32jkNY0McoV0JK8qNtiJsswBqIg5yCtMiOjkqHtyEdWzdQ28Jz9ujAWUuW0F9/QlI03yKcTSvw0vO35vNQ6cY7bKCvDMIt8iXg4pF7sCINLPDAPND3ruH9+hvY6QYoTAGbe41oxOXaQK1frikE92vgeftZW8L6s/ibRKHmAITYPTmPAa0r3OkHH+wuFRS9mhBpa7nu8UyyaKlzoWOYDhLlLdVSsU84THB1q9eBeQjC3jX3mPaPiB1/WUKdZZUw2dCLWaYXdXmrLoPQKulhxhx10HWiGXsrgEWVxa5tRNwJ7NlrRz5PB54wDmg/eOeqWLMAT0TqBsaGgc5FQDXVOEeFqXxj3UMe/rkN3gW9STuTsDmDbrZSy0JlE1bGBIgtN8o0w4ZtiiZE+K5yBg09FSM8JPU1ySdaXrA+X6I74FnF97XB1X4nePoWFiU8OefynaTsLcAo5Zt2G/W3Aqj1s4OVjH3qrOPwnC2LBvpSL41tlC+PbXN3Cgp3iHg==;crLqxcZ6O3CNLqe03xq5Tw=="
 ---

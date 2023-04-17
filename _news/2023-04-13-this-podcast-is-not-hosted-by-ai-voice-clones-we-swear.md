@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/gadget-lab-podcast-594/"
 webUrl: "https://www.wired.com/story/gadget-lab-podcast-594/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Wired
@@ -26,17 +26,6 @@ images:
     width: 1280
     height: 670
     isCached: true
-
-related:
-  - title: "AI Can Clone Your Favorite Podcast Host’s Voice"
-    excerpt: "Just as artificial intelligence has proven adept at generating lifelike images, effective videos, and cogent text, similar technologies can convincingly mimic the voices of podcast hosts, content creators, and other media professionals. A new set of tools from a growing list of startups is expected to hasten AI’s conquest of our audio feeds."
-    publishedDateTime: 2023-04-12T11:00:00Z
-    webUrl: "https://www.wired.com/story/ai-podcasts-podcastle-revoice-descript/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 49
 
 secured: "JFb6Un2zvbh+Tmp4qZzLAMetEPZUfF8+lvSTjElOxyAIqqWMPP4U4wVJMcEHbR52iPiwPKIFjxCYJg9Nku2KDnlwDECFJJj/2PuCZyXWrDl8QeRGQL6zTbf+V1Q19b4nGdGtAI2hIozF7WjoYGYPmP0EYflz6stOZkJQMKyVU5dRq3Qvoh/zHDJFx1eSgDbj2nopNpvMlnPvTtCjl8DyMo9Bs/DN6/R4xdXztE9IaBBr3ZIgJ42zG5n0WiCZn/QC1TC5r4da1LLU84etvzNV6iYZqZsZOkJjiucw2VpPruyecFzuDUJlUnuBMICvF088hwBvRPNGJvFT+G0XQej/3+n4CtB2+KzvLdFur7wsvmZ8dmut7quMFnsw1rG4sLFE3qhETUSZUo2pAJ0FfyorbbqmnwRvJMYVKg6veMB+9ZGDiUx30/PQtbuyjb5d7lCiMv7Ry4NmS6TD0SKN0EoT5R9tewNfsdrFy3nhbEtaVgrmoP6qHI8bavPcOwTz7p1855aAcMF963vj3YzCBXByww==;uzxYkJg+6q34PKee+LOOWA=="
 ---

@@ -56,6 +56,15 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 34
+  - title: "Artificial Intelligence Reveals a Stunning, High-Definition View of M87’s Big Black Hole"
+    excerpt: "Astronomers used machine learning to improve the Event Horizon Telescope's first black hole image, aiding in black hole behavior understanding and testing gravitational theories. The new technique, called PRIMO,"
+    publishedDateTime: 2023-04-17T02:28:00Z
+    webUrl: "https://scitechdaily.com/artificial-intelligence-reveals-a-stunning-high-definition-view-of-m87s-big-black-hole/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 8
 
 secured: "8zd6fUzR0xRa+GAM7p5z8KVMjdwkHO6KZX7Z0twuQdkPe0QhaDdW5ItEaFDlLlfi6FXDjnOXzyYAP4PMqW5IKUezaAWvWIAUPM6BTDQQCZFQhklIqVh9O/n+Zm8ZuOKp7hZYHr34lyQbxY6YpPXnk08pC3yTqzE45XyrAL06GSN+KWhJn3nwFkrhjTlVuEwk0QxF30d9zt4ClBdLVzEzTIJ9x8/ben9OR4aQHxS5JoQFz6oukPts24zOMEZso08xcTVrU+s1fDQa8XVQyQzEB72RAOC+RFgdkSI+xYXCBrL31O3vDKhGS94zCPvAoSoGqzmbL8bAfsE1NUx0UDmiXUOzP7Z8472LlZeoJM0JG+pHaUBE4H1MZ8LPK2YtgDIx0zXPF5y3pZUTqgdh2nIY8ro7w2sV3MkN36AvoiRqJRXJEU3hcfO44VolYgdYSMEmJHU1JMCiHiGVaP6w74QwLdWtispj6YOcCQ/wZS0fdlWEQntkGonJFSSjlTVrmgWQDU7E2XkFHxi+WQSCVVY0eg==;FvSEZfoh5wgHMPLoBF5QUg=="
 ---

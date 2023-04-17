@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/shephyken/2023/04/16/how-ai-and-chatgpt
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shephyken/2023/04/16/how-ai-and-chatgpt-can-crush-customer-service/amp/"
 type: article
 quality: 89
-heat: 289
+heat: 279
 published: true
 
 provider:
@@ -122,20 +122,6 @@ related:
       - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-04/05/full/1680689278-0568.jpg"
         width: 1349
         height: 900
-        isCached: true
-  - title: "How ChatGPT and similar AI will disrupt education"
-    excerpt: "The new chatbot ChatGPT and other generative AI encourage cheating and offer up incorrect info, but they could also be used for good."
-    publishedDateTime: 2023-04-12T11:00:00Z
-    webUrl: "https://www.sciencenews.org/article/chatgpt-ai-artificial-intelligence-education-cheating-accuracy"
-    type: article
-    provider:
-      name: Science News
-      domain: sciencenews.org
-    quality: 56
-    images:
-      - url: "https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif"
-        width: 1024
-        height: 576
         isCached: true
   - title: "ChatGPT Therapy: Why People Ask AI For Mental Health Advice"
     excerpt: "ChatGPT's ability to produce seemingly-manmade text and responses within seconds amazed the world. As a result, it gained 100 million users in January, becoming the fastest-growing consumer"

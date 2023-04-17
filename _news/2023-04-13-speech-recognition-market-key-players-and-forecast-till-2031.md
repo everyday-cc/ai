@@ -23,6 +23,48 @@ topics:
   - AI
 
 related:
+  - title: "2023-2030 Speech Recognition Market Report: Latest Developments"
+    excerpt: "Apr 16, 2023 (The Expresswire) -- \"Speech Recognition Market\" information for each competitor includes (VoiceVault, Microsoft, Agnitio, ReadSpeaker"
+    publishedDateTime: 2023-04-16T17:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2030-speech-recognition-market-report-latest-developments-2023-04-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence in Marketing Market Size [2023-2030] | Share, Growth, Recent Trends, Development"
+    excerpt: "Global “Artificial Intelligence in Marketing Market” (2023-2030) research report is an expert examination on the"
+    publishedDateTime: 2023-04-14T09:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-marketing-market-size-2023-2030-share-growth-recent-trends-development-2023-04-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice And Speech Recognition Software Market | Worldwide Industry Trends 2023-2028"
+    excerpt: "The report offers essential statistical information on the market status of Voice And Speech Recognition Software"
+    publishedDateTime: 2023-04-14T06:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-worldwide-industry-trends-2023-2028-2023-04-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2023 Automatic Speech Recognition Market : Leading Growth Drivers Analysis till 2030"
     excerpt: "Apr 14, 2023 (The Expresswire) -- \"Automatic Speech Recognition Market\" information for each competitor includes (Validsoft Ltd, Agnito, Voxeo,"
     publishedDateTime: 2023-04-14T16:37:00Z
@@ -32,6 +74,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023-2030 Deep Learning Unit Market Size Detailed Report with Industry Chain Analysis | Research by Absolute Reports"
+    excerpt: "Apr 14, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry. Global “Deep Learning Unit Market”"
+    publishedDateTime: 2023-04-14T06:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2030-deep-learning-unit-market-size-detailed-report-with-industry-chain-analysis-research-by-absolute-reports-2023-04-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -55,15 +111,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
-  - title: "The Speech and Voice Recognition Technology Market is Poised to Experience Huge Growth to 2023"
-    excerpt: "Speech and Voice Recognition Technology Market Size 2023 | New Report (117 Pages) | Analytics | In This Reports Speech"
-    publishedDateTime: 2023-04-13T06:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-speech-and-voice-recognition-technology-market-is-poised-to-experience-huge-growth-to-2023-2023-04-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
 
 secured: "m9fpCkQiOsmJS+Er2becQXSM3jDH381DjTeDsAfZ0+VpldYWtV/uF094swJVofL3jIsaMi447XHpnw7X8mMgbZcA99RMlBdtR1ppvvFpjBqyQEY2m6vgLPxoCrMnw+uyn9G0MGzlMX3rBjGSFw1nhvdma8X0yhAtj/kqCRJJ79yiE64S3Nr1NrDoxF3f2edgeoeHPWBH6u1PYMrXi5LxlsgJgAIHziZ0uxCTN8edGoY/CLHFbdwdibPgscTuRi13ECwng2JRXCQu3+GyIzhTx/vvj313PCT6FCb1GlLHv5ZfN9BHntB0dO9fNAF+dWKyvATyoD76SrZdmxdyLP/xl72xRL5CR8SBZfwPqoT5/0A=;rCGhNUHITemP1SsYL8Mq/A=="
 ---

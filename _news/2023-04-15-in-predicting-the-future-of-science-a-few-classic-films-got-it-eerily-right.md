@@ -73,6 +73,20 @@ related:
         width: 498
         height: 280
         isCached: true
+  - title: "Predicting the future of science, a few classic films got it eerily right"
+    excerpt: "As audiences, we love both optimistic and pessimistic science-fiction films like these precisely because they are virtual laboratories where we can imaginatively experience the best and worst our technologies have to offer in a safe and fun environment,"
+    publishedDateTime: 2023-04-17T03:10:00Z
+    webUrl: "https://www.fbcnews.com.fj/entertainment/predicting-the-future-of-science-a-few-classic-films-got-it-eerily-right/"
+    type: article
+    provider:
+      name: fbcnews
+      domain: fbcnews.com.fj
+    quality: 23
+    images:
+      - url: "https://www.fbcnews.com.fj/wp-content/uploads/2023/04/Megan.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "In predicting the future of science, a few classic films got it eerily right"
     excerpt: "By Scottie Andrew, CNN Great sci-fi films are both fantastical and prescient. They can whisk viewers to a galaxy far, far away or exaggerate real scenarios on a fictionalized version of our planet. Bu"
     publishedDateTime: 2023-04-14T16:18:00Z

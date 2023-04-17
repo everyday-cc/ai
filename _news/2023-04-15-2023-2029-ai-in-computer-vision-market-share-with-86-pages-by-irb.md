@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-2029-ai-in-computer
 webUrl: "https://www.marketwatch.com/press-release/2023-2029-ai-in-computer-vision-market-share-with-86-pages-by-irb-2023-04-15"
 type: article
 quality: 64
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence in Computer Networks Market | Industry Size Forecast To 2030"
+    excerpt: "The latest market research report on the Global \"Artificial Intelligence in Computer Networks Market\" is segmented"
+    publishedDateTime: 2023-04-13T21:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-industry-size-forecast-to-2030-2023-04-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2023-2029 \"Artificial Intelligence In Military Market\" Survey, With 120+ Pages By IRB"
     excerpt: "The Readers in the section will understand how the Artificial Intelligence In Military market scenario changed across"
     publishedDateTime: 2023-04-15T12:58:00Z

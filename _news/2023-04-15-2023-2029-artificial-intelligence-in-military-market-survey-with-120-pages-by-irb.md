@@ -37,6 +37,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
+  - title: "Artificial Intelligence in Computer Networks Market | Industry Size Forecast To 2030"
+    excerpt: "The latest market research report on the Global \"Artificial Intelligence in Computer Networks Market\" is segmented"
+    publishedDateTime: 2023-04-13T21:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-industry-size-forecast-to-2030-2023-04-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2023 \"Artificial Intelligence in Medicine Market\" Outlook & Forecast by 2029 With 109 Pages"
     excerpt: "Market Survey: \"Global Artificial Intelligence in Medicine market size was valued at USD 2312.61 million in 2022 and"
     publishedDateTime: 2023-04-13T15:40:00Z

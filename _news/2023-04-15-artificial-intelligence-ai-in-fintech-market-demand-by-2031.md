@@ -74,15 +74,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Computer Vision Market Size Projection by 2030"
-    excerpt: "Apr (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The AI in Computer Vision Market report"
-    publishedDateTime: 2023-04-12T09:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-projection-by-2030-2023-04-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
   - title: "Artificial Intelligence (AI) As a Service Market Demand Analysis By 2030"
     excerpt: "The latest Artificial Intelligence (AI) As a Service Market Analysis is designed to help clients improve their"
     publishedDateTime: 2023-04-14T17:59:00Z

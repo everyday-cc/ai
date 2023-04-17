@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-by-2030-future-scope-and-predictions-2023-04-14"
 type: article
 quality: 95
-heat: 195
+heat: 185
 published: true
 
 provider:
@@ -66,15 +66,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Computer Vision Market Size Projection by 2030"
-    excerpt: "Apr (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The AI in Computer Vision Market report"
-    publishedDateTime: 2023-04-12T09:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-projection-by-2030-2023-04-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
   - title: "Artificial Intelligence (AI) in Fintech Market Demand by 2031"
     excerpt: "Apr 14, 2023 (The Expresswire) -- The latest market research report on the Global \"Artificial Intelligence (AI) in Fintech Market\" is segmented by Regions, Country, Company and other Segments. The global Artificial Intelligence (AI) in Fintech market is ..."
     publishedDateTime: 2023-04-14T18:21:00Z

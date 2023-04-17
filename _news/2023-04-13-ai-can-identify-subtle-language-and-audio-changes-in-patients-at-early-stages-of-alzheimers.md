@@ -41,6 +41,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "AI Can Spot Early Signs of Alzheimer’s in Speech Patterns"
+    excerpt: "Artificial intelligence can detect signs of mild cognitive decline and Alzheimer's disease, even when no symptoms are apparent, by analyzing a person's speech. The technology could be used as a simple screening method to identify early signs of cognitive impairment."
+    publishedDateTime: 2023-04-15T19:02:00Z
+    webUrl: "https://neurosciencenews.com/ai-alzheimers-speech-23017/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 39
+    images:
+      - url: "https://neurosciencenews.com/files/2023/04/alzheimers-ai-speech-neurosinces-public.jpg"
+        width: 770
+        height: 513
+        isCached: true
   - title: "A UT Southwestern doctor is using AI to speed up Alzheimer’s research"
     excerpt: "In the last year we’ve heard a lot about artificial intelligence, or AI. Advancements in this field are progressing at a rapid pace. This is especially true for the medical industry."
     publishedDateTime: 2023-04-15T03:27:00Z
