@@ -35,6 +35,22 @@ related:
         width: 1536
         height: 1183
         isCached: true
+  - title: "Asda will start delivering food to customers across London using driverless cars"
+    excerpt: "Customers across London will have their shopping delivered to their homes by 'self-driving' Jaguar I-Pace electric cars."
+    publishedDateTime: 2023-04-17T15:18:00Z
+    webUrl: "https://www.thisismoney.co.uk/money/cars/article-11981683/Asda-start-delivering-food-customers-London-using-driverless-cars.html"
+    ampWebUrl: "https://www.thisismoney.co.uk/money/cars/article-11981683/amp/Asda-start-delivering-food-customers-London-using-driverless-cars.html"
+    cdnAmpWebUrl: "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/cars/article-11981683/amp/Asda-start-delivering-food-customers-London-using-driverless-cars.html"
+    type: article
+    provider:
+      name: This is Money
+      domain: thisismoney.co.uk
+    quality: 54
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2023/04/17/15/69917209-0-image-a-2_1681740960641.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Asda and Wayve launch UK’s largest self-driving grocery home delivery trial"
     excerpt: "The Wayve self-driving vehicles will join Asda’s existing online delivery operation and have the capability to drive themselves to customers’ homes."
     publishedDateTime: 2023-04-17T08:16:00Z
@@ -79,6 +95,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Asda starts delivering food shops in SELF-DRIVING cars as part of new trial"
+    excerpt: "Asda will be delivering groceries to customers in a self driving vehicle from today as part of a new year-long trial. The big four supermarket announced the partnership with the technology firm Wayve today. The trial will see the firm's self-driving cars ..."
+    publishedDateTime: 2023-04-17T13:55:00Z
+    webUrl: "https://www.mirror.co.uk/money/asda-starts-delivering-food-shops-29731569"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 2
 
 secured: "kC2EifzoRrVWl484X2dEMpIrzSuw+My2PdpgeDWUBCCZpkY3zkLmjmvbsqWd9edYXhytKBT1wEyTdMkYJ0OzAYBDT9qkz398Ue0yioqf0YwikF33i0svbdRgh0WOaoI4FS8wByZ2J3V6b3RwQ9Hh2fjJqkqgemuS9lvGTUKapMXrPoXvRTdp1xIOKitU0Hbin5Kwiux8WmlNxYhAE/E0DJzRmgRjbMYTp7XKz/RBCFTMBHitXHuIjnv8+gglmBPoZ1w0sBZWfsiHfW6L5kNllS/QrOVXM02mXUYdWtvnsaRBfDoxxL/ql2U10/Dp8mAYumxo9RyrCy4Wtrkqf5ab4SlXMooyeQyLsnnHCfSoPSbgoLAAEOlf3cxvl8Gy3AFUMX7RccOFy2cGJPkrrfBJz7ucQYWcc461VWyZc952j3C2dT1pPvU1yTlphoGg+T886CJ85+0rsIJgEH5AyQW6qtx9vSRnFjd77iUzr56fKL4QEImUqo9Jx+rRIIcAIURIYPyuBh0X1UTr0PhCr7hqxA==;HlENNYuXbzZacfI732WhHQ=="
 ---

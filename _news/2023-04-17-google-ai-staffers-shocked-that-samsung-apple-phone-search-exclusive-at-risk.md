@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/04/17/google-160-ai-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/04/17/google-160-ai-staffers-shocked-that-samsung-apple-phone-exclusive-at-risk/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Alphabet Stock Falls on Concern About AI Threat to Google's Position in Search"
+    excerpt: "Alphabet shares are dropping, as investors worry about how competitive the company is in artificial intelligence-powered applications. In recent premarket trading, the technology giant's stock stood 4% lower at $104."
+    publishedDateTime: 2023-04-17T12:38:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-news-today-04-17-2023/card/alphabet-stock-falls-on-concern-about-ai-threat-to-google-s-position-in-search-O3oVXRlvNfswswEQp0I6"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 43
 
 secured: "QjNHD3gWadphqZIraCGJxPobkSZudf1JPOk+OOJ+s+YIoXWUQU5/UGkHQ30H5HOwQb+gylZbeMZSb54rQk6h94BQ+PNgP8qnaIraW2iL0/VMyE9kQgYnyOTt6Q+/XLQoxyEM1vtscWr6GgI1Kd3sSeakX5av9vQplWHAbXb7T6SOjJ6rvhYRQh4SHCcylnDaLD6eBZHz8eGZd0hazOv81nT0NbIFYPgDI36g3fi0sv5DUYz/T3GoAfYTYqR3RUwfZWzIKOYCLjgws4X2Xx5JOxfV9m37j0TvVP6mrTqfdSbOMw5k2Y9xXXq83xdGhGagnyNrzgBrfHORkjM2jz0djW8W/RnwuKCIynmtPGUSLk8=;6nZ7jF6K8JdLmMjLu0r8TA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/duke-health-announces-ai-driven
 webUrl: "https://healthitanalytics.com/news/duke-health-announces-ai-driven-healthcare-transformation-collab"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,34 @@ topics:
   - AI
 
 related:
+  - title: "Infor Continues to Grow its Healthcare Relationship with AWS"
+    excerpt: "Infor ®, the industry cloud company, today announced that it has been selected by Amazon Web Services (AWS) as an Amazon HealthLake Partner. This underscores Infor's commitment to strengthening its relationship with AWS and its dedication to providing industry-specific solutions powered by high-performing,"
+    publishedDateTime: 2023-04-17T14:46:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/04/17/9795611.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 56
+    images:
+      - url: "https://mma.prnewswire.com/media/526907/Infor_new_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Infor launches FHIR Onramp (IFOR) on AWS, and adds AWS HealthLake partnership"
+    excerpt: "Amazon has selected Infor to become an Amazon HealthLake Partner. Amazon HealthLake can securely store, transform, query, and analyze health data in"
+    publishedDateTime: 2023-04-17T13:00:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2023/04/17/infor-launches-fhir-onramp-ifor-on-aws-and-adds-aws-healthlake-partnership/"
+    type: article
+    provider:
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 36
+    images:
+      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2019/06/heart-online.jpg"
+        width: 728
+        height: 410
+        isCached: true
   - title: "Navigating AI Malpractice in Healthcare: Balancing Revolutionary Benefits and Growing Concerns"
     excerpt: "AI malpractice in healthcare raises concerns amid innovations, highlighting the need to address challenges and ensure patient safety"
     publishedDateTime: 2023-04-13T21:27:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://tribune.com.pk/story/2412181/financial-institutions-directed
 cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2412181/financial-institutions-directed-to-adopt-facial-recognition-feature?amp=1"
 type: article
 quality: 59
-heat: 110
+heat: 119
 published: true
 
 provider:
@@ -82,6 +82,15 @@ related:
       name: webBikeWorld
       domain: webbikeworld.com
     quality: 19
+  - title: "Yahoo Japan tests facial-recognition payment system"
+    excerpt: "Yahoo Japan is testing a system that allows people to go out shopping without having to bring any money, cards or their phone."
+    publishedDateTime: 2023-04-17T13:45:00Z
+    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20230417_33/"
+    type: article
+    provider:
+      name: NHK
+      domain: nhk.or.jp
+    quality: 4
 
 secured: "TmzQ/ASb8Sj+8MeAnDKI/rj3VN5S5XvNtg9hlEg77rjqgHCO0EfsxkKmWDBvh+hGCsZHY2aE+R+0GvB+HZss1NI3Co15VQIyMYdAMg31qzhX5wsXldK/xdY6Ehq79PJVgs+Y/TZFyImYgqcpvYDwTksVFDMPrP9jJOWxtPg5luG2C5SM9o6Hea30j+Xvi1M/0y5Q9sHuEzFJRyFT/arCgD55Rjbd5gtFcf5WfdGBpRvX9uLrT0Es7KpPsO67uMrC0HGFItfVsgyeecMKPxWFEFDaDK0zT7sEWJPAaEssqKbtjq6Qo/o9N71WcF9dmiAI/Jv9qfG1W1V7eB5MTOSZfgk2Tb+aApBQoFe+cx4PNgDDyoXaAYZAcKlsj8XhzbjhZpcEn6IZB26qI2bB5XQ//psmr/lFeI5ZwKbKUH7YdGy7H5auhmjMLk4GIANs+czpln/yHm5kmyc2bro2wHcDceT0/UVLRrsOSLNCYA12p+apfS0N19BFRPaRNUx22kdBMqj+UIkMP9OL7Rm+fSfozg==;8Sh9JK1RNa5Bxtm7Jl+KNQ=="
 ---

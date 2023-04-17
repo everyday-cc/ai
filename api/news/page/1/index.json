@@ -2,6 +2,153 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-17-microsoft-and-epic-expand-strategic-collaboration-with-integration-of-azure-openai-service.md",
+      "title": "Microsoft and Epic expand strategic collaboration with integration of Azure OpenAI Service",
+      "excerpt": "April 17, 2023 /PRNewswire/ -- Microsoft Corp. and Epic on Monday announced they are expanding their long-standing strategic collaboration to develop and integrate generative AI into healthcare by combining the scale and power of Azure OpenAI Service 1 ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-and-epic-expand-strategic-collaboration-with-integration-of-azure-openai-service-1032236844",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-and-epic-expand-strategic-collaboration-with-integration-of-azure-openai-service-1032236844",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1795836/Epic_NEW_Logo.jpg",
+          "width": 400,
+          "height": 222,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-infor-continues-to-grow-its-healthcare-relationship-with-aws.md",
+      "title": "Infor Continues to Grow its Healthcare Relationship with AWS",
+      "excerpt": "Infor ®, the industry cloud company, today announced that it has been selected by Amazon Web Services (AWS) as an Amazon HealthLake Partner. This underscores Infor's commitment to strengthening its relationship with AWS and its dedication to providing industry-specific solutions powered by high-performing,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/04/17/9795611.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/04/17/9795611.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/526907/Infor_new_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-ai-art-piece-wins-sonys-photography-contest-artist-refuses-the-award.md",
+      "title": "AI Art Piece Wins Sony's Photography Contest, Artist Refuses the Award",
+      "excerpt": "Boris Eldagsen entered his AI-generated piece “The Electrician” into the World Photography Organization’s Sony World Photography Awards to make a point.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/sony-world-photography-award-ai-art-winner-eldagsen-1850343317",
+      "originalUrl": "https://gizmodo.com/sony-world-photography-award-ai-art-winner-eldagsen-1850343317",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/060958924c6b5cd48829981f9ca5025a.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-asda-introduces-self-driving-delivery-vans-in-ai-first.md",
       "title": "Asda introduces self driving delivery vans in AI first",
       "excerpt": "Asda is launching the scheme in partnership with Wayve, a developer of artificial intelligence for self driving cars ... This trend appears here to stay, and bringing driverless vehicles into the fold could be the next step forward,” Myron Jobson ...",
@@ -10,7 +157,7 @@
       "originalUrl": "https://www.cityam.com/asda-introduces-self-driving-vans-in-ai-first-for-the-supermarket-1/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -97,58 +244,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-17-sony-world-photography-award-2023-winner-refuses-award-after-revealing-ai-creation.md",
-      "title": "Sony World Photography Award 2023: Winner refuses award after revealing AI creation",
-      "excerpt": "The winner of a major photography award has refused his prize after revealing his work was in fact an AI creation. German artist Boris Eldagsen's entry, entitled Pseudomnesia: The Electrician, won the creative open category at last week's Sony World Photography Award.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/entertainment-arts-65296763",
-      "originalUrl": "https://www.bbc.com/news/entertainment-arts-65296763",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/160F6/production/_129385309_12dc9ce3-b2e1-4b1d-ba1a-29ddffb95c57.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/entertainment-arts-65296763.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-65296763.amp",
-      "publishedDateTime": "2023-04-17T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-17-harnessing-the-power-of-ai-in-the-insurance-sector.md",
       "title": "Harnessing The Power Of AI In The Insurance Sector",
       "excerpt": "AI can help insurers evaluate risk more accurately by analyzing large amounts of data such as historical claims data, credit scores and social media activity—thereby enabling in",
@@ -196,6 +291,92 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-artificial-intelligence-an-exciting-and-potentially-scary-technology.md",
+      "title": "'Artificial intelligence an exciting and potentially scary technology'",
+      "excerpt": "Ren Ito, COO of Stability AI, a leading open-source generative AI firm, on what to celebrate and what to fear about the new world of artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatoday.in/india-today-insight/story/artificial-intelligence-an-exciting-and-potentially-scary-technology-2361133-2023-04-17",
+      "originalUrl": "https://www.indiatoday.in/india-today-insight/story/artificial-intelligence-an-exciting-and-potentially-scary-technology-2361133-2023-04-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202304/concalve-renito-sixteen_nine.jpg?VersionId=K7E.b2hprB9uVzqPcVX4rsq_ovGixFlY",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatoday.in/amp/india-today-insight/story/artificial-intelligence-an-exciting-and-potentially-scary-technology-2361133-2023-04-17",
+      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/india-today-insight/story/artificial-intelligence-an-exciting-and-potentially-scary-technology-2361133-2023-04-17",
+      "publishedDateTime": "2023-04-17T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Today",
+        "domain": "indiatoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-the-ai-revolution-googles-artificial-intelligence-developers-on-whats-next-in-the-field.md",
+      "title": "The AI revolution: Google's artificial intelligence developers on what's next in the field",
+      "excerpt": "The revolution in artificial intelligence is at the center of a debate ranging from those who hope it will save humanity to those who predict doom. Scott Pelley headed to Google to see what's coming next in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/",
+      "originalUrl": "https://www.cbsnews.com/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/14/c12480c9-3363-478b-86bf-a856a2fa8598/thumbnail/1200x630/7b4e4968150471b425ee46c93ff66fd1/google-robot-1.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/",
+      "publishedDateTime": "2023-04-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -363,7 +544,7 @@
       "originalUrl": "https://www.forbes.com/sites/martineparis/2023/04/17/google-160-ai-staffers-shocked-that-samsung-apple-phone-exclusive-at-risk/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -403,6 +584,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-healthcare-artificial-intelligence-ai-market-growth-and-forecast-till-2031.md",
+      "title": "Healthcare Artificial Intelligence (AI) Market Growth and Forecast till 2031",
+      "excerpt": "The latest market research report on the Global \"Healthcare Artificial Intelligence (AI) Market\" is segmented by",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-growth-and-forecast-till-2031-2023-04-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-growth-and-forecast-till-2031-2023-04-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 278,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "IBM AI"
       ]
     },
     {
@@ -568,7 +802,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-analysis-2023-2030-understanding-the-latest-market-trends-2023-04-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -657,49 +891,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-17-the-ai-revolution-googles-artificial-intelligence-developers-on-whats-next-in-the-field.md",
-      "title": "The AI revolution: Google's artificial intelligence developers on what's next in the field",
-      "excerpt": "The revolution in artificial intelligence is at the center of a debate ranging from those who hope it will save humanity to those who predict doom. Scott Pelley headed to Google to see what's coming next in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/",
-      "originalUrl": "https://www.cbsnews.com/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/14/c12480c9-3363-478b-86bf-a856a2fa8598/thumbnail/1200x630/7b4e4968150471b425ee46c93ff66fd1/google-robot-1.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/",
-      "publishedDateTime": "2023-04-16T16:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2023-04-17-2023-2030-speech-recognition-market-report-latest-developments.md",
       "title": "2023-2030 Speech Recognition Market Report: Latest Developments",
       "excerpt": "Apr 16, 2023 (The Expresswire) -- \"Speech Recognition Market\" information for each competitor includes (VoiceVault, Microsoft, Agnitio, ReadSpeaker",
@@ -708,7 +899,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/2023-2030-speech-recognition-market-report-latest-developments-2023-04-16",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -913,7 +1104,7 @@
       "originalUrl": "https://www.forbes.com/sites/shephyken/2023/04/16/how-ai-and-chatgpt-can-crush-customer-service/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 309,
+      "heat": 329,
       "tags": null,
       "images": [
         {
@@ -965,7 +1156,7 @@
       "originalUrl": "https://tribune.com.pk/story/2412181/financial-institutions-directed-to-adopt-facial-recognition-feature",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1048,194 +1239,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-reviving-the-dead-with-ai-is-it-really-worth-it.md",
-      "title": "Reviving The Dead With AI: Is It Really Worth It?",
-      "excerpt": "If AI could let you speak with your deceased loved ones again, would you take the chance? It’s not a rhetorical question. A few companies and experts believe this will soon be possible, and some are even starting to market their own solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/federicoguerrini/2023/04/15/reviving-the-dead-with-ai-is-it-really-worth-it/",
-      "originalUrl": "https://www.forbes.com/sites/federicoguerrini/2023/04/15/reviving-the-dead-with-ai-is-it-really-worth-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/643acded61f9a64accfe5712/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/federicoguerrini/2023/04/15/reviving-the-dead-with-ai-is-it-really-worth-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/federicoguerrini/2023/04/15/reviving-the-dead-with-ai-is-it-really-worth-it/amp/",
-      "publishedDateTime": "2023-04-15T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-2023-2029-ai-in-computer-vision-market-share-with-86-pages-by-irb.md",
-      "title": "2023-2029 \"AI In Computer Vision Market\" Share, With 86+ Pages By IRB",
-      "excerpt": "AI In Computer Vision Market ” Report Insights with 86 + pages of analysis on business strategy taken up byÂemerging industry players, geographical scope, market segments, product landscape and cost structure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-2029-ai-in-computer-vision-market-share-with-86-pages-by-irb-2023-04-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-2029-ai-in-computer-vision-market-share-with-86-pages-by-irb-2023-04-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-15T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-spacex-launches-startups-first-cell-tower-in-space.md",
-      "title": "SpaceX Launches Startup's First 'Cell Tower in Space'",
-      "excerpt": "With a SpaceX rocket launch late Friday, a Spanish company called Sateliot took its first step toward helping you get text messaging abilities in mountains, rural areas and other parts of the world where conventional mobile networks fail.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/home/internet/spacex-launches-startups-first-cell-tower-in-space/",
-      "originalUrl": "https://www.cnet.com/home/internet/spacex-launches-startups-first-cell-tower-in-space/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/f8cd5c4525386ce7a982925e6f428a54c6080942/hub/2023/04/06/21031a62-fd2f-4f4d-a647-214d77009e95/sateliot-satellite.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/spacex-launches-startups-first-cell-tower-in-space/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/spacex-launches-startups-first-cell-tower-in-space/",
-      "publishedDateTime": "2023-04-15T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-new-artificial-intelligence-tool-helps-predict-colon-cancer-survival.md",
-      "title": "New Artificial Intelligence Tool Helps Predict Colon Cancer Survival",
-      "excerpt": "Artificial intelligence (AI) or machine intelligence refers to the intelligence displayed by computers or robots in contrast to the natural intelligence exhibited by humans. It is considered one of the major advancements of the 4th industrial revolution and finds application in several fields including medicine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
-      "originalUrl": "https://www.medindia.net/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medindia.net/health-images/artificial-intelligence-can-now-predict.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
-      "publishedDateTime": "2023-04-15T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-17T12:51:00Z
 originalUrl: "https://www.forbes.com/sites/forrester/2023/04/17/three-important-measures-to-ensure-ethical-practices-in-a-world-of-emerging-ai/"
 webUrl: "https://www.forbes.com/sites/forrester/2023/04/17/three-important-measures-to-ensure-ethical-practices-in-a-world-of-emerging-ai/"
 type: article
+quality: 60
+heat: 60
+published: false
 
 provider:
   name: Forbes

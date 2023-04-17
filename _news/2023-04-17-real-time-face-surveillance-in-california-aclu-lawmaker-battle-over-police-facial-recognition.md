@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-17T12:00:00Z
 originalUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article274328670.html"
 webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article274328670.html"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: Sacramento Bee

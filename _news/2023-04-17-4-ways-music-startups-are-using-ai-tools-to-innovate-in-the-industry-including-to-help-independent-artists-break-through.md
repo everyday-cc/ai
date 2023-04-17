@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-17T12:00:00Z
 originalUrl: "https://www.businessinsider.com/how-ai-used-in-music-industry-companies-tools-examples-2023-4"
 webUrl: "https://www.businessinsider.com/how-ai-used-in-music-industry-companies-tools-examples-2023-4"
 type: article
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: Business Insider

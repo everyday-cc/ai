@@ -2,6 +2,144 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-12-sony-investment-will-put-ai-chips-inside-raspberry-pi-boards.md",
+      "title": "Sony investment will put AI chips inside Raspberry Pi boards",
+      "excerpt": "Sony Electronics has announced that it's making a \"strategic investment\" in Raspberry Pi in order to bring its AI chips to a wider market..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/sony-investment-will-put-ai-chips-inside-raspberry-pi-boards-083503462.html",
+      "originalUrl": "https://www.engadget.com/sony-investment-will-put-ai-chips-inside-raspberry-pi-boards-083503462.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/YnwFCW5yh1_lBnS_nZcXFg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-04/9187f130-d906-11ed-bfff-437ef0360c42.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-12T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-12-aimachine-learning-market-with-types-of-research-report.md",
+      "title": "AI/Machine Learning Market With Types of Research Report",
+      "excerpt": "The Global AI/Machine Learning market is anticipated to rise at a considerable rate during the forecast period. The market is growing at a steady rate and with the rising adoption of strategies by key players,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-with-types-of-research-report-2023-04-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-with-types-of-research-report-2023-04-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-11T20:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-12-singapores-gic-increases-stake-in-fintech-pagaya-to-9.md",
+      "title": "Singapore’s GIC Increases Stake in Fintech Pagaya to 9%",
+      "excerpt": "Singapore’s sovereign wealth fund GIC has increased its stake in United States-Israeli fintech Pagaya Technologies from roughly 7% to 9%.",
+      "sourceUrl": null,
+      "webUrl": "https://fintechnews.sg/71429/ai/singapores-gic-increases-stake-in-fintech-pagaya-to-9/",
+      "originalUrl": "https://fintechnews.sg/71429/ai/singapores-gic-increases-stake-in-fintech-pagaya-to-9/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/04/Singapores-GIC-Increases-Stake-in-Fintech-Pagaya-to-9-1024x568.jpg?x90673",
+          "width": 1024,
+          "height": 568,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-11T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fintech Singapore",
+        "domain": "fintechnews.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-11-detect-real-and-live-users-and-deter-bad-actors-using-amazon-rekognition-face-liveness.md",
       "title": "Detect real and live users and deter bad actors using Amazon Rekognition Face Liveness",
       "excerpt": "Financial services, the gig economy, telco, healthcare, social networking, and other customers use face verification during online onboarding, step-up authentication, age-based access restriction, and bot detection. These customers verify user identity by matching the user’s face in a selfie captured",
@@ -1011,144 +1149,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-10-fintech-dealmaking-is-ready-for-prime-time.md",
-      "title": "Fintech dealmaking is ready for prime time",
-      "excerpt": "One could make the point that every industry has a backlog of potential deals, but fintech seems particularly ... check out these podcasts focused on AI. Here are 11 AI-focused podcasts ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/fintech-dealmaking-tredning-neobanks-bnpl-smb-lending-2023-4",
-      "originalUrl": "https://www.businessinsider.com/fintech-dealmaking-tredning-neobanks-bnpl-smb-lending-2023-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/611ac81ba4b07b0018add693?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/fintech-dealmaking-tredning-neobanks-bnpl-smb-lending-2023-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fintech-dealmaking-tredning-neobanks-bnpl-smb-lending-2023-4?amp",
-      "publishedDateTime": "2023-04-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-09-thnq-brace-for-the-next-big-wave-of-artificial-intelligence.md",
-      "title": "THNQ: Brace For The Next Big Wave Of Artificial Intelligence",
-      "excerpt": "THNQ invests in companies centered on artificial intelligence development and implementation. Artificial intelligence has taken the world by storm, but many are still treading lightly as AI’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4593038-thnq-brace-for-the-next-big-wave-of-artificial-intelligence",
-      "originalUrl": "https://seekingalpha.com/article/4593038-thnq-brace-for-the-next-big-wave-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1397542920/image_1397542920.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-09T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-09-all-about-eyes-computer-vision-syndrome.md",
-      "title": "All About Eyes: Computer Vision Syndrome",
-      "excerpt": "One of the hallmarks of life in the 21st century is how completely surrounded and dependent we have become on technology. It’s rare to find someone that doesn’t have a cell phone, tablet, or a ...",
-      "sourceUrl": null,
-      "webUrl": "https://globegazette.com/news/local/all-about-eyes-computer-vision-syndrome/article_b39a9765-e589-58ef-ad2b-a9c83b2c0405.html",
-      "originalUrl": "https://globegazette.com/news/local/all-about-eyes-computer-vision-syndrome/article_b39a9765-e589-58ef-ad2b-a9c83b2c0405.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/globegazette.com/content/tncms/assets/v3/editorial/0/9f/09f4288b-e367-5bad-ba41-2451e55d4252/642fa3aadd541.image.jpg?crop=1286%2C677%2C0%2C240&resize=1200%2C632&order=crop%2Cresize",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-09T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Globe Gazette",
-        "domain": "globegazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

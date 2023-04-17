@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-17T12:11:00Z
 originalUrl: "https://analyticsindiamag.com/workshop-alert-accelerating-deep-learning-inference-workloads-at-scale/"
 webUrl: "https://analyticsindiamag.com/workshop-alert-accelerating-deep-learning-inference-workloads-at-scale/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Analytics India Magazine

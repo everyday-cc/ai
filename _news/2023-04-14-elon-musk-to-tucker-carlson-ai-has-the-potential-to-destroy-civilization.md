@@ -7,8 +7,8 @@ originalUrl: "https://www.foxnews.com/video/6325033515112"
 webUrl: "https://www.foxnews.com/video/6325033515112"
 type: article
 quality: 66
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Fox News
@@ -26,6 +26,22 @@ images:
     width: 1024
     height: 512
     isCached: true
+
+related:
+  - title: "Elon Musk: Artificial Intelligence Could Destroy Civilization, \"They're Training The AI To Lie\""
+    excerpt: "Twitter and Tesla CEO Elon Musk sounds a warning about the impact artificial intelligence could have on human society during an interview that will air in full Monday on FNC's \"Tucker Carlson Tonight."
+    publishedDateTime: 2023-04-17T15:47:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2023/04/17/elon_musk_artificial_intelligence_could_destroy_civilization.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 40
+    images:
+      - url: "https://assets.realclear.com/images/60/609031_5_.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
 secured: "HYrJSZ122I7mgYf6Rtr0rADhmN9HDeOOaqUtGPYVEPP1sAaBge/IzvzfH0zcPciZlF5AW7S/LB32/aW1sf/WS9sT3JFaNjJQ+HaeRNyXL5FUWDevTUSxrvuPs6EqpKObFisn08DfYV/fGebZmNcRQpbfKvjucY/V1Mryi/lt2caLwqNnHBOm9txvEGxmdRLXHFi5YJ3kvk797e7o1TABC8ABgurMp/1PdPA4pfIuSy6OpI0bDnsVAvfosImYD/KtxN/cig/9cZSDXggy6wlPctnGgOtbqaTq6wavKZ+KrHHyIeedM5Kgm18vJAH+sYOJt+b/Ih2pPBeupzzo2syIeZ0idscK8Qpd20plBndQfK8=;XAlRZpHknmY0Hgk0OdWuPw=="
 ---

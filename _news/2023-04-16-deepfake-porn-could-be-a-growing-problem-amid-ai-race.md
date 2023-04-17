@@ -44,13 +44,13 @@ related:
         height: 675
         isCached: true
   - title: "Deepfake porn could be a growing problem amid AI race"
-    excerpt: "But experts fear the darker side of the easily accessible tools could worsen something that primarily harms women: nonconsensual deepfake pornography. Deepfakes are videos and images that have been digitally created or altered with artificial intelligence or machine learning."
-    publishedDateTime: 2023-04-16T19:26:00Z
-    webUrl: "https://www.chron.com/business/article/deepfake-porn-could-be-a-growing-problem-amid-ai-17900306.php"
+    excerpt: "Experts fear the darker side of the easily accessible AI tools could worsen something that primarily harms women: nonconsensual deepfake pornography."
+    publishedDateTime: 2023-04-17T12:30:00Z
+    webUrl: "https://www.stltoday.com/news/national/deepfake-porn-could-be-a-growing-problem-amid-ai-race/article_6078d522-210e-519a-af8a-93abf2f4b6f7.html"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 17
 
 secured: "0yvsonV2uAjBotCK/S0K8kc8YvALGeuoguM/k1e9Zb/NciLZLTzaJjj6BzE64OKiTtVa1M9ggnpRDMtz4ecD50ms9vjoe0MSsSGFjGOmeU9dXSHvE6oWMEWo7oYQLh99tB6Cln48ZE5XkVtkSIxSxO/+Bnq2ToQAL4UU726bn5zgzGZi7bbW5wwxldrzwiTkUq7YYldguybOndcEYuuS4+hXRNgTxRC9aTXF+U5Ryzv2TcE9eIwbURsTmWvkT410WFqde+58yqRDnefG+0q7kakqmu2yYrUjkP/YeWe8SkXTEwY7qWYQwNAMVnR3zphgcGET6QNWu3GR/bjPU7Hu5nh0zfxQ3yF9yChy5jTvR3krCxacpjxypwJCtvRkiFf3ICqP2epAqjjykMZGlSlFWMmO0YR5/zoteIVf8wnYjnFJyarxMFyiMk+pyMcSjf1yLA/sIjjN+eMWhzqYDGk8sZhkbKD9A8nk7PdDTiLtfM4BTsH3s9gzB6EAHj2MXBI6+I5qFDfXF8b9rdAAhGpHIg==;Ms4QHOj0zt29xN5I8Axz6w=="

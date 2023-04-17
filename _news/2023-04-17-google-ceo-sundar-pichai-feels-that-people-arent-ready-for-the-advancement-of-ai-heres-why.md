@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-17T12:55:00Z
 originalUrl: "https://in.mashable.com/tech/50978/google-ceo-sundar-pichai-feels-that-people-arent-ready-for-the-advancement-of-ai-heres-why"
 webUrl: "https://in.mashable.com/tech/50978/google-ceo-sundar-pichai-feels-that-people-arent-ready-for-the-advancement-of-ai-heres-why"
 type: article
+quality: 38
+heat: 38
+published: false
 
 provider:
   name: in.mashable

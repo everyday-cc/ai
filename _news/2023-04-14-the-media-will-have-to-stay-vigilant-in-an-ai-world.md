@@ -62,15 +62,6 @@ related:
         width: 1024
         height: 701
         isCached: true
-  - title: "From Language Translation to Supply Chain Management: How AI is Changing the Game for Global Businesses"
-    excerpt: "\"How AI is streamlining global operations.\"As businesses expand globally, communication and cultural differences pose challenges. AI is transforming global operations by eliminating language barriers,"
-    publishedDateTime: 2023-04-12T21:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/04/ab31779130/from-language-translation-to-supply-chain-management-how-ai-is-changing-the-game-for-global-busin"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 3
 
 secured: "HlHom5DrrdNzvm/WKPCswdOTbgPMKLB2cvufnOSC7jkJ+WoHM3/brh7O9e3lh9xQmrK8Atyw6hknaameyr1RJe8cwyJGNXYvdYV38oDYma43wEN1QhdwT4K0zI6tR0qNKJysTVsLJVi756IkdpCiSW9HpekD/lI4hVw98sDtF7Xnaq78pRR7jGxtA/lyxaUtZKGMPmKDfI53X/JFZzb9lHtQbZ80KusK1vI0FeOVWktrdgjnzXDnEUdaMwFTviD051oSA25E1V4HTmFc/lLSuNyBtgG+p7LAHPlqmnLhJNvX6K6CKEXosWVNNcd/K8gbkwrp+il1GwgS+3WxGqOmyYUooHIwoVCjPApiXn5sf48=;e+8LYo8KGzN4FVLU8ysGug=="
 ---

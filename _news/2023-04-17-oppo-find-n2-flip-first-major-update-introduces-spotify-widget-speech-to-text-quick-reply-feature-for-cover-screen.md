@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-17T12:08:00Z
 originalUrl: "https://www.gizmochina.com/2023/04/17/oppo-find-n2-flip-first-major-update-introduces-spotify-widget-speech-to-text-quick-reply-feature-for-cover-screen/"
 webUrl: "https://www.gizmochina.com/2023/04/17/oppo-find-n2-flip-first-major-update-introduces-spotify-widget-speech-to-text-quick-reply-feature-for-cover-screen/"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Gizmochina

@@ -7,7 +7,7 @@ originalUrl: "https://www.fox5ny.com/news/face-recognition-businesses-city-counc
 webUrl: "https://www.fox5ny.com/news/face-recognition-businesses-city-council-bills"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -20,15 +20,6 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "NYC Lawmakers Seek to Ban Businesses From Facial Recognition Use"
-    excerpt: "Businesses in New York City including stadiums would be unable to use facial recognition or other surveillance technology to identify customers without their consent, under a draft bill shared exclusively with Bloomberg Law."
-    publishedDateTime: 2023-04-12T20:22:00Z
-    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/nyc-lawmakers-seek-to-ban-businesses-from-facial-recognition-use-1"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 19
   - title: "NYC lawmakers introduce bill to ban businesses from using facial recognition tech"
     excerpt: "Both bills are scheduled to be introduced at the City Council meeting on April 27 following a Committee on Technology meeting two days earlier."
     publishedDateTime: 2023-04-13T03:46:00Z

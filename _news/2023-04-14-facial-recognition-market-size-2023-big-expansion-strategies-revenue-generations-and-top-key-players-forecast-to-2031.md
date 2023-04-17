@@ -86,6 +86,15 @@ related:
       name: webBikeWorld
       domain: webbikeworld.com
     quality: 19
+  - title: "Yahoo Japan tests facial-recognition payment system"
+    excerpt: "Yahoo Japan is testing a system that allows people to go out shopping without having to bring any money, cards or their phone."
+    publishedDateTime: 2023-04-17T13:45:00Z
+    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20230417_33/"
+    type: article
+    provider:
+      name: NHK
+      domain: nhk.or.jp
+    quality: 4
 
 secured: "gDArEiKGRBXf3ocxHLILzwSMHTS66FMWO+LxAVip3zJtFAgFqdaSL1P3QluRWkPtRH2WQlrcehyH55hwLeQRFq5g01DDBTwUwJqzshmmTcjeDB+BFpGbMy0EwwUSOCK8M1+WjPUlYVpdwgBaosdRXg6Mxi/OtQaSb9+wpExCxP/e8QccVAZgN9XPxp05qVVlqQhviqPyq5qgDblLntnWlXgJsapOZ0VhPagziL0K2p86yb9PSo4iF3v8/+icxMy+IoXfBxA/j4BwVClZMADztJRnKvhKryY+FMh3WGIdq7yrbNDdgEdydZDlSAH9A4RKKU6ojJiPwPKQQ6j3Uv6zylDD0uUF9NlAhgTv2gYInV4=;HcBlc81BPGmTSDkRVHDfNA=="
 ---

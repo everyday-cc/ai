@@ -41,6 +41,22 @@ related:
         width: 1536
         height: 1183
         isCached: true
+  - title: "Asda will start delivering food to customers across London using driverless cars"
+    excerpt: "Customers across London will have their shopping delivered to their homes by 'self-driving' Jaguar I-Pace electric cars."
+    publishedDateTime: 2023-04-17T15:18:00Z
+    webUrl: "https://www.thisismoney.co.uk/money/cars/article-11981683/Asda-start-delivering-food-customers-London-using-driverless-cars.html"
+    ampWebUrl: "https://www.thisismoney.co.uk/money/cars/article-11981683/amp/Asda-start-delivering-food-customers-London-using-driverless-cars.html"
+    cdnAmpWebUrl: "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/cars/article-11981683/amp/Asda-start-delivering-food-customers-London-using-driverless-cars.html"
+    type: article
+    provider:
+      name: This is Money
+      domain: thisismoney.co.uk
+    quality: 54
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2023/04/17/15/69917209-0-image-a-2_1681740960641.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Asda and Wayve launch UK’s largest self-driving grocery home delivery trial"
     excerpt: "The Wayve self-driving vehicles will join Asda’s existing online delivery operation and have the capability to drive themselves to customers’ homes."
     publishedDateTime: 2023-04-17T08:16:00Z
@@ -80,6 +96,15 @@ related:
       name: Coventry Telegraph
       domain: coventrytelegraph.net
     quality: 4
+  - title: "Asda starts delivering food shops in SELF-DRIVING cars as part of new trial"
+    excerpt: "Asda will be delivering groceries to customers in a self driving vehicle from today as part of a new year-long trial. The big four supermarket announced the partnership with the technology firm Wayve today. The trial will see the firm's self-driving cars ..."
+    publishedDateTime: 2023-04-17T13:55:00Z
+    webUrl: "https://www.mirror.co.uk/money/asda-starts-delivering-food-shops-29731569"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 2
 
 secured: "ixKpzXZ5Drdw4x0NLJDP5rEZCLJIcv1GykEirbL54sE2tw4fwWA9YjpHv6K5PesxCK7O/ltHOcD23OrzdbmK1YFkyGK84694e7GbWRCQRJXJME+6M2ts1vmsLjqDXRjRp4BPPpuFXN3dDPrEocoN8mV/9GwSE24IPTThccuH2rL9x8qdeUj/p1bG4iZRksuY8SGkB9t3XmQz99drRAs/THh2122/vG6CoAM9aMnA0jvqhk5Pjeh8/4puomvBG93JFsPuaGFSZrzRfUC2f3vxGoxnXHf28LDZ2jaUXb0oLXHenWpIYWgXQHpseoDiyW67fl/OC2veDBnEPpj4OtjCGdMNXv00Qy++J9sClyCdRZ+OezUe8y/k3ewkAKHL7XYzoUIpYcsj8KSD3zV38MUb1CJswjD7Ntx22d3bamwM+dOIfwSB212afjy6ZHCPpRLhEsYP2xypYrxwlGR6QuPGRVgpBirdkzttVsigC4gb4UPGfgJjWwiqUfhZGCWf8DCz7Z61WIpbgCf3emNPHppfhg==;dWtVnqOxAf/AnqSAhBOpnA=="
 ---

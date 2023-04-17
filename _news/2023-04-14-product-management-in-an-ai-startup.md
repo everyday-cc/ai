@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/startups/product-management-in-an-a
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/product-management-in-an-ai-startup/amp_articleshow/99498142.cms"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 1024
         height: 701
         isCached: true
-  - title: "From Language Translation to Supply Chain Management: How AI is Changing the Game for Global Businesses"
-    excerpt: "\"How AI is streamlining global operations.\"As businesses expand globally, communication and cultural differences pose challenges. AI is transforming global operations by eliminating language barriers,"
-    publishedDateTime: 2023-04-12T21:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/04/ab31779130/from-language-translation-to-supply-chain-management-how-ai-is-changing-the-game-for-global-busin"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 3
 
 secured: "M69KCT1K2tfHTnMpXkNM8c04oJSjOnXIi9P0DQBdWAAegIdA4x407ln/HkeE3YjttZ2ur7cyKZ5A4GIXRvok3x2lZgAC8N2XOHQqEOzSCIU8Y6CdXhZ7wJaR+oRF2lnd14oRGzxJUpeEf0Bf1YWSzG6Z3uOVhoLsCmO2cnsKbbKk7gWOVtmPbD/4aPr9dxdn72i1qyRVjOo7j3hal4/mKwG2Q+pjtHR+RgOYUxayFDoES+T27vhhIjPtcieqsN2rmF6gjxVTgQ5vdiuEOQYD6xJYOl4bksKgT82Q5/QK4YhmbSHgw/B4HtVLZsRRML2Mj6m9Mg5htN0VS6Z/XfUjcCpZu63cH84Bawz2NigoRO4=;7oVg+L0z3rEDb74o3aNMcQ=="
 ---

@@ -56,6 +56,15 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 34
+  - title: "Machine Learning Gives Sharper Look at M87 Black Hole"
+    excerpt: "The iconic image of the supermassive black hole at the center of M87—sometimes referred to as the “fuzzy, orange donut”—has gotten its first official makeover with the help of"
+    publishedDateTime: 2023-04-17T05:00:00Z
+    webUrl: "https://www.realclearscience.com/2023/04/17/machine_learning_gives_sharper_look_at_m87_black_hole_894046.html"
+    type: article
+    provider:
+      name: RealClearScience
+      domain: realclearscience.com
+    quality: 19
   - title: "Artificial Intelligence Reveals a Stunning, High-Definition View of M87’s Big Black Hole"
     excerpt: "Astronomers used machine learning to improve the Event Horizon Telescope's first black hole image, aiding in black hole behavior understanding and testing gravitational theories. The new technique, called PRIMO,"
     publishedDateTime: 2023-04-17T02:28:00Z

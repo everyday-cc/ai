@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-17T11:00:00Z
 originalUrl: "https://www.wired.com/story/ai-generated-music-streaming-services-copyright/"
 webUrl: "https://www.wired.com/story/ai-generated-music-streaming-services-copyright/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Wired

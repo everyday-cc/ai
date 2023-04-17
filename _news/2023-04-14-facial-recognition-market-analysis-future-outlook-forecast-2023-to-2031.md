@@ -79,15 +79,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech Recognition Market Key Players and Forecast till 2031"
-    excerpt: "The latest market research report on the Global \"Speech Recognition Market\" is segmented by Regions, Country, Company"
-    publishedDateTime: 2023-04-13T05:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-key-players-and-forecast-till-2031-2023-04-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
   - title: "Facial Recognition Market 2023 Expected to Reach Significant Rate by 2030"
     excerpt: "Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (Neurotechnology, Nviso, Cognitec Systems,"
     publishedDateTime: 2023-04-13T06:37:00Z

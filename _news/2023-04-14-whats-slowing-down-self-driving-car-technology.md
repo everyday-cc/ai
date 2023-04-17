@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Sunflower Technology: A Singapore-based fintech company is expanding to Latin America and South America"
+    excerpt: "Sunflower Technology is a technology company based in Singapore that is expanding its services to Latin America and South America. Sunflower Technology is leveraging its expertise in big data, AI, and blockchain to create innovative solutions for underserved communities in Latin America and South America."
+    publishedDateTime: 2023-04-17T12:50:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/getnews-2023-4-17-sunflower-technology-a-singapore-based-fintech-company-is-expanding-to-latin-america-and-south-america"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 0
 
 secured: "LGpad/GRn9qmDdKJnNDS2dBiRZ+XHJAIT9JJEFcqmqgqO7AJGXHsoyJEffMmVCldV2Hfp4Jp3K8bWpaLmXDY/fxWSWLTf2NnUsFsBVsDed7PmQXRwxavj3JWHB33hiQSFuI77JLKcl+EhP2ltB6ImHNp7T2zUMVZhcnN4WOfml+mxQKCoIulT45YQ741S6NHALB+3arrJidGuurBsdzKC/cvpzKJrU5EMMQalbAJqmKvdluesyJNbrTwAeiqIsYstQ49M/Oq0Fks5fmhXnDqCniXm8DvxAqX2wkxs4HaOWGZpmu+opAODKDTp38m2MAg88sbeFeGohVJo5b0bRM6bEDPY5nqocxe/JEEC6Ph9ZU=;zQ7E+IEbUvlWJKUOZddD3Q=="
 ---

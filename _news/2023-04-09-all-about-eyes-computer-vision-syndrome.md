@@ -15,6 +15,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "RXDehqJwwNBzFypFsh8ZO/94OnYKfRmYEiqZTDN3HFqierjxiB4FyorFqk7u5bm0ijD9ZueEsxmwuYTd+Ac+mEm993Mfa/GTAIsk5joOI5d5pLQc3SircM7kmQdqZrydI/dyrHNNP3l+q9llgZ18WN1TVWSjyP4CPYw7f+9C7E0Ck5M8rIfRLNWeAFKqxGDg0LPuK8twlL6NSM9HQgUninN1lpsQJSYhyki7iH5ninwJ2DzB5ddHtI1PL44y8fh3Bq+X1oXD/yP9CLVnvoASW04kho4mOxiljdmOUAFW6JPrif9vg2goRx8Yvg+6LLdiDrxtn298F30DKVnUQLemGwhImCrP0gC9i9fY375zHL4=;EPiUhrR0j5Fk13NaOLF89A=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/d/06/d06c9c4c-9d7f-5cad-9a88-776cc4a71c8a/642f9f1d925a0.image.jpg?crop=1286%2C677%2C0%2C240&resize=1200%2C632&order=crop%2Cresize"
+    width: 1200
+    height: 632
+    isCached: true
+
+secured: "ZikseZB38nTOAqp4oTvsKn0cSWRMC3lE/yEWylQxk4F8IoYt1j2/Mm0+8FZNUznGfao86BulUfX+/kAypPlLK64vU0w94Kw9UYzSCxbk1fA76Vy3BjoPDOQmnh1flih97qQ2bJrQfXvOhr7SRkmesUnZHePWU2wZiwC890X//3KkqLQTWZ2LXkni8HbbfKT7SV80D+tr49SCEY2OIKNdvpdSim/+zqUfGFh3yCPvrcDqkh07dosNQozU1bk1CXB7zrUo8QWAEAs9L5dkK3cxtnMLRxdjMjnQoY2ONvqfIk/lgzR6KZym8HyKm1h8/PaV4NZaESGk7HWagUJ1GhDpyLSMh8Zx6RxIDlh3g+f0aWc=;/7LS87oflJt2cXAU1+O0fA=="
 ---
 

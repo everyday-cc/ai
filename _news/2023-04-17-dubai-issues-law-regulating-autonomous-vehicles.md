@@ -24,6 +24,17 @@ images:
     height: 909
     isCached: true
 
+related:
+  - title: "AI, real time data driving early development of autonomous vehicles"
+    excerpt: "Consumer and commercial vehicles are leveraging real time data to build complex simulations and understand how artificial intelligence (AI) responds to unpredictable situations"
+    publishedDateTime: 2023-04-17T12:28:00Z
+    webUrl: "https://www.just-auto.com/news/ai-real-time-data-driving-early-development-of-autonomous-vehicles/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 19
+
 secured: "QDygvek3mutzFgQHzAMA+Tl3oZHsZhr14tvEtEf0tMmAUgm6M985/a7/7QUyUWZTtcLgzGuZuZpO2Fk2JhwzTANBWmXA/nlaXbQg3otFqkSRT+KtHJzmK+haiWhpSltuIEsP+hahluNCHJmlQuFqfF80PpQql8zxGiWxg+WcewRoUpksURseaOjHepi2cgYg888n7Bn61fQi2rGptQzuxrfnAWUbblEnnSYiRV/PpZgFtdzqVoPP34ki03A1VJ4tzYcFv3DxMkip/pJ2lsSM8Lrm255BtoWurTziuKv3O9hNGAWmeU0de65u1PEii8F3HmDedzLdj3Vg21h38AEfs3ZwR/kFhGC1DZd4/w68A8Y=;NFARmfchk51VjmCGbVhBUg=="
 ---
 

@@ -28,19 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI leading to faster stroke diagnosis, treatment and better outcomes"
-    excerpt: "Every 40 seconds someone in the United States experiences a stroke. With more than 795,000 patients annually experiencing a stroke, it is now the leading cause of disability for Americans."
-    publishedDateTime: 2023-04-14T14:07:00Z
-    webUrl: "https://www.cbsnews.com/miami/video/ai-leading-to-faster-stroke-diagnosis-treatment-and-better-outcomes/"
+  - title: "AI diagnoses lung disease based on X-rays"
+    excerpt: "Skoltech researchers have trained a neural network to search for lung pathologies on X-ray images and come up with brief verbal descriptions to accompany them. This task is currently performed by physicians,"
+    publishedDateTime: 2023-04-17T13:15:00Z
+    webUrl: "https://medicalxpress.com/news/2023-04-ai-lung-disease-based-x-rays.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-04-ai-lung-disease-based-x-rays.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-04-ai-lung-disease-based-x-rays.amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
     images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/14/b7910512-7083-48e1-89dc-41e6172a6291/thumbnail/1200x630/3a2421e364223a88f9527c0d38bbad4a/mhs-native-article-stroke-image-2.jpg"
-        width: 1200
-        height: 630
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-diagnoses-lung-dise.jpg"
+        width: 1905
+        height: 1130
         isCached: true
 
 secured: "Glme+qqCZOk0RGb8+teKmd/TD6eILvNHEo+ANzT5lmjNM2faXnNJr6TKHacqH6nvbg05g+0I+US5F5mzqjCgC2ov35QSaJyGFLW6+WSk6S5xFgnl1mHUYIrYgJcUmSH9nU258KA0STUawnrUW9CTdarsWJEHd6oBl3P62+BcysVwLAjEwTVtNruUkm6UsBR5RP5kBlXosvh2Wq0Z+5Fz/OFiz+USIw/nC+rDQWzFvfOWOELl1d5wgB3005TVyZiSfRCYEN7wF5IzoWubHA4WVrEkzRW8RSX8fE3RVAHrDJ7B+By1cXvQAELMiTS07xCcTFcQEkn6WsGnjgO9ntWqWtt6PZYkb4Vo8MJ4dw8xbEMD3Hk2OTBjwA3qM9hpw8+1OQu7s+tTXAs5Xv/PKR3+vD6WAXQNSwcpX5aQ30T43O2wPzvGxbIK6jQ/sNWiYauio7H+xBr1JTilI4P6EK1P5ORXN/vUfhzL6T32v+BuUjXxeH+rS5/Gm4Iiz9Mejs1b29x+G+Ib5PdtNxbt+0vxhQ==;c8FCkdMDMktPX/OINv+hJw=="

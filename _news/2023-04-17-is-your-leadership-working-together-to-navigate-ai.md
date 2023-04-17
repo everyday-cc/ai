@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-17T12:14:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/is-your-leadership-working-together-to-navigate-ai/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/is-your-leadership-working-together-to-navigate-ai/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

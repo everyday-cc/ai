@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cityam.com/asda-introduces-self-driving-vans-in-ai-first
 cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/asda-introduces-self-driving-vans-in-ai-first-for-the-supermarket-1/?amp=1"
 type: article
 quality: 74
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Asda will start delivering food to customers across London using driverless cars"
+    excerpt: "Customers across London will have their shopping delivered to their homes by 'self-driving' Jaguar I-Pace electric cars."
+    publishedDateTime: 2023-04-17T15:18:00Z
+    webUrl: "https://www.thisismoney.co.uk/money/cars/article-11981683/Asda-start-delivering-food-customers-London-using-driverless-cars.html"
+    ampWebUrl: "https://www.thisismoney.co.uk/money/cars/article-11981683/amp/Asda-start-delivering-food-customers-London-using-driverless-cars.html"
+    cdnAmpWebUrl: "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/cars/article-11981683/amp/Asda-start-delivering-food-customers-London-using-driverless-cars.html"
+    type: article
+    provider:
+      name: This is Money
+      domain: thisismoney.co.uk
+    quality: 54
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2023/04/17/15/69917209-0-image-a-2_1681740960641.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Asda and Wayve launch UK’s largest self-driving grocery home delivery trial"
     excerpt: "The Wayve self-driving vehicles will join Asda’s existing online delivery operation and have the capability to drive themselves to customers’ homes."
     publishedDateTime: 2023-04-17T08:16:00Z
@@ -80,6 +96,15 @@ related:
       name: Coventry Telegraph
       domain: coventrytelegraph.net
     quality: 4
+  - title: "Asda starts delivering food shops in SELF-DRIVING cars as part of new trial"
+    excerpt: "Asda will be delivering groceries to customers in a self driving vehicle from today as part of a new year-long trial. The big four supermarket announced the partnership with the technology firm Wayve today. The trial will see the firm's self-driving cars ..."
+    publishedDateTime: 2023-04-17T13:55:00Z
+    webUrl: "https://www.mirror.co.uk/money/asda-starts-delivering-food-shops-29731569"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 2
 
 secured: "lXnPjIXxQgsnUBW95V0HrqvwmQomUKmmM9aHHeX+r7j6W01mXA0vwNJ2TXeKSknxB6hmu4FDk5uhvVTGSR+5KymaotI8qJh9JE6SpRXWo9NARyW6bgUNoWk7YmbLPbcE7H97p75evaGkr1p+IG/QRB+Y8K3lcIntNts2XROhSq1ocJCtvzZb9P87fNST4FKJ7rY6KRIm7vkpgfvoD8E5E0oylI8CEWoveyB2FHypJRtv50xyJ5qUBQfR6wq5wv/0fukHQV2fHXFtF/TUX8tMiFN317YPKOwGkwnPxmP5Ru48+BvoR0BGu2V99LIXgvZzTRppo2k7lG8TW4thnJsNuKod8SwQWMZNF5nnFyz1dBEk2X+bwtJX6TiXY1ILXhbIiZ4mXMLo2OJ2/7uKouFtItvJ8VI/RsRjTuI+gYvxpjaj/iEyj3wEV1PRqCoSrmBLDFRkvSowNCzcMZh1Bl1RxJkcpfnBiANb3rioC30Y6JXjfARZQsFZdp7eB/ysZnBVksKl6oRGQgSoeXfVUi4e/A==;CUGHfyVxCu1xtiBmYaLb4g=="
 ---

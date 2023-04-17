@@ -20,15 +20,6 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "NYC Lawmakers Seek to Ban Businesses From Facial Recognition Use"
-    excerpt: "Businesses in New York City including stadiums would be unable to use facial recognition or other surveillance technology to identify customers without their consent, under a draft bill shared exclusively with Bloomberg Law."
-    publishedDateTime: 2023-04-12T20:22:00Z
-    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/nyc-lawmakers-seek-to-ban-businesses-from-facial-recognition-use-1"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 19
   - title: "NYC city council introduces bills to ban businesses from using face recognition"
     excerpt: "The pair of bills would ban businesses and buildings from using the technology to identify customers, or tenants, without their consent."
     publishedDateTime: 2023-04-13T11:46:00Z

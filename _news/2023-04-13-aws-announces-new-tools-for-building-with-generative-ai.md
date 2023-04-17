@@ -227,6 +227,15 @@ related:
       name: CIO Dive
       domain: ciodive.com
     quality: 36
+  - title: "As AI agents like Auto-GPT speed up generative AI race, we all need to buckle up | The AI Beat"
+    excerpt: "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More If you thought the pace of AI development had sped up since the release of ChatGPT last November, well, buckle up."
+    publishedDateTime: 2023-04-17T13:44:00Z
+    webUrl: "https://venturebeat.com/ai/as-ai-agents-like-auto-gpt-speed-up-generative-ai-race-we-all-need-to-buckle-up-the-ai-beat/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 35
   - title: "AWS dives into generative AI with new offerings"
     excerpt: "Coinciding with its latest letter to shareholders written by chief executive Andy Jassy, Amazon's cloud computing division has officially launched a set of generative artificial intelligence offerings."
     publishedDateTime: 2023-04-13T18:56:00Z

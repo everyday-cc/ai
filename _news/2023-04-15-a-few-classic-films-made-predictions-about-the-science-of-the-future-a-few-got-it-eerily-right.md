@@ -3,18 +3,18 @@ category: news
 title: "A few classic films made predictions about the science of the future. A few got it eerily right"
 excerpt: "Here's what some notable films get right about science and tech — and what's still the stuff of science fiction."
 publishedDateTime: 2023-04-15T01:05:00Z
-originalUrl: "https://www.wlwt.com/article/films-predictions-science-future/43605947"
-webUrl: "https://www.wlwt.com/article/films-predictions-science-future/43605947"
-ampWebUrl: "https://www.wlwt.com/amp/article/films-predictions-science-future/43605947"
-cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/films-predictions-science-future/43605947"
+originalUrl: "https://www.kcra.com/article/films-predictions-science-future/43605947"
+webUrl: "https://www.kcra.com/article/films-predictions-science-future/43605947"
+ampWebUrl: "https://www.kcra.com/amp/article/films-predictions-science-future/43605947"
+cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/films-predictions-science-future/43605947"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: WLWT
-  domain: wlwt.com
+  name: kcra.com
+  domain: kcra.com
 
 topics:
   - AI in Healthcare
@@ -102,6 +102,6 @@ related:
         height: 280
         isCached: true
 
-secured: "7DVNMjEJpImDiYicMxob6sygmDWsAkFug0v+dfUhKWsScCTj4TMvPyBbaA98xaU7VHm7Dg4KTIjZPYsw/czlDZTtELq/ojVQ66kmDbi2CWOXz580UP1iaLbdR5vb86WzZlE4WyVTIFiDCxMafKdl7bb7KsOeBXcdfzG7icR4GvKVGZee9U5gwaYl2XbAN/W3bIgoJFX4ARvWeVcfGFQnAbyNZV0sYo6SQs/QWQEqv8gmly5a94oF8kMAgDJ3Gw3rXRj9Kq6+RZh1mU7M91iD9yyO5Xd3tiXnLbbSYLDafMrm7cpLoh279v1hZIRnhzF2CU5pj6GMBdfetQ1iS3HEDkAzmvV5De35eWxDAvpzfgljNpeFEwZbCpJ7CWqctvic63m7NAQwDV+5oDtlF0w/oAFSl3apYKj9HJsPPPoDQYWw+c/bOUBMC5iCZs/oTrS1ec3X8fTwGoogII1JE509pzmtRkrAdQjISkP+ykaoRae8N/jF5uz1N7nnkP3ZyKhByNMpPBWg+qpA+uFZtVsOow==;N1IBLm3gF4Qpmksx6l2zwg=="
+secured: "gyKnLsKG2hy58eq2uu31MQp6me+p9yBIXpfh49tmNfz4fq/MxopiznytAPf7OYR+KQT5sfqAJ5+GMKhNNlXinr5WfiIIzhQM/QXPAwEOLaFaLQD7kEj6mE0FOnQbB0Yk35ALNYtMGx3DJRTDjlpElLfF9IviIayThLvSEW+dV4QhC/vC7wlzWO4U7Vnx5bRyWMrmhZ90KMMHL2BXJMSgxAbI7u4nck0SRmwduqREh0gaMvXAHFBPtInyp3vw3mtw1QDOy0HXsFpVjJT1WDYDI3Pp51MgG7a5em8M6Fvre2EAjMMRVH8ZbS8PpGNvwX6Qf0ObmYwSE6hsP6Cw6a2QLWB7JZYJvChGwnYKYTPiSlQ=;PitVXR53xT7FlfCVxb/xsw=="
 ---
 

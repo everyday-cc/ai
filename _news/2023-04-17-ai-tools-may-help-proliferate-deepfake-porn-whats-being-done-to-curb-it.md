@@ -45,13 +45,13 @@ related:
       domain: seattletimes.com
     quality: 37
   - title: "Deepfake porn could be a growing problem amid AI race"
-    excerpt: "But experts fear the darker side of the easily accessible tools could worsen something that primarily harms women: nonconsensual deepfake pornography. Deepfakes are videos and images that have been digitally created or altered with artificial intelligence or machine learning."
-    publishedDateTime: 2023-04-16T19:26:00Z
-    webUrl: "https://www.chron.com/business/article/deepfake-porn-could-be-a-growing-problem-amid-ai-17900306.php"
+    excerpt: "Experts fear the darker side of the easily accessible AI tools could worsen something that primarily harms women: nonconsensual deepfake pornography."
+    publishedDateTime: 2023-04-17T12:30:00Z
+    webUrl: "https://www.stltoday.com/news/national/deepfake-porn-could-be-a-growing-problem-amid-ai-race/article_6078d522-210e-519a-af8a-93abf2f4b6f7.html"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 17
 
 secured: "OAnZLeYffTqupUE6kA6lesnm85EGw2jAjQFLMsE72rtr3rhjH2BwrRS4mAxpRW/YJXb4ka9RBoWwJLFWfbjHtGqUFiz1XUaSTu50flGzwsx36LqOWsZVSuSEL5QyPGLypQUmDyrt0uxJvkh1oI9/XnAle7BvZcazwdgRlPvgvDeZM+pK9hItOjdbNTWcGKiwAH5XALw/MWVq1vs4JCD9P5YoVZGL/NOaAd7KfN4WWhS/ZJVSG4ymI6gIxoIpVwO3kFoV3skvdaAwiR4eJ8ZbcX7+5Jx6Fx0MQNYaL9DBvaUsGImVe5/AkRM+n5rn183i/pIp2FMEJ8w/AXxOhZAPuRwGYwyRgUOBfhtjuJ6umfhqVy0cxB9lI4CrxcOuU54N0wdLSvEJe+4YKV97fLEFflzlp//HVYrBsrsRzTRYR3H2254eogkVRYJaHdHiSTTEEnuPw5QZp+4HXMV6zvFYWHaeiksQuUGN8I/Xa2Wml57Uigqq1AgLH3zB5nFQ/qzatIfILHsYx2Nom44aU7Vp5A==;ELpU4UXEwsOfQcId7pqTLg=="

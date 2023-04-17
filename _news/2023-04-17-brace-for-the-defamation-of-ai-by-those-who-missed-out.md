@@ -28,6 +28,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
+  - title: "Fake Drake raises questions over AI tools used to create covers"
+    excerpt: "At the moment, these AI covers seem to be slightly mischievous experiments, but lurking beneath it all are some complex issues. From an artist standpoint, there’s the simple issue of ethics. Having your voice cloned might feel like an intrusion: suddenly they have no control over their voices,"
+    publishedDateTime: 2023-04-17T11:00:00Z
+    webUrl: "https://musically.com/2023/04/17/fake-drake-raises-questions-over-ai-tools-used-to-create-covers/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 19
 
 secured: "zQjlU+zW9vq+JVRfSxAOm3Sq9faUiHXt9GeOD0aNPrtNp9jvGslP9Key+HaZ7eoge0jANoYRADt1cX+KGehmikAsOMC7YqwBSsiEmg8T5i9W5q6j9UIysxIW2hsVMSNGJyRf5qwLREGFp1XQlRvI4DlgmTPF6v32efaF0KJ7I3xXKJscRPaRqlLh5Q2DO+Ynm3OqI1yoWCVHlrRRuSfhFJiwg7FUsCza4V0iGDfvCBiEG2mHfdLILd/QTfLjnD5CpF+coZu1RiLKhdqYn6KaHp9ARDrQV0itQMMmR7qGirX4hYWcVm/OhTlDhVosRwHdBELwCtduZM7R7dA0pHYBsiKxS/tYOV7QhbkOtNERpEI=;PZ9ABc+cpc0ywvSja0JpRg=="
 ---

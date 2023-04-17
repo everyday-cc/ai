@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Alphabet Stock Falls on Concern About AI Threat to Google's Position in Search"
+    excerpt: "Alphabet shares are dropping, as investors worry about how competitive the company is in artificial intelligence-powered applications. In recent premarket trading, the technology giant's stock stood 4% lower at $104."
+    publishedDateTime: 2023-04-17T12:38:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-news-today-04-17-2023/card/alphabet-stock-falls-on-concern-about-ai-threat-to-google-s-position-in-search-O3oVXRlvNfswswEQp0I6"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 43
 
 secured: "w2SUHjicr1ShBs3YMlFrWq9k9hLm0M0RzPAWHMJ8BJ2nR0nM0u1A889ZP0Y4yCG0Dw/0OWhaP6yn776Mn4CwhaR+I+Qez4dM4O33gznh/IWaSpaUWRZK16TvcXa0zOChWerrV+nk1FlMnwAP0ZAJJqlah4t7w8BaEztf9GLNYJbpsgtOzq3yNthuFtL9IcTcH58qxnxxMQl2jb57QIdfF/6ifdQaOVtYSeWLkD4paXWomnPMbaf66IZyMoRT/sEUub5Env+lVphf02RIPaaTn7ncbr2HAlfHn8uq5cfMirq4QzEsynApjtXdybqgP5JLVbhUERYRtcQhUYv9Z2GprtDTsg6ypt3oo6KarIKjGlA=;QCgP9dYcvikuS8qTbfsVsQ=="
 ---

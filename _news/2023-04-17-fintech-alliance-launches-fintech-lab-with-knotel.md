@@ -24,6 +24,17 @@ images:
     height: 2304
     isCached: true
 
+related:
+  - title: "17/04 – Weekly Fintech Recap"
+    excerpt: "Partnerships OKX Wallet Announces Blur Partnership, Revamps OKX Earn OKX announced a partnership with Blur.io to fully integrate the OKX Wallet on the leading Ethereum-based NFT Marketplace. On March 22,"
+    publishedDateTime: 2023-04-17T12:30:00Z
+    webUrl: "https://financialit.net/news/payments/1704-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 4
+
 secured: "nlSy8Abz+oDyUoaWJjqcpk0jXf8euGMceI9JgDQawd7BKpSetS8Z4AGwaTWEC9jRBdR4XE0DERrC+qpmMNWLx5SDvtmlIZ8PZVcYAKl9JhYnwo/m6gBWc0rFtVkBf5vCXQO1s6z/fKT3/8ivq7wuLgMNjGu3FCY90bZGE+Aej4Q/WbilpE3/8GMrzGOSUF3c8Zl8/LhvW1EhET6hIjKzRjFfRco4VXZas54nM8rZiwbyNUkynbKpTu8oESBoL9mk8ZCoZozuo5BrA1s6dUdQEFAjgfQrRDfRPdHQ7zKBcPVcW8SUETv8UAD2YWPLdw+DADe8rwbFipO/FJDm2R390w94LLS/EDJrwDwLJNipIJI=;R/8dBhQNYeg8gUbwQxnoyg=="
 ---
 

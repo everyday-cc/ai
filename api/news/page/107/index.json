@@ -2,6 +2,161 @@
   "page": 107,
   "value": [
     {
+      "path": "_news/2023-01-17-where-is-the-best-place-to-run-ai.md",
+      "title": "Where Is The Best Place To Run AI?",
+      "excerpt": "Uploading vast amounts of data to the cloud can often introduce very high latency, in many cases surpassing hundreds of milliseconds, which can seriously impair operations to the point of rendering them ineffectual at best and total wastes of time and money at worst.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/17/where-is-the-best-place-to-run-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/17/where-is-the-best-place-to-run-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c15e4efdaea7ad1989b8c5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/17/where-is-the-best-place-to-run-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/17/where-is-the-best-place-to-run-ai/amp/",
+      "publishedDateTime": "2023-01-17T02:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-whats-new-in-azure-data-ai-empowering-retailers-to-streamline-operations-and-accelerate-time-to-value.md",
+      "title": "What's new in Azure Data & AI: Empowering retailers to streamline operations and accelerate time to value",
+      "excerpt": "Let’s explore what’s new for Azure Data & AI this month.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/whats-new-in-azure-data-ai-empowering-retailers-to-streamline-operations-and-accelerate-time-to-value/",
+      "originalUrl": "https://azure.microsoft.com/blog/whats-new-in-azure-data-ai-empowering-retailers-to-streamline-operations-and-accelerate-time-to-value/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c5c54319-99e7-40ad-8031-c81bb273e918.png",
+          "width": 768,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T00:00:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-7-ways-google-is-using-ai-to-help-solve-societys-challenges.md",
+      "title": "7 ways Google is using AI to help solve society's challenges",
+      "excerpt": "Google is using AI to help people facing disease and natural disasters, and to provide new opportunities for underserved communities.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/7-ways-google-is-using-ai-to-help-solve-societys-challenges/",
+      "originalUrl": "https://blog.google/technology/ai/7-ways-google-is-using-ai-to-help-solve-societys-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Davos_AI_hero.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-17-rob-reiner-grilled-for-praising-biden-as-a-decent-law-abiding-person-poster-boy-for-cognitive-dissonance.md",
       "title": "Rob Reiner grilled for praising Biden as a 'decent law abiding person': 'Poster boy for cognitive dissonance'",
       "excerpt": "\"As of now, you're quite literally the poster boy for cognitive dissonance…\" he added. In a separate tweet, Lombardi slammed Reiner's post as a \"propaganda tweet.\" \"Yea? That’s why the FBI tri ...",
@@ -1054,136 +1209,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-novel-neurofeedback-technique-enhances-awareness-of-mind-wandering.md",
-      "title": "Novel Neurofeedback Technique Enhances Awareness of Mind-Wandering",
-      "excerpt": "Researchers have developed a novel neurofeedback technique based on Pavlovian conditioning that detects when a person's mind is wandering.",
-      "sourceUrl": null,
-      "webUrl": "https://neurosciencenews.com/mind-wandering-neurofeedback-22265/",
-      "originalUrl": "https://neurosciencenews.com/mind-wandering-neurofeedback-22265/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://neurosciencenews.com/files/2023/01/neurofeedback-mind-wandering-neurosinces-public.jpg",
-          "width": 769,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-16T08:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neuroscience News",
-        "domain": "neurosciencenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-the-advantages-of-artificial-intelligence-ai.md",
-      "title": "The advantages of artificial intelligence (AI)",
-      "excerpt": "DURING the last two months or so, there has been much discussion around the world regarding the potential benefits and threats in the fast development in recent years of",
-      "sourceUrl": null,
-      "webUrl": "https://www.manilatimes.net/2023/01/17/opinion/columns/the-advantages-of-artificial-intelligence-ai/1874594",
-      "originalUrl": "https://www.manilatimes.net/2023/01/17/opinion/columns/the-advantages-of-artificial-intelligence-ai/1874594",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.manilatimes.net/manilatimes/uploads/images/2023/01/17/148178.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.manilatimes.net/2023/01/17/opinion/columns/the-advantages-of-artificial-intelligence-ai/1874594/amp",
-      "cdnAmpWebUrl": "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/01/17/opinion/columns/the-advantages-of-artificial-intelligence-ai/1874594/amp",
-      "publishedDateTime": "2023-01-16T08:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manilatimes",
-        "domain": "manilatimes.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-deepminds-ai-chatbot-can-do-things-that-chatgpt-cannot-ceo-claims.md",
-      "title": "DeepMind’s AI chatbot can do things that ChatGPT cannot, CEO claims",
-      "excerpt": "Google’s DeepMind has pioneered advances in artificial intelligence since its founding in 2010, with the ultimate goal of creating a human-level AI (Alan Warburton / Better Images of AI / CC ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/deepmind-ai-chatbot-chatgpt-openai-b2262862.html",
-      "originalUrl": "https://www.independent.co.uk/tech/deepmind-ai-chatbot-chatgpt-openai-b2262862.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2022/05/17/10/deepmind%20ai%20artificial%20general%20intelligence.jpg?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-16T07:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

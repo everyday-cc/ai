@@ -34,6 +34,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 66
+  - title: "The Commoditization of Models Will Fuel The Next Generation of AI-Native Startups"
+    excerpt: "In this special guest feature, CTO of AI startup, OctoML, Jared Roesch, believes the result of the commoditization of models is that it will fuel AI-Native experiences that transform how we interact with technology at every level."
+    publishedDateTime: 2023-04-17T13:59:00Z
+    webUrl: "https://insidebigdata.com/2023/04/17/the-commoditization-of-models-will-fuel-the-next-generation-of-ai-native-startups/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 12
 
 secured: "EO0klSPZIrCAHL37V5FwA+cVZmdMsgHWy6f2hfF9Q8kqQVI311mFTUhLWJMpI4yIovQM4OH4jyxf8JftN3bDF4gFHmB2dgR04zkXOSp2OLi98nyMpNo8DRVRsCNMMK79AhUQAi5eDRcrXXCdkSvHkRpfd6n9rNjfEsFkSNE87SXxiPNMSe3MioT8fMWMamSUTIZP8nG87yQp5IBXGPDtwYaG5JaSt9FmwmjoEdRIKcFBJgPsEoM9JpIfkuo7Y4LGAfxUJFRO7zJHbGMaFa/AegUzVpdTC9s/c/tdKfMncJzTGtfZu3r0u2ZO54A6Kj6KBv3WHRNHzi5yn7Qq7KTk7+Iifh6TYBP1mQzptD41K4OWCaE49+nbOc69iwa93K2cj0D9i0db96bF+Wcp4knasYhuRkV5xGwh4v/BSjQWQEOPeIYdBbsnubyuzA2dU6a6OLOrGsm/5h8gt1jDdOWgQE6xxiOf4ybPblHpC898m65pnPdPba+keqn48y0+SVkaEWs4x00tC1nwRF2xXVFyCQ==;mWPmGOG8tXhyF+emvBfLrQ=="
 ---

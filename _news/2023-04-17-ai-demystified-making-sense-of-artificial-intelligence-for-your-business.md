@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-17T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/ai-demystified-making-sense-of-artificial-intelligence-for-your-business/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/ai-demystified-making-sense-of-artificial-intelligence-for-your-business/"
 type: article
+quality: 63
+heat: 63
+published: false
 
 provider:
   name: Forbes

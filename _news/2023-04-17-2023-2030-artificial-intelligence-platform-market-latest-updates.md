@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence in Marketing Market Size [2023-2030] | Share, Growth, Recent Trends, Development"
-    excerpt: "Global “Artificial Intelligence in Marketing Market” (2023-2030) research report is an expert examination on the"
-    publishedDateTime: 2023-04-14T09:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-marketing-market-size-2023-2030-share-growth-recent-trends-development-2023-04-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence in Retail Market [2023-2030] | The Impact of Trend and Technology on the Industry"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 14, 2023 (The Expresswire) -- Global “Artificial Intelligence in Retail Market” (2023-2030) research report provides precise data related to key competition ..."
     publishedDateTime: 2023-04-14T21:43:00Z

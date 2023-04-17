@@ -81,6 +81,15 @@ related:
       name: Biometric Companies
       domain: biometricupdate.com
     quality: 26
+  - title: "Yahoo Japan tests facial-recognition payment system"
+    excerpt: "Yahoo Japan is testing a system that allows people to go out shopping without having to bring any money, cards or their phone."
+    publishedDateTime: 2023-04-17T13:45:00Z
+    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20230417_33/"
+    type: article
+    provider:
+      name: NHK
+      domain: nhk.or.jp
+    quality: 4
 
 secured: "s/DP5Ekf0KyT9dcqdNEczQ+WV+g51ayiuerNAHSfmW841hePvOhpVYMzu3UZ0PLGQ+FTcYZtqAPMDUKn7djrzctrpKqPMI6g5rPlQh2+7H21mBOME/hu9aGFnvqIWLmJFgQXtkdhineENw/T0I2MiJnb+6mFhxr43iqQz2hngBmGNum3ZiLevTEZ16snOKazU1Ru7VKqDFoKm2z5Fl7fSQdtMrh8LKshOllqjpNTknMHjVlYyrMQfEkMT7qP31YNWaJkIHtAnMgoaFprecrAPPJMBvuVkHxjQv/u0Lh0lnEDgVB1EvX/0315UcWox8tt9SDbfCvMyAqxiSmKxEVO+19f81ncV2Q/LjKCO76S1HG7OLCSy4SH4MbzptFmh+bFaeuXD9wETn/X5XjsnmTOckjvZbwZeDXLwR5D3UCX18g0i2adV5/32bBL/fB+AuyQgAjBxtn7/1up882EGOLEghTi5pxibdSQD+YtSwuALaQLEo9sWHXHbxWAsPwRy4Nimax9qd5ZDU50/lOAQJ3joQ==;LlNUnFicWDQWkots5s+hqg=="
 ---

@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Microsoft and Epic expand strategic collaboration with integration of Azure OpenAI Service"
+    excerpt: "April 17, 2023 /PRNewswire/ -- Microsoft Corp. and Epic on Monday announced they are expanding their long-standing strategic collaboration to develop and integrate generative AI into healthcare by combining the scale and power of Azure OpenAI Service 1 ..."
+    publishedDateTime: 2023-04-17T15:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-and-epic-expand-strategic-collaboration-with-integration-of-azure-openai-service-1032236844"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://mma.prnewswire.com/media/1795836/Epic_NEW_Logo.jpg"
+        width: 400
+        height: 222
+        isCached: true
   - title: "Microsoft, Siemens to drive industrial productivity with generative AI"
     excerpt: "Azure OpenAI Service powered assistant can augment the creation, optimization and debugging of code in software for factory automation."
     publishedDateTime: 2023-04-14T14:51:00Z
@@ -47,15 +61,20 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Microsoft Stock Is Easily Your Best AI Bet for 2023"
-    excerpt: "That’s okay, though, as it’s not too late to take a position in Microsoft (NASDAQ:MSFT) stock. No doubt about it — Microsoft will continue to push the boundaries in the generative AI field this year,"
-    publishedDateTime: 2023-04-14T16:21:00Z
-    webUrl: "https://www.nasdaq.com/articles/microsoft-stock-is-easily-your-best-ai-bet-for-2023"
+  - title: "Microsoft, Epic partner to integrate Azure OpenAI into EHRs"
+    excerpt: "One of the integration’s tools, which helps automatically draft message responses, is being implemented at UC San Diego Health, UW Health and Stanford Health Care, according to the companies."
+    publishedDateTime: 2023-04-17T15:50:00Z
+    webUrl: "https://www.healthcaredive.com/news/microsoft-epic-azure-open-ai-partnership-ehrs/647784/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 69
+    images:
+      - url: "https://www.healthcaredive.com/imgproxy/kOWfD2ShjgQn4cjAE4UozSetVvZ8l6nsoI0nDML5F-w/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzNTMzNTc0MTAuanBn.jpg"
+        width: 770
+        height: 435
+        isCached: true
   - title: "How 5G and wireless edge infrastructure power digital operations with Microsoft"
     excerpt: "As enterprises continue to adopt the Internet of Things (IoT) solutions and AI to analyze processes and data from their equipment, the need for high-speed, low-latency wireless connections are rapidly growing. Companies are already seeing benefits from deploying private 5G networks to enable their solutions,"
     publishedDateTime: 2023-04-13T10:00:14Z
@@ -65,6 +84,34 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 63
+  - title: "Epic to integrate Microsoft's generative AI into EHRs"
+    excerpt: "Epic is partnering with Microsoft to develop and integrate generative AI into its EHR software, with health systems beginning to pilot the new integrations. Under the partnership, the companies will combine Microsoft's Azure OpenAI Service with Epic's EHR ..."
+    publishedDateTime: 2023-04-17T15:46:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/epic-to-integrate-microsofts-generative-ai-into-ehrs.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Microsoft and Johnson Matthey join forces to speed up hydrogen fuel cell innovation with Azure Quantum"
+    excerpt: "Johnson Matthey and Microsoft Azure Quantum chemists have teamed up to drive new discoveries in sustainable energy."
+    publishedDateTime: 2023-04-13T14:00:00Z
+    webUrl: "https://cloudblogs.microsoft.com/quantum/2023/04/13/microsoft-and-johnson-matthey-join-forces-to-speed-up-hydrogen-fuel-cell-innovation-with-azure-quantum/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 38
+    images:
+      - url: "https://cloudblogs.microsoft.com/quantum/wp-content/uploads/sites/7/2023/04/JM_announce_blog_entry_800X450.png"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "DeEGcL4Q/i/rZ1gzQHVMSTcrLvpEbRfey0MMUQEpMEPA6K5W1JAEAGg7YqZd1zq2LnHxafAhefsAe0nT36oGhrKyxpNSpglBVdHZ4r2fvCwg+5+WnAonzZ3C+h11p2c47pF7qx697lRgcwBa+2PjyRYoMVNvror0TzouuChSZhvv6OIVBJ/cBn+vJQL+yTo5tdyhzGrLjOmrTZNyhtdRYDMKHpfoDmod02lH+jlYr8AhDGaGD8GrDtz2khVAqRtuehpAUFoyLn8yqGLT9mRrBzA/jzMSBub5pBEQlr3evgKJOlbCHfWM8LB7/xBg1AKbN/MHR9yMFiH46PAH9P2apXmRy6AIlQM1yGDvQ0LeO2/BFiCDw5obYeBqM2Gv6EiWCaKW4Fp0Gonz2MO6aAURWv2gXx5nLdNUAgCOFa/oPYdB/Eyjrk2va+11LerSNP8dTbiDyF8b0v5Q3Cl9fdVHY5l7SzTGjGAovSHvwfrP2ELjTmOkqvt6hV+NoNJGeuZNq6zbB4WnlocfYKH2z3lauQ==;IwxaxtM+Wd7YEK4nnRiqyQ=="
 ---

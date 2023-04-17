@@ -103,6 +103,17 @@ related:
       name: CNET
       domain: cnet.com
     quality: 64
+  - title: "In AI race, Microsoft and Google choose speed over caution"
+    excerpt: "Technology companies were once leery of what some artificial intelligence could do but now the priority is winning control of the industry’s next big thing."
+    publishedDateTime: 2023-04-17T13:59:00Z
+    webUrl: "https://www.seattletimes.com/business/in-ai-race-microsoft-and-google-choose-speed-over-caution/"
+    ampWebUrl: "https://www.seattletimes.com/business/in-ai-race-microsoft-and-google-choose-speed-over-caution/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/in-ai-race-microsoft-and-google-choose-speed-over-caution/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 56
   - title: "Microsoft integrates Bing's AI into Swiftkey, Skype, Start apps"
     excerpt: "After launching the new Bing experience earlier this year, Microsoft has been trying to bring the search engine's AI features to its products."
     publishedDateTime: 2023-04-14T06:11:00Z
@@ -155,6 +166,20 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 48
+  - title: "Epic, Microsoft bring GPT-4 to EHRs"
+    excerpt: "Health systems using Epic's EHR system will be able to run generative AI solutions like GPT-4 through Microsoft's OpenAI Azure Service."
+    publishedDateTime: 2023-04-17T15:07:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/himss-2023-epic-microsoft-bring-openais-gpt-4-ehrs"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/1200x630/public/Epic_Systems_112109_Sign.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft is Bringing (More) AI to Developers"
     excerpt: "In the Build 2022 session list, you will find a reference to how developers can build a \"company copilot\" using Azure ML and GPT-4."
     publishedDateTime: 2023-04-13T13:32:00Z

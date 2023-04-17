@@ -21,10 +21,10 @@ topics:
 related:
   - title: "The AI revolution: Google's artificial intelligence developers on what's next in the field"
     excerpt: "The revolution in artificial intelligence is at the center of a debate ranging from those who hope it will save humanity to those who predict doom. Scott Pelley headed to Google to see what's coming next in AI."
-    publishedDateTime: 2023-04-16T23:02:00Z
-    webUrl: "https://www.cbsnews.com/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/"
+    publishedDateTime: 2023-04-17T11:00:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/"
     type: article
     provider:
       name: CBS News

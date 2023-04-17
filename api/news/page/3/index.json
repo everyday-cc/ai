@@ -2,6 +2,257 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-14-indias-tryst-with-artificial-intelligence.md",
+      "title": "India’s Tryst with artificial intelligence",
+      "excerpt": "Artificial Intelligence (AI) has already begun transforming the way the world works. Constant efforts are being made to evolve and integrate it",
+      "sourceUrl": null,
+      "webUrl": "https://www.omanobserver.om/article/1135663/world/asia/indias-tryst-with-artificial-intelligence",
+      "originalUrl": "https://www.omanobserver.om/article/1135663/world/asia/indias-tryst-with-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.omanobserver.om/omanobserver/uploads/images/2023/04/14/2305392.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.omanobserver.om/ampArticle/1135663",
+      "cdnAmpWebUrl": "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1135663",
+      "publishedDateTime": "2023-04-14T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "omanobserver",
+        "domain": "omanobserver.om",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-microsoft-brings-bings-ai-chatbot-to-its-ios-and-android-swiftkey-apps.md",
+      "title": "Microsoft brings Bing's AI chatbot to its iOS and Android SwiftKey apps",
+      "excerpt": "Bing's inclusion into SwiftKey follows the lead of other Microsoft programs like Skype and Microsoft Start. Skype lets users message directly with Bing in a group chat or on-on-one, while Microsoft Start provides access to Bing across the app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/microsoft-brings-bings-ai-chatbot-to-its-ios-and-android-swiftkey-apps-113528183.html",
+      "originalUrl": "https://www.engadget.com/microsoft-brings-bings-ai-chatbot-to-its-ios-and-android-swiftkey-apps-113528183.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 266,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/tqOU9yoybwdi8.XGFNp5Yg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-04/9a7cb730-daaf-11ed-b66f-5d683edb9d76.cf.jpg",
+          "width": 1114,
+          "height": 585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/microsoft-brings-bings-ai-chatbot-to-its-ios-and-android-swiftkey-apps-113528183.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-brings-bings-ai-chatbot-to-its-ios-and-android-swiftkey-apps-113528183.html",
+      "publishedDateTime": "2023-04-14T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-amazons-aws-business-faces-short-term-headwinds-with-companies-cautious-on-spending.md",
+      "title": "Amazon’s AWS business faces short-term headwinds with companies cautious on spending",
+      "excerpt": "Amazon CEO Andy Jassy outlines progress in transforming fulfillment centers to a regional network, continued ambitions in grocery and hopes for",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/amazon-says-aws-business-facing-short-term-headwinds-as-companies-are-cautious-on-spending-7ecf061c",
+      "originalUrl": "https://www.marketwatch.com/story/amazon-says-aws-business-facing-short-term-headwinds-as-companies-are-cautious-on-spending-7ecf061c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-762849/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/amazon-says-aws-business-facing-short-term-headwinds-as-companies-are-cautious-on-spending-7ecf061c",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazon-says-aws-business-facing-short-term-headwinds-as-companies-are-cautious-on-spending-7ecf061c",
+      "publishedDateTime": "2023-04-14T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-the-best-movies-on-amazon-prime-video-april-2023.md",
+      "title": "The best movies on Amazon Prime Video (April 2023)",
+      "excerpt": "If Amazon Prime Video ever had to rely solely on its original films, it might not be among the streaming giants. Amazon’s MGM library is robust, but Prime Video’s selections can range from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
+      "originalUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/06/Ticket-To-Paradise-Movie.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
+      "publishedDateTime": "2023-04-14T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-revolutionizing-the-consumer-goods-industry-with-integrated-business-planning.md",
+      "title": "Revolutionizing the consumer goods industry with integrated business planning",
+      "excerpt": "Learn how Al Rabie Saudi Foods Co. Ltd adopted an integrated business planning analytics approach to streamline their planning and budgeting processes.\nThe post Revolutionizing the consumer goods industry with integrated business planning appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/revolutionizing-the-consumer-goods-industry-with-integrated-business-planning/",
+      "originalUrl": "https://www.ibm.com/blog/revolutionizing-the-consumer-goods-industry-with-integrated-business-planning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/7854f0c7-0b57-4568-954bdb02aaf9e223.l.jpg",
+          "width": 1312,
+          "height": 656,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-14-the-good-and-bad-side-of-ai-and-how-you-can-leverage-it.md",
       "title": "The Good And Bad Side Of AI And How You Can Leverage It",
       "excerpt": "Successful marketers will need to decide how much of their process to automate, understand the limitations of the technology and weigh the pros and cons of each use of AI.",
@@ -199,58 +450,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-14-artificial-intelligence-ai-chip-market-by-2030-future-scope-and-predictions.md",
-      "title": "Artificial Intelligence (AI) Chip Market by 2030: Future Scope and Predictions",
-      "excerpt": "The Artificial Intelligence (AI) Chip Market has been comprehensively examined in a new research report published",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-by-2030-future-scope-and-predictions-2023-04-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-by-2030-future-scope-and-predictions-2023-04-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-14-amazon-jumps-into-the-generative-ai-race-with-new-cloud-service.md",
       "title": "Amazon jumps into the generative AI race with new cloud service",
       "excerpt": "The announcement indicates the largest provider of cloud infrastructure won’t be leaving a trendy growth area to challengers such as Google and Microsoft.",
@@ -259,7 +458,7 @@
       "originalUrl": "https://www.nbcnews.com/tech/tech-news/amazon-jumps-generative-race-new-cloud-service-rcna79599",
       "featuredContent": null,
       "highlight": null,
-      "heat": 331,
+      "heat": 341,
       "tags": null,
       "images": [
         {
@@ -354,7 +553,7 @@
       "originalUrl": "https://venturebeat.com/data-infrastructure/ai-and-ml-the-new-frontier-for-data-center-innovation-and-optimization/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -536,7 +735,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-2029global-report-forecast-2023-04-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -808,58 +1007,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-13-self-driving-vehicles-market-future-investments-and-forecast-till-2028.md",
-      "title": "Self-driving Vehicles Market Future Investments and Forecast Till 2028",
-      "excerpt": "The research report on the Self-driving Vehicles Market presents an efficient industry perspective, future patterns,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-vehicles-market-future-investments-and-forecast-till-2028-2023-04-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-vehicles-market-future-investments-and-forecast-till-2028-2023-04-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-13-decoding-insomnia-machine-learning-model-predicts-sleep-disorders-from-patient-records.md",
       "title": "Decoding insomnia: Machine learning model predicts sleep disorders from patient records",
       "excerpt": "A machine learning model can effectively predict a patient's risk for a sleep disorder using demographic and lifestyle data, physical exam results and laboratory values, according to a new study published this week in the open-access journal PLOS ONE by Samuel Y.",
@@ -1036,144 +1183,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-sony-investment-will-put-ai-chips-inside-raspberry-pi-boards.md",
-      "title": "Sony investment will put AI chips inside Raspberry Pi boards",
-      "excerpt": "Sony Electronics has announced that it's making a \"strategic investment\" in Raspberry Pi in order to bring its AI chips to a wider market..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/sony-investment-will-put-ai-chips-inside-raspberry-pi-boards-083503462.html",
-      "originalUrl": "https://www.engadget.com/sony-investment-will-put-ai-chips-inside-raspberry-pi-boards-083503462.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/YnwFCW5yh1_lBnS_nZcXFg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-04/9187f130-d906-11ed-bfff-437ef0360c42.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!Finance",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-aimachine-learning-market-with-types-of-research-report.md",
-      "title": "AI/Machine Learning Market With Types of Research Report",
-      "excerpt": "The Global AI/Machine Learning market is anticipated to rise at a considerable rate during the forecast period. The market is growing at a steady rate and with the rising adoption of strategies by key players,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-with-types-of-research-report-2023-04-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-with-types-of-research-report-2023-04-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T20:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-singapores-gic-increases-stake-in-fintech-pagaya-to-9.md",
-      "title": "Singapore’s GIC Increases Stake in Fintech Pagaya to 9%",
-      "excerpt": "Singapore’s sovereign wealth fund GIC has increased its stake in United States-Israeli fintech Pagaya Technologies from roughly 7% to 9%.",
-      "sourceUrl": null,
-      "webUrl": "https://fintechnews.sg/71429/ai/singapores-gic-increases-stake-in-fintech-pagaya-to-9/",
-      "originalUrl": "https://fintechnews.sg/71429/ai/singapores-gic-increases-stake-in-fintech-pagaya-to-9/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/04/Singapores-GIC-Increases-Stake-in-Fintech-Pagaya-to-9-1024x568.jpg?x90673",
-          "width": 1024,
-          "height": 568,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fintech Singapore",
-        "domain": "fintechnews.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

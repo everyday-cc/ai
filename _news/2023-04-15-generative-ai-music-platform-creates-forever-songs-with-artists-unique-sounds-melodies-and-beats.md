@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2023/04/14/generative-ai-m
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/04/14/generative-ai-music-platform-creates-forever-songs-with-artists-unique-sounds-melodies-and-beats/amp/"
 type: article
 quality: 73
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 843
     isCached: true
+
+related:
+  - title: "AI used to create songs using popular artists’ voices"
+    excerpt: "Artificial intelligence technology is causing major concern among music labels as vocals from artists like Rihanna are being worked into songs they never recorded."
+    publishedDateTime: 2023-04-17T13:06:00Z
+    webUrl: "https://abcnews.go.com/GMA/News/video/ai-create-songs-popular-artists-voices-98630221"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 17
 
 secured: "kb/6QsT/cUado7spfTw3K9E173sf33Qhraxkix0uy9p2ulpE1++ZKVK84K1VvkHSIuB88n+RCzcBu+AHz6EdA3bYU+STkw5bKHwSwLduYFCzVqsZeShyfYYuisCmI4v3TpT2U2NkbzMalInDuBUwlVv4E/DcxMy9jCTUMeiT7MYD8gzvYEXWhr2DbOKUu/12jLwDErmhcdikcOD+DM5EgvQSREKOx87Eu2fhTIbmyOY7jMfetS1+XooSIr92t6He19uf1JzilQtu58UqKNerjLCbu6BmRjG+0PkP5+8hV7L42fp5LUZTahuIQpzRths4xYLD6wUQvKDfgN/zC0Y1GetoIB+uK6J/JxNz682qufynTylR7IEyS8COIfi1+20FOKfcqcl49XKKzaK9cnRdnkgkQW9+eOupn/Cr3oFHOw27GkgbeWX0E6rOx7WhCKKLwqGi/OQtTNXHgJ6uWDcaQnpZDnxz4FbqUUePFkbtXVGKHAk9Um8wFycrdMfoWNupjpoAldPuBg7lQ3FFxPpPQg==;YgjxH6CMwhtmO1obf8BH5Q=="
 ---

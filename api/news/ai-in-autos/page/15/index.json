@@ -2,101 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2023-01-04-pretax-profits-at-tuam-driverless-car-firm-surge.md",
-      "title": "Pretax profits at Tuam driverless car firm surge",
-      "excerpt": "Pretax profits at the Tuam firm at the cutting edge of driverless car technology ... generating software intellectual property with artificial intelligence. A note with the accounts said that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.irishtimes.com/business/2023/01/03/pre-tax-profits-at-tuam-driverless-car-firm-surge/",
-      "originalUrl": "https://www.irishtimes.com/business/2023/01/03/pre-tax-profits-at-tuam-driverless-car-firm-surge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.irishtimes.com/resizer/DlvuTnioTDNFgvvlbQ4uAbjcVzM=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/EOZV4SVHRBLHHEVPK6IKNZKPZI.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T10:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Irish Times",
-        "domain": "irishtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-nvidia-partners-with-foxconn-to-build-drive-orin-chips-for-future-self-driving-cars.md",
-      "title": "Nvidia Partners With Foxconn to Build Drive Orin Chips for Future Self-Driving Cars",
-      "excerpt": "with plans to use Drive's artificial intelligence tech in their next-generation driver aid systems and automated cars. Foxconn's recent entry into the electric vehicle race is beginning to pick up ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/nvidia-partners-with-foxconn-to-build-drive-orin-chips-for-future-self-driving-cars/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/nvidia-partners-with-foxconn-to-build-drive-orin-chips-for-future-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/15ba4cac8f27af1fe0e5ea9ab0fa76b1909e1f9b/hub/2023/01/03/32bfcefc-a8b7-4fef-9859-327db2e0c5aa/foxconn-rs-ogi.jpg?auto=webp",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidia-partners-with-foxconn-to-build-drive-orin-chips-for-future-self-driving-cars/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-partners-with-foxconn-to-build-drive-orin-chips-for-future-self-driving-cars/",
-      "publishedDateTime": "2023-01-03T09:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-04-profits-surge-at-tuam-based-driverless-car-technology-firm-valeo.md",
       "title": "Profits surge at Tuam-based driverless car technology firm Valeo",
       "excerpt": "Pre-tax profits at a Co Galway firm at the cutting edge of driverless car technology ... software intellectual property with artificial intelligence. The directors state that its products and ...",
@@ -1391,6 +1296,74 @@
       "provider": {
         "name": "AZ Central",
         "domain": "azcentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-17-phoenix-airport-1st-to-offer-self-driving-ride-service-waymo.md",
+      "title": "Phoenix airport 1st to offer self-driving ride service Waymo",
+      "excerpt": "Phoenix Mayor Kate Gallego arrives in a self-driving vehicle, Friday, Dec. 16, 2022, at the Sky Harbor International Airport Sky Train facility in Phoenix. Mayor Gallego a",
+      "sourceUrl": null,
+      "webUrl": "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php?src=sthplifestyle",
+      "originalUrl": "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php?src=sthplifestyle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-16T15:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StamfordAdvocate",
+        "domain": "stamfordadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-17-how-artificial-intelligence-could-be-used-to-fight-wildfires.md",
+      "title": "How artificial intelligence could be used to fight wildfires",
+      "excerpt": "A tech company is developing a new type of artificial intelligence to fight wildfires by using predictive analysis before the fires even start and AI logistics to help contain them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
+      "originalUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
+      "cdnAmpWebUrl": "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
+      "publishedDateTime": "2022-12-16T12:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "q13fox",
+        "domain": "q13fox.com",
         "images": null,
         "publishers": null,
         "authors": null

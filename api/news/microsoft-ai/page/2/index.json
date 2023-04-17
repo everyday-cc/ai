@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-25-better-ai-stock-microsoft-vs-nvidia.md",
+      "title": "Better AI Stock: Microsoft vs. Nvidia",
+      "excerpt": "Microsoft has an early mover advantage in the generative AI market thanks to OpenAI and ChatGPT. Nvidia's dominance in GPUs and the importance of these chips in generative AI applications could help it remain a top AI stock. With a purported investment of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/03/24/better-ai-stock-microsoft-vs-nvidia/",
+      "originalUrl": "https://www.fool.com/investing/2023/03/24/better-ai-stock-microsoft-vs-nvidia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 236,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/725637/chatbot-smartphone-person.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-24T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-25-how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.md",
       "title": "How retailers are empowering business transformation with TCS and Microsoft Cloud",
       "excerpt": "TCS specializes in AI-powered vision technologies like Microsoft Azure Percept to create ... portfolio of intellectual property using machine vision, conversational assistants, predictive analytics, machine learning, AI, and other capabilities on Microsoft ...",
@@ -1401,50 +1454,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work.md",
-      "title": "Microsoft makes reductions in ethics AI team amid ChatGPT work",
-      "excerpt": "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area.",
-      "sourceUrl": null,
-      "webUrl": "https://scrippsnews.com/stories/microsoft-reduces-ethics-ai-team-furthers-chatgpt-work/",
-      "originalUrl": "https://scrippsnews.com/stories/microsoft-reduces-ethics-ai-team-furthers-chatgpt-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.scrippsnews.com/images/videos/m/1679006239_Wz7rHZ.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-16T15:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scrippsnews",
-        "domain": "scrippsnews.com",
         "images": null,
         "publishers": null,
         "authors": null

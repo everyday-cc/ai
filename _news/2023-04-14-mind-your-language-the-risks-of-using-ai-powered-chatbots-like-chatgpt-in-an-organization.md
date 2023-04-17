@@ -150,15 +150,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "GPT-4 vs. ChatGPT: AI Chatbot Comparison"
-    excerpt: "GPT-4 and ChatGPT are the two trailblazers for GPT technology – which has dramatically sparked interest in generative AI and artificial intelligence in general. GPT is an abbreviation for Generative Pre-trained Transformer,"
-    publishedDateTime: 2023-04-12T19:16:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/gpt-4-vs-chatgpt/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 49
   - title: "Schumer calls for AI rules as ChatGPT surges in popularity"
     excerpt: "The Senate majority leader has circulated a plan to establish rules on AI to address national security concerns, as ChatGPT becomes the fastest-growing consumer application in history."
     publishedDateTime: 2023-04-13T17:17:00Z
@@ -209,6 +200,20 @@ related:
       - url: "https://assets-varnish.triblive.com/2023/04/6099010_web1_6057796-5f634f24303c4f78a9e41f89b4353292.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "Does ChatGPT have a soul? A conversation on Catholic ethics and A.I."
+    excerpt: "ChatGPT began making headlines at the end of 2022. Part of the quest for artificial intelligence, ChatGPT uses a technique called machine learning to churn out novel strings of text in response to a user’s command. The technology is not completely new."
+    publishedDateTime: 2023-04-17T15:24:00Z
+    webUrl: "https://www.americamagazine.org/politics-society/2023/04/17/ai-chat-gpt-catholic-ethics-245071"
+    type: article
+    provider:
+      name: America Magazine
+      domain: americamagazine.org
+    quality: 39
+    images:
+      - url: "https://www.americamagazine.org/sites/default/files/styles/article_image_750_x_503_/public/main_image/2023/04/11/alex-knight-2EJCSULRwC8-unsplash.jpg.jpg?itok=4K-z0jHp"
+        width: 750
+        height: 500
         isCached: true
   - title: "Musk Plots AI Firm to Rival ChatGPT, Which He Co-Founded"
     excerpt: "Musk signed an open letter calling for an immediate pause on AI research for systems more powerful than ChatGPT."
@@ -302,6 +307,15 @@ related:
       name: Slator
       domain: slator.com
     quality: 19
+  - title: "eClinicalWorks Brings ChatGPT and AI Models into EHR and Practice Management Solution"
+    excerpt: "\"We are thrilled to combine advances in generative AI models with eClinicalWorks' solutions to bring responsible AI to healthcare,\" said Girish Navani, CEO and cofounder of eClinicalWorks. \"We have been in the world of machine learning and data science for years,"
+    publishedDateTime: 2023-04-17T14:35:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/04/17/9795619.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
   - title: "Is ChatGPT Worthy of All the Hype?"
     excerpt: "OpenAi’s ChatGPT, the new kid on the AI block, has attracted much attention since its introduction in November. Using the large language model, the technology produces intelligent and informed text in response to prompts,"
     publishedDateTime: 2023-04-14T09:19:00Z
@@ -311,6 +325,15 @@ related:
       name: International Banker
       domain: internationalbanker.com
     quality: 4
+  - title: "Coursera launches AI-powered learning tools – but what challenges do educators face in the era of ChatGPT?"
+    excerpt: "Online learning giant Coursera launched brand-new AI-powered learning tools at their flagship conference last week, as part of a wave of institutions and corporations seeking to revolutionize education with generative artificial intelligence."
+    publishedDateTime: 2023-04-17T12:42:00Z
+    webUrl: "https://diginomica.com/coursera-launches-ai-powered-learning-tools-what-challenges-do-educators-face-era-chatgpt"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 3
 
 secured: "JskbP+fSZ7t6Y2CfHHLAU+eKgx9rZ3fvw0Yiy3ORg3wo38urQFVq9Qw/KIR7QyWvRVPV7WqyHmemFJJGVEroK578Mrg8LY42EU2odsx2wH6+3wwxDtREowy7QhOazangMQUjye0b1uueneosy8fHDIhARVjkA8d5/FEpfzxctsHml10JfnU/FkMlctHmMhtSt42XcBAUZrlvduwTimCUUD+lqWaro48ZTedwnwa2O9Aq2D+rFzYXE9+MzOtq2Mi0U0k3wfcJqfQIcS6CX5ZJLut/Zq3wqO3Nqa6oeo+od3ccA54hGauz/uL8g7p/GeykyhsbRgUjPg2XUzuQE2VeVEbAABpdcpZlb47ZNv1EVoX3Wyr5/ugqlqKMIvbbL7DkuM0RHEPII/Sosnc66wx9Xk7UW01ZHOE3XWQxDwHXRyPhP2jrNMftKvNQ+0DSdoybtUuKfR1XYUwHtLMrtvCL5kCJ38TpCV6/uItqPnGzm8+GhphlD10JFkP1TOyLgafXH70UqNq8F2KVsAguVddGbQ==;OwPX3Q493p9oMrJVW93RZQ=="
 ---

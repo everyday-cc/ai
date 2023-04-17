@@ -7,7 +7,7 @@ originalUrl: "https://www.benzinga.com/pressreleases/23/04/g31806497/artificial-
 webUrl: "https://www.benzinga.com/pressreleases/23/04/g31806497/artificial-intelligence-ai-in-social-media-market-is-expected-to-reach-12-billion-by-2031-allied-m"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -24,107 +24,38 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Chip Market by 2030: Future Scope and Predictions"
-    excerpt: "The Artificial Intelligence (AI) Chip Market has been comprehensively examined in a new research report published"
-    publishedDateTime: 2023-04-14T04:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-by-2030-future-scope-and-predictions-2023-04-14"
+  - title: "Global Used and Refurbished Robots Market is Pegged to Attain Valuation of US$ 5,080.2 Million by 2031: Astute Analytica"
+    excerpt: "The growth of the used and refurbished robots market can also be attributed to the increasing adoption of advanced technologies such as machine learning, artificial intelligence, and the Internet of Things (IoT). These technologies are being integrated ..."
+    publishedDateTime: 2023-04-17T15:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/04/g31834609/global-used-and-refurbished-robots-market-is-pegged-to-attain-valuation-of-us-5-080-2-million-by-2"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 95
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Industry Research Report on Artificial Intelligence (AI) Chips Market Share and Industrial Overview till 2030"
-    excerpt: "Apr 14, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global \"Artificial Intelligence"
-    publishedDateTime: 2023-04-14T11:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/industry-research-report-on-artificial-intelligence-ai-chips-market-share-and-industrial-overview-till-2030-2023-04-14"
+  - title: "AI Training Dataset Market to reach $9.3 Billion, Globally, by 2031 at 21.6% CAGR: Allied Market Research"
+    excerpt: "The AI training dataset market is growing rapidly, fueled by the rise of machine learning and artificial intelligence, as well as technological advancements that enable the generation of vast amounts of data."
+    publishedDateTime: 2023-04-17T12:21:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/04/g31828329/ai-training-dataset-market-to-reach-9-3-billion-globally-by-2031-at-21-6-cagr-allied-market-resear"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 80
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Robots Market Growth by 2031"
-    excerpt: "Robots market growth? Artificial Intelligence (AI) Robots Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031. Browse Detailed TOC,"
-    publishedDateTime: 2023-04-14T18:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-growth-by-2031-2023-04-14"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 2
+  - title: "Artificial Kidney Market Size Expected To Hit US$ 5.3 Billion By 2033, With 13% CAGR: Report By Fact.MR"
+    excerpt: "As per the latest estimates by Fact.MR, a market research and competitive intelligence provider, the global artificial kidney market is valued at US$ 1.5 billion in 2023"
+    publishedDateTime: 2023-04-13T18:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/04/g31794422/artificial-kidney-market-size-expected-to-hit-us-5-3-billion-by-2033-with-13-cagr-report-by-fact-m"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 79
-  - title: "Mobile Artificial Intelligence (AI) Market Size, Share, Growth Report, Analysis, Forecast by 2030"
-    excerpt: "The authors of the report have segmented the global Mobile Artificial Intelligence (AI) market as per vendor list, product, application, and region. Segments of the global Mobile Artificial Intelligence (AI) market are analyzed on the basis of market share,"
-    publishedDateTime: 2023-04-14T08:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-ai-market-size-share-growth-report-analysis-forecast-by-2030-2023-04-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market Demand by 2031"
-    excerpt: "Apr 14, 2023 (The Expresswire) -- The latest market research report on the Global \"Artificial Intelligence (AI) in Fintech Market\" is segmented by Regions, Country, Company and other Segments. The global Artificial Intelligence (AI) in Fintech market is ..."
-    publishedDateTime: 2023-04-14T18:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-demand-by-2031-2023-04-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-  - title: "Artificial Intelligence (AI) As a Service Market Demand Analysis By 2030"
-    excerpt: "The latest Artificial Intelligence (AI) As a Service Market Analysis is designed to help clients improve their"
-    publishedDateTime: 2023-04-14T17:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-as-a-service-market-demand-analysis-by-2030-2023-04-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-  - title: "Artificial Intelligence (AI) Software Market Size, Share and Forecast till 2031"
-    excerpt: "The latest market research report on the Global \"Artificial Intelligence (AI) Software Market\" is segmented by"
-    publishedDateTime: 2023-04-13T05:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-software-market-size-share-and-forecast-till-2031-2023-04-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-  - title: "Artificial Intelligence in Litigation Funding Market Growth Status and Foresight till 2030"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 14, 2023 (The Expresswire) -- The Artificial Intelligence in Litigation Funding Market has been comprehensively examined in a new research report published by ..."
-    publishedDateTime: 2023-04-14T13:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-litigation-funding-market-growth-status-and-foresight-till-2030-2023-04-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Systems Market by 2030: Future Scope and Predictions"
-    excerpt: "The Face Recognition Systems Market has been comprehensively examined in a new research report published by Absolutereports.com. This report provides a complete overview of the market scenario, including latest trends,"
-    publishedDateTime: 2023-04-13T05:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-by-2030-future-scope-and-predictions-2023-04-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "A4QoDMeC7lPiiFNsuL5m0CD2ewUBCNwtd1TREV634YZkmUxIfRN4to3N23VK+zKobLQzX+BTMPglWcgCy4Qy+20J3pWImRf4hOJBLNtCJUNiK7QmHrEWxUrdoRkRI15zb2yfxI1ddwD4954Em8wTueEoAvQk4zLy9gkF0bDPldvBxrYsi5YBe5AbSqSjboHnzCvyqVSdfc/UXEOw/iMeE7pY795Q2h5BgJhC8q3r9bI6clM2RJnIoSmUOqv/haOjbqUA8Kw2fk6plEc6Vz+/fvGexwkLdbFQkKCu05yrTuUJ9YBb88bV0aZJsJsqjrY8AR6xIptrpkMthWH10+crnlUD+/oRRgntM5nZBlMca2Y=;16P59YCOvt0Q3T67rxShEQ=="
 ---

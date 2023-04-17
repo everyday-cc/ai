@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-17T11:57:00Z
 originalUrl: "https://www.sb.by/en/kruglikov-belarus-made-voice-assistant-is-element-of-national-security.html"
 webUrl: "https://www.sb.by/en/kruglikov-belarus-made-voice-assistant-is-element-of-national-security.html"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: sb.by

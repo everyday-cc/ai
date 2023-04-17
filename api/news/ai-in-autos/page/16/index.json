@@ -2,74 +2,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_news/2022-12-17-phoenix-airport-1st-to-offer-self-driving-ride-service-waymo.md",
-      "title": "Phoenix airport 1st to offer self-driving ride service Waymo",
-      "excerpt": "Phoenix Mayor Kate Gallego arrives in a self-driving vehicle, Friday, Dec. 16, 2022, at the Sky Harbor International Airport Sky Train facility in Phoenix. Mayor Gallego a",
-      "sourceUrl": null,
-      "webUrl": "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php?src=sthplifestyle",
-      "originalUrl": "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php?src=sthplifestyle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-16T15:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "StamfordAdvocate",
-        "domain": "stamfordadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-17-how-artificial-intelligence-could-be-used-to-fight-wildfires.md",
-      "title": "How artificial intelligence could be used to fight wildfires",
-      "excerpt": "A tech company is developing a new type of artificial intelligence to fight wildfires by using predictive analysis before the fires even start and AI logistics to help contain them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
-      "originalUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
-      "cdnAmpWebUrl": "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
-      "publishedDateTime": "2022-12-16T12:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "q13fox",
-        "domain": "q13fox.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-17-gm-units-self-driving-taxis-are-subject-of-us-safety-investigation.md",
       "title": "G.M. Unit’s Self-Driving Taxis Are Subject of U.S. Safety Investigation",
       "excerpt": "The National Highway Traffic Safety Administration is looking into unexpected braking by cars operated by Cruise, a part of General Motors.",
@@ -1336,6 +1268,110 @@
         "name": "The Nation Newspaper",
         "domain": "thenationonlineng.net",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-tesla-ordered-to-upgrade-self-driving-computer-for-free-due-to-false-advertising.md",
+      "title": "Tesla ordered to upgrade self-driving computer for free due to ‘false advertising’",
+      "excerpt": "A judge has ordered Tesla to upgrade a customer's self-driving computer for free in order to subscribe to Tesla's Full Self-Driving program.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/12/12/tesla-ordered-upgrade-self-driving-computer-for-free-false-advertising/",
+      "originalUrl": "https://electrek.co/2022/12/12/tesla-ordered-upgrade-self-driving-computer-for-free-false-advertising/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/01/elon-musk-twitter1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T14:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-roadrunner-uses-artificial-intelligence-to-revamp-waste-processing.md",
+      "title": "RoadRunner uses artificial intelligence to revamp waste processing",
+      "excerpt": "CNBC's Diana Olick joins 'Power Lunch' to discuss a clean energy startup making moves to change recycling methods, the logistical considerations involved in waste management, and the value of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2022/12/12/roadrunner-uses-artificial-intelligence-to-revamp-waste-processing.html",
+      "originalUrl": "https://www.cnbc.com/video/2022/12/12/roadrunner-uses-artificial-intelligence-to-revamp-waste-processing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107164843-16708745101670874507-27115159683-1080pnbcnews.jpg?v=1670875361&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T12:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

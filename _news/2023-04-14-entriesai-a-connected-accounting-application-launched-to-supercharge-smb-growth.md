@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2416621-entriesai---
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2416621-entriesai---a-connected-accounting-application-launched-to-supercharge-smb-growth?amp"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1280
     height: 853
     isCached: true
+
+related:
+  - title: "Use AI to Supercharge Your Smartphone's Keyboard"
+    excerpt: "It won’t be long until we see a true AI keyboard: Rather than rely on simple autocorrect features, the AI could offer helpful suggestions as you type, display corrections, present additional context, or change function depending on the message you’re ..."
+    publishedDateTime: 2023-04-17T13:11:00Z
+    webUrl: "https://lifehacker.com/use-ai-to-supercharge-your-smartphones-keyboard-1850337405"
+    type: article
+    provider:
+      name: Lifehacker
+      domain: lifehacker.com
+    quality: 17
 
 secured: "w4ABOeKrDRqamKBM4MwL1VAewBddBShQeLLlwWQUU0bIu9fBs0kXPwpRxRgYoC6/4L8H6z7UTTxFzCMEHj2Xh6m7up9cn5Dd2Wgv5AxC+A+vuFMqqA2Ocen6y2DMOOfJO2X5X3AZVrsMDZ6m3x78qIpzNltdsA6v1CfBY1KZ34hYSwTd2qxFDvBEybZzBORn2hIp9ZsdMS6ZuZRIOCMsEdP3GfQyLB/XSSclBKPl6Z1EuNegjoBTG6Cne4PHAuBcfSLkVsIkJYhSO5d3hnFzn9HMR/75wOidEZgnLt1asn+cZTSOJMZLLEW/7+ANdk0/0rXXB33BEa1v8jGKfV1TM9y6YAOxJzVGgSOElEmy3rQ=;/Hv9Hc1OpwI61YLbAVbG+w=="
 ---
