@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AWS AI
 
 related:
   - title: "Elon Musk quietly starts X.AI, a new artificial intelligence company to challenge OpenAI"

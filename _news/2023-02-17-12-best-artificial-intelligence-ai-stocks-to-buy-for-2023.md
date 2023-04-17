@@ -26,6 +26,7 @@ topics:
   - AI in Robotics
   - AI Hardware
   - AI in Healthcare
+  - AWS AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/63eeaae555e0f25c5c2ed0f6/0x0.jpg?format=jpg&width=1200"
