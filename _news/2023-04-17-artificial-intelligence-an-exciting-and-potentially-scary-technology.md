@@ -9,8 +9,8 @@ ampWebUrl: "https://www.indiatoday.in/amp/india-today-insight/story/artificial-i
 cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/india-today-insight/story/artificial-intelligence-an-exciting-and-potentially-scary-technology-2361133-2023-04-17"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: India Today
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "What’s Slowing Down Self-Driving Car Technology?"
-    excerpt: "Car and tech companies have promised for years that fully self-driving cars were just around the corner. But experts say the technology is far from where it nee"
-    publishedDateTime: 2023-04-14T14:32:00Z
-    webUrl: "https://www.wsj.com/video/series/tech-news-briefing/whats-slowing-down-self-driving-car-technology/27D24413-3882-4A81-9AE0-16F3A2896A97"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 54
-    images:
-      - url: "http://images.wsj.net/im-763796?width=1280&height=720"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Sunflower Technology: A Singapore-based fintech company is expanding to Latin America and South America"
     excerpt: "Sunflower Technology is a technology company based in Singapore that is expanding its services to Latin America and South America. Sunflower Technology is leveraging its expertise in big data, AI, and blockchain to create innovative solutions for underserved communities in Latin America and South America."
     publishedDateTime: 2023-04-17T12:50:00Z

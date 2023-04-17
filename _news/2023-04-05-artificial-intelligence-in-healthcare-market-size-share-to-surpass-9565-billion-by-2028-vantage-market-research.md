@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Artificial Intelligence In Healthcare Market Size & Share To Surpass $95.65 Billion By 2028 | Vantage Market Research"
-excerpt: "WASHINGTON, April 04, 2023 (GLOBE NEWSWIRE) -- The Global artificial intelligence in healthcare market is valued at USD 6.60 Billion in 2021 and is projected to reach a value of USD 95.65 Billion ..."
-publishedDateTime: 2023-04-05T03:00:00Z
-originalUrl: "https://menafn.com/1105944893/Artificial-Intelligence-In-Healthcare-Market-Size-Share-To-Surpass-9565-Billion-By-2028-Vantage-Market-Research"
-webUrl: "https://menafn.com/1105944893/Artificial-Intelligence-In-Healthcare-Market-Size-Share-To-Surpass-9565-Billion-By-2028-Vantage-Market-Research"
+title: "Artificial Intelligence in Healthcare Market Size & Share to Surpass $95.65 Billion by 2028 | Vantage Market Research"
+excerpt: "WASHINGTON, April 04, 2023 (GLOBE NEWSWIRE) -- The Global Artificial Intelligence in Healthcare Market is valued at USD 6.60 Billion in 2021 and is projected to reach a value of USD 95.65 Billion ..."
+publishedDateTime: 2023-04-04T17:59:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/04/g31663616/artificial-intelligence-in-healthcare-market-size-share-to-surpass-95-65-billion-by-2028-vantage-m"
+webUrl: "https://www.benzinga.com/pressreleases/23/04/g31663616/artificial-intelligence-in-healthcare-market-size-share-to-surpass-95-65-billion-by-2028-vantage-m"
 type: article
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?244234"
-    width: 381
-    height: 250
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "abLFJBavbvUUv55TBZiwjHfZGCzpEf4du0chBXj81p9Q5P/8ubTSlzBtKIia0TMoN1btfhRa7V+R13L7dvM+BLW1qP/5fdoquZRzA6zcGnGJBpFmk/QxzQr8hYwd3+SmVQfkBjSfZL9xBe+5CZGie0MPqw0csmCF6vJJkAXoo4Qjjpe9lHN9rxzngc6ia2rfOvM2eXl2alEzwqWrbESGdprlC+Y/e6OjoWr1s1zTcoDs3C+tIUhFVr6lX5vbT8vBoxfOnN8qNJIRLP/L5y1RsvyzcOJ9QiiBnLRcIfM19efBsXkgG3fKNbkuu29qaPlAnU0qVXcFzq3w3/jUOmXa/MwWhM54E6SupQlD6f602uk=;5cPi+AlOJO6Wm+h8MVSSvQ=="
+secured: "3frS2NDZRwsEryFJbaanhdXWPzlebmJQqLw5x2Mne+M321Dh4ezoc8JeLIsPi7zr/FIjLfpYejfzJRxACD1o6A3LxDLXtBOCL62yI+MLfm/v8yd/qYS+tgxdHN0DP3vxUykEaaM5VQJSmWZaNP9gCTVg04GeUpNMzInZqWXOXPYQ0TUrFUUvkSfPKVefmjDHN0tTqExPD4vHm6zxYtyPCyoUr9aCbEXkeFFEudbyJA6e5zatFrGhU4FJg3tDkkzmV1cJ0iliqD15qlO6vGqiBCT3XKWAxy+I/k3JWlgJu1cREBoD8OOeRrhgJM5984AaJdNIF9jBC2h1UOMqqp56r3cttWUE1I8YmRlvVHflyuM=;WUVlRgCzHtsOSx0d3fyE7Q=="
 ---
 

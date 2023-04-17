@@ -6,8 +6,8 @@ publishedDateTime: 2023-04-16T14:00:00Z
 originalUrl: "https://www.fool.com/investing/2023/04/16/3-top-artificial-intelligence-stocks-to-buy-now/"
 webUrl: "https://www.fool.com/investing/2023/04/16/3-top-artificial-intelligence-stocks-to-buy-now/"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://g.foolcdn.com/editorial/images/726821/a-robot-coins-and-a-piggybank.jpg"

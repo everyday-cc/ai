@@ -27,7 +27,7 @@ related:
     provider:
       name: Townhall
       domain: townhall.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://media.townhall.com/cdn/hodl/2018/184/36bcc181-97f7-41ee-95d0-845e323decf1.jpg"
         width: 650

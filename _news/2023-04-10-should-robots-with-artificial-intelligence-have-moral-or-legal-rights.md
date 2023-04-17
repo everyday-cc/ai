@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Should Robots With Artificial Intelligence Have Moral or Legal Rights?"
-excerpt: "Artificial intelligence is writing essays ... bolstering longstanding worries that robots might someday overtake us."
-publishedDateTime: 2023-04-10T16:18:00Z
-originalUrl: "https://www.wsj.com/articles/robots-ai-legal-rights-3c47ef40?mod=tech_lead_pos11"
-webUrl: "https://www.wsj.com/articles/robots-ai-legal-rights-3c47ef40?mod=tech_lead_pos11"
+excerpt: "Last year a software engineer at Google made an unusual assertion: that an artificial-intelligence chatbot developed at the company had become sentient, was entitled to rights as a person and ..."
+publishedDateTime: 2023-04-10T16:01:00Z
+originalUrl: "https://www.wsj.com/articles/robots-ai-legal-rights-3c47ef40?mod=latest_headlines"
+webUrl: "https://www.wsj.com/articles/robots-ai-legal-rights-3c47ef40?mod=latest_headlines"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 640
     isCached: true
 
-secured: "o/4xh/gBb0oqhWih/jN3FSd5RqLFmQ4er91DdETXwgocOitF80/GmMsIdEJ07DqX/AB3KoRSBWAaR05kXubLI7TJEQ4sCUQ2KKtwjKL9orFarQobzoJE0P174W6UvNnIuYcwDcbTWRjviTRXjolILsKFMB/Tb2+mbTL6SqcQzqVluCrnDzjme665pUFqIFapqEzGsP4BNyQ6rfqOkvfDy+MO2UxhTK22StkNgwsSTCCzi6O2dVdyvgQjh/vOzcVs6s4cVGOij1cLbr9GWt+vXOgKMvxSm2bpmb8A5eUcwA7gUfyql+c07ypfG8zXEHI3naMqjwMxFOQ0tPs16B1bHdi7C1tPUJ+gi2ld5bpzy7A=;albstfrbdNTKsbe1Y7QeNQ=="
+secured: "W0XKpKM9yqBWK8T1nK8D4gu80qouMkAYRAuNsPO8uMDGq9eE/gPRyF4oPn0DwCxNiTHvDQ2q0z26NAHO9kTRQVisXFdBXTLB9mMtHA7Roa4ls5FZvb3VZ3NOAedB4p7ya7Di0XgEWKRXk4YyX0kjKtYiW7FbLCN/ruOthO7U9n3Jd1OiUfb/ud0sba4ClMlVnXjkEUXICGijh3uTQvWVZ7XQ4N5XFNWHbJI2/W27dt4ROz5Zwwg3U6yb6OlGGvZA3rhCyG84OBPDDj81R79uvVrw9MzIVX1dzC7AZarnZt4MR2Nb2iXMPe9+/Jt/p7MHNkn5fDc4bLYSENkr31MZs8A3/KY1WVMfMJrDJsVOEJo=;RKfcy1a/jSD8O/ch8FMNmQ=="
 ---
 

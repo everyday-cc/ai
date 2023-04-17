@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "What’s Slowing Down Self-Driving Car Technology?"
-    excerpt: "Car and tech companies have promised for years that fully self-driving cars were just around the corner. But experts say the technology is far from where it nee"
-    publishedDateTime: 2023-04-14T14:32:00Z
-    webUrl: "https://www.wsj.com/video/series/tech-news-briefing/whats-slowing-down-self-driving-car-technology/27D24413-3882-4A81-9AE0-16F3A2896A97"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 54
-    images:
-      - url: "http://images.wsj.net/im-763796?width=1280&height=720"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "BrCufUOTJ8H+95IljGm2qwQVJpAg2OiEifwk6ME4KrtbTraJELz8FdBf+CUAuXzDKtBGgl/iwILd0AMkXHHIUx84LUtvhhjhpBoHDAGTATudmnQcPegKFzqMSpmGerRcrQ8AOk3FH65EhRG2q8DQ89T+lYciesQz/P3+zJUCyGKGmKiyf+xV+/ZDQaisK6y83zPQaVtAI7R0ykUL12aNf3twHHgQ33T/J5NfGFuR4+rnVqxDcSKGG+VWNId8CMKtLOye1q0ePsSEEOcCYqa/xDZ4PK+3121aRkO1U7KwJ6RV2Slx9QbJJh6RiNHmkOCQtbcV3Zz4mpkm3aLoQRpnRf95tgoPLkQSx2q6xgOBnNJPDM7usa6+02NPhYCcrC9wwjp8JR75oYDbvBW6fsfUIF13dVXkRJ1+2hbtRx/B9YmhDpM4qOBJI5hlzlYPjytNfKyxSVy87Ir+IBFIyBaS0ey82LFIazkdbNtPs0pgRV7/gzb3IbjkKZD2BmhUceHHhwMV0oscNN5y75iZ0+VA7A==;MXszP1v68g5hXAalO4in+w=="
 ---

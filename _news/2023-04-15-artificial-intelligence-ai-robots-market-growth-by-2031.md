@@ -227,19 +227,14 @@ related:
       domain: europa.eu
     quality: 44
   - title: "Global Digital Health and Wellness Market Analysis Report 2023-2028: Burgeoning Opportunities with the Growing Reign of Artificial Intelligence (Ai)"
-    excerpt: "The \"Digital Health and Wellness Market - Global Outlook & Forecast 2023-2028\" report has been added to ResearchAndMarkets.com's offering. The digital health and"
-    publishedDateTime: 2023-04-17T14:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/04/n31832511/global-digital-health-and-wellness-market-analysis-report-2023-2028-burgeoning-opportunities-with-"
+    excerpt: "The digital health and wellness market by revenue is expected to grow to $1,103.22 billion by 2028 from $335 billion in 2022, growing at a CAGR of 21.97% Digital health and wellness refer to being physically,"
+    publishedDateTime: 2023-04-17T15:59:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-digital-health-wellness-market-analysis-report-2023-/2023/04/17/9795628.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 15
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "6folKrkVCFDBbbvK286eFH16VPohe5Id3orZO2LKieSRuhSOEzdf+lHLXyNyB609StTqiGAz7LaelYGkOZC31Yfy636BV6+R9qSGpQq3b0YJqihP+1aCYJsef+5kaC+0y1e5ImZs8WFImAR+Sd96CuoZ2Lk8zwFQcsC/drbt5bQSZ5aXiXk/jz1qXbZcJgsnySPwOX7qIxKOsPMWQcl4rDpLb6/QAfKZl9Xs8y6s9zSsF1CX3lNL4X8c+g0ga2D70zqC3hSoJGjr6FdSWuf1QRmpW8xW5V2yg/I3vBx/nXGIk/jzDbWz3GfCw7xDwHcGmvtafWAhQSHiSYWbv0ISr/uaZbcLTEC+kSkzTAXL91o=;5amZtADQwKkZJDr4J+rucA=="
 ---

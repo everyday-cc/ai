@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-2029global-report-forecast-2023-04-13"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 71
+  - title: "Global Mobile Artificial Intelligence Market [2023-2030] | Opportunities and Challenges"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 17, 2023 (The Expresswire) -- Global “Mobile Artificial Intelligence Market” (2023-2030) research report is an expert examination on the flow condition of the Global ..."
+    publishedDateTime: 2023-04-17T17:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-mobile-artificial-intelligence-market-2023-2030-opportunities-and-challenges-2023-04-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "F0fgDF3Q1uva9zj0pq2cI0ZJFjM1+UQ3zfc9Pfu2o9/+JVKxTWhbZzn17vWbLLlMGFwRyPh+VRnhMyFJPCF1y75xbxvah9xflgVdHdGo3jOUhH5p2FBsB2Q6ISeHIkvM+1BbMuncsKB4nf6q2VNMCu39hVZWdA/nlu0EQ5CW/gPAPdWAiqHn6Uyz/pT2HVoGMQ73L+TsqPemHddKgyQF85zbvb80UHP2bw5WL9TONyXvA1I5K7TJqpdaDxJdx4I3foTzdkNncaEZGzNGqjkjYUfvWKSoBUxCP37xNRf4PgDAmZYwFa19qfDVyFvWr2pZ3XwzlStjKNUcIgcZZT1ANEdQIAHUUrCM2wiwRre7cl0=;6DRz1n2mdA1sUJfD++uYFA=="
 ---

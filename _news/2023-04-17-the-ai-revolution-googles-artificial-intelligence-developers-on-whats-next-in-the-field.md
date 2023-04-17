@@ -8,8 +8,8 @@ webUrl: "https://www.cbsnews.com/sanfrancisco/news/ai-advancements-google-artifi
 ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/"
 type: article
-quality: 64
-heat: 84
+quality: 66
+heat: 86
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/14/c12480c9-3363-478b-86bf-a856a2fa8598/thumbnail/1200x630/7b4e4968150471b425ee46c93ff66fd1/google-robot-1.jpg"
@@ -46,6 +47,6 @@ related:
       domain: technewsworld.com
     quality: 19
 
-secured: "/MK/nI5xZDFzT6yaxoHRhiYmrH4aP8M39OFqU7xudGeoaANuJUZmyugMHP0jcA+ZldZTNA/9aren13A6zu1j7/a3PjZ+TkYL/Of80OHbSRwG79ysmh9Bz7HFi53I1HH1BmU1eyw5iKsZjDMMElzNLVMNyOBDfdHhK7ntuImChgL0h6zpLi1vmjqT3aPLHrB1Be8Luw/vY2eglMRcmMWHyIV/5YIL0+vwiQWdmyVJVBZdoWK+hvhqDtHx3XPXwYaMTtNhDPKo6julER/BN86krdYWBRovs0q73Ow+zFD0/dKlun5eV9PB/ZYjOH/5xEaUnCzbU+lLFDP0ogItIAthsmBIy4bxrCAxZZSNM1Gi9uY=;IJa7XzVVP1dksxgoSNs14w=="
+secured: "YnBfScL8pW6FiXG0ssZD3n28WiVXT1j2f4fpduiw9cCFX94S11Fuf0Z+UK4VNTj827DRyDt/cTBKIp/Lznn93k4IdE4qtcHrfoUBWYWPWL3BoUhmtX8eTNXVhhdfTwXfLa2p9Ns57bBMSpnxJ5rexffBbtD4lDqIGZQq8OXoMiyoNBqKgf1PlNJqajtEpKM7D0YUmzpE7jzJ2X6DmBj71f6F9myPZKxgOqMyfFZuww5r9LOHHIdMfOIDwldV8RoQisLeHYJYNMpjI/FDl3ig+xTxIBlnDGoVESqM+jHFkMuxhzNEl3CyK23GFYfTwtP8485itKLojIu4DEV/H5hFCXZZu71wIXtt1tHxoTuHM2lOIS8Q8c8VGJVorVQQ3EmWO53L8V23BHwgR+B7+lahE8goDYBhSjRh5XBrkpmMGL/jQVqPfDzSp5ARWL38KETB5WnyT+ZdaJVcSLmzB7Uw2PdWs2eb4J5E7/K7YwFPyvYp2uDrOMWXuoqyH+f88eelExvctwTklmoUzjJbhO7uSA==;SZrP4jKXENdwI4siv78VOA=="
 ---
 

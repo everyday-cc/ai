@@ -8,7 +8,7 @@ webUrl: "https://www.seattletimes.com/business/in-ai-race-microsoft-and-google-c
 ampWebUrl: "https://www.seattletimes.com/business/in-ai-race-microsoft-and-google-choose-speed-over-caution/?amp=1"
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/in-ai-race-microsoft-and-google-choose-speed-over-caution/?amp=1"
 type: article
-quality: 56
+quality: 60
 heat: -1
 published: false
 
@@ -20,6 +20,8 @@ topics:
   - AI Ethics
   - AI
   - Microsoft AI
+  - Natural Language Processing
+  - Facebook AI
 
 related:
   - title: "Microsoft brings Bing's AI chatbot to its iOS and Android SwiftKey apps"
@@ -118,6 +120,20 @@ related:
       - url: "https://d.ibtimes.co.uk/en/full/1710519/microsoft-signage-seen-companys-headquarters-redmond.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "UW Health using Microsoft AI in Epic Systems medical records"
+    excerpt: "UW Health is among three health care providers using artificial intelligence developed by Microsoft Corp. to draft message responses in electronic medical records by Verona-based Epic Systems Corp., the companies said Monday."
+    publishedDateTime: 2023-04-17T17:10:00Z
+    webUrl: "https://madison.com/news/local/health-med-fit/uw-health-using-microsoft-ai-in-epic-systems-medical-records/article_adf0b772-7b01-52ad-b6d6-8a707ef4b561.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/23/a23b6ca4-c404-514f-81dd-3724f4acc2fe/643d7dabc7376.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Improve supply chain security and resiliency with Microsoft"
     excerpt: "The Microsoft Supply Chain Platform was just launched to help companies protect their supply chains against cyber threats."

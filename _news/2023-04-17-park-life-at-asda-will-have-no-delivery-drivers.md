@@ -44,7 +44,7 @@ related:
   - title: "Asda will start delivering food to customers across London using driverless cars"
     excerpt: "Customers across London will have their shopping delivered to their homes by 'self-driving' Jaguar I-Pace electric cars."
     publishedDateTime: 2023-04-17T15:18:00Z
-    webUrl: "https://www.thisismoney.co.uk/money/cars/article-11981683/Asda-start-delivering-food-customers-London-using-driverless-cars.html"
+    webUrl: "https://www.thisismoney.co.uk/money/cars/article-11981683/Asda-start-delivering-food-customers-London-using-driverless-cars.html?mrn_rm=rta"
     ampWebUrl: "https://www.thisismoney.co.uk/money/cars/article-11981683/amp/Asda-start-delivering-food-customers-London-using-driverless-cars.html"
     cdnAmpWebUrl: "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/cars/article-11981683/amp/Asda-start-delivering-food-customers-London-using-driverless-cars.html"
     type: article

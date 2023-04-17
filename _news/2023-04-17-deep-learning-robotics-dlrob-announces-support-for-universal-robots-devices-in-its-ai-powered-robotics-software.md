@@ -7,8 +7,8 @@ originalUrl: "https://www.benzinga.com/pressreleases/23/04/n31824160/deep-learni
 webUrl: "https://www.benzinga.com/pressreleases/23/04/n31824160/deep-learning-robotics-dlrob-announces-support-for-universal-robots-devices-in-its-ai-powered-robo"
 type: article
 quality: 65
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Benzinga.com
@@ -24,6 +24,17 @@ images:
     width: 1043
     height: 1043
     isCached: true
+
+related:
+  - title: "Generaitiv Announces Groundbreaking Innovations in Decentralized AI and Web3 Integration With White Paper Release"
+    excerpt: "Generaitiv, the leading decentralized artificial intelligence (AI) NFT platform, is proud to announce major updates to its offerings, detailed"
+    publishedDateTime: 2023-04-17T16:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/generaitiv-announces-groundbreaking-innovations-in-decentralized-ai-and-web3-integration-with-white-paper-release-1032235948"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
 
 secured: "HHEKWfBCOY8YozCKpyfQZJyzvdu3yCZewpEmE++7TQJbn+yJpSuoCz2xciYewdUys/2fwpzTBkYCkzmUhmHWUyRoAA7ryYkpB4WDS50Hm2ZrGNT7Z7R6byiOLYsLFqhbUXGWd9HPjhtiZ7qSdkKnNHtRhCPoWyZmXnUhNzSb4roLRrODuPsT+88RS8luFETazeRuyJIJsPwaOZw2jAC1oi90yyXoOYuSmUKajWhZ148MhkxZrXRIbeYHBe3pvsHkBbF4IuiRtDIZQGmHLyBrlqqJuHbBLTcqvBKmWWvF33JlcqhNE+Qsg3BFdPnGszmd5W0Ev/Ls4Z+J+mK60C7EBatpJioA+x66puc9IiE/ID0=;hGiuE6d3C/E/T/T0KyRH2Q=="
 ---

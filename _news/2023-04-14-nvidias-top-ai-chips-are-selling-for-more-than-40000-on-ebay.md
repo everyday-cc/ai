@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/04/14/nvidias-h100-ai-chips-selling-fo
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/14/nvidias-h100-ai-chips-selling-for-more-than-40000-on-ebay.html"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia's H100 AI Processors Are Selling for Over $40,000 on eBay"
+    excerpt: "In the past, these cards have been selling for between $30,000 and $40,000. Nvidia announced the H100 in early 2022 to replace the two-year-old A100 AI chip. These designs are intended not for rendering games but for intense AI workloads. The H100 came ..."
+    publishedDateTime: 2023-04-17T16:19:00Z
+    webUrl: "https://www.extremetech.com/computing/nvidias-h100-ai-processors-are-selling-for-over-40000-on-ebay"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
 
 secured: "hS9/p9PhId47bHqbnAjy45oqrZxAsZqT6aTgdUU2Te+sR0+j48EDSZo+dgRx7j5GJeZ1urHUtvHccUi04gCJvltwxCT2M7hDb9eCitwSyb38o40Z8GtxuL2Iw7JhUaRBZufxfwx1rKDVMHXUZDX6VXKM2Ji1gIQ4GbuvY1itRN3dmAo9lhag5ntTKjz6XGTdqlSHqN9za6RAXHRTN3gi+2oLBOwbGrpnty6w3wOoEMx5XQR0kK76mSUpvoFcw1mzqwn4btqQUqUz5ZjYF1x0qiyaiNGB3kHu/EZifu4tDKeUs102WQid7LEXeGhOaskPiCT5/mtKRmj7Qje4l/uJPJ4e/oxLwwGGHSbDzto86qTU9iJ/e7iTQ5Jkjh9vkkRGUjZbfhXJYK7tHgFToW2Uf26aDeGcIGNXa6vkmmZWckCwIb9EIsIv8NxVtaj4wNUvFa9ERag8GJy+Ndl0hFGRPDZadQoYneJ8nutt3+Y362V670xx8UOJPjG4H79fmxcx64wyI358r6k1v7r0DHI46g==;upHWp8IdlxpleQtGCrqSdg=="
 ---

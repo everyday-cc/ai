@@ -29,7 +29,7 @@ related:
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 64
+    quality: 66
     images:
       - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/14/c12480c9-3363-478b-86bf-a856a2fa8598/thumbnail/1200x630/7b4e4968150471b425ee46c93ff66fd1/google-robot-1.jpg"
         width: 1200

@@ -1,28 +1,23 @@
 ---
 category: news
 title: "Global Digital Health and Wellness Market Analysis Report 2023-2028: Burgeoning Opportunities with the Growing Reign of Artificial Intelligence (Ai)"
-excerpt: "The \"Digital Health and Wellness Market - Global Outlook & Forecast 2023-2028\" report has been added to ResearchAndMarkets.com's offering. The digital health and"
-publishedDateTime: 2023-04-17T14:15:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/04/n31832511/global-digital-health-and-wellness-market-analysis-report-2023-2028-burgeoning-opportunities-with-"
-webUrl: "https://www.benzinga.com/pressreleases/23/04/n31832511/global-digital-health-and-wellness-market-analysis-report-2023-2028-burgeoning-opportunities-with-"
+excerpt: "The digital health and wellness market by revenue is expected to grow to $1,103.22 billion by 2028 from $335 billion in 2022, growing at a CAGR of 21.97% Digital health and wellness refer to being physically,"
+publishedDateTime: 2023-04-17T15:59:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-global-digital-health-wellness-market-analysis-report-2023-/2023/04/17/9795628.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-global-digital-health-wellness-market-analysis-report-2023-/2023/04/17/9795628.htm"
 type: article
-quality: 15
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
+  - AI in Robotics
 
 related:
   - title: "Healthcare Artificial Intelligence (AI) Market Growth and Forecast till 2031"
@@ -238,6 +233,6 @@ related:
       domain: europa.eu
     quality: 44
 
-secured: "vgR6Xv2YWwJ/Wmk7cLbAK5IXhjIk7gayJpjXpD4Be8m5JMC+EqPrHcGb1BNDUoqfdPxo3WopbEbnbKSTVeeRRHxxDD79UWczP/tZnTv5Wc0NeNa66wu8uYpyYNooA4jZ/wDMTSGq+x2mYRF6qSgQsEhj/Vnlt+gL//zgH5JlZJAFKOt+6nc3uEdzgUguNmhgOMIFL7cqC8zXIzhe2izzF/bZ/BX6QNAU8C9fS1KhthOmjoGkZKLi9ECCG7Bg1/0zTsJTcu5n9Yim8fCVIpNDh/6BmLbBYA+VoW1ES1Y5LcFuqy2t4YwrGWKZIjixwi13JqHlaqbS6KQBc2I5uhdkw5FX+S4g7dp+bRnrlHBDEwo=;XIKb+RsACIo2uUC63Xs7fQ=="
+secured: "P4l8Wmfajrx1nXKgz1nTZWn5AV3wU9iNy0Dw0Af1QP+C3RF8vpAvfPaKCrBKOlJDskEl8606uNAwz5XhR0kscFYH8ElbR+FHFtUon7gA+uxINi9F6atFid5yq90Km0ZZSkGGdJpfeYb0g375edCtwJV4dEhhMErrcNiCFFUrMMWQyQe1yunedKUorFFtI2Uusqr2m4cd4L9ZQDZNQKGh2rppXFIXBlzii3b8GQSslJnRQuAuwJWcH+xfC9wA6gZpwzWW4PP+r8zAkVUru4j0Wfo6cc5ipDytUG0YJ3XBgk2QwTppSsFklB4+YHMN9HgfeU+bekDbDiN0k0B3DfVpZUBAC2ZUJk8BDpggDeTypOg=;3QkBAMreShyvIE3dYZNg4Q=="
 ---
 

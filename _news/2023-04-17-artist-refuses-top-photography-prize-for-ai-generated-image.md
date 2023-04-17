@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Photographer admits prize-winning image was AI-generated"
+    excerpt: "German artist Boris Eldagsen says entry to Sony World Photography Award was designed to provoke debate"
+    publishedDateTime: 2023-04-17T15:49:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/apr/17/photographer-admits-prize-winning-image-was-ai-generated"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/apr/17/photographer-admits-prize-winning-image-was-ai-generated"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/apr/17/photographer-admits-prize-winning-image-was-ai-generated"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/078000b0fe3db3d5b3ab33e6c56f42cd614b1119/0_228_498_622/master/498.jpg?width=620&quality=85&auto=format&fit=max&s=30db3e1d22c088893f2b7466e167cd33"
+        width: 620
+        height: 774
+        isCached: true
   - title: "Raspberry Pi users might soon get access to Sony’s AI technology"
     excerpt: "Sony’s dedicated AITRIOS site offers example uses such as inventory monitoring and retention, as well as customer counting."
     publishedDateTime: 2023-04-13T17:00:00Z

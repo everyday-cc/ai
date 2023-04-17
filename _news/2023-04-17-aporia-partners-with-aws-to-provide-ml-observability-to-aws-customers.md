@@ -7,7 +7,7 @@ originalUrl: "https://technews.tmcnet.com/news/2023/04/17/9795505.htm"
 webUrl: "https://technews.tmcnet.com/news/2023/04/17/9795505.htm"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,22 @@ topics:
   - AWS AI
   - AI
   - Machine Learning
+
+related:
+  - title: "Aporia Partners with AWS to Provide ML Observability to AWS Customers"
+    excerpt: "Aporia, a leading ML observability platform, today announced a partnership with Amazon Web Services (AWS) to provide"
+    publishedDateTime: 2023-04-17T17:07:00Z
+    webUrl: "https://www.datanami.com/this-just-in/aporia-partners-with-aws-to-provide-ml-observability-to-aws-customers/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 56
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/01/AI-in-Finance-Summit-New-York-Main-Graphic.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "lzieNwgHFzR0Up8OilSZswJn9wdVviRgCPAhIihLTIHYpvkVXx3UMlrt3Uppmn62h4UDol+5wrojpLUa+OrKx/JdoiWYNdq/qCPEtUwdyARNnxI+Wjd66kQbNkJQJXyqKIamqUfjRaT1TQzVwqCbW819BbILZoL7HxX3raQlxgMgLv4gQ05S6YlPQ1qtrB6q/VFtu0zZpeyi6mp2pD5l+/z491IVwUyiOMpKzypetEvdADu55dXyawSUytMsuvwYHmgYpknKTvnxnSHT//7rz3zUPTW4s15VUQa05EhGC0vVjo7HMCHpT15pxQKjm9qhZPuJWbC09pg4CLQiYtNbYhvpWyzFgQPUK9Lhjtucotw=;YBg/hou9T8OqePTriRN0zQ=="
 ---

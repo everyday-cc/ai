@@ -118,7 +118,7 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
-    quality: 56
+    quality: 60
   - title: "Microsoft integrates Bing's AI into Swiftkey, Skype, Start apps"
     excerpt: "After launching the new Bing experience earlier this year, Microsoft has been trying to bring the search engine's AI features to its products."
     publishedDateTime: 2023-04-14T06:11:00Z
@@ -132,6 +132,20 @@ related:
       - url: "https://d.ibtimes.co.uk/en/full/1710519/microsoft-signage-seen-companys-headquarters-redmond.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "UW Health using Microsoft AI in Epic Systems medical records"
+    excerpt: "UW Health is among three health care providers using artificial intelligence developed by Microsoft Corp. to draft message responses in electronic medical records by Verona-based Epic Systems Corp., the companies said Monday."
+    publishedDateTime: 2023-04-17T17:10:00Z
+    webUrl: "https://madison.com/news/local/health-med-fit/uw-health-using-microsoft-ai-in-epic-systems-medical-records/article_adf0b772-7b01-52ad-b6d6-8a707ef4b561.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/23/a23b6ca4-c404-514f-81dd-3724f4acc2fe/643d7dabc7376.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Improve supply chain security and resiliency with Microsoft"
     excerpt: "The Microsoft Supply Chain Platform was just launched to help companies protect their supply chains against cyber threats."
@@ -213,6 +227,6 @@ related:
       domain: macrumors.com
     quality: 17
 
-secured: "bP6SjfkNWHgQdYAv3QyUqaIe13tu1VZXkAkVlWaRnC40/8qN96pTwTOmPtX6/QOFWmtx5Qf0/eakUWH50zg8574OWb9hkOIC+rtN1RayvZVk15bQMZWIcroewanSSNXsHn9OQsTMBw0hSj559Y3nILE0XVeoFIG5BVkuD2Nc9Z1hWcc+IRVN2eznr70Al72eiw9eXQW6T1JB6wxiA7LNHBe0MgR9sLQZzDUVt6GWe24zRZ5zD5IeO1usubZaCdQmYHEv0Peb/+IkdbsBmHge5i63YqkJ1rz8oNktH0/IGPjBJy9c+Czxi8M7gJpvQnZTmqAs9hptAqt+jJYJ/TxWLzUevrEFbCqHOy8Gjql+7MM=;Ww80pkf59P9DNaHl1oPUaQ=="
+secured: "wkTAayN3FavFr4Z8Y3SOcm1gO49aJeaMtMtzAOYCwq4ehX1zEVnH0gMrjsVjTVJFke0x0YtInnc+E3u6sDAzdqyIFfDrkCQjxTNHPls3zcaZOZiSp95Sc3OY0TBIbx33uynrW/ujMc65saVbnKMh0YZ+dHSjhwNtSH7HcvhRoi2P3UtrpbJyrkDPuVcxRvxTZaRqrkkIaLFw5Vw54F+yWTBI2is50eGrY3NrlIH3kRp2ZiWijQjXuXEAtp8AD2meV4vHBJGQf6FEUAxj4nonM+tRdx5IS3lYpA6eXN7wMUruDL8+++BXwqJLrS6N4YTMWKPlYiJ5IXh0unMnf3C+XhXMqhm00uyUKc/WMPZWIC6LqyijxZSyjsFS921DIs0AfrTwYVrha3w9UH30vR5L0KrJ6wK+0kr8UBagVx+OVkn5fdDo08AEzXAM/dRr0M0QoOHuo4Auv4NtnA17yIWvw5qisA+p59YcX/9QbpxTHg2kpJUyRbu9CxrxC6jwHUrBjO1m3q9v50qEGGhBsJhWQQ==;9YQoYVrGc5Jkk9Q4dlp93A=="
 ---
 

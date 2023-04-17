@@ -226,6 +226,20 @@ related:
         width: 1480
         height: 832
         isCached: true
+  - title: "Four Business Areas ChatGPT And Other AI Tools Will Transform In 2023"
+    excerpt: "RAD AI is a startup using its proprietary AI to boost marketing campaigns. It works with social influencer campaigns by predicting performance based on large data sets from application programming interface (API) partners, Reddit, past campaign performance ..."
+    publishedDateTime: 2023-04-17T16:45:00Z
+    webUrl: "https://www.benzinga.com/news/23/04/31836240/four-business-areas-chatgpt-and-other-ai-tools-will-transform-in-2023"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/04/17/shutterstock_2046606086.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Generative AI startup Kubiya debuts ChatGPT for DevOps"
     excerpt: "The Kubiya tool is designed to make life easier for DevOps engineers, the people responsible for leading and coordinating the activities of different teams to create and maintain a company’s software."
     publishedDateTime: 2023-04-17T11:00:00Z
@@ -306,8 +320,8 @@ related:
     quality: 19
   - title: "eClinicalWorks Brings ChatGPT and AI Models into EHR and Practice Management Solution"
     excerpt: "\"We are thrilled to combine advances in generative AI models with eClinicalWorks' solutions to bring responsible AI to healthcare,\" said Girish Navani, CEO and cofounder of eClinicalWorks. \"We have been in the world of machine learning and data science for years,"
-    publishedDateTime: 2023-04-17T14:35:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/04/17/9795619.htm"
+    publishedDateTime: 2023-04-17T16:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-eclinicalworks-brings-chatgpt-ai-models-into-ehr-practice-/2023/04/17/9795619.htm"
     type: article
     provider:
       name: TMCnet
@@ -332,6 +346,6 @@ related:
       domain: diginomica.com
     quality: 3
 
-secured: "5GpsrtdBkbtuE66kCe8RaFHX9//XAZKVwX7xySCpYL4uTnPG9U/tXbG6UZ9sfl2/XYEfXi2ac8358GeLW15QyPiY7NqgEhQG2QmAl7ntdR7KHfh+8i2nHN4sZdMvM7Job6VPwpXTRQmEIDhGNjEmknUf8uabWI2hofN0BGr3YpfXgRx/ChQYscraoOCnsEKHm6FNbZjcBqhMgXEHzKJ0OQqQBMQiczTUG0whiqQG9u2131rzmOh6mQevspOfDYACr2zYvF1opHoAEYFtvfFKZ8Ek1JqhhOMOVDkn576hsoSO27k9K83kKy1NZYV4Kv09VqFbkHzDOLsG5EzEL4Cf/qO1cW0T38mGm+AO7+gze0U=;fboc7UGuLbb2OHXag9MHzw=="
+secured: "xHy0cL0DEVuVLufaaom9dgUSenXqw6+4aJVKHcSMukZG21VTMDbkJd6PjaLcymfLt5GNz/SWb7Sh5UUzSK0NWWWcA+N04lS/ebClSDbrWsdCyTkAxoNMtnyezgmgQo9O/cHYqVb2dUqNKCZQCVsCKvj1XzZ5HipfKnyaRERuMYUzO+udvEyraeCNsbZNelbc2tWLptFTvL5BAbuCzXaqF4Wdknc1nkBNmTPu8haXseMCiCvzH+XiiP/x6CL81DmV0PKjqJCrqKs3B9OzVqpm7A50uREB4++5GF4PT2x/mp9n3huLfZvV+aE6gBKj5K1ohlkOC//sUxUn5BG1NgxM+T9IIgnTamMDuUKn1RtJTbNabOO1Z3phiN6QM5/vXayJqSEVjTZihwwZA9QdrNXeLrj15qNvysVU0QFsI0SRrc8u+BmkYniw61V0ic49ctuPGOR38/dvELG6+3ASSsO2T8+/3V9HqFYN5yOA9F6C6xpc4BZONrmpJTr6i+JalszCTChDdC3ZRuGJY2nhTtELdw==;KSkIibwuVJFRrZbGS1EnoQ=="
 ---
 

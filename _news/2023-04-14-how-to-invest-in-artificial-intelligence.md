@@ -51,6 +51,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The Promise and Perils of AI in Healthcare"
+    excerpt: "The use of AI and machine learning in healthcare is rising almost as fast as the amount of healthcare data being collected, offering incredible benefits to patients – as long as the technology is handled with thoughtfulness and care."
+    publishedDateTime: 2023-04-17T14:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-promise-and-perils-of-ai-in-healthcare"
+    ampWebUrl: "https://www.nasdaq.com/articles/the-promise-and-perils-of-ai-in-healthcare?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-promise-and-perils-of-ai-in-healthcare?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
   - title: "Why Big Food Is Looking To AI To Shape The Future Of Food"
     excerpt: "This week, French dairy giant Bel Group announced they had entered into a partnership with Climax Foods, an AI-driven food startup founded by former Google head of data science and astrophysicist Oliver Zahn. The collaboration seeks to harness the power of ..."
     publishedDateTime: 2023-04-14T19:46:00Z

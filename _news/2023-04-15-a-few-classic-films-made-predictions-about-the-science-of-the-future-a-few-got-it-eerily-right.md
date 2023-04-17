@@ -3,18 +3,18 @@ category: news
 title: "A few classic films made predictions about the science of the future. A few got it eerily right"
 excerpt: "Here's what some notable films get right about science and tech — and what's still the stuff of science fiction."
 publishedDateTime: 2023-04-15T01:05:00Z
-originalUrl: "https://www.kcra.com/article/films-predictions-science-future/43605947"
-webUrl: "https://www.kcra.com/article/films-predictions-science-future/43605947"
-ampWebUrl: "https://www.kcra.com/amp/article/films-predictions-science-future/43605947"
-cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/films-predictions-science-future/43605947"
+originalUrl: "https://www.wlwt.com/article/films-predictions-science-future/43605947"
+webUrl: "https://www.wlwt.com/article/films-predictions-science-future/43605947"
+ampWebUrl: "https://www.wlwt.com/amp/article/films-predictions-science-future/43605947"
+cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/films-predictions-science-future/43605947"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: kcra.com
-  domain: kcra.com
+  name: WLWT
+  domain: wlwt.com
 
 topics:
   - AI in Healthcare
@@ -102,6 +102,6 @@ related:
         height: 280
         isCached: true
 
-secured: "gyKnLsKG2hy58eq2uu31MQp6me+p9yBIXpfh49tmNfz4fq/MxopiznytAPf7OYR+KQT5sfqAJ5+GMKhNNlXinr5WfiIIzhQM/QXPAwEOLaFaLQD7kEj6mE0FOnQbB0Yk35ALNYtMGx3DJRTDjlpElLfF9IviIayThLvSEW+dV4QhC/vC7wlzWO4U7Vnx5bRyWMrmhZ90KMMHL2BXJMSgxAbI7u4nck0SRmwduqREh0gaMvXAHFBPtInyp3vw3mtw1QDOy0HXsFpVjJT1WDYDI3Pp51MgG7a5em8M6Fvre2EAjMMRVH8ZbS8PpGNvwX6Qf0ObmYwSE6hsP6Cw6a2QLWB7JZYJvChGwnYKYTPiSlQ=;PitVXR53xT7FlfCVxb/xsw=="
+secured: "l7CJMhDLSM4a/H8p4qloc1ZmhADHj5r9lRQYSMY/bC2szqTi1fgqtVaPaY9a//9dZtYgVpMa8KY/IZLdfknoXdrBqrFMfq0JC3Od+qVdP7Exx91rPieopoI+pIOiKz2Tr///XeDxMFYnqQ0l6bf7rv3NoAYgffTaU5C+HuVj5StNt0V49j6xi9oK+9scGQHd3X159fplRMqXjpW1jdj8TffXosDqx1qmwPhvKFTHASrlonJ37qFnCq9yR8IDxvI+ROR5mwOs7ankr1NQpp4yUFwJhCyG/TW8ae9dIU//j1aP+98m+F55olBT/uxI9KPTM31BQezjcaUj0tIoLpLFFtOPPCT+vN6NLtkRoQsDxwA=;xh8IfQ0NJHdNJRZLdcBdrQ=="
 ---
 

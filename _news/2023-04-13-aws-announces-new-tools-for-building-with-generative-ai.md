@@ -76,6 +76,22 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 84
+  - title: "As AI agents like Auto-GPT speed up generative AI race, we all need to buckle up | The AI Beat"
+    excerpt: "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More If you thought the pace of AI development had sped up since the release of ChatGPT last November, well, buckle up."
+    publishedDateTime: 2023-04-17T13:44:00Z
+    webUrl: "https://venturebeat.com/ai/as-ai-agents-like-auto-gpt-speed-up-generative-ai-race-we-all-need-to-buckle-up-the-ai-beat/"
+    ampWebUrl: "https://venturebeat.com/ai/as-ai-agents-like-auto-gpt-speed-up-generative-ai-race-we-all-need-to-buckle-up-the-ai-beat/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/as-ai-agents-like-auto-gpt-speed-up-generative-ai-race-we-all-need-to-buckle-up-the-ai-beat/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 77
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/sharogold_red_racecar_winning_a_speed_race_9a21167c-464e-448b-8a8d-0dd9df164209.png?w=1200&strip=all"
+        width: 1200
+        height: 692
+        isCached: true
   - title: "Amazon’s new generative AI capabilities work to increase access to AI"
     excerpt: "This release is powered by AWS Inferentia2 chips, which is intended to lower the overall cost of running generative AI workloads. According to the company, this release also increases energy efficiency, which helps to make generative AI technology more ..."
     publishedDateTime: 2023-04-14T17:45:00Z
@@ -227,15 +243,6 @@ related:
       name: CIO Dive
       domain: ciodive.com
     quality: 36
-  - title: "As AI agents like Auto-GPT speed up generative AI race, we all need to buckle up | The AI Beat"
-    excerpt: "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More If you thought the pace of AI development had sped up since the release of ChatGPT last November, well, buckle up."
-    publishedDateTime: 2023-04-17T13:44:00Z
-    webUrl: "https://venturebeat.com/ai/as-ai-agents-like-auto-gpt-speed-up-generative-ai-race-we-all-need-to-buckle-up-the-ai-beat/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 35
   - title: "AWS dives into generative AI with new offerings"
     excerpt: "Coinciding with its latest letter to shareholders written by chief executive Andy Jassy, Amazon's cloud computing division has officially launched a set of generative artificial intelligence offerings."
     publishedDateTime: 2023-04-13T18:56:00Z

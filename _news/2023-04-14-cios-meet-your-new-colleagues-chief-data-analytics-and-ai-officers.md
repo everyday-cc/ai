@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/cios-meet-your-new-colleagues-chief-d
 webUrl: "https://www.wsj.com/articles/cios-meet-your-new-colleagues-chief-data-analytics-and-ai-officers-af6b58b9"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Rosslyn-based Association Analytics adds new leadership to pursue new AI tools"
+    excerpt: "Sponsored by Monday Properties and written by ARLnow, Startup Monday is a weekly column that highlights ... With new leadership focused on product development and expanding uses for AI, he anticipates more growth to come. Like Higher Logic, Association ..."
+    publishedDateTime: 2023-04-17T17:34:00Z
+    webUrl: "https://www.arlnow.com/2023/04/17/rosslyn-based-association-analytics-adds-new-leadership-to-pursue-new-ai-tools/"
+    type: article
+    provider:
+      name: ARLnow.com
+      domain: arlnow.com
+    quality: 33
+    images:
+      - url: "https://s26551.pcdn.co/wp-content/uploads/2023/04/New-leadership.jpeg"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "GDBU2yoic2B/vURMbDdRnGBCAuk6sSEAypT1Ko5wpxh5dDtAYPYIwOvtdoDlLaNtQbgZOFINBkoqE8TgGMtct9wx/6p4POaiKXSxRcKFqAAW5+tc0IcfjnSAjeDzcwekQE5oNFFJGYJlzZLLmnYVkedMqCEhjwoChb/aMpJU80vQWIpOJBvv1LsCcwE51xDn4E9lou9jKS8yL0d61asOm9qDas6A6A+E7s/lIzA7cEVrZVqsElbAry8KmceejSgIPWklSo47IFaBgjReusWY932KZpmwnkCJtX+ACDRQ2mShQDNokYgYBsmEjOe1StCO9UoYtH2slHR1m2aRiKBxRPoLlJe39qNXrylvYGA981rFQl9wWslpTlTDOWNGDjG0jF5NVOD18rMsdph/V4BegQXpFGAIh8YQ3lLLR0NliC52ZNQ4NPkYOHm5rCGx6uVcd/PBY7/VH8zHEZW2K2lST+sEjnpTdB5vxTggTU1kbkmBkedAO7A4XZFNivMfir5fNTAGsZ27ktrdFXyhSSyxFA==;VdKRs6Q6H2dNpa7sl0KdZg=="

@@ -3,8 +3,8 @@ category: news
 title: "Asda will start delivering food to customers across London using driverless cars"
 excerpt: "Customers across London will have their shopping delivered to their homes by 'self-driving' Jaguar I-Pace electric cars."
 publishedDateTime: 2023-04-17T15:18:00Z
-originalUrl: "https://www.thisismoney.co.uk/money/cars/article-11981683/Asda-start-delivering-food-customers-London-using-driverless-cars.html"
-webUrl: "https://www.thisismoney.co.uk/money/cars/article-11981683/Asda-start-delivering-food-customers-London-using-driverless-cars.html"
+originalUrl: "https://www.thisismoney.co.uk/money/cars/article-11981683/Asda-start-delivering-food-customers-London-using-driverless-cars.html?mrn_rm=rta"
+webUrl: "https://www.thisismoney.co.uk/money/cars/article-11981683/Asda-start-delivering-food-customers-London-using-driverless-cars.html?mrn_rm=rta"
 ampWebUrl: "https://www.thisismoney.co.uk/money/cars/article-11981683/amp/Asda-start-delivering-food-customers-London-using-driverless-cars.html"
 cdnAmpWebUrl: "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/cars/article-11981683/amp/Asda-start-delivering-food-customers-London-using-driverless-cars.html"
 type: article
@@ -106,6 +106,6 @@ related:
       domain: mirror.co.uk
     quality: 2
 
-secured: "0t/fQmcfeq7vNUBjxnppfmshxfZMXJ1yGu99VxqsxBym8NyG6VFfQPh7Gx0jdr+0uHkgUjcXQrakozj+toyM9etvKkF+XilgI2T7HuROfSIryhtIgq7JMDRxg5pwbM+Qc2EGZK6eikiNX/dXGuzUj20Hg017C4hPrJlNiOtOStiKvGEwH5JpGxhSKaZ5E5J8/ZI7r7OjiuKp8G+2VUv7OjWheQy6fP/l8fIpNUuDFjv1VWY0uRmsK3+qFKtqCabzs7FF8PlX82GaCoWF09ACeFbSVxjmSME4WGwaEwAMD4ehlpja+/dIz3qr92swJJX0gH+2I8d9Gsv0+X/GozPcrM20ygyM6tUAuOr14r9qIe4=;JBi4enOlad0Y3KwNTUbW7A=="
+secured: "wLIQfjE/D9t8+zRSEMBjywNdnqbHkfQ63IKEj9kIBaOQX+yIj61945d4HM+6VXvlfz4a6np4Rg6JCo9OTj8/Zva/SrPnMTaegzRpJHrXPB60dIk94C76U54Uv0mtfdm/jtwGurwgTdJ6McUoRL2dUVi6BLu8Ug1lD9I33nVIXbSSbOUv8nLTjwjEhdXhQU+ZLkhbduVrgvI/yuTh1Q3UVHv7A/jdnzS35qa263uojbk5wD5d1plMMKWsyiFmWBBewywlGu7HTZhuFDjmHiOah3o6K4k4j8QrkFmoqzyA+yCbAGPf00lmxjMNivqqHeZjP+3mFPjHxAXD0VlH88nV/VZl1vtGdHeyX6PGuEP1r7U=;3+kM7x2bQdSJ+3c+k3CilA=="
 ---
 

@@ -42,6 +42,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Rosslyn-based Association Analytics adds new leadership to pursue new AI tools"
+    excerpt: "Sponsored by Monday Properties and written by ARLnow, Startup Monday is a weekly column that highlights ... With new leadership focused on product development and expanding uses for AI, he anticipates more growth to come. Like Higher Logic, Association ..."
+    publishedDateTime: 2023-04-17T17:34:00Z
+    webUrl: "https://www.arlnow.com/2023/04/17/rosslyn-based-association-analytics-adds-new-leadership-to-pursue-new-ai-tools/"
+    type: article
+    provider:
+      name: ARLnow.com
+      domain: arlnow.com
+    quality: 33
+    images:
+      - url: "https://s26551.pcdn.co/wp-content/uploads/2023/04/New-leadership.jpeg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "BS5p3Z9Yx4h5T5DdObRoFfTNRbGYCsjBcls45sZqj58Mjh4RPDNTyi/8QlIyo4z2zzvBqNn4THUt0uPDengqV4f7wGxf/UbYk4QuEX0kj6AlzQfizQk3xt2/SGqGDidKWFyYyT+7+2tprj17oRrGgP91xIX+GZXhroAJoPEUdAtTuLpiS02NeFtB9LYAtBJvZUofPm0jMnV12gk+PsjZWLQD0KvjACY4JoaeoKaBknzHhA7Od0OCfrX72UE3nBqXqXngttenx/Y1z1Qgm6jYxbKzjc+Xdws6Q5ItX19dh+MLZYuludZwndl44uE2+MSCOdOiD5FOvSSij7/ZnKBCrXqTgNmMTCPybBwhJF1ZS1w=;Kn68h23NolPFCaUbm6uFpw=="
 ---

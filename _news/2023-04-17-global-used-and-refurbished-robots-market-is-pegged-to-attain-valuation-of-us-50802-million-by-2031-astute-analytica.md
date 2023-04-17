@@ -57,6 +57,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 0
+  - title: "Unresectable Hepatocellular Carcinoma Market is expected to rise at a CAGR of 7.2% to US$ 4,400 million in 2033 | FMI Reports"
+    excerpt: "According to Future Market Insights, the global Unresectable Hepatocellular Carcinoma Market is expected to reach a value pool of US$ 2,200 million by the end of 2023. The global market for unresectable hepatocellular carcinoma therapy is predicted to grow at a 7."
+    publishedDateTime: 2023-04-17T16:08:00Z
+    webUrl: "https://www.fmiblog.com/2023/04/17/unresectable-hepatocellular-carcinoma-market-is-expected-to-rise-at-a-cagr-of-7-2-to-us-4400-million-in-2033-fmi-reports/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
+    images:
+      - url: "https://www.fmiblog.com/wp-content/uploads/2023/04/IQAAAgGv7eA-1920-420x300.jpg"
+        width: 420
+        height: 300
+        isCached: true
 
 secured: "tCAdqzpK+UdzjU6m/4/ojbuN1V6XtomI3ZpNHCstFlHOO7CUbDy796rAB8HMXKHgoIQ2a0p8IyY5L00CBnmgjEk64t7r+FfF5XMBwl6Volz1WX8J3nd/GTMRqj9SnR/i00G/oe12M+VU9jsB5uVirUInMJJ91PIW44OKa9NZY+862j3of6/Zjufwod1Jp6y1EXxKAwGu3FV2jJAt6TTRzgVRbdQA5V4UtiVBo1YVqBbyLPfLgoQtt5JKthqGDsupZvfZx3wTlAut/rWR8QnXV6Qyz6H5i7TdOdXKDHmK+BVlseYR3w44iAndSpCHR5jastyfHBhB5fJrbnW1WgSMLkEYG0/5AmxzXJjlMYicixs=;foKxPyFhChr0s9qmYXhybA=="
 ---

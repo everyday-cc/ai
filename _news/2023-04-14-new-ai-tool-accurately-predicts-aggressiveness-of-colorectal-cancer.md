@@ -41,6 +41,22 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "New AI model can predict survival, treatment of colon cancer, reveals study"
+    excerpt: "According to a new study, a new artificial intelligence model can bring much-needed clarity ... is to survive with and without disease recurrence, and what the optimal therapy might be for them. Having a tool that answers such questions could help ..."
+    publishedDateTime: 2023-04-17T17:31:00Z
+    webUrl: "https://www.hindustantimes.com/technology/new-ai-model-can-predict-survival-treatment-of-colon-cancer-reveals-study-101681751920453.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/new-ai-model-can-predict-survival-treatment-of-colon-cancer-reveals-study-101681751920453-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/new-ai-model-can-predict-survival-treatment-of-colon-cancer-reveals-study-101681751920453-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 57
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2023/04/17/1600x900/SPAIN-HEALTH-LUNGS-0_1681752386389_1681752446577.JPG"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Colon Cancer Survival and Therapy Response Predicted by AI"
     excerpt: "A new artificial intelligence model could bring clarity to doctors delivering prognoses and deciding on treatments for patients with colorectal cancer"
     publishedDateTime: 2023-04-14T09:01:00Z

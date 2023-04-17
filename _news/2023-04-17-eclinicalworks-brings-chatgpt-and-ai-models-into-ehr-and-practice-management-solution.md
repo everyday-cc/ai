@@ -2,9 +2,9 @@
 category: news
 title: "eClinicalWorks Brings ChatGPT and AI Models into EHR and Practice Management Solution"
 excerpt: "\"We are thrilled to combine advances in generative AI models with eClinicalWorks' solutions to bring responsible AI to healthcare,\" said Girish Navani, CEO and cofounder of eClinicalWorks. \"We have been in the world of machine learning and data science for years,"
-publishedDateTime: 2023-04-17T14:35:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/04/17/9795619.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/04/17/9795619.htm"
+publishedDateTime: 2023-04-17T16:12:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-eclinicalworks-brings-chatgpt-ai-models-into-ehr-practice-/2023/04/17/9795619.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-eclinicalworks-brings-chatgpt-ai-models-into-ehr-practice-/2023/04/17/9795619.htm"
 type: article
 quality: 12
 heat: -1
@@ -234,6 +234,20 @@ related:
         width: 1480
         height: 832
         isCached: true
+  - title: "Four Business Areas ChatGPT And Other AI Tools Will Transform In 2023"
+    excerpt: "RAD AI is a startup using its proprietary AI to boost marketing campaigns. It works with social influencer campaigns by predicting performance based on large data sets from application programming interface (API) partners, Reddit, past campaign performance ..."
+    publishedDateTime: 2023-04-17T16:45:00Z
+    webUrl: "https://www.benzinga.com/news/23/04/31836240/four-business-areas-chatgpt-and-other-ai-tools-will-transform-in-2023"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/04/17/shutterstock_2046606086.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Generative AI startup Kubiya debuts ChatGPT for DevOps"
     excerpt: "The Kubiya tool is designed to make life easier for DevOps engineers, the people responsible for leading and coordinating the activities of different teams to create and maintain a company’s software."
     publishedDateTime: 2023-04-17T11:00:00Z
@@ -331,6 +345,6 @@ related:
       domain: diginomica.com
     quality: 3
 
-secured: "VIkH5dHDvkd1xK7MUG/NeeBk3mA6+LxDfIqwLiE1qKYG0Atgn6hKU+orJZnOTk07er+AYiL+QiNxH8yuH44c/0ULpdQG+yX3D5N1+25j0qAqxQiu5P2WNCkK0o3AAUi/zoqp7CKOQ8HGlKIscMoJibeLp4lJ0Vo2JOdpN8dRg+1MJrYe+ovIfX7FE2IXt6bpzhF2V9nvPrVIzXQnmtCBZEQUv/CnT3fbszyaLaR9CHSqkmpIXuJiTDBJ60CO6YJhR1WS+DeIU0eDN+0cKJu+kC/9mIsMqMd/Ltot4vp0bXLzFs6yaQJFZXuMZghHcQcHCuXxg0dQxDza2fExIrmry1mnJUkkx+w2d+PQll/hXjc=;EmTAdfdF/Uz23dVX1sLNyw=="
+secured: "hbGtPd3+Vp5XclOYw/meYn++qUcPQKTb4kWMp5p5cxG4AjyUOvuiFJZSvzazBMnnLAtC+0fkGzaBbvvj2ocL8P3+znnZRKEH1JFmLEW5YiTZHi3FQzLSRXWPuUDocmwCjOvmwSISjLnbbCQRgRO1qXEeXcTu+FR1P2n6Xa9GTtYe6LtbsHYb/ehAdxLA8bIQN++WU5Wj/fayumiwD4wKcgoNbsW7H59A7BM3yTCAtjGtBbVM23V1qF1Qoh8xPApvXLyrLDpBXSRFzE4q7a3P0VOBW02/yB5OxAxL2CU+2Mz9r9cpdlVQxdU60xgGq8IOlkfDRcw9WAxtme/K35xSoOUluD2CcNTrCFjY7MImUy4=;uJKgE5XVBodh4P6sQc66RA=="
 ---
 

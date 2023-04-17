@@ -6,8 +6,8 @@ publishedDateTime: 2023-04-15T04:13:00Z
 originalUrl: "https://townhall.com/columnists/scotthogenson/2023/04/15/artificial-intelligence-as-god-n2621999"
 webUrl: "https://townhall.com/columnists/scotthogenson/2023/04/15/artificial-intelligence-as-god-n2621999"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://media.townhall.com/cdn/hodl/2018/184/36bcc181-97f7-41ee-95d0-845e323decf1.jpg"

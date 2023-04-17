@@ -54,6 +54,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The Promise and Perils of AI in Healthcare"
+    excerpt: "The use of AI and machine learning in healthcare is rising almost as fast as the amount of healthcare data being collected, offering incredible benefits to patients – as long as the technology is handled with thoughtfulness and care."
+    publishedDateTime: 2023-04-17T14:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-promise-and-perils-of-ai-in-healthcare"
+    ampWebUrl: "https://www.nasdaq.com/articles/the-promise-and-perils-of-ai-in-healthcare?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-promise-and-perils-of-ai-in-healthcare?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
   - title: "How to Invest in Artificial Intelligence"
     excerpt: "Artificial intelligence has become one of the most talked about technologies over the past few years. Many see AI with large dollar signs in their eyes. However, every new technology has a lag between invention and commodification and just as every new technology has the risk that it won't pan out."
     publishedDateTime: 2023-04-14T13:10:00Z
