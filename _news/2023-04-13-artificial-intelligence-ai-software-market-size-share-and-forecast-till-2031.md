@@ -101,15 +101,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 63
-  - title: "2023, \"Artificial Intelligence (AI) in Education Market\" to Experience a Significant Increase in Revenues by 2030"
-    excerpt: "Artificial Intelligence (AI) in Education Market Size With forecast period 2023-2030 | New Report (123 Pages) |"
-    publishedDateTime: 2023-04-12T06:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-ai-in-education-market-to-experience-a-significant-increase-in-revenues-by-2030-2023-04-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
   - title: "Artificial Intelligence in Litigation Funding Market Growth Status and Foresight till 2030"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 14, 2023 (The Expresswire) -- The Artificial Intelligence in Litigation Funding Market has been comprehensively examined in a new research report published by ..."
     publishedDateTime: 2023-04-14T13:14:00Z

@@ -2,11 +2,11 @@
 category: news
 title: "The High-Tech Hollywood Smile: How 3D Scanners and Artificial Intelligence Are Perfecting Teeth"
 excerpt: "Dentists to the entertainment industry’s elite are using the latest technology, including augmented reality, to turn around crowns in under four hours and model cosmetic updates directly on photos of one’s face."
-publishedDateTime: 2023-04-16T21:56:00Z
-originalUrl: "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/3d-scanners-augmented-reality-perfecting-teeth-1235371315/?ref=biztoc.com"
-webUrl: "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/3d-scanners-augmented-reality-perfecting-teeth-1235371315/?ref=biztoc.com"
-ampWebUrl: "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/3d-scanners-augmented-reality-perfecting-teeth-1235371315/?ref=biztoc.com&amp"
-cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/lifestyle/lifestyle-news/3d-scanners-augmented-reality-perfecting-teeth-1235371315/?ref=biztoc.com&amp"
+publishedDateTime: 2023-04-16T17:00:00Z
+originalUrl: "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/3d-scanners-augmented-reality-perfecting-teeth-1235371315/"
+webUrl: "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/3d-scanners-augmented-reality-perfecting-teeth-1235371315/"
+ampWebUrl: "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/3d-scanners-augmented-reality-perfecting-teeth-1235371315/amp/"
+cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/lifestyle/lifestyle-news/3d-scanners-augmented-reality-perfecting-teeth-1235371315/amp/"
 type: article
 quality: 45
 heat: 45
@@ -25,6 +25,6 @@ images:
     height: 576
     isCached: true
 
-secured: "Yan7IG0mGmCQ5aarfNJMEmzOT4oyC1UdLiZCZMA4Tx7TNfJmy/EOL3A/8Eln++DHZV9R5OWnChoWQNagL4vdROSXfzo4ALGvvb0b+OW+YJh+j6gMTMl5KWDnrq7/iM/GyyVI1FU8yY1xPFBLwf8raeZrDbloQ/E0qfd5pISS3GZOieYg5XXul/1ust4BhBL3uRo2vqzmL/eVzY6bm8eld3/at8Zx7HSXjIbMHf2qZOswnOVZBpHueqpX609NtDuSrI1VaDovwAiJGnIo2efMrJCoFOlDWZz7lrrO9XeMm10188Zw5JcSgq7+BYkTbxYQsjvejIzpaifewF01oRHmM2zCS2QCItHy934vUkksWxg=;3F0aTBsoySW3FcWEMrjkLg=="
+secured: "M8Ld3FnsA3ZBQhy0z5psSbRLloOHVKRDJsPguC2RI7M69a2sRwmz5hduJw9qe3nSRQxrrWJiox4W1BTmXNrdNn2Lb5p1Zxcw7s7h4MUN/51ch82AhUzE8b2szd+pKAWdEcrjiJYGsztaRP7VkLRoQhEStRuPOlWol7KUD6ZL3EMuUJe/Rg5lF0YfXlX1HjZuhSYAvcytGyWrSIirRwyJnmlPROhDVwqRMSpEcO59F/JM93ME6dv4X6/pmXhDMf6+M/CveLMuyDj2+zFkIjB3z/ufR7/GYq0/DPK3H0EVrJn1VktG5OB/zwoM4nlv+TJ09926qcmJ9sq0VuVFWhEZFm8dUyGustDDTDhL91ZPeIs=;w3gfQzY+wM2fR5fAq6TUgA=="
 ---
 

@@ -92,15 +92,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 63
-  - title: "2023, \"Artificial Intelligence (AI) in Education Market\" to Experience a Significant Increase in Revenues by 2030"
-    excerpt: "Artificial Intelligence (AI) in Education Market Size With forecast period 2023-2030 | New Report (123 Pages) |"
-    publishedDateTime: 2023-04-12T06:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-ai-in-education-market-to-experience-a-significant-increase-in-revenues-by-2030-2023-04-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
   - title: "Artificial Intelligence (AI) Software Market Size, Share and Forecast till 2031"
     excerpt: "The latest market research report on the Global \"Artificial Intelligence (AI) Software Market\" is segmented by"
     publishedDateTime: 2023-04-13T05:24:00Z

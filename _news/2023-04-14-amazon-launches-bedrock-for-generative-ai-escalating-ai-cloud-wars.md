@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/amazon-launches-bedrock-for-generative-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/amazon-launches-bedrock-for-generative-ai-escalating-ai-cloud-wars/amp/"
 type: article
 quality: 91
-heat: 382
+heat: 392
 published: true
 
 provider:
@@ -363,6 +363,15 @@ related:
       name: The Drum
       domain: thedrum.com
     quality: 11
+  - title: "Amazon arrives fashionably late to the generative AI arms race, but with a smart solution"
+    excerpt: "Amazon announced this week that it would offer AWS cloud customers the chance to leverage some of the most popular new generative AI models."
+    publishedDateTime: 2023-04-14T15:26:00Z
+    webUrl: "https://www.fastcompany.com/90882084/amazon-generative-ai-arms-race"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 10
 
 secured: "G0k6T4kr3wmLSNwNG3F54BxgRotWDSfKYHoRFSTVmt35RRC05uJ/xF/IgIo+8I4gtdVS3EYK20fO5t2EK8DVCUho0rWSJogIaQhPA1TNYexLdEhN9E2KnEic05Db+NKCGleUnIwgBq579+TZ3GwMtWnR1OTrMmSglgXrwUOSYepJ/VV1x0PNW5bm3AHmQIn5Xfxq17ih0v1xZOy5EmwgN/ketFy+qgGvOpFhxFUsL8cUAfrDdBuIcfVPFgJv6BLgvr+SHlKkn1riFdIJAZsQBBx5bYFWbZ/tmaHq4uqw2nerKL7/0xcezRZn6VNefe3Ze7y/Ftsjckk5wNveEGB30HDanO2BxBG57mY+37+kPUTN13JDktIs+ByXdwYN7uF20bwMX6OBxRXXZh51kRuqPMG8nh0L4XKuJzyuUAe5U6HW9DsPc0JXRM6wQhyYUtaKU11t4f4aiy/dK8aAcpuetuEKSEA1e54Py0YYXvnpG0yTlppj6p4PCHvlNr7MjifnIBU4fXJ1ax65G0IML2zMAg==;sitAwj/Oqig1mZcDELfJxw=="
 ---

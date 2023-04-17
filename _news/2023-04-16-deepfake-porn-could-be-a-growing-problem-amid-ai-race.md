@@ -27,6 +27,20 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 44
+  - title: "AI tools may help proliferate deepfake porn. What's being done to curb it?"
+    excerpt: "Experts fear easy-to-use artificial intelligence tools will help proliferate nonconsensual deepfake pornography. Here's what tech companies are doing about it."
+    publishedDateTime: 2023-04-16T22:19:00Z
+    webUrl: "https://www.usatoday.com/story/tech/news/2023/04/16/ai-deepfake-porn-technology-protection-tools/11678709002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 35
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2023/04/16/USAT/cdb71731-0e90-4fa7-aa4d-d1715863e215-AP_TEC-Digital_Life-Cyber_Spring_Cleaning-Tips.jpg?auto=webp&crop=2361,1328,x1,y92&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Deepfake porn could be a growing problem amid AI race"
     excerpt: "But experts fear the darker side of the easily accessible tools could worsen something that primarily harms women: nonconsensual deepfake pornography. Deepfakes are videos and images that have been digitally created or altered with artificial intelligence or machine learning."
     publishedDateTime: 2023-04-16T19:26:00Z

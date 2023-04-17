@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artif
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artificial-intelligence-company-to-challenge-openai/amp/"
 type: article
 quality: 95
-heat: 467
+heat: 465
 published: true
 
 provider:

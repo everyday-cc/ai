@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/news/stocks/ai-labor-market-link
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/ai-labor-market-linkedin-economist-jobs-unemployment-chatgpt-fed-interest-2023-4?amp"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "The AI Revolution Is at a Tipping Point"
-    excerpt: "We spoke with Rootstrap co-founder and machine learning expert Anthony Figueroa about the issues surrounding the need for developer controls of machine learning and the potential need for government regulation of artificial intelligence."
-    publishedDateTime: 2023-04-13T12:00:00Z
-    webUrl: "https://www.technewsworld.com/story/the-ai-revolution-is-at-a-tipping-point-178143.html"
-    type: article
-    provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 19
 
 secured: "cm/cQHFXkLzrHK3NC6z+FuGktRhACH2266gu09TAE5r0DGSGjAq03w/IZWjUdkdJKORGgAV1kyT9bPagI3//2BqiLXHHzCqgKNLLrFTL1MtX3ZDD99EVXTDaaTC0T/8QeZX0lEIrKpIBkAKaTUPikjNmof8LkdNDjraOqzKAuS7Fb/3Z5LAU9MeqqKbZZUu8bQONZCvr3n6evXDHSeRddoxkXxryMt28oZE+ohCcbU0Jt42mk4wzee7pm6HpyPcmoXWyyW2uXwjnk9xrS2CtQRMKdJIxRKpnF72RFs/VaH5yTAjW+q2TcAXC7b38Km1GhWY+lV1CesBSSJ5Mn1uvGNHIdC7Pl3tqmye7GWe6ylw=;5dz8elXo4aIQ7TUrlGttCg=="
 ---

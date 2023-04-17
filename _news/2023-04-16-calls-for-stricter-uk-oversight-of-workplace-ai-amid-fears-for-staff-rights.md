@@ -2,12 +2,14 @@
 category: news
 title: "Calls for stricter UK oversight of workplace AI amid fears for staff rights"
 excerpt: "Campaigners, unions and MPs raise concerns about surveillance and use of ‘management by algorithm’"
-publishedDateTime: 2023-04-16T12:57:00Z
-originalUrl: "https://www.theguardian.com/law/2023/apr/16/calls-stricter-oversight-workplace-ai-fears-staff-rights?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/law/2023/apr/16/calls-stricter-oversight-workplace-ai-fears-staff-rights?ref=biztoc.com"
+publishedDateTime: 2023-04-16T10:46:00Z
+originalUrl: "https://www.theguardian.com/law/2023/apr/16/calls-stricter-oversight-workplace-ai-fears-staff-rights"
+webUrl: "https://www.theguardian.com/law/2023/apr/16/calls-stricter-oversight-workplace-ai-fears-staff-rights"
+ampWebUrl: "https://amp.theguardian.com/law/2023/apr/16/calls-stricter-oversight-workplace-ai-fears-staff-rights"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/law/2023/apr/16/calls-stricter-oversight-workplace-ai-fears-staff-rights"
 type: article
-quality: 15
-heat: 15
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -21,6 +23,12 @@ provider:
 topics:
   - AI
 
-secured: "A4oa0+p2cwi71Ioi86WaM/ezA2F25dN1ckzrAUnaBL8KCVJLotU0Jgc80cqDd9/w7JJewKeeY+Cak9wMJl1HoCLefGvV2dyMDu9ZAXQPfnw64yxc84j/6FEeps6HzOGwbb9m0xxSqtmhhsj9anScnXz3S2w6ia7lMgfb+yum343B1gvcWIev/M4WY+47OGe2QGYckb/ieT+8+ZePvp/SVKbJpt+d8hK49C35yuG/dZ+v6v7au5NZtMgJ15qQ2M8stNm5Mfp2A4gw5BnKteXSG/UcjTTVRU3e5D9dj9eCGp0N8SbE7MwnxOLVINOqxfMkyare4kCxBdg6GoGUODxtGBR2POlskogtJr7gutWS8kNRcBIsFnUtbVaqzxHgI159OV1kIY+r5/jvpGCiDP6Ju6ZDc+r3AG6+PFYHCW14wBHIOZTgCcz9rviziU+KfnsE9aSSILVj1c2V11TpWhcyaHD3l8/7x+85kISxEkIkW5uMUoVMErYbrKFvsy0e2/DepnC8Nrv6IZ81+hJ0v7oKig==;wjGBdxKzbvLDv6OaU7Uvmw=="
+images:
+  - url: "https://i.guim.co.uk/img/media/2ed9ac5f14e72b4c2143b414922a43b5c070490e/0_172_5500_3301/master/5500.jpg?width=620&quality=85&auto=format&fit=max&s=000696502005ecdb7132409e098b5b30"
+    width: 620
+    height: 372
+    isCached: true
+
+secured: "1xMd+fjpxm9bdLPe/Gf0D+2SP5l3zqEdgemx+oRWFiqa20NkBhs0HunNAix5F//H9OGNyk91z2cQ8v4n0Y0Ee9l1gtV8KO+L7NkSVVM0TddJXn96zWi+kXu+is5Gv3nfL0ty3Uprcadb6lmvVaaFeZ85aDc9igbfDEAce+0gXniFDIOr8N6fdO28R0Q8PgsDlQvfvP4/IicGne8jH7a7TTqNljwOzCHCKuHcueig6Ox9QH6yQuAjz2TptzXE+4+LvmnxJVqyx2zASeeYGIwTXWbkMAN+vUYVcmMxaNNlbkcRFpF8TZ/2AIZxAuqmfHXvLXN/hUpuuU/GTqm29+8kY6mH0u6o1BWFrvAwNKqqmwE=;Fxn4Q6GZlWKrWsRYdpkfZQ=="
 ---
 

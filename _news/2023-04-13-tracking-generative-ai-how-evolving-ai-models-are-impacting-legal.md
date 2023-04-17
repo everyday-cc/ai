@@ -357,6 +357,15 @@ related:
       name: The Drum
       domain: thedrum.com
     quality: 11
+  - title: "Amazon arrives fashionably late to the generative AI arms race, but with a smart solution"
+    excerpt: "Amazon announced this week that it would offer AWS cloud customers the chance to leverage some of the most popular new generative AI models."
+    publishedDateTime: 2023-04-14T15:26:00Z
+    webUrl: "https://www.fastcompany.com/90882084/amazon-generative-ai-arms-race"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 10
 
 secured: "XQQ+cFDa/wkSwcf4vNoSWTlvSpwEIuBvmsCeo0lUKrT/FOYw4w8/7zHS8VTD8WSQ3/X71LK6qG3c0RpD7X5lK2ewTo5tgdFfItaj7Is2uNpc8o1g9seX1SVzrN978dl2OVLDLoOkV2FIfHt3N/3gx6bWhyUjWuxojcwmH13/4n97k9N7ULlaVeqFAwrjK8BHNQ/WTp/nSa2pbeAaDEoWyNJaxqWPF2cwy8YBN5Jqva9cwZZvcvfSkEG+BoCLLvDrOcmkT43zpVezFhHn5nnAK5h22ZSzSaMyGFE3pxdqEUz5NpC/p1rtjCjp4qVKlJ17/Z7kJ5oZ+dHKITj2EdPFCg3G8qRArZ+A4z4fB5QHuA4ynBR6Xl/RcMOQYCI06Qk219mlfttw7KYqlrhp6iF1Qvq9BMs5u+9BR1bd2FBqidpERV5hz0il5iV8FqZrNJow3kAc3Np7MJOgv1BSlrTGmdax68PfMOhOgAc67tMR+Qr9sR3xLYXJ5+Ke8mfBKk7DciDf+26MbPiVPYcX4kNRfA==;HvZshAdxmLEsUGq653QdbQ=="
 ---
