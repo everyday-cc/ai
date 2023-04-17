@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Quantib"
   url: "https://twitter.com/Quantib"
-  followers: 826
+  followers: 827
 
 size: 11-50 employees
 yearFounded: 2012
