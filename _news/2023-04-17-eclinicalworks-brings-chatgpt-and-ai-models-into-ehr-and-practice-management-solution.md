@@ -2,9 +2,9 @@
 category: news
 title: "eClinicalWorks Brings ChatGPT and AI Models into EHR and Practice Management Solution"
 excerpt: "\"We are thrilled to combine advances in generative AI models with eClinicalWorks' solutions to bring responsible AI to healthcare,\" said Girish Navani, CEO and cofounder of eClinicalWorks. \"We have been in the world of machine learning and data science for years,"
-publishedDateTime: 2023-04-17T16:12:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-eclinicalworks-brings-chatgpt-ai-models-into-ehr-practice-/2023/04/17/9795619.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-eclinicalworks-brings-chatgpt-ai-models-into-ehr-practice-/2023/04/17/9795619.htm"
+publishedDateTime: 2023-04-17T14:35:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/04/17/9795619.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/04/17/9795619.htm"
 type: article
 quality: 12
 heat: -1
@@ -345,6 +345,6 @@ related:
       domain: diginomica.com
     quality: 3
 
-secured: "hbGtPd3+Vp5XclOYw/meYn++qUcPQKTb4kWMp5p5cxG4AjyUOvuiFJZSvzazBMnnLAtC+0fkGzaBbvvj2ocL8P3+znnZRKEH1JFmLEW5YiTZHi3FQzLSRXWPuUDocmwCjOvmwSISjLnbbCQRgRO1qXEeXcTu+FR1P2n6Xa9GTtYe6LtbsHYb/ehAdxLA8bIQN++WU5Wj/fayumiwD4wKcgoNbsW7H59A7BM3yTCAtjGtBbVM23V1qF1Qoh8xPApvXLyrLDpBXSRFzE4q7a3P0VOBW02/yB5OxAxL2CU+2Mz9r9cpdlVQxdU60xgGq8IOlkfDRcw9WAxtme/K35xSoOUluD2CcNTrCFjY7MImUy4=;uJKgE5XVBodh4P6sQc66RA=="
+secured: "/IBVwOL+ZsSfOJ5xzIlqKFzcXtCsUIPdrPEGEGo1GjKc0+bMpqpFT57tnKKdxWqROkI259FLcUe9xSKHu2K+jyROhCeUKR0MkmvagIs7Nr61VGlbef7JsUUxqp7aiXMmBa8GfCMZRSfiyt1o91fM37rjAfuCR5L3NdkN9ix4K4F+69Ko1hjURhPNeFEMmf/jzQRMmOJA4evv/Y26unGqsHstClTGNqzfLIA+1s31SZyY+ji88dCAQAzTgGBMujc7JiuObwbQMQfq5FBONcSDOYlJ1B3zBa+bM8ITlzKMvzkY8NlOypavZ7UQO6b8VIVOUey7lSV4/cJCJGg0cLE92joynUc54aW/gUF01xCrWsM=;DhKwa/Y+vrUe2vL5EMrKiQ=="
 ---
 

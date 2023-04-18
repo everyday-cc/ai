@@ -42,22 +42,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "The media will have to stay vigilant in an AI world"
-    excerpt: "Letters: Readers (and ChatGPT) respond to articles on artificial intelligence chatbots and other content-creating AI tools"
-    publishedDateTime: 2023-04-13T17:53:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/apr/13/the-media-will-have-to-stay-vigilant-in-an-ai-world"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/apr/13/the-media-will-have-to-stay-vigilant-in-an-ai-world"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/apr/13/the-media-will-have-to-stay-vigilant-in-an-ai-world"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/539651549e7314ba6c15927228301747422b71cb/0_338_5130_3078/master/5130.jpg?width=620&quality=85&auto=format&fit=max&s=eac8ab7567927ab880f41df02de7a436"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "wFPhm2MspnpaMuEp3KTNdGGKxTyzB2sq2uUfNhwNXxM2SyYisKHhANGYge85JjuK5cCzMJ8ujQVNJYg8ZX65+VjsXXAe77EaHPhMr4Ug0UbGWOWLs+7TQNKfReSiE1NXOYXoCoHeB0F1YA4tmZ8dUEAEgr1R3U5e76SLni3DenZKP+ktW3To+PFpi1tEOHsholZQLaqjfvSQ9jWIyQ+ZjduDrHUil95MjASMadnCEHXiF0q6ynsI6IiIrgH9uo8o7ALxWvaJTagOO3ymFx8PgPCNpYVOWVqAepGcjiP6hFp+/rJKKLbFKBHAtLrmN9IcjadSGusE5phL/Nm2WgtIONpjRV6SYLuXKVVvr5ZBLAtQxy1FGJBY0khOu8z0F1oeCAd5AvNrLB9CMeTxHcATIr6FZR0RJnUT0zXaDcRnQO4L79VjRKcQOX8qtGIBj6PtSUEjqrhkeF9SfHGVjj83NC3yLrRPKgvfbNNifBiM3kt55Fe70jUOHxizViSwRxJAElMcEUDiDLrWpFmX5yqVWg==;SuNmq/MYIEqs3WHuQHPw+w=="
 ---

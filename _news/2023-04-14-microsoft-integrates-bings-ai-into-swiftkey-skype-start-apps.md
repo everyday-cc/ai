@@ -67,7 +67,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
         width: 1200
@@ -135,6 +135,22 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 60
+  - title: "Sounding like an AI chatbot may hurt your credibility"
+    excerpt: "[Related: Microsoft lays off entire AI ethics team while going all out on ChatGPT.] “While AI might be able to help you write, it’s altering your language in ways you might not expect ..."
+    publishedDateTime: 2023-04-14T22:14:00Z
+    webUrl: "https://www.popsci.com/technology/ai-smart-reply-psych-study/"
+    ampWebUrl: "https://www.popsci.com/technology/ai-smart-reply-psych-study/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-smart-reply-psych-study/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 59
+    images:
+      - url: "https://www.popsci.com/uploads/2023/04/05/Depositphotos_343968794_L.jpg?auto=webp"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "UW Health using Microsoft AI in Epic Systems medical records"
     excerpt: "UW Health is among three health care providers using artificial intelligence developed by Microsoft Corp. to draft message responses in electronic medical records by Verona-based Epic Systems Corp., the companies said Monday."
     publishedDateTime: 2023-04-17T17:10:00Z

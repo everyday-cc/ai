@@ -30,37 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Product Management in an AI startup"
-    excerpt: "Product management in AI startups presents unique challenges that require a combination of market knowledge, technical expertise, and cross-functional collaboration."
-    publishedDateTime: 2023-04-14T13:46:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/product-management-in-an-ai-startup/articleshow/99498142.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/product-management-in-an-ai-startup/amp_articleshow/99498142.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/product-management-in-an-ai-startup/amp_articleshow/99498142.cms"
+  - title: "Meet the World’s Least Ambitious AI"
+    excerpt: "“People want to have consent to having technology used on them,” Margaret Mitchell, a co-author of the response and an AI-ethics researcher at Hugging Face, told me. “And there aren’t good ..."
+    publishedDateTime: 2023-04-14T05:53:00Z
+    webUrl: "https://www.theatlantic.com/technology/archive/2023/04/generative-ai-playing-chess-martin-bot/673697/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 57
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 69
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-66556,msid-99498497/artificial-intelligence-.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Skift Podcast: Surviving as a Travel Startup in an Age of AI"
-    excerpt: "Is ChatGPT a gift or a threat to travel startups? Two travel insiders sit down to talk listeners through the possibilities."
-    publishedDateTime: 2023-04-16T21:42:00Z
-    webUrl: "https://skift.com/2023/04/16/skift-podcast-surviving-as-a-travel-startup-in-an-age-of-ai/"
-    ampWebUrl: "https://skift.com/2023/04/16/skift-podcast-surviving-as-a-travel-startup-in-an-age-of-ai/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/04/16/skift-podcast-surviving-as-a-travel-startup-in-an-age-of-ai/amp/"
-    type: article
-    provider:
-      name: Skift
-      domain: skift.com
-    quality: 57
-    images:
-      - url: "https://skift.com/wp-content/uploads/2023/04/jclampet_photorealistic_image_of_a_selfie_stick_positioned_like_37b34a10-5aad-4e9d-a01d-36f50bd2c5c8-1024x701.png"
-        width: 1024
-        height: 701
+      - url: "https://cdn.theatlantic.com/thumbor/w27VJFP0-GwD-Rdtsx13ENmwaJA=/0x43:2000x1085/1200x625/media/img/mt/2023/04/Chess_layers_2/original.gif"
+        width: 1200
+        height: 625
         isCached: true
 
 secured: "HlHom5DrrdNzvm/WKPCswdOTbgPMKLB2cvufnOSC7jkJ+WoHM3/brh7O9e3lh9xQmrK8Atyw6hknaameyr1RJe8cwyJGNXYvdYV38oDYma43wEN1QhdwT4K0zI6tR0qNKJysTVsLJVi756IkdpCiSW9HpekD/lI4hVw98sDtF7Xnaq78pRR7jGxtA/lyxaUtZKGMPmKDfI53X/JFZzb9lHtQbZ80KusK1vI0FeOVWktrdgjnzXDnEUdaMwFTviD051oSA25E1V4HTmFc/lLSuNyBtgG+p7LAHPlqmnLhJNvX6K6CKEXosWVNNcd/K8gbkwrp+il1GwgS+3WxGqOmyYUooHIwoVCjPApiXn5sf48=;e+8LYo8KGzN4FVLU8ysGug=="

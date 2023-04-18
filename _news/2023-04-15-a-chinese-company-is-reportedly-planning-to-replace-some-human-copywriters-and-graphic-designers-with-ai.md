@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/chinese-company-to-replace-some-copy
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-company-to-replace-some-copywriters-graphic-designers-ai-report-2023-4?amp"
 type: article
 quality: 70
-heat: 91
+heat: 90
 published: true
 
 provider:

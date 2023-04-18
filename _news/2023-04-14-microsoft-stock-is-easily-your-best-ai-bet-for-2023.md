@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/microsoft-stock-is-easily-your-bes
 webUrl: "https://www.nasdaq.com/articles/microsoft-stock-is-easily-your-best-ai-bet-for-2023"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Xoxodays Compass is now available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Xoxodays Compass to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies BENGALURU,"
-    publishedDateTime: 2023-04-13T05:54:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-xoxodays-compass-now-available-the-microsoft-azure-marketplace-/2023/04/13/9793655.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 49
   - title: "Microsoft Earnings: Bulls’ AI Hopes Offset PC, Cloud Worries"
     excerpt: "Let’s start with the happy news. Thanks to the company’s strong relationship with the ChatGPT creator OpenAI, Microsoft (ticker: MSFT) has become the perceived early leader in generative artificial-intelligence software. The company has rolled out AI ..."
     publishedDateTime: 2023-04-14T18:47:00Z

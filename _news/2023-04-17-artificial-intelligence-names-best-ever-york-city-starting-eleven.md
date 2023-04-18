@@ -40,6 +40,22 @@ related:
         width: 770
         height: 513
         isCached: true
+  - title: "Google Reportedly Working on AI-powered Search Engine"
+    excerpt: "AI chatbots pose a serious threat to Google's core business model, which is selling ads on your search queries. If you stop looking to traditional search engines and prefer to ask a chatbot to answer questions directly, that means you're doing less Googling and visiting websites. Many webpages often have ads placed by Google as well."
+    publishedDateTime: 2023-04-17T21:51:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/google-reportedly-working-on-ai-powered-search-engine/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/google-reportedly-working-on-ai-powered-search-engine/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-reportedly-working-on-ai-powered-search-engine/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/bcd71e26c56550e674b97de8f8115afd16bc7090/hub/2022/04/12/f26228f5-fdb2-4ac1-9ced-512b5e79d3ee/google-logo-2022-002.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "IgvywoUDbVEZBRi/wOtX0+TXEolMHfkYyxe8DS+ijOezfkzhdJ4zYIuCnbTadW1OgMENlJCx0o87kRAP5P+8ZfRHrKXFSaXAMiZB3XbJXZfNqmvHrqoRCf4fvEnTyg6FBHVSxe5W/pwbJnx9XZkuwdS4Wxlewmb7h3nfjRtj3PAEx51D6SY21tXqNE3xbHhlgwmHcg7mllncuqiArafB5u7kf3ZBimXhR20tewDEtaonOCW0nmdeF+nMY2bYC0s5+fJJBrno+/+2p+geNHW3oyaeR/EZKPWGU1cekBMakLhWosRDmzriHtLAAkaq0/vLKAmzdeyLN/KJRFhhAyz/BY0VO1owgCXPk2+TYd6Npng=;ff2SCxNfbKXehA32MRbB1Q=="
 ---

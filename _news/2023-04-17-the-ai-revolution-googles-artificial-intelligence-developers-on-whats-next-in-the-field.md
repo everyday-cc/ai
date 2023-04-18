@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/ai-advancements-google
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
       name: TechNewsWorld
       domain: technewsworld.com
     quality: 19
+  - title: "UK workers exposed to risks of AI revolution, warns TUC"
+    excerpt: "The UK government is failing to protect workers against the rapid adoption of artificial intelligence systems that will increasingly determine hiring and firing, pay and promotion, the Trades Union Congress warned on Tuesday."
+    publishedDateTime: 2023-04-17T23:03:00Z
+    webUrl: "https://www.ft.com/content/bf0cfddd-d633-4428-87d5-4cb861d56690"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "YnBfScL8pW6FiXG0ssZD3n28WiVXT1j2f4fpduiw9cCFX94S11Fuf0Z+UK4VNTj827DRyDt/cTBKIp/Lznn93k4IdE4qtcHrfoUBWYWPWL3BoUhmtX8eTNXVhhdfTwXfLa2p9Ns57bBMSpnxJ5rexffBbtD4lDqIGZQq8OXoMiyoNBqKgf1PlNJqajtEpKM7D0YUmzpE7jzJ2X6DmBj71f6F9myPZKxgOqMyfFZuww5r9LOHHIdMfOIDwldV8RoQisLeHYJYNMpjI/FDl3ig+xTxIBlnDGoVESqM+jHFkMuxhzNEl3CyK23GFYfTwtP8485itKLojIu4DEV/H5hFCXZZu71wIXtt1tHxoTuHM2lOIS8Q8c8VGJVorVQQ3EmWO53L8V23BHwgR+B7+lahE8goDYBhSjRh5XBrkpmMGL/jQVqPfDzSp5ARWL38KETB5WnyT+ZdaJVcSLmzB7Uw2PdWs2eb4J5E7/K7YwFPyvYp2uDrOMWXuoqyH+f88eelExvctwTklmoUzjJbhO7uSA==;SZrP4jKXENdwI4siv78VOA=="
 ---

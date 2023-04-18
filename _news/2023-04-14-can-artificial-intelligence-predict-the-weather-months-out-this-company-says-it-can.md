@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/can-artificial-intelligence-predict-wea
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/can-artificial-intelligence-predict-weather-months-out.amp"
 type: article
 quality: 80
-heat: 81
+heat: 80
 published: true
 
 provider:

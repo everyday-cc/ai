@@ -70,15 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Security Market 2023 Highlights, Recent Trends, Market Growth And Opportunities"
-    excerpt: "Additionally, this report evaluates technological advances made by leading players in the market and provides information on the key trends, advancements, and strategies employed by these leading companies."
-    publishedDateTime: 2023-04-13T06:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-2023-highlights-recent-trends-market-growth-and-opportunities-2023-04-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
   - title: "Speech and Voice Recognition Technology Market Research [2023-2030] Conducting a Thorough Market Analysis"
     excerpt: "According to our Latest Research, Speech and Voice Recognition Technology Market Size With The Global Market looks promising in the next 5 years. As of 2023, the global Speech and Voice Recognition Technology market was estimated at USD million,"
     publishedDateTime: 2023-04-17T04:24:00Z

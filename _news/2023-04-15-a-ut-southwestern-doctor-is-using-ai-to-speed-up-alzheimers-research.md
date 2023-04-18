@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI can identify subtle language and audio changes in patients at early stages of Alzheimer's"
-    excerpt: "New technologies that can capture subtle changes in a patient's voice may help physicians diagnose cognitive impairment and Alzheimer's disease before symptoms begin to show, according to a UT Southwestern Medical Center researcher who led a study published in the Alzheimer's Association publication Diagnosis,"
-    publishedDateTime: 2023-04-13T06:14:00Z
-    webUrl: "https://www.news-medical.net/news/20230412/AI-can-identify-subtle-language-and-audio-changes-in-patients-at-early-stages-of-Alzheimers.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20230412/AI-can-identify-subtle-language-and-audio-changes-in-patients-at-early-stages-of-Alzheimers.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20230412/AI-can-identify-subtle-language-and-audio-changes-in-patients-at-early-stages-of-Alzheimers.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 48
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "AI Might Spot Alzheimer's Early, Using Folks' Speech Patterns"
     excerpt: "In a new study, researchers used advanced machine learning and natural language processing (NLP) tools to assess speech patterns of 206 people. Of those, 114 participants met the criteria for mild cognitive decline. “Our focus was on identifying subtle ..."
     publishedDateTime: 2023-04-14T16:31:00Z
@@ -67,6 +51,20 @@ related:
       - url: "https://neurosciencenews.com/files/2023/04/alzheimers-ai-speech-neurosinces-public.jpg"
         width: 770
         height: 513
+        isCached: true
+  - title: "AI Can Detect Early Signs of Alzheimer’s in How People Speak, New Study Shows"
+    excerpt: "Subtle changes in the way people speak could help doctors diagnose cognitive impairment and Alzheimer’s disease—even before symptoms begin to show.  That's according to a new study led UT Southwestern researcher Ihab Hajjar,"
+    publishedDateTime: 2023-04-17T23:25:00Z
+    webUrl: "https://dallasinnovates.com/ai-can-detect-early-signs-of-alzheimers-in-how-people-speak-new-study-shows/"
+    type: article
+    provider:
+      name: Dallas Innovates
+      domain: dallasinnovates.com
+    quality: 36
+    images:
+      - url: "https://s24806.pcdn.co/wp-content/uploads/2023/04/face-and-sound-waves.jpg_s1024x1024wisk20cQTwcWxPSbln6Omno2Iz-1tKyzbDvHxmgB-mqPRV1jbQ.jpg"
+        width: 970
+        height: 464
         isCached: true
   - title: "ML, NLP Identifies Digital Voice Biomarkers for Alzheimer’s"
     excerpt: "Researchers from UT Southwestern Medical Center used AI to measure subtle changes in speech patterns that may help diagnose cognitive impairment."

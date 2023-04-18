@@ -8,7 +8,7 @@ webUrl: "https://techcrunch.com/2023/04/17/chatgpt-everything-you-need-to-know-a
 ampWebUrl: "https://techcrunch.com/2023/04/17/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/17/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
@@ -124,6 +125,22 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 60
+  - title: "Sounding like an AI chatbot may hurt your credibility"
+    excerpt: "[Related: Microsoft lays off entire AI ethics team while going all out on ChatGPT.] “While AI might be able to help you write, it’s altering your language in ways you might not expect ..."
+    publishedDateTime: 2023-04-14T22:14:00Z
+    webUrl: "https://www.popsci.com/technology/ai-smart-reply-psych-study/"
+    ampWebUrl: "https://www.popsci.com/technology/ai-smart-reply-psych-study/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-smart-reply-psych-study/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 59
+    images:
+      - url: "https://www.popsci.com/uploads/2023/04/05/Depositphotos_343968794_L.jpg?auto=webp"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Microsoft integrates Bing's AI into Swiftkey, Skype, Start apps"
     excerpt: "After launching the new Bing experience earlier this year, Microsoft has been trying to bring the search engine's AI features to its products."
     publishedDateTime: 2023-04-14T06:11:00Z
@@ -255,6 +272,6 @@ related:
       domain: macrumors.com
     quality: 17
 
-secured: "nuI+9ckDzjsQyTu0DDaIQjE/m/y4d9884yInrwD9mI/08k2A9VK/1P5kq7bW3uDj6/DDO9EFTLxMhK9CKcTCPwf0ldYGSTQWlCt42/n7C8VDoijmxi2w/qU7ESo3GNAvQByRynS5i/yi0E93FqMub5sA/suC62VeP3I8ywkSskKYngyOJp0VegtAQEZ+RQ5CCK+kSrazO9B5e4lmucUpI0/8b0MaoAXy6n6vPTcezQBHOw78edm4Z6KIA6NGR/oqMXgaOg1zeLDE8/Dw9cRPsF843GckvlGO6NP1SkH58091LvQLokHI8jIvZ+FoD5ly4+3EFWyQTC0ETYwMRzXDbQINR/8AavPwMl3NSNkuyhQ=;r333xSOesLOGckm+Ispplg=="
+secured: "Ngo8HfATuSkWm82J/ZkvTfLVLpkijcr85fTwPDTt8QNVh2goMco/WfUDgMD16j8B3nyXXXMuIoCG0gIoMRsZqA7XVVOyQGzn9yk8rFw2OCpo30iPuHi/SvZ6WuFmfM6mJTjH432NAmJ/PJqFrqY/Rg5VmBO8q67iWe7KQWm+O8P/zIOI8aJv2I1uOOO3MB/SyntN+UnicRVks76PrLSAxalcTeWrGgTABNdnfanyrvkvjQo3LCkpmsAKXYmLdTQ/lS7reiRU/rrrrfLuoizyQVP3RaE3nfGmBn7KyI5wrJuUL0bF50QOrrn3z57KgrZCkvaKCPHVEYt48CwfJmLJiaiZzClzFXc1ZcMlhsxs00xIXCm8Ynx9Jb01T0LoRxMGX0dz9aLDiojb7dAxO4YEWnWrrZYMZIPdak3kplLwbNuygp1E4QzLko8988yUnvAyca22/pH8bvXnU5eX5NtctElmLwJqcE8sTGtGaVI+6kUZ9u69FG2mzxo5KqbNZN7GagUp5Q33Ie2IvMY4JAV+Hw==;Sv6Ai+IIXDg60yddLedStA=="
 ---
 

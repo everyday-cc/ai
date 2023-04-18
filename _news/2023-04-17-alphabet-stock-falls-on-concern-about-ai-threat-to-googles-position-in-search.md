@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "In the Microsoft vs. Google battle for AI search, we opt to own both stocks — here's why"
+    excerpt: "A report about Samsung possibly replacing Google with Microsoft's Bing as the default search engine on its devices has us reassessing our positions."
+    publishedDateTime: 2023-04-17T20:43:00Z
+    webUrl: "https://www.cnbc.com/2023/04/17/in-microsoft-vs-alphabet-battle-for-ai-search-we-own-both-stocks.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 75
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107186646-1675183779624-gettyimages-1246677545-GOOGLE_ALPHABET_EARNS.jpeg?v=1681771494&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Panic at the AI disco: Google plans flurry of features after a Samsung threat"
     excerpt: "Samsung's reportedly considering making Microsoft's new AI-powered Bing its default search engine and Google has hit the panic button."
     publishedDateTime: 2023-04-17T06:46:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://tribune.com.pk/story/2412181/financial-institutions-directed
 cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2412181/financial-institutions-directed-to-adopt-facial-recognition-feature?amp=1"
 type: article
 quality: 59
-heat: 119
+heat: 130
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/29716/privacy%20biometrics%20facial%20face%20recognition_0.jpg?itok=LVAspu6g"
         width: 500
         height: 333
+        isCached: true
+  - title: "Facial recognition could make EVs more comfortable or add to data exposure risk"
+    excerpt: "The mostly empty road Tesla has enjoyed in the North American electric vehicle market may be ending even as the company works on new biometric features."
+    publishedDateTime: 2023-04-17T22:17:00Z
+    webUrl: "https://www.biometricupdate.com/202304/facial-recognition-could-make-evs-more-comfortable-or-add-to-data-exposure-risk"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 35
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/04/17181206/tesla-scaled.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Irish opposition warns against rushed legislation for police use of facial recognition"
     excerpt: "The government is seeking to add the amendments to allow the use of facial recognition technology to a law currently in parliament."

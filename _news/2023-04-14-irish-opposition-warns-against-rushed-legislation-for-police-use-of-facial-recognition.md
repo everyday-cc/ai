@@ -72,6 +72,20 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "Facial recognition could make EVs more comfortable or add to data exposure risk"
+    excerpt: "The mostly empty road Tesla has enjoyed in the North American electric vehicle market may be ending even as the company works on new biometric features."
+    publishedDateTime: 2023-04-17T22:17:00Z
+    webUrl: "https://www.biometricupdate.com/202304/facial-recognition-could-make-evs-more-comfortable-or-add-to-data-exposure-risk"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 35
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/04/17181206/tesla-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "BMW Motorrad to Debut Facial Recognition"
     excerpt: "In keeping with the Bavarians’ drive to remain top of the heap for bike tech comes a press release debuting BMW’s latest system for their motorcycles: iFace, or facial recognition software. Using 3D scan and infrared scanning technology, iFace ..."
     publishedDateTime: 2023-04-13T19:53:00Z

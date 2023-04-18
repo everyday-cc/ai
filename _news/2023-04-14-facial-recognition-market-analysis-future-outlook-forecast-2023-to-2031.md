@@ -79,15 +79,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market 2023 Expected to Reach Significant Rate by 2030"
-    excerpt: "Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (Neurotechnology, Nviso, Cognitec Systems,"
-    publishedDateTime: 2023-04-13T06:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-expected-to-reach-significant-rate-by-2030-2023-04-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
 
 secured: "CQBqEjbJPZFV0bypTBq///k8hL/G6ifj1TfzQw1gMUoGfEkViAlowDKD5hsdSo+z1F4T8V4oAiJ8oZo61tqqb6TJu6Rag4/6Egr3o3uzj5J5pjevQMxTkhoKBvfLglW2o4MmVWS4pAGgcAUpZn6zlUfUfbItZdCHAkF7GXb5G+9obpkFnisGMSVngMbCvXP7oHrsvhZZhnVOnZ+BrxBkkTGw9KGtjApHcDMtnNUgZ9SbQg67d/94XctFXY9KP1wiC50J2IsUYtfMJrlog/xfBiSu4WWYv19JMyKVRgtJIeYPNDGNiSTSRpOI4HSOr56yj4mpHACcSgfnZTsbjlP3ZanikQ2TlUrdWXaNjIcBxhw=;7jyuNShmVyIbednQ1sxMBA=="
 ---

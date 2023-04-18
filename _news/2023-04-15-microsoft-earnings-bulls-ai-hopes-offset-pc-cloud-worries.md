@@ -28,15 +28,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
-  - title: "Xoxodays Compass is now available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Xoxodays Compass to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies BENGALURU,"
-    publishedDateTime: 2023-04-13T05:54:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-xoxodays-compass-now-available-the-microsoft-azure-marketplace-/2023/04/13/9793655.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 49
   - title: "Microsoft seen as 'largest' AI share gainer in coming years"
     excerpt: "Weiss said that given Microsoft's (MSFT) partnership with OpenAI, as well as list large installed base of customers, \"this opportunity goes well beyond search and even well beyond [Microsoft] Azure's AI services.\" Earlier on Monday, European lawmakers ..."
     publishedDateTime: 2023-04-17T15:47:00Z

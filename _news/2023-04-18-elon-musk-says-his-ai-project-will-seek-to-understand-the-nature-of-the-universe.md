@@ -546,6 +546,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Elon Musk to start ‘TruthGPT’ AI platform"
+    excerpt: "The billionaire says his new artificial intelligence platform, which has a similar name to Donald Trump’s Truth Social, will seek to understand nature of the universe"
+    publishedDateTime: 2023-04-17T23:26:00Z
+    webUrl: "https://www.afr.com/technology/elon-musk-to-start-truthgpt-ai-platform-20230418-p5d199"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 37
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.4405%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/1a5910062df70f03939714e06f8823a3c26de0ee"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Elon Musk plans artificial intelligence start-up to rival OpenAI"
     excerpt: "Elon Musk is developing plans to launch a new artificial intelligence start-up to compete with ChatGPT-maker OpenAI, as the billionaire seeks to join Silicon Valley’s race to build generative AI systems."
     publishedDateTime: 2023-04-14T17:35:00Z
@@ -606,6 +620,6 @@ related:
       domain: cointelegraph.com
     quality: 17
 
-secured: "5hPrsj6XOPEC8KSVdkxtLTh5Q9sf3E6UaqMdjeSJrAkC84WL+M0ZsUwyQuPSB1BT+2ZNgeKXNCdsX1F4JGrW0cka2qpW0w6hV7iYIIno5dgPMB0sMh0uBLkp4Mxxna5nl+pMbR/JmCi6ls7vbfQyktt8yHrLWzyU9e1t9jXwhkB5XGydl2T2Mj6FvlZf+/ghpc/CL6nyLyYh2WhzYDecrYCXfif6iltkWmogX7ketABXZs4rIovanNq0oiZ+qj2XgBIOvlpiGD/EnxBCFUYSADzD4BLWg43iGPDKfTNn0xybzpPA60VHFKQQjoWfdJwmunT7LvzrR3jzByxi/U/VByGI4oZTy+wTXlx2yeswcf0=;VF0UuFIJQcRyAhsywQHAIw=="
+secured: "ZCinjorFkExPhbICB2FJ28NB/foAtNYYvzPHCm3HnFhT6Wedi2L84nSWzikk5QnSfGLvLyg/zKmLNXxbfELb73tZsW+apm4lsEmbfrcxxpP64/raKrW6eP/ew2rZB4811h0XyoJgLMFOtH/WxkAW4KQ7glR5oCmXL/ziWnIRv5Gk3CPHH9wFWqQzxF+hJcWHWS6pPLtA4U9MuG6/JAPYJ4i00t8kUTeaAagIk4nxF915uRIvVfT0KgCPI0o//qwyKUxHTYRCNggk++8L/Ch/ifZuJZMkD18MLL0O2lom0nWOnRMUpW3cw2BfGZVkIqWiCBf7R23RbxUpiN0e/v2abgnP69gcyyhan1TizYZJSTby0Uk+HGmRukYG9lmULIbPuBeGsvz2DZuU8+My4lSdJ+Xw8Ut7mn/DFtnWAfK14YcbMPR7Bp9ts3prJc7VRTPrFu40tPUvaoZ0OTCc+1xnhETfuGtme9l3bWhRB0R0YmJkDv4tFrWWPl2Rjkm8jEhgV5T57OAvtFAFZN4h6ALIFQ==;10t5vdCCcaVdwQNbonQCmQ=="
 ---
 

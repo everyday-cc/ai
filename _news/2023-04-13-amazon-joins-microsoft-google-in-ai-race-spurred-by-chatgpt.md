@@ -71,7 +71,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
         width: 1200
@@ -125,6 +125,22 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 60
+  - title: "Sounding like an AI chatbot may hurt your credibility"
+    excerpt: "[Related: Microsoft lays off entire AI ethics team while going all out on ChatGPT.] “While AI might be able to help you write, it’s altering your language in ways you might not expect ..."
+    publishedDateTime: 2023-04-14T22:14:00Z
+    webUrl: "https://www.popsci.com/technology/ai-smart-reply-psych-study/"
+    ampWebUrl: "https://www.popsci.com/technology/ai-smart-reply-psych-study/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-smart-reply-psych-study/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 59
+    images:
+      - url: "https://www.popsci.com/uploads/2023/04/05/Depositphotos_343968794_L.jpg?auto=webp"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Microsoft integrates Bing's AI into Swiftkey, Skype, Start apps"
     excerpt: "After launching the new Bing experience earlier this year, Microsoft has been trying to bring the search engine's AI features to its products."
     publishedDateTime: 2023-04-14T06:11:00Z

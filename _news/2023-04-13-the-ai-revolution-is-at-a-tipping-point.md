@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "UK workers exposed to risks of AI revolution, warns TUC"
+    excerpt: "The UK government is failing to protect workers against the rapid adoption of artificial intelligence systems that will increasingly determine hiring and firing, pay and promotion, the Trades Union Congress warned on Tuesday."
+    publishedDateTime: 2023-04-17T23:03:00Z
+    webUrl: "https://www.ft.com/content/bf0cfddd-d633-4428-87d5-4cb861d56690"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "kkZFd25xRverEhRb7kFa1hwu+ViFrv2xMrniiq5j7p3NVa1pxHvtuIrOczR544QDkUyJUGeLYxI+ofQvW2YCDWGbnb4b34XcS6nD2aDjW3qh6V7NiyFoRvoX162ulAU/BQOanMAIGBA4FU/Wk0a6j+QrlyT8TxwxyBNtkk1v+IMN/U2sqB/PDPnHhQWa7SfM1QW0c+6vU5q0laP3sFq7jHic8VZPXJ5iPILRwdObgTNauV/4Sms/DM1ghFVMI/oPYogB08xdlOPJOp2SHGEykLorQox+rKMYd0yANAF4k6UMahsywVjrBENhChmlQehpyitoL6fMlW0DI+7IbTHoie/vzxkrZ4Su4mrTCvw+VBI007H9SGzbY8YCmgbg1zAFfKnsD9KDeR2DrLfbgz9/ck6c256CkOEL4SCRWLz4srAl4u2sPTz8aCLJONiI6vBOwCD3SbTd/uL11fEccl5ywpXN2fwblN1Cf5GZ4MweJi7dB0YWnk0U7w8QFahpmjpUr0C17EtPtqSdNn91bsF5cg==;VYijPXBSu4PoaV8r45a3fg=="
 ---

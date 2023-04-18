@@ -3,18 +3,18 @@ category: news
 title: "A few classic films made predictions about the science of the future. A few got it eerily right"
 excerpt: "Here's what some notable films get right about science and tech — and what's still the stuff of science fiction."
 publishedDateTime: 2023-04-15T01:05:00Z
-originalUrl: "https://www.wlwt.com/article/films-predictions-science-future/43605947"
-webUrl: "https://www.wlwt.com/article/films-predictions-science-future/43605947"
-ampWebUrl: "https://www.wlwt.com/amp/article/films-predictions-science-future/43605947"
-cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/films-predictions-science-future/43605947"
+originalUrl: "https://www.wcvb.com/article/films-predictions-science-future/43605947"
+webUrl: "https://www.wcvb.com/article/films-predictions-science-future/43605947"
+ampWebUrl: "https://www.wcvb.com/amp/article/films-predictions-science-future/43605947"
+cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/films-predictions-science-future/43605947"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: WLWT
-  domain: wlwt.com
+  name: WCVB Channel 5 Boston
+  domain: wcvb.com
 
 topics:
   - AI in Healthcare
@@ -102,6 +102,6 @@ related:
         height: 280
         isCached: true
 
-secured: "2P3EipHl1QesgRVcC5dpgO3hNZBNRhly4fn6uH7WpWlf+k7yFKGKoMsVB6BpAe1scH9a9xi/QteNwqAv7CB9+9P50l4Tos86bpa16yiH2mWhrQkP3sOzE8cz5tQvEXlpZlqh/lRdDnwYSJgVOKOIcdrU9NCDeex7ogZ2lzVSjZOZEhjkXpI7j8qhfYuGu+e4nU6+rbHUl9I5SYNEJOpsTSu6vgw7zBqgGNTWZNc5+T6SAmVe0MdJzY2R6TrJwR/7ye8kGFzuIVRfJz2aAgIiosvMHW3KgouIh1V11oAZQlVpBFzSp8+gcyssdttUOufFrCOFUy+0LzChFi9t6RpXULGacHep8S3FreqH1/xv9BvmBdS8W6yAq6nxGEmO5En8QzJQWrtMbw+XdGAkStxzIVK91HPGI5uJ2rdxxJfOSduEtv/IwZaMTIPsj29gMKCk8YbXeJjv4DCROAl07JxZ1QeXuPMrid0jVKP+VgLU4g4XOjLUAB7GKRYgqnMZkKzvOmJvlk7zd+4T0eqY1y7acg==;JczpVYKkRUcyGwvIw8juHQ=="
+secured: "O0Od/hOY4teQ7ygHu2Hmq+50YerP+cm6P2KrrviH9s6rBVuY/51oS/5n9wOUg8ID68/K+HC2azllSk5zmU1sG+KAV0yNYtKvu8X7QbqDpMg17Gm58Z2bO0lGxOrXBFv62Ng0if8AFN0BnLghN4QCMIu7W4MMshaf4hhwpXvvbafg/wg64IPcZSt0p+iYjWOHKZTsNOki19+vper1AyasChqBZxFpC4jNYvha9UJfrLK+D6ocvwfriW0dbC7SrsmtkJjvTgt2nKzkVEY16QTMe82fV2FW4VB+dXk15hJzYKhtX+iOkBR3k8R/9v0fl7dLJC2eZCKTW3kLtFlGQCNYlfc44T/eF1u69rWK4bakzeY=;nvUJhowdB7ZUHexs6AYhoA=="
 ---
 

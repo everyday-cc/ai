@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-2030-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/2023-2030-speech-recognition-market-report-latest-developments-2023-04-16"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -80,15 +80,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-  - title: "Facial Recognition Market 2023 Expected to Reach Significant Rate by 2030"
-    excerpt: "Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (Neurotechnology, Nviso, Cognitec Systems,"
-    publishedDateTime: 2023-04-13T06:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-expected-to-reach-significant-rate-by-2030-2023-04-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
 
 secured: "8GwtN6TN96Y6yR/upqInqTkJ5kwxCH/KrvoNpp/kAcrnbClXwiQ5IXs7cZbiXWTngiAcUKQ2GrsHwctcRTImV07yDpcpVBwu1yfghPxM5ftzTa99dIgVulQUFUsY62gbPZLtnZiSDuHVaCVvsU7xLOPEFkeO95FUf11pe1PqqOog9UfunbxOCDeqjl2oLOrWYs8Ym1sP6KecUnVr6T87hKguTDmGfChvTDDpTAplD6kuqzCiN9ZY1m63hD6enzUy3zsBuSwlzl7UgI7pNxhu4fkzjWHaCMqcLVQ248B60UlGGPd8CbXhFgWhBM749DvQdHGim6ZTZXVgj6F00x65Dkay4BfiTZYjIzahuaAk/rY=;3YRyRM+wJdvSepOlgdXgSw=="
 ---

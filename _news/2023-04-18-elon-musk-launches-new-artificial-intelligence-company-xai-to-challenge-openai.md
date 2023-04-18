@@ -542,6 +542,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Elon Musk to start ‘TruthGPT’ AI platform"
+    excerpt: "The billionaire says his new artificial intelligence platform, which has a similar name to Donald Trump’s Truth Social, will seek to understand nature of the universe"
+    publishedDateTime: 2023-04-17T23:26:00Z
+    webUrl: "https://www.afr.com/technology/elon-musk-to-start-truthgpt-ai-platform-20230418-p5d199"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 37
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.4405%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/1a5910062df70f03939714e06f8823a3c26de0ee"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Elon Musk plans artificial intelligence start-up to rival OpenAI"
     excerpt: "Elon Musk is developing plans to launch a new artificial intelligence start-up to compete with ChatGPT-maker OpenAI, as the billionaire seeks to join Silicon Valley’s race to build generative AI systems."
     publishedDateTime: 2023-04-14T17:35:00Z
@@ -602,6 +616,6 @@ related:
       domain: cointelegraph.com
     quality: 17
 
-secured: "EymFRiwEzGVYBrFuhQWgYRfU+eOIofRoogiFHSKsLRzAJUOAYMJ8sZC/+qcxIMQHD2JF1UY5wLWdFu1CpQ4L6rClPtKDiEnLHlv/rDvVVpmSwvEqOKEEGVulaN9Nf02bHfoVxYrOA4SX89NBWn94XN9IlDEnrgF7IVUsQR/693QQz8fkGDdICMRLMOw4w8yL0/wr1EU9YGM16T/fb/VsbrOK1U92PgaA/j88nOKh0z0EompoMAcgP2DqLx28mxFHA7Bq+d9jJ/VC7Zzz9MngO17Ju9Ahv1PqBYUPXMXaL8n7ELSp5X5L99MyQXcjvY3dHy7xnyX5odqGedn023lXGq64sNKcu1T7AanDUApNgE0=;LPlhY33b4wUwYGnzAZBDBQ=="
+secured: "kbX9oEnhWyVC7E2NpIhP5LE71Wx2jkljmAv75Ioz8izJuq2IqJgSUv+l+ftiI4Iv4WuKDtuZl8B8WW7ajWbwIbsKQAh2GMRUC+WvtML4/22duNDTm4l+bUyPi4sVB4ShDwNP1xSoqdlFCHTEZNlMY3YZiTnuhAAKdp6koRF/7Xfc7lSxoyxvdWBzpZpiz9/57ZmS0i+2rHH0qNoLiEqwF0u+cOsdxxkVlGfMbCmtVuUnJy+ijbrznjSLvBhvFMzPz7AKgBirQjps3BBBg5rHS2faCtIIGhkQkA2PtK+MMZQ/kcREEeLyDfS+xMrAQ67ro3r7zYfFV95LLOU+n3Trpw1CUwq1NyTQ96CsADleWxdw5WaKjvTDhx8Y37EG9mmSHkq8CYe+m7KqQMigbyXitMOIrnZoSx7IbiKMZm2vBBplD0ewif9c8GPd4Op99O/sCziL6NmiYvHGD1yDjdHNul67TfQglSh9afWMuKpsecH2C+6MX4RGPt1+hGXlsKuqDx5e5xqNZABb/2viIpzfoQ==;YUwpw9ELpuhcmo0RsWbhUw=="
 ---
 

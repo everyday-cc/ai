@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/connect-amazon-emr-a
 webUrl: "https://aws.amazon.com/blogs/machine-learning/connect-amazon-emr-and-rstudio-on-amazon-sagemaker/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deploy large models at high performance using FasterTransformer on Amazon SageMaker"
+    excerpt: "Sparked by the release of large AI models like AlexaTM, GPT, OpenChatKit, BLOOM, GPT-J, GPT-NeoX, FLAN-T5, OPT, Stable Diffusion, and ControlNet, the popularity of generative AI has seen a recent boom. Businesses are beginning to evaluate new cutting-edge applications of the technology in text, image,"
+    publishedDateTime: 2023-04-17T23:49:07Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-large-models-at-high-performance-using-fastertransformer-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 83
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/04/17/deploy-large-models-faster.jpg"
+        width: 1148
+        height: 574
+        isCached: true
   - title: "Authoring custom transformations in Amazon SageMaker Data Wrangler using NLTK and SciPy"
     excerpt: "“Instead of focusing on the code, companies should focus on developing systematic engineering practices for improving data in ways that are reliable, efficient, and systematic. In other words, companies need to move from a model-centric approach to a data-centric approach.” – Andrew Ng A data-centric"
     publishedDateTime: 2023-04-17T20:18:48Z

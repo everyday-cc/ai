@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/tech/startups/product-management-in-an-a
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/product-management-in-an-ai-startup/amp_articleshow/99498142.cms"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Indiatimes
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The media will have to stay vigilant in an AI world"
-    excerpt: "Letters: Readers (and ChatGPT) respond to articles on artificial intelligence chatbots and other content-creating AI tools"
-    publishedDateTime: 2023-04-13T17:53:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/apr/13/the-media-will-have-to-stay-vigilant-in-an-ai-world"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/apr/13/the-media-will-have-to-stay-vigilant-in-an-ai-world"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/apr/13/the-media-will-have-to-stay-vigilant-in-an-ai-world"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/539651549e7314ba6c15927228301747422b71cb/0_338_5130_3078/master/5130.jpg?width=620&quality=85&auto=format&fit=max&s=eac8ab7567927ab880f41df02de7a436"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Skift Podcast: Surviving as a Travel Startup in an Age of AI"
     excerpt: "Is ChatGPT a gift or a threat to travel startups? Two travel insiders sit down to talk listeners through the possibilities."
     publishedDateTime: 2023-04-16T21:42:00Z

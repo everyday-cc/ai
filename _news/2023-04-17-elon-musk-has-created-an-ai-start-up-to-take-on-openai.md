@@ -542,6 +542,20 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 37
+  - title: "Elon Musk to start ‘TruthGPT’ AI platform"
+    excerpt: "The billionaire says his new artificial intelligence platform, which has a similar name to Donald Trump’s Truth Social, will seek to understand nature of the universe"
+    publishedDateTime: 2023-04-17T23:26:00Z
+    webUrl: "https://www.afr.com/technology/elon-musk-to-start-truthgpt-ai-platform-20230418-p5d199"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 37
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.4405%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/1a5910062df70f03939714e06f8823a3c26de0ee"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Elon Musk plans artificial intelligence start-up to rival OpenAI"
     excerpt: "Elon Musk is developing plans to launch a new artificial intelligence start-up to compete with ChatGPT-maker OpenAI, as the billionaire seeks to join Silicon Valley’s race to build generative AI systems."
     publishedDateTime: 2023-04-14T17:35:00Z

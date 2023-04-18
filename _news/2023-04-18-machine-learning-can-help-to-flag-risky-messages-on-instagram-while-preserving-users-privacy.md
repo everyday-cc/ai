@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Machine learning can help to flag risky messages on Instagram while preserving users' privacy"
-excerpt: "As regulators and providers grapple with the dual challenges of protecting younger social media users from harassment and bullying, while also taking steps to safeguard their privacy, a team of researchers from four leading universities has proposed a way to use machine learning technology to flag risky conversations on Instagram without having to eavesdrop on them."
-publishedDateTime: 2023-04-17T20:50:00Z
-originalUrl: "https://techxplore.com/news/2023-04-machine-flag-risky-messages-instagram.html"
-webUrl: "https://techxplore.com/news/2023-04-machine-flag-risky-messages-instagram.html"
-ampWebUrl: "https://techxplore.com/news/2023-04-machine-flag-risky-messages-instagram.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-machine-flag-risky-messages-instagram.amp"
+title: "Machine Learning Can Help to Flag Risky Messages on Instagram While Preserving Users’ Privacy"
+excerpt: "A team of researchers from four leading universities, including Drexel University, has proposed a way to use machine learning technology to flag risky conversations on Instagram without having to eavesdrop on them."
+publishedDateTime: 2023-04-17T17:02:00Z
+originalUrl: "https://drexel.edu/news/archive/2023/April/metadata-instagram-risky-conversation-detection"
+webUrl: "https://drexel.edu/news/archive/2023/April/metadata-instagram-risky-conversation-detection"
 type: article
-quality: 48
-heat: 48
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Drexel University
+  domain: drexel.edu
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/1-instagram.jpg"
-    width: 1920
-    height: 1280
+  - url: "http://drexel.edu/news/~/media/Drexel/Core-Site-Group/News/Images/v2/story-images/2023/April/social-media_stock/social-media_stock_16x9.ashx"
+    width: 1600
+    height: 900
     isCached: true
 
-secured: "nliC3Uy+WRBRtyrm01U1xrfLTiPvd0gVoTkTdvfr0tbv2mX8VdqymMz3yjxvdm1pj4QkH1+6baakXokWJISDcwuD84qcqdAlNg7YAh6Wwvt4kAAR7VydE+PNcdq0YpC0m9Rt6ZZXGlpIenYPL1wJEgFpaiZjI2Ih2Za7Xb+CZlZZL2krMyMpCjouJU0tIk5jbNzkjsUj3GbEoKtf2SvsREcdCHkdq/26aoqRqHGW8eVsCKfNn5KgybHVcPGWZmqAcP4bV2aWzie/Pnl1f8z7p8rmy7OGMzgLJzg6j+MIe8tu9K0GlrcRjwsoh78l/st/42POOt8yktq5F63FOKFEb0Uk35GqRJn9jJTq3y/w3FU=;5HVKI+EtQVAtgxKdR/idMw=="
+secured: "kwA+CAsL4mNmafDBgcno7Ae+Fw8DGqEIXoHpbR1gaPomPuXKfbymtBCmEAHL+D3WLbK1j3CTYa5sSsHxCD75cG5BArtaRSRBRnM/7GQyO6DPVs/rKhg8R/VA0ZbWr8QBGgF1qRLB+JUESVNATY8d0RepbvSD1nsNG6x9gvsDBzBkHk7ezqojlc+Boat+qF2RnJ8rki9KUlt3a2NkOQVVcAYU1I/LkrWuH9s4KBE1Y5cOijxgHMfyfVWXkdfcLVo/2xorxPbLQV5GU1ywArinnicnxceGmZiwXmgefGejEmzfZbnJRU3i3a12liF3JLxo8WGZhdEg1zwoVShtQtfTnz7FXftw781WpVBekJwnstc=;Kbe+j8DPXTDixRYcIBUwTA=="
 ---
 

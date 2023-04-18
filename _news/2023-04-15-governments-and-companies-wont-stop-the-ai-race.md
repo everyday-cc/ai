@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1106016726/Governments-And-Companies-Wont-Stop-
 webUrl: "https://menafn.com/1106016726/Governments-And-Companies-Wont-Stop-The-AI-Race"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 480
     height: 320
     isCached: true
+
+related:
+  - title: "Generative AI Companies: Top 12 Leaders"
+    excerpt: "Generative AI companies — both existing enterprises that are adding generative AI to their solution stacks and new generative AI startups — are popping up everywhere and quickly. But what makes generative AI companies so different from other AI and ML companies?"
+    publishedDateTime: 2023-04-17T22:55:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-companies/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 69
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2023/04/top-generative-ai-companies.png"
+        width: 1400
+        height: 933
+        isCached: true
 
 secured: "SsZVN+9sOdToUclPtS61/Eg8Cr62vBUDO8pTyNQkimLMa9GQKRw5vF+heFHF3ZlUGICmutQzfkCsSMnLpthCouoFVMPd96k6V3ID/QroY3gNl1W0SvMYsj1oufgKMiFTa+mODIvos67dJV+B8MLhlnFrewVjErnWb8ePmBKIqR97sooEBAirjJba02Vbrx9GIivOZdJzMWMwobl7EEDGM2LKlUA2NlC7vZM9bNmU8P26lohnlpWEssUuFBFcc/5ysxlOPRKevhtoVZckso92wCY4bPBdu8ZUc71p0hoD8yI6j70TGhfFAuqGYUv2q9PnGdFbkEtJ7omNKrMlqe4vthI9+jCFXIWTKoFhL5onWZI=;IVRSMnuxsHfChlBNQo6Vng=="
 ---
