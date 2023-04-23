@@ -2,55 +2,12 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2023-04-05-australian-aws-partners-take-spotlight-at-cloud-innovation-awards-in-sydney.md",
-      "title": "Australian AWS partners take spotlight at Cloud Innovation Awards in Sydney",
-      "excerpt": "More than 300 representatives of AWS partner organisations gathered in Sydney for the announcement of the cloud giant’s Cloud Innovation Awards. The awards dinner, held at Doltone House in Pyrmont, took place on the eve of the AWS Summit in Sydney.",
+      "path": "_news/2023-04-09-exrobotics-develops-new-and-improved-version-of-its-inspection-robot.md",
+      "title": "Exrobotics Develops 'New And Improved' Version Of Its Inspection Robot",
+      "excerpt": "ExRobotics develops 'new and improved' version of its inspection robot April 8, 2023 by mark allinson leave a comment  exrobotics",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com.au/news/australian-aws-partners-take-spotlight-at-cloud-innovation-awards-in-sydney-592969",
-      "originalUrl": "https://www.crn.com.au/news/australian-aws-partners-take-spotlight-at-cloud-innovation-awards-in-sydney-592969",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/AWS_Awards_April_2023_1_thumb.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T17:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN Australia",
-        "domain": "crn.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-two-tasks-are-better-than-one-learning-if-and-how-much-its-raining-improves-deep-models.md",
-      "title": "Two tasks are better than one: Learning if and how much it’s raining improves deep models",
-      "excerpt": "To measure precipitation from satellite data, researchers from the Institute of Industrial Science, The University of Tokyo, developed a deep-learning–based precipitation retrieval framework. Rather than identifying rain areas through classification and then determining the rate of rain through regression,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/985410",
-      "originalUrl": "https://www.eurekalert.org/news-releases/985410",
+      "webUrl": "https://menafn.com/1105965325/Exrobotics-Develops-New-And-Improved-Version-Of-Its-Inspection-Robot",
+      "originalUrl": "https://menafn.com/1105965325/Exrobotics-Develops-New-And-Improved-Version-Of-Its-Inspection-Robot",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -60,79 +17,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T17:00:00-07:00",
+      "publishedDateTime": "2023-04-08T14:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-vpbank-collaborates-with-amazon-web-services-to-lift-digital-banking-experience.md",
-      "title": "VPBank collaborates with Amazon Web Services to lift digital banking experience",
-      "excerpt": "The Vietnam Prosperity Joint-Stock Commercial Bank (VPBank) has officially signed a strategic collaboration agreement with Amazon Web Services (AWS) in enhancing digital banking experiences for its customers.",
-      "sourceUrl": null,
-      "webUrl": "https://en.vietnamplus.vn/vpbank-collaborates-with-amazon-web-services-to-lift-digital-banking-experience/251021.vnp",
-      "originalUrl": "https://en.vietnamplus.vn/vpbank-collaborates-with-amazon-web-services-to-lift-digital-banking-experience/251021.vnp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T16:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VietnamPlus",
-        "domain": "vietnamplus.vn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-covariant-announces-75-million-in-backing-for-its-artificial-intelligence-platform.md",
-      "title": "Covariant announces $75 million in backing for its artificial intelligence platform",
-      "excerpt": "California firm applies its technology to manual warehouse operations in piece-picking and case-picking areas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dcvelocity.com/articles/57121-covariant-announces-75-million-in-backing-for-its-artificial-intelligence-platform",
-      "originalUrl": "https://www.dcvelocity.com/articles/57121-covariant-announces-75-million-in-backing-for-its-artificial-intelligence-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DC Velocity",
-        "domain": "dcvelocity.com",
+        "name": "Mena FN",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -147,12 +36,56 @@
       ]
     },
     {
-      "path": "_news/2023-04-05-ai-in-computer-vision-market-expected-to-reach-457-billion-by-2028.md",
-      "title": "AI in Computer Vision Market Expected to Reach $45.7 Billion by 2028",
-      "excerpt": "By 2026, the demand for computer vision systems in developing applications, quality inspection and automation needs, and government measures to assist industrial automation and AI",
+      "path": "_news/2023-04-09-washington-vows-to-tackle-ai-as-tech-titans-and-critics-descend.md",
+      "title": "Washington vows to tackle AI, as tech titans and critics descend",
+      "excerpt": "Tristan Harris, a tech ethicist well-known among lawmakers for ringing the alarm about the harmful effects of social networks, was now arguing that artificial intelligence represents a potentially ...",
       "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/04/04/9788354.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/04/04/9788354.htm",
+      "webUrl": "https://www.washingtonpost.com/technology/2023/04/08/washington-artificial-intelligence-regulation/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2023/04/08/washington-artificial-intelligence-regulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KKWVQHG6PNB3RPJZLQ2AWNDG64.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-08T12:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-04-09-artificial-intelligence-the-good-the-bad-and-the-ugly.md",
+      "title": "Artificial Intelligence: the Good, the Bad, and the Ugly",
+      "excerpt": "The Guardian, a British newspaper, published a story about a chatbot program that declared its love for a user, told him to leave",
+      "sourceUrl": null,
+      "webUrl": "https://www.omanobserver.om/article/1135374/opinion/oman/artificial-intelligence-the-good-the-bad-and-the-ugly",
+      "originalUrl": "https://www.omanobserver.om/article/1135374/opinion/oman/artificial-intelligence-the-good-the-bad-and-the-ugly",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -162,11 +95,122 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T14:27:00-07:00",
+      "publishedDateTime": "2023-04-08T10:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "omanobserver",
+        "domain": "omanobserver.om",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-08-deep-learning-model-estimating-breast-density-could-help-with-predicting-cancer-risk.md",
+      "title": "Deep learning model estimating breast density could help with predicting cancer risk",
+      "excerpt": "Breast density is defined as the proportion of fibro-glandular tissue within the breast and is often used in assessing the risk of developing breast cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/deep-learning-model-estimating-breast-density-could-help-with-predicting-cancer-risk/99338448",
+      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/deep-learning-model-estimating-breast-density-could-help-with-predicting-cancer-risk/99338448",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-99338448,imgsize-33232,width-1200,height=765,overlay-ethealth/health-it/deep-learning-model-estimating-breast-density-could-help-with-predicting-cancer-risk.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/deep-learning-model-estimating-breast-density-could-help-with-predicting-cancer-risk/99338448",
+      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/deep-learning-model-estimating-breast-density-could-help-with-predicting-cancer-risk/99338448",
+      "publishedDateTime": "2023-04-08T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "health.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-08-azure-previews-nd-h100-v5-virtual-machines-to-accelerate-generative-ai.md",
+      "title": "Azure Previews ND H100 V5 Virtual Machines to Accelerate Generative AI",
+      "excerpt": "Azure recently announced the preview of the ND H100 v5, virtual machines that integrate the latest Nvidia H100 Tensor Core GPUs and support Quantum-2 InfiniBand networking. According to Microsoft, the new option will offer AI developers improved performance and scaling across thousands of GPUs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2023/04/azure-nd-H100-nvidia/",
+      "originalUrl": "https://www.infoq.com/news/2023/04/azure-nd-H100-nvidia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-08T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-08-new-side-effect-of-covid-19-discovered-face-blindness.md",
+      "title": "New Side Effect of COVID-19 Discovered: “Face Blindness”",
+      "excerpt": "A Dartmouth College study discovered impairments in both face recognition and navigational abilities. A recent Dartmouth study published in the journal Cortex has revealed that COVID-19 can lead to difficulties in face recognition and navigation.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/new-side-effect-of-covid-19-discovered-face-blindness/",
+      "originalUrl": "https://scitechdaily.com/new-side-effect-of-covid-19-discovered-face-blindness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-08T00:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -181,98 +225,12 @@
       ]
     },
     {
-      "path": "_news/2023-04-05-students-use-machine-learning-in-lesson-designed-to-reveal-issues-promise-of-ai.md",
-      "title": "Students use machine learning in lesson designed to reveal issues, promise of AI",
-      "excerpt": "In a new study, North Carolina State University researchers had 28 high school students create their own machine learning artificial intelligence (AI) models for analyzing data. The goals of the project were to help students explore the challenges,",
+      "path": "_news/2023-04-08-an-ai-created-robots-out-of-living-tissue-then-they-started-to-reproduce-meet-the-xenobots.md",
+      "title": "An AI created robots out of living tissue. Then they started to reproduce…. Meet the xenobots",
+      "excerpt": "Scientists are using living materials to make machines that some would regard as alive… and now they’ve started to replicate",
       "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-04-students-machine-lesson-reveal-issues.html",
-      "originalUrl": "https://phys.org/news/2023-04-students-machine-lesson-reveal-issues.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-1.jpg",
-          "width": 1920,
-          "height": 875,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-04-students-machine-lesson-reveal-issues.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-students-machine-lesson-reveal-issues.amp",
-      "publishedDateTime": "2023-04-04T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-snorkel-ai-partners-with-microsoft-to-unlock-the-potential-of-enterprise-ai.md",
-      "title": "Snorkel AI Partners with Microsoft to Unlock the Potential of Enterprise AI",
-      "excerpt": "Press Release Snorkel AI, the data-centric AI platform company, announced it is integrating Microsoft Azure AI services to speed AI development for Azure customers. In addition, Snorkel AI has joined the Microsoft for Startups program.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/snorkel-ai-partners-with-microsoft-to-unlock-the-potential-of-enterprise-ai/",
-      "originalUrl": "https://venturebeat.com/business/snorkel-ai-partners-with-microsoft-to-unlock-the-potential-of-enterprise-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/snorkel-ai-partners-with-microsoft-to-unlock-the-potential-of-enterprise-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/snorkel-ai-partners-with-microsoft-to-unlock-the-potential-of-enterprise-ai/amp/",
-      "publishedDateTime": "2023-04-04T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-uni-of-the-sunshine-coast-sippy-downs-campus-is-australias-happiest.md",
-      "title": "Uni of the Sunshine Coast Sippy Downs campus is Australia’s happiest",
-      "excerpt": "The University of the Sunshine Coast’s Sippy Downs campus was named Australia’s happiest university by an artificial intelligence program that analysed students’ Instagram pictures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theaustralian.com.au/higher-education/uni-of-the-sunshine-coast-sippy-downs-campus-is-australias-happiest/news-story/87ed827f659b4cd4fdf27254517f323d",
-      "originalUrl": "https://www.theaustralian.com.au/higher-education/uni-of-the-sunshine-coast-sippy-downs-campus-is-australias-happiest/news-story/87ed827f659b4cd4fdf27254517f323d",
+      "webUrl": "https://www.sciencefocus.com/future-technology/ai-xenobots/",
+      "originalUrl": "https://www.sciencefocus.com/future-technology/ai-xenobots/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -282,319 +240,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T13:02:00-07:00",
+      "publishedDateTime": "2023-04-08T00:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Australian",
-        "domain": "theaustralian.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-the-7-most-promising-fintech-stocks-to-buy-for-april-2023.md",
-      "title": "The 7 Most Promising Fintech Stocks to Buy for April 2023",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As a hotbed for innovation, top fintech stocks to buy have disrupted",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-7-most-promising-fintech-stocks-to-buy-for-april-2023-1032214911",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-7-most-promising-fintech-stocks-to-buy-for-april-2023-1032214911",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T12:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-darya-trepova-what-clues-does-new-russian-bomb-footage-reveal.md",
-      "title": "Darya Trepova: What clues does new Russian bomb footage reveal?",
-      "excerpt": "New footage has emerged showing the moment a bomb exploded in a St Petersburg cafe, killing pro-war blogger Vladlen Tatarsky. The Russian authorities have charged 26-year-old Darya Trepova with terrorism.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-europe-65178332",
-      "originalUrl": "https://www.bbc.com/news/world-europe-65178332",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-eightfold-ai-announces-talent-intelligence-copilots-bringing-generative-ai-to-its-deep-learning-ai-platform.md",
-      "title": "Eightfold AI Announces Talent Intelligence Copilots, Bringing Generative AI to its Deep-Learning AI Platform",
-      "excerpt": "Since its founding, Eightfold AI has used deep-learning AI to understand a job seeker's skills, potential, ability to learn new skills and adapt to new situations, as well as facilitate the placement of those candidates in roles that help them fulfill their career potential.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/04/04/9788781.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/04/04/9788781.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T11:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-artificial-intelligence-enters-a-new-phase-of-corporate-dominance.md",
-      "title": "Artificial Intelligence Enters a New Phase of Corporate Dominance",
-      "excerpt": "Decisions about how to deploy this technology and how to balance risk and opportunity lie firmly in the hands of corporate players, as we’ve seen over the past years with AI tools, like ChatGPT, Bing,",
-      "sourceUrl": null,
-      "webUrl": "https://iblnews.org/artificial-intelligence-enters-a-new-phase-of-corporate-dominance/",
-      "originalUrl": "https://iblnews.org/artificial-intelligence-enters-a-new-phase-of-corporate-dominance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBL News",
-        "domain": "iblnews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-aws-launches-new-accelerator-program-for-generative-ai-startups.md",
-      "title": "AWS launches new accelerator program for generative AI startups",
-      "excerpt": "Applications for the AWS Generative AI Accelerator, as the program is called, opened today. Startups have until April 17 to apply. The program is geared toward startups that have a minimal viable product,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/04/04/aws-launches-new-accelerator-program-generative-ai-startups/",
-      "originalUrl": "https://siliconangle.com/2023/04/04/aws-launches-new-accelerator-program-generative-ai-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/46600198075_8477bdd292_k-1.jpg",
-          "width": 2048,
-          "height": 1366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T10:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-the-ai-revolution-using-artificial-intelligence-to-unlock-massive-time-savings.md",
-      "title": "The AI Revolution: Using Artificial Intelligence to Unlock Massive Time Savings",
-      "excerpt": "ChatGPT, voice search, generative language, predictive and targeted content—it’s no question these technologies are a dominant part of the digital advertising conversation today. AI’s significant impact on the industry promises to continue to make roles more efficient and effective by handing users the keys to unlock massive time savings and valuable insights at the click",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/sponsor/fluency/the-ai-revolution-using-artificial-intelligence-to-unlock-massive-time-savings/",
-      "originalUrl": "https://techcrunch.com/sponsor/fluency/the-ai-revolution-using-artificial-intelligence-to-unlock-massive-time-savings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T10:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-from-plant-microclimates-to-deep-learning-for-weeds-farming-tech-feeds-a-rising-population.md",
-      "title": "From Plant Microclimates to Deep Learning for Weeds, Farming Tech Feeds a Rising Population",
-      "excerpt": "The world population is expected to reach nearly 10 billion people by 2050, and farmers are on the front lines of feeding them. This population change will call for a 50% rise in the demand for food,",
-      "sourceUrl": null,
-      "webUrl": "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21263265/from-plant-microclimates-to-deep-learning-for-weeds-farming-tech-feeds-a-rising-population",
-      "originalUrl": "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21263265/from-plant-microclimates-to-deep-learning-for-weeds-farming-tech-feeds-a-rising-population",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IndustryWeek",
-        "domain": "industryweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-mind-control-3d-patterned-sensors-allow-robots-to-be-controlled-by-thought.md",
-      "title": "Mind control: 3D-patterned sensors allow robots to be controlled by thought",
-      "excerpt": "The technology has tremendous potential in areas such as defense, sophisticated manufacturing, aerospace, and healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/science/mind-control-3d-patterned-sensors",
-      "originalUrl": "https://interestingengineering.com/science/mind-control-3d-patterned-sensors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
+        "name": "BBC Focus",
+        "domain": "sciencefocus.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -609,12 +259,12 @@
       ]
     },
     {
-      "path": "_news/2023-04-04-axl-edtech-launches-ai-language-and-marketing-innovations.md",
-      "title": "AXL EdTech Launches AI Language and Marketing Innovations",
-      "excerpt": "making it a hyper-realistic AI translator. Merlin can adapt to any language and translate it to the language selected by the user, and will soon be able to automatically translate all lessons ...",
+      "path": "_news/2023-04-08-thornbury-business-the-mower-doctor-launches-line-of-robotic-mowers.md",
+      "title": "Thornbury business The Mower Doctor launches line of robotic mowers",
+      "excerpt": "Take the strain out of the perfect lawn with latest robotic mowers from a Thornbury business. The Mower Doctor near Thornbury is your local garden and estate machinery experts. With a wide range of lawnmowers,",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/accesswire/747566msn/axl-edtech-launches-ai-language-and-marketing-innovations",
-      "originalUrl": "https://www.morningstar.com/news/accesswire/747566msn/axl-edtech-launches-ai-language-and-marketing-innovations",
+      "webUrl": "https://www.gazetteseries.co.uk/news/23440382.thornbury-business-mower-doctor-launches-line-robotic-mowers/",
+      "originalUrl": "https://www.gazetteseries.co.uk/news/23440382.thornbury-business-mower-doctor-launches-line-robotic-mowers/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -624,11 +274,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T09:46:00-07:00",
+      "publishedDateTime": "2023-04-07T22:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
+        "name": "Gazette Series",
+        "domain": "gazetteseries.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -638,27 +288,26 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
-      "path": "_news/2023-04-04-new-software-developed-to-assess-true-level-of-knowledge-of-artificial-intelligence-systems.md",
-      "title": "New Software Developed to Assess True Level of Knowledge of Artificial Intelligence Systems",
-      "excerpt": "A team of researchers from the University of Surrey has developed a new software that can assess the true level of knowledge possessed by artificial",
+      "path": "_news/2023-04-08-opinion-artificial-intelligence-should-be-embraced-not-feared.md",
+      "title": "Opinion: Artificial intelligence should be embraced, not feared",
+      "excerpt": "We are witness to the next “iPhone moment ,” and it should be embraced, not feared. There are valid reasons for the pessimism that Elon Musk and others outline in a recent open letter, where he and other tech leaders urged a pause of AI development for six months.",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105942815/New-Software-Developed-to-Assess-True-Level-of-Knowledge-of-Artificial-Intelligence-Systems",
-      "originalUrl": "https://menafn.com/1105942815/New-Software-Developed-to-Assess-True-Level-of-Knowledge-of-Artificial-Intelligence-Systems",
+      "webUrl": "https://www.chron.com/opinion/article/opinion-artificial-intelligence-should-be-17882702.php",
+      "originalUrl": "https://www.chron.com/opinion/article/opinion-artificial-intelligence-should-be-17882702.php",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_117.jpg",
-          "width": 4896,
-          "height": 3264,
+          "url": "https://s.hdnux.com/photos/01/32/16/63/23653586/3/rawImage.jpg",
+          "width": 2000,
+          "height": 1333,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -668,7 +317,352 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T09:02:00-07:00",
+      "publishedDateTime": "2023-04-07T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-04-08-new-deep-learning-based-model-estimates-breast-density-with-high-precision.md",
+      "title": "New deep learning-based model estimates breast density with high precision",
+      "excerpt": "Breast cancer is the most common cancer to affect women worldwide. According to the American Cancer Society, about 1 in 8 women in the United States will develop breast cancer in their lifetime.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20230407/New-deep-learning-based-model-estimates-breast-density-with-high-precision.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20230407/New-deep-learning-based-model-estimates-breast-density-with-high-precision.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T19:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-08-the-worlds-first-self-driving-public-bus-fleet-is-rolling-out-in-scotland.md",
+      "title": "The world’s first self-driving public bus fleet is rolling out in Scotland",
+      "excerpt": "On May 15, Stagecoach’s self-driving vehicles will begin operations along a 14-mile route that includes Edinburgh’s historic Forth Road suspension bridge. According to the BBC, a total of five ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/self-driving-public-bus-fleet-scotland/",
+      "originalUrl": "https://www.popsci.com/technology/self-driving-public-bus-fleet-scotland/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2023/04/05/CAVForth-Autonomous-Bus-High-Res-4.jpg?auto=webp",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/technology/self-driving-public-bus-fleet-scotland/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/self-driving-public-bus-fleet-scotland/?amp",
+      "publishedDateTime": "2023-04-07T18:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-08-was-the-self-driving-car-invented-in-the-1980s.md",
+      "title": "Was The Self Driving Car Invented In The 1980s?",
+      "excerpt": "The news is full of self-driving cars and while there is some bad news, most of it is pretty positive. It seems a foregone conclusion that it is just a matter of time before calling for an Uber ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2018/07/25/was-the-self-driving-car-invented-in-the-1980s/",
+      "originalUrl": "https://hackaday.com/2018/07/25/was-the-self-driving-car-invented-in-the-1980s/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/07/car.png",
+          "width": 800,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-08-pro-take-ai-boom-will-test-readiness-of-ibm-and-its-customers.md",
+      "title": "Pro Take: AI Boom Will Test Readiness of IBM, and Its Customers",
+      "excerpt": "CEO Arvind Krishna says IBM is taking a more realistic approach to artificial intelligence these days, and customers are more prepared to use the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/pro-take-ai-boom-will-test-readiness-of-ibm-and-its-customers-96f878c8",
+      "originalUrl": "https://www.wsj.com/articles/pro-take-ai-boom-will-test-readiness-of-ibm-and-its-customers-96f878c8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-756626/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T16:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-08-how-to-unlock-your-phone-with-facial-recognition-even-when-you-have-your-glasses-on.md",
+      "title": "How to unlock your phone with facial recognition even when you have your glasses on",
+      "excerpt": "Face ID utilizes facial recognition technology to scan your face and verify your identity. When activated, the feature uses the front-facing camera, or selfie cam, to securely authenticate you are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/how-unlock-your-phone-facial-recognition-you-have-your-glasses-on",
+      "originalUrl": "https://www.foxnews.com/tech/how-unlock-your-phone-facial-recognition-you-have-your-glasses-on",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e1606f4-9dc7-4a77-a1f7-d0820d9415aa/bed61823-673c-4543-b5d7-0629195fdbbe/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/how-unlock-your-phone-facial-recognition-you-have-your-glasses-on.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-unlock-your-phone-facial-recognition-you-have-your-glasses-on.amp",
+      "publishedDateTime": "2023-04-07T15:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-08-embracing-ai-enabled-robotic-technology-for-productivity-and-convenience.md",
+      "title": "Embracing A.I.-Enabled Robotic Technology for Productivity and Convenience",
+      "excerpt": "As A.I.-enabled robotic technology becomes increasingly integrated into our everyday lives, remote workers and small-business owners can benefit from innovative solutions that simplify their lives and optimize productivity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.inc.com/heather-wilde/embracing-ai-enabled-robotic-technology-for-productivity-convenience.html",
+      "originalUrl": "https://www.inc.com/heather-wilde/embracing-ai-enabled-robotic-technology-for-productivity-convenience.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inc",
+        "domain": "inc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-08-qualcomm-nvidia-spar-for-top-spot-in-ai-chip-efficiency-tests.md",
+      "title": "Qualcomm, Nvidia spar for top spot in AI chip efficiency tests",
+      "excerpt": "Analysts believe that the market for data center inference chips will grow quickly as businesses put AI technologies into their products, but companies such as Alphabet Inc's (GOOGL.O) Google are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/qualcomm-nvidia-spar-top-spot-ai-chip-efficiency-tests-2023-04-05/",
+      "originalUrl": "https://www.reuters.com/technology/qualcomm-nvidia-spar-top-spot-ai-chip-efficiency-tests-2023-04-05/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/nw8NV9fGtMpdO-apNxB9b8XrnMo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YFEMUBDHVROMXP4EK3GFP7CKPQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-08-cobalt-speech-and-language-extending-limited-time-application-for-a-free-trial-speech-recognition-technology.md",
+      "title": "Cobalt Speech And Language Extending Limited-Time Application For A Free Trial Speech Recognition Technology",
+      "excerpt": "Cobalt Speech and Language extending limited time free-trial offer. TYNGSBORO, MASSACHUSETTS, UNITED STATES, April 7, 2023/einpresswire.co",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105963203/Cobalt-Speech-And-Language-Extending-Limited-Time-Application-For-A-Free-Trial-Speech-Recognition-Technology",
+      "originalUrl": "https://menafn.com/1105963203/Cobalt-Speech-And-Language-Extending-Limited-Time-Application-For-A-Free-Trial-Speech-Recognition-Technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T12:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Mena FN",
@@ -682,17 +676,17 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-04-04-snorkel-ai-partners-with-microsoft-to-unlock-the-potential-of-enterprise-ai.md",
-      "title": "Snorkel AI Partners with Microsoft to Unlock the Potential of Enterprise AI",
-      "excerpt": "Snorkel AI announced today it is integrating Microsoft Azure AI services to speed AI development for Azure customers. In",
+      "path": "_news/2023-04-08-introducing-the-neo-ai-a-pet-robot-of-openai-is-going-to-revolutionize-the-defi-space.md",
+      "title": "Introducing the NEO AI - A Pet Robot of OpenAI is Going to Revolutionize the DeFi Space.",
+      "excerpt": "In the latest development, NEO AI emerges as the pet robot of Open AI, revolutionizing the DeFi space. The platform aims to revolutionize the field of AI solutions and create a lasting impact on the DeFi ecosystem.",
       "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/snorkel-ai-partners-with-microsoft-to-unlock-the-potential-of-enterprise-ai/",
-      "originalUrl": "https://www.datanami.com/this-just-in/snorkel-ai-partners-with-microsoft-to-unlock-the-potential-of-enterprise-ai/",
+      "webUrl": "https://technews.tmcnet.com/news/2023/04/07/9790968.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/04/07/9790968.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -702,133 +696,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T08:24:00-07:00",
+      "publishedDateTime": "2023-04-07T12:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-04-trend-innovations-holding-tren-acquires-two-technologies-in-multi-billion-dollar-ai-machine-learning-digital-artwork-markets.md",
-      "title": "Trend Innovations Holding (TREN) Acquires Two Technologies in Multi-Billion Dollar-AI Machine Learning & Digital Artwork Markets",
-      "excerpt": "The global natural language processing (NLP) market is projected to reach $74.3 Billion by 2028, exhibiting a CAGR of 26.54% during 2022-2028. InstantFAME™ Is an APP in the Digital Artwork Marketplace – U.S. digital online art industry in the United States is projected to reach nearly $6.5 billion USD dollars in 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://wallstreetrebel.com/wsr/articles/trend_innovations_holding_tren_acquires_two_technologies_in_multi-billion_dollar/2023-04-04-10-46-34.html",
-      "originalUrl": "https://wallstreetrebel.com/wsr/articles/trend_innovations_holding_tren_acquires_two_technologies_in_multi-billion_dollar/2023-04-04-10-46-34.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "https//wallstreetrebel.com",
-        "domain": "wallstreetrebel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-04-aws-launches-global-generative-ai-accelerator-for-startups.md",
-      "title": "AWS launches global generative AI accelerator for startups",
-      "excerpt": "Today, Amazon Web Services (AWS) launched a 10-week program, which it said is designed to assist artificial intelligence (AI) startups to move to the next level. The AWS Generative AI Accelerator, the company says, “is designed to act as catalyst ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/aws-launches-global-generative-ai-accelerator-for-startups/124637",
-      "originalUrl": "https://www.itbusiness.ca/news/aws-launches-global-generative-ai-accelerator-for-startups/124637",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2018/12/GettyImages-905587820-1-e1544476257109.jpg",
-          "width": 620,
-          "height": 249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/aws-launches-global-generative-ai-accelerator-for-startups/124637?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/aws-launches-global-generative-ai-accelerator-for-startups/124637?amp=1",
-      "publishedDateTime": "2023-04-04T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-04-university-of-lincoln-robot-seal-used-to-help-vulnerable-people.md",
-      "title": "University of Lincoln 'robot' seal used to help vulnerable people",
-      "excerpt": "Health and social care students at the University of Lincoln are learning to operate a robotic seal to help prepare them to use the technology in their work with patients. It is hoped the £6,000 \"social robot\" can provide an alternative form of communication for those who may be uncomfortable interacting with other people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/av/uk-england-lincolnshire-65178888",
-      "originalUrl": "https://www.bbc.com/news/av/uk-england-lincolnshire-65178888",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T06:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -842,12 +715,12 @@
       ]
     },
     {
-      "path": "_news/2023-04-04-inside-the-large-language-model-revolution-with-nikola-nikolov.md",
-      "title": "Inside the Large Language Model Revolution with Nikola Nikolov",
-      "excerpt": "Join over 15,500 subscribers and get the latest language industry intelligence every Friday Tool Box: Join 10,000 subscribers for your monthly linguist technology update. In this week’s SlatorPod, we are joined by Nikola Nikolov,",
+      "path": "_news/2023-04-07-scientists-achieve-optimal-interdomain-data-transfer-using-neural-networks.md",
+      "title": "Scientists achieve optimal interdomain data transfer using neural networks",
+      "excerpt": "Researchers from Skoltech and the Artificial Intelligence Research Institute (AIRI) have developed a new algorithm for optimal data transfer between domains using neural networks. Unlike most similar techniques,",
       "sourceUrl": null,
-      "webUrl": "https://slator.com/inside-the-large-language-model-revolution-nikola-nikolov/",
-      "originalUrl": "https://slator.com/inside-the-large-language-model-revolution-nikola-nikolov/",
+      "webUrl": "https://techxplore.com/news/2023-04-scientists-optimal-interdomain-neural-networks.html",
+      "originalUrl": "https://techxplore.com/news/2023-04-scientists-optimal-interdomain-neural-networks.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -857,11 +730,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T06:34:00-07:00",
+      "publishedDateTime": "2023-04-07T08:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
+        "name": "techxplore",
+        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -871,43 +744,34 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-04-04-why-halt-ai-research-when-we-already-know-how-to-make-it-safer.md",
-      "title": "Why Halt AI Research When We Already Know How To Make It Safer",
-      "excerpt": "This path is eminently clear: Instead of halting research, we need to improve transparency and accountability while developing guidelines around the deployment of AI systems. Policy, research ...",
+      "path": "_news/2023-04-07-why-ai-might-not-take-your-job-or-supercharge-the-economy.md",
+      "title": "Why A.I. Might Not Take Your Job or Supercharge the Economy",
+      "excerpt": "We also discuss my mixed feelings about the calls to “pause” A.I. development, why I’m less worried about rogue A.I. systems than the incentives of the companies and countries developing A.I., the need for a “public vision” for A.",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/the-call-to-halt-dangerous-ai-research-ignores-a-simple-truth/",
-      "originalUrl": "https://www.wired.com/story/the-call-to-halt-dangerous-ai-research-ignores-a-simple-truth/",
+      "webUrl": "https://www.nytimes.com/2023/04/07/opinion/ezra-klein-podcast-ama-april2023.html",
+      "originalUrl": "https://www.nytimes.com/2023/04/07/opinion/ezra-klein-podcast-ama-april2023.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/642b528c9a4669561fee612f/191:100/w_1280,c_limit/ideas_ai_tech_research_regulation.jpg",
-          "width": 1232,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/the-call-to-halt-dangerous-ai-research-ignores-a-simple-truth/",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/the-call-to-halt-dangerous-ai-research-ignores-a-simple-truth/",
-      "publishedDateTime": "2023-04-04T06:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T08:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
+        "name": "The New York Times",
+        "domain": "nytimes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -923,17 +787,155 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-04-04-baidu-major-potential-for-chinas-tech-titan.md",
-      "title": "Baidu: Major Potential For China's Tech Titan",
-      "excerpt": "self-driving, AI research, and advertising. BIDU holds an effective government-enforced monopoly for search. As China's premiere face of technological innovation, Baidu benefits from policies ...",
+      "path": "_news/2023-04-07-the-worlds-first-self-driving-bus-fleet-will-soon-hit-scotlands-streets.md",
+      "title": "The world’s first self-driving bus fleet will soon hit Scotland’s streets",
+      "excerpt": "The UK government said the project, named CAVForth, would be the world’s first full-size, self-driving public bus service. CAV stands for “connected and autonomous vehicles.”",
       "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4592065-baidu-stock-major-potential-chinas-tech-titan-buy",
-      "originalUrl": "https://seekingalpha.com/article/4592065-baidu-stock-major-potential-chinas-tech-titan-buy",
+      "webUrl": "https://thenextweb.com/news/the-worlds-first-self-driving-bus-fleet-will-soon-hit-scotlands-streets",
+      "originalUrl": "https://thenextweb.com/news/the-worlds-first-self-driving-bus-fleet-will-soon-hit-scotlands-streets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F04%2Fself-driving-scotland-bus-autonomous.jpg&signature=848ecfdba9f8101314effb674005c47e",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-07-machine-learning-may-play-a-role-in-building-energy-models.md",
+      "title": "Machine learning may play a role in building energy models",
+      "excerpt": "More than 40% of all U.S. energy use and greenhouse gas emissions are associated with the building sector. A study from Florida Tech researchers is exploring whether machine learning can help reduce this environmental impact.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-04-machine-play-role-energy.html",
+      "originalUrl": "https://techxplore.com/news/2023-04-machine-play-role-energy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/machine-learning-may-p.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-04-machine-play-role-energy.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-machine-play-role-energy.amp",
+      "publishedDateTime": "2023-04-07T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-07-webgpu-is-coming-to-supercharge-chrome-for-3d-gaming-and-3x-faster-ai-performance.md",
+      "title": "WebGPU Is Coming To Supercharge Chrome For 3D Gaming And 3X Faster AI Performance",
+      "excerpt": "Google is currently testing a Chrome browser API that promises to open up 'a new dawn for web graphics' as well as give AI a serious kick in the pants.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/webgpu-supercharge-chrome-3d-gaming-3x-faster-ai",
+      "originalUrl": "https://hothardware.com/news/webgpu-supercharge-chrome-3d-gaming-3x-faster-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/61345/content/Chrome_Logos_Hero.jpg",
+          "width": 708,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/webgpu-supercharge-chrome-3d-gaming-3x-faster-ai",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/webgpu-supercharge-chrome-3d-gaming-3x-faster-ai",
+      "publishedDateTime": "2023-04-07T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-07-pov-why-ethics-education-and-empathy-are-key-to-our-ai-future.md",
+      "title": "POV: Why ethics, education, and empathy are key to our AI future",
+      "excerpt": "As apps like ChatGPT continue to rise in popularity and accessibility, concerns about AI across all sectors of society are also continuing to mount.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/90877468/pov-why-ethics-education-and-empathy-are-key-to-our-ai-future",
+      "originalUrl": "https://www.fastcompany.com/90877468/pov-why-ethics-education-and-empathy-are-key-to-our-ai-future",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -943,12 +945,65 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T05:31:00-07:00",
+      "publishedDateTime": "2023-04-07T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-04-07-is-elon-musk-at-odds-with-cathie-wood-over-this-artificial-intelligence-issue.md",
+      "title": "Is Elon Musk At Odds With Cathie Wood Over This Artificial Intelligence Issue?",
+      "excerpt": "Artificial intelligence is incredibly exciting ... any human input because they'll be powered by fully autonomous self-driving software -- which, of course, relies on AI. If Tesla stock does ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/04/07/is-elon-musk-cathie-wood-artificial-intelligence/",
+      "originalUrl": "https://www.fool.com/investing/2023/04/07/is-elon-musk-cathie-wood-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/727201/an-artificial-intelligence-deep-learning-concept-overlaid-on-a-persons-side-profile.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -2,54 +2,21 @@
   "page": 81,
   "value": [
     {
-      "path": "_news/2023-02-06-breaking-news-competegg-reveals-artificial-intelligence-roadmap-and-2023-growth-initiatives.md",
-      "title": "Breaking News: Compete.gg reveals artificial intelligence roadmap and 2023 growth initiatives",
-      "excerpt": "Since rebranding our Compete.gg platform last Spring, we have increased the number of game titles and enhanced the platform functionalities, allowing us to more than double the number of users,” said Leigh Hughes,",
+      "path": "_news/2023-02-07-how-ibms-new-supercomputer-is-making-ai-foundation-models-more-enterprise-budget-friendly.md",
+      "title": "How IBM’s new supercomputer is making AI foundation models more enterprise-budget friendly",
+      "excerpt": "IBM has built out a cloud-native AI supercomputer from affordable, commodity hardware for foundation model–training R&D initiatives.",
       "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/breaking-news-compete-gg-reveals-artificial-intelligence-roadmap-and-2023-growth-initiatives/",
-      "originalUrl": "https://www.financialbuzz.com/breaking-news-compete-gg-reveals-artificial-intelligence-roadmap-and-2023-growth-initiatives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T06:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-google-chrome-browser-gets-nvidia-rtx-gpu-tech-that-could-revolutionize-netflix-viewing.md",
-      "title": "Google Chrome browser gets Nvidia RTX GPU tech that could revolutionize Netflix viewing",
-      "excerpt": "Like DLSS, RTX Video Super Resolution (VSR) uses AI to upscale the footage and can ... Those with an RTX 2000 family GPU aren’t able to benefit – at least not initially (we’ll come back ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/google-chrome-browser-gets-nvidia-rtx-gpu-tech-that-could-revolutionize-netflix-viewing",
-      "originalUrl": "https://www.techradar.com/news/google-chrome-browser-gets-nvidia-rtx-gpu-tech-that-could-revolutionize-netflix-viewing",
+      "webUrl": "https://venturebeat.com/ai/how-ibms-new-supercomputer-is-making-ai-foundation-models-more-enterprise-budget-friendly/",
+      "originalUrl": "https://venturebeat.com/ai/how-ibms-new-supercomputer-is-making-ai-foundation-models-more-enterprise-budget-friendly/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/Bb49HmrSaaKB2AstTQAioW-1200-80.jpg",
+          "url": "https://venturebeat.com/wp-content/uploads/2023/02/VB_IBM_Vela_AI_supercomputer_020623-e1675730861899.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 675,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -57,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T06:01:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/ai/how-ibms-new-supercomputer-is-making-ai-foundation-models-more-enterprise-budget-friendly/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ibms-new-supercomputer-is-making-ai-foundation-models-more-enterprise-budget-friendly/amp/",
+      "publishedDateTime": "2023-02-07T03:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -82,17 +49,17 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI"
+        "AI",
+        "IBM AI"
       ]
     },
     {
-      "path": "_news/2023-02-06-nlp-leader-humaai-launches-industrys-first-generative-ai-platform-for-life-sciences.md",
-      "title": "NLP Leader Huma.AI Launches Industry's First Generative AI Platform for Life Sciences",
-      "excerpt": "Enterprise Generative AI Focused on Life Sciences to Bring Life-Saving Drugs to Market Faster PALO ALTO, Calif. (PRWEB) 06, 2023 Huma.AI, a leading healthcare AI company, announced today the launch of",
+      "path": "_news/2023-02-07-how-scientists-are-using-ai-to-talk-to-animals.md",
+      "title": "How Scientists Are Using AI to Talk to Animals",
+      "excerpt": "Portable sensors and artificial intelligence are helping researchers decode animal communication—and begin to talk back to nonhumans",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/p30731429/nlp-leader-huma-ai-launches-industrys-first-generative-ai-platform-for-life-sciences",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/p30731429/nlp-leader-huma-ai-launches-industrys-first-generative-ai-platform-for-life-sciences",
+      "webUrl": "https://www.scientificamerican.com/article/how-scientists-are-using-ai-to-talk-to-animals/",
+      "originalUrl": "https://www.scientificamerican.com/article/how-scientists-are-using-ai-to-talk-to-animals/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -100,13 +67,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30731429",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30731429",
-      "publishedDateTime": "2023-02-06T06:00:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T03:57:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Scientific American",
+        "domain": "scientificamerican.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -121,12 +88,12 @@
       ]
     },
     {
-      "path": "_news/2023-02-06-chinas-tianjin-to-hold-7th-world-intelligence-congress-in-may.md",
-      "title": "China's Tianjin to hold 7th World Intelligence Congress in May",
-      "excerpt": "A visitor interacts with a robot at the 6th World Intelligence Congress held in Tianjin, June 24, 2022. [Photo/Xinhua] TIANJIN - North China's Tianjin municipality is scheduled to hold the seventh World Intelligence Congress,",
+      "path": "_news/2023-02-07-francisconomics-reflections-on-pope-francis-hands-off-africa-speech-in-the-democratic-republic-of-congo.md",
+      "title": "FRANCISCONOMICS: Reflections on Pope Francis’ ‘Hands Off Africa’ Speech in the Democratic Republic of Congo",
+      "excerpt": "To this end, I am sure there will be no shortages of events and reflections focusing on the United States and the African Diaspora. But since black history begins with Africa and BHM is also an opportunity to reconnect with and increase our understanding of the mother land and “the Cradle of Humanity,",
       "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202302/06/WS63e0fa40a31057c47ebad36a.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202302/06/WS63e0fa40a31057c47ebad36a.html",
+      "webUrl": "https://afro.com/francisconomics-reflections-on-pope-francis-hands-off-africa-speech-in-the-democratic-republic-of-congo/",
+      "originalUrl": "https://afro.com/francisconomics-reflections-on-pope-francis-hands-off-africa-speech-in-the-democratic-republic-of-congo/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -136,12 +103,89 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T05:55:00-08:00",
+      "publishedDateTime": "2023-02-07T03:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
+        "name": "Afro",
+        "domain": "afro.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-chrome-and-edge-browsers-to-get-nvidia-rtx-ai-video-upscaling.md",
+      "title": "Chrome and Edge Browsers to Get Nvidia RTX AI Video Upscaling",
+      "excerpt": "RTX Video Super Resolution works by taking any low-resolution video viewed in a browser and upscaling it to 4K. This should theoretically allow you to watch a 1080p video on a high-resolution monitor without it looking like garbage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.extremetech.com/computing/342885-chrome-and-edge-browsers-to-get-nvidia-rtx-ai-video-upscaling",
+      "originalUrl": "https://www.extremetech.com/computing/342885-chrome-and-edge-browsers-to-get-nvidia-rtx-ai-video-upscaling",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T03:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ExtremeTech",
+        "domain": "extremetech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-the-robots-coming-for-our-jobs-will-also-help-fire-us.md",
+      "title": "The Robots Coming for Our Jobs Will Also Help Fire Us",
+      "excerpt": "Artificial intelligence has infiltrated decision-making on hiring, training and evaluations. Now it’s creeping into the layoff process as well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-02-07/robots-coming-for-our-jobs-will-also-help-fire-us",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-02-07/robots-coming-for-our-jobs-will-also-help-fire-us",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -155,79 +199,12 @@
       ]
     },
     {
-      "path": "_news/2023-02-06-machine-learning-model-predicts-physician-departure-with-ehr-use-metrics.md",
-      "title": "Machine Learning Model Predicts Physician Departure With EHR Use Metrics",
-      "excerpt": "The machine learning model found that physician demographics, EHR use metrics, and patient panel characteristics contributed most to the risk of physician departure.",
+      "path": "_news/2023-02-07-microsoft-ai-event-live-blog-all-the-announcements-as-they-happen.md",
+      "title": "Microsoft AI Event LIVE Blog: All the announcements as they happen",
+      "excerpt": "MS built new balances, and are able to scale unlike anyone else. \"We're committed to learning with you.\" Sarah Bird, Responsible AI Lead, Azure, is now on stage. \"We have been preparing for this moment for many years.\" \"Since 2017, we have been investing ...",
       "sourceUrl": null,
-      "webUrl": "https://ehrintelligence.com/news/machine-learning-model-predicts-physician-departure-with-ehr-use-metrics",
-      "originalUrl": "https://ehrintelligence.com/news/machine-learning-model-predicts-physician-departure-with-ehr-use-metrics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ehrintelligence.com/news/amp/machine-learning-model-predicts-physician-departure-with-ehr-use-metrics",
-      "cdnAmpWebUrl": "https://ehrintelligence-com.cdn.ampproject.org/c/s/ehrintelligence.com/news/amp/machine-learning-model-predicts-physician-departure-with-ehr-use-metrics",
-      "publishedDateTime": "2023-02-06T05:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EHR Intelligence",
-        "domain": "ehrintelligence.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-the-download-trapped-by-grief-algorithms-and-image-ai-privacy-issues.md",
-      "title": "The Download: trapped by grief algorithms, and image AI privacy issues",
-      "excerpt": "I started Googling the stages of grief, and books and academic research about loss, from the app on my iPhone, intentionally and unintentionally consuming people’s experiences of grief and tragedy through Instagram videos,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/02/06/1067817/download-trapped-grief-algorithms-image-ai-privacy-issues/",
-      "originalUrl": "https://www.technologyreview.com/2023/02/06/1067817/download-trapped-grief-algorithms-image-ai-privacy-issues/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/02/06/1067817/download-trapped-grief-algorithms-image-ai-privacy-issues/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/02/06/1067817/download-trapped-grief-algorithms-image-ai-privacy-issues/amp/",
-      "publishedDateTime": "2023-02-06T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-law-firms-developing-gpt-35-tools-for-now-they-may-be-few-and-far-between.md",
-      "title": "Law Firms Developing GPT-3.5 Tools? For Now, They May Be Few and Far Between",
-      "excerpt": "While legal tech providers are steadily releasing tools leveraging GPT-3.5, even innovative law firms who regularly develop legal tech may have a challenging time following suit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/legaltechnews/2023/02/06/law-firms-developing-gpt-3-5-tools-for-now-they-may-be-few-and-far-between/",
-      "originalUrl": "https://www.law.com/legaltechnews/2023/02/06/law-firms-developing-gpt-3-5-tools-for-now-they-may-be-few-and-far-between/",
+      "webUrl": "https://www.windowscentral.com/news/live/microsoft-special-event-live-blog-windows-bing-ai-2023",
+      "originalUrl": "https://www.windowscentral.com/news/live/microsoft-special-event-live-blog-windows-bing-ai-2023",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -237,11 +214,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T05:02:00-08:00",
+      "publishedDateTime": "2023-02-07T03:19:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Law",
-        "domain": "law.com",
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -256,12 +233,12 @@
       ]
     },
     {
-      "path": "_news/2023-02-06-noozai-launches-web-based-version-of-its-app-with-enhanced-features.md",
-      "title": "NOOZ.ai Launches Web-Based Version of Its App With Enhanced Features",
-      "excerpt": "NT CONNECT, an international tech developer, today announces the launch of their app, NOOZ.ai, in a web-based format. The app's web version will be readily available through",
+      "path": "_news/2023-02-07-askvet-launches-vera-the-worlds-first-answer-engine-for-animal-health-based-on-chatgpt.md",
+      "title": "AskVet™ Launches VERA, the World's First \"Answer Engine for Animal Health\" Based on ChatGPT",
+      "excerpt": "VERA is powered by AI, ChatGPT and AskVet's vast database of over 1.5 million digitized conversations between veterinarians and pet parents. In addition, VERA has been educated using expert articles,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/g30729491/nooz-ai-launches-web-based-version-of-its-app-with-enhanced-features",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/g30729491/nooz-ai-launches-web-based-version-of-its-app-with-enhanced-features",
+      "webUrl": "https://technews.tmcnet.com/news/2023/02/07/9755839.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/02/07/9755839.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -271,11 +248,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T05:00:00-08:00",
+      "publishedDateTime": "2023-02-07T03:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -290,12 +267,12 @@
       ]
     },
     {
-      "path": "_news/2023-02-06-search-wars-reignited-by-artificial-intelligence-breakthroughs.md",
-      "title": "Search wars reignited by artificial intelligence breakthroughs",
-      "excerpt": "Google, Microsoft and some start-ups plan to embed AI into their services in ways that may transform the market",
+      "path": "_news/2023-02-07-baidu-adrs-jump-on-plan-for-ai-chatbot.md",
+      "title": "Baidu ADRs Jump on Plan for AI Chatbot",
+      "excerpt": "By Dean Seal Baidu Inc.'s American depositary receipts were up 14.3% at $163.26 in premarket trading after the company said it plans to launch a",
       "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/b236b70d-82dc-40f8-84be-dc4daff151e4?shareType=nongift",
-      "originalUrl": "https://www.ft.com/content/b236b70d-82dc-40f8-84be-dc4daff151e4?shareType=nongift",
+      "webUrl": "https://www.marketwatch.com/story/baidu-adrs-jump-on-plan-for-ai-chatbot-271675771322",
+      "originalUrl": "https://www.marketwatch.com/story/baidu-adrs-jump-on-plan-for-ai-chatbot-271675771322",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -305,12 +282,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T05:00:00-08:00",
+      "publishedDateTime": "2023-02-07T03:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -319,50 +305,17 @@
         "news"
       ],
       "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-06-ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation.md",
-      "title": "AI startup Cohere in talks to raise funding at $6 billion plus valuation",
-      "excerpt": "Toronto-based Cohere, established by former researchers at Alphabet in 2019, has quickly risen through the AI startup ranks given their intensive research background and close ties to Google, investors said.",
+      "path": "_news/2023-02-07-how-companies-can-apply-robotics-to-their-work.md",
+      "title": "How Companies Can Apply Robotics To Their Work",
+      "excerpt": "It is exciting to think about the growth and innovation ahead in the robotics segment as it continues to mature and evolve.",
       "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation/articleshow/97653062.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation/articleshow/97653062.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation/amp_articleshow/97653062.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation/amp_articleshow/97653062.cms",
-      "publishedDateTime": "2023-02-06T04:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-q4-2022-cloud-results-amazon-microsoft-google-earnings-show-slowing-growth.md",
-      "title": "Q4 2022 cloud results: Amazon, Microsoft, & Google earnings show slowing growth",
-      "excerpt": "Amazon, Google, and Microsoft all posted double-digit growth in their cloud divisions, but at a lower rate than prior years of breakneck growth. In its fourth-quarter earnings report, Amazon Web Services (AWS) said that it brought in $21.",
-      "sourceUrl": null,
-      "webUrl": "https://www.datacenterdynamics.com/en/news/q4-2022-cloud-results-amazon-microsoft-google-earnings-show-slowing-growth/",
-      "originalUrl": "https://www.datacenterdynamics.com/en/news/q4-2022-cloud-results-amazon-microsoft-google-earnings-show-slowing-growth/",
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/02/07/how-companies-can-apply-robotics-to-their-work/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/02/07/how-companies-can-apply-robotics-to-their-work/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -372,12 +325,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T04:44:00-08:00",
+      "publishedDateTime": "2023-02-07T03:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -386,121 +348,17 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-uab-joins-eenterprise-fintech-blockchain-platform-uae-trade-connect.md",
-      "title": "UAB joins e&enterprise fintech blockchain platform UAE Trade Connect",
-      "excerpt": "UAB collaborates with the UAE Trade Connect platform to detect fraud and suspicious activities in the trade financing space",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/uab-joins-e-and-enterprise-fintech-blockchain-platform-uae-trade-connect-cuz6iguc",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/uab-joins-e-and-enterprise-fintech-blockchain-platform-uae-trade-connect-cuz6iguc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/uab-joins-e-and-enterprise-fintech-blockchain-platform-uae-trade-connect-cuz6iguc?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/uab-joins-e-and-enterprise-fintech-blockchain-platform-uae-trade-connect-cuz6iguc?amp=1",
-      "publishedDateTime": "2023-02-06T04:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-06-goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches.md",
-      "title": "Goa Using Self-Driving, AI-Powered Robots As Lifeguards On Beaches",
-      "excerpt": "In a first-of-its-kind innovation, Drishti Marine, Goa's state-appointed lifeguard organisation, has introduced artificial intelligence (AI) in the form of Aurus, a self-driving robot and Triton,",
+      "path": "_news/2023-02-07-top-five-opportunities-and-challenges-of-ai-in-healthcare.md",
+      "title": "Top Five Opportunities And Challenges Of AI In Healthcare",
+      "excerpt": "That all said, AI has now leapt into popular and mainstream culture and how we look at innovation and our world going forward. And certainly, healthcare is one industry where this has been an ongoing discussion and raging debate.",
       "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/india-news/goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches-3757599",
-      "originalUrl": "https://www.ndtv.com/india-news/goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches-3757599",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/india-news/goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches-3757599/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches-3757599/amp/1",
-      "publishedDateTime": "2023-02-06T04:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-roc-and-mosip-partnership-to-bring-industry-leading-biometric-algorithms-to-digital-id-systems-worldwide.md",
-      "title": "ROC and MOSIP Partnership to Bring Industry-Leading Biometric Algorithms to Digital ID Systems Worldwide",
-      "excerpt": "Denver based technology company Rank One Computing (ROC) announced a partnership with the Modular Open Source Identity Platform (MOSIP) on January 17, 2023. The partnership will allow",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/n30727964/roc-and-mosip-partnership-to-bring-industry-leading-biometric-algorithms-to-digital-id-systems-wor",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/n30727964/roc-and-mosip-partnership-to-bring-industry-leading-biometric-algorithms-to-digital-id-systems-wor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30727964",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30727964",
-      "publishedDateTime": "2023-02-06T04:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-chatgpt-rival-google-invest-in-ai-start-up-as-arms-race-intensifies.md",
-      "title": "ChatGPT rival - Google invest in AI start-up as arms race intensifies",
-      "excerpt": "Google Cloud has invested US$300mln in AI company Anthropic following the popularisation of OpenAI’s ChatGPT, according to media reports. The deal will",
-      "sourceUrl": null,
-      "webUrl": "https://www.proactiveinvestors.co.uk/companies/news/1005300/chatgpt-rival-google-invest-in-ai-start-up-as-arms-race-intensifies-1005300.html",
-      "originalUrl": "https://www.proactiveinvestors.co.uk/companies/news/1005300/chatgpt-rival-google-invest-in-ai-start-up-as-arms-race-intensifies-1005300.html",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/02/07/top-five-opportunities-and-challenges-of-ai-in-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/02/07/top-five-opportunities-and-challenges-of-ai-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -510,40 +368,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T04:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Proactive Investors",
-        "domain": "proactiveinvestors.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-what-chatgpt-and-other-ai-tools-mean-for-the-future-of-healthcare.md",
-      "title": "What ChatGPT And Other AI Tools Mean For The Future Of Healthcare",
-      "excerpt": "In the near future, AI will play an even more significant role in medicine, assisting physicians with clinical and administrative tasks to improve the quality, affordability and accessibility of care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/06/what-chatgpt-and-other-ai-tools-mean-for-the-future-of-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/06/what-chatgpt-and-other-ai-tools-mean-for-the-future-of-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/06/what-chatgpt-and-other-ai-tools-mean-for-the-future-of-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/06/what-chatgpt-and-other-ai-tools-mean-for-the-future-of-healthcare/amp/",
-      "publishedDateTime": "2023-02-06T04:30:00-08:00",
+      "publishedDateTime": "2023-02-07T03:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -571,12 +396,12 @@
       ]
     },
     {
-      "path": "_news/2023-02-06-tellimer-expands-ai-bond-data-collaboration-with-7-chord.md",
-      "title": "Tellimer Expands AI Bond Data Collaboration With 7 Chord",
-      "excerpt": "As Tellimer aspires to be the single point of entry for all Emerging Markets data, analysis and research, Tellimer and 7 Chord will expand an agreement, reached in 2022, to publish 7 Chord's end-of-month Emerging Market bond pricing data on the Tellimer Insights platform.",
+      "path": "_news/2023-02-07-ai-crypto-tokens-fetch-singularity-rally-more-than-20-overnight.md",
+      "title": "AI Crypto Tokens Fetch, Singularity Rally More Than 20% Overnight",
+      "excerpt": "As the artificial intelligence narrative grows louder, several AI-adjacent cryptocurrencies have enjoyed hefty rallies.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-tellimer-expands-ai-bond-data-collaboration-with-7-/2023/02/06/9755121.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-tellimer-expands-ai-bond-data-collaboration-with-7-/2023/02/06/9755121.htm",
+      "webUrl": "https://decrypt.co/120722/ai-crypto-tokens-fetch-singularity-rally-day",
+      "originalUrl": "https://decrypt.co/120722/ai-crypto-tokens-fetch-singularity-rally-day",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -586,11 +411,45 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T04:23:00-08:00",
+      "publishedDateTime": "2023-02-07T02:58:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "decrypt",
+        "domain": "decrypt.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-uab-joins-eenterprise-fintech-blockchain-platform-uae-trade-connect.md",
+      "title": "UAB joins e&enterprise fintech blockchain platform UAE Trade Connect",
+      "excerpt": "United Arab Bank (UAB) has announced that it has joined UAE Trade Connect (UTC) as an official member. UTC, the fintech blockchain platform of e& enterprise, is the UAE's first commercialized solution to combat fraud in the trade finance space built on advanced technologies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/pr/uab-joins-eenterprise-fintech-blockchain-platform-uae-trade-connect-1508146",
+      "originalUrl": "https://www.albawaba.com/business/pr/uab-joins-eenterprise-fintech-blockchain-platform-uae-trade-connect-1508146",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T02:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -605,54 +464,21 @@
       ]
     },
     {
-      "path": "_news/2023-02-06-ebu-artificial-intelligence-will-drive-the-future-of-production.md",
-      "title": "EBU: Artificial intelligence will drive the future of production",
-      "excerpt": "The European Broadcasting Union's head of strategy suggests AI will help to simplify the skills needed in production in the next few years",
+      "path": "_news/2023-02-07-madison-square-garden-accused-of-using-facial-recognition-technology-to-kick-out-fans.md",
+      "title": "Madison Square Garden Accused of Using Facial Recognition Technology to Kick Out Fans",
+      "excerpt": "Madison Square Garden CEO James Dolan is in hot water for allegedly using facial recognition technology to eject his personal enemies from the stadium. Wait, what? According to Crain’s New York Business, the State Liquor Authority notified the Manhattan ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/live-production/ebu-artificial-intelligence-will-drive-the-future-of-production",
-      "originalUrl": "https://www.tvbeurope.com/live-production/ebu-artificial-intelligence-will-drive-the-future-of-production",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-goa-artificial-intelligence-powered-robots-to-be-used-to-save-lives-on-beaches.md",
-      "title": "Goa: Artificial Intelligence-Powered Robots To Be Used To Save Lives On Beaches",
-      "excerpt": "In a first-of-its-kind innovation, Drishti Marine, Goa's state-appointed lifeguard organisation, has introduced artificial intelligence (AI) in the form of Aurus. Read full story on Dynamite News:",
-      "sourceUrl": null,
-      "webUrl": "https://www.dynamitenews.com/story/goa-artificial-intelligence-powered-robots-to-be-used-to-save-lives-on-beaches",
-      "originalUrl": "https://www.dynamitenews.com/story/goa-artificial-intelligence-powered-robots-to-be-used-to-save-lives-on-beaches",
+      "webUrl": "https://ny.eater.com/2023/2/7/23587674/madison-square-garden-state-liquor-authority-face-recognition-technology",
+      "originalUrl": "https://ny.eater.com/2023/2/7/23587674/madison-square-garden-state-liquor-authority-face-recognition-technology",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.dynamitenews.com/images/2023/02/06/goa-artificial-intelligence-powered-robots-to-be-used-to-save-lives-on-beaches/63e0ed22cf4fa.jpg",
-          "width": 600,
-          "height": 450,
+          "url": "https://cdn.vox-cdn.com/thumbor/_C1Nm7WB0GHVWD1IV8_FSZ2hVtQ=/0x40:2048x1112/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/3661168/msg.0.jpg",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -662,164 +488,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T04:08:00-08:00",
+      "publishedDateTime": "2023-02-07T02:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Dynamite News",
-        "domain": "dynamitenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-artificial-intelligence-in-medical-imaging-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2028.md",
-      "title": "Artificial Intelligence In Medical Imaging Market Size 2023 Will Touch A New Level In The Upcoming Year 2028",
-      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2028-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2028-2023-02-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T04:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-chatgpt-may-be-just-the-beginning-as-ai-is-likely-to-spur-pe-and-ma-activity.md",
-      "title": "ChatGPT may be just the beginning, as AI is likely to spur PE and M&A activity",
-      "excerpt": "AI, customer engagement, digital transformation and cybersecurity are among hot tech areas of investment, said Union Square Advisors' Wayne Kawarabayashi.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pehub.com/chatgpt-may-be-just-the-beginning-as-ai-is-likely-to-spur-pe-and-ma-activity/",
-      "originalUrl": "https://www.pehub.com/chatgpt-may-be-just-the-beginning-as-ai-is-likely-to-spur-pe-and-ma-activity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PE Hub",
-        "domain": "pehub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-inside-safe-city-moscows-ai-surveillance-dystopia.md",
-      "title": "Inside Safe City, Moscow’s AI Surveillance Dystopia",
-      "excerpt": "Moscow promised residents lower crime rates through an expansive smart city project. Then Vladimir Putin invaded Ukraine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/moscow-safe-city-ntechlab/",
-      "originalUrl": "https://www.wired.com/story/moscow-safe-city-ntechlab/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/moscow-safe-city-ntechlab/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/moscow-safe-city-ntechlab/amp",
-      "publishedDateTime": "2023-02-06T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-facilities-facial-recognition-staffing-ai-personalization-among-hottest-topics-for-live-events-in-2023.md",
-      "title": "Facilities: Facial recognition, staffing, AI, personalization among hottest topics for live events in 2023",
-      "excerpt": "I fired off a barrage of emails in January to dozens of folks involved with every aspect of the live sports experience to see what topics are: A) front of mind for them as 2023 gets going and, B) most intriguing to them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sportsbusinessjournal.com/Journal/Issues/2023/02/06/Insiders/facilities.aspx",
-      "originalUrl": "https://www.sportsbusinessjournal.com/Journal/Issues/2023/02/06/Insiders/facilities.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sports Business Journal",
-        "domain": "sportsbusinessjournal.com",
+        "name": "Eater",
+        "domain": "eater.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -834,12 +507,55 @@
       ]
     },
     {
-      "path": "_news/2023-02-06-google-reportedly-invests-400-million-in-ai-startup-anthropic.md",
-      "title": "Google reportedly invests $400 million in AI startup Anthropic",
-      "excerpt": "We're partnering with Google Cloud to support the next phase of Anthropic, where we're going to deploy our AI systems to a larger set of people,” said Anthropic CEO Dario Amo",
+      "path": "_news/2023-02-07-why-tech-bosses-are-doomsday-prepping.md",
+      "title": "Why tech bosses are doomsday prepping",
+      "excerpt": "In January, the US software giant announced a $10 billion investment in the artificial intelligence startup OpenAI ... just in the context of “killer robots” that he claims distract from ...",
       "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/google-reportedly-invests-400-million-in-ai-startup-anthropic-10016161.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/google-reportedly-invests-400-million-in-ai-startup-anthropic-10016161.html",
+      "webUrl": "https://www.independent.co.uk/tech/chatgpt-ai-chatbot-microsoft-altman-b2274639.html",
+      "originalUrl": "https://www.independent.co.uk/tech/chatgpt-ai-chatbot-microsoft-altman-b2274639.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2023/02/03/17/A%20robot%20dreaming%20of%20a%20futuristic%20robot%20-%20Dall-E%202.png?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.co.uk/tech/chatgpt-ai-chatbot-microsoft-altman-b2274639.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/chatgpt-ai-chatbot-microsoft-altman-b2274639.html",
+      "publishedDateTime": "2023-02-07T02:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-artificial-intelligence-is-a-powerful-tool-but-in-the-climate-fight-humans-still-reign-supreme.md",
+      "title": "Artificial intelligence is a powerful tool. But in the climate fight, humans still reign supreme",
+      "excerpt": "Machine learning is producing impressive results, and, for better or worse, researchers are now using it to address the climate crisis, writes Frederick Hewett.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbur.org/cognoscenti/2023/02/07/artificial-intelligence-machine-learning-climate-change-frederick-hewett",
+      "originalUrl": "https://www.wbur.org/cognoscenti/2023/02/07/artificial-intelligence-machine-learning-climate-change-frederick-hewett",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -847,13 +563,48 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/google-reportedly-invests-400-million-in-ai-startup-anthropic-10016161.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/google-reportedly-invests-400-million-in-ai-startup-anthropic-10016161.html/amp",
-      "publishedDateTime": "2023-02-06T03:58:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T02:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
+        "name": "WBUR",
+        "domain": "wbur.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-the-stock-market-hype-machine-has-come-for-artificial-intelligence-morning-brief.md",
+      "title": "The stock market hype machine has come for artificial intelligence: Morning Brief",
+      "excerpt": "This article first appeared in the Morning Brief. Get the Morning Brief sent directly to your inbox every Monday to Friday by 6:30 a.m. ET. Subscribe. Tuesday,. T",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/finance/stock-market-hype-machine-come-110026783.html",
+      "originalUrl": "https://www.aol.com/finance/stock-market-hype-machine-come-110026783.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -867,12 +618,12 @@
       ]
     },
     {
-      "path": "_news/2023-02-06-artificial-intelligence-chipset-market-size-2023-2028-financial-insights-business-growth-strategies-and-top-key-players.md",
-      "title": "Artificial Intelligence Chipset Market Size 2023-2028 Financial Insights, Business Growth Strategies and Top Key Players",
-      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
+      "path": "_news/2023-02-07-how-artificial-intelligence-can-boost-diversity-inclusion.md",
+      "title": "How Artificial Intelligence Can Boost Diversity & Inclusion",
+      "excerpt": "After decades of research and progress in the area of artificial intelligence (AI), we appeared to have reached a point in which AI is no longer confined to utopian or dystopian conversations about the future,",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-size-2023-2028-financial-insights-business-growth-strategies-and-top-key-players-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-size-2023-2028-financial-insights-business-growth-strategies-and-top-key-players-2023-02-06",
+      "webUrl": "https://www.forbes.com/sites/tomaspremuzic/2023/02/07/how-artificial-intelligence-can-boost-diversity--inclusion/",
+      "originalUrl": "https://www.forbes.com/sites/tomaspremuzic/2023/02/07/how-artificial-intelligence-can-boost-diversity--inclusion/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -882,14 +633,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:50:00-08:00",
+      "publishedDateTime": "2023-02-07T01:57:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -905,7 +656,305 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-google-promises-its-ai-will-be-released-to-trusted-users-soon.md",
+      "title": "Google promises its AI will be released to trusted users soon",
+      "excerpt": "Bard should be ready for public release in a few weeks  Google's parent firm Alphabet announced the release of its Bard conversational AI service, which it said will be rolled out to \"trusted users\" before its public release in the coming weeks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fudzilla.com/news/ai/56285-google-promises-its-ai-will-be-released-to-trusted-users-soon",
+      "originalUrl": "https://www.fudzilla.com/news/ai/56285-google-promises-its-ai-will-be-released-to-trusted-users-soon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T01:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fudzilla",
+        "domain": "fudzilla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-which-chatgpt-stock-is-best.md",
+      "title": "Which ChatGPT Stock Is Best?",
+      "excerpt": "TipRanks will help you figure out which ChatGPT stock is best. As natural language processing and artificial intelligence continue to advance,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/which-chatgpt-stock-is-best-1032073240",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/which-chatgpt-stock-is-best-1032073240",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T01:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-googles-new-ai-chatbot-takes-on-chatgpt.md",
+      "title": "Google’s new AI chatbot takes on ChatGPT",
+      "excerpt": "The new chatbot has the ability to interact in conversational dialogue form, allowing users to ask questions and receive detailed answers, similar to ChatGPT. In a blog post shared yesterday, Google and Alphabet CEO Sundar Pichai notes that as part of the tech giant’s continued investment in AI across the board,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/RgeVDqPRQOD7KJN3",
+      "originalUrl": "https://www.itweb.co.za/content/RgeVDqPRQOD7KJN3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T01:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-why-detecting-ai-generated-text-is-so-difficult-and-what-to-do-about-it.md",
+      "title": "Why detecting AI-generated text is so difficult (and what to do about it)",
+      "excerpt": "This tool is OpenAI’s response to the heat it’s gotten from educators, journalists, and others for launching ChatGPT without any ways to detect text it has generated. However,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/02/07/1067928/why-detecting-ai-generated-text-is-so-difficult-and-what-to-do-about-it/",
+      "originalUrl": "https://www.technologyreview.com/2023/02/07/1067928/why-detecting-ai-generated-text-is-so-difficult-and-what-to-do-about-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T01:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-european-defense-fund-supports-project-for-ai-based-language-solutions.md",
+      "title": "European Defense Fund Supports Project for AI-based Language Solutions",
+      "excerpt": "European Defense Fund supports a project for the development of AI-based language solutions for defense applications.",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/european-defense-fund-supports-project-ai-based-language-solutions/",
+      "originalUrl": "https://slator.com/european-defense-fund-supports-project-ai-based-language-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T01:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-google-bets-big-on-its-ai-service-bard-to-counter-chatgpt.md",
+      "title": "Google Bets Big on Its AI Service ‘Bard’ to Counter ChatGPT",
+      "excerpt": "Bard can be an outlet for creativity, and a launchpad for curiosity,” Google CEO Sundar Pichai wrote in a blog post",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6253477/google-bard-ai-chatgpt-microsoft/",
+      "originalUrl": "https://time.com/6253477/google-bard-ai-chatgpt-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T01:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-cisco-turns-to-risk-based-authentication-to-make-mfa-and-zero-trust-practical.md",
+      "title": "Cisco turns to risk-based authentication to make MFA and zero trust practical",
+      "excerpt": "Cisco releases risk-based authentication to offer an adaptive MFA authentication process and make zero trust practical.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/cisco-turns-to-risk-based-authentication-to-make-mfa-and-zero-trust-practical/",
+      "originalUrl": "https://venturebeat.com/security/cisco-turns-to-risk-based-authentication-to-make-mfa-and-zero-trust-practical/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-opinion-artificial-intelligences-redress-problem-inside-sources.md",
+      "title": "Opinion: Artificial Intelligence’s Redress Problem – Inside Sources",
+      "excerpt": "With AI systems increasingly being deployed across sectors, it is vital that pathways for redress are established and maintained to ensure that consumers, data subjects or other users of AI systems have recourse in the event they suffer harm.",
+      "sourceUrl": null,
+      "webUrl": "https://prescottenews.com/index.php/2023/02/07/opinion-artificial-intelligences-redress-problem-inside-sources/",
+      "originalUrl": "https://prescottenews.com/index.php/2023/02/07/opinion-artificial-intelligences-redress-problem-inside-sources/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T23:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Prescott eNews",
+        "domain": "prescottenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

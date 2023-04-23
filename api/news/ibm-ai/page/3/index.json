@@ -2,6 +2,292 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-07-what-companies-are-fueling-the-progress-in-natural-language-processing-moving-this-branch-of-ai-past-translators-and-speech-to-text.md",
+      "title": "What Companies Are Fueling The Progress In Natural Language Processing? Moving This Branch Of AI Past Translators And Speech-To-Text",
+      "excerpt": "With the recent advancements in artificial intelligence, the natural language processing subset has been getting attention as this field has also seen significant improvements. We look at what companies are fueling the progress in natural language processing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/02/06/what-companies-are-fueling-the-progress-in-natural-language-processing-moving-this-branch-of-ai-past-translators-and-speech-to-text/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/06/what-companies-are-fueling-the-progress-in-natural-language-processing-moving-this-branch-of-ai-past-translators-and-speech-to-text/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T17:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-is-c3ai-artificial-intelligence-product-suite-a-gamechanger.md",
+      "title": "Is C3.ai Artificial Intelligence Product Suite a Gamechanger?",
+      "excerpt": "IBM) AI platform Watson which launched in 2011. However, it’s finally becoming useful in everyday applications for everyday people, and the general public is eating it up. The key has been the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/is-c3.ai-artificial-intelligence-product-suite-a-gamechanger",
+      "originalUrl": "https://www.nasdaq.com/articles/is-c3.ai-artificial-intelligence-product-suite-a-gamechanger",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-05T23:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-artificial-intelligence-in-health-care-is-it-hype-or-help.md",
+      "title": "Artificial intelligence in health care: Is it hype or help?",
+      "excerpt": "Many institutions like Mayo Clinic, Google and venture capital firms believe that AI’s potential in medicine is ready to mature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.twincities.com/2023/02/05/artificial-intelligence-in-health-care-is-it-hype-or-help/",
+      "originalUrl": "https://www.twincities.com/2023/02/05/artificial-intelligence-in-health-care-is-it-hype-or-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.twincities.com/2023/02/05/artificial-intelligence-in-health-care-is-it-hype-or-help/amp/",
+      "cdnAmpWebUrl": "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2023/02/05/artificial-intelligence-in-health-care-is-it-hype-or-help/amp/",
+      "publishedDateTime": "2023-02-05T20:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TwinCities.com",
+        "domain": "twincities.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-from-narrow-ai-to-broad-ai.md",
+      "title": "From narrow AI to broad AI",
+      "excerpt": "As director of global life sciences at IBM Watson Health, Christina Busmalis is well placed to know how AI is set to transform life sciences. Paul Tunnah sat down with her to discuss how AI is ...",
+      "sourceUrl": null,
+      "webUrl": "https://pharmaphorum.com/index.php/views-analysis-digital/narrow-ai-broad-ai-ibm-watson-christina-busmalis",
+      "originalUrl": "https://pharmaphorum.com/index.php/views-analysis-digital/narrow-ai-broad-ai-ibm-watson-christina-busmalis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pharmaphorum.com/sites/default/files/styles/large/public/2023-02/Drug-manufacturers.jpg?itok=tmKIq812",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-05T11:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pharmaphorum",
+        "domain": "pharmaphorum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-ibm-watson-impresses-in-brain-tumour-analysis.md",
+      "title": "IBM Watson impresses in brain tumour analysis",
+      "excerpt": "IBM is busy applying its Watson AI to as many health arenas as possible and it looks like cancer genomic sequencing could be its next big market. In a new proof-of-concept study testing a beta ...",
+      "sourceUrl": null,
+      "webUrl": "https://pharmaphorum.com/index.php/news/watson-for-genomics-brain-tumour",
+      "originalUrl": "https://pharmaphorum.com/index.php/news/watson-for-genomics-brain-tumour",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pharmaphorum.com/sites/default/files/styles/large/public/2023-02/Drug-manufacturers.jpg?itok=tmKIq812",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-05T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pharmaphorum",
+        "domain": "pharmaphorum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-ibm-watson-enlisted-to-combat-substance-abuse.md",
+      "title": "IBM Watson enlisted to combat substance abuse",
+      "excerpt": "The deal will see the Watson AI be used by Texas-based software firm ... \"It’s time to leverage an advanced cognitive technology platform like IBM Watson to help make the right, evidence-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://pharmaphorum.com/index.php/news/ibm-watson-substance-abuse",
+      "originalUrl": "https://pharmaphorum.com/index.php/news/ibm-watson-substance-abuse",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pharmaphorum.com/sites/default/files/styles/large/public/2023-02/digital-skills-pharma-leaders-need_0.jpg?itok=0TKqDEYc",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-05T08:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pharmaphorum",
+        "domain": "pharmaphorum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-ibm-to-cut-3900-jobs-globally-but-still-expects-to-hire-in-higher-growth-areas.md",
+      "title": "IBM to cut 3,900 jobs globally but still expects to hire in ‘higher-growth areas’",
+      "excerpt": "SAN FRANCISCO – International Business Machines (IBM) has announced that it will eliminate ... we are leveraging digitisation, AI (artificial intelligence) automation, which drives efficiency ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.straitstimes.com/world/united-states/ibm-cuts-3900-jobs-after-muted-consulting-demand-hits-quarterly-revenue",
+      "originalUrl": "https://www.straitstimes.com/world/united-states/ibm-cuts-3900-jobs-after-muted-consulting-demand-hits-quarterly-revenue",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/01/27/2023-01-25T221936Z570121139RC2XXY925S8BRTRMADP3IBM-RESULTS.JPG?VersionId=TzmUkPu1bNaw3sWn_VoQ3sB2zWGjcJn4",
+          "width": 860,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-27T06:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Straits Times",
+        "domain": "straitstimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-27-talking-ai-ceo-arvind-khrisna-on-ibms-monetization-strategy.md",
       "title": "Talking AI - CEO Arvind Khrisna on IBM's monetization strategy",
       "excerpt": "In his view, there have been three moments that matter in the past decade in terms of AI emerging to have business potential and impact: One, when IBM won Jeopardy! with Watson, I think it was a big moment, and AI came onto everyone's roadmap.",
@@ -1080,343 +1366,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-ibms-watson-crashes-the-cloud-ai-party.md",
-      "title": "IBM's Watson Crashes the Cloud AI Party",
-      "excerpt": "After wowing the world way back in 2011 by defeating humans at the TV game show \"Jeopardy!\" with early-stage AI tech, IBM's Watson is making a bit of a comeback. Cloud platform rankings typically start with the \"Big 3\" of AWS, Azure and Google Cloud and ...",
-      "sourceUrl": null,
-      "webUrl": "https://virtualizationreview.com/articles/2023/01/05/cloud-ai.aspx",
-      "originalUrl": "https://virtualizationreview.com/articles/2023/01/05/cloud-ai.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlackWhiteWaveSmall.jpg",
-          "width": 647,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T16:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Virtualization Review",
-        "domain": "virtualizationreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-jerome-pesenti-entrepreneur-and-former-head-of-ai-at-meta-joins-owkins-board-of-directors.md",
-      "title": "Jerome Pesenti, entrepreneur and former head of AI at Meta, joins Owkin’s board of directors",
-      "excerpt": "To turbocharge its mission to become the world’s leading AI biotech company, Owkin has appointed leading entrepreneur and AI innovator Jerome Pesenti to its board of directors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/975883",
-      "originalUrl": "https://www.eurekalert.org/news-releases/975883",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/08456ef0-1b9f-4f52-9722-9e53a41fbd59/Rendition/thumbnail/Content/Public",
-          "width": 1440,
-          "height": 973,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-citizens-latest-smartwatch-packs-nasa-and-ibm-ai-tech-into-a-stylish-wearable.md",
-      "title": "Citizen's Latest Smartwatch Packs NASA And IBM AI Tech Into A Stylish Wearable",
-      "excerpt": "At CES 2023, famed timepiece maker Citizen launched its newest CZ Smart, which is a smartwatch that has a built-in self-care advisor, developed together with NASA and IBM's Watson. Not a company ...",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/citizens-latest-smartwatch-packs-nasa-and-ibm-ai-technologies-into-a-stylish-wearable",
-      "originalUrl": "https://hothardware.com/news/citizens-latest-smartwatch-packs-nasa-and-ibm-ai-technologies-into-a-stylish-wearable",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/60579/content/Citizen-ai-watch.jpg",
-          "width": 708,
-          "height": 605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/citizens-latest-smartwatch-packs-nasa-and-ibm-ai-technologies-into-a-stylish-wearable",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/citizens-latest-smartwatch-packs-nasa-and-ibm-ai-technologies-into-a-stylish-wearable",
-      "publishedDateTime": "2023-01-05T05:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-healthcare-ai-market-2023-swot-analysis-by-players-continues-explosive-growth-by-2028.md",
-      "title": "Healthcare AI Market 2023 : SWOT Analysis by Players Continues Explosive Growth by 2028",
-      "excerpt": "Pages Report] Rising demand for Medical Devices & Consumables Industry will drive the Healthcare AI segment growth over the next five years. Global Market Analysis for Health",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-2023-swot-analysis-by-players-continues-explosive-growth-by-2028-2023-01-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-2023-swot-analysis-by-players-continues-explosive-growth-by-2028-2023-01-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T23:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Healthcare",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-citizen-debuts-cz-smart-watch-dedicated-to-wellness.md",
-      "title": "Citizen debuts CZ Smart Watch dedicated to wellness",
-      "excerpt": "Citizen has debuted its CZ Smart Watch with its proprietary wellness software that anticipates, learns, and gets smarter with the wearer.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/citizen-debuts-cz-smart-watch-dedicated-to-wellness/",
-      "originalUrl": "https://venturebeat.com/games/citizen-debuts-cz-smart-watch-dedicated-to-wellness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/01/citizen-CZ-Smart-YouQ-Intro-Shot_NewDials.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 857,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/citizen-debuts-cz-smart-watch-dedicated-to-wellness/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/citizen-debuts-cz-smart-watch-dedicated-to-wellness/amp/",
-      "publishedDateTime": "2023-01-04T12:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-citizens-cz-smart-youq-watch-is-powered-by-nasa-research-and-ibm-watson-ai.md",
-      "title": "Citizen’s CZ Smart YouQ watch is powered by NASA research and IBM Watson AI",
-      "excerpt": "Citizen has revealed a smartwatch that’s cut through the CES 2023 noise thanks to an impressive double-whammy collaboration involving NASA and IBM’s AI-powered Watson Studio. Available in a few configurations ranging from casual and sport (costing from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.stuff.tv/hot-stuff/citizens-cz-smart-youq-watch-is-powered-by-nasa-research-and-ibm-watson-ai/",
-      "originalUrl": "https://www.stuff.tv/hot-stuff/citizens-cz-smart-youq-watch-is-powered-by-nasa-research-and-ibm-watson-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.stuff.tv/wp-content/uploads/sites/2/2023/01/Citizen-CZ-Smartwatch-CES-2023-Hot-Stuff-Lead.png",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.stuff.tv/hot-stuff/citizens-cz-smart-youq-watch-is-powered-by-nasa-research-and-ibm-watson-ai/amp/",
-      "cdnAmpWebUrl": "https://www-stuff-tv.cdn.ampproject.org/c/s/www.stuff.tv/hot-stuff/citizens-cz-smart-youq-watch-is-powered-by-nasa-research-and-ibm-watson-ai/amp/",
-      "publishedDateTime": "2023-01-04T10:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stuff",
-        "domain": "stuff.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-investing-in-ai-stocks.md",
-      "title": "Investing in AI Stocks",
-      "excerpt": "Machine learning, or AI, involves training a system ... and improve the quality of care. In the financial services industry, via the company’s 2016 acquisition of Promontory Financial Group ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
-      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/dubs/images/Robot-AI-image-Getty-Images.width-600.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T09:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare",
-        "AI Hardware",
-        "Facebook AI",
-        "IBM AI"
       ]
     }
   ],

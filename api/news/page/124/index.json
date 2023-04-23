@@ -2,64 +2,21 @@
   "page": 124,
   "value": [
     {
-      "path": "_news/2023-01-05-new-concerns-that-artificial-intelligence-spreads-misinformation-on-facebook.md",
-      "title": "New Concerns That Artificial Intelligence Spreads Misinformation On Facebook",
-      "excerpt": "Of particular concern is how Facebook uses artificial intelligence - or A.I. for short - and how the technology may be helping spread misinformation online. Reporter Karen Hao has a new article about this at MIT Technology Review, \"How Facebook Got ...",
+      "path": "_news/2023-01-09-intelligence-market-report-2023-2029-industry-trends-forecasts-analysis-by-top-leaders-growth-share-regional-segment.md",
+      "title": "Intelligence Market Report 2023-2029: Industry Trends, Forecasts & Analysis by Top Leaders, Growth & Share, Regional Segment",
+      "excerpt": "Intelligence Market report provides an in depth analysis of worldwide market size. It also includes regional and country-level market size and segmentation, market growth, market share, competitive Landscape,",
       "sourceUrl": null,
-      "webUrl": "https://www.wgbh.org/news/local-news/2021/03/19/new-concerns-that-artificial-intelligence-spreads-misinformation-on-facebook",
-      "originalUrl": "https://www.wgbh.org/news/local-news/2021/03/19/new-concerns-that-artificial-intelligence-spreads-misinformation-on-facebook",
+      "webUrl": "https://www.marketwatch.com/press-release/intelligence-market-report-2023-2029-industry-trends-forecasts-analysis-by-top-leaders-growth-share-regional-segment-2023-01-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/intelligence-market-report-2023-2029-industry-trends-forecasts-analysis-by-top-leaders-growth-share-regional-segment-2023-01-09",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://wgbh.brightspotcdn.com/dims4/default/6a83703/2147483647/strip/true/crop/800x400+0+0/resize/800x400!/quality/70/?url=http%3A%2F%2Fcdn-news.wgbh.org%2Fs3fs-public%2Fzuckerberg3_ap_18100671532419_websize.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T08:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGBH",
-        "domain": "wgbh.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-citizens-new-smartwatch-uses-nasa-technology-to-help-you-reduce-fatigue.md",
-      "title": "Citizen's new smartwatch uses NASA technology to help you reduce fatigue",
-      "excerpt": "Citizen announced it's launching a new version of its CZ Smart smartwatches. The new watch comes with a built-in \"self-care advisor\" AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/citizen-smartwatch-ai-3262402",
-      "originalUrl": "https://www.androidauthority.com/citizen-smartwatch-ai-3262402",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/01/460cfb80-8ad0-11ed-be9d-eeeed03b6f2d-1.jpg",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
-          "height": 675,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -69,14 +26,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T07:37:00-08:00",
+      "publishedDateTime": "2023-01-09T02:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -97,60 +54,35 @@
       ]
     },
     {
-      "path": "_news/2023-01-04-harman-transforms-the-driving-experience-with-ready-vision-augmented-reality-head-up-display.md",
-      "title": "HARMAN Transforms the Driving Experience with Ready Vision Augmented Reality Head-Up Display",
-      "excerpt": "HARMAN Ready Vision, a set of Augmented Reality (AR) head-up display (HUD) hardware and AR software products to enhance driver safety and awareness. Ready Vision's AR software integrates with vehicle sensors to deliver immersive audio and visual alerts that empower the driver with critical knowledge and information,",
+      "path": "_news/2023-01-09-applying-machine-learning-to-everyday-life.md",
+      "title": "Applying Machine Learning to Everyday Life",
+      "excerpt": "Machine learning impacts all of our lives daily. The use of navigation, online purchases, social media browsing, or streaming services is all impacted",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/01/04/9737359.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/01/04/9737359.htm",
+      "webUrl": "https://www.cioapplications.com/news/applying-machine-learning-to-everyday-life-nid-10444.html",
+      "originalUrl": "https://www.cioapplications.com/news/applying-machine-learning-to-everyday-life-nid-10444.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T07:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
+      "images": [
+        {
+          "url": "https://www.cioapplications.com/newstransfer/upload/6w3sccioapp450-308.jpg",
+          "width": 450,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
       ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-tdk-corporation-tdk-to-acquire-qeexo-to-enable-complete-smart-edge-platforms.md",
-      "title": "TDK Corporation: TDK to acquire Qeexo to enable complete smart edge platforms",
-      "excerpt": "Qeexo AutoML enables a no-code environment, enabling data collection and training of 18 (and expanding) different machine learning algorithms, including both neural networks and non-neural ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-01/57979928-tdk-corporation-tdk-to-acquire-qeexo-to-enable-complete-smart-edge-platforms-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-01/57979928-tdk-corporation-tdk-to-acquire-qeexo-to-enable-complete-smart-edge-platforms-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T07:06:00-08:00",
+      "publishedDateTime": "2023-01-09T02:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
+        "name": "CIO Applications",
+        "domain": "cioapplications.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -165,21 +97,21 @@
       ]
     },
     {
-      "path": "_news/2023-01-04-options-ai-awarded-best-broker-for-options-trading-at-benzinga-global-fintech-awards.md",
-      "title": "Options AI Awarded Best Broker For Options Trading at Benzinga Global Fintech Awards",
-      "excerpt": "Options AI’s goal is to level the playing field for retail investors. NEW YORK, NY, USA, January 4, 2023 /EINPresswire.com/ -- Options AI today announced that it ...",
+      "path": "_news/2023-01-09-ai-turns-its-artistry-to-creating-new-human-proteins.md",
+      "title": "A.I. Turns Its Artistry to Creating New Human Proteins",
+      "excerpt": "To generate images, DALL-E relies on what artificial intelligence researchers call a neural network, a mathematical system loosely modeled on the network of neurons in the brain. This is the same ...",
       "sourceUrl": null,
-      "webUrl": "https://ktla.com/business/press-releases/ein-presswire/609049340/options-ai-awarded-best-broker-for-options-trading-at-benzinga-global-fintech-awards/",
-      "originalUrl": "https://ktla.com/business/press-releases/ein-presswire/609049340/options-ai-awarded-best-broker-for-options-trading-at-benzinga-global-fintech-awards/",
+      "webUrl": "https://www.nytimes.com/2023/01/09/science/artificial-intelligence-proteins.html",
+      "originalUrl": "https://www.nytimes.com/2023/01/09/science/artificial-intelligence-proteins.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://ktla.com/wp-content/uploads/sites/4/2023/01/KTLA-LOGO_LAS-VERY-OWN-logo.png",
-          "width": 600,
-          "height": 207,
+          "url": "https://static01.nyt.com/images/2023/01/03/autossell/00SCI-PROTEINGS-vid1cover/00SCI-PROTEINGS-vid1cover-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -187,179 +119,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T06:41:00-08:00",
+      "ampWebUrl": "https://www.nytimes.com/2023/01/09/science/artificial-intelligence-proteins.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/09/science/artificial-intelligence-proteins.amp.html",
+      "publishedDateTime": "2023-01-09T02:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-new-nvidia-ai-tech-unblurs-grainy-youtube-videos.md",
-      "title": "New Nvidia AI tech unblurs grainy YouTube videos",
-      "excerpt": "You’ll need a 30 or 40 series Nvidia GPU to make it work, however. As part of Nvidia’s CES 2023 presentation, the company unveiled RTX Video Super Resolution. This new AI tech will upscale videos to 4K in both Chrome and Edge browsers.",
-      "sourceUrl": null,
-      "webUrl": "https://knowtechie.com/nvidia-rtx-video-super-resolution-demo-ces-2023/",
-      "originalUrl": "https://knowtechie.com/nvidia-rtx-video-super-resolution-demo-ces-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://knowtechie.com/wp-content/uploads/2023/01/nvidia-upscaling-example-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T06:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KnowTechie",
-        "domain": "knowtechie.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-tdk-to-acquire-qeexo-to-enable-complete-smart-edge-platforms.md",
-      "title": "TDK to acquire Qeexo to enable complete smart edge platforms",
-      "excerpt": "TDK Corporation (TSE: 6762) (CEO & President: Noboru Saito, hereinafter \"TDK\") announced that today TDK has agreed to acquire Qeexo, Co.",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/tdk-to-acquire-qeexo-to-enable-complete-smart-edge-platforms-301710811.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/tdk-to-acquire-qeexo-to-enable-complete-smart-edge-platforms-301710811.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-citiustech-collaborates-with-microsoft-to-streamline-value-based-contracting-and-provider-performance-management-for-health-plans-and-systems.md",
-      "title": "CitiusTech Collaborates with Microsoft to Streamline Value-Based Contracting and Provider Performance Management for Health Plans and Systems",
-      "excerpt": "CitiusTech, a global provider of digital technology and consulting services to healthcare and life sciences organizations, announced today that it is working with Microsoft to jointly offer PERFORM+ Contracts;",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/business-medical-technology-wire-93df69119528412db26a417690a0e2b5",
-      "originalUrl": "https://apnews.com/article/business-medical-technology-wire-93df69119528412db26a417690a0e2b5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T05:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-nvidias-latest-ai-tech-can-upscale-old-blurry-youtube-videos.md",
-      "title": "Nvidia’s latest AI tech can upscale old blurry YouTube videos",
-      "excerpt": "Nvidia has turned its AI upscaling technology on a new target ... The catch is that you’ll need a relatively modern Nvidia GPU to benefit from the feature, with only its most recent 30 and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/1/4/23538584/nvidia-ai-upscaling-browser-chrome-edge-30-40-series-gpu-graphics-cards-4k-1080p",
-      "originalUrl": "https://www.theverge.com/2023/1/4/23538584/nvidia-ai-upscaling-browser-chrome-edge-30-40-series-gpu-graphics-cards-4k-1080p",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/NJNKV0i-ITPWpQorBd_Pk64-eIY=/0x0:1280x720/1200x628/filters:focal(631x605:632x606)/cdn.vox-cdn.com/uploads/chorus_asset/file/24335273/maxresdefault__1_.jpeg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T04:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
+        "name": "The New York Times",
+        "domain": "nytimes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -375,60 +144,17 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-01-04-microsoft-reported-to-be-integrating-chatgpt3-ai-with-bing-search.md",
-      "title": "Microsoft reported to be integrating ChatGPT3 AI with Bing search",
-      "excerpt": "The expected integration of the AI-powered chat application with Bing can be seen as Microsoft’s renewed attempt to challenge search giant Google.",
+      "path": "_news/2023-01-09-heres-what-you-need-to-know-about-artificial-intelligence.md",
+      "title": "Here’s what you need to know about artificial intelligence",
+      "excerpt": "AI is broadly defined in 2 categories: artificial narrow intelligence (ANI) and artificial general intelligence (AGI). AGI does not yet exist",
       "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3684489/microsoft-reported-to-be-integrating-chatgpt3-ai-with-bing-search.html",
-      "originalUrl": "https://www.computerworld.com/article/3684489/microsoft-reported-to-be-integrating-chatgpt3-ai-with-bing-search.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2017/02/p1200405-100708005-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3684489/microsoft-reported-to-be-integrating-chatgpt3-ai-with-bing-search.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3684489/microsoft-reported-to-be-integrating-chatgpt3-ai-with-bing-search.amp.html",
-      "publishedDateTime": "2023-01-04T02:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-at-ces-tech-mega-show-driverless-cars-show-promise-limitations.md",
-      "title": "At CES tech mega-show, driverless cars show promise, limitations",
-      "excerpt": "Crowds of techies will descend on Las Vegas this week for the annual CES technology mega-show, but one innovation may again fall short of long-held hopes: driverless cars. Autonomous vehicles have long been pitched as the new dawn of transportation and the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/world/americas/at-ces-tech-mega-show-driverless-cars-show-promise-limitations-pbcmjdvh",
-      "originalUrl": "https://www.zawya.com/en/world/americas/at-ces-tech-mega-show-driverless-cars-show-promise-limitations-pbcmjdvh",
+      "webUrl": "https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/heres-what-you-need-to-know-about-artificial-intelligence/",
+      "originalUrl": "https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/heres-what-you-need-to-know-about-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -438,11 +164,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T01:43:00-08:00",
+      "publishedDateTime": "2023-01-09T00:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
+        "name": "Startup Daily",
+        "domain": "startupdaily.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -452,17 +178,17 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-01-04-bird-and-animal-control-robot-market-new-report-2023-research-report-recent-developments-size-share-market-analysis-forecast-2028.md",
-      "title": "Bird and Animal Control Robot Market (New Report) 2023 Research Report Recent Developments, Size, Share, Market Analysis, Forecast 2028",
-      "excerpt": "Jan 04, 2023 (The Expresswire) -- New Report (92 Page) Publish on Global Bird and Animal Control Robot Market Research Report 2023 comprises extensive primary research along with the detailed ...",
+      "path": "_news/2023-01-09-forecast-2028-for-the-deep-learning-in-ct-scanners-market-in-terms-of-size-returns-gross-margin-and-market-share.md",
+      "title": "Forecast 2028 for the Deep Learning in CT Scanners Market in terms of size, returns, gross margin, and market share",
+      "excerpt": "Deep Learning in CT Scanners Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/bird-and-animal-control-robot-market-new-report-2023-research-report-recent-developments-size-share-market-analysis-forecast-2028-2023-01-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/bird-and-animal-control-robot-market-new-report-2023-research-report-recent-developments-size-share-market-analysis-forecast-2028-2023-01-04",
+      "webUrl": "https://www.marketwatch.com/press-release/forecast-2028-for-the-deep-learning-in-ct-scanners-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/forecast-2028-for-the-deep-learning-in-ct-scanners-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-09",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -481,7 +207,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T00:59:00-08:00",
+      "publishedDateTime": "2023-01-08T21:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -496,6 +222,326 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-09-healthcare-decision-support-ibm-watson-forecast-for-2028-market-2023-global-industry-trends-share-size-growth-analysis-demand.md",
+      "title": "Healthcare Decision Support & IBM Watson Forecast for 2028, Market 2023, Global Industry Trends, Share, Size, Growth, Analysis, Demand",
+      "excerpt": "Healthcare Decision Support and IBM Watson Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-decision-support-ibm-watson-forecast-for-2028-market-2023-global-industry-trends-share-size-growth-analysis-demand-2023-01-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-decision-support-ibm-watson-forecast-for-2028-market-2023-global-industry-trends-share-size-growth-analysis-demand-2023-01-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-08T21:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-09-the-expanding-ease-and-utility-of-text-analytics-and-natural-language-processing.md",
+      "title": "The expanding ease and utility of text analytics and natural language processing",
+      "excerpt": "Statistical model techniques also produce the benefit of accelerating tradi- tional natural language processing (NLP) methods to reduce their time-to-value. Conversely, pairing these conventional methods with their newer statistical counterparts heightens ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=156495",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=156495",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/150767-JH_123.jpg-ORG.jpg",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-08T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-09-deep-learning-system-market-2023-statistics-industry-share-latest-trends-growth-drivers-size-estimate-and-forecast-till-2028.md",
+      "title": "Deep Learning System Market 2023 Statistics, Industry Share, Latest Trends, Growth Drivers, Size Estimate and Forecast till 2028",
+      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Deep Learning System",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-system-market-2023-statistics-industry-share-latest-trends-growth-drivers-size-estimate-and-forecast-till-2028-2023-01-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-system-market-2023-statistics-industry-share-latest-trends-growth-drivers-size-estimate-and-forecast-till-2028-2023-01-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-08T19:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-09-deep-learning-computing-stick-market-reliable-business-data-analysis-and-forecast-by-2028.md",
+      "title": "Deep Learning Computing Stick Market Reliable Business Data Analysis and Forecast by 2028",
+      "excerpt": "Further, the SWOT analysis & other techniques are utilized to investigate this data & provide an informed perspective on the state of the business to assist design the best growth strategy for any vendors or to current penetration into the present & and likely direction of the global Deep Learning Computing Stick market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-computing-stick-market-reliable-business-data-analysis-and-forecast-by-2028-2023-01-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-computing-stick-market-reliable-business-data-analysis-and-forecast-by-2028-2023-01-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-08T17:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-09-aurora-sees-driverless-trucks-on-the-road-in-2024.md",
+      "title": "Aurora Sees Driverless Trucks On the Road in 2024",
+      "excerpt": "Every day, self-driving trucks carrying FedEx packages make repeated runs between Dallas and Houston, and between Fort Worth and El Paso. At least for now, those trucks rumbling through Texas have ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/aurora-self-driving-cars-trucks-ces-51672953849",
+      "originalUrl": "https://www.barrons.com/articles/aurora-self-driving-cars-trucks-ces-51672953849",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-697502/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/aurora-self-driving-cars-trucks-ces-51672953849",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/aurora-self-driving-cars-trucks-ces-51672953849",
+      "publishedDateTime": "2023-01-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-09-computer-vision-maps-christmas-lights.md",
+      "title": "Computer Vision Maps Christmas Lights",
+      "excerpt": "For some things, hooking up a relay to a microcontroller can get the job done, but [Andy] has turned to computer vision to solve some of the more time-consuming aspects of these displays.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2020/11/03/computer-vision-maps-christmas-lights/",
+      "originalUrl": "https://hackaday.com/2020/11/03/computer-vision-maps-christmas-lights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2020/10/led-light-map-main.jpg",
+          "width": 1195,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-09-force-control-in-actuators-and-robot-end-effectors.md",
+      "title": "Force Control in Actuators and Robot End Effectors",
+      "excerpt": "Motors and end effectors come in many shapes and sizes but compared to actuators that transport an object from point A to B, end effectors also integrate force sensing to ensure that objects being ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.machinedesign.com/learning-resources/white-papers/whitepaper/21257479/force-control-in-actuators-and-robot-end-effectors",
+      "originalUrl": "https://www.machinedesign.com/learning-resources/white-papers/whitepaper/21257479/force-control-in-actuators-and-robot-end-effectors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.machinedesign.com/files/base/ebm/machinedesign/image/2023/01/force_control_1540x800.63b71e3c7ef35.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Machine Design",
+        "domain": "machinedesign.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -509,19 +555,148 @@
       ]
     },
     {
-      "path": "_news/2023-01-04-artificial-intelligence-ai-in-education-market-industry-updates-new-opportunities-major-strategies-and-forecast-2028.md",
-      "title": "Artificial Intelligence (AI) in Education Market Industry Updates, New Opportunities, Major Strategies, And Forecast 2028",
-      "excerpt": "\"Artificial Intelligence (AI) in Education Market\" studies the global Market Size and Forecast by 2023-2028. The report includes a comprehensive study on the definition, classification and market survey of Production Units in the market along with their product specifications,",
+      "path": "_news/2023-01-09-google-deepmind-creates-bizarre-magic-the-gathering-and-hearthstone-cards.md",
+      "title": "Google Deepmind Creates Bizarre Magic: The Gathering and Hearthstone Cards",
+      "excerpt": "Google Deepmind may be dominant at the game of Go, but it’s still struggling when it comes to card games like Magic: The Gathering and Hearthstone. Still, researchers fully intend to push it ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-industry-updates-new-opportunities-major-strategies-and-forecast-2028-2023-01-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-industry-updates-new-opportunities-major-strategies-and-forecast-2028-2023-01-03",
+      "webUrl": "https://www.inverse.com/article/13400-google-deepmind-creates-bizarre-magic-the-gathering-and-hearthstone-cards",
+      "originalUrl": "https://www.inverse.com/article/13400-google-deepmind-creates-bizarre-magic-the-gathering-and-hearthstone-cards",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://imgix.bustle.com/inverse/90/d3/d5/8c/4e82/4e62/844a/065f95f6925b/nissa-the-vastwood-seer.jpeg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.inverse.com/article/13400-google-deepmind-creates-bizarre-magic-the-gathering-and-hearthstone-cards/amp",
+      "cdnAmpWebUrl": "https://www-inverse-com.cdn.ampproject.org/c/s/www.inverse.com/article/13400-google-deepmind-creates-bizarre-magic-the-gathering-and-hearthstone-cards/amp",
+      "publishedDateTime": "2023-01-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inverse",
+        "domain": "inverse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-09-ibm-inks-725-million-deal-so-public-servants-can-tap-key-technologies.md",
+      "title": "IBM inks $725 million deal so public servants can tap key technologies",
+      "excerpt": "The agreement gives agencies access to IBM’s strong capabilities in artificial intelligence automation – through its Watson offering – quantum technologies, enterprise level cybersecurity ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.afr.com/technology/ibm-inks-725-million-deal-so-public-servants-can-tap-key-technologies-20230109-p5cb9d",
+      "originalUrl": "https://www.afr.com/technology/ibm-inks-725-million-deal-so-public-servants-can-tap-key-technologies-20230109-p5cb9d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_124%2C$y_24/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/bb46d47c6b3bf55c7f32123a9918b988d44c6180",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Australian Financial Review",
+        "domain": "afr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-09-new-adaptive-radiation-therapy-unit-first-of-its-kind-in-canada.md",
+      "title": "New adaptive radiation therapy unit first of its kind in Canada",
+      "excerpt": "BC Cancer- Kelowna gives Global News a tour of the \"Ethos Adaptive Therapy Unit\". This machine will provide quicker treatment plans and is the only one in Canada currently.",
+      "sourceUrl": null,
+      "webUrl": "https://globalnews.ca/news/9395281/new-adaptive-radiation-therapy-unit-first-of-its-kind-in-canada/",
+      "originalUrl": "https://globalnews.ca/news/9395281/new-adaptive-radiation-therapy-unit-first-of-its-kind-in-canada/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://globalnews.ca/wp-content/uploads/2023/01/Adaptive-radiation-therapy-pic.bmp?w=720&h=379&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-08T10:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global News",
+        "domain": "globalnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-09-protecting-critical-utilities-customers-and-assets-with-computer-vision-ai-solutions.md",
+      "title": "Protecting Critical Utilities Customers and Assets with Computer Vision AI Solutions",
+      "excerpt": "To continuously deliver electricity successfully and safely at good rates, Utilities must make use of emerging technologies such as computer vision, analytics and AI to increase efficiency, maintain operations, and improve the safety and security of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tdworld.com/resources/webinars/webinar/21256517/protecting-critical-utilities-customers-and-assets-with-computer-vision-ai-solutions",
+      "originalUrl": "https://www.tdworld.com/resources/webinars/webinar/21256517/protecting-critical-utilities-customers-and-assets-with-computer-vision-ai-solutions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.tdworld.com/files/base/ebm/tdworld/image/2022/12/dreamstime_xxl_132528154.63a0768d0c203.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -533,107 +708,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T19:41:00-08:00",
+      "publishedDateTime": "2023-01-08T08:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-autonomous-vehicles-eye-bigger-business-opportunities.md",
-      "title": "Autonomous vehicles eye bigger business opportunities",
-      "excerpt": "China has taken the lead in the research and development as well as application of autonomous driving technology around the world and it is the first country to allow fully driverless paid robotaxi operations,",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202301/04/WS63b4d882a31057c47eba794c.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202301/04/WS63b4d882a31057c47eba794c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.chinadaily.com.cn/images/202301/04/63b4d882a31057c4b4b2ab91.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T19:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-owl-autonomous-imaging-launches-monocular-3d-thermal-ranger-computer-vision-for-adas-and-autonomous-vehicles.md",
-      "title": "Owl Autonomous Imaging launches monocular 3D Thermal Ranger computer vision for ADAS and autonomous vehicles",
-      "excerpt": "Owl Autonomous Imaging announced the availability of an Evaluation Kit for their new Thermal Ranger ADAS & Autonomous Navigation Development Platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20230103PR202.html?chid=9",
-      "originalUrl": "https://www.digitimes.com/news/a20230103PR202.html?chid=9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20230103pr202_files/4_2b.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T18:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
+        "name": "T&D",
+        "domain": "tdworld.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -648,55 +727,12 @@
       ]
     },
     {
-      "path": "_news/2023-01-04-self-driving-trucks-poised-to-overhaul-long-haul-logistics.md",
-      "title": "Self-driving trucks poised to overhaul long-haul logistics",
-      "excerpt": "Chinese autonomous driving startup Pony.ai has been making forays into the self-driving truck segment. The company announced in November it had formed a strategic alliance with two partners — Chinese logistics company Sinotrans Ltd and machinery manufacturer Sany Group — to work on promoting smart logistics,",
+      "path": "_news/2023-01-08-artificial-intelligence-ai-to-drive-growth-for-healthcare-sector-in-the-uae-says-al-tamimi-investments.md",
+      "title": "Artificial Intelligence (AI) to drive growth for healthcare sector in the UAE says Al Tamimi Investments",
+      "excerpt": "The global healthcare industry is expected to grow by $563.59 billion during 2023-2027, accelerating at a CAGR of 25.8% d",
       "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202301/04/WS63b4d91ca31057c47eba7957.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202301/04/WS63b4d91ca31057c47eba7957.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202301/04/63b4d91ca31057c4b4b2ab9d.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T17:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-media-advisory-2023-trends-in-cx-fintech-and-ai-expert-quotes-available.md",
-      "title": "Media Advisory: 2023 Trends in CX, Fintech, and AI -- Expert Quotes Available",
-      "excerpt": "Agency focused on fintech, AI development, and customer experience strategy has identified key trends for 2023. Pull quotes available for immediate use. SAN FRANCISCO, Jan. 3, 2023 /PRNewswire ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/01/n30268240/media-advisory-2023-trends-in-cx-fintech-and-ai-expert-quotes-available",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/n30268240/media-advisory-2023-trends-in-cx-fintech-and-ai-expert-quotes-available",
+      "webUrl": "https://menafn.com/1105398200/Artificial-Intelligence-AI-to-drive-growth-for-healthcare-sector-in-the-UAE-says-Al-Tamimi-Investments",
+      "originalUrl": "https://menafn.com/1105398200/Artificial-Intelligence-AI-to-drive-growth-for-healthcare-sector-in-the-UAE-says-Al-Tamimi-Investments",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -706,11 +742,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T17:12:00-08:00",
+      "publishedDateTime": "2023-01-08T07:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Mena FN",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -720,26 +756,26 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "AI in Healthcare",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-01-04-syntiants-security-options-expand-via-computer-vision.md",
-      "title": "Syntiant’s Security Options Expand, Via Computer Vision",
-      "excerpt": "Irvine-based chip company Syntiant Corp. is adding to its product line. The firm, founded in 2017, has to date been best known primarily.",
+      "path": "_news/2023-01-08-innocent-black-man-jailed-after-facial-recognition-got-it-wrong-his-lawyer-says.md",
+      "title": "Innocent Black Man Jailed After Facial Recognition Got It Wrong, His Lawyer Says",
+      "excerpt": "He was locked up for nearly a week. A facial recognition tool identified Reid as a suspect in the theft of the luxury purses, and that was all the cops needed to put him in jail, according to the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.ocbj.com/technology/syntiants-security-options-expand-via-computer-vision/",
-      "originalUrl": "https://www.ocbj.com/technology/syntiants-security-options-expand-via-computer-vision/",
+      "webUrl": "https://gizmodo.com/facial-recognition-randall-reid-black-man-error-jail-1849944231",
+      "originalUrl": "https://gizmodo.com/facial-recognition-randall-reid-black-man-error-jail-1849944231",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d3o53yol1vmqc8.cloudfront.net/wp-content/uploads/2023/01/CES-Syntiant.jpg",
-          "width": 1425,
-          "height": 950,
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/25a6c8e0f24c0d1114215b09de0fbb1b.jpg",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -749,12 +785,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T16:26:00-08:00",
+      "publishedDateTime": "2023-01-07T22:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Orange County Business Journal",
-        "domain": "ocbj.com",
-        "images": null,
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -764,26 +809,25 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI",
-        "AI in Security"
+        "AI"
       ]
     },
     {
-      "path": "_news/2023-01-04-baidu-granted-with-the-first-license-to-test-out-driverless-taxis-in-beijing.md",
-      "title": "Baidu granted with the first license to test out driverless taxis in Beijing",
-      "excerpt": "Following its success in Wuhan and Chongqing, Baidu received the first license to test driverless taxis in Beijing.",
+      "path": "_news/2023-01-08-a-path-emerges-for-driverless-vehicles-with-experiments-in-south-korea-hope-in-singapore.md",
+      "title": "A path emerges for driverless vehicles — with experiments in South Korea, hope in Singapore",
+      "excerpt": "A driverless road sweeper. His road sweeper, which uses artificial intelligence to gauge how dirty the road is and to differentiate between different types of debris, is now ready for deployment ...",
       "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2023/01/baidu-granted-with-the-first-license-to-test-out-driverless-taxis-in-beijing/",
-      "originalUrl": "https://techwireasia.com/2023/01/baidu-granted-with-the-first-license-to-test-out-driverless-taxis-in-beijing/",
+      "webUrl": "https://www.channelnewsasia.com/cna-insider/autonomous-vehicles-driverless-trials-safety-south-korea-singapore-3187291",
+      "originalUrl": "https://www.channelnewsasia.com/cna-insider/autonomous-vehicles-driverless-trials-safety-south-korea-singapore-3187291",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://techwireasia.com/wp-content/uploads/2023/01/Baidu-received-the-first-license-to-test-autonomous-vehicles-with-no-safety-operator-on-board-in-Beijing-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--XNUWLesZ--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/01/07/picture1.jpg?itok=xTTW0WbU",
+          "width": 1200,
+          "height": 676,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -793,11 +837,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T16:15:00-08:00",
+      "publishedDateTime": "2023-01-07T22:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -812,21 +856,21 @@
       ]
     },
     {
-      "path": "_news/2023-01-04-leveraging-machine-learning-to-help-predict-ship-exhaust-gas-emissions.md",
-      "title": "Leveraging machine learning to help predict ship exhaust gas emissions",
-      "excerpt": "Ships, the most common means of international goods transportation, emit exhaust gases that cause air pollution at the ports they dock in. Predicting the levels of these emissions is important from an environmental standpoint,",
+      "path": "_news/2023-01-08-controversy-illuminates-rise-of-facial-recognition-in-private-sector.md",
+      "title": "Controversy illuminates rise of facial recognition in private sector",
+      "excerpt": "That controversy is over technology -- specifically, facial recognition software. When Kelly Conlon, a lawyer, tried to join her daughter's Girl Scout troop at a Rockettes performance the weekend ...",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/975622",
-      "originalUrl": "https://www.eurekalert.org/news-releases/975622",
+      "webUrl": "https://abcnews.go.com/Business/controversy-illuminates-rise-facial-recognition-private-sector/story?id=96116545",
+      "originalUrl": "https://abcnews.go.com/Business/controversy-illuminates-rise-facial-recognition-private-sector/story?id=96116545",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fb0bbce6-8319-4133-aafc-d13ad050b71f/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 394,
+          "url": "https://s.abcnews.com/images/Business/radio-gty-er-230105_1672951120625_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -834,13 +878,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T16:00:00-08:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/controversy-illuminates-rise-facial-recognition-private-sector/story?id=96116545",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/controversy-illuminates-rise-facial-recognition-private-sector/story?id=96116545",
+      "publishedDateTime": "2023-01-07T17:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -850,26 +894,26 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-01-04-perceive-ai-launches-2nd-edge-ai-chip-for-low-power-applications.md",
-      "title": "Perceive AI Launches 2nd Edge AI Chip For Low Power Applications",
-      "excerpt": "Company claims Ergo2 is up to four times faster than Perceive’s first-generation Ergo chip, and can handle much larger models such as NLP. Edge AI is coming into its own, with a variety of chips ...",
+      "path": "_news/2023-01-08-ai-powered-robot-lawyer-to-defend-a-human-in-court-for-the-first-time-ever.md",
+      "title": "AI-powered ‘robot lawyer’ to defend a human in court for the first time ever",
+      "excerpt": "Invest in high-rated bonds from as low as Rs. 10,000 Find & Invest in bonds issued by top corporates, PSU Banks, NBFCs, and much more. Invest as low as 10,000 and earn better returns than FD",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/01/04/perceive-ai-launches-2nd-edge-ai-chip-for-low-power-applications/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/01/04/perceive-ai-launches-2nd-edge-ai-chip-for-low-power-applications/",
+      "webUrl": "https://www.moneycontrol.com/news/trends/ai-powered-robot-lawyer-to-defend-a-human-in-court-for-the-first-time-ever-9825741.html",
+      "originalUrl": "https://www.moneycontrol.com/news/trends/ai-powered-robot-lawyer-to-defend-a-human-in-court-for-the-first-time-ever-9825741.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63b493feacba027dca69d65f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 524,
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/01/Collage-Maker-07-Jan-2023-02.59-PM-770x435.jpg",
+          "width": 770,
+          "height": 435,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -877,23 +921,57 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/01/04/perceive-ai-launches-2nd-edge-ai-chip-for-low-power-applications/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/01/04/perceive-ai-launches-2nd-edge-ai-chip-for-low-power-applications/amp/",
-      "publishedDateTime": "2023-01-03T16:00:00-08:00",
+      "ampWebUrl": "https://www.moneycontrol.com/news/trends/ai-powered-robot-lawyer-to-defend-a-human-in-court-for-the-first-time-ever-9825741.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/ai-powered-robot-lawyer-to-defend-a-human-in-court-for-the-first-time-ever-9825741.html/amp",
+      "publishedDateTime": "2023-01-07T13:33:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-08-lenovo-unveils-ai-gaming-laptop-range-with-frame-rate-smarts.md",
+      "title": "Lenovo unveils AI gaming laptop range with frame rate smarts",
+      "excerpt": "Artificial intelligence is becoming a part of our daily lives, and Lenevo is set to use AI gaming laptop chips in its upcoming portable gaming PC range. The tech will aim to intelligently fine ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamesn.com/lenovo/ai-gaming-laptop-range-ces-2023",
+      "originalUrl": "https://www.pcgamesn.com/lenovo/ai-gaming-laptop-range-ces-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/01/lenovo-ai-gaming-laptop-range-ces-2023.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-07T12:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -907,73 +985,21 @@
       ]
     },
     {
-      "path": "_news/2023-01-04-profet-ai-helps-manufacturers-build-prediction-models-and-industrial-ai-software.md",
-      "title": "Profet AI helps manufacturers build prediction models and industrial AI software",
-      "excerpt": "The company’s flagship products are its AutoML Virtual Data Scientist Platform and Ready To Go Applications. They are intended for use by clients in the semiconductor, electronics, chemicals and ...",
+      "path": "_news/2023-01-08-fda-approves-alzheimers-drug-shown-to-moderately-slow-cognitive-decline-in-early-stages-of-the-disease.md",
+      "title": "FDA approves Alzheimer’s drug shown to moderately slow cognitive decline in early stages of the disease",
+      "excerpt": "The Food and Drug Administration on Friday approved a new Alzheimer’s disease treatment that moderately slows cognitive decline in people with early-stage disease. The drug, called Leqembi ...",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/01/04/profet-ai/",
-      "originalUrl": "https://techcrunch.com/2023/01/04/profet-ai/",
+      "webUrl": "https://www.statnews.com/2023/01/06/fda-approves-alzheimers-drug-leqembi-eisai/",
+      "originalUrl": "https://www.statnews.com/2023/01/06/fda-approves-alzheimers-drug-leqembi-eisai/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1364287046.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/01/04/profet-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/04/profet-ai/amp/",
-      "publishedDateTime": "2023-01-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-tesla-calling-its-cars-full-self-driving-may-run-afoul-of-new-california-law.md",
-      "title": "Tesla Calling Its Cars ‘Full Self-Driving’ May Run Afoul Of New California Law",
-      "excerpt": "Tesla's description of its Full Self-Driving features notes it doesn't actually enable autonomous driving. Tesla The California Department of Motor Vehicles told Forbes by email that it “will be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2023/01/04/tesla-calling-its-cars-full-self-driving-may-run-afoul-of-new-california-law/",
-      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2023/01/04/tesla-calling-its-cars-full-self-driving-may-run-afoul-of-new-california-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63b59c86a52d7cbf6f2aae82/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://www.statnews.com/wp-content/uploads/2019/04/AdobeStock_92675828-1024x576.jpeg",
+          "width": 1024,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -983,7 +1009,50 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T16:00:00-08:00",
+      "publishedDateTime": "2023-01-07T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "STAT",
+        "domain": "statnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-08-chatgpt3-let-the-generative-ai-revolution-begin.md",
+      "title": "ChatGPT3 — Let The Generative AI Revolution Begin",
+      "excerpt": "Beyond the prowess of ChatGPT3, the underlying impact of the technology - generative AI - on business is only just coming into focus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sylvainduranton/2023/01/07/chatgpt3let-the-generative-ai-revolution-begin/",
+      "originalUrl": "https://www.forbes.com/sites/sylvainduranton/2023/01/07/chatgpt3let-the-generative-ai-revolution-begin/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63b87c13f05096e494830711/0x0.jpg?format=jpg&width=1200",
+          "width": 612,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sylvainduranton/2023/01/07/chatgpt3let-the-generative-ai-revolution-begin/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sylvainduranton/2023/01/07/chatgpt3let-the-generative-ai-revolution-begin/amp/",
+      "publishedDateTime": "2023-01-07T09:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1006,26 +1075,26 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "IBM AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-01-04-transparent-tvs-driverless-tractors-lead-top-innovations-unveiled-at-ces.md",
-      "title": "Transparent TVs, driverless tractors lead top innovations unveiled at CES",
-      "excerpt": "Tech industry members are all about innovation, but some booths at CES this week can tout their creativity more than others thanks to their accolades earned during one of the trade show’s",
+      "path": "_news/2023-01-07-facial-recognitions-alarming-pitfalls.md",
+      "title": "Facial recognition's alarming pitfalls",
+      "excerpt": "Facial recognition also lets you unlock smartphones and tablets without a password. Driving the news: A Black man was recently jailed for almost a week in Georgia after a facial recognition system incorrectly matched his face with a suspect in a New Orleans robbery,",
       "sourceUrl": null,
-      "webUrl": "https://www.reviewjournal.com/business/conventions/ces/transparent-tvs-driverless-tractors-lead-top-innovations-unveiled-at-ces-2707199/",
-      "originalUrl": "https://www.reviewjournal.com/business/conventions/ces/transparent-tvs-driverless-tractors-lead-top-innovations-unveiled-at-ces-2707199/",
+      "webUrl": "https://www.axios.com/2023/01/07/facial-recognition-issues-problems",
+      "originalUrl": "https://www.axios.com/2023/01/07/facial-recognition-issues-problems",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reviewjournal.com/wp-content/uploads/2023/01/17325179_web1_web1-IMG-1035.jpg?w=1200",
-          "width": 1200,
-          "height": 800,
+          "url": "https://images.axios.com/OjuswAauFS55c0w3Z6L9OxN53Ec=/0x0:1920x1080/1366x768/2023/01/06/1673035395318.jpg",
+          "width": 1366,
+          "height": 768,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1033,47 +1102,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.reviewjournal.com/business/conventions/ces/secure-voting-app-driverless-tractors-lead-top-innovations-unveiled-at-ces-2707199/amp/",
-      "cdnAmpWebUrl": "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/conventions/ces/secure-voting-app-driverless-tractors-lead-top-innovations-unveiled-at-ces-2707199/amp/",
-      "publishedDateTime": "2023-01-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Las Vegas Review-Journal",
-        "domain": "reviewjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-eys3d-launches-one-stop-xink-development-platform-for-vision-equipped-robots.md",
-      "title": "eYs3D Launches One-Stop XINK Development Platform for Vision-Equipped Robots",
-      "excerpt": "PRNewswire/ -- eYs3D Microelectronics, a subsidiary of Etron Technology (TPEx: 5351. TW), a subsidiary of Etron Technology (TPEx: 5351. TW), launched at CES a state-of-the-art computer vision development platform for next-generation autonomous robotic applications such as AIoT (artificial intelligence of things),",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/01/03/9737014.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/01/03/9737014.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T15:59:00-08:00",
+      "publishedDateTime": "2023-01-07T04:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Axios",
+        "domain": "axios.com",
         "images": null,
         "publishers": null,
         "authors": null

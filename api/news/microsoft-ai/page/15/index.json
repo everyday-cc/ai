@@ -2,21 +2,21 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2022-09-21-microsoft-starts-rolling-out-windows-11-update-with-video-editor-and-start-menu-folders.md",
-      "title": "Microsoft starts rolling out Windows 11 update with video editor and Start menu folders",
-      "excerpt": "Support for Windows 10 doesn't end until 2025, but that isn't stopping Microsoft from rolling out changes to attract people to the newer version, Windows 11.",
+      "path": "_news/2022-12-07-chess-study-shows-masks-can-put-cognitive-performance-in-check.md",
+      "title": "Chess study shows masks can put cognitive performance in check",
+      "excerpt": "Dr. Smerdon, an Australian chess Grandmaster, said while mask mandates had helped to curb the spread of COVID-19, almost nothing was known about their impact on cognitive performance. \"At the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/09/20/microsoft-windows-11-2022-update-with-clipchamp-available.html",
-      "originalUrl": "https://www.cnbc.com/2022/09/20/microsoft-windows-11-2022-update-with-clipchamp-available.html",
+      "webUrl": "https://phys.org/news/2022-12-chess-masks-cognitive.html",
+      "originalUrl": "https://phys.org/news/2022-12-chess-masks-cognitive.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://image.cnbcfm.com/api/v1/image/107120861-1663619141845-gettyimages-1173107604-MICROSOFT_HARDWARE.jpeg?v=1663693201",
-          "width": 3000,
-          "height": 2000,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2017/chess.jpg",
+          "width": 1920,
+          "height": 1280,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,59 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/09/20/microsoft-windows-11-2022-update-with-clipchamp-available.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/09/20/microsoft-windows-11-2022-update-with-clipchamp-available.html",
-      "publishedDateTime": "2022-09-20T14:27:00-07:00",
+      "ampWebUrl": "https://phys.org/news/2022-12-chess-masks-cognitive.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-12-chess-masks-cognitive.amp",
+      "publishedDateTime": "2022-12-06T13:09:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-a-conversation-with-kevin-scott-whats-next-in-ai.md",
+      "title": "A conversation with Kevin Scott: What’s next in AI",
+      "excerpt": "The post A conversation with Kevin Scott: What’s next in AI appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/",
+      "originalUrl": "https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blogs.microsoft.com/wp-content/uploads/prod/sites/3/2022/12/A-conversation-with-Kevin-Scott-social-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T09:29:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,27 +92,36 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
-      "path": "_news/2022-09-21-study-suggests-older-adults-show-greater-mental-well-being-despite-cognitive-decline.md",
-      "title": "Study suggests older adults show greater mental well-being despite cognitive decline",
-      "excerpt": "Despite displaying signs of poorer cognitive performance, older adults tend to have greater mental well-being compared to younger adults, according to a new study. A study published this month in ...",
+      "path": "_news/2022-12-07-ultra-processed-foods-linked-to-cognitive-decline-dementia-study.md",
+      "title": "Ultra-processed foods linked to cognitive decline, dementia: study",
+      "excerpt": "A new study published in JAMA Neurology on Monday found that people could be at a higher risk of cognitive decline if more than 20% of their daily caloric intake is ultra-processed foods.",
       "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/09/20/study-suggests-older-adults-show-greater-mental-well-being-despite-cognitive-decline/",
-      "originalUrl": "https://nypost.com/2022/09/20/study-suggests-older-adults-show-greater-mental-well-being-despite-cognitive-decline/",
+      "webUrl": "https://nypost.com/2022/12/06/ultra-processed-foods-linked-to-cognitive-decline-dementia/",
+      "originalUrl": "https://nypost.com/2022/12/06/ultra-processed-foods-linked-to-cognitive-decline-dementia/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/12/bad-food-comp.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T13:45:00-07:00",
+      "ampWebUrl": "https://nypost.com/2022/12/06/ultra-processed-foods-linked-to-cognitive-decline-dementia/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/12/06/ultra-processed-foods-linked-to-cognitive-decline-dementia/amp/",
+      "publishedDateTime": "2022-12-06T09:28:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "New York Post",
@@ -88,875 +140,21 @@
       ]
     },
     {
-      "path": "_news/2022-09-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration.md",
-      "title": "Tecnotree to Accelerate Digital Transition to the Cloud with Microsoft Azure Integration",
-      "excerpt": "Tecnotree's Digital Suite-5 for consumers and business monetization is built natively to run on Kubernetes and is aligned with the Microsoft Azure cloud to drive multi-tenant, multi-region transformations that allow enterprises to lower total-cost-of-ownership (TCO) by eliminating significant upfront investments.",
+      "path": "_news/2022-12-07-voters-deserve-to-know-more-about-the-cognitive-health-of-candidates.md",
+      "title": "Voters deserve to know more about the cognitive health of candidates",
+      "excerpt": "Given their importance, both to voters and ability to perform the tasks of governmental office, politicians must share more about their cognitive health to ensure that voters make informed decisions about who they choose as their representatives.",
       "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-will-servicenow-be-worth-more-than-microsoft-by-2030.md",
-      "title": "Will ServiceNow Be Worth More Than Microsoft by 2030?",
-      "excerpt": "Just like other richly valued tech stocks, ServiceNow lost some luster as interest rates rose over the past year. Image source: . Nevertheless, ServiceNow has still generated massive gains for its initial investors and will likely continue to generate double-digit sales growth for years to come.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/will-servicenow-be-worth-more-than-microsoft-by-2030",
-      "originalUrl": "https://www.nasdaq.com/articles/will-servicenow-be-worth-more-than-microsoft-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/will-servicenow-be-worth-more-than-microsoft-by-2030?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-servicenow-be-worth-more-than-microsoft-by-2030?amp",
-      "publishedDateTime": "2022-09-20T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-oracles-short-term-pain-could-be-your-long-term-gain.md",
-      "title": "Oracle’s Short-Term Pain Could Be Your Long-Term Gain",
-      "excerpt": "Database and cloud solutions provider Oracle (NASDAQ: ORCL) stock got smoked on its fiscal Q1 2023 earnings report. Shares were holding up relatively",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/finance/oracles-short-term-pain-could-be-your-long-term-gain/435644",
-      "originalUrl": "https://www.entrepreneur.com/finance/oracles-short-term-pain-could-be-your-long-term-gain/435644",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T22:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-meta-alumnis-startup-truefoundry-raises-23-million-to-accelerate-ml-deployments.md",
-      "title": "Meta alumni’s startup TrueFoundry raises $2.3 million to accelerate ML deployments",
-      "excerpt": "TrueFoundry, founded by former Meta engineers, aims to help enterprises deploy machine learning models at the speed of big tech companies.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/19/meta-alumni-startup-truefoundry-seed-funding-sequoia-surge-machine-learning/",
-      "originalUrl": "https://techcrunch.com/2022/09/19/meta-alumni-startup-truefoundry-seed-funding-sequoia-surge-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/09/GettyImages-950196458.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/19/meta-alumni-startup-truefoundry-seed-funding-sequoia-surge-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/19/meta-alumni-startup-truefoundry-seed-funding-sequoia-surge-machine-learning/amp/",
-      "publishedDateTime": "2022-09-19T19:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-cognitive-impairment-in-hispanic-adults-linked-to-discrimination-experiences.md",
-      "title": "Cognitive impairment in Hispanic adults linked to discrimination experiences",
-      "excerpt": "Now a new study shows that experiences with discrimination may be playing a role in disproportionate experiences of cognitive decline. In a first-of-its-kind study, published recently in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-09-cognitive-impairment-hispanic-adults-linked.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-09-cognitive-impairment-hispanic-adults-linked.html",
+      "webUrl": "https://www.michigandaily.com/opinion/columns/voters-deserve-to-know-more-about-the-cognitive-health-of-candidates/",
+      "originalUrl": "https://www.michigandaily.com/opinion/columns/voters-deserve-to-know-more-about-the-cognitive-health-of-candidates/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/hispanic-family-1.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-09-cognitive-impairment-hispanic-adults-linked.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-cognitive-impairment-hispanic-adults-linked.amp",
-      "publishedDateTime": "2022-09-19T11:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-frontline-systems-releases-rasonr-v2023-cloud-platform-with-advanced-model-management-and-decision-intelligence.md",
-      "title": "Frontline Systems Releases RASON(R) V2023 Cloud Platform with Advanced Model Management and Decision Intelligence",
-      "excerpt": "V2023 Cloud Platform with Advanced Model Management and Decision Intelligence Sep 19, 2022 (PRNewswire via COMTEX) --",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/frontline-systems-releases-rasonr-v2023-cloud-platform-with-advanced-model-management-and-decision-intelligence-2022-09-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/frontline-systems-releases-rasonr-v2023-cloud-platform-with-advanced-model-management-and-decision-intelligence-2022-09-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-user-clip-chinese-cognitive-warfare.md",
-      "title": "User Clip: Chinese “Cognitive” Warfare",
-      "excerpt": "User-Created Clip by bigxav September 19, 2022 2022-09-19T13:10:32-04:00https://images.c-span.org/Files/61c/002/1663607466_002.jpgHow our adversaries are brainwashing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.c-span.org/video/?c5031762/user-clip-chinese-cognitive-warfare",
-      "originalUrl": "https://www.c-span.org/video/?c5031762/user-clip-chinese-cognitive-warfare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "c-span",
-        "domain": "c-span.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-daily-multivitamin-may-slow-down-cognitive-decline-in-older-adults.md",
-      "title": "Daily Multivitamin May Slow Down Cognitive Decline in Older Adults",
-      "excerpt": "Daily multivitamins may slow down cognitive decline among older adults. The corresponding study was published in Alzheimer's & Dementia. The Alzheimer's Association states that there are 6.5 million Americans living with Alzheimer's disease and that 1 in 3 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.labroots.com/trending/drug-discovery-and-development/23635/daily-multivitamin-slow-cognitive-decline-adults",
-      "originalUrl": "https://www.labroots.com/trending/drug-discovery-and-development/23635/daily-multivitamin-slow-cognitive-decline-adults",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.labroots.com/content_article_profile_image_5de5b999909a9e88a3f03d5a7f5a4f882dc6e244_1436.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-17T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Labroots",
-        "domain": "labroots.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-fierce-competition-who-could-win-the-intelligent-automation-arms-race.md",
-      "title": "Fierce competition: Who could win the intelligent automation arms race",
-      "excerpt": "Microsoft and Automation Anywhere are emerging as the main contenders for dominance of the business process automation market.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/automation/fierce-competition-who-could-win-the-intelligent-automation-arms-race/",
-      "originalUrl": "https://venturebeat.com/automation/fierce-competition-who-could-win-the-intelligent-automation-arms-race/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1285575560.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/automation/fierce-competition-who-could-win-the-intelligent-automation-arms-race/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/automation/fierce-competition-who-could-win-the-intelligent-automation-arms-race/amp/",
-      "publishedDateTime": "2022-09-16T18:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-cognitive-health-may-benefit-from-balanced-meal-timing.md",
-      "title": "Cognitive health may benefit from balanced meal timing",
-      "excerpt": "However, evidence regarding the relationship between TPEI and cognitive function at the population level is relatively lacking. Previous studies in animal models have shown that the disruption in ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-09-cognitive-health-benefit-meal.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-09-cognitive-health-benefit-meal.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/cognitive-health-may-b.jpg",
-          "width": 707,
-          "height": 327,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-09-cognitive-health-benefit-meal.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-cognitive-health-benefit-meal.amp",
-      "publishedDateTime": "2022-09-16T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-fetterman-campaign-says-dem-nominee-is-healthy-after-two-cognitive-tests-wont-provide-documentation-report.md",
-      "title": "Fetterman campaign says Dem nominee is healthy after two cognitive tests, won't provide documentation: Report",
-      "excerpt": "The campaign for Pennsylvania Democratic Senate nominee John Fetterman has released some results from two recent cognitive tests that he recently took as questions about his ability to serve in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/fetterman-campaign-says-dem-nominee-healthy-two-cognitive-tests-provide-documentation",
-      "originalUrl": "https://www.foxnews.com/politics/fetterman-campaign-says-dem-nominee-healthy-two-cognitive-tests-provide-documentation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/09/340/340/Kyle-Morris.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/fetterman-campaign-says-dem-nominee-healthy-two-cognitive-tests-provide-documentation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fetterman-campaign-says-dem-nominee-healthy-two-cognitive-tests-provide-documentation.amp",
-      "publishedDateTime": "2022-09-16T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-diet-could-play-a-role-in-cognitive-function-across-diverse-races-and-ethnicities.md",
-      "title": "Diet could play a role in cognitive function across diverse races and ethnicities",
-      "excerpt": "Dietary choices and their consequences may certainly influence cognitive function ... Metabolon offers biochemical profiling services and is developing molecular diagnostic assays detecting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/964717",
-      "originalUrl": "https://www.eurekalert.org/news-releases/964717",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-legendary-cognitive-scientist-daniel-osherson-scientist-of-rare-talent-and-excellent-and-caring-mentor-dies-at-73.md",
-      "title": "'Legendary' cognitive scientist Daniel Osherson, 'scientist of rare talent' and 'excellent and caring mentor,' dies at 73",
-      "excerpt": "4 from complications due to Parkinson’s. He was 73 years old. One of the world’s leading experts on cognitive science, Osherson did foundational work on reasoning, epistemology, inductive logic, probabilistic thinking, concepts and categories.",
-      "sourceUrl": null,
-      "webUrl": "https://www.princeton.edu/news/2022/09/16/legendary-cognitive-scientist-daniel-osherson-scientist-rare-talent-and-excellent",
-      "originalUrl": "https://www.princeton.edu/news/2022/09/16/legendary-cognitive-scientist-daniel-osherson-scientist-rare-talent-and-excellent",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2022/09/20170607_OshersonD_DJA_005.jpg?itok=XjQ5gfxV",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T02:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Princeton University",
-        "domain": "princeton.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-oracle-announces-mysql-heatwave-on-aws.md",
-      "title": "Oracle announces MySQL HeatWave on AWS",
-      "excerpt": "Oracle recently announced that MySQL HeatWave is available on Amazon Web Services (AWS). MySQL HeatWave is the only service that combines OLTP,",
-      "sourceUrl": null,
-      "webUrl": "https://manilastandard.net/tech/314260496/oracle-announces-mysql-heatwave-on-aws.html",
-      "originalUrl": "https://manilastandard.net/tech/314260496/oracle-announces-mysql-heatwave-on-aws.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manilastandard.net/wp-content/uploads/2022/09/Mina-Lim-Managing-Director-Oracle-Philippines.jpg",
-          "width": 603,
-          "height": 617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T18:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manilastandard",
-        "domain": "manilastandard.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-oracle-brings-heatwave-to-aws.md",
-      "title": "Oracle Brings HeatWave To AWS",
-      "excerpt": "Senior Analyst, Servers, Matt Kimball, dives as MySQL HeatWave is a cloud database service that has enabled Oracle to create differentiation in the open-source MySQL market. MySQL HeatWave is available natively on AWS,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6323c5bfd0627c92277a03a5/0x0.png?format=png&width=1200",
-          "width": 936,
-          "height": 444,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/amp/",
-      "publishedDateTime": "2022-09-15T17:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-balanced-meal-timing-has-potentially-positive-effects-on-cognitive-health.md",
-      "title": "Balanced meal timing has potentially positive effects on cognitive health",
-      "excerpt": "However, evidence regarding the relationship between TPEI and cognitive function at the population level is relatively lacking. Previous studies in animal models have shown that the disruption in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220916/Balanced-meal-timing-has-potentially-positive-effects-on-cognitive-health.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220916/Balanced-meal-timing-has-potentially-positive-effects-on-cognitive-health.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/10/Breakfast_served_with_coffee%2c_orange_juice%2c_croissants%2c_cereals_and_fruits._Balanced_diet-monticello_75d5748bf4164d1cb1502f79dcbee848-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-soroco-scouttm-now-available-in-microsoft-azure-marketplace.md",
-      "title": "Soroco ScoutTM Now Available in Microsoft Azure Marketplace",
-      "excerpt": "Soroco, the world’s first work graph company, today announced the availability of Soroco ScoutTM, the flagship product powered by work graph in Microsoft Azure Marketplace, an online store providing a",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/soroco-scouttm-now-available-in-microsoft-azure-marketplace/",
-      "originalUrl": "https://indiaeducationdiary.in/soroco-scouttm-now-available-in-microsoft-azure-marketplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/soroco-scouttm-now-available-in-microsoft-azure-marketplace/amp/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/soroco-scouttm-now-available-in-microsoft-azure-marketplace/amp/",
-      "publishedDateTime": "2022-09-15T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-recovering-from-cognitive-issues-caused-by-long-covid.md",
-      "title": "Recovering from Cognitive Issues caused by Long-Covid",
-      "excerpt": "Some patients experience neuro-cognitive problems. Dana Hodges, a speech-language pathologist, says she has seen short-term memory affected. “I am seeing the inability for them to be able to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wspa.com/news/ask-the-expert/recovering-from-cognitive-issues-caused-by-long-covid/",
-      "originalUrl": "https://www.wspa.com/news/ask-the-expert/recovering-from-cognitive-issues-caused-by-long-covid/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wspa.com/wp-content/uploads/sites/53/2022/07/GettyImages-1215276619-1.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wspa.com/news/ask-the-expert/recovering-from-cognitive-issues-caused-by-long-covid/amp/",
-      "cdnAmpWebUrl": "https://www-wspa-com.cdn.ampproject.org/c/s/www.wspa.com/news/ask-the-expert/recovering-from-cognitive-issues-caused-by-long-covid/amp/",
-      "publishedDateTime": "2022-09-15T11:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSPA",
-        "domain": "wspa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-cognitive-systems-a-quick-study-in-dedication-and-self-belief.md",
-      "title": "Cognitive Systems – A quick study in dedication and self-belief",
-      "excerpt": "How would you prove you were right? Apparently, if you were the founders of Cognitive Systems Corp., you’d do whatever it took — up to and including building and manufacturing your own device ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/sponsored/cognitive-systems-a-quick-study-in-dedication-and-self-belief",
-      "originalUrl": "https://www.itworldcanada.com/sponsored/cognitive-systems-a-quick-study-in-dedication-and-self-belief",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-microsofts-69b-activision-deal-faces-in-depth-uk-inquiry.md",
-      "title": "Microsoft's $69B Activision deal faces in-depth UK inquiry",
-      "excerpt": "Microsoft's $69 billion deal to buy video game company Activision Blizzard faces an in-depth antitrust investigation in Britain after the tech company refused to offer proposals to ease competition concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ctinsider.com/news/article/Microsoft-s-69B-Activision-deal-faces-in-depth-17443968.php",
-      "originalUrl": "https://www.ctinsider.com/news/article/Microsoft-s-69B-Activision-deal-faces-in-depth-17443968.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/27/21/37/22878184/4/rawImage.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ctinsider",
-        "domain": "ctinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-summit-design-and-engineering-services-chooses-the-microsoft-cloud-and-aec360-to-fuel-business-growth.md",
-      "title": "Summit Design and Engineering Services Chooses the Microsoft cloud and aec360 to Fuel Business Growth",
-      "excerpt": "Summit Design and Engineering Services, has selected Microsoft Dynamics 365 and aec360 as the firm's new cloud-based business management platform. The organizations have begun the process of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n28883786/summit-design-and-engineering-services-chooses-the-microsoft-cloud-and-aec360-to-fuel-business-gro",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n28883786/summit-design-and-engineering-services-chooses-the-microsoft-cloud-and-aec360-to-fuel-business-gro",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg",
+          "url": "https://www.michigandaily.com/wp-content/uploads/2022/12/LS-02.jpg",
           "width": 700,
-          "height": 300,
+          "height": 500,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -964,13 +162,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28883786",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28883786",
-      "publishedDateTime": "2022-09-15T07:50:00-07:00",
+      "ampWebUrl": "https://www.michigandaily.com/opinion/columns/voters-deserve-to-know-more-about-the-cognitive-health-of-candidates/",
+      "cdnAmpWebUrl": "https://www-michigandaily-com.cdn.ampproject.org/c/s/www.michigandaily.com/opinion/columns/voters-deserve-to-know-more-about-the-cognitive-health-of-candidates/",
+      "publishedDateTime": "2022-12-06T09:18:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "The Michigan Daily",
+        "domain": "michigandaily.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -985,12 +183,12 @@
       ]
     },
     {
-      "path": "_news/2022-09-15-study-indicates-a-daily-multivitamin-slows-cognitive-decline.md",
-      "title": "Study indicates a daily multivitamin slows cognitive decline",
-      "excerpt": "Findings recently published in the Alzheimer’s & Dementia: The Journal of the Alzheimer’s Association found that a daily multivitamin could improve cognitive function and physical health for ...",
+      "path": "_news/2022-12-07-hearing-aids-may-help-prevent-cognitive-decline-study-says.md",
+      "title": "Hearing aids may help prevent cognitive decline, study says",
+      "excerpt": "(CNN) - A new study indicates that hearing aids may help delay or reduce dementia and cognitive decline. The findings were published Monday in JAMA Neurology. Research has shown that hearing loss ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wtvr.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline",
-      "originalUrl": "https://www.wtvr.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline",
+      "webUrl": "https://www.ky3.com/2022/12/06/hearing-aids-may-help-prevent-cognitive-decline-study-says/",
+      "originalUrl": "https://www.ky3.com/2022/12/06/hearing-aids-may-help-prevent-cognitive-decline-study-says/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1000,11 +198,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T22:01:00-07:00",
+      "publishedDateTime": "2022-12-06T08:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "wtvr",
-        "domain": "wtvr.com",
+        "name": "KY3",
+        "domain": "ky3.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1019,21 +217,21 @@
       ]
     },
     {
-      "path": "_news/2022-09-15-taking-daily-multivitamin-could-slow-cognitive-decline-among-older-people-by-2-years-study-say.md",
-      "title": "Taking daily multivitamin could slow cognitive decline among older people by 2 years, study say",
-      "excerpt": "The ability to slow cognitive decline by almost two years with a multivitamin is significant, and while more research is needed, doctors say this is a critical first step. Diane Lowe is healthy ...",
+      "path": "_news/2022-12-06-study-hearing-aids-may-help-slow-cognitive-decline.md",
+      "title": "Study: Hearing aids may help slow cognitive decline",
+      "excerpt": "A new study indicates that hearing aids may help delay or reduce dementia and cognitive decline. The findings were published Monday in the medical journal JAMA Neurology. Research has shown that ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/philadelphia/news/daily-multivitamin-alzheimers-association-cognitive-decline-study/",
-      "originalUrl": "https://www.cbsnews.com/philadelphia/news/daily-multivitamin-alzheimers-association-cognitive-decline-study/",
+      "webUrl": "https://www.kshb.com/news/national/study-hearing-aids-may-help-slow-cognitive-decline",
+      "originalUrl": "https://www.kshb.com/news/national/study-hearing-aids-may-help-slow-cognitive-decline",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/09/14/dba80da9-51d1-436a-a16b-271834a51f30/thumbnail/1200x630/d7b0f25c03d6bf21e42d77643d44a9c1/gettyimages-51730199.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/bf26fc3/2147483647/strip/true/crop/5000x2813+0+261/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F05%2Faf%2F9457e6804e6cb66a3c6e41cdead0%2Fap22334703657980.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1041,13 +239,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/philadelphia/news/daily-multivitamin-alzheimers-association-cognitive-decline-study/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/philadelphia/news/daily-multivitamin-alzheimers-association-cognitive-decline-study/",
-      "publishedDateTime": "2022-09-14T20:10:00-07:00",
+      "ampWebUrl": "https://www.kshb.com/news/national/study-hearing-aids-may-help-slow-cognitive-decline?_amp=true",
+      "cdnAmpWebUrl": "https://www-kshb-com.cdn.ampproject.org/c/s/www.kshb.com/news/national/study-hearing-aids-may-help-slow-cognitive-decline?_amp=true",
+      "publishedDateTime": "2022-12-06T07:35:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
+        "name": "KSHB Kansas City",
+        "domain": "kshb.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1062,21 +260,21 @@
       ]
     },
     {
-      "path": "_news/2022-09-15-daily-multivitamin-may-slow-cognitive-decline-in-older-adults-study-shows.md",
-      "title": "Daily multivitamin may slow cognitive decline in older adults, study shows",
-      "excerpt": "Yulia Reznikov/Getty Images Older adults experiencing cognitive decline are at risk for Alzheimer’s disease (AD) and other forms of dementia. Experts are still working to understand what factors ...",
+      "path": "_news/2022-12-06-if-you-want-to-improve-your-cognitive-abilities-learn-piano.md",
+      "title": "If you want to improve your cognitive abilities, learn piano",
+      "excerpt": "“We know that playing and listening to music often bring joy to our lives, but with this study, we were interested in learning more about the direct effects a short period of music learning can have on our cognitive abilities,” commented Petrin",
       "sourceUrl": null,
-      "webUrl": "https://www.medicalnewstoday.com/articles/daily-multivitamin-may-slow-cognitive-decline-in-older-adults-study-shows",
-      "originalUrl": "https://www.medicalnewstoday.com/articles/daily-multivitamin-may-slow-cognitive-decline-in-older-adults-study-shows",
+      "webUrl": "https://www.biotechniques.com/neuroscience/if-you-want-to-improve-your-cognitive-abilities-learn-the-piano/",
+      "originalUrl": "https://www.biotechniques.com/neuroscience/if-you-want-to-improve-your-cognitive-abilities-learn-the-piano/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/09/Daily_vitamins_GettyImages1220060359_Thumb.jpg",
-          "width": 732,
-          "height": 549,
+          "url": "https://www.biotechniques.com/wp-content/uploads/2022/12/piano.png",
+          "width": 602,
+          "height": 258,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1086,7 +284,41 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T16:10:00-07:00",
+      "publishedDateTime": "2022-12-06T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BioTechniques",
+        "domain": "biotechniques.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-too-much-sodium-not-enough-potassium-may-lead-to-cognitive-decline.md",
+      "title": "Too much sodium, not enough potassium may lead to cognitive decline",
+      "excerpt": "Share on Pinterest A recent study shows that consuming high levels of sodium is associated with cognitive decline while a diet high in potassium is linked to improved cognitive function.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medicalnewstoday.com/articles/too-much-sodium-not-enough-potassium-may-lead-to-cognitive-decline",
+      "originalUrl": "https://www.medicalnewstoday.com/articles/too-much-sodium-not-enough-potassium-may-lead-to-cognitive-decline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Medical News Today",
@@ -1105,21 +337,73 @@
       ]
     },
     {
-      "path": "_news/2022-09-15-multivitamins-may-slow-cognitive-decline-in-older-adults-study-says.md",
-      "title": "Multivitamins May Slow Cognitive Decline in Older Adults, Study Says",
-      "excerpt": "Share on Pinterest Researchers say taking a multivitamin daily can help slow cognitive aging. Fly View Productions/Getty Images Researchers say a new study indicates that taking a multivitamin ...",
+      "path": "_news/2022-12-06-how-are-hearing-aids-and-dementia-related-a-new-study-explains.md",
+      "title": "How are hearing aids and dementia related? A new study explains",
+      "excerpt": "Hearing aids might be an important tool in the effort to prevent cognitive decline and dementia, according to a new study. Research has established that hearing loss in an important risk factor in ...",
       "sourceUrl": null,
-      "webUrl": "https://www.healthline.com/health-news/multivitamins-may-slow-cognitive-decline-in-older-adults-study-says",
-      "originalUrl": "https://www.healthline.com/health-news/multivitamins-may-slow-cognitive-decline-in-older-adults-study-says",
+      "webUrl": "https://www.cnn.com/2022/12/05/health/hearing-loss-dementia-study-wellness/index.html",
+      "originalUrl": "https://www.cnn.com/2022/12/05/health/hearing-loss-dementia-study-wellness/index.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://post.healthline.com/wp-content/uploads/2022/09/female-couch-pills-1200x628-facebook-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221205095708-hearing-loss-dementia-wellness-stock-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/12/05/health/hearing-loss-dementia-study-wellness/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/12/05/health/hearing-loss-dementia-study-wellness/index.html",
+      "publishedDateTime": "2022-12-05T14:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-use-it-or-lose-it-hearing-aids-linked-to-cognitive-benefit.md",
+      "title": "Use It, or Lose It: Hearing Aids Linked to Cognitive Benefit",
+      "excerpt": "Opens in a new tab or window Restoring hearing loss with hearing aids or cochlear implants was linked with less long-term cognitive decline and even some gain, a systematic review and meta ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/geriatrics/dementia/102061",
+      "originalUrl": "https://www.medpagetoday.com/geriatrics/dementia/102061",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.medpagetoday.net/media/images/102xxx/102061.jpg",
+          "width": 1600,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1129,11 +413,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T15:23:00-07:00",
+      "publishedDateTime": "2022-12-05T13:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Healthline",
-        "domain": "healthline.com",
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1148,21 +432,21 @@
       ]
     },
     {
-      "path": "_news/2022-09-15-artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story.md",
-      "title": "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story",
-      "excerpt": "New Jersey, NJ -- (SBWIRE) -- 09/14/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ...",
+      "path": "_news/2022-12-05-cuttlefish-passed-a-cognitive-test-designed-for-humans.md",
+      "title": "Cuttlefish passed a cognitive test designed for humans",
+      "excerpt": "This discovery, the researchers say, is an example of advanced self-control and shows that the creatures perform better in cognitive tasks. It has also been hypothesized that these positive ...",
       "sourceUrl": null,
-      "webUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-55",
-      "originalUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-55",
+      "webUrl": "https://bgr.com/science/cuttlefish-passed-a-cognitive-test-designed-for-humans/",
+      "originalUrl": "https://bgr.com/science/cuttlefish-passed-a-cognitive-test-designed-for-humans/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://bgr.com/wp-content/uploads/2022/12/AdobeStock_159088227.jpeg?quality=82&strip=all",
+          "width": 2400,
+          "height": 1596,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1172,98 +456,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T13:54:00-07:00",
+      "publishedDateTime": "2022-12-04T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Insurancenewsnet.com",
-        "domain": "insurancenewsnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-using-a-daily-multivitamin-can-improve-a-persons-cognitive-and-prevent-mental-decline-study-finds.md",
-      "title": "Using a daily multivitamin CAN improve a person's cognitive and prevent mental decline, study finds",
-      "excerpt": "Taking a multivitamin every day can slow an elderly person's cognitive decline by about 60 percent, a study has suggested. Researchers at Wake Forest University in Winston-Salem, North Carolina ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/health/article-11211835/Using-daily-multivitamin-improve-persons-cognitive-prevent-mental-decline-study-finds.html",
-      "originalUrl": "https://www.dailymail.co.uk/health/article-11211835/Using-daily-multivitamin-improve-persons-cognitive-prevent-mental-decline-study-finds.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/09/14/18/62407111-0-image-a-15_1663175779563.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/health/article-11211835/amp/Using-daily-multivitamin-improve-persons-cognitive-prevent-mental-decline-study-finds.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/health/article-11211835/amp/Using-daily-multivitamin-improve-persons-cognitive-prevent-mental-decline-study-finds.html",
-      "publishedDateTime": "2022-09-14T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-anyclip-launches-teams-connector-in-microsoft-azure-marketplace.md",
-      "title": "ANYCLIP LAUNCHES 'TEAMS CONNECTOR' IN MICROSOFT AZURE MARKETPLACE",
-      "excerpt": "Available now through the Microsoft Azure Marketplace, this new app integrates with AnyClip's Genius Work™, the AI-powered internal communications product that allows companies to manage their video content—including call recordings—through the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n28866506/anyclip-launches-teams-connector-in-microsoft-azure-marketplace",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n28866506/anyclip-launches-teams-connector-in-microsoft-azure-marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1517441/ANYCLIP.jpg",
-          "width": 400,
-          "height": 218,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28866506",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28866506",
-      "publishedDateTime": "2022-09-14T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "BGR",
+        "domain": "bgr.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1278,5 +475,5 @@
       ]
     }
   ],
-  "nextPage": 16
+  "nextPage": null
 }

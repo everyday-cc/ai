@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Timekettle AI Language Translator Device Redefines Intercultural Communication"
-excerpt: "Established in 2016, Timekettle is an industry-leading translation solutions provider recognized by winning numerous international awards such as CES Innovation Award, iF Design Award, and TechCrunch. As the top-selling brand in the Translator Device industry, Timekettle now serves over 300,000 users worldwide."
-publishedDateTime: 2023-04-14T09:54:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/timekettle-ai-language-translator-device-redefines-intercultural-communication-1032232113"
-webUrl: "https://markets.businessinsider.com/news/stocks/timekettle-ai-language-translator-device-redefines-intercultural-communication-1032232113"
+excerpt: "Language communication has always been an indispensable link in the journey of cross-cultural communication. As a leading translation tech company, Timekettle has a mission to \"break down language ..."
+publishedDateTime: 2023-04-14T08:14:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20230414cn70282/timekettle-ai-language-translator-device-redefines-intercultural-communication"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20230414cn70282/timekettle-ai-language-translator-device-redefines-intercultural-communication"
 type: article
-quality: 45
-heat: 45
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar
+  domain: morningstar.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "CiyfhQCxCJ2dSzCO2TUzwl1r62PoQJsM7B/LA6wuf5E5yywBhpbT7QOjy84ztA5yIdF5wSbLr09FmpU+tZLRAchfRE7j1spJNSTjIwiHljNhLw086P06puxJIbRuBXpAhpzTWdfRfXJiVOGuwx3neAfLlBvBBQf+e9JU30rgbE9PqW7tWhztZVYuJz83QGzrFMEowd2S4ujw6BKVU4PIA8z+cE8+B0HH6Ped7GugAe3gcZ6swjgZMkj+haY1I2mYNw1fBPp6JSUXMLoij/qyZkye9EnOq5+ex80QbhTZvo8ZnEdh/5pp0ZORXoJ7WzRWV01wYjqynIA9oPRSxeXEJg9QpLz+n/MZJbdLoSJxzFckx1kW19ZJmnKvVauKyjxj0mVXWqegbK0uGvRb15WptTN8l2/3gHvyViyPomU79aPRSOu8Nv8Suc1Fc+cSeoxUzVyRoBY9sQ9YLlvY5UpuHsSCCM0uSywpMXyl0rGnWBdXsenjUFKGOtKxxn6LFD7RgpbpkAK1j7sRZwVyHaiqZg==;ccqMFJyE1J1wg3DIAFYrJg=="
+images:
+  - url: "https://mma.prnewswire.com/media/2054084/Timekettle_Fluentalk_T1_Provides_Real_Time_Translation_Services_Cross_cultural_Exchange_Event.jpg"
+    width: 400
+    height: 225
+    isCached: true
+
+secured: "fgBAZKmdt4zpNoTgu9n34giZVoRPzU2Aj43mbp5Kmtg5zbmqMj278Xa7kGJzzoznMnWzbSIqlVCoQB2W8ZmqI1cX6irKE21Bty64ELzHSxZMGN4kS1vRNTalvEF7hWV5RsFFR5XDSRzH4bYEXV9uDSgLgEjAUT5vcmjezuPTRLupTWtOD7kek3XJPeGvSMv9iK6eKWc8o6gpWmThGgfO8dwnr4pkH3uP1xJf/J/Gon+kdg+3m/DRJCtVNc1fdMssrVmkRM1EckbreUM0sV2vO8XflgHVNDHveQtoU2y/erwFDjyuczvS11Q++Qt1cBmCFLnAv4wFByoB5e3YQjlF1aI65wn3mzayoT8FKv22cWE=;Hme0q2rXVUyVC+iqZUjjkw=="
 ---
 

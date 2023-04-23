@@ -1,0 +1,33 @@
+---
+category: news
+title: "Artificial Intelligence for Accounting Market: Global Trends and Prospects 2023"
+excerpt: "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+publishedDateTime: 2023-04-21T09:18:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-global-trends-and-prospects-2023-2023-04-21"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-global-trends-and-prospects-2023-2023-04-21"
+type: article
+quality: 65
+heat: 65
+published: false
+
+provider:
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AWS AI
+  - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "rkuFZhqQu9tHpvMmKm9+jpoawLKc7XliHfUb6zRCBNv7yPjD3PRHRK4uf86NtBbaa3rkKEBabjJGQrEK28fOh0TmUBAVwuxYa+/FKkHVmxC6/mqxX5s1soLWYk5btTTzrBSzmRVrUgiyCihEoHisFdOuWrpDk7i6UkiN9jgIZBsNPb//ATD4xVL/Y//KUbd6uXx/IlsAQduKuDRVKDRScbtQQ8pFnbiUySVeLS6nk/nyU7q/ov0t6EpbxjZkWjHORHg1NcCPJ38MUJ7gPuL6lVQBlk3jcB6prZFnwHnlPjX2Plv22Vh7o5VRAvoMibXGY8ObEcjmRcZdAs4MXjOw5IR0cXVAyeCs+K/gJm/EA3k=;aoapEBgx4141nhOU5/FYwQ=="
+---
+

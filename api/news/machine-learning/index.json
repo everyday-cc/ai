@@ -2,6 +2,432 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-22-aimachine-learning-market-report-industry-dynamics-by-top-players-2023-2031.md",
+      "title": "AI/Machine Learning Market Report Industry Dynamics by Top Players 2023-2031",
+      "excerpt": "Global AI/Machine Learning Market Research Report 2023 is spread across 116 pages and 148 Number of Tables and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-report-industry-dynamics-by-top-players-2023-2031-2023-04-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-report-industry-dynamics-by-top-players-2023-2031-2023-04-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T22:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-22-brain-inspired-ai-liquid-neural-networks-power-drones.md",
+      "title": "Brain-Inspired AI Liquid Neural Networks Power Drones",
+      "excerpt": "Researchers at MIT CSAIL demonstrated how brain-inspired AI liquid neural networks enable drones to navigate unfamiliar places. The researchers performed tests to see",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202304/brain-inspired-ai-liquid-neural-networks-power-drones",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202304/brain-inspired-ai-liquid-neural-networks-power-drones",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-04/pic25111.jpg?itok=GPWCNftz",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202304/brain-inspired-ai-liquid-neural-networks-power-drones?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202304/brain-inspired-ai-liquid-neural-networks-power-drones?amp",
+      "publishedDateTime": "2023-04-21T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-mit-uses-liquid-neural-networks-to-teach-drones-navigation-skills.md",
+      "title": "MIT uses liquid neural networks to teach drones navigation skills",
+      "excerpt": "A team of researchers from MIT CSAIL introduced a method for drones to master vision-based fly-to-target tasks in unfamiliar environments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/mit-uses-liquid-neural-networks-to-teach-drones-navigation-skills/",
+      "originalUrl": "https://www.therobotreport.com/mit-uses-liquid-neural-networks-to-teach-drones-navigation-skills/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/04/drones-neural-nets-mit-csail-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T16:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-how-amazon-has-reorganized-around-artificial-intelligence-and-machine-learning.md",
+      "title": "How Amazon Has Reorganized Around Artificial Intelligence And Machine Learning",
+      "excerpt": "I am a Customer Experience Futurist, Author and Keynote Speaker. In honor of Amazon Prime Day, let’s take a look at the inner workings of this company that is pushing the bounds of innovation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/blakemorgan/2018/07/16/how-amazon-has-re-organized-around-artificial-intelligence-and-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/blakemorgan/2018/07/16/how-amazon-has-re-organized-around-artificial-intelligence-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/dam/imageserve/80be61df19f54b8e87e96066748b9882/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 870,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T02:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-a-remarkable-learning-journey-leads-to-asia-for-the-post-gpt-mba.md",
+      "title": "A Remarkable Learning Journey Leads To Asia For The Post-GPT MBA",
+      "excerpt": "Sanjay Sarma, the incoming President, CEO and Dean of Asia School of Business (ASB), based in Kuala Lumpur has what he describes as an unconventional background - professor, businessman, author, father.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mattsymonds/2023/04/20/a-remarkable-learning-journey-leads-to-asia-for-the-post-gpt-mba/",
+      "originalUrl": "https://www.forbes.com/sites/mattsymonds/2023/04/20/a-remarkable-learning-journey-leads-to-asia-for-the-post-gpt-mba/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6441039958b48aa218bffcf4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 878,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mattsymonds/2023/04/20/a-remarkable-learning-journey-leads-to-asia-for-the-post-gpt-mba/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattsymonds/2023/04/20/a-remarkable-learning-journey-leads-to-asia-for-the-post-gpt-mba/amp/",
+      "publishedDateTime": "2023-04-20T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-is-deep-learning-a-necessary-ingredient-for-artificial-intelligence.md",
+      "title": "Is deep learning a necessary ingredient for artificial intelligence?",
+      "excerpt": "The earliest artificial neural network, the Perceptron, was introduced approximately 65 years ago and consisted of just one layer. However, to address solutions for more complex classification tasks,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-04-deep-ingredient-artificial-intelligence.html",
+      "originalUrl": "https://techxplore.com/news/2023-04-deep-ingredient-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/is-deep-learning-a-nec.jpg",
+          "width": 2880,
+          "height": 1716,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-04-deep-ingredient-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-deep-ingredient-artificial-intelligence.amp",
+      "publishedDateTime": "2023-04-20T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-3-exciting-jobs-in-artificial-intelligence-and-machine-learning-this-week.md",
+      "title": "3 exciting jobs in artificial intelligence and machine learning this week",
+      "excerpt": "Rising adoption in AI/ML is leading to job opportunities both within the sector, and as a result of AI-driven automation",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/3-exciting-jobs-in-artificial-intelligence-and-machine-learning-this-week/",
+      "originalUrl": "https://venturebeat.com/ai/3-exciting-jobs-in-artificial-intelligence-and-machine-learning-this-week/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/hitesh-choudhary-t1PaIbMTJIM-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/3-exciting-jobs-in-artificial-intelligence-and-machine-learning-this-week/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-exciting-jobs-in-artificial-intelligence-and-machine-learning-this-week/amp/",
+      "publishedDateTime": "2023-04-18T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-04-18-ai-terminologies-101understanding-neural-networks.md",
+      "title": "AI Terminologies 101:Understanding Neural Networks",
+      "excerpt": "Neural Networks are a type of artificial intelligence (AI) that's modeled after the way the human brain works. They're made up of interconnected nodes or \"neurons\" that process information and ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2023/04/ai-terminologies-101-understanding-neural-networks",
+      "originalUrl": "https://yourstory.com/2023/04/ai-terminologies-101-understanding-neural-networks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/NucleusAIwall-elikecuterobotsmilingandreadingabooklo64cf6bf2-2dc6-4006-80fc-53762f2dce632-1681470773317.jpg?fm=png&auto=format",
+          "width": 1536,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-18-fears-of-artificial-intelligence-overblown.md",
+      "title": "Fears of artificial intelligence overblown",
+      "excerpt": "While AI is still a developing technology and not without its limitations, a robotic world domination is far from something we need to fear.",
+      "sourceUrl": null,
+      "webUrl": "https://independentaustralia.net/business/business-display/fear-of-artificial-intelligence-overblown,17432",
+      "originalUrl": "https://independentaustralia.net/business/business-display/fear-of-artificial-intelligence-overblown,17432",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://independentaustralia.net/_lib/slir/w800/i/article/img/article-17432-hero.jpg",
+          "width": 650,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "independentaustralia.net",
+        "domain": "independentaustralia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-18-generative-ai-companies-top-12-leaders.md",
       "title": "Generative AI Companies: Top 12 Leaders",
       "excerpt": "Generative AI companies — both existing enterprises that are adding generative AI to their solution stacks and new generative AI startups — are popping up everywhere and quickly. But what makes generative AI companies so different from other AI and ML companies?",
@@ -204,6 +630,50 @@
       ]
     },
     {
+      "path": "_news/2023-04-17-posts-tagged-aws-artificial-intelligence-and-machine-learning-practice-lead.md",
+      "title": "Posts tagged \"AWS Artificial Intelligence and Machine Learning Practice Lead\"",
+      "excerpt": "Download this eBook to look at each of these trends to give you background on why AI and ML is so powerful today, how businesses are using it responsibly and to their benefit, and how the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartcompany.com.au/tag/aws-artificial-intelligence-and-machine-learning-practice-lead/",
+      "originalUrl": "https://www.smartcompany.com.au/tag/aws-artificial-intelligence-and-machine-learning-practice-lead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartcompany.com.au/wp-content/uploads/2022/11/Smartcompany_Horizontal_Black_Logo_3000x4000px-e1668556442225.png?fit=3000%2C3000",
+          "width": 3000,
+          "height": 3000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartCompany",
+        "domain": "smartcompany.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-04-14-ai-and-ml-the-new-frontier-for-data-center-innovation-and-optimization.md",
       "title": "AI and ML: The new frontier for data center innovation and optimization",
       "excerpt": "By implementing AI and ML, companies can create autonomous data centers that optimize a multitude of data engineering tasks.",
@@ -248,6 +718,92 @@
       ]
     },
     {
+      "path": "_news/2023-04-14-machine-learning-examples-in-the-real-world-and-for-seo.md",
+      "title": "Machine Learning Examples In The Real World (And For SEO)",
+      "excerpt": "Learn about types of machine learning and take inspiration from seven real world examples and eight examples directly applied to SEO. As an SEO professional, you’ve heard about ChatGPT and BARD ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.searchenginejournal.com/machine-learning-examples/483887/",
+      "originalUrl": "https://www.searchenginejournal.com/machine-learning-examples/483887/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.searchenginejournal.com/wp-content/uploads/2023/04/machine-learning-examples-1-643549b604e75-sej.png",
+          "width": 1600,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Searchenginejournal.com",
+        "domain": "searchenginejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-automl-the-promise-vs-reality-according-to-practitioners.md",
+      "title": "AutoML: the Promise vs. Reality According to Practitioners",
+      "excerpt": "Unfortunately, true end-to-end automation is not yet available. AutoML is currently most frequently used in hyperparameter tuning and model selection. The failure of AutoML to be end-to-end can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/articles/auto-ml-promise-reality/",
+      "originalUrl": "https://www.infoq.com/articles/auto-ml-promise-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/articles/auto-ml-promise-reality/en/headerimage/header-1661333792384.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-12T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-13-decoding-insomnia-machine-learning-model-predicts-sleep-disorders-from-patient-records.md",
       "title": "Decoding insomnia: Machine learning model predicts sleep disorders from patient records",
       "excerpt": "A machine learning model can effectively predict a patient's risk for a sleep disorder using demographic and lifestyle data, physical exam results and laboratory values, according to a new study published this week in the open-access journal PLOS ONE by Samuel Y.",
@@ -288,6 +844,50 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-12-hankook-company-partners-with-aws-snowflake-for-ai-platform.md",
+      "title": "Hankook & Company Partners with AWS, Snowflake for AI Platform",
+      "excerpt": "Company seeks to establish a data-driven culture and create more business value by enhancing data accessibility.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aftermarketnews.com/hankook-company-partners-with-aws-snowflake-for-ai-data-platform/",
+      "originalUrl": "https://www.aftermarketnews.com/hankook-company-partners-with-aws-snowflake-for-ai-data-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s19538.pcdn.co/wp-content/uploads/2022/07/partnership.jpg",
+          "width": 1400,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-12T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "After Market News",
+        "domain": "aftermarketnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -726,494 +1326,6 @@
       "provider": {
         "name": "mos",
         "domain": "www.mos.ru",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-learning-whether-and-how-much-its-raining-improves-deep-learning-models.md",
-      "title": "Learning whether and how much it's raining improves deep-learning models",
-      "excerpt": "Concentrating on one thing at a time might seem like a good strategy when you're trying to learn something. But now, researchers from the Institute of Industrial Science at the University of Tokyo have found that simultaneously learning two tasks helps a deep-learning model perform better on both when retrieving precipitation information from satellite data.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-04-deep-learning.html",
-      "originalUrl": "https://techxplore.com/news/2023-04-deep-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-ai-machine-learning-predicts-alzheimers-disease-risk.md",
-      "title": "AI Machine Learning Predicts Alzheimer’s Disease Risk",
-      "excerpt": "The AI machine learning model revealed that age ranks first among all features in the age 40+ group and that the genetic effects reflected in the polygenic risk scores become more important than age for individuals aged 65 and older for predicting Alzheimer’s disease.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202304/ai-machine-learning-predicts-alzheimers-disease-risk",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202304/ai-machine-learning-predicts-alzheimers-disease-risk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-04/pic77878%5D.jpg?itok=A8DBJyRM",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202304/ai-machine-learning-predicts-alzheimers-disease-risk?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202304/ai-machine-learning-predicts-alzheimers-disease-risk?amp",
-      "publishedDateTime": "2023-04-06T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-why-artificial-intelligence-is-not-as-intelligent-as-we-think-it-is.md",
-      "title": "Why Artificial Intelligence Is Not As Intelligent As We Think It Is",
-      "excerpt": "AI is just a bunch of data and algorithms that are written by really smart ‘humans’ and Artificial Intelligence is only limited to the intelligence of those algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techjuice.pk/why-artificial-intelligence-is-not-as-intelligent-as-we-think/",
-      "originalUrl": "https://www.techjuice.pk/why-artificial-intelligence-is-not-as-intelligent-as-we-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T05:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techjuice.pk",
-        "domain": "techjuice.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-data-science-analytics-trends-to-watch-in-2023.md",
-      "title": "Data science & analytics trends to watch in 2023",
-      "excerpt": "Modern day society is dominated by the extensive use of digital technologies which result in the generation of a large amount of data. Data science helps extract patterns and deduce valuable insights from it.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/data-science-analytics-trends-to-watch-in-2023/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/data-science-analytics-trends-to-watch-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T03:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-artificial-neural-networks-market-2023-booming-industry-size-in-2023-2030.md",
-      "title": "Artificial Neural Networks Market 2023 | Booming Industry Size in 2023-2030",
-      "excerpt": "Apr 05, 2023 (The Expresswire) -- Artificial Neural Networks Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 121 Pages Report The extent and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-2023-booming-industry-size-in-2023-2030-2023-04-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-2023-booming-industry-size-in-2023-2030-2023-04-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-11-podcasts-every-ai-and-machine-learning-enthusiast-should-listen-to.md",
-      "title": "11 podcasts every AI and machine learning enthusiast should listen to",
-      "excerpt": "Many are looking to learn more about AI and these podcasts cover the most important companies and people in the space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/top-artificial-intelligence-machine-learning-podcasts-2023-4",
-      "originalUrl": "https://www.businessinsider.com/top-artificial-intelligence-machine-learning-podcasts-2023-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-application-development-software-market-size-to-reach-around-usd-11592-billion-by-2031-cagr-of-235.md",
-      "title": "Application Development Software Market Size To Reach Around USD 1159.2 Billion By 2031, CAGR Of 23.5%",
-      "excerpt": "Application Development Software Market Size Big Data Security positively impacts the growth of the application development software mark",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105953633/Application-Development-Software-Market-Size-To-Reach-Around-USD-11592-Billion-By-2031-CAGR-Of-235",
-      "originalUrl": "https://menafn.com/1105953633/Application-Development-Software-Market-Size-To-Reach-Around-USD-11592-Billion-By-2031-CAGR-Of-235",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T19:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-how-ai-machine-learning-are-being-used-by-financial-lenders-in-2023.md",
-      "title": "How AI & Machine Learning Are Being Used By Financial Lenders in 2023",
-      "excerpt": "Artificial Intelligence (AI) and Machine Learning (ML) technologies continue to expand in their applications, uses and benefits for lenders and financial institutions. Because of this maturity and expanded adoption rate,",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/how-ai-machine-learning-are-being-used-by-financial-lenders-in-2023/",
-      "originalUrl": "https://www.unite.ai/how-ai-machine-learning-are-being-used-by-financial-lenders-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-students-use-machine-learning-in-lesson-designed-to-reveal-issues-promise-of-ai.md",
-      "title": "Students use machine learning in lesson designed to reveal issues, promise of A.I.",
-      "excerpt": "In a new study, researchers had 28 high school students create their own machine-learning artificial intelligence (AI) models for analyzing data. The goals of the project were to help students explore the challenges,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/04/230404161706.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/04/230404161706.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T13:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-new-study-shows-the-potential-of-machine-learning-in-the-early-identification-of-people-with-inflammatory-arthritis.md",
-      "title": "New study shows the potential of machine learning in the early identification of people with inflammatory arthritis",
-      "excerpt": "A study by Swansea University has revealed how machine learning can help with the early detection of Ankylosing Spondylitis (AS) inflammatory arthritis and revolutionize how people are detected and diagnosed by their GPs.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-04-potential-machine-early-identification-people.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-04-potential-machine-early-identification-people.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/machine-learning-1.jpg",
-          "width": 1920,
-          "height": 1316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-04-potential-machine-early-identification-people.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-04-potential-machine-early-identification-people.amp",
-      "publishedDateTime": "2023-04-05T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-neural-network-market-research-report-industry-trends-size-usd-15261-billion-by-2030.md",
-      "title": "Neural Network Market Research Report | Industry Trends & Size USD 152.61 Billion By 2030",
-      "excerpt": "Neural network market is expanding as a result of developments in artificial intelligence (AI) industry & the growing cloud disruption in contemporary business. PORTLAND, PORTLAND, OR, UNITED STATES, April 5, 2023 /einpresswire.com / -- The global neural ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105948164/Neural-Network-Market-Research-Report-Industry-Trends-Size-USD-15261-Billion-By-2030",
-      "originalUrl": "https://menafn.com/1105948164/Neural-Network-Market-Research-Report-Industry-Trends-Size-USD-15261-Billion-By-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-qlik-automl-augments-human-instinct-with-precise-machine-intelligence.md",
-      "title": "Qlik AutoML augments human instinct with precise machine intelligence",
-      "excerpt": "Qlik’s AutoML functionality democratises the use of advanced analytics by simplifying the process of building and deploying machine-learning models.",
-      "sourceUrl": null,
-      "webUrl": "https://techcentral.co.za/qlik-automl-augments-human-instinct-with-precise-machine-intelligence-insprom/224128/",
-      "originalUrl": "https://techcentral.co.za/qlik-automl-augments-human-instinct-with-precise-machine-intelligence-insprom/224128/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T21:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCentral",
-        "domain": "techcentral.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-two-tasks-are-better-than-one-learning-if-and-how-much-its-raining-improves-deep-models.md",
-      "title": "Two tasks are better than one: Learning if and how much it’s raining improves deep models",
-      "excerpt": "To measure precipitation from satellite data, researchers from the Institute of Industrial Science, The University of Tokyo, developed a deep-learning–based precipitation retrieval framework. Rather than identifying rain areas through classification and then determining the rate of rain through regression,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/985410",
-      "originalUrl": "https://www.eurekalert.org/news-releases/985410",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null

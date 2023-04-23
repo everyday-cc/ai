@@ -1,29 +1,26 @@
 ---
 category: news
 title: "UP Fintech unveils TigerGPT, the industry's first AI investment assistant"
-excerpt: "TigerGPT is currently the industry's first AI investment assistant and part of UP Fintech's broad layout of internet services; Now in user testing, TigerGPT aims to offer timely m"
-publishedDateTime: 2023-04-12T09:18:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/04/12/9792770.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/04/12/9792770.htm"
+excerpt: "TigerGPT is currently the industry's first AI investment assistant and part of UP Fintech's broad layout of internet services Now in user testing, TigerGPT aims to offer timely market and stock ..."
+publishedDateTime: 2023-04-12T03:01:00Z
+originalUrl: "https://www.news-journal.com/up-fintech-unveils-tigergpt-the-industrys-first-ai-investment-assistant/article_ff93c4cd-4167-5351-9292-19cd6fd0e40d.html"
+webUrl: "https://www.news-journal.com/up-fintech-unveils-tigergpt-the-industrys-first-ai-investment-assistant/article_ff93c4cd-4167-5351-9292-19cd6fd0e40d.html"
 type: article
-quality: 38
-heat: 38
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Longview News-Journal
+  domain: news-journal.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/2052416/image_822796_24155510.jpg"
-    width: 400
-    height: 400
+  - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/2/f1/2f1e36a6-5d4b-57d7-a490-ba43f8ca2e6b/6436689b28645.image.jpg?crop=605%2C318%2C0%2C143&resize=605%2C318&order=crop%2Cresize"
+    width: 605
+    height: 318
     isCached: true
 
-secured: "JYF2LonBNwc0kUqLG7h9g3jz8m30k1k+vHLHlds8MDD1diuEqT99DkmB3ycQTh2HdA1IXk54J5d7IgWn4D2BpgKslghklRBiANXxHwKhRUx1/qZ5lVG5oSP92JGPDODAgNdPwDM6XV9sqb3DwFsYe8X1Kjy6eEFdjNPhNcMClx4yDEIQrpKEe5J9x1l3H5ZSlvx854Ph40et1aw/Y/SQh9ZbAgHxRqXg/Mr8vZegl511OCpVDFg1hptRA7iHFYDUDKS6kwDsZ9DM+DcS3ywzPTdy67LOyOdtKTOYze7BNKzgYrHh0yUoUxbHQoHpyAm2usQo41imqS0tUc6W3Ls+LMqvH2sDarfwggofQp0QGOiblUMHMvGweeB8fYe0yNzADu4j90t8gT9yBhdAZy7EsTx7ydo4wLaymyHJW0GTADXA6l7f+kw+LM4A0bOmoMmKkr5MpMIwzeLpjhnurWD4kcyjXouo7jaRk5CM9Z6Rnvkt4F3dHRshjIgASK7CZ3xQO1Cqi2EtOCSUWDlWL1TTCw==;mZIVMG7IWo352YfBeWrAwg=="
+secured: "UyUx4XNIi8BdKx9yG7bethXCcGkdREriIQ4wpYXl4qe9MJB/czXclkGkLbLF4CPBtxvWRGjLDYNaG/eQG790uAI+Ou+cNxjPgnNbi1XsJ9V0VKh0/d5JLv7oWcc0+Y9WW0qrIVuhpOGgSft/RLdmpwD31FWe//rg4w9zae1cLVYZ/bsgfhOEVN3eJKM1rcSDuXzXBVTvjPxVHKGckLGScP2xO+My9fe6Dnt5V9Jle/Rqwb/NPKAh90lXsHzSAvWNTUPrJ58bQ0hX6mVBuMuwfmEP5jex10NCIjTFQmLL24ZGQjqSazua/yHtTPFn6vI/NSi6NzxNwwhjklUjczaXvLe9Ue8qhgz0QXVb6BK3LkE=;COw3UohZ2yJpiEp1F5eQHA=="
 ---
 

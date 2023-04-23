@@ -2,22 +2,29 @@
 category: news
 title: "Back from the Dead, IBM’s Watson AI is Alive and Re-Emerging"
 excerpt: "While Warson Health is in the rearview mirror, Watson AI continues to improve. In it’s Q4 2022 earnings report, IBM CEO Arvind Krishna commented. “Clients in all geographies increasingly ..."
-publishedDateTime: 2023-04-10T19:31:00Z
-originalUrl: "https://www.nasdaq.com/articles/back-from-the-dead-ibms-watson-ai-is-alive-and-re-emerging"
-webUrl: "https://www.nasdaq.com/articles/back-from-the-dead-ibms-watson-ai-is-alive-and-re-emerging"
+publishedDateTime: 2023-04-11T13:37:00Z
+originalUrl: "https://www.entrepreneur.com/finance/back-from-the-dead-ibms-watson-ai-is-alive-and/449447"
+webUrl: "https://www.entrepreneur.com/finance/back-from-the-dead-ibms-watson-ai-is-alive-and/449447"
 type: article
-quality: 64
-heat: 64
-published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
-secured: "I89U8xTUGeb4aNw880N4fKoetOkgHgVFVLsOChgCwD4ycdYAXWvi65BJOE4Ig089QlEMCtIYHPOoxQVMaTEBVgwQ8+laoHhg6ryvUz5zJAWfLprGgjWoQXhLBIOqVNDssYTFm14pttQ1hTc6wNB5dUqLfikQFdZB+e0EOBtOkXkBjDOc3BcR70aAPnrA1o9haQU85/IDT07DLXjd/X7sduT5/VYZ5+Y6zKLZd8jN4Ho/3Zggu59HsMaudd47bnOR2YHWv1rxsGhWA0k0k945LDPbeUUrABvJsW8Wsz0o234MIIIJNcHl+/EbVhmINfIqvjpGkCyptKxxQNQrmVJGOxA/3NX7a++463HUaLPrpdM=;Go2GYvtjcUfk8bwUWvlHXg=="
+images:
+  - url: "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-449447.jpeg"
+    width: 1000
+    height: 667
+    isCached: true
+
+secured: "uhmIwow9QioOZLkx7LmqgZPWO3B0I3gEwHZmawmFuYyw83vtYM4zFc2PUzh2wO6v5RUNr4lUgDv/31/SU6+oCw8BQ2B2bI+9GbBzFufQyh//Mu85xv0rYRerlki/T3SHXo0pUltlOPC1p3DW1aHXQe5TYMgQRDkJ7xZA2Er0Y3yRoWTw+EjYlSoq8BSUCLw5mVHl4hGJwJTYsQOWtkB3sXxHv2Ts/0651PkG0TDYQdFO+v9joPBlMku9Bbtu8qXT+i1SfhNHTj9oHW+y11S0F/Bq87YF+TdwJopvjm7Us6yeNwYGiIwFL7TcVfgM6uVrOF3UWrlOmBMGFzofnMOH7n6IO9O4lcJv2uOene8SnoA=;CUXf8zO3OjDDv7AKL031xQ=="
 ---
 

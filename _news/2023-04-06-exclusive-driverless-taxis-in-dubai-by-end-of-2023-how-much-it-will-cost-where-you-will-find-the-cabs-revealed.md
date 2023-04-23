@@ -1,10 +1,12 @@
 ---
 category: news
 title: "Exclusive: Driverless taxis in Dubai by end of 2023; how much it will cost, where you will find the cabs revealed"
-excerpt: "Ten self-driving taxis will be deployed for public use in Jumeirah area by the end of this year, with fares comparable to limo taxis, a senior official at .."
-publishedDateTime: 2023-04-06T09:41:00Z
+excerpt: "The work being done will ensure Cruise’s advanced generalisable AI (artificial intelligence ... meaning commuters will enjoy riding a driverless taxi when they go to La Mer Beach, Mercato ..."
+publishedDateTime: 2023-04-06T06:00:00Z
 originalUrl: "https://www.khaleejtimes.com/uae/dubais-jumeirah-first-to-have-driverless-taxis-for-public-use-by-end-of-2023"
 webUrl: "https://www.khaleejtimes.com/uae/dubais-jumeirah-first-to-have-driverless-taxis-for-public-use-by-end-of-2023"
+ampWebUrl: "https://www.khaleejtimes.com/uae/dubais-jumeirah-first-to-have-driverless-taxis-for-public-use-by-end-of-2023?amp=1"
+cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/uae/dubais-jumeirah-first-to-have-driverless-taxis-for-public-use-by-end-of-2023?amp=1"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "bcpbT/wTYrZp/Or4teshjxqTy3qyvMx1Fqg6zjKtA0joh60CmRn3aKw1W67g7J3V0Vz6/db1KZcrjIhJJ7M4r5Z9fESa+qBnd4nMhgzg75vninjudwjviPbrSbLe5Hj1uAbOPrj6f8mm/+gAyG0KPsGiUOpDHO9zuB2K39WZBNeb8l4WDqBRLr4Y7qF39R3PJX4RVnhEsopYu720RoEe12cCuBkHGWkSMFc8RVKOcrtWIDAF9dd6c8kL/XXyI/hFaH486ytFq9HkGTC89ZWTl7UwwdvPtRnhzOlZE0i6KR2EEdlpmwcs3YARc3sQVhjZ+X/ciPAhmoPyP0CzAaRkLB+Vt+HxcSZifRtJQTx3UBsbSWpIEjCYhOY8HzNkjEf1XbRJ71mQWOnzOyXsqjC/KNSen0o5HFsrACrp3kVS9qZmRsudcyLOaZ2Azbcuv3flhywyyGapqX8AlkiyJTCLlNPsc9lOha+kyWV3SfJIlcFITyrvcoKtxoWO9ByONsXjUAy9JqJgqshnj947OANGEw==;DE5kce55rWCZtIgkFi1LGg=="
+images:
+  - url: "https://image.khaleejtimes.com?uuid=6221a217-ffb0-5365-be89-baa9f08c62aa&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.93168&width=1200&height=675&x=1.0E-5&y=0.0352"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "ku46zRAx+suLFmzhq4wu79F+Z/VuPYukO5nal464BFTE91HJSBXgnEHZbz4cg5+KB8u0EG7iQPnY9HJ3F0KgZksHHUkVgAEc9cKsBOszyVdOqdaNGTR8njIypCCPEzv6LMAjNRI83ZVKBkYPtHFdHPyv+iLA74+IHhljL21Bc6+XZFAih/9FF65E/4WFCvJaAp0NOuyT6awFh9tCZK7BY25mNrkCNGagUctAFGg9bQap3ZoZMx0ox0CXe7pIz2ftuPrdibX6ieCXMQZYi+onOzu5ym/iEMIaMTGPmnCfwHqqs5JwDgGRvqWsSP0eZtsxhrHWnQ1I23QzleMLeVjtul88R15xsITB9/LBaw9rXkY=;gTTYXPKKnJlJA+UzW6qQBw=="
 ---
 

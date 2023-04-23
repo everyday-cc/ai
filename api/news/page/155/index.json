@@ -2,21 +2,107 @@
   "page": 155,
   "value": [
     {
-      "path": "_news/2022-09-09-use-adfs-oidc-as-the-idp-for-an-amazon-sagemaker-ground-truth-private-workforce.md",
-      "title": "Use ADFS OIDC as the IdP for an Amazon SageMaker Ground Truth private workforce",
-      "excerpt": "To train a machine learning (ML) model, you need a large, high-quality, labeled dataset. Amazon SageMaker Ground Truth helps you build high-quality training datasets for your ML models. With Ground Truth, you can use workers from either Amazon Mechanical Turk, a vendor company of your choosing, or an",
+      "path": "_news/2022-12-07-gpu-prices-and-availability-december-2022-how-much-are-gpus-today.md",
+      "title": "GPU prices and availability (December 2022): How much are GPUs today?",
+      "excerpt": "The GPU shortage is over, and gamers around the world can breathe a sigh of relief. For those in the market for one of the best graphics cards, we closely looked at graphics card prices and ...",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-adfs-oidc-as-the-idp-for-an-amazon-sagemaker-ground-truth-private-workforce/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-adfs-oidc-as-the-idp-for-an-amazon-sagemaker-ground-truth-private-workforce/",
+      "webUrl": "https://www.digitaltrends.com/computing/gpu-price-tracking/",
+      "originalUrl": "https://www.digitaltrends.com/computing/gpu-price-tracking/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/09/adfs-oidc-sagemaker-ground-truth.jpg",
-          "width": 1533,
-          "height": 767,
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/02/amd-radeon-rx-6500-xt-review-10.jpg?p=1",
+          "width": 1500,
+          "height": 1001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/gpu-price-tracking/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/gpu-price-tracking/?amp",
+      "publishedDateTime": "2022-12-06T10:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-vision-care-group-and-thinkcyte-announce-research-alliance-in-advanced-cell-therapy.md",
+      "title": "Vision Care Group and ThinkCyte Announce Research Alliance in Advanced Cell Therapy",
+      "excerpt": "Vision Care Group and ThinkCyte today announced a research partnership aimed at advancing cell therapy in retinal disease. The partnership combines Vision Care Group's expertise in developing investigative cellular therapies with Ghost Cytometry,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/12/06/9725495.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/12/06/9725495.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T09:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-a-conversation-with-kevin-scott-whats-next-in-ai.md",
+      "title": "A conversation with Kevin Scott: What’s next in AI",
+      "excerpt": "The post A conversation with Kevin Scott: What’s next in AI appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/",
+      "originalUrl": "https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blogs.microsoft.com/wp-content/uploads/prod/sites/3/2022/12/A-conversation-with-Kevin-Scott-social-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,14 +112,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-09T09:34:39-07:00",
+      "publishedDateTime": "2022-12-06T09:29:09-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,25 +136,188 @@
       ],
       "topics": [
         "AI",
-        "AWS AI"
+        "Microsoft AI"
       ]
     },
     {
-      "path": "_news/2022-09-09-build-repeatable-secure-and-extensible-end-to-end-machine-learning-workflows-using-kubeflow-on-aws.md",
-      "title": "Build repeatable, secure, and extensible end-to-end machine learning workflows using Kubeflow on AWS",
-      "excerpt": "This is a guest blog post cowritten with athenahealth. athenahealth&nbsp;a leading provider of network-enabled software and services for medical groups and health systems nationwide. Its electronic health records, revenue cycle management, and patient engagement tools allow anytime, anywhere access,",
+      "path": "_news/2022-12-07-ultra-processed-foods-linked-to-cognitive-decline-dementia-study.md",
+      "title": "Ultra-processed foods linked to cognitive decline, dementia: study",
+      "excerpt": "A new study published in JAMA Neurology on Monday found that people could be at a higher risk of cognitive decline if more than 20% of their daily caloric intake is ultra-processed foods.",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-repeatable-secure-and-extensible-end-to-end-machine-learning-workflows-using-kubeflow-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-repeatable-secure-and-extensible-end-to-end-machine-learning-workflows-using-kubeflow-on-aws/",
+      "webUrl": "https://nypost.com/2022/12/06/ultra-processed-foods-linked-to-cognitive-decline-dementia/",
+      "originalUrl": "https://nypost.com/2022/12/06/ultra-processed-foods-linked-to-cognitive-decline-dementia/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/09/repeatable-secure-kubeflow.jpg",
-          "width": 1534,
-          "height": 766,
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/12/bad-food-comp.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2022/12/06/ultra-processed-foods-linked-to-cognitive-decline-dementia/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/12/06/ultra-processed-foods-linked-to-cognitive-decline-dementia/amp/",
+      "publishedDateTime": "2022-12-06T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-voters-deserve-to-know-more-about-the-cognitive-health-of-candidates.md",
+      "title": "Voters deserve to know more about the cognitive health of candidates",
+      "excerpt": "Given their importance, both to voters and ability to perform the tasks of governmental office, politicians must share more about their cognitive health to ensure that voters make informed decisions about who they choose as their representatives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.michigandaily.com/opinion/columns/voters-deserve-to-know-more-about-the-cognitive-health-of-candidates/",
+      "originalUrl": "https://www.michigandaily.com/opinion/columns/voters-deserve-to-know-more-about-the-cognitive-health-of-candidates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.michigandaily.com/wp-content/uploads/2022/12/LS-02.jpg",
+          "width": 700,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.michigandaily.com/opinion/columns/voters-deserve-to-know-more-about-the-cognitive-health-of-candidates/",
+      "cdnAmpWebUrl": "https://www-michigandaily-com.cdn.ampproject.org/c/s/www.michigandaily.com/opinion/columns/voters-deserve-to-know-more-about-the-cognitive-health-of-candidates/",
+      "publishedDateTime": "2022-12-06T09:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Michigan Daily",
+        "domain": "michigandaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-ahai-the-ai-based-multi-symptom-check-and-therapy-recommendation-platform-to-be-released-in-the-first-quarter-of-2023.md",
+      "title": "AHAI, the AI Based Multi Symptom Check and Therapy Recommendation Platform to be Released in the First Quarter of 2023",
+      "excerpt": "LAS VEGAS, NV / ACCESSWIRE / / Alternative Health, Inc, the US based medical company announced that it will be releasing its evidence based diagnostic and recommendation platform to the public in the",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/12/ac29979799/ahai-the-ai-based-multi-symptom-check-and-therapy-recommendation-platform-to-be-released-in-the-f",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/ac29979799/ahai-the-ai-based-multi-symptom-check-and-therapy-recommendation-platform-to-be-released-in-the-f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.accesswire.com/users/newswire/images/730462/kpvw3onlpimll72idprqlvo2pftwml3r1hdijq68xwcg9rmzcm.jpg",
+          "width": 1600,
+          "height": 948,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29979799",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29979799",
+      "publishedDateTime": "2022-12-06T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-hearing-aids-may-help-prevent-cognitive-decline-study-says.md",
+      "title": "Hearing aids may help prevent cognitive decline, study says",
+      "excerpt": "(CNN) - A new study indicates that hearing aids may help delay or reduce dementia and cognitive decline. The findings were published Monday in JAMA Neurology. Research has shown that hearing loss ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ky3.com/2022/12/06/hearing-aids-may-help-prevent-cognitive-decline-study-says/",
+      "originalUrl": "https://www.ky3.com/2022/12/06/hearing-aids-may-help-prevent-cognitive-decline-study-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T08:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KY3",
+        "domain": "ky3.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-80-ft-object-discovered-by-beachgoers-in-florida-prompts-investigation-it-is-a-mystery.md",
+      "title": "80-Ft. Object Discovered by Beachgoers in Florida Prompts Investigation: 'It Is a Mystery'",
+      "excerpt": "County officials said the approximately 80-foot wooden and metal object was unearthed, in part, due to erosion caused by Hurricanes Ian in September and Nicole in October, the Times reported.",
+      "sourceUrl": null,
+      "webUrl": "https://people.com/human-interest/mystery-object-discovered-beachgoers-florida-prompts-investigation/",
+      "originalUrl": "https://people.com/human-interest/mystery-object-discovered-beachgoers-florida-prompts-investigation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://people.com/thmb/vQZM8K07oCyC9v8ACI53v1JEhzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(644x449:646x451)/beach-mystery-object-120522-b5e5810f0d0c4dd5966030b789de8fa2.jpg",
+          "width": 1500,
+          "height": 1000,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -78,14 +327,143 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-09T09:21:14-07:00",
+      "publishedDateTime": "2022-12-06T08:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
+        "name": "People",
+        "domain": "people.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-locomotion-modeling-evolves-with-brain-inspired-neural-networks.md",
+      "title": "Locomotion modeling evolves with brain-inspired neural networks",
+      "excerpt": "A team of scientists at EPFL have built a new neural network system that can help understand how animals adapt their movement to changes in their own body and to create more powerful artificial intelligence systems.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-12-locomotion-evolves-brain-inspired-neural-networks.html",
+      "originalUrl": "https://techxplore.com/news/2022-12-locomotion-evolves-brain-inspired-neural-networks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/locomotion-modeling-ev.jpg",
+          "width": 621,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-12-locomotion-evolves-brain-inspired-neural-networks.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-locomotion-evolves-brain-inspired-neural-networks.amp",
+      "publishedDateTime": "2022-12-06T07:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-study-hearing-aids-may-help-slow-cognitive-decline.md",
+      "title": "Study: Hearing aids may help slow cognitive decline",
+      "excerpt": "A new study indicates that hearing aids may help delay or reduce dementia and cognitive decline. The findings were published Monday in the medical journal JAMA Neurology. Research has shown that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kshb.com/news/national/study-hearing-aids-may-help-slow-cognitive-decline",
+      "originalUrl": "https://www.kshb.com/news/national/study-hearing-aids-may-help-slow-cognitive-decline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/bf26fc3/2147483647/strip/true/crop/5000x2813+0+261/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F05%2Faf%2F9457e6804e6cb66a3c6e41cdead0%2Fap22334703657980.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kshb.com/news/national/study-hearing-aids-may-help-slow-cognitive-decline?_amp=true",
+      "cdnAmpWebUrl": "https://www-kshb-com.cdn.ampproject.org/c/s/www.kshb.com/news/national/study-hearing-aids-may-help-slow-cognitive-decline?_amp=true",
+      "publishedDateTime": "2022-12-06T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSHB Kansas City",
+        "domain": "kshb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-lattice-semiconductor-expands-to-mid-range-fpgas-goes-after-intels-arria-and-amds-xilinx-offerings.md",
+      "title": "Lattice Semiconductor expands to mid-range FPGAs, goes after Intel's Arria and AMD's Xilinx offerings",
+      "excerpt": "When you have a product that's challenging to explain, it often helps to give simple examples to help people understand what it does and why it",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/96873-lattice-semiconductor-expands-mid-range-fpgas-goes-after.html",
+      "originalUrl": "https://www.techspot.com/news/96873-lattice-semiconductor-expands-mid-range-fpgas-goes-after.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/12/2022-12-06-image-6.jpg",
+          "width": 2400,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T07:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -101,27 +479,60 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
+        "Google AI",
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-09-09-deep-dive-how-ai-content-generators-work.md",
-      "title": "Deep Dive: How AI content generators work",
-      "excerpt": "AI content generators cannot be subjective, no matter how great the ML training using structured data is, but their uses can be additive to marketing teams.",
+      "path": "_news/2022-12-06-five9-elevates-omni-channel-customer-engagement-with-innovations-in-digital-self-service-ai-design-and-analytics.md",
+      "title": "Five9 Elevates Omni-Channel Customer Engagement with Innovations in Digital Self-Service, AI Design, and Analytics",
+      "excerpt": "\"Customers have high expectations when they contact their favorite brands, regardless of whether they employ self-service, digital or voice,\" explains Dan Miller, Lead Analyst at Opus Research. \"Too often,",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/deep-dive-how-ai-content-generators-work/",
-      "originalUrl": "https://venturebeat.com/ai/deep-dive-how-ai-content-generators-work/",
+      "webUrl": "https://technews.tmcnet.com/news/2022/12/06/9725221.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/12/06/9725221.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-if-you-want-to-improve-your-cognitive-abilities-learn-piano.md",
+      "title": "If you want to improve your cognitive abilities, learn piano",
+      "excerpt": "“We know that playing and listening to music often bring joy to our lives, but with this study, we were interested in learning more about the direct effects a short period of music learning can have on our cognitive abilities,” commented Petrin",
+      "sourceUrl": null,
+      "webUrl": "https://www.biotechniques.com/neuroscience/if-you-want-to-improve-your-cognitive-abilities-learn-the-piano/",
+      "originalUrl": "https://www.biotechniques.com/neuroscience/if-you-want-to-improve-your-cognitive-abilities-learn-the-piano/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/02/ai-marketing-shutterstock_741922060.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 667,
+          "url": "https://www.biotechniques.com/wp-content/uploads/2022/12/piano.png",
+          "width": 602,
+          "height": 258,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -129,9 +540,277 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/deep-dive-how-ai-content-generators-work/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deep-dive-how-ai-content-generators-work/amp/",
-      "publishedDateTime": "2022-09-09T09:10:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BioTechniques",
+        "domain": "biotechniques.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-neureality-lands-35m-to-bring-ai-accelerator-chips-to-market.md",
+      "title": "NeuReality lands $35M to bring AI accelerator chips to market",
+      "excerpt": "NeuReality, a startup developing AI inferencing accelerator chips, has raised $35 million in new venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/06/neureality-ai-accelerator-chips-startup-raises-35m/",
+      "originalUrl": "https://techcrunch.com/2022/12/06/neureality-ai-accelerator-chips-startup-raises-35m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/CircuitBoard-e1656949944955.jpg?resize=1200,600",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/06/neureality-ai-accelerator-chips-startup-raises-35m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/06/neureality-ai-accelerator-chips-startup-raises-35m/amp/",
+      "publishedDateTime": "2022-12-06T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-robo-truckers-and-the-ai-fueled-future-of-transport.md",
+      "title": "Robo Truckers and the AI-Fueled Future of Transport",
+      "excerpt": "Concerns about artificial intelligence replacing long-haul drivers are not new, but the real story is more nuanced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/",
+      "originalUrl": "https://www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/638e52b0fefa29ce257ada8f/master/pass/artificial-intelligence-trucker-transport.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/amp",
+      "publishedDateTime": "2022-12-06T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-lattice-semi-expands-to-mid-range-fpgas-with-avant-line.md",
+      "title": "Lattice Semi Expands To Mid-Range FPGAs With Avant Line",
+      "excerpt": "Lattice Semiconductor launched a new mid-range line of FPGAs dubbed Avant, significantly growing its potential market and morphing itself into a more complete FPGA provider. Read more here.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4562550-lattice-semi-mid-range-fpga-avant",
+      "originalUrl": "https://seekingalpha.com/article/4562550-lattice-semi-mid-range-fpga-avant",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1350814521/image_1350814521.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-coreweave-secures-100m-to-expand-nvidia-hgx-h100-gpu-offering-usher-in-new-era-of-ai-innovation.md",
+      "title": "CoreWeave Secures $100M to Expand NVIDIA HGX H100 GPU Offering, Usher in New Era of AI Innovation",
+      "excerpt": "NVIDIA HGX H100 supercomputing - joining Amazon, Google, Microsoft and Oracle as the initial cloud providers to supply the trailblazing AI platform. CoreWeave is on pace to grow year-over-year revenue by over 450%,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-coreweave-secures-100m-expand-nvidia-hgx-h100-gpu-/2022/12/06/9724756.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-coreweave-secures-100m-expand-nvidia-hgx-h100-gpu-/2022/12/06/9724756.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T05:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-invea-therapeutics-appoints-mr-jason-fenton-to-its-board-of-directors.md",
+      "title": "Invea Therapeutics Appoints Mr. Jason Fenton to Its Board of Directors",
+      "excerpt": "Mr. Fenton augments board expertise as the Company readies for Phase 1b/2 execution of lead program targeting mast cell biology",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/invea-therapeutics-appoints-mr-jason-fenton-to-its-board-of-directors/article_a33bea0c-d4c9-53e7-8cb8-e2a008487595.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/invea-therapeutics-appoints-mr-jason-fenton-to-its-board-of-directors/article_a33bea0c-d4c9-53e7-8cb8-e2a008487595.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T04:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-responsible-ai-is-a-data-protection-necessity-protopia-ai-raises-6m-in-funding.md",
+      "title": "Responsible AI is a data protection necessity, Protopia AI raises $6M in funding",
+      "excerpt": "Protopia AI announces it has raised $6 million in seed funding for a responsible AI solution designed to anonymize personal data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/responsible-ai-security/",
+      "originalUrl": "https://venturebeat.com/security/responsible-ai-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/data-privacy.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/responsible-ai-security/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/responsible-ai-security/amp/",
+      "publishedDateTime": "2022-12-06T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -154,28 +833,25 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-09-09-beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests.md",
-      "title": "Beyond Mere Efficiency: Artificial Intelligence is Transforming Culture, Study Suggests",
-      "excerpt": "Executives who saw significant financial benefits from their AI initiatives were 10x more likely to change how they measure success than those who saw no such benefits.",
+      "path": "_news/2022-12-06-singapore-based-financial-admin-platform-osome-raises-25m-series-b.md",
+      "title": "Singapore-based financial admin platform Osome raises $25M Series B",
+      "excerpt": "Osome is a corporate “super app” that helps business owners with administrative tasks like payroll, accounting and tax reporting. The company announced today it has raised a $25 million Series B from Illuminate Financial,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/",
+      "webUrl": "https://techcrunch.com/2022/12/06/osome-series-b/",
+      "originalUrl": "https://techcrunch.com/2022/12/06/osome-series-b/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/631b608de551689b89d7038c/0x0.jpg?format=jpg&width=1200",
+          "url": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1327236972.jpg?resize=1200,801",
           "width": 1200,
-          "height": 800,
+          "height": 801,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -183,16 +859,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/amp/",
-      "publishedDateTime": "2022-09-09T08:58:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2022/12/06/osome-series-b/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/06/osome-series-b/amp/",
+      "publishedDateTime": "2022-12-06T03:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -208,74 +884,40 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-indika-ai-bets-on-synthetic-data-to-overcome-challenges-of-real-world-data.md",
-      "title": "Indika AI bets on synthetic data to overcome challenges of real-world data",
-      "excerpt": "It is also improving fraud detection in the fintech industry and training language systems. High-quality datasets are required to train artificial intelligence (AI) solutions, so that the ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2022/09/indika-ai-synthetic-data-platform-artificial-intelligence/amp",
-      "originalUrl": "https://yourstory.com/2022/09/indika-ai-synthetic-data-platform-artificial-intelligence/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/d99b1110116911ed9e63f54395117598/shutterstock1279483576-1662557345744.jpeg ",
-          "width": 5500,
-          "height": 4125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2022/09/indika-ai-synthetic-data-platform-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/09/indika-ai-synthetic-data-platform-artificial-intelligence/amp",
-      "publishedDateTime": "2022-09-09T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YourStory",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI in Finance",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-09-09-hisense-selects-synaptics-dbm10l-processor-for-first-ai-enabled-always-on-voice-remote-control.md",
-      "title": "Hisense Selects Synaptics' DBM10L Processor For First AI-Enabled Always-On Voice Remote Control",
-      "excerpt": "Synaptics ® Incorporated (Nasdaq: SYNA) today announced that Hisense, a global leader in consumer electronics and home appliances, selected the DBM10L with its dedicated neural processing unit (NPU) to implement the first artificial intelligence (AI)-enabled always-on voice (AOV) remote control unit (RCU),",
+      "path": "_news/2022-12-06-samsung-announces-partnership-with-naver-to-develop-next-gen-ai-chips.md",
+      "title": "Samsung announces partnership with Naver to develop next-gen AI chips",
+      "excerpt": "Samsung Electronics on Tuesday announced that it has partnered with internet portal giant Naver Corporation to develop next-generation artificial intelligence (AI) chips",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/09/09/9670608.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/09/09/9670608.htm",
+      "webUrl": "https://www.business-standard.com/article/technology/samsung-announces-partnership-with-naver-to-develop-next-gen-ai-chips-122120600618_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/samsung-announces-partnership-with-naver-to-develop-next-gen-ai-chips-122120600618_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 114,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-12/05/full/1670217737-84.jpg?im=Resize,width=480",
+          "width": 480,
+          "height": 359,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-09T08:22:00-07:00",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/samsung-announces-partnership-with-naver-to-develop-next-gen-ai-chips-122120600618_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/samsung-announces-partnership-with-naver-to-develop-next-gen-ai-chips-122120600618_1.html",
+      "publishedDateTime": "2022-12-06T02:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Business Standard",
+        "domain": "business-standard.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -285,26 +927,26 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-09-09-tech-war-shanghai-ai-chip-maker-with-disgraced-chairman-is-now-chinas-new-hope-in-race-to-catch-up-with-nvidia.md",
-      "title": "Tech war: Shanghai AI chip maker with disgraced chairman is now China’s new hope in race to catch up with Nvidia",
-      "excerpt": "Nvidia, the leading global supplier of advanced GPUs, was told by the US to stop exporting two of its high-end artificial intelligence (AI) chips to China, prompting Chinese start-ups to fast ...",
+      "path": "_news/2022-12-06-taiwans-tsmc-will-make-3-nanometer-chips-in-12b-factory-in-arizona.md",
+      "title": "Taiwan’s TSMC will make 3-nanometer chips in $12B factory in Arizona",
+      "excerpt": "Check out the on-demand sessions from the Low-Code/No-Code Summit to learn how to successfully innovate and achieve efficiency by upskilling and scaling citizen developers. Watch now. Taiwanese chipmaker TSMC announced with President Joe Biden that it will build a $12 billion factory in Arizona where it will build three-nanometer chips.",
       "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-war/article/3191978/tech-war-shanghai-ai-chip-maker-disgraced-chairman-now-chinas-new",
-      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3191978/tech-war-shanghai-ai-chip-maker-disgraced-chairman-now-chinas-new",
+      "webUrl": "https://venturebeat.com/data-infrastructure/taiwans-tsmc-will-make-3-nanometer-chips-in-12b-factory-in-arizona/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/taiwans-tsmc-will-make-3-nanometer-chips-in-12b-factory-in-arizona/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/09/09/aa9945a1-a557-4eec-a64b-9316da5ae8d6_f414051d.jpg?itok=bnA6W9VB&v=1662717857",
+          "url": "https://venturebeat.com/wp-content/uploads/2019/07/tsmc-e1605303213438.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 630,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -312,16 +954,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-09T05:18:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/data-infrastructure/taiwans-tsmc-will-make-3-nanometer-chips-in-12b-factory-in-arizona/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/taiwans-tsmc-will-make-3-nanometer-chips-in-12b-factory-in-arizona/amp/",
+      "publishedDateTime": "2022-12-06T02:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -342,21 +984,21 @@
       ]
     },
     {
-      "path": "_news/2022-09-09-artificial-intelligence-could-be-a-great-equalizer.md",
-      "title": "Artificial Intelligence Could Be a Great Equalizer",
-      "excerpt": "The benefits of AI will accrue not only to the wealthy and technologists but also to the poor and disadvantaged.",
+      "path": "_news/2022-12-06-ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts.md",
+      "title": "Uber’s facial recognition is locking Indian drivers out of their accounts",
+      "excerpt": "Srikanth is far from the only worker in India who must interact with facial recognition technology. In addition to the country’s 600,000 Uber drivers, many others work for the homegrown ride-sharing platform Ola and for startups such as Swiggy, Zomato, and Urban Company. All ask their platform workers to upload selfies for logins or verifications.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/artificial-intelligence-couldbe-agreat-equalizer/2022/09/09/bd246350-3037-11ed-bcc6-0874b26ae296_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/artificial-intelligence-couldbe-agreat-equalizer/2022/09/09/bd246350-3037-11ed-bcc6-0874b26ae296_story.html",
+      "webUrl": "https://www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/",
+      "originalUrl": "https://www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 82,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/12/Adnan-Taqi2.jpg?w=3000",
+          "width": 3000,
+          "height": 1832,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -364,67 +1006,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-09T05:04:00-07:00",
+      "ampWebUrl": "https://www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/amp/",
+      "publishedDateTime": "2022-12-06T02:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-can-githubs-copilot-ai-put-the-fun-back-into-being-a-developer.md",
-      "title": "Can GitHub's Copilot AI put the fun back into being a developer?",
-      "excerpt": "GitHub researchers compare how fast developers can code with Copilot's AI assistance versus a group relying on standard developer practices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/can-githubs-copilot-ai-put-the-fun-back-into-being-a-developer/",
-      "originalUrl": "https://www.zdnet.com/article/can-githubs-copilot-ai-put-the-fun-back-into-being-a-developer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/e7f41c23c78ae961de68476b633faee24029f645/2022/01/24/fdda2feb-eeb5-434d-8127-b3c46da6e7a5/gettyimages-666009646.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/can-githubs-copilot-ai-put-the-fun-back-into-being-a-developer/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-githubs-copilot-ai-put-the-fun-back-into-being-a-developer/",
-      "publishedDateTime": "2022-09-09T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -434,25 +1023,27 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "Computer Vision",
+        "AWS AI"
       ]
     },
     {
-      "path": "_news/2022-09-09-why-iot-is-the-next-frontier-for-ai-and-prescriptive-analytics.md",
-      "title": "Why IoT Is The Next Frontier For AI And Prescriptive Analytics",
-      "excerpt": "Guy, a recognized industry thought leader, is the president of SmartSense, IoT solutions for the enterprise. In recent years, artificial intelligence (AI) and prescriptive analytics have been woven into the fabric of business operations across multiple verticals,",
+      "path": "_news/2022-12-06-artificial-intelligence-machine-learning-and-the-future-of-entertainment.md",
+      "title": "Artificial Intelligence, Machine Learning, And The Future Of Entertainment",
+      "excerpt": "By 2030, the AI in media and entertainment industry is set to be worth a staggering $99.3 billion with the current compound annual growth rate being 26%.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/why-iot-is-the-next-frontier-for-ai-and-prescriptive-analytics/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/why-iot-is-the-next-frontier-for-ai-and-prescriptive-analytics/",
+      "webUrl": "https://www.forbes.com/sites/joshwilson/2022/12/06/artificial-intelligence-machine-learning-and-the-future-of-entertainment/",
+      "originalUrl": "https://www.forbes.com/sites/joshwilson/2022/12/06/artificial-intelligence-machine-learning-and-the-future-of-entertainment/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 147,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f8ef32c53de1add7201f44a/0x0.jpg?format=jpg&width=1200",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/638f08b7ec3141a8f50d997c/0x0.jpg?format=jpg&width=1200",
           "width": 1200,
-          "height": 675,
+          "height": 814,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -460,9 +1051,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/why-iot-is-the-next-frontier-for-ai-and-prescriptive-analytics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/09/why-iot-is-the-next-frontier-for-ai-and-prescriptive-analytics/amp/",
-      "publishedDateTime": "2022-09-09T04:15:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/joshwilson/2022/12/06/artificial-intelligence-machine-learning-and-the-future-of-entertainment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joshwilson/2022/12/06/artificial-intelligence-machine-learning-and-the-future-of-entertainment/amp/",
+      "publishedDateTime": "2022-12-06T01:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -470,125 +1061,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-bitcode-ai-review-scam-or-legit.md",
-      "title": "Bitcode AI Review – Scam or Legit?",
-      "excerpt": "Once you are happy with everything, opt to begin live trading, and the robot will immediately start scouring the market for opportunities. In summary, this Bitcode AI review has taken a look at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.business2community.com/cryptocurrency/bitcoin-robots/bitcode-ai-review",
-      "originalUrl": "https://www.business2community.com/cryptocurrency/bitcoin-robots/bitcode-ai-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-09T03:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business 2 Community",
-        "domain": "business2community.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-cognitive-overload-the-hidden-cybersecurity-threat.md",
-      "title": "Cognitive Overload: The hidden cybersecurity threat",
-      "excerpt": "Very quickly, we’ve seen this always-on cybersecurity environment leads to burnout, and there’s one major contributor: cognitive overload ... specific products and services to secure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmagazine.com/perspective/threats/cognitive-overload-the-hidden-cybersecurity-threat%EF%BF%BC",
-      "originalUrl": "https://www.scmagazine.com/perspective/threats/cognitive-overload-the-hidden-cybersecurity-threat%EF%BF%BC",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.scmagazine.com/wp-content/uploads/2022/09/MikeSaxton-e1662680296351.jpg",
-          "width": 1280,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SC Magazine",
-        "domain": "scmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-neural-network-software-market-growth-forecast-2022-2028-research-report-by-gmdh-artificial-intelligence-techniques-oracle.md",
-      "title": "Neural Network Software Market Growth Forecast 2022-2028 Research Report | By -GMDH, Artificial Intelligence Techniques, Oracle",
-      "excerpt": "Download Free Sample Neural Network Software Market report  The worldwide Neural Network Software Market is expected to grow at a booming CAGR of 2022-2030, rising from USD billion in 2021 to USD billion in 2028.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-growth-forecast-2022-2028-research-report-by--gmdh-artificial-intelligence-techniques-oracle-2022-09-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-growth-forecast-2022-2028-research-report-by--gmdh-artificial-intelligence-techniques-oracle-2022-09-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T22:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -605,254 +1077,26 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-artificial-intelligence-and-the-future-of-marketing.md",
-      "title": "Artificial Intelligence And The Future Of Marketing",
-      "excerpt": "Artificial intelligence is currently transforming marketing. Here, we look at the most exciting opportunities when it comes to using AI in marketing and explore where they are already being tapped.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/631ac44c2dd319e54f3d1994/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/amp/",
-      "publishedDateTime": "2022-09-08T21:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
-        "AI in Marketing",
-        "AI in Healthcare",
         "AI in Autos"
       ]
     },
     {
-      "path": "_news/2022-09-09-city-digital-twins-help-train-deep-learning-models-to-separate-building-facades.md",
-      "title": "City digital twins help train deep learning models to separate building facades",
-      "excerpt": "Researchers from Osaka University have found a way to use the images that were automatically generated by digital city twins to train deep learning models that can efficiently analyze images of ...",
+      "path": "_news/2022-12-06-artificial-intelligence-ai-in-fintech-market-trends-2023-industry-size-segments-share-key-players-and-growth-factor-analysis-by-2026.md",
+      "title": "Artificial Intelligence (AI) in Fintech Market Trends 2023 Industry Size, Segments, Share, Key Players and Growth Factor Analysis by 2026",
+      "excerpt": "Artificial Intelligence (AI) in Fintech Market report presents a comprehensive overview, market shares, and growth opportunities of Artificial Intelligence (AI) in Fintech market by product type ...",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220908100031.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220908100031.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T20:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-teen-scientists-set-for-swiss-robotics-contest.md",
-      "title": "Teen scientists set for Swiss robotics contest",
-      "excerpt": "It is being controlled by java coding language keyed on a driver hub and a gaming pad that controls its different functions. Building, or rather, assembling robots is all fun and games to bring ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.the-star.co.ke/sasa/lifestyle/2022-09-09-teen-scientists-set-for-swiss-robotics-contest/",
-      "originalUrl": "https://www.the-star.co.ke/sasa/lifestyle/2022-09-09-teen-scientists-set-for-swiss-robotics-contest/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T20:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "the-star.co.ke",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-poor-periodontal-health-linked-to-cognitive-decline-dementia.md",
-      "title": "Poor Periodontal Health Linked to Cognitive Decline, Dementia",
-      "excerpt": "THURSDAY, Sept. 8, 2022 (HealthDay News) -- Poor periodontal health and tooth loss are associated with increased risks for cognitive decline and dementia, according to a review published online Sept.",
-      "sourceUrl": null,
-      "webUrl": "https://journalstar.com/lifestyles/health-med-fit/poor-periodontal-health-linked-to-cognitive-decline-dementia/article_a2eb218e-9904-5944-98ad-ad712bb4dd32.html",
-      "originalUrl": "https://journalstar.com/lifestyles/health-med-fit/poor-periodontal-health-linked-to-cognitive-decline-dementia/article_a2eb218e-9904-5944-98ad-ad712bb4dd32.html",
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-fintech-market-trends-2023-industry-size-segments-share-key-players-and-growth-factor-analysis-by-2026",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-fintech-market-trends-2023-industry-size-segments-share-key-players-and-growth-factor-analysis-by-2026",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/b/80/b8048e2b-a168-5074-ab2b-c2034fb52437/631a909434446.image.jpg",
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/10/Twitter-staff-cuts-AFP-1K-01-600x337.jpg",
           "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://journalstar.com/lifestyles/health-med-fit/poor-periodontal-health-linked-to-cognitive-decline-dementia/article_a2eb218e-9904-5944-98ad-ad712bb4dd32.amp.html",
-      "cdnAmpWebUrl": "https://journalstar-com.cdn.ampproject.org/c/s/journalstar.com/lifestyles/health-med-fit/poor-periodontal-health-linked-to-cognitive-decline-dementia/article_a2eb218e-9904-5944-98ad-ad712bb4dd32.amp.html",
-      "publishedDateTime": "2022-09-08T18:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lincoln Journal Star",
-        "domain": "journalstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks.md",
-      "title": "Neural Magic's sparsity, Nvidia's Hopper, and Alibaba's network among firsts in latest MLPerf AI benchmarks",
-      "excerpt": "The latest benchmark tests of chips for AI showed new approaches to dealing with ever-increasing scale, including clusters of machines, and sparsity, the pruning of neural nets to make them more efficient.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks/",
-      "originalUrl": "https://www.zdnet.com/article/neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/165cf796993b915bf3d6ac71f4ffcb91020a663b/2022/09/08/fa74566e-d9f2-440f-b2cd-b9565104404e/nvidia-hopper-die-crop-for-twitter.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks/",
-      "publishedDateTime": "2022-09-08T17:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-arm-ibm-team-on-low-power-analog-ai-chip.md",
-      "title": "ARM, IBM team on low power analog AI chip",
-      "excerpt": "Researchers at ARM and IBM have developed a 14nm analog compute in memory chip for low power always on machine learning. These always-on perception tasks in IoT applications, dubbed TinyML, require very high energy efficiency. Analog compute-in-memory (CiM ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/news/52639/arm-ibm-low-power-analog-ai-chip.html",
-      "originalUrl": "https://www.design-reuse.com/news/52639/arm-ibm-low-power-analog-ai-chip.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.design-reuse.com/news_img2/homepage52639/ibm.jpg",
-          "width": 600,
-          "height": 400,
+          "height": 337,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -862,132 +1106,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T17:00:00-07:00",
+      "publishedDateTime": "2022-12-06T00:37:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-multiple-cognitive-abilities-may-be-empirically-measured-from-complex-video-game-experiences.md",
-      "title": "Multiple cognitive abilities may be empirically measured from complex video game experiences",
-      "excerpt": "Parents and pundits may no longer argue that gamers are indulging in brainless activities in front of their screens. And gamers may finally feel a sense of vindication. Kyoto University and BonBon ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-09-multiple-cognitive-abilities-empirically-complex.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-09-multiple-cognitive-abilities-empirically-complex.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/gamers-can-have-their.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-09-multiple-cognitive-abilities-empirically-complex.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-multiple-cognitive-abilities-empirically-complex.amp",
-      "publishedDateTime": "2022-09-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-shenzhen-accelerates-chinas-driverless-car-dreams.md",
-      "title": "Shenzhen accelerates China’s driverless car dreams",
-      "excerpt": "If the car is completely driverless, the owner of the vehicle will be responsible. If a defect causes an accident, the car owner can seek compensation from the manufacturer. “If you want more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asahi.com/ajw/articles/14684738",
-      "originalUrl": "https://www.asahi.com/ajw/articles/14684738",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://p.potaufeu.asahi.com/0899-p/picture/26807123/58eda30a43b60ca556cbcb784174712a.jpg",
-          "width": 660,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "朝日新聞社",
-        "domain": "asahi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-uk-based-reall-invests-in-syntellect-global-affordable-housing-fintech-startup-in-a-pre-series-a-round.md",
-      "title": "UK-based Reall invests in Syntellect - global affordable housing fintech startup in a Pre Series A Round",
-      "excerpt": "UK-based Reall invests in Syntellect - global affordable housing fintech startup in a Pre Series A Round. Updated:",
-      "sourceUrl": null,
-      "webUrl": "https://www.ptinews.com/pti/uk-based-reall-invests-in-syntellect-global-affordable-housing-fintech-startup-in-a-pre-series-a-round/57377.html",
-      "originalUrl": "https://www.ptinews.com/pti/uk-based-reall-invests-in-syntellect-global-affordable-housing-fintech-startup-in-a-pre-series-a-round/57377.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PTI",
-        "domain": "ptinews.com",
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -998,127 +1121,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-can-artificial-intelligence-help-reduce-side-effects-of-common-drugs.md",
-      "title": "Can Artificial Intelligence Help Reduce Side Effects of Common Drugs?",
-      "excerpt": "A new artificial intelligence tool developed by researchers is designed to calculate which drugs are more likely to experience adverse anticholinergic effects on the body and brain. These ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/can-artificial-intelligence-help-reduce-common-drug-side-effects-208538-1.htm",
-      "originalUrl": "https://www.medindia.net/news/can-artificial-intelligence-help-reduce-common-drug-side-effects-208538-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/asthma-drugs.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/can-artificial-intelligence-help-reduce-common-drug-side-effects-208538-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-artificial-intelligence-help-reduce-common-drug-side-effects-208538-1.htm",
-      "publishedDateTime": "2022-09-08T16:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-tang-yu-an-ai-powered-robot-named-ceo-of-a-chinese-company.md",
-      "title": "Tang Yu, An AI-Powered Robot, Named CEO Of A Chinese Company",
-      "excerpt": "The metaverse firm has chosen an AI-powered virtual humanoid robot as its chief executive officer (CEO). The official announcement was made last week. According to a report in UK-based The Metro ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/tang-yu-an-ai-powered-robot-named-ceo-of-a-chinese-company-3326427",
-      "originalUrl": "https://www.ndtv.com/world-news/tang-yu-an-ai-powered-robot-named-ceo-of-a-chinese-company-3326427",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2021-12/g3gv78ps_artificial-intelligence-generic-pixabay_625x300_11_December_21.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/tang-yu-an-ai-powered-robot-named-ceo-of-a-chinese-company-3326427/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/tang-yu-an-ai-powered-robot-named-ceo-of-a-chinese-company-3326427/amp/1",
-      "publishedDateTime": "2022-09-08T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-an-ai-expert-on-how-fn-meka-is-just-the-beginning-of-ai-rappers.md",
-      "title": "An AI Expert On How FN Meka Is Just the Beginning of AI Rappers",
-      "excerpt": "AI expert Charles L. Isbell, Jr. spoke with us about the ethics behind FN Meka, and how AI rappers — and AI artists in general — are going to become more prevalent as technology evolves. In less than two weeks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.okayplayer.com/music/fn-meka-ai-rapper-tiktok-controversy.html",
-      "originalUrl": "https://www.okayplayer.com/music/fn-meka-ai-rapper-tiktok-controversy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Okayplayer",
-        "domain": "okayplayer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

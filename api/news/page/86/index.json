@@ -2,12 +2,12 @@
   "page": 86,
   "value": [
     {
-      "path": "_news/2023-02-05-an-interview-with-ai-what-chatgpt-says-about-itself.md",
-      "title": "An interview with AI: What ChatGPT says about itself",
-      "excerpt": "To find out how good ChatGPT really is — and if I'll have a job by this time next year — I decided to give it a test drive, attempting to get as close as possible to interviewing it in the way I would any other source.",
+      "path": "_news/2023-02-06-openai-release-classifier-to-identify-text-written-by-ai.md",
+      "title": "OpenAI Release Classifier to Identify Text Written by AI",
+      "excerpt": "A new tool can reveal whether writing has been made by a human or AI. The tool could help mitigate disputes and identify misinformation.",
       "sourceUrl": null,
-      "webUrl": "https://www.aol.com/finance/interview-ai-chatgpt-says-itself-135423708.html",
-      "originalUrl": "https://www.aol.com/finance/interview-ai-chatgpt-says-itself-135423708.html",
+      "webUrl": "https://techreport.com/software/3491131/openai-release-classifier-to-identify-text-written-by-ai/",
+      "originalUrl": "https://techreport.com/software/3491131/openai-release-classifier-to-identify-text-written-by-ai/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -17,11 +17,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T07:54:00-08:00",
+      "publishedDateTime": "2023-02-06T06:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
+        "name": "The Tech Report",
+        "domain": "techreport.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -36,12 +36,12 @@
       ]
     },
     {
-      "path": "_news/2023-02-05-ai-art-accidentally-wins-destiny-2s-art-of-the-week-fanart-contest.md",
-      "title": "AI Art Accidentally Wins Destiny 2’s ‘Art Of The Week’ Fanart Contest",
-      "excerpt": "The Destiny 2 community has run into a situation where a piece of AI art actually won one of the slot’s in Bungie’s “Art of the Week” contest in the TWAB.",
+      "path": "_news/2023-02-06-big-tech-companies-use-cloud-computing-arms-to-pursue-alliances-with-ai-groups.md",
+      "title": "Big Tech companies use cloud computing arms to pursue alliances with AI groups",
+      "excerpt": "The deal cemented Microsoft’s position as exclusive infrastructure provider to one of the world’s leading AI startups. Chief executive Satya Nadella claimed that Microsoft had built a supercomputer to handle the OpenAI work,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/paultassi/2023/02/05/ai-art-accidentally-wins-destiny-2s-art-of-the-week-fanart-contest/",
-      "originalUrl": "https://www.forbes.com/sites/paultassi/2023/02/05/ai-art-accidentally-wins-destiny-2s-art-of-the-week-fanart-contest/",
+      "webUrl": "https://arstechnica.com/tech-policy/2023/02/big-tech-companies-use-cloud-computing-arms-to-pursue-alliances-with-ai-groups/2/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2023/02/big-tech-companies-use-cloud-computing-arms-to-pursue-alliances-with-ai-groups/2/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -49,16 +49,16 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2023/02/05/ai-art-accidentally-wins-destiny-2s-art-of-the-week-fanart-contest/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/02/05/ai-art-accidentally-wins-destiny-2s-art-of-the-week-fanart-contest/amp/",
-      "publishedDateTime": "2023-02-05T06:36:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T06:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -74,16 +74,17 @@
         "news"
       ],
       "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-05-artificial-intelligence-in-south-africa-comes-with-special-dilemmas-plus-the-usual-risks.md",
-      "title": "Artificial intelligence in South Africa comes with special dilemmas – plus the usual risks",
-      "excerpt": "OPINION: Knowing what ethical risks may play out at a country level is important because it can help policymakers and organisations to adjust their risk management policies and practices accordingly,",
+      "path": "_news/2023-02-06-breaking-news-competegg-reveals-artificial-intelligence-roadmap-and-2023-growth-initiatives.md",
+      "title": "Breaking News: Compete.gg reveals artificial intelligence roadmap and 2023 growth initiatives",
+      "excerpt": "Since rebranding our Compete.gg platform last Spring, we have increased the number of game titles and enhanced the platform functionalities, allowing us to more than double the number of users,” said Leigh Hughes,",
       "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/technology/software-and-internet/artificial-intelligence-in-south-africa-comes-with-special-dilemmas-plus-the-usual-risks-3df580af-597e-452b-a9a4-072d1b3269d2",
-      "originalUrl": "https://www.iol.co.za/technology/software-and-internet/artificial-intelligence-in-south-africa-comes-with-special-dilemmas-plus-the-usual-risks-3df580af-597e-452b-a9a4-072d1b3269d2",
+      "webUrl": "https://www.financialbuzz.com/breaking-news-compete-gg-reveals-artificial-intelligence-roadmap-and-2023-growth-initiatives/",
+      "originalUrl": "https://www.financialbuzz.com/breaking-news-compete-gg-reveals-artificial-intelligence-roadmap-and-2023-growth-initiatives/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -93,11 +94,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T05:59:00-08:00",
+      "publishedDateTime": "2023-02-06T06:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Independent Online",
-        "domain": "iol.co.za",
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -107,17 +108,102 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-05-big-tech-companies-use-cloud-computing-arms-to-pursue-alliances-with-ai-groups.md",
-      "title": "Big Tech companies use cloud computing arms to pursue alliances with AI groups",
-      "excerpt": "Big Tech companies are aggressively pursuing investments and alliances with artificial intelligence start-ups through their cloud computing arms, raising regulatory questions over their role as both suppliers and competitors in the battle to develop “generative AI”.",
+      "path": "_news/2023-02-06-google-chrome-browser-gets-nvidia-rtx-gpu-tech-that-could-revolutionize-netflix-viewing.md",
+      "title": "Google Chrome browser gets Nvidia RTX GPU tech that could revolutionize Netflix viewing",
+      "excerpt": "Like DLSS, RTX Video Super Resolution (VSR) uses AI to upscale the footage and can ... Those with an RTX 2000 family GPU aren’t able to benefit – at least not initially (we’ll come back ...",
       "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/5b17d011-8e0b-4ba1-bdca-4fbfdba10363",
-      "originalUrl": "https://www.ft.com/content/5b17d011-8e0b-4ba1-bdca-4fbfdba10363",
+      "webUrl": "https://www.techradar.com/news/google-chrome-browser-gets-nvidia-rtx-gpu-tech-that-could-revolutionize-netflix-viewing",
+      "originalUrl": "https://www.techradar.com/news/google-chrome-browser-gets-nvidia-rtx-gpu-tech-that-could-revolutionize-netflix-viewing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Bb49HmrSaaKB2AstTQAioW-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-nlp-leader-humaai-launches-industrys-first-generative-ai-platform-for-life-sciences.md",
+      "title": "NLP Leader Huma.AI Launches Industry's First Generative AI Platform for Life Sciences",
+      "excerpt": "Enterprise Generative AI Focused on Life Sciences to Bring Life-Saving Drugs to Market Faster PALO ALTO, Calif. (PRWEB) 06, 2023 Huma.AI, a leading healthcare AI company, announced today the launch of",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/02/p30731429/nlp-leader-huma-ai-launches-industrys-first-generative-ai-platform-for-life-sciences",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/p30731429/nlp-leader-huma-ai-launches-industrys-first-generative-ai-platform-for-life-sciences",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30731429",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30731429",
+      "publishedDateTime": "2023-02-06T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-chinas-tianjin-to-hold-7th-world-intelligence-congress-in-may.md",
+      "title": "China's Tianjin to hold 7th World Intelligence Congress in May",
+      "excerpt": "A visitor interacts with a robot at the 6th World Intelligence Congress held in Tianjin, June 24, 2022. [Photo/Xinhua] TIANJIN - North China's Tianjin municipality is scheduled to hold the seventh World Intelligence Congress,",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202302/06/WS63e0fa40a31057c47ebad36a.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202302/06/WS63e0fa40a31057c47ebad36a.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -127,7 +213,176 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T05:59:00-08:00",
+      "publishedDateTime": "2023-02-06T05:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-machine-learning-model-predicts-physician-departure-with-ehr-use-metrics.md",
+      "title": "Machine Learning Model Predicts Physician Departure With EHR Use Metrics",
+      "excerpt": "The machine learning model found that physician demographics, EHR use metrics, and patient panel characteristics contributed most to the risk of physician departure.",
+      "sourceUrl": null,
+      "webUrl": "https://ehrintelligence.com/news/machine-learning-model-predicts-physician-departure-with-ehr-use-metrics",
+      "originalUrl": "https://ehrintelligence.com/news/machine-learning-model-predicts-physician-departure-with-ehr-use-metrics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ehrintelligence.com/news/amp/machine-learning-model-predicts-physician-departure-with-ehr-use-metrics",
+      "cdnAmpWebUrl": "https://ehrintelligence-com.cdn.ampproject.org/c/s/ehrintelligence.com/news/amp/machine-learning-model-predicts-physician-departure-with-ehr-use-metrics",
+      "publishedDateTime": "2023-02-06T05:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EHR Intelligence",
+        "domain": "ehrintelligence.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-the-download-trapped-by-grief-algorithms-and-image-ai-privacy-issues.md",
+      "title": "The Download: trapped by grief algorithms, and image AI privacy issues",
+      "excerpt": "I started Googling the stages of grief, and books and academic research about loss, from the app on my iPhone, intentionally and unintentionally consuming people’s experiences of grief and tragedy through Instagram videos,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/02/06/1067817/download-trapped-grief-algorithms-image-ai-privacy-issues/",
+      "originalUrl": "https://www.technologyreview.com/2023/02/06/1067817/download-trapped-grief-algorithms-image-ai-privacy-issues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/02/06/1067817/download-trapped-grief-algorithms-image-ai-privacy-issues/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/02/06/1067817/download-trapped-grief-algorithms-image-ai-privacy-issues/amp/",
+      "publishedDateTime": "2023-02-06T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-law-firms-developing-gpt-35-tools-for-now-they-may-be-few-and-far-between.md",
+      "title": "Law Firms Developing GPT-3.5 Tools? For Now, They May Be Few and Far Between",
+      "excerpt": "While legal tech providers are steadily releasing tools leveraging GPT-3.5, even innovative law firms who regularly develop legal tech may have a challenging time following suit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.law.com/legaltechnews/2023/02/06/law-firms-developing-gpt-3-5-tools-for-now-they-may-be-few-and-far-between/",
+      "originalUrl": "https://www.law.com/legaltechnews/2023/02/06/law-firms-developing-gpt-3-5-tools-for-now-they-may-be-few-and-far-between/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law",
+        "domain": "law.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-noozai-launches-web-based-version-of-its-app-with-enhanced-features.md",
+      "title": "NOOZ.ai Launches Web-Based Version of Its App With Enhanced Features",
+      "excerpt": "NT CONNECT, an international tech developer, today announces the launch of their app, NOOZ.ai, in a web-based format. The app's web version will be readily available through",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/02/g30729491/nooz-ai-launches-web-based-version-of-its-app-with-enhanced-features",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/g30729491/nooz-ai-launches-web-based-version-of-its-app-with-enhanced-features",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-search-wars-reignited-by-artificial-intelligence-breakthroughs.md",
+      "title": "Search wars reignited by artificial intelligence breakthroughs",
+      "excerpt": "Google, Microsoft and some start-ups plan to embed AI into their services in ways that may transform the market",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/b236b70d-82dc-40f8-84be-dc4daff151e4?shareType=nongift",
+      "originalUrl": "https://www.ft.com/content/b236b70d-82dc-40f8-84be-dc4daff151e4?shareType=nongift",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T05:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Financial Times",
@@ -145,12 +400,46 @@
       ]
     },
     {
-      "path": "_news/2023-02-05-italy-bans-ai-chatbot-replika-from-processing-user-data.md",
-      "title": "Italy Bans AI Chatbot Replika From Processing User Data",
-      "excerpt": "San Francisco-based AI chatbot maker Replika was ordered to stop using Italians’ data due to risks its ‘virtual friendship’ service could pose to minors and emotionally vulnerable people.",
+      "path": "_news/2023-02-06-ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation.md",
+      "title": "AI startup Cohere in talks to raise funding at $6 billion plus valuation",
+      "excerpt": "Toronto-based Cohere, established by former researchers at Alphabet in 2019, has quickly risen through the AI startup ranks given their intensive research background and close ties to Google, investors said.",
       "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/italy-bans-ai-chatbot-replika-from-processing-user-data",
-      "originalUrl": "https://www.pcmag.com/news/italy-bans-ai-chatbot-replika-from-processing-user-data",
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation/articleshow/97653062.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation/articleshow/97653062.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation/amp_articleshow/97653062.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation/amp_articleshow/97653062.cms",
+      "publishedDateTime": "2023-02-06T04:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-q4-2022-cloud-results-amazon-microsoft-google-earnings-show-slowing-growth.md",
+      "title": "Q4 2022 cloud results: Amazon, Microsoft, & Google earnings show slowing growth",
+      "excerpt": "Amazon, Google, and Microsoft all posted double-digit growth in their cloud divisions, but at a lower rate than prior years of breakneck growth. In its fourth-quarter earnings report, Amazon Web Services (AWS) said that it brought in $21.",
+      "sourceUrl": null,
+      "webUrl": "https://www.datacenterdynamics.com/en/news/q4-2022-cloud-results-amazon-microsoft-google-earnings-show-slowing-growth/",
+      "originalUrl": "https://www.datacenterdynamics.com/en/news/q4-2022-cloud-results-amazon-microsoft-google-earnings-show-slowing-growth/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -160,21 +449,150 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T05:42:00-08:00",
+      "publishedDateTime": "2023-02-06T04:44:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Datacenter Dynamics",
+        "domain": "datacenterdynamics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-uab-joins-eenterprise-fintech-blockchain-platform-uae-trade-connect.md",
+      "title": "UAB joins e&enterprise fintech blockchain platform UAE Trade Connect",
+      "excerpt": "UAB collaborates with the UAE Trade Connect platform to detect fraud and suspicious activities in the trade financing space",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/uab-joins-e-and-enterprise-fintech-blockchain-platform-uae-trade-connect-cuz6iguc",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/uab-joins-e-and-enterprise-fintech-blockchain-platform-uae-trade-connect-cuz6iguc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/uab-joins-e-and-enterprise-fintech-blockchain-platform-uae-trade-connect-cuz6iguc?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/uab-joins-e-and-enterprise-fintech-blockchain-platform-uae-trade-connect-cuz6iguc?amp=1",
+      "publishedDateTime": "2023-02-06T04:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches.md",
+      "title": "Goa Using Self-Driving, AI-Powered Robots As Lifeguards On Beaches",
+      "excerpt": "In a first-of-its-kind innovation, Drishti Marine, Goa's state-appointed lifeguard organisation, has introduced artificial intelligence (AI) in the form of Aurus, a self-driving robot and Triton,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/india-news/goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches-3757599",
+      "originalUrl": "https://www.ndtv.com/india-news/goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches-3757599",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/india-news/goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches-3757599/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches-3757599/amp/1",
+      "publishedDateTime": "2023-02-06T04:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-roc-and-mosip-partnership-to-bring-industry-leading-biometric-algorithms-to-digital-id-systems-worldwide.md",
+      "title": "ROC and MOSIP Partnership to Bring Industry-Leading Biometric Algorithms to Digital ID Systems Worldwide",
+      "excerpt": "Denver based technology company Rank One Computing (ROC) announced a partnership with the Modular Open Source Identity Platform (MOSIP) on January 17, 2023. The partnership will allow",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/02/n30727964/roc-and-mosip-partnership-to-bring-industry-leading-biometric-algorithms-to-digital-id-systems-wor",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/n30727964/roc-and-mosip-partnership-to-bring-industry-leading-biometric-algorithms-to-digital-id-systems-wor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30727964",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30727964",
+      "publishedDateTime": "2023-02-06T04:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-chatgpt-rival-google-invest-in-ai-start-up-as-arms-race-intensifies.md",
+      "title": "ChatGPT rival - Google invest in AI start-up as arms race intensifies",
+      "excerpt": "Google Cloud has invested US$300mln in AI company Anthropic following the popularisation of OpenAI’s ChatGPT, according to media reports. The deal will",
+      "sourceUrl": null,
+      "webUrl": "https://www.proactiveinvestors.co.uk/companies/news/1005300/chatgpt-rival-google-invest-in-ai-start-up-as-arms-race-intensifies-1005300.html",
+      "originalUrl": "https://www.proactiveinvestors.co.uk/companies/news/1005300/chatgpt-rival-google-invest-in-ai-start-up-as-arms-race-intensifies-1005300.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T04:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactive Investors",
+        "domain": "proactiveinvestors.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -187,12 +605,12 @@
       ]
     },
     {
-      "path": "_news/2023-02-05-how-hard-should-we-push-generative-ai-chatgpt-into-spewing-hate-speech-asks-ai-ethics-and-ai-law.md",
-      "title": "How Hard Should We Push Generative AI ChatGPT Into Spewing Hate Speech, Asks AI Ethics And AI Law",
-      "excerpt": "There is an effort afoot to try and get generative AI ChatGPT to produce foul essays that include hate speech and the like. This seems on the surface gallant but we might want to consider how far this ought to go.",
+      "path": "_news/2023-02-06-what-chatgpt-and-other-ai-tools-mean-for-the-future-of-healthcare.md",
+      "title": "What ChatGPT And Other AI Tools Mean For The Future Of Healthcare",
+      "excerpt": "In the near future, AI will play an even more significant role in medicine, assisting physicians with clinical and administrative tasks to improve the quality, affordability and accessibility of care.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/05/how-hard-should-we-push-generative-ai-chatgpt-into-spewing-hate-speech-asks-ai-ethics-and-ai-law/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/05/how-hard-should-we-push-generative-ai-chatgpt-into-spewing-hate-speech-asks-ai-ethics-and-ai-law/",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/06/what-chatgpt-and-other-ai-tools-mean-for-the-future-of-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/06/what-chatgpt-and-other-ai-tools-mean-for-the-future-of-healthcare/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -200,9 +618,9 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/05/how-hard-should-we-push-generative-ai-chatgpt-into-spewing-hate-speech-asks-ai-ethics-and-ai-law/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/02/05/how-hard-should-we-push-generative-ai-chatgpt-into-spewing-hate-speech-asks-ai-ethics-and-ai-law/amp/",
-      "publishedDateTime": "2023-02-05T04:00:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/06/what-chatgpt-and-other-ai-tools-mean-for-the-future-of-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/06/what-chatgpt-and-other-ai-tools-mean-for-the-future-of-healthcare/amp/",
+      "publishedDateTime": "2023-02-06T04:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -225,26 +643,93 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "AI in Healthcare",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-05-high-blood-pressure-a-heart-app-prescribes-musical-therapy.md",
-      "title": "High blood pressure? A heart app prescribes musical therapy",
-      "excerpt": "Europe has gone from thinking music could stop plagues 400 years ago to realising it can help prevent cardiovascular disease today. By Anthony King The opening of a Beethoven symphony thrills the heart – but not just figuratively.",
+      "path": "_news/2023-02-06-tellimer-expands-ai-bond-data-collaboration-with-7-chord.md",
+      "title": "Tellimer Expands AI Bond Data Collaboration With 7 Chord",
+      "excerpt": "As Tellimer aspires to be the single point of entry for all Emerging Markets data, analysis and research, Tellimer and 7 Chord will expand an agreement, reached in 2022, to publish 7 Chord's end-of-month Emerging Market bond pricing data on the Tellimer Insights platform.",
       "sourceUrl": null,
-      "webUrl": "https://cyprus-mail.com/2023/02/05/high-blood-pressure-a-heart-app-prescribes-musical-therapy/",
-      "originalUrl": "https://cyprus-mail.com/2023/02/05/high-blood-pressure-a-heart-app-prescribes-musical-therapy/",
+      "webUrl": "https://www.tmcnet.com/usubmit/-tellimer-expands-ai-bond-data-collaboration-with-7-/2023/02/06/9755121.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-tellimer-expands-ai-bond-data-collaboration-with-7-/2023/02/06/9755121.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T04:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-ebu-artificial-intelligence-will-drive-the-future-of-production.md",
+      "title": "EBU: Artificial intelligence will drive the future of production",
+      "excerpt": "The European Broadcasting Union's head of strategy suggests AI will help to simplify the skills needed in production in the next few years",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvbeurope.com/live-production/ebu-artificial-intelligence-will-drive-the-future-of-production",
+      "originalUrl": "https://www.tvbeurope.com/live-production/ebu-artificial-intelligence-will-drive-the-future-of-production",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T04:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tvbeurope.com",
+        "domain": "tvbeurope.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-goa-artificial-intelligence-powered-robots-to-be-used-to-save-lives-on-beaches.md",
+      "title": "Goa: Artificial Intelligence-Powered Robots To Be Used To Save Lives On Beaches",
+      "excerpt": "In a first-of-its-kind innovation, Drishti Marine, Goa's state-appointed lifeguard organisation, has introduced artificial intelligence (AI) in the form of Aurus. Read full story on Dynamite News:",
+      "sourceUrl": null,
+      "webUrl": "https://www.dynamitenews.com/story/goa-artificial-intelligence-powered-robots-to-be-used-to-save-lives-on-beaches",
+      "originalUrl": "https://www.dynamitenews.com/story/goa-artificial-intelligence-powered-robots-to-be-used-to-save-lives-on-beaches",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cyprus-mail.com/wp-content/uploads/2023/02/musical-music-therapy.jpg",
-          "width": 1858,
-          "height": 738,
+          "url": "https://www.dynamitenews.com/images/2023/02/06/goa-artificial-intelligence-powered-robots-to-be-used-to-save-lives-on-beaches/63e0ed22cf4fa.jpg",
+          "width": 600,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -254,11 +739,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T03:00:00-08:00",
+      "publishedDateTime": "2023-02-06T04:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Cyprus Mail",
-        "domain": "cyprus-mail.com",
+        "name": "Dynamite News",
+        "domain": "dynamitenews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -268,17 +753,18 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
-      "path": "_news/2023-02-05-deploying-machine-learning-to-hunt-for-extraterrestrial-life.md",
-      "title": "Deploying machine learning to hunt for extraterrestrial life",
-      "excerpt": "The hunt for extraterrestrial life, as measured by life on another planet developing some form of technology that might eb detectable ,has been hampered by limited technology and algorithms developed decades ago.",
+      "path": "_news/2023-02-06-artificial-intelligence-in-medical-imaging-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2028.md",
+      "title": "Artificial Intelligence In Medical Imaging Market Size 2023 Will Touch A New Level In The Upcoming Year 2028",
+      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/tech-science/deploying-machine-learning-to-hunt-for-extraterrestrial-life/article",
-      "originalUrl": "https://www.digitaljournal.com/tech-science/deploying-machine-learning-to-hunt-for-extraterrestrial-life/article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2028-2023-02-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2028-2023-02-06",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -288,117 +774,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-04T23:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-05-artificial-intelligence-uncovers-lost-work-by-titan-of-spains-golden-age.md",
-      "title": "Artificial intelligence uncovers lost work by titan of Spain’s ‘Golden Age’",
-      "excerpt": "Discovery of Lope de Vega play could lead to other important finds, researchers say",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2023/feb/05/artificial-intelligence-uncovers-lost-work-by-titan-of-spains-golden-age",
-      "originalUrl": "https://www.theguardian.com/world/2023/feb/05/artificial-intelligence-uncovers-lost-work-by-titan-of-spains-golden-age",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2023/feb/05/artificial-intelligence-uncovers-lost-work-by-titan-of-spains-golden-age",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/feb/05/artificial-intelligence-uncovers-lost-work-by-titan-of-spains-golden-age",
-      "publishedDateTime": "2023-02-04T23:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-05-google-partners-with-ai-company-anthropic-reportedly-makes-financial-investment.md",
-      "title": "Google Partners With AI Company Anthropic, Reportedly Makes Financial Investment",
-      "excerpt": "Google's partnership with AI firm Anthropic as a preferred cloud provider includes a financial investment, very similar to Microsoft's investment in OpenAI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/382250/google-partners-with-ai-company-anthropic-reporte.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/382250/google-partners-with-ai-company-anthropic-reporte.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-04T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-05-machine-learning-in-communication-market-2023-size-upcoming-trends-major-players-revenue-share-and-forecast-to-2029.md",
-      "title": "Machine Learning in Communication Market 2023 Size, Upcoming Trends, Major Players, Revenue, Share, And Forecast To 2029",
-      "excerpt": "In 2023] The Global Machine Learning in Communication Market Size (128 Report Pages) is estimated to be worth USD",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-2023-size-upcoming-trends-major-players-revenue-share-and-forecast-to-2029-2023-02-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-2023-size-upcoming-trends-major-players-revenue-share-and-forecast-to-2029-2023-02-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-04T18:57:00-08:00",
+      "publishedDateTime": "2023-02-06T04:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -421,17 +797,16 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-05-artificial-intelligence-chipset-market-size-related-to-time-and-cost-is-expected-to-grow-the-industry-in-upcoming-years-to-2029.md",
-      "title": "Artificial Intelligence Chipset Market Size Related To Time And Cost Is Expected To Grow The Industry In Upcoming Years To 2029",
-      "excerpt": "In 2023] The Global Artificial Intelligence Chipset Market Size (105 Report Pages) is estimated to be worth USD million",
+      "path": "_news/2023-02-06-chatgpt-may-be-just-the-beginning-as-ai-is-likely-to-spur-pe-and-ma-activity.md",
+      "title": "ChatGPT may be just the beginning, as AI is likely to spur PE and M&A activity",
+      "excerpt": "AI, customer engagement, digital transformation and cybersecurity are among hot tech areas of investment, said Union Square Advisors' Wayne Kawarabayashi.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-size-related-to-time-and-cost-is-expected-to-grow-the-industry-in-upcoming-years-to-2029-2023-02-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-size-related-to-time-and-cost-is-expected-to-grow-the-industry-in-upcoming-years-to-2029-2023-02-04",
+      "webUrl": "https://www.pehub.com/chatgpt-may-be-just-the-beginning-as-ai-is-likely-to-spur-pe-and-ma-activity/",
+      "originalUrl": "https://www.pehub.com/chatgpt-may-be-just-the-beginning-as-ai-is-likely-to-spur-pe-and-ma-activity/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -441,14 +816,47 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-04T18:47:00-08:00",
+      "publishedDateTime": "2023-02-06T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "PE Hub",
+        "domain": "pehub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-inside-safe-city-moscows-ai-surveillance-dystopia.md",
+      "title": "Inside Safe City, Moscow’s AI Surveillance Dystopia",
+      "excerpt": "Moscow promised residents lower crime rates through an expansive smart city project. Then Vladimir Putin invaded Ukraine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/moscow-safe-city-ntechlab/",
+      "originalUrl": "https://www.wired.com/story/moscow-safe-city-ntechlab/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/moscow-safe-city-ntechlab/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/moscow-safe-city-ntechlab/amp",
+      "publishedDateTime": "2023-02-06T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -464,17 +872,17 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "AI Ethics",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-05-nhl-doesnt-have-issue-with-facial-recognition-system-at-rangers-games.md",
-      "title": "NHL doesn't have issue with facial recognition system at Rangers games",
-      "excerpt": "Rangers owner James Dolan is said to use the technology to bar certain ticket holders from the facility that are in business or legal battles with Dolan's companies.",
+      "path": "_news/2023-02-06-facilities-facial-recognition-staffing-ai-personalization-among-hottest-topics-for-live-events-in-2023.md",
+      "title": "Facilities: Facial recognition, staffing, AI, personalization among hottest topics for live events in 2023",
+      "excerpt": "I fired off a barrage of emails in January to dozens of folks involved with every aspect of the live sports experience to see what topics are: A) front of mind for them as 2023 gets going and, B) most intriguing to them.",
       "sourceUrl": null,
-      "webUrl": "https://www.newsday.com/sports/hockey/rangers/nhl-all-star-game-c8lvuvfi",
-      "originalUrl": "https://www.newsday.com/sports/hockey/rangers/nhl-all-star-game-c8lvuvfi",
+      "webUrl": "https://www.sportsbusinessjournal.com/Journal/Issues/2023/02/06/Insiders/facilities.aspx",
+      "originalUrl": "https://www.sportsbusinessjournal.com/Journal/Issues/2023/02/06/Insiders/facilities.aspx",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -484,11 +892,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-04T17:36:00-08:00",
+      "publishedDateTime": "2023-02-06T03:58:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Newsday",
-        "domain": "newsday.com",
+        "name": "Sports Business Journal",
+        "domain": "sportsbusinessjournal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -499,529 +907,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-05-coming-ai-regulation-may-not-protect-us-from-dangerous-ai.md",
-      "title": "Coming AI regulation may not protect us from dangerous AI",
-      "excerpt": "Until we have adequately responsible AI, here's how we can protect ourselves from opaque and thus dangerous AI already affecting our lives.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/coming-ai-regulation-may-not-protect-us-from-dangerous-ai/",
-      "originalUrl": "https://venturebeat.com/ai/coming-ai-regulation-may-not-protect-us-from-dangerous-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/coming-ai-regulation-may-not-protect-us-from-dangerous-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/coming-ai-regulation-may-not-protect-us-from-dangerous-ai/amp/",
-      "publishedDateTime": "2023-02-04T17:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-05-high-tech-hospital-uses-artificial-intelligence-in-patient-care.md",
-      "title": "High-tech hospital uses artificial intelligence in patient care",
-      "excerpt": "Doctors at the University of Florida Health Center are using artificial intelligence to help monitor their patients. The findings will help them develop algorithms that will soon provide real-time health care recommendations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/high-tech-hospital-uses-artificial-intelligence-in-patient-care-162645573527",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/high-tech-hospital-uses-artificial-intelligence-in-patient-care-162645573527",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_02/1675554878286_nn_jto_hospitals_using_ai_230204_1920x1080-g4e58v.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo162645573527",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo162645573527",
-      "publishedDateTime": "2023-02-04T15:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-02-05-excessive-screen-time-during-infancy-may-be-linked-to-lower-cognitive-skills-later-in-childhood.md",
-      "title": "Excessive screen time during infancy may be linked to lower cognitive skills later in childhood",
-      "excerpt": "The amount of time babies spend watching computer, TV and phone screens in their first year of life may be indirectly linked to lower cognitive skills later in life, according to a new study.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/GMA/Wellness/new-study-babies-screen-time/story?id=96814576",
-      "originalUrl": "https://abcnews.go.com/GMA/Wellness/new-study-babies-screen-time/story?id=96814576",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/GMA/screen-time-gty-bb-230201_1675259672781_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://goodmorningamerica.com/amp/wellness/story/new-study-babies-screen-time-96814576",
-      "cdnAmpWebUrl": "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/wellness/story/new-study-babies-screen-time-96814576",
-      "publishedDateTime": "2023-02-04T10:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-05-artificial-intelligence-a-technological-revolution-that-is-changing-our-lives.md",
-      "title": "Artificial intelligence, a technological revolution that is changing our lives",
-      "excerpt": "Artificial Intelligence (AI) is changing our lives significantly. Machine learning algorithms and robots can now perform tasks that were once considered only for humans. Businesses are rapidly adopting this technology to improve their productivity and market competitiveness.",
-      "sourceUrl": null,
-      "webUrl": "https://237online.com/en/lintelligence-artificielle-une-revolution-technologique-qui-change-notre-vie/",
-      "originalUrl": "https://237online.com/en/lintelligence-artificielle-une-revolution-technologique-qui-change-notre-vie/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-04T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "237online",
-        "domain": "237online.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-05-alphabets-deepmind-forms-ai-drug-discovery-unit-isomorphic-labs.md",
-      "title": "Alphabet's DeepMind forms AI drug discovery unit Isomorphic Labs",
-      "excerpt": "Google parent Alphabet has drawn on its DeepMind artificial intelligence division to form a drug discovery unit that it calls Isomorphic Labs. The UK-registered company will be able to tap into ...",
-      "sourceUrl": null,
-      "webUrl": "https://pharmaphorum.com/index.php/news/alphabets-deepmind-forms-ai-drug-discovery-unit-isomorphic-labs",
-      "originalUrl": "https://pharmaphorum.com/index.php/news/alphabets-deepmind-forms-ai-drug-discovery-unit-isomorphic-labs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pharmaphorum.com/sites/default/files/styles/large/public/2023-02/digital-skills-pharma-leaders-need_0.jpg?itok=0TKqDEYc",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-04T08:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pharmaphorum",
-        "domain": "pharmaphorum.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-05-warn-your-children-robots-and-ai-are-coming-for-their-careers.md",
-      "title": "Warn your children: Robots and AI are coming for their careers",
-      "excerpt": "Science is making exponential advancements in the field of robotics and artificial intelligence. Surely, sooner or later, these advancements will impact most careers. The companies that produce or utilize such advancements might not be the sinister ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/technology/3841832-warn-your-children-robots-and-ai-are-coming-for-their-careers/",
-      "originalUrl": "https://thehill.com/opinion/technology/3841832-warn-your-children-robots-and-ai-are-coming-for-their-careers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/06/CA_robots_workers.jpg?w=1280",
-          "width": 1280,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/technology/3841832-warn-your-children-robots-and-ai-are-coming-for-their-careers/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/3841832-warn-your-children-robots-and-ai-are-coming-for-their-careers/amp/",
-      "publishedDateTime": "2023-02-04T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-04-a-quicker-return-to-school-may-help-kids-with-concussions-study-says.md",
-      "title": "A quicker return to school may help kids with concussions, study says",
-      "excerpt": "Keeping a child home from school for “cognitive rest” after a concussion may do more harm than good, a study suggests. The analysis, in the journal JAMA Network Open, shows an association ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/wellness/2023/02/04/kids-teens-concussion-rest-study/",
-      "originalUrl": "https://www.washingtonpost.com/wellness/2023/02/04/kids-teens-concussion-rest-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V5KA7BEY3FS6IAHEYND2J6IC6M.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-03T23:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-04-flexiv-launches-revolutionary-force-controlled-parallel-robot.md",
-      "title": "Flexiv Launches 'Revolutionary' Force-Controlled Parallel Robot",
-      "excerpt": "Flexiv says Moonlight is the world's first force-controlled parallel robot and is ideal for applications that require precise motion and force control, such as screw fastening, ultra-accurate ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105523319/Flexiv-Launches-Revolutionary-Force-Controlled-Parallel-Robot",
-      "originalUrl": "https://menafn.com/1105523319/Flexiv-Launches-Revolutionary-Force-Controlled-Parallel-Robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-02/03/R&AN_b68b1image_story.jpg",
-          "width": 800,
-          "height": 814,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-03T21:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-04-real-time-data-and-ai-thrust-manufacturing-into-the-future.md",
-      "title": "Real-time data and AI thrust manufacturing into the future",
-      "excerpt": "With a growing need for real-time situational awareness and insights, artificial intelligence architectures are becoming increasingly important to make sense of the acquired information.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/real-time-data-and-ai-thrust-manufacturing-into-the-future/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/real-time-data-and-ai-thrust-manufacturing-into-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1326464894-e1653670614862.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/data-infrastructure/real-time-data-and-ai-thrust-manufacturing-into-the-future/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/real-time-data-and-ai-thrust-manufacturing-into-the-future/amp/",
-      "publishedDateTime": "2023-02-03T18:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-04-how-third-generation-ai-powered-digital-twins-can-save-energy.md",
-      "title": "How third-generation AI-powered digital twins can save energy",
-      "excerpt": "How advanced third-generation digital twins using AI algorithms can help producers accomplish their energy-saving goals.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-third-generation-ai-powered-digital-twins-can-save-energy/",
-      "originalUrl": "https://venturebeat.com/ai/how-third-generation-ai-powered-digital-twins-can-save-energy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/network-infrastructure.jpg?fit=800%2C534&strip=all",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-third-generation-ai-powered-digital-twins-can-save-energy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-third-generation-ai-powered-digital-twins-can-save-energy/amp/",
-      "publishedDateTime": "2023-02-03T17:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-04-amazons-ai-is-helping-the-police-watch-you.md",
-      "title": "Amazon's AI Is Helping the Police Watch You",
-      "excerpt": "Amazon markets the AI, called Rekognition, for a variety of applications from the innocuous (allowing videos to be searchable by the people and objects that appear in them) to more concerning applications, such as real-time tracking and security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Traffic%20cameras.jpg",
-          "width": 1280,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-04-deepmind-is-working-on-a-solution-to-bias-in-ai.md",
-      "title": "DeepMind Is Working on a Solution to Bias in AI",
-      "excerpt": "In DeepMind's hypothetical college admissions example: qualifications (Q), gender (G), and choice of department (D), all factor into whether a candidate is admitted (A). A Causal Bayesian Network can identify causal and non casual relationships between ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
-      "originalUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/DeepMind%20CBN%20example.png",
-          "width": 1178,
-          "height": 1070,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -2,6 +2,254 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-21-ibm-and-texas-am-agrilife-provide-data-technology-and-expertise-to-farmers-in-need.md",
+      "title": "IBM and Texas A&M AgriLife provide data, technology and expertise to farmers in need",
+      "excerpt": "In Texas, 2022 was one of the driest years on record. With failed crops, low yields for farmers and diminished grazing for cattle, the Texas Department of Agriculture identified climate change as a potential threat to the state&#8217;s food supply. Smallholder farmers, particularly those in arid and",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-and-texas-am-agrilife-provide-data-technology-and-expertise-to-farmers-in-need/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-and-texas-am-agrilife-provide-data-technology-and-expertise-to-farmers-in-need/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/IBM-and-Texas-AM-AgriLife-provide-data-technology-and-expertise-to-farmers-in-need-630x330.jpg",
+          "width": 630,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T11:25:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-how-ibm-is-innovating-for-a-more-sustainable-future.md",
+      "title": "How IBM is innovating for a more sustainable future",
+      "excerpt": "IBM has been building out an ecosystem of technologies and partnerships to help clients optimize their core operations across assets, infrastructure and supply chains.\nThe post How IBM is innovating for a more sustainable future appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-ibm-is-innovating-for-a-more-sustainable-future/",
+      "originalUrl": "https://www.ibm.com/blog/how-ibm-is-innovating-for-a-more-sustainable-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/textile-factory-630x330.jpg",
+          "width": 630,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T07:13:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-chatgpt-vs-watson-assistant.md",
+      "title": "ChatGPT vs. Watson Assistant",
+      "excerpt": "Watson Assistant is much more focused as an offering. Using artificial intelligence, this AI-chatbot platform developed by IBM enables businesses to build, train, and deploy conversational ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/chatgpt-vs-watson-assistant/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/chatgpt-vs-watson-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/04/AI-motherboard.jpeg",
+          "width": 1920,
+          "height": 1120,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-the-cfo-at-the-forefront-of-innovation.md",
+      "title": "The CFO: at the forefront of innovation",
+      "excerpt": "Historically, the Chief Financial Officer (CFO) role had been strictly focused on accounting for financial information. These days, there&#8217;s a need &#8212; and even some pressure &#8212; for CFOs to evolve their scope and influence the innovation agenda within their enterprises. For starters, they",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-cfo-at-the-forefront-of-innovation/",
+      "originalUrl": "https://www.ibm.com/blog/the-cfo-at-the-forefront-of-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/Screenshot-2023-04-20-at-5.45.24-PM.png",
+          "width": 1940,
+          "height": 1170,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-ibm-takes-a-pragmatic-approach-to-enterprise-ai.md",
+      "title": "IBM takes a pragmatic approach to enterprise AI",
+      "excerpt": "IBM’s 12-year old Watson includes an Embeddable AI portfolio and is a core part of the IBM AI strategy. According to a recent NASDAQ report, “IBM’s Watson has evolved and is deployed for many business use cases. It’s being applied for customer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/706733/ibm-takes-pragmatic-approach-enterprise-ai/",
+      "originalUrl": "https://www.reseller.co.nz/article/706733/ibm-takes-pragmatic-approach-enterprise-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/artificial-intelligence-machine-learning-and-modern-computer-and-picture-id1209989402-100903158-large-100912674-orig-100935023-orig_3.jpgautowebp8570",
+          "width": 472,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-healthcare-artificial-intelligence-ai-market-growth-and-forecast-till-2031.md",
       "title": "Healthcare Artificial Intelligence (AI) Market Growth and Forecast till 2031",
       "excerpt": "The latest market research report on the Global \"Healthcare Artificial Intelligence (AI) Market\" is segmented by",
@@ -317,6 +565,58 @@
       ]
     },
     {
+      "path": "_news/2023-04-11-back-from-the-dead-ibms-watson-ai-is-alive-and-re-emerging.md",
+      "title": "Back from the Dead, IBM’s Watson AI is Alive and Re-Emerging",
+      "excerpt": "While Warson Health is in the rearview mirror, Watson AI continues to improve. In it’s Q4 2022 earnings report, IBM CEO Arvind Krishna commented. “Clients in all geographies increasingly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/finance/back-from-the-dead-ibms-watson-ai-is-alive-and/449447",
+      "originalUrl": "https://www.entrepreneur.com/finance/back-from-the-dead-ibms-watson-ai-is-alive-and/449447",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-449447.jpeg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-11T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-11-how-ibm-invests-in-opportunities-to-reach-maximum-equitable-impact.md",
       "title": "How IBM invests in opportunities to reach maximum equitable impact",
       "excerpt": "At IBM, we strive each day to achieve our purpose; to be the catalyst that helps makes the world work better. We endeavor to be at the forefront of groundbreaking changes in the industries we serve and the global community at large. None of this would be possible without skilled and talented IBMers.",
@@ -399,6 +699,49 @@
       "topics": [
         "IBM AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-04-10-back-from-the-dead-ibms-watson-ai-is-alive-and-re-emerging.md",
+      "title": "Back from the Dead, IBM’s Watson AI is Alive and Re-Emerging",
+      "excerpt": "While Warson Health is in the rearview mirror, Watson AI continues to improve. In it’s Q4 2022 earnings report, IBM CEO Arvind Krishna commented. “Clients in all geographies increasingly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/GM-N/pressreleases/15879633/back-from-the-dead-ibms-watson-ai-is-alive-and-re-emerging/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/GM-N/pressreleases/15879633/back-from-the-dead-ibms-watson-ai-is-alive-and-re-emerging/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://barchart-news-media-prod.aws.barchart.com/MKTBEAT/2c9ea2ecb9a1f662191408e9070aa946/med_20230410074443_back-from-the-dead-ibms-watson-ai-is-alive-and-re-.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -947,335 +1290,6 @@
       "provider": {
         "name": "ABC News",
         "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player.md",
-      "title": "Wimbledon 2019: IBM’s Slammtracker AI Technology Heralds The Demise Of The Human Player",
-      "excerpt": "Whilst we patiently wait for the day that Womble-shaped robots replace human tennis players at Wimbledon, we can admire the IBM powered AI technology ... them into the huge Watson driven analytics ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/07/08/wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player/",
-      "originalUrl": "https://hackaday.com/2019/07/08/wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-ai-is-about-to-get-much-weirder-heres-what-to-watch-for.md",
-      "title": "A.I. Is About to Get Much Weirder. Here’s What to Watch For.",
-      "excerpt": "The Vox writer Kelsey Piper talks about the increasing pace of A.I. development, how it’s changing the world and what to do about it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/03/21/opinion/ezra-klein-podcast-kelsey-piper.html",
-      "originalUrl": "https://www.nytimes.com/2023/03/21/opinion/ezra-klein-podcast-kelsey-piper.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/03/21/opinion/21eks-piper/21eks-piper-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/03/21/opinion/ezra-klein-podcast-kelsey-piper.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/21/opinion/ezra-klein-podcast-kelsey-piper.amp.html",
-      "publishedDateTime": "2023-03-21T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-ibm-focuses-on-enterprise-ai-adoption-at-think-2018.md",
-      "title": "IBM focuses on enterprise AI adoption at Think 2018",
-      "excerpt": "IBM released a number of new solutions designed to help enterprises harness the power of artificial intelligence. The company announced IBM Watson Data Kit and revealed new offerings with Apple at ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/ibm-focuses-enterprise-ai-adoption-think-2018/",
-      "originalUrl": "https://sdtimes.com/ai/ibm-focuses-enterprise-ai-adoption-think-2018/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2018/03/ibm-think.jpeg",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-ibm-watson-and-guerbet-want-to-tackle-prostate-cancer-diagnosis-with-ai.md",
-      "title": "IBM Watson and Guerbet Want to Tackle Prostate Cancer Diagnosis with AI",
-      "excerpt": "Guerbet has landed a second co-development agreement with IBM Watson Health. This time around, the two companies will develop an artificial intelligence tool to help clinicians detect, segment, characterize, and monitor prostate cancer. “The main ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/business/ibm-watson-and-guerbet-want-tackle-prostate-cancer-diagnosis-ai",
-      "originalUrl": "https://www.mddionline.com/business/ibm-watson-and-guerbet-want-tackle-prostate-cancer-diagnosis-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/DSC03582.JPG",
-          "width": 5472,
-          "height": 3648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-artificial-intelligence-in-retail-market-to-2023-2029.md",
-      "title": "Artificial Intelligence in Retail Market to 2023-2029",
-      "excerpt": "Focal Systems Inc., IBM Watson Group, Walmart Inc., Amazon Web Services, Inc., ViSenze Pte Ltd] most important, influential, or successful companies, brands, or individuals within a Artificial Intelligence in Retail market 2023 to 2028. Complete Overview ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-to-2023-2029-2023-03-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-to-2023-2029-2023-03-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-how-synthetic-data-is-boosting-ai-at-scale.md",
-      "title": "How synthetic data is boosting AI at scale",
-      "excerpt": "Artificial intelligence (AI) relies heavily on large ... “During my time at Google’s self-driving car project Waymo, we used a combination of both. Synthetic data will play a big role in situations we never want to experience in the real world.”",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/synthetic-data-to-boost-ai-at-scale/",
-      "originalUrl": "https://venturebeat.com/ai/synthetic-data-to-boost-ai-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/2-Synthetic-data-to-boost-AI-at-scale.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/synthetic-data-to-boost-ai-at-scale/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/synthetic-data-to-boost-ai-at-scale/amp/",
-      "publishedDateTime": "2023-03-15T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-ibm-the-market-outlook-for-cloud-and-ai-services-is-strong.md",
-      "title": "IBM: The Market Outlook For Cloud And AI Services Is Strong",
-      "excerpt": "During recent years, IBM had the lowest net debt-to-equity of 2.06 in 2022. The market outlook for cloud and AI services is strong and the demand for IBM’s software products is growing.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4587185-ibm-the-market-outlook-for-cloud-and-ai-services-is-strong",
-      "originalUrl": "https://seekingalpha.com/article/4587185-ibm-the-market-outlook-for-cloud-and-ai-services-is-strong",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1418475387/image_1418475387.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 945,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T02:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
         "images": null,
         "publishers": null,
         "authors": null
