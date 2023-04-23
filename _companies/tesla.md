@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 586
+heat: 598
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 19908438
+  followers: 19966741
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "VUG/ZtfraGjrJIE+wBNtu4rqg4FMGK9ro0SXuwQWnSmbo5LhgLRALo8iWrQ/GYuHYGPuBRJY1iutMlO1I0/WrH24HZyu49tngibYVwWQXeqDSnUaDn2c8evtqI2C/CVPbZI4RP96lRyrbEeA5cs9H8gSJpcd/z8KYX0koLFJMQNMPiWuMTLJdTt75SMdxvaW4p+s0FBeuR/poTvR1WTqzCPBXboYDr50ZTPqkq7SemF5s3Nsfs4/+B00//o7V6hN0flIrxxrM4BJ6sIlXtgg5asMEPlc+l7xxSAWiC/PWTpu611woUxr22wyyn5MUKuZ70eKNsY3yMJwjeN+acTTQGt4ELpbJOWU/ZzfZu/iRrB4vAsO2W7Og3CfY4VnG0+r5Bvk4u6PYZ2RyW4afjwCkSTB87p7gW7cKM9zyJeQ1Ec=;Bl9l/tSruMtDn/H8zYcB0w=="
+secured: "BVUiFavLHaISF3UKVvoksT0zERO3DTU0mPYcxCen1ANv8e63FszcxXUbbkQ/wpUDwKh1wDVeWkq/Z2RC+3C+ToElqnpiQLZksS2MjejcmXTob2tIG3FpScUA5HEhVb8jdhKRgSWi9bFXW3dJtFcOlTGCIltRgWOiThpno2y1UTwVFeiNoE2O3QKezgLxhOJ7lWjdPNe14SpuHA7REVfXZpGRCX+VeWh8GGifyNAIC/FRQS5Ym7lnKt7HcplamuBiN4eHsBLuEmWlr6HXvwr0sZnvs9TES3U5Fjz1/34J/wb1WCr/sN5pSOE2wraWbrTOrgtS77wB95SPYlc/BHAnpMOL5ngyhtVorxQHS+F+bztEfZpLSlidLLXsjfBkuEwbkKLe641T1tXaqMJ9V8F0xhh0t6N/W8NOwuwl9a66HqY=;0wEBi7FoMwOAg4uAmivFxQ=="
 ---
 

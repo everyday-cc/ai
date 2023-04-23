@@ -2,7 +2,7 @@
 name: "Invoca"
 overview: "Invoca is an AI-powered call tracking and conversational analytics company that brings the depth of marketing analytics traditionally limited to digital consumer interactions to the world of human-to-human selling. With Invoca, marketers can use real-time call and conversational analytics to maximize the return of their paid media campaigns in Google and Facebook, and improve the buying experience by enriching customer profiles in Salesforce and Adobe Experience Cloud. With Fortune 500 customers and deep partnerships with the technologies marketers use every day, Invoca has raised $116M from leading venture capitalists including Accel, Upfront Ventures, H.I.G. Growth Partners, Morgan Stanley, and Salesforce Ventures. For more information, visit www.invoca.com."
 type: "profile"
-heat: 50
+heat: 39
 
 website: https://www.invoca.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Invoca"
   url: "https://twitter.com/Invoca"
-  followers: 4458
+  followers: 4453
 
 size: 201-500 employees
 yearFounded: 2008
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=NLLaC8pNKY8"
 
-secured: "W3py6vi0cMVCVpbpvhFdQOb4gXu/Pa9JNxJ6WKtNpL/DpEjykFSU5tMKUhAkgB4sPXRteNH/mooOLSQGRVczNgnxpF28E6BylZyYsrUk26xOZGYsaqw+zyj1+5Z/okR3Hgki8YKu5uu5Ulbir/VtIjOwP59ysPQ5/HzkrFAsI420W4X+UftB145zbmShv0hFSjNMk6vwNN5TIBNBc5F3B1E03Z0F0qovbkkJaDDeubhuyNnJVeasx0mMfItwbzANbh5ikljXNCtZZXmwyDXKHwS5Q7ePMUgeJzVUwdf75GIA6aPGhQmzoJmB4FeFD3pAIELj2sxf2U9GM/pzQJ5r3y9n6Xgu2Xej6Y/zSpsH4HBmYOvcq0l7eewU8ta8+GrvPPBKH0fAul4tlkSMhoZiPQ5ocF8IfxDmczTp2TGiV7I=;1UaQmQB26goVNvxluZq2iw=="
+secured: "IiHVikQP5ftfpmFcUyPeHb6zDGXzrrjJJ5NjCKG/3KtqFPN6kQo2DCZ08VysD4N75N4TfmDYnOX6g16jYHi3AaT/l/vZ5J+w7vXLJfHX/zfNp23w/GmzrNy5vyvajbiRQgXYoXwfewtXrsXgISPhKlljnG/4zx+lTbTwyjgNUSdwVSmPFlOcVp/1nrS4J/f/lp8kCAjeAvYwAQZ5IIhmckV+h4ftAHi9SWBljNRJ+NFF+C6UN03o3CcLxYVwF80VZNMfezxkw+2L7OuFjHNXcTUzgebRxwAFmEGKlMaaaL0CcWnxS/PcYR2jYK+x/UNc4KzmZdrUzc3G2X67wHLjVvrhKrWTdx0wFRLkxwjzc1fHOs5AWFGoOVEORO1B5IqZsh6iMQ+FXBUzhmY5flKNxlrau5LzHzl64hI8whpArGk=;6WOb3Ve6sM4Z5l77xfXNxg=="
 ---
 

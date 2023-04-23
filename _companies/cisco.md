@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "cisco"
   url: "https://twitter.com/cisco"
-  followers: 742331
+  followers: 742268
 
 size: 10,001+ employees
 yearFounded: 1984
@@ -31,12 +31,12 @@ topics:
   - AI Hardware
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1580961507566751744/2pydn4GY_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1649814238687563778/KK46ec4c_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "Cisco"
 
-secured: "sDdhqcfhzYSaaCoHY85RqAluNCvunjqY2gRCjgkHul5VYysGfHlJUBQryySW7k+vCe6JZZgxWs/IdcWAD+iuWwq/hm/xvSIoU+QG5H+DhgHoXFYEKDH7NGUAaWGALzvbC48iV8m7rqsuVyJocmXEMIm8ViT+SZoxQkr3MFPcN/2Fp2VwNEX/92YxlpGC1zl5cS/4zI9oGXUyIBE7ByrLImBTLe5t+IjV01Yh0SqFSPosorOz81mUJ8AurQ7NKj7OxOvJo70SYZjq9j5ofemfnB++Asm6pwnrqb83uUCqrdpIvlXtYmfxIojjGRf3KOqvNU7cQUMbuHkErivcbmYwGcQa2kfEFQn/Xp0uQjqCbxhPi/o6tKM1tJczYhaNvm1X0WNQobiSQDNUQOGZh5NqQlDQLMxoQADu3SlsFOIegFQ=;AtXfAs2xrOwv1fMSxheyBw=="
+secured: "NjTm9QtLtG/eurbKL6NNYgP1YLH2hQLbzRVjsNL6xfd4l+aKFeM/BY0PGHtaX+C+RkhCHc9eFU7qZnbf9I8buTd3R3UhH8N5y/5Qxx0E5pnrEP58+f8hNEUk+Ro4nvzTpjl2k3jnzHLZel4e9L4yrgsCvuGkwgsEkaZHkIgf0eev3dbKG7VMUWuFQXut2liE2RernK9rfvtkjdYvlWMCXAbitcuVRxg1Aw5v/P4laN44zI0eXCvbIoaB7GMM+5n3iqYFVtx5IH8Yi/kJjE8UNGOyMBee7x3XjKaT/UB6yRjljo/Gxu6t4bjoMs3UXnVUoNm2IDmSaOonie8kA1yDI6NjOgIHxwZLWusXXiFoIhK4rey+Sdi4QS2uvfNJ00KQFkXnGh4z2do8UtbJ5J6TiVclfHrshZehVpw/n+dVAvU=;ON3PYNUm0hCwWq5Inx+9EA=="
 ---
 
