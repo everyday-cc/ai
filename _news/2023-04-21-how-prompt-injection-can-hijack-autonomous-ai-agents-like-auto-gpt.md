@@ -31,21 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "How hybrid AI could enhance GPT-4 and GPT-5 and address LLM concerns"
-    excerpt: "While combining different AI techniques presents unique challenges, their integration can create more powerful, accurate and explainable AI."
-    publishedDateTime: 2023-04-23T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-hybrid-ai-could-enhance-gpt-4-and-gpt-5-and-address-llm-concerns/"
-    ampWebUrl: "https://venturebeat.com/ai/how-hybrid-ai-could-enhance-gpt-4-and-gpt-5-and-address-llm-concerns/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-hybrid-ai-could-enhance-gpt-4-and-gpt-5-and-address-llm-concerns/amp/"
+  - title: "How artificial intelligence and automation can streamline procurement"
+    excerpt: "We speak to chief procurement officers about the role of AI in helping their organisations reduce costs and tackle the economic slowdown"
+    publishedDateTime: 2023-04-24T03:00:00Z
+    webUrl: "https://www.computerweekly.com/feature/How-AI-and-automation-can-streamline-procurement"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 37
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_creating_one_artificial_intelligence_out_of_two._two_AI__5e06f4d2-e068-4c47-b353-c1ec6bfb7581.png?w=1200&strip=all"
+      - url: "https://cdn.ttgtmedia.com/rms/onlineimages/ai_a352095729.jpg"
         width: 1200
-        height: 600
+        height: 400
         isCached: true
   - title: "Rise of autonomous AI agents: AutoGPT, BabyAGI, AgentGPT, ChaosGPT, GodMode, and even TruthGPT"
     excerpt: "But the programming language, which has been used to develop hundreds of thousands of AI tools, is now back in the news with AutoGPT and BabyAGI. The other trending terms include AutoGPT, BabyAGI, AgentGPT,"

@@ -41,21 +41,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How hybrid AI could enhance GPT-4 and GPT-5 and address LLM concerns"
-    excerpt: "While combining different AI techniques presents unique challenges, their integration can create more powerful, accurate and explainable AI."
-    publishedDateTime: 2023-04-23T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-hybrid-ai-could-enhance-gpt-4-and-gpt-5-and-address-llm-concerns/"
-    ampWebUrl: "https://venturebeat.com/ai/how-hybrid-ai-could-enhance-gpt-4-and-gpt-5-and-address-llm-concerns/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-hybrid-ai-could-enhance-gpt-4-and-gpt-5-and-address-llm-concerns/amp/"
+  - title: "How artificial intelligence and automation can streamline procurement"
+    excerpt: "We speak to chief procurement officers about the role of AI in helping their organisations reduce costs and tackle the economic slowdown"
+    publishedDateTime: 2023-04-24T03:00:00Z
+    webUrl: "https://www.computerweekly.com/feature/How-AI-and-automation-can-streamline-procurement"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 37
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_creating_one_artificial_intelligence_out_of_two._two_AI__5e06f4d2-e068-4c47-b353-c1ec6bfb7581.png?w=1200&strip=all"
+      - url: "https://cdn.ttgtmedia.com/rms/onlineimages/ai_a352095729.jpg"
         width: 1200
-        height: 600
+        height: 400
         isCached: true
 
 secured: "svlGPBC8pcZ80q8nBYPM17xmahKIRqW+XFbJEwl+Ws6IxwLGGMI6PbnR4CF+iDAnFzGqCck98uXD4vTETOeAl5fULDHgaU/lvv1YYh8yXTQJ0dub77c5OZUqhLzbznfiMMK66SEx1Xx93BunNFOHrQPzotxlwFlBsRim6TcWf6RX/n3Paq9hXgyxMdsVgDeelxh7e3PxmFzpHPZ6cTFSk70aEPfY1Wk0HfatImwtsaQeoG4dygi1uaJp5BLWEQ6AEERhv0Y3/z9Ue48mnlQlupK3FOTAv/IWumzoAt3KIIHKssjlSirjsWYE3QPhJs3IrHrhbewRSV/Zq4jBfvHA44OfN0unVeNPrCej82Z2V9r4rQr0D+zlxe6VACzDGa9LMo1PcNWWtlJQnxgH9WGDY5R+RO/hkY7Xd091TpO2FboLK6/2NcIpWjacJqoK9E/HgdQ3riF4GNgcEaT0y8xLuOrbhtVZLHl3+Xw2O3e8gVsl1Qev740UqGRCF9pHjzJtS+BIMNDd43nZFZ+3rl5y2A==;wXDYQjrdqkhDtFBCZ9Z0kg=="

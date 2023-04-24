@@ -184,6 +184,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023, Insights and Predictions for the Global Artificial intelligence (AI) in Supply Chain and Logistics Market Future"
+    excerpt: "Artificial intelligence (AI) in Supply Chain and Logistics Market Size 2023 | New Report (105 Pages) | Analytics | In"
+    publishedDateTime: 2023-04-24T03:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-insights-and-predictions-for-the-global-artificial-intelligence-ai-in-supply-chain-and-logistics-market-future-2023-04-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Software Market 2023-2030| Discover Industry Scope and Opportunities"
     excerpt: "The \"Artificial Intelligence Software Market\" Report covers the global and regional market with an in-depth analysis of"
     publishedDateTime: 2023-04-24T02:28:00Z
@@ -193,6 +207,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Cognitive System & Artificial Intelligence (AI) Systems Market Forecast: Analysis of Industry Trends and Opportunities | 2023-2030"
+    excerpt: "Apr 23, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The 2023 research report on the"
+    publishedDateTime: 2023-04-24T02:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-system-artificial-intelligence-ai-systems-market-forecast-analysis-of-industry-trends-and-opportunities-2023-2030-2023-04-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -211,6 +239,20 @@ related:
       - url: "https://menafn.com/updates/pr/2023-04/24/ADC_ef30806b-5_Image_In_Body.jpg"
         width: 700
         height: 395
+        isCached: true
+  - title: "Global Artificial Intelligence in Platform as a Service (PaaS) Market 2023 Staying Ahead in Industry Upcoming Years by 2030 | Research Reports World"
+    excerpt: "The Artificial Intelligence in Platform as a Service (PaaS) Market Scope and Overview Report for 2023 presents a"
+    publishedDateTime: 2023-04-24T06:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-platform-as-a-service-paas-market-2023-staying-ahead-in-industry-upcoming-years-by-2030-research-reports-world-2023-04-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "r0ylnT3VcRkKdY/POBr0mEQtuE+pyXk3lSBt8S29/5IMM4LWlrBeVOqWeImazAHjK1M/urYVKUXZM8kbRJwo1TyBHjGaJT8DoPXuTCRMoRPT5e5uGfRslYWsaD1kS4jk51dGe2zYdJ7FpeBuoGEHwSWKGpr/xzs00SgNKh8wMqg8RlWFEMArU8QWl9z+Ci8/7xRRkMdQwp4Ksyulcke8WQi6ZaKUizF2lV5Br2YRcrcC6N8zS5wemnVJAmmmGI0qvONykvRmHp79PPeByQAHXLSKDQVJGvYFBLvGZ8dfjJW+FnBMPWd1//QpJgR1lCLerm+46b2qd06MHI64bNZ/k5ThwPePdjk103/8RYTL1uA=;6XKCrSj+lGoQ+k6PqfHzJA=="

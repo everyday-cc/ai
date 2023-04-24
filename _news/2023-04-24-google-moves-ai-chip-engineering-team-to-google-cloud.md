@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/google-moves-ai-chip-en
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/google-moves-ai-chip-engineering-team-google-cloud/article66772554.ece/amp/"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hindu
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "How AI Can Transform The Software Engineering Process"
+    excerpt: "Generative AI will expedite the pace of modern software development, promote experimentation and even transform the current software engineering funnel in the future."
+    publishedDateTime: 2023-04-24T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6058b5411e82e550078f5886/0x0.jpg?format=jpg&width=1200"
+        width: 790
+        height: 526
+        isCached: true
+  - title: "Drones can fly themselves with worm-inspired AI software"
+    excerpt: "Liquid neural networks, a type of artificial intelligence tool, are unique. They can extrapolate and apply previous data to new environments. In other words, “they can generalize to situations ..."
+    publishedDateTime: 2023-04-19T20:08:00Z
+    webUrl: "https://www.popsci.com/technology/liquid-neural-network-drone-autonomy/"
+    ampWebUrl: "https://www.popsci.com/technology/liquid-neural-network-drone-autonomy/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/liquid-neural-network-drone-autonomy/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 59
+    images:
+      - url: "https://www.popsci.com/uploads/2023/04/19/DJI-drone.jpg?auto=webp"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "How Chip Engineers Plan To Use AI"
     excerpt: "Semiconductor Engineering sat down to discuss how AI is being used today and how engineers expect to use it in the future, with Michael Jackson, corporate vice president for R&D at Cadence; Joel Sumner,"
     publishedDateTime: 2023-04-20T15:18:00Z
@@ -41,15 +73,6 @@ related:
         width: 788
         height: 443
         isCached: true
-  - title: "Google Employees Reveal Why Bard AI Could Be Lying to You"
-    excerpt: "A new exposé has pulled back the curtain on some of Google Bard’s background function -- and it doesn’t look good. The ethics team at Google is responsible for identifying potentially ..."
-    publishedDateTime: 2023-04-20T14:31:00Z
-    webUrl: "https://www.thestreet.com/employment/google-employees-reveal-why-bard-ai-could-be-lying-to-you"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 19
 
 secured: "vn1FtOzhjDVNum5SXf4WnKnz5O6oQU++eWCX2nyqoCI0fX5TY1toyYmAhwMt7LUaCbA7hTG319eIaIfHKypxlWf9XVcr43jfA612/Nda2L4tRS9HQvRex5pd59K872GLQBDfxwJccKGLM9jW0cVSWpF/SvkSvvEpnXJgEL9qp/FUcCKbUXvNNpfVINOW+t3+KA8GFHYeH3L5pwxtHon5pnYo55t7fSumSkU5kb+cIeSCN9JcnpNNBjN1lz/YEx0m9krX/IX4T/pntWPa9BKVauMOBDnTJV4S9D4+U/OsDekyrVEtjrBTfbkCkFlgebRkXh2CyBT+yqHnY7wl0CZ0GM7w/cwiUqHLad/vmtGHo2g=;VyyUUScpSr9yTU8ZQqYPKA=="
 ---

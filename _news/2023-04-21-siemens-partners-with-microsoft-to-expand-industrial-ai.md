@@ -33,7 +33,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 95
+    quality: 97
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2023/04/leo-avi.jpg"
         width: 3053
@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Persistent Establishes Dedicated Microsoft Viva Practice Integrated with Generative AI"
-    excerpt: "Expands existing Azure Center of Excellence with AI-based Modern Workplace solutionsPUNE, India and SANTA CLARA, Calif., April 21, 2023"
-    publishedDateTime: 2023-04-21T08:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/persistent-establishes-dedicated-microsoft-viva-practice-integrated-with-generative-ai-1032249105"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
-    images:
-      - url: "https://mma.prnewswire.com/media/1022385/Persistent_Systems_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "AI-driven Microsoft Bing, startup You threaten Google's Search dominance"
     excerpt: "New AI features in Microsoft Bing search engine and startup You.com have started to threaten Google's Search dominance, as users seek more efficient search options."
     publishedDateTime: 2023-04-24T07:57:00Z
@@ -84,6 +70,20 @@ related:
       - url: "https://static.toiimg.com/thumb/resizemode-4,msid-99726281,imgsize-32894,width-800/99726281.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Persistent Establishes Dedicated Microsoft Viva Practice Integrated with Generative AI"
+    excerpt: "PUNE, India and SANTA CLARA, Calif., April 21, 2023 /PRNewswire/ -- Persistent Systems (BSE: PERSISTENT) (NSE: PERSISTENT), a global Digital Engineering provider, has announced the launch of a dedicated employee experience practice,"
+    publishedDateTime: 2023-04-21T09:30:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-persistent-establishes-dedicated-microsoft-viva-practice-integrated-with-/2023/04/21/9799289.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 46
+    images:
+      - url: "https://mma.prnewswire.com/media/1022385/Persistent_Systems_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Amazon and Microsoft's AI gains mask cloud slowdown"
     excerpt: "Once-booming demand for cloud-computing services is slowing as businesses rein in spending amid economic uncertainty."

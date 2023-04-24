@@ -196,6 +196,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023, Insights and Predictions for the Global Artificial intelligence (AI) in Supply Chain and Logistics Market Future"
+    excerpt: "Artificial intelligence (AI) in Supply Chain and Logistics Market Size 2023 | New Report (105 Pages) | Analytics | In"
+    publishedDateTime: 2023-04-24T03:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-insights-and-predictions-for-the-global-artificial-intelligence-ai-in-supply-chain-and-logistics-market-future-2023-04-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Cognitive System & Artificial Intelligence (AI) Systems Market Forecast: Analysis of Industry Trends and Opportunities | 2023-2030"
+    excerpt: "Apr 23, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The 2023 research report on the"
+    publishedDateTime: 2023-04-24T02:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-system-artificial-intelligence-ai-systems-market-forecast-analysis-of-industry-trends-and-opportunities-2023-2030-2023-04-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Healthcare AI And Machine Learning Market 2023 Latest Development And Prospects Microsoft, Siemens Healthineers, NVIDIA Corporation, Google X Herald"
     excerpt: "The  global Healthcare AI and Machine Learning market  research report published by market insight reports discovers the current ou"
     publishedDateTime: 2023-04-24T05:31:00Z
@@ -209,6 +237,20 @@ related:
       - url: "https://menafn.com/updates/pr/2023-04/24/ADC_ef30806b-5_Image_In_Body.jpg"
         width: 700
         height: 395
+        isCached: true
+  - title: "Global Artificial Intelligence in Platform as a Service (PaaS) Market 2023 Staying Ahead in Industry Upcoming Years by 2030 | Research Reports World"
+    excerpt: "The Artificial Intelligence in Platform as a Service (PaaS) Market Scope and Overview Report for 2023 presents a"
+    publishedDateTime: 2023-04-24T06:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-platform-as-a-service-paas-market-2023-staying-ahead-in-industry-upcoming-years-by-2030-research-reports-world-2023-04-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "niTveCTPlJsUrSFQGH7AhEg+T1nR+G3vzH+2wvpEsmdcceG5p70Gs8vclw/3JhJK837juCoWoSQUVFsj/OAYnhy2ikat/KrPdhKILV86cW6SiDtxhh+pJRnPsGCBAS/YbqYQAxPKhqKFjTx5DVzrhM7lwR3Qh52hPGokH6tKO6IvT+/NcglRPUb1ezYsDlOO9pg3gbG0SZcF7mdRieC312W8dUaHk8WV3hpk1RrtHsgbk+naaYaEbzlXRrFBLjxqMOqQBpfIwHqgJlcV47iUmpKZ4GkNQ1nEkfJFJArkynH0mQkH+9/vYVddWklAe636Qg5mwzGKgzWs5qCrN5PkLaCI7ZR2mYE6z2bdikO6jok=;FpgkVbNB0yPDkVlqguFU1A=="

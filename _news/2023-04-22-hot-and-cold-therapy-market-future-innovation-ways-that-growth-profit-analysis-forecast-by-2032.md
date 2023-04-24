@@ -7,7 +7,7 @@ originalUrl: "https://www.fmiblog.com/2023/04/21/hot-and-cold-therapy-market-fut
 webUrl: "https://www.fmiblog.com/2023/04/21/hot-and-cold-therapy-market-future-innovation-ways-that-growth-profit-analysis-forecast-by-2032/"
 type: article
 quality: 5
-heat: 5
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,75 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "Facial Recognition Market SWOT Analysis till 2030"
+    excerpt: "Facial Recognition Market” Are a Collection of Information and Analysis Obtained From Diverse Sources to Aid Businesses"
+    publishedDateTime: 2023-04-24T04:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-swot-analysis-till-2030-2023-04-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023 Face Recognition Technology Market Size Predicted to Boost Growth and Demand by 2030"
+    excerpt: "Apr 20, 2023 (The Expresswire) -- \"Face Recognition Technology Market\" information for each competitor includes (Crossmatch, NEC, Daon, Facefirst"
+    publishedDateTime: 2023-04-20T17:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-face-recognition-technology-market-size-predicted-to-boost-growth-and-demand-by-2030-2023-04-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023-2029 \"Facial Recognition Access Control Solutions Market\" Future, With 122+ Pages By IRB"
+    excerpt: "Report Highlights with 122+ pages: -\"The global Facial Recognition Access Control Solutions market looks promising in"
+    publishedDateTime: 2023-04-22T08:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2029-facial-recognition-access-control-solutions-market-future-with-122-pages-by-irb-2023-04-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The politics of facial recognition in the US still swings like pendulum"
+    excerpt: "Privacy advocates have pushed through a near-total ban on government use of facial recognition in the largest city in the state of Alaska."
+    publishedDateTime: 2023-04-20T19:38:00Z
+    webUrl: "https://www.biometricupdate.com/202304/the-politics-of-facial-recognition-in-the-us-still-swings-like-pendulum"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1333
+        isCached: true
+  - title: "Facial recognition company says it collected 30 billion social media images for police to use"
+    excerpt: "New York facial-recognition company Clearview AI says it has collected 30 billion images from Facebook and other social media platforms to build its vast database of images that critics complain amount to a perpetual police line-up."
+    publishedDateTime: 2023-04-21T23:09:00Z
+    webUrl: "https://www.fox26houston.com/news/facial-recognition-company-says-it-collected-30-billion-social-media-images-for-police-to-use"
+    ampWebUrl: "https://www.fox26houston.com/news/facial-recognition-company-says-it-collected-30-billion-social-media-images-for-police-to-use.amp"
+    cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/facial-recognition-company-says-it-collected-30-billion-social-media-images-for-police-to-use.amp"
+    type: article
+    provider:
+      name: KRIV
+      domain: fox26houston.com
+    quality: 28
 
 secured: "EGWU0s7M9ITUQ7jiZq04bJRlQgmSgMGp/wvlaaazAR3Bn8P6z6OnrpoTz8qyly72mPs8TWECgsZNHRk5AcuSpWVCWeCGIJiG/3A1+MNWnguGjuT0Gz3YAtMg5b7SWO0H9I+GU2Y60E7scfZplZcYSfQsGmYNiMwUh2voaJrEgQ+nGM8UJfoZljzJ+q/9ejZd0YfiS22aX/icF0u9IlpP/Lw81rPqZ5eLCVjBvM7vzP0Vc88EHlofILdJWxFQu7B6E5ZRpYTdZhZuWLiJD3QorwlkYf3Nt31wFpXYpgsxzR/HRTBgjNJv6H6K+WGJgl+ss2gnTgHAl5GKaibCw+1xv0W+BHva2ogqzjRHnypf6mQ=;Bkqi1CXukIJHneJwLlyAgw=="
 ---

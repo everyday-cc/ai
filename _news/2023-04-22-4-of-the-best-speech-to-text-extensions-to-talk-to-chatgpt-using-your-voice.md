@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Torah is the anti-ChatGPT. But we can embrace artificial intelligence without losing our soul."
-    excerpt: "Launched in November 2022, ChatGPT, driven by artificial intelligence, or AI, has been interacting with the public for six months now, gathering data and improving its performance. In those months, the chatbot has already passed exams in four law courses at the University of Minnesota and another exam at University of Pennsylvania’s Wharton School of Business."
-    publishedDateTime: 2023-04-19T18:50:00Z
-    webUrl: "https://www.jta.org/2023/04/19/opinion/torah-is-the-anti-chatgpt-but-we-can-embrace-artificial-intelligence-without-losing-our-soul?preview_id=1832352"
-    type: article
-    provider:
-      name: Jewish Telegraphic Agency
-      domain: jta.org
-    quality: 27
-    images:
-      - url: "https://www.jta.org/wp-content/uploads/2023/04/robot-quill-header.jpg"
-        width: 2160
-        height: 1200
-        isCached: true
 
 secured: "KNZ/eHQIhTlWPwPuLN7ht7T2i8HVDmWM6PNkVaNLupNkHNFMQ5FoHB2/ObRAbPdWpnjbk3i9LNXOAy3fqn1tO2OjsudTrbRZg9kwcTGo9VcUTjdb9eo8JoT5/php3ne3NfvODSJQFlMHSUfpBWiBvnKFR7GZsS6Jbit5YKZEFMQLvC7zMH4aFun1jW89tpAFNlBigSbr2axRlQt+zZlZfRCsxDt6iYLQbpZkHQYXD4Cp2fFFG3fDmACvwsbQsfTRFR8l1HwBdL5cFLndvaEYxR2YZ7/VLCruqsQmEEwB77B2dS8lZ9xEOaJ0MQq0dRvsKgmQ9c2svtJLfrCGRhMDnhY5osch3hcnUxth4DKset4huV9eZXlqNP8SyQyKjGVyMlWfGFvA/ENP6oTh09Q+r/gquxEIDy+qKEsEGBz4Vqcqb130RtlpbDHUXuPKNaIKwQbPEPQiwKxJdegk4/1PsxejwE0ZHW5WrzptK30i5mMapluBpeHkefLPeo2lXAlJ2px+n+vbc+yC82IYssul9g==;QSajatynAufZDBNVu9+Fhg=="
 ---

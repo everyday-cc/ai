@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/conversational-ai-
 webUrl: "https://markets.businessinsider.com/news/stocks/conversational-ai-market-size-worth-usd-25-04-billion-in-2028-–-emergen-research-1032251795"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Educational Robot Market Size Worth USD 4.02 Billion in 2028 – By Emergen Research"
+    excerpt: "Discover the future of education with Educational Robots. Explore the market overview, growth drivers, restraints, and statistics from top"
+    publishedDateTime: 2023-04-24T11:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/educational-robot-market-size-worth-usd-4-02-billion-in-2028-–-by-emergen-research-1032253062"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
   - title: "Surface Inspection Market Size Worth USD 6.03 Billion in 2028 – Emergen Research"
     excerpt: "Surface Inspection Market expected to reach USD 6.03 Billion by 2028, according to Emergen Research's latest report on industry growth and"
     publishedDateTime: 2023-04-23T18:43:00Z

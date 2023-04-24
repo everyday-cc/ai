@@ -9,8 +9,8 @@ ampWebUrl: "https://diginomica.com/why-struggle-ethics-generative-ai-more-comple
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine?amp"
 type: article
 quality: 71
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: Diginomica
@@ -27,21 +27,23 @@ images:
     isCached: true
 
 related:
-  - title: "‘Hurtling into the future’: The potential and thorny ethics of generative AI in healthcare"
-    excerpt: "Generative AI has roared onto the tech scene through the large language model backing ChatGPT. Companies are already deploying the algorithms in hospitals. Should healthcare be taking a pause?"
-    publishedDateTime: 2023-04-21T17:49:00Z
-    webUrl: "https://www.healthcaredive.com/news/generative-AI-healthcare-gpt-potential/648104/"
+  - title: "5 Crucial Components Of An AI Company"
+    excerpt: "In this article, I'll explore five crucial factors that should drive the decision making of VCs and investors when identifying investment opportunities and evaluating long-term potential in the competitive and oversaturated AI space."
+    publishedDateTime: 2023-04-24T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/amp/"
     type: article
     provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 61
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.healthcaredive.com/imgproxy/8M_A439q-vnByLYslrpRv46QwDEdqq2VaHH_J_yrQMY/crop:1810:1022/g:nowe:874:1456/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0lNR184NjYwLmpwZw.jpg"
-        width: 770
-        height: 435
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6442b28cc7d2114a4afa0045/0x0.jpg?format=jpg&width=1200"
+        width: 1014
+        height: 676
         isCached: true
 
-secured: "lpNAOVDagM9CWospIyKT6uI9cnyOp4mMpenpLYrjes+p8LkE2RZX2QF68mA9gmmQZ2NqtABAGrSJNx5JPSJj9nJn0+XxIm6SyP6Wm6bPYcc+LJ+OgD+qbvGnFpKOn2flBcieg+5CRUA507CMEKfvURVVyaQ5DoNpCEqrOYetXwghuSTU2pAFHQ75S+RT/TSyEcoKwoWrCrWAc0x/LCGJuL8pPOfTk0gm/3ytOYZm0GLYuK0eANgzBMvUKqgkJx5Ep4Mx0jWpV8vjj+Hv6zEVaDUEYzFQwySK9eERkh1B+QeDMcr9ywiQ5vOPGPcngMYdBmHalCrw8seAuk1it3+6N4ELeitc3VDo/heQqGofXhE=;2zrJ06IxhlSt2zot8AvVVg=="
+secured: "t9Ks/x+yDke2oAUcRsM11Tcxthkwf1Kig06NDLCHsSPU7gnXXMO9DKl5GCKsd8NmX5l39sHN2eAG17l5HmHfFgnR6raqvr3mgsvFFGspSprVnjj8hl6ezDq9FpuL93p5lCwPMTJYmz2D8uG6quUU1Y4aQp6wkqsxrjb0G5BioP0I6CimBOzjkcHR+pBizq42AccwjqgeHSKo9gPeEchJi9K3ubQfIwNK/MAhWtmQCfSlSZhn08YdRz5biDxY7/3EirE4s64WUYMOUzJZuc8Uk4BnY3YeH9/x+/gi710X+Izah/pJpAAoDa4QqL5bCKIfe0tWMjW195PyefZ6fkjljxVLluC6NBhPFEbsVJ41AeAjOHeAXXyHfmwvYyy08Tm+dAcK7OR8OlDJHePHUVCSk3Uy5kf+wW1KHXImbKv/WknGBBWLthIGohGanUzEnm8S4c4dXIbUbvTrKQbt3Nm+Q+f2mJE1uJdXp1LirFACkvhxsyo/yhpQ5HpUUu2vk0iePF5s6F0J2QgQfDXJCcRlCA==;1786nVgBSxuEWt5fn7/MSQ=="
 ---
 

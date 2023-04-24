@@ -29,48 +29,68 @@ images:
     isCached: true
 
 related:
-  - title: "Businesses turn to facial recognition technology to avert shoplifting and robbery"
-    excerpt: "Fox News’ Douglas Kennedy reports that shoplifting and robbery crimes are up 22% from last year, prompting business owners to use facial recognition technology to stop repeat offenders."
-    publishedDateTime: 2023-04-21T16:02:00Z
-    webUrl: "https://www.foxnews.com/video/6325508060112"
+  - title: "Facial Recognition Market SWOT Analysis till 2030"
+    excerpt: "Facial Recognition Market” Are a Collection of Information and Analysis Obtained From Diverse Sources to Aid Businesses"
+    publishedDateTime: 2023-04-24T04:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-swot-analysis-till-2030-2023-04-24"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 64
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f9568c0-e2b3-4369-b71e-f2066447ffc9/c9ff9a97-7061-475b-bcd1-902a42a763be/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Anchorage Assembly restricts city use of facial recognition technology"
-    excerpt: "Assembly members said the legislation is meant to protect privacy rights of residents and staff and guard against misuse of the technology for surveillance. Anchorage police currently do not use facial recognition,"
-    publishedDateTime: 2023-04-19T23:55:00Z
-    webUrl: "https://www.adn.com/alaska-news/anchorage/2023/04/19/anchorage-assembly-restricts-city-use-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Alaska Dispatch News
-      domain: adn.com
-    quality: 39
-    images:
-      - url: "https://www.adn.com/resizer//JlJqZb7e_3uAJMFy2MslBdKxd-8=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/GDKTA7DILVCJRCBWX4YHCKST5Q.JPG"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "We need to have a major debate about facial recognition technology before gardaí can use it"
-    excerpt: "First of all, let’s be clear on what we’re talking about. Facial recognition technology (FRT) is a system capable of matching a human face from a digital image or a video frame against a database of faces. Many of us have it enabled as a security ..."
-    publishedDateTime: 2023-04-24T01:35:00Z
-    webUrl: "https://www.independent.ie/opinion/comment/we-need-to-have-a-major-debate-about-facial-recognition-technology-before-gardai-can-use-it-42445330.html"
+  - title: "2023-2029 \"Facial Recognition Access Control Solutions Market\" Future, With 122+ Pages By IRB"
+    excerpt: "Report Highlights with 122+ pages: -\"The global Facial Recognition Access Control Solutions market looks promising in"
+    publishedDateTime: 2023-04-22T08:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2029-facial-recognition-access-control-solutions-market-future-with-122-pages-by-irb-2023-04-22"
     type: article
     provider:
-      name: Independent.ie
-      domain: independent.ie
-    quality: 29
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
-      - url: "https://www.independent.ie/opinion/comment/358a1/42445328.ece/AUTOCROP/w1240h700/1333881337"
-        width: 1240
-        height: 700
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "The politics of facial recognition in the US still swings like pendulum"
+    excerpt: "Privacy advocates have pushed through a near-total ban on government use of facial recognition in the largest city in the state of Alaska."
+    publishedDateTime: 2023-04-20T19:38:00Z
+    webUrl: "https://www.biometricupdate.com/202304/the-politics-of-facial-recognition-in-the-us-still-swings-like-pendulum"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1333
+        isCached: true
+  - title: "Facial recognition company says it collected 30 billion social media images for police to use"
+    excerpt: "New York facial-recognition company Clearview AI says it has collected 30 billion images from Facebook and other social media platforms to build its vast database of images that critics complain amount to a perpetual police line-up."
+    publishedDateTime: 2023-04-21T23:09:00Z
+    webUrl: "https://www.fox26houston.com/news/facial-recognition-company-says-it-collected-30-billion-social-media-images-for-police-to-use"
+    ampWebUrl: "https://www.fox26houston.com/news/facial-recognition-company-says-it-collected-30-billion-social-media-images-for-police-to-use.amp"
+    cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/facial-recognition-company-says-it-collected-30-billion-social-media-images-for-police-to-use.amp"
+    type: article
+    provider:
+      name: KRIV
+      domain: fox26houston.com
+    quality: 28
+  - title: "Hot And Cold Therapy Market Future Innovation Ways That, Growth & Profit Analysis, Forecast by 2032"
+    excerpt: "The global Hot And Cold Therapy Market has been estimated at US$ 1287.27 Million in 2022. Looking ahead, FMI expects the market to reach US$ 2728.09 Million by 2032, increasing at a 7.8% CAGR between 2022 and 2032."
+    publishedDateTime: 2023-04-21T18:06:00Z
+    webUrl: "https://www.fmiblog.com/2023/04/21/hot-and-cold-therapy-market-future-innovation-ways-that-growth-profit-analysis-forecast-by-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 5
 
 secured: "c0pF1wwsgClwhYw3rpklAnHz0HiS9qgeWxPUs8WMBE1BsGTnWMxJaA6HYcV8fS6+UBN4MDD2AGtEtpmpplUxaLEwxAMmtDhBsUL5+2qubYSrWad0GGHnJ+l5kVPwBFSCZLRs5iRrcf73Xdc2GCXeWrZ4pgpXL0cDYjdfhFwnSQVI66XHMqKihtPELu7qKnWtAl08D8X/DExqixbjDkgI0o1/GC0W0mkoniQh/k8PH7Y6x6WAF2fdbEa7xHbgxFz+wuLvBNMJHUUjpN2XHxXWfGlvhySWVPu8OMuB1kllmNv1y53q9mleGiCT8Rqw/TnB6NvEzzNXROSQgoAeEviBX1nVKAugdEln7pSK6HM/3ew=;dTp/gZYFYGquYhqaIOSHWg=="
 ---

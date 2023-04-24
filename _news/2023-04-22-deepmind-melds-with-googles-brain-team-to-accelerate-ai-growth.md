@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/deepmind-melds-with-googles
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepmind-melds-with-googles-brain-team-to-accelerate-ai-growth/"
 type: article
 quality: 106
-heat: 226
+heat: 236
 published: true
 
 provider:
@@ -210,6 +210,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Google Merges Brain Division and DeepMind"
+    excerpt: "Google is no longer treating artificial intelligence like a side project—Microsoft and OpenAI have seen to that with the public availability of ChatGPT. Google has already started reorganizing to improve its Bard AI."
+    publishedDateTime: 2023-04-21T18:00:00Z
+    webUrl: "https://www.extremetech.com/science/google-merges-brain-division-and-deepmind"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 34
 
 secured: "x1vkJBXyK+jXDncgM02bYgaQu4pl+YBVAF1ue9OQt7w0gBqUEZSr/HXko7p3v2Msk3h3IddpIsDgv4kqakzO7DWDfvGfFseBpEbsGn6ELCINp6lUVxUz11ksB88hynSFvkk1R+8/2Ie9C3+NvpISoik/m2NJnGQDhTUfGHgdFIcEDLLIJzZkyBACW47VK93NTrmwGa/mipq6+3TByz1oR2sHj1YjcnrqnYHcdYQ9rfNa8oKiubbdDEFVKau9yn4XXy4BVHVoVxRIYbiBvW0g0gVaGltsdoq5XcIwgHt+X/lCbkj1IDzcWmRwSvbccCxzQE1Y4Qp2HmFeVbdzJlHVhUW7sQFL1bZP6Yz+5kkSNbOK0b2beBRk/Sq1FTyHJLe1V5bxqvBzCs8GJyANxH/ihFBXqz4863kTKBqDcY1pKB2xCb7uivAkRLSZsBSwJQJJJVjmvPZa5FhEpsF8uP8/g2qs/aY0Oqj3/8wl5bcz6WGxr50LKD0+UyWjZG9yTJsmYTzjcx8rg7zQc+Sw0fbXhA==;woMWuGEbv4FOqUfwkpOwIQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/blakemorgan/2018/07/16/how-amazon-has
 webUrl: "https://www.forbes.com/sites/blakemorgan/2018/07/16/how-amazon-has-re-organized-around-artificial-intelligence-and-machine-learning/"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 870
     isCached: true
-
-related:
-  - title: "How drones, robots and AI deliver what’s new in on-demand dining"
-    excerpt: "If selecting spicy tuna rolls from a conveyor belt and crafting a barista-grade coffee from a vending machine are the appetizer of automation, just think how droids, drones and AI chatbots spice up our entrées — with choice and convenience right at our fingertips."
-    publishedDateTime: 2023-04-19T18:31:00Z
-    webUrl: "https://www.nrn.com/delivery-takeout-solutions/how-drones-robots-and-ai-deliver-what-s-new-demand-dining"
-    type: article
-    provider:
-      name: Nation's Restaurant News
-      domain: nrn.com
-    quality: 54
-    images:
-      - url: "https://www.nrn.com/sites/nrn.com/files/robot%20food%20delivery.jpeg"
-        width: 770
-        height: 400
-        isCached: true
 
 secured: "IeZF0B7K6d7Ycx7J/uBpY6HcoCv6k0/jsXzDHFM6ZEB+a12P0n7IeoTLhY1OPtrAOopVyZg0OdcbgqBqEcBkrV7YnpSUBryfPlsnIGmqfXTI7ppXG5C4tAeF/jk3sFR4icWoZ7CXG89eOq3R61vvosyymh2gcuuhdDL6ZxT0x1xQSSJYMMIdJTyYMVcWRAIoWybGFLMbF96+fApzxB0o2BpRN0er4LtMZRyq0aIy4CbEyNWCov6dvwXSmrI37MomgmrASI2Tw/xBucTuHNrgDYOu9JwAIq8WOCvJo5pRqh2rkgNe31wRCdoPxNDZmJVg6FoO5ZBOyO3zJKnk1TJStZi5/lNQpRndDxLSYkD1Bvk=;R/P+Yrt2XAGRBrZRcvNERg=="
 ---

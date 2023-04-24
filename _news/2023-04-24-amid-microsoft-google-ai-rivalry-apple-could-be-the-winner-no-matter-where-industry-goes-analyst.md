@@ -6,8 +6,8 @@ publishedDateTime: 2023-04-24T09:12:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/amid-microsoft-google-ai-rivalry-apple-could-be-the-winner-no-matter-where-industry-goes-analyst-1032253335"
 webUrl: "https://markets.businessinsider.com/news/stocks/amid-microsoft-google-ai-rivalry-apple-could-be-the-winner-no-matter-where-industry-goes-analyst-1032253335"
 type: article
-quality: 73
-heat: 73
+quality: 75
+heat: 75
 published: true
 
 provider:
@@ -23,6 +23,7 @@ topics:
   - AI
   - Microsoft AI
   - Facebook AI
+  - Computer Vision
 
 images:
   - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Apple_logo_on_macbook_2.jpeg"
@@ -30,6 +31,6 @@ images:
     height: 768
     isCached: true
 
-secured: "WRAJwOeTEjxn0THWavGcP/uaTzR9u0Jcj96YDeklQPrP2+YcM6rLylpVzKoerILSTWQ/jQahFJWW+y7IES9rKfj/h/2+Y8jmIXszShkV3OXeTPNSzlE+zp9AmxPEkJnQAvDVXFoaL/66QRrKZuBeVjtH9qmYXSoi1fhFmdJXvFZkfYS5cD9oeeotWy4oxgHlx1ewa21yLkvyGwhkrmo4XPmREHI2k5MQr/Xn+xegALDPPuEU7BkC/grbkgkNuM/JIFL7SDSjpo6C/cpcEQtoGuWi8qOYTjOoFkIOnU8O2Gpih6THbnE1bhkRdTMYtRFhuw3Sxq/7oTrDFnZo6z+fOJCH7X5wvCU9EnO+wa6Bfj0=;rZd1V5cEVQdIaFrvMZLqFA=="
+secured: "P5QwU2fkgFp5WvGBtzU8Km6CROmemfRBuGlIghpfnb2rI2bHaTlt37Nx13nZlYooJE5fmdJzb0KVsYRUx0wQJbtT1Gn5KYThN38oD2QkJcc7Jj5XJgJ2Q7RrSIBRtPAEYpQxw7Nl7WKNmi0zRPnoubRzemP6CJsBuwYMblWvvIzIVdi1bTySQqYjr+WMiy/I/ta9wx2/glshIjgqN1SsF5uC+Rd8Gi9KirNUYq+T3jpcvIwbf1i90qQ4c2cEV6WrGcwf8uUyKrX4wRWy00sKv5OJj3Inj9a0/0tydOgoZP7qjvMHZ2AlAFIVifg3eyknD6KP7kssfFRWgO4PxbWmY3wcine/hYQQnvCmXfNolAfmPYkBL1TBRP5381bvz9IAHMRLtTm9pp+ZZfonIQjiL9WdSwLkgU/4HkDDmBwHhTmSKrNzReFteS9m0DKasfwGKc/OIg+MNOy9cA5dkM5nS/eqd9pmCQtzVk29ScEMZUYnryfhpU8ze/shJUm7eEZ4ehUkAzqDAtFat3RT1GAgKA==;U3tZ13LZofqQN1YaB4kEkQ=="
 ---
 

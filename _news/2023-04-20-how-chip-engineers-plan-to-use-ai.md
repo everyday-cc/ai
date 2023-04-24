@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "How AI Can Transform The Software Engineering Process"
+    excerpt: "Generative AI will expedite the pace of modern software development, promote experimentation and even transform the current software engineering funnel in the future."
+    publishedDateTime: 2023-04-24T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6058b5411e82e550078f5886/0x0.jpg?format=jpg&width=1200"
+        width: 790
+        height: 526
+        isCached: true
   - title: "Google moves AI chip engineering team to Google Cloud"
     excerpt: "The team at Google which was engineering artificial intelligence chips has been shifted to the Google Cloud sector, according to a report by The Information."
     publishedDateTime: 2023-04-24T06:09:00Z
@@ -41,15 +57,22 @@ related:
         width: 1200
         height: 814
         isCached: true
-  - title: "Google Employees Reveal Why Bard AI Could Be Lying to You"
-    excerpt: "A new exposé has pulled back the curtain on some of Google Bard’s background function -- and it doesn’t look good. The ethics team at Google is responsible for identifying potentially ..."
-    publishedDateTime: 2023-04-20T14:31:00Z
-    webUrl: "https://www.thestreet.com/employment/google-employees-reveal-why-bard-ai-could-be-lying-to-you"
+  - title: "Drones can fly themselves with worm-inspired AI software"
+    excerpt: "Liquid neural networks, a type of artificial intelligence tool, are unique. They can extrapolate and apply previous data to new environments. In other words, “they can generalize to situations ..."
+    publishedDateTime: 2023-04-19T20:08:00Z
+    webUrl: "https://www.popsci.com/technology/liquid-neural-network-drone-autonomy/"
+    ampWebUrl: "https://www.popsci.com/technology/liquid-neural-network-drone-autonomy/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/liquid-neural-network-drone-autonomy/?amp"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 19
+      name: Popular Science
+      domain: popsci.com
+    quality: 59
+    images:
+      - url: "https://www.popsci.com/uploads/2023/04/19/DJI-drone.jpg?auto=webp"
+        width: 2000
+        height: 1125
+        isCached: true
 
 secured: "YDxj5vnMRYU2bUFK/qOmEuILo8plQz7N1ycBQ979CW4c7K+zbUWdxLPBhA2QLCHwsyWGfUcMPPQ15J2q5z3Rvs1/s6lMKyJG2o+CNxNFBqkz97CAHy74kagiT+m4g942ymf9FDqkmjym0UzLKorD9hlHFh322gjLLL4nereURZ1/65kyc0zcDhodr06Ugo0w+Gumg6Ifprd7kr/CiiSKjz2j/RHChySK3bwiElawYzIrODOssgQpYY0e6sMzkGURfnkFXOgqBM+kvZlvwnGvA9qysxtRrEzBfDyJ61vQhQzqIfc74NtnZekvcR0/aMDhrl6F+4BmpcmRJuobXtFa8oH8odJ94Z3RFGU7OBnf8iw=;UkvOuk4AK10orqHNIiHP0A=="
 ---

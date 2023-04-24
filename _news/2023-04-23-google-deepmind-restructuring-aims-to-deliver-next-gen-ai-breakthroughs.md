@@ -205,6 +205,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Google Merges Brain Division and DeepMind"
+    excerpt: "Google is no longer treating artificial intelligence like a side project—Microsoft and OpenAI have seen to that with the public availability of ChatGPT. Google has already started reorganizing to improve its Bard AI."
+    publishedDateTime: 2023-04-21T18:00:00Z
+    webUrl: "https://www.extremetech.com/science/google-merges-brain-division-and-deepmind"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 34
 
 secured: "Ep5EGoRjLE2eJNAWExunojTS3W3/Zlu/KZwRcOj+jtxyEV1il8AEqaoIaTMVX15juB9mIsk4kXpIxhb+ypKi3SFGWkSpnLshW37bR46falpyNKrVF8eXnOHbsRq877vOSLVH38QyrnJd44CUsCQbOgs/+uTvNkxQVVw0s7TP3cRv/ngnFc4avVvV+nEFSlnqcCHSOKJrLyQyL09Q7TcYx4vi69xoMheC64akHATMI1xFVn2N4xhYELcF9FUMpzXTcIlaeYZgCT+A7GobZdEqRT58gkDzzdHumaZEKex+S1U92NDTyB66B/TqqCjK7AQwgPOBHhYkzHzJ0oWAZIeg8Vw9duxvS8uBTcxVc4KYuYo=;HXrF3MWAtFo8YjHAcOUdWQ=="
 ---

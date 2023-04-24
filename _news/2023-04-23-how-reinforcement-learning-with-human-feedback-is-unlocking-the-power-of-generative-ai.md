@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/ai/how-reinforcement-learning-with-human-fee
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-reinforcement-learning-with-human-feedback-is-unlocking-the-power-of-generative-ai/amp/"
 type: article
 quality: 83
-heat: 93
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -32,19 +32,79 @@ images:
     isCached: true
 
 related:
-  - title: "Unlocking the safe deployment of embodied artificial intelligence through intelligent regulation (Guest blog by Wayve)"
-    excerpt: "At Wayve we are reimagining the future of mobility by building embodied AI software that gives vehicles the intelligence to drive anywhere. We call this pioneering new approach to self-driving, AV2.0."
-    publishedDateTime: 2023-04-21T08:46:00Z
-    webUrl: "https://www.techuk.org/resource/aiweek2023-wayve-fri.html"
+  - title: "Using Generative AI In Workforce Management"
+    excerpt: "Generative AI is the most transformative thing in the business landscape right now, perhaps even since the proliferation of the internet."
+    publishedDateTime: 2023-04-24T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/amp/"
     type: article
     provider:
-      name: techUK
-      domain: techuk.org
-    quality: 15
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/7bcc45c3-c77a-41cc-bb74ad0762398373/opengraphimage_83f4e8796336604b59d7216d0ecd81a5_4a7c7e45a350/AIWeek2023-Wayve-Fri.png"
-        width: 400
-        height: 209
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62825152c50f091b0e2568f8/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Three issues with generative AI still need to be solved"
+    excerpt: "While generative AI has captured the attention and imagination of many in the tech world, underlying issues could hinder its spread."
+    publishedDateTime: 2023-04-20T12:58:00Z
+    webUrl: "https://www.computerworld.com/article/3694189/three-issues-with-generative-ai-still-need-to-be-solved.html"
+    ampWebUrl: "https://www.computerworld.com/article/3694189/three-issues-with-generative-ai-still-need-to-be-solved.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3694189/three-issues-with-generative-ai-still-need-to-be-solved.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/02/shutterstock_1227346972-100937394-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "India’s Chip Design Workforce Faces Massive AI Threat"
+    excerpt: "AI-based tool for FPGA designers showed about 5 times (more in many cases) improvement in the output by senior engineers"
+    publishedDateTime: 2023-04-24T09:00:00Z
+    webUrl: "https://analyticsindiamag.com/indias-chip-design-workforce-faces-massive-ai-threat/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/04/ai-india-chip.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Siemens and Microsoft Drive Industrial Innovation & Productivity with generative AI"
+    excerpt: "Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency across the design, engineering, manufacturing and operational lifecycle of products."
+    publishedDateTime: 2023-04-20T02:44:00Z
+    webUrl: "https://www.ien.eu/article/siemens-and-microsoft-drive-industrial-innovation-productivity-with-generative-ai/"
+    type: article
+    provider:
+      name: ien
+      domain: www.ien.eu
+    quality: 48
+    images:
+      - url: "https://cdn3.tim-europe.com/websites/ien/typo3temp/assets/_processed_/f/5/csm_WP_Siemens_page-0001_917f2767e6.jpg"
+        width: 300
+        height: 389
+        isCached: true
+  - title: "Generative artificial intelligence on our “Babbage” podcast"
+    excerpt: "GENERATIVE AI is taking the world by storm. Babbage has explored artificial intelligence through a variety of lenses. OpenAI’s ChatGPT, an advanced chatbot released in late-2022, amassed over 100 million monthly active users and exhibited unprecedented capabilities,"
+    publishedDateTime: 2023-04-20T11:51:00Z
+    webUrl: "https://www.economist.com/AI-pods"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230422_STP502.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "GOXhPb2h95fG6LV3JFT+ecCo3CQfXRv1UfFtnvQRXdx2is531+lY/d1L0z0nMiQX/bKqSIfpxBUBCCHtmK3OyWQb4OJ8n/UyOqikphFGN28cp16HFfd5U2KyxdzdO4OR5itSg7hKwg8QeFL2BVYHrKTNBlY6yqG+i7j+IFeSQFTNqMpmqZj5RP0FTAjvWhxQ86viXO719czBjjtLE/7nTFrjwKnfaeLbrlkr/0R9mT5FeK9rND4bqNYlpJFsavr4XZircRs9K2+HoCVi1FUkbeko+Xm667HwIHZb9A4r3mDazd6eNPUsvJXp2AintvuynN8/PncvcHUilv00xou+2XDo+IpvthPh+cF4M0wyEPthUGH5iBuQH33EEl7aW4o/68ScNwg5TdNCFE4KaRr7HORliF0moozPru5tJuzUFbJ1R62M/tVntkwKGFMRx6apmO8kLXi6XD/UYTZkxv4OiusYOig5qeCsfXPJSmDCM6/PyzwIIUsk7LXMCNkoAm7q9qshRSBNUWqPAU90/O1PTw==;ly+iDUfhOlV7djpouZsvkA=="

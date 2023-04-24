@@ -7,7 +7,7 @@ originalUrl: "https://www.techuk.org/resource/aiweek2023-wayve-fri.html"
 webUrl: "https://www.techuk.org/resource/aiweek2023-wayve-fri.html"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 400
     height: 209
     isCached: true
-
-related:
-  - title: "How reinforcement learning with human feedback is unlocking the power of generative AI"
-    excerpt: "How reinforcement learning with human feedback helps ensure that businesses are building ethical generative AI models."
-    publishedDateTime: 2023-04-23T16:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-reinforcement-learning-with-human-feedback-is-unlocking-the-power-of-generative-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/how-reinforcement-learning-with-human-feedback-is-unlocking-the-power-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-reinforcement-learning-with-human-feedback-is-unlocking-the-power-of-generative-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_human_and_artificial_intelligence_working_together_to_un_5b2cbb9e-e380-4bb1-812b-366943b59568.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "yn/Bg3Xq8ZWZkn96czMhd2jQZhJcMQeFwPLgxYlrpnvPqT5tSiFZNkkXVcZyD56mNana/OLQ23cCBsZI/FpCzTuNluBklIStZNRlWc8HnMqW8ZN2OnCVGkGAnR4MPlbYCH3KholNKkvyR0Pb9En1d4rGw0CRU6MWoFeSwCJ3+80+8CK2rB6mMmNXeqJjdZCjzn7dMz1hbRkNBQkN4jU4jrPydHEUVJ9nN3g5rGm9DyoQnxUK6Fh7CqNHUju94Z4GPL/YdwRMOPp3WT09hp9vZQpj0lheQy6yBajkEGgA7u5I7vuavPLJdtvDFr+MlYO/hZOsKHrqXpOE+q5Nl8rztQ+IJcvKnFSZPNGWSTnfIz1t6VwOZRgKvHH7Hhu5QoD2GE/qbsc0mzLfD7ookvdNF//Or17GRRVctlP/6jZtGVdIJwC/dE4iyJaKLXIxFf91go269tYbX5JnJI7fHRTP8bYi5QZEr/sr15J8LSu3vjS4PvShMdu22qxdO4KvPZ38m0GpHINxwmlCpsI5lE+gGw==;bzmY+ShyCKoBEvl3Ic15cA=="
 ---

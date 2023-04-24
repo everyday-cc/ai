@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/sport/formula1/65361193.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/formula1/65361193.amp"
 type: article
 quality: 72
-heat: 103
+heat: 102
 published: true
 
 provider:

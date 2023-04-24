@@ -7,7 +7,7 @@ originalUrl: "https://www.foxnews.com/video/6325508060112"
 webUrl: "https://www.foxnews.com/video/6325508060112"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "2023 Face Recognition Technology Market Size Predicted to Boost Growth and Demand by 2030"
-    excerpt: "Apr 20, 2023 (The Expresswire) -- \"Face Recognition Technology Market\" information for each competitor includes (Crossmatch, NEC, Daon, Facefirst"
-    publishedDateTime: 2023-04-20T17:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-face-recognition-technology-market-size-predicted-to-boost-growth-and-demand-by-2030-2023-04-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Anchorage Assembly restricts city use of facial recognition technology"
     excerpt: "Assembly members said the legislation is meant to protect privacy rights of residents and staff and guard against misuse of the technology for surveillance. Anchorage police currently do not use facial recognition,"
     publishedDateTime: 2023-04-19T23:55:00Z
