@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Enterprise Artificial Intelligence Market 2023 Holding Highest CAGR by 2030"
+    excerpt: "The Enterprise Artificial Intelligence Market Scope and Overview Report for 2023 presents a detailed analysis of the"
+    publishedDateTime: 2023-04-24T06:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-enterprise-artificial-intelligence-market-2023-holding-highest-cagr-by-2030-2023-04-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Autonomous Driving Software Platform Market 2023 Insights and Precise Outlook -NVDIA, Sensible 4, Hexagon, Baidu"
     excerpt: "The Autonomous Driving Software Platform Market research report provides a comprehensive analysis of the market size, share, overview and growth prospects influencing the market growth. The global Autonomous Driving Software Platform market report helps buyers identify market challenges and opportunities."
     publishedDateTime: 2023-04-21T11:29:00Z

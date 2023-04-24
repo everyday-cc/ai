@@ -39,6 +39,15 @@ related:
         width: 955
         height: 490
         isCached: true
+  - title: "Hydrogen’s Hidden Phase: Machine Learning Unlocks the Secrets of the Universe’s Most Abundant Element"
+    excerpt: "Putting hydrogen on solid ground: simulations with a machine learning model predict a new phase of solid hydrogen. A machine-learning technique developed by University of Illinois Urbana-Champaign researchers has revealed a previously undiscovered high-pressure solid hydrogen phase,"
+    publishedDateTime: 2023-04-23T08:34:00Z
+    webUrl: "https://scitechdaily.com/hydrogens-hidden-phase-machine-learning-unlocks-the-secrets-of-the-universes-most-abundant-element/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 4
 
 secured: "M/8UWbr0x/mKnQYR4ETFVP0Ew8aFXXxqyT/MiSfK38ExUFHsRbSxlgQO5zP+/vIKBAnpksTaPssALstNKfFN7jbioNYn1Pvdb7amM/hul4gyPS1Y7CYhTHN4DqXBTNlVyzbqJa1tQcwRRy+tzBeliUUGXZE52ODpmhFmuQn+0dezIgByataYkFSAlVDK/HeMjAVvqyxPpfQcPrZ5IFTjDZ1+evFWo4muCTa/DzBfrhY5DCe87+PEWsqOaRWf72eM87j7Q5llUobpC4/CFXgU3ptMvAyZfgLFKRmipp3zAlCsOaDomTkliIy2EJkOy0A+a+hM1r+FSmLA5hnvqIjNIsgnma5vsD9v7FdtLvOqmpg=;HO1XCQE5my8L5FjeUkIxdA=="
 ---

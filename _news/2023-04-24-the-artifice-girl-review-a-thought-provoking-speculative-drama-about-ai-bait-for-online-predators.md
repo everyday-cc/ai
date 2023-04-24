@@ -9,7 +9,7 @@ ampWebUrl: "https://variety.com/2023/film/reviews/the-artifice-girl-review-12355
 cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2023/film/reviews/the-artifice-girl-review-1235578936/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     height: 563
     isCached: true
 
-secured: "iChu5C1ZUhPVrG7H7D5PL2kROKnScFM/BooJe8a5tDnDaX5EbG/8yojhLfBiW93lyojNXfL9zPY2/qO2Gjfc96km6t40PVx/ZvqphyNUosVEs861MZ5Oki4jOx67EhZIygp165bgkITbnDN8TJWu6+fcb6SwIN2lzaSgGrBXKILAo/YjX+HnzB2bSorfGVxKn1Z0spFEAQq+jxezlRgLeML4XLPseXpoHpdUYHTsPvIWVh5iSVU68h1gqpWy6wkhroKuK4fwhJ+gCZP3WzCeHbSOcBX/2xfvF9+OvejH8J13ZHaCiHUdabGkxdns5KFML7s7VKIl8orJKEdRClzkRElQavc1uyDPLdnW665hAYQ=;hsKXrTubURsEtsgzeeZv6g=="
+related:
+  - title: "The Artifice Girl review – talky AI sex-crime drama asks the big questions"
+    excerpt: "This debut feature aims to dissect the ethical dilemma surrounding our use of artificial intelligence, but can’t translate ideas into a cogent argument"
+    publishedDateTime: 2023-04-24T07:18:00Z
+    webUrl: "https://www.theguardian.com/film/2023/apr/24/the-artifice-girl-review-talky-sci-fi-drama"
+    ampWebUrl: "https://amp.theguardian.com/film/2023/apr/24/the-artifice-girl-review-talky-sci-fi-drama"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2023/apr/24/the-artifice-girl-review-talky-sci-fi-drama"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 55
+    images:
+      - url: "https://i.guim.co.uk/img/media/34ad496e655c081c4784a32727eae02e9c545359/261_0_3210_1928/master/3210.jpg?width=620&quality=85&auto=format&fit=max&s=2dda16d40fb430671399ffa2027c7728"
+        width: 620
+        height: 372
+        isCached: true
+
+secured: "pczU9HuQo8j+sHcpVl5EvNMohTRq8nkrGCqJpH+ssNaYMs9sKetudAmCASUUXYL8OJaeegIsGR16ajqcq42OcX+kaZeCYBx39ZOa3z4lLyJZoMVU3zZfpqxsbDEdkyl43Sf1x3mfroGZld2mWHkGMXycs+l4v+1rgbP70gcYaCg8rTd+d5c6c9iXAJy4hYev94TSAj+LmQ/NZvIuA0f2OMHIgV4ULez5VBnqfSO9JadCOtdGu0ZMQis4n9ipNWWZtnc0LtUJCHwWjq/ONHgpv6rjIDJF0BcHI4yWvkN2vtAtRsAU9zE3roLYDymPst1+/ivozIygVq/a1Sd/Xw+iLxP6PXJs9RUTe8pyU7LXtzDwLczhtWdQ5BHNstCL696mNLX6QFiF4TF1Shz1+x4NDEmMmcAwrBoeAsAVVEtbjNtfuiIC5evTQp7ahonzMxcvGtYWnkj1xXVyrkTkt58U/CVYvaQTOng6hcMlfjvC8V9iG4Jfd8RxsuigRVv6/jhaCXvK/vAUoLRyfVi31tCBdA==;Gs/iahkFIfevfZVpO15r0Q=="
 ---
 

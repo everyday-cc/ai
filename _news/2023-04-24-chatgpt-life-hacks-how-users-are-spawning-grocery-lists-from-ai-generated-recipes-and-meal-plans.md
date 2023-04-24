@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/lifestyle/chatgpt-life-hacks-spawning-grocer
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/chatgpt-life-hacks-spawning-grocery-lists-ai-generated-recipes-meal-plans.amp"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 675
     isCached: true
 
-secured: "aB+GQRwbtz1f1S23PdCiLWoNgnvQgCTAKqQMeqwAccvJ+30GZO+bO5J/Nid3+zGQ7w8PFqab+Pvk5MczZqWdLN07E90DrA/8xg0FIsTQJXoy7l8Nc1CTWGuVB6V1b0RNzYn/BlckMj+VdR0BBOwlC4s2YO1YEo5cxv3kV1KqLKCctVx71SJWYtnW6lk+B0xORuPLRxHVK7uFZ0ZPJK2/Zm+pNYWq901f5BiA7n9fiH1H7t0ZgPSJ3cHKjVl+5W+xgCnATW6e/wG0eZmcnq6jpxsRvkrxxppsBKH1U5m5eFGCHa3/hDXdyN4+XVFHK4J0sm+1eA5vyRYZ6Vx9B4GhHcx8X2z3ZZAG2/M4q+oIUCc=;k3c5yYvQwmUNNJakwGkrxQ=="
+secured: "ukctZdEcR7h9W7CwbvKNsB62rFvynzxCDLy40z48WVssXeO+dmjARWZqjSTeQoQyaVk5DcL2JPIcCeSl5/ZZIhPK5r9199uVdG+vgS++QOv9jlqqgaf7yQR0izCTf7KOy6FDeQEISctT2pK93HECBwjf4s/X43zbSw+N4timh7Wo8p/JiznV1IOAJwwlBArtFlmDQ7/5FNeUaUVaxgD11xsmB7xo1nnFdcMfRes6BLnLQIKR9mHS2Q3CTJ4fDXffiXZnXxir5mf3aI3WjIuCn6VG2ErHdg4ltyejGofYYLfR2d+uYTOa9+qQU0V+zJ/aj5/wA74CWfrwSZ8ub0lgbNmaMmk+dPTX1BsNkGThR9YKLDM3zANW1wUze2bw5V98EBBI5d0hI/r2xfAb2y+ZqRUs89o8MzOzzEdbYqW7MdjNMGAQShEGoAvyLB3eP3lPnOK5q3Q9+h85JPgtsIAsLEMg2jesY4QU8/IzX8U1qLl03J1yyC01hymNeCWOXO6TMuzSvgFGoVvkiH4lbLSWkg==;vhXRpqLYm/cEwzvdmZmLGw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/business/2023/apr/23/mps-condemn-frasers
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/apr/23/mps-condemn-frasers-groups-use-of-facial-recognition-cameras-in-stores"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "Frasers Group criticised over ‘invasive’ and ‘discriminatory’ in-store facial recognition cameras"
+    excerpt: "Around 50 MPs have written to Mike Ashley's Fraser Group, the parent company of House of Fraser and Sports Direct, criticising the use of “live facial recognition” cameras in its stores."
+    publishedDateTime: 2023-04-24T08:08:00Z
+    webUrl: "https://internetretailing.net/frasers-group-cameras/"
+    type: article
+    provider:
+      name: InternetRetailing
+      domain: internetretailing.net
+    quality: 26
+    images:
+      - url: "https://internetretailing.net/wp-content/uploads/2023/04/Sports-Direct-UKST-.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "AOfn5oqvHuwLvdGZlCg9+xzUBwoRiGAAFmIi0MIcjU38v/RUJMkFZgG89SizsyOT0CK0AAZD6NBJAdomQeuXYyJtstyQdojZ804wf+0Nid9sMrb2eCin++JR10imfe34hwRWF5XKKgySfWIiwGI7Dp3jeKU97BebQiB6sbc4gEpYMTd41FxV/6QYDLWNEsLJHFEk42XN5exKKrs/NV7bXLBJ6P2ftobflc0UmsDrIQZEmLNtv/SCfvSjscoD6/zU91Y6vKWK/kAZ0eTpZyVOa+eoVsoh9YreGP/rQkrEWUR1Kh6q21kKM5gL1b6hnzzcAnZJZG1mhy+RHSyvKaHqVxBiDMdiQY4Logue1Kt6ySVfKkWKRXX+GX1nG8ggkx8mZqeGEELX+K51paJOJZCsNc0vi5tLediaUm4cBRn8YwlMZB4fLzCoI+NIcu3JqwWnnkfiTBbP8Haj0OFvYQ9/P9QlgW/5AZJu7d2pL1aPpMQd6BTPtMTVwf6M7IhSDA7gyQ07RWkRhkCHpiXFuDC1fA==;S6ehQrOkJC92Lval4Grz7A=="
 ---

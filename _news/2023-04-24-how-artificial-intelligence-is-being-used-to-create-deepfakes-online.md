@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/show/how-artificial-intelligence-is
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/how-artificial-intelligence-is-being-used-to-create-deepfakes-online"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "Grimes Tells Fans To Deepfake Drake Her, Invites Collaboration With AI"
+    excerpt: "In the wake of the AI-generated hit Heart on My Sleeve going viral with deepfakes of Drake and The Weeknd, pop star Grimes has invited her fans to experiment with her voice. On Sunday night she tweeted, “I'll split 50% royalties on any successful AI ..."
+    publishedDateTime: 2023-04-24T09:16:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2023/04/24/grimes-tells-fans-to-deepfake-drake-her-welcomes-collaboration-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/04/24/grimes-tells-fans-to-deepfake-drake-her-welcomes-collaboration-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/04/24/grimes-tells-fans-to-deepfake-drake-her-welcomes-collaboration-with-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6446290cbc54719eadfa527d/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
+        isCached: true
 
 secured: "qHJcLC79E0VmvYnYB+rbkzUPc+jNdT889N7s0nVT8Mq7aQRKOB20u6CGgMCiZOuOi9DGk9g2FDov7iP13mbOQkgK+kWyl+Hc6XdxIHHoCG/70r3QzT44TrlXwsc0Kl84XctGkwvzQfA5qBV7YuuNaRDyGkkZRB46Jfva0gMtuTM6J9GiMP3lqoHMdAQn0fl/SOtBo7vbg7D7W/YS6DHCaI4Svh8y/2VWoiUqT7Ky00ulFatM08HKtSMSpd8AxbGjbFiT3xmnIzB064Yw19l5yiSa3W8BAXeo7puz8j3vVbErnnsiNyywxp4NBQmqEPQzMGC05bJo9RKbTUaqpxVcrIZHtgTxSomaPeW95N14rHvWq+l4sTaVlrgy04jhL3zlGHbsZ/JIlYddimyIqJuH1yP3E98s82gzTb5ilE4BiUIqHQncDFg6uNXO/b60Ao6rJUZMWpUnbEt3ZCr6nfmOXb+AWYJMInvezdZiHHz7+NUEXzDEqljD2z+5JB0PRALR2FaKZiY8WLEEJzgFzlAxVw==;MVUKjq7TScecqVd12e7GQQ=="
 ---

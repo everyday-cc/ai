@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-p
 webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-demand-by-2031-2023-04-21"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: MarketWatch
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "2023-2030 Cloud Natural Language Processing Market Size with Manufactures and Upcoming Opportunities"
+    excerpt: "Apr 22, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The 2023 research report on the"
+    publishedDateTime: 2023-04-22T10:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2030-cloud-natural-language-processing-market-size-with-manufactures-and-upcoming-opportunities-2023-04-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Bl4wiSRpkIvIaE6p/hqImiE+cD01UjeAn+GvhKRCe0WIbqZDi8z/x0hDY34njaT5PVWHrLgSkT3n3Jdn8nXGDIlZRL4X8lYvATADibz1u4OJnzo1Jtp2Jlfd1Hp68YkAf5qL3Q9NNt2JrPANnwiGMKOvRaveTCAdjhhEniMxWhzaril3N+DD6Tlr4QaNTxP20p9PfeUMFlq5UVyMTCCfK16RCM6teazngKuB/7xy5ZFLDfsAzst9RG8ggEwjYRv2EWZeNMx38HBJoHcpDlBaNHtI8Ul7IXHM3xtQcViyqle6/iHhVH1qPoSH8zFk+HP4gCanmq/MLjwLx5G7IKY2Pewot7XYTfvA33NJcuX2ifA=;E57QmQc+qly8eCQg1AVvAA=="
 ---
