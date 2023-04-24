@@ -5,8 +5,6 @@ excerpt: "The work being done will ensure Cruise’s advanced generalisable AI (
 publishedDateTime: 2023-04-06T06:00:00Z
 originalUrl: "https://www.khaleejtimes.com/uae/dubais-jumeirah-first-to-have-driverless-taxis-for-public-use-by-end-of-2023"
 webUrl: "https://www.khaleejtimes.com/uae/dubais-jumeirah-first-to-have-driverless-taxis-for-public-use-by-end-of-2023"
-ampWebUrl: "https://www.khaleejtimes.com/uae/dubais-jumeirah-first-to-have-driverless-taxis-for-public-use-by-end-of-2023?amp=1"
-cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/uae/dubais-jumeirah-first-to-have-driverless-taxis-for-public-use-by-end-of-2023?amp=1"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://image.khaleejtimes.com?uuid=6221a217-ffb0-5365-be89-baa9f08c62aa&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.93168&width=1200&height=675&x=1.0E-5&y=0.0352"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "KIb39I4T2I7XIMq3D7Fs3T4SDjaOEmFdl/JJvnp/AX/qTdmENM5JKq76wuZEgVN9EmeIr9Stgkuo6cBCsaymDs0pfFAnHEt1sZ5GAecOe7419Xb8mIon9tMUr8mQBxz2WQFnGEBgP74Yho+JTq/ADOmDxyg2Ao+bxpHaMWW6YbMXc/jejpVEJny/6Ns2/RmbL+Nnibey6iyfQ/QHzXjmH4dtNs84pUfXy+gxc7RYyAVJC+FhlCRWOvQrUOMtHBpydSsuZx1w/ZHfmBBUfFRUmzNziYqEVH8oFB7twbRefSHCnBtHsk5ZaJeXaRlHeVk4QaZsbmRI2ir+hwZLeh0XNZ9siAGMHpgWNSBb+Eiwslw=;vy93nZeR+d3rJvco9nUC+g=="
+secured: "td4t4Rm2dOhYcD6ivp2FW7MQ26p9d1yV/xVen0rvC//ZrQ9ZVuat6ilTUGRPrkZZikAVeHuDDr52iNzJH9zlSrl6i84tYbXRHxgv/Y38DVBlZPXHFq2Kj1GO9N7htTFaNMkd2XusjC6WTrvvGABqrEjRhJA+nR+CyHxBUSdTALd+v/ZbaCPikcFWZ2w2Fi+HhrXokbPusstS8LMTDo2StdmqIs7PhzPUwCaooRyAnNSYuodFRFqkr+RJokg1mL49eKn2MuaNr2M0ga7Y2njwc2a/nZ/4V2VsswIo6UvqOBUzVrp65WR5GRqG9MtDeqXoNWpYHcRSQ0vb6RFJWw9B/9aKZXHwHVd0wNAz8U/VqWM=;U9Lsvmu25SiX6CkO2GlBBA=="
 ---
 

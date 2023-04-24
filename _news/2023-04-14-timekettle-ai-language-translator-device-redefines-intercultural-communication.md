@@ -15,12 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/2054084/Timekettle_Fluentalk_T1_Provides_Real_Time_Translation_Services_Cross_cultural_Exchange_Event.jpg"
-    width: 400
-    height: 225
-    isCached: true
-
-secured: "tX920wG8PP+5lkJKVMyP1ixI9ePLXalk+FjgNjsgbRRXXfQSPBSyYOLrFOIyfAM1dXhf66hXc6VMO7SlMBuaYKICCQYM4S4QOFSfEXmka+2ulkBwBkAyPue8qu8XrZ4mnnC5eOJ59DME1aGA8qFGfwxdkXEVeM2pf6CS8qw2aAknWLyai+biKDo83It5OQPQay3VrFefm/5IH6mjtlV4GFhEl4AIKx4+NqAEvpR6aR1BwZyU8JVT2CjpHGQbewZl7qIeny+sJZg/AI6MsNGc4YaUfX3LGiOJeGDcMfmBK5a0yXBk6jCcNV9hppsgrQiAJygyAEs3xHjlputSinOtK2zIsLDVGO78U9auktkVSwM=;bfs2g43ufj7KCofn/EkiWQ=="
+secured: "dr5yW+FtpRHEp2ideoVwlTF5Teb8zmqlv/N0PZhQbXjYtAUUM51tZ7p5+4Qu19F0qCPuuD1XajSfr3v6DY7zKI6W/C1pmIP9CsOox9OJ7pkFbH/zLmdS8U08aj71N1j68Gc9yNj8dn2eumgFmneGWRFvkXMz+Qxjp21nJG0FMGJoYXc+9miK0p7Gp5Jg/FTgbJXRy+4K1lSH0b+mS916ZdhnkYNJOqtKtP1cNbW2I4RHgaamSUFduSAjQcVMT6ZmW+42Uv8nAGmhxRM4xRFWzpQfyD5uBg4r524bpB4UO4ys/FpB9ww/TiXX37xquA0Cl5aqQqMJ0+PvN/Odhd4BXYXJb25s3XT9teUnrkKEFio=;qmKckDDfpQiVFxsowDRhMQ=="
 ---
 

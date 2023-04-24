@@ -1,0 +1,20 @@
+---
+category: news
+title: "Manufacturers hope for AI boost in factory repairs"
+excerpt: "HANOVER–Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery."
+publishedDateTime: 2023-04-24T10:30:00Z
+originalUrl: "https://www.manilastandard.net/business/power-technology/314324509/manufacturers-hope-for-ai-boost-in-factory-repairs.html"
+webUrl: "https://www.manilastandard.net/business/power-technology/314324509/manufacturers-hope-for-ai-boost-in-factory-repairs.html"
+type: article
+
+provider:
+  name: manilastandard
+  domain: manilastandard.net
+
+topics:
+  - AI in Robotics
+  - AI
+
+secured: "bWje3qigi5jV7aLFCmCli9UVfNRLq6ZFsMpb2gUqxeIq1yNOmmFiRMKn5Q6f8fV3QmqzGM3p+ld/FtQLCHzAY4DSFIcsLEAShE0dbbmrLbQRbXx2UFxyYLFcuU7MUVd+9WPrqVGDNnzx3KdnjTroHhzOOs63qBt3jTMaLm03CDi7prCWGNBmZkCVCToQKQQ+qu31EcBGWqTHTKPBIO8J8/Xb0N6MRkX5qE/voyjxE6PdvdTSXtBOJ5jfK1lWPxNENXmp7p0FZd5aaH1ENOUp56ApUQfJaMJpa2HxV2+N3n1wjJYK7H7liMCp3qEnlGo0FRjLfYMsxRGPXIfzsfwHpbAhU0KunXbNGQlla0fJhqiZzwHvIEdKJuj1IUn8tL+smXi021chD4yQsqFV7jiGxf/b/JSOH1KT7+RgfeGX+I5ivHeF57s+snT9CGAG87thLjFrhVFCszYVggjbDEj2wUBmTonYhkWDNKeQU7db53IP2jhWBwTP1fr4U4iFpVWD7haSOXlB+aXoUKFi8cJdow==;za4sov2q0oH+us7shNihjg=="
+---
+
