@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "dominodatalab"
   url: "https://twitter.com/dominodatalab"
-  followers: 8407
+  followers: 8408
 
 size: 51-200 employees
 yearFounded: 2013
