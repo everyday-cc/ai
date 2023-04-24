@@ -45,20 +45,6 @@ related:
         width: 3053
         height: 1977
         isCached: true
-  - title: "Persistent Establishes Dedicated Microsoft Viva Practice Integrated with Generative AI"
-    excerpt: "Expands existing Azure Center of Excellence with AI-based Modern Workplace solutionsPUNE, India and SANTA CLARA, Calif., April 21, 2023"
-    publishedDateTime: 2023-04-21T08:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/persistent-establishes-dedicated-microsoft-viva-practice-integrated-with-generative-ai-1032249105"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
-    images:
-      - url: "https://mma.prnewswire.com/media/1022385/Persistent_Systems_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Siemens Partners With Microsoft to Expand Industrial AI"
     excerpt: "The companies are integrating Siemens’ Teamcenter software for product lifecycle management with Microsoft’s collaboration platform Teams and the language models in Azure OpenAI Service."
     publishedDateTime: 2023-04-21T05:54:00Z
@@ -73,6 +59,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Persistent Establishes Dedicated Microsoft Viva Practice Integrated with Generative AI"
+    excerpt: "PUNE, India and SANTA CLARA, Calif., April 21, 2023 /PRNewswire/ -- Persistent Systems (BSE: PERSISTENT) (NSE: PERSISTENT), a global Digital Engineering provider, has announced the launch of a dedicated employee experience practice,"
+    publishedDateTime: 2023-04-21T09:30:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-persistent-establishes-dedicated-microsoft-viva-practice-integrated-with-/2023/04/21/9799289.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 46
+    images:
+      - url: "https://mma.prnewswire.com/media/1022385/Persistent_Systems_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Amazon and Microsoft's AI gains mask cloud slowdown"
     excerpt: "Once-booming demand for cloud-computing services is slowing as businesses rein in spending amid economic uncertainty."
     publishedDateTime: 2023-04-20T14:40:00Z
@@ -83,6 +83,6 @@ related:
       domain: detroitnews.com
     quality: 34
 
-secured: "s0i0oKnCadyEbf6tgC3jIk8tNaIDxnhFgNRgF3Ztw1hwHOgrdILP1IzEOKVdqSkcroKet/TFFQbq2dn3TH8AunaV222eSrcom9W+ONM+woig6fXYE1d8Z8/gmi8Te3xSO8MIbkv8nMDTN8Cbb2KCKRcGJMct4z8jzcoDv+P+FOD0CXfOg72wf5MYrQXw0m9DPxTXxaWoYxbl9SiCiuHmqxpR/uvyCizmTSE+lf+iqDGiyRpkapE5BCycMBXtWtPFYQeRgQxnrAvziIKpTCCh5SA52t9tSOGKFZEu1c/J5O9+iIzZfzSjf1Ln6EP+1US3Q4yZwA/L/rbRc4CZWBQv2HNmS7vypZ5sZ1bOTlEkdtE=;5SldX433DmzOUMyX3iVupQ=="
+secured: "LGbHL7yN4tskV3m/VyoIFj6PuUe9r2XOdCXo3ODX/TZR5/iYRL/8EpfLP0tP49nLS+JyNWl/f4jvvcrWqNy+DYX9pIuTrdchhTo1r8rRfq/gYSTwGcJQj7MdWw7optmz+vFDBw16XGj1dHNAFhrKelREUa06VNxShxEYcb4LosW9WvpCruxY/MUHg3qJbJbfqC1ow1t0lm2abVJY4SynTpUF++6KjOovw2WgDrSMN3O/zMnjFmPsvspkhj1lCj+KwpAJFGY5EQ3wqWV+r26OEM3iviX+rjn1eG9ldCE/8SWl444o9S1GH/Uyb4r1+n0Famq2nq4lQG0wmcGjfXfQ8v/ghqXhqKi5bn8qcpbrjjNis/xW9ICPZ1WZi+NwmZ1DSqgXWdvjjgYXtFx8U2yhGY17lxzMVr8Us+UhChDuAVvDjn1vD2PM/1czIKVJ3M22WsVOSAzsbtnECvmRstGk0QfmFB3LT4O73G/ZaDCKh7adKTDId1IwRYP1eDkz0bCsu6gNDn1Rhqtq5OZYTVZUJg==;Co5yFfif5j2DF2Fa99dqqQ=="
 ---
 

@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Persistent Establishes Dedicated Microsoft Viva Practice Integrated with Generative AI"
-    excerpt: "Expands existing Azure Center of Excellence with AI-based Modern Workplace solutionsPUNE, India and SANTA CLARA, Calif., April 21, 2023"
-    publishedDateTime: 2023-04-21T08:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/persistent-establishes-dedicated-microsoft-viva-practice-integrated-with-generative-ai-1032249105"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
-    images:
-      - url: "https://mma.prnewswire.com/media/1022385/Persistent_Systems_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Siemens Partners With Microsoft to Expand Industrial AI"
     excerpt: "The companies are integrating Siemens’ Teamcenter software for product lifecycle management with Microsoft’s collaboration platform Teams and the language models in Azure OpenAI Service."
     publishedDateTime: 2023-04-21T05:54:00Z
@@ -76,6 +62,20 @@ related:
       - url: "https://d2n4wb9orp1vta.cloudfront.net/cms/brand/mms/2023-mms/062-mms-news-siemens-microsoft.jpg;maxWidth=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Persistent Establishes Dedicated Microsoft Viva Practice Integrated with Generative AI"
+    excerpt: "PUNE, India and SANTA CLARA, Calif., April 21, 2023 /PRNewswire/ -- Persistent Systems (BSE: PERSISTENT) (NSE: PERSISTENT), a global Digital Engineering provider, has announced the launch of a dedicated employee experience practice,"
+    publishedDateTime: 2023-04-21T09:30:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-persistent-establishes-dedicated-microsoft-viva-practice-integrated-with-/2023/04/21/9799289.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 46
+    images:
+      - url: "https://mma.prnewswire.com/media/1022385/Persistent_Systems_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "6MhFVKbZS2RIlLjCpxE7cTXG02rBtqAKINJvoDeOEPNrqoBekRVwxB2wNOc3lQ648G5+D1kycUO+Qf3j73aBzjwGPgDj89nn7Br6I1x2+5bQDJxAvm+wR9tc0BCHc/Vad4CuP5P+IPmAOznek/COx/eAE8sZYPLqs4foWytxzZTyEnw/qr/L5XpANT/EgzQXCjo4g+hGqxbM4XHn5bq87T+IcnTUJ0qZPL/BtwWcWb/PhqcOrotuoD5c9fpFK8KLhaP15fkJlVXEL2As1fBqyebYKP7iUcVuQWYaPmnHoVFy1+0GyZKLbkSUkclJzRcoTGlbkkTfX2y9/AQtbmyeRvUu7HEpkN1Wum7Rr0VSjonIu2D1HCexxIswi4XsRUpA7d9Q213cEYWeijkCyGXYSooX3oF00k5/TrQk66lZr3xqEBx/xNmDbKEoI4ug+08dIcTsy9Zv9g388LI1J1BkHmEl9FLaTxnjnfxL+Tz3xBan4vJlu5B3sDgbQoYE9yYSXlAB5ZKq7CsvE43ZIm3N0w==;yQr/BFJQ7dL5B64P+FjEAw=="

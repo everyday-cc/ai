@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/elon-musk-pi
 webUrl: "https://www.reuters.com/business/autos-transportation/elon-musk-pins-hopes-full-self-driving-teslas-next-profit-driver-2023-04-20/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -43,7 +43,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Elon Musk renews self-driving prediction as price cuts push Tesla profit down 24%"
+    excerpt: "After reporting a 24% drop in first quarter profits for Tesla, Musk said in an analyst call that full self-driving technology is likely imminent and could generate big profits."
+    publishedDateTime: 2023-04-20T14:40:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/04/20/musk-renews-tesla-self-driving-prediction.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 14
 
-secured: "Rhroq1t76OHUL3iFcyzUGIIb2vHSbS6e7WVmsgR26f9E6N7AVMbVWoMINnle4lt67jNnvAt4/DYI5CsG/46wQuOFWA0bD+N8rFsupoYpmmFx3pOJAPLfpktViA78Va+XKrjBvwzCUy4UVzxwAHszttE2EstgGGzy+ZYVc7ZTkoJXrLSFZGJK2QudHcJs3aTgDTHytO1ZQY2iPDkq+leYQRt5u+YypkOjt3nIsO3fLlPGlMXMMj8ZqLR+Bfj5SUotB7ukH1nnNSq+T99EEyB2pQww/2h11Z9pKZA0aOc30+J9D1X/XwpTQwsldF1BjLwONwnXVxgbG/qqp40KU3WhLZ+/0FKEXv+EDhL8HvwfCtM=;QORKX49Q1DMmAY/cCZ7UxA=="
+secured: "wf8ohNfXaZn3ZcRrwU0X1VM5GbequXGN4khKbznAr4Nl6bVlKzSwJ7r4PVCTHmx7aTbzCWEbpTGK4hY8ywNMfgX+Pf9TL/+CUsGGHhAZwkGeKAEzJvvm5ZjO3GNU0mmEpE2rSyn/T+IfeS8srIMTStl0jXCO8q+PlD0umRAn8Ukh81yUFohR164ehCHCLvOJX+ucvvtY4RlWrVOtGy+B7PQZAkCWRF1ER8PGMxTrz5pSbBswdbwNN2lgzyfBIPshwbOWjhWYVUMHeLuV/B3WuXL/R46jCkaLuMprsvOB0mBDYik4oEncOUR/E6v286Gb5IYv5RIiLDmvtUuCcsj/0am/Jdzd3Nxd3zEeaOtkb37pZZr+xFi9wubJebhxJRCXYtQ38a+KOXwv4rkcSc3TuKlWAiV7H1yXgL+RpayoWYutLHZOstYOOKJEw9JOl7640DiOQHHMYDx+2mYGKkYTGM6DzJw1DjBwmoi4nEOUfbn3W0XYPx8C6grBmNk2kWWH5DJTbOvNC37avF7HSbdvKQ==;N3LucL4+gdl9Y1diPli1sA=="
 ---
 

@@ -35,7 +35,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 81
+    quality: 83
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_human_and_artificial_intelligence_working_together_to_un_5b2cbb9e-e380-4bb1-812b-366943b59568.png?w=1200&strip=all"
         width: 1200

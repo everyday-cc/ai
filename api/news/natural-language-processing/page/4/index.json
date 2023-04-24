@@ -2,6 +2,60 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-02-how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development.md",
+      "title": "How generative AI could lower healthcare costs and speed up drug development",
+      "excerpt": "In the future, specifying a drug target may be like sitting down to ChatGPT. After a few clicks, you'll have your novel therapeutic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/",
+      "originalUrl": "https://www.zdnet.com/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/c0b475ddb6f590c029a299c2b88a7e1c3985eb3a/2023/02/28/edd460d3-73b8-4ce6-ace5-c6dac00ee94a/abci-de-novo-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/",
+      "publishedDateTime": "2023-03-01T10:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-03-01-new-wolters-kluwer-health-language-solution-is-purpose-built-to-transform-the-risk-adjustment-market.md",
       "title": "New Wolters Kluwer Health Language Solution Is Purpose-Built to Transform the Risk Adjustment Market",
       "excerpt": "Wolters Kluwer Health today announced the launch of the Coder Workbench, a high-productivity Risk Adjustment solution built on the Health Language Data Platform that optimizes medical record review for risk adjustment workflows.",
@@ -1433,58 +1487,6 @@
         "AI in Healthcare",
         "Natural Language Processing",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-meta-develops-an-ai-language-bot-that-can-use-external-software-tools.md",
-      "title": "Meta develops an AI language bot that can use external software tools",
-      "excerpt": "Language models like ChatGPT have revolutionized the field of natural language processing, but they still struggle with some basic tasks such as arithmetic and fact-checking. Last Thursday, researchers from Meta revealed Toolformer, an AI language model ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/02/meta-develops-an-ai-language-bot-that-can-use-external-software-tools/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/02/meta-develops-an-ai-language-bot-that-can-use-external-software-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/robot-hand-calculator-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/02/meta-develops-an-ai-language-bot-that-can-use-external-software-tools/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/02/meta-develops-an-ai-language-bot-that-can-use-external-software-tools/amp/",
-      "publishedDateTime": "2023-02-15T15:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

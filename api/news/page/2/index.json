@@ -2,6 +2,161 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-21-israel-leads-with-early-ai-battlefield-integration-the-future-of-defense-systems.md",
+      "title": "Israel leads with early AI battlefield integration: 'The future of defense systems'",
+      "excerpt": "Artificial intelligence has existed in some form over the past few decades, but only recently has it reached the level of potentially disrupting economic and social systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/world/israel-leads-early-ai-battlefield-integration-future-defense-systems",
+      "originalUrl": "https://www.foxnews.com/world/israel-leads-early-ai-battlefield-integration-future-defense-systems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d7475860-cb58-4b4b-ad40-e7b4075c8e33/3f4696d9-bca5-42aa-8098-7dc1bdfe3720/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/world/israel-leads-early-ai-battlefield-integration-future-defense-systems.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/israel-leads-early-ai-battlefield-integration-future-defense-systems.amp",
+      "publishedDateTime": "2023-04-20T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-womans-bowel-cancer-spotted-by-artificial-intelligence.md",
+      "title": "Woman's bowel cancer spotted by artificial intelligence",
+      "excerpt": "The Colo-Detect study uses AI to flag up areas of concern during colonoscopies A woman who was part of a study using artificial intelligence (AI) to detect bowel cancer is free of the disease after it was found and removed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-england-tyne-65336477.amp",
+      "originalUrl": "https://www.bbc.com/news/uk-england-tyne-65336477.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/9ED6/production/_129426604_4cb71ac6-7d85-4663-b06d-3dcb18ff33a6.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-england-tyne-65336477.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-tyne-65336477.amp",
+      "publishedDateTime": "2023-04-20T22:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-healthcare-artificial-intelligence-ai-market-research-2023-2030.md",
+      "title": "Healthcare Artificial Intelligence (AI) Market Research, 2023-2030",
+      "excerpt": "Healthcare Artificial Intelligence (AI) Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 118 Pages Report The extent and overview of the various commercial opportunities throughout the ensuing years are shown in the global \"Healthcare Artificial Intelligence (AI) Market\" research report,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-research-2023-2030-2023-04-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-research-2023-2030-2023-04-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T20:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-21-mit-uses-liquid-neural-networks-to-teach-drones-navigation-skills.md",
       "title": "MIT uses liquid neural networks to teach drones navigation skills",
       "excerpt": "A team of researchers from MIT CSAIL introduced a method for drones to master vision-based fly-to-target tasks in unfamiliar environments.",
@@ -157,7 +312,7 @@
       "originalUrl": "https://www.reuters.com/business/autos-transportation/elon-musk-pins-hopes-full-self-driving-teslas-next-profit-driver-2023-04-20/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -854,6 +1009,40 @@
       ]
     },
     {
+      "path": "_news/2023-04-20-microsoft-azure-marketplace-integrates-space-and-times-web3-tools.md",
+      "title": "Microsoft Azure Marketplace Integrates Space and Time’s Web3 Tools",
+      "excerpt": "Space and Time’s Web3 “data warehouse” has been integrated into the Microsoft (NASDAQ:MSFT) Azure Marketplace, an “app store” for developers using the cloud computing platform. Enterprise builders can now make a one-click deployment of Space and Time's data product,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/microsoft-azure-marketplace-integrates-space-and-times-web3-tools",
+      "originalUrl": "https://www.nasdaq.com/articles/microsoft-azure-marketplace-integrates-space-and-times-web3-tools",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-20-ai-can-kill-us-but-some-in-congress-dont-even-know-how-to-log-in-to-facebook-lawmakers-say.md",
       "title": "AI can 'kill us,' but some in Congress don’t even know how to log in to Facebook, lawmakers say",
       "excerpt": "WASHINGTON, D.C. – AI has the potential to both benefit and harm the U.S. in unknown and unimagined ways but Congress has hardly any experts on the rapidly developing technology, lawmakers told ...",
@@ -1052,188 +1241,6 @@
         "AI Ethics",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-centcom-hires-former-google-cloud-exec-as-first-ever-ai-robotics-advisor.md",
-      "title": "CENTCOM hires former Google Cloud exec as first-ever AI, robotics advisor",
-      "excerpt": "Andrew Moore founded startup Lovelace AI and had testified before Congress about DoD's lack of urgency when it came to actually implementing AI and machine learning in the field.",
-      "sourceUrl": null,
-      "webUrl": "https://breakingdefense.com/2023/04/centcom-hires-former-google-cloud-exec-as-first-ever-ai-robotics-advisor/",
-      "originalUrl": "https://breakingdefense.com/2023/04/centcom-hires-former-google-cloud-exec-as-first-ever-ai-robotics-advisor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2022/05/220526_pentagon_AI_brain-e1653573962375.png",
-          "width": 2105,
-          "height": 1184,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://breakingdefense.com/2023/04/centcom-hires-former-google-cloud-exec-as-first-ever-ai-robotics-advisor/?amp=1",
-      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2023/04/centcom-hires-former-google-cloud-exec-as-first-ever-ai-robotics-advisor/?amp=1",
-      "publishedDateTime": "2023-04-19T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Breaking Defense",
-        "domain": "breakingdefense.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-ai-computer-vision-market-hitting-new-highs-by-2030-netapp-ibm-sas-uipath.md",
-      "title": "AI Computer Vision Market Hitting New Highs by 2030 | NetApp, IBM, SAS, UiPath",
-      "excerpt": "The AI Computer Vision market report provides a detailed analysis of global market size, regional and country-level",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-hitting-new-highs-by-2030-netapp-ibm-sas-uipath-2023-04-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-hitting-new-highs-by-2030-netapp-ibm-sas-uipath-2023-04-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-houston-community-college-to-offer-1st-4-year-bachelors-programs-starting-this-fall.md",
-      "title": "Houston Community College to offer 1st 4-year bachelor's programs starting this fall",
-      "excerpt": "The new four-year programs are Applied Technology in Artificial Intelligence and Robotics and Applied Science in Healthcare Management. \"We are continually exploring ways to provide relevant ...",
-      "sourceUrl": null,
-      "webUrl": "https://abc13.com/houston-community-college-bachelors-degree-offerings-get-bachelors-in-junior-applied-technology-artificial-intelligence-and-robotics/13149945/",
-      "originalUrl": "https://abc13.com/houston-community-college-bachelors-degree-offerings-get-bachelors-in-junior-applied-technology-artificial-intelligence-and-robotics/13149945/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/13149941_041823-ktrk-hcc-generic-tn-img.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc13.com/amp/houston-community-college-bachelors-degree-offerings-get-bachelors-in-junior-applied-technology-artificial-intelligence-and-robotics/13149945/",
-      "cdnAmpWebUrl": "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/houston-community-college-bachelors-degree-offerings-get-bachelors-in-junior-applied-technology-artificial-intelligence-and-robotics/13149945/",
-      "publishedDateTime": "2023-04-18T22:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "abc13",
-        "domain": "abc13.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-inside-the-secret-list-of-websites-that-make-ai-like-chatgpt-sound-smart.md",
-      "title": "Inside the secret list of websites that make AI like ChatGPT sound smart",
-      "excerpt": "An analysis of a chatbot data set by The Washington Post reveals the proprietary, personal, and often offensive websites that go into an AI’s training data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/interactive/2023/ai-chatbot-learning/",
-      "originalUrl": "https://www.washingtonpost.com/technology/interactive/2023/ai-chatbot-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3RJWXEJIYVBRRCKTKMQYEARILU.jpg&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T21:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

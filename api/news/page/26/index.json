@@ -2,6 +2,257 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2023-03-25-how-generative-ai-stole-only-part-of-the-show-at-the-gdc-the-deanbeat.md",
+      "title": "How generative AI stole only part of the show at the GDC | The DeanBeat",
+      "excerpt": "Weili Dai’s Story Machine also showed a vision for using generative AI for art or game programming with a new startup dubbed Robot Invader. I learned about how generative AI and other forms of AI will become so much more efficient in a matter of months ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/how-generative-ai-stole-only-part-of-the-show-at-the-gdc-the-deanbeat/",
+      "originalUrl": "https://venturebeat.com/games/how-generative-ai-stole-only-part-of-the-show-at-the-gdc-the-deanbeat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/inworld-ai.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 694,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/how-generative-ai-stole-only-part-of-the-show-at-the-gdc-the-deanbeat/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/how-generative-ai-stole-only-part-of-the-show-at-the-gdc-the-deanbeat/amp/",
+      "publishedDateTime": "2023-03-24T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying.md",
+      "title": "Bill Gates's Open Letter Suggests AI's Potential Is Both Exciting And Terrifying",
+      "excerpt": "Its 30% increase in share price since the start of the year is also likely boosted by its acquisition of AI healthcare company Caption Health. Chip company Nvidia, which is announcing AI partnerships all over the place at the moment, is now collaborating ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/03/24/bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/03/24/bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641dd727f27107071e4ff5b1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/03/24/bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/03/24/bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying/amp/",
+      "publishedDateTime": "2023-03-24T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-can-pepper-content-save-the-creator-economy-from-the-ai-monster.md",
+      "title": "Can Pepper Content Save The Creator Economy From The AI Monster?",
+      "excerpt": "Pepper Content's new content marketing platform incorporates generative AI rather than seeking to compete with it",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidprosser/2023/03/24/can-pepper-content-save-the-creator-economy-from-the-ai-monster/",
+      "originalUrl": "https://www.forbes.com/sites/davidprosser/2023/03/24/can-pepper-content-save-the-creator-economy-from-the-ai-monster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641b4ba8bc846d86cd161d37/0x0.jpg?format=jpg&crop=1616,757,x0,y282,safe&width=1200",
+          "width": 1200,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2023/03/24/can-pepper-content-save-the-creator-economy-from-the-ai-monster/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/03/24/can-pepper-content-save-the-creator-economy-from-the-ai-monster/amp/",
+      "publishedDateTime": "2023-03-24T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-trump-arrested-putin-jailed-fake-ai-images-spread-online.md",
+      "title": "Trump arrested? Putin jailed? Fake AI images spread online",
+      "excerpt": "He even stated clearly in his Twitter thread that the images were AI-generated. Still, the images were enough ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/atlanta/news/trump-arrested-putin-jailed-fake-ai-images-spread-online/",
+      "originalUrl": "https://www.cbsnews.com/atlanta/news/trump-arrested-putin-jailed-fake-ai-images-spread-online/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/24/f9534e5d-eaf7-482d-ad18-5ec6fb9c6f99/thumbnail/1200x630/1c0c350325c27fbf196c9fc67af86a45/ap23082535352740.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/atlanta/news/trump-arrested-putin-jailed-fake-ai-images-spread-online/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/atlanta/news/trump-arrested-putin-jailed-fake-ai-images-spread-online/",
+      "publishedDateTime": "2023-03-24T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-ai-in-computer-vision-market-global-various-tendencies-industry-report-2029.md",
+      "title": "AI in Computer Vision Market | Global Various Tendencies Industry Report 2029",
+      "excerpt": "Mar 24, 2023 (The Expresswire) -- [112+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “AI in Computer Vision Market” Size 2023 Key players Profiled in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-global-various-tendencies-industry-report-2029-2023-03-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-global-various-tendencies-industry-report-2029-2023-03-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-24T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-24-microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more.md",
       "title": "Microsoft unveils plans to use AI feature in Outlook, Excel and more",
       "excerpt": "On the other hand, AI critics worry it will bring more harm ... and perform a wide range of language-related tasks such as language translation, text summarization [and] sentiment analysis.”",
@@ -942,238 +1193,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-7-signs-youre-experiencing-cognitive-dissonance.md",
-      "title": "7 Signs You’re Experiencing Cognitive Dissonance",
-      "excerpt": "MOST OF US have experienced conflicting beliefs at one time or another. For instance, you know that drinking too much alcohol is bad for your health, but you pour yourself a second glass of wine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.menshealth.com/health/a43373873/7-signs-youre-experiencing-cognitive-dissonance/",
-      "originalUrl": "https://www.menshealth.com/health/a43373873/7-signs-youre-experiencing-cognitive-dissonance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-23T12:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Men's Health",
-        "domain": "menshealth.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-artificial-intelligence-can-predict-genetics-of-cancerous-brain-tumors-study.md",
-      "title": "Artificial Intelligence can predict genetics of cancerous brain tumors: Study",
-      "excerpt": "Researchers have developed an AI-based diagnostic screening system called DeepGlioma that uses rapid imaging to analyze tumor specimens taken during an operation and detect genetic mutations more rapidly.",
-      "sourceUrl": null,
-      "webUrl": "https://theprint.in/science/artificial-intelligence-can-predict-genetics-of-cancerous-brain-tumors-study/1468042/",
-      "originalUrl": "https://theprint.in/science/artificial-intelligence-can-predict-genetics-of-cancerous-brain-tumors-study/1468042/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theprint.in/wp-content/uploads/2023/03/ANI-20230323182750.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theprint.in/science/artificial-intelligence-can-predict-genetics-of-cancerous-brain-tumors-study/1468042/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/science/artificial-intelligence-can-predict-genetics-of-cancerous-brain-tumors-study/1468042/?amp",
-      "publishedDateTime": "2023-03-23T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-donald-trump-shares-fake-ai-created-image-of-himself-on-truth-social.md",
-      "title": "Donald Trump Shares Fake AI-Created Image Of Himself On Truth Social",
-      "excerpt": "Donald Trump shared an image of himself on Thursday morning over at Truth Social. And it’s almost certainly fake.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mattnovak/2023/03/23/donald-trump-shares-fake-ai-created-image-of-himself-on-truth-social/",
-      "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/03/23/donald-trump-shares-fake-ai-created-image-of-himself-on-truth-social/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641c91172d00a7f17e8a9f01/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/03/23/donald-trump-shares-fake-ai-created-image-of-himself-on-truth-social/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/03/23/donald-trump-shares-fake-ai-created-image-of-himself-on-truth-social/amp/",
-      "publishedDateTime": "2023-03-23T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-for-smarter-robots-just-add-humans.md",
-      "title": "For Smarter Robots, Just Add Humans",
-      "excerpt": "OpenAI’s COO and manager of the OpenAI Startup Fund says. For humans to help robots with teleoperation, AI might also need to be developed to ease the collaboration between person and machine. Chelsea Finn, an assistant professor at UC Berkeley ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/fast-forward-for-smarter-robots-just-add-humans/",
-      "originalUrl": "https://www.wired.com/story/fast-forward-for-smarter-robots-just-add-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/641b9a323491f4dd17124cb5/master/pass/Sanctuary-AI-Robot-Still-Fast-Foward-Business.jpg",
-          "width": 2143,
-          "height": 1210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/fast-forward-for-smarter-robots-just-add-humans/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/fast-forward-for-smarter-robots-just-add-humans/amp",
-      "publishedDateTime": "2023-03-23T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-google-opens-early-access-to-bard-ai-prompts-small-bump-in-stock-price.md",
-      "title": "Google Opens Early Access To Bard AI, Prompts Small Bump In Stock Price",
-      "excerpt": "Adobe broke the news this week at its Adobe Summit that its new generative AI image suite, Adobe Firefly, will be coming to its apps like Photoshop and Illustrator soon - and the waitlist to try it out is already open. Adobe is partnering with chip ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/03/23/google-opens-early-access-to-bard-ai-prompts-small-bump-in-stock-price/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/03/23/google-opens-early-access-to-bard-ai-prompts-small-bump-in-stock-price/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641c7d0dd57fc229c2eb4782/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/03/23/google-opens-early-access-to-bard-ai-prompts-small-bump-in-stock-price/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/03/23/google-opens-early-access-to-bard-ai-prompts-small-bump-in-stock-price/amp/",
-      "publishedDateTime": "2023-03-23T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

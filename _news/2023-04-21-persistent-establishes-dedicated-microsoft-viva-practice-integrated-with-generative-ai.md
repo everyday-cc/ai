@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Persistent Establishes Dedicated Microsoft Viva Practice Integrated with Generative AI"
-excerpt: "Expands existing Azure Center of Excellence with AI-based Modern Workplace solutionsPUNE, India and SANTA CLARA, Calif., April 21, 2023"
-publishedDateTime: 2023-04-21T08:28:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/persistent-establishes-dedicated-microsoft-viva-practice-integrated-with-generative-ai-1032249105"
-webUrl: "https://markets.businessinsider.com/news/stocks/persistent-establishes-dedicated-microsoft-viva-practice-integrated-with-generative-ai-1032249105"
+excerpt: "PUNE, India and SANTA CLARA, Calif., April 21, 2023 /PRNewswire/ -- Persistent Systems (BSE: PERSISTENT) (NSE: PERSISTENT), a global Digital Engineering provider, has announced the launch of a dedicated employee experience practice,"
+publishedDateTime: 2023-04-21T09:30:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-persistent-establishes-dedicated-microsoft-viva-practice-integrated-with-/2023/04/21/9799289.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-persistent-establishes-dedicated-microsoft-viva-practice-integrated-with-/2023/04/21/9799289.htm"
 type: article
-quality: 76
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -83,6 +79,6 @@ related:
       domain: detroitnews.com
     quality: 34
 
-secured: "bxRGrh18FK7BtvJGgiK8wNC4q2q4LLBq5v5z1RHNcpIBs5xLYVwmIASfyI3hwzaSX3Qr0NdrMLauUKIjXMzHm/8DXI8L1RCgXFzlX7Z7eH5TVYIh/NtSr6s0r9yYuIkMxIdYNbyLc8l5zOfyA/B1haQFEmE8hhNxQ8HG3jVGVTOOohz9TZYBeEWqDXk24ZaSuZBWiszr69QczgiMJEh+CTkpLcXM/vgVEHtnyoPc8GJmZqfyfdTu8HNrexctzjJvjx3CGT9MDnglNto3AvkzSADj08EpbMmylHdby+Nc4BsRDNP9a1dRVcRUpkF3bTBZyo/bgCSTvlykMrqfjrnibinyxpOKfCP3QOnewBgkBYc=;jYzY+Mm2Z+VMzD2YhXOJwQ=="
+secured: "uF1rPVsbnC0kW0+0/BbCczmNYwNNMfPxP1xl0NMcBenyG3c8ZQn5U0VLg/dPmnR5bEm/tvoKqH3pHSj+5LyZpF4IqYj9e+gQ/MQshxDfeTQUZmQcwaYbKWC8MzFTc74O3p8jTG55SC7HVFDMKJIurJ//n0gt4A+bgTdU1kz2195Z7hRUaYcHkP6Ll/DqOi5Gj8ok5E3kAYDP1dXhEvj+c0WTnpJ7RASezCRduQhj3J9zrABmRhEGCqph/kbLiN+gen5PG+sAvXNHQbW1ix2FY5denUCXYgktwmUe8OpxcwVSrhP30S2GJ3V4PNrPeNEdFm31EaUtc5kS5yV6n3biawbtmpeYXHDHB5rc2Svk3KU=;qzXU7f2ayxxyBT8pBCPqiQ=="
 ---
 

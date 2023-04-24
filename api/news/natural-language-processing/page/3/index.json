@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-14-popular-ai-powered-writing-platform-quillbot-launches-translation-tool-to-help-bridge-language-gaps-and-coach-writers.md",
+      "title": "Popular AI-Powered Writing Platform, QuillBot, Launches Translation Tool to Help Bridge Language Gaps and Coach Writers",
+      "excerpt": "CHICAGO, March 14, 2023 /PRNewswire/ -- QuillBot, a pioneer in the application of AI to help individuals improve and perfect their writing skills, today announced the launch of a powerful new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/03/n31340022/popular-ai-powered-writing-platform-quillbot-launches-translation-tool-to-help-bridge-language-gap",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/n31340022/popular-ai-powered-writing-platform-quillbot-launches-translation-tool-to-help-bridge-language-gap",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-14T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-14-six-ways-retail-can-leverage-generative-ai-to-transform-business.md",
       "title": "Six Ways Retail Can Leverage Generative AI To Transform Business",
       "excerpt": "As generative AI evolves into an even bigger, more sophisticated technology, it can transform how retail operates.",
@@ -1352,60 +1395,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development.md",
-      "title": "How generative AI could lower healthcare costs and speed up drug development",
-      "excerpt": "In the future, specifying a drug target may be like sitting down to ChatGPT. After a few clicks, you'll have your novel therapeutic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/",
-      "originalUrl": "https://www.zdnet.com/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/c0b475ddb6f590c029a299c2b88a7e1c3985eb3a/2023/02/28/edd460d3-73b8-4ce6-ace5-c6dac00ee94a/abci-de-novo-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/",
-      "publishedDateTime": "2023-03-01T10:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare",
-        "AI Hardware"
       ]
     }
   ],

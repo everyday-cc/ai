@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/deepmind-melds-with-googles
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepmind-melds-with-googles-brain-team-to-accelerate-ai-growth/"
 type: article
 quality: 106
-heat: 216
+heat: 226
 published: true
 
 provider:
@@ -196,7 +196,21 @@ related:
         width: 1600
         height: 840
         isCached: true
+  - title: "Google’s new DeepMind division wants to take ChatGPT head-on"
+    excerpt: "Ever since ChatGPT and after it Bing Chat took the internet by storm, Google has been scrambling to come up with a competent answer. The company quickly held a thrown-together AI event in Paris, even though it announced its big ChatGPT competitor,"
+    publishedDateTime: 2023-04-21T16:56:00Z
+    webUrl: "https://www.androidpolice.com/google-deepmind-take-chatgpt-head-on/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 39
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/04/google-deep-mind-hero.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
 
-secured: "FWnOxLn23z/J5lY+ARJkgG40qxF1tjvffiB17ERKyxrSElAqIK8PjVTONM/eK7LHXZW+CxD7LLhG29Pv2uyQ4VTqlks0h92TokgzGvnqKTnxPIJE3Wt9k/fuk/NJg4y9Fnrcik8DktpD32P9weJBKd18SsFqDkrknTo7iRIHNV2KH605L1B/EdgNxLJdvSJ+U2KO7ndGYTU6YPbTcuvjOWGJMmfh/PJUlLYQQCEnwRYHWM7urtVbgFAGCR1Sc9Slltgx7t17nLVnhqc8t5Hg7QpGq7YZQowR2QNf6dIbxsaIDbyk0OdUtDiODmDGgLfxeR1dxkUUVV3rcCvl+SS3TTno6W6JtVeIZY4JjMQIJZY=;FYuldnrSZQJdojCOSsczCw=="
+secured: "x1vkJBXyK+jXDncgM02bYgaQu4pl+YBVAF1ue9OQt7w0gBqUEZSr/HXko7p3v2Msk3h3IddpIsDgv4kqakzO7DWDfvGfFseBpEbsGn6ELCINp6lUVxUz11ksB88hynSFvkk1R+8/2Ie9C3+NvpISoik/m2NJnGQDhTUfGHgdFIcEDLLIJzZkyBACW47VK93NTrmwGa/mipq6+3TByz1oR2sHj1YjcnrqnYHcdYQ9rfNa8oKiubbdDEFVKau9yn4XXy4BVHVoVxRIYbiBvW0g0gVaGltsdoq5XcIwgHt+X/lCbkj1IDzcWmRwSvbccCxzQE1Y4Qp2HmFeVbdzJlHVhUW7sQFL1bZP6Yz+5kkSNbOK0b2beBRk/Sq1FTyHJLe1V5bxqvBzCs8GJyANxH/ihFBXqz4863kTKBqDcY1pKB2xCb7uivAkRLSZsBSwJQJJJVjmvPZa5FhEpsF8uP8/g2qs/aY0Oqj3/8wl5bcz6WGxr50LKD0+UyWjZG9yTJsmYTzjcx8rg7zQc+Sw0fbXhA==;woMWuGEbv4FOqUfwkpOwIQ=="
 ---
 

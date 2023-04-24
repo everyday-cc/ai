@@ -51,13 +51,13 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_creating_one_artificial_intelligence_out_of_two._two_AI__5e06f4d2-e068-4c47-b353-c1ec6bfb7581.png?w=1200&strip=all"
         width: 1200
         height: 600
         isCached: true
 
-secured: "5DdwrO7Li1dNIN/NCKsP1UkuYgEqoZ2AkyFi9ltDebP7liY2WTtPBpWZTpeYPdwoq9LBPTmpzIRMxnvIdLyktQfRhMHvTW+jPym9JI0qaz4xh2QCU3tRzA3FmLblBvov2bwOrc7lXSxxj6GGbbdTClSlNPqu9TueU1Y9yAGm2M25fGjOnUASC0/mnDcUhSnwCKdPIdxV0ab3QPrsgPBlvgC6qpObeg1YPea9SKwuyjWQOYgchs+6Ux1guGMV90NRvlUNh+1YoPNcGIGZitQhTYBTbdkpOp7etDcJFqy7kJ3U8cSkxcYSpSat3FrXrjx837N3AaveSr5naUXTe3Hf1p7UJum7Sh67FxdMLnjNTKw=;VWpQtkCPa5yTSoTerhWRxQ=="
+secured: "svlGPBC8pcZ80q8nBYPM17xmahKIRqW+XFbJEwl+Ws6IxwLGGMI6PbnR4CF+iDAnFzGqCck98uXD4vTETOeAl5fULDHgaU/lvv1YYh8yXTQJ0dub77c5OZUqhLzbznfiMMK66SEx1Xx93BunNFOHrQPzotxlwFlBsRim6TcWf6RX/n3Paq9hXgyxMdsVgDeelxh7e3PxmFzpHPZ6cTFSk70aEPfY1Wk0HfatImwtsaQeoG4dygi1uaJp5BLWEQ6AEERhv0Y3/z9Ue48mnlQlupK3FOTAv/IWumzoAt3KIIHKssjlSirjsWYE3QPhJs3IrHrhbewRSV/Zq4jBfvHA44OfN0unVeNPrCej82Z2V9r4rQr0D+zlxe6VACzDGa9LMo1PcNWWtlJQnxgH9WGDY5R+RO/hkY7Xd091TpO2FboLK6/2NcIpWjacJqoK9E/HgdQ3riF4GNgcEaT0y8xLuOrbhtVZLHl3+Xw2O3e8gVsl1Qev740UqGRCF9pHjzJtS+BIMNDd43nZFZ+3rl5y2A==;wXDYQjrdqkhDtFBCZ9Z0kg=="
 ---
 

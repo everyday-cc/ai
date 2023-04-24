@@ -2,6 +2,188 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-19-centcom-hires-former-google-cloud-exec-as-first-ever-ai-robotics-advisor.md",
+      "title": "CENTCOM hires former Google Cloud exec as first-ever AI, robotics advisor",
+      "excerpt": "Andrew Moore founded startup Lovelace AI and had testified before Congress about DoD's lack of urgency when it came to actually implementing AI and machine learning in the field.",
+      "sourceUrl": null,
+      "webUrl": "https://breakingdefense.com/2023/04/centcom-hires-former-google-cloud-exec-as-first-ever-ai-robotics-advisor/",
+      "originalUrl": "https://breakingdefense.com/2023/04/centcom-hires-former-google-cloud-exec-as-first-ever-ai-robotics-advisor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sites.breakingmedia.com/uploads/sites/3/2022/05/220526_pentagon_AI_brain-e1653573962375.png",
+          "width": 2105,
+          "height": 1184,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://breakingdefense.com/2023/04/centcom-hires-former-google-cloud-exec-as-first-ever-ai-robotics-advisor/?amp=1",
+      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2023/04/centcom-hires-former-google-cloud-exec-as-first-ever-ai-robotics-advisor/?amp=1",
+      "publishedDateTime": "2023-04-19T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Breaking Defense",
+        "domain": "breakingdefense.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-ai-computer-vision-market-hitting-new-highs-by-2030-netapp-ibm-sas-uipath.md",
+      "title": "AI Computer Vision Market Hitting New Highs by 2030 | NetApp, IBM, SAS, UiPath",
+      "excerpt": "The AI Computer Vision market report provides a detailed analysis of global market size, regional and country-level",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-hitting-new-highs-by-2030-netapp-ibm-sas-uipath-2023-04-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-hitting-new-highs-by-2030-netapp-ibm-sas-uipath-2023-04-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-houston-community-college-to-offer-1st-4-year-bachelors-programs-starting-this-fall.md",
+      "title": "Houston Community College to offer 1st 4-year bachelor's programs starting this fall",
+      "excerpt": "The new four-year programs are Applied Technology in Artificial Intelligence and Robotics and Applied Science in Healthcare Management. \"We are continually exploring ways to provide relevant ...",
+      "sourceUrl": null,
+      "webUrl": "https://abc13.com/houston-community-college-bachelors-degree-offerings-get-bachelors-in-junior-applied-technology-artificial-intelligence-and-robotics/13149945/",
+      "originalUrl": "https://abc13.com/houston-community-college-bachelors-degree-offerings-get-bachelors-in-junior-applied-technology-artificial-intelligence-and-robotics/13149945/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/13149941_041823-ktrk-hcc-generic-tn-img.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc13.com/amp/houston-community-college-bachelors-degree-offerings-get-bachelors-in-junior-applied-technology-artificial-intelligence-and-robotics/13149945/",
+      "cdnAmpWebUrl": "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/houston-community-college-bachelors-degree-offerings-get-bachelors-in-junior-applied-technology-artificial-intelligence-and-robotics/13149945/",
+      "publishedDateTime": "2023-04-18T22:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "abc13",
+        "domain": "abc13.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-inside-the-secret-list-of-websites-that-make-ai-like-chatgpt-sound-smart.md",
+      "title": "Inside the secret list of websites that make AI like ChatGPT sound smart",
+      "excerpt": "An analysis of a chatbot data set by The Washington Post reveals the proprietary, personal, and often offensive websites that go into an AI’s training data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/interactive/2023/ai-chatbot-learning/",
+      "originalUrl": "https://www.washingtonpost.com/technology/interactive/2023/ai-chatbot-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3RJWXEJIYVBRRCKTKMQYEARILU.jpg&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T21:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-artificial-intelligence-in-healthcare-market-new-trend-analysis-2023-2030.md",
       "title": "Artificial Intelligence in Healthcare Market New Trend Analysis 2023-2030",
       "excerpt": "The Global Artificial Intelligence in Healthcare market is anticipated to rise at a considerable rate during the forecast period. The market is growing at a steady rate and with the rising adoption of strategies by key players,",
@@ -775,6 +957,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-18-carbyne-launches-live-audio-translation-for-apex-emergency-call-platform.md",
+      "title": "Carbyne Launches Live Audio Translation for APEX Emergency Call Platform",
+      "excerpt": "Revolutionary AI technology helps customers reduce errors, support diversity, save time, and reduce costsDENVER, April 18, 2023 /PRNewswire/ --",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/carbyne-launches-live-audio-translation-for-apex-emergency-call-platform-1032239829",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/carbyne-launches-live-audio-translation-for-apex-emergency-call-platform-1032239829",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-18-voyis-launches-advanced-vision-system-for-subsea-rovs.md",
       "title": "Voyis Launches Advanced Vision System for Subsea ROVs",
       "excerpt": "Subsea optical inspection technologies developer Voyis Imaging Inc. has launched a new product line called Discovery Vision",
@@ -943,230 +1168,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-how-modern-natural-language-processing-is-improving-healthcare.md",
-      "title": "How Modern Natural Language Processing Is Improving Healthcare",
-      "excerpt": "This is where natural language processing (NLP) can be of immense value. NLP software can read and understand unstructured clinical notes, extract data from them in a structured format ...",
-      "sourceUrl": null,
-      "webUrl": "https://medcitynews.com/2023/04/how-modern-natural-language-processing-is-improving-healthcare/",
-      "originalUrl": "https://medcitynews.com/2023/04/how-modern-natural-language-processing-is-improving-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medcitynews.com/uploads/2019/03/GettyImages-905433516.jpg",
-          "width": 724,
-          "height": 483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedCity News",
-        "domain": "medcitynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-this-startup-that-automates-sme-invoices-with-ai-just-raised-8-million-check-out-the-10-slide-pitch-deck-triver-used-to-raise-the-fresh-funds.md",
-      "title": "This startup that automates SME invoices with AI just raised $8 million. Check out the 10-slide pitch deck Triver used to raise the fresh funds.",
-      "excerpt": "Deliveroo investor Stride.vc were among the backers of the funding round as London-based Triver emerged from stealth mode.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/triver-london-fintech-startup-raises-8-million-from-deliveroo-backer-2023-4",
-      "originalUrl": "https://www.businessinsider.com/triver-london-fintech-startup-raises-8-million-from-deliveroo-backer-2023-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/643d4c8a56f0dc00198960d5?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T02:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-can-music-practice-avert-cognitive-decline.md",
-      "title": "Can Music Practice Avert Cognitive Decline?",
-      "excerpt": "A team from UNIGE, HES-SO Geneva and EPFL shows the positive impacts of musical activities to counteract brain ageing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/neuroscience/news/can-music-practice-avert-cognitive-decline-372225",
-      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/can-music-practice-avert-cognitive-decline-372225",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/372225/can-music-practice-avert-cognitive-decline-372225-640x360.jpg?cb=20230418",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-aws-wants-to-help-you-build-generative-ai-tools.md",
-      "title": "AWS wants to help you build generative AI tools",
-      "excerpt": "AWS announced several innovations last week that will make it easy and practical for its customers to use generative AI in their businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2023/04/now-aws-wants-to-help-you-build-generative-ai-tools-as-well/",
-      "originalUrl": "https://techwireasia.com/2023/04/now-aws-wants-to-help-you-build-generative-ai-tools-as-well/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techwireasia.com/wp-content/uploads/2023/04/000_33896B8-scaled.jpg",
-          "width": 2560,
-          "height": 1706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T01:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-baidu-rises-as-it-unveils-new-advanced-driving-updates.md",
-      "title": "Baidu rises as it unveils new advanced driving updates",
-      "excerpt": "Never miss a trade again with the fastest news alerts in the world! This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/content/seekingalpha-com/23/04/31835666/baidu-rises-as-it-unveils-new-advanced-driving-updates",
-      "originalUrl": "https://www.benzinga.com/content/seekingalpha-com/23/04/31835666/baidu-rises-as-it-unveils-new-advanced-driving-updates",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T01:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

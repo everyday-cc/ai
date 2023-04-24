@@ -56,14 +56,14 @@ related:
         height: 675
         isCached: true
   - title: "Persistent Establishes Dedicated Microsoft Viva Practice Integrated with Generative AI"
-    excerpt: "Expands existing Azure Center of Excellence with AI-based Modern Workplace solutionsPUNE, India and SANTA CLARA, Calif., April 21, 2023"
-    publishedDateTime: 2023-04-21T08:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/persistent-establishes-dedicated-microsoft-viva-practice-integrated-with-generative-ai-1032249105"
+    excerpt: "PUNE, India and SANTA CLARA, Calif., April 21, 2023 /PRNewswire/ -- Persistent Systems (BSE: PERSISTENT) (NSE: PERSISTENT), a global Digital Engineering provider, has announced the launch of a dedicated employee experience practice,"
+    publishedDateTime: 2023-04-21T09:30:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-persistent-establishes-dedicated-microsoft-viva-practice-integrated-with-/2023/04/21/9799289.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 46
     images:
       - url: "https://mma.prnewswire.com/media/1022385/Persistent_Systems_Logo.jpg"
         width: 400
@@ -79,6 +79,6 @@ related:
       domain: detroitnews.com
     quality: 34
 
-secured: "s/cmoyI9rcio/eL7NDWL26/dxHqpWF5DMP+T+YZJ4aIp7NzR5chlk/jW24c/wLtNQH2LJhacorABXwLlckgjW15JBLdcRcnuRmgYKUo4AK2XgmAiM2iCCky2aLcQCJY0HEj7rk7kzRjcXuthv44HlPcnwJqK1TOR7RoJoLUbEl8QoPLtLUlk/lozb0spGTOYEdTErGlczX6Q2/m0Lzw/rYsDeKgmHxAmIkWjYuIyBy8nvconqS1NHMNhIFH26ysgtgVOLYdNZmgrK+3XOOaxqxDsi2W3S8Xa2Ayp4f5Xy5A5sYLLxwxukmVpKIhvkSZtqG8MxC8oe94mR73TZaqMTHWlKTfb5MnCrozv0aqkc0o=;EOu1lSPx/0ZpEnrHSMjvwQ=="
+secured: "gPC3YPrfWN+ZxFfSNOtWLzGrbEv5cPCFxuaBQ3pPf6ZQLJl0P5oQ3R3rXqafDBTBSOhGPufUoxzn3fKZP2GnD265kubAeYfyNMozRjRbwjR6FdP5oEYyNGmqG3IGJpGHedV++R0YwME8N1vR/+m8bTUmpyLT0jV7j7h2ER+t3+UQNrGs6/nL7roWTuSLWH1/qS+6CDBGaVGf6xJc7srWNUvoT92Ar43oYEsMW2O0dPpKVTGQQK4tcGJN1b3YiaA9m1nC7SfZ/FyRwUxMo20zubwSVqaDIyf325b+kbDpPZHbYCXaYk6Q054phDkY+6gDD0jqhRagIL+ryACoS5AlWZzGl1BfmjBfGaz1JNQOoZwVGfj5GbDiy78mkMOyWhTVzPaq9BfJjKzv03SOkUvCaWqKRWfk7omlzz1ftg3mLNhLf1brwmXq2h8ciuRpAxlBOYdWPiwRDSamYd9tDNTq8mJeqV40vWSo41UpiNs3g0h44wgHoRKKwvGAXyLAitLW8EWyS+SKJOoRDbq6llTjrA==;m9pAi1cMXuapkfzav8L2Zw=="
 ---
 

@@ -2,6 +2,223 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2023-03-03-nvidias-latest-gpu-drivers-to-upscale-blurry-videos-via-ai.md",
+      "title": "Nvidia's latest GPU drivers to upscale blurry videos via AI",
+      "excerpt": "San Francisco, March 2 (IANS) Chip-maker Nvidia has released new GPU drivers, which will upscale old blurry web videos on RTX 30 and 40-series cards. About 80 per cent of internet bandwidth today ...",
+      "sourceUrl": null,
+      "webUrl": "https://glamsham.com/world/technology/nvidias-latest-gpu-drivers-to-upscale-blurry-videos-via-ai",
+      "originalUrl": "https://glamsham.com/world/technology/nvidias-latest-gpu-drivers-to-upscale-blurry-videos-via-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://glamsham.com/wp-content/uploads/2023/03/94bb4dd5080cd84ca4fe8201db58559f.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T10:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "glamsham.com",
+        "domain": "glamsham.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-prescription-opioids-could-impact-cognitive-function-in-older-adults.md",
+      "title": "Prescription opioids could impact cognitive function in older adults",
+      "excerpt": "Prescription opioid use could have a negative effect on cognitive function in older adults ... level fellows and junior faculty in health services research. Pain is considered common in older ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-03-prescription-opioids-impact-cognitive-function.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-03-prescription-opioids-impact-cognitive-function.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/do-prescription-opioid.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-03-prescription-opioids-impact-cognitive-function.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-03-prescription-opioids-impact-cognitive-function.amp",
+      "publishedDateTime": "2023-03-02T10:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-how-to-spruce-up-your-facebook-messenger-chats-by-adding-a-theme.md",
+      "title": "How to spruce up your Facebook Messenger chats by adding a theme",
+      "excerpt": "Facebook Messenger has a hidden gem of an option to make chatting with friends, family, and others a bit more fun.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-to-spruce-up-your-facebook-messenger-chats-by-adding-a-theme/",
+      "originalUrl": "https://www.zdnet.com/article/how-to-spruce-up-your-facebook-messenger-chats-by-adding-a-theme/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/a360814037423836b4312682efeb7cb8b95ba5d7/2023/03/02/d4e0cdf3-7e41-4bff-8c63-09564cadc324/gettyimages-1246111401-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-spruce-up-your-facebook-messenger-chats-by-adding-a-theme/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-spruce-up-your-facebook-messenger-chats-by-adding-a-theme/",
+      "publishedDateTime": "2023-03-02T08:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-microsoft-and-mitre-create-tool-to-help-security-teams-prepare-for-attacks-on-machine-learning-systems.md",
+      "title": "Microsoft and MITRE Create Tool to Help Security Teams Prepare for Attacks on Machine Learning Systems",
+      "excerpt": "New Arsenal plug-in brings together Microsoft Counterfit, MITRE CALDERA™, and MITRE ATLAS™ to help cybersecurity practitioners better understand threats to machine learning systems Microsoft and MITRE have developed a plug-in that combines several open ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/03/b31174152/microsoft-and-mitre-create-tool-to-help-security-teams-prepare-for-attacks-on-machine-learning-sys",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/b31174152/microsoft-and-mitre-create-tool-to-help-security-teams-prepare-for-attacks-on-machine-learning-sys",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31174152",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31174152",
+      "publishedDateTime": "2023-03-02T08:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-nvidia-nasdaqnvda-riding-the-ai-chip-buzz.md",
+      "title": "Nvidia (NASDAQ:NVDA): Riding the AI Chip Buzz",
+      "excerpt": "The decline in the end market demand due to macroeconomic weakness and inventory issues dragged chip stocks lower, including Nvidia (NASDAQ:NVDA). However, the growing buzz around AI (Artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/nvidia-nasdaq:nvda:-riding-the-ai-chip-buzz",
+      "originalUrl": "https://www.nasdaq.com/articles/nvidia-nasdaq:nvda:-riding-the-ai-chip-buzz",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-02-chips-industry-goes-all-in-on-ai.md",
       "title": "Chips industry goes all-in on AI",
       "excerpt": "US firm Nvidia dominates the market in specialised chips known as GPUs, which happen to be ideal for training AI programmes like the wildly popular chatbot ChatGPT. \"Technology trends are working ...",
@@ -906,225 +1123,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-chatgpts-gpu-demand-expected-to-exceed-30000-helping-nvidias-ai-business-boom-wccftech.md",
-      "title": "'ChatGPT's GPU Demand Expected To Exceed 30,000 Helping NVIDIA's AI Business Boom' - WCCFtech",
-      "excerpt": "Never miss a trade again with the fastest news alerts in the world! This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/03/31129573/chatgpts-gpu-demand-expected-to-exceed-30-000-helping-nvidias-ai-business-boom-wccftech",
-      "originalUrl": "https://www.benzinga.com/news/23/03/31129573/chatgpts-gpu-demand-expected-to-exceed-30-000-helping-nvidias-ai-business-boom-wccftech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T21:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-healthcare-natural-language-processing-nlp-market-size-to-reach-at-extensive-growth-by-2026.md",
-      "title": "Healthcare Natural Language Processing (NLP) Market Size To Reach at Extensive Growth by 2026",
-      "excerpt": "The Report, Titled Global and China Healthcare Natural Language Processing (NLP) Market Size, Status and Forecast",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-size-to-reach-at-extensive-growth-by-2026-2023-03-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-size-to-reach-at-extensive-growth-by-2026-2023-03-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T20:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-performance-marketing-engine-wunderkind-raises-76m-with-focus-on-ai-machine-learning.md",
-      "title": "Performance Marketing Engine Wunderkind Raises $76M, With Focus On AI, Machine Learning",
-      "excerpt": "Wunderkind, which helps brands target website visitors with emails and texts, has raised $76 million in funding, despite the ongoing controversy over ad targeting. CEO Bill Ingram says Wunderkind is making heavy investments in AI and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/383071/performance-marketing-engine-wunderkind-raises-76.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/383071/performance-marketing-engine-wunderkind-raises-76.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2023/03/02/billingram-wunderkind-600_rgM5BCs.jpg",
-          "width": 600,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-icici-prudential-life-insurance-leverages-machine-learning-models-for-customers.md",
-      "title": "ICICI Prudential Life Insurance leverages machine learning models for customers",
-      "excerpt": "ICICI Prudential Life Insurance has deployed advanced machine learning models for their customers. This digital solution predicts future persistency behavior and has enabled the Company to improve persistency across all cohorts.",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-98351567,imgsize-15524,width-1200,height-628,overlay-etcio/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567",
-      "publishedDateTime": "2023-03-01T19:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cio.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-richard-kyte-here-are-the-ethical-questions-we-should-be-asking-about-ai.md",
-      "title": "Richard Kyte: Here are the ethical questions we should be asking about AI",
-      "excerpt": "Richard Kyte is director of the D.B. Reinhart Institute for Ethics in Leadership at Viterbo University in La Crosse, Wis., and co-host of \"The Ethical Life\" podcast. Our society has experienced plenty of disruptive technology over the past couple of centuries,",
-      "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/news/national/richard-kyte-here-are-the-ethical-questions-we-should-be-asking-about-ai/article_9a3f6f5b-eccb-56ba-b8f9-c295ecce862d.html",
-      "originalUrl": "https://www.stltoday.com/news/national/richard-kyte-here-are-the-ethical-questions-we-should-be-asking-about-ai/article_9a3f6f5b-eccb-56ba-b8f9-c295ecce862d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T18:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

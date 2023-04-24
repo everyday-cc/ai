@@ -2,6 +2,247 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-04-17-posts-tagged-aws-artificial-intelligence-and-machine-learning-practice-lead.md",
+      "title": "Posts tagged \"AWS Artificial Intelligence and Machine Learning Practice Lead\"",
+      "excerpt": "Download this eBook to look at each of these trends to give you background on why AI and ML is so powerful today, how businesses are using it responsibly and to their benefit, and how the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartcompany.com.au/tag/aws-artificial-intelligence-and-machine-learning-practice-lead/",
+      "originalUrl": "https://www.smartcompany.com.au/tag/aws-artificial-intelligence-and-machine-learning-practice-lead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartcompany.com.au/wp-content/uploads/2022/11/Smartcompany_Horizontal_Black_Logo_3000x4000px-e1668556442225.png?fit=3000%2C3000",
+          "width": 3000,
+          "height": 3000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartCompany",
+        "domain": "smartcompany.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-2023-2030-speech-recognition-market-report-latest-developments.md",
+      "title": "2023-2030 Speech Recognition Market Report: Latest Developments",
+      "excerpt": "Apr 16, 2023 (The Expresswire) -- \"Speech Recognition Market\" information for each competitor includes (VoiceVault, Microsoft, Agnitio, ReadSpeaker",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/2023-2030-speech-recognition-market-report-latest-developments-2023-04-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/2023-2030-speech-recognition-market-report-latest-developments-2023-04-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-16-deepfake-porn-could-be-a-growing-problem-amid-ai-race.md",
+      "title": "Deepfake porn could be a growing problem amid AI race",
+      "excerpt": "Research into deepfake porn is not prevalent, but one report released in 2019 by the AI firm DeepTrace Labs ... which includes Facebook, Instagram and Messenger. Meta spokesperson Dani Lever ...",
+      "sourceUrl": null,
+      "webUrl": "https://thegrio.com/2023/04/16/deepfake-porn-ai/",
+      "originalUrl": "https://thegrio.com/2023/04/16/deepfake-porn-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thegrio.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thegrio.com/2023/04/16/deepfake-porn-ai/amp/",
+      "cdnAmpWebUrl": "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2023/04/16/deepfake-porn-ai/amp/",
+      "publishedDateTime": "2023-04-16T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Grio",
+        "domain": "thegrio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-16-ais-threat-to-humanity-will-be-far-greater-if-china-masters-it-first-gordon-chang.md",
+      "title": "AI's threat to humanity will be far greater if China masters it first: Gordon Chang",
+      "excerpt": "Chinese proposals mandating AI reinforce socialist values and viewpoints make the technology more dangerous to humanity, China researcher Gordon Chang says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/world/ai-threat-humanity-far-greater-china-masters-first-gordon-chang",
+      "originalUrl": "https://www.foxnews.com/world/ai-threat-humanity-far-greater-china-masters-first-gordon-chang",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b082c71c-eb12-49ef-a0a4-aa58c0dfda02/a7ab111d-8d84-464d-9e62-5c778730bca6/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/world/ai-threat-humanity-far-greater-china-masters-first-gordon-chang.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/ai-threat-humanity-far-greater-china-masters-first-gordon-chang.amp",
+      "publishedDateTime": "2023-04-16T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-16-algorithms-auditing-algorithms-gpt-4-a-reminder-that-responsible-ai-is-moving-beyond-human-scale.md",
+      "title": "Algorithms auditing algorithms: GPT-4 a reminder that responsible AI is moving beyond human scale",
+      "excerpt": "Responsible AI is the foundation for accurate, effective and trustworthy AI systems, addressing bias, ensuring transparency and more.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/algorithms-auditing-algorithms-gpt-4-responsible-ai-beyond-human-scale/",
+      "originalUrl": "https://venturebeat.com/ai/algorithms-auditing-algorithms-gpt-4-responsible-ai-beyond-human-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/annevb_artificial_intelligence_monitoring_artificial_intelligen_e0903052-c092-4cd0-bae3-0dade58f600f.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/algorithms-auditing-algorithms-gpt-4-responsible-ai-beyond-human-scale/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/algorithms-auditing-algorithms-gpt-4-responsible-ai-beyond-human-scale/amp/",
+      "publishedDateTime": "2023-04-16T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-16-australian-universities-split-on-using-new-tool-to-detect-ai-plagiarism.md",
       "title": "Australian universities split on using new tool to detect AI plagiarism",
       "excerpt": "Turnitin claims its device is 98% accurate but some institutions are concerned about not having enough time to make a decision",
@@ -944,236 +1185,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-zooms-virtual-agent-brings-ai-powered-resolutions-to-contact-centers.md",
-      "title": "Zoom’s Virtual Agent Brings AI-Powered Resolutions To Contact Centers",
-      "excerpt": "Vice President & Principal Analyst, Modern Work, Melody Brue, looks at how generative AI chatbots are becoming critical to customer satisfaction and uncovering how Zoom developed its bot codenamed Zoe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/04/14/zooms-virtual-agent-brings-ai-powered-resolutions-to-contact-centers/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/04/14/zooms-virtual-agent-brings-ai-powered-resolutions-to-contact-centers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6439c634aaf7414a5deb478e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/04/14/zooms-virtual-agent-brings-ai-powered-resolutions-to-contact-centers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/04/14/zooms-virtual-agent-brings-ai-powered-resolutions-to-contact-centers/amp/",
-      "publishedDateTime": "2023-04-14T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-ai-frenzy-puts-chips-back-onto-the-menu-buy-the-tech-behind-revolution.md",
-      "title": "AI frenzy puts chips back onto the menu: Buy the tech behind revolution",
-      "excerpt": "Slavishly following fashion when building a portfolio is not a good idea. But acknowledging trends makes sense - and ChatGPT is part of a mega trend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisismoney.co.uk/money/investing/article-11974189/AI-frenzy-puts-chips-menu-Buy-tech-revolution.html",
-      "originalUrl": "https://www.thisismoney.co.uk/money/investing/article-11974189/AI-frenzy-puts-chips-menu-Buy-tech-revolution.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2023/04/14/20/69846491-0-image-a-72_1681502145335.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thisismoney.co.uk/money/investing/article-11974189/amp/AI-frenzy-puts-chips-menu-Buy-tech-revolution.html",
-      "cdnAmpWebUrl": "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/investing/article-11974189/amp/AI-frenzy-puts-chips-menu-Buy-tech-revolution.html",
-      "publishedDateTime": "2023-04-14T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This is Money",
-        "domain": "thisismoney.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-generative-ai-music-platform-creates-forever-songs-with-artists-unique-sounds-melodies-and-beats.md",
-      "title": "Generative AI Music Platform Creates Forever Songs With Artists’ Unique Sounds, Melodies, And Beats",
-      "excerpt": "A generative AI startup named Aimi has launched a new music platform that fundamentally transforms music, artists, listeners, and monetization. It’s simultaneously a creation tool that works alongside artists to create tracks, a listening experience that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2023/04/14/generative-ai-music-platform-creates-forever-songs-with-artists-unique-sounds-melodies-and-beats/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/04/14/generative-ai-music-platform-creates-forever-songs-with-artists-unique-sounds-melodies-and-beats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64398a48797e9c71efa00872/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 843,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2023/04/14/generative-ai-music-platform-creates-forever-songs-with-artists-unique-sounds-melodies-and-beats/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/04/14/generative-ai-music-platform-creates-forever-songs-with-artists-unique-sounds-melodies-and-beats/amp/",
-      "publishedDateTime": "2023-04-14T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-elon-musk-plans-artificial-intelligence-start-up-to-rival-openai.md",
-      "title": "Elon Musk plans artificial intelligence start-up to rival OpenAI",
-      "excerpt": "Elon Musk is developing plans to launch a new artificial intelligence start-up to compete with ChatGPT-maker OpenAI, as the billionaire seeks to join Silicon Valley’s race to build generative AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/2a96995b-c799-4281-8b60-b235e84aefe4?shareType=nongift",
-      "originalUrl": "https://www.ft.com/content/2a96995b-c799-4281-8b60-b235e84aefe4?shareType=nongift",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-a-chinese-company-is-reportedly-planning-to-replace-some-human-copywriters-and-graphic-designers-with-ai.md",
-      "title": "A Chinese company is reportedly planning to replace some human copywriters and graphic designers with AI",
-      "excerpt": "Some news sites have already experimented with using AI models to write articles and other types of media content, including BuzzFeed and CNET. Insider's global editor-in-chief recently announced its newsroom will start experimenting with ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chinese-company-to-replace-some-copywriters-graphic-designers-ai-report-2023-4",
-      "originalUrl": "https://www.businessinsider.com/chinese-company-to-replace-some-copywriters-graphic-designers-ai-report-2023-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/643965fb028f6800183d9a7a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chinese-company-to-replace-some-copywriters-graphic-designers-ai-report-2023-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-company-to-replace-some-copywriters-graphic-designers-ai-report-2023-4?amp",
-      "publishedDateTime": "2023-04-14T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

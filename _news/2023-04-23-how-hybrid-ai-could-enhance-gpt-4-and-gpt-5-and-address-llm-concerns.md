@@ -8,7 +8,7 @@ webUrl: "https://venturebeat.com/ai/how-hybrid-ai-could-enhance-gpt-4-and-gpt-5-
 ampWebUrl: "https://venturebeat.com/ai/how-hybrid-ai-could-enhance-gpt-4-and-gpt-5-and-address-llm-concerns/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-hybrid-ai-could-enhance-gpt-4-and-gpt-5-and-address-llm-concerns/amp/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_creating_one_artificial_intelligence_out_of_two._two_AI__5e06f4d2-e068-4c47-b353-c1ec6bfb7581.png?w=1200&strip=all"
@@ -61,6 +62,6 @@ related:
         height: 900
         isCached: true
 
-secured: "Glu1mYpd6XJcC6M9Qk6w9eL1kYi4+bVErMAKtjWNmTc5uhjF3s9W2cC0tbJUaDuHZun5yhYwJS5/cxXlwfJgulO2PthaB278Ak3r7ou3/7LHww64la06/c8Mzny0aSgR3yovZyplCCbe31fiAF2kj8K4IbvXBxN4m9jkOPswz5omdhmvAOfRkMq1jQCb1/pL5E+Ua48WaKuUc6BeLedMS2CAmbX4DmYHWwH4NTD/KCIB6xYcf/F8nhk4rnLwkIldJDN4xR3h7A9R0HqNRJJc2l4dXO3WE9hG+1aO1gAv81TTUDPNucNcn3gCapsFEUXQJPp6Z9XjY4Gey1bA1V+po3OZG4+b6pKJ+cWSvri0IJE=;Jm6fw3I27bMi79m/3j7gBQ=="
+secured: "BwkHytoxwjqWA2EZRfsneyibK9OTAy0v7ocKyn+EW4cufv4lnHojVUJEenpmE2VTX0EzPvPX/sUXCJfsOdrrZty1SyFcsUWYCO24xX4aZ0sIF5JYEeJdQNEh5hM/o0g42GIO1EXvuIAsN+J8F8GcqDbTuB1Lk5WSnbzOZjDIpsjUp1sJ7OLh1HddMwkTrx9M/fGKTC9GlZgE9LnBP8kJQRJA+4XQwyJYXsx+8vACUa6qoPI16eCh8hhTg1U4cZcFU4Tzxg7nz22Ou6LpelRGXFlRnFIioB6oc4on4v4qHus7rNs1Xa7McwzpxaJleqzHwBrKejE/AVARgxyMxIqmiQU7tWVh8o3bqyANPKpK5VLcV2hsibbVjyC4JgQZcw2RoFIVN2n13yjwd1vRM8/ief1JpJg7zuz/wp+PqN0Uh3eu1dJg2wq4zDfymXfN97IPR6bEXqwJ3ro1yq3sGOIvMujTOMSK8QYnts2FxgwKnM3spsrdfqi5zhGX3Gtkje65W1FJVpLd80h00sgKUYRJvw==;wkBa4uGKeRscbW+RUY/hdQ=="
 ---
 

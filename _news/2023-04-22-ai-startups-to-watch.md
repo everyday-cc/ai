@@ -3,8 +3,8 @@ category: news
 title: "AI startups to watch"
 excerpt: "Amid a turbulent year for the tech sector, one that has brought layoffs, funding pullbacks and the failure of the industry's favorite bank, artificial intelligence has emerged as"
 publishedDateTime: 2023-04-21T18:33:00Z
-originalUrl: "https://www.bizjournals.com/buffalo/news/2023/04/21/ai-startups-to-watch.html"
-webUrl: "https://www.bizjournals.com/buffalo/news/2023/04/21/ai-startups-to-watch.html"
+originalUrl: "https://www.bizjournals.com/triad/news/2023/04/21/ai-startups-to-watch.html"
+webUrl: "https://www.bizjournals.com/triad/news/2023/04/21/ai-startups-to-watch.html"
 ampWebUrl: "https://www.bizjournals.com/bizjournals/news/2023/04/21/ai-startups-to-watch.amp.html"
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/bizjournals/news/2023/04/21/ai-startups-to-watch.amp.html"
 type: article
@@ -35,6 +35,6 @@ related:
         height: 256
         isCached: true
 
-secured: "IZTYxK3NylZvIwkvvIBwsJTlM4ADeA4chlENP24voJv5Ls3w12T0EjWm+1Pw6Ua5OhilRnrIZAfVw5TQAoutFA0/gie5ljsVzZNFFoEzuD9FvUra7idZ6JI5FVhlyJeBWRKwy4kRRy8cMEjgDQ1tO0Kfi8JmhZE5v4EEz3NzGBfcH/2zYxJrE1/jy0y8Dd/XE0CJmXdGkJJHKAHFv8JxRQOPL/FAphhoRFt7vc8B9GDnom8cx0G73gJZmSFJ7z5R+sagPE9MkZeSQy47ZiAAimKRBi2w/366neVbCNaZ7eG4Pdgu77B/upxUAib6rY0QN160rp33y4N9TrWsEau3iQCDqWmSBg6JXmMfhpitPkElBt4WAyb/C/M8cN24zszwheuYcYneBT3V59Y0E5XIt3FYVTyyJrcQWWwWtQ0N/GFoun3exfSstIWEvoErd1+3Ib4s32xNOAxBPR1zdpkNqxiV/dDGh9oe3KBxgEQDg/a8qdZSERZYvCntixjMU3tHRWTSF5S2ui6mVqWyVMMOcg==;3fEzTwXGibxl6QDmsFQegQ=="
+secured: "Bq8ykoIgLn0FOJtfPEG7JeBmIc88/nWd1CvIsxhd+PtwXPDLy7lMkRw0ByveHxG3pN6aA2U8m16sFW6EZZPIV7wV3jtZHIs4lGa3Tx1S2DN8Lie/iRzpIamgFWUkMgzP7cJVOUSifFaAXyqHpzSVOlBAzPTeveq6nlqkuEfEa7FX1yZpbo3mvyFJeoFwEeaZ9VIvSAwGd1XBZkvoW5pNCy4t3aggAAvd3IiBoQxvWoSCdLtx3Hqt3zSa0OSWZNrHzf0DWqWvQpXWTy7+PEoXidbDqvXVeZ5LN0cckmIUiIBgd5Fq/cStCgBHawagGM6mpP+BnO9Gh6Xp70/uX7rrBAtCm/NYQJBxhLkIgukWv4RxHvPZzql35uvu/YgcD47mvsMmICWRP4OE7vSTWPt1eoXIyPcGwWR34y/6ZHJ0xdLBv5LWopSeIuMipK7DJwXBfz6XDLDurBE12nXNYl/VEMKUWKQKHdlGmQuQZgJZO4K9PBtXXuu+vpDoiy8V2xeY3U4mgigtwLsqxnVTfUT2PQ==;XfLEly7Zbk2u2BTzXR9GTw=="
 ---
 

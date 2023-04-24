@@ -203,6 +203,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-18-carbyne-launches-live-audio-translation-for-apex-emergency-call-platform.md",
+      "title": "Carbyne Launches Live Audio Translation for APEX Emergency Call Platform",
+      "excerpt": "Revolutionary AI technology helps customers reduce errors, support diversity, save time, and reduce costsDENVER, April 18, 2023 /PRNewswire/ --",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/carbyne-launches-live-audio-translation-for-apex-emergency-call-platform-1032239829",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/carbyne-launches-live-audio-translation-for-apex-emergency-call-platform-1032239829",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-18-how-modern-natural-language-processing-is-improving-healthcare.md",
       "title": "How Modern Natural Language Processing Is Improving Healthcare",
       "excerpt": "This is where natural language processing (NLP) can be of immense value. NLP software can read and understand unstructured clinical notes, extract data from them in a structured format ...",
@@ -1252,40 +1295,6 @@
       "provider": {
         "name": "Digital Insurance",
         "domain": "dig-in.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-demand-for-speech-recognition-market-in-automotive-growing-rapidly-says-latest-report-by-allied-market-research.md",
-      "title": "Demand For Speech Recognition Market In Automotive Growing Rapidly, Says Latest Report By Allied Market Research",
-      "excerpt": "PORTLAND, OR, UNITED STATES, April 3, 2023 /einpresswire.com / -- The Allied Market Research, the global Speech Recognition Market study summarizes competitor analysis, business trends ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105931791/Demand-For-Speech-Recognition-Market-In-Automotive-Growing-Rapidly-Says-Latest-Report-By-Allied-Market-Research",
-      "originalUrl": "https://menafn.com/1105931791/Demand-For-Speech-Recognition-Market-In-Automotive-Growing-Rapidly-Says-Latest-Report-By-Allied-Market-Research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-02T21:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null

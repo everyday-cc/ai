@@ -191,6 +191,20 @@ related:
         width: 1600
         height: 840
         isCached: true
+  - title: "Google’s new DeepMind division wants to take ChatGPT head-on"
+    excerpt: "Ever since ChatGPT and after it Bing Chat took the internet by storm, Google has been scrambling to come up with a competent answer. The company quickly held a thrown-together AI event in Paris, even though it announced its big ChatGPT competitor,"
+    publishedDateTime: 2023-04-21T16:56:00Z
+    webUrl: "https://www.androidpolice.com/google-deepmind-take-chatgpt-head-on/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 39
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/04/google-deep-mind-hero.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "Ep5EGoRjLE2eJNAWExunojTS3W3/Zlu/KZwRcOj+jtxyEV1il8AEqaoIaTMVX15juB9mIsk4kXpIxhb+ypKi3SFGWkSpnLshW37bR46falpyNKrVF8eXnOHbsRq877vOSLVH38QyrnJd44CUsCQbOgs/+uTvNkxQVVw0s7TP3cRv/ngnFc4avVvV+nEFSlnqcCHSOKJrLyQyL09Q7TcYx4vi69xoMheC64akHATMI1xFVn2N4xhYELcF9FUMpzXTcIlaeYZgCT+A7GobZdEqRT58gkDzzdHumaZEKex+S1U92NDTyB66B/TqqCjK7AQwgPOBHhYkzHzJ0oWAZIeg8Vw9duxvS8uBTcxVc4KYuYo=;HXrF3MWAtFo8YjHAcOUdWQ=="
 ---

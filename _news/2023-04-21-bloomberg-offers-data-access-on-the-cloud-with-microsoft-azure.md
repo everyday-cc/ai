@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/bloomberg-offers-data-access
 webUrl: "https://www.datanami.com/this-just-in/bloomberg-offers-data-access-on-the-cloud-with-microsoft-azure/"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     height: 674
     isCached: true
 
-secured: "Sqhu+xZ5D2be4OY6fSKXR7LmxX4ggqNJafLgTA99YdMReFVAAXNlYUXv+EYc1IVw+fVLZe2yd7tiqVqc8ennEL3IJ3ZQf5ebQYiSeMtZecZw0GxY6qLX34PS7A9TpZZIUsP7ndqo4Lg+Z42qs2dPiryeFhhnud2DJ45d4vQA2sshfurtE9BjuZlawOgGtSBMa59cEkJPt4Aklexp3xwqMxMEwT5Ukv94eUwqHFQEgkVvz25wCumLZaiGTKW8n2CNq1Aud6xBBE5fqA7uLK17XXlY+PDMDx6c8kDXdkbIeB9DU2ed5eiceKIMcVeEdx+zkBT+4a4g2enZ1Z7+N8hfCC9/B2JUkj7RvupeeLyHazg=;paoFWvXpe6eE6o++oxWEgA=="
+related:
+  - title: "Microsoft Azure Marketplace Integrates Space and Time’s Web3 Tools"
+    excerpt: "Space and Time’s Web3 “data warehouse” has been integrated into the Microsoft (NASDAQ:MSFT) Azure Marketplace, an “app store” for developers using the cloud computing platform. Enterprise builders can now make a one-click deployment of Space and Time's data product,"
+    publishedDateTime: 2023-04-19T19:02:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-azure-marketplace-integrates-space-and-times-web3-tools"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
+
+secured: "NKV3xZSeDJdTMOFaQYS/UblKqFKy7sUph7DzQRmKjT5lolA8x47BM217uGVqejo1qxflph3cB5jVR3XFLxyGjAtg3h0NFEbeaPllAX3hzx67Bn8uKDgkeAlyrN01TVjIwBYG8Rrdn6rbFecWeSh4KN6GbUOK0lNoySMLcyfoD9k9/v/DADKkeHwB9eOj/ilUoT1f337U7v1HCvYF1E6nrBWlRYxxpYFEzaiPs4pHMyoHitZ59ZBkam70v95AB/F9HTIxBMkbHccnywUiTiKJFDWjUbrpZIZJha+MByrOd1jjnl/SVJmi30TdpRiMk6poGkaPx1KVm93r0TFwtGfREURFQmkkC80SJjf2EbbxAv8DlF819Z32dvSVqzZfz8jC7LMVEXBxb63eRMKuIjbwZoMAOKvtK58HGXghm7O/LKrZgtxyltSUDU+uVp5/mJpCayjwVk5B4HZwv5bZfu+tbvKbT//asJtWpBUq5EJ8r6to4P5GdZnRv7l2VD3uK3L5zDpM6tgoFajmDSelB+SptA==;K9bz/lgjOdz2mayQ0IfnqA=="
 ---
 
