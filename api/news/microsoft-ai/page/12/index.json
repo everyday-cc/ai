@@ -2,6 +2,41 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-01-07-isle-talk-iapt-nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt.md",
+      "title": "Isle Talk IAPT - NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT)",
+      "excerpt": "We'd also like to use analytics cookies. These collect feedback and send information about how our site is used to services called Adobe Analytics, Qualtrics Feedback, Microsoft Clarity and Google Analytics. We use this information to improve our site.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nhs.uk/services/clinic/isle-talk-iapt/R1F04/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt/",
+      "originalUrl": "https://www.nhs.uk/services/clinic/isle-talk-iapt/R1F04/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-06T20:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHS Choices",
+        "domain": "www.nhs.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-01-07-cognitive-behavioural-therapy-services.md",
       "title": "Cognitive behavioural therapy services",
       "excerpt": "We'd also like to use analytics cookies. These send information about how our site is used to services called Adobe Analytics, Hotjar and Google Analytics. We use this information to improve our site. Let us know if this is OK. We'll use a cookie to save ...",
@@ -1230,49 +1265,6 @@
       "provider": {
         "name": "Harvard Business Review",
         "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-19-low-et-levels-in-blood-plasma-may-predict-increased-risk-of-cognitive-impairment-dementia.md",
-      "title": "Low ET levels in blood plasma may predict increased risk of cognitive impairment, dementia",
-      "excerpt": "A study by Prof Halliwell's team in 2016 showed lower ET levels in blood plasma among participants with mild cognitive impairment. This was verified in a much larger group of cognitively impaired ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20221219/Low-ET-levels-in-blood-plasma-may-predict-increased-risk-of-cognitive-impairment-dementia.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20221219/Low-ET-levels-in-blood-plasma-may-predict-increased-risk-of-cognitive-impairment-dementia.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Dementia-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
         "images": null,
         "publishers": null,
         "authors": null

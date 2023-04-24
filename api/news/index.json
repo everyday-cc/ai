@@ -2,6 +2,196 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-24-microsoft-is-working-on-its-own-ai-chip-athena-to-cut-down-cost-of-machine-learning-operations.md",
+      "title": "Microsoft is working on its own AI chip ‘Athena’ to cut down cost of machine learning operations",
+      "excerpt": "Microsoft is developing its own AI chip called Athena for powering Large Language Models used to develop generative AI products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medianama.com/2023/04/223-microsoft-ai-chip-athena-machine-learning/",
+      "originalUrl": "https://www.medianama.com/2023/04/223-microsoft-ai-chip-athena-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medianama.com/wp-content/uploads/2021/08/chip-6517875_1280.jpg",
+          "width": 1280,
+          "height": 838,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T00:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaNama",
+        "domain": "medianama.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-the-rise-of-ai-entrepreneurs-how-this-technology-is-creating-new-opportunities.md",
+      "title": "The Rise Of AI Entrepreneurs: How This Technology Is Creating New Opportunities",
+      "excerpt": "New opportunities for entrepreneurs are everywhere you look. Surf this wave or wait another decade for the next, the choice is yours.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/04/24/the-rise-of-ai-entrepreneurs-how-technology-is-creating-new-opportunities/",
+      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/04/24/the-rise-of-ai-entrepreneurs-how-technology-is-creating-new-opportunities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64203353460318711de2d103/0x0.jpg?format=jpg&crop=5592,3143,x0,y286,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/04/24/the-rise-of-ai-entrepreneurs-how-technology-is-creating-new-opportunities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/04/24/the-rise-of-ai-entrepreneurs-how-technology-is-creating-new-opportunities/amp/",
+      "publishedDateTime": "2023-04-24T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-google-moves-ai-chip-engineering-team-to-google-cloud.md",
+      "title": "Google moves AI chip engineering team to Google Cloud",
+      "excerpt": "The team at Google which was engineering artificial intelligence chips has been shifted to the Google Cloud sector, according to a report by The Information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/google-moves-ai-chip-engineering-team-google-cloud/article66772554.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/google-moves-ai-chip-engineering-team-google-cloud/article66772554.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/ykjak6/article66772553.ece/alternates/FREE_1200/2023-02-27T170818Z_1823284669_RC2RJZ9GD7U8_RTRMADP_3_TECH-CONFERENCE-MWC.JPG",
+          "width": 1200,
+          "height": 814,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/google-moves-ai-chip-engineering-team-google-cloud/article66772554.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/google-moves-ai-chip-engineering-team-google-cloud/article66772554.ece/amp/",
+      "publishedDateTime": "2023-04-23T23:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-chatgpt-life-hacks-how-users-are-spawning-grocery-lists-from-ai-generated-recipes-and-meal-plans.md",
+      "title": "ChatGPT life hacks: How users are spawning grocery lists from AI-generated recipes and meal plans",
+      "excerpt": "The emergence of generative AI is opening a whole new world of life hacks including the creation of diet-specific meal plans and grocery lists to match. TikToker Mellyssa Viele and The Microsoft Garage director Mike Pell weigh in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/lifestyle/chatgpt-life-hacks-spawning-grocery-lists-ai-generated-recipes-meal-plans",
+      "originalUrl": "https://www.foxnews.com/lifestyle/chatgpt-life-hacks-spawning-grocery-lists-ai-generated-recipes-meal-plans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1846bba2-3f76-46e5-b731-28ab0c01de9a/de78cd28-4f77-4606-9528-afcbe1ee7bcd/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/lifestyle/chatgpt-life-hacks-spawning-grocery-lists-ai-generated-recipes-meal-plans.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/chatgpt-life-hacks-spawning-grocery-lists-ai-generated-recipes-meal-plans.amp",
+      "publishedDateTime": "2023-04-23T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-24-ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories.md",
       "title": "AI revolution: Manufacturers hope for artificial intelligence boost in factories",
       "excerpt": "Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery. There has been an explosion of interest in uses of AI across many sectors since the launch last year of chatbot ChatGPT from US startup OpenAI.",
@@ -1040,213 +1230,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-chatgpt-vs-watson-assistant.md",
-      "title": "ChatGPT vs. Watson Assistant",
-      "excerpt": "Watson Assistant is much more focused as an offering. Using artificial intelligence, this AI-chatbot platform developed by IBM enables businesses to build, train, and deploy conversational ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/chatgpt-vs-watson-assistant/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/chatgpt-vs-watson-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/04/AI-motherboard.jpeg",
-          "width": 1920,
-          "height": 1120,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-bard-now-helps-you-code.md",
-      "title": "Bard now helps you code",
-      "excerpt": "Bard can now help with programming and software development tasks, across more than 20 programming languages.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/code-with-bard/",
-      "originalUrl": "https://blog.google/technology/ai/code-with-bard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/9_Bard_Coding_Social_Share_Still_Blog_Social_.width-1300.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/code-with-bard/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/code-with-bard/amp/",
-      "publishedDateTime": "2023-04-21T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-the-cfo-at-the-forefront-of-innovation.md",
-      "title": "The CFO: at the forefront of innovation",
-      "excerpt": "Historically, the Chief Financial Officer (CFO) role had been strictly focused on accounting for financial information. These days, there&#8217;s a need &#8212; and even some pressure &#8212; for CFOs to evolve their scope and influence the innovation agenda within their enterprises. For starters, they",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-cfo-at-the-forefront-of-innovation/",
-      "originalUrl": "https://www.ibm.com/blog/the-cfo-at-the-forefront-of-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/Screenshot-2023-04-20-at-5.45.24-PM.png",
-          "width": 1940,
-          "height": 1170,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-heres-how-chatgpt-can-either-enhance-customer-service-or-brutally-undermine-the-customer-experience-warns-ai-ethics-and-ai-law.md",
-      "title": "Here’s How ChatGPT Can Either Enhance Customer Service Or Brutally Undermine The Customer Experience, Warns AI Ethics And AI Law",
-      "excerpt": "Generative AI such as ChatGPT is being rushed into use for customer service activities. Though advanced AI has some key benefits, you also need to ensure that the downsides are dealt with. Here's the scoop.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/04/21/heres-how-chatgpt-can-either-enhance-customer-service-or-brutally-undermine-the-customer-experience-warns-ai-ethics-and-ai-law/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/04/21/heres-how-chatgpt-can-either-enhance-customer-service-or-brutally-undermine-the-customer-experience-warns-ai-ethics-and-ai-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64377a9225ef3956b46ba1df/0x0.jpg?format=jpg&crop=2854,1901,x170,y0,safe&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/04/21/heres-how-chatgpt-can-either-enhance-customer-service-or-brutally-undermine-the-customer-experience-warns-ai-ethics-and-ai-law/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/04/21/heres-how-chatgpt-can-either-enhance-customer-service-or-brutally-undermine-the-customer-experience-warns-ai-ethics-and-ai-law/amp/",
-      "publishedDateTime": "2023-04-21T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

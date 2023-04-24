@@ -2,6 +2,41 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-01-16-dhc-talking-therapies-nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt.md",
+      "title": "DHC Talking Therapies - NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT)",
+      "excerpt": "We'd also like to use analytics cookies. These collect feedback and send information about how our site is used to services called Adobe Analytics, Qualtrics Feedback, Microsoft Clarity and Google Analytics. We use this information to improve our site.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nhs.uk/services/clinic/dhc-talking-therapies/NNE01/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt",
+      "originalUrl": "https://www.nhs.uk/services/clinic/dhc-talking-therapies/NNE01/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-15T09:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHS Choices",
+        "domain": "www.nhs.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-01-14-tech-gets-religion-on-ai-inside-the-vatican-summit-with-islamic-and-jewish-leaders-microsoft-and-ibm.md",
       "title": "Tech gets religion on AI: Inside the Vatican summit with Islamic and Jewish leaders, Microsoft and IBM",
       "excerpt": "It’s unusual for tech executives and religious leaders to get together to discuss their shared interests and goals for the future of humanity and the planet. It’s even more extraordinary… Read More",
@@ -1270,41 +1305,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-07-isle-talk-iapt-nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt.md",
-      "title": "Isle Talk IAPT - NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT)",
-      "excerpt": "We'd also like to use analytics cookies. These collect feedback and send information about how our site is used to services called Adobe Analytics, Qualtrics Feedback, Microsoft Clarity and Google Analytics. We use this information to improve our site.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nhs.uk/services/clinic/isle-talk-iapt/R1F04/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt/",
-      "originalUrl": "https://www.nhs.uk/services/clinic/isle-talk-iapt/R1F04/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-06T20:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHS Choices",
-        "domain": "www.nhs.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-08-podcast-why-pharma-marketers-need-ai-now.md",
+      "title": "Podcast: Why pharma marketers need AI now",
+      "excerpt": "In this podcast, William Grambley, CEO of AllazoHealth, explores how pharma marketers can reach their omni-channel engagement objectives with artificial intelligence (AI), anticipate patient intent, and drive next-best-action at the individual level.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mmm-online.com/home/channel/sponsored/podcast-why-pharma-marketers-need-ai-now/",
+      "originalUrl": "https://www.mmm-online.com/home/channel/sponsored/podcast-why-pharma-marketers-need-ai-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MM&M",
+        "domain": "mmm-online.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-08-healthcare-ai-market-valuation-worldwide-2023-2028.md",
       "title": "Healthcare AI Market Valuation Worldwide 2023 - 2028",
       "excerpt": "Insights] Top “Healthcare AI Market” Size 2023 Key players Profiled in the Report are [, Apple, GE Healthcare,",
@@ -1351,49 +1385,6 @@
         "AI in Finance",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-majority-in-new-poll-would-be-uncomfortable-with-health-care-provider-relying-on-ai.md",
-      "title": "Majority in new poll would be uncomfortable with health care provider relying on AI",
-      "excerpt": "A majority of Americans in a new poll say they’d be uncomfortable with their health care provider relying on artificial intelligence (AI) as part of their medical care, and less than half think using AI would lead to better health outcomes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/majority-poll-uncomfortable-health-care-160151510.html",
-      "originalUrl": "https://www.aol.com/majority-poll-uncomfortable-health-care-160151510.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_the_hill_articles_315/28282a14793476e05441eebabce54c8a",
-          "width": 900,
-          "height": 505,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-22T10:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

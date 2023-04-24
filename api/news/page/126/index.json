@@ -2,6 +2,169 @@
   "page": 126,
   "value": [
     {
+      "path": "_news/2023-01-07-the-drawbacks-of-chatgpt-for-production-conversational-ai-systems.md",
+      "title": "The Drawbacks of ChatGPT for Production Conversational AI Systems",
+      "excerpt": "With its detailed and human-like written responses, ChatGPT has caught the world’s attention and spawned a meaningful discussion about how people should",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/2023/01/06/the-drawbacks-of-chatgpt-for-production-conversational-ai-systems/",
+      "originalUrl": "https://www.datanami.com/2023/01/06/the-drawbacks-of-chatgpt-for-production-conversational-ai-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datanami.com/wp-content/uploads/2023/01/chat_gpt_shutterstock_Ebru-Omer.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-06T12:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-07-robot-lawyer-powered-by-ai-will-help-fight-speeding-ticket-as-it-takes-first-case-in-court.md",
+      "title": "‘Robot lawyer’ powered by AI will help fight speeding ticket as it takes first case in court",
+      "excerpt": "The AI, billed as “the world’s first robot lawyer” by the startup that created it, DoNotPay, will run on a smartphone and listen to court arguments in real-time before telling the defendant ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2023/01/05/robot-lawyer-powered-by-ai-will-help-fight-speeding-ticket-as-it-takes-first-case-in-court/",
+      "originalUrl": "https://nypost.com/2023/01/05/robot-lawyer-powered-by-ai-will-help-fight-speeding-ticket-as-it-takes-first-case-in-court/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/01/comp2.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2023/01/05/robot-lawyer-powered-by-ai-will-help-fight-speeding-ticket-as-it-takes-first-case-in-court/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/01/05/robot-lawyer-powered-by-ai-will-help-fight-speeding-ticket-as-it-takes-first-case-in-court/amp/",
+      "publishedDateTime": "2023-01-06T12:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-07-ces-2023-ais-at-a-really-important-moment-says-sonys-ai-ethics-expert.md",
+      "title": "CES 2023: AI's at a ‘really important moment,' says Sony's AI ethics expert",
+      "excerpt": "This amounts to a crucial moment for AI, Alice Xiang, Head of Sony Group's (SONY) AI Ethics Office and AI Lead Research Scientist, told Yahoo Finance Live (video above). “We're really seeing an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/finance/ces-2023-ais-really-important-200046285.html",
+      "originalUrl": "https://www.aol.com/finance/ces-2023-ais-really-important-200046285.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_yahoo_finance_433/5c8b533b3390eeae6f9ec4727d034d18",
+          "width": 720,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-06T12:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-07-skynet-smiles-amd-unveils-monster-instinct-mi300-hybrid-ai-accelerator.md",
+      "title": "Skynet Smiles: AMD Unveils Monster Instinct MI300 Hybrid AI Accelerator",
+      "excerpt": "The MI300 sports 24 Zen 4 cores along with its CDNA 3 GPU architecture and 128GB of high-bandwidth memory (HBM3). AMD didn’t mention how many CUs were being used on the GPU side. The CPU and GPU chiplets are 3D-stacked on top of a base die that connects them to the eight stacks of HBM.",
+      "sourceUrl": null,
+      "webUrl": "https://www.extremetech.com/extreme/342078-skynet-smiles-amd-unveils-monster-instinct-mi300-hybrid-ai-accelerator",
+      "originalUrl": "https://www.extremetech.com/extreme/342078-skynet-smiles-amd-unveils-monster-instinct-mi300-hybrid-ai-accelerator",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-06T11:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ExtremeTech",
+        "domain": "extremetech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-07-this-ai-robot-arm-can-do-everything-from-making-coffee-to-3d-printing.md",
       "title": "This AI robot arm can do everything from making coffee to 3D printing",
       "excerpt": "HUENIT is an easy-to-use AI-based multi-functional robotic arm that combines advanced AI technologies with a modular arm to work on complex tasks with high precision.",
@@ -883,169 +1046,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-artificial-intelligence-is-just-getting-started.md",
-      "title": "Artificial intelligence is just getting started",
-      "excerpt": "I am writing in response to Douglas Rooks’ op-ed piece about the limits of computers and artificial intelligence (“A prescription for the new year,” Dec. 29). While I agree with Rooks more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.centralmaine.com/2023/01/04/artificial-intelligence-is-just-getting-started/",
-      "originalUrl": "https://www.centralmaine.com/2023/01/04/artificial-intelligence-is-just-getting-started/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T19:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kennebec Journal",
-        "domain": "centralmaine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-lenovo-introduces-the-worlds-first-dedicated-ai-chip-on-a-gaming-laptop.md",
-      "title": "Lenovo Introduces The ‘World’s First’ Dedicated AI Chip On A Gaming Laptop",
-      "excerpt": "Lenovo spent a lot of time at CES 2023 promoting its new LA AI chip, which it said is the world’s first dedicated AI chip on a gaming laptop. The new chip will come installed on the new Lenovo ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kotaku.com.au/2023/01/lenovo-ces-2023/",
-      "originalUrl": "https://www.kotaku.com.au/2023/01/lenovo-ces-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kotaku.com.au/wp-content/uploads/sites/3/2022/12/23/gizmodo-8.png?quality=80&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kotaku.com.au/2023/01/lenovo-ces-2023/amp/",
-      "cdnAmpWebUrl": "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2023/01/lenovo-ces-2023/amp/",
-      "publishedDateTime": "2023-01-05T19:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kotaku Australia",
-        "domain": "kotaku.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-amds-newest-mobile-processors-have-an-ai-engine.md",
-      "title": "AMD’s Newest Mobile Processors Have an AI Engine",
-      "excerpt": "On Wednesday night, AMD fired back during its CES keynote with competing products in both categories: new mobile gpus, new mobile Ryzen 7040 series chips with a built in AI engine, and new 3D V ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2023/01/amds-newest-mobile-processors-have-an-ai-engine/",
-      "originalUrl": "https://www.gizmodo.com.au/2023/01/amds-newest-mobile-processors-have-an-ai-engine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/01/05/bf92f220b490c9783cc135ef688984c2.png?quality=80&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2023/01/amds-newest-mobile-processors-have-an-ai-engine/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/01/amds-newest-mobile-processors-have-an-ai-engine/amp/",
-      "publishedDateTime": "2023-01-05T17:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gizmodo",
-        "domain": "gizmodo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-ceva-lg-to-bring-intelligent-vision-processing-to-smart-home-appliances.md",
-      "title": "CEVA, LG to Bring Intelligent Vision Processing to Smart Home Appliances",
-      "excerpt": "CEVA, the leading licensor of wireless connectivity and smart sensing technologies and co-creation solutions, announced that LG Electronics (LG) has licensed and deployed the CEVA-XM4 intelligent vision DSP in its Edge AI system-on-chip (SoC) 'LG8111' to advance the user experience of a new generation of smart home appliances.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/technology-solutions/29708-ceva-lg-to-bring-intelligent-vision-processing-to-smart-home-appliances",
-      "originalUrl": "https://www.thefastmode.com/technology-solutions/29708-ceva-lg-to-bring-intelligent-vision-processing-to-smart-home-appliances",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/27716503839b65af140e38aa28d5c6df.jpg?t=20230106_011855",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T17:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

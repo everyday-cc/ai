@@ -2,6 +2,162 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-20-amazon-and-microsoft-vets-raise-10m-for-computer-vision-startup-used-in-warehouses.md",
+      "title": "Amazon and Microsoft vets raise $10M for computer vision startup used in warehouses",
+      "excerpt": "A new Seattle startup wants to make it easier for businesses to monitor their warehouses using artificial intelligence and computer vision technologies. Groundlight emerged from stealth Wednesday, unveiling its",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/amazon-and-microsoft-vets-raise-10m-for-computer-vision-startup-used-in-warehouses/",
+      "originalUrl": "https://www.geekwire.com/2023/amazon-and-microsoft-vets-raise-10m-for-computer-vision-startup-used-in-warehouses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/04/leo-avi.jpg",
+          "width": 3053,
+          "height": 1977,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T16:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-self-driving-investment-crash-58-drop-in-autonomous-vehicle-dollars.md",
+      "title": "Self-Driving Investment Crash: 58% Drop In Autonomous Vehicle Dollars",
+      "excerpt": "In 2021, investors poured a record $9.7 billion into autonomous vehicle development. Last year however, that dropped by almost 60% to just $4.1 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2023/04/19/self-driving-investment-crash-58-drop-in-autonomous-vehicle-dollars/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/04/19/self-driving-investment-crash-58-drop-in-autonomous-vehicle-dollars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64406323e0d582303d1e5605/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2023/04/19/self-driving-investment-crash-58-drop-in-autonomous-vehicle-dollars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/04/19/self-driving-investment-crash-58-drop-in-autonomous-vehicle-dollars/amp/",
+      "publishedDateTime": "2023-04-19T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies.md",
+      "title": "Reddit will start charging some users for API access -- bad news for AI companies",
+      "excerpt": "Reddit is now putting a halt to that, announcing on Tuesday that it will begin to charge big businesses for Reddit API data access. The social networking platform added a new \"premium access point\" for third party users who require \"additional capabilities, higher usage limits, and broader usage rights,\" according to the announcement .",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies/",
+      "originalUrl": "https://www.zdnet.com/article/reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/52aff004391e33410e3a1b98a157bd0bb2d02fec/2023/04/19/813b1d72-00fb-445f-91f7-30e993dd8ee1/gettyimages-1244227518.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies/",
+      "publishedDateTime": "2023-04-19T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-20-microsoft-azure-marketplace-integrates-space-and-times-web3-tools.md",
       "title": "Microsoft Azure Marketplace Integrates Space and Time’s Web3 Tools",
       "excerpt": "Space and Time’s Web3 “data warehouse” has been integrated into the Microsoft (NASDAQ:MSFT) Azure Marketplace, an “app store” for developers using the cloud computing platform. Enterprise builders can now make a one-click deployment of Space and Time's data product,",
@@ -96,7 +252,7 @@
       "originalUrl": "https://time.com/6271657/a-to-z-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1043,143 +1199,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-so-you-want-to-launch-an-ai-startup.md",
-      "title": "So you want to launch an AI startup",
-      "excerpt": "It seems like it’s the best of times for founders thinking about launching an AI startup, especially with OpenAI releasing ChatGPT to the masses, as it has the potential to really put AI front ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/04/18/so-you-want-to-launch-an-ai-startup/",
-      "originalUrl": "https://techcrunch.com/2023/04/18/so-you-want-to-launch-an-ai-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-948886934.jpeg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-the-10-most-evil-rogue-ai-in-movie-and-tv-history.md",
-      "title": "The 10 Most Evil Rogue AI in Movie and TV History",
-      "excerpt": "This feature is part of AI Week. For more stories, including How AI Could Doom Animation and comments from experts like Tim Sweeney, check out our hub. AI is an exciting concept that has been the foundation of many of our greatest sci-fi",
-      "sourceUrl": null,
-      "webUrl": "https://me.ign.com/en/movies/207320/feature/the-10-most-evil-rogue-ai-in-movie-and-tv-history",
-      "originalUrl": "https://me.ign.com/en/movies/207320/feature/the-10-most-evil-rogue-ai-in-movie-and-tv-history",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.ign.com/t/ign_me/feature/t/the-10-mos/the-10-most-evil-rogue-ai-in-movie-and-tv-history_jztd.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-health-it-vendor-eclinicalworks-announces-azure-openai-ehr-integration.md",
-      "title": "Health IT Vendor eClinicalWorks Announces Azure OpenAI EHR Integration",
-      "excerpt": "cognitive services, and machine learning models from Azure OpenAI Service. eClinicalWorks recently invested $100 million in Microsoft Azure cloud services. “We are thrilled to combine advances in generative AI models with eClinicalWorks’ solutions to ...",
-      "sourceUrl": null,
-      "webUrl": "https://ehrintelligence.com/news/health-it-vendor-eclinicalworks-announces-openai-ehr-integration",
-      "originalUrl": "https://ehrintelligence.com/news/health-it-vendor-eclinicalworks-announces-openai-ehr-integration",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ehrintelligence.com/images/site/article_headers/_normal/image_%283%29.png",
-          "width": 690,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EHR Intelligence",
-        "domain": "ehrintelligence.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

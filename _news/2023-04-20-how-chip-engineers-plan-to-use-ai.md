@@ -25,59 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "The A to Z of Artificial Intelligence"
-    excerpt: "As artificial intelligence becomes a larger part of our world, it’s easy to get lost in its sea of jargon. But it has never been more important to get your bearings than today. AI is poised to ..."
-    publishedDateTime: 2023-04-19T16:10:00Z
-    webUrl: "https://time.com/6271657/a-to-z-of-artificial-intelligence/"
+  - title: "Google moves AI chip engineering team to Google Cloud"
+    excerpt: "The team at Google which was engineering artificial intelligence chips has been shifted to the Google Cloud sector, according to a report by The Information."
+    publishedDateTime: 2023-04-24T06:09:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/google-moves-ai-chip-engineering-team-google-cloud/article66772554.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/google-moves-ai-chip-engineering-team-google-cloud/article66772554.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/google-moves-ai-chip-engineering-team-google-cloud/article66772554.ece/amp/"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 71
+      name: The Hindu
+      domain: thehindu.com
+    quality: 74
     images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
+      - url: "https://th-i.thgim.com/public/incoming/ykjak6/article66772553.ece/alternates/FREE_1200/2023-02-27T170818Z_1823284669_RC2RJZ9GD7U8_RTRMADP_3_TECH-CONFERENCE-MWC.JPG"
+        width: 1200
+        height: 814
         isCached: true
-  - title: "The Secret History of AI, and a Hint at What’s Next"
-    excerpt: "Artificial intelligence is already a big part of our daily lives"
-    publishedDateTime: 2023-04-22T03:00:00Z
-    webUrl: "https://www.wsj.com/articles/the-secret-history-of-ai-and-a-hint-at-whats-next-428905de"
+  - title: "Google Employees Reveal Why Bard AI Could Be Lying to You"
+    excerpt: "A new exposé has pulled back the curtain on some of Google Bard’s background function -- and it doesn’t look good. The ethics team at Google is responsible for identifying potentially ..."
+    publishedDateTime: 2023-04-20T14:31:00Z
+    webUrl: "https://www.thestreet.com/employment/google-employees-reveal-why-bard-ai-could-be-lying-to-you"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-768109/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "The Top 10 AI Careers For Non-Techies"
-    excerpt: "Many people worry about artificial intelligence taking over their jobs nowadays. Yet, it has opened never-before-seen roles that do not require information technology skills. Even better, you can"
-    publishedDateTime: 2023-04-24T01:19:00Z
-    webUrl: "https://technology.inquirer.net/123447/the-top-10-ai-careers-for-non-techies"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 39
-    images:
-      - url: "https://technology.inquirer.net/files/2023/04/AI-careers-featured-image-capacity.com-1-620x349.png"
-        width: 620
-        height: 349
-        isCached: true
-  - title: "AI startups to watch"
-    excerpt: "Amid a turbulent year for the tech sector, one that has brought layoffs, funding pullbacks and the failure of the industry's favorite bank, artificial intelligence has emerged as"
-    publishedDateTime: 2023-04-21T18:33:00Z
-    webUrl: "https://www.bizjournals.com/triad/news/2023/04/21/ai-startups-to-watch.html"
-    ampWebUrl: "https://www.bizjournals.com/bizjournals/news/2023/04/21/ai-startups-to-watch.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/bizjournals/news/2023/04/21/ai-startups-to-watch.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 37
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 19
 
 secured: "YDxj5vnMRYU2bUFK/qOmEuILo8plQz7N1ycBQ979CW4c7K+zbUWdxLPBhA2QLCHwsyWGfUcMPPQ15J2q5z3Rvs1/s6lMKyJG2o+CNxNFBqkz97CAHy74kagiT+m4g942ymf9FDqkmjym0UzLKorD9hlHFh322gjLLL4nereURZ1/65kyc0zcDhodr06Ugo0w+Gumg6Ifprd7kr/CiiSKjz2j/RHChySK3bwiElawYzIrODOssgQpYY0e6sMzkGURfnkFXOgqBM+kvZlvwnGvA9qysxtRrEzBfDyJ61vQhQzqIfc74NtnZekvcR0/aMDhrl6F+4BmpcmRJuobXtFa8oH8odJ94Z3RFGU7OBnf8iw=;UkvOuk4AK10orqHNIiHP0A=="
 ---

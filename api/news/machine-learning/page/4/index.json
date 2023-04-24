@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-22-2023-2028-neural-network-market-insights-and-demand-outlook.md",
+      "title": "2023-2028 Neural Network Market Insights and Demand Outlook",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 21, 2023 (The Expresswire) -- The “Neural Network Market” Report provides accurate information on industry SWOT analysis, CAGR status, product growth prospects and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/2023-2028-neural-network-market-insights-and-demand-outlook-2023-03-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/2023-2028-neural-network-market-insights-and-demand-outlook-2023-03-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-21T20:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-machine-learning-in-manufacturing-market-global-strategic-business-report-2031.md",
       "title": "Machine Learning in Manufacturing Market : Global Strategic Business Report 2031",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 21, 2023 (The Expresswire) -- “Machine Learning in Manufacturing Market” information for each competitor includes [ NVIDIA, Dell Inc., Oracle Corporation, SAS ...",
@@ -1360,40 +1412,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-news-tagged-with-deep-learning.md",
-      "title": "News tagged with deep learning",
-      "excerpt": "A deep learning model can accurately evaluate the area subscore of the Palmoplantar Pustulosis Area and Severity Index (PPPASI), according to a study published online Feb. 23 in the Journal of ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/tags/deep+learning/",
-      "originalUrl": "https://medicalxpress.com/tags/deep+learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

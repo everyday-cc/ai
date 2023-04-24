@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI-driven Microsoft Bing, startup You threaten Google's Search dominance"
+    excerpt: "New AI features in Microsoft Bing search engine and startup You.com have started to threaten Google's Search dominance, as users seek more efficient search options."
+    publishedDateTime: 2023-04-24T05:53:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/ai-driven-microsoft-bing-you-com-threaten-googles-search-dominance/articleshow/99722479.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/ai-driven-microsoft-bing-you-com-threaten-googles-search-dominance/amp_articleshow/99722479.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/ai-driven-microsoft-bing-you-com-threaten-googles-search-dominance/amp_articleshow/99722479.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 73
+    images:
+      - url: "https://img.etimg.com/thumb/msid-99712264,imgsize-,width-600,height-450/.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Siemens Partners With Microsoft to Expand Industrial AI"
     excerpt: "The companies are integrating Siemens’ Teamcenter software for product lifecycle management with Microsoft’s collaboration platform Teams and the language models in Azure OpenAI Service."
     publishedDateTime: 2023-04-21T05:54:00Z

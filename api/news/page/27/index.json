@@ -2,6 +2,198 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2023-03-24-airport-gets-facial-recognition-technology.md",
+      "title": "Airport gets facial recognition technology",
+      "excerpt": "Cameras installed at the Jinnah International Airport equipped with facial recognition technology have been made operational, with the Federal Investigation Agency (FIA) and the Civil Aviation Authority (CAA) to manage it jointly. The surveillance system ...",
+      "sourceUrl": null,
+      "webUrl": "https://tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology",
+      "originalUrl": "https://tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.tribune.com.pk/media/images/1857356-facialrecognitionx-1543564330/1857356-facialrecognitionx-1543564330.jpg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology?amp=1",
+      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology?amp=1",
+      "publishedDateTime": "2023-03-23T23:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Express Tribune",
+        "domain": "tribune.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-how-ai-marketing-tools-can-accelerate-your-business-and-productivity.md",
+      "title": "How AI Marketing Tools Can Accelerate Your Business and Productivity",
+      "excerpt": "In other words, AI marketing tools are like having a marketing team of robots that work around the clock to help ... improve the customer experience, and reduce costs. Start exploring the world of AI marketing tools and watch your business accelerate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/how-ai-marketing-tools-can-accelerate-your-business-and-productivity-2023-03-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/how-ai-marketing-tools-can-accelerate-your-business-and-productivity-2023-03-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-23T22:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-machine-learning-ml-platforms-market-size-by-2031.md",
+      "title": "Machine Learning (ML) Platforms Market Size by 2031",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- The \"Machine Learning (ML) Platforms Market\" study describes how the technology industry is evolving and how major and emerging players in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-by-2031-2023-03-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-by-2031-2023-03-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-23T21:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-brain-computer-interface-enables-mind-control-of-robot-dog.md",
+      "title": "Brain-Computer Interface Enables Mind Control of Robot Dog",
+      "excerpt": "According to the scientists, their brain-machine interface solution is able to control and command the movement of a robotic dog with 94 percent accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/pic77155.jpg?itok=kEySPcAo",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog?amp",
+      "publishedDateTime": "2023-03-23T20:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-24-teslas-self-driving-ambitions-are-further-and-further-away.md",
       "title": "Tesla’s Self-Driving Ambitions Are Further and Further Away",
       "excerpt": "After announcing his ambitions to have millions of self-driving Teslas on the road all the ... up development of the tech as “the more data (in this case driving) the artificial intelligence guiding the car is exposed to, the faster it learns.”",
@@ -994,214 +1186,6 @@
         "AI Hardware",
         "AI in Robotics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms.md",
-      "title": "NVIDIA Bets Big On Public Cloud To Deliver Its AI Supercomputing And Omniverse Platforms",
-      "excerpt": "Machine learning PaaS providers including Google Cloud Vertex AI ... Google Cloud customers can also access L4 GPU through the Vertex AI ML PaaS. Microsoft Azure becomes the first public cloud to deliver NVIDIA’s Omniverse as a platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641c3a70b6a0326ff9054838/0x0.jpg?format=jpg&width=1200",
-          "width": 1000,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/amp/",
-      "publishedDateTime": "2023-03-23T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-leadership-in-times-of-ai-7-tips-from-the-trenches.md",
-      "title": "Leadership In Times Of AI: 7 Tips From The Trenches",
-      "excerpt": "In this article, I will share our approach to this challenge at Qode Media and highlight seven tips for leaders to navigate the uncertainty of AI disruption. The AI revolution can be a reset for agencies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/03/23/leadership-in-times-of-ai-7-tips-from-the-trenches/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/03/23/leadership-in-times-of-ai-7-tips-from-the-trenches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f032f4dd1da2c00067e3429/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/03/23/leadership-in-times-of-ai-7-tips-from-the-trenches/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/03/23/leadership-in-times-of-ai-7-tips-from-the-trenches/amp/",
-      "publishedDateTime": "2023-03-23T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-lenient-rules-for-biotech-research-put-the-world-at-risk-will-ai-do-the-same.md",
-      "title": "Lenient Rules for Biotech Research Put the World at Risk. Will AI Do the Same?",
-      "excerpt": "ethics and public sectors to review and give guidance on the creation and evolution of AI programs that can be intentionally or inadvertently used to harm or control others. As Kevin Roose's story shows, we can be both pleasantly surprised and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/lenient-rules-biotech-research-put-world-risk-will-ai-do-same-1789686",
-      "originalUrl": "https://www.newsweek.com/lenient-rules-biotech-research-put-world-risk-will-ai-do-same-1789686",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2210251/chatgpt.jpg",
-          "width": 3000,
-          "height": 1999,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/lenient-rules-biotech-research-put-world-risk-will-ai-do-same-1789686?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lenient-rules-biotech-research-put-world-risk-will-ai-do-same-1789686?amp=1",
-      "publishedDateTime": "2023-03-23T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-nvidia-stock-rides-the-iphone-moment-of-ai-to-add-87-billion-in-market-cap-through-the-banking-crisis.md",
-      "title": "Nvidia stock rides the 'iPhone moment of AI' to add $87 billion in market cap through the banking crisis",
-      "excerpt": "The iPhone moment of AI' The rally has been driven chiefly by investor perception that Nvidia is well positioned to take advantage of the ongoing boom in artificial intelligence technologies. The company is the No. 1 producer of graphics chips needed for ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-market-cap-ai-tech-shares-keynote-dgx-cloud-2023-3",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-market-cap-ai-tech-shares-keynote-dgx-cloud-2023-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/641b6480b7834100191adc97?width=1200&format=jpeg",
-          "width": 799,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-market-cap-ai-tech-shares-keynote-dgx-cloud-2023-3?amp",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/nvidia-stock-market-cap-ai-tech-shares-keynote-dgx-cloud-2023-3?amp",
-      "publishedDateTime": "2023-03-23T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

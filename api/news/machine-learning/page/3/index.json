@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-01-chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training.md",
+      "title": "ChatGPT neural network said it uses Moskovsky Komsomolets website for training",
+      "excerpt": "Chatbot with artificial intelligence ChatGPT said it used, among other things, the Moskovsky Komsomolets website for its training. In addition to MK, the",
+      "sourceUrl": null,
+      "webUrl": "https://www.easternherald.com/2023/04/01/chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training/",
+      "originalUrl": "https://www.easternherald.com/2023/04/01/chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.easternherald.com/cdn-cgi/image/width=550,height=412,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2023/04/ChatGPT-neural-network-said-it-uses-Moskovsky-Komsomolets-website-for.jpg",
+          "width": 550,
+          "height": 412,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.easternherald.com/2023/04/01/chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training/?amp=1",
+      "cdnAmpWebUrl": "https://www-easternherald-com.cdn.ampproject.org/c/s/www.easternherald.com/2023/04/01/chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training/?amp=1",
+      "publishedDateTime": "2023-04-01T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Eastern Herald",
+        "domain": "easternherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-01-ways-in-which-artificial-intelligence-and-machine-learning-is-changing-engineering-education.md",
       "title": "Ways in which artificial intelligence and machine learning is changing engineering education",
       "excerpt": "In recent years, the rapid advancement of technology has led to transformative changes across various industries. The field of engineering education is no exception, with artificial intelligence (AI) and machine learning (ML) technologies revolutionizing",
@@ -1383,58 +1426,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-2023-2028-neural-network-market-insights-and-demand-outlook.md",
-      "title": "2023-2028 Neural Network Market Insights and Demand Outlook",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 21, 2023 (The Expresswire) -- The “Neural Network Market” Report provides accurate information on industry SWOT analysis, CAGR status, product growth prospects and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-2028-neural-network-market-insights-and-demand-outlook-2023-03-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-2028-neural-network-market-insights-and-demand-outlook-2023-03-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T20:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

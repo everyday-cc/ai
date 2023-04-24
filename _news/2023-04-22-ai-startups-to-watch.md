@@ -3,8 +3,8 @@ category: news
 title: "AI startups to watch"
 excerpt: "Amid a turbulent year for the tech sector, one that has brought layoffs, funding pullbacks and the failure of the industry's favorite bank, artificial intelligence has emerged as"
 publishedDateTime: 2023-04-21T18:33:00Z
-originalUrl: "https://www.bizjournals.com/triad/news/2023/04/21/ai-startups-to-watch.html"
-webUrl: "https://www.bizjournals.com/triad/news/2023/04/21/ai-startups-to-watch.html"
+originalUrl: "https://www.bizjournals.com/sacramento/news/2023/04/21/ai-startups-to-watch.html"
+webUrl: "https://www.bizjournals.com/sacramento/news/2023/04/21/ai-startups-to-watch.html"
 ampWebUrl: "https://www.bizjournals.com/bizjournals/news/2023/04/21/ai-startups-to-watch.amp.html"
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/bizjournals/news/2023/04/21/ai-startups-to-watch.amp.html"
 type: article
@@ -48,20 +48,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "How Chip Engineers Plan To Use AI"
-    excerpt: "Semiconductor Engineering sat down to discuss how AI is being used today and how engineers expect to use it in the future, with Michael Jackson, corporate vice president for R&D at Cadence; Joel Sumner,"
-    publishedDateTime: 2023-04-20T15:18:00Z
-    webUrl: "https://semiengineering.com/how-chip-engineers-plan-to-use-ai/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 54
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/2019/09/iStock-822081298.jpg"
-        width: 788
-        height: 443
-        isCached: true
   - title: "The Top 10 AI Careers For Non-Techies"
     excerpt: "Many people worry about artificial intelligence taking over their jobs nowadays. Yet, it has opened never-before-seen roles that do not require information technology skills. Even better, you can"
     publishedDateTime: 2023-04-24T01:19:00Z
@@ -77,6 +63,6 @@ related:
         height: 349
         isCached: true
 
-secured: "3D00/12iezJEgeRnnHXu75Dk5wykPFhSAu/98RRGaUyiE5C+uc2d2qwZajO/e4hynhM3LJ2/tUNopvcSinqdJQjntGAOZdTAMuke7CQKCNQszMrQFD34+Q+Pldw8i0d0tMKXFRXIPqMv/NAakoETCtJrUmb+IYOmNXnogzHclXSSqpp5ReKt12S6duqBcC5fcor7T6kIEhGvYFmNOmRMqFePgDNMmQYWHYs7oOQoaXUS9JgNQQVelxR1rW8FAuJRmXgCxvHsT5rvlEWVzkhFBXrm6buj2JHghLidYdLf6d6mKFMI4w08v+/ZOKSoaWSIFRGUmmx9/sW9w3l4NlZL6KO5wGnHqOMsD23vVPnXQBt1/asDW1SvT3rhsGP2/QKbyvtsXtvfVYszMdwxQkZkQWWzwq9u5fUXkDgnv8X7uEP3a2T308PglHkhgnOoE+b5c1iE8xY34+SAp61cyXVNghDJY4cO5dC+GLHWBjgSp5aczsvzQ1CU3huE8Sf3LaR0Q9YcgKhfmXT598rzV6QKAg==;v4o78qjHJkmuB7AwohZXzQ=="
+secured: "WDiVa62XoFZpnk1eg/yzf9HWMnEJ42PD+FbZ0XfLtZ42uY5aOEhO8APl0081Vxdd8nnnJzo0dK0xIuthyTnN77DUHVIbFcDYhlNlvxexEVON14ZWoQJsle0uTwtKQvHOaT540SVD1fDb++LfbmP0kmHfNDHHtxDhOGrvrSoT1y2dKMcE+BY1MdT2J/d1k1IyUhQZRSWssBIpzEGrZxIe7SDRn5taA7jpyVxM0BVw13mP4ACBT89ROn7mUi6e44m89QfLL5yW/4Ohwm87v6yrG3vXvsCQegoL3O40eXFp6DeRMaWKM3B3bY6vrOPajweB3DFwz44o6/ampeYLhHv1g3bq0h/fsG3+05pqtSfcoejmm3F71lJLrCsSVfbPMXPIF3AivxDi6B2eKWRTEhrJYKD4ePW8G3X+eVYhljo8mpIW3V873ZDg4nz77m67GuOSP6xW9A9TkM3XZmuVwbcVEu9zMwd890nFWibNPmt1YDYy8xmbNRfscfaNtDqSB/10YxWrI4M9cdwxZHws26bnOg==;PxU5hMhdDfdtw3NtPHn+nQ=="
 ---
 

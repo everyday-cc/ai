@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-22-github-unveils-copilot-x-the-future-of-ai-powered-software-development.md",
+      "title": "GitHub unveils Copilot X: The future of AI-powered software development",
+      "excerpt": "GitHub is introducing Copilot X, adopting the latest OpenAI GPT-4 model and expanding Copilot's capabilities with chat and pull requests.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai-powered-software-development/",
+      "originalUrl": "https://venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai-powered-software-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Screenshot-2023-03-22-at-12.09.08-AM.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai-powered-software-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai-powered-software-development/amp/",
+      "publishedDateTime": "2023-03-22T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more.md",
       "title": "Microsoft unveils plans to use AI feature in Outlook, Excel and more",
       "excerpt": "On the other hand, AI critics worry it will bring more harm ... and perform a wide range of language-related tasks such as language translation, text summarization [and] sentiment analysis.”",
@@ -1415,58 +1467,6 @@
       "ampWebUrl": "https://venturebeat.com/ai/the-power-of-mlops-to-scale-ai-across-the-enterprise/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-power-of-mlops-to-scale-ai-across-the-enterprise/amp/",
       "publishedDateTime": "2023-03-15T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-forget-the-hybrid-cloud-its-time-for-the-confidential-cloud.md",
-      "title": "Forget the hybrid cloud; it’s time for the confidential cloud",
-      "excerpt": "Speakers included Intel CTO Greg Lavender and Microsoft Azure CTO Mark Russinovich ... because as people start doing AI and machine learning processing at the edge for all kinds of reasons [such as autonomous vehicles, surveillance infrastructure ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/forget-the-hybrid-cloud-its-time-for-the-confidential-cloud/",
-      "originalUrl": "https://venturebeat.com/security/forget-the-hybrid-cloud-its-time-for-the-confidential-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1357404877-e1652813501466.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/forget-the-hybrid-cloud-its-time-for-the-confidential-cloud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/forget-the-hybrid-cloud-its-time-for-the-confidential-cloud/amp/",
-      "publishedDateTime": "2023-03-15T07:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",

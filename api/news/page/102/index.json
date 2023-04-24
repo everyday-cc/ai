@@ -2,6 +2,188 @@
   "page": 102,
   "value": [
     {
+      "path": "_news/2023-01-26-best-egg-achieved-three-times-faster-ml-model-training-with-amazon-sagemaker-automatic-model-tuning.md",
+      "title": "Best Egg achieved three times faster ML model training with Amazon SageMaker Automatic Model Tuning",
+      "excerpt": "This post is co-authored by Tristan Miller from Best Egg. Best Egg is a leading financial confidence platform that provides lending products and resources focused on helping people feel more confident as they manage their everyday finances. Since March 2014, Best Egg has delivered $22 billion in consumer",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/best-egg-achieved-three-times-faster-ml-model-training-with-amazon-sagemaker-automatic-model-tuning/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/best-egg-achieved-three-times-faster-ml-model-training-with-amazon-sagemaker-automatic-model-tuning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/26/best-egg-sagemaker.jpg",
+          "width": 1567,
+          "height": 789,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-26T09:45:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-european-banks-struggle-with-ai-while-us-banks-lead-the-field-according-to-a-new-index.md",
+      "title": "European banks struggle with AI, while US banks lead the field, according to a new index",
+      "excerpt": "“As the real-world application of AI accelerates at astonishing speed ... Over a call she added: “Setting our methodology onto the banks felt like the right place to start because this is a sector that has been really focused on this for a number ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/01/26/european-banks-ai/",
+      "originalUrl": "https://techcrunch.com/2023/01/26/european-banks-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/01/EVIDENT_INSIGHTS_COL_HR-1-1.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/01/26/european-banks-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/26/european-banks-ai/amp/",
+      "publishedDateTime": "2023-01-26T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-deep-learning-reconstruction-enables-accelerated-knee-mri.md",
+      "title": "Deep Learning Reconstruction Enables Accelerated Knee MRI",
+      "excerpt": "THURSDAY, Jan. 26, 2023 (HealthDay News) -- Deep learning (DL) reconstructed knee magnetic resonance imaging (MRI) is diagnostically equivalent to conventional accelerated MRI for evaluating ...",
+      "sourceUrl": null,
+      "webUrl": "https://buffalonews.com/lifestyles/health-med-fit/deep-learning-reconstruction-enables-accelerated-knee-mri/article_1bad850c-7055-56d2-9513-94daf9dc4fd7.html",
+      "originalUrl": "https://buffalonews.com/lifestyles/health-med-fit/deep-learning-reconstruction-enables-accelerated-knee-mri/article_1bad850c-7055-56d2-9513-94daf9dc4fd7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-26T09:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Buffalo News",
+        "domain": "buffalonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-new-artificial-intelligence-program-may-speed-development-of-gene-therapy.md",
+      "title": "New artificial intelligence program may speed development of gene therapy",
+      "excerpt": "RELATED Gene therapy may help children born with 'bubble boy' disease To address this, researchers came up with ZFDesign, an artificial intelligence that uses a database of nearly 50 billion ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Science_News/2023/01/26/artificial-intelligence-improve-gene-therapy/3961674750373/",
+      "originalUrl": "https://www.upi.com/Science_News/2023/01/26/artificial-intelligence-improve-gene-therapy/3961674750373/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/3961674750373/2023/1/9e2e53d727c8ce5cb398145eebcff87c/v1.5/New-artificial-intelligence-program-may-speed-development-of-gene-therapy.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Science_News/2023/01/26/artificial-intelligence-improve-gene-therapy/3961674750373/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2023/01/26/artificial-intelligence-improve-gene-therapy/3961674750373/",
+      "publishedDateTime": "2023-01-26T09:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-01-27-accelerating-ai-for-growth-the-key-role-of-infrastructure.md",
       "title": "Accelerating AI for growth: The key role of infrastructure",
       "excerpt": "High-performance AI infrastructure offers CIOs and enterprises a way to cost-effectively manage and accelerate growth of production AI.",
@@ -998,197 +1180,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-seattle-startup-aims-to-change-surgery-using-ai-computer-vision-and-augmented-reality.md",
-      "title": "Seattle startup aims to change surgery using AI, computer vision and augmented reality",
-      "excerpt": "The system relies on advances in light field imaging, computer vision, machine learning, robotics and augmented reality. The surgeon can see the relevant anatomy in three dimensions on a screen ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/seattle-startup-aims-to-change-surgery-using-ai-computer-vision-and-augmented-reality/",
-      "originalUrl": "https://www.geekwire.com/2023/seattle-startup-aims-to-change-surgery-using-ai-computer-vision-and-augmented-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2022/11/Proprio-Chief-Medical-Officer-and-Co-found-Dr.-Sam-Browd.jpg",
-          "width": 4096,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-25T17:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-7-eleven-is-quietly-testing-self-driving-robots-to-deliver-slurpees-and-big-bite-hot-dogs-in-los-angeles-heres-how-it-works.md",
-      "title": "7-Eleven is quietly testing self-driving robots to deliver Slurpees and Big Bite Hot Dogs in Los Angeles. Here's how it works.",
-      "excerpt": "All they have to do is hail a robot. 7-Eleven has been testing self-driving robots to deliver some of the convenience store chain's most iconic foods and snacks – from Slurpees to Big Bite Hot Dogs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/7-eleven-rolls-out-self-driving-robots-for-deliveries-in-los-angeles-2023-1",
-      "originalUrl": "https://www.businessinsider.com/7-eleven-rolls-out-self-driving-robots-for-deliveries-in-los-angeles-2023-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63d0655940fbb600192b5190?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/7-eleven-rolls-out-self-driving-robots-for-deliveries-in-los-angeles-2023-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/7-eleven-rolls-out-self-driving-robots-for-deliveries-in-los-angeles-2023-1?amp",
-      "publishedDateTime": "2023-01-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-apple-silicon-mac-pro-to-feature-m2-ultra-chip-with-up-to-76-gpu-cores.md",
-      "title": "Apple silicon Mac Pro to feature M2 Ultra chip with up to 76 GPU cores",
-      "excerpt": "Now, the journalist says this machine may lack user-upgradeable GPUs in addition to non-upgradeable RAM, as Apple silicon Macs still don’t support external GPU support. That said, he expects the ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/tech/apple-silicon-mac-pro-to-feature-m2-ultra-chip-with-up-to-76-gpu-cores/",
-      "originalUrl": "https://bgr.com/tech/apple-silicon-mac-pro-to-feature-m2-ultra-chip-with-up-to-76-gpu-cores/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-ibm-posts-biggest-annual-sales-increase-in-more-than-a-decade-announces-3900-layoffs.md",
-      "title": "IBM posts biggest annual sales increase in more than a decade, announces 3,900 layoffs",
-      "excerpt": "Chief Executive Arvind Krishna said on IBM’s IBM, -4.48% earnings call that the company saw “revenue growth across segments and geographies,” and attributed that to the strength of the company’s hybrid cloud and artificial-intelligence strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/ibm-posts-biggest-annual-sales-increase-in-more-than-a-decade-announces-layoffs-11674682960",
-      "originalUrl": "https://www.marketwatch.com/story/ibm-posts-biggest-annual-sales-increase-in-more-than-a-decade-announces-layoffs-11674682960",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-639870/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/ibm-posts-biggest-annual-sales-increase-in-more-than-a-decade-announces-layoffs-11674682960",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ibm-posts-biggest-annual-sales-increase-in-more-than-a-decade-announces-layoffs-11674682960",
-      "publishedDateTime": "2023-01-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

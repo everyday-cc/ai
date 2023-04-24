@@ -2,6 +2,176 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-04-13-how-to-build-a-decision-tree-model-in-ibm-db2.md",
+      "title": "How to build a decision tree model in IBM Db2",
+      "excerpt": "After developing a machine learning model, you need a place to run your model and serve predictions. Here is how I build such a model in IBM Db2.\nThe post How to build a decision tree model in IBM Db2 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-build-a-decision-tree-model-in-ibm-db2/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-build-a-decision-tree-model-in-ibm-db2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-can-ai-answer-your-money-questions-we-put-chatbots-to-the-test.md",
+      "title": "Can AI answer your money questions? We put chatbots to the test",
+      "excerpt": "Face it, we could all use a little help with our money. So who better to ask for personal finance advice than a couple of the most powerful chatbots on the planet?",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/markets/wealth/can-ai-answer-your-money-questions-we-put-chatbots-test-2023-04-13/",
+      "originalUrl": "https://www.reuters.com/markets/wealth/can-ai-answer-your-money-questions-we-put-chatbots-test-2023-04-13/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/jNVRinp2T_SXac_4KvfiD0LjfVA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5MBSSC3XD5ORJMYHLNP4RJMSVI.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T05:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-wimi-develops-a-3d-object-recognition-system-based-on-multi-view-feature-fusion.md",
+      "title": "WiMi Develops a 3D Object Recognition System Based on Multi-View Feature Fusion",
+      "excerpt": "BEIJING, April 13, 2023 /PRNewswire/ -- WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced the development of a 3D object recognition system based on ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2023/04/13/wimi-develops-a-3d-object-recognition-system-based-on-multi-view-feature-fusion",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2023/04/13/wimi-develops-a-3d-object-recognition-system-based-on-multi-view-feature-fusion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-top-3-considerations-for-adopting-rise-with-sap-to-modernize-your-operations.md",
+      "title": "Top 3 considerations for adopting RISE with SAP to modernize your operations",
+      "excerpt": "Organizations are increasingly seeking more choice and flexibility as they modernize their mission-critical workloads. But each organization is at a different point and has different goals when transforming their businesses and modernizing their SAP environments. Some organizations are looking to improve",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/top-3-considerations-for-adopting-rise-with-sap-to-modernize-your-operations/",
+      "originalUrl": "https://www.ibm.com/blog/top-3-considerations-for-adopting-rise-with-sap-to-modernize-your-operations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-13-column-does-ai-mean-the-four-day-workweek-and-its-happy-companion-the-three-day-weekend-is-almost-here.md",
       "title": "Column: Does AI mean the four-day workweek — and its happy companion, the three-day weekend — is almost here?",
       "excerpt": "Who says the world is going to hell and the future is bleak? Artificial intelligence, advanced robotics and job automation hold out the hope of less work, more leisure and long weekends every weekend.",
@@ -921,187 +1091,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-aimachine-learning-market-with-types-of-research-report.md",
-      "title": "AI/Machine Learning Market With Types of Research Report",
-      "excerpt": "The Global AI/Machine Learning market is anticipated to rise at a considerable rate during the forecast period. The market is growing at a steady rate and with the rising adoption of strategies by key players,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-with-types-of-research-report-2023-04-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-with-types-of-research-report-2023-04-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T20:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-up-fintech-unveils-tigergpt-the-industrys-first-ai-investment-assistant.md",
-      "title": "UP Fintech unveils TigerGPT, the industry's first AI investment assistant",
-      "excerpt": "TigerGPT is currently the industry's first AI investment assistant and part of UP Fintech's broad layout of internet services Now in user testing, TigerGPT aims to offer timely market and stock ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/up-fintech-unveils-tigergpt-the-industrys-first-ai-investment-assistant/article_ff93c4cd-4167-5351-9292-19cd6fd0e40d.html",
-      "originalUrl": "https://www.news-journal.com/up-fintech-unveils-tigergpt-the-industrys-first-ai-investment-assistant/article_ff93c4cd-4167-5351-9292-19cd6fd0e40d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/2/f1/2f1e36a6-5d4b-57d7-a490-ba43f8ca2e6b/6436689b28645.image.jpg?crop=605%2C318%2C0%2C143&resize=605%2C318&order=crop%2Cresize",
-          "width": 605,
-          "height": 318,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-singapores-gic-increases-stake-in-fintech-pagaya-to-9.md",
-      "title": "Singapore’s GIC Increases Stake in Fintech Pagaya to 9%",
-      "excerpt": "Singapore’s sovereign wealth fund GIC has increased its stake in United States-Israeli fintech Pagaya Technologies from roughly 7% to 9%.",
-      "sourceUrl": null,
-      "webUrl": "https://fintechnews.sg/71429/ai/singapores-gic-increases-stake-in-fintech-pagaya-to-9/",
-      "originalUrl": "https://fintechnews.sg/71429/ai/singapores-gic-increases-stake-in-fintech-pagaya-to-9/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/04/Singapores-GIC-Increases-Stake-in-Fintech-Pagaya-to-9-1024x568.jpg?x90673",
-          "width": 1024,
-          "height": 568,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fintech Singapore",
-        "domain": "fintechnews.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-motion-control-software-in-robotics-market-growth-strategies-2029.md",
-      "title": "Motion Control Software in Robotics Market Growth Strategies 2029",
-      "excerpt": "Apr 11, 2023 (The Expresswire) -- [124 Insights] “Motion Control Software in Robotics Market” Size 2023 Key players Profiled in the Report are [Company 1, Company 2, Company 3, Company 4 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/motion-control-software-in-robotics-market-growth-strategies-2029-2023-04-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/motion-control-software-in-robotics-market-growth-strategies-2029-2023-04-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T16:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

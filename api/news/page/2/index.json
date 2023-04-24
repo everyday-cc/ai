@@ -2,6 +2,213 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-21-chatgpt-vs-watson-assistant.md",
+      "title": "ChatGPT vs. Watson Assistant",
+      "excerpt": "Watson Assistant is much more focused as an offering. Using artificial intelligence, this AI-chatbot platform developed by IBM enables businesses to build, train, and deploy conversational ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/chatgpt-vs-watson-assistant/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/chatgpt-vs-watson-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/04/AI-motherboard.jpeg",
+          "width": 1920,
+          "height": 1120,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-bard-now-helps-you-code.md",
+      "title": "Bard now helps you code",
+      "excerpt": "Bard can now help with programming and software development tasks, across more than 20 programming languages.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/code-with-bard/",
+      "originalUrl": "https://blog.google/technology/ai/code-with-bard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/9_Bard_Coding_Social_Share_Still_Blog_Social_.width-1300.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/code-with-bard/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/code-with-bard/amp/",
+      "publishedDateTime": "2023-04-21T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-the-cfo-at-the-forefront-of-innovation.md",
+      "title": "The CFO: at the forefront of innovation",
+      "excerpt": "Historically, the Chief Financial Officer (CFO) role had been strictly focused on accounting for financial information. These days, there&#8217;s a need &#8212; and even some pressure &#8212; for CFOs to evolve their scope and influence the innovation agenda within their enterprises. For starters, they",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-cfo-at-the-forefront-of-innovation/",
+      "originalUrl": "https://www.ibm.com/blog/the-cfo-at-the-forefront-of-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/Screenshot-2023-04-20-at-5.45.24-PM.png",
+          "width": 1940,
+          "height": 1170,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-heres-how-chatgpt-can-either-enhance-customer-service-or-brutally-undermine-the-customer-experience-warns-ai-ethics-and-ai-law.md",
+      "title": "Here’s How ChatGPT Can Either Enhance Customer Service Or Brutally Undermine The Customer Experience, Warns AI Ethics And AI Law",
+      "excerpt": "Generative AI such as ChatGPT is being rushed into use for customer service activities. Though advanced AI has some key benefits, you also need to ensure that the downsides are dealt with. Here's the scoop.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/04/21/heres-how-chatgpt-can-either-enhance-customer-service-or-brutally-undermine-the-customer-experience-warns-ai-ethics-and-ai-law/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/04/21/heres-how-chatgpt-can-either-enhance-customer-service-or-brutally-undermine-the-customer-experience-warns-ai-ethics-and-ai-law/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64377a9225ef3956b46ba1df/0x0.jpg?format=jpg&crop=2854,1901,x170,y0,safe&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/04/21/heres-how-chatgpt-can-either-enhance-customer-service-or-brutally-undermine-the-customer-experience-warns-ai-ethics-and-ai-law/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/04/21/heres-how-chatgpt-can-either-enhance-customer-service-or-brutally-undermine-the-customer-experience-warns-ai-ethics-and-ai-law/amp/",
+      "publishedDateTime": "2023-04-21T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-21-three-challenges-to-address-in-order-to-jumpstart-ai-driven-operations.md",
       "title": "Three Challenges To Address In Order To Jumpstart AI-Driven Operations",
       "excerpt": "Organizations can automate various tasks, reduce manual intervention and improve the overall efficiency of their operations. However, despite the benefits, many organizations still struggle with implementing it effectively.",
@@ -322,7 +529,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/2023-to-2030-natural-language-processing-market-upcoming-trends-2023-04-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1067,206 +1274,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-amazon-and-microsoft-vets-raise-10m-for-computer-vision-startup-used-in-warehouses.md",
-      "title": "Amazon and Microsoft vets raise $10M for computer vision startup used in warehouses",
-      "excerpt": "A new Seattle startup wants to make it easier for businesses to monitor their warehouses using artificial intelligence and computer vision technologies. Groundlight emerged from stealth Wednesday, unveiling its",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/amazon-and-microsoft-vets-raise-10m-for-computer-vision-startup-used-in-warehouses/",
-      "originalUrl": "https://www.geekwire.com/2023/amazon-and-microsoft-vets-raise-10m-for-computer-vision-startup-used-in-warehouses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/04/leo-avi.jpg",
-          "width": 3053,
-          "height": 1977,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-self-driving-investment-crash-58-drop-in-autonomous-vehicle-dollars.md",
-      "title": "Self-Driving Investment Crash: 58% Drop In Autonomous Vehicle Dollars",
-      "excerpt": "In 2021, investors poured a record $9.7 billion into autonomous vehicle development. Last year however, that dropped by almost 60% to just $4.1 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2023/04/19/self-driving-investment-crash-58-drop-in-autonomous-vehicle-dollars/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/04/19/self-driving-investment-crash-58-drop-in-autonomous-vehicle-dollars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64406323e0d582303d1e5605/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2023/04/19/self-driving-investment-crash-58-drop-in-autonomous-vehicle-dollars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/04/19/self-driving-investment-crash-58-drop-in-autonomous-vehicle-dollars/amp/",
-      "publishedDateTime": "2023-04-19T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies.md",
-      "title": "Reddit will start charging some users for API access -- bad news for AI companies",
-      "excerpt": "Reddit is now putting a halt to that, announcing on Tuesday that it will begin to charge big businesses for Reddit API data access. The social networking platform added a new \"premium access point\" for third party users who require \"additional capabilities, higher usage limits, and broader usage rights,\" according to the announcement .",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies/",
-      "originalUrl": "https://www.zdnet.com/article/reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/52aff004391e33410e3a1b98a157bd0bb2d02fec/2023/04/19/813b1d72-00fb-445f-91f7-30e993dd8ee1/gettyimages-1244227518.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies/",
-      "publishedDateTime": "2023-04-19T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-teslas-mind-blowing-tech-is-supercharging-robots-and-paving-the-way-for-smarter-ai.md",
-      "title": "Tesla's Mind-Blowing Tech is Supercharging Robots and Paving The Way For Smarter AI",
-      "excerpt": "sign up for Benzinga’s Startup Investing & Equity Crowdfunding Newsletter As robots become more autonomous and take over tasks previously performed by humans, their ability to collect and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/04/31898752/teslas-mind-blowing-tech-is-supercharging-robots-and-paving-the-way-for-smarter-ai",
-      "originalUrl": "https://www.benzinga.com/news/23/04/31898752/teslas-mind-blowing-tech-is-supercharging-robots-and-paving-the-way-for-smarter-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/04/19/shutterstock_2209397693.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T12:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

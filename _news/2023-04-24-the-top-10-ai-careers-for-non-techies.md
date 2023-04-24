@@ -53,24 +53,10 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "How Chip Engineers Plan To Use AI"
-    excerpt: "Semiconductor Engineering sat down to discuss how AI is being used today and how engineers expect to use it in the future, with Michael Jackson, corporate vice president for R&D at Cadence; Joel Sumner,"
-    publishedDateTime: 2023-04-20T15:18:00Z
-    webUrl: "https://semiengineering.com/how-chip-engineers-plan-to-use-ai/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 54
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/2019/09/iStock-822081298.jpg"
-        width: 788
-        height: 443
-        isCached: true
   - title: "AI startups to watch"
     excerpt: "Amid a turbulent year for the tech sector, one that has brought layoffs, funding pullbacks and the failure of the industry's favorite bank, artificial intelligence has emerged as"
     publishedDateTime: 2023-04-21T18:33:00Z
-    webUrl: "https://www.bizjournals.com/triad/news/2023/04/21/ai-startups-to-watch.html"
+    webUrl: "https://www.bizjournals.com/sacramento/news/2023/04/21/ai-startups-to-watch.html"
     ampWebUrl: "https://www.bizjournals.com/bizjournals/news/2023/04/21/ai-startups-to-watch.amp.html"
     cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/bizjournals/news/2023/04/21/ai-startups-to-watch.amp.html"
     type: article

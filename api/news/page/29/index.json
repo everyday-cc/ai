@@ -2,6 +2,180 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2023-03-23-texas-lawmaker-uses-chatgpt-to-deliver-remarks-on-ai-bill.md",
+      "title": "Texas lawmaker uses ChatGPT to deliver remarks on AI bill",
+      "excerpt": "That’s why we need HB 2060.” He said the council created by this proposal would monitor use of AI by state agencies, examine the need for a code of ethics for AI systems and recommend policies to protect Texans’ privacy. “House Bill 2060 is a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxan.com/news/texas-politics/texas-lawmaker-uses-chatgpt-to-deliver-remarks-on-ai-bill/",
+      "originalUrl": "https://www.kxan.com/news/texas-politics/texas-lawmaker-uses-chatgpt-to-deliver-remarks-on-ai-bill/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2023/02/f5ae2bc0547d4821b9400e9a506a4250.jpg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kxan.com/news/texas-politics/texas-lawmaker-uses-chatgpt-to-deliver-remarks-on-ai-bill/amp/",
+      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/texas-politics/texas-lawmaker-uses-chatgpt-to-deliver-remarks-on-ai-bill/amp/",
+      "publishedDateTime": "2023-03-22T13:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXAN",
+        "domain": "kxan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-best-samsung-robot-vacuum-deals-during-the-discover-samsung-sale.md",
+      "title": "Best Samsung robot vacuum deals during the Discover Samsung sale",
+      "excerpt": "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/best-samsung-robot-vacuum-deals-for-spring-cleaning-2023-03-22/",
+      "originalUrl": "https://www.cbsnews.com/essentials/best-samsung-robot-vacuum-deals-for-spring-cleaning-2023-03-22/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/28/0d05e20f-fb26-434c-aee7-89cfc48406cf/thumbnail/1200x630/6ddd630ffc4d4d5d252c08853935328d/samsung-jet-bot-header.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-samsung-robot-vacuum-deals-for-spring-cleaning-2023-03-22/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-samsung-robot-vacuum-deals-for-spring-cleaning-2023-03-22/",
+      "publishedDateTime": "2023-03-22T13:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-mindfulness-based-cognitive-therapy-outperforms-standard-cbt-in-self-help-trial.md",
+      "title": "Mindfulness-Based Cognitive Therapy Outperforms Standard CBT in Self-Help Trial",
+      "excerpt": "Opens in a new tab or window Practitioner-supported mindfulness-based cognitive therapy (MBCT ... from depression while costing health services less money,\" they concluded.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/psychiatry/depression/103655",
+      "originalUrl": "https://www.medpagetoday.com/psychiatry/depression/103655",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.medpagetoday.net/media/images/103xxx/103655.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-working-with-ai-robots-could-worsen-human-work-cultures.md",
+      "title": "Working with AI robots could worsen human work cultures",
+      "excerpt": "It’s said that as work becomes increasingly automated by Artificial Intelligence (AI), our special human traits ... Will we start expecting our human colleagues to be similarly pliant? A robot is not a person—even if its apologies sound genuinely ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/opinion/columns/working-with-ai-robots-could-worsen-human-work-cultures-11679507470823.html",
+      "originalUrl": "https://www.livemint.com/opinion/columns/working-with-ai-robots-could-worsen-human-work-cultures-11679507470823.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2018/12/28/600x338/Opinion_1545994499293.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/opinion/columns/working-with-ai-robots-could-worsen-human-work-cultures/amp-11679507470823.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/working-with-ai-robots-could-worsen-human-work-cultures/amp-11679507470823.html",
+      "publishedDateTime": "2023-03-22T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-23-speech-ai-supercomputing-in-the-cloud-and-gpus-for-llms-and-generative-ai-among-nvidias-next-big-moves.md",
       "title": "Speech AI, supercomputing in the cloud, and GPUs for LLMs and generative AI among Nvidia’s next big moves",
       "excerpt": "In this regard, the company unveiled NeMo and DGX Cloud on the software side, and Hopper GPU on the hardware one. NeMo, part of the Nvidia AI Foundations cloud services, creates AI-driven language and speech models. DGX Cloud is an infrastructure platform ...",
@@ -1023,214 +1197,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work.md",
-      "title": "How PR Professionals Can Use Artificial Intelligence Tools To Enhance Their Work",
-      "excerpt": "Are robots taking over our jobs? That’s the million-dollar question people across many different industries have been asking as the world of artificial intelligence continues to advance at a rapid speed. But the fact of the matter is technology has been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f5b7915a5d68b0459dfcbb7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/amp/",
-      "publishedDateTime": "2023-03-22T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-what-does-fintech-mean-and-how-can-it-help-business-owners.md",
-      "title": "What Does Fintech Mean, And How Can It Help Business Owners?",
-      "excerpt": "At the same time, AI-powered fraud detection algorithms can analyze large amounts of data, enabling them to detect fraudulent transactions in real time. Plus, fintech companies must comply with industry security standards, like the Payment Card Industry ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/03/22/what-does-fintech-mean-and-how-can-it-help-business-owners/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/03/22/what-does-fintech-mean-and-how-can-it-help-business-owners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6419e430c1773afe3e88e9f8/0x0.jpg?format=jpg&width=1200",
-          "width": 1009,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/03/22/what-does-fintech-mean-and-how-can-it-help-business-owners/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/03/22/what-does-fintech-mean-and-how-can-it-help-business-owners/amp/",
-      "publishedDateTime": "2023-03-22T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-a-us-agency-rejected-face-recognitionand-landed-in-big-trouble.md",
-      "title": "A US Agency Rejected Face Recognition—and Landed in Big Trouble",
-      "excerpt": "He’d decided that Login.gov, which provides a secure way to access dozens of government apps and websites, wouldn’t use selfies and face recognition to verify the identity of people creating new accounts. “The benefits of liveness/selfie do not ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/",
-      "originalUrl": "https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/641a4ef3b19ad4e3186e06c8/master/pass/US-Govt-Breaks-Its-Own-Facial-Recognition-Rules-Business-1247661398.jpg",
-          "width": 1800,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/amp",
-      "publishedDateTime": "2023-03-22T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-how-ford-and-vws-multibillion-dollar-self-driving-car-project-failed.md",
-      "title": "How Ford and VW's multibillion-dollar self-driving car project failed",
-      "excerpt": "Ford and Volkswagen invested billions into self-driving startup Argo AI to match rivals such as Uber, Tesla and Google. In October 2022 the project shut down.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/03/22/how-ford-and-vws-multibillion-dollar-self-driving-car-project-failed.html",
-      "originalUrl": "https://www.cnbc.com/2023/03/22/how-ford-and-vws-multibillion-dollar-self-driving-car-project-failed.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107062410-1652798050614-Argo_Driverless_3.jpg?v=1679486401",
-          "width": 5000,
-          "height": 3333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/03/22/how-ford-and-vws-multibillion-dollar-self-driving-car-project-failed.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/22/how-ford-and-vws-multibillion-dollar-self-driving-car-project-failed.html",
-      "publishedDateTime": "2023-03-22T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

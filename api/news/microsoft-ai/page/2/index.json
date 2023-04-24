@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-04-snorkel-ai-partners-with-microsoft-to-unlock-the-potential-of-enterprise-ai.md",
+      "title": "Snorkel AI Partners with Microsoft to Unlock the Potential of Enterprise AI",
+      "excerpt": "Snorkel AI announced today it is integrating Microsoft Azure AI services to speed AI development for Azure customers. In",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/this-just-in/snorkel-ai-partners-with-microsoft-to-unlock-the-potential-of-enterprise-ai/",
+      "originalUrl": "https://www.datanami.com/this-just-in/snorkel-ai-partners-with-microsoft-to-unlock-the-potential-of-enterprise-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-04-cognitive-computing-market-is-anticipated-to-reach-us-32-trillion-in-2032-report-by-fmi.md",
       "title": "Cognitive Computing Market is Anticipated to Reach US$ 3.2 Trillion in 2032 | Report by FMI",
       "excerpt": "According to a recent study done by FMI, the cognitive computing market is expected to reach US$ 3.2 Trillion by 2032, up from US$ 257.1 Billion in 2022, expanding at a high CAGR of 28.7%. This study explains that the key factors such as the rise in big data analytics,",
@@ -1402,58 +1436,6 @@
         "AI",
         "Facebook AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-github-unveils-copilot-x-the-future-of-ai-powered-software-development.md",
-      "title": "GitHub unveils Copilot X: The future of AI-powered software development",
-      "excerpt": "GitHub is introducing Copilot X, adopting the latest OpenAI GPT-4 model and expanding Copilot's capabilities with chat and pull requests.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai-powered-software-development/",
-      "originalUrl": "https://venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai-powered-software-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Screenshot-2023-03-22-at-12.09.08-AM.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai-powered-software-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai-powered-software-development/amp/",
-      "publishedDateTime": "2023-03-22T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

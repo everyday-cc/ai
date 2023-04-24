@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-03-15-news-tagged-with-deep-learning.md",
+      "title": "News tagged with deep learning",
+      "excerpt": "A deep learning model can accurately evaluate the area subscore of the Palmoplantar Pustulosis Area and Severity Index (PPPASI), according to a study published online Feb. 23 in the Journal of ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/tags/deep+learning/",
+      "originalUrl": "https://medicalxpress.com/tags/deep+learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-14-maximize-performance-and-reduce-your-deep-learning-training-cost-with-aws-trainium-and-amazon-sagemaker.md",
       "title": "Maximize performance and reduce your deep learning training cost with AWS Trainium and Amazon SageMaker",
       "excerpt": "Today, tens of thousands of customers are building, training, and deploying machine learning (ML) models using Amazon SageMaker to power applications that have the potential to reinvent their businesses and customer experiences. These ML models have been increasing in size and complexity over the last",
@@ -1373,59 +1407,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-1-machine-learning-stock-down-55-youll-wish-youd-bought-on-the-dip.md",
-      "title": "1 Machine Learning Stock Down 55% You'll Wish You'd Bought on the Dip",
-      "excerpt": "Splunk's services are becoming increasingly ingrained ... You probably wouldn't associate the chain with machine learning, but that technology powers many of its crucial decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/03/06/1-machine-learning-stock-down-55-wish-bought-dip/",
-      "originalUrl": "https://www.fool.com/investing/2023/03/06/1-machine-learning-stock-down-55-wish-bought-dip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/723242/a-racing-crew-servicing-a-race-car-in-the-pit-lane.jpg",
-          "width": 4846,
-          "height": 3620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-06T06:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

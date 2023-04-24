@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-02-17-applied-materials-positive-on-q2-on-resilient-demand-for-automotive-ai-chips.md",
+      "title": "Applied Materials positive on Q2 on resilient demand for automotive, AI chips",
+      "excerpt": "Applied Materials Inc on Thursday projected quarterly revenue broadly above estimates as it fills a backlog of orders and benefits from resilient demand for its tools used to make chips for the automotive and artificial intelligence industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/applied-materials-forecast-current-quarter-revenue-above-estimates-2023-02-16/",
+      "originalUrl": "https://www.reuters.com/technology/applied-materials-forecast-current-quarter-revenue-above-estimates-2023-02-16/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=131",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T14:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-its-always-sunny-inside-a-generative-ai-conference.md",
+      "title": "It’s Always Sunny Inside a Generative AI Conference",
+      "excerpt": "AI-powered chatbots will only make us more efficient, according to the companies selling said AI-powered chatbots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/jasper-generative-ai-conference-2023/",
+      "originalUrl": "https://www.wired.com/story/jasper-generative-ai-conference-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63ee93cc1b87b32b35988c95/master/pass/Gear_Gen-AI-attendees-take-part-in-Jasper-Art-immersive-experience-at-Gen-AI-at-Pier-27-in-San-Francisco.-Photo-courtesy-of-Jasper.jpg",
+          "width": 2400,
+          "height": 1597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/jasper-generative-ai-conference-2023/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/jasper-generative-ai-conference-2023/amp",
+      "publishedDateTime": "2023-02-16T14:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-02-17-12-best-artificial-intelligence-ai-stocks-to-buy-for-2023.md",
       "title": "12 Best Artificial Intelligence (AI) Stocks To Buy For 2023",
       "excerpt": "There’s more than one way to position your portfolio to benefit from a continuing AI revolution. You can invest in companies that build AI hardware, develop AI solutions or sell AI tools. Or, you can invest in companies that use AI to make better products.",
@@ -1253,84 +1357,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-the-battle-for-ai-supremacy-begins.md",
-      "title": "The Battle for AI Supremacy Begins",
-      "excerpt": "In 2023, the race for artificial intelligence dominance bears striking semblance to the ‘Cold War Era’ but with Google and Microsoft.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/the-battle-for-ai-supremacy-begins/",
-      "originalUrl": "https://analyticsindiamag.com/the-battle-for-ai-supremacy-begins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T04:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-nvda-vs-xper-which-chip-stock-should-you-pick-in-2023.md",
-      "title": "NVDA vs. XPER: Which Chip Stock Should You Pick in 2023?",
-      "excerpt": "The semiconductor industry is expected to thrive in the coming years amid the rapidly growing use of AI and the metaverse. Given the favorable growth prospects of the sector, quality...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/finance/nvda-vs-xper-which-chip-stock-should-you-pick-in-2023/444490",
-      "originalUrl": "https://www.entrepreneur.com/finance/nvda-vs-xper-which-chip-stock-should-you-pick-in-2023/444490",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

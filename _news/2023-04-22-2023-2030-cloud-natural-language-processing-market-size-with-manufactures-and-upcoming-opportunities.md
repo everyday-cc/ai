@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Data Science and Machine Learning Service Market 2023-2031 is Booming in Upcoming Period"
+    excerpt: "Data Science and Machine Learning Service Market Report Insights (2023-2030): (102 Pages Report) Data Science and"
+    publishedDateTime: 2023-04-21T01:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-data-science-and-machine-learning-service-market-2023-2031-is-booming-in-upcoming-period-2023-04-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "LZqyQnVWObKXZrbZF7emvcj9TsAiYjBPK6dyG4H5A6XbOOMVxniur5ThgOiIsH4W8Sujb4DhC/5mNX2yN0p5QkJ/KgvEa0Rdi4K0OTEu14wCv1seqwXWsUzFAdMBFTpjS8TIb6eORJ1b9JihaqWMExC6u81/XTIBmcMN5dcgxM2YDXt42/HCQWtowDrAFnoIhIv8fofhQ2jdO/26pkX+TloTvQnjlJcGJU8/xgVgaiHfZWa2Q7CgBAQJ5xMDn/kQKAs3FccZ/7PxX8oZlXTk3ZhrXCjEbsTO/6b3C7OxJG3DNwl4WW/SsibEzx93ZX2VJ/MPolKg9ECsWZcMNA7/Y+prS9j3LXQt8jdjhs+/zyE=;e1fVXhqjWOf9+DAOUdXRkA=="
 ---

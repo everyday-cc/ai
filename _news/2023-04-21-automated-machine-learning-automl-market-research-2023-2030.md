@@ -206,7 +206,7 @@ related:
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 49
+    quality: 51
     images:
       - url: "https://menafn.com/updates/pr/2023-04/24/ADC_ef30806b-5_Image_In_Body.jpg"
         width: 700
