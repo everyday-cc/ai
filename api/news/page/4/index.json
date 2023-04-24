@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-18-carbyne-launches-live-audio-translation-for-apex-emergency-call-platform.md",
+      "title": "Carbyne Launches Live Audio Translation for APEX Emergency Call Platform",
+      "excerpt": "Revolutionary AI technology helps customers reduce errors, support diversity, save time, and reduce costsDENVER, April 18, 2023 /PRNewswire/ --",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/carbyne-launches-live-audio-translation-for-apex-emergency-call-platform-1032239829",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/carbyne-launches-live-audio-translation-for-apex-emergency-call-platform-1032239829",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-18-thinkandor-unlocks-the-power-of-ai-for-virtual-care-collaboration-by-using-chatgpt-through-microsoft-azure-openai-service.md",
+      "title": "ThinkAndor® Unlocks the Power of AI for Virtual Care Collaboration by Using ChatGPT through Microsoft Azure OpenAI Service",
+      "excerpt": "By embedding AI into all virtual interactions, ThinkAndor® changes the nature of care delivery.\" \"We are pleased to see Andor integrate Microsoft Azure OpenAI Service with Azure Communication ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/04/n31857020/thinkandor-unlocks-the-power-of-ai-for-virtual-care-collaboration-by-using-chatgpt-through-microso",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/n31857020/thinkandor-unlocks-the-power-of-ai-for-virtual-care-collaboration-by-using-chatgpt-through-microso",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-18-voyis-launches-advanced-vision-system-for-subsea-rovs.md",
       "title": "Voyis Launches Advanced Vision System for Subsea ROVs",
       "excerpt": "Subsea optical inspection technologies developer Voyis Imaging Inc. has launched a new product line called Discovery Vision",
@@ -1042,100 +1128,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-ai-regulatory-efforts-creep-forward-while-board-oversight-lags.md",
-      "title": "AI Regulatory Efforts Creep Forward While Board Oversight Lags",
-      "excerpt": "As the debate continues on the appropriate role for government and industry regulation of AI development, corporate leaders should step up to develop the standards necessary to monitor the application of AI within their own companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaelperegrine/2023/04/17/ai-regulatory-efforts-creep-forward-while-board-oversight-lags/",
-      "originalUrl": "https://www.forbes.com/sites/michaelperegrine/2023/04/17/ai-regulatory-efforts-creep-forward-while-board-oversight-lags/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/643d563851ee8eed2ea008ac/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaelperegrine/2023/04/17/ai-regulatory-efforts-creep-forward-while-board-oversight-lags/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelperegrine/2023/04/17/ai-regulatory-efforts-creep-forward-while-board-oversight-lags/amp/",
-      "publishedDateTime": "2023-04-17T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-profit-from-the-artificial-intelligence-boom-with-these-7-ai-etfs.md",
-      "title": "Profit from the Artificial Intelligence Boom with These 7 AI ETFs",
-      "excerpt": "In fact, here are seven top AI ETFs that could help. Global X Robotics & Artificial Intelligence ETF (BOTZ) One of the top AI ETFs to consider is the Global X Robotics & Artificial Intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/profit-from-the-artificial-intelligence-boom-with-these-7-ai-etfs-1032237146",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/profit-from-the-artificial-intelligence-boom-with-these-7-ai-etfs-1032237146",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

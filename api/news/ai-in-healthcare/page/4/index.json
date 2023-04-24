@@ -2,6 +2,103 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-08-healthcare-ai-market-valuation-worldwide-2023-2028.md",
+      "title": "Healthcare AI Market Valuation Worldwide 2023 - 2028",
+      "excerpt": "Insights] Top “Healthcare AI Market” Size 2023 Key players Profiled in the Report are [, Apple, GE Healthcare,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-valuation-worldwide-2023---2028-2023-03-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-valuation-worldwide-2023---2028-2023-03-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-07T19:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-ai-will-drive-personalized-healthcare-but-chatgpt-not-there-yet-johns-hopkins-expert-says.md",
+      "title": "AI will drive personalized healthcare, but ChatGPT not there yet, Johns Hopkins expert says",
+      "excerpt": "While artificial intelligence will soon scan your EHR to give your physician a unique medical picture of you, AI technology like ChatGPT is still in its",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/innovation/ai-will-drive-personalized-healthcare-but-chatgpt-not-there-yet-johns-hopkins-expert-says.html",
+      "originalUrl": "https://www.beckershospitalreview.com/innovation/ai-will-drive-personalized-healthcare-but-chatgpt-not-there-yet-johns-hopkins-expert-says.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-07T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-07-chatgpt-machine-learning-and-generative-ai-in-healthcare.md",
       "title": "ChatGPT, Machine Learning And Generative AI In Healthcare",
       "excerpt": "The use of generative AI has the potential to greatly impact clinical understanding, diagnosis and treatment of complex medical conditions as well as improve the accuracy, efficiency and effectiveness of healthcare system function.",
@@ -1297,103 +1394,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-healthcare-may-be-the-ultimate-proving-ground-for-artificial-intelligence.md",
-      "title": "Healthcare May Be The Ultimate Proving Ground For Artificial Intelligence",
-      "excerpt": "Healthcare may lag other industries in artificial intelligence (AI) adoption, but may be the ultimate proving ground where AI can really demonstrate its worth across many dimensions — introducing greater productivity and responsiveness into a sector ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/22/healthcare-may-be-the-ultimate-proving-ground-for-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/22/healthcare-may-be-the-ultimate-proving-ground-for-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/22/healthcare-may-be-the-ultimate-proving-ground-for-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/02/22/healthcare-may-be-the-ultimate-proving-ground-for-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-02-22T08:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-most-americans-are-uncomfortable-with-artificial-intelligence-in-health-care-survey-finds.md",
-      "title": "Most Americans are uncomfortable with artificial intelligence in health care, survey finds",
-      "excerpt": "Sixty percent of Americans who took part in a new survey by the Pew Research Center said that they would be uncomfortable with a health care provider who relied on artificial intelligence to do something like diagnose their disease or recommend a treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/02/22/health/artificial-intelligence-health-care/index.html",
-      "originalUrl": "https://www.cnn.com/2023/02/22/health/artificial-intelligence-health-care/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/221007140623-doctor-visit-stock.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-22T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

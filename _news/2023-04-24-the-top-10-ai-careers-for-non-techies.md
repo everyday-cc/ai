@@ -33,7 +33,7 @@ related:
     provider:
       name: Time
       domain: time.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://time.com/img/icons/wallet-connect.png"
         width: 256
@@ -70,7 +70,7 @@ related:
   - title: "AI startups to watch"
     excerpt: "Amid a turbulent year for the tech sector, one that has brought layoffs, funding pullbacks and the failure of the industry's favorite bank, artificial intelligence has emerged as"
     publishedDateTime: 2023-04-21T18:33:00Z
-    webUrl: "https://www.bizjournals.com/jacksonville/news/2023/04/21/ai-startups-to-watch.html"
+    webUrl: "https://www.bizjournals.com/denver/news/2023/04/21/ai-startups-to-watch.html"
     ampWebUrl: "https://www.bizjournals.com/bizjournals/news/2023/04/21/ai-startups-to-watch.amp.html"
     cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/bizjournals/news/2023/04/21/ai-startups-to-watch.amp.html"
     type: article
@@ -79,6 +79,6 @@ related:
       domain: bizjournals.com
     quality: 37
 
-secured: "qsk7Vj6y9H1TQX3Wvvh03mjlmutKxLcgZRte5yktTZmAZ0KIKWee519hLaaIHydFg7zvyt4eRqrry+qn4nX2HwM+riqRPYC6vbOiAn3RTS2f9gzxMcrtQy51rEtvpKAzyak42ff7bXjDKQLRm44lijmlgpFIji+EOMZMRyTRARSwioP3SyIYEkc0SABCc7UubHvShWNuwe3oyYEiFmWC1HoLyGPCEOFgSwPyQPhBYSRbaQFPDvQn8PZJrWvsdlrFeQBEmOmvYd/RrqrCe5Ql4N+tMX1DNeL5cA13Nu7MKlm2zoPlmcbIBVl8OMfufQZZ7wS1Lt5E/1DEZ8uI4WcwAx9XErh/7f7a2UNZ5cAj6SA=;NKo68IkKrgnyBOIIwbntiw=="
+secured: "mwSgW5ATAIv6c1nafMNcGALz4llgDbTqXnmQaiYgoTs2XQKASsJdHwlShcO2xxh1h95MXnuJ7OfHqwG1+JZ/DnDlLQ2HFcOaWsj6wAngVF/HFk1Y5iRDjQ4HwBTe9i3HImSLGutH+P1L9QjDG7++MNydMqY6NaRbXCcJcrTaTqhYWtItTiH+dFHEjCwmo77OwQkjGuebTyZkrNZiGVyQt51ulg8NlpOVgVrrf4Gky2AJPv//cXZel47CogNWtHsoATR2fdmqGE5NIDhtwr2frnzSat1L5BVQZDc2cMX1MstYNllPyXi7gD9GOf8HdV65pIvg7Cw9j8pbQqy0sqCPe5BxamgaxymFHvTz/Xmzu4Xmumhm///UlP3ib1uecjbOXQDHf7WT4dHY8BUbS8uHH4YbqhrBZNmbJi3W209P/XUYjzI3+B7JSA9PH5WALt95fxzhMGBrD7b+chkzsSPh/+mnDoF9zQWn0Nn2LjnwnbvNjZk81AArkJurrmvWwklRPtHS/zBQ+eyVUzu0x6lSDA==;Xxm8AkTqkhNair3PpdNO1g=="
 ---
 

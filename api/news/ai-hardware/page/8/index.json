@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-01-30-brainchip-tapes-out-akd1500-chip-in-globalfoundries-22nm-fd-soi-process.md",
+      "title": "BrainChip Tapes Out AKD1500 Chip in GlobalFoundries 22nm FD SOI Process",
+      "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(OTC:BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP, to",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/01/ac30616265/brainchip-tapes-out-akd1500-chip-in-globalfoundries-22nm-fd-soi-process",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/ac30616265/brainchip-tapes-out-akd1500-chip-in-globalfoundries-22nm-fd-soi-process",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30616265",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30616265",
+      "publishedDateTime": "2023-01-29T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-28-top-5-ai-trends-to-watch-out-for-in-2023.md",
       "title": "Top 5 AI trends to watch out for in 2023",
       "excerpt": "The internet has significantly impacted the way we communicate and access knowledge systems. It has made possible for people all over the world to connect and share data, and has pushed the boundaries of what we understand today as access and surveillance in the digital world.",
@@ -1302,49 +1345,6 @@
         "AI in Healthcare",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-01-14-intel-launches-the-4th-gen-xeon-scalable-processors-for-data-centres-cloud-and-ai-computing.md",
-      "title": "Intel launches the 4th Gen Xeon Scalable Processors for data centres, cloud and AI computing",
-      "excerpt": "Intel’s 4th Gen Xeon Max Series CPU is the first and only x86-based processor with high bandwidth memory, accelerating many HPC workloads without the need for code changes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.firstpost.com/tech/news-analysis/intel-launches-the-4th-gen-xeon-scalable-processors-for-data-centres-cloud-and-ai-computing-11987872.html",
-      "originalUrl": "https://www.firstpost.com/tech/news-analysis/intel-launches-the-4th-gen-xeon-scalable-processors-for-data-centres-cloud-and-ai-computing-11987872.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.firstpost.com/wp-content/uploads/2023/01/Intel-launches-the-4th-Gen-Xeon-Scalable-Processors-for-data-centres-cloud-and-AI-computing.jpg",
-          "width": 640,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.firstpost.com/tech/news-analysis/intel-launches-the-4th-gen-xeon-scalable-processors-for-data-centres-cloud-and-ai-computing-11987872.html/amp",
-      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/intel-launches-the-4th-gen-xeon-scalable-processors-for-data-centres-cloud-and-ai-computing-11987872.html/amp",
-      "publishedDateTime": "2023-01-14T05:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Firstpost",
-        "domain": "firstpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

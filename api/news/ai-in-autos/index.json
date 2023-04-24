@@ -202,7 +202,7 @@
       "originalUrl": "https://time.com/6271657/a-to-z-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -242,7 +242,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -547,50 +548,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-17-the-ai-revolution-googles-artificial-intelligence-developers-on-whats-next-in-the-field.md",
-      "title": "The AI revolution: Google's artificial intelligence developers on what's next in the field",
-      "excerpt": "The revolution in artificial intelligence is at the center of a debate ranging from those who hope it will save humanity to those who predict doom. Scott Pelley headed to Google to see what's coming next in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/",
-      "originalUrl": "https://www.cbsnews.com/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/14/c12480c9-3363-478b-86bf-a856a2fa8598/thumbnail/1200x630/7b4e4968150471b425ee46c93ff66fd1/google-robot-1.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/",
-      "publishedDateTime": "2023-04-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2023-04-17-baidu-releases-new-products-to-enhance-intelligent-driving.md",
       "title": "Baidu Releases New Products To Enhance Intelligent Driving",
       "excerpt": "Chinese artificial intelligence company Baidu Inc BIDU revealed a series of new products to enhance intelligent driving on Sunday, in a bid to be part of the transition to smarter cars in the future.",
@@ -620,6 +577,49 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-the-ai-revolution-googles-artificial-intelligence-developers-on-whats-next-in-the-field.md",
+      "title": "The AI revolution: Google's artificial intelligence developers on what's next in the field",
+      "excerpt": "Artificial intelligence solved an impossible problem in biology and robots powered by AI taught themselves to play soccer. The machines never get tired. They never get hungry. They learn ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/",
+      "originalUrl": "https://www.cbsnews.com/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/14/c12480c9-3363-478b-86bf-a856a2fa8598/thumbnail/1200x630/7b4e4968150471b425ee46c93ff66fd1/google-robot-1.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/",
+      "publishedDateTime": "2023-04-16T17:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
         "images": null,
         "publishers": null,
         "authors": null

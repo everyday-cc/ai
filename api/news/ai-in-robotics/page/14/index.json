@@ -2,49 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2022-12-16-robotics-competition-kicked-off-for-delhi-government-school-students.md",
-      "title": "Robotics competition kicked off for Delhi government school students",
-      "excerpt": "A special robotics competition was kicked off today for Delhi government school students. By India Today Web Desk: According to a circular from the Directorate of Education (DoE), a special robotics competition is being started on Friday to foster excellence in the field among Delhi school children.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatoday.in/education-today/news/story/robotics-competition-kicked-off-for-delhi-government-school-students-2310029-2022-12-16",
-      "originalUrl": "https://www.indiatoday.in/education-today/news/story/robotics-competition-kicked-off-for-delhi-government-school-students-2310029-2022-12-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202212/jelleke-vanooteghem-6nulohm40w8-unsplash-sixteen_nine.jpg?VersionId=q1ETy.V2ObyHT1nAmNcfRDHfT1U9NJdu",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatoday.in/amp/education-today/news/story/robotics-competition-kicked-off-for-delhi-government-school-students-2310029-2022-12-16",
-      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/news/story/robotics-competition-kicked-off-for-delhi-government-school-students-2310029-2022-12-16",
-      "publishedDateTime": "2022-12-16T02:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Today",
-        "domain": "indiatoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-16-artificial-intelligence-could-steal-your-restaurant-job-heres-how.md",
       "title": "Artificial Intelligence could steal your restaurant job. Here's how",
       "excerpt": "The food and beverage industry is experiencing a digital transformation, as robots and AI-powered tools fill in the gaps caused by a labor shortage.",
@@ -1294,6 +1251,58 @@
         "name": "Psychology Today",
         "domain": "psychologytoday.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-why-robots-are-taking-over-the-world-and-thats-a-good-thing.md",
+      "title": "Why Robots Are Taking Over The World - And That's A Good Thing",
+      "excerpt": "Robots and automation are not \"taking jobs\" in this latest economic downturn but are instead doing the work that few people want to do — from weeding fields to cleaning floors to stacking boxes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/12/09/why-robots-are-taking-over-the-worldand-thats-a-good-thing/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/12/09/why-robots-are-taking-over-the-worldand-thats-a-good-thing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/638e2b41fa2aa3cd9557066e/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/12/09/why-robots-are-taking-over-the-worldand-thats-a-good-thing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/12/09/why-robots-are-taking-over-the-worldand-thats-a-good-thing/amp/",
+      "publishedDateTime": "2022-12-09T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

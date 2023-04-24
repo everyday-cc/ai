@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-22-investors-take-note-nvidias-rush-of-new-ai-deals-could-be-a-game-changer.md",
+      "title": "Investors, Take Note: Nvidia's Rush of New AI Deals Could Be a Game Changer",
+      "excerpt": "The inveterate graphics processor designer has been busy making moves in the AI space recently. I mean really recently, as the push included a flurry of new partnership announcements at the 2023 version of Nvidia's GPU Technology Conference (GTC).",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/03/22/investors-take-note-of-nvidia-ai-deals/",
+      "originalUrl": "https://www.fool.com/investing/2023/03/22/investors-take-note-of-nvidia-ai-deals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/725492/nvda-logo-green.jpg",
+          "width": 2560,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-2-top-ai-stocks-ready-for-bull-runs.md",
       "title": "2 Top AI Stocks Ready for Bull Runs",
       "excerpt": "For instance, Microsoft has made ChatGPT available on its Azure cloud computing platform. The company's customers can now use large language AI models for various enterprise applications such as accelerating code development, improving email marketing ...",
@@ -1418,50 +1470,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-ai-brain-chips-could-turn-humans-into-hive-mind-where-all-minds-become-cogs-in-robot-machine-scientists-warn.md",
-      "title": "AI brain chips could turn humans into ‘hive mind’ where all minds become ‘cogs in robot machine’, scientists warn",
-      "excerpt": "SOME scientists are predicting a future in which humans and machines become one and people are merely cogs. Futurists are predicting that artificial intelligence and brain chips will irreversibly",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.co.uk/tech/21711966/ai-brain-chips-human-machine-warning/",
-      "originalUrl": "https://www.thesun.co.uk/tech/21711966/ai-brain-chips-human-machine-warning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2023/03/MF-AI-TAKEOVER-OFFPLAT.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/tech/21711966/ai-brain-chips-human-machine-warning/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/21711966/ai-brain-chips-human-machine-warning/amp/",
-      "publishedDateTime": "2023-03-14T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

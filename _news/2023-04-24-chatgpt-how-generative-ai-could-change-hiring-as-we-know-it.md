@@ -44,22 +44,6 @@ related:
         width: 470
         height: 352
         isCached: true
-  - title: "Solving The Mystery Of How ChatGPT And Generative AI Can Surprisingly Pick Up Foreign Languages, Says AI Ethics And AI Law"
-    excerpt: "Recent episode of the famed TV show \"60 Minutes\" discussed how \"surprisingly\" generative AI might seem to pick up additional languages, which isn't necessarily as much a mystery as alluded to. Here's the real scoop."
-    publishedDateTime: 2023-04-19T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/04/19/solving-the-mystery-of-how-chatgpt-and-generative-ai-can-surprisingly-pick-up-foreign-languages-says-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/04/19/solving-the-mystery-of-how-chatgpt-and-generative-ai-can-surprisingly-pick-up-foreign-languages-says-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/04/19/solving-the-mystery-of-how-chatgpt-and-generative-ai-can-surprisingly-pick-up-foreign-languages-says-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/643ee55c832bb162a41e5605/0x0.jpg?format=jpg&crop=4248,3183,x228,y0,safe&width=1200"
-        width: 1200
-        height: 899
-        isCached: true
   - title: "ChatGPT explained: Everything you need to know about the AI chatbot"
     excerpt: "Microsoft has been reportedly working on its own AI chip for some time, and it is hoping that it can be mass-produced as soon as 2024. If successful, these chips could power the Azure ..."
     publishedDateTime: 2023-04-21T15:23:00Z

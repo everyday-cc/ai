@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "How reinforcement learning with human feedback is unlocking the power of generative AI"
-    excerpt: "How reinforcement learning with human feedback helps ensure that businesses are building ethical generative AI models."
-    publishedDateTime: 2023-04-23T16:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-reinforcement-learning-with-human-feedback-is-unlocking-the-power-of-generative-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/how-reinforcement-learning-with-human-feedback-is-unlocking-the-power-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-reinforcement-learning-with-human-feedback-is-unlocking-the-power-of-generative-ai/amp/"
+  - title: "Amazon & 3M Will Use Generative AI To Ease Documentation For Healthcare Providers"
+    excerpt: "Late last week, two of the world’s most famous companies, Amazon and 3M, announced a bold partnership aimed at solving one of the most critical pain points for healthcare providers: clinical documentation."
+    publishedDateTime: 2023-04-24T01:59:00Z
+    webUrl: "https://www.forbes.com/sites/saibala/2023/04/23/amazon--3m-will-use-generative-ai-to-ease-documentation-for-healthcare-providers/"
+    ampWebUrl: "https://www.forbes.com/sites/saibala/2023/04/23/amazon--3m-will-use-generative-ai-to-ease-documentation-for-healthcare-providers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/04/23/amazon--3m-will-use-generative-ai-to-ease-documentation-for-healthcare-providers/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
+      name: Forbes
+      domain: forbes.com
+    quality: 99
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_human_and_artificial_intelligence_working_together_to_un_5b2cbb9e-e380-4bb1-812b-366943b59568.png?w=1200&strip=all"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6445c14eba75efb41b2390e1/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "Unlocking the safe deployment of embodied artificial intelligence through intelligent regulation (Guest blog by Wayve)"
-    excerpt: "At Wayve we are reimagining the future of mobility by building embodied AI software that gives vehicles the intelligence to drive anywhere. We call this pioneering new approach to self-driving, AV2.0."
-    publishedDateTime: 2023-04-21T08:46:00Z
-    webUrl: "https://www.techuk.org/resource/aiweek2023-wayve-fri.html"
-    type: article
-    provider:
-      name: techUK
-      domain: techuk.org
-    quality: 15
-    images:
-      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/7bcc45c3-c77a-41cc-bb74ad0762398373/opengraphimage_83f4e8796336604b59d7216d0ecd81a5_4a7c7e45a350/AIWeek2023-Wayve-Fri.png"
-        width: 400
-        height: 209
+        height: 800
         isCached: true
 
 secured: "AzmpHX2Rp2GToAeWpgFcuStRiCgKQdyKdIhq85/nV8F6hteZEzt71KVvstqK189NMCGxWBDPF+fFfw8fta+YwxDsf0Bb5Ol30/7Fcqm3TX1K74no8at739foZWPv0iJN3vm1edkcMF/4Q6Irs/2mndyUHiPb/HC804ICdbbEcCthBmpmtk1/GbZ+dXYhGacAHutpDgduDXiFlbyqWl/6/0oTEIkplr/v7Iu064xT313BU2a64yNzhwtjTyBSyoYpbEyVIVeaSz2LxC+KHVOGwxOc7Max/ieqBDuQw9RhyrdDlejw91+H6P3dDslepye2mUd5IVbBR/ffXi/3VMUxQ36JrXdojvmcpwYePEQFAL0=;TOzh4VUcPrMJqICuFMW1rg=="

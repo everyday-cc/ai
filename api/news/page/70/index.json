@@ -2,6 +2,154 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2023-02-15-healthcare-ai-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2029.md",
+      "title": "Healthcare AI Market Insights-Industry changing aspects, New Technologies and Forecast to 2029",
+      "excerpt": "Top Healthcare AI Companies (Koninklijke Philips N.V, NVIDIA Corporation, General Vision, Next IT Corp, CloudMedx Inc, IBM Watson Health, GENERAL ELECTRIC, Stryker, DEEP GENOMICS, Intel Corporation, Google, Microsoft Corporation) with the best facts and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2029-2023-02-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2029-2023-02-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-14T23:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-02-15-use-of-artificial-intelligence-in-healthcare-lacks-legal-regulations.md",
+      "title": "Use of artificial intelligence in healthcare lacks legal regulations",
+      "excerpt": "NEW DELHI: While artificial intelligence is being used in all fields, its application in the healthcare sector is vital but there are several legal issues involved, as there are no specific laws to deal with it and the question of accountability for errors ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/delhi/use-of-artificial-intelligence-in-healthcare-lacks-legal-regulations/articleshow/97937942.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/delhi/use-of-artificial-intelligence-in-healthcare-lacks-legal-regulations/articleshow/97937942.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-97937926,width-1070,height-580,imgsize-9046,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/delhi/use-of-artificial-intelligence-in-healthcare-lacks-legal-regulations/amp_articleshow/97937942.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/delhi/use-of-artificial-intelligence-in-healthcare-lacks-legal-regulations/amp_articleshow/97937942.cms",
+      "publishedDateTime": "2023-02-14T23:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-15-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-2029-by-product-type-end-user-capacity-and-geography.md",
+      "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market 2029 By Product Type, End User, Capacity and Geography",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 14, 2023 (The Expresswire) -- \"Artificial Intelligence and Robotics in Aerospace and Defense Market\" Report provides a Detailed analysis of global market size ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-2029-by-product-type-end-user-capacity-and-geography-2023-02-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-2029-by-product-type-end-user-capacity-and-geography-2023-02-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-14T23:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-15-wasixcap-expert-lists-3-stocks-to-watch-amid-chatgpt-craze.md",
       "title": "Wasixcap Expert lists 3 Stocks to watch amid ChatGPT Craze",
       "excerpt": "This is also the case with ChatGPT because various tech companies are now looking to harness the potential of machine learning and AI to drive their businesses forward. Three companies, Microsoft, Alphabet,",
@@ -1021,153 +1169,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-14-ai-experts-professors-reveal-how-chatgpt-will-radically-alter-the-classroom-age-of-the-creator.md",
-      "title": "AI experts, professors reveal how ChatGPT will radically alter the classroom: ‘Age of the creator’",
-      "excerpt": "\"AI is going to push us into this new movement ... Despite the benefits, there are also concerns students and professionals should keep in mind. New York-based legal ethics lawyer David A. Lewis said that he had seen an increase in cases in which people ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/ai-experts-professors-chatgpt-radically-alter-classroom-age-creator",
-      "originalUrl": "https://www.foxnews.com/media/ai-experts-professors-chatgpt-radically-alter-classroom-age-creator",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c45c254e-02b2-4af2-846a-e4db67eadaeb/30431e0e-2941-403b-aaad-0e9a67cabaf2/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/ai-experts-professors-chatgpt-radically-alter-classroom-age-creator.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ai-experts-professors-chatgpt-radically-alter-classroom-age-creator.amp",
-      "publishedDateTime": "2023-02-14T03:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-14-amazons-zoox-robotaxi-now-giving-rides-to-employees-on-public-roads-in-california.md",
-      "title": "Amazon's Zoox robotaxi now giving rides to employees on public roads in California",
-      "excerpt": "Amazon-owned Zoox said employees are test-riding its driverless robotaxis on public roads in California. For now, the tests are limited to employees at Zoox's Foster City, California, headquarters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html",
-      "originalUrl": "https://www.cnbc.com/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106810720-1607953690861-Zoox_Autonomous_Vehicle_-_Single_Side_-_Coit_Tower_SF.jpg?v=1676314425",
-          "width": 2800,
-          "height": 1867,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html",
-      "publishedDateTime": "2023-02-13T22:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-14-amazons-self-driving-car-shuttles-people-on-public-roads-for-the-first-time.md",
-      "title": "Amazon’s Self-Driving Car Shuttles People on Public Roads for the First Time",
-      "excerpt": "The company said the robotaxi trip marks the first time that a vehicle designed without human controls has carried passengers on a public road.",
-      "sourceUrl": null,
-      "webUrl": "https://www.supplychainbrain.com/articles/36633-amazons-self-driving-car-shuttles-people-on-public-roads-for-the-first-time",
-      "originalUrl": "https://www.supplychainbrain.com/articles/36633-amazons-self-driving-car-shuttles-people-on-public-roads-for-the-first-time",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.supplychainbrain.com/ext/resources/2023/02/13/Amazon-SelfDriving-BLOOMBERG.jpg?height=635&t=1676352059&width=1200",
-          "width": 953,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-13T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supply Chain",
-        "domain": "supplychainbrain.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

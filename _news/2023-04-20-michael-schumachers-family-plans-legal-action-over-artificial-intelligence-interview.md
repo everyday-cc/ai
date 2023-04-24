@@ -55,6 +55,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "German Magazine Editor Fired Over AI-Generated Interview"
+    excerpt: "Editor-in-chief Anne Hoffmann was “relieved of her duties” after more than a decade at the helm of Die Aktuelle."
+    publishedDateTime: 2023-04-24T00:50:00Z
+    webUrl: "https://www.thedailybeast.com/german-magazine-editor-anne-hoffmann-fired-over-ai-generated-michael-schumacher-interview"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1116,w_1986,x_357,y_195/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1682299936/2008-04-02T000000Z_163095011_GM1E4421LC301_RTRMADP_3_MOTOR-SCHUMACHER_xayhce"
+        width: 1480
+        height: 832
+        isCached: true
 
 secured: "sMR0pNZJavuW3K3RpnJO2ivcviPsrVyLIwXLyCMt2HPnTQd+YHumyFfaSYQ3zH/KYxMG4dGA9z4EdCO/MGr0nIStuXaMBMsS0PIU5aZdSRixYECQUZ50zNMJixPkZAutyrimNHMjFkJxdWWDZZ5lf7XtJWQmbIzRj2Yq2g387Q5MBHJvPZ3J8BUCzL7yp8e63VcuUQwh6GVEHBAT5DjQFwbcU4LE5VCBC8BrWSiSAd4eNfqCbCIi+BPezTUSTKEteIXrKIfasx9YE+AgFh75dcn+0p6mj43Hg3T84U+nQWp4U5Pqi1n3SpEcXKAyTlhUz0L02Zefg4RpSnoEPqxCq6rnxJDMCTPamLkb+JmxQ/w=;WWLgy45cxusbgsLd4BZMug=="
 ---

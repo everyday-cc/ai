@@ -41,22 +41,6 @@ related:
         width: 470
         height: 352
         isCached: true
-  - title: "Solving The Mystery Of How ChatGPT And Generative AI Can Surprisingly Pick Up Foreign Languages, Says AI Ethics And AI Law"
-    excerpt: "Recent episode of the famed TV show \"60 Minutes\" discussed how \"surprisingly\" generative AI might seem to pick up additional languages, which isn't necessarily as much a mystery as alluded to. Here's the real scoop."
-    publishedDateTime: 2023-04-19T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/04/19/solving-the-mystery-of-how-chatgpt-and-generative-ai-can-surprisingly-pick-up-foreign-languages-says-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/04/19/solving-the-mystery-of-how-chatgpt-and-generative-ai-can-surprisingly-pick-up-foreign-languages-says-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/04/19/solving-the-mystery-of-how-chatgpt-and-generative-ai-can-surprisingly-pick-up-foreign-languages-says-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/643ee55c832bb162a41e5605/0x0.jpg?format=jpg&crop=4248,3183,x228,y0,safe&width=1200"
-        width: 1200
-        height: 899
-        isCached: true
   - title: "ChatGPT: How generative AI could change hiring as we know it"
     excerpt: "Candidates are already using tools such as ChatGPT to write cover letters and CVs. But it’s just a small piece of how AI is transforming hiring processes."
     publishedDateTime: 2023-04-23T19:38:00Z

@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-12-18-bispecific-antibodies-in-blood-cancers-exercise-and-cognitive-function.md",
+      "title": "Bispecific Antibodies in Blood Cancers; Exercise and Cognitive Function",
+      "excerpt": "This week's topics include cognitive function, diet and exercise, intermittent vigorous exercise, bispecific antibodies, and weight loss, exercise and osteoarthritis pain. Rick: And a new use of T ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/podcasts/healthwatch/102291",
+      "originalUrl": "https://www.medpagetoday.com/podcasts/healthwatch/102291",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.medpagetoday.net/media/images/102xxx/102291.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-17T20:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-18-chatgpt-is-proof-the-ai-chatbots-are-here-to-stay.md",
       "title": "ChatGPT is proof the AI chatbots are here to stay",
       "excerpt": "Chat GPT crashed. “I immediately feel like I lost 50 points of IQ,” tweeted one user. “Now I have to use search engines like cavemen did,” exclaimed",
@@ -1263,50 +1306,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-artificial-intelligence-ai-in-logistics-market-is-booming-worldwide-ibm-google-microsoft-corporation.md",
-      "title": "Artificial intelligence (AI) in Logistics Market Is Booming Worldwide IBM, Google, Microsoft Corporation",
-      "excerpt": "New Jersey, United States, Dec 11, 2022 /DigitalJournal/ The global Artificial intelligence (AI ... companies Influencing this Market include: IBM, Google, Microsoft Corporation, Amazon Web ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-logistics-market-is-booming-worldwide-ibm-google-microsoft-corporation",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-logistics-market-is-booming-worldwide-ibm-google-microsoft-corporation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.market-news.org/wp-content/uploads/2022/12/Artificial-intelligence-AI-in-Logistics.jpg",
-          "width": 712,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

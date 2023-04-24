@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-05-ai-chip-race-google-says-its-tensor-chips-compute-faster-than-nvidias-a100.md",
+      "title": "AI chip race: Google says its Tensor chips compute faster than Nvidia's A100",
+      "excerpt": "Google says its fourth generation Tensor chip is better than Nvidia's A100 at computing and is twice as energy efficient",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/innovation/google-faster-greener-supercomputer",
+      "originalUrl": "https://interestingengineering.com/innovation/google-faster-greener-supercomputer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-04-adlink-pocket-ai-portable-plug-and-play-gpu-accelerator.md",
       "title": "ADLINK Pocket AI portable, plug and play GPU accelerator",
       "excerpt": "ADLINK has this week introduced a new piece of hardware to its range which will be available to preorder later this month and takes the form of the Pocket AI, “the first ever ultra-portable GPU ...",
@@ -1405,58 +1439,6 @@
         "name": "Barron's",
         "domain": "barrons.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-investors-take-note-nvidias-rush-of-new-ai-deals-could-be-a-game-changer.md",
-      "title": "Investors, Take Note: Nvidia's Rush of New AI Deals Could Be a Game Changer",
-      "excerpt": "The inveterate graphics processor designer has been busy making moves in the AI space recently. I mean really recently, as the push included a flurry of new partnership announcements at the 2023 version of Nvidia's GPU Technology Conference (GTC).",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/03/22/investors-take-note-of-nvidia-ai-deals/",
-      "originalUrl": "https://www.fool.com/investing/2023/03/22/investors-take-note-of-nvidia-ai-deals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/725492/nvda-logo-green.jpg",
-          "width": 2560,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

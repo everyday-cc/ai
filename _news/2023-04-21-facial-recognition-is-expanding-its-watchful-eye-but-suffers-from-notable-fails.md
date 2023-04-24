@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/facial-recognition-expanding-watchful-e
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/facial-recognition-expanding-watchful-eye-suffers-notable-fails.amp"
 type: article
 quality: 102
-heat: 112
+heat: 113
 published: true
 
 provider:

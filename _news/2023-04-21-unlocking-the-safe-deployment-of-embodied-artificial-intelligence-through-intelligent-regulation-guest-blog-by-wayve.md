@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AWS Enters the Generative AI Race with Bedrock and Titan Foundation Models"
-    excerpt: "The integration and deployment of these models into applications can be achieved seamlessly using familiar AWS tools and capabilities, including Amazon SageMaker ML features like Experiments for testing different models and Pipelines for efficient ..."
-    publishedDateTime: 2023-04-19T21:31:00Z
-    webUrl: "https://www.infoq.com/news/2023/04/aws-bedrock-titan/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 52
-    images:
-      - url: "https://res.infoq.com/news/2023/04/aws-bedrock-titan/en/headerimage/generatedHeaderImage-1681863961963.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "yn/Bg3Xq8ZWZkn96czMhd2jQZhJcMQeFwPLgxYlrpnvPqT5tSiFZNkkXVcZyD56mNana/OLQ23cCBsZI/FpCzTuNluBklIStZNRlWc8HnMqW8ZN2OnCVGkGAnR4MPlbYCH3KholNKkvyR0Pb9En1d4rGw0CRU6MWoFeSwCJ3+80+8CK2rB6mMmNXeqJjdZCjzn7dMz1hbRkNBQkN4jU4jrPydHEUVJ9nN3g5rGm9DyoQnxUK6Fh7CqNHUju94Z4GPL/YdwRMOPp3WT09hp9vZQpj0lheQy6yBajkEGgA7u5I7vuavPLJdtvDFr+MlYO/hZOsKHrqXpOE+q5Nl8rztQ+IJcvKnFSZPNGWSTnfIz1t6VwOZRgKvHH7Hhu5QoD2GE/qbsc0mzLfD7ookvdNF//Or17GRRVctlP/6jZtGVdIJwC/dE4iyJaKLXIxFf91go269tYbX5JnJI7fHRTP8bYi5QZEr/sr15J8LSu3vjS4PvShMdu22qxdO4KvPZ38m0GpHINxwmlCpsI5lE+gGw==;bzmY+ShyCKoBEvl3Ic15cA=="
 ---

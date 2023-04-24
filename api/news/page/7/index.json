@@ -2,6 +2,109 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-04-15-elon-musk-quietly-starts-xai-a-new-artificial-intelligence-company-to-challenge-openai.md",
+      "title": "Elon Musk quietly starts X.AI, a new artificial intelligence company to challenge OpenAI",
+      "excerpt": "Elon Musk is preparing to launch a new artificial intelligence startup, X.AI, that aims to rival OpenAI, according to a bombshell report published by the Wall Street Journal on Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artificial-intelligence-company-to-challenge-openai/",
+      "originalUrl": "https://venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artificial-intelligence-company-to-challenge-openai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 525,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/elon.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artificial-intelligence-company-to-challenge-openai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artificial-intelligence-company-to-challenge-openai/amp/",
+      "publishedDateTime": "2023-04-14T17:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-04-15-3-generative-ai-misunderstandings-resolved-for-enterprise-success.md",
+      "title": "3 generative AI misunderstandings resolved for enterprise success",
+      "excerpt": "ChatGPT, Bing AI and other generative AI tools have arrived. Will we surrender to the algorithms, or is there more nuance to the story?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/3-generative-ai-misunderstandings-resolved-for-enterprise-success/",
+      "originalUrl": "https://venturebeat.com/ai/3-generative-ai-misunderstandings-resolved-for-enterprise-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/03/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.3x2.jpg?w=1200&strip=all",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/3-generative-ai-misunderstandings-resolved-for-enterprise-success/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-generative-ai-misunderstandings-resolved-for-enterprise-success/amp/",
+      "publishedDateTime": "2023-04-14T17:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-15-amazon-web-services-joins-other-tech-giants-in-ai-race.md",
       "title": "Amazon Web Services Joins Other Tech Giants in AI Race",
       "excerpt": "The Amazon Web Services unit on Thursday announced two of its own large-language models, one designed to generate text, and another that could help power web search personalization, among other things.",
@@ -1082,100 +1185,6 @@
         "name": "Mashable",
         "domain": "mashable.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-timekettle-ai-language-translator-device-redefines-intercultural-communication.md",
-      "title": "Timekettle AI Language Translator Device Redefines Intercultural Communication",
-      "excerpt": "Language communication has always been an indispensable link in the journey of cross-cultural communication. As a leading translation tech company, Timekettle has a mission to \"break down language ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20230414cn70282/timekettle-ai-language-translator-device-redefines-intercultural-communication",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20230414cn70282/timekettle-ai-language-translator-device-redefines-intercultural-communication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2054084/Timekettle_Fluentalk_T1_Provides_Real_Time_Translation_Services_Cross_cultural_Exchange_Event.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T01:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-this-generative-ai-startup-wants-to-help-content-creators-in-the-storyboarding-process.md",
-      "title": "This generative AI startup wants to help content creators in the storyboarding process",
-      "excerpt": "(Storia AI screenshot) What would Marcel the Shell look like in Balenciaga shoes? That’s one prompt a startup developing generative artificial intelligence tools for filmmakers and TV show ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/this-generative-ai-startup-wants-to-help-content-creators-in-the-storyboarding-process/",
-      "originalUrl": "https://www.geekwire.com/2023/this-generative-ai-startup-wants-to-help-content-creators-in-the-storyboarding-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/04/Screen-Shot-2023-04-05-at-1.29.36-PM.png",
-          "width": 571,
-          "height": 572,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

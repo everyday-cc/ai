@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-04-17-the-week-in-web3-and-ai-gucci-x-vans-alts-by-adidas-ami-x-zepeto-lvmhs-patou.md",
+      "title": "The Week In Web3 And AI: Gucci x Vans, ALTS By adidas, AMI x ZEPETO, LVMH’s Patou",
+      "excerpt": "Following the announcement of its ALTS Web3 loyalty program, on Friday, adidas revealed mechanics whereby dedicated fans could bypass a random allocation of traits by paying to secure their choice — offering an interesting glimpse into the way the brand plans to further monetize the initiative.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/04/17/the-week-in-web3-and-ai-gucci-x-vans-alts-by-adidas-ami-x-zepeto-lvmhs-patou/",
+      "originalUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/04/17/the-week-in-web3-and-ai-gucci-x-vans-alts-by-adidas-ami-x-zepeto-lvmhs-patou/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/643c6d36379c9e1c160ab186/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/04/17/the-week-in-web3-and-ai-gucci-x-vans-alts-by-adidas-ami-x-zepeto-lvmhs-patou/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephaniehirschmiller/2023/04/17/the-week-in-web3-and-ai-gucci-x-vans-alts-by-adidas-ami-x-zepeto-lvmhs-patou/amp/",
+      "publishedDateTime": "2023-04-16T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-artificial-intelligence-of-things-aiot-solutions-market-size-and-share-2023-2030.md",
       "title": "Artificial Intelligence Of Things (AIoT) Solutions Market [Size and Share] 2023-2030",
       "excerpt": "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  In This Reports Artificial Intelligence Of Things (AIoT) Solutions Market Segment by Type ( Hardware,",
@@ -103,6 +155,49 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-the-ai-revolution-googles-artificial-intelligence-developers-on-whats-next-in-the-field.md",
+      "title": "The AI revolution: Google's artificial intelligence developers on what's next in the field",
+      "excerpt": "Artificial intelligence solved an impossible problem in biology and robots powered by AI taught themselves to play soccer. The machines never get tired. They never get hungry. They learn ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/",
+      "originalUrl": "https://www.cbsnews.com/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/14/c12480c9-3363-478b-86bf-a856a2fa8598/thumbnail/1200x630/7b4e4968150471b425ee46c93ff66fd1/google-robot-1.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/",
+      "publishedDateTime": "2023-04-16T17:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1092,109 +1187,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-elon-musk-quietly-starts-xai-a-new-artificial-intelligence-company-to-challenge-openai.md",
-      "title": "Elon Musk quietly starts X.AI, a new artificial intelligence company to challenge OpenAI",
-      "excerpt": "Elon Musk is preparing to launch a new artificial intelligence startup, X.AI, that aims to rival OpenAI, according to a bombshell report published by the Wall Street Journal on Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artificial-intelligence-company-to-challenge-openai/",
-      "originalUrl": "https://venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artificial-intelligence-company-to-challenge-openai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 525,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/elon.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artificial-intelligence-company-to-challenge-openai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artificial-intelligence-company-to-challenge-openai/amp/",
-      "publishedDateTime": "2023-04-14T17:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-3-generative-ai-misunderstandings-resolved-for-enterprise-success.md",
-      "title": "3 generative AI misunderstandings resolved for enterprise success",
-      "excerpt": "ChatGPT, Bing AI and other generative AI tools have arrived. Will we surrender to the algorithms, or is there more nuance to the story?",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/3-generative-ai-misunderstandings-resolved-for-enterprise-success/",
-      "originalUrl": "https://venturebeat.com/ai/3-generative-ai-misunderstandings-resolved-for-enterprise-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/03/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.3x2.jpg?w=1200&strip=all",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/3-generative-ai-misunderstandings-resolved-for-enterprise-success/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-generative-ai-misunderstandings-resolved-for-enterprise-success/amp/",
-      "publishedDateTime": "2023-04-14T17:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

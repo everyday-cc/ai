@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-reinforcement-learning-with-human-fee
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-reinforcement-learning-with-human-feedback-is-unlocking-the-power-of-generative-ai/amp/"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Enters the Generative AI Race with Bedrock and Titan Foundation Models"
-    excerpt: "The integration and deployment of these models into applications can be achieved seamlessly using familiar AWS tools and capabilities, including Amazon SageMaker ML features like Experiments for testing different models and Pipelines for efficient ..."
-    publishedDateTime: 2023-04-19T21:31:00Z
-    webUrl: "https://www.infoq.com/news/2023/04/aws-bedrock-titan/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 52
-    images:
-      - url: "https://res.infoq.com/news/2023/04/aws-bedrock-titan/en/headerimage/generatedHeaderImage-1681863961963.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Unlocking the safe deployment of embodied artificial intelligence through intelligent regulation (Guest blog by Wayve)"
     excerpt: "At Wayve we are reimagining the future of mobility by building embodied AI software that gives vehicles the intelligence to drive anywhere. We call this pioneering new approach to self-driving, AV2.0."
     publishedDateTime: 2023-04-21T08:46:00Z

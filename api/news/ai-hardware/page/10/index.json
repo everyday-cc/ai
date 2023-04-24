@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-01-06-lenovo-turns-to-ai-to-optimize-its-2023-gaming-laptops.md",
+      "title": "Lenovo turns to 'AI' to optimize its 2023 gaming laptops",
+      "excerpt": "Four new models at CES 2023 include the Lenovo LA AI chip, which the company says can dynamically adjust frame rates, increase the maximum heat threshold and boost overall performance ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/lenovo-gaming-laptops-ces-2023-ai-chip-160033869.html",
+      "originalUrl": "https://www.engadget.com/lenovo-gaming-laptops-ces-2023-ai-chip-160033869.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-12/ae363a80-8889-11ed-b406-2572e023c352",
+          "width": 2643,
+          "height": 1487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/lenovo-gaming-laptops-ces-2023-ai-chip-160033869.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/lenovo-gaming-laptops-ces-2023-ai-chip-160033869.html",
+      "publishedDateTime": "2023-01-05T21:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-06-lenovo-introduces-the-worlds-first-dedicated-ai-chip-on-a-gaming-laptop.md",
       "title": "Lenovo Introduces The ‘World’s First’ Dedicated AI Chip On A Gaming Laptop",
       "excerpt": "Lenovo spent a lot of time at CES 2023 promoting its new LA AI chip, which it said is the world’s first dedicated AI chip on a gaming laptop. The new chip will come installed on the new Lenovo ...",
@@ -1414,51 +1466,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics.md",
-      "title": "eYs3D Hits CES with Computer Vision and AI for Medical, AIoT, Industrial and Retail Robotics",
-      "excerpt": "Intelligent Heterogeneous Integration Gives Machines Brains, Eyes and SensesTAIPEI, TAIWAN / ACCESSWIRE / December 15, 2022 / eYs3D, a silicon-plus-AI computer vision solutions company, will showcase",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/12/ac30100933/eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/ac30100933/eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
-          "width": 800,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30100933",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30100933",
-      "publishedDateTime": "2022-12-15T12:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Computer Vision",
-        "AI in Robotics"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-02-27-when-it-comes-to-money-your-brain-can-be-your-own-worst-enemy.md",
+      "title": "When It Comes to Money, Your Brain Can Be Your Own Worst Enemy",
+      "excerpt": "Our cognitive biases can get in the way of saving for the future, especially for retirement. Here’s how to recognize and overcome them. Send any friend a story As a subscriber, you have 10 gift ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/02/26/business/personal-finance-cognitive-bias-retirement.html",
+      "originalUrl": "https://www.nytimes.com/2023/02/26/business/personal-finance-cognitive-bias-retirement.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/26/business/26Retiring-illo/26Retiring-illo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/02/26/business/personal-finance-cognitive-bias-retirement.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/02/26/business/personal-finance-cognitive-bias-retirement.amp.html",
+      "publishedDateTime": "2023-02-26T12:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-27-westpac-and-aws-swim-deeper-into-generative-ai-for-banking.md",
       "title": "Westpac and AWS swim deeper into generative AI for banking",
       "excerpt": "Cloud giant AWS has signed a five-year deal with Westpac, a similar contract to one the bank signed with Microsoft Azure last year as it develops AI.",
@@ -1447,58 +1499,6 @@
         "IBM AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-cognitive-bias-the-elephant-in-every-room.md",
-      "title": "Cognitive bias: The elephant in every room",
-      "excerpt": "This growth is the product of the trade-off between complexity and cognitive bias. Human cognition isn’t fundamentally scalable, as the human brain can’t just spin up new hardware to apply ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/cognitive-bias-the-elephant-in-every-room/",
-      "originalUrl": "https://venturebeat.com/ai/cognitive-bias-the-elephant-in-every-room/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/DALL·E-2022-12-01-07.41.55-an-AI-sitting-on-a-throne.png?w=1200&strip=all",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/cognitive-bias-the-elephant-in-every-room/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/cognitive-bias-the-elephant-in-every-room/amp/",
-      "publishedDateTime": "2023-02-12T11:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

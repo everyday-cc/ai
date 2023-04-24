@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-21-ai-in-computer-vision-market-report-explained-market-current-dynamics-and-trends.md",
+      "title": "AI In Computer Vision Market Report Explained Market Current Dynamics and Trends",
+      "excerpt": "Latest Report of AI In Computer Vision Market 2023 The global AI In Computer Visionmarket size is projected to reach USD million by 2030, from USD million in 2020, at a CAGR during 2021-2030. With industry-standard accuracy in analysis and high data integrity,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-explained-market-current-dynamics-and-trends-2023-04-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-explained-market-current-dynamics-and-trends-2023-04-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-21-the-best-shows-on-amazon-prime-right-now-april-2023.md",
       "title": "The best shows on Amazon Prime right now (April 2023)",
       "excerpt": "Follow her on Twitter @christinetechCA. If you’ve been searching for some of the greatest horror movies you can stream, Amazon Prime Video has got you covered. Home to hundreds of chilling ...",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.foxnews.com/tech/facial-recognition-expanding-watchful-eye-suffers-notable-fails",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -353,6 +405,58 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-cxl-for-accelerated-ai-workloads.md",
+      "title": "CXL For Accelerated AI Workloads",
+      "excerpt": "This article will focus on two recent product announcements using CXL for accelerated artificial intelligence (AI) workloads. These include the TrainingCXL PCIe device from Korean-bawsed Panmesia and a high-performance CXL switch chip from Enfabrica that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2023/04/20/cxl-for-accelerated-ai-workloads/",
+      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2023/04/20/cxl-for-accelerated-ai-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6441c2efe474ff3fce23907c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2023/04/20/cxl-for-accelerated-ai-workloads/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/04/20/cxl-for-accelerated-ai-workloads/amp/",
+      "publishedDateTime": "2023-04-20T16:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -1163,92 +1267,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-microsoft-azure-marketplace-integrates-space-and-times-web3-tools.md",
-      "title": "Microsoft Azure Marketplace Integrates Space and Time’s Web3 Tools",
-      "excerpt": "Space and Time’s Web3 “data warehouse” has been integrated into the Microsoft (NASDAQ:MSFT) Azure Marketplace, an “app store” for developers using the cloud computing platform. Enterprise builders can now make a one-click deployment of Space and Time's data product,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/microsoft-azure-marketplace-integrates-space-and-times-web3-tools",
-      "originalUrl": "https://www.nasdaq.com/articles/microsoft-azure-marketplace-integrates-space-and-times-web3-tools",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-ai-can-kill-us-but-some-in-congress-dont-even-know-how-to-log-in-to-facebook-lawmakers-say.md",
-      "title": "AI can 'kill us,' but some in Congress don’t even know how to log in to Facebook, lawmakers say",
-      "excerpt": "WASHINGTON, D.C. – AI has the potential to both benefit and harm the U.S. in unknown and unimagined ways but Congress has hardly any experts on the rapidly developing technology, lawmakers told ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/ai-kill-us-some-congress-dont-even-know-log-facebook-lawmakers-say?cl_widget_scroll=true",
-      "originalUrl": "https://www.foxnews.com/politics/ai-kill-us-some-congress-dont-even-know-log-facebook-lawmakers-say?cl_widget_scroll=true",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/09/340/340/IMG_0550.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ai-kill-us-some-congress-dont-even-know-log-facebook-lawmakers-say.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ai-kill-us-some-congress-dont-even-know-log-facebook-lawmakers-say.amp",
-      "publishedDateTime": "2023-04-19T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],
