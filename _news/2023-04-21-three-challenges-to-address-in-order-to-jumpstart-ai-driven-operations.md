@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/21/three-chal
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/21/three-challenges-to-address-in-order-to-jumpstart-ai-driven-operations/amp/"
 type: article
 quality: 89
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "This machine learning project could help jumpstart self-driving cars again"
+    excerpt: "So far autonomous vehicles just don't seem to be able to do the one essential thing that they should -- predict the glorious unpredictability of other erratic humans."
+    publishedDateTime: 2023-04-24T16:11:00Z
+    webUrl: "https://www.zdnet.com/article/this-machine-learning-project-could-help-jumpstart-self-driving-cars-again/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-machine-learning-project-could-help-jumpstart-self-driving-cars-again/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-machine-learning-project-could-help-jumpstart-self-driving-cars-again/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 102
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/142e9efc1a7ef87046e4afae2561ac1b6a12443f/2023/04/19/a4b9a446-4b42-4184-abae-8595075942f8/testtrack.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "eHxfIhmQYQVs1p5bOvPVmcmNJSgDEMWl0ZAjYn9mTTnL2Le3q3sJsVSNno8ChIkoEilN6gKv1Zjf6n9UDzPAFFb3x5KIpY/K22Rm34SxWCFzL5JPznlTyqsOFqT9k5rbDEwr2LE370mdEZkXb0oCwlrrpiLBWS4Gh+VDcjrh8SIEg3SgXsk0d3O6FChPc3877NB9B7UBm7SB0z0cs5jt3MLF73KeMPFMS/uvoWNNTz4/Nl5XH6Gj9g+S2dFMOXNOaRktW7XHEMRfUv1D93MgDm+zr5j+1T6ZcFdAp+WrurlVePrHDnAN04yjeatcbPkMhYStmDK+ADp0+mPZ6hHaMDUMY/cddE2U9gsdUB4vPR6pHjlNObmFZ/wT+wT7lI7qCyBK13d11WAJFk2lgjgME5aa+vrUuZwtG5sFdaRfvs5CTP1uYhf5uEpcm34ajPE7I8ewhe896N5ulSvO+2n02J+JRQQYZWQEblAVVhFFxWuL6AulfkI2RRSrXwBl6qxRzlOJNo7VHvxRK6MkVjm75g==;S7KmtyPBhFVWpRTGaTcv+Q=="
 ---

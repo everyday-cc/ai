@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-03-04-samsung-jet-bot-ai-robot-vacuum-with-object-recognition-review-a-robot-vacuum-for-grown-ups.md",
+      "title": "Samsung Jet Bot AI+ Robot Vacuum with Object Recognition review: a robot vacuum for grown-ups",
+      "excerpt": "Forward-thinking features include LiDAR and 3D navigation, object recognition (and avoidance), and remote-control cameras. But before we delve into more geeky goodness, would you just look at it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/reviews/samsung-jet-bot-ai-robot-vacuum-with-object-recognition-review-a-robot-vacuum-for-grown-ups",
+      "originalUrl": "https://www.techradar.com/reviews/samsung-jet-bot-ai-robot-vacuum-with-object-recognition-review-a-robot-vacuum-for-grown-ups",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/t2mUKj7ppXDa9eFLvmMDRU-1200-80.jpg",
+          "width": 970,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-04T01:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-03-04-can-religion-save-us-from-artificial-intelligence.md",
       "title": "Can religion save us from Artificial Intelligence?",
       "excerpt": "“Indeed, if technological progress increases inequality, it is not true progress,” Pope Francis said in a Nov. 2020 video announcing his prayer intention that robotics and artificial intelligence may always serve humankind. The Vatican’s goal is not ...",
@@ -1296,49 +1349,6 @@
         "AI",
         "Facebook AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-18-us-launches-artificial-intelligence-military-use-initiative.md",
-      "title": "US launches artificial intelligence military use initiative",
-      "excerpt": "Military analysts and artificial intelligence researchers say the longer the nearly ... But there are no confirmed instances of a nation putting into combat robots that have killed entirely on their own. Russia was not invited to attend the conference ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.militarytimes.com/news/2023/02/17/us-launches-artificial-intelligence-military-use-initiative/",
-      "originalUrl": "https://www.militarytimes.com/news/2023/02/17/us-launches-artificial-intelligence-military-use-initiative/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.militarytimes.com/resizer/jy4v5JCOLT7nEoE9lSOYNFB17Qg=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/6S4UYCVZFVEAXHWSAO5WDPHKJI.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-17T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Military Times",
-        "domain": "militarytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

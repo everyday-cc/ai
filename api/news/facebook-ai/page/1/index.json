@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-24-a-word-of-caution-before-ai-becomes-standard-in-health-care.md",
+      "title": "A word of caution before AI becomes standard in health care",
+      "excerpt": "This human form of learning, with the brain as the computer, is the standard that AI aspires to reach. But now, artificial intelligence has advanced to the point where it has become a highly useful medical tool.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/healthcare/3965108-a-word-of-caution-before-ai-becomes-standard-in-healthcare/",
+      "originalUrl": "https://thehill.com/opinion/healthcare/3965108-a-word-of-caution-before-ai-becomes-standard-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/04/artificial_intelligence_AI_healthcare-01072023_AP_.jpg?w=1280",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/healthcare/3965108-a-word-of-caution-before-ai-becomes-standard-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/healthcare/3965108-a-word-of-caution-before-ai-becomes-standard-in-healthcare/amp/",
+      "publishedDateTime": "2023-04-24T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-04-24-kpmg-us-executives-unprepared-for-immediate-adoption-of-generative-ai.md",
       "title": "KPMG: US executives unprepared for immediate adoption of generative AI",
       "excerpt": "In a KPMG survey of executives on generative AI, the technology is seen as potentially the most disruptive to date.",
@@ -62,7 +106,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/amid-microsoft-google-ai-rivalry-apple-could-be-the-winner-no-matter-where-industry-goes-analyst-1032253335",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1307,59 +1351,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-29-hugging-face-reveals-generative-ai-performance-gains-with-intel-hardware.md",
-      "title": "Hugging Face reveals generative AI performance gains with Intel hardware",
-      "excerpt": "Learn More Nvidia’s A100 GPU accelerator has enabled groundbreaking innovations in generative AI, powering cutting-edge research that is reshaping what artificial intelligence can achieve. But in the fiercely competitive field of AI hardware, others are ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/hugging-face-reveals-generative-ai-performance-gains-with-intel-hardware/",
-      "originalUrl": "https://venturebeat.com/ai/hugging-face-reveals-generative-ai-performance-gains-with-intel-hardware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/01/VB_Intel-xeo-4_1200px.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 804,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/hugging-face-reveals-generative-ai-performance-gains-with-intel-hardware/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/hugging-face-reveals-generative-ai-performance-gains-with-intel-hardware/amp/",
-      "publishedDateTime": "2023-03-28T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -2,6 +2,254 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-25-buy-ark-genomic-revolution-for-a-piece-of-the-ai-paradigm-shift.md",
+      "title": "Buy Ark Genomic Revolution For A Piece Of The AI Paradigm Shift",
+      "excerpt": "AI is a generational opportunity for investors. Elon Musk and Steve Wozniak, the co-founder of Apple (AAPL), sounded the alarm last week about the perils of AI experiments. Their Future of Life petition is nearing 20,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jonmarkman/2023/04/24/buy-ark-genomic-revolution-for-a-piece-of-the-ai-paradigm-shift/",
+      "originalUrl": "https://www.forbes.com/sites/jonmarkman/2023/04/24/buy-ark-genomic-revolution-for-a-piece-of-the-ai-paradigm-shift/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6446b9767bd874859ca3babc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 755,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jonmarkman/2023/04/24/buy-ark-genomic-revolution-for-a-piece-of-the-ai-paradigm-shift/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/04/24/buy-ark-genomic-revolution-for-a-piece-of-the-ai-paradigm-shift/amp/",
+      "publishedDateTime": "2023-04-24T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-young-social-media-users-help-train-machine-learning-program-to-flag-sexual-conversations.md",
+      "title": "Young social media users help train machine learning program to flag sexual conversations",
+      "excerpt": "In a first-of-its-kind effort, social media researchers from Drexel University, Vanderbilt University, Georgia Institute of Technology and Boston University are turning to young social media users to help build a machine learning program that can spot unwanted sexual advances on Instagram.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-04-young-social-media-users-machine.html",
+      "originalUrl": "https://techxplore.com/news/2023-04-young-social-media-users-machine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/sliding-out-of-my-dms.jpg",
+          "width": 1655,
+          "height": 1379,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-04-young-social-media-users-machine.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-young-social-media-users-machine.amp",
+      "publishedDateTime": "2023-04-24T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-chatgpt-and-generative-ai-around-the-world-maturity-opportunities-and-hurdles-in-key-regions.md",
+      "title": "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions",
+      "excerpt": "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-hurdles-in-regions-2023-april",
+      "originalUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-hurdles-in-regions-2023-april",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6441b16a3f6f690018debe44?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-hurdles-in-regions-2023-april?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-hurdles-in-regions-2023-april?amp",
+      "publishedDateTime": "2023-04-24T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-the-data-that-trains-ai-is-under-the-spotlight-and-even-im-weirded-out-the-ai-beat.md",
+      "title": "The data that trains AI is under the spotlight — and even I’m weirded out | The AI Beat",
+      "excerpt": "Why do I feel so weird that my creative output has been vacuumed into AI datasets, when so much of my life is already up for grabs?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/the-data-that-trains-ai-is-under-the-spotlight-and-even-im-weirded-out-the-ai-beat/",
+      "originalUrl": "https://venturebeat.com/ai/the-data-that-trains-ai-is-under-the-spotlight-and-even-im-weirded-out-the-ai-beat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/The-Pile-1.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/the-data-that-trains-ai-is-under-the-spotlight-and-even-im-weirded-out-the-ai-beat/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-data-that-trains-ai-is-under-the-spotlight-and-even-im-weirded-out-the-ai-beat/amp/",
+      "publishedDateTime": "2023-04-24T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-this-machine-learning-project-could-help-jumpstart-self-driving-cars-again.md",
+      "title": "This machine learning project could help jumpstart self-driving cars again",
+      "excerpt": "So far autonomous vehicles just don't seem to be able to do the one essential thing that they should -- predict the glorious unpredictability of other erratic humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/this-machine-learning-project-could-help-jumpstart-self-driving-cars-again/",
+      "originalUrl": "https://www.zdnet.com/article/this-machine-learning-project-could-help-jumpstart-self-driving-cars-again/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/142e9efc1a7ef87046e4afae2561ac1b6a12443f/2023/04/19/a4b9a446-4b42-4184-abae-8595075942f8/testtrack.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-machine-learning-project-could-help-jumpstart-self-driving-cars-again/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-machine-learning-project-could-help-jumpstart-self-driving-cars-again/",
+      "publishedDateTime": "2023-04-24T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-24-snapchat-sees-spike-in-1-star-reviews-as-users-pan-the-my-ai-feature-calling-for-its-removal.md",
       "title": "Snapchat sees spike in 1-star reviews as users pan the ‘My AI’ feature, calling for its removal",
       "excerpt": "The user reviews for Snapchat’s “My AI” feature are in — and they’re not good. Launched last week to global users after initially being a subscriber-only addition, Snapchat’s new AI chatbot powered by OpenAI’s GPT technology is now pinned to the top of the app’s Chat tab where users can ask it questions and get",
@@ -34,6 +282,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-the-uk-will-spend-100-million-to-develop-its-own-sovereign-ai.md",
+      "title": "The UK will spend £100 million to develop its own 'sovereign' AI",
+      "excerpt": "The UK government doesn't want to sit idle while foundational AI models like ChatGPT flourish. Prime Minister Rishi Sunak and Technology Secretary Michelle Donelan have pledged an initial £100 million (about $124.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/the-uk-is-creating-a-100-million-ai-taskforce-143507868.html",
+      "originalUrl": "https://www.engadget.com/the-uk-is-creating-a-100-million-ai-taskforce-143507868.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/qdvPOgJAnTazRxfXiFcT6w--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-04/7bb09180-e29f-11ed-bfff-290b8a611c9b.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/the-uk-is-creating-a-100-million-ai-taskforce-143507868.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-uk-is-creating-a-100-million-ai-taskforce-143507868.html",
+      "publishedDateTime": "2023-04-24T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -205,6 +504,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-a-word-of-caution-before-ai-becomes-standard-in-health-care.md",
+      "title": "A word of caution before AI becomes standard in health care",
+      "excerpt": "This human form of learning, with the brain as the computer, is the standard that AI aspires to reach. But now, artificial intelligence has advanced to the point where it has become a highly useful medical tool.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/healthcare/3965108-a-word-of-caution-before-ai-becomes-standard-in-healthcare/",
+      "originalUrl": "https://thehill.com/opinion/healthcare/3965108-a-word-of-caution-before-ai-becomes-standard-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/04/artificial_intelligence_AI_healthcare-01072023_AP_.jpg?w=1280",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/healthcare/3965108-a-word-of-caution-before-ai-becomes-standard-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/healthcare/3965108-a-word-of-caution-before-ai-becomes-standard-in-healthcare/amp/",
+      "publishedDateTime": "2023-04-24T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -405,7 +748,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -714,7 +1057,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/amid-microsoft-google-ai-rivalry-apple-could-be-the-winner-no-matter-where-industry-goes-analyst-1032253335",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -899,351 +1242,6 @@
         "AI",
         "AI Hardware",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-natural-language-processing-nlp-in-healthcare-market-growth-by-2031.md",
-      "title": "Natural Language Processing (NLP) in Healthcare Market Growth by 2031",
-      "excerpt": "The latest market research report on the Global \"Natural Language Processing (NLP) in Healthcare Market\" is segmented",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-growth-by-2031-2023-04-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-growth-by-2031-2023-04-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T00:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-the-rise-of-ai-entrepreneurs-how-this-technology-is-creating-new-opportunities.md",
-      "title": "The Rise Of AI Entrepreneurs: How This Technology Is Creating New Opportunities",
-      "excerpt": "New opportunities for entrepreneurs are everywhere you look. Surf this wave or wait another decade for the next, the choice is yours.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/04/24/the-rise-of-ai-entrepreneurs-how-technology-is-creating-new-opportunities/",
-      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/04/24/the-rise-of-ai-entrepreneurs-how-technology-is-creating-new-opportunities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64203353460318711de2d103/0x0.jpg?format=jpg&crop=5592,3143,x0,y286,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/04/24/the-rise-of-ai-entrepreneurs-how-technology-is-creating-new-opportunities/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/04/24/the-rise-of-ai-entrepreneurs-how-technology-is-creating-new-opportunities/amp/",
-      "publishedDateTime": "2023-04-24T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-chatgpt-life-hacks-how-users-are-spawning-grocery-lists-from-ai-generated-recipes-and-meal-plans.md",
-      "title": "ChatGPT life hacks: How users are spawning grocery lists from AI-generated recipes and meal plans",
-      "excerpt": "The emergence of generative AI is opening a whole new world of life hacks including the creation of diet-specific meal plans and grocery lists to match. TikToker Mellyssa Viele and The Microsoft Garage director Mike Pell weigh in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/lifestyle/chatgpt-life-hacks-spawning-grocery-lists-ai-generated-recipes-meal-plans",
-      "originalUrl": "https://www.foxnews.com/lifestyle/chatgpt-life-hacks-spawning-grocery-lists-ai-generated-recipes-meal-plans",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1846bba2-3f76-46e5-b731-28ab0c01de9a/de78cd28-4f77-4606-9528-afcbe1ee7bcd/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/lifestyle/chatgpt-life-hacks-spawning-grocery-lists-ai-generated-recipes-meal-plans.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/chatgpt-life-hacks-spawning-grocery-lists-ai-generated-recipes-meal-plans.amp",
-      "publishedDateTime": "2023-04-23T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories.md",
-      "title": "AI revolution: Manufacturers hope for artificial intelligence boost in factories",
-      "excerpt": "Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery. There has been an explosion of interest in uses of AI across many sectors since the launch last year of chatbot ChatGPT from US startup OpenAI.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories-71682272340109.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories-71682272340109.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2023/04/24/1600x900/AI-COMPANIES--2_1681557402437_1681557402437_1682312254516.JPG",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories-71682272340109.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories-71682272340109.html",
-      "publishedDateTime": "2023-04-23T22:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-machine-learning-as-a-service-mlaas-market-2023-size-and-share-an-expand-worldwide-business-opportunities.md",
-      "title": "Machine Learning as a Service (MLaaS) Market 2023, Size And Share An Expand Worldwide Business Opportunities",
-      "excerpt": "Machine Learning as a Service (MLaaS) Market Size 2023 | New Report (118 Pages) | Analytics | In This Reports Machine Learning as a Service (MLaaS) Market Top Machine Learning as a Service (MLaaS) Companies (BigML,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2023-size-and-share-an-expand-worldwide-business-opportunities-2023-04-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2023-size-and-share-an-expand-worldwide-business-opportunities-2023-04-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-23T20:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-amazon-3m-will-use-generative-ai-to-ease-documentation-for-healthcare-providers.md",
-      "title": "Amazon & 3M Will Use Generative AI To Ease Documentation For Healthcare Providers",
-      "excerpt": "Late last week, two of the world’s most famous companies, Amazon and 3M, announced a bold partnership aimed at solving one of the most critical pain points for healthcare providers: clinical documentation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saibala/2023/04/23/amazon--3m-will-use-generative-ai-to-ease-documentation-for-healthcare-providers/",
-      "originalUrl": "https://www.forbes.com/sites/saibala/2023/04/23/amazon--3m-will-use-generative-ai-to-ease-documentation-for-healthcare-providers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6445c14eba75efb41b2390e1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saibala/2023/04/23/amazon--3m-will-use-generative-ai-to-ease-documentation-for-healthcare-providers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/04/23/amazon--3m-will-use-generative-ai-to-ease-documentation-for-healthcare-providers/amp/",
-      "publishedDateTime": "2023-04-23T18:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-machine-learning-as-ai-tools-gain-heft-the-jobs-that-could-be-at-stake.md",
-      "title": "Machine learning: As AI tools gain heft, the jobs that could be at stake",
-      "excerpt": "The OpenAI study also said that around 19 per cent of US workers will see at least 50 per cent of their tasks impacted, with the qualifier that GPT exposure is likely greater for higher-income jobs, but spans across almost all industries.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/artificial-intelligence/machine-learning-as-ai-tools-gain-heft-the-jobs-that-could-be-at-stake-8572182/",
-      "originalUrl": "https://indianexpress.com/article/technology/artificial-intelligence/machine-learning-as-ai-tools-gain-heft-the-jobs-that-could-be-at-stake-8572182/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/04/ai_1200_gettyimages.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/artificial-intelligence/machine-learning-as-ai-tools-gain-heft-the-jobs-that-could-be-at-stake-8572182/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/machine-learning-as-ai-tools-gain-heft-the-jobs-that-could-be-at-stake-8572182/lite/",
-      "publishedDateTime": "2023-04-23T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

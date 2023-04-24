@@ -17,7 +17,14 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
-secured: "k7mkUTbthD9AChs5HUIh+L4bPjRQWBxHj9wgFNKgxqRWPUtVk67yubJz9JhyDW0GnvSUzlDEGRM4Lvwm1pzY3oZKGoWmarTUEupEqMzL2Hg3L7oJIGw+KigUdNwqcKEXEvv4mW4zXhkOTzKluiLA5OezR7sZvA47gv3JIwyGpuRND/oXYFz4/7E7pDLnzPb7hk7eXnqhnCFC/66jQw7GjV9HJsAu4PTpaE0DkO5ZKrZeHCWzKMlRNnG6Kx/BMZOp5oWCyxwJ+Q0n331PVrGEHDU9G1BqCV75mWYl/xAZNoZObCKxh7E5+0qHx33ChbvuJTOQuc1roGZ5rGWton2YNmu8xXS2F8mkndihM45Jr3Ob5YlTB/XV0rZ1dw6jSG8VQOla9V0jxb6kWdHeTyxArPLZQtu4WTbyYbBpuYYMfExla9e51HTQ4hhaKWDmutXz8GFylhxLHO0KAW83Zl4KZuGoO8dEQ7Wkn3a4xY/MHzMGOaSI8/kf+7HfD/A/GzA3AZO/YK3fDZYPcI1ZTQFXDQ==;oc+RsTdEw3hiQTFFdjXnnw=="
+images:
+  - url: "https://www.utoronto.ca/sites/default/files/GettyImages-1427143523-crop.jpg?181068"
+    width: 1140
+    height: 760
+    isCached: true
+
+secured: "GK0vaIVvA8UlIgm9rjzFA4e/R/q6ghOLG5kp7+bLIlZHR2YcYA1CFhHOcFoFwfETuz/ug6IcK9XajaHXTiJfvv3SN3RZ7GtS91ehFJVEQba6gyCJE2c7kXBD7OovZU2lJ6t07jtJIun0loF5QZyOYmGBfyetwzkSBTik/f5lmUhwpXuEH0E99bc0LsGGHLzkOKf09R3djrBPEG5WYf27FF9p5AifF9Wz3wY7dAzj1YmfIJYoM6X1EH/O2ALX5Hu9+Ew3akuLe3xrowxtKn/3IGK7W+plRloihD5vq582+w9OEAPLMuk/YzDGoV5GwjiKCX4mfqv1as/PT7NitQ2QGzmI52UjL0ZCIr+tuE46xtE=;12MyCwmMRiypxMAkPT20BQ=="
 ---
 

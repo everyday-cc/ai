@@ -2,6 +2,264 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2023-03-22-nvidia-and-google-cloud-deliver-powerful-new-generative-ai-platform-built-on-the-new-l4-gpu-and-vertex-ai.md",
+      "title": "NVIDIA and Google Cloud Deliver Powerful New Generative AI Platform, Built on the New L4 GPU and Vertex AI",
+      "excerpt": "NVIDIA today announced Google Cloud is integrating the newly launched L4 GPU and Vertex AI to accelerate the work of companies building a rapidly expanding number of generative AI applications. Google Cloud,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/03/21/9780952.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/03/21/9780952.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-21T16:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-everything-everywhere-is-going-to-change-all-at-once.md",
+      "title": "Everything, Everywhere Is Going to Change All at Once",
+      "excerpt": "Consider just one example that most people probably haven’t even heard of — the way DeepMind, an A.I. lab owned by Google parent Alphabet, recently used its AlphaFold A.I. system to solve one of the most wicked problems in science — at a speed and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/03/21/opinion/artificial-intelligence-chatgpt.html",
+      "originalUrl": "https://www.nytimes.com/2023/03/21/opinion/artificial-intelligence-chatgpt.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/03/21/multimedia/21Friedman-hkzp/21Friedman-hkzp-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/03/21/opinion/artificial-intelligence-chatgpt.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/21/opinion/artificial-intelligence-chatgpt.amp.html",
+      "publishedDateTime": "2023-03-21T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-nvidia-launches-new-gpus-and-services-for-generative-ai-inferencing.md",
+      "title": "NVIDIA Launches New GPUs And Services for Generative AI Inferencing",
+      "excerpt": "ChatGPT has certainly changed the AI landscape, but it currently requires an 8-GPU node to run a query on OpenAI and Microsoft’s infrastructure. That is due in part to the memory requirements to hold the large model in the HBM memory of an NVIDIA A100 or ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/03/21/nvidia-launches-new-gpus-and-services-for-generative-ai-inferencing/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/03/21/nvidia-launches-new-gpus-and-services-for-generative-ai-inferencing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 424,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641a1edc5df0ce1a2b4b2898/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/03/21/nvidia-launches-new-gpus-and-services-for-generative-ai-inferencing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/03/21/nvidia-launches-new-gpus-and-services-for-generative-ai-inferencing/amp/",
+      "publishedDateTime": "2023-03-21T15:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-google-asks-london-court-to-throw-out-lawsuit-over-medical-records.md",
+      "title": "Google asks London court to throw out lawsuit over medical records",
+      "excerpt": "Google and DeepMind were sued last year for alleged misuse of private information. (Unsplash pic) LONDON: Google asked London’s High Court on Tuesday to throw out a lawsuit brought on behalf of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freemalaysiatoday.com/category/business/2023/03/22/google-asks-london-court-to-throw-out-lawsuit-over-medical-records/",
+      "originalUrl": "https://www.freemalaysiatoday.com/category/business/2023/03/22/google-asks-london-court-to-throw-out-lawsuit-over-medical-records/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-21T15:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Free Malaysia Today",
+        "domain": "freemalaysiatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-machine-learning-in-manufacturing-market-global-strategic-business-report-2031.md",
+      "title": "Machine Learning in Manufacturing Market : Global Strategic Business Report 2031",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 21, 2023 (The Expresswire) -- “Machine Learning in Manufacturing Market” information for each competitor includes [ NVIDIA, Dell Inc., Oracle Corporation, SAS ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-global-strategic-business-report-2031-2023-03-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-global-strategic-business-report-2031-2023-03-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-21T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-milvus-23-massively-accelerates-ai-powered-applications-with-nvidia-gpu-support.md",
+      "title": "Milvus 2.3 Massively Accelerates AI-Powered Applications With NVIDIA GPU Support",
+      "excerpt": "Purpose-built for AI-powered applications, Milvus stores, indexes and manages billions of embedding vectors generated by large language models (LLMs), convolutional networks and other machine learning (ML) models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-milvus-23-massively-accelerates-ai-powered-applications-with-/2023/03/21/9780939.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-milvus-23-massively-accelerates-ai-powered-applications-with-/2023/03/21/9780939.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-21T13:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-nvidia-eases-the-complexity-of-robot-training.md",
       "title": "NVIDIA Eases The Complexity Of Robot Training",
       "excerpt": "GPU market leader NVIDIA is holding its virtual GPU Technology Conference (GTC). Over the years, GTC has evolved from a graphics and gaming show to an industry event dedicated to all things artificial intelligence (AI).",
@@ -906,302 +1164,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser.md",
-      "title": "Nvidia’s DGX Cloud brings AI supercomputing to enterprises via a web browser",
-      "excerpt": "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More Nvidia announced today at its annual GPU Technology Conference (GTC) that it’s now offering a service that will ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/",
-      "originalUrl": "https://venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/VB_nvidia_DGX-cloud_032123.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 647,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/amp/",
-      "publishedDateTime": "2023-03-21T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-google-says-its-bard-generative-chat-ai-is-out-launches-waitlist.md",
-      "title": "Google says its “Bard” generative chat AI is out, launches waitlist",
-      "excerpt": "Microsoft has been criticized for taking a very aggressive stance toward rolling out AI, even cutting its AI ethics team. Google is trying to paint itself as more cautious, saying, \"Our work on Bard is guided by our AI Principles, and we continue to focus ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/03/google-says-its-bard-generative-chat-ai-is-out-launches-waitlist/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/03/google-says-its-bard-generative-chat-ai-is-out-launches-waitlist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/google-800x523.jpg",
-          "width": 760,
-          "height": 388,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/03/google-says-its-bard-generative-chat-ai-is-out-launches-waitlist/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/03/google-says-its-bard-generative-chat-ai-is-out-launches-waitlist/amp/",
-      "publishedDateTime": "2023-03-21T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-a-copyright-battle-over-ai-generated-art-will-begin-in-colorado.md",
-      "title": "A copyright battle over AI-generated art will begin in Colorado",
-      "excerpt": "(Photo by RJ Sangosti/The Denver Post) But while Allen is litigating his case with the public, AI is continuing to evolve in unexpected ways. “There are so many unanswered questions regarding the ethics, legality, and societal impact that will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fortmorgantimes.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/",
-      "originalUrl": "https://www.fortmorgantimes.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fortmorgantimes.com/wp-content/uploads/2023/03/TDP-L-Artificial-Intelligence-Art-RJS-01064.jpg?w=1024&h=700",
-          "width": 1024,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fortmorgantimes.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/amp/",
-      "cdnAmpWebUrl": "https://www-fortmorgantimes-com.cdn.ampproject.org/c/s/www.fortmorgantimes.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/amp/",
-      "publishedDateTime": "2023-03-21T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fort Morgan Times",
-        "domain": "fortmorgantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-ai-news-roundup-ai-advancements-google-and-microsoft-germanys-healthcare-robots-and-ai-in-the-workplace.md",
-      "title": "AI News Roundup | AI Advancements: Google and Microsoft, Germany's healthcare robots, and AI in the workplace",
-      "excerpt": "Google, Microsoft aim to increase productivity through AI integration in popular productivity apps. Google and Microsoft are on a mission to remove the drudgery from computing, by",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/ai-news-roundup-ai-advancements-google-and-microsoft-germanys-healthcare-robots-and-ai-in-the-workplace-10287821.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/ai-news-roundup-ai-advancements-google-and-microsoft-germanys-healthcare-robots-and-ai-in-the-workplace-10287821.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/03/9-garmi-robot-in-germany.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/ai-news-roundup-ai-advancements-google-and-microsoft-germanys-healthcare-robots-and-ai-in-the-workplace-10287821.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/ai-news-roundup-ai-advancements-google-and-microsoft-germanys-healthcare-robots-and-ai-in-the-workplace-10287821.html/amp",
-      "publishedDateTime": "2023-03-21T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-how-ai-is-saving-homes-and-lives-in-california-during-wildfire-season.md",
-      "title": "How AI is saving homes and lives in California during wildfire season",
-      "excerpt": "From fire detection and predictive analysis to evaluation of vegetation moisture levels, AI has assumed center stage in California's fight against seasonal wildfires.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-ai-is-saving-homes-and-lives-in-california-during-wildfire-season/",
-      "originalUrl": "https://www.zdnet.com/article/how-ai-is-saving-homes-and-lives-in-california-during-wildfire-season/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/6bceca88c0c7464f0c2a5fb16920f95e858be61f/2023/03/20/26ed3479-b94e-402a-a086-efed13a034a2/ucsd-supercomputer-center.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-ai-is-saving-homes-and-lives-in-california-during-wildfire-season/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-is-saving-homes-and-lives-in-california-during-wildfire-season/",
-      "publishedDateTime": "2023-03-21T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-samsungs-new-ultra-wideband-chip-gives-phones-distance-measuring-down-to-the-centimeter.md",
-      "title": "Samsung's new ultra-wideband chip gives phones distance measuring down to the centimeter",
-      "excerpt": "The new U100 chipset is developed by Exynos Connect, a sub-brand that will encompass ultra-wideband, Bluetooth, and Wi-Fi chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/samsungs-new-ultra-wideband-chip-gives-phones-distance-measuring-down-to-the-centimeter/",
-      "originalUrl": "https://www.zdnet.com/article/samsungs-new-ultra-wideband-chip-gives-phones-distance-measuring-down-to-the-centimeter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/cb4da1407d713ecef6c2450314bfe515a9f4af1f/2023/02/03/fa190d0d-f002-4055-b77c-f43d5b59ff7c/samsung-galaxy-s23-ultra-display-5.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/samsungs-new-ultra-wideband-chip-gives-phones-distance-measuring-down-to-the-centimeter/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsungs-new-ultra-wideband-chip-gives-phones-distance-measuring-down-to-the-centimeter/",
-      "publishedDateTime": "2023-03-21T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

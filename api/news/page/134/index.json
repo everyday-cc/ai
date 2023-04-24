@@ -2,6 +2,246 @@
   "page": 134,
   "value": [
     {
+      "path": "_news/2023-01-02-tcs-wipro-indusnet-teams-win-microsofts-coding-hackathon.md",
+      "title": "TCS, Wipro, Indusnet Teams Win Microsoft's Coding Hackathon",
+      "excerpt": "Microsoft India on Monday announced the top three winning teams of the coding hackathon, shortlisted based on their innov",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105374526/TCS-Wipro-Indusnet-Teams-Win-Microsofts-Coding-Hackathon",
+      "originalUrl": "https://menafn.com/1105374526/TCS-Wipro-Indusnet-Teams-Win-Microsofts-Coding-Hackathon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-01T23:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-02-gamification-ar-will-change-e-learning-in-2023.md",
+      "title": "Gamification, AR will change e-learning in 2023",
+      "excerpt": "“Emerging technologies such as artificial intelligence, machine learning, blockchain and robotics ... edtech players will have to design programmes and services to suit the learners ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/education-2/metaverse-ar-gamification/2933646/",
+      "originalUrl": "https://www.financialexpress.com/education-2/metaverse-ar-gamification/2933646/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/01/AVGC.png",
+          "width": 2384,
+          "height": 1536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/education-2/metaverse-ar-gamification/2933646/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/metaverse-ar-gamification/2933646/lite/",
+      "publishedDateTime": "2023-01-01T20:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-01-goodbye-google-welcome-ai.md",
+      "title": "Goodbye Google? Welcome AI",
+      "excerpt": "When was the last time you visited the library for research?For me, it was a few years ago near Barcelona, Spain, because it was snowing outside,",
+      "sourceUrl": null,
+      "webUrl": "https://www.omanobserver.om/article/1130600/opinion/oman/goodbye-google-welcome-ai",
+      "originalUrl": "https://www.omanobserver.om/article/1130600/opinion/oman/goodbye-google-welcome-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.omanobserver.om/ampArticle/1130600",
+      "cdnAmpWebUrl": "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1130600",
+      "publishedDateTime": "2023-01-01T07:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "omanobserver",
+        "domain": "omanobserver.om",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-01-top-10-ai-articles-from-2022-to-pump-up-your-ai-leadership-skills-in-2023.md",
+      "title": "Top 10 AI Articles From 2022 To Pump Up Your AI Leadership Skills In 2023",
+      "excerpt": "This article is a series of Dr. Cindy Gordon's top ten articles written on AI designed to advance AI knowledge for board directors, C-level executives - always with an ethical AI foundation for advancing #ResponsibleAI and #TrustedAI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/12/31/top-10-ai-articles-from-2022-to-pump-up-your-ai-leadership-skills-in-2023/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/12/31/top-10-ai-articles-from-2022-to-pump-up-your-ai-leadership-skills-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-31T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-31-baidu-ponyai-start-driverless-robotaxi-tests-in-beijing.md",
+      "title": "Baidu, Pony.ai start driverless robotaxi tests in Beijing",
+      "excerpt": "Baidu Inc and Toyota Motor Corp-backed startup Pony. ai said on Friday (Dec 30) they been granted the first licences to test fully autonomous vehicles without safety operators as a backup in Beijing.Baidu and Pony.",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/china/baidu-ponyai-start-driverless-robotaxi-tests-beijing",
+      "originalUrl": "https://www.asiaone.com/china/baidu-ponyai-start-driverless-robotaxi-tests-beijing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Dec2022/311222_baidu_reuters.jpg?itok=JlijPujX",
+          "width": 800,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-30T18:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-31-baidu-gets-license-for-driverless-robotaxi-tests-in-china.md",
+      "title": "Baidu gets license for driverless robotaxi tests in China",
+      "excerpt": "Baidu would begin testing 10 fully autonomous vehicles in a technology park developed by the government of Beijing as a step toward offering a commercial robotaxi service in China’s capital.",
+      "sourceUrl": null,
+      "webUrl": "https://auto.hindustantimes.com/auto/news/baidu-gets-license-for-driverless-robotaxi-tests-in-china-41672378062359.html",
+      "originalUrl": "https://auto.hindustantimes.com/auto/news/baidu-gets-license-for-driverless-robotaxi-tests-in-china-41672378062359.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/auto/img/2022/12/30/1600x900/BAIDU-autonomous_vehicle_robotaxi_1672378130428_1672378130547_1672378130547.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/baidu-gets-license-for-driverless-robotaxi-tests-in-china/amp-41672378062359.html",
+      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/baidu-gets-license-for-driverless-robotaxi-tests-in-china/amp-41672378062359.html",
+      "publishedDateTime": "2022-12-30T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Auto News India",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-30-chatty-ai-and-protein-predicting-algorithm-defined-the-year-in-emerging-tech.md",
       "title": "Chatty AI and Protein-Predicting Algorithm Defined the Year in Emerging Tech",
       "excerpt": "Amid tough market conditions, technology developers continued to make important strides in 2022, offering a glimpse of digital capabilities that are poised to transform entire industries in the years ahead.",
@@ -773,263 +1013,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-26-please-slow-downthe-7-biggest-ai-stories-of-2022.md",
-      "title": "“Please slow down”—The 7 biggest AI stories of 2022",
-      "excerpt": "More than once this year, AI experts have repeated a familiar refrain: \"Please slow down.\" AI news in 2022 has been rapid-fire and relentless; the moment you knew where things currently stood in AI, a new paper or discovery would make that understanding obsolete.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/12/please-slow-down-the-7-biggest-ai-stories-of-2022/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/12/please-slow-down-the-7-biggest-ai-stories-of-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-26T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-26-voice-is-the-next-frontier-for-conversational-ai-a-critical-functionality-but-challenging-to-master.md",
-      "title": "Voice Is The Next Frontier For Conversational AI, A Critical Functionality But Challenging To Master",
-      "excerpt": "Even with 5 billion people worldwide in possession of a phone, high-quality support via voice channels will be a must-have long into the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/26/voice-is-the-next-frontier-for-conversational-ai-a-critical-functionality-but-challenging-to-master/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/26/voice-is-the-next-frontier-for-conversational-ai-a-critical-functionality-but-challenging-to-master/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-26T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-26-why-google-is-donating-usd-1-million-to-wadhwani-institute-for-artificial-intelligence-watch-video-to-know.md",
-      "title": "Why Google is Donating USD 1 Million To Wadhwani Institute for Artificial Intelligence? Watch Video To Know",
-      "excerpt": "This is to build the world’s first AI-driven project that uses technologies such as natural language processing, computer vision, and machine learning in the agriculture sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.india.com/video-gallery/why-google-is-donating-usd-1-million-to-wadhwani-institute-for-artificial-intelligence-watch-video-to-know-5824322/",
-      "originalUrl": "https://www.india.com/video-gallery/why-google-is-donating-usd-1-million-to-wadhwani-institute-for-artificial-intelligence-watch-video-to-know-5824322/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-26T04:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India.com",
-        "domain": "india.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-12-26-unlock-next-level-intelligence-and-transform-your-business-with-generative-ai.md",
-      "title": "Unlock Next-Level Intelligence And Transform Your Business With Generative AI",
-      "excerpt": "Don’t just adopt the latest technology to keep up with the competition. If you plan and do your research, you can get the most out of what Generative AI has to offer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/26/unlock-next-level-intelligence-and-transform-your-business-with-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/26/unlock-next-level-intelligence-and-transform-your-business-with-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-26T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-12-26-what-we-get-wrong-about-artificial-intelligence-and-machine-learning.md",
-      "title": "What we get wrong about artificial intelligence and machine learning",
-      "excerpt": "AI, or Artificial intelligence, is probably the most advertised term in the 21st century. Despite there being a lot of buzz around it, most people have never understood what it is all about.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mid-day.com/brand-media/article/what-we-get-wrong-about-artificial-intelligence-and-machine-learning-23262404",
-      "originalUrl": "https://www.mid-day.com/brand-media/article/what-we-get-wrong-about-artificial-intelligence-and-machine-learning-23262404",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mid-day.com/images/images/2022/dec/Vivek-Hariharan2_d.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mid-day.com/amp/brand-media/article/what-we-get-wrong-about-artificial-intelligence-and-machine-learning-23262404",
-      "cdnAmpWebUrl": "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/brand-media/article/what-we-get-wrong-about-artificial-intelligence-and-machine-learning-23262404",
-      "publishedDateTime": "2022-12-26T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mid Day",
-        "domain": "mid-day.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-26-ai-and-machine-learning-in-the-workplace-preparing-for-2023.md",
-      "title": "AI And Machine Learning In The Workplace: Preparing For 2023",
-      "excerpt": "The Equal Employment Opportunity Commission (EEOC) has been particularly active through its EEOC initiative on AI and algorithmic fairness and its joint HIRE initiative with the U",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2022/12/26/ai-and-machine-learning-in-the-workplace-preparing-for-2023/",
-      "originalUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2022/12/26/ai-and-machine-learning-in-the-workplace-preparing-for-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63a5cb98fd043c3b6bcc732b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2022/12/26/ai-and-machine-learning-in-the-workplace-preparing-for-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesnonprofitcouncil/2022/12/26/ai-and-machine-learning-in-the-workplace-preparing-for-2023/amp/",
-      "publishedDateTime": "2022-12-26T02:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

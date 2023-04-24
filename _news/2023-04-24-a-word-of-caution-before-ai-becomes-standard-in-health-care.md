@@ -8,9 +8,9 @@ webUrl: "https://thehill.com/opinion/healthcare/3965108-a-word-of-caution-before
 ampWebUrl: "https://thehill.com/opinion/healthcare/3965108-a-word-of-caution-before-ai-becomes-standard-in-healthcare/amp/"
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/healthcare/3965108-a-word-of-caution-before-ai-becomes-standard-in-healthcare/amp/"
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: The Hill
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://thehill.com/wp-content/uploads/sites/2/2023/04/artificial_intelligence_AI_healthcare-01072023_AP_.jpg?w=1280"
@@ -26,6 +27,24 @@ images:
     height: 719
     isCached: true
 
-secured: "bUHug7vjTQY0R11b0Z8oYoIwdBrkrTVKNjuTcE9RndEQ+DPwyZ5cDYhb3CA+9lAmmIX7iV8Py20i+xC5MwGxDvrzxjZ0bsSJPjmsZYgvhPCP/nKwB/VHn5wcIPHgCN6mrl79CXGLyGIrSRhnl3xlboSpcFdZ69CtQHBeIGMaqJ+0Ngw05VTKJVAyk+hsZYy55pFLpMSP3RSyV94FSkZasrSR9/l9/5u9JNyK3yLSPcsDSYvxst9+MYT+spwyyqCVyT3Av9BC0CzCs1Uc07Z0/xVouhkcXPCeygeu23xej8Gdw8pE4rLJ47RlCd/oBX5Y0cOm/1vj9yV7uJ9vTvSGXbQd2GDuCJsKW6RU9lr6qO0=;PylRRF/YpRiGtE2HjclzpA=="
+related:
+  - title: "Toronto scientist gets big award to study artificial intelligence in health care"
+    excerpt: "Amazon just awarded a Toronto-based researcher $85,000 to study the consequences of implementing artificial intelligence in health care."
+    publishedDateTime: 2023-04-24T16:39:00Z
+    webUrl: "https://toronto.ctvnews.ca/toronto-scientist-gets-big-award-to-study-artificial-intelligence-in-health-care-1.6368729"
+    ampWebUrl: "https://beta.ctvnews.ca/local/toronto/2023/4/24/1_6368729.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/toronto/2023/4/24/1_6368729.amp.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 54
+    images:
+      - url: "https://beta.ctvnews.ca/local/toronto/2023/4/24/1_6368729/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 1020
+        height: 573
+        isCached: true
+
+secured: "murx7GwaKzd/G0BlnQInWhLXMvDgg6IgmDCZz4K9YI2VtVEJEIb267mURCLw0LwUvAqub+4n+yJmo6ilsIy/HX68vcDO2TKWdEOrokuDcKjLeJ8yJg/OmCcGf+fvSb99TdZWo2jrvzYjLsC/0qD48Dj7cPslFk0Aori3snqWHIPf6qeOpqevIAxq3W9VJikwwnFKaLOZ5zk6rpZthwuRhR7nsK8PaKxW8Sh9VM7k2trs+kJ7jvCZ49e1bI9ZQfd9vnwftR4rCWu3b1gFiP+7xb16vu+hKomxGeFD695kxFEJm3LIsFeGzRhwJOA9Sv4qceFVaJsyyGy7wFw5nDyRDxpJgPfdAkYb3GoNHyYCwI2PPQ8nC/2jqnwUWojo4n5W9e0lgPlGm1fZxzBie1TbFqhpyYFNibcCY+MxMUL1K6Dfl0ocADxI4n6vkbcPXh9WmcrxQkbLkwLSERVRwVvyE30T17LhM4BVoq3ix4blfYZ23agQYvEpnGI74o3Uvlx1FkrskGgFspjrFpimCcPvXw==;UbrLF4jRxovi6NEZX5Ketw=="
 ---
 

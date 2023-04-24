@@ -99,6 +99,20 @@ related:
         width: 1500
         height: 841
         isCached: true
+  - title: "The era of AI: How the Microsoft Cloud is accelerating AI transformation across industries"
+    excerpt: "This past quarter has put a spotlight on advancements in generative AI, and the possibilities of its application to deliver pragmatic business outcomes. For organizations around the world, there is incredible opportunity to enhance products and services while unlocking innovation and business value to help shape the future of industry."
+    publishedDateTime: 2023-04-24T15:11:00Z
+    webUrl: "https://blogs.microsoft.com/blog/2023/04/24/the-era-of-ai-how-the-microsoft-cloud-is-accelerating-ai-transformation-across-industries/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 44
+    images:
+      - url: "https://blogs.microsoft.com/wp-content/uploads/prod/2023/04/Hero-image-April-24-1024x540.jpg"
+        width: 1024
+        height: 540
+        isCached: true
   - title: "AI Is Coming for Wealth Management. Here’s What That Means"
     excerpt: "AI will allow the client to access an incredible amount of information and ask questions in a language that the client is comfortable with and receive answers. For practitioners, the limitation it will have will be in researching what is happening today with that company,"
     publishedDateTime: 2023-04-24T13:33:00Z

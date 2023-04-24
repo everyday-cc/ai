@@ -43,20 +43,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Anchorage Assembly restricts city use of facial recognition technology"
-    excerpt: "Assembly members said the legislation is meant to protect privacy rights of residents and staff and guard against misuse of the technology for surveillance. Anchorage police currently do not use facial recognition,"
-    publishedDateTime: 2023-04-19T23:55:00Z
-    webUrl: "https://www.adn.com/alaska-news/anchorage/2023/04/19/anchorage-assembly-restricts-city-use-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Alaska Dispatch News
-      domain: adn.com
-    quality: 39
-    images:
-      - url: "https://www.adn.com/resizer//JlJqZb7e_3uAJMFy2MslBdKxd-8=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/GDKTA7DILVCJRCBWX4YHCKST5Q.JPG"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "We need to have a major debate about facial recognition technology before gardaí can use it"
     excerpt: "First of all, let’s be clear on what we’re talking about. Facial recognition technology (FRT) is a system capable of matching a human face from a digital image or a video frame against a database of faces. Many of us have it enabled as a security ..."
     publishedDateTime: 2023-04-24T01:35:00Z

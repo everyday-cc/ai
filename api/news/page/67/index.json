@@ -2,6 +2,272 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2023-02-18-should-government-leaders-have-to-pass-cognitive-tests-to-stay-in-office.md",
+      "title": "Should government leaders have to pass cognitive tests to stay in office?",
+      "excerpt": "Nikki Haley, as part of launching her campaign to become the next Republican presidential candidate, believes it should be mandatory for politicians older than 75 to take mental and cognitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://mynorthwest.com/3830107/haley-government-leaders-cognitive-tests-stay-office/",
+      "originalUrl": "https://mynorthwest.com/3830107/haley-government-leaders-cognitive-tests-stay-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mynorthwest.com/wp-content/uploads/2023/02/Untitled-design-84.png",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mynorthwest.com/3830107/haley-government-leaders-cognitive-tests-stay-office/amp/",
+      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3830107/haley-government-leaders-cognitive-tests-stay-office/amp/",
+      "publishedDateTime": "2023-02-17T19:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyNorthwest.com",
+        "domain": "mynorthwest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-mtp-now-feb-17-new-uncertainty-on-artificial-intelligence-trump-and-desantis-outpace-2024-field.md",
+      "title": "MTP NOW Feb. 17 — New uncertainty on artificial intelligence; Trump and DeSantis outpace 2024 field",
+      "excerpt": "Congressional leaders look to regulate artificial intelligence. Former President Trump and Florida Governor Ron DeSantis maintain their lead in the Republican presidential field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/mtp-now-feb-17-new-uncertainty-on-artificial-intelligence-trump-and-desantis-outpace-2024-field-163593285549",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/mtp-now-feb-17-new-uncertainty-on-artificial-intelligence-trump-and-desantis-outpace-2024-field-163593285549",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_02/1676673432843_now_mtp_netcast_230217_1920x1080-i41iku.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo163593285549",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo163593285549",
+      "publishedDateTime": "2023-02-17T14:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-google-cloud-flex-agreements-woo-users-during-a-slowdown-in-demand.md",
+      "title": "Google Cloud Flex Agreements woo users during a slowdown in demand",
+      "excerpt": "Google Cloud Flex Agreements offer the option to migrate enterprise workloads with no up-front commitments, and provide access to free storage, compute and network services such as Spanner, BigQuery,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3688571/google-cloud-flex-agreements-woo-users-during-a-slowdown-in-demand.html",
+      "originalUrl": "https://www.infoworld.com/article/3688571/google-cloud-flex-agreements-woo-users-during-a-slowdown-in-demand.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/02/p1200740-100709411-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3688571/google-cloud-flex-agreements-woo-users-during-a-slowdown-in-demand.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3688571/google-cloud-flex-agreements-woo-users-during-a-slowdown-in-demand.amp.html",
+      "publishedDateTime": "2023-02-17T14:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-breakthroughs-in-artificial-intelligence-mean-new-work-for-congress.md",
+      "title": "Breakthroughs in artificial intelligence mean new work for Congress",
+      "excerpt": "NBC News Senior Congressional correspondent Scott Wong and New York Times technology columnist Kevin Roose join Meet the Press NOW to discuss new frontiers in artificial intelligence and potential congressional regulation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/breakthroughs-in-artificial-intelligence-mean-new-work-for-congress-163587653969",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/breakthroughs-in-artificial-intelligence-mean-new-work-for-congress-163587653969",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_02/1676669735310_now_mtp_clip_reporters_230217_1920x1080-oxeywa.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo163587653969",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo163587653969",
+      "publishedDateTime": "2023-02-17T13:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-top-trends-in-robotics-in-2023.md",
+      "title": "Top trends in robotics in 2023",
+      "excerpt": "The easy-to-use software paired with an intuitive user experience replaces extensive robotics programming and opens up new robotics automation opportunities: Software start-ups are ... 4 – Artificial Intelligence and digital automation Propelled by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.logisticsmgmt.com/article/top_trends_in_robotics_in_2023",
+      "originalUrl": "https://www.logisticsmgmt.com/article/top_trends_in_robotics_in_2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.scmr.com/images/2021_article/Top_5_robotic_trends_in_2023.jpg",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-17T13:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Logistics Management",
+        "domain": "logisticsmgmt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-chuck-todd-are-we-ready-for-a-potential-brave-new-world-of-ai.md",
+      "title": "Chuck Todd: 'Are we ready for a potential brave new world of AI?'",
+      "excerpt": "Lawmakers raise concerns over the spread of unregulated artificial intelligence, which can lead to false narratives and misinformation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/chuck-todd-are-we-ready-for-a-potential-brave-new-world-of-ai-163587653890",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/chuck-todd-are-we-ready-for-a-potential-brave-new-world-of-ai-163587653890",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_02/1676669539349_now_mtp_clip_a1_20230217_1920x1080-sl7r74.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo163587653890",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo163587653890",
+      "publishedDateTime": "2023-02-17T13:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-18-as-interest-in-ai-surges-check-out-this-etf.md",
       "title": "As Interest in AI Surges, Check Out This ETF",
       "excerpt": "Investor interest in artificial intelligence (AI) is surging this year. Just as previously hot segments of tech like social media and",
@@ -903,318 +1169,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-the-future-of-us-semiconductor-manufacturing-requires-more-than-just-chips.md",
-      "title": "The Future Of U.S. Semiconductor Manufacturing Requires More Than Just Chips",
-      "excerpt": "New models of collaboration that encourage increased cooperation across this electronics manufacturing innovation ecosystem are exactly what is needed to solve a multitude of semiconductor supply-chain problems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/17/the-future-of-us-semiconductor-manufacturing-requires-more-than-just-chips/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/17/the-future-of-us-semiconductor-manufacturing-requires-more-than-just-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/625d802e8acf449b7b041341/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/17/the-future-of-us-semiconductor-manufacturing-requires-more-than-just-chips/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/17/the-future-of-us-semiconductor-manufacturing-requires-more-than-just-chips/amp/",
-      "publishedDateTime": "2023-02-17T02:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-meta-media-shares-surge-201-on-adrian-chengs-appointment-and-baidu-ai-partnership.md",
-      "title": "Meta Media Shares Surge 201% On Adrian Cheng’s Appointment And Baidu AI Partnership",
-      "excerpt": "Meta Media Holdings’ stock skyrocketed more than 201% over the past week after the Chinese media company appointed Adrian Cheng as a co-chairman and announced a partnership with the ChatGPT-like bot developed by Chinese search giant Baidu.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zinnialee/2023/02/17/meta-media-shares-surge-201-on-adrian-chengs-appointment-and-baidu-ai-partnership/",
-      "originalUrl": "https://www.forbes.com/sites/zinnialee/2023/02/17/meta-media-shares-surge-201-on-adrian-chengs-appointment-and-baidu-ai-partnership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ef5cb0e757255840ed2985/0x0.jpg?format=jpg&crop=1066,711,x0,y231,safe&width=1200",
-          "width": 1066,
-          "height": 711,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zinnialee/2023/02/17/meta-media-shares-surge-201-on-adrian-chengs-appointment-and-baidu-ai-partnership/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zinnialee/2023/02/17/meta-media-shares-surge-201-on-adrian-chengs-appointment-and-baidu-ai-partnership/amp/",
-      "publishedDateTime": "2023-02-17T01:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-how-many-people-have-actually-been-killed-by-self-driving-cars.md",
-      "title": "How Many People Have Actually Been Killed By Self-Driving Cars?",
-      "excerpt": "When it comes to self-driving cars, the Society of Automotive Engineers recognizes six levels of autonomous driving: from level 0, at which a vehicle has no driver assistance of any kind ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/1202594/how-many-people-have-actually-been-killed-by-self-driving-cars/",
-      "originalUrl": "https://www.slashgear.com/1202594/how-many-people-have-actually-been-killed-by-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/how-many-people-have-actually-been-killed-by-self-driving-cars/l-intro-1676585301.jpg",
-          "width": 1600,
-          "height": 898,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T23:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-2023-machine-learning-chip-market-maximize-growth-potential-and-increasing-demand-forecast-to-2029.md",
-      "title": "2023 Machine Learning Chip Market: Maximize Growth Potential and Increasing Demand Forecast to 2029",
-      "excerpt": "The “Machine Learning Chip Market” Research Report 2023-2029 | Latest 111 Pages Report | It throws light on competitive",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-machine-learning-chip-market-maximize-growth-potential-and-increasing-demand-forecast-to-2029-2023-02-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-machine-learning-chip-market-maximize-growth-potential-and-increasing-demand-forecast-to-2029-2023-02-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T22:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-self-driving-car-could-end-traffic-light-need-says-firm-involved-in-trial.md",
-      "title": "Self-driving car could end traffic light need, says firm involved in trial",
-      "excerpt": "It follows a trial where two self-driving electric cars were tested in Woolwich, south-east London. Transport minister Jesse Norman said it had helped answer \"practical questions\" about integrating self-driving vehicles into cities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-england-london-64664549.amp",
-      "originalUrl": "https://www.bbc.com/news/uk-england-london-64664549.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/21C5/production/_128654680_5291364373b5744b4612a080ab6c07e5252e7884.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-england-london-64664549.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-london-64664549.amp",
-      "publishedDateTime": "2023-02-16T22:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-artificial-intelligence-in-drug-discovery-market-worth-895-billion-by-2030.md",
-      "title": "Artificial Intelligence in Drug Discovery Market Worth $8.95 Billion by 2030",
-      "excerpt": "Meticulous Research(R)--a leading global market research company, published a research report titled, Artificial",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-worth-895-billion-by-2030-2023-02-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-worth-895-billion-by-2030-2023-02-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T21:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

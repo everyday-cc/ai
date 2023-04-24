@@ -2,6 +2,318 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-21-bard-now-helps-you-code.md",
+      "title": "Bard now helps you code",
+      "excerpt": "Bard can now help with programming and software development tasks, across more than 20 programming languages.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/code-with-bard/",
+      "originalUrl": "https://blog.google/technology/ai/code-with-bard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/9_Bard_Coding_Social_Share_Still_Blog_Social_.width-1300.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/code-with-bard/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/code-with-bard/amp/",
+      "publishedDateTime": "2023-04-21T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-the-cfo-at-the-forefront-of-innovation.md",
+      "title": "The CFO: at the forefront of innovation",
+      "excerpt": "Historically, the Chief Financial Officer (CFO) role had been strictly focused on accounting for financial information. These days, there&#8217;s a need &#8212; and even some pressure &#8212; for CFOs to evolve their scope and influence the innovation agenda within their enterprises. For starters, they",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-cfo-at-the-forefront-of-innovation/",
+      "originalUrl": "https://www.ibm.com/blog/the-cfo-at-the-forefront-of-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/Screenshot-2023-04-20-at-5.45.24-PM.png",
+          "width": 1940,
+          "height": 1170,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-artificial-intelligence-for-accounting-market-global-trends-and-prospects-2023.md",
+      "title": "Artificial Intelligence for Accounting Market: Global Trends and Prospects 2023",
+      "excerpt": "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-global-trends-and-prospects-2023-2023-04-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-global-trends-and-prospects-2023-2023-04-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-the-best-shows-on-amazon-prime-right-now-april-2023.md",
+      "title": "The best shows on Amazon Prime right now (April 2023)",
+      "excerpt": "Follow her on Twitter @christinetechCA. If you’ve been searching for some of the greatest horror movies you can stream, Amazon Prime Video has got you covered. Home to hundreds of chilling ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/",
+      "originalUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/04/dead-ringers-prime-video.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-shows-on-amazon-prime/?amp",
+      "publishedDateTime": "2023-04-21T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-facial-recognition-is-expanding-its-watchful-eye-but-suffers-from-notable-fails.md",
+      "title": "Facial recognition is expanding its watchful eye but suffers from notable fails",
+      "excerpt": "Various police departments and businesses in the U.S. are increasingly using facial recognition as a security measure, but has been hit with notable criticisms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/facial-recognition-expanding-watchful-eye-suffers-notable-fails",
+      "originalUrl": "https://www.foxnews.com/tech/facial-recognition-expanding-watchful-eye-suffers-notable-fails",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e702dcb0-2ff1-4895-96a1-af55176105b0/298264ac-cd74-457f-913c-021026f36032/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/facial-recognition-expanding-watchful-eye-suffers-notable-fails.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/facial-recognition-expanding-watchful-eye-suffers-notable-fails.amp",
+      "publishedDateTime": "2023-04-20T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-israel-leads-with-early-ai-battlefield-integration-the-future-of-defense-systems.md",
+      "title": "Israel leads with early AI battlefield integration: 'The future of defense systems'",
+      "excerpt": "Artificial intelligence has existed in some form over the past few decades, but only recently has it reached the level of potentially disrupting economic and social systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/world/israel-leads-early-ai-battlefield-integration-future-defense-systems",
+      "originalUrl": "https://www.foxnews.com/world/israel-leads-early-ai-battlefield-integration-future-defense-systems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d7475860-cb58-4b4b-ad40-e7b4075c8e33/3f4696d9-bca5-42aa-8098-7dc1bdfe3720/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/world/israel-leads-early-ai-battlefield-integration-future-defense-systems.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/israel-leads-early-ai-battlefield-integration-future-defense-systems.amp",
+      "publishedDateTime": "2023-04-20T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-21-womans-bowel-cancer-spotted-by-artificial-intelligence.md",
       "title": "Woman's bowel cancer spotted by artificial intelligence",
       "excerpt": "The Colo-Detect study uses AI to flag up areas of concern during colonoscopies A woman who was part of a study using artificial intelligence (AI) to detect bowel cancer is free of the disease after it was found and removed.",
@@ -521,7 +833,7 @@
       "originalUrl": "https://news.sky.com/story/pensions-pressure-electric-cars-and-ai-ethics-12861867?dcmp=snt-sf-twitter",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -953,319 +1265,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-aws-matterport-partnership-enhances-digital-twins-with-joint-dashboard.md",
-      "title": "AWS, Matterport partnership enhances digital twins with joint dashboard",
-      "excerpt": "New integrations expand on Matterport spatial data service for AWS IoT TwinMaker. Image: Funtap/Adobe Stock Organizations using Matterport for spatial data can now view it on the same dashboard as AWS IoT TwinMaker data with a new integration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/matterport-aws-iot-twin-maker-dashboard/",
-      "originalUrl": "https://www.techrepublic.com/article/matterport-aws-iot-twin-maker-dashboard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/04/tr41923-internetofthings.jpeg",
-          "width": 1400,
-          "height": 1044,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/matterport-aws-iot-twin-maker-dashboard/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/matterport-aws-iot-twin-maker-dashboard/amp/",
-      "publishedDateTime": "2023-04-19T23:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-amazon-and-microsoft-vets-raise-10m-for-computer-vision-startup-used-in-warehouses.md",
-      "title": "Amazon and Microsoft vets raise $10M for computer vision startup used in warehouses",
-      "excerpt": "A new Seattle startup wants to make it easier for businesses to monitor their warehouses using artificial intelligence and computer vision technologies. Groundlight emerged from stealth Wednesday, unveiling its",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/amazon-and-microsoft-vets-raise-10m-for-computer-vision-startup-used-in-warehouses/",
-      "originalUrl": "https://www.geekwire.com/2023/amazon-and-microsoft-vets-raise-10m-for-computer-vision-startup-used-in-warehouses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/04/leo-avi.jpg",
-          "width": 3053,
-          "height": 1977,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-best-indian-artificial-intelligence-stocks-2023.md",
-      "title": "Best Indian Artificial Intelligence Stocks 2023",
-      "excerpt": "While investing in the stock market, veteran experts often advise investment in futuristic stocks that have a solid market share and the potential to provide significant gains over a long period of time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/in/investing/best-indian-ai-stocks/",
-      "originalUrl": "https://www.forbes.com/advisor/in/investing/best-indian-ai-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/04/pexels-alex-knight-2599244-1-scaled.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-self-driving-investment-crash-58-drop-in-autonomous-vehicle-dollars.md",
-      "title": "Self-Driving Investment Crash: 58% Drop In Autonomous Vehicle Dollars",
-      "excerpt": "In 2021, investors poured a record $9.7 billion into autonomous vehicle development. Last year however, that dropped by almost 60% to just $4.1 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2023/04/19/self-driving-investment-crash-58-drop-in-autonomous-vehicle-dollars/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/04/19/self-driving-investment-crash-58-drop-in-autonomous-vehicle-dollars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64406323e0d582303d1e5605/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2023/04/19/self-driving-investment-crash-58-drop-in-autonomous-vehicle-dollars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/04/19/self-driving-investment-crash-58-drop-in-autonomous-vehicle-dollars/amp/",
-      "publishedDateTime": "2023-04-19T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies.md",
-      "title": "Reddit will start charging some users for API access -- bad news for AI companies",
-      "excerpt": "Reddit is now putting a halt to that, announcing on Tuesday that it will begin to charge big businesses for Reddit API data access. The social networking platform added a new \"premium access point\" for third party users who require \"additional capabilities, higher usage limits, and broader usage rights,\" according to the announcement .",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies/",
-      "originalUrl": "https://www.zdnet.com/article/reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/52aff004391e33410e3a1b98a157bd0bb2d02fec/2023/04/19/813b1d72-00fb-445f-91f7-30e993dd8ee1/gettyimages-1244227518.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/reddit-will-start-charging-some-users-for-api-access-bad-news-for-ai-companies/",
-      "publishedDateTime": "2023-04-19T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-ai-can-kill-us-but-some-in-congress-dont-even-know-how-to-log-in-to-facebook-lawmakers-say.md",
-      "title": "AI can 'kill us,' but some in Congress don’t even know how to log in to Facebook, lawmakers say",
-      "excerpt": "WASHINGTON – AI has the potential to both benefit and harm the U.S. in unknown and unimagined ways but Congress has hardly any experts on the rapidly developing technology, lawmakers told Fox News.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/ai-kill-us-some-congress-dont-even-know-log-facebook-lawmakers-say",
-      "originalUrl": "https://www.foxnews.com/politics/ai-kill-us-some-congress-dont-even-know-log-facebook-lawmakers-say",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/09/340/340/IMG_0550.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ai-kill-us-some-congress-dont-even-know-log-facebook-lawmakers-say.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ai-kill-us-some-congress-dont-even-know-log-facebook-lawmakers-say.amp",
-      "publishedDateTime": "2023-04-19T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

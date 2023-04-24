@@ -2,6 +2,291 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2023-03-04-ai-translation-for-a-better-world.md",
+      "title": "AI Translation for a Better World",
+      "excerpt": "or the AI, like positive feedback. And out of that, this huge mathematical machinery learns how to translate and become better and better at that. That is just common and works for any language.",
+      "sourceUrl": null,
+      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/podcast/vv/20230302-1/",
+      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/podcast/vv/20230302-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www3.nhk.or.jp/nhkworld/en/podcast/vv/assets/images/20230302-1/og.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-04T04:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHK",
+        "domain": "nhk.or.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-04-amazon-is-shutting-down-eight-cashierless-go-stores.md",
+      "title": "Amazon is shutting down eight cashierless Go stores",
+      "excerpt": "Amazon is closing down two cashierless Go stores in New York City, two in Seattle and four in San Francisco on April 1st, according to GeekWire. The e-retail giant made the announcement on the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/amazon-shutting-down-eight-cashierless-go-stores-100102563.html",
+      "originalUrl": "https://www.engadget.com/amazon-shutting-down-eight-cashierless-go-stores-100102563.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/UdQUnLDg8Jj0QmPxwW0IIg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2019-01/b8ad3de0-1837-11e9-bf7f-bc0dd6e3a7f0.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/amazon-shutting-down-eight-cashierless-go-stores-100102563.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/amazon-shutting-down-eight-cashierless-go-stores-100102563.html",
+      "publishedDateTime": "2023-03-04T03:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-04-aws-to-launch-an-infrastructure-region-in-malaysia.md",
+      "title": "AWS To Launch An Infrastructure Region In Malaysia",
+      "excerpt": "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ:AMZN), today announced plans to launch an AWS infrastructure Regio",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105704619/AWS-To-Launch-An-Infrastructure-Region-In-Malaysia",
+      "originalUrl": "https://menafn.com/1105704619/AWS-To-Launch-An-Infrastructure-Region-In-Malaysia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?910711",
+          "width": 375,
+          "height": 249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-04T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-04-whos-actually-getting-rich-off-of-ai.md",
+      "title": "Who’s actually getting rich off of AI?",
+      "excerpt": "Today, let’s talk about a subject that crosses my mind with every generative-AI startup pitch that lands in my inbox: who’s going to make the real money off artificial intelligence?",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/23623495/ai-profits-winners-losers-openai-notion-snapchat",
+      "originalUrl": "https://www.theverge.com/23623495/ai-profits-winners-losers-openai-notion-snapchat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/eJCf-0eN-BMvuoNTj_0k-ImYauY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24390408/STK149_AI_01.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-04T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-04-samsung-jet-bot-ai-robot-vacuum-with-object-recognition-review-a-robot-vacuum-for-grown-ups.md",
+      "title": "Samsung Jet Bot AI+ Robot Vacuum with Object Recognition review: a robot vacuum for grown-ups",
+      "excerpt": "Forward-thinking features include LiDAR and 3D navigation, object recognition (and avoidance), and remote-control cameras. But before we delve into more geeky goodness, would you just look at it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/reviews/samsung-jet-bot-ai-robot-vacuum-with-object-recognition-review-a-robot-vacuum-for-grown-ups",
+      "originalUrl": "https://www.techradar.com/reviews/samsung-jet-bot-ai-robot-vacuum-with-object-recognition-review-a-robot-vacuum-for-grown-ups",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/t2mUKj7ppXDa9eFLvmMDRU-1200-80.jpg",
+          "width": 970,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-04T01:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-03-04-ai-masters-video-game-6000-times-faster-by-reading-the-instructions.md",
+      "title": "AI masters video game 6000 times faster by reading the instructions",
+      "excerpt": "An artificial intelligence has learned to master an Atari skiing game in days of playing time rather than the decades it took a specialist DeepMind AI, simply by reading the instructions written for h",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2358953-ai-masters-video-game-6000-times-faster-by-reading-the-instructions/",
+      "originalUrl": "https://www.newscientist.com/article/2358953-ai-masters-video-game-6000-times-faster-by-reading-the-instructions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2023/02/24161531/SEI_145075232.jpg",
+          "width": 1150,
+          "height": 766,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-04T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-04-can-religion-save-us-from-artificial-intelligence.md",
       "title": "Can religion save us from Artificial Intelligence?",
       "excerpt": "“Indeed, if technological progress increases inequality, it is not true progress,” Pope Francis said in a Nov. 2020 video announcing his prayer intention that robotics and artificial intelligence may always serve humankind. The Vatican’s goal is not ...",
@@ -907,282 +1192,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-how-and-where-the-artificial-neural-networks-market-is-set-to-grow-in-forecast-period-2029.md",
-      "title": "How and Where the Artificial Neural Networks Market is Set to Grow in forecast period 2029",
-      "excerpt": "Mar 02, 2023 (The Expresswire) -- \"Artificial Neural Networks Market\" Insights 2023 By Applications (BFSI, Retail and eCommerce, IT, Healthcare and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/how-and-where-the-artificial-neural-networks-market-is-set-to-grow-in-forecast-period-2029-2023-03-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/how-and-where-the-artificial-neural-networks-market-is-set-to-grow-in-forecast-period-2029-2023-03-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-02T19:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-robotaxi-tech-improves-but-can-they-make-money.md",
-      "title": "Robotaxi tech improves but can they make money?",
-      "excerpt": "Driverless robotaxi services open to the ... on their own in front of empty driver's seats, controlled by artificial intelligence that uses data from camera, Lidar and radar systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/business-64742934",
-      "originalUrl": "https://www.bbc.co.uk/news/business-64742934",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/3680/production/_128725931_cruisequietsanfranciscostreetcreditchriswensel.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/business-64742934",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-64742934",
-      "publishedDateTime": "2023-03-02T19:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-experts-ranked-the-leading-self-driving-companies-tesla-didnt-even-crack-the-top-10.md",
-      "title": "Experts ranked the leading self-driving companies. Tesla didn't even crack the top 10.",
-      "excerpt": "Baidu, and Cruise. Tesla was named the only \"follower\" given its low ratings in automated-driving execution and strategy. The company has long come under fire for its \"Full Self-Driving\" and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/Experts-ranked-the-leading-self-driving-companies-Tesla-didnt-even-crack-the-top-10-/articleshow/98373350.cms",
-      "originalUrl": "https://www.businessinsider.in/Experts-ranked-the-leading-self-driving-companies-Tesla-didnt-even-crack-the-top-10-/articleshow/98373350.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/photo/98373239/Master.jpg",
-          "width": 1003,
-          "height": 821,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/thelife/news/experts-ranked-the-leading-self-driving-companies-tesla-didnt-even-crack-the-top-10-/amp_articleshow/98373350.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/thelife/news/experts-ranked-the-leading-self-driving-companies-tesla-didnt-even-crack-the-top-10-/amp_articleshow/98373350.cms",
-      "publishedDateTime": "2023-03-02T18:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-nfl-players-with-concussion-histories-have-reduced-cognitive-performance-study-shows.md",
-      "title": "NFL players with concussion histories have reduced cognitive performance, study shows",
-      "excerpt": "A large study looking at over 350 former National Football League players found that players with a history of concussions and concussive symptoms had reduced cognitive performances later in life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/nfl-concussion-study-reduced-cognitive-performance-decades/",
-      "originalUrl": "https://www.cbsnews.com/news/nfl-concussion-study-reduced-cognitive-performance-decades/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/09/12/789c2dff-9443-4849-939f-a561171f9869/thumbnail/1200x630/b6a636be6494061d9748a28b1ffebd1d/gettyimages-936299580.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/nfl-concussion-study-reduced-cognitive-performance-decades/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/nfl-concussion-study-reduced-cognitive-performance-decades/",
-      "publishedDateTime": "2023-03-02T18:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-a-unique-experiment-that-could-make-social-media-better.md",
-      "title": "A Unique Experiment That Could Make Social Media Better",
-      "excerpt": "This involves an experimental change to Facebook’s feed ranking—for users ... is Senior Scientist at the Center for Human-Compatible AI, UC Berkeley and the editor of the Better Conflict ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/platforms-engagement-research-meta/",
-      "originalUrl": "https://www.wired.com/story/platforms-engagement-research-meta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/640004d10150a6d7be9f1a27/master/pass/ideas_platform_metrics_engagement_research.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/platforms-engagement-research-meta/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/platforms-engagement-research-meta/amp",
-      "publishedDateTime": "2023-03-02T17:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-ai-study-evaluates-gpt-3-using-cognitive-psychology.md",
-      "title": "AI Study Evaluates GPT-3 Using Cognitive Psychology",
-      "excerpt": "A new study published in the Proceedings of the National Academy of Sciences of the United States of America (PNAS) by researchers affiliated with the Max Planck Institute for Biological Cybernetics analyzes the general intelligence of large language model (LLM) GPT-3 using cognitive psychology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202303/ai-study-evaluates-gpt-3-using-cognitive-psychology",
-      "originalUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202303/ai-study-evaluates-gpt-3-using-cognitive-psychology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/pic8872.jpg?itok=e6Cya6lj",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202303/ai-study-evaluates-gpt-3-using-cognitive-psychology?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202303/ai-study-evaluates-gpt-3-using-cognitive-psychology?amp",
-      "publishedDateTime": "2023-03-02T17:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

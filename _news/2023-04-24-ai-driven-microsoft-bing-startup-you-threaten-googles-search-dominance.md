@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon and Microsoft vets raise $10M for computer vision startup used in warehouses"
-    excerpt: "A new Seattle startup wants to make it easier for businesses to monitor their warehouses using artificial intelligence and computer vision technologies. Groundlight emerged from stealth Wednesday, unveiling its"
-    publishedDateTime: 2023-04-19T23:39:00Z
-    webUrl: "https://www.geekwire.com/2023/amazon-and-microsoft-vets-raise-10m-for-computer-vision-startup-used-in-warehouses/"
+  - title: "Amid Microsoft-Google AI Rivalry, Apple Could Be The Winner 'No Matter Where Industry Goes:' Analyst"
+    excerpt: "Artificial Intelligence (AI) tech is an $800 billion market opportunity over the next decade as it pervades into the enterprise and consumer tech space, said Wedbush analyst Daniel Ives in a recent note."
+    publishedDateTime: 2023-04-24T09:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amid-microsoft-google-ai-rivalry-apple-could-be-the-winner-no-matter-where-industry-goes-analyst-1032253335"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 97
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 75
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/04/leo-avi.jpg"
-        width: 3053
-        height: 1977
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Apple_logo_on_macbook_2.jpeg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Persistent Establishes Dedicated Microsoft Viva Practice Integrated with Generative AI"
     excerpt: "Expands existing Azure Center of Excellence with AI-based Modern Workplace solutionsPUNE, India and SANTA CLARA, Calif., April 21, 2023"
@@ -63,20 +63,6 @@ related:
       - url: "https://d2n4wb9orp1vta.cloudfront.net/cms/brand/mms/2023-mms/062-mms-news-siemens-microsoft.jpg;maxWidth=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "The era of AI: How the Microsoft Cloud is accelerating AI transformation across industries"
-    excerpt: "This past quarter has put a spotlight on advancements in generative AI, and the possibilities of its application to deliver pragmatic business outcomes. For organizations around the world, there is incredible opportunity to enhance products and services while unlocking innovation and business value to help shape the future of industry."
-    publishedDateTime: 2023-04-24T15:11:00Z
-    webUrl: "https://blogs.microsoft.com/blog/2023/04/24/the-era-of-ai-how-the-microsoft-cloud-is-accelerating-ai-transformation-across-industries/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 44
-    images:
-      - url: "https://blogs.microsoft.com/wp-content/uploads/prod/2023/04/Hero-image-April-24-1024x540.jpg"
-        width: 1024
-        height: 540
         isCached: true
   - title: "Amazon and Microsoft's AI gains mask cloud slowdown"
     excerpt: "Once-booming demand for cloud-computing services is slowing as businesses rein in spending amid economic uncertainty."

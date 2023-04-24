@@ -2,6 +2,300 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-24-natural-language-processing-nlp-in-healthcare-market-growth-by-2031.md",
+      "title": "Natural Language Processing (NLP) in Healthcare Market Growth by 2031",
+      "excerpt": "The latest market research report on the Global \"Natural Language Processing (NLP) in Healthcare Market\" is segmented",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-growth-by-2031-2023-04-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-growth-by-2031-2023-04-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T00:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-the-rise-of-ai-entrepreneurs-how-this-technology-is-creating-new-opportunities.md",
+      "title": "The Rise Of AI Entrepreneurs: How This Technology Is Creating New Opportunities",
+      "excerpt": "New opportunities for entrepreneurs are everywhere you look. Surf this wave or wait another decade for the next, the choice is yours.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/04/24/the-rise-of-ai-entrepreneurs-how-technology-is-creating-new-opportunities/",
+      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/04/24/the-rise-of-ai-entrepreneurs-how-technology-is-creating-new-opportunities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64203353460318711de2d103/0x0.jpg?format=jpg&crop=5592,3143,x0,y286,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/04/24/the-rise-of-ai-entrepreneurs-how-technology-is-creating-new-opportunities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/04/24/the-rise-of-ai-entrepreneurs-how-technology-is-creating-new-opportunities/amp/",
+      "publishedDateTime": "2023-04-24T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories.md",
+      "title": "AI revolution: Manufacturers hope for artificial intelligence boost in factories",
+      "excerpt": "Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery. There has been an explosion of interest in uses of AI across many sectors since the launch last year of chatbot ChatGPT from US startup OpenAI.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories-71682272340109.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories-71682272340109.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2023/04/24/1600x900/AI-COMPANIES--2_1681557402437_1681557402437_1682312254516.JPG",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories-71682272340109.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories-71682272340109.html",
+      "publishedDateTime": "2023-04-23T22:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-machine-learning-as-a-service-mlaas-market-2023-size-and-share-an-expand-worldwide-business-opportunities.md",
+      "title": "Machine Learning as a Service (MLaaS) Market 2023, Size And Share An Expand Worldwide Business Opportunities",
+      "excerpt": "Machine Learning as a Service (MLaaS) Market Size 2023 | New Report (118 Pages) | Analytics | In This Reports Machine Learning as a Service (MLaaS) Market Top Machine Learning as a Service (MLaaS) Companies (BigML,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2023-size-and-share-an-expand-worldwide-business-opportunities-2023-04-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2023-size-and-share-an-expand-worldwide-business-opportunities-2023-04-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-23T20:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-amazon-3m-will-use-generative-ai-to-ease-documentation-for-healthcare-providers.md",
+      "title": "Amazon & 3M Will Use Generative AI To Ease Documentation For Healthcare Providers",
+      "excerpt": "Late last week, two of the world’s most famous companies, Amazon and 3M, announced a bold partnership aimed at solving one of the most critical pain points for healthcare providers: clinical documentation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/saibala/2023/04/23/amazon--3m-will-use-generative-ai-to-ease-documentation-for-healthcare-providers/",
+      "originalUrl": "https://www.forbes.com/sites/saibala/2023/04/23/amazon--3m-will-use-generative-ai-to-ease-documentation-for-healthcare-providers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6445c14eba75efb41b2390e1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/saibala/2023/04/23/amazon--3m-will-use-generative-ai-to-ease-documentation-for-healthcare-providers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/04/23/amazon--3m-will-use-generative-ai-to-ease-documentation-for-healthcare-providers/amp/",
+      "publishedDateTime": "2023-04-23T18:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-machine-learning-as-ai-tools-gain-heft-the-jobs-that-could-be-at-stake.md",
+      "title": "Machine learning: As AI tools gain heft, the jobs that could be at stake",
+      "excerpt": "The OpenAI study also said that around 19 per cent of US workers will see at least 50 per cent of their tasks impacted, with the qualifier that GPT exposure is likely greater for higher-income jobs, but spans across almost all industries.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/artificial-intelligence/machine-learning-as-ai-tools-gain-heft-the-jobs-that-could-be-at-stake-8572182/",
+      "originalUrl": "https://indianexpress.com/article/technology/artificial-intelligence/machine-learning-as-ai-tools-gain-heft-the-jobs-that-could-be-at-stake-8572182/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2023/04/ai_1200_gettyimages.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/artificial-intelligence/machine-learning-as-ai-tools-gain-heft-the-jobs-that-could-be-at-stake-8572182/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/machine-learning-as-ai-tools-gain-heft-the-jobs-that-could-be-at-stake-8572182/lite/",
+      "publishedDateTime": "2023-04-23T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-23-5-things-chatgpt-and-gpt-4-cant-solve-in-financial-servicesyet.md",
       "title": "5 things ChatGPT (and GPT-4) can’t solve in financial services…yet",
       "excerpt": "New products and compliance are just two of the things humans, rather than LLMs and generative AI models like ChatGPT, still need to handle.",
@@ -749,7 +1043,7 @@
       "originalUrl": "https://www.foxnews.com/video/6325508060112",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -904,7 +1198,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/2023-2030-artificial-intelligence-delivery-robot-market-growth-strategies-and-insights-2023-04-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -944,318 +1238,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-bard-now-helps-you-code.md",
-      "title": "Bard now helps you code",
-      "excerpt": "Bard can now help with programming and software development tasks, across more than 20 programming languages.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/code-with-bard/",
-      "originalUrl": "https://blog.google/technology/ai/code-with-bard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/9_Bard_Coding_Social_Share_Still_Blog_Social_.width-1300.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/code-with-bard/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/code-with-bard/amp/",
-      "publishedDateTime": "2023-04-21T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-the-cfo-at-the-forefront-of-innovation.md",
-      "title": "The CFO: at the forefront of innovation",
-      "excerpt": "Historically, the Chief Financial Officer (CFO) role had been strictly focused on accounting for financial information. These days, there&#8217;s a need &#8212; and even some pressure &#8212; for CFOs to evolve their scope and influence the innovation agenda within their enterprises. For starters, they",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-cfo-at-the-forefront-of-innovation/",
-      "originalUrl": "https://www.ibm.com/blog/the-cfo-at-the-forefront-of-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/Screenshot-2023-04-20-at-5.45.24-PM.png",
-          "width": 1940,
-          "height": 1170,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-three-challenges-to-address-in-order-to-jumpstart-ai-driven-operations.md",
-      "title": "Three Challenges To Address In Order To Jumpstart AI-Driven Operations",
-      "excerpt": "Organizations can automate various tasks, reduce manual intervention and improve the overall efficiency of their operations. However, despite the benefits, many organizations still struggle with implementing it effectively.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/21/three-challenges-to-address-in-order-to-jumpstart-ai-driven-operations/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/21/three-challenges-to-address-in-order-to-jumpstart-ai-driven-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644139b6616ed06719913892/0x0.jpg?format=jpg&crop=3240,1822,x1596,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/21/three-challenges-to-address-in-order-to-jumpstart-ai-driven-operations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/21/three-challenges-to-address-in-order-to-jumpstart-ai-driven-operations/amp/",
-      "publishedDateTime": "2023-04-21T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-the-best-shows-on-amazon-prime-right-now-april-2023.md",
-      "title": "The best shows on Amazon Prime right now (April 2023)",
-      "excerpt": "Follow her on Twitter @christinetechCA. If you’ve been searching for some of the greatest horror movies you can stream, Amazon Prime Video has got you covered. Home to hundreds of chilling ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/",
-      "originalUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/04/dead-ringers-prime-video.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-shows-on-amazon-prime/?amp",
-      "publishedDateTime": "2023-04-21T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-facial-recognition-is-expanding-its-watchful-eye-but-suffers-from-notable-fails.md",
-      "title": "Facial recognition is expanding its watchful eye but suffers from notable fails",
-      "excerpt": "Various police departments and businesses in the U.S. are increasingly using facial recognition as a security measure, but has been hit with notable criticisms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/facial-recognition-expanding-watchful-eye-suffers-notable-fails",
-      "originalUrl": "https://www.foxnews.com/tech/facial-recognition-expanding-watchful-eye-suffers-notable-fails",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e702dcb0-2ff1-4895-96a1-af55176105b0/298264ac-cd74-457f-913c-021026f36032/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/facial-recognition-expanding-watchful-eye-suffers-notable-fails.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/facial-recognition-expanding-watchful-eye-suffers-notable-fails.amp",
-      "publishedDateTime": "2023-04-20T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-israel-leads-with-early-ai-battlefield-integration-the-future-of-defense-systems.md",
-      "title": "Israel leads with early AI battlefield integration: 'The future of defense systems'",
-      "excerpt": "Artificial intelligence has existed in some form over the past few decades, but only recently has it reached the level of potentially disrupting economic and social systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/israel-leads-early-ai-battlefield-integration-future-defense-systems",
-      "originalUrl": "https://www.foxnews.com/world/israel-leads-early-ai-battlefield-integration-future-defense-systems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d7475860-cb58-4b4b-ad40-e7b4075c8e33/3f4696d9-bca5-42aa-8098-7dc1bdfe3720/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/israel-leads-early-ai-battlefield-integration-future-defense-systems.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/israel-leads-early-ai-battlefield-integration-future-defense-systems.amp",
-      "publishedDateTime": "2023-04-20T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

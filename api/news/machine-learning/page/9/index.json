@@ -2,6 +2,102 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-02-09-whats-the-difference-between-machine-learning-and-artificial-intelligence-anyway.md",
+      "title": "What’s The Difference Between Machine Learning And Artificial Intelligence, Anyway?",
+      "excerpt": "Artificial intelligence is the ability of a computer to handle complex tasks such as learning and problem-solving Machine learning is a computer application using artificial intelligence to find ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/02/09/machine-learning-vs-artificial-intelligence-how-they-differ-and-how-they-will-disrupt-the-technological-landscape/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/09/machine-learning-vs-artificial-intelligence-how-they-differ-and-how-they-will-disrupt-the-technological-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63e5a689ae31cef5499d9cc3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/02/09/machine-learning-vs-artificial-intelligence-how-they-differ-and-how-they-will-disrupt-the-technological-landscape/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/09/machine-learning-vs-artificial-intelligence-how-they-differ-and-how-they-will-disrupt-the-technological-landscape/amp/",
+      "publishedDateTime": "2023-02-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-researchers-review-deep-learning-based-methods-to-detect-time-series-data-anomaly.md",
+      "title": "Researchers review deep learning-based methods to detect time series data anomaly",
+      "excerpt": "This is known as \"anomaly detection\" and is performed using data mining techniques. Although deep learning methods have been extensively applied in anomaly detection, there is no one-size-fits-all technique that works for multiple applications across a ...",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-02-deep-learning-based-methods-series-anomaly.html",
+      "originalUrl": "https://techxplore.com/news/2023-02-deep-learning-based-methods-series-anomaly.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/chung-ang-university-r-2.jpg",
+          "width": 940,
+          "height": 518,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-02-deep-learning-based-methods-series-anomaly.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-deep-learning-based-methods-series-anomaly.amp",
+      "publishedDateTime": "2023-02-08T14:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-machine-learning-intervention-leads-to-safer-cardiac-catheterization.md",
       "title": "Machine-Learning Intervention Leads to Safer Cardiac Catheterization",
       "excerpt": "New research shows that a machine-learning intervention resulted in a 46 percent lower likelihood of acute kidney injury from cardiac catheterization.",
@@ -1151,104 +1247,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-how-to-overcome-five-roadblocks-when-implementing-aiml-in-the-financial-sector.md",
-      "title": "How To Overcome Five Roadblocks When Implementing AI/ML In The Financial Sector",
-      "excerpt": "Cybercrime and data breaches are perhaps one of the biggest challenges faced by the financial industry. As of 2022, the average cost of a data breach in the financial sector world",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/03/how-to-overcome-five-roadblocks-when-implementing-aiml-in-the-financial-sector/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/03/how-to-overcome-five-roadblocks-when-implementing-aiml-in-the-financial-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6138d885572a0ccebef2fe73/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/03/how-to-overcome-five-roadblocks-when-implementing-aiml-in-the-financial-sector/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/03/how-to-overcome-five-roadblocks-when-implementing-aiml-in-the-financial-sector/amp/",
-      "publishedDateTime": "2023-02-03T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security.md",
-      "title": "Quad agrees to leverage machine learning to enhance cyber security",
-      "excerpt": "Quad, an informal grouping of four countries Australia, India, Japan and the United States, has agreed to leverage machine learning and related advanced technologies to enhance cyber security, the White House has said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html",
-      "originalUrl": "https://www.business-standard.com/article/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/24/full/1632506444-4684.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html",
-      "publishedDateTime": "2023-02-02T19:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI in Security"
       ]
     }
   ],

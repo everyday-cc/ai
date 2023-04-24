@@ -29,69 +29,109 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon and Microsoft vets raise $10M for computer vision startup used in warehouses"
-    excerpt: "A new Seattle startup wants to make it easier for businesses to monitor their warehouses using artificial intelligence and computer vision technologies. Groundlight emerged from stealth Wednesday, unveiling its"
-    publishedDateTime: 2023-04-19T23:39:00Z
-    webUrl: "https://www.geekwire.com/2023/amazon-and-microsoft-vets-raise-10m-for-computer-vision-startup-used-in-warehouses/"
+  - title: "Using Generative AI In Workforce Management"
+    excerpt: "Generative AI is the most transformative thing in the business landscape right now, perhaps even since the proliferation of the internet."
+    publishedDateTime: 2023-04-24T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/amp/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 97
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/04/leo-avi.jpg"
-        width: 3053
-        height: 1977
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62825152c50f091b0e2568f8/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 799
         isCached: true
-  - title: "AI-driven Microsoft Bing, startup You threaten Google's Search dominance"
-    excerpt: "New AI features in Microsoft Bing search engine and startup You.com have started to threaten Google's Search dominance, as users seek more efficient search options."
-    publishedDateTime: 2023-04-24T07:57:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/ai-driven-microsoft-bing-startup-you-threaten-googles-search-dominance/articleshow/99726281.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/ai-driven-microsoft-bing-startup-you-threaten-googles-search-dominance/amp_articleshow/99726281.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/ai-driven-microsoft-bing-startup-you-threaten-googles-search-dominance/amp_articleshow/99726281.cms"
+  - title: "How reinforcement learning with human feedback is unlocking the power of generative AI"
+    excerpt: "How reinforcement learning with human feedback helps ensure that businesses are building ethical generative AI models."
+    publishedDateTime: 2023-04-23T16:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-reinforcement-learning-with-human-feedback-is-unlocking-the-power-of-generative-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/how-reinforcement-learning-with-human-feedback-is-unlocking-the-power-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-reinforcement-learning-with-human-feedback-is-unlocking-the-power-of-generative-ai/amp/"
     type: article
     provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 73
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
     images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-99726281,imgsize-32894,width-800/99726281.jpg"
-        width: 800
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_human_and_artificial_intelligence_working_together_to_un_5b2cbb9e-e380-4bb1-812b-366943b59568.png?w=1200&strip=all"
+        width: 1200
         height: 600
         isCached: true
-  - title: "Persistent Establishes Dedicated Microsoft Viva Practice Integrated with Generative AI"
-    excerpt: "Expands existing Azure Center of Excellence with AI-based Modern Workplace solutionsPUNE, India and SANTA CLARA, Calif., April 21, 2023"
-    publishedDateTime: 2023-04-21T08:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/persistent-establishes-dedicated-microsoft-viva-practice-integrated-with-generative-ai-1032249105"
+  - title: "India’s Chip Design Workforce Faces Massive AI Threat"
+    excerpt: "AI-based tool for FPGA designers showed about 5 times (more in many cases) improvement in the output by senior engineers"
+    publishedDateTime: 2023-04-24T09:00:00Z
+    webUrl: "https://analyticsindiamag.com/indias-chip-design-workforce-faces-massive-ai-threat/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
-  - title: "Siemens Partners With Microsoft to Expand Industrial AI"
-    excerpt: "The companies are integrating Siemens’ Teamcenter software for product lifecycle management with Microsoft’s collaboration platform Teams and the language models in Azure OpenAI Service."
-    publishedDateTime: 2023-04-21T05:54:00Z
-    webUrl: "https://www.mmsonline.com/news/siemens-partners-with-microsoft-on-industrial-ai"
-    type: article
-    provider:
-      name: Modern Machine Shop
-      domain: mmsonline.com
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 54
     images:
-      - url: "https://d2n4wb9orp1vta.cloudfront.net/cms/brand/mms/2023-mms/062-mms-news-siemens-microsoft.jpg;maxWidth=1200"
-        width: 1200
-        height: 800
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/04/ai-india-chip.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Amazon and Microsoft's AI gains mask cloud slowdown"
-    excerpt: "Once-booming demand for cloud-computing services is slowing as businesses rein in spending amid economic uncertainty."
-    publishedDateTime: 2023-04-20T14:40:00Z
-    webUrl: "https://www.detroitnews.com/story/business/2023/04/20/amazon-and-microsofts-ai-gains-mask-cloud-slowdown/70134357007/"
+  - title: "Siemens and Microsoft Drive Industrial Innovation & Productivity with generative AI"
+    excerpt: "Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency across the design, engineering, manufacturing and operational lifecycle of products."
+    publishedDateTime: 2023-04-20T02:44:00Z
+    webUrl: "https://www.ien.eu/article/siemens-and-microsoft-drive-industrial-innovation-productivity-with-generative-ai/"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 34
+      name: ien
+      domain: www.ien.eu
+    quality: 48
+    images:
+      - url: "https://cdn3.tim-europe.com/websites/ien/typo3temp/assets/_processed_/f/5/csm_WP_Siemens_page-0001_917f2767e6.jpg"
+        width: 300
+        height: 389
+        isCached: true
+  - title: "Siemens and Microsoft drive industrial productivity with generative artificial intelligence"
+    excerpt: "Siemens' new Teamcenter app for Microsoft Teams to use AI, boosting productivity and innovation throughout a product lifecycle Azure OpenAI Service powered assistant can augment the creation, optimiza"
+    publishedDateTime: 2023-04-23T23:43:00Z
+    webUrl: "https://www.ryt9.com/en/prg/267476"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
+    quality: 44
+    images:
+      - url: "https://www.ryt9.com/img/files/20230424/iq164e066a342eb4a5676f8b5172ae5e00.jpg"
+        width: 1500
+        height: 841
+        isCached: true
+  - title: "Generative artificial intelligence on our “Babbage” podcast"
+    excerpt: "GENERATIVE AI is taking the world by storm. Babbage has explored artificial intelligence through a variety of lenses. OpenAI’s ChatGPT, an advanced chatbot released in late-2022, amassed over 100 million monthly active users and exhibited unprecedented capabilities,"
+    publishedDateTime: 2023-04-20T11:51:00Z
+    webUrl: "https://www.economist.com/AI-pods"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230422_STP502.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "AI Is Coming for Wealth Management. Here’s What That Means"
+    excerpt: "AI will allow the client to access an incredible amount of information and ask questions in a language that the client is comfortable with and receive answers. For practitioners, the limitation it will have will be in researching what is happening today with that company,"
+    publishedDateTime: 2023-04-24T13:33:00Z
+    webUrl: "https://www.wealthmanagement.com/technology/ai-coming-wealth-management-here-s-what-means"
+    type: article
+    provider:
+      name: WealthManagement.com
+      domain: wealthmanagement.com
+    quality: 39
+    images:
+      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/uploads/2016/02/robot-businessmen.jpg"
+        width: 770
+        height: 400
+        isCached: true
 
-secured: "a3LF7pMxrfHrsfj7xkqPMC8H70OBS87YTqTkew+ftP1xVw+wKYPNSN82teYV+8kPQ4XDCwbxjUr9Cxg4oEgL8Ji+RyArgVwbe4GqKVPhGzJencYwvZtzI566uzUwEhI6+41ZWpqKgI8N68cDbYsajSUCBO2T5ZLwHCyMY+NJ4s5KV3GtILqH2g6wMKmz27wzg7wBz78wvGubYyYPJGf8lXemg3cMuxkWIOc3oJU0DH2VfEGjpiJvEWWQUMv7cEArH6RKC9UlYhj9WGsxMXWrepy5/jEF+VQANyqcuNJ4e/cTPv7HAq5XuoPx/dbWCAwCoTcnsQU0W9QnNK8hlr/6fRJMYue1CnVZjRzzaYQbB7I=;ytHn231BBtS2HQ/nQdVZQQ=="
+secured: "EMjiZzS8tHNWO7pCCXi3TVBtnKrCJo4twyioGSRFDq1KCObgZGs2RFhCykEHBz9OSWg0tU50XykC/TaIFa7XCvMxDpB91Vsnd4SM6Ocla39tifVEZn8GmtdBeRc3eYKFwWRA28KQpO/BJvZj2rEiri5IxpxZZCksmUgzt9kzJcW3uY/nlxgJqFRr4h0TEFNYi/1EV+OUPMiCYZbThcWUoW9sOy5m3sLRmXxxpsufx4Jr+eUYT1SuVvI8L17UAmV4hnhhKhcUTuPc0/F25oJz97UNmqAYPzMPaTU/BSm2kLpaa3gHfQPa4GXqXeQBWydqwUbCHHHmaV71mkujqFxwE820w3jSQRnqif8ncEu37R4/KAbZN/AS56USejqA8uaah2mHF5jIsa/R+ahy86SdSiHMV9TaQ/05AyneIdQpPeDVokrQjYs465ozATv1wvKe15G5I7/uvit1K1Mwe45AaYvSSMrliBeAWSERpSgcSGTSIUUu2tOvGgPIfG3ujRwTqwe3k/fqgToWkYIQOlF/pg==;8MNFl+DYXeHj99I46pih0w=="
 ---
 

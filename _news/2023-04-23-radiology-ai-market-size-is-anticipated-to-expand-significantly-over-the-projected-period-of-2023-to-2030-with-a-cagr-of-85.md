@@ -127,20 +127,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Generative AI Market Growth, Opportunities Business Scenario, Share, Growth Size, Scope, Key Segments and Forecast to 2028"
-    excerpt: "By offering, Services to register for the highest CAGR during the forecast period The scope of the services segment comprises professional and managed services. Services are essential to the generative AI software life cycle,"
-    publishedDateTime: 2023-04-20T00:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/generative-ai-market-growth-opportunities-business-scenario-share-growth-size-scope-key-segments-and-forecast-to-2028-2023-04-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "CiIZPMljiZ+KJ6T5chIhIZzhBE7F/vAFoWBVr74016i9Xk9nya83yVyVjQdsSh8D0hgVQwmYujC2W7ieBDwEAjj5y8VtUhelXlh9swXWtXsM/WcSaL+tA41vtIM278tZYm/IurF/c6pWi6oJMeIIUb491VVL6jRDVw3RNOV8IfL6Uf3SaIOgarYyK+iCM/aV9PKhS68N/q1zWuz1gS/IoYiFr2enlp6jIKKwc5LdqJUZYkjstStCJ1plsPWUkcYp8LE65FFT2WsMRpeA5WTcpdZYjcsXY64ZaWRtUJOqbmCFqgvceJr5aVq92oHVxdEKS0HPlLUp0i5+S0BMdDrkFO/3o/60n2Sau3bq4PbnzYM=;pSToXeEygZBYSIlyHxQCkw=="
 ---
