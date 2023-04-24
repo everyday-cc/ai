@@ -55,58 +55,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-23-5-things-chatgpt-and-gpt-4-cant-solve-in-financial-servicesyet.md",
-      "title": "5 things ChatGPT (and GPT-4) can’t solve in financial services…yet",
-      "excerpt": "New products and compliance are just two of the things humans, rather than LLMs and generative AI models like ChatGPT, still need to handle.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/5-things-chatgpt-and-gpt-4-cant-solve-in-financial-services-yet/",
-      "originalUrl": "https://venturebeat.com/ai/5-things-chatgpt-and-gpt-4-cant-solve-in-financial-services-yet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/chatGPT-financial-problem.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 613,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/5-things-chatgpt-and-gpt-4-cant-solve-in-financial-services-yet/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/5-things-chatgpt-and-gpt-4-cant-solve-in-financial-services-yet/amp/",
-      "publishedDateTime": "2023-04-22T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-20-apple-makes-more-fintech-moves-with-high-yield-savings-account-from-goldman-sachs.md",
       "title": "Apple Makes More Fintech Moves With High-Yield Savings Account From Goldman Sachs",
       "excerpt": "Vice President & Principal Analyst, Modern Work, Melody Brue, looks at Apple's recent fintech developments, their significance in the fintech ecosystem and what they mean for consumers.",
@@ -1280,6 +1228,59 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-socialcoach-taps-fintech-exec-andria-lightfoot-and-launches-ai-driven-social-media-marketing-solution.md",
+      "title": "SocialCoach Taps Fintech Exec Andria Lightfoot and Launches AI Driven Social Media Marketing Solution",
+      "excerpt": "The mortgage centric social media marketing software company today announced the launch of its new innovative product enhancement integrating Artificial Intelligence (AI) to help mortgage lenders and loan officers drive social selling and lead generation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/socialcoach-taps-fintech-exec-andria-lightfoot-and-launches-ai-driven-social-media-marketing-solution-2023-03-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/socialcoach-taps-fintech-exec-andria-lightfoot-and-launches-ai-driven-social-media-marketing-solution-2023-03-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.send2press.com/wire/images/23-0322-s2p-Andria-Lightfoot-800x600.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Marketing"
       ]
     }
   ],

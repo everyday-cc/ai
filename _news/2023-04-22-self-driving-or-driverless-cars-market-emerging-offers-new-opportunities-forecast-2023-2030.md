@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "An Investigation into the Demand for AI Infrastructure Market"
-    excerpt: "The latest market research report on the Global \"AI Infrastructure Market\" is segmented by Regions, Country, Company"
-    publishedDateTime: 2023-04-19T08:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/an-investigation-into-the-demand-for-ai-infrastructure-market-2023-04-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Autonomous Driving Software Platform Market 2023 Insights and Precise Outlook -NVDIA, Sensible 4, Hexagon, Baidu"
     excerpt: "The Autonomous Driving Software Platform Market research report provides a comprehensive analysis of the market size, share, overview and growth prospects influencing the market growth. The global Autonomous Driving Software Platform market report helps buyers identify market challenges and opportunities."
     publishedDateTime: 2023-04-21T11:29:00Z

@@ -56,14 +56,14 @@ related:
         height: 675
         isCached: true
   - title: "Persistent Establishes Dedicated Microsoft Viva Practice Integrated with Generative AI"
-    excerpt: "PUNE, India and SANTA CLARA, Calif., April 21, 2023 /PRNewswire/ -- Persistent Systems (BSE: PERSISTENT) (NSE: PERSISTENT), a global Digital Engineering provider, has announced the launch of a dedicated employee experience practice,"
-    publishedDateTime: 2023-04-21T09:30:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-persistent-establishes-dedicated-microsoft-viva-practice-integrated-with-/2023/04/21/9799289.htm"
+    excerpt: "Expands existing Azure Center of Excellence with AI-based Modern Workplace solutionsPUNE, India and SANTA CLARA, Calif., April 21, 2023"
+    publishedDateTime: 2023-04-21T08:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/persistent-establishes-dedicated-microsoft-viva-practice-integrated-with-generative-ai-1032249105"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 46
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
     images:
       - url: "https://mma.prnewswire.com/media/1022385/Persistent_Systems_Logo.jpg"
         width: 400

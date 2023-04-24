@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
+    excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
+    publishedDateTime: 2023-04-21T18:30:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-guide-to-most-talked-about-technology-2023-april"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-guide-to-most-talked-about-technology-2023-april?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-guide-to-most-talked-about-technology-2023-april?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
+    images:
+      - url: "https://i.insider.com/64403fa23f6f690018de9578?width=1200&format=jpeg"
+        width: 470
+        height: 352
+        isCached: true
   - title: "Solving The Mystery Of How ChatGPT And Generative AI Can Surprisingly Pick Up Foreign Languages, Says AI Ethics And AI Law"
     excerpt: "Recent episode of the famed TV show \"60 Minutes\" discussed how \"surprisingly\" generative AI might seem to pick up additional languages, which isn't necessarily as much a mystery as alluded to. Here's the real scoop."
     publishedDateTime: 2023-04-19T11:00:00Z
@@ -40,22 +56,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/643ee55c832bb162a41e5605/0x0.jpg?format=jpg&crop=4248,3183,x228,y0,safe&width=1200"
         width: 1200
         height: 899
-        isCached: true
-  - title: "Here’s How ChatGPT Can Either Enhance Customer Service Or Brutally Undermine The Customer Experience, Warns AI Ethics And AI Law"
-    excerpt: "Generative AI such as ChatGPT is being rushed into use for customer service activities. Though advanced AI has some key benefits, you also need to ensure that the downsides are dealt with. Here's the scoop."
-    publishedDateTime: 2023-04-21T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/04/21/heres-how-chatgpt-can-either-enhance-customer-service-or-brutally-undermine-the-customer-experience-warns-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/04/21/heres-how-chatgpt-can-either-enhance-customer-service-or-brutally-undermine-the-customer-experience-warns-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/04/21/heres-how-chatgpt-can-either-enhance-customer-service-or-brutally-undermine-the-customer-experience-warns-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 75
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64377a9225ef3956b46ba1df/0x0.jpg?format=jpg&crop=2854,1901,x170,y0,safe&width=1200"
-        width: 1200
-        height: 799
         isCached: true
   - title: "ChatGPT: How generative AI could change hiring as we know it"
     excerpt: "Candidates are already using tools such as ChatGPT to write cover letters and CVs. But it’s just a small piece of how AI is transforming hiring processes."
@@ -84,6 +84,20 @@ related:
       - url: "https://www.jta.org/wp-content/uploads/2023/04/robot-quill-header.jpg"
         width: 2160
         height: 1200
+        isCached: true
+  - title: "4 of The Best Speech to Text Extensions to Talk to ChatGPT Using Your Voice"
+    excerpt: "I personally do not agree with the decision to ban ChatGPT or any other technology for that matter. Bans do not work and students will always find ways to circumvent them (e.g., u"
+    publishedDateTime: 2023-04-22T15:01:00Z
+    webUrl: "https://www.educatorstechnology.com/2023/04/4-of-best-speech-to-text-extensions-to.html"
+    type: article
+    provider:
+      name: Educational Technology and Mobile Learning
+      domain: educatorstechnology.com
+    quality: 22
+    images:
+      - url: "https://lh3.googleusercontent.com/blogger_img_proxy/AByxGDTcpP6EWkQVaiWwmYsWK9vqOAUkmmiVLU0e4wIWwBmDNhNfTtFQyhY7pqX9R0Grd4yMcxqLuCl-i2dWrvT5P4Y4Yh9E58e5MivLixEBcmARzvkFKXBXXwFjvbxPdZtOuV4pIi451Q=w1200-h630-p-k-no-nu"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "J3rfU+OgiiqOzj86JS6XZM2v/Slf9tyEruwDksiNa64cOBog9geAmpomKnACKFm9JISP1IAm/dFWrZr7+VBYFPgSI36s7rQGgH/u7zIwXcdd0PxCivmWuUzpCUAv1h13E46awXKNVdmGd0he39GCBsjSYO7qOOmtTn2aAlkf/mfvvlTZQBK5eJoUxcQ00aGy6YzSdZgF60kK1dl+sPUwYUBDVRoSKSKBnP83wXcXVIZASND6U0ndedu7IVxP5fAQAgKJO1mT6n//pV0paQCFwsr50vF4O2pRO5SDvSCJSfY8PR3uFfsQWd2OAZx27UzvGYKWEjc7Qz+4szaZHD9vUuhtrZJTMIA6+OiY7bbRQ1c=;CuqJF373QFT5NBiDsjG8Gg=="

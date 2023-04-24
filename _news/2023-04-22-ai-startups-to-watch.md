@@ -3,8 +3,8 @@ category: news
 title: "AI startups to watch"
 excerpt: "Amid a turbulent year for the tech sector, one that has brought layoffs, funding pullbacks and the failure of the industry's favorite bank, artificial intelligence has emerged as"
 publishedDateTime: 2023-04-21T18:33:00Z
-originalUrl: "https://www.bizjournals.com/triad/news/2023/04/21/ai-startups-to-watch.html"
-webUrl: "https://www.bizjournals.com/triad/news/2023/04/21/ai-startups-to-watch.html"
+originalUrl: "https://www.bizjournals.com/jacksonville/news/2023/04/21/ai-startups-to-watch.html"
+webUrl: "https://www.bizjournals.com/jacksonville/news/2023/04/21/ai-startups-to-watch.html"
 ampWebUrl: "https://www.bizjournals.com/bizjournals/news/2023/04/21/ai-startups-to-watch.amp.html"
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/bizjournals/news/2023/04/21/ai-startups-to-watch.amp.html"
 type: article
@@ -34,7 +34,49 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "The Secret History of AI, and a Hint at What’s Next"
+    excerpt: "Artificial intelligence is already a big part of our daily lives"
+    publishedDateTime: 2023-04-22T03:00:00Z
+    webUrl: "https://www.wsj.com/articles/the-secret-history-of-ai-and-a-hint-at-whats-next-428905de"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-768109/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "How Chip Engineers Plan To Use AI"
+    excerpt: "Semiconductor Engineering sat down to discuss how AI is being used today and how engineers expect to use it in the future, with Michael Jackson, corporate vice president for R&D at Cadence; Joel Sumner,"
+    publishedDateTime: 2023-04-20T15:18:00Z
+    webUrl: "https://semiengineering.com/how-chip-engineers-plan-to-use-ai/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 54
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/2019/09/iStock-822081298.jpg"
+        width: 788
+        height: 443
+        isCached: true
+  - title: "The Top 10 AI Careers For Non-Techies"
+    excerpt: "Many people worry about artificial intelligence taking over their jobs nowadays. Yet, it has opened never-before-seen roles that do not require information technology skills. Even better, you can"
+    publishedDateTime: 2023-04-24T01:19:00Z
+    webUrl: "https://technology.inquirer.net/123447/the-top-10-ai-careers-for-non-techies"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 39
+    images:
+      - url: "https://technology.inquirer.net/files/2023/04/AI-careers-featured-image-capacity.com-1-620x349.png"
+        width: 620
+        height: 349
+        isCached: true
 
-secured: "Bq8ykoIgLn0FOJtfPEG7JeBmIc88/nWd1CvIsxhd+PtwXPDLy7lMkRw0ByveHxG3pN6aA2U8m16sFW6EZZPIV7wV3jtZHIs4lGa3Tx1S2DN8Lie/iRzpIamgFWUkMgzP7cJVOUSifFaAXyqHpzSVOlBAzPTeveq6nlqkuEfEa7FX1yZpbo3mvyFJeoFwEeaZ9VIvSAwGd1XBZkvoW5pNCy4t3aggAAvd3IiBoQxvWoSCdLtx3Hqt3zSa0OSWZNrHzf0DWqWvQpXWTy7+PEoXidbDqvXVeZ5LN0cckmIUiIBgd5Fq/cStCgBHawagGM6mpP+BnO9Gh6Xp70/uX7rrBAtCm/NYQJBxhLkIgukWv4RxHvPZzql35uvu/YgcD47mvsMmICWRP4OE7vSTWPt1eoXIyPcGwWR34y/6ZHJ0xdLBv5LWopSeIuMipK7DJwXBfz6XDLDurBE12nXNYl/VEMKUWKQKHdlGmQuQZgJZO4K9PBtXXuu+vpDoiy8V2xeY3U4mgigtwLsqxnVTfUT2PQ==;XfLEly7Zbk2u2BTzXR9GTw=="
+secured: "v/PSg1Xuc0E2/bTepfbLtnRmepRbW4YWOpa+bySnejjqNwcdZjIUb0wArqvbFItnaWbWeOqsM6ItzQfRdI5O18LyLG47bcE/RAYoridWrID67gaZ77tOcPJpGT0abdGNeethvDwNo9WlBvWjIOaOhgiDa7q/QD95HSWfQiIgtQJ0KU5U5N/hqbsVdxNiGKGOfkrEeB7pfYMQnmLXENWv8YMa+1vd6/+tyJX237HWzMsroYaDJqP7RNKd+0PNB5OeBVeoee0yCHcXszs9yyeuj4UM7DWsaH0ubdnmVB4XvuOmo2TTj/VSSBpxkd3aK9Beqtxxlm/1TZz8CeLeP2GDaCWJvLjYvnLMx43lm3ARwszz9kCwlkHSXGFa5ePhjYJsjLtXp6WiqOjdp37WGB/CBlioX2uVe8xd/xdkEASJVciTHSM6w8QTDRsLKP66VtAIAki4/ESwCGC1nEhQ3ewnOcZabkO9EXjfeUdhOj/St5DxmC2Paw+unNUjWXIn9ygsMC+mflF2bFn/8y23up1kXQ==;xbSSmfneP14jiZVp+sEhnw=="
 ---
 

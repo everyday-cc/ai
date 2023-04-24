@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "We need to have a major debate about facial recognition technology before gardaí can use it"
+    excerpt: "First of all, let’s be clear on what we’re talking about. Facial recognition technology (FRT) is a system capable of matching a human face from a digital image or a video frame against a database of faces. Many of us have it enabled as a security ..."
+    publishedDateTime: 2023-04-24T01:35:00Z
+    webUrl: "https://www.independent.ie/opinion/comment/we-need-to-have-a-major-debate-about-facial-recognition-technology-before-gardai-can-use-it-42445330.html"
+    type: article
+    provider:
+      name: Independent.ie
+      domain: independent.ie
+    quality: 29
+    images:
+      - url: "https://www.independent.ie/opinion/comment/358a1/42445328.ece/AUTOCROP/w1240h700/1333881337"
+        width: 1240
+        height: 700
+        isCached: true
 
 secured: "c0pF1wwsgClwhYw3rpklAnHz0HiS9qgeWxPUs8WMBE1BsGTnWMxJaA6HYcV8fS6+UBN4MDD2AGtEtpmpplUxaLEwxAMmtDhBsUL5+2qubYSrWad0GGHnJ+l5kVPwBFSCZLRs5iRrcf73Xdc2GCXeWrZ4pgpXL0cDYjdfhFwnSQVI66XHMqKihtPELu7qKnWtAl08D8X/DExqixbjDkgI0o1/GC0W0mkoniQh/k8PH7Y6x6WAF2fdbEa7xHbgxFz+wuLvBNMJHUUjpN2XHxXWfGlvhySWVPu8OMuB1kllmNv1y53q9mleGiCT8Rqw/TnB6NvEzzNXROSQgoAeEviBX1nVKAugdEln7pSK6HM/3ew=;dTp/gZYFYGquYhqaIOSHWg=="
 ---

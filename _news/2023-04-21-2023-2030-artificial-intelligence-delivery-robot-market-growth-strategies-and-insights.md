@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-2030-artificial-int
 webUrl: "https://www.marketwatch.com/press-release/2023-2030-artificial-intelligence-delivery-robot-market-growth-strategies-and-insights-2023-04-21"
 type: article
 quality: 76
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "An Investigation into the Demand for AI Infrastructure Market"
-    excerpt: "The latest market research report on the Global \"AI Infrastructure Market\" is segmented by Regions, Country, Company"
-    publishedDateTime: 2023-04-19T08:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/an-investigation-into-the-demand-for-ai-infrastructure-market-2023-04-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-Driving or Driverless Cars Market Emerging Offers New Opportunities forecast 2023-2030"
     excerpt: "Global Self-Driving or Driverless Cars Market research report offers a detailed analysis of valuable insight into"
     publishedDateTime: 2023-04-22T05:19:00Z

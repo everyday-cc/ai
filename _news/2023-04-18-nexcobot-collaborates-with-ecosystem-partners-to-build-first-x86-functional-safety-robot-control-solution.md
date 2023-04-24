@@ -2,9 +2,9 @@
 category: news
 title: "NexCOBOT collaborates with ecosystem partners to build first x86 functional safety robot control solution"
 excerpt: "NexCOBOT and its ecosystem partners, will announce the launch of a new functional safety robot control solution in Hannover Messe 2023. NexCOBOT's PC-based robot control platform-SCB100 ..."
-publishedDateTime: 2023-04-18T02:53:00Z
-originalUrl: "https://www.digitimes.com/news/a20230418PR200/press-release.html"
-webUrl: "https://www.digitimes.com/news/a20230418PR200/press-release.html"
+publishedDateTime: 2023-04-18T10:52:00Z
+originalUrl: "https://www.digitimes.com/news/a20230418PR200/press-release.html&chid=9"
+webUrl: "https://www.digitimes.com/news/a20230418PR200/press-release.html&chid=9"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 853
     isCached: true
 
-secured: "6N/XVlUYx3oOpDHmeJwUp/sFzt8XKO5mvpyq2/9lYYxQEIaMbdfB0xNu1BBG7jqmByOiS729dOBQkyjLPLST8JNwHOfKBA7k6Y5kGQoJuasGYqUMWohETQvkED2kqzqGdj9BTqhFQzEp7mRTWxifrkFiFG9ruiuDR6kJPs7+kiy0bRQSI1exgOSmbq6IvMIjwSGNEjV1HSUTR5zJv7gqlMXsyxgaVs1nde9VwBn83xVL8zffruv2b3K3RBkxFA69Hz47QvCNmB5grJo14oTPFb31X8tWJlIFCC3+P/5AmRX0UBS+s/MxEyGh8zv33pdiJYBFiq5h/pBRKDNf9pGlD1BWdyJ4jrtUU/9XhZbgCaM=;eHBa0TwQLrM04Ea819lL0Q=="
+secured: "eMX+9tlNketE/8p7DNQS+2IT5shV0tl3lcJ5/tygUV+T+CZtxdM50EHJ6KBT3h3Y/s9kMeWzKVjAHHr8uYg9wkVCHJN0spSI/mS6CmH3mmjdUOQk672MOgkMv+EO5X2ZcwGmFMcfX7wFAJzj0B3sW1/ejc7Z4N8przJkfL27YAuTFHd7zxEvwLQJG71/FxDgKmM6mO5jSqPIWZFxKE2QcFyXPgMVSaSbqfEoQPa4gW28CaSqH4kQfQ0jSzOFyGUifjxYtuA7JqrphfcSBYOQn3c5EUAuu4YqyHL7cb933lMaBTLFck9ZGTZ7ZR2I4+iY4PosKlKf+oGMhVu8DtsfDrVYREVhqxO7XF+VMmC/Ags=;AlmbuXuaYzK3Xk71vQSv6w=="
 ---
 
