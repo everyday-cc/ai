@@ -139,6 +139,15 @@ related:
         width: 740
         height: 493
         isCached: true
+  - title: "Google creates DeepMind division to combat threat from ChatGPT and Bing AI"
+    excerpt: "The rate of AI development is seemingly speeding up each day, and Google is one of the biggest players in the game. The teams have an impressive history of achievements in AI coll"
+    publishedDateTime: 2023-04-24T13:37:00Z
+    webUrl: "https://www.techradar.com/news/google-creates-deepmind-division-to-combat-threat-from-chatgpt-and-bing-ai"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 62
   - title: "Google forms AI dream team by merging 'Brain' and 'DeepMind' projects"
     excerpt: "Perhaps in response to the disappointing performance of \"Bard,\" Google has announced it will be merging its \"Brain\" and \"Deepmind\" teams."
     publishedDateTime: 2023-04-21T11:02:00Z

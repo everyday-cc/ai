@@ -41,6 +41,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Manufacturers hope for AI boost in factories"
+    excerpt: "Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery."
+    publishedDateTime: 2023-04-23T18:01:00Z
+    webUrl: "https://techxplore.com/news/2023-04-ai-boost-factories.html"
+    ampWebUrl: "https://techxplore.com/news/2023-04-ai-boost-factories.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-ai-boost-factories.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/manufacturers-see-pote.jpg"
+        width: 1024
+        height: 680
+        isCached: true
   - title: "Cold robots revolutionise cold chain logistics"
     excerpt: "The labour attraction to the cold chain facilities is not growing, however, the market does. The global cold storage market"
     publishedDateTime: 2023-04-21T09:45:00Z
@@ -66,20 +82,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 45
-  - title: "Manufacturers hope for AI boost in factories"
-    excerpt: "Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery."
-    publishedDateTime: 2023-04-24T02:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/04/24/manufacturers-hope-for-ai-boost-in-factories"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/04/23/2038678.jpg"
-        width: 1240
-        height: 862
-        isCached: true
   - title: "Artificial Intelligence will revolutionise Europe’s SMEs"
     excerpt: "Artificial Intelligence (AI) is, suddenly, everywhere. Thanks to a new breed of solutions and platforms such as OpenAI’s ChatGPT, Google’s LaMDA and Meta’s LLaMA, the power and potential of AI and its future role across all industries as well as society has been sharply brought to the fore."
     publishedDateTime: 2023-04-24T04:35:00Z
@@ -108,6 +110,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Manufacturers hope for AI boost in factory repairs"
+    excerpt: "HANOVER–Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery."
+    publishedDateTime: 2023-04-24T10:30:00Z
+    webUrl: "https://www.manilastandard.net/business/power-technology/314324509/manufacturers-hope-for-ai-boost-in-factory-repairs.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 19
 
 secured: "zHxppNreaKp4KFpUJ9JusrgIyVppISZaOBz1opi0fNyV4n/WV2Nr2MjdpX9nhmbPY/JBb6x59OblIPKR2immoV0zL5Z7EJvSDdiAv8UyTzXDdH1DpI8ABDpuvgu5+gw8oAQZCmHsgx5snA7yv0Kq96XTxo+uR1u0IrcufuvAgqKul/AdY0SJy56o8r9osPbtyUm4ayOPtSvyvPmq54BInjJsT9ExECr2fsi+PJ1V5T4UvFtr0XVyAGRCVKWzeD3k4Jf70f2BKxHNbDy35c7fO0o37Q9bkqpoiwkCZJiwfeVdhX9gkMEaxR03Pw8xM5ndpFTR2Op57sidIERZY+Lp6yO8n0zChS5KivINvfwg5U8/ufW8TAR/lUq3TYSfbDeYQY8kpejKbCXQ63RHVrEPfjNI1Nog2mAl/tqZzBtaqxp1YFLDiU5MaWBQasQXBoUFfsB6vslcI1TQQ7GnQs5VjTBxfO27BsI9+LlWW/fsSTr3nTm1MPTHS14bO3MKGFLi/VWChp8dahRoWTCRqHi+Jw==;F8xJlq/HIrHSMwgNbRjK4Q=="
 ---

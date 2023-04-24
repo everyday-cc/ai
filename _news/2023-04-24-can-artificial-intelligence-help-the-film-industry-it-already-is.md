@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-24T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/danpontefract/2023/04/24/can-artificial-intelligence-help-the-film-industry-it-already-is/"
 webUrl: "https://www.forbes.com/sites/danpontefract/2023/04/24/can-artificial-intelligence-help-the-film-industry-it-already-is/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

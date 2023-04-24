@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-24T13:00:00Z
 originalUrl: "https://www.seattletimes.com/business/reddit-wants-to-get-paid-for-helping-to-teach-big-ai-systems/"
 webUrl: "https://www.seattletimes.com/business/reddit-wants-to-get-paid-for-helping-to-teach-big-ai-systems/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Seattle Times

@@ -40,6 +40,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Manufacturers hope for AI boost in factories"
+    excerpt: "Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery."
+    publishedDateTime: 2023-04-23T18:01:00Z
+    webUrl: "https://techxplore.com/news/2023-04-ai-boost-factories.html"
+    ampWebUrl: "https://techxplore.com/news/2023-04-ai-boost-factories.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-ai-boost-factories.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/manufacturers-see-pote.jpg"
+        width: 1024
+        height: 680
+        isCached: true
   - title: "Cold robots revolutionise cold chain logistics"
     excerpt: "The labour attraction to the cold chain facilities is not growing, however, the market does. The global cold storage market"
     publishedDateTime: 2023-04-21T09:45:00Z
@@ -65,20 +81,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 45
-  - title: "Manufacturers hope for AI boost in factories"
-    excerpt: "Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery."
-    publishedDateTime: 2023-04-24T02:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/04/24/manufacturers-hope-for-ai-boost-in-factories"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/04/23/2038678.jpg"
-        width: 1240
-        height: 862
-        isCached: true
   - title: "Manufacturers hope for artificial intelligence boost in factories"
     excerpt: "Manufacturing firms are keen on using AI to automate the repair of complex machinery, thereby increasing efficacy and solving technical issues. This development was showcased in Germany's industrial Home Fair,"
     publishedDateTime: 2023-04-24T02:22:00Z
@@ -107,6 +109,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Manufacturers hope for AI boost in factory repairs"
+    excerpt: "HANOVER–Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery."
+    publishedDateTime: 2023-04-24T10:30:00Z
+    webUrl: "https://www.manilastandard.net/business/power-technology/314324509/manufacturers-hope-for-ai-boost-in-factory-repairs.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 19
 
 secured: "RvZAmrPxa3VWid+Yx4eYsCcO24apUfZfw5LDmMBpd9MnhCxsSl4pn5puMk2jEdoQYjRQGlCPCeJrCpi03jiTjkFn583nI/jwXpq0Fl6WNFHmEHWHc5lb14JWswrl/I45Wt7hYGSuQx0ew9BnXo9qmcPG0iwtG14MY0SXsGq6LixkV8pWaTKWTWE5KGsqtRC8IsGJdCQQxEoOD5l3wZiPlHyKDsfrOXp9KWV4y4IvmOBXanNsmkENODiTgSV4s0a+PV23dJ2toLidg8pmmT1ESnUt/Gu+vTPHX1eqhXIlSxMr6NSWUbXChO4ma79/Fo2qCtcWNHt8Eov2PIIUFfCrgn2NiC7/Ibz4d+JeHxNLwVs=;jvACT6EXR/RsRxCuoJUjcQ=="
 ---

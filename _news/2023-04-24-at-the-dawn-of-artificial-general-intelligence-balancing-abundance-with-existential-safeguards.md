@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-24T13:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/at-the-dawn-of-artificial-general-intelligence-balancing-abundance-with-existential-safeguards/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/at-the-dawn-of-artificial-general-intelligence-balancing-abundance-with-existential-safeguards/"
 type: article
+quality: 20
+heat: 20
+published: false
 
 provider:
   name: Forbes

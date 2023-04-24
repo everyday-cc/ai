@@ -31,20 +31,15 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Enters the Generative AI Race with Bedrock and Titan Foundation Models"
-    excerpt: "The integration and deployment of these models into applications can be achieved seamlessly using familiar AWS tools and capabilities, including Amazon SageMaker ML features like Experiments for testing different models and Pipelines for efficient ..."
-    publishedDateTime: 2023-04-19T21:31:00Z
-    webUrl: "https://www.infoq.com/news/2023/04/aws-bedrock-titan/"
+  - title: "Researchers Leverage Generative AI to Improve Cancer Treatment Targets"
+    excerpt: "Researchers from the University of Texas are studying the use of generative AI for adaptive radiotherapy to better personalize cancer treatments."
+    publishedDateTime: 2023-04-24T13:29:00Z
+    webUrl: "https://healthitanalytics.com/news/researchers-leverage-generative-ai-to-improve-cancer-treatment-targets"
     type: article
     provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 52
-    images:
-      - url: "https://res.infoq.com/news/2023/04/aws-bedrock-titan/en/headerimage/generatedHeaderImage-1681863961963.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 19
 
 secured: "WeW3NQ8xoY4mF/N8WT28sSCwmD/2qWllw9b78BRhNdBhDss2M6H6mN3/jmnmkKMDNXJ7LUjhafMFL4wP6y6d27q06VcljrwcnaFA0Rv1T+WMDtlRIpMErUBKR7x24NBq4BCVb+lq1K+WrhcZKN9aPmlu9upi9vrecWoFzUe03OAOQOeWSwvI/nR3plU/8xqs5OND1k/iEePabcc0/Gqj8nTAZq0hc2oyjqDgxq14BhpQN9HU+P50dGdK1dhAb73GMBnaLARQ9DX4DEMoMz6lbxg1EJZwCqM1FMvI7IPQQqpAffDklxNKVIVGMeUeEo+E6ajIDSExH+YA2B5D3HYM10/WYpEY0C5fwagGfPn8lT2xmUfFyfU1c6rJREeoXM8Mn+JQfxUhX2rR5i3s7RA9qHZp5Bx0wU1PBKdH6/sclgGxwBdOuQNW+iYLWh9NNw6DB0Dbq6i7/9kYZ5CJ7o2D6t1TKsg9PEZXTe17ysiccg1kcD36YIpUkuBnePVPDHxI0YayNq98OG0/1vwilZtgmg==;EmwfxK4JL8VK3mhuMxun/g=="
 ---

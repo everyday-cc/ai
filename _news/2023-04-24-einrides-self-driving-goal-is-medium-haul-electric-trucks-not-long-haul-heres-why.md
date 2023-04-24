@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-24T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/bradtempleton/2023/04/24/einrides-self-driving-goal-is-medium-haul-electric-trucks-not-long-haul--heres-why/"
 webUrl: "https://www.forbes.com/sites/bradtempleton/2023/04/24/einrides-self-driving-goal-is-medium-haul-electric-trucks-not-long-haul--heres-why/"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: Forbes

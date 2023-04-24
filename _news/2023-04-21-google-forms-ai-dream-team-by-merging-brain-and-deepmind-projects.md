@@ -149,6 +149,15 @@ related:
         width: 740
         height: 493
         isCached: true
+  - title: "Google creates DeepMind division to combat threat from ChatGPT and Bing AI"
+    excerpt: "The rate of AI development is seemingly speeding up each day, and Google is one of the biggest players in the game. The teams have an impressive history of achievements in AI coll"
+    publishedDateTime: 2023-04-24T13:37:00Z
+    webUrl: "https://www.techradar.com/news/google-creates-deepmind-division-to-combat-threat-from-chatgpt-and-bing-ai"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 62
   - title: "Google merges its DeepMind and Google Brain AI research groups"
     excerpt: "Google LLC parent Alphabet Inc. is merging its two main artificial intelligence research groups into a single unit. Alphabet Chief Executive Officer Sundar Pichai announced the move in a blog post published today."
     publishedDateTime: 2023-04-21T16:04:00Z

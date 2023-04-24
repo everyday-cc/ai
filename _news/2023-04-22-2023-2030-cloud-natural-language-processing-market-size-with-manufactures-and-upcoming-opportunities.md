@@ -29,15 +29,43 @@ images:
     isCached: true
 
 related:
-  - title: "Cloud Natural Language Processing Market Demand by 2031"
-    excerpt: "The latest market research report on the Global \"Cloud Natural Language Processing Market\" is segmented by Regions, Country, Company and other Segments. The global Cloud Natural Language Processing market is dominated by key Players,"
-    publishedDateTime: 2023-04-21T18:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-demand-by-2031-2023-04-21"
+  - title: "2023 to 2030 Natural Language Processing Market Upcoming Trends"
+    excerpt: "Natural Language Processing Market” Are a Collection of Information and Analysis Obtained From Diverse Sources to"
+    publishedDateTime: 2023-04-21T04:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-to-2030-natural-language-processing-market-upcoming-trends-2023-04-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market SWOT Analysis till 2030"
+    excerpt: "Facial Recognition Market” Are a Collection of Information and Analysis Obtained From Diverse Sources to Aid Businesses"
+    publishedDateTime: 2023-04-24T04:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-swot-analysis-till-2030-2023-04-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Data Science and Machine Learning Service Market 2023-2031 is Booming in Upcoming Period"
+    excerpt: "Data Science and Machine Learning Service Market Report Insights (2023-2030): (102 Pages Report) Data Science and"
+    publishedDateTime: 2023-04-21T01:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-data-science-and-machine-learning-service-market-2023-2031-is-booming-in-upcoming-period-2023-04-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

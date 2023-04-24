@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence in Platform as a Service (PaaS) Market 2023 Staying Ahead in Industry Upcoming Years by 2030 | Research Reports World"
+    excerpt: "The Artificial Intelligence in Platform as a Service (PaaS) Market Scope and Overview Report for 2023 presents a"
+    publishedDateTime: 2023-04-24T06:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-platform-as-a-service-paas-market-2023-staying-ahead-in-industry-upcoming-years-by-2030-research-reports-world-2023-04-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "7EnjSo6LGQclCpTXUQCXT/mQjmkUBm08IAJfDYUZEnRPXLdC2A7GqdhG3Rlg2BHVm5dR12ipN3jFL0T2efk+Z02dnLltRExWcPSquPxzC3ieV34sniGFPicnC+sU8oK3+Qq/GLkFw50/8ZNHyDqbPrxqxS2/QlmGao759IBaWjuA5cp8Fx0T727SsWPHhjIyIrYPBbrBreifKpER0HbfHj9g0r8ap1sWqND80WK4jRS1wP5O/NVjSH5BrberfSloaXONTck8TAX56ihtbpZB8vuEH8IY5glI/inwmSwWHrN6d0p729+Pr7BooKgwRTmlycr8IKcD/dQQICSXE82h4OOaYZHYiJcgxBsfbk8gAk0=;mjAz9eZMitlDnSsrnaWPLA=="
 ---

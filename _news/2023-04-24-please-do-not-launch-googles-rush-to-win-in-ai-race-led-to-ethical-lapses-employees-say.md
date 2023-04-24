@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-24T11:33:00Z
 originalUrl: "https://financialpost.com/technology/google-rush-ai-ethical-lapses-employees-say"
 webUrl: "https://financialpost.com/technology/google-rush-ai-ethical-lapses-employees-say"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: Financial Post

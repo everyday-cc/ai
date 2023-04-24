@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-24T13:48:00Z
 originalUrl: "https://www.buffalo.edu/news/news-releases.host.html/content/shared/mgt/news/not-so-fast-robots-humans-still-best-stock-traders.detail.html"
 webUrl: "https://www.buffalo.edu/news/news-releases.host.html/content/shared/mgt/news/not-so-fast-robots-humans-still-best-stock-traders.detail.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Medicine Buffalo

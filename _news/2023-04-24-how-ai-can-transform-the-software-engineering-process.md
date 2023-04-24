@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/ykjak6/article66772553.ece/alternates/FREE_1200/2023-02-27T170818Z_1823284669_RC2RJZ9GD7U8_RTRMADP_3_TECH-CONFERENCE-MWC.JPG"
         width: 1200
         height: 814
-        isCached: true
-  - title: "Drones can fly themselves with worm-inspired AI software"
-    excerpt: "Liquid neural networks, a type of artificial intelligence tool, are unique. They can extrapolate and apply previous data to new environments. In other words, “they can generalize to situations ..."
-    publishedDateTime: 2023-04-19T20:08:00Z
-    webUrl: "https://www.popsci.com/technology/liquid-neural-network-drone-autonomy/"
-    ampWebUrl: "https://www.popsci.com/technology/liquid-neural-network-drone-autonomy/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/liquid-neural-network-drone-autonomy/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 59
-    images:
-      - url: "https://www.popsci.com/uploads/2023/04/19/DJI-drone.jpg?auto=webp"
-        width: 2000
-        height: 1125
         isCached: true
   - title: "How Chip Engineers Plan To Use AI"
     excerpt: "Semiconductor Engineering sat down to discuss how AI is being used today and how engineers expect to use it in the future, with Michael Jackson, corporate vice president for R&D at Cadence; Joel Sumner,"

@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-24T13:20:00Z
 originalUrl: "https://www.forbes.com/sites/qai/2023/04/24/a-recession-looks-more-likely-and-google-and-tesla-ceos-both-praise-and-raise-concerns-about-aiforbes-ai-newsletter-april-22nd/"
 webUrl: "https://www.forbes.com/sites/qai/2023/04/24/a-recession-looks-more-likely-and-google-and-tesla-ceos-both-praise-and-raise-concerns-about-aiforbes-ai-newsletter-april-22nd/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Forbes

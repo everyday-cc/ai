@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-24T12:25:00Z
 originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/16238204/aws-announces-three-new-amazon-guardduty-capabilities-to-help-customers-protect-container-database-and-serverless-workloads/"
 webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/16238204/aws-announces-three-new-amazon-guardduty-capabilities-to-help-customers-protect-container-database-and-serverless-workloads/"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: The Globe and Mail

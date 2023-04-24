@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-24T12:58:00Z
 originalUrl: "https://www.news.com.au/entertainment/tv/current-affairs/indigenous-campaigner-taylah-grays-swipe-on-the-voice/news-story/fc789ef8de5b2076d484a1cd3d166354"
 webUrl: "https://www.news.com.au/entertainment/tv/current-affairs/indigenous-campaigner-taylah-grays-swipe-on-the-voice/news-story/fc789ef8de5b2076d484a1cd3d166354"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Couriermail

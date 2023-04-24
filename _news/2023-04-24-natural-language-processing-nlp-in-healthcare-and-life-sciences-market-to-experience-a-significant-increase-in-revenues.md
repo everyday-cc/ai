@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-to-experience-a-significant-increase-in-revenues-2023-04-23"
 type: article
 quality: 76
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -30,20 +30,99 @@ images:
     isCached: true
 
 related:
-  - title: "Data Science and Machine-Learning Platforms Market Size and Share Expanding worldwide by 2023"
-    excerpt: "Data Science and Machine-Learning Platforms Market Size 2023 | New Report (130 Pages) | Analytics | In This Reports"
-    publishedDateTime: 2023-04-24T03:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-size-and-share-expanding-worldwide-by-2023-2023-04-23"
+  - title: "Natural Language Processing (NLP) in Healthcare Market Growth by 2031"
+    excerpt: "The latest market research report on the Global \"Natural Language Processing (NLP) in Healthcare Market\" is segmented"
+    publishedDateTime: 2023-04-24T07:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-growth-by-2031-2023-04-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 101
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Healthcare Artificial Intelligence (AI) Market Research, 2023-2030"
+    excerpt: "Healthcare Artificial Intelligence (AI) Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 118 Pages Report The extent and overview of the various commercial opportunities throughout the ensuing years are shown in the global \"Healthcare Artificial Intelligence (AI) Market\" research report,"
+    publishedDateTime: 2023-04-21T03:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-research-2023-2030-2023-04-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 99
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023 to 2030 Natural Language Processing (NLP) Market Upcoming Trends"
+    excerpt: "Natural Language Processing (NLP) Market” Are a Collection of Information and Analysis Obtained From Diverse Sources"
+    publishedDateTime: 2023-04-24T04:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-to-2030-natural-language-processing-nlp-market-upcoming-trends-2023-04-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Software Market Recent Developments and Updates By 2031"
+    excerpt: "The latest market research report on the Global \"Deep Learning Software Market\" is segmented by Regions, Country,"
+    publishedDateTime: 2023-04-20T03:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-recent-developments-and-updates-by-2031-2023-04-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cloud Natural Language Processing Market Demand by 2031"
+    excerpt: "The latest market research report on the Global \"Cloud Natural Language Processing Market\" is segmented by Regions, Country, Company and other Segments. The global Cloud Natural Language Processing market is dominated by key Players,"
+    publishedDateTime: 2023-04-21T18:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-demand-by-2031-2023-04-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Mobile Artificial Intelligence Market Demand by 2031"
+    excerpt: "The latest market research report on the Global \"Mobile Artificial Intelligence Market\" is segmented by Regions,"
+    publishedDateTime: 2023-04-24T08:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-market-demand-by-2031-2023-04-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Marketing Market Top Key Players by 2031"
+    excerpt: "The latest market research report on the Global \"AI Marketing Market\" is segmented by Regions, Country, Company and"
+    publishedDateTime: 2023-04-24T08:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-marketing-market-top-key-players-by-2031-2023-04-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
 
 secured: "zCVBkAo4Sixlp3tDG6Wdh9POzs6+j8NBqMD4t9xm7Btj/wXBSS4T9VNgrXOfHpAyWbP8MCmESoTo4yVCi7qGyJkHVs9JgJSmei+tg0mA+DnwJNMru1KGr7w+7WUo0LP1crn8TRbdW2rIdEZKfu5M4Ahc4PfuQ+wAho9Xk9HXmB2/0Rjz0377g1pUMGCpx37/UZAiaV72eWFEwMSkJeztiQvkw8w9QbFgL0CAVzPHxIoCWNjG4256w53IaClKf7+DNmCf7hzMCytxYbXaNQszRVLdtXIu2Mj+KHs389TW+lRr6MysPmaHvExqm2ix4uIwI/ZfH4vLUBiGXKAXFZQGoHVWlidxO9uPfMtGUcifR2o=;4GjOXIcsGoEaAwzWQvAehg=="
 ---

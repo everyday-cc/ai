@@ -7,7 +7,7 @@ originalUrl: "https://hackaday.com/2019/08/25/the-tens-of-millions-of-faces-trai
 webUrl: "https://hackaday.com/2019/08/25/the-tens-of-millions-of-faces-training-facial-recognition-youll-soon-be-able-to-search-for-yourself/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 2951
     height: 1660
     isCached: true
+
+related:
+  - title: "The politics of facial recognition in the US still swings like pendulum"
+    excerpt: "Privacy advocates have pushed through a near-total ban on government use of facial recognition in the largest city in the state of Alaska."
+    publishedDateTime: 2023-04-20T19:38:00Z
+    webUrl: "https://www.biometricupdate.com/202304/the-politics-of-facial-recognition-in-the-us-still-swings-like-pendulum"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1333
+        isCached: true
 
 secured: "iyZ6/AM/LeyhXjR4ivT5vKl/SGEUR0IUlg5hVvXQl8N+bWpsGzMrqQG259JnfMujdiihfW+jWGr4iMkOqPrAnuKKPq6zQJ0LxfZyg+I7K2MyIqnkOREALDD7A3ilTpvg3qT+hngeR7dFAcxpv4atZHj3SnGom3TxsV79m/xKTjLuP17ygBuQsLc5Zlw3x3U9y5wgQJwXYz3sHNkV1xkwaxz0pj2406rbUtPPBFV6CDSrRHxh6od/furMvZf7DOCevY2/ZAkmPKgj5EFEN/v1WsU2sWkrgr9wblYzd4Ptnig9H+d97W86ZR5Ed/tXkOghUbVIBMl4qXSdGzSZxeR1FGF4OahmEmksLs9YJF7FLZ0=;FJs988y+oDcS/TKe/qCD+g=="
 ---

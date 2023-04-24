@@ -2,19 +2,27 @@
 category: news
 title: "Voyis Launches Advanced Vision System for Subsea ROVs"
 excerpt: "Subsea optical inspection technologies developer Voyis Imaging Inc. has launched a new product line called Discovery Vision"
-publishedDateTime: 2023-04-18T13:46:00Z
-originalUrl: "https://www.marinetechnologynews.com/news/voyis-launches-advanced-vision-627504"
-webUrl: "https://www.marinetechnologynews.com/news/voyis-launches-advanced-vision-627504"
+publishedDateTime: 2023-04-18T12:36:00Z
+originalUrl: "https://www.oedigital.com/news/504445-voyis-launches-advanced-vision-system-for-subsea-rovs"
+webUrl: "https://www.oedigital.com/news/504445-voyis-launches-advanced-vision-system-for-subsea-rovs"
+ampWebUrl: "https://www.oedigital.com/amp/news/504445-voyis-launches-advanced-vision-system-for-subsea-rovs"
+cdnAmpWebUrl: "https://www-oedigital-com.cdn.ampproject.org/c/s/www.oedigital.com/amp/news/504445-voyis-launches-advanced-vision-system-for-subsea-rovs"
 type: article
 
 provider:
-  name: marinetechnologynews.com
-  domain: marinetechnologynews.com
+  name: oedigital.com
+  domain: oedigital.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "p7iKb+UGwZZtqFwCBON+NzRa2w+TpFAAuuSGLUN3asLCBBWxY/PHPhWP6U5KLCQRNXZGK+VPgmxRzzVBk302crZ0U+K0ATFclUMP/GY0lmbdTpygsSDZqR5mq0GCVDqEJ5Lzkt7b25cmTlIl6rscpCYDSs5TUaVBeeOUGQw1aJURHbfji9o338u5rZtnbRzDoYUB8r1L7dwJV43FXasvI1yl0mBd/aFtOodu0ymLz+Go2aimK2K/Ka4wB1xZfQ8lGhHx6UuTkW6t9Krxba7u+0sp0xCsxAVhYEiu4PaGLMiaTNxCXscl0Y/Fx42F9Wjjh5OWFhSs0aF0gtuMobqm6QUjE1XEpVDxqtHtX84D3Biu/yugzn5CF3/rOlrwCKj/IUr3MXt55Ws+9cp3OsHwuuB2X3PVXohl7Ny82cm9xUis7ttNhMDw/1eW9/618CAoMe6usUDXUQ5Xs1fwLGS8z1aaShH7Dty/8/0PE77N0QXabpXvSHXC5suIQoFhY7ejeZeMpJoGS0m2qevT6jG5bQ==;CBzHEJX0B5NNAx9rxsKVHA=="
+images:
+  - url: "https://imagesedit.marinelink.com/images/storage/w800h600/stereonovamini-0211.png"
+    width: 800
+    height: 600
+    isCached: true
+
+secured: "sdHAvHlrKn45RFKqTMONKSersqPL4/gHE+siclmRsEvNhz1BpTyr97AA9gPzRAt14dPbEjKJuCQjjEW4BRZhVQLi8iANyudjQpD8YjhX79RjIM/8p1+d6UNPW3eKdDvU64YwV5We5zrjZvIz1kBPTyJSbIwfQBLmP09fPqgGdwq7I2GvfEqq0PONCB8RFAzHaeoAEHxb9MIvgsdjP4AB8N7zaPD9KJ+K9zviq6Kh4h05GrpbETftU58hqll+jQcDnih36ZRitOj1NZKKbO9jQMH9o+2jxaVhJdpM34bIo1Ax0i197bT32ndFM1XU+oqOpexxvGg80dvCi+aTKLxp/8nB+AiOLgalJb7UqWvmw5k=;X/k/OUuQ2sJuzpHM6+aZRA=="
 ---
 

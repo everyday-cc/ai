@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-24T13:00:00Z
 originalUrl: "https://www.ibm.com/blog/why-companies-need-to-accelerate-data-warehousing-solution-modernization/"
 webUrl: "https://www.ibm.com/blog/why-companies-need-to-accelerate-data-warehousing-solution-modernization/"
 type: article
+quality: 81
+heat: 81
+published: true
 
 provider:
   name: IBM

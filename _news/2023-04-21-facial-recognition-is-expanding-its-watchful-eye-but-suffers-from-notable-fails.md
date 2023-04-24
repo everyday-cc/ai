@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/facial-recognition-expanding-watchful-e
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/facial-recognition-expanding-watchful-eye-suffers-notable-fails.amp"
 type: article
 quality: 102
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Facing up to facial recognition"
-    excerpt: "While many communities have developed ordinances and regulations aimed at banning or limiting facial recognition—it’s time to re-evaluate."
-    publishedDateTime: 2023-04-19T19:05:00Z
-    webUrl: "https://www.americancityandcounty.com/2023/04/19/facing-up-to-facial-recognition/"
-    type: article
-    provider:
-      name: Government Product News
-      domain: americancityandcounty.com
-    quality: 19
 
 secured: "yo4LigPVd/5t5CNqL3jWZfT/z6eU9eWC2rkvd0g4YT7CGiw59PNZ3M9Gz2sTFq3S5dKfGBs+dHNi9BelGtweWYSumatnyn+DJcqhucLwHY4jZNPohX3DT34v/lX3vnClsN40COt9yX21RcM9gfOB20ujh/vRzggOAHC0qgp3JDaLUjvuZos8VR9TeePc/G3GxuvEF2O6bmOHpeVuXlVx7Ax5U2YHL62g7ozk19YyFLKrOiRLmlRcLvlYbv2ZFVWxdaE92Th/gVSRZgpf8ixkKAANo0uzziLC1efYEkIczgbo58Oafe6tD9k6VDRd9E0IZXspZ29WL7JARAVn+ePIwWDVP06lTE2H/V8AM2EV6edu/KurUZb7wI/+t2ggRvdiUzd3BVJjGYQOnIBUa3lmxMQh3ErqP6/hqcjT2gf2R+0HPj6oNM4Jr/TxzZq8omSTzDjxuKW4CLCkVIsLP+64xppwO7r/BGuTQlkRn6b54hlfFX+j/6SiGvMY9PqyQg4Q1Ra//ETtFsbkMNkVKUuT6w==;X4Yk4AYM5vSTZgAfn8ilqA=="
 ---

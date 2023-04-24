@@ -2,26 +2,28 @@
 category: news
 title: "Manufacturers hope for AI boost in factories"
 excerpt: "Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery."
-publishedDateTime: 2023-04-24T02:00:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/04/24/manufacturers-hope-for-ai-boost-in-factories"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2023/04/24/manufacturers-hope-for-ai-boost-in-factories"
+publishedDateTime: 2023-04-23T18:01:00Z
+originalUrl: "https://techxplore.com/news/2023-04-ai-boost-factories.html"
+webUrl: "https://techxplore.com/news/2023-04-ai-boost-factories.html"
+ampWebUrl: "https://techxplore.com/news/2023-04-ai-boost-factories.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-ai-boost-factories.amp"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2023/04/23/2038678.jpg"
-    width: 1240
-    height: 862
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/manufacturers-see-pote.jpg"
+    width: 1024
+    height: 680
     isCached: true
 
 related:
@@ -108,7 +110,16 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Manufacturers hope for AI boost in factory repairs"
+    excerpt: "HANOVER–Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery."
+    publishedDateTime: 2023-04-24T10:30:00Z
+    webUrl: "https://www.manilastandard.net/business/power-technology/314324509/manufacturers-hope-for-ai-boost-in-factory-repairs.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 19
 
-secured: "3dyKWCb+FINMNdTxrEivkBjmRXu6zEEunH1m3Nms99NsoItuG5b7NT8NeGjjUkmxuPPiAd7g9N25eEZQcr+UAyO6x8aJMQd0nN2OHkYmyMHD/oHK3a004QyGY7f0e9c8BOrlDytNL8dcFF1tgDBG4yCiiJDxwA87xKSUZq86eQSEx9+KW4JO35lNgz3cbiqgsMuHicGzmx/d0+I150BlRQjNNiQ7Ry3yD3pvrAqZcZ94RUrIMNOjJeMU7tlq6FVBaBAgEQOfrFWVKL5ZUSa4juDIwoFvyZRXjI65A2i9yCRBmNBp1pQbLgi+NR9A/U/lrEWGpWpTggObIHlvQF1LqjnqIbcelA9WGzgEk557HYr1Q249szuvZg47BYXe/3D7QTsCAAhdnOMEXZhg0frAFVSqRBifJWP8dPTprs37O9vV6Q1kS/T7MMlrAiCF9DsFe+y1CxspfHLuxuWArGFXSCGmX4YgHE1i82sCkL1ktMsIFx7KysuCmHvL47QS3IdRnA4ybEOKeLn6iTx8RwNZhA==;KVUBmkFb1Skqlys7e8YQbA=="
+secured: "0hbm8F2rCgyvGV3ZXUxHzU79jvvr61Yl8X2sSq56zK1hweCqcOdmQkOchnMOxvB76MW7KN7zfS1oo1JBYxZYvv5qJMz/kMDGks5vRzbx3xMt6GlQNvAoExpgvyFyuQR2qjqHQwEnJhtKOrmiJ4q/H83LHi/ceEsG7xJpbaT4459zQBYgxWYk92iByHfKG4HZ2vwR0rYA/cxCSiwibfMW6Ol6/RKouaTdKE5TrA8rBZ0ztJEW5eeRixNO3HOZHXbWcikPVmpavAq6Zw06a3VOk9pORRKcekFDLvfyhvPcSbUdvYMc7QQT9WDjJvma2xDr25+IkcKslxDEFV0oCUmSwzjvQtbim/3tOOoU0+KIj68=;n/anixa6APxSCcdskXlQFA=="
 ---
 

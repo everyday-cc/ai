@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/blakemorgan/2018/07/16/how-amazon-has
 webUrl: "https://www.forbes.com/sites/blakemorgan/2018/07/16/how-amazon-has-re-organized-around-artificial-intelligence-and-machine-learning/"
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 870
     isCached: true
+
+related:
+  - title: "How AI, automation, and machine learning are upgrading clinical trials"
+    excerpt: "AI and machine learning offer opportunities to increase efficiency, quality, and speed at every stage of clinical trials."
+    publishedDateTime: 2023-04-24T14:55:00Z
+    webUrl: "https://www.pharmaceutical-technology.com/sponsored/how-ai-automation-and-machine-learning-are-upgrading-clinical-trials/"
+    type: article
+    provider:
+      name: Pharmaceutical Technology
+      domain: pharmaceutical-technology.com
+    quality: 54
+    images:
+      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2023/04/shutterstock_1218220324.jpg"
+        width: 1000
+        height: 417
+        isCached: true
 
 secured: "IeZF0B7K6d7Ycx7J/uBpY6HcoCv6k0/jsXzDHFM6ZEB+a12P0n7IeoTLhY1OPtrAOopVyZg0OdcbgqBqEcBkrV7YnpSUBryfPlsnIGmqfXTI7ppXG5C4tAeF/jk3sFR4icWoZ7CXG89eOq3R61vvosyymh2gcuuhdDL6ZxT0x1xQSSJYMMIdJTyYMVcWRAIoWybGFLMbF96+fApzxB0o2BpRN0er4LtMZRyq0aIy4CbEyNWCov6dvwXSmrI37MomgmrASI2Tw/xBucTuHNrgDYOu9JwAIq8WOCvJo5pRqh2rkgNe31wRCdoPxNDZmJVg6FoO5ZBOyO3zJKnk1TJStZi5/lNQpRndDxLSYkD1Bvk=;R/P+Yrt2XAGRBrZRcvNERg=="
 ---

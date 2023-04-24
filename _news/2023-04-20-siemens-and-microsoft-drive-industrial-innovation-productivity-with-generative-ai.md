@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Three issues with generative AI still need to be solved"
-    excerpt: "While generative AI has captured the attention and imagination of many in the tech world, underlying issues could hinder its spread."
-    publishedDateTime: 2023-04-20T12:58:00Z
-    webUrl: "https://www.computerworld.com/article/3694189/three-issues-with-generative-ai-still-need-to-be-solved.html"
-    ampWebUrl: "https://www.computerworld.com/article/3694189/three-issues-with-generative-ai-still-need-to-be-solved.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3694189/three-issues-with-generative-ai-still-need-to-be-solved.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/02/shutterstock_1227346972-100937394-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "India’s Chip Design Workforce Faces Massive AI Threat"
     excerpt: "AI-based tool for FPGA designers showed about 5 times (more in many cases) improvement in the output by senior engineers"
     publishedDateTime: 2023-04-24T09:00:00Z
@@ -87,6 +71,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Siemens and Microsoft drive industrial productivity with generative artificial intelligence"
+    excerpt: "Siemens' new Teamcenter app for Microsoft Teams to use AI, boosting productivity and innovation throughout a product lifecycle Azure OpenAI Service powered assistant can augment the creation, optimiza"
+    publishedDateTime: 2023-04-23T23:43:00Z
+    webUrl: "https://www.ryt9.com/en/prg/267476"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
+    quality: 44
+    images:
+      - url: "https://www.ryt9.com/img/files/20230424/iq164e066a342eb4a5676f8b5172ae5e00.jpg"
+        width: 1500
+        height: 841
+        isCached: true
   - title: "Generative artificial intelligence on our “Babbage” podcast"
     excerpt: "GENERATIVE AI is taking the world by storm. Babbage has explored artificial intelligence through a variety of lenses. OpenAI’s ChatGPT, an advanced chatbot released in late-2022, amassed over 100 million monthly active users and exhibited unprecedented capabilities,"
     publishedDateTime: 2023-04-20T11:51:00Z
@@ -100,6 +98,20 @@ related:
       - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230422_STP502.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "AI Is Coming for Wealth Management. Here’s What That Means"
+    excerpt: "AI will allow the client to access an incredible amount of information and ask questions in a language that the client is comfortable with and receive answers. For practitioners, the limitation it will have will be in researching what is happening today with that company,"
+    publishedDateTime: 2023-04-24T13:33:00Z
+    webUrl: "https://www.wealthmanagement.com/technology/ai-coming-wealth-management-here-s-what-means"
+    type: article
+    provider:
+      name: WealthManagement.com
+      domain: wealthmanagement.com
+    quality: 39
+    images:
+      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/uploads/2016/02/robot-businessmen.jpg"
+        width: 770
+        height: 400
         isCached: true
 
 secured: "dCvgHaiEML54XNQwZmhDLfC7Qvlsq4XOotVS4RPS58IfBvVWPsxmUw0WMqfYbIFuBVKrwWcFG/p+dHABiUqPQSCzWKZrELB5OXQfNubsB8BFQs6v6PfXJY/74w35a8+oW2pEe4//046qcLAjXS++cOLJHTkBHufTUUrJSbgRiL260U8w5Y1zgtNr3nSdx/6N+YrSiFygRXvwwUTYDgo8/IvsfSve8Jra6H9ABRQHIiYgpJsgrNBWzLKpCSgprRvdXmLV148BAFvVZnKQHOzzGJFCkQKi/PfrF/2CzSLssPoLqA7pgd/D48hEHAkzeAwEf6xtoyzu876CypBUkgtBc0MP8Bji12SelHkr9FQToMpaTSvq6tzJ5+1M0UE2ZrA8O6PUKU0IK/ryyP3HarJ6DVsau5FyvWYfZF8WEfAL0NFtYnnGLx9Oe8qxcbYL/yzgp18b4OwlV52AXYoZ8CUB9jaZgsqieCR3iqRNpINiaQoUL7qPmngNKQ5amJlZXejLVeeqxubkXv29O6/ZnfRWyA==;RWrcFiOXi5rc/WYPXLXHcg=="

@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 814
         isCached: true
-  - title: "Drones can fly themselves with worm-inspired AI software"
-    excerpt: "Liquid neural networks, a type of artificial intelligence tool, are unique. They can extrapolate and apply previous data to new environments. In other words, “they can generalize to situations ..."
-    publishedDateTime: 2023-04-19T20:08:00Z
-    webUrl: "https://www.popsci.com/technology/liquid-neural-network-drone-autonomy/"
-    ampWebUrl: "https://www.popsci.com/technology/liquid-neural-network-drone-autonomy/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/liquid-neural-network-drone-autonomy/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 59
-    images:
-      - url: "https://www.popsci.com/uploads/2023/04/19/DJI-drone.jpg?auto=webp"
-        width: 2000
-        height: 1125
-        isCached: true
 
 secured: "YDxj5vnMRYU2bUFK/qOmEuILo8plQz7N1ycBQ979CW4c7K+zbUWdxLPBhA2QLCHwsyWGfUcMPPQ15J2q5z3Rvs1/s6lMKyJG2o+CNxNFBqkz97CAHy74kagiT+m4g942ymf9FDqkmjym0UzLKorD9hlHFh322gjLLL4nereURZ1/65kyc0zcDhodr06Ugo0w+Gumg6Ifprd7kr/CiiSKjz2j/RHChySK3bwiElawYzIrODOssgQpYY0e6sMzkGURfnkFXOgqBM+kvZlvwnGvA9qysxtRrEzBfDyJ61vQhQzqIfc74NtnZekvcR0/aMDhrl6F+4BmpcmRJuobXtFa8oH8odJ94Z3RFGU7OBnf8iw=;UkvOuk4AK10orqHNIiHP0A=="
 ---

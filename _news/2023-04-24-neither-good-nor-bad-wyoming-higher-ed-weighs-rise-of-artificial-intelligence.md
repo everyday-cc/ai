@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-24T13:00:00Z
 originalUrl: "https://trib.com/news/state-and-regional/govt-and-politics/education/neither-good-nor-bad-wyoming-higher-ed-weighs-rise-of-artificial-intelligence/article_7d62ae2c-def4-11ed-8bf9-d3050e052a48.html"
 webUrl: "https://trib.com/news/state-and-regional/govt-and-politics/education/neither-good-nor-bad-wyoming-higher-ed-weighs-rise-of-artificial-intelligence/article_7d62ae2c-def4-11ed-8bf9-d3050e052a48.html"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Casper Star-Tribune

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.inferse.com/490179/microsoft-previews-chatgpt-in-azure-o
 cdnAmpWebUrl: "https://www-inferse-com.cdn.ampproject.org/c/s/www.inferse.com/490179/microsoft-previews-chatgpt-in-azure-openai-service-redmondmag-com/?amp=1"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Microsoft Q3 Earnings Preview: All Eyes Are On AI-Driven Growth"
+    excerpt: "Microsoft Corp. (NASDAQ: MSFT) will announce fiscal year 2023 third-quarter financial results on Tuesday, April 25, after market close. Here are five things to know ahead of the report:"
+    publishedDateTime: 2023-04-24T13:04:00Z
+    webUrl: "https://www.benzinga.com/news/earnings/23/04/31954969/microsoft-q3-earnings-preview-all-eyes-are-on-ai-driven-growth"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 34
 
 secured: "PTZIxuNIucim8t9AGK9cmbm8vk4vEYfEELN/wp0vHdEJiAdw+RdmzGUqfr+E/cz4mEFP/CJZadh3j60bil8h2Qjk3xKa7/WumZvTdFzjH63CQEkHIOAmJF7EQL9Q11noUlZJUK3x0SMXB4yoHg+Yrs4QIXG3ytJFSL9odXNVjAaN34BaKQZ2U5XOpkgBoaKKb59nGI0IDfYovlqfz83OXP44izqlDbdcRIGojPYUmIp5+kaecd0gjHYRzjG8fgxmaNPVpRB/7tCAS8SCvxxNWh3smZNRtC7lPq6YyT8u5emtqihLInHENA9lBlb6VOlbIO3dSsadE5AGEKZQSnE7/4Ruw/7MWDRtfu3i8P84R/CRGeR7bV790YnVQjwGpTq0Ks18TlMiGmbrr3bDwURm50TKylEWxcwR2i98s+53j9kJ9CPJao7FNTEP/uS1dHc3mBx2fLa0bJIjhWvy9DQHLFC0xoXwyK/dWZQJLTSWOL1DvCQ8TaMEqw5TF9OoWRGcvkwiBdGgHd8RpkvsxFOBFw==;ArtliDeERjPaO9zCD97vDQ=="
 ---
