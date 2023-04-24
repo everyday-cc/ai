@@ -73,7 +73,7 @@ related:
   - title: "AI startups to watch"
     excerpt: "Amid a turbulent year for the tech sector, one that has brought layoffs, funding pullbacks and the failure of the industry's favorite bank, artificial intelligence has emerged as"
     publishedDateTime: 2023-04-21T18:33:00Z
-    webUrl: "https://www.bizjournals.com/denver/news/2023/04/21/ai-startups-to-watch.html"
+    webUrl: "https://www.bizjournals.com/triad/news/2023/04/21/ai-startups-to-watch.html"
     ampWebUrl: "https://www.bizjournals.com/bizjournals/news/2023/04/21/ai-startups-to-watch.amp.html"
     cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/bizjournals/news/2023/04/21/ai-startups-to-watch.amp.html"
     type: article

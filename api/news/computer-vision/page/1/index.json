@@ -600,6 +600,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-14-the-most-valuable-object-to-sink-with-the-titanic-was-a-colossal-neoclassical-painting-heres-the-paintings-unusual-backstory.md",
+      "title": "The Most Valuable Object to Sink With the Titanic Was a Colossal Neoclassical Painting. Here’s the Painting’s Unusual Backstory",
+      "excerpt": "Merry-Joseph Blondel's little-known 19th century Neoclassical work had the highest insurance claim of any single item. Learn about it here.",
+      "sourceUrl": null,
+      "webUrl": "https://news.artnet.com/art-world/titanic-111-anniversary-merry-joseph-blondel-2282910",
+      "originalUrl": "https://news.artnet.com/art-world/titanic-111-anniversary-merry-joseph-blondel-2282910",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.artnet.com/app/news-upload/2023/04/Willy-Stoewer_Titanic_1912-scaled.jpg",
+          "width": 2560,
+          "height": 1742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.artnet.com/art-world/titanic-111-anniversary-merry-joseph-blondel-2282910/amp-page",
+      "cdnAmpWebUrl": "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/art-world/titanic-111-anniversary-merry-joseph-blondel-2282910/amp-page",
+      "publishedDateTime": "2023-04-13T23:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Artnet",
+        "domain": "artnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-13-wimi-develops-a-3d-object-recognition-system-based-on-multi-view-feature-fusion.md",
       "title": "WiMi Develops a 3D Object Recognition System Based on Multi-View Feature Fusion",
       "excerpt": "BEIJING, April 13, 2023 /PRNewswire/ -- WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced the development of a 3D object recognition system based on ...",
@@ -1241,40 +1284,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-ai-in-computer-vision-market-scope-on-going-trends-industry-revenue-future-prospect-and-regional-outlook-2023-2033.md",
-      "title": "AI In Computer Vision Market Scope- On-Going Trends, Industry Revenue, Future Prospect, And Regional Outlook 2023-2033",
-      "excerpt": "Key Companies Covered in the<br />AI in Computer Vision Market Research  NVIDIA Corporation (U.S.), Intel Corporation (U.S.), Microsoft Corp",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105948411/AI-In-Computer-Vision-Market-Scope-On-Going-Trends-Industry-Revenue-Future-Prospect-And-Regional-Outlook-2023-2033",
-      "originalUrl": "https://menafn.com/1105948411/AI-In-Computer-Vision-Market-Scope-On-Going-Trends-Industry-Revenue-Future-Prospect-And-Regional-Outlook-2023-2033",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Chips Market Predictions: A Comprehensive Forecast for 2023-2030"
+    excerpt: "Apr 20, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" This comprehensive market research"
+    publishedDateTime: 2023-04-20T13:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-predictions-a-comprehensive-forecast-for-2023-2030-2023-04-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 88
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automated Machine Learning (AutoML) Market Research, 2023-2030"
     excerpt: "Automated Machine Learning (AutoML) Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report"
     publishedDateTime: 2023-04-21T03:21:00Z
@@ -168,6 +182,34 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence Software Market 2023-2030| Discover Industry Scope and Opportunities"
+    excerpt: "The \"Artificial Intelligence Software Market\" Report covers the global and regional market with an in-depth analysis of"
+    publishedDateTime: 2023-04-24T02:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-2023-2030-discover-industry-scope-and-opportunities-2023-04-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Healthcare AI And Machine Learning Market 2023 Latest Development And Prospects Microsoft, Siemens Healthineers, NVIDIA Corporation, Google X Herald"
+    excerpt: "The  global Healthcare AI and Machine Learning market  research report published by market insight reports discovers the current ou"
+    publishedDateTime: 2023-04-24T05:31:00Z
+    webUrl: "https://menafn.com/1106075870/Healthcare-AI-And-Machine-Learning-Market-2023-Latest-Development-And-Prospects-Microsoft-Siemens-Healthineers-NVIDIA-Corporation-Google-X-Herald"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 49
+    images:
+      - url: "https://menafn.com/updates/pr/2023-04/24/ADC_ef30806b-5_Image_In_Body.jpg"
+        width: 700
+        height: 395
         isCached: true
 
 secured: "JykQWW4saDWFcPHsjFAfL1Fymd0pedgb8cKqmqpb+CoujrgjTxES+KMirckF/Dn2ANy4T+HB1nVLEbfvE1lXZLSaCY2E0nYY3rVLp8hjdDpLpIPYz2Pi5rBvLDjt3XVePgNPr8CNhWH1dohvNBgIJlE2EwPyeR9dxPdcCgU2qTAk08NM/HjhpsRalmAMuNZk9NO+/CTFJ2t3gaODwr0/cdV5X3UGQy5pAIM36rOXNi/syXPjDRNwqt3ZJ+pzrGWbQmz3GpWrIcqc4/gkIj9cwNf3jkI+/NmdqizO0WA20j7ZvHjaXPUg380gyMoAyGutnns6bPQ4QD0SN21LoCeES0wzT3BsHhbWGl1AfbSJ0Dk=;v/dg7xFcDDCmbs1sJvgzEw=="

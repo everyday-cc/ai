@@ -1,12 +1,12 @@
 ---
 category: news
 title: "The AI revolution: Google's artificial intelligence developers on what's next in the field"
-excerpt: "Artificial intelligence solved an impossible problem in biology and robots powered by AI taught themselves to play soccer. The machines never get tired. They never get hungry. They learn ..."
-publishedDateTime: 2023-04-17T00:42:00Z
-originalUrl: "https://www.cbsnews.com/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/"
-webUrl: "https://www.cbsnews.com/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/"
+excerpt: "The revolution in artificial intelligence is at the center of a debate ranging from those who hope it will save humanity to those who predict doom. Scott Pelley headed to Google to see what's coming next in AI."
+publishedDateTime: 2023-04-17T11:00:00Z
+originalUrl: "https://www.cbsnews.com/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/"
+webUrl: "https://www.cbsnews.com/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/"
+ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/ai-advancements-google-artificial-intelligence-future/"
 type: article
 
 provider:
@@ -14,7 +14,7 @@ provider:
   domain: cbsnews.com
 
 topics:
-  - AI in Autos
+  - AI in Robotics
   - AI
 
 images:
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "0Z65vFnf9LvmTOL/ZCtaECbjIGbAujQwmKtzFAEw+3xjW6A/aB3o7VMx+0tD1ZspA4BlnTn7p3aVhbiOOvV4F18MtqxKD+PUU56ognp8EY6LdS/Swb1nd+AYBqOotM1gLLxqRTv8b59SRotHguXWR8xNLrK985jb9tK3pjYiXYv0uvxmKNQbri1xQvg7HsBhW3+l2D3zmc1iRaRhs4J3ArLih6RptpUmrCsmO4CWYJa/uRX5fPin9XQGScf6V1cBbRZXHhER1Cdxv/L6d++sGIryVu8G9qROxrV6HPSoBl4/Bpz8kkqt1eehk78UNgcEOSOg8sAxV/U90Vtda/pmrD+B6K4dtuNJEjXaEfxLOsQ=;ecaxSpl2fiQLwgbJ71JyXg=="
+secured: "voS2rDD9LvyzfYx8/VYbsa4SOp1FJRzQZTHyfsEBPOk+ksCHUVxEpYyD+MkrHlnL7HyT6FJhDjZAIk4vnnZIAEgzBBurKuywbDRiHbQgJKD4S1wC8lC3SZJdEHi4YRBWByeL+ZcLUm6P6i0FhhD96NE6iQcZGRrW0W52I6POj8VaHa6080MBFH7Uh73LdllH4KQ4ZMwiB3qI2tnYJ7lS1LxKlFHGOLeilsJk+sGVyElVvjcQltP11adbazlQ80BFM0Zo3dw9a6g6Fs1eSwK3gNldxv4D0o/yOo7nUnDiut19C6grKWOYX5e3y1GydCJtAph5OV4wAPr/HpZpPAw5huL63at3QzCstG30a25TipY=;Wsl+da236QHG8jbtvv2i1w=="
 ---
 
