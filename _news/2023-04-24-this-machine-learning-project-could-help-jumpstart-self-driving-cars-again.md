@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/142e9efc1a7ef87046e4afae2561ac1b6a12443f/2023/04/19/a4b9a446-4b42-4184-abae-8595075942f8/testtrack.jpg?auto=webp&fit=crop&height=675&width=1200"
@@ -48,6 +49,6 @@ related:
         height: 675
         isCached: true
 
-secured: "qWRxkYOmHf5GcwykVoezR88WxBnZ/uYVgGmnXnuvSgOSJbe2J1yH4UQjWp4VTq1yoDV47UT55vzbebKHm+Vwq2+KMo5UK+/vwedH4J/pvBdEbWMmGXoSDaIbr6b91jvLXwh5mYJ8O2/1BvnWYjUxGh+lM0QA9rv2PYwrZLA+C5hcZcb9UUozYe20PJHIlz/RFXBrTG/SuYyWgBHo00OspHT2LnKu2bMkg4TtJj2Z9I5Vdb5KHJzmBvmdZtXOsgjvr4UjSzjqbDzEO22U00MRVzKRCShZsOQ6UOX6f7sL/4vsKpUXdUIX8TzIqF5SLtS5dFisL1PjjA7D8pigHMVBE/AK7MnXKzZK1WThjyID02Y=;iWFn57M5HuQBXDT2u7WbWg=="
+secured: "9YlkQs2m8L0ay3r4+QsQEFggZFXI/f2vjJMaqg6O/MnjmvNewjbWzrlNkNeokI+lSohzNAInHCGRRwd9ifoXXPnMrFCGXtr0Jbbx1JD1y+sWh/HHU5bdYAdLTxjdL0zIwkH3gOg/kOMgVyL3sPUGLIu4l24M+wqkUEwy06ua1ck0wKEzv2fo+ZAK5A6i6JEbuFnu+XoW14n9mOZ/oJ3az6YjVp3HhtPwS0aRQXf5tK9UTd1DxovvvnIf4hhVAIpWpFIzLNXs0MuxxJfIrWmqRDiwr2fg2j4wOcRUOelDnLdpjJhKiUWlks4xTtT6lBif96kMFErz4i8QXjjELqY8bvqRU5oiEOO2RphebD6YUoUtHqDO+v0L+GagLvrtsSfaZc58DOXHrs6v4SdAvku77DTMYVLF5rPmQ91jehK0d4ENMI20aGfV9D/REmTQOx+EAnXWc6xRU3gSY8LGTvArAEQG71FdHyqfIPBJxGJjwZtHxV50EcJSb4qeOt1DOVp/bwtAHMiTGEo5Uyp4vyxpWA==;J0CMFxWhkhsVQOZZPGFRug=="
 ---
 

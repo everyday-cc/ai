@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/04/SENSORY-2.jpg?w=1200&strip=all"
