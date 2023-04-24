@@ -24,6 +24,17 @@ images:
     height: 349
     isCached: true
 
+related:
+  - title: "Tech leaders call for pause in AI development"
+    excerpt: "CBS News Bay Area anchor Elizabeth Cook asks Olaf Groth, PhD, from UC Berkeley's Haas School of Business, why some tech leaders are concerned that the development of artificial intelligence technology"
+    publishedDateTime: 2023-04-24T18:04:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/video/tech-leaders-call-for-pause-in-ai-development/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 17
+
 secured: "mwSgW5ATAIv6c1nafMNcGALz4llgDbTqXnmQaiYgoTs2XQKASsJdHwlShcO2xxh1h95MXnuJ7OfHqwG1+JZ/DnDlLQ2HFcOaWsj6wAngVF/HFk1Y5iRDjQ4HwBTe9i3HImSLGutH+P1L9QjDG7++MNydMqY6NaRbXCcJcrTaTqhYWtItTiH+dFHEjCwmo77OwQkjGuebTyZkrNZiGVyQt51ulg8NlpOVgVrrf4Gky2AJPv//cXZel47CogNWtHsoATR2fdmqGE5NIDhtwr2frnzSat1L5BVQZDc2cMX1MstYNllPyXi7gD9GOf8HdV65pIvg7Cw9j8pbQqy0sqCPe5BxamgaxymFHvTz/Xmzu4Xmumhm///UlP3ib1uecjbOXQDHf7WT4dHY8BUbS8uHH4YbqhrBZNmbJi3W209P/XUYjzI3+B7JSA9PH5WALt95fxzhMGBrD7b+chkzsSPh/+mnDoF9zQWn0Nn2LjnwnbvNjZk81AArkJurrmvWwklRPtHS/zBQ+eyVUzu0x6lSDA==;Xxm8AkTqkhNair3PpdNO1g=="
 ---
 

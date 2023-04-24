@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/educational-robot-
 webUrl: "https://markets.businessinsider.com/news/stocks/educational-robot-market-size-worth-usd-4-02-billion-in-2028-–-by-emergen-research-1032253062"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,15 @@ topics:
   - Natural Language Processing
 
 related:
+  - title: "Cleaning Robot Market Size Worth USD 36.05 Billion in 2028 - Emergen Research"
+    excerpt: "Transform cleaning with cutting-edge robots. Enhance hygiene in your home or business with automated solutions that save time and"
+    publishedDateTime: 2023-04-24T18:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cleaning-robot-market-size-worth-usd-36-05-billion-in-2028---emergen-research-1032254421"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
   - title: "Conversational AI Market Size Worth USD 25.04 Billion in 2028 – Emergen Research"
     excerpt: "The latest market research on the Conversational AI industry, including size, share, and growth projections. Forecast to reach USD 25.04"
     publishedDateTime: 2023-04-23T18:42:00Z

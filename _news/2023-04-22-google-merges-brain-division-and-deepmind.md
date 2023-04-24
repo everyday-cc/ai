@@ -222,6 +222,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Weekly AI Wrap: Google DeepMind & Open Source Innovations Transforming Industries"
+    excerpt: "Uncovering groundbreaking developments from Google DeepMind, open-source AI, and their impact on diverse industries."
+    publishedDateTime: 2023-04-24T18:05:00Z
+    webUrl: "https://yourstory.com/2023/04/weekly-ai-wrap-google-deepmind-open-source-innovations"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 29
 
 secured: "L0qpcqp4AbWGTeV5yPY6FKp4DHCnNNj4aG0y7VtmJBYmzl5WrODp9gUq+AO59sjKEfDPGEsSQXAHACVWd6xc2EFmO/v/DfAs1bVZX3YJciTsOpSc3m2uQ9ClFP0Qx7W5a3FfldijHUHHQPCUD6zvEEvIWgfDHytYCdFM26TyLU/azRW51FJAdPU/cO2MYRpefGZ2jnSIVN0hxZyzBx5uO9bRSl1J18TiO2mUt7RBTTMX0SezkExOO8C9MjHoV+9pXihG3YedcgCda/Ju5058ubLS8UOXJneT2cE1whx7yOfgC/qMPd7C33xpP2/Gq/izXqjnlcPS87eIFYtILU/zIQjMh5kQRG0DNuF8ST0WHG3LxRl4lf4od1nrv+cVlG/NhnZIR8MMyoJEcSSjMzvCkOmHyvj1MTKjbRNWbDcdFyli8j22U35LekI+Mp8um3b1vgrdn5a6zn6pLdi9toeeXRtEGA1u8WXtjyEIb8A1DxYo59H7EXPhUO8tedlY/fbmMKaBqJnLzqDj7Ucvvvx22Q==;leQ56QZ2FwCBS02R520gOw=="
 ---

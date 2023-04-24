@@ -227,6 +227,15 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 34
+  - title: "Weekly AI Wrap: Google DeepMind & Open Source Innovations Transforming Industries"
+    excerpt: "Uncovering groundbreaking developments from Google DeepMind, open-source AI, and their impact on diverse industries."
+    publishedDateTime: 2023-04-24T18:05:00Z
+    webUrl: "https://yourstory.com/2023/04/weekly-ai-wrap-google-deepmind-open-source-innovations"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 29
 
 secured: "Tnrw9y096V1hbAUg/oi2b5ldNJxE6JChoEoZiVgmD71uGq9UBRF4EXoRNotsfct6cPN2uJjaVR1ahnvMoUpW/TdOXEawi7qTkZQ0xzpLzLu5lkiIPBksbX+li0dtFSklCaCO8ydkSAUZZkxv8n3JLHNn1qwZmNbu5tgJgYL2vbani4OUHZAHCBXgXyhhZfNLRAB8QHwOlldfeALjJUgKnS+ghSnGEKOwCXn9VOyu6a03hjYU4nPLSEsToQSWYGlritNDsSxdc9uyHkJFM8VEr013wSFUl+Ya5ThAZ0kGOzE1u85QvHSSY8CH/G19JLZTi/M7S36A92q5EPgg92WdGc9Eq7aNCCNc0Jvl+qGk5D1HcJKCaoayEARFnHwEqa/hb6uqWj2WjDNWlBOPigNiJqZD/IOW9iVGwN96ODKgLJ3ufaPxHgPbNoWb0lLzL6Ys/cKEDrT25+fyLSRl+1n4etLGBlfQDlGXmb/AkI4+AFaYoprXKoyZBSrgClcq9RJgLrN9fV3hrhzA/p+502MOpQ==;eqg1IPCOVeFKc7HkaG/Fbw=="
 ---

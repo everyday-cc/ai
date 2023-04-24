@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-24T18:33:00Z
 originalUrl: "https://www.bizjournals.com/tampabay/news/2023/04/24/psta-preteckt-ai-partnership.html"
 webUrl: "https://www.bizjournals.com/tampabay/news/2023/04/24/psta-preteckt-ai-partnership.html"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: The Business Journals

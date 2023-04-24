@@ -126,6 +126,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 46
+  - title: "Stable Diffusion for language? Stability launches open source AI chatbot"
+    excerpt: "Stability AI released a new family of open source AI language models called StableLM. Stability hopes to repeat the catalyzing effects of its Stable Diffusion open source image synthesis model, launched in 2022."
+    publishedDateTime: 2023-04-24T19:20:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/04/stable-diffusion-for-language-stability-launches-open-source-ai-chatbot/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 46
   - title: "ChatGPT explained: Everything you need to know about the AI chatbot"
     excerpt: "Microsoft has been reportedly working on its own AI chip for some time, and it is hoping that it can be mass-produced as soon as 2024. If successful, these chips could power the Azure ..."
     publishedDateTime: 2023-04-21T15:23:00Z
@@ -134,12 +143,21 @@ related:
     provider:
       name: Tom's Guide
       domain: tomsguide.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/7FnxdYvdQ3Ugo3WjnKaYiK-1200-80.jpg"
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT and Generative AI in Payments: Reality, Hype, What's Next, and How to Prepare"
+    excerpt: "ChatGPT is the most talked-about technology of 2023 and has caught the attention of payments services providers."
+    publishedDateTime: 2023-04-24T18:00:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-in-payments-how-to-prepare-2023-april"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
   - title: "Le Bonheur Children's Hospital fellow publishes journal article on chatbots written by ChatGPT"
     excerpt: "The use of chatbots and natural language processing technology, such as ChatGPT, has the potential to change the future of medical writing —with some caveats— says Som Biswas, MD, a Radiology fellow at Le Bonheur Children's Hospital and the University of Tennessee Health Science Center,"
     publishedDateTime: 2023-04-24T13:06:00Z
@@ -175,6 +193,15 @@ related:
     provider:
       name: IPWatchdog
       domain: ipwatchdog.com
+    quality: 19
+  - title: "ChatGPT: how to use AI as a virtual financial adviser"
+    excerpt: "From chatbots and virtual assistants to fraud detection and risk management artificial intelligence AI is now being used in many areas of finance"
+    publishedDateTime: 2023-04-24T19:25:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273781297/chatgpt-how-to-use-ai-as-a-virtual-financial-adviser"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
     quality: 19
 
 secured: "KNZ/eHQIhTlWPwPuLN7ht7T2i8HVDmWM6PNkVaNLupNkHNFMQ5FoHB2/ObRAbPdWpnjbk3i9LNXOAy3fqn1tO2OjsudTrbRZg9kwcTGo9VcUTjdb9eo8JoT5/php3ne3NfvODSJQFlMHSUfpBWiBvnKFR7GZsS6Jbit5YKZEFMQLvC7zMH4aFun1jW89tpAFNlBigSbr2axRlQt+zZlZfRCsxDt6iYLQbpZkHQYXD4Cp2fFFG3fDmACvwsbQsfTRFR8l1HwBdL5cFLndvaEYxR2YZ7/VLCruqsQmEEwB77B2dS8lZ9xEOaJ0MQq0dRvsKgmQ9c2svtJLfrCGRhMDnhY5osch3hcnUxth4DKset4huV9eZXlqNP8SyQyKjGVyMlWfGFvA/ENP6oTh09Q+r/gquxEIDy+qKEsEGBz4Vqcqb130RtlpbDHUXuPKNaIKwQbPEPQiwKxJdegk4/1PsxejwE0ZHW5WrzptK30i5mMapluBpeHkefLPeo2lXAlJ2px+n+vbc+yC82IYssul9g==;QSajatynAufZDBNVu9+Fhg=="

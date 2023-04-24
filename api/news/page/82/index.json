@@ -2,6 +2,367 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2023-02-07-carnegie-mellon-universitys-ai-powered-frida-robot-collaborates-with-humans-to-create-art.md",
+      "title": "Carnegie Mellon University's AI-Powered FRIDA robot collaborates with humans to create art",
+      "excerpt": "FRIDA, a robotic arm with a paintbrush taped to it, uses artificial intelligence to collaborate with humans on works of art. Ask FRIDA to paint a picture, and it gets to work putting brush to canvas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/978829",
+      "originalUrl": "https://www.eurekalert.org/news-releases/978829",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T06:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-mindsdb-raises-165m-from-benchmark-to-put-machine-learning-into-more-applications.md",
+      "title": "MindsDB Raises $16.5M from Benchmark to put machine learning into more applications",
+      "excerpt": "MindsDB, the most widely used open source applied machine learning (ML) platform in the world, today announced a $16.5M Series A investment from Benchmark. MindsDB was built to dramatically speed up the process of building AI powered applications.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/02/07/9756408.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/02/07/9756408.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-microsoft-and-5-other-ai-pick-and-shovel-plays.md",
+      "title": "Microsoft and 5 other AI pick-and-shovel plays",
+      "excerpt": "So, what is the best way to play the AI trend and benefit from companies succeeding in the sector? We think a prudent strategy is to invest in companies building the tools to sustain the industry’s growth – the ‘pick-and-shovel’ plays of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livewiremarkets.com/wires/microsoft-and-5-other-ai-pick-and-shovel-plays",
+      "originalUrl": "https://www.livewiremarkets.com/wires/microsoft-and-5-other-ai-pick-and-shovel-plays",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Livewire Markets",
+        "domain": "livewiremarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-accuracy-ethics-must-be-at-centre-of-ai-race.md",
+      "title": "Accuracy, ethics must be at centre of AI race",
+      "excerpt": "In a world where unregulated tech is causing havoc and eroding democratic ideals, questions of ethics, accuracy and transparency will have to be front and centre in the months and years to come",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/editorials/accuracy-ethics-must-be-at-centre-of-ai-race-101675779472759.html",
+      "originalUrl": "https://www.hindustantimes.com/editorials/accuracy-ethics-must-be-at-centre-of-ai-race-101675779472759.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T06:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-study-artificial-intelligence-detect-effectiveness-of-breast-cancer-chemotherapy.md",
+      "title": "Study: Artificial intelligence detect effectiveness of breast cancer chemotherapy",
+      "excerpt": "Artificial intelligence (AI) technology has been developed by engineers at the University of Waterloo to determine whether chemotherapy before surgery would be beneficial for people with breast cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/science-environment/2346587-study-artificial-intelligence-detect-effectiveness-of-breast-cancer-chemotherapy",
+      "originalUrl": "https://www.devdiscourse.com/article/science-environment/2346587-study-artificial-intelligence-detect-effectiveness-of-breast-cancer-chemotherapy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-banks-accelerate-move-to-the-cloud-with-new-oracle-banking-services.md",
+      "title": "Banks Accelerate Move to the Cloud with New Oracle Banking Services",
+      "excerpt": "With transaction volumes, customer expectations, and competitive threats at an all-time high, banks must adapt quickly to keep pace. To address these challenges, Oracle today launched Oracle Banking Cloud Services,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/02/07/9755948.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/02/07/9755948.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T06:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-6-jobs-artificial-intelligence-is-already-replacing-and-how-investors-can-capitalize-on-it.md",
+      "title": "6 Jobs Artificial Intelligence Is Already Replacing and How Investors Can Capitalize on It",
+      "excerpt": "It’s no secret artificial intelligence (AI ... but business is likely to pick up the pace in the future. From a self-driving Tesla Semi to Starship’s Food Delivery robot fleet, robots powered by AI are beginning to dominate the delivery sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/02/30766478/6-jobs-artificial-intelligence-is-already-replacing-how-investors-can-capitalize-on-it",
+      "originalUrl": "https://www.benzinga.com/news/23/02/30766478/6-jobs-artificial-intelligence-is-already-replacing-how-investors-can-capitalize-on-it",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/02/07/arseny-togulev-meckpokjyjm-unsplash.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30766478",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30766478",
+      "publishedDateTime": "2023-02-07T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-kognitos-raises-675m-seed-to-bring-the-power-of-generative-ai-to-enterprise-automation.md",
+      "title": "Kognitos Raises $6.75M Seed to Bring the Power of Generative AI to Enterprise Automation",
+      "excerpt": "Kognitos launches the first generative AI platform that allows business users to automate business processes in plain English - bringing funding total to $9.35 million. SAN JOSE,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/02/07/9756210.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/02/07/9756210.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-ai-chip-startup-cerebras-systems-announces-pioneering-simulation-of-computational-fluid-dynamics.md",
+      "title": "AI chip startup Cerebras Systems announces pioneering simulation of computational fluid dynamics",
+      "excerpt": "It could run several hundred times faster than what is possible using traditional distributed computers. A single WSE-2 AI chip is said to contain 2.6 trillion transistors, or 2.55 trillion more than the most advanced graphics processing unit on the market.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/02/07/ai-chip-startup-cerebras-systems-announces-pioneering-simulation-computational-fluid-dynamics/",
+      "originalUrl": "https://siliconangle.com/2023/02/07/ai-chip-startup-cerebras-systems-announces-pioneering-simulation-computational-fluid-dynamics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/photo.png",
+          "width": 718,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-ai-powered-frida-robot-collaborates-with-humans-to-create-art.md",
+      "title": "AI-Powered FRIDA robot collaborates with humans to create art",
+      "excerpt": "Carnegie Mellon University's Robotics Institute has a new artist-in-residence. FRIDA, a robotic arm with a paintbrush taped to it, uses artificial intelligence to collaborate with humans on works of art.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-02-ai-powered-frida-robot-collaborates-humans.html",
+      "originalUrl": "https://techxplore.com/news/2023-02-ai-powered-frida-robot-collaborates-humans.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-first-tests-the-geforce-rtx-4090-laptop-gpu-is-a-scorcher-but-dlss-helps-a-lot.md",
       "title": "First Tests! The GeForce RTX 4090 Laptop GPU Is a Scorcher (But DLSS Helps a Lot)",
       "excerpt": "Our initial tests on two gaming laptops with Nvidia's GeForce RTX 4090 inside reveal some rocket-liftoff frame rates—if you're playing one of the few games with DLSS 3. (It's still fast without it, mind you.",
@@ -561,382 +922,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-ai-imagines-state-of-the-union-speeches-from-famous-historical-figures.md",
-      "title": "AI imagines State of the Union speeches from famous historical figures",
-      "excerpt": "Let's face it, State of the Union speeches are mostly rote. To shake up the formula, we asked ChatGPT to work up speeches as they might have been written by some of history's most interesting figures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonglobe.com/2023/02/07/nation/ai-imagines-state-union-speeches-famous-historical-figures/",
-      "originalUrl": "https://www.bostonglobe.com/2023/02/07/nation/ai-imagines-state-union-speeches-famous-historical-figures/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T05:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Boston Globe",
-        "domain": "bostonglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-top-10-it-companies-in-the-world-2023.md",
-      "title": "Top 10 IT Companies in The World 2023",
-      "excerpt": "IT companies provide organizations with a range of services and solutions that can assist them in improving their operational efficiency and services, bringing them up to par with those provided on a",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/brand-stories/top-10-it-companies-in-the-world-2023-101675753777651.html",
-      "originalUrl": "https://www.hindustantimes.com/brand-stories/top-10-it-companies-in-the-world-2023-101675753777651.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T05:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-ibm-research-touts-ai-supercomputer-for-foundation-ai.md",
-      "title": "IBM Research Touts AI Supercomputer For Foundation AI",
-      "excerpt": "with ChatGPT from OpenAI presenting the most visible sign that AI is finally having its “iphone moment”. The models do not require supervision, but do require an enormous amount of computation.The OpenAI supercomputer hosted by Microsoft Azure ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/02/07/ibm-research-touts-ai-supercomputer-for-foundation-ai/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/02/07/ibm-research-touts-ai-supercomputer-for-foundation-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T05:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-liberal-senator-andrew-bragg-will-publicly-lobby-peter-dutton-to-embrace-indigenous-voice.md",
-      "title": "Liberal senator Andrew Bragg will publicly lobby Peter Dutton to embrace Indigenous voice",
-      "excerpt": "Bragg’s ‘five reasons the voice is right’ position paper may go unheeded after opposition leader tells party there was no need to settle its position as it awaits more detail",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/australia-news/2023/feb/08/liberal-senator-andrew-bragg-publicly-lobby-peter-dutton-to-embrace-indigenous-voice",
-      "originalUrl": "https://www.theguardian.com/australia-news/2023/feb/08/liberal-senator-andrew-bragg-publicly-lobby-peter-dutton-to-embrace-indigenous-voice",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-denodo-named-a-customers-choice-in-the-2023-gartner-peer-insights-voice-of-the-customer-data-integration-tools.md",
-      "title": "Denodo Named a Customers' Choice in the 2023 Gartner® Peer Insights™ \"Voice of the Customer\": Data Integration Tools",
-      "excerpt": "Peer reviews show that 93% of customers in the past 18 months would recommend the data management leader Denodo, the leader in data management, today announced that it has been named a Customers' Choi",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/b30763278/denodo-named-a-customers-choice-in-the-2023-gartner-peer-insights-voice-of-the-customer-data-integ",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/b30763278/denodo-named-a-customers-choice-in-the-2023-gartner-peer-insights-voice-of-the-customer-data-integ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-renesas-positions-its-microcontrollers-for-the-digitally-transformed-automotive-industry-and-consumer-and-industrial-markets.md",
-      "title": "Renesas Positions Its Microcontrollers For The Digitally Transformed Automotive Industry And Consumer And Industrial Markets",
-      "excerpt": "From the cars we drive to the appliances in our homes, and the smoke alarms that keep our homes safe, microcontrollers (MCUs) are in just about everything. Renesas is the world's largest supplier of MCUs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/02/07/renesas-positions-its-microcontrollers-for-the-digitally-transformed-automotive-industry-and-consumer-and-industrial-markets/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/02/07/renesas-positions-its-microcontrollers-for-the-digitally-transformed-automotive-industry-and-consumer-and-industrial-markets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-the-battle-for-ai-supremacy-begins.md",
-      "title": "The Battle for AI Supremacy Begins",
-      "excerpt": "In 2023, the race for artificial intelligence dominance bears striking semblance to the ‘Cold War Era’ but with Google and Microsoft.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/the-battle-for-ai-supremacy-begins/",
-      "originalUrl": "https://analyticsindiamag.com/the-battle-for-ai-supremacy-begins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T04:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-apple-to-hold-first-in-person-summit-in-years-focused-on-ai.md",
-      "title": "Apple to hold first in-person summit in years, focused on AI",
-      "excerpt": "As Apple begins to ease its COVID policies, the company has decided to hold its annual internal AI summit in person, which could mean the company may soon return to traditional media events.",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/23/02/07/apple-to-hold-first-in-person-ai-summit-in-years",
-      "originalUrl": "https://appleinsider.com/articles/23/02/07/apple-to-hold-first-in-person-ai-summit-in-years",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T04:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-google-announces-new-ai-program-named-bard.md",
-      "title": "Google announces new AI program named Bard",
-      "excerpt": "The company's new AI chatbot is based on its Language Model for Dialogue Applications (LaMDA ... \"It's a really exciting time to be working on these technologies as we translate deep research and breakthroughs into products that truly help people ...",
-      "sourceUrl": null,
-      "webUrl": "https://abc11.com/google-announces-new-ai-program-named-bard/12778959/",
-      "originalUrl": "https://abc11.com/google-announces-new-ai-program-named-bard/12778959/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T04:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTVD",
-        "domain": "abc11.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-nvda-vs-xper-which-chip-stock-should-you-pick-in-2023.md",
-      "title": "NVDA vs. XPER: Which Chip Stock Should You Pick in 2023?",
-      "excerpt": "The semiconductor industry is expected to thrive in the coming years amid the rapidly growing use of AI and the metaverse. Given the favorable growth prospects of the sector, quality...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/finance/nvda-vs-xper-which-chip-stock-should-you-pick-in-2023/444490",
-      "originalUrl": "https://www.entrepreneur.com/finance/nvda-vs-xper-which-chip-stock-should-you-pick-in-2023/444490",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

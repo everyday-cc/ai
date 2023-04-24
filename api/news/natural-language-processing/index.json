@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-24-identify-objections-in-customer-conversations-using-amazon-comprehend-to-enhance-customer-experience-without-ml-expertise.md",
+      "title": "Identify objections in customer conversations using Amazon Comprehend to enhance customer experience without ML expertise",
+      "excerpt": "According to a PWC report, 32% of retail customers churn after one negative experience, and 73% of customers say that customer experience influences their purchase decisions. In the global retail industry, pre- and post-sales support are both important aspects of customer care. Numerous methods, including",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/identify-objections-in-customer-conversations-using-amazon-comprehend-to-enhance-customer-experience-without-ml-expertise/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/identify-objections-in-customer-conversations-using-amazon-comprehend-to-enhance-customer-experience-without-ml-expertise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T11:07:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-04-24-sensory-enables-voice-chat-with-generative-ai-on-consumer-devices.md",
       "title": "Sensory enables voice chat with generative AI on consumer devices",
       "excerpt": "Sensory, a maker of consumer voice AI, has announced it has integrated ChatGPT and other AI to drive voice responses on consumer devices.",
@@ -10,7 +55,7 @@
       "originalUrl": "https://venturebeat.com/ai/sensory-enables-voice-chat-with-generative-ai-on-consumer-devices/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -50,7 +95,8 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -317,7 +363,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/2023-to-2030-natural-language-processing-market-upcoming-trends-2023-04-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1333,40 +1379,6 @@
       "provider": {
         "name": "Neuroscience News",
         "domain": "neurosciencenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-speech-and-voice-recognition-market-to-be-worth-6752-billion-by-2030-exclusive-report-by-meticulous-research.md",
-      "title": "Speech and Voice Recognition Market to be Worth $67.52 Billion by 2030 - Exclusive Report by Meticulous Research®",
-      "excerpt": "‘Speech and Voice Recognition Market by Function (Speech, Voice Recognition), Technology (AI and Non-AI), Deployment Mode (Cloud-based, On-premise), End User (Consumer Electronics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/04/g31698924/speech-and-voice-recognition-market-to-be-worth-67-52-billion-by-2030-exclusive-report-by-meticulo",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/g31698924/speech-and-voice-recognition-market-to-be-worth-67-52-billion-by-2030-exclusive-report-by-meticulo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/world/israel-leads-early-ai-battlefield-inte
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/israel-leads-early-ai-battlefield-integration-future-defense-systems.amp"
 type: article
 quality: 83
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Epic Systems says generative AI could help with health systems' financial woes"
+    excerpt: "One of Wisconsin's most well-known technology companies is incorporating generative artificial intelligence (AI) into its electronic health records software. Verona-based Epic Systems Corp. is implementing Microsoft Corp.'s Azure OpenAI Service ..."
+    publishedDateTime: 2023-04-24T19:41:00Z
+    webUrl: "https://www.bizjournals.com/milwaukee/inno/stories/news/2023/04/24/epic-adopting-generative-ai-rop.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 15
 
 secured: "VXWcT0LeN9GyS+2+nf5IRbbXkJ17frTO3HFHrWQ6uTAQ1GuQE6WtwlYU4eCDm1d2uAzuW5HlamYaJbkFxmNm2asNWEl0Nfp85UiPqia4nak2ENgyeG8bYYcK9iiHHA0hwsQBN53hauaywZMkM1NawLZpEY1JfXgUjwYJiq8p8VPzyJmNUuvj75P4o7IEXGLqeyqJs/hFgcqPdo8+m5hPQzTNNUTf17K+bPo+vSNfVqbGDdjXaBgsUNoVQZt8MraOi64gDSBH3PUPyfs2/jHts4nLbPu0o+XOeA4DSSB6n3Kw/hxGl4UUxuFTAHKVa75VHVH6w2krl/CrhUbJmQePPvH/LGLdE4mugTx3t18E2Ls=;6oLbbVf4EDoVv8ToS/fQoQ=="
 ---

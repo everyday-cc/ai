@@ -43,6 +43,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "How The AI Revolution Is Liberating Workers from the Office"
+    excerpt: "With the advent of generative AI like ChatGPT, we are on the cusp of realizing the full potential of remote and hybrid work by reducing — while not eliminating — the benefits of office visits."
+    publishedDateTime: 2023-04-24T21:00:00Z
+    webUrl: "https://www.entrepreneur.com/growing-a-business/how-the-ai-revolution-is-liberating-workers-from-the-office/450169"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1682348563-GettyImages-1369567912.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Cold robots revolutionise cold chain logistics"
     excerpt: "The labour attraction to the cold chain facilities is not growing, however, the market does. The global cold storage market"
     publishedDateTime: 2023-04-21T09:45:00Z

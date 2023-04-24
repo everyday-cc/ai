@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-27-westpac-and-aws-swim-deeper-into-generative-ai-for-banking.md",
+      "title": "Westpac and AWS swim deeper into generative AI for banking",
+      "excerpt": "Cloud giant AWS has signed a five-year deal with Westpac, a similar contract to one the bank signed with Microsoft Azure last year as it develops AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.afr.com/companies/financial-services/westpac-and-aws-swim-deeper-into-generative-ai-for-banking-20230224-p5cne4",
+      "originalUrl": "https://www.afr.com/companies/financial-services/westpac-and-aws-swim-deeper-into-generative-ai-for-banking-20230224-p5cne4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.ffx.io/images/$zoom_1.3693%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_209%2C$y_225/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/02509b770f53022f2bcca913d7414d922e3a98bb",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-26T10:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Australian Financial Review",
+        "domain": "afr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-25-artificial-intelligence-ai-in-education-market-size-share-growth-statistics-leading-players-and-forecast-2028.md",
       "title": "Artificial Intelligence (AI) in Education Market Size, Share, Growth Statistics, Leading Players and Forecast 2028",
       "excerpt": "Feb 25, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in Education Market\" Report provides a Detailed analysis of global market size, regional",
@@ -1418,49 +1462,6 @@
       "provider": {
         "name": "Asia One",
         "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-prime-focus-technologies-cleara-now-available-in-aws-marketplace.md",
-      "title": "Prime Focus Technologies' CLEARÂ® now available in AWS Marketplace",
-      "excerpt": "AWS customers can now purchase CLEAR ® along with their cloud commitments to simplify the procurement process and add to contracted levels of annual AWS spend. \"Much as we are committed to offering customers transformational solutions that help automate the content supply chain,",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1305296&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1305296&cat=PR News Wire",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1965978/Prime_Focus_Logo_Logo.jpg",
-          "width": 400,
-          "height": 208,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-09T14:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
         "images": null,
         "publishers": null,
         "authors": null

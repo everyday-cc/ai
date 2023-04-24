@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-24T18:00:00Z
 originalUrl: "https://thewest.com.au/politics/state-politics/jacinta-nampijinpa-price-set-to-launch-new-coalition-campaign-against-voice-to-parliament-referendum-in-wa-c-10438630"
 webUrl: "https://thewest.com.au/politics/state-politics/jacinta-nampijinpa-price-set-to-launch-new-coalition-campaign-against-voice-to-parliament-referendum-in-wa-c-10438630"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: The West Australian

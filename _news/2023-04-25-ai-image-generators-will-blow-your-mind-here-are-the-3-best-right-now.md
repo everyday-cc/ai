@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-24T18:46:00Z
 originalUrl: "https://www.aol.com/lifestyle/ai-image-generators-blow-mind-180700044.html"
 webUrl: "https://www.aol.com/lifestyle/ai-image-generators-blow-mind-180700044.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: AOL

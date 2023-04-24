@@ -120,6 +120,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 46
+  - title: "Stable Diffusion for language? Stability launches open source AI chatbot"
+    excerpt: "Stability AI released a new family of open source AI language models called StableLM. Stability hopes to repeat the catalyzing effects of its Stable Diffusion open source image synthesis model, launched in 2022."
+    publishedDateTime: 2023-04-24T19:20:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/04/stable-diffusion-for-language-stability-launches-open-source-ai-chatbot/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 46
   - title: "ChatGPT explained: Everything you need to know about the AI chatbot"
     excerpt: "Microsoft has been reportedly working on its own AI chip for some time, and it is hoping that it can be mass-produced as soon as 2024. If successful, these chips could power the Azure ..."
     publishedDateTime: 2023-04-21T15:23:00Z
@@ -128,12 +137,21 @@ related:
     provider:
       name: Tom's Guide
       domain: tomsguide.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/7FnxdYvdQ3Ugo3WjnKaYiK-1200-80.jpg"
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT and Generative AI in Payments: Reality, Hype, What's Next, and How to Prepare"
+    excerpt: "ChatGPT is the most talked-about technology of 2023 and has caught the attention of payments services providers."
+    publishedDateTime: 2023-04-24T18:00:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-in-payments-how-to-prepare-2023-april"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
   - title: "4 of The Best Speech to Text Extensions to Talk to ChatGPT Using Your Voice"
     excerpt: "I personally do not agree with the decision to ban ChatGPT or any other technology for that matter. Bans do not work and students will always find ways to circumvent them (e.g., u"
     publishedDateTime: 2023-04-22T15:01:00Z
@@ -174,6 +192,15 @@ related:
     provider:
       name: Interesting Engineering
       domain: interestingengineering.com
+    quality: 19
+  - title: "ChatGPT: how to use AI as a virtual financial adviser"
+    excerpt: "From chatbots and virtual assistants to fraud detection and risk management artificial intelligence AI is now being used in many areas of finance"
+    publishedDateTime: 2023-04-24T19:25:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273781297/chatgpt-how-to-use-ai-as-a-virtual-financial-adviser"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
     quality: 19
 
 secured: "aWJaNjbDmO8+prOic+7133z7vLlJIvTCo5JTf0DyWkhLhp98DThiSteOsITjxqphMdUztolZfElBI43UweIicSmWjGVhDwaNZCAZsiIedmETuSnSeRT5MEG4c2zMy8Uc3gjLebSxZBJHuol+LAZ5z8uAfhuhqnEuXtRv0VHc/zOJ/BaNAQdF49zTD1lawVrw+uAK87MEU9nYVFPoUADaGELzQMr+yc5wTLz+yelGMt4Jhiyu9S4f3KIJPqiNgnQZQr98Yn++Oa4d3PrBdYIk+0rpSCJD1rmboAnKseFBLtJflS+8iJT6Hg3/chbivUBOi7a66l0XwEY6D9lKiVdVpz8HY7+Q069+hMklIkHJbRhWb15iUBtabFUUvp6xNznjACK8zoIt6YCIekV82KPJMTq2USy6qQTK9BeXfPgS2ikefe6wK+Cd8RfKXc6xWs8rnG1sbdX/2UqDX2wDj0x7wjkHwEl/UyvJHMeTbP3xiDfYuETSY8VFRi8PgzkOLuiutlRP4VOysVefetau75xNTQ==;MMcQln4ZRobWLpgAs5nuLw=="

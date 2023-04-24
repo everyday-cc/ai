@@ -2,6 +2,484 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-03-08-microsofts-computer-vision-model-will-generate-alt-text-for-reddit-images.md",
+      "title": "Microsoft’s computer vision model will generate alt text for Reddit images",
+      "excerpt": "Microsoft is bringing Florence, a multimodal model trained on images and text, into production via Azure APIs.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/07/microsofts-computer-vision-model-will-generate-alt-text-for-reddit-images/",
+      "originalUrl": "https://techcrunch.com/2023/03/07/microsofts-computer-vision-model-will-generate-alt-text-for-reddit-images/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-07T10:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-03-08-incident-cognitive-impairment-tied-to-stress.md",
+      "title": "Incident Cognitive Impairment Tied to Stress",
+      "excerpt": "Opens in a new tab or window Share on LinkedIn. Opens in a new tab or window Perceived stress was linked with both prevalent and incident cognitive impairment in older adults, data from a national ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/neurology/dementia/103420",
+      "originalUrl": "https://www.medpagetoday.com/neurology/dementia/103420",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.medpagetoday.net/media/images/103xxx/103420.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-07T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-08-top-10-artificial-intelligence-ai-cryptocurrencies.md",
+      "title": "Top 10 Artificial Intelligence (AI) Cryptocurrencies",
+      "excerpt": "Artificial intelligence (AI) is a field of computer ... alternative to traditional cloud computing services such as Amazon AWS or Google Cloud. PHA is the network’s native currency, and is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/uk/advisor/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
+      "originalUrl": "https://www.forbes.com/uk/advisor/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/01/pietro-jeng-n6B49lTx7NM-unsplash-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-07T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-ai-will-drive-personalized-healthcare-but-chatgpt-not-there-yet-johns-hopkins-expert-says.md",
+      "title": "AI will drive personalized healthcare, but ChatGPT not there yet, Johns Hopkins expert says",
+      "excerpt": "While artificial intelligence will soon scan your EHR to give your physician a unique medical picture of you, AI technology like ChatGPT is still in its",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/innovation/ai-will-drive-personalized-healthcare-but-chatgpt-not-there-yet-johns-hopkins-expert-says.html",
+      "originalUrl": "https://www.beckershospitalreview.com/innovation/ai-will-drive-personalized-healthcare-but-chatgpt-not-there-yet-johns-hopkins-expert-says.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-07T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-empowering-micro-entrepreneurs-through-machine-learning.md",
+      "title": "Empowering Micro Entrepreneurs Through Machine Learning",
+      "excerpt": "Brazil-based Zippi's mission is to provide affordable and accessible financial services to over 30 million micro entrepreneurs, many of whom face unique challenges accessing credit from traditional banks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2023/03/07/empowering-micro-entrepreneurs-through-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2023/03/07/empowering-micro-entrepreneurs-through-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64075c41741e252b45817110/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2023/03/07/empowering-micro-entrepreneurs-through-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2023/03/07/empowering-micro-entrepreneurs-through-machine-learning/amp/",
+      "publishedDateTime": "2023-03-07T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-is-the-us-government-ready-for-the-rise-of-artificial-intelligence.md",
+      "title": "Is the US government ready for the rise of artificial intelligence?",
+      "excerpt": "AI could benefit society, but it could also become a monster. To guide the way, we need leadership and understanding",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ebc4df75b728a3e25fbf863375da820aee1b1b34/0_115_8640_5184/master/8640.jpg?width=620&quality=85&auto=format&fit=max&s=d5c20814aa6b6aaa53696c96662f86cf",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich",
+      "publishedDateTime": "2023-03-07T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-sas-data-ethics-chief-talks-about-keeping-an-ethical-eye-on-ai.md",
+      "title": "SAS' data ethics chief talks about keeping an ethical eye on AI",
+      "excerpt": "SAS Institute's Data Ethics Practice's director Reggie Townsend. Photo illustration: Lindsey Bailey/Axios. Photo courtesy of SAS Institute The U.S. is at a crossroads when it comes to the future of artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.axios.com/local/raleigh/2023/03/07/sas-head-of-artificial-intelligence-ethics",
+      "originalUrl": "https://www.axios.com/local/raleigh/2023/03/07/sas-head-of-artificial-intelligence-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.axios.com/l0HjUVno5evT4xHFAks95sBilNI=/0x0:1920x1080/1366x768/2023/03/06/1678140445306.jpg",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-07T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Axios",
+        "domain": "axios.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-tech-execs-didnt-just-start-talking-about-ai-but-they-are-talking-about-it-a-lot-more.md",
+      "title": "Tech execs didn’t just start talking about AI — but they are talking about it a lot more",
+      "excerpt": "Do you feel like you've heard a lot more about AI in 2023? A MarketWatch analysis shows you probably have, although from roughly the same number of sources.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/tech-execs-didnt-just-start-talking-about-ai-but-they-are-talking-about-it-a-lot-more-a11accae",
+      "originalUrl": "https://www.marketwatch.com/story/tech-execs-didnt-just-start-talking-about-ai-but-they-are-talking-about-it-a-lot-more-a11accae",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-737082/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-execs-didnt-just-start-talking-about-ai-but-they-are-talking-about-it-a-lot-more-a11accae",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-execs-didnt-just-start-talking-about-ai-but-they-are-talking-about-it-a-lot-more-a11accae",
+      "publishedDateTime": "2023-03-07T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-chatgpt-machine-learning-and-generative-ai-in-healthcare.md",
+      "title": "ChatGPT, Machine Learning And Generative AI In Healthcare",
+      "excerpt": "The use of generative AI has the potential to greatly impact clinical understanding, diagnosis and treatment of complex medical conditions as well as improve the accuracy, efficiency and effectiveness of healthcare system function.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/07/chatgpt-machine-learning-and-generative-ai-in-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/07/chatgpt-machine-learning-and-generative-ai-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 311,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6405efa13b66613f66c92092/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/07/chatgpt-machine-learning-and-generative-ai-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/07/chatgpt-machine-learning-and-generative-ai-in-healthcare/amp/",
+      "publishedDateTime": "2023-03-07T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-artificial-intelligence-ai-robots-market-overview-of-its-size-trend-of-current-scenario-2028.md",
+      "title": "Artificial Intelligence (AI) Robots Market Overview Of Its Size, Trend Of Current Scenario 2028",
+      "excerpt": "(MENAFN- The Express Wire) The Global Research Report Artificial Intelligence (AI) Robots Market size was valued at USD 8919.76 million in 2022 'artificial intelligence (ai) robots market' report ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105720434/Artificial-Intelligence-AI-Robots-Market-Overview-Of-Its-Size-Trend-Of-Current-Scenario-2028",
+      "originalUrl": "https://menafn.com/1105720434/Artificial-Intelligence-AI-Robots-Market-Overview-Of-Its-Size-Trend-Of-Current-Scenario-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?362696",
+          "width": 374,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-07T03:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-07-will-a-robot-take-your-job-study-reveals-the-careers-that-face-the-highest-risk-of-being-replaced-by-ai-with-call-centre-workers-english.md",
       "title": "Will a robot take YOUR job? Study reveals the careers that face the highest risk of being replaced by AI - with call centre workers, English and History teachers topping the list",
       "excerpt": "They did this by linking 10 AI-powered applications, like translation, language modelling and image generation, to 52 human abilities, like oral comprehension and arm-hand steadiness.",
@@ -684,449 +1162,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-07-therapeutic-ketosis-for-mild-cognitive-impairment-alzheimers-and-parkinsons.md",
-      "title": "Therapeutic ketosis for mild cognitive impairment, Alzheimer's and Parkinson's",
-      "excerpt": "Review: Ketogenic interventions in mild cognitive impairment, Alzheimer's disease, and Parkinson's disease: A systematic review and critical appraisal. Image Credit: Atthapon Raksthaput ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20230305/Therapeutic-ketosis-for-mild-cognitive-impairment-Alzheimers-and-Parkinsons.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20230305/Therapeutic-ketosis-for-mild-cognitive-impairment-Alzheimers-and-Parkinsons.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_740699_16780700168786646.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-06T08:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-1-machine-learning-stock-down-55-youll-wish-youd-bought-on-the-dip.md",
-      "title": "1 Machine Learning Stock Down 55% You'll Wish You'd Bought on the Dip",
-      "excerpt": "Splunk's services are becoming increasingly ingrained ... You probably wouldn't associate the chain with machine learning, but that technology powers many of its crucial decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/03/06/1-machine-learning-stock-down-55-wish-bought-dip/",
-      "originalUrl": "https://www.fool.com/investing/2023/03/06/1-machine-learning-stock-down-55-wish-bought-dip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/723242/a-racing-crew-servicing-a-race-car-in-the-pit-lane.jpg",
-          "width": 4846,
-          "height": 3620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-06T06:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-an-overview-of-machine-learning-pipeline-and-its-importance.md",
-      "title": "An overview of Machine Learning pipeline and its importance",
-      "excerpt": "A Machine Learning (ML) pipeline is used to assist in the automation of machine learning processes. They work by allowing a sequence of data to be transformed and correlated in a model that can be tested and evaluated to achieve a positive or negative outcome.",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/articles/53595/an-overview-of-machine-learning-pipeline-and-its-importance.html",
-      "originalUrl": "https://www.design-reuse.com/articles/53595/an-overview-of-machine-learning-pipeline-and-its-importance.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.design-reuse.com/news_img2/homepage53595/soft2b.jpg",
-          "width": 683,
-          "height": 402,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-06T06:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-the-new-world-of-ai-chatbots-like-chatgpt.md",
-      "title": "The new world of AI chatbots like ChatGPT",
-      "excerpt": "The large tech companies – Google, Meta/Facebook, Microsoft – are in a race to introduce new artificial intelligence systems and what are called chatbots, that you can have conversations with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/chatgpt-artificial-intelligence-chatbots-60-minutes-2023-03-05/",
-      "originalUrl": "https://www.cbsnews.com/news/chatgpt-artificial-intelligence-chatbots-60-minutes-2023-03-05/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/03/05/3d917182-2852-49f9-abaf-b100905e1205/thumbnail/1200x630/ac1a5c209a5c942f82ba00c447755d97/chatgptarticle.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/chatgpt-artificial-intelligence-chatbots-60-minutes-2023-03-05/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/chatgpt-artificial-intelligence-chatbots-60-minutes-2023-03-05/",
-      "publishedDateTime": "2023-03-06T05:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-microsoft-edge-canary-can-now-upscale-videos-using-the-power-of-ai-and-your-gpu.md",
-      "title": "Microsoft Edge Canary can now upscale videos using the power of AI and your GPU",
-      "excerpt": "The feature uses machine learning, artificial intelligence, and the power of a PC's GPU to increase the resolution of videos to up to 720p. The functionality is now available in Microsoft Edge ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.windowscentral.com/software-apps/microsoft-edge-canary-can-now-upscale-videos-using-the-power-of-ai-and-your-gpu",
-      "originalUrl": "https://www.windowscentral.com/software-apps/microsoft-edge-canary-can-now-upscale-videos-using-the-power-of-ai-and-your-gpu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/DNhWfhWjxiMbh496AfG2KF-1200-80.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-06T05:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-artificial-intelligence-can-predict-cancer-survival-using-data-from-a-single-consultation.md",
-      "title": "Artificial Intelligence Can Predict Cancer Survival Using Data From a Single Consultation",
-      "excerpt": "Artificial intelligence can predict survival in cancer patients using information from a patient’s initial consultation with an oncologist, a study suggests.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cancertherapyadvisor.com/home/news/artificial-intelligence-predict-cancer-survival-data-single-consultation/",
-      "originalUrl": "https://www.cancertherapyadvisor.com/home/news/artificial-intelligence-predict-cancer-survival-data-single-consultation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-06T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cancer Therapy Advisor",
-        "domain": "cancertherapyadvisor.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-brainchip-extends-ai-machine-learning-in-space-and-time-with-bio-inspired-neural-networks.md",
-      "title": "Brainchip Extends AI, Machine Learning In Space And Time With Bio-Inspired Neural Networks",
-      "excerpt": "Brainchip has introduced a new generation of its unique, bio-inspired Akida line of licensable, configurable neural processing IP.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/06/brainchip-extends-ai-machine-learning-in-space-and-time-with-bio-inspired-neural-networks/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/06/brainchip-extends-ai-machine-learning-in-space-and-time-with-bio-inspired-neural-networks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/640214b4c8c9ba097d058205/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 691,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/06/brainchip-extends-ai-machine-learning-in-space-and-time-with-bio-inspired-neural-networks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/03/06/brainchip-extends-ai-machine-learning-in-space-and-time-with-bio-inspired-neural-networks/amp/",
-      "publishedDateTime": "2023-03-06T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-ai-and-machine-learning-powered-devron-cover-whale-to-enable-safer-roads.md",
-      "title": "AI and Machine Learning-Powered Devron, Cover Whale to Enable Safer Roads",
-      "excerpt": "Devron, which claims to be the leader in AI and machine learning for distributed and ... Learn Finance and Get Certified at nocost with 365 Financial Analyst FromMarch 1 to 21, the new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/03/203315-ai-and-machine-learning-powered-devron-cover-whale-to-enable-safer-roads/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/03/203315-ai-and-machine-learning-powered-devron-cover-whale-to-enable-safer-roads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-06T03:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-adoption-of-generative-ai-what-should-enterprises-consider.md",
-      "title": "Adoption Of Generative AI: What Should Enterprises Consider?",
-      "excerpt": "To ensure that generative AI is approached with caution, it is essential to thoroughly evaluate how it can be incorporated into your company's processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/06/adoption-of-generative-ai-what-should-enterprises-consider/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/06/adoption-of-generative-ai-what-should-enterprises-consider/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6401f00fffe104e0998619c1/0x0.jpg?format=jpg&width=1200",
-          "width": 1054,
-          "height": 658,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/06/adoption-of-generative-ai-what-should-enterprises-consider/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/06/adoption-of-generative-ai-what-should-enterprises-consider/amp/",
-      "publishedDateTime": "2023-03-06T02:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-choosing-between-azure-and-aws-the-ultimate-guide.md",
-      "title": "Choosing Between Azure and AWS: The Ultimate Guide",
-      "excerpt": "The Ultimate Guide\" provides a comprehensive comparison of the two most popular cloud computing platforms, Azure and AWS. It covers various factors like workloads, pricing, support, and security, which should be considered before making a decision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2369506-choosing-between-azure-and-aws-the-ultimate-guide",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2369506-choosing-between-azure-and-aws-the-ultimate-guide",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/06_03_2023_14_52_33_9477074.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2369506-choosing-between-azure-and-aws-the-ultimate-guide?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2369506-choosing-between-azure-and-aws-the-ultimate-guide?amp",
-      "publishedDateTime": "2023-03-06T01:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

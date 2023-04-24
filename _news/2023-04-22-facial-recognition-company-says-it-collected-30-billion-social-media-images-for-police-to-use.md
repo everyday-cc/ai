@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox26houston.com/news/facial-recognition-company-says-it
 cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/facial-recognition-company-says-it-collected-30-billion-social-media-images-for-police-to-use.amp"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,17 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "EFF calls for action against California's new facial recognition bill"
+    excerpt: "The latest target of EFF's action is A.B. 642, a new California bill that would \"normalize and incentivize\" police use of facial recognition technology across the"
+    publishedDateTime: 2023-04-24T16:53:00Z
+    webUrl: "https://www.techspot.com/news/98420-eff-calls-action-against-california-new-facial-recognition.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 64
 
 secured: "6mKfvicj4RCKWAvDORhahRNnBsG857Nu/5DrlzgAUIybuhnsOv2IHAauJdpFh9Ufi1lNt5giHgOVtXmwJgl0HmYU6CvvOPBy9AuyHU3JIBcWY2KCgQnvqKAUebNrBcBs5esW2kFtxlHmJJ33a86QcfgkmFemSKj/uRhv4/0ZOa3p+Nb8G+c2hPSlumHIm7jegaYVEXDTphGrmFEhrWlhAwud1B/dfCzAoYx+0csckjUA9q0Ly5hgoTJ1JrZ5Sk7ClHmybuFdxg9/8AXbBNogXNtNDNN1sGVUZB9wWDM9OEW0l8RMcfCZlZnTFFX/LLzt3jHI6gqxUyuIFDOOiSxW1JYHqrb3p1cvpLevpKLpkYZ55cLmJVbEWVrc+EpYMD5p+AUqwPo2kNqrqgxEdAxKfEk7R2sc9LQrVZgMlUltW6SRyPRJ+58FWHdmk0HunDMmos3RzFHl7o0+qry+2wuTak1p5hXKgYHBmqgEAZ9c+7GZj2C7nUhWtlUuMwaq3eXakeadwRmw9ppvQHsywd6e9Q==;MPyTvnyQX7NCv3XfPYpbzw=="
 ---

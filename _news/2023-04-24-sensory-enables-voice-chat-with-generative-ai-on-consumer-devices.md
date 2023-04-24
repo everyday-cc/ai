@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/sensory-enables-voice-chat-with-generative-a
 ampWebUrl: "https://venturebeat.com/ai/sensory-enables-voice-chat-with-generative-ai-on-consumer-devices/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/sensory-enables-voice-chat-with-generative-ai-on-consumer-devices/amp/"
 type: article
-quality: 89
-heat: 119
+quality: 91
+heat: 121
 published: true
 
 provider:

@@ -43,15 +43,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Microsoft Q3 Earnings Preview: All Eyes Are On AI-Driven Growth"
-    excerpt: "Microsoft Corp. (NASDAQ: MSFT) will announce fiscal year 2023 third-quarter financial results on Tuesday, April 25, after market close. Here are five things to know ahead of the report:"
-    publishedDateTime: 2023-04-24T13:04:00Z
-    webUrl: "https://www.benzinga.com/news/earnings/23/04/31954969/microsoft-q3-earnings-preview-all-eyes-are-on-ai-driven-growth"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
 
 secured: "mCvu917tQ/iaSsOTAySO/+kalx7gUH+EFLSblmdXYT1o6ex8mNmK/s7YuX07n5/f2G9bHv4fwO3Ek57S4pz8fn87vASaE2/JOs5FZTPhulBQZGgtJ1SD2aZRyjkuhD2pc/1ipi7Dr5Rxi+5npeny7ZC6ZC+EMoql5jzRvKryUhcEoZWx16/teoLcjghvioX9DRWBcu1q6jRiQw/c0rrnysbhLwciXOMsAlbw+NxSYIjtugshqwmLfnLQQyzwtclbJsOZk4gKibgQ7Q41whZ9MZClKlmo9x4S/ixp07fQFKjkPBuFwLsOCTPIImC44XJ5JDBJT7gvUWZ/c6gt424kD54g7aVJhooPzRmmN1x7yRE=;88hdM8gDsWW4zLs7Bsq1zg=="
 ---

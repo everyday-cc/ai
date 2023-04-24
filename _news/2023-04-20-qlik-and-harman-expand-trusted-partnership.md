@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-20T15:26:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-04/58867720-qlik-and-harman-expand-trusted-partnership-200.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2023-04/58867720-qlik-and-harman-expand-trusted-partnership-200.htm"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Finanznachrichten

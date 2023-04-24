@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-24T18:40:00Z
 originalUrl: "https://gizmodo.com/grimes-ai-twitter-ai-generated-the-weeknd-and-drake-1850368431"
 webUrl: "https://gizmodo.com/grimes-ai-twitter-ai-generated-the-weeknd-and-drake-1850368431"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: Gizmodo

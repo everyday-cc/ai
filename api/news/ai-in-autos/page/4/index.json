@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-22-tesla-is-rolling-out-its-first-full-self-driving-update-after-a-recall-see-the-new-features.md",
+      "title": "Tesla is rolling out its first Full Self-Driving update after a recall — see the new features",
+      "excerpt": "An curved arrow pointing right. A handful of Tesla drivers have taken to social media this week to show off the latest update to Tesla's driver assist software, known as \"Full Self Driving\" (FSD). The update comes with a variety of new features ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tesla-updates-fsd-with-new-features-after-nhtsa-recall-2023-3",
+      "originalUrl": "https://www.businessinsider.com/tesla-updates-fsd-with-new-features-after-nhtsa-recall-2023-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63c1610e33ffb700180f962b?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tesla-updates-fsd-with-new-features-after-nhtsa-recall-2023-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-updates-fsd-with-new-features-after-nhtsa-recall-2023-3?amp",
+      "publishedDateTime": "2023-03-21T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-teslas-self-driving-ambitions-are-further-and-further-away.md",
+      "title": "Tesla’s Self-Driving Ambitions Are Further and Further Away",
+      "excerpt": "After announcing his ambitions to have millions of self-driving Teslas on the ... the tech as “the more data (in this case driving) the artificial intelligence guiding the car is exposed to ...",
+      "sourceUrl": null,
+      "webUrl": "https://jalopnik.com/tesla-s-self-driving-ambitions-are-further-and-further-1850245462",
+      "originalUrl": "https://jalopnik.com/tesla-s-self-driving-ambitions-are-further-and-further-1850245462",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/11b44f8929b7238c7c7add384e26a2f8.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-21T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jalopnik",
+        "domain": "jalopnik.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-21-cruise-wants-to-test-self-driving-cars-all-over-california.md",
       "title": "Cruise wants to test self-driving cars all over California",
       "excerpt": "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state.",
@@ -1283,92 +1378,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-google-waymo-sues-uber-alleges-theft-of-self-driving-car-technology.md",
-      "title": "Google Waymo sues Uber, alleges theft of self-driving car technology",
-      "excerpt": "Uber is facing a lawsuit from Google over claims its self-driving car technology was stolen from Google's Waymo and has been used to accelerate Uber's own development. By Joel Hruska February 24 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.extremetech.com/cars/244978-google-waymo-sues-uber-self-driving-car-technology",
-      "originalUrl": "https://www.extremetech.com/cars/244978-google-waymo-sues-uber-self-driving-car-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-13T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-driverless-car-market-industry-insights-drivers-top-trends-global-analysis-forecast-and-opportunities-to-2023-2033.md",
-      "title": "Driverless Car Market Industry Insights, Drivers, Top Trends, Global Analysis, Forecast, and Opportunities to 2023-2033",
-      "excerpt": "Driverless Car Market, 2023-2033' to its database of market research collaterals consisting of overall market scenario with prevalent and future growth prospects, among other growth strategies used by key players to stay ahead of the game.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/driverless-car-market-industry-insights-drivers-top-trends-global-analysis-forecast-and-opportunities-to-2023-2033-2023-03-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/driverless-car-market-industry-insights-drivers-top-trends-global-analysis-forecast-and-opportunities-to-2023-2033-2023-03-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T21:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

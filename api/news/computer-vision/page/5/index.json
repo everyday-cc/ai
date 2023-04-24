@@ -2,6 +2,127 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-02-17-best-robot-vacuum-deals-under-100-ahead-of-presidents-day.md",
+      "title": "Best robot vacuum deals under $100 ahead of Presidents Day",
+      "excerpt": "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-under-100-in-2023-02-17/",
+      "originalUrl": "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-under-100-in-2023-02-17/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/12/02/2487fba3-46f6-4beb-8eed-f66994896979/thumbnail/1200x630/a0e7cdce21c7b1a9b4232d35af859d8c/anker-eufy-robot-vacuum-100-hero.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-under-100-in-2023-02-17/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-under-100-in-2023-02-17/",
+      "publishedDateTime": "2023-02-17T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-02-16-vietnam-to-try-out-facial-recognition-system-for-airport-procedures.md",
+      "title": "Vietnam to try out facial recognition system for airport procedures",
+      "excerpt": "The Civil Aviation Authority of Vietnam (CAAV) will do a trial with the use of biometrics, specifically facial recognition, for passengers doing procedures to go on flights.",
+      "sourceUrl": null,
+      "webUrl": "https://e.vnexpress.net/news/news/vietnam-to-trial-facial-recognition-for-airport-procedures-4571408.html",
+      "originalUrl": "https://e.vnexpress.net/news/news/vietnam-to-trial-facial-recognition-for-airport-procedures-4571408.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1-english.vnecdn.net/2023/02/16/l1200283jpg50381676517083-1676-3421-5299-1676535042.jpg?w=680&h=0&q=100&dpr=2&fit=crop&s=gqcpfAmAj3mn0ltFp1fc7A",
+          "width": 1360,
+          "height": 816,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ampe.vnexpress.net/news/news/vietnam-to-trial-facial-recognition-for-airport-procedures-4571408.html",
+      "cdnAmpWebUrl": "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/news/vietnam-to-trial-facial-recognition-for-airport-procedures-4571408.html",
+      "publishedDateTime": "2023-02-16T01:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VN Express",
+        "domain": "vnexpress.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-15-postdoctoral-fellow-mathematicalstatistical-imaging-and-computer-vision.md",
+      "title": "Postdoctoral Fellow - Mathematical/Statistical Imaging and Computer Vision",
+      "excerpt": "The successful candidate will work under the supervision of Dr. Weihong Guo (Department of Mathematics, Applied Mathematics, and Statistics) and Dr. Shuo Li (Departments of Biomedical Engineering and Computer and Data Science) at Case Western Reserve ...",
+      "sourceUrl": null,
+      "webUrl": "https://case.edu/academic-careers/postdoctoral-fellow-mathematicalstatistical-imaging-and-computer-vision",
+      "originalUrl": "https://case.edu/academic-careers/postdoctoral-fellow-mathematicalstatistical-imaging-and-computer-vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-14T11:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Case Western Reserve University",
+        "domain": "case.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-15-3-machine-vision-technology-trends.md",
       "title": "3 Machine Vision Technology Trends",
       "excerpt": "New chips, such as the Neon-2000-JNX series from AdLink Technology with the Nvidia Jetson Xavier NX module built in, can process images and run AI-based computer vision algorithms. This has reduced the vision system training times from weeks to hours.",
@@ -1143,117 +1264,6 @@
         "Computer Vision",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-roc-and-mosip-partnership-to-bring-industry-leading-biometric-algorithms-to-digital-id-systems-worldwide.md",
-      "title": "ROC and MOSIP Partnership to Bring Industry-Leading Biometric Algorithms to Digital ID Systems Worldwide",
-      "excerpt": "Denver based technology company Rank One Computing (ROC) announced a partnership with the Modular Open Source Identity Platform (MOSIP) on January 17, 2023. The partnership will allow",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/n30727964/roc-and-mosip-partnership-to-bring-industry-leading-biometric-algorithms-to-digital-id-systems-wor",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/n30727964/roc-and-mosip-partnership-to-bring-industry-leading-biometric-algorithms-to-digital-id-systems-wor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30727964",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30727964",
-      "publishedDateTime": "2023-02-06T04:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-facilities-facial-recognition-staffing-ai-personalization-among-hottest-topics-for-live-events-in-2023.md",
-      "title": "Facilities: Facial recognition, staffing, AI, personalization among hottest topics for live events in 2023",
-      "excerpt": "I fired off a barrage of emails in January to dozens of folks involved with every aspect of the live sports experience to see what topics are: A) front of mind for them as 2023 gets going and, B) most intriguing to them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sportsbusinessjournal.com/Journal/Issues/2023/02/06/Insiders/facilities.aspx",
-      "originalUrl": "https://www.sportsbusinessjournal.com/Journal/Issues/2023/02/06/Insiders/facilities.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sports Business Journal",
-        "domain": "sportsbusinessjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-image-recognition-in-retail-market-size-2023-pronounces-its-growth-size-shares-and-future-forecasts-to-2028.md",
-      "title": "Image Recognition in Retail Market Size 2023 Pronounces Its Growth, Size, Shares, and Future Forecasts to 2028",
-      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-size-2023-pronounces-its-growth-size-shares-and-future-forecasts-to-2028-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-size-2023-pronounces-its-growth-size-shares-and-future-forecasts-to-2028-2023-02-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

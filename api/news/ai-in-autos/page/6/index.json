@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-03-02-firm-ranks-leading-self-driving-companies-tesla-came-in-last.md",
+      "title": "Firm ranks leading self-driving companies: Tesla came in last",
+      "excerpt": "Baidu, and Cruise. Tesla was named the only \"follower\" given its low ratings in automated-driving execution and strategy. The company has long come under fire for its \"Full Self-Driving\" and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoblog.com/2023/03/02/experts-ranked-the-leading-self-driving-companies-tesla-didn-t-even-crack-the-top-10/",
+      "originalUrl": "https://www.autoblog.com/2023/03/02/experts-ranked-the-leading-self-driving-companies-tesla-didn-t-even-crack-the-top-10/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://media.zenfs.com/en/insider_articles_922/7b7bbc9f44dfc78f4a81536d86d99709",
+          "width": 1062,
+          "height": 597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autoblog.com/amp/2023/03/02/experts-ranked-the-leading-self-driving-companies-tesla-didn-t-even-crack-the-top-10/",
+      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/03/02/experts-ranked-the-leading-self-driving-companies-tesla-didn-t-even-crack-the-top-10/",
+      "publishedDateTime": "2023-03-01T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoblog",
+        "domain": "autoblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-alphabets-self-driving-car-unit-has-cut-8-of-its-staff-this-year.md",
+      "title": "Alphabet’s self-driving car unit has cut 8% of its staff this year",
+      "excerpt": "Waymo, the self-driving car division of Google's parent company Alphabet, said on Wednesday that it has cut approximately 8% of its staff across two rounds of layoffs this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/03/01/tech/waymo-layoffs/index.html",
+      "originalUrl": "https://www.cnn.com/2023/03/01/tech/waymo-layoffs/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230301160548-waymo-file-2018-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/03/01/tech/waymo-layoffs/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/03/01/tech/waymo-layoffs/index.html",
+      "publishedDateTime": "2023-03-01T14:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-02-waymo-cuts-jobs-as-parent-company-alphabet-focuses-on-ai.md",
       "title": "Waymo Cuts Jobs as Parent Company Alphabet Focuses on AI",
       "excerpt": "Waymo, Alphabet Inc.’s driverless-vehicle unit, cut dozens of jobs as its parent company moves to control spending and focus more tightly on artificial intelligence. Waymo confirmed the staff ...",
@@ -1392,83 +1487,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-solar-powered-driverless-bus-developed-by-lpu-students-utilizing-resources-available-within-india.md",
-      "title": "Solar-powered driverless bus developed by LPU students utilizing resources available within India",
-      "excerpt": "With the evolution and advancement of technology such as artificial intelligence, Open CV, and the wide promotion of utilizing clean energy, our team looks forward to conceptualizing, redesigning, and developing a completely driverless, electric ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/solar-powered-driverless-bus-developed-by-lpu-students-utilizing-resources-available-within-india/",
-      "originalUrl": "https://www.dqindia.com/solar-powered-driverless-bus-developed-by-lpu-students-utilizing-resources-available-within-india/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/solar-powered-driverless-bus-developed-by-lpu-students-utilizing-resources-available-within-india/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/solar-powered-driverless-bus-developed-by-lpu-students-utilizing-resources-available-within-india/amp/",
-      "publishedDateTime": "2023-02-21T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-artificial-intelligence-in-fashion.md",
-      "title": "Artificial Intelligence In Fashion",
-      "excerpt": "As an AI enthusiast, I can tell you that artificial intelligence is quickly becoming a game-changer in the fashion industry. From design to marketing and sales, AI is affecting everything and offering businesses new opportunities to streamline their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2023/02/21/artificial-intelligence-in-fashion/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2023/02/21/artificial-intelligence-in-fashion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/02/21/artificial-intelligence-in-fashion/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/02/21/artificial-intelligence-in-fashion/amp/",
-      "publishedDateTime": "2023-02-21T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

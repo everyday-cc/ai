@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/deepmind-melds-with-googles
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepmind-melds-with-googles-brain-team-to-accelerate-ai-growth/"
 type: article
 quality: 106
-heat: 246
+heat: 256
 published: true
 
 provider:
@@ -228,6 +228,15 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 34
+  - title: "Weekly AI Wrap: Google DeepMind & Open Source Innovations Transforming Industries"
+    excerpt: "Uncovering groundbreaking developments from Google DeepMind, open-source AI, and their impact on diverse industries."
+    publishedDateTime: 2023-04-24T18:05:00Z
+    webUrl: "https://yourstory.com/2023/04/weekly-ai-wrap-google-deepmind-open-source-innovations"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 29
 
 secured: "x1vkJBXyK+jXDncgM02bYgaQu4pl+YBVAF1ue9OQt7w0gBqUEZSr/HXko7p3v2Msk3h3IddpIsDgv4kqakzO7DWDfvGfFseBpEbsGn6ELCINp6lUVxUz11ksB88hynSFvkk1R+8/2Ie9C3+NvpISoik/m2NJnGQDhTUfGHgdFIcEDLLIJzZkyBACW47VK93NTrmwGa/mipq6+3TByz1oR2sHj1YjcnrqnYHcdYQ9rfNa8oKiubbdDEFVKau9yn4XXy4BVHVoVxRIYbiBvW0g0gVaGltsdoq5XcIwgHt+X/lCbkj1IDzcWmRwSvbccCxzQE1Y4Qp2HmFeVbdzJlHVhUW7sQFL1bZP6Yz+5kkSNbOK0b2beBRk/Sq1FTyHJLe1V5bxqvBzCs8GJyANxH/ihFBXqz4863kTKBqDcY1pKB2xCb7uivAkRLSZsBSwJQJJJVjmvPZa5FhEpsF8uP8/g2qs/aY0Oqj3/8wl5bcz6WGxr50LKD0+UyWjZG9yTJsmYTzjcx8rg7zQc+Sw0fbXhA==;woMWuGEbv4FOqUfwkpOwIQ=="
 ---

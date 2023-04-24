@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-24T19:28:42Z
 originalUrl: "https://www.ibm.com/blog/sharing-a-reliable-sustainability-podcast/"
 webUrl: "https://www.ibm.com/blog/sharing-a-reliable-sustainability-podcast/"
 type: article
+quality: 82
+heat: 82
+published: true
 
 provider:
   name: IBM

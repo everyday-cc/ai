@@ -69,6 +69,15 @@ related:
         width: 1480
         height: 832
         isCached: true
+  - title: "German Magazine Editor Is Fired Over Fake Michael Schumacher Interview"
+    excerpt: "Die Aktuelle promoted an interview as the first with the retired Formula 1 driver since a 2013 accident. But artificial intelligence had generated the responses."
+    publishedDateTime: 2023-04-24T17:45:00Z
+    webUrl: "https://www.nytimes.com/2023/04/24/business/media/michael-schumacher-ai-fake-interview.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 34
 
 secured: "sMR0pNZJavuW3K3RpnJO2ivcviPsrVyLIwXLyCMt2HPnTQd+YHumyFfaSYQ3zH/KYxMG4dGA9z4EdCO/MGr0nIStuXaMBMsS0PIU5aZdSRixYECQUZ50zNMJixPkZAutyrimNHMjFkJxdWWDZZ5lf7XtJWQmbIzRj2Yq2g387Q5MBHJvPZ3J8BUCzL7yp8e63VcuUQwh6GVEHBAT5DjQFwbcU4LE5VCBC8BrWSiSAd4eNfqCbCIi+BPezTUSTKEteIXrKIfasx9YE+AgFh75dcn+0p6mj43Hg3T84U+nQWp4U5Pqi1n3SpEcXKAyTlhUz0L02Zefg4RpSnoEPqxCq6rnxJDMCTPamLkb+JmxQ/w=;WWLgy45cxusbgsLd4BZMug=="
 ---

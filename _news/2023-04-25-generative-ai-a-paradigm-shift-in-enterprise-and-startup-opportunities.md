@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-24T19:52:00Z
 originalUrl: "https://www.cio.com/article/474720/generative-ai-a-paradigm-shift-in-enterprise-and-startup-opportunities.html"
 webUrl: "https://www.cio.com/article/474720/generative-ai-a-paradigm-shift-in-enterprise-and-startup-opportunities.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: CIO

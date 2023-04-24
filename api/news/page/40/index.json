@@ -2,6 +2,489 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2023-03-16-global-deep-learning-in-drug-discovery-and-diagnostics-market-to-2035-ongoing-pace-of-innovation-drives-growth.md",
+      "title": "Global Deep Learning in Drug Discovery and Diagnostics Market to 2035: Ongoing Pace of Innovation Drives Growth",
+      "excerpt": "This report features an extensive study of the current market landscape and the likely future potential of the deep learning solutions market within the healthcare domain. The report highlights the efforts of several stakeholders engaged in this rapidly emerging segment of the pharmaceutical industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-global-deep-learning-drug-discovery-diagnostics-market-2035-/2023/03/16/9778789.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-global-deep-learning-drug-discovery-diagnostics-market-2035-/2023/03/16/9778789.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-ishares-robotics-and-artificial-intelligence-multisector-etf.md",
+      "title": "iShares Robotics and Artificial Intelligence Multisector ETF",
+      "excerpt": "There is no recent news for this security. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/quotes/IRBO",
+      "originalUrl": "https://www.cnbc.com/quotes/IRBO",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-how-ai-will-change-big-techs-relationship-with-journalism.md",
+      "title": "How AI Will Change Big Tech's Relationship with Journalism",
+      "excerpt": "This problem has already been raised by Getty, whose copyright-protected images have been used by AI ... Research Center. \"The tactics were unpopular with the public and damaging to their brands, but the tough negotiating, particularly from Facebook ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/social-media/how-ai-will-change-big-techs-relationship-with-journalism/",
+      "originalUrl": "https://www.cnet.com/news/social-media/how-ai-will-change-big-techs-relationship-with-journalism/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/c0f4e791fc7b29a5c886a88572adf428a1eb9498/hub/2023/03/15/e7218460-12c6-42ee-8dfd-1fc295edb72a/gettyimages-1232274134.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/how-ai-will-change-big-techs-relationship-with-journalism/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-ai-will-change-big-techs-relationship-with-journalism/",
+      "publishedDateTime": "2023-03-15T16:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-for-wells-fargo-solving-for-ai-at-scale-is-an-iterative-process.md",
+      "title": "For Wells Fargo, solving for AI at scale is an iterative process",
+      "excerpt": "Financial services giant Wells Fargo shares how it's implementing AI at scale for document processing, a virtual assistant, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/for-wells-fargo-solving-for-ai-at-scale-is-an-iterative-process/",
+      "originalUrl": "https://venturebeat.com/ai/for-wells-fargo-solving-for-ai-at-scale-is-an-iterative-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/5-Applying-AI-at-scale-–-banking-enterprise-customer-story.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/for-wells-fargo-solving-for-ai-at-scale-is-an-iterative-process/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/for-wells-fargo-solving-for-ai-at-scale-is-an-iterative-process/amp/",
+      "publishedDateTime": "2023-03-15T15:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-vikinglinks-launches-cutting-edge-artificial-neural-network-for-seo-to-revolutionize-the-search-engine-results.md",
+      "title": "VikingLinks Launches Cutting-Edge Artificial Neural Network For SEO To Revolutionize The Search Engine Results",
+      "excerpt": "With a powerful combination of data-driven analytics and innovative technology, VikingLinks' latest technology Artificial Neural Network improves search engine rankings, drives traffic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/03/ab31371662/vikinglinks-launches-cutting-edge-artificial-neural-network-for-seo-to-revolutionize-the-search-e",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/ab31371662/vikinglinks-launches-cutting-edge-artificial-neural-network-for-seo-to-revolutionize-the-search-e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T14:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-from-2023-to-2028-report-on-the-ai-in-computer-vision-market.md",
+      "title": "From 2023 to 2028 Report on the AI in Computer Vision market",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- “AI in Computer Vision Market” information for each competitor includes [ General Electric Company, Cognex Corporation, TELEDYNE ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/from-2023-to-2028-report-on-the-ai-in-computer-vision-market-2023-03-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/from-2023-to-2028-report-on-the-ai-in-computer-vision-market-2023-03-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 474,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-fintech-stripe-valued-at-50-bln-after-65-bln-fundraise.md",
+      "title": "Fintech Stripe valued at $50 bln after $6.5 bln fundraise",
+      "excerpt": "REUTERS/Dado Ruvic/Illustration March 15 (Reuters) - Fintech Stripe said on Wednesday it was valued ... Disruptedcategory Bar exam score shows AI can keep up with 'human lawyers,' researchers say, article with image 6:17 PM UTC Technologycategory Exclusive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/fintech-stripe-valued-50-bln-after-65-bln-fundraise-2023-03-15/",
+      "originalUrl": "https://www.reuters.com/technology/fintech-stripe-valued-50-bln-after-65-bln-fundraise-2023-03-15/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/tMNyoyg9ToCWZE8Wy745mHBrOc8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/A2PHOE5YBZP2XAZJMWCMZOUTUM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-pytorch-20-brings-new-fire-to-open-source-machine-learning.md",
+      "title": "PyTorch 2.0 brings new fire to open-source machine learning",
+      "excerpt": "The open source PyTorch project is among the most widely used technologies for machine learning (ML) training. Originally started by Facebook (now Meta), PyTorch 1.0 came out in 2018 and benefitted from years of incremental improvements. >>Don’t miss our ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/pytorch-2-0-brings-new-fire-to-open-source-machine-learning/",
+      "originalUrl": "https://venturebeat.com/ai/pytorch-2-0-brings-new-fire-to-open-source-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1224500457-e1643727629417.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/pytorch-2-0-brings-new-fire-to-open-source-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/pytorch-2-0-brings-new-fire-to-open-source-machine-learning/amp/",
+      "publishedDateTime": "2023-03-15T14:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m.md",
+      "title": "Adept, a startup training AI to use existing software and APIs, raises $350M",
+      "excerpt": "In another sign that the current VC appetite for AI is insatiable, Adept, a startup building AI that “enables humans and computers to work together creatively to solve problems,” yesterday announced that it raised $350 million in a Series B funding ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/",
+      "originalUrl": "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-947742868.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/amp/",
+      "publishedDateTime": "2023-03-15T14:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-ai-image-tool-midjourney-launches-magazine.md",
+      "title": "AI-Image Tool Midjourney Launches Magazine",
+      "excerpt": "Midjourney, one of the many artificial intelligence-driven image creation companies to crop up in the past six months, announced plans on Wednesday to launch a magazine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/",
+      "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64122c70b27b32a60e216cc1/0x0.jpg?format=jpg&crop=1600,900,x0,y82,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/amp/",
+      "publishedDateTime": "2023-03-15T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-machine-learning-as-a-service-mlaas-market-share-segmentation-and-forecast-2023-2029.md",
       "title": "Machine Learning as a Service (MLaaS) Market Share, Segmentation and Forecast 2023-2029",
       "excerpt": "There are many different sources of market data, including government statistics, industry reports, financial news, and market research firms. Some of the key types of data that are available from the global Machine Learning as a Service (MLaaS ...",
@@ -739,491 +1222,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-karber-announces-next-phase-of-the-journey-in-e-fulfillment-through-robotics-as-a-service.md",
-      "title": "KÃ¶rber announces next phase of the journey in e-fulfillment through Robotics-as-a-Service",
-      "excerpt": "Adding to a depth and breadth of supply chain technologies spanning warehouse management, warehouse control, voice, order management, simulation and more, KÃ¶rber has unveiled its plans to extend its robotic service partnerships to combine the technology,",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1312317&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1312317&cat=PR News Wire",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2032909/PR_K_rber_RaaS.jpg",
-          "width": 400,
-          "height": 276,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete.md",
-      "title": "With A Growth In FinTech, Will Traditional Financial Advisors Become Obsolete?",
-      "excerpt": "The math is the easy part. There are AI tools, algorithms and software that are now able to fully design an investment portfolio in the time it takes to answer a questionnaire about your risk tolerance. However, that doesn’t give a full picture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ericbrotman/2023/03/15/with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete/",
-      "originalUrl": "https://www.forbes.com/sites/ericbrotman/2023/03/15/with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6411e6bd92269bb21de12265/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ericbrotman/2023/03/15/with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ericbrotman/2023/03/15/with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete/amp/",
-      "publishedDateTime": "2023-03-15T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-gpt-4-creator-ilya-sutskever-on-ai-hallucinations-and-ai-democracy.md",
-      "title": "GPT-4 Creator Ilya Sutskever on AI Hallucinations and AI Democracy",
-      "excerpt": "He was the main impetus for AlexNet, the convolutional neural network whose dramatic performance stunned the scientific community in 2012 and set off the deep learning revolution. The following is an edited transcript of our conversation. <iframe width ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/craigsmith/2023/03/15/gpt-4-creator-ilya-sutskever-on-ai-hallucinations-and-ai-democracy/",
-      "originalUrl": "https://www.forbes.com/sites/craigsmith/2023/03/15/gpt-4-creator-ilya-sutskever-on-ai-hallucinations-and-ai-democracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6411db2e9106984023d501fc/0x0.jpg?format=jpg&crop=2144,1206,x0,y235,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2023/03/15/gpt-4-creator-ilya-sutskever-on-ai-hallucinations-and-ai-democracy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/03/15/gpt-4-creator-ilya-sutskever-on-ai-hallucinations-and-ai-democracy/amp/",
-      "publishedDateTime": "2023-03-15T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-fintech-startup-stripe-integrating-openais-new-gpt-4-ai.md",
-      "title": "Fintech startup Stripe integrating OpenAI's new GPT-4 AI",
-      "excerpt": "SAN FRANCISCO, March 15 - Fintech startup Stripe is starting to ... a new version of the powerful artificial intelligence (AI) technology that has powered chatbot sensation ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/fintech-startup-stripe-integrating-openais-new-gpt-4-ai-2023-03-15/",
-      "originalUrl": "https://www.reuters.com/technology/fintech-startup-stripe-integrating-openais-new-gpt-4-ai-2023-03-15/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-how-artificial-intelligence-could-change-psychotherapy.md",
-      "title": "How Artificial Intelligence Could Change Psychotherapy",
-      "excerpt": "I can’t read the news or look at my social media feeds without seeing items about the potential implications of artificial intelligence (AI) on our future lives. Alarmed professors report college term papers are being written with ChatGPT;",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/technology-ga6a9ac6b0_1920.jpg?itok=JwAf1Qg2",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy?amp",
-      "publishedDateTime": "2023-03-15T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-robotics-and-pittsburgh-what-other-regions-can-learn.md",
-      "title": "Robotics And Pittsburgh, What Other Regions Can Learn",
-      "excerpt": "I’ll start this article by admitting to a bias ... Today, Pittsburgh is home to at least one hundred companies working to create solutions around robotics and AI. One thing the region has learned over the last decade. “Any city, county or region ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2023/03/15/robotic-and-pittsburgh-what-other-regions-can-learn/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2023/03/15/robotic-and-pittsburgh-what-other-regions-can-learn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=875,493,x0,y21,safe&width=1200",
-          "width": 875,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2023/03/15/robotic-and-pittsburgh-what-other-regions-can-learn/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2023/03/15/robotic-and-pittsburgh-what-other-regions-can-learn/amp/",
-      "publishedDateTime": "2023-03-15T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-tesla-full-self-driving-beta-v11-is-coming-this-weekend-if-you-believe-elon-musk.md",
-      "title": "Tesla Full Self-Driving Beta v11 is coming this weekend, if you believe Elon Musk",
-      "excerpt": "After months of waiting, Tesla Full Self-Driving Beta v11 is going to a wide release this weekend, if you believe Elon Musk. Tesla FSD Beta v11 is both an exciting and scary step as it is supposed to merge Tesla’s FSD and Autopilot highway stacks.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2023/03/15/tesla-full-self-driving-beta-v11-is-coming-weekend-believe-elon-musk/",
-      "originalUrl": "https://electrek.co/2023/03/15/tesla-full-self-driving-beta-v11-is-coming-weekend-believe-elon-musk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-forget-the-hybrid-cloud-its-time-for-the-confidential-cloud.md",
-      "title": "Forget the hybrid cloud; it’s time for the confidential cloud",
-      "excerpt": "Speakers included Intel CTO Greg Lavender and Microsoft Azure CTO Mark Russinovich ... because as people start doing AI and machine learning processing at the edge for all kinds of reasons [such as autonomous vehicles, surveillance infrastructure ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/forget-the-hybrid-cloud-its-time-for-the-confidential-cloud/",
-      "originalUrl": "https://venturebeat.com/security/forget-the-hybrid-cloud-its-time-for-the-confidential-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1357404877-e1652813501466.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/forget-the-hybrid-cloud-its-time-for-the-confidential-cloud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/forget-the-hybrid-cloud-its-time-for-the-confidential-cloud/amp/",
-      "publishedDateTime": "2023-03-15T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-chat-gpt-and-bing-ai-chatbots-to-be-used-as-panellists-in-world-first-at-fintech-conference.md",
-      "title": "Chat GPT and Bing AI chatbots to be used as panellists in world-first at fintech conference",
-      "excerpt": "Artificial intelligence chatbots are to be used as panellists for the first time at a fintech conference this week. Chat GPT and Bing AI will answer audience questions alongside human panellists ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/chat-gpt-and-bing-ai-chatbots-to-be-used-as-panellists-in-world-first-at-fintech-conference/",
-      "originalUrl": "https://www.cityam.com/chat-gpt-and-bing-ai-chatbots-to-be-used-as-panellists-in-world-first-at-fintech-conference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2023/03/Chatbot.jpg",
-          "width": 916,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/chat-gpt-and-bing-ai-chatbots-to-be-used-as-panellists-in-world-first-at-fintech-conference/?amp=1",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/chat-gpt-and-bing-ai-chatbots-to-be-used-as-panellists-in-world-first-at-fintech-conference/?amp=1",
-      "publishedDateTime": "2023-03-15T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-korber-announces-next-phase-of-the-journey-in-e-fulfillment-through-robotics-as-a-service.md",
-      "title": "Körber announces next phase of the journey in e-fulfillment through Robotics-as-a-Service",
-      "excerpt": "KArber's Robotics-as-a-Service (RaaS) program will provide simple access to a global network of robotics service partners for every business size and industry, emphasizing KArber's value on collaboration and dedication to meeting its customer's needs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/korber-announces-next-phase-of-the-journey-in-e-fulfillment-through-robotics-as-a-service-2023-03-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/korber-announces-next-phase-of-the-journey-in-e-fulfillment-through-robotics-as-a-service-2023-03-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

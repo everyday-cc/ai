@@ -71,34 +71,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Siemens and Microsoft Drive Industrial Innovation & Productivity with generative AI"
-    excerpt: "Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency across the design, engineering, manufacturing and operational lifecycle of products."
-    publishedDateTime: 2023-04-20T02:44:00Z
-    webUrl: "https://www.ien.eu/article/siemens-and-microsoft-drive-industrial-innovation-productivity-with-generative-ai/"
-    type: article
-    provider:
-      name: ien
-      domain: www.ien.eu
-    quality: 48
-    images:
-      - url: "https://cdn3.tim-europe.com/websites/ien/typo3temp/assets/_processed_/f/5/csm_WP_Siemens_page-0001_917f2767e6.jpg"
-        width: 300
-        height: 389
-        isCached: true
-  - title: "The era of AI: How the Microsoft Cloud is accelerating AI transformation across industries"
-    excerpt: "This past quarter has put a spotlight on advancements in generative AI, and the possibilities of its application to deliver pragmatic business outcomes. For organizations around the world, there is incredible opportunity to enhance products and services while unlocking innovation and business value to help shape the future of industry."
-    publishedDateTime: 2023-04-24T15:11:00Z
-    webUrl: "https://blogs.microsoft.com/blog/2023/04/24/the-era-of-ai-how-the-microsoft-cloud-is-accelerating-ai-transformation-across-industries/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 44
-    images:
-      - url: "https://blogs.microsoft.com/wp-content/uploads/prod/2023/04/Hero-image-April-24-1024x540.jpg"
-        width: 1024
-        height: 540
-        isCached: true
   - title: "Generative artificial intelligence on our “Babbage” podcast"
     excerpt: "GENERATIVE AI is taking the world by storm. Babbage has explored artificial intelligence through a variety of lenses. OpenAI’s ChatGPT, an advanced chatbot released in late-2022, amassed over 100 million monthly active users and exhibited unprecedented capabilities,"
     publishedDateTime: 2023-04-20T11:51:00Z

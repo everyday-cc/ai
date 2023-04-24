@@ -2,55 +2,21 @@
   "page": 160,
   "value": [
     {
-      "path": "_news/2022-06-03-california-regulators-approve-states-1st-robotic-taxi-fleet.md",
-      "title": "California regulators approve state’s 1st robotic taxi fleet",
-      "excerpt": "California regulators on Thursday gave a robotic taxi service the green light to begin charging passengers for driverless rides in San Francisco, a first in a state where dozens of companies have ...",
+      "path": "_news/2022-12-05-aws-reinvent-2022-round-up-data-management-ai-compute-take-centre-stage.md",
+      "title": "AWS re:Invent 2022 round-up: Data management, AI, compute take centre stage",
+      "excerpt": "AI features added to multiple services To help enterprises get more of a return on their data, AWS added new artificial intelligence (AI) features to a range of other services, including Textract, Transcribe, Kendra, CodeWhisperer, and HealthLake.",
       "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/business/california-regulators-approve-states-1st-robotic-taxi-fleet/",
-      "originalUrl": "https://www.seattletimes.com/business/california-regulators-approve-states-1st-robotic-taxi-fleet/",
+      "webUrl": "https://www.reseller.co.nz/article/703800/aws-re-invent-2022-round-up-data-management-ai-compute-take-centre-stage/",
+      "originalUrl": "https://www.reseller.co.nz/article/703800/aws-re-invent-2022-round-up-data-management-ai-compute-take-centre-stage/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/business/california-regulators-approve-states-1st-robotic-taxi-fleet/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/california-regulators-approve-states-1st-robotic-taxi-fleet/?amp=1",
-      "publishedDateTime": "2022-06-02T17:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-collaborative-robot-leverages-motion-control-speed-and-agility.md",
-      "title": "Collaborative Robot Leverages Motion Control Speed and Agility",
-      "excerpt": "With that in mind, ABB has identified three growing trends in ... covering automation and control, motion control, power transmission, robotics, and fluid power.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/collaborative-robot-leverages-motion-control-speed-and-agility",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/collaborative-robot-leverages-motion-control-speed-and-agility",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
+      "heat": 82,
       "tags": null,
       "images": [
         {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/YuMi%20VIII.jpg",
-          "width": 7360,
-          "height": 5197,
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/adam_selipsky_aws_6.jpg",
+          "width": 504,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -60,11 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T17:00:00-07:00",
+      "publishedDateTime": "2022-12-04T19:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
         "images": null,
         "publishers": null,
         "authors": null
@@ -74,60 +40,26 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AWS AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-03-get-started-with-speech-recognition.md",
-      "title": "Get Started With Speech Recognition",
-      "excerpt": "Speech recognition makes it easier for us to be lazy with our devices – or perhaps set up the coolest voice-controlled project around. After the voice controlled home automation post ...",
+      "path": "_news/2022-12-05-cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud.md",
+      "title": "Cerebras Announces Pay-As-You-Go AI Training On Cirrascale Cloud",
+      "excerpt": "Company claims it can train AI 8X faster than AWS at half the cost for large models. Cerebras is not your typical AI chip company. And thats a good thing. We already have a lot of knock-offs taking on NVIDIA, and they all seem to do a good job of knocking ...",
       "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2010/07/09/get-started-with-speech-recognition/",
-      "originalUrl": "https://hackaday.com/2010/07/09/get-started-with-speech-recognition/",
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-how-to-invest-in-artificial-intelligence-3-companies-to-watch.md",
-      "title": "How to Invest in Artificial Intelligence -- 3 Companies to Watch",
-      "excerpt": "Artificial Intelligence has long been a staple of ... From the sudden reality of driverless cars to Siri's clever retorts on the iPhone, AI is a bigger part of our lives than ever.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
-      "originalUrl": "https://www.thestreet.com/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTY4NjM5Njk3NDkxNDA0NDIz/how-to-invest-in-artificial-intelligence----3-companies-to-watch.jpg",
-          "width": 619,
-          "height": 409,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/638e4946cfebecc8ea93c5c7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -135,14 +67,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
-      "publishedDateTime": "2022-06-02T17:00:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/amp/",
+      "publishedDateTime": "2022-12-04T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -151,27 +92,36 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-03-roomba-vacuum-deals-start-at-just-179-in-early-fathers-day-sale.md",
-      "title": "Roomba vacuum deals start at just $179 in early Father’s Day sale",
-      "excerpt": "Today’s deals start at just $179.99 for a best-selling ... The newest Roomba with AI and other cutting-edge features also has great discounts right now. The hot new Roomba j7 and Roomba j7 ...",
+      "path": "_news/2022-12-05-cuttlefish-passed-a-cognitive-test-designed-for-humans.md",
+      "title": "Cuttlefish passed a cognitive test designed for humans",
+      "excerpt": "This discovery, the researchers say, is an example of advanced self-control and shows that the creatures perform better in cognitive tasks. It has also been hypothesized that these positive ...",
       "sourceUrl": null,
-      "webUrl": "https://bgr.com/deals/roomba-vacuum-deals-lowest-prices-today/",
-      "originalUrl": "https://bgr.com/deals/roomba-vacuum-deals-lowest-prices-today/",
+      "webUrl": "https://bgr.com/science/cuttlefish-passed-a-cognitive-test-designed-for-humans/",
+      "originalUrl": "https://bgr.com/science/cuttlefish-passed-a-cognitive-test-designed-for-humans/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2022/12/AdobeStock_159088227.jpeg?quality=82&strip=all",
+          "width": 2400,
+          "height": 1596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T17:00:00-07:00",
+      "publishedDateTime": "2022-12-04T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BGR",
@@ -185,363 +135,26 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment.md",
-      "title": "Temasek’s Pavilion Capital backs South Korean AI chip maker Rebellions with $50M investment",
-      "excerpt": "Global venture capital firms are pouring money into the semiconductor startups developing the next generation of chips. Semiconductors, which have become a valued asset, are used in virtually almost every industry,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/",
-      "originalUrl": "https://techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/rebellions_ION-1.png?w=680",
-          "width": 680,
-          "height": 510,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/amp/",
-      "publishedDateTime": "2022-06-02T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-lenovo-looks-to-bring-ai-intelligence-to-the-edge.md",
-      "title": "Lenovo looks to bring AI intelligence to the edge",
-      "excerpt": "Among the many vendors eyeing a piece of the artificial intelligence (AI ... NX platform and integrates with the Amazon Web Services (AWS) Panorama service for AI computer vision (CV) processing ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/",
-      "originalUrl": "https://venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-912442774-e1647451315717.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/amp/",
-      "publishedDateTime": "2022-06-02T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-clearview-ai-draws-another-fine-uk-ico-assesses-75-million-for-scraping-of-facial-recognition-data.md",
-      "title": "Clearview AI Draws Another Fine; UK ICO Assesses £7.5 Million for Scraping of Facial Recognition Data",
-      "excerpt": "Clearview AI will be fined £7,552,800, and has been ordered to stop collecting facial recognition data in the UK and to delete all of the data it had previously collected.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cpomagazine.com/cyber-security/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data/",
-      "originalUrl": "https://www.cpomagazine.com/cyber-security/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cpomagazine.com/wp-content/uploads/2022/06/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data_1500.jpg",
-          "width": 1500,
-          "height": 860,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cpomagazine.com/cyber-security/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data/amp/",
-      "cdnAmpWebUrl": "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/cyber-security/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data/amp/",
-      "publishedDateTime": "2022-06-02T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CPO Magazine",
-        "domain": "cpomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-pinterest-acquires-ai-powered-shopping-startup-the-yes-co-founded-by-former-stitch-fix-exec.md",
-      "title": "Pinterest acquires AI-powered shopping startup The Yes, co-founded by former Stitch Fix exec",
-      "excerpt": "As Pinterest sets its eyes on improving the online shopping experience on its platform, the company announced this afternoon it’s acquiring the AI-powered shopping service for fashion known as The Yes,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/02/pinterest-acquires-a-i-powered-shopping-startup-the-yes-co-founded-by-former-stitch-fix-exec/",
-      "originalUrl": "https://techcrunch.com/2022/06/02/pinterest-acquires-a-i-powered-shopping-startup-the-yes-co-founded-by-former-stitch-fix-exec/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/the-yes.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/02/pinterest-acquires-a-i-powered-shopping-startup-the-yes-co-founded-by-former-stitch-fix-exec/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/02/pinterest-acquires-a-i-powered-shopping-startup-the-yes-co-founded-by-former-stitch-fix-exec/amp/",
-      "publishedDateTime": "2022-06-02T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-traffic-noise-around-primary-schools-slows-cognitive-development-in-children-study-warns.md",
-      "title": "Traffic noise around primary schools slows cognitive development in children, study warns",
-      "excerpt": "To study possible effects on cognitive development, the team assessed two abilities that develop rapidly during preadolescence and are essential for learning and success in school — attention ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/news/science/1620050/traffic-noise-around-primary-schools-slows-cognitive-development-children-attention-memory",
-      "originalUrl": "https://www.express.co.uk/news/science/1620050/traffic-noise-around-primary-schools-slows-cognitive-development-children-attention-memory",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/road-noise-top-1620050.jpg?r=1654202340687",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/news/science/1620050/traffic-noise-around-primary-schools-slows-cognitive-development-children-attention-memory/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1620050/traffic-noise-around-primary-schools-slows-cognitive-development-children-attention-memory/amp",
-      "publishedDateTime": "2022-06-02T14:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-03-oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases.md",
-      "title": "Oregon dropping AI tool used to help decide child abuse cases",
-      "excerpt": "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions.",
+      "path": "_news/2022-12-05-artificial-intelligence-and-heart-care-pt-1.md",
+      "title": "Artificial intelligence and heart care — Pt 1",
+      "excerpt": "ARTIFICIAL intelligence (AI ... systems, and convolutional neural networks. In medical imaging, and more particularly cardiovascular imaging, AI has become very instrumental in efficiently ...",
       "sourceUrl": null,
-      "webUrl": "https://www.pbs.org/newshour/nation/oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases",
-      "originalUrl": "https://www.pbs.org/newshour/nation/oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2018/07/DarkWeb-1024x682.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pbs.org/newshour/amp/nation/oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases",
-      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases",
-      "publishedDateTime": "2022-06-02T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PBS",
-        "domain": "pbs.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-latchbio-raises-28m-to-corral-bio-data.md",
-      "title": "LatchBio raises $28M to corral bio data",
-      "excerpt": "LatchBio's goal is to give researchers a simple, integrated tool that can analyze bio data without hiring a computer scientist.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/02/latchbio-raises-28m-to-corral-bio-data/",
-      "originalUrl": "https://venturebeat.com/2022/06/02/latchbio-raises-28m-to-corral-bio-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1213042830-e1654116197955.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/02/latchbio-raises-28m-to-corral-bio-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/02/latchbio-raises-28m-to-corral-bio-data/amp/",
-      "publishedDateTime": "2022-06-02T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy.md",
-      "title": "MCRI launches new study regarding the Apple Watch’s ECG app for children in cancer therapy",
-      "excerpt": "Murdoch Children’s Research Institute in Australia is launching a study to validate Apple Watch’s ECG application in children during and after cancer therapy, according to MyHealthyApple. Murdoch Chil",
-      "sourceUrl": null,
-      "webUrl": "https://www.mactech.com/2022/06/02/mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy/",
-      "originalUrl": "https://www.mactech.com/2022/06/02/mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy/",
+      "webUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/",
+      "originalUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.mactech.com/wp-content/uploads/2022/06/Apple-Watch-ECG-883x1024.jpg",
-          "width": 883,
-          "height": 1024,
+          "url": "https://imengine.public.prod.jam.navigacloud.com/?uuid=bed7186e-bbf9-52e7-a219-69c1352aa6fb&function=fit&type=preview",
+          "width": 500,
+          "height": 333,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -549,436 +162,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.mactech.com/2022/06/02/mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy/amp/",
-      "cdnAmpWebUrl": "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2022/06/02/mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy/amp/",
-      "publishedDateTime": "2022-06-02T13:49:00-07:00",
+      "ampWebUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/amp/",
+      "cdnAmpWebUrl": "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/amp/",
+      "publishedDateTime": "2022-12-04T10:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MacTech",
-        "domain": "mactech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-children-who-attend-schools-with-more-traffic-noise-show-slower-cognitive-development.md",
-      "title": "Children who attend schools with more traffic noise show slower cognitive development",
-      "excerpt": "In order to assess the possible impact of traffic noise on cognitive development, the researchers focused on two abilities that develop rapidly during preadolescence and are essential for learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/06/220602140809.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/06/220602140809.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-aws-and-amazon-sagemaker-c-the-commercialization-of-machine-learning-services.md",
-      "title": "AWS and Amazon SageMaker (C): The Commercialization of Machine Learning Services",
-      "excerpt": "Lakhani, Karim R., Shane Greenstein, and Kerry Herman. \"AWS and Amazon SageMaker (C): The Commercialization of Machine Learning Services.\" Harvard Business School Supplement 622-087, May 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hbs.edu/faculty/Pages/item.aspx?num=62416",
-      "originalUrl": "https://www.hbs.edu/faculty/Pages/item.aspx?num=62416",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hbs.edu/Style%20Library/api/headshot.aspx?id=240491",
-          "width": 440,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business School",
-        "domain": "hbs.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-traffic-noise-may-impair-childrens-cognitive-development-study.md",
-      "title": "Traffic noise may impair children’s cognitive development: study",
-      "excerpt": "“Our study supports the hypothesis that childhood is a vulnerable period during which external stimuli such as noise can affect the rapid process of cognitive development that takes place before ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/equilibrium-sustainability/3509834-traffic-noise-may-impair-childrens-cognitive-development-study/",
-      "originalUrl": "https://thehill.com/policy/equilibrium-sustainability/3509834-traffic-noise-may-impair-childrens-cognitive-development-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/04/traffic_infrastructure_033017gn3_lead.jpg?w=1280",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/equilibrium-sustainability/3509834-traffic-noise-may-impair-childrens-cognitive-development-study/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/equilibrium-sustainability/3509834-traffic-noise-may-impair-childrens-cognitive-development-study/amp/",
-      "publishedDateTime": "2022-06-02T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-midlife-insomnia-tied-to-later-cognitive-problems.md",
-      "title": "Midlife Insomnia Tied to Later Cognitive Problems",
-      "excerpt": "THURSDAY, June 2, 2022 (HealthDay News) -- Severe insomnia symptoms in midlife are associated with worse cognitive function in retired individuals, according to a study published online April 28 ...",
-      "sourceUrl": null,
-      "webUrl": "https://siouxcityjournal.com/lifestyles/health-med-fit/midlife-insomnia-tied-to-later-cognitive-problems/article_44e4bc1d-b6ff-5f2f-8215-aa9764537acf.html",
-      "originalUrl": "https://siouxcityjournal.com/lifestyles/health-med-fit/midlife-insomnia-tied-to-later-cognitive-problems/article_44e4bc1d-b6ff-5f2f-8215-aa9764537acf.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/2/c5/2c5952d1-d27a-5df3-bfeb-9e3d6971678c/629901ee7d3de.image.jpg?crop=600%2C315%2C0%2C11&resize=600%2C315&order=crop%2Cresize",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sioux City Journal",
-        "domain": "siouxcityjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-merge-cells-and-column-headers-in-amazon-textract-tables.md",
-      "title": "Merge cells and column headers in Amazon Textract tables",
-      "excerpt": "Financial documents such as bank, loan, or mortgage statements are often formatted to be visually appealing and easy to read for the human eye. These same features can also make automated processing challenging at times. For instance, in the following sample statement, merging rows or columns in a table",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/merge-cells-and-column-headers-in-amazon-textract-tables/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/merge-cells-and-column-headers-in-amazon-textract-tables/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T11:37:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-oregon-dropping-ai-tool-used-in-child-abuse-cases.md",
-      "title": "Oregon dropping AI tool used in child abuse cases",
-      "excerpt": "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nhregister.com/news/article/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php",
-      "originalUrl": "https://www.nhregister.com/news/article/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/26/01/67/22552019/3/ratio3x2_400.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nhregister.com/news/amp/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php",
-      "cdnAmpWebUrl": "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php",
-      "publishedDateTime": "2022-06-02T11:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Haven Register",
-        "domain": "nhregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-artificial-intelligence-societal-impact-and-the-future-of-education.md",
-      "title": "Artificial Intelligence, Societal Impact, and the Future of Education",
-      "excerpt": "Siddhartha Paul Tiwari Today, investing in artificial intelligence (AI) has the potential to address some of the biggest challenges facing the education industry. The technology can be used to introduce innovative teaching and learning practices,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/",
-      "originalUrl": "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/06/Screenshot-2022-06-02-210508.jpg",
-          "width": 471,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/amp/",
-      "publishedDateTime": "2022-06-02T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-vhc-health-becomes-first-health-system-in-dmv-to-utilize-certify-healths-facial-recognition-technology.md",
-      "title": "VHC Health Becomes First Health System in DMV to Utilize CERTIFY Health’s Facial Recognition Technology",
-      "excerpt": "CERTIFY Health is excited to announce that VHC Health (VHC), a community-based health system providing medical services to the Washington, DC metropolitan area, will be implementing its positive patient identification (PPID) using facial biometrics at all VHC locations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/vhc-health-becomes-first-health-system-in-dmv-to-utilize-certify-health-s-facial-recognition/article_07286e3f-7769-5a4a-88d6-3bdb05535744.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/vhc-health-becomes-first-health-system-in-dmv-to-utilize-certify-health-s-facial-recognition/article_07286e3f-7769-5a4a-88d6-3bdb05535744.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg",
-          "width": 415,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-evaluating-brain-mri-scans-with-the-help-of-artificial-intelligence.md",
-      "title": "Evaluating brain MRI scans with the help of artificial intelligence",
-      "excerpt": "This is where technical innovations such as artificial intelligence can offer support in interpreting clinical images. One such tool is the AI-Rad Companion Brain MR 3. Part of a family of AI-based, decision-support solutions for imaging, AI-Rad Companion ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/06/02/1052942/evaluating-brain-mri-scans-with-the-help-of-artificial-intelligence/",
-      "originalUrl": "https://www.technologyreview.com/2022/06/02/1052942/evaluating-brain-mri-scans-with-the-help-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/05/1738_U_Screen_Retusche_AIRC_16-9_1920px.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/06/02/1052942/evaluating-brain-mri-scans-with-the-help-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/06/02/1052942/evaluating-brain-mri-scans-with-the-help-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-06-02T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-biologically-plausible-spatiotemporal-adjustment-helps-train-deep-spiking-neural-networks.md",
-      "title": "Biologically plausible spatiotemporal adjustment helps train deep spiking neural networks",
-      "excerpt": "Spiking neural networks (SNNs) capture the most important aspects of brain information processing. They are considered a promising approach for next-generation artificial intelligence. However ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/954275",
-      "originalUrl": "https://www.eurekalert.org/news-releases/954275",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "The Jamaica Observer",
+        "domain": "jamaicaobserver.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -993,21 +183,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-02-oral-bs-toothbrush-uses-ai-to-grade-your-teeth-brushing-habits.md",
-      "title": "Oral-B's toothbrush uses AI to grade your teeth brushing habits",
-      "excerpt": "Your teeth might not be the first thing you think about when it comes to a beauty routine. But you, like most of us, are probably in constant pursuit of a healthy and pearly white smile. Enter: the Oral-B iO Series 9 toothbrush,",
+      "path": "_news/2022-12-05-sudbury-plays-host-to-first-robotics-competition.md",
+      "title": "Sudbury plays host to FIRST robotics competition",
+      "excerpt": "Tech Qualifier with students competing from across Sudbury, North Bay, Manitoulin Island, Bruce County and Toronto. Teams had to use their robots to complete different challenges, using pylons while amassing points.",
       "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/oral-b-io-series-9-ai-toothbrush-review",
-      "originalUrl": "https://mashable.com/article/oral-b-io-series-9-ai-toothbrush-review",
+      "webUrl": "https://northernontario.ctvnews.ca/sudbury-plays-host-to-first-robotics-competition-1.6180419",
+      "originalUrl": "https://northernontario.ctvnews.ca/sudbury-plays-host-to-first-robotics-competition-1.6180419",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://helios-i.mashable.com/imagery/articles/02RW1mKe0esLHwloSTAeh8Q/hero-image.fill.size_1200x675.v1654116314.png",
-          "width": 1200,
-          "height": 675,
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2022/12/4/2577491/_jcr_content/renditions/videothumbnail.1670204290046.jpg",
+          "width": 1020,
+          "height": 596,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1015,13 +205,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mashable.com/article/oral-b-io-series-9-ai-toothbrush-review?amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/oral-b-io-series-9-ai-toothbrush-review?amp",
-      "publishedDateTime": "2022-06-02T08:09:00-07:00",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/northern-ontario/2022/12/4/1_6180419.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/northern-ontario/2022/12/4/1_6180419.amp.html",
+      "publishedDateTime": "2022-12-04T09:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1031,25 +221,26 @@
         "news"
       ],
       "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-02-artificial-intelligence-ai-in-healthcare-market-to-see-major-growth-by-2028-medtronic-stryker-careskore.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market to See Major Growth by 2028 | Medtronic, Stryker, Careskore",
-      "excerpt": "The Latest research study released by HTF MI “Global Artificial Intelligence (AI) in Healthcare Market” with 100+ pages of analysis on business Strategy taken up by key and emerging industry ...",
+      "path": "_news/2022-12-05-why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right.md",
+      "title": "Why you need an organizational AI ethics committee to do AI right",
+      "excerpt": "How forming an AI ethics committee will educate and engage your teams and customers about ethical dilemmas artificial intelligence can raise.",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-healthcare-market-to-see-major-growth-by-2028-medtronic-stryker-careskore",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-healthcare-market-to-see-major-growth-by-2028-medtronic-stryker-careskore",
+      "webUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/",
+      "originalUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/14d29a7a7e47b1a888bb643ae38ecb5e6b509a72-600x337.jpg",
-          "width": 600,
-          "height": 337,
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-875599880-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 629,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1057,14 +248,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T08:05:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/amp/",
+      "publishedDateTime": "2022-12-04T09:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1073,10 +273,10 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "AI Ethics",
         "AI"
       ]
     }
   ],
-  "nextPage": 161
+  "nextPage": null
 }

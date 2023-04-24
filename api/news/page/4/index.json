@@ -2,6 +2,450 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-20-pensions-pressure-electric-cars-and-ai-ethics.md",
+      "title": "Pensions pressure, electric cars and AI ethics",
+      "excerpt": "The government may have to raise the state pension age to 70 by 2050 due to pressure on the public finances. Ian King is joined by Carl Emmerson, deputy director of the Institute for Fiscal Studies - who says nine in 10 workers are saving less than needed for a decent standard of living in retirement.",
+      "sourceUrl": null,
+      "webUrl": "https://news.sky.com/story/pensions-pressure-electric-cars-and-ai-ethics-12861867?dcmp=snt-sf-twitter",
+      "originalUrl": "https://news.sky.com/story/pensions-pressure-electric-cars-and-ai-ethics-12861867?dcmp=snt-sf-twitter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e3.365dm.com/21/06/1600x900/skynews-ian-king-business-podcast_5403721.png?20230201132237",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.sky.com/story/amp/pensions-pressure-electric-cars-and-ai-ethics-12861867",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/pensions-pressure-electric-cars-and-ai-ethics-12861867",
+      "publishedDateTime": "2023-04-20T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-artificial-intelligence-ai-chips-market-predictions-a-comprehensive-forecast-for-2023-2030.md",
+      "title": "Artificial Intelligence (AI) Chips Market Predictions: A Comprehensive Forecast for 2023-2030",
+      "excerpt": "Apr 20, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" This comprehensive market research",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-predictions-a-comprehensive-forecast-for-2023-2030-2023-04-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-predictions-a-comprehensive-forecast-for-2023-2030-2023-04-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-accelerating-chip-design-with-gpus-and-adding-ai-to-push-it-further.md",
+      "title": "Accelerating Chip Design With GPUs, And Adding AI To Push It Further",
+      "excerpt": "Two decades ago, all the chip makers, including Intel, had to buy Unix machines, usually massive ranks of Sparc/Solaris systems, to do electronic design",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2023/04/20/accelerating-chip-design-with-gpus-and-adding-ai-to-push-it-further/",
+      "originalUrl": "https://www.nextplatform.com/2023/04/20/accelerating-chip-design-with-gpus-and-adding-ai-to-push-it-further/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.nextplatform.com/wp-content/uploads/2023/04/asml-lithography-logo.jpg",
+          "width": 1105,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2023/04/20/accelerating-chip-design-with-gpus-and-adding-ai-to-push-it-further/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/04/20/accelerating-chip-design-with-gpus-and-adding-ai-to-push-it-further/amp/",
+      "publishedDateTime": "2023-04-20T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-rtx-4070-review-an-ideal-gpu-for-anyone-who-skipped-the-graphics-card-shortage.md",
+      "title": "RTX 4070 review: An ideal GPU for anyone who skipped the graphics card shortage",
+      "excerpt": "Nvidia's GeForce RTX 4070 is here. It's the company's first launch in over a year of a graphics card that could charitably be described as \"mainstream,\" both in performance and in price. It costs $600.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2023/04/rtx-4070-review-an-ideal-gpu-for-anyone-who-skipped-the-graphics-card-shortage/",
+      "originalUrl": "https://arstechnica.com/gadgets/2023/04/rtx-4070-review-an-ideal-gpu-for-anyone-who-skipped-the-graphics-card-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/IMG_0984-800x533.jpeg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2023/04/rtx-4070-review-an-ideal-gpu-for-anyone-who-skipped-the-graphics-card-shortage/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/04/rtx-4070-review-an-ideal-gpu-for-anyone-who-skipped-the-graphics-card-shortage/amp/",
+      "publishedDateTime": "2023-04-20T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-how-amazon-has-reorganized-around-artificial-intelligence-and-machine-learning.md",
+      "title": "How Amazon Has Reorganized Around Artificial Intelligence And Machine Learning",
+      "excerpt": "I am a Customer Experience Futurist, Author and Keynote Speaker. In honor of Amazon Prime Day, let’s take a look at the inner workings of this company that is pushing the bounds of innovation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/blakemorgan/2018/07/16/how-amazon-has-re-organized-around-artificial-intelligence-and-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/blakemorgan/2018/07/16/how-amazon-has-re-organized-around-artificial-intelligence-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/dam/imageserve/80be61df19f54b8e87e96066748b9882/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 870,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T02:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-a-remarkable-learning-journey-leads-to-asia-for-the-post-gpt-mba.md",
+      "title": "A Remarkable Learning Journey Leads To Asia For The Post-GPT MBA",
+      "excerpt": "Sanjay Sarma, the incoming President, CEO and Dean of Asia School of Business (ASB), based in Kuala Lumpur has what he describes as an unconventional background - professor, businessman, author, father.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mattsymonds/2023/04/20/a-remarkable-learning-journey-leads-to-asia-for-the-post-gpt-mba/",
+      "originalUrl": "https://www.forbes.com/sites/mattsymonds/2023/04/20/a-remarkable-learning-journey-leads-to-asia-for-the-post-gpt-mba/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6441039958b48aa218bffcf4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 878,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mattsymonds/2023/04/20/a-remarkable-learning-journey-leads-to-asia-for-the-post-gpt-mba/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattsymonds/2023/04/20/a-remarkable-learning-journey-leads-to-asia-for-the-post-gpt-mba/amp/",
+      "publishedDateTime": "2023-04-20T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-is-deep-learning-a-necessary-ingredient-for-artificial-intelligence.md",
+      "title": "Is deep learning a necessary ingredient for artificial intelligence?",
+      "excerpt": "The earliest artificial neural network, the Perceptron, was introduced approximately 65 years ago and consisted of just one layer. However, to address solutions for more complex classification tasks,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-04-deep-ingredient-artificial-intelligence.html",
+      "originalUrl": "https://techxplore.com/news/2023-04-deep-ingredient-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/is-deep-learning-a-nec.jpg",
+          "width": 2880,
+          "height": 1716,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-04-deep-ingredient-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-deep-ingredient-artificial-intelligence.amp",
+      "publishedDateTime": "2023-04-20T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-artificial-intelligence-signs-of-acceleration-in-2023.md",
+      "title": "Artificial Intelligence: Signs of Acceleration in 2023",
+      "excerpt": "One final investment area that I’ll mention, that’s core to setting Amazon up to invent in every area of our business for many decades to come,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-signs-of-acceleration-in-2023-1032247068",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-signs-of-acceleration-in-2023-1032247068",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wisdomtree.com/investments/-/media/us-media-files/blog/blog-images-2/2023/april/artificial-intelligence-signs-of-acceleration-in-2023/figure-1.jpg",
+          "width": 768,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-data-explorer-processes-unlabeled-visual-data-boosting-creation-of-production-ready-ai-models.md",
+      "title": "Data Explorer processes unlabeled visual data, boosting creation of production-ready AI models",
+      "excerpt": "Akridata has launched Data Explorer for processing visual data, allowing data science teams to improve datasets and AI model training.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/data-explorer-processes-unlabeled-visual-data-boosting-creation-of-production-ready-ai-models/",
+      "originalUrl": "https://venturebeat.com/ai/data-explorer-processes-unlabeled-visual-data-boosting-creation-of-production-ready-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/VB_akridata-logo_041923.jpg?w=1200&strip=all",
+          "width": 1117,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/data-explorer-processes-unlabeled-visual-data-boosting-creation-of-production-ready-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/data-explorer-processes-unlabeled-visual-data-boosting-creation-of-production-ready-ai-models/amp/",
+      "publishedDateTime": "2023-04-20T00:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-20-aws-matterport-partnership-enhances-digital-twins-with-joint-dashboard.md",
       "title": "AWS, Matterport partnership enhances digital twins with joint dashboard",
       "excerpt": "New integrations expand on Matterport spatial data service for AWS IoT TwinMaker. Image: Funtap/Adobe Stock Organizations using Matterport for spatial data can now view it on the same dashboard as AWS IoT TwinMaker data with a new integration.",
@@ -781,422 +1225,6 @@
         "AI in Healthcare",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-divisions-grow-over-use-of-facial-recognition-in-california.md",
-      "title": "Divisions Grow Over Use of Facial Recognition in California",
-      "excerpt": "(TNS) — California legislators are grappling over how to deal with facial recognition technology in policing, leading to tensions between one-time allies on the issue. Assemblyman Phil Ting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/policy/divisions-grow-over-use-of-facial-recognition-in-california",
-      "originalUrl": "https://www.govtech.com/policy/divisions-grow-over-use-of-facial-recognition-in-california",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/8df9832/2147483647/strip/true/crop/1119x583+0+23/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9c%2Fc3%2F0eddcc5f45b1049402bb3e8fadb2%2Fshutterstock-1385868245.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/policy/divisions-grow-over-use-of-facial-recognition-in-california?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/divisions-grow-over-use-of-facial-recognition-in-california?_amp=true",
-      "publishedDateTime": "2023-04-18T19:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-ai-terminologies-101-natural-language-processing-nlp-and-its-applications.md",
-      "title": "AI Terminologies 101: Natural Language Processing (NLP) and Its Applications",
-      "excerpt": "Natural Language Processing (NLP) is a type of artificial intelligence (AI) that enables machines to understand and process human language. NLP has become increasingly important in recent years as ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2023/04/ai-terminologies-101-understanding-nlp",
-      "originalUrl": "https://yourstory.com/2023/04/ai-terminologies-101-understanding-nlp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/NucleusAIwall-elikecuterobotsmilingandreadingabooklo64cf6bf2-2dc6-4006-80fc-53762f2dce631-1681831401514.jpg?fm=png&auto=format",
-          "width": 1536,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T18:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-as-fintech-thrives-can-ai-make-or-break-the-banking-industry.md",
-      "title": "As fintech thrives, can AI make or break the banking industry?",
-      "excerpt": "The banking industry continues to be a proponent of emerging technologies like artificial intelligence (AI). While the pace of the adoption may be",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2023/04/as-fintech-thrives-can-ai-make-or-break-the-banking-industry/",
-      "originalUrl": "https://techwireasia.com/2023/04/as-fintech-thrives-can-ai-make-or-break-the-banking-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techwireasia.com/wp-content/uploads/2023/04/shutterstock_2129644337-scaled.jpg",
-          "width": 2560,
-          "height": 1335,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T18:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-new-microsoft-ai-chip-no-threat-to-nvidia-but-growing-llm-needs-drive-custom-silicon.md",
-      "title": "New Microsoft AI chip no threat to Nvidia, but growing LLM needs drive custom silicon",
-      "excerpt": "Experts say Nvidia won't be threatened by Microsoft's Athena AI chip, but growing LLM needs are driving hyperscalers to develop custom silicon.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/new-microsoft-ai-chip-no-threat-to-nvidia-but-growing-llm-needs-drive-custom-silicon/",
-      "originalUrl": "https://venturebeat.com/ai/new-microsoft-ai-chip-no-threat-to-nvidia-but-growing-llm-needs-drive-custom-silicon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/Untitled-design-50.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/new-microsoft-ai-chip-no-threat-to-nvidia-but-growing-llm-needs-drive-custom-silicon/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/new-microsoft-ai-chip-no-threat-to-nvidia-but-growing-llm-needs-drive-custom-silicon/amp/",
-      "publishedDateTime": "2023-04-18T17:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-opioid-prescriptions-relationship-to-cognitive-function-in-later-life-examined.md",
-      "title": "Opioid Prescriptions' Relationship to Cognitive Function in Later Life Examined",
-      "excerpt": "According to a study, prescription opioid use could have a negative effect on cognitive function in older adults.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/neuroscience/news/opioid-prescriptions-relationship-to-cognitive-function-in-later-life-examined-372292",
-      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/opioid-prescriptions-relationship-to-cognitive-function-in-later-life-examined-372292",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/372292/opioid-prescriptions-relationship-to-cognitive-function-in-later-life-examined-372292-640x360.jpg?cb=20230419",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-microsoft-reportedly-pinning-its-ai-hopes-on-in-house-athena-chip.md",
-      "title": "Microsoft Reportedly Pinning its AI Hopes on In-House ‘Athena’ Chip",
-      "excerpt": "Microsoft is reportedly developing an AI-centric GPU for itself and OpenAI, one that can give them an edge over AI chipmaker Nvidia.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/microsoft-ai-chip-athena-server-gpu-nvidia-a100-h100-1850349147",
-      "originalUrl": "https://gizmodo.com/microsoft-ai-chip-athena-server-gpu-nvidia-a100-h100-1850349147",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/70865535ecc0e0c782b0bf8c02f09bc8.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-aws-vice-president-bratin-saha-on-the-bedrock-generative-ai-tools.md",
-      "title": "AWS Vice President Bratin Saha on the Bedrock Generative AI Tools",
-      "excerpt": "Bratin Saha, Vice President, AI & Machine Learning at AWS, details Amazon’s new initiative in generative AI, and also discusses current and future trends in artificial intelligence. I spoke with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/aws-bedrock-generative-ai-tools/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/aws-bedrock-generative-ai-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2023/04/New-eSPEAKS-thumbnail.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-is-artificial-intelligence-your-friend.md",
-      "title": "Is artificial intelligence your friend?",
-      "excerpt": "President Joe Biden’s administration wants stronger measures to test the safety of artificial intelligence tools such as ChatGPT before they are publicly released, though it hasn’t decided if the government will have a role in doing the vetting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thegazette.com/guest-columnists/is-artificial-intelligence-your-friend/",
-      "originalUrl": "https://www.thegazette.com/guest-columnists/is-artificial-intelligence-your-friend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imengine.public.prod.cdr.navigacloud.com/?uuid=42c3d89e-0794-53ca-90e1-a8dad1ca8e09&type=preview&q=75&width=1200&height=800",
-          "width": 1199,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thegazette.com/guest-columnists/is-artificial-intelligence-your-friend/?amp=1",
-      "cdnAmpWebUrl": "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/guest-columnists/is-artificial-intelligence-your-friend/?amp=1",
-      "publishedDateTime": "2023-04-18T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Gazette",
-        "domain": "thegazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-ibm-takes-a-pragmatic-approach-to-enterprise-ai.md",
-      "title": "IBM takes a pragmatic approach to enterprise AI",
-      "excerpt": "IBM’s 12-year old Watson includes an Embeddable AI portfolio and is a core part of the IBM AI strategy. According to a recent NASDAQ report, “IBM’s Watson has evolved and is deployed for many business use cases. It’s being applied for customer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/706733/ibm-takes-pragmatic-approach-enterprise-ai/",
-      "originalUrl": "https://www.reseller.co.nz/article/706733/ibm-takes-pragmatic-approach-enterprise-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/artificial-intelligence-machine-learning-and-modern-computer-and-picture-id1209989402-100903158-large-100912674-orig-100935023-orig_3.jpgautowebp8570",
-          "width": 472,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-revolution-manufact
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories-71682272340109.html"
 type: article
 quality: 69
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "How The AI Revolution Is Liberating Workers from the Office"
+    excerpt: "With the advent of generative AI like ChatGPT, we are on the cusp of realizing the full potential of remote and hybrid work by reducing — while not eliminating — the benefits of office visits."
+    publishedDateTime: 2023-04-24T21:00:00Z
+    webUrl: "https://www.entrepreneur.com/growing-a-business/how-the-ai-revolution-is-liberating-workers-from-the-office/450169"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1682348563-GettyImages-1369567912.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Manufacturers hope for AI boost in factories"
     excerpt: "Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery."
     publishedDateTime: 2023-04-23T18:01:00Z

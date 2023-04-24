@@ -2,6 +2,457 @@
   "page": 117,
   "value": [
     {
+      "path": "_news/2023-01-16-keeping-the-driverless-car-unhackable-securing-the-iiot-in-autonomous-systems.md",
+      "title": "Keeping the Driverless Car Unhackable – Securing the IIoT in Autonomous Systems",
+      "excerpt": "In the instance of an driverless vehicle, there are multiple individual networks that work in conjunction with each other. “For an autonomous car, you have a mixed network environment. The networks can include WiFi, a satellite network, applications ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/keeping-driverless-car-unhackable-securing-iiot-autonomous-systems",
+      "originalUrl": "https://www.designnews.com/keeping-driverless-car-unhackable-securing-iiot-autonomous-systems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-15T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-the-role-of-motion-control-in-medical-robotics.md",
+      "title": "The Role of Motion Control in Medical Robotics",
+      "excerpt": "Motion control is a critical component of almost all of today’s robotic applications, explains Aleksandar Nacev, PhD, chief technology officer for Promaxo. Nacev is an engineering professional with expertise in magnetic systems engineering. Promaxo’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/motion-control/role-motion-control-medical-robotics",
+      "originalUrl": "https://www.designnews.com/motion-control/role-motion-control-medical-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/motion%20control%20webinar%20DT613X.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-15T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-advocates-demand-madison-square-garden-stop-using-facial-recognition.md",
+      "title": "Advocates demand Madison Square Garden stop using facial recognition",
+      "excerpt": "Lawmakers and privacy advocates are calling on James Dolan, owner of Madison Square Garden and Radio City Music Hall, to stop surveilling guests for non-security purposes.",
+      "sourceUrl": null,
+      "webUrl": "https://pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/",
+      "originalUrl": "https://pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pix11.com/wp-content/uploads/sites/25/2022/11/AP22318781223165.jpg?w=1280",
+          "width": 1280,
+          "height": 851,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://pix11-com.cdn.ampproject.org/c/s/pix11.com/news/local-news/advocates-demand-madison-square-garden-stop-using-facial-recognition/amp/",
+      "publishedDateTime": "2023-01-15T15:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pix11",
+        "domain": "pix11.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-microsofts-panos-panay-teases-next-gen-ai-powered-windows-11-windows-120-0.md",
+      "title": "Microsoft's Panos Panay teases next gen AI-powered Windows 11 & Windows 120 0",
+      "excerpt": "Next-gen Windows 11 and Windows 12 OSs could be drastically different from what we have now. Senior executive of Microsoft, Panos Panay recently shared some very early details regarding this.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
+      "originalUrl": "https://www.neowin.net/news/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2023/01/1673818486_win_11_wallpaper_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
+      "publishedDateTime": "2023-01-15T14:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot.md",
+      "title": "ChatGBT Shows Scary Implications Of AI: Sports Owners And The Robot",
+      "excerpt": "Kind of like when you call the airline and they ask for your number and say they will text you when you are next in line.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/",
+      "originalUrl": "https://www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c454a3ecbcbced56a44bb3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/amp/",
+      "publishedDateTime": "2023-01-15T11:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-dhc-talking-therapies-nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt.md",
+      "title": "DHC Talking Therapies - NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT)",
+      "excerpt": "We'd also like to use analytics cookies. These collect feedback and send information about how our site is used to services called Adobe Analytics, Qualtrics Feedback, Microsoft Clarity and Google Analytics. We use this information to improve our site.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nhs.uk/services/clinic/dhc-talking-therapies/NNE01/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt",
+      "originalUrl": "https://www.nhs.uk/services/clinic/dhc-talking-therapies/NNE01/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-15T09:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHS Choices",
+        "domain": "www.nhs.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-has-nvidia-won-the-ai-training-market.md",
+      "title": "Has Nvidia won the AI training market?",
+      "excerpt": "AI chips serve two functions. AI builders first take a large (or truly massive) set of data and run complex software to look for patterns in",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/97272-has-nvidia-won-ai-training-market.html",
+      "originalUrl": "https://www.techspot.com/news/97272-has-nvidia-won-ai-training-market.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2023/01/2023-01-15-image.jpg",
+          "width": 1963,
+          "height": 1104,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-15T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-15-what-jobs-are-available-in-artificial-intelligence-how-to-make-a-career-in-this-ai-boom.md",
+      "title": "What Jobs Are Available In Artificial Intelligence? How To Make A Career In This AI Boom",
+      "excerpt": "From research to consulting, there will be an array of job opportunities across an even broader array of market sectors where the core skill set requires an expertise in the field of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/01/15/what-jobs-are-available-in-artificial-intelligence-how-to-make-a-career-in-this-ai-boom/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/01/15/what-jobs-are-available-in-artificial-intelligence-how-to-make-a-career-in-this-ai-boom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c21d9ee418e8eb7b964a4f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 754,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/01/15/what-jobs-are-available-in-artificial-intelligence-how-to-make-a-career-in-this-ai-boom/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/15/what-jobs-are-available-in-artificial-intelligence-how-to-make-a-career-in-this-ai-boom/amp/",
+      "publishedDateTime": "2023-01-15T06:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-15-everseen-advances-computer-vision-ai-systems-for-global-retailers.md",
+      "title": "Everseen Advances Computer Vision AI Systems for Global Retailers",
+      "excerpt": "Expanded partner program and installations bring real-time loss prevention to more than half of the world's top 15 retailers Everseen, the leader in real-time computer vision AI for retailers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/01/p30423687/everseen-advances-computer-vision-ai-systems-for-global-retailers",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/p30423687/everseen-advances-computer-vision-ai-systems-for-global-retailers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-15T06:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-15-baidu-backed-chinese-startup-to-push-self-driving-sweeping-vehicles.md",
+      "title": "Baidu-backed Chinese startup to push self-driving sweeping vehicles",
+      "excerpt": "BEIJING -- Chinese self-driving sweeping vehicle startup Yunchuang Zhixing has raised funds in a pre-Series A+ round led solely by Baidu Ventures, a unit of Chinese tech group Baidu. The company ...",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Baidu-backed-Chinese-startup-to-push-self-driving-sweeping-vehicles",
+      "originalUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Baidu-backed-Chinese-startup-to-push-self-driving-sweeping-vehicles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F5%252F8%252F4%252F43794852-1-eng-GB%252Fphoto_SXM2022121900006555.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-15T05:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nikkei Asia",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-15-no-black-boxes-keep-humans-involved-in-artificial-intelligence.md",
       "title": "No Black Boxes: Keep Humans Involved In Artificial Intelligence",
       "excerpt": "Human decision-making is critical in the loop of AI functioning. Without it, we’ll end up with biased, unhelpful technology that serves no one.",
@@ -718,504 +1169,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-14-given-a-platform-14-years-ago-by-hudson-miracle-this-hero-pilot-has-used-it-to-promote-airline-safety.md",
-      "title": "Given A Platform 14 Years Ago By Hudson Miracle, This Hero Pilot Has Used It To Promote Airline Safety",
-      "excerpt": "In Charlotte, where a museum was renamed to honor him, hero pilot Sully Sullenberger said the failure of an FAA safety system provides an opportunity to fix it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tedreed/2023/01/14/fourteen-years-after-hudson-miracle-hero-pilot-sullenberger-says-dont-waste-a--crisisfix-notam/",
-      "originalUrl": "https://www.forbes.com/sites/tedreed/2023/01/14/fourteen-years-after-hudson-miracle-hero-pilot-sullenberger-says-dont-waste-a--crisisfix-notam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c085fb88737cf94d964a48/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tedreed/2023/01/14/fourteen-years-after-hudson-miracle-hero-pilot-sullenberger-says-dont-waste-a--crisisfix-notam/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedreed/2023/01/14/fourteen-years-after-hudson-miracle-hero-pilot-sullenberger-says-dont-waste-a--crisisfix-notam/amp/",
-      "publishedDateTime": "2023-01-14T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-14-intel-launches-the-4th-gen-xeon-scalable-processors-for-data-centres-cloud-and-ai-computing.md",
-      "title": "Intel launches the 4th Gen Xeon Scalable Processors for data centres, cloud and AI computing",
-      "excerpt": "Intel’s 4th Gen Xeon Max Series CPU is the first and only x86-based processor with high bandwidth memory, accelerating many HPC workloads without the need for code changes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.firstpost.com/tech/news-analysis/intel-launches-the-4th-gen-xeon-scalable-processors-for-data-centres-cloud-and-ai-computing-11987872.html",
-      "originalUrl": "https://www.firstpost.com/tech/news-analysis/intel-launches-the-4th-gen-xeon-scalable-processors-for-data-centres-cloud-and-ai-computing-11987872.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.firstpost.com/wp-content/uploads/2023/01/Intel-launches-the-4th-Gen-Xeon-Scalable-Processors-for-data-centres-cloud-and-AI-computing.jpg",
-          "width": 640,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.firstpost.com/tech/news-analysis/intel-launches-the-4th-gen-xeon-scalable-processors-for-data-centres-cloud-and-ai-computing-11987872.html/amp",
-      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/intel-launches-the-4th-gen-xeon-scalable-processors-for-data-centres-cloud-and-ai-computing-11987872.html/amp",
-      "publishedDateTime": "2023-01-14T05:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Firstpost",
-        "domain": "firstpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-14-singapore-based-fintech-actyvai-raises-funding-to-support-expansion-product-enhancement.md",
-      "title": "Singapore based Fintech actyv.ai Raises Funding to Support Expansion, Product Enhancement",
-      "excerpt": "Singapore-headquartered, category creator in the enterprise SaaS with embedded B2B BNPL and insurance space, has raised $12M.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/01/201058-singapore-based-fintech-actyv-ai-raises-funding-to-support-expansion-product-enhancement/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/01/201058-singapore-based-fintech-actyv-ai-raises-funding-to-support-expansion-product-enhancement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2016/03/Singapore-Skyline-1024x725.jpg",
-          "width": 1024,
-          "height": 725,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/01/201058-singapore-based-fintech-actyv-ai-raises-funding-to-support-expansion-product-enhancement/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/01/201058-singapore-based-fintech-actyv-ai-raises-funding-to-support-expansion-product-enhancement/amp/",
-      "publishedDateTime": "2023-01-14T05:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-14-ai-is-taking-on-ever-larger-puzzles.md",
-      "title": "AI Is Taking On Ever-Larger Puzzles",
-      "excerpt": "But eight months later, still in the midst of the pandemic, AI solved a nearly 50-year-old grand challenge in biology: the protein-structure prediction problem. Life science experts described this breakthrough as “the singular and momentous advance in life science that demonstrates the power of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/artificial-intelligence-puzzles/",
-      "originalUrl": "https://www.wired.com/story/artificial-intelligence-puzzles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63bc6563145a571e203e3b3c/master/pass/04_AI-takes-on-ever-larger-puzzles.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-puzzles/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-puzzles/amp",
-      "publishedDateTime": "2023-01-14T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-14-why-ai-and-creativity-are-not-at-war.md",
-      "title": "Why AI and creativity are not at war",
-      "excerpt": "Why AI won't steal your job, and why The field of strategic creative analysis will become important as generative AI becomes ubiquitous.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-ai-and-creativity-are-not-at-war/",
-      "originalUrl": "https://venturebeat.com/ai/why-ai-and-creativity-are-not-at-war/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_507812257.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-ai-and-creativity-are-not-at-war/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-ai-and-creativity-are-not-at-war/amp/",
-      "publishedDateTime": "2023-01-13T21:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-14-can-ai-detectors-save-us-from-chatgpt-i-tried-3-online-tools-to-find-out.md",
-      "title": "Can AI detectors save us from ChatGPT? I tried 3 online tools to find out",
-      "excerpt": "With the sudden arrival of ChatGPT, educators and editors are facing a worrying surge of automated content submissions. We look at the problem and what might be done.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/can-ai-detectors-save-us-from-chatgpt-i-tried-3-online-tools-to-find-out/",
-      "originalUrl": "https://www.zdnet.com/article/can-ai-detectors-save-us-from-chatgpt-i-tried-3-online-tools-to-find-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/69f53b17fd222baf337bde0508984dc0abbc56a2/2023/01/13/1b3cc46b-7c9b-445f-a88d-dc026d97e8e3/gettyimages-1418475387-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/can-ai-detectors-save-us-from-chatgpt-i-tried-3-online-tools-to-find-out/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-detectors-save-us-from-chatgpt-i-tried-3-online-tools-to-find-out/",
-      "publishedDateTime": "2023-01-13T17:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-14-adopting-automl-lets-do-a-reality-check.md",
-      "title": "Adopting AutoML: Let’s do a reality check",
-      "excerpt": "AutoML can't define and automatically solve statements. But, it can solve pre-defined statements with relevant data and features.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/adopting-automl-lets-do-a-reality-check/",
-      "originalUrl": "https://venturebeat.com/ai/adopting-automl-lets-do-a-reality-check/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/ai_business-e1648498198314.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/adopting-automl-lets-do-a-reality-check/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/adopting-automl-lets-do-a-reality-check/amp/",
-      "publishedDateTime": "2023-01-13T17:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-leveraging-artificial-intelligence-and-machine-learning-at-parsons-with-aws-deepracer.md",
-      "title": "Leveraging artificial intelligence and machine learning at Parsons with AWS DeepRacer",
-      "excerpt": "This post is co-written with&nbsp;Jennifer Bergstrom, Sr. Technical Director, ParsonsX. Parsons Corporation (NYSE:PSN) is a leading disruptive technology company in critical infrastructure, national defense, space, intelligence, and security markets providing solutions across the globe to help make the",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/leveraging-artificial-intelligence-and-machine-learning-at-parsons-with-aws-deepracer/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/leveraging-artificial-intelligence-and-machine-learning-at-parsons-with-aws-deepracer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/13/parsons-deepracer.jpg",
-          "width": 1561,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-13T15:46:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-14-singapore-debuts-ethics-test-for-ai.md",
-      "title": "Singapore debuts ethics test for AI",
-      "excerpt": "Singapore leaders have committed to building an AI governance testing framework and tools against which they can compare their algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202301/singapore-debuts-ethics-test-for-ai",
-      "originalUrl": "https://www.biometricupdate.com/202301/singapore-debuts-ethics-test-for-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/28170217/responsible-ai-scaled.jpg",
-          "width": 2048,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-13T15:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-14-top-ai-startup-news-of-the-week-instadeep-deepl-pachyderm-and-more.md",
-      "title": "Top AI startup news of the week: InstaDeep, DeepL, Pachyderm and more",
-      "excerpt": "There were key AI startup acquisitions this week, as well as new funding in a variety of sectors. Here are six companies that made headlines.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/top-ai-startup-news-of-the-week-instadeep-deepl-pachyderm-and-more/",
-      "originalUrl": "https://venturebeat.com/ai/top-ai-startup-news-of-the-week-instadeep-deepl-pachyderm-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1203833695.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/top-ai-startup-news-of-the-week-instadeep-deepl-pachyderm-and-more/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-ai-startup-news-of-the-week-instadeep-deepl-pachyderm-and-more/amp/",
-      "publishedDateTime": "2023-01-13T15:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-24T18:18:00Z
 originalUrl: "https://techxplore.com/news/2023-04-artificial-intelligence-electricity-grid-road.html"
 webUrl: "https://techxplore.com/news/2023-04-artificial-intelligence-electricity-grid-road.html"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: techxplore

@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-24T06:38:00Z
 originalUrl: "https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-analysis-geography-trends-demand-and-forecasts-2030-audi-ag-bmw-ag-daimler-ag-mercedes-benz-2023-04-24"
 webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-analysis-geography-trends-demand-and-forecasts-2030-audi-ag-bmw-ag-daimler-ag-mercedes-benz-2023-04-24"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: MarketWatch

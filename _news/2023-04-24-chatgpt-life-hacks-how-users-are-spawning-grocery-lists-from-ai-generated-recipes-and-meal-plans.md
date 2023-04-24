@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/lifestyle/chatgpt-life-hacks-spawning-grocer
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/chatgpt-life-hacks-spawning-grocery-lists-ai-generated-recipes-meal-plans.amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Fox News
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
-    excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
-    publishedDateTime: 2023-04-24T16:59:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-hurdles-in-regions-2023-april"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-hurdles-in-regions-2023-april?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-around-the-world-hurdles-in-regions-2023-april?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://i.insider.com/6441b16a3f6f690018debe44?width=1200&format=jpeg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "ukctZdEcR7h9W7CwbvKNsB62rFvynzxCDLy40z48WVssXeO+dmjARWZqjSTeQoQyaVk5DcL2JPIcCeSl5/ZZIhPK5r9199uVdG+vgS++QOv9jlqqgaf7yQR0izCTf7KOy6FDeQEISctT2pK93HECBwjf4s/X43zbSw+N4timh7Wo8p/JiznV1IOAJwwlBArtFlmDQ7/5FNeUaUVaxgD11xsmB7xo1nnFdcMfRes6BLnLQIKR9mHS2Q3CTJ4fDXffiXZnXxir5mf3aI3WjIuCn6VG2ErHdg4ltyejGofYYLfR2d+uYTOa9+qQU0V+zJ/aj5/wA74CWfrwSZ8ub0lgbNmaMmk+dPTX1BsNkGThR9YKLDM3zANW1wUze2bw5V98EBBI5d0hI/r2xfAb2y+ZqRUs89o8MzOzzEdbYqW7MdjNMGAQShEGoAvyLB3eP3lPnOK5q3Q9+h85JPgtsIAsLEMg2jesY4QU8/IzX8U1qLl03J1yyC01hymNeCWOXO6TMuzSvgFGoVvkiH4lbLSWkg==;vhXRpqLYm/cEwzvdmZmLGw=="
 ---

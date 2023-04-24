@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-24T18:07:18Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/identify-objections-in-customer-conversations-using-amazon-comprehend-to-enhance-customer-experience-without-ml-expertise/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/identify-objections-in-customer-conversations-using-amazon-comprehend-to-enhance-customer-experience-without-ml-expertise/"
 type: article
+quality: 78
+heat: 78
+published: true
 
 provider:
   name: AWS

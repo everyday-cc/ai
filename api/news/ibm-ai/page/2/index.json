@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-28-ai-solutions-for-healthcare-market-2023-2028-future-updates.md",
+      "title": "AI Solutions for Healthcare Market 2023-2028: Future Updates",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2023 (The Expresswire) -- The \"AI Solutions for Healthcare Market\" Growth report for 2023 is a comprehensive study that provides valuable insights into the industry's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-solutions-for-healthcare-market-2023-2028-future-updates-2023-03-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-solutions-for-healthcare-market-2023-2028-future-updates-2023-03-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 306,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-28T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-03-27-former-ibm-ceo-on-ai-layoffs-women-leaders-in-tech.md",
       "title": "Former IBM CEO on AI, layoffs, women leaders in tech",
       "excerpt": "Just before Rometty became IBM's first woman CEO, the company's AI-powered computer Watson outwitted two of the most successful contestants in the history of the game show “Jeopardy!\"",
@@ -1361,49 +1414,6 @@
       "provider": {
         "name": "theregister",
         "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-investing-in-chatgpts-ai-revolution-where-to-begin.md",
-      "title": "Investing in ChatGPT's AI revolution: Where to begin",
-      "excerpt": "IBM has provided AI solutions for large businesses for many years under the Watson brand. In particular, management is excited about the long-term prospects of large language models for AI -- exactly the type of artificial intelligence that ChatGPT uses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/money/2023/02/09/investing-in-chatgpt-where-to-begin/69885708007/",
-      "originalUrl": "https://www.usatoday.com/story/money/2023/02/09/investing-in-chatgpt-where-to-begin/69885708007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/images/motleyfool/2023/02/08/USAT/69885703007-2-technicians-and-data-center-racks.jpg?auto=webp&crop=2224,1256,x159,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-09T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
         "images": null,
         "publishers": null,
         "authors": null

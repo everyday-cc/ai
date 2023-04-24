@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-24T19:03:00Z
 originalUrl: "https://www.plasticsnews.com/news/artificial-intelligence-improved-product-development-discussed-antec"
 webUrl: "https://www.plasticsnews.com/news/artificial-intelligence-improved-product-development-discussed-antec"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Plastics News

@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/this-machine-learning-project-could-help-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/this-machine-learning-project-could-help-jumpstart-self-driving-cars-again/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-machine-learning-project-could-help-jumpstart-self-driving-cars-again/"
 type: article
-quality: 102
-heat: 112
+quality: 104
+heat: 114
 published: true
 
 provider:
