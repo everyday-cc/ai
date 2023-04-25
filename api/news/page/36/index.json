@@ -2,6 +2,301 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2023-03-21-google-says-its-bard-generative-chat-ai-is-out-launches-waitlist.md",
+      "title": "Google says its “Bard” generative chat AI is out, launches waitlist",
+      "excerpt": "Microsoft has been criticized for taking a very aggressive stance toward rolling out AI, even cutting its AI ethics team. Google is trying to paint itself as more cautious, saying, \"Our work on Bard is guided by our AI Principles, and we continue to focus ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2023/03/google-says-its-bard-generative-chat-ai-is-out-launches-waitlist/",
+      "originalUrl": "https://arstechnica.com/gadgets/2023/03/google-says-its-bard-generative-chat-ai-is-out-launches-waitlist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/google-800x523.jpg",
+          "width": 760,
+          "height": 388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2023/03/google-says-its-bard-generative-chat-ai-is-out-launches-waitlist/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/03/google-says-its-bard-generative-chat-ai-is-out-launches-waitlist/amp/",
+      "publishedDateTime": "2023-03-21T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-a-copyright-battle-over-ai-generated-art-will-begin-in-colorado.md",
+      "title": "A copyright battle over AI-generated art will begin in Colorado",
+      "excerpt": "(Photo by RJ Sangosti/The Denver Post) But while Allen is litigating his case with the public, AI is continuing to evolve in unexpected ways. “There are so many unanswered questions regarding the ethics, legality, and societal impact that will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fortmorgantimes.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/",
+      "originalUrl": "https://www.fortmorgantimes.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fortmorgantimes.com/wp-content/uploads/2023/03/TDP-L-Artificial-Intelligence-Art-RJS-01064.jpg?w=1024&h=700",
+          "width": 1024,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fortmorgantimes.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/amp/",
+      "cdnAmpWebUrl": "https://www-fortmorgantimes-com.cdn.ampproject.org/c/s/www.fortmorgantimes.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/amp/",
+      "publishedDateTime": "2023-03-21T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fort Morgan Times",
+        "domain": "fortmorgantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-ai-news-roundup-ai-advancements-google-and-microsoft-germanys-healthcare-robots-and-ai-in-the-workplace.md",
+      "title": "AI News Roundup | AI Advancements: Google and Microsoft, Germany's healthcare robots, and AI in the workplace",
+      "excerpt": "Google, Microsoft aim to increase productivity through AI integration in popular productivity apps. Google and Microsoft are on a mission to remove the drudgery from computing, by",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/ai-news-roundup-ai-advancements-google-and-microsoft-germanys-healthcare-robots-and-ai-in-the-workplace-10287821.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/ai-news-roundup-ai-advancements-google-and-microsoft-germanys-healthcare-robots-and-ai-in-the-workplace-10287821.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/03/9-garmi-robot-in-germany.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/ai-news-roundup-ai-advancements-google-and-microsoft-germanys-healthcare-robots-and-ai-in-the-workplace-10287821.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/ai-news-roundup-ai-advancements-google-and-microsoft-germanys-healthcare-robots-and-ai-in-the-workplace-10287821.html/amp",
+      "publishedDateTime": "2023-03-21T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-how-ai-is-saving-homes-and-lives-in-california-during-wildfire-season.md",
+      "title": "How AI is saving homes and lives in California during wildfire season",
+      "excerpt": "From fire detection and predictive analysis to evaluation of vegetation moisture levels, AI has assumed center stage in California's fight against seasonal wildfires.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-ai-is-saving-homes-and-lives-in-california-during-wildfire-season/",
+      "originalUrl": "https://www.zdnet.com/article/how-ai-is-saving-homes-and-lives-in-california-during-wildfire-season/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/6bceca88c0c7464f0c2a5fb16920f95e858be61f/2023/03/20/26ed3479-b94e-402a-a086-efed13a034a2/ucsd-supercomputer-center.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-ai-is-saving-homes-and-lives-in-california-during-wildfire-season/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-is-saving-homes-and-lives-in-california-during-wildfire-season/",
+      "publishedDateTime": "2023-03-21T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-samsungs-new-ultra-wideband-chip-gives-phones-distance-measuring-down-to-the-centimeter.md",
+      "title": "Samsung's new ultra-wideband chip gives phones distance measuring down to the centimeter",
+      "excerpt": "The new U100 chipset is developed by Exynos Connect, a sub-brand that will encompass ultra-wideband, Bluetooth, and Wi-Fi chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/samsungs-new-ultra-wideband-chip-gives-phones-distance-measuring-down-to-the-centimeter/",
+      "originalUrl": "https://www.zdnet.com/article/samsungs-new-ultra-wideband-chip-gives-phones-distance-measuring-down-to-the-centimeter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/cb4da1407d713ecef6c2450314bfe515a9f4af1f/2023/02/03/fa190d0d-f002-4055-b77c-f43d5b59ff7c/samsung-galaxy-s23-ultra-display-5.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/samsungs-new-ultra-wideband-chip-gives-phones-distance-measuring-down-to-the-centimeter/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsungs-new-ultra-wideband-chip-gives-phones-distance-measuring-down-to-the-centimeter/",
+      "publishedDateTime": "2023-03-21T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-cleveland-clinic-and-ibm-launch-worlds-first-quantum-computer-dedicated-to-healthcare-research-and-biomedical-discoveries.md",
+      "title": "Cleveland Clinic And IBM Launch World's First Quantum Computer Dedicated To Healthcare Research And Biomedical Discoveries",
+      "excerpt": "IBM has used artificial intelligence to reduce drug development cycles from ... 17 years for a scientific discovery in a research lab to become an approved test or therapy for patients. Successful research and acceleration in this area by Cleveland Clinic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/03/21/cleveland-clinic-and-ibm-launch-worlds-first-quantum-computer-dedicated-to-healthcare-research-and-biomedical-discoveries/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/03/21/cleveland-clinic-and-ibm-launch-worlds-first-quantum-computer-dedicated-to-healthcare-research-and-biomedical-discoveries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6418ba489bbf5a66100aff98/0x0.jpg?format=jpg&width=1200",
+          "width": 624,
+          "height": 441,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/03/21/cleveland-clinic-and-ibm-launch-worlds-first-quantum-computer-dedicated-to-healthcare-research-and-biomedical-discoveries/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/03/21/cleveland-clinic-and-ibm-launch-worlds-first-quantum-computer-dedicated-to-healthcare-research-and-biomedical-discoveries/amp/",
+      "publishedDateTime": "2023-03-21T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-21-try-bard-and-share-your-feedback.md",
       "title": "Try Bard and share your feedback",
       "excerpt": "We’re starting to open access to Bard, an early experiment that lets you collaborate with generative AI. We're beginning with the U.S. and the U.K., and will expand to m…",
@@ -926,299 +1221,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-pickle-launches-its-truck-unloading-robot-arm.md",
-      "title": "Pickle launches its truck unloading robot arm",
-      "excerpt": "MIT-birthed startup Pickle publicly showcased its container unloading robot for the first time this morning at ProMat.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/20/pickle-launches-its-truck-unloading-robot-arm/",
-      "originalUrl": "https://techcrunch.com/2023/03/20/pickle-launches-its-truck-unloading-robot-arm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/20230320_130151.jpg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/20/pickle-launches-its-truck-unloading-robot-arm/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/20/pickle-launches-its-truck-unloading-robot-arm/amp/",
-      "publishedDateTime": "2023-03-20T13:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-this-mind-controlled-robot-will-pour-you-the-perfect-pint.md",
-      "title": "This mind-controlled robot will pour you the perfect pint",
-      "excerpt": "When I say “mind reading robots” what's the first thing that comes to mind? I’m willing to bet you thought of some campy horror movie from the 80’s, but actually, I’m referring to Homer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/news/science/video_f8c65b1d-dc1a-57ad-becb-46db5495ea65.html",
-      "originalUrl": "https://www.stltoday.com/news/science/video_f8c65b1d-dc1a-57ad-becb-46db5495ea65.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/8c/f8c65b1d-dc1a-57ad-becb-46db5495ea65/64187bfce9e26.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-20T13:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-google-showcases-a-collaborative-partner-in-an-ai-powered-workspace.md",
-      "title": "Google Showcases ‘A Collaborative Partner’ In An AI-Powered Workspace",
-      "excerpt": "Days later, Google debuted its own conversational AI model called Bard. It was the start of an AI race that will go down in history. Google came out strong last week with a slew of AI announcements across several platforms and business units. Here I'll ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/03/20/google-showcases-a-collaborative-partner-in-an-ai-powered-workspace/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/03/20/google-showcases-a-collaborative-partner-in-an-ai-powered-workspace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64188c9b0923e519d8d8a87a/0x0.jpg?format=jpg&width=1200",
-          "width": 480,
-          "height": 236,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/03/20/google-showcases-a-collaborative-partner-in-an-ai-powered-workspace/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/03/20/google-showcases-a-collaborative-partner-in-an-ai-powered-workspace/amp/",
-      "publishedDateTime": "2023-03-20T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-filmustage-leverages-ai-to-break-down-film-scripts-create-shooting-schedules-and-more.md",
-      "title": "Filmustage leverages AI to break down film scripts, create shooting schedules and more",
-      "excerpt": "Filmustage, an AI-powered platform that can automatically break down scripts, announced today it raised $550,000 in VC funding.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/20/filmustage-leverages-ai-to-breakdown-film-scripts-create-shooting-schedules-and-more/",
-      "originalUrl": "https://techcrunch.com/2023/03/20/filmustage-leverages-ai-to-breakdown-film-scripts-create-shooting-schedules-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/Filmustage_App_03_script-1-1.png?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/20/filmustage-leverages-ai-to-breakdown-film-scripts-create-shooting-schedules-and-more/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/20/filmustage-leverages-ai-to-breakdown-film-scripts-create-shooting-schedules-and-more/amp/",
-      "publishedDateTime": "2023-03-20T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-cloud-natural-language-processing-market-size-and-share-industry-size.md",
-      "title": "Cloud Natural Language Processing Market Size and Share | Industry Size",
-      "excerpt": "Latest Report will contain the analysis of the impact of Russia-Ukraine War and COVID-19 on this Cloud Natural",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-size-and-share-industry-size-2023-03-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-size-and-share-industry-size-2023-03-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-20T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation.md",
-      "title": "The AI arms race highlights the urgent need for responsible innovation",
-      "excerpt": "The recent frenzy over language processing tools such as ChatGPT has sent organizations scrambling to provide guidelines for responsible usage. The online publishing platform Medium, for example, has released a statement on AI-generated writing that promotes \"transparency\" and \"disclosure.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-03-ai-arms-highlights-urgent-responsible.html",
-      "originalUrl": "https://techxplore.com/news/2023-03-ai-arms-highlights-urgent-responsible.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/the-ai-arms-race-highl.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-03-ai-arms-highlights-urgent-responsible.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-ai-arms-highlights-urgent-responsible.amp",
-      "publishedDateTime": "2023-03-20T10:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

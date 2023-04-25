@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "Republicans Share An Apocalyptic AI-Powered Attack Ad Against Biden: Here’s How To Spot A Deepfake"
+    excerpt: "Deepfakes first came about in 2017 after a Reddit user posted pornography with the adult actors’ faces swapped for the faces of celebrities."
+    publishedDateTime: 2023-04-25T16:26:00Z
+    webUrl: "https://www.forbes.com/sites/ariannajohnson/2023/04/25/republicans-share-an-apocalyptic-ai-powered-attack-ad-against-biden-heres-how-to-spot-a-deepfake/"
+    ampWebUrl: "https://www.forbes.com/sites/ariannajohnson/2023/04/25/republicans-share-an-apocalyptic-ai-powered-attack-ad-against-biden-heres-how-to-spot-a-deepfake/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ariannajohnson/2023/04/25/republicans-share-an-apocalyptic-ai-powered-attack-ad-against-biden-heres-how-to-spot-a-deepfake/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 73
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641dfb1c54068a83394ff5b7/0x0.jpg?format=jpg&crop=1291,727,x153,y119,safe&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Grimes invites artists to use her voice for AI-generated songs, says she'll split royalties"
     excerpt: "\"I think it's cool to be fused w[ith] a machine and I like the idea of open sourcing all art and killing copyright,\" the singer tweeted.​"
     publishedDateTime: 2023-04-25T00:51:00Z

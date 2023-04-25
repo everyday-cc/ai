@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-mar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-marketing-and-advertising-specialists-can-expect-from-chatgpt/amp/"
 type: article
 quality: 91
-heat: 241
+heat: 251
 published: true
 
 provider:
@@ -163,6 +163,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 46
+  - title: "ChatGPT: Opportunities and threats"
+    excerpt: "November 30, 2022 to be precise, ChatGPT, an artificial intelligence chatbot, has been gaining rave reviews as"
+    publishedDateTime: 2023-04-25T16:46:00Z
+    webUrl: "https://www.omanobserver.om/article/1136195/oman/chatgpt-opportunities-and-threats"
+    ampWebUrl: "https://www.omanobserver.om/ampArticle/1136195"
+    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1136195"
+    type: article
+    provider:
+      name: omanobserver
+      domain: omanobserver.om
+    quality: 44
+    images:
+      - url: "https://www.omanobserver.om/omanobserver/uploads/images/2023/04/25/2314447.jpg"
+        width: 1000
+        height: 1099
+        isCached: true
   - title: "ChatGPT explained: Everything you need to know about the AI chatbot"
     excerpt: "Microsoft has been reportedly working on its own AI chip for some time, and it is hoping that it can be mass-produced as soon as 2024. If successful, these chips could power the Azure ..."
     publishedDateTime: 2023-04-21T15:23:00Z

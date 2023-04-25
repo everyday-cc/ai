@@ -2,58 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-02-04-real-time-data-and-ai-thrust-manufacturing-into-the-future.md",
-      "title": "Real-time data and AI thrust manufacturing into the future",
-      "excerpt": "With a growing need for real-time situational awareness and insights, artificial intelligence architectures are becoming increasingly important to make sense of the acquired information.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/real-time-data-and-ai-thrust-manufacturing-into-the-future/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/real-time-data-and-ai-thrust-manufacturing-into-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1326464894-e1653670614862.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/data-infrastructure/real-time-data-and-ai-thrust-manufacturing-into-the-future/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/real-time-data-and-ai-thrust-manufacturing-into-the-future/amp/",
-      "publishedDateTime": "2023-02-03T18:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-03-ai-generated-seinfeld-episodes-are-streaming-on-twitch.md",
       "title": "AI-Generated Seinfeld Episodes Are Streaming on Twitch",
       "excerpt": "AI-generated tech has been booming in recent months as internet denizens flock to programs for art, text prompts, and more created entirely by machine-learning programs. Two Seinfeld fans have ...",
@@ -1408,6 +1356,49 @@
         "AI",
         "AI Ethics",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-meet-michael-running-wolf-the-man-using-ai-to-reclaim-native-languages.md",
+      "title": "Meet Michael Running Wolf, the man using AI to reclaim Native languages",
+      "excerpt": "Imagine putting on a virtual reality headset and entering a world where you can explore communities, like Missoula, except your character, and everyone you interact with, speaks Salish.",
+      "sourceUrl": null,
+      "webUrl": "https://helenair.com/news/state-and-regional/meet-michael-running-wolf-the-man-using-ai-to-reclaim-native-languages/article_98e41425-fcbd-5a10-98b6-3d4de30fe37b.html",
+      "originalUrl": "https://helenair.com/news/state-and-regional/meet-michael-running-wolf-the-man-using-ai-to-reclaim-native-languages/article_98e41425-fcbd-5a10-98b6-3d4de30fe37b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/9/8e/98e41425-fcbd-5a10-98b6-3d4de30fe37b/63c1f7d19ca1a.preview.jpg?crop=1322%2C694%2C50%2C200&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-16T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Independent Record",
+        "domain": "helenair.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     }
   ],

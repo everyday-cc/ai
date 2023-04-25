@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-04-12-chatgpt-vs-bing-vs-google-bard-which-ai-is-the-most-helpful.md",
-      "title": "ChatGPT vs. Bing vs. Google Bard: Which AI Is the Most Helpful?",
-      "excerpt": "The representative also said Bing benefits from Microsoft's Azure AI supercomputing tech to help unify search, chat and the Edge browser. Google and OpenAI didn't immediately respond to requests ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/chatgpt-vs-bing-vs-google-bard-which-ai-is-the-most-helpful/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/chatgpt-vs-bing-vs-google-bard-which-ai-is-the-most-helpful/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/4c8fc8d9f5a5de04b4044c06fc4b0485dee2b097/hub/2023/04/06/25243ee3-2c54-4287-926a-d0ab63d15597/metaverse-hallway-ai-2.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/chatgpt-vs-bing-vs-google-bard-which-ai-is-the-most-helpful/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chatgpt-vs-bing-vs-google-bard-which-ai-is-the-most-helpful/",
-      "publishedDateTime": "2023-04-11T22:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-11-the-collaboration-technology-making-meetings-more-equitable.md",
       "title": "The Collaboration Technology Making Meetings More Equitable",
       "excerpt": "Vice President & Principal Analyst, Modern Work, Melody Brue, examines how a pronounced focus on equity and inclusion in meetings has evolved.",
@@ -1384,6 +1332,58 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-these-3-ai-stocks-could-outperform-the-sp-500-in-a-bull-market.md",
+      "title": "These 3 AI Stocks Could Outperform the S&P 500 in a Bull Market",
+      "excerpt": "but Microsoft's hefty investments in OpenAI -- the start-up that created the \"generative AI\" chatbot ChatGPT -- might help Microsoft reach those estimates. Microsoft has already integrated ChatGPT into its search engine Bing and its Azure cloud ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/03/24/these-3-ai-stocks-outperform-sp-500-in-bull/",
+      "originalUrl": "https://www.fool.com/investing/2023/03/24/these-3-ai-stocks-outperform-sp-500-in-bull/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/725503/digital-brain.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-24T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Watch a driverless car get pulled over by police"
-excerpt: "What happens when a police officer tries to pull over a vehicle that has no driver? Watch this video to find out."
-publishedDateTime: 2023-04-24T00:03:00Z
-originalUrl: "https://www.carexpert.com.au/car-news/watch-a-driverless-car-get-pulled-over-by-police"
-webUrl: "https://www.carexpert.com.au/car-news/watch-a-driverless-car-get-pulled-over-by-police"
+excerpt: "Although Australian legislation doesn’t allow a vehicle to operate without a driver behind the wheel, some US jurisdictions have already legalised driverless cars – and with that comes the prospect of an AI-driven vehicle being pulled over by police."
+publishedDateTime: 2023-04-24T01:04:00Z
+originalUrl: "https://www.perthnow.com.au/lifestyle/motoring/watch-a-driverless-car-get-pulled-over-by-police-c-10437991"
+webUrl: "https://www.perthnow.com.au/lifestyle/motoring/watch-a-driverless-car-get-pulled-over-by-police-c-10437991"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: CarExpert
-  domain: carexpert.com.au
+  name: Perth Now
+  domain: perthnow.com.au
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.carexpert.com.au/crop/1200/630/app/uploads/2023/04/driverless-car-being-pulled-over-police.png"
+  - url: "https://images.perthnow.com.au/publication/C-10437991/10c76bddecb78bf9b55cf909e0f5e83908f25c18-16x9-x0y92w1220h686.png?imwidth=1200"
     width: 1200
-    height: 630
+    height: 675
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "5BL27zCK45djT1BOLGdc1gjwgmJajecK++munsL2IAuSVugdABNTw4rNMRBSLPnuLkhVZMVEivWVZ5rAOfROqcuoUQWf0u5nD0z/1o7cGysxOVyNUFEmTzGIE6zdXQVBOT4j2aI8iprbA3snmVaK8NLuYaDdxLZfZQfdEx05JjPcRf425RzTwpwIENIfY+pNHm0CN2moHk5p0QcJ20U685VgYw27vJeXc+dNWARnvCsJJCsuxs90RaTuTetXUJfj6nxvifE7TC7rW68fvpngPTKGxtLETsqEh1K+OikZwxu17n6lbZGlC1QXENw9GxkKgfyCIOtvyDk3Q/0WhNTtcfrcvnRGZxSEf6dntoce/bsPXmP+WkLXTaU3IvwaM2FS7VQnaitd23gy1eIi4BUIAAtLWzpiNoJSlMA/AWd3CkzoBrRSIus9WeNOjVJonZQ4/PwWyVagbIC1eN2cxU/kOoJwIOYTuO3ebMnxXeUATzcgFYGyLuBj/rXPzaUlMaNFqc56ZfnW2IfnzmiXOYczKg==;OPOO8ZwVr6mpx7lhckQGNw=="
+secured: "tg/lyPo3wt84ylbtuFHuVYd16M/xYaG7QiHO4hvB8ld6N56azT5drnTLVkDd1K4L3x12DLoeK59Cfx3YSoOwzqskJoWpYo9bLnKo3sjh3g4oTf4+YS6tQVn4Pj+5DwDM33Twtdco4EcHlX8o4dMU3FlgV7/rz0983iVMU3Z97r+tTO1xQxl9e7wOwimRowsErrjCjytD00dlAOQvGGeuIUdVyF0WL9NeWSSCb+OUh1vWgpaXzTYPBI221tK58POPUF2X0q+HQVxiet36iwP2zi0dNehwe8Y3C5xn5ADGPTcp702Mf3QqGwygYszOlI1v8U1gaLDqjNeVPtIa+DMnKCPZQuRp6sRd92ScgOzao4I=;qJnfl3LCgdGLVxrHNnOSpQ=="
 ---
 

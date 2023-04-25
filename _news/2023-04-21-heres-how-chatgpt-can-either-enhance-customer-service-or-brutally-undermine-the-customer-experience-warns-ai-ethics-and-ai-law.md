@@ -31,15 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT: how to use AI as a virtual financial adviser"
-    excerpt: "From chatbots and virtual assistants to fraud detection and risk management artificial intelligence AI is now being used in many areas of finance"
-    publishedDateTime: 2023-04-24T19:25:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273781297/chatgpt-how-to-use-ai-as-a-virtual-financial-adviser"
+  - title: "ChatGPT: How to use AI as a virtual financial adviser"
+    excerpt: "From chatbots and virtual assistants to fraud detection and risk management, artificial intelligence (AI) is now being used in many areas of finance. But what could an AI system like ChatGPT do for your bank balance?"
+    publishedDateTime: 2023-04-25T16:50:00Z
+    webUrl: "https://techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.html"
+    ampWebUrl: "https://techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.amp"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 19
+      name: techxplore
+      domain: techxplore.com
+    quality: 61
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-how-to-use-ai.jpg"
+        width: 1356
+        height: 668
+        isCached: true
 
 secured: "ERwVLlnDzzpaDQ44Hreu8D5zsGrG9eRhUgqWbMf1woTrA5yWUH3+plC19TThutEqHXa5+w+rukVwZPDJQdUn/K7kajds9rib9M53TI115hakzgCpwOQKiHCRJWCa3tynjrAIX4/xL+VhD8CYAYpKqlSB/A+azc3JOM8IvKQAmRh5jKFKCVhwgo9EONlOSpVJCDAApf71ZfdwZrJGzNb+EP332C7SGopITU6RsUTiVLk+IREknKMb48y4q/CgahAcfSJcyPCk5FTmcV9GsLtTmyCYPq1xvCqb1PHWqBpnIydoDlh+tTcslsIxSRFeIklgPLv2xGliDevf0FSz/wPbLBXz1HRixfyv/DctycM0AW8=;9EJKu5bBvlHybJfKJaMBog=="
 ---

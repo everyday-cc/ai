@@ -2,6 +2,308 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-24-how-scalable-uavs-and-mobile-robotics-can-do-good-in-the-world.md",
+      "title": "How Scalable UAVs And Mobile Robotics Can Do Good In The World",
+      "excerpt": "The potential for business use is significant, but even more interesting are the strategic ways modern UAVs can bring more good to our world. That can happen in a business context or across nonprofit and government sectors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-scalable-uavs-and-mobile-robotics-can-do-good-in-the-world/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-scalable-uavs-and-mobile-robotics-can-do-good-in-the-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ee2d7713ba05d84c171308/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-scalable-uavs-and-mobile-robotics-can-do-good-in-the-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/how-scalable-uavs-and-mobile-robotics-can-do-good-in-the-world/amp/",
+      "publishedDateTime": "2023-04-24T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-britain-sets-up-125-million-taskforce-to-drive-ai-in-healthcare-education.md",
+      "title": "Britain sets up $125 million taskforce to drive AI in healthcare, education",
+      "excerpt": "The taskforce will help develop foundation models - a type of artificial intelligence (AI) used by chatbots like ChatGPT - for use in fields like healthcare and education",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/britain-sets-up-125-million-taskforce-to-drive-ai-in-healthcare-education/articleshow/99732037.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/britain-sets-up-125-million-taskforce-to-drive-ai-in-healthcare-education/articleshow/99732037.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.etimg.com/thumb/msid-99712095,imgsize-,width-600,height-450/.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/britain-sets-up-125-million-taskforce-to-drive-ai-in-healthcare-education/amp_articleshow/99732037.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/britain-sets-up-125-million-taskforce-to-drive-ai-in-healthcare-education/amp_articleshow/99732037.cms",
+      "publishedDateTime": "2023-04-24T04:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-5-crucial-components-of-an-ai-company.md",
+      "title": "5 Crucial Components Of An AI Company",
+      "excerpt": "In this article, I'll explore five crucial factors that should drive the decision making of VCs and investors when identifying investment opportunities and evaluating long-term potential in the competitive and oversaturated AI space.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6442b28cc7d2114a4afa0045/0x0.jpg?format=jpg&width=1200",
+          "width": 1014,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/amp/",
+      "publishedDateTime": "2023-04-24T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-using-generative-ai-in-workforce-management.md",
+      "title": "Using Generative AI In Workforce Management",
+      "excerpt": "Generative AI is the most transformative thing in the business landscape right now, perhaps even since the proliferation of the internet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62825152c50f091b0e2568f8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/amp/",
+      "publishedDateTime": "2023-04-24T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-how-ai-can-transform-the-software-engineering-process.md",
+      "title": "How AI Can Transform The Software Engineering Process",
+      "excerpt": "Generative AI will expedite the pace of modern software development, promote experimentation and even transform the current software engineering funnel in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6058b5411e82e550078f5886/0x0.jpg?format=jpg&width=1200",
+          "width": 790,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/amp/",
+      "publishedDateTime": "2023-04-24T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-how-gpt-4-could-affect-marketing-leaders.md",
+      "title": "How GPT-4 Could Affect Marketing Leaders",
+      "excerpt": "Marketers have always had to adapt to their changing technological environment. GPT technologies are no different.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/04/24/how-gpt-4-could-affect-marketing-leaders/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/04/24/how-gpt-4-could-affect-marketing-leaders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6442c991c58a2f3beb23907c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/04/24/how-gpt-4-could-affect-marketing-leaders/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/04/24/how-gpt-4-could-affect-marketing-leaders/amp/",
+      "publishedDateTime": "2023-04-24T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2023-04-24-kpmg-us-executives-unprepared-for-immediate-adoption-of-generative-ai.md",
       "title": "KPMG: US executives unprepared for immediate adoption of generative AI",
       "excerpt": "In a KPMG survey of executives on generative AI, the technology is seen as potentially the most disruptive to date.",
@@ -10,7 +312,7 @@
       "originalUrl": "https://venturebeat.com/ai/kpmg-us-executives-unprepared-for-immediate-adoption-of-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -164,7 +466,7 @@
       "originalUrl": "https://www.forbes.com/sites/martineparis/2023/04/24/grimes-tells-fans-to-deepfake-drake-her-welcomes-collaboration-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -207,61 +509,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-24-amid-microsoft-google-ai-rivalry-apple-could-be-the-winner-no-matter-where-industry-goes-analyst.md",
-      "title": "Amid Microsoft-Google AI Rivalry, Apple Could Be The Winner 'No Matter Where Industry Goes:' Analyst",
-      "excerpt": "Artificial Intelligence (AI) tech is an $800 billion market opportunity over the next decade as it pervades into the enterprise and consumer tech space, said Wedbush analyst Daniel Ives in a recent note.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/amid-microsoft-google-ai-rivalry-apple-could-be-the-winner-no-matter-where-industry-goes-analyst-1032253335",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/amid-microsoft-google-ai-rivalry-apple-could-be-the-winner-no-matter-where-industry-goes-analyst-1032253335",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Apple_logo_on_macbook_2.jpeg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI",
-        "Facebook AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2023-04-24-6-ways-azure-ai-is-empowering-people-with-disabilities.md",
       "title": "6 Ways Azure AI is Empowering People with Disabilities",
       "excerpt": "Accessibility in technology is crucial for ensuring that everyone, regardless of their physical or cognitive abilities, can fully participate in the digital world., Technology & Science News, Times No",
@@ -270,7 +517,7 @@
       "originalUrl": "https://www.timesnownews.com/technology-science/6-ways-azure-ai-is-empowering-people-with-disabilities-article-99727313",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -513,7 +760,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2023-size-and-share-an-expand-worldwide-business-opportunities-2023-04-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -976,248 +1223,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-simulations-with-a-machine-learning-model-predict-a-new-phase-of-solid-hydrogen.md",
-      "title": "Simulations with a machine learning model predict a new phase of solid hydrogen",
-      "excerpt": "Hydrogen, the most abundant element in the universe, is found everywhere from the dust filling most of outer space to the cores of stars to many substances here on Earth. This would be reason enough to study hydrogen,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-04-simulations-machine-phase-solid-hydrogen.html",
-      "originalUrl": "https://phys.org/news/2023-04-simulations-machine-phase-solid-hydrogen.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/putting-hydrogen-on-so.jpg",
-          "width": 955,
-          "height": 490,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-04-simulations-machine-phase-solid-hydrogen.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-simulations-machine-phase-solid-hydrogen.amp",
-      "publishedDateTime": "2023-04-21T23:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-aimachine-learning-market-report-industry-dynamics-by-top-players-2023-2031.md",
-      "title": "AI/Machine Learning Market Report Industry Dynamics by Top Players 2023-2031",
-      "excerpt": "Global AI/Machine Learning Market Research Report 2023 is spread across 116 pages and 148 Number of Tables and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-report-industry-dynamics-by-top-players-2023-2031-2023-04-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-report-industry-dynamics-by-top-players-2023-2031-2023-04-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T22:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-we-all-contribute-to-ai-should-we-get-paid-for-that.md",
-      "title": "We all contribute to AI — should we get paid for that?",
-      "excerpt": "The idea is for people to “get paid for what they create, even when it is filtered and recombined” into something that’s unrecognizable. The concept isn’t brand new, with Lanier first introducing the notion of data dignity in a 2018 Harvard Business Review piece titled,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/04/21/as-ai-eliminates-jobs-a-way-to-keep-people-afloat-financially-thats-not-ubi/",
-      "originalUrl": "https://techcrunch.com/2023/04/21/as-ai-eliminates-jobs-a-way-to-keep-people-afloat-financially-thats-not-ubi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1365407901.jpg?resize=1200,816",
-          "width": 1200,
-          "height": 816,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/04/21/as-ai-eliminates-jobs-a-way-to-keep-people-afloat-financially-thats-not-ubi/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/21/as-ai-eliminates-jobs-a-way-to-keep-people-afloat-financially-thats-not-ubi/amp/",
-      "publishedDateTime": "2023-04-21T19:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-brain-inspired-ai-liquid-neural-networks-power-drones.md",
-      "title": "Brain-Inspired AI Liquid Neural Networks Power Drones",
-      "excerpt": "Researchers at MIT CSAIL demonstrated how brain-inspired AI liquid neural networks enable drones to navigate unfamiliar places. The researchers performed tests to see",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202304/brain-inspired-ai-liquid-neural-networks-power-drones",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202304/brain-inspired-ai-liquid-neural-networks-power-drones",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-04/pic25111.jpg?itok=GPWCNftz",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202304/brain-inspired-ai-liquid-neural-networks-power-drones?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202304/brain-inspired-ai-liquid-neural-networks-power-drones?amp",
-      "publishedDateTime": "2023-04-21T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-generative-ai-cloud-startup-coreweave-raises-221-million-megaround.md",
-      "title": "Generative AI Cloud Startup CoreWeave Raises $221 Million Megaround",
-      "excerpt": "CoreWeave, a six-year-old startup that provides specialized cloud infrastructure for generative artificial intelligence, ChatGPT-like language models and other computing-heavy applications, has joined a group of technology startups bucking a monthslong slump in venture-capital investing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/generative-ai-cloud-startup-coreweave-raises-221-million-megaround-f817b027",
-      "originalUrl": "https://www.wsj.com/articles/generative-ai-cloud-startup-coreweave-raises-221-million-megaround-f817b027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-768253/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

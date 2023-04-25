@@ -1,22 +1,27 @@
 ---
 category: news
 title: "Announcing LityxIQ 6.0 - Powering Predictive Business Decisions Through Next-Gen Machine Learning"
-excerpt: "Lityx makes its leading alternative AI and MLOps platform easier to deliver value for organizations focused on digital transformation WILMINGTON, Del.,  /PRNewswire/ -- Lityx, LLC today announced the release of LityxIQ 6."
-publishedDateTime: 2023-04-25T15:51:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/04/25/9801468.htm"
-webUrl: "https://it.tmcnet.com/news/2023/04/25/9801468.htm"
+excerpt: "Lityx makes its leading alternative AI and MLOps platform easier to deliver value for organizations focused on digital transformationWILMINGTON,"
+publishedDateTime: 2023-04-25T13:54:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/announcing-lityxiq-6-0-powering-predictive-business-decisions-through-next-gen-machine-learning-1032258784"
+webUrl: "https://markets.businessinsider.com/news/stocks/announcing-lityxiq-6-0-powering-predictive-business-decisions-through-next-gen-machine-learning-1032258784"
 type: article
-quality: 6
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 related:
   - title: "The Generative AI Frontier: Mastering LLM Adoption For CEOs And CTOs To Drive Business Success"
@@ -36,6 +41,6 @@ related:
         height: 800
         isCached: true
 
-secured: "9FfkFxVOePoxePhOu9Yk/LfssHpzc5T8bH5A05VQxu9fEiMJhg4MMuBziZUfnBM6ZmYUD1YT5tu4MTR0segQwtSEoz+b0u5uPpIPw4glyC2/Dq1h2+Y4XCcXCpv3N64Pz8TyWJ4AUwUAjXgzkkTbk0j1cRcNx4m0WSmGPyZvFA71NSbmj8OgXQOzLGzsBQ07fnolTxSyi4Go7sUlxy2IUVWtVcUN0a3mahu6aDTLQasoevuZGj9LLHdVz/UOEm2fnP3Dhzuah3pmSUZVzyae2n0q4lVqt/Je0satwuaujtBp4KEOcFfm+wYodWCBFv6JeWAYXSXpvkYbhWog0lXD9APQbezOGai0qQX4L2gyOXk=;jp/8g0W1CWh0daSv2K3cJQ=="
+secured: "EGcG4X1CcZMLaTzfGV0XZ2GBR/M+8aNBD6+Q8qQDX4hmorYfNgqGQUgt6ITZejoH1JYEeZThsgff47di1bedhmZPGZU/Q3ho3e+n9FE4q572UrBgjlq7pyDei8nlN9WZw9zgGUitCCPgAnMFVIuWskiK23oqEK59xFqHgPXIsSl89R2NZ3ZKCIDcVH60CLkJnPl0TOIxq6E2uxnvCFe0Riwh7mripzcocyNW5UamG4DakwYWwhqcWpx9U9qcHqx77iHSbXW38h2Ev/ypYHiAPNJopvBA+3yRI3eCSc+f0aB2IqFZYkiGcZur/9UPptU66epXlirCIRiCsL+7r5M6JUF8igLS0xEPRfPMiBn7NPM=;/q/FLwlsCs8M0p4SRL4F2w=="
 ---
 

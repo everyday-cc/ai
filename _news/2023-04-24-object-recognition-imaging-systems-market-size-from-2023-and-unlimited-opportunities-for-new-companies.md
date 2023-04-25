@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Data Science and Machine-Learning Platforms Market Size and Share Expanding worldwide by 2023"
-    excerpt: "Data Science and Machine-Learning Platforms Market Size 2023 | New Report (130 Pages) | Analytics | In This Reports"
-    publishedDateTime: 2023-04-24T03:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-size-and-share-expanding-worldwide-by-2023-2023-04-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech and Voice Recognition Market Size 2023 Will Grow Rapidly Another Level in The Forthcoming Year"
     excerpt: "Speech and Voice Recognition Market Size 2023 | New Report (106 Pages) | Analytics | In This Reports Speech and"
     publishedDateTime: 2023-04-24T03:41:00Z

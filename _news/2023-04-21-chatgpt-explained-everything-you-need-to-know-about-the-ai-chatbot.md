@@ -173,6 +173,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 46
+  - title: "ChatGPT: Opportunities and threats"
+    excerpt: "November 30, 2022 to be precise, ChatGPT, an artificial intelligence chatbot, has been gaining rave reviews as"
+    publishedDateTime: 2023-04-25T16:46:00Z
+    webUrl: "https://www.omanobserver.om/article/1136195/oman/chatgpt-opportunities-and-threats"
+    ampWebUrl: "https://www.omanobserver.om/ampArticle/1136195"
+    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1136195"
+    type: article
+    provider:
+      name: omanobserver
+      domain: omanobserver.om
+    quality: 44
+    images:
+      - url: "https://www.omanobserver.om/omanobserver/uploads/images/2023/04/25/2314447.jpg"
+        width: 1000
+        height: 1099
+        isCached: true
   - title: "ChatGPT craze drives domestic innovation"
     excerpt: "\"Technologies behind ChatGPT are not new to market players, but ChatGPT represents how AI has evolved and progressed over the past few years. Also, it demonstrates the popularity of the NLP market and brings forward the market one to two years,"
     publishedDateTime: 2023-04-24T23:40:00Z

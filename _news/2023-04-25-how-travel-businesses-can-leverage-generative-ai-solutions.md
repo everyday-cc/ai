@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 613
         isCached: true
+  - title: "The Needed Executive Actions to Address the Challenges of Artificial Intelligence"
+    excerpt: "Artificial intelligence (AI) 1 is becoming more widely available to the public and increasingly sophisticated, leading to the advent of what Bill Gates recently called “The Age"
+    publishedDateTime: 2023-04-25T16:00:00Z
+    webUrl: "https://www.americanprogress.org/article/the-needed-executive-actions-to-address-the-challenges-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Center for American Progress
+      domain: americanprogress.org
+    quality: 32
+    images:
+      - url: "https://www.americanprogress.org/wp-content/uploads/sites/2/2023/04/GettyImages-147980962070.jpg"
+        width: 1680
+        height: 1120
+        isCached: true
 
 secured: "tcqtKxiGXyHu2rKwPt/H1e2MWo4rBKNohGklcqiRWJqMysbZjlOrNfx3GL80o9sGeasQ8xWITCFQVLOAfiF+L4BhQ6nINYxG9QHyelGwkx4rWayVzimjfwBc5Rd5Tg2ITiE2gIYVffFXYqbEid4jCbyAObLdh+Ti2gaJkmKplcYA6/7o3Lu4dOq1MnQkZd7ycO6ZXgvS6WqIITx2IrI3uE928LbJDk2dUzKZ2w4nt3T45H1ZlzQQOcpsWS/OR563ogREdJJPegasgIRBA9pEnGcMILJxfs3c0VsoiiSDF/9SPNIKOKHyLmysyqf6sl0u/aWCXQE4881cM8j8iCovddU+FOmTrtXUbUVeY/1tThLwHnchcc3x6gKuEbEF7PRTBDLA93k6tKWP8/9mqdFx5lMaCUUqqW9O67G01qzqw1wml/+O8lmxkE/VdtEKzjsVGMKP8sK6WsTDz9UEM4CGbYVu6z97ZJtCXGrXMbUPQ1mIGabotSAb588hSERNrgzb6B92zAtrUyL8DooHkwdXnQ==;XRtt4YNIOvlc/Uo3UHqMcQ=="
 ---

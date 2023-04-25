@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-to-2030-natural-lan
 webUrl: "https://www.marketwatch.com/press-release/2023-to-2030-natural-language-processing-market-upcoming-trends-2023-04-21"
 type: article
 quality: 69
-heat: 119
+heat: 99
 published: true
 
 provider:
@@ -71,29 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Radar Market Latest Trends, Segmentation Analysis, Share, Size, and Forecast 2023 to 2031"
-    excerpt: "The global radar market was valued at $32.56 billion in 2019, and is projected to reach $49.43 billion by 2027, to register a CAGR of 3.80% from 2020 to 2027. Radar is an electronic system, which measures the range and behavior of objects by transmitting an electromagnetic pulse at the object."
-    publishedDateTime: 2023-04-24T07:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/radar-market-latest-trends-segmentation-analysis-share-size-and-forecast-2023-to-2031-2023-04-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Graphic Processing Unit (GPU) Market Upcoming Trends, Size, Key Players, Revenue, Share, and Forecast 2023 to 2031"
-    excerpt: "Graphic Processing Unit (GPU) Market [NEW REPORT 2023] offers a whole overview of the present-day market kingdom of affairs and affords a forecast until 2031. This report provides a balanced mix of qualitative and quantitative data that highlights imperative market developments,"
-    publishedDateTime: 2023-04-24T06:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-upcoming-trends-size-key-players-revenue-share-and-forecast-2023-to-2031-2023-04-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
 
 secured: "5bA3pw3hwV6Vv0oqGIBJkcDaVeJ95jpdiocUU4U3lJvoKKX9pPtFeUMd+Bi/Mp5aeqTz19A7cfg80sV+8r1MMmlNlscrD4n5kFyUZblUSE5c6rHS9+e4CJ7yd9yBZ8VJxFis6IYIQ9VJenZywE+2lMy6CWnXPIVRhCP403VEq1fx1qOXLxYSgqrqJUV0E1zcrI39wQEEvh4DmEYARYjVEm29myrLLG3VxbRJwgzUYzHdTpVHTqGhfL3nFVWOeJDVnOzGFuPhKOc/IlVuw2Qg6A6h3ObPpW0DMKi9cO5wr5fb1dHjxA0Z+7rJBDItSsZ628myOE6HUrlEHm4sv6GHxbNxmxy0mtscaAOjgIBbFDc=;/f57N/XkID2ujmAoh6AYng=="
 ---

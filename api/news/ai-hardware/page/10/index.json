@@ -2,6 +2,110 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-01-10-artificial-intelligence-ai-chips-market-2023-advance-technology-latest-trend-and-future-expansion-by-2028.md",
+      "title": "Artificial Intelligence (AI) Chips Market 2023 : Advance Technology, Latest Trend and Future Expansion by 2028",
+      "excerpt": "Rising demand for nvbnvbElectronics, Automotive, Consumer Goods will drive the Artificial Intelligence (AI) Chips segment growth over the next five years. Global Market Analysis f",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2023-advance-technology-latest-trend-and-future-expansion-by-2028-2023-01-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2023-advance-technology-latest-trend-and-future-expansion-by-2028-2023-01-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T20:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-watch-out-amd-nvidia-could-boost-gpu-performance-by-up-to-30-with-ai.md",
+      "title": "Watch out AMD – Nvidia could boost GPU performance by up to 30% with AI",
+      "excerpt": "Nvidia has plans to optimize its GeForce graphics drivers using artificial intelligence to ensure that games run faster, going by the latest from the GPU grapevine. This comes from CapFrameX on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/watch-out-amd-nvidia-could-boost-gpu-performance-by-up-to-30-with-ai",
+      "originalUrl": "https://www.techradar.com/news/watch-out-amd-nvidia-could-boost-gpu-performance-by-up-to-30-with-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/PgUqWZHAyA9SANyQPQAaaK-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T19:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-10-the-ai-market-an-overview.md",
       "title": "The AI Market: An Overview",
       "excerpt": "The AI market is growing exponentially, both in terms of revenue and level of innovation. If there’s a leading technology of the current era, artificial intelligence (AI) is clearly a top contender. The hype is constant and flows from all quarters.",
@@ -1326,101 +1430,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-23-top-ai-startup-news-of-the-week-jasper-tome-imagen-ai-and-more.md",
-      "title": "Top AI startup news of the week: Jasper, Tome, Imagen AI and more",
-      "excerpt": "From generative AI applications to healthcare and biotech, these are five AI startups that made headlines over the past week.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/top-ai-startup-news-of-the-week-jasper-tome-imagen-ai-and-more/",
-      "originalUrl": "https://venturebeat.com/ai/top-ai-startup-news-of-the-week-jasper-tome-imagen-ai-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/Untitled-design-1.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/top-ai-startup-news-of-the-week-jasper-tome-imagen-ai-and-more/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-ai-startup-news-of-the-week-jasper-tome-imagen-ai-and-more/amp/",
-      "publishedDateTime": "2022-12-22T10:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-12-23-intel-splits-gpu-group-into-two-separate-units.md",
-      "title": "Intel splits GPU group into two separate units",
-      "excerpt": "Restructuring move puts Intel's gaming and data center products into separate categories to better serve both markets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3684112/intel-splits-gpu-group-into-two-separate-units.html",
-      "originalUrl": "https://www.networkworld.com/article/3684112/intel-splits-gpu-group-into-two-separate-units.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/02/hardware_circuit_board_cpu_microprocessor_motherboard_binary_code_thinkstock_614863084-100749699-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3684112/intel-splits-gpu-group-into-two-separate-units.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3684112/intel-splits-gpu-group-into-two-separate-units.amp.html",
-      "publishedDateTime": "2022-12-22T09:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

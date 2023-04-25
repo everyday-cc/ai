@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-03-30-elon-musks-ai-warning-like-catholic-church-ban-on-printing-presses.md",
-      "title": "Elon Musk’s AI warning ‘like Catholic church ban on printing presses’",
-      "excerpt": "Yann LeCun, chief AI scientist at Facebook-owner Meta, has mocked Mr Musk’s plea to halt advanced AI research for six months. Mr LeCun posted on Twitter: “The year is 1440 and the Catholic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/business/2023/03/30/elon-musks-ai-warning-meta-scientist/",
-      "originalUrl": "https://www.telegraph.co.uk/business/2023/03/30/elon-musks-ai-warning-meta-scientist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/business/2023/03/30/TELEMMGLPICT000329372467_trans_NvBQzQNjv4BqqiUuvBizZT2q34Osm0tNw9LO529jWexQu7u975-F90g.jpeg?impolicy=logo-overlay",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-30T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-29-hugging-face-reveals-generative-ai-performance-gains-with-intel-hardware.md",
       "title": "Hugging Face reveals generative AI performance gains with Intel hardware",
       "excerpt": "Learn More Nvidia’s A100 GPU accelerator has enabled groundbreaking innovations in generative AI, powering cutting-edge research that is reshaping what artificial intelligence can achieve. But in the fiercely competitive field of AI hardware, others are ...",
@@ -1536,6 +1493,50 @@
         "Facebook AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-hundreds-of-sexual-deepfake-ads-using-emma-watsons-face-ran-on-facebook-and-instagram-in-the-last-two-days.md",
+      "title": "Hundreds of sexual deepfake ads using Emma Watson’s face ran on Facebook and Instagram in the last two days",
+      "excerpt": "A deepfake app advertised itself on Meta platforms using faces of actors Watson and Scarlett Johansson. In a Facebook ad, a woman with a face identical to actor Emma Watson’s face smiles coyly and bends down in front of the camera,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/social-media/emma-watson-deep-fake-scarlett-johansson-face-swap-app-rcna73624",
+      "originalUrl": "https://www.nbcnews.com/tech/social-media/emma-watson-deep-fake-scarlett-johansson-face-swap-app-rcna73624",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-03/230307-Deepfake-App-jg-3ef3e4.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna73624",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna73624",
+      "publishedDateTime": "2023-03-08T13:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "IBM AI"
       ]
     }
   ],

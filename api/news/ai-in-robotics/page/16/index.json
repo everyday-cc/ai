@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-12-05-world-cup-2022-can-you-outguess-our-ai-predictor-robot.md",
+      "title": "World Cup 2022: Can you outguess our AI predictor robot?",
+      "excerpt": "Al Jazeera’s AI robot has made up for a shaky start and has correctly predicted the outcome of all four knockout games.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aljazeera.com/sports/2022/12/5/who-is-going-to-reach-the-quarter-finals-of-world-cup-2022",
+      "originalUrl": "https://www.aljazeera.com/sports/2022/12/5/who-is-going-to-reach-the-quarter-finals-of-world-cup-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aljazeera.com/wp-content/uploads/2022/12/INTERACTIVE-Kashef-prediction-scorecard-December-5.jpg?resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.aljazeera.com/amp/sports/2022/12/5/who-is-going-to-reach-the-quarter-finals-of-world-cup-2022",
+      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/sports/2022/12/5/who-is-going-to-reach-the-quarter-finals-of-world-cup-2022",
+      "publishedDateTime": "2022-12-05T03:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Jazeera English",
+        "domain": "aljazeera.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-05-sudbury-plays-host-to-first-robotics-competition.md",
       "title": "Sudbury plays host to FIRST robotics competition",
       "excerpt": "Tech Qualifier with students competing from across Sudbury, North Bay, Manitoulin Island, Bruce County and Toronto. Teams had to use their robots to complete different challenges, using pylons while amassing points.",

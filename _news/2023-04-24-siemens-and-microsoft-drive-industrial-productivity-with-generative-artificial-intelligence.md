@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "How to use Microsoft Edge's integrated Bing AI Image Creator"
+    excerpt: "How to use Bing AI Image Creator within Microsoft Edge. First, make sure you're running the latest version of Microsoft's browser. In Edge, click the thr"
+    publishedDateTime: 2023-04-25T15:15:00Z
+    webUrl: "https://www.zdnet.com/article/how-to-use-microsoft-edges-integrated-bing-ai-image-creator/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-use-microsoft-edges-integrated-bing-ai-image-creator/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-microsoft-edges-integrated-bing-ai-image-creator/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/035e7d6330c84dde7fd7b987442706c64e6bb2c0/2023/04/25/2d6e5d97-002d-4ed5-bef5-713bc3b87f48/figure-top-how-to-use-microsoft-edges-integrated-bing-ai-image-creator.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft-backed tech group pushes for AI regulation: Here's what it's suggesting"
     excerpt: "\"We're an industry group that wants Congress to pass this legislation,\" said Craig Albright, vice president of U.S. government relations at BSA."
     publishedDateTime: 2023-04-24T19:00:00Z
@@ -40,6 +56,20 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107217766-1680185818324-gettyimages-1248335425-raa-openaich230315_npwTZ.jpeg?v=1682370030"
         width: 5784
         height: 3848
+        isCached: true
+  - title: "Amid Microsoft-Google AI Rivalry, Apple Could Be The Winner 'No Matter Where Industry Goes:' Analyst"
+    excerpt: "Artificial Intelligence (AI) tech is an $800 billion market opportunity over the next decade as it pervades into the enterprise and consumer tech space, said Wedbush analyst Daniel Ives in a recent note."
+    publishedDateTime: 2023-04-24T09:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amid-microsoft-google-ai-rivalry-apple-could-be-the-winner-no-matter-where-industry-goes-analyst-1032253335"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 75
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Apple_logo_on_macbook_2.jpeg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Microsoft is working on its own AI chip ‘Athena’ to cut down cost of machine learning operations"
     excerpt: "Microsoft is developing its own AI chip called Athena for powering Large Language Models used to develop generative AI products."
@@ -108,6 +138,22 @@ related:
         width: 1200
         height: 847
         isCached: true
+  - title: "Microsoft integrates Copilot into its employee engagement platform, Viva - but does AI really lead to better engaged employees?"
+    excerpt: "At a recent summit, Microsoft announced that its AI assistant, Copilot, will be rolled out across its employee experience platform, Viva; news which won’t come as too much of a surprise given artificial intelligence hype is flooding through corporations around the globe."
+    publishedDateTime: 2023-04-24T08:34:00Z
+    webUrl: "https://diginomica.com/microsoft-integrates-copilot-its-employee-engagement-platform-viva-does-ai-really-lead-better"
+    ampWebUrl: "https://diginomica.com/microsoft-integrates-copilot-its-employee-engagement-platform-viva-does-ai-really-lead-better?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/microsoft-integrates-copilot-its-employee-engagement-platform-viva-does-ai-really-lead-better?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 48
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2022-03/8D40D55D-AC36-4DA2-875F-0AC7F6A219D5.jpeg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "The era of AI: How the Microsoft Cloud is accelerating AI transformation across industries"
     excerpt: "This past quarter has put a spotlight on advancements in generative AI, and the possibilities of its application to deliver pragmatic business outcomes. For organizations around the world, there is incredible opportunity to enhance products and services while unlocking innovation and business value to help shape the future of industry."
     publishedDateTime: 2023-04-24T15:11:00Z
@@ -131,20 +177,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 34
-  - title: "Self-driving vehicles need regulations: safety board"
-    excerpt: "The Taiwan Transportation Safety Board yesterday pledged to work with the Ministry of Transportation and Communications to review laws in other countries governing the regulation of self-driving vehicles following a rise in collisions caused by the vehicles,"
-    publishedDateTime: 2023-04-24T16:00:00Z
-    webUrl: "https://www.taipeitimes.com/News/taiwan/archives/2023/04/25/2003798573"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 24
-    images:
-      - url: "https://www.taipeitimes.com/images/2023/04/25/P02-230425-001.jpg"
-        width: 787
-        height: 591
-        isCached: true
 
 secured: "lRaqBjQQQv4yvK3OUToYsRgIGYMAdlYr79z7ogvlee6ymjzbk3svwHA2VY8uRZZXJYijrRe3IiBdkPJW95PWydIaL0OrCC0rAsQacphdglo9vxK7KO9uN8sknzafiNcChOC5fcoc9ZYsof/T6/5LJPUS44fiflya07tX/tO/3EEk4drFbYD1eKHlMqCn3b/1LnDL53qsgDKXFNJG9hNsrocKmSTHJ35laHhrN6qMdqY72zjClBrYXXwo42o/zoiQoNV+URupg9dbz9t4Kb/lQ/lm/g2U6vuC4pslIREYWN2MYhoyme6YzGLyXUBybjiSJZh45yCDCSzimkmaeinZ9ZXQCHucyJpVSLlQhUuaiyQiDiSXt8ddHP7SdiU0RguK7wY/Se4iqciLLZMkj8YNx4lRwHXBTDUHzAef4N5XSiZzJAQ630F1hXEx66y0FI1UteGN1wSYrXwX4KV1y2bKvwaHNyp4nPYP3rPavN3xbLP76lV3aCeIWB3iNzIfOW9Pe3MoZCCBV0lpIVu7eP5x5g==;2OOvtFnCVF4ue/FmWeW9lw=="
 ---

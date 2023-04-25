@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-12-sony-investment-will-put-ai-chips-inside-raspberry-pi-boards.md",
+      "title": "Sony investment will put AI chips inside Raspberry Pi boards",
+      "excerpt": "Sony Electronics has announced that it's making a \"strategic investment\" in Raspberry Pi in order to bring its AI chips to a wider market..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/sony-investment-will-put-ai-chips-inside-raspberry-pi-boards-083503462.html",
+      "originalUrl": "https://www.engadget.com/sony-investment-will-put-ai-chips-inside-raspberry-pi-boards-083503462.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/YnwFCW5yh1_lBnS_nZcXFg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-04/9187f130-d906-11ed-bfff-437ef0360c42.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-12T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-11-cadence-ceo-drives-growth-beyond-chip-design-with-ai-and-computational-software.md",
+      "title": "Cadence CEO Drives Growth Beyond Chip Design With AI And Computational Software",
+      "excerpt": "Dr. Devgan and his company have a vision of bringing the power of simulation, modeling and computational software to far more than just semiconductor chip design.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/04/11/cadence-ceo-drives-growth-beyond-chip-design-with-ai-and-computational-software/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/04/11/cadence-ceo-drives-growth-beyond-chip-design-with-ai-and-computational-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-11T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-10-gpu-for-deep-learning-market-2023-size-and-forecast-to-2031.md",
       "title": "GPU for Deep Learning Market 2023 Size and Forecast to 2031",
       "excerpt": "GPU for Deep Learning Marketinformation for each competitor includes (Amazon, Microsoft, Google, Fancy Startup, Intel,",
@@ -1259,111 +1354,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-better-ai-stock-microsoft-vs-nvidia.md",
-      "title": "Better AI Stock: Microsoft vs. Nvidia",
-      "excerpt": "Microsoft has an early mover advantage in the generative AI market thanks to OpenAI and ChatGPT. Nvidia's dominance in GPUs and the importance of these chips in generative AI applications could help it remain a top AI stock. With a purported investment of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/03/24/better-ai-stock-microsoft-vs-nvidia/",
-      "originalUrl": "https://www.fool.com/investing/2023/03/24/better-ai-stock-microsoft-vs-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 236,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/725637/chatbot-smartphone-person.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-24T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying.md",
-      "title": "Bill Gates's Open Letter Suggests AI's Potential Is Both Exciting And Terrifying",
-      "excerpt": "Its 30% increase in share price since the start of the year is also likely boosted by its acquisition of AI healthcare company Caption Health. Chip company Nvidia, which is announcing AI partnerships all over the place at the moment, is now collaborating ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/03/24/bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/03/24/bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641dd727f27107071e4ff5b1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/03/24/bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/03/24/bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying/amp/",
-      "publishedDateTime": "2023-03-24T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

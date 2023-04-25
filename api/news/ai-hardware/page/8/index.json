@@ -2,6 +2,83 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-02-04-how-smart-are-ai-chips-really.md",
+      "title": "How Smart Are AI Chips, Really?",
+      "excerpt": "But this is Hackaday, so we’re also going to dig into the guts of some AI chips, including the Kendryte K210 and see how the hardware of today fits into our Glorious Future. Targeted towards ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
+      "originalUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-04-nvidia-geforce-rtx-3090-vs-3080-vs-3070-vs-3060-which-gpu-should-you-buy.md",
+      "title": "Nvidia GeForce RTX 3090 vs 3080 vs 3070 vs 3060: Which GPU should you buy?",
+      "excerpt": "they all make use of Nvidia DLSS (sort of an AI upscaler for games). Nvidia FreeStyle, ShadowPlay, Highlights, G-Sync and GPU boost work on all of the 30-series cards. They’re all VR-ready ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/news/nvidia-geforce-rtx-comparison",
+      "originalUrl": "https://www.tomsguide.com/news/nvidia-geforce-rtx-comparison",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Gru9o9nvXb8cqNkVoUc4wH-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-03T10:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-03-nvidia-rallies-as-investors-bullish-on-chipmakers-ai-business.md",
       "title": "Nvidia Rallies As Investors Bullish On Chipmaker's AI Business",
       "excerpt": "Shares of Nvidia advanced 33.69% in January and started February with a gain of 11.12%. The moves come as Wall Street analysts are increasingly bullish on chip stocks, partly because the notorious chip shortages of 2021 and 2022 are easing and partly on robust prospects for AI chips for use in almost every industry.",
@@ -1253,92 +1330,6 @@
         "AI Hardware",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-us-keeps-chipping-away-at-dutch-resistance-on-china.md",
-      "title": "US Keeps Chipping Away At Dutch Resistance On China",
-      "excerpt": "Nvidia and AMD Last August, the US government ordered Nvidia and AMD to stop exporting their GPU and AI chips, as well as Nvidia's AI server called DGX, to China and Russia. It explained to Nvidia ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105448347/US-Keeps-Chipping-Away-At-Dutch-Resistance-On-China",
-      "originalUrl": "https://menafn.com/1105448347/US-Keeps-Chipping-Away-At-Dutch-Resistance-On-China",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-18T19:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-galaxy-s23-ultras-secret-weapon-could-be-this-samsung-camera-chip.md",
-      "title": "Galaxy S23 Ultra's Secret Weapon Could Be This Samsung Camera Chip",
-      "excerpt": "Exclusive: Samsung's Isocell HP2 image sensor can shoot photos at 12.5, 50 or even 200 megapixels thanks to more efficient light-gathering technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/mobile/galaxy-s23-ultras-secret-weapon-could-be-this-samsung-camera-chip/",
-      "originalUrl": "https://www.cnet.com/tech/mobile/galaxy-s23-ultras-secret-weapon-could-be-this-samsung-camera-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/dd94985ced203347c5fe34521806efc82cbadd80/hub/2023/01/17/94f978fc-96d2-403e-95bc-6a06c611b679/samsung-isocell-hp2-image-sensor-yellow.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/galaxy-s23-ultras-secret-weapon-could-be-this-samsung-camera-chip/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/galaxy-s23-ultras-secret-weapon-could-be-this-samsung-camera-chip/",
-      "publishedDateTime": "2023-01-18T08:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

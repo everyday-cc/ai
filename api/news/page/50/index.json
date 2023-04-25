@@ -2,6 +2,309 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2023-03-10-ai-first-infrastructure-the-key-to-faster-time-to-market.md",
+      "title": "AI-first infrastructure: The key to faster time to market",
+      "excerpt": "Purpose-built cloud infrastructure is the best way to quickly and economically grow AI at scale to create business value and growth.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-first-infrastructure-the-key-to-faster-time-to-market/",
+      "originalUrl": "https://venturebeat.com/ai/ai-first-infrastructure-the-key-to-faster-time-to-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/02/AdobeStock_552748421.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-first-infrastructure-the-key-to-faster-time-to-market/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-first-infrastructure-the-key-to-faster-time-to-market/amp/",
+      "publishedDateTime": "2023-03-09T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-10-is-ai-the-perfect-ally-to-complete-digital-transformation.md",
+      "title": "Is AI the Perfect Ally to Complete Digital Transformation?",
+      "excerpt": "Digital transformation has become an indispensable initiative by organizations in the form of a wide range of technologies like SaaS, IoT (Internet of Things), VR (Virtual Reality), ML (Machine Learning),",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/is-ai-the-perfect-ally-to-complete-digital-transformation-2023-03-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/is-ai-the-perfect-ally-to-complete-digital-transformation-2023-03-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-09T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-10-the-hottest-party-in-generative-ai-is-productivity-apps.md",
+      "title": "The hottest party in generative AI is productivity apps",
+      "excerpt": "After years of wallflower AI status, business productivity apps are now the generative AI party where the cool kids hang out.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/the-hottest-party-in-generative-ai-is-productivity-apps/",
+      "originalUrl": "https://venturebeat.com/ai/the-hottest-party-in-generative-ai-is-productivity-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-23.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/the-hottest-party-in-generative-ai-is-productivity-apps/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-hottest-party-in-generative-ai-is-productivity-apps/amp/",
+      "publishedDateTime": "2023-03-09T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-10-chatgpt-is-now-available-in-microsofts-azure-openai-service.md",
+      "title": "ChatGPT is now available in Microsoft’s Azure OpenAI service",
+      "excerpt": "Microsoft is making ChatGPT available in its own Azure OpenAI service today. Developers and businesses will now be able to integrate OpenAI’s ChatGPT model into their own cloud apps, enabling ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/3/9/23632312/microsoft-azure-openai-chatgpt-feature-available",
+      "originalUrl": "https://www.theverge.com/2023/3/9/23632312/microsoft-azure-openai-chatgpt-feature-available",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/CCAiZOaSXBZ90QlUG4O76gDxwwc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347780/STK095_Microsoft_04.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-09T11:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-architect-personalized-generative-ai-saas-applications-on-amazon-sagemaker.md",
+      "title": "Architect personalized generative AI SaaS applications on Amazon SageMaker",
+      "excerpt": "The AI landscape is being reshaped by the rise of generative models capable of synthesizing high-quality data, such as text, images, music, and videos. The course toward democratization of AI helped to further popularize generative AI following the open-source releases for such foundation model families",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/architect-personalized-generative-ai-saas-applications-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/architect-personalized-generative-ai-saas-applications-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/06/ML-13166-arc-1-1120x630.png",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-09T10:57:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-10-civilengineeringai-to-debut-new-artificial-intelligence-technologies.md",
+      "title": "civilengineering.ai to Debut New Artificial Intelligence Technologies",
+      "excerpt": "New York, New York--(Newsfile Corp. - March 9, 2023) - civilengineering.ai, a tech company working on the application of emerging technologies is utilizing the latest developments in technology to bri",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/03/31284143/civilengineering-ai-to-debut-new-artificial-intelligence-technologies",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/31284143/civilengineering-ai-to-debut-new-artificial-intelligence-technologies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31284143",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31284143",
+      "publishedDateTime": "2023-03-09T10:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-03-10-computer-vision-market-size-worth-usd-2276-billion-in-2032-emergen-research.md",
       "title": "Computer Vision Market Size Worth USD 22.76 Billion in 2032 | Emergen Research",
       "excerpt": "The Computer Vision market size reached USD 11.90 Billion in 2022 and is expected to register a CAGR of 6.7% during the forecast",
@@ -878,284 +1181,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-you-have-no-idea-what-artificial-intelligence-really-does.md",
-      "title": "You Have No Idea What Artificial Intelligence Really Does",
-      "excerpt": "Here it was, finally — a robot plucked straight out of science fiction, the closest thing to true artificial intelligence ... those being developed for self-driving cars, do all their learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/artificial-intelligence-hype",
-      "originalUrl": "https://futurism.com/artificial-intelligence-hype",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2018/10/artificial-intelligence-hype-deception.png",
-          "width": 2400,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T01:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-lt-technology-services-unveils-coe-to-offer-suite-of-automotive-solutions-on-aws.md",
-      "title": "L&T Technology Services Unveils CoE to Offer Suite of Automotive Solutions on AWS",
-      "excerpt": "L&T Technology Services Limited (BSE: 540115, NSE: LTTS), a leading global pure-play engineering services company, today announced a new Centre of Excellence (CoE) in Mysore (Karnataka, India) that leverages the power of the cloud with Amazon Web Services (AWS).",
-      "sourceUrl": null,
-      "webUrl": "https://www.afp.com/en/news/1315/lt-technology-services-unveils-coe-offer-suite-automotive-solutions-aws-202303060059051",
-      "originalUrl": "https://www.afp.com/en/news/1315/lt-technology-services-unveils-coe-offer-suite-automotive-solutions-aws-202303060059051",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T00:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AFP",
-        "domain": "afp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-chatgpt-is-now-available-in-azure-openai-service.md",
-      "title": "ChatGPT is now available in Azure OpenAI Service",
-      "excerpt": "Today, we are thrilled to announce that ChatGPT is available in preview in Azure OpenAI Service. With Azure OpenAI Service, over 1,000 customers are applying the most advanced AI models—including Dall-E 2, GPT-3.5, Codex, and other large language models backed by the unique supercomputing and enterprise",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/chatgpt-is-now-available-in-azure-openai-service/",
-      "originalUrl": "https://azure.microsoft.com/blog/chatgpt-is-now-available-in-azure-openai-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 324,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7aef177b-557f-4544-aa26-746ac23def5d.png",
-          "width": 1200,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T00:00:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-amazon-to-close-8-go-convenience-stores.md",
-      "title": "Amazon to Close 8 Go Convenience Stores",
-      "excerpt": "Amazon is permanently closing eight of its Amazon Go convenience stores. The cashierless stores are located in New York City, Seattle and San Francisco. Two Seattle-based stores have been shut for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/amazon-to-close-8-go-convenience-stores/",
-      "originalUrl": "https://www.cnet.com/tech/amazon-to-close-8-go-convenience-stores/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/df3b82bfbf8a1167ea5c749c1210567ad7c6e42f/hub/2018/10/23/35406819-059b-48ce-ba67-ee4338d4d973/amazon-go-san-francisco-opening-02042.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazon-to-close-8-go-convenience-stores/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-to-close-8-go-convenience-stores/",
-      "publishedDateTime": "2023-03-08T21:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-sales-of-countrys-first-manga-made-with-neural-net-use-starts-in-japan.md",
-      "title": "Sales of country’s first manga made with neural net use starts in Japan",
-      "excerpt": "The author of the Cyberpunk Momotaro shared impressions of the process of creating the manga with the aid of the neural network. \"The artificial intelligence does not always create an image ...",
-      "sourceUrl": null,
-      "webUrl": "https://tass.com/world/1586259",
-      "originalUrl": "https://tass.com/world/1586259",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://phototass3.cdnvideo.ru/width/1080_4713ca57/tass/m2/en//uploads/i/20230309/1384257.jpg",
-          "width": 1080,
-          "height": 687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tass.com/world/1586259/amp",
-      "cdnAmpWebUrl": "https://tass-com.cdn.ampproject.org/c/s/tass.com/world/1586259/amp",
-      "publishedDateTime": "2023-03-08T20:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TASS",
-        "domain": "tass.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-machine-learning-in-finance-market-trade-research-report-2023-2028.md",
-      "title": "Machine Learning in Finance Market Trade Research Report 2023-2028",
-      "excerpt": "Pages] Top “Machine Learning in Finance Market” Size 2023 Key players Profiled in the Report are [, Ignite Ltd ,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-finance-market-trade-research-report-2023-2028-2023-03-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-finance-market-trade-research-report-2023-2028-2023-03-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-08T19:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

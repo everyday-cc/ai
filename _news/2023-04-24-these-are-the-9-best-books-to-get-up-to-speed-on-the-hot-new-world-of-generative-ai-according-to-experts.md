@@ -151,6 +151,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Growth of generative AI is leading to change moment for DevOps"
+    excerpt: "The role of data in DevOps is changing, facilitated by the introduction of powerful new generative artificial intelligence engines such as ChatGPT. The success of DevOps in modern, cloud-native environments has given rise to platform engineering,"
+    publishedDateTime: 2023-04-25T15:59:00Z
+    webUrl: "https://siliconangle.com/2023/04/25/growth-generative-ai-leading-change-moment-devops-kubecon/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/Mohan-et-al.jpg"
+        width: 986
+        height: 657
+        isCached: true
 
 secured: "bz6RKmz6L6FuSdC08Ts/BLjWud/hypzhqtab91DwMr4Q5+OnKokSbEWklY2J3+foDccfv7YGUjn7lmTutqKKg1w0ww6ihwvKPs5ggXXm0trmLvV75KV470+aG3CTNbCgFLE2zaI5iN2vHz/aQglAjYcyIPFm5T1I2hqBDEiBdWiPnnwVIRueXSgGxJAel4eG2YVBUlcB/vdSHLvJOV95W9RSz+RMLOuVmoHprR56uMHEC20QkfjaM9amnQtFWWWdHbf8qhyGavGa1DXK7mezS8Xps55xxAQI5p3CnmPdwhmIAtXfPEYvz12WlzHUFJrTFmIN1vUFl/kbCzqDkypZwfY5vMnfEdIRhONyHakbOS0=;yzO8Gq6ylZQ23Wr6NS3ppQ=="
 ---

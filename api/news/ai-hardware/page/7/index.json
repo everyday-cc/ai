@@ -2,6 +2,83 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-02-08-nvidia-certified-gpu-servers-and-clusters-integrated-with-nvidia-quantum-2-infiniband-networking-platform-from-koi-computers.md",
+      "title": "Nvidia-Certified GPU Servers and Clusters Integrated with Nvidia Quantum-2 Infiniband Networking Platform from Koi Computers",
+      "excerpt": "Koi Computers, one of the nation's leading turnkey providers of HPC solutions and a Preferred NVIDIA Solution Provider, will be providing AI developers and scientific researchers with the fastest networking performance available as they integrate NVIDIA's latest technology into their XTremeAI Series of NVIDIA-Certified GPU servers and HPC clusters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-nvidia-certified-gpu-servers-clusters-integrated-with-nvidia-/2023/02/08/9757303.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-nvidia-certified-gpu-servers-clusters-integrated-with-nvidia-/2023/02/08/9757303.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T07:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-08-chatgpt-has-investors-scrambling-to-get-on-the-ai-bandwagon-so-much-that-obscure-stocks-are-soaring-just-like-big-name-chip-companies.md",
+      "title": "ChatGPT has investors scrambling to get on the AI bandwagon so much that obscure stocks are soaring just like big-name chip companies",
+      "excerpt": "A smattering of companies with exposure to AI technology have seen their shares surge in recent ... The hype surrounding the bots has pushed well-known chip stocks like Nvidia, Mobileye, and Ambarella higher to start 2023. But more obscure names are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chatgpt-investors-ai-bandwagon-oleary-shark-tank-stock-market-openai-2023-2",
+      "originalUrl": "https://www.businessinsider.com/chatgpt-investors-ai-bandwagon-oleary-shark-tank-stock-market-openai-2023-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T03:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-08-ai-designed-chips-reach-scale-with-first-100-commercial-tape-outs-using-synopsys-technology.md",
       "title": "AI-designed chips reach scale with first 100 commercial tape-outs using Synopsys technology",
       "excerpt": "Synopsys, Inc. reaches scale for AI-driven chip designs as major semiconductor customers register the first 100 commercial tape-outs with the company's Synopsys DSO.ai (Design Space Optimization AI) autonomous design system. Recent customers, including ...",
@@ -1139,83 +1216,6 @@
       "provider": {
         "name": "MediaPost",
         "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-04-how-smart-are-ai-chips-really.md",
-      "title": "How Smart Are AI Chips, Really?",
-      "excerpt": "But this is Hackaday, so we’re also going to dig into the guts of some AI chips, including the Kendryte K210 and see how the hardware of today fits into our Glorious Future. Targeted towards ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
-      "originalUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-04-nvidia-geforce-rtx-3090-vs-3080-vs-3070-vs-3060-which-gpu-should-you-buy.md",
-      "title": "Nvidia GeForce RTX 3090 vs 3080 vs 3070 vs 3060: Which GPU should you buy?",
-      "excerpt": "they all make use of Nvidia DLSS (sort of an AI upscaler for games). Nvidia FreeStyle, ShadowPlay, Highlights, G-Sync and GPU boost work on all of the 30-series cards. They’re all VR-ready ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/news/nvidia-geforce-rtx-comparison",
-      "originalUrl": "https://www.tomsguide.com/news/nvidia-geforce-rtx-comparison",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Gru9o9nvXb8cqNkVoUc4wH-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-03T10:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
         "images": null,
         "publishers": null,
         "authors": null

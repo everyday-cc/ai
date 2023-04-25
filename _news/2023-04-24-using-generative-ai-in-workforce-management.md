@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-gene
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -149,6 +149,20 @@ related:
       - url: "https://www.berlin.de/binaries/asset/image_assets/8171261/ratio_4_3/1682428664/800x600/"
         width: 800
         height: 600
+        isCached: true
+  - title: "Growth of generative AI is leading to change moment for DevOps"
+    excerpt: "The role of data in DevOps is changing, facilitated by the introduction of powerful new generative artificial intelligence engines such as ChatGPT. The success of DevOps in modern, cloud-native environments has given rise to platform engineering,"
+    publishedDateTime: 2023-04-25T15:59:00Z
+    webUrl: "https://siliconangle.com/2023/04/25/growth-generative-ai-leading-change-moment-devops-kubecon/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/Mohan-et-al.jpg"
+        width: 986
+        height: 657
         isCached: true
 
 secured: "26sX8WA015ErxpNYk+sMRqTKXOGmfqxFx1mhMr85YPb1nsBCHfO0CndTONdOSZCaH7QxvOhOQiOwsk3Y2A04uQbymDQl7rwDRyvkeTlJkFoQOnaWWAaVZQYUp6h96QOoAsAhooX2tVYsgYhwwV0fa6Nvh3MC2nzEJaEK0yxdvwzwi0Ot8pQvQVRt5O54QHxYNwa96fr7YBdx746cDgRJ7MM/Ak4u1NAlNAmGoLh8vald1YAT+b3I2vA/UHxW65kOhT+pUAKRB+ixD7gHYPpgBOOgovQoAPz6LTks7pz9/RkDB/7+hyzUwuOsXA8V0mufRmYuQnIHQF1oYopxSGR0nVQBDSoy74vxsfIwDJpwB48=;zUS4QUiawJrMDKalHEhOQA=="

@@ -2,6 +2,273 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2023-02-09-researchers-review-deep-learning-based-methods-to-detect-time-series-data-anomaly.md",
+      "title": "Researchers review deep learning-based methods to detect time series data anomaly",
+      "excerpt": "This is known as \"anomaly detection\" and is performed using data mining techniques. Although deep learning methods have been extensively applied in anomaly detection, there is no one-size-fits-all technique that works for multiple applications across a ...",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-02-deep-learning-based-methods-series-anomaly.html",
+      "originalUrl": "https://techxplore.com/news/2023-02-deep-learning-based-methods-series-anomaly.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/chung-ang-university-r-2.jpg",
+          "width": 940,
+          "height": 518,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-02-deep-learning-based-methods-series-anomaly.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-deep-learning-based-methods-series-anomaly.amp",
+      "publishedDateTime": "2023-02-08T14:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-google-shows-off-ai-advancements-in-search-results-and-beyond.md",
+      "title": "Google Shows Off AI Advancements, in Search Results and Beyond",
+      "excerpt": "Next month, Google said it will begin onboarding developers to interact with its generative language ... AI-powered text search, Google introduced a whole suite of other improvements and expansions to existing features in visual search, Maps, and translation.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/google-ai-bard-maps-chatgpt-microsoft-1850087406",
+      "originalUrl": "https://gizmodo.com/google-ai-bard-maps-chatgpt-microsoft-1850087406",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8d07e7fe131d628a3da602b3f6730e1e.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T13:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-artificial-intelligence-is-being-studied-to-improve-cancer-care.md",
+      "title": "Artificial Intelligence is being studied to improve cancer care",
+      "excerpt": "BOSTON - Artificial intelligence has been in the headlines a lot recently and there are two new ways it's being studied to help improve lung and breast cancer care. Lung cancer kills more people worldwide than the three next deadliest cancers combined ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/boston/news/artificial-intelligence-studied-improve-cancer-care/",
+      "originalUrl": "https://www.cbsnews.com/boston/news/artificial-intelligence-studied-improve-cancer-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T13:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-chinas-baidu-plans-to-launch-chatgpt-style-bot-ernie-in-march-company.md",
+      "title": "China's Baidu plans to launch ChatGPT – style bot ERNIE in March: company",
+      "excerpt": "Chinese tech company Baidu is expected to launch a ChatGPT ... It has been investing heavily in AI for years in the fields of self-driving cars and chips designed to power AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.globaltimes.cn/page/202302/1285002.shtml",
+      "originalUrl": "https://www.globaltimes.cn/page/202302/1285002.shtml",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-02-14/316f6ff6-300c-4027-aa88-47f45fb38bc0.jpeg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T13:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global Times",
+        "domain": "globaltimes.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-dont-roll-your-eyes-ai-isnt-just-another-doomed-tech-fad.md",
+      "title": "Don’t roll your eyes — AI isn’t just another doomed tech fad",
+      "excerpt": "Companies like Google and Microsoft are simply pulling back the curtain on the AI that’s been powering their services for several years ... a professor and researcher of cognitive computer science at UC Berkely, revealed half a dozen inputs that would ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/ai-wont-fade-away-like-a-tech-fad/",
+      "originalUrl": "https://www.digitaltrends.com/computing/ai-wont-fade-away-like-a-tech-fad/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/01/chatgpt-life-after-death.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/ai-wont-fade-away-like-a-tech-fad/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/ai-wont-fade-away-like-a-tech-fad/?amp",
+      "publishedDateTime": "2023-02-08T12:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-report-outlines-artificial-intelligence-cyber-risks-solutions-for-health-care.md",
+      "title": "Report outlines artificial intelligence cyber risks, solutions for health care",
+      "excerpt": "A new white paper from the Healthcare and Public Health Sector Coordinating Council (HSCC), a public-private partnership to mitigate risks to the sector, outlines nine cybersecurity concerns for artificial intelligence use in the clinical and enterprise ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aha.org/news/headline/2023-02-08-report-outlines-artificial-intelligence-cyber-risks-solutions-health-care",
+      "originalUrl": "https://www.aha.org/news/headline/2023-02-08-report-outlines-artificial-intelligence-cyber-risks-solutions-health-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aha.org/sites/default/files/2018-07/cybersecurity-hand-lock-graphic_900x400.jpg",
+          "width": 900,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T12:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "aha.org",
+        "domain": "aha.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-ai-is-about-to-make-google-translate-a-whole-lot-smarter.md",
       "title": "AI is about to make Google Translate a whole lot smarter",
       "excerpt": "The company will be bringing in additional context to translations to help you understand more about your target language, and it’ll also be using a lot more AI power for Translate to make that ...",
@@ -863,246 +1130,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-climbing-robot-performs-leading-edge-blade-repair-in-the-field.md",
-      "title": "Climbing robot performs leading-edge blade repair in the field",
-      "excerpt": "Leading-edge blade damage can compromise the aerodynamic performance of a wind turbine by up to 3%. Following five years of development, and drawing on the experience of a small team of mechanical, electronic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.windtech-international.com/product-news/climbing-robot-performs-leading-edge-blade-repair-in-the-field",
-      "originalUrl": "https://www.windtech-international.com/product-news/climbing-robot-performs-leading-edge-blade-repair-in-the-field",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.windtech-international.com/images/stories/Features/2023Features/JanFeb23Images/roperobotics-fig-1.jpg",
-          "width": 450,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T01:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windtech International",
-        "domain": "windtech-international.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-intellect-design-arena-gains-on-collaborating-with-aws.md",
-      "title": "Intellect Design Arena gains on collaborating with AWS",
-      "excerpt": "AWS will accelerate Intellect's go-to-market strategy around co-build, co-market, and co-sell for IntellectAI, the insurance and wealth line of business, with Artificial Intelligence products designed for commercial underwriting, wealth and capital markets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/news-cm/intellect-design-arena-gains-on-collaborating-with-aws-123020801323_1.html",
-      "originalUrl": "https://www.business-standard.com/article/news-cm/intellect-design-arena-gains-on-collaborating-with-aws-123020801323_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/news-cm/intellect-design-arena-gains-on-collaborating-with-aws-123020801323_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/intellect-design-arena-gains-on-collaborating-with-aws-123020801323_1.html",
-      "publishedDateTime": "2023-02-08T01:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-appsquadz-takes-the-stage-as-a-proud-sponsor-at-the-aws-empower-india-summit-in-hyderabad.md",
-      "title": "Appsquadz Takes The Stage As A Proud Sponsor At The AWS Empower India Summit In Hyderabad",
-      "excerpt": "AppSquadz is a leading technology solutions provider that offers a range of services, including cloud computing and web & mobile app development",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105541702/Appsquadz-Takes-The-Stage-As-A-Proud-Sponsor-At-The-AWS-Empower-India-Summit-In-Hyderabad",
-      "originalUrl": "https://menafn.com/1105541702/Appsquadz-Takes-The-Stage-As-A-Proud-Sponsor-At-The-AWS-Empower-India-Summit-In-Hyderabad",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?892040",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T01:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-self-driving-cars-would-be-a-climate-disaster.md",
-      "title": "Self-driving cars would be a climate disaster",
-      "excerpt": "Self-driving cars have an emissions problem. A recent study by researchers at the Massachusetts Institute of Technology measured the energy consumed by powerful onboard computers that serve as the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fastcompany.com/90846919/self-driving-cars-would-be-a-climate-disaster",
-      "originalUrl": "https://www.fastcompany.com/90846919/self-driving-cars-would-be-a-climate-disaster",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T00:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fast Company",
-        "domain": "fastcompany.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-smartphone-vision-syndrome-hyderabad-woman-suffers-blindness-after-spending-hours-on-phone.md",
-      "title": "Smartphone vision syndrome: Hyderabad woman suffers blindness after spending hours on phone",
-      "excerpt": "Long-term use of devices such as computers, smartphones, or tablets can cause various eye-related disabling symptoms, referred to as computer vision syndrome (CVS) or digital vision syndrome ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/trends/smartphone-vision-syndrome-woman-suffers-blindness-after-spending-hours-on-phone-10030421.html",
-      "originalUrl": "https://www.moneycontrol.com/news/trends/smartphone-vision-syndrome-woman-suffers-blindness-after-spending-hours-on-phone-10030421.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/02/Collage-Maker-08-Feb-2023-01.34-PM-770x435.jpg",
-          "width": 770,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/trends/smartphone-vision-syndrome-woman-suffers-blindness-after-spending-hours-on-phone-10030421.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/smartphone-vision-syndrome-woman-suffers-blindness-after-spending-hours-on-phone-10030421.html/amp",
-      "publishedDateTime": "2023-02-08T00:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-aws-announces-aws-space-accelerator-2023-to-promote-global-space-sustainability.md",
-      "title": "AWS announces AWS Space Accelerator 2023 to promote global space sustainability",
-      "excerpt": "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/aws-announces-aws-space-accelerator-2023-to-promote-global-space-sustainability-sg2nmcra",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/aws-announces-aws-space-accelerator-2023-to-promote-global-space-sustainability-sg2nmcra",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/aws-announces-aws-space-accelerator-2023-to-promote-global-space-sustainability-sg2nmcra?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/aws-announces-aws-space-accelerator-2023-to-promote-global-space-sustainability-sg2nmcra?amp=1",
-      "publishedDateTime": "2023-02-07T23:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/04/24/grimes-tells-fa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/04/24/grimes-tells-fans-to-deepfake-drake-her-welcomes-collaboration-with-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Republicans Share An Apocalyptic AI-Powered Attack Ad Against Biden: Here’s How To Spot A Deepfake"
+    excerpt: "Deepfakes first came about in 2017 after a Reddit user posted pornography with the adult actors’ faces swapped for the faces of celebrities."
+    publishedDateTime: 2023-04-25T16:26:00Z
+    webUrl: "https://www.forbes.com/sites/ariannajohnson/2023/04/25/republicans-share-an-apocalyptic-ai-powered-attack-ad-against-biden-heres-how-to-spot-a-deepfake/"
+    ampWebUrl: "https://www.forbes.com/sites/ariannajohnson/2023/04/25/republicans-share-an-apocalyptic-ai-powered-attack-ad-against-biden-heres-how-to-spot-a-deepfake/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ariannajohnson/2023/04/25/republicans-share-an-apocalyptic-ai-powered-attack-ad-against-biden-heres-how-to-spot-a-deepfake/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 73
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641dfb1c54068a83394ff5b7/0x0.jpg?format=jpg&crop=1291,727,x153,y119,safe&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "How artificial intelligence is being used to create ‘deepfakes’ online"
     excerpt: "As technology grows more sophisticated, so does the potential for deception. Last month, images went viral that purported to show police arresting Donald Trump and the former president in an orange prisoner’s jumpsuit — but they were fakes."
     publishedDateTime: 2023-04-23T21:40:00Z

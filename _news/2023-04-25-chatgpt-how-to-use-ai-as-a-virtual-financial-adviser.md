@@ -1,22 +1,31 @@
 ---
 category: news
-title: "ChatGPT: how to use AI as a virtual financial adviser"
-excerpt: "From chatbots and virtual assistants to fraud detection and risk management artificial intelligence AI is now being used in many areas of finance"
-publishedDateTime: 2023-04-24T19:25:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/273781297/chatgpt-how-to-use-ai-as-a-virtual-financial-adviser"
-webUrl: "https://www.bignewsnetwork.com/news/273781297/chatgpt-how-to-use-ai-as-a-virtual-financial-adviser"
+title: "ChatGPT: How to use AI as a virtual financial adviser"
+excerpt: "From chatbots and virtual assistants to fraud detection and risk management, artificial intelligence (AI) is now being used in many areas of finance. But what could an AI system like ChatGPT do for your bank balance?"
+publishedDateTime: 2023-04-25T16:50:00Z
+originalUrl: "https://techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.html"
+webUrl: "https://techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.html"
+ampWebUrl: "https://techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-chatgpt-ai-virtual-financial.amp"
 type: article
-quality: 19
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - AI in Finance
   - AI
+  - Natural Language Processing
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-how-to-use-ai.jpg"
+    width: 1356
+    height: 668
+    isCached: true
 
 related:
   - title: "Here’s How ChatGPT Can Either Enhance Customer Service Or Brutally Undermine The Customer Experience, Warns AI Ethics And AI Law"
@@ -36,6 +45,6 @@ related:
         height: 799
         isCached: true
 
-secured: "wIjJR/U9PkmxokxT+ad/Bjkqez59a57wciYxN+QccQm4PNqyj34sNELTV0w1mR1mLbnuXIxoztZvvYdv81qoXfOxo3RyT84FWvCXPljRUpUzVO6FM3ff9Ih+rnEyti6y4hNZfRAKu2W2SF3Qjl+8V/aM9ry7Q8K6xWRzSq4fQVRApLN6taySowfic4aOZQRKcMpZUxWKOvhUX2YZHBb0ojSHq9wLssAzUdaDzI3JZIxDITIHEqyQ1/0CcRPGAmCCxL1QvWxL1H91E94tbhwQT/1g1h+gbeXcR0F01fe8Cl4q02auYjTU6YXkBAddtkO5bLBUFp+O2Bho39Nn2Mxbi/a4Ns+1SmZrUfhrCnrLF+E+vU5AUO5pJBHgTMIz5C0okEFiFlcSI9lF4O9jvpeOg8OcjFyk1lw9H2hSW4nKIUnA+DXmu2yrcnAQJiNo8HGP+J0W3+OqviP7L7ft4putjKaKvq3VCwL1JlsKt1zJBRSaTzlP/cizkmrDbq+IEr4InFSaOsuznetoYWEbq3rwyw==;P4cfyMI+oyZzhr7Q2eVRYA=="
+secured: "8lSOl1IdM2MfOjXKDngx6+HOpiwEXaT1RVEXUcSwFB7mkayaLalwHF01sIeRH1C6rkd7+kR+5YtOKMY1vocQUeqM17w0xw+Zrd00shh19+7Qa8TD/haglYIH41QiOmXH3uyWha1+wjLLjaS7Lof47EDNJ+ZAr3+SBC+Fh8dvI9eTGj/ay7x7zExvbamKzIVzwFRBuBOlpio2x6BZIwGFN0infUrkXARxnAF7yv8s3D0wpoO0F+SzpOEYOPgfaydhFRA5/pPFXNjgOVAb6Bjv8S57nF1s5+xfNI4CmUiq2HPx2hAMj/xbRrOPXd9L9AjZ+gouuIBOlw+0NY4VvCMxuCB2DybnbzSpSThiTxf5JXM=;AGajtuzdy7Fx77ZcDLQ6sQ=="
 ---
 

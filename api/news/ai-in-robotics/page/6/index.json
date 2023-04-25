@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-03-07-will-a-robot-take-your-job-study-reveals-the-careers-that-face-the-highest-risk-of-being-replaced-by-ai-with-call-centre-workers-english.md",
+      "title": "Will a robot take YOUR job? Study reveals the careers that face the highest risk of being replaced by AI - with call centre workers, English and History teachers topping the list",
+      "excerpt": "They did this by linking 10 AI-powered applications, like translation, language modelling and image generation, to 52 human abilities, like oral comprehension and arm-hand steadiness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11829623/Will-robot-job-Study-reveals-careers-highest-risk-replaced-AI.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11829623/Will-robot-job-Study-reveals-careers-highest-risk-replaced-AI.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2023/03/07/10/68416473-0-image-a-12_1678183239425.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11829623/amp/Will-robot-job-Study-reveals-careers-highest-risk-replaced-AI.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11829623/amp/Will-robot-job-Study-reveals-careers-highest-risk-replaced-AI.html",
+      "publishedDateTime": "2023-03-07T02:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-03-07-healthcare-robotics-engineering-forum-full-conference-agenda.md",
       "title": "Healthcare Robotics Engineering Forum full conference agenda",
       "excerpt": "The Healthcare Robotics Engineering Forum announced its full conference agenda for the May 10-11 2023 event at the Boston Convention and Exhibition Center.",
@@ -1306,49 +1350,6 @@
         "AI",
         "AI in Robotics",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-02-20-quantum-ai-australia-reviews-2023-scam-trading-app.md",
-      "title": "Quantum AI Australia Reviews 2023 – Scam Trading App?",
-      "excerpt": "Quantum AI Australia states that it uses technical analysis, trend-following methods, and machine learning algorithms to generate profits. The users have to create a free account in order to use the robot’s services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/business-spotlight/quantum-ai-australia-reviews-2023-scam-trading-app--news-263645",
-      "originalUrl": "https://www.outlookindia.com/business-spotlight/quantum-ai-australia-reviews-2023-scam-trading-app--news-263645",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1676885088.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/business-spotlight/quantum-ai-australia-reviews-2023-scam-trading-app--news-263645/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/quantum-ai-australia-reviews-2023-scam-trading-app--news-263645/amp",
-      "publishedDateTime": "2023-02-20T01:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

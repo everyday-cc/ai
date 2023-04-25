@@ -2,6 +2,230 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2023-02-07-pinecone-now-available-on-aws-marketplace-and-gcp-marketplace.md",
+      "title": "Pinecone now available on AWS Marketplace and GCP Marketplace",
+      "excerpt": "The announcement comes as Pinecone has seen tremendous growth in recent months as machine learning models such as GPT-3 have become more widely used. Pinecone provides critical infrastructure to use these models in useful and meaningful ways,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/02/06/9755563.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/02/06/9755563.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T09:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-bigbearai-bounces-higher-on-institutional-speculation-in-artificial-intelligence.md",
+      "title": "BigBear.ai Bounces Higher on Institutional Speculation in Artificial Intelligence",
+      "excerpt": "Facebook just reached the milestone ... For instance, while analysts at Grand View Research anticipates that the global AI industry will expand at a compound annual growth rate of 37.3% between ...",
+      "sourceUrl": null,
+      "webUrl": "https://247wallst.com/investing/2023/02/06/bigbear-ai-bounces-higher-on-institutional-speculation-in-artificial-intelligence/",
+      "originalUrl": "https://247wallst.com/investing/2023/02/06/bigbear-ai-bounces-higher-on-institutional-speculation-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://247wallst.com/wp-content/uploads/2021/12/imageForEntry10-kzI.jpg?w=400",
+          "width": 400,
+          "height": 224,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://247wallst.com/investing/2023/02/06/bigbear-ai-bounces-higher-on-institutional-speculation-in-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/02/06/bigbear-ai-bounces-higher-on-institutional-speculation-in-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-02-06T09:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "24/7 Wall St",
+        "domain": "247wallst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-implementing-ai-into-enterprise-search-to-make-it-smarter.md",
+      "title": "Implementing AI into Enterprise Search to Make It Smarter",
+      "excerpt": "In this sponsored post, our friends over at Sinequa share how the advent of AI, enterprise search has transformed into intelligent search, precisely as was envisaged. This has far-reaching consequences on customer experience and,",
+      "sourceUrl": null,
+      "webUrl": "https://insidebigdata.com/2023/02/06/implementing-ai-into-enterprise-search-to-make-it-smarter/",
+      "originalUrl": "https://insidebigdata.com/2023/02/06/implementing-ai-into-enterprise-search-to-make-it-smarter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T09:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insidebigdata.com",
+        "domain": "insidebigdata.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-mixed-reactions-as-australias-nsw-politicians-eye-facial-recognition-for-gaming-industry.md",
+      "title": "Mixed reactions as Australia’s NSW politicians eye facial recognition for gaming industry",
+      "excerpt": "What the politicians are unclear about, however, is which facial recognition technology providers they intend to contract.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202302/mixed-reactions-as-australias-nsw-politicians-eye-facial-recognition-for-gaming-industry",
+      "originalUrl": "https://www.biometricupdate.com/202302/mixed-reactions-as-australias-nsw-politicians-eye-facial-recognition-for-gaming-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-are-robots-coming-to-replace-us-4-jobs-artificial-intelligence-cant-outcompete-yet.md",
+      "title": "Are Robots Coming to Replace Us? 4 Jobs Artificial Intelligence Can't Outcompete (Yet!)",
+      "excerpt": "Is artificial intelligence (AI) evolving to make our lives easier? I believe the answer is that it is a bit of both in the long run, but there is no need to panic for now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/leadership/4-jobs-where-artificial-intelligence-cant-outcompete-you/443708",
+      "originalUrl": "https://www.entrepreneur.com/leadership/4-jobs-where-artificial-intelligence-cant-outcompete-you/443708",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-microsofts-5-latest-updates-on-data-security.md",
+      "title": "Microsoft’s 5 Latest Updates On Data Security",
+      "excerpt": "Microsoft announced product updates for its data security platform, Microsoft Purview, including a new cybersecurity tool for prevention of insider threats and updates to its DLP solution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/security/microsoft-s-5-latest-updates-on-data-security",
+      "originalUrl": "https://www.crn.com/news/security/microsoft-s-5-latest-updates-on-data-security",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-ai-startup-cohere-in-talks-to-raise-funding-at-6b-plus-valuation.md",
       "title": "AI startup Cohere in talks to raise funding at $6B plus valuation",
       "excerpt": "Cohere, established by former researchers at Alphabet in 2019, has quickly risen through the AI startup ranks given their intensive research background and close ties to Google.",
@@ -722,235 +946,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-silicom-reports-continued-edge-networking-momentum-design-win-with-leading-provider-of-ip-voice-solutions.md",
-      "title": "Silicom Reports Continued Edge Networking Momentum: Design Win With Leading Provider of IP Voice Solutions",
-      "excerpt": "Silicom Ltd. (NASDAQ: SILC), a leading provider of networking and data infrastructure solutions, today announced that it has secured its first Design Win with a leading provider of enterprise voice solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/02/06/9755296.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/02/06/9755296.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T06:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-latent-technology-raises-21m-to-bring-generative-ai-to-video-games.md",
-      "title": "Latent Technology raises $2.1M to bring generative AI to video games",
-      "excerpt": "Latent Technology, a U.K.-based startup that’s building AI-based tech for developing video games, has raised $2.1 million in pre-seed funding led by Root Ventures and Spark Capital, with Bitkraft also participating.",
-      "sourceUrl": null,
-      "webUrl": "https://www.axios.com/2023/02/06/latent-technology-21-million-generative-ai-video-games",
-      "originalUrl": "https://www.axios.com/2023/02/06/latent-technology-21-million-generative-ai-video-games",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T06:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Axios",
-        "domain": "axios.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-openai-release-classifier-to-identify-text-written-by-ai.md",
-      "title": "OpenAI Release Classifier to Identify Text Written by AI",
-      "excerpt": "A new tool can reveal whether writing has been made by a human or AI. The tool could help mitigate disputes and identify misinformation.",
-      "sourceUrl": null,
-      "webUrl": "https://techreport.com/software/3491131/openai-release-classifier-to-identify-text-written-by-ai/",
-      "originalUrl": "https://techreport.com/software/3491131/openai-release-classifier-to-identify-text-written-by-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tech Report",
-        "domain": "techreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-big-tech-companies-use-cloud-computing-arms-to-pursue-alliances-with-ai-groups.md",
-      "title": "Big Tech companies use cloud computing arms to pursue alliances with AI groups",
-      "excerpt": "The deal cemented Microsoft’s position as exclusive infrastructure provider to one of the world’s leading AI startups. Chief executive Satya Nadella claimed that Microsoft had built a supercomputer to handle the OpenAI work,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2023/02/big-tech-companies-use-cloud-computing-arms-to-pursue-alliances-with-ai-groups/2/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2023/02/big-tech-companies-use-cloud-computing-arms-to-pursue-alliances-with-ai-groups/2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T06:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-breaking-news-competegg-reveals-artificial-intelligence-roadmap-and-2023-growth-initiatives.md",
-      "title": "Breaking News: Compete.gg reveals artificial intelligence roadmap and 2023 growth initiatives",
-      "excerpt": "Since rebranding our Compete.gg platform last Spring, we have increased the number of game titles and enhanced the platform functionalities, allowing us to more than double the number of users,” said Leigh Hughes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/breaking-news-compete-gg-reveals-artificial-intelligence-roadmap-and-2023-growth-initiatives/",
-      "originalUrl": "https://www.financialbuzz.com/breaking-news-compete-gg-reveals-artificial-intelligence-roadmap-and-2023-growth-initiatives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T06:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-google-chrome-browser-gets-nvidia-rtx-gpu-tech-that-could-revolutionize-netflix-viewing.md",
-      "title": "Google Chrome browser gets Nvidia RTX GPU tech that could revolutionize Netflix viewing",
-      "excerpt": "Like DLSS, RTX Video Super Resolution (VSR) uses AI to upscale the footage and can ... Those with an RTX 2000 family GPU aren’t able to benefit – at least not initially (we’ll come back ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/google-chrome-browser-gets-nvidia-rtx-gpu-tech-that-could-revolutionize-netflix-viewing",
-      "originalUrl": "https://www.techradar.com/news/google-chrome-browser-gets-nvidia-rtx-gpu-tech-that-could-revolutionize-netflix-viewing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Bb49HmrSaaKB2AstTQAioW-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

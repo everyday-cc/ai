@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/yellow-ai-launches-dynamic-automation-pla
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/yellow-ai-launches-dynamic-automation-platform-powered-by-generative-ai-for-enterprises/amp/"
 type: article
 quality: 79
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     height: 652
     isCached: true
 
-secured: "2k4N962cPSHbF+EEKws7qnQfuQvMp1pSXl869/vn/HYZbtnC1IUN8BB3r+/nEK/og/eg3yZRCAiZIyPpPmqLiRr61jET31XM5m+pOhzgbrTlphRW+ITyqsfSeJrc8hfkrujEXc0BRgrmCiRlmKK241Yh9hyF/w/e3n8geac4U5yLvmh2nzDFC2ucLx48y3DkOh17M0S6hSejtUMwBWjPZ8H6Cjod5g7VpiGifDyxATVH0ClZUAVdhHZ5RPxNQbzT/V34wj6w/fXpJwdGMu/zYKHc/nmP6HmtQZvHOsrgf7YBxeJJO9lcxxvrjDVQSN4j69eGR4jcI7xOH07heDBv98brlM4+Mk1Zkuvh9Ed4z5c=;KfFhMy7QfkvEi5zfUwVxRw=="
+related:
+  - title: "Yellow.ai launches Dynamic Automation Platform (DAP) with Generative AI, unveils new logo"
+    excerpt: "Yellow.ai, a global leader in Conversational AI, today announced the launch of its Dynamic Automation Platform (DAP), powered by generative AI, that enables enterprises to automate customer and employee experiences at scale with 60% reduction in their operational costs."
+    publishedDateTime: 2023-04-25T16:55:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/04/25/9801543.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 30
+    images:
+      - url: "https://mma.prnewswire.com/media/2061615/Yellow_ai_launches_Dynamic_Automation.jpg"
+        width: 400
+        height: 400
+        isCached: true
+
+secured: "1bG3UFUhN7lGzuBQYQSpkSDYcNahL8oXuO+P/2iN2OZF/JYDG/WNEoTHNAcvL7B+fW2RR8q3Z+1tXVbFDX23YRBeKQPnTLOeuhzkf0D1vJfhSOxmo9or/Yko5JRVUWYReAnFA+tBuJAGBZkQ1hCOL8cjbxGspk4WOr5f09lZLuAU4y575VEh+DGqlcFMRpslIDWlIxGJQstMjRBazqMsB/CMh2CqtUdOZ9KsIcrZsuf+ps1Xr7bCeKk5yOuKKWc4TQrXq1XLmIC2VCFAJqfMqZujEd17tdBasrovwnl6LT5YjIXTlI8OeBSfyziTzCAG9CTI2/zVIarM81wLWDzAZFciqcLVvJ9INwUFydq6IX2AF81qhwF4ZiPcnuCCCK0VIEIIlN/fPUhOTTE93dlHG9mz7dvlwtq8W3McHy6nb832WhJNE7377HwPuHEg4gKMa0xRETGXb9UkoZPImoKr93sTi2EP5iN/B+WSyoe3nM5WcLsZ91yp8CyBIUQn1Uvq1cnF7ySTn3iL9rgjBHJn3A==;z0wwdKVEOuB+WS6VQfUtyA=="
 ---
 

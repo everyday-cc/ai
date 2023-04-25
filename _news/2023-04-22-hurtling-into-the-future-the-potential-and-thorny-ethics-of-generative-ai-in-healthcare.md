@@ -7,7 +7,7 @@ originalUrl: "https://www.healthcaredive.com/news/generative-AI-healthcare-gpt-p
 webUrl: "https://www.healthcaredive.com/news/generative-AI-healthcare-gpt-potential/648104/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI, Robots, and the Inventive Future of White Castle"
+    excerpt: "White Castle has been around 102 years, give a month or two. A journey that began when Billy Ingram and Walter Anderson began dishing square hamburgers for 5 cents apiece. Still family owned, the brand’s guidepost remains nostalgic—“Create Memorable Moments."
+    publishedDateTime: 2023-04-25T16:02:00Z
+    webUrl: "https://www.qsrmagazine.com/exclusives/ai-robots-and-inventive-future-white-castle"
+    type: article
+    provider:
+      name: QSR magazine
+      domain: qsrmagazine.com
+    quality: 54
+    images:
+      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2022-02/WCFlippy.jpg?itok=Op-wfPU2"
+        width: 765
+        height: 446
+        isCached: true
   - title: "Driving into the Future: The Latest Advances in Automotive Security"
     excerpt: "With the increasing cyber threats in the automotive industry, car manufacturers are focusing on developing car security systems to make it more difficult for criminals to steal or take control of a vehicle."
     publishedDateTime: 2023-04-24T12:58:00Z
