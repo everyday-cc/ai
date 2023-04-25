@@ -39,20 +39,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "2023 Face Recognition Technology Market Size Predicted to Boost Growth and Demand by 2030"
-    excerpt: "Apr 20, 2023 (The Expresswire) -- \"Face Recognition Technology Market\" information for each competitor includes (Crossmatch, NEC, Daon, Facefirst"
-    publishedDateTime: 2023-04-20T17:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-face-recognition-technology-market-size-predicted-to-boost-growth-and-demand-by-2030-2023-04-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ewK1Dq60lTmHNcX9PeO6v5AcnnMwJCD4CbU6Ngov5fsW2kjXdXn1HOJrZR9MpR8/nY6SyczGAtx9NmURgrTVs7G9X/v3UGDyL0TCQKy8sCYPBW2eIu98uy80dWFQwjWCNHphNX5yf95jPg7qsL3+Mo/1WiLgZG+Zqk6MBsljSJFwPnTSwP9WHJCtj1FMq1KorDtPA/T8y2MwEVd2LzeHJAFVNAPw8QZ047XeBN0whjh5UTHXGcDK4p30waYFKPrlcLF6QtYkFeilCHVT5HmYs2ws5ofNfIbVW+1JxvZAnwcxPEQqA7bC+iQLqDLyHM809pC2bMusI7h2uEcXICjNm5iDDjmzRmiGg+Da7efIkrc=;039znTfqIxHe5zWxDetZhQ=="
 ---

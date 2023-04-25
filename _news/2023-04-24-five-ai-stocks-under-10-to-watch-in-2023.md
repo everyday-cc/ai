@@ -30,6 +30,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 37
+  - title: "Volvo Cars Tech Fund invests in AI startup"
+    excerpt: "Geely’s Volvo Cars said it had made a “strategic investment” in CorrActions, an Israeli deep tech brain monitoring AI startup which has developed a technology the automaker believes will “disrupt brain activity monitoring and may help us understand drivers even better”."
+    publishedDateTime: 2023-04-25T10:28:00Z
+    webUrl: "https://www.just-auto.com/news/volvo-cars-tech-fund-invests-in-ai-startup/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 37
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2021/04/2020-03-23-10-54-146714_the_allnew_volvo_xc90_cropped_70.jpg"
+        width: 424
+        height: 283
+        isCached: true
 
 secured: "3ndTpaovYoVskMRBnK9ZKTnq/lcA8QX/Y/UyyfuWnR4+54sJ8+JLV0WtRYeh2Ujh2MQeXPtPdx/C0Wr67eCSQee/w3/HKdNhHpwe7CPLKV2b/2ELK4SoMLVXiqJbI1xin0QVb5aLBHaH8hlP8/bcrsIdmOvmaCsEfI2j4h8Z07TyWbVOex1w4wmq9fEIwWxFRmADmNv+TebxcyTdkYeZWZw0dWZ50ZaOQEQBVETBinm8dyCwFUS5OdbaS1XJWq1hql3tfcVjM2tP1jFxbDsQAl4HFRz/K+2NuYk7E0EnLChfGdBhJx//vrTqJt0Jp4i//X/P34+WIM9r17prQOstls3jB73bOvqJdzXZqJImw5M=;jqhcH3MOIVYlXM8nxSCP6Q=="
 ---

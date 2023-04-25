@@ -24,6 +24,22 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "Robots Manufactured to Remove Risks to Humans During Emergencies at Nuclear Plants"
+    excerpt: "REMOTELY operated rescue robots capable of withstanding hazardous environments will make emergency jobs across UK nuclear plants significantly safer and more cost effective."
+    publishedDateTime: 2023-04-25T11:23:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13873"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 33
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_13873_16824216674394709.jpg"
+        width: 2000
+        height: 1219
+        isCached: true
+
 secured: "5hb0eUs7hSSCp/H39h45IBq8fY6lKXoeadoaiIme1sFkmPFiSMw44dee8i5r/4+2dHYFFTi2rOLY4xQ2yBxEuQZDcRFJdPe2275jmFxfQXUmihV/56kOi+U1f1ZYnTLEGq0EVOcP7qzN9uwj6BFegnPAU4JN7SiZAT/iboLJNjqPAqoDzSdLjxGmFx90ovtNJ0BKiDOLFJFYboyYnFbZxiOzVcJeIhMC4dbxHjuMxf+u6Nd4R8kcSCdBdF01lY6eWQ9DGNwyjSU/uuU9aKmA9rvECdb4SOL8CSsW0V9ZLoTUxZixifAKjsHRH8WmgN/l2L1pgdXan7r8RV6xZQ0PsZxXykY1uFo0YW7qXYqjFJ8=;NPwz5CqWfGe8mI4064tLPA=="
 ---
 

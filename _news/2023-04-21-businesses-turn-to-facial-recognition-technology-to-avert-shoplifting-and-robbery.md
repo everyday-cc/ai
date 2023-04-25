@@ -7,7 +7,7 @@ originalUrl: "https://www.foxnews.com/video/6325508060112"
 webUrl: "https://www.foxnews.com/video/6325508060112"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "2023 Face Recognition Technology Market Size Predicted to Boost Growth and Demand by 2030"
-    excerpt: "Apr 20, 2023 (The Expresswire) -- \"Face Recognition Technology Market\" information for each competitor includes (Crossmatch, NEC, Daon, Facefirst"
-    publishedDateTime: 2023-04-20T17:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-face-recognition-technology-market-size-predicted-to-boost-growth-and-demand-by-2030-2023-04-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "We need to have a major debate about facial recognition technology before gardaí can use it"
     excerpt: "First of all, let’s be clear on what we’re talking about. Facial recognition technology (FRT) is a system capable of matching a human face from a digital image or a video frame against a database of faces. Many of us have it enabled as a security ..."
     publishedDateTime: 2023-04-24T01:35:00Z

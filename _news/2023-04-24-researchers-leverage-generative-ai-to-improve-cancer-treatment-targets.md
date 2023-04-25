@@ -35,19 +35,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Generative AI in Healthcare: Advantages, Challenges"
-    excerpt: "While generative artificial intelligence (AI) could benefit the ever-evolving healthcare industry, AI faces challenges in the healthcare sector. With generative AI, healthcare organizations could ..."
-    publishedDateTime: 2023-04-20T17:18:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-in-healthcare/"
+  - title: "What Generative AI Means For The Future Of PR"
+    excerpt: "As someone who works in public relations, where content and communication are the fundamentals of our craft, should I fear what LLMs such as ChatGPT or Google’s BERT (Bidirectional Encoder Representations from Transformers) and other conversational AI tools mean for the future of my profession,"
+    publishedDateTime: 2023-04-25T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-generative-ai-means-for-the-future-of-pr/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-generative-ai-means-for-the-future-of-pr/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-generative-ai-means-for-the-future-of-pr/amp/"
     type: article
     provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.eweek.com/wp-content/uploads/2021/11/joshua-sortino-LqKhnDzSF-8-unsplash-scaled.jpg"
-        width: 1920
-        height: 1283
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f33fae78e26add3d640245e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 836
         isCached: true
 
 secured: "epD7sCtNOTBXn3P9viOOxJyifkK11KX72QJPr/3QM2FJT3eTLTSM62dP5jMlWtkzbtfxH45RdCXzWf19nfXgVa/LRIbkn3bblOtVyTty7z0TLdyrPqiBvPottt52nMxmuY3Lr+8Cm+HJ4N/baIPhAwf/KOf7KnIf2qgBh3DV5EInLLLX6v0HV53PrjaSE5d2pXIMHHxBpk2e3ueqECaK7tYzooa4L1DlMn/lV5WxYvn5DiplVh/LWWSRtxLyYbIjzDqDkZUpz3X/5iVtc+WzWsPnSEV002jdnLTf7RnZy3tOUvkBPprVhvFvA4IpEsoSOTs0LvyJZKCLz4PCHpgh9GJ7T61fbAkgfOJMVcHyR/0=;MtZ4Egnrx15hdlxix5Xk6g=="

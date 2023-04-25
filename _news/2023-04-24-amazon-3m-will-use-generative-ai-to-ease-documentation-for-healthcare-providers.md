@@ -31,19 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI in Healthcare: Advantages, Challenges"
-    excerpt: "While generative artificial intelligence (AI) could benefit the ever-evolving healthcare industry, AI faces challenges in the healthcare sector. With generative AI, healthcare organizations could ..."
-    publishedDateTime: 2023-04-20T17:18:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-in-healthcare/"
+  - title: "What Generative AI Means For The Future Of PR"
+    excerpt: "As someone who works in public relations, where content and communication are the fundamentals of our craft, should I fear what LLMs such as ChatGPT or Google’s BERT (Bidirectional Encoder Representations from Transformers) and other conversational AI tools mean for the future of my profession,"
+    publishedDateTime: 2023-04-25T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-generative-ai-means-for-the-future-of-pr/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-generative-ai-means-for-the-future-of-pr/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-generative-ai-means-for-the-future-of-pr/amp/"
     type: article
     provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.eweek.com/wp-content/uploads/2021/11/joshua-sortino-LqKhnDzSF-8-unsplash-scaled.jpg"
-        width: 1920
-        height: 1283
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f33fae78e26add3d640245e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 836
         isCached: true
   - title: "Researchers Leverage Generative AI to Improve Cancer Treatment Targets"
     excerpt: "Researchers from the University of Texas are studying the use of generative AI for adaptive radiotherapy to better personalize cancer treatments."

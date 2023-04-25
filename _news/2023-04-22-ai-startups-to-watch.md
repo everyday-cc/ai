@@ -20,6 +20,20 @@ topics:
   - AI
 
 related:
+  - title: "Volvo Cars Tech Fund invests in AI startup"
+    excerpt: "Geely’s Volvo Cars said it had made a “strategic investment” in CorrActions, an Israeli deep tech brain monitoring AI startup which has developed a technology the automaker believes will “disrupt brain activity monitoring and may help us understand drivers even better”."
+    publishedDateTime: 2023-04-25T10:28:00Z
+    webUrl: "https://www.just-auto.com/news/volvo-cars-tech-fund-invests-in-ai-startup/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 37
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2021/04/2020-03-23-10-54-146714_the_allnew_volvo_xc90_cropped_70.jpg"
+        width: 424
+        height: 283
+        isCached: true
   - title: "Five AI stocks under $10 to watch in 2023"
     excerpt: "Its value of nearly 100 billion U.S. dollars is expected to grow twentyfold by 2030, up to nearly two trillion U.S. dollarsMany companies are investing in AI technology to gain a competitive edge in their respective markets."
     publishedDateTime: 2023-04-24T12:58:00Z

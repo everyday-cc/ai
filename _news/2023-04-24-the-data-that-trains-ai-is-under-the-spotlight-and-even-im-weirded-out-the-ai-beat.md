@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/the-data-that-trains-ai-is-under-the-spot
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-data-that-trains-ai-is-under-the-spotlight-and-even-im-weirded-out-the-ai-beat/amp/"
 type: article
 quality: 79
-heat: 81
+heat: 79
 published: true
 
 provider:

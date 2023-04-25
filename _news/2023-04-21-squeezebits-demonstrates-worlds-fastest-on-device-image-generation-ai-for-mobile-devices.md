@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 727
         isCached: true
+  - title: "Grimes says anyone can use her voice for AI-generated songs"
+    excerpt: "Grimes has invited musicians to clone her voice using Artificial Intelligence in order to create new songs. The pop singer, whose real name is Claire Boucher, said she would \"split 50% royalties on any successful AI-generated song that uses my voice\"."
+    publishedDateTime: 2023-04-25T10:15:00Z
+    webUrl: "https://www.bbc.com/news/entertainment-arts-65385382?at_campaign_type=owned&at_ptr_name=twitter&at_format=link&at_link_origin=BBCWorld&at_link_id=6A68CC54-E352-11ED-B5C7-E39179448730&at_link_type=web_link&at_bbc_team=editorial"
+    ampWebUrl: "https://www.bbc.com/news/entertainment-arts-65385382.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-65385382.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/CE67/production/_129493825_gettyimages-523637192.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Sales Engagement Software Outplay Launches Next-Gen Features With Regenerative AI"
     excerpt: "Introduces all-in-one multi use-case features that will enable sales teams to achieve their goals across the sales life cycle without the need"
     publishedDateTime: 2023-04-24T15:42:00Z

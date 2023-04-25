@@ -46,6 +46,24 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Stable Diffusion for language? Stability launches open source AI chatbot"
+    excerpt: "Stability AI released a new family of open source AI language models called StableLM. Stability hopes to repeat the catalyzing effects of its Stable Diffusion open source image synthesis model, launched in 2022."
+    publishedDateTime: 2023-04-24T19:20:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/04/stable-diffusion-for-language-stability-launches-open-source-ai-chatbot/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 46
+  - title: "ChatGPT and Generative AI in Payments: Reality, Hype, What's Next, and How to Prepare"
+    excerpt: "ChatGPT is the most talked-about technology of 2023 and has caught the attention of payments services providers."
+    publishedDateTime: 2023-04-24T18:00:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-in-payments-how-to-prepare-2023-april"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
 
 secured: "P8VYn2EgipIj01KC2c20KhwMliRUGyrq+JlEGiKSICQJt8gjvCKBz8m+rOYs3Pig246dY8N3/YVq+HTpUQ5LbynUgpf6GSi6dJjODmRFgiMudraVKDlJBEpO0mu6FUOlASctTzTJgzk4ggLI6ob8FQcCQ/VY63c0nJbfgxPB8HMJ4tL234RoQRU9M+G2wRByWKlZWOlgOBhIKU50HPrF8mWF/xfhGROJ55+MITgzN0fxWPAd/E/xNbjsq541A+ZhS/k75gQJiRI+RZ77iYuenRvPt3jx+HzMm5i5c1wKF1fihTH160Min6YCsnQJhUviXWXGbQmMgRlUMXWrpkl3DWUy6wGTSbPVnyQPfbOBlvQ=;J++Liub6hKUstT5tupGqoA=="
 ---
