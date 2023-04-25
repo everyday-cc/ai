@@ -15,12 +15,6 @@ topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/c/45/c458b092-912e-51f5-9093-4b867d3ec77e/6436688b2b282.image.jpg?crop=605%2C318%2C0%2C143&resize=605%2C318&order=crop%2Cresize"
-    width: 605
-    height: 318
-    isCached: true
-
-secured: "a0+iqZvz+5gA3aFpkzrKQ2R1NYgPQu88r0/nAbyN4K2XX+JweSpyaeHOtc2YURFMlovD79xil5PmYDESsgs+nJI4ZAPTx+1vE9SUEB+a+oY+lJiNbN1wEhL+MONFPCkGrCkozfGjeHWvIHjb8S9tSMl76aEwPyF83GP+s1mMCIEaAduUNJM0UlaeNBN2ehVPH/L66ZYUKOGeANtP5X6Ex3Y3UvrAIOBvqnZXc1oo/s3PdlPBhkGMdcikwfy3mvjh+80eUBzwhXzJJ9vqE61C0IgMLCsrVmu4RSyLqO5c1n+u6Vfqfs9nM3wNzyMk2fVCqn2MFEIr36yoGHZQhEbZ5Lis3VQOrSCnp+bGluhQt8w=;6LR69OPXv93ZWuGOEiByXg=="
+secured: "UaY+FZ85DnLhPM6cjMOoT0m5b5sr5B8G3HjqWGG1I0llVGxqYU8PAHU9ymu2gMkyz1lSevpNNckWLLhEC7CRGwV1eDz0MNu7VnauP1ykd8YDPZJFNDKYi+ShveisT65D43k5xWp5AJ3xA+nOCSmPy1/nVdTyCb0+bC+LQFnD75vodv7TiJuGBoVnu+yo/APKqEL5qCEJxYqSfkziYa+CI/6yNlsuiYlU2MyvxHaaeeCOolYUA0B7ebGcUzQqwSfBDCYGPG8COnrog7X5EGBqK+pH7bLv8CotFTyT059pUcJMKfmnzbbNruzqlWxXty8JbmMHfuEiFqgIMJ1aI7rMNoRHCaKE45Bvo7h6h/hcBLc=;CZozcGoHwcspDe0yVPikow=="
 ---
 
