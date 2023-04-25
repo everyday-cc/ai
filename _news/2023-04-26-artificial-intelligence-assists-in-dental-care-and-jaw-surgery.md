@@ -5,7 +5,12 @@ excerpt: "A dentist inserting a tooth implant must know the exact location of th
 publishedDateTime: 2023-04-25T19:37:00Z
 originalUrl: "https://medicalxpress.com/news/2023-04-artificial-intelligence-dental-jaw-surgery.html"
 webUrl: "https://medicalxpress.com/news/2023-04-artificial-intelligence-dental-jaw-surgery.html"
+ampWebUrl: "https://medicalxpress.com/news/2023-04-artificial-intelligence-dental-jaw-surgery.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-04-artificial-intelligence-dental-jaw-surgery.amp"
 type: article
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: Medical Xpress
@@ -13,7 +18,14 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
-secured: "qIn+u1d7BUAfal4+coA4asNBxxt0kcTwO7BamALSgAY5K0PUg9l2R7nuUTTwhusVcojtekLG3zzN0MOT322wWF4s/RY6ygwC0nw2zm+2OR9LRWs020G3X+amdBvsGZGfUhT0b8hRASXljuJvT8a3AgbmdL+3A0LDe144WXXf6HtH8Ceq7AYp2R49Kv7trTT0mr0QGMH8y17bb6zV1ZY7Ql9T8B5ilhel9Pi0GVrEr5YaNeIH5WpGlUvqV4hQgQiU5ClSfhWm4G4Bcmak8mCQ096IMnNHRQT/Dkh3M+e7GHphEYfothom0UXIgpYr1PDOHEYRSw7oYd/9SfsG0T31oJl1c4eLEhQ0V18BjFrrU6IQDedKimL6wrkiIoXZpLhdm2rtvY/Qm/m3W9xbakEARgqt3BydJ9ulqppMIFnmF5oSEd2n2B75NGzYNM/JhTunjBb1gl5P3Cp+3cQsjarEPjDFS3MxUc/Hprwp9AXkTHi1Bch3IZ2ODVt+twwMOIlQhzzOv6Bk5hN6wQp2Ev71YQ==;PbAZv8fWrMlC/auQ4ZaPOA=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-31.jpg"
+    width: 1380
+    height: 600
+    isCached: true
+
+secured: "FF5npSqCGX7LYXJXMrH7P+pC0NPKYkWJ7hoRuGY0cWwumSDfIXcT/GseO47k3ZlstsNEu9CsSzRbnvI/Vwe09Pr1FigsQ2YWN6wM5/nJc1r/cbhxO1g2IqmJneQxTEvZ/CHn3d72o5uMxRo252NQuI6IufAtlrtf6GHDaJqWHtmC5IJA2H3fZgINs4E2TvHwEveW2NhsDr83KIOttPNFahDc0eHuODwUOXRo7lQ6/CSiALyrnvNwOwNooF1rTRYjvkbm91/5spl+x/1gxHb0yATdceIEupJwGha8T288BK8i0VHuuUH9/11TcC1chxLMNmNXJ36/LMZ3ltQmF8Cwbf/IsVn7ZScbiRKW6POJgNs=;eumACIazuLUarOWCZ7pvLA=="
 ---
 

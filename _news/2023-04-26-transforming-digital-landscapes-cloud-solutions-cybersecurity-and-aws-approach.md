@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-25T18:33:00Z
 originalUrl: "https://siliconangle.com/2023/04/25/transforming-digital-landscapes-cloud-solutions-cybersecurity-aws-approach-rsac/"
 webUrl: "https://siliconangle.com/2023/04/25/transforming-digital-landscapes-cloud-solutions-cybersecurity-aws-approach-rsac/"
 type: article
+quality: 14
+heat: -1
+published: false
 
 provider:
   name: SiliconANGLE
@@ -14,6 +17,38 @@ provider:
 topics:
   - AWS AI
   - AI
+
+related:
+  - title: "Palo Alto Networks automates cybersecurity with machine learning"
+    excerpt: "Palo Alto Networks uses 3rd Gen Intel® Xeon® Scalable processors and Intel software in the cloud for its Cloud-Delivered Security Services to boost machine learning and inferencing performance."
+    publishedDateTime: 2023-04-24T15:58:00Z
+    webUrl: "https://www.infoworld.com/article/3693108/palo-alto-networks-automates-cybersecurity-with-machine-learning.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 71
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/04/istock-1294339697-100939579-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Cyble Triumphs Yet Again With 9 Category Wins at the Global InfoSec Awards 2023, Including Editor's Choice for Cybersecurity Startup"
+    excerpt: "Cyble, the Y Combinator-backed leader in AI-powered global cyber threat intelligence, today announced that it has been named a winner in 9 categories of the 11th Annual Global InfoSec Awards hosted by the Cyber Dfense Magazine CDM,"
+    publishedDateTime: 2023-04-25T04:41:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2428608-cyble-triumphs-yet-again-with-9-category-wins-at-the-global-infosec-awards-2023-including-editors-choice-for-cybersecurity"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2428608-cyble-triumphs-yet-again-with-9-category-wins-at-the-global-infosec-awards-2023-including-editors-choice-for-cybersecurity?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2428608-cyble-triumphs-yet-again-with-9-category-wins-at-the-global-infosec-awards-2023-including-editors-choice-for-cybersecurity?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 26
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_51_6762345.png?width=1280"
+        width: 1280
+        height: 723
+        isCached: true
 
 secured: "IZg1LggAX6p3n/pmyo8oQF0xVCIIbkj/hau5YGt/J7iXtgTyUQZfXfkg1lzN2fUW9sLH3fhD4m5flYAjP0BvuG+5lQ9tTOZBQZTAsxAuT5WmuAFCLQ5JTf9UeJGymgqYYU7zwaD7BjpgM7SU11RUGBR10MC9tmqxQzXUPwO80ZK/lrzGDhskJe6cY22/U60DCBq47lsfpakrjc64nB7P5aVpguiiiyQCQCJ7NzRHjQ9zmPf06bpFRX6XwB4J23gFz8d+m6XGVwSJbj3NNTqEBa9qf8U8JN5QL6PDfziAk1lMx1wGkeZLqFcrXcA6zYFbeVH8ThsOd77mN5tGOkSW4J0oEN6J/0TPq4ZVtfpX9XE=;mUL7b+1T0JZ3xovQ5YIOxQ=="
 ---

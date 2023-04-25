@@ -2,58 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-03-15-korber-announces-next-phase-of-the-journey-in-e-fulfillment-through-robotics-as-a-service.md",
-      "title": "Körber announces next phase of the journey in e-fulfillment through Robotics-as-a-Service",
-      "excerpt": "KArber's Robotics-as-a-Service (RaaS) program will provide simple access to a global network of robotics service partners for every business size and industry, emphasizing KArber's value on collaboration and dedication to meeting its customer's needs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/korber-announces-next-phase-of-the-journey-in-e-fulfillment-through-robotics-as-a-service-2023-03-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/korber-announces-next-phase-of-the-journey-in-e-fulfillment-through-robotics-as-a-service-2023-03-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-15-mobile-world-congress-2023-showcases-the-latest-tech-from-robotics-to-ai.md",
       "title": "Mobile World Congress 2023 showcases the latest tech, from robotics to AI",
       "excerpt": "The Mobile World Congress 2023 in Barcelona, Spain, showcased some of the newest tech and inventions, including robotics, AI and 5G.",
@@ -1384,6 +1332,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-will-a-robot-take-your-job-study-reveals-the-careers-that-face-the-highest-risk-of-being-replaced-by-ai-with-call-centre-workers-english.md",
+      "title": "Will a robot take YOUR job? Study reveals the careers that face the highest risk of being replaced by AI - with call centre workers, English and History teachers topping the list",
+      "excerpt": "They did this by linking 10 AI-powered applications, like translation, language modelling and image generation, to 52 human abilities, like oral comprehension and arm-hand steadiness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11829623/Will-robot-job-Study-reveals-careers-highest-risk-replaced-AI.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11829623/Will-robot-job-Study-reveals-careers-highest-risk-replaced-AI.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2023/03/07/10/68416473-0-image-a-12_1678183239425.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11829623/amp/Will-robot-job-Study-reveals-careers-highest-risk-replaced-AI.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11829623/amp/Will-robot-job-Study-reveals-careers-highest-risk-replaced-AI.html",
+      "publishedDateTime": "2023-03-07T02:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

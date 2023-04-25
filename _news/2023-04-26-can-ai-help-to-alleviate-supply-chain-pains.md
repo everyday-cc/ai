@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-25T18:05:00Z
 originalUrl: "https://www.forbes.com/sites/committeeof200/2023/04/25/can-ai-help-to-alleviate-supply-chain-pains/"
 webUrl: "https://www.forbes.com/sites/committeeof200/2023/04/25/can-ai-help-to-alleviate-supply-chain-pains/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

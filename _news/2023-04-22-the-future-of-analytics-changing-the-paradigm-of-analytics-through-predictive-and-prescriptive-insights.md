@@ -34,6 +34,15 @@ related:
       name: healthpayerintelligence.com
       domain: healthpayerintelligence.com
     quality: 19
+  - title: "Chicago Blackhawks invest in AI startup Springbok Analytics"
+    excerpt: "Spun out of the University of Virginia by three professors, Springbok Analytics uses AI-powered software to transform MRI static 2D imagery into precise 3D muscle assessments. These new views can be used to analyze an individual's muscle system to support injury prevention,"
+    publishedDateTime: 2023-04-25T17:13:00Z
+    webUrl: "https://www.bizjournals.com/chicago/inno/stories/news/2023/04/25/chicago-blackhawks-invest-springbok-analytics.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
   - title: "Grid Dynamics AWS Analytics Platform Starter Kit Leveraged by Client, Mistplay, to Improve Business Operations"
     excerpt: "Grid Dynamics Holdings, Inc. (NASDAQ:GDYN) (Grid Dynamics), a leader in enterprise-level digital transformation services and solutions, announced today that its client, Mistplay, the leading loyalty"
     publishedDateTime: 2023-04-25T12:45:00Z
@@ -42,6 +51,15 @@ related:
     provider:
       name: Asia One
       domain: asiaone.com
+    quality: 0
+  - title: "MCA Connect Acquires Data Consultancy Pervicta to Enable Modern Manufacturing with Advanced Analytics and AI"
+    excerpt: "Pervicta employs a seasoned team of data experts with deep expertise in building IP and providing consulting services to help companies turn their data into a strategic asset. \"Now more than ever, data is at the heart of every customer conversation."
+    publishedDateTime: 2023-04-25T17:40:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/04/25/9801703.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "2/r/ZNz8FpvlqF7g4xpJNIeyUMGNEffHSsoBD0AeDHL1c0mLgD77FIEGWHhrGGgAUxhwsP3z9hREBWFwcgZQbJFE4eME0hL0v2ottunt7Dgkpz79wrlTjUyNCGJybAaRfHONHjqYlrFRTW15kbeHyWQEhDGQiNv19C9mhWffXFUK25i+KNF9qNAm7qNnGelyMtTbAvk0Ih7Jhu/k6E/6RlRVKBto3Kr0wQlsiIp/Y+Itfdn3Tgsh6MldNUh9Tv+igP+d6DwnBKDY8ljClxBZzhXkx2feZWgCgAVmvzYPr5jAirlsmRXXen22Dwxf9md5sqjx54q4sV6TPmMtmcT34jV6BRTpb99DHypjo+ILo/UtGNb28SV5uL/L7XbjKck+tHJr/Ycsbb4g+afEEdwWuVIeM9aSmRjnqLe7KpY3i7rekLsRD8J7C2naGGhVTtxbRYcxlWFk6bvXTPoyCkk8hl/PrHs46PoGkVHPulpO4ETdC601FPo1j5xC2rhG7OsThTQR8uWlSur4HOMU5zyD3w==;DAzLaCERDu98Ub5Pnd19cA=="

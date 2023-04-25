@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Transforming digital landscapes: Cloud solutions, cybersecurity and AWS’ approach"
+    excerpt: "In fact, AWS has a dedicated team working around the clock to ensure a fully secure, efficient cloud experience for its clients. “I do a lot of work around securing ourselves, and then I also talk to customers and empathize with them about what it takes to do security at scale in the cloud,"
+    publishedDateTime: 2023-04-25T18:33:00Z
+    webUrl: "https://siliconangle.com/2023/04/25/transforming-digital-landscapes-cloud-solutions-cybersecurity-aws-approach-rsac/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 14
 
 secured: "1dIBZvjK4G96BlT9QPOBpArNZmOjtSZM699YIQY1dGkAyeW6iG5YxVpMaD5q3Kh9N4NbmoA/NMHOmX6vH/lLv4XtRR1MyX6BciR4G+uQybWOokZTjUsnl04Cmhp2ZB7IsVX+19VW0BtS1cp+yxifWYggHsfQq/r1jsgiVGgVCsICwqcPJHX4hLR988gOXiav+I3BhXUeJWQXweAt/hhQLgF+TOWMvWd4iZHsRBxb0mUNrGwFpZD2HhdB3FI/72r2iSNsbKAlS2OJ3bsRNrJri6IxiY/XDQJHKXR+rLqwUhJcbw2Ge2xpco52JsftwRAgn3ui5tfdMgTjhese4ioXs4Gamp+//R3f/fIW1l+2u+Y=;WBDsO/Se8KRBObW1HOMorA=="
 ---

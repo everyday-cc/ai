@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-25-fintech-firm-klarna-overhauls-its-app-with-a-tiktok-like-discovery-feed-as-ai-hype-swirls.md",
+      "title": "Fintech firm Klarna overhauls its app with a TikTok-like discovery feed as A.I. hype swirls",
+      "excerpt": "\"Buy now, pay later\" firm Klarna on Tuesday made some sweeping changes to its app, including a TikTok-inspired discovery feed that recommends products to users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/04/25/klarna-overhauls-app-with-tiktok-like-discovery-feed-amid-ai-buzz.html",
+      "originalUrl": "https://www.cnbc.com/2023/04/25/klarna-overhauls-app-with-tiktok-like-discovery-feed-amid-ai-buzz.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106899369-1624005205026-gettyimages-1233462474-RAFAPRESS_10062021-9285.jpeg?v=1682417162",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/04/25/klarna-overhauls-app-with-tiktok-like-discovery-feed-amid-ai-buzz.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/25/klarna-overhauls-app-with-tiktok-like-discovery-feed-amid-ai-buzz.html",
+      "publishedDateTime": "2023-04-25T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-21-artificial-intelligence-ai-in-fintech-market-complete-overview-till-2031.md",
       "title": "Artificial Intelligence (AI) in Fintech Market Complete Overview till 2031",
       "excerpt": "New Report (2023-2031) of 75 Pages: Global Artificial Intelligence (AI) in Fintech Market Status and Prospect A summary",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-complete-overview-till-2031-2023-04-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -1228,58 +1280,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-southeast-asian-credit-fintech-kredivo-scores-270m-series-d.md",
-      "title": "Southeast Asian credit fintech Kredivo scores $270M Series D",
-      "excerpt": "Kredivo’s direct and indirect competitors include Akulaku’s BNPL and Bank Neo Commerce (the fintech also recently raised significant funding from a large Japanese bank), Advance.ai’s Atome BNPL service and Kredit Pintar cash loans and Sea Group’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/22/kredivo-series-d/",
-      "originalUrl": "https://techcrunch.com/2023/03/22/kredivo-series-d/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1401979872.jpg?resize=1200,801",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/22/kredivo-series-d/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/kredivo-series-d/amp/",
-      "publishedDateTime": "2023-03-22T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

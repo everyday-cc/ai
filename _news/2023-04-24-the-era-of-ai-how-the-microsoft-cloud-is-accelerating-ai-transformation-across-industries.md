@@ -128,6 +128,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft reports boost in profits, revenue, as it pushes AI"
+    excerpt: "Microsoft on Tuesday reported a 9% increase in profit for the January-March quarter, as growth in cloud computing sales helped bolster its plans to expand its use of artificial intelligence"
+    publishedDateTime: 2023-04-25T20:47:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/microsoft-reports-boost-profits-revenue-pushes-ai-98841359"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 54
+    images:
+      - url: "https://s.abcnews.com/images/Business/wirestory_c64ccdc3db334f544cecf521e0a61209_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Microsoft earnings: AI hype could take backseat to cloud growth troubles"
     excerpt: "A busy day for corporate earnings on Tuesday will be highlighted by Microsoft's latest report, expected to offer new updates on the company's AI initiatives."
     publishedDateTime: 2023-04-24T20:13:00Z
@@ -180,6 +194,15 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
+    quality: 34
+  - title: "Siemens and Microsoft Partner on Generative AI for Industry"
+    excerpt: "As part of the new Siemens Teamcenter app for Microsoft Teams, this integration of generative artificial intelligence reportedly enables users to input feedback verbally to aid production quality and controller programming tasks."
+    publishedDateTime: 2023-04-25T19:31:00Z
+    webUrl: "https://www.automationworld.com/factory/digital-transformation/article/33003971/siemens-and-microsoft-partner-on-generative-ai-for-industry"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
     quality: 34
 
 secured: "EMjiZzS8tHNWO7pCCXi3TVBtnKrCJo4twyioGSRFDq1KCObgZGs2RFhCykEHBz9OSWg0tU50XykC/TaIFa7XCvMxDpB91Vsnd4SM6Ocla39tifVEZn8GmtdBeRc3eYKFwWRA28KQpO/BJvZj2rEiri5IxpxZZCksmUgzt9kzJcW3uY/nlxgJqFRr4h0TEFNYi/1EV+OUPMiCYZbThcWUoW9sOy5m3sLRmXxxpsufx4Jr+eUYT1SuVvI8L17UAmV4hnhhKhcUTuPc0/F25oJz97UNmqAYPzMPaTU/BSm2kLpaa3gHfQPa4GXqXeQBWydqwUbCHHHmaV71mkujqFxwE820w3jSQRnqif8ncEu37R4/KAbZN/AS56USejqA8uaah2mHF5jIsa/R+ahy86SdSiHMV9TaQ/05AyneIdQpPeDVokrQjYs465ozATv1wvKe15G5I7/uvit1K1Mwe45AaYvSSMrliBeAWSERpSgcSGTSIUUu2tOvGgPIfG3ujRwTqwe3k/fqgToWkYIQOlF/pg==;8MNFl+DYXeHj99I46pih0w=="

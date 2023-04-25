@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-25T18:03:00Z
 originalUrl: "https://techxplore.com/news/2023-04-jellyfish-like-robots-day-world-oceans.html"
 webUrl: "https://techxplore.com/news/2023-04-jellyfish-like-robots-day-world-oceans.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: techxplore

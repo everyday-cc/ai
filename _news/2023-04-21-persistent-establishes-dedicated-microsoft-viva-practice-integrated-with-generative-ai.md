@@ -113,6 +113,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft reports boost in profits, revenue, as it pushes AI"
+    excerpt: "Microsoft on Tuesday reported a 9% increase in profit for the January-March quarter, as growth in cloud computing sales helped bolster its plans to expand its use of artificial intelligence"
+    publishedDateTime: 2023-04-25T20:47:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/microsoft-reports-boost-profits-revenue-pushes-ai-98841359"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 54
+    images:
+      - url: "https://s.abcnews.com/images/Business/wirestory_c64ccdc3db334f544cecf521e0a61209_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Microsoft earnings: AI hype could take backseat to cloud growth troubles"
     excerpt: "A busy day for corporate earnings on Tuesday will be highlighted by Microsoft's latest report, expected to offer new updates on the company's AI initiatives."
     publishedDateTime: 2023-04-24T20:13:00Z
@@ -179,6 +193,15 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
+    quality: 34
+  - title: "Siemens and Microsoft Partner on Generative AI for Industry"
+    excerpt: "As part of the new Siemens Teamcenter app for Microsoft Teams, this integration of generative artificial intelligence reportedly enables users to input feedback verbally to aid production quality and controller programming tasks."
+    publishedDateTime: 2023-04-25T19:31:00Z
+    webUrl: "https://www.automationworld.com/factory/digital-transformation/article/33003971/siemens-and-microsoft-partner-on-generative-ai-for-industry"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
     quality: 34
 
 secured: "UDjFq2qFRmPaBR9lK5cDLGbSJZQ2Y8L9rZ7lztrOQV1KvewGZ7QtAroN/7gukLJkT5YabwvIa5PekHDCdR+Hl6DFPJU6WVCxNWS3x33lD7SgbjM2IbfvP2ypoK0yJd8eqAZ7N67DSeFxiC5WCs5L98OcHCXSjBJfp/LKFd2sT3NRFictbBfuhQRK2WX2xLBAkePp3vWzJMCFYXp/anDkn1QzV3joxHIzgBl19rx7Rm5xlyv8iaGA+d2qLnecIr5sYVSFqb9iEOmkUZJGUEAQ9enVfSjW1+qZoXYPTR6KfG5r9bAski66p9IgbwqkBAvIuU5hfvvCMrm5uvFYrRu5pOGm6i66RIGEI8eedYnG/BE=;afEazXsaoGAwq79+3jo7bw=="

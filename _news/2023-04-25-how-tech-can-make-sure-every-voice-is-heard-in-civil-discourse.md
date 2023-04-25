@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-25T15:36:00Z
 originalUrl: "https://www.americancityandcounty.com/2023/04/25/how-tech-can-make-sure-every-voice-is-heard-in-civil-discourse/"
 webUrl: "https://www.americancityandcounty.com/2023/04/25/how-tech-can-make-sure-every-voice-is-heard-in-civil-discourse/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Government Product News

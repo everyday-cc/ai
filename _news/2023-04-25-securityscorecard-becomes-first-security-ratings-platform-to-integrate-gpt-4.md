@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/04/25/securityscorecard-becomes-firs
 webUrl: "https://siliconangle.com/2023/04/25/securityscorecard-becomes-first-security-ratings-platform-integrate-gpt-4/"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,24 @@ topics:
   - Natural Language Processing
   - AI
   - AI in Security
+
+related:
+  - title: "RSAC 2023: SecurityScorecard launches ‘first’ GPT-4 security ratings platform"
+    excerpt: "At RSAC 2023 in San Francisco, SecurityScorecard announced the launch of the 'first' GPT-4 security ratings platform."
+    publishedDateTime: 2023-04-25T19:07:00Z
+    webUrl: "https://venturebeat.com/security/rsac-2023-securityscorecard-launches-first-gpt-4-security-ratings-platform/"
+    ampWebUrl: "https://venturebeat.com/security/rsac-2023-securityscorecard-launches-first-gpt-4-security-ratings-platform/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/rsac-2023-securityscorecard-launches-first-gpt-4-security-ratings-platform/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 88
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/VB_security-breach-padlock_3_1200x800.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Z6kAgTTJQmisQCRy4FnldHaT9bqt+Whvv5spZ2Vt10FI6tkCu3XXHOsT6Wk3Ho6N8TomO8+UBUcygtDtqnYQNAcQGNa2Rq1vqh6hMiv4NG1bQZPb0evpmONINJvMyfLCBnJHAzSPsbbK4sPx5qAu5D2RUmw0kXiKh9FSaqIaI/8eR3XK+y+Al0qR5uGNcUA7+wNtEvJqGnqQww4pe3HqZfnKIki9g+uXCZ/R2P0c6LByzm0zO7BS1sZbnHWlcvxEva+yZdmXrU7zvavf1qz1NJ3O9jbntpnUb/lQoxHu9PsCI0DMgW4T2ShtMEcWLQp4txKt//1hYJPywf8jGXJoJElRlJfKWm4HqfjwzLEK+NwhI6XU2ay/ybUy5ffhBcjkONBuR36BNfax0eorT4m09kPvG0GUJhwVpJLYFKfOo2gNbMTLcVd8XQYWWodZJlqQHuABJ0pduzt9QL7t3PBXBmfgHhA9XfMvXYVe1jc2V5ZI5sHNfFFuuV1GpTWRZFTnXT/Ovp5TUc0Ryzu3ejee4g==;3F4kboBec9nZsdwRWWYRWg=="
 ---

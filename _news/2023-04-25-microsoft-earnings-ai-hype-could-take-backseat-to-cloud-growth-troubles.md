@@ -124,6 +124,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft reports boost in profits, revenue, as it pushes AI"
+    excerpt: "Microsoft on Tuesday reported a 9% increase in profit for the January-March quarter, as growth in cloud computing sales helped bolster its plans to expand its use of artificial intelligence"
+    publishedDateTime: 2023-04-25T20:47:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/microsoft-reports-boost-profits-revenue-pushes-ai-98841359"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 54
+    images:
+      - url: "https://s.abcnews.com/images/Business/wirestory_c64ccdc3db334f544cecf521e0a61209_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Microsoft integrates Copilot into its employee engagement platform, Viva - but does AI really lead to better engaged employees?"
     excerpt: "At a recent summit, Microsoft announced that its AI assistant, Copilot, will be rolled out across its employee experience platform, Viva; news which won’t come as too much of a surprise given artificial intelligence hype is flooding through corporations around the globe."
     publishedDateTime: 2023-04-24T08:34:00Z
@@ -176,6 +190,15 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
+    quality: 34
+  - title: "Siemens and Microsoft Partner on Generative AI for Industry"
+    excerpt: "As part of the new Siemens Teamcenter app for Microsoft Teams, this integration of generative artificial intelligence reportedly enables users to input feedback verbally to aid production quality and controller programming tasks."
+    publishedDateTime: 2023-04-25T19:31:00Z
+    webUrl: "https://www.automationworld.com/factory/digital-transformation/article/33003971/siemens-and-microsoft-partner-on-generative-ai-for-industry"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
     quality: 34
 
 secured: "8udSIi8P4GpfSscR8Q1oJf+i4LheyOBxbI9n9ZFNsCYJy+70TtRrGQu4OtbVdhOt6EP9JU3em3CNX5hNvfGIMx57ckiShe/LVx8JlL8BywyY1TZE//oX3c5iMgCUQhCgvGS4BGYuQZj8q/jskMncPaz5gMAgwe4C6PZ2p9I4TZiksaiIp90gnK9o63VHGWLTacHPwjCCuNIXHftnex3o6daN0kZMa1cOGS++TyMNyiYqPO+kKTtSFCx3ZHoklMvfj2neBUMF3ogRH9L3lwZgpx6cNZRzjdMwM5Fd4sFQoVETsszWhn/ILh4GamYXEjtHDLxBPB+uwFxlN7eVEi3O7a+CZeBE9Pa+zocV8aeiM1MGYJ3W/a421IKXootqxvlVztpOIIAOSJYO9+SPgR573Yh3NT/QvghYuSmPlrkGjnxmCWJIhd4uAT14PSREK9o6wtxbVBsD5nnDxXAfJE49SeFqKNdyvZGBIz74nfEWyakm/N0ia3IY6v4AB2h7qMeNixHNnmYuA2DMPv2VjzMZlA==;ffXaZxHwcXdInNiCLMtKbA=="

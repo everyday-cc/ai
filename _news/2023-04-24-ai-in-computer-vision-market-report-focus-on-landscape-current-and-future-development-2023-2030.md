@@ -29,29 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "2023 Artificial Intelligence and Robotics in Aerospace and Defense Market | Dynamic Report By 2030"
-    excerpt: "Artificial Intelligence and Robotics in Aerospace and Defense Market | Outlook 2023-2028 | Pre and Post-COVID Research"
-    publishedDateTime: 2023-04-21T03:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-dynamic-report-by-2030-2023-04-20"
+  - title: "AI In Computer Vision Market research Report with Analysis 2023 To 2030"
+    excerpt: "AI In Computer Vision Market Report Insights (2023-2030): (100 Pages Report) AI In Computer Vision Market Research"
+    publishedDateTime: 2023-04-25T07:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-with-analysis-2023-to-2030-2023-04-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 85
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global AI in Computer Vision Market [2023-2030] | Stay Ahead of the Game"
-    excerpt: "The Global AI in Computer Vision Market is Forecasted to Reach a Multimillion-Dollar Valuation by 2030, Exhibiting"
-    publishedDateTime: 2023-04-21T09:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-2023-2030-stay-ahead-of-the-game-2023-04-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 83
+    quality: 84
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -71,6 +57,94 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market SWOT Analysis till 2030"
+    excerpt: "Facial Recognition Market” Are a Collection of Information and Analysis Obtained From Diverse Sources to Aid Businesses"
+    publishedDateTime: 2023-04-24T04:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-swot-analysis-till-2030-2023-04-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Manufacturing Market Research, 2023-2030"
+    excerpt: "Artificial Intelligence in Manufacturing Market Insights 2023 by Types (Deep Learning , Computer Vision , Context"
+    publishedDateTime: 2023-04-21T14:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-research-2023-2030-2023-04-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The AI Recognition market is driven from 2023 to 2030 with an impressive compound annual growth rate 12.3% CAGR."
+    excerpt: "The Global Market Overview of \"AI Recognition Market\"offers a unique insight into key trends shaping the industry world-wide and in the largest markets. Written by some of our most experienced analysts,"
+    publishedDateTime: 2023-04-21T22:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-ai-recognition-market-is-driven-from-2023-to-2030-with-an-impressive-compound-annual-growth-rate-123-cagr-2023-04-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market Size 2023 Will Grow Rapidly Another Level in The Forthcoming Year"
+    excerpt: "Speech and Voice Recognition Market Size 2023 | New Report (106 Pages) | Analytics | In This Reports Speech and"
+    publishedDateTime: 2023-04-24T03:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-2023-will-grow-rapidly-another-level-in-the-forthcoming-year-2023-04-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech Recognition Market Size, Share, Key Players, Revenue, Research Report and Forecast 2023 to 2031"
+    excerpt: "The global speech recognition market was valued at $6.39billion in 2018, and is projected to reach $29.28 billion by 2026, registering a CAGR of 19.9% from 2019 to 2026. Speech recognition technology enables system to identify the sound of spoken words and convert them into machine readable form."
+    publishedDateTime: 2023-04-25T05:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-size-share-key-players-revenue-research-report-and-forecast-2023-to-2031-2023-04-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+  - title: "Global Artificial Intelligence in Platform as a Service (PaaS) Market 2023 Staying Ahead in Industry Upcoming Years by 2030 | Research Reports World"
+    excerpt: "The Artificial Intelligence in Platform as a Service (PaaS) Market Scope and Overview Report for 2023 presents a"
+    publishedDateTime: 2023-04-24T06:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-platform-as-a-service-paas-market-2023-staying-ahead-in-industry-upcoming-years-by-2030-research-reports-world-2023-04-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence In Agriculture Market Report 2023: Sector Is Expected To Reach $4.9 Billion By 2030 At A CAGR Of 24.1%"
+    excerpt: "The \"global artificial intelligence in agriculture market size, share & industry trends analysis report by technology, application, offering, regional outlook and forecast, 2022-2028\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2023-04-24T17:08:00Z
+    webUrl: "https://menafn.com/1106081579/Global-Artificial-Intelligence-In-Agriculture-Market-Report-2023-Sector-Is-Expected-To-Reach-49-Billion-By-2030-At-A-CAGR-Of-241"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
 
 secured: "FU+O/UGZtabsdg00xdUTcJtE+lwTzQQKFPO4UYIkkGiabSzwnA82Fi4hh4saGzaI6Zvq3qIso6Z2633XaPVVstfMyna/sab751AgmOt79/hVlAT/JZGI1LI9+ctX5DsmvFO6q0nRH5Z/A15GgoQQiWWpodh5+fnNAjebBRzmh2NgeK064qtcXNTsOh6p4lPtIrYDnjncPu4nLxPXPqmOCvwS6uEfdl3WnSLv/jqkOT1th52d528nyrPkKju1KewB860mJI5yRsQTx5OqMetuCl/yIoJu99cJxIsnpIVmp6/Qs/AFeiEB/JVvJuMTu5AtulVYAxwF6uS5KL2MJQqd+ZDGbmmyqSmehdPzMQkzWcE=;JMuR/SK02EH74FQejUlCCg=="
 ---

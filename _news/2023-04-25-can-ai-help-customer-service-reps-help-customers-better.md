@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Coca-Cola makes bubbly bets on AI for creative assets, customer service"
+    excerpt: "In its first-quarter earnings release yesterday, the Coca-Cola Company made it clear that a focus on AI has become a 2023 priority."
+    publishedDateTime: 2023-04-25T18:17:00Z
+    webUrl: "https://venturebeat.com/ai/coca-cola-makes-bubbly-bets-on-ai-for-creative-customer-service/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "Ggox+Xb+kEMyfQPiH0CNDvzfhwnHI6kNeex+wqdXkBqNQkw1xp5lixS/g4WOjW29QpQtDth8kH+bQeO3hgaKvbMwQxv5yEUFDB0fvCYjuLlnwcvvztMQboAJOlkjkJmdGMhP3/ydAGTsFxwryOFzPip5oznaYDGzUd8I8rw15OjYVaGcMZgIiassSITopUHdobWE1V+mA5z3ahiMEC41FYK5NzBSLUq4L41fwcgIpH64HMKHiioZmCPosRZ8DJmvDl5Sj6oXbLyiaOo2NqtR89MelRbepMYWq3Rq5RWRlSmUH9pMV8HUyCyEiRn5m2m2H4JJjAx3e4dhYyY1/1Tlpb9pGDQXWOGpNO18tdmwawU=;IuR2IcyU7gFokEecEH+1LQ=="
 ---

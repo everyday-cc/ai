@@ -2,10 +2,13 @@
 category: news
 title: "MCA Connect Acquires Data Consultancy Pervicta to Enable Modern Manufacturing with Advanced Analytics and AI"
 excerpt: "Pervicta employs a seasoned team of data experts with deep expertise in building IP and providing consulting services to help companies turn their data into a strategic asset. \"Now more than ever, data is at the heart of every customer conversation."
-publishedDateTime: 2023-04-25T18:42:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/04/25/9801703.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/04/25/9801703.htm"
+publishedDateTime: 2023-04-25T17:40:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/04/25/9801703.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/04/25/9801703.htm"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: TMCnet
@@ -15,6 +18,49 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "UoBjVBs8pcEupk6LhjM1wW5PSGtVSprShB5TXs5IAiKssDXkNWeD82Yx5PAespL6/YC7Q0uXKmUFq7xp9Os5GYXvn7HALLXFI/Hm255ui+iX0onZYG0QgFVfhswmiIFek535Cgzl1LpzfJC5xFQpy9XCQeU1IMtbE9J5PefJD6ePHu4euiRU/J6+dYHHroVl6ExbB/JGinbFgxZU6nY5mXEBcn0ofifYobnPhhWJyyZvrQNjDyiMX7ddEjL8a9nTTSJ1LqgiwAjKy1luULJUdX7VWWiT0Lh4HvS1PRgg2nZrdxT7rNr0his7bgEuDD6ZFYk6EpT3z/uZ4lGhGG4DRKVzcIfD/uzr7OZc+LrnAZMuLffefHp81hqLCFjdYHXE/bpFjvTyitygKx+TTGhXUXoxoTydcSz4ZHkiSYL1yu21aE3FiJotVtN1wIjBEcHhQrtaBWSlX1dHSOV1Pgf0atCaj1ERAQlo0ZpZS2iBh/3+i2FyXK1WLcX4KRTbTjuNLeh4wVBtIVEuPsNqDg8lEA==;S1IG1WKeklN3qd6S0crT1w=="
+related:
+  - title: "3 Ways Payers Can Employ Machine Learning, Advanced Analytics"
+    excerpt: "MVP Health Care (MVP) has been piloting machine learning and advanced analytics solutions and, in the process, explored three key uses for these types of tools. Machine learning falls under the umbrella of artificial intelligence tools."
+    publishedDateTime: 2023-04-25T13:30:00Z
+    webUrl: "https://healthpayerintelligence.com/features/3-ways-payers-can-employ-machine-learning-advanced-analytics"
+    type: article
+    provider:
+      name: healthpayerintelligence.com
+      domain: healthpayerintelligence.com
+    quality: 19
+  - title: "Chicago Blackhawks invest in AI startup Springbok Analytics"
+    excerpt: "Spun out of the University of Virginia by three professors, Springbok Analytics uses AI-powered software to transform MRI static 2D imagery into precise 3D muscle assessments. These new views can be used to analyze an individual's muscle system to support injury prevention,"
+    publishedDateTime: 2023-04-25T17:13:00Z
+    webUrl: "https://www.bizjournals.com/chicago/inno/stories/news/2023/04/25/chicago-blackhawks-invest-springbok-analytics.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
+  - title: "The future of analytics: Changing the paradigm of analytics through predictive and prescriptive insights"
+    excerpt: "With data becoming the backbone of an organization’s operations, analytics are becoming even more valuable to produce meaningful insights. By enriching the visualization framework with different analytic capabilities,"
+    publishedDateTime: 2023-04-21T17:14:00Z
+    webUrl: "https://siliconangle.com/2023/04/21/future-analytics-changing-paradigm-analytics-predictive-prescriptive-insights-qlikworld/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 7
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/James-Fisher-Clean.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Grid Dynamics AWS Analytics Platform Starter Kit Leveraged by Client, Mistplay, to Improve Business Operations"
+    excerpt: "Grid Dynamics Holdings, Inc. (NASDAQ:GDYN) (Grid Dynamics), a leader in enterprise-level digital transformation services and solutions, announced today that its client, Mistplay, the leading loyalty"
+    publishedDateTime: 2023-04-25T12:45:00Z
+    webUrl: "https://www.asiaone.com/business/grid-dynamics-aws-analytics-platform-starter-kit-leveraged-client-mistplay-improve"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 0
+
+secured: "aSaKMGQg+vQUavRFhBfBzz972qX56Afrm8r5d2xW+0uP5NdGWg7lmKLz+00mEI7iwuSzkJTT4rHAmwb4c7eVX42geHH/YpozB0fZ5fszuGw5K3GY+wKco+29nSfNTKoCsg4fJDHiUWO2FDbxXYZ7LTVMVVyK3e6GAAi88e/SwOy0afn5oKMuBZk58pU/LBOT24zeVKfl7Td3VEM6mteQIvr0Iyagy/1l/iq2+ac2U47Ti3ACzoJjk1sL9dDl8YFNxpXXzJd4g59PT2UelFmauGRYldgPbhadkLT0nDa10v2WVLFu4o3lZwouujhHKjhG3QSrjriITl7ftm+ZeAGF71uNV9vwfeyAJDDPq8Pmz2uPUdRIWbBm8N+2hn1hhPKbWmO1EXP8r/Y6ktTYm8CBoFU/8u8eMVavi06MrgiQ7aUQEyiXPiz8anBt8B4fNL9QNBi9rj6bZ8vYcwuURKyAAuELn3JdkT8X/lV0+RrrKsuFKbSqwUqpl7eEqRVXEUkOJ228Dxw9yxEqfK8RU6qgBA==;26gvigQIFgL5vZ+XCQIQsA=="
 ---
 

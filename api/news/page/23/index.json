@@ -2,6 +2,425 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2023-04-04-lensless-complex-amplitude-demodulation-based-on-deep-learning-in-holographic-data-storage.md",
+      "title": "Lensless complex amplitude demodulation based on deep learning in holographic data storage",
+      "excerpt": "A new publication from Opto-Electronic Advances, 10.29026/oea.2023.220157 discusses lensless complex amplitude demodulation based on deep learning in holographic data storage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/984981",
+      "originalUrl": "https://www.eurekalert.org/news-releases/984981",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-04-masters-app-and-website-to-include-generative-ai-commentary-for-every-shot.md",
+      "title": "Masters app and website to include generative AI commentary for every shot",
+      "excerpt": "In a joint activation with IBM, the Masters’ futuristic digital outlets will not only livestream every shot from every player for every round but will include Generative AI commentary based on Masters-specific machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sportsbusinessdaily.com/Journal/Issues/2023/04/03/Technology/masters-tournament-ibm-ai-app.aspx",
+      "originalUrl": "https://www.sportsbusinessdaily.com/Journal/Issues/2023/04/03/Technology/masters-tournament-ibm-ai-app.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sports Business Journal",
+        "domain": "sportsbusinessdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-04-the-7-most-promising-fintech-stocks-to-buy-for-april-2023.md",
+      "title": "The 7 Most Promising Fintech Stocks to Buy for April 2023",
+      "excerpt": "Plus, the oversold fintech players are tapping into burgeoning ... Furthermore, it could have a major role in the AI sphere with its recent State of Responsible AI in Financial Services report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-7-most-promising-fintech-stocks-to-buy-for-april-2023",
+      "originalUrl": "https://www.nasdaq.com/articles/the-7-most-promising-fintech-stocks-to-buy-for-april-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-04-leaning-into-ai-keynote-speakers.md",
+      "title": "Leaning into AI: Keynote speakers",
+      "excerpt": "As AI becomes embedded in our everyday lives, organisations are harnessing its power and affordability to revolutionise the way we do business. Across two Leaning into AI seminars, SmartCompany and AWS partnered to explore the rise of AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartcompany.com.au/partner-content/articles/leaning-into-ai-keynote-speakers/",
+      "originalUrl": "https://www.smartcompany.com.au/partner-content/articles/leaning-into-ai-keynote-speakers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartCompany",
+        "domain": "smartcompany.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-04-a-sensor-that-might-someday-enable-mind-controlled-robots.md",
+      "title": "A Sensor That Might Someday Enable Mind-Controlled Robots",
+      "excerpt": "A newly designed dry sensor that can measure brain activity may someday enable mind control of robotic systems.",
+      "sourceUrl": null,
+      "webUrl": "https://neurosciencenews.com/mind-controlled-robots-22931/",
+      "originalUrl": "https://neurosciencenews.com/mind-controlled-robots-22931/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neuroscience News",
+        "domain": "neurosciencenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-04-ai-will-help-generate-commentary-for-masters-golf-tourney.md",
+      "title": "AI Will Help Generate Commentary for Masters Golf Tourney",
+      "excerpt": "IBM's modern tech will augment the historic event, using generative AI tech to add audio commentary to video highlights.",
+      "sourceUrl": null,
+      "webUrl": "https://decrypt.co/125317/historic-masters-golf-tournament-returns-ai-twist",
+      "originalUrl": "https://decrypt.co/125317/historic-masters-golf-tournament-returns-ai-twist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "decrypt.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-04-artificial-intelligence-101-why-its-different-this-time.md",
+      "title": "Artificial Intelligence 101: Why It’s Different This Time",
+      "excerpt": "There is so much being said about artificial intelligence these days. In order to understand this latest wave of AI, it is important to know how it works and why this moment is different from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/video/series/tech-news-briefing/artificial-intelligence-101-why-its-different-this-time/807E3294-EFDB-49CD-B66B-18ABA44D503F",
+      "originalUrl": "https://www.wsj.com/video/series/tech-news-briefing/artificial-intelligence-101-why-its-different-this-time/807E3294-EFDB-49CD-B66B-18ABA44D503F",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-04-next-gen-dry-electrodes-used-to-control-a-robot-via-brain-waves.md",
+      "title": "Next-gen \"dry\" electrodes used to control a robot via brain waves",
+      "excerpt": "Now, however, scientists have developed a new-and-improved type of \"dry\" electrode – and it's been used to mind-control a robot. One of the obvious problems with conductive gel is the fact that ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/science/dry-electrodes-mind-control-robot",
+      "originalUrl": "https://newatlas.com/science/dry-electrodes-mind-control-robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/2310ccb/2147483647/strip/true/crop/1170x614+0+83/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F34%2F5f%2F39264ef6410188da95ee4dce1538%2F041223brain-machineinterfacehr.jpeg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T11:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-04-how-japans-top-executives-are-overcoming-natural-disasters-economic-turmoil-and-other-surprises.md",
+      "title": "How Japan’s Top Executives Are Overcoming Natural Disasters, Economic Turmoil, and Other Surprises",
+      "excerpt": "Members of II’s All-Japan Executive Team discuss the biggest challenges and opportunities facing them in 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.institutionalinvestor.com/article/b8y4cj5r6trf7s/How-Japan-s-Top-Executives-Are-Overcoming-Natural-Disasters-Economic-Turmoil-and-Other-Surprises",
+      "originalUrl": "https://www.institutionalinvestor.com/article/b8y4cj5r6trf7s/How-Japan-s-Top-Executives-Are-Overcoming-Natural-Disasters-Economic-Turmoil-and-Other-Surprises",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.institutionalinvestor.com/media/AMG/II/articles/1/1/1/Art_JP-exec-pressure_0403.jpg",
+          "width": 1000,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Institutional Investor",
+        "domain": "institutionalinvestor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-04-generative-ai-in-fintech-market-size-to-exceed-us-62-bn-by-2032-report-by-marketus.md",
+      "title": "Generative AI In Fintech Market Size To Exceed US$ 6.2 Bn By 2032: Report By Market.Us",
+      "excerpt": "New York, April 03, 2023 (GLOBE NEWSWIRE) -- Market.us forecasts that the generative ai in fintech market will exceed USD 6,256 million by 2032, rising from USD 865 million in 2022. Furthermore ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105938077/Generative-AI-In-Fintech-Market-Size-To-Exceed-US-62-Bn-By-2032-Report-By-MarketUs",
+      "originalUrl": "https://menafn.com/1105938077/Generative-AI-In-Fintech-Market-Size-To-Exceed-US-62-Bn-By-2032-Report-By-MarketUs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-04-the-worlds-largest-ai-fund-has-surged-23-this-year-beating-even-the-red-hot-nasdaq-index.md",
+      "title": "The world's largest AI fund has surged 23% this year, beating even the red-hot Nasdaq index",
+      "excerpt": "The rise of ChatGPT has spurred a renewed spike in investor interest in the artificial intelligence sector. That's led the world's largest AI fund, the Global X Robotics & Artificial Intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/botz-globalx-robotics-ai-artificial-intelligence-etf-return-outperformance-nasdaq-2023-4",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/botz-globalx-robotics-ai-artificial-intelligence-etf-return-outperformance-nasdaq-2023-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-03-life-of-an-architect-podcast-ep-122-architecture-and-artificial-intelligence.md",
       "title": "Life of an Architect Podcast Ep. 122: Architecture and Artificial Intelligence",
       "excerpt": "Even though artificial intelligence can conceptually trace its roots back to the 1950s, the reality is AI and machine learning went mainstream not too long ago. As recently as November 2022, anyone with a computer and Internet access can dip their toes in the AI waters for not much more than the time needed to understand how to make it work.",
@@ -521,462 +940,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-3-ai-stocks-you-cant-afford-to-miss.md",
-      "title": "3 AI Stocks You Can't Afford to Miss",
-      "excerpt": "Amazon's cloud unit is certainly not going to get left behind in the age of AI, and is investing heavily to gear up for the next round of growth. Lam Research is a key player in the chip ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/04/02/3-ai-stocks-you-cant-afford-to-miss/",
-      "originalUrl": "https://www.fool.com/investing/2023/04/02/3-ai-stocks-you-cant-afford-to-miss/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/726495/artificial-intelligence-getty-62817.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-02T21:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-demand-for-speech-recognition-market-in-automotive-growing-rapidly-says-latest-report-by-allied-market-research.md",
-      "title": "Demand For Speech Recognition Market In Automotive Growing Rapidly, Says Latest Report By Allied Market Research",
-      "excerpt": "PORTLAND, OR, UNITED STATES, April 3, 2023 /einpresswire.com / -- The Allied Market Research, the global Speech Recognition Market study summarizes competitor analysis, business trends ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105931791/Demand-For-Speech-Recognition-Market-In-Automotive-Growing-Rapidly-Says-Latest-Report-By-Allied-Market-Research",
-      "originalUrl": "https://menafn.com/1105931791/Demand-For-Speech-Recognition-Market-In-Automotive-Growing-Rapidly-Says-Latest-Report-By-Allied-Market-Research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-02T21:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-acufi-and-its-founder-nick-kohlschreiber-stress-the-importance-and-usefulness-of-ai-for-fintech.md",
-      "title": "AcuFi and its Founder, Nick Kohlschreiber, Stress the Importance and Usefulness of AI For FinTech",
-      "excerpt": "For the fintech sector, AcuFi experts agree that concerns in the security of both user and company data can be addressed by AI. More than ever, the modern age will come with a new variety of bad ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-04/58723075-acufi-and-its-founder-nick-kohlschreiber-stress-the-importance-and-usefulness-of-ai-for-fintech-200.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-04/58723075-acufi-and-its-founder-nick-kohlschreiber-stress-the-importance-and-usefulness-of-ai-for-fintech-200.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-02T21:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-a-sensor-that-might-someday-enable-mind-controlled-robots.md",
-      "title": "A sensor that might someday enable ‘mind-controlled’ robots",
-      "excerpt": "It sounds like something from science fiction: Don a specialized, electronic headband and control a robot using your mind. But now, recent research published in ACS Applied Nano Materials has taken a step toward making this a reality. By designing a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.acs.org/pressroom/presspacs/2023/april/sensor-might-someday-enable-mind-controlled-robots.html",
-      "originalUrl": "https://www.acs.org/pressroom/presspacs/2023/april/sensor-might-someday-enable-mind-controlled-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C&EN",
-        "domain": "acs.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-how-researchers-are-using-ai-fruit-flies-to-make-major-biological-breakthroughs.md",
-      "title": "How researchers are using AI, fruit flies to make major biological breakthroughs",
-      "excerpt": "KANSAS CITY, Mo. (KCTV) - Artificial intelligence is taking the world to a new era at the Stowers Institute for Medical Research. AI is making major breakthroughs in biology that have stumped ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kctv5.com/2023/04/04/how-researchers-are-using-ai-fruit-flies-make-major-biological-breakthroughs/",
-      "originalUrl": "https://www.kctv5.com/2023/04/04/how-researchers-are-using-ai-fruit-flies-make-major-biological-breakthroughs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-kctv-prod.cdn.arcpublishing.com/resizer/T8YzKAN3cuVd7ooBW0YR1SxdDMg=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/QE3MRHDW6NAFJHDPKHACMG53UM.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kctv5.com/2023/04/04/how-researchers-are-using-ai-fruit-flies-make-major-biological-breakthroughs/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/2023/04/04/how-researchers-are-using-ai-fruit-flies-make-major-biological-breakthroughs/?outputType=amp",
-      "publishedDateTime": "2023-04-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KCTV News",
-        "domain": "kctv5.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-a-brief-history-of-artificial-intelligence.md",
-      "title": "A brief history of artificial intelligence",
-      "excerpt": "Explore the history of artificial intelligence, from Alan Turing's Turing Test to the latest breakthroughs in machine learning and natural language processing.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/a-brief-history-of-artificial-intelligence",
-      "originalUrl": "https://cointelegraph.com/news/a-brief-history-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-02T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-02-russia-uses-facial-recognition-technology-from-us-companies-to-spy-on-anti-war-protestors-says-report.md",
-      "title": "Russia uses facial recognition technology from US companies to spy on anti-war protestors, says report",
-      "excerpt": "Reuters reviewed court records that showed how the Moscow's vast video surveillance network played an \"important role\" in the arrests of protesters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/russia-american-facial-recognition-technology-crackdown-anti-war-protestors-reuters-2023-3",
-      "originalUrl": "https://www.businessinsider.com/russia-american-facial-recognition-technology-crackdown-anti-war-protestors-reuters-2023-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64270e0e45ef1b001984bc26?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/russia-american-facial-recognition-technology-crackdown-anti-war-protestors-reuters-2023-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/russia-american-facial-recognition-technology-crackdown-anti-war-protestors-reuters-2023-3?amp",
-      "publishedDateTime": "2023-04-02T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-02-facebook-parent-meta-touts-artificial-intelligence-robot-that-can-learn-from-humans.md",
-      "title": "Facebook parent Meta touts Artificial Intelligence robot that can learn from humans",
-      "excerpt": "One way that Meta's Facebook AI Research (FAIR) team is working to train the robots is by developing an artificial visual cortex, which in humans, is the region of the brain that enables ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/facebook-parent-meta-touts-artificial-intelligence-robot-learn-humans",
-      "originalUrl": "https://www.foxbusiness.com/technology/facebook-parent-meta-touts-artificial-intelligence-robot-learn-humans",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-02T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-02-how-retail-got-real-at-metaverse-fashion-week-with-ai-ar-interoperability-phygital-components.md",
-      "title": "How Retail Got Real At Metaverse Fashion Week With AI, AR, Interoperability, Phygital Components",
-      "excerpt": "For Metaverse Fashion Week’s second iteration, Decentraland foundation partnered with additional metaverses Spatial and Over the Reality making for a broader experience and participating brands both harnessed emerging technologies and solidified their Web3 strategies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/04/02/metaverse-fashion-week-how-retail-got-real/",
-      "originalUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/04/02/metaverse-fashion-week-how-retail-got-real/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6429064da1fb0811f6deb168/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/04/02/metaverse-fashion-week-how-retail-got-real/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephaniehirschmiller/2023/04/02/metaverse-fashion-week-how-retail-got-real/amp/",
-      "publishedDateTime": "2023-04-01T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-02-a-brief-history-of-artificial-intelligence.md",
-      "title": "A brief history of artificial intelligence",
-      "excerpt": "Multiple factors have driven the development of artificial intelligence (AI) over the years. The ability to swiftly and effectively collect and analyze enormous amounts of data has been made ...",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/a-brief-history-of-artificial-intelligence",
-      "originalUrl": "https://cointelegraph.com/news/a-brief-history-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-01-ai-ethicists-slam-ai-pause-letter-for-ignoring-current-harms.md",
-      "title": "AI Ethicists Slam 'AI Pause' Letter for Ignoring Current Harms",
-      "excerpt": "The open letter co-signed by Elon Musk ignores 'actual harms' caused by AI today, ethicists argue in a rebuttal, including worker exploitation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/ai-ethicists-slam-ai-pause-letter-for-ignoring-current-harms",
-      "originalUrl": "https://www.pcmag.com/news/ai-ethicists-slam-ai-pause-letter-for-ignoring-current-harms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00dshhhhQuoonyFJJ4ekz3q-1.fit_lim.size_1200x630.v1680368067.png",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-01T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

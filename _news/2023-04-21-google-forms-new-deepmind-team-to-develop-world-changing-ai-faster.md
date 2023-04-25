@@ -61,22 +61,6 @@ related:
         width: 684
         height: 300
         isCached: true
-  - title: "Google consolidates AI research labs into Google DeepMind to compete with OpenAI"
-    excerpt: "Google is consolidating its formerly separate AI research labs — Google Brain and DeepMind — into a new unit named Google DeepMind."
-    publishedDateTime: 2023-04-21T04:53:00Z
-    webUrl: "https://venturebeat.com/ai/google-consolidates-ai-research-labs-into-google-deepmind-to-compete-with-openai/"
-    ampWebUrl: "https://venturebeat.com/ai/google-consolidates-ai-research-labs-into-google-deepmind-to-compete-with-openai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-consolidates-ai-research-labs-into-google-deepmind-to-compete-with-openai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 101
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/VB_google_deepmind_annc_042023-copy.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "UK-based DeepMind merges with Google Brain in transatlantic AI tie-up"
     excerpt: "Alphabet has merged DeepMind with Google Brain into a single AI research unit, imaginatively named Google DeepMind"
     publishedDateTime: 2023-04-21T17:23:00Z

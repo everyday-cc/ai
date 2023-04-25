@@ -192,58 +192,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-21-2023-2030-artificial-intelligence-delivery-robot-market-growth-strategies-and-insights.md",
-      "title": "2023-2030 Artificial Intelligence Delivery Robot Market Growth Strategies and Insights",
-      "excerpt": "Global “Artificial Intelligence Delivery Robot Market” research report for 2023 offers a detailed analysis of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-2030-artificial-intelligence-delivery-robot-market-growth-strategies-and-insights-2023-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-2030-artificial-intelligence-delivery-robot-market-growth-strategies-and-insights-2023-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-21-2023-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-dynamic-report-by-2030.md",
       "title": "2023 Artificial Intelligence and Robotics in Aerospace and Defense Market | Dynamic Report By 2030",
       "excerpt": "Artificial Intelligence and Robotics in Aerospace and Defense Market | Outlook 2023-2028 | Pre and Post-COVID Research",
@@ -1394,6 +1342,58 @@
         "name": "Los Angeles Times",
         "domain": "latimes.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-amazon-has-a-secret-weapon-no-one-is-talking-about.md",
+      "title": "Amazon Has a Secret Weapon No One Is Talking About",
+      "excerpt": "In an interview, Siddhartha Srinivasa, Amazon's chief of robotics artificial intelligence, addressed the company's strategy when it comes to developing innovative and groundbreaking new technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/04/13/amazon-secret-weapon-no-one-talking-about/",
+      "originalUrl": "https://www.fool.com/investing/2023/04/13/amazon-secret-weapon-no-one-talking-about/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/727856/amazon-robotics-drive-unit.png",
+          "width": 1266,
+          "height": 833,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T00:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

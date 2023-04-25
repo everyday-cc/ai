@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs."
+    publishedDateTime: 2023-04-25T18:31:00Z
+    webUrl: "https://techcrunch.com/2023/04/25/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/04/25/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/25/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "Internet Training Data Of ChatGPT Can Be Used For Non-Allied Purposes Including Privacy Intrusions, Frets AI Ethics And AI Law"
     excerpt: "Generative AI relies upon vast data training associated with the Internet, including the impressive capabilities of ChatGPT. The data training can be used for other profitable purposes, but the question arises as to whether this is a prudent pursuit or possibly fool's gold."
     publishedDateTime: 2023-04-24T11:01:00Z
@@ -149,20 +165,6 @@ related:
         width: 624
         height: 351
         isCached: true
-  - title: "Entity List Chinese AI chip company rules out working on ChatGPT-like products"
-    excerpt: "Chinese AI chip start up Cambricon Technologies has announced that it won't directly engage in the development or sales of any product similar to ChatGPT."
-    publishedDateTime: 2023-04-21T02:07:00Z
-    webUrl: "https://www.digitimes.com/news/a20230421VL202/baidu-chatgpt-china.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 50
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230421vl202_files/1_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "YouTube case at Supreme Court could shape protections for ChatGPT and AI"
     excerpt: "A forthcoming decision whether to weaken a powerful shield protecting internet companies could have implications for artificial intelligence chatbot ChatGPT."
     publishedDateTime: 2023-04-24T09:12:00Z
@@ -188,6 +190,15 @@ related:
         width: 1000
         height: 1099
         isCached: true
+  - title: "How ChatGPT and other advanced AI tools are helping secure the software supply chain"
+    excerpt: "AI tools like ChatGPT are improving intelligence gathering and detection and patching of vulnerabilities in the software supply chain."
+    publishedDateTime: 2023-04-25T18:05:00Z
+    webUrl: "https://venturebeat.com/security/how-chatgpt-other-advanced-ai-tools-helping-secure-software-supply-chain/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 42
   - title: "ChatGPT explained: Everything you need to know about the AI chatbot"
     excerpt: "Microsoft has been reportedly working on its own AI chip for some time, and it is hoping that it can be mass-produced as soon as 2024. If successful, these chips could power the Azure ..."
     publishedDateTime: 2023-04-21T15:23:00Z
@@ -201,6 +212,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/7FnxdYvdQ3Ugo3WjnKaYiK-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Chat AI Chatbot Assistant: Revolutionizing Productivity And Assistance Powered By Chatgpt"
+    excerpt: "Chat AI Chatbot powered by ChatGPT Discover the power of intelligent and engaging conversations with the Chat AI Chatbot Assistant app, n"
+    publishedDateTime: 2023-04-25T21:52:00Z
+    webUrl: "https://menafn.com/1106094711/Chat-AI-Chatbot-Assistant-Revolutionizing-Productivity-And-Assistance-Powered-By-Chatgpt"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 30
+    images:
+      - url: "https://menafn.com/updates/pr/2023-04/25/EP_00e23image_story.png"
+        width: 600
+        height: 314
         isCached: true
   - title: "4 of The Best Speech to Text Extensions to Talk to ChatGPT Using Your Voice"
     excerpt: "I personally do not agree with the decision to ban ChatGPT or any other technology for that matter. Bans do not work and students will always find ways to circumvent them (e.g., u"

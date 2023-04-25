@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3694158/google-s-bard-ai-to-take-o
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3694158/google-s-bard-ai-to-take-on-github-copilot-and-amazon-codewhisperer.amp.html"
 type: article
 quality: 87
-heat: 99
+heat: 97
 published: true
 
 provider:

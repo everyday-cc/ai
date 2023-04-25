@@ -15,6 +15,12 @@ topics:
   - Facebook AI
   - AI
 
-secured: "/M8yh4MsXlZ9sdRAhrQbTama2pzsmr4VCPNsNq9uBtdI8MmGbaWoujiAHnNWjmIP+I2CngC8znnMExnYMPiZdrWG0y1yOk4sJYRRuugpGDXAK6KQNAtONrMqTWjoB1KpsyDCaDYtHZr+JeCF6a9WuXJq9qXWnLndS57Ij/5RyR+sXTPaE5ML+IVc8vAcn2PVwYVr4oGc5LJpKMnPhlE+s/A0ysOQn4Y5dlkF8eXjML+TCps70V4E4vEqn6IKI+7BNulWbi/DZ930J0XTlip0LeIArpltEw/rqn0Q+jM+gatrJbs62ZgTN+VgtoP54Kl1ZohkR8tPeRksavfIROV8/5bIbpCfgMxUoh+7GuncEMg=;xH1GTkMLhiFrzp/dT9MI6A=="
+images:
+  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/LEJTYZBG2VC6FFWEGO2D3DKEFA.jpg?_a=ATCqVhC0"
+    width: 700
+    height: 467
+    isCached: true
+
+secured: "YiT3ePK6CElu9WcmBXvYYBwkWe23BkxPZehFi3pjDoj5F8wVg8Jg00GId2unTwB3tPQCRBF8i9RASjBRwY6wNWYqdsNGhZqAaMz3mmgkVUlis7AnUo54vu1hKPuhnry7SKnA67YflrahZweks8IRKKvDUKgGBrF33nBP+NWqcOPThfrZGPFbJwron/4xnhF84SLo7Z1w65Kvj4ecwpY0DvzUH5VYnChPONIO3PK132OKjIeh5Uzy4xOz0lqI+9436AIqvZU/oiMBntZtCQlWHFSWaGITtABLR1gdb2lWS0zyvQ/Y/e8q0Ld3826AcD6nV+hXERqn0+t32NfolXM2h8NcfkRXkPaXdQzPsNJeadM=;ha7onoMr497Kbc1SNg/FOA=="
 ---
 

@@ -5,7 +5,12 @@ excerpt: "At RSAC 2023 in San Francisco, SecurityScorecard announced the launch 
 publishedDateTime: 2023-04-25T19:07:00Z
 originalUrl: "https://venturebeat.com/security/rsac-2023-securityscorecard-launches-first-gpt-4-security-ratings-platform/"
 webUrl: "https://venturebeat.com/security/rsac-2023-securityscorecard-launches-first-gpt-4-security-ratings-platform/"
+ampWebUrl: "https://venturebeat.com/security/rsac-2023-securityscorecard-launches-first-gpt-4-security-ratings-platform/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/rsac-2023-securityscorecard-launches-first-gpt-4-security-ratings-platform/amp/"
 type: article
+quality: 88
+heat: 98
+published: true
 
 provider:
   name: VentureBeat
@@ -20,6 +25,23 @@ topics:
   - AI
   - AI in Security
 
-secured: "UmoOFZouZPsPa7ipGAF/rJ9ceg4NYYJOtsdurTZQD/yVRuEiDAFofN18loA+m4FB2f7Cnstg3VYlNexayl9trSS8GuK/PWzOXB5X4OIzBE76oQaPpx2/PqQT9WLl+Qh4BHVsInezuXmVz1mqhLD+6J1hTPob5BHQLKhPGh8AkPYocD/iDolJCGY8313BgVoEPE8op9yHOtPYTFMdRf3W3FxErh3278+Yyo1bE1fmJavP53KWRs2TdHXr/NreUYc65zG1bjKQOcAdbgC8SoqKjr6rW3jCHULOzinS4cjPlO9ytNxuyZtkz+A2bQwfTU58CiRAgaGvlNloSl7PjZjQp2ABYuhLvbUEBFR40BEJiNY=;kF7RGp3dodhgKtuL/jvaDQ=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2023/04/VB_security-breach-padlock_3_1200x800.jpg?w=1200&strip=all"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "SecurityScorecard becomes first security ratings platform to integrate GPT-4"
+    excerpt: "Security ratings firm SecurityScorecard Inc. today announced that it has integrated OpenAI LP’s GPT-4 with its security platform, becoming the first security ratings platform to do so. Announced at the RSA Conference 2023 in San Francisco,"
+    publishedDateTime: 2023-04-25T12:00:00Z
+    webUrl: "https://siliconangle.com/2023/04/25/securityscorecard-becomes-first-security-ratings-platform-integrate-gpt-4/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 18
+
+secured: "kmlZpBmrtxQ0VooG4KJ0z1fBmmNDJJsAIsNlVtf2NcY6U/qETjoK7ugmFk7q8Auzm34TpxpdW4+rTFfgvCI43y096FQ+uKyA4bsft2X7wfl3od0j36cg6u5nkgXk289s6PV9PpGgaMmrf7TtJVAvf795jLgvGAlELDZF8mJ9/nYVnV1mPxJ+cEqLNAaz5kn6Be5rrgcwSeCniKPrIiuq7vof+PVFVLeszxTPpHPBbAsWV6jTmY1h8mLDhriMxvz7KclKMRToD7RCuTBHHqHbMsdAegAboE2DwENUpXPUVW2eUPFPDO3SIHAz2Ua0vrFd1U6W8jlAUgfOrdLqgEVLYSSw9tFLCuFEFJX255T+L/s=;KJQkTlaXEI1zvt9nNdg0IQ=="
 ---
 

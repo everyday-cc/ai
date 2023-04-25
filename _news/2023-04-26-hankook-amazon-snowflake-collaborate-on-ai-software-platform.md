@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-25T19:41:00Z
 originalUrl: "https://www.rubbernews.com/tire/hankook-amazon-snowflake-collaborate-ai-data-platform"
 webUrl: "https://www.rubbernews.com/tire/hankook-amazon-snowflake-collaborate-ai-data-platform"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: Rubber and Plastics News
@@ -14,7 +17,14 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Machine Learning
 
-secured: "Z0jlPhmxkH9PDtEJTZGxqVfiyLdOQvbEKxmeTwuZYYrdjWWaKdPkpZeJQY7ctw2LGJlCOUSaSk7oiO/xT4Rthyk6V9tH+0MkC5ZI72NjWC3AlgkqyXq++x3lFJUJOBU1sAAfi9T9HEPr2I65VUmcO6aDJOUTDdRmfI0Wt8vrv8DbfkbQ3FJsL99y6tR/WWzWzdMuvKzAOd87uFlPHidMiCOaZxFSb0S2tP3J2WwKNacO+QrYt47VovRMcvaCd15nDwjxV6cIDRaLV6VL5KRkZHopNNv2QFOd9JejjbVSmY5Toe+cNs/Q/z4enOcRFxzJVprYfMTHxl1ML/8d3sQODpmjgtvnvsNJiNYIPgAEaSyXZCyvwu1+wB7+3iytgC8L/60wSwLCXBU6vBBatbfnRRnOpvdT+J+9v5qT3pmY6EDJWtoejzshv5zzE/CkGRYMy4GtycHDXCF9Ay2KRxj6328n43eQYSGRDxtYFvJvKCltl025Le0GtIjbA/mLm/xeriKR/DJcw03ipIkQROQdGg==;qeYk7nBBn4QpKu5+OSyfkw=="
+images:
+  - url: "https://s3-prod.rubbernews.com/s3fs-public/styles/1200x630/public/Hankook%20Stock%20Tire_i.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "BrfGGJ1uYD76o7AbXD7pImgqT6P6fxGgNr8q+p/sWc9M2Hc4B4ApG9IJLzFy5O9oktwZzJeImH7bm3NCfM6uIZulhnedCrEWFkEfeN99wFU/gV0NEh7msI5882WDKBkfQb99n0/414kPwVayTdWU+4HZe62mYWmbGNC86RjMaHmgYXUVTrYOAVTucC4vJpl5tG2dJO4KNVrv8ycS8BkkihxcsH8Ifk/PCPo16n0oxu8p74XR1f7yjMJz07fNukp9v/YIQP8HHuX2dBIzYe+COeKuCzCnzyyGv6SppaDfExGgn1PP5Nu3LJyCEXK3t97cSJ/AX6U8f6mtdRCWW7C3jqk7QIGrYtyYyPqDX9xkCp0=;72R21ZPojoyJSo82ghImMg=="
 ---
 

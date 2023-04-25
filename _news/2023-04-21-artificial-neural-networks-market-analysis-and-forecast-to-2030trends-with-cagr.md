@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-neural-networ
 webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-analysis-and-forecast-to-2030trends-with-cagr-2023-04-21"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: MarketWatch
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Self Driving Bus Market Size 2023, Latest Trends, Growth Drivers, Industry Analysis by Top Companies and Forecast 2030"
+    excerpt: "Self Driving Bus Market size is projected to grow from 2030 to2023, at a CAGR ofduring the forecast period. They"
+    publishedDateTime: 2023-04-21T12:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-size-2023-latest-trends-growth-drivers-industry-analysis-by-top-companies-and-forecast-2030-2023-04-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "oOzV/GgZ3SNAXffG6ajslRofSxLvowvjSEhhIXfEsdekmjiGaPi2MhaaRp+7XqXWqVfPMKeBYf/LtjIHKerhbo6QUsBEBzSrxnMSq/vycXUttLAc32F/1Ges+0aBwovhWbDAGEqYznT7uDtLtmAQDVbFNGEx7oTMB6/JrraxEv8NP/6C21qkYJEDxNbIt6QmjOnq8SdYm+3NTODEvaEf2+Jg2Mx8B/7tEwjgTxyb/ahAeiXKJcNlQQ3kya+tAGmAilv27GUu1ILLpue+oqk+iBA0MvkyrO5ihHyxEYGv+bOPT6ci3skJKWlX/b+fTfnzeozvB5Gp/JRaOe8++SwrFNYeh3HOqo5chTW/v2MqSDQ=;Ghm2yim2DeLAO2BztiqPfA=="
 ---

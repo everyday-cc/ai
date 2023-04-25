@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/most-promising-generative-artifici
 webUrl: "https://www.businessinsider.com/most-promising-generative-artificial-intelligence-startups-according-vcs-venture-capital-2023-3"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial generative intelligence risks a return to cultural colonialism"
+    excerpt: "The explosive rise of AI chatbots has brought us to a pivotal moment that will have lasting effects on our collective worldview."
+    publishedDateTime: 2023-04-25T20:10:00Z
+    webUrl: "https://venturebeat.com/games/artificial-generative-intelligence-risks-a-return-to-cultural-colonialism/"
+    ampWebUrl: "https://venturebeat.com/games/artificial-generative-intelligence-risks-a-return-to-cultural-colonialism/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/artificial-generative-intelligence-risks-a-return-to-cultural-colonialism/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 73
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-robot_machine_learning_AI_1323774184-e1659571276418.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "At The Dawn Of Artificial General Intelligence: Balancing Abundance With Existential Safeguards"
     excerpt: "The journey toward AGI will undoubtedly challenge us, but with collaboration, foresight and wisdom, humanity can harness its immense potential for the greater good."
     publishedDateTime: 2023-04-24T13:15:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-use-microsoft-edges-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-microsoft-edges-integrated-bing-ai-image-creator/"
 type: article
 quality: 104
-heat: 214
+heat: 234
 published: true
 
 provider:
@@ -114,6 +114,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft reports boost in profits, revenue, as it pushes AI"
+    excerpt: "Microsoft on Tuesday reported a 9% increase in profit for the January-March quarter, as growth in cloud computing sales helped bolster its plans to expand its use of artificial intelligence"
+    publishedDateTime: 2023-04-25T20:47:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/microsoft-reports-boost-profits-revenue-pushes-ai-98841359"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 54
+    images:
+      - url: "https://s.abcnews.com/images/Business/wirestory_c64ccdc3db334f544cecf521e0a61209_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Microsoft earnings: AI hype could take backseat to cloud growth troubles"
     excerpt: "A busy day for corporate earnings on Tuesday will be highlighted by Microsoft's latest report, expected to offer new updates on the company's AI initiatives."
     publishedDateTime: 2023-04-24T20:13:00Z
@@ -180,6 +194,15 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
+    quality: 34
+  - title: "Siemens and Microsoft Partner on Generative AI for Industry"
+    excerpt: "As part of the new Siemens Teamcenter app for Microsoft Teams, this integration of generative artificial intelligence reportedly enables users to input feedback verbally to aid production quality and controller programming tasks."
+    publishedDateTime: 2023-04-25T19:31:00Z
+    webUrl: "https://www.automationworld.com/factory/digital-transformation/article/33003971/siemens-and-microsoft-partner-on-generative-ai-for-industry"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
     quality: 34
 
 secured: "XwYEv64z6t1OEmQGk9zEomehhuIDJ9eN37g506QY7rInUV170FUDCmNIoe0Dz9kl/22+Pd20KFybfvFQdQXdq+VPEvOblkS/rY+3hmwOwYnYMJF+5J4A2jSjqnAeEzNfARBHrwaPI4Mu6V4GJEpZlTlUm+7qqNRpHrZlKuIRl96LiOnFeCLQdo2y6EfV7hJ1AMLOtr1TeqZWuxW2mvfixSjT+Id6Qmc6M0i7CZn+5tiZ5HoyzcxxWtA2Pw4hexr5ADvuIXY5Y6LYnlesYLn5BOLra0u/yyF0zoB7/SfbIC3dwi7jlDkhHPOJDUa0NYL43vns9UoeacZFKF6L0iBvld5vtwi+0cn8VIrbEj5dgvQ=;M9pNDriuC1m+gL+jU0O3/A=="

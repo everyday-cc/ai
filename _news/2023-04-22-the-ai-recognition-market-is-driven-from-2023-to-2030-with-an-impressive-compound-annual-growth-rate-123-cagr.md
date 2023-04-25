@@ -30,104 +30,122 @@ images:
     isCached: true
 
 related:
-  - title: "2023-2030 Artificial Intelligence Delivery Robot Market Growth Strategies and Insights"
-    excerpt: "Global “Artificial Intelligence Delivery Robot Market” research report for 2023 offers a detailed analysis of the"
-    publishedDateTime: 2023-04-21T13:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2030-artificial-intelligence-delivery-robot-market-growth-strategies-and-insights-2023-04-21"
+  - title: "AI In Computer Vision Market research Report with Analysis 2023 To 2030"
+    excerpt: "AI In Computer Vision Market Report Insights (2023-2030): (100 Pages Report) AI In Computer Vision Market Research"
+    publishedDateTime: 2023-04-25T07:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-with-analysis-2023-to-2030-2023-04-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 76
+    quality: 84
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Enterprise Artificial Intelligence Market 2023 Holding Highest CAGR by 2030"
-    excerpt: "The Enterprise Artificial Intelligence Market Scope and Overview Report for 2023 presents a detailed analysis of the"
-    publishedDateTime: 2023-04-24T06:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-enterprise-artificial-intelligence-market-2023-holding-highest-cagr-by-2030-2023-04-24"
+  - title: "AI In Computer Vision Market Report Explained Market Current Dynamics and Trends"
+    excerpt: "Latest Report of AI In Computer Vision Market 2023 The global AI In Computer Visionmarket size is projected to reach USD million by 2030, from USD million in 2020, at a CAGR during 2021-2030. With industry-standard accuracy in analysis and high data integrity,"
+    publishedDateTime: 2023-04-21T10:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-explained-market-current-dynamics-and-trends-2023-04-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 61
+    quality: 79
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-Driving or Driverless Cars Market Emerging Offers New Opportunities forecast 2023-2030"
-    excerpt: "Global Self-Driving or Driverless Cars Market research report offers a detailed analysis of valuable insight into"
-    publishedDateTime: 2023-04-22T05:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-emerging-offers-new-opportunities-forecast-2023-2030-2023-04-22"
+  - title: "AI In Computer Vision Market Report Focus On Landscape | Current And Future Development 2023-2030"
+    excerpt: "This study involves the strong analysis of manufacturing practices and standards applicable in AI In Computer Vision Market industry. A bottom-up and top-down strategy is used for both qualitative and quantitative estimate."
+    publishedDateTime: 2023-04-24T11:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-focus-on-landscape-current-and-future-development-2023-2030-2023-04-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 71
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Software Market 2023-2030| Discover Industry Scope and Opportunities"
-    excerpt: "The \"Artificial Intelligence Software Market\" Report covers the global and regional market with an in-depth analysis of"
-    publishedDateTime: 2023-04-24T02:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-2023-2030-discover-industry-scope-and-opportunities-2023-04-23"
+  - title: "Facial Recognition Market SWOT Analysis till 2030"
+    excerpt: "Facial Recognition Market” Are a Collection of Information and Analysis Obtained From Diverse Sources to Aid Businesses"
+    publishedDateTime: 2023-04-24T04:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-swot-analysis-till-2030-2023-04-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Autonomous Driving Software Platform Market 2023 Insights and Precise Outlook -NVDIA, Sensible 4, Hexagon, Baidu"
-    excerpt: "The Autonomous Driving Software Platform Market research report provides a comprehensive analysis of the market size, share, overview and growth prospects influencing the market growth. The global Autonomous Driving Software Platform market report helps buyers identify market challenges and opportunities."
-    publishedDateTime: 2023-04-21T11:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-driving-software-platform-market-2023-insights-and-precise-outlook--nvdia-sensible-4-hexagon-baidu-2023-04-21"
+  - title: "Artificial Intelligence in Manufacturing Market Research, 2023-2030"
+    excerpt: "Artificial Intelligence in Manufacturing Market Insights 2023 by Types (Deep Learning , Computer Vision , Context"
+    publishedDateTime: 2023-04-21T14:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-research-2023-2030-2023-04-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 48
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Self Driving Bus Market Size 2023, Latest Trends, Growth Drivers, Industry Analysis by Top Companies and Forecast 2030"
-    excerpt: "Self Driving Bus Market size is projected to grow from 2030 to2023, at a CAGR ofduring the forecast period. They"
-    publishedDateTime: 2023-04-21T12:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-size-2023-latest-trends-growth-drivers-industry-analysis-by-top-companies-and-forecast-2030-2023-04-21"
+  - title: "Speech and Voice Recognition Market Size 2023 Will Grow Rapidly Another Level in The Forthcoming Year"
+    excerpt: "Speech and Voice Recognition Market Size 2023 | New Report (106 Pages) | Analytics | In This Reports Speech and"
+    publishedDateTime: 2023-04-24T03:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-2023-will-grow-rapidly-another-level-in-the-forthcoming-year-2023-04-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Radiology AI market size is anticipated to expand significantly over the projected period of 2023 to 2030 with a CAGR of 8.5%"
-    excerpt: "The Global Market Overview of \"Radiology AI Market\"offers a unique insight into key trends shaping the industry world-wide and in the largest markets. Written by some of our most experienced analysts,"
-    publishedDateTime: 2023-04-23T03:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/radiology-ai-market-size-is-anticipated-to-expand-significantly-over-the-projected-period-of-2023-to-2030-with-a-cagr-of-85-2023-04-22"
+  - title: "Speech Recognition Market Size, Share, Key Players, Revenue, Research Report and Forecast 2023 to 2031"
+    excerpt: "The global speech recognition market was valued at $6.39billion in 2018, and is projected to reach $29.28 billion by 2026, registering a CAGR of 19.9% from 2019 to 2026. Speech recognition technology enables system to identify the sound of spoken words and convert them into machine readable form."
+    publishedDateTime: 2023-04-25T05:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-size-share-key-players-revenue-research-report-and-forecast-2023-to-2031-2023-04-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
+    quality: 33
+  - title: "Global Artificial Intelligence in Platform as a Service (PaaS) Market 2023 Staying Ahead in Industry Upcoming Years by 2030 | Research Reports World"
+    excerpt: "The Artificial Intelligence in Platform as a Service (PaaS) Market Scope and Overview Report for 2023 presents a"
+    publishedDateTime: 2023-04-24T06:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-platform-as-a-service-paas-market-2023-staying-ahead-in-industry-upcoming-years-by-2030-research-reports-world-2023-04-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence In Agriculture Market Report 2023: Sector Is Expected To Reach $4.9 Billion By 2030 At A CAGR Of 24.1%"
+    excerpt: "The \"global artificial intelligence in agriculture market size, share & industry trends analysis report by technology, application, offering, regional outlook and forecast, 2022-2028\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2023-04-24T17:08:00Z
+    webUrl: "https://menafn.com/1106081579/Global-Artificial-Intelligence-In-Agriculture-Market-Report-2023-Sector-Is-Expected-To-Reach-49-Billion-By-2030-At-A-CAGR-Of-241"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
 
 secured: "qjGRIcVQr1xJoCm02XMurYQ9LorUwr4xlryYldzMBq8W/P/zld8hKMWh9owpmyUp3ZHLheGX32r33PleBY9uFemuUA92dQSZVVBHKFI0bd1AKff6o18VkpkHOKCix/H+zrqSeHCIX62Va+7W7VyGOVMeSzLgydOXlYdJ+HtT99CMOjr/klTG6Gmf6YT1WlVHgzLj9MZBdAr+ATti8okSZCE60LqHUi4RBu+Jxw7N6cS9iFceEUfLBEr5+ddj8y2h51fxJEUkSQ6pOTyZIIHF14omDfK5HllePwkXyebj/+tgYVbx1bsN3i6L1c415wbpyWk96ibnRGbWKDywU60qaDbRtXIZQAY/5QKrKFYgnrg=;VIY/mTvwBPEOiEN59akGoQ=="
 ---

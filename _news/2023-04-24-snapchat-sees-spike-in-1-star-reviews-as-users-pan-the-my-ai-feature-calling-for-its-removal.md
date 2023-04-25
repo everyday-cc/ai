@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/04/24/snapchat-sees-spike-in-1-star-revi
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/24/snapchat-sees-spike-in-1-star-reviews-as-users-pan-the-my-ai-feature-calling-for-its-removal/amp/"
 type: article
 quality: 75
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Snapchat users flood app stores with 1-star reviews after launch of My AI"
+    excerpt: "Users swamped app stores with 1-star reviews. Snapchat’s overall U.S. App Store review score dropped from 3.05 out of 5 to 1.67 over the past week. The number of daily reviews also spiked to at least five times the normal amount."
+    publishedDateTime: 2023-04-25T18:42:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/apr/25/snapchat-users-flood-app-stores-1-star-reviews-aft/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 18
 
 secured: "bFNnyeJvdnvYOZn0mdAxmdfXIStQHRG0ZRQS72IZn/OKwSNpLjLkIqLV1qGM5LO7gKpaT6fzQF70cj5odIl2WupDJtfzuEg5r5CvtSv9aoK98XIRc/UnIcZS82VAXVJQmXC/Eg2uene5miq4UFNxQlLdvrvxn26wUpGYyRn0yrmU4RiWKCipNoq2IVszoYkVp64PdIHy+ybOFsfJe9pYLZX/an2LMAei/2W94ftJ67PR9RrueqOIt5Ir9EgoEXmbIEhthV/NtjnrbXn+Bjg6K+UMIbkzMNONnYJCV43kCh6nDibVnYBjis+aW76llFYNDPg4D/+QhirkbXvMzrLHunkzGRrTHyiHo+/4KICa2Q4=;2FPM0gnEkXROybAvNWndNg=="
 ---

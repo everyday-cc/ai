@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "Artificial generative intelligence risks a return to cultural colonialism"
+    excerpt: "The explosive rise of AI chatbots has brought us to a pivotal moment that will have lasting effects on our collective worldview."
+    publishedDateTime: 2023-04-25T20:10:00Z
+    webUrl: "https://venturebeat.com/games/artificial-generative-intelligence-risks-a-return-to-cultural-colonialism/"
+    ampWebUrl: "https://venturebeat.com/games/artificial-generative-intelligence-risks-a-return-to-cultural-colonialism/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/artificial-generative-intelligence-risks-a-return-to-cultural-colonialism/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 73
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-robot_machine_learning_AI_1323774184-e1659571276418.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "44 of the most promising generative-artificial-intelligence startups of 2023, according to investors"
     excerpt: "Estimated total funding for each startup is based on data from PitchBook unless otherwise specified. Adept What it does: Adept is a machine-learning research-and-product lab aiming to build AI ..."
     publishedDateTime: 2023-04-24T00:00:00Z

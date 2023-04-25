@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 814
         isCached: true
+  - title: "As AI Advances, Is Prompt Engineering the Next Crucial Legal Skill?"
+    excerpt: "Generative AI has taken the legal world by storm, and that means legal professionals are going to have to learn to communicate with machines. One key skill for doing so has emerged: prompt engineering."
+    publishedDateTime: 2023-04-25T19:47:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/04/25/as-ai-advances-is-prompt-engineering-the-next-crucial-legal-skill/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 17
 
 secured: "Sl6hQeT4nwlHyMV3H3ykeXrBXyQ9wITXQwmtWy+GYWLRLa9WmUL3RyO85RhRl6VMn1/urXdZb/V9SaZw6GH1UeNQq+LnkxuLpzWUQyGXCv4L4bGef6F86QnjTn78tECrwfFXKenrFcq0vDS4r+hvdf4bdkt3zx/rohZNU7+f9QlmxBQ/uhYW1x3cdw0NDGNZCKrSu2Z48+0WKG4rGvPC6ZP3wjUXFW6zwgHP1h8vshqV0bYDhREVRG7qbcIEyWSZTDrIbgwNggs7aqyPn0yQ4Vt9HGlpvfTAilA2UKMK9Rehgcl1oHqtr0FQQWkUmG0Gv/WGNr+rFRH5N/hB3lZG9fAwwdkQFuTv8tapvgC187C8WN0Ahr0QAZiRe5I7BVv+Thd0jNzLX/sqTYKDDRVifIeL8x0P08v8T5b+le1ETkneKa8YOSwBPD1pT9TfDtipuv+cqwfVr45YxMbdo8/b/LjnnXxg52aAHoHEt3VLoKRswT3nbbq6HGUB4oVsiNVbOTJ58/4EZ5yxdgSNWB4oSA==;j4zMZ3rvbGwOE5AvY2NdRw=="
 ---

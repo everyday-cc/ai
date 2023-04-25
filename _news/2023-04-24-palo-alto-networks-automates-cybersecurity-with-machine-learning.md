@@ -7,7 +7,7 @@ originalUrl: "https://www.infoworld.com/article/3693108/palo-alto-networks-autom
 webUrl: "https://www.infoworld.com/article/3693108/palo-alto-networks-automates-cybersecurity-with-machine-learning.html"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1280
         height: 723
         isCached: true
+  - title: "Transforming digital landscapes: Cloud solutions, cybersecurity and AWS’ approach"
+    excerpt: "In fact, AWS has a dedicated team working around the clock to ensure a fully secure, efficient cloud experience for its clients. “I do a lot of work around securing ourselves, and then I also talk to customers and empathize with them about what it takes to do security at scale in the cloud,"
+    publishedDateTime: 2023-04-25T18:33:00Z
+    webUrl: "https://siliconangle.com/2023/04/25/transforming-digital-landscapes-cloud-solutions-cybersecurity-aws-approach-rsac/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 14
 
 secured: "rZvRBsi9vnD1UznqL56O4ooAnwwHDfBappf6fuAOH8G4Ui2YGsF5o2+jqjTP98FkRGMVTHg6PUO7bUHj6aoJMub3JtjLtdfOzjfgvmPXtpujavD4ZYD171b4VnBLR1c8HdGPPHoPSnjSm7/Vw6Yjwi3ngklyvPgnUbR+ts+y0ZnuihAZ8X+0NHCbQ95GudWFXu7IlAK1l5eFGZ4Gp+G9V8A2Cm4Aj+z3qAwikdc4F04uxaqdL4KeEKKxsjyoD5dMVEnms75YA59iZbEBevWDfKNV1qj44rPwj6dcJhDVQYPK65fvPzGcACBhIj9hGRcI01XgaYSqiflNkj+AHHu77Vb1+3Oxd19aKdbm0ZTbSkgEaTzwz9DF0CmhiqbxcGi89YvIMUDNxGL1G3cxoyJoxI9msMqltIfkLFcSBWakki9kjDvw/5ngdDkLAgdeVoq/X/CHf3d9oQSEuiVsfr9x9fZD8TKEiGTIsM64K3BfTsSjzPwEhGPkcRfOYUwd32JLPmPMgVzXtGC6ib1hqtMBUg==;yG5PREE8J4iQUSCvXY7Vkw=="
 ---

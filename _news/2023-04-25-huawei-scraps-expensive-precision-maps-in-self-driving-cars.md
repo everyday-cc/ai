@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Huawei scraps expensive precision maps in self-driving cars"
+    excerpt: "GUANGZHOU -- Huawei and other Chinese self-driving car companies are developing alternative technologies to high-definitions maps as the precision required for autonomous vehicles makes the mapping process prohibitively expensive. \"High-definition maps are ..."
+    publishedDateTime: 2023-04-25T17:11:00Z
+    webUrl: "https://asia.nikkei.com/cms/Spotlight/Electric-cars-in-China/Huawei-scraps-expensive-precision-maps-in-self-driving-cars"
+    type: article
+    provider:
+      name: Nikkei Asia
+      domain: nikkei.com
+    quality: 4
+
 secured: "we7dya64YdIaAl4qJz2AYYh8BwwLOPfzHxy0MxM4+JVLe21yXHRA6eMzq6jImJ25AtbtKmDqDniksY5Q0C6ei8L2bdd86VN75gDRdwBcvWP69U5FNbNDfTGpkxSH78nWMWnhIRVIBuhp6lH5hql4c/J2CwfBjoGjqtyisQuPNeXbrR1v7q7aZqHWOB8WeyQZtARko/09BctKdYH2C4JlXPyq7I3SGUWm7ed8qgPY4EmP2MKI6uc8paFyhMi89F96gP3jHvKmejzrJDeZwQck/UGUHtojFpZQoRraEHVT74TeRHlJ8AvkTuB5d8fvNv0+kCVGFDgXY0GrPu5KPvG5yRmKC28H+fpTWiuAaZXqWTE=;G3oXSwURqpeRecdQiAI1xw=="
 ---
 

@@ -24,6 +24,17 @@ images:
     height: 316
     isCached: true
 
-secured: "i9/99iKDplEVY10hYiOKdaan7eMWQm5FLFZ/FliZfxc4VTJILmSUflTflLKrDCIIxCsu81cYFyCLAyV3RvtGXmNTu/s62MnUbuw9nSq7zEKPCjb4WNg3RMA33HvAiaf4nb1M78x1Bqf5UGXZO5G5nmSpFlKFWbIq/fSkw429CXZsrE+tNCSkoYxS7owMq7NKQNXvCZzawSBFTsPgNBgXfo8Ay9pE5d5NeUZnSqRdia5fqkeYST0UX9wjOV94O7d20LThLkndZ+75WsKxe4VTcjxycxFwE81feblEEMnvJGRxEDypf0BUBZEI0Y4jORa/l++dIfL9KbhxWxwcTH16JLjO/MobcwYTh2HTCiNKbco=;yPBgAvH3BncieOtfLAQiqQ=="
+related:
+  - title: "WiMi Releases A Highly Reliable Silent Speech Recognition System Based on Multi-featured Signal Sensing Technology"
+    excerpt: "(NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today disclosed a highly reliable silent speech recognition system based on multi-featured signal perception technology."
+    publishedDateTime: 2023-04-25T19:06:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/04/25/9801042.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
+secured: "YJ8982Ir9FIAvDbfwY1UFcFiOL7rhkQweJq74lnXukRWOHQ/rbMjkZgOWHydAhNAJATeDEMrqWPtAE56y4AWTuKnIxjHNtI7e0h/3TUlBR0vqL9wQEpaHvqCVrDJ/OztLsNqmK9MXsPnyJEtY8pJpSGVDpnj4IBVBOWrVzwHiXVXBg7iIjp0Lf+oI60AvHpYYmuxeTtbjGh07LESvzcRqBiOD+FeWlXnYp6H2Mg5mwCwkS4czdU34+73+g/suKpPKYfzKCsjMihin0fOz74hse6OO/YtOXFWKG2tIXbw/4zqTeckjzn9umuA44yxBZ61jfWT2UpWarZufkEoph5lMqIh1jCl10HfkRiIWT/yclUxB0SgbmiLb9/Iwn+C5qARGWARq1QMc4DHj/kaOvdasedp025RqVTVFXgivCbMvtZ6WbqR65j3SWZfeedy4yOQe9xVI7hKz7Sx8+KDZNShw6XdKdBErGTJc0PTF1Y/bu1c8SBQ4xKnCNe9k4pTrn1alC7TSeDbNVAWFmIwq8oV0A==;agUVC2Fd76M/3qaJkCfPrA=="
 ---
 

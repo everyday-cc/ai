@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/yellow-ai-launches-dynamic-automation-pla
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/yellow-ai-launches-dynamic-automation-platform-powered-by-generative-ai-for-enterprises/amp/"
 type: article
 quality: 79
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Deloitte teams with NVIDIA on artificial intelligence platform for logistics and retail"
+    excerpt: "Consulting firm Deloitte today launched a suite of artificial intelligence (AI) tools for logistics and retail businesses, saying they can help users to enhance customer experiences, optimize operations,"
+    publishedDateTime: 2023-04-25T17:40:00Z
+    webUrl: "https://www.dcvelocity.com/articles/57292-deloitte-teams-with-nvidia-on-artificial-intelligence-platform-for-logistics-and-retail"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 24
 
 secured: "1bG3UFUhN7lGzuBQYQSpkSDYcNahL8oXuO+P/2iN2OZF/JYDG/WNEoTHNAcvL7B+fW2RR8q3Z+1tXVbFDX23YRBeKQPnTLOeuhzkf0D1vJfhSOxmo9or/Yko5JRVUWYReAnFA+tBuJAGBZkQ1hCOL8cjbxGspk4WOr5f09lZLuAU4y575VEh+DGqlcFMRpslIDWlIxGJQstMjRBazqMsB/CMh2CqtUdOZ9KsIcrZsuf+ps1Xr7bCeKk5yOuKKWc4TQrXq1XLmIC2VCFAJqfMqZujEd17tdBasrovwnl6LT5YjIXTlI8OeBSfyziTzCAG9CTI2/zVIarM81wLWDzAZFciqcLVvJ9INwUFydq6IX2AF81qhwF4ZiPcnuCCCK0VIEIIlN/fPUhOTTE93dlHG9mz7dvlwtq8W3McHy6nb832WhJNE7377HwPuHEg4gKMa0xRETGXb9UkoZPImoKr93sTi2EP5iN/B+WSyoe3nM5WcLsZ91yp8CyBIUQn1Uvq1cnF7ySTn3iL9rgjBHJn3A==;z0wwdKVEOuB+WS6VQfUtyA=="
 ---

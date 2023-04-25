@@ -79,15 +79,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech Recognition Market Size, Share, Key Players, Revenue, Research Report and Forecast 2023 to 2031"
-    excerpt: "The global speech recognition market was valued at $6.39billion in 2018, and is projected to reach $29.28 billion by 2026, registering a CAGR of 19.9% from 2019 to 2026. Speech recognition technology enables system to identify the sound of spoken words and convert them into machine readable form."
-    publishedDateTime: 2023-04-25T05:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-size-share-key-players-revenue-research-report-and-forecast-2023-to-2031-2023-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
 
 secured: "MYXbga5UhA3Ajc8caeEmmKFlHuMVOhvmwcAgeM5swEHxA2ONfhkItHPijs4QZsadp/0xZIySJGea4nT0cdM+PlLKS7D40r/ErGqgHu1j4t7VdF9QvTwI4bGeUf+IfxC3gVjgdP0tjyE5FUKRIuL5m/IRlZ/A7GPLVe5wYjGDpXF2cjnoxjHFir76CVMNN7evdxXoKXevE/lV/u4VcuK/80s5PuYM7Cy+tUpSvlm6v1+22dFjepVlYIPm0Zu3DZzSchCgZ7GDG/g+B3eEaNsTVnN6Z2aVCO4wqCsFqasSgOpCmwM/vZZwXpnpvmHfJcSBoaeF7T0Uyg6P3x/0CY1NrzfFF2gGSotH02EMxwAphCI=;wTlG3ufMnvxxhfOdy2f+ug=="
 ---

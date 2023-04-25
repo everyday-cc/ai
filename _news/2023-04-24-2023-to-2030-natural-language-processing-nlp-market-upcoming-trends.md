@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare Artificial Intelligence (AI) Market Research, 2023-2030"
-    excerpt: "Healthcare Artificial Intelligence (AI) Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 118 Pages Report The extent and overview of the various commercial opportunities throughout the ensuing years are shown in the global \"Healthcare Artificial Intelligence (AI) Market\" research report,"
-    publishedDateTime: 2023-04-21T03:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-research-2023-2030-2023-04-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 99
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market to Experience a Significant Increase in Revenues"
     excerpt: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Size 2023 | New Report (122 Pages) | Analytics"
     publishedDateTime: 2023-04-24T03:44:00Z

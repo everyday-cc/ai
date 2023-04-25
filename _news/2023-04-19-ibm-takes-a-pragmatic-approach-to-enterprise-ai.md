@@ -15,6 +15,12 @@ topics:
   - IBM AI
   - AI
 
-secured: "f89mS1veDNRKXaMv4A4jH4Okq00yHeVXM38kPyDgImToWgJDH8JtITrZJXqyjvxOG031bUAgGgRvPb5DnmVtp8bhNmtSae3+640oOCIDQPoQyGkZCpgD2S8XG32EfhsDCqrR/Ha0ihsmyxAXBikSXdwakr+uhIQUWbSIc3ezgpj0s/4evOF1tV5T6ULqXjJUNIltEPhTV5OpofM3YMJCDZj0u5Ow6epUQp7SV8uOcPcoccJk86CHOsFO8M5+GECFujsQtpJlIq+B+faGMWuV4HiM3lNV5RlN4Jb8IFo8wqDf9pqGZunDzGN9RnXF74S8jaF/OTbAHAD15TA+MLQA7ZsBKDENPehvjKPoQn0TJNw=;foUhd/4b/18TJX6XkTz2Tg=="
+images:
+  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/artificial-intelligence-machine-learning-and-modern-computer-and-picture-id1209989402-100903158-large-100912674-orig-100935023-orig_3.jpgautowebp8570"
+    width: 472
+    height: 315
+    isCached: true
+
+secured: "hC1rTZQNm4SrnzI7u0d14ZlSG4PF56pDxTM2NpabHxFGxRr1iwxvUVPkGfddVuxD8QkxVdPacsa2Uhje21D4WwzUquVG5eZD+fn/3rKc5oKmG/1B23iPw3Ct06sLVMz7NUeUZySX5S4OqeeNoK/QVJlgQd5GD2A89Q+NqvjsUK2xqa5TAjE3W6S4/+Ts34CYDZUjHCxr565rSTy4EGG3fDTkiHYccJ6Db+FIfYaahUYD/nrwslP8ECRa2tolsOs8XgeAc4eeJypJ1T1lQ+ICIAdsz6+9F6BOnhH4CdQH9t4nR9740P5kHTR8HsuYi9hz+H5SkRZF9omQ28CvpxhX7msqb3haBh4r7XcxR49gHi8=;AJZHK/G/MtoQxWstcAzszQ=="
 ---
 

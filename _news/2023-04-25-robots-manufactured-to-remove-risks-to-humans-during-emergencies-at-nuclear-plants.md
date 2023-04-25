@@ -39,6 +39,15 @@ related:
         width: 1031
         height: 630
         isCached: true
+  - title: "Rescue Robot designed by Forth Engineering will remove risk to people"
+    excerpt: "REMOTELY operated rescue robots capable of withstanding hazardous environments will make emergency jobs across UK nuclear plants significantly"
+    publishedDateTime: 2023-04-25T17:00:00Z
+    webUrl: "https://www.newsandstar.co.uk/news/23479458.rescue-robot-designed-forth-engineering-will-remove-risk-people/"
+    type: article
+    provider:
+      name: News and Star
+      domain: newsandstar.co.uk
+    quality: 19
 
 secured: "/uXm5ialusKgsNHgljMCknYVU9nzfosSAHSKlnl0jLxwFg7Afux8K7m+SrK4yGp3nQEipXyEVwVKuhq1HHgwO/ykmqR507QGcDRydcEZfEzqPjVp8sobRtRV0RnvsOS2WqFXclXjc8RslVMdEDv8lyq7lgKnnxRZqo/otpcZeo11tlXs72u6pFEFL12BBqlSg+aEwHpiW+izj0299SW8wWfhfzpJYJOw9gUN02+fIoixSEBRlVLQUzaiPIEy79aYDteUwUqSb/S4K/lgQmZZNFOXdmpIx4aHjUatrFklJkqVMyzaBfuYBa2ALBglUaBNogAC6hRn8THCa6aBjRXzErXUbzd9iuBgqKxRDA4EgelTzzpszea/aIVYu8B/dJgOWuH2VuAJQxPDt6aoZltPX4dRBAEzSLAb36Q55Qb/T0WDKDKjT9mXAQDd9mI6B4hlKMz3gI3wwUvNZp37C6BmQH6fsoCorKdSaiAz230SuGxhjFhQmz2rGQrlzeZSwtRF8N7RlfrjXgbzfflHQSUtKA==;v9ZDChzlAaiRhENLH2XtNQ=="
 ---

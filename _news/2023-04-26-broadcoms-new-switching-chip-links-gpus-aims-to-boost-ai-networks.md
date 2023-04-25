@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-25T19:30:00Z
 originalUrl: "https://www.networkworld.com/article/3694588/broadcoms-new-switching-chip-links-gpus-aims-to-boost-ai-networks.html"
 webUrl: "https://www.networkworld.com/article/3694588/broadcoms-new-switching-chip-links-gpus-aims-to-boost-ai-networks.html"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Network World

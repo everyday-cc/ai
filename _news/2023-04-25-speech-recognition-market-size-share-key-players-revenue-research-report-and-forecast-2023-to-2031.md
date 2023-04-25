@@ -23,71 +23,127 @@ topics:
   - AI
 
 related:
-  - title: "Deep Learning Chip Market Size, Share, Key Players, Revenue, Demand, and Forecast 2031"
-    excerpt: "Deep Learning Chip Market [ NEW REPORT 2023] offers a whole overview of the present-day market kingdom of affairs and affords a forecast until 2031. This report provides a balanced mix of qualitative and quantitative data that highlights imperative market developments,"
-    publishedDateTime: 2023-04-25T08:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-size-share-key-players-revenue-demand-and-forecast-2031-2023-04-25"
+  - title: "AI In Computer Vision Market research Report with Analysis 2023 To 2030"
+    excerpt: "AI In Computer Vision Market Report Insights (2023-2030): (100 Pages Report) AI In Computer Vision Market Research"
+    publishedDateTime: 2023-04-25T07:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-with-analysis-2023-to-2030-2023-04-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 78
+    quality: 84
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market [2023], Global Demand, Industry Size, Revenue Analysis, Regional Share and Competitive Landscape"
-    excerpt: "Fortune Business Insights™ published a \"Artificial Intelligence in Healthcare Market\"Business Analysis and Growth"
-    publishedDateTime: 2023-04-24T04:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2023-global-demand-industry-size-revenue-analysis-regional-share-and-competitive-landscape-2023-04-24"
+  - title: "AI In Computer Vision Market Report Explained Market Current Dynamics and Trends"
+    excerpt: "Latest Report of AI In Computer Vision Market 2023 The global AI In Computer Visionmarket size is projected to reach USD million by 2030, from USD million in 2020, at a CAGR during 2021-2030. With industry-standard accuracy in analysis and high data integrity,"
+    publishedDateTime: 2023-04-21T10:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-explained-market-current-dynamics-and-trends-2023-04-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 79
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Radar Market Latest Trends, Segmentation Analysis, Share, Size, and Forecast 2023 to 2031"
-    excerpt: "The global radar market was valued at $32.56 billion in 2019, and is projected to reach $49.43 billion by 2027, to register a CAGR of 3.80% from 2020 to 2027. Radar is an electronic system, which measures the range and behavior of objects by transmitting an electromagnetic pulse at the object."
-    publishedDateTime: 2023-04-24T07:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/radar-market-latest-trends-segmentation-analysis-share-size-and-forecast-2023-to-2031-2023-04-24"
+  - title: "AI In Computer Vision Market Report Focus On Landscape | Current And Future Development 2023-2030"
+    excerpt: "This study involves the strong analysis of manufacturing practices and standards applicable in AI In Computer Vision Market industry. A bottom-up and top-down strategy is used for both qualitative and quantitative estimate."
+    publishedDateTime: 2023-04-24T11:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-focus-on-landscape-current-and-future-development-2023-2030-2023-04-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 71
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Data Science and Machine-Learning Platforms Market Size and Share Expanding worldwide by 2023"
-    excerpt: "Data Science and Machine-Learning Platforms Market Size 2023 | New Report (130 Pages) | Analytics | In This Reports"
+  - title: "Facial Recognition Market SWOT Analysis till 2030"
+    excerpt: "Facial Recognition Market” Are a Collection of Information and Analysis Obtained From Diverse Sources to Aid Businesses"
+    publishedDateTime: 2023-04-24T04:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-swot-analysis-till-2030-2023-04-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Manufacturing Market Research, 2023-2030"
+    excerpt: "Artificial Intelligence in Manufacturing Market Insights 2023 by Types (Deep Learning , Computer Vision , Context"
+    publishedDateTime: 2023-04-21T14:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-research-2023-2030-2023-04-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The AI Recognition market is driven from 2023 to 2030 with an impressive compound annual growth rate 12.3% CAGR."
+    excerpt: "The Global Market Overview of \"AI Recognition Market\"offers a unique insight into key trends shaping the industry world-wide and in the largest markets. Written by some of our most experienced analysts,"
+    publishedDateTime: 2023-04-21T22:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-ai-recognition-market-is-driven-from-2023-to-2030-with-an-impressive-compound-annual-growth-rate-123-cagr-2023-04-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market Size 2023 Will Grow Rapidly Another Level in The Forthcoming Year"
+    excerpt: "Speech and Voice Recognition Market Size 2023 | New Report (106 Pages) | Analytics | In This Reports Speech and"
     publishedDateTime: 2023-04-24T03:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-size-and-share-expanding-worldwide-by-2023-2023-04-23"
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-2023-will-grow-rapidly-another-level-in-the-forthcoming-year-2023-04-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Graphic Processing Unit (GPU) Market Upcoming Trends, Size, Key Players, Revenue, Share, and Forecast 2023 to 2031"
-    excerpt: "Graphic Processing Unit (GPU) Market [NEW REPORT 2023] offers a whole overview of the present-day market kingdom of affairs and affords a forecast until 2031. This report provides a balanced mix of qualitative and quantitative data that highlights imperative market developments,"
-    publishedDateTime: 2023-04-24T06:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-upcoming-trends-size-key-players-revenue-share-and-forecast-2023-to-2031-2023-04-24"
+  - title: "Global Artificial Intelligence in Platform as a Service (PaaS) Market 2023 Staying Ahead in Industry Upcoming Years by 2030 | Research Reports World"
+    excerpt: "The Artificial Intelligence in Platform as a Service (PaaS) Market Scope and Overview Report for 2023 presents a"
+    publishedDateTime: 2023-04-24T06:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-platform-as-a-service-paas-market-2023-staying-ahead-in-industry-upcoming-years-by-2030-research-reports-world-2023-04-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 27
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence In Agriculture Market Report 2023: Sector Is Expected To Reach $4.9 Billion By 2030 At A CAGR Of 24.1%"
+    excerpt: "The \"global artificial intelligence in agriculture market size, share & industry trends analysis report by technology, application, offering, regional outlook and forecast, 2022-2028\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2023-04-24T17:08:00Z
+    webUrl: "https://menafn.com/1106081579/Global-Artificial-Intelligence-In-Agriculture-Market-Report-2023-Sector-Is-Expected-To-Reach-49-Billion-By-2030-At-A-CAGR-Of-241"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
 
 secured: "rNp+9oOAtwHdleSIPtqCPmaqc3p00kbqRs9O+c27XCQk3ZJmNRLh0EIeBSbsjPQsmGBpU3aQM3wmt+oQvovhWXfDqhwDubbLd2Poeo+pjPwR4h6StuULu76uBfwVmuG+gcTHUmNLNkrhTebcz7bjPqKyUVbfH5J3hCOYGw9qBxWJ7sQfezVDZR2LMIX5GPcs+j+FgVSQtC80HU6q1ATwGD5oNXxAJ6P+yxUylirwJd0dfqbCBsoGIuXi7mDKFc6x1b44JlPCkzpWOXjwnhpBVvJ2ukx4lxwDXHslaW0d/EGMpOznvRMlKQP16284pj3hCHMgqV0qF88ltcySNqGmmQ0Rvmm/+mNmIoou/OWzZ10=;9FXE0f+F5YErqtsgXhYyxA=="
 ---
