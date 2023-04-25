@@ -24,100 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "AI revolution: Manufacturers hope for artificial intelligence boost in factories"
-    excerpt: "Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery. There has been an explosion of interest in uses of AI across many sectors since the launch last year of chatbot ChatGPT from US startup OpenAI."
-    publishedDateTime: 2023-04-24T05:18:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories-71682272340109.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories-71682272340109.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories-71682272340109.html"
+  - title: "EUROPE Zooming in on AI, rates and chips wars"
+    excerpt: "A look at the day ahead in European and global markets from Vidya Ranganathan."
+    publishedDateTime: 2023-04-25T03:31:00Z
+    webUrl: "https://www.reuters.com/markets/europe/global-markets-view-europe-2023-04-25/"
     type: article
     provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 69
+      name: Reuters
+      domain: reuters.com
+    quality: 84
     images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/04/24/1600x900/AI-COMPANIES--2_1681557402437_1681557402437_1682312254516.JPG"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Manufacturers hope for AI boost in factories"
-    excerpt: "Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery."
-    publishedDateTime: 2023-04-23T18:01:00Z
-    webUrl: "https://techxplore.com/news/2023-04-ai-boost-factories.html"
-    ampWebUrl: "https://techxplore.com/news/2023-04-ai-boost-factories.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-ai-boost-factories.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/manufacturers-see-pote.jpg"
-        width: 1024
-        height: 680
-        isCached: true
-  - title: "Cold robots revolutionise cold chain logistics"
-    excerpt: "The labour attraction to the cold chain facilities is not growing, however, the market does. The global cold storage market"
-    publishedDateTime: 2023-04-21T09:45:00Z
-    webUrl: "https://www.aircargoweek.com/cold-robots-revolutionise-cold-chain-logistics/"
-    type: article
-    provider:
-      name: AIR CARGO WEEK
-      domain: aircargoweek.com
-    quality: 54
-    images:
-      - url: "https://www.aircargoweek.com/wp-content/uploads/2023/04/Cold-Robots-Revolutionize-Cold-Chain-Logistics.jpeg"
-        width: 1385
-        height: 766
-        isCached: true
-  - title: "AI is 'next revolution' in health care. What are the industry's ethical responsibilities?"
-    excerpt: "Robots won't be doing your surgery anytime soon. But AI has a major role to play in health care. What are the human ethical responsibilities around that technology?"
-    publishedDateTime: 2023-04-21T14:52:00Z
-    webUrl: "https://www.bizjournals.com/atlanta/news/2023/04/21/medical-ethics-artificial-intelligence.html"
-    ampWebUrl: "https://www.bizjournals.com/atlanta/news/2023/04/21/medical-ethics-artificial-intelligence.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/atlanta/news/2023/04/21/medical-ethics-artificial-intelligence.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 45
-  - title: "Manufacturers hope for artificial intelligence boost in factories"
-    excerpt: "Manufacturing firms are keen on using AI to automate the repair of complex machinery, thereby increasing efficacy and solving technical issues. This development was showcased in Germany's industrial Home Fair,"
-    publishedDateTime: 2023-04-24T02:22:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/manufacturers-hope-for-artificial-intelligence-boost-in-factories/99718084"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 39
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-99718084,imgsize-152838,width-1200,height=765,overlay-etcio/next-gen-technologies/manufacturers-hope-for-artificial-intelligence-boost-in-factories.jpg"
+      - url: "https://www.reuters.com/resizer/sCjPgigxGRsErknWN7eSfxLsGZY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/45VBV2HLUJOF7NWNRIGT6ESZLE.jpg"
         width: 1200
-        height: 765
+        height: 628
         isCached: true
-  - title: "Revolutionising Legal Automation: VAIOT’s AI Legal Assistant Sets the Foundation for the Future"
-    excerpt: "The use of Artificial Intelligence (AI) is bringing about a revolution in industries, allowing for the automation of repetitive tasks done by businesses and consumers alike. The emergence of conversational AI such as ChatGPT and GPT-4 has resulted in the AI industry experiencing a significant surge,"
-    publishedDateTime: 2023-04-20T12:30:00Z
-    webUrl: "https://techbullion.com/revolutionising-legal-automation-vaiots-ai-legal-assistant-sets-the-foundation-for-the-future/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 27
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/04/Automation-1000x600.png"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Manufacturers hope for AI boost in factory repairs"
-    excerpt: "HANOVER–Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery."
-    publishedDateTime: 2023-04-24T10:30:00Z
-    webUrl: "https://www.manilastandard.net/business/power-technology/314324509/manufacturers-hope-for-ai-boost-in-factory-repairs.html"
-    type: article
-    provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 19
 
 secured: "RvZAmrPxa3VWid+Yx4eYsCcO24apUfZfw5LDmMBpd9MnhCxsSl4pn5puMk2jEdoQYjRQGlCPCeJrCpi03jiTjkFn583nI/jwXpq0Fl6WNFHmEHWHc5lb14JWswrl/I45Wt7hYGSuQx0ew9BnXo9qmcPG0iwtG14MY0SXsGq6LixkV8pWaTKWTWE5KGsqtRC8IsGJdCQQxEoOD5l3wZiPlHyKDsfrOXp9KWV4y4IvmOBXanNsmkENODiTgSV4s0a+PV23dJ2toLidg8pmmT1ESnUt/Gu+vTPHX1eqhXIlSxMr6NSWUbXChO4ma79/Fo2qCtcWNHt8Eov2PIIUFfCrgn2NiC7/Ibz4d+JeHxNLwVs=;jvACT6EXR/RsRxCuoJUjcQ=="
 ---

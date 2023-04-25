@@ -7,7 +7,7 @@ originalUrl: "https://www.infoworld.com/article/3693108/palo-alto-networks-autom
 webUrl: "https://www.infoworld.com/article/3693108/palo-alto-networks-automates-cybersecurity-with-machine-learning.html"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Cyble Triumphs Yet Again With 9 Category Wins at the Global InfoSec Awards 2023, Including Editor's Choice for Cybersecurity Startup"
+    excerpt: "Cyble, the Y Combinator-backed leader in AI-powered global cyber threat intelligence, today announced that it has been named a winner in 9 categories of the 11th Annual Global InfoSec Awards hosted by the Cyber Dfense Magazine CDM,"
+    publishedDateTime: 2023-04-25T04:41:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2428608-cyble-triumphs-yet-again-with-9-category-wins-at-the-global-infosec-awards-2023-including-editors-choice-for-cybersecurity"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2428608-cyble-triumphs-yet-again-with-9-category-wins-at-the-global-infosec-awards-2023-including-editors-choice-for-cybersecurity?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2428608-cyble-triumphs-yet-again-with-9-category-wins-at-the-global-infosec-awards-2023-including-editors-choice-for-cybersecurity?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 26
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_51_6762345.png?width=1280"
+        width: 1280
+        height: 723
+        isCached: true
 
 secured: "rZvRBsi9vnD1UznqL56O4ooAnwwHDfBappf6fuAOH8G4Ui2YGsF5o2+jqjTP98FkRGMVTHg6PUO7bUHj6aoJMub3JtjLtdfOzjfgvmPXtpujavD4ZYD171b4VnBLR1c8HdGPPHoPSnjSm7/Vw6Yjwi3ngklyvPgnUbR+ts+y0ZnuihAZ8X+0NHCbQ95GudWFXu7IlAK1l5eFGZ4Gp+G9V8A2Cm4Aj+z3qAwikdc4F04uxaqdL4KeEKKxsjyoD5dMVEnms75YA59iZbEBevWDfKNV1qj44rPwj6dcJhDVQYPK65fvPzGcACBhIj9hGRcI01XgaYSqiflNkj+AHHu77Vb1+3Oxd19aKdbm0ZTbSkgEaTzwz9DF0CmhiqbxcGi89YvIMUDNxGL1G3cxoyJoxI9msMqltIfkLFcSBWakki9kjDvw/5ngdDkLAgdeVoq/X/CHf3d9oQSEuiVsfr9x9fZD8TKEiGTIsM64K3BfTsSjzPwEhGPkcRfOYUwd32JLPmPMgVzXtGC6ib1hqtMBUg==;yG5PREE8J4iQUSCvXY7Vkw=="
 ---

@@ -26,6 +26,22 @@ images:
     height: 952
     isCached: true
 
+related:
+  - title: "Self-driving cars must learn the language of cyclists to keep roads safe"
+    excerpt: "Future generations of self-driving cars should learn the language of cyclists to help them safely share the roads with bikes, new research suggests."
+    publishedDateTime: 2023-04-25T05:40:00Z
+    webUrl: "https://www.gla.ac.uk/news/headline_948008_en.html"
+    type: article
+    provider:
+      name: gla.ac.uk
+      domain: gla.ac.uk
+    quality: 23
+    images:
+      - url: "https://www.gla.ac.uk/media/Media_949727_smxx.png"
+        width: 650
+        height: 366
+        isCached: true
+
 secured: "S4KWaWMwY8B0bYq0y+mBxU6VkbmrRP9R1zkKNyM6fR+ywj6sOqRr7pmoRuyj/8NID2pV2RfteaVHSitQ55UzEhSltNgZx2VgnEqNFxEOhy/hJiZRuF57jwi3gdpnBswAymGNj/tevYaiGrHdtdY6UCwIgSV5dd7D8YgaDXYi/7TG4kG9EnnTDPb+VQS0HcMLX1FHtSBcRf3G1/YLXOYpcvMNosf2VAvmsQw6Mve6MGApDHDwvPrT+RteUtKOdXcJSblGw+jVLhAnddSmLWjFDY9E5xeE+76IkvRtYpMv7iLPp5Wwlj+w8Ph+gmlVSpaD6rdXO1J4ei4EEMFsrz10sKHPMOJrtfI3+TRLZMfy7WSj2H5XwCnF2iXdJnDHaTZBPyrHP0EpomKN/CXuWkVUk3+tBBzSq/ZRdWTUHSXP39haWl71s4Vxev3UiPgEHPKduR2yRl/Gs+YcLOcV3mAiCBTW1v0jRlXmP1Mj2LMQEcTs83lEJCGy/5DFdBPMKRnZ2sWHf6b1Sj0HHmXQcPZ1WA==;zX1S8aFNqsm8CqzQFbVoTA=="
 ---
 

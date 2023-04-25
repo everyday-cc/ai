@@ -90,34 +90,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Artificial Intelligence will revolutionise Europe’s SMEs"
-    excerpt: "Artificial Intelligence (AI) is, suddenly, everywhere. Thanks to a new breed of solutions and platforms such as OpenAI’s ChatGPT, Google’s LaMDA and Meta’s LLaMA, the power and potential of AI and its future role across all industries as well as society has been sharply brought to the fore."
-    publishedDateTime: 2023-04-24T04:35:00Z
-    webUrl: "https://www.altfi.com/article/10639_artificial-intelligence-will-revolutionise-europes-smes"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
-    quality: 37
-    images:
-      - url: "https://www.altfi.com/images/featured/artificial-intelligence-will-revolutionise-europes-smes.jpg"
-        width: 1200
-        height: 720
-        isCached: true
-  - title: "Revolutionising Legal Automation: VAIOT’s AI Legal Assistant Sets the Foundation for the Future"
-    excerpt: "The use of Artificial Intelligence (AI) is bringing about a revolution in industries, allowing for the automation of repetitive tasks done by businesses and consumers alike. The emergence of conversational AI such as ChatGPT and GPT-4 has resulted in the AI industry experiencing a significant surge,"
-    publishedDateTime: 2023-04-20T12:30:00Z
-    webUrl: "https://techbullion.com/revolutionising-legal-automation-vaiots-ai-legal-assistant-sets-the-foundation-for-the-future/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 27
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/04/Automation-1000x600.png"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "bWje3qigi5jV7aLFCmCli9UVfNRLq6ZFsMpb2gUqxeIq1yNOmmFiRMKn5Q6f8fV3QmqzGM3p+ld/FtQLCHzAY4DSFIcsLEAShE0dbbmrLbQRbXx2UFxyYLFcuU7MUVd+9WPrqVGDNnzx3KdnjTroHhzOOs63qBt3jTMaLm03CDi7prCWGNBmZkCVCToQKQQ+qu31EcBGWqTHTKPBIO8J8/Xb0N6MRkX5qE/voyjxE6PdvdTSXtBOJ5jfK1lWPxNENXmp7p0FZd5aaH1ENOUp56ApUQfJaMJpa2HxV2+N3n1wjJYK7H7liMCp3qEnlGo0FRjLfYMsxRGPXIfzsfwHpbAhU0KunXbNGQlla0fJhqiZzwHvIEdKJuj1IUn8tL+smXi021chD4yQsqFV7jiGxf/b/JSOH1KT7+RgfeGX+I5ivHeF57s+snT9CGAG87thLjFrhVFCszYVggjbDEj2wUBmTonYhkWDNKeQU7db53IP2jhWBwTP1fr4U4iFpVWD7haSOXlB+aXoUKFi8cJdow==;za4sov2q0oH+us7shNihjg=="
 ---

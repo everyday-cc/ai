@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/04/24/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/24/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
 type: article
 quality: 89
-heat: 259
+heat: 269
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://ychef.files.bbci.co.uk/live/624x351/p0fhn46s.jpg"
         width: 624
         height: 351
+        isCached: true
+  - title: "ChatGPT Makes Waves in Yokosuka: First AI Chatbot Used in Japanese Municipality Offices"
+    excerpt: "The AI-powered chatbot, ChatGPT will be used in a one-month trial to improve operations and free up human resources for tasks"
+    publishedDateTime: 2023-04-25T04:49:00Z
+    webUrl: "https://www.gizmochina.com/2023/04/25/chatgpt-yokosuka-administration-breakthrough/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 61
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/04/np_file_222875-e1682397707915.jpeg"
+        width: 1500
+        height: 1008
         isCached: true
   - title: "Entity List Chinese AI chip company rules out working on ChatGPT-like products"
     excerpt: "Chinese AI chip start up Cambricon Technologies has announced that it won't directly engage in the development or sales of any product similar to ChatGPT."

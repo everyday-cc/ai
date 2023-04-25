@@ -2,21 +2,29 @@
 category: news
 title: "AI system can generate novel proteins that meet structural design targets"
 excerpt: "The researchers from MIT, the MIT-IBM Watson AI Lab, and Tufts University employed a generative model, which is the same type of machine-learning model architecture used in AI systems like DALL-E 2."
-publishedDateTime: 2023-04-20T15:29:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/986534"
-webUrl: "https://www.eurekalert.org/news-releases/986534"
+publishedDateTime: 2023-04-20T15:35:00Z
+originalUrl: "https://phys.org/news/2023-04-ai-generate-proteins.html"
+webUrl: "https://phys.org/news/2023-04-ai-generate-proteins.html"
+ampWebUrl: "https://phys.org/news/2023-04-ai-generate-proteins.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-ai-generate-proteins.amp"
 type: article
-quality: 18
-heat: -1
+quality: 58
+heat: 68
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/protein-folding.jpg"
+    width: 2880
+    height: 2366
+    isCached: true
 
 related:
   - title: "AI system can generate novel proteins that meet structural design targets"
@@ -29,6 +37,6 @@ related:
       domain: sciencedaily.com
     quality: 48
 
-secured: "2nEq/6rTHRBS7H6LYy+THLOzjMxDU1Vt4DuvY/NvaxW4BtJuPsSCQ8XmeC/ZZB7gyKUGGx3DGJZ9WisrwV3DQcqN3jPNs1UutxljGXLuCbDIdfYkVMW8+qEvUWAVmgBbGdUTXyjl+3ymR29jXv8NYjoMw6w+eWD+L8Crc1x3rsnKjpxcTI6D/Or5AmydvXZiHUAAtsJlJxJ/VXTgONDcqLWVdhk1THeCaVKPl826Uyy9tJ3JyivpNjS+KAVph0V3iQW9mqJFf7bcD3b+liSHufZ71P7aIFrGQrPTe4iGBYWjsqu9OEuNHBsrhK2eleE3StNX7P1Flb3SzUhhny7YfOMk38E+W/hb7X5kXZ47LAc=;DJ0GUbag4+TBohkqGQNLeQ=="
+secured: "M2k61QQb3PA2POsykR/aw+n2PTskGsM/bAAmpMVLTfebi6P1UjEzwqLqi3lPUMvq42tTTZqvt6F8Q764Erz1YFr8X38OE8iT0nXQLm/LYrE7YMzfI+UPEBugZzR37q6gQF5WI4GuhFFkcizLasQuIp6il6W1hku+YqfHccMReuv50Z9Wnd1TyBvVh2Jgdd5Sz+JbxGgEqYuinSET3sP4rTfaRHQiAlIvENHjIgO9t1/c6/Tbyp3qdcE3HQfBCDxHzE/uF5kqB8T4Oj4kwgbnqhxYt8X8eRa+U1JdcmulJjGOV6XZSy/81RXKmIpnQk4hWSI0Yt/9/EYxsMTIWJ92G2edwaWHJvqtw8suwndIoLQ=;LGHGyJ+LxSaEbIu7S+TE6Q=="
 ---
 

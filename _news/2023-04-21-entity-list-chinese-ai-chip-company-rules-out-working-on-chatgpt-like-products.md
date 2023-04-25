@@ -103,6 +103,20 @@ related:
         width: 624
         height: 351
         isCached: true
+  - title: "ChatGPT Makes Waves in Yokosuka: First AI Chatbot Used in Japanese Municipality Offices"
+    excerpt: "The AI-powered chatbot, ChatGPT will be used in a one-month trial to improve operations and free up human resources for tasks"
+    publishedDateTime: 2023-04-25T04:49:00Z
+    webUrl: "https://www.gizmochina.com/2023/04/25/chatgpt-yokosuka-administration-breakthrough/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 61
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/04/np_file_222875-e1682397707915.jpeg"
+        width: 1500
+        height: 1008
+        isCached: true
   - title: "YouTube case at Supreme Court could shape protections for ChatGPT and AI"
     excerpt: "A forthcoming decision whether to weaken a powerful shield protecting internet companies could have implications for artificial intelligence chatbot ChatGPT."
     publishedDateTime: 2023-04-24T09:12:00Z

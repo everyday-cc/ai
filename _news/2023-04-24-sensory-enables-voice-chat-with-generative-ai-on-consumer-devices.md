@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/sensory-enables-voice-chat-with-generativ
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/sensory-enables-voice-chat-with-generative-ai-on-consumer-devices/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Three issues with generative AI still need to be solved"
-    excerpt: "While generative AI has captured the attention and imagination of many in the tech world, underlying issues could hinder its spread."
-    publishedDateTime: 2023-04-20T12:58:00Z
-    webUrl: "https://www.computerworld.com/article/3694189/three-issues-with-generative-ai-still-need-to-be-solved.html"
-    ampWebUrl: "https://www.computerworld.com/article/3694189/three-issues-with-generative-ai-still-need-to-be-solved.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3694189/three-issues-with-generative-ai-still-need-to-be-solved.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/02/shutterstock_1227346972-100937394-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Sales Engagement Software Outplay Launches Next-Gen Features With Regenerative AI"
     excerpt: "Introduces all-in-one multi use-case features that will enable sales teams to achieve their goals across the sales life cycle without the need"
     publishedDateTime: 2023-04-24T15:42:00Z

@@ -24,6 +24,17 @@ images:
     height: 960
     isCached: true
 
+related:
+  - title: "Autonomous Vehicles: China’s DriveGPT is here, time for Tesla and co to play catch-up"
+    excerpt: "Bolstered by Beijing’s blueprint for connected and intelligent cars, companies are operating robotaxis and working on advanced autonomous driving technologies, including high-definition maps, smart cockpits and so-called V2X,"
+    publishedDateTime: 2023-04-25T05:15:00Z
+    webUrl: "https://www.moneycontrol.com/news/opinion/autonomous-vehicles-chinas-drivegpt-is-here-time-for-tesla-and-co-to-play-catch-up​-10470971.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 12
+
 secured: "BP6wHVIFioH+osVGJ9KxMhgpSHAwco5jhC8Uz7lC+cKAbnYDbfbLa+elqdfhfgUJQ8dYGeBNgOE3Aj86LLTjuO3LnWwaYDGEc5w1JpxqZrpf8D9vC5NnrOpxccQtk13D5jrVg+rzJA7FwAqtVXaAN52CfDUFRHHXhE8vcxExNRbCNgWYrYAZFexROiZah3MIln49rPWj0i7Mu2K8pt/+xt16no89HRLuq8IiW1nGtnm5FzUkYkNChPh2604sDicwC0gTDFnI5G3jxcv6H3dMC3gdU09TNsY+O7uIv/bDuB2Cuw6sLAeOOQafZXmK+8QLJh/9x1s7lUiifVsPcz4w/rizs68drWdVymMMd7+2/Ik=;pZxPVpPTw+cC9O0ZN/dngQ=="
 ---
 

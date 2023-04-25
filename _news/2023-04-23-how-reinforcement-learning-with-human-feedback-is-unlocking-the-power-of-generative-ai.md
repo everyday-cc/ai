@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Latest Cadence tools bring generative AI to chip and system design"
+    excerpt: "The latest version of the Cadence's Virtuoso Studio brings new capabilities to analog, RF and custom silicon designs that leverage generative AI principles. Among several other"
+    publishedDateTime: 2023-04-20T16:30:00Z
+    webUrl: "https://www.techspot.com/news/98391-latest-cadence-tools-bring-generative-ai-chip-system.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 84
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2023/04/2023-04-20-image-15.jpg"
+        width: 3000
+        height: 1963
+        isCached: true
   - title: "These are the 9 best books to get up to speed on the hot new world of generative AI, according to experts"
     excerpt: "The AI Revolution in Medicine: GPT-4 and Beyond Author: Peter Lee, Carey Goldberg, and Isaac Kohane. Lee, Corporate VP for Research and Incubations at Microsoft; Goldberg, medical and science ..."
     publishedDateTime: 2023-04-24T00:00:00Z
@@ -74,7 +88,7 @@ related:
     provider:
       name: WOWT.com
       domain: wowt.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://do0bihdskp9dy.cloudfront.net/04-25-2023/t_4acfa4e84bdd4394918dfa85bc95c986_name_file_1280x720_2000_v3_1_.jpg"
         width: 1280
@@ -93,20 +107,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/04/ai-india-chip.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Generative artificial intelligence on our “Babbage” podcast"
-    excerpt: "GENERATIVE AI is taking the world by storm. Babbage has explored artificial intelligence through a variety of lenses. OpenAI’s ChatGPT, an advanced chatbot released in late-2022, amassed over 100 million monthly active users and exhibited unprecedented capabilities,"
-    publishedDateTime: 2023-04-20T11:51:00Z
-    webUrl: "https://www.economist.com/AI-pods"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 39
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230422_STP502.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Generative AI: The Missing Piece in Financial Services Industry?"
     excerpt: "The financial services industry is ripe for digital transformation ... By generating synthetic data to train machine learning models, generative AI can help financial institutions identify patterns and anomalies that may indicate fraudulent activity ..."

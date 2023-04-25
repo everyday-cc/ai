@@ -8,7 +8,7 @@ webUrl: "https://www.wowt.com/video/2023/04/25/artificial-intelligence-playing-i
 ampWebUrl: "https://www.wowt.com/video/2023/04/25/artificial-intelligence-playing-increasing-roles-workplace/?outputType=amp"
 cdnAmpWebUrl: "https://www-wowt-com.cdn.ampproject.org/c/s/www.wowt.com/video/2023/04/25/artificial-intelligence-playing-increasing-roles-workplace/?outputType=amp"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://do0bihdskp9dy.cloudfront.net/04-25-2023/t_4acfa4e84bdd4394918dfa85bc95c986_name_file_1280x720_2000_v3_1_.jpg"
@@ -42,6 +43,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/62825152c50f091b0e2568f8/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 799
+        isCached: true
+  - title: "Latest Cadence tools bring generative AI to chip and system design"
+    excerpt: "The latest version of the Cadence's Virtuoso Studio brings new capabilities to analog, RF and custom silicon designs that leverage generative AI principles. Among several other"
+    publishedDateTime: 2023-04-20T16:30:00Z
+    webUrl: "https://www.techspot.com/news/98391-latest-cadence-tools-bring-generative-ai-chip-system.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 84
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2023/04/2023-04-20-image-15.jpg"
+        width: 3000
+        height: 1963
         isCached: true
   - title: "How reinforcement learning with human feedback is unlocking the power of generative AI"
     excerpt: "How reinforcement learning with human feedback helps ensure that businesses are building ethical generative AI models."
@@ -89,20 +104,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Generative artificial intelligence on our “Babbage” podcast"
-    excerpt: "GENERATIVE AI is taking the world by storm. Babbage has explored artificial intelligence through a variety of lenses. OpenAI’s ChatGPT, an advanced chatbot released in late-2022, amassed over 100 million monthly active users and exhibited unprecedented capabilities,"
-    publishedDateTime: 2023-04-20T11:51:00Z
-    webUrl: "https://www.economist.com/AI-pods"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 39
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230422_STP502.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Generative AI: The Missing Piece in Financial Services Industry?"
     excerpt: "The financial services industry is ripe for digital transformation ... By generating synthetic data to train machine learning models, generative AI can help financial institutions identify patterns and anomalies that may indicate fraudulent activity ..."
     publishedDateTime: 2023-04-21T15:31:00Z
@@ -132,6 +133,6 @@ related:
         height: 400
         isCached: true
 
-secured: "/kimATJaMWHyahDyBvGfDVR8TgzR8GFBQn88q51bW5bGO9H2aXe0W+GRkEBF+F2k45fmOSKOWasaLFeHn2/6eY51xUHudiLGfYJ2xf9BwR5z7PqGSGaIowvy3bVXIuoAvgW0Lv8pctGVbzkiDFdjmcx0p9mcGwwYmFixPH/esBocnjw5BqsZIdpMaKvY+rUs5ByMwvOxtiQPeDWDfInabgXOkF609AHwtKBPk3ya0LCeP2YIDK22NBPMebiSGRHQSSB93Jv2xfpLJ4eYAoEN8WTqH/jXDzSkVGX7+cxk0vDhrF4HU/k0WOArV0Ss0noyiMC/zyX4rLGGujQ/IGiXvqHSh9khOy/vGC8ys2xwOoI=;8F7LkorlV+mImGCgHQF7VA=="
+secured: "oXSf7n6qKfM4Fws/9gzlu/T9mBQ14Phf7QcChSt35Z4/VM1/X8wUsf5RMoa7Dzq/NojLHAns4diR28/mtB6jE1f7tfbINrfHNFZ8n+xvo0p5cxe9IOwUg4yKlz1kMxMxhLyAkZko6neoRYvgZyH42sj9HvzZ5eVnwLwgjHVUwHtAfKjZ0LV2XPmcxOUfQUStPqyxNw0Suxz9a+6Ls71QcQ9qDXW8at/Ze/NclU01wMOh+PdhT4Rkq3p0brH+m357q+CqrZk10O0od1fXWrxkibcBmzlrte1K1kvtPUD06xakZjDqejAa4ZHQ/fs8qh/jwhMBCTbbosdWiDJ5ZhOPyZxTlo6CkVDwQuJEjl4PC0WhXi9ZaM3oyWouadBWnaf8ZZtnQaoaMxlK9Sy5Ecs0J5wo4xLQk5ixD6vJSuFo2BvEjOgF5iQmCmIT4X8skutx61bTMXEOZeWKpRvLzmWh+2VbrNl0oNOqoBbDIbpeuvkoObpdtT6w73a/8x75tsHetXX6h+p9ATtdHC5PkGsRFQ==;TIr1kfrj3gQwzObAHQ9+Jg=="
 ---
 

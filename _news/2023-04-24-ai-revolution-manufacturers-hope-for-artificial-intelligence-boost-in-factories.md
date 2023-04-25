@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-revolution-manufact
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories-71682272340109.html"
 type: article
 quality: 69
-heat: 139
+heat: 119
 published: true
 
 provider:
@@ -81,34 +81,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-99718084,imgsize-152838,width-1200,height=765,overlay-etcio/next-gen-technologies/manufacturers-hope-for-artificial-intelligence-boost-in-factories.jpg"
         width: 1200
         height: 765
-        isCached: true
-  - title: "Artificial Intelligence will revolutionise Europe’s SMEs"
-    excerpt: "Artificial Intelligence (AI) is, suddenly, everywhere. Thanks to a new breed of solutions and platforms such as OpenAI’s ChatGPT, Google’s LaMDA and Meta’s LLaMA, the power and potential of AI and its future role across all industries as well as society has been sharply brought to the fore."
-    publishedDateTime: 2023-04-24T04:35:00Z
-    webUrl: "https://www.altfi.com/article/10639_artificial-intelligence-will-revolutionise-europes-smes"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
-    quality: 37
-    images:
-      - url: "https://www.altfi.com/images/featured/artificial-intelligence-will-revolutionise-europes-smes.jpg"
-        width: 1200
-        height: 720
-        isCached: true
-  - title: "Revolutionising Legal Automation: VAIOT’s AI Legal Assistant Sets the Foundation for the Future"
-    excerpt: "The use of Artificial Intelligence (AI) is bringing about a revolution in industries, allowing for the automation of repetitive tasks done by businesses and consumers alike. The emergence of conversational AI such as ChatGPT and GPT-4 has resulted in the AI industry experiencing a significant surge,"
-    publishedDateTime: 2023-04-20T12:30:00Z
-    webUrl: "https://techbullion.com/revolutionising-legal-automation-vaiots-ai-legal-assistant-sets-the-foundation-for-the-future/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 27
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/04/Automation-1000x600.png"
-        width: 1000
-        height: 600
         isCached: true
   - title: "Manufacturers hope for AI boost in factory repairs"
     excerpt: "HANOVER–Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery."
