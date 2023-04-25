@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3694158/google-s-bard-ai-to-take-o
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3694158/google-s-bard-ai-to-take-on-github-copilot-and-amazon-codewhisperer.amp.html"
 type: article
 quality: 87
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Google’s Bard can now generate, debug code as reports surface of AI ethics concerns"
+    excerpt: "While Bard will try and help you debug your code, Google says it 'may sometimes provide inaccurate, misleading, or false information while presenting it confidently,' making double-checking paramount"
+    publishedDateTime: 2023-04-25T03:31:00Z
+    webUrl: "https://www.rappler.com/technology/google-bard-debug-code-artificial-intelligence-ethics-concerns/"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 48
+    images:
+      - url: "https://www.rappler.com/tachyon/2022/10/google-logo-antitrust-reuters-scaled.jpg"
+        width: 2560
+        height: 1708
+        isCached: true
 
 secured: "4miB5TwwwC4CgTHkfJGUBbO9WxVcMsAOCTH9x4aGYhPdUuQ9PTgte41d7Mwf7sIXd7SgVz1gag+LkqmQajRr0GZSUOYR+uBj8lWz2rKOdMF88Vsr3DFrs4DGOOiyQuPLebpNv+PaI5BMkl89Q775aqnlCnYkhB3+sI+CaX81gQ4V8K44zATaet8dAUihBshEso05Q1txF8olImPukaRqtaQdqhVZjuphrE1POw7p9sLe2V4Z3PaCb4tPeFrnrUYBSFzfilEJwkzJtigSK4GVL1yVza9i7cV2NcZX03DZLSlp4/LUK7tzXJ1fZIKBj0tc9qjMn7Uc/uswUue1C3lB+aBc3z3E2N5/ZpkoYsFH1g8gWhbiCuiIRr55sxvKNcDxRRHa+AUVOmjaF3JQ07ChXBU1HoBhHwOu5RCQo8iM9BxJVQs1lWMuIKlpmuR8YnOp0ANQCxWJQrVvJGMbARQsJKvktfyZtYpU0xXcxPUpd50Rt2SzJHTxZNibbT3NP0+p/cQAd4pKrGV+HuN2OW/lag==;Xso/FRewvMmXSCf9Mb64lA=="
 ---

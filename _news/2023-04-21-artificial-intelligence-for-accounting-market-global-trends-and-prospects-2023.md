@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-global-trends-and-prospects-2023-2023-04-21"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Cognitive System & Artificial Intelligence (AI) Systems Market Forecast: Analysis of Industry Trends and Opportunities | 2023-2030"
+    excerpt: "Apr 23, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The 2023 research report on the"
+    publishedDateTime: 2023-04-24T02:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-system-artificial-intelligence-ai-systems-market-forecast-analysis-of-industry-trends-and-opportunities-2023-2030-2023-04-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "3D Camera Market worth $9.1 Billion by 2028 - Exclusive Report by MarketsandMarkets™"
     excerpt: "The global 3D camera market is expected to be valued at USD 3.6 Billion in 2023 and is projected to reach USD 9.1 Billion by 2028; it"
     publishedDateTime: 2023-04-24T16:00:00Z

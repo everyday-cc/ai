@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/generative-ai-cloud-startup-coreweave
 webUrl: "https://www.wsj.com/articles/generative-ai-cloud-startup-coreweave-raises-221-million-megaround-f817b027"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "CoreWeave Raises $221M Series B to Expand Specialized Cloud Infrastructure Powering the Generative AI and Large Language Model Boom"
-    excerpt: "CoreWeave (\"the Company\"), a specialized cloud provider built for large-scale GPU-accelerated workloads, today announced it has secured $221 million in Series B funding. The round was led by Magnetar Capital (\"Magnetar\"),"
-    publishedDateTime: 2023-04-20T13:50:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/04/20/9798813.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "2AZm85CBYbZZS+f0Pz+rXhLLKfvIlIO8+Xt3gjtV0qJPDehi35O/TKr40lE7EEc623Rt1riFQNeFAYca4HroqSccUNGLePjXgFrp9g/BSatvhLGdjnXqZ5QTO3tjzAqgt0V1eRdJ7AxlxEJJ0X3NTJWl5OwSxNRQWGTeEfWdkPdNx48EnfffE6Oyg9f3VnH+I0JicI6zQuf2NBYeGdb79CUThjXCpYWrFMLp3ygYPmvwPhddDsPLh+ZrWHnzZtnE+tZj0ca9vW2r1gTOolvd+zqUfn/dBc9yTCyfLeNxZIEvmMCjDTQ8FExMXSfiQ/2cPGSxtB9rXeO8HDRWuhcwff922lCuuyctkqJMBAfgs6EqbJnUsaO/oivb2bmppr5Mk2WgFQNT7z3bm+gvVNJRWX1V6eRnU7HfHPyEqetaEXh2Z0CJrw4z2gVz2JOBznZ4LjhkftcgB5UsMLvg13vDaLr5S2b/g2avbuDyj5/tFPFwmuiNkVQzZVvg6SYVShNSpKXFZGl9OnjsspkTptStQQ==;ilb7ZEtzfyWN4pOZ43x4Ag=="
 ---

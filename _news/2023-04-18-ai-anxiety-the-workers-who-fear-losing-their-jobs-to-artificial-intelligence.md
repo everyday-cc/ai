@@ -20,6 +20,8 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://ychef.files.bbci.co.uk/live/624x351/p0fh6sjs.jpg"

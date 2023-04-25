@@ -2,9 +2,9 @@
 category: news
 title: "Microsoft reportedly working on its own AI chips that may rival Nvidia’s"
 excerpt: "Microsoft is reportedly working on its own AI chips that can be used to train large language models and avoid a costly reliance on Nvidia. The Information reports that Microsoft has been ..."
-publishedDateTime: 2023-04-18T14:10:00Z
-originalUrl: "https://www.theverge.com/2023/4/18/23687912/microsoft-athena-ai-chips-nvidia"
-webUrl: "https://www.theverge.com/2023/4/18/23687912/microsoft-athena-ai-chips-nvidia"
+publishedDateTime: 2023-04-18T14:47:00Z
+originalUrl: "https://www.theverge.com/2023/4/18/23687912/microsoft-athena-ai-chips-nvidia?ref=upstract.com"
+webUrl: "https://www.theverge.com/2023/4/18/23687912/microsoft-athena-ai-chips-nvidia?ref=upstract.com"
 type: article
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 628
     isCached: true
 
-secured: "H6MykeSDwuMsxhC12VzVDpwIp5HLTtl7MbcyfLJkgKismSnde7XxvaePbTDqNEYAImZ5CHC3KOln9t4XrBnpD+VJ9boNFqE1eWHeb8V5DxzT3nvwnhAnoat/eC78eZFzw6z67VTfIYSB9DukpQGnmNTzXZ2S2J46xopRfYPfInhqr2QLZVQ7bH1btHpH/0gCBcNqWnUVBz1omfwrExXZ7uQcL1h//PJXYuhC2W0LLjjk+/xw4oI1OJR9LMHh5KeNRGoXik8h22y/xsMZbPPMELDfxC8KAHP1jTfQuInPoTPzjgBKNQUxDIJ/FfBANyyfiHypmAwfYwmtjM+qLGkxnu8ajJ7r6a5gBU5L/Gsq7e0=;2NLl3bOI63RtfqW7PwQL1g=="
+secured: "x+arPtMiOBBwBoEKou5nnl8eUYyKzOMxxghsSJkUYdahxLlz10QGosfTSV1MjPrMjqUAvTzHEUOhcAkfTJJDthSSRrAsLZjxHn8QhI4tQLdtqkXHf6fetecOLX0SWvZQ7c3SEC46VFHwmL1hhEm+wGRv6lajef9RUF/8ykkVwMNQhl2JQohLLeLiN7NIKCrRhskGMwvrHvRgVTw4YRzff06bx+l+fs4SDQRTC4xNcfMd8XHYpxsEU/buNoVfcUwGDyvdHWC/VISt14YwJpqgk951piejyRNueqmzioHSJ33zUuOmUNHsvFiQ7StOcyMt6Ymu2QRelRWvJ/mFZoBnDMROUjuTO7awvdaeE+WErXI=;ts+R5uyUBbbPP7LqBigssg=="
 ---
 

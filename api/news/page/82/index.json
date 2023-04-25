@@ -2,6 +2,212 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2023-02-08-climbing-robot-performs-leading-edge-blade-repair-in-the-field.md",
+      "title": "Climbing robot performs leading-edge blade repair in the field",
+      "excerpt": "Leading-edge blade damage can compromise the aerodynamic performance of a wind turbine by up to 3%. Following five years of development, and drawing on the experience of a small team of mechanical, electronic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.windtech-international.com/product-news/climbing-robot-performs-leading-edge-blade-repair-in-the-field",
+      "originalUrl": "https://www.windtech-international.com/product-news/climbing-robot-performs-leading-edge-blade-repair-in-the-field",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.windtech-international.com/images/stories/Features/2023Features/JanFeb23Images/roperobotics-fig-1.jpg",
+          "width": 450,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T01:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windtech International",
+        "domain": "windtech-international.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-08-intellect-design-arena-gains-on-collaborating-with-aws.md",
+      "title": "Intellect Design Arena gains on collaborating with AWS",
+      "excerpt": "AWS will accelerate Intellect's go-to-market strategy around co-build, co-market, and co-sell for IntellectAI, the insurance and wealth line of business, with Artificial Intelligence products designed for commercial underwriting, wealth and capital markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/news-cm/intellect-design-arena-gains-on-collaborating-with-aws-123020801323_1.html",
+      "originalUrl": "https://www.business-standard.com/article/news-cm/intellect-design-arena-gains-on-collaborating-with-aws-123020801323_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/news-cm/intellect-design-arena-gains-on-collaborating-with-aws-123020801323_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/intellect-design-arena-gains-on-collaborating-with-aws-123020801323_1.html",
+      "publishedDateTime": "2023-02-08T01:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-08-appsquadz-takes-the-stage-as-a-proud-sponsor-at-the-aws-empower-india-summit-in-hyderabad.md",
+      "title": "Appsquadz Takes The Stage As A Proud Sponsor At The AWS Empower India Summit In Hyderabad",
+      "excerpt": "AppSquadz is a leading technology solutions provider that offers a range of services, including cloud computing and web & mobile app development",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105541702/Appsquadz-Takes-The-Stage-As-A-Proud-Sponsor-At-The-AWS-Empower-India-Summit-In-Hyderabad",
+      "originalUrl": "https://menafn.com/1105541702/Appsquadz-Takes-The-Stage-As-A-Proud-Sponsor-At-The-AWS-Empower-India-Summit-In-Hyderabad",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?892040",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T01:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-08-self-driving-cars-would-be-a-climate-disaster.md",
+      "title": "Self-driving cars would be a climate disaster",
+      "excerpt": "Self-driving cars have an emissions problem. A recent study by researchers at the Massachusetts Institute of Technology measured the energy consumed by powerful onboard computers that serve as the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/90846919/self-driving-cars-would-be-a-climate-disaster",
+      "originalUrl": "https://www.fastcompany.com/90846919/self-driving-cars-would-be-a-climate-disaster",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T00:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-08-smartphone-vision-syndrome-hyderabad-woman-suffers-blindness-after-spending-hours-on-phone.md",
+      "title": "Smartphone vision syndrome: Hyderabad woman suffers blindness after spending hours on phone",
+      "excerpt": "Long-term use of devices such as computers, smartphones, or tablets can cause various eye-related disabling symptoms, referred to as computer vision syndrome (CVS) or digital vision syndrome ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/trends/smartphone-vision-syndrome-woman-suffers-blindness-after-spending-hours-on-phone-10030421.html",
+      "originalUrl": "https://www.moneycontrol.com/news/trends/smartphone-vision-syndrome-woman-suffers-blindness-after-spending-hours-on-phone-10030421.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/02/Collage-Maker-08-Feb-2023-01.34-PM-770x435.jpg",
+          "width": 770,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/trends/smartphone-vision-syndrome-woman-suffers-blindness-after-spending-hours-on-phone-10030421.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/smartphone-vision-syndrome-woman-suffers-blindness-after-spending-hours-on-phone-10030421.html/amp",
+      "publishedDateTime": "2023-02-08T00:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-08-aws-announces-aws-space-accelerator-2023-to-promote-global-space-sustainability.md",
       "title": "AWS announces AWS Space Accelerator 2023 to promote global space sustainability",
       "excerpt": "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ...",
@@ -881,238 +1087,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-the-future-of-artificial-intelligence-is-here.md",
-      "title": "The Future of Artificial Intelligence Is Here",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is already becoming the defining market trend of",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-future-of-artificial-intelligence-is-here-1032075261",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-future-of-artificial-intelligence-is-here-1032075261",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T11:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-googles-300m-ai-bet-startup-tackles-long-covid-and-giving-computers-a-sense-of-smell.md",
-      "title": "Google's $300M AI bet, startup tackles long Covid, and giving computers a 'sense of smell'",
-      "excerpt": "As the world remains captivated by OpenAI's artificial intelligence tool ChatGPT, Google is making sure it doesn't fall too far behind in the AI race. Google (NASDAQ: GOOG) announced recently that it invested $300 million in generative AI startup Anthropic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/boston/inno/stories/news/2023/02/07/google-ai-inno-national-beat.html",
-      "originalUrl": "https://www.bizjournals.com/boston/inno/stories/news/2023/02/07/google-ai-inno-national-beat.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T10:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-retail-investors-flock-to-small-cap-ai-firms-as-big-tech-battles-for-share.md",
-      "title": "Retail investors flock to small-cap AI firms as Big Tech battles for share",
-      "excerpt": "Microsoft is in a strong position in the AI race due to the combination of its close partnership with OpenAI and its Azure capabilities around compute and data, Barclays analyst Raimo Lenschow said. \"If you're investing in AI, you should consider the fact ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/markets/us/retail-investors-flock-small-cap-ai-firms-big-tech-battles-share-2023-02-07/",
-      "originalUrl": "https://www.reuters.com/markets/us/retail-investors-flock-small-cap-ai-firms-big-tech-battles-share-2023-02-07/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/cBkck-JqWLZDnSksg7GpxDUQR7Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KASZ6ASEFVO2TLU2YM7JQE35MI.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T10:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-artificial-intelligence-opens-the-door-to-more-effective-antibodies-potential-applications-for-covid-19.md",
-      "title": "Artificial Intelligence Opens The Door To More Effective Antibodies - Potential Applications For Covid-19",
-      "excerpt": "Advances in artificial intelligence antibody modeling may pave the way to reduce time spent during the identification process. Rather than sorting through millions of B-cell receptor sequences ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/williamhaseltine/2023/02/07/artificial-intelligence-opens-the-door-to-more-effective-antibodiespotential-applications-for-covid-19/",
-      "originalUrl": "https://www.forbes.com/sites/williamhaseltine/2023/02/07/artificial-intelligence-opens-the-door-to-more-effective-antibodiespotential-applications-for-covid-19/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63e27f0c676fbc18e84c9761/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/williamhaseltine/2023/02/07/artificial-intelligence-opens-the-door-to-more-effective-antibodiespotential-applications-for-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/02/07/artificial-intelligence-opens-the-door-to-more-effective-antibodiespotential-applications-for-covid-19/amp/",
-      "publishedDateTime": "2023-02-07T10:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-first-on-cnbc-cnbc-transcript-microsoft-ceo-satya-nadella-speaks-with-cnbcs-jon-fortt-on-power-lunch-today.md",
-      "title": "First on CNBC: CNBC Transcript: Microsoft CEO Satya Nadella Speaks with CNBC’s Jon Fortt on “Power Lunch” Today",
-      "excerpt": "Microsoft is a global company ... We wouldn't even have all of the Azure Cognitive Services if it was not for what was applied AI. So I would say of course, I want more pace. And what you're seeing I guess this year in particular, is what we've been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/02/07/first-on-cnbc-cnbc-transcript-microsoft-ceo-satya-nadella-speaks-with-cnbcs-jon-fortt-on-power-lunch-today.html",
-      "originalUrl": "https://www.cnbc.com/2023/02/07/first-on-cnbc-cnbc-transcript-microsoft-ceo-satya-nadella-speaks-with-cnbcs-jon-fortt-on-power-lunch-today.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/07/first-on-cnbc-cnbc-transcript-microsoft-ceo-satya-nadella-speaks-with-cnbcs-jon-fortt-on-power-lunch-today.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/07/first-on-cnbc-cnbc-transcript-microsoft-ceo-satya-nadella-speaks-with-cnbcs-jon-fortt-on-power-lunch-today.html",
-      "publishedDateTime": "2023-02-07T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,83 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-04-new-software-developed-to-assess-true-level-of-knowledge-of-artificial-intelligence-systems.md",
+      "title": "New Software Developed to Assess True Level of Knowledge of Artificial Intelligence Systems",
+      "excerpt": "A team of researchers from the University of Surrey has developed a new software that can assess the true level of knowledge possessed by artificial",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105942815/New-Software-Developed-to-Assess-True-Level-of-Knowledge-of-Artificial-Intelligence-Systems",
+      "originalUrl": "https://menafn.com/1105942815/New-Software-Developed-to-Assess-True-Level-of-Knowledge-of-Artificial-Intelligence-Systems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_117.jpg",
+          "width": 4896,
+          "height": 3264,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-04-baidu-major-potential-for-chinas-tech-titan.md",
+      "title": "Baidu: Major Potential For China's Tech Titan",
+      "excerpt": "self-driving, AI research, and advertising. BIDU holds an effective government-enforced monopoly for search. As China's premiere face of technological innovation, Baidu benefits from policies ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4592065-baidu-stock-major-potential-chinas-tech-titan-buy",
+      "originalUrl": "https://seekingalpha.com/article/4592065-baidu-stock-major-potential-chinas-tech-titan-buy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-04-using-artificial-intelligence-to-accelerate-and-improve-the-construction-life-cycle.md",
       "title": "Using Artificial Intelligence To Accelerate And Improve The Construction Life Cycle",
       "excerpt": "From predictive designs and robotic scans to maintenance alerts, AI has the power to automate tasks that are mundane, repetitive or dangerous while also providing us with the power to predict what’s coming next or understand what needs to be repaired now.",
@@ -1234,83 +1311,6 @@
       "provider": {
         "name": "Los Alamos Monitor",
         "domain": "lamonitor.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-teslas-self-driving-ambitions-are-further-and-further-away.md",
-      "title": "Tesla’s Self-Driving Ambitions Are Further and Further Away",
-      "excerpt": "After announcing his ambitions to have millions of self-driving Teslas on the road all the ... up development of the tech as “the more data (in this case driving) the artificial intelligence guiding the car is exposed to, the faster it learns.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2023/03/teslas-self-driving-ambitions-are-further-and-further-away/",
-      "originalUrl": "https://www.gizmodo.com.au/2023/03/teslas-self-driving-ambitions-are-further-and-further-away/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/03/22/11b44f8929b7238c7c7add384e26a2f8.jpg?quality=80&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2023/03/teslas-self-driving-ambitions-are-further-and-further-away/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/03/teslas-self-driving-ambitions-are-further-and-further-away/amp/",
-      "publishedDateTime": "2023-03-23T19:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gizmodo",
-        "domain": "gizmodo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-will-nvidia-nvda-stock-be-helped-by-launch-of-ai-computer-for-baidus-self-driving-car.md",
-      "title": "Will Nvidia (NVDA) Stock Be Helped by Launch of AI Computer for Baidu's Self-Driving Car?",
-      "excerpt": "Nvidia (NVDA) released details on its new, smaller artificial intelligence computer that's planned for use in Baidu's (BIDU) self-driving vehicle. Nvidia (NVDA) released details on its new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/markets/will-nvidia-nvda-stock-be-helped-by-launch-of-ai-computer-for-baidu-s-self-driving-car-13726771",
-      "originalUrl": "https://www.thestreet.com/markets/will-nvidia-nvda-stock-be-helped-by-launch-of-ai-computer-for-baidu-s-self-driving-car-13726771",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
         "images": null,
         "publishers": null,
         "authors": null

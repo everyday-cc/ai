@@ -39,15 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "CoreWeave Raises $221M Series B to Expand Specialized Cloud Infrastructure Powering the Generative AI and Large Language Model Boom"
-    excerpt: "CoreWeave (\"the Company\"), a specialized cloud provider built for large-scale GPU-accelerated workloads, today announced it has secured $221 million in Series B funding. The round was led by Magnetar Capital (\"Magnetar\"),"
-    publishedDateTime: 2023-04-20T13:50:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/04/20/9798813.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "QNzobNay1qpYP1eppOpH49taOpjGMyHSrR85m2IbCFbeVXPDfo+oRO9sOjsAGuajtUdlYY88DtfX60St2Z6ibRAcDUe2/lGqICsrkLURrcmu+7skTLLtAnvicSyq6Y06dVPfFZJHkeXSDfDO6IDLY2rh6WNqbYqmOdCakRWTdlRZwuVm5N2FdeGI1fDuYoYGTTLOtRs1tKWe+WSQ4uK5LKylHdguQV10k1vgH5bJd5RpzgoVJ+t8w/bNpl5KXSU9WQKnazlAzdkHjrc4q2qcq92l0leK5ir8D/bIyeP6al8Hv5vGV0UcrtZw1tFJi88ZfcvBRiNq6ThuxnzSaX4ALNMQr8WGpCmgXI6+BOExXzs=;kHAP4WJqlBnAwnZbc96QPw=="
 ---

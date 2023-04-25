@@ -2,6 +2,92 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-02-14-how-vision-sensors-are-used-to-achieve-safety-and-accurate-control-in-the-21st-century-robotics.md",
+      "title": "How Vision Sensors Are Used To Achieve Safety And Accurate Control In The 21St-Century Robotics",
+      "excerpt": "Human-robot interaction (HRI), precise control, and safe collaboration between humans and robots are the cornerstones of adopting automation . Safety refers to multiple tasks in the context of ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105567100/How-Vision-Sensors-Are-Used-To-Achieve-Safety-And-Accurate-Control-In-The-21St-Century-Robotics",
+      "originalUrl": "https://menafn.com/1105567100/How-Vision-Sensors-Are-Used-To-Achieve-Safety-And-Accurate-Control-In-The-21St-Century-Robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-02/13/V_bf574image_story.jpeg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-13T11:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-13-idtechex-discusses-how-sensors-are-used-to-achieve-safety-and-accurate-control-in-the-21st-century-robotics.md",
+      "title": "IDTechEx Discusses How Sensors Are Used to Achieve Safety and Accurate Control in the 21st-Century Robotics",
+      "excerpt": "BOSTON, Feb. 13, 2023 /PRNewswire/ -- With an increasing demand for automation in the 21 st century, robots have had rapid and unprecedented growth across many industries, including logistics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/02/n30873410/idtechex-discusses-how-sensors-are-used-to-achieve-safety-and-accurate-control-in-the-21st-century",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/n30873410/idtechex-discusses-how-sensors-are-used-to-achieve-safety-and-accurate-control-in-the-21st-century",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30873410",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30873410",
+      "publishedDateTime": "2023-02-13T03:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-13-the-data-dilemma-four-common-barriers-to-ai-success.md",
       "title": "The Data Dilemma: Four Common Barriers To AI Success",
       "excerpt": "Given these potential benefits, I get asked by executives if there is a surefire way to achieve AI success. While there are steps that companies can take to best understand and us",
@@ -1138,85 +1224,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-are-robots-coming-to-replace-us-4-jobs-artificial-intelligence-cant-outcompete-yet.md",
-      "title": "Are Robots Coming to Replace Us? 4 Jobs Artificial Intelligence Can't Outcompete (Yet!)",
-      "excerpt": "Is artificial intelligence (AI) evolving to make our lives easier? I believe the answer is that it is a bit of both in the long run, but there is no need to panic for now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/leadership/4-jobs-where-artificial-intelligence-cant-outcompete-you/443708",
-      "originalUrl": "https://www.entrepreneur.com/leadership/4-jobs-where-artificial-intelligence-cant-outcompete-you/443708",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-3-etfs-for-the-artificial-intelligence-boom.md",
-      "title": "3 ETFs for the Artificial Intelligence Boom",
-      "excerpt": "Enthusiasm for ChatGPT is having a positive effect on a slew of other AI equities as highlighted by the fact that the Nasdaq CTA Artificial Intelligence and Robotics Index is higher by 19.60% year-to-date,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-etfs-for-the-artificial-intelligence-boom",
-      "originalUrl": "https://www.nasdaq.com/articles/3-etfs-for-the-artificial-intelligence-boom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-etfs-for-the-artificial-intelligence-boom?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-etfs-for-the-artificial-intelligence-boom?amp",
-      "publishedDateTime": "2023-02-06T07:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

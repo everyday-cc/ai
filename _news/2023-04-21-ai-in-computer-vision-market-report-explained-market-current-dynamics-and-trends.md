@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI In Computer Vision Market Report Focus On Landscape | Current And Future Development 2023-2030"
+    excerpt: "This study involves the strong analysis of manufacturing practices and standards applicable in AI In Computer Vision Market industry. A bottom-up and top-down strategy is used for both qualitative and quantitative estimate."
+    publishedDateTime: 2023-04-24T11:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-focus-on-landscape-current-and-future-development-2023-2030-2023-04-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "k3cuvMowWGCu5Miuert3dyriLbgB8W69mFBNQHD+CzFASw2uy4fHxwmNAQ4ICBJ0/crnPFT7zqDQJtndxcVU7y6RCDyOYTMwLS4yLBHIVVddJAIpyfLiJxZdaMZwwMVHW2HWg9/gNkT8VkcHJO6raaZtsNJljHBrhPAzfGXojA80Pf42x8+p0nuXmI7gMQHlWJ+oor6lw4guk3z4TfEHlK4fOTdRMmTjgfIb4aocNshZk77pXv403Ji67658Kj5X9wiJ5Wtj5ijhzRNwS9YNn4CWY7Kes9eZQQ5NZPRi2peaLCwtIlBBeAtxQA/6cHigruy9VyHtHyF7P00EXncDGN1vCZTtYJ6Tl4l2jGSLdo8=;SeqVdhCIjzjYzuEXwiGtzw=="
 ---

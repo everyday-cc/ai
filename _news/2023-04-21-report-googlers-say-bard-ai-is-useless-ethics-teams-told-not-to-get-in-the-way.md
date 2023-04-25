@@ -26,34 +26,18 @@ images:
 
 related:
   - title: "Googlers say Bard AI is “worse than useless,” ethics concerns were ignored"
-    excerpt: "From the outside, Google Bard looks like a rushed product to try to compete with ChatGPT, and some Google employees share those sentiments. A new report from Bloomberg interviews 18 current and former workers and came away with a pile of damning commentary and concerns about AI ethics teams that were \"disempowered and demoralized\" so Google could get Bard out the door."
-    publishedDateTime: 2023-04-20T21:31:00Z
-    webUrl: "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/"
-    ampWebUrl: "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/amp/"
+    excerpt: "The goal is misaligned to begin with. AI ethics doesn't matter to Google/OpenAI/et al. Ethical debates in the corporate world only happen when you're about to act unethically, or you just ..."
+    publishedDateTime: 2023-04-21T16:29:00Z
+    webUrl: "https://arstechnica.com/civis/threads/googlers-say-bard-ai-is-“worse-than-useless-”-ethics-concerns-were-ignored.1491507/"
     type: article
     provider:
       name: Ars Technica
       domain: arstechnica.com
-    quality: 102
+    quality: 82
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2017/05/google-800x523.jpg"
-        width: 760
-        height: 388
-        isCached: true
-  - title: "Google’s Bard can now generate, debug code as reports surface of AI ethics concerns"
-    excerpt: "While Bard will try and help you debug your code, Google says it 'may sometimes provide inaccurate, misleading, or false information while presenting it confidently,' making double-checking paramount"
-    publishedDateTime: 2023-04-25T03:31:00Z
-    webUrl: "https://www.rappler.com/technology/google-bard-debug-code-artificial-intelligence-ethics-concerns/"
-    type: article
-    provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 48
-    images:
-      - url: "https://www.rappler.com/tachyon/2022/10/google-logo-antitrust-reuters-scaled.jpg"
-        width: 2560
-        height: 1708
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/6823/production/_117095662_7c1e1076-acc3-49f2-b2a5-900bb9a9f42b.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "jEtbNXNXm2r5szPHYcEpPImjM+AZUEB3vV5BsxYUg/dsaH+LoSi4wtjQvPRjZZkc+ig+7QY8Omi/LP3EXhaZSA0Qu09IllJQcrgVLYwUzw1V05aqPic/YrvyMOD95nwOt2uGxvA/CpURoysTiyaslfQvaMnAc5ilSbEqD6BmAEkd93v5hE2Gyk0jfqw49268LclbYAGfxufADf0G3PMxlm9GW5CQBufPgTW5iOAtRgVSv5FZBesAA3MVbT29ks5Ch5XDqFa43tmqZV4rzzUTWbZvVRwc1cxIkDys9SMJroi9pCWn4czsIiP/Z/NSWcgBNbWgPdPdkOnlbkbFJmcdQmLI3wYgHtKSGuW88vdD4BJ6xJ2YVJ/1BrDR9JUC/oI/kqW8ZSndeWcnlNe1v2wWbM/HlyY9Rmq8R1+uB+ZmEesNudzeqRdRylyWeSJ8k4bvnZFZqw+o99cttUxcd77/Uw6try2o6lMdpvNB/DWLu5VvQppGvn5bND2UXIhwasiE1974Fvubcbju7U058TjM7A==;QeUggAMIbrMQguhGmYInXA=="

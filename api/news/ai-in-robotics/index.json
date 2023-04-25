@@ -209,7 +209,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/2023-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-dynamic-report-by-2030-2023-04-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -233,6 +233,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-robustai-raises-20m-as-it-scales-robot-deliveries-for-pilot-customers.md",
+      "title": "Robust.AI raises $20M as it scales robot deliveries for pilot customers",
+      "excerpt": "When the company started, Robust.AI’s founders had no intention of making ... t systems on the market with the on-board hardware the startup is trying to push. “Silicon as gone pretty wild ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/04/20/robust-ai-raises-20m-as-it-scales-robot-deliveries-for-pilot-customers/",
+      "originalUrl": "https://techcrunch.com/2023/04/20/robust-ai-raises-20m-as-it-scales-robot-deliveries-for-pilot-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/Robust-Carters2.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/04/20/robust-ai-raises-20m-as-it-scales-robot-deliveries-for-pilot-customers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/20/robust-ai-raises-20m-as-it-scales-robot-deliveries-for-pilot-customers/amp/",
+      "publishedDateTime": "2023-04-20T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -605,6 +657,59 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-18-ai-anxiety-the-workers-who-fear-losing-their-jobs-to-artificial-intelligence.md",
+      "title": "AI anxiety: The workers who fear losing their jobs to artificial intelligence",
+      "excerpt": "Many workers worry AI is coming for their jobs. Can we get past the fear and find a silver lining? Claire has worked as a PR at a major consulting firm, based in London, for six years. The 34-year-old enjoys her job and earns a comfortable salary,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/worklife/article/20230418-ai-anxiety-artificial-intelligence-replace-jobs",
+      "originalUrl": "https://www.bbc.com/worklife/article/20230418-ai-anxiety-artificial-intelligence-replace-jobs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ychef.files.bbci.co.uk/live/624x351/p0fh6sjs.jpg",
+          "width": 624,
+          "height": 351,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Autos"
       ]
     },
     {
@@ -1291,84 +1396,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-this-robot-is-controlled-by-the-power-of-the-mind.md",
-      "title": "This robot is controlled by the power of the mind",
-      "excerpt": "This four-legged robot responds to commands ... a disabled person could be able to “control” a wheelchair or a prosthetic device simply with their mind. Note that this work is the subject ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.freemalaysiatoday.com/category/leisure/2023/04/12/this-robot-is-controlled-by-the-power-of-the-mind/",
-      "originalUrl": "https://www.freemalaysiatoday.com/category/leisure/2023/04/12/this-robot-is-controlled-by-the-power-of-the-mind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Free Malaysia Today",
-        "domain": "freemalaysiatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-the-morality-of-artificial-intelligence.md",
-      "title": "The Morality of Artificial Intelligence",
-      "excerpt": "Next to such early attempts on formulating an ethical law for robots and computers, there are, more recently the following ethics codes for artificial intelligence: + Ohio State University’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.counterpunch.org/2023/04/12/the-morality-of-artificial-intelligence/",
-      "originalUrl": "https://www.counterpunch.org/2023/04/12/the-morality-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.counterpunch.org/wp-content/uploads/2023/04/Artificial_Intelligence__AI__Machine_Learning_-_30212411048-680x544.jpg",
-          "width": 680,
-          "height": 544,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T23:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CounterPunch",
-        "domain": "counterpunch.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

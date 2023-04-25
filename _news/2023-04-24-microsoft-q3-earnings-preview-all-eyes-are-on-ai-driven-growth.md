@@ -130,15 +130,6 @@ related:
         width: 1024
         height: 540
         isCached: true
-  - title: "Amazon and Microsoft's AI gains mask cloud slowdown"
-    excerpt: "Once-booming demand for cloud-computing services is slowing as businesses rein in spending amid economic uncertainty."
-    publishedDateTime: 2023-04-20T14:40:00Z
-    webUrl: "https://www.detroitnews.com/story/business/2023/04/20/amazon-and-microsofts-ai-gains-mask-cloud-slowdown/70134357007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 34
   - title: "Self-driving vehicles need regulations: safety board"
     excerpt: "The Taiwan Transportation Safety Board yesterday pledged to work with the Ministry of Transportation and Communications to review laws in other countries governing the regulation of self-driving vehicles following a rise in collisions caused by the vehicles,"
     publishedDateTime: 2023-04-24T16:00:00Z

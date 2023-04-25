@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Elon Musk renews self-driving prediction as price cuts push Tesla profit down 24%"
-    excerpt: "After reporting a 24% drop in first quarter profits for Tesla, Musk said in an analyst call that full self-driving technology is likely imminent and could generate big profits."
-    publishedDateTime: 2023-04-20T14:40:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/04/20/musk-renews-tesla-self-driving-prediction.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 14
 
 secured: "6XOvpNpCFUJ66OZl1rtKgXO8YyCc8Nh+0QtREBgJ0RooUVXT8vDS2CcTD9DtxzAWi0Qm/wtIRQI4Rfi3VKZA+LanB1Mt3aAjU00iZ4bXO//sUBnjoDHQrFFUsqQQ1HhOU6XZCMnDMg0BpUwOwLKiTkAU0d6VZw5b/t7fF70rYxAL4cWMZf2exHBasND4CuOnoO8kiT1fTjG8SCuu0gPQ+RJASNyAbhejYqpBBJmeGeDnDlJ4uc9AfUp6Zgz1eJViUhvg1qvnUzqPsc1WwiD4a35LwjLI0vSTsqlZSFc4yZQUt5bQNJz0r88khRLFqzsgwrY+yk6HmO2f2aI0R7s3NO7qVusOOVl9dnawuFPEitzNBKOqu98XnS0tW1X2XRKurlg8gXVpHqZcM1FNvuTJXcYoRMBO80L3m5QYMypI8J+henEbDwcpaggbTdJQXx2MIdcPfOCo4XlD8y8gzWckNOjYZaSGEur+qE9EpNCA2tQcuU1MeULKYPcMS3xVKmsut/c+G2TgHOZbbroRspYQTA==;99+TYrL0LlwuaJYIzMX3Ug=="
 ---

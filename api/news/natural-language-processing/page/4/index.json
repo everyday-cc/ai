@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-08-unlocking-unexpected-new-ai-use-cases-with-the-connected-intelligent-edge.md",
+      "title": "Unlocking unexpected new AI use cases with the Connected Intelligent Edge",
+      "excerpt": "Device hardware has now become sophisticated enough to make good on the full promise of AI, brining it all the way to the edge.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/unlocking-unexpected-new-ai-use-cases-with-the-connected-intelligent-edge/",
+      "originalUrl": "https://venturebeat.com/ai/unlocking-unexpected-new-ai-use-cases-with-the-connected-intelligent-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/02/AdobeStock_386600684.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/unlocking-unexpected-new-ai-use-cases-with-the-connected-intelligent-edge/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/unlocking-unexpected-new-ai-use-cases-with-the-connected-intelligent-edge/amp/",
+      "publishedDateTime": "2023-03-07T13:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-07-will-a-robot-take-your-job-study-reveals-the-careers-that-face-the-highest-risk-of-being-replaced-by-ai-with-call-centre-workers-english.md",
       "title": "Will a robot take YOUR job? Study reveals the careers that face the highest risk of being replaced by AI - with call centre workers, English and History teachers topping the list",
       "excerpt": "They did this by linking 10 AI-powered applications, like translation, language modelling and image generation, to 52 human abilities, like oral comprehension and arm-hand steadiness.",
@@ -1390,49 +1442,6 @@
         "IBM AI",
         "AI in Autos",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-ai-gets-hang-of-gujarati-to-translate-chinese-hindi-text.md",
-      "title": "AI gets hang of Gujarati to translate Chinese, Hindi text",
-      "excerpt": "Taking a cue from ChatGPT that has taken the world by storm, demonstrating what a good database coupled with natural language processing (NLP) can do,",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/ahmedabad/ai-gets-hang-of-gujarati-to-translate-chinese-hindi-text/articleshow/98106976.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/ahmedabad/ai-gets-hang-of-gujarati-to-translate-chinese-hindi-text/articleshow/98106976.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-98106990,width-1070,height-580,imgsize-1198029,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1069,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/ahmedabad/ai-gets-hang-of-gujarati-to-translate-chinese-hindi-text/amp_articleshow/98106976.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/ahmedabad/ai-gets-hang-of-gujarati-to-translate-chinese-hindi-text/amp_articleshow/98106976.cms",
-      "publishedDateTime": "2023-02-20T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

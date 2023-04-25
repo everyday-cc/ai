@@ -41,7 +41,21 @@ related:
         width: 2412
         height: 952
         isCached: true
+  - title: "Self-driving cars 'need to learn the language of cyclists'"
+    excerpt: "Human-computer interaction specialists from the University of Glasgow have highlighted the need for new systems"
+    publishedDateTime: 2023-04-25T05:59:00Z
+    webUrl: "https://www.heraldscotland.com/news/homenews/23476838.self-driving-cars-need-learn-language-cyclists/"
+    type: article
+    provider:
+      name: heraldscotland
+      domain: heraldscotland.com
+    quality: 24
+    images:
+      - url: "https://www.heraldscotland.com/resources/images/16356573/?type=og-image"
+        width: 945
+        height: 630
+        isCached: true
 
-secured: "UvKlMfcjak4CERtxEYPRMD0LPVqyOZqSjMR0YxF4CPwyViH7xBiQU9ApPCbgRsNq1RAY6i8Q6KEpol28g1FHrFXomW/U6+R4Q/OqvcgM72urXvEUb3nS1FC10viRYepjQKSFM4VYAGrkpBbjNBNygaSNvX4tUW33DGbqNp93/Y+9Rkau8kbF4kAc1Uj0XZqjY2LlI072itYRoRcD1uQ3y0rw4Q2CDtPqhHgZUJA/YcRj2sLBZxaroJPd8IFWt40fX0oXRYXnK3KWcJ9q/0w/BnhkljdK7U9ng2+xFUnoT9pnbpdWtfIvgyPYQF6gJw2mInDCQRdNVMU2CfOnA+MBFxRGcBVdH0EjmeIkDNtDj08=;hlAns6YsDosYE/iB2/423Q=="
+secured: "1HLJakzGbTAuw5tMU1GFsH8BDx8IKLxWOBCfDy+g/dFlYl12bU84U51b1o9RNxL7lJMJZKV52LnFU4uumvbCKAn9Gbu3PE90U6GuSZUlg1BiWm1z/QXcA5vvEogoW6zgMcLw4DF/gEhZNfi912uvFCusvAt5ExlmU+S+kozwjN1KMkygBqL5kQID+MP8lNh6h+605sGlPYSc1iJ0Op746vnQ3Tuw6KLQNqn+Is7r/RUAKSKKcZE1Y3ixRkLzztyU/NXHrVjwVOQuVlXjcwUytUcv5ZAtHCFwlpBz81bK2gOSjCL3U7hTZbq/7+ejUQdrn/sDBkPo+VYKaLMuv3+zNi+Ln9M6RQthP40lorqihxwOseaHvFGJrjXbBJ/5qBrve8RCvBWbwJGjUSy9KbkCYxyacoXO4hQ7K3r/M9BmMr/hJwj2kS4x4HS5g2kYhgMlosES82i6KJLGy2Q9ZPQGaB0fKFIm4+QqmmWt/utKrhnE8+mUIADI0fPeFoRTlQUSrAhxn5oaWRXoYpttO28Ytg==;I2gHs4OREQ58o4eJdYmHKQ=="
 ---
 

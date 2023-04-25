@@ -29,47 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Chips Market Predictions: A Comprehensive Forecast for 2023-2030"
-    excerpt: "Apr 20, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" This comprehensive market research"
-    publishedDateTime: 2023-04-20T13:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-predictions-a-comprehensive-forecast-for-2023-2030-2023-04-20"
+  - title: "Artificial Intelligence for Accounting Market: Global Trends and Prospects 2023"
+    excerpt: "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-04-21T09:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-global-trends-and-prospects-2023-2023-04-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 88
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Chips Market Size 2023 with SWOT and PESTAL Analysis | Forecast to 2030"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-04-21T02:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2023-with-swot-and-pestal-analysis-forecast-to-2030-2023-04-20"
+  - title: "3D Camera Market worth $9.1 Billion by 2028 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "The global 3D camera market is expected to be valued at USD 3.6 Billion in 2023 and is projected to reach USD 9.1 Billion by 2028; it"
+    publishedDateTime: 2023-04-24T16:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/3d-camera-market-worth-9-1-billion-by-2028---exclusive-report-by-marketsandmarkets-301805209.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 17
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023, Insights and Predictions for the Global Artificial intelligence (AI) in Supply Chain and Logistics Market Future"
-    excerpt: "Artificial intelligence (AI) in Supply Chain and Logistics Market Size 2023 | New Report (105 Pages) | Analytics | In"
-    publishedDateTime: 2023-04-24T03:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-insights-and-predictions-for-the-global-artificial-intelligence-ai-in-supply-chain-and-logistics-market-future-2023-04-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+        width: 666
+        height: 350
         isCached: true
 
 secured: "b18O9b7U6M91HFoz5wqI+WcjHRWFTtVU6tL7dyICXsIQAjs1kC2dh8wJBoYk9aUe/HER+JY770PpxZBfYecF3aNbIX0NiKOolUDwh/FBwMFZ0Ehd8keJPsySskV1etWOhlCeEtkPf49navRFvkL75udPvEF1c3wK/QQWnEUhzjKZEBbV6PKY9artEmX+2hisPU2n2KXtUAjqeQ7ZZtHsWivULxbiLUrNJl5kWVizjoRzlcTFzmNg6N/OGgdbzmlRRYn9P0djcMAfjP2FAkWOH8xl4LoFT1+bmMA0Sp3vy+Y1d63Dp2EYI8Cx3rJw2YwmP6JzeFu3yOW358wGpoNTr+QuCD7ehXxq/zIfa4TaXZ8=;UvxHkoVZ9rpwoedk6lE3sQ=="

@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Chips Market Size 2023 with SWOT and PESTAL Analysis | Forecast to 2030"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-04-21T02:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2023-with-swot-and-pestal-analysis-forecast-to-2030-2023-04-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Data and AI Ethics Market Research, 2023-2030"
     excerpt: "Short Summery About Data and AI Ethics Market: Data and AI Ethics Marketsize, segment (mainly coveringMajorType (, Solutions, Services, ,),End Users (, BFSI, Government and Defense, Healthcare and ..."
     publishedDateTime: 2023-04-21T03:02:00Z

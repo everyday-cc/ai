@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-07-daily-crunch-ai-driven-fintech-candidly-nabs-205m-series-b-to-help-consumers-crush-debt.md",
+      "title": "Daily Crunch: AI-driven fintech Candidly nabs $20.5M Series B to help consumers ‘crush debt’",
+      "excerpt": "The enterprise is about to get hit by the generative AI hype train, as Salesforce prepares to invest in startups developing what it calls “responsible generative AI,” Paul writes. As the toxic ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/07/daily-crunch-ai-driven-fintech-candidly-nabs-20-5m-series-b-to-help-consumers-crush-debt/",
+      "originalUrl": "https://techcrunch.com/2023/03/07/daily-crunch-ai-driven-fintech-candidly-nabs-20-5m-series-b-to-help-consumers-crush-debt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-860183434.jpg?resize=1200,797",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/07/daily-crunch-ai-driven-fintech-candidly-nabs-20-5m-series-b-to-help-consumers-crush-debt/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/07/daily-crunch-ai-driven-fintech-candidly-nabs-20-5m-series-b-to-help-consumers-crush-debt/amp/",
+      "publishedDateTime": "2023-03-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-07-study-examines-potential-use-of-machine-learning-for-sustainable-development-of-biomass.md",
       "title": "Study examines potential use of machine learning for sustainable development of biomass",
       "excerpt": "Machine learning can be valuable in supporting sustainable development of biomass if it is applied across the entire lifecyle of biomass and biomass-derived products, according to a new study.",
@@ -1353,59 +1405,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-15-how-ai-and-machine-learning-are-improving-fraud-detection-in-fintech.md",
-      "title": "How AI and Machine Learning Are Improving Fraud Detection in Fintech",
-      "excerpt": "Identity theft is common, but with the rise of AI and machine learning, its effect on the fintech industry has been reduced drastically. Here's how.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/science-technology/how-ai-and-machine-learning-are-improving-fraud-detection/442018",
-      "originalUrl": "https://www.entrepreneur.com/science-technology/how-ai-and-machine-learning-are-improving-fraud-detection/442018",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1675865542-GettyImages-1440452862.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-14T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

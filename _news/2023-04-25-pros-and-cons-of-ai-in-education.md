@@ -1,0 +1,66 @@
+---
+category: news
+title: "Pros and cons of AI in education"
+excerpt: "CTU Training Solutions held a webinar recently to explore how AI is going to change the way we teach and learn."
+publishedDateTime: 2023-04-25T06:40:00Z
+originalUrl: "https://www.itweb.co.za/content/Olx4zMkal3Qv56km"
+webUrl: "https://www.itweb.co.za/content/Olx4zMkal3Qv56km"
+ampWebUrl: "https://www.itweb.co.za/amp/content/Olx4zMkal3Qv56km"
+cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Olx4zMkal3Qv56km"
+type: article
+quality: 76
+heat: -1
+published: false
+
+provider:
+  name: ITWeb
+  domain: itweb.co.za
+
+topics:
+  - AI Ethics
+  - AI
+  - AI in Education
+
+images:
+  - url: "https://www.itweb.co.za/static/pictures/2023/04/86-Humanoid-reading-2023.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "5 Crucial Components Of An AI Company"
+    excerpt: "In this article, I'll explore five crucial factors that should drive the decision making of VCs and investors when identifying investment opportunities and evaluating long-term potential in the competitive and oversaturated AI space."
+    publishedDateTime: 2023-04-24T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6442b28cc7d2114a4afa0045/0x0.jpg?format=jpg&width=1200"
+        width: 1014
+        height: 676
+        isCached: true
+  - title: "Why the struggle for ethics in generative AI is more complex than we imagine"
+    excerpt: "Some generative AI companies have been criticized for scraping the Web for training data, including copyrighted material, without the consent of creators and rights owners. In this way, the work of any number of creative,"
+    publishedDateTime: 2023-04-24T09:23:00Z
+    webUrl: "https://diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine"
+    ampWebUrl: "https://diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/why-struggle-ethics-generative-ai-more-complex-we-imagine?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 71
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-03/ethics-gb40633784_640.jpg"
+        width: 640
+        height: 453
+        isCached: true
+
+secured: "YxTMimOErOtDepwuVXw7E6HmK4+04milPwbM4zide2ZzPPFBYy+Q99jNLLz9rGtYbsESP2FAWc/YFjuYl0ADdK7RVgKt9DXlAxrkCnBJvZKWClVDPbcnFFNZYihDkOhQSSTYt44uub+VgQAqUfYA0EDM+vkVUAqyot4hNmTSkL7Yjo9vrMm6JOA0XBxAADkS9u2y2Zwjj6Re2Uz6wxSeTyI8lvJQOsOL+qCq4V5OA0tDZ+3n3KC2yvHj5mrHh3a1TUfnbCX7OEdbZZSVt8rHov25FQa5YHPgFCPDT7VEL3HxU+OEbQ7biN+F1q4AWSGe4eg4xuSuIg+SEftmk1E8fwyZbHzWEPYYFvIuZ9rXJhA=;f9RWGZSuI0LeATJEBwaxTQ=="
+---
+

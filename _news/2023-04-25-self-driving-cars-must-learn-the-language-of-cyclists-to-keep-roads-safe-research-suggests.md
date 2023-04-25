@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving cars 'need to learn the language of cyclists'"
+    excerpt: "Human-computer interaction specialists from the University of Glasgow have highlighted the need for new systems"
+    publishedDateTime: 2023-04-25T05:59:00Z
+    webUrl: "https://www.heraldscotland.com/news/homenews/23476838.self-driving-cars-need-learn-language-cyclists/"
+    type: article
+    provider:
+      name: heraldscotland
+      domain: heraldscotland.com
+    quality: 24
+    images:
+      - url: "https://www.heraldscotland.com/resources/images/16356573/?type=og-image"
+        width: 945
+        height: 630
+        isCached: true
   - title: "Self-driving cars must learn the language of cyclists to keep roads safe"
     excerpt: "Future generations of self-driving cars should learn the language of cyclists to help them safely share the roads with bikes, new research suggests."
     publishedDateTime: 2023-04-25T05:40:00Z

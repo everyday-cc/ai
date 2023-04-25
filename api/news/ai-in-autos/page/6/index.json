@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-03-03-experts-ranked-the-leading-self-driving-companies-tesla-didnt-even-crack-the-top-10.md",
+      "title": "Experts ranked the leading self-driving companies. Tesla didn't even crack the top 10.",
+      "excerpt": "Baidu, and Cruise. Tesla was named the only \"follower\" given its low ratings in automated-driving execution and strategy. The company has long come under fire for its \"Full Self-Driving\" and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/Experts-ranked-the-leading-self-driving-companies-Tesla-didnt-even-crack-the-top-10-/articleshow/98373350.cms",
+      "originalUrl": "https://www.businessinsider.in/Experts-ranked-the-leading-self-driving-companies-Tesla-didnt-even-crack-the-top-10-/articleshow/98373350.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/photo/98373239/Master.jpg",
+          "width": 1003,
+          "height": 821,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/thelife/news/experts-ranked-the-leading-self-driving-companies-tesla-didnt-even-crack-the-top-10-/amp_articleshow/98373350.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/thelife/news/experts-ranked-the-leading-self-driving-companies-tesla-didnt-even-crack-the-top-10-/amp_articleshow/98373350.cms",
+      "publishedDateTime": "2023-03-02T18:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-chinese-automakers-to-participate-in-baidu-ernie-bot-ecosystem.md",
+      "title": "Chinese automakers to participate in Baidu Ernie Bot ecosystem",
+      "excerpt": "Several Chinese automakers, including Jidu Auto, Geely Auto, and Great Wall Motor, have joined Baidu's ChatGPT-style Ernie Bot ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20230302PD214/ai-autonomous-car-baidu-chatgpt-china-chinese-automakers-ernie-bot-geely-auto-great-wall-motor-jidu-auto-smart-car.html",
+      "originalUrl": "https://www.digitimes.com/news/a20230302PD214/ai-autonomous-car-baidu-chatgpt-china-chinese-automakers-ernie-bot-geely-auto-great-wall-motor-jidu-auto-smart-car.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20230302pd214_files/2_2b.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T17:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-03-68-of-americans-afraid-of-self-driving-cars-up-from-55-in-2022.md",
       "title": "68% Of Americans Afraid Of Self-Driving Cars, Up From 55% In 2022",
       "excerpt": "Santa Monica, using IONIQ 5 AV Tuesday, Feb. 21, 2023. (Allen J. Schaben / Los Angeles Times via Getty Images) Roughly 68% of Americans say they’re afraid of self-driving cars, according to a new poll by AAA, a huge jump from 2022 when 55% of Americans ...",
@@ -1378,115 +1464,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-most-americans-are-uncomfortable-with-artificial-intelligence-in-health-care-survey-finds.md",
-      "title": "Most Americans are uncomfortable with artificial intelligence in health care, survey finds",
-      "excerpt": "Sixty percent of Americans who took part in a new survey by the Pew Research Center said that they would be uncomfortable with a health care provider who relied on artificial intelligence to do something like diagnose their disease or recommend a treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/02/22/health/artificial-intelligence-health-care/index.html",
-      "originalUrl": "https://www.cnn.com/2023/02/22/health/artificial-intelligence-health-care/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/221007140623-doctor-visit-stock.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-22T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-artificial-intelligence-delivers-its-latest-innovation.md",
-      "title": "Artificial Intelligence Delivers Its Latest Innovation",
-      "excerpt": "\"Some people call this artificial intelligence, but the reality is this technology will enhance us. So instead of artificial intelligence, I think we'll augment our intelligence.\" -Ginni Rometty, Executive Chairman of IBM Artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812",
-      "originalUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2198602/computer-code.jpg",
-          "width": 2500,
-          "height": 1668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812?amp=1",
-      "publishedDateTime": "2023-02-22T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Natural Language Processing",
-        "IBM AI",
-        "AI in Autos",
-        "Computer Vision"
       ]
     }
   ],

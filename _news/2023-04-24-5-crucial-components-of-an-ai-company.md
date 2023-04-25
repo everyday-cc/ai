@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pros and cons of AI in education"
+    excerpt: "CTU Training Solutions held a webinar recently to explore how AI is going to change the way we teach and learn."
+    publishedDateTime: 2023-04-25T06:40:00Z
+    webUrl: "https://www.itweb.co.za/content/Olx4zMkal3Qv56km"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/Olx4zMkal3Qv56km"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Olx4zMkal3Qv56km"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 76
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2023/04/86-Humanoid-reading-2023.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Why the struggle for ethics in generative AI is more complex than we imagine"
     excerpt: "Some generative AI companies have been criticized for scraping the Web for training data, including copyrighted material, without the consent of creators and rights owners. In this way, the work of any number of creative,"
     publishedDateTime: 2023-04-24T09:23:00Z

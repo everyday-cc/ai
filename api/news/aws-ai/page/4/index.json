@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-28-this-alphabet-segment-has-more-potential-than-artificial-intelligence.md",
+      "title": "This Alphabet Segment Has More Potential Than Artificial Intelligence",
+      "excerpt": "As the initial rush surrounding chatbots powered by artificial intelligence (AI) wears off, investors are finally starting to come to their senses that Microsoft's Bing chatbot isn't the end of Google search.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/this-alphabet-segment-has-more-potential-than-artificial-intelligence",
+      "originalUrl": "https://www.nasdaq.com/articles/this-alphabet-segment-has-more-potential-than-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-28T03:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-27-image-recognition-in-retail-market-size-2023-industry-share-growth-trends-segments-and-forecast-to-2031.md",
       "title": "Image Recognition in Retail Market Size, 2023 Industry Share, Growth, Trends, Segments and Forecast to 2031",
       "excerpt": "Global Image Recognition in Retail Market is valued approximately at USD 1.14 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 21.80% over the forecast period 2020-2027.",
@@ -1429,49 +1463,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-totogi-launches-innovative-churn-prediction-service.md",
-      "title": "Totogi Launches Innovative Churn Prediction Service",
-      "excerpt": "Totogi, the leading provider of public cloud-based SaaS software for telcos, announced the release of its innovative Churn Prediction Service. This cutting-edge service utilizes machine learning (ML) to accurately predict impending subscriber churn,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/technology-solutions/30347-totogi-launches-innovative-churn-prediction-service",
-      "originalUrl": "https://www.thefastmode.com/technology-solutions/30347-totogi-launches-innovative-churn-prediction-service",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/2dab7730abdc754d1f0998eb0fa31a36.jpg?t=20230210_060126",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-09T22:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

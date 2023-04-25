@@ -1,15 +1,13 @@
 ---
 category: news
 title: "Googlers say Bard AI is “worse than useless,” ethics concerns were ignored"
-excerpt: "From the outside, Google Bard looks like a rushed product to try to compete with ChatGPT, and some Google employees share those sentiments. A new report from Bloomberg interviews 18 current and former workers and came away with a pile of damning commentary and concerns about AI ethics teams that were \"disempowered and demoralized\" so Google could get Bard out the door."
-publishedDateTime: 2023-04-20T21:31:00Z
-originalUrl: "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/"
-webUrl: "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/"
-ampWebUrl: "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/amp/"
-cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/amp/"
+excerpt: "The goal is misaligned to begin with. AI ethics doesn't matter to Google/OpenAI/et al. Ethical debates in the corporate world only happen when you're about to act unethically, or you just ..."
+publishedDateTime: 2023-04-21T16:29:00Z
+originalUrl: "https://arstechnica.com/civis/threads/googlers-say-bard-ai-is-“worse-than-useless-”-ethics-concerns-were-ignored.1491507/"
+webUrl: "https://arstechnica.com/civis/threads/googlers-say-bard-ai-is-“worse-than-useless-”-ethics-concerns-were-ignored.1491507/"
 type: article
-quality: 102
-heat: 122
+quality: 82
+heat: 92
 published: true
 
 provider:
@@ -25,26 +23,12 @@ topics:
   - AI
 
 images:
-  - url: "https://cdn.arstechnica.net/wp-content/uploads/2017/05/google-800x523.jpg"
-    width: 760
-    height: 388
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/6823/production/_117095662_7c1e1076-acc3-49f2-b2a5-900bb9a9f42b.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
-  - title: "Google’s Bard can now generate, debug code as reports surface of AI ethics concerns"
-    excerpt: "While Bard will try and help you debug your code, Google says it 'may sometimes provide inaccurate, misleading, or false information while presenting it confidently,' making double-checking paramount"
-    publishedDateTime: 2023-04-25T03:31:00Z
-    webUrl: "https://www.rappler.com/technology/google-bard-debug-code-artificial-intelligence-ethics-concerns/"
-    type: article
-    provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 48
-    images:
-      - url: "https://www.rappler.com/tachyon/2022/10/google-logo-antitrust-reuters-scaled.jpg"
-        width: 2560
-        height: 1708
-        isCached: true
   - title: "Report: Googlers say Bard AI is ‘useless,’ ethics teams told ‘not to get in the way’"
     excerpt: "A new report surfaces comments from Googlers that call Google Bard AI \"worse than useless\" and also some worrying ethics matters."
     publishedDateTime: 2023-04-21T15:27:00Z
@@ -60,6 +44,6 @@ related:
         height: 628
         isCached: true
 
-secured: "BqijD1CbTIED7RTQuNuenucIrseuu1z/VY1fsnoQHcms0eyNsdsU/2AoHniyGfg15m+W3HDPWUfxbNE/Q8pj4y0ZzsZbJpOE7t7+KcdLdSY9yuMj94DULwLNz1dw7MKIjXM4s3zndEaEO4YWd44voP6KncrgighfbtmSbr4fnhF4aAHX/kxigjMy+QZZpyy5nbFPJdJrkkU+eKkvr33lh+hhtNF4jW+kDyjuve7mfIhCRJwbjCN6IUcR2qJc7e0BBKQ+q2udg+N4H+MhKvYMIsBNDNVGRzW1nEOVAtpJeNFZU5wQkghiROzd7Fp/7w9v/dEDpQ+egsNJpL621CdFKFVKRcyeWU8Wb74DxlOpYbUuMHIUrdZd3bRVoFjQsgJQoaXIoE218W63DIT1/1P9T1o+ZyFLS0Ri+K39x6aiuHAaVF19YL4wweYBG3Os9d1qfSeQaBVNqphK7/nphXp6eexf7Uv8HyL6nXlISLvoqoPsHQCvBoOjdHmojv3x7E5ITZz1G1gNXdKieEmj5Wpezg==;UjFj9187NEL+t21BAdjOUw=="
+secured: "qJehCqadzkP9Z8HGkVux9Np85Fgvn9ymaIBwKQGvqMgZLH3FslnRdNGv0KaC1Ux1F8+GWRP6c1siMUmZmFsVIym1AMQTbMXbrv1yCT0IdqIAeE1OseSv4y1v/YLtIUoMgxP1qlKoHWEUEavD0sM+OFOooDB0wHXTYNMYhWMVEDBNS2pjWt2inCUozZYm86aF6QKxRC9c7fjSDnsWabBrUhK5Uou3OgfiMMeDl8yuUHmCKjIF7MKsFICJiOfqrl1TeS5pa9gO4z5SKcRzZDP10q8jq8K3C/aXK7Yu1a+MFNHTDbXf5zoqL8vn2HgslnBgDRtzWETP5dxWTCeJEtbrn6CtO6sQdmu055oUzQlOdHI=;IaroxZ5yti/ns51k3YyOXg=="
 ---
 

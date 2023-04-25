@@ -1,0 +1,61 @@
+---
+category: news
+title: "Self-driving cars 'need to learn the language of cyclists'"
+excerpt: "Human-computer interaction specialists from the University of Glasgow have highlighted the need for new systems"
+publishedDateTime: 2023-04-25T05:59:00Z
+originalUrl: "https://www.heraldscotland.com/news/homenews/23476838.self-driving-cars-need-learn-language-cyclists/"
+webUrl: "https://www.heraldscotland.com/news/homenews/23476838.self-driving-cars-need-learn-language-cyclists/"
+type: article
+quality: 24
+heat: -1
+published: false
+
+provider:
+  name: heraldscotland
+  domain: heraldscotland.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://www.heraldscotland.com/resources/images/16356573/?type=og-image"
+    width: 945
+    height: 630
+    isCached: true
+
+related:
+  - title: "Self-driving cars must learn the language of cyclists to keep roads safe, research suggests"
+    excerpt: "Future generations of self-driving cars should learn the language of cyclists to help them safely share the roads with bikes, new research suggests."
+    publishedDateTime: 2023-04-25T00:01:00Z
+    webUrl: "https://techxplore.com/news/2023-04-self-driving-cars-language-cyclists-roads.html"
+    ampWebUrl: "https://techxplore.com/news/2023-04-self-driving-cars-language-cyclists-roads.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-self-driving-cars-language-cyclists-roads.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 34
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/self-driving-cars-must.jpg"
+        width: 2412
+        height: 952
+        isCached: true
+  - title: "Self-driving cars must learn the language of cyclists to keep roads safe"
+    excerpt: "Future generations of self-driving cars should learn the language of cyclists to help them safely share the roads with bikes, new research suggests."
+    publishedDateTime: 2023-04-25T05:40:00Z
+    webUrl: "https://www.gla.ac.uk/news/headline_948008_en.html"
+    type: article
+    provider:
+      name: gla.ac.uk
+      domain: gla.ac.uk
+    quality: 23
+    images:
+      - url: "https://www.gla.ac.uk/media/Media_949727_smxx.png"
+        width: 650
+        height: 366
+        isCached: true
+
+secured: "0lNjilP+SVDNY7QEuf0RjaOXbq1DzcbdlwkN5iibP2Jkc4vyNLFL4BoOXz3zieD49tzUizjuVIn44prJXIsQusn9vC5g2YLV8dVkO5W02ydWb/qKFXg9TYs9lN0dkFQrx7gWMk5YitpEnW264OmcQL6Jtneo+oQ8gHGts7ZK+UMxLmQr140wL/+gi8gSe9VJy6MHy3HMTsKMAuwU0Jp/5jkpd6bj+YXvH8AhK0Ux2wKWPn4PFQ++tn1fLk+315tK1O8HnW0kg/aU+nOvQmbrCBdP4ghq/uxrbwKImXqjxfjl53HZbcz/6KgXGguACaQr3PfCY4xCBH166nFGnBpnQX+3bQVY5pGRSwYLSiSozVk=;nJPvmaRmsMbjhyGUjtJXZg=="
+---
+

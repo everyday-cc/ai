@@ -1,45 +1,28 @@
 ---
 category: news
-title: "Drones Navigate Unseen Environments With Liquid Neural Networks"
-excerpt: "MIT researchers exhibit a new advancement in autonomous drone navigation, using brain-inspired liquid neural networks that excel in out-of-distribution scenarios."
-publishedDateTime: 2023-04-20T09:37:00Z
-originalUrl: "https://www.technologynetworks.com/informatics/news/drones-navigate-unseen-environments-with-liquid-neural-networks-372383"
-webUrl: "https://www.technologynetworks.com/informatics/news/drones-navigate-unseen-environments-with-liquid-neural-networks-372383"
+title: "Drones navigate unseen environments with liquid neural networks"
+excerpt: "In the vast, expansive skies where birds once ruled supreme, a new crop of aviators is taking flight. These pioneers of the air are not living creatures, but rather a product of deliberate innovation: drones."
+publishedDateTime: 2023-04-19T20:46:00Z
+originalUrl: "https://techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.html"
+webUrl: "https://techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.html"
+ampWebUrl: "https://techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.amp"
 type: article
-quality: 39
-heat: -1
-published: false
 
 provider:
-  name: technologynetworks
-  domain: technologynetworks.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://assets.technologynetworks.com/production/dynamic/images/content/372383/drones-navigate-unseen-environments-with-liquid-neural-networks-372383-640x360.jpg?cb=20230420"
-    width: 640
-    height: 360
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/drones-navigate-unseen.jpg"
+    width: 900
+    height: 600
     isCached: true
 
-related:
-  - title: "MIT uses liquid neural networks to teach drones navigation skills"
-    excerpt: "A team of researchers from MIT CSAIL introduced a method for drones to master vision-based fly-to-target tasks in unfamiliar environments."
-    publishedDateTime: 2023-04-20T23:28:00Z
-    webUrl: "https://www.therobotreport.com/mit-uses-liquid-neural-networks-to-teach-drones-navigation-skills/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 69
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2023/04/drones-neural-nets-mit-csail-featured.jpg"
-        width: 770
-        height: 500
-        isCached: true
-
-secured: "q5JdAavzoCYiwBuPT2fFlVCh2VW14Iz7o8fzFLNuN/w1Vz2fkaHL5myko6QKilXboMUyZMllZHhIcYbLnYhoKHsPCSq+6asxkz2aw5LmwCd+ZTF2GpoAUNQGpyQoG5PaAoMDko+cP3p+khcDkwn4dVZLUF8AS9o0Jq/9GE4Fdx9PGZfRE1nPi4uQQichu/uNamol+aA8jvLFQry7IQw8nRihZS7OOoIS5hyZVTnClFdGUD6vCQKCpaZ+IqGpT0Hlrk+MSreItIwr22bcSJDCfm8VfUIFHcNeFVYg24uhxlWaQex59ZMJTtnZSpwcctFXh6N0ppRf1qxKgtH1p+rWLMUpoJIycurOV8yZsiYqHEQYyLvy/iZMtMg9gaOxxOiGtGCqFJHrT0Xmgi0+XfJTOraEs/+hJyncwPj/QsNQ7mTakRcK45+9kPpi8EAPByVd+23uLYyCz3+sCfwbo0+q45NMX1GAXk3+Wkn5olb2kbrDxc1/sD8WFtH/7qKjkWjHM3/0kGRvLNzDSsCkDYnRFw==;5YnQ82f/8TM6c4u99vXJXg=="
+secured: "hSdC2AM1ourHm6azZUBBXbzOFnvOGiUq+RMvt9XrX2MC21xV+2DfKP3afNTialW/JL402yGr3RwZJIboZ9M+afENQshYf6Djqg8TRdY3zaVcc5oxX/QF59fQdxUaOn4n89Ol8jKumitK7jePHQ+E4PqQsvIDEsIktH4IMwoZ/GEReOCI0oHv3Ov+lIHTGy1J8jk4tFo5nC+zA1hOoGpMoiVmr82yPGabY/7NicarSLAn+YiRB5yDSck2iZAhDs6sWcnzGH2cRV0JhH2qkpXyQFSCgMrylWOeP9AiQWr4I2zSCajjnK5Y2Bg7RJKxDScUSPHw+fDj+bmBiY++iRnlQhicElxZ5e3dbXNkvbWCnnE=;LUbTDhLXMp34Fd1NQluIsw=="
 ---
 

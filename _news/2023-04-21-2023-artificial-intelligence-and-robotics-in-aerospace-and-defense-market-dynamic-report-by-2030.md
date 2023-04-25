@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-dynamic-report-by-2030-2023-04-20"
 type: article
 quality: 85
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 79
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI In Computer Vision Market Report Focus On Landscape | Current And Future Development 2023-2030"
+    excerpt: "This study involves the strong analysis of manufacturing practices and standards applicable in AI In Computer Vision Market industry. A bottom-up and top-down strategy is used for both qualitative and quantitative estimate."
+    publishedDateTime: 2023-04-24T11:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-focus-on-landscape-current-and-future-development-2023-2030-2023-04-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

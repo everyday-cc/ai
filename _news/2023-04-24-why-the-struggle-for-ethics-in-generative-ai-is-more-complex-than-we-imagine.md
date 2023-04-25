@@ -43,6 +43,22 @@ related:
         width: 1014
         height: 676
         isCached: true
+  - title: "Pros and cons of AI in education"
+    excerpt: "CTU Training Solutions held a webinar recently to explore how AI is going to change the way we teach and learn."
+    publishedDateTime: 2023-04-25T06:40:00Z
+    webUrl: "https://www.itweb.co.za/content/Olx4zMkal3Qv56km"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/Olx4zMkal3Qv56km"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Olx4zMkal3Qv56km"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 76
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2023/04/86-Humanoid-reading-2023.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "t9Ks/x+yDke2oAUcRsM11Tcxthkwf1Kig06NDLCHsSPU7gnXXMO9DKl5GCKsd8NmX5l39sHN2eAG17l5HmHfFgnR6raqvr3mgsvFFGspSprVnjj8hl6ezDq9FpuL93p5lCwPMTJYmz2D8uG6quUU1Y4aQp6wkqsxrjb0G5BioP0I6CimBOzjkcHR+pBizq42AccwjqgeHSKo9gPeEchJi9K3ubQfIwNK/MAhWtmQCfSlSZhn08YdRz5biDxY7/3EirE4s64WUYMOUzJZuc8Uk4BnY3YeH9/x+/gi710X+Izah/pJpAAoDa4QqL5bCKIfe0tWMjW195PyefZ6fkjljxVLluC6NBhPFEbsVJ41AeAjOHeAXXyHfmwvYyy08Tm+dAcK7OR8OlDJHePHUVCSk3Uy5kf+wW1KHXImbKv/WknGBBWLthIGohGanUzEnm8S4c4dXIbUbvTrKQbt3Nm+Q+f2mJE1uJdXp1LirFACkvhxsyo/yhpQ5HpUUu2vk0iePF5s6F0J2QgQfDXJCcRlCA==;1786nVgBSxuEWt5fn7/MSQ=="
 ---

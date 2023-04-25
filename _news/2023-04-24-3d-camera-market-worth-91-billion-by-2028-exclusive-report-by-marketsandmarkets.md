@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Cognitive System & Artificial Intelligence (AI) Systems Market Forecast: Analysis of Industry Trends and Opportunities | 2023-2030"
+    excerpt: "Apr 23, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The 2023 research report on the"
+    publishedDateTime: 2023-04-24T02:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-system-artificial-intelligence-ai-systems-market-forecast-analysis-of-industry-trends-and-opportunities-2023-2030-2023-04-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "zh5iXjautFhOjc0e4rVic8O+mtZfLgOqOwrvPLXlLKoSqbNlPwTqDeCeM5NuAKyA3IBu/Q5LfLNv5oePX6XJyIv/LBHK6NmBA6sK+0JIa54kKRdvRb2pjWD1rwa/xstgtg8ZUfI9D7TkaX2OV0v7GNU7LF3NCRTzGpztUw5cK4BHAHe7jjuqEYd/KzeVbIAcr0EjZh705Fz2J6SL87DURguvi6F/TbgNRbHsO8PqySGlDhDYifY2QYFEJyoqyFNIDykjZZQrO+ShzqrT/pG+WnGu7G9sJ/oem3baCBLJFW6UgrFL7jwjVW5pHtUrAIbrinsaj98hAcJR3vLTYtefSMouHXb9meQ/9qc6Qpou3nM=;4yXn3le2Ni37Jm+Z8w5B5w=="
 ---

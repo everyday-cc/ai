@@ -122,15 +122,6 @@ related:
         width: 1024
         height: 540
         isCached: true
-  - title: "Amazon and Microsoft's AI gains mask cloud slowdown"
-    excerpt: "Once-booming demand for cloud-computing services is slowing as businesses rein in spending amid economic uncertainty."
-    publishedDateTime: 2023-04-20T14:40:00Z
-    webUrl: "https://www.detroitnews.com/story/business/2023/04/20/amazon-and-microsofts-ai-gains-mask-cloud-slowdown/70134357007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 34
   - title: "Microsoft Q3 Earnings Preview: All Eyes Are On AI-Driven Growth"
     excerpt: "Microsoft Corp. (NASDAQ: MSFT) will announce fiscal year 2023 third-quarter financial results on Tuesday, April 25, after market close. Here are five things to know ahead of the report:"
     publishedDateTime: 2023-04-24T13:04:00Z
