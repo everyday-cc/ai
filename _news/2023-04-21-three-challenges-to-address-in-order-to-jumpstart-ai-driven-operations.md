@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/21/three-challen
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/21/three-challenges-to-address-in-order-to-jumpstart-ai-driven-operations/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/21/three-challenges-to-address-in-order-to-jumpstart-ai-driven-operations/amp/"
 type: article
-quality: 89
+quality: 91
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Google AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/644139b6616ed06719913892/0x0.jpg?format=jpg&crop=3240,1822,x1596,y0,safe&width=1200"

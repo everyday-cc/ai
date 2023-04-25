@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Data and AI Ethics Market Research, 2023-2030"
+    excerpt: "Short Summery About Data and AI Ethics Market: Data and AI Ethics Marketsize, segment (mainly coveringMajorType (, Solutions, Services, ,),End Users (, BFSI, Government and Defense, Healthcare and ..."
+    publishedDateTime: 2023-04-21T03:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-2023-2030-2023-04-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice And Speech Recognition Software Market | Report, 2023-2030"
     excerpt: "Voice And Speech Recognition Software Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 108 Pages Report The extent and overview of the various commercial opportunities throughout the ensuing years are shown in the global \"Voice And Speech Recognition Software Market\" research report,"
     publishedDateTime: 2023-04-21T03:15:00Z

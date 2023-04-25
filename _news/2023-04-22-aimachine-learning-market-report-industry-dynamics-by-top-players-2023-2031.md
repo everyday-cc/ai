@@ -6,8 +6,8 @@ publishedDateTime: 2023-04-22T05:51:00Z
 originalUrl: "https://www.marketwatch.com/press-release/aimachine-learning-market-report-industry-dynamics-by-top-players-2023-2031-2023-04-22"
 webUrl: "https://www.marketwatch.com/press-release/aimachine-learning-market-report-industry-dynamics-by-top-players-2023-2031-2023-04-22"
 type: article
-quality: 81
-heat: 111
+quality: 83
+heat: 103
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -29,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Chipset Market Top Key Players by 2031"
-    excerpt: "The latest market research report on the Global \"Deep Learning Chipset Market\" is segmented by Regions, Country,"
-    publishedDateTime: 2023-04-20T07:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-top-key-players-by-2031-2023-04-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Data Science and Machine-Learning Platforms Market Forthcoming Trends and Share Analysis by 2030"
     excerpt: "Latest Research Report 2023-2030: “Data Science and Machine-Learning Platforms Market” | Survey with 126 Pages Report"
     publishedDateTime: 2023-04-21T11:27:00Z

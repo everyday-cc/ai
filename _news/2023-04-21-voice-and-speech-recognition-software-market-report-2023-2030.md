@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Data and AI Ethics Market Research, 2023-2030"
+    excerpt: "Short Summery About Data and AI Ethics Market: Data and AI Ethics Marketsize, segment (mainly coveringMajorType (, Solutions, Services, ,),End Users (, BFSI, Government and Defense, Healthcare and ..."
+    publishedDateTime: 2023-04-21T03:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-2023-2030-2023-04-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automatic Speech Recognition Market Research, 2023-2030"
     excerpt: "Automatic Speech Recognition Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information"
     publishedDateTime: 2023-04-21T03:35:00Z

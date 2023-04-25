@@ -7,7 +7,7 @@ originalUrl: "https://www.cio.com/article/474720/generative-ai-a-paradigm-shift-
 webUrl: "https://www.cio.com/article/474720/generative-ai-a-paradigm-shift-in-enterprise-and-startup-opportunities.html"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Generative AI: regulation is important for its progress"
+    excerpt: "In a forthcoming book, Princeton computer scientist Arvind Narayanan aims to offer a clear-eyed corrective to the hype around AI"
+    publishedDateTime: 2023-04-24T15:45:00Z
+    webUrl: "https://www.raconteur.net/risk-regulation/generative-ai-regulation-is-important-for-its-progress/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 39
+    images:
+      - url: "https://www.raconteur.net/wp-content/uploads/2023/04/government_regulator_ai_law.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "weI97Q3vv4z8CwgRCLx4/vT6Qto0gBokSAVy5v3bBjNe8OCkBW/rT1RiaIiLgfMDIZo/8Phcs+L8qZLvh+skf6YfEUJczSLsKduR/ZPZvM0BN7Q85/oHAMnzhTqVA2bTV7faYgoVJpy/TTaPHRDg/MsKcnuetN1ImkbN/wp0edjCE89y3yqMAWHTqjIIpvGB6mchOYJaqqGY0rdx2N8pfZ4SuRYHxejmRWq56I/xRP/1XQ15a8Gwh1R8lT9PtMflKezmMj7Xo9viyiAKINc6jwQ02oqW4p/mtmCsBHQ3pIPtDlVZeL81Ah5hevQsYKEjElHTfGGmX+XRQXYWzI1dC3ZiIhMda2rpX9fr7Bx/BSBrD26ZyAGOkeJ865I7r7FL9lKyjh8cMHJVwo7yOWVhoUV4F0yeBB8EnaT65eAjkn3Gz2xnPlRpZc/+jcG6YslUA/erh5IPk+k8IbwRhEK5zf67bO6iapEWYGO7neaOQdcM9xQdKQj+kMvniox0hjvjjQlkr2++6IDbZXtuwJd+Nw==;i74hqtLHt7kNszXr70jYbw=="
 ---

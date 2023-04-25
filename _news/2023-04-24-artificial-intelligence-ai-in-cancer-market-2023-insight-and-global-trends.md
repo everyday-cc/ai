@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How Fintech Can Empower Financial Literacy For All"
+    excerpt: "The COVID-19 pandemic, economic downturns, global trade disputes, and climate-related disasters have contributed to significant financial challenges worldwide. According to a study conducted by the World Bank,"
+    publishedDateTime: 2023-04-21T13:04:00Z
+    webUrl: "https://www.finextra.com/blogposting/24094/how-fintech-can-empower-financial-literacy-for-all"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "P2sECIWaeZ0c1RxW3cXEXwfZ36y6dkX7u0mF/BP8ePETZwvguBk+YaJDh5F5EHdod97vpHIJprgE+CTrXD6VlqzhGgxIb8avg8BhJWiuAfsysUqKti/idLwhMOjhBYn2trHGUhlRCnp2RIS0+215f4FlUSklUGdZjqvJVmeVdcz7X2EvbtCZVgpPVXGZPMRAviC5sE4CXA5LhoB/IwfuMRoLEET9iuyg0N6jJ79KokyvcvahMdqcJXfHFVOYpXFJ1m4tYiLdStA0jkqShpQ2HvZuS6aFQ4bZxg5btalRJwbdIKmrZ5jiWL/IlqGpnkVTxtUFfqoGM7W1pE2XawyzVEn5czN3MQQFRPg2gcmZxRI=;N+/s7dgH/cbXfTEvknJSiQ=="
 ---

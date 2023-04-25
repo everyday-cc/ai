@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence innovation: Leading companies in autonomous-manual transition handling for the automotive industry"
-    excerpt: "GlobalData uncovers the leading innovators in autonomous-manual transition handling for the automotive industry."
-    publishedDateTime: 2023-04-24T12:52:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-autonomous-manual-transition-handling-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 0
   - title: "Artificial intelligence innovation: Leading companies in autopilot-manual switching for the automotive industry"
     excerpt: "The automotive industry continues to be a hotbed of innovation, with activity driven by the growth of connected and autonomous vehicles, and growing importance of technologies such as artificial intelligence,"
     publishedDateTime: 2023-04-24T12:59:00Z

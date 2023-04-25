@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-overview-and-scope-by-2031-2023-04-20"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How Fintech Can Empower Financial Literacy For All"
+    excerpt: "The COVID-19 pandemic, economic downturns, global trade disputes, and climate-related disasters have contributed to significant financial challenges worldwide. According to a study conducted by the World Bank,"
+    publishedDateTime: 2023-04-21T13:04:00Z
+    webUrl: "https://www.finextra.com/blogposting/24094/how-fintech-can-empower-financial-literacy-for-all"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "uhnKG/QgkVZeT/uQClLexxxeRAb6R/6m+63HYxYXKcZnv+VFmJkqB/B0wDJjLLwCb8HWxh4MWLJZBcW1borfqDzvupM7MUPARg4KxgGxPn96QqopJhZZzHIFesfghgJIlmvSA0D5A8Vv1kfExif/bgtapwQEj0+p/9cDScr4/pJs9tnrlaT+y65P1nBKGi3mA0GBDtegfmMbPWHABw3JbmmHa75i6lQPRHDbBiWoXujm1Fn9WM4xAjPrgjJDxglJRBEAeYHThPRmEmOG43X7r3sGnXrSCYCbicS/OBlKoDbI8z0TFPCXEb4YAhGwsH+tm3087RrPormRx+mlT89/9PFVuJLs0wsJubqcb5a5y7Y=;PVS6wkswR4PLRlXuY2GyOQ=="
 ---

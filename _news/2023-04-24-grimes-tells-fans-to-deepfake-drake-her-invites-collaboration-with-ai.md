@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/04/24/grimes-tells-fa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/04/24/grimes-tells-fans-to-deepfake-drake-her-welcomes-collaboration-with-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/04/MONH-DEEPFAKES-leading-edge-1024x576.png"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Grimes invites artists to use her voice for AI-generated songs, says she'll split royalties"
+    excerpt: "\"I think it's cool to be fused w[ith] a machine and I like the idea of open sourcing all art and killing copyright,\" the singer tweeted.​"
+    publishedDateTime: 2023-04-25T00:51:00Z
+    webUrl: "https://www.cbsnews.com/news/grimes-ai-music-voice-royalties-artists-copyright/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/grimes-ai-music-voice-royalties-artists-copyright/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/grimes-ai-music-voice-royalties-artists-copyright/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 47
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/04/25/1e2e6b03-d84a-4f8b-81e0-f4a94e2eecd8/thumbnail/1200x630/188438474c95d47f41963a16e22199ca/gettyimages-1340131828.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "0hh37mZwqQgxOAK3u93tc1/bZfoCB1tfQ2VGqRK/BuOHwvUWltB9UpD19TCwdqJOsfQx7eumvJo4z8BA3VuHX/HI6fWwJzR/7exI4OSRoqEmBJkhf51NVer+5+6XGVuE00jTmVF7t1W3YdClpXcYw8q0oGiNDrYslFUTlGSC0HtShBG3DoJ1/Jeo7r1m+qXA+n605Eg6PnHzXSaQLs/wut95MFhI2a5EX3GKKjvkionFo170FCNCblcRBz7HCHy+OHdKNknwZ7JJTlY2vY2TkxAp91a7KwdYDkrE0rtt6Gxlfp+kxdBUkmlU8hLrkSnzl0EZcuQeTLh662HmUkMWCTK5qo7fWpqFjHaIp9XlSx8=;Lm3jgyMIU+0lm63Wp4iIOg=="

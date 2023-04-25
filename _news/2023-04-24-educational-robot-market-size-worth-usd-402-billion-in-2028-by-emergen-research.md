@@ -51,6 +51,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 29
+  - title: "Digital Workplace Market Size Worth USD 90.52 Billion in 2028 – By Emergen Research"
+    excerpt: "Embrace the digital revolution with the latest workplace solutions. Discover the benefits of digital transformation with customizable services"
+    publishedDateTime: 2023-04-24T18:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/digital-workplace-market-size-worth-usd-90-52-billion-in-2028-–-by-emergen-research-1032254427"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
 
 secured: "fIYNtEVrx3uLKr03rK3ZzGv/fwVoDm0v5zDfPTtTqClIM5Ir9I7XAoyDY3qufF6AK57UXA536YS0behmaYs1RT3gBRD0V+z3QhDU+sWftSwwbzlnC50eWfbm263zF7l0LGLtDfhU8XB7B7lCiaV1r8F3culMKNgvW4pzLuECTnWpR7gQNsBfNOUBg4Fgdvy/Bz7rH1Ii25AX8Vav/FclWzqwhg+GexLU1BJew0rfvi9Xxzf/g7VnmAeOc7tqi9gC555QjPIHXNks7exPv40psjXdDiGFBSoaPO++wSQvG4h0G/83hTrKbpuHfgzlEJ7c4A8XJ/A2o5uRMii6YSLLcXFKz9D8/Wd41BqKfos6DTY=;Xq0hfQWHvJA5xX27mzrMBw=="
 ---

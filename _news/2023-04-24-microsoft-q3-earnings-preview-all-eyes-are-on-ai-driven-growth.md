@@ -103,18 +103,18 @@ related:
         height: 847
         isCached: true
   - title: "Siemens and Microsoft drive industrial productivity with generative artificial intelligence"
-    excerpt: "Siemens’ new Teamcenter app for Microsoft Teams to use AI, boosting productivity and innovation throughout a product lifecycle Azure OpenAI Service powered assistant can augment the creation, optimization and debugging of code in software for factory automation Industrial AI to enable visual quality inspection on the shop floor Siemens and Microsoft are harnessing the collaborative"
-    publishedDateTime: 2023-04-24T02:42:00Z
-    webUrl: "https://www.thaipr.net/en/it_en/3329588"
+    excerpt: "Siemens' new Teamcenter app for Microsoft Teams to use AI, boosting productivity and innovation throughout a product lifecycleAzure OpenAI Service powered assistant can augment the creation, optimization and debugging of code in software for factory automationIndustrial AI to enable visual quality inspection on the shop floorSiemens and Microsoft are harnessing the collaborative power of (AI) to help industrial companies drive innovation and efficiency across the design,"
+    publishedDateTime: 2023-04-24T09:42:00Z
+    webUrl: "https://www.newswit.com/en/M5T3"
     type: article
     provider:
-      name: thaipr.net
-      domain: thaipr.net
+      name: academy
+      domain: newswit.com
     quality: 44
     images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2023/04/IMG_8729-scaled-e1682331791394-768x431.jpg"
-        width: 768
-        height: 431
+      - url: "https://www.newswit.com/img/f/20230424/c1ff69547c5cca490d95efe7466311a0-0.jpg"
+        width: 1200
+        height: 673
         isCached: true
   - title: "The era of AI: How the Microsoft Cloud is accelerating AI transformation across industries"
     excerpt: "This past quarter has put a spotlight on advancements in generative AI, and the possibilities of its application to deliver pragmatic business outcomes. For organizations around the world, there is incredible opportunity to enhance products and services while unlocking innovation and business value to help shape the future of industry."

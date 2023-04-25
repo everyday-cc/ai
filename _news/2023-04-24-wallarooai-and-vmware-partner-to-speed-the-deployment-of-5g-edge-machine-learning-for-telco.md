@@ -20,19 +20,19 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Wallaroo.ai partners with VMware on machine learning at the edge"
-    excerpt: "Machine learning startup Wallaroo Labs Inc., better known as Wallaroo.ai, said today it’s partnering with the virtualization software giant VMware Inc. to create a unified edge machine learning and artificial intelligence deployment and operations platform that’s aimed at communications service providers."
-    publishedDateTime: 2023-04-24T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/04/24/wallaroo-ai-partners-vmware-machine-learning-edge/"
+  - title: "Unleashing the Power of Deep Learning in 2023: A Vision for AI’s Future"
+    excerpt: "Deep learning has emerged as a revolutionary technology within data science, enabling businesses to extract valuable insights from their data like never before. In the era of data-driven technology, deep learning offers businesses a competitive advantage by utilizing advanced neural networks to build intelligent applications."
+    publishedDateTime: 2023-04-24T08:13:00Z
+    webUrl: "https://techbullion.com/unleashing-the-power-of-deep-learning-in-2023-a-vision-for-ais-future/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Impacts
+      domain: techbullion.com
     quality: 56
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/Wallaroo.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://techbullion.com/wp-content/uploads/2023/04/Screenshot-2023-04-24-011239.png"
+        width: 628
+        height: 350
         isCached: true
 
 secured: "qt/47nDToID+RJPGzeaH8LhVPhCOBUIn0NegUDQZ0X7IM4vdBjgnSckmPYOxcCzquI2qJc9kn5RMGvo0JxVCki0yvolw/TZwFelpCIkoaQFGAaBwhXMbH1iyrk4Osh9ij3hRk56VjDT9QB1Px6g1HyDsUDXioEZzC/jU6oPlLgCFK9kcHMCzl0p1bo5MK2PgCaJ1CasXb4o6zTZPg1eMBTXWBJHZmsagW+Za15syyEDu0ZYuVxtf//8gkPdxS6ly1+4hguKXp5+ONsGxJV3F2u6CJLhEnFtu3jOyxbX0ihH3dUomMaLrJXcIKVvtTkTff+r+evQqhYF5VkTK073FfC9A24kIv0uzhlHIyK3ajdc=;aonhYcXqqJn718vUZ+9oTg=="

@@ -146,6 +146,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Unleashing ChatGPT: Your Ultimate Guide to AI-Powered Conversations"
+    excerpt: "ChatGPT boosted the widespread use of artificial intelligence worldwide, but many people hesitate to try it. Some are skeptical about new technologies, while others aren’t willing to adapt. Contrary"
+    publishedDateTime: 2023-04-25T01:42:00Z
+    webUrl: "https://technology.inquirer.net/123500/unleashing-chatgpt-your-ultimate-guide-to-ai-powered-conversations"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 41
+    images:
+      - url: "https://technology.inquirer.net/files/2023/04/ChatGPT-guide-featured-image-lablab.ai_-620x349.png"
+        width: 620
+        height: 349
+        isCached: true
   - title: "ChatGPT craze drives domestic innovation"
     excerpt: "\"Technologies behind ChatGPT are not new to market players, but ChatGPT represents how AI has evolved and progressed over the past few years. Also, it demonstrates the popularity of the NLP market and brings forward the market one to two years,"
     publishedDateTime: 2023-04-24T23:40:00Z

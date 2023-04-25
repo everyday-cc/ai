@@ -21,6 +21,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Robotics
+  - Google AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/04/hitesh-choudhary-t1PaIbMTJIM-unsplash.jpg?w=1200&strip=all"

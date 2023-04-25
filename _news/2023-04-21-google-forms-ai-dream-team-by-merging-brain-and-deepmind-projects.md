@@ -149,6 +149,22 @@ related:
         width: 740
         height: 493
         isCached: true
+  - title: "Google intensifies its bid to lead AI race, announces Google DeepMind: Here’s what it means"
+    excerpt: "Google DeepMind is the combination of DeepMind and Google Brain. The new collective unit is expected to steer Google’s progress in AI."
+    publishedDateTime: 2023-04-22T04:08:00Z
+    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/google-intensifies-its-bid-to-lead-ai-race-announces-google-deepmind-8568635/"
+    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/google-intensifies-its-bid-to-lead-ai-race-announces-google-deepmind-8568635/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/google-intensifies-its-bid-to-lead-ai-race-announces-google-deepmind-8568635/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 64
+    images:
+      - url: "https://images.indianexpress.com/2023/04/What-is-Google-DeepMind.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "Google creates DeepMind division to combat threat from ChatGPT and Bing AI"
     excerpt: "The rate of AI development is seemingly speeding up each day, and Google is one of the biggest players in the game. The teams have an impressive history of achievements in AI coll"
     publishedDateTime: 2023-04-24T13:37:00Z
@@ -158,6 +174,20 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 62
+  - title: "Google DeepMind is now the company’s combined AI team"
+    excerpt: "After being an Alphabet company for the past several years, it's now being folded in to form \"Google DeepMind.\""
+    publishedDateTime: 2023-04-20T18:26:00Z
+    webUrl: "https://9to5google.com/2023/04/20/google-deepmind/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 54
+    images:
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/08/google-store-chelsea-2-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Google merges its DeepMind and Google Brain AI research groups"
     excerpt: "Google LLC parent Alphabet Inc. is merging its two main artificial intelligence research groups into a single unit. Alphabet Chief Executive Officer Sundar Pichai announced the move in a blog post published today."
     publishedDateTime: 2023-04-21T16:04:00Z

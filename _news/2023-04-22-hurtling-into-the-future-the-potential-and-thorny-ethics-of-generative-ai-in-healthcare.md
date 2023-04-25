@@ -7,8 +7,8 @@ originalUrl: "https://www.healthcaredive.com/news/generative-AI-healthcare-gpt-p
 webUrl: "https://www.healthcaredive.com/news/generative-AI-healthcare-gpt-potential/648104/"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Healthcare Dive
@@ -24,6 +24,22 @@ images:
     width: 770
     height: 435
     isCached: true
+
+related:
+  - title: "Driving into the Future: The Latest Advances in Automotive Security"
+    excerpt: "With the increasing cyber threats in the automotive industry, car manufacturers are focusing on developing car security systems to make it more difficult for criminals to steal or take control of a vehicle."
+    publishedDateTime: 2023-04-24T12:58:00Z
+    webUrl: "https://www.techopedia.com/driving-into-the-future-the-latest-advances-in-automotive-security"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 41
+    images:
+      - url: "https://www.techopedia.com/wp-content/uploads/2023/02/istock-829197356.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "LjW37RVUUIOoxNWKC9MNKxV7shyB27ITSAByFtY2by8L0a6KS9TR0sdQCha/aqhv8nsnvRZQmiVOiMqVtmSYOIDby1X+ZjDw7uGAIweV4+8NrBY5a/FK9WqAXuwmOQjEq/9Hgb6cf/xjoDGGCLp034J9BH0hVTMK9xW6Gs08b4QiM2NO+xv93j6Seu9FfrCxNCS3I0+6QzBY14BbczVPOj0ZxZ12bPlyaLZZoZnVdmE8hipwr2TxsiUpJAvXJbRwH0RajTOwz+AattNqHPDhBl6zd0x5ew0/Xh9gNPlEw/ZxUk24gTqHRlq7JVwlOuACg6JiLGOJHRTOu51xwcMvkMDCY+5hsU9Gx04CtJY1bPY=;EktLQCiLdk8Rc4FZgeGV3Q=="
 ---

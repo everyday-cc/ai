@@ -76,6 +76,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Generative AI: The Missing Piece in Financial Services Industry?"
+    excerpt: "The financial services industry is ripe for digital transformation ... By generating synthetic data to train machine learning models, generative AI can help financial institutions identify patterns and anomalies that may indicate fraudulent activity ..."
+    publishedDateTime: 2023-04-21T15:31:00Z
+    webUrl: "https://www.finextra.com/blogposting/24089/generative-ai-the-missing-piece-in-financial-services-industry"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/3c9a8984-a23b-48bf-a43d-6e3d16773ca0.png"
+        width: 500
+        height: 341
+        isCached: true
   - title: "AI Is Coming for Wealth Management. Here’s What That Means"
     excerpt: "AI will allow the client to access an incredible amount of information and ask questions in a language that the client is comfortable with and receive answers. For practitioners, the limitation it will have will be in researching what is happening today with that company,"
     publishedDateTime: 2023-04-24T13:33:00Z
