@@ -2,25 +2,19 @@
 category: news
 title: "Timekettle AI Language Translator Device Redefines Intercultural Communication"
 excerpt: "Language communication has always been an indispensable link in the journey of cross-cultural communication. As a leading translation tech company, Timekettle has a mission to \"break down language ..."
-publishedDateTime: 2023-04-14T08:47:00Z
-originalUrl: "https://menafn.com/1106011008/Timekettle-AI-Language-Translator-Device-Redefines-Intercultural-Communication"
-webUrl: "https://menafn.com/1106011008/Timekettle-AI-Language-Translator-Device-Redefines-Intercultural-Communication"
+publishedDateTime: 2023-04-14T08:43:00Z
+originalUrl: "https://www.news-journal.com/timekettle-ai-language-translator-device-redefines-intercultural-communication/article_b3819467-20de-5b86-8876-223cc8bd1b7b.html"
+webUrl: "https://www.news-journal.com/timekettle-ai-language-translator-device-redefines-intercultural-communication/article_b3819467-20de-5b86-8876-223cc8bd1b7b.html"
 type: article
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Longview News-Journal
+  domain: news-journal.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?119943"
-    width: 314
-    height: 250
-    isCached: true
-
-secured: "n93gmxdLXz6ARBCapnDp9tfPINVGRlSg23P5nYK+l+6lcpyyq2Tc6FzVWjf5vJr/XHHx4XM3mp2XLSrbkNfiuLnxHlKtsivbxOdaRXSkyhI3M9l5smWonOGUT8AF+hhyv4hSHDHv1CYdGYXOhN/B923/QO13FtO6oXSs0p1aCRxtOKTLsOnwnY8iPOVsfYl4pEcLAYQrWdo7OWWoXXcecLaIW1sb9LJFsadXLKE50nkwJ5IWXD4Va/K8Xqk03EitJv1moEwhswnk2F08335uc+GhQEtNDcQxABsOpuw7kK+6lwpf1h5vjef1We4NH/L+HJn/IOD1syUY/ItNTuFJU7o/raJisLU+80SO0AWjcGY=;pz2dClFH+y1qLuntRbkIIw=="
+secured: "hRbwEEknJ8PL2FguCeAdnyXj2oceNu1ZRRlHFsAyQhhsrGZrdK62acvRQY0TbvgmP5bfZgauQjq+0IbHqZpPj4BIUL/EOHD0kEFSEbZVWtkPQzTwdML8cWZQzrzgKNeN/sCasFhU3yYtBevayKMVOoJTqkBjh6L/sTkqPbI1Ot8WPg5NATLlmv9Y8KpeGVAUi+mD2/w+/X9s6v0JADvv49K75lyQ3HaBrAnthEPQWZ3hLUZxUu+cVRhXyjmOELPdkqM9utYtCgsAHO8nRuH1uJXP8yVEg7YzW5H6Kc46SAvMLjvr2QS8Eq8bk5x/egv1QfDBXf0xCVhNTbNw+gt7VoDfGsrz1+hKj0E3rDkBmfw=;oFwNV3D2cVS5+p4+W5flkA=="
 ---
 

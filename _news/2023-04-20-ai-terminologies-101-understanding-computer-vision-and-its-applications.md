@@ -15,12 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/NucleusAIwall-elikecuterobotsmilingandreadingabooklo64cf6bf2-2dc6-4006-80fc-53762f2dce63-1682004860300.jpg?fm=png&auto=format"
-    width: 1536
-    height: 768
-    isCached: true
-
-secured: "7khJrk0ZgwX9vhWlsYod/1l6//QgPnyzBquMY9+fWFRAa/rznZU+ANPzasBvEMpkmvSLXG4nK++URGsxBJ3EqSrX7N93MRoW2rr+UERNKdvH95gpdv/wagIfRf2q/zEsmmn7O/ZLrKw2rGYi8TeJDtudbJdMIzVWSy5KV10sL94RNYHJUe6KQgtcfjEcE1FEsP/Uwp1SdPKVlYNfHkVUPlXccSVBi48xLR/DwhsxdQFcnlF0I/ItNi6KG6x79yzvCxvjVJ5hiOXwd8W9KGa0KmymfkxLXPoYIVcSYBWjoqlcSZJ740aHCwYTR7cBYMc6hRp+zT2fbMBdwXALErmA/I271kkSITO7CDCEDOGmbNU=;aJir/tg2WkNHJ81gaUGeww=="
+secured: "tvVBvsrTNIQxKF8inFYxAl9EIyOc/DArAzIhiUQFXH2kRa6R4WSGmShLae8ah0OuCWpIH2QFO37w8YZFmDvy3o0VOQ/4fbf4+zyQQWCg6M3mkVMgDvoqfFStfYFnnA1bRwtSvE7csgoQBVNUPjanRGjdhsRSId15w5pBzH38TFzpuHFoWBOyLJ4tfy15qG5Mwi+NaGFcZVu9ucnZ5p2k84bbVrgsgxOWjv3oPCP9j7AHVSvAO8e4SrN5dBgWHeVgAevg3LtN9ppQSo5Jad+yRwhSmyRh/SkggQYE7pVKwa4GSriFQhFA91P8aqigOIMKRmtZzUoQgK7JqpsWSH2dnFugkxk9ysd8Kx/R3WYDZIk=;5W5ZShF0CpQOXtMmjjQcXw=="
 ---
 

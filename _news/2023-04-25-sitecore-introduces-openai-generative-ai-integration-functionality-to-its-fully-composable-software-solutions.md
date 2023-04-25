@@ -2,13 +2,10 @@
 category: news
 title: "Sitecore Introduces OpenAI Generative AI Integration Functionality to its Fully Composable Software Solutions"
 excerpt: "Sitecore®, a global leader in end-to-end digital experience software, today announced complete Open AI ChatGPT integration across its array of fully composable software solutions. This feature release,"
-publishedDateTime: 2023-04-25T12:22:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-sitecore-introduces-openai-generative-ai-integration-functionality-its-/2023/04/25/9800945.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-sitecore-introduces-openai-generative-ai-integration-functionality-its-/2023/04/25/9800945.htm"
+publishedDateTime: 2023-04-25T11:36:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/04/25/9800945.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/04/25/9800945.htm"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
   name: TMCnet
@@ -18,6 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "OlWsSqChs9bFGlb1w4AEQVlFAyGRX43EXWJxksxbaLgkhSoBWtYRTIf5btSGlNGOGl+qIbyUPYsd1XLLU7VKcEiTkK/bnGIJ+/YvygQzBmidlHv7FMKZXjHuqVZ5x/RtMSEPQcoj6E4FxRAx1GR9nx6Lh1iHWW4rCnqnna2kh3zpB17eL135KEx+9Yzl9bgbNvEzZEJQOC0TIyzqn735++KDL/ZC/zlY8Ck32OyteuSaXH+hPIw9Jf9+ezutKX9X2ZifBYfG6+hbmidzekJfrK+7VX7K3qRJ093a6+OlQ+jZ/UUKkEd0RJSL06wKrukPBlCumjnsglbyBfhtlhd3YMm4ZDTilnE1GuhQn5W6av8=;xD7WXIBFNkrl2vTS2uPELA=="
+secured: "GgmpHHq3/E/OR2H+KBjjKIMuCXsJMEICiFPOkCGW8Rllpax3WTN6nGxY/noLBm//Mm1a4MSFXzYYownUZVB0+bVIzD3RUDzYPOdqET5wrtEp1/7hX70fbCcu1vL5//PzCGRE6+MZx6VsqQywOXvejJ6264+/B3kElZBma5R5rrhH+3x1kitfvla66JoexBykO7rWvC8GCibk7uZpHp9svgo9gNt5K+MTdRnYbSwUcBo+rHmfsFlWUIt45z3WqJmnwq7FNtjQa0o8deHYC3/lxSAZ9daI16nZa/6DY/y6A9Ga7KF5fNs/ndJH79Br15iCMfUpTglubGGZehoLnlXyBjmBZ5c/9U8pdzgDz+4SW8s=;pvJbLUz6Nb8U2gNYS3xgng=="
 ---
 
