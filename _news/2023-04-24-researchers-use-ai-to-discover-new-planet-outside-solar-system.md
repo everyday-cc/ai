@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-04-ai-planet-solar.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-ai-planet-solar.amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1958
     height: 1670
     isCached: true
+
+related:
+  - title: "Artificial intelligence helps scientists detect exoplanet"
+    excerpt: "Researchers used machine learning tools, a kind of artificial intelligence (AI), and now has confirmed evidence of previously unknown exoplanet."
+    publishedDateTime: 2023-04-25T11:38:00Z
+    webUrl: "https://www.devdiscourse.com/article/science-environment/2429127-artificial-intelligence-helps-scientists-detect-exoplanet"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 17
 
 secured: "DqO9v2In+Vys+NJAs4hLJRpSc6/PXSSWvHhXKV4mJ8IrpaijciAKX+GvWkiEVQt9/HTFwznTUoc3NYtNHEWXPadvsUrdZ4PYKffR6Nlil9nTtef6+Bst6UF/YKuffMRf+Sp2lzYlLOfLmn0D8ACq3a5otW5UQryz8ZP0hIrROPaa4hhy3uUrCp6qU9YxAisgiU6r150X8nvPKz34GxcZwSnacZsQMnkTV1ALuk0zxzpI8owA16gmGlNOaT27TrIDWYH9vzez7tXXdlI4QYtkXbm8a0YAdSGCEss+aw69CT/MKThXMRDACVQ3lprgBtjm8Gqck4JuG9Au/aY8ufzPY0/CyWRNc5Wc3W1RGuV+vrCStOQdyXT+WaVPEmd8nEhWPdNFs8cWqryX+JmWat/CGi8Bilwiy4PPCoV4S3Rjt08nn/49TV1N3p21+rll/R5VAVK9kvAtBBpVLi8eEVWR3kK4oOMRmm38xysmN7eT2A++HuXd7IgMzhAmSiPO2OYOHuWVbtDOUIHJP3y6MFFE6w==;nAbS71Ha9V/RMLcpKkzJgg=="
 ---

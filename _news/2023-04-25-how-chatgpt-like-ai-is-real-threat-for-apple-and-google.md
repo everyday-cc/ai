@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-25T12:34:00Z
 originalUrl: "https://www.livemint.com/technology/tech-news/how-chatgpt-like-ai-is-real-threat-for-apple-and-google-11682425157767.html"
 webUrl: "https://www.livemint.com/technology/tech-news/how-chatgpt-like-ai-is-real-threat-for-apple-and-google-11682425157767.html"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: Mint

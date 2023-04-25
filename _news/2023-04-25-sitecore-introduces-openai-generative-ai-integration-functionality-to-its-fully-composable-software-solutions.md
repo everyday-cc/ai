@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-25T12:22:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-sitecore-introduces-openai-generative-ai-integration-functionality-its-/2023/04/25/9800945.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-sitecore-introduces-openai-generative-ai-integration-functionality-its-/2023/04/25/9800945.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: TMCnet

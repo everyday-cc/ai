@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-growth-by-2031-2023-04-24"
 type: article
 quality: 101
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -123,6 +123,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
+  - title: "Computer Vision Software Market 2023-2031"
+    excerpt: "The latest market research report on the Global \"Computer Vision Software Market\" is segmented by Regions, Country,"
+    publishedDateTime: 2023-04-25T10:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-2023-2031-2023-04-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
 
 secured: "O443pNipM+v8ebAGQZ5NND9bbJkMUpgtc7gt8cpZmgRqmH9uhrJdNNwJo7FW0UyieO/xSIh682drbXprc8L3pJWUSgujCfibmHpihKwgpi/nuX2DQ8cqUkKKI04qKkZ2yvig4w9bbuQ33vY4rXDx71HixRTQ+dOr2iJPMLqiPNzcxsEThkxpA2akvBGxt6xcZFtG9oH4WG3zLpIx4DiU6O9C4sbCuFGMPpslmWWBPuxciHmYc5VbdPKYEj1ANyY67mOQK2JrabwsNUsoeuN1cdbLbIL1QqDT4kCfmpVuUSOvUzttKeu5CwsTcQbthe3N5ZaYiRA1W3GBZLBO8OxxFTHB6to+NTV2ShvKQV89sKE=;SsTKAw7B0kzv/J0b9noBiA=="
 ---

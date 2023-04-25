@@ -24,6 +24,17 @@ images:
     height: 1707
     isCached: true
 
+related:
+  - title: "OpenAI among vendors that tune Notion's artificial intelligence model"
+    excerpt: "The company introduced Notion AI for its writing and note-taking segment in February, and it plans to expand it for its knowledge base and project management use cases later, said CEO and co-founder I"
+    publishedDateTime: 2023-04-25T13:02:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/openai-among-vendors-that-tune-notions-artificial-intelligence-model-10474371.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 32
+
 secured: "2MguOUGMwxVRUZGzFVoF8NuSA9F7822GOzy02xxBE1MhjNQL10BRLlCSQ9OnfEznxpFCjQmnynKe7EzbQEEnLLXVxLlu2apJCLNqZNtpes3Libz/GVwmc4UspC3dK8+YCZO/OTK9o3xU4YxkSvSUrbW/9YPxLPU5GgNwgbvgM3Dyz1k9s7PT54YR6c3sVeGbusrPeEIivA6pX8FL8XVK0vjgebyikkEnP8TE8Je8WIHTvnaldxiLN6QvnBsgxu1ElIgtaJYfN1G88/zkw5zul1RDh+0Np/9p0kUsV25ONo7qtZM9Pf+dQShXcTtDuLTMtePFvdTiV2aul/BZvnjvPGg2mOw88dHtS13gPGgPGcOhexIBJ2yxM6HUKISyRQjYupPTPfrRzFbr0zdx97pS90kSMWi8Gmp5f81BkspRFAKsHILVjZjMSd9IYT+tLRHvPXIBlxb3eTyP7LcGR8K7F9Vhz5Aw9M5Fgaudi1HzD5sdScYiBJux8laFlO1PawySbnFsYZhbl2uVoMQEAhXB2A==;jbSuciEC+z+x9dQBSFmKlg=="
 ---
 

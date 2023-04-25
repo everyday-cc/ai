@@ -44,6 +44,15 @@ related:
       name: FXStreet
       domain: fxstreet.com
     quality: 19
+  - title: "3 Takeaways to Guide Your AI Strategy"
+    excerpt: "Encapsulating the recent Healthcare Information and Management Systems Society’s annual meeting can be like trying to devour an elephant. Where does one begin? But for health care executives, key takeaways could be found amid the many discussions about artificial intelligence (AI) in all its forms and how the technology will continue to impact the field."
+    publishedDateTime: 2023-04-25T12:23:00Z
+    webUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2023-04-25-3-takeaways-guide-your-ai-strategy"
+    type: article
+    provider:
+      name: aha.org
+      domain: aha.org
+    quality: 19
 
 secured: "+2A1F1VKQsADGb/gXfn06tzdaFsp6+xREL6tQhSHY91NokHViqkt7WqEBo/kIc8tPumUsXbqh1GVNoi2R9AnKMQ6OwJvCnzInyPooQbT8QXKdptrqyPe6DV2Jyef+lz8zbnfBBGVp5HZnAtGrPvfnCcLSLElnLRYNYQVwJSK5hTKhtOGDVT8XxTMe82yvebS6AQJc4xsAceyh79vOfXSe9+xK1KFTlcVQGS4krK6q6Mpl2Inxojwev3IiiL4ucREyxYoqmz4lEphAVUsHDYPNUZJZwOZQOmlJMIpUv48Pkuv3za4L7ylIaBDJuovs/wznJW0lHyN/7DakcoyN8A+Kz3bbrpn4jX6USM5qqcBVLjZ/X7c2QBA1Xx3A+FdSZKLj1W/hdkCkAYb8J7a9+/r2yPiwwZHK+WUEUAYZbjE7JkBRd36y6WVa7rkFGXc0WzwaQGUpT4QBXuWqgaSfG3OjBTld1uqgb7wEyhs4yB5R2Egv+Iy+liJ14T2yfUa0GOTtCvvGLUKZbeh2qADC6pYWA==;MNBKpo0wlPjSoojHvQGlRw=="
 ---

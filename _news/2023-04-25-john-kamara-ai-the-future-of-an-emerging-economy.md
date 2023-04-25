@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-25T12:57:00Z
 originalUrl: "https://www.the-star.co.ke/opinion/2023-04-25-john-kamara-ai-the-future-of-an-emerging-economy/"
 webUrl: "https://www.the-star.co.ke/opinion/2023-04-25-john-kamara-ai-the-future-of-an-emerging-economy/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Star

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/hiring-with-ai-pew/amp/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/hiring-with-ai-pew/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 606
     isCached: true
+
+related:
+  - title: "Robo-Recruiters? Americans Don't Want AI to Hire or Fire Them"
+    excerpt: "As Pew Research Center discovered in a recent survey, we're strongly against AI making a final hiring decision, and we're not keen on AI analyzing facial expressions. But quite a few people are okay with AI that monitors employee driving or attendance."
+    publishedDateTime: 2023-04-25T12:00:00Z
+    webUrl: "https://www.pcmag.com/news/robo-recruiters-americans-dont-want-ai-to-hire-or-fire-them"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
 
 secured: "CUp6LXLoj+ZyQrwIhB9TifK8GllD+VFBIsmUvZ9B9umqq4NikyBxfEDYH1J+kZQQQjs5cf/jC6i/INa6BByp0tq+BlXdnSpJzTl6ShWxvi4L4tJMKxQJt++3MvF8TmumXdpYrZ8IlKrBTPH52NeBmCZSNfhu+7f7iLaGdHRnCfPEHK6mLZOA68sk4MfL5rLJCFT+GWBkSh0xNB7sxaG6ziKWMHZgQu0JjGL3ox+DLAe1AEd+s7vKKv/tjmlkdob1JwojtSjsj1vFrdO/UMqhBZoNKpVFCqdiODhELJJxd/MHvsuTb0b+966r1zjZUXz0z73yb7dw4K/mkXQTT7zy7QaMxYUl0SMo3FsHr0fPimtJjI8mdd5O6dv7eRJhcwZsSezueVvVQpoxsPfHIiCKBu91s2pspv7cMmTMoyeRJTukNcmQvY1/jxEPbQA0G37GAZAfQHxNhypWJO9NT8uAlWmAY93KOBnTbzx8BGSiVgnEWxITu46MWiqKysuUWC1N6pGF/2m7JhbvexpLaP+nsQ==;pThtcpsXhxn0guOgKlj4UA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.livemint.com/mint-top-newsletter/techtalk21042023.html
 webUrl: "https://www.livemint.com/mint-top-newsletter/techtalk21042023.html"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "How prompt injection can hijack autonomous AI agents like Auto-GPT"
-    excerpt: "Attackers can link GPT-4 and other large language models to AI agents like Auto-GPT to conduct automated prompt injection attacks."
-    publishedDateTime: 2023-04-20T23:01:00Z
-    webUrl: "https://venturebeat.com/security/how-prompt-injection-can-hijack-autonomous-ai-agents-like-auto-gpt/"
-    ampWebUrl: "https://venturebeat.com/security/how-prompt-injection-can-hijack-autonomous-ai-agents-like-auto-gpt/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/how-prompt-injection-can-hijack-autonomous-ai-agents-like-auto-gpt/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/VB_security_ai_breach_broken_bing_dalle_1200x800_042023.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How artificial intelligence and automation can streamline procurement"
-    excerpt: "We speak to chief procurement officers about the role of AI in helping their organisations reduce costs and tackle the economic slowdown"
-    publishedDateTime: 2023-04-24T03:00:00Z
-    webUrl: "https://www.computerweekly.com/feature/How-AI-and-automation-can-streamline-procurement"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 37
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/onlineimages/ai_a352095729.jpg"
-        width: 1200
-        height: 400
-        isCached: true
 
 secured: "svlGPBC8pcZ80q8nBYPM17xmahKIRqW+XFbJEwl+Ws6IxwLGGMI6PbnR4CF+iDAnFzGqCck98uXD4vTETOeAl5fULDHgaU/lvv1YYh8yXTQJ0dub77c5OZUqhLzbznfiMMK66SEx1Xx93BunNFOHrQPzotxlwFlBsRim6TcWf6RX/n3Paq9hXgyxMdsVgDeelxh7e3PxmFzpHPZ6cTFSk70aEPfY1Wk0HfatImwtsaQeoG4dygi1uaJp5BLWEQ6AEERhv0Y3/z9Ue48mnlQlupK3FOTAv/IWumzoAt3KIIHKssjlSirjsWYE3QPhJs3IrHrhbewRSV/Zq4jBfvHA44OfN0unVeNPrCej82Z2V9r4rQr0D+zlxe6VACzDGa9LMo1PcNWWtlJQnxgH9WGDY5R+RO/hkY7Xd091TpO2FboLK6/2NcIpWjacJqoK9E/HgdQ3riF4GNgcEaT0y8xLuOrbhtVZLHl3+Xw2O3e8gVsl1Qev740UqGRCF9pHjzJtS+BIMNDd43nZFZ+3rl5y2A==;wXDYQjrdqkhDtFBCZ9Z0kg=="
 ---

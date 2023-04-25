@@ -122,6 +122,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
+  - title: "Computer Vision Software Market 2023-2031"
+    excerpt: "The latest market research report on the Global \"Computer Vision Software Market\" is segmented by Regions, Country,"
+    publishedDateTime: 2023-04-25T10:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-2023-2031-2023-04-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
 
 secured: "6NFmhQo4blKtj3TrefZSW4YVgHhZsiRCgF+SqMMyFV5g/P7zal/St4Z49ckC77HYa4l3YuwA/KOTTesn/ztpKUwhNuXlzj9fX6sHo8HmaoEGgwMZLq2RAdQbMgL2T/UTRV63fPJF3DYdWMAdyQOv9PmER8bjSJSSSY+qRZhz84gsLlvo4Ra4kBJHHCzLe9Dyzz0gxSGOoNBpdX2SB9iDwPorjQdcS7bID1GSaudnExfW6y/Qk2uVJSD7+gCm5aS7tHwasYb/A57gFAFyX3jDNr1s7tcpsp/4a/kv17nzWjs02Rvn/i5b5Hy24UpaKuB83UWwJxDWfJ3K6CrDLC6AAKwLPvJHna2DNPTKI7XyX3E=;SAaTMR+QtXTH+8E/w2bTTg=="
 ---

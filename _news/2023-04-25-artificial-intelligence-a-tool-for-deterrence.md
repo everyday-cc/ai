@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-25T11:49:00Z
 originalUrl: "https://taxguru.in/corporate-law/artificial-intelligence-tool-deterrence.html"
 webUrl: "https://taxguru.in/corporate-law/artificial-intelligence-tool-deterrence.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Tax Guru

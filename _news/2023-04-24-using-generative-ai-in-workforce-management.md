@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-gene
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -135,6 +135,20 @@ related:
       - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/uploads/2016/02/robot-businessmen.jpg"
         width: 770
         height: 400
+        isCached: true
+  - title: "Recommendations for handling AI in schools"
+    excerpt: "The Berlin Senate Department for Education has issued recommendations for teachers on the use of artificial intelligence (AI) in schools."
+    publishedDateTime: 2023-04-25T15:32:00Z
+    webUrl: "https://www.berlin.de/en/news/8171213-5559700-recommendations-ai-schools.en.html"
+    type: article
+    provider:
+      name: Berlin
+      domain: berlin.de
+    quality: 39
+    images:
+      - url: "https://www.berlin.de/binaries/asset/image_assets/8171261/ratio_4_3/1682428664/800x600/"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "26sX8WA015ErxpNYk+sMRqTKXOGmfqxFx1mhMr85YPb1nsBCHfO0CndTONdOSZCaH7QxvOhOQiOwsk3Y2A04uQbymDQl7rwDRyvkeTlJkFoQOnaWWAaVZQYUp6h96QOoAsAhooX2tVYsgYhwwV0fa6Nvh3MC2nzEJaEK0yxdvwzwi0Ot8pQvQVRt5O54QHxYNwa96fr7YBdx746cDgRJ7MM/Ak4u1NAlNAmGoLh8vald1YAT+b3I2vA/UHxW65kOhT+pUAKRB+ixD7gHYPpgBOOgovQoAPz6LTks7pz9/RkDB/7+hyzUwuOsXA8V0mufRmYuQnIHQF1oYopxSGR0nVQBDSoy74vxsfIwDJpwB48=;zUS4QUiawJrMDKalHEhOQA=="

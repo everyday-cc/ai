@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-complete-overview-till-2031-2023-04-21"
 type: article
 quality: 82
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Oven Market Top Manufacturers By 2030"
+    excerpt: "Oven market growth? Artificial Intelligence (AI) Oven Market Size is projected to Reach Multimillion USD by 2030, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2030. Browse Detailed TOC,"
+    publishedDateTime: 2023-04-25T05:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-oven-market-top-manufacturers-by-2030-2023-04-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
   - title: "Stanford: Fintech Maintains Position as Third Biggest AI Investment Focus Area"
     excerpt: "In 2022, global private investment in artificial intelligence (AI) companies reached US$91.9 billion, a 18-fold increase compared with 2013. Of that sum, fintech companies secured the third largest amount,"
     publishedDateTime: 2023-04-25T06:46:00Z

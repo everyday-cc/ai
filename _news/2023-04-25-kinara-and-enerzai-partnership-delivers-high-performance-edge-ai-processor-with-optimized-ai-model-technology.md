@@ -2,10 +2,13 @@
 category: news
 title: "Kinara and ENERZAi Partnership Delivers High Performance Edge AI Processor with Optimized AI Model Technology"
 excerpt: "Kinara's game-changing Ara-1 Edge AI proprietary AI processor delivers an unprecedented trifecta of performance, power efficiency, and affordability, making it an ideal solution for camera-based applications,"
-publishedDateTime: 2023-04-25T13:24:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-kinara-enerzai-partnership-delivers-high-performance-edge-ai-/2023/04/25/9801075.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-kinara-enerzai-partnership-delivers-high-performance-edge-ai-/2023/04/25/9801075.htm"
+publishedDateTime: 2023-04-25T14:21:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/04/25/9801075.htm"
+webUrl: "https://it.tmcnet.com/news/2023/04/25/9801075.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: TMCnet
@@ -15,6 +18,6 @@ topics:
   - AI Hardware
   - AI
 
-secured: "0iw0ilrYgKCnV3MJg8E7VuLPUKq9cN8KrKXWtcqqE+/ktdvrSpp1nhVasmKRRbFwSrdul02ip+LcQWGXgsfLhgHzORBu3/2jqHrT5BmEJu14jiyD21dw2RQqdiY/qrhMFJy5ynv7FKbw7QQHdknpnUPm6DAkW4YA09DNbYtdfdPdxWVvz+ixCCvLwrAsNhFCnAT/f1ronWxSTmqV8zbmffDq8QECodcq6owR9K8XYK/zDWiKuA3dCg9FljvchcxWK53I9KV4wbKtm1JseoEQTcbdZZXRNVcIk8UOkHVvDbPMUNQNfP5KfNua/sOmNkjRYDpeDySv9wKaxiGPrjOtzq6pRzIgZ7QpafxID7PdWiu/zFDp5F4SzqA3zn1K8UMXGZdOxDTl+t+UYDeBO4b/JSTV0Qq6OQS0Sr/VuECLYbY9aR1D301GoG9jK7y4DYKQZSnEzzUZv2tFpYiy5dNepCX6S3hjDEfGXBepBFCKYQ85MRyy6ApkhfG3Aw53/NsDb40U3ici0dgas6Ga2lF79A==;6bUhvHJJrP7DTCRxEblS8Q=="
+secured: "vCVyeA8wmzfBLOUr7Zy/2/b+frhym0vOgeZz5njf+hxC85Mj4h9tFoibIwCbbmDu+zjTxY48+IajOztWBFOqfZOn414IdvxCCTpMJkIQsDS2YlQtR9eyU3fFbsHjb4h7K1dO9559KuEDJLPDy4EWLG6IjvJ3H4/dBNguLQLXaJDUY/xTjiW/AywCgFqw8COIZCpEXrhh+gLocL8Jt221Uwj3C7xPZOfGqJN/wGWOGUriVsK+46aUEz8/HZ9qBN+m4CaE1uChM3dqLYPcJQYcHv+iesuTU1EyC4d0cHGMJ2+xzEB8fuvthusMOPvS/chPDgVfnkp+hVU4/YTat9OTKrmy0FOcm3ckDmEhw/CvdSeWSmTN+f0iFpK8wdjB5ClU5Kpact0CHRGUF9J/HlHRHJPKNKI7437MP6gzCtHTieEmjBv8eP4tUj19SF47XfapiOKcYUL022hAY7pLQ8tHmDrBu5S9SFbUT0tIEB5/3hDDbGf6uTpW1Xo2Nfj44Dfc+vSU0RoBnz5g4+iqItcsLg==;GRRjkdbs6BtSpdJmUaYuNQ=="
 ---
 

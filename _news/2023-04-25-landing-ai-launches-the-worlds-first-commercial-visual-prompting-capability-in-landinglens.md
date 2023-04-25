@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-25T12:37:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-launches-the-world-s-first-commercial-visual-prompting-capability-in-landinglens-1032258218"
 webUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-launches-the-world-s-first-commercial-visual-prompting-capability-in-landinglens-1032258218"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Business Insider

@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Musk counts on full self-driving as next Tesla profit driver"
-    excerpt: "Elon Musk is counting on full-self driving and other new technologies and vehicles at Tesla Inc to provide the \"wow factor\" that will continue to drive the electric carmaker's value far beyond its automotive rivals."
-    publishedDateTime: 2023-04-20T20:48:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/elon-musk-pins-hopes-full-self-driving-teslas-next-profit-driver-2023-04-20/"
+  - title: "Chinese Tesla Rival BYD Says Self-Driving Cars \"Basically Impossible\""
+    excerpt: "Tesla may be wasting its time and energy developing its Full Self-Driving technology, according to its top rival in China."
+    publishedDateTime: 2023-04-24T20:01:00Z
+    webUrl: "https://www.motortrend.com/news/chinese-ev-byd-self-driving-cars-impossible/"
+    ampWebUrl: "https://www.motortrend.com/news/chinese-ev-byd-self-driving-cars-impossible/amp/"
+    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/chinese-ev-byd-self-driving-cars-impossible/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 59
     images:
-      - url: "https://www.reuters.com/resizer/YcLD5fOES_sah71H1pVHfpyp58k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWQOUJAWSZJC7ISK6ZUWNWL2VI.jpg"
-        width: 1200
-        height: 628
+      - url: "https://www.motortrend.com/uploads/2023/04/BYD-Han-EV.png"
+        width: 1600
+        height: 899
         isCached: true
 
 secured: "6XOvpNpCFUJ66OZl1rtKgXO8YyCc8Nh+0QtREBgJ0RooUVXT8vDS2CcTD9DtxzAWi0Qm/wtIRQI4Rfi3VKZA+LanB1Mt3aAjU00iZ4bXO//sUBnjoDHQrFFUsqQQ1HhOU6XZCMnDMg0BpUwOwLKiTkAU0d6VZw5b/t7fF70rYxAL4cWMZf2exHBasND4CuOnoO8kiT1fTjG8SCuu0gPQ+RJASNyAbhejYqpBBJmeGeDnDlJ4uc9AfUp6Zgz1eJViUhvg1qvnUzqPsc1WwiD4a35LwjLI0vSTsqlZSFc4yZQUt5bQNJz0r88khRLFqzsgwrY+yk6HmO2f2aI0R7s3NO7qVusOOVl9dnawuFPEitzNBKOqu98XnS0tW1X2XRKurlg8gXVpHqZcM1FNvuTJXcYoRMBO80L3m5QYMypI8J+henEbDwcpaggbTdJQXx2MIdcPfOCo4XlD8y8gzWckNOjYZaSGEur+qE9EpNCA2tQcuU1MeULKYPcMS3xVKmsut/c+G2TgHOZbbroRspYQTA==;99+TYrL0LlwuaJYIzMX3Ug=="

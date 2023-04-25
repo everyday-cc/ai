@@ -7,7 +7,7 @@ originalUrl: "https://www.pharmaceutical-technology.com/sponsored/how-ai-automat
 webUrl: "https://www.pharmaceutical-technology.com/sponsored/how-ai-automation-and-machine-learning-are-upgrading-clinical-trials/"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "How artificial intelligence and automation can streamline procurement"
+    excerpt: "We speak to chief procurement officers about the role of AI in helping their organisations reduce costs and tackle the economic slowdown"
+    publishedDateTime: 2023-04-24T03:00:00Z
+    webUrl: "https://www.computerweekly.com/feature/How-AI-and-automation-can-streamline-procurement"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 37
+    images:
+      - url: "https://cdn.ttgtmedia.com/rms/onlineimages/ai_a352095729.jpg"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "AI Adoption in Healthcare is Growing. Healthcare Pros Need To Differentiate Between AI, Automation, and Unfounded Hype."
     excerpt: "AI adoption in healthcare continues to grow, and with it comes an important distinction between AI and automation. Healthcare professionals should make sure to understand those specifics to make intentional technology adoption decisions."
     publishedDateTime: 2023-04-21T14:02:00Z

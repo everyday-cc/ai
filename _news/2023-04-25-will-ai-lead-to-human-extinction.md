@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-25T12:42:00Z
 originalUrl: "https://www.thenation.com/article/society/ai-chatgpt-tech-disruption-humanity/"
 webUrl: "https://www.thenation.com/article/society/ai-chatgpt-tech-disruption-humanity/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Nation

@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-25T11:00:00Z
 originalUrl: "https://www.wired.com/story/andy-warhol-fair-use-prince-generative-ai/"
 webUrl: "https://www.wired.com/story/andy-warhol-fair-use-prince-generative-ai/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Wired

@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/04/21/future-analytics-changing-para
 webUrl: "https://siliconangle.com/2023/04/21/future-analytics-changing-paradigm-analytics-predictive-prescriptive-insights-qlikworld/"
 type: article
 quality: 7
-heat: 7
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,26 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "3 Ways Payers Can Employ Machine Learning, Advanced Analytics"
+    excerpt: "MVP Health Care (MVP) has been piloting machine learning and advanced analytics solutions and, in the process, explored three key uses for these types of tools. Machine learning falls under the umbrella of artificial intelligence tools."
+    publishedDateTime: 2023-04-25T13:30:00Z
+    webUrl: "https://healthpayerintelligence.com/features/3-ways-payers-can-employ-machine-learning-advanced-analytics"
+    type: article
+    provider:
+      name: healthpayerintelligence.com
+      domain: healthpayerintelligence.com
+    quality: 19
+  - title: "Grid Dynamics AWS Analytics Platform Starter Kit Leveraged by Client, Mistplay, to Improve Business Operations"
+    excerpt: "Grid Dynamics Holdings, Inc. (NASDAQ:GDYN) (Grid Dynamics), a leader in enterprise-level digital transformation services and solutions, announced today that its client, Mistplay, the leading loyalty"
+    publishedDateTime: 2023-04-25T12:45:00Z
+    webUrl: "https://www.asiaone.com/business/grid-dynamics-aws-analytics-platform-starter-kit-leveraged-client-mistplay-improve"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 0
 
 secured: "2/r/ZNz8FpvlqF7g4xpJNIeyUMGNEffHSsoBD0AeDHL1c0mLgD77FIEGWHhrGGgAUxhwsP3z9hREBWFwcgZQbJFE4eME0hL0v2ottunt7Dgkpz79wrlTjUyNCGJybAaRfHONHjqYlrFRTW15kbeHyWQEhDGQiNv19C9mhWffXFUK25i+KNF9qNAm7qNnGelyMtTbAvk0Ih7Jhu/k6E/6RlRVKBto3Kr0wQlsiIp/Y+Itfdn3Tgsh6MldNUh9Tv+igP+d6DwnBKDY8ljClxBZzhXkx2feZWgCgAVmvzYPr5jAirlsmRXXen22Dwxf9md5sqjx54q4sV6TPmMtmcT34jV6BRTpb99DHypjo+ILo/UtGNb28SV5uL/L7XbjKck+tHJr/Ycsbb4g+afEEdwWuVIeM9aSmRjnqLe7KpY3i7rekLsRD8J7C2naGGhVTtxbRYcxlWFk6bvXTPoyCkk8hl/PrHs46PoGkVHPulpO4ETdC601FPo1j5xC2rhG7OsThTQR8uWlSur4HOMU5zyD3w==;DAzLaCERDu98Ub5Pnd19cA=="
 ---

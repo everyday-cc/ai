@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-25T12:00:00Z
 originalUrl: "https://siliconangle.com/2023/04/25/securityscorecard-becomes-first-security-ratings-platform-integrate-gpt-4/"
 webUrl: "https://siliconangle.com/2023/04/25/securityscorecard-becomes-first-security-ratings-platform-integrate-gpt-4/"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: SiliconANGLE

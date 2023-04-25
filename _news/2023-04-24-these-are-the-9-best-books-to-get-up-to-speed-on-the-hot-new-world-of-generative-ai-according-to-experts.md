@@ -137,6 +137,20 @@ related:
         width: 770
         height: 400
         isCached: true
+  - title: "Recommendations for handling AI in schools"
+    excerpt: "The Berlin Senate Department for Education has issued recommendations for teachers on the use of artificial intelligence (AI) in schools."
+    publishedDateTime: 2023-04-25T15:32:00Z
+    webUrl: "https://www.berlin.de/en/news/8171213-5559700-recommendations-ai-schools.en.html"
+    type: article
+    provider:
+      name: Berlin
+      domain: berlin.de
+    quality: 39
+    images:
+      - url: "https://www.berlin.de/binaries/asset/image_assets/8171261/ratio_4_3/1682428664/800x600/"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "bz6RKmz6L6FuSdC08Ts/BLjWud/hypzhqtab91DwMr4Q5+OnKokSbEWklY2J3+foDccfv7YGUjn7lmTutqKKg1w0ww6ihwvKPs5ggXXm0trmLvV75KV470+aG3CTNbCgFLE2zaI5iN2vHz/aQglAjYcyIPFm5T1I2hqBDEiBdWiPnnwVIRueXSgGxJAel4eG2YVBUlcB/vdSHLvJOV95W9RSz+RMLOuVmoHprR56uMHEC20QkfjaM9amnQtFWWWdHbf8qhyGavGa1DXK7mezS8Xps55xxAQI5p3CnmPdwhmIAtXfPEYvz12WlzHUFJrTFmIN1vUFl/kbCzqDkypZwfY5vMnfEdIRhONyHakbOS0=;yzO8Gq6ylZQ23Wr6NS3ppQ=="
 ---

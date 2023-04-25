@@ -122,6 +122,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision Software Market 2023-2031"
+    excerpt: "The latest market research report on the Global \"Computer Vision Software Market\" is segmented by Regions, Country,"
+    publishedDateTime: 2023-04-25T10:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-2023-2031-2023-04-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
 
 secured: "1qtiBGxrEXtkiKl7C+XOhg2PF+CN5kMVMyeTHSqel6dMbMNC+nRUmTZWCZTUBPyV9/vqa+ga9sOf0iHKtFHa23kRerU3ftiz/oBii9YCSbfY1hmx0PMuNm7vBP2NupyoOJl0ygmgoYwR2n1Ig+xf1Myksl0hfUKMNWWw/o1Cttwq+sGn3kGPrk8v6nmWf7BTYTi0xQgJYHS/ZRJO41/cJExMgA0bPyqKnnSY9PZ23vSY69rkwFSkTobM9do73a99WE8/D+bIJM0n82voLORIn39pWJPguiP+fnOW8wUc7yrJjSgws2h0ighl4zxLj87kGA05pyryfgVFkBe2hD2cGRq+xOnby4Ps3as3QsiIBuY=;ZfK+mSFX1MMfYtfC4WlH7g=="
 ---

@@ -1,20 +1,26 @@
 ---
 category: news
-title: "Drones navigate unseen environments with liquid neural networks"
-excerpt: "In the vast, expansive skies where birds once ruled supreme, a new crop of aviators is taking flight. These pioneers of the air are not living creatures, but rather a product of deliberate innovation: drones."
-publishedDateTime: 2023-04-19T20:46:00Z
-originalUrl: "https://techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.html"
-webUrl: "https://techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.html"
+title: "Drones Navigate Unseen Environments With Liquid Neural Networks"
+excerpt: "MIT researchers exhibit a new advancement in autonomous drone navigation, using brain-inspired liquid neural networks that excel in out-of-distribution scenarios."
+publishedDateTime: 2023-04-20T09:37:00Z
+originalUrl: "https://www.technologynetworks.com/informatics/news/drones-navigate-unseen-environments-with-liquid-neural-networks-372383"
+webUrl: "https://www.technologynetworks.com/informatics/news/drones-navigate-unseen-environments-with-liquid-neural-networks-372383"
 type: article
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: technologynetworks
+  domain: technologynetworks.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "w+djB+r70ZlG86C33YxxDlDpHwt1nceAtCOWgCPs8dGO/q6OTm1bHS+BrcJH9i5HtBiItRqoiQwQeglvW96WEymDgINMWp7P9diUFO+kcbIgQm9gNr4DyPv2QzmnuhfJJ20uuc7mm5UbiVy/iGPv8BwcX10dBqgzZOxEADG11q/yrpn2L28+MZln09D0aKrERYhU9CjZfF14JO+A2kdTvJMNKxLa+87lNAFO7UW8Sd0UHp+iTuP+Kx/iQS/+0C3WMaIX7fuX9CnS6VAy3HXJkF1WtQuGsgtqbyKRg0HiVOdLFTMwRrvkRauZnhov4M9BOOm7oZtGhRP6IzXvVfRtKZPRwK6gzlW+k4K2mM8RNeXdQTNuiJkLA3TydI4zvyh2uQjyx8rRRn3cm3W9MRa9GHN9MYUqZ1Y8nhlZHiCW9T7i7s4QWA8Go9eH06hXNzQPJBSAuz/osAoLlyYhINyR3ddPQ2KqQzUlqfXD3WxZTto0nFMDv9garLL1cUp+2Ctvk+iM974hnySBkhUhgj43lA==;sGwqGZ6egMo+3LKp6x9bWQ=="
+images:
+  - url: "https://assets.technologynetworks.com/production/dynamic/images/content/372383/drones-navigate-unseen-environments-with-liquid-neural-networks-372383-640x360.jpg?cb=20230420"
+    width: 640
+    height: 360
+    isCached: true
+
+secured: "8pgv3UbCImRG75GmaD8rCeGKb/f745QGl2hOlKq4p8sC2/U9szFOwBZ4029fatEA6He2Yp1bUSvHKvCbcmBItbl28vAoYnKW8uWUJ0YdOA1gSxb9LsWEJiQb887ohBbxOGjH1CvxXnMnqX3sQkowFgvdx0+KKXmkHDb+LGR5mRBDkHbhxtdlpe0TgSVTiDmYhw7UjDy+WhLCQd4/0lXm3wNykZP4HUYp5kNc4SP5cG7csMz5GhHCUDZHwH67ib+AHBP+QoNqPigYel6k2cMcltis7J2t7r3yM6MUYQMg4x1zFZ1dTkOwKK6uJDYDOEIz3Uaz+5DBW+wlB5UVrv4nlZvV79JxV6g6LFWGilZUUYk=;30/6PCP9p6fuoE4pC6ZcQQ=="
 ---
 

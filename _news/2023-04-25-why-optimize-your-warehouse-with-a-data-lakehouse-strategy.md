@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-25T13:00:00Z
 originalUrl: "https://www.ibm.com/blog/why-optimize-your-warehouse-with-a-data-lakehouse-strategy/"
 webUrl: "https://www.ibm.com/blog/why-optimize-your-warehouse-with-a-data-lakehouse-strategy/"
 type: article
+quality: 82
+heat: 82
+published: true
 
 provider:
   name: IBM

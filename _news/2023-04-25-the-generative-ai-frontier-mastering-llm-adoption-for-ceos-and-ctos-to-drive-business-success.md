@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/25/the-genera
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/25/the-generative-ai-frontier-mastering-llm-adoption-for-ceos-and-ctos-to-drive-business-success/amp/"
 type: article
 quality: 75
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Announcing LityxIQ 6.0 - Powering Predictive Business Decisions Through Next-Gen Machine Learning"
+    excerpt: "Lityx makes its leading alternative AI and MLOps platform easier to deliver value for organizations focused on digital transformation WILMINGTON, Del.,  /PRNewswire/ -- Lityx, LLC today announced the release of LityxIQ 6."
+    publishedDateTime: 2023-04-25T15:51:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/04/25/9801468.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "/1V6A4RJpYUAJpBB+xBXy58E/noYzYeYHAI5T9nxsMpLGfjWBLTx3KU68rem4yvWZJ/wsCcN4Kxu2ndZCDg/20RigZkZYnx2pzuSeNFEuDICVCejGD7o31jYrrD8HIl9Sj72VKoJmLlkK2i71xS7YcuDb+UBb93htpCZrmhTzJPghRXBt1JCwTklNmlhDdAsa8vSYH7r7E2zxWp7Pxs9iD4l7oNxUi/Zyhk6b/TXRHwfGH8NHR5dR/91kfu22sgLJI+6zzqdOvbp54nuBWzFbGRDi29GVj7IEIU3aYA8uMUUOrtBsb/BmHXeNaY8J0E103GQFJs46/v2MSQaQiCqIMw5vHKlk+bp8K25HO6z7+lsU41Az2nSk6RNziLKTWbhFdZykyJfqvB5Nm0OuYHQjC1SfkdrZTLLVh5NCfPHYckgHp9vnv+acd7jq3/m0cOj7SitF/v9M9FG4RKaY5eatmFHyI6bMehp7HlVQ3Q8D1xUmQF+jQ35inoxkcoClq5HWjlRWVEtAkdBWSvL8kGGow==;uLjai2o1x7Bva8Hz1tGQHA=="
 ---

@@ -940,6 +940,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-15-dubai-sheikh-mohammed-issues-new-law-on-driverless-vehicles-up-to-dh50000-fine-announced-for-violators.md",
+      "title": "Dubai: Sheikh Mohammed Issues New Law On Driverless Vehicles Up To Dh50,000 Fine Announced For Violators",
+      "excerpt": "A new law in Dubai is set to regulate the operations of driverless vehicles in the ... environment that facilitates the use of artificial intelligence (AI) in transportation.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106015524/Dubai-Sheikh-Mohammed-Issues-New-Law-On-Driverless-Vehicles-Up-To-Dh50000-Fine-Announced-For-Violators",
+      "originalUrl": "https://menafn.com/1106015524/Dubai-Sheikh-Mohammed-Issues-New-Law-On-Driverless-Vehicles-Up-To-Dh50000-Fine-Announced-For-Violators",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-04/14/KT_b2688image_story.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-15-elon-musk-plans-artificial-intelligence-start-up-to-rival-openai.md",
       "title": "Elon Musk plans artificial intelligence start-up to rival OpenAI",
       "excerpt": "Elon Musk is developing plans to launch a new artificial intelligence start-up to compete with ChatGPT-maker OpenAI, as the billionaire seeks to join Silicon Valley’s race to build generative AI systems.",
@@ -1345,49 +1388,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-ahlenius-where-will-ai-impact-our-jobs-most.md",
-      "title": "AHLENIUS: Where will AI impact our jobs most?",
-      "excerpt": "The first phases of AI have yet to move the needle in labor market performance, such as labor productivity or manufacturing productivity growth. In addition, it is hard to aggregate productivity numbers and productivity gains with internet applications like GPS navigation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.beaumontenterprise.com/business/article/ai-impact-jobs-most-17884647.php",
-      "originalUrl": "https://www.beaumontenterprise.com/business/article/ai-impact-jobs-most-17884647.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/30/33/36/23181207/5/rawImage.jpg",
-          "width": 1573,
-          "height": 2048,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-10T20:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Beaumont Enterprise",
-        "domain": "beaumontenterprise.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

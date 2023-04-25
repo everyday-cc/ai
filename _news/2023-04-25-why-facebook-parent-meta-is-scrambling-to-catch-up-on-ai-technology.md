@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-25T12:29:00Z
 originalUrl: "https://www.gadgets360.com/internet/news/meta-ai-research-hardware-software-artificial-intelligence-progress-innovation-rivals-3978326"
 webUrl: "https://www.gadgets360.com/internet/news/meta-ai-research-hardware-software-artificial-intelligence-progress-innovation-rivals-3978326"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: gadgets360

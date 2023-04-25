@@ -24,6 +24,17 @@ images:
     height: 267
     isCached: true
 
+related:
+  - title: "A Cambridge Analytica-style scandal for AI is coming"
+    excerpt: "The breathless pace of development means data protection regulators need to be prepared for another scandal like Cambridge Analytica, says Wojciech Wiewiórowski, the EU’s data watchdog."
+    publishedDateTime: 2023-04-25T13:45:00Z
+    webUrl: "https://www.technologyreview.com/2023/04/25/1072177/a-cambridge-analytica-style-scandal-for-ai-is-coming/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 19
+
 secured: "fCZASp/UfNigirF2al3NcrFvGpwHKbm2+TKFcMNJlyOZXlYNJ7l6jeR1KvOIvtgGRHGYAMND41TrzBOK3OpZJanXlRS4av7vfMmafe9vlFM+w/iFCeNdjc2/tJS58vdba+vsIRMxC0dP2hLQfunMrW6rot0r9xbR+g0AyC/S1MuuDU9RX9haYAdmOd4790H1tXN6sr44rPff3/S9b+fHOmyT56UdFWZWvEWynr4jrwpwMCC2JYG0ZOEbxpTlBl+dPwLOmjnPhDXjqiGiRg7laB7VkXLIg2wCAgRh32uB8Qu+7M8DrKv1sCo+fQBDBHFV1LYXAedLkcWRcWnk+O6s/4BuCzACcrfbVHBWaZO5ZTU=;xMQrRn/jIprTixDGX8AA8A=="
 ---
 

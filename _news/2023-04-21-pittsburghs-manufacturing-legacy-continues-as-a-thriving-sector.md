@@ -6,8 +6,8 @@ publishedDateTime: 2023-04-21T04:01:00Z
 originalUrl: "https://www.bizjournals.com/pittsburgh/news/2023/04/21/pittsburgh-manufacturing-companies-innovation-jobs.html"
 webUrl: "https://www.bizjournals.com/pittsburgh/news/2023/04/21/pittsburgh-manufacturing-companies-innovation-jobs.html"
 type: article
-quality: 4
-heat: 4
+quality: 6
+heat: 6
 published: false
 
 provider:

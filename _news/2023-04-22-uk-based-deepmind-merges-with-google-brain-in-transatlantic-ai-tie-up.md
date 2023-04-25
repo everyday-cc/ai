@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google consolidates AI research divisions into Google DeepMind"
-    excerpt: "Google is consolidating several of its AI research divisions into one, Google DeepMind, as it seeks new AI breakthroughs."
-    publishedDateTime: 2023-04-20T23:04:00Z
-    webUrl: "https://techcrunch.com/2023/04/20/google-consolidates-ai-research-divisions-into-google-deepmind/"
-    ampWebUrl: "https://techcrunch.com/2023/04/20/google-consolidates-ai-research-divisions-into-google-deepmind/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/20/google-consolidates-ai-research-divisions-into-google-deepmind/amp/"
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1243527327.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Google’s AI panic forces merger of rival divisions, DeepMind and Brain"
     excerpt: "Google's 'Code Red' panic over the rise of ChatGPT and its failure to excite the world with its AI products is resulting in a big merger. Alphabet's two big AI teams, the independent Alphabet company DeepMind and the \"Google Brain\" AI division,"
     publishedDateTime: 2023-04-21T18:49:00Z
@@ -93,22 +77,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Read the internal memo Alphabet sent in merging A.I.-focused groups DeepMind and Google Brain"
-    excerpt: "Alphabet is merging an internal Google Research team called Brain with DeepMind, a move designed to bring two groups focused on artificial intelligence closer together as the batt"
-    publishedDateTime: 2023-04-20T20:02:00Z
-    webUrl: "https://www.cnbc.com/2023/04/20/alphabet-merges-ai-focused-groups-deepmind-and-google-research.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/04/20/alphabet-merges-ai-focused-groups-deepmind-and-google-research.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/20/alphabet-merges-ai-focused-groups-deepmind-and-google-research.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 93
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107165046-1670885047420-gettyimages-1197130647-GOOGLE_AI.jpeg?v=1682014278"
-        width: 4000
-        height: 2668
-        isCached: true
   - title: "Google Forms New DeepMind Team to Develop 'World-Changing' AI Faster"
     excerpt: "Google is merging the Brain team from Google Research with the DeepMind team to form one AI-focused group called Google DeepMind. In a blog post (Opens in a new window), Google CE"
     publishedDateTime: 2023-04-21T10:43:00Z
@@ -122,20 +90,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/05C1PuwHonzRo3UhK26DH82-1.fit_lim.size_1200x630.v1682073025.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Google Looks to Turbocharge AI Efforts With Combined Brain, DeepMind Unit"
-    excerpt: "The search giant is merging AI resources to accelerate progress in technology that is reshaping business."
-    publishedDateTime: 2023-04-20T20:15:00Z
-    webUrl: "https://www.wsj.com/articles/alphabets-google-combines-ai-research-units-brain-and-deepmind-620f4f7d"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 83
-    images:
-      - url: "https://images.wsj.net/im-767281/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Google DeepMind restructuring aims to deliver next-gen AI breakthroughs"
     excerpt: "The newly-formed business unit aims to accelerate the company’s progress in developing AI in a safe and responsible manner."
@@ -219,20 +173,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/61449/content/hero-google-deepmind.jpg"
         width: 708
         height: 398
-        isCached: true
-  - title: "Google Announces Internal Shakeup To Create Google DeepMind"
-    excerpt: "Google combines Google Brain and DeepMind to form Google DeepMind, a new unit tasked with faster and more powerful AI innovation"
-    publishedDateTime: 2023-04-20T20:41:00Z
-    webUrl: "https://www.searchenginejournal.com/google-deepmind/485141/"
-    type: article
-    provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 39
-    images:
-      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/04/google-deepmind-6441a2ad8df3f-sej.jpg"
-        width: 1600
-        height: 840
         isCached: true
   - title: "Google’s new DeepMind division wants to take ChatGPT head-on"
     excerpt: "Ever since ChatGPT and after it Bing Chat took the internet by storm, Google has been scrambling to come up with a competent answer. The company quickly held a thrown-together AI event in Paris, even though it announced its big ChatGPT competitor,"

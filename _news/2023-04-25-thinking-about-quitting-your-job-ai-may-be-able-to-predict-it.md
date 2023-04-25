@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-25T13:10:00Z
 originalUrl: "https://venturebeat.com/programming-development/thinking-about-quitting-your-job-ai-may-be-able-to-predict-it/"
 webUrl: "https://venturebeat.com/programming-development/thinking-about-quitting-your-job-ai-may-be-able-to-predict-it/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

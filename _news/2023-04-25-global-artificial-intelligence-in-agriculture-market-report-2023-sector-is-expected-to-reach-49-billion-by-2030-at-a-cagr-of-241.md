@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Deep Learning Market to reach USD 137.58 Bn by 2029, at a CAGR of 41.5 percent (2022-2029)"
-    excerpt: "The global Deep Learning Market size was valued at USD 8.56 Bn in 2021 and is expected to reach nearly USD 137.58 Bn"
-    publishedDateTime: 2023-04-24T04:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-to-reach-usd-13758-bn-by-2029-at-a-cagr-of-415-percent-2022-2029-2023-04-24"
+  - title: "Artificial Intelligence Of Things (AIoT) Solutions Market 2023 Expected to Reach Significant Rate by 2030"
+    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry-Request a sample copy of the report:  The Artificial Intelligence Of Things (AIoT) Solutions market has witnessed a growth from USD million to USD million from 2017 to 2022."
+    publishedDateTime: 2023-04-25T11:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-2023-expected-to-reach-significant-rate-by-2030-2023-04-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
