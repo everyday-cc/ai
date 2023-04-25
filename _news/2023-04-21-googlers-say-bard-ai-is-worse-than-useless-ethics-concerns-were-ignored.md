@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-wors
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/amp/"
 type: article
 quality: 102
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google’s Bard can now generate, debug code as reports surface of AI ethics concerns"
+    excerpt: "While Bard will try and help you debug your code, Google says it 'may sometimes provide inaccurate, misleading, or false information while presenting it confidently,' making double-checking paramount"
+    publishedDateTime: 2023-04-25T03:31:00Z
+    webUrl: "https://www.rappler.com/technology/google-bard-debug-code-artificial-intelligence-ethics-concerns/"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 48
+    images:
+      - url: "https://www.rappler.com/tachyon/2022/10/google-logo-antitrust-reuters-scaled.jpg"
+        width: 2560
+        height: 1708
+        isCached: true
   - title: "Report: Googlers say Bard AI is ‘useless,’ ethics teams told ‘not to get in the way’"
     excerpt: "A new report surfaces comments from Googlers that call Google Bard AI \"worse than useless\" and also some worrying ethics matters."
     publishedDateTime: 2023-04-21T15:27:00Z

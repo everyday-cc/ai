@@ -41,6 +41,20 @@ related:
         width: 760
         height: 388
         isCached: true
+  - title: "Google’s Bard can now generate, debug code as reports surface of AI ethics concerns"
+    excerpt: "While Bard will try and help you debug your code, Google says it 'may sometimes provide inaccurate, misleading, or false information while presenting it confidently,' making double-checking paramount"
+    publishedDateTime: 2023-04-25T03:31:00Z
+    webUrl: "https://www.rappler.com/technology/google-bard-debug-code-artificial-intelligence-ethics-concerns/"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 48
+    images:
+      - url: "https://www.rappler.com/tachyon/2022/10/google-logo-antitrust-reuters-scaled.jpg"
+        width: 2560
+        height: 1708
+        isCached: true
 
 secured: "jEtbNXNXm2r5szPHYcEpPImjM+AZUEB3vV5BsxYUg/dsaH+LoSi4wtjQvPRjZZkc+ig+7QY8Omi/LP3EXhaZSA0Qu09IllJQcrgVLYwUzw1V05aqPic/YrvyMOD95nwOt2uGxvA/CpURoysTiyaslfQvaMnAc5ilSbEqD6BmAEkd93v5hE2Gyk0jfqw49268LclbYAGfxufADf0G3PMxlm9GW5CQBufPgTW5iOAtRgVSv5FZBesAA3MVbT29ks5Ch5XDqFa43tmqZV4rzzUTWbZvVRwc1cxIkDys9SMJroi9pCWn4czsIiP/Z/NSWcgBNbWgPdPdkOnlbkbFJmcdQmLI3wYgHtKSGuW88vdD4BJ6xJ2YVJ/1BrDR9JUC/oI/kqW8ZSndeWcnlNe1v2wWbM/HlyY9Rmq8R1+uB+ZmEesNudzeqRdRylyWeSJ8k4bvnZFZqw+o99cttUxcd77/Uw6try2o6lMdpvNB/DWLu5VvQppGvn5bND2UXIhwasiE1974Fvubcbju7U058TjM7A==;QeUggAMIbrMQguhGmYInXA=="
 ---

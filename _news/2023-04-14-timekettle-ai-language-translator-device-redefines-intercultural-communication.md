@@ -2,25 +2,25 @@
 category: news
 title: "Timekettle AI Language Translator Device Redefines Intercultural Communication"
 excerpt: "Language communication has always been an indispensable link in the journey of cross-cultural communication. As a leading translation tech company, Timekettle has a mission to \"break down language ..."
-publishedDateTime: 2023-04-14T08:47:00Z
-originalUrl: "https://menafn.com/1106011008/Timekettle-AI-Language-Translator-Device-Redefines-Intercultural-Communication"
-webUrl: "https://menafn.com/1106011008/Timekettle-AI-Language-Translator-Device-Redefines-Intercultural-Communication"
+publishedDateTime: 2023-04-14T08:43:00Z
+originalUrl: "https://www.news-journal.com/timekettle-ai-language-translator-device-redefines-intercultural-communication/article_b3819467-20de-5b86-8876-223cc8bd1b7b.html"
+webUrl: "https://www.news-journal.com/timekettle-ai-language-translator-device-redefines-intercultural-communication/article_b3819467-20de-5b86-8876-223cc8bd1b7b.html"
 type: article
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Longview News-Journal
+  domain: news-journal.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?569914"
-    width: 445
-    height: 250
+  - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/d/bd/dbdd0081-782c-5ff1-86fa-a8544ad1c59d/64390b906b893.image.jpg?crop=1268%2C666%2C0%2C24&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "+nLznL0lR+OTWg5LOR+t16gkfa7rUcChz4v5O4jZfgssYIhwaBhqVttrALEtcIlTcr+vmUIYo7WDDXGBDfZK4ZduTIe2UhP+mbSjg7tl4Vz2KS1mqCqp+UqIdUvdx0oPzoK+M3FccjtwJnZp7DdUUPv103/yKJefxKV5bN+YLCEtIlHbA4deljoNXmckovp3bzK4fuwO7Oc0rpWhwsTDbLbZxK6PU86/G42DX4MlGemV/xRasrFWyJwVdFufZTlmeP67AvuATKAY/VNY+0uLnXRPGZ5XK6KIaNIkaE3kH5siE9N4SzOK0ancdeZki9GywC8CwYqU1KlP+9isVNwROOP710emtieUorN2AJT+1yo=;/OEvV3BeHVRNYHeLdOZLXA=="
+secured: "jaPHJwj0NE4a/Jq3XCCEnDZ+MOCDxLeRRMwUMI4zGTVZg3fVpPpY1ocyPKKTOeaWUgTl69IFSRbV0BckLyiNV1ALKSSOFUbWXDluOGtBQwi66agrzxt4k/pVFufmMcIdy58bsGs1K0v+xACQ4l4JaILgz9wn/2ESRinozJ9rTZ99jLWx8/LHXDn7UVt3I5UArU4FQnlqxkvEnx++MGESfjZ/PEPZ1IhxlsnIUDQm3Sz983jEO1uH7SyLZMfizGctwz/vhUcu/ZwhMBN/4oVKTeRp3fZlhol1Hb7YtpHPg1RCZnJHAI5tfCIqSGR3ZrOTwpGfOEWd3vBIVD3pqCeT6W67nspC8fEcDKCcEG1KUVw=;Pgyu9m8gus6WT3gauh0UtA=="
 ---
 

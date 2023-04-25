@@ -25,29 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "APS music education program receives national recognition"
-    excerpt: "Austin Public Schools has been named one of the Best Communities for Music Education by The NAMM Foundation for its outstanding commitment to music education. Now in its 24th year, the Best Communities for Music Education designation is awarded to districts that demonstrate outstanding achievement in efforts to provide music access and education to all"
-    publishedDateTime: 2023-04-21T15:09:00Z
-    webUrl: "https://www.austindailyherald.com/2023/04/aps-music-education-program-receives-national-recognition/"
+  - title: "How AI, automation, and machine learning are upgrading clinical trials"
+    excerpt: "AI and machine learning offer opportunities to increase efficiency, quality, and speed at every stage of clinical trials."
+    publishedDateTime: 2023-04-24T14:55:00Z
+    webUrl: "https://www.pharmaceutical-technology.com/sponsored/how-ai-automation-and-machine-learning-are-upgrading-clinical-trials/"
     type: article
     provider:
-      name: YAHOO!News
-      domain: austindailyherald.com
-    quality: 41
+      name: Pharmaceutical Technology
+      domain: pharmaceutical-technology.com
+    quality: 54
     images:
-      - url: "https://www.austindailyherald.com/wp-content/uploads/sites/15/2019/03/0306-Band-Piece2.jpg"
-        width: 800
-        height: 425
+      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2023/04/shutterstock_1218220324.jpg"
+        width: 1000
+        height: 417
         isCached: true
-  - title: "Cloud innovation: Leading companies in speech recognition techniques for the automotive industry"
-    excerpt: "The automotive industry continues to be a hotbed of innovation, with activity driven by speech recognition digital assistants, improved wireless voice technology, user-friendliness and better connectivity],"
-    publishedDateTime: 2023-04-24T13:14:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-cloud-speech-recognition-techniques-automotive/"
+  - title: "Artificial intelligence innovation: Leading companies in autonomous-manual transition handling for the automotive industry"
+    excerpt: "GlobalData uncovers the leading innovators in autonomous-manual transition handling for the automotive industry."
+    publishedDateTime: 2023-04-24T12:52:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-autonomous-manual-transition-handling-automotive/"
     type: article
     provider:
       name: Just Auto
       domain: just-auto.com
-    quality: 6
+    quality: 0
+  - title: "Artificial intelligence innovation: Leading companies in autopilot-manual switching for the automotive industry"
+    excerpt: "The automotive industry continues to be a hotbed of innovation, with activity driven by the growth of connected and autonomous vehicles, and growing importance of technologies such as artificial intelligence,"
+    publishedDateTime: 2023-04-24T12:59:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-autopilot-manual-switching-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 0
 
 secured: "Q+exb/vofgnsbUrF5SYeuupMbgl0Vh/Aw8iDuXtPLWdIIAN2t6V9bbCfoMlBT+lsGgYCs6VP8ZwOg+N2ESdphQSBzv9PLNQdiYb5i5iKoD+jgPcX+Y1NimQ6wdtTZkvO6bLzcm84SdKnBvyPb/J4JqgtRyr41BJ02rvU+s/0l654WLx9oOvWexqVgl56jnJvNoQXZxJm32SvNArkZIp51LUKsZZz6i7ILbrb6Fp2smXjL/WXfx8q8VHNB+t4Xhrz0QIapk4qn/M4sacvThWYvsFVEzxWIKYZH9I222PZp+88I29eTMi5reK3Kb2nZwWEEKPxckB9QeON/ugyJ3oCj5jr9xO8xGGA+bWkmFvkS7k+0LFsu1JPVzhnRX1uoKn3HUqjDdN6hyahplzSohpwNHzFVQQq1cvzifLn1WGm/OIuxBIHaIHhlYiTLMIQB2pf2nvy43+CmHiaCTiq1QvQ/tflCVUejfluqAew+Yo4PPpimp3aTSl8gS1qYzcAL9e5j/pl37jUQiL1faUCwV8csw==;O8Pcyw2W+hYv8pHDIXbgaQ=="
 ---

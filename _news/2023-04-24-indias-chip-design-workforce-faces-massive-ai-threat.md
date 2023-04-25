@@ -57,6 +57,38 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "These are the 9 best books to get up to speed on the hot new world of generative AI, according to experts"
+    excerpt: "The AI Revolution in Medicine: GPT-4 and Beyond Author: Peter Lee, Carey Goldberg, and Isaac Kohane. Lee, Corporate VP for Research and Incubations at Microsoft; Goldberg, medical and science ..."
+    publishedDateTime: 2023-04-24T00:00:00Z
+    webUrl: "https://www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3"
+    ampWebUrl: "https://www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/list-generative-ai-artificial-intelligence-best-books-for-learning-experts-2023-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/6442e90e3d49030019df18aa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Artificial intelligence playing increasing roles in the workplace"
+    excerpt: "Artificial intelligence is playing an increasing role in the workplace."
+    publishedDateTime: 2023-04-25T03:55:00Z
+    webUrl: "https://www.wowt.com/video/2023/04/25/artificial-intelligence-playing-increasing-roles-workplace/"
+    ampWebUrl: "https://www.wowt.com/video/2023/04/25/artificial-intelligence-playing-increasing-roles-workplace/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wowt-com.cdn.ampproject.org/c/s/www.wowt.com/video/2023/04/25/artificial-intelligence-playing-increasing-roles-workplace/?outputType=amp"
+    type: article
+    provider:
+      name: WOWT.com
+      domain: wowt.com
+    quality: 59
+    images:
+      - url: "https://do0bihdskp9dy.cloudfront.net/04-25-2023/t_4acfa4e84bdd4394918dfa85bc95c986_name_file_1280x720_2000_v3_1_.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Generative artificial intelligence on our “Babbage” podcast"
     excerpt: "GENERATIVE AI is taking the world by storm. Babbage has explored artificial intelligence through a variety of lenses. OpenAI’s ChatGPT, an advanced chatbot released in late-2022, amassed over 100 million monthly active users and exhibited unprecedented capabilities,"
     publishedDateTime: 2023-04-20T11:51:00Z

@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-25-blog-the-future-of-artificial-intelligence-is-a-no-brainer.md",
+      "title": "Blog: The future of artificial intelligence is a no-brainer",
+      "excerpt": "Does ChatGPT, like the Grammatizator, harbinger a similar outcome, and the simultaneous end of human creativity and industry, today? We address this question here. Let us begin by making sense of how ChatGPT works.",
+      "sourceUrl": null,
+      "webUrl": "https://www.campaignindia.in/article/blog-the-future-of-artificial-intelligence-is-a-no-brainer/482817",
+      "originalUrl": "https://www.campaignindia.in/article/blog-the-future-of-artificial-intelligence-is-a-no-brainer/482817",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdni.autocarindia.com/utils/imageresizer.ashx?n=http://img.haymarketsac.in/campaignindia/campaign-india/content/20230421030356_chatgpt.jpg",
+          "width": 832,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.campaignindia.in/article/blog-the-future-of-artificial-intelligence-is-a-no-brainer/482817/amp",
+      "cdnAmpWebUrl": "https://www-campaignindia-in.cdn.ampproject.org/c/s/www.campaignindia.in/article/blog-the-future-of-artificial-intelligence-is-a-no-brainer/482817/amp",
+      "publishedDateTime": "2023-04-24T20:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Campaign India",
+        "domain": "campaignindia.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-from-fake-drake-to-ai-generated-eminem-tracks-can-musicians-copyright-style.md",
       "title": "From fake Drake to AI-generated Eminem tracks: Can musicians copyright style?",
       "excerpt": "An AI art lecturer says an AI-generated song seemingly created in the style of musician Drake raises copyright questions surrounding an artist's style.",
@@ -1031,6 +1073,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-24-how-ai-automation-and-machine-learning-are-upgrading-clinical-trials.md",
+      "title": "How AI, automation, and machine learning are upgrading clinical trials",
+      "excerpt": "AI and machine learning offer opportunities to increase efficiency, quality, and speed at every stage of clinical trials.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pharmaceutical-technology.com/sponsored/how-ai-automation-and-machine-learning-are-upgrading-clinical-trials/",
+      "originalUrl": "https://www.pharmaceutical-technology.com/sponsored/how-ai-automation-and-machine-learning-are-upgrading-clinical-trials/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2023/04/shutterstock_1218220324.jpg",
+          "width": 1000,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pharmaceutical Technology",
+        "domain": "pharmaceutical-technology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-24-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
       "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
       "excerpt": "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs.",
@@ -1133,101 +1218,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-ai-generated-songs-that-sound-like-kanye-and-drake-are-going-viral-on-tiktok.md",
-      "title": "AI-Generated Songs That Sound Like Kanye And Drake Are Going Viral On TikTok",
-      "excerpt": "Generative AI is rippling through the creative industries, sparking concern in working artists, potential copyright breaches, and a new way to make memes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danidiplacido/2023/04/24/ai-generated-songs-that-sound-like-kanye-and-drake-are-going-viral-on-tiktok/",
-      "originalUrl": "https://www.forbes.com/sites/danidiplacido/2023/04/24/ai-generated-songs-that-sound-like-kanye-and-drake-are-going-viral-on-tiktok/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64468be3dc046c3305a3babe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 854,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danidiplacido/2023/04/24/ai-generated-songs-that-sound-like-kanye-and-drake-are-going-viral-on-tiktok/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2023/04/24/ai-generated-songs-that-sound-like-kanye-and-drake-are-going-viral-on-tiktok/amp/",
-      "publishedDateTime": "2023-04-24T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-a-word-of-caution-before-ai-becomes-standard-in-health-care.md",
-      "title": "A word of caution before AI becomes standard in health care",
-      "excerpt": "This human form of learning, with the brain as the computer, is the standard that AI aspires to reach. But now, artificial intelligence has advanced to the point where it has become a highly useful medical tool.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/healthcare/3965108-a-word-of-caution-before-ai-becomes-standard-in-healthcare/",
-      "originalUrl": "https://thehill.com/opinion/healthcare/3965108-a-word-of-caution-before-ai-becomes-standard-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/04/artificial_intelligence_AI_healthcare-01072023_AP_.jpg?w=1280",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/healthcare/3965108-a-word-of-caution-before-ai-becomes-standard-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/healthcare/3965108-a-word-of-caution-before-ai-becomes-standard-in-healthcare/amp/",
-      "publishedDateTime": "2023-04-24T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

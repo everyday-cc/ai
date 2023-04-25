@@ -196,6 +196,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-24-how-ai-automation-and-machine-learning-are-upgrading-clinical-trials.md",
+      "title": "How AI, automation, and machine learning are upgrading clinical trials",
+      "excerpt": "AI and machine learning offer opportunities to increase efficiency, quality, and speed at every stage of clinical trials.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pharmaceutical-technology.com/sponsored/how-ai-automation-and-machine-learning-are-upgrading-clinical-trials/",
+      "originalUrl": "https://www.pharmaceutical-technology.com/sponsored/how-ai-automation-and-machine-learning-are-upgrading-clinical-trials/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2023/04/shutterstock_1218220324.jpg",
+          "width": 1000,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pharmaceutical Technology",
+        "domain": "pharmaceutical-technology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-24-machine-learning-as-a-service-mlaas-market-2023-size-and-share-an-expand-worldwide-business-opportunities.md",
       "title": "Machine Learning as a Service (MLaaS) Market 2023, Size And Share An Expand Worldwide Business Opportunities",
       "excerpt": "Machine Learning as a Service (MLaaS) Market Size 2023 | New Report (118 Pages) | Analytics | In This Reports Machine Learning as a Service (MLaaS) Market Top Machine Learning as a Service (MLaaS) Companies (BigML,",
@@ -483,49 +526,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-21-mit-uses-liquid-neural-networks-to-teach-drones-navigation-skills.md",
-      "title": "MIT uses liquid neural networks to teach drones navigation skills",
-      "excerpt": "A team of researchers from MIT CSAIL introduced a method for drones to master vision-based fly-to-target tasks in unfamiliar environments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/mit-uses-liquid-neural-networks-to-teach-drones-navigation-skills/",
-      "originalUrl": "https://www.therobotreport.com/mit-uses-liquid-neural-networks-to-teach-drones-navigation-skills/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/04/drones-neural-nets-mit-csail-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T16:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-20-how-amazon-has-reorganized-around-artificial-intelligence-and-machine-learning.md",
       "title": "How Amazon Has Reorganized Around Artificial Intelligence And Machine Learning",
       "excerpt": "I am a Customer Experience Futurist, Author and Keynote Speaker. In honor of Amazon Prime Day, let’s take a look at the inner workings of this company that is pushing the bounds of innovation ...",
@@ -672,6 +672,49 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-new-neural-network-uses-common-sense-to-make-fake-bird-images-from-text.md",
+      "title": "New neural network uses common sense to make fake bird images from text",
+      "excerpt": "The network was trained using a database of bird images and text descriptions. The generated bird images achieved competitive scores when compared with those produced using other neural network ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/986789",
+      "originalUrl": "https://www.eurekalert.org/news-releases/986789",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f6a456e0-9812-46af-848c-84b4f9c4373e/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 332,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1333,49 +1376,6 @@
       "provider": {
         "name": "Searchenginejournal.com",
         "domain": "searchenginejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-13-automl-the-promise-vs-reality-according-to-practitioners.md",
-      "title": "AutoML: the Promise vs. Reality According to Practitioners",
-      "excerpt": "Unfortunately, true end-to-end automation is not yet available. AutoML is currently most frequently used in hyperparameter tuning and model selection. The failure of AutoML to be end-to-end can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/articles/auto-ml-promise-reality/",
-      "originalUrl": "https://www.infoq.com/articles/auto-ml-promise-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/articles/auto-ml-promise-reality/en/headerimage/header-1661333792384.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
         "images": null,
         "publishers": null,
         "authors": null

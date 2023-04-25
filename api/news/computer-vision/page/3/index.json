@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-21-are-facial-recognition-cams-like-the-ones-in-china-coming-to-a-store-near-you.md",
+      "title": "Are facial recognition cams like the ones in China coming to a store near you?",
+      "excerpt": "A New York City store recently admitted to tracking its customers with Chinese facial recognition cameras. Here's what you should know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.komando.com/security-privacy/chinese-facial-recognition-cameras/880979/",
+      "originalUrl": "https://www.komando.com/security-privacy/chinese-facial-recognition-cameras/880979/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.komando.com/wp-content/uploads/2023/03/kk-article-20230321-hikvision-chinese-cameras-us-grocery-stores-1200x675-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.komando.com/security-privacy/chinese-facial-recognition-cameras/880979/?amp",
+      "cdnAmpWebUrl": "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/security-privacy/chinese-facial-recognition-cameras/880979/?amp",
+      "publishedDateTime": "2023-03-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kim Komando",
+        "domain": "komando.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-20-grocer-uses-facial-recognition-technology-to-deter-shoplifters-drawing-concerns.md",
       "title": "Grocer uses facial recognition technology to deter shoplifters, drawing concerns",
       "excerpt": "A supermarket's use of face-scanning and voice-recording technology to prevent thieves has sparked privacy concerns.",
@@ -1363,50 +1406,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-08-microsofts-computer-vision-model-will-generate-alt-text-for-reddit-images.md",
-      "title": "Microsoft’s computer vision model will generate alt text for Reddit images",
-      "excerpt": "Microsoft is bringing Florence, a multimodal model trained on images and text, into production via Azure APIs.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/07/microsofts-computer-vision-model-will-generate-alt-text-for-reddit-images/",
-      "originalUrl": "https://techcrunch.com/2023/03/07/microsofts-computer-vision-model-will-generate-alt-text-for-reddit-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-07T10:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -24,17 +24,6 @@ images:
     height: 633
     isCached: true
 
-related:
-  - title: "Artificial intelligence innovation: Leading companies in autonomous-manual transition handling for the automotive industry"
-    excerpt: "GlobalData uncovers the leading innovators in autonomous-manual transition handling for the automotive industry."
-    publishedDateTime: 2023-04-24T12:52:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-autonomous-manual-transition-handling-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 0
-
-secured: "eBSk4b8ZmLpliSuMlv16KJd459rf9AywldhLG5NgMZ4qXIKs1CMnELPAxBafBqtwug78plK3H5041ta7w5FiLme+P5tZTKqXfPuTM+vZT0A70sxTqiArhhIC6vVwCK4JVx2SMyUuCbcyi+q2TEbvM3ExFQy3gGlxF+diUCO5me/1WW5RCqaqaiEkzqgsrxqXBoPz+/h2jCnFKOaibgiPMDVeEAhGE68uFC8N5oRa79A7e7lBLebH9N1Igd5g3j+tF70j1AXKn1zWk7O6sKFj1yin2oyyMVGxesYCvDWdpzgyFUm5qojDQExrhnHF+ZsCbaZo37tVPZZESFPvT6Rjr84d0gYtrabZezXNXM/qFjU=;YyoKz+905SP53AeU4JbdPA=="
+secured: "JtEC5PHTXsEmzDzAzeXV6aYvoE3Eey4brN9XpKqfZDkrhSyx2gjOsRhr9zrY/wqh0QAWOhvfPoCJnlpqED0wjoKLbD8e0XPA6ILBCXaBjtQHoTTvNMOs5RQbcqv/3Q4r1fzH7tj069SFETuk1GE9tl25zOlZI4rF38eYd/oavjM7x9uSbeMkYEc/ibxHP/Hs4mLnipd67tVMmTUxcDuwFfXyaX40VGsxpuBKyCTdxvp8F4CcMyuGTY0OGeyKqDfCvr3rZMA7htKdXZ+FMyOgbdFvGH3gZexCmsXNFmA8O9Mb8Ll3fLSWlB3GcKGr6Z0xAkSS95RfQZwA6Twk3lQryTd9rdTAbfl7Ar+Dtz6RhQWwi+incjDpWx1kO7fdqDsLikAdyskieHIjciOH8Lx+KR+zSvGHReKdA0MbFdZxrAUYVK7cvfaEv3QZ5CcB5doqV6Z0IrG0SO6ZhbeRkNeu8jGG86TUGnpAjYNR37Mc0eYF2uHp/6OeSdWhjCLMuiawyTuY07WqlCdWE1jTbk101w==;KR/5MYIty2yWKK6vufRdoQ=="
 ---
 
