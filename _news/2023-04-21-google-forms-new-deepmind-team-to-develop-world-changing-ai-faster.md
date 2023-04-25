@@ -109,6 +109,20 @@ related:
         width: 4000
         height: 2668
         isCached: true
+  - title: "UK-based DeepMind merges with Google Brain in transatlantic AI tie-up"
+    excerpt: "Alphabet has merged DeepMind with Google Brain into a single AI research unit, imaginatively named Google DeepMind"
+    publishedDateTime: 2023-04-21T17:23:00Z
+    webUrl: "https://thenextweb.com/news/google-deepmind-merges-google-brain-ai-race"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 84
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FGoogle-News.jpg&signature=b284eb96a862bbf51bec27fad7f29a8c"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Google Looks to Turbocharge AI Efforts With Combined Brain, DeepMind Unit"
     excerpt: "The search giant is merging AI resources to accelerate progress in technology that is reshaping business."
     publishedDateTime: 2023-04-20T20:15:00Z

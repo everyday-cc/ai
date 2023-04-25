@@ -2,6 +2,126 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2023-02-24-blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform.md",
+      "title": "Blue Motor Finance Partners With Zinia for Implementation of Decision Intelligence AI Platform",
+      "excerpt": "Press Release Fintech lender, Blue, has announced a new partnership with Zinia, the pioneering Decision Intelligence company, to supercharge AI driven decisions across the business.Blue is a technology-focused lender delivering innovative motor finance solutions",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/",
+      "originalUrl": "https://venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/amp/",
+      "publishedDateTime": "2023-02-23T18:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-24-reaching-like-an-octopus-a-biology-inspired-model-opens-the-door-to-soft-robot-control.md",
+      "title": "Reaching like an octopus: A biology-inspired model opens the door to soft robot control",
+      "excerpt": "\"Our model, the first of its kind, not only provides insight into the biological problem, but a framework for design and control of soft robots going forward,\" Mehta said. The impressive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/02/230224145223.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/02/230224145223.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-23T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-24-ubot-direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-etf.md",
+      "title": "UBOT Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 3X Shares ETF",
+      "excerpt": "The chart has 1 X axis displaying Time. Data ranges from 2022-02-24 00:00:00 to 2023-02-24 00:00:00. The chart has 1 Y axis displaying values. Data ranges from -64.84 to 10.2.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/symbol/UBOT/peers/comparison",
+      "originalUrl": "https://seekingalpha.com/symbol/UBOT/peers/comparison",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-23T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-24-3-reasons-why-natural-language-processing-will-go-mainstream-this-year.md",
       "title": "3 reasons Why Natural Language Processing Will go Mainstream This Year",
       "excerpt": "Natural language processing (NLP) is the ability of computers to understand human speech terms and written text. Within healthcare, the adoption of NLP is now rising because of its recognized ...",
@@ -1053,159 +1173,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-most-americans-are-uncomfortable-with-artificial-intelligence-in-health-care-survey-finds.md",
-      "title": "Most Americans are uncomfortable with artificial intelligence in health care, survey finds",
-      "excerpt": "Sixty percent of Americans who took part in a new survey by the Pew Research Center said that they would be uncomfortable with a health care provider who relied on artificial intelligence to do something like diagnose their disease or recommend a treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/02/22/health/artificial-intelligence-health-care/index.html",
-      "originalUrl": "https://www.cnn.com/2023/02/22/health/artificial-intelligence-health-care/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/221007140623-doctor-visit-stock.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-22T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service.md",
-      "title": "AWS And Hugging Face Partner To Offer An Alternative To Microsoft’s Azure OpenAI Service",
-      "excerpt": "The Hugging Face community can leverage AWS ML services and infrastructure, such as Amazon SageMaker, AWS Trainium and AWS Inferentia, to train, fine-tune and deploy the models. With the hype and attention that LLMs have been getting, I expected AWS to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/02/22/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/02/22/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 237,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/02/22/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/02/22/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service/amp/",
-      "publishedDateTime": "2023-02-22T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-artificial-intelligence-delivers-its-latest-innovation.md",
-      "title": "Artificial Intelligence Delivers Its Latest Innovation",
-      "excerpt": "\"Some people call this artificial intelligence, but the reality is this technology will enhance us. So instead of artificial intelligence, I think we'll augment our intelligence.\" -Ginni Rometty, Executive Chairman of IBM Artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812",
-      "originalUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2198602/computer-code.jpg",
-          "width": 2500,
-          "height": 1668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812?amp=1",
-      "publishedDateTime": "2023-02-22T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Natural Language Processing",
-        "IBM AI",
-        "AI in Autos",
-        "Computer Vision"
       ]
     }
   ],

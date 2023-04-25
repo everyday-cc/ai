@@ -8,9 +8,6 @@ webUrl: "https://phys.org/news/2023-04-ai-generate-proteins.html"
 ampWebUrl: "https://phys.org/news/2023-04-ai-generate-proteins.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-ai-generate-proteins.amp"
 type: article
-quality: 58
-heat: 68
-published: false
 
 provider:
   name: Phys.org
@@ -26,17 +23,6 @@ images:
     height: 2366
     isCached: true
 
-related:
-  - title: "AI system can generate novel proteins that meet structural design targets"
-    excerpt: "A new machine-learning system can generate protein designs with certain structural features, and which do not exist in nature. These proteins could be utilized to make materials that have similar mechanical properties to existing materials,"
-    publishedDateTime: 2023-04-21T13:53:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/04/230420135324.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 48
-
-secured: "uCVvunSlXgfdfIQCh6EprYrMvYhLFQVghgYm02Nxcih1VccVhuzp6zY+6Cci4ydqZqt1/uTHqu6HPqVIHfQ6HXYvpykZrhAF8ejAOJTmnxJU9ksPylXDUUysSxKAS1oUQwFalQvmap+y0Bfxgg6MGH30vOSDpwPs0yCVfzMGZvDoKMFkUfgZPsevmU1tt8/5T1H58x3Cqc+qYuNIO/hHb7ELM9gG/yPvFTjyewPpLBI0ZbhVC3mHCj4W0KQhjf2sYQyLV7PKxd5fQ4houp7/Qr2x9NqatPWSLT6CVoh7TcMq7puEAWDamNZlYMlSVPL2QFPnD0yw9O6pOuMVO4XZ/ws8h+fGvBVSMVBqv6hdASc=;govz5ICKH//aXK9jo5TRLw=="
+secured: "keu4a36OqKpHuV4EVavoO+H6DSKxDcc87rdJ5jxDKISCVm9PaPpQ2wDPEEbBfKrGEg+dKeTL/Fk5Q1EDJzU0MKVFxgpoT/qReTyt5FsV9wFMuTMGJxAvE5sHGsO3k8icjbWUgkakf2v+Kabjhpz2ERorMiv0beG1bjMOUqHuyOlY5PTFObywY4todUZkZZtiq9QQokDeJTPkVOO8y6YW89nHJwGtQKmYD0APV4nz+7897M9DqLd7O/lQHk507Pxq1f1nHgJzrTYvlwIAWA6SJssYnYSwT5py13lTpkp0Jgm2B1i80U034TFXsSvegVv05mR0j63Ly3qKHGG4AtCe8XXtDcJzZi/Zqd1cDwFCoEI=;RGi8l++2c7VdO3mSwqVTwA=="
 ---
 

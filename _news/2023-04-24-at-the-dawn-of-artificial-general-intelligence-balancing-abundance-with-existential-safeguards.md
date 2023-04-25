@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/at-the-d
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/at-the-dawn-of-artificial-general-intelligence-balancing-abundance-with-existential-safeguards/"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "44 of the most promising generative-artificial-intelligence startups of 2023, according to investors"
+    excerpt: "Estimated total funding for each startup is based on data from PitchBook unless otherwise specified. Adept What it does: Adept is a machine-learning research-and-product lab aiming to build AI ..."
+    publishedDateTime: 2023-04-24T00:00:00Z
+    webUrl: "https://www.businessinsider.com/most-promising-generative-artificial-intelligence-startups-according-vcs-venture-capital-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
+    images:
+      - url: "https://i.insider.com/641b26b3e49c3900187d78fa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "BtzgqXG6BLWtj/GClnPL1OHBT3x5E7dPn25XIFR5YI4jXibrwJCHWbIuQzPIw5NFdu3QkMjNsA5SuqWPSWiIi/fX3/Xi/q6Rv8cC+Y6InP4aEqrokvdIT8YadFYiYGKwaaivyRmGf2+2qle5/wzqDvMRRuft1nTU0EWenhkktxnuulAnhMKBgAcW6kIJFslp73wFedztQ0RSlbp+tXN/gP9gsskV3KJ2WgkgvIRIbRNyNL5Zc/Bcvk+0j5+evRQ+Fa8ugbrrIrnzupYL8mzD30k2Rz3DGeKXdSkk/I7oZK1iVr452zR4KKwYDDH3G3cKNLMHN++/k0XMYsTPJebOZ+oM3PamZX+uNqykPBEUgwHUoOLKgfp5SdosTPiwr99mDbZlXBk6LNXXZpZVetD1zINogBu5/Gews0OPSVDvX4jOSALlReiRRh9qjMRDkzjEUCxRvzBl3QLb1YwSnGQZNAWlmYPB1lkoCitXqh5zCPNRD77vIxVRi5UUH9yNX6bVBHGU3Vf1K8ott5HHeWly/g==;LQ01XIvCucU3Vui2hDvaRg=="
 ---

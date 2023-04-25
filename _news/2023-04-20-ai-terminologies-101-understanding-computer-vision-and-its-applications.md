@@ -6,9 +6,6 @@ publishedDateTime: 2023-04-20T15:29:00Z
 originalUrl: "https://yourstory.com/preview/2023/04/ai-terminologies-101-understanding-computer-vision"
 webUrl: "https://yourstory.com/preview/2023/04/ai-terminologies-101-understanding-computer-vision"
 type: article
-quality: 53
-heat: 53
-published: false
 
 provider:
   name: Your Story
@@ -24,6 +21,6 @@ images:
     height: 1024
     isCached: true
 
-secured: "pZvHufZYXZjg49WOjLYDt0RM+2hIgNjqan6ee5pBHzbMUpQZXnspQNhconOcsXgXPKE8tNkXDtZUimZ1WRj883+iEacSv08QphrCDOnaSbJoS2Yy4cUFZjiisOJRxJpTMfgbAqHbkvWd1YP6skYoZXJ9tvmMvKg15lnPZUhWf3c2VXbYmiYW/WAptv4MiDuCb2dJtsFoxS73KYwcYBmcEJm8T0eZg5pIQw2u2r+lGnt6zhslZguQ4eS7mHDS3Vs3UUwXOBMoH22HuANONtyPcqV5e01gkQWQPzBRJygd1d5PRNYHajJo88qOi+TjGQV+MXd+Gj20DUZMz+HjHtv2SRzbVZei2vBt80HqfMUZ+ds=;LUjx2aZoplPQWtWPZ+8s1w=="
+secured: "cCXPzSOgHlncnF+Izk1Vsqj45HXkU2d/sla/nkINYe/+5p5e836f8VRyK1NrS/Q2Ieqh7z3rS94OrOBwcWLVn5vz1y5jwRovst1/UodMJTsMYATh2llUm7lR5AXP4qmm9tGe58q12j0EHTVIbsI7/r/oOt/pYnzerFI1qzvb+jU0uX3Fa+Rq38ppUVDnfrJkIEM2so0frBhSPYa5QBL1wFZdHAUi1Dsghp8rIa71SGNYtanjUm5ux11MciYbUu+/lxXcSGRl2QH8zgN8lGCNH1NZJjQ2C3crmuCo792urjdNPD+Cv0+MJRUg/u8MVW/gSOcmyfnY2XfkkApG7GU7reo7MjMX6UrR8M9HU1EalMI=;CN91gHhvayQQ/9f8ZGyexQ=="
 ---
 

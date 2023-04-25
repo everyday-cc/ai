@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/what-four-main-types-ai-find-future-ai-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-four-main-types-ai-find-future-ai-programs-change-world.amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
       name: DeepMind
       domain: deepmind.com
     quality: 69
+  - title: "How to Use AI to Find Your Next Hire"
+    excerpt: "ChatGpt and AI are amazing tools for your business, but they aren't without flaws. Spend a few minutes conversing with the interface and you will quickly learn that while it is a wealth of knowledge,"
+    publishedDateTime: 2023-04-25T08:43:00Z
+    webUrl: "https://www.inc.com/david-finkel/how-to-use-ai-to-find-your-next-hire.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "qtUryxCUAvFVnsR2BEMCkS6kAI0+0R7X4OipEG27f7kQ59hac8cg4EGHU0ga48FMMwL06GBaJ9sjmMvSYNQ7PSWv729ersKAZMWVAIh8GSEzl1XH4TVQn9b0C09GW20FLE8roBfEolmal34sa+AgTxNdkXq8xKZxIwMOMN77S0PjIZnL8WOTwzzOxD2u6eeW0XpHNMYLBbntGmtRpdurLwh32BgC4APzQEeLih0UQ13SB3cWrfdL+MLpQKljKmwJb2qdwVtA2oRqW31lKJ2EvZ0LOtNlpyiSQ20A7UMR2EmxyAtr1Ye+t02c2Zw7BRPhxS4KwpGGd+u7NbueaG81H3awNhlzinVPeGi9JeOu97w=;Df9hTl2+Vy/+EqAB8iopcg=="
 ---

@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-06-meta-platforms-releases-segment-anything-model-to-accelerate-computer-vision-research.md",
+      "title": "Meta Platforms releases Segment Anything Model to accelerate computer vision research",
+      "excerpt": "Artificial intelligence researchers at Meta Platforms Inc. said today that they’re hoping to democratize a key aspect of computer vision. It’s known as “segmentation,” which refers to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/04/05/meta-platforms-release-segment-anything-model-accelerate-computer-vision-research/",
+      "originalUrl": "https://siliconangle.com/2023/04/05/meta-platforms-release-segment-anything-model-accelerate-computer-vision-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-06-ai-company-harvested-billions-of-facebook-photos-for-a-facial-recognition-database-it-sold-to-police.md",
       "title": "AI company harvested billions of Facebook photos for a facial recognition database it sold to police",
       "excerpt": "Artificial intelligence is having a cultural moment ... scraped from social media platforms like Facebook and provided them to U.S. law enforcement. The CEO also said that the database has ...",
@@ -1281,58 +1315,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-whos-using-facial-recognition-technology.md",
-      "title": "Who’s Using Facial Recognition Technology?",
-      "excerpt": "Anyone can read what you share. By James Barron Good morning. It’s Tuesday. Facial recognition technology is increasingly being used to scan customers entering stores or, in the case of Madison Square Garden Entertainment, to scan ticket holders for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/03/21/nyregion/facial-recognition-technology-garden.html",
-      "originalUrl": "https://www.nytimes.com/2023/03/21/nyregion/facial-recognition-technology-garden.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/03/21/multimedia/21nytoday-kashmir-msg-qtgp/21nytoday-kashmir-msg-qtgp-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/03/21/nyregion/facial-recognition-technology-garden.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/21/nyregion/facial-recognition-technology-garden.amp.html",
-      "publishedDateTime": "2023-03-20T21:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

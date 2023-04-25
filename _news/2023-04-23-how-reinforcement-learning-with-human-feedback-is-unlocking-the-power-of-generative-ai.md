@@ -48,20 +48,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Latest Cadence tools bring generative AI to chip and system design"
-    excerpt: "The latest version of the Cadence's Virtuoso Studio brings new capabilities to analog, RF and custom silicon designs that leverage generative AI principles. Among several other"
-    publishedDateTime: 2023-04-20T16:30:00Z
-    webUrl: "https://www.techspot.com/news/98391-latest-cadence-tools-bring-generative-ai-chip-system.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 84
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2023/04/2023-04-20-image-15.jpg"
-        width: 3000
-        height: 1963
-        isCached: true
   - title: "These are the 9 best books to get up to speed on the hot new world of generative AI, according to experts"
     excerpt: "The AI Revolution in Medicine: GPT-4 and Beyond Author: Peter Lee, Carey Goldberg, and Isaac Kohane. Lee, Corporate VP for Research and Incubations at Microsoft; Goldberg, medical and science ..."
     publishedDateTime: 2023-04-24T00:00:00Z

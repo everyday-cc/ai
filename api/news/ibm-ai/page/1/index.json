@@ -239,6 +239,49 @@
       ]
     },
     {
+      "path": "_news/2023-04-20-ai-system-can-generate-novel-proteins-that-meet-structural-design-targets.md",
+      "title": "AI system can generate novel proteins that meet structural design targets",
+      "excerpt": "The researchers from MIT, the MIT-IBM Watson AI Lab, and Tufts University employed a generative model, which is the same type of machine-learning model architecture used in AI systems like DALL-E 2.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-04-ai-generate-proteins.html",
+      "originalUrl": "https://phys.org/news/2023-04-ai-generate-proteins.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/protein-folding.jpg",
+          "width": 2880,
+          "height": 2366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-04-ai-generate-proteins.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-ai-generate-proteins.amp",
+      "publishedDateTime": "2023-04-20T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-global-healthcare-artificial-intelligence-market-by-2023-2029-with-revenue-outsourcing.md",
       "title": "Global Healthcare Artificial Intelligence Market by [2023-2029] with Revenue Outsourcing",
       "excerpt": "The Global Healthcare Artificial Intelligence market is anticipated to rise at a considerable rate during the forecast period. The market is growing at a steady rate and with the rising adoption of strategies by key players,",
@@ -1237,59 +1280,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-29-healthcare-ai-market-2023-size-and-forecast-to-2030.md",
-      "title": "Healthcare AI Market 2023 Size and Forecast to 2030",
-      "excerpt": "Mar 28, 2023 (The Expresswire) -- Healthcare AI Marketinformation for each competitor includes (GENERAL ELECTRIC, IBM Watson Health, Intel Corporation, Next IT Corp, Google, DEEP GENOMICS, Koninklijke Philips N.V, General Vision, NVIDIA Corporation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-2023-size-and-forecast-to-2030-2023-03-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-2023-size-and-forecast-to-2030-2023-03-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 246,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-28T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -2,6 +2,136 @@
   "page": 121,
   "value": [
     {
+      "path": "_news/2023-01-13-artificial-intelligence-ai-robots-market-growth-2023-with-market-developments-drivers-limits-and-openings-outlook-2028.md",
+      "title": "Artificial Intelligence (AI) Robots Market Growth 2023 with Market Developments, Drivers, Limits, and Openings Outlook 2028",
+      "excerpt": "Robots Market ” report 2023 delivers a complete overview of crucial factors like drivers, limitations, major and current trends, specialized development, and unborn growth. Research report contains company analysis,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-growth-2023-with-market-developments-drivers-limits-and-openings-outlook-2028-2023-01-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-growth-2023-with-market-developments-drivers-limits-and-openings-outlook-2028-2023-01-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-12T19:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-starfish-health-and-wellbeing-teeside-nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt.md",
+      "title": "Starfish Health And Wellbeing Teeside - NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT)",
+      "excerpt": "The provider has not supplied information on the NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT ... Qualtrics Feedback, Microsoft Clarity and Google Analytics. We use this information to improve our site.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nhs.uk/services/clinic/starfish-health-and-wellbeing-teeside/XAEY03/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt",
+      "originalUrl": "https://www.nhs.uk/services/clinic/starfish-health-and-wellbeing-teeside/XAEY03/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-12T19:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHS Choices",
+        "domain": "www.nhs.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-artificial-intelligence-ai-infrastructure.md",
+      "title": "Artificial Intelligence (AI) Infrastructure...",
+      "excerpt": "BRISBANE, Australia, Jan. 13, 2023 /PRNewswire/ -- Data Bridge Market Research has recently published a report, titled, \"Artificial Intelligence (AI) Infrastructure Market\" The report offers an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/01/n30403404/artificial-intelligence-ai-infrastructure-market-is-prospering-at-usd-422-55-billion-with-expected",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/n30403404/artificial-intelligence-ai-infrastructure-market-is-prospering-at-usd-422-55-billion-with-expected",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
+          "width": 800,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30403404",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30403404",
+      "publishedDateTime": "2023-01-12T19:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-13-speech-recognition-market-growth-rate-comprehensive-analysis-of-profitable-key-business-trends-and-outlook.md",
       "title": "Speech Recognition Market Growth Rate, Comprehensive Analysis of Profitable Key Business Trends, and Outlook",
       "excerpt": "The analysis tracks the impact of key Speech Recognition market dynamics on the major challenges and the strategies",
@@ -985,135 +1115,6 @@
         "Facebook AI",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-good-news-thursday-new-alzheimers-drug-slows-cognitive-decline-in-clinical0.md",
-      "title": "Good News Thursday: New Alzheimer’s drug slows cognitive decline in clinical...0",
-      "excerpt": "A new drug to treat Alzheimer’s was approved by the FDA last week to slow the cognitive decline that accompanies Alzheimer’s, a disease that affects memory and other mental functions.",
-      "sourceUrl": null,
-      "webUrl": "https://universe.byu.edu/2023/01/12/good-news-thursday-new-alzheimers-drug-slows-cognitive-decline-damar-hamlins-toy-drive-raises-8-6m-delta-plans-to-offer-free-wi-fi/",
-      "originalUrl": "https://universe.byu.edu/2023/01/12/good-news-thursday-new-alzheimers-drug-slows-cognitive-decline-damar-hamlins-toy-drive-raises-8-6m-delta-plans-to-offer-free-wi-fi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://universe.byu.edu/wp-content/uploads/2023/01/Untitled-design-63.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-12T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Digital Universe",
-        "domain": "byu.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-emagia-and-osmania-university-sign-pact-to-accelerate-ai-and-fintech-innovation.md",
-      "title": "Emagia and Osmania University Sign Pact to Accelerate AI and Fintech Innovation",
-      "excerpt": "Hyderabad Telangana [India] January 12 ANIGPRC Advancing its commitment to innovations and future-ready workforce Emagia USA today announced the launch of Fintech Innovation Labs at OU in collaboratio",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/273355684/emagia-and-osmania-university-sign-pact-to-accelerate-ai-and-fintech-innovation",
-      "originalUrl": "https://www.bignewsnetwork.com/news/273355684/emagia-and-osmania-university-sign-pact-to-accelerate-ai-and-fintech-innovation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/MmVlMjZjNmEtN2I.jpg",
-          "width": 630,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-12T02:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-stylish-savage-and-smarter-lenovo-unveils-the-worlds-most-powerful-16-inch-ai-tuned-gaming-laptops-and-an-ecosystem-of-gaming-products.md",
-      "title": "Stylish, Savage, and Smarter: Lenovo unveils the world’s most powerful 16-inch AI-tuned gaming laptops and an ecosystem of gaming products",
-      "excerpt": "Lenovo Legion lineup of battle-ready PCs, monitors, and accessories are unveiled, setting a new standard in PC gaming for 2023 that give",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/stylish-savage-and-smarter-lenovo-unveils-world’s-most-powerful-16-inch-ai-tuned-gaming",
-      "originalUrl": "https://www.albawaba.com/business/pr/stylish-savage-and-smarter-lenovo-unveils-world’s-most-powerful-16-inch-ai-tuned-gaming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2023-01/Legion-towers-scaled.jpg?itok=3sQWnrqm",
-          "width": 2048,
-          "height": 1230,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/stylish-savage-and-smarter-lenovo-unveils-world%E2%80%99s-most-powerful-16-inch-ai-tuned-gaming",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/stylish-savage-and-smarter-lenovo-unveils-world%E2%80%99s-most-powerful-16-inch-ai-tuned-gaming",
-      "publishedDateTime": "2023-01-12T00:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

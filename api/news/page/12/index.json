@@ -2,6 +2,151 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-04-13-putin-and-xi-seek-to-weaponize-artificial-intelligence-against-america.md",
+      "title": "Putin and Xi seek to weaponize Artificial Intelligence against America",
+      "excerpt": "Russia's Putin and China's Xi seek to weaponize artificial intelligence against America and dominate the world as the Biden administration ponders hitting the brakes on AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america",
+      "originalUrl": "https://www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/39b9bfbe-9556-462f-bf6a-a645426e701e/4af56975-0b7e-4a1d-9d54-31a23a484ae7/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america.amp",
+      "publishedDateTime": "2023-04-13T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-artificial-intelligence-market-in-2023unlocking-promising-opportunities-by-2030.md",
+      "title": "Artificial Intelligence Market in 2023|Unlocking Promising Opportunities by 2030",
+      "excerpt": "Apr 13, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry. This report conducts a",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-in-2023unlocking-promising-opportunities-by-2030-2023-04-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-in-2023unlocking-promising-opportunities-by-2030-2023-04-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-5-takeaways-from-the-early-days-of-ibm-partner-plus.md",
+      "title": "5 takeaways from the early days of IBM Partner Plus",
+      "excerpt": "The past three months have been transformative for the IBM Ecosystem. Our investment in the ecosystem is deeper than ever before, and momentum is accelerating across all partner types as they continue to scale and innovate. This demonstrates their commitment to clients, deep expertise and hunger to collaborate",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/partner-plus-takeaways/",
+      "originalUrl": "https://www.ibm.com/blog/partner-plus-takeaways/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-13-how-to-build-a-decision-tree-model-in-ibm-db2.md",
       "title": "How to build a decision tree model in IBM Db2",
       "excerpt": "After developing a machine learning model, you need a place to run your model and serve predictions. Here is how I build such a model in IBM Db2.\nThe post How to build a decision tree model in IBM Db2 appeared first on IBM Blog.\n",
@@ -951,134 +1096,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-is-elon-musk-secretly-making-chatgpt-alternative.md",
-      "title": "Is Elon Musk secretly making ChatGPT alternative?",
-      "excerpt": "As per Business Insider, Musk has procured roughly 10,000 GPUs and has recruited AI experts from DeepMind for the project. Though the AI project is still in its early stages, the sizable number of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenews.com.pk/latest/1059912-is-elon-musk-secretly-making-chatgpt-alternative",
-      "originalUrl": "https://www.thenews.com.pk/latest/1059912-is-elon-musk-secretly-making-chatgpt-alternative",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thenews.com.pk/assets/uploads/updates/2023-04-12/1059912_055750_updates.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thenews.com.pk/amp/1059912-is-elon-musk-secretly-making-chatgpt-alternative",
-      "cdnAmpWebUrl": "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1059912-is-elon-musk-secretly-making-chatgpt-alternative",
-      "publishedDateTime": "2023-04-12T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The News International",
-        "domain": "thenews.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-addressing-the-network-data-monetization-complexities.md",
-      "title": "Addressing the network data monetization complexities",
-      "excerpt": "In our previous blog, we identified the three layers to network data monetization. These were the data layer, the analytics layer and the automation layer. To address the network data value tree successfully, we must address the complexities of these three layers, which are essential for automated operations",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/addressing-the-network-data-monetization-complexities/",
-      "originalUrl": "https://www.ibm.com/blog/addressing-the-network-data-monetization-complexities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-top-7-autonomous-vehicle-stocks-to-buy-now.md",
-      "title": "Top 7 Autonomous Vehicle Stocks to Buy Now",
-      "excerpt": "Autonomous vehicle, or AV, technology is generally considered a can't-miss, long-term investment. Several companies have already launched fully AV services for the public in a handful of cities in",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/news/2023/04/top-7-autonomous-vehicle-stocks-to-buy-now-6/",
-      "originalUrl": "https://wtop.com/news/2023/04/top-7-autonomous-vehicle-stocks-to-buy-now-6/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,161 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2023-03-22-ubisofts-new-ai-tool-automatically-generates-dialogue-for-non-playable-game-characters.md",
+      "title": "Ubisoft’s new AI tool automatically generates dialogue for non-playable game characters",
+      "excerpt": "Ubisoft announced that it's using an AI \"Ghostwriter\" tool to automatically write dialogue for some NPCs in its games.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/22/ubisofts-new-ai-tool-automatically-generates-dialogue-for-non-playable-game-characters/",
+      "originalUrl": "https://techcrunch.com/2023/03/22/ubisofts-new-ai-tool-automatically-generates-dialogue-for-non-playable-game-characters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1438362948.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/22/ubisofts-new-ai-tool-automatically-generates-dialogue-for-non-playable-game-characters/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/ubisofts-new-ai-tool-automatically-generates-dialogue-for-non-playable-game-characters/amp/",
+      "publishedDateTime": "2023-03-22T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-eight-major-issues-with-influencer-marketing-according-to-rad-ai.md",
+      "title": "Eight Major Issues with Influencer Marketing, According to RAD AI",
+      "excerpt": "Press Release Influencer marketing suffers from eight common issues that sabotage campaign results, according to an analysis by RAD AI, a platform that delivers ROI-based creative intelligence solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/eight-major-issues-with-influencer-marketing-according-to-rad-ai/",
+      "originalUrl": "https://venturebeat.com/business/eight-major-issues-with-influencer-marketing-according-to-rad-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/mms.businesswire.com/media/20230322005269/en/1744641/4/Asset_Hero_Integration.jpg?strip=all&ssl=1",
+          "width": 480,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/business/eight-major-issues-with-influencer-marketing-according-to-rad-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/eight-major-issues-with-influencer-marketing-according-to-rad-ai/amp/",
+      "publishedDateTime": "2023-03-22T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-investors-take-note-nvidias-rush-of-new-ai-deals-could-be-a-game-changer.md",
+      "title": "Investors, Take Note: Nvidia's Rush of New AI Deals Could Be a Game Changer",
+      "excerpt": "The inveterate graphics processor designer has been busy making moves in the AI space recently. I mean really recently, as the push included a flurry of new partnership announcements at the 2023 version of Nvidia's GPU Technology Conference (GTC).",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/03/22/investors-take-note-of-nvidia-ai-deals/",
+      "originalUrl": "https://www.fool.com/investing/2023/03/22/investors-take-note-of-nvidia-ai-deals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/725492/nvda-logo-green.jpg",
+          "width": 2560,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-2-top-ai-stocks-ready-for-bull-runs.md",
       "title": "2 Top AI Stocks Ready for Bull Runs",
       "excerpt": "For instance, Microsoft has made ChatGPT available on its Azure cloud computing platform. The company's customers can now use large language AI models for various enterprise applications such as accelerating code development, improving email marketing ...",
@@ -1063,125 +1218,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player.md",
-      "title": "Wimbledon 2019: IBM’s Slammtracker AI Technology Heralds The Demise Of The Human Player",
-      "excerpt": "Whilst we patiently wait for the day that Womble-shaped robots replace human tennis players at Wimbledon, we can admire the IBM powered AI technology ... them into the huge Watson driven analytics ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/07/08/wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player/",
-      "originalUrl": "https://hackaday.com/2019/07/08/wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-how-you-can-tell-the-ai-images-of-trumps-arrest-are-deepfakes.md",
-      "title": "How You Can Tell the AI Images of Trump’s Arrest Are Deepfakes",
-      "excerpt": "Doctored images of the former US president went viral on Twitter. These are the telltale signs that they aren’t what they seem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/how-to-tell-fake-ai-images-donald-trump-arrest/",
-      "originalUrl": "https://www.wired.com/story/how-to-tell-fake-ai-images-donald-trump-arrest/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/641a3cc41b037831fcc7504c/master/pass/How-You-Can-Tell-the-AI-Images-of-Trump%E2%80%99s-Arrest-Are-Deepfakes-Security-GettyImages-1248481192.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/how-to-tell-fake-ai-images-donald-trump-arrest/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-to-tell-fake-ai-images-donald-trump-arrest/amp",
-      "publishedDateTime": "2023-03-21T16:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-nvidia-and-google-cloud-deliver-powerful-new-generative-ai-platform-built-on-the-new-l4-gpu-and-vertex-ai.md",
-      "title": "NVIDIA and Google Cloud Deliver Powerful New Generative AI Platform, Built on the New L4 GPU and Vertex AI",
-      "excerpt": "NVIDIA today announced Google Cloud is integrating the newly launched L4 GPU and Vertex AI to accelerate the work of companies building a rapidly expanding number of generative AI applications. Google Cloud,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/03/21/9780952.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/03/21/9780952.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T16:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

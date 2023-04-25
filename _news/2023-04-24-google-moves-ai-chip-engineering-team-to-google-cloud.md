@@ -43,20 +43,6 @@ related:
         width: 790
         height: 526
         isCached: true
-  - title: "How Chip Engineers Plan To Use AI"
-    excerpt: "Semiconductor Engineering sat down to discuss how AI is being used today and how engineers expect to use it in the future, with Michael Jackson, corporate vice president for R&D at Cadence; Joel Sumner,"
-    publishedDateTime: 2023-04-20T15:18:00Z
-    webUrl: "https://semiengineering.com/how-chip-engineers-plan-to-use-ai/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 54
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/2019/09/iStock-822081298.jpg"
-        width: 788
-        height: 443
-        isCached: true
 
 secured: "vn1FtOzhjDVNum5SXf4WnKnz5O6oQU++eWCX2nyqoCI0fX5TY1toyYmAhwMt7LUaCbA7hTG319eIaIfHKypxlWf9XVcr43jfA612/Nda2L4tRS9HQvRex5pd59K872GLQBDfxwJccKGLM9jW0cVSWpF/SvkSvvEpnXJgEL9qp/FUcCKbUXvNNpfVINOW+t3+KA8GFHYeH3L5pwxtHon5pnYo55t7fSumSkU5kb+cIeSCN9JcnpNNBjN1lz/YEx0m9krX/IX4T/pntWPa9BKVauMOBDnTJV4S9D4+U/OsDekyrVEtjrBTfbkCkFlgebRkXh2CyBT+yqHnY7wl0CZ0GM7w/cwiUqHLad/vmtGHo2g=;VyyUUScpSr9yTU8ZQqYPKA=="
 ---

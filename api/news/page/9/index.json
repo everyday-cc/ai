@@ -2,6 +2,160 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-04-17-congress-can-shape-ai-governance-without-stifling-innovation-heres-how.md",
+      "title": "Congress Can Shape AI Governance Without Stifling Innovation. Here’s How.",
+      "excerpt": "As we progress deeper into the artificial intelligence (AI) era, it is critical to rethink how we address the growing impact of AI technologies on society.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/divyanshkaushik/2023/04/17/congress-can-shape-ai-governance-without-stifling-innovation-heres-how/",
+      "originalUrl": "https://www.forbes.com/sites/divyanshkaushik/2023/04/17/congress-can-shape-ai-governance-without-stifling-innovation-heres-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/643865e6e5e9481f10a008b9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/divyanshkaushik/2023/04/17/congress-can-shape-ai-governance-without-stifling-innovation-heres-how/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/divyanshkaushik/2023/04/17/congress-can-shape-ai-governance-without-stifling-innovation-heres-how/amp/",
+      "publishedDateTime": "2023-04-17T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-large-language-models-are-the-new-cloud-battleground.md",
+      "title": "Large language models are the new cloud battleground",
+      "excerpt": "Perhaps the biggest thing since open source or Google, LLMs may have companies fighting for supremacy, but it’s the developers who come out ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3693330/large-language-models-are-the-new-cloud-battleground.html",
+      "originalUrl": "https://www.infoworld.com/article/3693330/large-language-models-are-the-new-cloud-battleground.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/02/fighter_boxer_competition_boxing-glove_best_fight_-totokita-getty-100787964-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3693330/large-language-models-are-the-new-cloud-battleground.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3693330/large-language-models-are-the-new-cloud-battleground.amp.html",
+      "publishedDateTime": "2023-04-17T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-google-ai-staffers-shocked-that-samsung-apple-phone-search-exclusive-at-risk.md",
+      "title": "Google AI Staffers Shocked That Samsung, Apple Phone Search Exclusive At Risk",
+      "excerpt": "Stunned that Samsung has been considering switching its default phone search to Microsoft’s Bing, with Apple's contract up for renewal as well, Google is pulling out all the stops for Google I/O next month with new chat features for its traditional search function,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martineparis/2023/04/17/google-160-ai-staffers-shocked-that-samsung-apple-phone-exclusive-at-risk/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/04/17/google-160-ai-staffers-shocked-that-samsung-apple-phone-exclusive-at-risk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/643cc0aa4cbcd5f9e63bf6fb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/04/17/google-160-ai-staffers-shocked-that-samsung-apple-phone-exclusive-at-risk/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/04/17/google-160-ai-staffers-shocked-that-samsung-apple-phone-exclusive-at-risk/amp/",
+      "publishedDateTime": "2023-04-17T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-baidu-releases-new-products-to-enhance-intelligent-driving.md",
       "title": "Baidu Releases New Products To Enhance Intelligent Driving",
       "excerpt": "Chinese artificial intelligence company Baidu Inc BIDU revealed a series of new products to enhance intelligent driving on Sunday, in a bid to be part of the transition to smarter cars in the future.",
@@ -1066,144 +1220,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-new-artificial-intelligence-tool-helps-predict-colon-cancer-survival.md",
-      "title": "New Artificial Intelligence Tool Helps Predict Colon Cancer Survival",
-      "excerpt": "Artificial intelligence (AI) or machine intelligence refers to the intelligence displayed by computers or robots in contrast to the natural intelligence exhibited by humans. It is considered one of the major advancements of the 4th industrial revolution and finds application in several fields including medicine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
-      "originalUrl": "https://www.medindia.net/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medindia.net/health-images/artificial-intelligence-can-now-predict.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
-      "publishedDateTime": "2023-04-15T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic.md",
-      "title": "Robot Sophia stars at artificial intelligence forum in Dominican Republic",
-      "excerpt": "The robot Sophia was the main protagonist at the Global Forum in Casa de Campo (La Romana, eastern Dominican Republic) where the advances and risks posed by artificial intelligence (AI) were discussed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.laprensalatina.com/robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic/",
-      "originalUrl": "https://www.laprensalatina.com/robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.laprensalatina.com/wp-content/uploads/2023/04/f5f380243fc2f1893919f61814c51c7bba7e37f6w-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.laprensalatina.com/robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic/amp/",
-      "cdnAmpWebUrl": "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic/amp/",
-      "publishedDateTime": "2023-04-15T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "La Prensa Latina",
-        "domain": "laprensalatina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-ai-aspiring-toward-all-in-global-geopolitical-multilateral-unity-arrangement-for-sake-of-humanity-says-ai-ethics-and-ai-law.md",
-      "title": "AI Aspiring Toward All-In Global Geopolitical Multilateral Unity Arrangement For Sake Of Humanity Says AI Ethics And AI Law",
-      "excerpt": "Advocates of AI are saying that we need large-scale global multilateral arrangements to try and prevent an AI apocalyptical nightmare upon humankind. I explore what this all means and whether it is feasible,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/04/15/ai-aspiring-toward-all-in-global-geopolitical-multilateral-unity-arrangement-for-sake-of-humanity-says-ai-ethics-and-ai-law/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/04/15/ai-aspiring-toward-all-in-global-geopolitical-multilateral-unity-arrangement-for-sake-of-humanity-says-ai-ethics-and-ai-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62871351ad5ec247308a0ba8/0x0.jpg?format=jpg&crop=1850,1387,x113,y0,safe&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/04/15/ai-aspiring-toward-all-in-global-geopolitical-multilateral-unity-arrangement-for-sake-of-humanity-says-ai-ethics-and-ai-law/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/04/15/ai-aspiring-toward-all-in-global-geopolitical-multilateral-unity-arrangement-for-sake-of-humanity-says-ai-ethics-and-ai-law/amp/",
-      "publishedDateTime": "2023-04-15T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

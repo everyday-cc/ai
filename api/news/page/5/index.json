@@ -2,6 +2,207 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-04-20-is-deep-learning-a-necessary-ingredient-for-artificial-intelligence.md",
+      "title": "Is deep learning a necessary ingredient for artificial intelligence?",
+      "excerpt": "The earliest artificial neural network, the Perceptron, was introduced approximately 65 years ago and consisted of just one layer. However, to address solutions for more complex classification tasks,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-04-deep-ingredient-artificial-intelligence.html",
+      "originalUrl": "https://techxplore.com/news/2023-04-deep-ingredient-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/is-deep-learning-a-nec.jpg",
+          "width": 2880,
+          "height": 1716,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-04-deep-ingredient-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-deep-ingredient-artificial-intelligence.amp",
+      "publishedDateTime": "2023-04-20T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-artificial-intelligence-signs-of-acceleration-in-2023.md",
+      "title": "Artificial Intelligence: Signs of Acceleration in 2023",
+      "excerpt": "One final investment area that I’ll mention, that’s core to setting Amazon up to invent in every area of our business for many decades to come,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-signs-of-acceleration-in-2023-1032247068",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-signs-of-acceleration-in-2023-1032247068",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wisdomtree.com/investments/-/media/us-media-files/blog/blog-images-2/2023/april/artificial-intelligence-signs-of-acceleration-in-2023/figure-1.jpg",
+          "width": 768,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-data-explorer-processes-unlabeled-visual-data-boosting-creation-of-production-ready-ai-models.md",
+      "title": "Data Explorer processes unlabeled visual data, boosting creation of production-ready AI models",
+      "excerpt": "Akridata has launched Data Explorer for processing visual data, allowing data science teams to improve datasets and AI model training.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/data-explorer-processes-unlabeled-visual-data-boosting-creation-of-production-ready-ai-models/",
+      "originalUrl": "https://venturebeat.com/ai/data-explorer-processes-unlabeled-visual-data-boosting-creation-of-production-ready-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/VB_akridata-logo_041923.jpg?w=1200&strip=all",
+          "width": 1117,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/data-explorer-processes-unlabeled-visual-data-boosting-creation-of-production-ready-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/data-explorer-processes-unlabeled-visual-data-boosting-creation-of-production-ready-ai-models/amp/",
+      "publishedDateTime": "2023-04-20T00:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-aws-matterport-partnership-enhances-digital-twins-with-joint-dashboard.md",
+      "title": "AWS, Matterport partnership enhances digital twins with joint dashboard",
+      "excerpt": "New integrations expand on Matterport spatial data service for AWS IoT TwinMaker. Image: Funtap/Adobe Stock Organizations using Matterport for spatial data can now view it on the same dashboard as AWS IoT TwinMaker data with a new integration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/matterport-aws-iot-twin-maker-dashboard/",
+      "originalUrl": "https://www.techrepublic.com/article/matterport-aws-iot-twin-maker-dashboard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/04/tr41923-internetofthings.jpeg",
+          "width": 1400,
+          "height": 1044,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/matterport-aws-iot-twin-maker-dashboard/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/matterport-aws-iot-twin-maker-dashboard/amp/",
+      "publishedDateTime": "2023-04-19T23:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-20-cellular-data-controlled-robot.md",
       "title": "Cellular Data Controlled Robot",
       "excerpt": "[Jatinderjit] sent along the latest in LEGO robotics. The cell phone controlled robot. It’s based on a LEGO Excavator kit with a few spare parts via ebay. The controller is a Nokia phone running ...",
@@ -285,49 +486,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-drones-navigate-unseen-environments-with-liquid-neural-networks.md",
-      "title": "Drones navigate unseen environments with liquid neural networks",
-      "excerpt": "In the vast, expansive skies where birds once ruled supreme, a new crop of aviators is taking flight. These pioneers of the air are not living creatures, but rather a product of deliberate innovation: drones.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.html",
-      "originalUrl": "https://techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/drones-navigate-unseen.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.amp",
-      "publishedDateTime": "2023-04-19T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -1031,126 +1189,6 @@
         "AI in Healthcare",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-anchorage-assembly-heavily-limits-city-use-of-facial-recognition-technology.md",
-      "title": "Anchorage Assembly heavily limits city use of facial recognition technology",
-      "excerpt": "If the city opts to purchase and use the technology, the Assembly must approve it, and there must be a public hearing.",
-      "sourceUrl": null,
-      "webUrl": "https://alaskapublic.org/2023/04/18/anchorage-assembly-heavily-limits-city-use-of-facial-recognition-technology/",
-      "originalUrl": "https://alaskapublic.org/2023/04/18/anchorage-assembly-heavily-limits-city-use-of-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Alaska Public Media",
-        "domain": "alaskapublic.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-divisions-grow-over-use-of-facial-recognition-in-california.md",
-      "title": "Divisions Grow Over Use of Facial Recognition in California",
-      "excerpt": "(TNS) — California legislators are grappling over how to deal with facial recognition technology in policing, leading to tensions between one-time allies on the issue. Assemblyman Phil Ting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/policy/divisions-grow-over-use-of-facial-recognition-in-california",
-      "originalUrl": "https://www.govtech.com/policy/divisions-grow-over-use-of-facial-recognition-in-california",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/8df9832/2147483647/strip/true/crop/1119x583+0+23/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9c%2Fc3%2F0eddcc5f45b1049402bb3e8fadb2%2Fshutterstock-1385868245.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/policy/divisions-grow-over-use-of-facial-recognition-in-california?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/divisions-grow-over-use-of-facial-recognition-in-california?_amp=true",
-      "publishedDateTime": "2023-04-18T19:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-ai-terminologies-101-natural-language-processing-nlp-and-its-applications.md",
-      "title": "AI Terminologies 101: Natural Language Processing (NLP) and Its Applications",
-      "excerpt": "Natural Language Processing (NLP) is a type of artificial intelligence (AI) that enables machines to understand and process human language. NLP has become increasingly important in recent years as ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2023/04/ai-terminologies-101-understanding-nlp",
-      "originalUrl": "https://yourstory.com/2023/04/ai-terminologies-101-understanding-nlp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/NucleusAIwall-elikecuterobotsmilingandreadingabooklo64cf6bf2-2dc6-4006-80fc-53762f2dce631-1681831401514.jpg?fm=png&auto=format",
-          "width": 1536,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T18:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

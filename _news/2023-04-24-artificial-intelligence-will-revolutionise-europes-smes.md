@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "MORNING BID EUROPE-Zooming in on AI, rates and chips wars"
+    excerpt: "The Fed is in a blackout period ahead of its meeting next week, while the European Central Bank is out and about hinting a half point rate hike is possible next week."
+    publishedDateTime: 2023-04-25T04:30:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2428606-morning-bid-europe-zooming-in-on-ai-rates-and-chips-wars"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2428606-morning-bid-europe-zooming-in-on-ai-rates-and-chips-wars?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2428606-morning-bid-europe-zooming-in-on-ai-rates-and-chips-wars?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 74
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/28_09_2022_05_08_05_7911892.jpg?width=1280"
+        width: 1280
+        height: 960
+        isCached: true
 
 secured: "RvZAmrPxa3VWid+Yx4eYsCcO24apUfZfw5LDmMBpd9MnhCxsSl4pn5puMk2jEdoQYjRQGlCPCeJrCpi03jiTjkFn583nI/jwXpq0Fl6WNFHmEHWHc5lb14JWswrl/I45Wt7hYGSuQx0ew9BnXo9qmcPG0iwtG14MY0SXsGq6LixkV8pWaTKWTWE5KGsqtRC8IsGJdCQQxEoOD5l3wZiPlHyKDsfrOXp9KWV4y4IvmOBXanNsmkENODiTgSV4s0a+PV23dJ2toLidg8pmmT1ESnUt/Gu+vTPHX1eqhXIlSxMr6NSWUbXChO4ma79/Fo2qCtcWNHt8Eov2PIIUFfCrgn2NiC7/Ibz4d+JeHxNLwVs=;jvACT6EXR/RsRxCuoJUjcQ=="
 ---

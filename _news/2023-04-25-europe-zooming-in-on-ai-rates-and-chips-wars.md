@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/markets/europe/global-markets-view-europe-
 webUrl: "https://www.reuters.com/markets/europe/global-markets-view-europe-2023-04-25/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "MORNING BID EUROPE-Zooming in on AI, rates and chips wars"
+    excerpt: "The Fed is in a blackout period ahead of its meeting next week, while the European Central Bank is out and about hinting a half point rate hike is possible next week."
+    publishedDateTime: 2023-04-25T04:30:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2428606-morning-bid-europe-zooming-in-on-ai-rates-and-chips-wars"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2428606-morning-bid-europe-zooming-in-on-ai-rates-and-chips-wars?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2428606-morning-bid-europe-zooming-in-on-ai-rates-and-chips-wars?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 74
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/28_09_2022_05_08_05_7911892.jpg?width=1280"
+        width: 1280
+        height: 960
+        isCached: true
   - title: "Artificial Intelligence will revolutionise Europe’s SMEs"
     excerpt: "Artificial Intelligence (AI) is, suddenly, everywhere. Thanks to a new breed of solutions and platforms such as OpenAI’s ChatGPT, Google’s LaMDA and Meta’s LLaMA, the power and potential of AI and its future role across all industries as well as society has been sharply brought to the fore."
     publishedDateTime: 2023-04-24T04:35:00Z

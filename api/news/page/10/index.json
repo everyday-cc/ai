@@ -2,6 +2,144 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-04-15-new-artificial-intelligence-tool-helps-predict-colon-cancer-survival.md",
+      "title": "New Artificial Intelligence Tool Helps Predict Colon Cancer Survival",
+      "excerpt": "Artificial intelligence (AI) or machine intelligence refers to the intelligence displayed by computers or robots in contrast to the natural intelligence exhibited by humans. It is considered one of the major advancements of the 4th industrial revolution and finds application in several fields including medicine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
+      "originalUrl": "https://www.medindia.net/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medindia.net/health-images/artificial-intelligence-can-now-predict.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
+      "publishedDateTime": "2023-04-15T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-04-15-robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic.md",
+      "title": "Robot Sophia stars at artificial intelligence forum in Dominican Republic",
+      "excerpt": "The robot Sophia was the main protagonist at the Global Forum in Casa de Campo (La Romana, eastern Dominican Republic) where the advances and risks posed by artificial intelligence (AI) were discussed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.laprensalatina.com/robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic/",
+      "originalUrl": "https://www.laprensalatina.com/robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.laprensalatina.com/wp-content/uploads/2023/04/f5f380243fc2f1893919f61814c51c7bba7e37f6w-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.laprensalatina.com/robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic/amp/",
+      "cdnAmpWebUrl": "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/robot-sophia-stars-at-artificial-intelligence-forum-in-dominican-republic/amp/",
+      "publishedDateTime": "2023-04-15T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "La Prensa Latina",
+        "domain": "laprensalatina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-15-ai-aspiring-toward-all-in-global-geopolitical-multilateral-unity-arrangement-for-sake-of-humanity-says-ai-ethics-and-ai-law.md",
+      "title": "AI Aspiring Toward All-In Global Geopolitical Multilateral Unity Arrangement For Sake Of Humanity Says AI Ethics And AI Law",
+      "excerpt": "Advocates of AI are saying that we need large-scale global multilateral arrangements to try and prevent an AI apocalyptical nightmare upon humankind. I explore what this all means and whether it is feasible,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/04/15/ai-aspiring-toward-all-in-global-geopolitical-multilateral-unity-arrangement-for-sake-of-humanity-says-ai-ethics-and-ai-law/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/04/15/ai-aspiring-toward-all-in-global-geopolitical-multilateral-unity-arrangement-for-sake-of-humanity-says-ai-ethics-and-ai-law/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62871351ad5ec247308a0ba8/0x0.jpg?format=jpg&crop=1850,1387,x113,y0,safe&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/04/15/ai-aspiring-toward-all-in-global-geopolitical-multilateral-unity-arrangement-for-sake-of-humanity-says-ai-ethics-and-ai-law/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/04/15/ai-aspiring-toward-all-in-global-geopolitical-multilateral-unity-arrangement-for-sake-of-humanity-says-ai-ethics-and-ai-law/amp/",
+      "publishedDateTime": "2023-04-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-15-thailand-uses-facial-recognition-technology-in-disease-control.md",
       "title": "Thailand uses facial recognition technology in disease control",
       "excerpt": "Eye and facial recognition technology will be used in a pilot project in Thailand, aimed at improving healthcare services for foreign workers, refugees and ethnic people in five provinces, the Thai Department of Disease Control has said.",
@@ -1021,161 +1159,6 @@
         "AI",
         "Microsoft AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-amazons-aws-business-faces-short-term-headwinds-with-companies-cautious-on-spending.md",
-      "title": "Amazon’s AWS business faces short-term headwinds with companies cautious on spending",
-      "excerpt": "Amazon CEO Andy Jassy outlines progress in transforming fulfillment centers to a regional network, continued ambitions in grocery and hopes for",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/amazon-says-aws-business-facing-short-term-headwinds-as-companies-are-cautious-on-spending-7ecf061c",
-      "originalUrl": "https://www.marketwatch.com/story/amazon-says-aws-business-facing-short-term-headwinds-as-companies-are-cautious-on-spending-7ecf061c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-762849/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/amazon-says-aws-business-facing-short-term-headwinds-as-companies-are-cautious-on-spending-7ecf061c",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazon-says-aws-business-facing-short-term-headwinds-as-companies-are-cautious-on-spending-7ecf061c",
-      "publishedDateTime": "2023-04-14T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-the-best-movies-on-amazon-prime-video-april-2023.md",
-      "title": "The best movies on Amazon Prime Video (April 2023)",
-      "excerpt": "If Amazon Prime Video ever had to rely solely on its original films, it might not be among the streaming giants. Amazon’s MGM library is robust, but Prime Video’s selections can range from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
-      "originalUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/06/Ticket-To-Paradise-Movie.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
-      "publishedDateTime": "2023-04-14T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-revolutionizing-the-consumer-goods-industry-with-integrated-business-planning.md",
-      "title": "Revolutionizing the consumer goods industry with integrated business planning",
-      "excerpt": "Learn how Al Rabie Saudi Foods Co. Ltd adopted an integrated business planning analytics approach to streamline their planning and budgeting processes.\nThe post Revolutionizing the consumer goods industry with integrated business planning appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/revolutionizing-the-consumer-goods-industry-with-integrated-business-planning/",
-      "originalUrl": "https://www.ibm.com/blog/revolutionizing-the-consumer-goods-industry-with-integrated-business-planning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/7854f0c7-0b57-4568-954bdb02aaf9e223.l.jpg",
-          "width": 1312,
-          "height": 656,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

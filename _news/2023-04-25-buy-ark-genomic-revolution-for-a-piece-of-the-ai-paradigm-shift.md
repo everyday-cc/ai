@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jonmarkman/2023/04/24/buy-ark-genomic-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/04/24/buy-ark-genomic-revolution-for-a-piece-of-the-ai-paradigm-shift/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.techspot.com/news/98420-eff-calls-action-against-california-new-facial-recognition.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -350,6 +350,49 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-ai-terminologies-101-understanding-computer-vision-and-its-applications.md",
+      "title": "AI Terminologies 101: Understanding Computer Vision and Its Applications",
+      "excerpt": "Computer Vision is a type of artificial intelligence (AI) that enables machines to interpret and understand the visual world. Computer Vision algorithms can analyse and extract information from ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/preview/2023/04/ai-terminologies-101-understanding-computer-vision",
+      "originalUrl": "https://yourstory.com/preview/2023/04/ai-terminologies-101-understanding-computer-vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/images/undefined/nucleus-1677242056743.png",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1281,40 +1324,6 @@
       "provider": {
         "name": "Analytics India Magazine",
         "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-meta-platforms-releases-segment-anything-model-to-accelerate-computer-vision-research.md",
-      "title": "Meta Platforms releases Segment Anything Model to accelerate computer vision research",
-      "excerpt": "Artificial intelligence researchers at Meta Platforms Inc. said today that they’re hoping to democratize a key aspect of computer vision. It’s known as “segmentation,” which refers to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/04/05/meta-platforms-release-segment-anything-model-accelerate-computer-vision-research/",
-      "originalUrl": "https://siliconangle.com/2023/04/05/meta-platforms-release-segment-anything-model-accelerate-computer-vision-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T02:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
         "images": null,
         "publishers": null,
         "authors": null

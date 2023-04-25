@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Latest Cadence tools bring generative AI to chip and system design"
-    excerpt: "The latest version of the Cadence's Virtuoso Studio brings new capabilities to analog, RF and custom silicon designs that leverage generative AI principles. Among several other"
-    publishedDateTime: 2023-04-20T16:30:00Z
-    webUrl: "https://www.techspot.com/news/98391-latest-cadence-tools-bring-generative-ai-chip-system.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 84
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2023/04/2023-04-20-image-15.jpg"
-        width: 3000
-        height: 1963
-        isCached: true
   - title: "How reinforcement learning with human feedback is unlocking the power of generative AI"
     excerpt: "How reinforcement learning with human feedback helps ensure that businesses are building ethical generative AI models."
     publishedDateTime: 2023-04-23T16:20:00Z
