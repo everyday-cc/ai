@@ -158,6 +158,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 40
+  - title: "ChatGPT craze drives domestic innovation"
+    excerpt: "\"Technologies behind ChatGPT are not new to market players, but ChatGPT represents how AI has evolved and progressed over the past few years. Also, it demonstrates the popularity of the NLP market and brings forward the market one to two years,"
+    publishedDateTime: 2023-04-24T23:40:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202304/25/WS64470bd4a310b6054facf864.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202304/25/64470bd4a310b60580cbcd50.jpeg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Le Bonheur Children's Hospital fellow publishes journal article on chatbots written by ChatGPT"
     excerpt: "The use of chatbots and natural language processing technology, such as ChatGPT, has the potential to change the future of medical writing —with some caveats— says Som Biswas, MD, a Radiology fellow at Le Bonheur Children's Hospital and the University of Tennessee Health Science Center,"
     publishedDateTime: 2023-04-24T13:06:00Z

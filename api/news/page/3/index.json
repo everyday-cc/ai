@@ -2,6 +2,161 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-22-aimachine-learning-market-report-industry-dynamics-by-top-players-2023-2031.md",
+      "title": "AI/Machine Learning Market Report Industry Dynamics by Top Players 2023-2031",
+      "excerpt": "Global AI/Machine Learning Market Research Report 2023 is spread across 116 pages and 148 Number of Tables and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-report-industry-dynamics-by-top-players-2023-2031-2023-04-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-report-industry-dynamics-by-top-players-2023-2031-2023-04-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T22:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-22-the-secret-history-of-ai-and-a-hint-at-whats-next.md",
+      "title": "The Secret History of AI, and a Hint at What’s Next",
+      "excerpt": "Artificial intelligence is already a big part of our daily lives",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/the-secret-history-of-ai-and-a-hint-at-whats-next-428905de",
+      "originalUrl": "https://www.wsj.com/articles/the-secret-history-of-ai-and-a-hint-at-whats-next-428905de",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-768109/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-22-we-all-contribute-to-ai-should-we-get-paid-for-that.md",
+      "title": "We all contribute to AI — should we get paid for that?",
+      "excerpt": "The idea is for people to “get paid for what they create, even when it is filtered and recombined” into something that’s unrecognizable. The concept isn’t brand new, with Lanier first introducing the notion of data dignity in a 2018 Harvard Business Review piece titled,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/04/21/as-ai-eliminates-jobs-a-way-to-keep-people-afloat-financially-thats-not-ubi/",
+      "originalUrl": "https://techcrunch.com/2023/04/21/as-ai-eliminates-jobs-a-way-to-keep-people-afloat-financially-thats-not-ubi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1365407901.jpg?resize=1200,816",
+          "width": 1200,
+          "height": 816,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/04/21/as-ai-eliminates-jobs-a-way-to-keep-people-afloat-financially-thats-not-ubi/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/21/as-ai-eliminates-jobs-a-way-to-keep-people-afloat-financially-thats-not-ubi/amp/",
+      "publishedDateTime": "2023-04-21T19:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-22-brain-inspired-ai-liquid-neural-networks-power-drones.md",
       "title": "Brain-Inspired AI Liquid Neural Networks Power Drones",
       "excerpt": "Researchers at MIT CSAIL demonstrated how brain-inspired AI liquid neural networks enable drones to navigate unfamiliar places. The researchers performed tests to see",
@@ -155,7 +310,7 @@
       "originalUrl": "https://www.zdnet.com/article/deepmind-melds-with-googles-brain-team-to-accelerate-ai-growth/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 256,
+      "heat": 266,
       "tags": null,
       "images": [
         {
@@ -363,7 +518,7 @@
       "originalUrl": "https://www.foxnews.com/tech/what-four-main-types-ai-find-future-ai-programs-change-world",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -403,7 +558,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -674,7 +830,7 @@
       "originalUrl": "https://www.foxnews.com/tech/facial-recognition-expanding-watchful-eye-suffers-notable-fails",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1122,162 +1278,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored.md",
-      "title": "Googlers say Bard AI is “worse than useless,” ethics concerns were ignored",
-      "excerpt": "From the outside, Google Bard looks like a rushed product to try to compete with ChatGPT, and some Google employees share those sentiments. A new report from Bloomberg interviews 18 current and former workers and came away with a pile of damning commentary and concerns about AI ethics teams that were \"disempowered and demoralized\" so Google could get Bard out the door.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/google-800x523.jpg",
-          "width": 760,
-          "height": 388,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/amp/",
-      "publishedDateTime": "2023-04-20T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-musk-counts-on-full-self-driving-as-next-tesla-profit-driver.md",
-      "title": "Musk counts on full self-driving as next Tesla profit driver",
-      "excerpt": "Elon Musk is counting on full-self driving and other new technologies and vehicles at Tesla Inc to provide the \"wow factor\" that will continue to drive the electric carmaker's value far beyond its automotive rivals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/elon-musk-pins-hopes-full-self-driving-teslas-next-profit-driver-2023-04-20/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/elon-musk-pins-hopes-full-self-driving-teslas-next-profit-driver-2023-04-20/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/YcLD5fOES_sah71H1pVHfpyp58k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWQOUJAWSZJC7ISK6ZUWNWL2VI.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-artificial-intelligence-ai-in-fintech-market-overview-and-scope-by-2031.md",
-      "title": "Artificial Intelligence (AI) in Fintech Market Overview and Scope By 2031",
-      "excerpt": "New Report (2023-2031) of 75 Pages: Global Artificial Intelligence (AI) in Fintech Market Status and Prospect A summary",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-overview-and-scope-by-2031-2023-04-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-overview-and-scope-by-2031-2023-04-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/saibala/2023/04/23/amazon--3m-will-use-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/04/23/amazon--3m-will-use-generative-ai-to-ease-documentation-for-healthcare-providers/amp/"
 type: article
 quality: 99
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Generative AI in Healthcare: Advantages, Challenges"
+    excerpt: "While generative artificial intelligence (AI) could benefit the ever-evolving healthcare industry, AI faces challenges in the healthcare sector. With generative AI, healthcare organizations could ..."
+    publishedDateTime: 2023-04-20T17:18:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-in-healthcare/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 84
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2021/11/joshua-sortino-LqKhnDzSF-8-unsplash-scaled.jpg"
+        width: 1920
+        height: 1283
+        isCached: true
   - title: "Researchers Leverage Generative AI to Improve Cancer Treatment Targets"
     excerpt: "Researchers from the University of Texas are studying the use of generative AI for adaptive radiotherapy to better personalize cancer treatments."
     publishedDateTime: 2023-04-24T13:29:00Z

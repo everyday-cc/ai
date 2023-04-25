@@ -2,6 +2,153 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-23-nvidia-stock-rides-the-iphone-moment-of-ai-to-add-87-billion-in-market-cap-through-the-banking-crisis.md",
+      "title": "Nvidia stock rides the 'iPhone moment of AI' to add $87 billion in market cap through the banking crisis",
+      "excerpt": "The iPhone moment of AI' The rally has been driven chiefly by investor perception that Nvidia is well positioned to take advantage of the ongoing boom in artificial intelligence technologies. The company is the No. 1 producer of graphics chips needed for ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-market-cap-ai-tech-shares-keynote-dgx-cloud-2023-3",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-market-cap-ai-tech-shares-keynote-dgx-cloud-2023-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/641b6480b7834100191adc97?width=1200&format=jpeg",
+          "width": 799,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-market-cap-ai-tech-shares-keynote-dgx-cloud-2023-3?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/nvidia-stock-market-cap-ai-tech-shares-keynote-dgx-cloud-2023-3?amp",
+      "publishedDateTime": "2023-03-23T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-nvidia-stock-hits-best-winning-streak-since-2007-as-ai-advantage-called-insurmountable.md",
+      "title": "Nvidia stock hits best winning streak since 2007 as AI advantage called ‘insurmountable’",
+      "excerpt": "On Tuesday, Nvidia founder and Chief Executive Jensen Huang announced a slew of products and services targeted at expanding AI development, including new chips and platforms specifically targeted at generative AI applications as well as AI video and image ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/nvidia-stock-hits-best-winning-streak-since-2007-as-ai-advantage-called-insurmountable-6b79a4e8",
+      "originalUrl": "https://www.marketwatch.com/story/nvidia-stock-hits-best-winning-streak-since-2007-as-ai-advantage-called-insurmountable-6b79a4e8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-609932/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidia-stock-hits-best-winning-streak-since-2007-as-ai-advantage-called-insurmountable-6b79a4e8",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-stock-hits-best-winning-streak-since-2007-as-ai-advantage-called-insurmountable-6b79a4e8",
+      "publishedDateTime": "2023-03-22T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-indian-origin-intel-gpu-chief-raja-koduri-quits-to-form-generative-ai-startup.md",
+      "title": "Indian-origin Intel GPU chief Raja Koduri quits to form generative AI startup",
+      "excerpt": "Indian-American Raja Koduri, head of Intel's Accelerated Computing Systems and Graphics Group, has quit the chip-making major to form his own generative artificial intelligence (AI) startup.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestatesman.com/technology/indian-origin-intel-gpu-chief-raja-koduri-quits-to-form-generative-ai-startup-1503165300.html",
+      "originalUrl": "https://www.thestatesman.com/technology/indian-origin-intel-gpu-chief-raja-koduri-quits-to-form-generative-ai-startup-1503165300.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestatesman.com/wp-content/uploads/2023/03/39d880d47802503de43bbed95e10de03.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestatesman.com/technology/indian-origin-intel-gpu-chief-raja-koduri-quits-to-form-generative-ai-startup-1503165300.html/amp",
+      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/indian-origin-intel-gpu-chief-raja-koduri-quits-to-form-generative-ai-startup-1503165300.html/amp",
+      "publishedDateTime": "2023-03-22T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Statesman",
+        "domain": "thestatesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-23-a-tough-stock-not-to-own-wall-street-endorses-club-name-nvidia-as-it-dominates-ai.md",
       "title": "'A tough stock not to own.' Wall Street endorses Club name Nvidia, as it dominates AI",
       "excerpt": "\"Generative AI is marking an inflection point for AI and we continue ... Nvidia (NVDA) has demonstrated this week that both its chips and budding software offerings are integral to the future of artificial intelligence, bolstering the Club case in the ...",
@@ -1289,153 +1436,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-on-device-ai-is-transforming-computing-for-hybrid-workforces.md",
-      "title": "On-device AI is transforming computing for hybrid workforces",
-      "excerpt": "Presented by Qualcomm Technologies Inc. Traditionally, laptop performance has been measured by CPU and GPU, but on-device AI processing is now a critical third measure. And that’s especially crucial for enterprise PCs as hybrid work challenges crystalize ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/on-device-ai-is-transforming-computing-for-hybrid-workforces/",
-      "originalUrl": "https://venturebeat.com/ai/on-device-ai-is-transforming-computing-for-hybrid-workforces/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/VB-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/on-device-ai-is-transforming-computing-for-hybrid-workforces/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/on-device-ai-is-transforming-computing-for-hybrid-workforces/amp/",
-      "publishedDateTime": "2023-03-17T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-qualcomm-launches-snapdragon-7-gen-2-chip-with-ai-enhanced-experience.md",
-      "title": "Qualcomm launches Snapdragon 7+ Gen 2 chip with AI-enhanced experience",
-      "excerpt": "The chipset offers an AI-enhanced experience with high-speed 5G and Wi-Fi connectivity. The Snapdragon 7+ Gen 2 provides an exceptional CPU and GPU performance which fuels swift, dynamic low-light photography, nonstop gaming and 4K HDR videography ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/technology/news/qualcomm-launches-snapdragon-7-gen-2-chip-with-ai-enhanced-experience-2023-03-17-855414",
-      "originalUrl": "https://www.indiatvnews.com/technology/news/qualcomm-launches-snapdragon-7-gen-2-chip-with-ai-enhanced-experience-2023-03-17-855414",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/03/qualcomm-snapdragon-pixabay-1679058726.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/qualcomm-launches-snapdragon-7-gen-2-chip-with-ai-enhanced-experience-2023-03-17-855414",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/qualcomm-launches-snapdragon-7-gen-2-chip-with-ai-enhanced-experience-2023-03-17-855414",
-      "publishedDateTime": "2023-03-17T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-baidu-shares-fall-after-ernie-ai-chatbot-demo-disappoints.md",
-      "title": "Baidu shares fall after Ernie AI chatbot demo disappoints",
-      "excerpt": "For months, the company had diverted internal resources to building Ernie, two people said, including reallocating most of Baidu’s servers running Nvidia’s powerful A100 chips to the AI team. OpenAI’s release of ChatGPT last November had caught Baidu ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/baidu.jpg",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1&amp",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1&amp",
-      "publishedDateTime": "2023-03-17T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

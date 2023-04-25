@@ -1,30 +1,22 @@
 ---
 category: news
 title: "AI system can generate novel proteins that meet structural design targets"
-excerpt: "MIT researchers are using artificial intelligence to design new proteins that go beyond those found in nature."
-publishedDateTime: 2023-04-20T15:00:00Z
-originalUrl: "https://phys.org/news/2023-04-ai-generate-proteins.html"
-webUrl: "https://phys.org/news/2023-04-ai-generate-proteins.html"
-ampWebUrl: "https://phys.org/news/2023-04-ai-generate-proteins.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-ai-generate-proteins.amp"
+excerpt: "The researchers from MIT, the MIT-IBM Watson AI Lab, and Tufts University employed a generative model, which is the same type of machine-learning model architecture used in AI systems like DALL-E 2."
+publishedDateTime: 2023-04-20T15:29:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/986534"
+webUrl: "https://www.eurekalert.org/news-releases/986534"
 type: article
-quality: 58
-heat: 68
+quality: 18
+heat: -1
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - IBM AI
   - AI
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/protein-folding.jpg"
-    width: 2880
-    height: 2366
-    isCached: true
 
 related:
   - title: "AI system can generate novel proteins that meet structural design targets"
@@ -37,6 +29,6 @@ related:
       domain: sciencedaily.com
     quality: 48
 
-secured: "Qf/uYuiqpEVOV+9ogCHcGEQIo5SEO/brGaR5gmyBbHbS2OJVQcF47vaMaFfSZAMC2aC0tEB4tkpz+Islle5VU3Y9BxOQgS4lnc17c8egwf84WOTZiKD6V0f2rMfWCYCCmE1vhiqtyRwkMDrH0RlGj/C4JcKkVsb/McmdXTPuKpEV/7C55e5+5CyPJ10AC87DUn3CHKaMIR3sCZk57GOV1zrvtoIOP1x+mLr+vvY7KjgHUJNdzyduw8U6Ng6l8Lu6hJxzTFIRpXkvH/bU4qaAaWS5dmBvEsWS09XRrlNBsup6guP1rwThvjQRUMTgGZfmNa3rIYW9Kz/UivSyppbVw3meop5LyE8NGpZiGOJMepkN/RGAhtzvAeervzSmeW4mvOCzLhoKOmJFleNQZERme6VUe43g5yS3qKZI7ttLBtt8bFZvpY7JBeXj/7+wMEpujofaJPUAFaxwSlaBNu8zcWKNognXrmhEk+G+404nZfjDQ2lw4PFusG4jeHrjm+di39dRPwsAhp3HB5gIZ8sEHg==;P/MuxBRtgyzjUnteEgulIg=="
+secured: "KaNrRDJFn500Xi/y1x0d+8wqWzRvCtgHlJJWOK6IFtpZRaszp2YuTe/f8mseGBNJuCLNpLLmCr3hvuk/+LLQ/wWJzeqImQ9lM5MlJXw9yYZBxaGdjvLbXY8GAFyFosNQmV2F9gT8cUYhMhSj5dvQ/wuAfkSkk4z11EdXY5uhCsDXHVL0abII+TOg86PiL9A+/3Y4wQ69IGJE2nrOewtegOEXouxJAgSMYlsDDX2RbGQJd3qYSrgzDUxw0z6D6suxgGUuLM/cZ8AlNwmV2MyS4XaCr27TDirEcblvKekV/TA8yKg0hnVOzaY7hsQbD1os3IXugs2+1ukDsGZ/lxmbQPGUValPHd/P89JZaAlZyGc=;oF55gPavRy2jXN89gglL3w=="
 ---
 

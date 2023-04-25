@@ -2,6 +2,117 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-03-03-nvidia-nasdaqnvda-riding-the-ai-chip-buzz.md",
+      "title": "Nvidia (NASDAQ:NVDA): Riding the AI Chip Buzz",
+      "excerpt": "The decline in the end market demand due to macroeconomic weakness and inventory issues dragged chip stocks lower, including Nvidia (NASDAQ:NVDA). However, the growing buzz around AI (Artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/nvidia-nasdaq:nvda:-riding-the-ai-chip-buzz",
+      "originalUrl": "https://www.nasdaq.com/articles/nvidia-nasdaq:nvda:-riding-the-ai-chip-buzz",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-chips-industry-goes-all-in-on-ai.md",
+      "title": "Chips industry goes all-in on AI",
+      "excerpt": "US firm Nvidia dominates the market in specialised chips known as GPUs, which happen to be ideal for training AI programmes like the wildly popular chatbot ChatGPT. \"Technology trends are working ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.france24.com/en/live-news/20230302-chips-industry-goes-all-in-on-ai",
+      "originalUrl": "https://www.france24.com/en/live-news/20230302-chips-industry-goes-all-in-on-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T07:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "France 24",
+        "domain": "france24.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-nvidias-latest-gpu-drivers-to-upscale-blurry-videos-via-ai.md",
+      "title": "Nvidia's Latest GPU Drivers To Upscale Blurry Videos Via AI",
+      "excerpt": "With RTX Video Super Resolution (VSR), GeForce RTX 40 and 30 Series GPU users can tap AI to upscale lower-resolution content up to 4K, matching their display resolution. The AI removes blocky compression artifacts and improves the video's sharpness and ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105693264/Nvidias-Latest-GPU-Drivers-To-Upscale-Blurry-Videos-Via-AI",
+      "originalUrl": "https://menafn.com/1105693264/Nvidias-Latest-GPU-Drivers-To-Upscale-Blurry-Videos-Via-AI",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-03/02/I_5f244image_story.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-02-south-korean-startup-rival-to-nvidia-seeks-400-million-valuation-and-plans-new-ai-chip.md",
       "title": "South Korean startup rival to Nvidia seeks $400 million valuation and plans new A.I. chip",
       "excerpt": "These AI chips are required for AI applications that require huge amounts of data processing. Currently, U.S. firm Nvidia dominates this market. But a number of established players such as AMD and ...",
@@ -1294,164 +1405,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-18-computing-pioneer-criticizes-chatgpt-ai-tech-for-making-things-up.md",
-      "title": "Computing Pioneer Criticizes ChatGPT AI Tech for Making Things Up",
-      "excerpt": "Vint Cerf, who helped create the internet's core network technology, hopes engineers can fix the flaws of artificial intelligence language processing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/computing-pioneer-criticizes-chatgpt-ai-tech-for-making-things-up/",
-      "originalUrl": "https://www.cnet.com/tech/computing/computing-pioneer-criticizes-chatgpt-ai-tech-for-making-things-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 409,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/74277ff8e0552e19d5df9b944a9aa5529f81f8df/hub/2023/02/14/9c07ecd4-37b7-4896-84eb-69193c678f97/20230213-vint-cerf.jpg?auto=webp",
-          "width": 2048,
-          "height": 1189,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/computing-pioneer-criticizes-chatgpt-ai-tech-for-making-things-up/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/computing-pioneer-criticizes-chatgpt-ai-tech-for-making-things-up/",
-      "publishedDateTime": "2023-02-18T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-02-18-as-interest-in-ai-surges-check-out-this-etf.md",
-      "title": "As Interest in AI Surges, Check Out This ETF",
-      "excerpt": "Investor interest in artificial intelligence (AI) is surging this year. Just as previously hot segments of tech like social media and",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/as-interest-in-ai-surges-check-out-this-etf-1032106962",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/as-interest-in-ai-surges-check-out-this-etf-1032106962",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/02/image-480.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 777,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-17T12:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-the-future-of-us-semiconductor-manufacturing-requires-more-than-just-chips.md",
-      "title": "The Future Of U.S. Semiconductor Manufacturing Requires More Than Just Chips",
-      "excerpt": "New models of collaboration that encourage increased cooperation across this electronics manufacturing innovation ecosystem are exactly what is needed to solve a multitude of semiconductor supply-chain problems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/17/the-future-of-us-semiconductor-manufacturing-requires-more-than-just-chips/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/17/the-future-of-us-semiconductor-manufacturing-requires-more-than-just-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/625d802e8acf449b7b041341/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/17/the-future-of-us-semiconductor-manufacturing-requires-more-than-just-chips/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/17/the-future-of-us-semiconductor-manufacturing-requires-more-than-just-chips/amp/",
-      "publishedDateTime": "2023-02-17T02:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

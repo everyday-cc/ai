@@ -96,6 +96,20 @@ related:
         width: 1200
         height: 847
         isCached: true
+  - title: "Siemens and Microsoft drive industrial productivity with generative artificial intelligence"
+    excerpt: "Siemens’ new Teamcenter app for Microsoft Teams to use AI, boosting productivity and innovation throughout a product lifecycle Azure OpenAI Service powered assistant can augment the creation, optimization and debugging of code in software for factory automation Industrial AI to enable visual quality inspection on the shop floor Siemens and Microsoft are harnessing the collaborative"
+    publishedDateTime: 2023-04-24T02:42:00Z
+    webUrl: "https://www.thaipr.net/en/it_en/3329588"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 44
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/04/IMG_8729-scaled-e1682331791394-768x431.jpg"
+        width: 768
+        height: 431
+        isCached: true
   - title: "The era of AI: How the Microsoft Cloud is accelerating AI transformation across industries"
     excerpt: "This past quarter has put a spotlight on advancements in generative AI, and the possibilities of its application to deliver pragmatic business outcomes. For organizations around the world, there is incredible opportunity to enhance products and services while unlocking innovation and business value to help shape the future of industry."
     publishedDateTime: 2023-04-24T15:11:00Z

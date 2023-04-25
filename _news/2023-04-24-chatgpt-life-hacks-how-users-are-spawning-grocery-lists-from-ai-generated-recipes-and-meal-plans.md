@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/lifestyle/chatgpt-life-hacks-spawning-grocer
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/chatgpt-life-hacks-spawning-grocery-lists-ai-generated-recipes-meal-plans.amp"
 type: article
 quality: 74
-heat: 74
+heat: 76
 published: true
 
 provider:

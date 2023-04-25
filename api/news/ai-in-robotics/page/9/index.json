@@ -2,6 +2,75 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-02-06-chinas-tianjin-to-hold-7th-world-intelligence-congress-in-may.md",
+      "title": "China's Tianjin to hold 7th World Intelligence Congress in May",
+      "excerpt": "A visitor interacts with a robot at the 6th World Intelligence Congress held in Tianjin, June 24, 2022. [Photo/Xinhua] TIANJIN - North China's Tianjin municipality is scheduled to hold the seventh World Intelligence Congress,",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202302/06/WS63e0fa40a31057c47ebad36a.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202302/06/WS63e0fa40a31057c47ebad36a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T05:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches.md",
+      "title": "Goa Using Self-Driving, AI-Powered Robots As Lifeguards On Beaches",
+      "excerpt": "In a first-of-its-kind innovation, Drishti Marine, Goa's state-appointed lifeguard organisation, has introduced artificial intelligence (AI) in the form of Aurus, a self-driving robot and Triton,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/india-news/goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches-3757599",
+      "originalUrl": "https://www.ndtv.com/india-news/goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches-3757599",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/india-news/goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches-3757599/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches-3757599/amp/1",
+      "publishedDateTime": "2023-02-06T04:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-goa-artificial-intelligence-powered-robots-to-be-used-to-save-lives-on-beaches.md",
       "title": "Goa: Artificial Intelligence-Powered Robots To Be Used To Save Lives On Beaches",
       "excerpt": "In a first-of-its-kind innovation, Drishti Marine, Goa's state-appointed lifeguard organisation, has introduced artificial intelligence (AI) in the form of Aurus. Read full story on Dynamite News:",
@@ -1153,101 +1222,6 @@
         "AI in Finance",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-the-wind-and-light-bring-a-fairy-like-robot-to-life.md",
-      "title": "The Wind and Light Bring a Fairy-like Robot to Life",
-      "excerpt": "Researchers at Tampere University have developed a polymer-assembly robot controlled by light and powered by wind.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/02/01/the-wind-and-light-bring-a-fairy-like-robot-to-life/",
-      "originalUrl": "https://www.gizmochina.com/2023/02/01/the-wind-and-light-bring-a-fairy-like-robot-to-life/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/02/the-wind-and-light-bring-a-fairy-like-robot-to-life.jpeg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2023/02/01/the-wind-and-light-bring-a-fairy-like-robot-to-life/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2023/02/01/the-wind-and-light-bring-a-fairy-like-robot-to-life/?amp=1",
-      "publishedDateTime": "2023-02-01T05:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-bizarre-robot-flies-revealed-and-they-could-replace-bees-and-save-humanity.md",
-      "title": "Bizarre ‘robot flies’ revealed, and they could replace bees and ‘save humanity’",
-      "excerpt": "RESEARCHERS have developed tiny robot \"flies\" that travel via wind and are controlled by light. The team, who hails from Tampere University in Finland, published their findings in the journal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.ie/tech/news-tech/10150954/bizarre-robot-flies-replace-bees-save-humanity/",
-      "originalUrl": "https://www.thesun.ie/tech/news-tech/10150954/bizarre-robot-flies-replace-bees-save-humanity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.ie/wp-content/uploads/sites/3/2023/02/aj-robot-flies-comp.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.ie/tech/news-tech/10150954/bizarre-robot-flies-replace-bees-save-humanity/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/news-tech/10150954/bizarre-robot-flies-replace-bees-save-humanity/amp/",
-      "publishedDateTime": "2023-01-31T17:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Irish Sun",
-        "domain": "thesun.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

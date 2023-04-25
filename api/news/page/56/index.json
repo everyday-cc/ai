@@ -2,6 +2,524 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2023-03-02-chips-industry-goes-all-in-on-ai.md",
+      "title": "Chips industry goes all-in on AI",
+      "excerpt": "US firm Nvidia dominates the market in specialised chips known as GPUs, which happen to be ideal for training AI programmes like the wildly popular chatbot ChatGPT. \"Technology trends are working ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.france24.com/en/live-news/20230302-chips-industry-goes-all-in-on-ai",
+      "originalUrl": "https://www.france24.com/en/live-news/20230302-chips-industry-goes-all-in-on-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T07:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "France 24",
+        "domain": "france24.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-how-cognitive-behavioral-therapy-tackles-communication.md",
+      "title": "How Cognitive Behavioral Therapy Tackles Communication",
+      "excerpt": "Communication is one of the major skills covered in cognitive behavioral therapy. Although therapy is often with an individual, relationship problems are a common focus of treatment. Helping ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/all-about-cognitive-and-behavior-therapy/202302/how-cognitive-behavioral-therapy-tackles",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/all-about-cognitive-and-behavior-therapy/202302/how-cognitive-behavioral-therapy-tackles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-02/Assertive_senior-g26db35f1e_1280.jpg?itok=DQVHFqPR",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/all-about-cognitive-and-behavior-therapy/202302/how-cognitive-behavioral-therapy-tackles?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/all-about-cognitive-and-behavior-therapy/202302/how-cognitive-behavioral-therapy-tackles?amp",
+      "publishedDateTime": "2023-03-02T07:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-use-tensorflowjs-in-a-react-native-app.md",
+      "title": "Use TensorFlow.js in a React Native app",
+      "excerpt": "Scan the QR code with a phone or other test device that has Expo Go installed. The example app should open in Expo Go. The screenshots below show the app detecting and rendering keypoints of the user's body. To understand how the TensorFlow.js libraries ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/js/tutorials/applications/react_native",
+      "originalUrl": "https://www.tensorflow.org/js/tutorials/applications/react_native",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/static/site-assets/images/project-logos/tensorflow-js-logo-social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T06:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night.md",
+      "title": "Athena AI, Teal 2 Drone: Computer Vision to Identify Weapons, Friends and Foes at Night",
+      "excerpt": "Red Cat Announces Athena AI as Computer Vision Partner for Teal 2 by DRONELIFE Staff Writer Ian M. Crosby Red Cat Holdings [NASDAQ:RCAT]  is held in the AdvisorShares Drone Technology ETF [NYSE ARCA:U",
+      "sourceUrl": null,
+      "webUrl": "https://dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/",
+      "originalUrl": "https://dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dronelife.com/wp-content/uploads/2023/03/Teal_2_View_1-e1677770216137.png",
+          "width": 612,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/amp/",
+      "cdnAmpWebUrl": "https://dronelife-com.cdn.ampproject.org/c/s/dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/amp/",
+      "publishedDateTime": "2023-03-02T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dronelife",
+        "domain": "dronelife.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-artificial-intelligence-ai-healthcare-market-to-hit-usd-9723bn-at-a-cagr-of-4051-percent-by-2029.md",
+      "title": "Artificial Intelligence (AI) Healthcare Market to hit USD 97.23Bn at a CAGR of 40.51 percent by 2029",
+      "excerpt": "Pune, March 02, 2023 (GLOBE NEWSWIRE) -- Maximize Market Research is a leading healthcare market research firm has published report on \"Artificial Intelligence (AI) Healthcare Market\". The report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/03/g31166902/artificial-intelligence-ai-healthcare-market-to-hit-usd-97-23bn-at-a-cagr-of-40-51-percent-by-2029",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/g31166902/artificial-intelligence-ai-healthcare-market-to-hit-usd-97-23bn-at-a-cagr-of-40-51-percent-by-2029",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31166902",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31166902",
+      "publishedDateTime": "2023-03-02T05:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-nvidias-latest-gpu-drivers-to-upscale-blurry-videos-via-ai.md",
+      "title": "Nvidia's Latest GPU Drivers To Upscale Blurry Videos Via AI",
+      "excerpt": "With RTX Video Super Resolution (VSR), GeForce RTX 40 and 30 Series GPU users can tap AI to upscale lower-resolution content up to 4K, matching their display resolution. The AI removes blocky compression artifacts and improves the video's sharpness and ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105693264/Nvidias-Latest-GPU-Drivers-To-Upscale-Blurry-Videos-Via-AI",
+      "originalUrl": "https://menafn.com/1105693264/Nvidias-Latest-GPU-Drivers-To-Upscale-Blurry-Videos-Via-AI",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-03/02/I_5f244image_story.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-artificial-intelligence-stresses-out-twitter-ceo-elon-musk-it-seems-heres-why.md",
+      "title": "Artificial Intelligence Stresses Out Twitter CEO Elon Musk It Seems; Here’s Why",
+      "excerpt": "Musk stated, \"AI stresses me out,\" towards the close of a more than three-hour presentation to Tesla investors about business goals.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/48224/artificial-intelligence-stresses-out-twitter-ceo-elon-musk-it-seems-heres-why",
+      "originalUrl": "https://in.mashable.com/tech/48224/artificial-intelligence-stresses-out-twitter-ceo-elon-musk-it-seems-heres-why",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/ab6b18dc-4853-42b1-a619-0d6c9a24c3b1_9t6k.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/48224/artificial-intelligence-stresses-out-twitter-ceo-elon-musk-it-seems-heres-why?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/48224/artificial-intelligence-stresses-out-twitter-ceo-elon-musk-it-seems-heres-why?amp=1",
+      "publishedDateTime": "2023-03-02T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-microsoft-launches-new-cognitive-speech-services-features-to-accelerate-language-learning.md",
+      "title": "Microsoft Launches New Cognitive Speech Services Features to Accelerate Language Learning",
+      "excerpt": "Microsoft Azure Cognitive Speech Services is a comprehensive collection of technologies and services such as Speech to Text, Text to Speech, custom neural voice (CNV) Conversation Transcription ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2023/03/microsoft-cognitive-new-speech/",
+      "originalUrl": "https://www.infoq.com/news/2023/03/microsoft-cognitive-new-speech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2023/03/microsoft-cognitive-new-speech/en/headerimage/generatedHeaderImage-1677605516513.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T03:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-cognitive-dissonance-how-it-might-affect-our-health.md",
+      "title": "Cognitive Dissonance: How It Might Affect Our Health?",
+      "excerpt": "It is not necessary that our beliefs and behaviour are always in alignment. This phenomenon is called cognitive dissonance when we are caught between two conflicting ideas, beliefs, values and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehealthsite.com/diseases-conditions/cognitive-dissonance-how-it-might-affect-our-health-958211/",
+      "originalUrl": "https://www.thehealthsite.com/diseases-conditions/cognitive-dissonance-how-it-might-affect-our-health-958211/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://st1.thehealthsite.com/wp-content/uploads/2023/03/cognitive-dissonance.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehealthsite.com/diseases-conditions/cognitive-dissonance-how-it-might-affect-our-health-958211/amp/",
+      "cdnAmpWebUrl": "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/cognitive-dissonance-how-it-might-affect-our-health-958211/amp/",
+      "publishedDateTime": "2023-03-02T03:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheHealthSite",
+        "domain": "thehealthsite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-south-korean-startup-rival-to-nvidia-seeks-400-million-valuation-and-plans-new-ai-chip.md",
+      "title": "South Korean startup rival to Nvidia seeks $400 million valuation and plans new A.I. chip",
+      "excerpt": "These AI chips are required for AI applications that require huge amounts of data processing. Currently, U.S. firm Nvidia dominates this market. But a number of established players such as AMD and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/03/01/sapeon-rival-to-nvidia-seeks-400-million-valuation-plans-new-ai-chip.html",
+      "originalUrl": "https://www.cnbc.com/2023/03/01/sapeon-rival-to-nvidia-seeks-400-million-valuation-plans-new-ai-chip.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T03:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-meet-the-10000-nvidia-chip-powering-the-race-for-ai.md",
+      "title": "Meet the $10,000 Nvidia chip powering the race for A.I.",
+      "excerpt": "During Wednesday’s fiscal fourth-quarter earnings report, although overall sales declined 21%, investors pushed the stock up about 14% on Thursday, mainly because the company’s AI chip ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/meet-10000-nvidia-chip-powering-race-rcna72155?icid=recommended",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/meet-10000-nvidia-chip-powering-race-rcna72155?icid=recommended",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T03:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-the-next-big-threat-to-ai-might-already-be-lurking-on-the-web.md",
+      "title": "The next big threat to AI might already be lurking on the web",
+      "excerpt": "Artificial intelligence experts warn attacks against datasets used to train machine-learning tools are worryingly cheap and could have major consequences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-next-big-threat-to-ai-might-already-be-lurking-on-the-web/",
+      "originalUrl": "https://www.zdnet.com/article/the-next-big-threat-to-ai-might-already-be-lurking-on-the-web/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/7ce6d28d03411b85db74dd7ef00660720d7bcb65/2023/03/01/4e822689-e40c-4dab-9017-06ed2a01bf89/concept-of-big-data-and-computer-programming.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-next-big-threat-to-ai-might-already-be-lurking-on-the-web/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-next-big-threat-to-ai-might-already-be-lurking-on-the-web/",
+      "publishedDateTime": "2023-03-02T03:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-03-02-motion-control-software-in-robotics-market-survey-report-2023-along-with-statistics-forecasts-till-2030-cagr-of-196-during-the-forecast-period.md",
       "title": "Motion Control Software In Robotics Market Survey Report 2023 Along With Statistics, Forecasts Till 2030 CAGR Of 19.6% During The Forecast Period",
       "excerpt": "The Global Motion Control Software in Robotics Market size is estimated to be worth around US$ 10.81 Bn in 2022. It is anticipated to grow at an impressive CAGR of 19.6% between 2022 and 2029 ...",
@@ -606,583 +1124,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-mediterranean-diet-may-prevent-cognitive-issues-for-people-with-ms.md",
-      "title": "Mediterranean diet may prevent cognitive issues for people with MS",
-      "excerpt": "The finding suggests that the diet – which features fresh produce, seafood, nuts, olive oil and minimal red meat and sugar – may prevent or even treat cognitive symptoms related to the condition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2361966-mediterranean-diet-may-prevent-cognitive-issues-for-people-with-ms/",
-      "originalUrl": "https://www.newscientist.com/article/2361966-mediterranean-diet-may-prevent-cognitive-issues-for-people-with-ms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2023/02/28215538/SEI_146255933.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T17:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-firm-ranks-leading-self-driving-companies-tesla-came-in-last.md",
-      "title": "Firm ranks leading self-driving companies: Tesla came in last",
-      "excerpt": "Baidu, and Cruise. Tesla was named the only \"follower\" given its low ratings in automated-driving execution and strategy. The company has long come under fire for its \"Full Self-Driving\" and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/2023/03/02/experts-ranked-the-leading-self-driving-companies-tesla-didn-t-even-crack-the-top-10/",
-      "originalUrl": "https://www.autoblog.com/2023/03/02/experts-ranked-the-leading-self-driving-companies-tesla-didn-t-even-crack-the-top-10/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://media.zenfs.com/en/insider_articles_922/7b7bbc9f44dfc78f4a81536d86d99709",
-          "width": 1062,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoblog.com/amp/2023/03/02/experts-ranked-the-leading-self-driving-companies-tesla-didn-t-even-crack-the-top-10/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/03/02/experts-ranked-the-leading-self-driving-companies-tesla-didn-t-even-crack-the-top-10/",
-      "publishedDateTime": "2023-03-01T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast.md",
-      "title": "How will artificial intelligence reshape our world? | The Ethical Life podcast",
-      "excerpt": "The hosts discuss the promises and pitfalls of this new technology, which is nearly certain to change the way we interact with each other.",
-      "sourceUrl": null,
-      "webUrl": "https://trib.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_4f0cd688-a294-5d1b-aad8-c741806100e4.html",
-      "originalUrl": "https://trib.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_4f0cd688-a294-5d1b-aad8-c741806100e4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/4/f0/4f0cd688-a294-5d1b-aad8-c741806100e4/63ff740138a57.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
-          "width": 1196,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T15:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Casper Star-Tribune",
-        "domain": "trib.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-first-robotics-competition-returns-to-utah-local-students-take-part.md",
-      "title": "FIRST Robotics Competition returns to Utah; local students take part",
-      "excerpt": "This week, high school students from around the nation will go head-to-head in the Utah Regional FIRST Robotics Competition at the Maverik Center.",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc4.com/news/local-news/first-robotics-competition-returns-to-utah-local-students-take-part/",
-      "originalUrl": "https://www.abc4.com/news/local-news/first-robotics-competition-returns-to-utah-local-students-take-part/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abc4.com/wp-content/uploads/sites/4/2023/03/FIRSTRoboticsCompetition_ABC4_2023.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.abc4.com/news/local-news/first-robotics-competition-returns-to-utah-local-students-take-part/amp/",
-      "cdnAmpWebUrl": "https://www-abc4-com.cdn.ampproject.org/c/s/www.abc4.com/news/local-news/first-robotics-competition-returns-to-utah-local-students-take-part/amp/",
-      "publishedDateTime": "2023-03-01T15:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "abc4.com",
-        "domain": "abc4.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-alphabets-self-driving-car-unit-has-cut-8-of-its-staff-this-year.md",
-      "title": "Alphabet’s self-driving car unit has cut 8% of its staff this year",
-      "excerpt": "Waymo, the self-driving car division of Google's parent company Alphabet, said on Wednesday that it has cut approximately 8% of its staff across two rounds of layoffs this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/03/01/tech/waymo-layoffs/index.html",
-      "originalUrl": "https://www.cnn.com/2023/03/01/tech/waymo-layoffs/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230301160548-waymo-file-2018-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/03/01/tech/waymo-layoffs/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/03/01/tech/waymo-layoffs/index.html",
-      "publishedDateTime": "2023-03-01T14:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-nvidia-report-telco-transformation-requires-artificial-intelligence.md",
-      "title": "NVIDIA Report: Telco Transformation Requires Artificial Intelligence",
-      "excerpt": "The theme of the event is telco transformation – as it has been for some time. Clearly, the evolution of telcos is",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/networking/nvidia-telco-transformation-artificial-intelligence/",
-      "originalUrl": "https://www.eweek.com/networking/nvidia-telco-transformation-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/11/best-data-virtualization-tools.jpg",
-          "width": 1400,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T14:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge.md",
-      "title": "Nvidia’s new AI upscaling tech makes low-res videos look sharper in Chrome, Edge",
-      "excerpt": "Nvidia's latest GPU driver introduces its new AI-based upscaling technique for making lower-resolution videos streamed offline look better on a high-resolution display. Now available via the GeForce driver 531.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/03/nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/03/nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/geforce-rtx-3090-product-gallery-inline-850-32x_345947f0-a017-4ca6-8019-2dc97a0d777f-prv-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/03/nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/03/nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge/amp/",
-      "publishedDateTime": "2023-03-01T13:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-waymo-cuts-jobs-as-parent-company-alphabet-focuses-on-ai.md",
-      "title": "Waymo Cuts Jobs as Parent Company Alphabet Focuses on AI",
-      "excerpt": "Waymo, Alphabet Inc.’s driverless-vehicle unit, cut dozens of jobs as its parent company moves to control spending and focus more tightly on artificial intelligence. Waymo confirmed the staff ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-03-01/waymo-cuts-jobs-as-parent-company-alphabet-focuses-on-ai",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-03-01/waymo-cuts-jobs-as-parent-company-alphabet-focuses-on-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4su8sJ8f2ho/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T12:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-ai-generated-audio-of-joe-biden-and-donald-trump-trashtalking-while-gaming-is-taking-over-tiktok.md",
-      "title": "AI-generated audio of Joe Biden and Donald Trump trashtalking while gaming is taking over TikTok",
-      "excerpt": "Profanity-filled AI deepfakes of Biden and Trump chatting while gaming are very funny. But how voice AI will be used in 2024 is a more open question.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/voice-ai-audio-joe-biden-donald-trump-tiktok-2023-3",
-      "originalUrl": "https://www.businessinsider.com/voice-ai-audio-joe-biden-donald-trump-tiktok-2023-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63ff8c2ebb1d0b0018876762?width=1200&format=jpeg",
-          "width": 1199,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/voice-ai-audio-joe-biden-donald-trump-tiktok-2023-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/voice-ai-audio-joe-biden-donald-trump-tiktok-2023-3?amp",
-      "publishedDateTime": "2023-03-01T11:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-venture-investor-b-capital-raises-first-healthcare-fund.md",
-      "title": "Venture Investor B Capital Raises First Healthcare Fund",
-      "excerpt": "The firm has raised about $250 million for the healthcare-only vehicle and plans to devote about $250 million more to medical investments through a diversified growth fund.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/venture-investor-b-capital-raises-first-healthcare-fund-589bd57c",
-      "originalUrl": "https://www.wsj.com/articles/venture-investor-b-capital-raises-first-healthcare-fund-589bd57c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T10:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-youtubes-new-head-talks-2023-priorities-including-ai-podcasting-shorts-and-more.md",
-      "title": "YouTube’s new head talks 2023 priorities, including AI, podcasting, Shorts and more",
-      "excerpt": "YouTube's new head Neal Mohan penned his first letter today to creators indicating that the company will roll out generative AI tools.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/01/youtubes-new-head-looks-forward-to-supporting-creators-though-different-formats/",
-      "originalUrl": "https://techcrunch.com/2023/03/01/youtubes-new-head-looks-forward-to-supporting-creators-though-different-formats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/02/alexander-shatov-niUkImZcSP8-unsplash.jpg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/01/youtubes-new-head-looks-forward-to-supporting-creators-though-different-formats/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/01/youtubes-new-head-looks-forward-to-supporting-creators-though-different-formats/amp/",
-      "publishedDateTime": "2023-03-01T10:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-openai-debuts-whisper-api-for-speech-to-text-transcription-and-translation.md",
-      "title": "OpenAI debuts Whisper API for speech-to-text transcription and translation",
-      "excerpt": "OpenAI is rolling out the Whisper API, a hosted version of the open source speech-to-text model that the company released in late 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/01/openai-debuts-whisper-api-for-text-to-speech-transcription-and-translation/",
-      "originalUrl": "https://techcrunch.com/2023/03/01/openai-debuts-whisper-api-for-text-to-speech-transcription-and-translation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/mic-feature-1.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/01/openai-debuts-whisper-api-for-text-to-speech-transcription-and-translation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/01/openai-debuts-whisper-api-for-text-to-speech-transcription-and-translation/amp/",
-      "publishedDateTime": "2023-03-01T10:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

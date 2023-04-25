@@ -62,7 +62,7 @@
       "originalUrl": "https://tech.hindustantimes.com/tech/news/ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories-71682272340109.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -240,6 +240,92 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-cellular-data-controlled-robot.md",
+      "title": "Cellular Data Controlled Robot",
+      "excerpt": "[Jatinderjit] sent along the latest in LEGO robotics. The cell phone controlled robot. It’s based on a LEGO Excavator kit with a few spare parts via ebay. The controller is a Nokia phone running ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2008/02/02/cellular-data-controlled-robot/",
+      "originalUrl": "https://hackaday.com/2008/02/02/cellular-data-controlled-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://hackaday.com/wp-content/uploads/2008/02/cell-bot-nokia.jpg",
+          "width": 262,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-this-might-be-what-the-chatgpt-humanoid-robot-will-look-like.md",
+      "title": "This might be what the ChatGPT humanoid robot will look like",
+      "excerpt": "These images provide clues as to how ChatGPT will look if its creators make a physical version of their hugely popular artificial intelligence ... OpenAI's Startup Fund led an investment round ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11989731/Is-ChatGPT-robot-look-like.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11989731/Is-ChatGPT-robot-look-like.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2023/04/19/15/70003963-0-image-a-5_1681915643563.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11989731/amp/Is-ChatGPT-robot-look-like.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11989731/amp/Is-ChatGPT-robot-look-like.html",
+      "publishedDateTime": "2023-04-19T14:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1282,110 +1368,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-carbon-robotics-lands-30m-to-sell-more-weed-destroying-machines-powered-by-ai.md",
-      "title": "Carbon Robotics lands $30M to sell more weed-destroying machines powered by AI",
-      "excerpt": "The LaserWeeder from Seattle startup Carbon Robotics zaps weeds using a high-powered lasers powered by AI and cameras. (Carbon Photos) Turns out that farmers like using lasers to kill weeds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/carbon-robotics-lands-30m-to-sell-more-weed-destroying-machines-powered-by-ai/",
-      "originalUrl": "https://www.geekwire.com/2023/carbon-robotics-lands-30m-to-sell-more-weed-destroying-machines-powered-by-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/04/LaserWeeder-in-the-Field.png",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T22:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-motion-control-software-in-robotics-market-growth-strategies-2029.md",
-      "title": "Motion Control Software in Robotics Market Growth Strategies 2029",
-      "excerpt": "Apr 11, 2023 (The Expresswire) -- [124 Insights] “Motion Control Software in Robotics Market” Size 2023 Key players Profiled in the Report are [Company 1, Company 2, Company 3, Company 4 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/motion-control-software-in-robotics-market-growth-strategies-2029-2023-04-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/motion-control-software-in-robotics-market-growth-strategies-2029-2023-04-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T16:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

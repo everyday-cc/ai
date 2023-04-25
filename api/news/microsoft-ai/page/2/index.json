@@ -2,6 +2,126 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-11-microsoft-azure-enlists-generative-ai-to-help-pentagon-look-for-satellite-imagery.md",
+      "title": "Microsoft Azure enlists generative AI to help Pentagon look for satellite imagery",
+      "excerpt": "Microsoft Azure Space recently showed the U.S. military how an application beefed up with AI could do just that. The daylong demonstration, which was conducted for the Defense Innovation Unit’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/microsoft-azure-chatbot-pentagon-satellite-imagery/",
+      "originalUrl": "https://www.geekwire.com/2023/microsoft-azure-chatbot-pentagon-satellite-imagery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/04/230411-antenna.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-11T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-08-azure-previews-nd-h100-v5-virtual-machines-to-accelerate-generative-ai.md",
+      "title": "Azure Previews ND H100 V5 Virtual Machines to Accelerate Generative AI",
+      "excerpt": "Azure recently announced the preview of the ND H100 v5, virtual machines that integrate the latest Nvidia H100 Tensor Core GPUs and support Quantum-2 InfiniBand networking. According to Microsoft, the new option will offer AI developers improved performance and scaling across thousands of GPUs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2023/04/azure-nd-H100-nvidia/",
+      "originalUrl": "https://www.infoq.com/news/2023/04/azure-nd-H100-nvidia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-08T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-renesas-cellular-to-cloud-development-kits-now-connect-seamlessly-to-microsoft-azure-cloud-services.md",
+      "title": "Renesas Cellular-to-Cloud Development Kits Now Connect Seamlessly to Microsoft Azure Cloud Services",
+      "excerpt": "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that its cellular-to-cloud development kits powered by Renesas' 32-bit microcontrollers (MCUs) now fully support Microsoft's popular Azure cloud services.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/04/06/9790319.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/04/06/9790319.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-06-cognitive-services-global-market-report-2023.md",
       "title": "Cognitive Services Global Market Report 2023",
       "excerpt": "Cognitive services are a set of tools and frameworks ... For instance, in May 2022, Microsoft Corporation, a US-based technology company expanded the Azure OpenAI service with the help of InstructGPT.",
@@ -1264,149 +1384,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-7-signs-youre-experiencing-cognitive-dissonance.md",
-      "title": "7 Signs You’re Experiencing Cognitive Dissonance",
-      "excerpt": "MOST OF US have experienced conflicting beliefs at one time or another. For instance, you know that drinking too much alcohol is bad for your health, but you pour yourself a second glass of wine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.menshealth.com/health/a43373873/7-signs-youre-experiencing-cognitive-dissonance/",
-      "originalUrl": "https://www.menshealth.com/health/a43373873/7-signs-youre-experiencing-cognitive-dissonance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-23T12:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Men's Health",
-        "domain": "menshealth.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-our-pick-of-the-best-artificial-intelligence-ai-stocks-and-shares.md",
-      "title": "Our Pick Of The Best Artificial Intelligence (AI) Stocks and Shares",
-      "excerpt": "While rumors of Google’s death might be greatly exaggerated, what’s clear is that Microsoft will no doubt benefit from the AI revolution due to the tools and services offered by its Azure cloud computing platform.” Its share price hit an all-time ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/in/investing/best-artificial-intelligence-ai-stocks-shares/",
-      "originalUrl": "https://www.forbes.com/advisor/in/investing/best-artificial-intelligence-ai-stocks-shares/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/03/pexels-alex-knight-2599244-1-scaled.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-23T05:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare",
-        "AI Hardware",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms.md",
-      "title": "NVIDIA Bets Big On Public Cloud To Deliver Its AI Supercomputing And Omniverse Platforms",
-      "excerpt": "Machine learning PaaS providers including Google Cloud Vertex AI ... Google Cloud customers can also access L4 GPU through the Vertex AI ML PaaS. Microsoft Azure becomes the first public cloud to deliver NVIDIA’s Omniverse as a platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641c3a70b6a0326ff9054838/0x0.jpg?format=jpg&width=1200",
-          "width": 1000,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/amp/",
-      "publishedDateTime": "2023-03-23T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

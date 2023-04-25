@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jodiecook/2023/04/24/the-rise-of-ai-ent
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/04/24/the-rise-of-ai-entrepreneurs-how-technology-is-creating-new-opportunities/amp/"
 type: article
 quality: 83
-heat: 83
+heat: 85
 published: true
 
 provider:

@@ -71,20 +71,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Siemens and Microsoft drive industrial productivity with generative artificial intelligence"
-    excerpt: "Siemens' new Teamcenter app for Microsoft Teams to use AI, boosting productivity and innovation throughout a product lifecycle Azure OpenAI Service powered assistant can augment the creation, optimiza"
-    publishedDateTime: 2023-04-23T23:43:00Z
-    webUrl: "https://www.ryt9.com/en/prg/267476"
-    type: article
-    provider:
-      name: RYT9
-      domain: ryt9.com
-    quality: 44
-    images:
-      - url: "https://www.ryt9.com/img/files/20230424/iq164e066a342eb4a5676f8b5172ae5e00.jpg"
-        width: 1500
-        height: 841
-        isCached: true
   - title: "AI Is Coming for Wealth Management. Here’s What That Means"
     excerpt: "AI will allow the client to access an incredible amount of information and ask questions in a language that the client is comfortable with and receive answers. For practitioners, the limitation it will have will be in researching what is happening today with that company,"
     publishedDateTime: 2023-04-24T13:33:00Z

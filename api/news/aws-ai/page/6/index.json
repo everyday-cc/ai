@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-02-04-amazons-ai-is-helping-the-police-watch-you.md",
+      "title": "Amazon's AI Is Helping the Police Watch You",
+      "excerpt": "Amazon markets the AI, called Rekognition, for a variety of applications from the innocuous (allowing videos to be searchable by the people and objects that appear in them) to more concerning applications, such as real-time tracking and security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Traffic%20cameras.jpg",
+          "width": 1280,
+          "height": 856,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-03-how-aws-helps-lovisa-improve-personalised-shopping-experiences.md",
       "title": "How AWS helps Lovisa improve personalised shopping experiences",
       "excerpt": "Australia has a strong history of technical innovation, and the launch of a second AWS Region in Australia provides even greater resilience and enables more customers to develop cloud-based applications that help fuel economic development across the country,",
@@ -1425,40 +1468,6 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-what-does-it-really-take-to-be-a-leader-when-it-comes-to-cloud-databases.md",
-      "title": "What does it really take to be a leader when it comes to cloud databases?",
-      "excerpt": "Or it could be that Gartner positioned AWS highest in execution and furthest in vision in its 2022 Magic Quadrant for Cloud DBMS. In fact, both points support each other, says the company. AWS has become a leader in the cloud-native database market precisely because it pays such close attention to what customers need from their database infrastructure,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2023/01/10/what_does_it_really_take/?td=rt-9bq",
-      "originalUrl": "https://www.theregister.com/2023/01/10/what_does_it_really_take/?td=rt-9bq",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

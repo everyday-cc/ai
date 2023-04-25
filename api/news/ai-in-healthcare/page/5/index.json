@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-02-24-how-big-business-is-integrating-artificial-intelligence-at-a-rapid-pace-while-gaining-competitive-advantages.md",
+      "title": "How Big Business is Integrating Artificial Intelligence at a Rapid Pace While Gaining Competitive Advantages",
+      "excerpt": "The higher demand for automated and technologically advanced hardware and software products across various end-use verticals and the favorable government policies that encourages the industries in North America to adopt artificial intelligence has significantly contributed towards the growth of the artificial intelligence market.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/02/24/9766176.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/02/24/9766176.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-24T07:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-24-artificial-intelligence-in-drug-discovery-market-size-2023-business-strategies-growth-analysis-regional-demand-2031-forecast-research-report.md",
       "title": "Artificial Intelligence in Drug Discovery Market Size 2023 Business Strategies, Growth Analysis, Regional Demand, 2031 Forecast Research Report",
       "excerpt": "The artificial intelligence (AI) in drug discovery market size is expected to reach USD 4.13 billion by 2028 according to a new study by Report Ocean. Report Ocean presents a new report on artificial intelligence (AI) in drug discovery market size,",
@@ -1422,59 +1456,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-15-healthcare-ai-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2029.md",
-      "title": "Healthcare AI Market Insights-Industry changing aspects, New Technologies and Forecast to 2029",
-      "excerpt": "Top Healthcare AI Companies (Koninklijke Philips N.V, NVIDIA Corporation, General Vision, Next IT Corp, CloudMedx Inc, IBM Watson Health, GENERAL ELECTRIC, Stryker, DEEP GENOMICS, Intel Corporation, Google, Microsoft Corporation) with the best facts and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2029-2023-02-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2029-2023-02-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-14T23:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

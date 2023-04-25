@@ -2,27 +2,25 @@
 category: news
 title: "Deepfake porn could be a growing problem amid AI race"
 excerpt: "Research into deepfake porn is not prevalent, but one report released in 2019 by the AI firm DeepTrace Labs ... which includes Facebook, Instagram and Messenger. Meta spokesperson Dani Lever ..."
-publishedDateTime: 2023-04-16T16:43:00Z
-originalUrl: "https://thegrio.com/2023/04/16/deepfake-porn-ai/"
-webUrl: "https://thegrio.com/2023/04/16/deepfake-porn-ai/"
-ampWebUrl: "https://thegrio.com/2023/04/16/deepfake-porn-ai/amp/"
-cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2023/04/16/deepfake-porn-ai/amp/"
+publishedDateTime: 2023-04-16T15:31:00Z
+originalUrl: "https://www.clickondetroit.com/business/2023/04/16/deepfake-porn-could-be-a-growing-problem-amid-ai-race/"
+webUrl: "https://www.clickondetroit.com/business/2023/04/16/deepfake-porn-could-be-a-growing-problem-amid-ai-race/"
 type: article
 
 provider:
-  name: The Grio
-  domain: thegrio.com
+  name: clickondetroit.com
+  domain: clickondetroit.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://thegrio.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-    width: 735
-    height: 552
+  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/LEJTYZBG2VC6FFWEGO2D3DKEFA.jpg?_a=ATCqVhC0"
+    width: 700
+    height: 467
     isCached: true
 
-secured: "2SiJR4CgxsiEHx9BxsUvMcckdsIszYLEK3qp+jqBeAu1YMxoMFoFVX6sC0NeUv8tOv9znpB/rUPhrdKsg8r1LC2g6BGTIg49TvNugEQT8PrPYnRz8bWLsFKORcW7h6Z02NfoPrnOgSyyA1l1yDfqHpdZRGQG7C4X0E6edesbt3qs2rWZyEeA+7ZDQ/sWn6MW/RM0SVPpPD1tKuKwJeSBs+85QAx9mt9sKSz/eGoAy6+xR1n27MO/hagJODbTy/B5Jyo3LPMsBQCNJf/sH73rGpb85Vas3XG5eYNPGb0AQRKcS1JtLg7KmG2g0R5IEOdWiWIX8GcM8gCD+dfOg2B07P6YyYNAW9zKU3ADxlJ3bPY=;0g0iGFSs8Npm38BcarkC+A=="
+secured: "8KtsBto5rlD1s4YH3DeqETSVkrsLPZUOBLmVBV6y59KIVzXpZd92pO81KjlL5lz/iKH6o8KaZWuvGf7KhBUP+RTbSoH57PgGuP45xVI04YvSv2R3oapJFkvZmwCHvYM+WUVXY6X5n2VfBlWfJ0mTg+WBSEMCz3UHhrnnLnXABYDfGN4fqx0xD91NhHq4VsA9HgqJEmZ99Ol/K93SlZ899xEkeTTHL0RbOXDHcQYiBWGmrS38Je8FDbZYplLimLzSEfPUSDA5Fb4qUhINmjCXYmsvEGiKMAjDVBuBNLAkp3aQyW61+bsXyONdNq82/k6hMmYpFg1PcojTUNy8FdFczlZZaQIBs2sjL1rRjd5kHwA=;3vizLF2/yYYgPZEJIAMucQ=="
 ---
 

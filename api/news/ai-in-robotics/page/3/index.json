@@ -2,6 +2,113 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-31-goldman-sachs-predicts-300-million-jobs-will-be-lost-or-degraded-by-artificial-intelligence.md",
+      "title": "Goldman Sachs Predicts 300 Million Jobs Will Be Lost Or Degraded By Artificial Intelligence",
+      "excerpt": "While the startup ecosystem has stalled due to adverse economic ... to wage declines among blue-collar workers replaced or degraded by automation. Artificial intelligence, robotics and new sophisticated technologies have caused a vast chasm in wealth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2023/03/31/goldman-sachs-predicts-300-million-jobs-will-be-lost-or-degraded-by-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2023/03/31/goldman-sachs-predicts-300-million-jobs-will-be-lost-or-degraded-by-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/615077097475eceab8f6ae3e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2023/03/31/goldman-sachs-predicts-300-million-jobs-will-be-lost-or-degraded-by-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/03/31/goldman-sachs-predicts-300-million-jobs-will-be-lost-or-degraded-by-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-03-31T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-31-could-this-self-driving-ev-charging-robot-be-a-game-changer.md",
+      "title": "Could this self-driving EV charging robot be a game changer?",
+      "excerpt": "The orange-and-white automatic self-drive EV charging robot is waterproof and shockproof, and it’s got deep learning, 5G, V2X, simultaneous localization and mapping, and other tech capabilities. China-based NaaS says the robot can complete the charging ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2023/03/31/self-driving-ev-charging-robot/",
+      "originalUrl": "https://electrek.co/2023/03/31/self-driving-ev-charging-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/03/NaaS-EV-mobile-charging-robot.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-31T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-03-31-the-case-for-how-and-why-ai-might-kill-us-all.md",
       "title": "The case for how and why AI might kill us all",
       "excerpt": "Some believe AI is flat-out going to wipe out all of biological life at ... inspired by the way the human brain connects concepts. It worked with Microsoft Azure to build the hardware to run it, then fed it billions and billions of bits of human text ...",
@@ -1360,101 +1467,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-brain-computer-interface-enables-mind-control-of-robot-dog.md",
-      "title": "Brain-Computer Interface Enables Mind Control of Robot Dog",
-      "excerpt": "A new peer-reviewed study published in ACS Applied Nano Materials demonstrates a new type of AI-enabled brain-machine interface (BMI) featuring noninvasive biosensor nanotechnology and augmented reality that enables humans to use thoughts to control robots with a high degree of accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/pic77155.jpg?itok=kEySPcAo",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog?amp",
-      "publishedDateTime": "2023-03-21T17:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-nvidia-eases-the-complexity-of-robot-training.md",
-      "title": "NVIDIA Eases The Complexity Of Robot Training",
-      "excerpt": "GPU market leader NVIDIA is holding its virtual GPU Technology Conference (GTC). Over the years, GTC has evolved from a graphics and gaming show to an industry event dedicated to all things artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/nvidia-robot-training/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/nvidia-robot-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-Database-05-1088x725-1.jpg",
-          "width": 1088,
-          "height": 725,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

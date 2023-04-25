@@ -2,6 +2,628 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2023-02-17-its-always-sunny-inside-a-generative-ai-conference.md",
+      "title": "It’s Always Sunny Inside a Generative AI Conference",
+      "excerpt": "AI-powered chatbots will only make us more efficient, according to the companies selling said AI-powered chatbots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/jasper-generative-ai-conference-2023/",
+      "originalUrl": "https://www.wired.com/story/jasper-generative-ai-conference-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63ee93cc1b87b32b35988c95/master/pass/Gear_Gen-AI-attendees-take-part-in-Jasper-Art-immersive-experience-at-Gen-AI-at-Pier-27-in-San-Francisco.-Photo-courtesy-of-Jasper.jpg",
+          "width": 2400,
+          "height": 1597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/jasper-generative-ai-conference-2023/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/jasper-generative-ai-conference-2023/amp",
+      "publishedDateTime": "2023-02-16T14:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-12-best-artificial-intelligence-ai-stocks-to-buy-for-2023.md",
+      "title": "12 Best Artificial Intelligence (AI) Stocks To Buy For 2023",
+      "excerpt": "There’s more than one way to position your portfolio to benefit from a continuing AI revolution. You can invest in companies that build AI hardware, develop AI solutions or sell AI tools. Or, you can invest in companies that use AI to make better products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/",
+      "originalUrl": "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63eeaae555e0f25c5c2ed0f6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T13:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI",
+        "AI in Autos",
+        "AI in Robotics",
+        "AI Hardware",
+        "AI in Healthcare",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-this-week-in-xr-ai-supplants-metaverse-web3-bigscreen-unveils-sleek-vr-headset.md",
+      "title": "This Week In XR: AI Supplants Metaverse, Web3, Bigscreen Unveils Sleek VR Headset",
+      "excerpt": "Indeed, the question could be asked of Crypto and Web3, all of whom are descending the “slope of disillusion” on Gartner Hype Cycle, on their way from “peak of elevated expectations” to the “trough of disillusion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2023/02/16/this-week-in-xr-ai-supplants-metaverse-web3-bigscreen-unveils-sleek-vr-headset/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/02/16/this-week-in-xr-ai-supplants-metaverse-web3-bigscreen-unveils-sleek-vr-headset/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6205919fb4af7b6f499ea195/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 591,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/02/16/this-week-in-xr-ai-supplants-metaverse-web3-bigscreen-unveils-sleek-vr-headset/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/02/16/this-week-in-xr-ai-supplants-metaverse-web3-bigscreen-unveils-sleek-vr-headset/amp/",
+      "publishedDateTime": "2023-02-16T13:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-is-artificial-intelligence-good-for-society.md",
+      "title": "Is Artificial Intelligence Good For Society?",
+      "excerpt": "Artificial intelligence (AI) has captivated the world, with exciting new publicly available AI-driven tools like ChatGPT, Dall-E, a new version of Microsoft’s Bing search engine and an ego-bruised Google trying to catch up. Someone with basic computer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/02/16/is-artificial-intelligence-good-for-society/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/16/is-artificial-intelligence-good-for-society/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ee9ef21fd62838a9ed2985/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/02/16/is-artificial-intelligence-good-for-society/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/16/is-artificial-intelligence-good-for-society/amp/",
+      "publishedDateTime": "2023-02-16T12:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-why-chatbots-sometimes-act-weird-and-spout-nonsense.md",
+      "title": "Why Chatbots Sometimes Act Weird and Spout Nonsense",
+      "excerpt": "Let’s step back. The Bing chatbot is powered by a kind of artificial intelligence called a neural network. That may sound like a computerized brain, but the term is misleading. A neural network ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/02/16/technology/chatbots-explained.html",
+      "originalUrl": "https://www.nytimes.com/2023/02/16/technology/chatbots-explained.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/16AI-ANSWERS-01-qjbk/16AI-ANSWERS-01-qjbk-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/02/16/technology/chatbots-explained.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/02/16/technology/chatbots-explained.amp.html",
+      "publishedDateTime": "2023-02-16T12:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-16-scaling-large-language-model-llm-training-with-amazon-ec2-trn1-ultraclusters.md",
+      "title": "Scaling Large Language Model (LLM) training with Amazon EC2 Trn1 UltraClusters",
+      "excerpt": "Modern model pre-training often calls for larger cluster deployment to reduce time and cost. At the server level, such training workloads demand faster compute and increased memory allocation. As models grow to hundreds of billions of parameters, they require a distributed training mechanism that spans",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scaling-large-language-model-llm-training-with-amazon-ec2-trn1-ultraclusters/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/scaling-large-language-model-llm-training-with-amazon-ec2-trn1-ultraclusters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/16/scaling-large-language-models.jpg",
+          "width": 1564,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T11:21:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-tesla-recalls-362000-vehicles-over-full-self-driving-software-issue.md",
+      "title": "Tesla Recalls 362,000 Vehicles Over Full Self-Driving Software Issue",
+      "excerpt": "Zach's grandparents Tesla recalled over 362,000 vehicles because the Full Self-Driving software on these vehicles may cause accidents, the National Highway Traffic Safety Administration announced Thursday. The recall affects certain 2016-2023 Model S ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/tesla-recalls-362000-vehicles-over-full-self-driving-software-issue/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-recalls-362000-vehicles-over-full-self-driving-software-issue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 739,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/5ad6fee523c3400aaa56df47874d7ba1bd69a79a/hub/2020/09/25/26614e94-c7b0-431d-bbad-aa5f53bc242c/tesla-model-y.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-recalls-362000-vehicles-over-full-self-driving-software-issue/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-recalls-362000-vehicles-over-full-self-driving-software-issue/",
+      "publishedDateTime": "2023-02-16T10:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-heres-how-artificial-intelligence-is-helping-financial-advisors-manage-portfolios-at-raymond-james.md",
+      "title": "Here's how artificial intelligence is helping financial advisors manage portfolios at Raymond James",
+      "excerpt": "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Artificial intelligence technology is already in the world of finance and will only become more influential, according to Raymond James CEO Paul Reilly. He told Yahoo ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-markets-artificial-intelligence-financial-industry-advisors-raymond-james-portfolios-2023-2",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-markets-artificial-intelligence-financial-industry-advisors-raymond-james-portfolios-2023-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63ee70dbb66c280019d76c9d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/ai-markets-artificial-intelligence-financial-industry-advisors-raymond-james-portfolios-2023-2?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/ai-markets-artificial-intelligence-financial-industry-advisors-raymond-james-portfolios-2023-2?amp",
+      "publishedDateTime": "2023-02-16T10:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-tesla-recalling-nearly-363000-vehicles-equipped-with-full-self-driving.md",
+      "title": "Tesla recalling nearly 363,000 vehicles equipped with ‘Full Self-Driving’",
+      "excerpt": "Tesla is recalling all 363,000 US vehicles with its so-called “Full Self Driving” driver assist software due to safety risks, another blow to the feature that is central to the automaker’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/02/16/business/tesla-fsd-recall/index.html",
+      "originalUrl": "https://www.cnn.com/2023/02/16/business/tesla-fsd-recall/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230109114804-tesla-car-steering-wheel-autopilot-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/02/16/business/tesla-fsd-recall/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/16/business/tesla-fsd-recall/index.html",
+      "publishedDateTime": "2023-02-16T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-predictive-prefetching-with-tensorflowjs.md",
+      "title": "Predictive prefetching with TensorFlow.js",
+      "excerpt": "In this tutorial, you’ll run an example web application that uses TensorFlow.js to do predictive prefetching of resources. Built with Angular, the example is inspired by the Google Merchandise Store but doesn't share any data or implementation details ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/js/tutorials/applications/predictive_prefetching",
+      "originalUrl": "https://www.tensorflow.org/js/tutorials/applications/predictive_prefetching",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/static/site-assets/images/project-logos/tensorflow-js-logo-social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T09:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-german-startup-kern-ai-nabs-seed-funding-for-modular-nlp-development-platform.md",
+      "title": "German startup Kern AI nabs seed funding for modular NLP development platform",
+      "excerpt": "German startup Kern AI has raised a $2.9M seed funding round for a platform that helps NLP developers and data scientists.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/02/16/german-startup-kern-ai-nabs-seed-funding-for-modular-nlp-development-platform/",
+      "originalUrl": "https://techcrunch.com/2023/02/16/german-startup-kern-ai-nabs-seed-funding-for-modular-nlp-development-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/02/team_picture-1-e1676299586848.png?resize=1200,810",
+          "width": 1200,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/02/16/german-startup-kern-ai-nabs-seed-funding-for-modular-nlp-development-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/16/german-startup-kern-ai-nabs-seed-funding-for-modular-nlp-development-platform/amp/",
+      "publishedDateTime": "2023-02-16T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-university-of-utah-ai-machine-learning-projects-receive-research-funding.md",
+      "title": "University of Utah AI, Machine Learning Projects Receive Research Funding",
+      "excerpt": "A set of grants supported by the New One Utah Data Science Hub will support seven University of Utah artificial intelligence and machine learning projects.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/university-of-utah-ai-machine-learning-projects-receive-research-funding",
+      "originalUrl": "https://healthitanalytics.com/news/university-of-utah-ai-machine-learning-projects-receive-research-funding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/sized/GettyImages-917184638-e4b00c1efb9503a805928b101c78b499.jpg",
+          "width": 480,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitanalytics.com/news/amp/university-of-utah-ai-machine-learning-projects-receive-research-funding",
+      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/university-of-utah-ai-machine-learning-projects-receive-research-funding",
+      "publishedDateTime": "2023-02-16T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-02-17-we-mustnt-let-ethical-questionson-ai-get-lost-in-all-the-euphoria.md",
       "title": "We mustn’t let ethical questionson AI get lost in all the euphoria",
       "excerpt": "Our planet is already on the edge with climate change, and these models could only accelerate that trend. The cloud and these AI models running on it take huge amounts of energy. For instance, training a transformer model just once with 213 million parameters can spew out the same carbon emissions that 125 New York-Beijing round flight trips would,",
@@ -625,566 +1247,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-d-wave-announces-broad-feature-selection-initiative-to-accelerate-aiml-workflows-expansion-of-quantum-cloud-service-to-israel.md",
-      "title": "D-Wave Announces Broad Feature Selection Initiative to Accelerate AI/ML Workflows, Expansion of Quantum Cloud Service to Israel",
-      "excerpt": "D-Wave Quantum Inc. (NYSE: QBTS), a leader in quantum computing systems, software, and services and the world's first commercial supplier of quantum computers, today announced a series of product and business updates,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/02/16/9761647.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/02/16/9761647.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T04:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-microsoft-baidu-and-google-which-ai-chatbot-stock-is-the-best-buy.md",
-      "title": "Microsoft, Baidu, And Google: Which AI Chatbot Stock Is The Best Buy?",
-      "excerpt": "Alphabet Inc. (GOOG), Baidu, Inc. (NASDAQ:BIDU), and Microsoft Corporation (NASDAQ:MSFT) have all been in the headlines with the current version of their proprietary chatbot engine. We now know ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4579031-microsoft-baidu-google-ai-chatbot-stock-best-buy",
-      "originalUrl": "https://seekingalpha.com/article/4579031-microsoft-baidu-google-ai-chatbot-stock-best-buy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1362322942/image_1362322942.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T04:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-ge-healthcare-makes-push-into-artificial-intelligence.md",
-      "title": "GE HealthCare Makes Push Into Artificial Intelligence",
-      "excerpt": "GE HealthCare Technologies Inc. is making a big bet on an important challenge in healthcare: collecting the disparate data on patients generated by machines and medical records and making it useful to hospitals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ge-healthcare-makes-push-into-artificial-intelligence-136cb509?mod=latest_headlines",
-      "originalUrl": "https://www.wsj.com/articles/ge-healthcare-makes-push-into-artificial-intelligence-136cb509?mod=latest_headlines",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-718151/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-artificial-intelligence-content-marketing-friend-or-foe-three-ways-to-use-ai-content-tools.md",
-      "title": "Artificial Intelligence Content: Marketing Friend Or Foe? Three Ways To Use AI Content Tools",
-      "excerpt": "Here are three benefits of getting into the AI content-generation game. Leverage AI as a starting point. If you’re like me, the worst part of writing is getting started. You aga",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/02/16/artificial-intelligence-content-marketing-friend-or-foe-three-ways-to-use-ai-content-tools/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/02/16/artificial-intelligence-content-marketing-friend-or-foe-three-ways-to-use-ai-content-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63690fe14a7cd7210342ae53/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/02/16/artificial-intelligence-content-marketing-friend-or-foe-three-ways-to-use-ai-content-tools/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/02/16/artificial-intelligence-content-marketing-friend-or-foe-three-ways-to-use-ai-content-tools/amp/",
-      "publishedDateTime": "2023-02-16T03:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Marketing",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-tech-trends-that-will-define-fintech-in-2023.md",
-      "title": "Tech Trends That Will Define Fintech In 2023",
-      "excerpt": "The first trend that will undoubtedly shape fintech's future is AI technology. AI and ML can revolutionize banking, payments, investments, risk management and more. AI is a broad term used to describe machines with the ability to perceive their environment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/16/tech-trends-that-will-define-fintech-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/16/tech-trends-that-will-define-fintech-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ecef5f4ad1eeb2e6ed2985/0x0.jpg?format=jpg&width=1200",
-          "width": 1197,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/16/tech-trends-that-will-define-fintech-in-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/16/tech-trends-that-will-define-fintech-in-2023/amp/",
-      "publishedDateTime": "2023-02-16T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-baidu-why-i-might-be-adding-to-this-ai-leader.md",
-      "title": "Baidu: Why I Might Be Adding To This AI Leader",
-      "excerpt": "Apollo brings a unique EV and autonomous driving opportunity to Baidu, leveraging its strength and expertise in software, AI and technology to leapfrog competition in the space. I have written an ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4578998-baidu-why-i-might-be-adding-to-this-ai-leader",
-      "originalUrl": "https://seekingalpha.com/article/4578998-baidu-why-i-might-be-adding-to-this-ai-leader",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1392925359/image_1392925359.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 1017,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T02:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-the-impact-of-ai-and-machine-learning-on-financial-education.md",
-      "title": "The Impact of AI and Machine Learning on Financial Education",
-      "excerpt": "One of the most common challenges faced by students pursuing financial education is dealing ... It is exactly where the use of AI-based tools and machine learning offer help.",
-      "sourceUrl": null,
-      "webUrl": "https://finchannel.com/the-impact-of-ai-and-machine-learning-on-financial-education/114893/personal-finance/2023/02/",
-      "originalUrl": "https://finchannel.com/the-impact-of-ai-and-machine-learning-on-financial-education/114893/personal-finance/2023/02/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://finchannel.com/wp-content/uploads/2023/02/desctopworking1-copy.jpg",
-          "width": 900,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T02:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial",
-        "domain": "finchannel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales.md",
-      "title": "Convertobot Reviews - AI Chatbot Social Media Platform For Leads And Sales",
-      "excerpt": "ConvertoBot is easy to use, and in under five minutes, you can get started with a bot on your WhatsApp, Facebook, Messenger, or business website.",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655",
-      "originalUrl": "https://www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1676542576.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655/amp",
-      "publishedDateTime": "2023-02-16T02:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-nigerian-ai-artist-creates-a-fashion-show-for-elderly-people.md",
-      "title": "Nigerian AI artist creates a fashion show for elderly people",
-      "excerpt": "they were entirely generated by artificial intelligence (AI). Twelve years ago, Afegbua was an amateur photographer and visual artist when he received a Canon camera as a gift. He says it gave him the opportunity to start producing videos, and as a self ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/style/article/malik-afegbua-elderly-fashion-ai-art-spc-intl/index.html",
-      "originalUrl": "https://www.cnn.com/style/article/malik-afegbua-elderly-fashion-ai-art-spc-intl/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://cdn.cnn.com/cnnnext/dam/assets/230215162021-malik-afegbua-elders-catwalk-story-card-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnn.com/style/amp/malik-afegbua-elderly-fashion-ai-art-spc-intl/index.html",
-      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/malik-afegbua-elderly-fashion-ai-art-spc-intl/index.html",
-      "publishedDateTime": "2023-02-16T01:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-vietnam-to-try-out-facial-recognition-system-for-airport-procedures.md",
-      "title": "Vietnam to try out facial recognition system for airport procedures",
-      "excerpt": "The Civil Aviation Authority of Vietnam (CAAV) will do a trial with the use of biometrics, specifically facial recognition, for passengers doing procedures to go on flights.",
-      "sourceUrl": null,
-      "webUrl": "https://e.vnexpress.net/news/news/vietnam-to-trial-facial-recognition-for-airport-procedures-4571408.html",
-      "originalUrl": "https://e.vnexpress.net/news/news/vietnam-to-trial-facial-recognition-for-airport-procedures-4571408.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1-english.vnecdn.net/2023/02/16/l1200283jpg50381676517083-1676-3421-5299-1676535042.jpg?w=680&h=0&q=100&dpr=2&fit=crop&s=gqcpfAmAj3mn0ltFp1fc7A",
-          "width": 1360,
-          "height": 816,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ampe.vnexpress.net/news/news/vietnam-to-trial-facial-recognition-for-airport-procedures-4571408.html",
-      "cdnAmpWebUrl": "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/news/vietnam-to-trial-facial-recognition-for-airport-procedures-4571408.html",
-      "publishedDateTime": "2023-02-16T01:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VN Express",
-        "domain": "vnexpress.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-machine-learning-as-a-service-mlaas-market-size-report-outlook-growth-key-players-revenue-and-forecast-2031.md",
-      "title": "Machine Learning as a Service (MLaaS) Market Size, Report Outlook, Growth, Key Players, Revenue, and Forecast 2031",
-      "excerpt": "Global Machine Learning as a Service (MLaaS) Market to reach USD 16.7 billion by 2027. Global Machine Learning",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-report-outlook-growth-key-players-revenue-and-forecast-2031-2023-02-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-report-outlook-growth-key-players-revenue-and-forecast-2031-2023-02-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-15T23:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-what-will-indian-healthcare-look-like-in-2047-robotics-ai-biotech-will-shape-the-future.md",
-      "title": "What will Indian healthcare look like in 2047? Robotics, AI, biotech will shape the future",
-      "excerpt": "Healthcare of 2047 will be substantially different from today. All ecosystem players will be impacted by these changes and will need to be prepared to embrace emerging trends and pivot their business models as appropriate.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/small-biz/sme-sector/what-will-indian-healthcare-look-like-in-2047-robotics-ai-biotech-will-shape-the-future/articleshow/97967033.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/small-biz/sme-sector/what-will-indian-healthcare-look-like-in-2047-robotics-ai-biotech-will-shape-the-future/articleshow/97967033.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.etimg.com/photo/96164744.cms",
-          "width": 2448,
-          "height": 1224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/small-biz/sme-sector/what-will-indian-healthcare-look-like-in-2047-robotics-ai-biotech-will-shape-the-future/amp_articleshow/97967033.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/what-will-indian-healthcare-look-like-in-2047-robotics-ai-biotech-will-shape-the-future/amp_articleshow/97967033.cms",
-      "publishedDateTime": "2023-02-15T21:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

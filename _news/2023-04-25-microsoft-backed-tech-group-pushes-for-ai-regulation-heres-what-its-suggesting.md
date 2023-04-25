@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/04/24/microsoft-backed-tech-group-bsa-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/24/microsoft-backed-tech-group-bsa-pushes-for-ai-regulation.html"
 type: article
 quality: 99
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -98,6 +98,20 @@ related:
         width: 1200
         height: 847
         isCached: true
+  - title: "Siemens and Microsoft drive industrial productivity with generative artificial intelligence"
+    excerpt: "Siemens’ new Teamcenter app for Microsoft Teams to use AI, boosting productivity and innovation throughout a product lifecycle Azure OpenAI Service powered assistant can augment the creation, optimization and debugging of code in software for factory automation Industrial AI to enable visual quality inspection on the shop floor Siemens and Microsoft are harnessing the collaborative"
+    publishedDateTime: 2023-04-24T02:42:00Z
+    webUrl: "https://www.thaipr.net/en/it_en/3329588"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 44
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/04/IMG_8729-scaled-e1682331791394-768x431.jpg"
+        width: 768
+        height: 431
+        isCached: true
   - title: "The era of AI: How the Microsoft Cloud is accelerating AI transformation across industries"
     excerpt: "This past quarter has put a spotlight on advancements in generative AI, and the possibilities of its application to deliver pragmatic business outcomes. For organizations around the world, there is incredible opportunity to enhance products and services while unlocking innovation and business value to help shape the future of industry."
     publishedDateTime: 2023-04-24T15:11:00Z
@@ -145,6 +159,6 @@ related:
         height: 591
         isCached: true
 
-secured: "r7l5jTYtH/DLxPix+bR/GxJ9K043ALAAbTMSetfDAor/6N3JgwKPNRMDLv4rDAmIeJ/IqMrG3yhS2QPEqb2v0tMOKWOLjjs2l6GnpNOWZQKtluCE0Yd+9Tw9qCIND0PQ6RNAtH+itvMSUpICNerpZsZ5AekwLJODdDjFuKa1tI30vyoJ/pvqu1Pdz+zKf+CsGKiTP7G0fFOwfL+UDQphDYPB29VDmTa8MUmnWHWOJrt4Vz4rGF0OO/sCI6wSDLHYxTTsYo5gAUFzleT1OfLMtIE6Gkgori5VMldSEpmFmXDLs0SnvDgt+BrljfXFdPlJV4HqNT0NZpKo2bogaxcuFenxueAS+mK295JEq2sGmpQ=;ou6+t93ArUwcSmKG5HBR/g=="
+secured: "3sPdzq343wpPEHe0nI8UR8eTm5GN04+vDnxZFWQgPeZ4ppSgZWJaNUKXrLb4K08gX/Skkjw9iyGV3nsV8LuD7Cyx9XutMv3SZR9zVWdXGWHyDGGGnhOZAALK1+hNwokp/RUbVAvb6T09r6yXj/cTRAm9etY1qeD21ApOW3hL/+a/SyDOiMwnmETW0JWq1rW534bHQtn+5CK4xvi3R8WHQguk02AStvu3t78yDoI9U1kTtvykMfJsxU1hhNFhWEIi74ccLwvIHxhiz1YJ+HQl+6t5KSZQfSBJg5Xv6ZyxPJmkYtAN8oXj8eo2BS4/q5zbEJFnVJS0Lyc5wIQL7g6hNPn+NCoztojyNkzPw+e9/svr/j+a3cxmd016iRnONQlwsPfBZcqW2XUKsfD6UnukEU+9MtJ+9mP+PvuFlaU+vVa5kVcqZfUoJVBFVwwY8SgZLlkXNQUz/tF4O8qRCQ2V535exr5Yct7FQqwUsW6xuMKMdTZHeRpyhcP6vX/NU6uvWVpDCuWeQLca2gwTDVt4GA==;FdjUQ+PQOoCxSkIrg1r3GA=="
 ---
 

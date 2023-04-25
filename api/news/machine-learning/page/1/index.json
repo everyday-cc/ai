@@ -55,7 +55,7 @@
       "originalUrl": "https://techxplore.com/news/2023-04-young-social-media-users-machine.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -675,6 +675,40 @@
       ]
     },
     {
+      "path": "_news/2023-04-19-applying-ai-to-crack-the-problem-of-safer-better-petroleum-processing.md",
+      "title": "Applying AI to crack the problem of safer, better petroleum processing",
+      "excerpt": "To better examine and optimize the process of catalytic cracking, the team investigated neural networks. This type of artificial intelligence models how it processes data on the human brain ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/986624",
+      "originalUrl": "https://www.eurekalert.org/news-releases/986624",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-3-exciting-jobs-in-artificial-intelligence-and-machine-learning-this-week.md",
       "title": "3 exciting jobs in artificial intelligence and machine learning this week",
       "excerpt": "Rising adoption in AI/ML is leading to job opportunities both within the sector, and as a result of AI-driven automation",
@@ -782,6 +816,49 @@
       "provider": {
         "name": "techxplore",
         "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-18-spiking-neural-networks-hardware-algorithm-developments.md",
+      "title": "Spiking Neural Networks: Hardware & Algorithm Developments",
+      "excerpt": "A new technical paper titled “Exploring Neuromorphic Computing Based on Spiking Neural Networks: Algorithms to Hardware” was published by researchers at Purdue University, Pennsylvania State University, and Yale University. Excerpt from Abstract ...",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/spiking-neural-networks-hardware-algorithm-developments/",
+      "originalUrl": "https://semiengineering.com/spiking-neural-networks-hardware-algorithm-developments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://semiengineering.com/wp-content/uploads/AdobeStock_207929333-brain-03-09-22-scaled-e1646861472441.jpeg?fit=1702%2C1087&ssl=1",
+          "width": 1702,
+          "height": 1087,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1288,93 +1365,6 @@
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-hankook-company-partners-with-aws-snowflake-for-ai-platform.md",
-      "title": "Hankook & Company Partners with AWS, Snowflake for AI Platform",
-      "excerpt": "Company seeks to establish a data-driven culture and create more business value by enhancing data accessibility.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aftermarketnews.com/hankook-company-partners-with-aws-snowflake-for-ai-data-platform/",
-      "originalUrl": "https://www.aftermarketnews.com/hankook-company-partners-with-aws-snowflake-for-ai-data-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s19538.pcdn.co/wp-content/uploads/2022/07/partnership.jpg",
-          "width": 1400,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "After Market News",
-        "domain": "aftermarketnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-aimachine-learning-market-with-types-of-research-report.md",
-      "title": "AI/Machine Learning Market With Types of Research Report",
-      "excerpt": "The Global AI/Machine Learning market is anticipated to rise at a considerable rate during the forecast period. The market is growing at a steady rate and with the rising adoption of strategies by key players,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-with-types-of-research-report-2023-04-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-with-types-of-research-report-2023-04-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T20:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

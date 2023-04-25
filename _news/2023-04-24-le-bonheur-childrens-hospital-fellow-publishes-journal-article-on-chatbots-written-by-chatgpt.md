@@ -156,6 +156,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 40
+  - title: "ChatGPT craze drives domestic innovation"
+    excerpt: "\"Technologies behind ChatGPT are not new to market players, but ChatGPT represents how AI has evolved and progressed over the past few years. Also, it demonstrates the popularity of the NLP market and brings forward the market one to two years,"
+    publishedDateTime: 2023-04-24T23:40:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202304/25/WS64470bd4a310b6054facf864.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202304/25/64470bd4a310b60580cbcd50.jpeg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "4 of The Best Speech to Text Extensions to Talk to ChatGPT Using Your Voice"
     excerpt: "I personally do not agree with the decision to ban ChatGPT or any other technology for that matter. Bans do not work and students will always find ways to circumvent them (e.g., u"
     publishedDateTime: 2023-04-22T15:01:00Z

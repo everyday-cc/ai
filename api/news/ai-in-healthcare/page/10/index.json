@@ -2,6 +2,50 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-01-05-using-artificial-intelligence-to-gain-insights-into-personality.md",
+      "title": "Using artificial intelligence to gain insights into personality",
+      "excerpt": "While those questions are typically devised by subject matter experts, Hernandez has suggested an alternative source—artificial intelligence. Working with research consultant Weiwen Nie of Hogan ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-01-artificial-intelligence-gain-insights-personality.html",
+      "originalUrl": "https://phys.org/news/2023-01-artificial-intelligence-gain-insights-personality.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/using-artificial-intel.jpg",
+          "width": 800,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-01-artificial-intelligence-gain-insights-personality.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-artificial-intelligence-gain-insights-personality.amp",
+      "publishedDateTime": "2023-01-05T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-01-05-healthcare-ai-market-2023-swot-analysis-by-players-continues-explosive-growth-by-2028.md",
       "title": "Healthcare AI Market 2023 : SWOT Analysis by Players Continues Explosive Growth by 2028",
       "excerpt": "Pages Report] Rising demand for Medical Devices & Consumables Industry will drive the Healthcare AI segment growth over the next five years. Global Market Analysis for Health",
@@ -1364,40 +1408,6 @@
         "Facebook AI",
         "Google AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-artificial-intelligence-in-healthcare-market-new-innovations-trends-technology-and-applications-market-report-to-2022-2028.md",
-      "title": "Artificial Intelligence in Healthcare Market New Innovations, Trends, Technology and Applications Market Report to 2022-2028",
-      "excerpt": "Pune, Maharashtra — (SBWIRE) — 12/13/2022 — Artificial Intelligence in Healthcare Market Analysis & Overview 2022: Artificial intelligence is utilised in medical research to discover how ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-new-innovations-trends-technology-and-applications-market-report-to-2022-2028",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-new-innovations-trends-technology-and-applications-market-report-to-2022-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T12:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

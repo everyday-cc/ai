@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Fitness studio touted as first in Virginia powered by artificial intelligence comes to Henrico"
-excerpt: "The Exercise Coach, a “smart fitness studio” at 3436 Lauderdale Road, opened in March. It is the first in AI-enabled studio in the state."
+excerpt: "Artificial intelligence tools like ChatGPT are having more of an influence over our lives from shopping and streaming services to education, health care and the way we get information about the world."
 publishedDateTime: 2023-04-24T09:00:00Z
-originalUrl: "https://richmond.com/business/local/fitness-studio-touted-as-first-in-virginia-powered-by-artificial-intelligence-comes-to-henrico/article_a4bc606a-de24-11ed-85c5-dbbf40bfc086.html"
-webUrl: "https://richmond.com/business/local/fitness-studio-touted-as-first-in-virginia-powered-by-artificial-intelligence-comes-to-henrico/article_a4bc606a-de24-11ed-85c5-dbbf40bfc086.html"
+originalUrl: "https://richmond.com/eedition/richmond/page-d6/page_7a919243-c32e-52c7-9bc7-14f089789fb5.html"
+webUrl: "https://richmond.com/eedition/richmond/page-d6/page_7a919243-c32e-52c7-9bc7-14f089789fb5.html"
 type: article
 quality: 27
 heat: 27
@@ -15,15 +15,15 @@ provider:
   domain: richmond.com
 
 topics:
-  - AI in Healthcare
   - AI
+  - AI in Healthcare
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/a/4b/a4bc606a-de24-11ed-85c5-dbbf40bfc086/644147a9ab23c.preview.jpg?crop=1739%2C913%2C0%2C139&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/eedition/7/a9/7a919243-c32e-52c7-9bc7-14f089789fb5/6442fe3d851fc.preview-620.jpg?crop=620%2C326%2C0%2C137&resize=620%2C326&order=crop%2Cresize"
+    width: 620
+    height: 326
     isCached: true
 
-secured: "G9W1KMtkHQMeIQJYY328MbbRayZDIYUBBV+oL/kBd6kewvfN9i6luvmN2Q/3qXZKg6X656L9soZHhRQq+EJS0cY27xx1fOc36L1cS3h/8CTEc4v9lqPYIWOQ5uhMToWSSR0BE+xcRUnahqYWTSx8gExH/GNDramWXdBr7wOfNLjnjcy90xQGHs+wrPlQYAoqaqLXyluYEUOnwAgqR/C2DNwpyIg2DIOaAemkNBaznJAsnLIs3hZcRrt0mO3eXhfq1JTsP43a5K/oY6fjt43IREhB0WPR7u6uJPYvwkHZKNj7huZJ2LWu6sIopbzVeGCdpjeFiQUC4HRNKuQ7EPL3GqZngS9GpfxuOkh8LIj/Acxlr59bdnl4wolMTNL7jCvLMb3CDpWoPyo9ocL4XUwaTJXUMBeC/wXF80wGeS/GNht5Jixkec8DqYfEanzdiLeXhDbsD0/c4UUO9ACIWysMBzblRCEvaG3Rzc25fcYlXVomqpkUZgt+HCMPBvQSDVr2HRe8eO6YxR9jMwjgUpgl5Q==;zHOAK8phfh5/dXuUrL5rNg=="
+secured: "dFmHnA2AJ2k3uwbUzLAnokvS1g06Hy3dKS41aO6r5fJ5zIQdh1LpLTcYMyA8q9B4AI4QL1M/2CDPUI+mLVI5w6jhBhEYDJfOYG32pTyLJHLBfWD2G7E7hL7rPbc/SDbiOVVxnXzhiM8r2Slf2BO13XGVsFnMG1KbSuxHCnLC5ZW9xXjw7+b9+qTdOebdXC/5A2hcxBmJcz1Jo712xS259FuxCQk25kZpDhxIyzWX0O0U1IiNzGBDLBvJjhltKPzndrnSUTZeLMkkjxvI4iY28dI0X+i1BKP0ipcGv6cbFShbzlk7h92fqDoETo9KsA4yxy6vb4vDrEtB00KaIRkFqRxuJ6GHQGYpnkVmRTiBjMI=;IG9clS6lDhThXT8/ouVdpQ=="
 ---
 

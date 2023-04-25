@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-14-3-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade.md",
+      "title": "3 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
+      "excerpt": "Artificial intelligence has become integral to the operations ... Retail sales aren't highly profitable, but services (like AWS, with its 29% 2022 operating margin) are moneymakers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/03/14/artificial-intelligence-stocks-can-buy-hold-decade/",
+      "originalUrl": "https://www.fool.com/investing/2023/03/14/artificial-intelligence-stocks-can-buy-hold-decade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/724339/relaxed-person-looking-at-stock-charts.jpg",
+          "width": 2120,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-13T22:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-14-25-best-christmas-movies-on-amazon-prime-to-start-watching-now.md",
       "title": "25 Best Christmas Movies on Amazon Prime to Start Watching Now",
       "excerpt": "Amazon really does have everything! Chances are, you’re doing a whole lot of your holiday shopping on Amazon this year. But in between buying the perfect presents for everyone on your list, why ...",
@@ -1332,58 +1384,6 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-image-recognition-in-retail-market-size-2023-industry-share-growth-trends-segments-and-forecast-to-2031.md",
-      "title": "Image Recognition in Retail Market Size, 2023 Industry Share, Growth, Trends, Segments and Forecast to 2031",
-      "excerpt": "Global Image Recognition in Retail Market is valued approximately at USD 1.14 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 21.80% over the forecast period 2020-2027.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-size-2023-industry-share-growth-trends-segments-and-forecast-to-2031-2023-02-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-size-2023-industry-share-growth-trends-segments-and-forecast-to-2031-2023-02-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-26T20:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -151,7 +151,7 @@
       "originalUrl": "https://www.forbes.com/sites/saibala/2023/04/23/amazon--3m-will-use-generative-ai-to-ease-documentation-for-healthcare-providers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -192,6 +192,59 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-what-are-the-four-main-types-of-artificial-intelligence-find-out-how-future-ai-programs-can-change-the-world.md",
+      "title": "What are the four main types of artificial intelligence? Find out how future AI programs can change the world",
+      "excerpt": "A perfect example of limited memory artificial intelligence is self-driving cars. The model examines the speed and direction of other cars in the present moment to make the best decisions on the road.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/what-four-main-types-ai-find-future-ai-programs-change-world",
+      "originalUrl": "https://www.foxnews.com/tech/what-four-main-types-ai-find-future-ai-programs-change-world",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eac1965b-5982-426d-9b4c-4ee8e74a3170/e2145637-9569-47fe-a67b-6ecd88f6304e/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/what-four-main-types-ai-find-future-ai-programs-change-world.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-four-main-types-ai-find-future-ai-programs-change-world.amp",
+      "publishedDateTime": "2023-04-21T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1330,40 +1383,6 @@
       "provider": {
         "name": "BioPharma Dive",
         "domain": "biopharmadive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-global-medical-electronics-market-to-2030-increased-use-of-medical-electronics-in-imaging-screening-therapy-and-intervention-is-boosting-growth.md",
-      "title": "Global Medical Electronics Market to 2030: Increased Use of Medical Electronics in Imaging, Screening, Therapy and Intervention is Boosting Growth",
-      "excerpt": "The \"Medical Electronics Market, By Type, By Component, By Application, By End-use, and By Region Forecast to 2030\" report has been added to ResearchAndMarkets.com's",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/04/n31684457/global-medical-electronics-market-to-2030-increased-use-of-medical-electronics-in-imaging-screenin",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/n31684457/global-medical-electronics-market-to-2030-increased-use-of-medical-electronics-in-imaging-screenin",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T10:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

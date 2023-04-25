@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cnbc.com/2023/04/24/microsoft-backed-tech-group-bsa-pushes-for-ai-regulation.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -62,7 +62,7 @@
       "originalUrl": "https://techcrunch.com/2023/04/24/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 239,
+      "heat": 249,
       "tags": null,
       "images": [
         {
@@ -581,6 +581,50 @@
       ]
     },
     {
+      "path": "_news/2023-04-19-microsoft-is-developing-its-own-ai-chip-report.md",
+      "title": "Microsoft is developing its own AI chip: Report",
+      "excerpt": "Athena will power the technology between AI chatbots like the OpenAI phenomenon ChatGPT. Microsoft has been working on the chip since 2019, the report said. TWO-THIRDS OF US JOB COULD BE EXPOSED ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/microsoft-developing-own-ai-chip",
+      "originalUrl": "https://www.foxbusiness.com/technology/microsoft-developing-own-ai-chip",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/559e38cf-f42e-4b44-91a4-b10841e1e2c7/9b06f272-00c6-4617-b719-12761a6e7990/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/microsoft-developing-own-ai-chip.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/microsoft-developing-own-ai-chip.amp",
+      "publishedDateTime": "2023-04-18T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-microsoft-working-on-athena-silicon-to-power-ai.md",
       "title": "Microsoft working on \"Athena\" silicon to power AI",
       "excerpt": "The race for AI supremacy among technology giants has only begun, and it is already going beyond feeding enormous amounts of data to models like the",
@@ -687,6 +731,50 @@
       ]
     },
     {
+      "path": "_news/2023-04-19-microsoft-readies-own-ai-chip-everything-you-need-to-know.md",
+      "title": "Microsoft readies own AI chip — everything you need to know",
+      "excerpt": "According to The Information (opens in new tab), Microsoft has been secretly working on Project Athena — a first-party chip designed to power the supercomputers that train AI. The hope is the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/news/microsoft-readies-own-ai-chip-everything-you-need-to-know",
+      "originalUrl": "https://www.tomsguide.com/news/microsoft-readies-own-ai-chip-everything-you-need-to-know",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/htJtE2TbsB4Tfmo8YuN7Te-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-health-it-vendor-eclinicalworks-announces-azure-openai-ehr-integration.md",
       "title": "Health IT Vendor eClinicalWorks Announces Azure OpenAI EHR Integration",
       "excerpt": "cognitive services, and machine learning models from Azure OpenAI Service. eClinicalWorks recently invested $100 million in Microsoft Azure cloud services. “We are thrilled to combine advances in generative AI models with eClinicalWorks’ solutions to ...",
@@ -727,6 +815,59 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-18-microsoft-reportedly-working-on-its-own-ai-chips-that-may-rival-nvidias.md",
+      "title": "Microsoft reportedly working on its own AI chips that may rival Nvidia’s",
+      "excerpt": "Microsoft is reportedly working on its own AI chips that can be used to train large language models and avoid a costly reliance on Nvidia. The Information reports that Microsoft has been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/4/18/23687912/microsoft-athena-ai-chips-nvidia",
+      "originalUrl": "https://www.theverge.com/2023/4/18/23687912/microsoft-athena-ai-chips-nvidia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/zD7YbqnU4W_XAaEW-O3cKSa4dGc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/19249962/akrales_190930_3682_0006.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1281,126 +1422,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-microsoft-azure-enlists-generative-ai-to-help-pentagon-look-for-satellite-imagery.md",
-      "title": "Microsoft Azure enlists generative AI to help Pentagon look for satellite imagery",
-      "excerpt": "Microsoft Azure Space recently showed the U.S. military how an application beefed up with AI could do just that. The daylong demonstration, which was conducted for the Defense Innovation Unit’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/microsoft-azure-chatbot-pentagon-satellite-imagery/",
-      "originalUrl": "https://www.geekwire.com/2023/microsoft-azure-chatbot-pentagon-satellite-imagery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/04/230411-antenna.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-08-azure-previews-nd-h100-v5-virtual-machines-to-accelerate-generative-ai.md",
-      "title": "Azure Previews ND H100 V5 Virtual Machines to Accelerate Generative AI",
-      "excerpt": "Azure recently announced the preview of the ND H100 v5, virtual machines that integrate the latest Nvidia H100 Tensor Core GPUs and support Quantum-2 InfiniBand networking. According to Microsoft, the new option will offer AI developers improved performance and scaling across thousands of GPUs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/04/azure-nd-H100-nvidia/",
-      "originalUrl": "https://www.infoq.com/news/2023/04/azure-nd-H100-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-08T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-renesas-cellular-to-cloud-development-kits-now-connect-seamlessly-to-microsoft-azure-cloud-services.md",
-      "title": "Renesas Cellular-to-Cloud Development Kits Now Connect Seamlessly to Microsoft Azure Cloud Services",
-      "excerpt": "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that its cellular-to-cloud development kits powered by Renesas' 32-bit microcontrollers (MCUs) now fully support Microsoft's popular Azure cloud services.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/04/06/9790319.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/04/06/9790319.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

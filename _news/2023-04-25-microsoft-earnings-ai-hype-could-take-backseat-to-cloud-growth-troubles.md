@@ -94,6 +94,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Siemens and Microsoft drive industrial productivity with generative artificial intelligence"
+    excerpt: "Siemens’ new Teamcenter app for Microsoft Teams to use AI, boosting productivity and innovation throughout a product lifecycle Azure OpenAI Service powered assistant can augment the creation, optimization and debugging of code in software for factory automation Industrial AI to enable visual quality inspection on the shop floor Siemens and Microsoft are harnessing the collaborative"
+    publishedDateTime: 2023-04-24T02:42:00Z
+    webUrl: "https://www.thaipr.net/en/it_en/3329588"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 44
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/04/IMG_8729-scaled-e1682331791394-768x431.jpg"
+        width: 768
+        height: 431
+        isCached: true
   - title: "The era of AI: How the Microsoft Cloud is accelerating AI transformation across industries"
     excerpt: "This past quarter has put a spotlight on advancements in generative AI, and the possibilities of its application to deliver pragmatic business outcomes. For organizations around the world, there is incredible opportunity to enhance products and services while unlocking innovation and business value to help shape the future of industry."
     publishedDateTime: 2023-04-24T15:11:00Z
@@ -141,6 +155,6 @@ related:
         height: 591
         isCached: true
 
-secured: "dsqM5Deq0wS5Rzbl3VM89hVG9wtiQMxvdtKe0yQxgPtQA8I9GkGWCsVkv4ko/S6KJj0zQ2y+jyVUDux8GX+Dz9Aioohk8Y+nLj7BdAN14zmcWP6PW0rfBlCjYK42dEFYwnLxDtXpc7bC/Qrtv8D8CTVPl6WA4z597hDpHDgmZq16TgpCkh2f/6i9XDWwaP8KYWr9gvw7meFqxLIRL54rI25JaNasJgnH8BNkORlfHQg4y/WBVWfw/7pBN92KPZXyFcosDp0ylGue7jXcRUvoU9ZgHRHx5QbgJygypDY9uPNlAouhi3bMHyi+cV7vIO/EM3yDsqpGztJGBf3r/wfXOcCsjoI+4Li+AjyZdlfjWsc=;Tbl8GbO3r2Glsl61h2MFEA=="
+secured: "8udSIi8P4GpfSscR8Q1oJf+i4LheyOBxbI9n9ZFNsCYJy+70TtRrGQu4OtbVdhOt6EP9JU3em3CNX5hNvfGIMx57ckiShe/LVx8JlL8BywyY1TZE//oX3c5iMgCUQhCgvGS4BGYuQZj8q/jskMncPaz5gMAgwe4C6PZ2p9I4TZiksaiIp90gnK9o63VHGWLTacHPwjCCuNIXHftnex3o6daN0kZMa1cOGS++TyMNyiYqPO+kKTtSFCx3ZHoklMvfj2neBUMF3ogRH9L3lwZgpx6cNZRzjdMwM5Fd4sFQoVETsszWhn/ILh4GamYXEjtHDLxBPB+uwFxlN7eVEi3O7a+CZeBE9Pa+zocV8aeiM1MGYJ3W/a421IKXootqxvlVztpOIIAOSJYO9+SPgR573Yh3NT/QvghYuSmPlrkGjnxmCWJIhd4uAT14PSREK9o6wtxbVBsD5nnDxXAfJE49SeFqKNdyvZGBIz74nfEWyakm/N0ia3IY6v4AB2h7qMeNixHNnmYuA2DMPv2VjzMZlA==;ffXaZxHwcXdInNiCLMtKbA=="
 ---
 

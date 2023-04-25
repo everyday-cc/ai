@@ -2,6 +2,159 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-24-5-crucial-components-of-an-ai-company.md",
+      "title": "5 Crucial Components Of An AI Company",
+      "excerpt": "In this article, I'll explore five crucial factors that should drive the decision making of VCs and investors when identifying investment opportunities and evaluating long-term potential in the competitive and oversaturated AI space.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6442b28cc7d2114a4afa0045/0x0.jpg?format=jpg&width=1200",
+          "width": 1014,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/amp/",
+      "publishedDateTime": "2023-04-24T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-using-generative-ai-in-workforce-management.md",
+      "title": "Using Generative AI In Workforce Management",
+      "excerpt": "Generative AI is the most transformative thing in the business landscape right now, perhaps even since the proliferation of the internet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62825152c50f091b0e2568f8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/amp/",
+      "publishedDateTime": "2023-04-24T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-how-ai-can-transform-the-software-engineering-process.md",
+      "title": "How AI Can Transform The Software Engineering Process",
+      "excerpt": "Generative AI will expedite the pace of modern software development, promote experimentation and even transform the current software engineering funnel in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6058b5411e82e550078f5886/0x0.jpg?format=jpg&width=1200",
+          "width": 790,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/amp/",
+      "publishedDateTime": "2023-04-24T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-24-how-gpt-4-could-affect-marketing-leaders.md",
       "title": "How GPT-4 Could Affect Marketing Leaders",
       "excerpt": "Marketers have always had to adapt to their changing technological environment. GPT technologies are no different.",
@@ -115,7 +268,7 @@
       "originalUrl": "https://www.infoworld.com/article/3694158/google-s-bard-ai-to-take-on-github-copilot-and-amazon-codewhisperer.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -421,7 +574,7 @@
       "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/04/24/the-rise-of-ai-entrepreneurs-how-technology-is-creating-new-opportunities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -472,7 +625,7 @@
       "originalUrl": "https://www.foxnews.com/lifestyle/chatgpt-life-hacks-spawning-grocery-lists-ai-generated-recipes-meal-plans",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -523,7 +676,7 @@
       "originalUrl": "https://tech.hindustantimes.com/tech/news/ai-revolution-manufacturers-hope-for-artificial-intelligence-boost-in-factories-71682272340109.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -618,7 +771,7 @@
       "originalUrl": "https://www.forbes.com/sites/saibala/2023/04/23/amazon--3m-will-use-generative-ai-to-ease-documentation-for-healthcare-providers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -808,7 +961,7 @@
       "originalUrl": "https://www.bbc.com/sport/formula1/65361193",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1087,161 +1240,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-aimachine-learning-market-report-industry-dynamics-by-top-players-2023-2031.md",
-      "title": "AI/Machine Learning Market Report Industry Dynamics by Top Players 2023-2031",
-      "excerpt": "Global AI/Machine Learning Market Research Report 2023 is spread across 116 pages and 148 Number of Tables and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-report-industry-dynamics-by-top-players-2023-2031-2023-04-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-report-industry-dynamics-by-top-players-2023-2031-2023-04-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T22:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-the-secret-history-of-ai-and-a-hint-at-whats-next.md",
-      "title": "The Secret History of AI, and a Hint at What’s Next",
-      "excerpt": "Artificial intelligence is already a big part of our daily lives",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/the-secret-history-of-ai-and-a-hint-at-whats-next-428905de",
-      "originalUrl": "https://www.wsj.com/articles/the-secret-history-of-ai-and-a-hint-at-whats-next-428905de",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-768109/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-we-all-contribute-to-ai-should-we-get-paid-for-that.md",
-      "title": "We all contribute to AI — should we get paid for that?",
-      "excerpt": "The idea is for people to “get paid for what they create, even when it is filtered and recombined” into something that’s unrecognizable. The concept isn’t brand new, with Lanier first introducing the notion of data dignity in a 2018 Harvard Business Review piece titled,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/04/21/as-ai-eliminates-jobs-a-way-to-keep-people-afloat-financially-thats-not-ubi/",
-      "originalUrl": "https://techcrunch.com/2023/04/21/as-ai-eliminates-jobs-a-way-to-keep-people-afloat-financially-thats-not-ubi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1365407901.jpg?resize=1200,816",
-          "width": 1200,
-          "height": 816,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/04/21/as-ai-eliminates-jobs-a-way-to-keep-people-afloat-financially-thats-not-ubi/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/21/as-ai-eliminates-jobs-a-way-to-keep-people-afloat-financially-thats-not-ubi/amp/",
-      "publishedDateTime": "2023-04-21T19:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

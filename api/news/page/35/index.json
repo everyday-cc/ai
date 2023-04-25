@@ -2,6 +2,586 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2023-03-21-google-showcases-a-collaborative-partner-in-an-ai-powered-workspace.md",
+      "title": "Google Showcases ‘A Collaborative Partner’ In An AI-Powered Workspace",
+      "excerpt": "Days later, Google debuted its own conversational AI model called Bard. It was the start of an AI race that will go down in history. Google came out strong last week with a slew of AI announcements across several platforms and business units. Here I'll ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/03/20/google-showcases-a-collaborative-partner-in-an-ai-powered-workspace/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/03/20/google-showcases-a-collaborative-partner-in-an-ai-powered-workspace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64188c9b0923e519d8d8a87a/0x0.jpg?format=jpg&width=1200",
+          "width": 480,
+          "height": 236,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/03/20/google-showcases-a-collaborative-partner-in-an-ai-powered-workspace/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/03/20/google-showcases-a-collaborative-partner-in-an-ai-powered-workspace/amp/",
+      "publishedDateTime": "2023-03-20T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-filmustage-leverages-ai-to-break-down-film-scripts-create-shooting-schedules-and-more.md",
+      "title": "Filmustage leverages AI to break down film scripts, create shooting schedules and more",
+      "excerpt": "Filmustage, an AI-powered platform that can automatically break down scripts, announced today it raised $550,000 in VC funding.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/20/filmustage-leverages-ai-to-breakdown-film-scripts-create-shooting-schedules-and-more/",
+      "originalUrl": "https://techcrunch.com/2023/03/20/filmustage-leverages-ai-to-breakdown-film-scripts-create-shooting-schedules-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/Filmustage_App_03_script-1-1.png?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/20/filmustage-leverages-ai-to-breakdown-film-scripts-create-shooting-schedules-and-more/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/20/filmustage-leverages-ai-to-breakdown-film-scripts-create-shooting-schedules-and-more/amp/",
+      "publishedDateTime": "2023-03-20T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-cloud-natural-language-processing-market-size-and-share-industry-size.md",
+      "title": "Cloud Natural Language Processing Market Size and Share | Industry Size",
+      "excerpt": "Latest Report will contain the analysis of the impact of Russia-Ukraine War and COVID-19 on this Cloud Natural",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-size-and-share-industry-size-2023-03-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-size-and-share-industry-size-2023-03-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation.md",
+      "title": "The AI arms race highlights the urgent need for responsible innovation",
+      "excerpt": "The recent frenzy over language processing tools such as ChatGPT has sent organizations scrambling to provide guidelines for responsible usage. The online publishing platform Medium, for example, has released a statement on AI-generated writing that promotes \"transparency\" and \"disclosure.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-03-ai-arms-highlights-urgent-responsible.html",
+      "originalUrl": "https://techxplore.com/news/2023-03-ai-arms-highlights-urgent-responsible.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/the-ai-arms-race-highl.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-03-ai-arms-highlights-urgent-responsible.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-ai-arms-highlights-urgent-responsible.amp",
+      "publishedDateTime": "2023-03-20T10:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-the-best-amazon-original-movies-right-now.md",
+      "title": "The best Amazon Original movies right now",
+      "excerpt": "Netflix may get the most press, but Amazon Prime Video has quietly become the go-to streamer for original movies. Whether you’re looking for a sci-fi blockbuster, a thought-provoking documentary ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/movies/best-amazon-original-movies/",
+      "originalUrl": "https://www.digitaltrends.com/movies/best-amazon-original-movies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/03/shotgun-wedding-1.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/movies/best-amazon-original-movies/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-amazon-original-movies/?amp",
+      "publishedDateTime": "2023-03-20T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-tavus-taps-generative-ai-to-power-personalized-videos-with-voice-and-face-cloning.md",
+      "title": "Tavus taps generative AI to power personalized videos with voice and face cloning",
+      "excerpt": "Tavus enables companies to create \"unique\" videos tailored to a specific individual, based entirely on a single initial recording.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/20/tavus-taps-generative-ai-to-power-personalized-videos-with-voice-and-face-cloning/",
+      "originalUrl": "https://techcrunch.com/2023/03/20/tavus-taps-generative-ai-to-power-personalized-videos-with-voice-and-face-cloning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/Raza-Favret-Landscape-Portrait-Final-e1679048302476.jpeg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/20/tavus-taps-generative-ai-to-power-personalized-videos-with-voice-and-face-cloning/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/20/tavus-taps-generative-ai-to-power-personalized-videos-with-voice-and-face-cloning/amp/",
+      "publishedDateTime": "2023-03-20T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-numbers-station-raises-175m-to-bring-ai-to-your-data-stack.md",
+      "title": "Numbers Station raises $17.5M to bring AI to your data stack",
+      "excerpt": "Numbers Station aims to bring the power of GPT-style foundation models to enterprise use cases, starting with data transformation and record matching.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/20/numbers-station-raises-17-5m-to-bring-ai-to-your-data-stack/",
+      "originalUrl": "https://techcrunch.com/2023/03/20/numbers-station-raises-17-5m-to-bring-ai-to-your-data-stack/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1371533646.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/20/numbers-station-raises-17-5m-to-bring-ai-to-your-data-stack/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/20/numbers-station-raises-17-5m-to-bring-ai-to-your-data-stack/amp/",
+      "publishedDateTime": "2023-03-20T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-roblox-launches-generative-ai-materials-coding-tools.md",
+      "title": "Roblox launches generative AI materials & coding tools",
+      "excerpt": "Roblox has announced an open opt-in beta for two new generative AI tools that help users generate materials and assist coding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/roblox-launches-generative-ai-materials-coding-tools-gdc-2023/",
+      "originalUrl": "https://venturebeat.com/games/roblox-launches-generative-ai-materials-coding-tools-gdc-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Generative-AI-Materials.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/roblox-launches-generative-ai-materials-coding-tools-gdc-2023/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/roblox-launches-generative-ai-materials-coding-tools-gdc-2023/amp/",
+      "publishedDateTime": "2023-03-20T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-artificial-intelligence-will-revolutionize-risk-stratification-and-guide-therapy-for-cardiogenic-shock.md",
+      "title": "Artificial Intelligence Will Revolutionize Risk Stratification and Guide Therapy for Cardiogenic Shock",
+      "excerpt": "Conventional HF Management – Is There a Problem, and Whose Problem Is It? Receive the the latest news, research, and presentations from major meetings right to your inbox. TCTMD is produced by the Cardiovascular Research Foundation (CRF). CRF is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tctmd.com/slide/artificial-intelligence-will-revolutionize-risk-stratification-and-guide-therapy-cardiogenic",
+      "originalUrl": "https://www.tctmd.com/slide/artificial-intelligence-will-revolutionize-risk-stratification-and-guide-therapy-cardiogenic",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TCTMD",
+        "domain": "tctmd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-how-morgan-stanley-is-training-gpt-to-help-financial-advisors.md",
+      "title": "How Morgan Stanley Is Training GPT To Help Financial Advisors",
+      "excerpt": "Morgan Stanley has been working with OpenAI to determine how generative AI systems can help with wealth management questions from its financial advisors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2023/03/20/how-morgan-stanley-is-training-gpt-to-help-financial-advisors/",
+      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2023/03/20/how-morgan-stanley-is-training-gpt-to-help-financial-advisors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64186ab062f49149c34b2898/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2023/03/20/how-morgan-stanley-is-training-gpt-to-help-financial-advisors/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2023/03/20/how-morgan-stanley-is-training-gpt-to-help-financial-advisors/amp/",
+      "publishedDateTime": "2023-03-20T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-d-wave-launches-new-hybrid-solver-plug-in-for-feature-selection-a-key-component-of-machine-learning.md",
+      "title": "D-Wave Launches New Hybrid Solver Plug-In for Feature Selection, A Key Component of Machine Learning",
+      "excerpt": "BURNABY, British Columbia — D-Wave Quantum Inc. (NYSE: QBTS), a leader in quantum computing systems, software, and services and the world’s ... quantum technology to streamline development of machine learning (ML) applications. D-Wave’s new hybrid ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/d-wave-launches-new-hybrid-solver-plug-in-for-feature-selection-a-key-component-of-machine-learning",
+      "originalUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/d-wave-launches-new-hybrid-solver-plug-in-for-feature-selection-a-key-component-of-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-the-future-of-ai-in-banking.md",
+      "title": "The Future Of AI In Banking",
+      "excerpt": "What are the obvious use cases for LLMs in banking, and what do banks need to consider before leveraging them?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 236,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/amp/",
+      "publishedDateTime": "2023-03-20T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-03-20-grocer-uses-facial-recognition-technology-to-deter-shoplifters-drawing-concerns.md",
       "title": "Grocer uses facial recognition technology to deter shoplifters, drawing concerns",
       "excerpt": "A supermarket's use of face-scanning and voice-recording technology to prevent thieves has sparked privacy concerns.",
@@ -628,535 +1208,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-8-free-online-coursera-classes-to-take-if-you-want-to-work-in-ai-from-experts-at-amazon-meta-and-others.md",
-      "title": "8 free online Coursera classes to take if you want to work in AI, from experts at Amazon, Meta, and others",
-      "excerpt": "Find the course here. Artificial intelligence: ethics & societal challenges Class description: The class covers the ethical and societal aspects of artificial intelligence over four modules that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2",
-      "originalUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63eb9ca47518920018f33adb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2?amp",
-      "publishedDateTime": "2023-03-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-computer-vision-extracts-lightning-from-footage.md",
-      "title": "Computer Vision Extracts Lightning From Footage",
-      "excerpt": "While we may not gain a deeper scientific appreciation of lightning anytime soon, but we can capture it in various photography thanks to this project which leverages computer vision machine ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2022/07/01/computer-vision-extracts-lightning-from-footage/",
-      "originalUrl": "https://hackaday.com/2022/07/01/computer-vision-extracts-lightning-from-footage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2022/06/lightning-main.jpg",
-          "width": 1400,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-deep-learning-news-and-research.md",
-      "title": "Deep Learning News and Research",
-      "excerpt": "Researchers have used artificial intelligence (AI) and deep learning technology to find a link between alterations in the shape of children's faces and the amount of alcohol their mothers drank ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/?tag=/Deep-Learning",
-      "originalUrl": "https://www.news-medical.net/?tag=/Deep-Learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/themes/Standard/images/full_site_logo.png",
-          "width": 973,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-ibm-focuses-on-enterprise-ai-adoption-at-think-2018.md",
-      "title": "IBM focuses on enterprise AI adoption at Think 2018",
-      "excerpt": "IBM released a number of new solutions designed to help enterprises harness the power of artificial intelligence. The company announced IBM Watson Data Kit and revealed new offerings with Apple at ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/ibm-focuses-enterprise-ai-adoption-think-2018/",
-      "originalUrl": "https://sdtimes.com/ai/ibm-focuses-enterprise-ai-adoption-think-2018/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2018/03/ibm-think.jpeg",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-ibm-watson-and-guerbet-want-to-tackle-prostate-cancer-diagnosis-with-ai.md",
-      "title": "IBM Watson and Guerbet Want to Tackle Prostate Cancer Diagnosis with AI",
-      "excerpt": "Guerbet has landed a second co-development agreement with IBM Watson Health. This time around, the two companies will develop an artificial intelligence tool to help clinicians detect, segment, characterize, and monitor prostate cancer. “The main ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/business/ibm-watson-and-guerbet-want-tackle-prostate-cancer-diagnosis-ai",
-      "originalUrl": "https://www.mddionline.com/business/ibm-watson-and-guerbet-want-tackle-prostate-cancer-diagnosis-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/DSC03582.JPG",
-          "width": 5472,
-          "height": 3648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-can-centuries-old-math-open-the-modern-black-box-of-ai.md",
-      "title": "Can Centuries-Old Math Open the Modern Black Box of AI?",
-      "excerpt": "A new Rice University study uses Fourier analysis and a novel approach to understand how AI deep neural networks learn to perform functions that involve complex physics—a step towards demystifying AI’s black box problem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202303/can-centuries-old-math-open-the-modern-black-box-of-ai",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202303/can-centuries-old-math-open-the-modern-black-box-of-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/pic14324.jpg?itok=Gd-tQ7kj",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202303/can-centuries-old-math-open-the-modern-black-box-of-ai?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202303/can-centuries-old-math-open-the-modern-black-box-of-ai?amp",
-      "publishedDateTime": "2023-03-19T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-investors-whats-the-real-deal-with-ati-physical-therapy-inc-nyse-atip.md",
-      "title": "Investors: What’s The Real Deal With ATI Physical Therapy Inc. (NYSE: ATIP)",
-      "excerpt": "The trading price of ATI Physical Therapy Inc. (NYSE:ATIP) closed higher on Friday, March 17, closing at $0.41, 30.84% higher than its previous close. Traders who pay close attention to intraday price movement should know that it fluctuated between $0.",
-      "sourceUrl": null,
-      "webUrl": "https://stocksregister.com/2023/03/20/investors-whats-the-real-deal-with-ati-physical-therapy-inc-nyse-atip/",
-      "originalUrl": "https://stocksregister.com/2023/03/20/investors-whats-the-real-deal-with-ati-physical-therapy-inc-nyse-atip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-19T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "stocksregister",
-        "domain": "stocksregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-artificial-intelligence-institute-set-up-in-south-africa.md",
-      "title": "Artificial intelligence institute set up in South Africa",
-      "excerpt": "Communications and Digital Technologies Minister Mondli Gungubele, in partnership with the Tshwane University of Technology (TUT) and the University of Johannesburg, launched the Artificial Intelligence Institute of South Africa (AIISA).",
-      "sourceUrl": null,
-      "webUrl": "https://mg.co.za/africa/2023-03-19-artificial-intelligence-institute-set-up-in-south-africa/",
-      "originalUrl": "https://mg.co.za/africa/2023-03-19-artificial-intelligence-institute-set-up-in-south-africa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mg.co.za/wp-content/uploads/2023/03/artificial-intelligence.jpg",
-          "width": 1600,
-          "height": 914,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mg.co.za/africa/2023-03-19-artificial-intelligence-institute-set-up-in-south-africa/?amp",
-      "cdnAmpWebUrl": "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/africa/2023-03-19-artificial-intelligence-institute-set-up-in-south-africa/?amp",
-      "publishedDateTime": "2023-03-19T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mail & Guardian",
-        "domain": "mg.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-media-alert-brainchip-illustrates-aiot-readiness-at-the-edge-impulse-ml-series.md",
-      "title": "Media Alert: BrainChip Illustrates AIoT Readiness at the Edge Impulse ML Series",
-      "excerpt": "Please join BrainChip at Edge Impulse ML by registering for one or more of the upcoming showcases via the following links: BrainChip is the worldwide leader in edge AI on-chip processing and learning. The company's first-to-market, fully digital ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/03/b31413103/media-alert-brainchip-illustrates-aiot-readiness-at-the-edge-impulse-ml-series",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/b31413103/media-alert-brainchip-illustrates-aiot-readiness-at-the-edge-impulse-ml-series",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/31413103",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31413103",
-      "publishedDateTime": "2023-03-19T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-torontos-ontario-line-will-run-new-electric-driverless-trains-heres-what-theyll-look-like.md",
-      "title": "Toronto’s Ontario Line will run new electric, driverless trains. Here’s what they’ll look like",
-      "excerpt": "GFG Rail, which is designing the subway’s rolling stock, has revealed renderings for the new electric fleet, which, once operational, will run through downtown Toronto, connecting Exhibition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com/news/gta/2023/03/15/torontos-new-ontario-line-will-run-new-electric-driverless-trains-heres-what-theyll-look-like.html",
-      "originalUrl": "https://www.thestar.com/news/gta/2023/03/15/torontos-new-ontario-line-will-run-new-electric-driverless-trains-heres-what-theyll-look-like.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestar.com/content/dam/thestar/news/gta/2023/03/25/hydro-one-responding-to-around-southern-ontario-power-outage/hydro_one.jpg.size.custom.crop.640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestar.com/amp/news/gta/2023/03/15/torontos-new-ontario-line-will-run-new-electric-driverless-trains-heres-what-theyll-look-like.html",
-      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2023/03/15/torontos-new-ontario-line-will-run-new-electric-driverless-trains-heres-what-theyll-look-like.html",
-      "publishedDateTime": "2023-03-19T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Toronto Star",
-        "domain": "thestar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-nvidia-gtc-highlights-the-physical-side-of-ai-robotics.md",
-      "title": "Nvidia GTC Highlights The Physical Side Of AI - Robotics",
-      "excerpt": "For many consumers, AI is finally living up to long overdue expectations. The accomplishments of ChatGPT in a short period of time are phenomenal. But what is yet to come when AI is combined with robotics will change everything.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 429,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641725b9faeb9e5fa976a1f0/0x0.jpg?format=jpg&width=1200",
-          "width": 951,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/amp/",
-      "publishedDateTime": "2023-03-19T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-robt.md",
-      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (ROBT)",
-      "excerpt": "Investors may trade in the Pre-Market (4:00-9:30 a.m. ET) and the After Hours Market (4:00-8:00 p.m. ET). Participation from Market Makers and ECNs is strictly voluntary and as a result, these ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/market-activity/etf/robt/after-hours",
-      "originalUrl": "https://www.nasdaq.com/market-activity/etf/robt/after-hours",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-19T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

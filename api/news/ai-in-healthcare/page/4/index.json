@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-09-racial-bias-in-artificial-intelligence-restricts-vital-access-to-healthcare-and-financial-services-says-data-scientist.md",
+      "title": "Racial bias in artificial intelligence restricts vital access to healthcare and financial services, says data scientist",
+      "excerpt": "Terrelle and Lorraine were turned down for a house loan they could easily afford, despite a six-figure salary each and great credit history. Frederick was discharged from the hospital as fit and healthy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/980645",
+      "originalUrl": "https://www.eurekalert.org/news-releases/980645",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-09-openai-founder-sam-altman-invests-180-million-in-life-extension-startup.md",
       "title": "OpenAI Founder Sam Altman Invests $180 Million in Life-Extension Startup",
       "excerpt": "Artificial intelligence isn't the founder's only focus—he's also funneling funds into Retro, a tech company angling to increase the human lifespan by 10 years.",
@@ -1350,40 +1384,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-how-big-business-is-integrating-artificial-intelligence-at-a-rapid-pace-while-gaining-competitive-advantages.md",
-      "title": "How Big Business is Integrating Artificial Intelligence at a Rapid Pace While Gaining Competitive Advantages",
-      "excerpt": "The higher demand for automated and technologically advanced hardware and software products across various end-use verticals and the favorable government policies that encourages the industries in North America to adopt artificial intelligence has significantly contributed towards the growth of the artificial intelligence market.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/02/24/9766176.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/02/24/9766176.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-24T07:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

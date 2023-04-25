@@ -8,7 +8,7 @@ webUrl: "https://venturebeat.com/ai/google-consolidates-ai-research-labs-into-go
 ampWebUrl: "https://venturebeat.com/ai/google-consolidates-ai-research-labs-into-google-deepmind-to-compete-with-openai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-consolidates-ai-research-labs-into-google-deepmind-to-compete-with-openai/amp/"
 type: article
-quality: 99
+quality: 101
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/04/VB_google_deepmind_annc_042023-copy.jpg?w=1200&strip=all"
@@ -226,6 +227,15 @@ related:
     provider:
       name: ExtremeTech
       domain: extremetech.com
+    quality: 34
+  - title: "Google Merges DeepMind and Brain AI Units"
+    excerpt: "Google has merged its artificial intelligence research units, DeepMind and Brain, to form a new unit called Google DeepMind. Google acquired DeepMind in 2014. The firm combines machine learning techniques with neuroscience systems to build learning algorithms for eCommerce and games development."
+    publishedDateTime: 2023-04-24T23:32:00Z
+    webUrl: "https://www.mrweb.com/drno/news34936.htm"
+    type: article
+    provider:
+      name: MrWeb
+      domain: mrweb.com
     quality: 34
   - title: "Weekly AI Wrap: Google DeepMind & Open Source Innovations Transforming Industries"
     excerpt: "Uncovering groundbreaking developments from Google DeepMind, open-source AI, and their impact on diverse industries."

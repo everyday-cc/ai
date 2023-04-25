@@ -2,6 +2,586 @@
   "page": 111,
   "value": [
     {
+      "path": "_news/2023-01-20-chinas-future-to-ai-and-jobs-five-big-questions-from-davos.md",
+      "title": "China’s future to AI and jobs: five big questions from Davos",
+      "excerpt": "From the threat of AI weaponising spam to a trade war sparked by green subsidies, the taxing topics at this year’s World Economic Forum",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/business/2023/jan/20/davos-questions-wef-china-future-ai-jobs",
+      "originalUrl": "https://www.theguardian.com/business/2023/jan/20/davos-questions-wef-china-future-ai-jobs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/14e619726247bb839bbb3e623e903b3847854fb9/0_166_5000_3002/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=ee6f46f076cbbef3e493ad70743a7653",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/business/2023/jan/20/davos-questions-wef-china-future-ai-jobs",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/jan/20/davos-questions-wef-china-future-ai-jobs",
+      "publishedDateTime": "2023-01-20T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-chatgpt-stole-your-work-so-what-are-you-going-to-do.md",
+      "title": "ChatGPT Stole Your Work. So What Are You Going to Do?",
+      "excerpt": "This is true for search engines like Google, social media sites like Instagram, AI research startups like OpenAI, and many other providers of intelligent technologies. This exploitative dynamic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/chatgpt-generative-artificial-intelligence-regulation/",
+      "originalUrl": "https://www.wired.com/story/chatgpt-generative-artificial-intelligence-regulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63c9d72b995aa119ba7ba924/master/pass/ideas-chatgpt-ai-regulation-law.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/chatgpt-generative-artificial-intelligence-regulation/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chatgpt-generative-artificial-intelligence-regulation/amp",
+      "publishedDateTime": "2023-01-20T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-artificial-intelligence-is-coming-for-human-creativity.md",
+      "title": "Artificial Intelligence Is Coming for Human Creativity",
+      "excerpt": "Second, the development of artificial intelligence poses a challenge to our claims to creative uniqueness. With the defeat of Garry Kasparov by Big Blue in 1997, many people lost interest in chess ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/Is%20AI%20coming%20for%20Creativity%2C%203%2C%20Joseph%20Ayerle.jpg?itok=clf3nLZg",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-human-beast/202301/artificial-intelligence-is-coming-for-human-creativity?amp",
+      "publishedDateTime": "2023-01-20T05:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-paging-dr-ai-to-the-emergency-room-artificial-intelligence-passes-us-medical-licensing-exam.md",
+      "title": "Paging Dr AI to the Emergency Room! Artificial Intelligence passes U.S Medical Licensing Exam",
+      "excerpt": "We may soon see AI tools run diagnostic tests and clinical research trials on humans, now that ChatGPT and Flan-PaLM have passed the U.S. Medical Licensing Examination (USMLE).",
+      "sourceUrl": null,
+      "webUrl": "https://www.digit.in/news/machine-learning-and-ai/paging-dr-ai-to-the-emergency-room-artificial-intelligence-passes-us-medical-licensing-exam-66910.html",
+      "originalUrl": "https://www.digit.in/news/machine-learning-and-ai/paging-dr-ai-to-the-emergency-room-artificial-intelligence-passes-us-medical-licensing-exam-66910.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.digit.in/default/1280-720px-15-279ca90502.jpeg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digit.in/article/amp/machine-learning-and-ai/66910/paging-dr-ai-to-the-emergency-room-artificial-intelligence-passes-us-medical-licensing-exam",
+      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/machine-learning-and-ai/66910/paging-dr-ai-to-the-emergency-room-artificial-intelligence-passes-us-medical-licensing-exam",
+      "publishedDateTime": "2023-01-20T04:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digit",
+        "domain": "digit.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-how-to-detect-chatgpt-plagiarism-and-why-its-becoming-so-difficult.md",
+      "title": "How to detect ChatGPT plagiarism — and why it’s becoming so difficult",
+      "excerpt": "Just for fun, I included Giant Language Model Test Room (GLTR), developed by researchers from the MIT-IBM Watson AI Lab and Harvard Natural Language Processing Group. Like GPTZero, it doesn’t ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/how-to-detect-chatgpt-plagiarism/",
+      "originalUrl": "https://www.digitaltrends.com/computing/how-to-detect-chatgpt-plagiarism/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/01/ChatGPT-OpenAI-logo.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/how-to-detect-chatgpt-plagiarism/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-detect-chatgpt-plagiarism/?amp",
+      "publishedDateTime": "2023-01-20T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-latest-blueswell-startups-harnessing-wind-for-ships-and-ai-for-fish-management.md",
+      "title": "Latest BlueSwell Startups Harnessing Wind For Ships And AI For Fish Management",
+      "excerpt": "They’re examples from program’s the third cohort of six startups selected and supported by the folks at SeaAhead Inc. and the New England Aquarium.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jeffkart/2023/01/20/latest-blueswell-startups-harnessing-wind-for-ships-and-ai-for-fish-management/",
+      "originalUrl": "https://www.forbes.com/sites/jeffkart/2023/01/20/latest-blueswell-startups-harnessing-wind-for-ships-and-ai-for-fish-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c99c1d67b3adb6ece9af4f/0x0.jpg?format=jpg&crop=2654,1244,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffkart/2023/01/20/latest-blueswell-startups-harnessing-wind-for-ships-and-ai-for-fish-management/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2023/01/20/latest-blueswell-startups-harnessing-wind-for-ships-and-ai-for-fish-management/amp/",
+      "publishedDateTime": "2023-01-20T03:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-ensuring-better-patient-experience-and-outcomes-through-artificial-intelligence.md",
+      "title": "Ensuring Better Patient Experience And Outcomes Through Artificial Intelligence",
+      "excerpt": "This makes the patient experience especially hard in healthcare. Sixty-eight percent of patients said their healthcare providers need to improve how they interact with patients. W",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/20/ensuring-better-patient-experience-and-outcomes-through-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/20/ensuring-better-patient-experience-and-outcomes-through-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/638755d97adcceda18c8a8ba/0x0.jpg?format=jpg&crop=3796,2136,x0,y266,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/20/ensuring-better-patient-experience-and-outcomes-through-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/20/ensuring-better-patient-experience-and-outcomes-through-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-01-20T02:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-the-chatbots-cant-outsmart-you-yet.md",
+      "title": "The Chatbots Can’t Outsmart You. Yet.",
+      "excerpt": "The Turing test used to be the gold standard for proving machine intelligence. This generation of bots is racing past it. We need to stay calm — and develop a new test.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.html",
+      "originalUrl": "https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/01/22/business/22Turing-test-illo/22Turing-test-illo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/20/technology/chatbots-turing-test.amp.html",
+      "publishedDateTime": "2023-01-20T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-jim-keller-becomes-ceo-of-ai-chip-company-tenstorrent.md",
+      "title": "Jim Keller becomes CEO of AI chip company Tenstorrent",
+      "excerpt": "Storied chip designer Jim Keller has been named CEO of artificial intelligence-focused chip company Tenstorrent. Keller was named CTO of the Canadian startup back in early 2021, but is now swapping his role with founder and former CEO Ljubisa Bajic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.datacenterdynamics.com/en/news/jim-keller-becomes-ceo-of-ai-chip-company-tenstorrent/",
+      "originalUrl": "https://www.datacenterdynamics.com/en/news/jim-keller-becomes-ceo-of-ai-chip-company-tenstorrent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.datacenterdynamics.com/media/images/Intel-Jim-Keller.5fcd5158.fill-1200x630.jpg",
+          "width": 853,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-20T01:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datacenter Dynamics",
+        "domain": "datacenterdynamics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-m3gan-the-very-real-inspirations-behind-hollywoods-new-favourite-killer-robot-and-why-were-so-fascinated-with-ai.md",
+      "title": "M3GAN: The very real inspirations behind Hollywood's new favourite killer robot - and why we're so fascinated with AI",
+      "excerpt": "But M3GAN debuts in a world where AI and its associated ethical dilemmas are all around us, from voice assistants that we've happily invited into our homes, to an artistic robot giving evidence in ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.sky.com/story/m3gan-the-very-real-inspirations-behind-hollywoods-new-favourite-killer-robot-and-why-were-so-fascinated-with-ai-12789840",
+      "originalUrl": "https://news.sky.com/story/m3gan-the-very-real-inspirations-behind-hollywoods-new-favourite-killer-robot-and-why-were-so-fascinated-with-ai-12789840",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e3.365dm.com/23/01/768x432/skynews-m3gan-film_6029033.png?20230119120450",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.sky.com/story/amp/m3gan-the-very-real-inspirations-behind-hollywoods-new-favourite-killer-robot-and-why-were-so-fascinated-with-ai-12789840",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/m3gan-the-very-real-inspirations-behind-hollywoods-new-favourite-killer-robot-and-why-were-so-fascinated-with-ai-12789840",
+      "publishedDateTime": "2023-01-19T22:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-the-6-most-important-tech-trend-predictions-for-2023.md",
+      "title": "The 6 Most Important Tech Trend Predictions For 2023",
+      "excerpt": "Here we look at the 2023 tech predictions, based on an interview with Deloitte's Chief Futurist Mike Bechtel. We discuss AI, the metaverse, decentralized systems, and even mainframe modernization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/20/the-6-most-important-tech-trendpredictions-for-2023/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/20/the-6-most-important-tech-trendpredictions-for-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ca418536b41c24dc922d82/0x0.jpg?format=jpg&width=1200",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/20/the-6-most-important-tech-trendpredictions-for-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/01/20/the-6-most-important-tech-trendpredictions-for-2023/amp/",
+      "publishedDateTime": "2023-01-19T22:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-odisha-soa-signs-mous-with-start-ups-specialising-in-robotics-ai-drone-technology.md",
+      "title": "Odisha: SOA signs MoUs with start-ups specialising in robotics, AI, drone technology",
+      "excerpt": "The signatories to the MoU were Prof Pradipta Kumar Nanda, Pro-Vice-Chancellor, SOA and Subhajit Nayak and Dhrutidhar Behera",
+      "sourceUrl": null,
+      "webUrl": "https://www.edexlive.com/news/2023/jan/20/odisha-soa-signs-mous-with-start-ups-specialising-in-robotics-ai-drone-technology-33446.html",
+      "originalUrl": "https://www.edexlive.com/news/2023/jan/20/odisha-soa-signs-mous-with-start-ups-specialising-in-robotics-ai-drone-technology-33446.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.edexlive.com/uploads/user/imagelibrary/2023/1/20/original/robotics-4113409_1280.jpg",
+          "width": 1280,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.edexlive.com/news/2023/jan/20/odisha-soa-signs-mous-with-start-ups-specialising-in-robotics-ai-drone-technology-33446.amp",
+      "cdnAmpWebUrl": "https://m-edexlive-com.cdn.ampproject.org/c/s/m.edexlive.com/news/2023/jan/20/odisha-soa-signs-mous-with-start-ups-specialising-in-robotics-ai-drone-technology-33446.amp",
+      "publishedDateTime": "2023-01-19T18:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "edexlive",
+        "domain": "edexlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-20-wipro-canadas-aws-launch-pad-centre-now-open-for-business.md",
       "title": "Wipro Canada's AWS Launch Pad Centre now open for business",
       "excerpt": "Technology services and consulting company Wipro Limited Canada yesterday opened its newest Wipro-AWS Launch Pad Centre in Toronto, which the company said will allow its clients to experience the “art of the possible” in digital transformation.",
@@ -609,566 +1189,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-fluentai-announces-collaboration-to-offer-embedded-voice-recognition-for-cadence-tensilica-hifi-5-dsp-based-true-wireless-stereo-products.md",
-      "title": "Fluent.ai Announces Collaboration to Offer Embedded Voice Recognition for Cadence Tensilica HiFi 5 DSP-Based True Wireless Stereo Products",
-      "excerpt": "Fluent.ai provides offline, noise robust speech recognition that can support any language or accent. The latest software solution allows users to trigger more than 30 TWS actions through 101 natural and flexible voice commands,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-fluentai-announces-collaboration-offer-embedded-voice-recognition-cadence-/2023/01/19/9746105.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-fluentai-announces-collaboration-offer-embedded-voice-recognition-cadence-/2023/01/19/9746105.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-19T09:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-soft-robotics-mgripai-uses-simulation-to-train-in-nvidia-isaac-sim.md",
-      "title": "Soft Robotics mGripAI uses simulation to train in NVIDIA Isaac Sim",
-      "excerpt": "Soft Robotics applies NVIDIA Isaac Sim’s synthetic data to food processing automation in efforts to improve safety and increase production.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/soft-robotics-mgripai-uses-simulation-to-train-in-nvidia-isaac-sim/",
-      "originalUrl": "https://www.therobotreport.com/soft-robotics-mgripai-uses-simulation-to-train-in-nvidia-isaac-sim/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/01/soft-robotics-chicken1-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-19T09:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-9-ways-we-use-ai-in-our-products.md",
-      "title": "9 ways we use AI in our products",
-      "excerpt": "Here are nine ways we use AI today to make our products even more helpful.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/9-ways-we-use-ai-in-our-products/",
-      "originalUrl": "https://blog.google/technology/ai/9-ways-we-use-ai-in-our-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_products_hero_1.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-19T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-nvidia-shows-how-surprisingly-hard-it-is-for-a-robot-to-pick-up-a-chicken-wing.md",
-      "title": "Nvidia shows how surprisingly hard it is for a robot to pick up a chicken wing",
-      "excerpt": "The chipmaker is showcasing how a robotics startup is using its simulation platform to train robots to pick up food like pieces of chicken.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nvidia-shows-how-surprisingly-hard-it-is-for-a-robot-to-pick-up-a-chicken-wing/",
-      "originalUrl": "https://www.zdnet.com/article/nvidia-shows-how-surprisingly-hard-it-is-for-a-robot-to-pick-up-a-chicken-wing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a99225b214eb1f075000aa34ce23d0eaa8765f28/2023/01/19/dac2fd5c-7c0d-43d1-9a90-d0ce8fe7c1f8/robot-gripping-chicken-synthetic.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-shows-how-surprisingly-hard-it-is-for-a-robot-to-pick-up-a-chicken-wing/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-shows-how-surprisingly-hard-it-is-for-a-robot-to-pick-up-a-chicken-wing/",
-      "publishedDateTime": "2023-01-19T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-ibm-and-the-grand-challenges-of-ai-and-quantum-computing.md",
-      "title": "IBM And The Grand Challenges Of AI And Quantum Computing",
-      "excerpt": "One company that has been pioneering advanced AI for longer than most is IBM. One of IBM’s most senior executives, Alessandro Curioni, joined the London Futurists Podcast to discuss IBM’s current projects in AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/calumchace/2023/01/19/ibm-and-the-grand-challenges-of-ai-and-quantum-computing/",
-      "originalUrl": "https://www.forbes.com/sites/calumchace/2023/01/19/ibm-and-the-grand-challenges-of-ai-and-quantum-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c91d9baefd5d5958922d86/0x0.jpg?format=jpg&width=1200",
-          "width": 1023,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2023/01/19/ibm-and-the-grand-challenges-of-ai-and-quantum-computing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2023/01/19/ibm-and-the-grand-challenges-of-ai-and-quantum-computing/amp/",
-      "publishedDateTime": "2023-01-19T08:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-a-cartoonist-predicted-2023s-ai-drawing-machinesin-1923.md",
-      "title": "A cartoonist predicted 2023’s AI drawing machines—in 1923",
-      "excerpt": "The vintage cartoon carries the caption It depicts a cartoonist standing by his drawing table and making plans for soc",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/01/a-cartoonist-predicted-2023s-ai-drawing-machines-in-1923/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/01/a-cartoonist-predicted-2023s-ai-drawing-machines-in-1923/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/cartoon_dynamo_hero_main-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/01/a-cartoonist-predicted-2023s-ai-drawing-machines-in-1923/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/a-cartoonist-predicted-2023s-ai-drawing-machines-in-1923/amp/",
-      "publishedDateTime": "2023-01-19T08:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-uc-santa-barbara-doctoral-students-build-neural-network-to-paint-like-picasso.md",
-      "title": "UC Santa Barbara Doctoral Students Build Neural Network to Paint Like Picasso",
-      "excerpt": "Fifty years after his death, Pablo Picasso is painting once again. The late Spanish master has been reborn as a form of artificial intelligence (AI), a “neural network” created by two UC Santa Barbara doctoral students to generate original pieces of art in his signature styles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.com/2023/01/19/uc-santa-barbara-doctoral-students-build-neural-network-to-paint-like-picasso/",
-      "originalUrl": "https://www.independent.com/2023/01/19/uc-santa-barbara-doctoral-students-build-neural-network-to-paint-like-picasso/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.independent.com/wp-content/uploads/2023/01/AI_picasso.jpg?fit=1200%2C799",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.independent.com/2023/01/19/uc-santa-barbara-doctoral-students-build-neural-network-to-paint-like-picasso/?amp=1",
-      "cdnAmpWebUrl": "https://www-independent-com.cdn.ampproject.org/c/s/www.independent.com/2023/01/19/uc-santa-barbara-doctoral-students-build-neural-network-to-paint-like-picasso/?amp=1",
-      "publishedDateTime": "2023-01-19T08:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Santa Barbara Independent",
-        "domain": "independent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-the-goldilocks-principle-and-hybrid-cloud.md",
-      "title": "The Goldilocks Principle And Hybrid Cloud",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as The Goldilocks Principle shows up in many places in our lives and business in areas as vast and varied as astrobiology, economics, and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c96c06ef67aedf79766ebe/0x0.png?format=png&width=1200",
-          "width": 936,
-          "height": 528,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/amp/",
-      "publishedDateTime": "2023-01-19T07:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-deep-learning-based-ai-system-helps-infer-and-predict-indonesian-throughflow.md",
-      "title": "Deep learning-based AI system helps infer and predict Indonesian throughflow",
-      "excerpt": "Scientists from the Institute of Oceanology of the Chinese Academy of Sciences (IOCAS) and Nanjing University of Information Science and Technology have successfully constructed an inference and prediction system of the Indonesian Throughflow (ITF) by using a deep-learning method and realized the valid prediction of the ITF transport.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.html",
-      "originalUrl": "https://phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/deep-learning-based-ai.jpg",
-          "width": 1372,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.amp",
-      "publishedDateTime": "2023-01-19T06:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-ai-improves-field-service-quality-and-customer-experience.md",
-      "title": "AI improves field service quality and customer experience",
-      "excerpt": "Research shows that 80% of high performing field service organizations use artificial intelligence (AI). Also: One bad experience is all it takes to lose a customer. Here are thre",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-improves-field-service-quality-and-customer-experience/",
-      "originalUrl": "https://www.zdnet.com/article/ai-improves-field-service-quality-and-customer-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/f748509203a5703ad1ec5ad7840e4842cdb63d79/2022/12/02/4631c01c-b209-4b8c-a497-091a6049e34c/artificial-intelligence.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-improves-field-service-quality-and-customer-experience/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-improves-field-service-quality-and-customer-experience/",
-      "publishedDateTime": "2023-01-19T06:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-teachers-are-adapting-to-concerns-about-a-powerful-new-ai-tool.md",
-      "title": "Teachers are adapting to concerns about a powerful new AI tool",
-      "excerpt": "When Kristen Asplin heard about a powerful new AI chatbot tool called ChatGPT going viral online recently with its ability to write frighteningly good essays in seconds, she worried about",
-      "sourceUrl": null,
-      "webUrl": "https://omaha.com/business/technology/teachers-are-adapting-to-concerns-about-a-powerful-new-ai-tool/article_35f716ea-ee7d-5e9b-abd6-e4ff849fbf40.html",
-      "originalUrl": "https://omaha.com/business/technology/teachers-are-adapting-to-concerns-about-a-powerful-new-ai-tool/article_35f716ea-ee7d-5e9b-abd6-e4ff849fbf40.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/a/54/a54f0a8b-59d1-519a-8837-ecd67d1dad25/63d29488682b5.image.jpg?crop=1762%2C927%2C0%2C124&resize=1200%2C631&order=crop%2Cresize",
-          "width": 1200,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-19T04:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-how-grenoble-has-mastered-industryacademia-science-collaborations.md",
-      "title": "How Grenoble has mastered industry–academia science collaborations",
-      "excerpt": "Despite its small size, the French city’s long history of science and business means it punches above its weight in scientific output.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-023-00109-x",
-      "originalUrl": "https://www.nature.com/articles/d41586-023-00109-x",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-023-00109-x/d41586-023-00109-x_23932204.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-19T04:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

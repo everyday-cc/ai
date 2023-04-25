@@ -8,8 +8,8 @@ webUrl: "https://www.foxnews.com/tech/what-four-main-types-ai-find-future-ai-pro
 ampWebUrl: "https://www.foxnews.com/tech/what-four-main-types-ai-find-future-ai-programs-change-world.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-four-main-types-ai-find-future-ai-programs-change-world.amp"
 type: article
-quality: 85
-heat: 95
+quality: 87
+heat: 97
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eac1965b-5982-426d-9b4c-4ee8e74a3170/e2145637-9569-47fe-a67b-6ecd88f6304e/1280x720/match/1200/675/image.jpg?ve=1&tl=1"

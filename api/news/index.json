@@ -2,6 +2,151 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-25-how-to-boost-your-college-applications-using-ai-without-cheating-the-essay.md",
+      "title": "How To Boost Your College Applications Using AI — Without Cheating The Essay",
+      "excerpt": "While ChatGPT has many questioning the role and usefulness of the college essay, there are ways to make the college admissions process more efficient and effective in the exploration and application phases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/avivalegatt/2023/04/24/how-to-boost-your-college-applications-using-ai---without-cheating-the-essay/",
+      "originalUrl": "https://www.forbes.com/sites/avivalegatt/2023/04/24/how-to-boost-your-college-applications-using-ai---without-cheating-the-essay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/642b13ef95acfe3e77bbf2c3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/avivalegatt/2023/04/24/how-to-boost-your-college-applications-using-ai---without-cheating-the-essay/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/avivalegatt/2023/04/24/how-to-boost-your-college-applications-using-ai---without-cheating-the-essay/amp/",
+      "publishedDateTime": "2023-04-24T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-new-ai-tool-describes-surroundings-to-visually-impaired-people.md",
+      "title": "New AI tool describes surroundings to visually impaired people",
+      "excerpt": "The app Be My Eyes has a new artificial intelligence tool that provides low vision or blind users with an audio description of whatever they are facing. NBC News’ Ellison Barber spoke with one user who is testing the virtual assistant and says it is helping him do more on his own.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/new-ai-tool-describes-surroundings-to-visually-impaired-people-171207237511",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/new-ai-tool-describes-surroundings-to-visually-impaired-people-171207237511",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_04/1682377642150_nn_eba_ai_revolution_be_my_eyes_230424_1920x1080-bto1k7.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo171207237511",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo171207237511",
+      "publishedDateTime": "2023-04-24T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-66-of-americans-would-not-want-ai-to-help-make-hiring-decisions.md",
+      "title": "66% of Americans would not want AI to help make hiring decisions",
+      "excerpt": "A recent Pew Research study about using artificial intelligence when hiring and evaluating workers reveals mixed opinions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/hiring-with-ai-pew/",
+      "originalUrl": "https://www.techrepublic.com/article/hiring-with-ai-pew/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2022/09/future-procurement-data-first.jpeg",
+          "width": 1200,
+          "height": 606,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/hiring-with-ai-pew/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/hiring-with-ai-pew/amp/",
+      "publishedDateTime": "2023-04-24T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-singer-grimes-oks-using-her-voice-for-ai-generated-tunes-no-nazi-songs-please.md",
       "title": "Singer Grimes OKs Using Her Voice for AI-Generated Tunes (No Nazi Songs, Please)",
       "excerpt": "After an AI song mimicking Drake and The Weeknd went viral, the Canadian musician invites people to create AI-generated music with her voice, if they split royalties and avoid toxic lyrics.",
@@ -112,7 +257,7 @@
       "originalUrl": "https://techxplore.com/news/2023-04-transparent-boost-artificial-intelligence.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -299,7 +444,7 @@
       "originalUrl": "https://www.cnbc.com/2023/04/24/microsoft-backed-tech-group-bsa-pushes-for-ai-regulation.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -396,7 +541,7 @@
       "originalUrl": "https://www.forbes.com/sites/jonmarkman/2023/04/24/buy-ark-genomic-revolution-for-a-piece-of-the-ai-paradigm-shift/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -447,7 +592,7 @@
       "originalUrl": "https://techxplore.com/news/2023-04-young-social-media-users-machine.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -490,7 +635,7 @@
       "originalUrl": "https://venturebeat.com/ai/the-data-that-trains-ai-is-under-the-spotlight-and-even-im-weirded-out-the-ai-beat/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -739,7 +884,7 @@
       "originalUrl": "https://techcrunch.com/2023/04/24/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 239,
+      "heat": 249,
       "tags": null,
       "images": [
         {
@@ -1066,159 +1211,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-5-crucial-components-of-an-ai-company.md",
-      "title": "5 Crucial Components Of An AI Company",
-      "excerpt": "In this article, I'll explore five crucial factors that should drive the decision making of VCs and investors when identifying investment opportunities and evaluating long-term potential in the competitive and oversaturated AI space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6442b28cc7d2114a4afa0045/0x0.jpg?format=jpg&width=1200",
-          "width": 1014,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/24/5-crucial-components-of-an-ai-company/amp/",
-      "publishedDateTime": "2023-04-24T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-using-generative-ai-in-workforce-management.md",
-      "title": "Using Generative AI In Workforce Management",
-      "excerpt": "Generative AI is the most transformative thing in the business landscape right now, perhaps even since the proliferation of the internet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62825152c50f091b0e2568f8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/using-generative-ai-in-workforce-management/amp/",
-      "publishedDateTime": "2023-04-24T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-how-ai-can-transform-the-software-engineering-process.md",
-      "title": "How AI Can Transform The Software Engineering Process",
-      "excerpt": "Generative AI will expedite the pace of modern software development, promote experimentation and even transform the current software engineering funnel in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6058b5411e82e550078f5886/0x0.jpg?format=jpg&width=1200",
-          "width": 790,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/amp/",
-      "publishedDateTime": "2023-04-24T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
