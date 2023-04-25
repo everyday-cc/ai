@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 60
+heat: 42
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "PF8aLn0W39LET4Xb6O3Ibei1d0AE5FEUuRt8BH/XB74bx6nNA2gz8cHdJ+Ujt2on1T/cfAUHUuW2ULjRfiP5sKoEZAE9Rr1yik8KJ3F82/Cet6mEfWCdUfmOY4uCH5DC2Lx9Dse3uZ2d1wwWdCg9OdUu073aXNCTOAUTqhgYkhdMJXuiv7nRPtwrsaG/ckoiq8g5RDZtkDtZqVzAWYPn4PMT/OehvoBMk7BsgNLgbwvcbFQ0JXRLMsHozwIpzxs75OstqsGIY1RVuuJo95CzxStt39FJaDFQgM2kMwk4YeHfR0fVknhtBx+8MtxhecbnG2C9Heq2tINUMZShaA0KS1jEM7qqv8Ci0ooCPVcnc287Kddkzz/8c05QUPJOAUjeMf2q/FBBBv04xJd6HY/jcIjiiqec9/k5qTbxMKm0IH8=;fDEcd1MVKvLd97ahjT18vg=="
+secured: "SKlFafbUVaS0eLHqp38xQSGFa3FCy9zkxrunwbginokgj3IV3p5YBSXkoLn0aYtN8vVhGhlVvBRPmO3n4Ti0X//X2KneyBDLGZ2ZTKP5B2lZPQuhMNQoUj0lgpWQzcA/ikoBbeMVxEPbutJGTRTqGhnmIyl3M63wdkti2v8Nd9itIJz4i3mfWA+BfekDNS8XP3+o7Z6TfCrERlzULmt8yrbYk4T+ZhysBPkiYcit8nSlmdfOEWiWsubbHgmQr+f2B5WQS/rOFrOv+Y91bxiP362VD8oRobdtutlzEDaMUVe4m4ZJ5HSqSvgOfOuxsVAoYG5pvXiyDy9jy4qj+K69LrgPkLyc+Xc9fjhDB70PQ5k6szZ0uXDD/1IuYwxFVRL3N4GD4W8/TbWa/aqFl0PDSlFT72xKOpA4ac8qkqyRwP8=;J/pZc6BO9nm9RcEw0mpIMg=="
 ---
 
