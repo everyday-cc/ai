@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Demand by 2031"
+    excerpt: "The latest market research report on the Global \"Artificial Intelligence Market\" is segmented by Regions, Country,"
+    publishedDateTime: 2023-04-26T06:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-demand-by-2031-2023-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cloud Natural Language Processing Market Demand by 2031"
     excerpt: "The latest market research report on the Global \"Cloud Natural Language Processing Market\" is segmented by Regions, Country, Company and other Segments. The global Cloud Natural Language Processing market is dominated by key Players,"
     publishedDateTime: 2023-04-21T18:14:00Z
@@ -117,20 +131,6 @@ related:
     excerpt: "The latest market research report on the Global \"Mobile Artificial Intelligence Market\" is segmented by Regions,"
     publishedDateTime: 2023-04-24T08:46:00Z
     webUrl: "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-market-demand-by-2031-2023-04-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Demand by 2031"
-    excerpt: "The latest market research report on the Global \"Artificial Intelligence Market\" is segmented by Regions, Country,"
-    publishedDateTime: 2023-04-26T06:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-demand-by-2031-2023-04-26"
     type: article
     provider:
       name: MarketWatch

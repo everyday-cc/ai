@@ -110,22 +110,6 @@ related:
         width: 1024
         height: 613
         isCached: true
-  - title: "4 Ways ChatGPT Can Bolster The Insurance Industry"
-    excerpt: "ChatGPT has the power to bolster data collection and analysis by scouring digital resources for similar cases, helping underwriters identify risk patterns while saving valuable time. With this predictive modeling, risks can be mitigated well before they become problematic, expediting this step of the insurance process."
-    publishedDateTime: 2023-04-25T11:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/25/4-ways-chatgpt-can-bolster-the-insurance-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/25/4-ways-chatgpt-can-bolster-the-insurance-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/25/4-ways-chatgpt-can-bolster-the-insurance-industry/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6442c991c58a2f3beb23907c/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 797
-        isCached: true
   - title: "ChatGPT: How generative AI could change hiring as we know it"
     excerpt: "Candidates are already using tools such as ChatGPT to write cover letters and CVs. But it’s just a small piece of how AI is transforming hiring processes."
     publishedDateTime: 2023-04-23T19:38:00Z
@@ -181,29 +165,6 @@ related:
         width: 3840
         height: 2562
         isCached: true
-  - title: "How ChatGPT and other advanced AI tools are helping secure the software supply chain"
-    excerpt: "AI tools like ChatGPT are improving intelligence gathering and detection and patching of vulnerabilities in the software supply chain."
-    publishedDateTime: 2023-04-25T18:05:00Z
-    webUrl: "https://venturebeat.com/security/how-chatgpt-other-advanced-ai-tools-helping-secure-software-supply-chain/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 42
-  - title: "ChatGPT explained: Everything you need to know about the AI chatbot"
-    excerpt: "Microsoft has been reportedly working on its own AI chip for some time, and it is hoping that it can be mass-produced as soon as 2024. If successful, these chips could power the Azure ..."
-    publishedDateTime: 2023-04-21T15:23:00Z
-    webUrl: "https://www.tomsguide.com/news/chatgpt"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 41
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/7FnxdYvdQ3Ugo3WjnKaYiK-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Russia’s biggest bank unveils GigaChat, another rival to ChatGPT"
     excerpt: "Russian lender Sberbank released GigaChat, initially in an invite-only testing mode, joining the AI chatbot race."
     publishedDateTime: 2023-04-26T00:30:00Z
@@ -217,20 +178,6 @@ related:
       - url: "https://techwireasia.com/wp-content/uploads/2023/04/shutterstock_1950040216-scaled.jpg"
         width: 2560
         height: 1631
-        isCached: true
-  - title: "AI experts say ChatGPT, other chatbots fine to use with caution"
-    excerpt: "Amid widespread debate over ChatGPT and similar chatbots, Japan’s artificial intelligence experts expressed cautious optimism regarding the generative AI."
-    publishedDateTime: 2023-04-26T07:28:00Z
-    webUrl: "https://www.asahi.com/ajw/articles/14894495"
-    type: article
-    provider:
-      name: 朝日新聞社
-      domain: asahi.com
-    quality: 39
-    images:
-      - url: "https://p.potaufeu.asahi.com/43b2-p/picture/27549615/9a5a02d4feff0539fac813e67c964089.jpg"
-        width: 660
-        height: 440
         isCached: true
   - title: "Chat AI Chatbot Assistant: Revolutionizing Productivity And Assistance Powered By Chatgpt"
     excerpt: "Chat AI Chatbot powered by ChatGPT Discover the power of intelligent and engaging conversations with the Chat AI Chatbot Assistant app, n"
@@ -305,15 +252,6 @@ related:
     provider:
       name: manilatimes
       domain: manilatimes.net
-    quality: 19
-  - title: "GigaChat: Russia enters AI race with its ChatGPT rival"
-    excerpt: "After Chinese companies unveiled their AI models, it is now Russia's turn to showcase its AI chatbot. How good is it, we won't know for long."
-    publishedDateTime: 2023-04-24T12:47:00Z
-    webUrl: "https://interestingengineering.com/innovation/russian-chatgpt-rival-gigachat"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
     quality: 19
 
 secured: "ukctZdEcR7h9W7CwbvKNsB62rFvynzxCDLy40z48WVssXeO+dmjARWZqjSTeQoQyaVk5DcL2JPIcCeSl5/ZZIhPK5r9199uVdG+vgS++QOv9jlqqgaf7yQR0izCTf7KOy6FDeQEISctT2pK93HECBwjf4s/X43zbSw+N4timh7Wo8p/JiznV1IOAJwwlBArtFlmDQ7/5FNeUaUVaxgD11xsmB7xo1nnFdcMfRes6BLnLQIKR9mHS2Q3CTJ4fDXffiXZnXxir5mf3aI3WjIuCn6VG2ErHdg4ltyejGofYYLfR2d+uYTOa9+qQU0V+zJ/aj5/wA74CWfrwSZ8ub0lgbNmaMmk+dPTX1BsNkGThR9YKLDM3zANW1wUze2bw5V98EBBI5d0hI/r2xfAb2y+ZqRUs89o8MzOzzEdbYqW7MdjNMGAQShEGoAvyLB3eP3lPnOK5q3Q9+h85JPgtsIAsLEMg2jesY4QU8/IzX8U1qLl03J1yyC01hymNeCWOXO6TMuzSvgFGoVvkiH4lbLSWkg==;vhXRpqLYm/cEwzvdmZmLGw=="

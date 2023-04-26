@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-eerie-ai-generated-attack-ad-on-biden/amp/"
 type: article
 quality: 87
-heat: 129
+heat: 127
 published: true
 
 provider:

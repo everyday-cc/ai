@@ -1,26 +1,26 @@
 ---
 category: news
 title: "UP Fintech unveils TigerGPT, the industry's first AI investment assistant"
-excerpt: "TigerGPT is currently the industry's first AI investment assistant and part of UP Fintech's broad layout of internet services Now in user testing, TigerGPT aims to offer timely market and stock ..."
-publishedDateTime: 2023-04-12T09:02:00Z
-originalUrl: "https://www.victoriaadvocate.com/up-fintech-unveils-tigergpt-the-industrys-first-ai-investment-assistant/article_3892e66e-cd82-59af-80d3-ad0a6175df80.html"
-webUrl: "https://www.victoriaadvocate.com/up-fintech-unveils-tigergpt-the-industrys-first-ai-investment-assistant/article_3892e66e-cd82-59af-80d3-ad0a6175df80.html"
+excerpt: "NEW YORK, April 12, 2023 /PRNewswire/ -- TigerGPT, a text-generating AI chatbot developed among UP Fintech's vast internet services, is introduced as the first deployment of an AI investment ..."
+publishedDateTime: 2023-04-12T13:33:00Z
+originalUrl: "https://www.asiaone.com/business/fintech-unveils-tigergpt-industrys-first-ai-investment-assistant"
+webUrl: "https://www.asiaone.com/business/fintech-unveils-tigergpt-industrys-first-ai-investment-assistant"
 type: article
 
 provider:
-  name: The Victoria Advocate
-  domain: victoriaadvocate.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/c/45/c458b092-912e-51f5-9093-4b867d3ec77e/6436688b2b282.image.jpg?crop=605%2C318%2C0%2C143&resize=605%2C318&order=crop%2Cresize"
-    width: 605
-    height: 318
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Apr2023/image_822796_24155510_0.jpg?h=04d92ac6&itok=A8svN3j5"
+    width: 600
+    height: 316
     isCached: true
 
-secured: "O+zfdXmpp2Epa0vi6s84Q1LcWkZYHD+zyZcmt5tuebczdI6+HcW2FZPlC87QPmtFNRR+g2r/gBAWEIU9LuoHy0psDHaY7W9AW9pgqg8OoJy0LjhA44mQ+bXXgVx7m1GSXCBGjttt9nRCr+wAIoniBVcEPHKTOeApphSSnM+AJb7FXEpNsgcK6XqW4GDhSMirznHlsEzDF/TAhxwE3aRvF9ZuHvz2yLiZSpoCoXrZcNtMyynniZfIts8KpzsuA8qqwzlAGSsAbFf2/Wu8Q5Wvku3JeTgx8FSGkHV94uB9ahhXmYvpd0ZW77yaZyKjnzmcco1Z0yX/L5fJ0j6SgW764LG+k5elT6mSwlk5jF159Aw=;Igb3/sOIgqqsevu4jQvglw=="
+secured: "HlPHk1BWyiWGMh+8ezWbx6vQMO36UYf1uk6PvjuSsAJCFReaKtd3ZE/4S+pOG7jp/1cFwNpFMTV8WKAUjXPZxn4uGEMylpYKPWHkc+Bd1UxaQzRwdfF5eiuR6XYOHr5UdkHTt+Wuj2f72FR04IET3r4RDligvjF49pIhw1/OZPq3+S/VQjxNsupn7HsmL/4izm9gWP+12hdLdalcNyawmJVsF1wmCTqbfrWdD999cgNB5pPhYYEsZZbHurYa/hyXCTVNNwL1zB5VREvOiwRp5a8tWWZ42krs2zLeSuFl5S+ULTD5WQiU5q4V8osAWLp5x3PqxFdix5YyrGrUYqDu9LzswntMLnsuKOU4Q+XOcBU=;wMUk/o37FzQZNS9xMkU0uA=="
 ---
 

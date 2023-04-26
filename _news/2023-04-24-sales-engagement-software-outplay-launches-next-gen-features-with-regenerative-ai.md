@@ -55,15 +55,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "SqueezeBits Demonstrates World's Fastest On-device Image Generation AI for Mobile Devices"
-    excerpt: "The Stable Diffusion model, which SqueezeBits has optimized, is a popular image generation AI model that creates novel images based on text prompt. The model, containing over 1 bi"
-    publishedDateTime: 2023-04-21T16:23:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/04/21/9799534.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
 
 secured: "3RYCzovZOgytTAphneuKP4hH/9M5u0FCYTqMgYF1aYolKvHEA8A6fyNAvCvJ+I6fjU1/ZHiXHeiGy+n4+f8OO2sW61IyYg4rW2XoSztiMWaaoZaczg0OWkRsXdAOm6T+Lgx//Hhs7ZdbjSyJxtkiLVT1+nX6Ctq0FQrXMWy4M/jH5XqmFX+wUeCaCFOFxORgRkQkBhZiKB/mkdKG4ZCUtiMOZhSGZ9xDve5Otk1u8uLg66a7H/DxVPf4rxSQ4fWIFfVs3IOvpb87mHEmKB1o5Cysw2D0BKbQT8kvU7D2pJlATrexU/7fuVWq1QdnpJfqMVxmkUik4RCcra8bfVsQCxXhtNWv/o6y+RrCQZdh+fyuLAH0gu4E5/keIuQOtY8JZ2gytwe4m0VL32qR6RicePi/lR/RcxykgQ4zLWUpZyZlFJWL/c99VvKY77DBnsRV73gDKzkqJBVPlkngQFjtMoJquLLDsITfEpIUkHbsxczlDnMieXqwt/vhUpdm4QOyOzk03E4DeA8GY79kXWjpMQ==;p/Ek1QvLgQD5FqEurPieGA=="
 ---

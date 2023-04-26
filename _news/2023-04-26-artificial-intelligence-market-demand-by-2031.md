@@ -6,7 +6,7 @@ publishedDateTime: 2023-04-26T06:04:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-demand-by-2031-2023-04-26"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-demand-by-2031-2023-04-26"
 type: article
-quality: 67
+quality: 71
 heat: -1
 published: false
 
@@ -20,6 +20,8 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

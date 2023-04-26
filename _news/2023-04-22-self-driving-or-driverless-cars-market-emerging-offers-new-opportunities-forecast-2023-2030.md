@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverle
 webUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-emerging-offers-new-opportunities-forecast-2023-2030-2023-04-22"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://media.12news.com/assets/KPNX/images/a2166696-37f9-4029-9180-c7ca1cf65d15/a2166696-37f9-4029-9180-c7ca1cf65d15_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "Object Recognition Imaging Systems Market Size From 2023 And Unlimited Opportunities for New Companies"
+    excerpt: "Object Recognition Imaging Systems Market Size 2023 | New Report (127 Pages) | Analytics | In This Reports Object Recognition Imaging Systems Market Top Object Recognition Imaging Systems Companies (Servo-Robot Inc,"
+    publishedDateTime: 2023-04-24T03:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-size-from-2023-and-unlimited-opportunities-for-new-companies-2023-04-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Elon Musk pins hopes on full self-driving as Tesla's next profit driver"
     excerpt: "Some analysts and investors worry that Tesla's industry-leading market valuation is threatened by factors including price cuts that have undermined its margins, delays in rolling out new models and revisions to its full self-driving software."

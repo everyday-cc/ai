@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kinetix launches text-to-animation AI for new era in user-generated content"
+    excerpt: "Kinetix has announced Text2Emotes, a generative AI technology that heralds a new era of user-generated gaming content (UGC)."
+    publishedDateTime: 2023-04-26T07:59:00Z
+    webUrl: "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/"
+    ampWebUrl: "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/kinetix-text2emote.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Yellow AI launches dynamic automation platform powered by generative AI for enterprises"
     excerpt: "Yellow AI today launched its Dynamic Automation Platform (DAP) to automate customer and employee experiences across channels."
     publishedDateTime: 2023-04-25T14:57:00Z
@@ -41,15 +57,6 @@ related:
         width: 1200
         height: 652
         isCached: true
-  - title: "Deloitte teams with NVIDIA on artificial intelligence platform for logistics and retail"
-    excerpt: "Consulting firm Deloitte today launched a suite of artificial intelligence (AI) tools for logistics and retail businesses, saying they can help users to enhance customer experiences, optimize operations,"
-    publishedDateTime: 2023-04-25T17:40:00Z
-    webUrl: "https://www.dcvelocity.com/articles/57292-deloitte-teams-with-nvidia-on-artificial-intelligence-platform-for-logistics-and-retail"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 24
 
 secured: "4QpKVaU6dA5TtFiZXV2dG7ew6+I7+wK2VGWmnGAiGDjRUxxPIv+fQU49HUpUEwx77ere+TGtTtgbErvTFcSJLmPjYJQqa5xmqKEPYz13cNOhz9lmh5ccnmTe8ugW1mEBG6gaEelIDZ+WAGwmyC9FJeOLFP47MhqznohCoQA6tNwCw/XAinYcLH1qnrdmrCVEstoH3n/df89G0wLqbh+S8cqWx95zAm9Ygx+zuSbGipwVT/vLFSkCd8iGH+Sm+Dz8MAQs8SPi3zzWax+rouHqmgYvES2it7jm6f0ISgOrfzgF8n4qxRM9b6n2aUwEqGV64Q5IV4dJa1qsDTyra4bDzsxQo3JEA1AYaHk8gnihcbk=;arRUC9GS+hxPMHqzUK8Cjw=="
 ---

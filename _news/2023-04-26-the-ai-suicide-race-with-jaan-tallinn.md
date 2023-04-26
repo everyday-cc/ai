@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/calumchace/2023/04/26/the-ai-suicide-ra
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2023/04/26/the-ai-suicide-race-with-jaan-tallinn/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 987
     isCached: true
 
-secured: "kTWugwNDr1clAR68ZK7fyccQ6CbOlcfMBg0jHXzDobYAARp8hq35wV+3wvJaEAK8z3AEz1JcA5jBX6pXxKTS1htEiRrVNkIsJvDN7cjULwC+Umw/QXcpBGbB7cm5ps2OoyyptpKl1HkPS1V2eMjjnVHw1yQ0ckhaWIiLFnhYxKVwokQsvHDPGMhBs7h9kZ+L7y6cBybbwr4AuC+VVSfTZw2Ih4h/yzdIjdI2a3OTFRcJKg5CIjSo8Kyh+BLkOOfNv1wuVNpFRUyLFc/zPCj68ioPDTaPyFudBIVtpv9khuB/flBuPyPHJTDAcCgKya7v4K3G6ItiRVUN1KG3PGLWjwfv6Oenu1z2zLD4Lb0CB0M=;89/y8SgeSGro/+z+VlztyQ=="
+secured: "/2xadaqA7ZLgXmiFwQJXtSv18ECyB/UuNw+VdhVxyg/enyXNyTi4IeSSa1O7vQV0mxa3T94yVMXUuipcHxWQ97JRc6Jt494q9l5fxZl9ME+OedYzusRuMu4FHZwLYBnSOv+xNZDMr8pFdSIj8OtB0qKJCB9lzpIVp3Qd7dyTCwOcVWLLPcaJJZoPFQ76ocSfl79hz2mYBbPaQgym9HsukGSMMnDVfGMVt2Jj1o1jV4FLSLJ7aFgr5JIqzvb/+7tMIjgWSdy2b/ztTS+5j1E8VM+Gl46fKFfHKT3BvYD+a7te/YQyY09tkGGvl90XIZDv5EN9P7N66E1zpPO9dKcA6QtEzKVyuMBxuebAk6rQ4L8l7SMTPv7Y3FvFKiZUKuNsSXtIBs0Oe1ESBrWeifmeMcUti0JD36Jpx7s+1kJXS5mU/Hmf6eYqKhhjmyvqyqp37rGtoT/paCItjUjkMzuMVvb3Pw6CZ3vrrtW0gls2HW03PdRI3mBnDjkDtT8un/fymwTrIluYOL+sZy8DvAo8uQ==;sIGc5cBMg4852Mm42TT8PA=="
 ---
 

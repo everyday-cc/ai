@@ -106,48 +106,6 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 62
-  - title: "Google merges its DeepMind and Google Brain AI research groups"
-    excerpt: "Google LLC parent Alphabet Inc. is merging its two main artificial intelligence research groups into a single unit. Alphabet Chief Executive Officer Sundar Pichai announced the move in a blog post published today."
-    publishedDateTime: 2023-04-21T16:04:00Z
-    webUrl: "https://siliconangle.com/2023/04/20/google-merges-deepmind-google-brain-ai-research-groups/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/deepmind.png"
-        width: 1032
-        height: 580
-        isCached: true
-  - title: "Google's DeepMind And Brain Teams Join Forces To Create An AI Powerhouse"
-    excerpt: "Google is merging its Google Brain and DeepMind divisions to double down on the race to AI dominance. Jeff Dean, head of Google's AI, has been named chief scientist as part of the changes."
-    publishedDateTime: 2023-04-21T16:12:00Z
-    webUrl: "https://hothardware.com/news/googles-deepmind-and-brain-teams-join-forces-to-create-ai-powerhouse"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 53
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/61449/content/hero-google-deepmind.jpg"
-        width: 708
-        height: 398
-        isCached: true
-  - title: "Google’s new DeepMind division wants to take ChatGPT head-on"
-    excerpt: "Ever since ChatGPT and after it Bing Chat took the internet by storm, Google has been scrambling to come up with a competent answer. The company quickly held a thrown-together AI event in Paris, even though it announced its big ChatGPT competitor,"
-    publishedDateTime: 2023-04-21T16:56:00Z
-    webUrl: "https://www.androidpolice.com/google-deepmind-take-chatgpt-head-on/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 39
-    images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/04/google-deep-mind-hero.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Google Merges DeepMind and Brain AI Units"
     excerpt: "Google has merged its artificial intelligence research units, DeepMind and Brain, to form a new unit called Google DeepMind. Google acquired DeepMind in 2014. The firm combines machine learning techniques with neuroscience systems to build learning algorithms for eCommerce and games development."
     publishedDateTime: 2023-04-24T23:32:00Z

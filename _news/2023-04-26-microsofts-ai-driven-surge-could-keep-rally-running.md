@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft shares surge 7% after the ChatGPT investor reveals AI boosted its cloud sales"
+    excerpt: "Microsoft CEO Satya Nadella said AI fueled growth in the tech giant's Azure cloud business and Bing search engine last quarter."
+    publishedDateTime: 2023-04-26T09:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-price-chatgpt-investor-ai-cloud-azure-satya-nadella-2023-4"
+    ampWebUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-price-chatgpt-investor-ai-cloud-azure-satya-nadella-2023-4?amp"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/microsoft-stock-price-chatgpt-investor-ai-cloud-azure-satya-nadella-2023-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 113
+    images:
+      - url: "https://i.insider.com/6448deb490523900196fee22?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "How to use Microsoft Edge's integrated Bing AI Image Creator"
     excerpt: "How to use Bing AI Image Creator within Microsoft Edge. First, make sure you're running the latest version of Microsoft's browser. In Edge, click the thr"
     publishedDateTime: 2023-04-25T15:15:00Z
@@ -89,6 +105,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Microsoft Previews ChatGPT in Azure OpenAI Service – Redmondmag.com"
+    excerpt: "Advanced SearchNewsMicrosoft announced on Thursday that its Azure OpenAI service now offers a preview of ChatGPT, the OpenAI-based chat engine.Microsoft's"
+    publishedDateTime: 2023-04-22T23:46:00Z
+    webUrl: "https://www.inferse.com/490179/microsoft-previews-chatgpt-in-azure-openai-service-redmondmag-com/"
+    ampWebUrl: "https://www.inferse.com/490179/microsoft-previews-chatgpt-in-azure-openai-service-redmondmag-com/?amp=1"
+    cdnAmpWebUrl: "https://www-inferse-com.cdn.ampproject.org/c/s/www.inferse.com/490179/microsoft-previews-chatgpt-in-azure-openai-service-redmondmag-com/?amp=1"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 89
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/04/wp-header-logo-8927.png"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft Sees AI Shaking Up Search While Google Calms Investors"
     excerpt: "Alphabet Inc.’s Google and Microsoft Corp., whose quarterly earnings each got a boost from their established search and cloud-computing businesses, used their time with investors to emphasize what’s next: artificial intelligence."
     publishedDateTime: 2023-04-26T00:16:00Z
@@ -131,49 +163,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Amid Microsoft-Google AI Rivalry, Apple Could Be The Winner 'No Matter Where Industry Goes:' Analyst"
-    excerpt: "Artificial Intelligence (AI) tech is an $800 billion market opportunity over the next decade as it pervades into the enterprise and consumer tech space, said Wedbush analyst Daniel Ives in a recent note."
-    publishedDateTime: 2023-04-24T09:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/amid-microsoft-google-ai-rivalry-apple-could-be-the-winner-no-matter-where-industry-goes-analyst-1032253335"
+  - title: "4 Ways ChatGPT Can Bolster The Insurance Industry"
+    excerpt: "ChatGPT has the power to bolster data collection and analysis by scouring digital resources for similar cases, helping underwriters identify risk patterns while saving valuable time. With this predictive modeling, risks can be mitigated well before they become problematic, expediting this step of the insurance process."
+    publishedDateTime: 2023-04-25T11:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/25/4-ways-chatgpt-can-bolster-the-insurance-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/25/4-ways-chatgpt-can-bolster-the-insurance-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/04/25/4-ways-chatgpt-can-bolster-the-insurance-industry/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Apple_logo_on_macbook_2.jpeg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Microsoft is working on its own AI chip ‘Athena’ to cut down cost of machine learning operations"
-    excerpt: "Microsoft is developing its own AI chip called Athena for powering Large Language Models used to develop generative AI products."
-    publishedDateTime: 2023-04-24T07:54:00Z
-    webUrl: "https://www.medianama.com/2023/04/223-microsoft-ai-chip-athena-machine-learning/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 75
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2021/08/chip-6517875_1280.jpg"
-        width: 1280
-        height: 838
-        isCached: true
-  - title: "AI-driven Microsoft Bing, startup You threaten Google's Search dominance"
-    excerpt: "New AI features in Microsoft Bing search engine and startup You.com have started to threaten Google's Search dominance, as users seek more efficient search options."
-    publishedDateTime: 2023-04-24T07:57:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/ai-driven-microsoft-bing-startup-you-threaten-googles-search-dominance/articleshow/99726281.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/ai-driven-microsoft-bing-startup-you-threaten-googles-search-dominance/amp_articleshow/99726281.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/ai-driven-microsoft-bing-startup-you-threaten-googles-search-dominance/amp_articleshow/99726281.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 73
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-99726281,imgsize-32894,width-800/99726281.jpg"
-        width: 800
-        height: 600
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6442c991c58a2f3beb23907c/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 797
         isCached: true
   - title: "Microsoft results top forecasts as AI boosts sales"
     excerpt: "Microsoft has beaten Wall Street's estimates for quarterly revenue and profit, driven by growth in its cloud computing and Office productivity software businesses, and the company said artificial intelligence products were stimulating sales."
@@ -217,34 +221,6 @@ related:
         width: 1500
         height: 800
         isCached: true
-  - title: "Artificial Intelligence Based Medical Device Market 2023 Precise Outlook – Google, Apple, Microsoft, IBM"
-    excerpt: "The global Artificial Intelligence Based Medical Device market 2023 research report typically contains an in-depth analysis of a specific market or industry. It provides insights into market size, trends,"
-    publishedDateTime: 2023-04-25T10:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-2023-precise-outlook-google-apple-microsoft-ibm-2023-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft Q3 Earnings Report: Generative AI Brings In New Customers"
-    excerpt: "Despite generative artificial intelligence’s recent surge in popularity, Microsoft is already seeing new customers and new money-making opportunities – good news for early-ado"
-    publishedDateTime: 2023-04-26T01:33:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-q3-earnings-report-generative-ai-brings-in-new-customers"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0280-17d4ceec3a43-8e4af63e8e24-1000/satya-nadella-2021.jpeg"
-        width: 611
-        height: 458
-        isCached: true
   - title: "Microsoft reports boost in profits, revenue, as it pushes AI"
     excerpt: "Analysts polled by FactSet expected Microsoft to post revenue of $51.02 billion for the quarter. The quarter marked an ambitious push by Microsoft to capitalize on its investments in artificial intelligence and partnership with San Francisco-based startup OpenAI with the February release of a new AI chatbot feature on its search engine Bing."
     publishedDateTime: 2023-04-26T01:23:00Z
@@ -272,36 +248,6 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/SJK7yNudI5GxPiZ5E0V7YA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDc-/https://media.zenfs.com/en/aol_yahoo_finance_433/40f5734b4dd26494e910459aedb729b3"
         width: 1200
         height: 847
-        isCached: true
-  - title: "Microsoft integrates Copilot into its employee engagement platform, Viva - but does AI really lead to better engaged employees?"
-    excerpt: "At a recent summit, Microsoft announced that its AI assistant, Copilot, will be rolled out across its employee experience platform, Viva; news which won’t come as too much of a surprise given artificial intelligence hype is flooding through corporations around the globe."
-    publishedDateTime: 2023-04-24T08:34:00Z
-    webUrl: "https://diginomica.com/microsoft-integrates-copilot-its-employee-engagement-platform-viva-does-ai-really-lead-better"
-    ampWebUrl: "https://diginomica.com/microsoft-integrates-copilot-its-employee-engagement-platform-viva-does-ai-really-lead-better?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/microsoft-integrates-copilot-its-employee-engagement-platform-viva-does-ai-really-lead-better?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 48
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2022-03/8D40D55D-AC36-4DA2-875F-0AC7F6A219D5.jpeg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Siemens and Microsoft drive industrial productivity with generative artificial intelligence"
-    excerpt: "Siemens' new Teamcenter app for Microsoft Teams to use AI, boosting productivity and innovation throughout a product lifecycleAzure OpenAI Service powered assistant can augment the creation, optimization and debugging of code in software for factory automationIndustrial AI to enable visual quality inspection on the shop floorSiemens and Microsoft are harnessing the collaborative power of (AI) to help industrial companies drive innovation and efficiency across the design,"
-    publishedDateTime: 2023-04-24T09:42:00Z
-    webUrl: "https://www.newswit.com/en/M5T3"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 44
-    images:
-      - url: "https://www.newswit.com/img/f/20230424/c1ff69547c5cca490d95efe7466311a0-0.jpg"
-        width: 1200
-        height: 673
         isCached: true
   - title: "The era of AI: How the Microsoft Cloud is accelerating AI transformation across industries"
     excerpt: "This past quarter has put a spotlight on advancements in generative AI, and the possibilities of its application to deliver pragmatic business outcomes. For organizations around the world, there is incredible opportunity to enhance products and services while unlocking innovation and business value to help shape the future of industry."
@@ -331,6 +277,29 @@ related:
         width: 2048
         height: 1360
         isCached: true
+  - title: "How ChatGPT and other advanced AI tools are helping secure the software supply chain"
+    excerpt: "AI tools like ChatGPT are improving intelligence gathering and detection and patching of vulnerabilities in the software supply chain."
+    publishedDateTime: 2023-04-25T18:05:00Z
+    webUrl: "https://venturebeat.com/security/how-chatgpt-other-advanced-ai-tools-helping-secure-software-supply-chain/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 42
+  - title: "AI experts say ChatGPT, other chatbots fine to use with caution"
+    excerpt: "Amid widespread debate over ChatGPT and similar chatbots, Japan’s artificial intelligence experts expressed cautious optimism regarding the generative AI."
+    publishedDateTime: 2023-04-26T07:28:00Z
+    webUrl: "https://www.asahi.com/ajw/articles/14894495"
+    type: article
+    provider:
+      name: 朝日新聞社
+      domain: asahi.com
+    quality: 39
+    images:
+      - url: "https://p.potaufeu.asahi.com/43b2-p/picture/27549615/9a5a02d4feff0539fac813e67c964089.jpg"
+        width: 660
+        height: 440
+        isCached: true
   - title: "Microsoft Previews Defender for APIs in Defender for Cloud"
     excerpt: "Microsoft this week introduced a preview of a new 'Microsoft Defender for APIs' security solution, which is part of the Microsoft Defender for Cloud service."
     publishedDateTime: 2023-04-25T23:33:00Z
@@ -345,6 +314,15 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft Stock Leaps As Cloud Strength Drives Q3 Earnings Beat, Offsets Muted Azure Gains"
+    excerpt: "Microsoft Cloud revenues were up 22% from last year over the third quarter, topping Street forecasts and driving a solid earnings beat for the tech giant."
+    publishedDateTime: 2023-04-26T00:13:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/microsoft-stock-leaps-as-cloud-strength-drives-q3-earnings-beat-offsets-muted-azure-gains"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 39
   - title: "Microsoft Q3 Earnings Preview: All Eyes Are On AI-Driven Growth"
     excerpt: "Microsoft Corp. (NASDAQ: MSFT) will announce fiscal year 2023 third-quarter financial results on Tuesday, April 25, after market close. Here are five things to know ahead of the report:"
     publishedDateTime: 2023-04-24T13:04:00Z
@@ -363,6 +341,15 @@ related:
       name: Automation World
       domain: automationworld.com
     quality: 34
+  - title: "GigaChat: Russia enters AI race with its ChatGPT rival"
+    excerpt: "After Chinese companies unveiled their AI models, it is now Russia's turn to showcase its AI chatbot. How good is it, we won't know for long."
+    publishedDateTime: 2023-04-24T12:47:00Z
+    webUrl: "https://interestingengineering.com/innovation/russian-chatgpt-rival-gigachat"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 19
 
 secured: "ZIrl4x5DEYN7CnMh0YGSB5bcYcZh/sSjB/gPv6Y1sM+oCVyq6YC5Dr8x+aYHIRyDkLTyvxgwZU8M1RUcB5XOm4pIIHMAYXZ4DhB96MoGAMXcSCWitu55csN+dMAZFOAv03FZBuBSzQey7h1UORHBmbIKpwM7ipfAT3ZSVhSWD/6zczTOSP2bMc0Kwsxprkv1cNecLOQCL++ElvIzA1G59DnpVP3jfnaMOcACft6vPt4ceGlERtONyJvOyX2UCmFUNEiPfvdTcd6jHO+pmaQ4jbhFh2gXXEjta8sI4PxxkWXidqfmpkQ9PNqYwXm8VgH+4UoSN5aCsuJ5AhKD2xdM7Z1EMzJbZIzJR6Kz2xDzGGQ=;H4VA6nEBPl5iFM5ZBzfXNA=="
 ---

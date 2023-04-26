@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/sensory-enables-voice-chat-with-generativ
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/sensory-enables-voice-chat-with-generative-ai-on-consumer-devices/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 59
-  - title: "SqueezeBits Demonstrates World's Fastest On-device Image Generation AI for Mobile Devices"
-    excerpt: "The Stable Diffusion model, which SqueezeBits has optimized, is a popular image generation AI model that creates novel images based on text prompt. The model, containing over 1 bi"
-    publishedDateTime: 2023-04-21T16:23:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/04/21/9799534.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
 
 secured: "poRPeoj/huLS8ah07nX7NVCcIoVhq49fOOhv8Y1UJwUJSeI6P0DQwsGX594H/J6TzHJK2KBYQfmHzlqvZ4V4DJ7+J2LVlLu6m/3YXTgYVxy7wlyvmS5VssaNNeSACMHR22TIt2xRKmajoGC3QNbmQ6CPJsBUYTxLdKBQ1bqQ6Is/qzn/2zVjdKxG3+shhxoXI9C8jR2rg7qRgxu6XFafmUxd5qqwvjW5dyuScfFdI2K2pQATCKwTlAyTy26S7ZgLYbEquhvhwCLFdjJ72GqSx1HHk2CLxzqwNboQuMVcKeNGGCxjh9LC/PDM5auW95T9V0bEhLxVxCTupNVjs4mQUixQm+i6vd6fxyPPr/Uo+XMa+bvahWjbY+3NoDbl7/flK7WG4cjbkvb5ttrX5W1o7pUU8d4vYu580kcsrp0WpyA909iCA4K47MoOgTjR1vLWv4QB5Kshg3y4E8H/WQ3sUJD9y0R+XkhlAe/95PycnCFT6JVK7XQMUmAnW5psCQs6U5nwp7ENOjMXn6RqL/ozoA==;aS2XfGSth1UXXHAssMTs0w=="
 ---

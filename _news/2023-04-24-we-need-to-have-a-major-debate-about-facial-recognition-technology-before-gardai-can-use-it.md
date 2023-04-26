@@ -7,7 +7,7 @@ originalUrl: "https://www.independent.ie/opinion/comment/we-need-to-have-a-major
 webUrl: "https://www.independent.ie/opinion/comment/we-need-to-have-a-major-debate-about-facial-recognition-technology-before-gardai-can-use-it-42445330.html"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Businesses turn to facial recognition technology to avert shoplifting and robbery"
-    excerpt: "Fox News’ Douglas Kennedy reports that shoplifting and robbery crimes are up 22% from last year, prompting business owners to use facial recognition technology to stop repeat offenders."
-    publishedDateTime: 2023-04-21T16:02:00Z
-    webUrl: "https://www.foxnews.com/video/6325508060112"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 64
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f9568c0-e2b3-4369-b71e-f2066447ffc9/c9ff9a97-7061-475b-bcd1-902a42a763be/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "Facial-recognition technology will turn gardaí into roaming surveillance units"
     excerpt: "A group of experts in Ireland is sounding the alarm about the Minister for Justice’s ongoing plans to enable An Garda Síochána’s use of facial-recognition technology (FRT). These plans have ..."
     publishedDateTime: 2023-04-24T02:49:00Z

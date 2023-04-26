@@ -7,7 +7,7 @@ originalUrl: "https://hackaday.com/2019/08/25/the-tens-of-millions-of-faces-trai
 webUrl: "https://hackaday.com/2019/08/25/the-tens-of-millions-of-faces-training-facial-recognition-youll-soon-be-able-to-search-for-yourself/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 2951
     height: 1660
     isCached: true
+
+related:
+  - title: "Tinder to weed out fake profiles with facial recognition and video selfies"
+    excerpt: "Open the Tinder app. Tap the profile icon and then tap the Message Settings icon. Scroll to ‘Control Who Messages You’ and toggle on ‘Photo Verified Chat’. Done! Only Photo Verified users can message you now."
+    publishedDateTime: 2023-04-26T09:33:00Z
+    webUrl: "https://metro.co.uk/2023/04/26/tinder-introduces-facial-recognition-and-video-selfies-to-verify-users-18676377/"
+    ampWebUrl: "https://metro.co.uk/2023/04/26/tinder-introduces-facial-recognition-and-video-selfies-to-verify-users-18676377/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/04/26/tinder-introduces-facial-recognition-and-video-selfies-to-verify-users-18676377/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 57
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2023/04/tinder-9427.jpg?quality=90&strip=all&zoom=1&resize=600%2C395"
+        width: 600
+        height: 395
+        isCached: true
 
 secured: "iyZ6/AM/LeyhXjR4ivT5vKl/SGEUR0IUlg5hVvXQl8N+bWpsGzMrqQG259JnfMujdiihfW+jWGr4iMkOqPrAnuKKPq6zQJ0LxfZyg+I7K2MyIqnkOREALDD7A3ilTpvg3qT+hngeR7dFAcxpv4atZHj3SnGom3TxsV79m/xKTjLuP17ygBuQsLc5Zlw3x3U9y5wgQJwXYz3sHNkV1xkwaxz0pj2406rbUtPPBFV6CDSrRHxh6od/furMvZf7DOCevY2/ZAkmPKgj5EFEN/v1WsU2sWkrgr9wblYzd4Ptnig9H+d97W86ZR5Ed/tXkOghUbVIBMl4qXSdGzSZxeR1FGF4OahmEmksLs9YJF7FLZ0=;FJs988y+oDcS/TKe/qCD+g=="
 ---

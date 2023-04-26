@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Businesses turn to facial recognition technology to avert shoplifting and robbery"
-    excerpt: "Fox News’ Douglas Kennedy reports that shoplifting and robbery crimes are up 22% from last year, prompting business owners to use facial recognition technology to stop repeat offenders."
-    publishedDateTime: 2023-04-21T16:02:00Z
-    webUrl: "https://www.foxnews.com/video/6325508060112"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 64
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f9568c0-e2b3-4369-b71e-f2066447ffc9/c9ff9a97-7061-475b-bcd1-902a42a763be/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "We need to have a major debate about facial recognition technology before gardaí can use it"
     excerpt: "First of all, let’s be clear on what we’re talking about. Facial recognition technology (FRT) is a system capable of matching a human face from a digital image or a video frame against a database of faces. Many of us have it enabled as a security ..."
     publishedDateTime: 2023-04-24T01:35:00Z

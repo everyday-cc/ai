@@ -6,8 +6,8 @@ publishedDateTime: 2023-04-25T18:35:00Z
 originalUrl: "https://www.marketwatch.com/press-release/global-data-science-and-machine-learning-platforms-market-by-2023-2029-with-revenue-outsourcing-2023-04-25"
 webUrl: "https://www.marketwatch.com/press-release/global-data-science-and-machine-learning-platforms-market-by-2023-2029-with-revenue-outsourcing-2023-04-25"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
