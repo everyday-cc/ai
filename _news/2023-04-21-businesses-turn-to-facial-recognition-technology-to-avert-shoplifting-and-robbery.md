@@ -7,7 +7,7 @@ originalUrl: "https://www.foxnews.com/video/6325508060112"
 webUrl: "https://www.foxnews.com/video/6325508060112"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.independent.ie/opinion/comment/358a1/42445328.ece/AUTOCROP/w1240h700/1333881337"
         width: 1240
         height: 700
+        isCached: true
+  - title: "Facial-recognition technology will turn gardaí into roaming surveillance units"
+    excerpt: "A group of experts in Ireland is sounding the alarm about the Minister for Justice’s ongoing plans to enable An Garda Síochána’s use of facial-recognition technology (FRT). These plans have ..."
+    publishedDateTime: 2023-04-24T02:49:00Z
+    webUrl: "https://www.irishtimes.com/opinion/2023/04/18/facial-recognition-technology-will-turn-gardai-into-roaming-surveillance-units/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 20
+    images:
+      - url: "https://www.irishtimes.com/resizer/YRR4-iz3X48KFGQ275xxmBI1DC8=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/AIZMJ66PVZA62QPXDNPBZNXOYY.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "O2CoSpGCG3oNYCo3OxTuxFiweMFaH9wU0lbNgvASGIcHl7UPQ4vWZUWZCEVv/fZ5N9a5r85y3FK5vRV42et+uKrj0lUUzmEtZE7iodvhyQ8Z0jrSBbIrXTHyB+RbClp7i/FmJzzYev8bih/fiXJbJmmBIoyn7MKuRg+/ayyAfGhAa/FANU8ZGZnp89fPBsG8GiAPjs/Kci3LfGH6XMOrs1fnEHYDRnhBHTQJT9MSuDxX6PmSj+b1v90y/acWotjucfFcCY3TDRSKSlIfdk8RNh0J62fdh54PWgdwssTly6Btame8rTgQrzGX24PkyMmSEuk2RMM3OO19SwUrqZ9xLEWdy0xNF2nY29B8aGIPvEo06ZFYsy1dddOQAptSvcvE25TrkuVL6ocAvh3YmYAO/wFoB2KREg+x6Z9VLaH12I3EXDONFiliSdsNFqkSQ8GWdr4EluzVHqcDLRQUUfqEEu34E04u7zuV7Njt9luHJOf3kzKtsHhhbspgha/tAH8XRe6ryg7f6kS6gb5dAw9BDw==;n4cdyBw/FRr0I3yahcIF/Q=="

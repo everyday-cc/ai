@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-04-young-social-media-users-machine
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-young-social-media-users-machine.amp"
 type: article
 quality: 65
-heat: 77
+heat: 75
 published: true
 
 provider:

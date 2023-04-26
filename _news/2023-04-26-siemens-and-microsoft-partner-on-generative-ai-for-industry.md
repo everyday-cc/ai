@@ -95,6 +95,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Artificial Intelligence Based Medical Device Market 2023 Precise Outlook – Google, Apple, Microsoft, IBM"
+    excerpt: "The global Artificial Intelligence Based Medical Device market 2023 research report typically contains an in-depth analysis of a specific market or industry. It provides insights into market size, trends,"
+    publishedDateTime: 2023-04-25T10:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-2023-precise-outlook-google-apple-microsoft-ibm-2023-04-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Persistent Establishes Dedicated Microsoft Viva Practice Integrated with Generative AI"
     excerpt: "Expands existing Azure Center of Excellence with AI-based Modern Workplace solutionsPUNE, India and SANTA CLARA, Calif., April 21, 2023"
     publishedDateTime: 2023-04-21T08:28:00Z
@@ -104,20 +118,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 56
-  - title: "Siemens Partners With Microsoft to Expand Industrial AI"
-    excerpt: "The companies are integrating Siemens’ Teamcenter software for product lifecycle management with Microsoft’s collaboration platform Teams and the language models in Azure OpenAI Service."
-    publishedDateTime: 2023-04-21T05:54:00Z
-    webUrl: "https://www.mmsonline.com/news/siemens-partners-with-microsoft-on-industrial-ai"
-    type: article
-    provider:
-      name: Modern Machine Shop
-      domain: mmsonline.com
-    quality: 54
-    images:
-      - url: "https://d2n4wb9orp1vta.cloudfront.net/cms/brand/mms/2023-mms/062-mms-news-siemens-microsoft.jpg;maxWidth=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft reports boost in profits, revenue, as it pushes AI"
     excerpt: "Microsoft on Tuesday reported a 9% increase in profit for the January-March quarter, as growth in cloud computing sales helped bolster its plans to expand its use of artificial intelligence"
     publishedDateTime: 2023-04-25T20:47:00Z
@@ -189,6 +189,20 @@ related:
       - url: "https://blogs.microsoft.com/wp-content/uploads/prod/2023/04/Hero-image-April-24-1024x540.jpg"
         width: 1024
         height: 540
+        isCached: true
+  - title: "Microsoft Previews Defender for APIs in Defender for Cloud"
+    excerpt: "Microsoft this week introduced a preview of a new 'Microsoft Defender for APIs' security solution, which is part of the Microsoft Defender for Cloud service."
+    publishedDateTime: 2023-04-25T23:33:00Z
+    webUrl: "https://redmondmag.com/articles/2023/04/25/microsoft-previews-defender-for-apis-in-defender-for-cloud.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 39
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/VRM_shutterstock_127598501.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "Microsoft Q3 Earnings Preview: All Eyes Are On AI-Driven Growth"
     excerpt: "Microsoft Corp. (NASDAQ: MSFT) will announce fiscal year 2023 third-quarter financial results on Tuesday, April 25, after market close. Here are five things to know ahead of the report:"

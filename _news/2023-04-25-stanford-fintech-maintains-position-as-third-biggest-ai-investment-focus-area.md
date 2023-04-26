@@ -7,7 +7,7 @@ originalUrl: "https://fintechnews.ch/aifintech/stanford-fintech-maintains-positi
 webUrl: "https://fintechnews.ch/aifintech/stanford-fintech-maintains-position-as-third-biggest-ai-investment-focus-area/59671/"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -23,31 +23,6 @@ images:
     width: 1024
     height: 567
     isCached: true
-
-related:
-  - title: "Artificial Intelligence (AI) in Fintech Market Complete Overview till 2031"
-    excerpt: "New Report (2023-2031) of 75 Pages: Global Artificial Intelligence (AI) in Fintech Market Status and Prospect A summary"
-    publishedDateTime: 2023-04-21T06:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-complete-overview-till-2031-2023-04-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How Fintech Can Empower Financial Literacy For All"
-    excerpt: "The COVID-19 pandemic, economic downturns, global trade disputes, and climate-related disasters have contributed to significant financial challenges worldwide. According to a study conducted by the World Bank,"
-    publishedDateTime: 2023-04-21T13:04:00Z
-    webUrl: "https://www.finextra.com/blogposting/24094/how-fintech-can-empower-financial-literacy-for-all"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "rpwyejsJ97YzCfJVN3hd3zYeGw8MBmadlg349GCCaDjqYwKq+raFu0dlwRLNokCbNlP+Q5gFa9FlhILBbi1SyL71OcqsRaF0S5jOpHPQLnLlojIH6ITJUrTiRKFnKW1V7JCRnjFGKBTfv09fGktKlTsKB01Xb/7em0EllNMHxoEIutZIQOCI7KZ4trfokz3bET7q8+KR67PFbV8svKvx9ZS2aT2RTtlB3qUgUTUgYr8hPxoFuQT6M4TTlhlEc8zTciR8HRVnpEHvRcHRyMGcNxq8/EIH92FmV1MXsMcrHvb5TX87ye4mZ3RJImVZrv2aAwta4ueg2E2xV9CwSBRV6Nlmk/83cWIn8R/TTPvDT6+UCSZLE4MfAcmagh/WqsOjfDdEVs/KJyOHWHqw1EO6JXEt33VZB0ynJofrSl0EORA28+OzHs8s6Yk4MjBhfi6sQ64hIiobowAbcE8s4ElGx9LrcylDWgLGOnamxZ1R2K6d97jPHT1NswiX3lMIln4oRvBJcay7nQOejbgcf/Rd/Q==;6Addoie91KNdofymd/cXWw=="
 ---

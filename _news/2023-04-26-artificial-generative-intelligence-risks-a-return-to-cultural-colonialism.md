@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/artificial-generative-intelligence-ris
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/artificial-generative-intelligence-risks-a-return-to-cultural-colonialism/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 95
 published: true
 
 provider:
@@ -55,6 +55,6 @@ related:
       domain: forbes.com
     quality: 20
 
-secured: "GLXTrABIRHaA6fAb0mwMWlKV+fkhdHREJgL2UmeMUYxKMtQ36M6A/lL9OIKXj4xWC8TMQXzFXq1bw097hsjGttR2dYWUiQ9qc2Rl6IrfSDZFUcxB3cgky9VD+fsiVoNDF3ruvElSfp03uHb+VASr3u0evHIqNHfl8jmO8bNhSUig9ORLqKL3qGxHUbXP5SzBm5TYXXLK1DNBiaE4nuqkmOzFz7SZjxgTFruwXeqoLjVjTZAMxH5F1dMBFcKkfMUxL/6C+7H0nNLD+W1uFx++UlXVj8GO/uSy7Ii/Tn3bG8g9QoSNFsV1GFBJGYgXEl4JtPMN8D1g5M7z6y36hWTor4JWZZYOuthesJbT5SFmJGs=;aNEP47dYSH9l4oygE2LjcA=="
+secured: "i4oFBnpExgciH+6+BARsJrIEpDegaixGt83sHzi3GUFNny6XUzlxZhb04Xl+zzeMtlXU2Dv+AyNVsZXqXTlYmOS80myod6PDjjMxS8NMCze0hCOFlTkEttIMWas6cKw+eF/h8ygw+Ff5Z77kcck3B5iRDrxFljDFPidRMKZcq4bMhs879fmDG/EzGaE1YpnFBIeknMTP6Bm/QYk7QVGon7Jcb0GogKRlFZ4coN5aeix4Kuuz+GGIM82c1cVLNaNzU/PIaPTouDR3kv1NsaxDH+FhhB2jWIPab9u0TbSJhuBIeAGN7Gn+jOO+mu9JPXnxWAyFp5mYVwkNLG8g72p8eAXybOgurh+uNSfoHO4c0iJzjaxRE8sc4X0pC5EdsF9kKiUmrc757Bs5puv/JB8LhD0NGBTjiQa5V0tg7C1jc9g0rW5N+gPjovOW9CT5cRsajj8hOyvY1EaJi0Tw1BRPs8qpNQ3bEg+irVi4+A6VUuz45wuvLCfVCoADniNrk3o/dWFs1xS3iYP6w7twndw1Hw==;Qe5BiUHk8Ku46yZIkaB7Ww=="
 ---
 

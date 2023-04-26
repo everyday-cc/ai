@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/04/grimes-says-a
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/04/grimes-says-anyone-can-ai-generate-her-voice-without-penalty/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

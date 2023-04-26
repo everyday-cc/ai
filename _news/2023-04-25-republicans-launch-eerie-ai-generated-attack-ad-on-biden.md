@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saradorn/2023/04/25/republicans-launch-eerie-ai-generated-attack-ad-on-biden/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 129
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/04/Beat-Biden-RNC-2023-response-ad-screenshot-800x362.png"
         width: 800
         height: 362
+        isCached: true
+  - title: "Republicans release AI-generated attack ad on President Biden"
+    excerpt: "The video from the Republican National Committee is titled \"Beat Biden\" and imagines a scenario in which Biden and Vice President Kamala Harris win reelection in 2024. The ad shows completely AI-generated images of Biden and Harris celebrating their election day victory."
+    publishedDateTime: 2023-04-25T22:33:00Z
+    webUrl: "https://mashable.com/video/republican-attack-ad-biden-reelection-ai"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 67
+    images:
+      - url: "https://helios-i.mashable.com/imagery/videos/01VtmkmQ8ncxw6jQxY3UFne/hero-image.fill.size_1200x675.v1682456307.png"
+        width: 1200
+        height: 675
         isCached: true
   - title: "GOP Launches the Age of AI-Generated Attack Ads"
     excerpt: "The Republican Party used AI imagery to paint a picture of Biden's dystopian America in a new political attack ad on YouTube."

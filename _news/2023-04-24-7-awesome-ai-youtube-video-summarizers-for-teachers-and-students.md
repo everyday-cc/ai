@@ -24,6 +24,22 @@ images:
     height: 627
     isCached: true
 
+related:
+  - title: "Artifact debuts AI tool that can summarize news stories for you"
+    excerpt: "Artifact, the news aggregation app, has announced Summaries, a new tool that uses artificial intelligence to summarize news stories."
+    publishedDateTime: 2023-04-25T23:50:00Z
+    webUrl: "https://bgr.com/tech/artifact-debuts-ai-tool-that-can-summarize-news-stories-for-you/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/04/artifact-summaries.webp"
+        width: 1400
+        height: 933
+        isCached: true
+
 secured: "cemZfv0JSdyhdj/XNrQpYk3jq1ekFwEVYOIlHq+Di94ExzfQtlC2bIm5iRybcozIt2IDTbWNU5H3NZGSXQtcztXFQaM52mn82nMdQDv9FAG+WNuNdvEySEr8AaXWVFd+uxbZThw4stLcW311hBMFsl2/g+xCcQVcrsobFOjYFNfFkmOas52XIF8buU0xWRTY3xbtua6hLc/qMbM85RYnCihCtN3lGk2Ym7uwOoVxkwbIkzswYpoiJ5lg6VS1BLez3ssd3X0Tvy0SOLjctU0DzjsnbVIuTNxeqrg0g//YuIthNsGK1QkJsGCaJuhTq7tomE3tLAvhL1e0z52va0HrBFuFx1u0wLpvmv0g7eZwWYdoph6quqE1sE5i//U49PFE87Y6utNrfsIeXJyOuFE+Nkx5Jp3zAwXNFCkwj0BXw8XiPlgO5CNulGcG+pXWPuAGVXvZ5XK8vzgtgL5tBroetxy655Jbu0GbgFaMygTiNcTh781Lyas83HvFtplqICHpydtBYKpGOU6pC/tsed2jZQ==;hOa+CxSRA2az5OJstYTMEw=="
 ---
 

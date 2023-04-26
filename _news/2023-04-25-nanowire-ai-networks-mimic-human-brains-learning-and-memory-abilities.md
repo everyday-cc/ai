@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/04/25/nanowire-ai-networks-human-m
 webUrl: "https://www.gizmochina.com/2023/04/25/nanowire-ai-networks-human-memory-brain/"
 type: article
 quality: 69
-heat: 71
+heat: 73
 published: true
 
 provider:

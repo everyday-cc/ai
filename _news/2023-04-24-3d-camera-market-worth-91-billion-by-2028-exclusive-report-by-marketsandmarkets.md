@@ -25,29 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence for Accounting Market: Global Trends and Prospects 2023"
-    excerpt: "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-04-21T09:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-global-trends-and-prospects-2023-2023-04-21"
+  - title: "Autonomous Delivery Robots Market 2023-2031"
+    excerpt: "What is the Autonomous Delivery Robots market growth? Autonomous Delivery Robots Market Size is projected to Reach Multimillion USD by 2030, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2030."
+    publishedDateTime: 2023-04-25T10:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-delivery-robots-market-2023-2031-2023-04-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 65
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Cognitive System & Artificial Intelligence (AI) Systems Market Forecast: Analysis of Industry Trends and Opportunities | 2023-2030"
-    excerpt: "Apr 23, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The 2023 research report on the"
-    publishedDateTime: 2023-04-24T02:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-system-artificial-intelligence-ai-systems-market-forecast-analysis-of-industry-trends-and-opportunities-2023-2030-2023-04-23"
+  - title: "Self Driving Bus Market Size 2023, Latest Trends, Growth Drivers, Industry Analysis by Top Companies and Forecast 2030"
+    excerpt: "Self Driving Bus Market size is projected to grow from 2030 to2023, at a CAGR ofduring the forecast period. They"
+    publishedDateTime: 2023-04-21T12:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-size-2023-latest-trends-growth-drivers-industry-analysis-by-top-companies-and-forecast-2030-2023-04-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

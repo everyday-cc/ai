@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-growth-by-2031-2023-04-24"
 type: article
 quality: 101
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Mining Market Market Trends By 2031"
+    excerpt: "The latest market research report on the Global \"Artificial Intelligence (AI) in Mining Market\" is segmented by"
+    publishedDateTime: 2023-04-25T12:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-mining-market-market-trends-by-2031-2023-04-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

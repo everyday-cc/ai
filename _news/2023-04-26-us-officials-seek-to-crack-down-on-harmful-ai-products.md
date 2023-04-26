@@ -1,22 +1,22 @@
 ---
 category: news
-title: "US officials seek to crack down on harmful AI products"
-excerpt: "The federal government will “not hesitate to crack down” on harmful business practices involving artificial intelligence, the head of the Federal Trade Commission warned Tuesday in a message partly directed at the developers of widely-used AI tools"
-publishedDateTime: 2023-04-25T17:47:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/us-officials-seek-crack-harmful-ai-products-98834851"
-webUrl: "https://abcnews.go.com/Politics/wireStory/us-officials-seek-crack-harmful-ai-products-98834851"
+title: "U.S. officials seek to crack down on harmful AI products"
+excerpt: "Regulators are working to track and stop illegal behavior in the use and development of biased or deceptive AI tools."
+publishedDateTime: 2023-04-25T18:00:00Z
+originalUrl: "https://www.fastcompany.com/90887531/u-s-officials-seek-to-crack-down-on-harmful-ai-products"
+webUrl: "https://www.fastcompany.com/90887531/u-s-officials-seek-to-crack-down-on-harmful-ai-products"
 type: article
 quality: 17
 heat: 17
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Fast Company
+  domain: fastcompany.com
 
 topics:
   - AI
 
-secured: "pyy/WpERrTPySMCQE0fQg1grTERAFsHC2mb1BXIyzDQeXAsfafFAgONXCcIxuvzZYQ4sCRGqoT0PsVNriMhNyGh7CgdsKP4snnflOP5thY2gz3CARwGy4WabJJwt6zFeASthhivNU5lysJRxq5EilmoZ78eFscBXAqn8OjBvRXBpKt9dpO3Wj53huUWA3qC6m9lRQsO2rcChdNFTmZ6/Irclvbl5wi0rvfcd+zxGjPhho6Zv2cIhjeq38A/gmY6VGIgWesmRWCRuEU6BU8tcUltPMUBxTRYnUd1rjjI+JnSBUODwTbZINUOitBxUpxJBFUYYHUTUX1DuLEeat4wOd3GumG9ZXVhLJ6v5gTcSCz0sNVV+nPuGK+/OnWLt2xCwWyMtAqmY1zewWixa3+neSNgYd2YBSYV7xpg28PNCyNbTdtvKRwQwXk4ep/U15BCOxhN1XRkysJ/t+7bc7fZIsgPL9YKBvn1bW+cvYuL6YLwavN7hCSajanJGfK8/7NsEr66y+ydVbKF86TPHGa4Kjg==;fLNSWTSJjb1Iz0olv/n6aQ=="
+secured: "9lbD3d5Q14F/5nC1T2mreFxvVIhEbcwXTAO5CztuqlRW+lwTWWoYwnetmR6t27U+7F6HrN3eUhDWiZEgwLX9c+oMKo5wHDXwConc5VLScDhmCSNV7KUEF4qXelXaSEuvcmL+AuJi2PtJVEwsgFhts8DnzxYpgcp1QGEH1bKSESYtYeux3wojXmuG602waieOvlkVLR2coLNUrvq2XDrh3xdcWMtcKRvIEPi0YQs+TEHk1Hywb/eBtxHEqM8mdOQD6xNLtkQcsm4UmPWu2xCY5QdZRCR4tyrzs1wL1hY0SoMZS1i2oQ9CgRcmBT35dE0FuMBpFR+yloBgayw+XYW+fVVO5pgVmY+ZLbpTnKQpEl5AprPAL4+kFO6T5FVDk1bfbuhkdd6KIriEsRLU15iIurX1n/J0NyIoD69KVJNmlvoGmzlnCawuIOxQY2M/N9uSdL6dg1VDShOq9rpIR3gJb3vBnUBF0mDKR0aG7VFtFl1lCgwLc/G8ADl/r5VRQGvhuQE2GCvyj5ZZykvfEIJGNQ==;9lmyEy4upTokxC0FfRXZCQ=="
 ---
 

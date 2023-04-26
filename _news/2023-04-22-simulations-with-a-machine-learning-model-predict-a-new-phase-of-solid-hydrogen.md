@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-04-simulations-machine-phase-solid-hydrog
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-simulations-machine-phase-solid-hydrogen.amp"
 type: article
 quality: 55
-heat: 76
+heat: 77
 published: true
 
 provider:
