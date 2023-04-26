@@ -1,31 +1,20 @@
 ---
 category: news
 title: "No one is driving this taxi. What possibly could go wrong?"
-excerpt: "An Associated Press reporter recalls the first time he took a ride in a car without sitting in the driver's seat"
-publishedDateTime: 2023-04-26T16:18:00Z
-originalUrl: "https://abcnews.go.com/Lifestyle/wireStory/driving-taxi-possibly-wrong-98875029"
-webUrl: "https://abcnews.go.com/Lifestyle/wireStory/driving-taxi-possibly-wrong-98875029"
-ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/driving-taxi-possibly-wrong-98875029"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/driving-taxi-possibly-wrong-98875029"
+excerpt: "An Associated Press reporter recalls the first time he took a ride in a car without sitting in the driver's seat. It happened one night last September when a Chevy"
+publishedDateTime: 2023-04-26T07:05:00Z
+originalUrl: "https://omaha.com/lifestyles/no-one-is-driving-this-taxi-what-possibly-could-go-wrong/article_eebc9d8c-7790-5083-8495-f151ac4f48cf.html"
+webUrl: "https://omaha.com/lifestyles/no-one-is-driving-this-taxi-what-possibly-could-go-wrong/article_eebc9d8c-7790-5083-8495-f151ac4f48cf.html"
 type: article
-quality: 44
-heat: 44
-published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://s.abcnews.com/images/US/wirestory_cc28730c6dc76882679ef19cbdb1c607_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
-
-secured: "Tp49aLOQIjNtP4GkJ6HDBNTVvomq7VILsdlt+bZFIbyyEtTQc2AB9zORa3E45/MJ9LWz1FCKYyu2Sj6gjzvXj2YW6qg0idzo36y62+2hJoOoGP+3fGE0aRiWBFL0P3wOUcCX9m8f2Fe1V2mitkkYsptKTu2YoE4CP9MdqIqrl+ZeBsl+79R5BJjEZ6PF2vw5sGUiyU/lPvyivI3Bu4bSwRZFt+KOex0CSRvw1Mw6ajtt/5mFFn5v4uwop2NZtw+PNaeVtEh0M1BhTloPsX/RmIdL/yMfemgMR2nOnpkjWMxOcXyDJjpT9zPwQA9VHkQ71xy2aqQXUCSzxVnQJvQFJGK509mnMtK590wEWkgV4mg=;tyZa80N3bMmnGudw/wPV1A=="
+secured: "ZTv/7QGkeWdWZYCzHYgY0A3TevSH0nyC1cBwiUUXVdFR+gHhN9M2rxSZEfmv2GETsnZXZg/YZDj+hh5FI23CM+1KeYRja+uQyFP7GNcZv1yc5ieu39n1pI4HtcSSmT6V9UbsIMfs3v9gU8GeH7jpfAalP40McAMAHOvt5OUrGosdS0bZJTRkeR0TC55SWddC+auX3A70Cab3elODs42O5DdkXhVcxO95kwUFxdGcG0AGz4TXbsFwsgOV11WKr/fXNWktW/npf246pedKOFlkuqZC9ZmklPBi31X6jPgjibFBWrOA7zB/fKptvX7i33OWrUgbFPSlRWjzljE0Y9Y6EZcOaqWemBNc+uH8HCxCH2Nch4Raj31xeIqciIpYzUVdTLfMmM7DUEjtyK9hWNTndFhXBRv7/SDWWjUejEtHMfeCle6Yv9g/Lwu/kXMI4Aq895Gq+d2z0vW779m9sNk7ND9EZK+DK56QXgv+iq0CipbVnSWvjRQ36mXgezzMfXb77tGYmKYcz7Dqwm5F+HnSHw==;/Mr0fmLCxXX42cFuFqIemA=="
 ---
 

@@ -1,28 +1,20 @@
 ---
 category: news
-title: "Drones navigate unseen environments with liquid neural networks"
-excerpt: "In the vast, expansive skies where birds once ruled supreme, a new crop of aviators is taking flight. These pioneers of the air are not living creatures, but rather a product of deliberate innovation: drones."
-publishedDateTime: 2023-04-19T20:46:00Z
-originalUrl: "https://techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.html"
-webUrl: "https://techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.html"
-ampWebUrl: "https://techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.amp"
+title: "Drones Navigate Unseen Environments With Liquid Neural Networks"
+excerpt: "MIT researchers exhibit a new advancement in autonomous drone navigation, using brain-inspired liquid neural networks that excel in out-of-distribution scenarios."
+publishedDateTime: 2023-04-20T09:37:00Z
+originalUrl: "https://www.technologynetworks.com/informatics/news/drones-navigate-unseen-environments-with-liquid-neural-networks-372383"
+webUrl: "https://www.technologynetworks.com/informatics/news/drones-navigate-unseen-environments-with-liquid-neural-networks-372383"
 type: article
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: technologynetworks
+  domain: technologynetworks.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2023/drones-navigate-unseen.jpg"
-    width: 900
-    height: 600
-    isCached: true
-
-secured: "h7UI47Zv7qyvCzfQ9iFZoyrmeAKAnpWxu1nC/NwmSZV6UJqgvvkQIfIuwF9MtlzRtxFxTVFNudl4EWrpfKFCRaLk+h1XCu7mVW6/1kWE85uNsZXIZYI/jIN4X1Hm5DLTeoHMPV5Kh1PlTM7lF1JcpVM8iz8q1qJ9hkg9iuH4TdiYk0bDvhrozQArJJ9TXSKEQptZkfZ48XqIgl0b88UNK6EBrL0bU06mQVsoekITQzNvcPaWTT2QBQ0fJr03z9s4+zVygU1HqrM2E/f5dradPiu88GCT3dehfU15+ao1LhlBSCAOOlgN4FibaZoJifb19Nyy0a6aEAgbKR1t24YarQBJcyhgorUyfJFrtfLF+1I=;KwKpZhZbFwHwoZ858RI1GA=="
+secured: "XI9N+f1lmKZGtiRCBieqIA2aJ52peTQiWblYevy0KR4aIr8LjwnlBtDGiIYUo4EVcJAoo8bJNG2YNyw3/E8VGcdhvnHQ+CheEAb1XX4q6ftKzl9qQ6zuThaFZSPEXRGSDVdXW9q19WUeezN+cW1CW2l8zHeEBRbBTUSZNvdXaELdX1qDLzpnIQQwcOtQyq4sUgYB/TxWN8V8ldAF0JKKoWqLblwKZNVs7nGs7eXJuRo8l+XVTHVvPq6uZ1+ibGDWI4P9ECNky78VHK5XiMpM4KxY8EkMEMx2tGQvXRT8fg8eg5QUXExK2bQa+5Da7VRyQzwIMIV51bxv1qEwjdRTwnxLzdZtPGcY0kw9jnsVz4kYf3kwM2OegHsiehfzla2OPW9G2rUDWHqv5Bbp4qmr24QpGbqR9vKuFovTAus0FBNkELqav0ft4LgM0GIGbFvP394XN6H6zPbyB4KCd090eC0eE6eIDt3RoL9BCDM5bV++4iSMch+gzOilNNHe2YahsYHW2KD+5oGezSBR0cnKew==;1Frm27q747pdnPTPQRtMYg=="
 ---
 

@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Education
+  - AI in Healthcare
 
 related:
   - title: "Cleaning Robot Market Size Worth USD 36.05 Billion in 2028 - Emergen Research"

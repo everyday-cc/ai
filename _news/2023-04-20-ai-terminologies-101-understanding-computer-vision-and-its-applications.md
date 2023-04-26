@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AI Terminologies 101: Understanding Computer Vision and Its Applications"
-excerpt: "Computer Vision is a type of artificial intelligence (AI) that enables machines to interpret and understand the visual world. Computer Vision algorithms can analyse and extract information from ..."
-publishedDateTime: 2023-04-20T15:29:00Z
-originalUrl: "https://yourstory.com/preview/2023/04/ai-terminologies-101-understanding-computer-vision"
-webUrl: "https://yourstory.com/preview/2023/04/ai-terminologies-101-understanding-computer-vision"
+excerpt: "Computer Vision is a type of artificial intelligence (AI) that enables machines to interpret and understand the visual world. Computer Vision algorithms can analyse and extract information from images and videos, including objects, patterns, and facial ..."
+publishedDateTime: 2023-04-20T16:37:00Z
+originalUrl: "https://yourstory.com/2023/04/ai-terminologies-101-understanding-computer-vision"
+webUrl: "https://yourstory.com/2023/04/ai-terminologies-101-understanding-computer-vision"
 type: article
 
 provider:
@@ -15,12 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://images.yourstory.com/cs/images/undefined/nucleus-1677242056743.png"
-    width: 1024
-    height: 1024
-    isCached: true
-
-secured: "FDgLcC5KGKAQ6FV21KycMFuQEnp6JtE2WbR0sfrhGosV0fBimh+tuvFPglY8oV70W7qw7zeSjH0gzzwKIIxWaSOWKQhasfGYNmppEBsMIHYSizEp0ZjwIeWg8ALIfU8Y9WC9aSGyK48TIg+GogSGIyFasjb32VsXr4cPRLHQXrTK9er6bO1zn4xxh+0H54P7GqB8IeMwOcJojyzybCh2M7dPeMrwu6zmTwRNHWF0MYwuWvV0d3yDd/1Z3X3CRFGO3PcoBMWoDTbw2YtSgfRbw7pjDHKOnyNL/FvRRvufO7GwBRNwrH0USo50Q92SRV1zJbBOQ13jOwiTqyF99dXynIpSeXn0DtLo1810FR/ZEpI=;uqdfiOX4ZjXDD6Kdr0bObA=="
+secured: "TECzA5FLUgGST3LCeMpt+IUhrNOclK0MljIBjgqJQ4izpi+MnGyv/6RQckB3Pwq04JJLyUfp7hHWIzYjMAV/UB1zeihaVn4Q+6KeNJtdFINh7jiEseJ8ARo3eHy8sUeJyvsPecFdEjQYMIA4fJN4lUXshqfyGK0Y1x1u/0mzJwwWMtk4mD4hUoncActtzZvKVTJB+iegXc/Sel2rtDjGjlewV9pOpswLkMvxyLcgXefExc67uHJORdJ9gtnPXuUq0l1pvgSvQhVJojR+exieHG6ae7eQobaIxN9eWHUf0nlPu+Yuiou67YYsvPm8oVeBH/ufzgbjNCHXC04hlncoK2sau2FT1pBzwjegNJMDh4k=;zYWFFfXuKwlTUh33H8+qIg=="
 ---
 

@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1388687270-1.jpg?resize=1200,800"
@@ -47,6 +48,6 @@ related:
         height: 726
         isCached: true
 
-secured: "rygxgkEUbAOoEzeDjCCrcZI/I6SwMFnKkJrWq4OpWQHSS9nMy9k2GmNFSFhZE22KYVl7moJKvf4pb71jibhCWcChl1o00VWxRoQN7uDHdmubwhFn+j9pNs/HC8SZxMueBcCbjEJ7Gl0amMmj8dcExjRF51q3aHGXDf6lAp8/GiSYD/LPLVL8eN5khhx5oYpcS2+7KCv/KFkOAstKFqvLfQ2bGEWkoIfUTykloRvawN4JVNIvsZ01qsmzEthFSbSZGc7Kt8zK2Wir+53bHbSliA2Bvp6zh9eDZ2RysKkqbGoYrTQ59qnHiJxmERjOA2MXsYXijGUrAZeUd6y2V3O2dJnvJ4fM/EDMK6KAIh4cYZk=;fwtONT5xWR2siWr0MHjDUQ=="
+secured: "DUoy/i9c+F+bFNBkkOU/xAkurBEMXwyo/CPEtJLTeZgsJ0ngIDKysM40vV486R4/dgXN7GaSIhp8owz4XNAyx+57qDO5QBdk7p1SYIYMnrLj1HjRRIvdEwl3VwbdRTgVwMrJ82HLPysM8y457GHn73Y4sRi3A2B1Vl20RVF4V74jGNoJge8PDaC1/cqHDY5MF5TWHJS3g0H9+JFwgyiALUAmSVvqt812L3IU0YpSjV+0pB7BkDDaVbVNEU4wNoEojdk3e2Fh7oMRK8VxAAkoBBqNIiJHuBPjDpFihPJ8EkPmpqxPQ1OAbiBqMtoirgs2A02vc775qV5WncCfGat7I91/DanusDvfA4ZN4OsaVzcj58z5oL2KWp0INZ2VjHKLWWyiA7gg+bKTW3/FBb5nCzuJKBiF2MLiwD6kYpghY+lBRfeNDUxmCbkeK3vdEWl9I69qf+2DbjAo0/oGsR2s9WviUchZ13GqC1igkFvA9onZNnVNXld3/ifNZxKFMoVZ0eYUYAf6YG+TmBTcZODfPQ==;DKgmEKgskRdRm91AOQiDcw=="
 ---
 
