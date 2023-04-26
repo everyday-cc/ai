@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Snapchat “My AI” feedback: most users disapprove"
+    excerpt: "Recently, Snapchat added an AI feature to all users’ accounts. It’s called “My AI,” and anyone who has updated their app receives a message from the bot. Users can have conversations with this artificial intelligence,"
+    publishedDateTime: 2023-04-26T20:09:00Z
+    webUrl: "https://www.wdef.com/snapchat-my-ai-feedback-most-users-disapprove/"
+    type: article
+    provider:
+      name: wdef.com
+      domain: wdef.com
+    quality: 39
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wdef.com/content/uploads/2023/04/l/h/tucker-and-don-002.jpg"
+        width: 654
+        height: 317
+        isCached: true
   - title: "Snapchat's New My AI Feature Is an Example of the 1 Thing No Company Should Ever Do"
     excerpt: "Here's the thing--Snapchat's new AI feature doesn't have any real value, at least, not to users. It's just entertainment, sort of. It's not something anyone is asking for, and you have to pay to get rid of it. It's as though Snap isn't thinking about its customers, but rather what features it can add to increasingly monetize the app."
     publishedDateTime: 2023-04-26T07:52:00Z

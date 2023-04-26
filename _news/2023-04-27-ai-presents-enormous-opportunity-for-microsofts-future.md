@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-26T18:38:00Z
 originalUrl: "https://www.thestreet.com/video/microsoft-beats-on-earnings-as-ai-presents-enormous-opportunity"
 webUrl: "https://www.thestreet.com/video/microsoft-beats-on-earnings-as-ai-presents-enormous-opportunity"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: TheStreet.com

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-26-deliver-your-first-ml-use-case-in-812-weeks.md",
+      "title": "Deliver your first ML use case in 8–12 weeks",
+      "excerpt": "Do you need help to move your organization’s Machine Learning (ML) journey from pilot to production? You’re not alone. Most executives think ML can apply to any business decision, but on average only half of the ML projects make it to production. This post describes how to implement your first ML use",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deliver-your-first-ml-use-case-in-8-12-weeks/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deliver-your-first-ml-use-case-in-8-12-weeks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T11:36:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-run-your-local-machine-learning-code-as-amazon-sagemaker-training-jobs-with-minimal-code-changes.md",
       "title": "Run your local machine learning code as Amazon SageMaker Training jobs with minimal code changes",
       "excerpt": "We recently introduced a new capability in the Amazon SageMaker Python SDK that lets data scientists run their machine learning (ML) code authored in their preferred integrated developer environment (IDE) and notebooks along with the associated runtime dependencies as Amazon SageMaker training jobs with",
@@ -546,51 +590,6 @@
       ]
     },
     {
-      "path": "_news/2023-04-24-microsoft-is-working-on-its-own-ai-chip-athena-to-cut-down-cost-of-machine-learning-operations.md",
-      "title": "Microsoft is working on its own AI chip ‘Athena’ to cut down cost of machine learning operations",
-      "excerpt": "Microsoft is developing its own AI chip called Athena for powering Large Language Models used to develop generative AI products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medianama.com/2023/04/223-microsoft-ai-chip-athena-machine-learning/",
-      "originalUrl": "https://www.medianama.com/2023/04/223-microsoft-ai-chip-athena-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medianama.com/wp-content/uploads/2021/08/chip-6517875_1280.jpg",
-          "width": 1280,
-          "height": 838,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T00:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaNama",
-        "domain": "medianama.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-24-machine-learning-as-ai-tools-gain-heft-the-jobs-that-could-be-at-stake.md",
       "title": "Machine learning: As AI tools gain heft, the jobs that could be at stake",
       "excerpt": "The OpenAI study also said that around 19 per cent of US workers will see at least 50 per cent of their tasks impacted, with the qualifier that GPT exposure is likely greater for higher-income jobs, but spans across almost all industries.",
@@ -974,6 +973,40 @@
       ]
     },
     {
+      "path": "_news/2023-04-20-drones-navigate-unseen-environments-with-liquid-neural-networks.md",
+      "title": "Drones Navigate Unseen Environments With Liquid Neural Networks",
+      "excerpt": "MIT researchers exhibit a new advancement in autonomous drone navigation, using brain-inspired liquid neural networks that excel in out-of-distribution scenarios.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/informatics/news/drones-navigate-unseen-environments-with-liquid-neural-networks-372383",
+      "originalUrl": "https://www.technologynetworks.com/informatics/news/drones-navigate-unseen-environments-with-liquid-neural-networks-372383",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-20-a-remarkable-learning-journey-leads-to-asia-for-the-post-gpt-mba.md",
       "title": "A Remarkable Learning Journey Leads To Asia For The Post-GPT MBA",
       "excerpt": "Sanjay Sarma, the incoming President, CEO and Dean of Asia School of Business (ASB), based in Kuala Lumpur has what he describes as an unconventional background - professor, businessman, author, father.",
@@ -1164,49 +1197,6 @@
         "AI",
         "Microsoft AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-drones-navigate-unseen-environments-with-liquid-neural-networks.md",
-      "title": "Drones navigate unseen environments with liquid neural networks",
-      "excerpt": "In the vast, expansive skies where birds once ruled supreme, a new crop of aviators is taking flight. These pioneers of the air are not living creatures, but rather a product of deliberate innovation: drones.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.html",
-      "originalUrl": "https://techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/drones-navigate-unseen.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-drones-unseen-environments-liquid-neural.amp",
-      "publishedDateTime": "2023-04-19T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {

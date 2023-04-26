@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-26T18:42:00Z
 originalUrl: "https://electrek.co/2023/04/26/pony-ai-permitted-expand-robotaxi-rides-china-without-safety-monitor/"
 webUrl: "https://electrek.co/2023/04/26/pony-ai-permitted-expand-robotaxi-rides-china-without-safety-monitor/"
 type: article
+quality: 40
+heat: 40
+published: false
 
 provider:
   name: Electrek

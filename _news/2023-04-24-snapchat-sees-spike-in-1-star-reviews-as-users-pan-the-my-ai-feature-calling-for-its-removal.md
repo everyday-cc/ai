@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/04/24/snapchat-sees-spike-in-1-star-revi
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/24/snapchat-sees-spike-in-1-star-reviews-as-users-pan-the-my-ai-feature-calling-for-its-removal/amp/"
 type: article
 quality: 75
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Snapchat “My AI” feedback: most users disapprove"
+    excerpt: "Recently, Snapchat added an AI feature to all users’ accounts. It’s called “My AI,” and anyone who has updated their app receives a message from the bot. Users can have conversations with this artificial intelligence,"
+    publishedDateTime: 2023-04-26T20:09:00Z
+    webUrl: "https://www.wdef.com/snapchat-my-ai-feedback-most-users-disapprove/"
+    type: article
+    provider:
+      name: wdef.com
+      domain: wdef.com
+    quality: 39
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wdef.com/content/uploads/2023/04/l/h/tucker-and-don-002.jpg"
+        width: 654
+        height: 317
+        isCached: true
   - title: "Snapchat users flood app stores with 1-star reviews after launch of My AI"
     excerpt: "Users swamped app stores with 1-star reviews. Snapchat’s overall U.S. App Store review score dropped from 3.05 out of 5 to 1.67 over the past week. The number of daily reviews also spiked to at least five times the normal amount."
     publishedDateTime: 2023-04-25T18:42:00Z

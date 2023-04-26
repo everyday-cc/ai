@@ -6,7 +6,7 @@ publishedDateTime: 2023-04-26T16:33:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-the-education-sector-market-size-worth-usd-17-83-billion-by-2027-–-emergen-research-1032262928"
 webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-the-education-sector-market-size-worth-usd-17-83-billion-by-2027-–-emergen-research-1032262928"
 type: article
-quality: 44
+quality: 46
 heat: -1
 published: false
 

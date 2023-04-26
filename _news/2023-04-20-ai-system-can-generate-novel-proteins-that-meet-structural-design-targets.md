@@ -5,6 +5,8 @@ excerpt: "The researchers from MIT, the MIT-IBM Watson AI Lab, and Tufts Univers
 publishedDateTime: 2023-04-20T15:35:00Z
 originalUrl: "https://phys.org/news/2023-04-ai-generate-proteins.html"
 webUrl: "https://phys.org/news/2023-04-ai-generate-proteins.html"
+ampWebUrl: "https://phys.org/news/2023-04-ai-generate-proteins.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-ai-generate-proteins.amp"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - IBM AI
   - AI
 
-secured: "wXrk40dbSI9D4o78zYH10orIOOae30IZ6j3EJVUOVrJ6E1WT/NKia6E/I0GTKjhuiqT14oEdXv/rRYlpZR0PB280DYW5u6VWN285XlovkRB/uKu1h09atsiEKwYfgWGGtMYICFx/J8EpJ6ssB8HNei0fuvqqZKkPEQcKga3K6TMTM+sKpYhVs2xXwtIEYc/GAU1JZ+OrO4PWfhMMs4SMMIAgWCRn4v9OAp9JfcnvhBKgCkRHLqVG5m7TFp8uP9IYNbsQgWDcfynEwolRjjSJb7tk4z7n0RuUbMBpxB5f2e38t4qV5tuSG0Ha5RdZuKqaYQfSY3yw+or68NOYiGv6v8F6YUu4WXBu3IDQkQXfJik=;y+fjKeppJ0McQHQLfhRMdA=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/protein-folding.jpg"
+    width: 2880
+    height: 2366
+    isCached: true
+
+secured: "BQuAQvWDMvM6NMn88szJ9svYGu6ZpoeYQzuOsDdShy7rfTmYW6aMb4LNfLWrufv6rmq52lS5a2W++bXqaGeRTP3m2XrgTErCYRewHKSaZW+F/84bnvMAiDTlXxfs5FVvWWHsOSx0BKHr15kFtHfkKzaLea1LJAyRrX+dXhWZSgFl6TGkYFUlkDIVtzYmbFlziPw0Towj6SqqLHPbs+HfBN5PDTsjCrf/nnmNzq4W7QFbqdqwdI0vWWl372Xf51kYb2xwqh5JfMmZw04vLT8tAzrLhprMOeqjWenJvPeqC9RKXNTgQhF+3OwNC1i8L18Ufv853lb/FbxtOZ1u41o/DLqukqWw2Bbb2qy1f6og/xU=;C9wV2E+Vztj852bpQq38LA=="
 ---
 

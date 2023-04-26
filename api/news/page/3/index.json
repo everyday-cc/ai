@@ -2,6 +2,319 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-25-inside-metas-scramble-to-catch-up-on-ai.md",
+      "title": "Inside Meta's scramble to catch up on AI",
+      "excerpt": "As the summer of 2022 came to a close, Meta CEO Mark Zuckerberg gathered his top lieutenants for a dissection of the company's computing capacity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/inside-metas-scramble-catch-up-ai-2023-04-25/",
+      "originalUrl": "https://www.reuters.com/technology/inside-metas-scramble-catch-up-ai-2023-04-25/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/7LzWc-rHcocdELieD7Oy68ukgb4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EZDFT4SDAJMVBJWVJ45H7QILLU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-in-the-artificial-intelligence-race-is-your-brain-trained-to-compete.md",
+      "title": "In The Artificial Intelligence Race, Is Your Brain Trained To Compete?",
+      "excerpt": "While it’s uncertain who the winners of the artificial intelligence race will be, business leaders and employees must make sure their brains are trained to compete.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/iese/2023/04/25/in-the-artificial-intelligence-race-is-your-brain-trained-to-compete/",
+      "originalUrl": "https://www.forbes.com/sites/iese/2023/04/25/in-the-artificial-intelligence-race-is-your-brain-trained-to-compete/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6447918c9384cd1bfdf33129/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/iese/2023/04/25/in-the-artificial-intelligence-race-is-your-brain-trained-to-compete/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/iese/2023/04/25/in-the-artificial-intelligence-race-is-your-brain-trained-to-compete/amp/",
+      "publishedDateTime": "2023-04-25T01:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-ai-security-chips-market-overview-2023-to-2030-future-trends-and-forecast-ambarella-nextchip-hisilicon.md",
+      "title": "AI Security Chips Market Overview 2023 to 2030, Future Trends and Forecast | Ambarella, Nextchip, HiSilicon",
+      "excerpt": "The AI Security Chips Market studies predominant aim is to collect the maximum useful insights for any market, for you",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-security-chips-market-overview-2023-to-2030-future-trends-and-forecast-ambarella-nextchip-hisilicon-2023-04-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-security-chips-market-overview-2023-to-2030-future-trends-and-forecast-ambarella-nextchip-hisilicon-2023-04-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T01:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-fintech-firm-klarna-overhauls-its-app-with-a-tiktok-like-discovery-feed-as-ai-hype-swirls.md",
+      "title": "Fintech firm Klarna overhauls its app with a TikTok-like discovery feed as A.I. hype swirls",
+      "excerpt": "\"Buy now, pay later\" firm Klarna on Tuesday made some sweeping changes to its app, including a TikTok-inspired discovery feed that recommends products to users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/04/25/klarna-overhauls-app-with-tiktok-like-discovery-feed-amid-ai-buzz.html",
+      "originalUrl": "https://www.cnbc.com/2023/04/25/klarna-overhauls-app-with-tiktok-like-discovery-feed-amid-ai-buzz.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106899369-1624005205026-gettyimages-1233462474-RAFAPRESS_10062021-9285.jpeg?v=1682417162",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/04/25/klarna-overhauls-app-with-tiktok-like-discovery-feed-amid-ai-buzz.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/25/klarna-overhauls-app-with-tiktok-like-discovery-feed-amid-ai-buzz.html",
+      "publishedDateTime": "2023-04-25T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-ai-in-computer-vision-market-research-report-with-analysis-2023-to-2030.md",
+      "title": "AI In Computer Vision Market research Report with Analysis 2023 To 2030",
+      "excerpt": "AI In Computer Vision Market Report Insights (2023-2030): (100 Pages Report) AI In Computer Vision Market Research",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-with-analysis-2023-to-2030-2023-04-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-with-analysis-2023-to-2030-2023-04-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-as-suicide-rates-spike-new-ai-platform-could-fill-the-gap-in-mental-health-care-say-boston-researchers.md",
+      "title": "As suicide rates spike, new AI platform could ‘fill the gap’ in mental health care, say Boston researchers",
+      "excerpt": "As the need for mental health care escalates amid provider shortages, medical technology companies like OM1 have turned to AI to help improve patient care. But some experts have worries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/health/suicide-rates-spike-ai-platform-could-fill-gap-mental-health-care-boston-researchers",
+      "originalUrl": "https://www.foxnews.com/health/suicide-rates-spike-ai-platform-could-fill-gap-mental-health-care-boston-researchers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f44ceb74-a323-483a-8fa8-420fc7256f1f/1d1fe446-186d-4f3d-aefd-5fd6380944db/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/health/suicide-rates-spike-ai-platform-could-fill-gap-mental-health-care-boston-researchers.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/suicide-rates-spike-ai-platform-could-fill-gap-mental-health-care-boston-researchers.amp",
+      "publishedDateTime": "2023-04-24T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-nanowire-ai-networks-mimic-human-brains-learning-and-memory-abilities.md",
       "title": "Nanowire AI Networks Mimic Human Brain’s Learning and Memory Abilities",
       "excerpt": "The exact mechanisms of memory formation and recall are still not clear, but advances in neuroscience and AI are shedding new light on this",
@@ -414,7 +727,7 @@
       "originalUrl": "https://www.forbes.com/sites/avivalegatt/2023/04/24/how-to-boost-your-college-applications-using-ai---without-cheating-the-essay/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -933,301 +1246,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-young-social-media-users-help-train-machine-learning-program-to-flag-sexual-conversations.md",
-      "title": "Young social media users help train machine learning program to flag sexual conversations",
-      "excerpt": "In a first-of-its-kind effort, social media researchers from Drexel University, Vanderbilt University, Georgia Institute of Technology and Boston University are turning to young social media users to help build a machine learning program that can spot unwanted sexual advances on Instagram.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-04-young-social-media-users-machine.html",
-      "originalUrl": "https://techxplore.com/news/2023-04-young-social-media-users-machine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/sliding-out-of-my-dms.jpg",
-          "width": 1655,
-          "height": 1379,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-04-young-social-media-users-machine.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-04-young-social-media-users-machine.amp",
-      "publishedDateTime": "2023-04-24T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-the-data-that-trains-ai-is-under-the-spotlight-and-even-im-weirded-out-the-ai-beat.md",
-      "title": "The data that trains AI is under the spotlight — and even I’m weirded out | The AI Beat",
-      "excerpt": "Why do I feel so weird that my creative output has been vacuumed into AI datasets, when so much of my life is already up for grabs?",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/the-data-that-trains-ai-is-under-the-spotlight-and-even-im-weirded-out-the-ai-beat/",
-      "originalUrl": "https://venturebeat.com/ai/the-data-that-trains-ai-is-under-the-spotlight-and-even-im-weirded-out-the-ai-beat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/The-Pile-1.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/the-data-that-trains-ai-is-under-the-spotlight-and-even-im-weirded-out-the-ai-beat/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-data-that-trains-ai-is-under-the-spotlight-and-even-im-weirded-out-the-ai-beat/amp/",
-      "publishedDateTime": "2023-04-24T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-eff-calls-for-action-against-californias-new-facial-recognition-bill.md",
-      "title": "EFF calls for action against California's new facial recognition bill",
-      "excerpt": "The latest target of EFF's action is A.B. 642, a new California bill that would \"normalize and incentivize\" police use of facial recognition technology across the",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/98420-eff-calls-action-against-california-new-facial-recognition.html",
-      "originalUrl": "https://www.techspot.com/news/98420-eff-calls-action-against-california-new-facial-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-is-ai-dangerous-heres-what-musk-pichai-and-ai-experts-think.md",
-      "title": "Is AI dangerous? Here's what Musk, Pichai, and AI experts think",
-      "excerpt": "With AI getting better by the day, experts are starting to question: is AI dangerous? The answer depends on whom you ask.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/is-ai-dangerous-threat-3316199/",
-      "originalUrl": "https://www.androidauthority.com/is-ai-dangerous-threat-3316199/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2022/11/elon-musk-scaled.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-this-machine-learning-project-could-help-jumpstart-self-driving-cars-again.md",
-      "title": "This machine learning project could help jumpstart self-driving cars again",
-      "excerpt": "So far autonomous vehicles just don't seem to be able to do the one essential thing that they should -- predict the glorious unpredictability of other erratic humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-machine-learning-project-could-help-jumpstart-self-driving-cars-again/",
-      "originalUrl": "https://www.zdnet.com/article/this-machine-learning-project-could-help-jumpstart-self-driving-cars-again/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/142e9efc1a7ef87046e4afae2561ac1b6a12443f/2023/04/19/a4b9a446-4b42-4184-abae-8595075942f8/testtrack.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-machine-learning-project-could-help-jumpstart-self-driving-cars-again/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-machine-learning-project-could-help-jumpstart-self-driving-cars-again/",
-      "publishedDateTime": "2023-04-24T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-palo-alto-networks-automates-cybersecurity-with-machine-learning.md",
-      "title": "Palo Alto Networks automates cybersecurity with machine learning",
-      "excerpt": "Palo Alto Networks uses 3rd Gen Intel® Xeon® Scalable processors and Intel software in the cloud for its Cloud-Delivered Security Services to boost machine learning and inferencing performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3693108/palo-alto-networks-automates-cybersecurity-with-machine-learning.html",
-      "originalUrl": "https://www.infoworld.com/article/3693108/palo-alto-networks-automates-cybersecurity-with-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/04/istock-1294339697-100939579-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
       ]
     }
   ],

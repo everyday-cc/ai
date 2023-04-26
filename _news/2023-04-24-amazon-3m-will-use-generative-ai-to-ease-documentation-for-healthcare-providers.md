@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/saibala/2023/04/23/amazon--3m-will-use-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/04/23/amazon--3m-will-use-generative-ai-to-ease-documentation-for-healthcare-providers/amp/"
 type: article
 quality: 99
-heat: 119
+heat: 149
 published: true
 
 provider:
@@ -47,6 +47,33 @@ related:
         width: 1200
         height: 836
         isCached: true
+  - title: "Tinder’s verification process will now use AI and video selfies"
+    excerpt: "Tinder today is rolling out an AI-powered update to its Photo Verification feature, which to date has allowed the app’s users to prove to others they’re neither a bot nor a catfisher. In the past, users would take pictures of themselves,"
+    publishedDateTime: 2023-04-26T18:24:00Z
+    webUrl: "https://techcrunch.com/2023/04/25/tinders-verification-process-will-now-use-ai-and-video-selfies/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
+  - title: "Executives want generative AI, but are taking it slow. An army of providers has lined up to help"
+    excerpt: "Vendors are lining up to help enterprise companies adopt generative AI and tackle issues around data security and risk."
+    publishedDateTime: 2023-04-26T19:01:00Z
+    webUrl: "https://venturebeat.com/ai/executives-want-generative-ai-but-are-taking-it-slow-an-army-of-providers-has-lined-up-to-help/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 36
+  - title: "The PR Council Issues Guidelines On Ethical Use Of Generative AI"
+    excerpt: "PRC issues detailed, actionable guidelines on the use of generative AI tools based on their longstanding Code of Ethics and Principles.<"
+    publishedDateTime: 2023-04-26T19:24:00Z
+    webUrl: "https://menafn.com/1106102977/The-PR-Council-Issues-Guidelines-On-Ethical-Use-Of-Generative-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 34
   - title: "Researchers Leverage Generative AI to Improve Cancer Treatment Targets"
     excerpt: "Researchers from the University of Texas are studying the use of generative AI for adaptive radiotherapy to better personalize cancer treatments."
     publishedDateTime: 2023-04-24T13:29:00Z

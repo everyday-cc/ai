@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-26T18:36:19Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/deliver-your-first-ml-use-case-in-8-12-weeks/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/deliver-your-first-ml-use-case-in-8-12-weeks/"
 type: article
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: AWS

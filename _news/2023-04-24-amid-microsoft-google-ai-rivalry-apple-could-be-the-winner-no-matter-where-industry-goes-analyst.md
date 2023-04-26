@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/amid-microsoft-goo
 webUrl: "https://markets.businessinsider.com/news/stocks/amid-microsoft-google-ai-rivalry-apple-could-be-the-winner-no-matter-where-industry-goes-analyst-1032253335"
 type: article
 quality: 75
-heat: 105
+heat: 85
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-driven Microsoft Bing, startup You threaten Google's Search dominance"
-    excerpt: "New AI features in Microsoft Bing search engine and startup You.com have started to threaten Google's Search dominance, as users seek more efficient search options."
-    publishedDateTime: 2023-04-24T07:57:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/ai-driven-microsoft-bing-startup-you-threaten-googles-search-dominance/articleshow/99726281.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/ai-driven-microsoft-bing-startup-you-threaten-googles-search-dominance/amp_articleshow/99726281.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/ai-driven-microsoft-bing-startup-you-threaten-googles-search-dominance/amp_articleshow/99726281.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 73
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-99726281,imgsize-32894,width-800/99726281.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Artificial Intelligence Based Medical Device Market 2023 Precise Outlook – Google, Apple, Microsoft, IBM"
     excerpt: "The global Artificial Intelligence Based Medical Device market 2023 research report typically contains an in-depth analysis of a specific market or industry. It provides insights into market size, trends,"
     publishedDateTime: 2023-04-25T10:11:00Z
@@ -61,20 +45,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft 'holding a lot of the cards' in AI-powered search war with Google"
-    excerpt: "Microsoft didn’t mention Bing once on its earnings call. The search engine hasn’t been a big growth driver for Microsoft in the past. That's changing."
-    publishedDateTime: 2023-04-26T17:22:00Z
-    webUrl: "https://www.aol.com/finance/microsoft-holding-lot-cards-ai-171612672.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 52
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/rEQvskN4tIZdTSt1jmNJoA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/5ad4fc321a52c21d694cdbe3d7565c03"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "P5QwU2fkgFp5WvGBtzU8Km6CROmemfRBuGlIghpfnb2rI2bHaTlt37Nx13nZlYooJE5fmdJzb0KVsYRUx0wQJbtT1Gn5KYThN38oD2QkJcc7Jj5XJgJ2Q7RrSIBRtPAEYpQxw7Nl7WKNmi0zRPnoubRzemP6CJsBuwYMblWvvIzIVdi1bTySQqYjr+WMiy/I/ta9wx2/glshIjgqN1SsF5uC+Rd8Gi9KirNUYq+T3jpcvIwbf1i90qQ4c2cEV6WrGcwf8uUyKrX4wRWy00sKv5OJj3Inj9a0/0tydOgoZP7qjvMHZ2AlAFIVifg3eyknD6KP7kssfFRWgO4PxbWmY3wcine/hYQQnvCmXfNolAfmPYkBL1TBRP5381bvz9IAHMRLtTm9pp+ZZfonIQjiL9WdSwLkgU/4HkDDmBwHhTmSKrNzReFteS9m0DKasfwGKc/OIg+MNOy9cA5dkM5nS/eqd9pmCQtzVk29ScEMZUYnryfhpU8ze/shJUm7eEZ4ehUkAzqDAtFat3RT1GAgKA==;U3tZ13LZofqQN1YaB4kEkQ=="

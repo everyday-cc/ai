@@ -15,6 +15,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "TECzA5FLUgGST3LCeMpt+IUhrNOclK0MljIBjgqJQ4izpi+MnGyv/6RQckB3Pwq04JJLyUfp7hHWIzYjMAV/UB1zeihaVn4Q+6KeNJtdFINh7jiEseJ8ARo3eHy8sUeJyvsPecFdEjQYMIA4fJN4lUXshqfyGK0Y1x1u/0mzJwwWMtk4mD4hUoncActtzZvKVTJB+iegXc/Sel2rtDjGjlewV9pOpswLkMvxyLcgXefExc67uHJORdJ9gtnPXuUq0l1pvgSvQhVJojR+exieHG6ae7eQobaIxN9eWHUf0nlPu+Yuiou67YYsvPm8oVeBH/ufzgbjNCHXC04hlncoK2sau2FT1pBzwjegNJMDh4k=;zYWFFfXuKwlTUh33H8+qIg=="
+images:
+  - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/NucleusAIwall-elikecuterobotsmilingandreadingabooklo64cf6bf2-2dc6-4006-80fc-53762f2dce63-1682004860300.jpg?fm=png&auto=format"
+    width: 1536
+    height: 768
+    isCached: true
+
+secured: "w2nP0gV5xZH7WiMjU3M/QaGj/ZhsxjTlmdjYnZ8bytp6rq4IdXy4EDtyNKuzkE02tSQOyN//Nxe2arYa64mGInW8OLOVcPv+UEMIWieE0QNkZ9y9SsvEuRDMUffGEuzt9RK6rFEPUX665WRju87jDd+jCVhV0pYHqlTsrPZuSAtfuQ88Zij3LdNFCXesTcmbpC4HeyRU1EmIz+Mq6VLJ/+0DVpIGHg3ip2DnoYQzNzbm9hViHRlStd92QRyhRvgJ8b/Xb1iyvw3aarKNFl3gZwK1MPR9qnhJaM31kOWJIsyBhkg8BMQjRRg0pI0pNSR1n+w4QkMXH7OrdHTvTt0vqkOdncEMse5RhLT9vZPUAE0=;UMuXJl6c0jKTQaCLawmi/g=="
 ---
 

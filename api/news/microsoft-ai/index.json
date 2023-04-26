@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-27-pwc-us-to-invest-1-billion-for-expanding-generative-ai-capabilities-in-collaboration-with-microsoft.md",
+      "title": "PwC US to invest $1 billion for expanding generative AI capabilities in collaboration with Microsoft",
+      "excerpt": "PricewaterhouseCoopers (PwC) unveiled plans to invest $1B in expanding its artificial intelligence (AI) portfolio through generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/pwc-us-to-invest-1-billion-for-expanding-generative-ai-capabilities-in-collaboration-with-microsoft/",
+      "originalUrl": "https://venturebeat.com/ai/pwc-us-to-invest-1-billion-for-expanding-generative-ai-capabilities-in-collaboration-with-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/PwC.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/pwc-us-to-invest-1-billion-for-expanding-generative-ai-capabilities-in-collaboration-with-microsoft/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/pwc-us-to-invest-1-billion-for-expanding-generative-ai-capabilities-in-collaboration-with-microsoft/amp/",
+      "publishedDateTime": "2023-04-26T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-microsoft-shares-surge-7-after-the-chatgpt-investor-reveals-ai-boosted-its-cloud-sales.md",
       "title": "Microsoft shares surge 7% after the ChatGPT investor reveals AI boosted its cloud sales",
       "excerpt": "Microsoft CEO Satya Nadella said AI fueled growth in the tech giant's Azure cloud business and Bing search engine last quarter.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-price-chatgpt-investor-ai-cloud-azure-satya-nadella-2023-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 443,
+      "heat": 463,
       "tags": null,
       "images": [
         {
@@ -211,7 +263,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/amid-microsoft-google-ai-rivalry-apple-could-be-the-winner-no-matter-where-industry-goes-analyst-1032253335",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -299,51 +351,6 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-microsoft-is-working-on-its-own-ai-chip-athena-to-cut-down-cost-of-machine-learning-operations.md",
-      "title": "Microsoft is working on its own AI chip ‘Athena’ to cut down cost of machine learning operations",
-      "excerpt": "Microsoft is developing its own AI chip called Athena for powering Large Language Models used to develop generative AI products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medianama.com/2023/04/223-microsoft-ai-chip-athena-machine-learning/",
-      "originalUrl": "https://www.medianama.com/2023/04/223-microsoft-ai-chip-athena-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medianama.com/wp-content/uploads/2021/08/chip-6517875_1280.jpg",
-          "width": 1280,
-          "height": 838,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T00:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaNama",
-        "domain": "medianama.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
       ]
     },
     {

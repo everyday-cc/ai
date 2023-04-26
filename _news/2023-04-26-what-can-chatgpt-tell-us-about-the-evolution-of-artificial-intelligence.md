@@ -215,6 +215,20 @@ related:
         width: 2560
         height: 1631
         isCached: true
+  - title: "Let’s chat about AI: How design and construction firms are using ChatGPT"
+    excerpt: "Tech-savvy AEC firms that already use artificial intelligence to enhance their work view the startling evolution of ChatGPT mostly in a positive light as a potential tool for sharing information and training employees and trade partners."
+    publishedDateTime: 2023-04-26T16:21:00Z
+    webUrl: "https://www.bdcnetwork.com/lets-chat-about-ai-how-design-and-construction-firms-are-using-chatgpt"
+    type: article
+    provider:
+      name: Bdcnetwork.com
+      domain: bdcnetwork.com
+    quality: 38
+    images:
+      - url: "https://www.bdcnetwork.com/sites/bdc/files/Suffolk%20WINT.jpeg"
+        width: 1800
+        height: 1200
+        isCached: true
   - title: "Chat AI Chatbot Assistant: Revolutionizing Productivity And Assistance Powered By Chatgpt"
     excerpt: "Chat AI Chatbot powered by ChatGPT Discover the power of intelligent and engaging conversations with the Chat AI Chatbot Assistant app, n"
     publishedDateTime: 2023-04-25T21:52:00Z

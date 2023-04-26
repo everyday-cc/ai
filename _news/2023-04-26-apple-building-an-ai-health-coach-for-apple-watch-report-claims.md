@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/mobile/apple-may-be-building-ai-health
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/apple-may-be-building-ai-health-coach-for-apple-watch/?amp"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1235254642.jpg?resize=1200,800"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Apple to Expand Health Initiatives With AI Health Coach, Report Says"
+    excerpt: "Users would be motivated to exercise, eat well and improve their sleep based on individualized plans from the service, according to a report."
+    publishedDateTime: 2023-04-26T21:54:00Z
+    webUrl: "https://www.cnet.com/health/mental/apple-to-expand-health-initiatives-with-ai-health-coach-report-says/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/apple-to-expand-health-initiatives-with-ai-health-coach-report-says/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-to-expand-health-initiatives-with-ai-health-coach-report-says/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/b51c7491a37488da50088db52ecc742f50031f18/hub/2023/04/25/24906f59-9de8-4dd1-8ee7-82ce372523dd/gettyimages-1360358389.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Apple plans to expand Health services to include mood & eye tracking, AI coach planned for later"
     excerpt: "Apple reportedly plans to release an AI-powered health coach and tools to track a person's mood, and the Health app might finally be available on the iPad."

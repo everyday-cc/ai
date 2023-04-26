@@ -50,6 +50,20 @@ related:
         width: 1200
         height: 814
         isCached: true
+  - title: "The latest on software, data and artificial intelligence"
+    excerpt: "C4ISRNET Editor in Chief Mike Gruss speaks with Pentagon and Space Command officials on the transformation to a high-tech, digital-forward force."
+    publishedDateTime: 2023-04-26T20:16:00Z
+    webUrl: "https://www.defensenews.com/video/2023/04/26/the-latest-on-software-data-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: Defense News
+      domain: defensenews.com
+    quality: 37
+    images:
+      - url: "https://www.defensenews.com/resizer/5rZpB9BvFO8yyayroROa1AG8fgw=/1024x0/filters:format(jpg):quality(70)/d3k85ws6durfp9.cloudfront.net/04-26-2023/t_ea35f907ae034b3b80e5c8c10da07f9f_name_4_C4_CONF_Software_IT_Panel_JB_00_41_51_25_Still001.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "ruf/NJ8CGqkaPW+PTw/X2B/Lr9GC4ruDhNh9ZODjgIfOVrVe0VPWe2sL8VwKlnaVqFC/Ago/tUD6UnjDQ0YO0eYPIyyURSynGnKJgR7HYaXoZgixwfQXN2VnndETa6JGiOkJB0nCs6WjpiFCpuVnJV4XToZWszWqmicI2rFW8VLZl2DCM9h/RMRjTW/svVIWtX5JEBkEmVh6fJi/wagkj0j7yJpd+hM+FzahAZHLdxkjsL9CtuVGu3QJgGzpviL8bgqub+FNVMetQabl/YFzzQ+S+f8DfsCJIamZUxYg8NCBr4qu6pLQn3aRTq+c++gfTtOtYNk12ZancLCcJSTFZb/dU/eWeDCy+5i+DBT0CfUDPnYU3orHjSOqFy5jXgCk03w+9rJ5FHYk68iprSDXqVyWyRka87KZo2NYy9mWoW9cSU+3s02xfsQYCCLW75PzsuIPqTQ7lGBavNBFVOdUjhuLccQQvPU33UmjV+xNnZ64qpetMplxxMrXFenNO3ULp+Yz7uFFN4JCwo7qY6Tt4Q==;0rJxbPnYnyEw2XIVa2FRKQ=="
 ---

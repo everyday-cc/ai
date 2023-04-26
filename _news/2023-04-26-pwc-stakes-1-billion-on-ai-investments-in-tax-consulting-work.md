@@ -7,7 +7,7 @@ originalUrl: "https://news.bloomberglaw.com/financial-accounting/pwc-us-partners
 webUrl: "https://news.bloomberglaw.com/financial-accounting/pwc-us-partners-with-microsoft-in-1-billion-ai-investment"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,80 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "PwC US to invest $1 billion for expanding generative AI capabilities in collaboration with Microsoft"
+    excerpt: "PricewaterhouseCoopers (PwC) unveiled plans to invest $1B in expanding its artificial intelligence (AI) portfolio through generative AI."
+    publishedDateTime: 2023-04-26T18:31:00Z
+    webUrl: "https://venturebeat.com/ai/pwc-us-to-invest-1-billion-for-expanding-generative-ai-capabilities-in-collaboration-with-microsoft/"
+    ampWebUrl: "https://venturebeat.com/ai/pwc-us-to-invest-1-billion-for-expanding-generative-ai-capabilities-in-collaboration-with-microsoft/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/pwc-us-to-invest-1-billion-for-expanding-generative-ai-capabilities-in-collaboration-with-microsoft/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/PwC.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft is working on its own AI chip ‘Athena’ to cut down cost of machine learning operations"
+    excerpt: "Microsoft is developing its own AI chip called Athena for powering Large Language Models used to develop generative AI products."
+    publishedDateTime: 2023-04-24T07:54:00Z
+    webUrl: "https://www.medianama.com/2023/04/223-microsoft-ai-chip-athena-machine-learning/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 75
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2021/08/chip-6517875_1280.jpg"
+        width: 1280
+        height: 838
+        isCached: true
+  - title: "AI-driven Microsoft Bing, startup You threaten Google's Search dominance"
+    excerpt: "New AI features in Microsoft Bing search engine and startup You.com have started to threaten Google's Search dominance, as users seek more efficient search options."
+    publishedDateTime: 2023-04-24T07:57:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/ai-driven-microsoft-bing-startup-you-threaten-googles-search-dominance/articleshow/99726281.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/ai-driven-microsoft-bing-startup-you-threaten-googles-search-dominance/amp_articleshow/99726281.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/ai-driven-microsoft-bing-startup-you-threaten-googles-search-dominance/amp_articleshow/99726281.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 73
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-99726281,imgsize-32894,width-800/99726281.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Microsoft Q3 Earnings Report: Generative AI Brings In New Customers"
+    excerpt: "Despite generative artificial intelligence’s recent surge in popularity, Microsoft is already seeing new customers and new money-making opportunities – good news for early-ado"
+    publishedDateTime: 2023-04-26T01:33:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-q3-earnings-report-generative-ai-brings-in-new-customers"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0280-17d4ceec3a43-8e4af63e8e24-1000/satya-nadella-2021.jpeg"
+        width: 611
+        height: 458
+        isCached: true
+  - title: "Microsoft 'holding a lot of the cards' in AI-powered search war with Google"
+    excerpt: "Microsoft didn’t mention Bing once on its earnings call. The search engine hasn’t been a big growth driver for Microsoft in the past. That's changing."
+    publishedDateTime: 2023-04-26T17:22:00Z
+    webUrl: "https://www.aol.com/finance/microsoft-holding-lot-cards-ai-171612672.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 52
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/rEQvskN4tIZdTSt1jmNJoA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/5ad4fc321a52c21d694cdbe3d7565c03"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "PwC US plans $1 billion AI investment"
     excerpt: "PwC US plans to devote $1 billion over the next three years to AI projects for both its clients and its own operations, including upskilling its 65,000 workers. Why it matters: Companies are grappling with the best way to use AI to improve their businesses."
     publishedDateTime: 2023-04-26T12:05:00Z
@@ -27,6 +101,15 @@ related:
     provider:
       name: Axios
       domain: axios.com
+    quality: 19
+  - title: "The ODP Corporation Expands Collaboration with Microsoft to Leverage the Power of AI Technology from Microsoft Azure OpenAI Service"
+    excerpt: "Recognizing Azure's immense potential, ODP has been working with Microsoft to migrate legacy systems and to build out its customer-facing platforms, including its Varis digital procurement ecosystem and Business Central integration,"
+    publishedDateTime: 2023-04-26T13:55:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-odp-corporation-expands-collaboration-with-microsoft-leverage-power-/2023/04/26/9802325.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 19
 
 secured: "y6tIxAbH5AzPbnxjh+6wn8TDak8eWg8l8Sl/jUMPkIOlbHkwxClKtRAa5nhk9t/4qm4rKibolNy+gXCd5zmMSpUyirTbh2jV5MQPB7qFUQBLyt+aJt6WFICX0JGVP4DAYNlR/Aiz6Zo3TTN7WaUKthZ0k4ZlQVzgWCczTQScRcVlqj3lqs9Vakkg4hedhV4R3sel1/JKasZOd6c+4jBVWavjuaGi8598kh78rut1hXh+phuUdSbYwCzcq+T59vH81R4V7W5Ypa2+uLf+LDqA/0GbEcpVJpiWms5VmSxQdK7iBhXCbMR/LI2YNrsu6DB0O4CDoDJC1qHUi/WJYdS5tjTBQVc/ZQdfoff8KOejQU4ODW5QqaJgNP/wYKH/tCmXv0YLnXhro2hP7P9an22GwO/qVr9EE6ySFjsKnFJZ/oPU7K0nJZVNIPJCm5rk4QvSXet1ZryQHI97KOuyz8TeSu6vQb2gJx+XqgXSId6r1tUd3uYK58gYW3BFuuslAMhmjRnqJniqZgAXPD7cEF8iQw==;jxjcdE83FU+rOsrGdqdJ8g=="

@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "We Can Embrace Artificial Intelligence Without Losing Our Soul"
+    excerpt: "Launched in November, ChatGPT, driven by artificial intelligence, or AI, has been interacting with the public for six months now, gathering data and improving its performance. In those months, the chatbot has already passed exams in four law courses at the University of Minnesota and another exam at University of Pennsylvania’s Wharton School of Business."
+    publishedDateTime: 2023-04-26T18:44:00Z
+    webUrl: "https://www.jewishexponent.com/2023/04/26/we-can-embrace-artificial-intelligence-without-losing-our-soul/"
+    type: article
+    provider:
+      name: The Jewish Exponent
+      domain: jewishexponent.com
+    quality: 19
 
 secured: "1rcDH9gcaCzXAg/I0lNCCRIBnW/eX87sAWMTlQnoYorem+lyopJkVHyUGq1DHw4InhnCkSJUPZNGYnfmGyhQe9Hg9j7yASxQ464jBiQ3g2rgF7KNfha3PZw2lYf8oHjQ/fzFLapKIIPHsr2M2W2JxGFHzy14P0ji1ZVm1YrBpOjN6LzKQLI2fuS/uUb36QaeggORDUOQtpqlhajwLSgPwfCkdW7yq4QS0cZv0ebzOQAZWi8DB9bYPnmPvWgtXsHlomIb/VpKfsju/37jtZVUB1oE9os4zZp6Hj6D7dKlNNKvEuXTKAWe7pmQ5/95uzJX2Rv0IUBbkNFbHJ/XZSRjCZNxixOub0vD3sCJhjZ8qyGRQKE5l32JLPdn4bkBa2B0KCAYgUKJzGcDuF6dpV+hPBaaCWPIIrZzkyX4bkHapU5xK2uyH169tMR62qs1l83fAYXXWhQSzMn7TDy6UuzFL9HC6x9pYzv/OgyIMYDi/1RK0GAZuc2kj/5r9oBI5QSzZcAtFxbnVqliJUg2ghBmnw==;BQzO+cAx96FFyezPh3wdOA=="
 ---

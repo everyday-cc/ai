@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-26T18:06:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/glia-launches-voice-banking-virtual-assistants-1032264765"
 webUrl: "https://markets.businessinsider.com/news/stocks/glia-launches-voice-banking-virtual-assistants-1032264765"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Business Insider

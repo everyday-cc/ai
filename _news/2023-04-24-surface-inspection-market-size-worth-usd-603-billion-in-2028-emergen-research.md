@@ -32,6 +32,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 46
+  - title: "Artificial Intelligence in the Education Sector Market Size Worth USD 17.83 Billion by 2027 – Emergen Research"
+    excerpt: "AI transforming education: personalized learning, improved outcomes, and reduced costsVANCOUVER, Canada - April 26, 2023 — The global"
+    publishedDateTime: 2023-04-26T16:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-the-education-sector-market-size-worth-usd-17-83-billion-by-2027-–-emergen-research-1032262928"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
   - title: "Educational Robot Market Size Worth USD 4.02 Billion in 2028 – By Emergen Research"
     excerpt: "Discover the future of education with Educational Robots. Explore the market overview, growth drivers, restraints, and statistics from top"
     publishedDateTime: 2023-04-24T11:01:00Z
@@ -45,15 +54,6 @@ related:
     excerpt: "The latest market research on the Conversational AI industry, including size, share, and growth projections. Forecast to reach USD 25.04"
     publishedDateTime: 2023-04-23T18:42:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/conversational-ai-market-size-worth-usd-25-04-billion-in-2028-–-emergen-research-1032251795"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
-  - title: "Artificial Intelligence in the Education Sector Market Size Worth USD 17.83 Billion by 2027 – Emergen Research"
-    excerpt: "AI transforming education: personalized learning, improved outcomes, and reduced costsVANCOUVER, Canada - April 26, 2023 — The global"
-    publishedDateTime: 2023-04-26T16:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-the-education-sector-market-size-worth-usd-17-83-billion-by-2027-–-emergen-research-1032262928"
     type: article
     provider:
       name: Business Insider

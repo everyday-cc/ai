@@ -210,7 +210,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/amid-microsoft-google-ai-rivalry-apple-could-be-the-winner-no-matter-where-industry-goes-analyst-1032253335",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -352,6 +352,58 @@
       ]
     },
     {
+      "path": "_news/2023-04-22-smart-gun-operating-on-facial-recognition-goes-on-sale-in-us.md",
+      "title": "Smart gun operating on facial recognition goes on sale in US",
+      "excerpt": "BROOMFIELD, Colorado, April 21 (Reuters) - Colorado-based Biofire Tech is taking orders for a smart gun enabled by facial-recognition technology, the latest development in personalized weapons ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/smart-gun-operating-facial-recognition-goes-sale-us-2023-04-21/",
+      "originalUrl": "https://www.reuters.com/technology/smart-gun-operating-facial-recognition-goes-sale-us-2023-04-21/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/3QESb8uRDuLZlEpJhhYMYXjAAJQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LSI4GLAGWROZ7A6B7VSEVRGZVA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-21-businesses-turn-to-facial-recognition-technology-to-avert-shoplifting-and-robbery.md",
       "title": "Businesses turn to facial recognition technology to avert shoplifting and robbery",
       "excerpt": "Fox News’ Douglas Kennedy reports that shoplifting and robbery crimes are up 22% from last year, prompting business owners to use facial recognition technology to stop repeat offenders.",
@@ -459,19 +511,19 @@
     {
       "path": "_news/2023-04-20-ai-terminologies-101-understanding-computer-vision-and-its-applications.md",
       "title": "AI Terminologies 101: Understanding Computer Vision and Its Applications",
-      "excerpt": "Computer Vision is a type of artificial intelligence (AI) that enables machines to interpret and understand the visual world. Computer Vision algorithms can analyse and extract information from ...",
+      "excerpt": "Computer Vision is a type of artificial intelligence (AI) that enables machines to interpret and understand the visual world. Computer Vision algorithms can analyse and extract information from images and videos, including objects, patterns, and facial ...",
       "sourceUrl": null,
-      "webUrl": "https://yourstory.com/preview/2023/04/ai-terminologies-101-understanding-computer-vision",
-      "originalUrl": "https://yourstory.com/preview/2023/04/ai-terminologies-101-understanding-computer-vision",
+      "webUrl": "https://yourstory.com/2023/04/ai-terminologies-101-understanding-computer-vision",
+      "originalUrl": "https://yourstory.com/2023/04/ai-terminologies-101-understanding-computer-vision",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.yourstory.com/cs/images/undefined/nucleus-1677242056743.png",
-          "width": 1024,
-          "height": 1024,
+          "url": "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/NucleusAIwall-elikecuterobotsmilingandreadingabooklo64cf6bf2-2dc6-4006-80fc-53762f2dce63-1682004860300.jpg?fm=png&auto=format",
+          "width": 1536,
+          "height": 768,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -481,7 +533,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T08:29:00-07:00",
+      "publishedDateTime": "2023-04-20T09:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Your Story",
@@ -583,6 +635,40 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-im-a-victim-of-flawed-facial-recognition-technology-this-ca-bill-must-be-stopped-opinion.md",
+      "title": "I’m a victim of flawed facial recognition technology. This CA bill must be stopped | Opinion",
+      "excerpt": "A demonstration of facial recognition technology from the artificial intelligence company SenseTime in Shanghai, on April 17, 2018. In a major ethical leap for the tech world, Chinese start-ups ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sacbee.com/opinion/op-ed/article273692965.html",
+      "originalUrl": "https://www.sacbee.com/opinion/op-ed/article273692965.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sacramento Bee",
+        "domain": "sacbee.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1274,92 +1360,6 @@
         "name": "Hackaday",
         "domain": "hackaday.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-08-new-side-effect-of-covid-19-discovered-face-blindness.md",
-      "title": "New Side Effect of COVID-19 Discovered: “Face Blindness”",
-      "excerpt": "A Dartmouth College study discovered impairments in both face recognition and navigational abilities. A recent Dartmouth study published in the journal Cortex has revealed that COVID-19 can lead to difficulties in face recognition and navigation.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/new-side-effect-of-covid-19-discovered-face-blindness/",
-      "originalUrl": "https://scitechdaily.com/new-side-effect-of-covid-19-discovered-face-blindness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-08T00:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-08-how-to-unlock-your-phone-with-facial-recognition-even-when-you-have-your-glasses-on.md",
-      "title": "How to unlock your phone with facial recognition even when you have your glasses on",
-      "excerpt": "Face ID utilizes facial recognition technology to scan your face and verify your identity. When activated, the feature uses the front-facing camera, or selfie cam, to securely authenticate you are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/how-unlock-your-phone-facial-recognition-you-have-your-glasses-on",
-      "originalUrl": "https://www.foxnews.com/tech/how-unlock-your-phone-facial-recognition-you-have-your-glasses-on",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e1606f4-9dc7-4a77-a1f7-d0820d9415aa/bed61823-673c-4543-b5d7-0629195fdbbe/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/how-unlock-your-phone-facial-recognition-you-have-your-glasses-on.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-unlock-your-phone-facial-recognition-you-have-your-glasses-on.amp",
-      "publishedDateTime": "2023-04-07T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

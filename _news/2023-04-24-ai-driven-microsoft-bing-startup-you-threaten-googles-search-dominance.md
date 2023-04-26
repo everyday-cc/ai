@@ -27,33 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "Amid Microsoft-Google AI Rivalry, Apple Could Be The Winner 'No Matter Where Industry Goes:' Analyst"
-    excerpt: "Artificial Intelligence (AI) tech is an $800 billion market opportunity over the next decade as it pervades into the enterprise and consumer tech space, said Wedbush analyst Daniel Ives in a recent note."
-    publishedDateTime: 2023-04-24T09:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/amid-microsoft-google-ai-rivalry-apple-could-be-the-winner-no-matter-where-industry-goes-analyst-1032253335"
+  - title: "PwC US to invest $1 billion for expanding generative AI capabilities in collaboration with Microsoft"
+    excerpt: "PricewaterhouseCoopers (PwC) unveiled plans to invest $1B in expanding its artificial intelligence (AI) portfolio through generative AI."
+    publishedDateTime: 2023-04-26T18:31:00Z
+    webUrl: "https://venturebeat.com/ai/pwc-us-to-invest-1-billion-for-expanding-generative-ai-capabilities-in-collaboration-with-microsoft/"
+    ampWebUrl: "https://venturebeat.com/ai/pwc-us-to-invest-1-billion-for-expanding-generative-ai-capabilities-in-collaboration-with-microsoft/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/pwc-us-to-invest-1-billion-for-expanding-generative-ai-capabilities-in-collaboration-with-microsoft/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/PwC.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft is working on its own AI chip ‘Athena’ to cut down cost of machine learning operations"
+    excerpt: "Microsoft is developing its own AI chip called Athena for powering Large Language Models used to develop generative AI products."
+    publishedDateTime: 2023-04-24T07:54:00Z
+    webUrl: "https://www.medianama.com/2023/04/223-microsoft-ai-chip-athena-machine-learning/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
     quality: 75
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Apple_logo_on_macbook_2.jpeg"
-        width: 1024
-        height: 768
+      - url: "https://www.medianama.com/wp-content/uploads/2021/08/chip-6517875_1280.jpg"
+        width: 1280
+        height: 838
         isCached: true
-  - title: "Artificial Intelligence Based Medical Device Market 2023 Precise Outlook – Google, Apple, Microsoft, IBM"
-    excerpt: "The global Artificial Intelligence Based Medical Device market 2023 research report typically contains an in-depth analysis of a specific market or industry. It provides insights into market size, trends,"
-    publishedDateTime: 2023-04-25T10:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-2023-precise-outlook-google-apple-microsoft-ibm-2023-04-25"
+  - title: "Microsoft Q3 Earnings Report: Generative AI Brings In New Customers"
+    excerpt: "Despite generative artificial intelligence’s recent surge in popularity, Microsoft is already seeing new customers and new money-making opportunities – good news for early-ado"
+    publishedDateTime: 2023-04-26T01:33:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-q3-earnings-report-generative-ai-brings-in-new-customers"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: CRN
+      domain: crn.com
+    quality: 54
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.crn.com/resources/0280-17d4ceec3a43-8e4af63e8e24-1000/satya-nadella-2021.jpeg"
+        width: 611
+        height: 458
         isCached: true
   - title: "Microsoft 'holding a lot of the cards' in AI-powered search war with Google"
     excerpt: "Microsoft didn’t mention Bing once on its earnings call. The search engine hasn’t been a big growth driver for Microsoft in the past. That's changing."
@@ -69,6 +85,33 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "PwC Stakes $1 Billion on AI Investments in Tax, Consulting Work"
+    excerpt: "Big Four accounting firm PwC US will invest $1 billion over the next three years to expand how its tax accountants, auditors, and consultants use artificial intelligence to improve the work they do for clients,"
+    publishedDateTime: 2023-04-26T12:00:00Z
+    webUrl: "https://news.bloomberglaw.com/financial-accounting/pwc-us-partners-with-microsoft-in-1-billion-ai-investment"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 19
+  - title: "PwC US plans $1 billion AI investment"
+    excerpt: "PwC US plans to devote $1 billion over the next three years to AI projects for both its clients and its own operations, including upskilling its 65,000 workers. Why it matters: Companies are grappling with the best way to use AI to improve their businesses."
+    publishedDateTime: 2023-04-26T12:05:00Z
+    webUrl: "https://www.axios.com/2023/04/26/ai-pwc-microsoft-chatgpt"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 19
+  - title: "The ODP Corporation Expands Collaboration with Microsoft to Leverage the Power of AI Technology from Microsoft Azure OpenAI Service"
+    excerpt: "Recognizing Azure's immense potential, ODP has been working with Microsoft to migrate legacy systems and to build out its customer-facing platforms, including its Varis digital procurement ecosystem and Business Central integration,"
+    publishedDateTime: 2023-04-26T13:55:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-odp-corporation-expands-collaboration-with-microsoft-leverage-power-/2023/04/26/9802325.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "ctqfJzLnWnlaiEcN2C5xqI2GlraGZxFfJx2HBdr4m+C1YxWOua3CHD46yNboZAbiZIB+jL0Nsjn9oVWGiu4qUR0yymlneGTr/v/I2TUGtQMZnzqA95EJRX/DHTmZUlG8pKmZF7ukPfI8qHjlF1qC4VZDLGRCpRVnqhd8ZGSbp1q06hTY1WNnc8Ht47ppiW3KQP1Zzq4pbtha66pu4U1JDnWtcwSWL+QKlJKYwsxBfeImyz2/yPSoaRNQN2EaBNM3o4wrdHhUER6cVcrhO3cXpT5i18lEynTEO1hJ833dw0/0yBM6g1y7R9QJyS5jfWuEnv5cgfiKoSzk4Acj1cyMLvJ9lU03ab3C2JjBl6rubnM=;IuwOOMq1Kmk1OV6y7PtBCg=="
 ---

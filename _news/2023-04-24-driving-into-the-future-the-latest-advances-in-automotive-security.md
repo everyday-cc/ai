@@ -25,6 +25,17 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Software Development Future: AI And Machine Learning"
+    excerpt: "How Artificial Intelligence and Machine Learning Will Impact Software Development April 26, 2023 by mark allinson leave a comment <strong"
+    publishedDateTime: 2023-04-26T19:13:00Z
+    webUrl: "https://menafn.com/1106104719/Software-Development-Future-AI-And-Machine-Learning"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 34
+
 secured: "iOQOzPWtCnixWwtl4pkyNl+dxZNsy6wR8DTyzTNxiAa85qGB8mj7EJVbNf42JXmbI3458XcqdTV+hwCXOqq3FclgC4Jt2PFYIVm4x5xZd3ZMNIOpPs6GJYiG41yk89XHzyzU+ODb8np7f9YRogVokxpkpcrk9ya3Nql6vgDXMZQLDmO4aKEbseDbYA8QjzGqBspSMGubOiz2eTD3+jG7Pj4UjzeWAZj85i+qmm7feZ7obxWeWz/HMU+5KNlJAKTkjzwDvqie/DQ/3EbFu2fI1Qku1AepCg/aoPm5GLBEcJbGbio+g4kB8v7+hNfM/NSbOo1534oguc9LQufJIIAsy07llloU/oq+D0K3jPbxuqc=;Yu+E8cgW3lfWM47AOV1ktw=="
 ---
 

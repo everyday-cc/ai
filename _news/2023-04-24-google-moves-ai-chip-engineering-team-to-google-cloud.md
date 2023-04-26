@@ -43,6 +43,20 @@ related:
         width: 790
         height: 526
         isCached: true
+  - title: "The latest on software, data and artificial intelligence"
+    excerpt: "C4ISRNET Editor in Chief Mike Gruss speaks with Pentagon and Space Command officials on the transformation to a high-tech, digital-forward force."
+    publishedDateTime: 2023-04-26T20:16:00Z
+    webUrl: "https://www.defensenews.com/video/2023/04/26/the-latest-on-software-data-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: Defense News
+      domain: defensenews.com
+    quality: 37
+    images:
+      - url: "https://www.defensenews.com/resizer/5rZpB9BvFO8yyayroROa1AG8fgw=/1024x0/filters:format(jpg):quality(70)/d3k85ws6durfp9.cloudfront.net/04-26-2023/t_ea35f907ae034b3b80e5c8c10da07f9f_name_4_C4_CONF_Software_IT_Panel_JB_00_41_51_25_Still001.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "As AI Advances, Is Prompt Engineering the Next Crucial Legal Skill?"
     excerpt: "Generative AI has taken the legal world by storm, and that means legal professionals are going to have to learn to communicate with machines. One key skill for doing so has emerged: prompt engineering."
     publishedDateTime: 2023-04-25T19:47:00Z

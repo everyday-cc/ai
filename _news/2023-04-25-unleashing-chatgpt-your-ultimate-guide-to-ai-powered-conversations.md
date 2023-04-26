@@ -42,6 +42,15 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "How to Use AI to Find Your Next Hire"
+    excerpt: "ChatGpt and AI are amazing tools for your business, but they aren't without flaws. Spend a few minutes conversing with the interface and you will quickly learn that while it is a wealth of knowledge,"
+    publishedDateTime: 2023-04-25T08:43:00Z
+    webUrl: "https://www.inc.com/david-finkel/how-to-use-ai-to-find-your-next-hire.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "s8eSjyS65TbDq0k4tPvq8wBxkes6gQCksLDHwGlUmZSIP6MZ2neQHgltfFjracY27b3d8KiWddbJ1nqB18lMMOaI65qpLbpXneapkuKcv4yVlnGkeLhAh9Kx7w0Qdfew28eFUwZ94v6UowX6ncN16VZ1EeTSTJN8pZNEbwDQHtqwiqrlauN9a8W2JtcPGuCxk+oR2WvsZmaxpadVsNlNg5P2oqyEOPd3wpzUm4p0+7lelFoT125LD/iUsrcS42oQSQkTBOV0XYE1DJmjJhgFu2WEQYiiFg6N0kIX2fQdAm0b5JQxE9AJQ99LIaWfRV1I21GqmKGGH0lSrm049dtjkTyIa6wxq6ReIeZrRti8/l8=;5TtAaAUt06F/0DlZHdqG2g=="
 ---

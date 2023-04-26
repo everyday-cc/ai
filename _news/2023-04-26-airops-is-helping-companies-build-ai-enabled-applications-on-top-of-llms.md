@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2023/04/26/airops-is-helping-companies-build-ai-
 ampWebUrl: "https://techcrunch.com/2023/04/26/airops-is-helping-companies-build-ai-enabled-applications-on-top-of-llms/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/26/airops-is-helping-companies-build-ai-enabled-applications-on-top-of-llms/amp/"
 type: article
-quality: 86
-heat: 96
+quality: 88
+heat: 98
 published: true
 
 provider:

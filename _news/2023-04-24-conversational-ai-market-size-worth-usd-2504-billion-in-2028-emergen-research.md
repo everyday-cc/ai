@@ -32,6 +32,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 46
+  - title: "Artificial Intelligence in the Education Sector Market Size Worth USD 17.83 Billion by 2027 – Emergen Research"
+    excerpt: "AI transforming education: personalized learning, improved outcomes, and reduced costsVANCOUVER, Canada - April 26, 2023 — The global"
+    publishedDateTime: 2023-04-26T16:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-the-education-sector-market-size-worth-usd-17-83-billion-by-2027-–-emergen-research-1032262928"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
   - title: "Educational Robot Market Size Worth USD 4.02 Billion in 2028 – By Emergen Research"
     excerpt: "Discover the future of education with Educational Robots. Explore the market overview, growth drivers, restraints, and statistics from top"
     publishedDateTime: 2023-04-24T11:01:00Z
@@ -41,15 +50,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
-  - title: "Artificial Intelligence in the Education Sector Market Size Worth USD 17.83 Billion by 2027 – Emergen Research"
-    excerpt: "AI transforming education: personalized learning, improved outcomes, and reduced costsVANCOUVER, Canada - April 26, 2023 — The global"
-    publishedDateTime: 2023-04-26T16:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-the-education-sector-market-size-worth-usd-17-83-billion-by-2027-–-emergen-research-1032262928"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
   - title: "Surface Inspection Market Size Worth USD 6.03 Billion in 2028 – Emergen Research"
     excerpt: "Surface Inspection Market expected to reach USD 6.03 Billion by 2028, according to Emergen Research's latest report on industry growth and"
     publishedDateTime: 2023-04-23T18:43:00Z

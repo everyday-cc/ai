@@ -2,6 +2,93 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-02-08-can-pigeons-match-wits-with-artificial-intelligence.md",
+      "title": "Can pigeons match wits with artificial intelligence?",
+      "excerpt": "Oct. 9, 2018 — As artificial intelligence becomes more sophisticated, much of the public attention has focused on how successfully these technologies can compete against humans at chess and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/02/230207144220.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/02/230207144220.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T17:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-08-artificial-intelligence-continues-to-transform-healthcare.md",
+      "title": "Artificial Intelligence Continues to Transform Healthcare",
+      "excerpt": "Artificial intelligence is finding its way into healthcare at an astonishing rate. A new collaboration between Novartis Pharmaceuticals and Anumana is the latest example of how both pharma and medtech are embracing AI. The multi-year strategic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-continues-transform-healthcare",
+      "originalUrl": "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-continues-transform-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design-311.png",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-02-08-artificial-intelligence-opens-the-door-to-more-effective-antibodies-potential-applications-for-covid-19.md",
       "title": "Artificial Intelligence Opens The Door To More Effective Antibodies - Potential Applications For Covid-19",
       "excerpt": "Advances in artificial intelligence antibody modeling may pave the way to reduce time spent during the identification process. Rather than sorting through millions of B-cell receptor sequences ...",
@@ -1117,83 +1204,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-driverless-buses-may-sound-like-the-future-but-i-cant-see-them-taking-off-susan-dalgety.md",
-      "title": "Driverless buses may sound like the future, but I can't see them taking off – Susan Dalgety",
-      "excerpt": "I don’t drive. No, let me amend that, I can’t drive. I have never had the inclination to learn, and given my impatient and sometimes reckless personality, it’s probably a good thing that I have been a passenger all my life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.edinburghnews.scotsman.com/news/opinion/columnists/driverless-buses-may-sound-like-the-future-but-i-cant-see-them-taking-off-susan-dalgety-4013181",
-      "originalUrl": "https://www.edinburghnews.scotsman.com/news/opinion/columnists/driverless-buses-may-sound-like-the-future-but-i-cant-see-them-taking-off-susan-dalgety-4013181",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-03T04:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "edinburghnews.scotsman.com",
-        "domain": "scotsman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-worlds-first-self-driving-bus-to-hit-the-streets-of-edinburgh-this-spring.md",
-      "title": "World’s first self-driving bus to hit the streets of Edinburgh this spring",
-      "excerpt": "You can unsubscribe at any time. More info In a world first, full-sized self-driving buses will hit the streets of Edinburgh this spring thanks to a project that has received £10.4million in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/news/science/1730048/self-driving-bus-worlds-first-streets-edinburgh-awarded-government-funding",
-      "originalUrl": "https://www.express.co.uk/news/science/1730048/self-driving-bus-worlds-first-streets-edinburgh-awarded-government-funding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/151/1200x712/4544973.jpg?r=1675414767040",
-          "width": 1200,
-          "height": 712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/news/science/1730048/self-driving-bus-worlds-first-streets-edinburgh-awarded-government-funding",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1730048/self-driving-bus-worlds-first-streets-edinburgh-awarded-government-funding",
-      "publishedDateTime": "2023-02-03T03:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

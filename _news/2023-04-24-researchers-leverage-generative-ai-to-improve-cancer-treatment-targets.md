@@ -51,6 +51,33 @@ related:
         width: 1200
         height: 836
         isCached: true
+  - title: "Tinder’s verification process will now use AI and video selfies"
+    excerpt: "Tinder today is rolling out an AI-powered update to its Photo Verification feature, which to date has allowed the app’s users to prove to others they’re neither a bot nor a catfisher. In the past, users would take pictures of themselves,"
+    publishedDateTime: 2023-04-26T18:24:00Z
+    webUrl: "https://techcrunch.com/2023/04/25/tinders-verification-process-will-now-use-ai-and-video-selfies/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
+  - title: "Executives want generative AI, but are taking it slow. An army of providers has lined up to help"
+    excerpt: "Vendors are lining up to help enterprise companies adopt generative AI and tackle issues around data security and risk."
+    publishedDateTime: 2023-04-26T19:01:00Z
+    webUrl: "https://venturebeat.com/ai/executives-want-generative-ai-but-are-taking-it-slow-an-army-of-providers-has-lined-up-to-help/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 36
+  - title: "The PR Council Issues Guidelines On Ethical Use Of Generative AI"
+    excerpt: "PRC issues detailed, actionable guidelines on the use of generative AI tools based on their longstanding Code of Ethics and Principles.<"
+    publishedDateTime: 2023-04-26T19:24:00Z
+    webUrl: "https://menafn.com/1106102977/The-PR-Council-Issues-Guidelines-On-Ethical-Use-Of-Generative-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 34
 
 secured: "epD7sCtNOTBXn3P9viOOxJyifkK11KX72QJPr/3QM2FJT3eTLTSM62dP5jMlWtkzbtfxH45RdCXzWf19nfXgVa/LRIbkn3bblOtVyTty7z0TLdyrPqiBvPottt52nMxmuY3Lr+8Cm+HJ4N/baIPhAwf/KOf7KnIf2qgBh3DV5EInLLLX6v0HV53PrjaSE5d2pXIMHHxBpk2e3ueqECaK7tYzooa4L1DlMn/lV5WxYvn5DiplVh/LWWSRtxLyYbIjzDqDkZUpz3X/5iVtc+WzWsPnSEV002jdnLTf7RnZy3tOUvkBPprVhvFvA4IpEsoSOTs0LvyJZKCLz4PCHpgh9GJ7T61fbAkgfOJMVcHyR/0=;MtZ4Egnrx15hdlxix5Xk6g=="
 ---

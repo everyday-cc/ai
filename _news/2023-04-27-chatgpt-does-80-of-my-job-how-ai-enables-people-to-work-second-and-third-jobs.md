@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-26T18:06:00Z
 originalUrl: "https://www.benzinga.com/startups/23/04/32017999/chatgpt-does-80-of-my-job-how-ai-enables-people-to-work-second-and-startup"
 webUrl: "https://www.benzinga.com/startups/23/04/32017999/chatgpt-does-80-of-my-job-how-ai-enables-people-to-work-second-and-startup"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Benzinga.com

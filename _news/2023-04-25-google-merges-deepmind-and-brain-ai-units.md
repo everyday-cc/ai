@@ -35,22 +35,6 @@ related:
         width: 740
         height: 493
         isCached: true
-  - title: "Google intensifies its bid to lead AI race, announces Google DeepMind: Here’s what it means"
-    excerpt: "Google DeepMind is the combination of DeepMind and Google Brain. The new collective unit is expected to steer Google’s progress in AI."
-    publishedDateTime: 2023-04-22T04:08:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/google-intensifies-its-bid-to-lead-ai-race-announces-google-deepmind-8568635/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/google-intensifies-its-bid-to-lead-ai-race-announces-google-deepmind-8568635/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/google-intensifies-its-bid-to-lead-ai-race-announces-google-deepmind-8568635/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 64
-    images:
-      - url: "https://images.indianexpress.com/2023/04/What-is-Google-DeepMind.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "Weekly AI Wrap: Google DeepMind & Open Source Innovations Transforming Industries"
     excerpt: "Uncovering groundbreaking developments from Google DeepMind, open-source AI, and their impact on diverse industries."
     publishedDateTime: 2023-04-24T18:05:00Z

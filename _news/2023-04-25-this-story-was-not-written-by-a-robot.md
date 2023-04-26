@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-25T04:03:00Z
 originalUrl: "https://www.politico.eu/article/robot-reporters-newsroom-algorithms-artificial-intelligence/"
 webUrl: "https://www.politico.eu/article/robot-reporters-newsroom-algorithms-artificial-intelligence/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Politico Europe

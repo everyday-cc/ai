@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft Is Staking Its Future On Generative AI"
+    excerpt: "Microsoft CEO, Satya Nadella,has been very clear that generative AI will reshape every Microsoft software category and major transformations are underway throughout the company. Microsoft has a major edge over its rivals, as it also is building in its own AI chips, so it won’t be totally reliant on market leaders like Intel, or Nvidia."
+    publishedDateTime: 2023-04-26T18:55:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2023/04/26/microsoft-is-staking-its-future-on-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/04/26/microsoft-is-staking-its-future-on-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/04/26/microsoft-is-staking-its-future-on-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 108
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6449730f6426343270f3312d/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How to use Microsoft Edge's integrated Bing AI Image Creator"
     excerpt: "How to use Bing AI Image Creator within Microsoft Edge. First, make sure you're running the latest version of Microsoft's browser. In Edge, click the thr"
     publishedDateTime: 2023-04-25T15:15:00Z
@@ -396,6 +412,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Google Cloud and Microsoft tease plans to integrate generative AI into core products"
+    excerpt: "Each hyperscaler used recent earnings calls to highlight the momentum and eagerness its customers have for AI."
+    publishedDateTime: 2023-04-26T21:08:00Z
+    webUrl: "https://www.ciodive.com/news/Google-Microsoft-earnings-AI-Copilot-Bard/648727/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 47
+    images:
+      - url: "https://www.ciodive.com/imgproxy/MI5IQ_BJKiJLO9R8fZV_cLYqhxBY2MrXuEF6Lh4Lfdo/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzMzc0MDM3MDQuanBn.jpg"
+        width: 770
+        height: 435
+        isCached: true
   - title: "Microsoft beats expectations and forecasts strong revenue growth driven by investments in AI"
     excerpt: "Microsoft Corp. delivered a strong earnings and revenue beat, grew its operating income and forecast another solid beat for the coming quarter, sending its shares up more than 8% in late trading today."
     publishedDateTime: 2023-04-26T01:28:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/opinion/articles/2023-04-26/ai-could-spe
 webUrl: "https://www.bloomberg.com/opinion/articles/2023-04-26/ai-could-spell-the-end-of-big-business"
 type: article
 quality: 67
-heat: 77
+heat: 79
 published: true
 
 provider:

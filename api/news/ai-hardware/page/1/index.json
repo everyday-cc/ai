@@ -481,7 +481,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/amid-microsoft-google-ai-rivalry-apple-could-be-the-winner-no-matter-where-industry-goes-analyst-1032253335",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -525,51 +525,6 @@
         "Microsoft AI",
         "Facebook AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-microsoft-is-working-on-its-own-ai-chip-athena-to-cut-down-cost-of-machine-learning-operations.md",
-      "title": "Microsoft is working on its own AI chip ‘Athena’ to cut down cost of machine learning operations",
-      "excerpt": "Microsoft is developing its own AI chip called Athena for powering Large Language Models used to develop generative AI products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medianama.com/2023/04/223-microsoft-ai-chip-athena-machine-learning/",
-      "originalUrl": "https://www.medianama.com/2023/04/223-microsoft-ai-chip-athena-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medianama.com/wp-content/uploads/2021/08/chip-6517875_1280.jpg",
-          "width": 1280,
-          "height": 838,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T00:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaNama",
-        "domain": "medianama.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
       ]
     },
     {
@@ -1494,6 +1449,50 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-04-15-amazon-web-services-joins-other-tech-giants-in-ai-race.md",
+      "title": "Amazon Web Services Joins Other Tech Giants in AI Race",
+      "excerpt": "The Amazon Web Services unit on Thursday announced two of its own large-language models, one designed to generate text, and another that could help power web search personalization, among other things.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/artificial-intelligence/amazon-web-services-joins-other-tech-giants-in-ai-race",
+      "originalUrl": "https://www.govtech.com/artificial-intelligence/amazon-web-services-joins-other-tech-giants-in-ai-race",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/d8cb57a/2147483647/strip/true/crop/2827x1474+0+164/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9b%2F8f%2F3ccec57142619f6048f4696f6d00%2Fbiz-cpt-ai-amazon-dmt.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/artificial-intelligence/amazon-web-services-joins-other-tech-giants-in-ai-race?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/amazon-web-services-joins-other-tech-giants-in-ai-race?_amp=true",
+      "publishedDateTime": "2023-04-14T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI",
         "AI Hardware"
       ]

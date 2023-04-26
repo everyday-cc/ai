@@ -2,6 +2,257 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-27-moveworks-debuts-creator-studio-to-build-ai-driven-employee-copilots.md",
+      "title": "Moveworks debuts Creator Studio to build AI-driven employee copilots",
+      "excerpt": "Enterprise chatbot developer Moveworks today launched Creator Studio, a no-code platform to build custom conversational AI interfaces.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/moveworks-debuts-creator-studio-to-build-ai-driven-employee-copilots/",
+      "originalUrl": "https://venturebeat.com/ai/moveworks-debuts-creator-studio-to-build-ai-driven-employee-copilots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1364050120-e1651871311915.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/moveworks-debuts-creator-studio-to-build-ai-driven-employee-copilots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/moveworks-debuts-creator-studio-to-build-ai-driven-employee-copilots/amp/",
+      "publishedDateTime": "2023-04-26T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-review-the-magic-conveyor-belt-supply-chain-and-ai-a-tale-of-two-halves.md",
+      "title": "Review: “The Magic Conveyor Belt, Supply Chain And AI,” A Tale Of Two Halves",
+      "excerpt": "I had hopes that this would be a great book about modern supply chains and how artificial intelligence (AI) can address the challenges of the sector. Sadly, I was only half right.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2023/04/26/review-the-magic-conveyor-belt-supply-chain-and-ai-a-tale-of-two-halves/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2023/04/26/review-the-magic-conveyor-belt-supply-chain-and-ai-a-tale-of-two-halves/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=875,492,x0,y20,safe&width=1200",
+          "width": 875,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2023/04/26/review-the-magic-conveyor-belt-supply-chain-and-ai-a-tale-of-two-halves/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2023/04/26/review-the-magic-conveyor-belt-supply-chain-and-ai-a-tale-of-two-halves/amp/",
+      "publishedDateTime": "2023-04-26T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-artificial-intelligence-quiz-how-well-do-you-know-ai.md",
+      "title": "Artificial intelligence quiz! How well do you know AI?",
+      "excerpt": "How well do you know the basis of artificial intelligence? Take this quiz and find out what you have knowledge on regarding AI and what you might need more education on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/artificial-intelligence-quiz-know-ai",
+      "originalUrl": "https://www.foxnews.com/tech/artificial-intelligence-quiz-know-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/aipic.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-deliver-your-first-ml-use-case-in-812-weeks.md",
+      "title": "Deliver your first ML use case in 8–12 weeks",
+      "excerpt": "Do you need help to move your organization’s Machine Learning (ML) journey from pilot to production? You’re not alone. Most executives think ML can apply to any business decision, but on average only half of the ML projects make it to production. This post describes how to implement your first ML use",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deliver-your-first-ml-use-case-in-8-12-weeks/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deliver-your-first-ml-use-case-in-8-12-weeks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T11:36:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-pwc-us-to-invest-1-billion-for-expanding-generative-ai-capabilities-in-collaboration-with-microsoft.md",
+      "title": "PwC US to invest $1 billion for expanding generative AI capabilities in collaboration with Microsoft",
+      "excerpt": "PricewaterhouseCoopers (PwC) unveiled plans to invest $1B in expanding its artificial intelligence (AI) portfolio through generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/pwc-us-to-invest-1-billion-for-expanding-generative-ai-capabilities-in-collaboration-with-microsoft/",
+      "originalUrl": "https://venturebeat.com/ai/pwc-us-to-invest-1-billion-for-expanding-generative-ai-capabilities-in-collaboration-with-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/PwC.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/pwc-us-to-invest-1-billion-for-expanding-generative-ai-capabilities-in-collaboration-with-microsoft/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/pwc-us-to-invest-1-billion-for-expanding-generative-ai-capabilities-in-collaboration-with-microsoft/amp/",
+      "publishedDateTime": "2023-04-26T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-airops-is-helping-companies-build-ai-enabled-applications-on-top-of-llms.md",
       "title": "AirOps is helping companies build AI-enabled applications on top of LLMs",
       "excerpt": "AirOps, an early-stage startup, is looking to help companies build business applications on top of large language models.",
@@ -10,7 +261,7 @@
       "originalUrl": "https://techcrunch.com/2023/04/26/airops-is-helping-companies-build-ai-enabled-applications-on-top-of-llms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -34,6 +285,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-ai-is-changing-football-analysis-forever-could-coaches-become-obsolete.md",
+      "title": "AI is changing football analysis forever. Could coaches become obsolete?",
+      "excerpt": "Annotating and analyzing game tape is a bread-and-butter activity for football teams, yet it is painfully time-consuming process that's prone to human error. BYU's engineering department is working on changing that.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-is-changing-football-analysis-forever-could-coaches-become-obsolete/",
+      "originalUrl": "https://www.zdnet.com/article/ai-is-changing-football-analysis-forever-could-coaches-become-obsolete/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ef257374bfb08b4e6b9cfe942e388fe1e54819f8/2023/04/19/b8ce3164-c07d-45f1-bf0a-b5749627b329/byuteam.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-is-changing-football-analysis-forever-could-coaches-become-obsolete/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-is-changing-football-analysis-forever-could-coaches-become-obsolete/",
+      "publishedDateTime": "2023-04-26T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -112,7 +415,7 @@
       "originalUrl": "https://www.zdnet.com/article/this-ai-chatbot-can-sum-up-any-pdf-and-any-question-you-have-about-it/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -214,7 +517,7 @@
       "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-04-26/ai-could-spell-the-end-of-big-business",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -317,7 +620,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-price-chatgpt-investor-ai-cloud-azure-satya-nadella-2023-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 443,
+      "heat": 463,
       "tags": null,
       "images": [
         {
@@ -525,7 +828,7 @@
       "originalUrl": "https://www.digitaltrends.com/mobile/apple-may-be-building-ai-health-coach-for-apple-watch/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -951,310 +1254,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-run-your-local-machine-learning-code-as-amazon-sagemaker-training-jobs-with-minimal-code-changes.md",
-      "title": "Run your local machine learning code as Amazon SageMaker Training jobs with minimal code changes",
-      "excerpt": "We recently introduced a new capability in the Amazon SageMaker Python SDK that lets data scientists run their machine learning (ML) code authored in their preferred integrated developer environment (IDE) and notebooks along with the associated runtime dependencies as Amazon SageMaker training jobs with",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-your-local-machine-learning-code-as-amazon-sagemaker-training-jobs-with-minimal-code-changes/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-your-local-machine-learning-code-as-amazon-sagemaker-training-jobs-with-minimal-code-changes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/04/25/machine-learning-local-code-sagemaker.jpg",
-          "width": 959,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T13:55:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-artificial-generative-intelligence-risks-a-return-to-cultural-colonialism.md",
-      "title": "Artificial generative intelligence risks a return to cultural colonialism",
-      "excerpt": "The explosive rise of AI chatbots has brought us to a pivotal moment that will have lasting effects on our collective worldview.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/artificial-generative-intelligence-risks-a-return-to-cultural-colonialism/",
-      "originalUrl": "https://venturebeat.com/games/artificial-generative-intelligence-risks-a-return-to-cultural-colonialism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-robot_machine_learning_AI_1323774184-e1659571276418.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/artificial-generative-intelligence-risks-a-return-to-cultural-colonialism/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/artificial-generative-intelligence-risks-a-return-to-cultural-colonialism/amp/",
-      "publishedDateTime": "2023-04-25T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-a-pioneering-artificial-intelligence-method-to-fight-urban-air-pollution.md",
-      "title": "A pioneering artificial intelligence method to fight urban air pollution",
-      "excerpt": "World Health Organization (WHO). This scenario is exacerbated in urban areas where more than 50% of the world's population is concentrated.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-04-artificial-intelligence-method-urban-air.html",
-      "originalUrl": "https://phys.org/news/2023-04-artificial-intelligence-method-urban-air.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/a-pioneering-artificia.jpg",
-          "width": 2067,
-          "height": 1831,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-04-artificial-intelligence-method-urban-air.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-artificial-intelligence-method-urban-air.amp",
-      "publishedDateTime": "2023-04-25T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-the-race-continues-google-search-set-to-be-backed-by-conversational-ai.md",
-      "title": "The Race Continues: Google Search Set To Be Backed By Conversational AI",
-      "excerpt": "The addition of Generative AI capabilities to Google Search will be critical if Google intends to remain the top search engine globally. And while there are more questions than answers at this time, Google is going to be adding conversational to its search platform and it should be well received.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danielnewman/2023/04/25/the-race-continues-google-search-set-to-be-backed-by-conversational-ai/",
-      "originalUrl": "https://www.forbes.com/sites/danielnewman/2023/04/25/the-race-continues-google-search-set-to-be-backed-by-conversational-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644827328980223119f33129/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2023/04/25/the-race-continues-google-search-set-to-be-backed-by-conversational-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/04/25/the-race-continues-google-search-set-to-be-backed-by-conversational-ai/amp/",
-      "publishedDateTime": "2023-04-25T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-rsac-2023-securityscorecard-launches-first-gpt-4-security-ratings-platform.md",
-      "title": "RSAC 2023: SecurityScorecard launches ‘first’ GPT-4 security ratings platform",
-      "excerpt": "At RSAC 2023 in San Francisco, SecurityScorecard announced the launch of the 'first' GPT-4 security ratings platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/rsac-2023-securityscorecard-launches-first-gpt-4-security-ratings-platform/",
-      "originalUrl": "https://venturebeat.com/security/rsac-2023-securityscorecard-launches-first-gpt-4-security-ratings-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/VB_security-breach-padlock_3_1200x800.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/rsac-2023-securityscorecard-launches-first-gpt-4-security-ratings-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/rsac-2023-securityscorecard-launches-first-gpt-4-security-ratings-platform/amp/",
-      "publishedDateTime": "2023-04-25T12:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-coca-cola-makes-bubbly-bets-on-ai-for-creative-customer-service.md",
-      "title": "Coca-Cola makes bubbly bets on AI for creative, customer service",
-      "excerpt": "In its first-quarter earnings release yesterday, The Coca-Cola Company made it clear that a focus on AI has become a 2023 priority.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/coca-cola-makes-bubbly-bets-on-ai-for-creative-customer-service/",
-      "originalUrl": "https://venturebeat.com/ai/coca-cola-makes-bubbly-bets-on-ai-for-creative-customer-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/Untitled-design-54.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/coca-cola-makes-bubbly-bets-on-ai-for-creative-customer-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/coca-cola-makes-bubbly-bets-on-ai-for-creative-customer-service/amp/",
-      "publishedDateTime": "2023-04-25T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

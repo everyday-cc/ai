@@ -71,6 +71,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "The internet is already racist. AI chatbots are making it worse."
+    excerpt: "Google's C4 data set, which is used to instruct AIs like Facebook’s LlaMa and Google’s own T5, draws content from far-right sites."
+    publishedDateTime: 2023-04-26T19:30:00Z
+    webUrl: "https://www.msnbc.com/opinion/msnbc-opinion/internet-already-racist-s-chatbots-make-worse-rcna81569"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp/rcna81569"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/rcna81569"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 57
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/230426-AI-Racism-jg-a89654.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
 
 secured: "nxHAteYfWm6r+lXSxQ54zY0Ysa5S/JrcQz1hR4mVU1gdBHaBD4fXgC3QinJr5y+kRuVh+4NwN7HpRD/WFrjG8qUxNl96xYDa0KAoV9/lyD7M33806/BKjSa1eFEJuQfE8VXDMsjOg4X/1WZ+nF66iDLoNpjtPFSJlZUkD/xw0pMvbdvQdWayLLqIR5T+tFAbuON/ZmIwlW0iK71j0UNRZGWaic0cmfmRejAWcPN1ojyJRC/RCKBejdrz+v3et9Ga0kH4hJEADCYL3BsEF/O1YBY6ZSvaz/eQQBdb4JySn3oiCwfC1yrjyvmA1MoqhX/FOqn56EsNRjNdbHPke0oPM9Qmbfz+pC+QHnqJWpQVnvo=;iB1sehHLWQS6e95/qAIm1g=="
 ---

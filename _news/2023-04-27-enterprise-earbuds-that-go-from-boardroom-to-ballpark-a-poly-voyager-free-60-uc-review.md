@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-26T19:18:00Z
 originalUrl: "https://www.forbes.com/sites/moorinsights/2023/04/26/enterprise-earbuds-that-go-from-boardroom-to-ballpark-a-poly-voyager-free-60-uc-review/"
 webUrl: "https://www.forbes.com/sites/moorinsights/2023/04/26/enterprise-earbuds-that-go-from-boardroom-to-ballpark-a-poly-voyager-free-60-uc-review/"
 type: article
+quality: 25
+heat: 25
+published: false
 
 provider:
   name: Forbes

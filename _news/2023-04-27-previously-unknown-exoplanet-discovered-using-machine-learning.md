@@ -6,6 +6,9 @@ publishedDateTime: 2023-04-26T19:51:00Z
 originalUrl: "https://www.digitaltrends.com/space/exoplanet-discovered-machine-learning/"
 webUrl: "https://www.digitaltrends.com/space/exoplanet-discovered-machine-learning/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Digital Trends
