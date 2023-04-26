@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-use-microsoft-edges-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-microsoft-edges-integrated-bing-ai-image-creator/"
 type: article
 quality: 104
-heat: 244
+heat: 294
 published: true
 
 provider:
@@ -46,6 +46,50 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107217766-1680185818324-gettyimages-1248335425-raa-openaich230315_npwTZ.jpeg?v=1682370030"
         width: 5784
         height: 3848
+        isCached: true
+  - title: "Microsoft shares up 8.3% as AI features give a boost to sales"
+    excerpt: "Redmond-based company exceeded analysts’ estimates, driven by its cloud computing and Office software businesses"
+    publishedDateTime: 2023-04-25T22:55:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/apr/25/microsoft-shares-up-chatgpt-bing-search-engine"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/apr/25/microsoft-shares-up-chatgpt-bing-search-engine"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/apr/25/microsoft-shares-up-chatgpt-bing-search-engine"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 91
+    images:
+      - url: "https://i.guim.co.uk/img/media/d1c853790f13f2c449fd86914a709aa0d50098b7/0_319_5454_3273/master/5454.jpg?width=620&quality=85&auto=format&fit=max&s=60879d716284ba1a084e6624e792ffda"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Microsoft Sees AI Shaking Up Search While Google Calms Investors"
+    excerpt: "Alphabet Inc.’s Google and Microsoft Corp., whose quarterly earnings each got a boost from their established search and cloud-computing businesses, used their time with investors to emphasize what’s next: artificial intelligence."
+    publishedDateTime: 2023-04-26T00:16:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-04-26/microsoft-sees-ai-shaking-up-search-while-google-calms-investors"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTTD4u4LZG8Q/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Microsoft leans on its AI prowess to deliver a surprising quarterly earnings beat"
+    excerpt: "Microsoft's (MSFT) better-than-feared fiscal third-quarter results, coupled with solid revenue guidance, sent shares soaring in afterhours trading."
+    publishedDateTime: 2023-04-25T22:00:00Z
+    webUrl: "https://www.cnbc.com/2023/04/25/microsoft-leans-on-its-ai-prowess-to-deliver-an-earnings-beat.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 79
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107190377-1675796187369-bing-edge-launch.PNG?v=1682467220&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Amid Microsoft-Google AI Rivalry, Apple Could Be The Winner 'No Matter Where Industry Goes:' Analyst"
     excerpt: "Artificial Intelligence (AI) tech is an $800 billion market opportunity over the next decade as it pervades into the enterprise and consumer tech space, said Wedbush analyst Daniel Ives in a recent note."
@@ -105,28 +149,47 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Persistent Establishes Dedicated Microsoft Viva Practice Integrated with Generative AI"
-    excerpt: "Expands existing Azure Center of Excellence with AI-based Modern Workplace solutionsPUNE, India and SANTA CLARA, Calif., April 21, 2023"
-    publishedDateTime: 2023-04-21T08:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/persistent-establishes-dedicated-microsoft-viva-practice-integrated-with-generative-ai-1032249105"
+  - title: "Microsoft Q3 Earnings Report: Generative AI Brings In New Customers"
+    excerpt: "Despite generative artificial intelligence’s recent surge in popularity, Microsoft is already seeing new customers and new money-making opportunities – good news for early-ado"
+    publishedDateTime: 2023-04-26T01:33:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-q3-earnings-report-generative-ai-brings-in-new-customers"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
-  - title: "Microsoft reports boost in profits, revenue, as it pushes AI"
-    excerpt: "Microsoft on Tuesday reported a 9% increase in profit for the January-March quarter, as growth in cloud computing sales helped bolster its plans to expand its use of artificial intelligence"
-    publishedDateTime: 2023-04-25T20:47:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/microsoft-reports-boost-profits-revenue-pushes-ai-98841359"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: CRN
+      domain: crn.com
     quality: 54
     images:
-      - url: "https://s.abcnews.com/images/Business/wirestory_c64ccdc3db334f544cecf521e0a61209_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.crn.com/resources/0280-17d4ceec3a43-8e4af63e8e24-1000/satya-nadella-2021.jpeg"
+        width: 611
+        height: 458
+        isCached: true
+  - title: "Microsoft reports boost in profits, revenue, as it pushes AI"
+    excerpt: "Analysts polled by FactSet expected Microsoft to post revenue of $51.02 billion for the quarter. The quarter marked an ambitious push by Microsoft to capitalize on its investments in artificial intelligence and partnership with San Francisco-based startup OpenAI with the February release of a new AI chatbot feature on its search engine Bing."
+    publishedDateTime: 2023-04-26T01:23:00Z
+    webUrl: "https://www.houstonchronicle.com/business/article/microsoft-reports-boost-in-profits-revenue-as-17918131.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 54
+    images:
+      - url: "https://s.hdnux.com/photos/01/32/36/44/23718180/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Microsoft’s AI-driven surge could keep rally running"
+    excerpt: "Having helped underpin this year’s rally, Microsoft delivered a combination of strong March quarter numbers and AI blue sky to send its stock soaring."
+    publishedDateTime: 2023-04-26T01:15:00Z
+    webUrl: "https://www.afr.com/chanticleer/microsoft-s-ai-driven-surge-could-keep-rally-running-20230426-p5d3ch"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 54
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.7933%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_91/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/4fb82f3e241731b3a369156a5495d58018ec20dd"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Microsoft earnings: AI hype could take backseat to cloud growth troubles"
     excerpt: "A busy day for corporate earnings on Tuesday will be highlighted by Microsoft's latest report, expected to offer new updates on the company's AI initiatives."
@@ -185,6 +248,20 @@ related:
       - url: "https://blogs.microsoft.com/wp-content/uploads/prod/2023/04/Hero-image-April-24-1024x540.jpg"
         width: 1024
         height: 540
+        isCached: true
+  - title: "Microsoft beats expectations and forecasts strong revenue growth driven by investments in AI"
+    excerpt: "Microsoft Corp. delivered a strong earnings and revenue beat, grew its operating income and forecast another solid beat for the coming quarter, sending its shares up more than 8% in late trading today."
+    publishedDateTime: 2023-04-26T01:28:00Z
+    webUrl: "https://siliconangle.com/2023/04/25/microsoft-beats-expectations-forecasts-strong-revenue-growth-driven-investments-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 43
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/14471446417_6edb11e8ad_k.jpg"
+        width: 2048
+        height: 1360
         isCached: true
   - title: "Microsoft Previews Defender for APIs in Defender for Cloud"
     excerpt: "Microsoft this week introduced a preview of a new 'Microsoft Defender for APIs' security solution, which is part of the Microsoft Defender for Cloud service."

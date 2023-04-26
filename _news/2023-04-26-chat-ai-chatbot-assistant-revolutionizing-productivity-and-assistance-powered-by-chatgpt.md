@@ -213,6 +213,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Russia’s biggest bank unveils GigaChat, another rival to ChatGPT"
+    excerpt: "Russian lender Sberbank released GigaChat, initially in an invite-only testing mode, joining the AI chatbot race."
+    publishedDateTime: 2023-04-26T00:30:00Z
+    webUrl: "https://techwireasia.com/2023/04/russias-biggest-bank-unveils-gigachat-another-rival-to-chatgpt/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 41
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/04/shutterstock_1950040216-scaled.jpg"
+        width: 2560
+        height: 1631
+        isCached: true
   - title: "ChatGPT craze drives domestic innovation"
     excerpt: "\"Technologies behind ChatGPT are not new to market players, but ChatGPT represents how AI has evolved and progressed over the past few years. Also, it demonstrates the popularity of the NLP market and brings forward the market one to two years,"
     publishedDateTime: 2023-04-24T23:40:00Z

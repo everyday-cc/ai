@@ -107,6 +107,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Industrial Market Demand by 2031"
+    excerpt: "The latest market research report on the Global \"Artificial Intelligence in Industrial Market\" is segmented by"
+    publishedDateTime: 2023-04-25T11:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-industrial-market-demand-by-2031-2023-04-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mobile Artificial Intelligence Market Demand by 2031"
     excerpt: "The latest market research report on the Global \"Mobile Artificial Intelligence Market\" is segmented by Regions,"
     publishedDateTime: 2023-04-24T08:46:00Z
@@ -130,6 +144,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
+  - title: "Natural Language Processing (NLP) Software Market 2023, Size And Share An Expand Worldwide Business Opportunities"
+    excerpt: "Natural Language Processing (NLP) Software Market Size 2023 | New Report (99 Pages) | Analytics | In This Reports"
+    publishedDateTime: 2023-04-25T11:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-2023-size-and-share-an-expand-worldwide-business-opportunities-2023-04-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "gIMTpf4bRCvgJDmG4zUrY6r5SSz0FwtwxS2J0+rYJcQZ8DEEvckbYYatCYdF7IKNCeDCOz+roMXl0ShYxHNvERydP7n/zgmXfl8mK2fe+ByFmz9iSyodTU2/t7nlnPRF195W1N/zLEadM/imVlgemfql3uyhScclK4FUvfXqGEOTdYrEJdac1wzCN/lJFg1r6hhue24J5QBmbIKP7NNxkX+gAOJ8BJbi5QkxaSllAFOUjk5g2Hs8GPF6c4omkeSOPw8Ve7LS53Sa00ahIx5FLblmg7sm5cMkEqLVIA52Lvyibvfbg9XYHATt8oDUR86twGRqvtEEvTYYetawNogjZj848W9YUIFRus7DwqjaHSc=;bv2CK3tcgR2ADoWC/UCHjw=="
 ---

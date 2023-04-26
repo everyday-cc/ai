@@ -39,6 +39,20 @@ related:
         width: 1500
         height: 1008
         isCached: true
+  - title: "Japanese AI researchers advise chatbot users to be aware of pros and cons"
+    excerpt: "Japanese researchers specializing in artificial intelligence are advising caution when using generative AIs, saying the technology is still a work in progress."
+    publishedDateTime: 2023-04-26T00:57:00Z
+    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20230426_07/"
+    type: article
+    provider:
+      name: NHK
+      domain: nhk.or.jp
+    quality: 38
+    images:
+      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20230426_07_1247836_L.png"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "ZqX0PbZlsBGOUB5OLO9ALT4kRL3CJsjB9emWF8YYd9EqlCtbtH7VJFOhpRwvZvOG4fBqXpIOU+oD1GzTiDDqILsF8bTrtfm6BF9VfbXG2x0g+tgm7T35Ik6ggp9CEfGagfMEF2j9QdV6nkavzb5nIfVfHbhZU9F44L7ktn1lq0JFWBTO5xzGUZXkGyFREs/b9KoBk7krmQ/W3DTY/oOfk2SGzT0W/GzhFodT/AwNaeSK0GSjyRIS6uGz6qKHWlfjlzWH4azZulzFYqUzS2MYgRU6f/LhAEpMXNThqk18cLZuGWRKoY+DLHnzlAbYG+dA0SVEgdt/kvFR28A+afC4P7RQ/+gakI3xBT31EsViaDg=;UAnknXFCMLoZJUIua9ZVwg=="
 ---

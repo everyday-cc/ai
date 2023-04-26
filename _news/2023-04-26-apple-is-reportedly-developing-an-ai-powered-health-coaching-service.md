@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/04/25/apple-is-reportedly-developing-an-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/25/apple-is-reportedly-developing-an-ai-powered-health-coaching-service/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 119
 published: true
 
 provider:

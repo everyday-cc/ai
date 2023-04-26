@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AI startups to watch"
-    excerpt: "Amid a turbulent year for the tech sector, one that has brought layoffs, funding pullbacks and the failure of the industry's favorite bank, artificial intelligence has emerged as"
-    publishedDateTime: 2023-04-21T18:33:00Z
-    webUrl: "https://www.bizjournals.com/philadelphia/news/2023/04/21/ai-startups-to-watch.html"
-    ampWebUrl: "https://www.bizjournals.com/bizjournals/news/2023/04/21/ai-startups-to-watch.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/bizjournals/news/2023/04/21/ai-startups-to-watch.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 37
   - title: "Why Facebook Parent Meta Is Scrambling to Catch Up on AI Technology"
     excerpt: "Meta has also been slow to adopt expensive AI-friendly hardware and software systems for its main business, hobbling its innovation in the field of AI."
     publishedDateTime: 2023-04-25T12:29:00Z

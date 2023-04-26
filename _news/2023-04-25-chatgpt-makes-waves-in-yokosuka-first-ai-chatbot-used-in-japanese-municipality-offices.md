@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/04/25/chatgpt-yokosuka-administrat
 webUrl: "https://www.gizmochina.com/2023/04/25/chatgpt-yokosuka-administration-breakthrough/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Japanese AI researchers advise chatbot users to be aware of pros and cons"
+    excerpt: "Japanese researchers specializing in artificial intelligence are advising caution when using generative AIs, saying the technology is still a work in progress."
+    publishedDateTime: 2023-04-26T00:57:00Z
+    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20230426_07/"
+    type: article
+    provider:
+      name: NHK
+      domain: nhk.or.jp
+    quality: 38
+    images:
+      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20230426_07_1247836_L.png"
+        width: 640
+        height: 360
+        isCached: true
   - title: "AI developers must ‘learn to dance with shackles on’ as China makes new rules in a post-ChatGPT world"
     excerpt: "Cyberspace administration releases draft measures for generative AI services as China, and countries around the world, grapple with impact. With ‘socialist core values’ a focus for Beijing, Tsinghua academic outlines four areas of risk for China: technical;"
     publishedDateTime: 2023-04-25T08:45:00Z

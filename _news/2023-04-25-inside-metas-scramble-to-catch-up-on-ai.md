@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/inside-metas-scramble-catch-up-
 webUrl: "https://www.reuters.com/technology/inside-metas-scramble-catch-up-ai-2023-04-25/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -45,17 +45,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "AI startups to watch"
-    excerpt: "Amid a turbulent year for the tech sector, one that has brought layoffs, funding pullbacks and the failure of the industry's favorite bank, artificial intelligence has emerged as"
-    publishedDateTime: 2023-04-21T18:33:00Z
-    webUrl: "https://www.bizjournals.com/philadelphia/news/2023/04/21/ai-startups-to-watch.html"
-    ampWebUrl: "https://www.bizjournals.com/bizjournals/news/2023/04/21/ai-startups-to-watch.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/bizjournals/news/2023/04/21/ai-startups-to-watch.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 37
   - title: "Why Facebook Parent Meta Is Scrambling to Catch Up on AI Technology"
     excerpt: "Meta has also been slow to adopt expensive AI-friendly hardware and software systems for its main business, hobbling its innovation in the field of AI."
     publishedDateTime: 2023-04-25T12:29:00Z
@@ -66,6 +55,6 @@ related:
       domain: gadgets360.com
     quality: 19
 
-secured: "t4lyQ3DJ4McGvbHOD3Yty6OWs1fjKJjHGEeHEdyUl/VuodumdMxQwcrU0APSr4QImgZ1IoXBVbxh6QAW2u7qTUdybdJSjhB6xTS1Ega8BNBLackMAGEl7alkjAmWDWnVb4kkCmgVCSOJCo7JU4oabemGQFw6Lan0Wn5/UQ18NmGU7jjcj0C84uHyr2chgXA4jk3NmXDAq3/LaqDqhAyvPo2KUA7u0iWRS+aVCjVwci+l/6s5kq/nmne/TsPsPSdf0DFiXzYVrL+x7RVgZUy4tjsKj4732LJsUnGQCIwzlX16mMHl/pLeJmN0xrE3WYCtphiozmKlI059D3uhKiaazo3vuVtSm2YyLxokTYEpdBQ=;agbvb+2RTKPvun9BM+21OA=="
+secured: "PES3sXtZI5F35zsrvBbem5zpho7OQHkNHqodbmXoyKjZHc6D102mdbCdfdUCB7cHVp0RVProBvojB0eXug7uYr2G7LJTY44oxheGaQHPnd1bBuZXqRfq+zy8ueeYk4Tn4a6DD6+Fx4vOQ5f+G67AYbT2CRlMZjN5f2u80RY2i84Q30YYw9bKhcpjDYmvXIYVjakdKEw8vLp8Qpl5Y8ybAnasDGXinnrXBtE7Kad7bLQt+QMfX3BlFi2vcEWtxgQpfnQdbSs7zlsbscIX5cXuWDKnHHBwt5vbffs6SnbZs/NnPF/AVfOSDLsXnbX93X9YmNWaOv2hDIjWMGNJnwgMW+++zlNeIDcoFwLZLtTO7IuddLpaFXX2IP/Q//MTR4Acg5JXC+2dqkhL5QkHoN1xbfeNhkvM26dLshSdbj4RqbCdsl40A0l0ze9PXebvC4rMHfRa4WFaLwtc6H5w+oOcKvRtuw3o+neBdtgLULrC9wEfZvp5aWPnjq0g7f0vKxHYqG6kSay77tRq2pXcCQ+yfA==;MwGk0EHZevKKdM8QprlZaA=="
 ---
 

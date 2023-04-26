@@ -49,17 +49,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "AI startups to watch"
-    excerpt: "Amid a turbulent year for the tech sector, one that has brought layoffs, funding pullbacks and the failure of the industry's favorite bank, artificial intelligence has emerged as"
-    publishedDateTime: 2023-04-21T18:33:00Z
-    webUrl: "https://www.bizjournals.com/philadelphia/news/2023/04/21/ai-startups-to-watch.html"
-    ampWebUrl: "https://www.bizjournals.com/bizjournals/news/2023/04/21/ai-startups-to-watch.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/bizjournals/news/2023/04/21/ai-startups-to-watch.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 37
 
 secured: "xPpQkR/9WD5b3k0W0t3ZMjSNcWPyyhYs7jHnS7I3uyjseXhCNsZhQ4GooWG30uZ290udVKgl89qBodeMm2UhDe3PgGcmA0llA2bgGEtafYnyQNBe0dd2wdJTd0dPab5PtxCRCvt2Y+IkD/dbygi/amIweBZtIpoZx4afwFcnG/3SOY+4kkwm17qeQqq7t9qWT8igAp43LwC8RQCt0U5qs5dSnXCTIt3qG+UQ8bJFCgn661saE2ke5YqCVh+u0gO3mMAJj7dGFjBGT7EAWmaMJPqrvrB/KrlZ0QoGM58svkUPu2GUeh51ZamuQsPcM+9vS6ei6No1SZ0fdplkKcSZVwxlAkgkjfxGPrxF56t6zvmZDX0+HhTzBsL8WZUtAK50R2hKfItwNxVgPdPsrhJW6e69BVgFhlhKI5TFZif/6L+MT21Q0GNR7eP8zch1/9ItjiIhIu0s7/Q5EijRHYcKq/dD7vKoxKZmaX03oRl93lJzuCx/+TUZtjDRhDnHHoZJCRL0w8NPNSJrubd77eR6PQ==;0L9Lej2pjTFoli3VcqSUCQ=="
 ---
